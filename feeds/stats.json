@@ -3,7 +3,7 @@
 ---
 
 [
-    {% for post in site.tags.stats limit:5 %}
+    {% for post in site.tags.stats limit:25 %}
     {
       "uid": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
       "redirectionUrl": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
