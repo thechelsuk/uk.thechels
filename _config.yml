@@ -5,7 +5,6 @@ description:    "Father, Husband, Gentleman, Insomniac, Developer, Tester, Analy
 author:         ChelseaStats
 url:            https://thechels.uk
 copyright:      "<a href='https://twitter.com/ChelseaStats'>ChelseaStats</a> Limited, Registered in England and Wales. Company Number 07269584."
-limit:          100
 encoding:       UTF-8
 future:         false
 exclude:        ["README"]
