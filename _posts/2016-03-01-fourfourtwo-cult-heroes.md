@@ -2,7 +2,7 @@
 layout: post
 title: FourFourTwo - Cult Heroes - Gianfranco Zola
 tag:
- - other
+ - chelsea
 ---
  
 > It’s almost unheard of these days that a Chelsea player would be universally liked...
