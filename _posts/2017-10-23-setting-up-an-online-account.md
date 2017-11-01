@@ -2,7 +2,7 @@
 layout: post
 title: Setting up an online account
 tag: 
- - workflow
+ - productivity
 ---
  
 Before signing up to any website or service I go through the following process:
