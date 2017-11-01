@@ -1,7 +1,6 @@
 ---  
 layout: post
 title: Secret Hitler - president picks investigator
-date: 2017-10-31T00:13:49Z
 tag:
   - other
 ---
@@ -13,4 +12,4 @@ The chancellor cannot realistically conflict here as they will just be declared 
 
 In most cases the fascist would play blue to remain hidden.
 
-the optimum time to do this play would be on a 4-1 or 4-2 liberal board.
+The optimum time to do this play would be on a 4-1 or 4-2 liberal board.
