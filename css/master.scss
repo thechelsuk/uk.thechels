@@ -424,12 +424,15 @@ cite {
 }
 
 .topic.selected {
-  border-radius: 4px;
+    border-radius: 4px;
+    padding: 3px 6px;
+    font-family: 'Lato','San Francisco','Gill Sans',sans-serif;
+    text-decoration: none;
+}
+
+.topic.selected {
   background: #ea1;
   color: #fff;
-  padding: 3px 6px;
-  font-family: 'Lato', 'San Francisco', 'Gill Sans', sans-serif;
-  text-decoration: none;
 }
 
 .floated {

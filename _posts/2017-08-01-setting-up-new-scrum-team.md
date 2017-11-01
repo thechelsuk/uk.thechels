@@ -2,7 +2,7 @@
 layout: post
 title: Setting up a new scrum team
 tags:
-  - agile
+  - productivity
 ---  
 
 #### A checklist

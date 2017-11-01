@@ -2,7 +2,7 @@
 layout: post
 title: News consumption and read later.
 tags:
-  - workflow
+  - productivity
 ---
 
 I subscribe to all RSS feeds on Feedly with their free tier. I stay on their title list view. A touch on iOS adds the news item to their 'saved for later' tag. A click of the bookmark icon on other devices does the same.
