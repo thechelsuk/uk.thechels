@@ -17,6 +17,7 @@
   "items": [
     
     {% assign posts = site.posts | where_exp: site.tags != "stats" limit:25 %}
+    {% for post in posts %}
     {
       "id": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
       "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
