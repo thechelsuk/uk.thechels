@@ -1,12 +1,13 @@
 ---
+# front matter comment - find and replace *tag* with tag name
 ---
 
 {
   "version": "https://jsonfeed.org/version/1",
-  "title": {{ site.title | append: " tagged agile" | jsonify }},
-  "description": "Posts tagged  'agile'",
+  "title": {{ site.title | append: " tagged *tag*" | jsonify }},
+  "description": "Posts tagged  '*tag*'",
   "home_page_url": "{{ site.url }}",
-  "feed_url": "{{ site.url }}/agile.json",
+  "feed_url": "{{ site.url }}/*tag*.json",
   "favicon": "{{ site.url}}/favicon.png",
   {% if site.author %}
   "author": {
@@ -15,7 +16,7 @@
   {% endif %}
   "items": [
     
-    {% for post in site.tags.agile limit:25 %}
+    {% for post in site.tags.*tag* limit:25 %}
     {
       "id": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
       "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
