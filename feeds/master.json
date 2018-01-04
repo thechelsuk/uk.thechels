@@ -16,7 +16,7 @@
   {% endif %}
   "items": [
     
-    {% assign posts = site.posts | where_exp: "tag", "tag != stats" limit:25 %}
+    {% assign posts = site.posts | where_exp: site.tags != "stats" limit:25 %}
     {
       "id": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
       "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
