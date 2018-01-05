@@ -16,16 +16,17 @@
   {% endif %}
   "items": [
       {% for post in posts | limit:25 %}
-        {% unless post.tags contains 'stats' %}
-          {
-            "id": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
-            "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
-            "title": {{ post.title | jsonify }},
-            "content_html": {{ post.content | jsonify  }},
-            "date_published": "{{ post.date | date_to_rfc822 }}",
-            "tagged": "{{ post.tag }}"
-            }{% unless forloop.last %},{% endunless %}
-        {% endunless %}
+        {% assign input = post.tags | split:"," %}
+          {% unless input contains 'stats' %}
+            {
+              "id": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
+              "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
+              "title": {{ post.title | jsonify }},
+              "content_html": {{ post.content | jsonify  }},
+              "date_published": "{{ post.date | date_to_rfc822 }}",
+              "tagged": "{{ post.tag }}"
+              }{% unless forloop.last %},{% endunless %}
+          {% endunless %}
      {% endfor %}
   ]
 }
