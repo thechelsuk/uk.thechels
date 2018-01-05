@@ -15,8 +15,7 @@
   },
   {% endif %}
   "items": [
-    
-    {% assign posts = site.posts | where_exp: "tags", "site.data.tags != stats" %}
+    {% unless post.tags contains 'stats' %}
     {% for post in posts | limit:25 %}
     {
       "id": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
@@ -27,5 +26,6 @@
       "tagged": "{{ post.tag }}"
       }{% unless forloop.last %},{% endunless %}
     {% endfor %}
+    {% endunless %}
   ]
 }
