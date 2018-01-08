@@ -7,6 +7,7 @@
   "title": {{ site.title | jsonify }},
   "description": {% if site.description %}{{ site.description | jsonify }}{% endif %},
   "home_page_url": "{{ site.url }}",
+  "version": "1.2",
   "feed_url": "{{ site.url }}/feed.json",
   "favicon": "{{ site.url}}/favicon.png",
   {% if site.author %}
