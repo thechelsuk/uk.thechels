@@ -16,7 +16,7 @@
   {% endif %}
   "items": [
       {% for post in posts | limit:25 %}
-          {% unless post.tags contains 'stats' %}
+          {% unless post.tag contains 'stats' %}
             {
               "id": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
               "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
