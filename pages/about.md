@@ -12,7 +12,6 @@ category: pages
 + <a href="https://twitter.com/ChelseaStats">ChelseaStats</a>.
 + <a href="https://twitter.com/tocfcws">tocfcws</a>.
 + <a href="https://twitter.com/19thMayBot">19thMayBot</a>.
-+ <a href="https://twitter.com/BullShitAntontio">BullShitAntontio</a>.
 + <a href="https://twitter.com/AgileCheltenham">AgileCheltenham</a>.
   
  
