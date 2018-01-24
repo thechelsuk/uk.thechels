@@ -1,8 +1,7 @@
----  
-layout: post
-title: Books read in 2017
-tag:
-  - lists
+---
+layout: default
+title:  What I am reading
+category: pages
 ---
 
 #### Running
