@@ -9,7 +9,7 @@ ID,App
 08,Ifttt
 09,Reddit
 10,Stack Exchange
-11,Screeny
+11,Lire
 12,Launch
 13,Amount
 14,Sky-Service
@@ -23,19 +23,21 @@ ID,App
 22,National Rail
 23,Google-Maps
 24,Kindle
+25,Remember the Milk
 26,Whatsapp
 27,BBC Iplayer
-31,BT Sport
-32,Amazon Video
-33,Speedtest
-34,Pluralsight
-35,Amazon Music
-36,Pythonista
-37,Slack
-38,Strava
-39,Fitbit
-40,Bobby
-41,OneNote
-42,Working Copy
-43,1Password
-44,Garmin Connect
+28,BT Sport
+29,Amazon Video
+30,Speedtest
+31,Pluralsight
+32,Amazon Music
+33,Pythonista
+34,Slack
+35,Strava
+36,Fitbit
+37,Bobby
+38,OneNote
+39,Working Copy
+40,1Password
+41,Garmin Connect
+42,G-Suite
