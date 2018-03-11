@@ -2,14 +2,14 @@ ID,App
 01,Tweetbot
 02,Dropbox
 03,Statszone
-04,Castro
+04,Overcast
 05,Feedly
 06,Drafts
 07,Workflow
 08,Ifttt
 09,Reddit
 10,Stack Exchange
-11,Screeny
+11,Lire
 12,Launch
 13,Amount
 14,Sky-Service
@@ -22,17 +22,22 @@ ID,App
 21,Crosscountry Trains
 22,National Rail
 23,Google-Maps
-24,Interflora
-25,Kindle
+24,Kindle
+25,Remember the Milk
 26,Whatsapp
-27,Scany
-28,Sky+
-29,Super6 (Sky)
-30,BBC Iplayer
-31,BT Sport
-32,Amazon Video
-33,Speedtest
-34,Pluralsight
-35,Amazon Music
-36,Pythonista
-37,Slack
+27,BBC Iplayer
+28,BT Sport
+29,Amazon Video
+30,Speedtest
+31,Pluralsight
+32,Amazon Music
+33,Pythonista
+34,Slack
+35,Strava
+36,Fitbit
+37,Bobby
+38,OneNote
+39,Working Copy
+40,1Password
+41,Garmin Connect
+42,G-Suite
