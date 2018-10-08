@@ -12,7 +12,7 @@ Before signing up to any website or service I go through the following process:
     - on site
     - on search engine
  - search for two factor authentication options
- - search for integrations (ifttt, workflow.app etc)
+ - search for integrations (ifttt, shortcuts.app, other automation tools, etc)
 + read TOCs and privacy policy
 + look at subscription options
 + create account with throw away email address and password
