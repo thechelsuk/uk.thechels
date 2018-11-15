@@ -1,38 +1,39 @@
-Tweetbot
-Scriptable
-Shortcuts
-Dropbox
-Statszone
-Castro
-Feedly
-Drafts
-Strava
-Bobby
-Working Copy
-1Password
-Garmin Connect
-G-Suite
-Ifttt
-Reddit
-Stack Exchange
-Lire
-Launch center Pro
-Amount
-Sky-Service
-Three
-Amazon
-Paypal
-Hsbc
-Barclaycard
-Tube-Map
-Cross-country Trains
-National Rail
-Google-Maps
-Kindle
-Whatsapp
-BBC Iplayer
-BT Sport
-Amazon Video
-Amazon Alexa
-Speedtest
-Pluralsight
+{
+  "Scriptable": {},
+  "Shortcuts": {},
+  "Dropbox": {},
+  "Statszone": {},
+  "Castro": {},
+  "Feedly": {},
+  "Drafts": {},
+  "Strava": {},
+  "Bobby": {},
+  "Working Copy": {},
+  "1Password": {},
+  "Garmin Connect": {},
+  "G-Suite": {},
+  "Ifttt": {},
+  "Reddit": {},
+  "Stack Exchange": {},
+  "Lire": {},
+  "Launch center Pro": {},
+  "Amount": {},
+  "Sky-Service": {},
+  "Three": {},
+  "Amazon": {},
+  "Paypal": {},
+  "Hsbc": {},
+  "Barclaycard": {},
+  "Tube-Map": {},
+  "Cross-country Trains": {},
+  "National Rail": {},
+  "Google-Maps": {},
+  "Kindle": {},
+  "Whatsapp": {},
+  "BBC Iplayer": {},
+  "BT Sport": {},
+  "Amazon Video": {},
+  "Amazon Alexa": {},
+  "Speedtest": {},
+  "Pluralsight": {}
+}
