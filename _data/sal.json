@@ -2,181 +2,73 @@
   {
     "date": "2006-03-13",
     "salary": 16500,
-    "pension": "",
-    "NI": "",
-    "childcare": "",
-    "student": "",
-    "tax": "",
-    "take": ""
   },
   {
     "date": "2006-05-13",
     "salary": 17000,
-    "pension": "",
-    "NI": "",
-    "childcare": "",
-    "student": "",
-    "tax": "",
-    "take": ""
   },
   {
     "date": "2006-08-01",
     "salary": 17300,
-    "pension": "",
-    "NI": "",
-    "childcare": "",
-    "student": "",
-    "tax": "",
-    "take": ""
   },
   {
     "date": "2007-08-01",
     "salary": 18000,
-    "pension": "",
-    "NI": "",
-    "childcare": "",
-    "student": "",
-    "tax": "",
-    "take": ""
   },
   {
     "date": "2008-08-01",
     "salary": 18800,
-    "pension": "",
-    "NI": "",
-    "childcare": "",
-    "student": "",
-    "tax": "",
-    "take": ""
   },
   {
     "date": "2008-09-01",
     "salary": 21100,
-    "pension": "",
-    "NI": "",
-    "childcare": "",
-    "student": "",
-    "tax": "",
-    "take": ""
   },
   {
     "date": "2009-08-01",
     "salary": 22500,
-    "pension": "",
-    "NI": "",
-    "childcare": "",
-    "student": "",
-    "tax": "",
-    "take": ""
   },
   {
     "date": "2010-08-01",
     "salary": 24650,
-    "pension": "",
-    "NI": "",
-    "childcare": "",
-    "student": "",
-    "tax": "",
-    "take": ""
   },
   {
     "date": "2011-08-01",
     "salary": 28000,
-    "pension": "",
-    "NI": "",
-    "childcare": "",
-    "student": "",
-    "tax": "",
-    "take": ""
   },
   {
     "date": "2012-08-01",
     "salary": 31950,
-    "pension": "",
-    "NI": "",
-    "childcare": "",
-    "student": "",
-    "tax": "",
-    "take": ""
   },
   {
     "date": "2013-08-01",
     "salary": 32365,
-    "pension": "",
-    "NI": "",
-    "childcare": "",
-    "student": "",
-    "tax": "",
-    "take": ""
   },
   {
     "date": "2014-08-01",
     "salary": 32948,
-    "pension": "",
-    "NI": "",
-    "childcare": "",
-    "student": "",
-    "tax": "",
-    "take": ""
   },
   {
     "date": "2015-08-01",
     "salary": 33442,
-    "pension": "",
-    "NI": "",
-    "childcare": "",
-    "student": "",
-    "tax": "",
-    "take": ""
   },
   {
     "date": "2016-08-01",
     "salary": 34111,
-    "pension": 170.55,
-    "NI": "",
-    "childcare": "",
-    "student": 122,
-    "tax": 342.8,
-    "take": 1947.55
   },
   {
     "date": "2017-08-01",
     "salary": 34895,
-    "pension": 174.48,
-    "NI": 238.07,
-    "childcare": 243,
-    "student": 106,
-    "tax": 306.42,
-    "take": 1839.76
   },
   {
     "date": "2018-02-01",
     "salary": 36699,
-    "pension": 183.35,
-    "NI": "",
-    "childcare": 243,
-    "student": 119.84,
-    "tax": 334.21,
-    "take": 1919.47
   },
   {
     "date": "2018-08-01",
     "salary": 37323,
-    "pension": 186.62,
-    "NI": 260.04,
-    "childcare": 243,
-    "student": 120,
-    "tax": 338.6,
-    "take": 1961.99
   },
   {
     "date": "2018-10-01",
     "salary": 44090,
-    "pension": 222,
-    "NI": 327,
-    "childcare": 243,
-    "student": 171,
-    "tax": 440,
-    "take": 2266
   }
 ]
