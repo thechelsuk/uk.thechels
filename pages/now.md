@@ -34,10 +34,10 @@ To read kindle library around coding and leadership
 
 ##  finance
 
-- [ ] To save enough to buy my wife an eternity ring, 
-- [ ] To buy myself latest iPhone in October 2019. 
-- [ ] To buy my family a holiday overseas. 
-- [ ] To buy usual array of birthday, seasonal and anniversary gifts as appropriate.
-- [ ] To get the front wall fixed.
-- [ ] The chimney stack removed
-- [ ] Garden fence fixed
+- To save enough to buy my wife an eternity ring.
+- To buy myself latest iPhone in October 2019. 
+- To buy my family a holiday overseas. 
+- To buy usual array of birthday, seasonal and anniversary gifts as appropriate.
+- To get the front wall fixed.
+- The chimney stack removed.
+- Garden fence fixed.
