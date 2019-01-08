@@ -4,8 +4,6 @@ title: Now
 category: pages
 ---
 
- Now
-
 What I am working on in 2019 in no particular order:
 
 ##  health and fitness 
