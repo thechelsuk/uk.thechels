@@ -1,10 +1,10 @@
 highlighter:    rouge
 permalink:      ./:title
 name:           TheChels
-description:    "Father, Husband, Gentleman, Insomniac, Lead Developer, Tester, Analyst, ScrumMaster, Commentator, Automator, Runner, Carefree, Liberal, and Champion."
+description:    "Father, Husband, Gentleman, Runner, Lead Software Developer, Product Owner, Tester, Analyst, ScrumMaster, Automator, Carefree, Liberal, and Champion."
 author:         ChelseaStats
 url:            https://thechels.uk
-copyright:      "<a href='https://twitter.com/ChelseaStats'>ChelseaStats</a>"
+copyright:      "<a href='https://twitter.com/tocfcws'>tocfcws</a>"
 encoding:       UTF-8
 future:         false
 exclude:        ["README"]
