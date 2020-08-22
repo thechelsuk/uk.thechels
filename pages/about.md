@@ -22,7 +22,13 @@ category: pages
 <a href="https://ifttt.com/p/chelseastats/shared">IFTTT</a>, 
 and 
 <a href="http://stackexchange.com/users/481238/chelseastats">StackExchange</a>.
-</p>            
+</p>
 
+#### Gear
 
-<p><a href="https://www.patreon.com/ChelseaStats">Help support the running of this site and twitter accounts on Patreon</a>
+- Shoes: New Balance 720v4s 
+- Jacket: Salomon wing hyrbid M
+- Backpack: Salomon Agile 12 set
+- Tops/Shorts: TCA
+- Watch: Apple Watch Series 4 40mm / Garmin ForeRunner 945
+- Apps: I use the workout activity on the Garmin and sync to Strava
