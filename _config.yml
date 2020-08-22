@@ -1,9 +1,9 @@
 highlighter:    rouge
 permalink:      ./:title
 name:           Benny
-description:    "notes"
+description:    "Notes"
 author:         "Mat Benfield"
-url:            https://matbenfield.github.io
+url:            https://thechels.uk
 copyright:      "Mat Benfield"
 encoding:       UTF-8
 future:         false
