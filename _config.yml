@@ -3,8 +3,8 @@ permalink:      ./:title
 name:           TheChels
 description:    "Father, Husband, Gentleman, Runner, Lead Software Developer, Product Owner, Tester, Analyst, ScrumMaster, Automator, Carefree, Liberal, and Champion."
 author:         ChelseaStats
-url:            https://old.thechels.uk
-copyright:      "<a href='https://twitter.com/tocfcws'>tocfcws</a>"
+url:            https://matbenfield.github.io/old/
+copyright:      "Mat Benfield"
 encoding:       UTF-8
 future:         false
 exclude:        ["README"]
