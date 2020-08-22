@@ -8,7 +8,7 @@ tag:
 
 Monday afternoon easy run for 5 miles, not the usual commute, having taken the day as leave.
 
-Unable to run wednesday as usual due to work commitments, so ended up with a shorter run on Thursday, and an even shorter one on Friday evening. 
+Unable to run wednesday as usual due to work commitments, so ended up with a shorter run on Thursday, and an even shorter one on Friday evening.
 
 Saturday was the usual ParkRun routine, clocking in at 23:04, I wasn't able to push from the start like last week due to the increased numbers and starting position.
 
