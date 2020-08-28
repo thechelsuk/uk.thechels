@@ -4,9 +4,25 @@ title: About
 category: pages
 ---
 
- Mat is an agile software developer and works as Head of Software Development based in the United Kingdom. Regular questions [Is there a crisis at Chelsea](https://isthereacrisis.thechels.uk), help people decide where to [go for lunch in Cheltenham](https://lunch.thechels.uk), [how to agile](https://ScrumRadiator.thechels.uk), and is most commonly known for tweeting to over 170,000 followers. You can see what [Mat is reading here](/pages/books)
+ Mat is an agile software developer and works as Head of Software Development based in the United Kingdom. Regularly questions [Is there a crisis at Chelsea](https://isthereacrisis.thechels.uk), helps people decide where to [go for lunch in Cheltenham](https://lunch.thechels.uk), [how to agile](https://ScrumRadiator.thechels.uk), and is most commonly known for tweeting to over 170,000 followers. You can also see what [Mat is reading here](/pages/books)
 
-#### Gear
+## Tech Gear
+
+- Apple iPhone XR
+- Apple Macbook Air mid 2012 (2ghz i7 8gb ram 128 gb ssd)
+
+## Software
+
+- VsCode
+- WorkingCopy
+- GitHub
+- Scriptable
+- Shortcuts
+- Chrome
+- Pixelmator
+- 1Password
+
+## Running Gear
 
 - Shoes:
   - Saucony Ride 2s
