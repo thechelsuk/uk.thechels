@@ -1,3 +1,3 @@
 # Website
 
-Personal website built on markdown, jekyll and ruby hosted for free on github.com
+A blog/website hosted on Github available at TheChels.uk. The site uses Jekyll, a static site generator, on Ruby. SSL by Cloudflare.
