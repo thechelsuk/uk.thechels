@@ -7,7 +7,7 @@ The following guidelines for contribution should be followed if you want to subm
 ## How to prepare
 
 * You need a [GitHub account](https://github.com/signup/free)
-* Submit an [issue ticket](https://github.com/MatBenfield/TheChels.uk/issues) for your issue if there is not one already.
+* Submit an [issue ticket](../../issues) for your issue if there is not one already.
 * Describe the issue and include steps to reproduce if it's a bug.
 * Ensure to mention the earliest version that you know is affected.
 
@@ -16,7 +16,7 @@ Please go ahead and add your info as outlined below.
 
 ## Using the issue tracker
 
-The issue tracker is the preferred channel for bug reports and features requests. Issues can also be raised by tweeting @ChelseaStats - favourited tweets end up here as issues too.
+The issue tracker is the preferred channel for bug reports and features requests. You can also reach out via twitter see [README for links](https://github.com/MatBenfield)
 
 ## Bug reports
 
@@ -66,11 +66,11 @@ provide as much detail and context as possible.
 
 ## Making Trivial Changes
 
-## Typos
+### Typos
 
 Please raise an issue for any typos on the site with a link to the offending page. start the first line of an issue with '(sp)' and include a url to the page in question. Language differences (e.g defense vs defence) won't be accepted.
 
-## Documentation
+### Documentation
 
 For changes of a trivial nature to comments and documentation, start the first line of an issue with '(doc)'
 
