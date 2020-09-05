@@ -16,7 +16,7 @@ so lets create a class and call it `Polygon`.
 class Polygon:
 ```
 
-to instantiate the class we need to user a double under notation (known as dunder).
+to instantiate the class we need to use a double under notation (known as dunder).
 
 ``` Python
 class Polygon:
@@ -37,7 +37,7 @@ class Polygon:
         self.angle = self.interior_angles/self.sides
 ```
 
-In the above snippet we have assigned variables and does some geometry.
+In the above snippet we have assigned variables and done some geometry.
 
 Next we will create a method called `draw`
 
@@ -52,7 +52,7 @@ Next we will create a method called `draw`
         turtle.end_fill()
 ```
 
-Note the use of turtle here, which is a packaged that can be used for drawing items. At the top of the file we'll include the package
+Note the use of turtle here, which is a package, that can be used for drawing items. At the top of the file we'll include the package
 
 ``` Python
 import turtle
@@ -66,9 +66,9 @@ class Square(Polygon):
         super().__init__(4, "square")
 ```
 
-Notice the polygon in brackets and the use of `super()` which essentially says initiate the parent class. We pass in the `4` and the name `square` the rest of the values are default in the super class.
+Notice the polygon in brackets and the use of `super()` which essentially says initiate the parent class. We pass in the `4` and the name `square` the rest of the values are the default values from within the super class.
 
-we add to the `square` class another method to draw, which inherits from the super class too.
+We add to the `square` class another method to draw, which inherits from the super class too, this could be altered in the future, without impacting other shapes.
 
 ``` Python
 class Square(Polygon):
@@ -79,7 +79,7 @@ class Square(Polygon):
         super().draw()
 ```
 
-So to draw a polygon and a square we can use
+So to draw a polygon and a square we can use the following snippet
 
 ``` Python
 
@@ -97,6 +97,6 @@ The `turtle.done()` call keeps the drawn item on screen like how `console.read()
 
 Square doesn't need any attributes passed in so works just fine with the defaults in its class and the parent class.
 
-Shape, is given 6 sides and named hexagon and an override of the default colour.
+Shape, is given 6 sides and named hexagon and has an override of the default colour.
 
 That is [python classes](https://github.com/MatBenfiled/demo_python).
