@@ -2,7 +2,7 @@
 layout: post
 title: How to create a custom GitHub issues template
 tag:
-  - dev
+ - dev
 ---
 
 Having recently created and updated the new [ReadMe template homepage](https://github.com/MatBenfield) on GitHub, I posed a question on what I should be looking at next.

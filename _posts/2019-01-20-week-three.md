@@ -3,7 +3,7 @@ layout: post
 title: Week Three
 tags: [27.5]
 tag:
-  - Runs
+  - runs
 ---
 
 Started the week strongly with a decent 7.1 mile easy run, having been able to finish work a little earlier than usual.

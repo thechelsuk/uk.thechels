@@ -3,7 +3,7 @@ layout: post
 title: Week Seven
 tags: [25.4]
 tag:
-  - Runs
+  - runs
 ---
 
 Monday afternoon easy run for 5 miles, not the usual commute, having taken the day as leave.

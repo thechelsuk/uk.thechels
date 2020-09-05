@@ -3,7 +3,7 @@ layout: post
 title: Week Eight
 tags: [24.3]
 tag:
-  - Runs
+  - runs
 ---
 
 Monday afternoon easy run for 5.4 miles, the usual commute.
