@@ -1,7 +1,7 @@
 ---
 layout: post
 title: From PHP to Python and GitHub Actions
-date: 2020-09-05 14:57
+date: 2020-09-05
 tag:
   - dev
 ---
