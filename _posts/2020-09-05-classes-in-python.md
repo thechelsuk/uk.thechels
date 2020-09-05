@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning Classes in Python
-date: 2020-09-05 22:00
+date: 2020-09-05 21:00
 tag:
  - dev
 ---
