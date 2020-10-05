@@ -1,8 +1,8 @@
 highlighter:    rouge
 permalink:      ./:title
-name:           Benny
-description:    "Weak notes"
-author:         "Mat Benfield"
+name:           "Weak notes"
+description:    "Mat Benfield"
+author:         "Benny"
 url:            https://thechels.uk
 copyright:      "Mat Benfield"
 encoding:       UTF-8
