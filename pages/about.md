@@ -4,7 +4,7 @@ title: About
 category: pages
 ---
 
- Mat is an agile software developer and works as Head of Software Development based in the United Kingdom. Regularly questions [Is there a crisis at Chelsea](https://isthereacrisis.thechels.uk), helps people decide where to [go for lunch in Cheltenham](https://lunch.thechels.uk), [how to agile](https://ScrumRadiator.thechels.uk), and is most commonly known for tweeting to over 170,000 followers. You can also see what [Mat is reading here](/pages/books)
+ Mat is an agile software developer and works as Head of Software Development based in the United Kingdom. You can [read more here](https://github.com/MatBenfield), Mat is most commonly known for [tweeting to over 170,000 followers](https://twitter.com/tocfcws).
 
 ## Tech Gear
 
