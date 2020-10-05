@@ -36,3 +36,8 @@ category: pages
 - Shorts: 'Time to run'
 - Watch: Apple Watch Series 4 40mm / Garmin ForeRunner 945
 - Apps: I use the workout activity on the Garmin and sync to Strava
+
+<p>
+  <script type="text/javascript" src="https://www.redbubble.com/assets/external_portfolio.js"></script>
+  <script id="rb-xzfcxvzx" type="text/javascript">new RBExternalPortfolio('www.redbubble.com', 'benitodeveloper', 1, 3).renderIframe();</script>
+</p>
