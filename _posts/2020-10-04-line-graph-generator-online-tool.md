@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Line Graph Generator online tool
-date: 2020-10-04 22:35
+date: 2020-10-04 22:00
 tag:
  - dev
 ---
