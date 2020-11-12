@@ -18,7 +18,6 @@ The job runs on ubuntu, uses curl and saves it out to the output_file.json
 
 ``` yaml
 name: Scheduled Build
-# build and tweet
 on:
   workflow_dispatch:
   schedule:
