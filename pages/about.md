@@ -25,16 +25,25 @@ category: pages
 ## Running Gear
 
 - Shoes:
-  - Saucony Ride 2s
-  - Salming Enroute
+  - Saucony Ride 2
+  - Hoka One One Rincon 2
   - Inov8 X talon 212
   - Inov8 Roadclaw 275
   - Salming Speed 1
 - Jacket: Salomon wing hybrid M
-- Backpack: Salomon Agile 12 set / Salomon Advanced Skin 3 - 5 litre
+- Backpack: 
+  - Salomon Agile 12 set (daily commute)
+  - Salomon Advanced Skin 3 - 5 litre
 - Tops: various
 - Shorts: 'Time to run'
-- Watch: Apple Watch Series 4 40mm / Garmin ForeRunner 945
+- Hats:
+  - Ben Parkes
+- Watch: 
+  - Apple Watch Series 4 40mm
+  - Garmin ForeRunner 945
+- Other:
+  - Rymora compression calf sleeves
+  - Miscellaneous buffs 
 - Apps: I use the workout activity on the Garmin and sync to Strava
 
 <p>
