@@ -3,20 +3,9 @@ layout : default
 title : Links
 ---
 
-#### Bonuses
-
-- [Invest commission-free with Freetrade. Get started with a free share worth £3-£200](https://magic.freetrade.io/join/mat/13321190)
-- [Start easily investing towards your goals with Wealthify and get £25 cashback!](https://invest.wealthify.com/refer/14884798)
-- [Get £50 credit when you switch to Octopus Energy](https://share.octopus.energy/ideal-ant-315)
-
-#### Charity
-
-- [Donate to Acorn's Children Hospice](https://www.justgiving.com/fundraising/benny-runner)
-
-#### Shop
-
-- [Buy clothes, stickers, masks, and gifts at Redbubble](https://www.redbubble.com/people/BenitoDeveloper/shop)
-
-#### Donate
-
-- [paypal](https://www.paypal.me/chelseastats)
+- [Invest commission-free with Freetrade. Get started with a free share worth £3-£200](https://bit.ly/3m4RFZP)
+- [Start easily investing towards your goals with Wealthify and get £25 cashback!](https://bit.ly/3qGMK4S)
+- [Get £50 credit when you switch to Octopus Energy](https://bit.ly/3oD1nnS)
+- [Donate to Acorn's Children Hospice](https://bit.ly/2W7zxUB)
+- [Checkout my Redbubble Store](https://rdbl.co/37Udd6v)
+- [Donate directly via PayPal](https://bit.ly/39WmJbY)

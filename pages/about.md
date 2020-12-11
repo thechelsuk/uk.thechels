@@ -43,7 +43,7 @@ category: pages
   - Garmin ForeRunner 945
 - Other:
   - Rymora compression calf sleeves
-  - Miscellaneous buffs 
+  - Miscellaneous buffs
 - Apps: I use the workout activity on the Garmin and sync to Strava
 
 <p>
