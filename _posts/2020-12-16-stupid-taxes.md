@@ -1,6 +1,4 @@
-
 ---
-
 layout: post
 title: Stupid taxes
 date: 2020-12-16

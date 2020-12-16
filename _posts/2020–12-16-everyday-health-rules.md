@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: Everyday health rules
 date: 2020-12-16
