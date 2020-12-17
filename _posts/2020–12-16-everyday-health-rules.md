@@ -1,10 +1,10 @@
 ---
-
 layout: post
 title: Everyday health rules
-date: 2020-12-16
+date: 2020-12-17
 tag:
   - other
+  
 ---
 
 1. Rise early and go to bed early
