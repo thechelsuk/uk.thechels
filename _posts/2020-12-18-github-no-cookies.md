@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: GitHub removes non-essential cookies
 date: 2920-12-18
