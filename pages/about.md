@@ -26,19 +26,19 @@ category: pages
 
 - Shoes:
   - Saucony Ride 2
-  - Hoka One One Rincon 2
+  - HOKA One One Rincon 2
   - Inov8 X talon 212
   - Inov8 Roadclaw 275
   - Salming Speed 1
 - Jacket: Salomon wing hybrid M
-- Backpack: 
+- Backpack:
   - Salomon Agile 12 set (daily commute)
   - Salomon Advanced Skin 3 - 5 litre
 - Tops: various
 - Shorts: 'Time to run'
 - Hats:
   - Ben Parkes
-- Watch: 
+- Watch:
   - Apple Watch Series 4 40mm
   - Garmin ForeRunner 945
 - Other:
