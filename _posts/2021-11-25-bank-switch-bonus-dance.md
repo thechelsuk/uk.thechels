@@ -3,7 +3,7 @@ layout: post
 title: The Bank Switch Dance
 date: 2021-11-25 22:00
 tag:
- - 
+ - Other
 ---
 
 Banks are offering switching bonuses at the moment and it’s a good time of year to pocket some extra cash so I decided to play the bank dance game. Here’s what happened:
