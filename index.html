@@ -3,28 +3,59 @@ layout: default
 title:
 ---
 
-<div class="filter">
-  Read about:<span>
-    <a href="#" class="topic" data-name="productivity">Productivity</a> |
-    <a href="#" class="topic" data-name="dev">Dev</a> |</span>
-    <a href="#" class="topic" data-name="runs">Running</a> |
-    <a href="#" class="topic" data-name="lists">Lists</a> |
-    <a href="#" class="topic" data-name="chelsea">Chelsea</a> |
-    <a href="#" class="topic" data-name="stats">Stats</a> |
-    <a href="#" class="topic" data-name="other">Other</a> |</span>
-</div>
+{% for post in paginator.posts %}
+  {% unless post.pinned %}
+    {% unless post.next %}
+      <h3>{{ post.date | date: '%Y' }}</h3>
+    {% else %}
+      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+      {% if year != nyear %}
+        <h3 class='next'>{{ post.date | date: '%Y' }}</h3>
+      {% endif %}
+    {% endunless %}
 
-<ul class="posts">
-{% for post in site.posts limit: 50 %}
-  <li class="{{ post.popular }} {{ post.new }}">
-    <span class="tags" style="display: none">{{ post.tags | jsonify }}</span>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    <span class="date">{{ post.date | date: "%-d %B %Y" }}</span>
-    <span class="num-words"><em>{{ post.content | number_of_words }}</em> words</span>
-    <span class="tags"><small><em>tagged: {{ post.tags }}</em></small></span>
-  </li>
+    <article>
+      {% if post.link %}
+        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
+      {% else %}
+        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+      {% endif %}
+    </article>
+  {% endunless %}
 {% endfor %}
-</ul>
 
-<p style="font-size: 12px; margin-top: 30px">
-  <a href="/archives">A total of <b id="shown">{{ site.posts | size }}</b> posts</a>.
+<div class="pagination">
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+      <a href="{{ site.url }}" class="btn">Previous</a>
+    {% else %}
+      <a href="{{ site.url }}/page{{ paginator.previous_page }}" class="btn">Previous</a>
+    {% endif %}
+  {% else %}
+    Previous
+  {% endif %}
+  <ul class="inline-list">
+    <li>
+      {% if paginator.page == 1 %}
+        <span class="current-page">1</span>
+      {% else %}
+        <a href="{{ site.url }}/">1</a>
+      {% endif %}
+    </li>
+    {% for count in (2..paginator.total_pages) %}
+      <li>
+        {% if count == paginator.page %}
+          <span class="current-page">{{ count }}</span>
+        {% else %}
+          <a href="{{ site.url }}/page{{ count }}">{{ count }}</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+  {% if paginator.next_page %}
+    <a href="{{ site.url }}/page{{ paginator.next_page }}" class="btn">Next</a>
+  {% else %}
+    Next
+  {% endif %}
+</div><!-- /.pagination -->
