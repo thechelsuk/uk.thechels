@@ -1,6 +1,6 @@
 ---
 layout: post
-title: new year, new career
+title: New year, new career
 tag:
  - dev
 ---
