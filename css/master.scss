@@ -7,7 +7,7 @@
 $font-darkest: #04100D;
 $font-dark: #00233D;
 $border-light: #ACD7EC;
-$border-dark: #8B96C9;
+$border-dark: #005CA3;
 $links: #295147;
 $links-active: #376C5F;
 
@@ -42,6 +42,11 @@ body {
     color: $font-dark;
     text-decoration: none;
   }
+  
+  a:hover, a:active {
+     text-decoration: none;
+  }
+  
 }
 
 .blog-author {
