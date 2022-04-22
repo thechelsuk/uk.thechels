@@ -10,16 +10,16 @@ title:
     {% assign year = this_year %}
     <h2>{{ year }}</h2>
   {% endunless %}
-  <article>
     <ul class="posts">
       {% capture category %}{{ post.categories | size }}{% endcapture %}
-        <li class="{{ post.popular }} {{ post.new }}">
-          <a href="{{ post.url }}">{{ post.title }}</a>
-          <span class="date">{{ post.date | date: "%-d %B %Y" }}</span>
-          <span class="num-words"><em>{{ post.content | number_of_words }}</em> words</span>
-        </li>
+        <li>
+          <article>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <span class="date">{{ post.date | date: "%-d %B %Y" }}</span>
+            <span class="num-words"><em>{{ post.content | number_of_words }}</em> words</span>
+          </article>
+        </li>         
     </ul>
-  </article>
   {% endfor %}
 </div>
 
