@@ -2,12 +2,13 @@
 <html lang="en">
   <head>
    <title>{{ page.title }} — {{ site.name }}</title>
-   <meta charset="utf-8">
-   <meta name="description" content="{{ site.description }}">
-   <meta name="viewport" content="width=device-width,initial-scale=1">
+   <meta charset="utf-8" />
+   <meta name="description" content="{{ site.description }}" />
+   <meta name="viewport" content="width=device-width,initial-scale=1" />
    <meta name="format-detection" content="telephone=no"/>
    <meta name="format-detection" content="address=no"/>
-   <meta name="HandheldFriendly" content="True">
+   <meta name="HandheldFriendly" content="True" />
+   <meta name="theme-color" content="#005CA3" />
    <link rel="stylesheet" href="/css/master.css">
    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} xml" href="{{ site.url }}/feed.xml">
@@ -20,10 +21,7 @@
         <div class="content">
           <a href="/" class="back-to-front" title="Back to all posts">&larr; back</a>
           <span class="post-num-words">
-            {{ page.content | number_of_words }} <span>words</span>
-          </span>
-          <span class="post-date">
-            {{ page.date | date: "%-d %B %Y" }}
+             {{ page.date | date: "%-d %B %Y" }}, {{ page.content | number_of_words }} <span>words</span>
           </span>
           <h2>{{ page.title }}</h2>
           {{ content }}
