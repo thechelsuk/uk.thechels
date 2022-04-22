@@ -2,7 +2,16 @@
 <html lang="en">
   <head>
    <title>{{ page.title }} — {{ site.name }}</title>
-    {% include meta.html %}
+   <meta charset="utf-8">
+   <meta name="description" content="{{ site.description }}">
+   <meta name="viewport" content="width=device-width,initial-scale=1">
+   <meta name="format-detection" content="telephone=no"/>
+   <meta name="format-detection" content="address=no"/>
+   <meta name="HandheldFriendly" content="True">
+   <link rel="stylesheet" href="/css/master.css">
+   <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+   <link rel="alternate" type="application/rss+xml" title="{{ site.name }} xml" href="{{ site.url }}/feed.xml">
+   <link rel="alternate" type="application/json" title="{{ site.name }} json" href="{{ site.url }}/feeds/feed.json">
   </head>
   <body>
     <div id="outer-wrapper">
@@ -27,10 +36,6 @@
           {{ content }}
       </div>
     </div>
-
     {% include footer.html %}
-
-    <script src="/js/master.js"></script>
-
   </body>
 </html>
