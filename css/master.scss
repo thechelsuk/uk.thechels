@@ -4,17 +4,23 @@
 
 // 16px = 1em
 
+$font-darkest = #04100D;
+$font-dark = #00233D;
+$border-light = #ACD7EC;
+$border-dark = #8B96C9;
+$links = #478978;
+
 body {
-  border-top: 2px solid #200116;
+  border-top: 2px solid $border-light;
   margin: 0;
   font-family: 'Lato', 'San Francisco', 'Gill Sans', sans-serif;
-  color: #100007;
+  color: $font-darkest;
   font-size: 1em;
   background: #fff;
 }
 
 #outer-wrapper {
-  border-top: 7px solid #2D0605;
+  border-top: 7px solid $border-dark;
 }
 
 #wrapper {
@@ -32,12 +38,12 @@ body {
   display: inline;
 
   a {
-    color: #333;
+    color: $links;
     text-decoration: none;
 
     &:hover,
     &:focus {
-      text-shadow: #0F084D 0 0 1px;
+      text-shadow: $links 0 0 1px;
     }
   }
 }
@@ -53,7 +59,7 @@ body {
   margin-top: 0;
   text-transform: lowercase;
   font-variant: small-caps;
-  color: #0F084D;
+  color: $font-dark;
   margin-left: 2px;
   margin-bottom: 60px;
 }
@@ -70,7 +76,7 @@ h2 {
   margin-bottom: 28px;
 
   a {
-    color: #555;
+    color: $links;
   }
 }
 
@@ -131,7 +137,7 @@ p {
 }
 
 a {
-  color: #326ea1;
+  color: $links;
 }
 
 a:hover,
@@ -140,7 +146,7 @@ a:focus {
 }
 
 a:active {
-  color: #333;
+  color: $links;
 }
 
 img {
@@ -160,12 +166,12 @@ strong code {
 code {
   font-family: Courier, monospace;
   font-size: 0.9em;
-  background: #eee;
+  background: #bbb;
   padding: 1px 4px;
 }
 
 pre {
-  background: #ccc;
+  background: #bbb;
   margin-left: -6px;
   margin-top: 22px;
   margin-bottom: 22px;
@@ -178,7 +184,7 @@ pre {
     overflow: auto;
     background: #eee;
     padding-left: 10px;
-    color: #222;
+    color: $font-dark;
     border: 5px solid #eee;
     border-radius: 5px;
     padding-bottom: 5px;
@@ -191,7 +197,7 @@ cite {
   float: left;
   clear: both;
   font-style: italic;
-  color: #777;
+  color: $font-dark;
   margin-top: 22px;
   margin-bottom: 22px;
   width: 100%;
@@ -205,7 +211,7 @@ blockquote:before {
   margin-left: -45px;
   margin-top: -10px;
   font-family: "times new roman";
-  color: #faa;
+  color: $font-dark;
   font-weight: bold;
 }
 
@@ -252,7 +258,7 @@ cite {
 
 .footnote {
   font-size: 0.75em;
-  color: #666;
+  color: $font-dark;
 
   sup {
     color: #f06;
@@ -270,7 +276,7 @@ cite {
 }
 
 .meta {
-  color: #555;
+  color: $font-dark;
   font-size: 0.75em;
   position: absolute;
   top: 18px;
@@ -286,7 +292,7 @@ cite {
 
 .posts .date,
 .posts .num-words {
-  color: #2D0605;
+  color: $font-dark;
   font-style: italic;
   font-size: 90%;
   margin-left: 5px;
@@ -317,10 +323,10 @@ cite {
 
   .num-words {
     float: right;
-    color: #ccc;
+    color: $font-dark;
 
     em {
-      color: #888;
+      color: $font-dark;
     }
   }
 
@@ -391,13 +397,13 @@ cite {
 .post-num-words {
   float: right;
   font-style: italic;
-  color: #888;
+  color: $font-dark;
   margin-top: 10px;
   font-size: 0.9em;
 }
 
 .post-num-words span {
-  color: #ccc;
+  color: $font-dark;
 }
 
 .post-date:after {
@@ -463,7 +469,6 @@ cite {
 }
 
 .footer {
-  background: #fff;
   line-height: 40px;
   font-size: 0.8em;
 
@@ -477,7 +482,7 @@ cite {
   font-size: 0.9em;
   text-transform: lowercase;
   font-variant: small-caps;
-  color: #f06;
+  color: $font-darkest;
   margin-left: 2px;
   margin-bottom: 6px;
   }
