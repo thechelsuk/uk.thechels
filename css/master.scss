@@ -5,14 +5,14 @@
 // 16px = 1em
 
 $font-darkest: #04100D;
-$font-dark:#00233D;
+$font-dark: #00233D;
 $border-light: #ACD7EC;
 $border-dark: #8B96C9;
-$links: #478978;
+$links: #295147;
 $links-active: #376C5F;
 
 body {
-  border-top: 7px solid $border-light;
+  border-top: 7px solid $border-dark;
   margin: 0;
   font-family: 'Lato', 'San Francisco', 'Gill Sans', sans-serif;
   color: $font-darkest;
@@ -21,7 +21,7 @@ body {
 }
 
 #outer-wrapper {
-  border-top: 7px solid $border-dark;
+  border-top: 7px solid $border-light;
 }
 
 #wrapper {
@@ -39,13 +39,8 @@ body {
   display: inline;
 
   a {
-    color: $links;
+    color: $font-dark;
     text-decoration: none;
-
-    &:hover,
-    &:focus {
-      text-shadow: $links 0 0 1px;
-    }
   }
 }
 
