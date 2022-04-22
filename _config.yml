@@ -2,7 +2,7 @@ highlighter:    rouge
 permalink:      ./:title
 name:           "Weak notes"
 description:    "typically less than weekly things of note"
-author:         "Benny"
+author:         "Mat"
 url:            https://thechels.uk
 copyright:      "Mat Benfield"
 encoding:       UTF-8
