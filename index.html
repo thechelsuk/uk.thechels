@@ -4,18 +4,16 @@ title:
 ---
 
 <div id="blog-archives">
-{% for post in site.posts reverse %}
-{% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-{% unless year == this_year %}
-  {% assign year = this_year %}
-  <h2>{{ year }}</h2>
-{% endunless %}
-<article>
-  {% include archive_post.html %}
-</article>
-{% endfor %}
+  {% for post in site.posts reverse %}
+  {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% unless year == this_year %}
+    {% assign year = this_year %}
+    <h2>{{ year }}</h2>
+  {% endunless %}
+  <article>
+    {% include archive_post.html %}
+  </article>
+  {% endfor %}
 </div>
 
-
-<p style="font-size: 12px; margin-top: 30px">
-  <a href="/archives">A total of <b id="shown">{{ site.posts | size }}</b> posts</a>.
+<p>A total of <b id="shown">{{ site.posts | size }}</b> posts.
