@@ -3,17 +3,6 @@ layout: default
 title:
 ---
 
-<div class="filter">
-  Read about:<span>
-    <a href="#" class="topic" data-name="productivity">Productivity</a> |
-    <a href="#" class="topic" data-name="dev">Dev</a> |</span>
-    <a href="#" class="topic" data-name="runs">Running</a> |
-    <a href="#" class="topic" data-name="lists">Lists</a> |
-    <a href="#" class="topic" data-name="chelsea">Chelsea</a> |
-    <a href="#" class="topic" data-name="stats">Stats</a> |
-    <a href="#" class="topic" data-name="other">Other</a> |</span>
-</div>
-
 <div id="blog-archives">
 {% for post in site.posts reverse %}
 {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
