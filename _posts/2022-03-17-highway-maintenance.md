@@ -1,8 +1,8 @@
 ---
+
 layout: post
 title: Highway Maintenance
-tag:
- - dev
+
 ---
 
 In many ways, engineering is not unlike driving on a motorway.
@@ -20,7 +20,7 @@ But looking at our engineering culture through a “motorway maintenance" lens c
 
 Let’s look at why…
 
-## If you build it, they will come
+### If you build it, they will come
 
 Before you can put any cars on the road, you have to build your motorway. And it’s the responsibility of the entire group to ensure the road is suitable for the journey.
 
@@ -28,7 +28,7 @@ This means providing the road signs, rails and hard shoulder (think strategy, vi
 
 Just like it’s important to build pit stops on the motorway, people need regular check-ins to ensure they have what they need and to evaluate the rest of the journey. In this example, management is the service station. We provide clear entry and exit ramps and want to support an engineer’s whole journey, while ensuring the system continues to run effectively and imposing a speed limit.
 
-## You’ve got to know when to switch lanes
+### You’ve got to know when to switch lanes
 
 Whether you’ve driven before or not, you’ll know that there are multiple lanes on the motorway, and in this example, the journey travels in a clockwise loop.
 
@@ -38,7 +38,7 @@ In lane two, we have the regular Engineers. They are usually a little savvier on
 
 Lane three is where the Senior Engineers drive. They are very experienced on these roads, so they sometimes slow down to let a driver from lane two overtake and lead the convoy. Our senior engineers still need to visit the service station and check in regularly to ensure their vehicles are working at their best, like fine-tuning a well-oiled machine.
 
-## Situational awareness is crucial
+### Situational awareness is crucial
 
 As long as everybody works together from their different lanes, and communicates well, the cars will move forward smoothly and ensure an optimal journey for everyone.
 

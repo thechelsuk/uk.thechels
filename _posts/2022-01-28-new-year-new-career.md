@@ -1,8 +1,8 @@
 ---
+
 layout: post
 title: New year, new career
-tag:
- - dev
+
 ---
 
 *Even if you don’t believe in New Year’s Resolutions, the start of the year is a great time to reflect on your career and make goals for the months ahead.*
@@ -13,7 +13,7 @@ Luckily, I’ve interviewed hundreds of candidates in my time as a hiring manage
 
 Here’s some advice on how to get hired in tech…
 
-## Test your kit
+### Test your kit
 
 Just like you would take care to arrive to a physical interview on time, you want to make sure you’ve got all your tech set up if you’re going to be interviewing virtually.
 
@@ -21,7 +21,7 @@ Give yourself plenty of time before the interview starts, check which platform y
 
 Of course, tech problems can and do occur – we know this, so don’t worry too much if something goes wrong. However, having to deal with a camera or microphone issue can take away from your time with us and set you off feeling nervous or flustered, so it’s best to avoid tech mishaps if possible.
 
-## Leave your pain at the door (or the virtual lobby!)
+### Leave your pain at the door (or the virtual lobby!)
 
 It’s not uncommon for interviewers to ask about your previous roles and how you ended up where you are now. It’s OK to share that you’re looking for something better suited to your skills or values, but it’s not a good idea to air your dirty laundry or disclose any tension you had with employers in the past.
 
@@ -29,7 +29,7 @@ It’s not an exaggeration to say that plenty of the meetings I’ve had with ca
 
 We’re a lovely team here at Seccl, and we get that some work cultures can be nasty and toxic, and we’re totally sympathetic to that. Just keep in mind what you’re here to do – which is sell yourself!
 
-## Use the STAR method
+### Use the STAR method
 
 We love to hear about how you work, your principles, how you collaborate with others, but we don’t want to get generic answers we’ve heard multiple times that day already.
 
@@ -40,7 +40,7 @@ T – what were your tasks? What goal were you hoping to achieve?
 A – what actions did you take to meet that goal?
 R – what was the result?
 
-## Brevity beats biography
+### Brevity beats biography
 
 We want to know about you – after all, we’re hiring a person, not a cog in a machine. However, when it comes to crafting your CV and selling yourself in an interview, the advice is the same: keep it short and sweet.
 
@@ -48,13 +48,13 @@ When it comes to your CV, hiring managers just don’t have the time to read fiv
 
 During the interview, relax and be yourself – we want to see who you are and how you might fit with our time. Just make sure to be led by the questions and try not to spend too long on any particular answer.
 
-## Come with questions
+### Come with questions
 
 Remember: this is an interview for the employer as much as it’s an interview for you. You want to make sure your potential workplace is going to be a good fit for your professional skills and personality, and that the role is right for you.
 
 Before the interview, list five questions you want to ask the interviewer. You might want to know about the company culture, team structure, or what the average working day looks like. There’s nothing worse than an awkward silence at the end of an interview, so make sure you have some questions of your own.
 
-## Practice and prepare
+### Practice and prepare
 
 Giving a good interview is a skill in its own right, so the more you practice, the better you’ll get at it. Even if you think the company isn’t quite right for you, or you’re happy in your current role, getting as many interviews as possible gives you a chance to reflect on your career so far and practice your technique. What’s the worst that can happen? Even if it’s a bad interview, you’ll come away with knowledge (and maybe even some advice from the interviewer) on how to do it better next time.
 
@@ -66,13 +66,13 @@ When it comes to the interview itself, you can’t prepare too much. Think about
 - Where have you had to influence others from a technical perspective?
 - What was one thing you found incredibly difficult and what did you do to progress?
 
-## Deliver with confidence
+### Deliver with confidence
 
 Even if you’re interviewing virtually, it’s important to maintain eye contact and a strong, professional posture whether you’re speaking or listening. Try to remain energetic, as this will help interviewers get excited about you!
 
 Interviews for technical roles can be fairly long, so the most important thing is that you’re comfortable – whether that means standing, sitting or however you feel most confident.
 
-## Don’t have the answer to a question? No worries
+### Don’t have the answer to a question? No worries
 
 Many people worry about not being able to answer a question in an interview, but this really isn’t the end of the world – and it happens more than you might think.
 
@@ -80,7 +80,7 @@ A good tip here is to ask the hiring manager to repeat or rephrase the question,
 
 When we interview candidates at Seccl, we’re not looking for someone who knows all the answers – we’re looking for people with inquisitive minds who want to find and solve problems.
 
-## Vulnerability equals strength – so be honest
+### Vulnerability equals strength – so be honest
 
 Honesty is a valuable skill in high-performing teams, and it’s something we actively look for when hiring new engineers. We know it shows strength to be vulnerable, and we’d always want to know if you struggle with any aspect of your role or don’t meet a certain criterion of the job spec.
 
