@@ -35,6 +35,11 @@
          {% else %}
      {% endif %}
 </p>
+<div class="content">
+<a href="/" class="back-to-front" title="Back to all posts">&larr; back</a>
+          <span class="post-num-words">
+             {{ page.date | date: "%-d %B %Y" }}, {{ page.content | number_of_words }} <span>words</span>
+          </span>
           <h2 class="post-title">
           {% if page.link %}
            <a href="{{ page.link }}">{{ page.title }} 
@@ -44,6 +49,7 @@
      {% endif %}
           </h2>
           {{ content }}
+        </div>
       </div>
     </div>
     <div class="footer">
