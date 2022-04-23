@@ -35,11 +35,14 @@
          {% else %}
      {% endif %}
 </p>
-
-        <div class="front-page-content">
-          <h2>{{ page.title }}</h2>
+          <h2>
+          {% if page.link %}
+           <a href="{{ page.link }}">• {{ page.title }}</a>
+         {% else %}
+          {{ page.title }}
+     {% endif %}
+          </h2>
           {{ content }}
-        </div>
       </div>
     </div>
     <div class="footer">
