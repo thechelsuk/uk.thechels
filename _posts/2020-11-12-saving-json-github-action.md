@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: saving json file using github actions and curl
+title: Saving json file using github actions and curl
 date: 2020-11-12
 tag:
  - dev

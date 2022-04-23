@@ -4,7 +4,7 @@ name:           "Weak Notes"
 description:    "typically less than weekly things of note"
 author:         "Mat"
 url:            https://thechels.uk
-copyright:      "Mat Benfield"
+copyright:      "Mat B"
 encoding:       UTF-8
 future:         false
 exclude:        ["README"]
