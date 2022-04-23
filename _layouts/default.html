@@ -8,7 +8,7 @@
     <meta name="format-detection" content="address=no"/>
     <meta name="HandheldFriendly" content="True" />
     <meta name="theme-color" content="#005CA3" />
-    <link rel="stylesheet" href="/css/master.css">
+    <link rel="stylesheet" href="/css/master.css?v=2022">
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} xml" href="{{ site.url }}/feed.xml">
     <link rel="alternate" type="application/json" title="{{ site.name }} json" href="{{ site.url }}/feeds/feed.json">
@@ -17,13 +17,44 @@
   <body>
     <div id="outer-wrapper">
       <div id="wrapper">
-        {% include header.html %}
+        <h1 class="blog-title">
+  <a href="/">{% if site.name %}
+         {{ site.name }}
+         {% else %} 
+     {% endif %}</a>
+</h1>
+
+<p class="blog-author">by
+   {% if site.author %}
+         {{ site.author }}
+         {% else %}
+     {% endif %}</p>
+<p class="blog-slogan">
+    {% if site.description %}
+         {{ site.description }}
+         {% else %}
+     {% endif %}
+</p>
+
         <div class="front-page-content">
           <h2>{{ page.title }}</h2>
           {{ content }}
         </div>
       </div>
     </div>
-    {% include footer.html %}
+    <div class="footer">
+  <div class="wrapper">
+  <p>&copy; {{ site.time | date: '%Y' }}
+     {% if site.copyright %}
+         {{ site.copyright }}
+         {% else %}
+     {% endif %} | Feed
+    <a href="//feeds/feed.json">(json</a>/<a href="//feeds/feed.xml">xml)</a>) |
+    <a href="https://twitter.com/tocfcws">@tocfcws</a> |
+    <a href="https://github.com/MatBenfield">GitHub</a> 
+    </p>
+  </div>
+</div>
+
   </body>
 </html>
