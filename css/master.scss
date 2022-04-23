@@ -224,7 +224,7 @@ blockquote:before {
 blockquote:after {
   content: "•";
   float: none;
-  clear:both
+  clear:both;
   color: $font-dark;
 }
 
