@@ -46,10 +46,10 @@
           {{ page.title }}
      {% endif %}
           </h2>
-          <p class="post-num-words">
-             [published {{ page.date | date: "%-d %B %Y" }}, with {{ page.content | number_of_words }} words]
-          </p>
           {{ content }}
+          
+           <p class="post-num-words">Published {{ page.date | date: "%-d %B %Y" }}, with {{ page.content | number_of_words }} words.
+          </p>
         </div>
       </div>
     </div>
