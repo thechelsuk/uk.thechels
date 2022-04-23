@@ -226,7 +226,10 @@ blockquote:after {
   float: none;
   clear: both;
   display: block;
+  font-size: 2em;
+  font-family: "times new roman";
   color: $font-dark;
+  font-weight: bold;
 }
 
 blockquote p {
@@ -275,7 +278,7 @@ cite {
   color: $font-dark;
 
   sup {
-    color: #f06;
+    color: $font-darkest;
     margin-right: 5px;
   }
 }
@@ -309,7 +312,7 @@ cite {
   color: $font-dark;
   font-style: italic;
   font-size: 75%;
-  margin-left: 5px;
+  margin-left: 6px;
 }
 
 .posts {
