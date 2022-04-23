@@ -214,7 +214,7 @@ cite {
 blockquote:before {
   content: open-quote;
   float: left;
-  font-size: 4em;
+  font-size: 3em;
   margin-left: -45px;
   margin-top: -10px;
   font-family: "times new roman";
@@ -227,7 +227,7 @@ blockquote:after {
   float: none;
   clear: both;
   display: block;
-  font-size: 2em;
+  font-size: 3em;
   font-family: "times new roman";
   color: $font-dark;
   font-weight: bold;
