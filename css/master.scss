@@ -222,7 +222,7 @@ blockquote:before {
 }
 
 blockquote:after {
-  content: "&nbsp;";
+  content: close-quote;
   float: none;
   clear: both;
   display: block;
