@@ -1,8 +1,8 @@
----  
+---
+
 layout: post
 title: Creamy Vegan Potato Leek Soup
-tag:
-  - other
+
 ---
 
 - Prep Time: 20 mins
@@ -17,10 +17,12 @@ tag:
 - Calories: 356 kcal
 
 ## Ingredients
+
 - 1.5 tablespoons olive oil (or preferred oil)
 - 1 tablespoon vegan butter
 - 1 small onion , diced
-- 3 large leeks , cleaned well & thinly sliced (white & light green part only) *See note
+- 3 large leeks , cleaned well & thinly sliced (white & light green part only) ^See note below
+ 
 - 5 medium russet potatoes , peeled and chopped
 - 3 cloves of garlic , minced
 - 1 teaspoon salt , more to taste
@@ -34,10 +36,12 @@ tag:
 - 240 ml Soya milk
 - 
 ### Toppings Ideas
+
 - Spring onion , chopped
 - Fresh ground pepper
 
 ## Instructions
+
 - [ ] Make sure leeks are washed well first.
 - [ ] Heat the oil, butter and a pinch of salt in a large pot over medium heat. Add the leeks & onion, sauté until softened, about 5-6 minutes.
 - [ ] Add the potatoes, garlic, thyme, rosemary, and coriander. Sauté for 2-3 minutes. 
