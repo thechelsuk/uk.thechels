@@ -221,6 +221,13 @@ blockquote:before {
   font-weight: bold;
 }
 
+blockquote:after {
+  content: "•";
+  float: none;
+  clear:both
+  color: $font-dark;
+}
+
 blockquote p {
   display: inline;
   float: left;
