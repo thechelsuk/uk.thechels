@@ -222,9 +222,10 @@ blockquote:before {
 }
 
 blockquote:after {
-  content: "•";
+  content: "&nbsp;";
   float: none;
-  clear:both;
+  clear: both;
+  display: block
   color: $font-dark;
 }
 
