@@ -124,12 +124,14 @@ h5:focus a {
   display: block;
 }
 
+article,
 ol li,
 ul li {
   margin-bottom: 7px;
   line-height: 1.4;
 }
 
+article,
 ul ul,
 ol ol,
 ol ul,
@@ -245,35 +247,6 @@ cite {
   line-height: 1.4;
 }
 
-#toc {
-  position: fixed;
-  top: 40px;
-  left: 0;
-  font-size: .8em;
-  background: $border-light;
-  -webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
-  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
-  width: 260px;
-  z-index: 100;
-  display: none;
-
-  ul {
-    margin-left: 20px;
-    padding-left: 0;
-    padding-right: 10px;
-  }
-
-  li {
-    margin-bottom: 10px;
-    list-style: none;
-
-    &:before {
-      content: '- ';
-    }
-  }
-}
-
 .footnote {
   font-size: 0.75em;
   color: $font-dark;
@@ -351,28 +324,6 @@ cite {
  
 }
 
-.gist .highlight {
-  font-size: 14px !important;
-}
-
-.gist .task-list {
-  font-size: 14px !important;
-  font-style: italic;
-}
-
-.gist-meta {
-  opacity: 0;
-  transition: all 0.1s;
-}
-
-.gist-file {
-  border: 0 !important;
-}
-
-.gist:hover .gist-meta {
-  opacity: 1;
-}
-
 .post-date,
 .post-num-words {
   float: right;
@@ -440,8 +391,6 @@ cite {
   }
 
 }
-
-// STICKY FOOTER
 
 html,
 body {
