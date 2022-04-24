@@ -2,7 +2,7 @@
 
 layout: post
 date: 2022-04-24
-title: 'How to be financially stable in 13 steps'
+title: 'How to be financially stable in 14 steps'
 
 ---
 
