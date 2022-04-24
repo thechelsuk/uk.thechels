@@ -292,12 +292,8 @@ cite {
 .posts {
   margin-left: 0;
   padding-left: 0;
-  list-style-position: inside;
-
-  li {
-    margin-bottom: 12px;
-    list-style: none;
-    transition: all 0.1s;
+  margin-bottom: 12px;
+  transition: all 0.1s;
 
     &.hidden {
       height: 0;
