@@ -2,7 +2,7 @@
 
 layout: post
 date: 2022-04-24
-title: 'Why checking an AC isn’t enough'
+title: Why checking an AC isn’t enough
 link: https://callumakehurstryansblog.wordpress.com/2021/08/25/why-checking-an-ac-isnt-enough/
 
 ---

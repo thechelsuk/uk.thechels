@@ -3,7 +3,7 @@
 layout: post
 date: 2022-04-24
 link: https://blog.1password.com/small-talk-security-considerations/
-title: 'Security considerations for your startup'
+title: Security considerations for your startup
 
 ---
 
