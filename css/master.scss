@@ -19,7 +19,7 @@ body {
 body {
   border-top: 8px solid $border-dark;
   margin: 0;
-  font-family: 'Lato', 'San Francisco', 'Gill Sans', sans-serif;
+  font-family:Lato,'San Francisco','Gill Sans',sans-serif;
   color: $font-darkest;
   font-size: 1em;
   background: #fff;
@@ -50,7 +50,7 @@ body {
     text-decoration: none;
   }
   
-  a:hover, a:active {
+  a:active, a:hover {
      text-decoration: none;
   }
   
@@ -180,7 +180,7 @@ strong code {
 
 code {
   font-family: Courier, monospace;
-  font-size: 0.9em;
+  font-size:.9em;
   background: #bbb;
   padding: 1px 4px;
 }
@@ -363,10 +363,6 @@ cite {
   position: relative;
 }
 
-.toc {
-  margin-bottom: 30px;
-}
-
 .footer {
   line-height: 40px;
   font-size: 0.8em;
@@ -430,14 +426,6 @@ cite {
     margin-left: 0 !important;
   }
 
-  .popular:before {
-    left: 0 !important;
-  }
-
-  .new:before {
-    left: 15px !important;
-  }
-
   .post-date,
   .post-num-words {
     float: none !important;
@@ -465,22 +453,9 @@ cite {
 // Smartphones (portrait and landscape)
 
 @media only screen
-and (min-device-width : 320px)
-and (max-device-width : 480px) {
-  .filter {
-    position: static !important;
-  }
-
-  .posts .popular:before {
-    content: 'popular';
-    position: static !important;
-  }
-
-  .posts .new:before {
-    content: 'new';
-    position: static !important;
-  }
-
+and (min-device-width:320px)
+and (max-device-width:480px) {
+ 
   .back-to-front {
     display: none;
   }
@@ -488,9 +463,4 @@ and (max-device-width : 480px) {
   .blog-slogan {
     margin-bottom: 10px;
   }
-}
-
-.innertext code {
-  background: none;
-  padding: 0;
 }
