@@ -11,8 +11,13 @@ $border-dark: #005CA3;
 $links: #295147;
 $links-active: #376C5F;
 
+html,
 body {
-  border-top: 7px solid $border-dark;
+  height: 100%;
+}
+
+body {
+  border-top: 8px solid $border-dark;
   margin: 0;
   font-family: 'Lato', 'San Francisco', 'Gill Sans', sans-serif;
   color: $font-darkest;
@@ -21,7 +26,9 @@ body {
 }
 
 #outer-wrapper {
-  border-top: 7px solid $border-light;
+  border-top: 8px solid $border-light;
+  min-height: 80%;
+  margin-bottom: -40px;
 }
 
 #wrapper {
@@ -379,17 +386,6 @@ cite {
   margin-bottom: 6px;
   }
 
-}
-
-html,
-body {
-  height: 100%;
-}
-
-#outer-wrapper {
-  min-height: 100%;
-  // equal to footer height
-  margin-bottom: -40px;
 }
 
 #outer-wrapper:after {
