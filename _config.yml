@@ -1,6 +1,6 @@
 highlighter:    rouge
 permalink:      ./:title
-name:           "Weak Notes"
+title:           "Weak Notes"
 description:    "typically less than weekly stuff and things"
 author:         "Mat"
 url:            https://thechels.uk
@@ -15,5 +15,5 @@ github:
 exclude:        ["README"]
 sass:
   style:        compressed
-gems:
+plugins:
   - jekyll-feed
