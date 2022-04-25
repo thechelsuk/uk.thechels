@@ -1,8 +1,9 @@
 name: "Link Checker"
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '55 21 * * 1'
+    - cron: '5 23 * * 1'
 
 jobs:
   linkChecker:
