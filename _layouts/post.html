@@ -17,15 +17,13 @@
   </head>
   <body>
     <div id="outer-wrapper">
-      <div id="wrapper">
-        {% avatar MatBenfield size=50 %}
         <h1 class="blog-title">
           <a href="/">{% if site.title %}
                  {{ site.title }}
                  {% else %} 
                 {% endif %}</a>
       </h1>
-
+<p class="blog-image">{% avatar MatBenfield size=25 %}</p>
 <p class="blog-author">by
    {% if site.author %}
          {{ site.author }}
@@ -62,7 +60,7 @@
          {{ site.copyright }}
          {% else %}
      {% endif %} | 
-    <a href="{{ site.url }}//feeds/feed.json">JSON</a> |
+    <a href="{{ site.url }}//feeds/feed.json">Feed</a> |
     <a href="{{ site.url }}//humans.txt">Humans</a>  | 
     <a href="https://morning.thechels.uk">Morning</a> |
     <a href="{{ site.social.twitter }}">{{ site.social.twitterid }}</a> |
