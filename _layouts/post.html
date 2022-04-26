@@ -9,6 +9,8 @@
 {% endif %}
 </h2>
  {{ content }}
-{% if page.link %}<p><a href="{{ page.link }}">Read more &#10097; &#10097;</a></p>{% else %}
+{% if page.link %}
+  <p><a href="{{ page.link }}">Read more &#10097; &#10097;</a></p>
+{% endif %}
 <p class="post-num-words">Published {{ page.date | date: "%-d %B %Y" }}, with {{ page.content | number_of_words }} words.      
 {% include footer.html %}
