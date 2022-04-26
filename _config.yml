@@ -7,8 +7,11 @@ url:            https://thechels.uk
 copyright:      "Mat B"
 encoding:       UTF-8
 future:         false
-twitter:
-  username: "@tocfcws"
+
+social:
+  twitter: https://twitter.com/tocfcws
+  twitterid: "@tocfcws"
+  github: https://github.com/MatBenfield/
 github:
   repository_url: https://github.com/MatBenfield/TheChels.uk/
   branch: main
