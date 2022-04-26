@@ -3,14 +3,14 @@
 <h2 class="post-title">
  {% if page.link %}
   {{ page.title }} 
-<a href="{{ page.link }}">&#10097; &#10097;</a>
+<a href="{{ page.link }}"></a>
 {% else %}
  {{ page.title }}
 {% endif %}
 </h2>
  {{ content }}
 {% if page.link %}
-  <p><a href="{{ page.link }}">Read more &#10097; &#10097;</a></p>
+  <p><a href="{{ page.link }}">Read more &rarr;</a></p>
 {% endif %}
 <p class="post-num-words">Published {{ page.date | date: "%-d %B %Y" }}, with {{ page.content | number_of_words }} words.      
 {% include footer.html %}
