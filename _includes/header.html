@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="title" content="{{ site.title }}" />
+    <meta name="description" content="{{ site.description }}" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="format-detection" content="address=no"/>
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="theme-color" content="#005CA3" />
+    <link rel="stylesheet" href="/css/master.css?v=2022">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} xml" href="{{ site.url }}/feed.xml">
+    <link rel="alternate" type="application/json" title="{{ site.title }} json" href="{{ site.url }}/feeds/feed.json">
+    <title>{{ site.title }}</title>
+  </head>
+  <body>
+    <div id="outer-wrapper">
+      <div id="wrapper">
+        <h1 class="blog-title">
+  <a href="/">{% if site.title %}
+         {{ site.title }}
+         {% else %} 
+     {% endif %}</a>
+</h1>
+<p class="blog-image">{% avatar MatBenfield size=50 %}</p>
+<p class="blog-slogan">
+    {% if site.description %}
+         {{ site.description }}
+         {% else %}
+     {% endif %}
+</p>
+        <div class="content">
