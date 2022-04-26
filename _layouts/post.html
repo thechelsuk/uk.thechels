@@ -18,12 +18,13 @@
   <body>
     <div id="outer-wrapper">
       <div id="wrapper">
+        {% avatar MatBenfield size=50 %}
         <h1 class="blog-title">
-  <a href="/">{% if site.title %}
-         {{ site.title }}
-         {% else %} 
-     {% endif %}</a>
-</h1>
+          <a href="/">{% if site.title %}
+                 {{ site.title }}
+                 {% else %} 
+                {% endif %}</a>
+      </h1>
 
 <p class="blog-author">by
    {% if site.author %}
