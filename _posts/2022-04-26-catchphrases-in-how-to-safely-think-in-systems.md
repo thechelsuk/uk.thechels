@@ -4,7 +4,7 @@ layout: post
 date: 2022-04-26
 link: https://lethain.com/how-to-safely-think-in-systems/
 title: Catchphrases in How to safely think in systems
-author: Will Larson
+cited: Will Larson
 
 ---
 
