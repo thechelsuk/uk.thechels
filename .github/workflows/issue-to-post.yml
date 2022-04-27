@@ -24,8 +24,8 @@ jobs:
           echo "::set-output name=title::$(echo "$POST_TITLE")"
       - name: Generate Post
         env:
-          POST_TITLE: ${{ steps.title.outputs.title }}
-          POST_BODY: ${{ github.event.issue.body }}
+          POST_TITLE: "${{ steps.title.outputs.title }}"
+          POST_BODY: "${{ github.event.issue.body }}"
         run: |
           echo "::set-output name=body::$(echo "$POST_BODY")"
           POST_DATE=${{ steps.date.outputs.date }}
