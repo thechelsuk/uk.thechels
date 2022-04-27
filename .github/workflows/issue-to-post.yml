@@ -27,6 +27,7 @@ jobs:
           POST_TITLE: ${{ steps.title.outputs.title }}
           POST_BODY: ${{ github.event.issue.body }}
         run: |
+          sh .frontmatterify
           preprocess_bin="$PWD/frontmatterify"
           save_to="_posts"
           cd "$save_to"
