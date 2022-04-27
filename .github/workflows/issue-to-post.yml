@@ -34,7 +34,6 @@ jobs:
           file="${POST_DATE}-${POST_TITLE}.md"
           $preprocess_bin > $file
           $POST_BODY >> $file
-          EOF
           
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
