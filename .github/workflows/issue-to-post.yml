@@ -27,6 +27,7 @@ jobs:
           POST_TITLE: ${{ steps.title.outputs.title }}
           POST_BODY: ${{ github.event.issue.body }}
         run: |
+          echo $POST_BODY
           preprocess_bin="$PWD/frontmatterify"
           save_to="_posts"
           cd "$save_to"
@@ -41,7 +42,6 @@ jobs:
           title: "publish: ${{ github.event.issue.title}}"
           body: |
             Automatic PR for publishing.
-            Merging will publish to: https://lo5t.com/${{ steps.title.outputs.title }}
             Closes #${{ github.event.issue.number }}
           reviewers: "${{ github.repository_owner }}"
           commit-message: "Post: ${{ github.event.issue.title }}"
