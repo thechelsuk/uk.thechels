@@ -1,9 +1,9 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Create Post
+about: Create a blog post from this issue
 title: ''
-labels: ''
-assignees: ''
+labels: 'Publish'
+assignees: 'MatBenfield'
 
 ---
 
