@@ -1,0 +1,47 @@
+name: publish-post
+
+on:
+  issues:
+    types: ['labeled']
+
+jobs:
+  build:
+    if: ${{ github.event.label.name == 'publish' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Update title
+        env:
+          POST_TITLE: ${{ github.event.issue.title }}
+        id: title
+        run: |
+          POST_TITLE=$(echo "$POST_TITLE" | tr " " "-")
+          echo "::set-output name=title::$(echo "$POST_TITLE")"
+      - name: Generate Post
+        env:
+          POST_TITLE: ${{ steps.title.outputs.title }}
+          POST_BODY: ${{ github.event.issue.body }}
+        run: |
+          preprocess_bin="$PWD/frontmatterify"
+          save_to="_posts"
+          cd "$save_to"
+          $preprocess_bin > "${{ steps.date.outputs.date }}-${POST_TITLE}.md" << EOF
+          $POST_BODY
+          EOF
+          
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          delete-branch: true
+          title: "publish: ${{ github.event.issue.title}}"
+          body: |
+            Automagically sprouted for publishing.
+            Merging will publish to: https://lo5t.com/${{ steps.title.outputs.title }}
+            Closes #${{ github.event.issue.number }}
+          reviewers: "${{ github.repository_owner }}"
+          commit-message: "post: ${{ github.event.issue.title }}"
