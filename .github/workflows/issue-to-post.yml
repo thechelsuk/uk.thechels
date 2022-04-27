@@ -40,8 +40,8 @@ jobs:
           delete-branch: true
           title: "publish: ${{ github.event.issue.title}}"
           body: |
-            Automagically sprouted for publishing.
+            Automatic PR for publishing.
             Merging will publish to: https://lo5t.com/${{ steps.title.outputs.title }}
             Closes #${{ github.event.issue.number }}
           reviewers: "${{ github.repository_owner }}"
-          commit-message: "post: ${{ github.event.issue.title }}"
+          commit-message: "Post: ${{ github.event.issue.title }}"
