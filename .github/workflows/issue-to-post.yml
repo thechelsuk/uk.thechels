@@ -28,11 +28,12 @@ jobs:
           POST_BODY: ${{ github.event.issue.body }}
         run: |
           echo "::set-output name=body::$(echo "$POST_BODY")"
+          POST_DATE=${{ steps.date.outputs.date }}
           preprocess_bin="$PWD/frontmatterify"
           cd "_posts"
-          file = "${{ steps.date.outputs.date }}-${POST_TITLE}.md"
-          $preprocess_bin > file << EOF
-          $POST_BODY >> file
+          file="${POST_DATE}-${POST_TITLE}.md"
+          $preprocess_bin > $file
+          $POST_BODY >> $file
           EOF
           
       - name: Create Pull Request
