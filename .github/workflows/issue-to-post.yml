@@ -32,7 +32,8 @@ jobs:
           preprocess_bin="$PWD/frontmatterify"
           cd "_posts"
           file="${POST_DATE}-${POST_TITLE}.md"
-          $preprocess_bin > $file/$POST_BODY 
+          $preprocess_bin > "$file"
+          $POST_BODY > "$file"
           
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
