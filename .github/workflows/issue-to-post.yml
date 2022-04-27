@@ -27,12 +27,12 @@ jobs:
           POST_TITLE: ${{ steps.title.outputs.title }}
           POST_BODY: ${{ github.event.issue.body }}
         run: |
-          echo $POST_BODY
+          echo "::set-output name=body::$(echo "$POST_BODY")"
           preprocess_bin="$PWD/frontmatterify"
-          save_to="_posts"
-          cd "$save_to"
+          cd "_posts"
+          file = "${{ steps.date.outputs.date }}-${POST_TITLE}.md"
           $preprocess_bin > "${{ steps.date.outputs.date }}-${POST_TITLE}.md" << EOF
-          $POST_BODY
+          $POST_BODY >> file
           EOF
           
       - name: Create Pull Request
@@ -41,7 +41,7 @@ jobs:
           delete-branch: true
           title: "publish: ${{ github.event.issue.title}}"
           body: |
-            Automatic PR for publishing.
+            Automatic PR for publishing: ${{ steps.title.outputs.title }}
             Closes #${{ github.event.issue.number }}
           reviewers: "${{ github.repository_owner }}"
-          commit-message: "Post: ${{ github.event.issue.title }}"
+          commit-message: "Post: ${{ github.event.issue.title }} \n ${{ steps.title.outputs.body }}"
