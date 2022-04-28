@@ -3,7 +3,8 @@ name: publish-post
 on:
   issues:
     types: ['labeled']
-
+    edited:
+    
 jobs:
   build:
     if: ${{ github.event.label.name == 'publish' }}
@@ -42,4 +43,4 @@ jobs:
             Automatic PR for publishing: ${{ steps.title.outputs.title }}
             Closes #${{ github.event.issue.number }}
           reviewers: "${{ github.repository_owner }}"
-          commit-message: "Post: ${{ github.event.issue.title }} \n ${{ steps.title.outputs.body }}"
+          commit-message: "Post: ${{ github.event.issue.title }}"
