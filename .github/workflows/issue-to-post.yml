@@ -29,7 +29,7 @@ jobs:
           POST_DATE: "${{ steps.date.outputs.date }}"
         run: |
           cd "_posts"
-          POST_FM1='--- \n\r title: ${POST_TITLE} \n\r layout: post \n\r date: ${POST_DATE} \n\r ---- \n\r'
+          POST_FM="--- $'\n\r' "title: ${POST_TITLE}" $'\n\r' "layout: post" $'\n\r' "date: ${POST_DATE}" $'\n\r' "----" $'\n\r'"
           file="${POST_DATE}-${POST_TITLE}.md"
           echo "${POST_FM}${POST_BODY}" >> "$file"
           
