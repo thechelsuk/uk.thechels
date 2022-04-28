@@ -31,7 +31,7 @@ jobs:
           cd "_posts"
           POST_FM="--- \n\r title: ${POST_TITLE} \n\r layout: post \n\r date: ${POST_DATE} \n\r ---- \n\r"
           file="${POST_DATE}-${POST_TITLE}.md"
-          echo ${POST_FM} ${POST_BODY} >> "$file"
+          echo "${POST_FM}${POST_BODY}" >> "$file"
           
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
