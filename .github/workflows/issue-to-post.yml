@@ -2,8 +2,8 @@ name: publish-post
 
 on:
   issues:
-    types: ['labeled']
-
+    types: ['labeled','edited']
+    
 jobs:
   build:
     if: ${{ github.event.label.name == 'publish' }}
@@ -28,11 +28,10 @@ jobs:
           POST_BODY: "${{ github.event.issue.body }}"
           POST_DATE: "${{ steps.date.outputs.date }}"
         run: |
-          preprocess_bin="$PWD/frontmatterify"
           cd "_posts"
+          POST_FM="---\ntitle: ${POST_TITLE}\nlayout: post\ndate: ${POST_DATE}\n\n---\n\r"
           file="${POST_DATE}-${POST_TITLE}.md"
-          $preprocess_bin > "$file"
-          echo ${POST_BODY} >> "$file"
+          echo -e "${POST_FM}${POST_BODY}" >> "$file"
           
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
@@ -43,4 +42,4 @@ jobs:
             Automatic PR for publishing: ${{ steps.title.outputs.title }}
             Closes #${{ github.event.issue.number }}
           reviewers: "${{ github.repository_owner }}"
-          commit-message: "Post: ${{ github.event.issue.title }} \n ${{ steps.title.outputs.body }}"
+          commit-message: "Post: ${{ github.event.issue.title }}"
