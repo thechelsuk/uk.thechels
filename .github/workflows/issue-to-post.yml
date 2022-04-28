@@ -2,8 +2,7 @@ name: publish-post
 
 on:
   issues:
-    types: ['labeled']
-    edited:
+    types: ['labeled','edited']
     
 jobs:
   build:
