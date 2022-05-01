@@ -3,7 +3,7 @@
 layout: post
 date: 2022-05-01
 link: https://shoreline.io/blog/runbooks-vs-playbooks
-title: Runbooks vs Playbooks: explaining the difference
+title: Runbooks vs Playbooks - explaining the difference
 cited: Shoreline
 
 ---
