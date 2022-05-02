@@ -1,5 +1,4 @@
 # importing modules
-import os
 import helper
 import pathlib
 import requests
@@ -16,8 +15,9 @@ url = f"https://push.api.bbci.co.uk/data/bbc-morph-football-scores-match-list-da
 response_dict = json.loads(requests.get(url).text)
 print(url)
 with open( root / "config/tournaments.json", 'r') as filehandle:
-  tournament_slug = json.load(filehandle)
+    tournament_slug = json.load( filehandle )
 
+    
 for md_events in list(response_dict['matchData']):
     for tournaments in (t_item for t_item in md_events if md_events['tournamentMeta']['tournamentSlug'] in tournament_slug):
         for events in md_events['tournamentDatesWithEvents'][today_date_string]:
@@ -37,7 +37,6 @@ for fixture in sorted(fixtures):
 
 # processing
 if __name__ == "__main__":
-    all_news = "<h2>Fixtures</h2>\n"
     index_page = root / "morning.md"
     index_contents = index_page.open().read()
     final_output = helper.replace_chunk(index_contents, "fixtures_marker", f"<ul>\n{pre_content}</ul>")
