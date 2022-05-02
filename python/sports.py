@@ -38,7 +38,7 @@ for fixture in sorted(fixtures):
 if __name__ == "__main__":
     p = root / "morning.md"
     c = p.open().read()
-    f = helper.replace_chunk(c, "fixtures_marker", f"<ul>\n{pre_content}</ul>")
+    f = helper.replace_chunk(c, "sports_marker", f"<ul>\n{pre_content}</ul>")
     p.open("w").write(f)
     
 print('Sports Completed')
