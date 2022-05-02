@@ -1,9 +1,10 @@
-# importin modules
-import helper
+# importing modules
 import json
 import pathlib
+import helper
 from yahoo_fin import stock_info as si
 
+#setup
 root = pathlib.Path(__file__).parent.parent.resolve()
 with open( root / "config/stocks.json", 'r') as filehandle:
     stocks_list = json.load( filehandle )
