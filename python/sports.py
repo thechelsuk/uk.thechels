@@ -38,7 +38,7 @@ for fixture in sorted(fixtures):
 # processing
 if __name__ == "__main__":
     all_news = "<h2>Fixtures</h2>\n"
-    index_page = root / "index.html"
+    index_page = root / "morning.md"
     index_contents = index_page.open().read()
     final_output = helper.replace_chunk(index_contents, "fixtures_marker", f"<ul>\n{pre_content}</ul>")
     index_page.open("w").write(final_output)
