@@ -33,7 +33,7 @@ jobs:
       run: |-   
         python 'python/quotes.py'
         python 'python/stocks.py'
-      # python 'python/sports.py'
+        python 'python/sports.py'
       # python 'python/weather.py'
     - name: Commit and push
       run: |-
