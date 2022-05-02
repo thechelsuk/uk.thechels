@@ -13,7 +13,6 @@ today_date_string = helper.dtStylish(date.today(), '%A-{th}-%B')
 root = pathlib.Path(__file__).parent.parent.resolve()
 url = f"https://push.api.bbci.co.uk/data/bbc-morph-football-scores-match-list-data/endDate/{date}/startDate/{date}/todayDate/{date}/tournament/full-priority-order/version/2.4.6?timeout=5"
 response_dict = json.loads(requests.get(url).text)
-print(url)
 with open( root / "config/tournaments.json", 'r') as filehandle:
     tournament_slug = json.load( filehandle )
 
@@ -37,7 +36,10 @@ for fixture in sorted(fixtures):
 
 # processing
 if __name__ == "__main__":
-    index_page = root / "morning.md"
-    index_contents = index_page.open().read()
-    final_output = helper.replace_chunk(index_contents, "fixtures_marker", f"<ul>\n{pre_content}</ul>")
-    index_page.open("w").write(final_output)
+    p = root / "morning.md"
+    c = p.open().read()
+    f = helper.replace_chunk(c, "fixtures_marker", f"<ul>\n{pre_content}</ul>")
+    p.open("w").write(f)
+    
+print('Sports Completed')
+
