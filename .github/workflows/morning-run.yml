@@ -40,5 +40,5 @@ jobs:
         git diff
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
-        git diff --quiet || (git add -a && git commit -m "Updated with morning run")
+        git diff --quiet || (git add -A && git commit -m "Updated with morning run")
         git push
