@@ -1,4 +1,4 @@
-name: publish-post
+name: Publish Post
 
 on:
   issues:
