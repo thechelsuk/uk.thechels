@@ -13,9 +13,7 @@ title:
     </article>
   {% endfor %}
   
-  <hr/>
-  {{site.ad.message}}
-  <hr/>
+  <p>{{site.ad.message}}</p>
   
   {% for post in site.posts reverse offset:5 %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
