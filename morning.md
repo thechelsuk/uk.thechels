@@ -17,4 +17,7 @@ title: Good Morning
 ## Quote
 
 <!-- quote_marker starts -->
+> The ScrumMaster is never finished with learning. 
+
+ - Zuzana Sochova
 <!-- quote_marker ends -->
