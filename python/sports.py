@@ -2,8 +2,8 @@
 import json
 import pathlib
 import requests
-import helper
 from datetime import date
+import helper
 
 # setup
 fixtures = set()
