@@ -16,3 +16,5 @@ if __name__ == "__main__":
     c = p.open().read()
     f = helper.replace_chunk( c, "quote_marker", f"> {random_quote}")
     p.open("w").write(f)
+
+print('Quotes Completed')
