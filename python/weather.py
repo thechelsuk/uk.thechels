@@ -1,4 +1,4 @@
-# Import
+# importing modules
 import os
 import helper
 import pathlib
@@ -8,10 +8,10 @@ from datetime import date
 
 # setup
 root = pathlib.Path(__file__).parent.parent.resolve()
-lat=os.getenv('lat')
-lon=os.getenv('lon')
-APIKEY = os.getenv('open_weather_key')
-url = "https://api.openweathermap.org/data/2.5/onecall?lat=%s&lon=%s&appid=%s&exclude=current,minutely,hourly,alerts&units=metric" %(lat,lon,APIKEY)
+lat=os.getenv( 'lat' )
+lon=os.getenv( 'lon' )
+APIKEY = os.getenv( 'open_weather_key' )
+url = "https://api.openweathermap.org/data/2.5/onecall?lat=%s&lon=%s&appid=%s&exclude=current,minutely,hourly,alerts&units=metric" %(lat, lon, APIKEY)
 
 response = requests.get(url)
 response_dict = json.loads(response.text)
