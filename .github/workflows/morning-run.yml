@@ -34,7 +34,7 @@ jobs:
         python 'python/sports.py'
         python 'python/stocks.py'
         python 'python/quotes.py'
-        python 'python/weather.py'
+       # python 'python/weather.py'
     - name: Commit and push if Index page changed
       run: |-
         git diff
