@@ -1,6 +1,6 @@
-# import
-import os
+# importing modules
 import json
+import os
 import pathlib
 
 filename = os.getenv("label") or "test"
