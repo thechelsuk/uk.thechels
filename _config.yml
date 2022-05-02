@@ -16,7 +16,11 @@ social:
 github:
   repository_url: https://github.com/MatBenfield/TheChels.uk
   branch: main
-exclude:        ["README"]
+exclude:
+  "README"
+  "python"
+  "requirements.text"
+  "config"
 sass:
   style:        compressed
 plugins:
