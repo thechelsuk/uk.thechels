@@ -1,7 +1,6 @@
 # importing modules
-import re
 import json
-
+import re
 
 # Replacer function
 def replace_chunk(content, marker, chunk):
