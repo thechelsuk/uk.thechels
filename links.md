@@ -4,8 +4,7 @@ title : Links
 
 ---
 
-# Links
-
+## Links
 
 - [Humans](/humans.txt)
 - [Robots](/robots.txt)
