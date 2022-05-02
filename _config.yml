@@ -7,8 +7,6 @@ url:            https://thechels.uk
 copyright:      "Mat B"
 encoding:       UTF-8
 future:         false
-ad:
-  message: "ad: your ad here"
 social:
   twitter: https://twitter.com/tocfcws
   twitterid: "@tocfcws"
@@ -22,7 +20,8 @@ exclude:
   "requirements.text"
   "config"
 sass:
-  style:        compressed
+  style:
+    compressed
 plugins:
   - jekyll-feed
   - jekyll-avatar
