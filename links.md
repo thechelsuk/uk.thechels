@@ -4,8 +4,6 @@ title : Links
 
 ---
 
-## Links
-
 - [Humans](/humans.txt)
 - [Robots](/robots.txt)
 - [Security](/.well-known/security.txt)
