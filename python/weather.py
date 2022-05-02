@@ -1,10 +1,10 @@
 # importing modules
-import os
-import helper
-import pathlib
 import json
+import os
+import pathlib
 import requests
 from datetime import date
+import helper
 
 # setup
 root = pathlib.Path(__file__).parent.parent.resolve()
