@@ -4,6 +4,9 @@ title : Links
 
 ---
 
-- [Get £50 credit when you switch to Octopus Energy](https://bit.ly/3oD1nnS)
+- [Humans](/humans.txt)
+- [Robots](/robots.txt)
+- [Security](/.well-known/security.txt)
+- [Switch to Octopus Energy for £50 credit](https://bit.ly/3oD1nnS)
 - [Donate to Acorn's Children Hospice](https://bit.ly/2W7zxUB)
-- [Donate directly via PayPal](https://bit.ly/39WmJbY)
+- [Support me via PayPal](https://bit.ly/39WmJbY)
