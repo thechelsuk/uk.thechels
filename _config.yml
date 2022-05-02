@@ -23,6 +23,6 @@ plugins:
 exclude:
   - README.md
   - LICENSE.md
-  - requirements.text
+  - requirements.txt
   - python/
   - config/
