@@ -9,6 +9,11 @@ title: Good Morning
 <!-- weather_marker starts -->
 <!-- weather_marker ends -->
 
+## Stocks
+
+<!-- stocks_marker starts -->
+<!-- stocks_marker ends -->
+
 ## Fixtures
 
 <!-- sports_marker starts -->
