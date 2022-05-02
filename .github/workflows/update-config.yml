@@ -82,7 +82,7 @@ jobs:
         git diff
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
-        git diff --quiet || (git commit -m "Updated with latest")
+        git diff --quiet || (git add -a && git commit -m "Updated with new config")
         git push
     - name: Update issue
       uses: actions/github-script@0.5.0
