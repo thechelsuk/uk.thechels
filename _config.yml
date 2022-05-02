@@ -7,8 +7,6 @@ url:            https://thechels.uk
 copyright:      "Mat B"
 encoding:       UTF-8
 future:         false
-ad:
-  message: "ad: your ad here"
 social:
   twitter: https://twitter.com/tocfcws
   twitterid: "@tocfcws"
@@ -16,9 +14,14 @@ social:
 github:
   repository_url: https://github.com/MatBenfield/TheChels.uk
   branch: main
-exclude:        ["README"]
+exclude:
+  "README"
+  "python"
+  "requirements.text"
+  "config"
 sass:
-  style:        compressed
+  style:
+    compressed
 plugins:
   - jekyll-feed
   - jekyll-avatar

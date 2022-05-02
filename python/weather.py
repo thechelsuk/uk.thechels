@@ -1,0 +1,33 @@
+# importing modules
+import json
+import os
+import pathlib
+import requests
+from datetime import date
+import helper
+
+# setup
+root = pathlib.Path(__file__).parent.parent.resolve()
+lat=os.getenv( 'lat' )
+lon=os.getenv( 'lon' )
+APIKEY = os.getenv( 'open_weather_key' )
+url = "https://api.openweathermap.org/data/2.5/onecall?lat=%s&lon=%s&appid=%s&exclude=current,minutely,hourly,alerts&units=metric" %(lat, lon, APIKEY)
+
+response = requests.get(url)
+response_dict = json.loads(response.text)
+output_date = date.today()
+today_weather = str(response_dict['daily'][0]['temp']['day'])
+high_temp = str(response_dict['daily'][0]['temp']['max'])
+low_temp = str(response_dict['daily'][0]['temp']['min'])
+today_desc = str(response_dict['daily'][0]['weather'][0]['description'])
+
+string_today =  f"Today's date is {output_date}, Here is your daily briefing..."
+string_today += f"The average temperature today is {today_weather}˚C with highs of {high_temp}˚C and lows of {low_temp}˚C. "
+string_today += f"You can expect {today_desc} for the day."
+
+# processing
+if __name__ == "__main__":
+    index_page = root / "morning.md"
+    index_contents = index_page.open().read()
+    final_output = helper.replace_chunk(index_contents, "day_marker", string_today)
+    index_page.open("w").write(final_output)
