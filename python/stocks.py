@@ -19,8 +19,10 @@ def get_stocks(set_of_tickers):
 
 # output
 if __name__ == "__main__":
-    index_page = root / "morning.md"
-    index_contents = index_page.open().read()
-    string_output = get_stocks(stocks_list)
-    final_output = helper.replace_chunk(index_contents, "stocks_marker", f"<ul>\n{string_output}</ul>")
-    index_page.open("w").write(final_output)
+    p = root / "morning.md"
+    c = p.open().read()
+    s = get_stocks(stocks_list)
+    f = helper.replace_chunk(c, "stocks_marker", f"<ul>\n{s}</ul>")
+    p.open("w").write(f)
+
+print('Stocks Completed')
