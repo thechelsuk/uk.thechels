@@ -4,8 +4,6 @@ title: Good Morning
 
 ---
 
-## Weather
-
 <!-- weather_marker starts -->
 <!-- weather_marker ends -->
 
