@@ -34,11 +34,11 @@ jobs:
         python 'python/sports.py'
         python 'python/stocks.py'
         python 'python/quotes.py'
-       # python 'python/weather.py'
+      # python 'python/weather.py'
     - name: Commit and push if Index page changed
       run: |-
         git diff
-        git config --global user.email "index-updater-bot@example.com"
-        git config --global user.name "index-updater-bot"
-        git diff --quiet || (git add -A && git commit -m "Updating morning run")
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git diff --quiet || (git add -A && git commit -m "Updated with latest")
         git push
