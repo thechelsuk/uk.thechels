@@ -29,5 +29,5 @@ string_today += f"You can expect {today_desc} for the day."
 if __name__ == "__main__":
     index_page = root / "morning.md"
     index_contents = index_page.open().read()
-    final_output = helper.replace_chunk(index_contents, "day_marker", string_today)
+    final_output = helper.replace_chunk(index_contents, "weather_marker", string_today)
     index_page.open("w").write(final_output)
