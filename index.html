@@ -15,7 +15,15 @@ title:
   
   <p>{{site.ad.message}}</p>
   
-  {% for post in site.posts reverse offset:5 %}
+  {% for post in site.posts reverse offset:5 limit:5 %}
+     <article class="posts">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+          <span class="date">{{ post.date | date: "%-d %B %Y" }}</span>
+          <span class="num-words">{{ post.content | number_of_words }} words</span>
+    </article>
+  {% endfor %}
+  
+  {% for post in site.posts reverse offset:10 %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% unless year == this_year %}
     {% assign year = this_year %}
