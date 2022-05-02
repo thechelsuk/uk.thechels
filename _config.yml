@@ -14,14 +14,15 @@ social:
 github:
   repository_url: https://github.com/MatBenfield/TheChels.uk
   branch: main
-exclude:
-  "README"
-  "python"
-  "requirements.text"
-  "config"
 sass:
   style:
     compressed
 plugins:
   - jekyll-feed
   - jekyll-avatar
+exclude:
+  - README.md
+  - LICENSE.md
+  - requirements.text
+  - python/
+  - config/
