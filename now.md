@@ -1,0 +1,10 @@
+---
+layout : default
+title : Now
+
+---
+
+- Reading Kindle books
+- Processing over 100 saved articles in NetNewsWire to linked posts
+- Start running again
+- 
