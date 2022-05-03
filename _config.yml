@@ -24,5 +24,5 @@ exclude:
   - README.md
   - LICENSE.md
   - requirements.txt
-  - python/
-  - config/
+  - _python/
+  - _config/
