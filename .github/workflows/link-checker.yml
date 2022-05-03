@@ -17,4 +17,4 @@ jobs:
         with:
           title: Link Checker Report
           content-filepath: ./link-checker/out.md
-          labels: report, automated issue
+          labels: Bot
