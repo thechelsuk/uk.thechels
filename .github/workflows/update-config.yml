@@ -9,6 +9,10 @@ env:
   issue_number : ${{ github.event.issue.number }}
 
 jobs:
+  check_library:
+    runs-on: ubuntu-latest
+    name: Label Check
+    if: contains( github.event.issue.labels.*.name, ('stocks','quotes','websites')
   permission:
     name: permission check
     runs-on: ubuntu-latest
