@@ -81,7 +81,7 @@ jobs:
     - name: Commit and push changes
       run: |-
         git diff
-        git config user.name "Automated"
+        git config user.name "GitHub Action"
         git config user.email "actions@users.noreply.github.com"
         git diff --quiet || (git add -A && git commit -m "Updated with new config")
         git push
