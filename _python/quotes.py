@@ -6,7 +6,7 @@ import json
 
 # setup
 root = pathlib.Path(__file__).parent.parent.resolve()
-with open( root / "config/quotes.json", 'r') as filehandle:
+with open( root / "_config/quotes.json", 'r') as filehandle:
     random_quote = random.choice(json.load(filehandle))
     random_quote = random_quote.replace( "-", "\n\n -")
 
