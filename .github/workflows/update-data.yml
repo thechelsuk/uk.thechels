@@ -1,7 +1,7 @@
-name: Update Config
+name: Update Data Files
 on:
   issues:
-    types: [labeled]
+    types: [labeled, edited]
 
 env:
   content: ${{ github.event.issue.body }}
