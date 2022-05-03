@@ -13,7 +13,7 @@ today_date_string = helper.dtStylish(date.today(), '%A-{th}-%B')
 root = pathlib.Path(__file__).parent.parent.resolve()
 url = f"https://push.api.bbci.co.uk/data/bbc-morph-football-scores-match-list-data/endDate/{date}/startDate/{date}/todayDate/{date}/tournament/full-priority-order/version/2.4.6?timeout=5"
 response_dict = json.loads(requests.get(url).text)
-with open( root / "config/tournaments.json", 'r') as filehandle:
+with open( root / "_config/tournaments.json", 'r') as filehandle:
     tournament_slug = json.load( filehandle )
 
     
