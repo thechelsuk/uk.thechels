@@ -9,13 +9,10 @@ env:
   issue_number : ${{ github.event.issue.number }}
 
 jobs:
-  check_library:
+  Permission:
     runs-on: ubuntu-latest
-    name: Label Check
-    if: contains( github.event.issue.labels.*.name, ('stocks','quotes','websites')
-  permission:
     name: permission check
-    runs-on: ubuntu-latest
+    if: contains( github.event.issue.labels.*.name, ('stocks','quotes')  
     outputs:
       gooduser: ${{ steps.permission_check.conclusion }}
       baduser: ${{ steps.permission_failure.conclusion }}
@@ -35,11 +32,11 @@ jobs:
   closure:
     name: Negative permission action
     runs-on: ubuntu-latest
-    needs: permission
+    needs: Permission
     if: needs.permission.outputs.gooduser != 'success'
     steps:
     - name: permission failure actions
-      if: needs.permission.outputs.gooduser != 'success' && ${{ github.event.label.name }} in ('stocks','quotes','websites')
+      if: needs.permission.outputs.gooduser != 'success' && ${{ github.event.label.name }} in ('stocks','quotes')
       uses: actions/github-script@0.5.0
       with:
         github-token: ${{secrets.GITHUB_TOKEN}}
@@ -59,7 +56,7 @@ jobs:
   build:
     name: Positive permission action
     runs-on: ubuntu-latest
-    needs: permission
+    needs: Permission
     if: needs.permission.outputs.gooduser == 'success' && ${{ github.event.label.name }} in ('stocks','quotes')
     steps:
     - name: Check out repo
