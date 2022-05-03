@@ -32,3 +32,11 @@ Today's date is 2022-05-03, Here is your daily briefing...The average temperatur
 <!-- quote_marker starts -->
 <p class="quote">FOUNTAINS: Bring life and energy to their team. They are positive, encouraging and make everyone around them better, be a fountain - Justin Su'a</p>
 <!-- quote_marker ends -->
+
+## Now & Next
+
+<ul class="now">
+  {% for item in site.data.now %}
+    <li>{{item}}</li>
+  {% endfor %}
+</ul>
