@@ -4,10 +4,8 @@ title : Now
 
 ---
 
-{% assign sorted = site.data.now %}
-
 <ul class="now">
-  {% for item in sorted %}
+  {% for item in site.data.now %}
     <li>{{item.title}}</li>
   {% endfor %}
 </ul>
