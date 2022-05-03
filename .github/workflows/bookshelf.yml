@@ -2,13 +2,12 @@ name: Read a book
 
 on:
   issues:
-    types: opened
+    types: [opened, edited]
 
 jobs:
   update_library:
     runs-on: macOS-latest
     name: Read
-    # only continue if issue has "read" label
     if: contains( github.event.issue.labels.*.name, 'Read')
     steps:
       - name: Checkout
