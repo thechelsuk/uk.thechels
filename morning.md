@@ -22,14 +22,14 @@ title: Good Morning
 
 <!-- sports_marker starts -->
 <ul>
-<li>(20:00) Manchester United - Brentford</li>
+<li>(20:00) Villarreal - Liverpool</li>
 </ul>
 <!-- sports_marker ends -->
 
 ## Quote
 
 <!-- quote_marker starts -->
-> As an Agile coach, you don't need to have all the answers; it takes time and a few experiments to hit the right approach 
+> Encourage use of 'yes, and' (adding) rather 'yes, but' (ending/blocking). 
 
- - Rachel Davies and Liz Sedley
+ - Geoff Watts
 <!-- quote_marker ends -->
