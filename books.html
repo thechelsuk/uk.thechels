@@ -4,10 +4,8 @@ title: BookShelf
 
 ---
 
-{% assign sorted = site.data.read | sort: 'dateFinished' %}
-
 <ul class="books">
-  {% for book in sorted %}
+  {% for book in site.data.read %}
     <li>{{book.title}} - {{book.author}}</li>
   {% endfor %}
 </ul>
