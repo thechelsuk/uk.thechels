@@ -16,6 +16,9 @@ url = "https://api.openweathermap.org/data/2.5/onecall?lat=%s&lon=%s&appid=%s&ex
 response = requests.get(url)
 response_dict = json.loads(response.text)
 output_date = date.today()
+
+print(response_dict)
+
 today_weather = str(response_dict['daily'][0]['temp']['day'])
 high_temp = str(response_dict['daily'][0]['temp']['max'])
 low_temp = str(response_dict['daily'][0]['temp']['min'])
