@@ -6,8 +6,8 @@ on:
     
 jobs:
   build:
-    if: ${{ github.event.label.name == 'publish' }}
     runs-on: ubuntu-latest
+    if: contains( github.event.issue.labels.*.name, 'Publish')
     steps:
       - uses: actions/checkout@v2
 
