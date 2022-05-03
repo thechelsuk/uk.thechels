@@ -1,6 +1,6 @@
 ---
-name: ReadMe next activity template
-about: For responding to my question on my ReadMe about what I should be doing next.
+name: To Do Next
+about: What I should be doing next. Please keep title to the thing, and the issue body for the reasons why. Thanks
 title: 
 labels: 'Next'
 assignees: 'MatBenfield'
