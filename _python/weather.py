@@ -30,7 +30,7 @@ string_today += f"You can expect {today_desc} for the day."
 
 # processing
 if __name__ == "__main__":
-    p = root / "morning.md"
+    p = root / "morning.html"
     c = p.open().read()
     f = helper.replace_chunk(c, "weather_marker", string_today)
     p.open("w").write(f)
