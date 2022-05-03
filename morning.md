@@ -5,16 +5,16 @@ title: Good Morning
 ---
 
 <!-- weather_marker starts -->
-Today's date is 2022-05-03, Here is your daily briefing...The average temperature today is 14.02˚C with highs of 14.9˚C and lows of 9.06˚C. You can expect light rain for the day.
+Today's date is 2022-05-03, Here is your daily briefing...The average temperature today is 14.37˚C with highs of 15.66˚C and lows of 9.06˚C. You can expect light rain for the day.
 <!-- weather_marker ends -->
 
 ## Stocks
 
 <!-- stocks_marker starts -->
 <ul>
-<li>VWRL.L : 85.939</li>
-<li>V3AB.L : 3.84892</li>
-<li>SPXP.L : 62762.83984</li>
+<li>VWRL.L : 86.09</li>
+<li>V3AB.L : 3.85442</li>
+<li>SPXP.L : 62922.65625</li>
 <li>0P00013P6I.L : nan</li>
 </ul>
 <!-- stocks_marker ends -->
@@ -30,7 +30,5 @@ Today's date is 2022-05-03, Here is your daily briefing...The average temperatur
 ## Quote
 
 <!-- quote_marker starts -->
-> Empower the team to resolve their own impediments. 
-
- - Geoff Watts
+<p class="quote">FOUNTAINS: Bring life and energy to their team. They are positive, encouraging and make everyone around them better, be a fountain - Justin Su'a</p>
 <!-- quote_marker ends -->
