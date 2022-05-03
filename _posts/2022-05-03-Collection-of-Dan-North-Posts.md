@@ -1,5 +1,5 @@
 ---
-title: Collection-of-Dan-North-Posts
+title: Collection of Dan North Posts
 layout: post
 date: 2022-05-03
 
