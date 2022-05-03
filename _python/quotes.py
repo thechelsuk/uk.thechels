@@ -11,7 +11,7 @@ with open( root / "_config/quotes.json", 'r') as filehandle:
 
 # processing
 if __name__ == "__main__":
-    p = root / "morning.md"
+    p = root / "morning.html"
     c = p.open().read()
     f = helper.replace_chunk( c, "quote_marker", f'<p class="quote">{random_quote}</p>')
     p.open("w").write(f)
