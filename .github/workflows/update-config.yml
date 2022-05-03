@@ -76,7 +76,7 @@ jobs:
         python -m pip install -r requirements.txt
     - name: Check for new content
       run: |-
-        python 'python/updater.py'
+        python '_python/updater.py'
     - name: Commit and push changes
       run: |-
         git diff
