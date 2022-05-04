@@ -31,9 +31,9 @@ Today's date is 2022-05-04, Here is your daily briefing...The average temperatur
 
 <h3>Quote</h3>
 
-<!-- quote_marker starts -->
-<p class="quote">The best way to empower a team is to begin trusting the team. - Mike Cohn</p>
-<!-- quote_marker ends -->
+{% assign d = site.data.quotes | sample %}
+<p class="quote">{{ d[0] }}</p>
+
 
 <h3>Now & Next</h3>
 
