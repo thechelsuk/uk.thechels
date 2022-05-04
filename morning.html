@@ -31,7 +31,7 @@ Today's date is 2022-05-04, Here is your daily briefing...The average temperatur
 
 <h3>Quote</h3>
 
-{% for item = site.data.quotes | sample %}
+{% for item in site.data.quotes | sample %}
   <p class="quote">{{ item }}</p>
 {% endfor %}
 
