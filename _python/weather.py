@@ -24,7 +24,7 @@ high_temp = str(response_dict['daily'][0]['temp']['max'])
 low_temp = str(response_dict['daily'][0]['temp']['min'])
 today_desc = str(response_dict['daily'][0]['weather'][0]['description'])
 
-string_today =  f"Today's date is {output_date}, Here is your daily briefing..."
+string_today =  f"Today's date is {output_date}..."
 string_today += f"The average temperature today is {today_weather}˚C with highs of {high_temp}˚C and lows of {low_temp}˚C. "
 string_today += f"You can expect {today_desc} for the day."
 
