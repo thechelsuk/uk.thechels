@@ -31,7 +31,6 @@ jobs:
           lat: ${{ secrets.LAT_COORDS }}
           lon: ${{ secrets.LON_COORDS }}
       run: |-   
-        python '_python/quotes.py'
         python '_python/stocks.py'
         python '_python/sports.py'
         python '_python/weather.py'
