@@ -30,8 +30,8 @@ Today's date is 2022-05-04, Here is your daily briefing...The average temperatur
 <!-- sports_marker ends -->
 
 <h3>Quote</h3>
-
-{% for item in site.data.quotes sample:1 %}
+{% assign quote = site.data.quotes sample:1 %}
+{% for item in quotes limit:1 %}
   <p class="quote">{{ item }}</p>
 {% endfor %}
 
