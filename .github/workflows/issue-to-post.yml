@@ -20,17 +20,19 @@ jobs:
           POST_TITLE: ${{ github.event.issue.title }}
         id: title
         run: |
-          POST_TITLE=$(echo "$POST_TITLE" | tr " " "-")
+          POST_FILE=$(echo "$POST_TITLE" | tr " " "-")
+          echo "::set-output name=file::$(echo "$POST_FILE")"
           echo "::set-output name=title::$(echo "$POST_TITLE")"
       - name: Generate Post
         env:
+          POST_FILE: "${{ steps.title.outputs.file }}"
           POST_TITLE: "${{ steps.title.outputs.title }}"
           POST_BODY: "${{ github.event.issue.body }}"
           POST_DATE: "${{ steps.date.outputs.date }}"
         run: |
           cd "_posts"
           POST_FM="---\ntitle: ${POST_TITLE}\nlayout: post\ndate: ${POST_DATE}\n\n---\n\r"
-          file="${POST_DATE}-${POST_TITLE}.md"
+          file="${POST_DATE}-${POST_FILE}.md"
           echo -e "${POST_FM}${POST_BODY}" >> "$file"
           
       - name: Create Pull Request
