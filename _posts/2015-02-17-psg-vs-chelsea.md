@@ -7,7 +7,7 @@ tag:
  
 #### PSG vs Chelsea: The Fans View
 
-The Champions League knockout stages comprise of some of the most highly anticipated games of the season. Ahead of this evening's stand-out tie between PSG and Chelsea, we spoke with @1970_PSG who runs http://1970psg.com and @ChelseaStats who runs http://thechels.co.uk to find out their views on the game, and help UFL users out with some top tips!
+The Champions League knockout stages comprise of some of the most highly anticipated games of the season. Ahead of this evening's stand-out tie between PSG and Chelsea, we spoke with @1970_PSG who runs 1970psg.com and @ChelseaStats who runs thechels.co.uk to find out their views on the game, and help UFL users out with some top tips!
 
 #### Are you happy with how your season has gone so far?
 
@@ -43,11 +43,11 @@ Thankfully though, in the last few weeks we have seen an upturn. The team is pla
 
 @ChelseaStats: I think a 2-1 Chelsea win away. 3-1 at home and so 5-2 on aggregate. I think we did enough last time against them and we are stronger, quicker and more of a team now so can only see one winner.
 
-Thanks to 1970_PSG, your English source for everything Paris Saint Germain, which is worth checking out at: http://1970psg.com
+Thanks to 1970_PSG, your English source for everything Paris Saint Germain, which is worth checking out at: 1970psg.com
 
 You can follow 1970PSG on Twitter here: 1970_PSG
 
-And thanks to ChelseaStats, who runs a popular Chelsea website with a focus on stats: http://thechels.co.uk, where you can find loads of interesting statistics on Chelsea and other Premier League teams!
+And thanks to ChelseaStats, who runs a popular Chelsea website with a focus on stats: thechels.co.uk, where you can find loads of interesting statistics on Chelsea and other Premier League teams!
 
 You can follow ChelseaStats on Twitter here: @ChelseaStats
 
