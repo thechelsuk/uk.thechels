@@ -10,7 +10,7 @@ Some time ago for a bit of fun I had created Horo Football - a twitter account t
 
 Having dabbled with a bit of python recently, I decided to rewrite this in python.
 
-``` PHP
+```PHP
 $string = str_replace( '#zodiac#', $go->getValueFromKey( $zodiac ) , $string );
 $randHouses  = $go->getValuesFromArray( $house  , 2);
 
@@ -25,7 +25,7 @@ public function getValuesFromArray($array, $n) {
 
 becomes
 
-``` Python
+```Python
 for sign in signs :
  dic = {
     "#zodiac#"  : sign,
@@ -44,7 +44,7 @@ I am amazed at how concise python is, having switched from a 200 line php file w
 
 You can see outputs published via a GitHub action to a [README.md file in this repo](https://horofootball.thechels.uk)
 
-``` yaml
+```yaml
 name: Daily Build
 # build
 on:
