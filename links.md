@@ -22,4 +22,4 @@ title : Links
 - [Humans](https://thechels.uk/humans.txt)
 - [Robots](https://thechels.uk/robots.txt)
 - [Security](https://thechels.uk/.well-known/security.txt)
-- [keybase](https://keybase.io/MatBenfield)
+- [Keybase](https://keybase.io/MatBenfield)
