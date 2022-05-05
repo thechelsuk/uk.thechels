@@ -4,11 +4,9 @@ title : Links
 
 ---
 
-
-- [Humans]({{site.url}}/humans.txt)
-- [Robots]({{site.url}}/robots.txt)
-- [Security]({{site.url}}/.well-known/security.txt)
-- [Morning]({{site.url}}/morning)
+- [Morning](https://thechels.uk/morning)
+- [App](https://app.thechels.uk)
+- [Boinc](https://boinc.thechels.uk)
 
 ### Offers
 
@@ -18,3 +16,10 @@ title : Links
 
 - [Donate to Acorn's Children Hospice](https://bit.ly/2W7zxUB)
 - [Support me via PayPal](https://bit.ly/39WmJbY)
+
+### Other
+
+- [Humans](https://thechels.uk/humans.txt)
+- [Robots](https://thechels.uk/robots.txt)
+- [Security](https://thechels.uk/.well-known/security.txt)
+- [keybase](https://keybase.io/MatBenfield)
