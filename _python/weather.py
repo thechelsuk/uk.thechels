@@ -3,6 +3,7 @@ import json
 import os
 import pathlib
 from datetime import date
+
 import helper
 import requests
 
@@ -11,9 +12,10 @@ root = pathlib.Path(__file__).parent.parent.resolve()
 LAT = os.getenv("lat")
 LON = os.getenv("lon")
 APIKEY = os.getenv("open_weather_key")
-url = ( "https://api.openweathermap.org/data/2.5/onecall?lat=%s&lon=%s&appid=%s&exclude=current,minutely,hourly,alerts&units=metric" 
-        %(LAT, LON, APIKEY)
-      )
+url = (
+    "https://api.openweathermap.org/data/2.5/onecall?lat=%s&lon=%s&appid=%s&exclude=current,minutely,hourly,alerts&units=metric"
+    % (LAT, LON, APIKEY)
+)
 
 response = requests.get(url)
 response_dict = json.loads(response.text)
