@@ -30,8 +30,11 @@ Today's date is 2022-05-06...The average temperature today is 16.14˚C with high
 <p class="quote">{{ site.data.quotes[random] }}</p>
 
 <h3>Quote</h3>
-{% assign p = site.data.quotes | sample %}
-<p class="quote">{{ p[0] }}</p>
+{% assign min = 1 %}
+{% assign max = site.data.quotes.size %}
+{% assign diff = max | minus: min %}
+{% assign rN = "now" | date: "%N" | modulo: diff | plus: min %}
+<p class="quote">{{ p[rN] }}</p>
 
 <h3>Now & Next</h3>
 
