@@ -6,7 +6,7 @@ tag:
  - dev
 ---
 
-Some time ago for a bit of fun I had created Horo Football - a twitter account that auto-tweeted (via a [php script](https://github.com/MatBenfield/horofootball.thechels.uk/tree/b31dd1a6a85bfc32a132487942be47f44adec13c) and cron job) some randomly generated horoscopes from a football context.
+Some time ago for a bit of fun I had created Horo Football - a twitter account that auto-tweeted (via a php script and cron job) some randomly generated horoscopes from a football context.
 
 Having dabbled with a bit of python recently, I decided to rewrite this in python.
 
@@ -85,7 +85,7 @@ jobs:
         git push
 ```
 
-As you can see from the action it is essentially a set of key value pairs in yaml. Installing Python and any dependencies in a serverless environment - managed by GitHub, the Python script updates the `README` file and this action commits it.
+As you can see from the action it is essentially a set of key-value pairs in yaml. Installing Python and any dependencies in a serverless environment - managed by GitHub, the Python script updates the `README` file and this action commits it.
 
 `workflow_dispatch` means it can be run manually, `schedule` takes a cron expression. It can also be triggered on a `push` or `pull request`.
 
