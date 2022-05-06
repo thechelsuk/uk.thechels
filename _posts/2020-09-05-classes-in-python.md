@@ -99,4 +99,4 @@ Square doesn't need any attributes passed in so works just fine with the default
 
 Shape, is given 6 sides and named hexagon and has an override of the default colour.
 
-That is [python classes](https://github.com/MatBenfiled/demo_python).
+That is Python Classes.
