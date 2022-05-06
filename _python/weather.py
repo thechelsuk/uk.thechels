@@ -14,7 +14,7 @@ LON = os.getenv("lon")
 APIKEY = os.getenv("open_weather_key")
 url = (
     "https://api.openweathermap.org/data/2.5/onecall?lat=" +
-    "%s&lon=%s&appid=%s&exclude=current,minutely,hourly,alerts&units=metric"
+      "%s&lon=%s&appid=%s&exclude=current,minutely,hourly,alerts&units=metric"
     % (LAT, LON, APIKEY)
 )
 
