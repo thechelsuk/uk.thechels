@@ -2,9 +2,9 @@
 import json
 import os
 import pathlib
-import requests
 from datetime import date
 import helper
+import requests
 
 # setup
 root = pathlib.Path(__file__).parent.parent.resolve()
