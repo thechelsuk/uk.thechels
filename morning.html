@@ -29,6 +29,10 @@ Today's date is 2022-05-06...The average temperature today is 16.14˚C with high
 {% assign random = site.data.quotes | 0 | modulo: site.data.quotes.size %}
 <p class="quote">{{ site.data.quotes[random] }}</p>
 
+<h3>Quote</h3>
+{% assign p = site.data.quotes | sample %}
+<p class="quote">{{ p[0] }}</p>
+
 <h3>Now & Next</h3>
 
 <ul class="now">
