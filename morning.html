@@ -25,19 +25,14 @@ Today's date is 2022-05-06...The average temperature today is 16.14˚C with high
 <li>No fixtures today</li></ul>
 <!-- sports_marker ends -->
 
-<h3>Quote</h3>
-{% assign random = site.data.quotes | 0 | modulo: site.data.quotes.size %}
-<p class="quote">{{ site.data.quotes[random] }}</p>
 
 <h3>Quote</h3>
 {% assign min = 1 %}
 {% assign max = site.data.quotes.size %}
-{{ site.data.quotes.size }}
 {% assign diff = max | minus: min %}
-{{ diff }}
 {% assign rN = "now" | date: "%N" | modulo: diff | plus: min %}
-{{ rN }}
-<p class="quote">{{ p[rN] }}</p>
+{% item =  site.data.quotes[rN] %}
+<p class="quote">{{ item }}</p>
 
 <h3>Now & Next</h3>
 
