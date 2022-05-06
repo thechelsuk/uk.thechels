@@ -26,3 +26,5 @@ exclude:
   - requirements.txt
   - _python/
   - _config/
+include:
+  - ".well-known"

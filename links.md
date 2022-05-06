@@ -4,6 +4,10 @@ title : Links
 
 ---
 
+- [Morning](https://thechels.uk/morning)
+- [App](https://app.thechels.uk)
+- [Boinc](https://boinc.thechels.uk)
+
 ### Offers
 
 - [Switch to Octopus Energy for £50 credit](https://bit.ly/3oD1nnS)
@@ -15,7 +19,7 @@ title : Links
 
 ### Other
 
-- [Humans]({{site.url}}/humans.txt)
-- [Robots]({{site.url}}/robots.txt)
-- [Security]({{site.url}}/.well-known/security.txt)
-- [Morning]({{site.url}}/morning)
+- [Humans](https://thechels.uk/humans.txt)
+- [Robots](https://thechels.uk/robots.txt)
+- [Security](https://thechels.uk/.well-known/security.txt)
+- [Keybase](https://keybase.io/MatBenfield)
