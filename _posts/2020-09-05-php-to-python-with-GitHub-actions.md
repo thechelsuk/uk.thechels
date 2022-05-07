@@ -42,7 +42,7 @@ for sign in signs :
 
 I am amazed at how concise python is, having switched from a 200 line php file with a few methods coded in different classes so around 250 all in, to around 180 in python, but with processing (excluding the arrays of data) to around 25 lines.
 
-You can see outputs published via a GitHub action to a [README.md file in this repo](https://thechelsorg.github.io/horofootball/)
+You can see outputs published via a GitHub action to a [README.md file in this repo](https://thechelsorg.GitHub.io/horofootball/)
 
 ```yaml
 name: Daily Build
