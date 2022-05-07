@@ -15,7 +15,7 @@ title : Links
 ### Support
 
 - [Donate to Acorn's Children Hospice](https://bit.ly/2W7zxUB)
-- [Support me via PayPal](https://bit.ly/39WmJbY)
+- [Support me via PayPal](https://www.paypal.com/paypalme/matbenfield)
 
 ### Other
 
