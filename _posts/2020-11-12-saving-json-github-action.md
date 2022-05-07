@@ -38,7 +38,7 @@ jobs:
       run: |-
         git diff
         git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
+        git config user.email "actions [at] users.noreply [dot] github.com"
         git diff --quiet || (git add -A && git commit -m "Updated with latest")
         git push
 ```
