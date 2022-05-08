@@ -1,4 +1,4 @@
-name: Lighthouse
+name: Lighthouse and Accessibility
 on: [pull_request, workflow_dispatch]
 
 jobs:
@@ -9,4 +9,8 @@ jobs:
     - name: Lighthouse
       uses: foo-software/lighthouse-check-action@master
       with:
-        urls: 'https://thechels.uk'
+        urls: 'https://thechels.uk'        
+    - name: Scan for accessibility issues
+      uses: microsoft/accessibility-insights-action@v2
+      with:
+          url: 'https://thechels.uk'
