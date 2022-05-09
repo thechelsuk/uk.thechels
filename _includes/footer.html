@@ -3,7 +3,7 @@
 </div>
     <div class="footer">
       <div class="wrapper">
-        <p>&copy; {{ site.time | date: '%Y' }}
+        <p>&copy; {{ site.time | date: '%Y' }} | 
          {% if site.copyright %}
              <a href="{{ site.social.github }}">{{ site.copyright }}</a> | 
              {% else %}
@@ -12,10 +12,10 @@
         <a href="{{ site.url }}/links">Links</a>  | 
         <a href="{{ site.url }}/morning">Morning</a> |
         <a href="{{ site.social.twitter }}">{{ site.social.twitterid }}</a> |
-        </p>
-        <p class="num-words">   
+          <span class="num-words">   
            <a href="{{ site.github.repository_url }}/tree/{{ site.github.branch }}/{{ page.relative_path }}">Edit</a> | 
              {{ site.posts | size }} total posts.
+           </span>
         </p>
       </div>
   </div>
