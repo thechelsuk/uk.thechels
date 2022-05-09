@@ -60,7 +60,7 @@ jobs:
     if: needs.permission.outputs.gooduser == 'success' && ${{ github.event.label.name }} in ('stocks','quotes','now')
     steps:
     - name: Check out repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
     - name: Set up Python
       uses: actions/setup-python@v3
       with:
