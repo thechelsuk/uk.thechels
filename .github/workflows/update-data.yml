@@ -12,7 +12,7 @@ jobs:
   Permission:
     runs-on: ubuntu-latest
     name: permission check
-    if: ${{ github.event.label.name }} in ('stocks','quotes','now')
+    if: ${{ github.event.label.name }} in ('stocks','quotes','next')
     outputs:
       gooduser: ${{ steps.permission_check.conclusion }}
       baduser: ${{ steps.permission_failure.conclusion }}
@@ -36,7 +36,7 @@ jobs:
     if: needs.permission.outputs.gooduser != 'success'
     steps:
     - name: permission failure actions
-      if: needs.permission.outputs.gooduser != 'success' && ${{ github.event.label.name }} in ('stocks','quotes','now')
+      if: needs.permission.outputs.gooduser != 'success' && ${{ github.event.label.name }} in ('stocks','quotes','next')
       uses: actions/github-script@v6.0.0
       with:
         github-token: ${{secrets.GITHUB_TOKEN}}
@@ -57,7 +57,7 @@ jobs:
     name: Positive permission action
     runs-on: ubuntu-latest
     needs: Permission
-    if: needs.permission.outputs.gooduser == 'success' && ${{ github.event.label.name }} in ('stocks','quotes','now')
+    if: needs.permission.outputs.gooduser == 'success' && ${{ github.event.label.name }} in ('stocks','quotes','next')
     steps:
     - name: Check out repo
       uses: actions/checkout@v3
