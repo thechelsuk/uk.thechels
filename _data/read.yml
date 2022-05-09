@@ -1,0 +1,22 @@
+
+  - isbn: "9781491973899"
+    dateFinished: "2021-12-01"
+    title: "The Manager's Path"
+    authors:
+      - "Camille Fournier"
+    publishedDate: "2017"
+    description: "Managing people is difficult wherever you work. But in the tech industry, where management is also a technical discipline, the learning curve can be brutal--especially when there are few tools, texts, and frameworks to help you. In this practical guide, author Camille Fournier (tech lead turned CTO) takes you through each stage in the journey from engineer to technical manager. From mentoring interns to working with senior staff, you'll get actionable advice for approaching various obstacles in your path. This book is ideal whether you're a new manager, a mentor, or a more experienced leader looking for fresh advice. Pick up this book and learn how to become a better manager and leader in your organization. Begin by exploring what you expect from a manager Understand what it takes to be a good mentor, and a good tech lead Learn how to manage individual members while remaining focused on the entire team Understand how to manage yourself and avoid common pitfalls that challenge many leaders Manage multiple teams and learn how to manage managers Learn how to build and bootstrap a unifying culture in teams"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1491973897"
+      - type: "ISBN_13"
+        identifier: "9781491973899"
+    pageCount: 244
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=xeUpMQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=xeUpMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Manager_s_Path.html?hl=&id=xeUpMQAACAAJ"
