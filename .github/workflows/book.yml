@@ -1,0 +1,27 @@
+name: Book manager
+on:
+  issues:
+    types: opened
+
+jobs:
+  update_library:
+    runs-on: macOS-latest
+    name: Read
+    # only continue if issue has "read" label
+    if: contains( github.event.issue.labels.*.name, 'read')
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Read
+        uses: katydecorah/read-action@v3.0.1
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A && git commit -m "Add ${{ env.BookTitle }} to _data/read.yml"
+          git push
+      - name: Close issue
+        uses: peter-evans/close-issue@v1
+        with:
+          issue-number: "${{ env.IssueNumber }}"
+          comment: "📚 You read ${{ env.BookTitle }} on ${{env.DateRead}}."
