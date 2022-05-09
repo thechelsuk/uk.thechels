@@ -11,7 +11,7 @@ title:
     <h2>{{ year }}</h2>
   {% endunless %}
           <article class="posts">
-            <a href="{{ post.url }}">{{ post.title }}{% if post.link %} &rarr;{% endif %}</a>
+            <a href="{{ post.url }}">{{ post.title }}</a> {% if post.link %} &rarr;{% endif %}
             <span class="num-words">{{ post.content | number_of_words }} words on {{ post.date | date: "%-d %B %Y" }}.</span>
           </article>
   {% endfor %}
