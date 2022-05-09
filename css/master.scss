@@ -288,11 +288,8 @@ cite {
 
 
 // NEW STYLES
-
-.posts .date,
 .posts .num-words {
   color: $font-dark;
-  font-style: italic;
   font-size: 75%;
   margin-left: 6px;
 }
@@ -320,25 +317,6 @@ cite {
     float: right;
     color: $font-dark;
   }
-
-.post-date,
-.post-num-words {
-  float: right;
-  font-style: italic;
-  color: $font-dark;
-  margin-top: 10px;
-  font-size: 0.9em;
-}
-
-.post-num-words span {
-  color: $font-dark;
-}
-
-.post-date:after {
-  content: '\b7';
-  margin-right: 10px;
-  margin-left: 7px;
-}
 
 .floated {
   float: left;
@@ -421,23 +399,9 @@ cite {
     float: none !important;
     margin-left: 0 !important;
   }
-
-  .date {
-    display: block;
-    margin-left: 0 !important;
-  }
-
-  .post-date,
+  
   .post-num-words {
     float: none !important;
-  }
-
-  .post-date:after {
-    content: '';
-  }
-
-  .post-date:before {
-    content: '\b7';
   }
 
   .back-to-front {
