@@ -12,7 +12,10 @@
         <a href="{{ site.url }}/links">Links</a>  | 
         <a href="{{ site.url }}/morning">Morning</a> |
         <a href="{{ site.social.twitter }}">{{ site.social.twitterid }}</a> |
-        <a href="{{ site.github.repository_url }}/tree/{{ site.github.branch }}/{{ page.relative_path }}">Edit</a>
+        </p>
+        <p class="num-words">   
+           <a href="{{ site.github.repository_url }}/tree/{{ site.github.branch }}/{{ page.relative_path }}">Edit</a> | 
+             {{ site.posts | size }} total posts.
         </p>
       </div>
   </div>
