@@ -1,4 +1,4 @@
-name: Lighthouse and Accessibility
+name: Lighthouse
 on: [pull_request, workflow_dispatch]
 
 jobs:
