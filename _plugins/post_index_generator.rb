@@ -4,7 +4,7 @@ module Jekyll
         priority :low
         def generate(site)
             site.posts.each_with_index do |item, index|
-                item.data['index'] = index
+                item.data["index"] = index
             end
         end
     end
