@@ -8,4 +8,4 @@ cited: Get Started Here
 
 ---
 
-Hey, want to join me at Chase UK? We'll both get £20 when you join and pay in £20. Get started with link below. T
+Hey, want to join me at Chase UK? We'll both get £20 when you join and pay in £20. Get started with link below. T&ampCs apply.
