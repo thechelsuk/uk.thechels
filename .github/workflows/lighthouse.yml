@@ -9,7 +9,7 @@ jobs:
       uses: foo-software/lighthouse-check-action@master
       with:
         urls: "https://thechels.uk"
-        Type: "all"
+        Device: "all"
         gitAuthor: ${{ github.actor }}
         gitBranch: ${{ github.ref }}
         gitHubAccessToken: ${{ secrets.GITHUB_TOKEN }}
