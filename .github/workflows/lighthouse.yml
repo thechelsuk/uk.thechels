@@ -1,20 +1,21 @@
 name: Lighthouse
 on: [pull_request, workflow_dispatch]
-jobs:
-  lighthouse:
+--- 
+jobs: 
+  lighthouse: 
     runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v3
-    - name: Lighthouse
-      uses: foo-software/lighthouse-check-action@master
-      with:
-        urls: "https://thechels.uk"
-        Device: "all"
-        gitAuthor: ${{ github.actor }}
-        gitBranch: ${{ github.ref }}
-        gitHubAccessToken: ${{ secrets.GITHUB_TOKEN }}
-        minAccessibilityScore: "90"
-        minBestPracticesScore: "90"
-        minPerformanceScore: "90"
-        minProgressiveWebAppScore: "25"
-        minSeoScore: "90"
+    steps: 
+        - uses: actions/checkout@v3
+        - name: Lighthouse
+        uses: foo-software/lighthouse-check-action@master
+        with: 
+          Device: all
+          gitAuthor: "${{ github.actor }}"
+          gitBranch: "${{ github.ref }}"
+          gitHubAccessToken: "${{ secrets.GITHUB_TOKEN }}"
+          minAccessibilityScore: "90"
+          minBestPracticesScore: "90"
+          minPerformanceScore: "90"
+          minProgressiveWebAppScore: "25"
+          minSeoScore: "90"
+          urls: "https://thechels.uk"
