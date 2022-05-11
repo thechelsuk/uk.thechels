@@ -10,3 +10,11 @@ jobs:
       uses: foo-software/lighthouse-check-action@master
       with:
         urls: 'https://thechels.uk'
+        gitAuthor: ${{ github.actor }}
+        gitBranch: ${{ github.ref }}
+        gitHubAccessToken: ${{ GITHUB_TOKEN }}
+        minAccessibilityScore: "90"
+        minBestPracticesScore: "90"
+        minPerformanceScore: "90"
+        minProgressiveWebAppScore: "25"
+        minSeoScore: "90"
