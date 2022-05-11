@@ -19,7 +19,7 @@ title:
     {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
     {% assign offer =  site.data.offers[item] %}
         <article class="posts" id="{{offer.id}}">
-          <a href="{{offer.link}}">{{offer.title}}</a>
+           &rarr; <a href="{{offer.link}}">{{offer.title}}</a>
           <span class="num-words">Sponsor/ad</span>
         </article>   
     
