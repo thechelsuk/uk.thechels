@@ -47,12 +47,6 @@ jobs:
             repo: context.repo.repo,
             body: ':x: Attempt triggered by @' + context.actor + ' who is not the repository owner. `${{ github.event.label.name }}` stopped.'
           })
-          github.rest.issues.removeLabel({
-            issue_number: context.issue.number,
-            owner: context.repo.owner,
-            repo: context.repo.repo,
-            name: '${{ github.event.label.name }}'
-          })
   build:
     name: Positive permission action
     runs-on: ubuntu-latest
