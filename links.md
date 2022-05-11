@@ -11,6 +11,7 @@ title : Links
 ### Offers
 
 - [Switch to Octopus Energy for £50 credit](https://bit.ly/3oD1nnS)
+- [Join Chase UK and get £20 when you deposit £20](https://link.go.chase/emNK/refer?code=zMPjO4VL)
 
 ### Support
 
