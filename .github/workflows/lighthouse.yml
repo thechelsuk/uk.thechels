@@ -1,7 +1,5 @@
----
 name: Lighthouse
 on: [pull_request, workflow_dispatch]
-
 jobs:
   lighthouse:
     runs-on: ubuntu-latest
@@ -10,8 +8,8 @@ jobs:
     - name: Lighthouse
       uses: foo-software/lighthouse-check-action@master
       with:
-        urls: 'https://thechels.uk'
-        Type: 'all' 
+        urls: "https://thechels.uk"
+        Type: "all"
         gitAuthor: ${{ github.actor }}
         gitBranch: ${{ github.ref }}
         gitHubAccessToken: ${{ secrets.GITHUB_TOKEN }}
