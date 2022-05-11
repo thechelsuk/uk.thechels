@@ -16,15 +16,13 @@ title:
       <a href="https://link.go.chase/emNK/refer?code=zMPjO4VL">Join Chase UK and We’ll both get £20 when you pay in £20 &rarr;</a>
       <span class="num-words">Sponsor/ad</span>
    </article>
-   <p><a href="https://link.go.chase/emNK/refer?code=zMPjO4VL"><code>Join Chase UK and We’ll both get £20 when you pay in £20</code></a></p>
-  
+
   {% for post in site.posts offset:5 %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% unless year == this_year %}
     {% assign year = this_year %}
     <h2>{{ year }}</h2>
   {% endunless %}
-          {% endif %}
           <article class="posts">
             <a href="{{ post.url }}">{{ post.title }}</a> {% if post.link %} &rarr;{% endif %}
             <span class="num-words">{{ post.content | number_of_words }} words on {{ post.date | date: "%-d %B %Y" }}.</span>
