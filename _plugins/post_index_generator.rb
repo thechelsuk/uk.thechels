@@ -1,6 +1,8 @@
+
 module Jekyll
     # add post number
     # frozen_string_literal: true
+    
     class PostIndex < Generator
         safe true
         priority :low
