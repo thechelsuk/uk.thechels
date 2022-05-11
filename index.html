@@ -10,6 +10,9 @@ title:
     {% assign year = this_year %}
     <h2>{{ year }}</h2>
   {% endunless %}
+          {% if post.index === 5 %}
+          <p><a href="https://link.go.chase/emNK/refer?code=zMPjO4VL"><code>Join Chase UK and We’ll both get £20 when you pay in £20</code></a></p>
+          {% endif %}
           <article class="posts {{post.index}}">
             <a href="{{ post.url }}">{{ post.title }}</a> {% if post.link %} &rarr;{% endif %}
             <span class="num-words">{{ post.content | number_of_words }} words on {{ post.date | date: "%-d %B %Y" }}.</span>
