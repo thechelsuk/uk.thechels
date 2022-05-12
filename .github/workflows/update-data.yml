@@ -2,18 +2,14 @@ name: Update Data Files
 on:
   issues:
     types: [labeled, edited]
-
 env:
   content: ${{ github.event.issue.body }}
   label: ${{ github.event.label.name }}
   issue_number : ${{ github.event.issue.number }}
-
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
-    if: needs.permission.outputs.gooduser == 'success' && ${{ github.event.label.name }} in ('stocks','quotes','next')
+    if: ${{ github.event.label.name }} in ('stocks','quotes','next')
     steps:
     - name: Check out repo
       uses: actions/checkout@v3
