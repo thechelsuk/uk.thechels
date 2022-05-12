@@ -9,7 +9,8 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: ${{ github.event.label.name }} in ('stocks','quotes','next')
+    name: quote
+    if: contains( github.event.issue.labels.*.name, 'quotes')
     steps:
     - name: Check out repo
       uses: actions/checkout@v3
