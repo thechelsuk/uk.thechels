@@ -1,4 +1,4 @@
-name: Update Data Files
+name: Add Quote
 on:
   issues:
     types: [labeled, edited]
