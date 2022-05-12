@@ -1,0 +1,37 @@
+---
+layout : default
+title : Links
+
+---
+
+<ul class="links">
+  {% for item in site.data.links %}
+  <li><a href="{{item.link}}">{{item.title}}</a></li>
+  {% endfor %}
+</ul>
+
+
+<h3>Offers</h3>
+
+<ul class="Offers">
+  {% for item in site.data.offers %}
+  <li><a href="{{item.link}}">{{item.title}}</a></li>
+  {% endfor %}
+</ul>
+
+
+<h3>Support</h3>
+
+<ul class="Support">
+  {% for item in site.data.links-support %}
+  <li><a href="{{item.link}}">{{item.title}}</a></li>
+  {% endfor %}
+</ul>
+
+<h3>Other</h3>
+
+<ul class="other">
+  {% for item in site.data.links-other %}
+  <li><a href="{{item.link}}">{{item.title}}</a></li>
+  {% endfor %}
+</ul>
