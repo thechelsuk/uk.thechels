@@ -1,4 +1,4 @@
-name: Book manager
+name: Add Book
 on:
   issues:
     types: opened
