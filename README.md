@@ -1,12 +1,24 @@
 # Site
 
-[![Code QL](https://github.com/MatBenfield/TheChels.uk/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/codeql-analysis.yml) [![Lighthouse](https://github.com/MatBenfield/TheChels.uk/actions/workflows/lighthouse.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/lighthouse.yml) [![Link Checker](https://github.com/MatBenfield/TheChels.uk/actions/workflows/link-checker.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/link-checker.yml) [![Linter](https://github.com/MatBenfield/TheChels.uk/actions/workflows/linter.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/linter.yml) 
-
-[![Morning Run](https://github.com/MatBenfield/TheChels.uk/actions/workflows/morning-run.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/morning-run.yml) [![Publish Post](https://github.com/MatBenfield/TheChels.uk/actions/workflows/issue-to-post.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/issue-to-post.yml) [![Update Data Files](https://github.com/MatBenfield/TheChels.uk/actions/workflows/update-data.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/update-data.yml) [![pages-build-deployment](https://github.com/MatBenfield/TheChels.uk/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/pages/pages-build-deployment)
-
 A blog hosted on GitHub available at TheChels.uk. The site uses Jekyll, a static site generator, on Ruby. DNS and SSL by Cloudflare. It also uses GitHub actions, GitHub issues, and Python for extensive automation.
 
 It is called "weak notes" as play on words of the popular "week notes" blogging style - due to the likelihood I will be inconsistent and therefore weak at it.
+
+## Badges
+
+[![Code QL](https://github.com/MatBenfield/TheChels.uk/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/codeql-analysis.yml) 
+[![Lighthouse](https://github.com/MatBenfield/TheChels.uk/actions/workflows/lighthouse.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/lighthouse.yml) 
+[![Link Checker](https://github.com/MatBenfield/TheChels.uk/actions/workflows/link-checker.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/link-checker.yml) 
+[![Linter](https://github.com/MatBenfield/TheChels.uk/actions/workflows/linter.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/linter.yml) 
+[![Dependency Review](https://github.com/MatBenfield/TheChels.uk/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/dependency-review.yml)
+[![pages-build-deployment](https://github.com/MatBenfield/TheChels.uk/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/pages/pages-build-deployment)
+
+[![Add Book](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-book.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-book.yml)
+[![Add Now and Next](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-next.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-next.yml)
+[![Add Post](https://github.com/MatBenfield/TheChels.uk/actions/workflows/issue-to-post.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/issue-to-post.yml)
+[![Add Quote](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-quote.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-quote.yml)
+[![Add Stock](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-stock.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-stock.yml)
+[![Morning Run](https://github.com/MatBenfield/TheChels.uk/actions/workflows/morning-run.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/morning-run.yml) 
 
 ## Morning
 
