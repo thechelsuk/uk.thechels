@@ -1,5 +1,5 @@
-_layouts/post.html
-_includes/footer.html
-_includes/header.html
+_layouts/*
+_includes/*
+_includes/*
 index.html
 https://www.rapidtables.com/tools/line-graph.html
