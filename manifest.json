@@ -1,0 +1,10 @@
+{
+  "name": "Mat B",
+  "short_name": "Mat B",
+  "theme_color": "#005ca3",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}

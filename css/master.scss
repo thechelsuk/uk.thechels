@@ -62,7 +62,15 @@ body {
   font-variant: small-caps;
   color: $border-dark;
   margin-left: 2px;
-  margin-bottom: 60px;
+  margin-bottom: 0px;
+}
+
+.blog-menu {
+  margin-top: 0;
+  text-transform: lowercase;
+  font-variant: small-caps;
+  margin-left: 2px;
+  margin-bottom: 30px;
 }
 
 .blog-image {
@@ -425,7 +433,7 @@ and (max-device-width:480px) {
     display: none;
   }
   
-  .blog-slogan {
+  .blog-menu {
     margin-bottom: 10px;
   }
 }

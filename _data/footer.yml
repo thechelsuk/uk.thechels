@@ -1,17 +1,21 @@
 --- 
 - 
   id: "1"
+  link: "https://thechels.uk/feeds/feed.json"
+  title: "Feed"
+- 
+  id: "2"
   link: "https://thechels.uk/humans.txt"
   title: "Humans"
 - 
-  id: "2"
+  id: "3"
   link: "https://thechels.uk/robots.txt"
   title: "Robots"
 - 
-  id: "3"
+  id: "4"
   link: "https://thechels.uk/.well-known/security.txt"
   title: "Security"
 - 
-  id: "4"
+  id: "5"
   link: "https://keybase.io/MatBenfield"
   title: "Keybase"

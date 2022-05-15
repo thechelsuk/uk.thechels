@@ -9,6 +9,17 @@
     <meta name="format-detection" content="address=no"/>
     <meta name="HandheldFriendly" content="True" />
     <meta name="theme-color" content="#005CA3" />
+    <link rel="manifest" href="/manifest.json">
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/images/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/images/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-180x180.png" />
     <link rel="stylesheet" href="/css/master.css?v=2022">
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} xml" href="{{ site.url }}/feed.xml">
@@ -31,5 +42,12 @@
                  {% else %}
              {% endif %}
         </p>
+        <nav class="blog-menu">
+          &rarr; 
+          <a href="{{ site.url }}/links">Links</a> 
+          <a href="{{ site.url }}/morning">Morning</a> 
+          <a href="{{ site.social.twitter }}">{{ site.social.twitterid }}</a> 
+          <a href="{{ site.social.github }}">Github</a>
+        </nav>
         
         <div class="content">
