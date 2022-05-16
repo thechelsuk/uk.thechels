@@ -1,0 +1,11 @@
+---
+layout : default
+title : Books
+
+---
+
+<ul class="links">
+  {% for item in site.data.read %}
+  <li>{{item.title}}</li>
+  {% endfor %}
+</ul>
