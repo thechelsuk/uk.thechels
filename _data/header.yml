@@ -1,0 +1,25 @@
+--- 
+- 
+  id: "1"
+  link: "https://thechels.uk/about"
+  title: "About"
+- 
+  id: "2"
+  link: "https://thechels.uk/links"
+  title: "Links"
+- 
+  id: "3"
+  link: "https://thechels.uk/morning"
+  title: "Morning"
+- 
+  id: "4"
+  link: "{{ site.social.twitter }}"
+  title: "{{ site.social.twitterid }}"
+- 
+  id: "5"
+  link: "{{ site.social.github }}"
+  title: "{{ site.social.githubid }}"
+- 
+  id: "6"
+  link: "{{ site.social.linkedin }}"
+  title: "{{ site.social.linkedinid }}" 
