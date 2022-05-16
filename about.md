@@ -16,3 +16,11 @@ You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blo
 ## Now & Next
 
 * [Now](https://thechels.uk/morning#Now) and [What should I be doing next?](https://github.com/MatBenfield/TheChels.uk/issues/new?assignees=MatBenfield&labels=Next&template=next.md&title=Next%3A+); Based on [the now page](https://thenow.page) and an idea by [Derek Sivers](https://sive.rs/nowff)
+
+## Around the web
+
+- [LinkedIn](https://thechels.uk/linkedin)
+- [MeetUp](https://www.meetup.com/members/197754442/)
+- [Strava](https://www.strava.com/athletes/24249743)
+- [StackOverflow](https://stackoverflow.com/users/894932/mat-benfield)
+- [Twitter](https://twitter.com/tocfcws)
