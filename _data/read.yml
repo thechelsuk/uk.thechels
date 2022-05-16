@@ -212,6 +212,26 @@
       thumbnail: "https://books.google.com/books/content?id=xH2stAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Radical_Candor.html?hl=&id=xH2stAEACAAJ"
+  - isbn: "9781780746487"
+    dateFinished: "2019-01-01"
+    title: "The Wisest One in the Room"
+    authors:
+      - "Thomas Gilovich"
+      - "Lee Ross"
+    publishedDate: "2016-01"
+    description: "Psychologists Thomas Gilovich and Lee Ross reveal their discipline's greatest discoveries so we can all become wiser. From conflict resolution to family arguments, and from overcoming social shyness to encouraging people to recycle, they demonstrate how the smallest changes in social context, feedback, or the way an issue is presented can have the most dramatic consequences. Replete with real-world examples, they offer a fascinating examination of human behaviour, and reveal how we can become more adept at tackling the challenges, great and small, that we face every day."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1780746482"
+      - type: "ISBN_13"
+        identifier: "9781780746487"
+    pageCount: 320
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=oHE9jgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=oHE9jgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Wisest_One_in_the_Room.html?hl=&id=oHE9jgEACAAJ"
   - isbn: "9780571303175"
     dateFinished: "2019-01-15"
     title: "The Way of the Runner"
