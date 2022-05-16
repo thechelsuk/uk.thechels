@@ -128,6 +128,27 @@
       thumbnail: "https://books.google.com/books/content?id=6FyxoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Zero_to_One.html?hl=&id=6FyxoQEACAAJ"
+  - isbn: "9781911274841"
+    dateFinished: "2018-09-27"
+    title: "Running for My Life"
+    authors:
+      - "Rachel Cullen"
+    publishedDate: "2018"
+    description: "Suffering from bipolar disorder, and hungry for approval at any price, Rachel Cullen's life was defined by flunked relationships, an ill-fitting career and poor health to match. Stuck in an endless cycle of disappointment, and not knowing how to handle her mental illness, she put on a pair of old trainers. She'd never been able to think of herself as a 'runner', and the first time she forced herself out the door, she knew it would hurt. She just didn't realise how much it would heal her, too."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1911274848"
+      - type: "ISBN_13"
+        identifier: "9781911274841"
+    pageCount: 352
+    printType: "BOOK"
+    categories:
+      - "Manic-depressive persons"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=oZWHtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=oZWHtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Running_for_My_Life.html?hl=&id=oZWHtAEACAAJ"
   - isbn: "9780571303175"
     dateFinished: "2019-01-15"
     title: "The Way of the Runner"
