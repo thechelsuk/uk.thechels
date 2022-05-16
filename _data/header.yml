@@ -13,13 +13,13 @@
   title: "Morning"
 - 
   id: "4"
-  link: "{{ site.social.twitter }}"
-  title: "{{ site.social.twitterid }}"
+  link: {{ site.social.twitter }}
+  title: {{ site.social.twitterid }}
 - 
   id: "5"
-  link: "{{ site.social.github }}"
-  title: "{{ site.social.githubid }}"
+  link: {{ site.social.github }}
+  title: {{ site.social.githubid }}
 - 
   id: "6"
-  link: "{{ site.social.linkedin }}"
-  title: "{{ site.social.linkedinid }}" 
+  link: {{ site.social.linkedin }}
+  title: {{ site.social.linkedinid }} 
