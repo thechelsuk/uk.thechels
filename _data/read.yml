@@ -39,6 +39,31 @@
       thumbnail: "https://books.google.com/books/content?id=sDTwtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Drive.html?hl=&id=sDTwtAEACAAJ"
+  - isbn: "9780201633610"
+    dateFinished: "2018-02-10"
+    title: "Design Patterns"
+    authors:
+      - "Erich Gamma"
+      - "Ralph Johnson"
+      - "Richard Helm"
+      - "Ralph E.. Johnson"
+      - "John Vlissides"
+    publishedDate: "1995"
+    description: "A catalog of solutions to commonly occurring design problems, presenting 23 patterns that allow designers to create flexible and reusable designs for object-oriented software. Describes the circumstances in which each pattern is applicable, and discusses the consequences and trade-offs of using the pattern within a larger design. Patterns are compiled from real systems, and include code for implementation in object-oriented programming languages like C++ and Smalltalk. Includes a bibliography. Annotation copyright by Book News, Inc., Portland, OR"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "3827330432"
+      - type: "ISBN_13"
+        identifier: "9783827330437"
+    pageCount: 395
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=tmNNfSkfTlcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=tmNNfSkfTlcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Design_Patterns.html?hl=&id=tmNNfSkfTlcC"
   - isbn: "9781847672933"
     dateFinished: "2018-07-01"
     title: "For Richer, for Poorer"
