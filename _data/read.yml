@@ -1,4 +1,25 @@
 
+  - isbn: "9780571303175"
+    dateFinished: "2019-01-15"
+    title: "The Way of the Runner"
+    authors:
+      - "Adharanand Finn"
+    publishedDate: "2016-04-07"
+    description: "We know what Haruki Murakami talks about when he talks about running -- but did you know that Japan has the most developed and lucrative running league in the world? Or that one of the biggest events in Japan's sporting calendar is an intensely fought marathon relay race called an 'ekiden', which gets Superbowl-like viewing figures on TV? From the marathon monks who run a thousand marathons in a thousand days in search of spiritual enlightenment, to the car and electronics companies who see their ekiden teams as a badge of corporate honour, Finn takes us on a tour of this complex, contradictory and unique running culture - and discovers what it can do for his own running style and performance."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "057130317X"
+      - type: "ISBN_13"
+        identifier: "9780571303175"
+    pageCount: 352
+    printType: "BOOK"
+    categories:
+      - "Long-distance relay races"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=fXsCswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=fXsCswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Way_of_the_Runner.html?hl=&id=fXsCswEACAAJ"
   - isbn: "9781491973899"
     dateFinished: "2021-12-01"
     title: "The Manager's Path"
