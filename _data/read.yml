@@ -106,6 +106,27 @@
       thumbnail: "https://books.google.com/books/content?id=KLJPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Hooked.html?hl=&id=KLJPEAAAQBAJ"
+  - isbn: "9780316167253"
+    dateFinished: "2018-09-01"
+    title: "Happiness"
+    authors:
+      - "Matthieu Ricard"
+    publishedDate: "2007-01-05"
+    description: "A molecular biologist turned Buddhist monk, described by scientists as \"the happiest man alive,\" demonstrates how to develop the inner conditions for true happiness."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0316167258"
+      - type: "ISBN_13"
+        identifier: "9780316167253"
+    pageCount: 304
+    printType: "BOOK"
+    categories:
+      - "Self-Help"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=Uj71GgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=Uj71GgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Happiness.html?hl=&id=Uj71GgAACAAJ"
   - isbn: "9781785783265"
     dateFinished: "2018-09-25"
     title: "Influence, Impact, Succeed"
