@@ -234,6 +234,27 @@
       thumbnail: "https://books.google.com/books/content?id=xH2stAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Radical_Candor.html?hl=&id=xH2stAEACAAJ"
+  - isbn: "9781985635487"
+    dateFinished: "2018-12-21"
+    title: "The 1% Rule: How to Fall in Love with the Process and Achieve Your Wildest Dreams"
+    authors:
+      - "Tommy Baker"
+    publishedDate: "2018-03-06"
+    description: "In a highlight reel, microwave world — you're led to believe success is right around the corner: It's not working. Not only is it not working with your ability to achieve your goals, we've never been more frustrated, stuck, stressed and unfulfilled. Most personal development is all about the big and bold vision, yet these days we're not missing ambition or dreamers... We're missing results and execution. But what if there was a way to shut off the noise, fall in love with the process and take one step forward every single day as you paint your life's masterpiece? Enter The 1% Rule — a daily system designed to help you close the gap without the crushing pressure that has kept you stuck in the past. The 1% Rule was designed to answer three core questions: Why do some people seem to achieve massive success with everything they do — while others can't seem to get out of their own way? What separates those who get excited and inspired for a season, a quarter or a few months — and those who are consistently on fire? ​ What are the mindsets, principles, routines and behaviors of those who execute daily, and those who sit on the sidelines pondering? ...through answering these questions over the last decade in the trenches with thousands of people — they are now the framework of The 1% Rule and are yours today. It's time to take your power back, grab your copy now. If you're ready to ditch the highlight reel illusion... If you're tired of sitting on the sidlines waiting... If you're frustrated with the 24/7 noise... You've come to the right place!"
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781985635487"
+      - type: "ISBN_10"
+        identifier: "1985635488"
+    pageCount: 292
+    printType: "BOOK"
+    categories:
+      - "Self-Help"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=vErhDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=vErhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://play.google.com/store/books/details?id=vErhDwAAQBAJ"
   - isbn: "9781780746487"
     dateFinished: "2019-01-01"
     title: "The Wisest One in the Room"
