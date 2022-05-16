@@ -17,7 +17,7 @@ body {
 }
 
 body {
-  border-top: 8px solid $border-dark;
+  border-top: 12px solid $border-dark;
   margin: 0;
   font-family:Lato,'San Francisco','Gill Sans',sans-serif;
   color: $font-darkest;
@@ -26,7 +26,7 @@ body {
 }
 
 #outer-wrapper {
-  border-top: 8px solid $border-light;
+  border-top: 12px solid $border-light;
   min-height: 80%;
   margin-bottom: -40px;
 }
