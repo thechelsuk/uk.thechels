@@ -127,6 +127,28 @@
       thumbnail: "https://books.google.com/books/content?id=Uj71GgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Happiness.html?hl=&id=Uj71GgAACAAJ"
+  - isbn: "9780804141239"
+    dateFinished: "2018-09-22"
+    title: "Triggers"
+    authors:
+      - "Marshall Goldsmith"
+      - "Mark Reiter"
+    publishedDate: "2015"
+    description: "A renowned executive coach and psychologist shows readers how to recognize and overcome the emotional and psychological triggers that set off a reaction or a behavior that often is detrimental so that they can achieve meaningful and sustained change."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780804141239"
+      - type: "ISBN_10"
+        identifier: "0804141231"
+    pageCount: 244
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=WuqMDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=WuqMDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Triggers.html?hl=&id=WuqMDQAAQBAJ"
   - isbn: "9781785783265"
     dateFinished: "2018-09-25"
     title: "Influence, Impact, Succeed"
