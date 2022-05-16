@@ -149,6 +149,27 @@
       thumbnail: "https://books.google.com/books/content?id=oZWHtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Running_for_My_Life.html?hl=&id=oZWHtAEACAAJ"
+  - isbn: "9781509845385"
+    dateFinished: "2018-09-27"
+    title: "Radical Candor"
+    authors:
+      - "Kim Scott"
+    publishedDate: "2018-03-08"
+    description: "The old adage is ingrained in us that if you don't have anything nice to say then don't say anything at all. While this advice may work for home life, as Kim Scott has seen first hand, it is a disaster when adopted by managers in the work place.Scott earned her stripes as a highly successful manager at Google before moving to Apple where she developed a class on optimal management. Radical Candor draws directly on her experiences at these cutting edge companies to reveal a new approach to effective management that delivers huge success by inspiring teams to work better together by embracing fierce conversations.Radical Candor is the sweet spot between managers who are obnoxiously aggressive on the one side and ruinously empathetic on the other. It is about providing guidance, which involves a mix of praise as well as criticism - delivered to produce better results and help employees develop their skills and boundaries of success.Great bosses have a strong relationship with their employees, and Scott has identified three simple principles for building better relationships with your employees: make it personal, get stuff done, and understand why it matters.Radical Candor offers a guide to those bewildered or exhausted by management, written for bosses and those who manage bosses. Drawing on years of first hand experience, and distilled clearly to give actionable lessons to the reader, Radical Candor shows how to be successful while retaining your integrity and humanity. Radical Candor is the perfect handbook for those who are looking to find meaning in their job and create an environment where people both love their work, their colleagues and are motivated to strive to ever greater success."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1509845380"
+      - type: "ISBN_13"
+        identifier: "9781509845385"
+    pageCount: 272
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=xH2stAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=xH2stAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Radical_Candor.html?hl=&id=xH2stAEACAAJ"
   - isbn: "9780571303175"
     dateFinished: "2019-01-15"
     title: "The Way of the Runner"
