@@ -319,6 +319,28 @@
       thumbnail: "https://books.google.com/books/content?id=MGCHd9CPiawC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Eat_and_Run.html?hl=&id=MGCHd9CPiawC"
+  - isbn: "9780321822031"
+    dateFinished: "2018-12-25"
+    title: "Managing the Unmanageable"
+    authors:
+      - "Mickey W. Mantle"
+      - "Ron Lichty"
+    publishedDate: "2013"
+    description: "This book has assembled a guide that will help you hire, motivate, and mentor a software development team that functions at the highest level. Their rules of thumb and coaching advice form a great blueprint for new and experienced software engineering managers alike. All too often, software development is deemed unmanageable. The news is filled with stories of projects that have run catastrophically over schedule and budget."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780321822031"
+      - type: "ISBN_10"
+        identifier: "032182203X"
+    pageCount: 422
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=MDkFCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=MDkFCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Managing_the_Unmanageable.html?hl=&id=MDkFCAAAQBAJ"
   - isbn: "9781780746487"
     dateFinished: "2019-01-01"
     title: "The Wisest One in the Room"
