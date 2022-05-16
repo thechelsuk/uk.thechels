@@ -297,6 +297,28 @@
       thumbnail: "https://books.google.com/books/content?id=BpaOvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Chelsea.html?hl=&id=BpaOvQEACAAJ"
+  - isbn: "9781408833407"
+    dateFinished: "2018-12-25"
+    title: "Eat and Run"
+    authors:
+      - "Scott Jurek"
+      - "Steve Friedman"
+    publishedDate: "2013"
+    description: "An inspirational memoir by Scott Jurek, one of the finest ultrarunners in the world."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781408833407"
+      - type: "ISBN_10"
+        identifier: "1408833409"
+    pageCount: 320
+    printType: "BOOK"
+    categories:
+      - "Long-distance runners"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=MGCHd9CPiawC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=MGCHd9CPiawC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Eat_and_Run.html?hl=&id=MGCHd9CPiawC"
   - isbn: "9781780746487"
     dateFinished: "2019-01-01"
     title: "The Wisest One in the Room"
