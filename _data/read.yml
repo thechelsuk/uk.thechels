@@ -1,4 +1,25 @@
 
+  - isbn: "9781847672933"
+    dateFinished: "2018-07-01"
+    title: "For Richer, for Poorer"
+    authors:
+      - "Victoria Coren"
+    publishedDate: "2011-03-01"
+    description: "Miserable at an elegant day school for girls, Victoria Coren finds an escape in the mysterious world of poker. Twenty years later, she has won a million dollars and forgotten to have children. What price adventure? This is a true story of happiness and heartbreak, smoke and mirrors, bright lights and shady characters. It is a memoir of friendship and belonging, love and loss. It might also teach you how to win a million . . ."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781847672933"
+      - type: "ISBN_10"
+        identifier: "1847672930"
+    pageCount: 352
+    printType: "BOOK"
+    categories:
+      - "Poker"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=lvHfHVS_yeYC&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=lvHfHVS_yeYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/For_Richer_for_Poorer.html?hl=&id=lvHfHVS_yeYC"
   - isbn: "9780571303175"
     dateFinished: "2019-01-15"
     title: "The Way of the Runner"
