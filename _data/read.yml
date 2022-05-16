@@ -106,6 +106,28 @@
       thumbnail: "https://books.google.com/books/content?id=66A1tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Influence_Impact_Succeed.html?hl=&id=66A1tAEACAAJ"
+  - isbn: "9780753555200"
+    dateFinished: "2018-09-27"
+    title: "Zero to One"
+    authors:
+      - "Peter Thiel"
+      - "Blake Masters"
+    publishedDate: "2015-06-01"
+    description: "WHAT VALUABLE COMPANY IS NOBODY BUILDING? The next Bill Gates will not build an operating system. The next Larry Page or Sergey Brin wonâe(tm)t make a search engine. If you are copying these guys, you arenâe(tm)t learning from them. Itâe(tm)s easier to copy a model than to make something new: doing what we already know how to do takes the world from 1 to n, adding more of something familiar. Every new creation goes from 0 to 1. This book is about how to get there. âe~Peter Thiel has built multiple breakthrough companies, and Zero to One shows how.âe(tm) ELON MUSK, CEO of SpaceX and Tesla âe~This book delivers completely new and refreshing ideas on how to create value in the world.âe(tm) MARK ZUCKERBERG, CEO of Facebook âe~When a risk taker writes a book, read it. In the case of Peter Thiel, read it twice. Or, to be safe, three times. This is a classic.âe(tm) NASSIM NICHOLAS TALEB, author of The Black Swan"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0753555204"
+      - type: "ISBN_13"
+        identifier: "9780753555200"
+    pageCount: 210
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=6FyxoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=6FyxoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Zero_to_One.html?hl=&id=6FyxoQEACAAJ"
   - isbn: "9780571303175"
     dateFinished: "2019-01-15"
     title: "The Way of the Runner"
