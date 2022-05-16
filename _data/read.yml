@@ -85,6 +85,27 @@
       thumbnail: "https://books.google.com/books/content?id=lvHfHVS_yeYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/For_Richer_for_Poorer.html?hl=&id=lvHfHVS_yeYC"
+  - isbn: "9781785783265"
+    dateFinished: "2018-09-25"
+    title: "Influence, Impact, Succeed"
+    authors:
+      - "Dianne Lowther"
+    publishedDate: "2018-02-08"
+    description: "A Practical Guide to using NLP to become more successful at work."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1785783262"
+      - type: "ISBN_13"
+        identifier: "9781785783265"
+    pageCount: 224
+    printType: "BOOK"
+    categories:
+      - "Neurolinguistic programming"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=66A1tAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=66A1tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Influence_Impact_Succeed.html?hl=&id=66A1tAEACAAJ"
   - isbn: "9780571303175"
     dateFinished: "2019-01-15"
     title: "The Way of the Runner"
