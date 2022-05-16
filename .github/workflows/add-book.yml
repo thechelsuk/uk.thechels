@@ -1,7 +1,7 @@
 name: Add Book
 on:
   issues:
-    types: opened
+    types: [labeled, edited]
 
 jobs:
   update_library:
