@@ -16,8 +16,10 @@ I work as an Engineering Manager at a business-to-business, api-first fintech in
 
 ## Around the web
 
+- [GitHub](https://github.com/MatBenfield/)
 - [LinkedIn](https://thechels.uk/linkedin)
 - [MeetUp](https://www.meetup.com/members/197754442/)
 - [Strava](https://www.strava.com/athletes/24249743)
 - [StackOverflow](https://stackoverflow.com/users/894932/mat-benfield)
 - [Twitter](https://twitter.com/tocfcws)
+
