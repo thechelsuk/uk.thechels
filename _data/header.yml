@@ -13,13 +13,13 @@
   title: "Morning"
 - 
   id: "4"
-  link: {{ site.social.twitter }}
-  title: {{ site.social.twitterid }}
+  link: "https://twitter.com/tocfcws"
+  title: "@tocfcws"
 - 
   id: "5"
-  link: {{ site.social.github }}
-  title: {{ site.social.githubid }}
+  link: "https://github.com/MatBenfield/"
+  title: "GitHub"
 - 
   id: "6"
-  link: {{ site.social.linkedin }}
-  title: {{ site.social.linkedinid }} 
+  link: "https://www.linkedin.com/in/mat-benfield/"
+  title: "LinkedIn"
