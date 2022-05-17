@@ -89,7 +89,7 @@ body {
 
 .book-list {
     display: grid;
-    grid-gap: 1rem;
+    grid-gap: 0;
     grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
     max-width: 860px;
 }
