@@ -592,6 +592,25 @@
       thumbnail: "https://books.google.com/books/content?id=HlA8EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Advice_Trap.html?hl=&id=HlA8EAAAQBAJ"
+  - isbn: "9781777076504"
+    dateFinished: "2021-10-07"
+    title: "Code Your Way Up"
+    authors:
+      - "Greg Thomas"
+    publishedDate: "2020-03-06"
+    description: "In Code Your Way Up, Greg asks and answers the important questions facing leaders in the software industry that don't get asked enough, and identifies what it takes to be a great software leader and what to do when things go sideways."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1777076501"
+      - type: "ISBN_13"
+        identifier: "9781777076504"
+    pageCount: 226
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=xCxLzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=xCxLzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Code_Your_Way_Up.html?hl=&id=xCxLzQEACAAJ"
   - isbn: "9781491973899"
     dateFinished: "2021-12-01"
     title: "The Manager's Path"
