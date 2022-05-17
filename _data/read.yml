@@ -800,6 +800,27 @@
       thumbnail: "https://books.google.com/books/content?id=ICSpCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Sprint.html?hl=&id=ICSpCwAAQBAJ"
+  - isbn: "9781591847533"
+    dateFinished: "2022-01-17"
+    title: "Turn Your Ship Around!"
+    authors:
+      - "David Marquet"
+    publishedDate: "2015-01-27"
+    description: "In Turn the Ship Around! (Portfolio, 2013), former U.S. Navy Captain David Marquet introduced a bold new approach to leadership, based on his experiences turning around the troubled submarine USS Santa Fe. Now Marquet returns with a workbook so readers can apply his methods to their own organisations. With extensive questions and exercises on how to delegate and inspire, this workbook will help readers build a work community based on personal responsibility and trust."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1591847532"
+      - type: "ISBN_13"
+        identifier: "9781591847533"
+    pageCount: 182
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=40T1nwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=40T1nwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Turn_Your_Ship_Around.html?hl=&id=40T1nwEACAAJ"
   - isbn: "9780957491939"
     dateFinished: "2022-05-17"
     title: "Building Successful Communities of Practice"
