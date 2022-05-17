@@ -930,6 +930,25 @@
       thumbnail: "https://books.google.com/books/content?id=5iDxvQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/DevOps_for_Digital_Leaders.html?hl=&id=5iDxvQAACAAJ"
+  - isbn: "9780996245814"
+    dateFinished: "2021-12-11"
+    title: "Rapid Teamwork"
+    authors:
+      - "Sean Glaze"
+    publishedDate: "2015-10-21"
+    description: "Rapid Teamwork offers leaders a solution to that all-too-common problem in an easy-to-read and entertaining leadership parable."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0996245812"
+      - type: "ISBN_13"
+        identifier: "9780996245814"
+    pageCount: 160
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=w7gzjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=w7gzjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Rapid_Teamwork.html?hl=&id=w7gzjwEACAAJ"
   - isbn: "9781781331163"
     dateFinished: "2021-12-16"
     title: "Key Person of Influence"
