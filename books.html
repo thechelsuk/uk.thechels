@@ -1,13 +1,13 @@
 ---
 layout : default
-title : Books
+title : Bookshelf
 
 ---
 
-<p>Bookshelf of {{ site.data.read | size }} books I have read since 2019</p>
+<p>{{ site.data.read | size }} books I have read since 2019</p>
 
 <div class="book-list">
-  {% for item in site.data.read | sort item['dateFinished'] %}
+  {% for item in site.data.read | sort reversed %}
   <div class="book"> 
     <div class="book-img"><img src="/images/books/book-{{item.isbn}}.png" /></div>
   </div>
