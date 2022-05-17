@@ -861,6 +861,27 @@
       thumbnail: "https://books.google.com/books/content?id=atGoDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Anger.html?hl=&id=atGoDAAAQBAJ"
+  - isbn: "9781473668942"
+    dateFinished: "2022-01-10"
+    title: "The Miracle Morning"
+    authors:
+      - "Hal Elrod"
+    publishedDate: "2017-12-07"
+    description: "What's being widely regarded as \"one of the most life changing books ever written\" may be the simplest approach to achieving everything you've ever wanted, and faster than you ever thought possible 'Hal Elrod is a genius and his book The Miracle Morning has been magical in my life' Robert Kiyosaki, bestselling author of Rich Dad Poor Dad What if you could wake up tomorrow and any - or EVERY - area of your life was beginning to transform? What would you change? The Miracle Morning is already transforming the lives of tens of thousands of people around the world by showing them how to wake up each day with more ENERGY, MOTIVATION, and FOCUS to take your life to the next level. It's been right here in front of us all along, but this book has finally brought it to life. Are you ready? The next chapter of YOUR life-the most extraordinary life you've ever imagined-is about to begin. It's time to WAKE UP to your full potential... 'Every once in a while, you read a book that changes the way you look at life, but it is so rare to find a book that changes the way you live your life' Tim Sanders, New York Times bestselling author of The Likeability Factor 'To read The Miracle Morning is to give yourself the gift of waking up each day to your full potential. It's time to stop putting off creating the life you want and deserve to live. Read this book and find out how' Dr Ivan Misner, CEO and Founder of BNI®"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1473668948"
+      - type: "ISBN_13"
+        identifier: "9781473668942"
+    pageCount: 224
+    printType: "BOOK"
+    categories:
+      - "Self-Help"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=ogoetAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=ogoetAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Miracle_Morning.html?hl=&id=ogoetAEACAAJ"
   - isbn: "9781591847533"
     dateFinished: "2022-01-17"
     title: "Turn Your Ship Around!"
