@@ -83,11 +83,6 @@ body {
   margin-top: 0;
 }
 
-.book-list {
-    padding-right: 1em;
-    padding-left: 1em;
-}
-
 .book-list .book {
     display: flex;
 }
@@ -95,8 +90,10 @@ body {
 .book-list {
     display: grid;
     grid-gap: 1rem;
-    grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(128px, 1fr));
     max-width: 860px;
+    padding-right: 1em;
+    padding-left: 1em;
 }
 
 .book-list .book-img {
