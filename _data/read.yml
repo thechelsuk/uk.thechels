@@ -804,6 +804,27 @@
       thumbnail: "https://books.google.com/books/content?id=SDLgzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Beginning_Node_js_Express_MongoDB_Develo.html?hl=&id=SDLgzQEACAAJ"
+  - isbn: "9781292084978"
+    dateFinished: "2021-11-13"
+    title: "The Coaching Manual"
+    authors:
+      - "Julie Starr"
+    publishedDate: "2016-01-20"
+    description: "Translated around the world, and recommended reading on many coaching programmes this bestselling book is trusted globally as the definitive guide to coaching. This carefully revised edition will guide you through the entire process from first meeting to when coaching ends, with methods, tips and techniques that simply work. Understand and develop the core skills and beliefs of an effective coach Know how to ask insightful questions that deliver valuable answers Gain practical help to plan coaching assignments that accelerate and improve your results Adeptly handle the main barriers to great coaching Feel fully confident in your ability to coach in any situation Whether you’re new to coaching or already an experienced coach, you’ll find clear guidance and principles to help you coach more effectively and with greater impact. To support you further The Coaching Manual has a range of free to download resources – templates, tools and checklists – available now at www.starrconsulting.co.uk. \"Full of important information that all coaches just need to know! I would absolutely recommend this book to any coach, neophyte or experienced.\" Cherie Carter-Scott, Ph.D. MCC, Author of If Life is a Game, These are the Rules, Transformational Life Coaching and 15 other titles \"The definitive resource for aspiring as well as seasoned coaches. No one has brought to life the nuts and bolts better than Julie Starr.\" Marshall Goldsmith, #1 New York Times bestselling author of Triggers, Mojo and What Got You Here Won't Get You There"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1292084979"
+      - type: "ISBN_13"
+        identifier: "9781292084978"
+    pageCount: 368
+    printType: "BOOK"
+    categories:
+      - "Personal coaching"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=v2ksjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=v2ksjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Coaching_Manual.html?hl=&id=v2ksjgEACAAJ"
   - isbn: "9781491973899"
     dateFinished: "2021-12-01"
     title: "The Manager's Path"
