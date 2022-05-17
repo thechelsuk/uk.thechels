@@ -341,6 +341,27 @@
       thumbnail: "https://books.google.com/books/content?id=MDkFCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Managing_the_Unmanageable.html?hl=&id=MDkFCAAAQBAJ"
+  - isbn: "9780147516305"
+    dateFinished: "2018-12-31"
+    title: "Happiness by Design"
+    authors:
+      - "Paul Dolan"
+    publishedDate: "2015-07-14"
+    description: "“Bold and original.” —Daniel Kahneman, PhD, bestselling author of Thinking Fast and Slow There are a slew of books on the market dictating programs for achieving happiness, but Happiness by Design is the first to explain that happiness ultimately depends upon our experience of pleasure and purpose over time—and everyone has their own optimal balance. Combining the latest insights from economics and psychology, renowned behavior expert Paul Dolan, PhD, shows readers how to integrate his ground–breaking paradigm into a practical plan for deciding, designing, and doing the things that bring them true happiness."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780147516305"
+      - type: "ISBN_10"
+        identifier: "0147516307"
+    pageCount: 256
+    printType: "BOOK"
+    categories:
+      - "Self-Help"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=3phPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=3phPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Happiness_by_Design.html?hl=&id=3phPEAAAQBAJ"
   - isbn: "9781780746487"
     dateFinished: "2019-01-01"
     title: "The Wisest One in the Room"
