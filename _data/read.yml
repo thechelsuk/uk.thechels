@@ -467,6 +467,27 @@
       thumbnail: "https://books.google.com/books/content?id=Ma_YsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Key_Person_of_Influence.html?hl=&id=Ma_YsgEACAAJ"
+  - isbn: "9780241244944"
+    dateFinished: "2022-01-05"
+    title: "Quiet Leadership"
+    authors:
+      - "Carlo Ancelotti"
+      - "Chris Brady"
+      - "Mike Forde"
+    publishedDate: "2017-04-06"
+    description: "'Steeped in glory, loved by players for his light touch, he is probably the most coveted coach in the world.' - Financial Times 'a treasury of anecdote and insight' - The Guardian '[Ancelotti's] new book, Quiet Leadership, contains page upon page of insight into his methods from Cristiano Ronaldo, Zlatan Ibrahimovic, John Terry and more'. - Sport Magazine Carlo Ancelotti is one of the greatest managers of all time, with five Champions League titles to his name. Yet his approach could not be further from the aggressive theatricals favoured by many of his rivals. His understated style has earned him the fierce loyalty of players like David Beckham, Zlatan Ibrahimovic and Cristiano Ronaldo. In Quiet Leadership, Ancelotti reveals the full, riveting story of his managerial career - his methods, mentors, mistakes and triumphs - and takes us inside the dressing room to trace the characters, challenges and decisions that have shaped him. The result is both a scintillating memoir and a rare insight into the business of leadership."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0241244943"
+      - type: "ISBN_13"
+        identifier: "9780241244944"
+    pageCount: 336
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=gxZEvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=gxZEvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Quiet_Leadership.html?hl=&id=gxZEvgAACAAJ"
   - isbn: "9781501121746"
     dateFinished: "2022-01-10"
     title: "Sprint"
