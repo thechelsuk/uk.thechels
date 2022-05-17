@@ -698,6 +698,25 @@
       thumbnail: "https://books.google.com/books/content?id=xeUpMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Manager_s_Path.html?hl=&id=xeUpMQAACAAJ"
+  - isbn: "9781674040424"
+    dateFinished: "2021-12-11"
+    title: "Aws"
+    authors:
+      - "Raoul Alongi"
+    publishedDate: "2019-12-10"
+    description: "Struggling to come to grips with cloud technology? Amazon Web Services offer on-demand cloud services created with customer satisfaction in mind. AWS is one of the best cloud services out there, but starting the tech can be tricky if you don't have the right guide. This book was written exactly for anyone wanting to use cloud systems in their place of work, for the first time. It's one of the only books on the market that holds your hand and guides you step by step to setting up Amazon Web Services for yourself. You won't get this quality of cloud computing information anywhere else! It gets straight to the point allowing you get finished with setting up the ground-breaking technology FASTER. No hype! No fuss! Just pure value! This amazing book will cover: Fundamentals of cloud computing Basic terminologies for the AWS cloud platform Cloud computing security (VERY IMPORTANT for businesses!) Basics of SaaS, PaaS, IaaS cloud computing services Cloud computing development models Mobile Services with AWS Amplify, Pinpoint and AWS AppSync Network and Content Delivery Developer tools such as AWS Code Commit and AWS X-Ray Management tools such as Cloud Formation and AWS control tower Using managed Blockchain for Amazon Quantum Ledger Databases (QLDB) Security, Identity and compliance Business applications such as Alexa, Amazon Chime and Toll (video conferencing) Cost Management (Often Overlooked!) Desktop and App streaming Which one is better? Artificial intelligence or Machine Learning? Game Dev (Fantastic for Indie Developers!) Internet of things (IOT) Finally, you will be able to effectively utilise the resource that is AWS cloud services, in record time and you'll have fun along the way!"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1674040423"
+      - type: "ISBN_13"
+        identifier: "9781674040424"
+    pageCount: 240
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=j16izAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=j16izAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Aws.html?hl=&id=j16izAEACAAJ"
   - isbn: "9781781331163"
     dateFinished: "2021-12-16"
     title: "Key Person of Influence"
