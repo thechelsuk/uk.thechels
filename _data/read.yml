@@ -675,6 +675,23 @@
       thumbnail: "https://books.google.com/books/content?id=Ma_YsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Key_Person_of_Influence.html?hl=&id=Ma_YsgEACAAJ"
+  - isbn: "9798623817303"
+    dateFinished: "2022-01-01"
+    title: "Body Language"
+    authors:
+      - "Edward Cooper"
+    publishedDate: "2020-03-11"
+    description: "Do You Want To Be Able To Understand Someone Even Before They Start Talking? Start Now! Nonverbal Communication Gives Us Much More Information About A Person Than Verbal Communication Does. Body Language Helps Us Better Understand People And Pick Up On What They Do Not Verbalize. For That, You Must Be Ready To Pay More Attention To Body Language. This book helps people be useful in all walks of life, at work, home, and in relationships. The persuasive power of body language can even improve our relationship with ourselves by improving our trust in ourselves and in others. You will discover: Understand Yourself and Others Learn Negotiation Conversation Approaches to Influence and Persuade How to influence people Influence People In Business And more... What are you waiting for? Stop overthinking and start! Scroll up and 'Buy with 1-Click' NOW!"
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9798623817303"
+    pageCount: 112
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=bUFqzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=bUFqzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Body_Language.html?hl=&id=bUFqzQEACAAJ"
   - isbn: "9780241244944"
     dateFinished: "2022-01-05"
     title: "Quiet Leadership"
