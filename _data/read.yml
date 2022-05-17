@@ -571,6 +571,27 @@
       thumbnail: "https://books.google.com/books/content?id=CbouDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Ikigai.html?hl=&id=CbouDwAAQBAJ"
+  - isbn: "9781989025758"
+    dateFinished: "2021-10-07"
+    title: "The Advice Trap"
+    authors:
+      - "Michael Bungay Stanier"
+    publishedDate: "2020-02-29"
+    description: "From the author of the runaway bestseller The Coaching Habit comes an authoritative guide to getting the most out of your workforce--and it all starts with curbing your urge to dole out advice. In The Advice Trap, bestselling author, speaker, and leadership coach Michael Bungay Stanier shares his invaluable insights into developing team members' professional performance, using tips that even the busiest managers can put into play. Learn how to confront and quell the three advice monsters that lurk inside us all, and how to resist the seven temptations that can ensnare even the most well-meaning manager. With his trademark wit and wisdom, Michael shows you exactly how to ask questions that drive impact and engagement, eliminate the negative and accentuate the positive. He takes you through examples of common problem situations, and reveals how to overcome them by using his everyday coaching tips. Finally, he shows you how to attain the highest level of engagement with his \"blackbelt\" tools of employee interaction: transparency, lightness and deep appreciation. A companion to The Coaching Habit, The Advice Trap gives you the power to say less, ask more--and change how you lead forever."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781989025758"
+      - type: "ISBN_10"
+        identifier: "1989025757"
+    pageCount: 248
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=HlA8EAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=HlA8EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Advice_Trap.html?hl=&id=HlA8EAAAQBAJ"
   - isbn: "9781491973899"
     dateFinished: "2021-12-01"
     title: "The Manager's Path"
