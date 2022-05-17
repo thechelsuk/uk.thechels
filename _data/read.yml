@@ -403,3 +403,24 @@
       thumbnail: "https://books.google.com/books/content?id=xeUpMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Manager_s_Path.html?hl=&id=xeUpMQAACAAJ"
+  - isbn: "9780957491939"
+    dateFinished: "2022-05-17"
+    title: "Building Successful Communities of Practice"
+    authors:
+      - "Emily Webber"
+    publishedDate: "2016-02-23"
+    description: "Connecting with other people, finding a sense of belonging and the need for support are natural human desires. Employees who don't feel supported at work don't stay around for long - or if they do, they quickly become unmotivated and unhappy. At a time when organisational structures are flattening and workforces are increasingly fluid, supporting and connecting people is more important than ever. This is where organisational communities of practice come in. Communities of practice have many valuable benefits. They include accelerating professional development; breaking down organisational silos; enabling knowledge sharing and management; building better practice; helping to hire and retain staff; and making people happier. In this book, Emily Webber shares her learning from personal experiences of building successful communities of practice within organisations. And along the way, she gives practical guidance on creating your own."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "095749193X"
+      - type: "ISBN_13"
+        identifier: "9780957491939"
+    pageCount: 80
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=bDNbjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=bDNbjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Building_Successful_Communities_of_Pract.html?hl=&id=bDNbjwEACAAJ"
