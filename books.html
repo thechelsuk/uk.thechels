@@ -4,8 +4,15 @@ title : Books
 
 ---
 
-<div class="bookshelf">
+<div class="book-list">
   {% for item in site.data.read %}
-  <img src="/images/books/book-{{item.isbn}}.png" />
+  <div class="book"> 
+    <div class="book-img"><img src="/images/books/book-{{item.isbn}}.png" /></div>
+    <div class="book-name">{{item.title}}</div>
+    <div class="book-meta">
+      <div class="book-authors">{{ item.author }}</div>
+      <div>{{ item.date }}</div>
+    </div>
+  </div>
   {% endfor %}
 </div>
