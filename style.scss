@@ -90,16 +90,13 @@ body {
 .book-list {
     display: grid;
     grid-gap: 1rem;
-    grid-template-columns: repeat(auto-fill, minmax(128px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
     max-width: 860px;
-    padding-right: 1em;
-    padding-left: 1em;
 }
 
 .book-list .book-img {
     flex-shrink: 0;
-    width: 75px;
-    margin-right: 0.5em;
+    width: 90px;
 }
 
 h2,
