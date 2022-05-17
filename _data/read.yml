@@ -403,6 +403,29 @@
       thumbnail: "https://books.google.com/books/content?id=xeUpMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Manager_s_Path.html?hl=&id=xeUpMQAACAAJ"
+  - isbn: "9781501121746"
+    dateFinished: "2022-01-10"
+    title: "Sprint"
+    authors:
+      - "Jake Knapp"
+      - "John Zeratsky"
+      - "Braden Kowitz"
+    publishedDate: "2016-03-08"
+    description: "From three design partners at Google Ventures, a unique five-day process--called the sprint--for solving tough problems using design, prototyping, and testing ideas with customers."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781501121746"
+      - type: "ISBN_10"
+        identifier: "150112174X"
+    pageCount: 288
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=ICSpCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=ICSpCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Sprint.html?hl=&id=ICSpCwAAQBAJ"
   - isbn: "9780957491939"
     dateFinished: "2022-05-17"
     title: "Building Successful Communities of Practice"
