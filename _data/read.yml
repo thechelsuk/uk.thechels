@@ -719,6 +719,28 @@
       thumbnail: "https://books.google.com/books/content?id=sDf9zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Rise_and_Development_of_Fintech.html?hl=&id=sDf9zQEACAAJ"
+  - isbn: "9781484242209"
+    dateFinished: "2021-10-09"
+    title: "Rethinking Productivity in Software Engineering"
+    authors:
+      - "Caitlin Sadowski"
+      - "Thomas Zimmermann"
+    publishedDate: "2019-04-15"
+    description: "Get the most out of this foundational reference and improve the productivity of your software teams. This open access book collects the wisdom of the 2017 \"Dagstuhl\" seminar on productivity in software engineering, a meeting of community leaders, who came together with the goal of rethinking traditional definitions and measures of productivity. The results of their work, Rethinking Productivity in Software Engineering, includes chapters covering definitions and core concepts related to productivity, guidelines for measuring productivity in specific contexts, best practices and pitfalls, and theories and open questions on productivity. You'll benefit from the many short chapters, each offering a focused discussion on one aspect of productivity in software engineering. Readers in many fields and industries will benefit from their collected work. Developers wanting to improve their personal productivity, will learn effective strategies for overcoming common issues that interfere with progress. Organizations thinking about building internal programs for measuring productivity of programmers and teams will learn best practices from industry and researchers in measuring productivity. And researchers can leverage the conceptual frameworks and rich body of literature in the book to effectively pursue new research directions. What You'll Learn Review the definitions and dimensions of software productivity See how time management is having the opposite of the intended effect Develop valuable dashboards Understand the impact of sensors on productivity Avoid software development waste Work with human-centered methods to measure productivity Look at the intersection of neuroscience and productivity Manage interruptions and context-switching Who Book Is For Industry developers and those responsible for seminar-style courses that include a segment on software developer productivity. Chapters are written for a generalist audience, without excessive use of technical terminology."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1484242203"
+      - type: "ISBN_13"
+        identifier: "9781484242209"
+    pageCount: 306
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=AIAPvAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=AIAPvAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Rethinking_Productivity_in_Software_Engi.html?hl=&id=AIAPvAEACAAJ"
   - isbn: "9781491973899"
     dateFinished: "2021-12-01"
     title: "The Manager's Path"
