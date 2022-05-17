@@ -445,6 +445,27 @@
       thumbnail: "https://books.google.com/books/content?id=fXsCswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Way_of_the_Runner.html?hl=&id=fXsCswEACAAJ"
+  - isbn: "9780316433808"
+    dateFinished: "2019-03-02"
+    title: "North"
+    authors:
+      - "Scott Jurek"
+    publishedDate: "2019-04-09"
+    description: "From the author of the bestseller Eat and Run, a thrilling memoir about his grueling, exhilarating, and immensely inspiring 46-day run to break the speed record for the Appalachian Trail. Scott Jurek is one of the world's best known and most beloved ultrarunners. Renowned for his remarkable endurance and speed, accomplished on a vegan diet, he's finished first in nearly all of ultrarunning's elite events over the course of his career. But after two decades of racing, training, speaking, and touring, Jurek felt an urgent need to discover something new about himself. He embarked on a wholly unique challenge, one that would force him to grow as a person and as an athlete: breaking the speed record for the Appalachian Trail. North is the story of the 2,189-mile journey that nearly shattered him. When he set out in the spring of 2015, Jurek anticipated punishing terrain, forbidding weather, and inevitable injuries. He would have to run nearly 50 miles a day, every day, for almost seven weeks. He knew he would be pushing himself to the limit, that comfort and rest would be in short supply -- but he couldn't have imagined the physical and emotional toll the trip would exact, nor the rewards it would offer. With his wife, Jenny, friends, and the kindness of strangers supporting him, Jurek ran, hiked, and stumbled his way north, one white blaze at a time. A stunning narrative of perseverance and personal transformation, North is a portrait of a man stripped bare on the most demanding and transcendent effort of his life. It will inspire runners and non-runners alike to keep striving for their personal best."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0316433802"
+      - type: "ISBN_13"
+        identifier: "9780316433808"
+    pageCount: 304
+    printType: "BOOK"
+    categories:
+      - "Biography & Autobiography"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=jyEYugEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=jyEYugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/North.html?hl=&id=jyEYugEACAAJ"
   - isbn: "9780062493668"
     dateFinished: "2019-03-05"
     title: "Lean in 15"
