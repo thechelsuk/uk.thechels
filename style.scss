@@ -79,6 +79,27 @@ body {
   margin-top: 0;
 }
 
+.book-list .book {
+    display: flex;
+}
+
+.book-list {
+    padding-right: 1em;
+    padding-left: 1em;
+}
+
+.book-list {
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+    max-width: 1000px;
+}
+
+.book-list .book-img {
+    flex-shrink: 0;
+    width: 75px;
+    margin-right: 0.5em;
+}
 
 h2,
 h3,
