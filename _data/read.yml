@@ -382,6 +382,27 @@
       thumbnail: "https://books.google.com/books/content?id=oHE9jgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Wisest_One_in_the_Room.html?hl=&id=oHE9jgEACAAJ"
+  - isbn: "9781856266499"
+    dateFinished: "2019-01-12"
+    title: "The Wagamama Cookbook"
+    authors:
+      - "Hugo Arnold"
+    publishedDate: "2004"
+    description: "Our aim at wagamama for now and in the future is to serve great, fresh and nutritious food in an elegant, yet simple environment; to provide a helpful, friendly service and value for money. Change for us is in the form of continuous improvement,' the wagamama ethos True to the positive eating, positive living ethos of wagamama's idiosyneratic chain of noodle restaurants, this official collection of recipes shares the secret of the hallmark culinary minimalism that has won it instant cult status worldwide. The distinctive wagamama flavour originates from the traditional 200-year-old ramen (noodle) shops of Japan which guarantee nourishment with ingredients that cleanse and nuture the mind and body. Suitable for meat-eaters, seafood lovers and vegetarians alike, the 120 recipes have been specially created by the people behind wagamama's unique house style and concentrate on cooking fresh, quality ingredients in a way that retains maximum flavour and nutrition. With mouth-watering recipes for appetisers and side dishes, hearty soups and stir-fries and exotic sweet-rice desserts and juices, plus hints and tips on ingredients, equipment, cooking techniques and structuring a meal this unique collection means that the stylish wagamama experience is now yours to take home. Whether you want to impress the health-conscious dinner guest or simply feed family and friends good, wholesome meals, this book allows you to recreate the best of Japanese cooking with a selection of delicious, low-fat, one-pot meals which are easy on your time and budget as well as your waistline."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1856266494"
+      - type: "ISBN_13"
+        identifier: "9781856266499"
+    pageCount: 192
+    printType: "BOOK"
+    categories:
+      - "Cookery"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=n9jQAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=n9jQAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Wagamama_Cookbook.html?hl=&id=n9jQAAAACAAJ"
   - isbn: "9780571303175"
     dateFinished: "2019-01-15"
     title: "The Way of the Runner"
