@@ -966,3 +966,23 @@
       thumbnail: "https://books.google.com/books/content?id=B93czQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Four_Thousand_Weeks.html?hl=&id=B93czQEACAAJ"
+  - isbn: "9781707244911"
+    dateFinished: "2022-05-17"
+    title: "The Art Of Critical Thinking"
+    authors:
+      - "Patrick Magana"
+      - "Christopher Hayes"
+    publishedDate: "2019-11-10"
+    description: "Do you want to improve your brain power by thinking critically in your daily life? Are you interested in deepening your understanding without judgement, bias, or manipulation? Are you seeking confidence in your arguments and wish to think more efficiently? If you find yourself wanting to know more about critical thinking strategies, you've found the perfect solution. This workbook is for the individual who wants to think clearly and organized - for the person who wants to make the best decisions for themselves. Critical thinking is a mindset more than a technique. It allows us to unlock our intellectual independence and gives us wisdom and authority. The process of thinking critically allows improvement in our quality of life through rational and unbiased evaluation. With a plethora of actionable techniques, this guide will provide you with the steps to easily integrate critical thinking into your life. The Critical Thinking Academy disseminates critical thinking skills to executives and students. In their 2019 article, Benefits of Critical Thinking, they explain that, \"critical thinking is not natural to us. It is an acquired skill that requires conscious and cognitive effort. These skills can be applied to any situation in life that calls for reflection, analysis, and planning. It is imperative for good academic performance and career progression.\" This workbook includes: Over 10 critical thinking tactics you can use in your DAILY life (and the vital lessons you could be missing). How to be an independent thinker and form opinions through owning your perceptions and doing the research required. The 7 thinking habits that complement critical thinking and immensely improve your thought process. How critical thinking applies to the professional world and how it benefits any career or business and a break-down of various professions that require critical thinking. The top 7 questions you must ask yourself when arriving at a conclusion (to avoid being rash and biased, but instead, rational). A Guaranteed Way to Improve Critical Thinking - 20+ strategies and techniques to practice your critical thinking skills. An in-depth look at the critical thinking process which encourages well-thought-out decisions on complex problems (like buying a house, choosing a car, or picking a university). A list of over 10 fallacies and biases that are causing self-sabotaging decision-making and how your actions may be causing incorrect judgement throughout your life. ... and much, much more! It's time to accept and take personal responsibility for your thinking. Remember, learning how to think critically is a gradual process, but one that allows clear problem-solving skills. Click \"Add to Cart\" now to start your journey of owning your decisions and confidently supporting what you believe in."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "170724491X"
+      - type: "ISBN_13"
+        identifier: "9781707244911"
+    pageCount: 151
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=lG5TzAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=lG5TzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Art_Of_Critical_Thinking.html?hl=&id=lG5TzAEACAAJ"
