@@ -403,6 +403,28 @@
       thumbnail: "https://books.google.com/books/content?id=xeUpMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Manager_s_Path.html?hl=&id=xeUpMQAACAAJ"
+  - isbn: "9781781331163"
+    dateFinished: "2021-12-16"
+    title: "Key Person of Influence"
+    authors:
+      - "Kevin Harrington"
+      - "Daniel Priestley"
+    publishedDate: "2015-05-04"
+    description: "Every industry revolves around Key People of Influence. Their names come up in conversation. They attract opportunity. They earn more money. Many people think it takes decades of hard work, academic qualifications and a generous measure of good luck to become a Key Person of Influence. This book shows that there is a strategy for fast-tracking your way to the inner circle of the industry you love. Your ability to succeed depends on your ability to influence. Start now by reading this book. This book is your invitation to the inner circle of your industry."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1781331162"
+      - type: "ISBN_13"
+        identifier: "9781781331163"
+    pageCount: 208
+    printType: "BOOK"
+    categories:
+      - "Career development"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=Ma_YsgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=Ma_YsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Key_Person_of_Influence.html?hl=&id=Ma_YsgEACAAJ"
   - isbn: "9781501121746"
     dateFinished: "2022-01-10"
     title: "Sprint"
