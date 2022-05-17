@@ -925,6 +925,25 @@
       thumbnail: "https://books.google.com/books/content?id=bUFqzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Body_Language.html?hl=&id=bUFqzQEACAAJ"
+  - isbn: "9781854189196"
+    dateFinished: "2022-01-01"
+    title: "The Best of Adair on Leadership & Management"
+    authors:
+      - "JOHN. ADAIR"
+    publishedDate: "2020-12-10"
+    description: "Here in one book is a brilliant summary of all John Adair's ideas, advice and techniques This book is a goldmine of ideas, advice and techniques from one of the world's leading writers on management and leadership. It brings together all of John Adair's thinking on leadership, teambuilding, creativity and innovation, problem-solving, motivation, communication and time-management. It is a comprehensive master-class on: Growing into an effective and inspiring leader How to build a cohesive and responsive team Techniques of creativity and innovation Analysis and decision-making Mastering the art of good communication Managing your own time, managing yourself Clearly written and presented, the book is packed with practical guidance and insights, helpful charts, diagrams and forms. A must-have for all managers and leaders."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1854189190"
+      - type: "ISBN_13"
+        identifier: "9781854189196"
+    pageCount: 260
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=dHYlzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=dHYlzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Best_of_Adair_on_Leadership_Manageme.html?hl=&id=dHYlzgEACAAJ"
   - isbn: "9781250779878"
     dateFinished: "2022-01-03"
     title: "You're Not Listening"
