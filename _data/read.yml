@@ -403,6 +403,27 @@
       thumbnail: "https://books.google.com/books/content?id=unHzjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Lean_in_15.html?hl=&id=unHzjgEACAAJ"
+  - isbn: "9781509800698"
+    dateFinished: "2019-03-05"
+    title: "Lean in 15 - the Shape Plan"
+    authors:
+      - "Joe Wicks"
+    publishedDate: "2016"
+    description: "In his first book, 'Lean in 15', Joe Wicks, aka The Body Coach, revealed how to achieve great fat-burn, shift body fat and significantly increase fitness levels. In 'Lean in 15 - The Shape Plan' it's all about shaping the body by combining Joe's signature 15-minute recipes with short bursts of intensive cardio and resistance training. Taking your fitness to the next level, this shaping cycle introduces Joe's own volume resistance HIIT workouts. Maintaining his ethos of not spending hours in the gym, he explains how these sessions will see you achieving great muscle-shaping effects, increasing your metabolic rate and seeing your body burn even more calories, both during the workout and for hours afterwards. To complement the training, Joe shares 100 mouth-watering new recipes that will ensure you gain lean mass while simultaneously burning fat."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781509800698"
+      - type: "ISBN_10"
+        identifier: "1509800697"
+    pageCount: 240
+    printType: "BOOK"
+    categories:
+      - "Cookbooks"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=jUnFDAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=jUnFDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Lean_in_15_the_Shape_Plan.html?hl=&id=jUnFDAAAQBAJ"
   - isbn: "9781491973899"
     dateFinished: "2021-12-01"
     title: "The Manager's Path"
