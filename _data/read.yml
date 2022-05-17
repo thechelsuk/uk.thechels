@@ -886,6 +886,27 @@
       thumbnail: "https://books.google.com/books/content?id=OOMdzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/DevSecOps.html?hl=&id=OOMdzgEACAAJ"
+  - isbn: "9780473494124"
+    dateFinished: "2021-12-11"
+    title: "Rediscover Your Sparkle"
+    authors:
+      - "Julie Schooler"
+    publishedDate: "2019-10-09"
+    description: "Do you feel rushed, overwhelmed, tired or stressed out? Use simple 'sparkle strategies' to find your inner sparkle. Read this book to: -bounce out of bed each morning with a zest for life -feel like you are in touch with your true self once again -reclaim all that fun, love and energy you know you still have inside of you"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0473494124"
+      - type: "ISBN_13"
+        identifier: "9780473494124"
+    pageCount: 110
+    printType: "BOOK"
+    categories:
+      - "Self-Help"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=d1peygEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=d1peygEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Rediscover_Your_Sparkle.html?hl=&id=d1peygEACAAJ"
   - isbn: "9781781331163"
     dateFinished: "2021-12-16"
     title: "Key Person of Influence"
