@@ -4,10 +4,10 @@ title : Books
 
 ---
 
-<p>A Bookshelf of all books I have read since 2019</p>
+<p>Bookshelf of everything I have read since 2019</p>
 
 <div class="book-list">
-  {% for item in site.data.read | sort: 'dateFinished' %}
+  {% for item in site.data.read | sort: 'item.dateFinished' %}
   <div class="book"> 
     <div class="book-img"><img src="/images/books/book-{{item.isbn}}.png" /></div>
   </div>
