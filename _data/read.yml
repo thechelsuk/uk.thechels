@@ -424,6 +424,26 @@
       thumbnail: "https://books.google.com/books/content?id=jUnFDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Lean_in_15_the_Shape_Plan.html?hl=&id=jUnFDAAAQBAJ"
+  - isbn: "9781492078005"
+    dateFinished: "2020-05-05"
+    title: "Head First Design Patterns"
+    authors:
+      - "Eric Freeman"
+      - "Elisabeth Robson"
+    publishedDate: "2021-01-12"
+    description: "You know you don't want to reinvent the wheel, so you look to design patterns--the lessons learned by those who've faced the same software design problems. With design patterns, you get to take advantage of the best practices and experience of others so that you can spend your time on something more challenging. Something more fun. This book shows you the patterns that matter, when to use them and why, how to apply them to your own designs, and the object-oriented design principles on which the patterns are based. Most importantly, you want to learn design patterns in a way that won't put you to sleep. If you've read a Head First book, you know what to expect--a visually rich format designed for the way your brain works. Newly updated and expanded, Head First Design Patterns, 2E, will load patterns into your brain in a way that sticks. In a way that makes you better at solving software design problems and better at speaking the language of patterns with others on your team. Join the hundreds of thousands of developers who have already improved their object-oriented design skills through Head First Design Patterns."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "149207800X"
+      - type: "ISBN_13"
+        identifier: "9781492078005"
+    pageCount: 694
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=3GqAzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=3GqAzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Head_First_Design_Patterns.html?hl=&id=3GqAzQEACAAJ"
   - isbn: "9781491973899"
     dateFinished: "2021-12-01"
     title: "The Manager's Path"
