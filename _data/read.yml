@@ -632,6 +632,27 @@
       thumbnail: "https://books.google.com/books/content?id=fAHEoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Mentoring_Manual.html?hl=&id=fAHEoAEACAAJ"
+  - isbn: "9781797681450"
+    dateFinished: "2021-10-09"
+    title: "Emotional Intelligence: Why It Is Crucial for Success in Life and Business - 7 Simple Ways to Raise Your Eq, Make Friends with Your Emotions,"
+    authors:
+      - "James W. Williams"
+    publishedDate: "2019-02-21"
+    description: "Would you like to improve your relationships and learn how to recognize the triggers behind your emotions? Would you like to learn how to manage your reaction to those emotions? Do you think it's time you start developing leadership skills? Then, this is a book for you! Emotional Intelligence: Why it is Crucial for Success in Life and Business - 7 Simple Ways to Raise Your EQ, Make Friends With Your Emotions, and Improve Your Relationships explains how 7 simple daily practices can change the way you relate to others. Inside you'll discover: What emotional intelligence is and why it matters How to apply the EQ principles in your everyday life How to listen to your emotions and reflect upon your response How to improve your people skills This book will become your essential guide to improving your professional and personal relationships. It will show you how to recognize and interpret the motives behind yours' and others' behavior. It will prepare you for the sophisticated and challenging workplace of the 21st century. The new type of leadership calls for new skills and from this book, you'll learn how emotionally intelligent people deal with change and how this affects their career prospects. An introduction to the world of responsible behavior, successful teamwork and empathy Why it is Crucial for Success in Life and Business - 7 Simple Ways to Raise Your EQ, Make Friends With Your Emotions, and Improve Your Relationships explains how to draw on your EQ to set yourself up for success. Click \"Buy Now\" and start rasing your EQ today!"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1797681451"
+      - type: "ISBN_13"
+        identifier: "9781797681450"
+    pageCount: 46
+    printType: "BOOK"
+    categories:
+      - "Psychology"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=TKViwgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=TKViwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Emotional_Intelligence_Why_It_Is_Crucial.html?hl=&id=TKViwgEACAAJ"
   - isbn: "9781491973899"
     dateFinished: "2021-12-01"
     title: "The Manager's Path"
