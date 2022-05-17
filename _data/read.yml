@@ -823,6 +823,27 @@
       thumbnail: "https://books.google.com/books/content?id=j16izAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Aws.html?hl=&id=j16izAEACAAJ"
+  - isbn: "9781781335024"
+    dateFinished: "2021-12-11"
+    title: "DevSecOps"
+    authors:
+      - "Glenn Wilson"
+    publishedDate: "2020-12-10"
+    description: "DevSecOps provides a clear path to building systems and protocols that promotes taking ownership of software security and supports the DevOps philosophy."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1781335028"
+      - type: "ISBN_13"
+        identifier: "9781781335024"
+    pageCount: 280
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=OOMdzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=OOMdzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/DevSecOps.html?hl=&id=OOMdzgEACAAJ"
   - isbn: "9781781331163"
     dateFinished: "2021-12-16"
     title: "Key Person of Influence"
