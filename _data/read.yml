@@ -445,6 +445,25 @@
       thumbnail: "https://books.google.com/books/content?id=fXsCswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Way_of_the_Runner.html?hl=&id=fXsCswEACAAJ"
+  - isbn: "9781724825803"
+    dateFinished: "2019-02-11"
+    title: "The Little Black Book of Training Wisdom"
+    authors:
+      - "Dan Cleather"
+    publishedDate: "2018-09-10"
+    description: "Are you making the most of your training? In \"The Little Black Book of Training Wisdom\", Dr Dan Cleather challenges us to expect more from our training and demonstrates that dominant athletic prowess is built by working smarter not harder. He outlines the most common mistakes that people make in training and offers practical advice on how they can be avoided. \"Dan cuts through the intellectual rubbish bin that has dominated our field for the last few decades and gives us clarity and insight.\" - Dan John, author of \"Easy Strength\" and \"Never Let Go\"."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1724825801"
+      - type: "ISBN_13"
+        identifier: "9781724825803"
+    pageCount: 202
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=zmPcuwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=zmPcuwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Little_Black_Book_of_Training_Wisdom.html?hl=&id=zmPcuwEACAAJ"
   - isbn: "9780316433808"
     dateFinished: "2019-03-02"
     title: "North"
