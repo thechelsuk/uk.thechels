@@ -762,6 +762,27 @@
       thumbnail: "https://books.google.com/books/content?id=_9xbj9I3Sb8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/HBR_s_10_Must_Reads_on_Managing_Yourself.html?hl=&id=_9xbj9I3Sb8C"
+  - isbn: "9780241486825"
+    dateFinished: "2021-11-02"
+    title: "Mental Health at Work"
+    authors:
+      - "James Routledge"
+    publishedDate: "2021-09-30"
+    description: "Build a practical positive mental health strategy in the workplace from Penguin Business Expert James Routledge One in five people are experiencing mental health problems right now. Stress, anxiety and depression account for half of all working days lost. So why are we still not talking about mental health at work? Promoting positive mental health is fast becoming a priority for companies yet many are failing to implement a strategy that works. Penguin Business Expert James Routledge has been working with leaders, managers and people in all positions who want to positively change their organisation's approach to mental health. In this book, he reveals how to; reduce stigma, focus on early intervention and prevention, improve productivity, engagement and retention and create a culture of openness from the top down. Filled with practical tips, proven strategies and case studies from the organisations leading the way, this book will help any organisation build a positive mental health framework that works."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0241486823"
+      - type: "ISBN_13"
+        identifier: "9780241486825"
+    pageCount: 160
+    printType: "BOOK"
+    categories:
+      - "Medical"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=V5IpzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=V5IpzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Mental_Health_at_Work.html?hl=&id=V5IpzgEACAAJ"
   - isbn: "9781491973899"
     dateFinished: "2021-12-01"
     title: "The Manager's Path"
