@@ -863,5 +863,24 @@
       thumbnail: "https://books.google.com/books/content?id=qoZCRAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Checklist_Manifesto.html?hl=&id=qoZCRAAACAAJ"
-    
-    
+  - isbn: "9781847924018"
+    dateFinished: "2022-05-17"
+    title: "Four Thousand Weeks"
+    authors:
+      - "Oliver Burkeman"
+    publishedDate: "2021-08-26"
+    description: "\"The average human lifespan is absurdly, outrageously, insultingly brief: if you live to 80, you have about four thousand weeks on earth. How should we use them best? Of course, nobody needs telling that there isn't enough time. We're obsessed by our lengthening to-do lists, our overfilled inboxes, the struggle against distraction, and the sense that our attention spans are shrivelling. Yet we rarely make the conscious connection that these problems only trouble us in the first place thanks to the ultimate time-management problem: the challenge of how best to use our four thousand weeks. Four Thousand Weeks is an uplifting, engrossing and deeply realistic exploration of this problem that draws on philosophy, literature and psychology to cover the past, present and future of our battles with time. It goes far beyond practical tips, and its many revelations will transform the reader's worldview. Drawing on the insights of ancient philosophers, Benedictine monks, artists and authors, Scandinavian social reformers, renegade Buddhist technologists and many others, Oliver Burkeman sets out to realign our relationship with time - and in doing so, to liberate us from its grasp\"--Publisher's description."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1847924018"
+      - type: "ISBN_13"
+        identifier: "9781847924018"
+    pageCount: 288
+    printType: "BOOK"
+    categories:
+      - "Conduct of life"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=B93czQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=B93czQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Four_Thousand_Weeks.html?hl=&id=B93czQEACAAJ"
