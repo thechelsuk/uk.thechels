@@ -5,7 +5,7 @@ title : Books
 ---
 
 <div class="book-list">
-  {% for item in site.data.read %}
+  {% for item in site.data.read | sort: dateFinished %}
   <div class="book"> 
     <div class="book-img"><img src="/images/books/book-{{item.isbn}}.png" /></div>
   </div>
