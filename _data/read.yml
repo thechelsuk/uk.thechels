@@ -1093,6 +1093,28 @@
       thumbnail: "https://books.google.com/books/content?id=40T1nwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Turn_Your_Ship_Around.html?hl=&id=40T1nwEACAAJ"
+  - isbn: "9781422158012"
+    dateFinished: "2022-02-03"
+    title: "HBR's 10 Must Reads on Managing People"
+    authors:
+      - "Harvard Business Review"
+      - "Daniel Goleman"
+    publishedDate: "2011"
+    description: "Managing people is fraught with challenges- even if you are a seasoned manager. Here's how to handle them. If you read nothing else on managing people, read these articles. We've combed through hundreds of Harvard Business Review articles and selected the most important ones to help you maximize your employee's performance.This book will inspire you to: tailor your management styles to fit your people; motivate with more responsibility, not more money; support first-time managers; build trust by soliciting input; teach smart people how to learn from failure; build high-performing teams; and manage your boss. -- from Back Cover"
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781422158012"
+      - type: "ISBN_10"
+        identifier: "1422158012"
+    pageCount: 224
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=fw656Zq_FyQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=fw656Zq_FyQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/HBR_s_10_Must_Reads_on_Managing_People.html?hl=&id=fw656Zq_FyQC"
   - isbn: "9780957491939"
     dateFinished: "2022-05-17"
     title: "Building Successful Communities of Practice"
