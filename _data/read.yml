@@ -611,6 +611,27 @@
       thumbnail: "https://books.google.com/books/content?id=xCxLzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Code_Your_Way_Up.html?hl=&id=xCxLzQEACAAJ"
+  - isbn: "9781292017891"
+    dateFinished: "2021-10-08"
+    title: "The Mentoring Manual"
+    authors:
+      - "Julie Starr"
+    publishedDate: "2014-09-18"
+    description: "As a mentor you must be many things: role model, expert, advocate, cheerleader, enforcer and friend. Plus you must make a positive, lasting difference to the knowledge, skills and prospects of your mentee. So, being a mentor is a big responsibility. But with The Mentoring Manual, getting it right is easy. Based on methods developed - and proven – in business, this highly practical book will show you how mentoring works, take you step-by-step through everything you need to know and do, and show you how both parties can get the best from the relationship. · Understand what mentoring really is and how to do it well · Feel fully confident in your ability to be a great mentor · Develop key skills like listening, collaboration and coaching · Help your mentee feel more knowledgeable, confident and valued · Pass on your skills, experience and expertise to colleagues and contacts Get the most from mentoring: help your mentee, develop your skills and make a positive difference “A breath of fresh air compared with many books on coaching and mentoring. The process of mentoring and the potential pitfalls are presented in a clear and challenging way.” David Megginson, Emeritus Professor of HRD, Sheffield Hallam University “A clear, pragmatic and accessible guide for mentors.” Professor David Clutterbuck, author, speaker, and co-founder of the European Mentoring and Coaching Council"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1292017899"
+      - type: "ISBN_13"
+        identifier: "9781292017891"
+    pageCount: 224
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=fAHEoAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=fAHEoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Mentoring_Manual.html?hl=&id=fAHEoAEACAAJ"
   - isbn: "9781491973899"
     dateFinished: "2021-12-01"
     title: "The Manager's Path"
