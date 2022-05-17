@@ -779,6 +779,27 @@
       thumbnail: "https://books.google.com/books/content?id=ICSpCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Sprint.html?hl=&id=ICSpCwAAQBAJ"
+  - isbn: "9781573229371"
+    dateFinished: "2022-01-10"
+    title: "Anger"
+    authors:
+      - "Thich Nhat Hanh"
+    publishedDate: "2002-09-03"
+    description: "[Thich Nhat Hanh] shows us the connection between personal, inner peace and peace on earth.\" –His Holiness The Dalai Lama Nominated by Martin Luther King, Jr. for a Nobel Peace Prize, Thich Nhat Hanh is one of today’s leading sources of wisdom, peace, compassion and comfort. It was under the bodhi tree in India twenty-five centuries ago that Buddha achieved the insight that three states of mind were the source of all our unhappiness: wrong knowing, obsessive desire, and anger. All are difficult, but in one instant of anger—one of the most powerful emotions—lives can be ruined, and health and spiritual development can be destroyed. With exquisite simplicity, Buddhist monk and Vietnam refugee Thich Nhat Hanh gives tools and advice for transforming relationships, focusing energy, and rejuvenating those parts of ourselves that have been laid waste by anger. His extraordinary wisdom can transform your life and the lives of the people you love, and in the words of Thich Nhat Hanh, can give each reader the power \"to change everything."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781573229371"
+      - type: "ISBN_10"
+        identifier: "1573229377"
+    pageCount: 240
+    printType: "BOOK"
+    categories:
+      - "Philosophy"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=atGoDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=atGoDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Anger.html?hl=&id=atGoDAAAQBAJ"
   - isbn: "9781591847533"
     dateFinished: "2022-01-17"
     title: "Turn Your Ship Around!"
