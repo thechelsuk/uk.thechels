@@ -1007,6 +1007,27 @@
       thumbnail: "https://books.google.com/books/content?id=dHYlzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Best_of_Adair_on_Leadership_Manageme.html?hl=&id=dHYlzgEACAAJ"
+  - isbn: "9781484221570"
+    dateFinished: "2022-01-01"
+    title: "Managing Humans"
+    authors:
+      - "Michael Lopp"
+    publishedDate: "2016-07-26"
+    description: "Read hilarious stories with serious lessons that Michael Lopp extracts from his varied and sometimes bizarre experiences as a manager at Apple, Pinterest, Palantir, Netscape, Symantec, Slack, and Borland. Many of the stories first appeared in primitive form in Lopp’s perennially popular blog, Rands in Repose. The Third Edition of Managing Humans contains a whole new season of episodes from the ongoing saga of Lopp's adventures in Silicon Valley, together with classic episodes remastered for high fidelity and freshness. Whether you're an aspiring manager, a current manager, or just wondering what the heck a manager does all day, there is a story in this book that will speak to you—and help you survive and prosper amid the general craziness of dysfunctional bright people caught up in the chase of riches and power. Scattered in repose among these manic misfits are managers, an even stranger breed of people who, through a mystical organizational ritual, have been given power over the futures and the bank accounts of many others. Lopp's straight-from-the-hip style is unlike that of any other writer on management and leadership. He pulls no punches and tells stories he probably shouldn't. But they are magically instructive and yield Lopp’s trenchant insights on leadership that cut to the heart of the matter—whether it's dealing with your boss, handling a slacker, hiring top guns, or seeing a knotty project through to completion. Writing code is easy. Managing humans is not. You need a book to help you do it, and this is it. What You'll Learn How teams work How to lead engineers How to handle conflict How to hire well How to motivate employees How to manage your boss How to say no How to understand different engineering personalities How to build effective teams “/li> How to handle stressed people freaking out How to run a meeting well How to scale teams Who This Book Is For This book is designed for managers and would-be managers staring at the role of a manager wondering why they would ever leave the safe world of bits and bytes for the messy world of managing humans. The book covers handling conflict, managing wildly differing personality types, infusing innovation into insane product schedules, and figuring out how to build a lasting and useful engineering culture."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1484221575"
+      - type: "ISBN_13"
+        identifier: "9781484221570"
+    pageCount: 331
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=NZDqjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=NZDqjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Managing_Humans.html?hl=&id=NZDqjwEACAAJ"
   - isbn: "9781250779878"
     dateFinished: "2022-01-03"
     title: "You're Not Listening"
