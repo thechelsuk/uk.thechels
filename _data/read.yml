@@ -382,6 +382,27 @@
       thumbnail: "https://books.google.com/books/content?id=fXsCswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Way_of_the_Runner.html?hl=&id=fXsCswEACAAJ"
+  - isbn: "9780062493668"
+    dateFinished: "2019-03-05"
+    title: "Lean in 15"
+    authors:
+      - "Joe Wicks"
+    publishedDate: "2016-05-03"
+    description: "Eat more, exercise less, and lose fat. Discover how to SHIFT your body fat and get the lean physique of your dreams by eating better and exercising less in this essential cookbook and exercise guide—an instant bestseller in the UK—that combines 100 delicious recipes and signature HIIT (high intensity interval training) home workouts from personal trainer and Instagram sensation @thebodycoach, Joe Wicks. Joe Wicks, “The Body Coach” has helped thousands around the world lose weight and achieve the body they’ve always wanted with his proven fat-burning methods. Now, in his first book, he reveals how to SHIFT body fat by eating more and exercising less. In Lean in 15, Joe gives you 100 recipes for nutritious, delicious, quick-to-prepare meals—ready in just fifteen minutes—and made from ordinary ingredients—lean meat, lots of veggies, some carbs, and smart fats. He shows you how to eat in line with your energy demands every day, as you enjoy such treats as Banana and Blueberry Overnight Oats, Incredible Hulk Smoothie, Big Barbecue Chicken Wrap, Teriyaki Chicken Stir Fry, Quick Tortilla Pizza, Sammy the Sea Bass with Spaghetti, Gnocchi with Sausage Ragu, Thai Beef Stir-Fry, Spiced Tortilla Chips, and Avocado Ranch with Dipping Sticks. Joe then walks you through his signature HIIT—High Intensity Interval Training—home workouts, explaining how to combine his delicious recipes and exercises into a personal plan to increase energy and lean muscle, raise metabolism, and ignite intense fat-burning. This accessible, appealing, color paperback features gorgeous food shots, helpful how-to photos, and inspiring before and after shots of Joe’s clients and their amazing body transformations throughout. Joe also includes a simple chart breaking down his own weekly regimen to help you plan your own. Lean in 15 “isn’t a strict diet—it’s a lifestyle that will transform your body and the way you eat,” he makes clear. With Joe Wicks and Lean in 15, you’ll discover how to keep your body healthy, strong, and lean—forever."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0062493663"
+      - type: "ISBN_13"
+        identifier: "9780062493668"
+    pageCount: 224
+    printType: "BOOK"
+    categories:
+      - "Health & Fitness"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=unHzjgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=unHzjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Lean_in_15.html?hl=&id=unHzjgEACAAJ"
   - isbn: "9781491973899"
     dateFinished: "2021-12-01"
     title: "The Manager's Path"
