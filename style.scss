@@ -25,6 +25,10 @@ body {
   background: #fff;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 #outer-wrapper {
   border-top: 12px solid $border-light;
   min-height: 80%;
@@ -79,20 +83,20 @@ body {
   margin-top: 0;
 }
 
-.book-list .book {
-    display: flex;
-}
-
 .book-list {
     padding-right: 1em;
     padding-left: 1em;
+}
+
+.book-list .book {
+    display: flex;
 }
 
 .book-list {
     display: grid;
     grid-gap: 1rem;
     grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
-    max-width: 1000px;
+    max-width: 860px;
 }
 
 .book-list .book-img {
