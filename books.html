@@ -10,7 +10,7 @@ title : Books
     <div class="book-img"><img src="/images/books/book-{{item.isbn}}.png" /></div>
     <div class="book-name">{{item.title}}</div>
     <div class="book-meta">
-      <div class="book-authors"> {% for authors in item.authors %}}-authors <br/>{% endfor %}</div>
+      <div class="book-authors"> {% for authors in item.authors %} - {{authors}}<br/>{% endfor %}</div>
       <div>{{ item.dateFinished }}</div>
     </div>
   </div>
