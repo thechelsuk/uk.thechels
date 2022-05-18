@@ -1197,6 +1197,27 @@
       thumbnail: "https://books.google.com/books/content?id=OWYiuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Sooner_Safer_Happier.html?hl=&id=OWYiuAEACAAJ"
+  - isbn: "9781492050902"
+    dateFinished: "2022-03-17"
+    title: "97 Things Every Engineering Manager Should Know"
+    authors:
+      - "Camille Fournier"
+    publishedDate: "2019-09-04"
+    description: "Tap into the wisdom of experts to learn what every engineering manager should know. With the 97 short and extremely useful tips for engineering managers, this book will help anyone expand his or her skills."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1492050903"
+      - type: "ISBN_13"
+        identifier: "9781492050902"
+    pageCount: 296
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=Fdx6wwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=Fdx6wwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/97_Things_Every_Engineering_Manager_Shou.html?hl=&id=Fdx6wwEACAAJ"
   - isbn: "9780957491939"
     dateFinished: "2022-05-17"
     title: "Building Successful Communities of Practice"
