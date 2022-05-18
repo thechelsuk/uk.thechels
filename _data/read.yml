@@ -1418,6 +1418,27 @@
       thumbnail: "https://books.google.com/books/content?id=7b_UywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Financial_Services_Revolution.html?hl=&id=7b_UywEACAAJ"
+  - isbn: "9781250203489"
+    dateFinished: "2022-01-01"
+    title: "Just Work"
+    authors:
+      - "Kim Scott"
+    publishedDate: "2021-03-16"
+    description: "From Kim Scott, author of the revolutionary New York Times bestseller Radical Candor, comes Just Work: Get Sh*t Done, Fast & Fair—how we can recognize, attack, and eliminate workplace injustice—and transform our careers and organizations in the process. We—all of us—consistently exclude, underestimate, and underutilize huge numbers of people in the workforce even as we include, overestimate, and promote others, often beyond their level of competence. Not only is this immoral and unjust, it's bad for business. Just Work is the solution. Just Work is Kim Scott's new book, revealing a practical framework for both respecting everyone’s individuality and collaborating effectively. This is the essential guide leaders and their employees need to create more just workplaces and establish new norms of collaboration and respect."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1250203481"
+      - type: "ISBN_13"
+        identifier: "9781250203489"
+    pageCount: 416
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=ZQh8zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=ZQh8zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Just_Work.html?hl=&id=ZQh8zQEACAAJ"
   - isbn: "9781250779878"
     dateFinished: "2022-01-03"
     title: "You're Not Listening"
