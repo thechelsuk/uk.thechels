@@ -990,6 +990,27 @@
       thumbnail: "https://books.google.com/books/content?id=AIAPvAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Rethinking_Productivity_in_Software_Engi.html?hl=&id=AIAPvAEACAAJ"
+  - isbn: "9781942788768"
+    dateFinished: "2021-10-09"
+    title: "The Unicorn Project"
+    authors:
+      - "Gene Kim"
+    publishedDate: "2019"
+    description: "This highly anticipated follow-up to the bestselling title The Phoenix Project takes another look at Parts Unlimited, this time from the perspective of software development."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1942788762"
+      - type: "ISBN_13"
+        identifier: "9781942788768"
+    pageCount: 352
+    printType: "BOOK"
+    categories:
+      - "Computer software"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=o0z1tgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=o0z1tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Unicorn_Project.html?hl=&id=o0z1tgEACAAJ"
   - isbn: "9781422157992"
     dateFinished: "2021-11-01"
     title: "HBR's 10 Must Reads on Managing Yourself"
