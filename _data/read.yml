@@ -756,6 +756,27 @@
       thumbnail: "https://books.google.com/books/content?id=BBhmAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Lean_Startup.html?hl=&id=BBhmAQAACAAJ"
+  - isbn: "9780241958223"
+    dateFinished: "2019-11-01"
+    title: "Start with why"
+    authors:
+      - "Simon Sinek"
+    publishedDate: "2011"
+    description: "Why are some people and organisations more inventive, pioneering and successful than others?And why are they able to repeat their success again and again? Because in business, it doesn't matter what you do, it matters why you do it. Steve Jobs, the Wright Brothers, and Martin Luther King have one thing in common - they started with why. This book is for anyone who wants to inspire others, or to be inspired. www.startwithwhy.com Jacket design: Base Art Co."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0241958229"
+      - type: "ISBN_13"
+        identifier: "9780241958223"
+    pageCount: 246
+    printType: "BOOK"
+    categories:
+      - "Leadership"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=n00dkgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=n00dkgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Start_with_why.html?hl=&id=n00dkgEACAAJ"
   - isbn: "9781786859464"
     dateFinished: "2019-11-25"
     title: "Why Running Matters"
