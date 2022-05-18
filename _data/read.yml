@@ -1131,6 +1131,28 @@
       thumbnail: "https://books.google.com/books/content?id=GlF8zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/You_re_Not_Listening.html?hl=&id=GlF8zQEACAAJ"
+  - isbn: "9780241448717"
+    dateFinished: "2022-01-03"
+    title: "One Pot Vegan"
+    authors:
+      - "Roxy Pope"
+      - "Anon"
+    publishedDate: "2020-07-23"
+    description: "One Pot Vegan is the perfect staple cookbook for vegans, vegetarians, flexitarians, or anyone who simply wants more plants on their plate. Packed with inspiration for pastas, curries, salads, stir-fries, noodles and even puddings, every recipe uses simple supermarket ingredients - for maximum flavour with minimum fuss. From the creators of So Vegan, one of the world's leading vegan food platforms with a growing community of over 1.5 million followers. Recipes are accompanied by full nutritional info, plus tips for batch cooking or freezing. Eating more plants has never been so easy!"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0241448719"
+      - type: "ISBN_13"
+        identifier: "9780241448717"
+    pageCount: 192
+    printType: "BOOK"
+    categories:
+      - "One-dish meals"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=FhF-zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=FhF-zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/One_Pot_Vegan.html?hl=&id=FhF-zQEACAAJ"
   - isbn: "9780241244944"
     dateFinished: "2022-01-05"
     title: "Quiet Leadership"
