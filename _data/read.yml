@@ -798,6 +798,27 @@
       thumbnail: "https://books.google.com/books/content?id=og_avgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Why_Running_Matters.html?hl=&id=og_avgEACAAJ"
+  - isbn: "9780451470881"
+    dateFinished: "2020-03-04"
+    title: "80/20 Running"
+    authors:
+      - "Matt Fitzgerald"
+    publishedDate: "2014"
+    description: "Respected running and fitness expert Matt Fitzgerald explains how the 80/20 running program--in which you do 80 percent of runs at a lower intensity and just 20 percent at a higher intensity--is the best change runners of all abilities can make to improve their performance. With a thorough examination of the science and research behind this training method, 80/20 Running is a hands-on guide for runners of all levels with training programs for 5K, 10K, half-marathon, and marathon distances…"
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780451470881"
+      - type: "ISBN_10"
+        identifier: "0451470885"
+    pageCount: 256
+    printType: "BOOK"
+    categories:
+      - "Sports & Recreation"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=xnsODAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=xnsODAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/80_20_Running.html?hl=&id=xnsODAAAQBAJ"
   - isbn: "9781492078005"
     dateFinished: "2020-05-05"
     title: "Head First Design Patterns"
