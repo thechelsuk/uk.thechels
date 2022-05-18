@@ -1260,6 +1260,27 @@
       thumbnail: "https://books.google.com/books/content?id=OWYiuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Sooner_Safer_Happier.html?hl=&id=OWYiuAEACAAJ"
+  - isbn: "9781774580585"
+    dateFinished: "2022-02-26"
+    title: "How to Begin"
+    authors:
+      - "Michael Bungay Stanier"
+    publishedDate: "2022-01-04"
+    description: "We unlock our greatness by working on the hard things. Coaching expert and bestselling author Michael Bungay Stanier (MBS) is on a mission: to help people achieve their most ambitious, daunting, worthy projects. But how can you get across the threshold so you can make bolder, more courageous choices in other areas of your life? The secret doesn’t lie in mastering new habits and hacks; it’s about downloading a new operating system for your life. MBS shows you how to regain power and make forward progression on projects and dreams that are meaningful to you. First, figure out The Plan. Be unabashedly ambitious for yourself and the world, commit to the work of hard change, and begin your hero’s journey. Then, follow The Threshold Process. Set a worthy goal, weigh the prizes and punishments of acting (or not acting), and then take the first steps toward that goal. Instead of doubting yourself, fearing you’ll make a mistake, and feeling like you need to play “small” so you don’t disrupt the status quo, start showing up for yourself so you can show up for the world. Don’t regret a life half-lived. Stepping up and pursuing your dreams is hard ... and it’s exhilarating, and it’s important. Let MBS show you how to get clear, get confident, and start anything that matters."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781774580585"
+      - type: "ISBN_10"
+        identifier: "1774580586"
+    pageCount: 208
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=rMQ3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=rMQ3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/How_to_Begin.html?hl=&id=rMQ3EAAAQBAJ"
   - isbn: "9781492050902"
     dateFinished: "2022-03-17"
     title: "97 Things Every Engineering Manager Should Know"
