@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    {% if page.layout == "post" %}
+    {% if page.id %}
     <meta name="title" content=" {{ post.title }} | {{ site.title }}" />
     <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.description }}" />
     <title>{{ post.title }} | {{ site.title }}</title>
