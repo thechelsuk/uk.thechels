@@ -397,6 +397,7 @@ cite {
     display: grid;
     grid-gap: 0;
     grid-template-columns: repeat(auto-fill, minmax(72px, 1fr));
+  }
 
   .book-list .book-img {
     flex-shrink: 0;
