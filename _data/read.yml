@@ -1587,6 +1587,27 @@
       thumbnail: "https://books.google.com/books/content?id=ogoetAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Miracle_Morning.html?hl=&id=ogoetAEACAAJ"
+  - isbn: "9781631611353"
+    dateFinished: "2022-01-10"
+    title: "Unlimited Memory"
+    authors:
+      - "Kevin Horsley"
+    publishedDate: "2021-08-13"
+    description: "Kevin Horsley Broke a World Memory Record in 2013 and you're about to learn how to use his memory strategies to learn faster, be more productive, and achieve more success. With over 300,000 copies sold, Unlimited Memory is a Wall Street Journal Best Seller and has been the #1 memory book on Amazon for more than two years. It has been translated into more than a dozen languages including French, Chinese, Russian, Korean, Ukrainian, and Lithuanian. Most people never tap into 10% of their potential for memory. In Unlimited Memory, you'll learn how the world's best memory masters get themselves to concentrate at will, anytime they want. When you can easily focus and concentrate on the task at hand, and store and recall useful information, you can easily double your productivity and eliminate wasted time, stress, and mistakes at work."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1631611356"
+      - type: "ISBN_13"
+        identifier: "9781631611353"
+    pageCount: 126
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=00OZzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=00OZzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Unlimited_Memory.html?hl=&id=00OZzgEACAAJ"
   - isbn: "9781591847533"
     dateFinished: "2022-01-17"
     title: "Turn Your Ship Around!"
