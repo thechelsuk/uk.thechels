@@ -735,6 +735,27 @@
       thumbnail: "https://books.google.com/books/content?id=BI9zxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Effective_Delegation_of_Authority.html?hl=&id=BI9zxQEACAAJ"
+  - isbn: "9780670921607"
+    dateFinished: "2019-10-01"
+    title: "The Lean Startup"
+    authors:
+      - "Eric Ries"
+    publishedDate: "2011"
+    description: "Most startups are built to fail. But those failures, according to entrepreneur Eric Ries, are preventable. Startups don't fail because of bad execution, or missed deadlines, or blown budgets. They fail because they are building something nobody wants. Whether they arise from someone's garage or are created within a mature Fortune 500 organization, new ventures, by definition, are designed to create new products or services under conditions of extreme uncertainly. Their primary mission is to find out what customers ultimately will buy. One of the central premises of The Lean Startup movement is what Ries calls \"validated learning\" about the customer. It is a way of getting continuous feedback from customers so that the company can shift directions or alter its plans inch by inch, minute by minute. Rather than creating an elaborate business plan and a product-centric approach, Lean Startup prizes testing your vision continuously with your customers and making constant adjustments…"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0670921602"
+      - type: "ISBN_13"
+        identifier: "9780670921607"
+    pageCount: 320
+    printType: "BOOK"
+    categories:
+      - "Consumers' preferences"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=BBhmAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=BBhmAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Lean_Startup.html?hl=&id=BBhmAQAACAAJ"
   - isbn: "9781786859464"
     dateFinished: "2019-11-25"
     title: "Why Running Matters"
