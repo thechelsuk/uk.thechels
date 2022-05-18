@@ -2,8 +2,8 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="title" content="{{ site.title }}" />
-    <meta name="description" content="{{ site.description }}" />
+    <meta name="title" content="{% if post.link %} {{ post.title }} | {% endif %} {{ site.title }}" />
+    <meta name="description" content="{% if post.link %} {{ post.title }} | {% endif %}{{ site.description }}" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta name="format-detection" content="telephone=no"/>
     <meta name="format-detection" content="address=no"/>
