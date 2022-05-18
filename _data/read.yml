@@ -569,6 +569,25 @@
       thumbnail: "https://books.google.com/books/content?id=WRpPDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Neurotribes.html?hl=&id=WRpPDQAAQBAJ"
+  - isbn: "9781096807728"
+    dateFinished: "2019-07-17"
+    title: "Effective Delegation of Authority"
+    authors:
+      - "Hassan Osman"
+    publishedDate: "2019-05-07"
+    description: "Do you feel stressed and overwhelmed with tasks that you can't keep up with? Are you struggling with the delegation of work to your employees? Effective Delegation of Authority is a brief guide for new managers that will help you improve your delegation skills in simple steps. If you're a manager or entrepreneur who leads three or more employees, then this book is for you. It's a super-short book that'll help you avoid the common mistakes that new managers make when delegating tasks. It includes a comprehensive step-by-step process that tells you exactly what to do before delegation, during delegation, and after delegation. You'll also get immediately applicable tactics that you can implement straightway with your subordinates. Here's a partial list of what's covered: How to determine what to delegate to your employees before starting the delegation process The method you should follow to decide who to delegate work to on your team The five traits that every task should have before you delegate it. How to describe authority levels the right way before you delegate work How to avoid micromanaging your employees How to check in with your subordinates and give them meaningful feedback. How to avoid being too prescriptive, while still giving your employees a good description of what they need to accomplish The most important thing you should do after you delegate a task to verify understanding Some examples of delegation to help you understand the concepts better A downloadable sample delegation template and one-page cheat sheet that you can use as quick reference guides The book is divided into three sections that will serve as your new manager checklist: Section I: Before Delegation Step One: Determine What to Delegate Step Two: Determine Who to Delegate to Section II: During Delegation Step One: Explain the Task Clearly Step Two: Describe Goals, Not Actions Step Three: Give Clear Timelines Step Four: Describe Authority Levels Step Five: Put it in Writing Section III: After Delegation Step One: Check In Step Two: Give Meaningful Feedback Free Bonus As a free bonus for purchasing this book, you'll get a one-page cheat sheet (a PDF file) that summarizes all the tips in the book on one single page. You'll also get a sample delegation template (MS Word format) that you can copy and paste and modify for your own team. Would you like to learn more? Download Effective Delegation of Authority now to get started. Scroll to the top and click on the \"buy button.\""
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1096807726"
+      - type: "ISBN_13"
+        identifier: "9781096807728"
+    pageCount: 48
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=BI9zxQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=BI9zxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Effective_Delegation_of_Authority.html?hl=&id=BI9zxQEACAAJ"
   - isbn: "9781786859464"
     dateFinished: "2019-11-25"
     title: "Why Running Matters"
