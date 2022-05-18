@@ -1,13 +1,5 @@
 {% include header.html %}
-<a href="{{ site.url }}" class="back-to-front" title="Back to all posts">&larr; back</a>
-<h2 class="post-title">
- {% if page.link %}
-  {{ page.title }} 
-<a href="{{ page.link }}"></a>
-{% else %}
- {{ page.title }}
-{% endif %}
-</h2>
+<h2 class="post-title">{{ page.title }}</h2>
  {{ content }}
 {% if page.link %}
   <p>• <a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
