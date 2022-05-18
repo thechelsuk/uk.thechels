@@ -1279,6 +1279,27 @@
       thumbnail: "https://books.google.com/books/content?id=9doyzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Communication_for_Engineers.html?hl=&id=9doyzgEACAAJ"
+  - isbn: "9780062663078"
+    dateFinished: "2021-12-22"
+    title: "Multipliers, Revised and Updated"
+    authors:
+      - "Liz Wiseman"
+    publishedDate: "2017-05-16"
+    description: "A revised and updated edition of the acclaimed Wall Street Journal bestseller that explores why some leaders drain capability and intelligence from their teams while others amplify it to produce better results. We’ve all had experience with two dramatically different types of leaders. The first type drains intelligence, energy, and capability from the people around them and always needs to be the smartest person in the room. These are the idea killers, the energy sappers, the diminishers of talent and commitment. On the other side of the spectrum are leaders who use their intelligence to amplify the smarts and capabilities of the people around them. When these leaders walk into a room, light bulbs go off over people’s heads; ideas flow and problems get solved. These are the leaders who inspire employees to stretch themselves to deliver results that surpass expectations. These are the Multipliers. And the world needs more of them, especially now when leaders are expected to do more with less. In this engaging and highly practical book, leadership expert Liz Wiseman explores these two leadership styles, persuasively showing how Multipliers can have a resoundingly positive and profitable effect on organizations—getting more done with fewer resources, developing and attracting talent, and cultivating new ideas and energy to drive organizational change and innovation. In analyzing data from more than 150 leaders, Wiseman has identified five disciplines that distinguish Multipliers from Diminishers. These five disciplines are not based on innate talent; indeed, they are skills and practices that everyone can learn to use—even lifelong and recalcitrant Diminishers. Lively, real-world case studies and practical tips and techniques bring to life each of these principles, showing you how to become a Multiplier too, whether you are a new or an experienced manager. This revered classic has been updated with new examples of Multipliers, as well as two new chapters one on accidental Diminishers, and one on how to deal with Diminishers. Just imagine what you could accomplish if you could harness all the energy and intelligence around you. Multipliers will show you how."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0062663070"
+      - type: "ISBN_13"
+        identifier: "9780062663078"
+    pageCount: 384
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=MLZQvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=MLZQvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Multipliers_Revised_and_Updated.html?hl=&id=MLZQvgAACAAJ"
   - isbn: "9780815364313"
     dateFinished: "2021-12-24"
     title: "The Trillion Dollar Shift"
