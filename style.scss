@@ -352,19 +352,6 @@ cite {
   margin-top: 10px;
 }
 
-.back-to-front {
-  position: absolute;
-  top: -45px;
-  left: -65px;
-  text-decoration: none;
-  font-size: 0.9em;
-}
-
-.back-to-front:hover,
-.back-to-front:focus {
-  text-decoration: underline;
-}
-
 .content {
   position: relative;
 }
@@ -431,11 +418,6 @@ cite {
     float: none !important;
   }
 
-  .back-to-front {
-    left: 0;
-    top: -20px;
-  }
-
   .footer,
   #outer-wrapper:after {
     height: 60px;
@@ -448,10 +430,6 @@ cite {
 and (min-device-width:320px)
 and (max-device-width:480px) {
  
-  .back-to-front {
-    display: none;
-  }
-  
   .blog-menu {
     margin-bottom: 10px;
   }
