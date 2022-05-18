@@ -653,6 +653,28 @@
       thumbnail: "https://books.google.com/books/content?id=WRpPDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Neurotribes.html?hl=&id=WRpPDQAAQBAJ"
+  - isbn: "9781501197277"
+    dateFinished: "2019-06-09"
+    title: "The Courage to Be Disliked"
+    authors:
+      - "Ichiro Kishimi"
+      - "Fumitake Koga"
+    publishedDate: "2018-05-08"
+    description: "“Marie Kondo, but for your brain.” —HelloGiggles “Compelling from front to back. Highly recommend.” —Marc Andreessen Reading this book could change your life. The Courage to Be Disliked, already an enormous bestseller in Asia with more than 3.5 million copies sold, demonstrates how to unlock the power within yourself to be the person you truly want to be. Is happiness something you choose for yourself? The Courage to Be Disliked presents a simple and straightforward answer. Using the theories of Alfred Adler, one of the three giants of nineteenth-century psychology alongside Freud and Jung, this book follows an illuminating dialogue between a philosopher and a young man. Over the course of five conversations, the philosopher helps his student to understand how each of us is able to determine the direction of our own life, free from the shackles of past traumas and the expectations of others. Rich in wisdom, The Courage to Be Disliked will guide you through the concepts of self-forgiveness, self-care, and mind decluttering. It is a deeply liberating way of thinking, allowing you to develop the courage to change and ignore the limitations that you might be placing on yourself. This plainspoken and profoundly moving book unlocks the power within you to find lasting happiness and be the person you truly want to be. Millions have already benefited from its teachings, now you can too."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1501197274"
+      - type: "ISBN_13"
+        identifier: "9781501197277"
+    pageCount: 288
+    printType: "BOOK"
+    categories:
+      - "Self-Help"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=AWfuyQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=AWfuyQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Courage_to_Be_Disliked.html?hl=&id=AWfuyQEACAAJ"
   - isbn: "9781643135991"
     dateFinished: "2019-06-16"
     title: "The Rise of the Ultra Runners"
