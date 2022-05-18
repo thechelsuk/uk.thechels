@@ -589,6 +589,25 @@
       thumbnail: "https://books.google.com/books/content?id=3GqAzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Head_First_Design_Patterns.html?hl=&id=3GqAzQEACAAJ"
+  - isbn: "9781913062729"
+    dateFinished: "2021-07-06"
+    title: "The Four Fixations of a Brilliant Leader"
+    authors:
+      - "Alan J. Sears"
+    publishedDate: "2021-03-11"
+    description: "From the author of the BESTSELLING The Six Conversations of a Brilliant ManagerFollowing on from the success of The Six Conversations of a Brilliant Manager, Alan J. Sears turns his attention to leadership.This time we meet Julie-Anne Johnson, head of a division of a large healthcare company. When a colleague is taken ill she steps into a bigger role and discovers a business that is working reasonably well but that has become increasingly complacent. How can she encourage the team she has inherited to look at their roles with fresh eyes? How can she help them to recapture their initial enthusiasm and channel this to take the business on to bigger and better success? And can she use these same lessons at home to achieve the work-life harmony that she and her family needs?Fixation #1 VisionFixation #2 InspirationFixation #3 DevelopmentFixation #4 ActionThis highly practical guide delivers great lessons in leadership, concluding with a simple how-to chapter, explaining the thoughts and practice behind each fixation. It is an instantly-applicable and hugely powerful toolkit for every manager and HR department looking to get the very best out of their people."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1913062724"
+      - type: "ISBN_13"
+        identifier: "9781913062729"
+    pageCount: 160
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=8srlzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=8srlzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Four_Fixations_of_a_Brilliant_Leader.html?hl=&id=8srlzgEACAAJ"
   - isbn: "9780143130727"
     dateFinished: "2021-07-20"
     title: "Ikigai"
