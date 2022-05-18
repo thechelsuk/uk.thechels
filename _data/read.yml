@@ -548,6 +548,27 @@
       thumbnail: "https://books.google.com/books/content?id=IjwBkAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Lean_in_15.html?hl=&id=IjwBkAEACAAJ"
+  - isbn: "9780399185618"
+    dateFinished: "2019-06-09"
+    title: "Neurotribes"
+    authors:
+      - "Steve Silberman"
+    publishedDate: "2016-08-23"
+    description: "This New York Times–bestselling book upends conventional thinking about autism and suggests a broader model for acceptance, understanding, and full participation in society for people who think differently. What is autism? A lifelong disability, or a naturally occurring form of cognitive difference akin to certain forms of genius? In truth, it is all of these things and more—and the future of our society depends on our understanding it. Wired reporter Steve Silberman unearths the secret history of autism, long suppressed by the same clinicians who became famous for discovering it, and finds surprising answers to the crucial question of why the number of diagnoses has soared in recent years. Going back to the earliest days of autism research, Silberman offers a gripping narrative of Leo Kanner and Hans Asperger, the research pioneers who defined the scope of autism in profoundly different ways; he then goes on to explore the game-changing concept of neurodiversity. NeuroTribes considers the idea that neurological differences such as autism, dyslexia, and ADHD are not errors of nature or products of the toxic modern world, but the result of natural variations in the human genome. This groundbreaking book will reshape our understanding of the history, meaning, function, and implications of neurodiversity in our world."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780399185618"
+      - type: "ISBN_10"
+        identifier: "0399185615"
+    pageCount: 560
+    printType: "BOOK"
+    categories:
+      - "Psychology"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=WRpPDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=WRpPDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Neurotribes.html?hl=&id=WRpPDQAAQBAJ"
   - isbn: "9781492078005"
     dateFinished: "2020-05-05"
     title: "Head First Design Patterns"
