@@ -1,10 +1,9 @@
 ---
 layout: default
-title:
+title: Recent
 ---
 
 <div id="blog-archives">
-    <h2>Recent</h2>
         {% for post in site.posts limit:5 %}
             <article class="posts">
               <a href="{{ post.url }}">{{ post.title }}</a> {% if post.link %} &rarr;{% endif %}
