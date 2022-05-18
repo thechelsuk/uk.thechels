@@ -445,6 +445,27 @@
       thumbnail: "https://books.google.com/books/content?id=fXsCswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Way_of_the_Runner.html?hl=&id=fXsCswEACAAJ"
+  - isbn: "9781681774398"
+    dateFinished: "2019-01-15"
+    title: "The Way of the Runner"
+    authors:
+      - "Adharanand Finn"
+    publishedDate: "2017-07-11"
+    description: "Japan is the most running-obsessed country on earth. A 135-mile relay race, or \"ekiden,\" is the country's biggest annual sporting event. Thousands of professional runners compete for corporate teams in some of the most competitive races in the world. The legendary \"marathon monks\" run a thousand marathons in a thousand days to reach spiritual enlightenment.Yet so much of Japan's running culture remains a mystery to the outside world. Adharanand Finn, the award-winning author of Running with the Kenyans, spent six months immersed in this one-of-a-kind running culture to discover what it might teach us about the sport and about Japan.As an amateur runner about to turn 40, he also hoped to find out whether a Japanese approach to training might help him run faster. What he learns—about competition, team work, form, chasing personal bests, and about himself—will fascinate and surprise anyone keen to explore why we run and how we might do it better."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1681774399"
+      - type: "ISBN_13"
+        identifier: "9781681774398"
+    pageCount: 336
+    printType: "BOOK"
+    categories:
+      - "Sports & Recreation"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=6sAWvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=6sAWvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Way_of_the_Runner.html?hl=&id=6sAWvgAACAAJ"
   - isbn: "9781472963864"
     dateFinished: "2019-02-03"
     title: "401"
