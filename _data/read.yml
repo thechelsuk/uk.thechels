@@ -1260,6 +1260,27 @@
       thumbnail: "https://books.google.com/books/content?id=OWYiuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Sooner_Safer_Happier.html?hl=&id=OWYiuAEACAAJ"
+  - isbn: "9780735216372"
+    dateFinished: "2022-02-03"
+    title: "Thinking in Bets"
+    authors:
+      - "Annie Duke"
+    publishedDate: "2019-05-07"
+    description: "Wall Street Journal bestseller! Poker champion turned business consultant Annie Duke teaches you how to get comfortable with uncertainty and make better decisions as a result. In Super Bowl XLIX, Seahawks coach Pete Carroll made one of the most controversial calls in football history: With 26 seconds remaining, and trailing by four at the Patriots' one-yard line, he called for a pass instead of a hand off to his star running back. The pass was intercepted and the Seahawks lost. Critics called it the dumbest play in history. But was the call really that bad? Or did Carroll actually make a great move that was ruined by bad luck? Even the best decision doesn't yield the best outcome every time. There's always an element of luck that you can't control, and there is always information that is hidden from view. So the key to long-term success (and avoiding worrying yourself to death) is to think in bets: How sure am I? What are the possible ways things could turn out? What decision has the highest odds of success? Did I land in the unlucky 10% on the strategy that works 90% of the time? Or is my success attributable to dumb luck rather than great decision making? Annie Duke, a former World Series of Poker champion turned business consultant, draws on examples from business, sports, politics, and (of course) poker to share tools anyone can use to embrace uncertainty and make better decisions. For most people, it's difficult to say \"I'm not sure\" in a world that values and, even, rewards the appearance of certainty. But professional poker players are comfortable with the fact that great decisions don't always lead to great outcomes and bad decisions don't always lead to bad outcomes. By shifting your thinking from a need for certainty to a goal of accurately assessing what you know and what you don't, you'll be less vulnerable to reactive emotions, knee-jerk biases, and destructive habits in your decision making. You'll become more confident, calm, compassionate and successful in the long run."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780735216372"
+      - type: "ISBN_10"
+        identifier: "0735216371"
+    pageCount: 288
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=CI-RDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=CI-RDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Thinking_in_Bets.html?hl=&id=CI-RDwAAQBAJ"
   - isbn: "9781950508402"
     dateFinished: "2022-02-12"
     title: "The Devops Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations"
