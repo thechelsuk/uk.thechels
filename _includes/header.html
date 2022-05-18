@@ -6,7 +6,7 @@
     <meta name="title" content=" {{ post.title }} | {{ site.title }}" />
     <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.description }}" />
     <title>{{ post.title }} | {{ site.title }}</title>
-    {% elsif %}
+    {% else %}
     <meta name="title" content=" {{ page.title }} | {{ site.title }}" />
     <meta name="description" content="{% if page.title %} {{ page.title }} | {% endif %}{{ site.description }}" />
     <title>{{ page.title }} | {{ site.title }}</title>
@@ -19,7 +19,6 @@
     <meta name="HandheldFriendly" content="True" />
     <meta name="theme-color" content="#005CA3" />
     <meta name="robots" content="index,follow" />
-    <link rel="canonical" href="https://thechels.uk/" />
     <link rel="manifest" href="/manifest.json" />
     <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
