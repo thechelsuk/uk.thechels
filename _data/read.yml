@@ -1070,6 +1070,27 @@
       thumbnail: "https://books.google.com/books/content?id=NZDqjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Managing_Humans.html?hl=&id=NZDqjwEACAAJ"
+  - isbn: "9780691210261"
+    dateFinished: "2022-01-01"
+    title: "Narrative Economics"
+    authors:
+      - "Robert J. Shiller"
+    publishedDate: "2020-09"
+    description: "From Nobel Prize–winning economist and New York Times bestselling author Robert Shiller, a groundbreaking account of how stories help drive economic events—and why financial panics can spread like epidemic viruses Stories people tell—about financial confidence or panic, housing booms, or Bitcoin—can go viral and powerfully affect economies, but such narratives have traditionally been ignored in economics and finance because they seem anecdotal and unscientific. In this groundbreaking book, Robert Shiller explains why we ignore these stories at our peril—and how we can begin to take them seriously. Using a rich array of examples and data, Shiller argues that studying popular stories that influence individual and collective economic behavior—what he calls \"narrative economics\"—may vastly improve our ability to predict, prepare for, and lessen the damage of financial crises and other major economic events. The result is nothing less than a new way to think about the economy, economic change, and economics. In a new preface, Shiller reflects on some of the challenges facing narrative economics, discusses the connection between disease epidemics and economic epidemics, and suggests why epidemiology may hold lessons for fighting economic contagions."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780691210261"
+      - type: "ISBN_10"
+        identifier: "0691210268"
+    pageCount: 400
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=YlDVDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=YlDVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Narrative_Economics.html?hl=&id=YlDVDwAAQBAJ"
   - isbn: "9781250779878"
     dateFinished: "2022-01-03"
     title: "You're Not Listening"
