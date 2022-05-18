@@ -1152,6 +1152,27 @@
       thumbnail: "https://books.google.com/books/content?id=gxZEvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Quiet_Leadership.html?hl=&id=gxZEvgAACAAJ"
+  - isbn: "9780008348205"
+    dateFinished: "2022-01-06"
+    title: "Collins Quiz Master"
+    authors:
+      - "Collins"
+    publishedDate: "2019-09-05"
+    description: "500 brand new quizzes to test your general knowledge to the limit. With 10,000 previously unseen questions arranged in easy, medium and difficult categories, you can set the pace as quiz master for your friends and family, or pit yourself against the Collins Quiz Master in a battle of wits. Q: What's inside this book? A: 500 quizzes covering everything from pop stars to death stars. Each round is a mixture of themes and potluck, with the questions heading from friendly teasers to ones that will scramble even an egghead's brains. Q: Who is it for? A: You, your mum, your dad, your family and friends, the man down the road and two halves of the crowd at your local. Each quiz provides good clean fun for all. The answers are quick and easy to find so that anyone can pick this up and become the ultimate quiz master!"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0008348200"
+      - type: "ISBN_13"
+        identifier: "9780008348205"
+    pageCount: 512
+    printType: "BOOK"
+    categories:
+      - "Games & Activities"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=deAvwQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=deAvwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Collins_Quiz_Master.html?hl=&id=deAvwQEACAAJ"
   - isbn: "9781501121746"
     dateFinished: "2022-01-10"
     title: "Sprint"
