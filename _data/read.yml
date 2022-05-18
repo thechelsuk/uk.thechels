@@ -1360,6 +1360,26 @@
       thumbnail: "https://books.google.com/books/content?id=a5c9zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Banking_on_It.html?hl=&id=a5c9zgEACAAJ"
+  - isbn: "9781640952829"
+    dateFinished: "2021-12-24"
+    title: "Thrive"
+    authors:
+      - "Meridith Elliott Powell"
+      - "Meridith Elliott Powell Mba Csp"
+    publishedDate: "2021-06-22"
+    description: "Thrive is the roadmap of how to grow your business and drive sales in highly shifting, constantly changing economic times. It is the story of those leaders and organizations that have seen consistent growth through several economic crisis-companies that were founded in the late 1700's to early 1900's and they are still in business thriving today. In this book we share their stories, their struggles, and tell you exactly how they have not only overcome adversity, but thrived through it. Praise for the Book: \"We live in a time when uncertainty is the order of the day. THRIVE is a must-read for all who strive to grow intellectually and to succeed through the opportunities an uncertain world offers.\" --Ken Langone, Founder, Home Depot, American Billionaire and Philanthropist \"Talk about the right book for the right time! What I liked most about THRIVE are the case studies of real companies and real people who weathered the storms and emerged more successful than before. THRIVE is both practical and inspirational. I've ordered copies for my entire team.\" --Bill Cates, CSP, CPAE, Founder, The Cates Academy for Relationship Marketing, Author of Radical Relevance \"In THRIVE, Meridith weaves in 250 years of business history to show how resilient businesses and people find opportunities in every situation. This is a must-read to gain ideas and perspective in a sea of change.\" --Mary C. Kelly, PhD, CEO, Productive Leaders, Author of The Five Minute Leadership Guide \"You do not merely read this book; you read, you think, you develop next steps. Meridith does a masterful job of detailing companies doing it right and then goes further by adding her insights to create a playbook of what you need to do. Perfect book for the time we're in right now!\" --Mark Hunter, CSP, \"The Sales Hunter\", Author of A Mind For Sales \"The only certainty in business is there will be times of great uncertainty. It's how you react when your world--or the world--doesn't go as planned that determines your future. Meridith studies how companies have thrived in their uncertain times to become global market leaders and shares the proven success strategies that you can implement in your business to do the same. If there was ever a time where our world needed this book, it's now. Read it. Study it. And thrive!\" --Sam Richter, CSP, CPAE, Hall of Fame Speaker, Bestselling Author, and Technology Entrepreneur"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1640952829"
+      - type: "ISBN_13"
+        identifier: "9781640952829"
+    pageCount: 288
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=Sx89zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=Sx89zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Thrive.html?hl=&id=Sx89zgEACAAJ"
   - isbn: "9798623817303"
     dateFinished: "2022-01-01"
     title: "Body Language"
