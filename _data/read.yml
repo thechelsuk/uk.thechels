@@ -2011,3 +2011,24 @@
       thumbnail: "https://books.google.com/books/content?id=lG5TzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Art_Of_Critical_Thinking.html?hl=&id=lG5TzAEACAAJ"
+  - isbn: "9780470580455"
+    dateFinished: "2022-05-18"
+    title: "The Four Obsessions of an Extraordinary Executive"
+    authors:
+      - "Patrick Lencioni"
+    publishedDate: "2000-08-24"
+    description: "In this stunning follow-up to his best-selling book, The Five Temptations of a CEO, Patrick Lencioni offers up another leadership fable that's every bit as compelling and illuminating as its predecessor. This time, Lencioni's focus is on a leader's crucial role in building a healthy organization--an often overlooked but essential element of business life that is the linchpin of sustained success. Readers are treated to a story of corporate intrigue as the frustrated head of one consulting firm faces a leadership challenge so great that it threatens to topple his company, his career, and everything he holds true about leadership itself. In the story's telling, Lencioni helps his readers understand the disarming simplicity and power of creating organizational health, and reveals four key disciplines that they can follow to achieve it."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0470580453"
+      - type: "ISBN_13"
+        identifier: "9780470580455"
+    pageCount: 208
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=A4jAwAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=A4jAwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Four_Obsessions_of_an_Extraordinary.html?hl=&id=A4jAwAEACAAJ"
