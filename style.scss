@@ -392,7 +392,17 @@ cite {
     margin: 14px;
     width: auto;
   }
+  
+  .book-list {
+    display: grid;
+    grid-gap: 0;
+    grid-template-columns: repeat(auto-fill, minmax(72px, 1fr));
 
+  .book-list .book-img {
+    flex-shrink: 0;
+    width: 72px;
+  }  
+    
   .footer {
     line-height: 30px;
     padding-top: 10px;
