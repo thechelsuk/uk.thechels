@@ -1781,6 +1781,31 @@
       thumbnail: "https://books.google.com/books/content?id=oqO5zAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Building_Top_Performing_Teams.html?hl=&id=oqO5zAEACAAJ"
+  - isbn: "9781484272169"
+    dateFinished: "2022-03-04"
+    title: "Docs for Developers"
+    authors:
+      - "Jared Bhatti"
+      - "Zachary Sarah Corleissen"
+      - "Jen Lambourne"
+      - "David Nunez"
+      - "Heidi Waterhouse"
+    publishedDate: "2021-10-01"
+    description: "Learn to integrate programming with good documentation. This book teaches you the craft of documentation for each step in the software development lifecycle, from understanding your users’ needs to publishing, measuring, and maintaining useful developer documentation. Well-documented projects save time for both developers on the project and users of the software. Projects without adequate documentation suffer from poor developer productivity, project scalability, user adoption, and accessibility. In short: bad documentation kills projects. Docs for Developers demystifies the process of creating great developer documentation, following a team of software developers as they work to launch a new product. At each step along the way, you learn through examples, templates, and principles how to create, measure, and maintain documentation—tools you can adapt to the needs of your own organization. What You'll Learn Create friction logs and perform user research to understand your users’ frustrations Research, draft, and write different kinds of documentation, including READMEs, API documentation, tutorials, conceptual content, and release notes Publish and maintain documentation alongside regular code releases Measure the success of the content you create through analytics and user feedback Organize larger sets of documentation to help users find the right information at the right time Who This Book Is For Ideal for software developers who need to create documentation alongside code, or for technical writers, developer advocates, product managers, and other technical roles that create and contribute to documentation for their products and services."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1484272161"
+      - type: "ISBN_13"
+        identifier: "9781484272169"
+    pageCount: 225
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=uoJ2zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=uoJ2zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Docs_for_Developers.html?hl=&id=uoJ2zgEACAAJ"
   - isbn: "9781492050902"
     dateFinished: "2022-03-17"
     title: "97 Things Every Engineering Manager Should Know"
