@@ -2,7 +2,7 @@ name: Clear Cache
 on:
   push:
     paths:
-    - 'style.ccss'
+    - 'style.scss'
   workflow_dispatch:
 
 jobs:
