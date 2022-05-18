@@ -1543,6 +1543,27 @@
       thumbnail: "https://books.google.com/books/content?id=deAvwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Collins_Quiz_Master.html?hl=&id=deAvwQEACAAJ"
+  - isbn: "9781847941107"
+    dateFinished: "2022-01-06"
+    title: "Scrum"
+    authors:
+      - "Jeff Sutherland"
+    publishedDate: "2015-08-27"
+    description: "The definitive account of the Scrum methodology from its co-creator and the CEO of Scrum, Inc., Jeff Sutherland. Scrum is the revolutionary approach to project management and team building that has helped to transform everything from software companies to the US military to healthcare in major American hospitals. In this major new book its originator, Jeff Sutherland, explains precisely and step by step how it operates âe\" and how it can be made to work for anyone, anywhere. Take the FBI attempt to digitize its records, for example. As with so many software projects the first attempt failed, having taken four years and cost over $400 million.Then the FBI turned to Scrum, and just over a year later unveiled a functioning system that cost less than a tenth of the first project and employed a tenth of the staff. And it's not just grand projects that Scrum can help with. Every organisation, whatever its size, constantly has to come to grips with delivering a product or service on time and on budget. Scrum shows you how. It explains how to define precisely what it is that you are seeking to achieve, how to set up the team to achieve it, and how to monitor progress until the project is successfully completed. Filled with practical examples drawn from all types and organisation it will make you rethink the fundamentals of successful management âe\" and show you how to get things done however everyday or ambitious, however small or large your organisation."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1847941109"
+      - type: "ISBN_13"
+        identifier: "9781847941107"
+    pageCount: 248
+    printType: "BOOK"
+    categories:
+      - "Project management"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=L13frQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=L13frQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Scrum.html?hl=&id=L13frQEACAAJ"
   - isbn: "9781501121746"
     dateFinished: "2022-01-10"
     title: "Sprint"
