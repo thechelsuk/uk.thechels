@@ -569,6 +569,27 @@
       thumbnail: "https://books.google.com/books/content?id=WRpPDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Neurotribes.html?hl=&id=WRpPDQAAQBAJ"
+  - isbn: "9781643135991"
+    dateFinished: "2019-06-16"
+    title: "The Rise of the Ultra Runners"
+    authors:
+      - "Adharanand Finn"
+    publishedDate: "2020-10-13"
+    description: "An electrifying look inside the wild world of extreme distance running. Once the reserve of only the most hardcore enthusiasts, ultra running is now a thriving global industry, with hundreds of thousands of competitors each year. But is the rise of this most brutal and challenging sport—with races that extend into hundreds of miles, often in extreme environments—an antidote to modern life, or a symptom of a modern illness? In The Rise of the Ultra Runners, award-winning author Adharanand Finn travels to the heart of the sport to investigate the reasons behind its rise and discover what it takes to join the ranks of these ultra athletes. Through encounters with the extreme and colorful characters of the ultramarathon world, and his own experiences of running ultras everywhere from the deserts of Oman to the Rocky Mountains, Finn offers a fascinating account of people testing the boundaries of human endeavor."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1643135996"
+      - type: "ISBN_13"
+        identifier: "9781643135991"
+    pageCount: 272
+    printType: "BOOK"
+    categories:
+      - "Sports & Recreation"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=GPRLzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=GPRLzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Rise_of_the_Ultra_Runners.html?hl=&id=GPRLzQEACAAJ"
   - isbn: "9781096807728"
     dateFinished: "2019-07-17"
     title: "Effective Delegation of Authority"
