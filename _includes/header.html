@@ -54,9 +54,9 @@
         </p>
         <nav class="blog-menu">
              {% if page.id %}
-              <a href="{{ site.url }}" class="back-to-front" title="Back to all posts">&larr; Back</a>
+              <a href="{{ site.url }}/" title="Back to all posts">&larr; Back</a>
               {% else %}
-              <a href="{{ site.url }}" class="back-to-front" title="Back to all posts">&larr; Home</a>
+              <a href="{{ site.url }}/" title="Back to all home">&larr; Home</a>
               {% endif %}
              {% for item in site.data.header %}
                <a href="{{item.link}}">{{item.title}}</a> 
