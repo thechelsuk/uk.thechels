@@ -2,8 +2,17 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta name="title" content="{% if post.title %} {{ post.title }} | {% endif %} {{ site.title }}" />
+    {% if post.title %}
+    <meta name="title" content=" {{ post.title }} | {{ site.title }}" />
     <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.description }}" />
+    <title>{{ post.title }} | {{ site.title }}</title>
+    {% endif %}
+    {% if page.title %}
+    <meta name="title" content=" {{ page.title }} | {{ site.title }}" />
+    <meta name="description" content="{% if page.title %} {{ page.title }} | {% endif %}{{ site.description }}" />
+    <title>{{ page.title }} | {{ site.title }}</title>
+    {% endif %}
+    
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta name="format-detection" content="telephone=no"/>
     <meta name="format-detection" content="address=no"/>
@@ -26,7 +35,7 @@
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} xml" href="{{ site.url }}/feed.xml">
     <link rel="alternate" type="application/json" title="{{ site.title }} json" href="{{ site.url }}/feed.json">
-    <title>{% if post.title %} {{ post.title }} | {% endif %} {{ site.title }}</title>
+
   </head>
   <body>
     <div id="outer-wrapper">
