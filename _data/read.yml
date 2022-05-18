@@ -1013,6 +1013,25 @@
       thumbnail: "https://books.google.com/books/content?id=iKKvswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Trillion_Dollar_Shift.html?hl=&id=iKKvswEACAAJ"
+  - isbn: "9780241453599"
+    dateFinished: "2021-12-24"
+    title: "Banking on It"
+    authors:
+      - "Anne Boden"
+    publishedDate: "2021-11-04"
+    description: "TOP 5 BEST BUSINESS BOOKS OF THE YEAR 2020 - The Times \"If there was ever a business book suitable for TV adaptation, this is it.\" - FT \"A banking blockbuster\" - The Observer Magazine \"Sent shockwaves through the tight-knit world of UK tech and venture capital\" - Yahoo Finance BANKING ON IT is the first-hand account of one woman's quest to rebuild Britain's broken banking system. After a lengthy career at the top of some of Britain's leading banks Anne Boden had become disillusioned with the status quo - the financial crash had broken trust in the whole sector but there seemed to be little appetite to make the most of emerging technologies to revolutionise customer experience. Increasingly frustrated with the inertia within the industry she decided to shake things up herself by doing something totally radical - setting up her own bank. In this awe-inspiring story Anne reveals how she broke through bureaucracy, tackled prejudice and successfully countered widespread suspicion to realise her vision for the future of consumer banking. She fulfilled that dream by founding Starling, the winner of Best British Bank at the British Bank Awards in 2018, 2019 and 2020, and in doing so has triggered a new movement that is revolutionising the entire banking industry."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0241453593"
+      - type: "ISBN_13"
+        identifier: "9780241453599"
+    pageCount: 320
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=a5c9zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=a5c9zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Banking_on_It.html?hl=&id=a5c9zgEACAAJ"
   - isbn: "9798623817303"
     dateFinished: "2022-01-01"
     title: "Body Language"
