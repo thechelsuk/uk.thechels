@@ -1,5 +1,9 @@
 name: Clear Cache
-on: [push, workflow_dispatch]
+on:
+  push:
+    paths:
+    - 'style.ccss'
+  workflow_dispatch:
 
 jobs:
   deploy:
