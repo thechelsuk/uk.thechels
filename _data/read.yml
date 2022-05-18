@@ -1480,6 +1480,27 @@
       thumbnail: "https://books.google.com/books/content?id=ZQh8zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Just_Work.html?hl=&id=ZQh8zQEACAAJ"
+  - isbn: "9780857199096"
+    dateFinished: "2022-01-01"
+    title: "The Psychology of Money"
+    authors:
+      - "Morgan Housel"
+    publishedDate: "2021-03-02"
+    description: "Doing well with money isn't necessarily about what you know. It's about how you behave. The author shares 19 short stories exploring the strange ways people think about money and teaches how to make better sense of one of life's most important topics."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780857199096"
+      - type: "ISBN_10"
+        identifier: "0857199099"
+    pageCount: 256
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=m_xcEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=m_xcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Psychology_of_Money.html?hl=&id=m_xcEAAAQBAJ"
   - isbn: "9781250779878"
     dateFinished: "2022-01-03"
     title: "You're Not Listening"
