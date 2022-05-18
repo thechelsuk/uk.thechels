@@ -466,6 +466,27 @@
       thumbnail: "https://books.google.com/books/content?id=6sAWvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Way_of_the_Runner.html?hl=&id=6sAWvgAACAAJ"
+  - isbn: "9780345528803"
+    dateFinished: "2019-01-15"
+    title: "Running with the Kenyans"
+    authors:
+      - "Adharanand Finn"
+    publishedDate: "2013"
+    description: "\"Whether running is your recreation or your religion, Adharanand Finn's incredible journey to the elite training camps of Kenya will captivate and inspire you, as he ventures to uncover the secrets of the fastest people on earth.\" -- cover p. 4."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0345528808"
+      - type: "ISBN_13"
+        identifier: "9780345528803"
+    pageCount: 277
+    printType: "BOOK"
+    categories:
+      - "Sports & Recreation"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=4ImJDAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=4ImJDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Running_with_the_Kenyans.html?hl=&id=4ImJDAEACAAJ"
   - isbn: "9781472963864"
     dateFinished: "2019-02-03"
     title: "401"
