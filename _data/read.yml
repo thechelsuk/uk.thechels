@@ -466,6 +466,27 @@
       thumbnail: "https://books.google.com/books/content?id=DSzYDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/401.html?hl=&id=DSzYDwAAQBAJ"
+  - isbn: "9781473666160"
+    dateFinished: "2019-02-03"
+    title: "Superfast"
+    authors:
+      - "Sophie Devonshire"
+    publishedDate: "2019-09-17"
+    description: "Shortlisted for Best Leadership Book at the Business Book Awards If your business feels like it's moving at a turtle's pace, try SUPERFAST -- it will bring you up to speed. --Daniel Pink, author of DRIVE and WHEN In today's fast-paced world, leaders need to move at speed. The rate of innovation and change in organizations and the challenges of impatient investors or shareholders mean leadership decisions must be quick, smart and deliver real impact. Superfast provides cutting edge inspiration and a host of exciting ideas about how to accelerate performance in an agile and thoughtful way, shedding new light on leading in a world which is fluid and uncertain. You'll learn the practical solutions to leadership questions which the most savvy global leaders employ, and map your own shortcut to personal and professional success. Leadership is not just about moving fast, however. Superfast will show you how to use your time in the smartest, most efficient way possible - slowing down when necessary to get decisions right and accelerating elsewhere to unlock growth. Stop waiting around. Superfast will give you the tools to lead well and make change happen."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1473666163"
+      - type: "ISBN_13"
+        identifier: "9781473666160"
+    pageCount: 224
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=szYOwQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=szYOwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Superfast.html?hl=&id=szYOwQEACAAJ"
   - isbn: "9781724825803"
     dateFinished: "2019-02-11"
     title: "The Little Black Book of Training Wisdom"
