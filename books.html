@@ -9,7 +9,7 @@ title : Bookshelf
 <div class="book-list">
   {% for item in site.data.read | sort reversed %}
   <div class="book"> 
-    <div class="book-img"><img src="/images/books/book-{{item.isbn}}.png" /></div>
+    <div class="book-img"><img src="/images/books/book-{{item.isbn}}.png" alt="cover of {{item.title}} book" /></div>
   </div>
   {% endfor %}
 </div>
