@@ -7,7 +7,7 @@ title : Bookshelf
 <p>{{ site.data.read | size }} books I have read since 2019</p>
 
 <div class="book-list">
-  {% assign books = site.data.read sort:dateFinished reversed }
+  {% assign books = site.data.read sort:dateFinished reversed %}
   {% for book in books %}
   <div class="book"> 
     <div class="book-img"><img src="/images/books/book-{{book.isbn}}.png" alt="cover of {{book.title}} book" /></div>
