@@ -1218,6 +1218,28 @@
       thumbnail: "https://books.google.com/books/content?id=Fdx6wwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/97_Things_Every_Engineering_Manager_Shou.html?hl=&id=Fdx6wwEACAAJ"
+  - isbn: "9781250118363"
+    dateFinished: "2022-03-26"
+    title: "Algorithms to Live By"
+    authors:
+      - "Brian Christian"
+      - "Tom Griffiths"
+    publishedDate: "2017-04-04"
+    description: "A fascinating exploration of how computer algorithms can be applied to our everyday lives, helping to solve common decision-making problems and illuminate the workings of the human mind All our lives are constrained by limited space and time, limits that give rise to a particular set of problems. What should we do, or leave undone, in a day or a lifetime? How much messiness should we accept? What balance of new activities and familiar favourites is the most fulfilling? These may seem like uniquely human quandaries, but they are not: computers, too, face the same constraints, so computer scientists have been grappling with their version of such problems for decades. And the solutions they've found have much to teach us. In a dazzlingly interdisciplinary work, acclaimed author Brian Christian (who holds degrees in computer science, philosophy, and poetry, and works at the intersection of all three) and Tom Griffiths (a UC Berkeley professor of cognitive science and psychology) show how the simple, precise algorithms used by computers can also untangle very human questions. They explain how to have better hunches and when to leave things to chance, how to deal with overwhelming choices and how best to connect with others. From finding a spouse to finding a parking spot, from organizing one's inbox to understanding the workings of human memory, Algorithms to Live By transforms the wisdom of computer science into strategies for human living.\""
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1250118360"
+      - type: "ISBN_13"
+        identifier: "9781250118363"
+    pageCount: 368
+    printType: "BOOK"
+    categories:
+      - "Science"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=QBSYDAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=QBSYDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Algorithms_to_Live_By.html?hl=&id=QBSYDAEACAAJ"
   - isbn: "9780957491939"
     dateFinished: "2022-05-17"
     title: "Building Successful Communities of Practice"
