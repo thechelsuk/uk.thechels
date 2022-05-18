@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8" />
+
     {% if page.id %}
     <meta name="title" content=" {{ post.title }} | {{ site.title }}" />
     <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.description }}" />
@@ -12,6 +12,7 @@
     <title>{{ page.title }} | {{ site.title }}</title>
     {% endif %}
     
+    <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta name="format-detection" content="telephone=no"/>
     <meta name="format-detection" content="address=no"/>
