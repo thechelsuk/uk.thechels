@@ -1262,6 +1262,23 @@
       thumbnail: "https://books.google.com/books/content?id=Ma_YsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Key_Person_of_Influence.html?hl=&id=Ma_YsgEACAAJ"
+  - isbn: "9798707037603"
+    dateFinished: "2021-12-22"
+    title: "Communication for Engineers"
+    authors:
+      - "Chris Laffra"
+    publishedDate: "2021-02-09"
+    description: "This book was written by a software engineer for software engineers. It provides an overview of various communication skills and techniques that are relevant to people working in the software industry. Some of the communications skills discussed in this book have a generic nature, such as self-awareness. Others are more specific for engineers, such as writing clean code. The result is a comprehensive coverage of communication as it concerns software engineers with many practical and relevant tips to follow. The book sometimes focuses on communication between engineers and at other times, it explores how to interact with others, typically in a business context. When we say \"engineers\" in this book, we generalize and refer to software engineers, programmers, developers, designers, engineering managers, PMs, software architects, or anyone else working in software development.In this book, each communication skill will be discussed with specific tips to improve yourself in a well-structured, constructive, and productive fashion. The end goal is to increase your impact as an engineer by focusing on \"soft skills\" that complement your existing coding and problem solving skills."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9798707037603"
+    pageCount: 222
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=9doyzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=9doyzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Communication_for_Engineers.html?hl=&id=9doyzgEACAAJ"
   - isbn: "9780815364313"
     dateFinished: "2021-12-24"
     title: "The Trillion Dollar Shift"
