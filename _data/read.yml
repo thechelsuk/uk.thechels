@@ -777,6 +777,27 @@
       thumbnail: "https://books.google.com/books/content?id=gb2TvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/How_to_Own_the_World.html?hl=&id=gb2TvQEACAAJ"
+  - isbn: "9781733670302"
+    dateFinished: "2021-06-26"
+    title: "Words that Change Minds"
+    authors:
+      - "Shelle Rose Charvet"
+    publishedDate: "2019"
+    description: "Words that Change Minds is based on the Language and Behavior Profile® (LAB Profile® for short) - a powerful tool which illustrates the link between language and behavior. The LAB Profile® will enable you to understand from someone's language in everyday conversation, how they will behave in a given situation. You will learn how to customize your language for specific people and groups to trigger motivation and even change people's minds."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1733670300"
+      - type: "ISBN_13"
+        identifier: "9781733670302"
+    pageCount: 355
+    printType: "BOOK"
+    categories:
+      - "Communication"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=RsOEwgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=RsOEwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Words_that_Change_Minds.html?hl=&id=RsOEwgEACAAJ"
   - isbn: "9781913062064"
     dateFinished: "2021-06-27"
     title: "The Six Conversations of a Brilliant Manager"
