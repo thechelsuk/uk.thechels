@@ -2,12 +2,12 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    {% if post.title %}
+    {% if page.type == "post" %}
     <meta name="title" content=" {{ post.title }} | {{ site.title }}" />
     <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.description }}" />
     <title>{{ post.title }} | {{ site.title }}</title>
     {% endif %}
-    {% if page.title %}
+    {% if page.type == "page" %}
     <meta name="title" content=" {{ page.title }} | {{ site.title }}" />
     <meta name="description" content="{% if page.title %} {{ page.title }} | {% endif %}{{ site.description }}" />
     <title>{{ page.title }} | {{ site.title }}</title>
