@@ -589,6 +589,27 @@
       thumbnail: "https://books.google.com/books/content?id=3GqAzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Head_First_Design_Patterns.html?hl=&id=3GqAzQEACAAJ"
+  - isbn: "9781913062064"
+    dateFinished: "2021-06-27"
+    title: "The Six Conversations of a Brilliant Manager"
+    authors:
+      - "A. J. SEARS"
+    publishedDate: "2019-09-05"
+    description: "In The Six Conversations of a Brilliant Manager, Alan J. Sears distils over 20 years' experience as a management consultant and coach into six simple conversational structures that cover every management situation. A natural storyteller with a great narrative gift, Sears delivers his message in an entirely unique manner - as a work of business fiction. In this compelling and highly instructive tale you can follow the journey of newly promoted Operations Manager Sam Mitchell as he faces the everyday pressures and challenges of managing a team, and then relate his experiences to real life scenarios in your workplace. Conversation #1 - What can you do about that? Conversation #2 - Who should really own this? Conversation #3 - How should we be behaving? Conversation #4 - Who's really doing this? Conversation #5 - Where are we heading? Conversation #6 - How are we doing? This highly practical guide concludes with a simple how-to chapter, explaining why and how each conversation works, and when to use them, as well as providing accompanying tips and techniques. The Six Conversations of a Brilliant Manager is an instantly-applicable and hugely powerful toolkit for every manager and HR department looking to get the very best out of their people."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1913062066"
+      - type: "ISBN_13"
+        identifier: "9781913062064"
+    pageCount: 144
+    printType: "BOOK"
+    categories:
+      - "Leadership"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=6CuQxAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=6CuQxAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Six_Conversations_of_a_Brilliant_Man.html?hl=&id=6CuQxAEACAAJ"
   - isbn: "9781913062729"
     dateFinished: "2021-07-06"
     title: "The Four Fixations of a Brilliant Leader"
