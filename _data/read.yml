@@ -1657,6 +1657,28 @@
       thumbnail: "https://books.google.com/books/content?id=rMQ3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/How_to_Begin.html?hl=&id=rMQ3EAAAQBAJ"
+  - isbn: "9781789666762"
+    dateFinished: "2022-03-04"
+    title: "Building Top Performing Teams"
+    authors:
+      - "Lucy Widdowson"
+      - "Paul J. Barbour"
+    publishedDate: "2020-10-27"
+    description: "Achieve greater business growth using this practical guide to develop your team into a high performing collection rather than a group of disparate individuals."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1789666767"
+      - type: "ISBN_13"
+        identifier: "9781789666762"
+    pageCount: 256
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=oqO5zAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=oqO5zAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Building_Top_Performing_Teams.html?hl=&id=oqO5zAEACAAJ"
   - isbn: "9781492050902"
     dateFinished: "2022-03-17"
     title: "97 Things Every Engineering Manager Should Know"
