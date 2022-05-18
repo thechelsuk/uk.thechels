@@ -589,6 +589,27 @@
       thumbnail: "https://books.google.com/books/content?id=3GqAzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Head_First_Design_Patterns.html?hl=&id=3GqAzQEACAAJ"
+  - isbn: "9781473695306"
+    dateFinished: "2020-09-11"
+    title: "How to Own the World"
+    authors:
+      - "Andrew Craig"
+    publishedDate: "2019-03-07"
+    description: "THE LIFE-CHANGING PERSONAL FINANCE BESTSELLER THAT SHOWS YOU HOW TO MAKE MONEY FROM YOUR MONEY - NOW IN A REVISED 3RD EDITION. 'Opinionated and always packed with information' Mirror Discover the money secret understood by virtually every rich person in history. Turn hundreds into millions through the power of compound interest. HOW TO OWN THE WORLD shows you that: * No one is better placed than you to make the most of your money. * You can do better than many finance professionals. * Making money from your money is easier than you think. * You can make far more from your money than you ever thought possible. * You can make more from your money than you can from your job. * All this is possible no matter how much you currently earn. * It's easier today than ever. * It's time to start now. It is entirely realistic for you to control your wealth, make a lot of money, and become financially free as a result. HOW TO OWN THE WORLD shows you how. With just a little knowledge you can turn your financial fortunes around and change your life. 'For anyone who wants to understand how to best use the tools available in the modern world to learn about becoming a successful investor' Metro 'If you want just one book on investment from the cacophony, you couldn't do much better' Michael Mainelli, Economics Professor 'Without doubt the best book I have read in the last five years...' Emma Kane, CEO of Newgate Communications"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1473695309"
+      - type: "ISBN_13"
+        identifier: "9781473695306"
+    pageCount: 368
+    printType: "BOOK"
+    categories:
+      - "Finance, Personal"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=gb2TvQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=gb2TvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/How_to_Own_the_World.html?hl=&id=gb2TvQEACAAJ"
   - isbn: "9781913062064"
     dateFinished: "2021-06-27"
     title: "The Six Conversations of a Brilliant Manager"
