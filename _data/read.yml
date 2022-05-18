@@ -1157,6 +1157,23 @@
       thumbnail: "https://books.google.com/books/content?id=xeUpMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Manager_s_Path.html?hl=&id=xeUpMQAACAAJ"
+  - isbn: "9798727982488"
+    dateFinished: "2021-12-02"
+    title: "How to Talk to Anyone About Anything"
+    authors:
+      - "James W Williams"
+    publishedDate: "2021-03-24"
+    description: "Discover the Art of Masterful Conversations With this POWERFUL Guide! Have you always struggled with making small talk and want to stop feeling awkward? Do you wish to be able to tell stories where your listeners hang on to your every word? Do you wish you had the courage, the confidence, and the charisma to meet new people and make friends with them? If you've answered yes, this is the book for you! How to Talk to Anyone About Anything: Improve Your Social Skills, Master Small Talk, Connect Effortlessly, and Make Real Friends is your complete guide to help you do just that. The chapters within this book cover everything you need to know to fully embrace your true self and become the most enthralling conversationalist in ANY room! With this powerful guide to becoming a better communicator, you will: Stand tall as you uncover your potential and harness the power of your confidence Hone your listening skills to establish stronger connections with everyone around you Ask the right questions and make seamless conversations with colleagues, bosses, and potential partners Make conversations and interactions less daunting using powerful tips on how you can master the art of small talk Find out how to tell, structure, and design amazing stories to tell people based on your own life experiences Become more confident and charismatic in every area of your life and watch as your relationships improve and your networks grow Strengthen relationships, whether it be for work or your personal life, and improve your overall wellbeing and success And so much more! Every chapter within is broken down with easy-to-follow stories and information, laced with quick-fire facts and tips you can put into action right now. This means instant, positive changes from the moment you read the first chapter. Even if you've always been the wallflower, with How to Talk to Anyone About Anything you will learn to improve your social skills, master small talk, connect effortlessly, and make real friends - wherever, whenever! How to Talk to Anyone About Anything is the perfect guide for people looking to connect with people better! Scroll up, Click on \"Buy Now with 1-Click\", and Grab a Copy Today!"
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9798727982488"
+    pageCount: 170
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=fN9jzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=fN9jzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/How_to_Talk_to_Anyone_About_Anything.html?hl=&id=fN9jzgEACAAJ"
   - isbn: "9781674040424"
     dateFinished: "2021-12-11"
     title: "Aws"
