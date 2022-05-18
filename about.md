@@ -24,7 +24,7 @@ I also love listening to [podcasts so please help me find more](https://github.c
 ## Around the web
 
 - [GitHub](https://github.com/MatBenfield/)
-- [LinkedIn](https://thechels.uk/linkedin)
+- [LinkedIn](https://www.linkedin.com/in/mat-benfield/)
 - [MeetUp](https://www.meetup.com/members/197754442/)
 - [Strava](https://www.strava.com/athletes/24249743)
 - [StackOverflow](https://stackoverflow.com/users/894932/mat-benfield)
