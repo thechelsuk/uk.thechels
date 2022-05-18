@@ -569,6 +569,26 @@
       thumbnail: "https://books.google.com/books/content?id=jyEYugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/North.html?hl=&id=jyEYugEACAAJ"
+  - isbn: "9780593079584"
+    dateFinished: "2019-03-02"
+    title: "Make Time"
+    authors:
+      - "Jake Knapp"
+      - "John Zeratsky"
+    publishedDate: "2018-09-27"
+    description: "'If you want to achieve more (without going nuts), read this book.' Charles Duhigg 'Essential reading for anyone who wants to create a happier, more successful life.' Gretchen Rubin Nobody ever looked at an empty calendar and said, 'The best way to spend this time is by cramming it full of meetings!' Or got to work in the morning and thought, 'Today I'll spend hours on Facebook!' Yet, that's exactly what we do. Why? In a world where information refreshes endlessly and the workday feels like a race to react to other people's priorities faster, frazzled and distracted has become our default position. But what if the exhaustion of constant busyness wasn't mandatory? What if you could step off the hamster wheel and start taking control of your time and attention? That's what this book is about. As creators of Google Ventures' renowned 'design sprint', Jake and John have helped hundreds of teams solve important problems by changing how they work. Building on the success of these sprints and their experience designing ubiquitous tech products like Gmail and YouTube, they spent years experimenting with their own personal habits and routines, looking for ways to help individuals optimize their energy, focus, and time. Now they've packaged the most effective tactics into a four-step daily framework that anyone can use to systematically design their days. Make Time is not a one-size-fits-all formula. Instead, it offers a customizable menu of bite-sized tips and strategies that can be tailored to individual habits and lifestyles. It isn't about productivity, or checking off more to-dos. Nor does it propose unrealistic solutions like throwing out your smartphone or swearing off social media. Making time isn't about radically overhauling your lifestyle; it's about making small shifts in your environment to liberate yourself from constant busyness and distraction. A must-read for anyone who has ever thought 'If only there were more hours in the day...' Make Time will help you to stop passively reacting to the demands of the modern world and start intentionally making time for the things that matter."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0593079582"
+      - type: "ISBN_13"
+        identifier: "9780593079584"
+    pageCount: 256
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=iBB9swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=iBB9swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Make_Time.html?hl=&id=iBB9swEACAAJ"
   - isbn: "9780062493668"
     dateFinished: "2019-03-05"
     title: "Lean in 15"
