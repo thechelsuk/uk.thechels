@@ -40,12 +40,14 @@
     <div id="outer-wrapper">
       <div id="wrapper">
         <h1 class="blog-title">
-  <a href="/">{% if site.title %}
-         {{ site.title }}
-         {% else %} 
-     {% endif %}</a>
+  <a href="{{ site.url }}/">
+    {% if site.title %}
+            {{ site.title }}
+    {% else %}
+            {{ page.title }}
+    {% endif %}</a>
 </h1>
-        <p class="blog-image">{% avatar MatBenfield size=72 %}</p>
+        <p class="blog-image"> <a href="{{ site.url }}/">{% avatar MatBenfield size=72 %}</a></p>
         <p class="blog-slogan">
             {% if site.description %}
                  {{ site.description }}
