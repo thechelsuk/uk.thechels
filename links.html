@@ -14,6 +14,6 @@ title : Links
 
 <ul class="Offers">
   {% for item in site.data.offers %}
-  <li><a href="{{item.link}}">{{item.title}}</a></li>
+  <li><a rel="sponsored" href="{{item.link}}">{{item.title}}</a></li>
   {% endfor %}
 </ul>
