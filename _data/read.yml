@@ -1303,6 +1303,27 @@
       thumbnail: "https://books.google.com/books/content?id=QBSYDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Algorithms_to_Live_By.html?hl=&id=QBSYDAEACAAJ"
+  - isbn: "9781472966261"
+    dateFinished: "2022-04-01"
+    title: "26.2 Miles to Happiness"
+    authors:
+      - "Paul Tonkinson"
+    publishedDate: "2020-04-14"
+    description: "The hilarious trials and tribulations of stand-up comedian Paul Tonkinson as he attempts to beat the much lauded 3-hour mark at the London Marathon. Paul Tonkinson is the well-known stand-up who has been presenting radio shows and appearing on television regularly for almost thirty years. 26.2 Miles to Happiness charts his quest to beat the much lauded 3-hour mark at the London Marathon. But this is not simply a story about beating The Wall. This is a story to show runners and non-runners alike how one of life's simple pleasures really can make everything better. Along the way, we are introduced to the characters helping Paul with his quest. There is wit and wisdom from celebrity names such as Bryony Gordon, Russell Howard, Roisin Conaty and Vassos Alexander. There's even an alpine adventure to the Mayr Clinic with Michael McIntyre that pushes Paul to the limit. And not forgetting the \"words of wisdom\" from Paul's anti-running friend, Richard. Ultimately, Paul is one of us. He is our consoling friend. The everyman who goes through extreme pain and battles with his own personal demons, but comes out the other side smiling. And this book will show you why."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781472966261"
+      - type: "ISBN_10"
+        identifier: "1472966260"
+    pageCount: 256
+    printType: "BOOK"
+    categories:
+      - "Health & Fitness"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=7_EkEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=7_EkEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/26_2_Miles_to_Happiness.html?hl=&id=7_EkEAAAQBAJ"
   - isbn: "9780957491939"
     dateFinished: "2022-05-17"
     title: "Building Successful Communities of Practice"
