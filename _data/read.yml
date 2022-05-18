@@ -1380,6 +1380,27 @@
       thumbnail: "https://books.google.com/books/content?id=YlDVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Narrative_Economics.html?hl=&id=YlDVDwAAQBAJ"
+  - isbn: "9781988025490"
+    dateFinished: "2022-01-01"
+    title: "Financial Services Revolution"
+    authors:
+      - "Alex Tapscott"
+    publishedDate: "2020-01-23"
+    description: "This book offers readers a startling view of how blockchain technology will transform the financial industry in profound ways. Some of the world's top thinkers in blockchain have contributed chapters that survey the coming digital storm - how it will level the playing field, give individuals more financial power, and create greater transparency in operations. Written for the educated financial reader, it reveals how blockchain can create a token-based incentive system that aligns the interests of participants in large-scale initiatives, as well as the rewiring of global payment networks and innovative financing methods such as initial coin offerings to fund infrastructure development. The transition for the financial industry is bound to be complicated, but it presents enormous opportunity for those who understand the storm as it's brewing. \"In Financial Services Revolution, Alex Tapscott opens a window into a dynamic future, featuring the early stages of a transition to a natively digital global economy, sporting various degrees of decentralization. It will be a complicated transition for financial, economic, social, and political systems, but I see it as one pregnant with hope and promise.\" - Joseph Lubin, CEO, ConsenSys \"Nobody has a better handle on the coming digital storm and its broad implications than Alex Tapscott. In Financial Services Revolution, Alex lays out the blueprint for how to survive and then thrive in this era of digital disruption.\" - Harris Fricker, President and CEO, GMP Securities LP \"Alex Tapscott is one of the blockchain industry's foremost leaders and earliest believers. His work as an investor, advocate, educator, and business builder has contributed immense value to the development of the digital asset market.\" - Cole Diamond, Chairman and CEO, Coinsquare \"This book will help successful financial services leaders with a pressing need: to relentlessly push the boundaries of their tech knowledge, with imagination around its application.\" - Dean Connor, President and CEO, Sun Life Financial \"Blockchain has the potential to transform financial services in profound ways, to level playing fields, favour collaboration over competition, and enable the individual to enjoy as much agency as the corporation does today in financial matters. This book explains how. A must-read.\" - Joseph Lubin, CEO, ConsenSys \"This book shows how blockchain is a game changer for data and transfer of value -at the heart of financial and government services today. \" - Linda Mantia, former Senior Executive Vice President and Chief Operating Officer, Manulife Financial \"It was an honour to contribute to the Blockchain Research Institute's comprehensive investigation into blockchain's promise and the challenges that come with it. This is a must-read volume for anyone interested in this potentially transformative technology.\" - Michael Casey, Chief Content Officer, CoinDesk \"Thoroughly researched and brimming with new insights, Financial Services Revolutionis required reading for every Wall Street banker and all who care about the future of money and finance.\" - Bill Barhydt, CEO and Founder, Abra \"Alex Tapscott has been among the first and most thoughtful contributors to the global conversation on the future of finance. This book extends that dialogue. It looks at how financial services might approach a technological revolution originally designed to disintermediate it.\" - Matthew Roszak, Chairman and Co-founder, Bloq"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1988025494"
+      - type: "ISBN_13"
+        identifier: "9781988025490"
+    pageCount: 408
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=7b_UywEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=7b_UywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Financial_Services_Revolution.html?hl=&id=7b_UywEACAAJ"
   - isbn: "9781250779878"
     dateFinished: "2022-01-03"
     title: "You're Not Listening"
