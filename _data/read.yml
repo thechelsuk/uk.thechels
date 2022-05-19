@@ -1,4 +1,26 @@
 
+  - isbn: "9780670922246"
+    dateFinished: "2010-05-20"
+    title: "The Numbers Game"
+    authors:
+      - "Chris Anderson"
+      - "David Sally"
+    publishedDate: "2013"
+    description: "Football has always been a numbers game: 4-4-2, the big number 9, and 3 points for a win. But what if up until now we've been focusing on the wrong numbers? What if the numbers that really matter, the ones that hold the key to winning matches, are actually 2.66, 53.4,50/50 and 0 > 1? What if managers only make a 15 per cent difference? What if Chelsea should have bought Darren Bent? In this incisive, myth-busting book, Chris Anderson, former goalkeeper turned football-statistics guru, and David Sally, former baseball pitcher turned behavioural economist, show that every shred of knowledge we can gather can help us to love football and understand it even more. You'll discover why stopping a goal is more valuable than scoring one, why corners should be taken short, and why it is better to improve your worst player than to buy a superstar. 'Chris Anderson and David Sally have the ability to see football in a way few have before them. Be warned: The Numbers Game will change the way you think about your favourite team or player, and change the way you watch the beautiful game.' Billy Beane, General Manager of the Oakland A's, the subject of Moneyball 'A fascinating and stylish investigation into a rapidly developing way of understanding football.' Jonathan Wilson, author of Inverting the Pyramid: The History of Football Tactics"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0670922242"
+      - type: "ISBN_13"
+        identifier: "9780670922246"
+    pageCount: 375
+    printType: "BOOK"
+    categories:
+      - "Soccer"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=3tnfNAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=3tnfNAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Numbers_Game.html?hl=&id=3tnfNAEACAAJ"
   - isbn: "9780571216543"
     dateFinished: "2015-01-01"
     title: "Collected Poems"
