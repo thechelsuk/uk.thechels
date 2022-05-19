@@ -1022,6 +1022,28 @@
       thumbnail: "https://books.google.com/books/content?id=CbouDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Ikigai.html?hl=&id=CbouDwAAQBAJ"
+  - isbn: "9781845908003"
+    dateFinished: "2021-09-01"
+    title: "The Five Minute Coach"
+    authors:
+      - "Lynne Cooper"
+      - "Mariette Castellino"
+    publishedDate: "2012"
+    description: "'The Five-Minute Coach' offers a simple, step-by-step guide to how to coach - quickly and effortlessly - to get amazingly better results at work."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1845908007"
+      - type: "ISBN_13"
+        identifier: "9781845908003"
+    pageCount: 222
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=MScIywAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=MScIywAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Five_Minute_Coach.html?hl=&id=MScIywAACAAJ"
   - isbn: "9781989025758"
     dateFinished: "2021-10-07"
     title: "The Advice Trap"
