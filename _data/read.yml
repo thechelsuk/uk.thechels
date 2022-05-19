@@ -1915,6 +1915,30 @@
       thumbnail: "https://books.google.com/books/content?id=40T1nwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Turn_Your_Ship_Around.html?hl=&id=40T1nwEACAAJ"
+  - isbn: "9780007105809"
+    dateFinished: "2022-02-02"
+    title: "The One Minute Manager Builds High Performing Teams"
+    authors:
+      - "Kenneth Blanchard"
+      - "Kenneth H. Blanchard"
+      - "Donald Carew"
+      - "Eunice Parisi-Carew"
+    publishedDate: "2000-05-15"
+    description: "With 50 per cent to 90 per cent of most managers' time spent in some form of group activity, the concept of teamwork is more important than ever before. This book explains how all groups move through four stages of development - orientation, dissatisfaction, resolution and production."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780007105809"
+      - type: "ISBN_10"
+        identifier: "0007105800"
+    pageCount: 118
+    printType: "BOOK"
+    categories:
+      - "Industrial management"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=DbdXGbfGa_AC&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=DbdXGbfGa_AC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_One_Minute_Manager_Builds_High_Perfo.html?hl=&id=DbdXGbfGa_AC"
   - isbn: "9781422158012"
     dateFinished: "2022-02-03"
     title: "HBR's 10 Must Reads on Managing People"
