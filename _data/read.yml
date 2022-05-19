@@ -1137,6 +1137,29 @@
       thumbnail: "https://books.google.com/books/content?id=HNzUrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_New_One_Minute_Manager.html?hl=&id=HNzUrQEACAAJ"
+  - isbn: "9780007116980"
+    dateFinished: "2020-10-01"
+    title: "The One Minute Manager Meets the Monkey"
+    authors:
+      - "Kenneth H. Blanchard"
+      - "William Oncken"
+      - "Hal Burrows"
+    publishedDate: "2000-11-29"
+    description: "With a new foreword by Ken Blanchard How management can effectively rid themselves of 'monkeys' - other people's responsibilities that cling to them and prevent them managing efficiently."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780007116980"
+      - type: "ISBN_10"
+        identifier: "0007116985"
+    pageCount: 144
+    printType: "BOOK"
+    categories:
+      - "Delegation of authority"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=v1kqbdWBIyMC&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=v1kqbdWBIyMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_One_Minute_Manager_Meets_the_Monkey.html?hl=&id=v1kqbdWBIyMC"
   - isbn: "9780993301308"
     dateFinished: "2021-06-01"
     title: "Improv-Ing Agile Teams"
