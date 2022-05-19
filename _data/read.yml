@@ -62,6 +62,32 @@
       thumbnail: "https://books.google.com/books/content?id=vKRXMSAyz_8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Concise_Dictionary_of_Psychology.html?hl=&id=vKRXMSAyz_8C"
+  - isbn: "9781780173368"
+    dateFinished: "2017-06-06"
+    title: "Agile Testing Foundations"
+    authors:
+      - "Gerry Coleman"
+      - "Bertrand Cornanguer"
+      - "Istvan Forgacs"
+      - "Marie Walsh"
+      - "Kari Kakkonen"
+      - "Jan Sabak"
+    publishedDate: "2017-06-23"
+    description: "Agile is an iterative approach to software development that has rapidly gained popularity in the wider IT industry. For software testers, Agile testing brings many advantages to teams, from increasing overall product quality to providing greater scope for flexibility. Building on the ISTQB Foundation Level Agile Tester syllabus, this book covers Agile principles, methods, techniques and tools in the context of software testing. The book is perfect for software testers interested in the benefits of Agile testing, working in an Agile environment or undertaking the ISTQB Foundation Level Agile Tester exam."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1780173369"
+      - type: "ISBN_13"
+        identifier: "9781780173368"
+    pageCount: 254
+    printType: "BOOK"
+    categories:
+      - "Agile software development"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=qbbnjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=qbbnjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Agile_Testing_Foundations.html?hl=&id=qbbnjwEACAAJ"
   - isbn: "9780957587441"
     dateFinished: "2018-01-01"
     title: "The Coach's Casebook"
