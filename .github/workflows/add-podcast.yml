@@ -1,7 +1,7 @@
 name: Add Podcast
 on:
   issues:
-    types: [opened, labelled]
+    types: [opened, labeled]
 
 jobs:
   add_bookmark:
