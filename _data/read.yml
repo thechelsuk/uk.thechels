@@ -2215,3 +2215,26 @@
       thumbnail: "https://books.google.com/books/content?id=A4jAwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Four_Obsessions_of_an_Extraordinary.html?hl=&id=A4jAwAEACAAJ"
+  - isbn: "9781942788331"
+    dateFinished: "2022-11-01"
+    title: "Accelerate"
+    authors:
+      - "Nicole Forsgren"
+      - "Jez Humble"
+      - "Gene Kim"
+    publishedDate: "2018"
+    description: "Does technology actually matter? And how can we apply technology to drive business value?For years, we¿ve been told that the performance of software delivery teams doesn¿t matter¿that it can¿t provide a competitive advantage to our companies. Through four years of groundbreaking research, Dr. Nicole Forsgren, Jez Humble, and Gene Kim set out to find a way to measure software delivery performance¿and what drives it¿using rigorous statistical methods. This book presents both the findings and the science behind that research.Readers will discover how to measure the performance of their teams, and what capabilities they should invest in to drive higher performance."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1942788339"
+      - type: "ISBN_13"
+        identifier: "9781942788331"
+    pageCount: 288
+    printType: "BOOK"
+    categories:
+      - "Agile software development"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=85XHAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=85XHAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Accelerate.html?hl=&id=85XHAQAACAAJ"
