@@ -59,6 +59,27 @@
       thumbnail: "https://books.google.com/books/content?id=kC0ozgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Team_Mastery.html?hl=&id=kC0ozgEACAAJ"
+  - isbn: "9781540562548"
+    dateFinished: "2018-01-01"
+    title: "Product Mastery"
+    authors:
+      - "Geoff Watts"
+    publishedDate: "2017"
+    description: "Scrum is the most successful framework for agile product development and much has been written about how to follow the Scrum process but the key to success is in the leadership skills of the product owner. Product Mastery explores the traits of the best product owners offering an insight into the difference between good and great product ownership and explaining how the best product owners are DRIVEN to be successful. In a follow up to the hugely successful Scrum Mastery, Geoff Watts shares more enlightening case studies on how to be: Decisive with incomplete information. Ruthless about maximizing value and minimizing risk. Informed about your product's domain. Versatile in your leadership style. Empowering of project stakeholders. Negotiable while you pursue your vision. This is essential reading for anyone involved in an agile product development effort. Geoff Watts has been a thought leader in the agile development space for many years and his books, training and coaching have helped thousands of teams across the world deliver better products more effectively. Geoff is the author of Scrum Mastery: From Good to Great Servant-Leadership and The Coach's Casebook: Mastering The Twelve Traits That Trap Us, a winner of the 2016 International Book Awards. \"Product Mastery is a great book to read if you want to understand how a great Product Owner works. Whether you are hiring a Product Owner or want to be a great Product Owner, the insights that Geoff Watts shares in this book should be your guide.\" --Jeff Sutherland, Co-Creator of Scrum and author of Scrum: The Art of Doing Twice The Work in Half the Time \"Geoff has done a great job at distilling the soft skills product owners need to succeed. His new book is packed with practical advice to advance your skills and become a truly great product owner.\" - Roman Pichler, Author of Strategize and Agile Product Management with Scrum."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1540562549"
+      - type: "ISBN_13"
+        identifier: "9781540562548"
+    pageCount: 288
+    printType: "BOOK"
+    categories:
+      - "Executive coaching"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=6_L5nQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=6_L5nQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Product_Mastery.html?hl=&id=6_L5nQAACAAJ"
   - isbn: "9781786891709"
     dateFinished: "2018-01-04"
     title: "Drive"
