@@ -14,7 +14,7 @@ jobs:
       - name: Bookmark action
         uses: katydecorah/bookmark-action@v3.1.2
         with:
-          fileName: _data/podcast.yml
+          fileName: _data/podcasts.yml
       - name: Download the thumbnail image
         run: curl "${{ env.BookmarkImage }}" -o "img/${{ env.BookmarkImageOutput }}"
       - name: Create Pull Request
