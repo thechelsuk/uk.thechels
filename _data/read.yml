@@ -920,6 +920,25 @@
       thumbnail: "https://books.google.com/books/content?id=gb2TvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/How_to_Own_the_World.html?hl=&id=gb2TvQEACAAJ"
+  - isbn: "9780993301308"
+    dateFinished: "2021-06-01"
+    title: "Improv-Ing Agile Teams"
+    authors:
+      - "Paul Goddard"
+    publishedDate: "2015-07-20"
+    description: "IMPROV IS NOT ABOUT BEING FUNNY, ORIGINAL, OR CHAOTIC. IT'S ABOUT EMBRACING CHANGE. Improvisation. The mere mention of the word makes many people quake with fear at the prospect of chaos and uncertainty. The fact is, though, human beings are improvising almost every minute of their lives it is more natural, and more filled with possibility, than you might imagine. On stage, improvisational actors use simple rules, collaborative principles, and game constraints to build unscripted yet intriguing storylines. This book explores how those same simple rules and principles can help agile teams collaborate more effectively and how purposefully working within constraints can unlock creativity. Inside, you ll find over 50 techniques and improv games tailored for agile teams, complete with step-by-step instructions. These games are based on five different principles of improvisational theatre: SAFETY how accepting failure is essential to discovery SPONTANEITY how to increase the flow of ideas STORYTELLING how narratives help teams relate to their customers and end users STATUS how adjusting personal behaviour can encourage collaboration SENSITIVITY how to become more fully engaged with fellow team members"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0993301304"
+      - type: "ISBN_13"
+        identifier: "9780993301308"
+    pageCount: 216
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=VHMIswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=VHMIswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Improv_Ing_Agile_Teams.html?hl=&id=VHMIswEACAAJ"
   - isbn: "9781733670302"
     dateFinished: "2021-06-26"
     title: "Words that Change Minds"
