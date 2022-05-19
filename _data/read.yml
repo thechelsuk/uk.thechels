@@ -88,6 +88,31 @@
       thumbnail: "https://books.google.com/books/content?id=qbbnjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Agile_Testing_Foundations.html?hl=&id=qbbnjwEACAAJ"
+  - isbn: "9781780172996"
+    dateFinished: "2017-06-06"
+    title: "Software Testing"
+    authors:
+      - "Brian Hambling"
+      - "Peter Morgan"
+      - "Angelina Samaroo"
+      - "Geoff Thompson"
+      - "Peter Williams"
+    publishedDate: "2015-06"
+    description: "This guide provides practical insight into the world of software testing, explaining the basic steps of the testing process and how to perform effective tests. It also presents an overview of different techniques, both dynamic and static, and how to apply them."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1780172990"
+      - type: "ISBN_13"
+        identifier: "9781780172996"
+    pageCount: 276
+    printType: "BOOK"
+    categories:
+      - "Computer software"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=Wn4QrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=Wn4QrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Software_Testing.html?hl=&id=Wn4QrgEACAAJ"
   - isbn: "9780957587441"
     dateFinished: "2018-01-01"
     title: "The Coach's Casebook"
