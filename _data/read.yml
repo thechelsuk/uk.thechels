@@ -1000,6 +1000,26 @@
       thumbnail: "https://books.google.com/books/content?id=6CuQxAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Six_Conversations_of_a_Brilliant_Man.html?hl=&id=6CuQxAEACAAJ"
+  - isbn: "9781680506976"
+    dateFinished: "2021-07-01"
+    title: "Fixing Your Scrum"
+    authors:
+      - "Ryan Ripley"
+      - "Todd Miller"
+    publishedDate: "2020-01-17"
+    description: "A Scrum Master's work is never done. The Development team needs your support, the Product Owner is often lost in the complexities of agile product management, and your managers and stakeholders need to know what will be done, by when, and for how much. Learn how experienced Scrum Masters balance the demands of these three levels of servant leadership while removing organizational impediments and helping Scrum Teams deliver real world value. Discover how to visualize your work, resolve impediments, and empower your teams to self-organize and deliver using the Scrum Values, Agile Principles, and advanced coaching and facilitation techniques. A Scrum Master needs to know when their team is in trouble and understand how to help them get back on the path to delivery. Become a better Scrum master so you can find the problems holding your teams back. Has your Daily Scrum turned in to a meeting? Does your team struggle with creating user stories? Are stakeholders disengaged during Sprint Review? These issues are common. Learn to use empiricism as your guide and help your teams create great products. Scrum is so much more than a checklist of practices to follow, yet that's exactly how many organizations practice it. Bring life back to your Scrum events by using advanced facilitation techniques to leverage the full intelligence of your team. Improve your retrospectives with new formats and exercises. Ask powerful questions that spark introspection and improvement. Get support and buy-in from management. Use Scrum as a competitive advantage for your organization. Create a definition of done that improves quality and fix failing sprints. Take the next step on your journey as a Scrum master. Transform your Scrum practices to help your teams enjoy their work again as they deliver high quality products that bring value to the world. What You Need: A moderate level of experience using the Scrum Framework."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1680506978"
+      - type: "ISBN_13"
+        identifier: "9781680506976"
+    pageCount: 242
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=NvuqxgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=NvuqxgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Fixing_Your_Scrum.html?hl=&id=NvuqxgEACAAJ"
   - isbn: "9781913062729"
     dateFinished: "2021-07-06"
     title: "The Four Fixations of a Brilliant Leader"
