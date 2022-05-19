@@ -21,6 +21,27 @@
       thumbnail: "https://books.google.com/books/content?id=3tnfNAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Numbers_Game.html?hl=&id=3tnfNAEACAAJ"
+  - isbn: "9781409102045"
+    dateFinished: "2010-07-01"
+    title: "Inverting the Pyramid"
+    authors:
+      - "Jonathan Wilson"
+    publishedDate: "2009"
+    description: "Whether it's Terry Venables keeping his wife up late at night with diagrams on scraps of paper spread over the eiderdown, or the classic TV sitcom of moving the salt & pepper around the table top in the transport cafe, football tactics are now part of the fabric of everyday life. Steve McLaren's switch to an untried 3-5-2 against Croatia will probably go down as the moment he lost his slim credibility gained from dropping David Beckham; Jose Mourinho, meanwhile, was often brought to task for trying to smuggle the long ball game back into English football. Here Jonathan Wilson pulls apart the modern game, traces the world history of tactics from modern pioneers right back to beginning where chaos reigned. Along the way he looks at the lives of great players and thinkers who shaped the game, and probes why the English, in particular, have 'proved themselves unwilling to grapple with the abstract'."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1409102041"
+      - type: "ISBN_13"
+        identifier: "9781409102045"
+    pageCount: 374
+    printType: "BOOK"
+    categories:
+      - "Sports & Recreation"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=vafIPAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=vafIPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Inverting_the_Pyramid.html?hl=&id=vafIPAAACAAJ"
   - isbn: "9780571216543"
     dateFinished: "2015-01-01"
     title: "Collected Poems"
