@@ -837,6 +837,27 @@
       thumbnail: "https://books.google.com/books/content?id=og_avgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Why_Running_Matters.html?hl=&id=og_avgEACAAJ"
+  - isbn: "9789063695439"
+    dateFinished: "2020-01-01"
+    title: "Good Services"
+    authors:
+      - "Louise Downe"
+    publishedDate: "2020-03-03"
+    description: "Service design is a rapidly growing area of interest in design and business management. There are a lot of books on how to get started, but this is the first book that describes what a 'good' service is, what makes a good service and why. This book lays out the essential principles for building services that work well for users. Demystifying what we mean by a 'good' and 'bad' service and describing the common elements within all services that mean that it either works for users or doesn't. This book is for anyone who is involved in designing or delivering services and aims to give the reader an understanding of what the common characteristics of a \"good service\" are to users. For readers who are not professional service designers, this book gives an indication of what they or their teams should be aiming for, without presuming they will invest a significant amount of time designing a service themselves."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "9063695438"
+      - type: "ISBN_13"
+        identifier: "9789063695439"
+    pageCount: 192
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=8Dg5xQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=8Dg5xQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Good_Services.html?hl=&id=8Dg5xQEACAAJ"
   - isbn: "9780451470881"
     dateFinished: "2020-03-04"
     title: "80/20 Running"
