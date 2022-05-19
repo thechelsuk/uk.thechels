@@ -80,6 +80,25 @@
       thumbnail: "https://books.google.com/books/content?id=6_L5nQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Product_Mastery.html?hl=&id=6_L5nQAACAAJ"
+  - isbn: "9780957587403"
+    dateFinished: "2018-01-01"
+    title: "Scrum Mastery"
+    authors:
+      - "Geoff Watts"
+    publishedDate: "2013-05-30"
+    description: "The basics of being a ScrumMaster are fairly straightforward: At face value all a ScrumMaster needs to do is facilitate the Scrum process and remove impediments. But being a great ScrumMaster, one who truly embodies the principles of servant-leadership and helps move a team to the high performance levels possible with Scrum, is much harder and much more elusive. In this book Geoff shares a collection of stories and practical guidance, drawn from over ten years of coaching numerous Scrum teams that will guide you on your path to greatness. In this book you will learn: * The skills and characteristics of great ScrumMasters * How to generate, maintain and increase engagement from the team * How to increase the effectiveness of the Scrum meetings, such as retrospectives and daily scrums. * How to foster a more creative and collaborative team * How to increase the performance of the team * How to know when you are a successful ScrumMaster Scrum Mastery is for practicing ScrumMasters who want to develop themselves into a great servant-leader capable of taking their teams beyond simple process compliance. Mike Cohn, in his foreword for the book, said: \"Most books rehash well-trod territory and I don't finish them any wiser. I am positive I will be referring back to this book for many years\" Roman Pichler said: \"I am thoroughly impressed with how comprehensive and well-written the book is. It will be indispensable for many people\""
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0957587406"
+      - type: "ISBN_13"
+        identifier: "9780957587403"
+    pageCount: 281
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=njYtngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=njYtngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Scrum_Mastery.html?hl=&id=njYtngEACAAJ"
   - isbn: "9781786891709"
     dateFinished: "2018-01-04"
     title: "Drive"
