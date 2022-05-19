@@ -2339,6 +2339,28 @@
       thumbnail: "https://books.google.com/books/content?id=2_dKzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Become_an_Effective_Software_Engineering.html?hl=&id=2_dKzQEACAAJ"
+  - isbn: "9781942788812"
+    dateFinished: "2022-05-01"
+    title: "Team Topologies"
+    authors:
+      - "Matthew Skelton"
+      - "Manuel Pais"
+    publishedDate: "2019-09-07"
+    description: "In Team Topologies IT consultants Matthew Skelton and Manuel Pais share secrets of successful team patterns and interactions for IT through four fundamental team topologies and three interaction modes."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1942788819"
+      - type: "ISBN_13"
+        identifier: "9781942788812"
+    pageCount: 240
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=oFdRuAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=oFdRuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Team_Topologies.html?hl=&id=oFdRuAEACAAJ"
   - isbn: "9780957491939"
     dateFinished: "2022-05-17"
     title: "Building Successful Communities of Practice"
