@@ -1117,6 +1117,26 @@
       thumbnail: "https://books.google.com/books/content?id=gb2TvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/How_to_Own_the_World.html?hl=&id=gb2TvQEACAAJ"
+  - isbn: "9780008128043"
+    dateFinished: "2020-10-01"
+    title: "The New One Minute Manager"
+    authors:
+      - "Kenneth H. Blanchard"
+      - "Spencer Johnson"
+    publishedDate: "2015-05-07"
+    description: "The authors demonstrate three very practical management techniques. Information is included on several studies in medicine and the behavioural sciences, which help readers understand why these simple methods work so well with so many people."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0008128049"
+      - type: "ISBN_13"
+        identifier: "9780008128043"
+    pageCount: 112
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=HNzUrQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=HNzUrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_New_One_Minute_Manager.html?hl=&id=HNzUrQEACAAJ"
   - isbn: "9780993301308"
     dateFinished: "2021-06-01"
     title: "Improv-Ing Agile Teams"
