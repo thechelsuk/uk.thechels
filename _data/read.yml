@@ -20,6 +20,28 @@
       thumbnail: "https://books.google.com/books/content?id=_60yEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Soccermatics.html?hl=&id=_60yEAAAQBAJ"
+  - isbn: "9780957587441"
+    dateFinished: "2018-01-01"
+    title: "The Coach's Casebook"
+    authors:
+      - "Geoff Watts"
+      - "Kim Morgan"
+    publishedDate: "2015"
+    description: "Our strengths can become our weaknesses. Our traits and habitual behaviours can become traps. In each chapter of The Coach's Casebook the reader follows a skilled coach working with a client who is struggling with one of the twelve traits which every coach will face in their coaching work - traits such as people pleasing, perfectionism, impostor syndrome, performance anxiety and procrastination. The coach shares their emotions, their thought processes and their reflections as they try to understand the psychological origins of these behaviours and to work out how to help their client. The Coach's Casebook includes inspirational insights from individuals who have triumphed over such traits and have succeeded in all walks of life figures such as Alec Stewart and Lewis Moody from the world of sport, Greg Dyke from the world of business, and Arctic explorer Pen Hadow. This book is above all designed to help you in your work as a coach. It gives you practical, tried and tested techniques which you can use today to help your clients to change the habits of a lifetime."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0957587449"
+      - type: "ISBN_13"
+        identifier: "9780957587441"
+    pageCount: 365
+    printType: "BOOK"
+    categories:
+      - "Personal coaching"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=zTKRrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=zTKRrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Coach_s_Casebook.html?hl=&id=zTKRrgEACAAJ"
   - isbn: "9781786891709"
     dateFinished: "2018-01-04"
     title: "Drive"
