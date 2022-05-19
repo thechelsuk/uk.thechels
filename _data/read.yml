@@ -2486,6 +2486,27 @@
       thumbnail: "https://books.google.com/books/content?id=A4jAwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Four_Obsessions_of_an_Extraordinary.html?hl=&id=A4jAwAEACAAJ"
+  - isbn: "9780136524038"
+    dateFinished: "2022-07-01"
+    title: "Righting Software"
+    authors:
+      - "Juval Lowy"
+    publishedDate: "2019-12-10"
+    description: "Right Your Software and Transform Your Career Righting Software presents the proven, structured, and highly engineered approach to software design that renowned architect Juval Löwy has practiced and taught around the world. Although companies of every kind have successfully implemented his original design ideas across hundreds of systems, these insights have never before appeared in print. Based on first principles in software engineering and a comprehensive set of matching tools and techniques, Löwy's methodology integrates system design and project design. First, he describes the primary area where many software architects fail and shows how to decompose a system into smaller building blocks or services, based on volatility. Next, he shows how to flow an effective project design from the system design; how to accurately calculate the project duration, cost, and risk; and how to devise multiple execution options. The method and principles in Righting Software apply regardless of your project and company size, technology, platform, or industry. Löwy starts the reader on a journey that addresses the critical challenges of software development today by righting software systems and projects as well as careers-and possibly the software industry as a whole. Software professionals, architects, project leads, or managers at any stage of their career will benefit greatly from this book, which provides guidance and knowledge that would otherwise take decades and many projects to acquire. Register your book for convenient access to downloads, updates, and/or corrections as they become available. See inside book for details."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0136524036"
+      - type: "ISBN_13"
+        identifier: "9780136524038"
+    pageCount: 480
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=boT4xgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=boT4xgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Righting_Software.html?hl=&id=boT4xgEACAAJ"
   - isbn: "9781942788331"
     dateFinished: "2022-11-01"
     title: "Accelerate"
