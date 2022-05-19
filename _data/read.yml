@@ -1460,6 +1460,30 @@
       thumbnail: "https://books.google.com/books/content?id=w7gzjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Rapid_Teamwork.html?hl=&id=w7gzjwEACAAJ"
+  - isbn: "9780241250839"
+    dateFinished: "2021-12-11"
+    title: "Team of Teams"
+    authors:
+      - "Stanley A. McChrystal"
+      - "David Silverman"
+      - "Tantum Collins"
+      - "Chris Fussell"
+    publishedDate: "2015-11-26"
+    description: "What if you could combine the agility, adaptability, and cohesion of a small team with the power and resources of a giant organization? When General Stanley McChrystal took command of the Joint Special Operations Task Force in Iraq in 2003, he quickly realized that conventional military tactics were failing. The allied forces had a huge advantage in numbers, equipment and training - but none of the enemy's speed and flexibility. McChrystal and his colleagues discarded a century of conventional wisdom to create a 'team of teams' that combined extremely transparent communication with decentralized decision-making authority. Faster, flatter and more flexible, the task force beat back al-Qaeda. In this powerful book, McChrystal and his colleagues show how the challenges they faced in Iraq can be relevant to any leader. Through compelling examples, the authors demonstrate that the 'team of teams' strategy has worked everywhere from hospital emergency rooms to NASA and has the potential to transform organizations large and small. 'An indispensable guide to organizational change.' Walter Isaacson, author of Steve Jobs 'A bold argument that leaders can help teams become greater than the sum of their parts.' Charles Duhigg, author of The Power of Habit"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0241250838"
+      - type: "ISBN_13"
+        identifier: "9780241250839"
+    pageCount: 304
+    printType: "BOOK"
+    categories:
+      - "Leadership"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=XyUJswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=XyUJswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Team_of_Teams.html?hl=&id=XyUJswEACAAJ"
   - isbn: "9781781331163"
     dateFinished: "2021-12-16"
     title: "Key Person of Influence"
