@@ -17,14 +17,16 @@ jobs:
           fileName: _data/podcast.yml
       - name: Download the thumbnail image
         run: curl "${{ env.BookmarkImage }}" -o "img/${{ env.BookmarkImageOutput }}"
-      - name: Commit files
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A && git commit -m  "Added ${{ env.BookmarkTitle }} to podcast.yml"
-          git push
-      - name: Close issue
-        uses: peter-evans/close-issue@v2
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
         with:
-          issue-number: "${{ env.IssueNumber }}"
-          comment: "You bookmarked ${{ env.BookmarkTitle }} on ${{env.DateBookmarked}}."
+          committer: GitHub Action <action@github.com>
+          branch: "new-post-from-issue"
+          delete-branch: true
+          title: "publish: ${{ github.event.issue.title}}"
+          body: |
+            You bookmarked ${{ env.BookmarkTitle }} on ${{env.DateBookmarked}}.
+            Automatic PR: ${{ steps.title.outputs.title }}
+            Closes #${{ github.event.issue.number }}
+          reviewers: "${{ github.repository_owner }}"
+          commit-message: "Post: ${{ github.event.issue.title }}"
