@@ -1,4 +1,25 @@
 
+  - isbn: "9780571216543"
+    dateFinished: "2015-01-01"
+    title: "Collected Poems"
+    authors:
+      - "Philip Larkin"
+    publishedDate: "2003"
+    description: "Annotation This new edition of Larkin's poems for the first time presents his four published books, The North Ship, The Less Deceived, The Whitsun Weddings and High Windows in their original sequence."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0571216544"
+      - type: "ISBN_13"
+        identifier: "9780571216543"
+    pageCount: 218
+    printType: "BOOK"
+    categories:
+      - "English poetry"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=0IF5QgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=0IF5QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Collected_Poems.html?hl=&id=0IF5QgAACAAJ"
   - isbn: "9781472924148"
     dateFinished: "2016-09-20"
     title: "Soccermatics"
