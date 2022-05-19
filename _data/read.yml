@@ -918,6 +918,27 @@
       thumbnail: "https://books.google.com/books/content?id=3GqAzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Head_First_Design_Patterns.html?hl=&id=3GqAzQEACAAJ"
+  - isbn: "9781492040873"
+    dateFinished: "2020-09-01"
+    title: "Technology Strategy Patterns"
+    authors:
+      - "Eben Hewitt"
+    publishedDate: "2018-10-25"
+    description: "Technologists who want their ideas heard, understood, and funded are often told to speak the language of business--without really knowing what that is. This book's toolkit provides architects, product managers, technology managers, and executives with a shared language--in the form of repeatable, practical patterns and templates--to produce great technology strategies. Author Eben Hewitt developed 39 patterns over the course of a decade in his work as CTO, CIO, and chief architect for several global tech companies. With these proven tools, you can define, create, elaborate, refine, and communicate your architecture goals, plans, and approach in a way that executives can readily understand, approve, and execute. This book covers: Architecture and strategy: Adopt a strategic architectural mindset to make a meaningful material impact Creating your strategy: Define the components of your technology strategy using proven patterns Communicating the strategy: Convey your technology strategy in a compelling way to a variety of audiences Bringing it all together: Employ patterns individually or in clusters for specific problems; use the complete framework for a comprehensive strategy"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1492040878"
+      - type: "ISBN_13"
+        identifier: "9781492040873"
+    pageCount: 302
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=st0dugEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=st0dugEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Technology_Strategy_Patterns.html?hl=&id=st0dugEACAAJ"
   - isbn: "9781473695306"
     dateFinished: "2020-09-11"
     title: "How to Own the World"
