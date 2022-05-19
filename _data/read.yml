@@ -2031,6 +2031,27 @@
       thumbnail: "https://books.google.com/books/content?id=UmemAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Powerful.html?hl=&id=UmemAQAACAAJ"
+  - isbn: "9780307591548"
+    dateFinished: "2022-03-22"
+    title: "The Happiness Advantage"
+    authors:
+      - "Shawn Achor"
+    publishedDate: "2010"
+    description: "A Harvard lecturer identifies seven core principles of positive psychology to counsel readers on how to achieve greater effectiveness and fulfillment in the workplace, explaining the role of happiness in enabling success and productivity."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780307591548"
+      - type: "ISBN_10"
+        identifier: "0307591549"
+    pageCount: 236
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=QQDb8PvpojoC&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=QQDb8PvpojoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Happiness_Advantage.html?hl=&id=QQDb8PvpojoC"
   - isbn: "9781250118363"
     dateFinished: "2022-03-26"
     title: "Algorithms to Live By"
