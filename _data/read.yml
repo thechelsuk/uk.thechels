@@ -41,6 +41,27 @@
       thumbnail: "https://books.google.com/books/content?id=_60yEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Soccermatics.html?hl=&id=_60yEAAAQBAJ"
+  - isbn: "9780415179409"
+    dateFinished: "2017-01-01"
+    title: "The Concise Dictionary of Psychology"
+    authors:
+      - "David A. Statt"
+    publishedDate: "1998-01"
+    description: "This new edition of The Concise Dictionary of Psychology contains more than 1300 references to words, phrases and eminent pioneers in psychology."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780415179409"
+      - type: "ISBN_10"
+        identifier: "0415179408"
+    pageCount: 140
+    printType: "BOOK"
+    categories:
+      - "Psychology"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=vKRXMSAyz_8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=vKRXMSAyz_8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Concise_Dictionary_of_Psychology.html?hl=&id=vKRXMSAyz_8C"
   - isbn: "9780957587441"
     dateFinished: "2018-01-01"
     title: "The Coach's Casebook"
