@@ -6,7 +6,6 @@ title : Podcasts
 
 <p>{{ site.data.podcasts | size }} podcast subscriptions.</p>
 
-<ul>
   {% assign podcasts = site.data.podcasts | group by "category" | sort: "title" %}
   {% for pod in podcasts %}
   {% capture this_category %}{{ pod.category }}{% endcapture %}
