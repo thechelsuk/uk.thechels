@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: morning
 title: Good Morning
 ---
 
