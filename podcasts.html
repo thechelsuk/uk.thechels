@@ -6,7 +6,7 @@ title : Podcasts
 
 <p>{{ site.data.podcasts | size }} podcast subscriptions.</p>
 
-  {% assign podcasts = site.data.podcasts | group by "category" | sort: "title" %}
+  {% assign podcasts = site.data.podcasts | group by "category" | sort: "name" %}
   {% for pod in podcasts %}
   {% capture this_category %}{{ pod.category }}{% endcapture %}
   {% unless category == this_category %}
@@ -17,3 +17,17 @@ title : Podcasts
            {{pod.name}} <span class="num-words"><a href="{{pod.link}}">&rarr;</a></span>
           </article>
   {% endfor %}
+
+<h3>#######</h3>
+
+{% assign podcasts = site.data.podcasts | group by "category" %}
+{% assign podcastsSorted = podcasts | sort: "name" %}
+{% for pod in podcastsSorted %}
+<h3>{{ pod.category }}</h3>
+      {% assign podTitlesSorted = pod | sort: "name" %}
+      {% for podlistitem in podTitlesSorted %}
+          <article class="posts">
+           {{podlistitem.name}} <span class="num-words"><a href="{{podlistitem.link}}">&rarr;</a></span>
+          </article>
+      {% endfor %}
+{% endfor %}
