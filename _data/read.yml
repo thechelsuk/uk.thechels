@@ -2940,6 +2940,28 @@
       thumbnail: "https://books.google.com/books/content?id=IhoHURCGS8wC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Maffetone_Method_The_Holistic_Low_St.html?hl=&id=IhoHURCGS8wC"
+  - isbn: "9780711035348"
+    dateFinished: "2022-05-21"
+    title: "Aerofilms Guide to Football Grounds"
+    authors:
+      - "Aerofilms Limited"
+      - "Aerofilms Limited Staff"
+    publishedDate: "2010-08-01"
+    description: "First published in 1993 and hugely popular ever since, this annual guide covers all the football grounds in the Premier and Championship leagues in England and Wales. Published in August at the start of the new football season, this book has become an indispensable reference guide for football fans. This 18th edition will again be fully updated and will include information on the many ground alterations that have been completed over the past 12 months. The new edition includes any new league grounds and clubs entering the league, as well as updated plans of the existing grounds identifying blocks and disabled facilities.There is also a brief sketch of each club's season. An aerial photo-map of each ground is featured, with plenty of useful information on public transport facilities, where to park and much else. Its winning combination of vivid aerial photography and invaluable information provides fans with an unmatchable graphic portrait of how grounds have changed. This year, 'Aerofilms Guide'maintains and builds upon its position as the best illustrated guide for the travelling football supporter of Premier League and League football in England and Wales, and will be essential reading for all football fans."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0711035342"
+      - type: "ISBN_13"
+        identifier: "9780711035348"
+    pageCount: 192
+    printType: "BOOK"
+    categories:
+      - "Soccer fields"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=k-WCRAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=k-WCRAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Aerofilms_Guide_to_Football_Grounds.html?hl=&id=k-WCRAAACAAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
