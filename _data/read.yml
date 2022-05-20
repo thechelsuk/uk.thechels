@@ -2833,6 +2833,27 @@
       thumbnail: "https://books.google.com/books/content?id=KkA0AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Chelsea_Miscellany.html?hl=&id=KkA0AAAACAAJ"
+  - isbn: "9781862231047"
+    dateFinished: "2022-05-21"
+    title: "Football League Tables, 1888-2004"
+    authors:
+      - "Michael Robinson"
+    publishedDate: "2004-08"
+    description: "A statistician's dream, this 7th edition will be published in a larger-format and gives the final league tables for all Football League, Premier League and Scottish Football League Clubs from the beginning of the leagues to the present day. In addition, this book will also contain details of the Semi-Finals and Final of the F.A. Cup, League Cup, Scottish Cup and Scottish League Cup for every year of the competition."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1862231044"
+      - type: "ISBN_13"
+        identifier: "9781862231047"
+    pageCount: 144
+    printType: "BOOK"
+    categories:
+      - "Soccer"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=ciVvMwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=ciVvMwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Football_League_Tables_1888_2004.html?hl=&id=ciVvMwEACAAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
