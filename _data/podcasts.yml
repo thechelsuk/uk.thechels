@@ -68,6 +68,7 @@
   link: "https://feeds.npr.org/510289/podcast.xml"
   name: "Planet Money"
 - 
+  category: "Technology"
   link: "https://www.relay.fm/adapt/feed"
   name: Adapt
 - 
@@ -86,6 +87,7 @@
   link: "https://agile.fm/agilefm?format=rss"
   name: "Agile FM"
 - 
+  category: "News"
   link: "https://whatthefuckjusthappenedtoday.com/podcasts/index.xml"
   name: "WTF Just Happened Today"
 - 
@@ -117,7 +119,7 @@
   name: "People Leading People"
 - 
   link: "http://feeds.feedburner.com/meta-cast"
-  name: Meta-Cast
+  name: "Meta-Cast"
 - 
   link: "https://feeds.megaphone.fm/VMP7067742318"
   name: "We Ain't Got No History: for Chelsea FC fans"
@@ -147,7 +149,7 @@
   name: "TED Talks Daily"
 - 
   link: "https://shoptalkshow.com/feed/podcast"
-  name: ShopTalk
+  name: "ShopTalk"
 - 
   link: "https://agilein3minut.es/archive/index.rss"
   name: "Agile in 3 Minutes"
@@ -156,7 +158,7 @@
   name: "The Agile Coffee Podcast"
 - 
   link: "https://feedpress.me/s"
-  name: Systematic
+  name: "Systematic"
 - 
   link: "https://withmenow.libsyn.com/rss"
   name: "With Me Now's podcast"
@@ -207,7 +209,7 @@
   name: "Recovery Run"
 - 
   link: "https://appstories.net/episodes/feed/"
-  name: AppStories
+  name: "AppStories"
 - 
   link: "https://meaningfulmoney.libsyn.com/rss"
   name: "The Meaningful Money Personal Finance Podcast"
@@ -218,6 +220,7 @@
   link: "https://feeds.transistor.fm/bootstrapped-digest-with-ashley-baxter"
   name: "Bootstrapped Digest with Ashley Baxter"
 - 
+  category: "News"
   link: "https://rss.acast.com/ftnewsbriefing"
   name: "FT News Briefing"
 - 
@@ -228,11 +231,12 @@
   name: "Authority Issues"
 - 
   link: "https://www.relay.fm/roboism/feed"
-  name: Roboism
+  name: "Roboism"
 - 
   link: "https://acquired.libsyn.com/rss"
-  name: Acquired
+  name: "Acquired"
 - 
+  category: "News"
   link: "http://feeds.wnyc.org/onthemedia"
   name: "On the Media"
 - 
@@ -261,7 +265,7 @@
   name: "The Product Experience"
 - 
   link: "https://www.relay.fm/automators/feed"
-  name: Automators
+  name: "Automators"
 - 
   link: "http://feeds.feedburner.com/NoDogmaPodcast"
   name: "no dogma podcast"
@@ -305,6 +309,7 @@
   link: "https://governmentdigitalservice.podbean.com/feed.xml"
   name: "Government Digital Service Podcast"
 - 
+  category: "News"
   link: "https://podcasts.files.bbci.co.uk/w13xtv39.rss"
   name: "Coronavirus Global Update"
 - 
@@ -329,12 +334,14 @@
   link: "https://feeds.megaphone.fm/tamc3480149888"
   name: "Straight Outta Cobham - A show about Chelsea"
 - 
+  category: "News"
   link: "https://57iy69iy4b.execute-api.eu-west-1.amazonaws.com/prod/PodcastAPI?cid=apym27dtie&pid=p05hh4qy"
   name: "BBC News"
 - 
   link: "https://atp.fm/episodes?format=rss"
   name: "Accidental Tech Podcast"
 - 
+  category: "News"
   link: "https://feed.podbean.com/notesontheweekahead/feed.xml"
   name: "Notes on the Week Ahead"
 - 
@@ -354,7 +361,7 @@
   name: "Chelsea FanCast"
 - 
   link: "https://feeds.fireside.fm/launched/rss"
-  name: Launched
+  name: "Launched"
 - 
   link: "https://feeds.simplecast.com/JvuqtL6v"
   name: "Chelsea Mic'd Up: The Official Chelsea FC Podcast"
@@ -402,7 +409,7 @@
   name: "The Bid"
 - 
   link: "https://rss.art19.com/spacecasts"
-  name: SpaceCasts
+  name: "SpaceCasts"
 - 
   link: "https://applehosted.podcasts.apple.com/apple_keynotes/apple_keynotes.xml"
   name: "Apple Events (video)"
@@ -420,13 +427,13 @@
   name: "The Rabbit Hole: The Definitive Developer's Podcast"
 - 
   link: "https://anchor.fm/s/41f55cbc/podcast/rss"
-  name: Retirementals
+  name: "Retirementals"
 - 
   link: "https://anchor.fm/s/4bc355dc/podcast/rss"
   name: "Handelsbanken Insights"
 - 
   link: "https://feeds.soundcloud.com/users/soundcloud:users:274578276/sounds.rss"
-  name: Sprint
+  name: "Sprint"
 - 
   link: "https://feeds.soundcloud.com/users/soundcloud:users:181591133/sounds.rss"
   name: "Cucumber Podcast"
@@ -453,7 +460,7 @@
   name: "Lead Time Chats"
 - 
   link: "https://feeds.buzzsprout.com/1687069.rss"
-  name: StaffEng
+  name: "StaffEng"
 - 
   link: "https://rss.acast.com/ftadviser"
   name: "FTAdviser Podcast"
@@ -488,6 +495,7 @@
   link: "https://www.smashingsecurity.com/rss"
   name: "Smashing Security"
 - 
+  category: "News"
   link: "https://feeds.fireside.fm/appleinsider/rss"
   name: "AppleInsider Podcast"
 - 
@@ -575,9 +583,11 @@
   link: "https://rss.acast.com/working-it"
   name: "Working It"
 - 
+  category: "News"
   link: "http://rss.acast.com/ft-politics"
   name: "Payne's Politics"
 - 
+  category: "News"
   link: "https://feeds.acast.com/public/shows/61850ae845b6e300132557e2"
   name: "New Scientist Weekly"
 - 
@@ -594,11 +604,12 @@
   name: "The Crypto Standard"
 - 
   link: "https://rss.acast.com/cyber"
-  name: CYBER
+  name: "CYBER"
 - 
   link: "https://anchor.fm/s/208bb788/podcast/rss"
   name: "All Agile Guides"
 - 
+  category: "Sport"
   link: "https://feeds.megaphone.fm/tamc1411507018"
   name: "Football Cliches - A show about the language of football"
 - 
