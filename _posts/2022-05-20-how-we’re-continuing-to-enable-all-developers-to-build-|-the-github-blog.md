@@ -3,7 +3,7 @@
 layout: post
 date: 2022-05-20
 link: https://github.blog/2022-05-19-how-were-continuing-to-enable-all-developers-to-build/
-title: How we’re continuing to enable all developers to build | The GitHub Blog
+title: How we’re continuing to enable all developers to build
 cited: GitHub Blog
 
 ---
