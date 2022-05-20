@@ -2792,6 +2792,28 @@
       thumbnail: "https://books.google.com/books/content?id=m6VVAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Daniels_Running_Formula_3rd_Edition.html?hl=&id=m6VVAgAAQBAJ"
+  - isbn: "9781472973405"
+    dateFinished: "2022-05-21"
+    title: "Running in the Midpack"
+    authors:
+      - "Martin Yelling"
+      - "Anji Andrews"
+    publishedDate: "2021-04-06"
+    description: "An expert running guide designed to engage with the substantial, and growing, yet often overlooked, middle-of-the-pack runner, by Martin Yelling, the London Marathon's official coach. While most running guides favor beginners and elite runners, this groundbreaking book is specially devised with mid-packers in mind and will provide this important group with all the expert knowledge they need to go faster and go further. Running in the Mid-Pack will offer advice on how to reduce the risk of injuries, work through performance plateaus, and bring more enjoyment to the training process through a fascinating mix of expert knowledge, runners' stories and sample workouts."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781472973405"
+      - type: "ISBN_10"
+        identifier: "1472973402"
+    pageCount: 224
+    printType: "BOOK"
+    categories:
+      - "Sports & Recreation"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=jOgbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=jOgbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Running_in_the_Midpack.html?hl=&id=jOgbEAAAQBAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
