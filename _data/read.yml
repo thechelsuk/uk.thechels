@@ -2814,6 +2814,25 @@
       thumbnail: "https://books.google.com/books/content?id=jOgbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Running_in_the_Midpack.html?hl=&id=jOgbEAAAQBAJ"
+  - isbn: "9780954642891"
+    dateFinished: "2022-05-21"
+    title: "The Chelsea Miscellany"
+    authors:
+      - "Clive Batty"
+    publishedDate: "2005-09-01"
+    description: "From the club's record own-goal scorer to the name of Frank Lampard's bulldog, The Chelsea Miscellany contains everything one has ever wanted to know about the current Premier League Champions. The fascinating trivia includes info on which members of the Eastenders cast support the Blues, which former Chelsea player once appeared on Blind Date and extensive quote sections."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0954642899"
+      - type: "ISBN_13"
+        identifier: "9780954642891"
+    pageCount: 160
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=KkA0AAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=KkA0AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Chelsea_Miscellany.html?hl=&id=KkA0AAAACAAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
