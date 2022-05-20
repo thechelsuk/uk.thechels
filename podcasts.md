@@ -1,5 +1,5 @@
 ---
-layout : podcast
+layout : podcasts
 title : Podcasts
 
 ---
