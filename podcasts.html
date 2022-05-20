@@ -14,6 +14,6 @@ title : Podcasts
     <h2>{{ category }}</h2>
   {% endunless %}
          <article class="posts">
-            {{pod.name}} <a href="{{pod.link}}">&rarr;</a>
+           {{pod.name}} <span class="num-words"><a href="{{pod.link}}">&rarr;</a></span>
           </article>
   {% endfor %}
