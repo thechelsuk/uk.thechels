@@ -2983,6 +2983,26 @@
       thumbnail: "https://books.google.com/books/content?id=JrihAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/5_Ingredients.html?hl=&id=JrihAQAACAAJ"
+  - isbn: "9781909245266"
+    dateFinished: "2022-05-21"
+    title: "Chelsea: The Complete Record"
+    authors:
+      - "Rick Glanvill"
+      - "Paul Dutton"
+    publishedDate: "2015-08-27"
+    description: "Chelsea: The Complete Record is the definitive account of one of the world's most popular and powerful clubs, recounting every conceivable detail of its 110 year-long history. Encompassing five league titles, seven FA Cups and five European trophies, Chelsea are one of the most successful clubs in English football's modern history. Chelsea official historian Rick Glanvill and club statistician Paul Dutton have spent years trawling through the archives to uncover every conceivable fact and figure about the club. In this monumental work they have painstakingly provided details of every game, line up, goalscorer, attendance and result, as well as a plethora of other facts and figures. Weighing in at 550 pages and with full appendixes detailing the careers of the hundreds of players to have turned out for the club as well as a season by season narrative account of Chelsea's history, this is the must-read book for every fan of one of European football's modern powerhouses."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1909245267"
+      - type: "ISBN_13"
+        identifier: "9781909245266"
+    pageCount: 562
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=wlFFrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=wlFFrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Chelsea_The_Complete_Record.html?hl=&id=wlFFrgEACAAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
