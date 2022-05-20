@@ -2962,6 +2962,27 @@
       thumbnail: "https://books.google.com/books/content?id=k-WCRAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Aerofilms_Guide_to_Football_Grounds.html?hl=&id=k-WCRAAACAAJ"
+  - isbn: "9780718187729"
+    dateFinished: "2022-05-21"
+    title: "5 Ingredients"
+    authors:
+      - "Jamie Oliver"
+    publishedDate: "2017-08-24"
+    description: "Featuring simple, delicious recipes from the new CHANNEL 4 series - Quick and Easy Food - on Monday nights at eight o'clock, Jamie Oliver's 5 Ingredients is his most straightforward book yet. 'Brilliant' Sunday Times Using five ingredients, cleverly combined, you'll conjure up THE most exciting food . . . from this week's episode, a crazy good pork burger topped with stacks of juicy sliced pear, crunchy salad leaves and oozy blue cheese, all squashed down under a soft burger bun. Sticky sweet mango prawns cooked in curry powder, crispy sliced garlic and punchy lime zest. Easy rustic gnocchi made with mashed potatoes and flour underneath tender asparagus, fresh thyme and Parmesan cheese. For dessert a delicious SUPER quick frozen banoffee cheesecake, overripe bananas, creamy sweet dulce de leche and cream cheese on an oaty hobnob base . . . unbelievably good. ________ It's all about making the journey to good food, super-simple. Every recipe uses just five key ingredients, ensuring you can get a plate of food together fast, whether it's finished and on the table super-quickly, or after minimal hands-on prep, you've let the oven do the hard work for you. We're talking quality over quantity, a little diligence on the cooking front, and in return massive flavour. Each recipe has been tried and tested (and tested again!) to ensure the book is packed with no-fuss, budget-friendly dishes that you can rustle up, any day of the week. With over 130 recipes, and chapters on Chicken, Beef, Pork, Lamb, Fish, Eggs, Veg, Salads, Pasta, Rice and Noodles and Sweet Things, there's plenty of quick and easy recipe inspiration to choose from. How about Jamie's mouth-watering super-quick, after work supper, as seen on This Morning . . . Smoky chorizo salmon - slices of spicy chorizo, salty sweet cherry tomatoes, black olives, basil, and fresh crispy salmon fillets. For dessert, Juicy plum tarte tatin in maple syrup and cinnamon under buttery puff pastry, topped in scoops of vanilla ice cream. With every recipe you'll find a visual ingredient guide, serving size, timings, a short, easy-to-follow method, and quick-reference nutritional information. Jamie's new cookbook takes the stress out of mealtimes and will inspire cooks and non-cooks alike with beautiful, crazily simple ideas . . ."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0718187725"
+      - type: "ISBN_13"
+        identifier: "9780718187729"
+    pageCount: 317
+    printType: "BOOK"
+    categories:
+      - "Quick and easy cooking"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=JrihAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=JrihAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/5_Ingredients.html?hl=&id=JrihAQAACAAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
