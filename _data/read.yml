@@ -2749,6 +2749,28 @@
       thumbnail: "https://books.google.com/books/content?id=9_RvVRPMFeIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Asian_Horror_Encyclopedia.html?hl=&id=9_RvVRPMFeIC"
+  - isbn: "9780736095501"
+    dateFinished: "2022-05-21"
+    title: "The Art of Running Faster"
+    authors:
+      - "Julian Goater"
+      - "Don Melvin"
+    publishedDate: "2012-02-28"
+    description: "Offers advice for improving running speed, helping runners overcome physical and psychological obstacles, rethink traditional training methods, and customize training programs to achieve running goals."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0736095500"
+      - type: "ISBN_13"
+        identifier: "9780736095501"
+    pageCount: 198
+    printType: "BOOK"
+    categories:
+      - "Sports & Recreation"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=ML1kmwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=ML1kmwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Art_of_Running_Faster.html?hl=&id=ML1kmwEACAAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
