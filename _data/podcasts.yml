@@ -68,10 +68,6 @@
   link: "https://feeds.npr.org/510289/podcast.xml"
   name: "Planet Money"
 - 
-  category: "Technology"
-  link: "https://www.relay.fm/adapt/feed"
-  name: Adapt
-- 
   category: "Engineering" 
   link: "https://anchor.fm/s/ab6c2e0/podcast/rss"
   name: "Email's Not Dead"
@@ -499,7 +495,7 @@
   link: "http://feeds.feedburner.com/twist-audio"
   name: "This Week in Startups"
 - 
-  category: "Other"
+  category: "Finance"
   link: "https://rss.art19.com/the-bid"
   name: "The Bid"
 - 
@@ -785,3 +781,27 @@
   category: "Engineering"  
   link: "https://feed.podbean.com/breakingchanges/feed.xml"
   name: "Breaking Changes"
+- 
+  category: "Finance"
+  link: "https://podcasts.files.bbci.co.uk/m00152bx.rss"
+  name: "BBC The Big Green Money Show"
+ - 
+  category: "Finance"
+  link: "https://rss.acast.com/thewhichmoneypodcast"
+  name: "The Which? Money Podcast"
+- 
+  category: "Finance"
+  link: "https://podcasts.apple.com/gb/podcast/the-meaningful-money-personal-finance-podcast/id581790263"
+  name: "Meaningful Money Podcast"  
+- 
+  category: "Other"
+  link: "https://kite.link/today-in-digital-marketing?open=castro"
+  name: "Today in Digital Marketing" 
+- 
+  category: "Other"
+  link: "https://anchor.fm/s/57d918fc/podcast/rss"
+  name: "Three Bean Salad"   
+- 
+  category: "Music"
+  link: "https://podcasts.files.bbci.co.uk/p06q6h18.rss"
+  name: "PopMaster"     
