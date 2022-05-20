@@ -1,1195 +1,598 @@
 --- 
 - 
-  _text: "BBC Music Introducing Mixtape"
-  _title: "BBC Music Introducing Mixtape"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://podcasts.files.bbci.co.uk/p02nrw4q.rss"
-- 
-  _text: Vector
-  _title: Vector
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://vector.libsyn.com/rss"
-- 
-  _text: "MS Dev Show"
-  _title: "MS Dev Show"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://msdevshow.libsyn.com/rss"
-- 
-  _text: "The Gary Neville Podcast"
-  _title: "The Gary Neville Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://podcast.global.com/show/3382900/episodes/feed"
-- 
-  _text: "The Sky Sports Football Podcast"
-  _title: "The Sky Sports Football Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://podcast.global.com/show/3382902/episodes/feed"
-- 
-  _text: "Feel Better, Live More with Dr Rangan Chatterjee"
-  _title: "Feel Better, Live More with Dr Rangan Chatterjee"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://rss.acast.com/feelbetterlivemore"
-- 
-  _text: "Soft Skills Engineering"
-  _title: "Soft Skills Engineering"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://feeds.feedburner.com/SoftSkillsEngineering"
-- 
-  _text: Clockwise
-  _title: Clockwise
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://www.relay.fm/clockwise/feed"
-- 
-  _text: Canvas
-  _title: Canvas
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://www.relay.fm/canvas/feed"
-- 
-  _text: "Secrets of the Side Hustle"
-  _title: "Secrets of the Side Hustle"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://rss.acast.com/secretsofthesidehustle"
-- 
-  _text: "The Everyday Podcast"
-  _title: "The Everyday Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://anchor.fm/s/215b100/podcast/rss"
-- 
-  _text: "TED Business"
-  _title: "TED Business"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://feeds.feedburner.com/iTunesPodcastTTBusiness"
-- 
-  _text: "Talk Python To Me"
-  _title: "Talk Python To Me"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://talkpython.fm/episodes/rss"
-- 
-  _text: "The Minimalist Vegan Podcast"
-  _title: "The Minimalist Vegan Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.transistor.fm/the-minimalist-vegan-podcast"
-- 
-  _text: "Business Casual"
-  _title: "Business Casual"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://rss.art19.com/business-casual"
-- 
-  _text: "Philosophy Bites"
-  _title: "Philosophy Bites"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://philosophybites.libsyn.com/rss"
-- 
-  _text: "Planet Money"
-  _title: "Planet Money"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.npr.org/510289/podcast.xml"
-- 
-  _text: Adapt
-  _title: Adapt
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://www.relay.fm/adapt/feed"
-- 
-  _text: "Email's Not Dead"
-  _title: "Email's Not Dead"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://anchor.fm/s/ab6c2e0/podcast/rss"
-- 
-  _text: "Ladybug Podcast"
-  _title: "Ladybug Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://pinecast.com/feed/ladybug-podcast"
-- 
-  _text: "Let's Get Running Podcast"
-  _title: "Let's Get Running Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://audioboom.com/channels/4951198.rss"
-- 
-  _text: "Happiness at Work"
-  _title: "Happiness at Work"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://happymelly.libsyn.com/rss"
-- 
-  _text: "Agile FM"
-  _title: "Agile FM"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://agile.fm/agilefm?format=rss"
-- 
-  _text: "WTF Just Happened Today"
-  _title: "WTF Just Happened Today"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://whatthefuckjusthappenedtoday.com/podcasts/index.xml"
-- 
-  _text: "Developer Tea"
-  _title: "Developer Tea"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.simplecast.com/dLRotFGk"
-- 
-  _text: "Running Commentary"
-  _title: "Running Commentary"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://rss.acast.com/runningcommentary"
-- 
-  _text: "Coding Blocks"
-  _title: "Coding Blocks"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://www.codingblocks.net/podcast-feed.xml"
-- 
-  _text: "The Five-Minute Geek Show"
-  _title: "The Five-Minute Geek Show"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.simplecast.com/g9PZ_Kwb"
-- 
-  _text: "This is Money Podcast"
-  _title: "This is Money Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://audioboom.com/channels/3223350.rss"
-- 
-  _text: "Engaging Leader: Leadership communication principles with Jesse Lahey"
-  _title: "Engaging Leader: Leadership communication principles with Jesse Lahey"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://feeds.feedburner.com/EngagingLeader"
-- 
-  _text: "Business Problems Solved Podcast"
-  _title: "Business Problems Solved Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://www.omnycontent.com/d/playlist/5873abf1-8292-4fa9-99d7-a58d00e97be5/82b96a6f-ec25-400d-b02c-a99f01144055/f030d030-55ba-4e50-8310-a99f0114b2b2/podcast.rss"
-- 
-  _text: "Money Clinic with Claer Barrett"
-  _title: "Money Clinic with Claer Barrett"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://rss.acast.com/ft-money-show"
-- 
-  _text: "People Leading People"
-  _title: "People Leading People"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://anchor.fm/s/28cc2a4/podcast/rss"
-- 
-  _text: Meta-Cast
-  _title: Meta-Cast
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://feeds.feedburner.com/meta-cast"
-- 
-  _text: "We Ain't Got No History: for Chelsea FC fans"
-  _title: "We Ain't Got No History: for Chelsea FC fans"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.megaphone.fm/VMP7067742318"
-- 
-  _text: "The Talk Show With John Gruber"
-  _title: "The Talk Show With John Gruber"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://daringfireball.net/thetalkshow/rss"
-- 
-  _text: "9to5Mac Daily"
-  _title: "9to5Mac Daily"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feedpress.me/9to5macdaily"
-- 
-  _text: "The Way of the Runner - conversations on running with Adharanand Finn"
-  _title: "The Way of the Runner - conversations on running with Adharanand Finn"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://thewayoftherunner.libsyn.com/rss"
-- 
-  _text: "Kermode and Mayo's Film Review"
-  _title: "Kermode and Mayo's Film Review"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://podcasts.files.bbci.co.uk/b00lvdrj.rss"
-- 
-  _text: "Investors' Chronicle"
-  _title: "Investors' Chronicle"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://rss.acast.com/investorschronicle"
-- 
-  _text: "The Runner's World UK Podcast"
-  _title: "The Runner's World UK Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://rss.acast.com/the-runners-world-uk-podcast"
-- 
-  _text: "British Ultra Running Podcast"
-  _title: "British Ultra Running Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://www.britishultrarunningpodcast.com/?feed=podcast"
-- 
-  _text: "TED Talks Daily"
-  _title: "TED Talks Daily"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://feeds.feedburner.com/TEDTalks_audio"
-- 
-  _text: ShopTalk
-  _title: ShopTalk
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://shoptalkshow.com/feed/podcast"
-- 
-  _text: "Agile in 3 Minutes"
-  _title: "Agile in 3 Minutes"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://agilein3minut.es/archive/index.rss"
-- 
-  _text: "The Agile Coffee Podcast"
-  _title: "The Agile Coffee Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://agilecoffee.com/feed/podcast/"
-- 
-  _text: Systematic
-  _title: Systematic
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feedpress.me/s"
-- 
-  _text: "With Me Now's podcast"
-  _title: "With Me Now's podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://withmenow.libsyn.com/rss"
-- 
-  _text: "TED Talks Technology"
-  _title: "TED Talks Technology"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://feeds.feedburner.com/iTunesPodcastTTTechnology"
-- 
-  _text: "Money Talks from The Economist"
-  _title: "Money Talks from The Economist"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://rss.acast.com/theeconomistmoneytalks"
-- 
-  _text: "Marathon Talk"
-  _title: "Marathon Talk"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://marathontalk.libsyn.com/rss"
-- 
-  _text: "Away from Keyboard"
-  _title: "Away from Keyboard"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://changelog.com/afk/feed"
-- 
-  _text: "Free Weekly Timed"
-  _title: "Free Weekly Timed"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://freeweeklytimed.libsyn.com/rss"
-- 
-  _text: "Scrum Master Toolbox Podcast: Agile storytelling from the trenches"
-  _title: "Scrum Master Toolbox Podcast: Agile storytelling from the trenches"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://scrummastertoolbox.libsyn.com/rss"
-- 
-  _text: "Leadership Made Easy"
-  _title: "Leadership Made Easy"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://leadershipmadeeasy.libsyn.com/rss"
-- 
-  _text: "The Changelog: Software Development, Open Source"
-  _title: "The Changelog: Software Development, Open Source"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://changelog.com/podcast/feed"
-- 
-  _text: "All Things Git"
-  _title: "All Things Git"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://www.allthingsgit.com/episodes.xml"
-- 
-  _text: "Coaching for Leaders"
-  _title: "Coaching for Leaders"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.podcastmirror.com/coaching-for-leaders"
-- 
-  _text: "The British Trail Running Podcast"
-  _title: "The British Trail Running Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://tbtrp.libsyn.com/rss"
-- 
-  _text: "WorkLife with Adam Grant"
-  _title: "WorkLife with Adam Grant"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.feedburner.com/WorklifeWithAdamGrant"
-- 
-  _text: "Business Daily"
-  _title: "Business Daily"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://podcasts.files.bbci.co.uk/p002vsxs.rss"
-- 
-  _text: "Process Breakdown Podcast (audio)"
-  _title: "Process Breakdown Podcast (audio)"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://feeds.feedburner.com/processbreakdown-audio"
-- 
-  _text: "Recovery Run"
-  _title: "Recovery Run"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://recovery-run.blubrry.net/feed/podcast/"
-- 
-  _text: AppStories
-  _title: AppStories
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://appstories.net/episodes/feed/"
-- 
-  _text: "The Meaningful Money Personal Finance Podcast"
-  _title: "The Meaningful Money Personal Finance Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://meaningfulmoney.libsyn.com/rss"
-- 
-  _text: "Thoughtworks Technology Podcast"
-  _title: "Thoughtworks Technology Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://thoughtworks.libsyn.com/rss"
-- 
-  _text: "Bootstrapped Digest with Ashley Baxter"
-  _title: "Bootstrapped Digest with Ashley Baxter"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.transistor.fm/bootstrapped-digest-with-ashley-baxter"
-- 
-  _text: "FT News Briefing"
-  _title: "FT News Briefing"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://rss.acast.com/ftnewsbriefing"
-- 
-  _text: "Starling Developer Podcast"
-  _title: "Starling Developer Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://developer.starlingbank.com/feed.xml"
-- 
-  _text: "Authority Issues"
-  _title: "Authority Issues"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://authorityissu.es/rss"
-- 
-  _text: Roboism
-  _title: Roboism
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://www.relay.fm/roboism/feed"
-- 
-  _text: Acquired
-  _title: Acquired
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://acquired.libsyn.com/rss"
-- 
-  _text: "On the Media"
-  _title: "On the Media"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://feeds.wnyc.org/onthemedia"
-- 
-  _text: "Weekly Dev Tips"
-  _title: "Weekly Dev Tips"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.simplecast.com/W8bGHhCA"
-- 
-  _text: "Athletes Unfiltered – Strava Podcast"
-  _title: "Athletes Unfiltered – Strava Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.simplecast.com/z8ydAYNE"
-- 
-  _text: "Agile for Humans with Ryan Ripley and Todd Miller"
-  _title: "Agile for Humans with Ryan Ripley and Todd Miller"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://feeds.feedburner.com/agileforhumans"
-- 
-  _text: "Ask Martin Lewis Podcast"
-  _title: "Ask Martin Lewis Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://podcasts.files.bbci.co.uk/p02pc9xt.rss"
-- 
-  _text: "Deliver It Cast"
-  _title: "Deliver It Cast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://deliveritcast.libsyn.com/rss"
-- 
-  _text: "The Strength Running Podcast"
-  _title: "The Strength Running Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://strengthrunning.libsyn.com/rss"
-- 
-  _text: "Arrested DevOps"
-  _title: "Arrested DevOps"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://www.arresteddevops.com/episode/index.xml"
-- 
-  _text: "The Product Experience"
-  _title: "The Product Experience"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.podcastmirror.com/the-product-experience"
-- 
-  _text: Automators
-  _title: Automators
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://www.relay.fm/automators/feed"
-- 
-  _text: "no dogma podcast"
-  _title: "no dogma podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://feeds.feedburner.com/NoDogmaPodcast"
-- 
-  _text: "The Stack Overflow Podcast"
-  _title: "The Stack Overflow Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://stackoverflow.blog/podcast/?feed=podcast"
-- 
-  _text: "TED Radio Hour"
-  _title: "TED Radio Hour"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.npr.org/510298/podcast.xml"
-- 
-  _text: "Troy Hunt's Weekly Update Podcast"
-  _title: "Troy Hunt's Weekly Update Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://www.omnycontent.com/d/playlist/1439345f-6152-486d-a9c2-a6bf0067f2b7/3ba9af7f-3bfb-48fd-aae7-a6bf00689c10/fde26e49-9fb8-457d-8f16-a6bf00696676/podcast.rss"
-- 
-  _text: "Mac Power Users"
-  _title: "Mac Power Users"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://www.relay.fm/mpu/feed"
-- 
-  _text: "Agile Uprising Podcast"
-  _title: "Agile Uprising Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://agileuprising.libsyn.com/rss"
-- 
-  _text: "The Knowledge Project with Shane Parrish"
-  _title: "The Knowledge Project with Shane Parrish"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://theknowledgeproject.libsyn.com/rss"
-- 
-  _text: "It's Anita Rani"
-  _title: "It's Anita Rani"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://rss.acast.com/itsanitarani"
-- 
-  _text: "The Standup"
-  _title: "The Standup"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.fireside.fm/standup/rss"
-- 
-  _text: "Supertop Podcast"
-  _title: "Supertop Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://cast.rocks/hosting/2041/feeds/CQMQA.xml"
-- 
-  _text: "Finding Mastery"
-  _title: "Finding Mastery"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://rss.art19.com/finding-mastery"
-- 
-  _text: "Agile Amped Podcast - Inspiring Conversations"
-  _title: "Agile Amped Podcast - Inspiring Conversations"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://agileamped.libsyn.com/rss"
-- 
-  _text: "Hacking Humans"
-  _title: "Hacking Humans"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.megaphone.fm/hacking-humans"
-- 
-  _text: "Government Digital Service Podcast"
-  _title: "Government Digital Service Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://governmentdigitalservice.podbean.com/feed.xml"
-- 
-  _text: "Coronavirus Global Update"
-  _title: "Coronavirus Global Update"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://podcasts.files.bbci.co.uk/w13xtv39.rss"
-- 
-  _text: "Money Box"
-  _title: "Money Box"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://podcasts.files.bbci.co.uk/b006qjnv.rss"
-- 
-  _text: "This Agile Life"
-  _title: "This Agile Life"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://feeds.feedburner.com/thisagilelife/podcast"
-- 
-  _text: "RSA Events"
-  _title: "RSA Events"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.simplecast.com/oFb7TFSC"
-- 
-  _text: "Dose of Leadership with Richard Rierson"
-  _title: "Dose of Leadership with Richard Rierson"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://doseofleadership.libsyn.com/rss"
-- 
-  _text: "The Extramilest Podcast"
-  _title: "The Extramilest Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://florisgierman.libsyn.com/rss/"
-- 
-  _text: "All Football Commentators Are Geeks!"
-  _title: "All Football Commentators Are Geeks!"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://audioboom.com/channels/4973847.rss"
-- 
-  _text: "Straight Outta Cobham - A show about Chelsea"
-  _title: "Straight Outta Cobham - A show about Chelsea"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.megaphone.fm/tamc3480149888"
-- 
-  _text: "BBC News"
-  _title: "BBC News"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://57iy69iy4b.execute-api.eu-west-1.amazonaws.com/prod/PodcastAPI?cid=apym27dtie&pid=p05hh4qy"
-- 
-  _text: "Accidental Tech Podcast"
-  _title: "Accidental Tech Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://atp.fm/episodes?format=rss"
-- 
-  _text: "Notes on the Week Ahead"
-  _title: "Notes on the Week Ahead"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feed.podbean.com/notesontheweekahead/feed.xml"
-- 
-  _text: "Darknet Diaries"
-  _title: "Darknet Diaries"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.megaphone.fm/darknetdiaries"
-- 
-  _text: "Whatever Next?"
-  _title: "Whatever Next?"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://rss.acast.com/whatever-next"
-- 
-  _text: "Smart Tech Today (Audio)"
-  _title: "Smart Tech Today (Audio)"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.twit.tv/stt.xml"
-- 
-  _text: "State of the Markets"
-  _title: "State of the Markets"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://anchor.fm/s/c95b184/podcast/rss"
-- 
-  _text: "Chelsea FanCast"
-  _title: "Chelsea FanCast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://rss.acast.com/chelseafancast"
-- 
-  _text: Launched
-  _title: Launched
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.fireside.fm/launched/rss"
-- 
-  _text: "Chelsea Mic'd Up: The Official Chelsea FC Podcast"
-  _title: "Chelsea Mic'd Up: The Official Chelsea FC Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.simplecast.com/JvuqtL6v"
-- 
-  _text: "Techmeme Ride Home"
-  _title: "Techmeme Ride Home"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://rss.art19.com/techmeme-ridehome"
-- 
-  _text: "Hacking Your Leadership Podcast"
-  _title: "Hacking Your Leadership Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://www.spreaker.com/show/4805674/episodes/feed"
-- 
-  _text: "Dads In Development"
-  _title: "Dads In Development"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.simplecast.com/Wfbh59LE"
-- 
-  _text: "The WIRED Podcast"
-  _title: "The WIRED Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.megaphone.fm/the-wired-podcast"
-- 
-  _text: "London Fintech Podcast"
-  _title: "London Fintech Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://www.londonfintechpodcast.com/feed/podcast/"
-- 
-  _text: "Fintech Insider Podcast by 11:FS"
-  _title: "Fintech Insider Podcast by 11:FS"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://fi.11fs.com/rss"
-- 
-  _text: "FinTech Newscast"
-  _title: "FinTech Newscast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://feeds.feedburner.com/FintechNewscast"
-- 
-  _text: "Effective Engineering Manager"
-  _title: "Effective Engineering Manager"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://www.effectiveem.com/feed/podcast/"
-- 
-  _text: "That Mint Podcast"
-  _title: "That Mint Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.captivate.fm/that-mint-podcast/"
-- 
-  _text: "The Idealcast with Gene Kim by IT Revolution"
-  _title: "The Idealcast with Gene Kim by IT Revolution"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feed.podbean.com/itrevolution/feed.xml"
-- 
-  _text: "Mindset Explosion"
-  _title: "Mindset Explosion"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://anchor.fm/s/3f8cebc/podcast/rss"
-- 
-  _text: "The ReadME Podcast"
-  _title: "The ReadME Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://anchor.fm/s/5a87b0f4/podcast/rss"
-- 
-  _text: "This Week in Startups"
-  _title: "This Week in Startups"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://feeds.feedburner.com/twist-audio"
-- 
-  _text: "The Bid"
-  _title: "The Bid"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://rss.art19.com/the-bid"
-- 
-  _text: SpaceCasts
-  _title: SpaceCasts
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://rss.art19.com/spacecasts"
-- 
-  _text: "Apple Events (video)"
-  _title: "Apple Events (video)"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://applehosted.podcasts.apple.com/apple_keynotes/apple_keynotes.xml"
-- 
-  _text: "The Tim Ferriss Show"
-  _title: "The Tim Ferriss Show"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://rss.art19.com/tim-ferriss-show"
-- 
-  _text: "HBR IdeaCast"
-  _title: "HBR IdeaCast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://feeds.harvardbusiness.org/harvardbusiness/ideacast"
-- 
-  _text: "The End of the Day Podcast with Kari Watterson: Using Mindset Work to Live Your Best Life"
-  _title: "The End of the Day Podcast with Kari Watterson: Using Mindset Work to Live Your Best Life"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.buzzsprout.com/992860.rss"
-- 
-  _text: "The Rabbit Hole: The Definitive Developer's Podcast"
-  _title: "The Rabbit Hole: The Definitive Developer's Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://therabbithole.libsyn.com/rss"
-- 
-  _text: Retirementals
-  _title: Retirementals
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://anchor.fm/s/41f55cbc/podcast/rss"
-- 
-  _text: "Handelsbanken Insights"
-  _title: "Handelsbanken Insights"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://anchor.fm/s/4bc355dc/podcast/rss"
-- 
-  _text: Sprint
-  _title: Sprint
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.soundcloud.com/users/soundcloud:users:274578276/sounds.rss"
-- 
-  _text: "Cucumber Podcast"
-  _title: "Cucumber Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.soundcloud.com/users/soundcloud:users:181591133/sounds.rss"
-- 
-  _text: "Reflection as a Service"
-  _title: "Reflection as a Service"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.soundcloud.com/users/soundcloud:users:171473946/sounds.rss"
-- 
-  _text: "the morning shakeout podcast"
-  _title: "the morning shakeout podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.soundcloud.com/users/soundcloud:users:338016727/sounds.rss"
-- 
-  _text: "Wharton FinTech Podcast"
-  _title: "Wharton FinTech Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.soundcloud.com/users/soundcloud:users:176298819/sounds.rss"
-- 
-  _text: "FinTech Futures"
-  _title: "FinTech Futures"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.soundcloud.com/users/soundcloud:users:739334563/sounds.rss"
-- 
-  _text: "interactive investor"
-  _title: "interactive investor"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.soundcloud.com/users/soundcloud:users:639640803/sounds.rss"
-- 
-  _text: "CPO Mastery Podcast"
-  _title: "CPO Mastery Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feed.podbean.com/productfaculty/feed.xml"
-- 
-  _text: "Lead Time Chats"
-  _title: "Lead Time Chats"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.simplecast.com/yxSn4qK1"
-- 
-  _text: StaffEng
-  _title: StaffEng
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.buzzsprout.com/1687069.rss"
-- 
-  _text: "FTAdviser Podcast"
-  _title: "FTAdviser Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://rss.acast.com/ftadviser"
-- 
-  _text: "Tech Brains Talk"
-  _title: "Tech Brains Talk"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.buzzsprout.com/681950.rss"
-- 
-  _text: "Random but Memorable"
-  _title: "Random but Memorable"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.simplecast.com/eEZHk2aL"
-- 
-  _text: "Troubleshooting Agile"
-  _title: "Troubleshooting Agile"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.soundcloud.com/users/soundcloud:users:363464744/sounds.rss"
-- 
-  _text: "Maven Money Personal Finance Podcast"
-  _title: "Maven Money Personal Finance Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://mavenmoney.libsyn.com/rss"
-- 
-  _text: "The Indicator from Planet Money"
-  _title: "The Indicator from Planet Money"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.npr.org/510325/podcast.xml"
-- 
-  _text: "Not Overthinking"
-  _title: "Not Overthinking"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://rss.art19.com/not-overthinking"
-- 
-  _text: "The Look & Sound of Leadership"
-  _title: "The Look & Sound of Leadership"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.buzzsprout.com/1807501.rss"
-- 
-  _text: "Ship It! DevOps, Infra, Cloud Native"
-  _title: "Ship It! DevOps, Infra, Cloud Native"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://changelog.com/shipit/feed"
-- 
-  _text: "FT Tech Tonic"
-  _title: "FT Tech Tonic"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://rss.acast.com/ft-tech-tonic"
-- 
-  _text: "Smashing Security"
-  _title: "Smashing Security"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://www.smashingsecurity.com/rss"
-- 
-  _text: "AppleInsider Podcast"
-  _title: "AppleInsider Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.fireside.fm/appleinsider/rss"
-- 
-  _text: "Secret Leaders"
-  _title: "Secret Leaders"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.megaphone.fm/SLO5751524607"
-- 
-  _text: "The Diverse Minds Podcast"
-  _title: "The Diverse Minds Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.simplecast.com/mtWJMYrr"
-- 
-  _text: "Fintech Impact"
-  _title: "Fintech Impact"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feed.pippa.io/public/shows/5ab6fe42bb6ddf45527e077e"
-- 
-  _text: "Fintech One-On-One"
-  _title: "Fintech One-On-One"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://www.lendacademy.com/feed/podcast/"
-- 
-  _text: "Fintech Marketing Podcast by 11:FS"
-  _title: "Fintech Marketing Podcast by 11:FS"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.fireside.fm/fintechmarketingpodcast-by-11fs/rss"
-- 
-  _text: "Software Engineering Daily"
-  _title: "Software Engineering Daily"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://softwareengineeringdaily.com/feed/podcast"
-- 
-  _text: "The Podcast Engineering Show"
-  _title: "The Podcast Engineering Show"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://podcastengineering.libsyn.com/rss"
-- 
-  _text: "Level-up Engineering"
-  _title: "Level-up Engineering"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.captivate.fm/level-up-engineering/"
-- 
-  _text: "The Art Of Coaching"
-  _title: "The Art Of Coaching"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feed.podbean.com/artofcoaching/feed.xml"
-- 
-  _text: "Agile Coaching Network"
-  _title: "Agile Coaching Network"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.buzzsprout.com/657931.rss"
-- 
-  _text: "A Productive Conversation"
-  _title: "A Productive Conversation"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.megaphone.fm/TNM3035277142"
-- 
-  _text: "The Jim Rutt Show"
-  _title: "The Jim Rutt Show"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://jimruttshow.blubrry.net/feed/podcast/"
-- 
-  _text: "Peaple Talent Podcast"
-  _title: "Peaple Talent Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.buzzsprout.com/1312642.rss"
-- 
-  _text: "Things You Don't Need to Know with Ari Cagan"
-  _title: "Things You Don't Need to Know with Ari Cagan"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.megaphone.fm/tydntk"
-- 
-  _text: "Follow Friday"
-  _title: "Follow Friday"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.captivate.fm/follow-friday/"
-- 
-  _text: "tickr - Impact Investing"
-  _title: "tickr - Impact Investing"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.buzzsprout.com/964681.rss"
-- 
-  _text: "Creative Women in Tech"
-  _title: "Creative Women in Tech"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feed.podbean.com/witcih/feed.xml"
-- 
-  _text: "Modern CTO with Joel Beasley"
-  _title: "Modern CTO with Joel Beasley"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.megaphone.fm/LDB8042666505"
-- 
-  _text: "Wake Up to Money"
-  _title: "Wake Up to Money"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://podcasts.files.bbci.co.uk/b0070lr5.rss"
-- 
-  _text: "Fozcast - The Ben Foster Podcast"
-  _title: "Fozcast - The Ben Foster Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://anchor.fm/s/62d78914/podcast/rss"
-- 
-  _text: "Modern Finance"
-  _title: "Modern Finance"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.megaphone.fm/mofi"
-- 
-  _text: "The Secure Developer"
-  _title: "The Secure Developer"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.simplecast.com/47yfLpm0"
-- 
-  _text: "CIO Exchange Podcast"
-  _title: "CIO Exchange Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.simplecast.com/sizSRIY9"
-- 
-  _text: "CISO Talk"
-  _title: "CISO Talk"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feed.podbean.com/CISOtalk/feed.xml"
-- 
-  _text: "CISO Tradecraft"
-  _title: "CISO Tradecraft"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feed.podbean.com/cisotradecraft/feed.xml"
-- 
-  _text: "DevOps Radio"
-  _title: "DevOps Radio"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://devopsradio.libsyn.com/rss"
-- 
-  _text: "The Yolk Podcast - home to Diversity Champions"
-  _title: "The Yolk Podcast - home to Diversity Champions"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feed.podbean.com/yolkrec/feed.xml"
-- 
-  _text: "Working It"
-  _title: "Working It"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://rss.acast.com/working-it"
-- 
-  _text: "Payne's Politics"
-  _title: "Payne's Politics"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://rss.acast.com/ft-politics"
-- 
-  _text: "New Scientist Weekly"
-  _title: "New Scientist Weekly"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.acast.com/public/shows/61850ae845b6e300132557e2"
-- 
-  _text: "The Agile Pubcast"
-  _title: "The Agile Pubcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.acast.com/public/shows/618975a0e897b500196a08f6"
-- 
-  _text: "The Hedge"
-  _title: "The Hedge"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.captivate.fm/the-hedge/"
-- 
-  _text: "Late Night Disclosure"
-  _title: "Late Night Disclosure"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.captivate.fm/late-night-disclosure/"
-- 
-  _text: "The Crypto Standard"
-  _title: "The Crypto Standard"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.buzzsprout.com/1765385.rss"
-- 
-  _text: CYBER
-  _title: CYBER
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://rss.acast.com/cyber"
-- 
-  _text: "All Agile Guides"
-  _title: "All Agile Guides"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://anchor.fm/s/208bb788/podcast/rss"
-- 
-  _text: "Football Cliches - A show about the language of football"
-  _title: "Football Cliches - A show about the language of football"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feeds.megaphone.fm/tamc1411507018"
-- 
-  _text: "Financial Advisor Success"
-  _title: "Financial Advisor Success"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://fasuccess.libsyn.com/rss"
-- 
-  _text: "The AdviserTech Unplugged Podcast"
-  _title: "The AdviserTech Unplugged Podcast"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feed.podbean.com/moneyinfo/feed.xml"
-- 
-  _text: "The Prosperity Project"
-  _title: "The Prosperity Project"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://pinecast.com/feed/the-prosperity-project"
-- 
-  _text: "Breaking Changes"
-  _title: "Breaking Changes"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://feed.podbean.com/breakingchanges/feed.xml"
+  link: "https://podcasts.files.bbci.co.uk/p02nrw4q.rss"
+  name: "BBC Music Introducing Mixtape"
+- 
+  link: "https://vector.libsyn.com/rss"
+  name: Vector
+- 
+  link: "https://msdevshow.libsyn.com/rss"
+  name: "MS Dev Show"
+- 
+  link: "https://podcast.global.com/show/3382900/episodes/feed"
+  name: "The Gary Neville Podcast"
+- 
+  link: "https://podcast.global.com/show/3382902/episodes/feed"
+  name: "The Sky Sports Football Podcast"
+- 
+  link: "https://rss.acast.com/feelbetterlivemore"
+  name: "Feel Better, Live More with Dr Rangan Chatterjee"
+- 
+  link: "http://feeds.feedburner.com/SoftSkillsEngineering"
+  name: "Soft Skills Engineering"
+- 
+  link: "https://www.relay.fm/clockwise/feed"
+  name: Clockwise
+- 
+  link: "https://www.relay.fm/canvas/feed"
+  name: Canvas
+- 
+  link: "https://rss.acast.com/secretsofthesidehustle"
+  name: "Secrets of the Side Hustle"
+- 
+  link: "https://anchor.fm/s/215b100/podcast/rss"
+  name: "The Everyday Podcast"
+- 
+  link: "http://feeds.feedburner.com/iTunesPodcastTTBusiness"
+  name: "TED Business"
+- 
+  link: "https://talkpython.fm/episodes/rss"
+  name: "Talk Python To Me"
+- 
+  link: "https://feeds.transistor.fm/the-minimalist-vegan-podcast"
+  name: "The Minimalist Vegan Podcast"
+- 
+  link: "https://rss.art19.com/business-casual"
+  name: "Business Casual"
+- 
+  link: "https://philosophybites.libsyn.com/rss"
+  name: "Philosophy Bites"
+- 
+  link: "https://feeds.npr.org/510289/podcast.xml"
+  name: "Planet Money"
+- 
+  link: "https://www.relay.fm/adapt/feed"
+  name: Adapt
+- 
+  link: "https://anchor.fm/s/ab6c2e0/podcast/rss"
+  name: "Email's Not Dead"
+- 
+  link: "https://pinecast.com/feed/ladybug-podcast"
+  name: "Ladybug Podcast"
+- 
+  link: "https://audioboom.com/channels/4951198.rss"
+  name: "Let's Get Running Podcast"
+- 
+  link: "https://happymelly.libsyn.com/rss"
+  name: "Happiness at Work"
+- 
+  link: "https://agile.fm/agilefm?format=rss"
+  name: "Agile FM"
+- 
+  link: "https://whatthefuckjusthappenedtoday.com/podcasts/index.xml"
+  name: "WTF Just Happened Today"
+- 
+  link: "https://feeds.simplecast.com/dLRotFGk"
+  name: "Developer Tea"
+- 
+  link: "http://rss.acast.com/runningcommentary"
+  name: "Running Commentary"
+- 
+  link: "https://www.codingblocks.net/podcast-feed.xml"
+  name: "Coding Blocks"
+- 
+  link: "https://feeds.simplecast.com/g9PZ_Kwb"
+  name: "The Five-Minute Geek Show"
+- 
+  link: "https://audioboom.com/channels/3223350.rss"
+  name: "This is Money Podcast"
+- 
+  link: "http://feeds.feedburner.com/EngagingLeader"
+  name: "Engaging Leader: Leadership communication principles with Jesse Lahey"
+- 
+  link: "https://www.omnycontent.com/d/playlist/5873abf1-8292-4fa9-99d7-a58d00e97be5/82b96a6f-ec25-400d-b02c-a99f01144055/f030d030-55ba-4e50-8310-a99f0114b2b2/podcast.rss"
+  name: "Business Problems Solved Podcast"
+- 
+  link: "http://rss.acast.com/ft-money-show"
+  name: "Money Clinic with Claer Barrett"
+- 
+  link: "https://anchor.fm/s/28cc2a4/podcast/rss"
+  name: "People Leading People"
+- 
+  link: "http://feeds.feedburner.com/meta-cast"
+  name: Meta-Cast
+- 
+  link: "https://feeds.megaphone.fm/VMP7067742318"
+  name: "We Ain't Got No History: for Chelsea FC fans"
+- 
+  link: "https://daringfireball.net/thetalkshow/rss"
+  name: "The Talk Show With John Gruber"
+- 
+  link: "https://feedpress.me/9to5macdaily"
+  name: "9to5Mac Daily"
+- 
+  link: "https://thewayoftherunner.libsyn.com/rss"
+  name: "The Way of the Runner - conversations on running with Adharanand Finn"
+- 
+  link: "https://podcasts.files.bbci.co.uk/b00lvdrj.rss"
+  name: "Kermode and Mayo's Film Review"
+- 
+  link: "http://rss.acast.com/investorschronicle"
+  name: "Investors' Chronicle"
+- 
+  link: "https://rss.acast.com/the-runners-world-uk-podcast"
+  name: "The Runner's World UK Podcast"
+- 
+  link: "https://www.britishultrarunningpodcast.com/?feed=podcast"
+  name: "British Ultra Running Podcast"
+- 
+  link: "http://feeds.feedburner.com/TEDTalks_audio"
+  name: "TED Talks Daily"
+- 
+  link: "https://shoptalkshow.com/feed/podcast"
+  name: ShopTalk
+- 
+  link: "https://agilein3minut.es/archive/index.rss"
+  name: "Agile in 3 Minutes"
+- 
+  link: "http://agilecoffee.com/feed/podcast/"
+  name: "The Agile Coffee Podcast"
+- 
+  link: "https://feedpress.me/s"
+  name: Systematic
+- 
+  link: "https://withmenow.libsyn.com/rss"
+  name: "With Me Now's podcast"
+- 
+  link: "http://feeds.feedburner.com/iTunesPodcastTTTechnology"
+  name: "TED Talks Technology"
+- 
+  link: "https://rss.acast.com/theeconomistmoneytalks"
+  name: "Money Talks from The Economist"
+- 
+  link: "https://marathontalk.libsyn.com/rss"
+  name: "Marathon Talk"
+- 
+  link: "https://changelog.com/afk/feed"
+  name: "Away from Keyboard"
+- 
+  link: "https://freeweeklytimed.libsyn.com/rss"
+  name: "Free Weekly Timed"
+- 
+  link: "https://scrummastertoolbox.libsyn.com/rss"
+  name: "Scrum Master Toolbox Podcast: Agile storytelling from the trenches"
+- 
+  link: "https://leadershipmadeeasy.libsyn.com/rss"
+  name: "Leadership Made Easy"
+- 
+  link: "https://changelog.com/podcast/feed"
+  name: "The Changelog: Software Development, Open Source"
+- 
+  link: "https://www.allthingsgit.com/episodes.xml"
+  name: "All Things Git"
+- 
+  link: "https://feeds.podcastmirror.com/coaching-for-leaders"
+  name: "Coaching for Leaders"
+- 
+  link: "https://tbtrp.libsyn.com/rss"
+  name: "The British Trail Running Podcast"
+- 
+  link: "https://feeds.feedburner.com/WorklifeWithAdamGrant"
+  name: "WorkLife with Adam Grant"
+- 
+  link: "https://podcasts.files.bbci.co.uk/p002vsxs.rss"
+  name: "Business Daily"
+- 
+  link: "http://feeds.feedburner.com/processbreakdown-audio"
+  name: "Process Breakdown Podcast (audio)"
+- 
+  link: "http://recovery-run.blubrry.net/feed/podcast/"
+  name: "Recovery Run"
+- 
+  link: "https://appstories.net/episodes/feed/"
+  name: AppStories
+- 
+  link: "https://meaningfulmoney.libsyn.com/rss"
+  name: "The Meaningful Money Personal Finance Podcast"
+- 
+  link: "https://thoughtworks.libsyn.com/rss"
+  name: "Thoughtworks Technology Podcast"
+- 
+  link: "https://feeds.transistor.fm/bootstrapped-digest-with-ashley-baxter"
+  name: "Bootstrapped Digest with Ashley Baxter"
+- 
+  link: "https://rss.acast.com/ftnewsbriefing"
+  name: "FT News Briefing"
+- 
+  link: "https://developer.starlingbank.com/feed.xml"
+  name: "Starling Developer Podcast"
+- 
+  link: "https://authorityissu.es/rss"
+  name: "Authority Issues"
+- 
+  link: "https://www.relay.fm/roboism/feed"
+  name: Roboism
+- 
+  link: "https://acquired.libsyn.com/rss"
+  name: Acquired
+- 
+  link: "http://feeds.wnyc.org/onthemedia"
+  name: "On the Media"
+- 
+  link: "https://feeds.simplecast.com/W8bGHhCA"
+  name: "Weekly Dev Tips"
+- 
+  link: "https://feeds.simplecast.com/z8ydAYNE"
+  name: "Athletes Unfiltered – Strava Podcast"
+- 
+  link: "http://feeds.feedburner.com/agileforhumans"
+  name: "Agile for Humans with Ryan Ripley and Todd Miller"
+- 
+  link: "https://podcasts.files.bbci.co.uk/p02pc9xt.rss"
+  name: "Ask Martin Lewis Podcast"
+- 
+  link: "https://deliveritcast.libsyn.com/rss"
+  name: "Deliver It Cast"
+- 
+  link: "https://strengthrunning.libsyn.com/rss"
+  name: "The Strength Running Podcast"
+- 
+  link: "https://www.arresteddevops.com/episode/index.xml"
+  name: "Arrested DevOps"
+- 
+  link: "https://feeds.podcastmirror.com/the-product-experience"
+  name: "The Product Experience"
+- 
+  link: "https://www.relay.fm/automators/feed"
+  name: Automators
+- 
+  link: "http://feeds.feedburner.com/NoDogmaPodcast"
+  name: "no dogma podcast"
+- 
+  link: "https://stackoverflow.blog/podcast/?feed=podcast"
+  name: "The Stack Overflow Podcast"
+- 
+  link: "https://feeds.npr.org/510298/podcast.xml"
+  name: "TED Radio Hour"
+- 
+  link: "https://www.omnycontent.com/d/playlist/1439345f-6152-486d-a9c2-a6bf0067f2b7/3ba9af7f-3bfb-48fd-aae7-a6bf00689c10/fde26e49-9fb8-457d-8f16-a6bf00696676/podcast.rss"
+  name: "Troy Hunt's Weekly Update Podcast"
+- 
+  link: "https://www.relay.fm/mpu/feed"
+  name: "Mac Power Users"
+- 
+  link: "https://agileuprising.libsyn.com/rss"
+  name: "Agile Uprising Podcast"
+- 
+  link: "https://theknowledgeproject.libsyn.com/rss"
+  name: "The Knowledge Project with Shane Parrish"
+- 
+  link: "https://rss.acast.com/itsanitarani"
+  name: "It's Anita Rani"
+- 
+  link: "https://feeds.fireside.fm/standup/rss"
+  name: "The Standup"
+- 
+  link: "http://cast.rocks/hosting/2041/feeds/CQMQA.xml"
+  name: "Supertop Podcast"
+- 
+  link: "https://rss.art19.com/finding-mastery"
+  name: "Finding Mastery"
+- 
+  link: "https://agileamped.libsyn.com/rss"
+  name: "Agile Amped Podcast - Inspiring Conversations"
+- 
+  link: "https://feeds.megaphone.fm/hacking-humans"
+  name: "Hacking Humans"
+- 
+  link: "https://governmentdigitalservice.podbean.com/feed.xml"
+  name: "Government Digital Service Podcast"
+- 
+  link: "https://podcasts.files.bbci.co.uk/w13xtv39.rss"
+  name: "Coronavirus Global Update"
+- 
+  link: "https://podcasts.files.bbci.co.uk/b006qjnv.rss"
+  name: "Money Box"
+- 
+  link: "http://feeds.feedburner.com/thisagilelife/podcast"
+  name: "This Agile Life"
+- 
+  link: "https://feeds.simplecast.com/oFb7TFSC"
+  name: "RSA Events"
+- 
+  link: "https://doseofleadership.libsyn.com/rss"
+  name: "Dose of Leadership with Richard Rierson"
+- 
+  link: "https://florisgierman.libsyn.com/rss/"
+  name: "The Extramilest Podcast"
+- 
+  link: "https://audioboom.com/channels/4973847.rss"
+  name: "All Football Commentators Are Geeks!"
+- 
+  link: "https://feeds.megaphone.fm/tamc3480149888"
+  name: "Straight Outta Cobham - A show about Chelsea"
+- 
+  link: "https://57iy69iy4b.execute-api.eu-west-1.amazonaws.com/prod/PodcastAPI?cid=apym27dtie&pid=p05hh4qy"
+  name: "BBC News"
+- 
+  link: "https://atp.fm/episodes?format=rss"
+  name: "Accidental Tech Podcast"
+- 
+  link: "https://feed.podbean.com/notesontheweekahead/feed.xml"
+  name: "Notes on the Week Ahead"
+- 
+  link: "https://feeds.megaphone.fm/darknetdiaries"
+  name: "Darknet Diaries"
+- 
+  link: "https://rss.acast.com/whatever-next"
+  name: "Whatever Next?"
+- 
+  link: "https://feeds.twit.tv/stt.xml"
+  name: "Smart Tech Today (Audio)"
+- 
+  link: "https://anchor.fm/s/c95b184/podcast/rss"
+  name: "State of the Markets"
+- 
+  link: "http://rss.acast.com/chelseafancast"
+  name: "Chelsea FanCast"
+- 
+  link: "https://feeds.fireside.fm/launched/rss"
+  name: Launched
+- 
+  link: "https://feeds.simplecast.com/JvuqtL6v"
+  name: "Chelsea Mic'd Up: The Official Chelsea FC Podcast"
+- 
+  link: "https://rss.art19.com/techmeme-ridehome"
+  name: "Techmeme Ride Home"
+- 
+  link: "https://www.spreaker.com/show/4805674/episodes/feed"
+  name: "Hacking Your Leadership Podcast"
+- 
+  link: "https://feeds.simplecast.com/Wfbh59LE"
+  name: "Dads In Development"
+- 
+  link: "https://feeds.megaphone.fm/the-wired-podcast"
+  name: "The WIRED Podcast"
+- 
+  link: "https://www.londonfintechpodcast.com/feed/podcast/"
+  name: "London Fintech Podcast"
+- 
+  link: "https://fi.11fs.com/rss"
+  name: "Fintech Insider Podcast by 11:FS"
+- 
+  link: "http://feeds.feedburner.com/FintechNewscast"
+  name: "FinTech Newscast"
+- 
+  link: "https://www.effectiveem.com/feed/podcast/"
+  name: "Effective Engineering Manager"
+- 
+  link: "https://feeds.captivate.fm/that-mint-podcast/"
+  name: "That Mint Podcast"
+- 
+  link: "https://feed.podbean.com/itrevolution/feed.xml"
+  name: "The Idealcast with Gene Kim by IT Revolution"
+- 
+  link: "https://anchor.fm/s/3f8cebc/podcast/rss"
+  name: "Mindset Explosion"
+- 
+  link: "https://anchor.fm/s/5a87b0f4/podcast/rss"
+  name: "The ReadME Podcast"
+- 
+  link: "http://feeds.feedburner.com/twist-audio"
+  name: "This Week in Startups"
+- 
+  link: "https://rss.art19.com/the-bid"
+  name: "The Bid"
+- 
+  link: "https://rss.art19.com/spacecasts"
+  name: SpaceCasts
+- 
+  link: "https://applehosted.podcasts.apple.com/apple_keynotes/apple_keynotes.xml"
+  name: "Apple Events (video)"
+- 
+  link: "https://rss.art19.com/tim-ferriss-show"
+  name: "The Tim Ferriss Show"
+- 
+  link: "http://feeds.harvardbusiness.org/harvardbusiness/ideacast"
+  name: "HBR IdeaCast"
+- 
+  link: "https://feeds.buzzsprout.com/992860.rss"
+  name: "The End of the Day Podcast with Kari Watterson: Using Mindset Work to Live Your Best Life"
+- 
+  link: "https://therabbithole.libsyn.com/rss"
+  name: "The Rabbit Hole: The Definitive Developer's Podcast"
+- 
+  link: "https://anchor.fm/s/41f55cbc/podcast/rss"
+  name: Retirementals
+- 
+  link: "https://anchor.fm/s/4bc355dc/podcast/rss"
+  name: "Handelsbanken Insights"
+- 
+  link: "https://feeds.soundcloud.com/users/soundcloud:users:274578276/sounds.rss"
+  name: Sprint
+- 
+  link: "https://feeds.soundcloud.com/users/soundcloud:users:181591133/sounds.rss"
+  name: "Cucumber Podcast"
+- 
+  link: "https://feeds.soundcloud.com/users/soundcloud:users:171473946/sounds.rss"
+  name: "Reflection as a Service"
+- 
+  link: "https://feeds.soundcloud.com/users/soundcloud:users:338016727/sounds.rss"
+  name: "the morning shakeout podcast"
+- 
+  link: "https://feeds.soundcloud.com/users/soundcloud:users:176298819/sounds.rss"
+  name: "Wharton FinTech Podcast"
+- 
+  link: "https://feeds.soundcloud.com/users/soundcloud:users:739334563/sounds.rss"
+  name: "FinTech Futures"
+- 
+  link: "https://feeds.soundcloud.com/users/soundcloud:users:639640803/sounds.rss"
+  name: "interactive investor"
+- 
+  link: "https://feed.podbean.com/productfaculty/feed.xml"
+  name: "CPO Mastery Podcast"
+- 
+  link: "https://feeds.simplecast.com/yxSn4qK1"
+  name: "Lead Time Chats"
+- 
+  link: "https://feeds.buzzsprout.com/1687069.rss"
+  name: StaffEng
+- 
+  link: "https://rss.acast.com/ftadviser"
+  name: "FTAdviser Podcast"
+- 
+  link: "https://feeds.buzzsprout.com/681950.rss"
+  name: "Tech Brains Talk"
+- 
+  link: "https://feeds.simplecast.com/eEZHk2aL"
+  name: "Random but Memorable"
+- 
+  link: "https://feeds.soundcloud.com/users/soundcloud:users:363464744/sounds.rss"
+  name: "Troubleshooting Agile"
+- 
+  link: "https://mavenmoney.libsyn.com/rss"
+  name: "Maven Money Personal Finance Podcast"
+- 
+  link: "https://feeds.npr.org/510325/podcast.xml"
+  name: "The Indicator from Planet Money"
+- 
+  link: "https://rss.art19.com/not-overthinking"
+  name: "Not Overthinking"
+- 
+  link: "https://feeds.buzzsprout.com/1807501.rss"
+  name: "The Look & Sound of Leadership"
+- 
+  link: "https://changelog.com/shipit/feed"
+  name: "Ship It! DevOps, Infra, Cloud Native"
+- 
+  link: "http://rss.acast.com/ft-tech-tonic"
+  name: "FT Tech Tonic"
+- 
+  link: "https://www.smashingsecurity.com/rss"
+  name: "Smashing Security"
+- 
+  link: "https://feeds.fireside.fm/appleinsider/rss"
+  name: "AppleInsider Podcast"
+- 
+  link: "https://feeds.megaphone.fm/SLO5751524607"
+  name: "Secret Leaders"
+- 
+  link: "https://feeds.simplecast.com/mtWJMYrr"
+  name: "The Diverse Minds Podcast"
+- 
+  link: "https://feed.pippa.io/public/shows/5ab6fe42bb6ddf45527e077e"
+  name: "Fintech Impact"
+- 
+  link: "https://www.lendacademy.com/feed/podcast/"
+  name: "Fintech One-On-One"
+- 
+  link: "https://feeds.fireside.fm/fintechmarketingpodcast-by-11fs/rss"
+  name: "Fintech Marketing Podcast by 11:FS"
+- 
+  link: "https://softwareengineeringdaily.com/feed/podcast"
+  name: "Software Engineering Daily"
+- 
+  link: "https://podcastengineering.libsyn.com/rss"
+  name: "The Podcast Engineering Show"
+- 
+  link: "https://feeds.captivate.fm/level-up-engineering/"
+  name: "Level-up Engineering"
+- 
+  link: "https://feed.podbean.com/artofcoaching/feed.xml"
+  name: "The Art Of Coaching"
+- 
+  link: "https://feeds.buzzsprout.com/657931.rss"
+  name: "Agile Coaching Network"
+- 
+  link: "https://feeds.megaphone.fm/TNM3035277142"
+  name: "A Productive Conversation"
+- 
+  link: "https://jimruttshow.blubrry.net/feed/podcast/"
+  name: "The Jim Rutt Show"
+- 
+  link: "https://feeds.buzzsprout.com/1312642.rss"
+  name: "Peaple Talent Podcast"
+- 
+  link: "https://feeds.megaphone.fm/tydntk"
+  name: "Things You Don't Need to Know with Ari Cagan"
+- 
+  link: "https://feeds.captivate.fm/follow-friday/"
+  name: "Follow Friday"
+- 
+  link: "https://feeds.buzzsprout.com/964681.rss"
+  name: "tickr - Impact Investing"
+- 
+  link: "https://feed.podbean.com/witcih/feed.xml"
+  name: "Creative Women in Tech"
+- 
+  link: "https://feeds.megaphone.fm/LDB8042666505"
+  name: "Modern CTO with Joel Beasley"
+- 
+  link: "https://podcasts.files.bbci.co.uk/b0070lr5.rss"
+  name: "Wake Up to Money"
+- 
+  link: "https://anchor.fm/s/62d78914/podcast/rss"
+  name: "Fozcast - The Ben Foster Podcast"
+- 
+  link: "https://feeds.megaphone.fm/mofi"
+  name: "Modern Finance"
+- 
+  link: "https://feeds.simplecast.com/47yfLpm0"
+  name: "The Secure Developer"
+- 
+  link: "https://feeds.simplecast.com/sizSRIY9"
+  name: "CIO Exchange Podcast"
+- 
+  link: "https://feed.podbean.com/CISOtalk/feed.xml"
+  name: "CISO Talk"
+- 
+  link: "https://feed.podbean.com/cisotradecraft/feed.xml"
+  name: "CISO Tradecraft"
+- 
+  link: "https://devopsradio.libsyn.com/rss"
+  name: "DevOps Radio"
+- 
+  link: "https://feed.podbean.com/yolkrec/feed.xml"
+  name: "The Yolk Podcast - home to Diversity Champions"
+- 
+  link: "https://rss.acast.com/working-it"
+  name: "Working It"
+- 
+  link: "http://rss.acast.com/ft-politics"
+  name: "Payne's Politics"
+- 
+  link: "https://feeds.acast.com/public/shows/61850ae845b6e300132557e2"
+  name: "New Scientist Weekly"
+- 
+  link: "https://feeds.acast.com/public/shows/618975a0e897b500196a08f6"
+  name: "The Agile Pubcast"
+- 
+  link: "https://feeds.captivate.fm/the-hedge/"
+  name: "The Hedge"
+- 
+  link: "https://feeds.captivate.fm/late-night-disclosure/"
+  name: "Late Night Disclosure"
+- 
+  link: "https://feeds.buzzsprout.com/1765385.rss"
+  name: "The Crypto Standard"
+- 
+  link: "https://rss.acast.com/cyber"
+  name: CYBER
+- 
+  link: "https://anchor.fm/s/208bb788/podcast/rss"
+  name: "All Agile Guides"
+- 
+  link: "https://feeds.megaphone.fm/tamc1411507018"
+  name: "Football Cliches - A show about the language of football"
+- 
+  link: "https://fasuccess.libsyn.com/rss"
+  name: "Financial Advisor Success"
+- 
+  link: "https://feed.podbean.com/moneyinfo/feed.xml"
+  name: "The AdviserTech Unplugged Podcast"
+- 
+  link: "https://pinecast.com/feed/the-prosperity-project"
+  name: "The Prosperity Project"
+- 
+  link: "https://feed.podbean.com/breakingchanges/feed.xml"
+  name: "Breaking Changes"
