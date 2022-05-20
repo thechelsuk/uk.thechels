@@ -2771,6 +2771,27 @@
       thumbnail: "https://books.google.com/books/content?id=ML1kmwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Art_of_Running_Faster.html?hl=&id=ML1kmwEACAAJ"
+  - isbn: "9781450431835"
+    dateFinished: "2022-05-21"
+    title: "Daniels' Running Formula-3rd Edition"
+    authors:
+      - "Jack Daniels"
+    publishedDate: "2013-12-31"
+    description: "Explains how to determine an ideal training pace, provides pacing tables for individual races, suggests race strategies, and offers guidelines to protect against injury."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781450431835"
+      - type: "ISBN_10"
+        identifier: "1450431836"
+    pageCount: 306
+    printType: "BOOK"
+    categories:
+      - "Sports & Recreation"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=m6VVAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=m6VVAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Daniels_Running_Formula_3rd_Edition.html?hl=&id=m6VVAgAAQBAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
