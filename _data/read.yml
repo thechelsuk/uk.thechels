@@ -2854,6 +2854,27 @@
       thumbnail: "https://books.google.com/books/content?id=ciVvMwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Football_League_Tables_1888_2004.html?hl=&id=ciVvMwEACAAJ"
+  - isbn: "9781509820252"
+    dateFinished: "2022-05-21"
+    title: "Cooking for Family and Friends"
+    authors:
+      - "Joe Wicks"
+    publishedDate: "2017-05-30"
+    description: "Who said working out was all work and no play? Eat more, build muscle, burn fat, and get social with bestselling cookbook author and fitness coach, Joe Wicks! Do you find it tricky to balance eating healthy with cooking for a crowd? In Cooking for Family and Friends Joe Wicks, aka The Body Coach, presents over one hundred delicious and nutritious recipes, perfect for sharing with the special people in your life. An extensive collection of Joe's simple favourites and proven crowd-pleasers - such as Roast Chicken with Celeriac Mash and Bacon Greens, BBQ Ribs with Dirty Corn, and Tandoori Chicken Thighs with Chapattis - each recipe is big on flavour and packed with the essential ingredients needed to burn fat and fuel your workout."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1509820256"
+      - type: "ISBN_13"
+        identifier: "9781509820252"
+    pageCount: 240
+    printType: "BOOK"
+    categories:
+      - "Cooking (Natural foods)"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=zZVsAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=zZVsAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Cooking_for_Family_and_Friends.html?hl=&id=zZVsAQAACAAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
