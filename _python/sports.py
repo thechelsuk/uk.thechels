@@ -36,7 +36,7 @@ for fixture in sorted(fixtures):
 
 # processing
 if __name__ == "__main__":
-    p = root / "morning.html"
+    p = root / "_pages/morning.md"
     c = p.open().read()
     f = helper.replace_chunk(c, "sports_marker", f"<ul>\n{pre_content}</ul>")
     p.open("w").write(f)
