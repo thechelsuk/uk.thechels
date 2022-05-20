@@ -12,8 +12,8 @@ title : Podcasts
   {% unless category == this_category %}
     {% assign category = this_category %}
     <h2>{{ category }}</h2>
-  <ul>
   {% endunless %}
-        <li>{{pod.name}} <a href="{{pod.link}}">&rarr;</a></li>
+         <article class="posts">
+            {{pod.name}} <a href="{{pod.link}}">&rarr;</a>
+          </article>
   {% endfor %}
-  </ul>
