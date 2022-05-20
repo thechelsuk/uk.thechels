@@ -1,53 +1,70 @@
 --- 
 - 
+  category: "Music"
   link: "https://podcasts.files.bbci.co.uk/p02nrw4q.rss"
   name: "BBC Music Introducing Mixtape"
 - 
+  category: "Technology"  
   link: "https://vector.libsyn.com/rss"
   name: Vector
 - 
+  category: "Engineering"  
   link: "https://msdevshow.libsyn.com/rss"
   name: "MS Dev Show"
 - 
+  category: "Sport"  
   link: "https://podcast.global.com/show/3382900/episodes/feed"
   name: "The Gary Neville Podcast"
 - 
+  category: "Sport"
   link: "https://podcast.global.com/show/3382902/episodes/feed"
   name: "The Sky Sports Football Podcast"
 - 
+  category: "Other"
   link: "https://rss.acast.com/feelbetterlivemore"
   name: "Feel Better, Live More with Dr Rangan Chatterjee"
 - 
+  category: "Engineering"
   link: "http://feeds.feedburner.com/SoftSkillsEngineering"
   name: "Soft Skills Engineering"
 - 
+  category: "Technology"
   link: "https://www.relay.fm/clockwise/feed"
   name: Clockwise
 - 
+  category: "Technology"
   link: "https://www.relay.fm/canvas/feed"
   name: Canvas
 - 
+  category: "Other"
   link: "https://rss.acast.com/secretsofthesidehustle"
   name: "Secrets of the Side Hustle"
 - 
+  category: "Other"
   link: "https://anchor.fm/s/215b100/podcast/rss"
   name: "The Everyday Podcast"
 - 
+  category: "Business"
   link: "http://feeds.feedburner.com/iTunesPodcastTTBusiness"
   name: "TED Business"
 - 
+  category: "Engineering"
   link: "https://talkpython.fm/episodes/rss"
   name: "Talk Python To Me"
 - 
+  category: "Other"
   link: "https://feeds.transistor.fm/the-minimalist-vegan-podcast"
   name: "The Minimalist Vegan Podcast"
 - 
+  category: "Business"
   link: "https://rss.art19.com/business-casual"
   name: "Business Casual"
 - 
+  category: "Other"
   link: "https://philosophybites.libsyn.com/rss"
   name: "Philosophy Bites"
 - 
+  category: "Finance"
   link: "https://feeds.npr.org/510289/podcast.xml"
   name: "Planet Money"
 - 
