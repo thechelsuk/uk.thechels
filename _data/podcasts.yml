@@ -4,10 +4,6 @@
   link: "https://podcasts.files.bbci.co.uk/p02nrw4q.rss"
   name: "BBC Music Introducing Mixtape"
 - 
-  category: "Technology"  
-  link: "https://vector.libsyn.com/rss"
-  name: Vector
-- 
   category: "Engineering"  
   link: "https://msdevshow.libsyn.com/rss"
   name: "MS Dev Show"
@@ -20,10 +16,6 @@
   link: "https://podcast.global.com/show/3382902/episodes/feed"
   name: "The Sky Sports Football Podcast"
 - 
-  category: "Other"
-  link: "https://rss.acast.com/feelbetterlivemore"
-  name: "Feel Better, Live More with Dr Rangan Chatterjee"
-- 
   category: "Engineering"
   link: "http://feeds.feedburner.com/SoftSkillsEngineering"
   name: "Soft Skills Engineering"
@@ -31,10 +23,6 @@
   category: "Technology"
   link: "https://www.relay.fm/clockwise/feed"
   name: Clockwise
-- 
-  category: "Technology"
-  link: "https://www.relay.fm/canvas/feed"
-  name: Canvas
 - 
   category: "Other"
   link: "https://rss.acast.com/secretsofthesidehustle"
@@ -155,14 +143,6 @@
   link: "http://rss.acast.com/investorschronicle"
   name: "Investors' Chronicle"
 - 
-  category: "Sport" 
-  link: "https://rss.acast.com/the-runners-world-uk-podcast"
-  name: "The Runner's World UK Podcast"
-- 
-  category: "Sport" 
-  link: "https://www.britishultrarunningpodcast.com/?feed=podcast"
-  name: "British Ultra Running Podcast"
-- 
   category: "Technology"
   link: "http://feeds.feedburner.com/TEDTalks_audio"
   name: "TED Talks Daily"
@@ -170,10 +150,6 @@
   category: "Engineering"
   link: "https://shoptalkshow.com/feed/podcast"
   name: "ShopTalk"
-- 
-  category: "Engineering"
-  link: "https://agilein3minut.es/archive/index.rss"
-  name: "Agile in 3 Minutes"
 - 
   category: "Engineering"
   link: "http://agilecoffee.com/feed/podcast/"
@@ -270,10 +246,7 @@
   category: "Engineering"
   link: "https://authorityissu.es/rss"
   name: "Authority Issues"
-- 
-  category: "Technology"
-  link: "https://www.relay.fm/roboism/feed"
-  name: "Roboism"
+
 - 
   category: "Technology"
   link: "https://acquired.libsyn.com/rss"
@@ -378,10 +351,6 @@
   category: "Finance"  
   link: "https://podcasts.files.bbci.co.uk/b006qjnv.rss"
   name: "Money Box"
-- 
-  category: "Engineering"
-  link: "http://feeds.feedburner.com/thisagilelife/podcast"
-  name: "This Agile Life"
 - 
   category: "Other"
   link: "https://feeds.simplecast.com/oFb7TFSC"
@@ -541,10 +510,6 @@
   category: "Engineering"
   link: "https://feeds.soundcloud.com/users/soundcloud:users:171473946/sounds.rss"
   name: "Reflection as a Service"
-- 
-  category: "Sport"
-  link: "https://feeds.soundcloud.com/users/soundcloud:users:338016727/sounds.rss"
-  name: "the morning shakeout podcast"
 - 
   category: "Finance"  
   link: "https://feeds.soundcloud.com/users/soundcloud:users:176298819/sounds.rss"
