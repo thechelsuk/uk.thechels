@@ -1,6 +1,8 @@
 ---
 layout: morning
 title: Good Morning
+permalink: /morning
+
 ---
 
 <!-- weather_marker starts -->
