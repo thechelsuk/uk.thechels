@@ -1,5 +1,4 @@
 name: Morning Run
-# build and tweet
 on:
   workflow_dispatch:
   schedule:
