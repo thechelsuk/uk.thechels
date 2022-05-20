@@ -10,7 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Stocks
-    if: contains( github.event.issue.labels.*.name, 'stocks')
+    if: contains( github.event.issue.labels.*.name, 'stocks') && ${{ github.actor == github.repository_owner }}
     steps:
     - name: Check out repo
       uses: actions/checkout@v3
