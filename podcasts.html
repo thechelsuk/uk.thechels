@@ -6,7 +6,7 @@ title : Podcasts
 
 <p>{{ site.data.podcasts | size }} podcast subscriptions.</p>
 
-{% assign podcasts = site.data.podcasts | group_by: "category" %}
+{% assign podcasts = site.data.podcasts | sort: "category" %}
 {% for cat in podcasts %}
   {% capture this_cat %}{{ cat.category }}{% endcapture %}
   {% unless curr_cat == this_cat %}
