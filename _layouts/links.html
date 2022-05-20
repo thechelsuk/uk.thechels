@@ -1,9 +1,5 @@
----
-layout : default
-title : Links
-
----
-
+{% include header.html %}
+<h2 class="post-title">{{ page.title }}</h2>
 <ul class="links">
   {% for item in site.data.links %}
   <li><a href="{{item.link}}">{{item.title}}</a></li>
@@ -11,9 +7,9 @@ title : Links
 </ul>
 
 <h3>Offers</h3>
-
 <ul class="Offers">
   {% for item in site.data.offers %}
   <li><a rel="sponsored" href="{{item.link}}">{{item.title}}</a></li>
   {% endfor %}
 </ul>
+{% include footer.html %}

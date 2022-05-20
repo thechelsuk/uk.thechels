@@ -2707,6 +2707,218 @@
       thumbnail: "https://books.google.com/books/content?id=A4jAwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Four_Obsessions_of_an_Extraordinary.html?hl=&id=A4jAwAEACAAJ"
+  - isbn: "9780321127426"
+    dateFinished: "2022-05-21"
+    title: "Patterns of Enterprise Application Architecture"
+    authors:
+      - "Martin Fowler"
+    publishedDate: "2003"
+    description: "This volume is a handbook for enterprise system developers, guiding them through the intricacies and lessons learned in enterprise application development. It provides proven solutions to the everyday problems facing information systems developers."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780321127426"
+      - type: "ISBN_10"
+        identifier: "0321127420"
+    pageCount: 533
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=Jl5rkQnbfAIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=Jl5rkQnbfAIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Patterns_of_Enterprise_Application_Archi.html?hl=&id=Jl5rkQnbfAIC"
+  - isbn: "9780595201815"
+    dateFinished: "2022-05-21"
+    title: "Asian Horror Encyclopedia"
+    authors:
+      - "Laurence C. Bush"
+    publishedDate: "2001"
+    description: "The Asian Horror Encyclopedia is the first reference work of its kind in English. It covers Asian horror culture in literature, art, film and comics. From its roots in ancient Chinese folklore to the best-selling Japanese horror novelists of today, this book is a handy alphabetic reference, collecting scarce information from obscure sources."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780595201815"
+      - type: "ISBN_10"
+        identifier: "0595201814"
+    pageCount: 227
+    printType: "BOOK"
+    categories:
+      - "Literary Criticism"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=9_RvVRPMFeIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=9_RvVRPMFeIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Asian_Horror_Encyclopedia.html?hl=&id=9_RvVRPMFeIC"
+  - isbn: "9780736095501"
+    dateFinished: "2022-05-21"
+    title: "The Art of Running Faster"
+    authors:
+      - "Julian Goater"
+      - "Don Melvin"
+    publishedDate: "2012-02-28"
+    description: "Offers advice for improving running speed, helping runners overcome physical and psychological obstacles, rethink traditional training methods, and customize training programs to achieve running goals."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0736095500"
+      - type: "ISBN_13"
+        identifier: "9780736095501"
+    pageCount: 198
+    printType: "BOOK"
+    categories:
+      - "Sports & Recreation"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=ML1kmwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=ML1kmwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Art_of_Running_Faster.html?hl=&id=ML1kmwEACAAJ"
+  - isbn: "9781450431835"
+    dateFinished: "2022-05-21"
+    title: "Daniels' Running Formula-3rd Edition"
+    authors:
+      - "Jack Daniels"
+    publishedDate: "2013-12-31"
+    description: "Explains how to determine an ideal training pace, provides pacing tables for individual races, suggests race strategies, and offers guidelines to protect against injury."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781450431835"
+      - type: "ISBN_10"
+        identifier: "1450431836"
+    pageCount: 306
+    printType: "BOOK"
+    categories:
+      - "Sports & Recreation"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=m6VVAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=m6VVAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Daniels_Running_Formula_3rd_Edition.html?hl=&id=m6VVAgAAQBAJ"
+  - isbn: "9781472973405"
+    dateFinished: "2022-05-21"
+    title: "Running in the Midpack"
+    authors:
+      - "Martin Yelling"
+      - "Anji Andrews"
+    publishedDate: "2021-04-06"
+    description: "An expert running guide designed to engage with the substantial, and growing, yet often overlooked, middle-of-the-pack runner, by Martin Yelling, the London Marathon's official coach. While most running guides favor beginners and elite runners, this groundbreaking book is specially devised with mid-packers in mind and will provide this important group with all the expert knowledge they need to go faster and go further. Running in the Mid-Pack will offer advice on how to reduce the risk of injuries, work through performance plateaus, and bring more enjoyment to the training process through a fascinating mix of expert knowledge, runners' stories and sample workouts."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781472973405"
+      - type: "ISBN_10"
+        identifier: "1472973402"
+    pageCount: 224
+    printType: "BOOK"
+    categories:
+      - "Sports & Recreation"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=jOgbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=jOgbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Running_in_the_Midpack.html?hl=&id=jOgbEAAAQBAJ"
+  - isbn: "9780954642891"
+    dateFinished: "2022-05-21"
+    title: "The Chelsea Miscellany"
+    authors:
+      - "Clive Batty"
+    publishedDate: "2005-09-01"
+    description: "From the club's record own-goal scorer to the name of Frank Lampard's bulldog, The Chelsea Miscellany contains everything one has ever wanted to know about the current Premier League Champions. The fascinating trivia includes info on which members of the Eastenders cast support the Blues, which former Chelsea player once appeared on Blind Date and extensive quote sections."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0954642899"
+      - type: "ISBN_13"
+        identifier: "9780954642891"
+    pageCount: 160
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=KkA0AAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=KkA0AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Chelsea_Miscellany.html?hl=&id=KkA0AAAACAAJ"
+  - isbn: "9781862231047"
+    dateFinished: "2022-05-21"
+    title: "Football League Tables, 1888-2004"
+    authors:
+      - "Michael Robinson"
+    publishedDate: "2004-08"
+    description: "A statistician's dream, this 7th edition will be published in a larger-format and gives the final league tables for all Football League, Premier League and Scottish Football League Clubs from the beginning of the leagues to the present day. In addition, this book will also contain details of the Semi-Finals and Final of the F.A. Cup, League Cup, Scottish Cup and Scottish League Cup for every year of the competition."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1862231044"
+      - type: "ISBN_13"
+        identifier: "9781862231047"
+    pageCount: 144
+    printType: "BOOK"
+    categories:
+      - "Soccer"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=ciVvMwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=ciVvMwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Football_League_Tables_1888_2004.html?hl=&id=ciVvMwEACAAJ"
+  - isbn: "9781509820252"
+    dateFinished: "2022-05-21"
+    title: "Cooking for Family and Friends"
+    authors:
+      - "Joe Wicks"
+    publishedDate: "2017-05-30"
+    description: "Who said working out was all work and no play? Eat more, build muscle, burn fat, and get social with bestselling cookbook author and fitness coach, Joe Wicks! Do you find it tricky to balance eating healthy with cooking for a crowd? In Cooking for Family and Friends Joe Wicks, aka The Body Coach, presents over one hundred delicious and nutritious recipes, perfect for sharing with the special people in your life. An extensive collection of Joe's simple favourites and proven crowd-pleasers - such as Roast Chicken with Celeriac Mash and Bacon Greens, BBQ Ribs with Dirty Corn, and Tandoori Chicken Thighs with Chapattis - each recipe is big on flavour and packed with the essential ingredients needed to burn fat and fuel your workout."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1509820256"
+      - type: "ISBN_13"
+        identifier: "9781509820252"
+    pageCount: 240
+    printType: "BOOK"
+    categories:
+      - "Cooking (Natural foods)"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=zZVsAQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=zZVsAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Cooking_for_Family_and_Friends.html?hl=&id=zZVsAQAACAAJ"
+  - isbn: "9780879307363"
+    dateFinished: "2022-05-21"
+    title: "All Music Guide to the Blues"
+    authors:
+      - "Vladimir Bogdanov"
+      - "Chris Woodstra"
+      - "Stephen Thomas Erlewine"
+    publishedDate: "2003"
+    description: "Reviews and rates the best recordings of 8,900 blues artists in all styles."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0879307366"
+      - type: "ISBN_13"
+        identifier: "9780879307363"
+    pageCount: 755
+    printType: "BOOK"
+    categories:
+      - "Music"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=qYtz7kEHegEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=qYtz7kEHegEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/All_Music_Guide_to_the_Blues.html?hl=&id=qYtz7kEHegEC"
+  - isbn: "9780321127426"
+    dateFinished: "2022-05-21"
+    title: "Patterns of Enterprise Application Architecture"
+    authors:
+      - "Martin Fowler"
+    publishedDate: "2003"
+    description: "This volume is a handbook for enterprise system developers, guiding them through the intricacies and lessons learned in enterprise application development. It provides proven solutions to the everyday problems facing information systems developers."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780321127426"
+      - type: "ISBN_10"
+        identifier: "0321127420"
+    pageCount: 533
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=Jl5rkQnbfAIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=Jl5rkQnbfAIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Patterns_of_Enterprise_Application_Archi.html?hl=&id=Jl5rkQnbfAIC"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"

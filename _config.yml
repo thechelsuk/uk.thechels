@@ -24,3 +24,4 @@ exclude:
   - _config/
 include:
   - ".well-known"
+  - "_pages"

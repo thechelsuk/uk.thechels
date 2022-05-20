@@ -1,0 +1,18 @@
+{% include header.html %}
+<h2 class="post-title">{{ page.title }}</h2>
+<p>{{ site.data.podcasts | size }} podcast subscriptions.</p>
+{% assign podcasts = site.data.podcasts | sort: "category" %}
+{% for cat in podcasts %}
+  {% capture this_cat %}{{ cat.category }}{% endcapture %}
+  {% unless curr_cat == this_cat %}
+    {% assign curr_cat = this_cat %}
+    <h2>{{ curr_cat }}</h2>
+    {% assign subitems = podcasts | where: 'category', curr_cat | sort: "name" %}
+    {% for item in subitems %}
+         <article class="posts">
+           {{item.name}} <span class="num-words"><a href="{{item.link}}">Feed &rarr;</a></span>
+          </article>
+    {% endfor %}
+  {% endunless %}
+{% endfor %}
+{% include footer.html %}

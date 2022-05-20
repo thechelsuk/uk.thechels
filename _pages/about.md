@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-
+permalink: /about
 --- 
 
 ![banner photo of Mat running in London](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/images/gh-header-image-cropped.jpg)
@@ -24,6 +24,7 @@ I also love listening to [podcasts so please help me find more](https://github.c
 ## Around the web
 
 - [GitHub](https://github.com/MatBenfield/)
+- [Keybase](https://keybase.io/MatBenfield)
 - [LinkedIn](https://www.linkedin.com/in/mat-benfield/)
 - [MeetUp](https://www.meetup.com/members/197754442/)
 - [Strava](https://www.strava.com/athletes/24249743)

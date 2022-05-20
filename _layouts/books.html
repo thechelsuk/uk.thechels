@@ -1,11 +1,6 @@
----
-layout : default
-title : Bookshelf
-
----
-
+{% include header.html %}
+<h2 class="post-title">{{ page.title }}</h2>
 <p>{{ site.data.read | size }} books I have read since 2019</p>
-
 <div class="book-list">
   {% assign books = site.data.read | sort: "dateFinished" | reverse %}
   {% for book in books %}
@@ -14,3 +9,4 @@ title : Bookshelf
   </div>
   {% endfor %}
 </div>
+{% include footer.html %}

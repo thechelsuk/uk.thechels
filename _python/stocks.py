@@ -19,7 +19,7 @@ def get_stocks(set_of_tickers):
 
 # output
 if __name__ == "__main__":
-    p = root / "morning.html"
+    p = root / "_pages/morning.md"
     c = p.open().read()
     s = get_stocks(stocks_list)
     f = helper.replace_chunk(c, "stocks_marker", f"<ul>\n{s}</ul>")

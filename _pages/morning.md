@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: morning
 title: Good Morning
+permalink: /morning
+
 ---
 
 <!-- weather_marker starts -->
@@ -28,20 +30,3 @@ title: Good Morning
 <ul>
 <li>No fixtures today</li></ul>
 <!-- sports_marker ends -->
-
-
-<h3>Random quote</h3>
-{% assign min = 1 %}
-{% assign max = site.data.quotes.size %}
-{% assign diff = max | minus: min %}
-{% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
-{% assign quote =  site.data.quotes[item] %}
-<p class="quote">{{ quote }}</p>
-
-<h3>Now &amp; Next</h3>
-<small>Based on <a href="https://thenow.page">the now page</a>, an idea by <a href="https://sive.rs/nowff">Derek Sivers</a></small>
-<ul class="now">
-  {% for item in site.data.next %}
-    <li>{{item}}</li>
-  {% endfor %}
-</ul>
