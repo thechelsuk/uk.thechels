@@ -8,11 +8,13 @@ title : Podcasts
 
 {% assign podcasts = site.data.podcasts | group_by: "category" | sort: "name" %}
 {% for item in podcasts %}
+{{ podcasts | size }}
   {% capture this_category %}{{ item.category }}{% endcapture %}
+{{ item.category }}
   {% unless category == this_category %}
     {% assign category = this_category %}
     <h2>{{ category }}</h2>
-    {% for item in podcasts[category] %}
+    {% for item in podcasts['category'] %}
          <article class="posts">
            {{item.name}} <span class="num-words"><a href="{{item.link}}">Feed &rarr;</a></span>
           </article>
