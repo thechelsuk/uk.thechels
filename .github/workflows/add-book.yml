@@ -7,7 +7,7 @@ jobs:
   update_library:
     runs-on: macOS-latest
     name: Read
-    if: contains( github.event.issue.labels.*.name, 'read')
+    if: contains( github.event.issue.labels.*.name, 'read') && ${{ github.actor == github.repository_owner }}
     steps:
       - name: Checkout
         uses: actions/checkout@v3
