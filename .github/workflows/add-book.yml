@@ -1,3 +1,4 @@
+---
 name: Add Book
 on:
   issues:
@@ -7,14 +8,17 @@ jobs:
   update_library:
     runs-on: macOS-latest
     name: Read
-    if: contains( github.event.issue.labels.*.name, 'read') && ${{ github.actor == github.repository_owner }}
+    if: contains( github.event.issue.labels.*.name, 'read') 
+      && ${{ github.actor == github.repository_owner }}
     steps:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Read
         uses: katydecorah/read-action@v3.0.1
       - name: Download the book thumbnail
-        run: curl "${{ env.BookThumb }}" -o "images/books/${{ env.BookThumbOutput }}"
+        run: |
+          curl "${{ env.BookThumb }}" 
+          -o "images/books/${{ env.BookThumbOutput }}"
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
