@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-
+permalink: /about
 --- 
 
 ![banner photo of Mat running in London](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/images/gh-header-image-cropped.jpg)
