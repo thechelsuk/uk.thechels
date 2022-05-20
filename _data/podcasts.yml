@@ -72,18 +72,23 @@
   link: "https://www.relay.fm/adapt/feed"
   name: Adapt
 - 
+  category: "Engineering" 
   link: "https://anchor.fm/s/ab6c2e0/podcast/rss"
   name: "Email's Not Dead"
 - 
+  category: "Engineering" 
   link: "https://pinecast.com/feed/ladybug-podcast"
   name: "Ladybug Podcast"
 - 
+  category: "Sport" 
   link: "https://audioboom.com/channels/4951198.rss"
   name: "Let's Get Running Podcast"
 - 
+  category: "Engineering" 
   link: "https://happymelly.libsyn.com/rss"
   name: "Happiness at Work"
 - 
+  category: "Engineering" 
   link: "https://agile.fm/agilefm?format=rss"
   name: "Agile FM"
 - 
@@ -91,132 +96,170 @@
   link: "https://whatthefuckjusthappenedtoday.com/podcasts/index.xml"
   name: "WTF Just Happened Today"
 - 
+  category: "Engineering" 
   link: "https://feeds.simplecast.com/dLRotFGk"
   name: "Developer Tea"
 - 
+  category: "Sport" 
   link: "http://rss.acast.com/runningcommentary"
   name: "Running Commentary"
 - 
+  category: "Engineering" 
   link: "https://www.codingblocks.net/podcast-feed.xml"
   name: "Coding Blocks"
 - 
+  category: "Engineering" 
   link: "https://feeds.simplecast.com/g9PZ_Kwb"
   name: "The Five-Minute Geek Show"
 - 
+  category: "Finance" 
   link: "https://audioboom.com/channels/3223350.rss"
   name: "This is Money Podcast"
 - 
+  category: "Engineering" 
   link: "http://feeds.feedburner.com/EngagingLeader"
   name: "Engaging Leader: Leadership communication principles with Jesse Lahey"
 - 
   link: "https://www.omnycontent.com/d/playlist/5873abf1-8292-4fa9-99d7-a58d00e97be5/82b96a6f-ec25-400d-b02c-a99f01144055/f030d030-55ba-4e50-8310-a99f0114b2b2/podcast.rss"
   name: "Business Problems Solved Podcast"
 - 
+  category: "Finance" 
   link: "http://rss.acast.com/ft-money-show"
   name: "Money Clinic with Claer Barrett"
 - 
+  category: "Engineering" 
   link: "https://anchor.fm/s/28cc2a4/podcast/rss"
   name: "People Leading People"
 - 
+  category: "Engineering" 
   link: "http://feeds.feedburner.com/meta-cast"
   name: "Meta-Cast"
 - 
+  category: "Sport" 
   link: "https://feeds.megaphone.fm/VMP7067742318"
   name: "We Ain't Got No History: for Chelsea FC fans"
 - 
+  category: "Other" 
   link: "https://daringfireball.net/thetalkshow/rss"
   name: "The Talk Show With John Gruber"
 - 
+  category: "News" 
   link: "https://feedpress.me/9to5macdaily"
   name: "9to5Mac Daily"
 - 
+  category: "Sport"  
   link: "https://thewayoftherunner.libsyn.com/rss"
   name: "The Way of the Runner - conversations on running with Adharanand Finn"
 - 
+  category: "Other" 
   link: "https://podcasts.files.bbci.co.uk/b00lvdrj.rss"
   name: "Kermode and Mayo's Film Review"
 - 
+  category: "Finance" 
   link: "http://rss.acast.com/investorschronicle"
   name: "Investors' Chronicle"
 - 
+  category: "Sport" 
   link: "https://rss.acast.com/the-runners-world-uk-podcast"
   name: "The Runner's World UK Podcast"
 - 
+  category: "Sport" 
   link: "https://www.britishultrarunningpodcast.com/?feed=podcast"
   name: "British Ultra Running Podcast"
 - 
+  category: "Technology"
   link: "http://feeds.feedburner.com/TEDTalks_audio"
   name: "TED Talks Daily"
 - 
+  category: "Engineering"
   link: "https://shoptalkshow.com/feed/podcast"
   name: "ShopTalk"
 - 
+  category: "Engineering"
   link: "https://agilein3minut.es/archive/index.rss"
   name: "Agile in 3 Minutes"
 - 
+  category: "Engineering"
   link: "http://agilecoffee.com/feed/podcast/"
   name: "The Agile Coffee Podcast"
 - 
+  category: "Engineering"
   link: "https://feedpress.me/s"
   name: "Systematic"
 - 
+  category: "Sport" 
   link: "https://withmenow.libsyn.com/rss"
   name: "With Me Now's podcast"
 - 
+  category: "Technology"
   link: "http://feeds.feedburner.com/iTunesPodcastTTTechnology"
   name: "TED Talks Technology"
 - 
+  category: "Finance"  
   link: "https://rss.acast.com/theeconomistmoneytalks"
   name: "Money Talks from The Economist"
 - 
-  link: "https://marathontalk.libsyn.com/rss"
-  name: "Marathon Talk"
-- 
+  category: "Engineering"
   link: "https://changelog.com/afk/feed"
   name: "Away from Keyboard"
 - 
+  category: "Sport" 
   link: "https://freeweeklytimed.libsyn.com/rss"
   name: "Free Weekly Timed"
 - 
+  category: "Engineering"
   link: "https://scrummastertoolbox.libsyn.com/rss"
   name: "Scrum Master Toolbox Podcast: Agile storytelling from the trenches"
 - 
+  category: "Engineering"
   link: "https://leadershipmadeeasy.libsyn.com/rss"
   name: "Leadership Made Easy"
 - 
+  category: "Engineering"
   link: "https://changelog.com/podcast/feed"
   name: "The Changelog: Software Development, Open Source"
 - 
+  category: "Engineering"
   link: "https://www.allthingsgit.com/episodes.xml"
   name: "All Things Git"
 - 
+  category: "Engineering"
   link: "https://feeds.podcastmirror.com/coaching-for-leaders"
   name: "Coaching for Leaders"
 - 
+  category: "Sport" 
   link: "https://tbtrp.libsyn.com/rss"
   name: "The British Trail Running Podcast"
 - 
+  category: "Engineering"
   link: "https://feeds.feedburner.com/WorklifeWithAdamGrant"
   name: "WorkLife with Adam Grant"
 - 
+  category: "News"
   link: "https://podcasts.files.bbci.co.uk/p002vsxs.rss"
   name: "Business Daily"
 - 
+  category: "Engineering"
   link: "http://feeds.feedburner.com/processbreakdown-audio"
   name: "Process Breakdown Podcast (audio)"
 - 
+  category: "Sport" 
   link: "http://recovery-run.blubrry.net/feed/podcast/"
   name: "Recovery Run"
 - 
+  category: "Technology"
   link: "https://appstories.net/episodes/feed/"
   name: "AppStories"
 - 
+  category: "Finance"  
   link: "https://meaningfulmoney.libsyn.com/rss"
   name: "The Meaningful Money Personal Finance Podcast"
 - 
+  category: "Engineering"
   link: "https://thoughtworks.libsyn.com/rss"
   name: "Thoughtworks Technology Podcast"
 - 
+  category: "Other"
   link: "https://feeds.transistor.fm/bootstrapped-digest-with-ashley-baxter"
   name: "Bootstrapped Digest with Ashley Baxter"
 - 
@@ -224,15 +267,19 @@
   link: "https://rss.acast.com/ftnewsbriefing"
   name: "FT News Briefing"
 - 
+  category: "Engineering"  
   link: "https://developer.starlingbank.com/feed.xml"
   name: "Starling Developer Podcast"
 - 
+  category: "Engineering"
   link: "https://authorityissu.es/rss"
   name: "Authority Issues"
 - 
+  category: "Technology"
   link: "https://www.relay.fm/roboism/feed"
   name: "Roboism"
 - 
+  category: "Technology"
   link: "https://acquired.libsyn.com/rss"
   name: "Acquired"
 - 
@@ -240,72 +287,91 @@
   link: "http://feeds.wnyc.org/onthemedia"
   name: "On the Media"
 - 
+  category: "Engineering"
   link: "https://feeds.simplecast.com/W8bGHhCA"
   name: "Weekly Dev Tips"
 - 
+  category: "Sport"  
   link: "https://feeds.simplecast.com/z8ydAYNE"
   name: "Athletes Unfiltered – Strava Podcast"
 - 
+  category: "Engineering"
   link: "http://feeds.feedburner.com/agileforhumans"
   name: "Agile for Humans with Ryan Ripley and Todd Miller"
 - 
+  category: "Finance"  
   link: "https://podcasts.files.bbci.co.uk/p02pc9xt.rss"
   name: "Ask Martin Lewis Podcast"
 - 
+  category: "Engineering"
   link: "https://deliveritcast.libsyn.com/rss"
   name: "Deliver It Cast"
 - 
+  category: "Sport"
   link: "https://strengthrunning.libsyn.com/rss"
   name: "The Strength Running Podcast"
 - 
+  category: "Engineering"
   link: "https://www.arresteddevops.com/episode/index.xml"
   name: "Arrested DevOps"
 - 
+  category: "Engineering"
   link: "https://feeds.podcastmirror.com/the-product-experience"
   name: "The Product Experience"
 - 
+  category: "Technology"
   link: "https://www.relay.fm/automators/feed"
   name: "Automators"
 - 
+  category: "Engineering"
   link: "http://feeds.feedburner.com/NoDogmaPodcast"
   name: "no dogma podcast"
 - 
+  category: "Engineering"
   link: "https://stackoverflow.blog/podcast/?feed=podcast"
   name: "The Stack Overflow Podcast"
 - 
+  category: "News"
   link: "https://feeds.npr.org/510298/podcast.xml"
   name: "TED Radio Hour"
 - 
+  category: "Security"
   link: "https://www.omnycontent.com/d/playlist/1439345f-6152-486d-a9c2-a6bf0067f2b7/3ba9af7f-3bfb-48fd-aae7-a6bf00689c10/fde26e49-9fb8-457d-8f16-a6bf00696676/podcast.rss"
   name: "Troy Hunt's Weekly Update Podcast"
 - 
+  category: "Technology"
   link: "https://www.relay.fm/mpu/feed"
   name: "Mac Power Users"
 - 
+  category: "Engineering"
   link: "https://agileuprising.libsyn.com/rss"
   name: "Agile Uprising Podcast"
 - 
+  category: "Other"
   link: "https://theknowledgeproject.libsyn.com/rss"
   name: "The Knowledge Project with Shane Parrish"
 - 
-  link: "https://rss.acast.com/itsanitarani"
-  name: "It's Anita Rani"
-- 
+  category: "Engineering"
   link: "https://feeds.fireside.fm/standup/rss"
   name: "The Standup"
 - 
+  category: "Engineering"
   link: "http://cast.rocks/hosting/2041/feeds/CQMQA.xml"
   name: "Supertop Podcast"
 - 
+  category: "Engineering"
   link: "https://rss.art19.com/finding-mastery"
   name: "Finding Mastery"
 - 
+  category: "Engineering"
   link: "https://agileamped.libsyn.com/rss"
   name: "Agile Amped Podcast - Inspiring Conversations"
 - 
+  category: "Security"
   link: "https://feeds.megaphone.fm/hacking-humans"
   name: "Hacking Humans"
 - 
+  category: "Technology"
   link: "https://governmentdigitalservice.podbean.com/feed.xml"
   name: "Government Digital Service Podcast"
 - 
@@ -313,24 +379,31 @@
   link: "https://podcasts.files.bbci.co.uk/w13xtv39.rss"
   name: "Coronavirus Global Update"
 - 
+  category: "Finance"  
   link: "https://podcasts.files.bbci.co.uk/b006qjnv.rss"
   name: "Money Box"
 - 
+  category: "Engineering"
   link: "http://feeds.feedburner.com/thisagilelife/podcast"
   name: "This Agile Life"
 - 
+  category: "Other"
   link: "https://feeds.simplecast.com/oFb7TFSC"
   name: "RSA Events"
 - 
+  category: "Engineering"
   link: "https://doseofleadership.libsyn.com/rss"
   name: "Dose of Leadership with Richard Rierson"
 - 
+  category: "Sport"
   link: "https://florisgierman.libsyn.com/rss/"
   name: "The Extramilest Podcast"
 - 
+  category: "Sport"  
   link: "https://audioboom.com/channels/4973847.rss"
   name: "All Football Commentators Are Geeks!"
 - 
+  category: "Sport"  
   link: "https://feeds.megaphone.fm/tamc3480149888"
   name: "Straight Outta Cobham - A show about Chelsea"
 - 
@@ -338,6 +411,7 @@
   link: "https://57iy69iy4b.execute-api.eu-west-1.amazonaws.com/prod/PodcastAPI?cid=apym27dtie&pid=p05hh4qy"
   name: "BBC News"
 - 
+  category: "Technology"
   link: "https://atp.fm/episodes?format=rss"
   name: "Accidental Tech Podcast"
 - 
@@ -345,153 +419,202 @@
   link: "https://feed.podbean.com/notesontheweekahead/feed.xml"
   name: "Notes on the Week Ahead"
 - 
+  category: "Security"
   link: "https://feeds.megaphone.fm/darknetdiaries"
   name: "Darknet Diaries"
 - 
+  category: "Other"
   link: "https://rss.acast.com/whatever-next"
   name: "Whatever Next?"
 - 
+  category: "Technology"
   link: "https://feeds.twit.tv/stt.xml"
   name: "Smart Tech Today (Audio)"
 - 
+  category: "Finance"  
   link: "https://anchor.fm/s/c95b184/podcast/rss"
   name: "State of the Markets"
 - 
+  category: "Sport"  
   link: "http://rss.acast.com/chelseafancast"
   name: "Chelsea FanCast"
 - 
+  category: "Technology"
   link: "https://feeds.fireside.fm/launched/rss"
   name: "Launched"
 - 
+  category: "Sport"  
   link: "https://feeds.simplecast.com/JvuqtL6v"
   name: "Chelsea Mic'd Up: The Official Chelsea FC Podcast"
 - 
+  category: "News"
   link: "https://rss.art19.com/techmeme-ridehome"
   name: "Techmeme Ride Home"
 - 
+  category: "Engineering"
   link: "https://www.spreaker.com/show/4805674/episodes/feed"
   name: "Hacking Your Leadership Podcast"
 - 
+  category: "Engineering"
   link: "https://feeds.simplecast.com/Wfbh59LE"
   name: "Dads In Development"
 - 
+  category: "Technology"
   link: "https://feeds.megaphone.fm/the-wired-podcast"
   name: "The WIRED Podcast"
 - 
+  category: "Finance"  
   link: "https://www.londonfintechpodcast.com/feed/podcast/"
   name: "London Fintech Podcast"
 - 
+  category: "Finance"  
   link: "https://fi.11fs.com/rss"
   name: "Fintech Insider Podcast by 11:FS"
 - 
+  category: "Finance"  
   link: "http://feeds.feedburner.com/FintechNewscast"
   name: "FinTech Newscast"
 - 
+  category: "Engineering"
   link: "https://www.effectiveem.com/feed/podcast/"
   name: "Effective Engineering Manager"
 - 
+  category: "Finance"  
   link: "https://feeds.captivate.fm/that-mint-podcast/"
   name: "That Mint Podcast"
 - 
+  category: "Engineering"
   link: "https://feed.podbean.com/itrevolution/feed.xml"
   name: "The Idealcast with Gene Kim by IT Revolution"
 - 
+  category: "Engineering"
   link: "https://anchor.fm/s/3f8cebc/podcast/rss"
   name: "Mindset Explosion"
 - 
+  category: "Engineering"
   link: "https://anchor.fm/s/5a87b0f4/podcast/rss"
   name: "The ReadME Podcast"
 - 
+  category: "Engineering"
   link: "http://feeds.feedburner.com/twist-audio"
   name: "This Week in Startups"
 - 
+  category: "Other"
   link: "https://rss.art19.com/the-bid"
   name: "The Bid"
 - 
+  category: "Other"
   link: "https://rss.art19.com/spacecasts"
   name: "SpaceCasts"
 - 
+  category: "Other"
   link: "https://applehosted.podcasts.apple.com/apple_keynotes/apple_keynotes.xml"
   name: "Apple Events (video)"
 - 
+  category: "Other"
   link: "https://rss.art19.com/tim-ferriss-show"
   name: "The Tim Ferriss Show"
 - 
   link: "http://feeds.harvardbusiness.org/harvardbusiness/ideacast"
   name: "HBR IdeaCast"
 - 
+  category: "Other"
   link: "https://feeds.buzzsprout.com/992860.rss"
   name: "The End of the Day Podcast with Kari Watterson: Using Mindset Work to Live Your Best Life"
 - 
+  category: "Engineering"
   link: "https://therabbithole.libsyn.com/rss"
   name: "The Rabbit Hole: The Definitive Developer's Podcast"
 - 
+  category: "Finance"  
   link: "https://anchor.fm/s/41f55cbc/podcast/rss"
   name: "Retirementals"
 - 
+  category: "Finance"  
   link: "https://anchor.fm/s/4bc355dc/podcast/rss"
   name: "Handelsbanken Insights"
 - 
+  category: "Engineering"
   link: "https://feeds.soundcloud.com/users/soundcloud:users:274578276/sounds.rss"
   name: "Sprint"
 - 
+  category: "Engineering"
   link: "https://feeds.soundcloud.com/users/soundcloud:users:181591133/sounds.rss"
   name: "Cucumber Podcast"
 - 
+  category: "Engineering"
   link: "https://feeds.soundcloud.com/users/soundcloud:users:171473946/sounds.rss"
   name: "Reflection as a Service"
 - 
+  category: "Sport"
   link: "https://feeds.soundcloud.com/users/soundcloud:users:338016727/sounds.rss"
   name: "the morning shakeout podcast"
 - 
+  category: "Finance"  
   link: "https://feeds.soundcloud.com/users/soundcloud:users:176298819/sounds.rss"
   name: "Wharton FinTech Podcast"
 - 
+  category: "Finance"  
   link: "https://feeds.soundcloud.com/users/soundcloud:users:739334563/sounds.rss"
   name: "FinTech Futures"
 - 
+  category: "Finance"  
   link: "https://feeds.soundcloud.com/users/soundcloud:users:639640803/sounds.rss"
   name: "interactive investor"
 - 
+  category: "Engineering"
   link: "https://feed.podbean.com/productfaculty/feed.xml"
   name: "CPO Mastery Podcast"
 - 
+  category: "Engineering"
   link: "https://feeds.simplecast.com/yxSn4qK1"
   name: "Lead Time Chats"
 - 
+  category: "Engineering"
   link: "https://feeds.buzzsprout.com/1687069.rss"
   name: "StaffEng"
 - 
+  category: "Finance"  
   link: "https://rss.acast.com/ftadviser"
   name: "FTAdviser Podcast"
 - 
+  category: "Technology"
   link: "https://feeds.buzzsprout.com/681950.rss"
   name: "Tech Brains Talk"
 - 
+  category: "Security"
   link: "https://feeds.simplecast.com/eEZHk2aL"
   name: "Random but Memorable"
 - 
+  category: "Engineering"
   link: "https://feeds.soundcloud.com/users/soundcloud:users:363464744/sounds.rss"
   name: "Troubleshooting Agile"
 - 
+  category: "Finance"  
   link: "https://mavenmoney.libsyn.com/rss"
   name: "Maven Money Personal Finance Podcast"
 - 
+  category: "Finance"
   link: "https://feeds.npr.org/510325/podcast.xml"
   name: "The Indicator from Planet Money"
 - 
+  category: "Technology"
   link: "https://rss.art19.com/not-overthinking"
   name: "Not Overthinking"
 - 
+  category: "Engineering"
   link: "https://feeds.buzzsprout.com/1807501.rss"
   name: "The Look & Sound of Leadership"
 - 
+  category: "Engineering"
   link: "https://changelog.com/shipit/feed"
   name: "Ship It! DevOps, Infra, Cloud Native"
 - 
+  category: "Engineering"
   link: "http://rss.acast.com/ft-tech-tonic"
   name: "FT Tech Tonic"
 - 
+  category: "Security"
   link: "https://www.smashingsecurity.com/rss"
   name: "Smashing Security"
 - 
@@ -499,87 +622,115 @@
   link: "https://feeds.fireside.fm/appleinsider/rss"
   name: "AppleInsider Podcast"
 - 
+  category: "Engineering"
   link: "https://feeds.megaphone.fm/SLO5751524607"
   name: "Secret Leaders"
 - 
+  category: "Other"
   link: "https://feeds.simplecast.com/mtWJMYrr"
   name: "The Diverse Minds Podcast"
 - 
+  category: "Finance"  
   link: "https://feed.pippa.io/public/shows/5ab6fe42bb6ddf45527e077e"
   name: "Fintech Impact"
 - 
+  category: "Finance"  
   link: "https://www.lendacademy.com/feed/podcast/"
   name: "Fintech One-On-One"
 - 
+  category: "Finance"  
   link: "https://feeds.fireside.fm/fintechmarketingpodcast-by-11fs/rss"
   name: "Fintech Marketing Podcast by 11:FS"
 - 
+  category: "Engineering"
   link: "https://softwareengineeringdaily.com/feed/podcast"
   name: "Software Engineering Daily"
 - 
+  category: "Engineering"
   link: "https://podcastengineering.libsyn.com/rss"
   name: "The Podcast Engineering Show"
 - 
+  category: "Engineering"
   link: "https://feeds.captivate.fm/level-up-engineering/"
   name: "Level-up Engineering"
 - 
+  category: "Engineering"
   link: "https://feed.podbean.com/artofcoaching/feed.xml"
   name: "The Art Of Coaching"
 - 
+  category: "Engineering"
   link: "https://feeds.buzzsprout.com/657931.rss"
   name: "Agile Coaching Network"
 - 
+  category: "Engineering"
   link: "https://feeds.megaphone.fm/TNM3035277142"
   name: "A Productive Conversation"
 - 
+  category: "Other"
   link: "https://jimruttshow.blubrry.net/feed/podcast/"
   name: "The Jim Rutt Show"
 - 
+  category: "Engineering"
   link: "https://feeds.buzzsprout.com/1312642.rss"
   name: "Peaple Talent Podcast"
 - 
+  category: "Other"
   link: "https://feeds.megaphone.fm/tydntk"
   name: "Things You Don't Need to Know with Ari Cagan"
 - 
+  category: "Other"
   link: "https://feeds.captivate.fm/follow-friday/"
   name: "Follow Friday"
 - 
+  category: "Finance"  
   link: "https://feeds.buzzsprout.com/964681.rss"
   name: "tickr - Impact Investing"
 - 
+  category: "Technology"
   link: "https://feed.podbean.com/witcih/feed.xml"
   name: "Creative Women in Tech"
 - 
+  category: "Engineering"
   link: "https://feeds.megaphone.fm/LDB8042666505"
   name: "Modern CTO with Joel Beasley"
 - 
+  category: "Finance"  
   link: "https://podcasts.files.bbci.co.uk/b0070lr5.rss"
   name: "Wake Up to Money"
 - 
+  category: "Sport"  
   link: "https://anchor.fm/s/62d78914/podcast/rss"
   name: "Fozcast - The Ben Foster Podcast"
 - 
+  category: "Finance"  
   link: "https://feeds.megaphone.fm/mofi"
   name: "Modern Finance"
 - 
+  category: "Engineering"
   link: "https://feeds.simplecast.com/47yfLpm0"
   name: "The Secure Developer"
 - 
+  category: "Engineering"
   link: "https://feeds.simplecast.com/sizSRIY9"
   name: "CIO Exchange Podcast"
 - 
+  category: "Security"
   link: "https://feed.podbean.com/CISOtalk/feed.xml"
   name: "CISO Talk"
 - 
+  category: "Security"
   link: "https://feed.podbean.com/cisotradecraft/feed.xml"
   name: "CISO Tradecraft"
 - 
+  category: "Engineering"
   link: "https://devopsradio.libsyn.com/rss"
   name: "DevOps Radio"
 - 
+  category: "Engineering"
   link: "https://feed.podbean.com/yolkrec/feed.xml"
   name: "The Yolk Podcast - home to Diversity Champions"
 - 
+  category: "Business"
   link: "https://rss.acast.com/working-it"
   name: "Working It"
 - 
@@ -591,21 +742,27 @@
   link: "https://feeds.acast.com/public/shows/61850ae845b6e300132557e2"
   name: "New Scientist Weekly"
 - 
+  category: "Engineering"
   link: "https://feeds.acast.com/public/shows/618975a0e897b500196a08f6"
   name: "The Agile Pubcast"
 - 
+  category: "Finance"  
   link: "https://feeds.captivate.fm/the-hedge/"
   name: "The Hedge"
 - 
+  category: "Other"
   link: "https://feeds.captivate.fm/late-night-disclosure/"
   name: "Late Night Disclosure"
 - 
+  category: "Finance"  
   link: "https://feeds.buzzsprout.com/1765385.rss"
   name: "The Crypto Standard"
 - 
+  category: "Security"  
   link: "https://rss.acast.com/cyber"
   name: "CYBER"
 - 
+  category: "Engineering"  
   link: "https://anchor.fm/s/208bb788/podcast/rss"
   name: "All Agile Guides"
 - 
@@ -613,14 +770,18 @@
   link: "https://feeds.megaphone.fm/tamc1411507018"
   name: "Football Cliches - A show about the language of football"
 - 
+  category: "Finance"
   link: "https://fasuccess.libsyn.com/rss"
   name: "Financial Advisor Success"
 - 
+  category: "Finance"
   link: "https://feed.podbean.com/moneyinfo/feed.xml"
   name: "The AdviserTech Unplugged Podcast"
 - 
+  category: "Finance"
   link: "https://pinecast.com/feed/the-prosperity-project"
   name: "The Prosperity Project"
 - 
+  category: "Engineering"  
   link: "https://feed.podbean.com/breakingchanges/feed.xml"
   name: "Breaking Changes"
