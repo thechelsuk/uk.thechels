@@ -22,7 +22,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -A && git commit -m "Add ${{ env.BookTitle }} to _data/read.yml"
+          git add -A && git commit -m "Added ${{ env.BookTitle }}"
           git push
       - name: Close issue
         uses: peter-evans/close-issue@v2
