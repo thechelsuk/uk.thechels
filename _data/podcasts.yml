@@ -318,7 +318,7 @@
 - 
   category: Security
   link: "https://feeds.megaphone.fm/hacking-humans"
-  name: "Hacking Humans"
+  name: "Cyberwire - Hacking Humans"
 - 
   category: Technology
   link: "https://governmentdigitalservice.podbean.com/feed.xml"
@@ -450,7 +450,7 @@
 - 
   category: Other
   link: "https://rss.art19.com/spacecasts"
-  name: SpaceCasts
+  name: "SpaceCasts (Ride Home Media)"
 - 
   category: Other
   link: "https://applehosted.podcasts.apple.com/apple_keynotes/apple_keynotes.xml"
@@ -465,7 +465,7 @@
 - 
   category: Other
   link: "https://feeds.buzzsprout.com/992860.rss"
-  name: "The End of the Day Podcast with Kari Watterson: Using Mindset Work to Live Your Best Life"
+  name: "The End of the Day Podcast with Kari Watterson"
 - 
   category: Engineering
   link: "https://therabbithole.libsyn.com/rss"
@@ -473,7 +473,7 @@
 - 
   category: Finance
   link: "https://anchor.fm/s/41f55cbc/podcast/rss"
-  name: Retirementals
+  name: "Retirementals"
 - 
   category: Finance
   link: "https://anchor.fm/s/4bc355dc/podcast/rss"
@@ -481,7 +481,7 @@
 - 
   category: Engineering
   link: "https://feeds.soundcloud.com/users/soundcloud:users:274578276/sounds.rss"
-  name: Sprint
+  name: "Sprint"
 - 
   category: Engineering
   link: "https://feeds.soundcloud.com/users/soundcloud:users:181591133/sounds.rss"
@@ -513,7 +513,7 @@
 - 
   category: Engineering
   link: "https://feeds.buzzsprout.com/1687069.rss"
-  name: StaffEng
+  name: "StaffEng - Will Larson"
 - 
   category: Finance
   link: "https://rss.acast.com/ftadviser"
@@ -525,7 +525,7 @@
 - 
   category: Security
   link: "https://feeds.simplecast.com/eEZHk2aL"
-  name: "Random but Memorable"
+  name: "Random but Memorable (1Password)"
 - 
   category: Engineering
   link: "https://feeds.soundcloud.com/users/soundcloud:users:363464744/sounds.rss"
@@ -753,7 +753,7 @@
 -
   category: Security
   link: "https://feeds.megaphone.fm/caveat"
-  name: "Caveat"
+  name: "Cyberwire - Caveat"
 -
   category: Finance
   link: "https://choosefi.libsyn.com/rss"
@@ -761,11 +761,11 @@
 -
   category: Security
   link: "https://feeds.megaphone.fm/cisa-cybersecurity-alerts"
-  name: "CISA Cybersecurity Alerts"
+  name: "Cyberwire - CISA Cybersecurity Alerts"
 -
   category: Security
   link: "https://feeds.megaphone.fm/cyberwire-daily-podcast"
-  name: "CyberWire Daily"
+  name: "Cyberwire - CyberWire Daily"
 -
   category: Technology
   link: "https://api.substack.com/feed/podcast/82416/s/8107.rss"
