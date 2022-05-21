@@ -11,6 +11,9 @@ jobs:
   Checks:
     if: contains( github.event.issue.labels.*.name, 'stocks')
     runs-on: ubuntu-latest
+    steps:
+      - name: Echo
+        run: echo "Label is $label"
   Build:
     needs: Checks
     if: ${{ github.actor == github.repository_owner }}
