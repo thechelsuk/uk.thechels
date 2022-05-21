@@ -5,12 +5,20 @@ on:
 env:
   content: ${{ github.event.issue.body }}
   label: ${{ github.event.label.name }}
-  issue_number : ${{ github.event.issue.number }}
+  issue_number: ${{ github.event.issue.number }}
+  actor: ${{ github.actor }}
+  owner: ${{ github.repository_owner }}
 jobs:
-  build:
+  Checks:
+    if: contains( github.event.issue.labels.*.name, 'next')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo
+        run: echo "Label is $label"
+  Build:
+    needs: Checks
     runs-on: ubuntu-latest
     name: Next
-    if: contains( github.event.issue.labels.*.name, 'next')
     steps:
     - name: Check out repo
       uses: actions/checkout@v3
