@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: about
 title: About
 permalink: /about
 --- 
@@ -21,13 +21,4 @@ I also love listening to [podcasts so please help me find more](https://github.c
 
 * [Cheltenham open data](https://cheltenham-open-data.github.io) is an organisation that uses open data sources relevant to my hometown. Projects include using and archiving official government statistics of Covid-19, Food bank data, street crimes, where to go for lunch, and more.
 
-## Around the web
-
-- [GitHub](https://github.com/MatBenfield/)
-- [Keybase](https://keybase.io/MatBenfield)
-- [LinkedIn](https://www.linkedin.com/in/mat-benfield/)
-- [MeetUp](https://www.meetup.com/members/197754442/)
-- [Strava](https://www.strava.com/athletes/24249743)
-- [StackOverflow](https://stackoverflow.com/users/894932/mat-benfield)
-- [Twitter](https://twitter.com/tocfcws)
 
