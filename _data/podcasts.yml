@@ -2,7 +2,7 @@
 - 
   category: Music
   link: "https://podcasts.files.bbci.co.uk/p02nrw4q.rss"
-  name: "BBC Music Introducing Mixtape"
+  name: "BBC - Music Introducing Mixtape"
 - 
   category: Engineering
   link: "https://msdevshow.libsyn.com/rss"
@@ -22,7 +22,7 @@
 - 
   category: Technology
   link: "https://www.relay.fm/clockwise/feed"
-  name: Clockwise
+  name: "Clockwise"
 - 
   category: Other
   link: "https://rss.acast.com/secretsofthesidehustle"
@@ -57,18 +57,10 @@
   name: "Planet Money"
 - 
   category: Engineering
-  link: "https://anchor.fm/s/ab6c2e0/podcast/rss"
-  name: "Email's Not Dead"
-- 
-  category: Engineering
   link: "https://pinecast.com/feed/ladybug-podcast"
   name: "Ladybug Podcast"
 - 
-  category: Sport
-  link: "https://audioboom.com/channels/4951198.rss"
-  name: "Let's Get Running Podcast"
-- 
-  category: Engineering
+  category: Business
   link: "https://happymelly.libsyn.com/rss"
   name: "Happiness at Work"
 - 
@@ -114,7 +106,7 @@
 - 
   category: Engineering
   link: "http://feeds.feedburner.com/meta-cast"
-  name: Meta-Cast
+  name: "Meta-Cast"
 - 
   category: Sport
   link: "https://feeds.megaphone.fm/VMP7067742318"
@@ -134,7 +126,7 @@
 - 
   category: Other
   link: "https://podcasts.files.bbci.co.uk/b00lvdrj.rss"
-  name: "Kermode and Mayo's Film Review"
+  name: "BBC - Kermode and Mayo's Film Review"
 - 
   category: Finance
   link: "http://rss.acast.com/investorschronicle"
@@ -146,15 +138,11 @@
 - 
   category: Engineering
   link: "https://shoptalkshow.com/feed/podcast"
-  name: ShopTalk
+  name: "ShopTalk"
 - 
   category: Engineering
   link: "http://agilecoffee.com/feed/podcast/"
   name: "The Agile Coffee Podcast"
-- 
-  category: Engineering
-  link: "https://feedpress.me/s"
-  name: Systematic
 - 
   category: Sport
   link: "https://withmenow.libsyn.com/rss"
@@ -200,13 +188,13 @@
   link: "https://tbtrp.libsyn.com/rss"
   name: "The British Trail Running Podcast"
 - 
-  category: Engineering
+  category: Business
   link: "https://feeds.feedburner.com/WorklifeWithAdamGrant"
   name: "WorkLife with Adam Grant"
 - 
   category: News
   link: "https://podcasts.files.bbci.co.uk/p002vsxs.rss"
-  name: "Business Daily"
+  name: "BBC - Business Daily"
 - 
   category: Engineering
   link: "http://feeds.feedburner.com/processbreakdown-audio"
@@ -266,7 +254,7 @@
 - 
   category: Finance
   link: "https://podcasts.files.bbci.co.uk/p02pc9xt.rss"
-  name: "Ask Martin Lewis Podcast"
+  name: "BBC - Ask Martin Lewis Podcast"
 - 
   category: Engineering
   link: "https://deliveritcast.libsyn.com/rss"
@@ -342,11 +330,11 @@
 - 
   category: News
   link: "https://podcasts.files.bbci.co.uk/w13xtv39.rss"
-  name: "Coronavirus Global Update"
+  name: "BBC - Coronavirus Global Update"
 - 
   category: Finance
   link: "https://podcasts.files.bbci.co.uk/b006qjnv.rss"
-  name: "Money Box"
+  name: "BBC - Money Box"
 - 
   category: Other
   link: "https://feeds.simplecast.com/oFb7TFSC"
@@ -370,7 +358,7 @@
 - 
   category: News
   link: "https://57iy69iy4b.execute-api.eu-west-1.amazonaws.com/prod/PodcastAPI?cid=apym27dtie&pid=p05hh4qy"
-  name: "BBC News"
+  name: "BBC -  News"
 - 
   category: Technology
   link: "https://atp.fm/episodes?format=rss"
@@ -653,7 +641,7 @@
 - 
   category: Finance
   link: "https://podcasts.files.bbci.co.uk/b0070lr5.rss"
-  name: "Wake Up to Money"
+  name: "BBC - Wake Up to Money"
 - 
   category: Sport
   link: "https://anchor.fm/s/62d78914/podcast/rss"
@@ -747,10 +735,6 @@
   link: "https://rss.acast.com/thewhichmoneypodcast"
   name: "The Which? Money Podcast"
 - 
-  category: Finance
-  link: "https://podcasts.apple.com/gb/podcast/the-meaningful-money-personal-finance-podcast/id581790263"
-  name: "Meaningful Money Podcast"
-- 
   category: Other
   link: "https://kite.link/today-in-digital-marketing?open=castro"
   name: "Today in Digital Marketing"
@@ -761,11 +745,11 @@
 - 
   category: Music
   link: "https://podcasts.files.bbci.co.uk/p06q6h18.rss"
-  name: "PopMaster"
+  name: "BBC - PopMaster"
 -
   category: Finance
   link: "https://podcasts.files.bbci.co.uk/m00152bx.rss"
-  name: "BBC The Big Green Money Show"
+  name: "BBC - The Big Green Money Show"
 -
   category: Business
   link: "https://www.omnycontent.com/d/playlist/5873abf1-8292-4fa9-99d7-a58d00e97be5/82b96a6f-ec25-400d-b02c-a99f01144055/f030d030-55ba-4e50-8310-a99f0114b2b2/podcast.rss"
@@ -814,10 +798,6 @@
   category: Other
   link: "https://feeds.soundcloud.com/users/soundcloud:users:878491849/sounds.rss"
   name: Inside Octopus Energy
--
-  category: Finance
-  link: "https://meaningfulmoney.libsyn.com/rss"
-  name: "Meaningful Money Podcast"
 -
   category: Finance
   link: "https://feeds.buzzsprout.com/1723086.rss"
