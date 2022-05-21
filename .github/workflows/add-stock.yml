@@ -18,7 +18,7 @@ jobs:
         run: echo "Label is $label"
   Build:
     needs: Checks
-    if: ($actor == $owner)
+    if: ${{ env.actor == env.owner}}
     runs-on: ubuntu-latest
     name: Stocks    
     steps:
