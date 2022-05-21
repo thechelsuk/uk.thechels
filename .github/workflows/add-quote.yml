@@ -11,7 +11,7 @@ env:
   owner: ${{ github.repository_owner }}
 jobs:
   build:
-    if: ${{ label == 'quotes' && actor == owner }}
+    if: ${{ env.label == 'quotes' && env.actor == env.owner }}
     runs-on: ubuntu-latest
     name: Checkout and setup
     steps:
@@ -32,7 +32,6 @@ jobs:
         run: |
           python -m pip install -r requirements.txt
       - name: Check for new content
-        if: ${{ github.actor == github.repository_owner }}
         run: |-
           python '_python/updater.py'
       - name: Create Pull Request
