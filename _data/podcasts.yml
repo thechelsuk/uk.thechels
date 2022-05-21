@@ -28,9 +28,9 @@
   link: "https://rss.acast.com/secretsofthesidehustle"
   name: "Secrets of the Side Hustle"
 - 
-  category: Other
+  category: Engineering
   link: "https://anchor.fm/s/215b100/podcast/rss"
-  name: "The Everyday Podcast"
+  name: "The Everyday Podcast Jac Hughes"
 - 
   category: Business
   link: "http://feeds.feedburner.com/iTunesPodcastTTBusiness"
@@ -446,7 +446,7 @@
 - 
   category: Finance
   link: "https://rss.art19.com/the-bid"
-  name: "The Bid"
+  name: "The Bid (Blackrock)"
 - 
   category: Other
   link: "https://rss.art19.com/spacecasts"
@@ -725,7 +725,7 @@
 - 
   category: Engineering
   link: "https://feed.podbean.com/breakingchanges/feed.xml"
-  name: "Breaking Changes"
+  name: "Breaking Changes (Postman)"
 - 
   category: Finance
   link: "https://rss.acast.com/thewhichmoneypodcast"
@@ -767,9 +767,9 @@
   link: "https://feeds.megaphone.fm/cyberwire-daily-podcast"
   name: "CyberWire Daily"
 -
-  category: Finance
+  category: Technology
   link: "https://api.substack.com/feed/podcast/82416/s/8107.rss"
-  name: "Dead Cat"
+  name: "Dead Cat (newcomer)"
 -
   category: Technology
   link: "https://feeds.megaphone.fm/recodedecode"
@@ -870,3 +870,7 @@
   category: Engineering
   link: "https://podcast.writethedocs.org/itunes.rss"
   name: "Write the Docs Podcast"
+- 
+  category: Engineering
+  link: "https://feeds.soundcloud.com/users/soundcloud:users:206137365/sounds.rss"
+  name: "Front End Happy Hour"
