@@ -10,7 +10,6 @@ env:
 jobs:
   Checks:
     if: contains( github.event.issue.labels.*.name, 'stocks')
-    runs-on: ubuntu-latest
   Build:
     needs: Checks
     if: ${{ github.actor == github.repository_owner }}
