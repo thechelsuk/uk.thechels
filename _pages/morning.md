@@ -6,10 +6,10 @@ permalink: /morning
 ---
 
 <!-- weather_marker starts -->
-<p>Today's date is 2022-05-20</p><ul>
-<li>The average temperature today is 14.58˚C;</li>
-<li>with highs of 15.72˚C and lows of 9.61˚C.</li>
-<li>You can expect light rain for the day.</li>
+<p>Today's date is 2022-05-21</p><ul>
+<li>The average temperature today is 15.82˚C;</li>
+<li>with highs of 16.82˚C and lows of 8.93˚C.</li>
+<li>You can expect overcast clouds for the day.</li>
 </ul>
 <!-- weather_marker ends -->
 
@@ -17,10 +17,10 @@ permalink: /morning
 
 <!-- stocks_marker starts -->
 <ul>
-<li>VWRL.L : 83.021</li>
-<li>V3AB.L : 3.6795</li>
-<li>SPXP.L : 59759.83984</li>
-<li>IMID.L : 171.2574</li>
+<li>VWRL.L : 81.99</li>
+<li>V3AB.L : 3.63125</li>
+<li>SPXP.L : 58892.5</li>
+<li>IMID.L : 170.485</li>
 </ul>
 <!-- stocks_marker ends -->
 
