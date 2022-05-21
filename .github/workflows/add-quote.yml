@@ -7,11 +7,11 @@ env:
   content: ${{ github.event.issue.body }}
   label: ${{ github.event.label.name }}
   issue_number: ${{ github.event.issue.number }}
+  actor: ${{ github.actor }}
+  owner: ${{ github.repository_owner }}
 jobs:
   build:
-    if: >-
-      ${{ github.event.label.name == 'quotes' }} &&
-      ${{ github.actor == github.repository_owner }}
+    if: ${{ label == 'quotes' && actor == owner }}
     runs-on: ubuntu-latest
     name: Checkout and setup
     steps:
