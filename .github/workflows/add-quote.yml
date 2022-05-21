@@ -10,8 +10,15 @@ env:
   actor: ${{ github.actor }}
   owner: ${{ github.repository_owner }}
 jobs:
-  build:
-    if: (env.label == 'quotes' && env.actor == env.owner)
+  Checks:
+    if: contains( github.event.issue.labels.*.name, 'quotes')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo
+        run: echo "Label is $label"
+  Build:
+    needs: Checks
+    if: ${{ github.actor == github.repository_owner }}
     runs-on: ubuntu-latest
     name: Checkout and setup
     steps:
