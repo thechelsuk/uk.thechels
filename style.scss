@@ -99,6 +99,15 @@ body {
     width: 90px;
 }
 
+.about-row {
+  display: flex;
+}
+
+.about-column {
+  flex: 33%;
+  padding: 5px;
+}
+
 h2,
 h3,
 h4,
@@ -402,7 +411,9 @@ cite {
   .book-list .book-img {
     flex-shrink: 0;
     width: 72px;
-  }  
+  }
+  .about-row { display: block; }
+  .about-column { width: 100%; }
     
   .footer {
     line-height: 30px;
