@@ -11,7 +11,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Quotes
-    if: contains( github.event.issue.labels.*.name, 'quotes') && ${{ github.actor == github.repository_owner }}
+    if: contains( github.event.issue.labels.*.name, 'quotes')
     steps:
       - name: Check out repo
         uses: actions/checkout@v3
@@ -30,6 +30,7 @@ jobs:
         run: |
           python -m pip install -r requirements.txt
       - name: Check for new content
+        if: ${{ github.actor == github.repository_owner }}
         run: |-
           python '_python/updater.py'
       - name: Create Pull Request
