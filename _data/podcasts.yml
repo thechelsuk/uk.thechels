@@ -769,3 +769,180 @@
   category: Music
   link: "https://podcasts.files.bbci.co.uk/p06q6h18.rss"
   name: PopMaster
+  -
+  category: Security
+  link:
+  name: Application Security Weekly (Audio)
+-
+  category: Finance
+  link:
+  name: BBC The Big Green Money Show 
+-
+  category: Business
+  link:
+  name: Business Problems Solved Podcast
+-
+  category: Security
+  link:
+  name: Caveat
+-
+  category: Security
+  link:
+  name: ChooseFI
+-
+  category: Security
+  link:
+  name: CISA Cybersecurity Alerts
+-
+  category: Security
+  link:
+  name: CyberWire Daily
+-
+  category: Finance
+  link:
+  name: Dead Cat
+-
+  category: Technology
+  link:
+  name: Decoder with Nilay Patel
+-
+  category: Engineering
+  link:
+  name: Developing Leadership
+-
+  category: Engineering
+  link:
+  name: Email's Not Dead 
+-
+  category: Sport
+  link:
+  name: Fran Kirby's Fight Club
+-
+  category: Sport
+  link:
+  name: Fozcast - The Ben Foster Podcast 
+-
+  category: News
+  link:
+  name: FT News Briefing 
+-
+  category: Engineering
+  link:
+  name: HBR IdeaCast
+-
+  category: Other
+  link:
+  name: I'd Rather Be Writing Podcast
+-
+  category: Other
+  link:
+  name: Inside Octopus Energy
+-
+  category: Other
+  link:
+  name: Kermode & Mayo’s Take
+-
+  category: Sport
+  link:
+  name: Let's Get Running Podcast 
+-
+  category: Finance
+  link:
+  name: Meaningful Money Podcast 
+-
+  category: Finance
+  link:
+  name: Money Unfiltered
+-
+  category: Finance
+  link:
+  name: Motley Fool Money
+-
+  category: Security
+  link:
+  name: Open Source Security Podcast
+-
+  category: Finance
+  link:
+  name: Playing FTSE
+-
+  category: News
+  link:
+  name: Political Thinking with Nick Robinson
+-
+  category: Engineering
+  link:
+  name: PyTorch Developer Podcast
+-
+  category: Sport
+  link:
+  name: Recovery Run 
+-
+  category: Technology
+  link:
+  name: Remotely Interesting
+-
+  category: Other
+  link:
+  name: Reply All
+-
+  category: Security
+  link:
+  name: Security Sandbox
+-
+  category: Engineering
+  link:
+  name: Software Engineering Radio - The Podcast for Professional Software Developers
+-
+  category: Engineering
+  link:
+  name: Source Code
+-
+  category: Other
+  link:
+  name: Supertop Podcast 
+-
+  category: Technology
+  link:
+  name: Systematic 
+-
+  category: Engineering
+  link:
+  name: Tabs and Spaces Podcast
+-
+  category: Finance
+  link:
+  name: The Big Green Money Show
+-
+  category: Engineering
+  link:
+  name: The Mob Mentality Show
+-
+  category: Technology
+  link:
+  name: The Rebound
+-
+  category: Finance
+  link:
+  name: The Sifted Podcast
+-
+  category: News
+  link:
+  name: The Slow Newscast
+-
+  category: Engineering
+  link:
+  name: The Sourcegraph Podcast
+-
+  category: Engineering
+  link:
+  name: This Developing Story
+-
+  category:
+  link:
+  name: Whatever Next?
+-
+  category: Engineering
+  link:
+  name: Write the Docs Podcast  
+  
