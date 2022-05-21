@@ -17,8 +17,9 @@ I also love listening to [podcasts so please help me find more](https://github.c
 
 ## Projects
 
-* I have been playing with python, recently, and have created some twitter bots, most notably [tweeting breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news)
+* I have been playing with python, recently, and have created some twitter bots, most notably [tweeting breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news) and [associated low-fi Chelsea official news app](https://app.thechels.uk).
+
+* [Boinc - Contribute computing capacity](https://boinc.thechels.uk)
 
 * [Cheltenham open data](https://cheltenham-open-data.github.io) is an organisation that uses open data sources relevant to my hometown. Projects include using and archiving official government statistics of Covid-19, Food bank data, street crimes, where to go for lunch, and more.
-
 
