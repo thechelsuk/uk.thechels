@@ -4,13 +4,13 @@ title: About
 permalink: /about
 --- 
 
-![banner photo of Mat running in London](https://raw.githubusercontent.com/MatBenfield/MatBenfield/master/images/gh-header-image-cropped.jpg)
+![banner photo of Mat running in London](/images/gh-header-image-cropped.jpg)
 
 I work as an Engineering Manager at a business-to-business, api-first fintech in the wealth and advice management space. 
 
 I wrote my first bit of HTML in a Notepad window sometime in 1999 ish and never really stopped.
 
-You can see my [curriculum vitae](https://github.com/MatBenfield/MatBenfield/blob/master/curriculum-vitae.md) and my [operating manual](https://github.com/MatBenfield/MatBenfield/blob/master/operating-manual.md). 
+You can see my [curriculum vitae](/cv) and my [operating manual](/manual). 
 
 
 I also love listening to [podcasts so please help me find more](https://github.com/MatBenfield/TheChels.uk/issues/new?assignees=MatBenfield&labels=podcast&template=podcast.md). I am also compiling a repository of [engineering management](https://github.com/MatBenfield/engineering-management) too.
