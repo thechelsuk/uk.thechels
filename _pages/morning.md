@@ -7,9 +7,9 @@ permalink: /morning
 
 <!-- weather_marker starts -->
 <p>Today's date is 2022-05-21</p><ul>
-<li>The average temperature today is 15.82˚C;</li>
-<li>with highs of 16.82˚C and lows of 8.93˚C.</li>
-<li>You can expect overcast clouds for the day.</li>
+<li>The average temperature today is 15.32˚C;</li>
+<li>with highs of 16.99˚C and lows of 8.26˚C.</li>
+<li>You can expect broken clouds for the day.</li>
 </ul>
 <!-- weather_marker ends -->
 
