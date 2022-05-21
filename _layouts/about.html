@@ -3,31 +3,32 @@
 
 {{content}}
 
-<div class="row">
-<div class="column">
-<h3>Around the web</h3>
-  <ul class="around">
-    {% for item in site.data.around %}
-    <li><a href="{{item.link}}">{{item.title}}</a></li>
-    {% endfor %}
-  </ul>
-</div>
-  
-<div class="column">
-<h3>Links</h3>
-  <ul class="links">
-    {% for item in site.data.links %}
-    <li><a href="{{item.link}}">{{item.title}}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+<div class="about-row">
+  <div class="about-column">
+  <h3>Around the web</h3>
+    <ul class="around">
+      {% for item in site.data.around %}
+      <li><a href="{{item.link}}">{{item.title}}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
 
-<div class="column">
-  <h3>Offers</h3>
-  <ul class="Offers">
-    {% for item in site.data.offers %}
-    <li><a rel="sponsored" href="{{item.link}}">{{item.title}}</a></li>
-    {% endfor %}
-  </ul>
+  <div class="about-column">
+  <h3>Links</h3>
+    <ul class="links">
+      {% for item in site.data.links %}
+      <li><a href="{{item.link}}">{{item.title}}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="about-column">
+    <h3>Offers</h3>
+    <ul class="Offers">
+      {% for item in site.data.offers %}
+      <li><a rel="sponsored" href="{{item.link}}">{{item.title}}</a></li>
+      {% endfor %}
+    </ul>
+  </div> 
 </div>
 {% include footer.html %}
