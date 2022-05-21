@@ -4,7 +4,10 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 5,8 * * *'
-
+  workflow_run:
+    workflows: [Add Stock]
+    types:
+      - completed
 jobs:
   build:
     runs-on: ubuntu-latest
