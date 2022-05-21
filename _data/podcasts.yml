@@ -104,9 +104,6 @@
   link: "http://feeds.feedburner.com/EngagingLeader"
   name: "Engaging Leader: Leadership communication principles with Jesse Lahey"
 - 
-  link: "https://www.omnycontent.com/d/playlist/5873abf1-8292-4fa9-99d7-a58d00e97be5/82b96a6f-ec25-400d-b02c-a99f01144055/f030d030-55ba-4e50-8310-a99f0114b2b2/podcast.rss"
-  name: "Business Problems Solved Podcast"
-- 
   category: Finance
   link: "http://rss.acast.com/ft-money-show"
   name: "Money Clinic with Claer Barrett"
@@ -720,7 +717,7 @@
 - 
   category: Security
   link: "https://rss.acast.com/cyber"
-  name: CYBER
+  name: "CYBER"
 - 
   category: Engineering
   link: "https://anchor.fm/s/208bb788/podcast/rss"
@@ -747,10 +744,6 @@
   name: "Breaking Changes"
 - 
   category: Finance
-  link: "https://podcasts.files.bbci.co.uk/m00152bx.rss"
-  name: "BBC The Big Green Money Show"
-- 
-  category: Finance
   link: "https://rss.acast.com/thewhichmoneypodcast"
   name: "The Which? Money Podcast"
 - 
@@ -768,4 +761,136 @@
 - 
   category: Music
   link: "https://podcasts.files.bbci.co.uk/p06q6h18.rss"
-  name: PopMaster
+  name: "PopMaster"
+-
+  category: Finance
+  link: "https://podcasts.files.bbci.co.uk/m00152bx.rss"
+  name: "BBC The Big Green Money Show"
+-
+  category: Business
+  link: "https://www.omnycontent.com/d/playlist/5873abf1-8292-4fa9-99d7-a58d00e97be5/82b96a6f-ec25-400d-b02c-a99f01144055/f030d030-55ba-4e50-8310-a99f0114b2b2/podcast.rss"
+  name: "Business Problems Solved Podcast"
+-
+  category: Security
+  link: "https://feeds.megaphone.fm/caveat"
+  name: "Caveat"
+-
+  category: Finance
+  link: "https://choosefi.libsyn.com/rss"
+  name: "ChooseFI"
+-
+  category: Security
+  link: "https://feeds.megaphone.fm/cisa-cybersecurity-alerts"
+  name: "CISA Cybersecurity Alerts"
+-
+  category: Security
+  link: "https://feeds.megaphone.fm/cyberwire-daily-podcast"
+  name: "CyberWire Daily"
+-
+  category: Finance
+  link: "https://api.substack.com/feed/podcast/82416/s/8107.rss"
+  name: "Dead Cat"
+-
+  category: Technology
+  link: "https://feeds.megaphone.fm/recodedecode"
+  name: "Decoder with Nilay Patel"
+-
+  category: Engineering
+  link: "https://feed.podbean.com/developingleadership/feed.xml"
+  name: "Developing Leadership"
+-
+  category: Sport
+  link: "https://anchor.fm/s/69610a44/podcast/rss"
+  name: "Fran Kirby's Fight Club"
+-
+  category: Engineering
+  link: "http://feeds.harvardbusiness.org/harvardbusiness/ideacast"
+  name: "HBR IdeaCast"
+-
+  category: Other
+  link: "https://idratherbewriting.com/itunes.rss"
+  name: "I'd Rather Be Writing Podcast"
+-
+  category: Other
+  link: "https://feeds.soundcloud.com/users/soundcloud:users:878491849/sounds.rss"
+  name: Inside Octopus Energy
+-
+  category: Finance
+  link: "https://meaningfulmoney.libsyn.com/rss"
+  name: "Meaningful Money Podcast"
+-
+  category: Finance
+  link: "https://feeds.buzzsprout.com/1723086.rss"
+  name: "Money Unfiltered"
+-
+  category: Finance
+  link: "https://fool.libsyn.com/rss"
+  name: "Motley Fool Money"
+-
+  category: Security
+  link: "https://opensourcesecuritypodcast.libsyn.com/rss"
+  name: "Open Source Security Podcast"
+-
+  category: Finance
+  link: "https://anchor.fm/s/74c74510/podcast/rss"
+  name: "Playing FTSE"
+-
+  category: News
+  link: "https://podcasts.files.bbci.co.uk/p04z203l.rss"
+  name: "BBC - Political Thinking with Nick Robinson"
+-
+  category: Engineering
+  link: "https://feeds.simplecast.com/OB5FkIl8"
+  name: "PyTorch Developer Podcast"
+-
+  category: Technology
+  link: "https://feeds.transistor.fm/remotely-interesting"
+  name: "Remotely Interesting"
+-
+  category: Other
+  link: "https://feeds.megaphone.fm/replyall"
+  name: "Reply All"
+-
+  category: Security
+  link: "https://feeds.megaphone.fm/security-sandbox"
+  name: "Security Sandbox"
+-
+  category: Engineering
+  link: "http://feeds.feedburner.com/se-radio"
+  name: "Software Engineering Radio - The Podcast for Professional Software Developers"
+-
+  category: Engineering
+  link: "https://feeds.simplecast.com/y9S_N2_k"
+  name: "Source Code"
+-
+  category: Engineering
+  link: "https://tabsandspaces.libsyn.com/rss"
+  name: "Tabs and Spaces Podcast"
+-
+  category: Engineering
+  link: "https://feed.podbean.com/mobmentalityshow/feed.xml"
+  name: "The Mob Mentality Show"
+-
+  category: Technology
+  link: "https://rss.art19.com/the-rebound"
+  name: "The Rebound"
+-
+  category: Finance
+  link: "https://feeds.buzzsprout.com/1877446.rss"
+  name: "The Sifted Podcast"
+-
+  category: News
+  link: "https://rss.acast.com/the-tortoise-podcast"
+  name: "The Slow Newscast"
+-
+  category: Engineering
+  link: "https://feeds.buzzsprout.com/1097978.rss"
+  name: "The Sourcegraph Podcast"
+-
+  category: Engineering
+  link: "https://feeds.simplecast.com/H_l1Y75m"
+  name: "This Developing Story"
+-
+  category: Engineering
+  link: "https://podcast.writethedocs.org/itunes.rss"
+  name: "Write the Docs Podcast"
