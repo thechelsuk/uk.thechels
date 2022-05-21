@@ -762,10 +762,6 @@
   category: Music
   link: "https://podcasts.files.bbci.co.uk/p06q6h18.rss"
   name: "PopMaster"
-  -
-  category: Security
-  link: "https://aswaudio.libsyn.com/rss"
-  name: "Application Security Weekly (Audio)"
 -
   category: Finance
   link: "https://podcasts.files.bbci.co.uk/m00152bx.rss"
