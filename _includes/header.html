@@ -7,8 +7,8 @@
     <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.description }}" />
     <title>{{ post.title }} | {{ site.title }}</title>
     {% else %}
-    <meta name="title" content=" {{ page.title }} | {{ site.title }}" />
-    <meta name="description" content="{% if page.title %} {{ page.title }} | {% endif %}{{ site.description }}" />
+    <meta name="title" content=" {{ page.seo }} | {{ site.title }}" />
+    <meta name="description" content="{% if page.seo %} {{ page.seo }} | {% else %} {{ page.title }} | {% endif %}{{ site.description }}" />
     <title>{{ page.title }} | {{ site.title }}</title>
     {% endif %}
     
