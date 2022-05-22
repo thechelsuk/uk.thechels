@@ -6,6 +6,6 @@
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
-  "id": "https://thechels.uk"
+  "id": "https://thechels.uk",
   "start_url": "https://thechels.uk"
 }
