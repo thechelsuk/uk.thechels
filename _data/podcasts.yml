@@ -124,10 +124,6 @@
   link: "https://thewayoftherunner.libsyn.com/rss"
   name: "The Way of the Runner - conversations on running with Adharanand Finn"
 - 
-  category: Other
-  link: "https://podcasts.files.bbci.co.uk/b00lvdrj.rss"
-  name: "BBC - Kermode and Mayo's Film Review"
-- 
   category: Finance
   link: "http://rss.acast.com/investorschronicle"
   name: "Investors' Chronicle"
@@ -303,10 +299,6 @@
   category: Engineering
   link: "https://feeds.fireside.fm/standup/rss"
   name: "The Standup"
-- 
-  category: Engineering
-  link: "http://cast.rocks/hosting/2041/feeds/CQMQA.xml"
-  name: "Supertop Podcast"
 - 
   category: Engineering
   link: "https://rss.art19.com/finding-mastery"
@@ -874,3 +866,16 @@
   category: Engineering
   link: "https://feeds.soundcloud.com/users/soundcloud:users:206137365/sounds.rss"
   name: "Front End Happy Hour"
+- 
+  category: Other
+  link: "https://feeds.simplecast.com/dfh_verV"
+  name: "Freakonomics - No Stupid Questions"
+- 
+  category: Other
+  link: "https://feeds.simplecast.com/KB3PwEoc"
+  name: "Freakonomics - Radio Book Club"
+ - 
+  category: Other
+  link: "https://feeds.simplecast.com/Y8lFbOT4"
+  name: "Freakonomics - Radio"
+  
