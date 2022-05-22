@@ -124,10 +124,6 @@
   link: "https://thewayoftherunner.libsyn.com/rss"
   name: "The Way of the Runner - conversations on running with Adharanand Finn"
 - 
-  category: Other
-  link: "https://podcasts.files.bbci.co.uk/b00lvdrj.rss"
-  name: "BBC - Kermode and Mayo's Film Review"
-- 
   category: Finance
   link: "http://rss.acast.com/investorschronicle"
   name: "Investors' Chronicle"
@@ -303,10 +299,6 @@
   category: Engineering
   link: "https://feeds.fireside.fm/standup/rss"
   name: "The Standup"
-- 
-  category: Engineering
-  link: "http://cast.rocks/hosting/2041/feeds/CQMQA.xml"
-  name: "Supertop Podcast"
 - 
   category: Engineering
   link: "https://rss.art19.com/finding-mastery"
