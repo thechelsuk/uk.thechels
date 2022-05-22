@@ -40,7 +40,7 @@
     <div id="outer-wrapper">
       <div id="wrapper">
         <h1 class="blog-title">
-  <a href="{{ site.url }}/">
+  <a href="{{ site.url }}">
     {% if site.title %}
             {{ site.title }}
     {% else %}
@@ -56,9 +56,9 @@
         </p>
         <nav class="blog-menu">
              {% if page.id %}
-              <a href="{{ site.url }}/" title="Back to all posts">&larr; Back</a>
+              <a href="{{ site.url }}" title="Back to all posts">&larr; Back</a>
               {% else %}
-              <a href="{{ site.url }}/" title="Back to all home">&larr; Home</a>
+              <a href="{{ site.url }}" title="Back to all home">&larr; Home</a>
               {% endif %}
              {% for item in site.data.header %}
                <a href="{{item.link}}">{{item.title}}</a> 
