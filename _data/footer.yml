@@ -13,5 +13,9 @@
   title: "Robots"
 - 
   id: "4"
+  link: "https://thechels.uk/sitemap.xml"
+  title: "Sitemap"  
+- 
+  id: "5"
   link: "https://thechels.uk/.well-known/security.txt"
   title: "Security"
