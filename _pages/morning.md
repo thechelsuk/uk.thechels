@@ -2,6 +2,7 @@
 layout: morning
 title: Good Morning
 permalink: /morning
+seo: Good Morning Mat, Here is your daily briefing
 
 ---
 
