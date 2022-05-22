@@ -6,10 +6,10 @@ permalink: /morning
 ---
 
 <!-- weather_marker starts -->
-<p>Today's date is 2022-05-21</p><ul>
-<li>The average temperature today is 17.39˚C;</li>
-<li>with highs of 18.15˚C and lows of 8.26˚C.</li>
-<li>You can expect broken clouds for the day.</li>
+<p>Today's date is 2022-05-22</p><ul>
+<li>The average temperature today is 17.5˚C;</li>
+<li>with highs of 18.88˚C and lows of 8.78˚C.</li>
+<li>You can expect overcast clouds for the day.</li>
 </ul>
 <!-- weather_marker ends -->
 
@@ -29,5 +29,15 @@ permalink: /morning
 
 <!-- sports_marker starts -->
 <ul>
-<li>No fixtures today</li></ul>
+<li>(16:00) Arsenal - Everton</li>
+<li>(16:00) Brentford - Leeds United</li>
+<li>(16:00) Brighton & Hove Albion - West Ham United</li>
+<li>(16:00) Burnley - Newcastle United</li>
+<li>(16:00) Chelsea - Watford</li>
+<li>(16:00) Crystal Palace - Manchester United</li>
+<li>(16:00) Leicester City - Southampton</li>
+<li>(16:00) Liverpool - Wolverhampton Wanderers</li>
+<li>(16:00) Manchester City - Aston Villa</li>
+<li>(16:00) Norwich City - Tottenham Hotspur</li>
+</ul>
 <!-- sports_marker ends -->
