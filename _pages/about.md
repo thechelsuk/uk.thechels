@@ -2,6 +2,8 @@
 layout: about
 title: About
 permalink: /about
+seo: About page for Mat Benfield, owner of Weak Notes at thechels.uk
+
 --- 
 
 ![banner photo of Mat running in London](/images/gh-header-image-cropped.jpg)
