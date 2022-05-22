@@ -8,7 +8,7 @@ permalink: /about
 
 I work as an Engineering Manager at a business-to-business, api-first fintech in the wealth and advice management space. 
 
-I wrote my first bit of HTML in a Notepad window sometime around 1999 and never really stopped, I'm hands-off day-to-day but like to dabble in my spare time.
+I wrote my first bit of HTML in a Notepad window sometime around 1999 and never really stopped, I've been hands-off day-to-day at work for several years now but I still like to dabble in my spare time.
 
 You can see my [curriculum vitae](/cv) and my [operating manual](/manual). 
 
