@@ -1,7 +1,9 @@
 ---
-layout: empty
+layout: default
 title: CV
 permalink: /cv
+seo: CV of Mat Benfield
+
 --- 
 
 # Mat Benfield | Engineering Manager
