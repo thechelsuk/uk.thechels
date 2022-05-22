@@ -1,12 +1,10 @@
 ---
 layout: default
-title: CV
+title: Mat Benfield | Engineering Manager
 permalink: /cv
 seo: CV of Mat Benfield
 
 --- 
-
-# Mat Benfield | Engineering Manager
 
 ## Personal Profile
 
@@ -34,7 +32,7 @@ Latest personal project was to redesign running club website using Jekyll, a sta
 
 ### Seccl
 
-> Seccl’s technology helps advisers, investment managers, and fintechs of all sizes to operate their own investment platform. Seccl are an API first technology company operating in the wealth management, financial services sector.
+_Seccl’s technology helps advisers, investment managers, and fintechs of all sizes to operate their own investment platform. Seccl are an API first technology company operating in the wealth management, financial services sector._
 
 #### ENGINEERING MANAGER (June 2021 - Current)
 
@@ -42,11 +40,11 @@ Leading multiple squads in the investments and advice tribe with a focus on deli
 
 ### Higher Education Statistics Agency
 
-> Collects, processes, and publishes data about all aspects of the higher education landscape in the UK as the trusted source of HE data and analysis as Designated Data body. In addition to roles acted as a Product Owner, (certified) Scrum Master, Staff Forum representative, and fire marshal from time-to-time.
+_Collects, processes, and publishes data about all aspects of the higher education landscape in the UK as the trusted source of HE data and analysis as Designated Data body. In addition to roles acted as a Product Owner, (certified) Scrum Master, Staff Forum representative, and fire marshal from time-to-time._
 
 #### HEAD OF SOFTWARE DEVELOPMENT (October 2019 - June 2021)
 
-> co-led a team of 30 lead developers, developers and testers, expanding to 46 including test manager, lead developers, lead testers, scrum master, developers and testers. heading up the Data Futures project from a technical perspective in conjunction with a delivery partner organisation.
+_co-led a team of 30 lead developers, developers and testers, expanding to 46 including test manager, lead developers, lead testers, scrum master, developers and testers. heading up the Data Futures project from a technical perspective in conjunction with a delivery partner organisation._
 
 ##### Key responsibilities
 
@@ -70,7 +68,7 @@ Leading multiple squads in the investments and advice tribe with a focus on deli
 
 #### LEAD SOFTWARE DEVELOPER (October 2018 – October 2019)
 
-> Planning, designing and developing server and client applications. Having a key role in ensuring the best technologies and techniques are used in their development. Development of technical capability and involvement in performance assessment and development of junior colleagues. Working day-to- day within a scrum team.
+_Planning, designing and developing server and client applications. Having a key role in ensuring the best technologies and techniques are used in their development. Development of technical capability and involvement in performance assessment and development of junior colleagues. Working day-to- day within a scrum team._
 
 ##### Key responsibilities
 
@@ -131,7 +129,7 @@ Development and maintenance of data collection system (c#, MVC, Oracle, azure bl
 
 - Business Information Systems & Business Information Technology (Computing) HND, HNC - 2001-2005
 
-> Database management systems, systems analysis and design, computer management, software constructs and tools, data analysis and database design, multimedia and internet development, information analysis, quality management principles, communication technology.
+_Database management systems, systems analysis and design, computer management, software constructs and tools, data analysis and database design, multimedia and internet development, information analysis, quality management principles, communication technology._
 
 ### North Leamington School & Binswood 6th Form
 
