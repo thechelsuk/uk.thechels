@@ -19,9 +19,9 @@ plugins:
 exclude:
   - README.md
   - LICENSE.md
+  - SECURITY.md
   - requirements.txt
   - _python/
-  - _config/
 include:
   - ".well-known"
   - "_pages"
