@@ -2,6 +2,7 @@
 layout: default
 title: My Operating Manual
 permalink: /manual
+seo: Operating Manual of Mat Benfield
 
 --- 
 
