@@ -7,5 +7,12 @@
   "orientation": "portrait",
   "scope": "/",
   "id": "https://thechels.uk",
-  "start_url": "https://thechels.uk"
+  "start_url": "https://thechels.uk",
+  "icons": [
+    {
+      "src": "/images/apple-touch-icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ]
 }
