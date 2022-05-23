@@ -17,6 +17,7 @@ plugins:
   - jekyll-feed
   - jekyll-avatar
 exclude:
+  - CNAME
   - README.md
   - LICENSE.md
   - SECURITY.md
