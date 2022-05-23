@@ -15,15 +15,10 @@
       "sizes": "512x512"
     },
     {
-      "src": "/images/splashscreens/apple-touch-icon-144x144.png",
-      "type": "image/png",
-      "sizes": "144x144"
-    },
-    {
       "src": "/images/splashscreens/maskable_icon_x512.png",
       "type": "image/png",
       "sizes": "512x512",
-      "purpose": "any maskable"
+      "purpose": "maskable"
     }
   ]
 }
