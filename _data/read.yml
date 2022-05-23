@@ -3024,6 +3024,27 @@
       thumbnail: "https://books.google.com/books/content?id=Uk6UAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Halliwell_s_Film_Video_Guide_2003.html?hl=&id=Uk6UAAAACAAJ"
+  - isbn: "9780749954758"
+    dateFinished: "2022-05-23"
+    title: "Good Boss, Bad Boss"
+    authors:
+      - "Robert Sutton"
+    publishedDate: "2017-10-31"
+    description: "From the New York Times bestselling author of The No Asshole Rule 'I am frequently asked, \"Tom, my brother/sister/friend is taking on a new leadership role. What should they read?\" I always respond the same way, by recommending one and only one book: Bob Sutton's Good Boss, Bad Boss' - Tom Peters, New York Times bestselling author of In Search of Excellence. Good Boss, Bad Boss was inspired by the thousands of emails, calls and conversations that Robert Sutton received after publishing his bestseller The No Asshole Rule - he found that most of the stories and cries for help he received revolved around one central figure in every workplace: THE BOSS. Sutton's subsequent research showed that the success of every boss depended heavily on how well (or badly) they managed those they worked with and in Good Boss, Bad Boss he demonstrates this by weaving together the best psychological and management secrets with true stories, to reveal the mindset and moves of the best bosses, and contrasts them with the behaviour of the worst. If you want to understand how the best bosses think and act so that you can get better at your job or find a better boss to work for, Good Boss, Bad Boss has all the answers."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0749954752"
+      - type: "ISBN_13"
+        identifier: "9780749954758"
+    pageCount: 276
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=ICGwjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=ICGwjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Good_Boss_Bad_Boss.html?hl=&id=ICGwjwEACAAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
