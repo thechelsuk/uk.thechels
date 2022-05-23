@@ -12,6 +12,11 @@
     {
       "src": "/images/apple-touch-icon-144x144.png",
       "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/images/maskable-icon.png",
+      "type": "image/png",
       "sizes": "144x144",
       "purpose": "any maskable"
     }
