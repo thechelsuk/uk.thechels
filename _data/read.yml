@@ -3108,6 +3108,27 @@
       thumbnail: "https://books.google.com/books/content?id=fepEBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Scrum_A_Pocket_Guide.html?hl=&id=fepEBAAAQBAJ"
+  - isbn: "9781449325862"
+    dateFinished: "2022-05-23"
+    title: "Git Pocket Guide"
+    authors:
+      - "Richard E. Silverman"
+    publishedDate: "2013"
+    description: "Git is a tool for tracking changes made to a set of files over time, a task traditionally known as \"version control\". This pocket guide is the perfect on-the-job companion to Git, the distributed version control system. It provides a compact, readable introduction to Git for new users, as well as a reference to common commands and procedures for those with Git experience."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1449325866"
+      - type: "ISBN_13"
+        identifier: "9781449325862"
+    pageCount: 215
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=z9JVlgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=z9JVlgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Git_Pocket_Guide.html?hl=&id=z9JVlgEACAAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
