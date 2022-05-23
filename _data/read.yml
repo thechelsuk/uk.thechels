@@ -3087,6 +3087,27 @@
       thumbnail: "https://books.google.com/books/content?id=UMpUvwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Effective_Teambuilding.html?hl=&id=UMpUvwEACAAJ"
+  - isbn: "9789087537203"
+    dateFinished: "2022-05-23"
+    title: "Scrum – A Pocket Guide"
+    authors:
+      - "Gunther Verheyen"
+    publishedDate: "2013-11-04"
+    description: "This pocket guide is the one book to read for everyone who wants to learn about Scrum. The book covers all roles, rules and the main principles underpinning Scrum, and is based on the Scrum Guide Edition 2013. A broader context to this fundamental description of Scrum is given by describing the past and the future of Scrum. The author, Gunther Verheyen, has created a concise, yet complete and passionate reference about Scrum. The book demonstrates his core view that Scrum is about a journey, a journey of discovery and fun. He designed the book to be a helpful guide on that journey. Ken Schwaber, Scrum co-creator says that this book currently is the best available description of Scrum around. The book combines some rare characteristics: • It describes Scrum in its entirety, yet places it in a broader context (of past and future). • The author focuses on the subject, Scrum, in a way that it truly supports the reader. The book has a language and style in line with the philosophy of Scrum. • The book shows the playfulness of Scrum. David Starr and Ralph Jocham, Professional Scrum trainers and early agile adopters, say that this is the ultimate book to be advised as follow-up book to the students they teach Scrum to and to teams and managers of organizations that they coach Scrum to."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9789087537203"
+      - type: "ISBN_10"
+        identifier: "9087537204"
+    pageCount: 112
+    printType: "BOOK"
+    categories:
+      - "Education"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=fepEBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=fepEBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Scrum_A_Pocket_Guide.html?hl=&id=fepEBAAAQBAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
