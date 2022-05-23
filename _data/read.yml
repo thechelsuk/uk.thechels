@@ -3255,6 +3255,29 @@
       thumbnail: "https://books.google.com/books/content?id=xjXEwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/jQuery_Pocket_Reference.html?hl=&id=xjXEwAEACAAJ"
+  - isbn: "9780596004293"
+    dateFinished: "2022-05-23"
+    title: "C# Language Pocket Reference"
+    authors:
+      - "Peter Drayton"
+      - "Ben Albahari"
+      - "Ted Neward"
+    publishedDate: "2006-08-08"
+    description: "C# programmers all have one thing in common -- they're learning a new language. That fact alone brings challenges, frustrations, and constant demands on your patience. And, no matter how good your reference books are, you can't always stop to thumb through hundreds of pages to find the piece of information you need. Your answer is the C# Language Pocket Reference. Concise and easy to use, this handy pocket guide to C# comes from the authors of C# in a Nutshell, and is a must-have quick reference for anyone implementing this new object-oriented language. The C# Language Pocket Reference offers the convenience of a quick reference in a format that will actually fit in your pocket. The book includes a guide to C# language elements, a brief overview of the Framework Class library, a cross-reference for namespaces and assemblies, a list of compiler syntax and switches, a regular expressions reference guide, and more. You'll be surprised at how much information can fit into this slim volume. O'Reilly's Pocket References have become a favorite among programmers everywhere. By providing a wealth of important details in a concise, well-organized format, these handy books deliver just what you need to complete the task at hand. When you've reached a sticking point in your work and need to get to a solution quickly, the new C# Language Pocket Reference is the book you'll want to have."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "059600429X"
+      - type: "ISBN_13"
+        identifier: "9780596004293"
+    pageCount: 128
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=GG8ymQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=GG8ymQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/C_Language_Pocket_Reference.html?hl=&id=GG8ymQEACAAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
