@@ -3213,6 +3213,27 @@
       thumbnail: "https://books.google.com/books/content?id=AphYmAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Ruby_Pocket_Reference.html?hl=&id=AphYmAEACAAJ"
+  - isbn: "9780596515058"
+    dateFinished: "2022-05-23"
+    title: "CSS Pocket Reference"
+    authors:
+      - "Eric A. Meyer"
+    publishedDate: "2007-10-05"
+    description: "Looks at the key concepts of CSS and provides an alphabetical listing of the properties of CSS2 and CSS2.1."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780596515058"
+      - type: "ISBN_10"
+        identifier: "0596515057"
+    pageCount: 163
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=dfHvA4tjoQoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=dfHvA4tjoQoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/CSS_Pocket_Reference.html?hl=&id=dfHvA4tjoQoC"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
