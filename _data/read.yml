@@ -3171,6 +3171,27 @@
       thumbnail: "https://books.google.com/books/content?id=i5E_i8ywXSIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/PHP_Pocket_Reference.html?hl=&id=i5E_i8ywXSIC"
+  - isbn: "9780596004859"
+    dateFinished: "2022-05-23"
+    title: "Extreme Programming Pocket Guide"
+    authors:
+      - "Chromatic"
+    publishedDate: "2008-12-08"
+    description: "Extreme Programming (XP) is a radical new approach to software development that has been accepted quickly because its core practices--the need for constant testing, programming in pairs, inviting customer input, and the communal ownership of code--resonate with developers everywhere. Although many developers feel that XP is rooted in commonsense, its vastly different approach can bring challenges, frustrations, and constant demands on your patience. Unless you've got unlimited time (and who does these days?), you can't always stop to thumb through hundreds of pages to find the piece of information you need. The Extreme Programming Pocket Guide is the answer. Concise and easy to use, this handy pocket guide to XP is a must-have quick reference for anyone implementing a test-driven development environment. The Extreme Programming Pocket Guide covers XP assumptions, principles, events, artifacts, roles, and resources, and more. It concisely explains the relationships between the XP practices. If you want to adopt XP in stages, the Extreme Programming Pocket Guide will help you choose what to apply and when. You'll be surprised at how much practical information is crammed into this slim volume. O'Reilly's Pocket Guides have become a favorite among developers everywhere. By providing a wealth of important details in a concise, well-organized format, these handy books deliver just what you need to complete the task at hand. When you've reached a sticking point in your work and need to get to a solution quickly, the new Extreme Programming Pocket Guide is the book you'll want to have beside your keyboard."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0596004850"
+      - type: "ISBN_13"
+        identifier: "9780596004859"
+    pageCount: 112
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=tEPTzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=tEPTzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Extreme_Programming_Pocket_Guide.html?hl=&id=tEPTzQEACAAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
