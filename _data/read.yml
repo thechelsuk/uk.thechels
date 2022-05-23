@@ -3129,6 +3129,27 @@
       thumbnail: "https://books.google.com/books/content?id=z9JVlgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Git_Pocket_Guide.html?hl=&id=z9JVlgEACAAJ"
+  - isbn: "9781565925212"
+    dateFinished: "2022-05-23"
+    title: "JavaScript Pocket Reference"
+    authors:
+      - "David Flanagan"
+    publishedDate: "1998"
+    description: "JavaScript is a powerful, object-based scripting language that can be embedded directly in HTML pages. It allows you to create dynamic, interactive Web-based applications that run completely within a Web browser -- JavaScript is the language of choice for developing Dynamic HTML (DHTML) content. JavaScript can be integrated effectively with CGI and Java to produce sophisticated Web applications, although, in many cases, JavaScript eliminates the need for complex CGI scripts and Java applets altogether. The JavaScript Pocket Reference is a companion volume to JavaScript: The Definitive Guide. This small book, covering JavaScript 1.2, is a handy reference guide to this popular language for Web development. It provides a complete overview of the core JavaScript language and contains summaries of both core and client-side objects, methods, and properties."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781565925212"
+      - type: "ISBN_10"
+        identifier: "1565925211"
+    pageCount: 89
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=jCXw02NaYvEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=jCXw02NaYvEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/JavaScript_Pocket_Reference.html?hl=&id=jCXw02NaYvEC"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
