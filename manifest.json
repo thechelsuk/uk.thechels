@@ -10,19 +10,19 @@
   "start_url": "https://thechels.uk",
   "icons": [
     {
-      "src": "/images/apple-touch-icon-512x512.png",
+      "src": "/images/splashscreens/apple-touch-icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "/images/apple-touch-icon-144x144.png",
+      "src": "/images/splashscreens/apple-touch-icon-144x144.png",
       "type": "image/png",
       "sizes": "144x144"
     },
     {
-      "src": "/images/maskable_icon.png",
+      "src": "/images/splashscreens/maskable_icon_x512.png",
       "type": "image/png",
-      "sizes": "144x144",
+      "sizes": "512x512",
       "purpose": "any maskable"
     }
   ]
