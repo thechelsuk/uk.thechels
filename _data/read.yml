@@ -3192,6 +3192,27 @@
       thumbnail: "https://books.google.com/books/content?id=tEPTzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Extreme_Programming_Pocket_Guide.html?hl=&id=tEPTzQEACAAJ"
+  - isbn: "9780596514815"
+    dateFinished: "2022-05-23"
+    title: "Ruby Pocket Reference"
+    authors:
+      - "Michael Fitzgerald"
+    publishedDate: "2007-10-08"
+    description: "Although Ruby is an easy language to learn, in the heat of action you may find that you can't remember the correct syntax for a conditional or the name of a method. This handy pocket reference offers brief yet clear explanations of Ruby's core components, from operators to reserved words to data structures to method syntax, highlighting those key features that you'll likely use every day when coding Ruby. Whether you've come to Ruby because of the Rails web development framework --Ruby's killer app -- or simply because it's a relatively clean, powerful and expressive language that's useful for a lot of applications, the Ruby Pocket Reference is organized to help you find what you need quickly. This book not only will get you up to speed on how Ruby works, it provides you with a handy reference you can use anywhere, anytime. In this book, you find essential information on: Reserved words, operators, comments, numbers, variables, ranges, and symbols Predefined variables andglobal constants Conditional statements, method use, classes, and modules (mixins) Lists of methods from the Object, String, Array, and Hash classes and the Kernel module sprintf andtime formatting directories Interactive Ruby (irb) and the Ruby debugger Ruby documentation You also get information on the RubyGems package utility and Rake, a build tool similar to make.. If you're using Ruby daily and just want the facts-fast-Ruby Pocket Reference is your book."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0596514816"
+      - type: "ISBN_13"
+        identifier: "9780596514815"
+    pageCount: 176
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=AphYmAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=AphYmAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Ruby_Pocket_Reference.html?hl=&id=AphYmAEACAAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
