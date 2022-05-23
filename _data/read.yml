@@ -3234,6 +3234,27 @@
       thumbnail: "https://books.google.com/books/content?id=dfHvA4tjoQoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/CSS_Pocket_Reference.html?hl=&id=dfHvA4tjoQoC"
+  - isbn: "9781449397227"
+    dateFinished: "2022-05-23"
+    title: "jQuery Pocket Reference"
+    authors:
+      - "David Flanagan"
+    publishedDate: "2010-12-22"
+    description: "\"As someone who uses jQuery on a regular basis, it was surprising to discover how much of the library I’m not using. This book is indispensable for anyone who is serious about using jQuery for non-trivial applications.\" -- Raffaele Cecco, longtime developer of video games, including Cybernoid, Exolon, and Stormlord jQuery is the \"write less, do more\" JavaScript library. Its powerful features and ease of use have made it the most popular client-side JavaScript framework for the Web. This book is jQuery's trusty companion: the definitive \"read less, learn more\" guide to the library. jQuery Pocket Reference explains everything you need to know about jQuery, completely and comprehensively. You'll learn how to: Select and manipulate document elements Alter document structure Handle and trigger events Create visual effects and animations Script HTTP with Ajax utilities Use jQuery's selectors and selection methods, utilities, plugins and more The 25-page quick reference summarizes the library, listing all jQuery methods and functions, with signatures and descriptions."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1449397220"
+      - type: "ISBN_13"
+        identifier: "9781449397227"
+    pageCount: 156
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=xjXEwAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=xjXEwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/jQuery_Pocket_Reference.html?hl=&id=xjXEwAEACAAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
