@@ -3066,6 +3066,27 @@
       thumbnail: "https://books.google.com/books/content?id=wmn3mAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Manager_s_Guide_to_Mentoring.html?hl=&id=wmn3mAEACAAJ"
+  - isbn: "9780330298094"
+    dateFinished: "2022-05-23"
+    title: "Effective Teambuilding"
+    authors:
+      - "John Eric Adair"
+    publishedDate: "1987"
+    description: "Analyzes the nature of groups at work. Explains how effective teams can be created and developed."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0330298097"
+      - type: "ISBN_13"
+        identifier: "9780330298094"
+    pageCount: 212
+    printType: "BOOK"
+    categories:
+      - "Reference"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=UMpUvwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=UMpUvwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Effective_Teambuilding.html?hl=&id=UMpUvwEACAAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
