@@ -3150,6 +3150,27 @@
       thumbnail: "https://books.google.com/books/content?id=jCXw02NaYvEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/JavaScript_Pocket_Reference.html?hl=&id=jCXw02NaYvEC"
+  - isbn: "9780596004026"
+    dateFinished: "2022-05-23"
+    title: "PHP Pocket Reference"
+    authors:
+      - "Rasmus Lerdorf"
+    publishedDate: "2002-11-11"
+    description: "Simple, to the point, and compact--in fact, exactly what you've come to expect in an O'Reilly Pocket Reference--the second edition of PHP Pocket Reference is thoroughly updated to include the specifics of PHP 4.Written by the founder of the PHP Project, Rasmus Lerdorf, PHP Pocket Reference is both a handy introduction to PHP syntax and structure, and a quick reference to the vast array of functions provided by PHP. The quick reference section organizes all the core functions of PHP alphabetically so you can find what you need easily; the slim size means you can keep it handy beside your keyboard for those times when you want to look up a function quickly without closing what you're doing.This valuable little book provides an authoritative overview of PHP packed into a pocket-sized guide that's easy to take anywhere. It is also the ideal companion for O'Reilly's comprehensive book on PHP, Programming PHP.The PHP Pocket Reference an indispensable (and inexpensive) tool for any serious PHP coder."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780596552169"
+      - type: "ISBN_10"
+        identifier: "0596552165"
+    pageCount: 140
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=i5E_i8ywXSIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=i5E_i8ywXSIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/PHP_Pocket_Reference.html?hl=&id=i5E_i8ywXSIC"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
