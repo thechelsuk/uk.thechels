@@ -10,6 +10,11 @@
   "start_url": "https://thechels.uk",
   "icons": [
     {
+      "src": "/images/apple-touch-icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
       "src": "/images/apple-touch-icon-144x144.png",
       "type": "image/png",
       "sizes": "144x144"
