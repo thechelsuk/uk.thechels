@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-<p>Today's date is 2022-05-22</p><ul>
-<li>The average temperature today is 17.36˚C;</li>
-<li>with highs of 18.24˚C and lows of 8.4˚C.</li>
-<li>You can expect broken clouds for the day.</li>
+<p>Today's date is 2022-05-23</p><ul>
+<li>The average temperature today is 15.97˚C;</li>
+<li>with highs of 15.97˚C and lows of 9.42˚C.</li>
+<li>You can expect light rain for the day.</li>
 </ul>
 <!-- weather_marker ends -->
 
@@ -30,15 +30,5 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- sports_marker starts -->
 <ul>
-<li>(16:00) Arsenal - Everton</li>
-<li>(16:00) Brentford - Leeds United</li>
-<li>(16:00) Brighton & Hove Albion - West Ham United</li>
-<li>(16:00) Burnley - Newcastle United</li>
-<li>(16:00) Chelsea - Watford</li>
-<li>(16:00) Crystal Palace - Manchester United</li>
-<li>(16:00) Leicester City - Southampton</li>
-<li>(16:00) Liverpool - Wolverhampton Wanderers</li>
-<li>(16:00) Manchester City - Aston Villa</li>
-<li>(16:00) Norwich City - Tottenham Hotspur</li>
-</ul>
+<li>No fixtures today</li></ul>
 <!-- sports_marker ends -->
