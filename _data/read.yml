@@ -3045,6 +3045,27 @@
       thumbnail: "https://books.google.com/books/content?id=ICGwjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Good_Boss_Bad_Boss.html?hl=&id=ICGwjwEACAAJ"
+  - isbn: "9780071627986"
+    dateFinished: "2022-05-23"
+    title: "Manager's Guide to Mentoring"
+    authors:
+      - "Dr. Curtis J. Crawford"
+    publishedDate: "2009-08-12"
+    description: "Create new solutions to old problems with the power of mentoring! Mentoring is an extraordinarily powerful way of getting top performance from every employee. It’s one of the hottest management techniques used in business today, and every manager serious about developing talented employees and implementing change in his or her organization needs to master it. Manager’s Guide to Mentoring is a detailed overview covering Types of mentors, from professional to corporate to informal Mentoring across traditional cultural and gender boundaries Developing a mentoring program within your organization Manager’s Guide to Mentoring provides all the skills for using one of today’s most innovative management techniques to drive positive change in your company. Briefcase Books, written specifically for today’s busy manager, feature eye-catching icons, checklists, and sidebars to guide managers step-by-step through everyday workplace situations. Look for these innovative design features to help you navigate through each page: Clear definitions of key terms, concepts, and jargon Tactics and strategies for mentoring Insider tips for creating a mentoring program Practical advice for mentors Warning signs when preparing for and undertaking a mentoring initiative Stories and insights from the experiences of others Specific mentoring procedures, tactics, and hands-on techniques"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0071627987"
+      - type: "ISBN_13"
+        identifier: "9780071627986"
+    pageCount: 240
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=wmn3mAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=wmn3mAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Manager_s_Guide_to_Mentoring.html?hl=&id=wmn3mAEACAAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
