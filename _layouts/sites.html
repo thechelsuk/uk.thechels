@@ -1,6 +1,6 @@
 {% include header.html %}
 <h2 class="post-title">{{ page.title }}</h2>
-<p>{{ site.data.feeds | size }} RSS subscriptions.</p>
+<p><b>{{ site.data.feeds | size }}</b> RSS subscriptions.</p>
 {% assign sites = site.data.feeds | sort: "_title" %}
 {% for item in sites %}
     <article class="posts">
