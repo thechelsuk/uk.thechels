@@ -1,6 +1,6 @@
 {% include header.html %}
 <h2 class="post-title">{{ page.title }}</h2>
-<p><b>{{ site.data.read | size }}</b> books I own.</p>
+<p><small><b>{{ site.data.read | size }}</b> books I own.</small></p>
 <div class="book-list">
   {% assign books = site.data.read | sort: "dateFinished" | reverse %}
   {% for book in books %}
