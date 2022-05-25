@@ -6,8 +6,7 @@ seo: Operating Manual of Mat Benfield
 
 --- 
 
-> underlying principle: Hands-off as much as possible and hands-on as much as necessary.
-
+___underlying principle: Hands-off as much as possible and hands-on as much as necessary.___
 
 ### My Leadership Philosophy
 
