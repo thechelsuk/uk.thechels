@@ -92,7 +92,7 @@
   link: "https://audioboom.com/channels/3223350.rss"
   name: "This is Money Podcast"
 - 
-  category: Engineering
+  category: Leadership
   link: "http://feeds.feedburner.com/EngagingLeader"
   name: "Engaging Leader: Leadership communication principles with Jesse Lahey"
 - 
@@ -100,7 +100,7 @@
   link: "http://rss.acast.com/ft-money-show"
   name: "Money Clinic with Claer Barrett"
 - 
-  category: Engineering
+  category: Leadership
   link: "https://anchor.fm/s/28cc2a4/podcast/rss"
   name: "People Leading People"
 - 
@@ -164,7 +164,7 @@
   link: "https://scrummastertoolbox.libsyn.com/rss"
   name: "Scrum Master Toolbox Podcast: Agile storytelling from the trenches"
 - 
-  category: Engineering
+  category: Leadership
   link: "https://leadershipmadeeasy.libsyn.com/rss"
   name: "Leadership Made Easy"
 - 
@@ -176,7 +176,7 @@
   link: "https://www.allthingsgit.com/episodes.xml"
   name: "All Things Git"
 - 
-  category: Engineering
+  category: Leadership
   link: "https://feeds.podcastmirror.com/coaching-for-leaders"
   name: "Coaching for Leaders"
 - 
@@ -266,11 +266,11 @@
 - 
   category: Technology
   link: "https://www.relay.fm/automators/feed"
-  name: Automators
+  name: "Automators"
 - 
   category: Engineering
   link: "http://feeds.feedburner.com/NoDogmaPodcast"
-  name: "no dogma podcast"
+  name: "No Dogma Podcast"
 - 
   category: Engineering
   link: "https://stackoverflow.blog/podcast/?feed=podcast"
@@ -300,7 +300,7 @@
   link: "https://feeds.fireside.fm/standup/rss"
   name: "The Standup"
 - 
-  category: Engineering
+  category: Leadership
   link: "https://rss.art19.com/finding-mastery"
   name: "Finding Mastery"
 - 
@@ -328,7 +328,7 @@
   link: "https://feeds.simplecast.com/oFb7TFSC"
   name: "RSA Events"
 - 
-  category: Engineering
+  category: Leadership
   link: "https://doseofleadership.libsyn.com/rss"
   name: "Dose of Leadership with Richard Rierson"
 - 
@@ -388,7 +388,7 @@
   link: "https://rss.art19.com/techmeme-ridehome"
   name: "Techmeme Ride Home"
 - 
-  category: Engineering
+  category: Leadership
   link: "https://www.spreaker.com/show/4805674/episodes/feed"
   name: "Hacking Your Leadership Podcast"
 - 
@@ -412,7 +412,7 @@
   link: "http://feeds.feedburner.com/FintechNewscast"
   name: "FinTech Newscast"
 - 
-  category: Engineering
+  category: Leadership
   link: "https://www.effectiveem.com/feed/podcast/"
   name: "Effective Engineering Manager"
 - 
@@ -495,7 +495,7 @@
   link: "https://feeds.soundcloud.com/users/soundcloud:users:639640803/sounds.rss"
   name: "interactive investor"
 - 
-  category: Engineering
+  category: Leadership
   link: "https://feed.podbean.com/productfaculty/feed.xml"
   name: "CPO Mastery Podcast"
 - 
@@ -503,7 +503,7 @@
   link: "https://feeds.simplecast.com/yxSn4qK1"
   name: "Lead Time Chats"
 - 
-  category: Engineering
+  category: Leadership
   link: "https://feeds.buzzsprout.com/1687069.rss"
   name: "StaffEng - Will Larson"
 - 
@@ -535,13 +535,13 @@
   link: "https://rss.art19.com/not-overthinking"
   name: "Not Overthinking"
 - 
-  category: Engineering
+  category: Leadership
   link: "https://feeds.buzzsprout.com/1807501.rss"
   name: "The Look & Sound of Leadership"
 - 
   category: Engineering
   link: "https://changelog.com/shipit/feed"
-  name: "Ship It! DevOps, Infra, Cloud Native"
+  name: "The Changelog - Ship It! DevOps, Infra, Cloud Native"
 - 
   category: Engineering
   link: "http://rss.acast.com/ft-tech-tonic"
@@ -555,7 +555,7 @@
   link: "https://feeds.fireside.fm/appleinsider/rss"
   name: "AppleInsider Podcast"
 - 
-  category: Engineering
+  category: Leadership
   link: "https://feeds.megaphone.fm/SLO5751524607"
   name: "Secret Leaders"
 - 
@@ -587,7 +587,7 @@
   link: "https://feeds.captivate.fm/level-up-engineering/"
   name: "Level-up Engineering"
 - 
-  category: Engineering
+  category: Leadership
   link: "https://feed.podbean.com/artofcoaching/feed.xml"
   name: "The Art Of Coaching"
 - 
@@ -623,7 +623,7 @@
   link: "https://feed.podbean.com/witcih/feed.xml"
   name: "Creative Women in Tech"
 - 
-  category: Engineering
+  category: Leadership
   link: "https://feeds.megaphone.fm/LDB8042666505"
   name: "Modern CTO with Joel Beasley"
 - 
@@ -643,7 +643,7 @@
   link: "https://feeds.simplecast.com/47yfLpm0"
   name: "The Secure Developer"
 - 
-  category: Engineering
+  category: Leadership
   link: "https://feeds.simplecast.com/sizSRIY9"
   name: "CIO Exchange Podcast"
 - 
@@ -749,7 +749,7 @@
 -
   category: Finance
   link: "https://choosefi.libsyn.com/rss"
-  name: "ChooseFI"
+  name: "Choose FI"
 -
   category: Security
   link: "https://feeds.megaphone.fm/cisa-cybersecurity-alerts"
@@ -767,7 +767,7 @@
   link: "https://feeds.megaphone.fm/recodedecode"
   name: "Decoder with Nilay Patel"
 -
-  category: Engineering
+  category: Leadership
   link: "https://feed.podbean.com/developingleadership/feed.xml"
   name: "Developing Leadership"
 -
@@ -785,7 +785,7 @@
 -
   category: Other
   link: "https://feeds.soundcloud.com/users/soundcloud:users:878491849/sounds.rss"
-  name: Inside Octopus Energy
+  name: "Inside Octopus Energy"
 -
   category: Finance
   link: "https://feeds.buzzsprout.com/1723086.rss"
