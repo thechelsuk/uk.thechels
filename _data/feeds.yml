@@ -105,14 +105,6 @@
   _xmlUrl: "http://status.ifttt.com/history.rss"
 - 
   _description: ""
-  _htmlUrl: ""
-  _text: "Status - Mailgun"
-  _title: "Status - Mailgun"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://blog.mailgun.net/rss"
-- 
-  _description: ""
   _htmlUrl: "https://starlingbank.statuspage.io/"
   _text: "Status - Starling"
   _title: "Status - Starling"
@@ -353,7 +345,7 @@
   _xmlUrl: "http://salfreudenberg.wordpress.com/feed/"
 - 
   _description: ""
-  _htmlUrl: ""
+  _htmlUrl: "http://agiletortoise.com"
   _text: "Agile Tortoise"
   _title: "Agile Tortoise"
   _type: rss
@@ -441,7 +433,7 @@
   _xmlUrl: "http://DanNorth.net/index.xml"
 - 
   _description: ""
-  _htmlUrl: ""
+  _htmlUrl: "https://domk.website/blog/"
   _text: "Blog - domk.website"
   _title: "Blog - domk.website"
   _type: rss
@@ -521,7 +513,7 @@
   _xmlUrl: "https://blog.johnnyreilly.com/rss.xml"
 - 
   _description: ""
-  _htmlUrl: ""
+  _htmlUrl: "https://jvns.ca/"
   _text: "Blog - Julia Evans"
   _title: "Blog - Julia Evans"
   _type: rss
@@ -601,7 +593,7 @@
   _xmlUrl: "https://about.sourcegraph.com/rss.xml"
 - 
   _description: ""
-  _htmlUrl: ""
+  _htmlUrl: "http://blog.cleancoder.com/"
   _text: "Blog - The Clean Code"
   _title: "Blog - The Clean Code"
   _type: rss
@@ -721,7 +713,7 @@
   _xmlUrl: "http://www.designweek.co.uk/feed/"
 - 
   _description: ""
-  _htmlUrl: ""
+  _htmlUrl: "https://devtomanager.com/"
   _text: "Dev to Manager"
   _title: "Dev to Manager"
   _type: rss
@@ -857,7 +849,7 @@
   _xmlUrl: "http://leadinganswers.typepad.com/leading_answers/atom.xml"
 - 
   _description: ""
-  _htmlUrl: ""
+  _htmlUrl: "https://martinfowler.com/"
   _text: "Martin Fowler"
   _title: "Martin Fowler"
   _type: rss
@@ -873,7 +865,7 @@
   _xmlUrl: "http://www.mountaingoatsoftware.com/blog/rss"
 - 
   _description: ""
-  _htmlUrl: ""
+  _htmlUrl: "http://feeds.politico.com/politico/"
   _text: "Morning Tech"
   _title: "Morning Tech"
   _type: rss
@@ -921,7 +913,7 @@
   _xmlUrl: "http://rss1.smashingmagazine.com/feed/"
 - 
   _description: ""
-  _htmlUrl: ""
+  _htmlUrl: "https://www.stefanjudis.com/"
   _text: "Stefan Judis Web Development"
   _title: "Stefan Judis Web Development"
   _type: rss
@@ -1177,7 +1169,7 @@
   _xmlUrl: "http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches"
 - 
   _description: ""
-  _htmlUrl: ""
+  _htmlUrl: "http://blogs.technet.com/mmpc/"
   _text: "Microsoft Security"
   _title: "Microsoft Security"
   _type: rss
@@ -1185,7 +1177,7 @@
   _xmlUrl: "http://blogs.technet.com/mmpc/rss.xml"
 - 
   _description: ""
-  _htmlUrl: ""
+  _htmlUrl: "http://blogs.technet.com/msrc/"
   _text: "Microsoft Security Response Center"
   _title: "Microsoft Security Response Center"
   _type: rss
@@ -1281,7 +1273,7 @@
   _xmlUrl: "http://feeds2.feedburner.com/forkbombr/rss2"
 - 
   _description: ""
-  _htmlUrl: ""
+  _htmlUrl: "http://www.apple.com/pr/"
   _text: "Apple Newsroom"
   _title: "Apple Newsroom"
   _type: rss
@@ -1361,7 +1353,7 @@
   _xmlUrl: "http://daringfireball.net/index.xml"
 - 
   _description: ""
-  _htmlUrl: ""
+  _htmlUrl: "https://sive.rs/"
   _text: "Derek Sivers"
   _title: "Derek Sivers"
   _type: rss
@@ -1617,7 +1609,7 @@
   _xmlUrl: "https://unbreak.tech/feed.xml"
 - 
   _description: ""
-  _htmlUrl: ""
+  _htmlUrl: "http://usesthis.com/"
   _text: "Uses This"
   _title: "Uses This"
   _type: rss
@@ -1671,14 +1663,6 @@
   _type: rss
   _version: RSS
   _xmlUrl: "http://weaintgotnohistory.sbnation.com/rss/current"
-- 
-  _description: ""
-  _htmlUrl: "https://strengthrunning.com/"
-  _text: "Running - Strength Running"
-  _title: "Running - Strength Running"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://strengthrunning.com/feed/"
 - 
   _description: ""
   _htmlUrl: "https://the5krunner.com/"
