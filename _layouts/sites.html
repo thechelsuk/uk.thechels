@@ -1,0 +1,10 @@
+{% include header.html %}
+<h2 class="post-title">{{ page.title }}</h2>
+<p>{{ site.data.feeds | size }} RSS subscriptions.</p>
+{% assign sites = site.data.feeds | sort: "_title" %}
+{% for item in sites %}
+    <article class="posts">
+    {{item._title}} <span class="num-words"><a href="{{item._xmlUrl}}">{{item._htmlUrl}} &rarr;</a></span>
+    </article>
+{% endfor %}
+{% include footer.html %}
