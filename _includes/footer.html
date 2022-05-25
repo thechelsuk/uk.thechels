@@ -11,10 +11,7 @@
              {% for item in site.data.footer %}
                <a href="{{item.link}}">{{item.title}}</a> 
              {% endfor %}
-             
-           <span class="num-words">  
-             <a href="{{ site.github.repository_url }}/tree/{{ site.github.branch }}/{{ page.relative_path }}">Improve</a> 
-           </span>
+             | <a href="{{ site.github.repository_url }}/tree/{{ site.github.branch }}/{{ page.relative_path }}">Edit</a> 
         </p>
       </div>
   </div>
