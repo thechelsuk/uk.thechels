@@ -14,7 +14,7 @@ I wrote my first bit of HTML in a Notepad window sometime around 1999 and never 
 
 You can see my [curriculum vitae](/cv) and my [operating manual](/manual). 
 
-I love listening to [podcasts](/podcasts) so please [help me find more](https://github.com/MatBenfield/TheChels.uk/issues/new?assignees=MatBenfield&labels=podcast&template=podcast.md). I apparently like making lists [books](/books) and [sites](/sites) too.
+I love listening to [podcasts](/podcasts) so please [help me find more](https://github.com/MatBenfield/TheChels.uk/issues/new?assignees=MatBenfield&labels=podcast&template=podcast.md). I apparently like making lists, so here are some [books](/books) and [sites](/sites) too.
 
 ## Active Projects
 
