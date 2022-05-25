@@ -1,6 +1,6 @@
 {% include header.html %}
 <h2 class="post-title">{{ page.title }}</h2>
-<p>{{ site.data.podcasts | size }} podcast subscriptions.</p>
+<p><b>{{ site.data.podcasts | size }}</b> podcast subscriptions.</p>
 {% assign podcasts = site.data.podcasts | sort: "category" %}
 {% for cat in podcasts %}
   {% capture this_cat %}{{ cat.category }}{% endcapture %}
