@@ -1,6 +1,6 @@
 {% include header.html %}
 <h2 class="post-title">{{ page.title }}</h2>
-<p><b>{{ site.posts | size }}</b> total posts.</p>
+<p><small><b>{{ site.posts | size }}</b> total posts.</small></p>
 <div id="blog-archives">
 
         {% for post in site.posts limit:5 %}
