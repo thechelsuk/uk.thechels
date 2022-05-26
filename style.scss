@@ -81,7 +81,13 @@ body {
   display:block;
   float:right;
   margin-top: 0;
+  background: url("images/me72.png") no-repeat;
 }
+
+.blog-image:hover {
+  background: url("images/spashscreens/apple-touch-icon-72x72.png") no-repeat;
+}
+
 
 .book-list .book {
     display: flex;
