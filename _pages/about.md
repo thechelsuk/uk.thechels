@@ -8,7 +8,7 @@ seo: About page for Mat Benfield, owner of Weak Notes at thechels.uk
 
 ![banner photo of Mat running in London](/images/gh-header-image-cropped.jpg)
 
-I work as an Engineering Manager at a business-to-business, api-first fintech in the wealth and advice management space. 
+I work as an Engineering Manager at a business-to-business, api-first fintech in the wealth management and advice space. 
 
 I wrote my first bit of HTML in a Notepad window sometime around 1999 and never really stopped, I've been hands-off day-to-day at work for several years now but I still like to dabble in my spare time.
 
