@@ -13,7 +13,7 @@ LAT = os.getenv("lat")
 LON = os.getenv("lon")
 APIKEY = os.getenv("open_weather_key")
 url = (
-    "https://api.openweathermap.org/data/2.5/onecall?lat=%s&lon=%s&appid=%s&exclude=current,minutely,hourly,alerts&units=metric"
+    "https://api.openweathermap.org/data/3.0/onecall?lat=%s&lon=%s&appid=%s&exclude=current,minutely,hourly,alerts&units=metric"
      % (LAT, LON, APIKEY)
 )
 
@@ -28,10 +28,16 @@ high_temp = str(response_dict["daily"][0]["temp"]["max"])
 low_temp = str(response_dict["daily"][0]["temp"]["min"])
 today_desc = str(response_dict["daily"][0]["weather"][0]["description"])
 
+alert_event = str(response_dict["alerts"][0]["event")
+alert_desc = str(response_dict["alerts"][0]["description"])
+
 string_today = f"<p>Today's date is {output_date}</p>"
 string_today += f"<ul>\n<li>The average temperature today is {today_weather}˚C;</li>\n"
-string_today += f"<li>with highs of {high_temp}˚C and lows of {low_temp}˚C.</li>\n"
-string_today += f"<li>You can expect {today_desc} for the day.</li>\n</ul>"
+string_today += f"<li>With highs of {high_temp}˚C and lows of {low_temp}˚C.</li>\n"
+string_today += f"<li>You can expect {today_desc} for the day.</li>\n"
+string_today += f"<li>Alert: {alert_event}.</li>\n"
+string_today += f"<li>{alert_desc}.</li>\n"
+string_today += f"</ul>"
 
 # processing
 if __name__ == "__main__":
