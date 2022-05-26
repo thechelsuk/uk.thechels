@@ -2,10 +2,13 @@
 
 name: Contact
 about: Simple way to message me - please note these are public
-title: Subject -
+title: Contact 
 labels: 'contact'
 assignees: 'MatBenfield'
 
 ---
 
-Your message
+Subject:
+
+
+Your message:
