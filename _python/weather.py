@@ -19,7 +19,8 @@ url = (
 
 response = requests.get(url)
 response_dict = json.loads(response.text)
-output_date = date.today('%d, %b %Y')
+d = date.today()
+output_date = d.strftime("%A %d. %B %Y")
 
 print(response_dict)
 
