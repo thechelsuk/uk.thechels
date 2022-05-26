@@ -28,7 +28,7 @@ high_temp = str(response_dict["daily"][0]["temp"]["max"])
 low_temp = str(response_dict["daily"][0]["temp"]["min"])
 today_desc = str(response_dict["daily"][0]["weather"][0]["description"])
 
-alert_event = str(response_dict["alerts"][0]["event")
+alert_event = str(response_dict["alerts"][0]["event"])
 alert_desc = str(response_dict["alerts"][0]["description"])
 
 string_today = f"<p>Today's date is {output_date}</p>"
