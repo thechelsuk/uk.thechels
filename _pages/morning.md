@@ -7,9 +7,9 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-<p>Today's date is 2022-05-26</p><ul>
-<li>The average temperature today is 16.39˚C;</li>
-<li>with highs of 17.03˚C and lows of 8.34˚C.</li>
+<p>Today's date is Thursday 26. May 2022</p><ul>
+<li>The average temperature today is 16.67˚C;</li>
+<li>With highs of 16.98˚C and lows of 8.34˚C.</li>
 <li>You can expect light rain for the day.</li>
 </ul>
 <!-- weather_marker ends -->
@@ -18,11 +18,11 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 <ul>
-<li>VWRL.L : 83.138</li>
-<li>V3AB.L : 3.67154</li>
-<li>SPXP.L : 59946.01953</li>
-<li>IMID.L : 173.675</li>
-<li>BRK-B : 308.64001</li>
+<li>VWRL.L : 84.07</li>
+<li>V3AB.L : 3.719</li>
+<li>SPXP.L : 60978.0</li>
+<li>IMID.L : 176.795</li>
+<li>BRK-B : 312.5</li>
 </ul>
 <!-- stocks_marker ends -->
 
