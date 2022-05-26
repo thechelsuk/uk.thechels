@@ -80,12 +80,14 @@ body {
 .blog-image {
   display:block;
   float:right;
+  height: 72px;
+  width: 72px;
   margin-top: 0;
   background: url("images/me72.png") no-repeat;
 }
 
 .blog-image:hover {
-  background: url("images/spashscreens/apple-touch-icon-72x72.png") no-repeat;
+  background: url("images/logo.png") no-repeat;
 }
 
 
