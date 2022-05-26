@@ -19,7 +19,7 @@ url = (
 
 response = requests.get(url)
 response_dict = json.loads(response.text)
-output_date = date.today()
+output_date = date.today.strftime('%d, %b %Y')
 
 print(response_dict)
 
@@ -32,14 +32,10 @@ alert_event = str(response_dict["alerts"][0]["event"])
 alert_desc = str(response_dict["alerts"][0]["description"])
 
 string_today = f"<p>Today's date is {output_date}</p>"
-string_today += f"<ul>\n<li>The average temperature today is {today_weather}˚C;</li>\n"
+string_today += f"<ul>\n"
+string_today += f"<li>The average temperature today is {today_weather}˚C;</li>\n"
 string_today += f"<li>With highs of {high_temp}˚C and lows of {low_temp}˚C.</li>\n"
-string_today += f"<li>You can expect {today_desc} for the day.</li>\n"
-        
-if(alert_event):
-    string_today += f"<li>Alert: {alert_event}.</li>\n"
-    string_today += f"<li>{alert_desc}.</li>\n"
-                                             
+string_today += f"<li>You can expect {today_desc} for the day.</li>\n"                              
 string_today += f"</ul>"
 
 # processing
