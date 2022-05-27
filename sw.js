@@ -18,16 +18,6 @@ function createCacheBustedRequest(url) {
   return new Request(bustedUrl);
 }
 
-self.addEventListener('install', event => {
-  event.waitUntil(
-    fetch(createCacheBustedRequest(OFFLINE_URL)).then(function(response) {
-      return caches.open(CURRENT_CACHES.offline).then(function(cache) {
-        return cache.put(OFFLINE_URL, response);
-      });
-    })
-  );
-});
-
 self.addEventListener('install', function(event) {
   event.waitUntil(
     caches.open(CURRENT_CACHES).then(function(cache) {
@@ -36,8 +26,12 @@ self.addEventListener('install', function(event) {
           '/style.css',
           '/index.html',
           '/images/gh-header-image-cropped.jpg',
+          '/images/logo.png',
+          '/images/me72.png',
           '/about.html',
           '/books.html',
+          '/cv.html',
+          '/manual.html',
           '/podcasts.html',
           '/morning.html'         
         ]
@@ -56,8 +50,6 @@ self.addEventListener('activate', event => {
       return Promise.all(
         cacheNames.map(cacheName => {
           if (expectedCacheNames.indexOf(cacheName) === -1) {
-            // If this cache name isn't present in the array of "expected" cache names,
-            // then delete it.
             console.log('Deleting out of date cache:', cacheName);
             return caches.delete(cacheName);
           }
