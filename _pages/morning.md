@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-<p>Today's date is Thursday 26. May 2022</p><ul>
-<li>The average temperature today is 16.67˚C;</li>
-<li>With highs of 16.98˚C and lows of 8.34˚C.</li>
-<li>You can expect light rain for the day.</li>
+<p>Today's date is Friday 27. May 2022</p><ul>
+<li>The average temperature today is 15.38˚C;</li>
+<li>With highs of 16.48˚C and lows of 7.54˚C.</li>
+<li>You can expect broken clouds for the day.</li>
 </ul>
 <!-- weather_marker ends -->
 
