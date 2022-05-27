@@ -4,7 +4,7 @@
 {% assign sites = site.data.feeds | sort: "_title" %}
 {% for item in sites %}
     <article class="posts">
-    {{item._title}} <span class="num-words"><a href="{{item._xmlUrl}}">{{item._htmlUrl}} &rarr;</a></span>
+        {{item._title}} <span class="num-words"><a href="{{item._htmlUrl}} ">{{item._htmlUrl}}</a> <a href="{{item._xmlUrl}}">&rarr;</a></span>
     </article>
 {% endfor %}
 {% include footer.html %}

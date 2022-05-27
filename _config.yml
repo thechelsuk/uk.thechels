@@ -7,6 +7,7 @@ url:            https://thechels.uk
 copyright:      "Mat B"
 encoding:       UTF-8
 future:         false
+repository:     MatBenfield/TheChels.uk
 github:
   repository_url: https://github.com/MatBenfield/TheChels.uk
   branch: main
@@ -16,6 +17,7 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-avatar
+  - jekyll-github-metadata
 exclude:
   - CNAME
   - README.md

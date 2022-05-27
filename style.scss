@@ -1,9 +1,8 @@
 ---
 # Front matter comment to ensure Jekyll properly reads file.
 ---
-
 // 16px = 1em
-
+$background: #FFFFFF;
 $font-darkest: #04100D;
 $font-dark: #00233D;
 $border-light: #ACD7EC;
@@ -22,11 +21,8 @@ body {
   font-family:Lato,'San Francisco','Gill Sans',sans-serif;
   color: $font-darkest;
   font-size: 1em;
-  background: #fff;
-}
-
-* {
-    box-sizing: border-box;
+  background: $background;
+  box-sizing: border-box;
 }
 
 #outer-wrapper {
@@ -66,7 +62,7 @@ body {
   font-variant: small-caps;
   color: $border-dark;
   margin-left: 2px;
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 .blog-menu {
@@ -80,8 +76,16 @@ body {
 .blog-image {
   display:block;
   float:right;
+  height: 72px;
+  width: 72px;
   margin-top: 0;
+  background: url("images/me72.png") no-repeat;
 }
+
+.blog-image:hover {
+  background: url("images/logo.png") no-repeat;
+}
+
 
 .book-list .book {
     display: flex;
@@ -108,16 +112,10 @@ body {
   padding: 5px;
 }
 
-h2,
-h3,
-h4,
-h5 {
-  position: relative;
-}
-
 h2 {
   font-size: 1.5em;
   margin-bottom: 28px;
+  position: relative;
 
   a {
     color: $links;
@@ -134,17 +132,20 @@ h3 {
   margin-top: 32px;
   margin-left: -30px;
   padding-left: 30px;
+  position: relative;
 }
 
 h4 {
   margin-left: -25px;
   padding-left: 25px;
+  position: relative;  
 }
 
 h5 {
   font-size: 1.2em;
   margin-left: -25px;
   padding-left: 25px;
+  position: relative;
 }
 
 h3 a,
@@ -210,10 +211,6 @@ strong code {
   background: $font-dark;
 }
 
-.superhero strong {
-  background: none !important;
-}
-
 code {
   font-family: Courier, monospace;
   font-size:.9em;
@@ -230,7 +227,7 @@ pre {
   border-radius: 4px;
 
   code {
-    font-size: 0.9em;
+    font-size: .9em;
     display: block;
     overflow: auto;
     background: #eee;
@@ -264,7 +261,7 @@ blockquote:before {
   margin-top: -10px;
   font-family: "times new roman";
   color: $font-dark;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 blockquote:after {
@@ -276,11 +273,10 @@ blockquote:after {
   margin-left: -45px;
   font-family: "times new roman";
   color: $font-dark;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 blockquote p {
-  display: inline;
   float: left;
   margin-top: 0;
   margin-left: 10px;
@@ -292,7 +288,7 @@ cite {
 }
 
 .footnote {
-  font-size: 0.75em;
+  font-size: .75em;
   color: $font-dark;
 
   sup {
@@ -312,7 +308,7 @@ cite {
 
 .meta {
   color: $font-dark;
-  font-size: 0.75em;
+  font-size: .75em;
   position: absolute;
   top: 18px;
   right: 0;
@@ -322,8 +318,6 @@ cite {
   margin-bottom: 20px;
 }
 
-
-// NEW STYLES
 .posts .num-words {
   color: $font-dark;
   font-size: 75%;
@@ -334,15 +328,8 @@ cite {
   margin-left: 0;
   padding-left: 0;
   margin-bottom: 12px;
-  transition: all 0.1s;
-
-    &.hidden {
-      height: 0;
-      overflow: hidden;
-      opacity: 0;
-      margin-bottom: 0;
-    }
-  }
+  transition: all .1s;
+}
 
   .poster {
     width: 100px;
@@ -367,7 +354,7 @@ cite {
 
 .footer {
   line-height: 40px;
-  font-size: 0.8em;
+  font-size: .8em;
 
   .wrapper {
     width: 860px;
@@ -376,7 +363,7 @@ cite {
    
   .p {    
   clear: both;
-  font-size: 0.9em;
+  font-size: .9em;
   text-transform: lowercase;
   font-variant: small-caps;
   color: $font-darkest;
@@ -432,25 +419,19 @@ cite {
 
   .num-words {
     display: block;
-    float: none !important;
-    margin-left: 0 !important;
+    float: none;
+    margin-left: 0;
   }
   
-  .post-num-words {
-    float: none !important;
-  }
-
   .footer,
   #outer-wrapper:after {
     height: 60px;
   }
 }
 
-// Smartphones (portrait and landscape)
-
 @media only screen
-and (min-device-width:320px)
-and (max-device-width:480px) {
+and (min-width:320px)
+and (max-width:480px) {
  
   .blog-menu {
     margin-bottom: 10px;
