@@ -115,16 +115,10 @@ body {
   padding: 5px;
 }
 
-h2,
-h3,
-h4,
-h5 {
-  position: relative;
-}
-
 h2 {
   font-size: 1.5em;
   margin-bottom: 28px;
+  position: relative;
 
   a {
     color: $links;
@@ -141,17 +135,20 @@ h3 {
   margin-top: 32px;
   margin-left: -30px;
   padding-left: 30px;
+  position: relative;
 }
 
 h4 {
   margin-left: -25px;
   padding-left: 25px;
+  position: relative;  
 }
 
 h5 {
   font-size: 1.2em;
   margin-left: -25px;
   padding-left: 25px;
+  position: relative;
 }
 
 h3 a,
@@ -215,10 +212,6 @@ img {
 
 strong code {
   background: $font-dark;
-}
-
-.superhero strong {
-  background: none !important;
 }
 
 code {
@@ -287,7 +280,6 @@ blockquote:after {
 }
 
 blockquote p {
-  display: inline;
   float: left;
   margin-top: 0;
   margin-left: 10px;
@@ -340,14 +332,7 @@ cite {
   padding-left: 0;
   margin-bottom: 12px;
   transition: all .1s;
-
-    &.hidden {
-      height: 0;
-      overflow: hidden;
-      opacity: 0;
-      margin-bottom: 0;
-    }
-  }
+}
 
   .poster {
     width: 100px;
@@ -437,14 +422,10 @@ cite {
 
   .num-words {
     display: block;
-    float: none !important;
-    margin-left: 0 !important;
+    float: none;
+    margin-left: 0;
   }
   
-  .post-num-words {
-    float: none !important;
-  }
-
   .footer,
   #outer-wrapper:after {
     height: 60px;
