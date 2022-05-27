@@ -67,7 +67,7 @@ body {
   font-variant: small-caps;
   color: $border-dark;
   margin-left: 2px;
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 .blog-menu {
@@ -239,7 +239,7 @@ pre {
   border-radius: 4px;
 
   code {
-    font-size: 0.9em;
+    font-size: .9em;
     display: block;
     overflow: auto;
     background: #eee;
@@ -273,7 +273,7 @@ blockquote:before {
   margin-top: -10px;
   font-family: "times new roman";
   color: $font-dark;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 blockquote:after {
@@ -285,7 +285,7 @@ blockquote:after {
   margin-left: -45px;
   font-family: "times new roman";
   color: $font-dark;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 blockquote p {
@@ -301,7 +301,7 @@ cite {
 }
 
 .footnote {
-  font-size: 0.75em;
+  font-size: .75em;
   color: $font-dark;
 
   sup {
@@ -343,7 +343,7 @@ cite {
   margin-left: 0;
   padding-left: 0;
   margin-bottom: 12px;
-  transition: all 0.1s;
+  transition: all .1s;
 
     &.hidden {
       height: 0;
@@ -376,7 +376,7 @@ cite {
 
 .footer {
   line-height: 40px;
-  font-size: 0.8em;
+  font-size: .8em;
 
   .wrapper {
     width: 860px;
@@ -385,7 +385,7 @@ cite {
    
   .p {    
   clear: both;
-  font-size: 0.9em;
+  font-size: .9em;
   text-transform: lowercase;
   font-variant: small-caps;
   color: $font-darkest;
@@ -454,8 +454,6 @@ cite {
     height: 60px;
   }
 }
-
-// Smartphones (portrait and landscape)
 
 @media only screen
 and (min-device-width:320px)
