@@ -3,13 +3,25 @@
 ---
 
 // 16px = 1em
-
+$background: #FFFFFF;
 $font-darkest: #04100D;
 $font-dark: #00233D;
 $border-light: #ACD7EC;
 $border-dark: #005CA3;
 $links: #295147;
 $links-active: #376C5F;
+
+:root {
+  --color-fg: $font-dark;
+  --color-bg: $background;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-fg: $background;
+    --color-bg: $font-dark;
+  }
+}
 
 html,
 body {
@@ -20,9 +32,9 @@ body {
   border-top: 12px solid $border-dark;
   margin: 0;
   font-family:Lato,'San Francisco','Gill Sans',sans-serif;
-  color: $font-darkest;
+  color: var(--color-fg);
   font-size: 1em;
-  background: #fff;
+  background: var(--color-bg);
 }
 
 * {
