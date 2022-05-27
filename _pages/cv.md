@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Mat Benfield | Engineering Manager
+title: Mat | Engineering Manager
 permalink: /cv
 seo: CV of Mat Benfield
 
 --- 
 
-## Personal Profile
+### Personal Profile
 
 Passionate and experienced Head of Software Development with a focus on agile methodologies and delivering value. A leader and catalyst for change. Attends local .Net Meet-ups and "geek nights" to further extend knowledge and be a member of the development community. A 'driver' with a focus on task management and delivery through people development
 
@@ -16,7 +16,7 @@ Created, published and managed football statistics website (WordPress, PHP, MySQ
 
 Latest personal project was to redesign running club website using Jekyll, a static site generator on Ruby hosted on GitHub pages.
 
-## Core Skills
+### Core Skills
 
 - Methodologies - Shape-up, Scrum, Kanban, Waterfall
 - Stack: C# .Net, MVC, nuget, Azure, Oracle
@@ -28,25 +28,25 @@ Latest personal project was to redesign running club website using Jekyll, a sta
 - Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress, Mural, Confluence, Jira, Airtable.
 - OS : Mac, Windows
 
-## Employment History
+### Employment History
 
-### Seccl
+#### Seccl
 
 _Seccl’s technology helps advisers, investment managers, and fintechs of all sizes to operate their own investment platform. Seccl are an API first technology company operating in the wealth management, financial services sector._
 
-#### ENGINEERING MANAGER (June 2021 - Current)
+##### ENGINEERING MANAGER (June 2021 - Current)
 
 Leading multiple squads in the investments and advice tribe with a focus on delivery, empowering and growing our engineers.
 
-### Higher Education Statistics Agency
+#### Higher Education Statistics Agency
 
 _Collects, processes, and publishes data about all aspects of the higher education landscape in the UK as the trusted source of HE data and analysis as Designated Data body. In addition to roles acted as a Product Owner, (certified) Scrum Master, Staff Forum representative, and fire marshal from time-to-time._
 
-#### HEAD OF SOFTWARE DEVELOPMENT (October 2019 - June 2021)
+##### HEAD OF SOFTWARE DEVELOPMENT (October 2019 - June 2021)
 
 _co-led a team of 30 lead developers, developers and testers, expanding to 46 including test manager, lead developers, lead testers, scrum master, developers and testers. heading up the Data Futures project from a technical perspective in conjunction with a delivery partner organisation._
 
-##### Key responsibilities
+###### Key responsibilities
 
 - Line management, pastoral care, objective setting and appraisals, resourcing and recruitment
 - Member of information security and data protection management group
@@ -56,7 +56,7 @@ _co-led a team of 30 lead developers, developers and testers, expanding to 46 in
 - Close collaboration for architects, product owners, directors, and CEO on project direction
 - Working with third party partner organisations and key stakeholders during requirements, planning, and funding phases.
 
-##### Key achievements and projects
+###### Key achievements and projects
 
 - Implementation of a secure development policy, test strategy, technology strategy and tech radar
 - Ensured recertification of ISO27001 security standard
@@ -66,11 +66,11 @@ _co-led a team of 30 lead developers, developers and testers, expanding to 46 in
 - successful business change process to promote testers into Lead tester roles.
 - successful busienss change to address pay parity and reduction in gender pay gap
 
-#### LEAD SOFTWARE DEVELOPER (October 2018 – October 2019)
+##### LEAD SOFTWARE DEVELOPER (October 2018 – October 2019)
 
 _Planning, designing and developing server and client applications. Having a key role in ensuring the best technologies and techniques are used in their development. Development of technical capability and involvement in performance assessment and development of junior colleagues. Working day-to- day within a scrum team._
 
-##### Key responsibilities
+###### Key responsibilities
 
 - Line management, pastoral care, objective setting and appraisals, resourcing
 - Development work within scrum team
@@ -80,7 +80,7 @@ _Planning, designing and developing server and client applications. Having a key
 - Fostered good working relationships with government/statutory colleagues
 - Ensuring quality throughout software development lifecycle
 
-##### Key achievements and projects
+###### Key achievements and projects
 
 - Setting up regular video training lunch sessions
 - Update and implementation of skills framework
@@ -89,24 +89,24 @@ _Planning, designing and developing server and client applications. Having a key
 - Building and identification of technical debt register and encouraging team to tackle one item per sprint
 - Knowledge sharing sessions and training to colleagues on Agile/Scrum, mental health and design patterns
 
-#### SOFTWARE DEVELOPER (July 2015 - October 2018)
+##### SOFTWARE DEVELOPER (July 2015 - October 2018)
 
 Development and maintenance of data collection system (c#, MVC, Oracle, azure blob storage) - identify, design, estimate, prioritise and deliver work items in Azure DevOps
 
-##### Key responsibilities
+###### Key responsibilities
 
 - Development and maintenance of data collection system (c#, MVC, Oracle, azure blob storage)
 - Identify, design, estimate, prioritise and deliver work items in Azure DevOps
 - Acting scrum master for the team
 
-##### Key achievements and projects
+###### Key achievements and projects
 
 - Led team on new delivery software used by all scrum teams / projects. Under build control and release. XML configuration. Software reads, creates, checks, uploads data in file/oracle to customers, running on a schedule.
 - Volunteered for special team to redesign unistats project - from legacy oracle SQL scripts to xml/c# project with unit tests
 - Selected for project team to oversee redesign of corporate website (outsourced). User workshops and requirements gathering. Subject matter expert.
 - Redesigned lookup service micro site
 
-#### WEB DEVELOPER (May 2011 – July 2015)
+##### WEB DEVELOPER (May 2011 – July 2015)
 
 - Design, maintenance and support for all internal applications (web-based issue tracking, asset tracking, contacts database)
 - Maintenance of main corporate website (PHP, MYSQL/ORACLE) with e-commerce
@@ -116,22 +116,22 @@ Development and maintenance of data collection system (c#, MVC, Oracle, azure bl
 - Created and redesigned main website migrating from Joomla 1.0 to 2.5
 - Created web based mobile application displaying provider data, also embedded on main website
 
-#### DATA ANALYST (March 2006 – May 2011)
+##### DATA ANALYST (March 2006 – May 2011)
 
 - Designed, created and specified documentation for a new data collection record
 - Generated PL/SQL script to automate manual checking
 - Generated, maintained and published data for high profile performance indicators
 - Trained new members of staff, including new line manager
 
-## Education Summary
+### Education Summary
 
-### Solent University
+#### Solent University
 
 - Business Information Systems & Business Information Technology (Computing) HND, HNC - 2001-2005
 
 _Database management systems, systems analysis and design, computer management, software constructs and tools, data analysis and database design, multimedia and internet development, information analysis, quality management principles, communication technology._
 
-### North Leamington School & Binswood 6th Form
+#### North Leamington School & Binswood 6th Form
 
 - 2 A Levels in Psychology and general studies, BTEC in Business Studies.
 - 10 GCSEs including English (double), Science (double), Maths, French, Spanish and Geography
