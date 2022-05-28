@@ -1,8 +1,12 @@
 ---
 name: Add podcast
 about: Update my podcast library
-title: 
+title: New Podcast
 labels: 'podcast'
 assignees: '@MatBenfield'
 
 ---
+
+Category: 
+Url: ""
+Title: ""
