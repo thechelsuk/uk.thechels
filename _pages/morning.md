@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-<p>Today's date is Friday 27. May 2022</p><ul>
-<li>The average temperature today is 14.89˚C;</li>
-<li>With highs of 16.48˚C and lows of 7.57˚C.</li>
-<li>You can expect broken clouds for the day.</li>
+<p>Today's date is Saturday 28. May 2022</p><ul>
+<li>The average temperature today is 15.63˚C;</li>
+<li>With highs of 16.03˚C and lows of 6.43˚C.</li>
+<li>You can expect scattered clouds for the day.</li>
 </ul>
 <!-- weather_marker ends -->
 
@@ -18,11 +18,11 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 <ul>
-<li>VWRL.L : 84.05</li>
-<li>V3AB.L : 3.70988</li>
-<li>SPXP.L : 60917.67969</li>
-<li>IMID.L : 176.795</li>
-<li>BRK-B : 312.5</li>
+<li>VWRL.L : 85.29</li>
+<li>V3AB.L : 3.77375</li>
+<li>SPXP.L : 61996.5</li>
+<li>IMID.L : 179.5</li>
+<li>BRK-B : 319.10999</li>
 </ul>
 <!-- stocks_marker ends -->
 
@@ -30,5 +30,6 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- sports_marker starts -->
 <ul>
-<li>No fixtures today</li></ul>
+<li>(20:00) Liverpool - Real Madrid</li>
+</ul>
 <!-- sports_marker ends -->
