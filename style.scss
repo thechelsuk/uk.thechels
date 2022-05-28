@@ -318,10 +318,14 @@ cite {
   margin-bottom: 20px;
 }
 
-.posts .num-words {
+.posts .num-words, .post-num-words {
   color: $font-dark;
   font-size: 75%;
   margin-left: 6px;
+}
+
+post-num-words {
+  transform: small-caps;
 }
 
 .posts {
