@@ -886,3 +886,7 @@
   category: Other
   link: "https://audioboom.com/channels/2399216.rss"
   name: "No Such Thing As A Fish"
+-
+  category: Engineering
+  link: "https://feed.syntax.fm/rss"
+  name: "Syntax"
