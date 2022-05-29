@@ -8,8 +8,8 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- weather_marker starts -->
 <p>Today's date is Sunday 29. May 2022</p><ul>
-<li>The average temperature today is 12.61˚C;</li>
-<li>With highs of 12.61˚C and lows of 5.88˚C.</li>
+<li>The average temperature today is 10.71˚C;</li>
+<li>With highs of 11.61˚C and lows of 6.42˚C.</li>
 <li>You can expect light rain for the day.</li>
 </ul>
 <!-- weather_marker ends -->
