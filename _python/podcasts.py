@@ -1,5 +1,4 @@
 # importing modules
-import yaml
 import os
 import pathlib
 
