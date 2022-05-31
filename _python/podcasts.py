@@ -4,7 +4,7 @@ import pathlib
 
 root = pathlib.Path(__file__).parent.parent.resolve()
 yamlFile = root / "_data/podcasts.yml"
-content = os.getenv("content").replace('`','').replace("/n/n","/n").strip()
+content = os.getenv("content").replace('`','').strip()
 
 try:    
     with open(yamlFile, 'a') as f:
