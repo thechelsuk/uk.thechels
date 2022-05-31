@@ -46,7 +46,6 @@ jobs:
           delete-branch: true
           title: "Feat: ${{ github.event.issue.title}}"
           body: |
-            > ${{ github.event.issue.body }}
             Automatic PR for Config change: ${{ steps.title.outputs.title }}
             Closes #${{ github.event.issue.number }}
           reviewers: "${{ github.repository_owner }}"
