@@ -3278,6 +3278,27 @@
       thumbnail: "https://books.google.com/books/content?id=GG8ymQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/C_Language_Pocket_Reference.html?hl=&id=GG8ymQEACAAJ"
+  - isbn: "9781781256176"
+    dateFinished: "2022-05-31"
+    title: "Good Strategy/Bad Strategy"
+    authors:
+      - "Richard Rumelt"
+    publishedDate: "2017-09-07"
+    description: "When Richard Rumelt's Good Strategy/Bad Strategy was published in 2011, it immediately struck a chord, calling out as bad strategy the mish-mash of pop culture, motivational slogans and business buzz speak so often and misleadingly masquerading as the real thing.Since then, his original and pragmatic ideas have won fans around the world and continue to help readers to recognise and avoid the elements of bad strategy and adopt good, action-oriented strategies that honestly acknowledge the challenges being faced and offer straightforward approaches to overcoming them. Strategy should not be equated with ambition, leadership, vision or planning; rather, it is coherent action backed by an argument.For Rumelt, the heart of good strategy is insight into the hidden power in any situation, and into an appropriate response - whether launching a new product, fighting a war or putting a man on the moon. Drawing on examples of the good and the bad from across all sectors and all ages, he shows how this insight can be cultivated with a wide variety of tools that lead to better thinking and better strategy, strategy that cuts through the hype and gets results."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1781256179"
+      - type: "ISBN_13"
+        identifier: "9781781256176"
+    pageCount: 322
+    printType: "BOOK"
+    categories:
+      - "Strategic planning"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=zFC7AQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=zFC7AQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Good_Strategy_Bad_Strategy.html?hl=&id=zFC7AQAACAAJ"
   - isbn: "9780136524038"
     dateFinished: "2022-07-01"
     title: "Righting Software"
