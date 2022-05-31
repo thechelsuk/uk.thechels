@@ -905,4 +905,7 @@
 -
   category: Security
   link: "https://feeds.megaphone.fm/control-loop"
-  name: "Cyberwire - Control Loop"
+  name: "Cyberwire - Control Loop"-
+  category: Security
+  link: "https://feeds.megaphone.fm/cyberwire-research-saturday"
+  name: "Cyberwire - Research Saturday"
