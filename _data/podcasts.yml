@@ -902,3 +902,7 @@
   category: Security
   link: "https://feeds.megaphone.fm/cyberwire-word-notes"
   name: "Cyberwire - Word Notes"
+-
+  category: Security
+  link: "https://feeds.megaphone.fm/control-loop"
+  name: "Cyberwire - Control Loop"
