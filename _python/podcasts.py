@@ -8,7 +8,7 @@ yamlFile = root / "_data/podcasts.yml"
 content = os.getenv("content").replace('`','').strip()
 
 try:    
-    with open(yamlFile, 'r+') as f:
+    with open(yamlFile, 'a') as f:
         outputs = f.write(content)
         print(outputs)        
 except FileNotFoundError:
