@@ -9,7 +9,6 @@ content = os.getenv("content").replace('`','').strip()
 
 try:    
     with open(yamlFile, 'r+') as f:
-        data = yaml.safe_load(f)
         outputs = f.write(content)
         print(outputs)        
 except FileNotFoundError:
