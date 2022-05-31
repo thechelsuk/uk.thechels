@@ -10,7 +10,7 @@ env:
   issue_number: ${{ github.event.issue.number }}
 jobs:
   Checks:
-    if: contains( github.event.issue.labels.*.name, 'podcasts')
+    if: contains( github.event.issue.labels.*.name, 'podcast')
     runs-on: ubuntu-latest
     steps:
       - name: Echo
