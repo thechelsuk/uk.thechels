@@ -19,3 +19,7 @@
   id: "5"
   link: "https://thechels.uk/.well-known/security.txt"
   title: "Security"
+- 
+  id: "6"
+  link: "https://thechels.uk/privacy"
+  title: "Privacy"
