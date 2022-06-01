@@ -1,25 +1,22 @@
---- 
-- 
+---
+-
   id: "1"
   link: "https://thechels.uk/feed.json"
   title: "Feed"
-- 
+-
   id: "2"
   link: "https://thechels.uk/humans.txt"
   title: "Humans"
-- 
+-
   id: "3"
   link: "https://thechels.uk/robots.txt"
   title: "Robots"
-- 
+-
   id: "4"
   link: "https://thechels.uk/sitemap.xml"
-  title: "Sitemap"  
-- 
+  title: "Sitemap"
+-
   id: "5"
   link: "https://thechels.uk/.well-known/security.txt"
   title: "Security"
-- 
-  id: "6"
-  link: "https://thechels.uk/privacy"
-  title: "Privacy"
+

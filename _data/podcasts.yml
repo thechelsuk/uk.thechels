@@ -346,7 +346,7 @@
 - 
   category: News
   link: "https://57iy69iy4b.execute-api.eu-west-1.amazonaws.com/prod/PodcastAPI?cid=apym27dtie&pid=p05hh4qy"
-  name: "BBC -  News"
+  name: "BBC - News"
 - 
   category: Technology
   link: "https://atp.fm/episodes?format=rss"
