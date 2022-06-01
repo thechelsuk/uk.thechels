@@ -32,3 +32,13 @@ seo: Good Morning Mat, Here is your daily briefing
 <ul>
 <li>No fixtures today</li></ul>
 <!-- sports_marker ends -->
+
+<h3>CFC news</h3>
+<!-- cfc_marker starts -->
+
+<!-- cfc_marker ends -->
+
+<h3>Word of the day</h3>
+<!-- word_marker starts -->
+
+<!-- word_marker ends -->
