@@ -8,6 +8,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- weather_marker starts -->
 #### Today's date is Wednesday 01. June 2022
+
 - The average temperature today is 14.65˚C;
 - With highs of 15.32˚C and lows of 5.85˚C.
 - You can expect light rain for the day.

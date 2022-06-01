@@ -64,7 +64,7 @@ _co-led a team of 30 lead developers, developers and testers, expanding to 46 in
 - Transition from TFS to Git, .NET Framework to core.
 - set up and led Leadership training lunch and learn session with 8 colleagues based on career goals
 - successful business change process to promote testers into Lead tester roles.
-- successful busienss change to address pay parity and reduction in gender pay gap
+- successful business change to address pay parity and reduction in gender pay gap
 
 ##### LEAD SOFTWARE DEVELOPER (October 2018 – October 2019)
 
