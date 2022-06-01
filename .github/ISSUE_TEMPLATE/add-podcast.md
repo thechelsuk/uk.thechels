@@ -9,7 +9,7 @@ assignees: '@MatBenfield'
 
 ```
 -
-  category: 
+  category:
   link: ""
   name: ""
-``` 
+```

@@ -1,7 +1,7 @@
 ---
 name: Add new book
 about: Update my bookshelf
-title: 
+title:
 labels: 'read'
 assignees: '@MatBenfield'
 
