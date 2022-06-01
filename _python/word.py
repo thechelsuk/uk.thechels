@@ -17,19 +17,21 @@ def replace_chunk(content, marker, chunk):
     return replacer.sub(chunk, content)
 
 def fetch_blog_entries():
-    items = feedparser.parse("https://wordsmith.org/awad/rss1.xml")["item"]
+    entries = feedparser.parse("https://wordsmith.org/awad/rss1.xml")["entries"]
     return [
         {
-            "title": item["title"],
-            "desc": item["description"]
+            "title": entry["title"],
+            "desc": entry["description"]
         }
-        for item in items
+        for entry in entries
     ]
 
 if __name__ == "__main__":
     readme = root / "_pages/morning.md"
     readme_contents = readme.open().read()
-    item = fetch_blog_entries()[:1]
-    word = "\n ###" + item[title] + "\n > " + item[desc] + "\n"
+    entries = fetch_blog_entries()[:1]
+    word = "\n ####" + {title} + "\n > " + {desc} + "\n".format(**entry) for entry in entries]
     rewritten = replace_chunk(readme_contents, "word", word)
     readme.open("w").write(rewritten)
+
+    print("Word completed")
