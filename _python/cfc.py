@@ -36,7 +36,7 @@ if __name__ == "__main__":
         ["- [{title}]({url}) - {published}".format(**entry) for entry in entries]
     )
 
-    rewritten = replace_chunk(readme_contents, "cfc", E_MD)
+    rewritten = replace_chunk(readme_contents, "cfc_marker", E_MD)
     readme.open("w").write(rewritten)
 
     print("CFC News completed")
