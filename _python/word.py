@@ -27,7 +27,7 @@ def fetch_blog_entries():
     ]
 
 if __name__ == "__main__":
-    readme = root / "morning.html"
+    readme = root / "_pages/morning.md"
     readme_contents = readme.open().read()
     item = fetch_blog_entries()[:1]
     word = "\n ###" + item[title] + "\n > " + item[desc] + "\n"
