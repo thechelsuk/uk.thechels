@@ -38,12 +38,12 @@ jobs:
           cd "_posts"
           POST_FM="---\ntitle: ${POST_TITLE}\nlayout: post\ndate: ${POST_DATE}\n\n---\n\r"
           file="${POST_DATE}-${POST_FILE}.md"
-          echo -e "${POST_FM}${POST_BODY}" >> "$file"          
+          echo -e "${POST_FM}${POST_BODY}" >> "$file"
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
           committer: GitHub Action <action@github.com>
-          branch: "new-post-from-issue"
+          branch: "new-config-from-issue-${{ issue_number }}"
           delete-branch: true
           title: "publish: ${{ github.event.issue.title}}"
           body: |
