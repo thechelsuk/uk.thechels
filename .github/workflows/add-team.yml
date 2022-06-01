@@ -4,9 +4,9 @@ on:
   issues:
     types: [labeled, edited]
 env:
-  content: ${{ github.event.issue.body }}
   title: ${{ github.event.issue.title }}
-  label: ${{ github.event.label.name }}
+  content: ${{ github.event.issue.body }}
+  label: "teams"
   issue_number: ${{ github.event.issue.number }}
 jobs:
   Checks:
