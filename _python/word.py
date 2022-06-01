@@ -1,7 +1,4 @@
-"""
-Get RSS feed
-"""
-import re
+# importing modules
 import pathlib
 import feedparser
 import helper

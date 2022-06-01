@@ -1,6 +1,4 @@
-"""
-Get RSS feed
-"""
+# importing modules
 import pathlib
 import helper
 
