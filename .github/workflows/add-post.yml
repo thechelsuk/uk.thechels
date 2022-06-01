@@ -43,7 +43,7 @@ jobs:
         uses: peter-evans/create-pull-request@v4
         with:
           committer: GitHub Action <action@github.com>
-          branch: "new-config-from-issue-${{ issue_number }}"
+          branch: "new-config-from-issue=${{ github.event.issue.number }}"
           delete-branch: true
           title: "publish: ${{ github.event.issue.title}}"
           body: |
