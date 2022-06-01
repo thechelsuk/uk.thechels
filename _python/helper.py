@@ -32,9 +32,8 @@ def pprint(string):
     json_formatted_str = json.dumps(string, indent=2)
     print(json_formatted_str)
 
-def fetch_cfc_entries():
-    """Get blog posts from RSS"""
-    entries = feedparser.parse("https://app.thechels.uk/tocfcws.xml")["entries"]
+def fetch_cfc_entries(url):
+    entries = feedparser.parse(url)["entries"]
     return [
         {
             "title": entry["title"],

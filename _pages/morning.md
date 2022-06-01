@@ -14,7 +14,7 @@ seo: Good Morning Mat, Here is your daily briefing
 </ul>
 <!-- weather_marker ends -->
 
-<h3>Stocks</h3>
+### Stocks
 
 <!-- stocks_marker starts -->
 <ul>
@@ -26,14 +26,15 @@ seo: Good Morning Mat, Here is your daily briefing
 </ul>
 <!-- stocks_marker ends -->
 
-<h3>Fixtures</h3>
+### Fixtures
 
 <!-- sports_marker starts -->
 <ul>
 <li>No fixtures today</li></ul>
 <!-- sports_marker ends -->
 
-<h3>CFC news</h3>
+### CFC news
+
 <!-- cfc_marker starts -->
 - [Handling Defects](https://thechels.uk/handling-defects) - 2022-05-27
 - [Keeping a digital book library](https://thechels.uk/Keeping-a-digital-book-library) - 2022-05-23
@@ -42,9 +43,9 @@ seo: Good Morning Mat, Here is your daily briefing
 - [Software bill of materials - What it is and why you need one](https://thechels.uk/software-bill-of-materials-what-it-is-and-why-you-need-one) - 2022-05-20
 <!-- cfc_marker ends -->
 
-<h3>Word of the day</h3>
+### Word of the day
 <!-- word_marker starts -->
 
- > insinuendo - noun: An assertion or hint that's disparaging and suggestive. 
+ > insinuendo - noun: An assertion or hint that's disparaging and suggestive.
 
 <!-- word_marker ends -->
