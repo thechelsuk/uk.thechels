@@ -6,9 +6,9 @@ root = pathlib.Path(__file__).parent.parent.resolve()
 yamlFile = root / "_data/podcasts.yml"
 content = os.getenv("content").replace('`','').strip()
 
-try:    
+try:
     with open(yamlFile, 'a') as f:
         outputs = f.write(content)
-        print(outputs)        
+        print(outputs)
 except FileNotFoundError:
         print('File does not exist, unable to proceed') 

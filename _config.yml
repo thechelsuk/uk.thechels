@@ -25,6 +25,7 @@ exclude:
   - SECURITY.md
   - requirements.txt
   - _python/
+  - .github/
 include:
   - ".well-known"
   - "_pages"

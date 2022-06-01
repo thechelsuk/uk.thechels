@@ -31,7 +31,7 @@ string_today = f"<p>Today's date is {output_date}</p>"
 string_today += f"<ul>\n"
 string_today += f"<li>The average temperature today is {today_weather}˚C;</li>\n"
 string_today += f"<li>With highs of {high_temp}˚C and lows of {low_temp}˚C.</li>\n"
-string_today += f"<li>You can expect {today_desc} for the day.</li>\n"                              
+string_today += f"<li>You can expect {today_desc} for the day.</li>\n"
 string_today += f"</ul>"
 
 # processing
