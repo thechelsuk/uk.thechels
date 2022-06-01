@@ -1,14 +1,15 @@
 # importing modules
 import os
 import pathlib
+from turtle import onclick
 
 root = pathlib.Path(__file__).parent.parent.resolve()
-yamlFile = root / "_data/podcasts.yml"
-content = os.getenv("content").replace('`','').strip()
+p = root / "_data/podcasts.yml"
+c = os.getenv("content").replace('`','').strip()
 
 try:
-    with open(yamlFile, 'a') as f:
-        outputs = f.write(content)
-        print(outputs)
+    with open(p, 'a') as f:
+        o = f.write(c)
+        print(f"Podcast completed\n{o}")
 except FileNotFoundError:
         print('File does not exist, unable to proceed')

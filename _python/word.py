@@ -1,5 +1,6 @@
 # importing modules
 import pathlib
+from platform import mac_ver
 import feedparser
 import helper
 
@@ -10,8 +11,8 @@ desc = item[0]["summary"]
 string = f"\n > {title} - {desc}\n"
 
 if __name__ == "__main__":
-    mdFile = root / "_pages/morning.md"
-    mdFile_contents = mdFile.open().read()
-    rewritten = helper.replace_chunk(mdFile_contents, "word_marker", string)
-    mdFile.open("w").write(rewritten)
+    f = root / "_pages/morning.md"
+    m = f.open().read()
+    r = helper.replace_chunk(m, "word_marker", string)
+    m.open("w").write(r)
     print("Word completed")
