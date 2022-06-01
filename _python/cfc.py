@@ -38,3 +38,6 @@ if __name__ == "__main__":
 
     rewritten = replace_chunk(readme_contents, "cfc", E_MD)
     readme.open("w").write(rewritten)
+
+    print("CFC News completed")
+    
