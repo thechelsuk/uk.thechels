@@ -26,7 +26,7 @@ print(string)
 if __name__ == "__main__":
     readme = root / "_pages/morning.md"
     readme_contents = readme.open().read()
-    rewritten = replace_chunk(readme_contents, "word", string)
+    rewritten = replace_chunk(readme_contents, "word_marker", string)
     readme.open("w").write(rewritten)
 
     print("Word completed")
