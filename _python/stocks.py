@@ -15,6 +15,6 @@ if __name__ == "__main__":
     p = root / "_pages/morning.md"
     c = p.open().read()
     s = helper.get_stocks(stocks_list)
-    f = helper.replace_chunk(c, "stocks_marker", f"<ul>\n{s}</ul>")
+    f = helper.replace_chunk(c, "stocks_marker", f"\n{s}")
     p.open("w").write(f)
     print('Stocks Completed')

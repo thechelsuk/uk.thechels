@@ -28,7 +28,7 @@ for md_events in list(response_dict['matchData']):
                     fixtures.add(record)
 
 if not fixtures:
-    fixtures.add("<li>No fixtures today</li>")
+    fixtures.add("- No fixtures today")
 
 for fixture in sorted(fixtures):
     pre_content += fixture
@@ -37,6 +37,6 @@ for fixture in sorted(fixtures):
 if __name__ == "__main__":
     p = root / "_pages/morning.md"
     c = p.open().read()
-    f = helper.replace_chunk(c, "sports_marker", f"<ul>\n{pre_content}</ul>")
+    f = helper.replace_chunk(c, "sports_marker", f"\n{pre_content}")
     p.open("w").write(f)
     print('Sports Completed')

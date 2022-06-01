@@ -9,7 +9,7 @@
 {% assign diff = max | minus: min %}
 {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
 {% assign quote =  site.data.quotes[item] %}
-<p class="blockquote">{{ quote }}</p>
+<blockquote"><p>{{ quote }}</p></blockquote>
 
 <h3>Now &amp; Next</h3>
 <small>Based on the now movement, an idea by <a href="https://sive.rs/nowff">Derek Sivers</a></small>

@@ -27,12 +27,10 @@ high_temp = str(response_dict["daily"][0]["temp"]["max"])
 low_temp = str(response_dict["daily"][0]["temp"]["min"])
 today_desc = str(response_dict["daily"][0]["weather"][0]["description"])
 
-string_today = f"<p>Today's date is {output_date}</p>"
-string_today += f"<ul>\n"
-string_today += f"<li>The average temperature today is {today_weather}˚C;</li>\n"
-string_today += f"<li>With highs of {high_temp}˚C and lows of {low_temp}˚C.</li>\n"
-string_today += f"<li>You can expect {today_desc} for the day.</li>\n"
-string_today += f"</ul>"
+string_today = f"#### Today's date is {output_date}\n"
+string_today += f"- The average temperature today is {today_weather}˚C;\n"
+string_today += f"- With highs of {high_temp}˚C and lows of {low_temp}˚C.\n"
+string_today += f"- You can expect {today_desc} for the day.\n"
 
 # processing
 if __name__ == "__main__":
