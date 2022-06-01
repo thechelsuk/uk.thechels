@@ -2,6 +2,7 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 // 16px = 1em
+
 $background: #FFFFFF;
 $font-darkest: #04100D;
 $font-dark: #00233D;
@@ -9,6 +10,7 @@ $border-light: #ACD7EC;
 $border-dark: #005CA3;
 $links: #295147;
 $links-active: #376C5F;
+$quotebar: #cccccc;
 
 html,
 body {
@@ -49,11 +51,11 @@ body {
     color: $font-dark;
     text-decoration: none;
   }
-  
+
   a:active, a:hover {
      text-decoration: none;
   }
-  
+
 }
 
 .blog-slogan {
@@ -121,7 +123,7 @@ h2 {
     color: $links;
     text-decoration: none;
   }
-  
+
   a:hover, a:active {
      text-decoration: none;
   }
@@ -138,7 +140,7 @@ h3 {
 h4 {
   margin-left: -25px;
   padding-left: 25px;
-  position: relative;  
+  position: relative;
 }
 
 h5 {
@@ -239,53 +241,14 @@ pre {
   }
 }
 
-blockquote,
-cite {
-  quotes: "\201C" "\201D" "\2018" "\2019";
-  float: left;
-  clear: both;
-  font-style: italic;
+blockquote, cite {
+  padding: 0 1em;
   color: $font-dark;
-  margin-top: 22px;
-  margin-bottom: 22px;
-  padding-right: 12px;
+  border-left: 0.25em solid $quotebar;
   width: 90%;
-  line-height: 1.4
-}
-
-blockquote:before {
-  content: open-quote;
-  float: left;
-  font-size: 3em;
-  margin-left: -45px;
-  margin-top: -10px;
-  font-family: "times new roman";
-  color: $font-dark;
-  font-weight: 700;
-}
-
-blockquote:after {
-  content: close-quote;
-  float: none;
-  clear: both;
-  display: block;
-  font-size: 3em;
-  margin-left: -45px;
-  font-family: "times new roman";
-  color: $font-dark;
-  font-weight: 700;
-}
-
-blockquote p {
-  float: left;
-  margin-top: 0;
   margin-left: 10px;
 }
 
-cite {
-  float: none;
-  line-height: 1.4;
-}
 
 .footnote {
   font-size: .75em;
@@ -364,8 +327,8 @@ post-num-words {
     width: 860px;
     margin: 0 auto;
   }
-   
-  .p {    
+
+  .p {
   clear: both;
   font-size: .9em;
   text-transform: lowercase;
@@ -392,7 +355,7 @@ post-num-words {
     margin: 2px;
     width: auto;
   }
-  
+
   .book-list {
     display: grid;
     grid-gap: 0;
@@ -405,7 +368,7 @@ post-num-words {
   }
   .about-row { display: block; }
   .about-column { width: 100%; }
-    
+
   .footer {
     line-height: 30px;
     padding-top: 10px;
@@ -426,7 +389,7 @@ post-num-words {
     float: none;
     margin-left: 0;
   }
-  
+
   .footer,
   #outer-wrapper:after {
     height: 60px;
@@ -436,7 +399,6 @@ post-num-words {
 @media only screen
 and (min-width:320px)
 and (max-width:480px) {
- 
   .blog-menu {
     margin-bottom: 10px;
   }
