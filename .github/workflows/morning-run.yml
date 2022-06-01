@@ -33,6 +33,7 @@ jobs:
           python '_python/stocks.py'
           python '_python/sports.py'
           python '_python/weather.py'
+          python '_python/cfc.py'
       - name: Commit and push
         run: |-
           git diff
