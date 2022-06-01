@@ -6,6 +6,8 @@ It is called "weak notes" as play on words of the popular "week notes" blogging 
 
 ## Badges
 
+### Quality Control
+
 [![Code QL](https://github.com/MatBenfield/TheChels.uk/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/codeql-analysis.yml) 
 [![Lighthouse](https://github.com/MatBenfield/TheChels.uk/actions/workflows/lighthouse.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/lighthouse.yml) 
 [![Link Checker](https://github.com/MatBenfield/TheChels.uk/actions/workflows/link-checker.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/link-checker.yml) 
@@ -13,12 +15,17 @@ It is called "weak notes" as play on words of the popular "week notes" blogging 
 [![Clear Cache](https://github.com/MatBenfield/TheChels.uk/actions/workflows/clear-cache.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/clear-cache.yml) 
 [![Pages](https://github.com/MatBenfield/TheChels.uk/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/pages/pages-build-deployment) 
 
+### Content Management
+
 [![Add Book](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-book.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-book.yml) 
 [![Add Now and Next](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-next.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-next.yml) 
 [![Add Post](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-post.yml/badge.svg?event=issues)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-post.yml)
 [![Add Podcast](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-podcast.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-podcast.yml)
 [![Add Quote](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-quote.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-quote.yml) 
-[![Add Stock](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-stock.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-stock.yml) 
+[![Add Stock](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-stock.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-stock.yml)
+
+### Scheduled
+
 [![Morning Run](https://github.com/MatBenfield/TheChels.uk/actions/workflows/morning-run.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/morning-run.yml)  
 
 ## Morning
