@@ -6,4 +6,4 @@ yahoo_fin
 pandas
 requests_html
 argparse
-yaml
+pyyaml
