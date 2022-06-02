@@ -33,7 +33,7 @@ jobs:
           python -m pip install -r requirements.txt --quiet
       - name: Check for new content
         run: |-
-          python '_python/yaml-updater.py' --content ${{ input.content }} --label ${{ input.label }}
+          python '_python/yaml-updater.py' --content ${{ inputs.content }} --label ${{ inputs.label }}
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
