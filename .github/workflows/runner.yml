@@ -27,7 +27,7 @@ jobs:
           python -m pip install -r requirements.txt
       - name: Check for new content
         run: |-
-          python '_python/updater.py'
+          python '_python/yaml-updater.py'
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
