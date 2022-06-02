@@ -2,19 +2,19 @@ name: Add Now and Next
 on:
   issues:
     types: [labeled, edited]
-env:
-  title: ${{ github.event.issue.title }}
-  content: ${{ github.event.issue.body }}
-  label: "next"
-  issue_number: ${{ github.event.issue.number }}
 jobs:
   Validation:
     if: contains( github.event.issue.labels.*.name, 'next')
     runs-on: ubuntu-latest
     steps:
       - name: Echo
-        run: echo "Label is $label"
+        run: echo "Check complete"
   Execution:
     name: Runner
     uses: ./.github/workflows/runner.yml
     needs: Validation
+    with:
+      title: ${{ github.event.issue.title }}
+      content: ${{ github.event.issue.body }}
+      issue_number: ${{ github.event.issue.number }}
+      label: "next"
