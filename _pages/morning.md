@@ -10,7 +10,7 @@ seo: Good Morning Mat, Here is your daily briefing
 #### Today's date is Thursday, 02 June 2022
 
 - The average temperature today is 17.7˚C;
-- With highs of 17.91˚C and lows of 7.54˚C.
+- With highs of 17.91˚C and lows of 7.47˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -47,6 +47,6 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Word of the day
 <!-- word_marker starts -->
 
- > insinuendo - noun: An assertion or hint that's disparaging and suggestive.
+ > coopetition - noun: A collaboration between rivals.
 
 <!-- word_marker ends -->
