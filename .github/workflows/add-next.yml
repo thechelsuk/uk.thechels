@@ -16,5 +16,5 @@ jobs:
         run: echo "Label is $label"
   Execution:
     name: Runner
+    uses: ./.github/workflows/runner.yml
     needs: Validation
-    uses: ./github/workflows/runner.yml
