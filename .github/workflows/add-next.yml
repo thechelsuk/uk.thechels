@@ -14,7 +14,5 @@ jobs:
     uses: ./.github/workflows/runner.yml
     needs: Validation
     with:
-      title: ${{ github.event.issue.title }}
       content: ${{ github.event.issue.body }}
-      issue_number: ${{ github.event.issue.number }}
       label: "next"
