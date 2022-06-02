@@ -20,7 +20,7 @@ url = (
 response = requests.get(url)
 response_dict = json.loads(response.text)
 d = date.today()
-output_date = d.strftime("%A %d. %B %Y")
+output_date = d.strftime("%A, %d %B %Y")
 
 today_weather = str(response_dict["daily"][0]["temp"]["day"])
 high_temp = str(response_dict["daily"][0]["temp"]["max"])
@@ -37,6 +37,6 @@ if __name__ == "__main__":
     p = root / "_pages/morning.md"
     c = p.open().read()
     f = helper.replace_chunk(c, "weather_marker", string_today)
-    p.open("w").write(f)
+    c.open("w").write(f)
 
 print("Weather completed")
