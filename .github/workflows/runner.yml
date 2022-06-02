@@ -5,7 +5,6 @@ on:
 
 jobs:
  Build:
-    needs: Checks
     runs-on: ubuntu-latest
     name: Processing
     steps:
