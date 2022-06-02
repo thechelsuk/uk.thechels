@@ -36,7 +36,7 @@ string_today += f"- You can expect {today_desc} for the day.\n"
 if __name__ == "__main__":
     try:
         f = root / "_pages/morning.md"
-        m = filter.open().read()
+        m = f.open().read()
         c = helper.replace_chunk(m, "weather_marker", string_today)
         f.open("w").write(c)
         print("Weather completed")
