@@ -1,5 +1,5 @@
 # importing modules
-import yaml
+import pyyaml as yaml
 import pathlib
 import helper
 
@@ -14,5 +14,5 @@ if __name__ == "__main__":
     c = p.open().read()
     s = helper.get_stocks(stocks_list)
     f = helper.replace_chunk(c, "stocks_marker", f"\n{s}")
-    p.open("w").write(f)
+    c.open("w").write(f)
     print('Stocks Completed')
