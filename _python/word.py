@@ -10,9 +10,13 @@ title = item[0]["title"]
 desc = item[0]["summary"]
 string = f"\n > {title} - {desc}\n"
 
+# processing
 if __name__ == "__main__":
-    f = root / "_pages/morning.md"
-    m = f.open().read()
-    r = helper.replace_chunk(m, "word_marker", string)
-    m.open("w").write(r)
-    print("Word completed")
+    try:
+        f = root / "_pages/morning.md"
+        m = f.open().read()
+        c = helper.replace_chunk(m, "word_marker", string)
+        f.open("w").write(c)
+        print("Word completed")
+    except FileNotFoundError:
+        print('File does not exist, unable to proceed')

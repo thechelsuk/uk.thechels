@@ -34,9 +34,11 @@ string_today += f"- You can expect {today_desc} for the day.\n"
 
 # processing
 if __name__ == "__main__":
-    p = root / "_pages/morning.md"
-    c = p.open().read()
-    f = helper.replace_chunk(c, "weather_marker", string_today)
-    c.open("w").write(f)
-
-print("Weather completed")
+    try:
+        f = root / "_pages/morning.md"
+        m = filter.open().read()
+        c = helper.replace_chunk(m, "weather_marker", string_today)
+        f.open("w").write(c)
+        print("Weather completed")
+    except FileNotFoundError:
+        print('File does not exist, unable to proceed')

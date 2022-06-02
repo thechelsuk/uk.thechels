@@ -10,9 +10,12 @@ with open( root / "_data/stocks.yml", 'r') as stream:
 
 
 if __name__ == "__main__":
-    p = root / "_pages/morning.md"
-    c = p.open().read()
-    s = helper.get_stocks(stocks_list)
-    f = helper.replace_chunk(c, "stocks_marker", f"\n{s}")
-    c.open("w").write(f)
-    print('Stocks Completed')
+    try:
+        f = root / "_pages/morning.md"
+        m = f.open().read()
+        s = helper.get_stocks(stocks_list)
+        c = helper.replace_chunk(m, "stocks_marker", f"\n{s}")
+        f.open("w").write(c)
+        print('Stocks Completed')
+    except FileNotFoundError:
+        print('File does not exist, unable to proceed')

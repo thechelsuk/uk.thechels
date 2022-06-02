@@ -35,8 +35,11 @@ for fixture in sorted(fixtures):
 
 # processing
 if __name__ == "__main__":
-    p = root / "_pages/morning.md"
-    c = p.open().read()
-    f = helper.replace_chunk(c, "sports_marker", f"\n{pre_content}")
-    p.open("w").write(f)
-    print('Sports Completed')
+    try:
+        f = root / "_pages/morning.md"
+        m = f.open().read()
+        c = helper.replace_chunk(m, "sports_marker", f"\n{pre_content}")
+        f.open("w").write(c)
+        print('Sports Completed')
+    except FileNotFoundError:
+        print('File does not exist, unable to proceed')
