@@ -1,5 +1,5 @@
 # importing modules
-import pyyaml as yaml
+import yaml
 import pathlib
 import helper
 
