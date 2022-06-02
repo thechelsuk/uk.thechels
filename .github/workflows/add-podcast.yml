@@ -3,50 +3,17 @@ name: Add Podcast
 on:
   issues:
     types: [labeled, edited]
-env:
-  title: ${{ github.event.issue.title }}
-  content: ${{ github.event.issue.body }}
-  label: "podcasts"
-  issue_number: ${{ github.event.issue.number }}
 jobs:
-  Checks:
+  Validation:
     if: contains( github.event.issue.labels.*.name, 'podcasts')
     runs-on: ubuntu-latest
     steps:
       - name: Echo
-        run: echo "Label is $label"
-  Build:
-    needs: Checks
-    runs-on: ubuntu-latest
-    name: Checkout and setup
-    steps:
-      - name: Check out repo
-        uses: actions/checkout@v3
-      - name: Set up Python
-        uses: actions/setup-python@v3
-        with:
-          python-version: 3.8
-      - uses: actions/cache@v3
-        name: Configure pip caching
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
-      - name: Install Python dependencies
-        run: |
-          python -m pip install -r requirements.txt
-      - name: Run Python script
-        run: python '_python/podcasts.py'
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v4
-        with:
-          committer: GitHub Action <action@github.com>
-          branch: "new-config-from-issue=${{ github.event.issue.number }}"
-          delete-branch: true
-          title: "Feat: ${{ github.event.issue.title}}"
-          body: |
-            Automatic PR for Config change: ${{ steps.title.outputs.title }}
-            Closes #${{ github.event.issue.number }}
-          reviewers: "${{ github.repository_owner }}"
-          commit-message: "feat-#${{ github.event.issue.number }}"
+        run: echo "Check complete"
+  Execution:
+    name: Runner
+    uses: ./.github/workflows/runner.yml
+    needs: Validation
+    with:
+      content: ${{ github.event.issue.body }}
+      label: "podcasts"

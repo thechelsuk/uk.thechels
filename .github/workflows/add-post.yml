@@ -3,7 +3,7 @@ name: Add Post
 on:
   issues:
     types: ['labeled','edited']
-    
+
 jobs:
   Checks:
     if: contains( github.event.issue.labels.*.name, 'Publish')

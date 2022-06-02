@@ -26,7 +26,7 @@ if __name__ == "__main__":
     p = root / f"_data/{l}.yml"
     try:
         with open(p, 'a') as f:
-            o = f.write(f"- {c}")
+            o = f.write(f"\n- {c}")
             print(f"{l} completed\n{o}")
     except FileNotFoundError:
             print('File does not exist, unable to proceed')
