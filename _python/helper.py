@@ -50,7 +50,7 @@ def convert_cfc_date(input: str) -> str:
     return output
 
 
-def get_stocks(set_of_tickers: str) -> str:
+def get_stocks(set_of_tickers: list) -> str:
     markdown = ""
     for ticker in list(set_of_tickers):
         markdown += f"- {ticker} : {round(si.get_live_price(ticker),5)}\n"
