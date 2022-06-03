@@ -9,8 +9,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- weather_marker starts -->
 #### Today's date is Friday, 03 June 2022
 
-- The average temperature today is 14.76˚C;
-- With highs of 14.92˚C and lows of 8.92˚C.
+- The average temperature today is 15.07˚C;
+- With highs of 15.42˚C and lows of 7.57˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
