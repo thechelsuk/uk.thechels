@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-#### Today's date is Friday, 03 June 2022
+#### Today's date is Saturday, 04 June 2022
 
-- The average temperature today is 15.07˚C;
-- With highs of 15.42˚C and lows of 7.57˚C.
+- The average temperature today is 12.66˚C;
+- With highs of 16.91˚C and lows of 10.58˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -36,11 +36,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Internationals: Kovacic captains Croatia, Kante starts Nations League defence, Batshuayi scores for Belgium after Lukaku injury blow](https://www.chelseafc.com/en/news/2022/06/03/internationals--kovacic-captains-croatia--kante-starts-nations-l) (03 Jun)
+- [Gallagher on his future, the big Chelsea representation with England and where he can improve](https://www.chelseafc.com/en/news/2022/06/03/gallagher-on-his-future--the-big-chelsea-representation-with-eng) (03 Jun)
 - [Player of the Season interview: Mason Mount on what he’s improved to rack up the numbers and how he views our campaign](https://www.chelseafc.com/en/news/2022/06/03/player-of-the-season-interview--mason-mount-on-what-he-s-improve) (03 Jun)
 - [Rudiger moves to Real](https://www.chelseafc.com/en/news/2022/06/02/rudiger-moves-to-real) (02 Jun)
 - [Internationals: Azpilicueta and Spain share spoils in Nations League opener](https://www.chelseafc.com/en/news/2022/06/02/internationals--azpilicueta-and-spain-share-spoils-in-nations-le) (02 Jun)
-- [Internationals: Pulisic provides in USA win and Thiago Silva’s Brazil are victors in Seoul](https://www.chelseafc.com/en/news/2022/06/02/pulisic-provides-in-usa-win-and-thiago-silva-s-brazil-are-victor) (02 Jun)
-- [Platinum Jubilee quiz: What was happening at Chelsea in 1952?](https://www.chelseafc.com/en/news/2022/06/02/platinum-jubilee-quiz--what-was-happening-at-chelsea-in-1952-) (02 Jun)
 
 <!-- cfc_marker ends -->
 
