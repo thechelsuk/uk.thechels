@@ -6,9 +6,9 @@ on:
 jobs:
   Validation:
     env: 
-      labelname: 'quotes'
+      labelname: "quotes"
     runs-on: ubuntu-latest
-    if: contains(github.event.issue.labels.*.name, env.labelname)
+    if: contains(github.event.issue.labels.*.name, ${{ env.labelname }} )
     outputs:
       labelname: ${{ steps.validation.outputs.labelname }}
     steps:
