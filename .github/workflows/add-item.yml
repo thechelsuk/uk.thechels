@@ -5,14 +5,16 @@ on:
 jobs:
   Validation:
     runs-on: ubuntu-latest
-    if: contains( github.event.issue.labels.*.name, fromJson(['next','stocks','quotes','podcasts','teams'])
+    env:
+      env_label: github.event.issue.labels.*.name
+    if: contains( env_label, fromJson(['next','stocks','quotes','podcasts','teams'])
     steps:
       - name: Set Data
-        run: echo "env_label=${{ github.event.issue.labels.*.name }}" >> $GITHUB_ENV
+        run: echo "env_label=${{ env_label }}" >> $GITHUB_ENV
   Execution:
     name: Runner
     uses: ./.github/workflows/runner.yml
     needs: Validation
     with:
       content: ${{ github.event.issue.body }}
-      label: ${{ env.env_label }}
+      label: ${{ env_label }}
