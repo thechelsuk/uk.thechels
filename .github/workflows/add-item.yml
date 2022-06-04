@@ -9,14 +9,12 @@ jobs:
     if: contains(github.event.issue.labels.*.name, 'quotes')
     steps:
       - name: Set Data
-        id: Labelvalue
-        run: echo 'quotes'
-        env:
-          env_label: "quotes"
+        id: validation
+        run: echo "::set-output labelname=quotes::"
   Execution:
     name: Runner
     uses: ./.github/workflows/runner.yml
     needs: Validation
     with:
       content: ${{ github.event.issue.body }}
-      label: ${{ env.env_label }}
+      label: ${{ steps.validation.outputs.labelname }}
