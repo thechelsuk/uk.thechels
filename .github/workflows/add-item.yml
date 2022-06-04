@@ -6,7 +6,7 @@ jobs:
   Validation:
     runs-on: ubuntu-latest
     env:
-      env_label: github.event.issue.label.name
+      env_label: ${{ github.event.issue.label.name }}
     ## if: contains( github.event.issue.labels.*.name, fromJson('next','stocks','quotes','podcasts','teams')
     steps:
       - name: Set Data
