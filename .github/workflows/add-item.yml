@@ -5,20 +5,18 @@ on:
     types: [labeled, edited]
 jobs:
   Validation:
-    env: 
-      labelname: "quotes"
     runs-on: ubuntu-latest
-    if: contains(github.event.issue.labels.*.name, ${{ env.labelname }} )
+    if: contains(github.event.issue.labels.*.name, "quotes" )
     outputs:
       labelname: ${{ steps.validation.outputs.labelname }}
     steps:
       - name: Set Data
         id: validation
-        run: echo "::set-output name=labelname::env.labelname"
+        run: echo "::set-output name=labelname::quotes"
   Execution:
+    needs: Validation
     name: Runner
     uses: ./.github/workflows/runner.yml
-    needs: Validation
     with:
       content: ${{ github.event.issue.body }}
       label: ${{ needs.Validation.outputs.labelname }}
