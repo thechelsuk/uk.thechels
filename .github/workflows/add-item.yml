@@ -10,11 +10,13 @@ jobs:
     steps:
       - name: Set Data
         id: validation
-        run: echo "::set-output labelname=quotes::"
+        run: echo "quotes"
+    outputs:
+        labelname: "quotes"
   Execution:
     name: Runner
     uses: ./.github/workflows/runner.yml
     needs: Validation
     with:
       content: ${{ github.event.issue.body }}
-      label: ${{ steps.validation.outputs.labelname }}
+      label: ${{ validation.outputs.labelname }}
