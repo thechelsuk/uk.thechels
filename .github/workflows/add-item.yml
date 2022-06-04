@@ -1,19 +1,22 @@
 name: Add Item
+# 'next','stocks','quotes','podcasts','teams'
 on:
   issues:
     types: [labeled, edited]
 jobs:
   Validation:
     runs-on: ubuntu-latest
-    ## if: ${{ contains( github.event.issue.labels.*.name, fromJson('['next','stocks','quotes','podcasts','teams']') }}
+    if: contains(github.event.issue.labels.*.name, 'quotes')
     steps:
       - name: Set Data
         id: Labelvalue
-        run: echo '${{ toJSON(github.event.issue) }}'
+        run: echo 'quotes'
+        env:
+          env_label: "quotes"
   Execution:
     name: Runner
     uses: ./.github/workflows/runner.yml
     needs: Validation
     with:
       content: ${{ github.event.issue.body }}
-      label: $env_label
+      label: ${{ env.env_label }}
