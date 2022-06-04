@@ -5,7 +5,7 @@ on:
 jobs:
   Validation:
     runs-on: ubuntu-latest
-    if: ${{ contains( github.event.issue.labels.*.name, fromJson('['next','stocks','quotes','podcasts','teams']') }}
+    ## if: ${{ contains( github.event.issue.labels.*.name, fromJson('['next','stocks','quotes','podcasts','teams']') }}
     steps:
       - name: Set Data
         id: Labelvalue
