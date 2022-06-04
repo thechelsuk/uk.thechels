@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       env_label: github.event.issue.labels.*.name
-    if: contains( github.event.issue.labels.*.name, fromJson('next','stocks','quotes','podcasts','teams')
+    ## if: contains( github.event.issue.labels.*.name, fromJson('next','stocks','quotes','podcasts','teams')
     steps:
       - name: Set Data
         run: echo $env_label
