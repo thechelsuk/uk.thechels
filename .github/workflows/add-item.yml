@@ -12,9 +12,7 @@ jobs:
     steps:
       - name: Set Data
         id: validation
-        run: |
-          echo "quotes"
-          echo "labelname=quotes" >> $GITHUB_ENV
+        run: echo "labelname=quotes" >> $GITHUB_ENV
   Execution:
     name: Runner
     uses: ./.github/workflows/runner.yml
