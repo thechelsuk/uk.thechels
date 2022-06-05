@@ -9,8 +9,7 @@ if __name__ == "__main__":
 
     arguments.add_argument('--content',
         type=str,
-        help='The body of text to use',
-        nargs="*",
+        help='The single line of text to use',
         required=True)
     arguments.add_argument('--label',
         type=str,
@@ -19,14 +18,14 @@ if __name__ == "__main__":
 
     args = arguments.parse_args()
     iLabel = args.label
-    c = args.content.replace('`','')
+    iContent = args.content.replace('`','')
 
     root = pathlib.Path(__file__).parent.parent.resolve()
     p = root / f"_data/{iLabel.strip()}.yml"
 
     try:
         with open(p, 'a') as f:
-            f.write(f"- {c.strip()}")
+            f.write(f"- {iContent.strip()}")
             print(f"{iLabel} completed\n")
     except FileNotFoundError:
             print('File does not exist, unable to proceed')
