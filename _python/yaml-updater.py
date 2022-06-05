@@ -17,18 +17,19 @@ if __name__ == "__main__":
         required=True)
 
     args = arguments.parse_args()
-    content = args.content
-    l = args.label
+    iContent = args.content
+    iLabel = args.label
+
+    print(f"input: {iContent}")
+    c = iContent.replace('`','')
+    print(f"Replaced: {c}")
 
     root = pathlib.Path(__file__).parent.parent.resolve()
-    print(f"input: {content}")
-    c = content.replace('`','')
-    print(f"Replaced {c}")
-    p = root / f"_data/{l.strip()}.yml"
+    p = root / f"_data/{iLabel.strip()}.yml"
 
     try:
         with open(p, 'a') as f:
-            o = f.write(f"- {c.strip()}")
-            print(f"{l} completed\n{o}")
+            f.write(f"- {c.strip()}")
+            print(f"{iLabel} completed\n")
     except FileNotFoundError:
             print('File does not exist, unable to proceed')
