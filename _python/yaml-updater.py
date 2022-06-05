@@ -24,6 +24,10 @@ if __name__ == "__main__":
     c = c.replace('`','').strip()
     l = l.strip()
     p = root / f"_data/{l}.yml"
+
+    print(c)
+    print(l)
+
     try:
         with open(p, 'a') as f:
             o = f.write(f"- {c}")
