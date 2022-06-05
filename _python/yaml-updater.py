@@ -10,6 +10,7 @@ if __name__ == "__main__":
     arguments.add_argument('--content',
         type=str,
         help='The body of text to use',
+        nargs="*"
         required=True)
     arguments.add_argument('--label',
         type=str,
@@ -17,12 +18,8 @@ if __name__ == "__main__":
         required=True)
 
     args = arguments.parse_args()
-    iContent = args.content
     iLabel = args.label
-
-    print(f"input: {iContent}")
-    c = iContent.replace('`','')
-    print(f"Replaced: {c}")
+    c = args.content.replace('`','')
 
     root = pathlib.Path(__file__).parent.parent.resolve()
     p = root / f"_data/{iLabel.strip()}.yml"
