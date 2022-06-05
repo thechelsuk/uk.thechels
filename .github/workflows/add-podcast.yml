@@ -47,7 +47,6 @@ jobs:
           title: "Feat: ${{ github.event.issue.title}}"
           body: |
             Automatic PR for Config change: ${{ steps.title.outputs.title }}
-            Content:  ${{ github.event.issue.body }}
             Closes #${{ github.event.issue.number }}
             reviewers: "${{ github.repository_owner }}"
             commit-message: "feat/commit-for-issue-#${{ github.event.issue.number }}"
