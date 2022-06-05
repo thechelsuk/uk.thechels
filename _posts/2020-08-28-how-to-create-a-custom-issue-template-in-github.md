@@ -13,16 +13,7 @@ GitHub allows you to create custom templates and they get stored in `ISSUE_TEMPL
 
 Creating a new template is as easy as clicking the _add new file_ button and providing some markdown
 
-``` markdown
----
-name: ReadMe next activity template
-about: For responding to my question on my ReadMe about what I should be doing next.
-title: 'Next: '
-labels: 'Next'
-assignees: ''
-
----
-```
+<script src="https://gist.github.com/MatBenfield/2bcfc2a4db0427f802585c047602bc95.js"></script>
 
 You can automatically assign issues to a user, and give it a label `Next` in my example, pretty neat huh.
 
