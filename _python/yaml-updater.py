@@ -10,7 +10,7 @@ if __name__ == "__main__":
     arguments.add_argument('--content',
         type=str,
         help='The body of text to use',
-        nargs="*"
+        nargs="*",
         required=True)
     arguments.add_argument('--label',
         type=str,
