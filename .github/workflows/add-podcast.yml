@@ -42,12 +42,12 @@ jobs:
         uses: peter-evans/create-pull-request@v4
         with:
           committer: GitHub Action <action@github.com>
-          branch: "new-config-from-issue-feat-#${{ github.event.issue.number }}"
+          branch: "feat/config-from-issue-#${{ github.event.issue.number }}"
           delete-branch: true
           title: "Feat: ${{ github.event.issue.title}}"
           body: |
-            ${{ github.event.issue.body }}
             Automatic PR for Config change: ${{ steps.title.outputs.title }}
+            Content:  ${{ github.event.issue.body }}
             Closes #${{ github.event.issue.number }}
             reviewers: "${{ github.repository_owner }}"
-            commit-message: "feat-#${{ github.event.issue.number }}"
+            commit-message: "feat/commit-for-issue-#${{ github.event.issue.number }}"
