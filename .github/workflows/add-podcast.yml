@@ -33,6 +33,9 @@ jobs:
           python -m pip install -r requirements.txt
       - name: Run Python script
         run: python '_python/podcasts.py'
+        with:
+          content: ${{ github.event.issue.body }}
+          label: "podcasts"
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
