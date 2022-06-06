@@ -746,8 +746,8 @@
 - 
   _description: ""
   _htmlUrl: "https://www.estherderby.com/"
-  _text: "esther derby associates, inc."
-  _title: "esther derby associates, inc."
+  _text: "Esther Derby associates, inc."
+  _title: "Esther Derby associates, inc."
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.estherderby.com/feed"
@@ -857,14 +857,6 @@
   _xmlUrl: "https://martinfowler.com/feed.atom"
 - 
   _description: ""
-  _htmlUrl: "http://www.mountaingoatsoftware.com/blog/"
-  _text: "Mike Cohn's Blog - Succeeding With Agile"
-  _title: "Mike Cohn's Blog - Succeeding With Agile"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "http://www.mountaingoatsoftware.com/blog/rss"
-- 
-  _description: ""
   _htmlUrl: "http://feeds.politico.com/politico/"
   _text: "Morning Tech"
   _title: "Morning Tech"
@@ -882,8 +874,8 @@
 - 
   _description: ""
   _htmlUrl: "https://pbpython.com/"
-  _text: "practical business python"
-  _title: "practical business python"
+  _text: "Practical business python"
+  _title: "Practical business python"
   _type: rss
   _version: RSS
   _xmlUrl: "https://pbpython.com/feeds/all.atom.xml"
@@ -1418,8 +1410,8 @@
 - 
   _description: ""
   _htmlUrl: "https://inessential.com/"
-  _text: inessential.com
-  _title: inessential.com
+  _text: Inessential.com
+  _title: Inessential.com
   _type: rss
   _version: RSS
   _xmlUrl: "http://inessential.com/xml/rss.xml"
@@ -1498,8 +1490,8 @@
 - 
   _description: ""
   _htmlUrl: "https://www.nahumck.me/"
-  _text: nahumck.me
-  _title: nahumck.me
+  _text: Nahumck.me
+  _title: Nahumck.me
   _type: rss
   _version: RSS
   _xmlUrl: "https://nahumck.me/feed/json/"
@@ -1626,8 +1618,8 @@
 - 
   _description: ""
   _htmlUrl: "https://zenhabits.net/"
-  _text: "zen habits"
-  _title: "zen habits"
+  _text: "Zen Habits"
+  _title: "Zen Habits"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/zenhabits"
