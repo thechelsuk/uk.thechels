@@ -1610,8 +1610,8 @@
 - 
   _description: ""
   _htmlUrl: "https://xkcd.com/"
-  _text: xkcd.com
-  _title: xkcd.com
+  _text: XKCD
+  _title: XKCD
   _type: rss
   _version: RSS
   _xmlUrl: "http://xkcd.com/rss.xml"
