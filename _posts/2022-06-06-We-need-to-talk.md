@@ -4,7 +4,8 @@ layout: post
 date: 2022-06-06
 
 ---
-I’m a middle-aged white male of British descent. I am privileged. And I know it. I’m liberal, I’m open, I’m honest and I say what I think. I listen and I’m always learning and I have worked in the technology industry for 15 years now.
+
+I’m a middle-aged white male of British descent. I am privileged. And I know it. I’m liberal, I’m open, I’m honest and I say what I think. I listen and I’m always learning and I have worked in the technology industry for over 15 years now.
 
 Over the years things have been getting better - cloud tech, accessibility, an plethora of information behind a little box with a magnifying glass svg. People have begun sharing their progress, their technical problems and solutions online, Twitter, Twitch, YouTube and more! It’s a wonderful time to be a budding engineer. You can learn anything, anywhere, anytime. All at the click of a button.
 
