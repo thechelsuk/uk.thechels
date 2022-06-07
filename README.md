@@ -21,7 +21,7 @@ It is called "weak notes" as play on words of the popular "week notes" blogging 
 [![Add Now and Next](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-next.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-next.yml) 
 [![Add Post](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-post.yml/badge.svg?event=issues)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-post.yml)
 [![Add Podcast](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-podcast.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-podcast.yml)
-[![Add Quote](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-quote.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-quote.yml) 
+[![Add Quotes](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-quotes.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-quotes.yml)
 [![Add Stock](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-stock.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-stock.yml)
 
 ### Scheduled
