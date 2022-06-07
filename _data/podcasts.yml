@@ -929,4 +929,7 @@
 -
   category: Music
   link: "https://podcasts.files.bbci.co.uk/b006qnmr.rss"
-  name: "BBC - Desert Island Discs"
+  name: "BBC - Desert Island Discs"-
+  category: Engineering
+  link: "https://www.mountaingoatsoftware.com/agile/podcast/rss"
+  name: "Agile Mentors Podcast"
