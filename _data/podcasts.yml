@@ -926,3 +926,7 @@
   category: Business
   link: "https://api.substack.com/feed/podcast/10845.rss"
   name: "Lenny's Podcast - Lenny Rachitsky"
+-
+  category: Music
+  link: "https://podcasts.files.bbci.co.uk/b006qnmr.rss"
+  name: "BBC - Desert Island Discs"
