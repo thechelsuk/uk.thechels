@@ -14,6 +14,10 @@ seo: Good Morning Mat, Here is your daily briefing
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
+##### Today's tasks
+<!-- task_marker starts -->
+
+<!-- task_marker ends -->
 
 ### Stocks
 
