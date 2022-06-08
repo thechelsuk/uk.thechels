@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-#### Today's date is Tuesday, 07 June 2022
+#### Today's date is Wednesday, 08 June 2022
 
-- The average temperature today is 17.44˚C;
-- With highs of 18.88˚C and lows of 8.82˚C.
+- The average temperature today is 16.69˚C;
+- With highs of 16.8˚C and lows of 9.83˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,10 +19,10 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.868
-- V3AB.L : 3.808
-- SPXP.L : 62408.37891
-- IMID.L : 180.425
+- VWRL.L : 85.51
+- V3AB.L : 3.78075
+- SPXP.L : 62177.0
+- IMID.L : 179.795
 
 <!-- stocks_marker ends -->
 
@@ -36,17 +36,17 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Internationals: England leave it late in Munich; Mendy keeps clean sheet](https://www.chelseafc.com/en/news/2022/06/07/internationals--england-leave-it-late-in-munich--mendy-keeps-cle) (07 Jun)
+- [The Young Generation: Development squad season in moments](https://www.chelseafc.com/en/news/2022/06/07/the-young-generation--development-squad-season-in-moments) (07 Jun)
 - [The Chelsea firsts, records and landmarks in 2021/22](https://www.chelseafc.com/en/news/2022/06/07/the-chelsea-firsts--records-and-landmarks-in-2021-22) (07 Jun)
 - [Internationals: Thiago Silva wins in Tokyo and Kovacic features for Croatia](https://www.chelseafc.com/en/news/2022/06/06/internationals--thiago-silva-wins-in-tokyo-and-kovacic-features-) (06 Jun)
 - [Emerson keen to return to Chelsea but unsure on future](https://www.chelseafc.com/en/news/2022/06/06/emerson-keen-to-return-to-chelsea-but-unsure-on-future-) (06 Jun)
-- [Tuchel’s secret ingredient? Meet Lars, Chelsea’s CRO](https://www.chelseafc.com/en/news/2022/06/06/tuchel-s-secret-ingredient--meet-lars--chelsea-s-cro) (06 Jun)
-- [Chelsea 2021/22 Post-Season Briefing – part two](https://www.chelseafc.com/en/news/2022/06/06/chelsea-2021-22-post-season-briefing---part-two) (06 Jun)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > stepney - noun: 1. A spare wheel or a spare tire. 2. Something or someone treated as a backup.
+ > Pepper Alley - noun: 1. Rough treatment. 2. Severe beating.
 
 <!-- word_marker ends -->
