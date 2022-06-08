@@ -1,7 +1,8 @@
 # importing modules
-from datetime import datetime
 import json
 import re
+from datetime import datetime
+
 import feedparser
 from yahoo_fin import stock_info as si
 
@@ -30,7 +31,7 @@ def dtStylish(dt,f):
 
 def pprint(string: str) -> str:
     json_formatted_str = json.dumps(string, indent=2)
-    print(json_formatted_str)
+    return json_formatted_str
 
 
 def fetch_cfc_entries(url: str) -> list:

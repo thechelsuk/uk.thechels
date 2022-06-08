@@ -1,11 +1,11 @@
 # importing modules
-import pathlib
-import helper
 import datetime
+import pathlib
+
+import helper
 
 
 working_date = datetime.date.today()
-
 string = ""
 
 if helper.isGardenWasteDay(working_date):

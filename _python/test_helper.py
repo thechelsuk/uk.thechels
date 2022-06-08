@@ -1,8 +1,7 @@
 # imports
-from datetime import date, datetime
-from time import strptime
+from asyncio.windows_events import NULL
 import pytest
-from _python import helper
+import helper
 
 
 class Test_helper():
@@ -33,13 +32,6 @@ class Test_helper():
         assert output == f"<!-- tm starts -->\n{new_string}\n<!-- tm ends -->"
 
 
-    def test_replace_chunk_returns_error_if_chunk_not_found(self):
-        string = "<!-- tm starts -->  <!-- tm ends -->"
-        new_string = "new output"
-        with pytest.raises(Exception) as e_info:
-            helper.replace_chunk(string, "tm", new_string)
-
-
     def test_getDayOfTheWeek_given_date_returns_correct_string(self):
         workingDate = helper.createDate("2022-06-08") # is Wednesday
         assert helper.getDayOfTheWeek(workingDate) == "Wednesday"
@@ -47,60 +39,70 @@ class Test_helper():
 
     def test_getDayOfTheWeek_given_date_returns_error_if_date_not_valid(self):
         with pytest.raises(Exception) as e_info:
-            helper.getDayOfTheWeek("2020-02-30") # is not a valid date
+            helper.getDayOfTheWeek("2020-02-30")
+            # is not a valid date
 
 
     def test_getWeekNumber_given_date_returns_correct_week_number(self):
-        workingDate = helper.createDate("2022-01-08") # is Wednesday
+        workingDate = helper.createDate("2022-01-08")
+        # is Wednesday
         week = helper.getWeekNumber(workingDate)
         assert week == 2
 
     def test_getWeekNumber_given_date_returns_error_if_date_not_valid(self):
         with pytest.raises(Exception) as e_info:
-            helper.getWeekNumber("2020-02-30") # is not a valid date
+            helper.getWeekNumber("2020-02-30")
+            # is not a valid date
 
 
     def test_ifWeekOne_returns_true_if_week_one(self):
-        workingDate = helper.createDate("2020-06-08") # is Wednesday
+        workingDate = helper.createDate("2020-06-08")
+        # is Wednesday
         week = helper.getWeekNumber(workingDate)
         assert helper.ifWeekOne(week) == True
 
 
     def test_ifWeekOne_returns_false_if_week_two(self):
-        workingDate = helper.createDate("2020-06-08") # is Wednesday
+        workingDate = helper.createDate("2020-06-08")
+        # is Wednesday
         week = helper.getWeekNumber(workingDate)
         assert helper.ifWeekTwo(week) == False
 
     def test_ifWeekTwo_returns_true_if_week_Two(self):
-        workingDate = helper.createDate("2020-06-13") # is Monday
+        workingDate = helper.createDate("2020-06-13")
+        # is Monday
         week = helper.getWeekNumber(workingDate)
         assert helper.ifWeekTwo(week) == True
 
 
     def test_ifWeekTwo_returns_false_if_week_one(self):
-        workingDate = helper.createDate("2020-06-08") # is Wednesday
+        workingDate = helper.createDate("2020-06-08")
+        # is Wednesday
         week = helper.getWeekNumber(workingDate)
         assert helper.ifWeekTwo(week) == False
 
 
-
     def test_isMonday_returns_true_if_monday(self):
-        workingDate = helper.createDate("2020-06-06") # is Monday
+        workingDate = helper.createDate("2020-06-06")
+        # is Monday
         assert helper.isMonday(workingDate) == True
 
 
     def test_isMonday_returns_false_if_not_monday(self):
-        workingDate = helper.createDate("2020-06-07") # is Tuesday
+        workingDate = helper.createDate("2020-06-07")
+        # is Tuesday
         assert helper.isMonday(workingDate) == False
 
 
     def test_isTuesday_returns_true_if_tuesday(self):
-        workingDate = helper.createDate("2020-06-07") # is Tuesday
+        workingDate = helper.createDate("2020-06-07")
+        # is Tuesday
         assert helper.isTuesday(workingDate) == True
 
 
     def test_isTuesday_returns_false_if_not_tuesday(self):
-        workingDate = helper.createDate("2020-06-08") # is Wednesday
+        workingDate = helper.createDate("2020-06-08")
+        # is Wednesday
         assert helper.isTuesday(workingDate) == False
 
 if __name__ == '__main__':
