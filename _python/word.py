@@ -1,6 +1,5 @@
 # importing modules
 import pathlib
-from platform import mac_ver
 import feedparser
 import helper
 

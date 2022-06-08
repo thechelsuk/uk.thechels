@@ -55,3 +55,48 @@ def get_stocks(set_of_tickers: list) -> str:
     for ticker in list(set_of_tickers):
         markdown += f"- {ticker} : {round(si.get_live_price(ticker),5)}\n"
     return markdown
+
+def getDayOfTheWeek(today: datetime) -> str:
+    return today.strftime("%A")
+
+def getWeekNumber(value: datetime) -> int:
+    return value.isocalendar()[1]
+
+def isOddNumber(number: int) -> bool:
+    if number % 2 == 0:
+        return False
+    return True
+
+def ifWeekOne(week: int) -> bool:
+    if isOddNumber(week):
+        return True
+    return False
+
+def ifWeekTwo(week: int) -> bool:
+    if isOddNumber(week):
+        return False
+    return True
+
+def isMonday(today) -> bool:
+    return getDayOfTheWeek(today) == "Monday"
+
+def isTuesday(today) -> bool:
+    return getDayOfTheWeek(today) == "Tuesday"
+
+def isGardenWasteDay(today) -> bool:
+    if isMonday(today) and ifWeekTwo(getWeekNumber(today)):
+        return True
+    return False
+
+def isRecyclingWasteDay(today) -> bool:
+    if isTuesday(today) and ifWeekOne(getWeekNumber(today)):
+        return True
+    return False
+
+def isRefuseWasteDay(today) -> bool:
+    if isRecyclingWasteDay(today):
+        return False
+    return True
+
+def createDate(input: str) -> datetime:
+    return datetime.strptime(input, "%Y-%m-%d")
