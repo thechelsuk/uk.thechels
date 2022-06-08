@@ -11,10 +11,11 @@ string = ""
 if helper.isGardenWasteDay(working_date):
     string += "- Garden Waste Day /n"
 if helper.isRecyclingWasteDay(working_date):
-    string += "- Recycling Waste Day /n"
+    string += "- Recycling Waste Collection Day /n"
 if helper.isRefuseWasteDay(working_date):
-    string += "- Refuse Waste Day /n"
-
+    string += "- Refuse Waste Collection Day /n"
+if helper.isTuesday(working_date):
+    string += "- Food Waste Collection Day /n"
 
 # processing
 if __name__ == "__main__":

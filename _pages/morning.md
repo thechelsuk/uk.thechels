@@ -16,7 +16,7 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- weather_marker ends -->
 ##### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Day /n
+
 <!-- task_marker ends -->
 
 ### Stocks

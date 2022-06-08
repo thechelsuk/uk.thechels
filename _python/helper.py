@@ -94,9 +94,9 @@ def isRecyclingWasteDay(today) -> bool:
     return False
 
 def isRefuseWasteDay(today) -> bool:
-    if isRecyclingWasteDay(today):
-        return False
-    return True
+    if isTuesday(today) and ifWeekTwo(getWeekNumber(today)):
+        return True
+    return False
 
 def createDate(input: str) -> datetime:
     return datetime.strptime(input, "%Y-%m-%d")
