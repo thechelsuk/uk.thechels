@@ -8,7 +8,7 @@ content = os.getenv("content").replace('`','').strip()
 
 try:
     with open(yamlFile, 'a') as f:
-        outputs = f.write(content)
+        outputs = f.write("/n" + content)
         print(outputs)
 except FileNotFoundError:
         print('File does not exist, unable to proceed')
