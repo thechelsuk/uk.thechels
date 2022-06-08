@@ -9,8 +9,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- weather_marker starts -->
 #### Today's date is Wednesday, 08 June 2022
 
-- The average temperature today is 16.69˚C;
-- With highs of 16.8˚C and lows of 9.83˚C.
+- The average temperature today is 16.67˚C;
+- With highs of 17.11˚C and lows of 9.92˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.51
-- V3AB.L : 3.78075
-- SPXP.L : 62177.0
+- VWRL.L : 86.14
+- V3AB.L : 3.80362
+- SPXP.L : 62592.12109
 - IMID.L : 179.795
 
 <!-- stocks_marker ends -->
