@@ -16,6 +16,8 @@ if helper.isRefuseWasteDay(working_date):
     string += "- Refuse Waste Collection Day /n"
 if helper.isTuesday(working_date):
     string += "- Food Waste Collection Day /n"
+if string == "":
+    string = "No tasks today"
 
 # processing
 if __name__ == "__main__":
