@@ -8,6 +8,7 @@ It is called "weak notes" as play on words of the popular "week notes" blogging 
 
 ### Quality Control
 
+[![Run tests](https://github.com/MatBenfield/TheChels.uk/actions/workflows/python-ci.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/python-ci.yml)
 [![Code QL](https://github.com/MatBenfield/TheChels.uk/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/codeql-analysis.yml) 
 [![Lighthouse](https://github.com/MatBenfield/TheChels.uk/actions/workflows/lighthouse.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/lighthouse.yml) 
 [![Link Checker](https://github.com/MatBenfield/TheChels.uk/actions/workflows/link-checker.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/link-checker.yml) 
