@@ -281,7 +281,7 @@
   _xmlUrl: "http://DanNorth.net/index.xml"
 - 
   _description: ""
-  _htmlUrl: "https://domk.website/blog/"
+  _htmlUrl: "https://domk.website/blog.html"
   _text: "Blog - domk.website"
   _title: "Blog - domk.website"
   _type: rss
@@ -1129,12 +1129,12 @@
   _xmlUrl: "http://iamashley.co.uk/feed.xml"
 - 
   _description: ""
-  _htmlUrl: "https://eblingroup.com/blog/how-do-you-combine-patience-and-urgency/"
+  _htmlUrl: "https://eblingroup.com/blog/"
   _text: "Blog - Eblin Group"
   _title: "Blog - Eblin Group"
   _type: rss
   _version: RSS
-  _xmlUrl: "https://eblingroup.com/blog/how-do-you-combine-patience-and-urgency/feed/?utm_campaign=tmw-ctocraft&utm_medium=email&utm_source=Revue%20newsletter"
+  _xmlUrl: "https://eblingroup.com/blog/feed/"
 - 
   _description: ""
   _htmlUrl: "https://jordanmerrick.com/"
