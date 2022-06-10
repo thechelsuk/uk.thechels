@@ -107,7 +107,7 @@ def get_corona(records: int) -> str:
     url = "https://raw.githubusercontent.com/Cheltenham-Open-Data/covid/main/corona.json"
     response = requests.get(url).json()
     data = response["body"]
-    string_builder = f"Last {records} days\n\n"
+    string_builder = f"##### Latest {records} day Local Corona Data\n\n"
     for i in range(0, records):
         string_builder += (f"- {0 if data[i]['newCasesByPublishDate'] == None else data[i]['newCasesByPublishDate']} new cases & "
         f"{0 if data[i]['newDeaths28DaysByPublishDate'] == None else data[i]['newDeaths28DaysByPublishDate']} deaths on {data[i]['date']}\n")
