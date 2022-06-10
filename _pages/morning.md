@@ -9,8 +9,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- weather_marker starts -->
 #### Today's date is Friday, 10 June 2022
 
-- The average temperature today is 18.48˚C;
-- With highs of 19.09˚C and lows of 10.58˚C.
+- The average temperature today is 18.43˚C;
+- With highs of 19.36˚C and lows of 11.49˚C.
 - You can expect scattered clouds for the day.
 
 <!-- weather_marker ends -->
@@ -33,10 +33,10 @@ Last 3 days
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.08
-- V3AB.L : 3.7595
-- SPXP.L : 62005.5
-- IMID.L : 178.03999
+- VWRL.L : 83.13
+- V3AB.L : 3.664
+- SPXP.L : 60167.5
+- IMID.L : 170.95
 
 <!-- stocks_marker ends -->
 
@@ -50,11 +50,11 @@ Last 3 days
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Farewell to Christensen, Drinkwater, Musonda and Clarke-Salter](https://www.chelseafc.com/en/news/2022/06/10/farewell-to-christensen--drinkwater--musonda-and-clarke-salter) (10 Jun)
+- [End of term report: Edouard Mendy's 2021/22](https://www.chelseafc.com/en/news/2022/06/10/end-of-term-report--edouard-mendy-s-2021-22) (10 Jun)
+- [Kadeisha Buchanan joins Chelsea FC Women](https://www.chelseafc.com/en/news/2022/06/10/kadeisha-buchanan-joins-chelsea-fc-women) (10 Jun)
+- [Chelsea FC Foundation host annual NHS Staff Football Tournament at Stamford Bridge](https://www.chelseafc.com/en/news/2022/06/10/chelsea-fc-foundation-host-annual-nhs-staff-football-tournament-) (10 Jun)
 - [Azpilicueta helps Spain defeat Switzerland in Nations League contest](https://www.chelseafc.com/en/news/2022/06/09/azpilicueta-helps-spain-defeat-switzerland-in-nations-league-con) (09 Jun)
-- [Kerr named PFA Player of the Year and five Blues in Team of the Year](https://www.chelseafc.com/en/news/2022/06/09/kerr-named-pfa-player-of-the-year-and-five-blues-in-team-of-the-) (09 Jun)
-- [The Young Generation: Under-18s season in moments](https://www.chelseafc.com/en/news/2022/06/09/the-young-generation--under-18s-season-in-moments) (09 Jun)
-- [Chelsea Foundation hosts Goal Getters programme at Stamford Bridge](https://www.chelseafc.com/en/news/2022/06/08/chelsea-foundation-hosts-goal-getters-programme-at-stamford-brid) (09 Jun)
-- [Internationals: Assist for Batshuayi in big Belgium win](https://www.chelseafc.com/en/news/2022/06/08/internationals--assist-for-batshuayi-in-big-belgium-win) (08 Jun)
 
 <!-- cfc_marker ends -->
 
