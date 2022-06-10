@@ -19,6 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 No tasks today
 <!-- task_marker ends -->
 
+##### Latest Local Corona Data
+<!-- c19_marker starts -->
+Last 3 days
+
+- 12 new cases & 0 deaths on 2022-06-09
+- 23 new cases & 0 deaths on 2022-06-08
+- 16 new cases & 1 deaths on 2022-06-07
+
+<!-- c19_marker ends -->
+
 ### Stocks
 
 <!-- stocks_marker starts -->

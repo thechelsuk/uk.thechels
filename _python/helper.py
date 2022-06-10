@@ -1,4 +1,5 @@
 # importing modules
+import requests
 import json
 import re
 from datetime import datetime
@@ -101,3 +102,13 @@ def isRefuseWasteDay(today) -> bool:
 
 def createDate(input: str) -> datetime:
     return datetime.strptime(input, "%Y-%m-%d")
+
+def get_corona(records: int) -> str:
+    url = "https://raw.githubusercontent.com/Cheltenham-Open-Data/covid/main/corona.json"
+    response = requests.get(url).json()
+    data = response["body"]
+    string_builder = f"Last {records} days\n\n"
+    for i in range(0, records):
+        string_builder += (f"- {0 if data[i]['newCasesByPublishDate'] == None else data[i]['newCasesByPublishDate']} new cases & "
+        f"{0 if data[i]['newDeaths28DaysByPublishDate'] == None else data[i]['newDeaths28DaysByPublishDate']} deaths on {data[i]['date']}\n")
+    return string_builder
