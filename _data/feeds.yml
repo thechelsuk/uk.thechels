@@ -121,14 +121,6 @@
   _xmlUrl: "http://rss.cnn.com/rss/edition_technology.rss"
 - 
   _description: ""
-  _htmlUrl: "https://www.fixmystreet.com/?lat=51.904345;lon=-2.102699;d=10"
-  _text: "News - FixMyStreet"
-  _title: "News - FixMyStreet"
-  _type: rss
-  _version: RSS
-  _xmlUrl: "https://www.fixmystreet.com/rss/l/51.904345,-2.102699/10"
-- 
-  _description: ""
   _htmlUrl: "https://rss.politico.com/morningcybersecurity.xml"
   _text: "News - Politico Cyber"
   _title: "News - Politico Cyber"
