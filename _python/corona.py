@@ -1,6 +1,3 @@
-# import
-from http.client import REQUESTED_RANGE_NOT_SATISFIABLE
-
 # import modules
 import pathlib
 import helper
