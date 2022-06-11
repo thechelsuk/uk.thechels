@@ -1,0 +1,19 @@
+---
+name: Add Workout
+on:
+  issues:
+    types: [labeled, edited]
+jobs:
+  Validation:
+    if: contains( github.event.issue.labels.*.name, 'workout')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo
+        run: echo "Check complete"
+  Execution:
+    name: Runner
+    uses: ./.github/workflows/runner.yml
+    needs: Validation
+    with:
+      content: ${{ github.event.issue.body }}
+      label: "workout"
