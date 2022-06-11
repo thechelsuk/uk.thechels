@@ -37,6 +37,7 @@ jobs:
           python '_python/word.py'
           python '_python/task.py'
           python '_python/corona.py'
+          python '_python/workout.py'
       - name: Commit and push
         run: |-
           git diff

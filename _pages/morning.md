@@ -14,11 +14,21 @@ seo: Good Morning Mat, Here is your daily briefing
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
+
+#### Daily Workout
+<!-- workout_marker starts -->
+3x AMRAP for 45 seconds, 15 second rest:
+
+- walking jacks
+- calf raises
+- bench dips
+
+<!-- workout_marker ends -->
+
 ##### Today's tasks
 <!-- task_marker starts -->
 No tasks today
 <!-- task_marker ends -->
-
 
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
