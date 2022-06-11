@@ -11,7 +11,7 @@
     <meta name="description" content="{% if page.seo %} {{ page.seo }} | {% else %} {{ page.title }} | {% endif %}{{ site.description }}" />
     <title>{{ page.title }} | {{ site.title }}</title>
     {% endif %}
-    
+
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta name="format-detection" content="telephone=no"/>
@@ -55,14 +55,14 @@
   <body>
     <div id="outer-wrapper">
       <div id="wrapper">
-        <h1 class="blog-title">
+        <div class="blog-title">
   <a href="{{ site.url }}">
     {% if site.title %}
             {{ site.title }}
     {% else %}
             {{ page.title }}
     {% endif %}</a>
-</h1>
+</>
         <div class="blog-image"></div>
         <p class="blog-slogan">
             {% if site.description %}
@@ -77,8 +77,8 @@
               <a href="{{ site.url }}" title="Back to all home">&larr; Home</a>
               {% endif %}
              {% for item in site.data.header %}
-               <a href="{{item.link}}">{{item.title}}</a> 
+               <a href="{{item.link}}">{{item.title}}</a>
              {% endfor %}
         </nav>
-        
+
         <div class="content">

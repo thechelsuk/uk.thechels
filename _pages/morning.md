@@ -7,7 +7,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 11 June 2022
+## Daily Rundown on Saturday, 11 June 2022
 
 - The average temperature today is 17.48˚C;
 - With highs of 17.78˚C and lows of 8.58˚C.
@@ -15,7 +15,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- weather_marker ends -->
 
-#### Daily Workout
+### Daily Workout
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
@@ -25,13 +25,13 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- workout_marker ends -->
 
-##### Today's tasks
+### Today's tasks
 <!-- task_marker starts -->
 No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
-##### Latest 3 day Local Corona Data
+### Latest 3 day Local Corona Data
 
 - 27 new cases & 0 deaths on 2022-06-10
 - 12 new cases & 0 deaths on 2022-06-09

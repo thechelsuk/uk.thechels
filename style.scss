@@ -1,7 +1,9 @@
 ---
 # Front matter comment to ensure Jekyll properly reads file.
 ---
+
 // 16px = 1em
+
 
 $background: #FFFFFF;
 $font-darkest: #04100D;
@@ -43,6 +45,8 @@ body {
 }
 
 .blog-title {
+  font-size: 2em;
+  font-weight: 200;
   padding-bottom: 0;
   margin-right: 8px;
   display: inline;
@@ -138,6 +142,7 @@ h3 {
 }
 
 h4 {
+  font-size: 1.3em;
   margin-left: -25px;
   padding-left: 25px;
   position: relative;
