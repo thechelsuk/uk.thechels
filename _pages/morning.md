@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-#### Today's date is Friday, 10 June 2022
+#### Today's date is Saturday, 11 June 2022
 
-- The average temperature today is 18.43˚C;
-- With highs of 19.36˚C and lows of 11.49˚C.
-- You can expect scattered clouds for the day.
+- The average temperature today is 17.37˚C;
+- With highs of 18.1˚C and lows of 10.22˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 ##### Today's tasks
@@ -23,9 +23,9 @@ No tasks today
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
 
+- 27 new cases & 0 deaths on 2022-06-10
 - 12 new cases & 0 deaths on 2022-06-09
 - 23 new cases & 0 deaths on 2022-06-08
-- 16 new cases & 1 deaths on 2022-06-07
 
 <!-- c19_marker ends -->
 
@@ -50,11 +50,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Internationals: Broja scores but Albania defeated](https://www.chelseafc.com/en/news/2022/06/10/internationals--broja-scores-but-albania-defeated) (10 Jun)
 - [Farewell to Christensen, Drinkwater, Musonda and Clarke-Salter](https://www.chelseafc.com/en/news/2022/06/10/farewell-to-christensen--drinkwater--musonda-and-clarke-salter) (10 Jun)
 - [End of term report: Edouard Mendy's 2021/22](https://www.chelseafc.com/en/news/2022/06/10/end-of-term-report--edouard-mendy-s-2021-22) (10 Jun)
 - [Kadeisha Buchanan joins Chelsea FC Women](https://www.chelseafc.com/en/news/2022/06/10/kadeisha-buchanan-joins-chelsea-fc-women) (10 Jun)
 - [Chelsea FC Foundation host annual NHS Staff Football Tournament at Stamford Bridge](https://www.chelseafc.com/en/news/2022/06/10/chelsea-fc-foundation-host-annual-nhs-staff-football-tournament-) (10 Jun)
-- [Azpilicueta helps Spain defeat Switzerland in Nations League contest](https://www.chelseafc.com/en/news/2022/06/09/azpilicueta-helps-spain-defeat-switzerland-in-nations-league-con) (09 Jun)
 
 <!-- cfc_marker ends -->
 
