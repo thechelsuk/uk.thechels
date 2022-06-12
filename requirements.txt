@@ -7,5 +7,6 @@ pandas
 requests_html
 argparse
 pyyaml
+pytest
 pytest-md
 pytest-emoji
