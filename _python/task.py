@@ -10,13 +10,13 @@ if __name__ == "__main__":
         working_date = datetime.date.today()
         string = ""
         if helper.is_garden_waste_day(working_date):
-            string += "- Garden Waste Day /n"
+            string += "- Garden Waste Day"
         if helper.is_recycling_waste_day(working_date):
-            string += "- Recycling Waste Collection Day /n"
+            string += "- Recycling Waste Collection Day"
         if helper.is_refuse_waste_day(working_date):
-            string += "- Refuse Waste Collection Day /n"
+            string += "- Refuse Waste Collection Day"
         if helper.is_tuesday(working_date):
-            string += "- Food Waste Collection Day /n"
+            string += "- Food Waste Collection Day"
         if string == "":
             string = "No tasks today"
         root = pathlib.Path(__file__).parent.parent.resolve()
