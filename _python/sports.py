@@ -10,7 +10,7 @@ import requests
 fixtures = set()
 pre_content = ""
 today_date = date.today()
-today_date_string = helper.dtStylish(date.today(), "%A-{th}-%B")
+today_date_string = helper.stylish_datetime(date.today(), "%A-{th}-%B")
 root = pathlib.Path(__file__).parent.parent.resolve()
 url = f"https://push.api.bbci.co.uk/data/bbc-morph-football-scores-match-list-data/endDate/{today_date}/startDate/{today_date}/todayDate/{today_date}/tournament/full-priority-order/version/2.4.6?timeout=5"
 response_dict = json.loads(requests.get(url).text)

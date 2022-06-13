@@ -7,17 +7,17 @@ import pytest
 
 class Test_helper:
     def test_ord_given_int_returns_correct_string(self):
-        assert helper.ord(1) == "1st"
-        assert helper.ord(2) == "2nd"
-        assert helper.ord(3) == "3rd"
-        assert helper.ord(4) == "4th"
-        assert helper.ord(11) == "11th"
-        assert helper.ord(101) == "101st"
+        assert helper.get_ordinal_string(1) == "1st"
+        assert helper.get_ordinal_string(2) == "2nd"
+        assert helper.get_ordinal_string(3) == "3rd"
+        assert helper.get_ordinal_string(4) == "4th"
+        assert helper.get_ordinal_string(11) == "11th"
+        assert helper.get_ordinal_string(101) == "101st"
 
     def test_ord_given_string_returns_error(self):
         with pytest.raises(Exception) as e_info:
-            helper.ord("1")
-            helper.ord("string")
+            helper.get_ordinal_string("1")
+            helper.get_ordinal_string("string")
             print(e_info)
 
     def test_given_input_date_is_formatted_correctly(self):

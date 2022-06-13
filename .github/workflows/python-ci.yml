@@ -7,7 +7,7 @@ on:
       - '/_python'
   push:
     paths:
-      - '/_python'    
+      - '/_python'
 jobs:
   build:
     name: Run tests
