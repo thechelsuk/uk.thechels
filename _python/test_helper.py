@@ -109,7 +109,7 @@ class Test_helper:
             helper.get_random_items_from_a_list("string", ["a", "b", "c"], 4)
             print(e_info)
 
-    def test_get_random_items_from_a_list_zero_count_does_not_contain_list_items(self):
+    def test_get_random_items_from_a_list_zero_count_does_not_contain(self):
         output = helper.get_random_items_from_a_list("string", ["a", "b"], 0)
         assert not contains(output, "- a")
         assert not contains(output, "- b")

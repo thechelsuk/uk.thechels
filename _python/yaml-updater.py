@@ -9,10 +9,12 @@ if __name__ == "__main__":
     )
 
     arguments.add_argument(
-        "--content", type=str, help="The single line of text to use", required=True
+        "--content", type=str, help="The single line of text to use",
+        required=True
     )
     arguments.add_argument(
-        "--label", type=str, help="The label gives us the file context", required=True
+        "--label", type=str, help="The label gives us the file context",
+        required=True
     )
 
     args = arguments.parse_args()
