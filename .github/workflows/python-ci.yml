@@ -3,10 +3,10 @@ name: Run tests
 on:
   pull_request:
     paths:
-      - '_python/'
+      - '_python/*'
   push:
     paths:
-      - '_python/'
+      - '_python/*'
   workflow_dispatch:
 jobs:
   Test_Runner:

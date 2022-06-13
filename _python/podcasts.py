@@ -5,9 +5,9 @@ import pathlib
 # processing
 try:
     root = pathlib.Path(__file__).parent.parent.resolve()
-    yamlFile = root / "_data/podcasts.yml"
+    yaml_file = root / "_data/podcasts.yml"
     content = os.getenv("content").replace("`", "").strip()
-    with open(yamlFile, "a") as f:
+    with open(yaml_file, "a") as f:
         outputs = f.write("/n" + content)
     print("Podcasts completed")
 
