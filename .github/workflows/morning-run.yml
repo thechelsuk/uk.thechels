@@ -38,6 +38,7 @@ jobs:
           python '_python/task.py'
           python '_python/corona.py'
           python '_python/workout.py'
+          python '_python/countdown.py'
       - name: Commit and push
         run: |-
           git diff

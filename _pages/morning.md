@@ -70,7 +70,14 @@ No tasks today
 
 ### Word of the day
 <!-- word_marker starts -->
-
  > eolian - adjective: Relating to or caused by the wind.
-
 <!-- word_marker ends -->
+
+### Countdown numbers
+<!-- game_marker starts -->
+
+- Target: 554 using [1, 4, 7, 10, 50, 75]
+- Solution: 75 x 10 - ( 50 - 1 ) x 4
+- Total: 12 solutions.
+
+<!-- game_marker ends -->

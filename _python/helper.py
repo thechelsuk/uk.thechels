@@ -10,14 +10,32 @@ from yahoo_fin import stock_info as si
 
 
 # methods
-def replace_chunk(content: str, marker: str, chunk: str) -> str:
+def get_countdown_number_selection():
+    selected = list()
+    small_numbers = list(range(1, 10)) * 2
+    big_numbers = [10, 25, 50, 75, 100]
+    random_index = random.randint(1, 4)
+    remaining_numbers = 6 - random_index
+
+    for i in range(remaining_numbers):
+        selected.append(random.choice(small_numbers))
+
+    for i in range(random_index):
+        picked = random.choice(big_numbers)
+        big_numbers.remove(picked)
+        selected.append(picked)
+
+    return sorted(selected)
+
+
+def replace_chunk(content: str, m: str, c: str) -> str:
     """Injects content into a template marker"""
     replacer = re.compile(
-        r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
+        r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(m, m),
         re.DOTALL,
     )
-    chunk = "<!-- {} starts -->\n{}\n<!-- {} ends -->".format(marker, chunk, marker)
-    return replacer.sub(chunk, content)
+    c = "<!-- {} starts -->\n{}\n<!-- {} ends -->".format(m, c, m)
+    return replacer.sub(c, content)
 
 
 def remove_img_tags(data: str) -> str:
@@ -29,7 +47,8 @@ def remove_img_tags(data: str) -> str:
 def get_ordinal_string(n: int) -> str:
     """Returns the ordinal of a number"""
     return str(n) + (
-        "th" if 4 <= n % 100 <= 20 else {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
+        "th" if 4 <= n % 100 <= 20 else {1: "st", 2: "nd", 3: "rd"}
+        .get(n % 10, "th")
     )
 
 
@@ -142,7 +161,8 @@ def create_date(input: str) -> datetime:
 def get_corona(records: int) -> str:
     """Returns a string of corona records from hardcoded url"""
     url = (
-        "https://raw.githubusercontent.com/Cheltenham-Open-Data/covid/main/corona.json"
+        "https://raw.githubusercontent.com/"
+        "Cheltenham-Open-Data/covid/main/corona.json"
     )
     response = requests.get(url).json()
     data = response["body"]
@@ -150,13 +170,14 @@ def get_corona(records: int) -> str:
     for i in range(0, records):
         string_builder += (
             f"- {data[i]['newCasesByPublishDate']} new cases & "
-            f"{data[i]['newDeaths28DaysByPublishDate']} deaths on {data[i]['date']}\n"
+            f"{data[i]['newDeaths28DaysByPublishDate']}"
+            f" deaths on {data[i]['date']}\n"
         )
     return string_builder
 
 
-def get_random_items_from_a_list(string: str, items: list, counter: int) -> str:
+def get_random_items_from_a_list(out: str, items: list, count: int) -> str:
     """Returns a string of random items from a list"""
-    for item in random.sample(items, counter):
-        string += f"- {item}\n"
-    return string
+    for item in random.sample(items, count):
+        out += f"- {item}\n"
+    return out
