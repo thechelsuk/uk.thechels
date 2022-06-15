@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 14 June 2022
+### Daily Rundown on Wednesday, 15 June 2022
 
-- The average temperature today is 18.58˚C;
-- With highs of 20.07˚C and lows of 7.83˚C.
-- You can expect clear sky for the day.
+- The average temperature today is 20.5˚C;
+- With highs of 21.26˚C and lows of 10.82˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,23 +19,23 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Calf raises
 - Kettlebell rows
-- Dead bugs
+- Plank
+- Walking jacks
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day- Food Waste Collection Day
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
 
+- 23 new cases & 0 deaths on 2022-06-14
 - 55 new cases & 0 deaths on 2022-06-13
 - 0 new cases & 0 deaths on 2022-06-12
-- 0 new cases & 0 deaths on 2022-06-11
 
 <!-- c19_marker ends -->
 
@@ -43,10 +43,10 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 81.41
-- V3AB.L : 3.5885
-- SPXP.L : 58921.0
-- IMID.L : 165.395
+- VWRL.L : 81.91
+- V3AB.L : 3.6065
+- SPXP.L : 59097.0
+- IMID.L : 164.24001
 
 <!-- stocks_marker ends -->
 
@@ -60,17 +60,17 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Internationals: Two for Timo, one for Michy but shock for Three Lions](https://www.chelseafc.com/en/news/2022/06/14/internationals--two-for-timo--one-for-michy-but-shock-for-three-) (14 Jun)
+- [End of term report: Andreas Christensen’s 2021/22](https://www.chelseafc.com/en/news/2022/06/13/end-of-term-report--andreas-christensen-s-2021-22) (14 Jun)
+- [Premier League 2022/23 fixtures: When are they released and what are the key dates?](https://www.chelseafc.com/en/news/2022/06/14/premier-league-2022-23-fixtures--when-are-they-released-and-what) (14 Jun)
+- [Chelsea Foundation coaches share FA mentee programme experience](https://www.chelseafc.com/en/news/2022/06/14/chelsea-foundation-coaches-share-fa-mentee-programme-experience) (14 Jun)
 - [Internationals: Kovacic key as Croatia stun France](https://www.chelseafc.com/en/news/2022/06/13/international-round-up-france-vs-croatia) (13 Jun)
-- [Gilmour contract extended](https://www.chelseafc.com/en/news/2022/06/13/gilmour-contract-extended) (13 Jun)
-- [Chelsea top appearance makers and milestones in 2021/22](https://www.chelseafc.com/en/news/2022/06/13/chelsea-top-appearance-makers-and-milestones-in-2021-22) (13 Jun)
-- [Internationals: Alonso in Nations League success](https://www.chelseafc.com/en/news/2022/06/12/internationals--alonso-in-nations-league-success) (12 Jun)
-- [End of term report: Callum Hudson-Odoi and Malang Sarr's 2021/22](https://www.chelseafc.com/en/news/2022/06/12/end-of-term-report--callum-hudson-odoi-and-malang-sarr-s-2021-22) (12 Jun)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > Proteus - noun: One who can easily change appearance, form, character, principles, etc.
+ > eolian - adjective: Relating to or caused by the wind.
 
 <!-- word_marker ends -->
