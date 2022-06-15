@@ -6,3 +6,4 @@ CNAME
 .DS_Store
 _python/__pycache__
 .vscode/settings.json
+.pytest_cache/
