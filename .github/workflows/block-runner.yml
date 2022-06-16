@@ -35,8 +35,8 @@ jobs:
       - name: Check for new content
         run: python '_python/block_updater.py'
         env:
-            content: ${{ github.event.inputs.content }}
-            label: ${{ github.event.inputs.label }}
+            content: ${{ inputs.content }}
+            label: ${{ inputs.label }}
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
