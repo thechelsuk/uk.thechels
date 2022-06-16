@@ -509,7 +509,7 @@
 - 
   category: Finance
   link: "https://rss.acast.com/ftadviser"
-  name: "FTAdviser Podcast"
+  name: "FT Adviser"
 - 
   category: Technology
   link: "https://feeds.buzzsprout.com/681950.rss"
@@ -934,7 +934,3 @@
   category: Engineering
   link: "https://www.mountaingoatsoftware.com/agile/podcast/rss"
   name: "Agile Mentors Podcast"
--
-  category: Finance
-  link: "https://play.acast.com/s/ftadviser"
-  name: "FT Adviser"
