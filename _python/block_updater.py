@@ -9,7 +9,7 @@ try:
     content = content.replace("```yaml", "")
     content = content.replace("`", "").strip()
     root = pathlib.Path(__file__).parent.parent.resolve()
-    yaml_file = root / "_data/{label}.yml"
+    yaml_file = root / f"_data/{label}.yml"
     with open(yaml_file, "a") as f:
         outputs = f.write("/n" + content)
     print(f"{label} completed")
