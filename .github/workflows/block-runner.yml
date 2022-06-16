@@ -34,6 +34,9 @@ jobs:
           python -m pip install -r requirements.txt
       - name: Check for new content
         run: python '_python/block_updater.py'
+        with:
+            content: ${{ github.event.inputs.content }}
+            label: ${{ github.event.inputs.label }}
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
