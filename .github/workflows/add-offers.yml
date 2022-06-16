@@ -1,11 +1,11 @@
 ---
-name: Add Podcast
+name: Add Offers
 on:
   issues:
     types: [labeled, edited]
 jobs:
   Validation:
-    if: contains( github.event.issue.labels.*.name, 'podcasts')
+    if: contains( github.event.issue.labels.*.name, 'offers')
     runs-on: ubuntu-latest
     steps:
       - name: Echo
@@ -16,4 +16,4 @@ jobs:
     needs: Validation
     with:
       content: ${{ github.event.issue.body }}
-      label: "podcasts"
+      label: "offers"

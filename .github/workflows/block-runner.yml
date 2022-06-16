@@ -1,5 +1,5 @@
 ---
-name: "Runner"
+name: "Block Runner"
 
 on:
   workflow_call:
@@ -12,7 +12,7 @@ on:
         type: string
 
 jobs:
- Build:
+  Build:
     runs-on: ubuntu-latest
     name: Processing
     steps:
@@ -31,20 +31,18 @@ jobs:
             ${{ runner.os }}-pip-
       - name: Install Python dependencies
         run: |
-          python -m pip install -r requirements.txt --quiet
+          python -m pip install -r requirements.txt
       - name: Check for new content
-        run: |-
-          python '_python/yaml_updater.py' --content "${{ inputs.content }}" --label "${{ inputs.label }}"
+        run: python '_python/block_updater.py'
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
           committer: GitHub Action <action@github.com>
-          branch: "new-config-from-issue-${{ github.event.issue.number }}"
+          branch: "feat/config-from-issue-#${{ github.event.issue.number }}"
           delete-branch: true
           title: "Feat: ${{ github.event.issue.title}}"
           body: |
-            > ${{ github.event.issue.body }}
             Automatic PR for Config change: ${{ steps.title.outputs.title }}
             Closes #${{ github.event.issue.number }}
-          reviewers: "${{ github.repository_owner }}"
-          commit-message: "feat-${{ steps.title.outputs.title }}-#${{ github.event.issue.number }}"
+            reviewers: "${{ github.repository_owner }}"
+            commit-message: "feat/commit-for-issue-#${{ github.event.issue.number }}"

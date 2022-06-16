@@ -29,3 +29,65 @@ exclude:
 include:
   - ".well-known"
   - "_pages"
+
+# Site Navigation
+## Header
+navigation_header:
+-
+  link: "https://thechels.uk/about"
+  title: "About"
+-
+  link: "https://thechels.uk/cv"
+  title: "CV"
+-
+  link: "https://thechels.uk/contact"
+  title: "Contact"
+-
+  link: "https://thechels.uk/morning"
+  title: "Morning"
+## Footer
+navigation_footer:
+-
+  link: "https://thechels.uk/feed.json"
+  title: "Feed"
+-
+  link: "https://thechels.uk/humans.txt"
+  title: "Humans"
+-
+  link: "https://thechels.uk/robots.txt"
+  title: "Robots"
+-
+  link: "https://thechels.uk/sitemap.xml"
+  title: "Sitemap"
+-
+  link: "https://thechels.uk/.well-known/security.txt"
+  title: "Security"
+## Around the web
+around_the_web:
+-
+  link: "https://github.com/MatBenfield/"
+  title: "GitHub"
+-
+  link: "https://keybase.io/MatBenfield"
+  title: "Keybase"
+-
+  link: "https://www.linkedin.com/in/mat-benfield/"
+  title: "LinkedIn"
+-
+  link: "https://www.meetup.com/members/197754442/"
+  title: "MeetUp"
+-
+  link: "https://www.strava.com/athletes/24249743"
+  title: "Strava"
+-
+  link: "https://stackoverflow.com/users/894932/mat-benfield"
+  title: "StackOverflow"
+-
+  link: "https://twitter.com/tocfcws"
+  title: "Twitter"
+-
+  link: "https://www.paypal.com/paypalme/matbenfield"
+  title: "PayPal"
+-
+  link: "https://bit.ly/2W7zxUB"
+  title: "Acorn's Children Hospice"
