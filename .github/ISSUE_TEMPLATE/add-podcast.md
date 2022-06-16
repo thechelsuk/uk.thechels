@@ -7,7 +7,7 @@ assignees: '@MatBenfield'
 
 ---
 
-```
+```yaml
 -
   category:
   link: ""
