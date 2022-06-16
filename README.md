@@ -38,3 +38,22 @@ In order for the page to work you need to enter some secrets for the repository.
 3. Update stocks.json with the ticker ids for the stocks you want prices for.
 4. Update comps.json with the list of competition slugs used by the BBC in order to get the relevant football fixtures 
 5. Update quotes.json with your favourite quotes.
+
+
+## Configuration
+There are a number of optional settings for you to configure. Use the example `_config.yml` file in the repo and use the documentation below to configure your site:
+
+### Using includes
+There are 2 main includes: one for the header and one for the footer, largely to minimise repetititon.
+
+### Using layouts
+
+Layouts exist on an almost one-to-one relationship with pages, handling any page specifics, `post.html` is the layout used for every blog post. There also default templates and an empty template used for `scss` and other special pages such as `humans.txt`
+
+### Using Data
+
+Many aspects of the site are powered by data files and these are updating via issues and GitHub Actions, including most of the content on the `Morning` page.
+
+### Site navigation
+
+Using data yml files, navigation is provided by `header.yml`, `footer.yml`, `links.yml`, `offers.yml` and are fairly self-explanatory 
