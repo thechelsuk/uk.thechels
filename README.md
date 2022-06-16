@@ -21,10 +21,12 @@ due to the likelihood I will be inconsistent and non-regular.
 
 [![Add Book](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-book.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-book.yml) 
 [![Add Now and Next](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-next.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-next.yml) 
-[![Add Post](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-post.yml/badge.svg?event=issues)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-post.yml)
-[![Add Podcast](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-podcast.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-podcast.yml)
-[![Add Quotes](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-quotes.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-quotes.yml)
-[![Add Stock](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-stock.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-stock.yml)
+[![Add Offers](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-offers.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-offers.yml) 
+[![Add Post](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-post.yml/badge.svg?event=issues)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-post.yml) 
+[![Add Podcast](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-podcast.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-podcast.yml) 
+[![Add Quotes](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-quotes.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-quotes.yml) 
+[![Add Stock](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-stock.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/add-stock.yml) 
+
 
 ### Scheduled
 
@@ -57,4 +59,4 @@ Many aspects of the site are powered by data files and these are updating via is
 
 ### Site navigation
 
-Using data yml files, navigation is provided by `header.yml`, `footer.yml`, `links.yml`, `offers.yml` and are fairly self-explanatory 
+Using configuration yml, navigation is provided by three collections for `header`, `footer`, and `around_the_web` (on the about page) and are fairly self-explanatory.
