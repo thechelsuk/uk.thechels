@@ -2,7 +2,8 @@
 
 A blog hosted on GitHub available at TheChels.uk. The site uses Jekyll, a static site generator, on Ruby. DNS and SSL by Cloudflare. It also uses GitHub actions, GitHub issues, and Python for extensive automation.
 
-It is called "weak notes" as play on words of the popular "week notes" blogging style - due to the likelihood I will be inconsistent and therefore weak at it.
+It is called "weak notes" as play on words of the popular "week notes" [blogging style](https://weeknot.es/) - 
+due to the likelihood I will be inconsistent and non-regular.
 
 ## Badges
 
