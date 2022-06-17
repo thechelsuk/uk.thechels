@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 16 June 2022
+### Daily Rundown on Friday, 17 June 2022
 
-- The average temperature today is 20.49˚C;
-- With highs of 22.69˚C and lows of 10.89˚C.
+- The average temperature today is 25.17˚C;
+- With highs of 25.48˚C and lows of 14.47˚C.
 - You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
-- Shadow boxing
+- Kettlebell rows
 - Bodyweight squats
+- Kettlebell swings
 
 <!-- workout_marker ends -->
 
@@ -33,9 +33,9 @@ No tasks today
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
 
+- 18 new cases & 0 deaths on 2022-06-16
 - 21 new cases & 0 deaths on 2022-06-15
 - 23 new cases & 0 deaths on 2022-06-14
-- 55 new cases & 0 deaths on 2022-06-13
 
 <!-- c19_marker ends -->
 
@@ -43,9 +43,9 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 82.04
-- V3AB.L : 3.631
-- SPXP.L : 59304.5
+- VWRL.L : 78.0
+- V3AB.L : 3.4775
+- SPXP.L : 56714.5
 - IMID.L : 165.11501
 
 <!-- stocks_marker ends -->
@@ -60,26 +60,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Ticketing, Club Membership, Westview and Club Chelsea renewal news](https://www.chelseafc.com/en/news/2022/06/15/ticketing--club-membership--westview-and-club-chelsea-renewal-ne) (15 Jun)
-- [Internationals: Pulisic and USA held to draw in El Salvador](https://www.chelseafc.com/en/news/2022/06/15/internationals--pulisic-and-usa-held-to-draw-in-el-salvador-) (15 Jun)
-- [Women’s Super League 2022/23: When does the season start and what are the key dates?](https://www.chelseafc.com/en/news/2022/06/15/women-s-super-league-2022-23--when-does-the-season-start-and-wha) (15 Jun)
-- [Foundation hosts week of Stamford Bridge pitch events](https://www.chelseafc.com/en/news/2022/06/14/foundation-host-week-of-stamford-bridge-pitch-events) (15 Jun)
-- [Internationals: Two for Timo, one for Michy but shock for Three Lions](https://www.chelseafc.com/en/news/2022/06/14/internationals--two-for-timo--one-for-michy-but-shock-for-three-) (14 Jun)
+- [End of term report: Timo Werner’s 2021/22](https://www.chelseafc.com/en/news/2022/06/17/end-of-term-report--timo-werner-s-2021-220) (17 Jun)
+- [Premier League fixture release day quiz](https://www.chelseafc.com/en/news/2022/06/16/premier-league-fixture-release-day-quiz) (16 Jun)
+- [Chelsea's 2022/23 Premier League fixtures announced](https://www.chelseafc.com/en/news/2022/06/16/chelsea-s-2022-23-premier-league-fixtures-announced) (16 Jun)
+- [New USA fan-culture series The Bridge launched ahead of US tour](https://www.chelseafc.com/en/news/2022/06/16/new-usa-fan-culture-series-the-bridge-launched-ahead-of-us-tour) (16 Jun)
+- [Shirt partner Three to resume activities](https://www.chelseafc.com/en/news/2022/06/16/shirt-partner-three-to-resume-activities0) (16 Jun)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > panderer - noun: One who caters to the base desires, whims, or prejudices of others.
+ > chimeric - adjective: 1. Made up of parts that are very different. 2. Fanciful; imaginative; illusory.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 359, using [1, 6, 10, 25, 50, 75]
-- Solution: ( 75 + 25 + 10 - 50 ) x 6 - 1
-- Total: 19 solutions.
+- Target: 219, using [3, 6, 9, 25, 75, 100]
+- Solution: 100 x 75 / 25 - ( 6 + 3 ) x 9
+- Total: 41 solutions.
 
 <!-- game_marker ends -->
