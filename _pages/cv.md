@@ -36,7 +36,11 @@ _Seccl’s technology helps advisers, investment managers, and fintechs of all s
 
 ##### ENGINEERING MANAGER (June 2021 - Current)
 
-Leading multiple squads in the investments and advice tribe with a focus on delivery, empowering and growing our engineers.
+Started leading multiple squads in the investments and advice tribe with a focus on delivery, empowering and growing our engineers. Impelmented a role/skill matrix and used this during annual reviews - the first time anything like this was used in the company.
+
+Built a recruitment process and question set for various roles ans formalised a fair and systematic approach to recruitment hiring 12 engineers in first 6 months.
+
+Currently leading our devops function responsible for our cloud infrastructure and support. Developed a roadmap to remove legacy cloud, poorly managed systems to managed services. Helped team deliver an automated client onboarding process reducing time from approximately 6 hours to 3 minutes.
 
 #### Higher Education Statistics Agency
 
