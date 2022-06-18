@@ -4,7 +4,7 @@
 <div class="book-list">
   {% assign books = site.data.read | sort: "dateFinished" | reverse %}
   {% for book in books %}
-  <div class="book"> 
+  <div class="book">
     <div class="book-img"><img src="/images/books/book-{{book.isbn}}.png" alt="cover of {{book.title}} book" /></div>
   </div>
   {% endfor %}

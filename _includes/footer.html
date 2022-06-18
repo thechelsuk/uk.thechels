@@ -3,13 +3,13 @@
 </div>
     <div class="footer">
       <div class="wrapper">
-        <p>&copy; {{ site.time | date: '%Y' }} 
+        <p>&copy; {{ site.time | date: '%Y' }}
              {% if site.copyright %}
-               {{ site.copyright }} 
+               {{ site.copyright }}
              {% else %}
              {% endif %}
              {% for item in site.navigation_footer %}
-             <a href="{{item.link}}">{{item.title}}</a> 
+             <a href="{{item.link}}">{{item.title}}</a>
              {% endfor %}
              | {% github_edit_link "Edit" %}
         </p>

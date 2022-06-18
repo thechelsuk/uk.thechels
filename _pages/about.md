@@ -10,7 +10,7 @@ seo: About page for Mat Benfield, owner of Weak Notes at thechels.uk
 
 I work as an Engineering Manager at a business-to-business, api-first fintech in the wealth management and advice space.
 
-I wrote my first bit of HTML in a Notepad window sometime around 1999 and never really stopped, I've been hands-off day-to-day at work for several years now but I still like to dabble in my spare time.
+I wrote my first bit of HTML in a Notepad window sometime around 1999 and never really stopped, I've been hands-off day-to-day at work for several years now, but I still like to dabble in my spare time.
 
 You can see my [curriculum vitae](/cv) and my [operating manual](/manual).
 
@@ -18,7 +18,7 @@ I love listening to [podcasts](/podcasts) so please [help me find more](https://
 
 ### Active Projects
 
-- Having learned a little python, I created a twitter bot [tweeting breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news) and [associated low-fi Chelsea official news app](https://app.thechels.uk) because for some reason modern websites don't produce RSS feeds.
+- Having learned a little python, I created a twitter bot [tweeting breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news) and [associated low-fi Chelsea official news app](https://app.thechels.uk) because, for some reason, modern websites don't produce RSS feeds.
 - I have been compiling a repository of [engineering management](https://github.com/MatBenfield/engineering-management) tools to help the day job and others in the role.
 - [Boinc - Contribute computing capacity](https://boinc.thechels.uk) is hosted for a friend.
 - [Cheltenham open data](https://cheltenham-open-data.github.io) is an GitHub organisation that uses open data sources relevant to my hometown. Projects include using and archiving official government statistics of Covid-19, Food bank data, street crimes, fix-my-street and more.
