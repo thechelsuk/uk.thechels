@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 17 June 2022
+### Daily Rundown on Saturday, 18 June 2022
 
-- The average temperature today is 25.17˚C;
-- With highs of 25.48˚C and lows of 14.47˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 14.46˚C;
+- With highs of 16.49˚C and lows of 8.11˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -20,8 +20,8 @@ seo: Good Morning Mat, Here is your daily briefing
 3x AMRAP for 45 seconds, 15 second rest:
 
 - Kettlebell rows
-- Bodyweight squats
-- Kettlebell swings
+- Shadow boxing
+- Calf raises
 
 <!-- workout_marker ends -->
 
@@ -33,9 +33,9 @@ No tasks today
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
 
+- 17 new cases & 2 deaths on 2022-06-17
 - 18 new cases & 0 deaths on 2022-06-16
 - 21 new cases & 0 deaths on 2022-06-15
-- 23 new cases & 0 deaths on 2022-06-14
 
 <!-- c19_marker ends -->
 
@@ -43,10 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 78.0
-- V3AB.L : 3.4775
-- SPXP.L : 56714.5
-- IMID.L : 165.11501
+- VWRL.L : 78.7
+- V3AB.L : 3.51275
+- SPXP.L : 57228.0
+- IMID.L : 161.44501
+- 0P0001K1DP.L : nan
+- 0P00013P6I.L : 218.2
 
 <!-- stocks_marker ends -->
 
@@ -60,11 +62,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Mendy: Winning trophies becomes an addiction](https://www.chelseafc.com/en/news/2022/06/17/mendy--winning-trophies-becomes-an-addiction-) (17 Jun)
 - [End of term report: Timo Werner’s 2021/22](https://www.chelseafc.com/en/news/2022/06/17/end-of-term-report--timo-werner-s-2021-220) (17 Jun)
+- [Chelsea Academy international call-ups](https://www.chelseafc.com/en/news/2022/06/17/chelsea-academy-international-call-ups) (17 Jun)
 - [Premier League fixture release day quiz](https://www.chelseafc.com/en/news/2022/06/16/premier-league-fixture-release-day-quiz) (16 Jun)
 - [Chelsea's 2022/23 Premier League fixtures announced](https://www.chelseafc.com/en/news/2022/06/16/chelsea-s-2022-23-premier-league-fixtures-announced) (16 Jun)
-- [New USA fan-culture series The Bridge launched ahead of US tour](https://www.chelseafc.com/en/news/2022/06/16/new-usa-fan-culture-series-the-bridge-launched-ahead-of-us-tour) (16 Jun)
-- [Shirt partner Three to resume activities](https://www.chelseafc.com/en/news/2022/06/16/shirt-partner-three-to-resume-activities0) (16 Jun)
 
 <!-- cfc_marker ends -->
 
@@ -78,8 +80,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 219, using [3, 6, 9, 25, 75, 100]
-- Solution: 100 x 75 / 25 - ( 6 + 3 ) x 9
-- Total: 41 solutions.
+- Target: 901, using [2, 4, 8, 50, 75, 100]
+- Solution: ( 8 + 4 ) x 75 + 100 / 50 / 2
+- Total: 2 solutions.
 
 <!-- game_marker ends -->
