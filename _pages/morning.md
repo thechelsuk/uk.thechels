@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 24 June 2022
+### Daily Rundown on Saturday, 25 June 2022
 
-- The average temperature today is 19.71˚C;
-- With highs of 19.96˚C and lows of 13.37˚C.
+- The average temperature today is 18.73˚C;
+- With highs of 18.73˚C and lows of 9.86˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
+- Kettlebell swings
 - Shadow boxing
-- Plank
+- Walking jacks
 
 <!-- workout_marker ends -->
 
@@ -33,9 +33,9 @@ No tasks today
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
 
+- 35 new cases & 0 deaths on 2022-06-24
 - 35 new cases & 0 deaths on 2022-06-23
 - 45 new cases & 1 deaths on 2022-06-22
-- 29 new cases & 0 deaths on 2022-06-21
 
 <!-- c19_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 79.66
-- V3AB.L : 3.58175
-- SPXP.L : 58605.0
-- IMID.L : 164.38
+- VWRL.L : 81.62
+- V3AB.L : 3.664
+- SPXP.L : 60019.5
+- IMID.L : 168.255
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 222.62
+- 0P00013P6I.L : 223.2
 
 <!-- stocks_marker ends -->
 
@@ -56,18 +56,17 @@ No tasks today
 
 <!-- sports_marker starts -->
 
-<li>(20:30) Inter Club D'Escaldes - Vikingur Reykjavík</li>
-
+- No fixtures today
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Chelsea goals in 2021/22 – who, how and when they were scored](https://www.chelseafc.com/en/news/2022/06/24/chelsea-goals-in-2021-22---who--how-and-when-they-were-scored-) (25 Jun)
+- [Emma Hayes receives OBE at Buckingham Palace](https://www.chelseafc.com/en/news/2022/06/24/emma-hayes-receives-obe-at-buckingham-palace) (24 Jun)
 - [End of term report: Mason Mount's 2021/22](https://www.chelseafc.com/en/news/2022/06/24/end-of-term-report--mason-mount-s-2021-22) (23 Jun)
 - [Gallery: Missing the Bridge already!](https://www.chelseafc.com/en/news/2022/06/23/gallery--missing-the-bridge-already-) (23 Jun)
 - [Academy defender loaned to League Two side](https://www.chelseafc.com/en/news/2022/06/23/academy-defender-loaned-to-league-two-side) (23 Jun)
-- [Chelsea Football Club announces new Board of Directors and leadership changes](https://www.chelseafc.com/en/news/2022/06/22/chelsea-football-club-announces-new-board-of-directors) (22 Jun)
-- [Two young Blues help England advance in Under-19 Euros](https://www.chelseafc.com/en/news/2022/06/22/two-young-blues-help-england-advance-in-under-19-euros) (22 Jun)
 
 <!-- cfc_marker ends -->
 
@@ -81,8 +80,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 127, using [2, 4, 5, 8, 8, 50]
-- Solution: ( ( 8 + 5 - 8 ) x 50 + 4 ) / 2
-- Total: 51 solutions.
+- Target: 991, using [1, 2, 4, 6, 9, 100]
+- Solution: ( 100 + 6 + 4 ) x 9 + 2 - 1
+- Total: 9 solutions.
 
 <!-- game_marker ends -->
