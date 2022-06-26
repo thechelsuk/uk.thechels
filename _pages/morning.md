@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 25 June 2022
+### Daily Rundown on Sunday, 26 June 2022
 
-- The average temperature today is 18.73˚C;
-- With highs of 18.73˚C and lows of 9.86˚C.
-- You can expect light rain for the day.
+- The average temperature today is 18.72˚C;
+- With highs of 19.23˚C and lows of 8.2˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Bodyweight squats
+- Kettlebell rows
 - Kettlebell swings
-- Shadow boxing
-- Walking jacks
 
 <!-- workout_marker ends -->
 
@@ -62,11 +62,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [End of term report: Reece James's 2021/22](https://www.chelseafc.com/en/news/2022/06/26/end-of-term-report--reece-james-s-2021-22) (26 Jun)
+- [Youth internationals: Blues duo continue England’s perfect Euros](https://www.chelseafc.com/en/news/2022/06/25/youth-internationals--blues-duo-continue-england-s-perfect-euros) (25 Jun)
+- [End of term reports: Harvey Vale's, Lewis Hall's, Xavier Simons' and Jude Soonsup-Bell's 2021/22 season](https://www.chelseafc.com/en/news/2022/06/25/end-of-term-reports--harvey-vale-s--lewis-hall-s--xavier-simons-) (25 Jun)
 - [Chelsea goals in 2021/22 – who, how and when they were scored](https://www.chelseafc.com/en/news/2022/06/24/chelsea-goals-in-2021-22---who--how-and-when-they-were-scored-) (25 Jun)
-- [Emma Hayes receives OBE at Buckingham Palace](https://www.chelseafc.com/en/news/2022/06/24/emma-hayes-receives-obe-at-buckingham-palace) (24 Jun)
-- [End of term report: Mason Mount's 2021/22](https://www.chelseafc.com/en/news/2022/06/24/end-of-term-report--mason-mount-s-2021-22) (23 Jun)
-- [Gallery: Missing the Bridge already!](https://www.chelseafc.com/en/news/2022/06/23/gallery--missing-the-bridge-already-) (23 Jun)
-- [Academy defender loaned to League Two side](https://www.chelseafc.com/en/news/2022/06/23/academy-defender-loaned-to-league-two-side) (23 Jun)
+- [Playing our part at London Pride and beyond](https://www.chelseafc.com/en/news/2022/06/25/playing-our-part-at-london-pride-and-beyond) (25 Jun)
 
 <!-- cfc_marker ends -->
 
@@ -80,8 +80,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 991, using [1, 2, 4, 6, 9, 100]
-- Solution: ( 100 + 6 + 4 ) x 9 + 2 - 1
-- Total: 9 solutions.
+- Target: 460, using [2, 4, 4, 5, 8, 50]
+- Solution: ( 4 / 4 + 8 ) x 50 + 5 x 2
+- Total: 69 solutions.
 
 <!-- game_marker ends -->
