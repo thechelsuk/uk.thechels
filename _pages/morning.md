@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 28 June 2022
+### Daily Rundown on Wednesday, 29 June 2022
 
-- The average temperature today is 18.76˚C;
-- With highs of 19.16˚C and lows of 8.49˚C.
-- You can expect light rain for the day.
+- The average temperature today is 17.79˚C;
+- With highs of 18.53˚C and lows of 11.4˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,23 +19,23 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
+- Dead bugs
+- Calf raises
 - Walking jacks
-- Kettlebell swings
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day- Food Waste Collection Day
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
 
+- 34 new cases & 0 deaths on 2022-06-28
 - 93 new cases & 0 deaths on 2022-06-27
 - 0 new cases & 0 deaths on 2022-06-26
-- 0 new cases & 0 deaths on 2022-06-25
 
 <!-- c19_marker ends -->
 
@@ -43,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 82.17
-- V3AB.L : 3.69525
-- SPXP.L : 60566.5
-- IMID.L : 170.13
+- VWRL.L : 82.33
+- V3AB.L : 3.6875
+- SPXP.L : 60341.0
+- IMID.L : 168.47
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 229.56
+- 0P00013P6I.L : 230.25
 
 <!-- stocks_marker ends -->
 
@@ -62,26 +62,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Chilwell and Hudson-Odoi return to training early](https://www.chelseafc.com/en/news/2022/06/27/chilwell-and-hudson-odoi-return-to-training-early) (27 Jun)
-- [Watch Chelsea train in the USA!](https://www.chelseafc.com/en/news/2022/06/27/watch-chelsea-train-in-the-usa-) (27 Jun)
-- [Petr Cech to leave Technical and Performance Advisor role](https://www.chelseafc.com/en/news/2022/06/27/petr-cech-to-leave-technical-and-performance-advisor-role) (27 Jun)
-- [End of term report: Romelu Lukaku's 2021/22](https://www.chelseafc.com/en/news/2022/06/27/end-of-term-report--romelu-lukaku-s-2021-22) (27 Jun)
-- [Chelsea Women international round-up: Goals, assists and two centurions](https://www.chelseafc.com/en/news/2022/06/27/chelsea-women-international-round-up-) (27 Jun)
+- [End of term report: Jorginho’s 2021/22](https://www.chelseafc.com/en/news/2022/06/29/end-of-term-report--jorginho-s-2021-22) (29 Jun)
+- [Season ticket and away scheme renewal deadline on Thursday](https://www.chelseafc.com/en/news/2022/06/29/season-ticket-and-away-scheme-renewal-deadline-on-thursday) (28 Jun)
+- [Vale and England into U19 Euros final](https://www.chelseafc.com/en/news/2022/06/28/vale-and-england-into-u19-euros-final) (28 Jun)
+- [End of term report: Antonio Rudiger’s 2021/22](https://www.chelseafc.com/en/news/2022/06/28/end-of-term-report--antonio-rudiger-s-2021-22) (28 Jun)
+- [End of term report: Mateo Kovacic’s 2021/22](https://www.chelseafc.com/en/news/2022/06/28/end-of-term-report--mateo-kovacic-s-2021-22) (28 Jun)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > openhanded - adjective: 1. Generous; liberal. 2. Delivered with an open hand, as a blow.
+ > light-fingered - adjective: 1. Prone to or skilled at stealing. 2. Having nimble fingers or having a light touch.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 717, using [3, 3, 6, 7, 25, 50]
-- Solution: ( 50 + 25 ) x 3 x 3 + 7 x 6
-- Total: 6 solutions.
+- Target: 482, using [1, 3, 6, 6, 25, 100]
+- Solution: 100 x 25 / ( 6 - 1 ) - 6 x 3
+- Total: 5 solutions.
 
 <!-- game_marker ends -->
