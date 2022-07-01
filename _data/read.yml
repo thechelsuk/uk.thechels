@@ -3320,6 +3320,25 @@
       thumbnail: "https://books.google.com/books/content?id=boT4xgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Righting_Software.html?hl=&id=boT4xgEACAAJ"
+  - isbn: "9798985515305"
+    dateFinished: "2022-07-01"
+    title: "The Pathless Path"
+    authors:
+      - "Paul Millerd"
+    publishedDate: "2022-02"
+    description: "It takes a few wrong turns to find the right way. Paul Millerd thought he was on his way. From small-town Connecticut kid to the most prestigious consulting firm in the world, brushing shoulders with CEOs and with the CV to match. The Pathless Path is about finding yourself in the wrong life, and the real work of figuring out how to live. Through painstaking experiments, living in different countries and the goodwill of people from around the world, Paul Millerd pieces together a set of ideas and principles that guide him from unfulfilled and burned out to the good life and all of the existential crises in between. This book is a personal journey of awakening and is an ideal companion for people considering leaving their jobs, embarking on a new path, dealing with the uncertainty of an unconventional path, or searching for better models for thinking about work in a fast-changing world."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9798985515305"
+    pageCount: 220
+    printType: "BOOK"
+    categories:
+      - "Biography & Autobiography"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=BQTgzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=BQTgzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Pathless_Path.html?hl=&id=BQTgzgEACAAJ"
   - isbn: "9781942788331"
     dateFinished: "2022-11-01"
     title: "Accelerate"
