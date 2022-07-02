@@ -68,7 +68,7 @@ def fetch_cfc_entries(url: str) -> list:
     entries = feedparser.parse(url)["entries"]
     return [
         {
-            "title": entry["description"],
+            "title": entry["description"].replace("|","-"),
             "url": entry["link"].split("#")[0],
             "published": convert_cfc_date(entry["published"]),
         }
