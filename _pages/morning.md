@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 01 July 2022
+### Daily Rundown on Saturday, 02 July 2022
 
-- The average temperature today is 18.42˚C;
-- With highs of 18.71˚C and lows of 9.87˚C.
+- The average temperature today is 15.02˚C;
+- With highs of 18.34˚C and lows of 9.84˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
-- Shadow boxing
-- Walking jacks
+- Bench dips
+- Plank
+- Calf raises
 
 <!-- workout_marker ends -->
 
@@ -33,9 +33,9 @@ No tasks today
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
 
+- 47 new cases & 0 deaths on 2022-07-01
 - 29 new cases & 0 deaths on 2022-06-30
 - 44 new cases & 1 deaths on 2022-06-29
-- 34 new cases & 0 deaths on 2022-06-28
 
 <!-- c19_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 80.55
-- V3AB.L : 3.61275
-- SPXP.L : 59184.0
-- IMID.L : 164.625
+- VWRL.L : 81.28
+- V3AB.L : 3.6495
+- SPXP.L : 59669.5
+- IMID.L : 164.02
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 224.81
+- 0P00013P6I.L : 226.3
 
 <!-- stocks_marker ends -->
 
@@ -62,11 +62,7 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Important changes to the official Chelsea website from today](https://www.chelseafc.com/en/news/2022/06/30/important-changes-to-the-official-chelsea-website-from-today) (30 Jun)
-- [End of term report: Marcos Alonso’s 2021/22](https://www.chelseafc.com/en/news/2022/06/30/end-of-term-report--marcos-alonso-s-2021-22) (30 Jun)
-- [Lukaku loan confirmed](https://www.chelseafc.com/en/news/2022/06/29/lukaku-loan-confirmed) (29 Jun)
-- [End of term report: Chilwell and Kenedy’s 2021/22](https://www.chelseafc.com/en/news/2022/06/29/end-of-term-report--chilwell-and-kenedy-s-2021-22) (29 Jun)
-- [End of term report: Jorginho’s 2021/22](https://www.chelseafc.com/en/news/2022/06/29/end-of-term-report--jorginho-s-2021-22) (29 Jun)
+- ["I kept begging my Dad to change my name to Ronaldo!" | Harvey Vale | Exclusive Interview](https://chelseafc.com/en/video/i-kept-begging-my-dad-to-change-my-name-to-ronaldo-harvey-vale-exclusive-i%E2%80%A6) (01 Jul)
 
 <!-- cfc_marker ends -->
 
@@ -80,8 +76,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 857, using [1, 7, 10, 25, 75, 100]
-- Solution: ( ( 75 + 10 - 25 ) x 100 - 1 ) / 7
-- Total: 8 solutions.
+- Target: 979, using [4, 6, 8, 9, 25, 50]
+- Solution: ( 50 + 6 - 9 - 8 ) x 25 + 4
+- Total: 9 solutions.
 
 <!-- game_marker ends -->
