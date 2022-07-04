@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 03 July 2022
+### Daily Rundown on Monday, 04 July 2022
 
-- The average temperature today is 18.03˚C;
-- With highs of 19.45˚C and lows of 9.12˚C.
-- You can expect light rain for the day.
+- The average temperature today is 17.22˚C;
+- With highs of 19.23˚C and lows of 8.75˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,8 +19,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Plank
-- Bench dips
+- Walking jacks
+- Kettlebell rows
 - Bodyweight squats
 
 <!-- workout_marker ends -->
@@ -62,26 +62,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [AC Milan 1-2 Chelsea - 2009 U.S. Pre-Season Tour Highlights](https://chelseafc.com/en/video/ac-milan-1-2-chelsea-or-2009-u-s-pre-season-tour-highlights) (02 Jul)
-- [Chelsea players return to training!](https://chelseafc.com/en/news/article/chelsea-players-return-to-training) (02 Jul)
+- [‘It doesn’t get much better!’ – Vale reflects on international triumph](https://chelseafc.com/en/news/article/it-doesnt-get-much-better-vale-reflects-on-international-triumph) (03 Jul)
+- [Chelsea players return to training!](https://chelseafc.com/en/news/article/chelsea-players-return-to-training) (03 Jul)
+- [Watch how we won it all!](https://chelseafc.com/en/news/article/watch-how-we-won-it-all) (03 Jul)
+- [End of term report: N'Golo Kante's 2021/22](https://chelseafc.com/en/news/articlehttps://chelseafc.com/end-of-term-report--n-golo-kante-s-2021-22-web) (02 Jul)
 - [Playing our part at London Pride and beyond](https://chelseafc.com/en/news/article/playing-our-part-at-london-pride-and-beyond) (02 Jul)
-- [We've Won It All: COMING SOON!](https://chelseafc.com/en/video/weve-won-it-all-coming-soon) (02 Jul)
-- [End of term report: Hakim Ziyech's 2021/22](https://chelseafc.com/en/news/article/end-of-term-report-hakim-ziyechs-2021-22) (02 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > southpaw - noun: A left-handed person. adjective: Left-handed.
+ > staycation - noun: A vacation spent at home or close to home. verb intr.: To vacation at or close to home.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 943, using [4, 7, 9, 9, 10, 50]
-- Solution: ( 10 + 9 ) x 50 - 7
-- Total: 8 solutions.
+- Target: 801, using [1, 3, 6, 6, 8, 50]
+- Solution: 50 x 8 x 6 / ( 6 - 3 ) + 1
+- Total: 11 solutions.
 
 <!-- game_marker ends -->
