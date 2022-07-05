@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 04 July 2022
+### Daily Rundown on Tuesday, 05 July 2022
 
-- The average temperature today is 17.22˚C;
-- With highs of 19.23˚C and lows of 8.75˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 17.91˚C;
+- With highs of 19.01˚C and lows of 8.52˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
+- Dead bugs
+- Bench dips
 - Kettlebell rows
-- Bodyweight squats
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Recycling Waste Collection Day- Food Waste Collection Day
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 81.28
-- V3AB.L : 3.6495
-- SPXP.L : 59669.5
-- IMID.L : 164.02
+- VWRL.L : 81.36
+- V3AB.L : 3.63925
+- SPXP.L : 59785.0
+- IMID.L : 165.505
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 226.3
+- 0P00013P6I.L : 226.98
 
 <!-- stocks_marker ends -->
 
@@ -56,32 +56,40 @@ No tasks today
 
 <!-- sports_marker starts -->
 
-- No fixtures today
+<li>(17:00) Pyunik - CFR Cluj</li>
+<li>(18:00) Malmö FF - Vikingur Reykjavík</li>
+<li>(18:45) Ludogorets Razgrad - Sutjeska Niksic</li>
+<li>(19:00) Ballkani - Zalgiris</li>
+<li>(19:00) Lech Poznan - FK Qarabag</li>
+<li>(19:00) The New Saints - Linfield</li>
+<li>(19:30) Shamrock Rovers - Hibernians FC</li>
+<li>(19:45) Shkupi - Lincoln Red Imps</li>
+
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [‘It doesn’t get much better!’ – Vale reflects on international triumph](https://chelseafc.com/en/news/article/it-doesnt-get-much-better-vale-reflects-on-international-triumph) (03 Jul)
-- [Chelsea players return to training!](https://chelseafc.com/en/news/article/chelsea-players-return-to-training) (03 Jul)
-- [Watch how we won it all!](https://chelseafc.com/en/news/article/watch-how-we-won-it-all) (03 Jul)
-- [End of term report: N'Golo Kante's 2021/22](https://chelseafc.com/en/news/articlehttps://chelseafc.com/end-of-term-report--n-golo-kante-s-2021-22-web) (02 Jul)
-- [Playing our part at London Pride and beyond](https://chelseafc.com/en/news/article/playing-our-part-at-london-pride-and-beyond) (02 Jul)
+- [Chelsea to open USA tour in Los Angeles](https://chelseafc.com/en/news/article/chelsea-to-open-usa-tour-in-los-angeles) (04 Jul)
+- [Thomas Tuchel returns to Cobham for pre-season training](https://chelseafc.com/en/news/article/thomas-tuchel-returns-to-cobham-for-pre-season-training) (04 Jul)
+- [Become an Official Chelsea FC Member today!](https://chelseafc.com/en/news/article/become-an-official-chelsea-fc-member-today) (04 Jul)
+- [Christensen completes Barcelona move](https://chelseafc.com/en/news/article/christensen-completes-barcelona-move) (04 Jul)
+- [Goalkeeper loan news](https://chelseafc.com/en/news/article/goalkeeper-loan-news) (04 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > staycation - noun: A vacation spent at home or close to home. verb intr.: To vacation at or close to home.
+ > orature - noun: Songs, poems, stories, etc., transmitted orally across generations.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 801, using [1, 3, 6, 6, 8, 50]
-- Solution: 50 x 8 x 6 / ( 6 - 3 ) + 1
-- Total: 11 solutions.
+- Target: 903, using [3, 5, 9, 9, 50, 75]
+- Solution: ( ( 50 - 9 - 5 ) x 75 + 9 ) / 3
+- Total: 8 solutions.
 
 <!-- game_marker ends -->
