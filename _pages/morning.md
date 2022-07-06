@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 05 July 2022
+### Daily Rundown on Wednesday, 06 July 2022
 
-- The average temperature today is 17.91˚C;
-- With highs of 19.01˚C and lows of 8.52˚C.
+- The average temperature today is 22.3˚C;
+- With highs of 23.15˚C and lows of 11˚C.
 - You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
@@ -19,15 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Dead bugs
-- Bench dips
-- Kettlebell rows
+- Walking jacks
+- Bodyweight squats
+- Kettlebell swings
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day- Food Waste Collection Day
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -43,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 81.36
-- V3AB.L : 3.63925
-- SPXP.L : 59785.0
-- IMID.L : 165.505
+- VWRL.L : 81.18
+- V3AB.L : 3.64275
+- SPXP.L : 59851.0
+- IMID.L : 161.925
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 226.98
+- 0P00013P6I.L : 227.74001
 
 <!-- stocks_marker ends -->
 
@@ -56,40 +56,39 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- sports_marker starts -->
 
-<li>(17:00) Pyunik - CFR Cluj</li>
-<li>(18:00) Malmö FF - Vikingur Reykjavík</li>
-<li>(18:45) Ludogorets Razgrad - Sutjeska Niksic</li>
-<li>(19:00) Ballkani - Zalgiris</li>
-<li>(19:00) Lech Poznan - FK Qarabag</li>
-<li>(19:00) The New Saints - Linfield</li>
-<li>(19:30) Shamrock Rovers - Hibernians FC</li>
-<li>(19:45) Shkupi - Lincoln Red Imps</li>
+<li>(15:00) Tobol Kostanay - Ferencvárosi TC</li>
+<li>(17:00) Bodø/Glimt - KI Klaksvík</li>
+<li>(17:00) HJK Helsinki - Rigas Futbola Skola</li>
+<li>(18:30) F91 Dudelange - Tirana</li>
+<li>(19:00) Zrinjski Mostar - Sheriff Tiraspol</li>
+<li>(19:15) NK Maribor - Shakhtyor Soligorsk</li>
+<li>(19:30) Slovan Bratislava - Dinamo Batumi</li>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Chelsea to open USA tour in Los Angeles](https://chelseafc.com/en/news/article/chelsea-to-open-usa-tour-in-los-angeles) (04 Jul)
-- [Thomas Tuchel returns to Cobham for pre-season training](https://chelseafc.com/en/news/article/thomas-tuchel-returns-to-cobham-for-pre-season-training) (04 Jul)
-- [Become an Official Chelsea FC Member today!](https://chelseafc.com/en/news/article/become-an-official-chelsea-fc-member-today) (04 Jul)
-- [Christensen completes Barcelona move](https://chelseafc.com/en/news/article/christensen-completes-barcelona-move) (04 Jul)
-- [Goalkeeper loan news](https://chelseafc.com/en/news/article/goalkeeper-loan-news) (04 Jul)
+- [Six matches moved for TV broadcast](https://chelseafc.com/en/news/article/six-matches-moved-for-tv-broadcast) (05 Jul)
+- [Thomas Tuchel returns to Cobham for pre-season training](https://chelseafc.com/en/news/article/thomas-tuchel-returns-to-cobham-for-pre-season-training) (05 Jul)
+- [Gallery: N'Golo Kante returns to Cobham](https://chelseafc.com/en/news/article/gallery-ngolo-kante-returns-to-cobham) (05 Jul)
+- [Katerina Svitkova joins Chelsea Women](https://chelseafc.com/en/news/article/katerina-svitkova-joins-chelsea-women) (05 Jul)
+- [Len Casey 1931-2022](https://chelseafc.com/en/news/article/len-casey-1931-2022) (05 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > orature - noun: Songs, poems, stories, etc., transmitted orally across generations.
+ > pennant - noun: 1. A long tapering flag. 2. A flag symbolizing a sports championship or another achievement. 3. A victory, championship, etc.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 903, using [3, 5, 9, 9, 50, 75]
-- Solution: ( ( 50 - 9 - 5 ) x 75 + 9 ) / 3
-- Total: 8 solutions.
+- Target: 221, using [4, 5, 5, 10, 25, 50]
+- Solution: ( 50 - 25 / ( 10 - 5 ) ) x 5 - 4
+- Total: 43 solutions.
 
 <!-- game_marker ends -->
