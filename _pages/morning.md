@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 06 July 2022
+### Daily Rundown on Thursday, 07 July 2022
 
-- The average temperature today is 22.3˚C;
-- With highs of 23.15˚C and lows of 11˚C.
+- The average temperature today is 19.6˚C;
+- With highs of 22.55˚C and lows of 13.41˚C.
 - You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
@@ -20,8 +20,8 @@ seo: Good Morning Mat, Here is your daily briefing
 3x AMRAP for 45 seconds, 15 second rest:
 
 - Walking jacks
-- Bodyweight squats
-- Kettlebell swings
+- Calf raises
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -33,9 +33,9 @@ No tasks today
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
 
-- 47 new cases & 0 deaths on 2022-07-01
-- 29 new cases & 0 deaths on 2022-06-30
-- 44 new cases & 1 deaths on 2022-06-29
+- 271 new cases & 1 deaths on 2022-07-06
+- 0 new cases & 0 deaths on 2022-07-05
+- 0 new cases & 0 deaths on 2022-07-04
 
 <!-- c19_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 81.18
-- V3AB.L : 3.64275
-- SPXP.L : 59851.0
-- IMID.L : 161.925
+- VWRL.L : 82.15
+- V3AB.L : 3.7015
+- SPXP.L : 60950.0
+- IMID.L : 163.92
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 227.74001
+- 0P00013P6I.L : 229.73
 
 <!-- stocks_marker ends -->
 
@@ -56,39 +56,32 @@ No tasks today
 
 <!-- sports_marker starts -->
 
-<li>(15:00) Tobol Kostanay - Ferencvárosi TC</li>
-<li>(17:00) Bodø/Glimt - KI Klaksvík</li>
-<li>(17:00) HJK Helsinki - Rigas Futbola Skola</li>
-<li>(18:30) F91 Dudelange - Tirana</li>
-<li>(19:00) Zrinjski Mostar - Sheriff Tiraspol</li>
-<li>(19:15) NK Maribor - Shakhtyor Soligorsk</li>
-<li>(19:30) Slovan Bratislava - Dinamo Batumi</li>
-
+- No fixtures today
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Chelsea to play pre-season match in Italy](https://chelseafc.com/en/news/article/chelsea-to-play-pre-season-match-in-italy) (06 Jul)
+- [Women’s Euros 2022: Everything you need to know](https://chelseafc.com/en/news/article/womens-euros-2022-everything-you-need-to-know) (06 Jul)
+- [Season ticket and UEFA away scheme applications now open](https://chelseafc.com/en/news/article/season-ticket-and-uefa-away-scheme-applications-now-open) (06 Jul)
+- [Mount looks ahead to a ‘new era’ at Chelsea](https://chelseafc.com/en/news/article/mount-looks-ahead-to-a-new-era-at-chelsea) (06 Jul)
 - [Six matches moved for TV broadcast](https://chelseafc.com/en/news/article/six-matches-moved-for-tv-broadcast) (05 Jul)
-- [Thomas Tuchel returns to Cobham for pre-season training](https://chelseafc.com/en/news/article/thomas-tuchel-returns-to-cobham-for-pre-season-training) (05 Jul)
-- [Gallery: N'Golo Kante returns to Cobham](https://chelseafc.com/en/news/article/gallery-ngolo-kante-returns-to-cobham) (05 Jul)
-- [Katerina Svitkova joins Chelsea Women](https://chelseafc.com/en/news/article/katerina-svitkova-joins-chelsea-women) (05 Jul)
-- [Len Casey 1931-2022](https://chelseafc.com/en/news/article/len-casey-1931-2022) (05 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > pennant - noun: 1. A long tapering flag. 2. A flag symbolizing a sports championship or another achievement. 3. A victory, championship, etc.
+ > flexitarian - noun: One who follows a primarily vegetarian diet but occasionally consumes animal products. adjective: Primarily but not completely vegetarian.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 221, using [4, 5, 5, 10, 25, 50]
-- Solution: ( 50 - 25 / ( 10 - 5 ) ) x 5 - 4
-- Total: 43 solutions.
+- Target: 911, using [1, 3, 4, 5, 8, 10]
+- Solution: ( 8 + 5 ) x ( 4 + 3 ) x 10 + 1
+- Total: 2 solutions.
 
 <!-- game_marker ends -->
