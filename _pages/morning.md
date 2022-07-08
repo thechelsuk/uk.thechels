@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 07 July 2022
+### Daily Rundown on Friday, 08 July 2022
 
-- The average temperature today is 19.6˚C;
-- With highs of 22.55˚C and lows of 13.41˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 23.71˚C;
+- With highs of 25.62˚C and lows of 11.68˚C.
+- You can expect few clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Shadow boxing
 - Walking jacks
-- Calf raises
-- Kettlebell rows
+- Bodyweight squats
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 82.15
-- V3AB.L : 3.7015
-- SPXP.L : 60950.0
-- IMID.L : 163.92
+- VWRL.L : 83.42
+- V3AB.L : 3.75812
+- SPXP.L : 61815.85938
+- IMID.L : 167.19501
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 229.73
+- 0P00013P6I.L : nan
 
 <!-- stocks_marker ends -->
 
@@ -62,26 +62,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Sarr: We know they love sports](https://chelseafc.com/en/news/article/sarr-we-know-they-love-sports) (08 Jul)
+- [Gallery: Chelsea continue pre-season preparations](https://chelseafc.com/en/news/article/gallery-chelsea-continue-pre-season-preparations) (07 Jul)
+- [Introducing the 2022/23 Chelsea Academy scholars](https://chelseafc.com/en/news/article/introducing-the-2022-23-chelsea-academy-scholars) (07 Jul)
+- [New Chelsea 2022/23 home kit honours club legend Drake](https://chelseafc.com/en/news/article/new-chelsea-2022-23-home-kit-honours-club-legend-drake) (07 Jul)
 - [Chelsea to play pre-season match in Italy](https://chelseafc.com/en/news/article/chelsea-to-play-pre-season-match-in-italy) (06 Jul)
-- [Women’s Euros 2022: Everything you need to know](https://chelseafc.com/en/news/article/womens-euros-2022-everything-you-need-to-know) (06 Jul)
-- [Season ticket and UEFA away scheme applications now open](https://chelseafc.com/en/news/article/season-ticket-and-uefa-away-scheme-applications-now-open) (06 Jul)
-- [Mount looks ahead to a ‘new era’ at Chelsea](https://chelseafc.com/en/news/article/mount-looks-ahead-to-a-new-era-at-chelsea) (06 Jul)
-- [Six matches moved for TV broadcast](https://chelseafc.com/en/news/article/six-matches-moved-for-tv-broadcast) (05 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > flexitarian - noun: One who follows a primarily vegetarian diet but occasionally consumes animal products. adjective: Primarily but not completely vegetarian.
+ > bromance - noun: A close friendship between men.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 911, using [1, 3, 4, 5, 8, 10]
-- Solution: ( 8 + 5 ) x ( 4 + 3 ) x 10 + 1
-- Total: 2 solutions.
+- Target: 368, using [3, 3, 8, 8, 9, 100]
+- Solution: ( 100 + 9 + 8 + 3 ) x 3 + 8
+- Total: 10 solutions.
 
 <!-- game_marker ends -->
