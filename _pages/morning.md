@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 09 July 2022
+### Daily Rundown on Sunday, 10 July 2022
 
-- The average temperature today is 22.17˚C;
-- With highs of 23.34˚C and lows of 12.39˚C.
-- You can expect scattered clouds for the day.
+- The average temperature today is 24.47˚C;
+- With highs of 26.14˚C and lows of 10.35˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Dead bugs
+- Walking jacks
+- Kettlebell swings
 - Bodyweight squats
-- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -62,11 +62,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Hudson-Odoi reveals why he’s hit the gym, reflects on ‘weird’ injury issues that scuppered his season and looks ahead to first USA trip](https://chelseafc.com/en/news/article/hudson-odoi-why-hes-hit-the-gym-and-weird-injury-issues) (09 Jul)
-- [Gallery: Blues step up pre-season training with in-house match](https://chelseafc.com/en/news/article/gallery-blues-step-up-pre-season-training-with-in-house-match) (08 Jul)
-- [Chelsea development squad to play in Utah this summer](https://chelseafc.com/en/news/article/chelsea-development-squad-to-play-in-utah-this-summer) (08 Jul)
-- [Maren Mjelde reflects on ‘incredible’ support following Norway’s triumph over Northern Ireland](https://chelseafc.com/en/news/article/maren-mjelde-reflects-on-incredible-support-following-norways-triumph-over) (08 Jul)
-- [Sarr: We know they love sports](https://chelseafc.com/en/news/article/sarr-we-know-they-love-sports) (08 Jul)
+- [Watch the US Tour live on the official Chelsea website and The 5th Stand app](https://chelseafc.com/en/news/article/watch-the-us-tour-live) (10 Jul)
+- [Tour Story: Day one in America!](https://chelseafc.com/en/news/article/tour-story-day-one-in-america) (10 Jul)
+- [International Blues back as USA tour kicks off](https://chelseafc.com/en/news/article/international-blues-back-as-usa-tour-kicks-off) (10 Jul)
+- [Coaching coaches in Santa Monica](https://chelseafc.com/en/news/article/coaching-coaches-in-santa-monica) (10 Jul)
+- [Chelsea’s confirmed USA Tour squad](https://chelseafc.com/en/news/article/chelseas-confirmed-usa-tour-squad) (09 Jul)
 
 <!-- cfc_marker ends -->
 
@@ -80,8 +80,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 402, using [1, 5, 7, 8, 25, 75]
-- Solution: ( 75 + 8 - 25 ) x 7 + 1 - 5
-- Total: 12 solutions.
+- Target: 402, using [2, 5, 6, 7, 25, 75]
+- Solution: ( 25 + 7 ) x 75 / 6 + 2
+- Total: 32 solutions.
 
 <!-- game_marker ends -->
