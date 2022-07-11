@@ -14,7 +14,7 @@ if __name__ == "__main__":
         (answers_list, summary) = countdown_solver.solve(selected, target)
         string = f"- Target: {target}, using {selected}\n"
         if answers_list:
-            string += f"- Solution: {answers[0]}\n"
+            string += f"- Solution: {answers_list[0]}\n"
             string += f"- {summary}\n"
         f = root / "_pages/morning.md"
         m = f.open().read()
