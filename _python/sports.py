@@ -8,7 +8,6 @@ import requests
 
 # setup
 fixtures = set()
-pre_content = ""
 today_date = date.today()
 today_str = helper.stylish_datetime(date.today(), "%A-{th}-%B")
 root = pathlib.Path(__file__).parent.parent.resolve()
@@ -40,9 +39,11 @@ for md_events in list(response_dict["matchData"]):
 if not fixtures:
     fixtures.add("- No fixtures today")
 
+pre_content = "<ul>\n"    
 for fixture in sorted(fixtures):
     pre_content += fixture
-
+pre_content += "</ul>\n"
+    
 # processing
 if __name__ == "__main__":
     try:
