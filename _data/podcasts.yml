@@ -935,6 +935,10 @@
   link: "https://www.mountaingoatsoftware.com/agile/podcast/rss"
   name: "Agile Mentors Podcast"
 -
+  category: Business
+  link: "https://feeds.pacific-content.com/workcheck"
+  name: "Atlassian - Work Check"
+-
   category: Well-being
   link: "https://feeds.simplecast.com/7x_ooddx"
   name: "Radio Headspace"
