@@ -8,6 +8,7 @@ requests_html
 argparse
 pyyaml
 pytest
+pytest-cov
 pytest-md
 pytest-emoji
 yapf
