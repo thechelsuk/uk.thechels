@@ -38,7 +38,7 @@ jobs:
       steps:
         - name: Format with yapf (pep8) and commit back
           run: | 
-              yapf --style pep8 --recursive -i .
+              python -m yapf --style pep8 --recursive -i .
               git diff
               git config user.name "GitHub Action"
               git config user.email "action@github.com"
