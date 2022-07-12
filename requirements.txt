@@ -10,3 +10,4 @@ pyyaml
 pytest
 pytest-md
 pytest-emoji
+yapf
