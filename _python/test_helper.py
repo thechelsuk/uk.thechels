@@ -6,6 +6,7 @@ import pytest
 
 
 class Test_helper:
+
     def test_ord_given_int_returns_correct_string(self):
         assert helper.get_ordinal_string(1) == "1st"
         assert helper.get_ordinal_string(2) == "2nd"

@@ -9,8 +9,7 @@ if __name__ == "__main__":
     try:
         root = pathlib.Path(__file__).parent.parent.resolve()
         item = feedparser.parse(
-            "https://wordsmith.org/awad/rss1.xml"
-            )["entries"]
+            "https://wordsmith.org/awad/rss1.xml")["entries"]
         title = item[0]["title"]
         desc = item[0]["summary"]
         string = f"\n > {title} - {desc}\n"

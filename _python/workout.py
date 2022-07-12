@@ -12,8 +12,7 @@ if __name__ == "__main__":
         with open(yaml_file, "r") as stream:
             workouts = yaml.safe_load(stream)
         string = helper.get_random_items_from_a_list(
-                "3x AMRAP for 45 seconds, 15 second rest:\n\n", workouts, 3
-            )
+            "3x AMRAP for 45 seconds, 15 second rest:\n\n", workouts, 3)
 
         try:
             f = root / "_pages/morning.md"

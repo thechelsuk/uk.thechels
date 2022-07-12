@@ -46,10 +46,11 @@ def remove_img_tags(data: str) -> str:
 
 def get_ordinal_string(n: int) -> str:
     """Returns the ordinal of a number"""
-    return str(n) + (
-        "th" if 4 <= n % 100 <= 20 else {1: "st", 2: "nd", 3: "rd"}
-        .get(n % 10, "th")
-    )
+    return str(n) + ("th" if 4 <= n % 100 <= 20 else {
+        1: "st",
+        2: "nd",
+        3: "rd"
+    }.get(n % 10, "th"))
 
 
 def stylish_datetime(dt, f):
@@ -66,14 +67,11 @@ def pretty_print(string: str) -> str:
 def fetch_cfc_entries(url: str) -> list:
     """Fetches CFC entries from a given url"""
     entries = feedparser.parse(url)["entries"]
-    return [
-        {
-            "title": entry["description"].replace("|","-"),
-            "url": entry["link"].split("#")[0],
-            "published": convert_cfc_date(entry["published"]),
-        }
-        for entry in entries
-    ]
+    return [{
+        "title": entry["description"].replace("|", "-"),
+        "url": entry["link"].split("#")[0],
+        "published": convert_cfc_date(entry["published"]),
+    } for entry in entries]
 
 
 def convert_cfc_date(input: str) -> str:
@@ -160,19 +158,15 @@ def create_date(input: str) -> datetime:
 
 def get_corona(records: int) -> str:
     """Returns a string of corona records from hardcoded url"""
-    url = (
-        "https://raw.githubusercontent.com/"
-        "Cheltenham-Open-Data/covid/main/corona.json"
-    )
+    url = ("https://raw.githubusercontent.com/"
+           "Cheltenham-Open-Data/covid/main/corona.json")
     response = requests.get(url).json()
     data = response["body"]
     string_builder = f"##### Latest {records} day Local Corona Data\n\n"
     for i in range(0, records):
-        string_builder += (
-            f"- {data[i]['newCasesByPublishDate']} new cases & "
-            f"{data[i]['newDeaths28DaysByPublishDate']}"
-            f" deaths on {data[i]['date']}\n"
-        )
+        string_builder += (f"- {data[i]['newCasesByPublishDate']} new cases & "
+                           f"{data[i]['newDeaths28DaysByPublishDate']}"
+                           f" deaths on {data[i]['date']}\n")
     return string_builder
 
 

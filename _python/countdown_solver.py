@@ -41,10 +41,11 @@ def solve(arg_input, arg_target):
     for solution_str in unique_solutions:
         solution_list.append(solution_str)
     summary = f"Total: {str(len(unique_solutions))} solutions."
-    return(solution_list, summary)
+    return (solution_list, summary)
 
 
 # Generate the permutation tree of the input numbers.
+
 
 class NumberNode:
     number = None
@@ -199,6 +200,7 @@ def recursive_place_operators(node, num_consumed):
         stack.append(num2)
         stack.append(num1)
 
+
 # Optimize operation tree.
 
 
@@ -303,9 +305,8 @@ def compare_operations_less_than(op1, op2):
     if op1.reciprocal != op2.reciprocal:
         return op1.reciprocal
     # multiplication or division > addition or subtraction
-    if (op1.operator == 'x' or op1.operator == '/') != (
-        op2.operator == 'x' or op2.operator == '/'
-         ):
+    if (op1.operator == 'x' or op1.operator == '/') != (op2.operator == 'x' or
+                                                        op2.operator == '/'):
         return not (op1.operator == 'x' or op1.operator == '/')
     # expression > number
     if (op1.operator is None) != (op2.operator is None):

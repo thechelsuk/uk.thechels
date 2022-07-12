@@ -11,22 +11,18 @@ fixtures = set()
 today_date = date.today()
 today_str = helper.stylish_datetime(date.today(), "%A-{th}-%B")
 root = pathlib.Path(__file__).parent.parent.resolve()
-url = (
-    "https://push.api.bbci.co.uk/data/bbc-morph-football-scores-"
-    "match-list-data"
-    f"/endDate/{today_date}/startDate/{today_date}/todayDate/{today_date}/"
-    "tournament/full-priority-order/version/2.4.6?timeout=5"
-    )
+url = ("https://push.api.bbci.co.uk/data/bbc-morph-football-scores-"
+       "match-list-data"
+       f"/endDate/{today_date}/startDate/{today_date}/todayDate/{today_date}/"
+       "tournament/full-priority-order/version/2.4.6?timeout=5")
 response_dict = json.loads(requests.get(url).text)
 with open(root / "_data/comps.json", "r") as filehandler:
     tournament_slug = json.load(filehandler)
 
 for md_events in list(response_dict["matchData"]):
-    for tournaments in (
-        t_item
-        for t_item in md_events
-        if md_events["tournamentMeta"]["tournamentSlug"] in tournament_slug
-         ):
+    for tournaments in (t_item for t_item in md_events
+                        if md_events["tournamentMeta"]["tournamentSlug"] in
+                        tournament_slug):
         for events in md_events["tournamentDatesWithEvents"][today_str]:
             for games in events["events"]:
                 home_name = games["homeTeam"]["name"]["first"]
@@ -39,11 +35,11 @@ for md_events in list(response_dict["matchData"]):
 if not fixtures:
     fixtures.add("- No fixtures today")
 
-pre_content = "<ul>\n"    
+pre_content = "<ul>\n"
 for fixture in sorted(fixtures):
     pre_content += fixture
 pre_content += "</ul>\n"
-    
+
 # processing
 if __name__ == "__main__":
     try:
