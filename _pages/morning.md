@@ -9,9 +9,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- weather_marker starts -->
 ### Daily Rundown on Tuesday, 12 July 2022
 
-- The average temperature today is 25.32˚C;
-- With highs of 25.32˚C and lows of 17.41˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 23.13˚C;
+- With highs of 24.97˚C and lows of 17.17˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Dead bugs
+- Walking jacks
 - Kettlebell rows
-- Kettlebell swings
-- Shadow boxing
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 83.02
-- V3AB.L : 3.7435
-- SPXP.L : 61739.0
-- IMID.L : 165.61501
+- VWRL.L : 82.64
+- V3AB.L : 3.7205
+- SPXP.L : 61452.12109
+- IMID.L : 163.81
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 231.81
+- 0P00013P6I.L : nan
 
 <!-- stocks_marker ends -->
 
@@ -56,6 +56,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- sports_marker starts -->
 
+<ul>
 <li>(16:30) Rigas Futbola Skola - HJK Helsinki</li>
 <li>(17:00) FK Qarabag - Lech Poznan</li>
 <li>(17:00) Lincoln Red Imps - Shkupi</li>
@@ -66,17 +67,18 @@ seo: Good Morning Mat, Here is your daily briefing
 <li>(19:00) Tirana - F91 Dudelange</li>
 <li>(20:00) Sutjeska Niksic - Ludogorets Razgrad</li>
 <li>(20:30) Vikingur Reykjavík - Malmö FF</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Tour Story: Putting on a show on day three](https://chelseafc.com/en/news/article/tour-story-putting-on-a-show-on-day-three) (12 Jul)
+- [Chilwell reveals Christmas Day rehab setback and sets target to refocus on aiming for success](https://chelseafc.com/en/news/article/chilwell-reveals-christmas-day-rehab-setback-and-sets-target-to-refocus-on) (12 Jul)
+- [Applications open for new representatives on Chelsea Fans’ Forum and Access Forum](https://chelseafc.com/en/news/article/applications-open-for-new-representatives-on-chelsea-fans-forum-and-access) (12 Jul)
 - [Live now! Chelsea train in LA](https://chelseafc.com/en/news/article/watch-live-training-from-los-angeles) (12 Jul)
 - [Havertz answers your questions!](https://chelseafc.com/en/news/article/havertz-answers-your-questions) (11 Jul)
-- [Mount’s summer of sport and high-aim targets](https://chelseafc.com/en/news/article/mounts-summer-of-sport-and-targets) (11 Jul)
-- [Mendy nominated for African award](https://chelseafc.com/en/news/article/mendy-nominated-for-african-award) (11 Jul)
-- [Women’s Euros 2022: Week one round-up](https://chelseafc.com/en/news/article/womens-euros-2022-week-one-round-up) (11 Jul)
 
 <!-- cfc_marker ends -->
 
@@ -90,8 +92,8 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 811, using [1, 2, 5, 9, 75, 100]
-- Solution: ( 100 + 75 + 5 ) x 9 / 2 + 1
-- Total: 10 solutions.
+- Target: 393, using [3, 4, 7, 8, 10, 100]
+- Solution: ( 8 / 4 + 10 ) x 100 / 3 - 7
+- Total: 32 solutions.
 
 <!-- game_marker ends -->
