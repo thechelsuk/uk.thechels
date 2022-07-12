@@ -9,7 +9,7 @@ on:
       - '_python/*'
   workflow_dispatch:
 jobs:
-  Test_Runner:
+  Python_Tests:
     name: Run tests
     runs-on: ubuntu-latest
     strategy:
@@ -28,3 +28,11 @@ jobs:
           emoji: true
           verbose: false
           job_summary: true
+      - name: Format with yapf (pep8) and commit back
+        run: | 
+            yapf --style pep8 --recursive -i .
+            git diff
+            git config user.name "GitHub Action"
+            git config user.email "action@github.com"
+            git diff --quiet || (git add -A && git commit -m "Python format")
+            git push
