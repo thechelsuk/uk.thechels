@@ -36,6 +36,3 @@ jobs:
           emoji: true
           verbose: false
           job_summary: true
-          
-      - name: Test Coverage
-        run: pytest --cov=notification  --cov-report term-missing | tee $GITHUB_STEP_SUMMARY
