@@ -8,36 +8,32 @@ on:
     paths:
       - '_python/*'
   workflow_dispatch:
+  
 jobs:
-  Format_and_testing:    
-      name: Run formatting
-      runs-on: ubuntu-latest
-      strategy:
-        matrix:
-          python-version: ["3.6", "3.7", "3.8", "3.9", "3.10"]
-      steps:
+  python_testing:
+    name: Python Testing
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.6", "3.7", "3.8", "3.9", "3.10"]
+    steps:
       - name: Checkout
-        uses: actions/checkout@v3
-
+      - uses: actions/checkout@v3
+      
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v3
         with:
           python-version: ${{ matrix.python-version }}
           
       - name: Install Python Dependencies
-        run: python -m pip install -r requirements.txt
-        working-directory: ./_python        
-      
-      - name: Format with yapf (pep8) and commit back
-        run: |
-              python -m yapf --style pep8 --recursive -i .
-              git diff
-              git config user.name "GitHub Action"
-              git config user.email "action@github.com"
-              git diff --quiet || (git add -A && git commit -m "Python format")
-              git push
-        working-directory: ./_python
-        
-      - name: Run Unit Tests
+        run: python -m pip install -r requirements.txt --quiet
+       
+      - name: Run Tests
+      - uses: pavelzw/pytest-action@v1
+        with:
+          emoji: true
+          verbose: false
+          job_summary: true
+          
+      - name: Test Coverage
         run: pytest --cov=notification  --cov-report term-missing | tee $GITHUB_STEP_SUMMARY
-        working-directory: ./_python
