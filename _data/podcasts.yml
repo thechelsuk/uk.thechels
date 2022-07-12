@@ -955,10 +955,6 @@
   link: "https://feeds.simplecast.com/7x_ooddx"
   name: "Radio Headspace"
 -
-  category: Security
-  link: "https://opensourcesecuritypodcast.libsyn.com/rss"
-  name: "Open Source Security Podcast"
--
   category: News
   link: "https://feeds.npr.org/510351/podcast.xml"
   name: "NPR - Short Wave"
