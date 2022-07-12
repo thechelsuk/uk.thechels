@@ -36,5 +36,5 @@ jobs:
         working-directory: ./_python
         
       - name: Run Unit Tests
-        run: pytest --cov=notification  --cov-report term-missing | tee $GITHUB_STEP_SUMMARY
+        run: pytest --cov=.  --cov-report term-missing | tee $GITHUB_STEP_SUMMARY
         working-directory: ./_python
