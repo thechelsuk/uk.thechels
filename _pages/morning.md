@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 11 July 2022
+### Daily Rundown on Tuesday, 12 July 2022
 
-- The average temperature today is 27.19˚C;
-- With highs of 28.17˚C and lows of 15.56˚C.
-- You can expect scattered clouds for the day.
+- The average temperature today is 25.32˚C;
+- With highs of 25.32˚C and lows of 17.41˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -20,14 +20,14 @@ seo: Good Morning Mat, Here is your daily briefing
 3x AMRAP for 45 seconds, 15 second rest:
 
 - Kettlebell rows
-- Walking jacks
-- Bodyweight squats
+- Kettlebell swings
+- Shadow boxing
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day- Food Waste Collection Day
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -43,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 83.39
-- V3AB.L : 3.76275
-- SPXP.L : 61851.5
-- IMID.L : 168.47501
+- VWRL.L : 83.02
+- V3AB.L : 3.7435
+- SPXP.L : 61739.0
+- IMID.L : 165.61501
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 232.25999
+- 0P00013P6I.L : 231.81
 
 <!-- stocks_marker ends -->
 
@@ -56,32 +56,42 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- sports_marker starts -->
 
-- No fixtures today
+<li>(16:30) Rigas Futbola Skola - HJK Helsinki</li>
+<li>(17:00) FK Qarabag - Lech Poznan</li>
+<li>(17:00) Lincoln Red Imps - Shkupi</li>
+<li>(17:00) Zalgiris - Ballkani</li>
+<li>(18:00) Sheriff Tiraspol - Zrinjski Mostar</li>
+<li>(19:00) Hibernians FC - Shamrock Rovers</li>
+<li>(19:00) KI Klaksvík - Bodø/Glimt</li>
+<li>(19:00) Tirana - F91 Dudelange</li>
+<li>(20:00) Sutjeska Niksic - Ludogorets Razgrad</li>
+<li>(20:30) Vikingur Reykjavík - Malmö FF</li>
+
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Tour story: Stepping it up on day two](https://chelseafc.com/en/news/article/tour-story-stepping-it-up-on-day-two) (11 Jul)
-- [Joe Cole throws the first pitch at Dodger Stadium](https://chelseafc.com/en/news/article/joe-cole-throws-the-first-pitch-at-dodger-stadium) (10 Jul)
-- [Watch the US Tour live on the official Chelsea website and The 5th Stand app](https://chelseafc.com/en/news/article/watch-the-us-tour-live) (10 Jul)
-- [Tour Story: Day one in America!](https://chelseafc.com/en/news/article/tour-story-day-one-in-america) (10 Jul)
-- [International Blues back as USA tour kicks off](https://chelseafc.com/en/news/article/international-blues-back-as-usa-tour-kicks-off) (10 Jul)
+- [Live now! Chelsea train in LA](https://chelseafc.com/en/news/article/watch-live-training-from-los-angeles) (12 Jul)
+- [Havertz answers your questions!](https://chelseafc.com/en/news/article/havertz-answers-your-questions) (11 Jul)
+- [Mount’s summer of sport and high-aim targets](https://chelseafc.com/en/news/article/mounts-summer-of-sport-and-targets) (11 Jul)
+- [Mendy nominated for African award](https://chelseafc.com/en/news/article/mendy-nominated-for-african-award) (11 Jul)
+- [Women’s Euros 2022: Week one round-up](https://chelseafc.com/en/news/article/womens-euros-2022-week-one-round-up) (11 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > staddle - noun: A base, support, or supporting framework.
+ > dragoon - verb tr.: To force someone to do something; coerce.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 178, using [3, 4, 8, 9, 9, 10]
-- Solution: ( 10 + 9 ) x 9 + 8 + 3 - 4
-- Total: 27 solutions.
+- Target: 811, using [1, 2, 5, 9, 75, 100]
+- Solution: ( 100 + 75 + 5 ) x 9 / 2 + 1
+- Total: 10 solutions.
 
 <!-- game_marker ends -->
