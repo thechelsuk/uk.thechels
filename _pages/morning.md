@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 12 July 2022
+### Daily Rundown on Wednesday, 13 July 2022
 
-- The average temperature today is 23.13˚C;
-- With highs of 24.97˚C and lows of 17.17˚C.
+- The average temperature today is 22.15˚C;
+- With highs of 24.68˚C and lows of 14.66˚C.
 - You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
@@ -19,15 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Dead bugs
-- Walking jacks
+- Bodyweight squats
 - Kettlebell rows
+- Bench dips
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day- Food Waste Collection Day
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -43,10 +43,10 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 82.64
-- V3AB.L : 3.7205
-- SPXP.L : 61452.12109
-- IMID.L : 163.81
+- VWRL.L : 82.2
+- V3AB.L : 3.7075
+- SPXP.L : 61000.0
+- IMID.L : 165.685
 - 0P0001K1DP.L : nan
 - 0P00013P6I.L : nan
 
@@ -57,16 +57,12 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(16:30) Rigas Futbola Skola - HJK Helsinki</li>
-<li>(17:00) FK Qarabag - Lech Poznan</li>
-<li>(17:00) Lincoln Red Imps - Shkupi</li>
-<li>(17:00) Zalgiris - Ballkani</li>
-<li>(18:00) Sheriff Tiraspol - Zrinjski Mostar</li>
-<li>(19:00) Hibernians FC - Shamrock Rovers</li>
-<li>(19:00) KI Klaksvík - Bodø/Glimt</li>
-<li>(19:00) Tirana - F91 Dudelange</li>
-<li>(20:00) Sutjeska Niksic - Ludogorets Razgrad</li>
-<li>(20:30) Vikingur Reykjavík - Malmö FF</li>
+<li>(18:00) Dinamo Batumi - Slovan Bratislava</li>
+<li>(18:00) KI Klaksvík - Bodø/Glimt</li>
+<li>(18:00) Shakhtyor Soligorsk - NK Maribor</li>
+<li>(19:00) Ferencvárosi TC - Tobol Kostanay</li>
+<li>(19:30) CFR Cluj - Pyunik</li>
+<li>(19:45) Linfield - The New Saints</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -74,26 +70,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Mendy: This is a big issue](https://chelseafc.com/en/news/article/mendy-this-is-a-big-issue) (13 Jul)
+- [Tour Story: Working out on day four and Cole joins Foundation initiative](https://chelseafc.com/en/news/article/tour-story-working-out-on-day-four-and-cole-joins-foundation-initiative) (13 Jul)
+- [Jorginho: I love Chelsea and I’d like to stay](https://chelseafc.com/en/news/article/jorginho-i-love-chelsea-and-id-like-to-stay) (12 Jul)
+- [Chelsea Women’s 2022/23 Women’s Super League fixtures announced](https://chelseafc.com/en/news/article/chelsea-womens-2022-23-womens-super-league-fixtures-announced) (12 Jul)
 - [Tour Story: Putting on a show on day three](https://chelseafc.com/en/news/article/tour-story-putting-on-a-show-on-day-three) (12 Jul)
-- [Chilwell reveals Christmas Day rehab setback and sets target to refocus on aiming for success](https://chelseafc.com/en/news/article/chilwell-reveals-christmas-day-rehab-setback-and-sets-target-to-refocus-on) (12 Jul)
-- [Applications open for new representatives on Chelsea Fans’ Forum and Access Forum](https://chelseafc.com/en/news/article/applications-open-for-new-representatives-on-chelsea-fans-forum-and-access) (12 Jul)
-- [Live now! Chelsea train in LA](https://chelseafc.com/en/news/article/watch-live-training-from-los-angeles) (12 Jul)
-- [Havertz answers your questions!](https://chelseafc.com/en/news/article/havertz-answers-your-questions) (11 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > dragoon - verb tr.: To force someone to do something; coerce.
+ > specie - noun: 1. Money, especially in a form that has an intrinsic value (for example, coins made from precious metals as opposed to paper money). 2. Type or kind (used in the phrase "in specie" meaning "in a similar manner").
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 393, using [3, 4, 7, 8, 10, 100]
-- Solution: ( 8 / 4 + 10 ) x 100 / 3 - 7
-- Total: 32 solutions.
+- Target: 643, using [2, 7, 8, 8, 9, 25]
+- Solution: ( ( 9 + 8 ) x 2 - 8 ) x 25 - 7
+- Total: 2 solutions.
 
 <!-- game_marker ends -->
