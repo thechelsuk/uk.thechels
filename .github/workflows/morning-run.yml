@@ -36,16 +36,15 @@ jobs:
           lat: ${{ secrets.LAT_COORDS }}
           lon: ${{ secrets.LON_COORDS }}
         run: |-
-          python 'stocks.py'
-          python 'sports.py'
-          python 'weather.py'
-          python 'cfc.py'
-          python 'word.py'
-          python 'task.py'
-          python 'corona.py'
-          python 'workout.py'
-          python 'countdown.py'
-        working-directory: ./_python
+          python '_python/stocks.py'
+          python '_python/sports.py'
+          python '_python/weather.py'
+          python '_python/cfc.py'
+          python '_python/word.py'
+          python '_python/task.py'
+          python '_python/corona.py'
+          python '_python/workout.py'
+          python '_python/countdown.py'
         
       - name: Commit and push
         run: |-
