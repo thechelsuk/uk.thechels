@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 15 July 2022
+### Daily Rundown on Saturday, 16 July 2022
 
-- The average temperature today is 22.09˚C;
-- With highs of 23.51˚C and lows of 10.29˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 24.28˚C;
+- With highs of 26.12˚C and lows of 11.05˚C.
+- You can expect scattered clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Dead bugs
-- Kettlebell rows
+- Bodyweight squats
 - Kettlebell swings
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 81.32
-- V3AB.L : 3.66875
-- SPXP.L : 60444.0
-- IMID.L : 161.36
+- VWRL.L : 82.83
+- V3AB.L : 3.73275
+- SPXP.L : 61753.5
+- IMID.L : 164.92999
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 227.23
+- 0P00013P6I.L : 227.94
 
 <!-- stocks_marker ends -->
 
@@ -64,11 +64,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Ampadu hoping to impress in big year](https://chelseafc.com/en/news/article/ampadu-hoping-to-impress-in-big-year) (15 Jul)
-- [Everything you need to know: Chelsea vs Club America](https://chelseafc.com/en/news/article/everything-you-need-to-know-chelsea-vs-club-america) (15 Jul)
-- [Gallery: Raheem’s home run](https://chelseafc.com/en/news/article/gallery-raheems-home-run) (14 Jul)
-- [For services to… Sterling joins list of Blues with letters after name](https://chelseafc.com/en/news/article/for-services-to-sterling-joins-list-of-blues-with-letters-after-name) (14 Jul)
-- [Raheem signing excites me, he makes things happen](https://chelseafc.com/en/news/article/raheem-signing-excites-me-he-makes-things-happen) (14 Jul)
+- [Everything you need to know about Kalidou Koulibaly](https://chelseafc.com/en/news/article/everything-you-need-to-know-about-kalidou-koulibaly) (16 Jul)
+- [Koulibaly completes Chelsea move](https://chelseafc.com/en/news/article/koulibaly-completes-chelsea-move) (16 Jul)
+- [Kalidou Koulibaly – the biography](https://chelseafc.com/en/news/article/kalidou-koulibaly-the-biography) (16 Jul)
+- [Tuchel on Koulibaly signing, Ronaldo rumours and Sterling’s first days](https://chelseafc.com/en/news/article/tuchel-on-ronaldo-rumours-sterlings-first-days-and-koulibaly-latest) (16 Jul)
+- [Chelsea train in Las Vegas](https://chelseafc.com/en/news/article/chelsea-train-in-las-vegas) (16 Jul)
 
 <!-- cfc_marker ends -->
 
@@ -82,8 +82,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 505, using [2, 3, 6, 25, 75, 100]
-- Solution: ( 100 + 75 - 6 ) x 3 - 2
-- Total: 11 solutions.
+- Target: 789, using [3, 4, 4, 5, 8, 50]
+- Solution: ( 5 x 4 - 4 ) x 50 - 8 - 3
+- Total: 6 solutions.
 
 <!-- game_marker ends -->
