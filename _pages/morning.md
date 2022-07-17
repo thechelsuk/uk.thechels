@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 16 July 2022
+### Daily Rundown on Sunday, 17 July 2022
 
-- The average temperature today is 24.28˚C;
-- With highs of 26.12˚C and lows of 11.05˚C.
-- You can expect scattered clouds for the day.
+- The average temperature today is 28.42˚C;
+- With highs of 30.12˚C and lows of 16.47˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
+- Calf raises
+- Shadow boxing
 - Kettlebell swings
-- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -64,11 +64,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Everything you need to know about Kalidou Koulibaly](https://chelseafc.com/en/news/article/everything-you-need-to-know-about-kalidou-koulibaly) (16 Jul)
-- [Koulibaly completes Chelsea move](https://chelseafc.com/en/news/article/koulibaly-completes-chelsea-move) (16 Jul)
-- [Kalidou Koulibaly – the biography](https://chelseafc.com/en/news/article/kalidou-koulibaly-the-biography) (16 Jul)
-- [Tuchel on Koulibaly signing, Ronaldo rumours and Sterling’s first days](https://chelseafc.com/en/news/article/tuchel-on-ronaldo-rumours-sterlings-first-days-and-koulibaly-latest) (16 Jul)
-- [Chelsea train in Las Vegas](https://chelseafc.com/en/news/article/chelsea-train-in-las-vegas) (16 Jul)
+- [Tuchel revels in returning players](https://chelseafc.com/en/news/article/tuchel-revels-in-returning-players) (17 Jul)
+- [Match report: Chelsea 2 Club America 1](https://chelseafc.com/en/news/article/match-report-chelsea-2-club-america-1) (17 Jul)
+- [The best photos from Chelsea v Club America](https://chelseafc.com/en/news/article/the-best-photos-from-chelsea-v-club-america) (17 Jul)
+- [Chelsea team news vs Club America](https://chelseafc.com/en/news/article/chelsea-team-news-vs-club-america) (17 Jul)
+- [‘Role model’ Chalobah on Thiago Silva’s influence, what Sterling will bring and relishing competition](https://chelseafc.com/en/news/article/role-model-chalobah-on-thiago-silvas-influence-what-sterling-will-bring-and) (16 Jul)
 
 <!-- cfc_marker ends -->
 
@@ -82,8 +82,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 789, using [3, 4, 4, 5, 8, 50]
-- Solution: ( 5 x 4 - 4 ) x 50 - 8 - 3
-- Total: 6 solutions.
+- Target: 277, using [2, 7, 9, 9, 75, 100]
+- Solution: ( 100 + 7 - 75 ) x 9 - 9 - 2
+- Total: 9 solutions.
 
 <!-- game_marker ends -->
