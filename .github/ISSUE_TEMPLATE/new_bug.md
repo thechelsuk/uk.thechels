@@ -6,6 +6,8 @@ labels: ["bug", "triage"]
 about: testing
 assignees:
   - octocat
+---
+
 body:
   - type: markdown
     attributes:
