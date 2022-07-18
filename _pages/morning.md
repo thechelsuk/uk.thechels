@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 17 July 2022
+### Daily Rundown on Monday, 18 July 2022
 
-- The average temperature today is 28.42˚C;
-- With highs of 30.12˚C and lows of 16.47˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 33.87˚C;
+- With highs of 37.38˚C and lows of 16.59˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -20,8 +20,8 @@ seo: Good Morning Mat, Here is your daily briefing
 3x AMRAP for 45 seconds, 15 second rest:
 
 - Calf raises
-- Shadow boxing
-- Kettlebell swings
+- Dead bugs
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -64,26 +64,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Tuchel revels in returning players](https://chelseafc.com/en/news/article/tuchel-revels-in-returning-players) (17 Jul)
-- [Match report: Chelsea 2 Club America 1](https://chelseafc.com/en/news/article/match-report-chelsea-2-club-america-1) (17 Jul)
-- [The best photos from Chelsea v Club America](https://chelseafc.com/en/news/article/the-best-photos-from-chelsea-v-club-america) (17 Jul)
-- [Chelsea team news vs Club America](https://chelseafc.com/en/news/article/chelsea-team-news-vs-club-america) (17 Jul)
-- [‘Role model’ Chalobah on Thiago Silva’s influence, what Sterling will bring and relishing competition](https://chelseafc.com/en/news/article/role-model-chalobah-on-thiago-silvas-influence-what-sterling-will-bring-and) (16 Jul)
+- [Blues touch down in Orlando](https://chelseafc.com/en/news/article/blues-touch-down-in-orlando) (18 Jul)
+- [Tuchel: We’ve made another brilliant signing](https://chelseafc.com/en/news/article/tuchel-weve-made-another-brilliant-signing) (18 Jul)
+- [Hudson-Odoi: Great to be back out there!](https://chelseafc.com/en/news/article/hudson-odoi-great-to-be-back-out-there) (17 Jul)
+- [Chelsea Women ticketing update for the 2022/23 season](https://chelseafc.com/en/news/article/chelsea-women-ticketing-update-for-the-2022-23-season) (17 Jul)
+- [Mount happy to put on a show in Vegas](https://chelseafc.com/en/news/article/mount-happy-to-put-on-a-show-in-vegas) (17 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > compromis - noun: An agreement, especially between nations, to submit disputes to arbitration.
+ > speechify - verb intr.: To make a speech, especially in a tedious or pompous manner.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 277, using [2, 7, 9, 9, 75, 100]
-- Solution: ( 100 + 7 - 75 ) x 9 - 9 - 2
-- Total: 9 solutions.
+- Target: 971, using [2, 2, 7, 8, 25, 75]
+- Solution: ( 75 + 8 ) x ( 7 x 2 - 2 ) - 25
+- Total: 2 solutions.
 
 <!-- game_marker ends -->
