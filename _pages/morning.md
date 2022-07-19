@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 18 July 2022
+### Daily Rundown on Tuesday, 19 July 2022
 
-- The average temperature today is 33.87˚C;
-- With highs of 37.38˚C and lows of 16.59˚C.
+- The average temperature today is 36.56˚C;
+- With highs of 36.56˚C and lows of 18.83˚C.
 - You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
@@ -19,15 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Calf raises
-- Dead bugs
-- Kettlebell rows
+- Bodyweight squats
+- Kettlebell swings
+- Bench dips
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Recycling Waste Collection Day- Food Waste Collection Day
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 82.83
-- V3AB.L : 3.73275
-- SPXP.L : 61753.5
-- IMID.L : 164.92999
+- VWRL.L : 82.96
+- V3AB.L : 3.73811
+- SPXP.L : 61473.0
+- IMID.L : 167.03999
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 227.94
+- 0P00013P6I.L : 230.45
 
 <!-- stocks_marker ends -->
 
@@ -57,33 +57,40 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(17:00) FK Qarabag - Zürich</li>
+<li>(17:00) Pyunik - F91 Dudelange</li>
+<li>(17:00) Zalgiris - Malmö FF</li>
+<li>(18:45) FC Midtjylland - AEK Larnaca</li>
+<li>(18:45) Ludogorets Razgrad - Shamrock Rovers</li>
+<li>(19:45) Linfield - Bodø/Glimt</li>
+<li>(20:00) Dinamo Zagreb - Shkupi</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Blues touch down in Orlando](https://chelseafc.com/en/news/article/blues-touch-down-in-orlando) (18 Jul)
-- [Tuchel: We’ve made another brilliant signing](https://chelseafc.com/en/news/article/tuchel-weve-made-another-brilliant-signing) (18 Jul)
-- [Hudson-Odoi: Great to be back out there!](https://chelseafc.com/en/news/article/hudson-odoi-great-to-be-back-out-there) (17 Jul)
-- [Chelsea Women ticketing update for the 2022/23 season](https://chelseafc.com/en/news/article/chelsea-women-ticketing-update-for-the-2022-23-season) (17 Jul)
-- [Mount happy to put on a show in Vegas](https://chelseafc.com/en/news/article/mount-happy-to-put-on-a-show-in-vegas) (17 Jul)
+- [James discusses his first pre-season tour and positional preferences](https://chelseafc.com/en/news/article/james-discusses-his-first-pre-season-tour-and-positional-preferences) (19 Jul)
+- [Tour story: Camp moves to the east coast](https://chelseafc.com/en/news/article/tour-story-camp-moves-to-the-east-coast) (19 Jul)
+- [Kai Havertz on Sterling’s immediate impact and making the striker spot his own](https://chelseafc.com/en/news/article/kai-havertz-on-sterlings-immediate-impact-and-making-the-striker-spot-his) (18 Jul)
+- [Tuchel issues tour squad update](https://chelseafc.com/en/news/article/tuchel-issues-tour-squad-update) (18 Jul)
+- [Chelsea FC appoints President of Business](https://chelseafc.com/en/news/article/chelsea-fc-appoints-president-of-business) (18 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > speechify - verb intr.: To make a speech, especially in a tedious or pompous manner.
+ > agrostology - noun: The study of grasses.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 971, using [2, 2, 7, 8, 25, 75]
-- Solution: ( 75 + 8 ) x ( 7 x 2 - 2 ) - 25
-- Total: 2 solutions.
+- Target: 399, using [5, 8, 9, 10, 50, 100]
+- Solution: ( 100 - 50 ) x 8 + 9 - 10
+- Total: 12 solutions.
 
 <!-- game_marker ends -->
