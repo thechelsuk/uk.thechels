@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 19 July 2022
+### Daily Rundown on Wednesday, 20 July 2022
 
-- The average temperature today is 36.56˚C;
-- With highs of 36.56˚C and lows of 18.83˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 20.39˚C;
+- With highs of 23.28˚C and lows of 16.84˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
+- Kettlebell rows
 - Kettlebell swings
-- Bench dips
+- Bodyweight squats
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day- Food Waste Collection Day
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -43,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 82.96
-- V3AB.L : 3.73811
-- SPXP.L : 61473.0
-- IMID.L : 167.03999
+- VWRL.L : 83.38
+- V3AB.L : 3.7545
+- SPXP.L : 61161.62109
+- IMID.L : 168.44501
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 230.45
+- 0P00013P6I.L : 228.84
 
 <!-- stocks_marker ends -->
 
@@ -57,13 +57,11 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(17:00) FK Qarabag - Zürich</li>
-<li>(17:00) Pyunik - F91 Dudelange</li>
-<li>(17:00) Zalgiris - Malmö FF</li>
-<li>(18:45) FC Midtjylland - AEK Larnaca</li>
-<li>(18:45) Ludogorets Razgrad - Shamrock Rovers</li>
-<li>(19:45) Linfield - Bodø/Glimt</li>
-<li>(20:00) Dinamo Zagreb - Shkupi</li>
+<li>(17:00) HJK Helsinki - Viktoria Plzen</li>
+<li>(18:00) Maccabi Haifa - Olympiakos</li>
+<li>(19:00) Dynamo Kyiv - Fenerbahçe</li>
+<li>(19:00) Ferencvárosi TC - Slovan Bratislava</li>
+<li>(19:15) NK Maribor - Sheriff Tiraspol</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -71,26 +69,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [James discusses his first pre-season tour and positional preferences](https://chelseafc.com/en/news/article/james-discusses-his-first-pre-season-tour-and-positional-preferences) (19 Jul)
-- [Tour story: Camp moves to the east coast](https://chelseafc.com/en/news/article/tour-story-camp-moves-to-the-east-coast) (19 Jul)
-- [Kai Havertz on Sterling’s immediate impact and making the striker spot his own](https://chelseafc.com/en/news/article/kai-havertz-on-sterlings-immediate-impact-and-making-the-striker-spot-his) (18 Jul)
-- [Tuchel issues tour squad update](https://chelseafc.com/en/news/article/tuchel-issues-tour-squad-update) (18 Jul)
-- [Chelsea FC appoints President of Business](https://chelseafc.com/en/news/article/chelsea-fc-appoints-president-of-business) (18 Jul)
+- [Tuchel: Sterling to feature in Charlotte](https://chelseafc.com/en/news/article/tuchel-sterling-to-feature-in-charlotte) (20 Jul)
+- [Opposition watch – Charlotte FC](https://chelseafc.com/en/news/article/opposition-watch-charlotte-fc) (20 Jul)
+- [Tuchel on his plans for Broja and more summer recruitment](https://chelseafc.com/en/news/article/tuchel-on-his-plans-for-broja-and-more-summer-recruitment) (19 Jul)
+- [First words: Kalidou Koulibaly on joining Chelsea, his excitement to work under Tuchel and his whirlwind few days](https://chelseafc.com/en/news/article/first-words-kalidou-koulibaly-on-joining-chelsea-his-excitement-to-work) (19 Jul)
+- [Tuchel: I work with a fantastic group](https://chelseafc.com/en/news/article/tuchel-i-work-with-a-fantastic-group) (19 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > agrostology - noun: The study of grasses.
+ > smilet - noun: A little smile.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 399, using [5, 8, 9, 10, 50, 100]
-- Solution: ( 100 - 50 ) x 8 + 9 - 10
-- Total: 12 solutions.
+- Target: 491, using [1, 3, 8, 50, 75, 100]
+- Solution: ( 100 + 3 - 50 - 1 ) x 8 + 75
+- Total: 4 solutions.
 
 <!-- game_marker ends -->
