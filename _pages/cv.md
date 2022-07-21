@@ -8,20 +8,20 @@ seo: CV of Mat Benfield
 
 ### Personal Profile
 
-Passionate and experienced Head of Software Development with a focus on agile methodologies and delivering value. A leader and catalyst for change. Attends local .Net Meet-ups and "geek nights" to further extend knowledge and be a member of the development community. A 'driver' with a focus on task management and delivery through people development
+Passionate and experienced Engineering Manager / Head of Software Development with a focus on agile methodologies and delivering value. A leader and catalyst for change. Attends local meet-ups and "geek nights" to further extend knowledge and be a member of the development community. A 'driver' with a focus on task management and delivery through people development
 
 Keen non-elite runner, achieving 1200 miles to raise over £1200 for Acorns Hospice in 2019, including 4 races in 5 weekends in October. Member of local running club and parkrun volunteer.
 
-Created, published and managed football statistics website (WordPress, PHP, MySQL) and twitter account which oversaw organic growth to peak 175,000 followers and global reach.
+Created, published, and managed football statistics website (WordPress, PHP, MySQL) and twitter account which oversaw organic growth to peak 175,000 followers and global reach.
 
-Latest personal project was to redesign running club website using Jekyll, a static site generator on Ruby hosted on GitHub pages.
+Latest personal project was to redesign running club website using Jekyll, a static site generator on Ruby hosted on GitHub pages. Although for work I have been hands-off from code for around 3 years.
 
 ### Core Skills
 
 - Methodologies - Shape-up, Scrum, Kanban, Waterfall
 - Stack: C# .Net, MVC, nuget, Azure, Oracle
-- Languages: C#, SQL, XML, PHP, HTML, CSS, JavaScript, Markdown, Ruby, Jekyll, Python, Sass
-- Testing: TDD, Nunit, Moq, Specflow/Cucumber, and Selenium Web driver
+- Languages: C#, SQL, XML, PHP, HTML, CSS, JavaScript, Markdown, Ruby, Jekyll, Python, Sass, TypeScript
+- Testing: TDD, Nunit, Moq, Specflow/Cucumber, Selenium Web driver, pytest
 - Source Control: TFS, Azure DevOps, Git, GitHub, subversion, CVS
 - Cloud: AWS, Azure
 - Database: MySQL, Oracle, SQL Server, MongoDB
@@ -38,9 +38,11 @@ _Seccl’s technology helps advisers, investment managers, and fintechs of all s
 
 Started leading multiple squads in the investments and advice tribe with a focus on delivery, empowering and growing our engineers. Impelmented a role/skill matrix and used this during annual reviews - the first time anything like this was used in the company.
 
-Built a recruitment process and question set for various roles ans formalised a fair and systematic approach to recruitment hiring 12 engineers in first 6 months.
+Built a recruitment process and question set for various roles and formalised a fair and systematic approach to recruitment hiring 12 engineers in first 6 months. Involved in non-engineering hiring sessions to be support other hiring managers. Interviewed and hired peer and new manager.
 
-Currently leading our devops function responsible for our cloud infrastructure and support. Developed a roadmap to remove legacy cloud, poorly managed systems to managed services. Helped team deliver an automated client onboarding process reducing time from approximately 6 hours to 3 minutes.
+Currently leading the devops function a team responsible for the cloud infrastructure and support. Developed a roadmap to remove legacy cloud, poorly managed systems to managed services. Helped team deliver an automated client onboarding process reducing cycle time from approximately 6 hours to 3 minutes. Oversaw a DB upgrade well within deadlines and with little downtime nor customer detriment. Gave Technical debt and security greater gravitas within the organisation and helped contstruct a roadmap for remediation. Increased Team happiness metrics by 4 points (out of 10), 2.7 in wellness and 2.4 in overall engagemenmt, 7.1 in relationship with peers from 6 months to prior 6 months.
+
+Working towards a replacement of our custom-built legacy CI/CD process, remediation through a well-architected review and embedding DevOps engineers into cross-functional teams.
 
 #### Higher Education Statistics Agency
 
