@@ -8,7 +8,7 @@ cited: The New Statesman
 
 ---
 
-Compared to their social circle/network this wouldn't be surprising. 
+Compared to their social circle/network this wouldn't be surprising. How many people hang out or socialise with people they look up to, are trying to get 'in' with. An £100k city worker trying be mates with the seasoned pro on double gross salary.
 
 Even most the right-wing politicians believe there is room to the right.
 
