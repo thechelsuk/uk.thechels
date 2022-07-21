@@ -31,7 +31,7 @@ jobs:
             ${{ runner.os }}-pip-
       - name: Install Python dependencies
         run: |
-          python -m pip install -r "./_python/requirements.txt"
+          python -m pip install -r "./_python/requirements.txt" --quiet
       - name: Check for new content
         run: python '_python/block_updater.py'
         env:
