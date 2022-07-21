@@ -12,10 +12,6 @@ body:
     options:
     - label: I have searched the existing issues
       required: true
-- type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this feature request!
 - type: textarea
     id: what-problem
     attributes:
