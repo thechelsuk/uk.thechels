@@ -18,6 +18,6 @@ body:
       label: Given... when... then...
       description: A clear and concise description of what the problem is. E.g., I am always frustrated when
       placeholder: "Given I am... When... Then I would expect..."
-      value: ""
+      value: "Given I am... When... Then I would expect..."
     validations:
       required: true
