@@ -1,0 +1,18 @@
+name: Contact
+description: Simple way to message me - please note these are public
+title: "[Contact] <title>"
+labels: [Contact]
+body:
+- type: checkboxes
+  attributes:
+    label: Subject?
+    description: What is this about?
+    options:
+    - label: I have searched the existing issues
+      required: true
+- type: textarea
+  attributes:
+    label: Your message
+    description: What is the detail?
+  validations:
+    required: false
