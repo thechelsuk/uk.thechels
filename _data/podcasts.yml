@@ -958,3 +958,7 @@
   category: News
   link: "https://feeds.npr.org/510351/podcast.xml"
   name: "NPR - Short Wave"
+-
+  category: Finance
+  link: "https://podcasts.apple.com/gb/podcast/the-financial-wellbeing-podcast/id1107950494"
+  name: "Financial Wellbeing"
