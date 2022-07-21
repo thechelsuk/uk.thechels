@@ -13,11 +13,11 @@ body:
     - label: I have searched the existing issues
       required: true
 - type: textarea
-    id: what-problem
+    id: whats-your-problem
     attributes:
-      label: A clear and concise description of what the problem is. E.g., I am always frustrated when
+      label: Given... when... then...
       description: A clear and concise description of what the problem is. E.g., I am always frustrated when
-      placeholder: ""
+      placeholder: "Given I am... When... Then I would expect..."
       value: ""
     validations:
       required: true
