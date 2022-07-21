@@ -1,0 +1,23 @@
+name: Add podcast
+description: Update my podcast library
+title: "New Podcast: "
+labels: 'podcasts'
+assignees: 'MatBenfield'
+body:
+  - type: textarea
+    id: logs
+    attributes:
+      label: Add the relevant yaml
+      description: Add yaml
+      value: '-
+  category:
+  link: ""
+  name: ""'
+      render: yaml
+
+#```yaml
+#-
+#  category:
+#  link: ""
+#  name: ""
+#```
