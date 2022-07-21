@@ -10,10 +10,10 @@ body:
       label: Add the relevant yaml
       description: Add yaml
       value: |
--
-  category:
-  link: ""
-  name: ""
+        -
+          category:
+          link: ""
+          name: ""
       render: yaml
 
 #```yaml
