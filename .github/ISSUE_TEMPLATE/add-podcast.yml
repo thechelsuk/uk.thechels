@@ -9,10 +9,11 @@ body:
     attributes:
       label: Add the relevant yaml
       description: Add yaml
-      value: '-
+      value: |
+-
   category:
   link: ""
-  name: ""'
+  name: ""
       render: yaml
 
 #```yaml
