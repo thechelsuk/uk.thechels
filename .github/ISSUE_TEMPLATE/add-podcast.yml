@@ -7,18 +7,11 @@ body:
   - type: textarea
     id: logs
     attributes:
-      label: Add the relevant yaml
-      description: Add yaml
+      label: Add Data
+      description: Add values to the yaml below
       value: |
         -
           category:
           link: ""
           name: ""
       render: yaml
-
-#```yaml
-#-
-#  category:
-#  link: ""
-#  name: ""
-#```
