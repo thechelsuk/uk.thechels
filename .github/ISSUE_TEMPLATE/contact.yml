@@ -6,7 +6,7 @@ body:
 - type: textarea
   attributes:
     label: Subject
-    description: What is the detail?
+    description: What is this about?
   validations:
     required: false
 - type: textarea
