@@ -3,13 +3,12 @@ description: Simple way to message me - please note these are public
 title: "[Contact] <title>"
 labels: [Contact]
 body:
-- type: checkboxes
+- type: textarea
   attributes:
-    label: Subject?
-    description: What is this about?
-    options:
-    - label: I have searched the existing issues
-      required: true
+    label: Subject
+    description: What is the detail?
+  validations:
+    required: false
 - type: textarea
   attributes:
     label: Your message
