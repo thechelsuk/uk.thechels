@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 22 July 2022
+### Daily Rundown on Saturday, 23 July 2022
 
-- The average temperature today is 16.54˚C;
-- With highs of 17.61˚C and lows of 14.42˚C.
-- You can expect light rain for the day.
+- The average temperature today is 22.61˚C;
+- With highs of 22.61˚C and lows of 12.53˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
-- Walking jacks
-- Plank
+- Calf raises
+- Bench dips
+- Kettlebell swings
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 84.63231
-- V3AB.L : 3.818
-- SPXP.L : 62855.83984
-- IMID.L : 170.045
+- VWRL.L : 84.38
+- V3AB.L : 3.8205
+- SPXP.L : 62896.5
+- IMID.L : 170.735
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 235.73
+- 0P00013P6I.L : 237.87
 
 <!-- stocks_marker ends -->
 
@@ -64,11 +64,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Tuchel sets defender transfer target and talks Kounde and Werner](https://chelseafc.com/en/news/article/tuchel-sets-defender-transfer-target-and-talks-kounde-and-werner) (22 Jul)
+- [Tour story: The ride continues on day 13](https://chelseafc.com/en/news/article/tour-story-the-ride-continues-on-day-13) (22 Jul)
 - [The best social posts from Chelsea's USA tour so far](https://chelseafc.com/en/news/article/the-best-social-posts-from-chelseas-usa-tour-so-far) (22 Jul)
-- [Pulisic: I'm feeling sharp but there’s more to come](https://chelseafc.com/en/news/article/pulisic-im-feeling-sharp-but-theres-more-to-come) (22 Jul)
-- [First Words: Sterling determined to keep banging in goals](https://chelseafc.com/en/news/article/first-words-sterling-determined-to-keep-banging-in-goals) (21 Jul)
-- [Mendy in Africa’s top three; Senegal scoop award](https://chelseafc.com/en/news/article/mendy-in-africas-top-three-senegal-scoop-award) (21 Jul)
-- [Everything you need to know: Chelsea vs Arsenal](https://chelseafc.com/en/news/article/everything-you-need-to-know-chelsea-vs-arsenal) (21 Jul)
+- [Ticket and travel information for Everton away](https://chelseafc.com/en/news/article/ticket-and-travel-information-for-everton-away) (22 Jul)
+- [Lawrence loaned to League One](https://chelseafc.com/en/news/article/lawrence-loaned-to-league-one) (22 Jul)
 
 <!-- cfc_marker ends -->
 
@@ -82,8 +82,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 568, using [6, 6, 7, 7, 9, 10]
-- Solution: ( 10 x 7 - 7 ) x 9 + 6 / 6
-- Total: 4 solutions.
+- Target: 247, using [1, 4, 5, 8, 25, 100]
+- Solution: ( 100 - 25 - 8 - 5 ) x 4 - 1
+- Total: 13 solutions.
 
 <!-- game_marker ends -->
