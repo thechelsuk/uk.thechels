@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 23 July 2022
+### Daily Rundown on Sunday, 24 July 2022
 
-- The average temperature today is 22.61˚C;
-- With highs of 22.61˚C and lows of 12.53˚C.
+- The average temperature today is 25.68˚C;
+- With highs of 26.99˚C and lows of 16.78˚C.
 - You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Calf raises
+- Walking jacks
 - Bench dips
-- Kettlebell swings
+- Calf raises
 
 <!-- workout_marker ends -->
 
@@ -64,11 +64,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Tuchel sets defender transfer target and talks Kounde and Werner](https://chelseafc.com/en/news/article/tuchel-sets-defender-transfer-target-and-talks-kounde-and-werner) (22 Jul)
-- [Tour story: The ride continues on day 13](https://chelseafc.com/en/news/article/tour-story-the-ride-continues-on-day-13) (22 Jul)
-- [The best social posts from Chelsea's USA tour so far](https://chelseafc.com/en/news/article/the-best-social-posts-from-chelseas-usa-tour-so-far) (22 Jul)
-- [Ticket and travel information for Everton away](https://chelseafc.com/en/news/article/ticket-and-travel-information-for-everton-away) (22 Jul)
-- [Lawrence loaned to League One](https://chelseafc.com/en/news/article/lawrence-loaned-to-league-one) (22 Jul)
+- [Tuchel lists where Chelsea did not compare with Arsenal and explains where he has been proved right](https://chelseafc.com/en/news/article/tuchel-lists-where-chelsea-did-not-compare-with-arsenal-and-explains-where) (24 Jul)
+- [Match report: Chelsea 0 Arsenal 4](https://chelseafc.com/en/news/article/match-report-chelsea-0-arsenal-4) (24 Jul)
+- [Chelsea line up vs Arsenal](https://chelseafc.com/en/news/article/chelsea-line-up-vs-arsenal-orlando) (23 Jul)
+- [Jorginho excited to reunite with ‘perfect’ Koulibaly](https://chelseafc.com/en/news/article/jorginho-excited-to-reunite-with-perfect-koulibaly) (23 Jul)
+- [Gallery: Open training delights fans in Florida](https://chelseafc.com/en/news/article/gallery-open-training-delights-fans-in-florida) (23 Jul)
 
 <!-- cfc_marker ends -->
 
@@ -82,8 +82,6 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 247, using [1, 4, 5, 8, 25, 100]
-- Solution: ( 100 - 25 - 8 - 5 ) x 4 - 1
-- Total: 13 solutions.
+- Target: 782, using [1, 2, 8, 50, 75, 100]
 
 <!-- game_marker ends -->
