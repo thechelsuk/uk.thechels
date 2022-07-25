@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 24 July 2022
+### Daily Rundown on Monday, 25 July 2022
 
-- The average temperature today is 25.68˚C;
-- With highs of 26.99˚C and lows of 16.78˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 20.74˚C;
+- With highs of 21.54˚C and lows of 13.34˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
+- Shadow boxing
+- Kettlebell rows
 - Bench dips
-- Calf raises
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Garden Waste Day
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -64,24 +64,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Tuchel talks transfer targets](https://chelseafc.com/en/news/article/tuchel-talks-transfer-targets) (25 Jul)
+- [Chelsea Foundation work continues in Orlando](https://chelseafc.com/en/news/article/chelsea-foundation-work-continues-in-orlando) (25 Jul)
+- [Di Matteo lauds Koulibaly addition](https://chelseafc.com/en/news/article/di-matteo-lauds-koulibaly-addition) (24 Jul)
+- [Nouwen looks to next challenge after Euros exit](https://chelseafc.com/en/news/article/nouwen-looks-to-next-challenge-after-euros-exit) (24 Jul)
 - [Tuchel lists where Chelsea did not compare with Arsenal and explains where he has been proved right](https://chelseafc.com/en/news/article/tuchel-lists-where-chelsea-did-not-compare-with-arsenal-and-explains-where) (24 Jul)
-- [Match report: Chelsea 0 Arsenal 4](https://chelseafc.com/en/news/article/match-report-chelsea-0-arsenal-4) (24 Jul)
-- [Chelsea line up vs Arsenal](https://chelseafc.com/en/news/article/chelsea-line-up-vs-arsenal-orlando) (23 Jul)
-- [Jorginho excited to reunite with ‘perfect’ Koulibaly](https://chelseafc.com/en/news/article/jorginho-excited-to-reunite-with-perfect-koulibaly) (23 Jul)
-- [Gallery: Open training delights fans in Florida](https://chelseafc.com/en/news/article/gallery-open-training-delights-fans-in-florida) (23 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > meta - adjective: 1. Self-referential. 2. Relating to members of its own category. adverb: In a self-referential manner. noun: Something that is self-referential. prefix: Denoting transformation, transcending, going beyond, etc.
+ > John Henry - noun: A person's signature.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 782, using [1, 2, 8, 50, 75, 100]
+- Target: 625, using [3, 5, 6, 10, 25, 75]
+- Solution: ( 10 - 5 - 3 ) x 75 x 25 / 6
+- Total: 109 solutions.
 
 <!-- game_marker ends -->
