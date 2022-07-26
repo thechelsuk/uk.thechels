@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 25 July 2022
+### Daily Rundown on Tuesday, 26 July 2022
 
-- The average temperature today is 20.74˚C;
-- With highs of 21.54˚C and lows of 13.34˚C.
-- You can expect light rain for the day.
+- The average temperature today is 17.17˚C;
+- With highs of 19.47˚C and lows of 10.82˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
 - Kettlebell rows
+- Bodyweight squats
 - Bench dips
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day- Food Waste Collection Day
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -43,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 84.38
-- V3AB.L : 3.8205
-- SPXP.L : 62896.5
-- IMID.L : 170.735
+- VWRL.L : 84.2
+- V3AB.L : 3.79925
+- SPXP.L : 62657.0
+- IMID.L : 170.44501
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 237.87
+- 0P00013P6I.L : 234.75
 
 <!-- stocks_marker ends -->
 
@@ -57,33 +57,39 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(16:30) AEK Larnaca - FC Midtjylland</li>
+<li>(18:00) Sheriff Tiraspol - NK Maribor</li>
+<li>(18:00) Viktoria Plzen - HJK Helsinki</li>
+<li>(18:30) F91 Dudelange - Pyunik</li>
+<li>(20:00) Shamrock Rovers - Ludogorets Razgrad</li>
+<li>(20:00) Shkupi - Dinamo Zagreb</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [In interview: Anthony Barry](https://chelseafc.com/en/news/article/in-interview-anthony-barry) (26 Jul)
 - [Tuchel talks transfer targets](https://chelseafc.com/en/news/article/tuchel-talks-transfer-targets) (25 Jul)
+- [Academy match report: Chelsea 1 Toronto 1](https://chelseafc.com/en/news/article/academy-match-report-chelsea-1-toronto-1) (25 Jul)
 - [Chelsea Foundation work continues in Orlando](https://chelseafc.com/en/news/article/chelsea-foundation-work-continues-in-orlando) (25 Jul)
 - [Di Matteo lauds Koulibaly addition](https://chelseafc.com/en/news/article/di-matteo-lauds-koulibaly-addition) (24 Jul)
-- [Nouwen looks to next challenge after Euros exit](https://chelseafc.com/en/news/article/nouwen-looks-to-next-challenge-after-euros-exit) (24 Jul)
-- [Tuchel lists where Chelsea did not compare with Arsenal and explains where he has been proved right](https://chelseafc.com/en/news/article/tuchel-lists-where-chelsea-did-not-compare-with-arsenal-and-explains-where) (24 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > John Henry - noun: A person's signature.
+ > mollycoddle - noun: A pampered or overprotected person. verb tr.: To overprotect or pamper.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 625, using [3, 5, 6, 10, 25, 75]
-- Solution: ( 10 - 5 - 3 ) x 75 x 25 / 6
-- Total: 109 solutions.
+- Target: 427, using [2, 9, 10, 50, 75, 100]
+- Solution: ( 100 - 75 ) x ( 10 + 9 ) + 2 - 50
+- Total: 7 solutions.
 
 <!-- game_marker ends -->
