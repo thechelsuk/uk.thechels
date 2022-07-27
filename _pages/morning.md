@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 26 July 2022
+### Daily Rundown on Wednesday, 27 July 2022
 
-- The average temperature today is 17.17˚C;
-- With highs of 19.47˚C and lows of 10.82˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 19.17˚C;
+- With highs of 20.07˚C and lows of 10.2˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Calf raises
 - Kettlebell rows
-- Bodyweight squats
-- Bench dips
+- Shadow boxing
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day- Food Waste Collection Day
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -43,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 84.2
-- V3AB.L : 3.79925
-- SPXP.L : 62657.0
-- IMID.L : 170.44501
+- VWRL.L : 83.42
+- V3AB.L : 3.7635
+- SPXP.L : 62063.0
+- IMID.L : 168.74001
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 234.75
+- 0P00013P6I.L : nan
 
 <!-- stocks_marker ends -->
 
@@ -57,12 +57,12 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(16:30) AEK Larnaca - FC Midtjylland</li>
-<li>(18:00) Sheriff Tiraspol - NK Maribor</li>
-<li>(18:00) Viktoria Plzen - HJK Helsinki</li>
-<li>(18:30) F91 Dudelange - Pyunik</li>
-<li>(20:00) Shamrock Rovers - Ludogorets Razgrad</li>
-<li>(20:00) Shkupi - Dinamo Zagreb</li>
+<li>(17:00) Bodø/Glimt - Linfield</li>
+<li>(18:00) Fenerbahçe - Dynamo Kyiv</li>
+<li>(18:00) Malmö FF - Zalgiris</li>
+<li>(18:00) Zürich - FK Qarabag</li>
+<li>(19:30) Slovan Bratislava - Ferencvárosi TC</li>
+<li>(20:00) Olympiakos - Maccabi Haifa</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -70,26 +70,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [In interview: Anthony Barry](https://chelseafc.com/en/news/article/in-interview-anthony-barry) (26 Jul)
-- [Tuchel talks transfer targets](https://chelseafc.com/en/news/article/tuchel-talks-transfer-targets) (25 Jul)
-- [Academy match report: Chelsea 1 Toronto 1](https://chelseafc.com/en/news/article/academy-match-report-chelsea-1-toronto-1) (25 Jul)
-- [Chelsea Foundation work continues in Orlando](https://chelseafc.com/en/news/article/chelsea-foundation-work-continues-in-orlando) (25 Jul)
-- [Di Matteo lauds Koulibaly addition](https://chelseafc.com/en/news/article/di-matteo-lauds-koulibaly-addition) (24 Jul)
+- [Kirby seals emphatic England Euro 2022 semi-final win](https://chelseafc.com/en/news/article/kirby-seals-emphatic-england-euro-2022-semi-final-win) (26 Jul)
+- [Gallery: Blues return to Cobham](https://chelseafc.com/en/news/article/gallery-blues-return-to-cobham) (26 Jul)
+- [Mount: I will always take the captain’s armband when called upon](https://chelseafc.com/en/news/article/mount-i-will-always-take-the-captains-armband-when-called-upon) (26 Jul)
+- [Eriksson dreaming of reaching Wembley final with Sweden](https://chelseafc.com/en/news/article/eriksson-dreaming-of-reaching-wembley-final-with-sweden) (26 Jul)
+- [Everything you need to know: Udinese vs Chelsea](https://chelseafc.com/en/news/article/everything-you-need-to-know-udinese-vs-chelsea) (26 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > mollycoddle - noun: A pampered or overprotected person. verb tr.: To overprotect or pamper.
+ > Jones - noun: One's neighbors or social equals. Typically used in the phrase: keeping up with the Joneses. noun: An addiction or craving, especially for drugs. verb intr.: To have an intense longing.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 427, using [2, 9, 10, 50, 75, 100]
-- Solution: ( 100 - 75 ) x ( 10 + 9 ) + 2 - 50
-- Total: 7 solutions.
+- Target: 720, using [5, 6, 7, 9, 10, 25]
+- Solution: ( 25 x 10 / ( 9 - 7 ) - 5 ) x 6
+- Total: 55 solutions.
 
 <!-- game_marker ends -->
