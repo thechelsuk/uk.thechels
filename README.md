@@ -10,7 +10,7 @@ due to the likelihood I will be inconsistent and non-regular.
 ### Quality Control
 
 [![Run tests](https://github.com/MatBenfield/TheChels.uk/actions/workflows/python-ci.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/python-ci.yml)
-[![Code QL](https://github.com/MatBenfield/TheChels.uk/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/codeql-analysis.yml) 
+[![CodeQL](https://github.com/MatBenfield/TheChels.uk/actions/workflows/codeql.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/codeql.yml) 
 [![Lighthouse](https://github.com/MatBenfield/TheChels.uk/actions/workflows/lighthouse.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/lighthouse.yml) 
 [![Link Checker](https://github.com/MatBenfield/TheChels.uk/actions/workflows/link-checker.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/link-checker.yml) 
 [![Linter](https://github.com/MatBenfield/TheChels.uk/actions/workflows/linter.yml/badge.svg)](https://github.com/MatBenfield/TheChels.uk/actions/workflows/linter.yml) 
