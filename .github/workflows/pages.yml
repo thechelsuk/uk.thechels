@@ -4,8 +4,10 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: ["main"]
-    paths-ignore:
-      - '_python/'
+    paths:
+      - ‘*/**’`
+      - '!_python/'
+      - '!.github/'
   workflow_dispatch:
   
 permissions:
