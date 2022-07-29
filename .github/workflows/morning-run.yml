@@ -52,3 +52,12 @@ jobs:
           git config user.email "action@github.com"
           git diff --quiet || (git add -A && git commit -m "Morning Run `date +'%Y-%m-%d %H:%M:%S'`")
           git push
+          
+  Execution:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+    
+    - name: Pages
+      uses: ./.github/workflows/pages.yml
+      
