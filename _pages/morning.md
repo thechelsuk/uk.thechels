@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 28 July 2022
+### Daily Rundown on Friday, 29 July 2022
 
-- The average temperature today is 19.71˚C;
-- With highs of 23.53˚C and lows of 13.82˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 24.24˚C;
+- With highs of 25.61˚C and lows of 14.14˚C.
+- You can expect scattered clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Dead bugs
-- Kettlebell rows
 - Plank
+- Bench dips
+- Dead bugs
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 84.21
-- V3AB.L : 3.7955
-- SPXP.L : 62707.5
-- IMID.L : 170.49001
+- VWRL.L : 84.93
+- V3AB.L : 3.83225
+- SPXP.L : 63485.5
+- IMID.L : 173.25
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 232.87
+- 0P00013P6I.L : 236.08
 
 <!-- stocks_marker ends -->
 
@@ -64,26 +64,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [In interview: Zsolt Low](https://chelseafc.com/en/news/article/in-interview-zsolt-low) (29 Jul)
+- [Hodgson’s welcome and ‘stupid red cards’: when Chelsea last played Udinese](https://chelseafc.com/en/news/article/hodgsons-welcome-and-stupid-red-cards-when-chelsea-last-played-udinese) (28 Jul)
+- [Watch Chelsea vs Udinese live and for free on chelseafc.com!](https://chelseafc.com/en/news/article/watch-chelsea-vs-udinese-live-and-for-free-on-chelseafc-com) (28 Jul)
 - [In interview: Arno Michels](https://chelseafc.com/en/news/article/in-interview-arno-michels) (28 Jul)
-- [Berger’s Germany book final place](https://chelseafc.com/en/news/article/bergers-germany-book-final-place) (27 Jul)
-- [Reece James reveals new owner’s message to Chelsea players](https://chelseafc.com/en/news/article/reece-james-reveals-new-owners-message-to-chelsea-players) (27 Jul)
-- [In interview: Benjamin Weber](https://chelseafc.com/en/news/article/in-interview-benjamin-weber) (27 Jul)
-- [Under-18s prepare for Germany trip with pre-season win](https://chelseafc.com/en/news/article/under-18s-prepare-for-germany-trip-with-pre-season-win) (27 Jul)
+- [Change to ticket sale notifications](https://chelseafc.com/en/news/article/change-to-ticket-sale-notifications) (28 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > patsy - noun: One who is easily taken advantage of, by being deceived, unfairly blamed, or ridiculed.
+ > jasper - noun: 1. A person; guy. 2. A wasp. 3. A compact, opaque quartz, typically in dull shades of red, yellow, and brown.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 557, using [5, 8, 8, 9, 75, 100]
-- Solution: 100 x 9 - ( 75 - 8 ) x 5 - 8
-- Total: 4 solutions.
+- Target: 905, using [1, 1, 4, 9, 25, 100]
+- Solution: 100 x 9 + 25 / ( 4 + 1 )
+- Total: 5 solutions.
 
 <!-- game_marker ends -->
