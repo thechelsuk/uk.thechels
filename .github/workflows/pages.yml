@@ -9,6 +9,7 @@ on:
       - '!_python/'
       - '!.github/'
   workflow_dispatch:
+  workflow_call:
   
 permissions:
   contents: read
