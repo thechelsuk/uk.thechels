@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 29 July 2022
+### Daily Rundown on Saturday, 30 July 2022
 
-- The average temperature today is 24.24˚C;
-- With highs of 25.61˚C and lows of 14.14˚C.
-- You can expect scattered clouds for the day.
+- The average temperature today is 22.71˚C;
+- With highs of 25.36˚C and lows of 15.08˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Plank
+- Bodyweight squats
 - Bench dips
-- Dead bugs
+- Calf raises
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 84.93
-- V3AB.L : 3.83225
-- SPXP.L : 63485.5
-- IMID.L : 173.25
+- VWRL.L : 85.54
+- V3AB.L : 3.84825
+- SPXP.L : 63975.5
+- IMID.L : 174.77499
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 236.08
+- 0P00013P6I.L : 237.92
 
 <!-- stocks_marker ends -->
 
@@ -64,11 +64,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [In interview: Zsolt Low](https://chelseafc.com/en/news/article/in-interview-zsolt-low) (29 Jul)
-- [Hodgson’s welcome and ‘stupid red cards’: when Chelsea last played Udinese](https://chelseafc.com/en/news/article/hodgsons-welcome-and-stupid-red-cards-when-chelsea-last-played-udinese) (28 Jul)
-- [Watch Chelsea vs Udinese live and for free on chelseafc.com!](https://chelseafc.com/en/news/article/watch-chelsea-vs-udinese-live-and-for-free-on-chelseafc-com) (28 Jul)
-- [In interview: Arno Michels](https://chelseafc.com/en/news/article/in-interview-arno-michels) (28 Jul)
-- [Change to ticket sale notifications](https://chelseafc.com/en/news/article/change-to-ticket-sale-notifications) (28 Jul)
+- [Going for gold: Chelsea Women in major international finals](https://chelseafc.com/en/news/article/going-for-gold-chelsea-women-in-major-international-finals) (30 Jul)
+- [Watch the highlights of Chelsea's win at Udinese](https://chelseafc.com/en/news/article/watch-the-highlights-of-chelseas-win-at-udinese) (29 Jul)
+- [Match report: Udinese 1 Chelsea 3](https://chelseafc.com/en/news/article/match-report-udinese-1-chelsea-3) (29 Jul)
+- [How to Watch: Udinese XI vs Chelsea XI live training match](https://chelseafc.com/en/news/article/how-to-watch-udinese-xi-vs-chelsea-xi-live-training-match) (29 Jul)
+- [Three October games moved](https://chelseafc.com/en/news/article/three-october-games-moved) (29 Jul)
 
 <!-- cfc_marker ends -->
 
@@ -82,8 +82,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 905, using [1, 1, 4, 9, 25, 100]
-- Solution: 100 x 9 + 25 / ( 4 + 1 )
-- Total: 5 solutions.
+- Target: 469, using [2, 2, 5, 8, 8, 10]
+- Solution: ( ( 8 - 2 ) x 10 - 2 ) x 8 + 5
+- Total: 1 solutions.
 
 <!-- game_marker ends -->
