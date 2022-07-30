@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <title>{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}</title>
     <meta name="title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}" />
     {% if page.id %}
-      <title>{{ post.title }} | {{ site.title }}</title>
+    
       <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.title }} {{ site.description }}" />
     {% else %}
-      <title>{{ page.title }} | {{ site.title }}</title>
-      <meta name="description" content="{% if page.seo %} {{ page.seo }}{% else %} {{ page.title }}{% endif %} | {{ site.title }} {{ site.description }}" />
+      <meta name="description" content="{% if page.seo %} {{ page.seo }}{% else %} {{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}" />
     {% endif %}
      
     <meta property="og:locale" content="en_US">
