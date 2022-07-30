@@ -1,31 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-
+    <meta name="title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}" />
     {% if page.id %}
-    <meta name="title" content="{{ post.title }} | {{ site.title }} {{ site.description }}" />
-    <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.title }} {{ site.description }}" />
-    <title>{{ post.title }} | {{ site.title }}</title>
+      <title>{{ post.title }} | {{ site.title }}</title>
+      <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.title }} {{ site.description }}" />
     {% else %}
-    <meta name="title" content="{{ page.seo }} | {{ site.title }}" />
-    <meta name="description" content="{% if page.seo %} {{ page.seo }}{% else %} {{ page.title }}{% endif %} | {{ site.title }} {{ site.description }}" />
-    <title>{{ page.title }} | {{ site.title }}</title>
+      <title>{{ page.title }} | {{ site.title }}</title>
+      <meta name="description" content="{% if page.seo %} {{ page.seo }}{% else %} {{ page.title }}{% endif %} | {{ site.title }} {{ site.description }}" />
     {% endif %}
+     
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    {% if page.imagePath %}
-    <meta property="og:image" content="{{ site.url }}{{ page.imagePath }}" />
-    {% else %}
     <meta property="og:image" content="{{ site.url }}{{ site.defaultImagePath }}" />
-    {% endif %}
     <meta property="og:site_name" content="{{ site.title }} {{ site.description }}">
+    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta property="article:publisher" content="{{ site.url }}" />
     <meta property="article:author" content="{{ site.author }} at {{site.url }}" />
     <meta property="article:published_time" content="{{ page.date }}" />
-    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-
+    
+    
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.title }} {{ site.description }}{% endif %}">
