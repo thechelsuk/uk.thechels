@@ -8,6 +8,7 @@ copyright:      "Mat B"
 encoding:       UTF-8
 future:         false
 repository:     MatBenfield/TheChels.uk
+defaultImagePath: "/images/splashscreens/apple-touch-icon-180x180.png"
 github:
   repository_url: https://github.com/MatBenfield/TheChels.uk
   branch: main
