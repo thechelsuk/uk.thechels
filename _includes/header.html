@@ -3,17 +3,17 @@
   <head>
 
     {% if page.id %}
-    <meta name="title" content="{{ post.title }} | {{ site.title }}" />
-    <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.description }}" />
+    <meta name="title" content="{{ post.title }} | {{ site.title }} {{ site.description }}" />
+    <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.title }} {{ site.description }}" />
     <title>{{ post.title }} | {{ site.title }}</title>
     {% else %}
     <meta name="title" content="{{ page.seo }} | {{ site.title }}" />
-    <meta name="description" content="{% if page.seo %} {{ page.seo }} | {% else %} {{ page.title }} | {% endif %}{{ site.description }}" />
+    <meta name="description" content="{% if page.seo %} {{ page.seo }}{% else %} {{ page.title }}{% endif %} | {{ site.title }} {{ site.description }}" />
     <title>{{ page.title }} | {{ site.title }}</title>
     {% endif %}
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
-    <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }} | {{ site.title }}{% endif %}">
+    <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     {% if page.imagePath %}
     <meta property="og:image" content="{{ site.url }}{{ page.imagePath }}" />
@@ -28,7 +28,7 @@
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.title }} {{ site.description }}{% endif %}">
     <meta name="twitter:site" content="{{ site.url }}" />
     <meta name="twitter:creator" content="{{ site.twitter }}">
   
