@@ -9,8 +9,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- weather_marker starts -->
 ### Daily Rundown on Sunday, 31 July 2022
 
-- The average temperature today is 20.57˚C;
-- With highs of 22.44˚C and lows of 16.57˚C.
+- The average temperature today is 20.24˚C;
+- With highs of 21.94˚C and lows of 14.31˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Plank
-- Bench dips
-- Kettlebell swings
+- Walking jacks
+- Calf raises
+- Dead bugs
 
 <!-- workout_marker ends -->
 
@@ -82,8 +82,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 978, using [1, 3, 25, 50, 75, 100]
-- Solution: ( 25 + 1 ) x 75 x 50 / 100 + 3
-- Total: 4 solutions.
+- Target: 784, using [2, 3, 4, 6, 25, 50]
+- Solution: ( 50 + 2 - 6 x 4 ) x ( 25 + 3 )
+- Total: 11 solutions.
 
 <!-- game_marker ends -->
