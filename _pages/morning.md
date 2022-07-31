@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 30 July 2022
+### Daily Rundown on Sunday, 31 July 2022
 
-- The average temperature today is 22.71˚C;
-- With highs of 25.36˚C and lows of 15.08˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 20.57˚C;
+- With highs of 22.44˚C and lows of 16.57˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
+- Plank
 - Bench dips
-- Calf raises
+- Kettlebell swings
 
 <!-- workout_marker ends -->
 
@@ -64,11 +64,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Thiago Silva on Koulibaly partnership, final prep and season target](https://chelseafc.com/en/news/article/thiago-silva-on-koulibaly-partnership-final-prep-and-season-target) (31 Jul)
+- [Bright: It’s going to be one hell of a final](https://chelseafc.com/en/news/article/bright-its-going-to-be-one-hell-of-a-final) (30 Jul)
+- [Match Report: Udinese XI 0 Chelsea XI 2](https://chelseafc.com/en/news/article/match-report-udinese-xi-vs-chelsea-xi) (30 Jul)
+- [Chelsea XI line up vs Udinese XI](https://chelseafc.com/en/news/article/chelsea-xi-line-up-vs-udinese-xi) (30 Jul)
 - [Going for gold: Chelsea Women in major international finals](https://chelseafc.com/en/news/article/going-for-gold-chelsea-women-in-major-international-finals) (30 Jul)
-- [Watch the highlights of Chelsea's win at Udinese](https://chelseafc.com/en/news/article/watch-the-highlights-of-chelseas-win-at-udinese) (29 Jul)
-- [Match report: Udinese 1 Chelsea 3](https://chelseafc.com/en/news/article/match-report-udinese-1-chelsea-3) (29 Jul)
-- [How to Watch: Udinese XI vs Chelsea XI live training match](https://chelseafc.com/en/news/article/how-to-watch-udinese-xi-vs-chelsea-xi-live-training-match) (29 Jul)
-- [Three October games moved](https://chelseafc.com/en/news/article/three-october-games-moved) (29 Jul)
 
 <!-- cfc_marker ends -->
 
@@ -82,8 +82,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 469, using [2, 2, 5, 8, 8, 10]
-- Solution: ( ( 8 - 2 ) x 10 - 2 ) x 8 + 5
-- Total: 1 solutions.
+- Target: 978, using [1, 3, 25, 50, 75, 100]
+- Solution: ( 25 + 1 ) x 75 x 50 / 100 + 3
+- Total: 4 solutions.
 
 <!-- game_marker ends -->
