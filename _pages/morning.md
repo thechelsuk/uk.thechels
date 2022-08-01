@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 31 July 2022
+### Daily Rundown on Monday, 01 August 2022
 
-- The average temperature today is 20.24˚C;
-- With highs of 21.94˚C and lows of 14.31˚C.
-- You can expect light rain for the day.
+- The average temperature today is 23.09˚C;
+- With highs of 25.37˚C and lows of 12.75˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
-- Calf raises
-- Dead bugs
+- Plank
+- Kettlebell swings
+- Bodyweight squats
 
 <!-- workout_marker ends -->
 
@@ -64,26 +64,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Chelsea Women stars help England make history](https://chelseafc.com/en/news/article/chelsea-women-stars-help-england-make-history) (31 Jul)
+- [Kirby: The rewards of those who fought before](https://chelseafc.com/en/news/article/kirby-the-rewards-of-those-who-fought-before) (31 Jul)
+- [Subscribe now to matchday programme for exclusive access and unrivalled coverage](https://chelseafc.com/en/news/article/subscribe-now-to-matchday-programme-for-exclusive-access-and-unrivalled) (31 Jul)
 - [Thiago Silva on Koulibaly partnership, final prep and season target](https://chelseafc.com/en/news/article/thiago-silva-on-koulibaly-partnership-final-prep-and-season-target) (31 Jul)
 - [Bright: It’s going to be one hell of a final](https://chelseafc.com/en/news/article/bright-its-going-to-be-one-hell-of-a-final) (30 Jul)
-- [Match Report: Udinese XI 0 Chelsea XI 2](https://chelseafc.com/en/news/article/match-report-udinese-xi-vs-chelsea-xi) (30 Jul)
-- [Chelsea XI line up vs Udinese XI](https://chelseafc.com/en/news/article/chelsea-xi-line-up-vs-udinese-xi) (30 Jul)
-- [Going for gold: Chelsea Women in major international finals](https://chelseafc.com/en/news/article/going-for-gold-chelsea-women-in-major-international-finals) (30 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > jasper - noun: 1. A person; guy. 2. A wasp. 3. A compact, opaque quartz, typically in dull shades of red, yellow, and brown.
+ > obtrude - verb tr.: To impose one's ideas, opinions, etc. verb intr.: To thrust forward or to intrude.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 784, using [2, 3, 4, 6, 25, 50]
-- Solution: ( 50 + 2 - 6 x 4 ) x ( 25 + 3 )
-- Total: 11 solutions.
+- Target: 426, using [4, 6, 9, 25, 75, 100]
+- Solution: ( 100 + 25 - 75 ) x 9 - 6 x 4
+- Total: 13 solutions.
 
 <!-- game_marker ends -->
