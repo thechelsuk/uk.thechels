@@ -1,12 +1,21 @@
-# Thank you for the pull request
+# Title of the change
 
-We really appreciate your contribution, to ensure your change gets accepted please follow and tick the checklist below.
+Primary Goal:
 
-Many Thanks
+- _a brief summary_
 
----
+## Main changes:
 
-- [ ] Please delete the above message and line before submitting your pull request
-- [ ] Ensure, where possible your change includes tests
-- [ ] Ensure, where possible documentation is updated (readme, wiki)
-- [ ] Commit messages matches the [commit message criteria](COMMIT.md)
+-
+-
+-
+
+## How to test:
+
+- _provide a guide on how to test the changes_
+
+## Final checks 
+
+- [ ] Ensure, where possible, your change includes tests
+- [ ] Ensure, where possible, documentation is updated (readme, doc comments etc)
+- [ ] Commit messages match the [commit message criteria](COMMIT.md)
