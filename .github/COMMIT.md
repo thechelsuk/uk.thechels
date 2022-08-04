@@ -7,3 +7,4 @@
 5. Use the imperative mood in the subject line
 6. Wrap the body at 72 characters
 7. Use the body to explain what and why vs. how
+8. Follow [Convential Commits](https://www.conventionalcommits.org/en/v1.0.0/) notation
