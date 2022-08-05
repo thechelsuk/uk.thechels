@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 04 August 2022
+### Daily Rundown on Friday, 05 August 2022
 
-- The average temperature today is 21.91˚C;
-- With highs of 22.9˚C and lows of 11.84˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 20.86˚C;
+- With highs of 21.83˚C and lows of 11˚C.
+- You can expect clear sky for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
-- Calf raises
 - Kettlebell swings
+- Shadow boxing
+- Dead bugs
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 86.36
-- V3AB.L : 3.89625
-- SPXP.L : 64906.0
-- IMID.L : 175.255
+- VWRL.L : 86.65
+- V3AB.L : 3.907
+- SPXP.L : 64916.5
+- IMID.L : 176.105
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 238.03
+- 0P00013P6I.L : 240.99001
 
 <!-- stocks_marker ends -->
 
@@ -57,33 +57,43 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(19:30) Redcar Athletic - Seaham Red Star</li>
+<li>(19:45) Ascot United - Cribbs</li>
+<li>(19:45) Baffins Milton Rovers - Alton</li>
+<li>(19:45) Bishop's Cleeve - Wantage Town</li>
+<li>(19:45) Market Drayton Town - Shifnal Town</li>
+<li>(19:45) Stansted - Hadley</li>
+<li>(19:45) Thetford Town - Soham Town Rangers</li>
+<li>(19:45) Wroxham - Dereham Town</li>
+<li>(20:00) Crystal Palace - Arsenal</li>
+<li>(20:00) Walsham Le Willows - St Neots Town</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Koulibaly feeling the love from family, team-mates and Chelsea legends](https://chelseafc.com/en/news/article/koulibaly-feeling-the-love-from-family-team-mates-and-chelsea-legends) (03 Aug)
-- [Koulibaly on Rudiger differences, his defensive principles and adaptation time](https://chelseafc.com/en/news/article/koulibaly-on-rudiger-differences-his-defensive-principles-and-adaptation) (03 Aug)
-- [2022/23 Pre-Season Briefing - part one: A new era dawns](https://chelseafc.com/en/news/article/2022-23-pre-season-briefing-part-one-a-new-era-dawns) (03 Aug)
-- [Tougher measures against antisocial behaviour at all grounds](https://chelseafc.com/en/news/article/tougher-measures-against-antisocial-behaviour-at-all-grounds) (03 Aug)
-- [Chelsea sign young goalkeeper Slonina](https://chelseafc.com/en/news/article/chelsea-sign-young-goalkeeper-slonina) (02 Aug)
+- [Miazga crosses the Atlantic](https://chelseafc.com/en/news/article/miazga-crosses-the-atlantic) (05 Aug)
+- [Pre-Match Briefing: Everton vs Chelsea](https://chelseafc.com/en/news/article/pre-match-briefing-everton-vs-chelsea) (05 Aug)
+- [Kicking things off – Chelsea’s earliest league starts](https://chelseafc.com/en/news/article/kicking-things-off-chelseas-earliest-league-starts) (05 Aug)
+- [Azpilicueta commits to Chelsea](https://chelseafc.com/en/news/article/azpilicueta-commits-to-chelsea) (04 Aug)
+- [A decade of Azpilicueta in Blue](https://chelseafc.com/en/news/article/a-decade-of-azpilicueta-in-blue) (04 Aug)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > elute - verb tr.: To wash out or extract, especially with a solvent.
+ > micrify - verb tr.: To make small or insignificant.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 268, using [6, 8, 10, 25, 75, 100]
-- Solution: 10 x 6 + 100 + 75 + 25 + 8
-- Total: 27 solutions.
+- Target: 386, using [1, 2, 9, 10, 25, 50]
+- Solution: ( 50 + 10 - 25 ) x ( 9 + 2 ) + 1
+- Total: 10 solutions.
 
 <!-- game_marker ends -->
