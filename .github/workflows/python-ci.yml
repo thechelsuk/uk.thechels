@@ -31,7 +31,7 @@ jobs:
         working-directory: ./_python
         
       - name: Run Tests
-        uses: pavelzw/pytest-action@v1
+        uses: pavelzw/pytest-action@v2
         with:
           emoji: true
           verbose: false
