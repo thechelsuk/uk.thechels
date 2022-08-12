@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 11 August 2022
+### Daily Rundown on Friday, 12 August 2022
 
-- The average temperature today is 30˚C;
-- With highs of 32.34˚C and lows of 16.09˚C.
+- The average temperature today is 31.12˚C;
+- With highs of 32.94˚C and lows of 17.19˚C.
 - You can expect clear sky for the day.
 
 <!-- weather_marker ends -->
@@ -20,7 +20,7 @@ seo: Good Morning Mat, Here is your daily briefing
 3x AMRAP for 45 seconds, 15 second rest:
 
 - Bench dips
-- Calf raises
+- Dead bugs
 - Kettlebell rows
 
 <!-- workout_marker ends -->
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 87.115
-- V3AB.L : 3.934
-- SPXP.L : 65234.0
-- IMID.L : 178.995
+- VWRL.L : 87.91
+- V3AB.L : 3.97025
+- SPXP.L : 65925.5
+- IMID.L : 180.08501
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 241.39
+- 0P00013P6I.L : 244.47
 
 <!-- stocks_marker ends -->
 
@@ -57,34 +57,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) West Bromwich Albion - Sheffield United</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Koulibaly on his debut and looking ahead to Spurs](https://chelseafc.com/en/news/article/koulibaly-on-his-debut-and-looking-ahead-to-spurs) (11 Aug)
-- [Gareth Southgate visits Cobham](https://chelseafc.com/en/news/article/gareth-southgate-visits-cobham) (10 Aug)
-- [Sarr returns to France on loan](https://chelseafc.com/en/news/article/sarr-returns-to-france-on-loan) (10 Aug)
-- [Gallery: Chelsea's focus turns to Spurs](https://chelseafc.com/en/news/article/gallery-chelseas-focus-turns-to-spurs) (10 Aug)
-- [Chelsea training at Stamford Bridge sold out](https://chelseafc.com/en/news/article/watch-chelsea-train-live-at-stamford-bridge) (10 Aug)
+- [Pre-Match Briefing: Chelsea vs Tottenham](https://chelseafc.com/en/news/article/pre-match-briefing-chelsea-vs-tottenham) (12 Aug)
+- [Sterling reveals conversations with Mount and Tuchel before he signed](https://chelseafc.com/en/news/article/sterling-reveals-conversations-with-mount-and-tuchel-before-he-signed) (12 Aug)
+- [Sterling on what Tuchel wants from him and learning about London](https://chelseafc.com/en/news/article/sterling-on-what-tuchel-wants-from-him-and-learning-about-london) (11 Aug)
+- [Sterling says Chelsea is the perfect fit for him](https://chelseafc.com/en/news/article/sterling-on-why-chelsea-is-the-perfect-fit-for-him) (11 Aug)
+- [Keeping support positive on Sunday](https://chelseafc.com/en/news/article/keeping-support-positive-on-sunday) (11 Aug)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > jackrabbit - noun: Any of various hares having long ears and very long hind legs. verb intr.: To move or begin to move very quickly. adjective: Moving or beginning to move very quickly.
+ > chevachee - noun: An expedition, raid, or campaign.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 269, using [5, 8, 25, 50, 75, 100]
-- Solution: ( 100 + 5 - 8 ) x 50 / 25 + 75
-- Total: 9 solutions.
+- Target: 611, using [7, 7, 10, 50, 75, 100]
+- Solution: ( 50 / 10 + 100 - 7 ) x 7 - 75
+- Total: 3 solutions.
 
 <!-- game_marker ends -->
