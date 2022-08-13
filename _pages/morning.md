@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 12 August 2022
+### Daily Rundown on Saturday, 13 August 2022
 
-- The average temperature today is 31.12˚C;
-- With highs of 32.94˚C and lows of 17.19˚C.
+- The average temperature today is 31.91˚C;
+- With highs of 33.74˚C and lows of 17.05˚C.
 - You can expect clear sky for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
+- Plank
 - Dead bugs
-- Kettlebell rows
+- Bodyweight squats
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 87.91
-- V3AB.L : 3.97025
-- SPXP.L : 65925.5
-- IMID.L : 180.08501
+- VWRL.L : 88.565
+- V3AB.L : 4.003
+- SPXP.L : 66610.5
+- IMID.L : 180.44501
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 244.47
+- 0P00013P6I.L : 245.92999
 
 <!-- stocks_marker ends -->
 
@@ -57,18 +57,25 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(12:30) Aston Villa - Everton</li>
+<li>(15:00) Arsenal - Leicester City</li>
+<li>(15:00) Brighton & Hove Albion - Newcastle United</li>
+<li>(15:00) Manchester City - Bournemouth</li>
+<li>(15:00) Southampton - Leeds United</li>
+<li>(15:00) Wolverhampton Wanderers - Fulham</li>
+<li>(17:30) Brentford - Manchester United</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Pre-Match Briefing: Chelsea vs Tottenham](https://chelseafc.com/en/news/article/pre-match-briefing-chelsea-vs-tottenham) (12 Aug)
-- [Sterling reveals conversations with Mount and Tuchel before he signed](https://chelseafc.com/en/news/article/sterling-reveals-conversations-with-mount-and-tuchel-before-he-signed) (12 Aug)
-- [Sterling on what Tuchel wants from him and learning about London](https://chelseafc.com/en/news/article/sterling-on-what-tuchel-wants-from-him-and-learning-about-london) (11 Aug)
-- [Sterling says Chelsea is the perfect fit for him](https://chelseafc.com/en/news/article/sterling-on-why-chelsea-is-the-perfect-fit-for-him) (11 Aug)
-- [Keeping support positive on Sunday](https://chelseafc.com/en/news/article/keeping-support-positive-on-sunday) (11 Aug)
+- [Tuchel on whether now is a good time to host Tottenham](https://chelseafc.com/en/news/article/tuchel-on-whether-now-is-a-good-time-to-host-tottenham) (13 Aug)
+- [Chelsea trio receive nominations for prestigious awards](https://chelseafc.com/en/news/article/chelsea-trio-receive-nominations-for-prestigious-awards) (12 Aug)
+- [Tuchel on dealing with the heat, Sterling’s best role and countering Tottenham’s counters](https://chelseafc.com/en/news/article/tuchel-on-dealing-with-the-heat-sterlings-best-role-and-countering) (12 Aug)
+- [Watson goes on loan to Charlton Athletic](https://chelseafc.com/en/news/article/watson-goes-on-loan-to-charlton-athletic) (12 Aug)
+- [Gallery: Working in the heat at Cobham](https://chelseafc.com/en/news/article/gallery-working-in-the-heat-at-cobham) (12 Aug)
 
 <!-- cfc_marker ends -->
 
@@ -82,8 +89,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 611, using [7, 7, 10, 50, 75, 100]
-- Solution: ( 50 / 10 + 100 - 7 ) x 7 - 75
-- Total: 3 solutions.
+- Target: 126, using [2, 3, 8, 50, 75, 100]
+- Solution: 8 / 2 + 100 + 75 - 50 - 3
+- Total: 48 solutions.
 
 <!-- game_marker ends -->
