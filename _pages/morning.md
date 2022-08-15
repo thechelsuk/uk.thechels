@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 14 August 2022
+### Daily Rundown on Monday, 15 August 2022
 
-- The average temperature today is 31.69˚C;
-- With highs of 32.75˚C and lows of 18.51˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 23.79˚C;
+- With highs of 26.52˚C and lows of 18.32˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
-- Plank
-- Bench dips
+- Kettlebell swings
+- Dead bugs
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -57,8 +57,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(14:00) Nottingham Forest - West Ham United</li>
-<li>(16:30) Chelsea - Tottenham Hotspur</li>
+<li>(20:00) Liverpool - Crystal Palace</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -66,26 +65,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Azpilicueta: It's about pushing every day](https://chelseafc.com/en/news/article/azpilicueta-its-about-pushing-every-day) (14 Aug)
-- [10 Years a Blue: Emma Hayes](https://chelseafc.com/en/news/article/10-years-a-blue-emma-hayes) (14 Aug)
-- [Tuchel assesses Gallagher’s tough fight for minutes](https://chelseafc.com/en/news/article/tuchel-assesses-gallaghers-tough-fight-for-minutes) (13 Aug)
-- [Opening derby delights at home](https://chelseafc.com/en/news/article/opening-derby-delights-at-home) (13 Aug)
-- [Under-18s report: Arsenal 0 Chelsea 1](https://chelseafc.com/en/news/article/under-18s-report-arsenal-0-chelsea-1) (13 Aug)
+- [Koulibaly on his first goal and coming so close to a ‘beautiful’ home debut](https://chelseafc.com/en/news/article/koulibaly-on-his-first-goal-and-coming-so-close-to-a-beautiful-home-debut) (15 Aug)
+- [Tuchel on a brilliant performance, the officiating and Kante's injury](https://chelseafc.com/en/news/article/tuchel-on-a-brilliant-performance-the-officiating-and-kantes-injury) (14 Aug)
+- [Match report: Chelsea 2 Tottenham Hotspur 2](https://chelseafc.com/en/news/article/match-report-chelsea-2-tottenham-hotspur-2) (14 Aug)
+- [Chelsea line up vs Tottenham](https://chelseafc.com/en/news/article/chelsea-line-up-vs-tottenham-22-23-home) (14 Aug)
+- [Tuchel unwilling to limit ambitions and happy with fantastic signings](https://chelseafc.com/en/news/article/tuchel-unwilling-to-limit-ambitions-and-happy-with-fantastic-signings) (14 Aug)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > chevachee - noun: An expedition, raid, or campaign.
+ > plutography - noun: The genre that chronicles the lifestyles of the rich and famous.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 905, using [1, 4, 5, 8, 9, 75]
-- Solution: ( 9 + 8 - 5 ) x 75 + 4 + 1
-- Total: 10 solutions.
+- Target: 815, using [1, 3, 6, 8, 75, 100]
+- Solution: 100 x 8 + 75 / ( 6 - 1 )
+- Total: 5 solutions.
 
 <!-- game_marker ends -->
