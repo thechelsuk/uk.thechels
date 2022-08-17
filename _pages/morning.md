@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 16 August 2022
+### Daily Rundown on Wednesday, 17 August 2022
 
-- The average temperature today is 18.4˚C;
-- With highs of 19.05˚C and lows of 15.26˚C.
+- The average temperature today is 18.73˚C;
+- With highs of 20.04˚C and lows of 14.98˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,17 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Kettlebell swings
 - Kettlebell rows
-- Dead bugs
-- Shadow boxing
+- Walking jacks
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -45,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 89.34
-- V3AB.L : 4.036
-- SPXP.L : 67310.5
-- IMID.L : 180.95
+- VWRL.L : 89.57
+- V3AB.L : 4.042
+- SPXP.L : 67629.0
+- IMID.L : 181.735
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 249.23
+- 0P00013P6I.L : 251.05
 
 <!-- stocks_marker ends -->
 
@@ -59,10 +57,10 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:45) Sheppey United - Athletic Newham</li>
-<li>(20:00) Bodø/Glimt - Dinamo Zagreb</li>
-<li>(20:00) FC Copenhagen - Trabzonspor</li>
-<li>(20:00) Rangers - PSV Eindhoven</li>
+<li>(17:45) FK Qarabag - Viktoria Plzen</li>
+<li>(19:45) Camberley Town - Shaftesbury Town</li>
+<li>(20:00) Dynamo Kyiv - Benfica</li>
+<li>(20:00) Maccabi Haifa - Red Star Belgrade</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -70,26 +68,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Opening accounts – Stamford Bridge debut scorers](https://chelseafc.com/en/news/article/opening-accounts-stamford-bridge-debut-scorers) (17 Aug)
+- [Thiago Silva: Great performance bodes well for Leeds](https://chelseafc.com/en/news/article/thiago-silva-great-performance-bodes-well-for-leeds) (16 Aug)
+- [Watch Marc Cucurella's first press conference live](https://chelseafc.com/en/news/article/watch-marc-cucurellas-first-press-conference-live) (16 Aug)
+- [Liverpool home ticket sales delayed](https://chelseafc.com/en/news/article/liverpool-home-ticket-sales-delayed) (16 Aug)
 - [Pat Nevin: An exciting debut and a long-serving Blue's best performance](https://chelseafc.com/en/news/article/pat-nevin-an-exciting-debut-and-a-long-serving-blues-best-performance) (16 Aug)
-- [PL2 Report: Chelsea 0 Fulham 3](https://chelseafc.com/en/news/article/pl2-report-chelsea-0-fulham-3) (15 Aug)
-- [PL2 preview: Dion Rankine sets sights on Fulham - tickets sold out](https://chelseafc.com/en/news/article/pl2-preview-dion-rankine-and-our-development-squad-set-their-sights-on) (15 Aug)
-- [The Debrief: Loftus-Cheek offers options as Blues’ dominance goes unrewarded](https://chelseafc.com/en/news/article/the-debrief-loftus-cheek-offers-options-as-blues-dominance-goes-unrewarded) (15 Aug)
-- [Chelsea Here Chelsea There: Anjorin helps Huddersfield to first win, Maatsen tastes maiden defeat](https://chelseafc.com/en/news/article/chelsea-here-chelsea-there-anjorin-helps-huddersfield-to-first-win-while) (15 Aug)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > miniate - verb tr.: 1. To decorate a manuscript, book, etc., with colors, gold, silver, etc. 2. To paint in red, titles, headings, or important parts of a book or manuscript.
+ > irredentist - noun: One advocating the restoration of territory that earlier belonged to one's country.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 532, using [2, 6, 9, 25, 50, 100]
-- Solution: ( 100 - 50 / 25 - 9 ) x 6 - 2
-- Total: 16 solutions.
+- Target: 435, using [3, 3, 7, 9, 50, 75]
+- Solution: ( 9 x 3 + 75 + 50 - 7 ) x 3
+- Total: 17 solutions.
 
 <!-- game_marker ends -->
