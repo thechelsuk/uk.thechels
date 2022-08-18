@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 17 August 2022
+### Daily Rundown on Thursday, 18 August 2022
 
-- The average temperature today is 18.73˚C;
-- With highs of 20.04˚C and lows of 14.98˚C.
-- You can expect light rain for the day.
+- The average temperature today is 23.53˚C;
+- With highs of 24.56˚C and lows of 15.53˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell swings
+- Bench dips
+- Bodyweight squats
 - Kettlebell rows
-- Walking jacks
 
 <!-- workout_marker ends -->
 
@@ -33,9 +33,9 @@ No tasks today
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
 
-- 73 new cases & 1 deaths on 2022-08-10
-- 0 new cases & 0 deaths on 2022-08-09
-- 0 new cases & 0 deaths on 2022-08-08
+- 54 new cases & 5 deaths on 2022-08-17
+- 0 new cases & 0 deaths on 2022-08-16
+- 0 new cases & 0 deaths on 2022-08-15
 
 <!-- c19_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 89.57
-- V3AB.L : 4.042
-- SPXP.L : 67629.0
-- IMID.L : 181.735
+- VWRL.L : 89.13
+- V3AB.L : 4.021
+- SPXP.L : 67444.0
+- IMID.L : 180.36
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 251.05
+- 0P00013P6I.L : 249.35001
 
 <!-- stocks_marker ends -->
 
@@ -57,37 +57,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(17:45) FK Qarabag - Viktoria Plzen</li>
-<li>(19:45) Camberley Town - Shaftesbury Town</li>
-<li>(20:00) Dynamo Kyiv - Benfica</li>
-<li>(20:00) Maccabi Haifa - Red Star Belgrade</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Opening accounts – Stamford Bridge debut scorers](https://chelseafc.com/en/news/article/opening-accounts-stamford-bridge-debut-scorers) (17 Aug)
-- [Thiago Silva: Great performance bodes well for Leeds](https://chelseafc.com/en/news/article/thiago-silva-great-performance-bodes-well-for-leeds) (16 Aug)
-- [Watch Marc Cucurella's first press conference live](https://chelseafc.com/en/news/article/watch-marc-cucurellas-first-press-conference-live) (16 Aug)
-- [Liverpool home ticket sales delayed](https://chelseafc.com/en/news/article/liverpool-home-ticket-sales-delayed) (16 Aug)
-- [Pat Nevin: An exciting debut and a long-serving Blue's best performance](https://chelseafc.com/en/news/article/pat-nevin-an-exciting-debut-and-a-long-serving-blues-best-performance) (16 Aug)
+- [Cucurella on his Stamford Bridge prophecy, Chilwell competition, Azpi’s help and playing in a back three](https://chelseafc.com/en/news/article/cucurella-on-his-stamford-bridge-prophecy-chilwell-competition-azpis-help) (18 Aug)
+- [Cucurella reveals first meeting with Tuchel and aims high](https://chelseafc.com/en/news/article/cucurella-reveals-first-meeting-with-tuchel-and-aims-high) (17 Aug)
+- [Cucurella on 𝘵𝘩𝘢𝘵 hair pull and his best position](https://chelseafc.com/en/news/article/cucurella-on-that-hair-pull-and-his-best-position) (17 Aug)
+- [Chelsea Women vs Lyon match preview: Kick-off time, how to watch live and much more!](https://chelseafc.com/en/news/article/chelsea-women-vs-lyon-match-preview-kick-off-time-how-to-watch-live) (17 Aug)
+- [Giles Smith left proud but with plenty to ponder after galling derby finale](https://chelseafc.com/en/news/article/giles-smith-left-proud-but-with-plenty-to-ponder-after-galling-derby-finale) (17 Aug)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > irredentist - noun: One advocating the restoration of territory that earlier belonged to one's country.
+ > recurse - verb tr., intr.: 1. To describe, define, or perform something in terms of itself. 2. To perform an operation by repeated application of a technique, such that the results of the first step are put through the same technique again.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 435, using [3, 3, 7, 9, 50, 75]
-- Solution: ( 9 x 3 + 75 + 50 - 7 ) x 3
-- Total: 17 solutions.
+- Target: 760, using [7, 8, 9, 25, 75, 100]
+- Solution: ( 100 + 7 - 75 / 25 - 9 ) x 8
+- Total: 10 solutions.
 
 <!-- game_marker ends -->
