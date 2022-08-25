@@ -3406,3 +3406,25 @@
       thumbnail: "https://books.google.com/books/content?id=K4k4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Long_Game.html?hl=&id=K4k4EAAAQBAJ"
+  - isbn: "9780367339241"
+    dateFinished: "2022-08-25"
+    notes: "9780367339241"
+    title: "Transactional Analysis Coaching"
+    authors:
+      - "Karen Pratt"
+    publishedDate: "2021"
+    description: "This important book distils the essence of developmental Transactional Analysis (TA) frameworks that are most useful to bring alive professional coaching competencies. Karen Pratt offers clear outlines of TA frameworks as well as describing how they are applied in coaching, with snippets of coaching conversations as illustrations of the theory in practice. Pratt highlights key TA frameworks in enough detail to be easily grasped but with a focus on application in coaching and other developmental conversations. A TA approach powerfully guides coaches in their listening and questioning. TA is not used as a coaching 'technique' - it offers psychological understanding of human beings and the meaning they make of who they are in the world. Such awareness is key for both professionals and clients in meaningful partnerships for development. Transactional Analysis Coaching will be key reading for professionals working within present-centered contracts for change - coaches, trainers, facilitators, supervisors, teachers, mentors and managers - seeking to understand how TA can impact their development. It will be of great interest to coaches in training and will provide a useful resource for clients in their ongoing development."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0367339242"
+      - type: "ISBN_13"
+        identifier: "9780367339241"
+    pageCount: 136
+    printType: "BOOK"
+    categories:
+      - "Transactional analysis"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=QD_FzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=QD_FzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Transactional_Analysis_Coaching.html?hl=&id=QD_FzQEACAAJ"
