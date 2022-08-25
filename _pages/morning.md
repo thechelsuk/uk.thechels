@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 24 August 2022
+### Daily Rundown on Thursday, 25 August 2022
 
-- The average temperature today is 23.37˚C;
-- With highs of 23.8˚C and lows of 16.49˚C.
+- The average temperature today is 16.98˚C;
+- With highs of 19.83˚C and lows of 14.69˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Dead bugs
-- Calf raises
+- Bodyweight squats
 - Bench dips
+- Shadow boxing
 
 <!-- workout_marker ends -->
 
@@ -33,9 +33,9 @@ No tasks today
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
 
-- 54 new cases & 5 deaths on 2022-08-17
-- 0 new cases & 0 deaths on 2022-08-16
-- 0 new cases & 0 deaths on 2022-08-15
+- 56 new cases & 2 deaths on 2022-08-24
+- 0 new cases & 0 deaths on 2022-08-23
+- 0 new cases & 0 deaths on 2022-08-22
 
 <!-- c19_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 87.965
-- V3AB.L : 3.946
-- SPXP.L : 66393.0
-- IMID.L : 174.925
+- VWRL.L : 88.66
+- V3AB.L : 3.977
+- SPXP.L : 66963.5
+- IMID.L : 175.565
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 247.19
+- 0P00013P6I.L : 246.46001
 
 <!-- stocks_marker ends -->
 
@@ -57,52 +57,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:30) Clevedon Town - Cirencester Town</li>
-<li>(19:30) Larkhall Athletic - Cowes Sports</li>
-<li>(19:30) Sevenoaks Town - Merstham</li>
-<li>(19:45) Albion Sports - Avro</li>
-<li>(19:45) City of Liverpool - Ramsbottom United</li>
-<li>(19:45) Forest Green Rovers - Brighton & Hove Albion</li>
-<li>(19:45) Grays Athletic - Stotfold</li>
-<li>(19:45) Handsworth - Cleethorpes Town</li>
-<li>(19:45) Leeds United - Barnsley</li>
-<li>(19:45) Roman Glass St George - Easington Sports</li>
-<li>(19:45) St Panteleimon - Leverstock Green</li>
-<li>(19:45) Takeley - Romford</li>
-<li>(19:45) Tranmere Rovers - Newcastle United</li>
-<li>(19:45) Wincanton Town - Camberley Town</li>
-<li>(19:45) Worcester Raiders - Malvern Town</li>
-<li>(19:45) Wycombe Wanderers - Bristol City</li>
-<li>(20:00) Dinamo Zagreb - Bodø/Glimt</li>
-<li>(20:00) PSV Eindhoven - Rangers</li>
-<li>(20:00) Trabzonspor - FC Copenhagen</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Eden Hazard v Man Utd - 18 April 2015 - Goal of the Day](https://chelseafc.com/en/video/eden-hazard-v-man-utd-or-18-april-2015-or-goal-of-the-day) (24 Aug)
-- [Emerson heads east to West Ham](https://chelseafc.com/en/news/article/emerson-heads-east-to-west-ham) (23 Aug)
-- [Tuchel and Azpilicueta address fans at open training](https://chelseafc.com/en/news/article/tuchel-and-azpilicueta-address-fans-at-open-training) (23 Aug)
-- [Statement by Ann-Katrin Berger](https://chelseafc.com/en/news/article/statement-by-ann-katrin-berger) (23 Aug)
-- [Looking sharp in training! 💪](https://chelseafc.com/en/video/watch-the-players-train-at-stamford-bridge) (23 Aug)
+- [Who can Chelsea get in the Champions League draw?](https://chelseafc.com/en/news/article/who-can-chelsea-get-in-the-champions-league-draw) (25 Aug)
+- [Pedro v Aston Villa - 2 April 2016 - Goal of the Day](https://chelseafc.com/en/video/pedro-v-aston-villa-or-2-april-2016-or-goal-of-the-day) (25 Aug)
+- [Big clash beckons in Carabao Cup third round](https://chelseafc.com/en/news/article/carabao-cup-third-round-draw-2022) (24 Aug)
+- [A fitness update from Kova 🎤](https://chelseafc.com/en/video/this-league-is-the-toughest-in-the-world-were-ready-to-fight) (24 Aug)
+- [Ticket exchange update](https://chelseafc.com/en/news/article/ticket-exchange-update) (24 Aug)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > King Kong - noun: Something or someone of great size, strength, etc. adjective: Huge.
+ > Mad Max - adjective: Dystopian, post-apocalyptic, anarchic.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 351, using [4, 6, 6, 10, 25, 100]
-- Solution: ( ( 25 - 4 ) x 100 + 6 ) / 6
-- Total: 13 solutions.
+- Target: 846, using [3, 5, 9, 25, 50, 100]
+- Solution: ( 50 / 25 + 100 - 5 - 3 ) x 9
+- Total: 5 solutions.
 
 <!-- game_marker ends -->
