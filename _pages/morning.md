@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 27 August 2022
+### Daily Rundown on Sunday, 28 August 2022
 
-- The average temperature today is 22.14˚C;
-- With highs of 23.03˚C and lows of 13.56˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 22.05˚C;
+- With highs of 22.82˚C and lows of 13.59˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
+- Shadow boxing
 - Kettlebell swings
-- Kettlebell rows
+- Bodyweight squats
 
 <!-- workout_marker ends -->
 
@@ -57,13 +57,9 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Southampton - Manchester United</li>
-<li>(15:00) Brentford - Everton</li>
-<li>(15:00) Brighton & Hove Albion - Leeds United</li>
-<li>(15:00) Chelsea - Leicester City</li>
-<li>(15:00) Liverpool - Bournemouth</li>
-<li>(15:00) Manchester City - Crystal Palace</li>
-<li>(17:30) Arsenal - Fulham</li>
+<li>(14:00) Aston Villa - West Ham United</li>
+<li>(14:00) Wolverhampton Wanderers - Newcastle United</li>
+<li>(16:30) Nottingham Forest - Tottenham Hotspur</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -71,11 +67,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Tuchel explains recent preference for Loftus-Cheek and considers consequences of absent Kante](https://chelseafc.com/en/news/article/tuchel-explains-recent-preference-for-loftus-cheek-and-considers) (27 Aug)
-- [Chelsea 2-2 Manchester City - PL2 Highlights](https://chelseafc.com/en/video/chelsea-2-2-manchester-city-or-pl2-highlights) (26 Aug)
-- [PL2 Report: Chelsea 2 Manchester City 2](https://chelseafc.com/en/news/article/pl2-report-chelsea-2-manchester-city-2) (26 Aug)
-- [Open training at Stamford Bridge & hard yards at Cobham 🤩 - Chelsea Unseen](https://chelseafc.com/en/video/open-training-at-stamford-bridge-and-hard-yards-at-cobham-or-chelsea-unseen) (26 Aug)
-- [Tuchel assesses UCL draw and reveals why he's looking forward to transfer deadline](https://chelseafc.com/en/news/article/tuchel-assesses-champions-league-draw) (26 Aug)
+- [Sterling: The boys deserved that win!](https://chelseafc.com/en/news/article/sterling-the-boys-deserved-that-win) (28 Aug)
+- [Chelsea 2-1 Leicester City - Premier League Extended Highlights](https://chelseafc.com/en/video/chelsea-2-1-leicester-city-or-premier-league-extended-highlights) (27 Aug)
+- [📺 Highlights from our win over Leicester!](https://chelseafc.com/en/video/chelsea-2-1-leicester-city-or-premier-league-highlights) (27 Aug)
+- ['Our belief and discipline pleased me'](https://chelseafc.com/en/video/our-belief-and-discipline-pleased-me-the-most-thomas-tuchel-post-match) (27 Aug)
+- [Havertz's post-match take! 👌](https://chelseafc.com/en/video/this-win-will-give-us-a-lot-of-confidence-kai-havertz-post-match) (27 Aug)
 
 <!-- cfc_marker ends -->
 
@@ -89,8 +85,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 833, using [6, 7, 8, 10, 25, 50]
-- Solution: ( 25 - 8 ) x 50 - 10 - 7
-- Total: 17 solutions.
+- Target: 506, using [2, 8, 9, 25, 75, 100]
+- Solution: ( 100 + 75 ) x 9 x 8 / 25 + 2
+- Total: 7 solutions.
 
 <!-- game_marker ends -->
