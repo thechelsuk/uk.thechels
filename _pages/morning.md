@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 28 August 2022
+### Daily Rundown on Monday, 29 August 2022
 
-- The average temperature today is 22.05˚C;
-- With highs of 22.82˚C and lows of 13.59˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 22.4˚C;
+- With highs of 23.41˚C and lows of 14.19˚C.
+- You can expect few clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
+- Kettlebell rows
 - Kettlebell swings
-- Bodyweight squats
+- Plank
 
 <!-- workout_marker ends -->
 
@@ -46,7 +46,7 @@ No tasks today
 - VWRL.L : 88.27
 - V3AB.L : 3.95425
 - SPXP.L : 66558.0
-- IMID.L : 176.37
+- IMID.L : 174.395
 - 0P0001K1DP.L : nan
 - 0P00013P6I.L : 249.32001
 
@@ -57,36 +57,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(14:00) Aston Villa - West Ham United</li>
-<li>(14:00) Wolverhampton Wanderers - Newcastle United</li>
-<li>(16:30) Nottingham Forest - Tottenham Hotspur</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Sterling: The boys deserved that win!](https://chelseafc.com/en/news/article/sterling-the-boys-deserved-that-win) (28 Aug)
-- [Chelsea 2-1 Leicester City - Premier League Extended Highlights](https://chelseafc.com/en/video/chelsea-2-1-leicester-city-or-premier-league-extended-highlights) (27 Aug)
-- [📺 Highlights from our win over Leicester!](https://chelseafc.com/en/video/chelsea-2-1-leicester-city-or-premier-league-highlights) (27 Aug)
-- ['Our belief and discipline pleased me'](https://chelseafc.com/en/video/our-belief-and-discipline-pleased-me-the-most-thomas-tuchel-post-match) (27 Aug)
-- [Havertz's post-match take! 👌](https://chelseafc.com/en/video/this-win-will-give-us-a-lot-of-confidence-kai-havertz-post-match) (27 Aug)
+- [Happy birthday, boss!](https://chelseafc.com/en/video/happy-birthday-boss) (29 Aug)
+- [Tuchel on Sterling: ‘He’s here to score and he’s never shy to say it’](https://chelseafc.com/en/news/article/tuchel-on-sterling-hes-here-to-score-and-hes-never-shy-to-say-it) (29 Aug)
+- [The Debrief: Flexible formations and width help Blues cope a man down](https://chelseafc.com/en/news/article/the-debrief-flexible-formations-and-natural-width-help-blues-cope) (28 Aug)
+- [Women's match report: Chelsea 2 Tottenham 0](https://chelseafc.com/en/news/article/match-report-chelsea-women-2-tottenham-women-0) (28 Aug)
+- [We only need 10 men](https://chelseafc.com/en/news/article/we-only-need-10-men) (28 Aug)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > Godzilla - noun: 1. Someone or something of enormous size. 2. Someone or something fierce, frightening, monstrous, etc.
+ > rose-colored - adjective: 1. Optimistic or cheerful, especially naively or to an unrealistic degree. Often used in the form "to see through rose-colored glasses". 2. Of a bright pink or red color.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 506, using [2, 8, 9, 25, 75, 100]
-- Solution: ( 100 + 75 ) x 9 x 8 / 25 + 2
-- Total: 7 solutions.
+- Target: 410, using [1, 7, 8, 10, 50, 75]
+- Solution: ( 75 + 8 + 7 + 1 - 50 ) x 10
+- Total: 20 solutions.
 
 <!-- game_marker ends -->
