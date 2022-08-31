@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 30 August 2022
+### Daily Rundown on Wednesday, 31 August 2022
 
-- The average temperature today is 21.16˚C;
-- With highs of 21.28˚C and lows of 12.56˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 22.74˚C;
+- With highs of 24.07˚C and lows of 12.32˚C.
+- You can expect few clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,17 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Calf raises
 - Plank
-- Shadow boxing
+- Bench dips
+- Calf raises
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -45,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 88.27
-- V3AB.L : 3.95425
-- SPXP.L : 66558.0
-- IMID.L : 174.395
-- 0P0001K1DP.L : 12824.91992
-- 0P00013P6I.L : 249.32001
+- VWRL.L : 86.97
+- V3AB.L : 3.889
+- SPXP.L : 65165.5
+- IMID.L : 170.17999
+- 0P0001K1DP.L : nan
+- 0P00013P6I.L : 243.87
 
 <!-- stocks_marker ends -->
 
@@ -59,11 +57,11 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:30) Crystal Palace - Brentford</li>
-<li>(19:30) Fulham - Brighton & Hove Albion</li>
-<li>(19:45) Lowestoft Town - Haverhill Rovers</li>
-<li>(19:45) Southampton - Chelsea</li>
-<li>(20:00) Leeds United - Everton</li>
+<li>(19:30) Arsenal - Aston Villa</li>
+<li>(19:30) Bournemouth - Wolverhampton Wanderers</li>
+<li>(19:30) Manchester City - Nottingham Forest</li>
+<li>(19:45) West Ham United - Tottenham Hotspur</li>
+<li>(20:00) Liverpool - Newcastle United</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -71,26 +69,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Olivier Giroud v Newcastle United - 15 February 2021 - Goal of the Day](https://chelseafc.com/en/video/olivier-giroud-vs-newcastle-united---15th-february-2021---goal-o-skjvhera) (30 Aug)
-- [Facts at your fingertips: Southampton vs Chelsea](https://chelseafc.com/en/news/article/facts-at-your-fingertips-southampton-vs-chelsea) (29 Aug)
-- [Tuchel on how he is dealing with Chelsea players linked with a move away](https://chelseafc.com/en/news/article/tuchel-on-how-he-is-dealing-with-chelsea-players-linked-with-a-move-away) (29 Aug)
-- [Barkley departs](https://chelseafc.com/en/news/article/barkley-departs) (29 Aug)
-- [West Ham kick-off confirmed](https://chelseafc.com/en/news/article/west-ham-kick-off-confirmed) (29 Aug)
+- [Tuchel: It’s too easy to push us off track](https://chelseafc.com/en/news/article/tuchel-its-too-easy-to-push-us-off-track) (31 Aug)
+- [Southampton 2-1 Chelsea - Premier League Highlights](https://chelseafc.com/en/video/southampton-2-1-chelsea-premier-league-highlights) (30 Aug)
+- ['It’s not enough, we need to step up'](https://chelseafc.com/en/video/tuchel-post-match-southampton) (30 Aug)
+- [Match report: Southampton 2 Chelsea 1](https://chelseafc.com/en/news/article/match-report-southampton-2-chelsea-1) (30 Aug)
+- [Chelsea line up vs Southampton](https://chelseafc.com/en/news/article/chelsea-line-up-vs-southampton-22-23) (30 Aug)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > Taj Mahal - noun: Something, especially a building, that is luxurious or an extraordinary example of its kind.
+ > hotheaded - adjective: 1. Easily angered. 2. Very angry. 3. Rash.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 326, using [1, 3, 5, 10, 25, 75]
-- Solution: ( 75 + 25 + 10 ) x 3 + 1 - 5
-- Total: 12 solutions.
+- Target: 100, using [5, 7, 7, 9, 25, 75]
+- Solution: 75 + 25 + 9 + 5 - 7 - 7
+- Total: 87 solutions.
 
 <!-- game_marker ends -->
