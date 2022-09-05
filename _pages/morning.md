@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 04 September 2022
+### Daily Rundown on Monday, 05 September 2022
 
-- The average temperature today is 22.16˚C;
-- With highs of 23.29˚C and lows of 16.12˚C.
-- You can expect light rain for the day.
+- The average temperature today is 23.66˚C;
+- With highs of 24.43˚C and lows of 14.86˚C.
+- You can expect heavy intensity rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Dead bugs
-- Plank
+- Calf raises
+- Bench dips
 - Kettlebell rows
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -57,10 +58,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(13:00) Enfield - AFC Rushden & Diamonds</li>
-<li>(14:00) Brighton & Hove Albion - Leicester City</li>
-<li>(14:00) Holyport - Binfield</li>
-<li>(16:30) Manchester United - Arsenal</li>
+<li>(19:45) Beaconsfield Town FC - Walton & Hersham</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -68,26 +66,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Tuchel reveals why Kepa stayed and how he’s ready to play](https://chelseafc.com/en/news/article/tuchel-reveals-why-kepa-stayed-and-how-hes-ready-to-play) (05 Sep)
+- [The Debrief: Match-changing subs help Blues win it late](https://chelseafc.com/en/news/article/the-debrief-match-changing-subs-help-blues-win-it-late) (04 Sep)
+- [Everton 0-2 Chelsea - Premier League 2 Highlights](https://chelseafc.com/en/video/everton-0-2-chelsea-or-premier-league-2-highlights) (04 Sep)
+- [Chilwell on his inspired equaliser and positive impact](https://chelseafc.com/en/news/article/chilwell-on-his-inspired-equaliser-and-positive-impact) (04 Sep)
 - [Havertz: Late winners are the best](https://chelseafc.com/en/news/article/havertz-late-winners-are-the-best) (04 Sep)
-- [Chelsea 2-1 West Ham - Extended Premier League Highlights](https://chelseafc.com/en/video/chelsea-2-1-west-ham-or-extended-premier-league-highlights) (03 Sep)
-- [Chelsea 2-1 West Ham - Premier League Full Match](https://chelseafc.com/en/video/chelsea-2-1-west-ham-or-premier-league-full-match) (03 Sep)
-- [Chelsea 2-1 West Ham - Premier League Highlights](https://chelseafc.com/en/video/chelsea-2-1-west-ham-or-premier-league-highlights) (03 Sep)
-- [Tuchel on restarting our season against West Ham and rebuilding belief](https://chelseafc.com/en/news/article/tuchel-on-restarting-our-season-against-west-ham-and-rebuilding-belief) (03 Sep)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > third rail - noun: 1. A topic believed to be too controversial or charged to discuss. 2. A rail that runs near a railroad track to supply high-voltage power to an electric train.
+ > roseate - adjective: 1. Like a rose, especially in color: pink, red, etc. 2. Bright; favorable; promising. 3. Unreasonably optimistic.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 184, using [3, 6, 7, 8, 9, 10]
-- Solution: ( 10 + 9 + 7 + 3 - 6 ) x 8
-- Total: 61 solutions.
+- Target: 131, using [4, 9, 10, 25, 75, 100]
+- Solution: 100 + 75 - 25 - 10 - 9
+- Total: 36 solutions.
 
 <!-- game_marker ends -->
