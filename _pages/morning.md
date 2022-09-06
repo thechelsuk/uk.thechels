@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 05 September 2022
+### Daily Rundown on Tuesday, 06 September 2022
 
-- The average temperature today is 23.66˚C;
-- With highs of 24.43˚C and lows of 14.86˚C.
-- You can expect heavy intensity rain for the day.
+- The average temperature today is 20.29˚C;
+- With highs of 21.64˚C and lows of 14.1˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Walking jacks
+- Plank
 - Calf raises
-- Bench dips
-- Kettlebell rows
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
@@ -44,12 +45,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 87.59
-- V3AB.L : 3.9205
-- SPXP.L : 66017.0
-- IMID.L : 170.315
+- VWRL.L : 86.65
+- V3AB.L : 3.873
+- SPXP.L : 65127.5
+- IMID.L : 167.62
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 241.75
+- 0P00013P6I.L : 241.7
 
 <!-- stocks_marker ends -->
 
@@ -58,7 +59,33 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:45) Beaconsfield Town FC - Walton & Hersham</li>
+<li>(17:45) Borussia Dortmund - FC Copenhagen</li>
+<li>(17:45) Dinamo Zagreb - Chelsea</li>
+<li>(19:30) Shepton Mallet - Blackfield & Langley</li>
+<li>(19:45) AFC Stoneham - North Leigh</li>
+<li>(19:45) Ashington A.F.C. - Ashton United</li>
+<li>(19:45) Beckenham Town - East Grinstead Town</li>
+<li>(19:45) Coalville Town - Shepshed Dynamo</li>
+<li>(19:45) Corinthian - Metropolitan Police</li>
+<li>(19:45) Dorchester Town - Wimborne Town</li>
+<li>(19:45) Hanley Town - Stourbridge</li>
+<li>(19:45) Highgate United - Barwell</li>
+<li>(19:45) Lancaster City - Stalybridge Celtic</li>
+<li>(19:45) Lewes - Sheppey United</li>
+<li>(19:45) Plymouth Parkway - Didcot Town</li>
+<li>(19:45) Pontefract Collieries - Charnock Richard</li>
+<li>(19:45) Potters Bar Town - Aveley</li>
+<li>(19:45) Rugby Town - Grantham Town</li>
+<li>(19:45) Sholing - Slimbridge</li>
+<li>(19:45) Spelthorne Sports - Fisher</li>
+<li>(19:45) Stourport Swifts - Lichfield City</li>
+<li>(19:45) Warrington Town - Morpeth Town</li>
+<li>(20:00) Benfica - Maccabi Haifa</li>
+<li>(20:00) Celtic - Real Madrid</li>
+<li>(20:00) FC Red Bull Salzburg - AC Milan</li>
+<li>(20:00) Paris Saint Germain - Juventus</li>
+<li>(20:00) RB Leipzig - Shakhtar Donetsk</li>
+<li>(20:00) Sevilla - Manchester City</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -66,26 +93,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Tuchel reveals why Kepa stayed and how he’s ready to play](https://chelseafc.com/en/news/article/tuchel-reveals-why-kepa-stayed-and-how-hes-ready-to-play) (05 Sep)
-- [The Debrief: Match-changing subs help Blues win it late](https://chelseafc.com/en/news/article/the-debrief-match-changing-subs-help-blues-win-it-late) (04 Sep)
-- [Everton 0-2 Chelsea - Premier League 2 Highlights](https://chelseafc.com/en/video/everton-0-2-chelsea-or-premier-league-2-highlights) (04 Sep)
-- [Chilwell on his inspired equaliser and positive impact](https://chelseafc.com/en/news/article/chilwell-on-his-inspired-equaliser-and-positive-impact) (04 Sep)
-- [Havertz: Late winners are the best](https://chelseafc.com/en/news/article/havertz-late-winners-are-the-best) (04 Sep)
+- ['I want the win, nothing else' - Tuchel Exclusive](https://chelseafc.com/en/video/tuchel-exclusive-ucl-chelsea) (06 Sep)
+- [Pre-Match Briefing: Dinamo Zagreb vs Chelsea](https://chelseafc.com/en/news/article/pre-match-briefing-dinamo-zagreb-vs-chelsea) (06 Sep)
+- [UYL preview: UEFA Youth League returns and our young Blues look to start strong](https://chelseafc.com/en/news/article/uyl-preview-uefa-youth-league-returns-and-our-young-blues-look-to-start) (05 Sep)
+- [Gallery: Blues train in Croatia ahead of UCL opener](https://chelseafc.com/en/news/article/gallery-blues-train-in-croatia-ahead-of-ucl-opener) (05 Sep)
+- [Tuchel reacts to James’s new contract and Kovacic’s Zagreb return](https://chelseafc.com/en/news/article/tuchel-reacts-to-jamess-new-contract-and-kovacics-zagreb-return) (05 Sep)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > roseate - adjective: 1. Like a rose, especially in color: pink, red, etc. 2. Bright; favorable; promising. 3. Unreasonably optimistic.
+ > daisy-chain - verb tr., intr.: To connect in a sequence, especially in a way such that one element latches on to the next (instead of being connected by another medium, such as a piece of thread). noun: An interlinked sequence of things, events, people, etc.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 131, using [4, 9, 10, 25, 75, 100]
-- Solution: 100 + 75 - 25 - 10 - 9
-- Total: 36 solutions.
+- Target: 453, using [2, 3, 4, 10, 50, 100]
+- Solution: ( 10 / 2 + 100 + 50 - 4 ) x 3
+- Total: 23 solutions.
 
 <!-- game_marker ends -->
