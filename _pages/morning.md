@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 06 September 2022
+### Daily Rundown on Wednesday, 07 September 2022
 
-- The average temperature today is 20.29˚C;
-- With highs of 21.64˚C and lows of 14.1˚C.
-- You can expect moderate rain for the day.
+- The average temperature today is 18.52˚C;
+- With highs of 19.89˚C and lows of 13.58˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -20,16 +20,14 @@ seo: Good Morning Mat, Here is your daily briefing
 3x AMRAP for 45 seconds, 15 second rest:
 
 - Walking jacks
+- Kettlebell swings
 - Plank
-- Calf raises
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -45,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 86.65
-- V3AB.L : 3.873
-- SPXP.L : 65127.5
-- IMID.L : 167.62
+- VWRL.L : 86.17
+- V3AB.L : 3.849
+- SPXP.L : 64819.5
+- IMID.L : 166.75999
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 241.7
+- 0P00013P6I.L : 240.7
 
 <!-- stocks_marker ends -->
 
@@ -59,33 +57,18 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(17:45) Borussia Dortmund - FC Copenhagen</li>
-<li>(17:45) Dinamo Zagreb - Chelsea</li>
-<li>(19:30) Shepton Mallet - Blackfield & Langley</li>
-<li>(19:45) AFC Stoneham - North Leigh</li>
-<li>(19:45) Ashington A.F.C. - Ashton United</li>
-<li>(19:45) Beckenham Town - East Grinstead Town</li>
-<li>(19:45) Coalville Town - Shepshed Dynamo</li>
-<li>(19:45) Corinthian - Metropolitan Police</li>
-<li>(19:45) Dorchester Town - Wimborne Town</li>
-<li>(19:45) Hanley Town - Stourbridge</li>
-<li>(19:45) Highgate United - Barwell</li>
-<li>(19:45) Lancaster City - Stalybridge Celtic</li>
-<li>(19:45) Lewes - Sheppey United</li>
-<li>(19:45) Plymouth Parkway - Didcot Town</li>
-<li>(19:45) Pontefract Collieries - Charnock Richard</li>
-<li>(19:45) Potters Bar Town - Aveley</li>
-<li>(19:45) Rugby Town - Grantham Town</li>
-<li>(19:45) Sholing - Slimbridge</li>
-<li>(19:45) Spelthorne Sports - Fisher</li>
-<li>(19:45) Stourport Swifts - Lichfield City</li>
-<li>(19:45) Warrington Town - Morpeth Town</li>
-<li>(20:00) Benfica - Maccabi Haifa</li>
-<li>(20:00) Celtic - Real Madrid</li>
-<li>(20:00) FC Red Bull Salzburg - AC Milan</li>
-<li>(20:00) Paris Saint Germain - Juventus</li>
-<li>(20:00) RB Leipzig - Shakhtar Donetsk</li>
-<li>(20:00) Sevilla - Manchester City</li>
+<li>(17:45) Ajax - Rangers</li>
+<li>(17:45) Eintracht Frankfurt - Sporting Lisbon</li>
+<li>(19:45) Cray Wanderers - Bognor Regis Town</li>
+<li>(19:45) Gosport Borough - Hamworthy United</li>
+<li>(19:45) Heaton Stannington - Clitheroe</li>
+<li>(19:45) Swindon Supermarine - Willand Rovers</li>
+<li>(20:00) Atlético Madrid - FC Porto</li>
+<li>(20:00) Barcelona - Viktoria Plzen</li>
+<li>(20:00) Club Bruges - Bayer 04 Leverkusen</li>
+<li>(20:00) Inter Milan - Bayern Munich</li>
+<li>(20:00) Napoli - Liverpool</li>
+<li>(20:00) Tottenham Hotspur - Marseille</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -93,26 +76,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- ['I want the win, nothing else' - Tuchel Exclusive](https://chelseafc.com/en/video/tuchel-exclusive-ucl-chelsea) (06 Sep)
-- [Pre-Match Briefing: Dinamo Zagreb vs Chelsea](https://chelseafc.com/en/news/article/pre-match-briefing-dinamo-zagreb-vs-chelsea) (06 Sep)
-- [UYL preview: UEFA Youth League returns and our young Blues look to start strong](https://chelseafc.com/en/news/article/uyl-preview-uefa-youth-league-returns-and-our-young-blues-look-to-start) (05 Sep)
-- [Gallery: Blues train in Croatia ahead of UCL opener](https://chelseafc.com/en/news/article/gallery-blues-train-in-croatia-ahead-of-ucl-opener) (05 Sep)
-- [Tuchel reacts to James’s new contract and Kovacic’s Zagreb return](https://chelseafc.com/en/news/article/tuchel-reacts-to-jamess-new-contract-and-kovacics-zagreb-return) (05 Sep)
+- [Tuchel: We lacked a lot](https://chelseafc.com/en/news/article/tuchel-we-lacked-a-lot) (06 Sep)
+- [Dinamo Zagreb 1-0 Chelsea - Champions League Highlights](https://chelseafc.com/en/video/dinamo-zagreb-1-0-chelsea-champions-league-highlights) (06 Sep)
+- [🎬 Tuchel on Dinamo defeat](https://chelseafc.com/en/video/thomas-tuchel-reflects-on-defeat-at-dinamo-zagreb) (06 Sep)
+- [Match report: Dinamo Zagreb 1 Chelsea 0](https://chelseafc.com/en/news/article/match-report-dinamo-zagreb-1-chelsea-0) (06 Sep)
+- [Chelsea line up vs Dinamo Zagreb](https://chelseafc.com/en/news/article/chelsea-line-up-vs-dinamo-zagreb) (06 Sep)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > daisy-chain - verb tr., intr.: To connect in a sequence, especially in a way such that one element latches on to the next (instead of being connected by another medium, such as a piece of thread). noun: An interlinked sequence of things, events, people, etc.
+ > orchidacity - noun: Showiness.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 453, using [2, 3, 4, 10, 50, 100]
-- Solution: ( 10 / 2 + 100 + 50 - 4 ) x 3
-- Total: 23 solutions.
+- Target: 911, using [4, 6, 7, 50, 75, 100]
+- Solution: 100 x 75 x 6 / 50 + 7 + 4
+- Total: 3 solutions.
 
 <!-- game_marker ends -->
