@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 07 September 2022
+### Daily Rundown on Thursday, 08 September 2022
 
-- The average temperature today is 18.52˚C;
-- With highs of 19.89˚C and lows of 13.58˚C.
+- The average temperature today is 16.87˚C;
+- With highs of 18.86˚C and lows of 12.86˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
-- Kettlebell swings
 - Plank
+- Kettlebell swings
+- Dead bugs
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 86.17
-- V3AB.L : 3.849
-- SPXP.L : 64819.5
-- IMID.L : 166.75999
+- VWRL.L : 86.59
+- V3AB.L : 3.8795
+- SPXP.L : 65473.0
+- IMID.L : 166.92999
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 240.7
+- 0P00013P6I.L : 240.75999
 
 <!-- stocks_marker ends -->
 
@@ -57,45 +57,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(17:45) Ajax - Rangers</li>
-<li>(17:45) Eintracht Frankfurt - Sporting Lisbon</li>
-<li>(19:45) Cray Wanderers - Bognor Regis Town</li>
-<li>(19:45) Gosport Borough - Hamworthy United</li>
-<li>(19:45) Heaton Stannington - Clitheroe</li>
-<li>(19:45) Swindon Supermarine - Willand Rovers</li>
-<li>(20:00) Atlético Madrid - FC Porto</li>
-<li>(20:00) Barcelona - Viktoria Plzen</li>
-<li>(20:00) Club Bruges - Bayer 04 Leverkusen</li>
-<li>(20:00) Inter Milan - Bayern Munich</li>
-<li>(20:00) Napoli - Liverpool</li>
-<li>(20:00) Tottenham Hotspur - Marseille</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Chelsea train ahead of Fulham](https://chelseafc.com/en/news/article/chelsea-train-ahead-of-fulham) (07 Sep)
+- [Chelsea Football Club part company with Thomas Tuchel](https://chelseafc.com/en/news/article/chelsea-football-club-part-company-with-thomas-tuchel) (07 Sep)
+- [Mount: It’s not good enough](https://chelseafc.com/en/news/article/mount-its-not-good-enough) (07 Sep)
 - [Tuchel: We lacked a lot](https://chelseafc.com/en/news/article/tuchel-we-lacked-a-lot) (06 Sep)
 - [Dinamo Zagreb 1-0 Chelsea - Champions League Highlights](https://chelseafc.com/en/video/dinamo-zagreb-1-0-chelsea-champions-league-highlights) (06 Sep)
-- [🎬 Tuchel on Dinamo defeat](https://chelseafc.com/en/video/thomas-tuchel-reflects-on-defeat-at-dinamo-zagreb) (06 Sep)
-- [Match report: Dinamo Zagreb 1 Chelsea 0](https://chelseafc.com/en/news/article/match-report-dinamo-zagreb-1-chelsea-0) (06 Sep)
-- [Chelsea line up vs Dinamo Zagreb](https://chelseafc.com/en/news/article/chelsea-line-up-vs-dinamo-zagreb) (06 Sep)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > orchidacity - noun: Showiness.
+ > tall poppy - noun: Someone conspicuously successful, especially one likely to attract hostility.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 911, using [4, 6, 7, 50, 75, 100]
-- Solution: 100 x 75 x 6 / 50 + 7 + 4
-- Total: 3 solutions.
+- Target: 878, using [5, 9, 9, 10, 50, 75]
+- Solution: ( ( 50 + 9 ) x 75 + 10 ) / 5 - 9
+- Total: 1 solutions.
 
 <!-- game_marker ends -->
