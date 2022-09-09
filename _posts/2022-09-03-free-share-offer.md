@@ -8,4 +8,4 @@ cited: FreeTrade
 
 ---
 
-> Join me and invest with Freetrade. Get started with a free share worth between £3 and £200. T
+> Join me and invest with Freetrade. Get started with a free share worth between £3 and £200. T&Cs apply. Capital at risk. 
