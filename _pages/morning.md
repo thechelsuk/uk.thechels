@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 08 September 2022
+### Daily Rundown on Friday, 09 September 2022
 
-- The average temperature today is 16.87˚C;
-- With highs of 18.86˚C and lows of 12.86˚C.
+- The average temperature today is 17.3˚C;
+- With highs of 19.13˚C and lows of 12.05˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -20,8 +20,8 @@ seo: Good Morning Mat, Here is your daily briefing
 3x AMRAP for 45 seconds, 15 second rest:
 
 - Plank
-- Kettlebell swings
-- Dead bugs
+- Kettlebell rows
+- Calf raises
 
 <!-- workout_marker ends -->
 
@@ -33,9 +33,9 @@ No tasks today
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
 
-- 55 new cases & 1 deaths on 2022-08-31
-- 0 new cases & 0 deaths on 2022-08-30
-- 0 new cases & 0 deaths on 2022-08-29
+- 62 new cases & 0 deaths on 2022-09-08
+- 0 new cases & 0 deaths on 2022-09-07
+- 0 new cases & 0 deaths on 2022-09-06
 
 <!-- c19_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 86.59
-- V3AB.L : 3.8795
-- SPXP.L : 65473.0
-- IMID.L : 166.92999
+- VWRL.L : 87.625
+- V3AB.L : 3.9229
+- SPXP.L : 66419.0
+- IMID.L : 166.89999
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 240.75999
+- 0P00013P6I.L : 242.63
 
 <!-- stocks_marker ends -->
 
@@ -64,26 +64,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Chelsea train ahead of Fulham](https://chelseafc.com/en/news/article/chelsea-train-ahead-of-fulham) (07 Sep)
-- [Chelsea Football Club part company with Thomas Tuchel](https://chelseafc.com/en/news/article/chelsea-football-club-part-company-with-thomas-tuchel) (07 Sep)
-- [Mount: It’s not good enough](https://chelseafc.com/en/news/article/mount-its-not-good-enough) (07 Sep)
-- [Tuchel: We lacked a lot](https://chelseafc.com/en/news/article/tuchel-we-lacked-a-lot) (06 Sep)
-- [Dinamo Zagreb 1-0 Chelsea - Champions League Highlights](https://chelseafc.com/en/video/dinamo-zagreb-1-0-chelsea-champions-league-highlights) (06 Sep)
+- [Queen Elizabeth II](https://chelseafc.com/en/news/article/queen-elizabeth-ii) (08 Sep)
+- [Welcome to Chelsea, Graham Potter!](https://chelseafc.com/en/news/article/welcome-to-chelsea-graham-potter) (08 Sep)
+- [Graham Potter - the biography](https://chelseafc.com/en/news/article/graham-potter-the-biography) (08 Sep)
+- [Everything you need to know about Graham Potter](https://chelseafc.com/en/news/article/everything-you-need-to-know-about-graham-potter) (08 Sep)
+- [In pictures: Potter's career to date](https://chelseafc.com/en/news/article/in-pictures-potters-career-to-date) (08 Sep)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > tall poppy - noun: Someone conspicuously successful, especially one likely to attract hostility.
+ > wallflower - noun: 1. Someone who does not mingle at a social event, such as a party, dance, etc. 2. A person or an organization that is forced to stay at the sidelines of some activity.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 878, using [5, 9, 9, 10, 50, 75]
-- Solution: ( ( 50 + 9 ) x 75 + 10 ) / 5 - 9
-- Total: 1 solutions.
+- Target: 933, using [2, 9, 10, 25, 50, 75]
+- Solution: ( ( 50 - 25 ) x 75 - 9 ) / 2
+- Total: 10 solutions.
 
 <!-- game_marker ends -->
