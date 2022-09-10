@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 09 September 2022
+### Daily Rundown on Saturday, 10 September 2022
 
-- The average temperature today is 17.3˚C;
-- With highs of 19.13˚C and lows of 12.05˚C.
-- You can expect light rain for the day.
+- The average temperature today is 18.27˚C;
+- With highs of 18.66˚C and lows of 12.24˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Plank
-- Kettlebell rows
-- Calf raises
+- Bench dips
+- Dead bugs
+- Bodyweight squats
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 87.625
-- V3AB.L : 3.9229
-- SPXP.L : 66419.0
-- IMID.L : 166.89999
+- VWRL.L : 88.32
+- V3AB.L : 3.96425
+- SPXP.L : 66780.5
+- IMID.L : 172.00999
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 242.63
+- 0P00013P6I.L : 243.95
 
 <!-- stocks_marker ends -->
 
@@ -57,18 +57,25 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(12:30) Fulham - Chelsea</li>
+<li>(12:30) Tottenham Hotspur Women - Manchester United Women</li>
+<li>(15:00) Bournemouth - Brighton & Hove Albion</li>
+<li>(15:00) Leicester City - Aston Villa</li>
+<li>(15:00) Liverpool - Wolverhampton Wanderers</li>
+<li>(15:00) Southampton - Brentford</li>
+<li>(17:30) Manchester City - Tottenham Hotspur</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Premier League and FA statements](https://chelseafc.com/en/news/article/premier-league-statement-fulham-fixture) (09 Sep)
 - [Queen Elizabeth II](https://chelseafc.com/en/news/article/queen-elizabeth-ii) (08 Sep)
 - [Welcome to Chelsea, Graham Potter!](https://chelseafc.com/en/news/article/welcome-to-chelsea-graham-potter) (08 Sep)
 - [Graham Potter - the biography](https://chelseafc.com/en/news/article/graham-potter-the-biography) (08 Sep)
 - [Everything you need to know about Graham Potter](https://chelseafc.com/en/news/article/everything-you-need-to-know-about-graham-potter) (08 Sep)
-- [In pictures: Potter's career to date](https://chelseafc.com/en/news/article/in-pictures-potters-career-to-date) (08 Sep)
 
 <!-- cfc_marker ends -->
 
@@ -82,8 +89,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 933, using [2, 9, 10, 25, 50, 75]
-- Solution: ( ( 50 - 25 ) x 75 - 9 ) / 2
-- Total: 10 solutions.
+- Target: 731, using [3, 4, 10, 25, 75, 100]
+- Solution: ( 75 / 25 + 100 ) x ( 4 + 3 ) + 10
+- Total: 6 solutions.
 
 <!-- game_marker ends -->
