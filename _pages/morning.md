@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 10 September 2022
+### Daily Rundown on Sunday, 11 September 2022
 
-- The average temperature today is 18.27˚C;
-- With highs of 18.66˚C and lows of 12.24˚C.
+- The average temperature today is 21.47˚C;
+- With highs of 21.62˚C and lows of 12.03˚C.
 - You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
@@ -20,8 +20,8 @@ seo: Good Morning Mat, Here is your daily briefing
 3x AMRAP for 45 seconds, 15 second rest:
 
 - Bench dips
-- Dead bugs
-- Bodyweight squats
+- Shadow boxing
+- Walking jacks
 
 <!-- workout_marker ends -->
 
@@ -57,13 +57,14 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Fulham - Chelsea</li>
-<li>(12:30) Tottenham Hotspur Women - Manchester United Women</li>
-<li>(15:00) Bournemouth - Brighton & Hove Albion</li>
-<li>(15:00) Leicester City - Aston Villa</li>
-<li>(15:00) Liverpool - Wolverhampton Wanderers</li>
-<li>(15:00) Southampton - Brentford</li>
-<li>(17:30) Manchester City - Tottenham Hotspur</li>
+<li>(12:30) Chelsea Women - West Ham United Women</li>
+<li>(13:00) Everton Women - Leicester City Women</li>
+<li>(14:00) Arsenal - Everton</li>
+<li>(14:00) Brighton & Hove Albion Women - Aston Villa Women</li>
+<li>(14:00) Reading Women - Liverpool Women</li>
+<li>(14:00) West Ham United - Newcastle United</li>
+<li>(16:30) Crystal Palace - Manchester United</li>
+<li>(19:00) Manchester City Women - Arsenal Women</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -89,8 +90,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 731, using [3, 4, 10, 25, 75, 100]
-- Solution: ( 75 / 25 + 100 ) x ( 4 + 3 ) + 10
-- Total: 6 solutions.
+- Target: 187, using [3, 7, 7, 25, 75, 100]
+- Solution: ( 7 - 3 ) x 100 x 7 / 25 + 75
+- Total: 5 solutions.
 
 <!-- game_marker ends -->
