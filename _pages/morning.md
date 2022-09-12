@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 11 September 2022
+### Daily Rundown on Monday, 12 September 2022
 
-- The average temperature today is 21.47˚C;
-- With highs of 21.62˚C and lows of 12.03˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 23.44˚C;
+- With highs of 24.22˚C and lows of 14.49˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -20,8 +20,8 @@ seo: Good Morning Mat, Here is your daily briefing
 3x AMRAP for 45 seconds, 15 second rest:
 
 - Bench dips
-- Shadow boxing
-- Walking jacks
+- Dead bugs
+- Kettlebell swings
 
 <!-- workout_marker ends -->
 
@@ -57,14 +57,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Chelsea Women - West Ham United Women</li>
-<li>(13:00) Everton Women - Leicester City Women</li>
-<li>(14:00) Arsenal - Everton</li>
-<li>(14:00) Brighton & Hove Albion Women - Aston Villa Women</li>
-<li>(14:00) Reading Women - Liverpool Women</li>
-<li>(14:00) West Ham United - Newcastle United</li>
-<li>(16:30) Crystal Palace - Manchester United</li>
-<li>(19:00) Manchester City Women - Arsenal Women</li>
+<li>(20:00) Leeds United - Nottingham Forest</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -83,15 +76,13 @@ No tasks today
 ### Word of the day
 <!-- word_marker starts -->
 
- > wallflower - noun: 1. Someone who does not mingle at a social event, such as a party, dance, etc. 2. A person or an organization that is forced to stay at the sidelines of some activity.
+ > coruscate - verb intr.: 1. To sparkle, flash, or gleam. 2. To display great style or technique.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 187, using [3, 7, 7, 25, 75, 100]
-- Solution: ( 7 - 3 ) x 100 x 7 / 25 + 75
-- Total: 5 solutions.
+- Target: 940, using [5, 5, 6, 7, 7, 50]
 
 <!-- game_marker ends -->
