@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 12 September 2022
+### Daily Rundown on Tuesday, 13 September 2022
 
-- The average temperature today is 23.44˚C;
-- With highs of 24.22˚C and lows of 14.49˚C.
-- You can expect light rain for the day.
+- The average temperature today is 18.69˚C;
+- With highs of 19.55˚C and lows of 13.65˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,7 +19,7 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
+- Walking jacks
 - Dead bugs
 - Kettlebell swings
 
@@ -27,7 +27,9 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -43,12 +45,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 88.32
-- V3AB.L : 3.96425
-- SPXP.L : 66780.5
-- IMID.L : 172.00999
+- VWRL.L : 88.82
+- V3AB.L : 3.9815
+- SPXP.L : 66981.0
+- IMID.L : 174.685
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 243.95
+- 0P00013P6I.L : 246.0
 
 <!-- stocks_marker ends -->
 
@@ -57,7 +59,13 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Leeds United - Nottingham Forest</li>
+<li>(17:45) Sporting Lisbon - Tottenham Hotspur</li>
+<li>(17:45) Viktoria Plzen - Inter Milan</li>
+<li>(20:00) Bayer 04 Leverkusen - Atlético Madrid</li>
+<li>(20:00) Bayern Munich - Barcelona</li>
+<li>(20:00) FC Porto - Club Bruges</li>
+<li>(20:00) Liverpool - Ajax</li>
+<li>(20:00) Marseille - Eintracht Frankfurt</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -65,24 +73,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Premier League and FA statements](https://chelseafc.com/en/news/article/premier-league-statement-fulham-fixture) (09 Sep)
-- [Queen Elizabeth II](https://chelseafc.com/en/news/article/queen-elizabeth-ii) (08 Sep)
-- [Welcome to Chelsea, Graham Potter!](https://chelseafc.com/en/news/article/welcome-to-chelsea-graham-potter) (08 Sep)
-- [Graham Potter - the biography](https://chelseafc.com/en/news/article/graham-potter-the-biography) (08 Sep)
-- [Everything you need to know about Graham Potter](https://chelseafc.com/en/news/article/everything-you-need-to-know-about-graham-potter) (08 Sep)
+- [Pat Nevin: Shared vision makes for exciting new times ahead](https://chelseafc.com/en/news/article/pat-nevin-shared-vision-makes-for-exciting-new-times-ahead) (13 Sep)
+- [Chelsea vs Liverpool postponed](https://chelseafc.com/en/news/article/chelsea-vs-liverpool-postponed) (12 Sep)
+- [Salzburg game on](https://chelseafc.com/en/news/article/salzburg-game-on) (12 Sep)
+- [‘He’s one of a kind’ – Potter’s remarkable Swedish story](https://chelseafc.com/en/news/article/hes-one-of-a-kind-potters-swedish-story) (12 Sep)
+- [Tickets Together: Crystal Palace and AC Milan away](https://chelseafc.com/en/news/article/tickets-together-crystal-palace-and-ac-milan-away) (12 Sep)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > coruscate - verb intr.: 1. To sparkle, flash, or gleam. 2. To display great style or technique.
+ > plenitude - noun: 1. The state of being full. 2. Abundance.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 940, using [5, 5, 6, 7, 7, 50]
+- Target: 804, using [2, 8, 10, 50, 75, 100]
+- Solution: ( 100 + 50 - 75 - 8 ) x ( 10 + 2 )
+- Total: 9 solutions.
 
 <!-- game_marker ends -->
