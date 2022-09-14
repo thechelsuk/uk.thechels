@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 13 September 2022
+### Daily Rundown on Wednesday, 14 September 2022
 
-- The average temperature today is 18.69˚C;
-- With highs of 19.55˚C and lows of 13.65˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 19.19˚C;
+- With highs of 20.76˚C and lows of 11.02˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,17 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
-- Dead bugs
 - Kettlebell swings
+- Dead bugs
+- Walking jacks
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -45,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 88.82
-- V3AB.L : 3.9815
-- SPXP.L : 66981.0
-- IMID.L : 174.685
+- VWRL.L : 87.515
+- V3AB.L : 3.91775
+- SPXP.L : 65872.0
+- IMID.L : 169.64
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 246.0
+- 0P00013P6I.L : 247.7
 
 <!-- stocks_marker ends -->
 
@@ -59,13 +57,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(17:45) Sporting Lisbon - Tottenham Hotspur</li>
-<li>(17:45) Viktoria Plzen - Inter Milan</li>
-<li>(20:00) Bayer 04 Leverkusen - Atlético Madrid</li>
-<li>(20:00) Bayern Munich - Barcelona</li>
-<li>(20:00) FC Porto - Club Bruges</li>
-<li>(20:00) Liverpool - Ajax</li>
-<li>(20:00) Marseille - Eintracht Frankfurt</li>
+<li>(17:45) AC Milan - Dinamo Zagreb</li>
+<li>(17:45) Shakhtar Donetsk - Celtic</li>
+<li>(20:00) Chelsea - FC Red Bull Salzburg</li>
+<li>(20:00) FC Copenhagen - Sevilla</li>
+<li>(20:00) Juventus - Benfica</li>
+<li>(20:00) Maccabi Haifa - Paris Saint Germain</li>
+<li>(20:00) Manchester City - Borussia Dortmund</li>
+<li>(20:00) Rangers - Napoli</li>
+<li>(20:00) Real Madrid - RB Leipzig</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -73,26 +73,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Pat Nevin: Shared vision makes for exciting new times ahead](https://chelseafc.com/en/news/article/pat-nevin-shared-vision-makes-for-exciting-new-times-ahead) (13 Sep)
-- [Chelsea vs Liverpool postponed](https://chelseafc.com/en/news/article/chelsea-vs-liverpool-postponed) (12 Sep)
-- [Salzburg game on](https://chelseafc.com/en/news/article/salzburg-game-on) (12 Sep)
-- [‘He’s one of a kind’ – Potter’s remarkable Swedish story](https://chelseafc.com/en/news/article/hes-one-of-a-kind-potters-swedish-story) (12 Sep)
-- [Tickets Together: Crystal Palace and AC Milan away](https://chelseafc.com/en/news/article/tickets-together-crystal-palace-and-ac-milan-away) (12 Sep)
+- [Potter on his whirlwind week and his main focus in new role](https://chelseafc.com/en/news/article/potter-on-his-whirlwind-week-and-his-main-focus-in-new-role) (13 Sep)
+- ['I’m very excited to get going' - Graham Potter's first press conference](https://chelseafc.com/en/video/graham-potter-first-press-conference-chelsea) (13 Sep)
+- [Two absentees for RB Salzburg](https://chelseafc.com/en/news/article/two-absentees-for-rb-salzburg) (13 Sep)
+- [Jorginho on how he's excited to work under Potter](https://chelseafc.com/en/news/article/jorginho-on-how-hes-excited-to-work-under-potter) (13 Sep)
+- [Tributes planned to honour Queen Elizabeth II](https://chelseafc.com/en/news/article/tributes-planned-to-honour-queen-elizabeth-ii) (13 Sep)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > plenitude - noun: 1. The state of being full. 2. Abundance.
+ > rufescent - adjective: Reddish.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 804, using [2, 8, 10, 50, 75, 100]
-- Solution: ( 100 + 50 - 75 - 8 ) x ( 10 + 2 )
-- Total: 9 solutions.
+- Target: 805, using [1, 6, 9, 25, 50, 75]
+- Solution: ( 75 + 50 + 9 ) x 6 + 1
+- Total: 6 solutions.
 
 <!-- game_marker ends -->
