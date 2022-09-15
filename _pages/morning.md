@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 14 September 2022
+### Daily Rundown on Thursday, 15 September 2022
 
-- The average temperature today is 19.19˚C;
-- With highs of 20.76˚C and lows of 11.02˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 16.17˚C;
+- With highs of 16.67˚C and lows of 9.55˚C.
+- You can expect scattered clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell swings
-- Dead bugs
-- Walking jacks
+- Kettlebell rows
+- Calf raises
+- Shadow boxing
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 87.515
-- V3AB.L : 3.91775
-- SPXP.L : 65872.0
-- IMID.L : 169.64
+- VWRL.L : 86.615
+- V3AB.L : 3.87225
+- SPXP.L : 65042.5
+- IMID.L : 168.34
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 247.7
+- 0P00013P6I.L : 241.42
 
 <!-- stocks_marker ends -->
 
@@ -57,42 +57,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(17:45) AC Milan - Dinamo Zagreb</li>
-<li>(17:45) Shakhtar Donetsk - Celtic</li>
-<li>(20:00) Chelsea - FC Red Bull Salzburg</li>
-<li>(20:00) FC Copenhagen - Sevilla</li>
-<li>(20:00) Juventus - Benfica</li>
-<li>(20:00) Maccabi Haifa - Paris Saint Germain</li>
-<li>(20:00) Manchester City - Borussia Dortmund</li>
-<li>(20:00) Rangers - Napoli</li>
-<li>(20:00) Real Madrid - RB Leipzig</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Potter on his whirlwind week and his main focus in new role](https://chelseafc.com/en/news/article/potter-on-his-whirlwind-week-and-his-main-focus-in-new-role) (13 Sep)
-- ['I’m very excited to get going' - Graham Potter's first press conference](https://chelseafc.com/en/video/graham-potter-first-press-conference-chelsea) (13 Sep)
-- [Two absentees for RB Salzburg](https://chelseafc.com/en/news/article/two-absentees-for-rb-salzburg) (13 Sep)
-- [Jorginho on how he's excited to work under Potter](https://chelseafc.com/en/news/article/jorginho-on-how-hes-excited-to-work-under-potter) (13 Sep)
-- [Tributes planned to honour Queen Elizabeth II](https://chelseafc.com/en/news/article/tributes-planned-to-honour-queen-elizabeth-ii) (13 Sep)
+- [Azpilicueta analyses Salzburg game and run ahead](https://chelseafc.com/en/news/article/azpilicueta-analyses-salzburg-game-and-run-ahead) (15 Sep)
+- [Chelsea 1-1 RB Salzburg - Champions League Highlights](https://chelseafc.com/en/video/chelsea-1-1-rb-salzburg-or-champions-league-highlights) (14 Sep)
+- [Potter on frustrating point, fantastic attitude, his starting shape and our group fortunes](https://chelseafc.com/en/news/article/potter-on-frustrating-point-fantastic-attitude-his-starting-shape-and-our) (14 Sep)
+- ['We will keep working hard'](https://chelseafc.com/en/video/we-will-keep-working-hard) (14 Sep)
+- [Match report: Chelsea 1 RB Salzburg 1](https://chelseafc.com/en/news/article/match-report-chelsea-1-rb-salzburg-1) (14 Sep)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > rufescent - adjective: Reddish.
+ > brume - noun: Fog or mist.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 805, using [1, 6, 9, 25, 50, 75]
-- Solution: ( 75 + 50 + 9 ) x 6 + 1
-- Total: 6 solutions.
+- Target: 415, using [1, 2, 4, 7, 8, 25]
+- Solution: ( 25 x 8 + 7 ) x ( 4 - 2 ) + 1
+- Total: 14 solutions.
 
 <!-- game_marker ends -->
