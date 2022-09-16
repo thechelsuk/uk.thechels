@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 15 September 2022
+### Daily Rundown on Friday, 16 September 2022
 
-- The average temperature today is 16.17˚C;
-- With highs of 16.67˚C and lows of 9.55˚C.
-- You can expect scattered clouds for the day.
+- The average temperature today is 15.54˚C;
+- With highs of 16.33˚C and lows of 7.87˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -20,8 +20,8 @@ seo: Good Morning Mat, Here is your daily briefing
 3x AMRAP for 45 seconds, 15 second rest:
 
 - Kettlebell rows
-- Calf raises
-- Shadow boxing
+- Plank
+- Walking jacks
 
 <!-- workout_marker ends -->
 
@@ -33,9 +33,9 @@ No tasks today
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
 
-- 62 new cases & 0 deaths on 2022-09-08
-- 0 new cases & 0 deaths on 2022-09-07
-- 0 new cases & 0 deaths on 2022-09-06
+- 68 new cases & 2 deaths on 2022-09-15
+- 0 new cases & 0 deaths on 2022-09-14
+- 0 new cases & 0 deaths on 2022-09-13
 
 <!-- c19_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 86.615
-- V3AB.L : 3.87225
-- SPXP.L : 65042.5
-- IMID.L : 168.34
+- VWRL.L : 86.21
+- V3AB.L : 3.8805
+- SPXP.L : 65084.0
+- IMID.L : 167.435
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 241.42
+- 0P00013P6I.L : 242.78
 
 <!-- stocks_marker ends -->
 
@@ -57,33 +57,37 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(19:30) Arsenal Women - Brighton & Hove Albion Women</li>
+<li>(19:45) Chesham United - Bracknell Town</li>
+<li>(20:00) Aston Villa - Southampton</li>
+<li>(20:00) Nottingham Forest - Fulham</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Azpilicueta analyses Salzburg game and run ahead](https://chelseafc.com/en/news/article/azpilicueta-analyses-salzburg-game-and-run-ahead) (15 Sep)
-- [Chelsea 1-1 RB Salzburg - Champions League Highlights](https://chelseafc.com/en/video/chelsea-1-1-rb-salzburg-or-champions-league-highlights) (14 Sep)
-- [Potter on frustrating point, fantastic attitude, his starting shape and our group fortunes](https://chelseafc.com/en/news/article/potter-on-frustrating-point-fantastic-attitude-his-starting-shape-and-our) (14 Sep)
-- ['We will keep working hard'](https://chelseafc.com/en/video/we-will-keep-working-hard) (14 Sep)
-- [Match report: Chelsea 1 RB Salzburg 1](https://chelseafc.com/en/news/article/match-report-chelsea-1-rb-salzburg-1) (14 Sep)
+- [Kepa on Potter’s positivity and his own fresh start](https://chelseafc.com/en/news/article/kepa-on-potters-positivity-and-his-own-fresh-start) (16 Sep)
+- [Sterling scores again in Potter's debut match - Unseen Extra](https://chelseafc.com/en/video/sterling-scores-again-in-potters-debut-match-or-unseen-extra) (15 Sep)
+- [Chelsea 1-1 RB Salzburg - Extended Champions League Highlights](https://chelseafc.com/en/video/chelsea-1-1-rb-salzburg-or-extended-champions-league-highlights) (15 Sep)
+- [Chelsea 1-1 RB Salzburg - Champions League Full Match](https://chelseafc.com/en/video/chelsea-1-1-rb-salzburg-or-champions-league-full-match) (15 Sep)
+- [Sterling enjoying new role under Potter](https://chelseafc.com/en/news/article/sterling-enjoying-new-role-under-potter) (15 Sep)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > brume - noun: Fog or mist.
+ > altiloquent - adjective: Pompous or pretentious.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 415, using [1, 2, 4, 7, 8, 25]
-- Solution: ( 25 x 8 + 7 ) x ( 4 - 2 ) + 1
-- Total: 14 solutions.
+- Target: 626, using [4, 5, 8, 10, 50, 75]
+- Solution: ( 50 - 8 ) x 75 / ( 10 - 5 ) - 4
+- Total: 8 solutions.
 
 <!-- game_marker ends -->
