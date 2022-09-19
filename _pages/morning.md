@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 18 September 2022
+### Daily Rundown on Monday, 19 September 2022
 
-- The average temperature today is 16.61˚C;
-- With highs of 17.28˚C and lows of 6.79˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 16.11˚C;
+- With highs of 18.2˚C and lows of 10.96˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Dead bugs
 - Bench dips
-- Bodyweight squats
+- Kettlebell swings
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -57,42 +58,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:00) Brentford - Arsenal</li>
-<li>(12:30) Aston Villa Women - Manchester City Women</li>
-<li>(14:00) Manchester United - Leeds United</li>
-<li>(14:15) Everton - West Ham United</li>
-<li>(15:00) Herne Bay - Ashford United</li>
-<li>(15:00) Leicester City Women - Tottenham Hotspur Women</li>
-<li>(15:00) West Ham United Women - Everton Women</li>
-<li>(16:30) Chelsea - Liverpool</li>
-<li>(17:00) Liverpool Women - Chelsea Women</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Queen Elizabeth II and Chelsea FC](https://chelseafc.com/en/news/article/queen-elizabeth-ii-and-chelsea-fc) (18 Sep)
+- [Emma Hayes post-match interview](https://chelseafc.com/en/video/emma-hayes-post-match-interview-liverpool) (18 Sep)
+- [Women's match report: Liverpool 2 Chelsea 1](https://chelseafc.com/en/news/article/womens-match-report-liverpool-2-chelsea-1) (18 Sep)
+- [Magda Eriksson post-match interview](https://chelseafc.com/en/video/magda-eriksson-post-match-interview) (18 Sep)
 - [Cuthbert: We want to dominate](https://chelseafc.com/en/news/article/cuthbert-we-want-to-dominate) (18 Sep)
-- [Christian Pulisic's best goals in Blue](https://chelseafc.com/en/news/article/christian-pulisics-best-goals-in-blue) (18 Sep)
-- [Final preparations before WSL opener - Chelsea Unseen](https://chelseafc.com/en/video/final-preparations-before-wsl-opener-or-chelsea-unseen) (17 Sep)
-- [Chilwell call-up reaction](https://chelseafc.com/en/news/article/chilwell-call-up-reaction) (17 Sep)
-- [PL2 report: Crystal Palace 3 Chelsea 3](https://chelseafc.com/en/news/article/pl2-report-crystal-palace-3-chelsea-3) (17 Sep)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > altiloquent - adjective: Pompous or pretentious.
+ > bridezilla - noun: A woman who is overbearing and obnoxious in planning her wedding.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 615, using [4, 4, 6, 9, 9, 25]
-- Solution: ( 25 x 6 + 4 ) x 4 - 9 / 9
-- Total: 4 solutions.
+- Target: 194, using [1, 5, 9, 9, 75, 100]
+- Solution: 100 + 75 + 9 + 9 + 1
+- Total: 6 solutions.
 
 <!-- game_marker ends -->
