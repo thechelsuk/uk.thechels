@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 20 September 2022
+### Daily Rundown on Wednesday, 21 September 2022
 
-- The average temperature today is 18.1˚C;
-- With highs of 19.33˚C and lows of 10.27˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 19.43˚C;
+- With highs of 20.32˚C and lows of 10.8˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,17 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Dead bugs
 - Walking jacks
 - Kettlebell swings
-- Bodyweight squats
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -45,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.32
-- V3AB.L : 3.83375
-- SPXP.L : 64328.0
-- IMID.L : 164.765
-- 0P0001K1DP.L : 12612.30957
-- 0P00013P6I.L : 242.08
+- VWRL.L : 85.37
+- V3AB.L : 3.84275
+- SPXP.L : 64570.5
+- IMID.L : 164.50999
+- 0P0001K1DP.L : nan
+- 0P00013P6I.L : 240.83
 
 <!-- stocks_marker ends -->
 
@@ -59,24 +57,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:30) Bracknell Town - Chesham United</li>
-<li>(19:30) Hartley Wintney - Bath City</li>
-<li>(19:45) AFC Sudbury - St Albans City</li>
-<li>(19:45) Bedford Town - King's Lynn Town</li>
-<li>(19:45) Braintree Town - Heybridge Swifts</li>
-<li>(19:45) Chatham Town - Walton & Hersham</li>
-<li>(19:45) Chorley - Liversedge</li>
-<li>(19:45) Cirencester Town - Merthyr Town</li>
-<li>(19:45) Congleton Town - Newcastle Town</li>
-<li>(19:45) Farsley Celtic - AFC Fylde</li>
-<li>(19:45) Fisher - Welling United</li>
-<li>(19:45) Gainsborough Trinity - Long Eaton United</li>
-<li>(19:45) Hayes & Yeading - Farnborough </li>
-<li>(19:45) Helston Athletic - Bishop's Cleeve</li>
-<li>(19:45) Ilkeston Town - Anstey Nomads</li>
-<li>(19:45) Peterborough Sports - Redditch United</li>
-<li>(19:45) Stratford Town - Banbury United</li>
-<li>(19:45) Three Bridges - Lewes</li>
+<li>(19:30) Paulton Rovers - Gosport Borough</li>
+<li>(19:45) Bury AFC - Lancaster City</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -84,26 +66,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Pat Nevin: What Graham Potter will be working on with busy schedule ahead](https://chelseafc.com/en/news/article/pat-nevin-what-graham-potter-will-be-working-on-with-busy-schedule-ahead) (19 Sep)
-- [Queen Elizabeth II and Chelsea FC](https://chelseafc.com/en/news/article/queen-elizabeth-ii-and-chelsea-fc) (18 Sep)
-- [Emma Hayes post-match interview](https://chelseafc.com/en/video/emma-hayes-post-match-interview-liverpool) (18 Sep)
-- [Women's match report: Liverpool 2 Chelsea 1](https://chelseafc.com/en/news/article/womens-match-report-liverpool-2-chelsea-1) (18 Sep)
-- [Magda Eriksson post-match interview](https://chelseafc.com/en/video/magda-eriksson-post-match-interview) (18 Sep)
+- [Which Chelsea players are on international duty and what games are taking place?](https://chelseafc.com/en/news/article/which-chelsea-players-are-on-international-duty-and-what-games-are-taking) (21 Sep)
+- [What a team! 🤩](https://chelseafc.com/en/video/premier-league-first-choice-xi-or-presented-by-go-markets) (20 Sep)
+- [Pat Nevin: What Graham Potter will be working on with busy schedule ahead](https://chelseafc.com/en/news/article/pat-nevin-what-graham-potter-will-be-working-on-with-busy-schedule-ahead) (20 Sep)
+- [Kirby eager to bounce back against Man City](https://chelseafc.com/en/news/article/kirby-eager-to-bounce-back-against-man-city) (20 Sep)
+- [Chelsea Here Chelsea There: Hudson-Odoi in Champions League win; first starts handed out](https://chelseafc.com/en/news/article/chelsea-here-chelsea-there-hudson-odoi-in-champions-league-win-first-starts) (20 Sep)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > autolatry - noun: Self-worship.
+ > allotriophagy - noun: An abnormal desire to eat things not usually eaten, such as chalk or clay. Also known as pica.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 457, using [3, 3, 6, 6, 8, 25]
-- Solution: ( 25 + 6 ) x ( 6 x 3 - 3 ) - 8
-- Total: 7 solutions.
+- Target: 267, using [3, 4, 5, 9, 25, 100]
+- Solution: ( 100 + 9 + 5 - 25 ) x 3
+- Total: 31 solutions.
 
 <!-- game_marker ends -->
