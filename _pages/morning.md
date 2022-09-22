@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 21 September 2022
+### Daily Rundown on Thursday, 22 September 2022
 
-- The average temperature today is 19.43˚C;
-- With highs of 20.32˚C and lows of 10.8˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 18.81˚C;
+- With highs of 19.09˚C and lows of 10.18˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Dead bugs
-- Walking jacks
 - Kettlebell swings
+- Kettlebell rows
+- Walking jacks
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.37
-- V3AB.L : 3.84275
-- SPXP.L : 64570.5
-- IMID.L : 164.50999
+- VWRL.L : 85.935
+- V3AB.L : 3.86275
+- SPXP.L : 65214.0
+- IMID.L : 164.505
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 240.83
+- 0P00013P6I.L : 240.09
 
 <!-- stocks_marker ends -->
 
@@ -57,35 +57,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:30) Paulton Rovers - Gosport Borough</li>
-<li>(19:45) Bury AFC - Lancaster City</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Birthday boy Thiago Silva on his health secrets and ambition to play into forties](https://chelseafc.com/en/news/article/birthday-boy-thiago-silva-on-his-health-secrets-and-ambition-to-play-into) (22 Sep)
+- [Young Blue on target for Young England](https://chelseafc.com/en/news/article/young-blue-on-target-for-young-england) (21 Sep)
+- [Aubameyang issues injury update and discusses managerial change](https://chelseafc.com/en/news/article/aubameyang-issues-injury-update-and-discusses-managerial-change) (21 Sep)
 - [Which Chelsea players are on international duty and what games are taking place?](https://chelseafc.com/en/news/article/which-chelsea-players-are-on-international-duty-and-what-games-are-taking) (21 Sep)
-- [What a team! 🤩](https://chelseafc.com/en/video/premier-league-first-choice-xi-or-presented-by-go-markets) (20 Sep)
-- [Pat Nevin: What Graham Potter will be working on with busy schedule ahead](https://chelseafc.com/en/news/article/pat-nevin-what-graham-potter-will-be-working-on-with-busy-schedule-ahead) (20 Sep)
-- [Kirby eager to bounce back against Man City](https://chelseafc.com/en/news/article/kirby-eager-to-bounce-back-against-man-city) (20 Sep)
-- [Chelsea Here Chelsea There: Hudson-Odoi in Champions League win; first starts handed out](https://chelseafc.com/en/news/article/chelsea-here-chelsea-there-hudson-odoi-in-champions-league-win-first-starts) (20 Sep)
+- [Lewis Hall's First-team Debut](https://chelseafc.com/en/video/lewis-hall-s-first-team-debut-pycijfre) (21 Sep)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > allotriophagy - noun: An abnormal desire to eat things not usually eaten, such as chalk or clay. Also known as pica.
+ > zoanthropy - noun: The delusion that one is a beast.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 267, using [3, 4, 5, 9, 25, 100]
-- Solution: ( 100 + 9 + 5 - 25 ) x 3
-- Total: 31 solutions.
+- Target: 261, using [2, 3, 25, 50, 75, 100]
+- Solution: ( 75 / 25 + 100 ) x 3 + 2 - 50
+- Total: 13 solutions.
 
 <!-- game_marker ends -->
