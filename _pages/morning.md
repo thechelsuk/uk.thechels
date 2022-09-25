@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 24 September 2022
+### Daily Rundown on Sunday, 25 September 2022
 
-- The average temperature today is 16.35˚C;
-- With highs of 16.92˚C and lows of 8.07˚C.
-- You can expect scattered clouds for the day.
+- The average temperature today is 15.08˚C;
+- With highs of 16.21˚C and lows of 5.16˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Plank
 - Kettlebell swings
-- Dead bugs
+- Shadow boxing
+- Bench dips
 
 <!-- workout_marker ends -->
 
@@ -57,7 +57,11 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(13:30) Arsenal Women - Tottenham Hotspur Women</li>
+<li>(14:00) Brighton & Hove Albion Women - Reading Women</li>
+<li>(15:00) Leicester City Women - Aston Villa Women</li>
+<li>(15:00) West Ham United Women - Manchester United Women</li>
+<li>(16:00) Chelsea Women - Manchester City Women</li>
+<li>(18:45) Liverpool Women - Everton Women</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -65,11 +69,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Internationals: Jorginho, Ziyech and Thiago Silva taste victory](https://chelseafc.com/en/news/article/internationals-jorginho-ziyech-and-thiago-silva-taste-victory) (23 Sep)
-- [Prepared for Man City! - Chelsea Unseen](https://chelseafc.com/en/video/prepared-for-man-city-or-chelsea-unseen) (23 Sep)
-- [Hayes on Harder’s fitness and how to respond against Man City](https://chelseafc.com/en/news/article/hayes-on-harders-fitness-and-how-to-respond-against-man-city) (23 Sep)
-- [Emma Hayes press conference 🎙](https://chelseafc.com/en/video/emma-hayes-press-conference) (23 Sep)
-- [Pulisic injury update](https://chelseafc.com/en/news/article/pulisic-injury-update) (23 Sep)
+- [Charles looking for improved attacking performance](https://chelseafc.com/en/news/article/charles-looking-for-improved-attacking-performance) (25 Sep)
+- [Internationals: Koulibaly helps Senegal to friendly victory](https://chelseafc.com/en/news/article/internationals-koulibaly-helps-senegal-to-friendly-victory) (24 Sep)
+- [Thiago Silva sets new Brazil record](https://chelseafc.com/en/news/article/thiago-silva-sets-new-brazil-record) (24 Sep)
+- [Double-winners Chelsea lift the Cup at Wembley! - Women's Unseen Extra](https://chelseafc.com/en/video/double-winners-chelsea-lift-the-cup-at-wembley----women-s-unseen-qqe76vg3) (24 Sep)
+- [Mason Mount’s World Cup favourites](https://chelseafc.com/en/news/article/mason-mounts-world-cup-favourites) (24 Sep)
 
 <!-- cfc_marker ends -->
 
@@ -83,8 +87,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 458, using [6, 7, 10, 25, 75, 100]
-- Solution: 100 x 75 / ( 25 - 10 ) - 7 x 6
-- Total: 22 solutions.
+- Target: 294, using [1, 2, 3, 4, 5, 10]
+- Solution: ( ( 5 + 4 + 1 ) x 10 - 2 ) x 3
+- Total: 18 solutions.
 
 <!-- game_marker ends -->
