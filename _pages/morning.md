@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 25 September 2022
+### Daily Rundown on Monday, 26 September 2022
 
-- The average temperature today is 15.08˚C;
-- With highs of 16.21˚C and lows of 5.16˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 13.02˚C;
+- With highs of 13.68˚C and lows of 9.78˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -20,8 +20,8 @@ seo: Good Morning Mat, Here is your daily briefing
 3x AMRAP for 45 seconds, 15 second rest:
 
 - Kettlebell swings
-- Shadow boxing
-- Bench dips
+- Walking jacks
+- Bodyweight squats
 
 <!-- workout_marker ends -->
 
@@ -57,38 +57,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(14:00) Brighton & Hove Albion Women - Reading Women</li>
-<li>(15:00) Leicester City Women - Aston Villa Women</li>
-<li>(15:00) West Ham United Women - Manchester United Women</li>
-<li>(16:00) Chelsea Women - Manchester City Women</li>
-<li>(18:45) Liverpool Women - Everton Women</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Charles looking for improved attacking performance](https://chelseafc.com/en/news/article/charles-looking-for-improved-attacking-performance) (25 Sep)
-- [Internationals: Koulibaly helps Senegal to friendly victory](https://chelseafc.com/en/news/article/internationals-koulibaly-helps-senegal-to-friendly-victory) (24 Sep)
-- [Thiago Silva sets new Brazil record](https://chelseafc.com/en/news/article/thiago-silva-sets-new-brazil-record) (24 Sep)
-- [Double-winners Chelsea lift the Cup at Wembley! - Women's Unseen Extra](https://chelseafc.com/en/video/double-winners-chelsea-lift-the-cup-at-wembley----women-s-unseen-qqe76vg3) (24 Sep)
-- [Mason Mount’s World Cup favourites](https://chelseafc.com/en/news/article/mason-mounts-world-cup-favourites) (24 Sep)
+- [Hayes on working it out, managing hard better and a trio of exceptional performers](https://chelseafc.com/en/news/article/hayes-on-working-it-out-managing-hard-better-and-a-trio-of-exceptional) (26 Sep)
+- [Internationals: Kovacic seals place in Nations League finals](https://chelseafc.com/en/news/article/internationals-kovacic-and-croatia-seal-place-in-nations-league-finals) (25 Sep)
+- [Fran Kirby post-match interview!](https://chelseafc.com/en/video/fran-kirby-post-match-interview) (25 Sep)
+- [Emma Hayes post-match interview!](https://chelseafc.com/en/video/emma-hayes-post-match-interviewmc) (25 Sep)
+- [Women's match report: Chelsea 2 Man City 0](https://chelseafc.com/en/news/article/womens-match-report-chelsea-2-man-city-0) (25 Sep)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > orography - noun: The study of the physical geography of mountains, such as features, topographic relief, etc.
+ > timeserver - noun: 1. One who makes little effort at work, such as while waiting to retire or find another job. 2. One who changes views to conform to prevailing circumstances. 3. A computer that transmits precise time information on a network.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 294, using [1, 2, 3, 4, 5, 10]
-- Solution: ( ( 5 + 4 + 1 ) x 10 - 2 ) x 3
-- Total: 18 solutions.
+- Target: 426, using [1, 2, 5, 6, 50, 100]
+- Solution: ( 100 + 1 - 50 / 2 - 5 ) x 6
+- Total: 10 solutions.
 
 <!-- game_marker ends -->
