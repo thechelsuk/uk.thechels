@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 27 September 2022
+### Daily Rundown on Wednesday, 28 September 2022
 
-- The average temperature today is 13.8˚C;
-- With highs of 13.89˚C and lows of 6.51˚C.
-- You can expect light rain for the day.
+- The average temperature today is 13.94˚C;
+- With highs of 14.65˚C and lows of 6.44˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,17 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
-- Kettlebell rows
-- Plank
+- Kettlebell swings
+- Walking jacks
+- Dead bugs
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -45,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.21
-- V3AB.L : 3.8355
-- SPXP.L : 64729.0
-- IMID.L : 155.495
+- VWRL.L : 85.49
+- V3AB.L : 3.86961
+- SPXP.L : 65263.03906
+- IMID.L : 154.995
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 241.59
+- 0P00013P6I.L : 238.81
 
 <!-- stocks_marker ends -->
 
@@ -59,33 +57,34 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(19:05) Chelsea Women - West Ham United Women</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Internationals: Jorginho into Nations League finals, Mount and Havertz net in Wembley thriller](https://chelseafc.com/en/news/article/internationals-jorginho-into-the-finals-mount-and-havertz-net-in-wembley) (26 Sep)
-- [Gallery: Back to it at Cobham](https://chelseafc.com/en/news/article/gallery-back-to-it-at-cobham) (26 Sep)
-- [Jorginho wants to continue Italy revival at Nations League finals](https://chelseafc.com/en/news/article/jorginho-wants-to-continue-italy-revival-at-nations-league-finals) (26 Sep)
-- [Chelsea Women 2-0 Manchester City Women - WSL Highlights](https://chelseafc.com/en/video/chelsea-women-2-0-manchester-city-women-or-wsl-highlights) (26 Sep)
-- [James on his new contract, personal goals and best moments in a Chelsea shirt](https://chelseafc.com/en/news/article/reece-james-on-his-new-contract-personal-goals-and-best-moments) (26 Sep)
+- [Internationals: Gallagher nets, Brazil march on and Spain win late](https://chelseafc.com/en/news/article/internationals-gallagher-nets-brazil-march-on-and-spain-seal-late-success) (27 Sep)
+- [John Mikel Obi announces retirement](https://chelseafc.com/en/news/article/john-mikel-obi-announces-retirement) (27 Sep)
+- [Gallery: N'Golo Kante returns to Chelsea training](https://chelseafc.com/en/news/article/gallery-ngolo-kante-returns-to-chelsea-training) (27 Sep)
+- [Mjelde hails 'composed' victory](https://chelseafc.com/en/news/article/mjelde-hails-composed-victory) (27 Sep)
+- [Mount on his Wembley goal and sticking together](https://chelseafc.com/en/news/article/mount-on-his-wembley-goal-and-sticking-together) (27 Sep)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > sandboy - noun: 1. A very happy person. 2. One who deals in sand.
+ > musicaster - noun: A mediocre musician.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 531, using [1, 6, 7, 7, 9, 25]
-- Solution: ( 9 + 1 - 7 ) x 25 x 7 + 6
-- Total: 6 solutions.
+- Target: 358, using [1, 6, 10, 50, 75, 100]
+- Solution: ( 75 x 50 - 100 ) / 10 - 6 - 1
+- Total: 1 solutions.
 
 <!-- game_marker ends -->
