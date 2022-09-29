@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 28 September 2022
+### Daily Rundown on Thursday, 29 September 2022
 
-- The average temperature today is 13.94˚C;
-- With highs of 14.65˚C and lows of 6.44˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 12.11˚C;
+- With highs of 15.59˚C and lows of 6.4˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell swings
 - Walking jacks
-- Dead bugs
+- Kettlebell rows
+- Kettlebell swings
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.49
-- V3AB.L : 3.86961
-- SPXP.L : 65263.03906
-- IMID.L : 154.995
+- VWRL.L : 85.93
+- V3AB.L : 3.866
+- SPXP.L : 65391.5
+- IMID.L : 155.765
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 238.81
+- 0P00013P6I.L : nan
 
 <!-- stocks_marker ends -->
 
@@ -57,7 +57,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:05) Chelsea Women - West Ham United Women</li>
+<li>(18:30) Everton Women - Leicester City Women</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -65,26 +65,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Internationals: Gallagher nets, Brazil march on and Spain win late](https://chelseafc.com/en/news/article/internationals-gallagher-nets-brazil-march-on-and-spain-seal-late-success) (27 Sep)
-- [John Mikel Obi announces retirement](https://chelseafc.com/en/news/article/john-mikel-obi-announces-retirement) (27 Sep)
-- [Gallery: N'Golo Kante returns to Chelsea training](https://chelseafc.com/en/news/article/gallery-ngolo-kante-returns-to-chelsea-training) (27 Sep)
-- [Mjelde hails 'composed' victory](https://chelseafc.com/en/news/article/mjelde-hails-composed-victory) (27 Sep)
-- [Mount on his Wembley goal and sticking together](https://chelseafc.com/en/news/article/mount-on-his-wembley-goal-and-sticking-together) (27 Sep)
+- [Erin Cuthbert Post Match Interview!](https://chelseafc.com/en/video/erin-cuthbert-post-match-interview) (28 Sep)
+- [Hayes's post-match view!](https://chelseafc.com/en/video/emma-hayes-post-match-interview-west-ham) (28 Sep)
+- [Chelsea Women vs West Ham report: Kerr stars in second-half comeback](https://chelseafc.com/en/news/article/chelsea-women-vs-west-ham-report-kerr-stars-in-second-half-comeback) (28 Sep)
+- [Ramires announces retirement](https://chelseafc.com/en/news/article/ramires-announces-retirement) (28 Sep)
+- [Promotion, relegation or into the final four: How Chelsea players fared in the UEFA Nations League](https://chelseafc.com/en/news/article/uefa-nations-league-how-chelsea-players-fared) (28 Sep)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > musicaster - noun: A mediocre musician.
+ > grumbletonian - noun: A habitual complainer.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 358, using [1, 6, 10, 50, 75, 100]
-- Solution: ( 75 x 50 - 100 ) / 10 - 6 - 1
-- Total: 1 solutions.
+- Target: 161, using [1, 4, 9, 9, 75, 100]
+- Solution: 100 + 75 + 4 - 9 - 9
+- Total: 8 solutions.
 
 <!-- game_marker ends -->
