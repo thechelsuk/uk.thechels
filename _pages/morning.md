@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 29 September 2022
+### Daily Rundown on Friday, 30 September 2022
 
-- The average temperature today is 12.11˚C;
-- With highs of 15.59˚C and lows of 6.4˚C.
+- The average temperature today is 14.17˚C;
+- With highs of 14.53˚C and lows of 7.44˚C.
 - You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
-- Kettlebell rows
-- Kettlebell swings
+- Dead bugs
+- Calf raises
+- Plank
 
 <!-- workout_marker ends -->
 
@@ -33,9 +33,9 @@ No tasks today
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
 
-- 81 new cases & 0 deaths on 2022-09-22
-- 0 new cases & 0 deaths on 2022-09-21
-- 0 new cases & 0 deaths on 2022-09-20
+- 106 new cases & 4 deaths on 2022-09-29
+- 0 new cases & 0 deaths on 2022-09-28
+- 0 new cases & 0 deaths on 2022-09-27
 
 <!-- c19_marker ends -->
 
@@ -43,10 +43,10 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.93
-- V3AB.L : 3.866
-- SPXP.L : 65391.5
-- IMID.L : 155.765
+- VWRL.L : 82.9
+- V3AB.L : 3.72675
+- SPXP.L : 62995.5
+- IMID.L : 154.2
 - 0P0001K1DP.L : nan
 - 0P00013P6I.L : nan
 
@@ -57,7 +57,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(18:30) Everton Women - Leicester City Women</li>
+<li>(20:00) Needham Market - Brightlingsea Regent</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -65,26 +65,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Erin Cuthbert Post Match Interview!](https://chelseafc.com/en/video/erin-cuthbert-post-match-interview) (28 Sep)
-- [Hayes's post-match view!](https://chelseafc.com/en/video/emma-hayes-post-match-interview-west-ham) (28 Sep)
-- [Chelsea Women vs West Ham report: Kerr stars in second-half comeback](https://chelseafc.com/en/news/article/chelsea-women-vs-west-ham-report-kerr-stars-in-second-half-comeback) (28 Sep)
-- [Ramires announces retirement](https://chelseafc.com/en/news/article/ramires-announces-retirement) (28 Sep)
-- [Promotion, relegation or into the final four: How Chelsea players fared in the UEFA Nations League](https://chelseafc.com/en/news/article/uefa-nations-league-how-chelsea-players-fared) (28 Sep)
+- [Crystal Palace vs Chelsea: Facts at your fingertips](https://chelseafc.com/en/news/article/crystal-palace-vs-chelsea-facts-at-your-fingertips) (29 Sep)
+- [Gallery: All eyes on Palace](https://chelseafc.com/en/news/article/gallery-all-eyes-on-palace) (29 Sep)
+- [Ramires and Mikel’s finest hours in their own words](https://chelseafc.com/en/news/article/ramires-and-mikels-finest-hours-in-their-own-words) (29 Sep)
+- [WSL highlights: Chelsea v West Ham](https://chelseafc.com/en/video/chelsea-women-3-1-west-ham-women-or-wsl-highlights) (29 Sep)
+- [Vote for your Chelsea Goal of the Month for September](https://chelseafc.com/en/news/article/vote-for-your-chelsea-goal-of-the-month-for-september) (29 Sep)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > grumbletonian - noun: A habitual complainer.
+ > logodaedalist - noun: One skilled in using or coining words.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 161, using [1, 4, 9, 9, 75, 100]
-- Solution: 100 + 75 + 4 - 9 - 9
-- Total: 8 solutions.
+- Target: 855, using [1, 6, 8, 10, 25, 75]
+- Solution: ( 75 + 10 ) x 8 + ( 6 + 1 ) x 25
+- Total: 6 solutions.
 
 <!-- game_marker ends -->
