@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 02 October 2022
+### Daily Rundown on Monday, 03 October 2022
 
-- The average temperature today is 15.76˚C;
-- With highs of 17.41˚C and lows of 10.11˚C.
+- The average temperature today is 16.28˚C;
+- With highs of 18.38˚C and lows of 8.36˚C.
 - You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
-- Plank
-- Walking jacks
+- Kettlebell rows
+- Dead bugs
+- Calf raises
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -57,8 +58,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(14:00) Manchester City - Manchester United</li>
-<li>(16:30) Leeds United - Aston Villa</li>
+<li>(20:00) Leicester City - Nottingham Forest</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -66,26 +66,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Potter’s praise and challenge for goalscorers Aubameyang and Gallagher](https://chelseafc.com/en/news/article/potters-praise-and-challenge-for-goalscorers-aubameyang-and-gallagher) (03 Oct)
+- [Aubameyang delighted to help the team](https://chelseafc.com/en/news/article/aubameyang-delighted-to-help-the-team) (02 Oct)
+- [Crystal Palace vs Chelsea Debrief: Gallagher rocket secures Potter his first win](https://chelseafc.com/en/news/article/crystal-palace-vs-chelsea-debrief-gallagher-rocket-secures-potter-his-first) (02 Oct)
 - [Conor Gallagher interview: When it left my boot I knew it had a chance](https://chelseafc.com/en/news/article/conor-gallagher-interview-when-it-left-my-boot-i-knew-it-had-a-chance) (02 Oct)
 - [Conor's winner v Palace - All The Angles](https://chelseafc.com/en/video/conors-winner-v-palace-or-all-the-angles) (01 Oct)
-- [Potter praises Gallagher impact and is pleased for his players](https://chelseafc.com/en/news/article/potter-praises-gallagher-impact-and-pleased-for-his-players) (01 Oct)
-- ['The response from the players has been brilliant'](https://chelseafc.com/en/video/the-response-from-the-players-has-been-brilliant) (01 Oct)
-- [Crystal Palace 1-2 Chelsea - Premier League Extended Highlights](https://chelseafc.com/en/video/crystal-palace-1-2-chelsea-or-premier-league-extended-highlights) (01 Oct)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > logodaedalist - noun: One skilled in using or coining words.
+ > ludicrous - adjective: So absurd as to provoke laughter.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 270, using [1, 7, 25, 50, 75, 100]
-- Solution: ( ( 75 - 7 - 1 ) x 100 + 50 ) / 25
-- Total: 9 solutions.
+- Target: 634, using [1, 7, 10, 25, 50, 100]
+- Solution: 100 x 7 + 10 - 50 - 25 - 1
+- Total: 2 solutions.
 
 <!-- game_marker ends -->
