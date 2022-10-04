@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 03 October 2022
+### Daily Rundown on Tuesday, 04 October 2022
 
-- The average temperature today is 16.28˚C;
-- With highs of 18.38˚C and lows of 8.36˚C.
+- The average temperature today is 17.38˚C;
+- With highs of 19.26˚C and lows of 12.93˚C.
 - You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
-- Dead bugs
-- Calf raises
+- Bodyweight squats
+- Walking jacks
+- Kettlebell swings
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
@@ -44,12 +45,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 82.7
-- V3AB.L : 3.7215
-- SPXP.L : 62752.5
-- IMID.L : 155.735
+- VWRL.L : 81.775
+- V3AB.L : 3.67275
+- SPXP.L : 61798.5
+- IMID.L : 156.175
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 231.87
+- 0P00013P6I.L : 227.0
 
 <!-- stocks_marker ends -->
 
@@ -58,7 +59,21 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Leicester City - Nottingham Forest</li>
+<li>(17:45) Bayern Munich - Viktoria Plzen</li>
+<li>(17:45) Marseille - Sporting Lisbon</li>
+<li>(19:45) AFC Fylde - Congleton Town</li>
+<li>(19:45) Ashington A.F.C. - Stocksbridge Park Steels</li>
+<li>(19:45) Biggleswade Town - Billericay Town</li>
+<li>(19:45) Boston United - Basford United</li>
+<li>(19:45) Curzon Ashton - Scarborough Athletic</li>
+<li>(19:45) Hanley Town - Chester</li>
+<li>(19:45) Plymouth Parkway - Oxford City</li>
+<li>(20:00) Ajax - Napoli</li>
+<li>(20:00) Club Bruges - Atlético Madrid</li>
+<li>(20:00) Eintracht Frankfurt - Tottenham Hotspur</li>
+<li>(20:00) FC Porto - Bayer 04 Leverkusen</li>
+<li>(20:00) Inter Milan - Barcelona</li>
+<li>(20:00) Liverpool - Rangers</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -66,26 +81,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Potter’s praise and challenge for goalscorers Aubameyang and Gallagher](https://chelseafc.com/en/news/article/potters-praise-and-challenge-for-goalscorers-aubameyang-and-gallagher) (03 Oct)
-- [Aubameyang delighted to help the team](https://chelseafc.com/en/news/article/aubameyang-delighted-to-help-the-team) (02 Oct)
-- [Crystal Palace vs Chelsea Debrief: Gallagher rocket secures Potter his first win](https://chelseafc.com/en/news/article/crystal-palace-vs-chelsea-debrief-gallagher-rocket-secures-potter-his-first) (02 Oct)
-- [Conor Gallagher interview: When it left my boot I knew it had a chance](https://chelseafc.com/en/news/article/conor-gallagher-interview-when-it-left-my-boot-i-knew-it-had-a-chance) (02 Oct)
-- [Conor's winner v Palace - All The Angles](https://chelseafc.com/en/video/conors-winner-v-palace-or-all-the-angles) (01 Oct)
+- [Pat Nevin: What Chelsea need against AC Milan and the ex-player factor](https://chelseafc.com/en/news/article/pat-nevin-what-chelsea-need-against-ac-milan-and-the-ex-player-factor) (04 Oct)
+- [EFL Trophy preview: Derrick Abu on improving his game as development squad take on Oxford United](https://chelseafc.com/en/news/article/efl-trophy-preview-derrick-abu-on-improving-his-game-as-development-squad) (04 Oct)
+- [Chelsea train ahead of AC Milan visit](https://chelseafc.com/en/news/article/chelsea-train-ahead-of-ac-milan-visit) (03 Oct)
+- [Friend to Foe – Blues who scored against their former clubs](https://chelseafc.com/en/news/article/friend-to-foe-blues-who-scored-against-their-former-clubs) (03 Oct)
+- [Chelsea Here Chelsea There: Maatsen provides for Burnley and Sarr helps Monaco to victory](https://chelseafc.com/en/news/article/chelsea-here-chelsea-there-maatsen-provides-for-burnley-and-sarr-helps) (03 Oct)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > ludicrous - adjective: So absurd as to provoke laughter.
+ > jaunty - adjective: 1. Stylish. 2. Lively; self-confident.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 634, using [1, 7, 10, 25, 50, 100]
-- Solution: 100 x 7 + 10 - 50 - 25 - 1
-- Total: 2 solutions.
+- Target: 782, using [5, 7, 9, 50, 75, 100]
+- Solution: ( 100 x 75 - 7 - 5 ) / 9 - 50
+- Total: 10 solutions.
 
 <!-- game_marker ends -->
