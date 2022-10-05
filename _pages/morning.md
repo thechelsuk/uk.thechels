@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 04 October 2022
+### Daily Rundown on Wednesday, 05 October 2022
 
-- The average temperature today is 17.38˚C;
-- With highs of 19.26˚C and lows of 12.93˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 14.36˚C;
+- With highs of 16.53˚C and lows of 9.97˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,17 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
-- Walking jacks
-- Kettlebell swings
+- Plank
+- Shadow boxing
+- Dead bugs
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -45,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 81.775
-- V3AB.L : 3.67275
-- SPXP.L : 61798.5
-- IMID.L : 156.175
+- VWRL.L : 83.68
+- V3AB.L : 3.76375
+- SPXP.L : 63152.0
+- IMID.L : 161.795
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 227.0
+- 0P00013P6I.L : 230.77
 
 <!-- stocks_marker ends -->
 
@@ -59,21 +57,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(17:45) Bayern Munich - Viktoria Plzen</li>
-<li>(17:45) Marseille - Sporting Lisbon</li>
-<li>(19:45) AFC Fylde - Congleton Town</li>
-<li>(19:45) Ashington A.F.C. - Stocksbridge Park Steels</li>
-<li>(19:45) Biggleswade Town - Billericay Town</li>
-<li>(19:45) Boston United - Basford United</li>
-<li>(19:45) Curzon Ashton - Scarborough Athletic</li>
-<li>(19:45) Hanley Town - Chester</li>
-<li>(19:45) Plymouth Parkway - Oxford City</li>
-<li>(20:00) Ajax - Napoli</li>
-<li>(20:00) Club Bruges - Atlético Madrid</li>
-<li>(20:00) Eintracht Frankfurt - Tottenham Hotspur</li>
-<li>(20:00) FC Porto - Bayer 04 Leverkusen</li>
-<li>(20:00) Inter Milan - Barcelona</li>
-<li>(20:00) Liverpool - Rangers</li>
+<li>(17:45) FC Red Bull Salzburg - Dinamo Zagreb</li>
+<li>(17:45) RB Leipzig - Celtic</li>
+<li>(19:45) Bury AFC - Clitheroe</li>
+<li>(20:00) Benfica - Paris Saint Germain</li>
+<li>(20:00) Chelsea - AC Milan</li>
+<li>(20:00) Juventus - Maccabi Haifa</li>
+<li>(20:00) Manchester City - FC Copenhagen</li>
+<li>(20:00) Real Madrid - Shakhtar Donetsk</li>
+<li>(20:00) Sevilla - Borussia Dortmund</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -81,26 +73,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Pat Nevin: What Chelsea need against AC Milan and the ex-player factor](https://chelseafc.com/en/news/article/pat-nevin-what-chelsea-need-against-ac-milan-and-the-ex-player-factor) (04 Oct)
-- [EFL Trophy preview: Derrick Abu on improving his game as development squad take on Oxford United](https://chelseafc.com/en/news/article/efl-trophy-preview-derrick-abu-on-improving-his-game-as-development-squad) (04 Oct)
-- [Chelsea train ahead of AC Milan visit](https://chelseafc.com/en/news/article/chelsea-train-ahead-of-ac-milan-visit) (03 Oct)
-- [Friend to Foe – Blues who scored against their former clubs](https://chelseafc.com/en/news/article/friend-to-foe-blues-who-scored-against-their-former-clubs) (03 Oct)
-- [Chelsea Here Chelsea There: Maatsen provides for Burnley and Sarr helps Monaco to victory](https://chelseafc.com/en/news/article/chelsea-here-chelsea-there-maatsen-provides-for-burnley-and-sarr-helps) (03 Oct)
+- [Facts at your fingertips: Chelsea vs AC Milan](https://chelseafc.com/en/news/article/facts-at-your-fingertips-chelsea-vs-ac-milan) (04 Oct)
+- [Koulibaly: I know that my time will come](https://chelseafc.com/en/news/article/koulibaly-i-know-that-my-time-will-come) (04 Oct)
+- [EFL Trophy report: Oxford United 1 Chelsea 2](https://chelseafc.com/en/news/article/efl-trophy-report-oxford-united-1-chelsea-2) (04 Oct)
+- [Chelsea vs AC Milan press conference: Potter issues injury update and comments on Kante](https://chelseafc.com/en/news/article/chelsea-vs-team-press-conference-chelsea-news-injury-updates-suspensions) (04 Oct)
+- [Potter: Koulibaly’s response has been fantastic](https://chelseafc.com/en/news/article/potter-koulibalys-response-has-been-fantastic) (04 Oct)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > jaunty - adjective: 1. Stylish. 2. Lively; self-confident.
+ > hipster - noun: One whose interests in clothing, music, etc., tend to be outside the mainstream, especially in a self-conscious way.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 782, using [5, 7, 9, 50, 75, 100]
-- Solution: ( 100 x 75 - 7 - 5 ) / 9 - 50
-- Total: 10 solutions.
+- Target: 273, using [7, 8, 10, 50, 75, 100]
+- Solution: ( 100 + 10 - 75 ) x 8 - 7
+- Total: 14 solutions.
 
 <!-- game_marker ends -->
