@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 08 October 2022
+### Daily Rundown on Sunday, 09 October 2022
 
-- The average temperature today is 13.63˚C;
-- With highs of 15.6˚C and lows of 6.77˚C.
-- You can expect clear sky for the day.
+- The average temperature today is 15.97˚C;
+- With highs of 16.81˚C and lows of 7.29˚C.
+- You can expect few clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
-- Bodyweight squats
-- Shadow boxing
+- Walking jacks
+- Calf raises
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -57,11 +57,10 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(15:00) Bournemouth - Leicester City</li>
-<li>(15:00) Chelsea - Wolverhampton Wanderers</li>
-<li>(15:00) Manchester City - Southampton</li>
-<li>(15:00) Newcastle United - Brentford</li>
-<li>(17:30) Brighton & Hove Albion - Tottenham Hotspur</li>
+<li>(14:00) Crystal Palace - Leeds United</li>
+<li>(14:00) West Ham United - Fulham</li>
+<li>(16:30) Arsenal - Liverpool</li>
+<li>(19:00) Everton - Manchester United</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -69,11 +68,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Cucurella on reuniting with Potter, loving London and adapting his game to English football](https://chelseafc.com/en/news/article/cucurella-on-reuniting-with-potter-loving-london-and-adapting-his-game-to) (08 Oct)
-- [Club 50: Chelsea’s seven Premier League half-centurions](https://chelseafc.com/en/news/article/club-50-chelseas-seven-premier-league-half-centurions) (08 Oct)
-- [PL2 preview: Maintaining consistency the key as London derby awaits Chelsea](https://chelseafc.com/en/news/article/pl2-preview-maintaining-consistency-the-key-as-london-derby-awaits-chelsea) (08 Oct)
-- [Chelsea vs Wolves: Last season's match](https://chelseafc.com/en/news/article/chelsea-vs-wolves-last-seasons-match) (07 Oct)
-- [Old faces back at the Bridge & first team photo! - Chelsea Unseen - Presented by trivago](https://chelseafc.com/en/video/giroud-back-at-the-bridge-and-first-team-photo-or-chelsea-unseen-or) (07 Oct)
+- [Pulisic: That was nice!](https://chelseafc.com/en/news/article/pulisic-that-was-nice) (09 Oct)
+- [Chelsea 3-0 Wolves - Premier League Extended Highlights](https://chelseafc.com/en/video/chelsea-3-0-wolves-or-premier-league-extended-highlights) (08 Oct)
+- [Potter on scoring at the right times and Broja's first Chelsea goal](https://chelseafc.com/en/news/article/potter-on-scoring-at-the-right-times-and-brojas-first-chelsea-goal) (08 Oct)
+- [Chelsea 3-0 Wolves - Premier League Highlights](https://chelseafc.com/en/video/chelsea-3-0-wolves-or-premier-league-highlights) (08 Oct)
+- [Chelsea vs Wolves result and report: Broja rounds off impressive win](https://chelseafc.com/en/news/article/chelsea-vs-wolves-result-and-report-broja-rounds-off-impressive-win) (08 Oct)
 
 <!-- cfc_marker ends -->
 
@@ -87,8 +86,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 393, using [7, 9, 10, 25, 50, 75]
-- Solution: 75 x 50 / 10 + 25 - 7
-- Total: 15 solutions.
+- Target: 308, using [2, 4, 8, 10, 25, 75]
+- Solution: ( 75 - 25 - 10 - 2 ) x 8 + 4
+- Total: 31 solutions.
 
 <!-- game_marker ends -->
