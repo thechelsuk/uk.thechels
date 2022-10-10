@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 09 October 2022
+### Daily Rundown on Monday, 10 October 2022
 
-- The average temperature today is 15.97˚C;
-- With highs of 16.81˚C and lows of 7.29˚C.
-- You can expect few clouds for the day.
+- The average temperature today is 13.01˚C;
+- With highs of 14.47˚C and lows of 6.58˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,7 +19,7 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
+- Dead bugs
 - Calf raises
 - Kettlebell rows
 
@@ -57,10 +57,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(14:00) Crystal Palace - Leeds United</li>
-<li>(14:00) West Ham United - Fulham</li>
-<li>(16:30) Arsenal - Liverpool</li>
-<li>(19:00) Everton - Manchester United</li>
+<li>(20:00) Nottingham Forest - Aston Villa</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -68,26 +65,24 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Potter praises Mount impact and discusses Pulisic’s best role](https://chelseafc.com/en/news/article/potter-praises-mount-impact-and-discusses-pulisics-best-role) (10 Oct)
+- [Chelsea vs Wolves Debrief: Overloads and fluid front four pin visitors back](https://chelseafc.com/en/news/article/chelsea-vs-wolves-debrief-overloads-and-fluid-front-four-pin-visitors-back) (09 Oct)
+- [Happy scorers Broja and Havertz reflect on important goals and squad depth](https://chelseafc.com/en/news/article/happy-scorers-broja-and-havertz-reflect-on-important-goals-and-squad-depth) (09 Oct)
 - [Pulisic: That was nice!](https://chelseafc.com/en/news/article/pulisic-that-was-nice) (09 Oct)
-- [Chelsea 3-0 Wolves - Premier League Extended Highlights](https://chelseafc.com/en/video/chelsea-3-0-wolves-or-premier-league-extended-highlights) (08 Oct)
-- [Potter on scoring at the right times and Broja's first Chelsea goal](https://chelseafc.com/en/news/article/potter-on-scoring-at-the-right-times-and-brojas-first-chelsea-goal) (08 Oct)
-- [Chelsea 3-0 Wolves - Premier League Highlights](https://chelseafc.com/en/video/chelsea-3-0-wolves-or-premier-league-highlights) (08 Oct)
-- [Chelsea vs Wolves result and report: Broja rounds off impressive win](https://chelseafc.com/en/news/article/chelsea-vs-wolves-result-and-report-broja-rounds-off-impressive-win) (08 Oct)
+- [West Ham 0-1 Chelsea - PL2 Highlights](https://chelseafc.com/en/video/west-ham-u21-0-1-chelsea-u21-or-pl2-highlights) (08 Oct)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > surly - adjective: 1. Rude; sullen; unfriendly. 2. Ominous or dismal (used for weather, clouds, sky, ocean, etc.)
+ > Copernican - adjective: 1. Very important; radically different; paradigm shifting. 2. Relating to Copernicus or his theory that the earth rotates on its axis and revolves around the sun.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 308, using [2, 4, 8, 10, 25, 75]
-- Solution: ( 75 - 25 - 10 - 2 ) x 8 + 4
-- Total: 31 solutions.
+- Target: 683, using [1, 1, 2, 5, 6, 10]
 
 <!-- game_marker ends -->
