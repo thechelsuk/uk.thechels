@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 12 October 2022
+### Daily Rundown on Thursday, 13 October 2022
 
-- The average temperature today is 14.73˚C;
-- With highs of 15.49˚C and lows of 7.03˚C.
-- You can expect light rain for the day.
+- The average temperature today is 14.35˚C;
+- With highs of 16.33˚C and lows of 9.46˚C.
+- You can expect scattered clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
-- Calf raises
 - Walking jacks
+- Kettlebell swings
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 81.785
-- V3AB.L : 3.667
-- SPXP.L : 61926.0
-- IMID.L : 153.765
+- VWRL.L : 81.69
+- V3AB.L : 3.66475
+- SPXP.L : 61978.0
+- IMID.L : 153.285
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 230.58
+- 0P00013P6I.L : 228.89
 
 <!-- stocks_marker ends -->
 
@@ -57,41 +57,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(17:45) Atlético Madrid - Club Bruges</li>
-<li>(17:45) Napoli - Ajax</li>
-<li>(20:00) Barcelona - Inter Milan</li>
-<li>(20:00) Bayer 04 Leverkusen - FC Porto</li>
-<li>(20:00) Rangers - Liverpool</li>
-<li>(20:00) Sporting Lisbon - Marseille</li>
-<li>(20:00) Tottenham Hotspur - Eintracht Frankfurt</li>
-<li>(20:00) Viktoria Plzen - Bayern Munich</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [AC Milan 0-2 Chelsea - Champions League Highlights](https://chelseafc.com/en/video/ac-milan-0-2-chelsea-or-champions-league-highlights) (11 Oct)
-- [AC Milan vs Chelsea: Potter's view on Rossoneri red card and Reece James injury update](https://chelseafc.com/en/news/article/ac-milan-vs-chelsea-potters-view-on-rossoneri-red-card-and-reece-james) (11 Oct)
-- [Potter’s post-match reflections! 🎙](https://chelseafc.com/en/video/keep-being-positive-keep-looking-for-the-goals) (11 Oct)
-- [AC Milan vs Chelsea result and report: Brilliant Blues secure first win at San Siro after Tomori sees red](https://chelseafc.com/en/news/article/ac-milan-vs-chelsea-result-and-report-brilliant-blues-secure-first-win-at) (11 Oct)
-- [Milan U19 3-1 Chelsea U19 - UEFA Youth League Highlights](https://chelseafc.com/en/video/milan-u19-3-1-chelsea-u19-or-uefa-youth-league-highlights) (11 Oct)
+- [Kepa reflects on Potter's start to life at Chelsea](https://chelseafc.com/en/news/article/kepa-reflects-on-potters-start-to-life-at-chelsea) (13 Oct)
+- [Aubameyang: We managed the atmosphere expertly](https://chelseafc.com/en/news/article/aubameyang-we-managed-the-atmosphere-expertly) (12 Oct)
+- [A special night in Milan](https://chelseafc.com/en/video/a-special-night-in-milan) (12 Oct)
+- [AC Milan vs Chelsea Debrief: Mount’s magical 45 minutes and tactical swing in midfield](https://chelseafc.com/en/news/article/ac-milan-vs-chelsea-debrief-mounts-magical-45-minutes-and-tactical-swing-in) (12 Oct)
+- [Mount interview on mental strength being key in Milan and sympathy for Tomori](https://chelseafc.com/en/news/article/mount-interview-on-mental-strength-being-key-in-milan-and-sympathy-for) (12 Oct)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > bacchanalize - verb intr.: To engage in wild revelry.
+ > Overton window - noun: The range of beliefs, attitudes, etc., considered acceptable at any given time.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 537, using [1, 4, 7, 7, 25, 100]
-- Solution: ( 100 - 25 ) x 7 + 7 + 4 + 1
-- Total: 2 solutions.
+- Target: 549, using [2, 4, 4, 8, 9, 75]
+- Solution: ( 9 - 2 ) x 75 + 4 x 4 + 8
+- Total: 17 solutions.
 
 <!-- game_marker ends -->
