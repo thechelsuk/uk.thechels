@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 13 October 2022
+### Daily Rundown on Friday, 14 October 2022
 
-- The average temperature today is 14.35˚C;
-- With highs of 16.33˚C and lows of 9.46˚C.
-- You can expect scattered clouds for the day.
+- The average temperature today is 15.42˚C;
+- With highs of 16.81˚C and lows of 10.45˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
-- Kettlebell swings
+- Calf raises
 - Kettlebell rows
+- Dead bugs
 
 <!-- workout_marker ends -->
 
@@ -33,9 +33,9 @@ No tasks today
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
 
-- 108 new cases & 2 deaths on 2022-10-06
-- 0 new cases & 0 deaths on 2022-10-05
-- 0 new cases & 0 deaths on 2022-10-04
+- 138 new cases & 1 deaths on 2022-10-13
+- 0 new cases & 0 deaths on 2022-10-12
+- 0 new cases & 0 deaths on 2022-10-11
 
 <!-- c19_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 81.69
-- V3AB.L : 3.66475
-- SPXP.L : 61978.0
-- IMID.L : 153.285
+- VWRL.L : 80.43
+- V3AB.L : 3.6025
+- SPXP.L : 61006.0
+- IMID.L : 154.17
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 228.89
+- 0P00013P6I.L : 226.78
 
 <!-- stocks_marker ends -->
 
@@ -57,33 +57,34 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(20:00) Brentford - Brighton & Hove Albion</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Kepa reflects on Potter's start to life at Chelsea](https://chelseafc.com/en/news/article/kepa-reflects-on-potters-start-to-life-at-chelsea) (13 Oct)
-- [Aubameyang: We managed the atmosphere expertly](https://chelseafc.com/en/news/article/aubameyang-we-managed-the-atmosphere-expertly) (12 Oct)
-- [A special night in Milan](https://chelseafc.com/en/video/a-special-night-in-milan) (12 Oct)
-- [AC Milan vs Chelsea Debrief: Mount’s magical 45 minutes and tactical swing in midfield](https://chelseafc.com/en/news/article/ac-milan-vs-chelsea-debrief-mounts-magical-45-minutes-and-tactical-swing-in) (12 Oct)
-- [Mount interview on mental strength being key in Milan and sympathy for Tomori](https://chelseafc.com/en/news/article/mount-interview-on-mental-strength-being-key-in-milan-and-sympathy-for) (12 Oct)
+- [Aston Villa vs Chelsea: Pre-Match Briefing](https://chelseafc.com/en/news/article/aston-villa-vs-chelsea-pre-match-briefing-oct-22) (14 Oct)
+- [A win to savour at the San Siro - Unseen Extra - Presented by trivago](https://chelseafc.com/en/video/a-win-to-savour-at-the-san-siro-or-unseen-extra-or-presented-by-trivago) (13 Oct)
+- [Aston Villa vs Chelsea: Facts at your fingertips](https://chelseafc.com/en/news/article/aston-villa-vs-chelsea-facts-at-your-fingertips) (13 Oct)
+- [Statement from Emma Hayes](https://chelseafc.com/en/news/article/statement-from-emma-hayes) (13 Oct)
+- [On the spot – Jorginho equals Hazard’s penalty mark](https://chelseafc.com/en/news/article/on-the-spot-jorginho-equals-hazards-penalty-mark) (13 Oct)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > Overton window - noun: The range of beliefs, attitudes, etc., considered acceptable at any given time.
+ > Barmecide - noun: One giving only the illusion of abundance or some benefits.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 549, using [2, 4, 4, 8, 9, 75]
-- Solution: ( 9 - 2 ) x 75 + 4 x 4 + 8
-- Total: 17 solutions.
+- Target: 979, using [1, 2, 2, 4, 25, 100]
+- Solution: ( ( 4 + 1 ) x 100 + 2 ) x 2 - 25
+- Total: 1 solutions.
 
 <!-- game_marker ends -->
