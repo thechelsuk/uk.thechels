@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 14 October 2022
+### Daily Rundown on Saturday, 15 October 2022
 
-- The average temperature today is 15.42˚C;
-- With highs of 16.81˚C and lows of 10.45˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 14.33˚C;
+- With highs of 15.01˚C and lows of 9.86˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,8 +19,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Calf raises
-- Kettlebell rows
+- Bench dips
+- Bodyweight squats
 - Dead bugs
 
 <!-- workout_marker ends -->
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 80.43
-- V3AB.L : 3.6025
-- SPXP.L : 61006.0
-- IMID.L : 154.17
+- VWRL.L : 81.22
+- V3AB.L : 3.641
+- SPXP.L : 61531.06641
+- IMID.L : 154.75
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 226.78
+- 0P00013P6I.L : 229.81
 
 <!-- stocks_marker ends -->
 
@@ -57,7 +57,43 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Brentford - Brighton & Hove Albion</li>
+<li>(12:30) Anstey Nomads - Chesterfield</li>
+<li>(12:30) Aston Villa Women - West Ham United Women</li>
+<li>(12:30) Leicester City - Crystal Palace</li>
+<li>(13:00) Blyth Spartans - Wrexham</li>
+<li>(15:00) Altrincham - Gateshead</li>
+<li>(15:00) Alvechurch - Worksop Town</li>
+<li>(15:00) Barnet - Weston-super-Mare</li>
+<li>(15:00) Beckenham Town - Dagenham & Redbridge</li>
+<li>(15:00) Boreham Wood - Wealdstone</li>
+<li>(15:00) Bracknell Town - Banbury United</li>
+<li>(15:00) Bromley - Hereford</li>
+<li>(15:00) Bury AFC - York City</li>
+<li>(15:00) Buxton - Hyde United</li>
+<li>(15:00) Chelmsford City - Aldershot Town</li>
+<li>(15:00) Dorking Wanderers - Eastleigh</li>
+<li>(15:00) Ebbsfleet United - Sevenoaks Town</li>
+<li>(15:00) Farnborough  - Biggleswade Town</li>
+<li>(15:00) Fulham - Bournemouth</li>
+<li>(15:00) Havant & Waterlooville - Weymouth</li>
+<li>(15:00) Hendon - Chippenham Town</li>
+<li>(15:00) Hornchurch - Oxford City</li>
+<li>(15:00) Kidderminster Harriers - AFC Fylde</li>
+<li>(15:00) King's Lynn Town - Ashington A.F.C.</li>
+<li>(15:00) Maidenhead United - Eastbourne Borough</li>
+<li>(15:00) Merthyr Town - Folkestone Invicta</li>
+<li>(15:00) Needham Market - Maidstone United</li>
+<li>(15:00) Notts County - Coalville Town</li>
+<li>(15:00) Oldham Athletic - Chester</li>
+<li>(15:00) Peterborough Sports - Curzon Ashton</li>
+<li>(15:00) Solihull Moors - Basford United</li>
+<li>(15:00) South Shields - Scunthorpe United</li>
+<li>(15:00) St Ives Town - FC Halifax Town</li>
+<li>(15:00) Torquay United - Hampton & Richmond</li>
+<li>(15:00) Woking - Southend United</li>
+<li>(15:00) Wolverhampton Wanderers - Nottingham Forest</li>
+<li>(15:00) Yeovil Town - Taunton Town</li>
+<li>(17:30) Tottenham Hotspur - Everton</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -65,11 +101,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Aston Villa vs Chelsea: Pre-Match Briefing](https://chelseafc.com/en/news/article/aston-villa-vs-chelsea-pre-match-briefing-oct-22) (14 Oct)
-- [A win to savour at the San Siro - Unseen Extra - Presented by trivago](https://chelseafc.com/en/video/a-win-to-savour-at-the-san-siro-or-unseen-extra-or-presented-by-trivago) (13 Oct)
-- [Aston Villa vs Chelsea: Facts at your fingertips](https://chelseafc.com/en/news/article/aston-villa-vs-chelsea-facts-at-your-fingertips) (13 Oct)
-- [Statement from Emma Hayes](https://chelseafc.com/en/news/article/statement-from-emma-hayes) (13 Oct)
-- [On the spot – Jorginho equals Hazard’s penalty mark](https://chelseafc.com/en/news/article/on-the-spot-jorginho-equals-hazards-penalty-mark) (13 Oct)
+- ['It's the moment he's been dreaming of!'](https://chelseafc.com/en/video/its-the-moment-hes-been-dreaming-of) (15 Oct)
+- [Potter on tactical challenge of coping without injured trio](https://chelseafc.com/en/news/article/potter-on-tactical-challenge-of-coping-without-injured-trio) (15 Oct)
+- [Everton Women vs Chelsea Women preview: Kick-off time, where to watch and more!](https://chelseafc.com/en/news/article/everton-women-vs-chelsea-women-preview-kick-off-time-where-to-watch) (15 Oct)
+- [PL2 preview: Trust and freedom](https://chelseafc.com/en/news/article/pl2-preview-trust-and-freedom) (15 Oct)
+- [✈️ From Milan to Birmingham! - Chelsea Unseen](https://chelseafc.com/en/video/from-milan-to-birmingham-or-chelsea-unseen) (14 Oct)
 
 <!-- cfc_marker ends -->
 
@@ -83,8 +119,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 979, using [1, 2, 2, 4, 25, 100]
-- Solution: ( ( 4 + 1 ) x 100 + 2 ) x 2 - 25
-- Total: 1 solutions.
+- Target: 466, using [4, 5, 5, 7, 9, 100]
+- Solution: ( 100 + 9 ) x 4 + 7 x 5 - 5
+- Total: 16 solutions.
 
 <!-- game_marker ends -->
