@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 15 October 2022
+### Daily Rundown on Sunday, 16 October 2022
 
-- The average temperature today is 14.33˚C;
-- With highs of 15.01˚C and lows of 9.86˚C.
-- You can expect light rain for the day.
+- The average temperature today is 14.21˚C;
+- With highs of 16.18˚C and lows of 9.08˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
+- Kettlebell rows
 - Bodyweight squats
-- Dead bugs
+- Plank
 
 <!-- workout_marker ends -->
 
@@ -45,7 +45,7 @@ No tasks today
 
 - VWRL.L : 81.22
 - V3AB.L : 3.641
-- SPXP.L : 61531.06641
+- SPXP.L : 61803.0
 - IMID.L : 154.75
 - 0P0001K1DP.L : nan
 - 0P00013P6I.L : 229.81
@@ -57,43 +57,16 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Anstey Nomads - Chesterfield</li>
-<li>(12:30) Aston Villa Women - West Ham United Women</li>
-<li>(12:30) Leicester City - Crystal Palace</li>
-<li>(13:00) Blyth Spartans - Wrexham</li>
-<li>(15:00) Altrincham - Gateshead</li>
-<li>(15:00) Alvechurch - Worksop Town</li>
-<li>(15:00) Barnet - Weston-super-Mare</li>
-<li>(15:00) Beckenham Town - Dagenham & Redbridge</li>
-<li>(15:00) Boreham Wood - Wealdstone</li>
-<li>(15:00) Bracknell Town - Banbury United</li>
-<li>(15:00) Bromley - Hereford</li>
-<li>(15:00) Bury AFC - York City</li>
-<li>(15:00) Buxton - Hyde United</li>
-<li>(15:00) Chelmsford City - Aldershot Town</li>
-<li>(15:00) Dorking Wanderers - Eastleigh</li>
-<li>(15:00) Ebbsfleet United - Sevenoaks Town</li>
-<li>(15:00) Farnborough  - Biggleswade Town</li>
-<li>(15:00) Fulham - Bournemouth</li>
-<li>(15:00) Havant & Waterlooville - Weymouth</li>
-<li>(15:00) Hendon - Chippenham Town</li>
-<li>(15:00) Hornchurch - Oxford City</li>
-<li>(15:00) Kidderminster Harriers - AFC Fylde</li>
-<li>(15:00) King's Lynn Town - Ashington A.F.C.</li>
-<li>(15:00) Maidenhead United - Eastbourne Borough</li>
-<li>(15:00) Merthyr Town - Folkestone Invicta</li>
-<li>(15:00) Needham Market - Maidstone United</li>
-<li>(15:00) Notts County - Coalville Town</li>
-<li>(15:00) Oldham Athletic - Chester</li>
-<li>(15:00) Peterborough Sports - Curzon Ashton</li>
-<li>(15:00) Solihull Moors - Basford United</li>
-<li>(15:00) South Shields - Scunthorpe United</li>
-<li>(15:00) St Ives Town - FC Halifax Town</li>
-<li>(15:00) Torquay United - Hampton & Richmond</li>
-<li>(15:00) Woking - Southend United</li>
-<li>(15:00) Wolverhampton Wanderers - Nottingham Forest</li>
-<li>(15:00) Yeovil Town - Taunton Town</li>
-<li>(17:30) Tottenham Hotspur - Everton</li>
+<li>(12:00) Manchester United Women - Brighton & Hove Albion Women</li>
+<li>(13:00) Everton Women - Chelsea Women</li>
+<li>(14:00) Aston Villa - Chelsea</li>
+<li>(14:00) Leeds United - Arsenal</li>
+<li>(14:00) Manchester City Women - Leicester City Women</li>
+<li>(14:00) Manchester United - Newcastle United</li>
+<li>(14:00) Southampton - West Ham United</li>
+<li>(14:00) Tottenham Hotspur Women - Liverpool Women</li>
+<li>(16:30) Liverpool - Manchester City</li>
+<li>(18:45) Reading Women - Arsenal Women</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -101,11 +74,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- ['It's the moment he's been dreaming of!'](https://chelseafc.com/en/video/its-the-moment-hes-been-dreaming-of) (15 Oct)
-- [Potter on tactical challenge of coping without injured trio](https://chelseafc.com/en/news/article/potter-on-tactical-challenge-of-coping-without-injured-trio) (15 Oct)
-- [Everton Women vs Chelsea Women preview: Kick-off time, where to watch and more!](https://chelseafc.com/en/news/article/everton-women-vs-chelsea-women-preview-kick-off-time-where-to-watch) (15 Oct)
-- [PL2 preview: Trust and freedom](https://chelseafc.com/en/news/article/pl2-preview-trust-and-freedom) (15 Oct)
-- [✈️ From Milan to Birmingham! - Chelsea Unseen](https://chelseafc.com/en/video/from-milan-to-birmingham-or-chelsea-unseen) (14 Oct)
+- [One-to-one with Graham Potter](https://chelseafc.com/en/video/one-to-one-with-graham-potter) (16 Oct)
+- [Potter: Comparing coaching careers and why I couldn’t support Villa](https://chelseafc.com/en/news/article/potter-comparing-coaching-careers-and-why-i-couldnt-support-villa) (16 Oct)
+- [Eriksson talks confidence, experience and maturity](https://chelseafc.com/en/news/article/eriksson-talks-confidence-experience-and-maturity) (16 Oct)
+- [Reece James injury update](https://chelseafc.com/en/news/article/reece-james-injury-update-oct-2022) (15 Oct)
+- [Aston Villa vs Chelsea: Last season's match](https://chelseafc.com/en/news/article/aston-villa-vs-chelsea-last-seasons-match) (15 Oct)
 
 <!-- cfc_marker ends -->
 
@@ -119,8 +92,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 466, using [4, 5, 5, 7, 9, 100]
-- Solution: ( 100 + 9 ) x 4 + 7 x 5 - 5
-- Total: 16 solutions.
+- Target: 660, using [3, 5, 5, 7, 7, 25]
+- Solution: ( ( 7 + 7 - 5 ) x 25 - 5 ) x 3
+- Total: 18 solutions.
 
 <!-- game_marker ends -->
