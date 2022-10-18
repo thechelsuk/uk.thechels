@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 17 October 2022
+### Daily Rundown on Tuesday, 18 October 2022
 
-- The average temperature today is 14.69˚C;
-- With highs of 15.94˚C and lows of 9.7˚C.
-- You can expect light rain for the day.
+- The average temperature today is 15.25˚C;
+- With highs of 17.21˚C and lows of 6.38˚C.
+- You can expect clear sky for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Dead bugs
 - Bench dips
 - Kettlebell swings
+- Shadow boxing
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
@@ -44,12 +45,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 81.22
-- V3AB.L : 3.641
-- SPXP.L : 61803.0
-- IMID.L : 154.75
+- VWRL.L : 81.16
+- V3AB.L : 3.63425
+- SPXP.L : 61431.5
+- IMID.L : 156.82001
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 229.81
+- 0P00013P6I.L : 225.92999
 
 <!-- stocks_marker ends -->
 
@@ -58,33 +59,42 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(19:30) Brighton & Hove Albion - Nottingham Forest</li>
+<li>(19:45) AFC Fylde - Kidderminster Harriers</li>
+<li>(19:45) Chester - Oldham Athletic</li>
+<li>(19:45) Chippenham Town - Hendon</li>
+<li>(19:45) Gateshead - Altrincham</li>
+<li>(19:45) Hampton & Richmond - Torquay United</li>
+<li>(19:45) Taunton Town - Yeovil Town</li>
+<li>(19:45) Wrexham - Blyth Spartans</li>
+<li>(20:15) Crystal Palace - Wolverhampton Wanderers</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Kepa on helping out and keeping faith in his work](https://chelseafc.com/en/news/article/kepa-on-helping-out-and-keeping-faith-in-his-work) (17 Oct)
-- [Aston Villa 0-2 Chelsea - Extended Premier League Highlights](https://chelseafc.com/en/video/aston-villa-0-2-chelsea-or-extended-premier-league-highlights) (16 Oct)
-- [Potter delighted with Mount and Kepa's roles in tough win and Blues' defensive desire](https://chelseafc.com/en/news/article/potter-delighted-with-mount-and-kepas-roles-in-tough-win) (16 Oct)
-- [Aston Villa 0-2 Chelsea - Premier League Highlights](https://chelseafc.com/en/video/aston-villa-0-2-chelsea-or-premier-league-highlights) (16 Oct)
-- [Graham Potter’s post match thoughts!](https://chelseafc.com/en/video/graham-potters-post-match-thoughts) (16 Oct)
+- [Pat Nevin: Why writing off Mount is daft and what Chelsea need at Brentford](https://chelseafc.com/en/news/article/pat-nevin-why-writing-off-mount-is-daft-and-what-chelsea-need-at-brentford) (18 Oct)
+- [Lauren James: We always want to win](https://chelseafc.com/en/news/article/lauren-james-we-always-want-to-win) (18 Oct)
+- [Kerr third in Women’s Ballon d’Or](https://chelseafc.com/en/news/article/kerr-third-in-womens-ballon-dor) (17 Oct)
+- [Potter's Chelsea extend winning run! - Unseen Extra](https://chelseafc.com/en/video/potters-chelsea-extend-winning-run-or-unseen-extra) (17 Oct)
+- [Aston Villa vs Chelsea Debrief: Blues quick to adapt and Kepa to the rescue](https://chelseafc.com/en/news/article/aston-villa-vs-chelsea-debrief-blues-quick-to-adapt-and-kepa-to-the-rescue) (17 Oct)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > shrinkflation - noun: The practice of reducing the size of products while selling at the same price.
+ > selectorate - noun: A smaller group of people, as opposed to the general population, involved in picking a person, especially for a political position.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 589, using [2, 9, 10, 25, 50, 100]
-- Solution: ( 100 x 2 / 25 + 50 ) x 10 + 9
-- Total: 4 solutions.
+- Target: 867, using [4, 7, 10, 25, 75, 100]
+- Solution: ( 100 + 25 + 7 ) x ( 10 - 4 ) + 75
+- Total: 3 solutions.
 
 <!-- game_marker ends -->
