@@ -1,11 +1,10 @@
 ---
-title: Offers page
+title: Offers
 
 ---
 
-### Offers
 Selection of offers and referrals mostly offering free money
       
-      {% for item in site.data.offers %}
-        - {{item.title}}  &rarr; [{{item.link}}]({{item.link}})
-      {% endfor %}
+{% for item in site.data.offers %}
+- {{item.title}}  &rarr; [{{item.link}}]({{item.link}})
+{% endfor %}
