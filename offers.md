@@ -4,6 +4,8 @@ layout: none
 
 ---
 
+## {{page.title}}
+
 Selection of offers and referrals mostly offering free money
       
 {% for item in site.data.offers %}
