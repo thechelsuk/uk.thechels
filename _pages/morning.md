@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 23 October 2022
+### Daily Rundown on Monday, 24 October 2022
 
-- The average temperature today is 14.34˚C;
-- With highs of 16.85˚C and lows of 11.91˚C.
-- You can expect heavy intensity rain for the day.
+- The average temperature today is 13.97˚C;
+- With highs of 15.4˚C and lows of 10.73˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
-- Dead bugs
 - Kettlebell swings
+- Plank
+- Bodyweight squats
 
 <!-- workout_marker ends -->
 
@@ -57,15 +57,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:00) Liverpool Women - Arsenal Women</li>
-<li>(14:00) Aston Villa - Brentford</li>
-<li>(14:00) Leeds United - Fulham</li>
-<li>(14:00) Southampton - Arsenal</li>
-<li>(14:00) Wolverhampton Wanderers - Leicester City</li>
-<li>(15:00) Leicester City Women - Manchester United Women</li>
-<li>(15:00) West Ham United Women - Reading Women</li>
-<li>(16:30) Tottenham Hotspur - Newcastle United</li>
-<li>(18:45) Brighton & Hove Albion Women - Chelsea Women</li>
+<li>(20:00) West Ham United - Bournemouth</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -73,26 +65,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Loftus-Cheek: Scrappy game but there’s a good sign](https://chelseafc.com/en/news/article/loftus-cheek-scrappy-game-but-theres-a-good-sign) (23 Oct)
-- [Guro Reiten: We have to play at our best](https://chelseafc.com/en/news/article/guro-reiten-we-have-to-play-at-our-best) (23 Oct)
-- [Highlights: Chelsea 1-1 Man United](https://chelseafc.com/en/video/chelsea-1-1-manchester-united-or-premier-league-highlights) (22 Oct)
-- [Statement by Chelsea Football Club](https://chelseafc.com/en/news/article/statement-by-chelsea-football-club) (22 Oct)
-- [Chelsea vs Man United: Potter explains early changes and why Kovacic didn't start in fair draw](https://chelseafc.com/en/news/article/chelsea-vs-man-united-potter-explains-early-changes-and-why-kovacic-didnt) (22 Oct)
+- [Potter: Getting the best out of Sterling](https://chelseafc.com/en/news/article/potter-getting-the-best-out-of-sterling) (24 Oct)
+- [Paul Green post-match reaction!](https://chelseafc.com/en/video/paul-green-post-match-reaction-bha) (23 Oct)
+- [Beth England post-match reaction!](https://chelseafc.com/en/video/beth-england-post-match-reaction) (23 Oct)
+- [Brighton & Hove Albion Women vs Chelsea Women: England and Harder help Blues past battling Brighton](https://chelseafc.com/en/news/article/brighton-and-hove-albion-women-vs-chelsea-women-england-and-harder-help) (23 Oct)
+- [Chelsea vs Man United Debrief: Midfield tweaks change the game](https://chelseafc.com/en/news/article/chelsea-vs-man-united-debrief-midfield-tweaks-change-the-game) (23 Oct)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > fertigation - noun: The application of fertilizer by adding it to the water in an irrigation system.
+ > misophonia - noun: An intolerance of certain sounds, such as chewing, slurping, etc.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 728, using [4, 4, 6, 6, 6, 100]
-- Solution: ( ( 100 - 6 ) x ( 6 - 4 ) - 6 ) x 4
-- Total: 5 solutions.
+- Target: 841, using [3, 4, 5, 5, 10, 25]
+- Solution: ( 10 x 3 - 5 / 5 ) x ( 25 + 4 )
+- Total: 1 solutions.
 
 <!-- game_marker ends -->
