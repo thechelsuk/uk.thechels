@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 24 October 2022
+### Daily Rundown on Tuesday, 25 October 2022
 
-- The average temperature today is 13.97˚C;
-- With highs of 15.4˚C and lows of 10.73˚C.
-- You can expect light rain for the day.
+- The average temperature today is 15.15˚C;
+- With highs of 16.57˚C and lows of 10.2˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,17 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell swings
-- Plank
-- Bodyweight squats
+- Kettlebell rows
+- Calf raises
+- Walking jacks
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -43,12 +45,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 82.585
-- V3AB.L : 3.68275
-- SPXP.L : 62803.0
-- IMID.L : 156.64
+- VWRL.L : 83.02
+- V3AB.L : 3.7115
+- SPXP.L : 63851.5
+- IMID.L : 159.05499
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 231.28999
+- 0P00013P6I.L : 232.12
 
 <!-- stocks_marker ends -->
 
@@ -57,7 +59,14 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) West Ham United - Bournemouth</li>
+<li>(17:45) FC Red Bull Salzburg - Chelsea</li>
+<li>(17:45) Sevilla - FC Copenhagen</li>
+<li>(20:00) Benfica - Juventus</li>
+<li>(20:00) Borussia Dortmund - Manchester City</li>
+<li>(20:00) Celtic - Shakhtar Donetsk</li>
+<li>(20:00) Dinamo Zagreb - AC Milan</li>
+<li>(20:00) Paris Saint Germain - Maccabi Haifa</li>
+<li>(20:00) RB Leipzig - Real Madrid</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -65,26 +74,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Potter: Getting the best out of Sterling](https://chelseafc.com/en/news/article/potter-getting-the-best-out-of-sterling) (24 Oct)
-- [Paul Green post-match reaction!](https://chelseafc.com/en/video/paul-green-post-match-reaction-bha) (23 Oct)
-- [Beth England post-match reaction!](https://chelseafc.com/en/video/beth-england-post-match-reaction) (23 Oct)
-- [Brighton & Hove Albion Women vs Chelsea Women: England and Harder help Blues past battling Brighton](https://chelseafc.com/en/news/article/brighton-and-hove-albion-women-vs-chelsea-women-england-and-harder-help) (23 Oct)
-- [Chelsea vs Man United Debrief: Midfield tweaks change the game](https://chelseafc.com/en/news/article/chelsea-vs-man-united-debrief-midfield-tweaks-change-the-game) (23 Oct)
+- [Salzburg vs Chelsea: Pre-Match Briefing](https://chelseafc.com/en/news/article/salzburg-vs-chelsea-pre-match-briefing) (25 Oct)
+- [UEFA Youth League live stream preview: Win needed in Austria to keep knockout hopes alive](https://chelseafc.com/en/news/article/uefa-youth-league-live-stream-preview-win-needed-in-austria) (25 Oct)
+- [Chelsea Women vs Vllaznia Women preview: Kick-off time, where to watch and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-vllaznia-women-preview-kick-off-time-where-to-watch-and) (25 Oct)
+- [Salzburg vs Chelsea press conference: Potter updates on Koulibaly injury and considers Cucurella start](https://chelseafc.com/en/news/article/salzburg-vs-chelsea-press-conference-potter-updates-on-koulibaly-injury-and) (24 Oct)
+- [Loftus-Cheek on finding form and fitness](https://chelseafc.com/en/news/article/loftus-cheek-on-finding-form-and-fitness) (24 Oct)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > misophonia - noun: An intolerance of certain sounds, such as chewing, slurping, etc.
+ > lawfare - noun: The use of the legal system to overwhelm an opponent.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 841, using [3, 4, 5, 5, 10, 25]
-- Solution: ( 10 x 3 - 5 / 5 ) x ( 25 + 4 )
-- Total: 1 solutions.
+- Target: 930, using [5, 5, 10, 50, 75, 100]
+- Solution: ( 100 + 75 + 10 ) x 5 + 5
+- Total: 23 solutions.
 
 <!-- game_marker ends -->
