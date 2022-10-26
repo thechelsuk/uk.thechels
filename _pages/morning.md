@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 25 October 2022
+### Daily Rundown on Wednesday, 26 October 2022
 
-- The average temperature today is 15.15˚C;
-- With highs of 16.57˚C and lows of 10.2˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 16.72˚C;
+- With highs of 17.3˚C and lows of 12.79˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -21,15 +21,13 @@ seo: Good Morning Mat, Here is your daily briefing
 
 - Kettlebell rows
 - Calf raises
-- Walking jacks
+- Bodyweight squats
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -45,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 83.02
-- V3AB.L : 3.7115
+- VWRL.L : 83.28
+- V3AB.L : 3.72375
 - SPXP.L : 63851.5
-- IMID.L : 159.05499
+- IMID.L : 161.825
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 232.12
+- 0P00013P6I.L : 233.66
 
 <!-- stocks_marker ends -->
 
@@ -59,14 +57,14 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(17:45) FC Red Bull Salzburg - Chelsea</li>
-<li>(17:45) Sevilla - FC Copenhagen</li>
-<li>(20:00) Benfica - Juventus</li>
-<li>(20:00) Borussia Dortmund - Manchester City</li>
-<li>(20:00) Celtic - Shakhtar Donetsk</li>
-<li>(20:00) Dinamo Zagreb - AC Milan</li>
-<li>(20:00) Paris Saint Germain - Maccabi Haifa</li>
-<li>(20:00) RB Leipzig - Real Madrid</li>
+<li>(17:45) Club Bruges - FC Porto</li>
+<li>(17:45) Inter Milan - Viktoria Plzen</li>
+<li>(20:00) Ajax - Liverpool</li>
+<li>(20:00) Atlético Madrid - Bayer 04 Leverkusen</li>
+<li>(20:00) Barcelona - Bayern Munich</li>
+<li>(20:00) Eintracht Frankfurt - Marseille</li>
+<li>(20:00) Napoli - Rangers</li>
+<li>(20:00) Tottenham Hotspur - Sporting Lisbon</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -74,26 +72,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Salzburg vs Chelsea: Pre-Match Briefing](https://chelseafc.com/en/news/article/salzburg-vs-chelsea-pre-match-briefing) (25 Oct)
-- [UEFA Youth League live stream preview: Win needed in Austria to keep knockout hopes alive](https://chelseafc.com/en/news/article/uefa-youth-league-live-stream-preview-win-needed-in-austria) (25 Oct)
-- [Chelsea Women vs Vllaznia Women preview: Kick-off time, where to watch and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-vllaznia-women-preview-kick-off-time-where-to-watch-and) (25 Oct)
-- [Salzburg vs Chelsea press conference: Potter updates on Koulibaly injury and considers Cucurella start](https://chelseafc.com/en/news/article/salzburg-vs-chelsea-press-conference-potter-updates-on-koulibaly-injury-and) (24 Oct)
-- [Loftus-Cheek on finding form and fitness](https://chelseafc.com/en/news/article/loftus-cheek-on-finding-form-and-fitness) (24 Oct)
+- [Gallagher reflects on proud moment and important step for Chelsea](https://chelseafc.com/en/news/article/gallagher-reflects-on-proud-moment-and-important-step-for-chelsea) (26 Oct)
+- [Red Bull Salzburg 1-2 Chelsea - Champions League Highlights](https://chelseafc.com/en/video/red-bull-salzburg-1-2-chelsea-or-champions-league-highlights) (25 Oct)
+- [RB Salzburg vs Chelsea: Potter on a courageous performance, Havertz’s goal and taking a step forward](https://chelseafc.com/en/news/article/potter-on-a-courageous-performance-havertzs-goal-and-taking-a-step-forward) (25 Oct)
+- [Chelsea top Champions League group](https://chelseafc.com/en/news/article/chelsea-top-champions-league-group) (25 Oct)
+- [🎤 Jorginho reacts to Champions League win!](https://chelseafc.com/en/video/jorginho-reacts-to-champions-league-win) (25 Oct)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > lawfare - noun: The use of the legal system to overwhelm an opponent.
+ > gerontocracy - noun: The system of government by old people.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 930, using [5, 5, 10, 50, 75, 100]
-- Solution: ( 100 + 75 + 10 ) x 5 + 5
-- Total: 23 solutions.
+- Target: 337, using [3, 3, 4, 10, 50, 100]
+- Solution: ( 100 - 50 x 3 / 10 ) x 4 - 3
+- Total: 11 solutions.
 
 <!-- game_marker ends -->
