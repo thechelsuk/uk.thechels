@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 26 October 2022
+### Daily Rundown on Thursday, 27 October 2022
 
-- The average temperature today is 16.72˚C;
-- With highs of 17.3˚C and lows of 12.79˚C.
-- You can expect light rain for the day.
+- The average temperature today is 16.33˚C;
+- With highs of 17.63˚C and lows of 12.01˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Plank
+- Bench dips
 - Kettlebell rows
-- Calf raises
-- Bodyweight squats
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 83.28
-- V3AB.L : 3.72375
-- SPXP.L : 63851.5
-- IMID.L : 161.825
+- VWRL.L : 83.44
+- V3AB.L : 3.73
+- SPXP.L : 63805.5
+- IMID.L : 163.935
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 233.66
+- 0P00013P6I.L : 232.92999
 
 <!-- stocks_marker ends -->
 
@@ -57,41 +57,31 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(17:45) Club Bruges - FC Porto</li>
-<li>(17:45) Inter Milan - Viktoria Plzen</li>
-<li>(20:00) Ajax - Liverpool</li>
-<li>(20:00) Atlético Madrid - Bayer 04 Leverkusen</li>
-<li>(20:00) Barcelona - Bayern Munich</li>
-<li>(20:00) Eintracht Frankfurt - Marseille</li>
-<li>(20:00) Napoli - Rangers</li>
-<li>(20:00) Tottenham Hotspur - Sporting Lisbon</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Gallagher reflects on proud moment and important step for Chelsea](https://chelseafc.com/en/news/article/gallagher-reflects-on-proud-moment-and-important-step-for-chelsea) (26 Oct)
-- [Red Bull Salzburg 1-2 Chelsea - Champions League Highlights](https://chelseafc.com/en/video/red-bull-salzburg-1-2-chelsea-or-champions-league-highlights) (25 Oct)
-- [RB Salzburg vs Chelsea: Potter on a courageous performance, Havertz’s goal and taking a step forward](https://chelseafc.com/en/news/article/potter-on-a-courageous-performance-havertzs-goal-and-taking-a-step-forward) (25 Oct)
-- [Chelsea top Champions League group](https://chelseafc.com/en/news/article/chelsea-top-champions-league-group) (25 Oct)
-- [🎤 Jorginho reacts to Champions League win!](https://chelseafc.com/en/video/jorginho-reacts-to-champions-league-win) (25 Oct)
+- [Chelsea Women 8-0 Vllaznia Femra - Women's Champions League Highlights](https://chelseafc.com/en/video/chelsea-women-vs-vllaznia-femra-2-min-highlights-web-app) (26 Oct)
+- ['We're in a good place at the moment as a team'](https://chelseafc.com/en/video/were-in-a-good-place-at-the-moment-as-a-team) (26 Oct)
+- [Chelsea Women vs Vllaznia Women report: Kerr scores four as Blues hit Vllaznia for eight](https://chelseafc.com/en/news/article/chelsea-women-vs-vllaznia-women-report-kerr-scores-four-as-blues-hit) (26 Oct)
+- [Kovacic thrilled to score special goal](https://chelseafc.com/en/news/article/kovacic-thrilled-to-score-special-goal) (26 Oct)
+- [Black History Month](https://chelseafc.com/en/video/black-history-month) (26 Oct)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > gerontocracy - noun: The system of government by old people.
+ > gamesmanship - noun: 1. The use of legal, but unethical, tactics in a contest. For example, psychological intimidation, manipulation, distraction, etc. 2. The use of questionable means to gain an advantage.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 337, using [3, 3, 4, 10, 50, 100]
-- Solution: ( 100 - 50 x 3 / 10 ) x 4 - 3
-- Total: 11 solutions.
+- Target: 863, using [1, 3, 5, 5, 9, 25]
 
 <!-- game_marker ends -->
