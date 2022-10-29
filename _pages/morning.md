@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 28 October 2022
+### Daily Rundown on Saturday, 29 October 2022
 
-- The average temperature today is 14.48˚C;
-- With highs of 16.75˚C and lows of 11.55˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 17.97˚C;
+- With highs of 18.96˚C and lows of 10.96˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,8 +19,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
 - Calf raises
+- Shadow boxing
 - Bench dips
 
 <!-- workout_marker ends -->
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 82.79
-- V3AB.L : 3.69
-- SPXP.L : 63117.5
-- IMID.L : 162.53999
+- VWRL.L : 82.825
+- V3AB.L : 3.69575
+- SPXP.L : 63637.0
+- IMID.L : 162.66499
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 231.88
+- 0P00013P6I.L : 231.08
 
 <!-- stocks_marker ends -->
 
@@ -57,18 +57,26 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(12:30) Leicester City - Manchester City</li>
+<li>(15:00) Bournemouth - Tottenham Hotspur</li>
+<li>(15:00) Brentford - Wolverhampton Wanderers</li>
+<li>(15:00) Brighton & Hove Albion - Chelsea</li>
+<li>(15:00) Crystal Palace - Southampton</li>
+<li>(15:00) Newcastle United - Aston Villa</li>
+<li>(17:30) Fulham - Everton</li>
+<li>(19:45) Liverpool - Leeds United</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Brighton vs Chelsea: Facts at your fingertips](https://chelseafc.com/en/news/article/brighton-vs-chelsea-facts-at-your-fingertips) (28 Oct)
-- [Salzburg 1-2 Chelsea - Full Champions League match](https://chelseafc.com/en/video/salzburg-1-2-chelsea-or-full-champions-league-match) (27 Oct)
-- [Salzburg 1-2 Chelsea - Extended Champions League Highlights](https://chelseafc.com/en/video/salzburg-1-2-chelsea-or-extended-champions-league-highlights) (27 Oct)
-- [Two stunners see Chelsea through! - Unseen Extra](https://chelseafc.com/en/video/two-stunners-see-chelsea-through-or-unseen-extra) (27 Oct)
-- [Loftus-Cheek’s World Cup dreams amid Chelsea focus](https://chelseafc.com/en/news/article/loftus-cheeks-world-cup-dreams-amid-chelsea-focus) (27 Oct)
+- [Kepa on keeping the belief and his World Cup chances](https://chelseafc.com/en/news/article/kepa-on-keeping-the-belief-and-his-world-cup-chances) (29 Oct)
+- [Potter: It’s a key part of success in the future](https://chelseafc.com/en/news/article/potter-its-a-key-part-of-success-in-the-future) (29 Oct)
+- [Chelsea Women vs Aston Villa Women preview: Kick-off time, live stream and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-aston-villa-women-preview-kick-off-time-live-stream-and) (29 Oct)
+- [Best of Men's, Women's & Academy Training + Jorginho Walk & Talk - Chelsea Unseen - Presented by trivago](https://chelseafc.com/en/video/best-of-mens-womens-and-academy-training-jorginho-walk-and-talk-or-chelsea) (28 Oct)
+- [Brighton vs Chelsea press conference: Potter provides injury update as defender remains sidelined](https://chelseafc.com/en/news/article/brighton-vs-chelsea-press-conference-news-injury-updates) (28 Oct)
 
 <!-- cfc_marker ends -->
 
@@ -82,8 +90,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 600, using [1, 7, 8, 10, 75, 100]
-- Solution: ( 100 - 75 / ( 10 - 7 ) ) x 8
-- Total: 22 solutions.
+- Target: 355, using [1, 6, 7, 50, 75, 100]
+- Solution: ( 100 - 50 ) x 7 + 6 - 1
+- Total: 5 solutions.
 
 <!-- game_marker ends -->
