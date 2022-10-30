@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 29 October 2022
+### Daily Rundown on Sunday, 30 October 2022
 
-- The average temperature today is 17.97˚C;
-- With highs of 18.96˚C and lows of 10.96˚C.
+- The average temperature today is 14.59˚C;
+- With highs of 15.01˚C and lows of 11.09˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Calf raises
-- Shadow boxing
 - Bench dips
+- Kettlebell rows
+- Kettlebell swings
 
 <!-- workout_marker ends -->
 
@@ -57,14 +57,14 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Leicester City - Manchester City</li>
-<li>(15:00) Bournemouth - Tottenham Hotspur</li>
-<li>(15:00) Brentford - Wolverhampton Wanderers</li>
-<li>(15:00) Brighton & Hove Albion - Chelsea</li>
-<li>(15:00) Crystal Palace - Southampton</li>
-<li>(15:00) Newcastle United - Aston Villa</li>
-<li>(17:30) Fulham - Everton</li>
-<li>(19:45) Liverpool - Leeds United</li>
+<li>(14:00) Arsenal - Nottingham Forest</li>
+<li>(14:00) Brighton & Hove Albion Women - Tottenham Hotspur Women</li>
+<li>(14:00) Chelsea Women - Aston Villa Women</li>
+<li>(14:00) Everton Women - Manchester United Women</li>
+<li>(14:00) Manchester City Women - Liverpool Women</li>
+<li>(14:00) Reading Women - Leicester City Women</li>
+<li>(16:15) Manchester United - West Ham United</li>
+<li>(18:45) Arsenal Women - West Ham United Women</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -72,11 +72,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Kepa on keeping the belief and his World Cup chances](https://chelseafc.com/en/news/article/kepa-on-keeping-the-belief-and-his-world-cup-chances) (29 Oct)
-- [Potter: It’s a key part of success in the future](https://chelseafc.com/en/news/article/potter-its-a-key-part-of-success-in-the-future) (29 Oct)
-- [Chelsea Women vs Aston Villa Women preview: Kick-off time, live stream and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-aston-villa-women-preview-kick-off-time-live-stream-and) (29 Oct)
-- [Best of Men's, Women's & Academy Training + Jorginho Walk & Talk - Chelsea Unseen - Presented by trivago](https://chelseafc.com/en/video/best-of-mens-womens-and-academy-training-jorginho-walk-and-talk-or-chelsea) (28 Oct)
-- [Brighton vs Chelsea press conference: Potter provides injury update as defender remains sidelined](https://chelseafc.com/en/news/article/brighton-vs-chelsea-press-conference-news-injury-updates) (28 Oct)
+- [Katerina Svitkova on adapting, settling and winning mentality](https://chelseafc.com/en/news/article/katerina-svitkova-on-adapting-settling-and-winning-mentality) (30 Oct)
+- [Gallagher: We must learn from our mistakes](https://chelseafc.com/en/news/article/gallagher-we-must-learn-from-our-mistakes) (30 Oct)
+- [Brighton 4-1 Chelsea - Premier League Full Match](https://chelseafc.com/en/video/brighton-4-1-chelsea-or-premier-league-full-match) (29 Oct)
+- [Brighton 4-1 Chelsea - Premier League Extended Highlights](https://chelseafc.com/en/video/brighton-4-1-chelsea-or-premier-league-extended-highlights) (29 Oct)
+- [Brighton 4-1 Chelsea - Premier League Highlights](https://chelseafc.com/en/video/brighton-4-1-chelsea-or-premier-league-highlights) (29 Oct)
 
 <!-- cfc_marker ends -->
 
@@ -90,8 +90,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 355, using [1, 6, 7, 50, 75, 100]
-- Solution: ( 100 - 50 ) x 7 + 6 - 1
-- Total: 5 solutions.
+- Target: 963, using [1, 1, 3, 3, 9, 25]
+- Solution: ( ( 25 + 1 ) x ( 3 + 1 ) + 3 ) x 9
+- Total: 1 solutions.
 
 <!-- game_marker ends -->
