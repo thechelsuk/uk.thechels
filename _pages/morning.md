@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 30 October 2022
+### Daily Rundown on Monday, 31 October 2022
 
-- The average temperature today is 14.59˚C;
-- With highs of 15.01˚C and lows of 11.09˚C.
+- The average temperature today is 15.28˚C;
+- With highs of 16.09˚C and lows of 11.57˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Walking jacks
 - Bench dips
 - Kettlebell rows
-- Kettlebell swings
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -57,41 +58,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(14:00) Arsenal - Nottingham Forest</li>
-<li>(14:00) Brighton & Hove Albion Women - Tottenham Hotspur Women</li>
-<li>(14:00) Chelsea Women - Aston Villa Women</li>
-<li>(14:00) Everton Women - Manchester United Women</li>
-<li>(14:00) Manchester City Women - Liverpool Women</li>
-<li>(14:00) Reading Women - Leicester City Women</li>
-<li>(16:15) Manchester United - West Ham United</li>
-<li>(18:45) Arsenal Women - West Ham United Women</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Katerina Svitkova on adapting, settling and winning mentality](https://chelseafc.com/en/news/article/katerina-svitkova-on-adapting-settling-and-winning-mentality) (30 Oct)
-- [Gallagher: We must learn from our mistakes](https://chelseafc.com/en/news/article/gallagher-we-must-learn-from-our-mistakes) (30 Oct)
-- [Brighton 4-1 Chelsea - Premier League Full Match](https://chelseafc.com/en/video/brighton-4-1-chelsea-or-premier-league-full-match) (29 Oct)
-- [Brighton 4-1 Chelsea - Premier League Extended Highlights](https://chelseafc.com/en/video/brighton-4-1-chelsea-or-premier-league-extended-highlights) (29 Oct)
-- [Brighton 4-1 Chelsea - Premier League Highlights](https://chelseafc.com/en/video/brighton-4-1-chelsea-or-premier-league-highlights) (29 Oct)
+- [Potter: I start with myself](https://chelseafc.com/en/news/article/potter-i-start-with-myself) (31 Oct)
+- [Chelsea Women vs Aston Villa report: James stars as Blues see off Villa](https://chelseafc.com/en/news/article/chelsea-women-vs-aston-villa-report-james-stars-as-blues-see-off-villa) (30 Oct)
+- [Paul Green post-match reaction!](https://chelseafc.com/en/video/paul-green-post-match-reaction-villa) (30 Oct)
+- [Lauren James post-match interview!](https://chelseafc.com/en/video/lauren-james-post-match-interview) (30 Oct)
+- [Chelsea 3-1 Aston Villa - WSL Highlights](https://chelseafc.com/en/video/chelsea-3-1-aston-villa-or-wsl) (30 Oct)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > phonophobia - noun: 1. A fear of or intolerance of loud sounds. 2. A hypersensitivity to sound. 3. An aversion to the sound of one's own voice.
+ > retcon - noun: The introduction of new information to give a different interpretation of an established storyline. verb tr.: To revise a storyline in this manner.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 963, using [1, 1, 3, 3, 9, 25]
-- Solution: ( ( 25 + 1 ) x ( 3 + 1 ) + 3 ) x 9
-- Total: 1 solutions.
+- Target: 860, using [1, 2, 3, 5, 25, 50]
+- Solution: ( 50 - 3 x 2 - 1 ) x ( 25 - 5 )
+- Total: 9 solutions.
 
 <!-- game_marker ends -->
