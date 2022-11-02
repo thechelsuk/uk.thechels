@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 01 November 2022
+### Daily Rundown on Wednesday, 02 November 2022
 
-- The average temperature today is 12.49˚C;
-- With highs of 13.13˚C and lows of 8.33˚C.
+- The average temperature today is 12.19˚C;
+- With highs of 12.92˚C and lows of 8.22˚C.
 - You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,17 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Bodyweight squats
 - Plank
 - Dead bugs
-- Bodyweight squats
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -45,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 83.73
-- V3AB.L : 3.73825
-- SPXP.L : 64438.0
-- IMID.L : 163.22501
+- VWRL.L : 84.11
+- V3AB.L : 3.74525
+- SPXP.L : 64287.0
+- IMID.L : 163.145
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 234.61
+- 0P00013P6I.L : 235.07001
 
 <!-- stocks_marker ends -->
 
@@ -59,14 +57,14 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(17:45) Bayer 04 Leverkusen - Club Bruges</li>
-<li>(17:45) FC Porto - Atlético Madrid</li>
-<li>(20:00) Bayern Munich - Inter Milan</li>
-<li>(20:00) Liverpool - Napoli</li>
-<li>(20:00) Marseille - Tottenham Hotspur</li>
-<li>(20:00) Rangers - Ajax</li>
-<li>(20:00) Sporting Lisbon - Eintracht Frankfurt</li>
-<li>(20:00) Viktoria Plzen - Barcelona</li>
+<li>(17:45) Real Madrid - Celtic</li>
+<li>(17:45) Shakhtar Donetsk - RB Leipzig</li>
+<li>(20:00) AC Milan - FC Red Bull Salzburg</li>
+<li>(20:00) Chelsea - Dinamo Zagreb</li>
+<li>(20:00) FC Copenhagen - Borussia Dortmund</li>
+<li>(20:00) Juventus - Paris Saint Germain</li>
+<li>(20:00) Maccabi Haifa - Benfica</li>
+<li>(20:00) Manchester City - Sevilla</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -74,26 +72,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Pat Nevin: Why tomorrow’s team selection is so intriguing](https://chelseafc.com/en/news/article/pat-nevin-why-tomorrows-team-selection-is-so-intriguing) (01 Nov)
-- [Buchanan talks individual and collective strength](https://chelseafc.com/en/news/article/buchanan-talks-individual-and-collective-strength) (01 Nov)
-- [Chelsea vs Dinamo Zagreb: Where to watch, TV channel, kick off time; training and U19 live stream news](https://chelseafc.com/en/news/article/chelsea-vs-dinamo-zagreb-where-to-watch-tv-channel-kick-off-time-training) (01 Nov)
-- ['Why am I doing this again' 😭](https://chelseafc.com/en/video/why-am-i-doing-this-again-or-chelsea-trending) (31 Oct)
-- [Vote for October’s Chelsea Goal of the Month](https://chelseafc.com/en/news/article/vote-for-octobers-chelsea-goal-of-the-month) (31 Oct)
+- [Chelsea vs Dinamo Zagreb: Pre-Match Briefing](https://chelseafc.com/en/news/article/chelsea-vs-dinamo-zagreb-pre-match-briefing) (02 Nov)
+- [Chelsea vs Dinamo Zagreb: Facts at your fingertips](https://chelseafc.com/en/news/article/chelsea-vs-dinamo-zagreb-facts-at-your-fingertips) (02 Nov)
+- [No bag drop service at Stamford Bridge](https://chelseafc.com/en/news/article/no-bag-drop-service-at-stamford-bridge) (02 Nov)
+- [Chelsea vs Dinamo Zagreb press conference: Potter with Kepa, Kovacic and Koulibaly injury news](https://chelseafc.com/en/news/article/chelsea-vs-dinamo-zagreb-press-conference-potter-kepa-kovacic-koulibaly) (01 Nov)
+- [Potter ponders youth opportunities and Zakaria minutes](https://chelseafc.com/en/news/article/potter-ponders-youth-opportunities-and-zakaria-minutes) (01 Nov)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > flak - noun: 1. Severe criticism. 2. Anti-aircraft fire.
+ > hazmat - noun: Dangerous material, for example, something toxic, explosive, or inflammable. adjective: Relating to hazardous material.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 934, using [8, 9, 10, 50, 75, 100]
-- Solution: 100 x 10 + 9 - 75
-- Total: 4 solutions.
+- Target: 308, using [1, 6, 10, 50, 75, 100]
+- Solution: ( 100 / 50 + 75 ) x ( 10 - 6 )
+- Total: 1 solutions.
 
 <!-- game_marker ends -->
