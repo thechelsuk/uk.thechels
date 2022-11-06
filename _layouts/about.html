@@ -2,21 +2,11 @@
 <h1 class="post-title">{{ page.title }}</h1>
 {{content}}
 <div class="about-row">
-  <div class="about-column">
   <h3>Links</h3>
     <ul class="links">
       {% for item in site.around_the_web %}
       <li><a href="{{item.link}}">{{item.title}}</a></li>
       {% endfor %}
     </ul>
-  </div>
-  <div class="about-column">
-    <h3>Offers</h3>
-    <ul class="Offers">
-      {% for item in site.data.offers %}
-      <li><a rel="sponsored" href="{{item.link}}">{{item.title}}</a></li>
-      {% endfor %}
-    </ul>
-  </div>
 </div>
 {% include footer.html %}
