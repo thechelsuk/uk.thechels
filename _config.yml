@@ -47,6 +47,9 @@ navigation_header:
 -
   link: "https://thechels.uk/morning"
   title: "Morning"
+-
+  link: "https://thechels.uk/offers"
+  title: "Offers"  
 ## Footer
 navigation_footer:
 -
@@ -84,9 +87,6 @@ around_the_web:
 -
   link: "https://stackoverflow.com/users/894932/mat-benfield"
   title: "StackOverflow"
--
-  link: "https://twitter.com/tocfcws"
-  title: "Twitter"
 -
   link: "https://www.paypal.com/paypalme/matbenfield"
   title: "PayPal"
