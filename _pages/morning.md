@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 09 November 2022
+### Daily Rundown on Thursday, 10 November 2022
 
-- The average temperature today is 10.58˚C;
-- With highs of 12.21˚C and lows of 8.65˚C.
-- You can expect light rain for the day.
+- The average temperature today is 13.5˚C;
+- With highs of 14.64˚C and lows of 10.76˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
-- Walking jacks
-- Kettlebell swings
+- Calf raises
+- Shadow boxing
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 83.94
-- V3AB.L : 3.73661
-- SPXP.L : 63367.0
-- IMID.L : 165.62
+- VWRL.L : 84.45
+- V3AB.L : 3.75025
+- SPXP.L : 63584.5
+- IMID.L : 163.86501
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : nan
+- 0P00013P6I.L : 237.3
 
 <!-- stocks_marker ends -->
 
@@ -57,14 +57,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:45) Arsenal - Brighton & Hove Albion</li>
-<li>(19:45) Newcastle United - Crystal Palace</li>
-<li>(19:45) Nottingham Forest - Tottenham Hotspur</li>
-<li>(19:45) Southampton - Sheffield Wednesday</li>
-<li>(19:45) West Ham United - Blackburn Rovers</li>
-<li>(19:45) Wolverhampton Wanderers - Leeds United</li>
-<li>(20:00) Liverpool - Derby County</li>
-<li>(20:00) Manchester City - Chelsea</li>
+<li>(20:00) Manchester United - Aston Villa</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -72,26 +65,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Man City vs Chelsea: Pre-Match Briefing](https://chelseafc.com/en/news/article/man-city-vs-chelsea-pre-match-briefing) (09 Nov)
-- [Potter: Why top teams take Carabao Cup seriously](https://chelseafc.com/en/news/article/potter-why-top-teams-take-carabao-cup-seriously) (09 Nov)
-- [Man City vs Chelsea: Facts at your fingertips](https://chelseafc.com/en/news/article/man-city-vs-chelsea-facts-at-your-fingertips) (09 Nov)
-- [Potter: No doubt about Sterling’s quality](https://chelseafc.com/en/news/article/potter-no-doubt-about-sterlings-quality) (08 Nov)
-- [Man City vs Chelsea press conference: Potter reveals Jorginho a doubt, updates on Kepa, James and Kovacic injuries](https://chelseafc.com/en/news/article/man-city-vs-chelsea-press-conference-chelsea-news-injury-updates) (08 Nov)
+- [Lewis Hall: A special experience](https://chelseafc.com/en/news/article/lewis-hall-a-special-experience) (10 Nov)
+- [Manchester City 2-0 Chelsea - Extended highlights - EFL Cup](https://chelseafc.com/en/video/manchester-city-vs-chelsea-2-0-or-extended-highlights-or-efl-cup) (10 Nov)
+- [Manchester City 2-0 Chelsea - Highlights - EFL Cup](https://chelseafc.com/en/video/manchester-city-vs-chelsea-2-0-or-highlights-or-efl-cup) (10 Nov)
+- [Man City vs Chelsea: Potter on a step forward and Hall’s enjoyable performance](https://chelseafc.com/en/news/article/man-city-vs-chelsea-potter-on-a-step-forward-lewis-hall) (09 Nov)
+- [🎤 Lewis Hall post match interview](https://chelseafc.com/en/video/manchester-city-vs-chelsea-2-0-or-lewis-hall-post-match-or-efl-cup) (09 Nov)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > a gogo - adjective: In abundance.
+ > presumptive - adjective: 1. Assumed; expected; inferred. 2. Giving a reasonable basis for belief.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 429, using [4, 5, 6, 8, 10, 50]
-- Solution: ( ( 10 - 8 ) x 50 + 6 ) x 4 + 5
-- Total: 8 solutions.
+- Target: 719, using [1, 2, 5, 6, 8, 75]
+- Solution: 75 x 8 x 6 / 5 + 1 - 2
+- Total: 7 solutions.
 
 <!-- game_marker ends -->
