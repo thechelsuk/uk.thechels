@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 11 November 2022
+### Daily Rundown on Saturday, 12 November 2022
 
-- The average temperature today is 14.65˚C;
-- With highs of 15.64˚C and lows of 9.28˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 14.06˚C;
+- With highs of 16.23˚C and lows of 8.87˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Bodyweight squats
 - Plank
-- Bench dips
-- Kettlebell rows
+- Kettlebell swings
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.395
-- V3AB.L : 3.80325
-- SPXP.L : 64157.5
-- IMID.L : 168.92999
+- VWRL.L : 85.79
+- V3AB.L : 3.815
+- SPXP.L : 64171.5
+- IMID.L : 171.19
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 235.31
+- 0P00013P6I.L : 240.37
 
 <!-- stocks_marker ends -->
 
@@ -57,18 +57,26 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(12:30) Manchester City - Brentford</li>
+<li>(15:00) Bournemouth - Everton</li>
+<li>(15:00) Liverpool - Southampton</li>
+<li>(15:00) Nottingham Forest - Crystal Palace</li>
+<li>(15:00) Tottenham Hotspur - Leeds United</li>
+<li>(15:00) West Ham United - Leicester City</li>
+<li>(17:30) Newcastle United - Chelsea</li>
+<li>(19:45) Wolverhampton Wanderers - Arsenal</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Newcastle vs Chelsea: Facts at your fingertips](https://chelseafc.com/en/news/article/newcastle-vs-chelsea-facts-at-your-fingertips) (11 Nov)
-- [Chalobah on making progress day-by-day and impact of a gruelling schedule](https://chelseafc.com/en/news/article/chalobah-on-making-progress-day-by-day-and-impact-of-a-gruelling-schedule) (10 Nov)
-- [Southgate explains Gallagher’s World Cup squad inclusion and why James misses out](https://chelseafc.com/en/news/article/southgate-explains-england-world-cup-squad-conor-gallagher-reece-james) (10 Nov)
-- [England trio among first 11 Blues called up for World Cup](https://chelseafc.com/en/news/articlehttps://chelseafc.com/england-trio-among-first-11-blues-called-up-for-world-cup) (10 Nov)
-- [On The Road with Ben Chilwell 🚌](https://chelseafc.com/en/video/on-the-road-with-ben-chilwell-or-episode-1-or-presented-by-trivago) (10 Nov)
+- [Loftus-Cheek interview on setting higher targets and the top-four race](https://chelseafc.com/en/news/article/loftus-cheek-interview-on-setting-higher-targets-and-the-top-four-race) (12 Nov)
+- [Potter: Gallagher will grasp World Cup opportunity](https://chelseafc.com/en/news/article/potter-gallagher-will-grasp-world-cup-opportunity) (12 Nov)
+- [Hard work continues at Cobham 🏃‍♂️ - Chelsea Unseen](https://chelseafc.com/en/video/newcastle-vs-chelsea-training-chelsea-unseen) (11 Nov)
+- [Newcastle vs Chelsea press conference: Potter talks Jorginho injury and Gallagher's World Cup](https://chelseafc.com/en/news/article/newcastle-vs-chelsea-press-conference-chelsea-news-injury-updates) (11 Nov)
+- [Potter: How Chelsea will use World Cup break](https://chelseafc.com/en/news/article/potter-how-chelsea-will-use-world-cup-break) (11 Nov)
 
 <!-- cfc_marker ends -->
 
@@ -83,8 +91,8 @@ adverb: In a general manner.
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 748, using [1, 2, 2, 6, 75, 100]
-- Solution: 100 x 75 / ( 6 - 1 ) / 2 - 2
-- Total: 12 solutions.
+- Target: 910, using [2, 8, 9, 50, 75, 100]
+- Solution: ( 100 - 9 ) x ( 75 x 8 / 50 - 2 )
+- Total: 5 solutions.
 
 <!-- game_marker ends -->
