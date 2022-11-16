@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 15 November 2022
+### Daily Rundown on Wednesday, 16 November 2022
 
-- The average temperature today is 10.62˚C;
-- With highs of 11.81˚C and lows of 7.37˚C.
-- You can expect heavy intensity rain for the day.
+- The average temperature today is 9.58˚C;
+- With highs of 10.54˚C and lows of 6.71˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,17 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
-- Bench dips
+- Shadow boxing
+- Plank
 - Kettlebell swings
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -45,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 86.53
-- V3AB.L : 3.847
-- SPXP.L : 64813.5
-- IMID.L : 171.605
+- VWRL.L : 86.31
+- V3AB.L : 3.84275
+- SPXP.L : 64491.5
+- IMID.L : 173.485
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 241.88
+- 0P00013P6I.L : 240.2
 
 <!-- stocks_marker ends -->
 
@@ -59,11 +57,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:45) AFC Wimbledon - Weymouth</li>
-<li>(19:45) Cambridge United - Curzon Ashton</li>
-<li>(19:45) Derby County - Torquay United</li>
-<li>(19:45) Gillingham - AFC Fylde</li>
-<li>(19:45) Hartlepool United - Solihull Moors</li>
+<li>(19:45) Salford City - Peterborough United</li>
+<li>(19:45) Woking - Oxford United</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -71,26 +66,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Pat Nevin: What Chelsea fans can expect at the World Cup](https://chelseafc.com/en/news/article/pat-nevin-what-chelsea-fans-can-expect-at-the-world-cup) (15 Nov)
-- [Three UK launches We See You Network](https://chelseafc.com/en/news/article/three-uk-launches-we-see-you-network) (14 Nov)
-- [Watch England vs USA at the Bridge!](https://chelseafc.com/en/news/article/watch-england-vs-usa-at-the-bridge) (14 Nov)
-- [Potter: Time to reset, regroup, re-energise](https://chelseafc.com/en/news/article/potter-time-to-reset-regroup-re-energise) (14 Nov)
-- [Havertz on his World Cup call-up 🎬](https://chelseafc.com/en/video/kai-wt-16x9-v2) (14 Nov)
+- [Countdown to Qatar: Brazil](https://chelseafc.com/en/news/article/countdown-to-qatar-brazil-world-cup-preview) (16 Nov)
+- [Countdown to Qatar: England](https://chelseafc.com/en/news/article/countdown-to-qatar-england-world-cup-preview) (15 Nov)
+- [Paul Winstanley joins Chelsea](https://chelseafc.com/en/news/article/paul-winstanley-joins-chelsea) (15 Nov)
+- [More than a game of football: What’s on at Stamford Bridge this Sunday](https://chelseafc.com/en/news/article/more-than-a-game-of-football-whats-on-at-stamford-bridge-this-sunday) (15 Nov)
+- [Leicester City Women away ticket and travel details](https://chelseafc.com/en/news/article/leicester-city-women-away-ticket-and-travel-details) (15 Nov)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > fanboy - noun: A boy or man who is an extremely enthusiastic follower of someone or something. verb intr.: To behave in an obsessive way about someone or something.
+ > thaumaturge - noun: 1. A miracle worker. 2. A magician.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 998, using [1, 3, 9, 9, 10, 75]
-- Solution: ( 75 + 9 ) x ( 9 + 3 ) - 10
-- Total: 1 solutions.
+- Target: 759, using [4, 9, 9, 25, 75, 100]
+- Solution: ( 100 + 75 - 25 ) x ( 9 - 4 ) + 9
+- Total: 8 solutions.
 
 <!-- game_marker ends -->
