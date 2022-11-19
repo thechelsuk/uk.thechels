@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 18 November 2022
+### Daily Rundown on Saturday, 19 November 2022
 
-- The average temperature today is 9.2˚C;
-- With highs of 9.95˚C and lows of 4.79˚C.
-- You can expect light rain for the day.
+- The average temperature today is 7.97˚C;
+- With highs of 9.07˚C and lows of 4.76˚C.
+- You can expect scattered clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
+- Bodyweight squats
+- Calf raises
 - Plank
-- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.06
-- V3AB.L : 3.781
-- SPXP.L : 63586.0
-- IMID.L : 169.67999
+- VWRL.L : 84.81
+- V3AB.L : 3.77225
+- SPXP.L : 63523.5
+- IMID.L : 171.485
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 239.28
+- 0P00013P6I.L : 237.78
 
 <!-- stocks_marker ends -->
 
@@ -57,18 +57,20 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(15:00) Everton Women - Manchester City Women</li>
+<li>(17:30) Arsenal Women - Manchester United Women</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Countdown to Qatar: Germany](https://chelseafc.com/en/news/article/countdown-to-qatar-germany) (18 Nov)
-- [Ziyech scores from his own half in Morocco victory](https://chelseafc.com/en/news/article/ziyech-scores-from-his-own-half-in-morocco-victory) (17 Nov)
-- [Cesar Azpilicueta’s World Cup favourites](https://chelseafc.com/en/news/article/cesar-azpilicuetas-world-cup-favourites) (17 Nov)
-- [Erin Cuthbert pens new deal with Chelsea Women](https://chelseafc.com/en/news/article/erin-cuthbert-pens-new-deal-with-chelsea-women) (17 Nov)
-- [Here to stay! 📝](https://chelseafc.com/en/video/erin-cuthbert-signs-new-contract-with-chelsea-women) (17 Nov)
+- [‘She’s one of our key players’ – Hayes on Cuthbert’s new deal](https://chelseafc.com/en/news/article/shes-one-of-our-key-players-hayes-on-cuthberts-new-deal) (18 Nov)
+- [Hayes on her recovery and being back for a sell-out derby at the Bridge](https://chelseafc.com/en/news/article/hayes-on-her-recovery-and-being-back-for-a-sell-out-derby-at-the-bridge) (18 Nov)
+- [Gearing up for Spurs! 💪](https://chelseafc.com/en/video/gearing-up-for-spurs-at-the-bridge-or-chelsea-women-unseen-or-presented-by) (18 Nov)
+- [Hayes press conference 📺](https://chelseafc.com/en/video/emma-hayes-press-conference-2022-11-18) (18 Nov)
+- [Countdown to Qatar: Morocco](https://chelseafc.com/en/news/article/countdown-to-qatar-morocco) (18 Nov)
 
 <!-- cfc_marker ends -->
 
@@ -82,6 +84,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 711, using [2, 6, 6, 10, 50, 100]
+- Target: 184, using [5, 8, 10, 25, 75, 100]
+- Solution: 100 + 75 + 25 - 10 x 8 / 5
+- Total: 30 solutions.
 
 <!-- game_marker ends -->
