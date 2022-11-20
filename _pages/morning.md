@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 19 November 2022
+### Daily Rundown on Sunday, 20 November 2022
 
-- The average temperature today is 7.97˚C;
-- With highs of 9.07˚C and lows of 4.76˚C.
-- You can expect scattered clouds for the day.
+- The average temperature today is 8.6˚C;
+- With highs of 9.58˚C and lows of 4.45˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
+- Shadow boxing
+- Bench dips
 - Calf raises
-- Plank
 
 <!-- workout_marker ends -->
 
@@ -57,8 +57,10 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(15:00) Everton Women - Manchester City Women</li>
-<li>(17:30) Arsenal Women - Manchester United Women</li>
+<li>(13:00) Chelsea Women - Tottenham Hotspur Women</li>
+<li>(14:00) Aston Villa Women - Reading Women</li>
+<li>(14:00) Brighton & Hove Albion Women - Liverpool Women</li>
+<li>(15:00) West Ham United Women - Leicester City Women</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -66,11 +68,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [‘She’s one of our key players’ – Hayes on Cuthbert’s new deal](https://chelseafc.com/en/news/article/shes-one-of-our-key-players-hayes-on-cuthberts-new-deal) (18 Nov)
-- [Hayes on her recovery and being back for a sell-out derby at the Bridge](https://chelseafc.com/en/news/article/hayes-on-her-recovery-and-being-back-for-a-sell-out-derby-at-the-bridge) (18 Nov)
-- [Gearing up for Spurs! 💪](https://chelseafc.com/en/video/gearing-up-for-spurs-at-the-bridge-or-chelsea-women-unseen-or-presented-by) (18 Nov)
-- [Hayes press conference 📺](https://chelseafc.com/en/video/emma-hayes-press-conference-2022-11-18) (18 Nov)
-- [Countdown to Qatar: Morocco](https://chelseafc.com/en/news/article/countdown-to-qatar-morocco) (18 Nov)
+- [England: We want to give the crowd something to cheer](https://chelseafc.com/en/news/articlehttps://chelseafc.com/england-we-want-to-give-the-crowd-something-to-cheer) (20 Nov)
+- [Thiago Silva's World Cup favourites](https://chelseafc.com/en/news/article/thiago-silvas-world-cup-favourites) (20 Nov)
+- [Hayes on staying calm with new star James and smiling for Chelsea legend Spence](https://chelseafc.com/en/news/article/hayes-on-staying-calm-with-new-star-james-and-smiling-for-chelsea-legend) (19 Nov)
+- [Eriksson excited to 'put on a show' at Stamford Bridge](https://chelseafc.com/en/news/article/eriksson-excited-to-put-on-a-show-at-stamford-bridge) (19 Nov)
+- [🎬 Magda's Spurs preview](https://chelseafc.com/en/video/221118-magda-wt-16x9) (19 Nov)
 
 <!-- cfc_marker ends -->
 
@@ -84,8 +86,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 184, using [5, 8, 10, 25, 75, 100]
-- Solution: 100 + 75 + 25 - 10 x 8 / 5
-- Total: 30 solutions.
+- Target: 902, using [2, 2, 6, 8, 10, 100]
+- Solution: ( 10 - 8 / ( 6 + 2 ) ) x 100 + 2
+- Total: 21 solutions.
 
 <!-- game_marker ends -->
