@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 20 November 2022
+### Daily Rundown on Monday, 21 November 2022
 
-- The average temperature today is 8.6˚C;
-- With highs of 9.58˚C and lows of 4.45˚C.
-- You can expect light rain for the day.
+- The average temperature today is 8.34˚C;
+- With highs of 8.5˚C and lows of 3.83˚C.
+- You can expect heavy intensity rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Dead bugs
 - Shadow boxing
-- Bench dips
-- Calf raises
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -57,37 +57,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(13:00) Chelsea Women - Tottenham Hotspur Women</li>
-<li>(14:00) Aston Villa Women - Reading Women</li>
-<li>(14:00) Brighton & Hove Albion Women - Liverpool Women</li>
-<li>(15:00) West Ham United Women - Leicester City Women</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [England: We want to give the crowd something to cheer](https://chelseafc.com/en/news/articlehttps://chelseafc.com/england-we-want-to-give-the-crowd-something-to-cheer) (20 Nov)
-- [Thiago Silva's World Cup favourites](https://chelseafc.com/en/news/article/thiago-silvas-world-cup-favourites) (20 Nov)
-- [Hayes on staying calm with new star James and smiling for Chelsea legend Spence](https://chelseafc.com/en/news/article/hayes-on-staying-calm-with-new-star-james-and-smiling-for-chelsea-legend) (19 Nov)
-- [Eriksson excited to 'put on a show' at Stamford Bridge](https://chelseafc.com/en/news/article/eriksson-excited-to-put-on-a-show-at-stamford-bridge) (19 Nov)
-- [🎬 Magda's Spurs preview](https://chelseafc.com/en/video/221118-magda-wt-16x9) (19 Nov)
+- [Hayes: I won’t stop hearing about that goal from her!](https://chelseafc.com/en/news/article/hayes-i-wont-stop-hearing-about-that-goal-from-her) (20 Nov)
+- [Countdown to Qatar: Spain](https://chelseafc.com/en/news/article/countdown-to-qatar-spain) (20 Nov)
+- [Erin Cuthbert post-match reaction!](https://chelseafc.com/en/video/post-match-iv-cuthbert-16x9-webapp) (20 Nov)
+- [Report: Chelsea Women 3 Tottenham Women 0](https://chelseafc.com/en/news/article/report-chelsea-women-3-tottenham-women-0) (20 Nov)
+- [Chelsea Women line up vs Tottenham](https://chelseafc.com/en/news/article/chelsea-women-line-up-vs-tottenham) (20 Nov)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > casuist - noun: One who employs deceptive or excessively subtle reasoning, especially on moral issues.
+ > truffle - verb intr.: To search, rummage, dig up, etc.; verb tr.: To stuff or to intersperse with something.; noun: 1. Any of various edible fungi that grow underground. 2. A soft, round candy made with chocolate, often coated with cocoa powder.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 902, using [2, 2, 6, 8, 10, 100]
-- Solution: ( 10 - 8 / ( 6 + 2 ) ) x 100 + 2
-- Total: 21 solutions.
+- Target: 479, using [2, 2, 3, 5, 9, 25]
+- Solution: ( 25 + 9 ) x ( 5 + 2 ) x 2 + 3
+- Total: 8 solutions.
 
 <!-- game_marker ends -->
