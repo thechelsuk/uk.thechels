@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 21 November 2022
+### Daily Rundown on Tuesday, 22 November 2022
 
-- The average temperature today is 8.34˚C;
-- With highs of 8.5˚C and lows of 3.83˚C.
-- You can expect heavy intensity rain for the day.
+- The average temperature today is 7.34˚C;
+- With highs of 8.64˚C and lows of 4.15˚C.
+- You can expect scattered clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,17 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Dead bugs
-- Shadow boxing
+- Bench dips
+- Plank
 - Kettlebell rows
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -43,12 +45,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 84.81
-- V3AB.L : 3.77225
-- SPXP.L : 63523.5
-- IMID.L : 171.485
+- VWRL.L : 84.95
+- V3AB.L : 3.78725
+- SPXP.L : 63922.0
+- IMID.L : 170.105
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 237.78
+- 0P00013P6I.L : 239.14999
 
 <!-- stocks_marker ends -->
 
@@ -64,26 +66,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Hayes: I won’t stop hearing about that goal from her!](https://chelseafc.com/en/news/article/hayes-i-wont-stop-hearing-about-that-goal-from-her) (20 Nov)
-- [Countdown to Qatar: Spain](https://chelseafc.com/en/news/article/countdown-to-qatar-spain) (20 Nov)
-- [Erin Cuthbert post-match reaction!](https://chelseafc.com/en/video/post-match-iv-cuthbert-16x9-webapp) (20 Nov)
-- [Report: Chelsea Women 3 Tottenham Women 0](https://chelseafc.com/en/news/article/report-chelsea-women-3-tottenham-women-0) (20 Nov)
-- [Chelsea Women line up vs Tottenham](https://chelseafc.com/en/news/article/chelsea-women-line-up-vs-tottenham) (20 Nov)
+- [Chelsea Women vs Real Madrid Women preview: Kick-off time, where to watch and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-real-madrid-women-preview-kick-off-time-where-to-watch-and) (22 Nov)
+- [EFL Trophy preview: Robinson sets sights on knockout test](https://chelseafc.com/en/news/article/efl-trophy-preview-robinson-sets-sights-on-knockout-test) (22 Nov)
+- [World Cup: Pulisic assists in hard-fought USA draw, while Mendy and Koulibaly suffer defeat](https://chelseafc.com/en/news/article/world-cup-pulisic-assists-in-hard-fought-usa-draw-while-mendy-and-koulibaly) (21 Nov)
+- [Cuthbert on adapting, thriving and feeling at home](https://chelseafc.com/en/news/article/cuthbert-on-adapting-thriving-and-feeling-at-home) (21 Nov)
+- [Steps Up: Bergstrom on improving at Peterborough and achieving targets in football](https://chelseafc.com/en/news/article/steps-up-bergstrom-on-improving-at-peterborough-and-achieving-targets-in) (21 Nov)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > truffle - verb intr.: To search, rummage, dig up, etc.; verb tr.: To stuff or to intersperse with something.; noun: 1. Any of various edible fungi that grow underground. 2. A soft, round candy made with chocolate, often coated with cocoa powder.
+ > scunner - verb intr.: 1. To disgust or sicken. 2. To feel disgust or to flinch. noun: 1. Dislike or disgust. 2. A rascal; nuisance.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 479, using [2, 2, 3, 5, 9, 25]
-- Solution: ( 25 + 9 ) x ( 5 + 2 ) x 2 + 3
-- Total: 8 solutions.
+- Target: 677, using [3, 4, 4, 6, 8, 10]
+- Solution: ( ( 8 + 4 ) x 6 - 4 ) x 10 - 3
+- Total: 1 solutions.
 
 <!-- game_marker ends -->
