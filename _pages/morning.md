@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 22 November 2022
+### Daily Rundown on Wednesday, 23 November 2022
 
-- The average temperature today is 7.34˚C;
-- With highs of 8.64˚C and lows of 4.15˚C.
-- You can expect scattered clouds for the day.
+- The average temperature today is 9.35˚C;
+- With highs of 9.69˚C and lows of 6.07˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,17 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
-- Plank
 - Kettlebell rows
+- Dead bugs
+- Plank
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -45,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 84.95
-- V3AB.L : 3.78725
-- SPXP.L : 63922.0
-- IMID.L : 170.105
+- VWRL.L : 85.265
+- V3AB.L : 3.7895
+- SPXP.L : 64084.0
+- IMID.L : 171.81
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 239.14999
+- 0P00013P6I.L : 237.86
 
 <!-- stocks_marker ends -->
 
@@ -66,26 +64,24 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Chelsea Women vs Real Madrid Women preview: Kick-off time, where to watch and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-real-madrid-women-preview-kick-off-time-where-to-watch-and) (22 Nov)
-- [EFL Trophy preview: Robinson sets sights on knockout test](https://chelseafc.com/en/news/article/efl-trophy-preview-robinson-sets-sights-on-knockout-test) (22 Nov)
-- [World Cup: Pulisic assists in hard-fought USA draw, while Mendy and Koulibaly suffer defeat](https://chelseafc.com/en/news/article/world-cup-pulisic-assists-in-hard-fought-usa-draw-while-mendy-and-koulibaly) (21 Nov)
-- [Cuthbert on adapting, thriving and feeling at home](https://chelseafc.com/en/news/article/cuthbert-on-adapting-thriving-and-feeling-at-home) (21 Nov)
-- [Steps Up: Bergstrom on improving at Peterborough and achieving targets in football](https://chelseafc.com/en/news/article/steps-up-bergstrom-on-improving-at-peterborough-and-achieving-targets-in) (21 Nov)
+- [Bright on supporting Harder, being ready for Real Madrid and proving a point in Europe](https://chelseafc.com/en/news/article/bright-on-supporting-harder-being-ready-for-real-madrid-and-proving-a-point) (23 Nov)
+- [Sterling joins list of Chelsea scorers at World Cup](https://chelseafc.com/en/news/article/sterling-joins-list-of-chelsea-scorers-at-world-cup) (23 Nov)
+- [Hayes on Harder prognosis, Mjelde and Kirby latest and player welfare](https://chelseafc.com/en/news/article/hayes-on-harder-prognosis-mjelde-and-kirby-latest-and-player-welfare) (22 Nov)
+- [EFL Trophy report: Peterborough United 2 Chelsea 4](https://chelseafc.com/en/news/article/efl-trophy-report-peterborough-united-2-chelsea-4) (22 Nov)
+- [Pat Nevin in Qatar: Chelsea players helping to show the way, up to the rest to follow](https://chelseafc.com/en/news/article/pat-nevin-in-qatar-chelsea-players-helping-to-show-the-way) (22 Nov)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > scunner - verb intr.: 1. To disgust or sicken. 2. To feel disgust or to flinch. noun: 1. Dislike or disgust. 2. A rascal; nuisance.
+ > tomcat - noun: 1. A male domestic cat. 2. A womanizer. verb intr.: To pursue women promiscuously.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 677, using [3, 4, 4, 6, 8, 10]
-- Solution: ( ( 8 + 4 ) x 6 - 4 ) x 10 - 3
-- Total: 1 solutions.
+- Target: 535, using [6, 8, 8, 8, 10, 100]
 
 <!-- game_marker ends -->
