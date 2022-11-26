@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 25 November 2022
+### Daily Rundown on Saturday, 26 November 2022
 
-- The average temperature today is 9.35˚C;
-- With highs of 10.66˚C and lows of 6.57˚C.
-- You can expect light rain for the day.
+- The average temperature today is 11.08˚C;
+- With highs of 11.57˚C and lows of 7.46˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
-- Shadow boxing
-- Kettlebell swings
+- Walking jacks
+- Plank
+- Bench dips
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.01
-- V3AB.L : 3.7785
-- SPXP.L : 63701.5
-- IMID.L : 173.94501
+- VWRL.L : 84.92
+- V3AB.L : 3.777
+- SPXP.L : 63725.0
+- IMID.L : 174.315
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 238.09
+- 0P00013P6I.L : 238.63
 
 <!-- stocks_marker ends -->
 
@@ -57,18 +57,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(12:45) King's Lynn Town - Stevenage</li>
+<li>(15:00) AFC Wimbledon - Chesterfield</li>
+<li>(15:00) Accrington Stanley - Barnet</li>
+<li>(15:00) Barnsley - Crewe Alexandra</li>
+<li>(15:00) Cambridge United - Grimsby Town</li>
+<li>(15:00) Charlton Athletic - Stockport County</li>
+<li>(15:00) Forest Green Rovers - Alvechurch</li>
+<li>(15:00) Hartlepool United - Harrogate Town</li>
+<li>(15:00) Oxford United - Exeter City</li>
+<li>(15:00) Portsmouth - Milton Keynes Dons</li>
+<li>(15:00) Sheffield Wednesday - Mansfield Town</li>
+<li>(15:00) Shrewsbury Town - Peterborough United</li>
+<li>(15:00) Walsall - Carlisle United</li>
+<li>(15:15) Wrexham - Farnborough </li>
+<li>(17:00) Dagenham & Redbridge - Gillingham</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [World Cup: Clean sheet for Thiago Silva in Brazil win](https://chelseafc.com/en/news/article/world-cup-clean-sheet-for-thiago-silva-in-brazil-win) (24 Nov)
-- [Chelsea to play in Abu Dhabi again!](https://chelseafc.com/en/news/article/chelsea-to-play-in-abu-dhabi-again) (24 Nov)
-- [Ingle hails hard work, patience and fantastic fans](https://chelseafc.com/en/news/article/ingle-hails-hard-work-patience-and-fantastic-fans) (24 Nov)
-- [Hayes praise for mature team, tenacious scorer and top professional](https://chelseafc.com/en/news/article/hayes-praise-for-mature-team) (24 Nov)
-- [Highlights: Chelsea Women 2-0 Real Madrid](https://chelseafc.com/en/video/chelsea-women-vs-real-madrid-2-0-or-highlights-or-uwcl) (24 Nov)
+- [World Cup: Pulisic named Player of the Match as England and USA can't be separated](https://chelseafc.com/en/news/article/world-cup-england-and-usa-cant-be-separated-in-second-group-game) (25 Nov)
+- [FIVE points clear at top of UWCL group! - Unseen Extra](https://chelseafc.com/en/video/chelsea-women-vs-real-madrid-2-0-or-unseen-extra-or-uwcl) (25 Nov)
+- [📝 Trevoh Chalobah signs until 2028!](https://chelseafc.com/en/video/trevoh-chalobah-signs-contract-extension) (25 Nov)
+- [New long-term contract for Chalobah](https://chelseafc.com/en/news/article/new-long-term-contract-for-chalobah) (25 Nov)
+- [Everything you need to know about Trevoh Chalobah](https://chelseafc.com/en/news/article/everything-you-need-to-know-about-trevoh-chalobah) (25 Nov)
 
 <!-- cfc_marker ends -->
 
@@ -82,8 +97,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 488, using [2, 3, 8, 9, 10, 100]
-- Solution: ( 100 + 10 + 9 + 3 ) x 8 / 2
-- Total: 24 solutions.
+- Target: 400, using [1, 4, 5, 5, 5, 75]
+- Solution: ( 75 + 5 + 5 - 4 - 1 ) x 5
+- Total: 54 solutions.
 
 <!-- game_marker ends -->
