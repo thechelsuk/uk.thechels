@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 01 December 2022
+### Daily Rundown on Friday, 02 December 2022
 
-- The average temperature today is 6.32˚C;
-- With highs of 7.55˚C and lows of 1.67˚C.
-- You can expect few clouds for the day.
+- The average temperature today is 4.81˚C;
+- With highs of 5.6˚C and lows of 0.64˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,8 +19,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
-- Calf raises
+- Dead bugs
+- Bench dips
 - Walking jacks
 
 <!-- workout_marker ends -->
@@ -33,9 +33,9 @@ No tasks today
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
 
-- 36 new cases & 0 deaths on 2022-11-24
-- 0 new cases & 0 deaths on 2022-11-23
-- 0 new cases & 0 deaths on 2022-11-22
+- 44 new cases & 1 deaths on 2022-12-01
+- 0 new cases & 0 deaths on 2022-11-30
+- 0 new cases & 0 deaths on 2022-11-29
 
 <!-- c19_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.255
-- V3AB.L : 3.786
-- SPXP.L : 63392.0
-- IMID.L : 172.55499
+- VWRL.L : 85.16
+- V3AB.L : 3.788
+- SPXP.L : 63529.0
+- IMID.L : 176.83
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 238.45
+- 0P00013P6I.L : nan
 
 <!-- stocks_marker ends -->
 
@@ -64,26 +64,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [The Chelsea Advent Calendar Quiz - Day 1](https://chelseafc.com/en/news/article/the-chelsea-advent-calendar-quiz-day-1) (01 Dec)
-- [Koulibaly on realising a childhood dream, paying tribute to Papa Bouba Diop and preparing for the last-16](https://chelseafc.com/en/news/article/koulibaly-on-realising-a-childhood-dream-paying-tribute-to-papa-bouba-diop) (30 Nov)
-- [Christian Pulisic's World Cup favourites](https://chelseafc.com/en/news/article/christian-pulisics-world-cup-favourites) (30 Nov)
-- [Vote for Chelsea’s November Goal of the Month](https://chelseafc.com/en/news/article/vote-for-chelseas-november-goal-of-the-month) (30 Nov)
-- [The boys are back!](https://chelseafc.com/en/video/chelsea-men-return-to-training) (30 Nov)
+- [Leicester City Women vs Chelsea Women preview: Kick-off time, where to watch and more!](https://chelseafc.com/en/news/article/leicester-city-women-vs-chelsea-women-preview-kick-off-time-where-to-watch) (02 Dec)
+- [The Chelsea Advent Calendar Quiz - Day 2](https://chelseafc.com/en/news/article/the-chelsea-advent-calendar-quiz-day-2) (02 Dec)
+- [World Cup: Drama and contrasting fortunes for Azpi and Kai](https://chelseafc.com/en/news/article/world-cup-drama-and-contrasting-fortunes-for-azpilicueta-and-havertz) (01 Dec)
+- [César Azpilicueta - From Cobham to Qatar](https://chelseafc.com/en/video/cesarazpilicueta-iv-16x9-clean) (01 Dec)
+- [World Cup: Ziyech scores as Morocco progress to knockouts](https://chelseafc.com/en/news/article/world-cup-ziyech-scores-as-morocco-progress-to-knockouts) (01 Dec)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > prodrome - noun: An early symptom that indicates the onset of a disease or an episode of something such as a migraine.
+ > dromomania - noun: 1. A compulsive desire to travel. 2. An excessive enthusiasm for running.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 666, using [2, 5, 7, 8, 10, 100]
-- Solution: ( 100 - 10 - 7 ) x 8 + 2
-- Total: 13 solutions.
+- Target: 216, using [2, 4, 6, 7, 9, 100]
+- Solution: ( 100 + 9 + 7 - 6 ) x 2 - 4
+- Total: 105 solutions.
 
 <!-- game_marker ends -->
