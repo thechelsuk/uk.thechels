@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 02 December 2022
+### Daily Rundown on Saturday, 03 December 2022
 
-- The average temperature today is 4.81˚C;
-- With highs of 5.6˚C and lows of 0.64˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 5.68˚C;
+- With highs of 6.09˚C and lows of 2.46˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Dead bugs
-- Bench dips
+- Plank
 - Walking jacks
+- Shadow boxing
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.16
-- V3AB.L : 3.788
-- SPXP.L : 63529.0
+- VWRL.L : 84.84
+- V3AB.L : 3.77525
+- SPXP.L : 63275.0
 - IMID.L : 176.83
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : nan
+- 0P00013P6I.L : 238.89
 
 <!-- stocks_marker ends -->
 
@@ -57,18 +57,21 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(12:30) Manchester United Women - Aston Villa Women</li>
+<li>(14:00) Arsenal Women - Everton Women</li>
+<li>(15:00) Leicester City Women - Chelsea Women</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Leicester City Women vs Chelsea Women preview: Kick-off time, where to watch and more!](https://chelseafc.com/en/news/article/leicester-city-women-vs-chelsea-women-preview-kick-off-time-where-to-watch) (02 Dec)
-- [The Chelsea Advent Calendar Quiz - Day 2](https://chelseafc.com/en/news/article/the-chelsea-advent-calendar-quiz-day-2) (02 Dec)
-- [World Cup: Drama and contrasting fortunes for Azpi and Kai](https://chelseafc.com/en/news/article/world-cup-drama-and-contrasting-fortunes-for-azpilicueta-and-havertz) (01 Dec)
-- [César Azpilicueta - From Cobham to Qatar](https://chelseafc.com/en/video/cesarazpilicueta-iv-16x9-clean) (01 Dec)
-- [World Cup: Ziyech scores as Morocco progress to knockouts](https://chelseafc.com/en/news/article/world-cup-ziyech-scores-as-morocco-progress-to-knockouts) (01 Dec)
+- [Reiten on team goals, high standards and individual milestones](https://chelseafc.com/en/news/article/reiten-on-team-goals-high-standards-and-individual-milestones) (03 Dec)
+- [Pulisic on watching USA progress from hospital and why team spirit is so good](https://chelseafc.com/en/news/article/pulisic-on-watching-usa-progress-from-hospital-and-why-team-spirit-is-so) (03 Dec)
+- [The Chelsea Advent Calendar Quiz - Day 3](https://chelseafc.com/en/news/article/the-chelsea-advent-calendar-quiz-day-3) (03 Dec)
+- [How did Chelsea players fare in the World Cup group stage?](https://chelseafc.com/en/news/article/how-did-chelsea-players-fare-in-the-world-cup-group-stage) (02 Dec)
+- [World Cup: Thiago Silva and Zakaria advance from Group G](https://chelseafc.com/en/news/article/world-cup-thiago-silva-and-zakaria-advance-from-group-g) (02 Dec)
 
 <!-- cfc_marker ends -->
 
@@ -82,8 +85,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 216, using [2, 4, 6, 7, 9, 100]
-- Solution: ( 100 + 9 + 7 - 6 ) x 2 - 4
-- Total: 105 solutions.
+- Target: 552, using [6, 7, 10, 25, 50, 100]
+- Solution: ( 100 + 25 + 10 + 7 - 50 ) x 6
+- Total: 11 solutions.
 
 <!-- game_marker ends -->
