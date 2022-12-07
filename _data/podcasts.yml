@@ -1,9 +1,5 @@
 --- 
 - 
-  category: Music
-  link: "https://podcasts.files.bbci.co.uk/p02nrw4q.rss"
-  name: "BBC - Music Introducing Mixtape"
-- 
   category: Engineering
   link: "https://msdevshow.libsyn.com/rss"
   name: "MS Dev Show"
@@ -184,10 +180,6 @@
   link: "https://feeds.feedburner.com/WorklifeWithAdamGrant"
   name: "WorkLife with Adam Grant"
 - 
-  category: News
-  link: "https://podcasts.files.bbci.co.uk/p002vsxs.rss"
-  name: "BBC - Business Daily"
-- 
   category: Engineering
   link: "http://feeds.feedburner.com/processbreakdown-audio"
   name: "Process Breakdown Podcast (audio)"
@@ -315,14 +307,6 @@
   category: Technology
   link: "https://governmentdigitalservice.podbean.com/feed.xml"
   name: "Government Digital Service Podcast"
-- 
-  category: News
-  link: "https://podcasts.files.bbci.co.uk/w13xtv39.rss"
-  name: "BBC - Coronavirus Global Update"
-- 
-  category: Finance
-  link: "https://podcasts.files.bbci.co.uk/b006qjnv.rss"
-  name: "BBC - Money Box"
 - 
   category: Other
   link: "https://feeds.simplecast.com/oFb7TFSC"
@@ -623,10 +607,6 @@
   link: "https://feeds.megaphone.fm/LDB8042666505"
   name: "Modern CTO with Joel Beasley"
 - 
-  category: Finance
-  link: "https://podcasts.files.bbci.co.uk/b0070lr5.rss"
-  name: "BBC - Wake Up to Money"
-- 
   category: Sport
   link: "https://anchor.fm/s/62d78914/podcast/rss"
   name: "Fozcast - The Ben Foster Podcast"
@@ -726,10 +706,6 @@
   category: Other
   link: "https://anchor.fm/s/57d918fc/podcast/rss"
   name: "Three Bean Salad"
-- 
-  category: Music
-  link: "https://podcasts.files.bbci.co.uk/p06q6h18.rss"
-  name: "BBC - PopMaster"
 -
   category: Finance
   link: "https://podcasts.files.bbci.co.uk/m00152bx.rss"
@@ -798,10 +774,6 @@
   category: Finance
   link: "https://anchor.fm/s/74c74510/podcast/rss"
   name: "Playing FTSE"
--
-  category: News
-  link: "https://podcasts.files.bbci.co.uk/p04z203l.rss"
-  name: "BBC - Political Thinking with Nick Robinson"
 -
   category: Engineering
   link: "https://feeds.simplecast.com/OB5FkIl8"
@@ -926,10 +898,6 @@
   category: Business
   link: "https://api.substack.com/feed/podcast/10845.rss"
   name: "Lenny's Podcast - Lenny Rachitsky"
--
-  category: Music
-  link: "https://podcasts.files.bbci.co.uk/b006qnmr.rss"
-  name: "BBC - Desert Island Discs"
 -
   category: Engineering
   link: "https://www.mountaingoatsoftware.com/agile/podcast/rss"
