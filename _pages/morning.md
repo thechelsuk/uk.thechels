@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 07 December 2022
+### Daily Rundown on Thursday, 08 December 2022
 
-- The average temperature today is 2.87˚C;
-- With highs of 4.07˚C and lows of -0.33˚C.
-- You can expect scattered clouds for the day.
+- The average temperature today is 2.62˚C;
+- With highs of 3.08˚C and lows of -2.22˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Plank
 - Walking jacks
-- Shadow boxing
+- Kettlebell swings
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 83.34
-- V3AB.L : 3.7015
-- SPXP.L : 61861.0
-- IMID.L : 173.045
+- VWRL.L : 83.07
+- V3AB.L : 3.6955
+- SPXP.L : 61723.5
+- IMID.L : 171.71001
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 236.27
+- 0P00013P6I.L : 234.28
 
 <!-- stocks_marker ends -->
 
@@ -57,7 +57,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:45) Stockport County - Charlton Athletic</li>
+<li>(19:15) Gillingham - Dagenham & Redbridge</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -65,26 +65,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Real Madrid Women vs Chelsea Women preview: Kick-off time, where to watch and more!](https://chelseafc.com/en/news/article/real-madrid-women-vs-chelsea-women-preview-kick-off-time-where-to-watch-and) (07 Dec)
-- [The Chelsea Advent Calendar Quiz - Day 7](https://chelseafc.com/en/news/article/the-chelsea-advent-calendar-quiz-day-7) (07 Dec)
-- [Stepping it up in the heat!](https://chelseafc.com/en/news/article/stepping-it-up-in-the-heat) (06 Dec)
-- [World Cup: Midfielder misses out on quarter-finals](https://chelseafc.com/en/news/article/world-cup-midfielder-misses-out-on-quarter-finals) (06 Dec)
-- [World Cup: Shock as Morocco and Ziyech dump Spain out](https://chelseafc.com/en/news/article/world-cup-spain-v-morocco-ziyech-azpilicueta) (06 Dec)
+- [Hayes on growing opposition, winning mentality and self-focus](https://chelseafc.com/en/news/article/hayes-on-growing-opposition-winning-mentality-and-self-focus) (07 Dec)
+- [Squad of 23 make the trip to Madrid](https://chelseafc.com/en/news/article/squad-of-23-make-the-trip-to-madrid) (07 Dec)
+- [‘We’re here to impress!’ – Day three in Abu Dhabi](https://chelseafc.com/en/news/article/were-here-to-impress-day-three-in-abu-dhabi) (07 Dec)
+- [Who would you want on your team?](https://chelseafc.com/en/video/who-would-you-want-on-your-team) (07 Dec)
+- [Potter exclusive: Update on how injured players are progressing](https://chelseafc.com/en/news/article/potter-exclusive-update-on-how-injured-players-are-progressing) (07 Dec)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > pelagic - adjective: Relating to or living in the open ocean, far from land.
+ > rutilant - adjective: Glowing, shining, or glittering with a red or golden light.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 271, using [3, 5, 7, 10, 25, 75]
-- Solution: ( 75 + 25 + 7 ) x 3 - 10 x 5
-- Total: 24 solutions.
+- Target: 816, using [1, 3, 8, 10, 50, 100]
+- Solution: ( 50 / 10 + 100 - 3 ) x 8
+- Total: 9 solutions.
 
 <!-- game_marker ends -->
