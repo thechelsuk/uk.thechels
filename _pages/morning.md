@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 08 December 2022
+### Daily Rundown on Friday, 09 December 2022
 
-- The average temperature today is 2.62˚C;
-- With highs of 3.08˚C and lows of -2.22˚C.
+- The average temperature today is 3.08˚C;
+- With highs of 3.47˚C and lows of -2.21˚C.
 - You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Bench dips
+- Bodyweight squats
 - Walking jacks
-- Kettlebell swings
-- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -33,9 +33,9 @@ No tasks today
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
 
-- 44 new cases & 1 deaths on 2022-12-01
-- 0 new cases & 0 deaths on 2022-11-30
-- 0 new cases & 0 deaths on 2022-11-29
+- 55 new cases & 0 deaths on 2022-12-08
+- 0 new cases & 0 deaths on 2022-12-07
+- 0 new cases & 0 deaths on 2022-12-06
 
 <!-- c19_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 83.07
-- V3AB.L : 3.6955
-- SPXP.L : 61723.5
-- IMID.L : 171.71001
+- VWRL.L : 83.475
+- V3AB.L : 3.7115
+- SPXP.L : 62007.5
+- IMID.L : 173.06
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 234.28
+- 0P00013P6I.L : 233.81
 
 <!-- stocks_marker ends -->
 
@@ -57,34 +57,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:15) Gillingham - Dagenham & Redbridge</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Hayes on growing opposition, winning mentality and self-focus](https://chelseafc.com/en/news/article/hayes-on-growing-opposition-winning-mentality-and-self-focus) (07 Dec)
-- [Squad of 23 make the trip to Madrid](https://chelseafc.com/en/news/article/squad-of-23-make-the-trip-to-madrid) (07 Dec)
-- [‘We’re here to impress!’ – Day three in Abu Dhabi](https://chelseafc.com/en/news/article/were-here-to-impress-day-three-in-abu-dhabi) (07 Dec)
-- [Who would you want on your team?](https://chelseafc.com/en/video/who-would-you-want-on-your-team) (07 Dec)
-- [Potter exclusive: Update on how injured players are progressing](https://chelseafc.com/en/news/article/potter-exclusive-update-on-how-injured-players-are-progressing) (07 Dec)
+- [Real Madrid 1-1 Chelsea Women - Women's Champions League Highlights](https://chelseafc.com/en/video/real-madrid-women-v-chelsea-women-2-min-highlights) (09 Dec)
+- [🎤 Erin Cuthbert on drawing to Real Madrid](https://chelseafc.com/en/video/erin-cuthbert-on-drawing-to-real-madrid) (08 Dec)
+- [Women's report: Real Madrid 1 Chelsea 1](https://chelseafc.com/en/news/article/womens-report-real-madrid-1-chelsea-1) (08 Dec)
+- [World Cup: Blues on the spot](https://chelseafc.com/en/news/article/world-cup-blues-on-the-spot) (08 Dec)
+- [Watch Real Madrid vs Chelsea Women video](https://chelseafc.com/en/news/article/watch-real-madrid-vs-chelsea-live-stream) (08 Dec)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > rutilant - adjective: Glowing, shining, or glittering with a red or golden light.
+ > tatterdemalion - adjective: Ragged, tattered. noun: A person in ragged clothes.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 816, using [1, 3, 8, 10, 50, 100]
-- Solution: ( 50 / 10 + 100 - 3 ) x 8
-- Total: 9 solutions.
+- Target: 163, using [4, 5, 5, 7, 7, 25]
+- Solution: ( 25 + 7 - 5 ) x 5 + 7 x 4
+- Total: 20 solutions.
 
 <!-- game_marker ends -->
