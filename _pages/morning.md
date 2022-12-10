@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 09 December 2022
+### Daily Rundown on Saturday, 10 December 2022
 
-- The average temperature today is 3.08˚C;
-- With highs of 3.47˚C and lows of -2.21˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 3.29˚C;
+- With highs of 3.81˚C and lows of -1.19˚C.
+- You can expect scattered clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -20,8 +20,8 @@ seo: Good Morning Mat, Here is your daily briefing
 3x AMRAP for 45 seconds, 15 second rest:
 
 - Bench dips
-- Bodyweight squats
 - Walking jacks
+- Dead bugs
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 83.475
-- V3AB.L : 3.7115
-- SPXP.L : 62007.5
-- IMID.L : 173.06
+- VWRL.L : 83.3
+- V3AB.L : 3.707
+- SPXP.L : 61766.5
+- IMID.L : 173.86
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 233.81
+- 0P00013P6I.L : 234.73
 
 <!-- stocks_marker ends -->
 
@@ -64,11 +64,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Real Madrid 1-1 Chelsea Women - Women's Champions League Highlights](https://chelseafc.com/en/video/real-madrid-women-v-chelsea-women-2-min-highlights) (09 Dec)
-- [🎤 Erin Cuthbert on drawing to Real Madrid](https://chelseafc.com/en/video/erin-cuthbert-on-drawing-to-real-madrid) (08 Dec)
-- [Women's report: Real Madrid 1 Chelsea 1](https://chelseafc.com/en/news/article/womens-report-real-madrid-1-chelsea-1) (08 Dec)
-- [World Cup: Blues on the spot](https://chelseafc.com/en/news/article/world-cup-blues-on-the-spot) (08 Dec)
-- [Watch Real Madrid vs Chelsea Women video](https://chelseafc.com/en/news/article/watch-real-madrid-vs-chelsea-live-stream) (08 Dec)
+- [Chalobah: We’re recharged and ready to go](https://chelseafc.com/en/news/article/chalobah-were-recharged-and-ready-to-go) (10 Dec)
+- [Chelsea Women vs Reading Women preview: Kick-off time, where to watch live and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-reading-women-preview-kick-off-time-where-to-watch-live) (10 Dec)
+- [The Chelsea Advent Calendar Quiz - Day 10](https://chelseafc.com/en/news/article/the-chelsea-advent-calendar-quiz-day-10) (10 Dec)
+- [Chelsea earn a point in Madrid - Unseen Extra](https://chelseafc.com/en/video/real-madrid-vs-chelsea-women-1-1-or-unseen-extra-or-uwcl) (10 Dec)
+- [James steps it up in the Middle East](https://chelseafc.com/en/news/article/james-steps-it-up-in-the-middle-east) (09 Dec)
 
 <!-- cfc_marker ends -->
 
@@ -82,8 +82,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 163, using [4, 5, 5, 7, 7, 25]
-- Solution: ( 25 + 7 - 5 ) x 5 + 7 x 4
-- Total: 20 solutions.
+- Target: 397, using [3, 7, 9, 25, 50, 75]
+- Solution: ( 75 - 50 ) x ( 25 - 9 ) - 3
+- Total: 19 solutions.
 
 <!-- game_marker ends -->
