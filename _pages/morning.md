@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 10 December 2022
+### Daily Rundown on Sunday, 11 December 2022
 
-- The average temperature today is 3.29˚C;
-- With highs of 3.81˚C and lows of -1.19˚C.
-- You can expect scattered clouds for the day.
+- The average temperature today is 1.74˚C;
+- With highs of 2.01˚C and lows of -2.43˚C.
+- You can expect snow for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
-- Walking jacks
-- Dead bugs
+- Calf raises
+- Kettlebell rows
+- Kettlebell swings
 
 <!-- workout_marker ends -->
 
@@ -57,18 +57,44 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(12:00) Charlton Athletic Women - MK Dons Women</li>
+<li>(12:30) Manchester City Women - Manchester United Women</li>
+<li>(13:00) Birmingham City Women - Huddersfield Town Women</li>
+<li>(13:00) Cardiff Ladies - Bournemouth Sports Ladies</li>
+<li>(13:00) Ipswich Town Women - Portishead Town Ladies</li>
+<li>(13:00) Leeds Ladies - Stoke City Women</li>
+<li>(13:00) Newcastle Ladies - Wolverhampton Wanderers Women</li>
+<li>(13:00) Peterborough United Women - Durham Women</li>
+<li>(13:00) Sheffield United Women - Nottm Forest Women</li>
+<li>(13:00) Solihull Moors Women - AFC Fylde Women</li>
+<li>(14:00) AFC Wimbledon Women - Gillingham Women</li>
+<li>(14:00) Blackburn Ladies - Sunderland Ladies</li>
+<li>(14:00) Brighton & Hove Albion Women - Everton Women</li>
+<li>(14:00) Burnley Women - Norwich City Women</li>
+<li>(14:00) Hashtag United Women - Actonians LFC</li>
+<li>(14:00) Lewes Women - London Bees</li>
+<li>(14:00) Liverpool Feds WFC - West Bromwich Albion WFC</li>
+<li>(14:00) Liverpool Women - Leicester City Women</li>
+<li>(14:00) London City Lionesses - Portsmouth Women</li>
+<li>(14:00) Oxford United Women - Plymouth Argyle Women</li>
+<li>(14:00) Tottenham Hotspur Women - West Ham United Women</li>
+<li>(15:00) Bristol City Women - Southampton F.C. Women</li>
+<li>(15:00) Coventry United Ladies - Stockport County Ladies</li>
+<li>(16:15) Aston Villa Women - Arsenal Women</li>
+<li>(18:45) Chelsea Women - Reading Women</li>
+<li>(19:00) Crystal Palace Women - Watford Women</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Chalobah: We’re recharged and ready to go](https://chelseafc.com/en/news/article/chalobah-were-recharged-and-ready-to-go) (10 Dec)
-- [Chelsea Women vs Reading Women preview: Kick-off time, where to watch live and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-reading-women-preview-kick-off-time-where-to-watch-live) (10 Dec)
-- [The Chelsea Advent Calendar Quiz - Day 10](https://chelseafc.com/en/news/article/the-chelsea-advent-calendar-quiz-day-10) (10 Dec)
-- [Chelsea earn a point in Madrid - Unseen Extra](https://chelseafc.com/en/video/real-madrid-vs-chelsea-women-1-1-or-unseen-extra-or-uwcl) (10 Dec)
-- [James steps it up in the Middle East](https://chelseafc.com/en/news/article/james-steps-it-up-in-the-middle-east) (09 Dec)
+- [Bettinelli: Let’s finish the week with a positive result](https://chelseafc.com/en/news/article/bettinelli-lets-finish-the-week-with-a-positive-result) (11 Dec)
+- [Kirby on first chances, fond memories and fresh focus](https://chelseafc.com/en/news/article/kirby-on-first-chances-fond-memories-and-fresh-focus) (11 Dec)
+- [Last days in Abu Dhabi](https://chelseafc.com/en/video/last-days-in-abu-dhabi) (10 Dec)
+- [World Cup: England exit despite Mount impact](https://chelseafc.com/en/news/article/world-cup-england-exit-despite-mount-impact) (10 Dec)
+- [World Cup: Ziyech and Morocco make history with huge upset](https://chelseafc.com/en/news/article/world-cup-ziyech-and-morocco-make-world-cup-history-with-another-massive) (10 Dec)
 
 <!-- cfc_marker ends -->
 
@@ -82,8 +108,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 397, using [3, 7, 9, 25, 50, 75]
-- Solution: ( 75 - 50 ) x ( 25 - 9 ) - 3
-- Total: 19 solutions.
+- Target: 208, using [7, 8, 10, 25, 50, 100]
+- Solution: 100 x 50 / 25 + 8
+- Total: 26 solutions.
 
 <!-- game_marker ends -->
