@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 11 December 2022
+### Daily Rundown on Monday, 12 December 2022
 
-- The average temperature today is 1.74˚C;
-- With highs of 2.01˚C and lows of -2.43˚C.
-- You can expect snow for the day.
+- The average temperature today is 1.13˚C;
+- With highs of 1.62˚C and lows of -1.8˚C.
+- You can expect scattered clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Calf raises
+- Dead bugs
+- Shadow boxing
 - Kettlebell rows
-- Kettlebell swings
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -57,59 +58,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:00) Charlton Athletic Women - MK Dons Women</li>
-<li>(12:30) Manchester City Women - Manchester United Women</li>
-<li>(13:00) Birmingham City Women - Huddersfield Town Women</li>
-<li>(13:00) Cardiff Ladies - Bournemouth Sports Ladies</li>
-<li>(13:00) Ipswich Town Women - Portishead Town Ladies</li>
-<li>(13:00) Leeds Ladies - Stoke City Women</li>
-<li>(13:00) Newcastle Ladies - Wolverhampton Wanderers Women</li>
-<li>(13:00) Peterborough United Women - Durham Women</li>
-<li>(13:00) Sheffield United Women - Nottm Forest Women</li>
-<li>(13:00) Solihull Moors Women - AFC Fylde Women</li>
-<li>(14:00) AFC Wimbledon Women - Gillingham Women</li>
-<li>(14:00) Blackburn Ladies - Sunderland Ladies</li>
-<li>(14:00) Brighton & Hove Albion Women - Everton Women</li>
-<li>(14:00) Burnley Women - Norwich City Women</li>
-<li>(14:00) Hashtag United Women - Actonians LFC</li>
-<li>(14:00) Lewes Women - London Bees</li>
-<li>(14:00) Liverpool Feds WFC - West Bromwich Albion WFC</li>
-<li>(14:00) Liverpool Women - Leicester City Women</li>
-<li>(14:00) London City Lionesses - Portsmouth Women</li>
-<li>(14:00) Oxford United Women - Plymouth Argyle Women</li>
-<li>(14:00) Tottenham Hotspur Women - West Ham United Women</li>
-<li>(15:00) Bristol City Women - Southampton F.C. Women</li>
-<li>(15:00) Coventry United Ladies - Stockport County Ladies</li>
-<li>(16:15) Aston Villa Women - Arsenal Women</li>
-<li>(18:45) Chelsea Women - Reading Women</li>
-<li>(19:00) Crystal Palace Women - Watford Women</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Bettinelli: Let’s finish the week with a positive result](https://chelseafc.com/en/news/article/bettinelli-lets-finish-the-week-with-a-positive-result) (11 Dec)
-- [Kirby on first chances, fond memories and fresh focus](https://chelseafc.com/en/news/article/kirby-on-first-chances-fond-memories-and-fresh-focus) (11 Dec)
-- [Last days in Abu Dhabi](https://chelseafc.com/en/video/last-days-in-abu-dhabi) (10 Dec)
-- [World Cup: England exit despite Mount impact](https://chelseafc.com/en/news/article/world-cup-england-exit-despite-mount-impact) (10 Dec)
-- [World Cup: Ziyech and Morocco make history with huge upset](https://chelseafc.com/en/news/article/world-cup-ziyech-and-morocco-make-world-cup-history-with-another-massive) (10 Dec)
+- [Millie Bright post-match reaction!](https://chelseafc.com/en/video/bright-post-match-iv-16x9-webapp) (11 Dec)
+- [Hayes' post-match view!](https://chelseafc.com/en/video/hayes-post-match-iv-16x9-webapp) (11 Dec)
+- [Women's report: Chelsea 3 Reading 2](https://chelseafc.com/en/news/article/womens-report-chelsea-3-reading-2) (11 Dec)
+- [Chelsea 0-1 Aston Villa - Challenge Cup Highlights](https://chelseafc.com/en/video/chelsea-v-aston-villa-0-1-or-highlights-or-cbf-al-wahda-fc-challenge-cup) (11 Dec)
+- [Potter on Broja injury, Hutchinson impact and Abu Dhabi work](https://chelseafc.com/en/news/article/potter-on-broja-injury-hutchinson-impact-and-abu-dhabi-work) (11 Dec)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > tatterdemalion - adjective: Ragged, tattered. noun: A person in ragged clothes.
+ > bibliophagist - noun: One who loves to read books; a bookworm.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 208, using [7, 8, 10, 25, 50, 100]
-- Solution: 100 x 50 / 25 + 8
-- Total: 26 solutions.
+- Target: 906, using [1, 1, 5, 5, 10, 100]
+- Solution: ( 10 x 5 + 100 + 1 ) x ( 5 + 1 )
+- Total: 2 solutions.
 
 <!-- game_marker ends -->
