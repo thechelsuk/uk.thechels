@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 13 December 2022
+### Daily Rundown on Wednesday, 14 December 2022
 
-- The average temperature today is 1.36˚C;
-- With highs of 1.45˚C and lows of -1.81˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 1.46˚C;
+- With highs of 1.9˚C and lows of -3.02˚C.
+- You can expect scattered clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -20,16 +20,14 @@ seo: Good Morning Mat, Here is your daily briefing
 3x AMRAP for 45 seconds, 15 second rest:
 
 - Dead bugs
-- Bench dips
 - Walking jacks
+- Shadow boxing
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -45,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 82.93
-- V3AB.L : 3.69425
-- SPXP.L : 61719.0
-- IMID.L : 172.58
+- VWRL.L : 84.105
+- V3AB.L : 3.74575
+- SPXP.L : 62530.0
+- IMID.L : 176.81
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 232.56
+- 0P00013P6I.L : 234.84
 
 <!-- stocks_marker ends -->
 
@@ -59,33 +57,34 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(19:00) Tottenham Hotspur Women - Everton Women</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [World Cup: Kovacic’s dream ends at semi-final stage](https://chelseafc.com/en/news/article/world-cup-croatia-v-argentina-kovacic) (13 Dec)
+- [EFL Trophy report: Cheltenham Town 4 Chelsea 0](https://chelseafc.com/en/news/article/efl-trophy-report-cheltenham-town-4-chelsea-0) (13 Dec)
+- [Watch Champions League football at the Bridge this Christmas](https://chelseafc.com/en/news/article/watch-champions-league-football-at-the-bridge-this-christmas) (13 Dec)
+- [Kovacic: The whole country is watching](https://chelseafc.com/en/news/article/kovacic-the-whole-country-is-watching) (13 Dec)
 - [Pat Nevin: Hoping for Hakim lift off at Chelsea](https://chelseafc.com/en/news/article/pat-nevin-hoping-for-hakim-lift-off-at-chelsea) (13 Dec)
-- [EFL Trophy preview: Development squad gear up for Cheltenham test](https://chelseafc.com/en/news/article/efl-trophy-preview-development-squad-gear-up-for-cheltenham-test) (13 Dec)
-- [The Chelsea Advent Calendar Quiz - Day 13](https://chelseafc.com/en/news/article/the-chelsea-advent-calendar-quiz-day-13) (13 Dec)
-- [Hutchinson and young Blues impress in Abu Dhabi](https://chelseafc.com/en/video/hutchinson-and-young-blues-impress-in-abu-dhabi) (12 Dec)
-- [Chelsea Women discover FA Cup fourth round opponents](https://chelseafc.com/en/news/article/chelsea-women-discover-fa-cup-fourth-round-opponents) (12 Dec)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > prosateur - noun: A writer of prose.
+ > bibliopole - noun: A bookseller, especially of rare works.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 556, using [3, 5, 5, 7, 8, 25]
-- Solution: ( 5 x 3 + 5 ) x 25 + 8 x 7
-- Total: 4 solutions.
+- Target: 264, using [1, 2, 5, 6, 50, 100]
+- Solution: ( 6 / 2 + 100 - 50 ) x 5 - 1
+- Total: 27 solutions.
 
 <!-- game_marker ends -->
