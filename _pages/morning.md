@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 14 December 2022
+### Daily Rundown on Thursday, 15 December 2022
 
-- The average temperature today is 1.46˚C;
-- With highs of 1.9˚C and lows of -3.02˚C.
-- You can expect scattered clouds for the day.
+- The average temperature today is 0.68˚C;
+- With highs of 1.22˚C and lows of -5.76˚C.
+- You can expect clear sky for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Dead bugs
-- Walking jacks
-- Shadow boxing
+- Bench dips
+- Bodyweight squats
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 84.105
-- V3AB.L : 3.74575
-- SPXP.L : 62530.0
-- IMID.L : 176.81
+- VWRL.L : 83.94
+- V3AB.L : 3.7345
+- SPXP.L : 62411.5
+- IMID.L : 176.745
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 234.84
+- 0P00013P6I.L : nan
 
 <!-- stocks_marker ends -->
 
@@ -57,34 +57,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:00) Tottenham Hotspur Women - Everton Women</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [World Cup: Kovacic’s dream ends at semi-final stage](https://chelseafc.com/en/news/article/world-cup-croatia-v-argentina-kovacic) (13 Dec)
-- [EFL Trophy report: Cheltenham Town 4 Chelsea 0](https://chelseafc.com/en/news/article/efl-trophy-report-cheltenham-town-4-chelsea-0) (13 Dec)
-- [Watch Champions League football at the Bridge this Christmas](https://chelseafc.com/en/news/article/watch-champions-league-football-at-the-bridge-this-christmas) (13 Dec)
-- [Kovacic: The whole country is watching](https://chelseafc.com/en/news/article/kovacic-the-whole-country-is-watching) (13 Dec)
-- [Pat Nevin: Hoping for Hakim lift off at Chelsea](https://chelseafc.com/en/news/article/pat-nevin-hoping-for-hakim-lift-off-at-chelsea) (13 Dec)
+- [World Cup: Ziyech and Morocco’s fairytale run over](https://chelseafc.com/en/news/article/world-cup-ziyech-and-moroccos-fairytale-run-over) (14 Dec)
+- [Chelsea return to Cobham!](https://chelseafc.com/en/news/article/chelsea-return-to-cobham) (14 Dec)
+- [Cucurella: Making the most of time together](https://chelseafc.com/en/news/article/cucurella-making-the-most-of-time-together-abu-dhabi) (14 Dec)
+- [Armando Broja injury update](https://chelseafc.com/en/news/article/armando-broja-injury-update) (14 Dec)
+- [Kalidou Koulibaly's World Cup favourites](https://chelseafc.com/en/news/article/kalidou-koulibalys-world-cup-favourites) (14 Dec)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > bibliopole - noun: A bookseller, especially of rare works.
+ > peritext - noun: The material surrounding the main text of a book, such as covers, preface, bibliography, colophon, etc.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 264, using [1, 2, 5, 6, 50, 100]
-- Solution: ( 6 / 2 + 100 - 50 ) x 5 - 1
-- Total: 27 solutions.
+- Target: 813, using [3, 6, 25, 50, 75, 100]
+- Solution: ( 100 - 50 / 25 ) x 6 + 75 x 3
+- Total: 2 solutions.
 
 <!-- game_marker ends -->
