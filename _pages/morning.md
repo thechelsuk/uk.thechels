@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 16 December 2022
+### Daily Rundown on Saturday, 17 December 2022
 
-- The average temperature today is 0.47˚C;
-- With highs of 0.81˚C and lows of -6.1˚C.
-- You can expect few clouds for the day.
+- The average temperature today is 2.83˚C;
+- With highs of 3.2˚C and lows of -2.83˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
-- Bodyweight squats
-- Bench dips
+- Plank
+- Dead bugs
+- Walking jacks
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 82.05
-- V3AB.L : 3.662
-- SPXP.L : 61066.0
-- IMID.L : 170.645
+- VWRL.L : 81.56
+- V3AB.L : 3.64
+- SPXP.L : 60539.5
+- IMID.L : 168.66
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : nan
+- 0P00013P6I.L : 231.53
 
 <!-- stocks_marker ends -->
 
@@ -64,11 +64,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Hayes: It’s within our control](https://chelseafc.com/en/news/article/hayes-its-within-our-control) (15 Dec)
-- [Squad of 22 aboard the plane to Albania](https://chelseafc.com/en/news/article/squad-of-22-aboard-the-plane-to-albania) (15 Dec)
-- [Wesley Fofana: Exclusive interview](https://chelseafc.com/en/video/fofana-wt-16x9) (15 Dec)
-- [Lewis Hall on catching up with friends in Abu Dhabi and his positional preferences](https://chelseafc.com/en/news/article/lewis-hall-on-catching-up-with-friends-in-abu-dhabi-and-his-positional) (15 Dec)
-- [Vllaznia Women vs Chelsea Women preview: Kick-off time, how to watch live and more!](https://chelseafc.com/en/news/article/vllaznia-women-vs-chelsea-women-preview-kick-off-time-how-to-watch-live-and) (15 Dec)
+- [Highlights: Vllaznia Femra 0-4 Chelsea Women](https://chelseafc.com/en/video/vllaznia-femra-vs-chelsea-women-2-min-highlights-webapp) (17 Dec)
+- [🎬 Ingle's post-match view](https://chelseafc.com/en/video/ingle-post-match-16x9-webapp) (16 Dec)
+- [🎤 Hayes' post-match view!](https://chelseafc.com/en/video/emma-hayes-post-match-16x9-webapp) (16 Dec)
+- [Women's report: Vllaznia 0 Chelsea 4](https://chelseafc.com/en/news/article/womens-report-vllaznia-0-chelsea-4) (16 Dec)
+- [Watch Chelsea Women's game vs Vllaznia video](https://chelseafc.com/en/news/article/watch-chelsea-womens-game-vs-vllaznia-live) (16 Dec)
 
 <!-- cfc_marker ends -->
 
@@ -82,6 +82,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 967, using [5, 6, 9, 10, 25, 50]
+- Target: 654, using [2, 3, 9, 10, 50, 100]
+- Solution: ( 100 - 10 ) x 9 - ( 50 + 2 ) x 3
+- Total: 9 solutions.
 
 <!-- game_marker ends -->
