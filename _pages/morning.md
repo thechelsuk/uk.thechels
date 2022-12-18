@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 17 December 2022
+### Daily Rundown on Sunday, 18 December 2022
 
-- The average temperature today is 2.83˚C;
-- With highs of 3.2˚C and lows of -2.83˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 2.36˚C;
+- With highs of 9.61˚C and lows of -3.03˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,8 +19,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Plank
-- Dead bugs
+- Shadow boxing
+- Kettlebell rows
 - Walking jacks
 
 <!-- workout_marker ends -->
@@ -57,18 +57,23 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(12:00) AFC Wimbledon Women - Gillingham Women</li>
+<li>(13:00) Leeds Ladies - Stoke City Women</li>
+<li>(13:00) Liverpool Feds WFC - West Bromwich Albion WFC</li>
+<li>(13:00) Solihull Moors Women - AFC Fylde Women</li>
+<li>(14:00) Burnley Women - Norwich City Women</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Highlights: Vllaznia Femra 0-4 Chelsea Women](https://chelseafc.com/en/video/vllaznia-femra-vs-chelsea-women-2-min-highlights-webapp) (17 Dec)
-- [🎬 Ingle's post-match view](https://chelseafc.com/en/video/ingle-post-match-16x9-webapp) (16 Dec)
-- [🎤 Hayes' post-match view!](https://chelseafc.com/en/video/emma-hayes-post-match-16x9-webapp) (16 Dec)
-- [Women's report: Vllaznia 0 Chelsea 4](https://chelseafc.com/en/news/article/womens-report-vllaznia-0-chelsea-4) (16 Dec)
-- [Watch Chelsea Women's game vs Vllaznia video](https://chelseafc.com/en/news/article/watch-chelsea-womens-game-vs-vllaznia-live) (16 Dec)
+- [Ingle: We’re really pleased](https://chelseafc.com/en/news/article/ingle-were-really-pleased) (18 Dec)
+- [The Chelsea Advent Calendar Quiz - Day 18](https://chelseafc.com/en/news/article/the-chelsea-advent-calendar-quiz-day-18) (18 Dec)
+- [Kovacic and Ziyech end their 2022 World Cup journey](https://chelseafc.com/en/news/article/kovacic-and-ziyech-end-their-2022-world-cup-journey) (17 Dec)
+- [Hayes on team growth, individual praise and finishing touches](https://chelseafc.com/en/news/article/hayes-on-team-growth-individual-praise-and-finishing-touches) (17 Dec)
+- [Pat Nevin: Painful game for Kovacic and Ziyech while Messi continues to break hearts](https://chelseafc.com/en/news/article/pat-nevin-world-cup-kovacic-and-ziyech-and-messi) (17 Dec)
 
 <!-- cfc_marker ends -->
 
@@ -82,8 +87,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 654, using [2, 3, 9, 10, 50, 100]
-- Solution: ( 100 - 10 ) x 9 - ( 50 + 2 ) x 3
-- Total: 9 solutions.
+- Target: 881, using [4, 4, 5, 7, 10, 50]
+- Solution: ( 50 x 10 x 7 + 4 ) / 4 + 5
+- Total: 2 solutions.
 
 <!-- game_marker ends -->
