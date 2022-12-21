@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 20 December 2022
+### Daily Rundown on Wednesday, 21 December 2022
 
-- The average temperature today is 8.93˚C;
-- With highs of 12.34˚C and lows of 5.23˚C.
+- The average temperature today is 8.67˚C;
+- With highs of 8.85˚C and lows of 5.36˚C.
 - You can expect heavy intensity rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,17 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
-- Kettlebell swings
 - Walking jacks
+- Plank
+- Calf raises
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -45,9 +43,9 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 81.33
-- V3AB.L : 3.6265
-- SPXP.L : 60292.5
+- VWRL.L : 81.38
+- V3AB.L : 3.619
+- SPXP.L : 60124.0
 - IMID.L : 168.675
 - 0P0001K1DP.L : nan
 - 0P00013P6I.L : nan
@@ -59,10 +57,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:45) Milton Keynes Dons - Leicester City</li>
-<li>(19:45) Newcastle United - Bournemouth</li>
-<li>(19:45) Southampton - Lincoln City</li>
-<li>(19:45) Wolverhampton Wanderers - Gillingham</li>
+<li>(19:45) Blackburn Rovers - Nottingham Forest</li>
+<li>(19:45) Charlton Athletic - Brighton & Hove Albion</li>
+<li>(20:00) Manchester United - Burnley</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -70,26 +67,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [The Chelsea Advent Calendar Quiz - Day 20](https://chelseafc.com/en/news/article/the-chelsea-advent-calendar-quiz-day-20) (20 Dec)
-- [Fran Kirby: What I eat in a day](https://chelseafc.com/en/video/fran-kirby-what-i-eat-in-a-day-or-singer-capital-markets) (19 Dec)
-- [Pat Nevin: Painful wait is almost over](https://chelseafc.com/en/news/article/pat-nevin-painful-wait-is-almost-over) (19 Dec)
-- [Where were we? Chelsea’s season so far – the appearances](https://chelseafc.com/en/news/article/where-were-we-chelseas-season-so-far-the-appearances) (19 Dec)
-- [Chelsea Here Chelsea There: Crucial win for Cumming but Anjorin receives serious injury blow](https://chelseafc.com/en/news/article/chelsea-here-chelsea-there-crucial-win-for-cumming-but-anjorin-receives) (19 Dec)
+- [Chelsea Women vs Paris Saint-Germain Women preview: Kick-off time, how to watch live and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-paris-saint-germain-women-preview-kick-off-time-how-to) (21 Dec)
+- [The Chelsea Advent Calendar Quiz - Day 21](https://chelseafc.com/en/news/article/the-chelsea-advent-calendar-quiz-day-21) (21 Dec)
+- [London derby awaits Chelsea Women in Continental Cup](https://chelseafc.com/en/news/article/london-derby-awaits-chelsea-women-in-continental-cup) (20 Dec)
+- [A special moment for Lewis! 🤩](https://chelseafc.com/en/video/a-special-moment-for-lewis) (20 Dec)
+- [Celebrate Christmas with special offers at Stamford Bridge](https://chelseafc.com/en/news/article/celebrate-christmas-with-special-offers-at-stamford-bridge) (20 Dec)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > qualm - noun: 1. An uneasy feeling about the rightness of a course of action. 2. A sudden feeling of sickness, faintness, or nausea.
+ > pastillage - noun: A sugar paste that's molded into shapes and figures for decorating cakes, etc.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 950, using [4, 6, 7, 7, 25, 100]
-- Solution: ( 25 + 7 + 6 ) x 100 / 4
-- Total: 12 solutions.
+- Target: 542, using [3, 3, 3, 4, 8, 25]
+- Solution: ( ( 4 + 3 ) x 25 + 3 ) x 3 + 8
+- Total: 2 solutions.
 
 <!-- game_marker ends -->
