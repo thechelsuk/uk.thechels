@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 21 December 2022
+### Daily Rundown on Thursday, 22 December 2022
 
-- The average temperature today is 8.67˚C;
-- With highs of 8.85˚C and lows of 5.36˚C.
-- You can expect heavy intensity rain for the day.
+- The average temperature today is 9.9˚C;
+- With highs of 10.04˚C and lows of 5.27˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
-- Plank
-- Calf raises
+- Dead bugs
+- Kettlebell rows
+- Kettlebell swings
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 81.38
-- V3AB.L : 3.619
-- SPXP.L : 60124.0
-- IMID.L : 168.675
+- VWRL.L : 82.88
+- V3AB.L : 3.69
+- SPXP.L : 61495.5
+- IMID.L : 170.72501
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : nan
+- 0P00013P6I.L : 230.67
 
 <!-- stocks_marker ends -->
 
@@ -57,9 +57,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:45) Blackburn Rovers - Nottingham Forest</li>
-<li>(19:45) Charlton Athletic - Brighton & Hove Albion</li>
-<li>(20:00) Manchester United - Burnley</li>
+<li>(20:00) Manchester City - Liverpool</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -67,26 +65,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Chelsea Women vs Paris Saint-Germain Women preview: Kick-off time, how to watch live and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-paris-saint-germain-women-preview-kick-off-time-how-to) (21 Dec)
-- [The Chelsea Advent Calendar Quiz - Day 21](https://chelseafc.com/en/news/article/the-chelsea-advent-calendar-quiz-day-21) (21 Dec)
-- [London derby awaits Chelsea Women in Continental Cup](https://chelseafc.com/en/news/article/london-derby-awaits-chelsea-women-in-continental-cup) (20 Dec)
-- [A special moment for Lewis! 🤩](https://chelseafc.com/en/video/a-special-moment-for-lewis) (20 Dec)
-- [Celebrate Christmas with special offers at Stamford Bridge](https://chelseafc.com/en/news/article/celebrate-christmas-with-special-offers-at-stamford-bridge) (20 Dec)
+- [Festive fun with the Chels fam💙](https://chelseafc.com/en/video/festive-fun-with-the-chelsea-fam) (22 Dec)
+- [Bright: We’re thriving on these opportunities](https://chelseafc.com/en/news/article/bright-were-thriving-on-these-opportunities) (22 Dec)
+- [Getting ready for PSG under the lights 👊🏻](https://chelseafc.com/en/video/getting-ready-for-psg-under-the-lights) (21 Dec)
+- [Hayes on playing to win, injury latest and halfway stage reflections](https://chelseafc.com/en/news/article/hayes-on-playing-to-win-injury-latest-and-halfway-stage-reflections) (21 Dec)
+- [Eriksson going all out to end the year with a win](https://chelseafc.com/en/news/article/eriksson-going-all-out-to-end-the-year-with-a-win) (21 Dec)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > pastillage - noun: A sugar paste that's molded into shapes and figures for decorating cakes, etc.
+ > psalm - noun: A sacred poem or song. verb intr.: To sing a poem or song.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 542, using [3, 3, 3, 4, 8, 25]
-- Solution: ( ( 4 + 3 ) x 25 + 3 ) x 3 + 8
-- Total: 2 solutions.
+- Target: 152, using [2, 3, 5, 7, 7, 50]
+- Solution: ( 7 - ( 7 + 5 ) / 3 ) x 50 + 2
+- Total: 53 solutions.
 
 <!-- game_marker ends -->
