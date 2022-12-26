@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 25 December 2022
+### Daily Rundown on Monday, 26 December 2022
 
-- The average temperature today is 9.29˚C;
-- With highs of 9.46˚C and lows of 7.93˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 5.75˚C;
+- With highs of 8.67˚C and lows of 2.73˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Calf raises
+- Bench dips
 - Plank
-- Kettlebell rows
-- Dead bugs
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -57,33 +58,40 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(12:30) Brentford - Tottenham Hotspur</li>
+<li>(15:00) Crystal Palace - Fulham</li>
+<li>(15:00) Everton - Wolverhampton Wanderers</li>
+<li>(15:00) Leicester City - Newcastle United</li>
+<li>(15:00) Southampton - Brighton & Hove Albion</li>
+<li>(17:30) Aston Villa - Liverpool</li>
+<li>(20:00) Arsenal - West Ham United</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Owners’ ‘fantastic support’ leaves Potter full of confidence](https://chelseafc.com/en/news/article/owners-fantastic-support-leaves-potter-full-of-confidence) (26 Dec)
+- [Chelsea vs Bournemouth: Head-to-head record, stats, form, fixtures](https://chelseafc.com/en/news/article/chelsea-vs-bournemouth-stats-form-record-) (26 Dec)
 - [10 Questions with… Jorginho – Christmas Day Special](https://chelseafc.com/en/news/article/10-questions-with-jorginho-christmas-day-special) (25 Dec)
 - [Season's Greetings!](https://chelseafc.com/en/news/article/seasons-greetings) (25 Dec)
 - [The Chelsea Advent Calendar Quiz - Day 25](https://chelseafc.com/en/news/article/the-chelsea-advent-calendar-quiz-day-25) (25 Dec)
-- [Potter on the World Cup’s long-term unknowns and what tactical trends stood out](https://chelseafc.com/en/news/article/potter-on-world-cups-long-term-unknowns-and-what-tactical-trends-stood-out) (24 Dec)
-- [Mind the gaps – recalling when Chelsea’s seasons have taken a breather](https://chelseafc.com/en/news/article/mind-the-gaps-recalling-when-chelseas-seasons-have-taken-a-breather) (24 Dec)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > pointillage - noun: A style of painting in which small dots are applied to the canvas. Also known as pointillism.
+ > eunoia - noun: 1. A feeling of goodwill. 2. A state of good mental health.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 290, using [2, 7, 25, 50, 75, 100]
-- Solution: 100 x 75 / 25 - 50 / ( 7 - 2 )
-- Total: 7 solutions.
+- Target: 552, using [2, 4, 5, 9, 9, 10]
+- Solution: ( ( 10 + 9 ) x ( 9 - 2 ) + 5 ) x 4
+- Total: 8 solutions.
 
 <!-- game_marker ends -->
