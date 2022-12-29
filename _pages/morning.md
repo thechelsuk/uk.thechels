@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 28 December 2022
+### Daily Rundown on Thursday, 29 December 2022
 
-- The average temperature today is 10.2˚C;
-- With highs of 11.26˚C and lows of 7.83˚C.
-- You can expect moderate rain for the day.
+- The average temperature today is 7.14˚C;
+- With highs of 8.13˚C and lows of 4.22˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,8 +19,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Plank
-- Dead bugs
+- Bodyweight squats
+- Walking jacks
 - Kettlebell swings
 
 <!-- workout_marker ends -->
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 82.27
-- V3AB.L : 3.65675
-- SPXP.L : 60835.5
-- IMID.L : 169.02
-- 0P0001K1DP.L : 11982.75
-- 0P00013P6I.L : 231.3
+- VWRL.L : 82.23
+- V3AB.L : 3.63975
+- SPXP.L : 60610.5
+- IMID.L : 168.14
+- 0P0001K1DP.L : nan
+- 0P00013P6I.L : 231.96001
 
 <!-- stocks_marker ends -->
 
@@ -57,34 +57,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Leeds United - Manchester City</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Havertz: Let's build on this!](https://chelseafc.com/en/news/article/havertz-lets-build-on-this) (28 Dec)
-- [Chelsea vs Bournemouth (2-0) - Extended Highlights - Premier League](https://chelseafc.com/en/video/chelsea-vs-bournemouth-2-0-extended-highlights-premier-league) (28 Dec)
-- [Chelsea vs Bournemouth (2-0) - Full Match - Premier League](https://chelseafc.com/en/video/chelsea-vs-bournemouth-2-0-full-match-premier-league) (28 Dec)
-- [Highlights: Chelsea 2-0 Bournemouth](https://chelseafc.com/en/video/chelsea-vs-bournemouth-2-0-highlights-premier-league) (27 Dec)
-- [Kai's post-match reaction](https://chelseafc.com/en/video/havertz-post-match-reaction) (27 Dec)
+- [David Datro Fofana agreement](https://chelseafc.com/en/news/article/david-datro-fofana-agreement) (28 Dec)
+- [Mason and Marcus visit hospital bearing Chelsea gifts](https://chelseafc.com/en/news/article/mason-and-marcus-visit-hospital-bearing-chelsea-gifts) (28 Dec)
+- [Reece James update](https://chelseafc.com/en/news/article/reece-james-update) (28 Dec)
+- [Kovacic and Ziyech return to Cobham!](https://chelseafc.com/en/news/article/kovacic-and-ziyech-return-to-cobham) (28 Dec)
+- [Unseen Extra from a big win!](https://chelseafc.com/en/video/three-points-under-the-lights-at-the-bridge-or-unseen-extra) (28 Dec)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > limnophilous - adjective: Fond of or living in inland bodies of water such as lakes, pools, etc.
+ > pharmacopoeia - noun: 1. A book listing approved drugs and related information. 2. A stock of drugs.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 644, using [2, 3, 9, 50, 75, 100]
-- Solution: 100 x 9 - ( 75 + 50 + 3 ) x 2
-- Total: 6 solutions.
+- Target: 212, using [1, 1, 6, 7, 25, 50]
+- Solution: 50 x 7 - ( 25 - 1 - 1 ) x 6
+- Total: 5 solutions.
 
 <!-- game_marker ends -->
