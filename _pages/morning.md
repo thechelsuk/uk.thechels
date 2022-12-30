@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 29 December 2022
+### Daily Rundown on Friday, 30 December 2022
 
-- The average temperature today is 7.14˚C;
-- With highs of 8.13˚C and lows of 4.22˚C.
-- You can expect light rain for the day.
+- The average temperature today is 11.73˚C;
+- With highs of 11.94˚C and lows of 5.57˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
-- Walking jacks
-- Kettlebell swings
+- Bench dips
+- Plank
+- Dead bugs
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 82.23
-- V3AB.L : 3.63975
-- SPXP.L : 60610.5
+- VWRL.L : 82.8
+- V3AB.L : 3.67125
+- SPXP.L : 61043.0
 - IMID.L : 168.14
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 231.96001
+- 0P00013P6I.L : 230.5
 
 <!-- stocks_marker ends -->
 
@@ -57,33 +57,35 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(19:45) West Ham United - Brentford</li>
+<li>(20:00) Liverpool - Leicester City</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [David Datro Fofana agreement](https://chelseafc.com/en/news/article/david-datro-fofana-agreement) (28 Dec)
-- [Mason and Marcus visit hospital bearing Chelsea gifts](https://chelseafc.com/en/news/article/mason-and-marcus-visit-hospital-bearing-chelsea-gifts) (28 Dec)
-- [Reece James update](https://chelseafc.com/en/news/article/reece-james-update) (28 Dec)
-- [Kovacic and Ziyech return to Cobham!](https://chelseafc.com/en/news/article/kovacic-and-ziyech-return-to-cobham) (28 Dec)
-- [Unseen Extra from a big win!](https://chelseafc.com/en/video/three-points-under-the-lights-at-the-bridge-or-unseen-extra) (28 Dec)
+- [Chelsea’s five key stats from 2022](https://chelseafc.com/en/news/article/chelseas-five-key-stats-from-2022) (30 Dec)
+- [Nottingham Forest vs Chelsea: Where to watch, TV channel, kick off time](https://chelseafc.com/en/news/article/nottingham-forest-vs-chelsea-where-to-watch-tv-channel-kick-off-time) (30 Dec)
+- [Goal Getters invited to Women's win](https://chelseafc.com/en/news/article/goal-getters-invited-to-womens-win) (30 Dec)
+- [Zakaria: Important win but work still to do](https://chelseafc.com/en/news/article/zakaria-important-win-but-work-still-to-do) (29 Dec)
+- [On the road with Azpi! 🚌](https://chelseafc.com/en/video/on-the-road-with-cesar-azpilicueta-or-on-the-road-episode-2-or-presented-by) (29 Dec)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > pharmacopoeia - noun: 1. A book listing approved drugs and related information. 2. A stock of drugs.
+ > oxygeusia - noun: An acute sense of taste.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 212, using [1, 1, 6, 7, 25, 50]
-- Solution: 50 x 7 - ( 25 - 1 - 1 ) x 6
-- Total: 5 solutions.
+- Target: 625, using [2, 7, 10, 50, 75, 100]
+- Solution: ( 100 + 75 - 50 ) x ( 10 + 2 - 7 )
+- Total: 75 solutions.
 
 <!-- game_marker ends -->
