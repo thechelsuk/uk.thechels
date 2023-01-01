@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 31 December 2022
+### Daily Rundown on Sunday, 01 January 2023
 
-- The average temperature today is 11.15˚C;
-- With highs of 12.04˚C and lows of 8.88˚C.
-- You can expect moderate rain for the day.
+- The average temperature today is 9.46˚C;
+- With highs of 9.56˚C and lows of 6.17˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -21,7 +21,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 - Bench dips
 - Kettlebell swings
-- Kettlebell rows
+- Shadow boxing
 
 <!-- workout_marker ends -->
 
@@ -57,12 +57,8 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Wolverhampton Wanderers - Manchester United</li>
-<li>(15:00) Bournemouth - Crystal Palace</li>
-<li>(15:00) Fulham - Southampton</li>
-<li>(15:00) Manchester City - Everton</li>
-<li>(15:00) Newcastle United - Leeds United</li>
-<li>(17:30) Brighton & Hove Albion - Arsenal</li>
+<li>(14:00) Tottenham Hotspur - Aston Villa</li>
+<li>(16:30) Nottingham Forest - Chelsea</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -70,11 +66,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Nottingham Forest vs Chelsea: Preview](https://chelseafc.com/en/news/article/nottingham-forest-vs-chelsea-preview) (31 Dec)
-- [Potter’s hopes for 2023 and prediction for Forest](https://chelseafc.com/en/news/article/potters-hopes-for-2023-and-prediction-for-forest) (31 Dec)
-- [Ingle awarded OBE in the King’s New Year’s Honours](https://chelseafc.com/en/news/article/ingle-awarded-obe-in-the-kings-new-years-honours) (30 Dec)
-- [Nottingham Forest vs Chelsea: Head-to-head record, stats, form, fixtures](https://chelseafc.com/en/news/article/nottingham-forest-vs-chelsea-head-to-head-record-stats-form-fixtures) (30 Dec)
-- [Nottingham Forest vs Chelsea press conference: Potter names players returning](https://chelseafc.com/en/news/article/nottingham-forest-vs-chelsea-press-conference-potter-kovacic-ziyech) (30 Dec)
+- [Potter: What Havertz gives you](https://chelseafc.com/en/news/article/potter-what-havertz-gives-you) (01 Jan)
+- [Nottingham Forest vs Chelsea: 10 things you may not know](https://chelseafc.com/en/news/article/nottingham-forest-vs-chelsea-10-things-you-may-not-know) (01 Jan)
+- [Old stomping grounds – longest gaps between Premier League visits](https://chelseafc.com/en/news/article/old-stomping-grounds-longest-gaps-between-premier-league-visits) (01 Jan)
+- [Happy New Year!](https://chelseafc.com/en/news/article/happy-new-year) (01 Jan)
+- [Cesar Azpilicueta on the brink of yet more Chelsea history](https://chelseafc.com/en/news/article/cesar-azpilicueta-on-the-brink-of-yet-more-chelsea-history) (31 Dec)
 
 <!-- cfc_marker ends -->
 
@@ -88,8 +84,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 286, using [1, 6, 10, 25, 50, 100]
-- Solution: ( 100 + 50 ) x ( 25 - 6 ) / 10 + 1
-- Total: 17 solutions.
+- Target: 239, using [1, 3, 3, 7, 9, 75]
+- Solution: ( 75 + 9 + 3 - 7 ) x 3 - 1
+- Total: 12 solutions.
 
 <!-- game_marker ends -->
