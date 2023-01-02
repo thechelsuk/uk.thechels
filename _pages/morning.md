@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 01 January 2023
+### Daily Rundown on Monday, 02 January 2023
 
-- The average temperature today is 9.46˚C;
-- With highs of 9.56˚C and lows of 6.17˚C.
-- You can expect light rain for the day.
+- The average temperature today is 6.45˚C;
+- With highs of 6.76˚C and lows of 1.86˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,8 +19,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
-- Kettlebell swings
+- Walking jacks
+- Plank
 - Shadow boxing
 
 <!-- workout_marker ends -->
@@ -57,8 +57,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(14:00) Tottenham Hotspur - Aston Villa</li>
-<li>(16:30) Nottingham Forest - Chelsea</li>
+<li>(17:30) Brentford - Liverpool</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -66,26 +65,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Potter: What Havertz gives you](https://chelseafc.com/en/news/article/potter-what-havertz-gives-you) (01 Jan)
-- [Nottingham Forest vs Chelsea: 10 things you may not know](https://chelseafc.com/en/news/article/nottingham-forest-vs-chelsea-10-things-you-may-not-know) (01 Jan)
-- [Old stomping grounds – longest gaps between Premier League visits](https://chelseafc.com/en/news/article/old-stomping-grounds-longest-gaps-between-premier-league-visits) (01 Jan)
-- [Happy New Year!](https://chelseafc.com/en/news/article/happy-new-year) (01 Jan)
-- [Cesar Azpilicueta on the brink of yet more Chelsea history](https://chelseafc.com/en/news/article/cesar-azpilicueta-on-the-brink-of-yet-more-chelsea-history) (31 Dec)
+- [Azpilicueta calls for an end to missed opportunities](https://chelseafc.com/en/news/article/azpilicueta-calls-for-an-end-to-missed-opportunities) (02 Jan)
+- [Full Match: Nottingham Forest 1-1 Chelsea](https://chelseafc.com/en/video/full-match-nottingham-forest-1-1-chelsea) (02 Jan)
+- [Extended Highlights: Nottingham Forest 1-1 Chelsea](https://chelseafc.com/en/video/nottingham-forest-v-chelsea-1-1-extended-highlights-premier-league) (02 Jan)
+- [Nottingham Forest v Chelsea (1-1) - Highlights - Premier League](https://chelseafc.com/en/video/nottingham-forest-v-chelsea-1-1-2min-highlights-premier-league) (01 Jan)
+- [Potter on how control was lost, our away form and coping with January noise](https://chelseafc.com/en/news/article/potter-on-how-control-was-lost-our-away-form-and-coping-with-january-noise) (01 Jan)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > oxygeusia - noun: An acute sense of taste.
+ > hark - verb intr.: 1. To listen attentively. 2. Hark back: to allude to or return to a previous topic, time, event, etc.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 239, using [1, 3, 3, 7, 9, 75]
-- Solution: ( 75 + 9 + 3 - 7 ) x 3 - 1
-- Total: 12 solutions.
+- Target: 445, using [3, 4, 9, 10, 75, 100]
+- Solution: ( 9 / 3 + 100 + 75 ) x 10 / 4
+- Total: 21 solutions.
 
 <!-- game_marker ends -->
