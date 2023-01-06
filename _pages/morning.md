@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 05 January 2023
+### Daily Rundown on Friday, 06 January 2023
 
-- The average temperature today is 11.66˚C;
-- With highs of 11.89˚C and lows of 9.22˚C.
-- You can expect light rain for the day.
+- The average temperature today is 9.04˚C;
+- With highs of 11.55˚C and lows of 7.06˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell swings
-- Plank
-- Bench dips
+- Bodyweight squats
+- Kettlebell rows
+- Dead bugs
 
 <!-- workout_marker ends -->
 
@@ -33,9 +33,9 @@ No tasks today
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
 
-- 93 new cases & 2 deaths on 2022-12-22
-- 0 new cases & 0 deaths on 2022-12-21
-- 0 new cases & 0 deaths on 2022-12-20
+- 117 new cases & 4 deaths on 2023-01-05
+- 0 new cases & 0 deaths on 2023-01-04
+- 0 new cases & 0 deaths on 2023-01-03
 
 <!-- c19_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 83.47
-- V3AB.L : 3.7125
-- SPXP.L : 61309.0
-- IMID.L : 171.33501
+- VWRL.L : 83.55
+- V3AB.L : 3.71225
+- SPXP.L : 61278.0
+- IMID.L : 169.565
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 233.41
+- 0P00013P6I.L : 235.47
 
 <!-- stocks_marker ends -->
 
@@ -57,7 +57,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Chelsea - Manchester City</li>
+<li>(20:00) Manchester United - Everton</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -65,26 +65,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Potter on Guardiola’s respect and more to come from Sterling](https://chelseafc.com/en/news/article/potter-on-guardiolas-respect-and-more-to-come-from-sterling) (05 Jan)
-- [Chelsea vs Man City: Preview](https://chelseafc.com/en/news/article/chelsea-vs-man-city-preview-chelsea-team-news) (05 Jan)
-- [10 from Training: City challenge awaits](https://chelseafc.com/en/news/article/10-from-training-city-challenge-awaits) (04 Jan)
-- [Potter updates on Mendy’s fitness, what’s next for new signing, and using the Bridge against Man City](https://chelseafc.com/en/news/article/potter-updates-on-mendys-fitness-whats-next-for-new-signing-and-using-the) (04 Jan)
-- [Bethany England departs Chelsea Women after seven years of service](https://chelseafc.com/en/news/article/bethany-england-departs-chelsea-women-after-seven-years-of-service) (04 Jan)
+- [Chukwuemeka on grasping his chance](https://chelseafc.com/en/news/article/chukwuemeka-on-grasping-his-chance) (06 Jan)
+- [Chelsea 0-1 Manchester City - Full Match - Premier League](https://chelseafc.com/en/video/chelsea-0-1-manchester-city-or-full-match-or-premier-league) (06 Jan)
+- [Chelsea 0-1 Manchester City - Extended Premier League Highlights](https://chelseafc.com/en/video/chelsea-0-1-manchester-city-or-extended-premier-league-highlights) (06 Jan)
+- [🎞️ Highlights: Chelsea 0-1 Man City](https://chelseafc.com/en/video/chelsea-0-1-manchester-city-or-premier-league-highlights) (05 Jan)
+- [Potter's post-match reaction 🎞️](https://chelseafc.com/en/video/potters-reaction-to-our-defeat-against-manchester-city) (05 Jan)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > spiv - noun: An unscrupulous person or a petty criminal, especially one who is sharply dressed. verb intr.: To make a living unscrupulously.
+ > rive - verb tr.: To tear, split, fracture, etc. verb intr.: To become split or to cracked.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 897, using [2, 2, 3, 3, 5, 100]
-- Solution: ( 2 / 2 + 5 + 3 ) x 100 - 3
-- Total: 19 solutions.
+- Target: 959, using [1, 2, 3, 3, 10, 75]
+- Solution: ( 75 + 1 - 2 ) x ( 10 + 3 ) - 3
+- Total: 3 solutions.
 
 <!-- game_marker ends -->
