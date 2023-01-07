@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 06 January 2023
+### Daily Rundown on Saturday, 07 January 2023
 
-- The average temperature today is 9.04˚C;
-- With highs of 11.55˚C and lows of 7.06˚C.
+- The average temperature today is 11.07˚C;
+- With highs of 11.31˚C and lows of 5.9˚C.
 - You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
-- Kettlebell rows
-- Dead bugs
+- Bench dips
+- Kettlebell swings
+- Shadow boxing
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 83.55
-- V3AB.L : 3.71225
-- SPXP.L : 61278.0
-- IMID.L : 169.565
+- VWRL.L : 83.95
+- V3AB.L : 3.72525
+- SPXP.L : 61522.5
+- IMID.L : 172.71001
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 235.47
+- 0P00013P6I.L : 236.50999
 
 <!-- stocks_marker ends -->
 
@@ -57,7 +57,28 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Manchester United - Everton</li>
+<li>(12:30) Crystal Palace - Southampton</li>
+<li>(12:30) Forest Green Rovers - Birmingham City</li>
+<li>(12:30) Gillingham - Leicester City</li>
+<li>(12:30) Preston North End - Huddersfield Town</li>
+<li>(12:30) Reading - Watford</li>
+<li>(12:30) Tottenham Hotspur - Portsmouth</li>
+<li>(15:00) Blackpool - Nottingham Forest</li>
+<li>(15:00) Boreham Wood - Accrington Stanley</li>
+<li>(15:00) Bournemouth - Burnley</li>
+<li>(15:00) Chesterfield - West Bromwich Albion</li>
+<li>(15:00) Fleetwood Town - Queens Park Rangers</li>
+<li>(15:00) Hull City - Fulham</li>
+<li>(15:00) Ipswich Town - Rotherham United</li>
+<li>(15:00) Middlesbrough - Brighton & Hove Albion</li>
+<li>(15:00) Millwall - Sheffield United</li>
+<li>(15:00) Shrewsbury Town - Sunderland</li>
+<li>(17:30) Brentford - West Ham United</li>
+<li>(17:30) Coventry City - Wrexham</li>
+<li>(17:30) Grimsby Town - Burton Albion</li>
+<li>(17:30) Luton Town - Wigan Athletic</li>
+<li>(18:00) Sheffield Wednesday - Newcastle United</li>
+<li>(20:00) Liverpool - Wolverhampton Wanderers</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -65,11 +86,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Chukwuemeka on grasping his chance](https://chelseafc.com/en/news/article/chukwuemeka-on-grasping-his-chance) (06 Jan)
-- [Chelsea 0-1 Manchester City - Full Match - Premier League](https://chelseafc.com/en/video/chelsea-0-1-manchester-city-or-full-match-or-premier-league) (06 Jan)
-- [Chelsea 0-1 Manchester City - Extended Premier League Highlights](https://chelseafc.com/en/video/chelsea-0-1-manchester-city-or-extended-premier-league-highlights) (06 Jan)
-- [🎞️ Highlights: Chelsea 0-1 Man City](https://chelseafc.com/en/video/chelsea-0-1-manchester-city-or-premier-league-highlights) (05 Jan)
-- [Potter's post-match reaction 🎞️](https://chelseafc.com/en/video/potters-reaction-to-our-defeat-against-manchester-city) (05 Jan)
+- [Man City vs Chelsea: Head-to-head record, stats, form, fixtures](https://chelseafc.com/en/news/article/man-city-vs-chelsea-stats-form-record) (07 Jan)
+- [Youth Cup preview: Starting right in a special competition](https://chelseafc.com/en/news/article/youth-cup-preview-starting-right-in-a-special-competition) (07 Jan)
+- [‘He had a heart of gold, he wanted the best for us’ – Graeme Le Saux pays tribute to Gianluca Vialli](https://chelseafc.com/en/news/article/graeme-le-saux-pays-tribute-to-gianluca-vialli) (06 Jan)
+- [Paying our respects 💙](https://chelseafc.com/en/video/paying-our-respects) (06 Jan)
+- [Chelsea vs Man City Debrief: Zakaria shines as Blues show fight](https://chelseafc.com/en/news/article/chelsea-vs-man-city-debrief-zakaria-shines-as-blues-show-fight) (06 Jan)
 
 <!-- cfc_marker ends -->
 
@@ -83,8 +104,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 959, using [1, 2, 3, 3, 10, 75]
-- Solution: ( 75 + 1 - 2 ) x ( 10 + 3 ) - 3
-- Total: 3 solutions.
+- Target: 872, using [4, 5, 9, 10, 50, 100]
+- Solution: ( 10 / 5 + 100 ) x 9 + 4 - 50
+- Total: 9 solutions.
 
 <!-- game_marker ends -->
