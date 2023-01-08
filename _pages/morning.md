@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 07 January 2023
+### Daily Rundown on Sunday, 08 January 2023
 
-- The average temperature today is 11.07˚C;
-- With highs of 11.31˚C and lows of 5.9˚C.
+- The average temperature today is 6.59˚C;
+- With highs of 7.45˚C and lows of 4.31˚C.
 - You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Plank
 - Bench dips
-- Kettlebell swings
-- Shadow boxing
+- Calf raises
 
 <!-- workout_marker ends -->
 
@@ -57,28 +57,26 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Crystal Palace - Southampton</li>
-<li>(12:30) Forest Green Rovers - Birmingham City</li>
-<li>(12:30) Gillingham - Leicester City</li>
-<li>(12:30) Preston North End - Huddersfield Town</li>
-<li>(12:30) Reading - Watford</li>
-<li>(12:30) Tottenham Hotspur - Portsmouth</li>
-<li>(15:00) Blackpool - Nottingham Forest</li>
-<li>(15:00) Boreham Wood - Accrington Stanley</li>
-<li>(15:00) Bournemouth - Burnley</li>
-<li>(15:00) Chesterfield - West Bromwich Albion</li>
-<li>(15:00) Fleetwood Town - Queens Park Rangers</li>
-<li>(15:00) Hull City - Fulham</li>
-<li>(15:00) Ipswich Town - Rotherham United</li>
-<li>(15:00) Middlesbrough - Brighton & Hove Albion</li>
-<li>(15:00) Millwall - Sheffield United</li>
-<li>(15:00) Shrewsbury Town - Sunderland</li>
-<li>(17:30) Brentford - West Ham United</li>
-<li>(17:30) Coventry City - Wrexham</li>
-<li>(17:30) Grimsby Town - Burton Albion</li>
-<li>(17:30) Luton Town - Wigan Athletic</li>
-<li>(18:00) Sheffield Wednesday - Newcastle United</li>
-<li>(20:00) Liverpool - Wolverhampton Wanderers</li>
+<li>(12:00) Charlton Athletic Women - MK Dons Women</li>
+<li>(12:30) Bristol City - Swansea City</li>
+<li>(12:30) Derby County - Barnsley</li>
+<li>(13:00) AFC Wimbledon Women - Gillingham Women</li>
+<li>(13:00) Birmingham City Women - Huddersfield Town Women</li>
+<li>(13:00) Leeds Ladies - Stoke City Women</li>
+<li>(13:00) London City Lionesses - Portsmouth Women</li>
+<li>(13:00) Peterborough United Women - Durham Women</li>
+<li>(13:00) Sheffield United Women - Nottm Forest Women</li>
+<li>(14:00) Blackburn Ladies - Sunderland Ladies</li>
+<li>(14:00) Cardiff City - Leeds United</li>
+<li>(14:00) Crystal Palace Women - Watford Women</li>
+<li>(14:00) Hartlepool United - Stoke City</li>
+<li>(14:00) Lewes Women - London Bees</li>
+<li>(14:00) Liverpool Feds WFC - West Bromwich Albion WFC</li>
+<li>(14:00) Norwich City - Blackburn Rovers</li>
+<li>(14:00) Stockport County - Walsall</li>
+<li>(16:00) Burnley Women - Norwich City Women</li>
+<li>(16:30) Aston Villa - Stevenage</li>
+<li>(16:30) Manchester City - Chelsea</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -86,11 +84,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Man City vs Chelsea: Head-to-head record, stats, form, fixtures](https://chelseafc.com/en/news/article/man-city-vs-chelsea-stats-form-record) (07 Jan)
-- [Youth Cup preview: Starting right in a special competition](https://chelseafc.com/en/news/article/youth-cup-preview-starting-right-in-a-special-competition) (07 Jan)
-- [‘He had a heart of gold, he wanted the best for us’ – Graeme Le Saux pays tribute to Gianluca Vialli](https://chelseafc.com/en/news/article/graeme-le-saux-pays-tribute-to-gianluca-vialli) (06 Jan)
-- [Paying our respects 💙](https://chelseafc.com/en/video/paying-our-respects) (06 Jan)
-- [Chelsea vs Man City Debrief: Zakaria shines as Blues show fight](https://chelseafc.com/en/news/article/chelsea-vs-man-city-debrief-zakaria-shines-as-blues-show-fight) (06 Jan)
+- [Potter: We want to compete for trophies](https://chelseafc.com/en/news/article/potter-we-want-to-compete-for-trophies) (08 Jan)
+- [10 from Training: Attentions switch to the FA Cup](https://chelseafc.com/en/news/article/10-from-training-attentions-switch-to-the-fa-cup) (07 Jan)
+- [Young Brazilian midfielder Santos joins Chelsea](https://chelseafc.com/en/news/article/young-brazilian-midfielder-santos-joins-chelsea) (07 Jan)
+- [Badiashile squad number confirmed](https://chelseafc.com/en/news/article/badiashile-squad-number-confirmed) (07 Jan)
+- [David Datro Fofana completes move to Chelsea](https://chelseafc.com/en/news/article/david-datro-fofana-completes-move-to-chelsea) (07 Jan)
 
 <!-- cfc_marker ends -->
 
@@ -104,8 +102,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 872, using [4, 5, 9, 10, 50, 100]
-- Solution: ( 10 / 5 + 100 ) x 9 + 4 - 50
-- Total: 9 solutions.
+- Target: 401, using [3, 5, 8, 10, 75, 100]
+- Solution: ( 100 - 75 - 3 ) x ( 10 + 8 ) + 5
+- Total: 15 solutions.
 
 <!-- game_marker ends -->
