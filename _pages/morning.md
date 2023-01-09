@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 08 January 2023
+### Daily Rundown on Monday, 09 January 2023
 
-- The average temperature today is 6.59˚C;
-- With highs of 7.45˚C and lows of 4.31˚C.
-- You can expect moderate rain for the day.
+- The average temperature today is 6.66˚C;
+- With highs of 6.71˚C and lows of 3.6˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Plank
 - Bench dips
 - Calf raises
+- Shadow boxing
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -57,26 +58,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:00) Charlton Athletic Women - MK Dons Women</li>
-<li>(12:30) Bristol City - Swansea City</li>
-<li>(12:30) Derby County - Barnsley</li>
-<li>(13:00) AFC Wimbledon Women - Gillingham Women</li>
-<li>(13:00) Birmingham City Women - Huddersfield Town Women</li>
-<li>(13:00) Leeds Ladies - Stoke City Women</li>
-<li>(13:00) London City Lionesses - Portsmouth Women</li>
-<li>(13:00) Peterborough United Women - Durham Women</li>
-<li>(13:00) Sheffield United Women - Nottm Forest Women</li>
-<li>(14:00) Blackburn Ladies - Sunderland Ladies</li>
-<li>(14:00) Cardiff City - Leeds United</li>
-<li>(14:00) Crystal Palace Women - Watford Women</li>
-<li>(14:00) Hartlepool United - Stoke City</li>
-<li>(14:00) Lewes Women - London Bees</li>
-<li>(14:00) Liverpool Feds WFC - West Bromwich Albion WFC</li>
-<li>(14:00) Norwich City - Blackburn Rovers</li>
-<li>(14:00) Stockport County - Walsall</li>
-<li>(16:00) Burnley Women - Norwich City Women</li>
-<li>(16:30) Aston Villa - Stevenage</li>
-<li>(16:30) Manchester City - Chelsea</li>
+<li>(20:00) Oxford United - Arsenal</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -84,26 +66,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Potter: We want to compete for trophies](https://chelseafc.com/en/news/article/potter-we-want-to-compete-for-trophies) (08 Jan)
-- [10 from Training: Attentions switch to the FA Cup](https://chelseafc.com/en/news/article/10-from-training-attentions-switch-to-the-fa-cup) (07 Jan)
-- [Young Brazilian midfielder Santos joins Chelsea](https://chelseafc.com/en/news/article/young-brazilian-midfielder-santos-joins-chelsea) (07 Jan)
-- [Badiashile squad number confirmed](https://chelseafc.com/en/news/article/badiashile-squad-number-confirmed) (07 Jan)
-- [David Datro Fofana completes move to Chelsea](https://chelseafc.com/en/news/article/david-datro-fofana-completes-move-to-chelsea) (07 Jan)
+- [Chalobah: No complaints, it’s up to us to improve](https://chelseafc.com/en/news/article/chalobah-no-complaints-its-up-to-us-to-improve) (09 Jan)
+- [PL2 preview: Facing the Foxes](https://chelseafc.com/en/news/article/pl2-preview-facing-the-foxes) (09 Jan)
+- [Potter's post-match reaction](https://chelseafc.com/en/video/potter-post-match-reaction-manchestercity-facup) (08 Jan)
+- [Potter analyses tough time at City and gives injury update](https://chelseafc.com/en/news/article/potter-analyses-tough-time-at-city-and-gives-injury-update) (08 Jan)
+- [Match report: Man City 4 Chelsea 0](https://chelseafc.com/en/news/article/match-report-man-city-4-chelsea-0) (08 Jan)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > rive - verb tr.: To tear, split, fracture, etc. verb intr.: To become split or to cracked.
+ > idiolatry - noun: Self worship.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 401, using [3, 5, 8, 10, 75, 100]
-- Solution: ( 100 - 75 - 3 ) x ( 10 + 8 ) + 5
-- Total: 15 solutions.
+- Target: 246, using [2, 3, 4, 50, 75, 100]
+- Solution: ( 100 + 75 - 50 ) x 2 - 4
+- Total: 28 solutions.
 
 <!-- game_marker ends -->
