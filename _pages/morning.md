@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 09 January 2023
+### Daily Rundown on Tuesday, 10 January 2023
 
-- The average temperature today is 6.66˚C;
-- With highs of 6.71˚C and lows of 3.6˚C.
-- You can expect light rain for the day.
+- The average temperature today is 11.39˚C;
+- With highs of 11.81˚C and lows of 3.28˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
 - Calf raises
+- Walking jacks
 - Shadow boxing
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
@@ -44,12 +45,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 83.95
-- V3AB.L : 3.72525
-- SPXP.L : 61522.5
-- IMID.L : 172.71001
+- VWRL.L : 84.56
+- V3AB.L : 3.762
+- SPXP.L : 62046.5
+- IMID.L : 175.88
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 236.50999
+- 0P00013P6I.L : 236.46001
 
 <!-- stocks_marker ends -->
 
@@ -58,7 +59,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Oxford United - Arsenal</li>
+<li>(20:00) Manchester United - Charlton Athletic</li>
+<li>(20:00) Newcastle United - Leicester City</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -66,26 +68,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Chalobah: No complaints, it’s up to us to improve](https://chelseafc.com/en/news/article/chalobah-no-complaints-its-up-to-us-to-improve) (09 Jan)
-- [PL2 preview: Facing the Foxes](https://chelseafc.com/en/news/article/pl2-preview-facing-the-foxes) (09 Jan)
-- [Potter's post-match reaction](https://chelseafc.com/en/video/potter-post-match-reaction-manchestercity-facup) (08 Jan)
-- [Potter analyses tough time at City and gives injury update](https://chelseafc.com/en/news/article/potter-analyses-tough-time-at-city-and-gives-injury-update) (08 Jan)
-- [Match report: Man City 4 Chelsea 0](https://chelseafc.com/en/news/article/match-report-man-city-4-chelsea-0) (08 Jan)
+- [PL2 report: Leicester City 0 Chelsea 2](https://chelseafc.com/en/news/article/pl2-report-leicester-city-0-chelsea-2) (09 Jan)
+- [Go Karting with the Blues 🏎️](https://chelseafc.com/en/video/go-karting-with-the-blues) (09 Jan)
+- [Badiashile excited to work with Thiago](https://chelseafc.com/en/news/article/badiashile-excited-to-work-with-thiago) (09 Jan)
+- [Books of condolence opening](https://chelseafc.com/en/news/article/books-of-condolence-opening) (09 Jan)
+- [Borussia Dortmund away ticket details](https://chelseafc.com/en/news/article/borussia-dortmund-away-ticket-details) (09 Jan)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > idiolatry - noun: Self worship.
+ > cynanthropy - noun: A delusion in which one believes oneself to be a dog.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 246, using [2, 3, 4, 50, 75, 100]
-- Solution: ( 100 + 75 - 50 ) x 2 - 4
-- Total: 28 solutions.
+- Target: 638, using [1, 4, 9, 10, 25, 75]
+- Solution: ( 75 x 25 + 9 ) / ( 4 - 1 ) + 10
+- Total: 4 solutions.
 
 <!-- game_marker ends -->
