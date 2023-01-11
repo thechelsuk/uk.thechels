@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 10 January 2023
+### Daily Rundown on Wednesday, 11 January 2023
 
-- The average temperature today is 11.39˚C;
-- With highs of 11.81˚C and lows of 3.28˚C.
+- The average temperature today is 7.96˚C;
+- With highs of 9.31˚C and lows of 6.3˚C.
 - You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,7 +19,7 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Calf raises
+- Dead bugs
 - Walking jacks
 - Shadow boxing
 
@@ -27,9 +27,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -45,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 84.56
-- V3AB.L : 3.762
-- SPXP.L : 62046.5
-- IMID.L : 175.88
+- VWRL.L : 83.9
+- V3AB.L : 3.7305
+- SPXP.L : 61361.0
+- IMID.L : 174.13499
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 236.46001
+- 0P00013P6I.L : nan
 
 <!-- stocks_marker ends -->
 
@@ -59,8 +57,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Manchester United - Charlton Athletic</li>
-<li>(20:00) Newcastle United - Leicester City</li>
+<li>(19:45) Nottingham Forest - Wolverhampton Wanderers</li>
+<li>(20:00) Southampton - Manchester City</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -68,26 +66,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [PL2 report: Leicester City 0 Chelsea 2](https://chelseafc.com/en/news/article/pl2-report-leicester-city-0-chelsea-2) (09 Jan)
-- [Go Karting with the Blues 🏎️](https://chelseafc.com/en/video/go-karting-with-the-blues) (09 Jan)
-- [Badiashile excited to work with Thiago](https://chelseafc.com/en/news/article/badiashile-excited-to-work-with-thiago) (09 Jan)
-- [Books of condolence opening](https://chelseafc.com/en/news/article/books-of-condolence-opening) (09 Jan)
-- [Borussia Dortmund away ticket details](https://chelseafc.com/en/news/article/borussia-dortmund-away-ticket-details) (09 Jan)
+- [SW6 friends and foes: Five who played for Fulham and Chelsea](https://chelseafc.com/en/news/article/sw6-friends-and-foes-five-who-played-for-fulham-and-chelsea) (11 Jan)
+- [Chelsea trio up for EA SPORTS Team of the Year!](https://chelseafc.com/en/news/article/chelsea-trio-up-for-ea-sports-team-of-the-year) (10 Jan)
+- [10 from Training: Tuning up ahead of Fulham](https://chelseafc.com/en/news/article/10-from-training-tuning-up-ahead-of-fulham) (10 Jan)
+- [Melanie Leupolz commits to Chelsea Women](https://chelseafc.com/en/news/article/melanie-leupolz-commits-to-chelsea-women) (10 Jan)
+- [Pat Nevin: Maybe just the game needed and thank you Luca](https://chelseafc.com/en/news/article/pat-nevin-maybe-just-the-game-needed-and-thank-you-luca) (10 Jan)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > cynanthropy - noun: A delusion in which one believes oneself to be a dog.
+ > bolt-hole - noun: 1. A place of escape, hiding, or seclusion. 2. A hole through which to escape when in danger.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 638, using [1, 4, 9, 10, 25, 75]
-- Solution: ( 75 x 25 + 9 ) / ( 4 - 1 ) + 10
-- Total: 4 solutions.
+- Target: 764, using [6, 7, 7, 8, 25, 75]
+- Solution: 75 x 8 + 25 x 6 + 7 + 7
+- Total: 5 solutions.
 
 <!-- game_marker ends -->
