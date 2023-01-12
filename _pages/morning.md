@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 11 January 2023
+### Daily Rundown on Thursday, 12 January 2023
 
-- The average temperature today is 7.96˚C;
-- With highs of 9.31˚C and lows of 6.3˚C.
+- The average temperature today is 10.81˚C;
+- With highs of 10.98˚C and lows of 6.16˚C.
 - You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Plank
 - Dead bugs
-- Walking jacks
-- Shadow boxing
+- Bodyweight squats
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 83.9
-- V3AB.L : 3.7305
-- SPXP.L : 61361.0
-- IMID.L : 174.13499
+- VWRL.L : 84.96
+- V3AB.L : 3.78
+- SPXP.L : 62278.0
+- IMID.L : 175.675
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : nan
+- 0P00013P6I.L : 238.45
 
 <!-- stocks_marker ends -->
 
@@ -57,8 +57,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:45) Nottingham Forest - Wolverhampton Wanderers</li>
-<li>(20:00) Southampton - Manchester City</li>
+<li>(20:00) Fulham - Chelsea</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -66,26 +65,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [SW6 friends and foes: Five who played for Fulham and Chelsea](https://chelseafc.com/en/news/article/sw6-friends-and-foes-five-who-played-for-fulham-and-chelsea) (11 Jan)
-- [Chelsea trio up for EA SPORTS Team of the Year!](https://chelseafc.com/en/news/article/chelsea-trio-up-for-ea-sports-team-of-the-year) (10 Jan)
-- [10 from Training: Tuning up ahead of Fulham](https://chelseafc.com/en/news/article/10-from-training-tuning-up-ahead-of-fulham) (10 Jan)
-- [Melanie Leupolz commits to Chelsea Women](https://chelseafc.com/en/news/article/melanie-leupolz-commits-to-chelsea-women) (10 Jan)
-- [Pat Nevin: Maybe just the game needed and thank you Luca](https://chelseafc.com/en/news/article/pat-nevin-maybe-just-the-game-needed-and-thank-you-luca) (10 Jan)
+- [Fulham vs Chelsea: Preview](https://chelseafc.com/en/news/article/fulham-vs-chelsea-preview-chelsea-team-news) (12 Jan)
+- [‘Dressing room leaders can move us forward’](https://chelseafc.com/en/news/article/dressing-room-leaders-can-move-us-forward) (12 Jan)
+- [Blues and Rojiblancos – Joao Felix and the other players with Chelsea and Atletico pasts](https://chelseafc.com/en/news/article/blues-and-rojiblancos---a-look-at-those-who-have-played-for-both) (12 Jan)
+- [Joao’s first days as a Blue 🔵](https://chelseafc.com/en/video/joaos-first-days-as-a-blue) (11 Jan)
+- [In pictures: Joao Felix's first training session with the Blues!](https://chelseafc.com/en/news/article/in-pictures-joao-felixs-first-training-session-with-the-blues) (11 Jan)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > bolt-hole - noun: 1. A place of escape, hiding, or seclusion. 2. A hole through which to escape when in danger.
+ > hyperacusis - noun: A heightened sensitivity to sounds.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 764, using [6, 7, 7, 8, 25, 75]
-- Solution: 75 x 8 + 25 x 6 + 7 + 7
+- Target: 579, using [2, 2, 7, 7, 8, 100]
+- Solution: ( 100 - 8 - 7 - 2 ) x 7 - 2
 - Total: 5 solutions.
 
 <!-- game_marker ends -->
