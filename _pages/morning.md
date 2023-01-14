@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 13 January 2023
+### Daily Rundown on Saturday, 14 January 2023
 
-- The average temperature today is 7.78˚C;
-- With highs of 8.02˚C and lows of 5.29˚C.
-- You can expect heavy intensity rain for the day.
+- The average temperature today is 8.82˚C;
+- With highs of 10.77˚C and lows of 3.88˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
-- Walking jacks
+- Bench dips
 - Kettlebell swings
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.455
-- V3AB.L : 3.80025
-- SPXP.L : 62546.0
-- IMID.L : 177.625
+- VWRL.L : 85.41
+- V3AB.L : 3.8065
+- SPXP.L : 62392.5
+- IMID.L : 178.235
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 240.33
+- 0P00013P6I.L : 241.56
 
 <!-- stocks_marker ends -->
 
@@ -57,7 +57,13 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Aston Villa - Leeds United</li>
+<li>(12:30) Aston Villa Women - Tottenham Hotspur Women</li>
+<li>(12:30) Manchester United - Manchester City</li>
+<li>(15:00) Brighton & Hove Albion - Liverpool</li>
+<li>(15:00) Everton - Southampton</li>
+<li>(15:00) Nottingham Forest - Leicester City</li>
+<li>(15:00) Wolverhampton Wanderers - West Ham United</li>
+<li>(17:30) Brentford - Bournemouth</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -65,11 +71,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Fulham 2-1 Chelsea - Premier League Highlights](https://chelseafc.com/en/video/230112-epl-fulham-v-chelsea-2min-highlights-webapp) (13 Jan)
-- [Koulibaly: We’re going to do everything to change this situation](https://chelseafc.com/en/news/article/koulibaly-were-going-to-do-everything-to-change-this-situation) (13 Jan)
-- [Potter feels mistakes cost us at Fulham and shares the fans' frustration](https://chelseafc.com/en/news/article/potter-feels-mistakes-cost-at-fulham-and-shares-the-fans-frustration) (12 Jan)
-- [Match Report: Fulham 2 Chelsea 1](https://chelseafc.com/en/news/article/match-report-fulham-2-chelsea-1) (12 Jan)
-- [Potter’s post-match take](https://chelseafc.com/en/video/graham-potters-post-match-reaction) (12 Jan)
+- [Chelsea vs Crystal Palace: Head-to-head record, stats, form, fixtures](https://chelseafc.com/en/news/article/chelsea-vs-crystal-palace-stats-form-record) (14 Jan)
+- [Arsenal Women vs Chelsea Women preview: Kick-off time, how to watch live and more!](https://chelseafc.com/en/news/article/arsenal-women-vs-chelsea-women-preview-kick-off-time-how-to-watch-live-and) (14 Jan)
+- [PL2 report and highlights: Chelsea 2 Wolverhampton Wanderers 0](https://chelseafc.com/en/news/article/pl2-report-chelsea-2-wolverhampton-wanderers-0) (13 Jan)
+- [Havertz: We’ll keep working](https://chelseafc.com/en/news/article/havertz-well-keep-working) (13 Jan)
+- [Joao Felix’s debut cut short](https://chelseafc.com/en/video/unseen-extra-13-01-2023) (13 Jan)
 
 <!-- cfc_marker ends -->
 
@@ -83,8 +89,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 401, using [1, 8, 9, 9, 10, 25]
-- Solution: ( 9 + 9 + 8 - 10 ) x 25 + 1
-- Total: 4 solutions.
+- Target: 282, using [1, 3, 8, 50, 75, 100]
+- Solution: ( 100 + 3 + 1 - 75 ) x 8 + 50
+- Total: 9 solutions.
 
 <!-- game_marker ends -->
