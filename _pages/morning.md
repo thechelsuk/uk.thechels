@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 15 January 2023
+### Daily Rundown on Monday, 16 January 2023
 
-- The average temperature today is 6.25˚C;
-- With highs of 6.57˚C and lows of 1.81˚C.
-- You can expect scattered clouds for the day.
+- The average temperature today is 3.16˚C;
+- With highs of 3.23˚C and lows of -2.57˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Calf raises
-- Bench dips
-- Plank
+- Bodyweight squats
+- Kettlebell swings
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -57,41 +57,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:00) Arsenal Women - Chelsea Women</li>
-<li>(13:00) Everton Women - Reading Women</li>
-<li>(14:00) Chelsea - Crystal Palace</li>
-<li>(14:00) Newcastle United - Fulham</li>
-<li>(14:05) Manchester United Women - Liverpool Women</li>
-<li>(15:00) Leicester City Women - Brighton & Hove Albion Women</li>
-<li>(16:30) Tottenham Hotspur - Arsenal</li>
-<li>(18:45) West Ham United Women - Manchester City Women</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Hayes: Ready to resume](https://chelseafc.com/en/news/article/hayes-ready-to-resume) (15 Jan)
-- [Fleming: We are driving those standards](https://chelseafc.com/en/news/article/fleming-we-are-driving-those-standards) (15 Jan)
-- [Chelsea close to agreeing Mudryk deal](https://chelseafc.com/en/news/article/chelsea-close-to-agreeing-mudryk-deal) (14 Jan)
-- [Chelsea vs Crystal Palace: The history and derby day again](https://chelseafc.com/en/news/article/chelsea-vs-crystal-palace-the-history-and-derby-day-again) (14 Jan)
-- [Gianluca Vialli tributes at Sunday’s game](https://chelseafc.com/en/news/article/gianluca-vialli-tributes-at-sundays-game) (14 Jan)
+- [Havertz: That win was for Luca](https://chelseafc.com/en/news/article/havertz-that-win-was-for-luca) (16 Jan)
+- [Extended: Chelsea 1-0 Palace](https://chelseafc.com/en/video/23015-epl-crystal-palace-v-chelsea-ext-highlights-webapp-1) (16 Jan)
+- [Full Match: Chelsea 1-0 Palace](https://chelseafc.com/en/video/chelsea-v-crystal-palace-1-0-or-full-match-or-premier-league) (16 Jan)
+- [Highlights: Chelsea 1-0 Palace](https://chelseafc.com/en/video/230112-epl-chelsea-v-crystal-palace-2min-highlights-webapp) (15 Jan)
+- [Graham Potter post-match reaction](https://chelseafc.com/en/video/graham-potter-post-match-reaction) (15 Jan)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > yesternoon - noun: The afternoon of the previous day.
+ > suede-shoed - adjective: Affecting smartness and respectability.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 114, using [3, 4, 7, 25, 50, 100]
-- Solution: 100 + 50 - 25 - 7 - 4
-- Total: 47 solutions.
+- Target: 993, using [1, 3, 5, 10, 25, 100]
+- Solution: ( 100 + 1 - 25 ) x ( 10 + 3 ) + 5
+- Total: 9 solutions.
 
 <!-- game_marker ends -->
