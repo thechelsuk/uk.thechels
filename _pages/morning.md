@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 16 January 2023
+### Daily Rundown on Tuesday, 17 January 2023
 
-- The average temperature today is 3.16˚C;
-- With highs of 3.23˚C and lows of -2.57˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 2.8˚C;
+- With highs of 3.4˚C and lows of -3.19˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,17 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
-- Kettlebell swings
 - Kettlebell rows
+- Walking jacks
+- Kettlebell swings
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -43,12 +45,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.41
-- V3AB.L : 3.8065
-- SPXP.L : 62392.5
-- IMID.L : 178.235
+- VWRL.L : 85.82
+- V3AB.L : 3.8275
+- SPXP.L : 62778.5
+- IMID.L : 179.015
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 241.56
+- 0P00013P6I.L : nan
 
 <!-- stocks_marker ends -->
 
@@ -57,33 +59,39 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(19:45) Accrington Stanley - Boreham Wood</li>
+<li>(19:45) Forest Green Rovers - Birmingham City</li>
+<li>(19:45) Swansea City - Bristol City</li>
+<li>(19:45) Wigan Athletic - Luton Town</li>
+<li>(19:45) Wolverhampton Wanderers - Liverpool</li>
+<li>(20:00) West Bromwich Albion - Chesterfield</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Havertz: That win was for Luca](https://chelseafc.com/en/news/article/havertz-that-win-was-for-luca) (16 Jan)
-- [Extended: Chelsea 1-0 Palace](https://chelseafc.com/en/video/23015-epl-crystal-palace-v-chelsea-ext-highlights-webapp-1) (16 Jan)
-- [Full Match: Chelsea 1-0 Palace](https://chelseafc.com/en/video/chelsea-v-crystal-palace-1-0-or-full-match-or-premier-league) (16 Jan)
-- [Highlights: Chelsea 1-0 Palace](https://chelseafc.com/en/video/230112-epl-chelsea-v-crystal-palace-2min-highlights-webapp) (15 Jan)
-- [Graham Potter post-match reaction](https://chelseafc.com/en/video/graham-potter-post-match-reaction) (15 Jan)
+- [Welcoming Mudryk, remembering Vialli and victory over Palace - Unseen Extra - Presented by trivago](https://chelseafc.com/en/video/welcoming-mudryk-remembering-vialli-and-victory-over-palace-or-unseen-extra) (16 Jan)
+- [Mudryk's signing shots!](https://chelseafc.com/en/news/article/mudryks-signing-shots) (16 Jan)
+- [Chelsea vs Crystal Palace analysis: Ziyech, Gallagher and centre-backs shine](https://chelseafc.com/en/news/article/chelsea-vs-crystal-palace-analysis-ziyech-gallagher-and-centre-backs-shine) (16 Jan)
+- [Behind-the-scenes with Mykhailo Mudryk](https://chelseafc.com/en/video/behind-the-scenes-with-mykhailo-mudryk) (16 Jan)
+- [Branislav Ivanović signed OTD in 2008  🔝 - Top Trades: Presented by GO Markets](https://chelseafc.com/en/video/branislav-ivanovic-signed-otd-in-2008-or-top-trades-presented-by-go-markets) (16 Jan)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > suede-shoed - adjective: Affecting smartness and respectability.
+ > saboteur - noun: One who disrupts, damages, or destroys, especially in an underhanded manner.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 993, using [1, 3, 5, 10, 25, 100]
-- Solution: ( 100 + 1 - 25 ) x ( 10 + 3 ) + 5
-- Total: 9 solutions.
+- Target: 817, using [2, 7, 10, 25, 50, 100]
+- Solution: ( 100 + 25 ) x 7 + 2 - 50 - 10
+- Total: 1 solutions.
 
 <!-- game_marker ends -->
