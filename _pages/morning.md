@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 17 January 2023
+### Daily Rundown on Wednesday, 18 January 2023
 
-- The average temperature today is 2.8˚C;
-- With highs of 3.4˚C and lows of -3.19˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 4.34˚C;
+- With highs of 4.93˚C and lows of -0.97˚C.
+- You can expect rain and snow for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,17 +19,15 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
 - Walking jacks
-- Kettlebell swings
+- Bench dips
+- Bodyweight squats
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 <!-- c19_marker starts -->
@@ -45,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.82
-- V3AB.L : 3.8275
-- SPXP.L : 62778.5
-- IMID.L : 179.015
+- VWRL.L : 85.33
+- V3AB.L : 3.80325
+- SPXP.L : 62313.5
+- IMID.L : 179.11
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : nan
+- 0P00013P6I.L : 240.92999
 
 <!-- stocks_marker ends -->
 
@@ -59,12 +57,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:45) Accrington Stanley - Boreham Wood</li>
-<li>(19:45) Forest Green Rovers - Birmingham City</li>
-<li>(19:45) Swansea City - Bristol City</li>
-<li>(19:45) Wigan Athletic - Luton Town</li>
-<li>(19:45) Wolverhampton Wanderers - Liverpool</li>
-<li>(20:00) West Bromwich Albion - Chesterfield</li>
+<li>(19:45) Leeds United - Cardiff City</li>
+<li>(20:00) Crystal Palace - Manchester United</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -72,26 +66,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Welcoming Mudryk, remembering Vialli and victory over Palace - Unseen Extra - Presented by trivago](https://chelseafc.com/en/video/welcoming-mudryk-remembering-vialli-and-victory-over-palace-or-unseen-extra) (16 Jan)
-- [Mudryk's signing shots!](https://chelseafc.com/en/news/article/mudryks-signing-shots) (16 Jan)
-- [Chelsea vs Crystal Palace analysis: Ziyech, Gallagher and centre-backs shine](https://chelseafc.com/en/news/article/chelsea-vs-crystal-palace-analysis-ziyech-gallagher-and-centre-backs-shine) (16 Jan)
-- [Behind-the-scenes with Mykhailo Mudryk](https://chelseafc.com/en/video/behind-the-scenes-with-mykhailo-mudryk) (16 Jan)
-- [Branislav Ivanović signed OTD in 2008  🔝 - Top Trades: Presented by GO Markets](https://chelseafc.com/en/video/branislav-ivanovic-signed-otd-in-2008-or-top-trades-presented-by-go-markets) (16 Jan)
+- [Gallagher: We want to dominate games](https://chelseafc.com/en/news/article/gallagher-we-want-to-dominate-games) (17 Jan)
+- [Pat Nevin: The kids are alright](https://chelseafc.com/en/news/article/pat-nevin-the-kids-are-alright) (17 Jan)
+- [Mudryk: I can’t wait to start!](https://chelseafc.com/en/news/article/mudryk-i-cant-wait-to-start-at-chelsea) (17 Jan)
+- [Kerr on a valuable point, key moments and fantastic support](https://chelseafc.com/en/news/article/kerr-on-a-valuable-point-key-moments-and-fantastic-support) (17 Jan)
+- [Chelsea FC Foundation wins Street Soccer Champions Cup](https://chelseafc.com/en/news/article/chelsea-fc-foundation-wins-street-soccer-champions-cup) (17 Jan)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > saboteur - noun: One who disrupts, damages, or destroys, especially in an underhanded manner.
+ > well-heeled - adjective: Having plenty of money.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 817, using [2, 7, 10, 25, 50, 100]
-- Solution: ( 100 + 25 ) x 7 + 2 - 50 - 10
-- Total: 1 solutions.
+- Target: 229, using [3, 3, 5, 7, 8, 50]
+- Solution: ( 50 - 8 - 5 ) x ( 3 + 3 ) + 7
+- Total: 17 solutions.
 
 <!-- game_marker ends -->
