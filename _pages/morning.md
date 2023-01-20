@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 19 January 2023
+### Daily Rundown on Friday, 20 January 2023
 
-- The average temperature today is 3.72˚C;
-- With highs of 4.22˚C and lows of -1˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 4.54˚C;
+- With highs of 5.31˚C and lows of -0.8˚C.
+- You can expect scattered clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
-- Calf raises
+- Bodyweight squats
 - Plank
+- Calf raises
 
 <!-- workout_marker ends -->
 
@@ -33,9 +33,9 @@ No tasks today
 <!-- c19_marker starts -->
 ##### Latest 3 day Local Corona Data
 
-- 54 new cases & 3 deaths on 2023-01-12
-- 0 new cases & 0 deaths on 2023-01-11
-- 0 new cases & 0 deaths on 2023-01-10
+- 38 new cases & 1 deaths on 2023-01-19
+- 0 new cases & 0 deaths on 2023-01-18
+- 0 new cases & 0 deaths on 2023-01-17
 
 <!-- c19_marker ends -->
 
@@ -43,12 +43,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 84.53
-- V3AB.L : 3.76775
-- SPXP.L : 61480.5
-- IMID.L : 179.11
+- VWRL.L : 83.22
+- V3AB.L : 3.71075
+- SPXP.L : 60330.0
+- IMID.L : 175.77499
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 239.21001
+- 0P00013P6I.L : 236.41
 
 <!-- stocks_marker ends -->
 
@@ -57,34 +57,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Manchester City - Tottenham Hotspur</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [In pictures: Chilwell and James return to training](https://chelseafc.com/en/news/article/in-pictures-chilwell-and-james-return-to-training) (18 Jan)
-- [Mudryk - What a finish! 🤩](https://chelseafc.com/en/video/what-a-finish) (18 Jan)
-- [‘I’m buzzing and feeling confident!’](https://chelseafc.com/en/video/230118-carney-wt-app-16x9) (18 Jan)
-- [10 from Training: Mudryk trains for the first time!](https://chelseafc.com/en/news/article/10-from-training-mudryk-trains-for-the-first-time) (18 Jan)
-- [Potter on crucial training ground time and using resources in the right way](https://chelseafc.com/en/news/article/potter-on-crucial-training-ground-time-and-using-resources-in-the-right-way) (18 Jan)
+- [Liverpool vs Chelsea: Preview](https://chelseafc.com/en/news/article/liverpool-vs-chelsea-preview-chelsea-team-news) (20 Jan)
+- [Havertz gives his first impressions! 🎬](https://chelseafc.com/en/video/the-new-players-have-adapted-fast) (19 Jan)
+- [Liverpool vs Chelsea: Head-to-head record, stats, form, fixtures](https://chelseafc.com/en/news/article/liverpool-vs-chelsea-stats-form-record-) (19 Jan)
+- [Chukwuemeka verdict on first start and how his football’s going](https://chelseafc.com/en/news/article/chukwuemeka-verdict-on-first-start-and-how-his-footballs-going) (19 Jan)
+- [Liverpool vs Chelsea: Where to watch, TV channel, kick-off time](https://chelseafc.com/en/news/article/liverpool-vs-chelsea-where-to-watch-tv-channel-kick-off-time) (19 Jan)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > sneakernet - noun: The transfer of electronic information by physically moving it, storing it on a device and moving the device, instead of doing it over a computer network.
+ > boot-faced - adjective: Having a stern, angry, or sad expression.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 858, using [3, 3, 5, 7, 8, 10]
-- Solution: ( 10 x 7 + 8 ) x ( 5 + 3 + 3 )
-- Total: 3 solutions.
+- Target: 130, using [3, 5, 7, 8, 9, 75]
+- Solution: ( 8 / ( 7 - 3 ) + 9 ) x 5 + 75
+- Total: 73 solutions.
 
 <!-- game_marker ends -->
