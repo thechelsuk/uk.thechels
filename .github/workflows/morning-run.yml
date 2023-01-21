@@ -42,7 +42,6 @@ jobs:
           python '_python/cfc.py'
           python '_python/word.py'
           python '_python/task.py'
-          python '_python/corona.py'
           python '_python/workout.py'
           python '_python/countdown.py'
         
