@@ -30,15 +30,6 @@ seo: Good Morning Mat, Here is your daily briefing
 No tasks today
 <!-- task_marker ends -->
 
-<!-- c19_marker starts -->
-##### Latest 3 day Local Corona Data
-
-- 38 new cases & 1 deaths on 2023-01-19
-- 0 new cases & 0 deaths on 2023-01-18
-- 0 new cases & 0 deaths on 2023-01-17
-
-<!-- c19_marker ends -->
-
 ### Stocks
 
 <!-- stocks_marker starts -->
