@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 21 January 2023
+### Daily Rundown on Sunday, 22 January 2023
 
-- The average temperature today is 3.51˚C;
-- With highs of 4.31˚C and lows of -2.7˚C.
-- You can expect few clouds for the day.
+- The average temperature today is 3.77˚C;
+- With highs of 4.41˚C and lows of -1.14˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
-- Dead bugs
-- Bodyweight squats
+- Walking jacks
+- Plank
+- Kettlebell swings
 
 <!-- workout_marker ends -->
 
@@ -48,13 +48,14 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(11:30) Manchester City Women - Aston Villa Women</li>
-<li>(12:30) Liverpool - Chelsea</li>
-<li>(15:00) Bournemouth - Nottingham Forest</li>
-<li>(15:00) Leicester City - Brighton & Hove Albion</li>
-<li>(15:00) Southampton - Aston Villa</li>
-<li>(15:00) West Ham United - Everton</li>
-<li>(17:30) Crystal Palace - Newcastle United</li>
+<li>(12:30) Chelsea Women - Liverpool Women</li>
+<li>(13:00) Everton Women - West Ham United Women</li>
+<li>(14:00) Leeds United - Brentford</li>
+<li>(14:00) Manchester City - Wolverhampton Wanderers</li>
+<li>(14:00) Reading Women - Manchester United Women</li>
+<li>(14:00) Tottenham Hotspur Women - Leicester City Women</li>
+<li>(16:30) Arsenal - Manchester United</li>
+<li>(18:45) Brighton & Hove Albion Women - Arsenal Women</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -62,11 +63,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Potter on what Mudryk is like off the pitch and the benefits of long contracts](https://chelseafc.com/en/news/article/potter-on-what-mudryk-is-like-off-the-pitch-and-the-benefits-of-long) (21 Jan)
-- [Badiashile reflects on Blues bow and prepares for Anfield](https://chelseafc.com/en/news/article/badiashile-reflects-on-blues-bow-and-prepares-for-anfield) (21 Jan)
-- [Chelsea Women vs Liverpool preview: Kick-off time, how to watch live and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-liverpool-preview-kick-off-time-how-to-watch-live-and-more) (21 Jan)
-- [Liverpool vs Chelsea: No place like home?](https://chelseafc.com/en/news/article/liverpool-vs-chelsea-no-place-like-home) (21 Jan)
-- [Chelsea complete Madueke signing](https://chelseafc.com/en/news/article/chelsea-complete-madueke-signing) (20 Jan)
+- [Cucurella on keeping it clean at Anfield and Mudryk’s energy injection](https://chelseafc.com/en/news/article/cucurella-on-keeping-it-clean-at-anfield-and-mudryks-energy-injection) (22 Jan)
+- [Ingle: We’ve got to be on our game](https://chelseafc.com/en/news/article/ingle-weve-got-to-be-on-our-game) (22 Jan)
+- [PL2 preview: Looking ahead to Fulham with Dion Rankine](https://chelseafc.com/en/news/article/pl2-preview-looking-ahead-to-fulham-with-dion-rankine) (22 Jan)
+- [Cesar Azpilicueta’s 500 Chelsea games – the stats](https://chelseafc.com/en/news/article/cesar-azpilicuetas-500-chelsea-games-the-stats) (22 Jan)
+- [Extended: Liverpool 0-0 Chelsea](https://chelseafc.com/en/video/230121-epl-liverpool-v-chelsea-ext-highlights-webapp) (22 Jan)
 
 <!-- cfc_marker ends -->
 
@@ -80,8 +81,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 410, using [6, 6, 25, 50, 75, 100]
-- Solution: ( ( 6 x 6 + 100 ) x 75 + 50 ) / 25
-- Total: 4 solutions.
+- Target: 573, using [2, 7, 8, 10, 75, 100]
+- Solution: ( 8 x 2 + 100 + 75 ) x ( 10 - 7 )
+- Total: 25 solutions.
 
 <!-- game_marker ends -->
