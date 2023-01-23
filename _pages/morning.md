@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 22 January 2023
+### Daily Rundown on Monday, 23 January 2023
 
-- The average temperature today is 3.77˚C;
-- With highs of 4.41˚C and lows of -1.14˚C.
+- The average temperature today is 4.38˚C;
+- With highs of 5.11˚C and lows of -0.4˚C.
 - You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
-- Plank
 - Kettlebell swings
+- Calf raises
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Stocks
@@ -48,14 +49,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Chelsea Women - Liverpool Women</li>
-<li>(13:00) Everton Women - West Ham United Women</li>
-<li>(14:00) Leeds United - Brentford</li>
-<li>(14:00) Manchester City - Wolverhampton Wanderers</li>
-<li>(14:00) Reading Women - Manchester United Women</li>
-<li>(14:00) Tottenham Hotspur Women - Leicester City Women</li>
-<li>(16:30) Arsenal - Manchester United</li>
-<li>(18:45) Brighton & Hove Albion Women - Arsenal Women</li>
+<li>(20:00) Fulham - Tottenham Hotspur</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -63,26 +57,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Cucurella on keeping it clean at Anfield and Mudryk’s energy injection](https://chelseafc.com/en/news/article/cucurella-on-keeping-it-clean-at-anfield-and-mudryks-energy-injection) (22 Jan)
-- [Ingle: We’ve got to be on our game](https://chelseafc.com/en/news/article/ingle-weve-got-to-be-on-our-game) (22 Jan)
-- [PL2 preview: Looking ahead to Fulham with Dion Rankine](https://chelseafc.com/en/news/article/pl2-preview-looking-ahead-to-fulham-with-dion-rankine) (22 Jan)
-- [Cesar Azpilicueta’s 500 Chelsea games – the stats](https://chelseafc.com/en/news/article/cesar-azpilicuetas-500-chelsea-games-the-stats) (22 Jan)
-- [Extended: Liverpool 0-0 Chelsea](https://chelseafc.com/en/video/230121-epl-liverpool-v-chelsea-ext-highlights-webapp) (22 Jan)
+- [Mount reflects on a positive step at Anfield and exciting times at Cobham](https://chelseafc.com/en/news/article/mount-reflects-on-a-positive-step-at-anfield-and-exciting-times-at-cobham) (23 Jan)
+- [Highlights: Fulham U21 2-4 Chelsea U21](https://chelseafc.com/en/video/fulham-u21-v-chelsea-u21-2-4-or-highlights-or-premier-league-2) (22 Jan)
+- [PL2 report: Fulham 2 Chelsea 4](https://chelseafc.com/en/news/article/pl2-report-fulham-2-chelsea-4) (22 Jan)
+- [Liverpool vs Chelsea analysis: Gallagher gets stuck in and Mudryk provides a spark](https://chelseafc.com/en/news/article/liverpool-vs-chelsea-debrief-gallagher-gets-stuck-in-and-mudryk-provides-a) (22 Jan)
+- [Chelsea Women vs Liverpool: Match abandoned and ticket refund details](https://chelseafc.com/en/news/article/chelsea-women-match-abandoned) (22 Jan)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > boot-faced - adjective: Having a stern, angry, or sad expression.
+ > ikigai - noun: 1. A sense of purpose or something that gives a sense of purpose; a reason for living. 2. Something that brings fulfillment or enjoyment.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 573, using [2, 7, 8, 10, 75, 100]
-- Solution: ( 8 x 2 + 100 + 75 ) x ( 10 - 7 )
-- Total: 25 solutions.
+- Target: 552, using [2, 4, 5, 9, 25, 50]
+- Solution: ( 25 - 9 - 5 ) x 50 + 4 - 2
+- Total: 19 solutions.
 
 <!-- game_marker ends -->
