@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 25 January 2023
+### Daily Rundown on Thursday, 26 January 2023
 
-- The average temperature today is 4.68˚C;
-- With highs of 6.29˚C and lows of -0.43˚C.
-- You can expect light rain for the day.
+- The average temperature today is 5.7˚C;
+- With highs of 6.47˚C and lows of 0.37˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
-- Calf raises
 - Bench dips
+- Bodyweight squats
+- Plank
 
 <!-- workout_marker ends -->
 
@@ -34,12 +34,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.72
-- V3AB.L : 3.83125
-- SPXP.L : 62496.0
-- IMID.L : 180.69501
+- VWRL.L : 84.975
+- V3AB.L : 3.79175
+- SPXP.L : 61673.0
+- IMID.L : 179.37
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 241.71001
+- 0P00013P6I.L : 242.19
 
 <!-- stocks_marker ends -->
 
@@ -48,34 +48,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Nottingham Forest - Manchester United</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Eriksson on chasing silverware and Bethany England’s legacy](https://chelseafc.com/en/news/article/eriksson-on-chasing-silverware-and-bethany-englands-legacy) (25 Jan)
-- [Emma Hayes on getting back to winning ways and facing Bethany England](https://chelseafc.com/en/news/article/hayes-on-getting-back-to-winning-ways-facing-england-and-solutions-to) (24 Jan)
-- [Madueke's delight at becoming a Blue](https://chelseafc.com/en/news/article/maduekes-delight-at-becoming-a-blue) (24 Jan)
-- [Hayes press conference](https://chelseafc.com/en/video/cancelling-games-has-a-detrimental-impact-on-our-sport) (24 Jan)
-- [Madueke: First glimpse in training!](https://chelseafc.com/en/video/noni-madueke-first-glimpse-in-training) (24 Jan)
+- [🎬 Emma's post-match thoughts!](https://chelseafc.com/en/video/emma-hayes-post-match-thoughts) (25 Jan)
+- [🎤 Erin Cuthbert's take!](https://chelseafc.com/en/video/erin-cuthberts-take) (25 Jan)
+- [Women's report: Tottenham 1 Chelsea 3](https://chelseafc.com/en/news/article/womens-report-tottenham-1-chelsea-3) (25 Jan)
+- [Stamford Bridge plays host to new Ed Sheeran track](https://chelseafc.com/en/news/article/stamford-bridge-plays-host-to-new-ed-sheeran-track) (25 Jan)
+- [March Premier League fixture selected for TV](https://chelseafc.com/en/news/article/march-premier-league-fixture-selected-for-tv) (25 Jan)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > cosh - noun: 1. A short, thick, heavy stick, used as a weapon. Also known as a truncheon, blackjack, bludgeon, etc. 2. An attack with, or as if with, such a weapon. verb tr.: To hit with, or as if with, such a weapon.
+ > ombudsman - noun: An official who investigates complaints by individuals against an organization.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 776, using [3, 5, 9, 25, 75, 100]
-- Solution: ( 100 - 75 / 25 ) x ( 9 / 3 + 5 )
-- Total: 6 solutions.
+- Target: 861, using [5, 8, 9, 10, 25, 75]
+- Solution: ( 75 + 25 - 8 - 5 ) x 10 - 9
+- Total: 3 solutions.
 
 <!-- game_marker ends -->
