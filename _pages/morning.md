@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 26 January 2023
+### Daily Rundown on Friday, 27 January 2023
 
-- The average temperature today is 5.7˚C;
-- With highs of 6.47˚C and lows of 0.37˚C.
+- The average temperature today is 5.59˚C;
+- With highs of 6.06˚C and lows of 0.74˚C.
 - You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
-- Bodyweight squats
+- Kettlebell rows
 - Plank
+- Kettlebell swings
 
 <!-- workout_marker ends -->
 
@@ -34,12 +34,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 84.975
-- V3AB.L : 3.79175
-- SPXP.L : 61673.0
-- IMID.L : 179.37
+- VWRL.L : 85.74
+- V3AB.L : 3.82875
+- SPXP.L : 62400.0
+- IMID.L : 180.88499
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 242.19
+- 0P00013P6I.L : 240.78
 
 <!-- stocks_marker ends -->
 
@@ -48,33 +48,34 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(20:00) Manchester City - Arsenal</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [🎬 Emma's post-match thoughts!](https://chelseafc.com/en/video/emma-hayes-post-match-thoughts) (25 Jan)
-- [🎤 Erin Cuthbert's take!](https://chelseafc.com/en/video/erin-cuthberts-take) (25 Jan)
-- [Women's report: Tottenham 1 Chelsea 3](https://chelseafc.com/en/news/article/womens-report-tottenham-1-chelsea-3) (25 Jan)
-- [Stamford Bridge plays host to new Ed Sheeran track](https://chelseafc.com/en/news/article/stamford-bridge-plays-host-to-new-ed-sheeran-track) (25 Jan)
-- [March Premier League fixture selected for TV](https://chelseafc.com/en/news/article/march-premier-league-fixture-selected-for-tv) (25 Jan)
+- [Chukwuemeka exclusive interview: On Potter’s faith, preferred positions, and season goals](https://chelseafc.com/en/news/article/carney-chukwuemeka-exclusive-interview-potter-chelsea) (27 Jan)
+- [Cuthbert: I’m claiming it!](https://chelseafc.com/en/news/article/cuthbert-im-claiming-it) (27 Jan)
+- [FA Youth Cup report: Cambridge United 1 Chelsea 0](https://chelseafc.com/en/news/article/fa-youth-cup-report-cambridge-united-1-chelsea-0) (26 Jan)
+- [Raheem Sterling ups his return from injury](https://chelseafc.com/en/news/article/raheem-sterling-ups-his-return-from-injury) (26 Jan)
+- [Chelsea Women learn Continental League Cup semi-final opponents](https://chelseafc.com/en/news/article/chelsea-women-learn-continental-league-cup-semi-final-opponents) (26 Jan)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > ombudsman - noun: An official who investigates complaints by individuals against an organization.
+ > toco - noun: Chastisement; punishment; beatings.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 861, using [5, 8, 9, 10, 25, 75]
-- Solution: ( 75 + 25 - 8 - 5 ) x 10 - 9
-- Total: 3 solutions.
+- Target: 638, using [4, 6, 10, 50, 75, 100]
+- Solution: ( 75 + 6 ) x 100 x 4 / 50 - 10
+- Total: 2 solutions.
 
 <!-- game_marker ends -->
