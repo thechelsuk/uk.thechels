@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 31 January 2023
+### Daily Rundown on Wednesday, 01 February 2023
 
-- The average temperature today is 8.64˚C;
-- With highs of 8.75˚C and lows of 3.39˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 8.47˚C;
+- With highs of 8.85˚C and lows of 4.67˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,29 +19,27 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Calf raises
-- Kettlebell swings
-- Shadow boxing
+- Kettlebell rows
+- Walking jacks
+- Plank
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.87
-- V3AB.L : 3.8405
-- SPXP.L : 62686.0
-- IMID.L : 181.535
+- VWRL.L : 86.04
+- V3AB.L : 3.8535
+- SPXP.L : 62957.5
+- IMID.L : 181.00999
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 242.16
+- 0P00013P6I.L : 240.81
 
 <!-- stocks_marker ends -->
 
@@ -50,8 +48,7 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:45) Birmingham City - Blackburn Rovers</li>
-<li>(20:00) Newcastle United - Southampton</li>
+<li>(20:00) Manchester United - Nottingham Forest</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -59,26 +56,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Thank you, Jorginho](https://chelseafc.com/en/news/article/thank-you-jorginho) (31 Jan)
+- [Jorginho's best moments](https://chelseafc.com/en/video/jorginhos-best-moments-31-01-2023) (31 Jan)
+- [Soonsup-Bell moves to Spurs](https://chelseafc.com/en/news/article/soonsup-bell-moves-to-spurs) (31 Jan)
+- [Pat Nevin: Why transfer deadline day is exciting for Chelsea fans](https://chelseafc.com/en/news/article/pat-nevin-why-transfer-deadline-day-is-exciting-for-chelsea-fans) (31 Jan)
 - [Transfer window deadline day January 2023: Everything you need to know](https://chelseafc.com/en/news/article/transfer-window-deadline-day-january-2023-everything-you-need-to-know) (31 Jan)
-- [Leupolz on special return and life as footballer and mother](https://chelseafc.com/en/news/article/leupolz-on-special-return-and-life-as-footballer-and-mother) (31 Jan)
-- [Chelsea draw Arsenal in Women's FA Cup](https://chelseafc.com/en/news/article/chelsea-draw-arsenal-in-womens-fa-cup) (30 Jan)
-- [Gusto excited for Chelsea project](https://chelseafc.com/en/news/article/gusto-excited-for-chelsea-project) (30 Jan)
-- [Casadei joins Reading on loan](https://chelseafc.com/en/news/article/casadei-joins-reading-on-loan) (30 Jan)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > dickey - noun: 1. A detachable shirtfront, collar, bib, etc. 2. A small bird. 3. A donkey. 4. The driver's seat or rear seat in a carriage. 5. The luggage compartment of a vehicle; also known as trunk or a boot.
+ > dingbat - noun: 1. An eccentric or crazy person. 2. An ornamental typographical symbol, such as ✲, ❏, ☛, ♥. 3. An object, such as a brick, used as a missile. 4. A gadget or an object whose name is unknown or forgotten. Aka, thingamajig, gizmo, etc. 5. A two- to three-story boxy apartment building with parking spaces directly under it. adjective: Eccentric or crazy.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 359, using [6, 7, 8, 10, 50, 75]
-- Solution: ( 75 - 50 ) x ( 8 + 7 ) - 10 - 6
-- Total: 13 solutions.
+- Target: 718, using [3, 3, 4, 10, 75, 100]
+- Solution: ( 100 + 75 - 3 ) x 4 + 10 x 3
+- Total: 5 solutions.
 
 <!-- game_marker ends -->
