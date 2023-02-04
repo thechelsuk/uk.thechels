@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 03 February 2023
+### Daily Rundown on Saturday, 04 February 2023
 
-- The average temperature today is 11.66˚C;
-- With highs of 12.66˚C and lows of 5.81˚C.
+- The average temperature today is 9.54˚C;
+- With highs of 9.54˚C and lows of 4.82˚C.
 - You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Kettlebell rows
+- Bodyweight squats
 - Walking jacks
-- Kettlebell swings
-- Dead bugs
 
 <!-- workout_marker ends -->
 
@@ -34,12 +34,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 88.69
-- V3AB.L : 3.98775
-- SPXP.L : 65263.5
-- IMID.L : 185.48
+- VWRL.L : 89.545
+- V3AB.L : 4.0325
+- SPXP.L : 66229.5
+- IMID.L : 184.955
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 246.3
+- 0P00013P6I.L : 249.81
 
 <!-- stocks_marker ends -->
 
@@ -48,7 +48,15 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Chelsea - Fulham</li>
+<li>(11:30) Leicester City Women - Manchester City Women</li>
+<li>(12:30) Aston Villa Women - Brighton & Hove Albion Women</li>
+<li>(12:30) Everton - Arsenal</li>
+<li>(15:00) Aston Villa - Leicester City</li>
+<li>(15:00) Brentford - Southampton</li>
+<li>(15:00) Brighton & Hove Albion - Bournemouth</li>
+<li>(15:00) Manchester United - Crystal Palace</li>
+<li>(15:00) Wolverhampton Wanderers - Liverpool</li>
+<li>(17:30) Newcastle United - West Ham United</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -56,11 +64,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Chelsea vs Fulham: Thiago Silva and Tim Ream head-to-head](https://chelseafc.com/en/news/article/chelsea-vs-fulham-thiago-silva-and-tim-ream-head-to-head) (03 Feb)
-- [Chelsea vs Fulham: The preview](https://chelseafc.com/en/news/article/chelsea-vs-fulham-the-preview) (03 Feb)
-- [Vivid picture of Azpi in matchday programme](https://chelseafc.com/en/news/article/vivid-picture-of-azpi-in-matchday-programme) (03 Feb)
-- [Fernandez on why he chose Chelsea](https://chelseafc.com/en/news/article/fernandez-on-why-he-chose-chelsea) (02 Feb)
-- [Potter excited to work with Enzo](https://chelseafc.com/en/news/article/potter-excited-to-work-with-enzo) (02 Feb)
+- [Madueke: What I take from my debut game](https://chelseafc.com/en/news/article/madueke-what-i-take-from-my-debut-game) (04 Feb)
+- [Highlights: Chelsea 0-0 Fulham](https://chelseafc.com/en/video/chelsea-v-fulham-0-0-or-highlights-or-premier-league) (04 Feb)
+- [Extended: Chelsea 0-0 Fulham](https://chelseafc.com/en/video/chelsea-v-fulham-0-0-or-extended-highlights-or-premier-league) (04 Feb)
+- [Full Match: Chelsea 0-0 Fulham](https://chelseafc.com/en/video/chelsea-v-fulham-0-0-or-full-match-or-premier-league) (04 Feb)
+- ['Unless you score, you don't deserve more'](https://chelseafc.com/en/video/unless-you-score-you-dont-deserve-more) (03 Feb)
 
 <!-- cfc_marker ends -->
 
@@ -74,8 +82,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 755, using [7, 9, 10, 25, 50, 100]
-- Solution: ( 100 + 50 - 10 ) x 7 - 25 x 9
-- Total: 19 solutions.
+- Target: 897, using [2, 6, 8, 8, 9, 75]
+- Solution: ( 8 / 2 + 8 ) x 75 + 6 - 9
+- Total: 11 solutions.
 
 <!-- game_marker ends -->
