@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 04 February 2023
+### Daily Rundown on Sunday, 05 February 2023
 
-- The average temperature today is 9.54˚C;
-- With highs of 9.54˚C and lows of 4.82˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 6.02˚C;
+- With highs of 7.41˚C and lows of 1.27˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
+- Calf raises
 - Bodyweight squats
-- Walking jacks
+- Bench dips
 
 <!-- workout_marker ends -->
 
@@ -48,15 +48,12 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(11:30) Leicester City Women - Manchester City Women</li>
-<li>(12:30) Aston Villa Women - Brighton & Hove Albion Women</li>
-<li>(12:30) Everton - Arsenal</li>
-<li>(15:00) Aston Villa - Leicester City</li>
-<li>(15:00) Brentford - Southampton</li>
-<li>(15:00) Brighton & Hove Albion - Bournemouth</li>
-<li>(15:00) Manchester United - Crystal Palace</li>
-<li>(15:00) Wolverhampton Wanderers - Liverpool</li>
-<li>(17:30) Newcastle United - West Ham United</li>
+<li>(12:00) Manchester United Women - Everton Women</li>
+<li>(12:30) Tottenham Hotspur Women - Chelsea Women</li>
+<li>(14:00) Liverpool Women - Reading Women</li>
+<li>(14:00) Nottingham Forest - Leeds United</li>
+<li>(16:30) Tottenham Hotspur - Manchester City</li>
+<li>(18:45) West Ham United Women - Arsenal Women</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -64,11 +61,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Carter looks ahead to Spurs challenge and facing England](https://chelseafc.com/en/news/article/carter-looks-ahead-to-spurs-challenge-and-facing-england) (05 Feb)
+- [Enzo's first week as a Blue!](https://chelseafc.com/en/videohttps://chelseafc.com/enzos-first-week-as-a-blue) (04 Feb)
+- [Potter explains Aubameyang's Champions League squad exclusion](https://chelseafc.com/en/news/article/potter-explains-decision-to-leave-aubameyang-out-of-his-champions-league) (04 Feb)
+- [The standout performers from our draw with Fulham](https://chelseafc.com/en/news/article/the-standout-performers-from-our-draw-with-fulham) (04 Feb)
 - [Madueke: What I take from my debut game](https://chelseafc.com/en/news/article/madueke-what-i-take-from-my-debut-game) (04 Feb)
-- [Highlights: Chelsea 0-0 Fulham](https://chelseafc.com/en/video/chelsea-v-fulham-0-0-or-highlights-or-premier-league) (04 Feb)
-- [Extended: Chelsea 0-0 Fulham](https://chelseafc.com/en/video/chelsea-v-fulham-0-0-or-extended-highlights-or-premier-league) (04 Feb)
-- [Full Match: Chelsea 0-0 Fulham](https://chelseafc.com/en/video/chelsea-v-fulham-0-0-or-full-match-or-premier-league) (04 Feb)
-- ['Unless you score, you don't deserve more'](https://chelseafc.com/en/video/unless-you-score-you-dont-deserve-more) (03 Feb)
 
 <!-- cfc_marker ends -->
 
@@ -82,8 +79,6 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 897, using [2, 6, 8, 8, 9, 75]
-- Solution: ( 8 / 2 + 8 ) x 75 + 6 - 9
-- Total: 11 solutions.
+- Target: 538, using [1, 1, 2, 3, 5, 25]
 
 <!-- game_marker ends -->
