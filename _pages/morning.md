@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 05 February 2023
+### Daily Rundown on Monday, 06 February 2023
 
-- The average temperature today is 6.02˚C;
-- With highs of 7.41˚C and lows of 1.27˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 6.66˚C;
+- With highs of 7.64˚C and lows of -0.08˚C.
+- You can expect scattered clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Kettlebell swings
 - Calf raises
 - Bodyweight squats
-- Bench dips
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Stocks
@@ -48,37 +49,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:00) Manchester United Women - Everton Women</li>
-<li>(12:30) Tottenham Hotspur Women - Chelsea Women</li>
-<li>(14:00) Liverpool Women - Reading Women</li>
-<li>(14:00) Nottingham Forest - Leeds United</li>
-<li>(16:30) Tottenham Hotspur - Manchester City</li>
-<li>(18:45) West Ham United Women - Arsenal Women</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Carter looks ahead to Spurs challenge and facing England](https://chelseafc.com/en/news/article/carter-looks-ahead-to-spurs-challenge-and-facing-england) (05 Feb)
-- [Enzo's first week as a Blue!](https://chelseafc.com/en/videohttps://chelseafc.com/enzos-first-week-as-a-blue) (04 Feb)
-- [Potter explains Aubameyang's Champions League squad exclusion](https://chelseafc.com/en/news/article/potter-explains-decision-to-leave-aubameyang-out-of-his-champions-league) (04 Feb)
-- [The standout performers from our draw with Fulham](https://chelseafc.com/en/news/article/the-standout-performers-from-our-draw-with-fulham) (04 Feb)
-- [Madueke: What I take from my debut game](https://chelseafc.com/en/news/article/madueke-what-i-take-from-my-debut-game) (04 Feb)
+- [Potter unfazed by opposition jibes](https://chelseafc.com/en/news/article/potter-unfazed-by-opposition-jibes) (06 Feb)
+- [Lauren James on her dribbling style and why she's growing with every game](https://chelseafc.com/en/news/article/lauren-james-on-her-dribbling-style-and-why-shes-growing-with-every-game) (06 Feb)
+- [Hayes on grinding out a win and where James can improve](https://chelseafc.com/en/news/article/hayes-on-grinding-out-a-win-and-where-james-can-improve) (05 Feb)
+- [Kepa assesses his form and heaps praise on two January additions](https://chelseafc.com/en/news/article/kepa-assesses-his-form-and-heaps-praise-on-two-january-additions) (05 Feb)
+- [Report: Tottenham Women 2 Chelsea Women 3](https://chelseafc.com/en/news/article/report-tottenham-women-2-chelsea-women-3) (05 Feb)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > lave - noun: Residue or remainder. verb tr.: 1. To wash or bathe. 2. To flow. 3. To pour.
+ > armipotent - adjective: Strong in war, battle, contest, etc.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 538, using [1, 1, 2, 3, 5, 25]
+- Target: 104, using [1, 3, 4, 5, 6, 25]
+- Solution: ( 6 + 3 - 5 ) x 25 + 4
+- Total: 103 solutions.
 
 <!-- game_marker ends -->
