@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 11 February 2023
+### Daily Rundown on Sunday, 12 February 2023
 
-- The average temperature today is 9.8˚C;
-- With highs of 10.5˚C and lows of 6.03˚C.
-- You can expect scattered clouds for the day.
+- The average temperature today is 9.73˚C;
+- With highs of 10.43˚C and lows of 3.95˚C.
+- You can expect clear sky for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
-- Calf raises
-- Plank
+- Kettlebell rows
+- Bench dips
+- Walking jacks
 
 <!-- workout_marker ends -->
 
@@ -37,7 +37,7 @@ No tasks today
 - VWRL.L : 87.785
 - V3AB.L : 3.9385
 - SPXP.L : 64835.0
-- IMID.L : 183.08501
+- IMID.L : 180.91
 - 0P0001K1DP.L : nan
 - 0P00013P6I.L : 247.28999
 
@@ -48,14 +48,11 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Manchester City Women - Arsenal Women</li>
-<li>(12:30) West Ham United - Chelsea</li>
-<li>(15:00) Arsenal - Brentford</li>
-<li>(15:00) Crystal Palace - Brighton & Hove Albion</li>
-<li>(15:00) Fulham - Nottingham Forest</li>
-<li>(15:00) Leicester City - Tottenham Hotspur</li>
-<li>(15:00) Southampton - Wolverhampton Wanderers</li>
-<li>(17:30) Bournemouth - Newcastle United</li>
+<li>(12:00) Tottenham Hotspur Women - Manchester United Women</li>
+<li>(14:00) Brighton & Hove Albion Women - Aston Villa Women</li>
+<li>(14:00) Leeds United - Manchester United</li>
+<li>(14:00) Liverpool Women - Leicester City Women</li>
+<li>(16:30) Manchester City - Aston Villa</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -63,11 +60,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Potter praises Badiashile impact and explains role of All Blacks coach](https://chelseafc.com/en/news/article/potter-praises-badiashile-impact-and-explains-role-of-all-blacks-coach) (11 Feb)
-- [PL2 preview: Seeking return to winning ways as Brooking speaks on responsibility](https://chelseafc.com/en/news/article/pl2-preview-seeking-return-to-winning-ways-as-brooking-speaks-on) (11 Feb)
-- [Thiago Silva extends Chelsea stay](https://chelseafc.com/en/news/article/thiago-silva-extends-chelsea-stay) (10 Feb)
-- [Inside access on Thiago Silva's signing day!](https://chelseafc.com/en/news/gallery/inside-access-on-thiago-silvas-signing-day) (10 Feb)
-- ['Yes, bro!' 🤝](https://chelseafc.com/en/video/rj-ts-16x9-10-02-2023) (10 Feb)
+- [Mixed emotions for Joao](https://chelseafc.com/en/news/article/mixed-emotions-for-joao) (12 Feb)
+- [Highlights: West Ham 1-1 Chelsea](https://chelseafc.com/en/video/2min-highlights-west-ham-1-1-chelsea-pl) (11 Feb)
+- [Potter on handball call and his team’s step forward at West Ham](https://chelseafc.com/en/news/article/potter-on-handball-call-and-his-teams-step-forward-at-west-ham) (11 Feb)
+- [🎞 Joao Felix's post-match reaction](https://chelseafc.com/en/video/joao-felix-post-match-reaction) (11 Feb)
+- [Potter's post-match thoughts 🎙](https://chelseafc.com/en/video/potters-post-match-thoughts-west-ham-draw) (11 Feb)
 
 <!-- cfc_marker ends -->
 
@@ -81,8 +78,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 180, using [2, 4, 7, 8, 9, 75]
-- Solution: ( 75 + 2 - 9 - 8 ) x ( 7 - 4 )
-- Total: 54 solutions.
+- Target: 119, using [3, 6, 8, 50, 75, 100]
+- Solution: 6 / 3 + 100 + 75 - 50 - 8
+- Total: 40 solutions.
 
 <!-- game_marker ends -->
