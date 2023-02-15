@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 14 February 2023
+### Daily Rundown on Wednesday, 15 February 2023
 
-- The average temperature today is 11.18˚C;
-- With highs of 12.23˚C and lows of 2.97˚C.
-- You can expect few clouds for the day.
+- The average temperature today is 11.67˚C;
+- With highs of 12.4˚C and lows of 4.16˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,29 +19,27 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Plank
-- Shadow boxing
-- Walking jacks
+- Bench dips
+- Kettlebell rows
+- Bodyweight squats
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 88.25
-- V3AB.L : 3.954
-- SPXP.L : 65271.5
-- IMID.L : 182.74001
+- VWRL.L : 87.795
+- V3AB.L : 3.93575
+- SPXP.L : 64869.0
+- IMID.L : 182.08501
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 248.55
+- 0P00013P6I.L : nan
 
 <!-- stocks_marker ends -->
 
@@ -50,8 +48,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) AC Milan - Tottenham Hotspur</li>
-<li>(20:00) Paris Saint Germain - Bayern Munich</li>
+<li>(19:30) Arsenal - Manchester City</li>
+<li>(20:00) Borussia Dortmund - Chelsea</li>
+<li>(20:00) Club Bruges - Benfica</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -59,26 +58,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Pat Nevin: Why I’m travelling with more excitement than in a long time](https://chelseafc.com/en/news/article/pat-nevin-why-im-travelling-with-more-excitement-than-in-a-long-time) (14 Feb)
-- [Prizes on offer as three Blues named EA SPORTS Future Stars](https://chelseafc.com/en/news/article/prizes-on-offer-as-three-blues-named-ea-sports-future-stars) (13 Feb)
-- [10 from Training: Thoughts turn to Dortmund](https://chelseafc.com/en/news/article/10-from-training-thoughts-turn-to-dortmund) (13 Feb)
-- [Statement on Katerina Svitkova injury](https://chelseafc.com/en/news/article/statement-on-katerina-svitkova-injury) (13 Feb)
-- [Potter excited for fantastic European opportunity](https://chelseafc.com/en/news/article/potter-excited-for-fantastic-european-opportunity) (13 Feb)
+- [Dortmund vs Chelsea: The preview](https://chelseafc.com/en/news/article/dortmund-vs-chelsea-the-preview) (15 Feb)
+- [Dortmund vs Chelsea: Enzo and Bellingham head-to-head](https://chelseafc.com/en/news/article/dortmund-vs-chelsea-enzo-and-bellingham-head-to-head) (15 Feb)
+- [Destination: Dortmund](https://chelseafc.com/en/video/destination-dortmund) (14 Feb)
+- [Azpi’s press conference recap 📺](https://chelseafc.com/en/video/ive-never-arrived-at-a-cl-game-thinking-that-we-cannot-win-it) (14 Feb)
+- [Dortmund vs Chelsea press conference: Potter updates on three back in squad](https://chelseafc.com/en/news/article/dortmund-vs-chelsea-press-conference-chelsea-news-injury-updates) (14 Feb)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > argent - adjective: Of the color silver or white.
+ > stramineous - adjective: 1. Straw-colored. 2. Of or relating to straw. 3. Like straw: Valueless.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 212, using [4, 5, 5, 25, 50, 100]
-- Solution: ( 50 + 4 - 5 / 5 ) x 100 / 25
-- Total: 7 solutions.
+- Target: 712, using [2, 2, 6, 10, 25, 100]
+- Solution: ( 100 + 2 - 25 - 6 ) x 10 + 2
+- Total: 8 solutions.
 
 <!-- game_marker ends -->
