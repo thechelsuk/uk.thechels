@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 15 February 2023
+### Daily Rundown on Thursday, 16 February 2023
 
-- The average temperature today is 11.67˚C;
-- With highs of 12.4˚C and lows of 4.16˚C.
+- The average temperature today is 10.99˚C;
+- With highs of 12.12˚C and lows of 6.73˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
-- Kettlebell rows
+- Calf raises
 - Bodyweight squats
+- Bench dips
 
 <!-- workout_marker ends -->
 
@@ -34,10 +34,10 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 87.795
-- V3AB.L : 3.93575
-- SPXP.L : 64869.0
-- IMID.L : 182.08501
+- VWRL.L : 88.89
+- V3AB.L : 3.99075
+- SPXP.L : 65966.0
+- IMID.L : 182.39
 - 0P0001K1DP.L : nan
 - 0P00013P6I.L : nan
 
@@ -48,36 +48,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:30) Arsenal - Manchester City</li>
-<li>(20:00) Borussia Dortmund - Chelsea</li>
-<li>(20:00) Club Bruges - Benfica</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Dortmund vs Chelsea: The preview](https://chelseafc.com/en/news/article/dortmund-vs-chelsea-the-preview) (15 Feb)
-- [Dortmund vs Chelsea: Enzo and Bellingham head-to-head](https://chelseafc.com/en/news/article/dortmund-vs-chelsea-enzo-and-bellingham-head-to-head) (15 Feb)
-- [Destination: Dortmund](https://chelseafc.com/en/video/destination-dortmund) (14 Feb)
-- [Azpi’s press conference recap 📺](https://chelseafc.com/en/video/ive-never-arrived-at-a-cl-game-thinking-that-we-cannot-win-it) (14 Feb)
-- [Dortmund vs Chelsea press conference: Potter updates on three back in squad](https://chelseafc.com/en/news/article/dortmund-vs-chelsea-press-conference-chelsea-news-injury-updates) (14 Feb)
+- [Havertz shares his frustrations from Dortmund loss](https://chelseafc.com/en/news/article/havertz-shares-his-frustrations-from-dortmund-loss) (16 Feb)
+- [Highlights: Dortmund 1-0 Chelsea](https://chelseafc.com/en/video/230215-ucl-dortmund-v-chelsea-2min-highlights-webapp) (16 Feb)
+- [Potter looking forward to Bridge re-match against Dortmund](https://chelseafc.com/en/news/article/potter-looking-forward-to-bridge-re-match-against-dortmund) (15 Feb)
+- ['I thought we were the better team'](https://chelseafc.com/en/video/i-thought-we-were-the-better-team) (15 Feb)
+- [Report: Dortmund 1 Chelsea 0](https://chelseafc.com/en/news/article/report-dortmund-1-chelsea-0) (15 Feb)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > stramineous - adjective: 1. Straw-colored. 2. Of or relating to straw. 3. Like straw: Valueless.
+ > rubicund - adjective: Red or reddish.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 712, using [2, 2, 6, 10, 25, 100]
-- Solution: ( 100 + 2 - 25 - 6 ) x 10 + 2
-- Total: 8 solutions.
+- Target: 382, using [2, 6, 9, 10, 75, 100]
+- Solution: ( 100 + 75 + 10 + 9 ) x 2 - 6
+- Total: 10 solutions.
 
 <!-- game_marker ends -->
