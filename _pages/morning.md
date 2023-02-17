@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 16 February 2023
+### Daily Rundown on Friday, 17 February 2023
 
-- The average temperature today is 10.99˚C;
-- With highs of 12.12˚C and lows of 6.73˚C.
-- You can expect light rain for the day.
+- The average temperature today is 12.17˚C;
+- With highs of 12.85˚C and lows of 9.98˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Calf raises
-- Bodyweight squats
-- Bench dips
+- Dead bugs
+- Kettlebell rows
+- Shadow boxing
 
 <!-- workout_marker ends -->
 
@@ -34,12 +34,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 88.89
-- V3AB.L : 3.99075
-- SPXP.L : 65966.0
-- IMID.L : 182.39
+- VWRL.L : 88.98
+- V3AB.L : 3.9935
+- SPXP.L : 65866.5
+- IMID.L : 182.53999
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : nan
+- 0P00013P6I.L : 251.82001
 
 <!-- stocks_marker ends -->
 
@@ -55,26 +55,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Havertz shares his frustrations from Dortmund loss](https://chelseafc.com/en/news/article/havertz-shares-his-frustrations-from-dortmund-loss) (16 Feb)
-- [Highlights: Dortmund 1-0 Chelsea](https://chelseafc.com/en/video/230215-ucl-dortmund-v-chelsea-2min-highlights-webapp) (16 Feb)
-- [Potter looking forward to Bridge re-match against Dortmund](https://chelseafc.com/en/news/article/potter-looking-forward-to-bridge-re-match-against-dortmund) (15 Feb)
-- ['I thought we were the better team'](https://chelseafc.com/en/video/i-thought-we-were-the-better-team) (15 Feb)
-- [Report: Dortmund 1 Chelsea 0](https://chelseafc.com/en/news/article/report-dortmund-1-chelsea-0) (15 Feb)
+- [Full Match: Dortmund 1-0 Chelsea](https://chelseafc.com/en/video/borussia-dortmund-v-chelsea-1-0-or-full-match-highlights-or-uefa-champions) (17 Feb)
+- [Extended: Dortmund 1-0 Chelsea](https://chelseafc.com/en/video/borussia-dortmund-v-chelsea-1-0-or-extended-highlights-or-uefa-champions) (17 Feb)
+- [Chilwell: Positives to take](https://chelseafc.com/en/news/article/chilwell-positives-to-take) (16 Feb)
+- [Dortmund vs Chelsea analysis: Joao Felix, Havertz, James and Ziyech finding their rhythm](https://chelseafc.com/en/news/article/dortmund-vs-chelsea-joao-felix-havertz-james-and-ziyech) (16 Feb)
+- [Quiz: Who are Chelsea’s most frequent foes?](https://chelseafc.com/en/news/article/quiz-who-are-chelseas-most-frequent-foes) (16 Feb)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > rubicund - adjective: Red or reddish.
+ > virescent - adjective: 1. Greenish. 2. Turning green.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 382, using [2, 6, 9, 10, 75, 100]
-- Solution: ( 100 + 75 + 10 + 9 ) x 2 - 6
-- Total: 10 solutions.
+- Target: 897, using [3, 4, 4, 5, 75, 100]
+- Solution: ( 100 - 75 ) x ( 5 + 4 ) x 4 - 3
+- Total: 6 solutions.
 
 <!-- game_marker ends -->
