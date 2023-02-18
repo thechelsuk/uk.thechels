@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 17 February 2023
+### Daily Rundown on Saturday, 18 February 2023
 
-- The average temperature today is 12.17˚C;
-- With highs of 12.85˚C and lows of 9.98˚C.
+- The average temperature today is 10.77˚C;
+- With highs of 11.91˚C and lows of 9.61˚C.
 - You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
@@ -19,8 +19,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Dead bugs
-- Kettlebell rows
+- Plank
+- Walking jacks
 - Shadow boxing
 
 <!-- workout_marker ends -->
@@ -34,12 +34,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 88.98
-- V3AB.L : 3.9935
-- SPXP.L : 65866.5
-- IMID.L : 182.53999
+- VWRL.L : 87.885
+- V3AB.L : 3.94025
+- SPXP.L : 64842.0
+- IMID.L : 180.105
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 251.82001
+- 0P00013P6I.L : nan
 
 <!-- stocks_marker ends -->
 
@@ -48,18 +48,26 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(12:30) Aston Villa - Arsenal</li>
+<li>(15:00) Brentford - Crystal Palace</li>
+<li>(15:00) Brighton & Hove Albion - Fulham</li>
+<li>(15:00) Chelsea - Southampton</li>
+<li>(15:00) Everton - Leeds United</li>
+<li>(15:00) Nottingham Forest - Manchester City</li>
+<li>(15:00) Wolverhampton Wanderers - Bournemouth</li>
+<li>(17:30) Newcastle United - Liverpool</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Full Match: Dortmund 1-0 Chelsea](https://chelseafc.com/en/video/borussia-dortmund-v-chelsea-1-0-or-full-match-highlights-or-uefa-champions) (17 Feb)
-- [Extended: Dortmund 1-0 Chelsea](https://chelseafc.com/en/video/borussia-dortmund-v-chelsea-1-0-or-extended-highlights-or-uefa-champions) (17 Feb)
-- [Chilwell: Positives to take](https://chelseafc.com/en/news/article/chilwell-positives-to-take) (16 Feb)
-- [Dortmund vs Chelsea analysis: Joao Felix, Havertz, James and Ziyech finding their rhythm](https://chelseafc.com/en/news/article/dortmund-vs-chelsea-joao-felix-havertz-james-and-ziyech) (16 Feb)
-- [Quiz: Who are Chelsea’s most frequent foes?](https://chelseafc.com/en/news/article/quiz-who-are-chelseas-most-frequent-foes) (16 Feb)
+- [Potter: This will take pressure off Cucurella](https://chelseafc.com/en/news/article/potter-this-will-take-pressure-off-cucurella) (18 Feb)
+- [Chelsea vs Southampton: Gallagher and Ward-Prowse head-to-head](https://chelseafc.com/en/news/article/chelsea-vs-southampton-gallagher-and-ward-prowse-head-to-head) (18 Feb)
+- [James: ‘Football doesn’t work like that’](https://chelseafc.com/en/news/article/james-football-doesnt-work-like-that) (18 Feb)
+- [10 from training: Saints up next!](https://chelseafc.com/en/news/article/10-from-training-saints-up-next) (17 Feb)
+- [Potter trusts attacking talent to bring goals](https://chelseafc.com/en/news/article/potter-trusts-attacking-talent-to-bring-goals) (17 Feb)
 
 <!-- cfc_marker ends -->
 
@@ -73,8 +81,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 897, using [3, 4, 4, 5, 75, 100]
-- Solution: ( 100 - 75 ) x ( 5 + 4 ) x 4 - 3
-- Total: 6 solutions.
+- Target: 461, using [3, 7, 10, 25, 50, 100]
+- Solution: ( 100 + 50 + 7 ) x 3 - 10
+- Total: 2 solutions.
 
 <!-- game_marker ends -->
