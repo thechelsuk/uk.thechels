@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 18 February 2023
+### Daily Rundown on Sunday, 19 February 2023
 
-- The average temperature today is 10.77˚C;
-- With highs of 11.91˚C and lows of 9.61˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 11.15˚C;
+- With highs of 11.76˚C and lows of 6.42˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Kettlebell rows
 - Plank
-- Walking jacks
-- Shadow boxing
+- Bench dips
 
 <!-- workout_marker ends -->
 
@@ -48,14 +48,8 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Aston Villa - Arsenal</li>
-<li>(15:00) Brentford - Crystal Palace</li>
-<li>(15:00) Brighton & Hove Albion - Fulham</li>
-<li>(15:00) Chelsea - Southampton</li>
-<li>(15:00) Everton - Leeds United</li>
-<li>(15:00) Nottingham Forest - Manchester City</li>
-<li>(15:00) Wolverhampton Wanderers - Bournemouth</li>
-<li>(17:30) Newcastle United - Liverpool</li>
+<li>(14:00) Manchester United - Leicester City</li>
+<li>(16:30) Tottenham Hotspur - West Ham United</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -63,11 +57,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Potter: This will take pressure off Cucurella](https://chelseafc.com/en/news/article/potter-this-will-take-pressure-off-cucurella) (18 Feb)
-- [Chelsea vs Southampton: Gallagher and Ward-Prowse head-to-head](https://chelseafc.com/en/news/article/chelsea-vs-southampton-gallagher-and-ward-prowse-head-to-head) (18 Feb)
-- [James: ‘Football doesn’t work like that’](https://chelseafc.com/en/news/article/james-football-doesnt-work-like-that) (18 Feb)
-- [10 from training: Saints up next!](https://chelseafc.com/en/news/article/10-from-training-saints-up-next) (17 Feb)
-- [Potter trusts attacking talent to bring goals](https://chelseafc.com/en/news/article/potter-trusts-attacking-talent-to-bring-goals) (17 Feb)
+- [Kepa: Work is the way](https://chelseafc.com/en/news/article/kepa-work-is-the-way) (19 Feb)
+- [PL2 preview: Liverpool up next for Robinson's men](https://chelseafc.com/en/news/article/pl2-preview-liverpool-up-next-for-robinsons-men) (19 Feb)
+- [Extended: Chelsea 0-1 Southampton](https://chelseafc.com/en/video/extended-highlights-chelsea-0-1-southampton-pl) (19 Feb)
+- [Full Match: Chelsea 0-1 Southampton](https://chelseafc.com/en/video/full-match-chelsea-0-1-southampton) (19 Feb)
+- [Highlights: Chelsea 0-1 Southampton](https://chelseafc.com/en/video/2min-highlights-chelsea-0-1-southampton-pl) (18 Feb)
 
 <!-- cfc_marker ends -->
 
@@ -81,8 +75,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 461, using [3, 7, 10, 25, 50, 100]
-- Solution: ( 100 + 50 + 7 ) x 3 - 10
-- Total: 2 solutions.
+- Target: 527, using [1, 4, 5, 6, 10, 50]
+- Solution: 50 x 10 + 6 x 5 + 1 - 4
+- Total: 4 solutions.
 
 <!-- game_marker ends -->
