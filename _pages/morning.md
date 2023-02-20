@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 19 February 2023
+### Daily Rundown on Monday, 20 February 2023
 
-- The average temperature today is 11.15˚C;
-- With highs of 11.76˚C and lows of 6.42˚C.
+- The average temperature today is 12.39˚C;
+- With highs of 13.23˚C and lows of 6.95˚C.
 - You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
-- Plank
-- Bench dips
+- Shadow boxing
+- Walking jacks
+- Dead bugs
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Stocks
@@ -48,35 +49,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(14:00) Manchester United - Leicester City</li>
-<li>(16:30) Tottenham Hotspur - West Ham United</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Kepa: Work is the way](https://chelseafc.com/en/news/article/kepa-work-is-the-way) (19 Feb)
-- [PL2 preview: Liverpool up next for Robinson's men](https://chelseafc.com/en/news/article/pl2-preview-liverpool-up-next-for-robinsons-men) (19 Feb)
-- [Extended: Chelsea 0-1 Southampton](https://chelseafc.com/en/video/extended-highlights-chelsea-0-1-southampton-pl) (19 Feb)
-- [Full Match: Chelsea 0-1 Southampton](https://chelseafc.com/en/video/full-match-chelsea-0-1-southampton) (19 Feb)
-- [Highlights: Chelsea 0-1 Southampton](https://chelseafc.com/en/video/2min-highlights-chelsea-0-1-southampton-pl) (18 Feb)
+- [Potter: I won’t lose faith in my philosophy](https://chelseafc.com/en/news/article/potter-i-wont-lose-faith-in-my-philosophy) (20 Feb)
+- [Cesar Azpilicueta's message to Chelsea fans](https://chelseafc.com/en/news/article/cesar-azpilicuetas-message-to-chelsea-fans) (19 Feb)
+- [Chilwell: It's on us players to put this right](https://chelseafc.com/en/news/article/chilwell-its-on-us-players-to-put-this-right) (19 Feb)
+- [PL2 report: Liverpool 0 Chelsea 0](https://chelseafc.com/en/news/article/pl2-report-liverpool-0-chelsea-0) (19 Feb)
+- [Goal line clearances and Ward-Prowse deny Blues the points](https://chelseafc.com/en/video/goal-line-clearances-and-ward-prowse-deny-blues-19-02-2023) (19 Feb)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > virescent - adjective: 1. Greenish. 2. Turning green.
+ > memoriter - adverb: By memory; by heart. adjective: Involving memorization.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 527, using [1, 4, 5, 6, 10, 50]
-- Solution: 50 x 10 + 6 x 5 + 1 - 4
-- Total: 4 solutions.
+- Target: 726, using [2, 4, 5, 7, 8, 100]
+- Solution: ( 100 + 8 - 4 ) x 7 - 2
+- Total: 26 solutions.
 
 <!-- game_marker ends -->
