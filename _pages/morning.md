@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 20 February 2023
+### Daily Rundown on Tuesday, 21 February 2023
 
-- The average temperature today is 12.39˚C;
-- With highs of 13.23˚C and lows of 6.95˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 11.01˚C;
+- With highs of 11.14˚C and lows of 7.18˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
 - Walking jacks
-- Dead bugs
+- Kettlebell rows
+- Kettlebell swings
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
@@ -35,12 +36,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 87.885
-- V3AB.L : 3.94025
-- SPXP.L : 64842.0
-- IMID.L : 180.105
+- VWRL.L : 87.98
+- V3AB.L : 3.9495
+- SPXP.L : 64921.0
+- IMID.L : 180.855
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : nan
+- 0P00013P6I.L : 249.03999
 
 <!-- stocks_marker ends -->
 
@@ -49,33 +50,35 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(20:00) Eintracht Frankfurt - Napoli</li>
+<li>(20:00) Liverpool - Real Madrid</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Pat Nevin: What I am wishing for at Tottenham](https://chelseafc.com/en/news/article/pat-nevin-what-i-am-wishing-for-at-tottenham) (21 Feb)
 - [Potter: I won’t lose faith in my philosophy](https://chelseafc.com/en/news/article/potter-i-wont-lose-faith-in-my-philosophy) (20 Feb)
-- [Cesar Azpilicueta's message to Chelsea fans](https://chelseafc.com/en/news/article/cesar-azpilicuetas-message-to-chelsea-fans) (19 Feb)
-- [Chilwell: It's on us players to put this right](https://chelseafc.com/en/news/article/chilwell-its-on-us-players-to-put-this-right) (19 Feb)
-- [PL2 report: Liverpool 0 Chelsea 0](https://chelseafc.com/en/news/article/pl2-report-liverpool-0-chelsea-0) (19 Feb)
-- [Goal line clearances and Ward-Prowse deny Blues the points](https://chelseafc.com/en/video/goal-line-clearances-and-ward-prowse-deny-blues-19-02-2023) (19 Feb)
+- [International Blues round-up: Part two](https://chelseafc.com/en/news/article/international-blues-round-up-part-two) (20 Feb)
+- [Xavier Simons stars on first Championship start](https://chelseafc.com/en/news/article/xavier-simons-stars-on-first-championship-start) (20 Feb)
+- [Chelsea Women continue to take over the Stamford Bridge Stadium Tour!](https://chelseafc.com/en/news/article/chelsea-women-take-over-the-stamford-bridge-stadium-tour) (20 Feb)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > memoriter - adverb: By memory; by heart. adjective: Involving memorization.
+ > astern - adverb, adjective: 1. At the rear of a ship or another vessel. 2. In a reverse direction. 3. Backward.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 726, using [2, 4, 5, 7, 8, 100]
-- Solution: ( 100 + 8 - 4 ) x 7 - 2
-- Total: 26 solutions.
+- Target: 253, using [1, 5, 7, 8, 8, 50]
+- Solution: ( 8 / 8 + 50 + 1 ) x 5 - 7
+- Total: 15 solutions.
 
 <!-- game_marker ends -->
