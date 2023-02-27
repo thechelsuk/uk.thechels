@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 26 February 2023
+### Daily Rundown on Monday, 27 February 2023
 
-- The average temperature today is 6.62˚C;
-- With highs of 7.08˚C and lows of -0.68˚C.
-- You can expect few clouds for the day.
+- The average temperature today is 7.42˚C;
+- With highs of 7.92˚C and lows of -0.69˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
+- Kettlebell swings
+- Dead bugs
 - Bodyweight squats
-- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -48,43 +48,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:00) Manchester United Women - Durham Women</li>
-<li>(13:30) Tottenham Hotspur - Chelsea</li>
-<li>(14:00) Brighton & Hove Albion Women - Coventry United Ladies</li>
-<li>(14:00) Bristol City Women - Manchester City Women</li>
-<li>(14:00) Charlton Athletic Women - Birmingham City Women</li>
-<li>(14:00) Chelsea Women - Arsenal Women</li>
-<li>(14:00) Lewes Women - Cardiff Ladies</li>
-<li>(14:00) Tottenham Hotspur Women - Reading Women</li>
-<li>(15:00) West Ham United Women - Aston Villa Women</li>
-<li>(16:30) Manchester United - Newcastle United</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Joao Felix ready to provide the spark in London derby](https://chelseafc.com/en/news/article/joao-felix-ready-to-provide-the-spark-in-london-derby) (26 Feb)
-- [Cankovic: Targeting famous trophy and more](https://chelseafc.com/en/news/article/cankovic-targeting-famous-trophy-and-more) (26 Feb)
-- [Graham Potter: What I think about Antonio Conte](https://chelseafc.com/en/news/article/graham-potter-what-i-think-about-antonio-conte) (26 Feb)
-- [Tottenham vs Chelsea: Fixture history and London derby record up for grabs](https://chelseafc.com/en/news/article/tottenham-vs-chelsea-fixture-history-and-london-derby-record-up-for-grabs) (26 Feb)
-- [Tottenham vs Chelsea: Sterling and Son head-to-head](https://chelseafc.com/en/news/article/tottenham-vs-chelsea-sterling-and-son-head-to-head) (25 Feb)
+- [Koulibaly disappointed with second-half showing](https://chelseafc.com/en/news/article/koulibaly-disappointed-with-second-half-showing) (27 Feb)
+- [PL2 preview: London derby as young Blues look to close gap at the top](https://chelseafc.com/en/news/article/pl2-preview-london-derby-as-young-blues-look-to-close-gap-at-the-top) (27 Feb)
+- [Emma's post-match take! 🎤](https://chelseafc.com/en/video/chelsea-2-0-arsenal-or-emma-hayes-post-match-interview-or-womens-fa-cup) (26 Feb)
+- [Highlights: Tottenham Hotspur 2-0 Chelsea](https://chelseafc.com/en/video/highlights-tottenham-hotspur-2-0-chelsea) (26 Feb)
+- [Potter on cost of conceding first and Thiago Silva injury](https://chelseafc.com/en/news/article/potter-on-cost-of-conceding-first-and-thiago-silva-injury) (26 Feb)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > gratis - adverb, adjective: Without payment; free.
+ > pinion - noun: 1. A feather or a wing, especially the terminal segment of a wing. 2. A small cogwheel engaging with a larger wheel or a rack. verb tr.: 1. To cut or bind the wing of a bird. 2. To bind, restrain, shackle, etc.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 462, using [2, 6, 7, 8, 8, 25]
-- Solution: ( ( 8 + 8 - 7 ) x 25 + 6 ) x 2
-- Total: 27 solutions.
+- Target: 343, using [1, 4, 9, 10, 25, 75]
+- Solution: 75 x 4 + 25 + 10 + 9 - 1
+- Total: 4 solutions.
 
 <!-- game_marker ends -->
