@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 27 February 2023
+### Daily Rundown on Tuesday, 28 February 2023
 
-- The average temperature today is 7.42˚C;
-- With highs of 7.92˚C and lows of -0.69˚C.
+- The average temperature today is 6.16˚C;
+- With highs of 6.6˚C and lows of 0.49˚C.
 - You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
@@ -19,27 +19,29 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell swings
+- Bench dips
 - Dead bugs
-- Bodyweight squats
+- Shadow boxing
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 86.03
-- V3AB.L : 3.8615
-- SPXP.L : 63630.0
-- IMID.L : 175.875
+- VWRL.L : 86.29
+- V3AB.L : 3.86775
+- SPXP.L : 63712.0
+- IMID.L : 177.44
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 245.35001
+- 0P00013P6I.L : 243.47
 
 <!-- stocks_marker ends -->
 
@@ -48,33 +50,37 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(19:15) Stoke City - Brighton & Hove Albion</li>
+<li>(19:30) Leicester City - Blackburn Rovers</li>
+<li>(19:45) Fulham - Leeds United</li>
+<li>(20:00) Bristol City - Manchester City</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Koulibaly disappointed with second-half showing](https://chelseafc.com/en/news/article/koulibaly-disappointed-with-second-half-showing) (27 Feb)
-- [PL2 preview: London derby as young Blues look to close gap at the top](https://chelseafc.com/en/news/article/pl2-preview-london-derby-as-young-blues-look-to-close-gap-at-the-top) (27 Feb)
-- [Emma's post-match take! 🎤](https://chelseafc.com/en/video/chelsea-2-0-arsenal-or-emma-hayes-post-match-interview-or-womens-fa-cup) (26 Feb)
-- [Highlights: Tottenham Hotspur 2-0 Chelsea](https://chelseafc.com/en/video/highlights-tottenham-hotspur-2-0-chelsea) (26 Feb)
-- [Potter on cost of conceding first and Thiago Silva injury](https://chelseafc.com/en/news/article/potter-on-cost-of-conceding-first-and-thiago-silva-injury) (26 Feb)
+- [Madueke on targeting success and believing in the Chelsea project](https://chelseafc.com/en/news/article/madueke-on-targeting-success-and-believing-in-the-chelsea-project) (28 Feb)
+- [Development Squad v Arsenal (1-0) - Highlights - PL2](https://chelseafc.com/en/video/development-squad-v-arsenal-1-0-or-highlights-or-pl2) (27 Feb)
+- [PL2 report: Chelsea 1 Arsenal 0](https://chelseafc.com/en/news/article/pl2-report-chelsea-1-arsenal-0) (27 Feb)
+- [Chelsea Women discover FA Cup quarter-final opponents](https://chelseafc.com/en/news/article/chelsea-women-discover-fa-cup-quarter-final-opponents) (27 Feb)
+- [Back to work at Cobham](https://chelseafc.com/en/news/article/back-to-work-at-cobham) (27 Feb)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > pinion - noun: 1. A feather or a wing, especially the terminal segment of a wing. 2. A small cogwheel engaging with a larger wheel or a rack. verb tr.: 1. To cut or bind the wing of a bird. 2. To bind, restrain, shackle, etc.
+ > deacon - noun: In a church, a person appointed as a lay leader to a position below a pastor, priest, etc. verb tr.: 1. To present the best part of something. 2. To pack or arrange in a way so that the finest pieces (such as fruit) are visible. 3. To adulterate; to doctor; to falsify. 4. To kill a calf or another animal soon after birth. 5. To ordain as a deacon. 6. To read aloud lines of a verse before singing. verb intr.: To lie.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 343, using [1, 4, 9, 10, 25, 75]
-- Solution: 75 x 4 + 25 + 10 + 9 - 1
-- Total: 4 solutions.
+- Target: 430, using [2, 7, 9, 9, 9, 75]
+- Solution: ( 75 - 9 - 2 ) x 7 - 9 - 9
+- Total: 2 solutions.
 
 <!-- game_marker ends -->
