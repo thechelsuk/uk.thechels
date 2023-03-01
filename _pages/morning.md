@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 25 February 2023
+### Daily Rundown on Wednesday, 01 March 2023
 
-- The average temperature today is 6.44˚C;
-- With highs of 6.76˚C and lows of 0.35˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 6˚C;
+- With highs of 6.7˚C and lows of 3.96˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell swings
-- Walking jacks
-- Calf raises
+- Shadow boxing
+- Plank
+- Dead bugs
 
 <!-- workout_marker ends -->
 
@@ -34,12 +34,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 86.03
-- V3AB.L : 3.8615
-- SPXP.L : 63630.0
-- IMID.L : 175.875
+- VWRL.L : 85.47
+- V3AB.L : 3.83825
+- SPXP.L : 63131.5
+- IMID.L : 177.17999
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 245.35001
+- 0P00013P6I.L : 241.84
 
 <!-- stocks_marker ends -->
 
@@ -48,12 +48,12 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(15:00) Everton - Aston Villa</li>
-<li>(15:00) Leeds United - Southampton</li>
-<li>(15:00) Leicester City - Arsenal</li>
-<li>(15:00) West Ham United - Nottingham Forest</li>
-<li>(17:30) Bournemouth - Manchester City</li>
-<li>(19:45) Crystal Palace - Liverpool</li>
+<li>(19:15) Southampton - Grimsby Town</li>
+<li>(19:30) Burnley - Fleetwood Town</li>
+<li>(19:45) Arsenal - Everton</li>
+<li>(19:45) Manchester United - West Ham United</li>
+<li>(19:55) Sheffield United - Tottenham Hotspur</li>
+<li>(20:00) Liverpool - Wolverhampton Wanderers</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -61,26 +61,24 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Potter: I do care, I want to succeed](https://chelseafc.com/en/news/article/potter-i-do-care-i-want-to-succeed) (25 Feb)
-- [Chelsea Women vs Arsenal Women preview: Kick-off time, where to watch live and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-arsenal-women-preview-kick-off-time-where-to-watch-live) (25 Feb)
-- [Cobham Unseen 🎬](https://chelseafc.com/en/video/cobham-unseen-24-02-2023) (24 Feb)
-- [10 from training: Sunday in our sights](https://chelseafc.com/en/news/article/10-from-training-sunday-in-our-sights) (24 Feb)
-- ['I want to challenge the team to serial winning'](https://chelseafc.com/en/video/i-want-to-challenge-the-team-to-serial-winning-24-2-2023) (24 Feb)
+- [Steps up: Maatsen on learning from the best, winning awards and handling pressure](https://chelseafc.com/en/news/article/steps-up-maatsen-on-learning-from-the-best-winning-awards-and-handling) (01 Mar)
+- [Remembering the Osgood and Hutchinson Blues brotherhood](https://chelseafc.com/en/news/article/remembering-the-osgood-and-hutchinson-blues-brotherhood) (01 Mar)
+- [Pat Nevin: Looking the player most likely…](https://chelseafc.com/en/news/article/pat-nevin-looking-the-player-most-likely) (28 Feb)
+- [Vote for Chelsea’s February Goal of the Month](https://chelseafc.com/en/news/article/vote-for-chelseas-february-goal-of-the-month) (28 Feb)
+- [Berger's brilliant saves! 🔥🧤](https://chelseafc.com/en/video/ann-katrin-bergers-brilliant-saves-name-her-player-of-the-match-280223) (28 Feb)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > gratis - adverb, adjective: Without payment; free.
+ > infame - noun: A person having a bad reputation. verb tr.: To defame: to attack the reputation or to disgrace. adjective: Having a bad reputation.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 825, using [1, 6, 7, 9, 10, 75]
-- Solution: ( 10 + 9 - 7 - 1 ) x 75
-- Total: 29 solutions.
+- Target: 761, using [2, 2, 2, 4, 8, 25]
 
 <!-- game_marker ends -->
