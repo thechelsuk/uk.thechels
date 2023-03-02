@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 01 March 2023
+### Daily Rundown on Thursday, 02 March 2023
 
-- The average temperature today is 6˚C;
-- With highs of 6.7˚C and lows of 3.96˚C.
-- You can expect light rain for the day.
+- The average temperature today is 7.22˚C;
+- With highs of 8.45˚C and lows of 0.76˚C.
+- You can expect few clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,8 +19,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
 - Plank
+- Kettlebell rows
 - Dead bugs
 
 <!-- workout_marker ends -->
@@ -34,12 +34,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.47
-- V3AB.L : 3.83825
-- SPXP.L : 63131.5
-- IMID.L : 177.17999
+- VWRL.L : 85.9
+- V3AB.L : 3.85325
+- SPXP.L : 63101.0
+- IMID.L : 176.39999
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 241.84
+- 0P00013P6I.L : 243.33
 
 <!-- stocks_marker ends -->
 
@@ -48,37 +48,31 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:15) Southampton - Grimsby Town</li>
-<li>(19:30) Burnley - Fleetwood Town</li>
-<li>(19:45) Arsenal - Everton</li>
-<li>(19:45) Manchester United - West Ham United</li>
-<li>(19:55) Sheffield United - Tottenham Hotspur</li>
-<li>(20:00) Liverpool - Wolverhampton Wanderers</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Steps up: Maatsen on learning from the best, winning awards and handling pressure](https://chelseafc.com/en/news/article/steps-up-maatsen-on-learning-from-the-best-winning-awards-and-handling) (01 Mar)
-- [Remembering the Osgood and Hutchinson Blues brotherhood](https://chelseafc.com/en/news/article/remembering-the-osgood-and-hutchinson-blues-brotherhood) (01 Mar)
-- [Pat Nevin: Looking the player most likely…](https://chelseafc.com/en/news/article/pat-nevin-looking-the-player-most-likely) (28 Feb)
-- [Vote for Chelsea’s February Goal of the Month](https://chelseafc.com/en/news/article/vote-for-chelseas-february-goal-of-the-month) (28 Feb)
-- [Berger's brilliant saves! 🔥🧤](https://chelseafc.com/en/video/ann-katrin-bergers-brilliant-saves-name-her-player-of-the-match-280223) (28 Feb)
+- [Joao Felix reveals some of the biggest highs and lows of his career so far](https://chelseafc.com/en/news/article/joao-felix-reveals-some-of-the-biggest-highs-and-lows-of-his-career-so-far) (02 Mar)
+- [A chat with Fofana](https://chelseafc.com/en/video/wesley-fofana-on-his-return-to-action-from-injury-010323) (01 Mar)
+- [10 from Training: Leeds in Chelsea’s sights!](https://chelseafc.com/en/news/article/10-from-training-leeds-in-chelseas-sights) (01 Mar)
+- [James strike is February’s best](https://chelseafc.com/en/news/article/james-strike-is-februarys-best) (01 Mar)
+- [Chelsea invites applications for new Fan Advisory Board](https://chelseafc.com/en/news/article/chelsea-invites-applications-for-new-fan-advisory-board) (01 Mar)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > infame - noun: A person having a bad reputation. verb tr.: To defame: to attack the reputation or to disgrace. adjective: Having a bad reputation.
+ > scend - verb intr.: To rise or lift by, or as if by, a wave. noun: The rising movement of a wave or a ship on a wave.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 761, using [2, 2, 2, 4, 8, 25]
+- Target: 849, using [1, 4, 4, 6, 9, 10]
 
 <!-- game_marker ends -->
