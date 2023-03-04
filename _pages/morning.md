@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 03 March 2023
+### Daily Rundown on Saturday, 04 March 2023
 
-- The average temperature today is 5.59˚C;
-- With highs of 6.46˚C and lows of 0.92˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 6.45˚C;
+- With highs of 7.5˚C and lows of 2.46˚C.
+- You can expect few clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Kettlebell rows
+- Walking jacks
 - Bench dips
-- Kettlebell swings
-- Bodyweight squats
 
 <!-- workout_marker ends -->
 
@@ -34,12 +34,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 86.34
-- V3AB.L : 3.8655
-- SPXP.L : 63395.5
-- IMID.L : 176.425
+- VWRL.L : 87.41
+- V3AB.L : 3.9165
+- SPXP.L : 64428.0
+- IMID.L : 178.94
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 243.17
+- 0P00013P6I.L : 244.97
 
 <!-- stocks_marker ends -->
 
@@ -48,18 +48,25 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(12:30) Manchester City - Newcastle United</li>
+<li>(15:00) Arsenal - Bournemouth</li>
+<li>(15:00) Aston Villa - Crystal Palace</li>
+<li>(15:00) Brighton & Hove Albion - West Ham United</li>
+<li>(15:00) Chelsea - Leeds United</li>
+<li>(15:00) Wolverhampton Wanderers - Tottenham Hotspur</li>
+<li>(17:30) Southampton - Leicester City</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Chelsea vs Leeds: The preview](https://chelseafc.com/en/news/article/chelsea-vs-leeds-the-preview-chelsea-news) (03 Mar)
-- [Chelsea vs Leeds: head-to-head record, stats, form, fixtures](https://chelseafc.com/en/news/article/chelsea-vs-leeds-head-to-head-record-stats-form-fixtures) (02 Mar)
-- [Beautiful touch! 🤩](https://chelseafc.com/en/video/beautiful-touch-02-03-2023) (02 Mar)
-- [10 from Training: Gearing up for Leeds](https://chelseafc.com/en/news/article/10-from-training-gearing-up-for-leeds) (02 Mar)
-- [Kepa up for February Premier League award](https://chelseafc.com/en/news/article/kepa-up-for-february-premier-league-award) (02 Mar)
+- [Zakaria: We have to be at 100 per cent in every moment](https://chelseafc.com/en/news/article/zakaria-we-have-to-be-at-100-per-cent-in-every-moment) (04 Mar)
+- [Potter: Thiago Silva’s absence gives opportunity to others](https://chelseafc.com/en/news/article/potter-thiago-silvas-absence-gives-opportunity-to-others) (04 Mar)
+- [Chelsea Women vs Arsenal Women Conti Cup final preview: Kick-off time, where to watch live and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-arsenal-women-conti-cup-final-preview-kick-off-time-where) (04 Mar)
+- [Full steam ahead 🙌](https://chelseafc.com/en/video/full-steam-ahead-at-training-for-all-the-blues) (03 Mar)
+- [Emma Hayes press conference 📺](https://chelseafc.com/en/video/we-pride-ourselves-on-the-highest-standard) (03 Mar)
 
 <!-- cfc_marker ends -->
 
@@ -73,8 +80,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 288, using [1, 1, 2, 4, 50, 100]
-- Solution: ( 100 + 50 - 4 - 2 ) x ( 1 + 1 )
-- Total: 10 solutions.
+- Target: 604, using [4, 5, 7, 50, 75, 100]
+- Solution: ( 100 - 50 ) x ( 7 + 5 ) + 4
+- Total: 6 solutions.
 
 <!-- game_marker ends -->
