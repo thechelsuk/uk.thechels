@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 04 March 2023
+### Daily Rundown on Sunday, 05 March 2023
 
-- The average temperature today is 6.45˚C;
-- With highs of 7.5˚C and lows of 2.46˚C.
-- You can expect few clouds for the day.
+- The average temperature today is 4.28˚C;
+- With highs of 5.91˚C and lows of 0.97˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
-- Walking jacks
+- Bodyweight squats
 - Bench dips
+- Dead bugs
 
 <!-- workout_marker ends -->
 
@@ -48,13 +48,12 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Manchester City - Newcastle United</li>
-<li>(15:00) Arsenal - Bournemouth</li>
-<li>(15:00) Aston Villa - Crystal Palace</li>
-<li>(15:00) Brighton & Hove Albion - West Ham United</li>
-<li>(15:00) Chelsea - Leeds United</li>
-<li>(15:00) Wolverhampton Wanderers - Tottenham Hotspur</li>
-<li>(17:30) Southampton - Leicester City</li>
+<li>(12:30) Manchester United Women - Leicester City Women</li>
+<li>(13:00) Everton Women - Aston Villa Women</li>
+<li>(14:00) Manchester City Women - Tottenham Hotspur Women</li>
+<li>(14:00) Nottingham Forest - Everton</li>
+<li>(14:00) Reading Women - West Ham United Women</li>
+<li>(16:30) Liverpool - Manchester United</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -62,11 +61,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Zakaria: We have to be at 100 per cent in every moment](https://chelseafc.com/en/news/article/zakaria-we-have-to-be-at-100-per-cent-in-every-moment) (04 Mar)
-- [Potter: Thiago Silva’s absence gives opportunity to others](https://chelseafc.com/en/news/article/potter-thiago-silvas-absence-gives-opportunity-to-others) (04 Mar)
-- [Chelsea Women vs Arsenal Women Conti Cup final preview: Kick-off time, where to watch live and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-arsenal-women-conti-cup-final-preview-kick-off-time-where) (04 Mar)
-- [Full steam ahead 🙌](https://chelseafc.com/en/video/full-steam-ahead-at-training-for-all-the-blues) (03 Mar)
-- [Emma Hayes press conference 📺](https://chelseafc.com/en/video/we-pride-ourselves-on-the-highest-standard) (03 Mar)
+- [Fofana: An incredible feeling](https://chelseafc.com/en/news/article/fofana-an-incredible-feeling) (05 Mar)
+- [Bright: Our Chelsea pride keeps us hungry](https://chelseafc.com/en/news/article/bright-our-chelsea-pride-keeps-us-hungry) (05 Mar)
+- [Hayes on Kerr’s consistency, Kirby’s injury and Ingle’s honour](https://chelseafc.com/en/news/article/hayes-on-kerrs-consistency-kirbys-injury-and-ingles-honour) (05 Mar)
+- [Full Match: Chelsea 1-0 Leeds](https://chelseafc.com/en/video/full-match-chelsea-1-0-leeds) (05 Mar)
+- [Extended Highlights: Chelsea 1-0 Leeds United](https://chelseafc.com/en/video/extended-highlights-chelsea-1-0-leeds-united) (04 Mar)
 
 <!-- cfc_marker ends -->
 
@@ -80,8 +79,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 604, using [4, 5, 7, 50, 75, 100]
-- Solution: ( 100 - 50 ) x ( 7 + 5 ) + 4
-- Total: 6 solutions.
+- Target: 640, using [1, 6, 6, 6, 50, 100]
+- Solution: ( 100 - 6 x 6 ) x 50 / ( 6 - 1 )
+- Total: 2 solutions.
 
 <!-- game_marker ends -->
