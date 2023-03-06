@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 05 March 2023
+### Daily Rundown on Monday, 06 March 2023
 
-- The average temperature today is 4.28˚C;
-- With highs of 5.91˚C and lows of 0.97˚C.
+- The average temperature today is 7.35˚C;
+- With highs of 7.67˚C and lows of 1.56˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Kettlebell swings
 - Bodyweight squats
-- Bench dips
-- Dead bugs
+- Calf raises
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Stocks
@@ -48,12 +49,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Manchester United Women - Leicester City Women</li>
-<li>(13:00) Everton Women - Aston Villa Women</li>
-<li>(14:00) Manchester City Women - Tottenham Hotspur Women</li>
-<li>(14:00) Nottingham Forest - Everton</li>
-<li>(14:00) Reading Women - West Ham United Women</li>
-<li>(16:30) Liverpool - Manchester United</li>
+<li>(20:00) Brentford - Fulham</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -61,26 +57,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Fofana: An incredible feeling](https://chelseafc.com/en/news/article/fofana-an-incredible-feeling) (05 Mar)
-- [Bright: Our Chelsea pride keeps us hungry](https://chelseafc.com/en/news/article/bright-our-chelsea-pride-keeps-us-hungry) (05 Mar)
-- [Hayes on Kerr’s consistency, Kirby’s injury and Ingle’s honour](https://chelseafc.com/en/news/article/hayes-on-kerrs-consistency-kirbys-injury-and-ingles-honour) (05 Mar)
-- [Full Match: Chelsea 1-0 Leeds](https://chelseafc.com/en/video/full-match-chelsea-1-0-leeds) (05 Mar)
-- [Extended Highlights: Chelsea 1-0 Leeds United](https://chelseafc.com/en/video/extended-highlights-chelsea-1-0-leeds-united) (04 Mar)
+- [Potter keen to unleash Sterling on Dortmund](https://chelseafc.com/en/news/article/potter-keen-to-unleash-sterling-on-dortmund) (06 Mar)
+- [Hayes sees lack of Chelsea fire in final](https://chelseafc.com/en/news/article/hayes-sees-lack-of-chelsea-fire-in-cup-final) (05 Mar)
+- [Emma's post-match thoughts 🎬](https://chelseafc.com/en/video/hayes-post-match-conticupfinal-webapp.) (05 Mar)
+- [Report: Chelsea Women 1 Arsenal Women 3](https://chelseafc.com/en/news/article/cup-final-report-chelsea-women-1-arsenal-women-3) (05 Mar)
+- [Cup final team news: Chelsea Women vs Arsenal Women](https://chelseafc.com/en/news/article/cup-final-team-news-chelsea-women-vs-arsenal-women) (05 Mar)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > swan - noun: 1. Any of various long-necked large waterbirds, usually in white plumage. 2. Someone or something of unusual beauty, grace, purity, etc. verb intr.: 1. To move about in an idle, aimless way. 2. To declare or to swear.
+ > interpunction - noun: 1. Punctuation. 2. A punctuation mark. 3. The insertion of punctuation marks in a text.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 640, using [1, 6, 6, 6, 50, 100]
-- Solution: ( 100 - 6 x 6 ) x 50 / ( 6 - 1 )
-- Total: 2 solutions.
+- Target: 607, using [1, 5, 7, 8, 50, 100]
+- Solution: ( 100 + 50 ) x ( 8 + 1 - 5 ) + 7
+- Total: 17 solutions.
 
 <!-- game_marker ends -->
