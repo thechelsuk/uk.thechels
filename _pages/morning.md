@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 06 March 2023
+### Daily Rundown on Tuesday, 07 March 2023
 
-- The average temperature today is 7.35˚C;
-- With highs of 7.67˚C and lows of 1.56˚C.
-- You can expect light rain for the day.
+- The average temperature today is 3.71˚C;
+- With highs of 4.02˚C and lows of 0.67˚C.
+- You can expect rain and snow for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell swings
-- Bodyweight squats
+- Kettlebell rows
 - Calf raises
+- Shadow boxing
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
@@ -35,12 +36,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 87.41
-- V3AB.L : 3.9165
-- SPXP.L : 64428.0
-- IMID.L : 178.94
+- VWRL.L : 87.93
+- V3AB.L : 3.9405
+- SPXP.L : 64999.0
+- IMID.L : 180.73
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 244.97
+- 0P00013P6I.L : 246.8
 
 <!-- stocks_marker ends -->
 
@@ -49,7 +50,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Brentford - Fulham</li>
+<li>(20:00) Benfica - Club Bruges</li>
+<li>(20:00) Chelsea - Borussia Dortmund</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -57,26 +59,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Potter keen to unleash Sterling on Dortmund](https://chelseafc.com/en/news/article/potter-keen-to-unleash-sterling-on-dortmund) (06 Mar)
-- [Hayes sees lack of Chelsea fire in final](https://chelseafc.com/en/news/article/hayes-sees-lack-of-chelsea-fire-in-cup-final) (05 Mar)
-- [Emma's post-match thoughts 🎬](https://chelseafc.com/en/video/hayes-post-match-conticupfinal-webapp.) (05 Mar)
-- [Report: Chelsea Women 1 Arsenal Women 3](https://chelseafc.com/en/news/article/cup-final-report-chelsea-women-1-arsenal-women-3) (05 Mar)
-- [Cup final team news: Chelsea Women vs Arsenal Women](https://chelseafc.com/en/news/article/cup-final-team-news-chelsea-women-vs-arsenal-women) (05 Mar)
+- [Pat Nevin: What would be very useful against Dortmund tonight](https://chelseafc.com/en/news/article/pat-nevin-what-would-be-very-useful-against-dortmund-tonight) (07 Mar)
+- [Chelsea vs Dortmund: head-to-head record, stats, form, fixtures](https://chelseafc.com/en/news/article/chelsea-vs-dortmund-head-to-head-record-stats-form-fixtures) (07 Mar)
+- [Rock, paper, scissors ✂️](https://chelseafc.com/en/video/rock-paper-scissors-06-03-2023) (06 Mar)
+- ['It's a fantastic opportunity for us'](https://chelseafc.com/en/video/16x9-potter-pre-dortmund-h-ucl-2022-23) (06 Mar)
+- ['I feel free to play here the way I like'](https://chelseafc.com/en/video/joao-felix-press-conference-06-03-2023) (06 Mar)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > interpunction - noun: 1. Punctuation. 2. A punctuation mark. 3. The insertion of punctuation marks in a text.
+ > exuviate - verb tr., intr.: To shed or cast off.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 607, using [1, 5, 7, 8, 50, 100]
-- Solution: ( 100 + 50 ) x ( 8 + 1 - 5 ) + 7
+- Target: 487, using [1, 2, 4, 5, 7, 75]
+- Solution: ( 75 + 1 - 7 ) x ( 5 + 2 ) + 4
 - Total: 17 solutions.
 
 <!-- game_marker ends -->
