@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 07 March 2023
+### Daily Rundown on Wednesday, 08 March 2023
 
-- The average temperature today is 3.71˚C;
-- With highs of 4.02˚C and lows of 0.67˚C.
-- You can expect rain and snow for the day.
+- The average temperature today is 0.53˚C;
+- With highs of 0.9˚C and lows of 0.26˚C.
+- You can expect snow for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,29 +19,27 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
-- Calf raises
 - Shadow boxing
+- Bodyweight squats
+- Walking jacks
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 87.93
-- V3AB.L : 3.9405
-- SPXP.L : 64999.0
-- IMID.L : 180.73
+- VWRL.L : 87.84
+- V3AB.L : 3.935
+- SPXP.L : 64887.0
+- IMID.L : 177.995
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 246.8
+- 0P00013P6I.L : nan
 
 <!-- stocks_marker ends -->
 
@@ -50,8 +48,10 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Benfica - Club Bruges</li>
-<li>(20:00) Chelsea - Borussia Dortmund</li>
+<li>(19:15) Arsenal Women - Liverpool Women</li>
+<li>(19:30) Chelsea Women - Brighton & Hove Albion Women</li>
+<li>(20:00) Bayern Munich - Paris Saint Germain</li>
+<li>(20:00) Tottenham Hotspur - AC Milan</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -59,26 +59,24 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Pat Nevin: What would be very useful against Dortmund tonight](https://chelseafc.com/en/news/article/pat-nevin-what-would-be-very-useful-against-dortmund-tonight) (07 Mar)
-- [Chelsea vs Dortmund: head-to-head record, stats, form, fixtures](https://chelseafc.com/en/news/article/chelsea-vs-dortmund-head-to-head-record-stats-form-fixtures) (07 Mar)
-- [Rock, paper, scissors ✂️](https://chelseafc.com/en/video/rock-paper-scissors-06-03-2023) (06 Mar)
-- ['It's a fantastic opportunity for us'](https://chelseafc.com/en/video/16x9-potter-pre-dortmund-h-ucl-2022-23) (06 Mar)
-- ['I feel free to play here the way I like'](https://chelseafc.com/en/video/joao-felix-press-conference-06-03-2023) (06 Mar)
+- [Sterling: We knew we could do it](https://chelseafc.com/en/news/article/sterling-we-knew-we-could-do-it) (08 Mar)
+- [Highlights: Chelsea 2 Dortmund 0](https://chelseafc.com/en/video/chelsea-v-dortmund-2-0-or-highlights-or-champions-league) (08 Mar)
+- [Proud Potter praises players and supporters alike on special Stamford Bridge night](https://chelseafc.com/en/news/article/proud-potter-praises-players-supporters-on-special-stamford-bridge-night) (07 Mar)
+- [Chelsea FC commit to helping 5000 young girls into football](https://chelseafc.com/en/news/article/chelsea-fc-commit-to-helping-5000-young-girls-into-football) (07 Mar)
+- [Report: Chelsea 2 Dortmund 0 (2-1 on agg) - The Blues are through!](https://chelseafc.com/en/news/article/report-chelsea-2-dortmund-0-the-blues-are-through) (07 Mar)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > exuviate - verb tr., intr.: To shed or cast off.
+ > cyesis - noun: Pregnancy.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 487, using [1, 2, 4, 5, 7, 75]
-- Solution: ( 75 + 1 - 7 ) x ( 5 + 2 ) + 4
-- Total: 17 solutions.
+- Target: 663, using [1, 2, 3, 3, 5, 10]
 
 <!-- game_marker ends -->
