@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 08 March 2023
+### Daily Rundown on Thursday, 09 March 2023
 
-- The average temperature today is 0.53˚C;
-- With highs of 0.9˚C and lows of 0.26˚C.
-- You can expect snow for the day.
+- The average temperature today is 3.62˚C;
+- With highs of 6.56˚C and lows of 0.36˚C.
+- You can expect rain and snow for the day.
 
 <!-- weather_marker ends -->
 
@@ -21,7 +21,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 - Shadow boxing
 - Bodyweight squats
-- Walking jacks
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -34,12 +34,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 87.84
-- V3AB.L : 3.935
-- SPXP.L : 64887.0
-- IMID.L : 177.995
+- VWRL.L : 87.68
+- V3AB.L : 3.92875
+- SPXP.L : 64655.0
+- IMID.L : 177.57001
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : nan
+- 0P00013P6I.L : 247.44
 
 <!-- stocks_marker ends -->
 
@@ -48,35 +48,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:15) Arsenal Women - Liverpool Women</li>
-<li>(19:30) Chelsea Women - Brighton & Hove Albion Women</li>
-<li>(20:00) Bayern Munich - Paris Saint Germain</li>
-<li>(20:00) Tottenham Hotspur - AC Milan</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Sterling: We knew we could do it](https://chelseafc.com/en/news/article/sterling-we-knew-we-could-do-it) (08 Mar)
-- [Highlights: Chelsea 2 Dortmund 0](https://chelseafc.com/en/video/chelsea-v-dortmund-2-0-or-highlights-or-champions-league) (08 Mar)
-- [Proud Potter praises players and supporters alike on special Stamford Bridge night](https://chelseafc.com/en/news/article/proud-potter-praises-players-supporters-on-special-stamford-bridge-night) (07 Mar)
-- [Chelsea FC commit to helping 5000 young girls into football](https://chelseafc.com/en/news/article/chelsea-fc-commit-to-helping-5000-young-girls-into-football) (07 Mar)
-- [Report: Chelsea 2 Dortmund 0 (2-1 on agg) - The Blues are through!](https://chelseafc.com/en/news/article/report-chelsea-2-dortmund-0-the-blues-are-through) (07 Mar)
+- [Loftus-Cheek: Now let’s build on this!](https://chelseafc.com/en/news/article/loftus-cheek-now-lets-build-on-this) (09 Mar)
+- [Hayes proud of players' reaction and squad strength](https://chelseafc.com/en/news/article/hayes-proud-of-players-reaction-and-squad-strength) (08 Mar)
+- [Rytting Kaneryd on scoring her first goal for Chelsea Women](https://chelseafc.com/en/video/chelsea-women-v-brighton-women-3-1-or-rytting-kaneyrd-post-match-interview) (08 Mar)
+- [Player of the Match Cankovic gives her view on victory over Brighton](https://chelseafc.com/en/video/chelsea-women-v-brighton-women-3-1-or-cankovic-post-match-interview-or-fa) (08 Mar)
+- [Report: Chelsea Women 3 Brighton Women 1](https://chelseafc.com/en/news/article/report-chelsea-women-3-brighton-women-1) (08 Mar)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > cyesis - noun: Pregnancy.
+ > cogitate - verb tr., intr.: To think, reflect, meditate, etc.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 663, using [1, 2, 3, 3, 5, 10]
+- Target: 309, using [1, 2, 7, 9, 75, 100]
+- Solution: ( 100 - 75 ) x ( 7 - 1 ) x 2 + 9
+- Total: 14 solutions.
 
 <!-- game_marker ends -->
