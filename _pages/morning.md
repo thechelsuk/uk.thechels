@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 09 March 2023
+### Daily Rundown on Friday, 10 March 2023
 
-- The average temperature today is 3.62˚C;
-- With highs of 6.56˚C and lows of 0.36˚C.
+- The average temperature today is 1.76˚C;
+- With highs of 2.42˚C and lows of -2.18˚C.
 - You can expect rain and snow for the day.
 
 <!-- weather_marker ends -->
@@ -19,8 +19,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
 - Bodyweight squats
+- Calf raises
 - Kettlebell rows
 
 <!-- workout_marker ends -->
@@ -34,12 +34,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 87.68
-- V3AB.L : 3.92875
-- SPXP.L : 64655.0
-- IMID.L : 177.57001
+- VWRL.L : 87.21
+- V3AB.L : 3.903
+- SPXP.L : 64447.0
+- IMID.L : 177.505
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 247.44
+- 0P00013P6I.L : 246.34
 
 <!-- stocks_marker ends -->
 
@@ -55,26 +55,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Loftus-Cheek: Now let’s build on this!](https://chelseafc.com/en/news/article/loftus-cheek-now-lets-build-on-this) (09 Mar)
-- [Hayes proud of players' reaction and squad strength](https://chelseafc.com/en/news/article/hayes-proud-of-players-reaction-and-squad-strength) (08 Mar)
-- [Rytting Kaneryd on scoring her first goal for Chelsea Women](https://chelseafc.com/en/video/chelsea-women-v-brighton-women-3-1-or-rytting-kaneyrd-post-match-interview) (08 Mar)
-- [Player of the Match Cankovic gives her view on victory over Brighton](https://chelseafc.com/en/video/chelsea-women-v-brighton-women-3-1-or-cankovic-post-match-interview-or-fa) (08 Mar)
-- [Report: Chelsea Women 3 Brighton Women 1](https://chelseafc.com/en/news/article/report-chelsea-women-3-brighton-women-1) (08 Mar)
+- [Leicester vs Chelsea - the preview](https://chelseafc.com/en/news/article/leicester-vs-chelsea-the-preview) (10 Mar)
+- [Founders’ Day: The Birth of the Blues](https://chelseafc.com/en/news/article/founders-day-the-birth-of-the-blues) (10 Mar)
+- [Havertz & Sterling hold nerve as Blues through to QFs](https://chelseafc.com/en/video/havertz-and-sterling-hold-nerve-as-blues-through-to-qfs) (10 Mar)
+- [Leicester vs Chelsea: head-to-head record, stats, form, fixtures](https://chelseafc.com/en/news/article/leicester-vs-chelsea-head-to-head-record-stats-form-fixtures) (09 Mar)
+- [Exclusive: Marc Cucurella](https://chelseafc.com/en/video/230309-cucu-wt-16x9) (09 Mar)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > cogitate - verb tr., intr.: To think, reflect, meditate, etc.
+ > blatteroon - noun: A babbler.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 309, using [1, 2, 7, 9, 75, 100]
-- Solution: ( 100 - 75 ) x ( 7 - 1 ) x 2 + 9
-- Total: 14 solutions.
+- Target: 281, using [6, 9, 25, 50, 75, 100]
+- Solution: ( ( 75 - 50 ) x 100 - 25 ) / 9 + 6
+- Total: 21 solutions.
 
 <!-- game_marker ends -->
