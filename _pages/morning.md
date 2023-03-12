@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 11 March 2023
+### Daily Rundown on Sunday, 12 March 2023
 
-- The average temperature today is 5.07˚C;
-- With highs of 7.59˚C and lows of -1.38˚C.
+- The average temperature today is 11.46˚C;
+- With highs of 12.7˚C and lows of 6.05˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
+- Bench dips
+- Dead bugs
 - Bodyweight squats
-- Walking jacks
 
 <!-- workout_marker ends -->
 
@@ -48,12 +48,16 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Bournemouth - Liverpool</li>
-<li>(15:00) Everton - Brentford</li>
-<li>(15:00) Leeds United - Brighton & Hove Albion</li>
-<li>(15:00) Leicester City - Chelsea</li>
-<li>(15:00) Tottenham Hotspur - Nottingham Forest</li>
-<li>(17:30) Crystal Palace - Manchester City</li>
+<li>(12:30) Chelsea Women - Manchester United Women</li>
+<li>(14:00) Brighton & Hove Albion Women - Manchester City Women</li>
+<li>(14:00) Fulham - Arsenal</li>
+<li>(14:00) Liverpool Women - Tottenham Hotspur Women</li>
+<li>(14:00) Manchester United - Southampton</li>
+<li>(14:00) West Ham United - Aston Villa</li>
+<li>(15:00) Leicester City Women - Everton Women</li>
+<li>(15:00) West Ham United Women - Aston Villa Women</li>
+<li>(16:30) Newcastle United - Wolverhampton Wanderers</li>
+<li>(18:45) Arsenal Women - Reading Women</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -61,11 +65,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Koulibaly on dealing with criticism and building on back-to-back wins](https://chelseafc.com/en/news/article/koulibaly-on-dealing-with-criticism-and-building-on-back-to-back-wins) (11 Mar)
-- [Leicester vs Chelsea: Kovacic and Ndidi head-to-head](https://chelseafc.com/en/news/article/leicester-vs-chelsea-kovacic-and-ndidi-head-to-head) (11 Mar)
-- [Chelsea Women vs Man United Women preview: Kick-off time, where to watch live and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-man-united-women-preview-kick-off-time-where-to-watch-live) (11 Mar)
-- [PL2 preview: Relentless positive attitude as Kingsmeadow hosts Liverpool](https://chelseafc.com/en/news/article/pl2-preview-relentless-positive-attitude-as-kingsmeadow-hosts-liverpool) (11 Mar)
-- [Around the training ground with the Blues!](https://chelseafc.com/en/video/around-the-training-ground-with-the-blues) (10 Mar)
+- [Kovacic: We stepped up](https://chelseafc.com/en/news/article/kovacic-we-stepped-up) (12 Mar)
+- [Eriksson: 'There’s so much experience here'](https://chelseafc.com/en/news/article/eriksson-theres-so-much-experience-here) (12 Mar)
+- [How to keep former Blue and rest of Man U quiet](https://chelseafc.com/en/news/article/how-to-keep-former-blue-and-rest-of-man-u-quiet) (12 Mar)
+- [Full Match: Leicester 1-3 Chelsea](https://chelseafc.com/en/video/full-match-leicester-1-3-chelsea) (12 Mar)
+- [Extended: Leicester 1-3 Chelsea](https://chelseafc.com/en/video/extended-leicester-1-3-chelsea) (12 Mar)
 
 <!-- cfc_marker ends -->
 
@@ -79,8 +83,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 267, using [1, 7, 7, 8, 10, 75]
-- Solution: ( 75 + 8 + 7 - 1 ) x ( 10 - 7 )
-- Total: 8 solutions.
+- Target: 760, using [3, 4, 5, 8, 50, 75]
+- Solution: ( ( 75 + 50 ) x 3 + 5 ) x 8 / 4
+- Total: 33 solutions.
 
 <!-- game_marker ends -->
