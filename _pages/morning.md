@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 13 March 2023
+### Daily Rundown on Tuesday, 14 March 2023
 
-- The average temperature today is 10.75˚C;
-- With highs of 11.88˚C and lows of 5.49˚C.
-- You can expect light rain for the day.
+- The average temperature today is 6.58˚C;
+- With highs of 7.01˚C and lows of 1.62˚C.
+- You can expect rain and snow for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,27 +19,29 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
+- Calf raises
+- Dead bugs
 - Walking jacks
-- Bodyweight squats
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.12
-- V3AB.L : 3.79925
-- SPXP.L : 62559.5
-- IMID.L : 175.05499
+- VWRL.L : 83.22
+- V3AB.L : 3.72075
+- SPXP.L : 61378.0
+- IMID.L : 172.63
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 240.08
+- 0P00013P6I.L : 236.27
 
 <!-- stocks_marker ends -->
 
@@ -48,33 +50,35 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(20:00) FC Porto - Inter Milan</li>
+<li>(20:00) Manchester City - RB Leipzig</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Chilwell: Every game is a must-win now](https://chelseafc.com/en/news/article/chilwell-every-game-is-a-must-win-now) (13 Mar)
-- [Hayes proud of defensive performance](https://chelseafc.com/en/news/article/hayes-proud-of-defensive-performance) (12 Mar)
-- [Kerr's reaction to her goal! 🤩](https://chelseafc.com/en/video/kerrs-reaction-to-her-goal) (12 Mar)
-- [Hayes' post-match take!](https://chelseafc.com/en/video/hayes-post-match-take) (12 Mar)
-- [Report: Chelsea Women 1 Manchester United Women 0](https://chelseafc.com/en/news/article/report-chelsea-women-1-manchester-united-women-0) (12 Mar)
+- [Pat Nevin: My marks out of 10 for Leicester goals](https://chelseafc.com/en/news/article/pat-nevin-my-marks-out-of-10-for-leicester-goals) (14 Mar)
+- [Kerr and James collect London Football Awards](https://chelseafc.com/en/news/article/kerr-honoured-at-london-football-awards) (13 Mar)
+- [Sam Kerr worldie seals crucial Blues win - Matchday Unseen](https://chelseafc.com/en/video/sam-kerr-worldie-seals-crucial-blues-win-or-matchday-unseen) (13 Mar)
+- [Havertz pleased with win and enjoying free role](https://chelseafc.com/en/news/article/havertz-pleased-with-win-and-enjoying-free-role) (13 Mar)
+- [Chelsea coach Barry adds Portugal role](https://chelseafc.com/en/news/article/chelsea-coach-barry-adds-portugal-role) (13 Mar)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > aderation - noun: The act of giving a monetary value to something.
+ > saturnalian - adjective: Marked by unrestrained revelry, overindulgence, licentiousness, etc.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 718, using [3, 4, 4, 8, 10, 75]
-- Solution: 75 x 10 + 4 - ( 8 + 4 ) x 3
-- Total: 17 solutions.
+- Target: 283, using [1, 1, 9, 50, 75, 100]
+- Solution: ( 100 + 1 - 75 ) x 9 + 50 - 1
+- Total: 2 solutions.
 
 <!-- game_marker ends -->
