@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 14 March 2023
+### Daily Rundown on Wednesday, 15 March 2023
 
-- The average temperature today is 6.58˚C;
-- With highs of 7.01˚C and lows of 1.62˚C.
-- You can expect rain and snow for the day.
+- The average temperature today is 6.29˚C;
+- With highs of 7.13˚C and lows of -0.48˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,29 +19,27 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Calf raises
 - Dead bugs
+- Bench dips
 - Walking jacks
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 83.22
-- V3AB.L : 3.72075
-- SPXP.L : 61378.0
-- IMID.L : 172.63
+- VWRL.L : 84.005
+- V3AB.L : 3.75275
+- SPXP.L : 62011.0
+- IMID.L : 174.13499
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 236.27
+- 0P00013P6I.L : 233.72
 
 <!-- stocks_marker ends -->
 
@@ -50,8 +48,11 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) FC Porto - Inter Milan</li>
-<li>(20:00) Manchester City - RB Leipzig</li>
+<li>(19:00) Tottenham Hotspur Women - Leicester City Women</li>
+<li>(19:30) Brighton & Hove Albion - Crystal Palace</li>
+<li>(19:30) Southampton - Brentford</li>
+<li>(20:00) Napoli - Eintracht Frankfurt</li>
+<li>(20:00) Real Madrid - Liverpool</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -59,26 +60,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Pat Nevin: My marks out of 10 for Leicester goals](https://chelseafc.com/en/news/article/pat-nevin-my-marks-out-of-10-for-leicester-goals) (14 Mar)
-- [Kerr and James collect London Football Awards](https://chelseafc.com/en/news/article/kerr-honoured-at-london-football-awards) (13 Mar)
-- [Sam Kerr worldie seals crucial Blues win - Matchday Unseen](https://chelseafc.com/en/video/sam-kerr-worldie-seals-crucial-blues-win-or-matchday-unseen) (13 Mar)
-- [Havertz pleased with win and enjoying free role](https://chelseafc.com/en/news/article/havertz-pleased-with-win-and-enjoying-free-role) (13 Mar)
-- [Chelsea coach Barry adds Portugal role](https://chelseafc.com/en/news/article/chelsea-coach-barry-adds-portugal-role) (13 Mar)
+- [Big Interview: Fran Kirby & Ruben Loftus-Cheek](https://chelseafc.com/en/video/fran-kirby-and-ruben-loftus-cheek-or-in-depth-interview-or-games-for) (14 Mar)
+- [Exclusive: Kai Havertz](https://chelseafc.com/en/video/230314-havertz-wt-16x9) (14 Mar)
+- [Big Interview: Ben Chilwell 🎙](https://chelseafc.com/en/video/ben-chilwell-or-in-depth-interview-or-games-for-equality) (14 Mar)
+- [Chelsea set for FIFA Club World Cup 2025](https://chelseafc.com/en/news/article/chelsea-set-for-fifa-club-world-cup-2025) (14 Mar)
+- [Edouard Mendy returns to team training](https://chelseafc.com/en/news/article/edouard-mendy-returns-to-team-training) (14 Mar)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > saturnalian - adjective: Marked by unrestrained revelry, overindulgence, licentiousness, etc.
+ > bissextile - adjective: Relating to the leap year or the extra day in a leap year. noun: Leap year.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 283, using [1, 1, 9, 50, 75, 100]
-- Solution: ( 100 + 1 - 75 ) x 9 + 50 - 1
+- Target: 978, using [1, 1, 5, 8, 9, 100]
+- Solution: ( ( 8 - 1 ) x 9 + 100 ) x ( 5 + 1 )
 - Total: 2 solutions.
 
 <!-- game_marker ends -->
