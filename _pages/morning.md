@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 17 March 2023
+### Daily Rundown on Saturday, 18 March 2023
 
-- The average temperature today is 13.27˚C;
-- With highs of 14.04˚C and lows of 7.89˚C.
+- The average temperature today is 11.59˚C;
+- With highs of 12.15˚C and lows of 6.72˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,8 +19,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Kettlebell swings
 - Calf raises
-- Kettlebell rows
 - Plank
 
 <!-- workout_marker ends -->
@@ -34,12 +34,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 83.685
-- V3AB.L : 3.76625
-- SPXP.L : 62519.5
-- IMID.L : 173.145
-- 0P0001K1DP.L : nan
-- 0P00013P6I.L : 236.16
+- VWRL.L : 82.945
+- V3AB.L : 3.73025
+- SPXP.L : 61978.5
+- IMID.L : 172.32001
+- 0P0001K1DP.L : 12313.58008
+- 0P00013P6I.L : 237.78999
 
 <!-- stocks_marker ends -->
 
@@ -48,7 +48,12 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Nottingham Forest - Newcastle United</li>
+<li>(15:00) Aston Villa - Bournemouth</li>
+<li>(15:00) Brentford - Leicester City</li>
+<li>(15:00) Southampton - Tottenham Hotspur</li>
+<li>(15:00) Wolverhampton Wanderers - Leeds United</li>
+<li>(17:30) Chelsea - Everton</li>
+<li>(17:45) Manchester City - Burnley</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -56,11 +61,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Chelsea vs Everton: the preview](https://chelseafc.com/en/news/article/chelsea-vs-everton-the-preview) (17 Mar)
-- [Chelsea vs Everton: Cucurella and Mykolenko head-to-head](https://chelseafc.com/en/news/article/chelsea-vs-everton-cucurella-and-mykolenko-head-to-head) (17 Mar)
-- [PL2 preview: Robinson looks ahead to Everton test at Kingsmeadow](https://chelseafc.com/en/news/article/pl2-preview-robinson-looks-ahead-to-everton-test-at-kingsmeadow) (17 Mar)
-- [Chilwell exclusive and scandalous sending-off in Everton programme](https://chelseafc.com/en/news/article/chilwell-exclusive-and-scandalous-sending-off-in-everton-programme) (17 Mar)
-- [Morning walks with Enzo!](https://chelseafc.com/en/video/morning-walks-with-enzo) (16 Mar)
+- [Cucurella: I feel I’m ready to help Chelsea win](https://chelseafc.com/en/news/article/cucurella-i-feel-im-ready-to-help-chelsea-win) (18 Mar)
+- [Potter issues Mount injury England update](https://chelseafc.com/en/news/article/potter-issues-mount-injury-england-update) (17 Mar)
+- [Reading Women vs Chelsea Women preview: Kick-off time, where to watch live and more!](https://chelseafc.com/en/news/article/reading-women-vs-chelsea-women-preview-kick-off-time-where-to-watch-live) (17 Mar)
+- [PL2 report and highlights: Chelsea 1 Everton 1](https://chelseafc.com/en/news/article/pl2-report-chelsea-1-everton-1) (17 Mar)
+- [Training goes beyond the pitch at Cobham](https://chelseafc.com/en/video/training-goes-beyond-the-pitch-at-cobham) (17 Mar)
 
 <!-- cfc_marker ends -->
 
@@ -74,8 +79,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 133, using [1, 4, 9, 10, 50, 75]
-- Solution: 75 + 50 + 10 - ( 9 - 1 ) / 4
-- Total: 12 solutions.
+- Target: 243, using [1, 2, 3, 4, 5, 25]
+- Solution: ( 25 + 5 - 3 ) x ( 4 x 2 + 1 )
+- Total: 30 solutions.
 
 <!-- game_marker ends -->
