@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 18 March 2023
+### Daily Rundown on Sunday, 19 March 2023
 
-- The average temperature today is 11.59˚C;
-- With highs of 12.15˚C and lows of 6.72˚C.
-- You can expect light rain for the day.
+- The average temperature today is 9.28˚C;
+- With highs of 10.24˚C and lows of 3.63˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell swings
 - Calf raises
-- Plank
+- Walking jacks
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -48,12 +48,14 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(15:00) Aston Villa - Bournemouth</li>
-<li>(15:00) Brentford - Leicester City</li>
-<li>(15:00) Southampton - Tottenham Hotspur</li>
-<li>(15:00) Wolverhampton Wanderers - Leeds United</li>
-<li>(17:30) Chelsea - Everton</li>
-<li>(17:45) Manchester City - Burnley</li>
+<li>(12:00) Sheffield United - Blackburn Rovers</li>
+<li>(12:30) Lewes Women - Manchester United Women</li>
+<li>(14:00) Arsenal - Crystal Palace</li>
+<li>(14:00) Birmingham City Women - Brighton & Hove Albion Women</li>
+<li>(14:00) Reading Women - Chelsea Women</li>
+<li>(14:15) Brighton & Hove Albion - Grimsby Town</li>
+<li>(16:30) Manchester United - Fulham</li>
+<li>(18:00) Aston Villa Women - Manchester City Women</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -61,11 +63,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Cucurella: I feel I’m ready to help Chelsea win](https://chelseafc.com/en/news/article/cucurella-i-feel-im-ready-to-help-chelsea-win) (18 Mar)
-- [Potter issues Mount injury England update](https://chelseafc.com/en/news/article/potter-issues-mount-injury-england-update) (17 Mar)
-- [Reading Women vs Chelsea Women preview: Kick-off time, where to watch live and more!](https://chelseafc.com/en/news/article/reading-women-vs-chelsea-women-preview-kick-off-time-where-to-watch-live) (17 Mar)
-- [PL2 report and highlights: Chelsea 1 Everton 1](https://chelseafc.com/en/news/article/pl2-report-chelsea-1-everton-1) (17 Mar)
-- [Training goes beyond the pitch at Cobham](https://chelseafc.com/en/video/training-goes-beyond-the-pitch-at-cobham) (17 Mar)
+- [Chilwell disappointed with draw](https://chelseafc.com/en/news/article/chilwell-disappointed-with-draw) (19 Mar)
+- [Full Match: Chelsea 2-2 Everton](https://chelseafc.com/en/video/full-match-chelsea-2-2-everton) (19 Mar)
+- [Extended: Chelsea 2-2 Everton](https://chelseafc.com/en/video/extended-highlights-chelsea-2-2-everton) (19 Mar)
+- [Fleming: Not hard to be up for the cup](https://chelseafc.com/en/news/article/fleming-not-hard-to-be-up-for-the-cup) (19 Mar)
+- [Hayes: No time for Mother’s Day breakfast in bed](https://chelseafc.com/en/news/article/hayes-no-time-for-mothers-day-breakfast-in-bed) (19 Mar)
 
 <!-- cfc_marker ends -->
 
@@ -79,8 +81,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 243, using [1, 2, 3, 4, 5, 25]
-- Solution: ( 25 + 5 - 3 ) x ( 4 x 2 + 1 )
-- Total: 30 solutions.
+- Target: 169, using [1, 5, 8, 8, 8, 25]
+- Solution: ( 8 / 8 + 25 + 8 ) x 5 - 1
+- Total: 13 solutions.
 
 <!-- game_marker ends -->
