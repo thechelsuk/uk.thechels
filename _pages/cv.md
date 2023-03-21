@@ -36,13 +36,15 @@ _Seccl’s technology helps advisers, investment managers, and fintechs of all s
 
 ##### ENGINEERING MANAGER (June 2021 - Current)
 
-Started leading multiple squads in the investments and advice tribe with a focus on delivery, empowering and growing our engineers. Impelmented a role/skill matrix and used this during annual reviews - the first time anything like this was used in the company.
+Started leading multiple squads in the investments and advice tribe with a focus on delivery, empowering, and growing our engineers. Impelmented a role/skill matrix and used this during annual reviews - the first time anything like this was used in the company.
 
-Built a recruitment process and question set for various roles and formalised a fair and systematic approach to recruitment hiring 12 engineers in first 6 months. Involved in non-engineering hiring sessions to be support other hiring managers. Interviewed and hired peer and new manager.
+Built a recruitment process and question set for various roles and formalised a fair and systematic approach to recruitment hiring 12 engineers in first 6 months. Involved in non-engineering hiring sessions to support other hiring managers. Interviewed and hired peer, and involved in CTO and HoE hires.
 
-Currently leading the devops function a team responsible for the cloud infrastructure and support. Developed a roadmap to remove legacy cloud, poorly managed systems to managed services. Helped team deliver an automated client onboarding process reducing cycle time from approximately 6 hours to 3 minutes. Oversaw a DB upgrade well within deadlines and with little downtime nor customer detriment. Gave Technical debt and security greater gravitas within the organisation and helped contstruct a roadmap for remediation. Increased Team happiness metrics by 4 points (out of 10), 2.7 in wellness and 2.4 in overall engagemenmt, 7.1 in relationship with peers from 6 months to prior 6 months.
+Currently leading the devops capability, a team responsible for cloud infrastructure and developer enablement and support. Developed a roadmap to remove legacy cloud, poorly managed systems to managed services. Helped team deliver an automated client onboarding process reducing cycle time from approximately 6 hours to 3 minutes. Oversaw a DB upgrade well within deadlines and with no downtime nor customer detriment. Gave Technical debt and security greater gravitas within the organisation and helped contstruct a roadmap for remediation. Increased Team happiness metrics by 4 points (out of 10), 2.7 in wellness and 2.4 in overall engagemenmt, 7.1 in relationship with peers from 6 months to prior 6 months.
 
-Working towards a replacement of our custom-built legacy CI/CD process, remediation through a well-architected review and embedding DevOps engineers into cross-functional teams.
+Replaced custom-built legacy CI/CD process and Jenkins to GitHub actions, oversaw remediation through a well-architected review with AWS partner. Oversaw replacement of Kubernetes to ECR on Fargate - creating on demand infrastructure triggered by pull-requests reducing AWS costs by £1k per month.
+
+Led on the Trail and implementation DataDog, adding monitoring and observability capability for the first time, and led on transition to GitHub Enterprise and Advanced Security.
 
 #### Higher Education Statistics Agency
 
