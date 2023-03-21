@@ -8,43 +8,47 @@ seo: CV of Mat Benfield
 
 ### Personal Profile
 
-Passionate and experienced Engineering Manager / Head of Software Development with a focus on agile methodologies and delivering value. A leader and catalyst for change. Attends local meet-ups and "geek nights" to further extend knowledge and be a member of the development community. A 'driver' with a focus on task management and delivery through people development
-
-Keen non-elite runner, achieving 1200 miles to raise over £1200 for Acorns Hospice in 2019, including 4 races in 5 weekends in October. Member of local running club and parkrun volunteer.
+Passionate and experienced Engineering Manager / Head of Software Development with a focus on agile methodologies and delivering value. A leader and catalyst for change. Attends local meet-ups and "geek nights" to further extend knowledge and be a member of the development community. A 'driver' with a focus on task management and delivery through people development.
 
 Created, published, and managed football statistics website (WordPress, PHP, MySQL) and twitter account which oversaw organic growth to peak 175,000 followers and global reach.
 
-Latest personal project was to redesign running club website using Jekyll, a static site generator on Ruby hosted on GitHub pages. Although for work I have been hands-off from code for around 3 years.
+Latest personal project was to redesign running club website using Jekyll, a static site generator on Ruby hosted on GitHub pages. Although for work I have been and prefer a hands-off from code for around 5 years.
+
+Seeking hands-off people-focused leadership role in fast paced environement.
 
 ### Core Skills
 
-- Methodologies - Shape-up, Scrum, Kanban, Waterfall
+- Methodologies - Shape-up, Scrum, Kanban, Waterfall, XP, TDD, Ensemble
 - Stack: C# .Net, MVC, nuget, Azure, Oracle
-- Languages: C#, SQL, XML, PHP, HTML, CSS, JavaScript, Markdown, Ruby, Jekyll, Python, Sass, TypeScript
+- Languages: C#, SQL, XML, PHP, HTML, CSS, JavaScript, Markdown, Ruby, Jekyll, Python, Sass, TypeScript, NodeJS
 - Testing: TDD, Nunit, Moq, Specflow/Cucumber, Selenium Web driver, pytest
 - Source Control: TFS, Azure DevOps, Git, GitHub, subversion, CVS
 - Cloud: AWS, Azure
 - Database: MySQL, Oracle, SQL Server, MongoDB
-- Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress, Mural, Confluence, Jira, Airtable.
+- Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress, Mural, Confluence, Jira, Airtable, Code Climate, DataDog
 - OS : Mac, Windows
 
 ### Employment History
 
 #### Seccl
 
-_Seccl’s technology helps advisers, investment managers, and fintechs of all sizes to operate their own investment platform. Seccl are an API first technology company operating in the wealth management, financial services sector._
+_Seccl’s technology helps advisers, investment managers, and fintechs of all sizes to operate their own investment platform. Seccl are an API first technology company operating in the wealth management, financial services sector as part of the Octopus Group._
 
 ##### ENGINEERING MANAGER (June 2021 - Current)
 
-Started leading multiple squads in the investments and advice tribe with a focus on delivery, empowering, and growing our engineers. Impelmented a role/skill matrix and used this during annual reviews - the first time anything like this was used in the company.
-
-Built a recruitment process and question set for various roles and formalised a fair and systematic approach to recruitment hiring 12 engineers in first 6 months. Involved in non-engineering hiring sessions to support other hiring managers. Interviewed and hired peer, and involved in CTO and HoE hires.
+Started leading multiple squads in the Investments and Advice tribe with a focus on delivery, empowering, and growing our engineers. Impelmented a role/skill matrix and used this during annual reviews - the first time anything like this was used in the company, acted as head of engineering during a senior/c-suite leadership change and aided recruitment of new CTO and HoE.
 
 Currently leading the devops capability, a team responsible for cloud infrastructure and developer enablement and support. Developed a roadmap to remove legacy cloud, poorly managed systems to managed services. Helped team deliver an automated client onboarding process reducing cycle time from approximately 6 hours to 3 minutes. Oversaw a DB upgrade well within deadlines and with no downtime nor customer detriment. Gave Technical debt and security greater gravitas within the organisation and helped contstruct a roadmap for remediation. Increased Team happiness metrics by 4 points (out of 10), 2.7 in wellness and 2.4 in overall engagemenmt, 7.1 in relationship with peers from 6 months to prior 6 months.
 
-Replaced custom-built legacy CI/CD process and Jenkins to GitHub actions, oversaw remediation through a well-architected review with AWS partner. Oversaw replacement of Kubernetes to ECR on Fargate - creating on demand infrastructure triggered by pull-requests reducing AWS costs by £1k per month.
+###### Key achievements and projects
 
-Led on the Trail and implementation DataDog, adding monitoring and observability capability for the first time, and led on transition to GitHub Enterprise and Advanced Security.
+- built a recruitment process and question set for various roles and formalised a fair and systematic approach to recruitment hiring 12 engineers in first 6 months
+- involved in non-engineering hiring sessions to support other hiring managers. Interviewed and hired peer, and involved in CTO and HoE hires.
+- led on transition to GitHub Enterprise and Advanced Security.
+- led on the Trail and implementation DataDog, adding monitoring and observability capability for the first time
+- replaced custom-built legacy CI/CD process and Jenkins to GitHub actions.
+- oversaw remediation through a well-architected review with AWS partner. 
+- oversaw replacement of Kubernetes to ECR on Fargate - creating on demand infrastructure triggered by pull-requests reducing AWS costs by £1k per month.
 
 #### Higher Education Statistics Agency
 
@@ -142,4 +146,4 @@ _Database management systems, systems analysis and design, computer management, 
 #### North Leamington School & Binswood 6th Form
 
 - 2 A Levels in Psychology and general studies, BTEC in Business Studies.
-- 10 GCSEs including English (double), Science (double), Maths, French, Spanish and Geography
+- 10 GCSEs including English (double), Science (double), Maths, French, Spanish, and Geography
