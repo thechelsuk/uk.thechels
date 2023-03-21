@@ -26,7 +26,7 @@ Seeking hands-off people-focused leadership role in fast paced environment.
 - Cloud: AWS, Azure
 - Database: MySQL, Oracle, SQL Server, MongoDB
 - Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress, Mural, Confluence, Jira, Airtable, Code Climate, DataDog
-- OS : Mac, Windows
+- OS: Mac, Windows
 
 ### Employment History
 
