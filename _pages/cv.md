@@ -8,13 +8,13 @@ seo: CV of Mat Benfield
 
 ### Personal Profile
 
-Passionate and experienced Engineering Manager / Head of Software Development with a focus on agile methodologies and delivering value. A leader and catalyst for change. Attends local meet-ups and "geek nights" to further extend knowledge and be a member of the development community. A 'driver' with a focus on task management and delivery through people development.
+Passionate and experienced Engineering Manager / Head of Software Development with a focus on agile methodologies and delivering value. A leader and catalyst for change. Attends local meetups and "geek nights" to further extend knowledge and be a member of the development community. A 'driver' with a focus on task management and delivery through people development.
 
 Created, published, and managed football statistics website (WordPress, PHP, MySQL) and twitter account which oversaw organic growth to peak 175,000 followers and global reach.
 
 Latest personal project was to redesign running club website using Jekyll, a static site generator on Ruby hosted on GitHub pages. Although for work I have been and prefer a hands-off from code for around 5 years.
 
-Seeking hands-off people-focused leadership role in fast paced environement.
+Seeking hands-off people-focused leadership role in fast paced environment.
 
 ### Core Skills
 
