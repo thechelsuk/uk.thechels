@@ -8,13 +8,13 @@ seo: CV of Mat Benfield
 
 ### Personal Profile
 
-Passionate and experienced Engineering Manager / Head of Software Development with a focus on agile methodologies and delivering value. A leader and catalyst for change. Attends local meetups and "geek nights" to further extend knowledge and be a member of the development community. A 'driver' with a focus on task management and delivery through people development.
+Passionate and experienced Engineering Manager / Head of Software Development seeking hands-off people-focused leadership role in fast paced environment.
+
+A leader and catalyst for change with a focus on agile methodologies, attends local meetups and "geek nights" to further extend knowledge and be a member of the development community. A 'driver' with a focus on task management and delivery through people development.
 
 Created, published, and managed football statistics website (WordPress, PHP, MySQL) and twitter account which oversaw organic growth to peak 175,000 followers and global reach.
 
 Latest personal project was to redesign running club website using Jekyll, a static site generator on Ruby hosted on GitHub pages. Although for work I have been and prefer a hands-off from code for around 5 years.
-
-Seeking hands-off people-focused leadership role in fast paced environment.
 
 ### Core Skills
 
@@ -36,14 +36,14 @@ _Seccl’s technology helps advisers, investment managers, and fintechs of all s
 
 ##### ENGINEERING MANAGER (June 2021 - Current)
 
-Started leading multiple squads in the Investments and Advice tribe with a focus on delivery, empowering, and growing our engineers. Impelmented a role/skill matrix and used this during annual reviews - the first time anything like this was used in the company, acted as head of engineering during a senior/c-suite leadership change and aided recruitment of new CTO and HoE.
+Started leading multiple squads in the Investments and Advice tribe with a focus on delivery, empowering, and growing our engineers. Implemented a role/skill matrix and used this during annual reviews - the first time anything like this was used in the company, acted as head of engineering during a senior/c-suite leadership change and aided recruitment of new CTO and HoE.
 
-Currently leading the devops capability, a team responsible for cloud infrastructure and developer enablement and support. Developed a roadmap to remove legacy cloud, poorly managed systems to managed services. Helped team deliver an automated client onboarding process reducing cycle time from approximately 6 hours to 3 minutes. Oversaw a DB upgrade well within deadlines and with no downtime nor customer detriment. Gave Technical debt and security greater gravitas within the organisation and helped contstruct a roadmap for remediation. Increased Team happiness metrics by 4 points (out of 10), 2.7 in wellness and 2.4 in overall engagemenmt, 7.1 in relationship with peers from 6 months to prior 6 months.
+Currently leading the devops capability, a team responsible for cloud infrastructure and developer enablement and support. Developed a roadmap to remove legacy cloud, poorly managed systems to managed services. Helped team deliver an automated client onboarding process reducing cycle time from approximately 6 hours to 3 minutes. Oversaw a DB upgrade well within deadlines and with no downtime nor customer detriment. Gave Technical debt and security greater gravitas within the organisation and helped construct a roadmap for remediation. Increased Team happiness metrics by 4 points (out of 10), 2.7 in wellness and 2.4 in overall engagement, 7.1 in relationship with peers from 6 months to prior 6 months.
 
 ###### Key achievements and projects
 
 - built a recruitment process and question set for various roles and formalised a fair and systematic approach to recruitment hiring 12 engineers in first 6 months
-- involved in non-engineering hiring sessions to support other hiring managers. Interviewed and hired peer, and involved in CTO and HoE hires.
+- involved in non-engineering hiring sessions to support other hiring managers. Interviewed and hired peer and involved in CTO and HoE hires.
 - led on transition to GitHub Enterprise and Advanced Security.
 - led on the Trail and implementation DataDog, adding monitoring and observability capability for the first time
 - replaced custom-built legacy CI/CD process and Jenkins to GitHub actions.
