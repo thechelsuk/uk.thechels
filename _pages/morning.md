@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 21 March 2023
+### Daily Rundown on Wednesday, 22 March 2023
 
-- The average temperature today is 12.45˚C;
-- With highs of 12.45˚C and lows of 9.19˚C.
-- You can expect light rain for the day.
+- The average temperature today is 11.28˚C;
+- With highs of 12.06˚C and lows of 7.98˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,29 +19,27 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
+- Kettlebell rows
 - Dead bugs
-- Bodyweight squats
+- Shadow boxing
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 82.76
-- V3AB.L : 3.72025
-- SPXP.L : 61631.0
-- IMID.L : 173.22
+- VWRL.L : 84.165
+- V3AB.L : 3.78825
+- SPXP.L : 62761.0
+- IMID.L : 175.42999
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 233.7
+- 0P00013P6I.L : 236.33
 
 <!-- stocks_marker ends -->
 
@@ -57,26 +55,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Pat Nevin: That’s why I could never be a top-level manager](https://chelseafc.com/en/news/article/pat-nevin-thats-why-i-could-never-be-a-top-level-manager) (21 Mar)
-- [Lyon Feminines vs Chelsea Women preview: Kick-off time, where to watch live and more!](https://chelseafc.com/en/news/article/lyon-feminines-vs-chelsea-women-preview-kick-off-time-where-to-watch-live) (21 Mar)
-- [Getting stronger each day! 💪](https://chelseafc.com/en/video/getting-stronger-everyday) (20 Mar)
-- [Pulisic: We'll keep fighting for top four](https://chelseafc.com/en/news/article/pulisic-well-keep-fighting-for-top-four) (20 Mar)
-- [Women's FA Cup highlights](https://chelseafc.com/en/video/reading-vs-chelsea-1-3-or-highlights-or-womens-fa-cup) (20 Mar)
+- [Leupolz ready for physical game on the big stage](https://chelseafc.com/en/news/article/leupolz-ready-for-physical-game-on-the-big-stage) (22 Mar)
+- [Hayes: We're ready for a wonderful opportunity](https://chelseafc.com/en/news/article/hayes-were-ready-for-a-wonderful-opportunity) (21 Mar)
+- [Hayes and Leupolz face the media 🎙️](https://chelseafc.com/en/video/emma-hayes-and-melanie-leupolz-face-the-media-20230321) (21 Mar)
+- [Squad of 21 Chelsea Women land in Lyon](https://chelseafc.com/en/news/article/squad-of-21-chelsea-women-land-in-lyon) (21 Mar)
+- [Listed - Chelsea’s unbeaten run in March](https://chelseafc.com/en/news/article/listed-chelseas-unbeaten-run-in-march) (21 Mar)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > canterbury - noun: A rack with open top and slatted partitions for magazines, sheet music, documents, etc.
+ > helotage - noun: A state of servitude or bondage.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 533, using [5, 8, 8, 8, 50, 100]
-- Solution: ( 100 + 8 + 8 - 50 ) x 8 + 5
-- Total: 4 solutions.
+- Target: 197, using [2, 4, 7, 7, 8, 50]
+- Solution: ( 50 + 8 + 7 ) x ( 7 - 4 ) + 2
+- Total: 23 solutions.
 
 <!-- game_marker ends -->
