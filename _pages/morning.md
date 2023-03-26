@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 25 March 2023
+### Daily Rundown on Sunday, 26 March 2023
 
-- The average temperature today is 11.3˚C;
-- With highs of 12.19˚C and lows of 6.94˚C.
-- You can expect light rain for the day.
+- The average temperature today is 6.22˚C;
+- With highs of 8.15˚C and lows of 2.76˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,8 +19,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Shadow boxing
 - Kettlebell swings
-- Calf raises
 - Dead bugs
 
 <!-- workout_marker ends -->
@@ -48,8 +48,9 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(15:00) Tottenham Hotspur Women - Arsenal Women</li>
-<li>(17:30) Manchester United Women - West Ham United Women</li>
+<li>(12:40) Manchester City Women - Chelsea Women</li>
+<li>(14:00) Aston Villa Women - Leicester City Women</li>
+<li>(14:00) Reading Women - Brighton & Hove Albion Women</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -57,11 +58,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Why do Chelsea send goalkeepers on loan to non-league?](https://chelseafc.com/en/news/article/why-do-chelsea-send-goalkeepers-on-loan-to-non-league) (25 Mar)
-- [Man City Women vs Chelsea Women preview: Kick-off time, where to watch live and more!](https://chelseafc.com/en/news/article/man-city-women-vs-chelsea-women-preview-kick-off-time-where-to-watch-live) (25 Mar)
-- [Internationals: Comfortable win for Koulibaly; Lukaku treble](https://chelseafc.com/en/news/article/internationals-comfortable-win-for-koulibaly-lukaku-treble) (24 Mar)
-- [Hayes on Man City’s threat and managing this run of big games](https://chelseafc.com/en/news/article/hayes-on-man-citys-threat-and-managing-this-run-of-big-games) (24 Mar)
-- [N'Golo Kante plays an hour in friendly](https://chelseafc.com/en/news/article/ngolo-kante-plays-an-hour-in-friendly) (24 Mar)
+- [Shevchenko backs Mudryk to be a hit](https://chelseafc.com/en/news/article/shevchenko-backs-mudryk-to-be-a-hit) (26 Mar)
+- [Cuthbert: Time to focus on City challenge](https://chelseafc.com/en/news/article/cuthbert-time-to-focus-on-city-challenge) (26 Mar)
+- [Internationals: Wins for Kepa and Havertz](https://chelseafc.com/en/news/article/internationals-wins-for-kepa-and-havertz) (25 Mar)
+- [Internationals: Madueke on target in England Under-21 win](https://chelseafc.com/en/news/article/internationals-madueke-on-target-in-england-under-21-win) (25 Mar)
+- [Hayes talks principles, motivation and progression](https://chelseafc.com/en/news/article/hayes-talks-principles-motivation-and-progression) (25 Mar)
 
 <!-- cfc_marker ends -->
 
@@ -75,6 +76,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 398, using [9, 9, 9, 25, 50, 100]
+- Target: 328, using [1, 1, 2, 25, 50, 100]
+- Solution: ( 100 + 50 + 1 ) x 2 + 25 + 1
+- Total: 5 solutions.
 
 <!-- game_marker ends -->
