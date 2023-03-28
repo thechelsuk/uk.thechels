@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 27 March 2023
+### Daily Rundown on Tuesday, 28 March 2023
 
-- The average temperature today is 7.84˚C;
-- With highs of 7.96˚C and lows of 2.77˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 8.3˚C;
+- With highs of 9.89˚C and lows of 3.91˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,27 +19,29 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Plank
 - Shadow boxing
-- Walking jacks
 - Calf raises
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 83.33
-- V3AB.L : 3.74925
-- SPXP.L : 61959.0
-- IMID.L : 173.88
+- VWRL.L : 83.81
+- V3AB.L : 3.77375
+- SPXP.L : 62400.0
+- IMID.L : 175.425
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 236.69
+- 0P00013P6I.L : 236.89999
 
 <!-- stocks_marker ends -->
 
@@ -55,26 +57,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Internationals: Joao Felix scores in big Portugal win](https://chelseafc.com/en/news/article/internationals-joao-felix-scores-in-big-portugal-win) (26 Mar)
-- [Internationals: Three Blues feature as England beat Ukraine](https://chelseafc.com/en/news/article/internationals-chilwell-gallagher-mudryk-feature-as-england-beat-ukraine) (26 Mar)
-- [Hayes reflects on City loss and updates on Cuthbert and Bright](https://chelseafc.com/en/news/article/hayes-reflects-on-city-loss-and-updates-on-cuthbert-and-bright) (26 Mar)
-- [Eriksson’s assesment 🎤](https://chelseafc.com/en/video/man-city-v-chelsea-2-0-or-eriksson-post-match-interview-or-fa-wsl) (26 Mar)
-- [Report: Man City Women 2 Chelsea Women 0](https://chelseafc.com/en/news/article/report-man-city-women-2-chelsea-women-0) (26 Mar)
+- [Pat Nevin: Why Gallagher’s energy and attitude are invaluable](https://chelseafc.com/en/news/article/pat-nevin-why-gallaghers-energy-and-attitude-are-invaluable) (28 Mar)
+- [Exclusive: Marcus Bettinelli](https://chelseafc.com/en/video/exclusive-marcus-bettinelli-27-03-2023) (27 Mar)
+- [Internationals: Castledine creates England Under-18s winner](https://chelseafc.com/en/news/article/internationals-castledine-creates-england-under-18s-winner) (27 Mar)
+- [Bettinelli remains a Blue](https://chelseafc.com/en/news/article/bettinelli-remains-a-blue) (27 Mar)
+- [On The Road with trivago 🚌](https://chelseafc.com/en/video/gallagher-joins-up-with-aubameyang-on-the-road-with-trivago) (27 Mar)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > trochilic - adjective: Relating to the wheel or the rotary motion.
+ > rotiform - adjective: Wheel-shaped.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 998, using [6, 8, 10, 50, 75, 100]
-- Solution: ( 100 + 75 - 10 ) x 6 + 8
-- Total: 13 solutions.
+- Target: 136, using [1, 1, 2, 10, 25, 50]
+- Solution: ( 25 + 2 ) x 50 / 10 + 1
+- Total: 7 solutions.
 
 <!-- game_marker ends -->
