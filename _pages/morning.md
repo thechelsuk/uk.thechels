@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 28 March 2023
+### Daily Rundown on Wednesday, 29 March 2023
 
-- The average temperature today is 8.3˚C;
-- With highs of 9.89˚C and lows of 3.91˚C.
-- You can expect light rain for the day.
+- The average temperature today is 12.31˚C;
+- With highs of 13.3˚C and lows of 8.35˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -20,28 +20,26 @@ seo: Good Morning Mat, Here is your daily briefing
 3x AMRAP for 45 seconds, 15 second rest:
 
 - Plank
-- Shadow boxing
-- Calf raises
+- Kettlebell swings
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 83.81
-- V3AB.L : 3.77375
-- SPXP.L : 62400.0
-- IMID.L : 175.425
+- VWRL.L : 83.47
+- V3AB.L : 3.7565
+- SPXP.L : 61900.0
+- IMID.L : 175.82001
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 236.89999
+- 0P00013P6I.L : 236.64
 
 <!-- stocks_marker ends -->
 
@@ -57,26 +55,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Pat Nevin: Why Gallagher’s energy and attitude are invaluable](https://chelseafc.com/en/news/article/pat-nevin-why-gallaghers-energy-and-attitude-are-invaluable) (28 Mar)
-- [Exclusive: Marcus Bettinelli](https://chelseafc.com/en/video/exclusive-marcus-bettinelli-27-03-2023) (27 Mar)
-- [Internationals: Castledine creates England Under-18s winner](https://chelseafc.com/en/news/article/internationals-castledine-creates-england-under-18s-winner) (27 Mar)
-- [Bettinelli remains a Blue](https://chelseafc.com/en/news/article/bettinelli-remains-a-blue) (27 Mar)
-- [On The Road with trivago 🚌](https://chelseafc.com/en/video/gallagher-joins-up-with-aubameyang-on-the-road-with-trivago) (27 Mar)
+- [Chelsea Women vs Lyon Féminin preview: Kick-off time, where to watch live and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-lyon-feminin-preview-kick-off-time-where-to-watch-live-and) (29 Mar)
+- [Quiz: Can you name all of Vialli’s League Cup winners?](https://chelseafc.com/en/news/article/quiz-can-you-name-all-of-viallis-league-cup-winners) (29 Mar)
+- [Internationals: Kovacic goals secure Croatia win](https://chelseafc.com/en/news/article/internationals-kovacic-goals-secure-croatia-win) (28 Mar)
+- [Ten Questions with… Ruben Loftus-Cheek](https://chelseafc.com/en/news/article/ten-questions-with-ruben-loftus-cheek) (28 Mar)
+- [Sterling returns to Chelsea training](https://chelseafc.com/en/news/article/sterling-returns-to-chelsea-training) (28 Mar)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > rotiform - adjective: Wheel-shaped.
+ > zodiac - noun: 1. A circular diagram with 12 parts, each named after a constellation, used in astrology. 2. A circle, circuit, etc.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 136, using [1, 1, 2, 10, 25, 50]
-- Solution: ( 25 + 2 ) x 50 / 10 + 1
-- Total: 7 solutions.
+- Target: 792, using [1, 4, 8, 10, 25, 50]
+- Solution: ( 50 + 25 + 1 - 10 ) x ( 8 + 4 )
+- Total: 22 solutions.
 
 <!-- game_marker ends -->
