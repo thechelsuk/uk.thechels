@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 01 April 2023
+### Daily Rundown on Wednesday, 05 April 2023
 
-- The average temperature today is 9.55˚C;
-- With highs of 9.55˚C and lows of 6.93˚C.
-- You can expect moderate rain for the day.
+- The average temperature today is 6.32˚C;
+- With highs of 8.35˚C and lows of 3.67˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell swings
-- Walking jacks
-- Dead bugs
+- Kettlebell rows
+- Calf raises
+- Bench dips
 
 <!-- workout_marker ends -->
 
@@ -34,12 +34,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.525
-- V3AB.L : 3.8405
-- SPXP.L : 63464.0
-- IMID.L : 180.735
+- VWRL.L : 85.08
+- V3AB.L : 3.80925
+- SPXP.L : 63177.0
+- IMID.L : 181.53999
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 240.85001
+- 0P00013P6I.L : 241.13
 
 <!-- stocks_marker ends -->
 
@@ -48,14 +48,8 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(11:30) Brighton & Hove Albion Women - Manchester United Women</li>
-<li>(12:30) Manchester City - Liverpool</li>
-<li>(15:00) Arsenal - Leeds United</li>
-<li>(15:00) Bournemouth - Fulham</li>
-<li>(15:00) Brighton & Hove Albion - Brentford</li>
-<li>(15:00) Crystal Palace - Leicester City</li>
-<li>(15:00) Nottingham Forest - Wolverhampton Wanderers</li>
-<li>(17:30) Chelsea - Aston Villa</li>
+<li>(20:00) Manchester United - Brentford</li>
+<li>(20:00) West Ham United - Newcastle United</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -63,26 +57,24 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [‘After bad times you’ll see the sun again’ – Havertz on charity work and Chelsea progress](https://chelseafc.com/en/news/article/after-bad-times-youll-see-the-sun-again-havertz-on-charity-work-and-chelsea) (01 Apr)
-- [Potter: It’s complicated but I have huge respect for Mount and Kovacic](https://chelseafc.com/en/news/article/potter-its-complicated-but-i-have-huge-respect-for-mount-and-kovacic) (01 Apr)
-- [Aston Villa Women vs Chelsea Women preview: Kick-off time, where to watch live and more!](https://chelseafc.com/en/news/article/aston-villa-women-vs-chelsea-women-preview-where-to-watch-live) (01 Apr)
-- [Chelsea vs Aston Villa press conference: Potter reveals Pulisic concern but Mount, Kante, Havertz and James in contention](https://chelseafc.com/en/news/article/chelsea-vs-aston-villa-press-conference-potter-reveals-mount-kante-havertz) (31 Mar)
-- [The Chelsea Insider: Play Predictor tips!](https://chelseafc.com/en/news/article/the-chelsea-insider-play-predictor-tips) (31 Mar)
+- [Havertz rues small margins](https://chelseafc.com/en/news/article/havertz-rues-small-margins) (05 Apr)
+- [Full Match: Chelsea 0-0 Liverpool](https://chelseafc.com/en/video/full-match-chelsea-0-0-liverpool) (05 Apr)
+- [Wesley Fofana's post-match thoughts](https://chelseafc.com/en/video/wesley-fofana-post-match-thoughts) (04 Apr)
+- [Bruno: The boys gave everything, they played with their heart](https://chelseafc.com/en/news/article/bruno-the-boys-gave-everything-they-played-with-their-heart) (04 Apr)
+- [Bruno's post-match interview 🎙️](https://chelseafc.com/en/video/saltors-post-match-interview) (04 Apr)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > encyclical - noun: An official letter. adjective: For wide circulation.
+ > mononymous - adjective: Having or known by a name consisting of only one word.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 454, using [1, 3, 6, 25, 50, 100]
-- Solution: ( 100 + 25 - 50 ) x 6 + 3 + 1
-- Total: 10 solutions.
+- Target: 843, using [4, 5, 10, 25, 50, 75]
 
 <!-- game_marker ends -->
