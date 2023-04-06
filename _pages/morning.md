@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 05 April 2023
+### Daily Rundown on Thursday, 06 April 2023
 
-- The average temperature today is 6.32˚C;
-- With highs of 8.35˚C and lows of 3.67˚C.
+- The average temperature today is 10.65˚C;
+- With highs of 11.12˚C and lows of 3.93˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Kettlebell swings
 - Kettlebell rows
-- Calf raises
-- Bench dips
+- Bodyweight squats
 
 <!-- workout_marker ends -->
 
@@ -34,12 +34,12 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.08
-- V3AB.L : 3.80925
-- SPXP.L : 63177.0
-- IMID.L : 181.53999
+- VWRL.L : 84.74
+- V3AB.L : 3.79075
+- SPXP.L : 62960.5
+- IMID.L : 180.22
 - 0P0001K1DP.L : nan
-- 0P00013P6I.L : 241.13
+- 0P00013P6I.L : 240.59
 
 <!-- stocks_marker ends -->
 
@@ -48,33 +48,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Manchester United - Brentford</li>
-<li>(20:00) West Ham United - Newcastle United</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Havertz rues small margins](https://chelseafc.com/en/news/article/havertz-rues-small-margins) (05 Apr)
-- [Full Match: Chelsea 0-0 Liverpool](https://chelseafc.com/en/video/full-match-chelsea-0-0-liverpool) (05 Apr)
-- [Wesley Fofana's post-match thoughts](https://chelseafc.com/en/video/wesley-fofana-post-match-thoughts) (04 Apr)
-- [Bruno: The boys gave everything, they played with their heart](https://chelseafc.com/en/news/article/bruno-the-boys-gave-everything-they-played-with-their-heart) (04 Apr)
-- [Bruno's post-match interview 🎙️](https://chelseafc.com/en/video/saltors-post-match-interview) (04 Apr)
+- [Enzo: This is how I like to play](https://chelseafc.com/en/news/articlehttps://chelseafc.com/enzo-this-is-how-i-like-to-play-web) (06 Apr)
+- [Wolves vs Chelsea: Where to watch, TV channel, kick-off time, date](https://chelseafc.com/en/news/article/wolves-vs-chelsea-where-to-watch-tv-channel-kick-off-time-date) (06 Apr)
+- [Matchday Unseen 🎥](https://chelseafc.com/en/video/matchday-unseen-05-04-2023) (05 Apr)
+- [Fofana: We must stick together and play for the badge](https://chelseafc.com/en/news/article/fofana-we-must-stick-together-and-play-for-the-badge) (05 Apr)
+- [Chelsea vs Liverpool analysis: Shift in shape lets Enzo and Joao Felix run the show](https://chelseafc.com/en/news/article/chelsea-vs-liverpool-analysis-shift-in-shape-lets-enzo-and-joao-felix-run) (05 Apr)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > mononymous - adjective: Having or known by a name consisting of only one word.
+ > noctivagant - noun: One who wanders in the night. adjective: Wandering in the night.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 843, using [4, 5, 10, 25, 50, 75]
+- Target: 731, using [1, 3, 5, 9, 9, 50]
+- Solution: 50 x 5 x 3 - 9 - 9 - 1
+- Total: 2 solutions.
 
 <!-- game_marker ends -->
