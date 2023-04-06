@@ -3,7 +3,7 @@
 layout: post
 date: 2023-03-01
 link: https://failfastmoveon.blogspot.com/2019/07/what-to-do-with-players.html
-title: Fail Fast, Move On: What to do with A-Players?
+title: Fail Fast, Move On What to do with A-Players?
 cited: failfastmoveon
 
 ---
