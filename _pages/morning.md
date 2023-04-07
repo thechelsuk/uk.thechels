@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 06 April 2023
+### Daily Rundown on Friday, 07 April 2023
 
-- The average temperature today is 10.65˚C;
-- With highs of 11.12˚C and lows of 3.93˚C.
-- You can expect light rain for the day.
+- The average temperature today is 11.25˚C;
+- With highs of 12.26˚C and lows of 1.62˚C.
+- You can expect clear sky for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell swings
-- Kettlebell rows
 - Bodyweight squats
+- Dead bugs
+- Kettlebell swings
 
 <!-- workout_marker ends -->
 
@@ -34,12 +34,9 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 84.74
-- V3AB.L : 3.79075
-- SPXP.L : 62960.5
-- IMID.L : 180.22
-- 0P0001K1DP.L : nan
-- 0P00013P6I.L : 240.59
+- VWRL.L : 85.1
+- V3AB.L : 3.80775
+- 0P00018XAR.L : nan
 
 <!-- stocks_marker ends -->
 
@@ -55,26 +52,24 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Enzo: This is how I like to play](https://chelseafc.com/en/news/articlehttps://chelseafc.com/enzo-this-is-how-i-like-to-play-web) (06 Apr)
-- [Wolves vs Chelsea: Where to watch, TV channel, kick-off time, date](https://chelseafc.com/en/news/article/wolves-vs-chelsea-where-to-watch-tv-channel-kick-off-time-date) (06 Apr)
-- [Matchday Unseen 🎥](https://chelseafc.com/en/video/matchday-unseen-05-04-2023) (05 Apr)
-- [Fofana: We must stick together and play for the badge](https://chelseafc.com/en/news/article/fofana-we-must-stick-together-and-play-for-the-badge) (05 Apr)
-- [Chelsea vs Liverpool analysis: Shift in shape lets Enzo and Joao Felix run the show](https://chelseafc.com/en/news/article/chelsea-vs-liverpool-analysis-shift-in-shape-lets-enzo-and-joao-felix-run) (05 Apr)
+- [Lampard: What the job is and why I am here](https://chelseafc.com/en/news/article/lampard-what-the-job-is-and-why-i-am-here) (07 Apr)
+- [Training with Lampard ⚽️](https://chelseafc.com/en/video/training-with-lampard) (06 Apr)
+- [10 from Training: Lampard's first session](https://chelseafc.com/en/news/article/10-from-training-lampards-first-session) (06 Apr)
+- [Lampard exclusive! 🎬](https://chelseafc.com/en/video/230406-lampard-wt-16x9-v2) (06 Apr)
+- [Wolves vs Chelsea press conference: Lampard's message to the fans, first impression of the squad and Mount update](https://chelseafc.com/en/news/article/wolves-vs-chelsea-press-conference-lampards-message-to-the-fans-first) (06 Apr)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > noctivagant - noun: One who wanders in the night. adjective: Wandering in the night.
+ > betweenity - noun: The state of lying in the interval separating two conditions, qualities, extremes, etc.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 731, using [1, 3, 5, 9, 9, 50]
-- Solution: 50 x 5 x 3 - 9 - 9 - 1
-- Total: 2 solutions.
+- Target: 959, using [7, 7, 25, 50, 75, 100]
 
 <!-- game_marker ends -->
