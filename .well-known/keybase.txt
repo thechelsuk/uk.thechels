@@ -60,8 +60,7 @@ xaWfx2rbf60pXlD3bf2nmXX33VJv+W80Lkec
 =5xFA
 -----END PGP MESSAGE-----
 
-And finally, I am proving ownership of this host by posting or
-appending to this document.
+And finally, I am proving ownership of this host by posting or appending to this document.
 
 View my publicly-auditable identity here: https://keybase.io/matbenfield
 
