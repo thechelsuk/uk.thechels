@@ -35,7 +35,7 @@ jobs:
           git add -A && git commit -m "Added ${{ env.BookTitle }}"
           git push
       - name: Close issue
-        uses: peter-evans/close-issue@v2
+        uses: peter-evans/close-issue@v3
         with:
           issue-number: "${{ env.IssueNumber }}"
           comment: "📚 You read ${{ env.BookTitle }} on ${{env.DateRead}}."
