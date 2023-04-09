@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 08 April 2023
+### Daily Rundown on Sunday, 09 April 2023
 
-- The average temperature today is 12.59˚C;
-- With highs of 13.18˚C and lows of 1.68˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 13.04˚C;
+- With highs of 13.49˚C and lows of 5.02˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -20,8 +20,8 @@ seo: Good Morning Mat, Here is your daily briefing
 3x AMRAP for 45 seconds, 15 second rest:
 
 - Kettlebell swings
+- Kettlebell rows
 - Bench dips
-- Plank
 
 <!-- workout_marker ends -->
 
@@ -45,14 +45,8 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Manchester United - Everton</li>
-<li>(15:00) Aston Villa - Nottingham Forest</li>
-<li>(15:00) Brentford - Newcastle United</li>
-<li>(15:00) Fulham - West Ham United</li>
-<li>(15:00) Leicester City - Bournemouth</li>
-<li>(15:00) Tottenham Hotspur - Brighton & Hove Albion</li>
-<li>(15:00) Wolverhampton Wanderers - Chelsea</li>
-<li>(17:30) Southampton - Manchester City</li>
+<li>(14:00) Leeds United - Crystal Palace</li>
+<li>(16:30) Liverpool - Arsenal</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -60,11 +54,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Lampard: I’ve evolved, I’ve improved](https://chelseafc.com/en/news/article/lampard-ive-evolved-ive-improved) (08 Apr)
-- [Cobham Unseen 🎥](https://chelseafc.com/en/video/cobham-unseen) (07 Apr)
-- [Lampard outlines his plans for the team](https://chelseafc.com/en/news/article/lampard-outlines-his-plans-for-the-team) (07 Apr)
-- [10 from training: Friday work!](https://chelseafc.com/en/news/article/10-from-training-friday-work) (07 Apr)
-- [Sterling & Gallagher on The Clubhouse!](https://chelseafc.com/en/video/sterling-and-gallagher-on-the-clubhouse-or-s2-ep2) (07 Apr)
+- [Gallagher: We didn’t do enough](https://chelseafc.com/en/news/article/gallagher-we-didnt-do-enough) (09 Apr)
+- [Extended: Wolves 1-0 Chelsea](https://chelseafc.com/en/video/extended-highlights-wolves-v-chelsea) (08 Apr)
+- [Full Match: Wolves 1-0 Chelsea](https://chelseafc.com/en/video/full-match-wolves-1-0-chelsea) (08 Apr)
+- [Highlights: Wolves 1-0 Chelsea](https://chelseafc.com/en/video/highlights-wolves-1-0-chelsea) (08 Apr)
+- [Lampard: Talent is there but we need more aggression](https://chelseafc.com/en/news/article/lampard-talent-is-there-but-we-need-more-aggression) (08 Apr)
 
 <!-- cfc_marker ends -->
 
@@ -78,8 +72,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 538, using [1, 7, 8, 9, 25, 50]
-- Solution: ( 50 + 25 ) x 8 + 1 - 9 x 7
-- Total: 11 solutions.
+- Target: 389, using [1, 1, 3, 7, 25, 50]
+- Solution: ( 50 + 3 - 1 ) x 7 + 25
+- Total: 3 solutions.
 
 <!-- game_marker ends -->
