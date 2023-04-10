@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 09 April 2023
+### Daily Rundown on Monday, 10 April 2023
 
-- The average temperature today is 13.04˚C;
-- With highs of 13.49˚C and lows of 5.02˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 9.85˚C;
+- With highs of 12.33˚C and lows of 5.76˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell swings
+- Plank
 - Kettlebell rows
-- Bench dips
+- Dead bugs
 
 <!-- workout_marker ends -->
 
@@ -45,35 +45,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(14:00) Leeds United - Crystal Palace</li>
-<li>(16:30) Liverpool - Arsenal</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Matchday Unseen 🎥](https://chelseafc.com/en/video/matchday-unseen-09-04-2023) (09 Apr)
+- [Sterling experience and quality could be key, says Lampard](https://chelseafc.com/en/news/article/sterling-experience-and-quality-could-be-key-says-lampard) (09 Apr)
+- [Maatsen seals Premier League promotion with Burnley](https://chelseafc.com/en/news/article/maatsen-seals-premier-league-promotion-with-burnley) (09 Apr)
+- [Lampard on building from the back and using the squad](https://chelseafc.com/en/news/article/lampard-on-building-from-the-back-and-using-the-squad) (09 Apr)
 - [Gallagher: We didn’t do enough](https://chelseafc.com/en/news/article/gallagher-we-didnt-do-enough) (09 Apr)
-- [Extended: Wolves 1-0 Chelsea](https://chelseafc.com/en/video/extended-highlights-wolves-v-chelsea) (08 Apr)
-- [Full Match: Wolves 1-0 Chelsea](https://chelseafc.com/en/video/full-match-wolves-1-0-chelsea) (08 Apr)
-- [Highlights: Wolves 1-0 Chelsea](https://chelseafc.com/en/video/highlights-wolves-1-0-chelsea) (08 Apr)
-- [Lampard: Talent is there but we need more aggression](https://chelseafc.com/en/news/article/lampard-talent-is-there-but-we-need-more-aggression) (08 Apr)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > betweenity - noun: The state of lying in the interval separating two conditions, qualities, extremes, etc.
+ > anastrophe - noun: The inversion of the usual order of words.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 389, using [1, 1, 3, 7, 25, 50]
-- Solution: ( 50 + 3 - 1 ) x 7 + 25
-- Total: 3 solutions.
+- Target: 293, using [1, 5, 6, 10, 50, 75]
+- Solution: ( 75 + 5 - 50 ) x 10 - 6 - 1
+- Total: 6 solutions.
 
 <!-- game_marker ends -->
