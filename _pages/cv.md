@@ -19,14 +19,13 @@ Latest personal project was to redesign running club website using Jekyll, a sta
 ### Core Skills
 
 - Methodologies - Shape-up, Scrum, Kanban, Waterfall, XP, TDD, Ensemble
-- Stack: C# .Net, MVC, nuget, Azure, Oracle
 - Languages: C#, SQL, XML, PHP, HTML, CSS, JavaScript, Markdown, Ruby, Jekyll, Python, Sass, TypeScript, NodeJS
 - Testing: TDD, Nunit, Moq, Specflow/Cucumber, Selenium Web driver, pytest
 - Source Control: TFS, Azure DevOps, Git, GitHub, subversion, CVS
 - Cloud: AWS, Azure
 - Database: MySQL, Oracle, SQL Server, MongoDB
-- Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress, Mural, Confluence, Jira, Airtable, Code Climate, DataDog
-- OS: Mac, Windows
+- Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress, Mural, Confluence, Jira, Airtable, Code Climate, DataDog, working copy
+- OS: Mac, iOS, iPadOS, Windows
 
 ### Employment History
 
@@ -45,10 +44,10 @@ Currently leading the devops capability, a team responsible for cloud infrastruc
 - built a recruitment process and question set for various roles and formalised a fair and systematic approach to recruitment hiring 12 engineers in first 6 months
 - involved in non-engineering hiring sessions to support other hiring managers. Interviewed and hired peer and involved in CTO and HoE hires.
 - led on transition to GitHub Enterprise and Advanced Security.
-- led on the Trail and implementation DataDog, adding monitoring and observability capability for the first time
-- replaced custom-built legacy CI/CD process and Jenkins to GitHub actions.
-- oversaw remediation through a well-architected review with AWS partner. 
-- oversaw replacement of Kubernetes to ECR on Fargate - creating on demand infrastructure triggered by pull-requests reducing AWS costs by £1k per month.
+- led on the trial and implementation DataDog, adding monitoring and observability capability for the first time
+- replaced custom-built legacy CI/CD process on Jenkins to GitHub actions moving from monolythic deployments to individual components
+- oversaw remediation of infrastructure through a well-architected review with AWS partner. 
+- oversaw replacement of Kubernetes to ECR on Fargate - creating on demand infrastructure triggered by pull-requests reducing AWS costs by 10 per cent.
 
 #### Higher Education Statistics Agency
 
