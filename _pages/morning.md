@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 12 April 2023
+### Daily Rundown on Thursday, 13 April 2023
 
-- The average temperature today is 6.52˚C;
-- With highs of 6.96˚C and lows of 3.37˚C.
-- You can expect moderate rain for the day.
+- The average temperature today is 9.89˚C;
+- With highs of 10.46˚C and lows of 3.34˚C.
+- You can expect clear sky for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Calf raises
-- Plank
 - Bodyweight squats
+- Bench dips
+- Walking jacks
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.7
-- V3AB.L : 3.8375
+- VWRL.L : 85.53
+- V3AB.L : 3.828
 - 0P00018XAR.L : nan
 
 <!-- stocks_marker ends -->
@@ -45,35 +45,31 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) AC Milan - Napoli</li>
-<li>(20:00) Real Madrid - Chelsea</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Enzo delighted to be classed as a ‘leader’](https://chelseafc.com/en/news/articlehttps://chelseafc.com/enzo-delighted-to-be-classed-as-a-leader) (12 Apr)
-- [Up close with Enzo 🎥](https://chelseafc.com/en/video/up-close-with-enzo) (11 Apr)
-- ['I'm not worried about pressure'](https://chelseafc.com/en/video/im-not-worried-about-pressure) (11 Apr)
-- [Enzo: We’re ready for Real](https://chelseafc.com/en/news/articlehttps://chelseafc.com/enzo-were-ready-for-real) (11 Apr)
-- [Real Madrid vs Chelsea press conference: Lampard updates on Kante, Mount and Thiago Silva chances of facing Real Madrid](https://chelseafc.com/en/news/article/real-madrid-vs-chelsea-press-conference) (11 Apr)
+- [Fofana: A difficult night but positives to take](https://chelseafc.com/en/news/article/fofana-a-difficult-night-but-positives-to-take) (13 Apr)
+- [Highlights: Real Madrid 2-0 Chelsea](https://chelseafc.com/en/video/real-madrid-v-chelsea-2-0-or-highlights-or-champions-league) (12 Apr)
+- ['The tie's not done'](https://chelseafc.com/en/video/the-ties-not-done) (12 Apr)
+- [Lampard says Real Madrid tie isn't over as long as we believe](https://chelseafc.com/en/news/article/lampard-says-real-madrid-tie-isnt-over-as-long-as-we-believe) (12 Apr)
+- [Report: Real Madrid 2 Chelsea 0](https://chelseafc.com/en/news/article/report-real-madrid-2-chelsea-0) (12 Apr)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > apothegm - noun: A terse, witty, instructive saying.
+ > anacronym - noun: An acronym or abbreviation whose expansion is not widely known.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 398, using [1, 4, 5, 7, 7, 10]
-- Solution: ( 10 x 5 + 7 ) x 7 - 1
-- Total: 4 solutions.
+- Target: 772, using [1, 1, 2, 6, 8, 75]
 
 <!-- game_marker ends -->
