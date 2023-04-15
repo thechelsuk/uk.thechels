@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 14 April 2023
+### Daily Rundown on Saturday, 15 April 2023
 
-- The average temperature today is 8.93˚C;
-- With highs of 9.07˚C and lows of 3.51˚C.
-- You can expect moderate rain for the day.
+- The average temperature today is 9.67˚C;
+- With highs of 10.41˚C and lows of 2.69˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
-- Bodyweight squats
-- Kettlebell swings
+- Bench dips
+- Walking jacks
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.62
-- V3AB.L : 3.83375
+- VWRL.L : 86.225
+- V3AB.L : 3.86275
 - 0P00018XAR.L : nan
 
 <!-- stocks_marker ends -->
@@ -45,18 +45,26 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(12:30) Aston Villa - Newcastle United</li>
+<li>(15:00) Chelsea - Brighton & Hove Albion</li>
+<li>(15:00) Everton - Fulham</li>
+<li>(15:00) Southampton - Crystal Palace</li>
+<li>(15:00) Tottenham Hotspur - Bournemouth</li>
+<li>(15:00) Wolverhampton Wanderers - Brentford</li>
+<li>(17:15) Manchester United Women - Brighton & Hove Albion Women</li>
+<li>(17:30) Manchester City - Leicester City</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Chelsea vs Brighton: What year is it?](https://chelseafc.com/en/news/article/chelsea-vs-brighton-what-year-is-it) (14 Apr)
-- [Chelsea vs Brighton: Where to watch, TV channel, kick-off time, date](https://chelseafc.com/en/news/article/chelsea-vs-brighton-where-to-watch-tv-channel-kick-off-time-date) (14 Apr)
-- [Kepa: We have a lot to improve on for Real return](https://chelseafc.com/en/news/article/kepa-we-have-a-lot-to-improve-on-for-real-return) (13 Apr)
-- [Chilwell’s message to the fans](https://chelseafc.com/en/news/article/chilwells-message-to-the-fans) (13 Apr)
-- [Real Madrid vs Chelsea analysis: Spaniards on top at halfway mark but reasons to be hopeful](https://chelseafc.com/en/news/article/real-madrid-vs-chelsea-analysis-spaniards-on-top-but-reasons-to--) (13 Apr)
+- [Lampard confirms keeper choice](https://chelseafc.com/en/news/article/lampard-confirms-keeper-choice) (14 Apr)
+- [Cobham Unseen 🎥](https://chelseafc.com/en/video/cobham-unseen-14-04-2023) (14 Apr)
+- [Serious Lampard ready for ‘special’ Stamford Bridge return](https://chelseafc.com/en/news/article/serious-lampard-ready-for-special-stamford-bridge-return-web) (14 Apr)
+- [All the latest from Frank 🎙](https://chelseafc.com/en/video/all-the-latest-from-frank) (14 Apr)
+- [Every word from Emma 🎙](https://chelseafc.com/en/video/every-word-from-emma) (14 Apr)
 
 <!-- cfc_marker ends -->
 
@@ -70,8 +78,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 298, using [2, 6, 10, 50, 75, 100]
-- Solution: ( 100 + 50 - 75 ) x ( 10 - 6 ) - 2
-- Total: 27 solutions.
+- Target: 418, using [4, 9, 10, 50, 75, 100]
+- Solution: ( ( 75 + 9 ) x 10 - 4 ) x 50 / 100
+- Total: 1 solutions.
 
 <!-- game_marker ends -->
