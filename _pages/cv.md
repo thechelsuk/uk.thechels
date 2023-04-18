@@ -44,7 +44,7 @@ Currently leading the devops capability, a team responsible for cloud infrastruc
 - built a recruitment process and question set for various roles and formalised a fair and systematic approach to recruitment hiring 12 engineers in first 6 months
 - involved in non-engineering hiring sessions to support other hiring managers. Interviewed and hired peer and involved in CTO and HoE hires.
 - led on transition to GitHub Enterprise and Advanced Security.
-- led on the trial and implementation DataDog, adding monitoring and observability capability for the first time
+- led on the trial and implementation of DataDog, adding monitoring and observability capability for the first time
 - replaced custom-built legacy CI/CD process on Jenkins to GitHub actions moving from monolythic deployments to individual components
 - oversaw remediation of infrastructure through a well-architected review with AWS partner. 
 - oversaw replacement of Kubernetes to ECR on Fargate - creating on demand infrastructure triggered by pull-requests reducing AWS costs by 10 per cent.
