@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 21 April 2023
+### Daily Rundown on Saturday, 22 April 2023
 
-- The average temperature today is 7.52˚C;
-- With highs of 8.94˚C and lows of 3.06˚C.
+- The average temperature today is 11.6˚C;
+- With highs of 12.1˚C and lows of 2.61˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
-- Dead bugs
+- Walking jacks
 - Kettlebell rows
+- Bench dips
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 86.155
-- V3AB.L : 3.85875
+- VWRL.L : 86.25
+- V3AB.L : 3.8605
 - 0P00018XAR.L : nan
 
 <!-- stocks_marker ends -->
@@ -45,7 +45,12 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Arsenal - Southampton</li>
+<li>(12:30) Fulham - Leeds United</li>
+<li>(15:00) Brentford - Aston Villa</li>
+<li>(15:00) Crystal Palace - Everton</li>
+<li>(15:00) Leicester City - Wolverhampton Wanderers</li>
+<li>(15:00) Liverpool - Nottingham Forest</li>
+<li>(16:45) Manchester City - Sheffield United</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -53,11 +58,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Chelsea Women vs Barcelona Women preview: Kick-off time, where to watch live and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-barcelona-women-preview-kick-off-time-where-to-watch-live) (21 Apr)
-- [Reiten on European journey and seizing opportunity](https://chelseafc.com/en/news/article/reiten-on-european-journey-and-seizing-opportunity) (20 Apr)
-- [Chelsea to meet Wrexham in North Carolina pre-season fixture](https://chelseafc.com/en/news/article/chelsea-to-meet-wrexham-in-north-carolina-pre-season-fixture) (20 Apr)
-- [Premier League fixture news - Man City away](https://chelseafc.com/en/news/article/premier-league-fixture-news-man-city-away) (20 Apr)
-- [Lampard: Why next few weeks could be key in the long run](https://chelseafc.com/en/news/article/lampard-why-next-few-weeks-could-be-key-in-the-long-run) (20 Apr)
+- [Eriksson: We can sense this is something special](https://chelseafc.com/en/news/article/eriksson-we-can-sense-this-is-something-special) (22 Apr)
+- [Hayes: Learnings from 2021 final were significant](https://chelseafc.com/en/news/article/hayes-2021-learnings-significant) (22 Apr)
+- [Hayes updates on defenders’ availability and Harder’s fitness](https://chelseafc.com/en/news/article/hayes-injury-news-pre-barcelona) (21 Apr)
+- [10 from Training: Barcelona comes next!](https://chelseafc.com/en/news/article/10-from-training-barcelona-comes-next) (21 Apr)
+- [Cobham Unseen 🎥](https://chelseafc.com/en/video/cobham-unseen-21-04-2023) (21 Apr)
 
 <!-- cfc_marker ends -->
 
@@ -71,8 +76,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 582, using [3, 8, 25, 50, 75, 100]
-- Solution: ( 100 - 3 ) x ( 8 - ( 75 + 25 ) / 50 )
+- Target: 506, using [7, 8, 8, 50, 75, 100]
+- Solution: ( 100 + 50 + 8 ) x 7 - 75 x 8
 - Total: 7 solutions.
 
 <!-- game_marker ends -->
