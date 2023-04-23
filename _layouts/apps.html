@@ -1,7 +1,7 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
 <p><small><b>{{ site.data.apps | size }}</b> Apps I use.</small></p>
-{% for item in site.data.teams %}
+{% for item in site.data.apps %}
     <article class="posts">
         {{item}}
     </article>
