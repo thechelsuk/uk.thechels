@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 22 April 2023
+### Daily Rundown on Sunday, 23 April 2023
 
-- The average temperature today is 11.6˚C;
-- With highs of 12.1˚C and lows of 2.61˚C.
+- The average temperature today is 11.56˚C;
+- With highs of 11.56˚C and lows of 6.32˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
-- Kettlebell rows
-- Bench dips
+- Calf raises
+- Dead bugs
+- Bodyweight squats
 
 <!-- workout_marker ends -->
 
@@ -45,12 +45,13 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Fulham - Leeds United</li>
-<li>(15:00) Brentford - Aston Villa</li>
-<li>(15:00) Crystal Palace - Everton</li>
-<li>(15:00) Leicester City - Wolverhampton Wanderers</li>
-<li>(15:00) Liverpool - Nottingham Forest</li>
-<li>(16:45) Manchester City - Sheffield United</li>
+<li>(14:00) Bournemouth - West Ham United</li>
+<li>(14:00) Liverpool Women - Brighton & Hove Albion Women</li>
+<li>(14:00) Newcastle United - Tottenham Hotspur</li>
+<li>(14:00) Reading Women - Everton Women</li>
+<li>(14:00) Tottenham Hotspur Women - Aston Villa Women</li>
+<li>(16:30) Brighton & Hove Albion - Manchester United</li>
+<li>(18:45) Manchester City Women - West Ham United Women</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -58,11 +59,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Eriksson: We can sense this is something special](https://chelseafc.com/en/news/article/eriksson-we-can-sense-this-is-something-special) (22 Apr)
-- [Hayes: Learnings from 2021 final were significant](https://chelseafc.com/en/news/article/hayes-2021-learnings-significant) (22 Apr)
-- [Hayes updates on defenders’ availability and Harder’s fitness](https://chelseafc.com/en/news/article/hayes-injury-news-pre-barcelona) (21 Apr)
-- [10 from Training: Barcelona comes next!](https://chelseafc.com/en/news/article/10-from-training-barcelona-comes-next) (21 Apr)
-- [Cobham Unseen 🎥](https://chelseafc.com/en/video/cobham-unseen-21-04-2023) (21 Apr)
+- [Carter on resilience and reasons for optimism](https://chelseafc.com/en/news/article/carter-on-resilience-and-reasons-for-optimism) (23 Apr)
+- [Highlights: Chelsea 0-1 Barcelona](https://chelseafc.com/en/video/chelsea-v-barcelona-0-1-or-highlights-or-womens-champions-league) (22 Apr)
+- [Hayes: We’re in the tie](https://chelseafc.com/en/news/article/hayes-were-in-the-tie) (22 Apr)
+- ['We recovered well'](https://chelseafc.com/en/video/we-recovered-well) (22 Apr)
+- ['It was a resilient display'](https://chelseafc.com/en/video/it-was-a-resilient-display) (22 Apr)
 
 <!-- cfc_marker ends -->
 
@@ -76,8 +77,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 506, using [7, 8, 8, 50, 75, 100]
-- Solution: ( 100 + 50 + 8 ) x 7 - 75 x 8
-- Total: 7 solutions.
+- Target: 447, using [1, 1, 3, 4, 9, 100]
+- Solution: ( 100 + 9 + 3 ) x 4 - 1
+- Total: 8 solutions.
 
 <!-- game_marker ends -->
