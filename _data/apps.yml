@@ -9,7 +9,7 @@
 - name: Reddit
 - name: Amazon
 - name: Paypal
-- name: Google-Maps
+- name: Google Maps
 - name: Kindle
 - name: Whatsapp
 - name: Speedtest
@@ -20,14 +20,14 @@
 - name: Pythonista
 - name: x.app
 - name: opener
-- name: 1.1.1.1
+- name: Cloudflare 1.1.1.1
 - name: 1Blocker
 - name: LinkedIn
-- name: MeetUo
+- name: MeetUp
 - name: Keybase
 - name: Zwift
 - name: Zwift Companion
-- name: Hue
+- name: Phillips Hue
 - name: Airmid UK
 - name: Nest
 - name: Coolors

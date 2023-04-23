@@ -1,7 +1,7 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
 <p><small><b>{{ site.data.apps | size }}</b> non-default apps installed on my iOS devices.</small></p>
-{% for item in site.data.apps %}
+{% for item in site.data.apps | sort: name%}
     <article class="posts">
         - {{item.name}}
     </article>
