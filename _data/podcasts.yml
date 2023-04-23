@@ -24,10 +24,6 @@
   link: "https://rss.acast.com/secretsofthesidehustle"
   name: "Secrets of the Side Hustle"
 - 
-  category: Engineering
-  link: "https://anchor.fm/s/215b100/podcast/rss"
-  name: "The Everyday Podcast Jac Hughes"
-- 
   category: Business
   link: "http://feeds.feedburner.com/iTunesPodcastTTBusiness"
   name: "TED Business"
@@ -67,10 +63,6 @@
   category: News
   link: "https://whatthefuckjusthappenedtoday.com/podcasts/index.xml"
   name: "WTF Just Happened Today"
-- 
-  category: Engineering
-  link: "https://feeds.simplecast.com/dLRotFGk"
-  name: "Developer Tea"
 - 
   category: Sport
   link: "http://rss.acast.com/runningcommentary"
@@ -136,10 +128,6 @@
   link: "http://agilecoffee.com/feed/podcast/"
   name: "The Agile Coffee Podcast"
 - 
-  category: Sport
-  link: "https://withmenow.libsyn.com/rss"
-  name: "With Me Now's podcast"
-- 
   category: Technology
   link: "http://feeds.feedburner.com/iTunesPodcastTTTechnology"
   name: "TED Talks Technology"
@@ -151,10 +139,6 @@
   category: Engineering
   link: "https://changelog.com/afk/feed"
   name: "Away from Keyboard"
-- 
-  category: Sport
-  link: "https://freeweeklytimed.libsyn.com/rss"
-  name: "Free Weekly Timed"
 - 
   category: Engineering
   link: "https://scrummastertoolbox.libsyn.com/rss"
@@ -308,10 +292,6 @@
   link: "https://governmentdigitalservice.podbean.com/feed.xml"
   name: "Government Digital Service Podcast"
 - 
-  category: Other
-  link: "https://feeds.simplecast.com/oFb7TFSC"
-  name: "RSA Events"
-- 
   category: Leadership
   link: "https://doseofleadership.libsyn.com/rss"
   name: "Dose of Leadership with Richard Rierson"
@@ -355,11 +335,7 @@
   category: Finance
   link: "https://anchor.fm/s/c95b184/podcast/rss"
   name: "State of the Markets"
-- 
-  category: Sport
-  link: "http://rss.acast.com/chelseafancast"
-  name: "Chelsea FanCast"
-- 
+-
   category: Technology
   link: "https://feeds.fireside.fm/launched/rss"
   name: Launched
@@ -405,10 +381,6 @@
   name: "That Mint Podcast"
 - 
   category: Engineering
-  link: "https://feed.podbean.com/itrevolution/feed.xml"
-  name: "The Idealcast with Gene Kim by IT Revolution"
-- 
-  category: Engineering
   link: "https://anchor.fm/s/3f8cebc/podcast/rss"
   name: "Mindset Explosion"
 - 
@@ -450,11 +422,7 @@
   category: Finance
   link: "https://anchor.fm/s/41f55cbc/podcast/rss"
   name: "Retirementals"
-- 
-  category: Finance
-  link: "https://anchor.fm/s/4bc355dc/podcast/rss"
-  name: "Handelsbanken Insights"
-- 
+-
   category: Engineering
   link: "https://feeds.soundcloud.com/users/soundcloud:users:274578276/sounds.rss"
   name: "Sprint"
@@ -466,10 +434,6 @@
   category: Engineering
   link: "https://feeds.soundcloud.com/users/soundcloud:users:171473946/sounds.rss"
   name: "Reflection as a Service"
-- 
-  category: Finance
-  link: "https://feeds.soundcloud.com/users/soundcloud:users:176298819/sounds.rss"
-  name: "Wharton FinTech Podcast"
 - 
   category: Finance
   link: "https://feeds.soundcloud.com/users/soundcloud:users:739334563/sounds.rss"
@@ -514,10 +478,6 @@
   category: Finance
   link: "https://feeds.npr.org/510325/podcast.xml"
   name: "The Indicator from Planet Money"
-- 
-  category: Technology
-  link: "https://rss.art19.com/not-overthinking"
-  name: "Not Overthinking"
 - 
   category: Leadership
   link: "https://feeds.buzzsprout.com/1807501.rss"
@@ -583,10 +543,6 @@
   link: "https://feeds.megaphone.fm/TNM3035277142"
   name: "A Productive Conversation"
 - 
-  category: Other
-  link: "https://jimruttshow.blubrry.net/feed/podcast/"
-  name: "The Jim Rutt Show"
-- 
   category: Engineering
   link: "https://feeds.buzzsprout.com/1312642.rss"
   name: "Peaple Talent Podcast"
@@ -630,14 +586,6 @@
   category: Security
   link: "https://feed.podbean.com/cisotradecraft/feed.xml"
   name: "CISO Tradecraft"
-- 
-  category: Engineering
-  link: "https://devopsradio.libsyn.com/rss"
-  name: "DevOps Radio"
-- 
-  category: Engineering
-  link: "https://feed.podbean.com/yolkrec/feed.xml"
-  name: "The Yolk Podcast - home to Diversity Champions"
 - 
   category: Business
   link: "https://rss.acast.com/working-it"
@@ -700,28 +648,8 @@
   name: "The Which? Money Podcast"
 - 
   category: Other
-  link: "https://kite.link/today-in-digital-marketing?open=castro"
-  name: "Today in Digital Marketing"
-- 
-  category: Other
   link: "https://anchor.fm/s/57d918fc/podcast/rss"
   name: "Three Bean Salad"
--
-  category: Finance
-  link: "https://podcasts.files.bbci.co.uk/m00152bx.rss"
-  name: "BBC - The Big Green Money Show"
--
-  category: Business
-  link: "https://www.omnycontent.com/d/playlist/5873abf1-8292-4fa9-99d7-a58d00e97be5/82b96a6f-ec25-400d-b02c-a99f01144055/f030d030-55ba-4e50-8310-a99f0114b2b2/podcast.rss"
-  name: "Business Problems Solved Podcast"
--
-  category: Security
-  link: "https://feeds.megaphone.fm/caveat"
-  name: "Cyberwire - Caveat"
--
-  category: Finance
-  link: "https://choosefi.libsyn.com/rss"
-  name: "Choose FI"
 -
   category: Security
   link: "https://feeds.megaphone.fm/cisa-cybersecurity-alerts"
@@ -730,10 +658,6 @@
   category: Security
   link: "https://feeds.megaphone.fm/cyberwire-daily-podcast"
   name: "Cyberwire - CyberWire Daily"
--
-  category: Technology
-  link: "https://api.substack.com/feed/podcast/82416/s/8107.rss"
-  name: "Dead Cat (newcomer)"
 -
   category: Technology
   link: "https://feeds.megaphone.fm/recodedecode"
@@ -746,10 +670,6 @@
   category: Sport
   link: "https://anchor.fm/s/69610a44/podcast/rss"
   name: "Fran Kirby's Fight Club"
--
-  category: Engineering
-  link: "http://feeds.harvardbusiness.org/harvardbusiness/ideacast"
-  name: "HBR IdeaCast"
 -
   category: Other
   link: "https://idratherbewriting.com/itunes.rss"
@@ -871,26 +791,6 @@
   link: "https://feeds.transistor.fm/techtalkspodcast"
   name: "Roblox Tech Talks"
 -
-  category: Security
-  link: "https://feeds.megaphone.fm/cyberwire-word-notes"
-  name: "Cyberwire - Word Notes"
--
-  category: Security
-  link: "https://feeds.megaphone.fm/control-loop"
-  name: "Cyberwire - Control Loop"
--
-  category: Security
-  link: "https://feeds.megaphone.fm/cyberwire-research-saturday"
-  name: "Cyberwire - Research Saturday"
--
-  category: Security
-  link: "https://feeds.megaphone.fm/cyberwire-career-notes"
-  name: "Cyberwire - Career Notes"
--
-  category: Engineering
-  link: "https://anchor.fm/s/265d7c64/podcast/rss"
-  name: "Tech Lead Journal - Henry Suryawirawan"
--
   category: Technology
   link: "https://feeds.buzzsprout.com/1121972.rss"
   name: "Deep Questions with Cal Newport"
@@ -911,21 +811,9 @@
   link: "https://feeds.buzzsprout.com/1723086.rss"
   name: "Money Unfiltered"
 -
-  category: Security
-  link: "https://feeds.megaphone.fm/security-sandbox"
-  name: "Cyberwire - Security Sandbox"
--
   category: Business
   link: "https://feeds.pacific-content.com/workcheck"
   name: "Atlassian - Work Check"
--
-  category: Well-being
-  link: "https://feeds.simplecast.com/7x_ooddx"
-  name: "Radio Headspace"
--
-  category: News
-  link: "https://feeds.npr.org/510351/podcast.xml"
-  name: "NPR - Short Wave"
 -
   category: Finance
   link: "https://podcasts.apple.com/gb/podcast/the-financial-wellbeing-podcast/id1107950494"

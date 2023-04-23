@@ -1,39 +1,36 @@
 ---
-- name: Tweetbot
 - name: Scriptable
-- name: Shortcuts
-- name: Dropbox
-- name: Statszone
 - name: Castro
-- name: Feedly
 - name: Drafts
-- name: Strava
 - name: Bobby
 - name: Working Copy
 - name: 1Password
 - name: Garmin Connect
-- name: G-Suite
-- name: Ifttt
 - name: Reddit
-- name: Stack Exchange
-- name: Lire
-- name: Launch center Pro
-- name: Amount
-- name: Sky-Service
-- name: Three
 - name: Amazon
 - name: Paypal
-- name: Hsbc
-- name: Barclaycard
-- name: Tube-Map
-- name: Cross-country Trains
-- name: National Rail
 - name: Google-Maps
 - name: Kindle
 - name: Whatsapp
-- name: BBC Iplayer
-- name: BT Sport
-- name: Amazon Video
-- name: Amazon Alexa
 - name: Speedtest
-- name: Pluralsight
+- name: NetNewsWire
+- name: GitHub
+- name: YouTube
+- name: Textastic
+- name: Pythonista
+- name: x.app
+- name: opener
+- name: 1.1.1.1
+- name: 1Blocker
+- name: LinkedIn
+- name: MeetUo
+- name: Keybase
+- name: Zwift
+- name: Zwift Companion
+- name: Hue
+- name: Airmid UK
+- name: Nest
+- name: Coolors
+- nmae: Twitch
+- name: MiniQuote
+- name: Yale Home
