@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 28 April 2023
+### Daily Rundown on Saturday, 29 April 2023
 
-- The average temperature today is 15.14˚C;
-- With highs of 15.44˚C and lows of 10.32˚C.
+- The average temperature today is 13.09˚C;
+- With highs of 16.03˚C and lows of 8.8˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
-- Kettlebell swings
 - Walking jacks
+- Dead bugs
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.23
-- V3AB.L : 3.81675
+- VWRL.L : 85.435
+- V3AB.L : 3.83125
 - 0P00018XAR.L : nan
 
 <!-- stocks_marker ends -->
@@ -45,7 +45,11 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:15) Aston Villa Women - Manchester United Women</li>
+<li>(12:30) Crystal Palace - West Ham United</li>
+<li>(12:30) Leicester City Women - Liverpool Women</li>
+<li>(15:00) Brentford - Nottingham Forest</li>
+<li>(15:00) Brighton & Hove Albion - Wolverhampton Wanderers</li>
+<li>(17:15) Tottenham Hotspur Women - Brighton & Hove Albion Women</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -53,11 +57,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Hayes proud of her players despite exit](https://chelseafc.com/en/news/article/hayes-proud-of-her-players-despite-exit) (27 Apr)
-- [Barcelona Femeni v Chelsea Women 1-1 (Agg 2-1) - UWCL Highlights](https://chelseafc.com/en/video/barcelona-femeni-v-chelsea-women-1-1-agg-2-1-or-uwcl-highlights) (27 Apr)
-- [Erin reacts to defeat 🎤](https://chelseafc.com/en/video/barcelona-femini-v-chelsea-women-1-1-agg-2-1-or-cuthbert-post-match) (27 Apr)
-- [Emma's post-match take 🎬](https://chelseafc.com/en/video/barcelona-femini-v-chelsea-women-1-1-agg-2-1-or-emma-hayes-post-match) (27 Apr)
-- [PL2 live stream preview: Final day as Robinson looks back on positive season](https://chelseafc.com/en/news/article/pl2-live-stream-preview-final-day-as-robinson-looks-back-on-positive-season) (27 Apr)
+- [Broja exclusive interview: On staying upbeat despite dark days, Chilwell’s help, and injury progress](https://chelseafc.com/en/news/article/broja-exclusive-interview-staying-upbeat-chilwell-help-injury-progress) (29 Apr)
+- [PL2 report: Chelsea 1 Brighton 4](https://chelseafc.com/en/news/article/pl2-report-chelsea-1-brighton-4) (28 Apr)
+- [Wembley: What year is it?](https://chelseafc.com/en/news/article/wembley-what-year-is-it) (28 Apr)
+- [Charles: We’ll come again](https://chelseafc.com/en/news/article/charles-well-come-again) (28 Apr)
+- [Football v Boxing ⚽️🥊 Chalobah v Bellew](https://chelseafc.com/en/video/football-v-boxing-chalobah-v-bellew) (28 Apr)
 
 <!-- cfc_marker ends -->
 
@@ -71,8 +75,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 648, using [1, 2, 5, 6, 10, 50]
-- Solution: ( 50 + 10 - 6 ) x ( 5 + 1 ) x 2
-- Total: 18 solutions.
+- Target: 997, using [3, 5, 6, 9, 10, 75]
+- Solution: ( 75 + 6 - 10 ) x ( 9 + 5 ) + 3
+- Total: 3 solutions.
 
 <!-- game_marker ends -->
