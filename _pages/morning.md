@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 01 May 2023
+### Daily Rundown on Tuesday, 02 May 2023
 
-- The average temperature today is 15.04˚C;
-- With highs of 15.74˚C and lows of 7.7˚C.
-- You can expect light rain for the day.
+- The average temperature today is 11.91˚C;
+- With highs of 12.05˚C and lows of 6.12˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -20,14 +20,15 @@ seo: Good Morning Mat, Here is your daily briefing
 3x AMRAP for 45 seconds, 15 second rest:
 
 - Dead bugs
-- Kettlebell rows
-- Shadow boxing
+- Bench dips
+- Kettlebell swings
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
@@ -37,7 +38,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 - VWRL.L : 85.435
 - V3AB.L : 3.83125
-- 0P00018XAR.L : nan
+- 0P00018XAR.L : 17361.58008
 
 <!-- stocks_marker ends -->
 
@@ -46,7 +47,7 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Leicester City - Everton</li>
+<li>(20:00) Arsenal - Chelsea</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -54,26 +55,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Arsenal vs Chelsea: Where to watch, TV channel, kick-off time, date](https://chelseafc.com/en/news/article/arsenal-vs-chelsea-where-to-watch-tv-channel-kick-off-time-date) (01 May)
-- [Enzo gets a lesson in culture from Azpi - Chelsea Trending](https://chelseafc.com/en/videohttps://chelseafc.com/enzo-gets-a-lesson-in-culture-from-azpi-or-chelsea-trending) (30 Apr)
-- [Chelsea to play Borussia Dortmund in Chicago](https://chelseafc.com/en/news/article/chelsea-to-play-borussia-dortmund-in-chicago) (30 Apr)
-- [Malo Gusto on his rehab at Chelsea and finishing well at Lyon](https://chelseafc.com/en/news/article/malo-gusto-on-his-rehab-at-chelsea-and-finishing-well-at-lyon) (30 Apr)
-- [Kepa reflects on big London move and his love of fast sports](https://chelseafc.com/en/news/article/kepa-reflects-on-big-london-move-and-his-love-of-fast-sports) (30 Apr)
+- [Lampard: I want to play more free-flowing football](https://chelseafc.com/en/news/article/lampard-i-want-to-play-more-free-flowing-football) (02 May)
+- [Could Pierre-Emerick Aubameyang start at Arsenal?](https://chelseafc.com/en/news/article/could-pierre-emerick-aubameyang-start-at-arsenal) (01 May)
+- [Lampard: Arsenal’s the blueprint](https://chelseafc.com/en/news/article/lampard-arsenals-the-blueprint) (01 May)
+- [Pre-sale begins for Chelsea vs Dortmund in Chicago](https://chelseafc.com/en/news/article/pre-sale-begins-for-chelsea-vs-dortmund-in-chicago) (01 May)
+- [Lampard's press conference 🎙](https://chelseafc.com/en/video/every-word-of-lampards-press-conference) (01 May)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > Yoda - noun: A wise mentor, adviser, guru, etc.
+ > droid - noun: 1. A humanoid robot. 2. A person who behaves in a robot-like manner, showing little emotion or personality.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 578, using [1, 3, 10, 25, 75, 100]
-- Solution: ( 10 - 1 ) x 75 + 3 - 100
-- Total: 4 solutions.
+- Target: 115, using [7, 8, 10, 25, 50, 100]
+- Solution: 100 + 50 - 25 - 10
+- Total: 65 solutions.
 
 <!-- game_marker ends -->
