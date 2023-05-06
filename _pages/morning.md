@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 05 May 2023
+### Daily Rundown on Saturday, 06 May 2023
 
-- The average temperature today is 15.23˚C;
-- With highs of 15.47˚C and lows of 9.62˚C.
-- You can expect light rain for the day.
+- The average temperature today is 11.96˚C;
+- With highs of 13.15˚C and lows of 8.85˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
+- Calf raises
+- Bench dips
 - Bodyweight squats
-- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 84.12
-- V3AB.L : 3.7785
+- VWRL.L : 84.86
+- V3AB.L : 3.81025
 - 0P00018XAR.L : nan
 
 <!-- stocks_marker ends -->
@@ -45,7 +45,11 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:30) Arsenal Women - Leicester City Women</li>
+<li>(15:00) Bournemouth - Chelsea</li>
+<li>(15:00) Manchester City - Leeds United</li>
+<li>(15:00) Tottenham Hotspur - Crystal Palace</li>
+<li>(15:00) Wolverhampton Wanderers - Aston Villa</li>
+<li>(17:30) Liverpool - Brentford</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -53,11 +57,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Bournemouth vs Chelsea head-to-head: Azpilicueta and Smith](https://chelseafc.com/en/news/article/bournemouth-vs-chelsea-head-to-head-azpilicueta-and-smith) (05 May)
-- [Blues prepare for the Cherries 🍒](https://chelseafc.com/en/video/the-blues-hit-the-training-grounds) (04 May)
-- [Charles: All cup finals as crown chased](https://chelseafc.com/en/news/article/charles-all-cup-finals-as-crown-chased) (04 May)
-- [Matchday Unseen 🎥](https://chelseafc.com/en/video/matchday-unseen-04-05-2023) (04 May)
-- [Vote for Chelsea's April Goal of the Month](https://chelseafc.com/en/news/article/vote-for-chelseas-april-goal-of-the-month) (04 May)
+- [Sterling: Tough experiences will make us stronger](https://chelseafc.com/en/news/article/sterling-tough-experiences-will-make-us-stronger) (06 May)
+- [Lampard: Players should show respect for fans](https://chelseafc.com/en/news/article/lampard-players-should-show-respect-for-fans) (06 May)
+- [Kerr proud to represent her country at Coronation](https://chelseafc.com/en/news/article/kerr-proud-to-represent-her-country-at-coronation) (05 May)
+- [Cobham Unseen ⚽️](https://chelseafc.com/en/video/cobham-unseen-20230505) (05 May)
+- [10 from Training: Finalising our Bournemouth prep](https://chelseafc.com/en/news/article/10-from-training-finalising-our-bournemouth-prep) (05 May)
 
 <!-- cfc_marker ends -->
 
@@ -71,8 +75,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 325, using [4, 9, 10, 25, 75, 100]
-- Solution: ( 75 - 10 ) x 100 / ( 25 + 4 - 9 )
-- Total: 81 solutions.
+- Target: 460, using [4, 5, 10, 50, 75, 100]
+- Solution: ( 100 + 75 - 50 - 10 ) x 4
+- Total: 79 solutions.
 
 <!-- game_marker ends -->
