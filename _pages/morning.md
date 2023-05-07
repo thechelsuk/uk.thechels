@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 06 May 2023
+### Daily Rundown on Sunday, 07 May 2023
 
-- The average temperature today is 11.96˚C;
-- With highs of 13.15˚C and lows of 8.85˚C.
-- You can expect moderate rain for the day.
+- The average temperature today is 17.37˚C;
+- With highs of 18.38˚C and lows of 9.79˚C.
+- You can expect scattered clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Calf raises
+- Kettlebell rows
 - Bench dips
-- Bodyweight squats
+- Walking jacks
 
 <!-- workout_marker ends -->
 
@@ -45,11 +45,13 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(15:00) Bournemouth - Chelsea</li>
-<li>(15:00) Manchester City - Leeds United</li>
-<li>(15:00) Tottenham Hotspur - Crystal Palace</li>
-<li>(15:00) Wolverhampton Wanderers - Aston Villa</li>
-<li>(17:30) Liverpool - Brentford</li>
+<li>(12:30) Manchester United Women - Tottenham Hotspur Women</li>
+<li>(14:00) Brighton & Hove Albion Women - West Ham United Women</li>
+<li>(14:00) Liverpool Women - Manchester City Women</li>
+<li>(14:00) Reading Women - Aston Villa Women</li>
+<li>(16:30) Newcastle United - Arsenal</li>
+<li>(18:45) Chelsea Women - Everton Women</li>
+<li>(19:00) West Ham United - Manchester United</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -57,11 +59,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Sterling: Tough experiences will make us stronger](https://chelseafc.com/en/news/article/sterling-tough-experiences-will-make-us-stronger) (06 May)
-- [Lampard: Players should show respect for fans](https://chelseafc.com/en/news/article/lampard-players-should-show-respect-for-fans) (06 May)
-- [Kerr proud to represent her country at Coronation](https://chelseafc.com/en/news/article/kerr-proud-to-represent-her-country-at-coronation) (05 May)
-- [Cobham Unseen ⚽️](https://chelseafc.com/en/video/cobham-unseen-20230505) (05 May)
-- [10 from Training: Finalising our Bournemouth prep](https://chelseafc.com/en/news/article/10-from-training-finalising-our-bournemouth-prep) (05 May)
+- [Gallagher reveals reasons for Bournemouth boost](https://chelseafc.com/en/news/article/gallagher-reveals-reasons-for-bournemouth-boost) (07 May)
+- [Carter: We need to show our best form](https://chelseafc.com/en/news/article/carter-we-need-to-show-our-best-form) (07 May)
+- [Highlights: Bournemouth 1-3 Chelsea](https://chelseafc.com/en/video/230506-epl-bournemouth-v-chelsea-2min-highlights-webapp) (06 May)
+- [Lampard says players should enjoy win after big steps forward, updates on Chilwell injury](https://chelseafc.com/en/news/article/lampard-says-players-should-enjoy-win-after-big-steps-forward) (06 May)
+- [Match report: Bournemouth 1 Chelsea 3](https://chelseafc.com/en/news/article/match-report-bournemouth-1-chelsea-3) (06 May)
 
 <!-- cfc_marker ends -->
 
@@ -75,8 +77,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 460, using [4, 5, 10, 50, 75, 100]
-- Solution: ( 100 + 75 - 50 - 10 ) x 4
-- Total: 79 solutions.
+- Target: 844, using [2, 7, 8, 10, 50, 75]
+- Solution: ( 10 + 2 ) x 75 - 8 x 7
+- Total: 9 solutions.
 
 <!-- game_marker ends -->
