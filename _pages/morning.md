@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 07 May 2023
+### Daily Rundown on Monday, 08 May 2023
 
-- The average temperature today is 17.37˚C;
-- With highs of 18.38˚C and lows of 9.79˚C.
-- You can expect scattered clouds for the day.
+- The average temperature today is 12.62˚C;
+- With highs of 13.28˚C and lows of 9.74˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Kettlebell swings
 - Kettlebell rows
-- Bench dips
-- Walking jacks
+- Calf raises
 
 <!-- workout_marker ends -->
 
@@ -45,13 +45,9 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Manchester United Women - Tottenham Hotspur Women</li>
-<li>(14:00) Brighton & Hove Albion Women - West Ham United Women</li>
-<li>(14:00) Liverpool Women - Manchester City Women</li>
-<li>(14:00) Reading Women - Aston Villa Women</li>
-<li>(16:30) Newcastle United - Arsenal</li>
-<li>(18:45) Chelsea Women - Everton Women</li>
-<li>(19:00) West Ham United - Manchester United</li>
+<li>(15:00) Fulham - Leicester City</li>
+<li>(17:30) Brighton & Hove Albion - Everton</li>
+<li>(20:00) Nottingham Forest - Southampton</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -59,26 +55,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Gallagher reveals reasons for Bournemouth boost](https://chelseafc.com/en/news/article/gallagher-reveals-reasons-for-bournemouth-boost) (07 May)
-- [Carter: We need to show our best form](https://chelseafc.com/en/news/article/carter-we-need-to-show-our-best-form) (07 May)
-- [Highlights: Bournemouth 1-3 Chelsea](https://chelseafc.com/en/video/230506-epl-bournemouth-v-chelsea-2min-highlights-webapp) (06 May)
-- [Lampard says players should enjoy win after big steps forward, updates on Chilwell injury](https://chelseafc.com/en/news/article/lampard-says-players-should-enjoy-win-after-big-steps-forward) (06 May)
-- [Match report: Bournemouth 1 Chelsea 3](https://chelseafc.com/en/news/article/match-report-bournemouth-1-chelsea-3) (06 May)
+- [Lampard on youth and experience](https://chelseafc.com/en/news/article/lampard-on-youth-and-experience) (08 May)
+- [Lampard on youngsters’ prospects of staying in team and Thiago Silva’s enduring class](https://chelseafc.com/en/news/article/lampard-on-youngsters-prospects-of-staying-in-team-and-thiago-silvas) (08 May)
+- [Hayes on overcoming unacceptable start and Kerr update](https://chelseafc.com/en/news/article/hayes-on-overcoming-unacceptable-start-and-kerr-update) (07 May)
+- [Pernille Harder's post-match thoughts!](https://chelseafc.com/en/video/harder-webapp-iv) (07 May)
+- [Emma's post-match take 🎬](https://chelseafc.com/en/video/hayes-webapp-iv) (07 May)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > dark side - noun: 1. The side that's dark or unlit. 2. The side that's undesirable or evil.
+ > Vulcan - noun: 1. A blacksmith or a metalworker. 2. A miner. 3. A person whose leg is broken or deformed. 4. A cuckold: a man whose wife is unfaithful. 5. One who is extremely logical and shows a lack of emotions, humor, etc. adjective: Extremely logical, unemotional, etc.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 844, using [2, 7, 8, 10, 50, 75]
-- Solution: ( 10 + 2 ) x 75 - 8 x 7
-- Total: 9 solutions.
+- Target: 298, using [1, 2, 8, 50, 75, 100]
+- Solution: ( 75 - 50 - 1 ) x 100 / 8 - 2
+- Total: 18 solutions.
 
 <!-- game_marker ends -->
