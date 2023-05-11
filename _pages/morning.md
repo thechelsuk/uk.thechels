@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 10 May 2023
+### Daily Rundown on Thursday, 11 May 2023
 
-- The average temperature today is 14.52˚C;
-- With highs of 14.63˚C and lows of 7.42˚C.
+- The average temperature today is 14.85˚C;
+- With highs of 15.08˚C and lows of 7.09˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
-- Calf raises
-- Dead bugs
+- Kettlebell rows
+- Shadow boxing
+- Plank
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 84.93
-- V3AB.L : 3.814
+- VWRL.L : 84.99
+- V3AB.L : 3.8175
 - 0P00018XAR.L : nan
 
 <!-- stocks_marker ends -->
@@ -45,36 +45,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:00) Chelsea Women - Leicester City Women</li>
-<li>(19:30) Brighton & Hove Albion Women - Arsenal Women</li>
-<li>(20:00) AC Milan - Inter Milan</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Fleming: The focus is just on winning](https://chelseafc.com/en/news/article/fleming-the-focus-is-just-on-winning) (10 May)
-- [10 from Training: Fully fixed on Forest](https://chelseafc.com/en/news/article/10-from-training-fully-fixed-on-forest) (09 May)
-- [Hayes issues Kerr update and explains why Leicester game will go the distance](https://chelseafc.com/en/news/article/hayes-issues-kerr-update-and-explains-why-leicester-game-will-go-the) (09 May)
-- [Legends of Europe - tickets on sale today – more players announced](https://chelseafc.com/en/news/article/legends-of-europe-tickets-on-sale-today-more-players-announced) (09 May)
-- ['I expect an incredibly difficult game'](https://chelseafc.com/en/video/press-conference-i-expect-an-incredibly-difficult-game) (09 May)
+- [Hayes happy to see goals spread around](https://chelseafc.com/en/news/article/hayes-happy-to-see-goals-spread-around) (10 May)
+- [Erin reacts to our win over Leicester 🎤](https://chelseafc.com/en/video/cuthbert-wbapp-iv) (10 May)
+- [Emma's post-match take 🎬](https://chelseafc.com/en/video/hayes-wbapp-iv-leicester) (10 May)
+- [Report: Chelsea Women 6 Leicester City Women 0](https://chelseafc.com/en/news/article/report-chelsea-women-6-leicester-city-women-0) (10 May)
+- [Hayes sets target needed to win title](https://chelseafc.com/en/news/article/hayes-sets-target-needed-to-win-title) (10 May)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > Palladian - adjective: 1. Wise or learned. 2. Relating to wisdom, knowledge, or learning.
+ > gomer - noun: 1. A naive and inept trainee or worker. 2. An undesirable hospital patient, one who may be unpleasant, senile, or unresponsive to treatment. 3. A conical chamber used in guns and mortars.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 389, using [4, 4, 10, 25, 50, 100]
-- Solution: ( 100 - 50 / 10 - 4 ) x 4 + 25
-- Total: 9 solutions.
+- Target: 380, using [8, 8, 25, 50, 75, 100]
+- Solution: ( 100 x 25 - 75 ) x 8 / 50 - 8
+- Total: 5 solutions.
 
 <!-- game_marker ends -->
