@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 13 May 2023
+### Daily Rundown on Sunday, 14 May 2023
 
-- The average temperature today is 16.45˚C;
-- With highs of 17.84˚C and lows of 7.6˚C.
-- You can expect scattered clouds for the day.
+- The average temperature today is 17.22˚C;
+- With highs of 17.41˚C and lows of 6.83˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
-- Bench dips
 - Bodyweight squats
+- Walking jacks
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -46,12 +46,10 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Leeds United - Newcastle United</li>
-<li>(15:00) Aston Villa - Tottenham Hotspur</li>
-<li>(15:00) Chelsea - Nottingham Forest</li>
-<li>(15:00) Crystal Palace - Bournemouth</li>
-<li>(15:00) Manchester United - Wolverhampton Wanderers</li>
-<li>(15:00) Southampton - Fulham</li>
+<li>(14:00) Brentford - West Ham United</li>
+<li>(14:00) Everton - Manchester City</li>
+<li>(14:30) Chelsea Women - Manchester United Women</li>
+<li>(16:30) Arsenal - Brighton & Hove Albion</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -59,11 +57,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Lampard on his faith in the process and why Madueke form is sign of progress](https://chelseafc.com/en/news/article/lampard-on-his-faith-in-the-process-and-why-madueke-form-is-sign-of) (13 May)
-- [Stories from Stockholm '98](https://chelseafc.com/en/video/stories-from-stockholm-98) (13 May)
-- [Gearing up for the weekend action 🔥](https://chelseafc.com/en/video/gearing-up-for-the-weekend-action) (12 May)
-- [Lampard: Lewis has a chance](https://chelseafc.com/en/news/article/lampard-lewis-has-a-chance) (12 May)
-- [Every word from Emma's press conference 🎙](https://chelseafc.com/en/video/every-word-from-emmas-press-conference) (12 May)
+- [Kerr: My cup final rituals](https://chelseafc.com/en/news/article/kerr-my-cup-final-rituals) (14 May)
+- [Sterling disappointed to draw but determined to end on a high](https://chelseafc.com/en/news/article/sterling-disappointed-to-draw-but-determined-to-end-on-a-high) (14 May)
+- [Women's FA Cup final: What year is it?](https://chelseafc.com/en/news/article/womens-fa-cup-final-what-year-is-it) (14 May)
+- [Full Match: Chelsea 2-2 Nottingham Forest](https://chelseafc.com/en/video/full-match-chelsea-2-2-nottingham-forest) (13 May)
+- [Extended: Chelsea 2-2 Nottingham Forest](https://chelseafc.com/en/video/extended-chelsea-2-2-nottingham-forest) (13 May)
 
 <!-- cfc_marker ends -->
 
@@ -77,8 +75,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 454, using [1, 3, 9, 25, 50, 75]
-- Solution: ( 75 + 25 - 50 ) x 9 + 3 + 1
-- Total: 6 solutions.
+- Target: 823, using [2, 4, 7, 7, 10, 25]
+- Solution: ( 7 + 4 ) x ( 10 - 7 ) x 25 - 2
+- Total: 3 solutions.
 
 <!-- game_marker ends -->
