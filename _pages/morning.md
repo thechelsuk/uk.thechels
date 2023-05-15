@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 14 May 2023
+### Daily Rundown on Monday, 15 May 2023
 
-- The average temperature today is 17.22˚C;
-- With highs of 17.41˚C and lows of 6.83˚C.
-- You can expect light rain for the day.
+- The average temperature today is 12.37˚C;
+- With highs of 12.78˚C and lows of 5.35˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
-- Walking jacks
 - Kettlebell rows
+- Walking jacks
+- Plank
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Stocks
@@ -46,10 +47,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(14:00) Brentford - West Ham United</li>
-<li>(14:00) Everton - Manchester City</li>
-<li>(14:30) Chelsea Women - Manchester United Women</li>
-<li>(16:30) Arsenal - Brighton & Hove Albion</li>
+<li>(20:00) Leicester City - Liverpool</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -57,26 +55,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Kerr: My cup final rituals](https://chelseafc.com/en/news/article/kerr-my-cup-final-rituals) (14 May)
-- [Sterling disappointed to draw but determined to end on a high](https://chelseafc.com/en/news/article/sterling-disappointed-to-draw-but-determined-to-end-on-a-high) (14 May)
-- [Women's FA Cup final: What year is it?](https://chelseafc.com/en/news/article/womens-fa-cup-final-what-year-is-it) (14 May)
-- [Full Match: Chelsea 2-2 Nottingham Forest](https://chelseafc.com/en/video/full-match-chelsea-2-2-nottingham-forest) (13 May)
-- [Extended: Chelsea 2-2 Nottingham Forest](https://chelseafc.com/en/video/extended-chelsea-2-2-nottingham-forest) (13 May)
+- [Hayes: Chelsea fans that was for you!](https://chelseafc.com/en/news/article/hayes-chelsea-fans-that-was-for-you) (15 May)
+- [Sam Kerr post-match reaction!](https://chelseafc.com/en/video/sam-kerr-post-match-reaction-wfac) (14 May)
+- [Emma Hayes post-match interview!](https://chelseafc.com/en/video/emma-hayes-post-match-interview-wfac) (14 May)
+- [Women’s FA Cup final report: Chelsea 1 Man United 0](https://chelseafc.com/en/news/article/womens-fa-cup-final-report-chelsea-1-man-united-0) (14 May)
+- [Women’s FA Cup final team news: Sam Kerr returns](https://chelseafc.com/en/news/article/womens-fa-cup-final-team-news-sam-kerr-returns) (14 May)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > alexander - verb tr.: 1. To praise or flatter. 2. To hang someone.
+ > Hail Mary - noun: A last-ditch attempt, made in desperation, having little chance of success, but potentially resulting in a big payoff.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 823, using [2, 4, 7, 7, 10, 25]
-- Solution: ( 7 + 4 ) x ( 10 - 7 ) x 25 - 2
-- Total: 3 solutions.
+- Target: 211, using [2, 2, 4, 9, 10, 100]
+- Solution: ( 10 - 4 x 2 ) x 100 + 9 + 2
+- Total: 37 solutions.
 
 <!-- game_marker ends -->
