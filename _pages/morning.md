@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 15 May 2023
+### Daily Rundown on Tuesday, 16 May 2023
 
-- The average temperature today is 12.37˚C;
-- With highs of 12.78˚C and lows of 5.35˚C.
+- The average temperature today is 12.59˚C;
+- With highs of 14.64˚C and lows of 4.25˚C.
 - You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
+- Bench dips
+- Dead bugs
 - Walking jacks
-- Plank
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
@@ -35,8 +36,8 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.62
-- V3AB.L : 3.8475
+- VWRL.L : 85.69
+- V3AB.L : 3.85525
 - 0P00018XAR.L : nan
 - BFSP.L : 87.0
 
@@ -47,7 +48,7 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Leicester City - Liverpool</li>
+<li>(20:00) Inter Milan - AC Milan</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -55,26 +56,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Hayes: Chelsea fans that was for you!](https://chelseafc.com/en/news/article/hayes-chelsea-fans-that-was-for-you) (15 May)
-- [Sam Kerr post-match reaction!](https://chelseafc.com/en/video/sam-kerr-post-match-reaction-wfac) (14 May)
-- [Emma Hayes post-match interview!](https://chelseafc.com/en/video/emma-hayes-post-match-interview-wfac) (14 May)
-- [Women’s FA Cup final report: Chelsea 1 Man United 0](https://chelseafc.com/en/news/article/womens-fa-cup-final-report-chelsea-1-man-united-0) (14 May)
-- [Women’s FA Cup final team news: Sam Kerr returns](https://chelseafc.com/en/news/article/womens-fa-cup-final-team-news-sam-kerr-returns) (14 May)
+- [Picture special: FA Cup final celebrations!](https://chelseafc.com/en/news/article/picture-special-fa-cup-final-celebrations) (15 May)
+- [Harder on her hunger to help out](https://chelseafc.com/en/news/article/harder-on-her-hunger-to-help-out) (15 May)
+- [Three in a row! 🏆](https://chelseafc.com/en/video/three-in-a-row) (15 May)
+- [FA Cup final highlights!](https://chelseafc.com/en/video/chelsea-women-v-manchester-united-women-1-0-or-highlights-or-wfac-22-23) (15 May)
+- [Kerr: I’m blessed to be the striker in this team](https://chelseafc.com/en/news/article/kerr-im-blessed-to-be-the-striker-in-this-team) (15 May)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > Hail Mary - noun: A last-ditch attempt, made in desperation, having little chance of success, but potentially resulting in a big payoff.
+ > kingpin - noun: 1. The most important person in an organization, especially one who is the head of a crime organization. 2. The tallest, foremost, or the central pin in an arrangement of bowling pins. 3. A main bolt, for example, a large vertical bolt in an axle of a vehicle.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 211, using [2, 2, 4, 9, 10, 100]
-- Solution: ( 10 - 4 x 2 ) x 100 + 9 + 2
-- Total: 37 solutions.
+- Target: 695, using [6, 9, 10, 25, 50, 100]
+- Solution: ( 100 + 9 ) x 50 / 10 + 25 x 6
+- Total: 6 solutions.
 
 <!-- game_marker ends -->
