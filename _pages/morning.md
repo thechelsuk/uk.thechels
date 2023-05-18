@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 17 May 2023
+### Daily Rundown on Thursday, 18 May 2023
 
-- The average temperature today is 15˚C;
-- With highs of 15.34˚C and lows of 5.89˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 17.44˚C;
+- With highs of 17.44˚C and lows of 10.38˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
-- Bodyweight squats
+- Kettlebell swings
 - Dead bugs
+- Plank
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.735
-- V3AB.L : 3.8575
+- VWRL.L : 85.73
+- V3AB.L : 3.861
 - 0P00018XAR.L : nan
 - BFSP.L : 87.0
 
@@ -46,9 +46,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(18:15) Everton Women - Arsenal Women</li>
-<li>(20:00) Manchester City - Real Madrid</li>
-<li>(20:15) West Ham United Women - Chelsea Women</li>
+<li>(19:30) Newcastle United - Brighton & Hove Albion</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -56,26 +54,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Lewis Hall exclusive interview: Big steps, big stadiums and working hard for that goal](https://chelseafc.com/en/news/article/lewis-hall-exclusive-interview-big-steps-big-stadiums-and-working-hard-for) (17 May)
-- [Gallery: Tuesday training - two more return to grass](https://chelseafc.com/en/news/article/gallery-tuesday-training) (16 May)
-- [Chelsea FC and FICO team up to promote financial empowerment on summer USA tour](https://chelseafc.com/en/news/article/chelsea-fc-and-fico-team-up-to-promote-financial-empowerment-on-summer-usa) (16 May)
-- [Hayes: Working even harder for West Ham after Wembley win](https://chelseafc.com/en/news/article/hayes-working-even-harder-for-west-ham-after-wembley-win) (16 May)
-- [Every word of Emma's press conference](https://chelseafc.com/en/video/every-word-of-emmas-press-conference) (16 May)
+- [Hayes: No secret to being seamless](https://chelseafc.com/en/news/article/hayes-no-secret-to-being-seamless) (18 May)
+- [Niamh Charles' post-match thoughts!](https://chelseafc.com/en/video/charles-webapp-iv) (17 May)
+- [Emma Hayes post-match interview!](https://chelseafc.com/en/video/emma_hayes_west_ham_post_match-webapp-iv) (17 May)
+- [Report: West Ham United Women 0 Chelsea Women 4](https://chelseafc.com/en/news/article/report-west-ham-united-women-0-chelsea-women-4) (17 May)
+- [Exclusive: Trevoh Chalobah](https://chelseafc.com/en/video/exclusive-trevoh-chalobah) (17 May)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > wheelhouse - noun: 1. An enclosed area on a boat or ship that houses the steering wheel. 2. In baseball, the area in which it's easiest for the batter to hit the ball with the most power. 3. One's area of interest or expertise.
+ > snooker - verb tr.: To cheat, dupe, trap, stymie, etc.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 814, using [2, 6, 8, 25, 75, 100]
-- Solution: ( 75 / 25 + 100 - 2 ) x 8 + 6
-- Total: 6 solutions.
+- Target: 309, using [2, 5, 5, 9, 50, 75]
+- Solution: ( 5 x 5 + 75 + 50 ) x 2 + 9
+- Total: 17 solutions.
 
 <!-- game_marker ends -->
