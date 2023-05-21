@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 20 May 2023
+### Daily Rundown on Sunday, 21 May 2023
 
-- The average temperature today is 15.6˚C;
-- With highs of 16.18˚C and lows of 5.93˚C.
-- You can expect clear sky for the day.
+- The average temperature today is 15.86˚C;
+- With highs of 16.8˚C and lows of 5.91˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
-- Dead bugs
 - Bodyweight squats
+- Kettlebell swings
+- Bench dips
 
 <!-- workout_marker ends -->
 
@@ -46,13 +46,14 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Tottenham Hotspur - Brentford</li>
-<li>(15:00) Bournemouth - Manchester United</li>
-<li>(15:00) Fulham - Crystal Palace</li>
-<li>(15:00) Liverpool - Aston Villa</li>
-<li>(15:00) Wolverhampton Wanderers - Everton</li>
-<li>(16:15) Tottenham Hotspur Women - Reading Women</li>
-<li>(17:30) Nottingham Forest - Arsenal</li>
+<li>(12:30) Chelsea Women - Arsenal Women</li>
+<li>(13:00) Everton Women - Brighton & Hove Albion Women</li>
+<li>(13:30) West Ham United - Leeds United</li>
+<li>(14:00) Aston Villa Women - Liverpool Women</li>
+<li>(14:00) Brighton & Hove Albion - Southampton</li>
+<li>(15:00) Leicester City Women - West Ham United Women</li>
+<li>(16:00) Manchester City - Chelsea</li>
+<li>(18:45) Manchester United Women - Manchester City Women</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -60,11 +61,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Lampard looks forward to De Bruyne reunion](https://chelseafc.com/en/news/article/lampard-looks-forward-to-de-bruyne-reunion) (20 May)
-- [Ready for Sunday! 💪](https://chelseafc.com/en/video/getting-ready-for-the-citizens-and-the-gunners) (19 May)
-- [Every word of Emma's press conference 🎙️](https://chelseafc.com/en/video/every-word-of-emmas-press-conference-19-05-2023) (19 May)
-- [Hayes on Eriksson and Harder’s emotional farewell](https://chelseafc.com/en/news/article/hayes-on-eriksson-and-harders-emotional-farewell) (19 May)
-- [Every word of Frank's press conference 🎙️](https://chelseafc.com/en/video/every-word-of-franks-press-conference-19-05-2023) (19 May)
+- [Cuthbert: We need to take care of our business](https://chelseafc.com/en/news/article/cuthbert-we-need-to-take-care-of-our-business) (21 May)
+- [Hayes ignores title talk](https://chelseafc.com/en/news/article/hayes-ignores-title-talk) (20 May)
+- [Late win for captain Slonina in USA Under-20 World Cup opener](https://chelseafc.com/en/news/article/late-win-for-captain-slonina-in-usa-under-20-world-cup-opener) (20 May)
+- [Man City vs Chelsea: What year is it?](https://chelseafc.com/en/news/article/man-city-vs-chelsea-what-year-is-it) (20 May)
+- [Chelsea Women vs Arsenal Women preview: Kick-off time, where to watch live and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-arsenal-women-preview-kick-off-time-where-to-watch-wsl) (20 May)
 
 <!-- cfc_marker ends -->
 
@@ -78,8 +79,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 271, using [1, 1, 2, 3, 50, 75]
-- Solution: 75 x 3 + 50 - 2 - 1 - 1
-- Total: 13 solutions.
+- Target: 176, using [1, 1, 3, 7, 9, 100]
+- Solution: ( 7 + 1 ) x 9 + 100 + 3 + 1
+- Total: 10 solutions.
 
 <!-- game_marker ends -->
