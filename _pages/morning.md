@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 21 May 2023
+### Daily Rundown on Monday, 22 May 2023
 
-- The average temperature today is 15.86˚C;
-- With highs of 16.8˚C and lows of 5.91˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 17.64˚C;
+- With highs of 18.82˚C and lows of 7.28˚C.
+- You can expect few clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
-- Kettlebell swings
-- Bench dips
+- Dead bugs
+- Calf raises
+- Plank
 
 <!-- workout_marker ends -->
 
@@ -46,14 +46,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(12:30) Chelsea Women - Arsenal Women</li>
-<li>(13:00) Everton Women - Brighton & Hove Albion Women</li>
-<li>(13:30) West Ham United - Leeds United</li>
-<li>(14:00) Aston Villa Women - Liverpool Women</li>
-<li>(14:00) Brighton & Hove Albion - Southampton</li>
-<li>(15:00) Leicester City Women - West Ham United Women</li>
-<li>(16:00) Manchester City - Chelsea</li>
-<li>(18:45) Manchester United Women - Manchester City Women</li>
+<li>(20:00) Newcastle United - Leicester City</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -61,26 +54,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Cuthbert: We need to take care of our business](https://chelseafc.com/en/news/article/cuthbert-we-need-to-take-care-of-our-business) (21 May)
-- [Hayes ignores title talk](https://chelseafc.com/en/news/article/hayes-ignores-title-talk) (20 May)
-- [Late win for captain Slonina in USA Under-20 World Cup opener](https://chelseafc.com/en/news/article/late-win-for-captain-slonina-in-usa-under-20-world-cup-opener) (20 May)
-- [Man City vs Chelsea: What year is it?](https://chelseafc.com/en/news/article/man-city-vs-chelsea-what-year-is-it) (20 May)
-- [Chelsea Women vs Arsenal Women preview: Kick-off time, where to watch live and more!](https://chelseafc.com/en/news/article/chelsea-women-vs-arsenal-women-preview-kick-off-time-where-to-watch-wsl) (20 May)
+- [Loftus-Cheek: We want to get back to being ruthless](https://chelseafc.com/en/news/article/loftus-cheek-we-want-to-get-back-to-being-ruthless) (22 May)
+- [Highlights: Manchester City 1-0 Chelsea](https://chelseafc.com/en/video/230521-epl-man-city-v-chelsea-2min-highlights-webapp) (21 May)
+- [Young Blues help England Under-17s into Euros quarter-finals](https://chelseafc.com/en/news/article/young-blues-reach-euros-quarter-finals) (21 May)
+- [Hayes’s mixed emotions at ‘fairytale’ end of an era](https://chelseafc.com/en/news/article/hayess-mixed-emotions-at-fairytale-end-of-an-era) (21 May)
+- [Lampard sees positives in Chelsea performance despite defeat](https://chelseafc.com/en/news/article/lampard-sees-positives-in-chelsea-performance-despite-defeat) (21 May)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > jump ball - noun: 1. A contest too close to call. 2. An undecided situation or one with no preference.
+ > baloney - noun: Nonsense, such as foolish, deceptive, or pretentious talk.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 176, using [1, 1, 3, 7, 9, 100]
-- Solution: ( 7 + 1 ) x 9 + 100 + 3 + 1
-- Total: 10 solutions.
+- Target: 777, using [1, 8, 10, 25, 50, 100]
+- Solution: ( 100 - 50 / 10 - 1 ) x 8 + 25
+- Total: 4 solutions.
 
 <!-- game_marker ends -->
