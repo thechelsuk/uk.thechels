@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 22 May 2023
+### Daily Rundown on Tuesday, 23 May 2023
 
-- The average temperature today is 17.64˚C;
-- With highs of 18.82˚C and lows of 7.28˚C.
-- You can expect few clouds for the day.
+- The average temperature today is 15.43˚C;
+- With highs of 16.4˚C and lows of 7.92˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,23 +19,25 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Dead bugs
-- Calf raises
 - Plank
+- Calf raises
+- Bodyweight squats
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 86.76
-- V3AB.L : 3.91075
+- VWRL.L : 87.335
+- V3AB.L : 3.9365
 - 0P00018XAR.L : nan
 - BFSP.L : 87.0
 
@@ -46,34 +48,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Newcastle United - Leicester City</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Sterling Cam 🎥 Matchday Unseen](https://chelseafc.com/en/video/sterling-cam-matchday-unseen) (22 May)
+- [Watch the Blues train in America!](https://chelseafc.com/en/news/article/watch-the-blues-train-in-america) (22 May)
+- [Vale impact at Under-20 World Cup](https://chelseafc.com/en/news/article/vale-impact-at-under-20-world-cup) (22 May)
+- [WSL Highlights: Chelsea 2-0 Arsenal](https://chelseafc.com/en/video/wsl-highlights-chelsea-2-0-arsenal) (22 May)
 - [Loftus-Cheek: We want to get back to being ruthless](https://chelseafc.com/en/news/article/loftus-cheek-we-want-to-get-back-to-being-ruthless) (22 May)
-- [Highlights: Manchester City 1-0 Chelsea](https://chelseafc.com/en/video/230521-epl-man-city-v-chelsea-2min-highlights-webapp) (21 May)
-- [Young Blues help England Under-17s into Euros quarter-finals](https://chelseafc.com/en/news/article/young-blues-reach-euros-quarter-finals) (21 May)
-- [Hayes’s mixed emotions at ‘fairytale’ end of an era](https://chelseafc.com/en/news/article/hayess-mixed-emotions-at-fairytale-end-of-an-era) (21 May)
-- [Lampard sees positives in Chelsea performance despite defeat](https://chelseafc.com/en/news/article/lampard-sees-positives-in-chelsea-performance-despite-defeat) (21 May)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > baloney - noun: Nonsense, such as foolish, deceptive, or pretentious talk.
+ > daisy cutter - noun: 1. In a ball game, a ball that moves close to the ground. 2. A horse that lifts its feet very little off the ground. 3. A bomb powerful enough to flatten a large area, such as a forest.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 777, using [1, 8, 10, 25, 50, 100]
-- Solution: ( 100 - 50 / 10 - 1 ) x 8 + 25
-- Total: 4 solutions.
+- Target: 421, using [3, 5, 7, 9, 10, 25]
+- Solution: ( 10 + 7 ) x 25 + 5 - 9
+- Total: 13 solutions.
 
 <!-- game_marker ends -->
