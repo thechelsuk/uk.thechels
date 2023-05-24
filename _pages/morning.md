@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 23 May 2023
+### Daily Rundown on Wednesday, 24 May 2023
 
-- The average temperature today is 15.43˚C;
-- With highs of 16.4˚C and lows of 7.92˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 17.01˚C;
+- With highs of 17.74˚C and lows of 7.55˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,27 +19,25 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Plank
-- Calf raises
 - Bodyweight squats
+- Calf raises
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 87.335
-- V3AB.L : 3.9365
+- VWRL.L : 86.86
+- V3AB.L : 3.9155
 - 0P00018XAR.L : nan
-- BFSP.L : 87.0
+- BFSP.L : nan
 
 <!-- stocks_marker ends -->
 
@@ -48,33 +46,34 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(20:00) Brighton & Hove Albion - Manchester City</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Sterling Cam 🎥 Matchday Unseen](https://chelseafc.com/en/video/sterling-cam-matchday-unseen) (22 May)
-- [Watch the Blues train in America!](https://chelseafc.com/en/news/article/watch-the-blues-train-in-america) (22 May)
-- [Vale impact at Under-20 World Cup](https://chelseafc.com/en/news/article/vale-impact-at-under-20-world-cup) (22 May)
-- [WSL Highlights: Chelsea 2-0 Arsenal](https://chelseafc.com/en/video/wsl-highlights-chelsea-2-0-arsenal) (22 May)
-- [Loftus-Cheek: We want to get back to being ruthless](https://chelseafc.com/en/news/article/loftus-cheek-we-want-to-get-back-to-being-ruthless) (22 May)
+- [Man Utd vs Chelsea: Where to watch, TV channel, kick-off time, date](https://chelseafc.com/en/news/article/man-utd-vs-chelsea-where-to-watch-tv-channel-kick-off-time-date) (24 May)
+- [Slonina clean sheet in big Under-20 World Cup win](https://chelseafc.com/en/news/article/slonina-clean-sheet-in-big-u20-world-cup-win) (23 May)
+- [10 from Training: Chelsea’s focus turns to United](https://chelseafc.com/en/news/article/10-from-training-chelseas-focus-turns-to-united) (23 May)
+- [Benoit Badiashile injury update](https://chelseafc.com/en/news/article/benoit-badiashile-injury-update) (23 May)
+- [WSL final day fixture at Reading chosen for TV broadcast](https://chelseafc.com/en/news/article/wsl-final-day-fixture-at-reading-chosen-for-tv-broadcast) (23 May)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > daisy cutter - noun: 1. In a ball game, a ball that moves close to the ground. 2. A horse that lifts its feet very little off the ground. 3. A bomb powerful enough to flatten a large area, such as a forest.
+ > swan song - noun: A farewell or final performance, appearance, or accomplishment.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 421, using [3, 5, 7, 9, 10, 25]
-- Solution: ( 10 + 7 ) x 25 + 5 - 9
-- Total: 13 solutions.
+- Target: 244, using [1, 2, 4, 7, 7, 100]
+- Solution: ( ( 7 - 4 ) x 7 + 100 + 1 ) x 2
+- Total: 8 solutions.
 
 <!-- game_marker ends -->
