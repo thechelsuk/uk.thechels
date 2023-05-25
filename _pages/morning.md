@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 24 May 2023
+### Daily Rundown on Thursday, 25 May 2023
 
-- The average temperature today is 17.01˚C;
-- With highs of 17.74˚C and lows of 7.55˚C.
+- The average temperature today is 17.39˚C;
+- With highs of 17.39˚C and lows of 7.84˚C.
 - You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
@@ -19,8 +19,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
-- Calf raises
+- Walking jacks
+- Shadow boxing
 - Kettlebell rows
 
 <!-- workout_marker ends -->
@@ -34,10 +34,10 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 86.86
-- V3AB.L : 3.9155
+- VWRL.L : 85.82
+- V3AB.L : 3.86925
 - 0P00018XAR.L : nan
-- BFSP.L : nan
+- BFSP.L : 87.0
 
 <!-- stocks_marker ends -->
 
@@ -46,7 +46,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Brighton & Hove Albion - Manchester City</li>
+<li>(20:00) Manchester United - Chelsea</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -54,26 +54,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Man Utd vs Chelsea: Where to watch, TV channel, kick-off time, date](https://chelseafc.com/en/news/article/man-utd-vs-chelsea-where-to-watch-tv-channel-kick-off-time-date) (24 May)
-- [Slonina clean sheet in big Under-20 World Cup win](https://chelseafc.com/en/news/article/slonina-clean-sheet-in-big-u20-world-cup-win) (23 May)
-- [10 from Training: Chelsea’s focus turns to United](https://chelseafc.com/en/news/article/10-from-training-chelseas-focus-turns-to-united) (23 May)
-- [Benoit Badiashile injury update](https://chelseafc.com/en/news/article/benoit-badiashile-injury-update) (23 May)
-- [WSL final day fixture at Reading chosen for TV broadcast](https://chelseafc.com/en/news/article/wsl-final-day-fixture-at-reading-chosen-for-tv-broadcast) (23 May)
+- [Lampard on how Enzo will be central to Chelsea's future](https://chelseafc.com/en/news/article/lampard-on-how-enzo-will-be-central-to-chelseas-future) (24 May)
+- [Man Utd vs Chelsea press conference: Lampard issues squad update](https://chelseafc.com/en/news/article/man-utd-vs-chelsea-press-conference-lampard-issues-squad-update) (24 May)
+- [Lampard's Press Conference 🎙️](https://chelseafc.com/en/video/lampards-press-conference) (24 May)
+- [Ted Curd stars as England draw final Under-17 Euros group game](https://chelseafc.com/en/news/article/ted-curd-stars-as-england-draw-final-under-17-euros-group-game) (24 May)
+- [Gallagher selected for Three Lions; trio in provisional England U21 Euros squad](https://chelseafc.com/en/news/article/gallagher-selected-for-three-lions-trio-in-provisional-england-u21-euros) (24 May)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > swan song - noun: A farewell or final performance, appearance, or accomplishment.
+ > haircut - noun: A reduction in value.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 244, using [1, 2, 4, 7, 7, 100]
-- Solution: ( ( 7 - 4 ) x 7 + 100 + 1 ) x 2
-- Total: 8 solutions.
+- Target: 385, using [6, 7, 8, 9, 25, 50]
+- Solution: ( ( 25 + 9 + 6 ) / 8 + 50 ) x 7
+- Total: 23 solutions.
 
 <!-- game_marker ends -->
