@@ -7,8 +7,6 @@ cited:
 
 ---
 
-# My favourite interview questions.
-
 Here's a rundown of the best set of interview questions I've developed after doing over 200 interviews in the last two years, and how to run a successful interview process for engineers.
 
 Regardless of the outcome, it's important to give everyone a good experience. So we go through the majority of questions and provide honest and candid feedback to all candidates in a timely manner. 
