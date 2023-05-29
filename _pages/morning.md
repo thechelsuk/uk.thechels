@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 28 May 2023
+### Daily Rundown on Monday, 29 May 2023
 
-- The average temperature today is 18.14˚C;
-- With highs of 18.14˚C and lows of 9.58˚C.
-- You can expect light rain for the day.
+- The average temperature today is 15.24˚C;
+- With highs of 15.64˚C and lows of 6.95˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Calf raises
-- Plank
+- Kettlebell swings
+- Bodyweight squats
 - Walking jacks
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Stocks
@@ -46,43 +47,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(16:30) Arsenal - Wolverhampton Wanderers</li>
-<li>(16:30) Aston Villa - Brighton & Hove Albion</li>
-<li>(16:30) Brentford - Manchester City</li>
-<li>(16:30) Chelsea - Newcastle United</li>
-<li>(16:30) Crystal Palace - Nottingham Forest</li>
-<li>(16:30) Everton - Bournemouth</li>
-<li>(16:30) Leeds United - Tottenham Hotspur</li>
-<li>(16:30) Leicester City - West Ham United</li>
-<li>(16:30) Manchester United - Fulham</li>
-<li>(16:30) Southampton - Liverpool</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Lampard hopes for performance for fans in final game](https://chelseafc.com/en/news/article/lampard-hopes-for-performance-for-fans-in-final-game) (28 May)
-- [In pictures: Our WSL triumph match-by-match](https://chelseafc.com/en/news/article/in-pictures-our-wsl-triumph-match-by-match) (28 May)
-- [Koulibaly: Lessons for a bright future](https://chelseafc.com/en/news/article/koulibaly-lessons-for-a-bright-future) (28 May)
-- [Kerr voted Chelsea Women’s Player of the Season again](https://chelseafc.com/en/news/article/kerr-voted-chelsea-womens-player-of-the-season-again) (27 May)
-- [That’s why we’re champions! How the WSL was won](https://chelseafc.com/en/news/article/thats-why-were-champions-how-the-wsl-was-won) (27 May)
+- [Madueke: A much better performance](https://chelseafc.com/en/news/article/madueke-a-much-better-performance) (29 May)
+- [Full Match: Chelsea 1-1 Newcastle United](https://chelseafc.com/en/video/full-match-chelsea-1-1-newcastle-united) (28 May)
+- [Extended: Chelsea 1-1 Newcastle United](https://chelseafc.com/en/video/extended-chelsea-1-1-newcastle-united) (28 May)
+- [Highlights: Chelsea 1-1 Newcastle United](https://chelseafc.com/en/video/highlights-chelsea-1-1-newcastle-united) (28 May)
+- [Lampard bids a fond farewell to 'amazing' fans](https://chelseafc.com/en/news/article/lampard-bids-a-fond-farewell-to-the-fans) (28 May)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > Piccadilly Circus - noun: A place that is very busy, crowded, or noisy.
+ > rusticle - noun: An icicle-like formation of rust, as on an underwater shipwreck.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 263, using [3, 3, 3, 4, 50, 75]
-- Solution: ( 75 + 3 - 4 - 3 ) x 3 + 50
-- Total: 20 solutions.
+- Target: 329, using [2, 4, 6, 9, 50, 100]
+- Solution: ( 100 + 50 + 6 + 4 ) x 2 + 9
+- Total: 12 solutions.
 
 <!-- game_marker ends -->
