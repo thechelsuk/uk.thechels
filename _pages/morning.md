@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 29 May 2023
+### Daily Rundown on Tuesday, 30 May 2023
 
-- The average temperature today is 15.24˚C;
-- With highs of 15.64˚C and lows of 6.95˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 16.48˚C;
+- With highs of 18.27˚C and lows of 5.74˚C.
+- You can expect clear sky for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Calf raises
+- Bench dips
 - Kettlebell swings
-- Bodyweight squats
-- Walking jacks
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
@@ -37,7 +38,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 - VWRL.L : 87.25
 - V3AB.L : 3.941
-- 0P00018XAR.L : nan
+- 0P00018XAR.L : 17654.83008
 - BFSP.L : 87.0
 
 <!-- stocks_marker ends -->
@@ -54,26 +55,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Thiago Silva receives Players’ Player of the Season award](https://chelseafc.com/en/news/article/thiago-silva-receives-players-player-of-the-season-award) (30 May)
+- [Mauricio Pochettino to become Chelsea head coach](https://chelseafc.com/en/news/article/mauricio-pochettino-to-become-chelsea-head-coach) (29 May)
 - [Madueke: A much better performance](https://chelseafc.com/en/news/article/madueke-a-much-better-performance) (29 May)
+- [Matchday Unseen 🎥](https://chelseafc.com/en/video/matchday-unseen-28-05-2023) (29 May)
 - [Full Match: Chelsea 1-1 Newcastle United](https://chelseafc.com/en/video/full-match-chelsea-1-1-newcastle-united) (28 May)
-- [Extended: Chelsea 1-1 Newcastle United](https://chelseafc.com/en/video/extended-chelsea-1-1-newcastle-united) (28 May)
-- [Highlights: Chelsea 1-1 Newcastle United](https://chelseafc.com/en/video/highlights-chelsea-1-1-newcastle-united) (28 May)
-- [Lampard bids a fond farewell to 'amazing' fans](https://chelseafc.com/en/news/article/lampard-bids-a-fond-farewell-to-the-fans) (28 May)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > rusticle - noun: An icicle-like formation of rust, as on an underwater shipwreck.
+ > infodemic - noun: A glut of mostly unreliable, rapidly spreading information relating to an event, crisis, disease, etc.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 329, using [2, 4, 6, 9, 50, 100]
-- Solution: ( 100 + 50 + 6 + 4 ) x 2 + 9
-- Total: 12 solutions.
+- Target: 238, using [7, 7, 10, 50, 75, 100]
+- Solution: ( 100 + 10 - 75 ) x 7 - 7
+- Total: 14 solutions.
 
 <!-- game_marker ends -->
