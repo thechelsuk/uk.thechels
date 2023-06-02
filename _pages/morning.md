@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 01 June 2023
+### Daily Rundown on Friday, 02 June 2023
 
-- The average temperature today is 16.94˚C;
-- With highs of 17.82˚C and lows of 7.99˚C.
-- You can expect few clouds for the day.
+- The average temperature today is 16.12˚C;
+- With highs of 17.15˚C and lows of 7.62˚C.
+- You can expect clear sky for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,8 +19,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
 - Kettlebell swings
+- Walking jacks
 - Bench dips
 
 <!-- workout_marker ends -->
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 85.605
-- V3AB.L : 3.87725
+- VWRL.L : 85.89
+- V3AB.L : 3.889
 - 0P00018XAR.L : nan
 - BFSP.L : 87.0
 
@@ -53,26 +53,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [James: This is my club and I’m just getting started](https://chelseafc.com/en/news/article/james-this-is-my-club-and-im-just-getting-started) (01 Jun)
+- [Lauren James commits to Chelsea!](https://chelseafc.com/en/news/article/lauren-james-commits-to-chelsea) (01 Jun)
+- [Chelsea squad make donation to support cancer patients](https://chelseafc.com/en/news/article/chelsea-squad-make-donation-to-support-cancer-patients) (01 Jun)
+- ['It's an amazing feeling'](https://chelseafc.com/en/video/its-an-amazing-feeling) (01 Jun)
 - [Pat Nevin: Exciting opportunities and unforgettable memories](https://chelseafc.com/en/news/article/pat-nevin-exciting-opportunities-and-unforgettable-memories) (01 Jun)
-- [Santos nets brace as Brazil progress](https://chelseafc.com/en/news/article/santos-nets-brace-as-brazil-progress) (31 May)
-- [Guro Reiten's best moments! 🌟](https://chelseafc.com/en/video/guro-reitens-best-moments) (31 May)
-- [Four Blues selected for Lionesses World Cup squad](https://chelseafc.com/en/news/article/four-blues-selected-for-lionesses-world-cup-squad) (31 May)
-- [Kepa up for Save of the Season](https://chelseafc.com/en/news/article/kepa-up-for-save-of-the-season) (31 May)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > tulgey - adjective: Thick, dark, and scary.
+ > nobodaddy - noun: 1. God. 2. Someone who is no longer considered worthy of respect.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 702, using [2, 4, 6, 10, 75, 100]
-- Solution: ( 6 / 2 + 100 + 75 ) x 4 - 10
-- Total: 38 solutions.
+- Target: 106, using [4, 4, 10, 25, 50, 75]
+- Solution: 75 + 50 + 10 - 25 - 4
+- Total: 30 solutions.
 
 <!-- game_marker ends -->
