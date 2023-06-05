@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 04 June 2023
+### Daily Rundown on Monday, 05 June 2023
 
-- The average temperature today is 17.64˚C;
-- With highs of 18.64˚C and lows of 7.05˚C.
-- You can expect clear sky for the day.
+- The average temperature today is 16.2˚C;
+- With highs of 18.27˚C and lows of 6.41˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
-- Bench dips
-- Kettlebell swings
+- Calf raises
+- Shadow boxing
+- Dead bugs
 
 <!-- workout_marker ends -->
 
@@ -53,26 +53,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Andrey Santos and Brazil exit Under-20 World Cup](https://chelseafc.com/en/news/article/andrey-santos-and-brazil-exit-under-20-world-cup) (03 Jun)
-- [Every Sam Kerr goal this season ⚽️🔵](https://chelseafc.com/en/video/every-sam-kerr-goal-this-season) (02 Jun)
-- [Mark Robinson on a season of discovery, progression and focus](https://chelseafc.com/en/news/article/mark-robinson-on-a-season-of-discovery-progression-and-focus) (02 Jun)
-- [Three Blues nominated for WSL Goal of the Season award](https://chelseafc.com/en/news/article/three-blues-nominated-for-wsl-goal-of-the-season-award) (02 Jun)
-- [Last chance to renew season tickets](https://chelseafc.com/en/news/article/last-chance-to-renew-season-tickets) (01 Jun)
+- [No semi for Slonina as unlucky USA exit Under-20 World Cup](https://chelseafc.com/en/news/article/no-semi-for-slonina-as-unlucky-usa-exit-under-20-world-cup) (06 Jun)
+- [Kepa wins Save of the Season award](https://chelseafc.com/en/news/article/kepa-wins-save-of-the-season-award) (04 Jun)
+- [Mjelde on memories, motivation and momentum](https://chelseafc.com/en/news/article/mjelde-on-memories-motivation-and-momentum) (04 Jun)
+- [9 Season-Defining WSL Goals - 2022-23](https://chelseafc.com/en/video/9-season-defining-wsl-goals-or-2022-23) (04 Jun)
+- [One more year for Maren!](https://chelseafc.com/en/news/article/one-more-year-for-maren) (04 Jun)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > nobodaddy - noun: 1. God. 2. Someone who is no longer considered worthy of respect.
+ > barometer - noun: 1. A device for determining atmospheric pressure in predicting weather. 2. Something used as a gauge or as an indicator of change. 3. A standard for measuring something.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 458, using [1, 4, 4, 6, 7, 10]
-- Solution: ( 10 x 7 - 4 ) x ( 6 + 1 ) - 4
-- Total: 3 solutions.
+- Target: 222, using [6, 6, 7, 8, 9, 10]
+- Solution: ( ( 9 - 6 ) x 10 + 7 ) x 6
+- Total: 31 solutions.
 
 <!-- game_marker ends -->
