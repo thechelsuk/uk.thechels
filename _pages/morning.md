@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 08 June 2023
+### Daily Rundown on Friday, 09 June 2023
 
-- The average temperature today is 18.26˚C;
-- With highs of 19.48˚C and lows of 6.82˚C.
-- You can expect clear sky for the day.
+- The average temperature today is 21.05˚C;
+- With highs of 22.54˚C and lows of 8.93˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
-- Calf raises
+- Kettlebell rows
 - Bodyweight squats
+- Calf raises
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 87.95
-- V3AB.L : 3.97575
+- VWRL.L : 87.44
+- V3AB.L : 3.95
 - 0P00018XAR.L : nan
 - BFSP.L : 87.0
 
@@ -53,26 +53,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Pat Nevin: Importance of the next month](https://chelseafc.com/en/news/article/pat-nevin-importance-of-the-next-month) (07 Jun)
-- [Chelsea Stars get an art lesson with MSC Cruises 🎨🛳️'](https://chelseafc.com/en/video/chelsea-stars-get-an-art-lesson-with-msc-cruises) (07 Jun)
-- [School success at Premier League tournament](https://chelseafc.com/en/news/article/school-success-at-premier-league-tournament) (07 Jun)
-- [Watch from luxury seats as the Blues walkout onto the pitch](https://chelseafc.com/en/news/article/watch-from-luxury-seats-as-the-blues-walkout-onto-the-pitch) (07 Jun)
-- [Perisset named in World Cup squad](https://chelseafc.com/en/news/article/perisset-named-in-world-cup-squad) (06 Jun)
+- [Internationals: Which Chelsea players are away and what games are taking place?](https://chelseafc.com/en/news/article/internationals-which-chelsea-players-are-away-and-what-games-are-taking) (09 Jun)
+- [A message to our fans](https://chelseafc.com/en/news/article/a-message-to-our-fans) (08 Jun)
+- [David Fofana scores at Toulon Tournament](https://chelseafc.com/en/news/article/david-fofana-scores-at-toulon-tournament) (08 Jun)
+- [Blues pair named in provisional Canada World Cup squad](https://chelseafc.com/en/news/article/blues-pair-named-in-provisional-canada-world-cup-squad) (08 Jun)
+- [The Bridge - Tisha Gale, Photographer](https://chelseafc.com/en/video/the-bridge-or-american-creators-in-football-or-tisha-gale-photographer) (08 Jun)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > weather vane - noun: 1. A device having a pointer rotating on a vertical spindle, used to indicate the direction of the wind. 2. Someone or something constantly changing.
+ > hibernal - adjective: Of or relating to winter.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 765, using [2, 8, 25, 50, 75, 100]
-- Solution: ( 50 / 25 + 100 ) x 75 / ( 8 + 2 )
-- Total: 2 solutions.
+- Target: 113, using [3, 5, 5, 7, 7, 10]
+- Solution: ( 7 / 7 + 10 ) x ( 5 + 5 ) + 3
+- Total: 33 solutions.
 
 <!-- game_marker ends -->
