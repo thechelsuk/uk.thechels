@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 15 June 2023
+### Daily Rundown on Friday, 16 June 2023
 
-- The average temperature today is 21.97˚C;
-- With highs of 22.83˚C and lows of 14.44˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 22.2˚C;
+- With highs of 23.44˚C and lows of 14.28˚C.
+- You can expect few clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
-- Kettlebell swings
 - Shadow boxing
+- Dead bugs
+- Walking jacks
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 88.49
-- V3AB.L : 4.00025
+- VWRL.L : 87.88
+- V3AB.L : 3.9945
 - 0P00018XAR.L : nan
 - BFSP.L : 87.0
 
@@ -53,26 +53,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Kovacic and Croatia through to Nations League final](https://chelseafc.com/en/news/article/kovacic-and-croatia-through-to-nations-league-final) (14 Jun)
-- [Analysis - Ann-Katrin Berger - Investing in Futures](https://chelseafc.com/en/video/analysis-or-ann-katrin-berger-or-investing-in-futures) (14 Jun)
-- [John Hollins MBE 1946-2023](https://chelseafc.com/en/news/article/john-hollins-mbe-1946-2023) (14 Jun)
-- [Chelsea duo heading to Euro finals with England](https://chelseafc.com/en/news/article/chelsea-duo-heading-to-euro-finals-with-england) (14 Jun)
-- [Gallagher's week with England](https://chelseafc.com/en/news/article/gallaghers-week-with-england) (14 Jun)
+- [Thiago Silva on the moment that changed everything, a nickname to be proud of and continuing to chase dreams](https://chelseafc.com/en/news/article/thiago-silva-the-moment-that-changed-everything-a-nickname-to-be-proud-of) (16 Jun)
+- [Colwill makes Malta journey with senior England squad](https://chelseafc.com/en/news/article/colwill-makes-malta-journey-with-senior-england-squad) (15 Jun)
+- [Enzo assists Messi in Argentina win; Kepa's Spain make final](https://chelseafc.com/en/news/articlehttps://chelseafc.com/enzo-assists-messi-in-argentina-win) (15 Jun)
+- [Chelsea's 2023/24 Premier League fixtures announced](https://chelseafc.com/en/news/article/chelseas-2023-24-premier-league-fixtures-announced) (15 Jun)
+- [Outstanding player; unbelievably funny team-mate – Holly was everybody’s friend](https://chelseafc.com/en/news/article/outstanding-player-unbelievably-funny-team-mate-holly-was-everybodys-friend) (15 Jun)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > skeeve - verb tr.: To disgust. noun: A disgusting person.
+ > souse - verb tr.: 1. To soak or steep. 2. To pickle, cook in a marinade, etc. 3. To make intoxicated. noun: 1. Something or someone soaked. 2. The liquid used in soaking. 3. Food steeped in pickle; also such liquid. 4. A drunkard. 5. A period of heavy drinking.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 817, using [3, 4, 6, 9, 9, 75]
-- Solution: ( 75 + 9 + 6 ) x 9 + 4 + 3
-- Total: 1 solutions.
+- Target: 282, using [2, 4, 6, 6, 50, 75]
+- Solution: ( 75 + 50 + 6 + 6 + 4 ) x 2
+- Total: 30 solutions.
 
 <!-- game_marker ends -->
