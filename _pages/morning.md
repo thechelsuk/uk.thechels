@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 16 June 2023
+### Daily Rundown on Saturday, 17 June 2023
 
-- The average temperature today is 22.2˚C;
-- With highs of 23.44˚C and lows of 14.28˚C.
-- You can expect few clouds for the day.
+- The average temperature today is 20.94˚C;
+- With highs of 22.36˚C and lows of 15.08˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,8 +19,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
 - Dead bugs
+- Shadow boxing
 - Walking jacks
 
 <!-- workout_marker ends -->
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 87.88
-- V3AB.L : 3.9945
+- VWRL.L : 87.74
+- V3AB.L : 3.98825
 - 0P00018XAR.L : nan
 - BFSP.L : 87.0
 
@@ -53,11 +53,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Fofana debuts in France win; two dazzling Mudryk assists](https://chelseafc.com/en/news/article/fofana-debuts-in-france-win-two-dazzling-mudryk-assists) (16 Jun)
+- [Retained list and goodbye to Bakayoko](https://chelseafc.com/en/news/article/retained-list-and-goodbye-to-bakayoko) (16 Jun)
+- [Pulisic scores twice as USA brush Mexico aside to reach Nations League final](https://chelseafc.com/en/news/article/christian-pulisic-scores-twice-usa-beat-mexico-nations-league-final) (16 Jun)
 - [Thiago Silva on the moment that changed everything, a nickname to be proud of and continuing to chase dreams](https://chelseafc.com/en/news/article/thiago-silva-the-moment-that-changed-everything-a-nickname-to-be-proud-of) (16 Jun)
 - [Colwill makes Malta journey with senior England squad](https://chelseafc.com/en/news/article/colwill-makes-malta-journey-with-senior-england-squad) (15 Jun)
-- [Enzo assists Messi in Argentina win; Kepa's Spain make final](https://chelseafc.com/en/news/articlehttps://chelseafc.com/enzo-assists-messi-in-argentina-win) (15 Jun)
-- [Chelsea's 2023/24 Premier League fixtures announced](https://chelseafc.com/en/news/article/chelseas-2023-24-premier-league-fixtures-announced) (15 Jun)
-- [Outstanding player; unbelievably funny team-mate – Holly was everybody’s friend](https://chelseafc.com/en/news/article/outstanding-player-unbelievably-funny-team-mate-holly-was-everybodys-friend) (15 Jun)
 
 <!-- cfc_marker ends -->
 
@@ -71,8 +71,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 282, using [2, 4, 6, 6, 50, 75]
-- Solution: ( 75 + 50 + 6 + 6 + 4 ) x 2
-- Total: 30 solutions.
+- Target: 186, using [4, 5, 6, 10, 50, 100]
+- Solution: ( 10 + 5 - 6 ) x 4 + 100 + 50
+- Total: 75 solutions.
 
 <!-- game_marker ends -->
