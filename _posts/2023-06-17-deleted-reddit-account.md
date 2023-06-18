@@ -9,6 +9,6 @@ cited:
 
 I deleted my Reddit account this week.
 
-Having deleted my facebook account years and uears ago and my Twitter account last year.
+Having deleted my facebook account years and years ago and my Twitter account last year.
 
 Bad leadership will always catch up with you. 
