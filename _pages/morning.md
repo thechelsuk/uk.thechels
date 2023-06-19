@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 18 June 2023
+### Daily Rundown on Monday, 19 June 2023
 
-- The average temperature today is 21.91˚C;
-- With highs of 21.91˚C and lows of 13.75˚C.
-- You can expect moderate rain for the day.
+- The average temperature today is 21.1˚C;
+- With highs of 21.48˚C and lows of 12.79˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell swings
-- Walking jacks
 - Dead bugs
+- Bench dips
+- Walking jacks
 
 <!-- workout_marker ends -->
 
@@ -53,26 +53,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Internationals: Ziyech and Lukaku net and big win for Joao Felix](https://chelseafc.com/en/news/article/internationals-ziyech-and-lukaku-net-and-big-win-for-joao-felix) (17 Jun)
+- [Pulisic named best player as USA retain CONCACAF title](https://chelseafc.com/en/news/article/pulisic-named-best-player-as-usa-retain-concacaf-title) (19 Jun)
+- [Nations League triumph for Kepa as Kovacic's Croatia beaten](https://chelseafc.com/en/news/article/nations-league-triumph-for-kepa-as-kovacics-croatia-beaten) (18 Jun)
+- [My first game as a fan: Thiago Silva and Pierre-Emerick Aubameyang](https://chelseafc.com/en/news/article/my-first-game-as-a-fan-thiago-silva-and-pierre-emerick-aubameyang) (18 Jun)
+- [Ziyech and Lukaku net and big win for Joao Felix](https://chelseafc.com/en/news/article/internationals-ziyech-and-lukaku-net-and-big-win-for-joao-felix) (17 Jun)
 - [My first game as a fan: Trevoh Chalobah](https://chelseafc.com/en/news/article/my-first-game-as-a-fan-trevoh-chalobah) (17 Jun)
-- [Fofana debuts in France win; two dazzling Mudryk assists](https://chelseafc.com/en/news/article/fofana-debuts-in-france-win-two-dazzling-mudryk-assists) (16 Jun)
-- [Retained list and goodbye to Bakayoko](https://chelseafc.com/en/news/article/retained-list-and-goodbye-to-bakayoko) (16 Jun)
-- [Pulisic scores twice as USA brush Mexico aside to reach Nations League final](https://chelseafc.com/en/news/article/christian-pulisic-scores-twice-usa-beat-mexico-nations-league-final) (16 Jun)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > souse - verb tr.: 1. To soak or steep. 2. To pickle, cook in a marinade, etc. 3. To make intoxicated. noun: 1. Something or someone soaked. 2. The liquid used in soaking. 3. Food steeped in pickle; also such liquid. 4. A drunkard. 5. A period of heavy drinking.
+ > radioactive - 1. Involving something extremely controversial that may rub off on others. 2. Spontaneously emitting radiation, as from an unstable atomic nucleus or in a nuclear reaction.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 509, using [2, 7, 10, 25, 50, 75]
-- Solution: ( 75 + 25 - 50 ) x 10 + 7 + 2
-- Total: 17 solutions.
+- Target: 372, using [3, 6, 9, 10, 25, 75]
+- Solution: ( 25 - 10 ) x 75 / ( 9 - 6 ) - 3
+- Total: 49 solutions.
 
 <!-- game_marker ends -->
