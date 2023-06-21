@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 20 June 2023
+### Daily Rundown on Wednesday, 21 June 2023
 
-- The average temperature today is 16.02˚C;
-- With highs of 20.17˚C and lows of 13.59˚C.
-- You can expect heavy intensity rain for the day.
+- The average temperature today is 20.99˚C;
+- With highs of 21.16˚C and lows of 12.5˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,25 +19,23 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Dead bugs
-- Walking jacks
 - Plank
+- Kettlebell swings
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 87.335
-- V3AB.L : 3.96925
+- VWRL.L : 87.06
+- V3AB.L : 3.95825
 - 0P00018XAR.L : nan
 - BFSP.L : 87.0
 
@@ -55,26 +53,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Gallagher features as England score seven in Manchester](https://chelseafc.com/en/news/article/conor-gallagher-features-as-england-score-seven-in-manchester) (19 Jun)
-- [Noni Madueke exclusive interview: Feeling at home, learning lots and targeting the top](https://chelseafc.com/en/news/article/noni-madueke-exclusive-interview-chelsea-first-season-england-u21) (19 Jun)
-- [Pulisic named best player as USA retain CONCACAF title](https://chelseafc.com/en/news/article/pulisic-named-best-player-as-usa-retain-concacaf-title) (19 Jun)
-- [Blues duo named in Norway World Cup squad](https://chelseafc.com/en/news/article/blues-duo-named-in-norway-world-cup-squad) (19 Jun)
-- [Sam Kerr set to lead Australia at home World Cup](https://chelseafc.com/en/news/article/sam-kerr-set-to-lead-australia-at-home-world-cup) (19 Jun)
+- [Christopher Nkunku: The scouting report](https://chelseafc.com/en/news/article/christopher-nkunku-the-scouting-report-strengths-main-role) (21 Jun)
+- [Under-21 Euros preview: Four Blues involved](https://chelseafc.com/en/news/article/under-21-euros-preview-four-blues-involved) (21 Jun)
+- [Lukaku scores twice and prestigious win for Koulibaly](https://chelseafc.com/en/news/article/lukaku-scores-twice-and-prestigious-win-for-koulibaly) (20 Jun)
+- [‘Now the battery is full’ – Christopher Nkunku’s journey to Chelsea](https://chelseafc.com/en/news/article/now-the-battery-is-full-christopher-nkunkus-journey-to-chelsea) (20 Jun)
+- [Nkunku to join Chelsea](https://chelseafc.com/en/news/article/nkunku-to-join-chelsea) (20 Jun)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > broad-spectrum - adjective: Effective in a wide variety of uses.
+ > high-octane - adjective: 1. High-energy; powerful; dynamic. 2. In relation to engine fuels, having a high octane number resulting in anti-knock properties and higher efficiency.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 152, using [1, 4, 7, 7, 10, 25]
-- Solution: ( 25 + 4 - 10 ) x ( 7 + 1 )
-- Total: 18 solutions.
+- Target: 433, using [7, 7, 7, 25, 50, 75]
+- Solution: ( 75 - 7 ) x 7 + 7 - 50
+- Total: 1 solutions.
 
 <!-- game_marker ends -->
