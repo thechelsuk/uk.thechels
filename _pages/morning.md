@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 23 June 2023
+### Daily Rundown on Saturday, 24 June 2023
 
-- The average temperature today is 21˚C;
-- With highs of 21.68˚C and lows of 13.85˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 22.65˚C;
+- With highs of 23.35˚C and lows of 14.55˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell swings
-- Walking jacks
-- Dead bugs
+- Shadow boxing
+- Bodyweight squats
+- Kettlebell rows
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 86.81
-- V3AB.L : 3.9415
+- VWRL.L : 86.26
+- V3AB.L : 3.921
 - 0P00018XAR.L : nan
 - BFSP.L : 87.0
 
@@ -53,11 +53,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Madueke and Colwill help England Under-21s start with a win](https://chelseafc.com/en/news/article/madueke-and-colwill-help-england-u21s-start-with-a-win) (22 Jun)
-- [Chelsea Foundation celebrates Windrush generation](https://chelseafc.com/en/news/article/chelsea-foundation-celebrates-windrush-generation) (22 Jun)
-- [Kante posts goodbye message to Chelsea family](https://chelseafc.com/en/news/article/kante-posts-goodbye-message-to-chelsea-family) (21 Jun)
-- [Maatsen involved in Dutch Euro U21 opener; Ukraine win](https://chelseafc.com/en/news/article/maatsen-involved-in-dutch-euro-u21-opener-ukraine-win) (21 Jun)
-- [Every trophy Kante won at Chelsea!](https://chelseafc.com/en/news/gallery/every-trophy-kante-won-at-chelsea) (21 Jun)
+- [Nkunku's first day in Blue! 🔵](https://chelseafc.com/en/video/nkunkus-first-day-in-blue) (23 Jun)
+- [Chelsea’s Caribbean Voices – Gill and Felicia Pennant](https://chelseafc.com/en/news/article/chelseas-caribbean-voices-gill-and-felicia-pennant) (23 Jun)
+- [Exclusive: Nkunku excited to get to work and bring joy to the fans](https://chelseafc.com/en/news/article/exclusive-nkunku-excited-to-get-to-work-and-bring-joy-to-the-fans) (23 Jun)
+- [Bernabe becomes a Blue!](https://chelseafc.com/en/news/article/bernabe-becomes-a-blue) (23 Jun)
+- [Bernabe signs for Chelsea! 🔵](https://chelseafc.com/en/video/bernabe-is-a-blue) (23 Jun)
 
 <!-- cfc_marker ends -->
 
@@ -71,8 +71,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 361, using [3, 5, 7, 7, 9, 10]
-- Solution: ( 7 + 7 + 5 ) x ( 10 + 9 )
-- Total: 16 solutions.
+- Target: 974, using [3, 4, 5, 9, 9, 75]
+- Solution: ( 9 + 9 - 5 ) x 75 + 3 - 4
+- Total: 2 solutions.
 
 <!-- game_marker ends -->
