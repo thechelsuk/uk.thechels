@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 24 June 2023
+### Daily Rundown on Sunday, 25 June 2023
 
-- The average temperature today is 22.65˚C;
-- With highs of 23.35˚C and lows of 14.55˚C.
-- You can expect broken clouds for the day.
+- The average temperature today is 24.51˚C;
+- With highs of 24.7˚C and lows of 12.68˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
 - Bodyweight squats
-- Kettlebell rows
+- Plank
+- Bench dips
 
 <!-- workout_marker ends -->
 
@@ -53,11 +53,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Nkunku's first day in Blue! 🔵](https://chelseafc.com/en/video/nkunkus-first-day-in-blue) (23 Jun)
-- [Chelsea’s Caribbean Voices – Gill and Felicia Pennant](https://chelseafc.com/en/news/article/chelseas-caribbean-voices-gill-and-felicia-pennant) (23 Jun)
-- [Exclusive: Nkunku excited to get to work and bring joy to the fans](https://chelseafc.com/en/news/article/exclusive-nkunku-excited-to-get-to-work-and-bring-joy-to-the-fans) (23 Jun)
-- [Bernabe becomes a Blue!](https://chelseafc.com/en/news/article/bernabe-becomes-a-blue) (23 Jun)
-- [Bernabe signs for Chelsea! 🔵](https://chelseafc.com/en/video/bernabe-is-a-blue) (23 Jun)
+- [Richards recruited](https://chelseafc.com/en/news/article/richards-recruited) (24 Jun)
+- [Maatsen helps Dutch Under-21s to draw, Ukraine into quarters](https://chelseafc.com/en/news/article/maatsen-helps-dutch-under-21s-to-draw-ukraine-on-cusp-of-quarters) (24 Jun)
+- [My first game as a fan: Carney Chukwuemeka](https://chelseafc.com/en/news/article/my-first-game-as-a-fan-carney-chukwuemeka) (24 Jun)
+- [Chelsea’s Caribbean Voices – The Brandfords](https://chelseafc.com/en/news/article/chelseas-caribbean-voices-the-brandfords) (24 Jun)
+- [The End of Season Awards are in! 🏆 - Chelsea Trending](https://chelseafc.com/en/video/the-end-of-season-awards-are-in-or-chelsea-trending) (24 Jun)
 
 <!-- cfc_marker ends -->
 
@@ -71,8 +71,6 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 974, using [3, 4, 5, 9, 9, 75]
-- Solution: ( 9 + 9 - 5 ) x 75 + 3 - 4
-- Total: 2 solutions.
+- Target: 926, using [6, 7, 7, 8, 50, 100]
 
 <!-- game_marker ends -->
