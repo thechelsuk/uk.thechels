@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 25 June 2023
+### Daily Rundown on Monday, 26 June 2023
 
-- The average temperature today is 24.51˚C;
-- With highs of 24.7˚C and lows of 12.68˚C.
-- You can expect light rain for the day.
+- The average temperature today is 18.46˚C;
+- With highs of 18.57˚C and lows of 11.26˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
-- Plank
+- Shadow boxing
 - Bench dips
+- Plank
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Stocks
@@ -53,24 +54,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Richards recruited](https://chelseafc.com/en/news/article/richards-recruited) (24 Jun)
-- [Maatsen helps Dutch Under-21s to draw, Ukraine into quarters](https://chelseafc.com/en/news/article/maatsen-helps-dutch-under-21s-to-draw-ukraine-on-cusp-of-quarters) (24 Jun)
-- [My first game as a fan: Carney Chukwuemeka](https://chelseafc.com/en/news/article/my-first-game-as-a-fan-carney-chukwuemeka) (24 Jun)
-- [Chelsea’s Caribbean Voices – The Brandfords](https://chelseafc.com/en/news/article/chelseas-caribbean-voices-the-brandfords) (24 Jun)
-- [The End of Season Awards are in! 🏆 - Chelsea Trending](https://chelseafc.com/en/video/the-end-of-season-awards-are-in-or-chelsea-trending) (24 Jun)
+- [Koulibaly departs Chelsea](https://chelseafc.com/en/news/article/koulibaly-departs-chelsea) (25 Jun)
+- [Chelsea pair help young England progress](https://chelseafc.com/en/news/article/chelsea-pair-help-young-england-progress) (25 Jun)
+- [Hayes to manage Team Shevchenko at Stamford Bridge](https://chelseafc.com/en/news/article/hayes-to-manage-team-shevchenko-at-stamford-bridge) (25 Jun)
+- [Chelsea’s Caribbean Voices – Sirayah and Asher](https://chelseafc.com/en/news/article/chelseas-caribbean-voices-sirayah-and-asher) (25 Jun)
+- [Every Chelsea WSL Goal This Season - 2022/23](https://chelseafc.com/en/video/every-chelsea-wsl-goal-this-season-or-2022-23) (25 Jun)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > critical mass - noun: The minimum amount or number of something required to initiate or sustain a process or effect.
+ > byzantine - adjective: 1. Highly complex or intricate. 2. Involving scheming or intrigue. 3. Relating to the architectural or decorative style developed in the Byzantine Empire. 4. Relating to the ancient city of Byzantium or the Byzantine Empire.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 926, using [6, 7, 7, 8, 50, 100]
+- Target: 639, using [1, 7, 8, 10, 25, 75]
+- Solution: ( ( 25 + 10 ) / 7 + 75 ) x 8 - 1
+- Total: 6 solutions.
 
 <!-- game_marker ends -->
