@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 01 July 2023
+### Daily Rundown on Sunday, 02 July 2023
 
-- The average temperature today is 19.12˚C;
-- With highs of 19.64˚C and lows of 10.96˚C.
-- You can expect light rain for the day.
+- The average temperature today is 16.86˚C;
+- With highs of 18.16˚C and lows of 9.65˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
-- Bench dips
+- Shadow boxing
 - Kettlebell swings
+- Plank
 
 <!-- workout_marker ends -->
 
@@ -53,11 +53,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Exclusive: Jackson following his heart in the footsteps of his heroes](https://chelseafc.com/en/news/article/exclusive-jackson-following-his-heart-in-the-footsteps-of-his-heroes) (01 Jul)
-- [Nicolas Jackson: The career gallery](https://chelseafc.com/en/news/article/nicolas-jackson-the-career-gallery) (30 Jun)
-- [Jackson in Chelsea blue!](https://chelseafc.com/en/news/article/jackson-in-chelsea-blue) (30 Jun)
-- [Nicolas Jackson joins the Blues](https://chelseafc.com/en/news/article/nicolas-jackson-joins-the-blues) (30 Jun)
-- [Nicolas Jackson is a Blue 🔵](https://chelseafc.com/en/video/nicolas-jackson-is-a-blue) (30 Jun)
+- [Lawrence: I’m excited for the challenges ahead](https://chelseafc.com/en/news/article/lawrence-im-excited-for-the-challenges-ahead) (02 Jul)
+- [Three Blues feature as Lionesses held by Portugal](https://chelseafc.com/en/news/article/three-blues-feature-as-lionesses-held-by-portugal) (01 Jul)
+- [Loftus-Cheek's heartfelt goodbye to Chelsea](https://chelseafc.com/en/news/article/loftus-cheeks-heartfelt-goodbye-to-chelsea) (01 Jul)
+- [Summer transfers 2023: All the Chelsea ins, outs and new contracts so far](https://chelseafc.com/en/news/article/summer-transfers-2023-all-the-chelsea-ins-outs-and-new-contracts-so-far) (01 Jul)
+- [Moreira signs for Chelsea](https://chelseafc.com/en/news/article/moreira-signs-for-chelsea) (01 Jul)
 
 <!-- cfc_marker ends -->
 
@@ -71,8 +71,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 963, using [3, 3, 4, 5, 5, 25]
-- Solution: ( ( 5 + 5 + 3 ) x 25 - 4 ) x 3
-- Total: 3 solutions.
+- Target: 113, using [4, 8, 10, 25, 50, 100]
+- Solution: 100 + 50 - 8 / 4 - 25 - 10
+- Total: 35 solutions.
 
 <!-- game_marker ends -->
