@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 03 July 2023
+### Daily Rundown on Tuesday, 04 July 2023
 
-- The average temperature today is 16.69˚C;
-- With highs of 18.36˚C and lows of 9.96˚C.
+- The average temperature today is 16.64˚C;
+- With highs of 16.65˚C and lows of 10.55˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,25 +19,27 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Calf raises
-- Walking jacks
+- Bodyweight squats
 - Shadow boxing
+- Dead bugs
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 88.02
-- V3AB.L : 4.00775
+- VWRL.L : 88.43
+- V3AB.L : 4.02075
 - 0P00018XAR.L : nan
-- BFSP.L : 87.0
+- BFSP.L : nan
 
 <!-- stocks_marker ends -->
 
@@ -53,26 +55,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Jackson's first day at the Bridge 💙](https://chelseafc.com/en/video/jackson-bts-3.0) (02 Jul)
-- [Mudryk key as Ukraine reach Under-21 Euro final four](https://chelseafc.com/en/news/article/mudryk-key-as-ukraine-reach-under-21-euro-semi-finals) (02 Jul)
-- [Madueke and Colwill into Under-21 Euro semi-finals](https://chelseafc.com/en/news/article/madueke-and-colwill-into-under-21-euro-semi-finals) (02 Jul)
-- [Cesc Fabregas announces retirement](https://chelseafc.com/en/news/article/cesc-fabregas-announces-retirement) (02 Jul)
-- [Lawrence: I’m excited for the challenges ahead](https://chelseafc.com/en/news/article/lawrence-im-excited-for-the-challenges-ahead) (02 Jul)
+- [Pochettino interview part two: His promise to Chelsea fans and Stamford Bridge excitement](https://chelseafc.com/en/news/article/pochettino-interview-part-two-his-promise-to-chelsea-fans-and-stamford) (03 Jul)
+- [Pochettino's interview in full 🙌](https://chelseafc.com/en/video/pochettinos-interview-in-full) (03 Jul)
+- [Pochettino interview part one: 'We can create a fantastic journey'](https://chelseafc.com/en/news/article/pochettino-interview-part-one-we-can-create-a-fantastic-journey) (03 Jul)
+- [Gallery: Pochettino at Cobham!](https://chelseafc.com/en/news/article/gallery-pochettino-at-cobham) (03 Jul)
+- [Pochettino arrives at Cobham! 🔵](https://chelseafc.com/en/video/pochettino-arrives-at-cobham) (03 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > cantrip - noun: 1. A magic spell. 2. A trick, sham, prank, etc.
+ > maladdress - noun: Rudeness; tactlessness; clumsiness; awkwardness.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 690, using [2, 4, 8, 25, 75, 100]
-- Solution: ( 100 + 75 ) x 4 - 8 - 2
-- Total: 4 solutions.
+- Target: 160, using [4, 5, 8, 8, 9, 75]
+- Solution: ( 75 - ( 8 - 5 ) x 9 - 8 ) x 4
+- Total: 59 solutions.
 
 <!-- game_marker ends -->
