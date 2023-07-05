@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 04 July 2023
+### Daily Rundown on Wednesday, 05 July 2023
 
-- The average temperature today is 16.64˚C;
-- With highs of 16.65˚C and lows of 10.55˚C.
+- The average temperature today is 17.8˚C;
+- With highs of 17.8˚C and lows of 8.15˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,25 +19,23 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
-- Shadow boxing
-- Dead bugs
+- Kettlebell rows
+- Kettlebell swings
+- Plank
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 88.43
-- V3AB.L : 4.02075
+- VWRL.L : 88.21
+- V3AB.L : 4.0145
 - 0P00018XAR.L : nan
 - BFSP.L : nan
 
@@ -55,26 +53,26 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Pochettino interview part two: His promise to Chelsea fans and Stamford Bridge excitement](https://chelseafc.com/en/news/article/pochettino-interview-part-two-his-promise-to-chelsea-fans-and-stamford) (03 Jul)
-- [Pochettino's interview in full 🙌](https://chelseafc.com/en/video/pochettinos-interview-in-full) (03 Jul)
-- [Pochettino interview part one: 'We can create a fantastic journey'](https://chelseafc.com/en/news/article/pochettino-interview-part-one-we-can-create-a-fantastic-journey) (03 Jul)
-- [Gallery: Pochettino at Cobham!](https://chelseafc.com/en/news/article/gallery-pochettino-at-cobham) (03 Jul)
-- [Pochettino arrives at Cobham! 🔵](https://chelseafc.com/en/video/pochettino-arrives-at-cobham) (03 Jul)
+- [The Blues are back in training 💪](https://chelseafc.com/en/video/the-blues-are-back-in-training) (04 Jul)
+- [Chelsea players report back to Cobham](https://chelseafc.com/en/news/article/chelsea-players-report-back-to-cobham) (04 Jul)
+- [Chelsea sign England international Hampton](https://chelseafc.com/en/news/article/chelsea-sign-england-international-hampton) (04 Jul)
+- [The 23/24 Nike training kit is here!](https://chelseafc.com/en/video/the-23-24-nike-training-kit-is-here) (04 Jul)
+- [Chelsea FC and Nike launch 23/24 trainingwear as players return to Cobham](https://chelseafc.com/en/news/article/chelsea-fc-and-nike-launch-23-24-trainingwear-as-players-return-to-cobham) (04 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > maladdress - noun: Rudeness; tactlessness; clumsiness; awkwardness.
+ > asportation - noun: The carrying away of something unlawfully.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 160, using [4, 5, 8, 8, 9, 75]
-- Solution: ( 75 - ( 8 - 5 ) x 9 - 8 ) x 4
-- Total: 59 solutions.
+- Target: 477, using [3, 3, 5, 6, 7, 50]
+- Solution: ( 7 + 3 ) x 50 - 6 x 3 - 5
+- Total: 22 solutions.
 
 <!-- game_marker ends -->
