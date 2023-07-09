@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 08 July 2023
+### Daily Rundown on Sunday, 09 July 2023
 
-- The average temperature today is 21.67˚C;
-- With highs of 22.33˚C and lows of 14.02˚C.
+- The average temperature today is 19.84˚C;
+- With highs of 21.43˚C and lows of 12.79˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Plank
-- Kettlebell swings
-- Calf raises
+- Walking jacks
+- Kettlebell rows
+- Dead bugs
 
 <!-- workout_marker ends -->
 
@@ -53,11 +53,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Pochettino press conference: I agreed with the club's plan](https://chelseafc.com/en/news/article/pochettino-press-conference-i-agreed-with-the-clubs-plan) (07 Jul)
-- [Pochettino's Colwill stance](https://chelseafc.com/en/news/article/pochettinos-colwill-stance) (07 Jul)
-- [Every word of Pochettino's First Press Conference 🎙️](https://chelseafc.com/en/video/every-word-of-pochettinos-first-press-conference) (07 Jul)
-- [James on Hayes influence and World Cup dreams](https://chelseafc.com/en/news/article/james-on-hayes-influence-and-world-cup-dreams) (07 Jul)
-- [Pochettino: USA tour provides chance to work on and off the pitch](https://chelseafc.com/en/news/article/pochettino-usa-tour-provides-chance-to-work-on-and-off-the-pitch) (07 Jul)
+- [Pochettino: How fresh start will benefit Blues](https://chelseafc.com/en/news/article/pochettino-how-fresh-start-will-benefit-blues) (09 Jul)
+- [Colwill and Madueke crowned European champions](https://chelseafc.com/en/news/article/colwill-and-madueke-crowned-european-champions) (08 Jul)
+- [Samuels-Smith joins Chelsea](https://chelseafc.com/en/news/article/samuels-smith-joins-chelsea) (08 Jul)
+- [Pochettino: Success starts at the training ground](https://chelseafc.com/en/news/article/pochettino-success-starts-at-the-training-ground-) (08 Jul)
+- [Erin Cuthbert receives Honorary Doctorate accolade](https://chelseafc.com/en/news/article/erin-cuthbert-receives-honorary-doctorate-accolade) (08 Jul)
 
 <!-- cfc_marker ends -->
 
@@ -71,8 +71,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 856, using [2, 3, 6, 10, 50, 75]
-- Solution: ( 75 + 50 - 6 x 3 ) x ( 10 - 2 )
-- Total: 19 solutions.
+- Target: 992, using [4, 4, 10, 25, 75, 100]
+- Solution: ( 75 + 25 ) x 100 / 10 - 4 - 4
+- Total: 4 solutions.
 
 <!-- game_marker ends -->
