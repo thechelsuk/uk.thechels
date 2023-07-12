@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Tuesday, 11 July 2023
+### Daily Rundown on Wednesday, 12 July 2023
 
-- The average temperature today is 18.6˚C;
-- With highs of 19.19˚C and lows of 13.24˚C.
-- You can expect moderate rain for the day.
+- The average temperature today is 17.61˚C;
+- With highs of 18.58˚C and lows of 11.65˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,25 +19,23 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Dead bugs
-- Kettlebell swings
+- Walking jacks
 - Shadow boxing
+- Dead bugs
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+No tasks today
 <!-- task_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 86.24
-- V3AB.L : 3.932
+- VWRL.L : 86.28
+- V3AB.L : 3.93525
 - 0P00018XAR.L : nan
 - BFSP.L : 87.0
 
@@ -48,16 +46,11 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-<li>(16:00) Urartu - Zrinjski Mostar</li>
-<li>(16:30) Lincoln Red Imps - FK Qarabag</li>
-<li>(17:00) Zalgiris - FC Struga</li>
-<li>(19:00) Hamrun Spartans - Maccabi Haifa</li>
-<li>(19:00) Olimpija Ljubljana - Valmiera</li>
-<li>(19:00) Raków Czestochowa - Flora</li>
-<li>(19:45) Ballkani - Ludogorets Razgrad</li>
-<li>(19:45) KI Klaksvík - Ferencvárosi TC</li>
-<li>(19:45) Partizani Tirana - BATE Borisov</li>
-<li>(19:45) Shamrock Rovers - Breidablik</li>
+<li>(15:00) FC Astana - Dinamo Tbilisi</li>
+<li>(17:00) HJK Helsinki - Larne</li>
+<li>(18:00) BK Häcken - The New Saints</li>
+<li>(18:30) FCV Farul Constanta - Sheriff Tiraspol</li>
+<li>(19:30) Slovan Bratislava - Swift Hesperange</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -65,26 +58,24 @@ seo: Good Morning Mat, Here is your daily briefing
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Blues in the USA: Kepa and Marcus Bettinelli](https://chelseafc.com/en/news/article/blues-in-the-usa-kepa-and-marcus-bettinelli) (11 Jul)
-- [Baba completes move to Greece](https://chelseafc.com/en/news/article/baba-completes-move-to-greece) (10 Jul)
-- [Blues to host AS Roma in pre-season fixture](https://chelseafc.com/en/news/article/blues-to-host-as-roma-in-pre-season-fixture) (10 Jul)
-- [Loan switch for Sharman-Lowe](https://chelseafc.com/en/news/article/loan-switch-for-sharman-lowe) (10 Jul)
-- [Pay tribute to the ’90s with Chelsea’s new Nike home kit](https://chelseafc.com/en/news/article/pay-tribute-to-the-90s-with-chelseas-new-nike-home-kit) (10 Jul)
+- [Broja is back in training 💪](https://chelseafc.com/en/video/broja-wt-16x9-subs) (11 Jul)
+- [Nicolas Jackson takes part in his first training session](https://chelseafc.com/en/news/article/nicolas-jackson-takes-part-in-his-first-training-session) (11 Jul)
+- [Bold ambition for new Chelsea FC Women season](https://chelseafc.com/en/news/article/bold-ambition-for-new-chelsea-fc-women-season) (11 Jul)
+- [Chelsea FC Women season tickets available for renewal](https://chelseafc.com/en/news/article/chelsea-fc-women-season-tickets-available-for-renewal) (11 Jul)
+- [David Fofana leaves Chelsea on loan](https://chelseafc.com/en/news/article/david-fofana-leaves-chelsea-on-loan) (11 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > nervy - adjective: 1. Nervous or anxious. 2. Brash. 3. Bold.
+ > mathematical - adjective: 1. Relating to mathematics. 2. Absolute or certain. 3. Possible, but highly improbable.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 106, using [2, 5, 8, 10, 25, 50]
-- Solution: 8 x 2 + 50 + 25 + 10 + 5
-- Total: 71 solutions.
+- Target: 810, using [1, 3, 8, 25, 50, 75]
 
 <!-- game_marker ends -->
