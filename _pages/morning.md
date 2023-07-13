@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 12 July 2023
+### Daily Rundown on Thursday, 13 July 2023
 
-- The average temperature today is 17.61˚C;
-- With highs of 18.58˚C and lows of 11.65˚C.
+- The average temperature today is 19.49˚C;
+- With highs of 20.12˚C and lows of 12.02˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
-- Shadow boxing
-- Dead bugs
+- Bench dips
+- Calf raises
+- Bodyweight squats
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 86.28
-- V3AB.L : 3.93525
+- VWRL.L : 87.12
+- V3AB.L : 3.972
 - 0P00018XAR.L : nan
 - BFSP.L : 87.0
 
@@ -46,36 +46,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(15:00) FC Astana - Dinamo Tbilisi</li>
-<li>(17:00) HJK Helsinki - Larne</li>
-<li>(18:00) BK Häcken - The New Saints</li>
-<li>(18:30) FCV Farul Constanta - Sheriff Tiraspol</li>
-<li>(19:30) Slovan Bratislava - Swift Hesperange</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Hard at work in the gym 💪](https://chelseafc.com/en/video/230711-gym-session-webapp-16x9) (12 Jul)
+- [Quartet return to Cobham for pre-season](https://chelseafc.com/en/news/article/quartet-return-to-cobham-for-pre-season) (12 Jul)
+- [My first game as a fan: Noni Madueke and Marcus Bettinelli](https://chelseafc.com/en/news/article/my-first-game-as-a-fan-noni-madueke-and-marcus-bettinelli) (12 Jul)
 - [Broja is back in training 💪](https://chelseafc.com/en/video/broja-wt-16x9-subs) (11 Jul)
 - [Nicolas Jackson takes part in his first training session](https://chelseafc.com/en/news/article/nicolas-jackson-takes-part-in-his-first-training-session) (11 Jul)
-- [Bold ambition for new Chelsea FC Women season](https://chelseafc.com/en/news/article/bold-ambition-for-new-chelsea-fc-women-season) (11 Jul)
-- [Chelsea FC Women season tickets available for renewal](https://chelseafc.com/en/news/article/chelsea-fc-women-season-tickets-available-for-renewal) (11 Jul)
-- [David Fofana leaves Chelsea on loan](https://chelseafc.com/en/news/article/david-fofana-leaves-chelsea-on-loan) (11 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > mathematical - adjective: 1. Relating to mathematics. 2. Absolute or certain. 3. Possible, but highly improbable.
+ > moot - adjective: 1. Open to discussion: debatable. 2. Of little practical value, hence not worth considering. 3. Irrelevant or insignificant as a result of the issue being resolved. noun: 1. An assembly or court. 2. A discussion or argument. verb tr.: 1. To bring up for discussion or debate. 2. To make something irrelevant or insignificant as a result of the issue being resolved.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 810, using [1, 3, 8, 25, 50, 75]
+- Target: 578, using [3, 6, 7, 9, 50, 100]
+- Solution: ( 100 - 9 - 3 ) x 6 + 50
+- Total: 10 solutions.
 
 <!-- game_marker ends -->
