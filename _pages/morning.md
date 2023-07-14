@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 13 July 2023
+### Daily Rundown on Friday, 14 July 2023
 
-- The average temperature today is 19.49˚C;
-- With highs of 20.12˚C and lows of 12.02˚C.
-- You can expect light rain for the day.
+- The average temperature today is 14.45˚C;
+- With highs of 18.09˚C and lows of 12.87˚C.
+- You can expect heavy intensity rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
-- Calf raises
 - Bodyweight squats
+- Bench dips
+- Shadow boxing
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 87.12
-- V3AB.L : 3.972
+- VWRL.L : 86.96
+- V3AB.L : 3.96775
 - 0P00018XAR.L : nan
 - BFSP.L : 87.0
 
@@ -53,26 +53,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Hard at work in the gym 💪](https://chelseafc.com/en/video/230711-gym-session-webapp-16x9) (12 Jul)
-- [Quartet return to Cobham for pre-season](https://chelseafc.com/en/news/article/quartet-return-to-cobham-for-pre-season) (12 Jul)
-- [My first game as a fan: Noni Madueke and Marcus Bettinelli](https://chelseafc.com/en/news/article/my-first-game-as-a-fan-noni-madueke-and-marcus-bettinelli) (12 Jul)
-- [Broja is back in training 💪](https://chelseafc.com/en/video/broja-wt-16x9-subs) (11 Jul)
-- [Nicolas Jackson takes part in his first training session](https://chelseafc.com/en/news/article/nicolas-jackson-takes-part-in-his-first-training-session) (11 Jul)
+- [Pulisic's most memorable Chelsea goals](https://chelseafc.com/en/news/article/christian-pulisics-departs-best-goals-in-blue) (13 Jul)
+- [Christian Pulisic joins AC Milan](https://chelseafc.com/en/news/article/christian-pulisic-joins-ac-milan) (13 Jul)
+- [Kerr, Enzo and Drogba star in EA SPORTS FC’s new era](https://chelseafc.com/en/news/article/kerr-enzo-and-drogba-star-in-ea-sports-fcs-new-era) (13 Jul)
+- [Chris Garland – 1949-2023](https://chelseafc.com/en/news/article/chris-garland-1949-2023) (13 Jul)
+- [Drills, saves and target practice 🙌](https://chelseafc.com/en/video/230713-training-webapp-16x9) (13 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > moot - adjective: 1. Open to discussion: debatable. 2. Of little practical value, hence not worth considering. 3. Irrelevant or insignificant as a result of the issue being resolved. noun: 1. An assembly or court. 2. A discussion or argument. verb tr.: 1. To bring up for discussion or debate. 2. To make something irrelevant or insignificant as a result of the issue being resolved.
+ > mosey - verb intr.: 1. To move in a leisurely manner. 2. To leave quickly.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 578, using [3, 6, 7, 9, 50, 100]
-- Solution: ( 100 - 9 - 3 ) x 6 + 50
-- Total: 10 solutions.
+- Target: 203, using [3, 7, 10, 50, 75, 100]
+- Solution: ( 75 x 10 - 50 ) / 7 + 100 + 3
+- Total: 15 solutions.
 
 <!-- game_marker ends -->
