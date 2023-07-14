@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mat | Engineering Manager
+title: Mat | Engineering Leader
 permalink: /cv
 seo: CV of Mat Benfield
 
@@ -29,11 +29,19 @@ Latest personal project was to redesign running club website using Jekyll, a sta
 
 ### Employment History
 
+#### Blackfinch Group
+
+_Blackfinch Group are investment specialists offering a range of products including tax efficient investments for individuals and business as well as offering investment in solar/wind energy and UK start up companies_
+
+##### HEAD OF ENGINEERING (July 2023 - Current)
+
+
+
 #### Seccl
 
 _Seccl’s technology helps advisers, investment managers, and fintechs of all sizes to operate their own investment platform. Seccl are an API first technology company operating in the wealth management, financial services sector as part of the Octopus Group._
 
-##### ENGINEERING MANAGER (June 2021 - Current)
+##### ENGINEERING MANAGER (June 2021 - June 2023)
 
 Started leading multiple squads in the Investments and Advice tribe with a focus on delivery, empowering, and growing our engineers. Implemented a role/skill matrix and used this during annual reviews - the first time anything like this was used in the company, acted as head of engineering during a senior/c-suite leadership change and aided recruitment of new CTO and HoE.
 
