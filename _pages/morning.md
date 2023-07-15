@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 14 July 2023
+### Daily Rundown on Saturday, 15 July 2023
 
-- The average temperature today is 14.45˚C;
-- With highs of 18.09˚C and lows of 12.87˚C.
-- You can expect heavy intensity rain for the day.
+- The average temperature today is 16.91˚C;
+- With highs of 17.15˚C and lows of 13.49˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
-- Bench dips
-- Shadow boxing
+- Walking jacks
+- Plank
+- Dead bugs
 
 <!-- workout_marker ends -->
 
@@ -34,9 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 86.96
-- V3AB.L : 3.96775
-- 0P00018XAR.L : nan
+- VWRL.L : 87.165
+- V3AB.L : 3.97875
 - BFSP.L : 87.0
 
 <!-- stocks_marker ends -->
@@ -53,11 +52,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Nkunku enjoys his first training session](https://chelseafc.com/en/news/article/nkunku-enjoys-his-first-training-session) (14 Jul)
+- [Blues in the USA: Carney Chukwuemeka](https://chelseafc.com/en/news/article/blues-in-the-usa-carney-chukwuemeka) (14 Jul)
+- [Diego Moreira is a Blue! 🔵](https://chelseafc.com/en/video/diego-moreira-is-a-blue) (14 Jul)
+- [My first game as a fan: Conor Gallagher](https://chelseafc.com/en/news/article/my-first-game-as-a-fan-conor-gallagher) (14 Jul)
 - [Pulisic's most memorable Chelsea goals](https://chelseafc.com/en/news/article/christian-pulisics-departs-best-goals-in-blue) (13 Jul)
-- [Christian Pulisic joins AC Milan](https://chelseafc.com/en/news/article/christian-pulisic-joins-ac-milan) (13 Jul)
-- [Kerr, Enzo and Drogba star in EA SPORTS FC’s new era](https://chelseafc.com/en/news/article/kerr-enzo-and-drogba-star-in-ea-sports-fcs-new-era) (13 Jul)
-- [Chris Garland – 1949-2023](https://chelseafc.com/en/news/article/chris-garland-1949-2023) (13 Jul)
-- [Drills, saves and target practice 🙌](https://chelseafc.com/en/video/230713-training-webapp-16x9) (13 Jul)
 
 <!-- cfc_marker ends -->
 
@@ -71,8 +70,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 203, using [3, 7, 10, 50, 75, 100]
-- Solution: ( 75 x 10 - 50 ) / 7 + 100 + 3
-- Total: 15 solutions.
+- Target: 268, using [1, 3, 4, 5, 50, 100]
+- Solution: ( 100 - ( 50 / 5 + 1 ) x 3 ) x 4
+- Total: 21 solutions.
 
 <!-- game_marker ends -->
