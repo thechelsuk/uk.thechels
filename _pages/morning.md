@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 15 July 2023
+### Daily Rundown on Sunday, 16 July 2023
 
-- The average temperature today is 16.91˚C;
-- With highs of 17.15˚C and lows of 13.49˚C.
-- You can expect moderate rain for the day.
+- The average temperature today is 17.06˚C;
+- With highs of 17.93˚C and lows of 11.54˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Walking jacks
-- Plank
-- Dead bugs
+- Bodyweight squats
+- Calf raises
+- Shadow boxing
 
 <!-- workout_marker ends -->
 
@@ -52,11 +52,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Kerr: Once-in-a-lifetime opportunity](https://chelseafc.com/en/news/article/kerr-once-in-a-lifetime-opportunity) (16 Jul)
+- [Blues in the USA: Lewis Hall](https://chelseafc.com/en/news/article/blues-in-the-usa-lewis-hall) (15 Jul)
 - [Nkunku enjoys his first training session](https://chelseafc.com/en/news/article/nkunku-enjoys-his-first-training-session) (14 Jul)
 - [Blues in the USA: Carney Chukwuemeka](https://chelseafc.com/en/news/article/blues-in-the-usa-carney-chukwuemeka) (14 Jul)
 - [Diego Moreira is a Blue! 🔵](https://chelseafc.com/en/video/diego-moreira-is-a-blue) (14 Jul)
-- [My first game as a fan: Conor Gallagher](https://chelseafc.com/en/news/article/my-first-game-as-a-fan-conor-gallagher) (14 Jul)
-- [Pulisic's most memorable Chelsea goals](https://chelseafc.com/en/news/article/christian-pulisics-departs-best-goals-in-blue) (13 Jul)
 
 <!-- cfc_marker ends -->
 
@@ -70,8 +70,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 268, using [1, 3, 4, 5, 50, 100]
-- Solution: ( 100 - ( 50 / 5 + 1 ) x 3 ) x 4
-- Total: 21 solutions.
+- Target: 954, using [5, 5, 8, 10, 50, 75]
+- Solution: ( 75 / 5 / 5 + 50 ) x ( 10 + 8 )
+- Total: 1 solutions.
 
 <!-- game_marker ends -->
