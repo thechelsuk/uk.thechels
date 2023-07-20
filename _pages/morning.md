@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 19 July 2023
+### Daily Rundown on Thursday, 20 July 2023
 
-- The average temperature today is 19.59˚C;
-- With highs of 19.81˚C and lows of 11.53˚C.
+- The average temperature today is 18.76˚C;
+- With highs of 19.6˚C and lows of 10.24˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -20,8 +20,8 @@ seo: Good Morning Mat, Here is your daily briefing
 3x AMRAP for 45 seconds, 15 second rest:
 
 - Walking jacks
+- Plank
 - Bodyweight squats
-- Bench dips
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 87.695
-- V3AB.L : 4.0085
+- VWRL.L : 89.38
+- V3AB.L : 4.08925
 - BFSP.L : 87.0
 
 <!-- stocks_marker ends -->
@@ -45,40 +45,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(16:00) Valmiera - Olimpija Ljubljana</li>
-<li>(17:00) Dinamo Tbilisi - FC Astana</li>
-<li>(17:00) FK Qarabag - Lincoln Red Imps</li>
-<li>(17:00) Ferencvárosi TC - KI Klaksvík</li>
-<li>(19:00) Ludogorets Razgrad - Ballkani</li>
-<li>(19:00) Swift Hesperange - Slovan Bratislava</li>
-<li>(19:30) Larne - HJK Helsinki</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Squad numbers for our USA pre-season tour](https://chelseafc.com/en/news/article/squad-numbers-for-our-usa-pre-season-tour) (19 Jul)
-- [Tour Story Two: Training in front of Blues fans!](https://chelseafc.com/en/news/article/tour-story-two-training-in-front-of-blues-fans) (19 Jul)
-- [Cucurella press conference 🎙️](https://chelseafc.com/en/video/marc-cucurella-press-conference) (18 Jul)
-- [Pochettino press conference!](https://chelseafc.com/en/video/mauricio-pochettino-press-conference) (18 Jul)
-- [Pochettino on Mudryk messages, Colwill conversation and Wrexham challenge](https://chelseafc.com/en/news/article/pochettino-on-mudryk-messages-colwill-conversation-and-wrexham-challenge) (18 Jul)
+- [Pochettino targets improvement after first Chelsea victory](https://chelseafc.com/en/news/article/pochettino-targets-improvement-after-first-chelsea-victory) (20 Jul)
+- [Nkunku on Chelsea's 5-0 win 🎙️](https://chelseafc.com/en/video/nkunku-on-chelseas-5-0-win) (20 Jul)
+- [Report: Chelsea 5 Wrexham 0](https://chelseafc.com/en/news/article/report-chelsea-5-wrexham-0) (20 Jul)
+- [In pictures: A debut for our 23/24 home kit!](https://chelseafc.com/en/news/article/in-pictures-a-debut-for-our-23-24-home-kit) (20 Jul)
+- [Pochettino names his first Chelsea XI!](https://chelseafc.com/en/news/article/pochettino-names-his-first-chelsea-xi) (19 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > hamstring - noun: 1. Any of the tendons at the back of the knee. 2. Any of the three muscles in the back of the thigh, connecting the pelvis and the knee. verb tr.: 1. To disable or make ineffective. 2. To cut the hamstring.
+ > chopped liver - noun: Something or someone treated as unimportant.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 457, using [2, 4, 6, 9, 9, 10]
-- Solution: ( ( 10 + 9 ) x 6 - 2 ) x 4 + 9
-- Total: 7 solutions.
+- Target: 134, using [1, 4, 4, 4, 6, 100]
+- Solution: ( 4 + 1 ) x 6 + 100 + 4
+- Total: 13 solutions.
 
 <!-- game_marker ends -->
