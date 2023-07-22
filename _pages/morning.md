@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 21 July 2023
+### Daily Rundown on Saturday, 22 July 2023
 
-- The average temperature today is 17.75˚C;
-- With highs of 19.37˚C and lows of 9.28˚C.
-- You can expect light rain for the day.
+- The average temperature today is 13.8˚C;
+- With highs of 15.48˚C and lows of 11.7˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
-- Dead bugs
-- Kettlebell swings
+- Kettlebell rows
+- Bench dips
+- Walking jacks
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 89.165
-- V3AB.L : 4.07775
+- VWRL.L : 89.21
+- V3AB.L : 4.0675
 - BFSP.L : 87.0
 
 <!-- stocks_marker ends -->
@@ -52,11 +52,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Hutchinson joins Ipswich on loan](https://chelseafc.com/en/news/article/hutchinson-joins-ipswich-on-loan) (20 Jul)
-- [Chalobah: It's important I help set the standards](https://chelseafc.com/en/news/article/chalobah-its-important-i-help-set-the-standards) (20 Jul)
-- [Maatsen reflects on his first goal!](https://chelseafc.com/en/video/maatsen-reflects-on-his-opening-goal-for-the-blues) (20 Jul)
-- [Nkunku: This is my position](https://chelseafc.com/en/news/article/nkunku-this-is-my-position) (20 Jul)
-- [World Cup Blues: Norway defeated but Australia start with victory](https://chelseafc.com/en/news/article/world-cup-blues-norway-defeated-but-australia-start-with-victory) (20 Jul)
+- [Tour Story: All set for the PL Summer Series!](https://chelseafc.com/en/news/article/tour-story-all-set-for-the-pl-summer-series) (22 Jul)
+- [Pochettino press conference: I want people that care about the team](https://chelseafc.com/en/news/article/pochettino-press-conference-i-want-people-that-care-about-the-team) (21 Jul)
+- [Sterling: Team morale is high](https://chelseafc.com/en/news/article/sterling-team-morale-is-high) (21 Jul)
+- [Pochettino press conference 🎙️](https://chelseafc.com/en/video/16x9-full-presser-pochettino-pre-brighton-premier-league-series-pre-season%E2%80%A6) (21 Jul)
+- [Aubameyang exits Chelsea](https://chelseafc.com/en/news/article/aubameyang-exits-chelsea) (21 Jul)
 
 <!-- cfc_marker ends -->
 
@@ -70,8 +70,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 116, using [1, 8, 8, 9, 10, 25]
-- Solution: 25 x 10 / ( 8 / 8 + 1 ) - 9
-- Total: 25 solutions.
+- Target: 105, using [1, 2, 7, 25, 50, 75]
+- Solution: 75 + 50 + 7 - 25 - 2
+- Total: 28 solutions.
 
 <!-- game_marker ends -->
