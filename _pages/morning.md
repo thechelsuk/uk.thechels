@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 22 July 2023
+### Daily Rundown on Sunday, 23 July 2023
 
-- The average temperature today is 13.8˚C;
-- With highs of 15.48˚C and lows of 11.7˚C.
-- You can expect moderate rain for the day.
+- The average temperature today is 19.92˚C;
+- With highs of 20.14˚C and lows of 13.11˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,8 +19,8 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
 - Bench dips
+- Plank
 - Walking jacks
 
 <!-- workout_marker ends -->
@@ -52,11 +52,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Tour Story: All set for the PL Summer Series!](https://chelseafc.com/en/news/article/tour-story-all-set-for-the-pl-summer-series) (22 Jul)
-- [Pochettino press conference: I want people that care about the team](https://chelseafc.com/en/news/article/pochettino-press-conference-i-want-people-that-care-about-the-team) (21 Jul)
-- [Sterling: Team morale is high](https://chelseafc.com/en/news/article/sterling-team-morale-is-high) (21 Jul)
-- [Pochettino press conference 🎙️](https://chelseafc.com/en/video/16x9-full-presser-pochettino-pre-brighton-premier-league-series-pre-season%E2%80%A6) (21 Jul)
-- [Aubameyang exits Chelsea](https://chelseafc.com/en/news/article/aubameyang-exits-chelsea) (21 Jul)
+- [Full Match: Chelsea 4-3 Brighton](https://chelseafc.com/en/video/full-match-chelsea-4-3-brighton) (23 Jul)
+- [Highlights: Chelsea 4-3 Brighton](https://chelseafc.com/en/video/highlights-chelsea-4-3-brighton) (23 Jul)
+- [Jackson on his brilliant streak! 🎙️](https://chelseafc.com/en/video/jackson-on-his-brilliant-streak) (23 Jul)
+- [Poch on Chelsea's 4-3 win!](https://chelseafc.com/en/video/poch-on-chelseas-4-3-win) (23 Jul)
+- [Extended Highlights: Chelsea 4-3 Brighton](https://chelseafc.com/en/video/extended-highlights-chelsea-4-3-brighton) (23 Jul)
 
 <!-- cfc_marker ends -->
 
@@ -70,8 +70,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 105, using [1, 2, 7, 25, 50, 75]
-- Solution: 75 + 50 + 7 - 25 - 2
-- Total: 28 solutions.
+- Target: 685, using [1, 2, 4, 6, 8, 10]
+- Solution: ( ( 10 + 4 ) x 8 + 2 ) x 6 + 1
+- Total: 1 solutions.
 
 <!-- game_marker ends -->
