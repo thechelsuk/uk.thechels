@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 23 July 2023
+### Daily Rundown on Monday, 24 July 2023
 
-- The average temperature today is 19.92˚C;
-- With highs of 20.14˚C and lows of 13.11˚C.
+- The average temperature today is 13.37˚C;
+- With highs of 16.81˚C and lows of 10.8˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
-- Plank
-- Walking jacks
+- Kettlebell rows
+- Dead bugs
+- Calf raises
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Stocks
@@ -52,26 +53,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Jackson: We want to do amazing things](https://chelseafc.com/en/news/article/jackson-we-want-to-do-amazing-things) (23 Jul)
+- [Pochettino: Colwill can be one of the greatest centre-backs in England](https://chelseafc.com/en/news/article/pochettino-colwill-can-be-one-of-the-greatest-centre-backs-in-england) (23 Jul)
 - [Full Match: Chelsea 4-3 Brighton](https://chelseafc.com/en/video/full-match-chelsea-4-3-brighton) (23 Jul)
 - [Highlights: Chelsea 4-3 Brighton](https://chelseafc.com/en/video/highlights-chelsea-4-3-brighton) (23 Jul)
 - [Jackson on his brilliant streak! 🎙️](https://chelseafc.com/en/video/jackson-on-his-brilliant-streak) (23 Jul)
-- [Poch on Chelsea's 4-3 win!](https://chelseafc.com/en/video/poch-on-chelseas-4-3-win) (23 Jul)
-- [Extended Highlights: Chelsea 4-3 Brighton](https://chelseafc.com/en/video/extended-highlights-chelsea-4-3-brighton) (23 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > heart-whole - adjective: 1. Unattached: not in love. 2. Sincere; wholehearted.
+ > gospel - noun: 1. Message, teachings, or principles of a person or organization.  2. Something regarded as authoritative or infallible, especially when believed unquestionably.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 685, using [1, 2, 4, 6, 8, 10]
-- Solution: ( ( 10 + 4 ) x 8 + 2 ) x 6 + 1
-- Total: 1 solutions.
+- Target: 855, using [1, 3, 9, 10, 50, 100]
+- Solution: ( 100 - 50 / 10 ) x 9
+- Total: 4 solutions.
 
 <!-- game_marker ends -->
