@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Monday, 24 July 2023
+### Daily Rundown on Tuesday, 25 July 2023
 
-- The average temperature today is 13.37˚C;
-- With highs of 16.81˚C and lows of 10.8˚C.
+- The average temperature today is 17.38˚C;
+- With highs of 17.38˚C and lows of 10.19˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
+- Shadow boxing
+- Walking jacks
 - Dead bugs
-- Calf raises
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
@@ -35,9 +36,9 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 89.21
-- V3AB.L : 4.0675
-- BFSP.L : 87.0
+- VWRL.L : 89.45
+- V3AB.L : 4.079
+- BFSP.L : 0.87
 
 <!-- stocks_marker ends -->
 
@@ -46,33 +47,40 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(17:00) HJK Helsinki - Molde</li>
+<li>(17:00) Zalgiris - Galatasaray</li>
+<li>(19:00) Dinamo Zagreb - FC Astana</li>
+<li>(19:00) Dnipro-1 - Panathinaikos</li>
+<li>(19:30) Servette - KRC Genk</li>
+<li>(20:00) Zrinjski Mostar - Slovan Bratislava</li>
+<li>(20:15) Breidablik - FC Copenhagen</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Jackson: We want to do amazing things](https://chelseafc.com/en/news/article/jackson-we-want-to-do-amazing-things) (23 Jul)
-- [Pochettino: Colwill can be one of the greatest centre-backs in England](https://chelseafc.com/en/news/article/pochettino-colwill-can-be-one-of-the-greatest-centre-backs-in-england) (23 Jul)
-- [Full Match: Chelsea 4-3 Brighton](https://chelseafc.com/en/video/full-match-chelsea-4-3-brighton) (23 Jul)
-- [Highlights: Chelsea 4-3 Brighton](https://chelseafc.com/en/video/highlights-chelsea-4-3-brighton) (23 Jul)
-- [Jackson on his brilliant streak! 🎙️](https://chelseafc.com/en/video/jackson-on-his-brilliant-streak) (23 Jul)
+- [Tour story: A busy day in Philadelphia](https://chelseafc.com/en/news/article/tour-story-a-busy-day-in-philadelphia) (25 Jul)
+- [Jackson on life at Chelsea, and that first goal feeling](https://chelseafc.com/en/news/article/jackson-on-life-at-chelsea-and-that-first-goal-feeling) (24 Jul)
+- [Striker Cam v Brighton 🔥](https://chelseafc.com/en/video/striker-cam-v-brighton) (24 Jul)
+- [Thiago Silva on finding the right connections](https://chelseafc.com/en/news/article/thiago-silva-on-finding-the-right-connections) (24 Jul)
+- [Pochettino: Colwill can be one of the greatest centre-backs in England](https://chelseafc.com/en/news/article/pochettino-colwill-can-be-one-of-the-greatest-centre-backs-in-england) (24 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > gospel - noun: 1. Message, teachings, or principles of a person or organization.  2. Something regarded as authoritative or infallible, especially when believed unquestionably.
+ > messiah - noun: A savior, liberator, or leader of a group or a cause.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 855, using [1, 3, 9, 10, 50, 100]
-- Solution: ( 100 - 50 / 10 ) x 9
-- Total: 4 solutions.
+- Target: 533, using [3, 9, 10, 25, 50, 75]
+- Solution: ( 75 + 25 - 50 - 9 ) x ( 10 + 3 )
+- Total: 15 solutions.
 
 <!-- game_marker ends -->
