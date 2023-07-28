@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 27 July 2023
+### Daily Rundown on Friday, 28 July 2023
 
-- The average temperature today is 21.16˚C;
-- With highs of 21.77˚C and lows of 15.6˚C.
+- The average temperature today is 20.3˚C;
+- With highs of 20.76˚C and lows of 13.89˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Shadow boxing
 - Bodyweight squats
-- Kettlebell rows
+- Dead bugs
+- Walking jacks
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 88.97
-- V3AB.L : 4.04725
+- VWRL.L : 89.96
+- V3AB.L : 4.102
 - BFSP.L : 89.5
 
 <!-- stocks_marker ends -->
@@ -52,26 +52,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Madueke absence in Atlanta explained](https://chelseafc.com/en/news/article/madueke-absence-in-atlanta-explained) (27 Jul)
-- [Highlights: Chelsea 1-1 Newcastle](https://chelseafc.com/en/video/highlights-chelsea-1-1-newcastle) (27 Jul)
-- [Extended: Chelsea 1-1 Newcastle United](https://chelseafc.com/en/video/extended-chelsea-1-1-newcastle-united-27-07-2023) (27 Jul)
-- [Pochettino on Jackson change and finding balance](https://chelseafc.com/en/news/article/pochettino-on-finding-balance-and-jackson-change) (27 Jul)
-- [Full Match: Chelsea 1-1 Newcastle United](https://chelseafc.com/en/video/full-match-chelsea-1-1-newcastle-united-27-07-2023) (27 Jul)
+- [Tour story: A late return followed by recovery](https://chelseafc.com/en/news/article/tour-story-a-late-return-followed-by-recovery) (28 Jul)
+- [James: It’s an honour to play for Chelsea](https://chelseafc.com/en/news/article/james-its-an-honour-to-play-for-chelsea) (27 Jul)
+- [Pochettino: Maatsen in my plans](https://chelseafc.com/en/news/article/pochettino-maatsen-in-my-plans) (27 Jul)
+- [Chalobah on his partnership with Humphreys and Reece’s captaincy](https://chelseafc.com/en/news/article/chalobah-on-his-partnership-with-humphreys-and-reeces-captaincy) (27 Jul)
+- [World Cup Blues: Dutch draw but Australia suffer shock defeat](https://chelseafc.com/en/news/article/world-cup-blues-dutch-draw-but-australia-suffer-shock-defeat) (27 Jul)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > exodus - noun: A large scale departure or emigration.
+ > crusade - noun: A zealous effort for an idea or cause. verb intr.: To engage in a zealous effort.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 481, using [3, 3, 6, 6, 75, 100]
-- Solution: ( 6 - 3 / 3 ) x 75 + 100 + 6
-- Total: 2 solutions.
+- Target: 580, using [2, 3, 10, 25, 50, 75]
+- Solution: ( ( 75 + 50 - 25 ) x 3 - 10 ) x 2
+- Total: 23 solutions.
 
 <!-- game_marker ends -->
