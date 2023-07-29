@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 28 July 2023
+### Daily Rundown on Saturday, 29 July 2023
 
-- The average temperature today is 20.3˚C;
-- With highs of 20.76˚C and lows of 13.89˚C.
+- The average temperature today is 19.42˚C;
+- With highs of 19.42˚C and lows of 13.39˚C.
 - You can expect light rain for the day.
 
 <!-- weather_marker ends -->
@@ -19,7 +19,7 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
+- Bench dips
 - Dead bugs
 - Walking jacks
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 89.96
-- V3AB.L : 4.102
+- VWRL.L : 90.15
+- V3AB.L : 4.10875
 - BFSP.L : 89.5
 
 <!-- stocks_marker ends -->
@@ -52,11 +52,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Tour story: A late return followed by recovery](https://chelseafc.com/en/news/article/tour-story-a-late-return-followed-by-recovery) (28 Jul)
-- [James: It’s an honour to play for Chelsea](https://chelseafc.com/en/news/article/james-its-an-honour-to-play-for-chelsea) (27 Jul)
-- [Pochettino: Maatsen in my plans](https://chelseafc.com/en/news/article/pochettino-maatsen-in-my-plans) (27 Jul)
-- [Chalobah on his partnership with Humphreys and Reece’s captaincy](https://chelseafc.com/en/news/article/chalobah-on-his-partnership-with-humphreys-and-reeces-captaincy) (27 Jul)
-- [World Cup Blues: Dutch draw but Australia suffer shock defeat](https://chelseafc.com/en/news/article/world-cup-blues-dutch-draw-but-australia-suffer-shock-defeat) (27 Jul)
+- [Humphreys: Pre-season is a mental challenge](https://chelseafc.com/en/news/article/humphreys-pre-season-is-a-mental-challenge) (29 Jul)
+- [Nkunku: I can do great things at Chelsea](https://chelseafc.com/en/news/article/nkunku-i-can-do-great-things-at-chelsea) (28 Jul)
+- [Club statement on UEFA decision](https://chelseafc.com/en/news/article/club-statement-28-07-23) (28 Jul)
+- [Matchday Unseen 🎥](https://chelseafc.com/en/video/matchday-unseen-27-07-2023) (28 Jul)
+- [Chilwell: I'd love to be captain](https://chelseafc.com/en/news/article/chilwell-id-love-to-be-captain) (28 Jul)
 
 <!-- cfc_marker ends -->
 
@@ -70,8 +70,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 580, using [2, 3, 10, 25, 50, 75]
-- Solution: ( ( 75 + 50 - 25 ) x 3 - 10 ) x 2
-- Total: 23 solutions.
+- Target: 157, using [1, 9, 10, 25, 50, 100]
+- Solution: 100 + 50 + 25 + 1 - 10 - 9
+- Total: 5 solutions.
 
 <!-- game_marker ends -->
