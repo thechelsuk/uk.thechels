@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 29 July 2023
+### Daily Rundown on Sunday, 30 July 2023
 
-- The average temperature today is 19.42˚C;
-- With highs of 19.42˚C and lows of 13.39˚C.
-- You can expect light rain for the day.
+- The average temperature today is 18.75˚C;
+- With highs of 18.91˚C and lows of 13.02˚C.
+- You can expect moderate rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bench dips
-- Dead bugs
-- Walking jacks
+- Kettlebell swings
+- Calf raises
+- Bodyweight squats
 
 <!-- workout_marker ends -->
 
@@ -52,11 +52,11 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Maatsen on new role and taking opportunities](https://chelseafc.com/en/news/article/maatsen-on-new-role-and-taking-opportunities) (29 Jul)
+- [A spot of American Football!](https://chelseafc.com/en/video/a-spot-of-american-football) (29 Jul)
+- [10 from Training: Final day in Philly!](https://chelseafc.com/en/news/article/10-from-training-final-day-in-philly) (29 Jul)
+- [World Cup Blues: Sweden qualify while France beat Brazil](https://chelseafc.com/en/news/article/world-cup-blues-sweden-qualify-while-france-beat-brazil) (29 Jul)
 - [Humphreys: Pre-season is a mental challenge](https://chelseafc.com/en/news/article/humphreys-pre-season-is-a-mental-challenge) (29 Jul)
-- [Nkunku: I can do great things at Chelsea](https://chelseafc.com/en/news/article/nkunku-i-can-do-great-things-at-chelsea) (28 Jul)
-- [Club statement on UEFA decision](https://chelseafc.com/en/news/article/club-statement-28-07-23) (28 Jul)
-- [Matchday Unseen 🎥](https://chelseafc.com/en/video/matchday-unseen-27-07-2023) (28 Jul)
-- [Chilwell: I'd love to be captain](https://chelseafc.com/en/news/article/chilwell-id-love-to-be-captain) (28 Jul)
 
 <!-- cfc_marker ends -->
 
@@ -70,8 +70,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 157, using [1, 9, 10, 25, 50, 100]
-- Solution: 100 + 50 + 25 + 1 - 10 - 9
-- Total: 5 solutions.
+- Target: 950, using [6, 7, 7, 10, 50, 100]
+- Solution: ( 100 + 50 - 7 x 7 - 6 ) x 10
+- Total: 30 solutions.
 
 <!-- game_marker ends -->
