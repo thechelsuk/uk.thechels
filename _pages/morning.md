@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 02 August 2023
+### Daily Rundown on Thursday, 03 August 2023
 
-- The average temperature today is 15.39˚C;
-- With highs of 17.78˚C and lows of 14.14˚C.
-- You can expect moderate rain for the day.
+- The average temperature today is 20.34˚C;
+- With highs of 20.34˚C and lows of 12.64˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Kettlebell swings
+- Kettlebell rows
 - Shadow boxing
-- Bench dips
-- Dead bugs
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 90.355
-- V3AB.L : 4.12225
+- VWRL.L : 89.37
+- V3AB.L : 4.0715
 - BFSP.L : 89.5
 
 <!-- stocks_marker ends -->
@@ -45,41 +45,33 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(15:00) FC Astana - Dinamo Zagreb</li>
-<li>(17:00) FK Qarabag - Raków Czestochowa</li>
-<li>(18:00) BK Häcken - KI Klaksvík</li>
-<li>(18:00) KRC Genk - Servette</li>
-<li>(18:00) Maccabi Haifa - Sheriff Tiraspol</li>
-<li>(18:00) Molde - HJK Helsinki</li>
-<li>(19:00) FC Copenhagen - Breidablik</li>
-<li>(19:30) Galatasaray - Zalgiris</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Pochettino's challenge to Colwill](https://chelseafc.com/en/news/article/pochettinos-challenge-to-colwill) (02 Aug)
-- [Pochettino: We will assess Ugochukwu](https://chelseafc.com/en/news/article/pochettino-we-will-assess-ugochukwu) (01 Aug)
-- [Ugochukwu becomes a Blue](https://chelseafc.com/en/news/article/ugochukwu-becomes-a-blue) (01 Aug)
-- [In pictures: Lesley Ugochukwu signs for Chelsea!](https://chelseafc.com/en/news/article/in-pictures-lesley-ugochukwu-signs-for-chelsea) (01 Aug)
-- [10 from Training: Checking out Chicago!](https://chelseafc.com/en/news/article/10-from-training-checking-out-chicago) (01 Aug)
+- [Carney and Mason talk tour experience🎙️](https://chelseafc.com/en/video/carney-and-mason-talk-tour-experience) (03 Aug)
+- [Pochettino on Chelsea's undefeated streak 💪](https://chelseafc.com/en/video/pochettino-on-chelseas-undefeated-streak) (03 Aug)
+- [Highlights: Chelsea 1-1 Borussia Dortmund](https://chelseafc.com/en/video/highlights-chelsea-1-1-borussia-dortmund) (03 Aug)
+- [Extended Highlights: Chelsea 1-1 Borussia Dortmund](https://chelseafc.com/en/video/extended-highlights-chelsea-1-1-borussia-dortmund) (03 Aug)
+- [Tour Story: US Tour 2023 comes to an end!](https://chelseafc.com/en/news/article/tour-story-us-tour-2023-comes-to-an-end) (03 Aug)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > endarken - verb tr.: To make dark, less clear, or gloomy.
+ > penultimatum - noun: A demand made before an ultimatum.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 783, using [2, 2, 3, 8, 50, 100]
-- Solution: ( ( 50 - 3 ) x 100 - 2 ) / ( 8 - 2 )
-- Total: 4 solutions.
+- Target: 753, using [1, 3, 7, 8, 25, 75]
+- Solution: ( 25 - 8 - 7 ) x 75 + 3
+- Total: 13 solutions.
 
 <!-- game_marker ends -->
