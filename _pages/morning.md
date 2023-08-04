@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 03 August 2023
+### Daily Rundown on Friday, 04 August 2023
 
-- The average temperature today is 20.34˚C;
-- With highs of 20.34˚C and lows of 12.64˚C.
-- You can expect light rain for the day.
+- The average temperature today is 15.52˚C;
+- With highs of 17.61˚C and lows of 11.57˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell swings
-- Kettlebell rows
 - Shadow boxing
+- Kettlebell swings
+- Dead bugs
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 89.37
-- V3AB.L : 4.0715
+- VWRL.L : 88.99
+- V3AB.L : 4.05525
 - BFSP.L : 89.5
 
 <!-- stocks_marker ends -->
@@ -45,33 +45,43 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(19:45) Bishop's Cleeve - Thornbury Town</li>
+<li>(19:45) Coventry United - Studley</li>
+<li>(19:45) Dereham Town - Walsham Le Willows</li>
+<li>(19:45) Edgware & Kingsbury - Waltham Abbey</li>
+<li>(19:45) Skelmersdale United - Northwich Victoria</li>
+<li>(19:45) Stansted - Stotfold</li>
+<li>(19:45) Thetford Town - Newmarket Town</li>
+<li>(19:45) Whickham - Carlisle City</li>
+<li>(19:45) Woodford Town - Hertford Town</li>
+<li>(20:00) Moneyfields - Westbury United</li>
+</ul>
 
 <!-- sports_marker ends -->
 
 ### CFC news
 
 <!-- cfc_marker starts -->
-- [Carney and Mason talk tour experience🎙️](https://chelseafc.com/en/video/carney-and-mason-talk-tour-experience) (03 Aug)
-- [Pochettino on Chelsea's undefeated streak 💪](https://chelseafc.com/en/video/pochettino-on-chelseas-undefeated-streak) (03 Aug)
-- [Highlights: Chelsea 1-1 Borussia Dortmund](https://chelseafc.com/en/video/highlights-chelsea-1-1-borussia-dortmund) (03 Aug)
-- [Extended Highlights: Chelsea 1-1 Borussia Dortmund](https://chelseafc.com/en/video/extended-highlights-chelsea-1-1-borussia-dortmund) (03 Aug)
-- [Tour Story: US Tour 2023 comes to an end!](https://chelseafc.com/en/news/article/tour-story-us-tour-2023-comes-to-an-end) (03 Aug)
+- [Mason Burstow: From non-league football to Chelsea goalscorer](https://chelseafc.com/en/news/article/mason-burstow-from-non-league-football-to-chelsea-goalscorer) (03 Aug)
+- [Chukwuemeka: Goals are coming from me](https://chelseafc.com/en/news/article/chukwuemeka-goals-are-coming-from-me) (03 Aug)
+- [Three more champions added to Legends game line-up](https://chelseafc.com/en/news/article/three-more-champions-added-to-legends-game-line-up) (03 Aug)
+- [Pochettino updates on Nkunku's injury](https://chelseafc.com/en/news/article/pochettino-updates-on-nkunkus-injury) (03 Aug)
+- [Thirteen Blues progress to World Cup knockout stage](https://chelseafc.com/en/news/article/thirteen-blues-progress-to-world-cup-knockout-stage) (03 Aug)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > penultimatum - noun: A demand made before an ultimatum.
+ > presenteeism - noun: The practice of being present at work when it's unnecessary or counterproductive.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 753, using [1, 3, 7, 8, 25, 75]
-- Solution: ( 25 - 8 - 7 ) x 75 + 3
-- Total: 13 solutions.
+- Target: 738, using [1, 9, 25, 50, 75, 100]
+- Solution: ( ( 100 + 50 ) / 25 + 75 + 1 ) x 9
+- Total: 5 solutions.
 
 <!-- game_marker ends -->
