@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Sunday, 06 August 2023
+### Daily Rundown on Monday, 07 August 2023
 
-- The average temperature today is 17.34˚C;
-- With highs of 17.47˚C and lows of 9.89˚C.
-- You can expect light rain for the day.
+- The average temperature today is 18.74˚C;
+- With highs of 18.74˚C and lows of 10.02˚C.
+- You can expect broken clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,15 +19,16 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Kettlebell rows
-- Bench dips
-- Bodyweight squats
+- Shadow boxing
+- Walking jacks
+- Plank
 
 <!-- workout_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Stocks
@@ -45,16 +46,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(14:00) Albion Sports - Chadderton</li>
-<li>(14:00) Welling Town - Cobham</li>
-<li>(15:00) AFC Croydon Athletic - Sutton Athletic</li>
-<li>(15:00) AFC Emley - Avro</li>
-<li>(15:00) Bexhill United - North Greenford United</li>
-<li>(15:00) Enfield - Coggeshall Town</li>
-<li>(15:00) Hallam - Irlam</li>
-<li>(15:00) Lingfield - Sevenoaks Town</li>
-<li>(15:00) Littlehampton Town - Erith & Belvedere</li>
-<li>(15:00) Wokingham & Emmbrook - Cinderford Town</li>
+<li>(19:45) Ilford - Colney Heath</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -62,26 +54,26 @@ No tasks today
 ### CFC news
 
 <!-- cfc_marker starts -->
+- [Pochettino issues message ahead of Liverpool start](https://chelseafc.com/en/news/article/pochettino-issues-message-ahead-of-liverpool-start) (06 Aug)
+- [Lucas Bergstrom: 'My heart was always for Chelsea'](https://chelseafc.com/en/news/article/lucas-bergstrom-my-heart-was-always-for-chelsea) (06 Aug)
+- [World Cup Blues: Netherlands and Sweden advance to quarter-finals](https://chelseafc.com/en/news/article/world-cup-blues-netherlands-and-sweden-advance-to-quarter-finals) (06 Aug)
+- [Hayes and Sheva hail incredible day](https://chelseafc.com/en/news/article/hayes-and-sheva-hail-incredible-day) (06 Aug)
 - [Legends, goals and a good cause celebrated at Game4Ukraine](https://chelseafc.com/en/news/article/legends-goals-and-a-good-cause-celebrated-at-game4ukraine) (05 Aug)
-- [Gallery: Sanchez signs!](https://chelseafc.com/en/news/article/gallery-sanchez-signs) (05 Aug)
-- [Sanchez seals Blues switch](https://chelseafc.com/en/news/article/sanchez-seals-blues-switch) (05 Aug)
-- [Sanchez is a Blue! 🔵](https://chelseafc.com/en/video/230804-roberto-sanchez-wt-16x9-v3) (05 Aug)
-- [Robert Sanchez: A brief history 🎥](https://chelseafc.com/en/video/robert-sanchez-a-brief-history) (05 Aug)
 
 <!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
 
- > presenteeism - noun: The practice of being present at work when it's unnecessary or counterproductive.
+ > culminant - adjective: Being at or reaching the highest point.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 874, using [1, 2, 10, 25, 50, 100]
-- Solution: ( 100 + 50 + 25 ) x 10 / 2 - 1
+- Target: 113, using [1, 6, 6, 9, 10, 75]
+- Solution: 6 x 6 + 75 + 10 + 1 - 9
 - Total: 13 solutions.
 
 <!-- game_marker ends -->
