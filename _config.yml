@@ -73,9 +73,6 @@ around_the_web:
   link: "https://github.com/MatBenfield/"
   title: "GitHub"
 -
-  link: "https://keybase.io/MatBenfield"
-  title: "Keybase"
--
   link: "https://www.linkedin.com/in/mat-benfield/"
   title: "LinkedIn"
 -
@@ -84,9 +81,6 @@ around_the_web:
 -
   link: "https://stackoverflow.com/users/894932/mat-benfield"
   title: "StackOverflow"
--
-  link: "https://www.paypal.com/paypalme/matbenfield"
-  title: "PayPal"
 -
   link: "https://bit.ly/2W7zxUB"
   title: "Acorn's Children Hospice"
