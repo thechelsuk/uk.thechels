@@ -5,6 +5,6 @@ layout: empty
 # www.robotstxt.org/
 
 # Allow crawling of all content
-User-agent: *
-Disallow:
+User-agent: GPTBot
+Disallow: /
 Sitemap: {{ site.url }}/sitemap.xml
