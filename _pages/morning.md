@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Wednesday, 09 August 2023
+### Daily Rundown on Thursday, 10 August 2023
 
-- The average temperature today is 21.38˚C;
-- With highs of 22.94˚C and lows of 11.29˚C.
-- You can expect few clouds for the day.
+- The average temperature today is 23.79˚C;
+- With highs of 24.34˚C and lows of 15.37˚C.
+- You can expect clear sky for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
-- Bodyweight squats
+- Dead bugs
 - Calf raises
-- Kettlebell swings
+- Shadow boxing
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 88.355
-- V3AB.L : 4.02425
+- VWRL.L : 88.57
+- V3AB.L : 4.02225
 - BFSP.L : 89.5
 
 <!-- stocks_marker ends -->
@@ -45,26 +45,7 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(19:00) Panathinaikos - Marseille</li>
-<li>(19:30) Colliers Wood United - Abbey Rangers</li>
-<li>(19:30) Slovan Bratislava - Maccabi Haifa</li>
-<li>(19:45) AFC Mansfield - Skegness Town</li>
-<li>(19:45) AFC Wimbledon - Coventry City</li>
-<li>(19:45) Aylesbury United - Fairford Town</li>
-<li>(19:45) Brimscombe & Thrupp - Highworth Town</li>
-<li>(19:45) Bristol City - Oxford United</li>
-<li>(19:45) Cardiff City - Colchester United</li>
-<li>(19:45) Guisborough Town - Newton Aycliffe</li>
-<li>(19:45) Ipswich Town - Bristol Rovers</li>
-<li>(19:45) Leeds United - Shrewsbury Town</li>
-<li>(19:45) New Salamis - Redbridge</li>
-<li>(19:45) Penistone Church - City of Liverpool</li>
-<li>(19:45) Pinchbeck United - Maltby Main</li>
-<li>(19:45) Rangers - Servette</li>
-<li>(19:45) Roman Glass St George - Lydney Town</li>
-<li>(19:45) Sherborne Town - Shepton Mallet</li>
-<li>(20:00) Burton Albion - Leicester City</li>
-</ul>
+- No fixtures today</ul>
 
 <!-- sports_marker ends -->
 
@@ -82,15 +63,15 @@ No tasks today
 ### Word of the day
 <!-- word_marker starts -->
 
- > reprehensible - adjective: Deserving criticism or condemnation.
+ > nondescript - adjective: 1. Without distinctive qualities. 2. Not belonging to a particular class.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 386, using [3, 5, 5, 7, 9, 100]
-- Solution: ( 9 - 5 ) x 100 - ( 5 - 3 ) x 7
-- Total: 9 solutions.
+- Target: 338, using [4, 5, 8, 9, 9, 50]
+- Solution: ( 50 + 9 + 9 ) x 5 - 8 / 4
+- Total: 15 solutions.
 
 <!-- game_marker ends -->
