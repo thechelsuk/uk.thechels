@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Thursday, 10 August 2023
+### Daily Rundown on Friday, 11 August 2023
 
-- The average temperature today is 23.79˚C;
-- With highs of 24.34˚C and lows of 15.37˚C.
-- You can expect clear sky for the day.
+- The average temperature today is 21.9˚C;
+- With highs of 22.25˚C and lows of 14.77˚C.
+- You can expect overcast clouds for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Kettlebell swings
 - Dead bugs
-- Calf raises
-- Shadow boxing
+- Walking jacks
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 88.57
-- V3AB.L : 4.02225
+- VWRL.L : 89.21
+- V3AB.L : 4.055
 - BFSP.L : 89.5
 
 <!-- stocks_marker ends -->
@@ -45,7 +45,8 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-- No fixtures today</ul>
+<li>(20:00) Burnley - Manchester City</li>
+</ul>
 
 <!-- sports_marker ends -->
 
@@ -63,15 +64,15 @@ No tasks today
 ### Word of the day
 <!-- word_marker starts -->
 
- > nondescript - adjective: 1. Without distinctive qualities. 2. Not belonging to a particular class.
+ > ostrobogulous - adjective: Unusual; bizarre; risqué or indecent.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 338, using [4, 5, 8, 9, 9, 50]
-- Solution: ( 50 + 9 + 9 ) x 5 - 8 / 4
-- Total: 15 solutions.
+- Target: 134, using [1, 2, 3, 4, 50, 75]
+- Solution: 75 + 50 + 4 + 3 + 2
+- Total: 34 solutions.
 
 <!-- game_marker ends -->
