@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Friday, 11 August 2023
+### Daily Rundown on Saturday, 12 August 2023
 
-- The average temperature today is 21.9˚C;
-- With highs of 22.25˚C and lows of 14.77˚C.
-- You can expect overcast clouds for the day.
+- The average temperature today is 19.75˚C;
+- With highs of 20.62˚C and lows of 13.2˚C.
+- You can expect light rain for the day.
 
 <!-- weather_marker ends -->
 
@@ -19,9 +19,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- workout_marker starts -->
 3x AMRAP for 45 seconds, 15 second rest:
 
+- Bodyweight squats
 - Kettlebell swings
-- Dead bugs
-- Walking jacks
+- Shadow boxing
 
 <!-- workout_marker ends -->
 
@@ -34,8 +34,8 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 89.21
-- V3AB.L : 4.055
+- VWRL.L : 88.3
+- V3AB.L : 4.01125
 - BFSP.L : 89.5
 
 <!-- stocks_marker ends -->
@@ -45,7 +45,12 @@ No tasks today
 <!-- sports_marker starts -->
 
 <ul>
-<li>(20:00) Burnley - Manchester City</li>
+<li>(12:30) Arsenal - Nottingham Forest</li>
+<li>(15:00) Bournemouth - West Ham United</li>
+<li>(15:00) Brighton & Hove Albion - Luton Town</li>
+<li>(15:00) Everton - Fulham</li>
+<li>(15:00) Sheffield United - Crystal Palace</li>
+<li>(17:30) Newcastle United - Aston Villa</li>
 </ul>
 
 <!-- sports_marker ends -->
@@ -71,8 +76,8 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 134, using [1, 2, 3, 4, 50, 75]
-- Solution: 75 + 50 + 4 + 3 + 2
-- Total: 34 solutions.
+- Target: 832, using [1, 6, 6, 9, 9, 100]
+- Solution: ( 100 + 9 + 9 ) x ( 6 + 1 ) + 6
+- Total: 4 solutions.
 
 <!-- game_marker ends -->
