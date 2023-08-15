@@ -45,6 +45,9 @@ navigation_header:
   link: "https://www.linkedin.com/in/mat-benfield/"
   title: "LinkedIn"
 -
+  link: "https://github.com/Mat-0/"
+  title: "GitHub"
+-
   link: "https://thechels.uk/offers"
   title: "Offers"  
 ## Footer
@@ -64,17 +67,3 @@ navigation_footer:
 -
   link: "https://thechels.uk/.well-known/security.txt"
   title: "Security"
-## Around the web
-around_the_web:
--
-  link: "https://github.com/MatBenfield/"
-  title: "GitHub"
--
-  link: "https://www.linkedin.com/in/mat-benfield/"
-  title: "LinkedIn"
--
-  link: "https://www.meetup.com/members/197754442/"
-  title: "MeetUp"
--
-  link: "https://bit.ly/2W7zxUB"
-  title: "Acorn's Children Hospice"
