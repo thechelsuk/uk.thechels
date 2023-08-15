@@ -5,7 +5,6 @@ layout: empty
 ## Security
 
 Contact: security@thechels.uk
-Encryption: https://keybase.io/matbenfield
 Preferred-Languages: en
 Canonical: /.well-known/security.txt
 
