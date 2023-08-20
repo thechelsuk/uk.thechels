@@ -13,9 +13,14 @@ My daily driver is the iPhone 12 Pro. I've been an iPhone user since the 4 model
 
 ## Tablet
 
-The iPad Pro 11 inch - second generation is my daily computer of choice having upgrade from a rather old yet capable MacBook Air from 2012. 
+The iPad Pro 11 inch - 4th generation is my daily computer of choice having upgrade from a rather old yet capable MacBook Air from 2012. 
 
 Almost everything I need to do these days can be done in the browser or via dedicated apps.
+
+- Apple Pencil
+- Magic Keyboard
+- UGREEN wireless mouse
+- RK ROYAL KLUDGE RK61 Wireless Mechanical Keyboard
 
 ## Watch
 
@@ -26,8 +31,7 @@ I also wear a Garmin 945 as I've found this to be the best activity and sleep tr
 
 ## TV
 
-I use an Apple TV in the office and have Firesticks from Amazon too, with all other TVs at home runnning Firesticks.
-
+I use an Apple TV in the office
 
 ## Listening
 
@@ -37,7 +41,21 @@ I also use the Shockz Aeropex as this offers high enough quality audio for podca
 
 ## Reading
 
-I use the kindle Paperwhite as my device of choice for reading books, I own less than dozen physical books and would ideally move to an all digitial approach in time.
+I use the kindle Paperwhite Signature Edition as my device of choice for reading books, I own less than dozen physical books and would ideally move to an all digitial approach in time.
 
 I use the app NetNewsWire as my RSS reader of choice and will look to subscribe to websites and blogs and tend to avoid hitting websites directly due largely to cookie polices, adverts, and shitty design.
 
+
+## Apps
+ 
+- Working Copy
+- NetNewsWire
+- Drafts
+- 1Password
+- GitHub
+- GoodLinks
+- 1.1.1.1 VPN
+- Scriptable
+- Pythonista
+- Textastic
+- X.App
