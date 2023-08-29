@@ -3,15 +3,14 @@ permalink:      ./:title
 title:           "Weak Notes"
 description:    "a collection of stuff and things"
 author:         "Mat"
-twitter:        "@tocfcws"
 url:            https://thechels.uk
 copyright:      "Mat B"
 encoding:       UTF-8
 future:         false
-repository:     MatBenfield/TheChels.uk
+repository:     Mat-0/TheChels.uk
 defaultImagePath: "/images/splashscreens/apple-touch-icon-180x180.png"
 github:
-  repository_url: https://github.com/MatBenfield/TheChels.uk
+  repository_url: https://github.com/Mat-0/TheChels.uk
   branch: main
 sass:
   style:
@@ -42,12 +41,6 @@ navigation_header:
   link: "https://thechels.uk/cv"
   title: "CV"
 -
-  link: "https://www.linkedin.com/in/mat-benfield/"
-  title: "LinkedIn"
--
-  link: "https://github.com/Mat-0/"
-  title: "GitHub"
--
   link: "https://thechels.uk/offers"
   title: "Offers"  
 ## Footer
@@ -67,3 +60,9 @@ navigation_footer:
 -
   link: "https://thechels.uk/.well-known/security.txt"
   title: "Security"
+-
+  link: "https://www.linkedin.com/in/mat-benfield/"
+  title: "LinkedIn"
+-
+  link: "https://github.com/Mat-0/"
+  title: "GitHub"
