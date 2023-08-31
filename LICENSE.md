@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 Mat Benfield
+Copyright (c) 2022 Mat-0
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
