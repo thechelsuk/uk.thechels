@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Read
         uses: katydecorah/read-action@v7.3.0
       - name: Download the book thumbnail
