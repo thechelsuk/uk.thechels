@@ -2,7 +2,7 @@ name: Add podcast
 description: Update my podcast library
 title: "New Podcast: "
 labels: 'podcasts'
-assignees: 'MatBenfield'
+assignees: 'Mat-0'
 body:
   - type: textarea
     id: logs
