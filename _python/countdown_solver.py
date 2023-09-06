@@ -14,7 +14,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Modified by MatBenfield to support the addition return solution and summary as text strings
+# Modified to support the addition return solution and summary as text strings
 
 OPTIMIZE = 1
 
