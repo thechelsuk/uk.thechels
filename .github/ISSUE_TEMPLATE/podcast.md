@@ -3,7 +3,7 @@ name: Podcast
 about: What I should be listening to next?. Please keep title to the name of the show, and the issue body for a link and the reasons why. Thanks
 title: 
 labels: 'podcast'
-assignees: 'MatBenfield'
+assignees: 'Mat-0'
 
 ---
 
