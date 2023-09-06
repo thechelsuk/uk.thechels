@@ -3,7 +3,7 @@ name: Add Offer
 about: Update my Offers links
 title: New Offer
 labels: 'offers'
-assignees: '@MatBenfield'
+assignees: '@Mat-0'
 
 ---
 
