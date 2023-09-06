@@ -15,4 +15,4 @@ the below action shows a check against the `labelname` to make sure the right ac
 
 Data in yaml files can be looped over at build time to create tables, lists. Using the liquid templating language one can sort and group data too. Such that i now record podcasts, books, websites, films, football teams and a to do list all in yaml files ans all managed by GitHub's issues.
 
-<script src="https://gist.github.com/MatBenfield/e6d5982d24d35530bebfef157d76aff1.js"></script>
+<script src="https://gist.github.com/Mat-0/e6d5982d24d35530bebfef157d76aff1.js"></script>
