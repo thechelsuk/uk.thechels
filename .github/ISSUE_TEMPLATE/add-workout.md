@@ -3,7 +3,7 @@ name: Add new workout
 about: Update list of workouts
 title: 'Add Workout'
 labels: 'workouts'
-assignees: '@MatBenfield'
+assignees: '@Mat-0'
 
 ---
 
