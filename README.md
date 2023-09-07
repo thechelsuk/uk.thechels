@@ -27,11 +27,6 @@ due to the likelihood I will be inconsistent and non-regular.
 [![Add Quotes](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-quotes.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-quotes.yml) 
 [![Add Stock](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-stock.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-stock.yml) 
 
-
-### Scheduled
-
-[![Morning Run](https://github.com/Mat-0/TheChels.uk/actions/workflows/morning-run.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/morning-run.yml)  
-
 ## Morning
 
 In order for the page to work you need to enter some secrets for the repository. There are also a bunch of config files (json) that need updating to suit your needs.
