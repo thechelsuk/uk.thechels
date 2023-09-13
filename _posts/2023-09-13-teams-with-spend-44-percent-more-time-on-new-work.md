@@ -8,3 +8,5 @@ cited: Dora
 ---
 
 > Teams with high scores for stability (quality) and throughput (speed) spend 44% more time on new work
+
+- Dora
