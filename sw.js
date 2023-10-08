@@ -36,7 +36,6 @@ self.addEventListener('install', function(event) {
           '/cv.html',
           '/manual.html',
           '/podcasts.html',
-          '/morning.html'         
         ]
       );
     })
