@@ -5,4 +5,4 @@ tags:
   - other
 ---
 
-[speckyboy cheatsheets](https://speckyboy.com/javascript-cheatsheets/)
+A collection of JS cheatsheets [speckyboy cheatsheets](https://speckyboy.com/javascript-cheatsheets/)

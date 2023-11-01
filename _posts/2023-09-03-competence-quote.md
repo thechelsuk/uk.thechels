@@ -7,8 +7,6 @@ cited: Unknown
 
 ---
 
-# Competence Quote
-
 > Let people go when they are both confident and competent. If they know what they’re doing then you can set goals and get out of the way.
 
 > Coach people when they are competent but lack confidence. If they’re good but they don’t know it then support them in finding the answers themselves.
