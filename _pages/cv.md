@@ -8,13 +8,13 @@ seo: CV of Mat-0
 
 ### Personal Profile
 
-Passionate and experienced Engineering Manager / Head of Software Development seeking hands-off people-focused leadership role in fast paced environment.
+Passionate and experienced Engineering leader seeking hands-off people-focused leadership role in fast paced environment.
 
 A leader and catalyst for change with a focus on agile methodologies, attends local meetups and "geek nights" to further extend knowledge and be a member of the development community. A 'driver' with a focus on task management and delivery through people development.
 
 Created, published, and managed football statistics website (WordPress, PHP, MySQL) and twitter account which oversaw organic growth to peak 175,000 followers and global reach.
 
-Latest personal project was to redesign running club website using Jekyll, a static site generator on Ruby hosted on GitHub pages. Although for work I have been and prefer a hands-off from code for around 5 years.
+Latest personal project was to redesign of running club website using Jekyll, a static site generator on Ruby hosted on GitHub pages. Although for work I have been and prefer a hands-off from code for around 5 years.
 
 ### Core Skills
 
@@ -24,6 +24,7 @@ Latest personal project was to redesign running club website using Jekyll, a sta
 - Source Control: TFS, Azure DevOps, Git, GitHub, subversion, CVS
 - Cloud: AWS, Azure
 - Database: MySQL, Oracle, SQL Server, MongoDB
+- Architecture: Volatility, Domain Driven, Event Driven.
 - Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress, Mural, Confluence, Jira, Airtable, Code Climate, DataDog, working copy
 - OS: Mac, iOS, iPadOS, Windows
 
@@ -35,6 +36,9 @@ _Blackfinch Group are investment specialists offering a range of products includ
 
 ##### HEAD OF ENGINEERING (July 2023 - Current)
 
+Implemented an agile approach to software delivery across three teams, set-up various team ceremonies, one-to-ones, and archtiectual design records. Hired first QAs into the business. Used a data-led approach recording DORA metrics and through objective setting and coaching saw the average cycle time reduce from 51 days to 5 days. Implemented new ways of working such as refinement and building out acceptance criteria, unit testing. Presented Engineering baseline and principles to the group. Increased morale, motivation, and a value driven team-first approach to work - resulting in more pair programming and TDD adoption. Carried out quarterly and probationary reviews. Worked closely with architect and IT/Ops to implement RBACs and environment management through IaC. 
+
+Built a sustainable pace for product delivery aligned with business needs as well as developing technical roadmap, architectural review, acknowledging and surfacing technical debt. Introduced a progression framework for career development.
 
 
 #### Seccl
