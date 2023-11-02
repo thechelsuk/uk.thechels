@@ -38,6 +38,9 @@ Implemented an agile approach to software delivery across three teams building a
 
 Presented Engineering baseline and principles to the group. Increased morale, motivation, and a value driven team-first approach to work - resulting in more pair programming and TDD adoption. Carried out quarterly and probationary reviews. Hired first QAs into the business. Introduced a progression framework for career development.
 
+Worked closely with architect and IT/Ops to implement RBACs and environment management through IaC.
+Developed a technical roadmap, architectural review and architectural design records, acknowledging and surfacing technical debt to stakeholders.
+
 
 #### Seccl
 
