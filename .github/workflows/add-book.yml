@@ -14,15 +14,8 @@ on:
         description: The book's ISBN. Required.
         required: true
         type: string
-      notes:
-        description: Notes about the book. Optional.
-        type: string
-      # If you do not submit date-started or date-finished, the book status will be set to "want to read"
-      date-started:
-        description: Date you started the book (YYYY-MM-DD). Optional.
-        type: string
       date-finished:
-        description: Date you finished the book (YYYY-MM-DD). Optional.
+        description: Date you finished the book (YYYY-MM-DD).
         type: string
 
 # Set up the steps to run the action
@@ -41,7 +34,7 @@ jobs:
 
       - name: Download the book thumbnail
         if: env.BookThumbOutput != ''
-        run: curl "${{ env.BookThumb }}" -o "img/${{ env.BookThumbOutput }}"
+        run: curl "${{ env.BookThumb }}" -o "images/${{ env.BookThumbOutput }}"
 
       - name: Commit updated read file
         run: |
