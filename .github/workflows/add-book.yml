@@ -24,7 +24,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Read
-        uses: katydecorah/read-action@v3.0.1
+        uses: mat-0/read-action@v1.0.1 
       - name: Download the book thumbnail
         run: |
           curl "${{env.BookThumb}}" -o "images/books/${{env.BookThumbOutput}}"
