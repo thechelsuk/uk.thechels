@@ -4,7 +4,7 @@ name: "CodeQL"
 on:
   pull_request:
   schedule:
-    - cron: '0 20 * * 3'
+    - cron: '0 19 * * 3'
 
 concurrency:
   group: "CodeQL"
