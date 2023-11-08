@@ -1,41 +1,53 @@
 ---
 name: Add Book
+run-name: Book (${{ inputs.isbn }})
+
+# Grant the action permission to write to the repository
+permissions:
+  contents: write
+
+# Trigger the action
 on:
-  issues:
-    types: [labeled, edited]
-env:
-  content: ${{ github.event.issue.body }}
-  label: ${{ github.event.label.name }}
-  issue_number: ${{ github.event.issue.number }}
-  actor: ${{ github.actor }}
-  owner: ${{ github.repository_owner }}
+  workflow_dispatch:
+    inputs:
+      isbn:
+        description: The book's ISBN. Required.
+        required: true
+        type: string
+      notes:
+        description: Notes about the book. Optional.
+        type: string
+      # If you do not submit date-started or date-finished, the book status will be set to "want to read"
+      date-started:
+        description: Date you started the book (YYYY-MM-DD). Optional.
+        type: string
+      date-finished:
+        description: Date you finished the book (YYYY-MM-DD). Optional.
+        type: string
+
+# Set up the steps to run the action
 jobs:
-  Checks:
-    if: contains( github.event.issue.labels.*.name, 'read')
-    runs-on: ubuntu-latest
-    steps:
-      - name: Echo
-        run: echo "Label is $label"
-  Build:
-    needs: Checks
-    if: ${{ github.actor == github.repository_owner }}
-    runs-on: ubuntu-latest
+  update-library:
+    runs-on: macOS-latest
+    name: Read
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Read
         uses: katydecorah/read-action@v7.3.0
+        with:
+          thumbnail-width: 1280
+
       - name: Download the book thumbnail
+        if: env.BookThumbOutput != ''
+        run: curl "${{ env.BookThumb }}" -o "img/${{ env.BookThumbOutput }}"
+
+      - name: Commit updated read file
         run: |
-          curl "${{env.BookThumb}}" -o "images/books/${{env.BookThumbOutput}}"
-      - name: Commit files
-        run: |
+          git pull
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -A && git commit -m "Added ${{ env.BookTitle }}"
+          git add -A && git commit -m "📚 “${{ env.BookTitle }}” (${{ env.BookStatus }})"
           git push
-      - name: Close issue
-        uses: peter-evans/close-issue@v3
-        with:
-          issue-number: "${{ env.IssueNumber }}"
-          comment: "📚 You read ${{ env.BookTitle }} on ${{env.DateRead}}."
+    
