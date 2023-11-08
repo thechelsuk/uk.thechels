@@ -19,15 +19,14 @@ jobs:
   Build:
     needs: Checks
     if: ${{ github.actor == github.repository_owner }}
-    runs-on: ubuntu-latest
+    runs-on: macOS-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Read
-        uses: mat-0/read-action@v1.0.1 
+        uses: mat-0/read-action@1.0.1 
       - name: Download the book thumbnail
-        run: |
-          curl "${{env.BookThumb}}" -o "images/books/${{env.BookThumbOutput}}"
+        run: curl "${{env.BookThumb}}" -o "images/books/${{env.BookThumbOutput}}"
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
@@ -39,3 +38,6 @@ jobs:
         with:
           issue-number: "${{ env.IssueNumber }}"
           comment: "📚 You read ${{ env.BookTitle }} on ${{env.DateRead}}."
+
+
+
