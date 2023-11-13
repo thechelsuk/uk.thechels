@@ -3428,3 +3428,24 @@
       thumbnail: "https://books.google.com/books/content?id=QD_FzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Transactional_Analysis_Coaching.html?hl=&id=QD_FzQEACAAJ"
+  - isbn: "1774582651"
+    dateFinished: "2023-11-09"
+    title: "How to Work with (Almost) Anyone"
+    authors:
+      - "Michael Bungay Stanier"
+    publishedDate: "2023-06-27"
+    description: "The secret to work relationships that sing from a top thought-leader in coaching Have you ever had the experience of working with someone and they just didn't “get” you? They do all the things that wind you up, put you off and drive you nuts. And have you ever worked with someone and you just didn't “get” them? You couldn't figure out what made them tick, and you know you were underwhelming as a manager and leader for them. Of course, you have. We all have. Why do those experiences keep happening? Particularly when we’ve also experienced the opposite: great working relationships that soar. In How To Work with (Almost) Anyone, internationally bestselling author Michael Bungay Stanier (MBS) shares a tested process that sets up working relationships for the best possible success. It shows you how to communicate about who you are and what brings out the best and the worst in you. It gives you the tools to talk with your colleagues about how you operate, and to set a social contract for how you’ll work together (not just what you’ll be working on). It teaches you how to keep relationships strong and healthy, clear and clean. Not every relationship can be rainbows and unicorns and free-flowing ginger beer. But everyone who relates can do a better job at amplifying the best of each other, navigating the dark spots, and staying generous. With How To Work with (Almost) Anyone, MBS reveals the secret to better, more successful relationships."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781774582657"
+      - type: "ISBN_10"
+        identifier: "1774582651"
+    pageCount: 0
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=Q46IEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=Q46IEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/How_to_Work_with_Almost_Anyone.html?hl=&id=Q46IEAAAQBAJ"
