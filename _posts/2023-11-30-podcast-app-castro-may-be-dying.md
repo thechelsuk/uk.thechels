@@ -3,7 +3,7 @@
 layout: post
 date: 2023-11-30
 link: https://sixcolors.com/post/2023/11/castro-podcast-app-goes-down-and-may-be-dying/
-title: podcast app Castro may be dying
+title: Podcast app Castro may be dying
 cited: Six Colors
 
 ---
