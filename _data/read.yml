@@ -2284,6 +2284,25 @@
       thumbnail: "https://books.google.com/books/content?id=40T1nwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Turn_Your_Ship_Around.html?hl=&id=40T1nwEACAAJ"
+  - isbn: "9780201835953"
+    dateFinished: "2022-02-01"
+    title: "The Mythical Man-month"
+    authors:
+      - "Frederick P. Brooks (Jr.)"
+    publishedDate: "1995"
+    description: "On software project management"
+    industryIdentifiers:
+      - type: "OTHER"
+        identifier: "UOM:49015002477744"
+    pageCount: 338
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=fUYPAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=fUYPAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Mythical_Man_month.html?hl=&id=fUYPAQAAMAAJ"
   - isbn: "9780007105809"
     dateFinished: "2022-02-02"
     title: "The One Minute Manager Builds High Performing Teams"
