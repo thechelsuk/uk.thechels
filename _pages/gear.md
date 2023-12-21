@@ -51,16 +51,14 @@ The app NetNewsWire as my RSS reader of choice and will look to subscribe to web
 - PocketCasts (Podcasts)
 - Working Copy (Git Client)
 - NetNewsWire (News/RSS)
-- Play (Video Manager)
+- Play, x.pp (Video Management and Play)
 - Drafts (Notes)
 - 1Password (Password Manager)
 - GoodLinks (Bookmarks)
 - Bobby (Budgeting)
-- 1.1.1.1 VPN (Vpn)
+- 1.1.1.1 VPN (VPN)
 - Scriptable (Coding)
 - Pythonista (Coding)
-- Textastic (Coding)
-- YouTube and X.App (Videos)
 - Kindle (Reading)
 
 As well as the usual banking, ultility, home apps for the services I use, plus, of course, the default Apple apps.
