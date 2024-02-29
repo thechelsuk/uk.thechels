@@ -8,11 +8,10 @@ seo: CV of Mat-0
 
 ### Personal Profile
 
-Passionate and experienced Engineering leader seeking hands-off people-focused leadership role in fast paced environment.
+Passionate and experienced Engineering leader seeking hands-off people-focused leadership role in fast paced agile environment. A leader and catalyst for change with a focus on agile methodologies. A 'driver' with a focus on task management and delivery through a holistic approach to people development.
 
-A leader and catalyst for change with a focus on agile methodologies, attends local meetups and "geek nights" to further extend knowledge and be a member of the development community. A 'driver' with a focus on task management and delivery through people development.
+Attends local meetups and "geek nights" to further extend knowledge and be a member of the development community
 
-Created, published, and managed football statistics website (WordPress, PHP, MySQL) and twitter account which oversaw organic growth to peak 175,000 followers and global reach. Latest personal project was to redesign of running club website using Jekyll, a static site generator on Ruby hosted on GitHub pages. Although for work I have been and prefer a hands-off from code for around 5 years.
 
 ### Core Skills
 
@@ -25,6 +24,13 @@ Created, published, and managed football statistics website (WordPress, PHP, MyS
 - Architecture: Micro-Services, Volatility, Domain Driven, Event Driven.
 - Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress, Mural, Confluence, Jira, Airtable, Code Climate, DataDog, working copy
 - OS: Mac, iOS, iPadOS, Windows
+
+### Side Projects
+
+Created, published, and managed football statistics website (WordPress, PHP, MySQL) and twitter account which oversaw organic growth to peak 175,000 followers and global reach. Latest personal project was to redesign of running club website using Jekyll, a static site generator on Ruby hosted on GitHub pages.
+
+Using Github Actions and GitHub Issues to create a Security News feed for the discerning security professional or engineering leader.
+
 
 ### Employment History
 
