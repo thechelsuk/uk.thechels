@@ -10,7 +10,7 @@ seo: CV of Mat-0
 
 Passionate and experienced Engineering leader seeking hands-off people-focused leadership role in fast paced agile environment. A leader and catalyst for change with a focus on agile methodologies. A 'driver' with a focus on task management and delivery through a holistic approach to people development.
 
-Attends local meetups and "geek nights" to further extend knowledge and be a member of the development community
+Attends local meetups and "geek nights" to further extend knowledge and be a member of the development community.
 
 
 ### Core Skills
