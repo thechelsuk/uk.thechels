@@ -2,7 +2,7 @@
 
 layout: post
 date: 2024-03-10
-title: Obersvations of Leadership
+title: Observations of Leadership
 link: https://hazelweakly.me/blog/observations-of-leadership-part-one/
 cited: Hazel Weakly
 
