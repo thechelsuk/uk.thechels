@@ -3548,3 +3548,24 @@
       thumbnail: "https://books.google.com/books/content?id=utSEzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Software_Teaming.html?hl=&id=utSEzwEACAAJ"
+  - isbn: "9781444765427"
+    dateFinished: "2024-03-29"
+    title: "Eat that Frog!"
+    authors:
+      - "Brian Tracy"
+    publishedDate: "2013"
+    description: "Procrastinators, be advised: Success is not a magical combination of genetics and fashion sense. Rather, it is a series of time management behaviors which must be practiced on a regular basis. Luckily, EAT THAT FROG! will show you how to deal with those challenging tasks you keep putting off in an accessible comic book format. Instead of slowing you down, completing these hard jobs only empowers you to tackle the rest of your day."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1444765426"
+      - type: "ISBN_13"
+        identifier: "9781444765427"
+    pageCount: 144
+    printType: "BOOK"
+    categories:
+      - "Precrastination"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=c2pgMQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=c2pgMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Eat_that_Frog.html?hl=&id=c2pgMQEACAAJ"
