@@ -3530,3 +3530,21 @@
       thumbnail: "https://books.google.com/books/content?id=bm92zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Remote_Mob_Programming.html?hl=&id=bm92zQEACAAJ"
+  - isbn: "9798361186938"
+    dateFinished: "2024-03-29"
+    title: "Software Teaming"
+    authors:
+      - "Kevin Meadows"
+      - "Woody Zuill"
+    publishedDate: "2022-11-06"
+    description: "\"All the brilliant minds working together on the same thing, at the same time, in the same space, and at the same computer.\" We call it Software Teaming, also known as Mob Programming. With large monitors, one computer, one keyboard, and a very collaborative approach, we use this method to supercharge our development efforts and deliver high-value software quickly. In this book, we share our \"Software Teaming\" style. We cover the techniques we use in our daily work, how we discovered this way of working, the benefits we see from Software Teaming, and the problems we've overcome. We also show how you can incorporate some of our ideas even if you don't have a way to adopt Software Teaming full-time. In this second edition, we include new material on teams, the power of flow, remote Software Teaming, and more."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9798361186938"
+    pageCount: 0
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=utSEzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=utSEzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Software_Teaming.html?hl=&id=utSEzwEACAAJ"
