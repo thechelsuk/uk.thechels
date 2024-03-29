@@ -3510,3 +3510,23 @@
       thumbnail: "https://books.google.com/books/content?id=FoCUCDgktfMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Who_Moved_My_Cheese.html?hl=&id=FoCUCDgktfMC"
+  - isbn: "9783982112602"
+    dateFinished: "2024-03-29"
+    title: "Remote Mob Programming"
+    authors:
+      - "Jochen Christ"
+      - "Martin Huber"
+    publishedDate: "2020-03-17"
+    description: "Remote Mob Programming combines two ways of working: Mob Programming and working as a distributed team. Jochen Christ, Simon Harrer and Martin Huber share their experience with their working model - and why they don't want to work differently anymore."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "3982112605"
+      - type: "ISBN_13"
+        identifier: "9783982112602"
+    pageCount: 42
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=bm92zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=bm92zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Remote_Mob_Programming.html?hl=&id=bm92zQEACAAJ"
