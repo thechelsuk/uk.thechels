@@ -8,7 +8,7 @@ seo: A list of my favourite gear and EDC
 
 ## Mobile
 
-My daily driver is the iPhone 15 Pro. I've been an iPhone user since the 4 model and generally upgrade every two or three years.
+My phone of choicr is the iPhone 15 Pro. I've been an iPhone user since the 4 model and generally upgrade every two or three years.
 
 
 ## Tablet
@@ -35,9 +35,7 @@ Apple TVs in the usual rooms in the house, including the office.
 
 ## Listening
 
-I use the Shokz opencomm for digital calls, its boom mic is handy and offers good noise reduction and the bone conduction method I find is great for public settings or offices where ambient noise is needed, and at home calls too.
-
-Then the Shockz Aeropex as these offer high enough quality audio for podcasts, music, videos etc whilst being lightweight and long battery life, in addtion with a pair of the second generation Airpod Pro (usb-c) model, that I'm using more and more.
+A pair of the second generation Airpod Pro (usb-c) model, backed up by another pair with lightning.
 
 ## Reading
 
