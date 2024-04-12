@@ -8,7 +8,7 @@ seo: A list of my favourite gear and EDC
 
 ## Mobile
 
-My phone of choicr is the iPhone 15 Pro. I've been an iPhone user since the 4 model and generally upgrade every two or three years.
+My phone of choice is the iPhone 15 Pro. I've been an iPhone user since the 4 model and generally upgrade every two or three years.
 
 
 ## Tablet
@@ -24,10 +24,7 @@ Almost everything I need to do these days can be done in the browser or via dedi
 
 ## Watch
 
-I wear two daily. The Apple Watch Series 9, as this is the best smartwatch available to me for noticiations, payments, calendar and smart home controls.
-
-I also wear a Garmin 945 as I've found this to be the best activity and sleep tracking watch given it's superior battery life and it's back to start GPS tracking map is super userful when out on a long run.
-
+I werar he Apple Watch Series 9, as this is the best smartwatch available to me for noticiations, payments, calendar and smart home controls.
 
 ## TV
 
@@ -35,11 +32,11 @@ Apple TVs in the usual rooms in the house, including the office.
 
 ## Listening
 
-A pair of the second generation Airpod Pro (usb-c) model, backed up by another pair with lightning.
+Two pairs of the second generation Airpod Pro (usb-c model), on almost constant rotation.
 
 ## Reading
 
-I use the kindle Paperwhite Signature Edition as my device of choice for reading books, I own less than dozen physical books and would ideally move to an all digitial approach in time.
+I use the kindle Paperwhite Signature Edition as my device of choice for reading books, I own less than half a dozen physical books and would ideally move to an all digitial approach in time.
 
 The app NetNewsWire as my RSS reader of choice and will look to subscribe to websites and blogs and tend to avoid hitting websites directly due largely to cookie polices, adverts, and shitty design.
 
