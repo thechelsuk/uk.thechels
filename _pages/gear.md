@@ -36,7 +36,7 @@ Two pairs of the second generation Airpod Pro (usb-c model), on almost constant 
 
 ## Reading
 
-I use the kindle Paperwhite Signature Edition as my device of choice for reading books, I own less than half a dozen physical books and would ideally move to an all digitial approach in time.
+I use the kindle Paperwhite Signature Edition as my device of choice for reading books, or occassionaly on my iPad or iPhone. I do not own any physical books as of April 2024.
 
 The app NetNewsWire as my RSS reader of choice and will look to subscribe to websites and blogs and tend to avoid hitting websites directly due largely to cookie polices, adverts, and shitty design.
 
