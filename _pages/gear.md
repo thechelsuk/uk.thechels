@@ -11,7 +11,7 @@ seo: A list of my favourite gear and EDC
 My phone of choice is the iPhone 15 Pro. I've been an iPhone user since the 4 model and generally upgrade every two or three years.
 
 
-## Tablet
+## Computing
 
 The iPad Pro 11 inch - 4th generation is my daily computer of choice having upgraded from a rather old yet capable MacBook Air from 2012. 
 
@@ -19,12 +19,14 @@ Almost everything I need to do these days can be done in the browser or via dedi
 
 - Apple Pencil
 - Magic Keyboard
-- UGREEN wireless mouse
+- Logitech MX Master 3 Wireless Mouse
 - RK ROYAL KLUDGE RK61 Wireless Mechanical Keyboard
+
+I also have a Raspberry Pi 400, but is only really used to teach my daughter about computing/coding.
 
 ## Watch
 
-I werar he Apple Watch Series 9, as this is the best smartwatch available to me for noticiations, payments, calendar and smart home controls.
+I wear the Apple Watch Series 9, as this is the best smartwatch available to me for noticiations, payments, calendar and smart home controls.
 
 ## TV
 
