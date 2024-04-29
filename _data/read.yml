@@ -3527,3 +3527,22 @@
       thumbnail: "https://books.google.com/books/content?id=c2pgMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Eat_that_Frog.html?hl=&id=c2pgMQEACAAJ"
+  - isbn: "9781785042119"
+    dateFinished: "2024-04-29"
+    title: "Out of the Maze"
+    authors:
+      - "Spencer Johnson"
+    publishedDate: "2018-11"
+    description: "Who Moved My Cheese?offered millions of readers relief for an evergreen problem- unanticipated and unwelcome change. Now its long-awaited sequel digs deeper, to show how readers can adapt their beliefs and achieve better results in any field. Johnson's theme is that all of our accomplishments are due to our beliefs- whether we're confident or insecure, cynical or positive, open-minded or inflexible. But it's difficult to change your beliefs - and with them, your outcomes. Find out how Hem, Haw, and the other characters from Who Moved My Cheese?deal with this challenge."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1785042114"
+      - type: "ISBN_13"
+        identifier: "9781785042119"
+    pageCount: 96
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=5AUDtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=5AUDtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Out_of_the_Maze.html?hl=&id=5AUDtAEACAAJ"
