@@ -3567,3 +3567,24 @@
       thumbnail: "https://books.google.com/books/content?id=yfawtQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Everything_Is_Negotiable.html?hl=&id=yfawtQEACAAJ"
+  - isbn: "9780241315415"
+    dateFinished: "2024-04-30"
+    title: "My Morning Routine"
+    authors:
+      - "Benjamin Spall"
+    publishedDate: "2018-05"
+    description: "Most of us mindlessly drift from bed to phone to fridge to work in the morning. Yet the choices we make during the first few hours of our day have an outsized effect on everything else. In My Morning Routine,talented creatives and successful business people share their secrets to unlocking greater energy, focus and calm - starting first thing in the morning. For example, Arianna Huffington describes how she silences the 'bad roommate' of self-doubt every morning; Google's M.G. Siegler reveals why he religiously drinks bottled Starbucks Frappucinos; and a former Navy SEAL lieutenant explains why his morning workout routine changes each season. From sleep patterns and dietary preferences to electronics use, workout rituals and more leisurely and self-indulgent habits, Benjamin Spall and Michael Xander present readers with a wide range of possible practices to choose from. My Morning Routineillustrates that there is not one right way to start the day, but encourages you to experiment until you've formed a morning routine that works for you - one that makes you feel awake, alert, physically and mentally healthy and psyched up to have a great day."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0241315417"
+      - type: "ISBN_13"
+        identifier: "9780241315415"
+    pageCount: 288
+    printType: "BOOK"
+    categories:
+      - "Habit"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=q2TRtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=q2TRtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/My_Morning_Routine.html?hl=&id=q2TRtAEACAAJ"
