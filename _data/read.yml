@@ -3609,3 +3609,25 @@
       thumbnail: "https://books.google.com/books/content?id=4N7IwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Grit.html?hl=&id=4N7IwAEACAAJ"
+  - isbn: "9781641523455"
+    dateFinished: "2024-04-30"
+    notes: "Book on minimalism strategies."
+    title: "The Minimalist Way"
+    authors:
+      - "Erica Layne"
+    publishedDate: "2019-03-12"
+    description: "Bring Minimalism to Your Home, Work, and Relationships Discover how to apply the minimalist mindset to every aspect of your life by changing the way you think about your home, career, relationships, family, and money. The Minimalist Way will help you take it one step at a time with simple exercises and activities. Ease into minimalism at your own pace and learn how to let go. Filled with practical philosophy and easy-to-use strategies for removing unnecessary distractions and stress, this is the essential guidebook for anyone looking to clear out their physical, mental, and emotional clutter. The Minimalist Way includes: MINIMALIST PHILOSOPHY_outlines the principles of minimalism and shows you how to define the practice to fit your life. THE MINIMALIST LIFESTYLE_teaches you how to apply minimalism to your spending, food, clothing, family, leisure time, work, and more. REAL SOLUTIONS_that help you spend time and energy wisely, including checklists, activities, and troubleshooting tips. Live simpler. Live better. Live minimalism."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "164152345X"
+      - type: "ISBN_13"
+        identifier: "9781641523455"
+    pageCount: 160
+    printType: "BOOK"
+    categories:
+      - "Self-Help"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=4FTyuQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=4FTyuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Minimalist_Way.html?hl=&id=4FTyuQEACAAJ"
