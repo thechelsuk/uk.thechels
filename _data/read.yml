@@ -3546,3 +3546,24 @@
       thumbnail: "https://books.google.com/books/content?id=5AUDtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Out_of_the_Maze.html?hl=&id=5AUDtAEACAAJ"
+  - isbn: "9781580057899"
+    dateFinished: "2024-04-30"
+    title: "Everything Is Negotiable"
+    authors:
+      - "Meg Myers Morgan"
+    publishedDate: "2018-12-04"
+    description: "Surprising ways we limit ourselves and our happiness, and how to challenge the internalized wisdom and circular thinking that holds us back As women, many of us are stuck in feedback loops about how to be successful and happy: striving to \"have it all\" at work and at home, letting ourselves be pressured into giving every part of our lives 100% until we're completely burnt-out, imagining only a strictly linear life path (college, job, marriage, kids), and accepting limitations without question. Yet the truth is, this book argues, most of the conventional wisdom about driving our life choices is total baloney. In Everything Is Negotiable, Meg Myers Morgan deconstructs preconceived notions about adulthood, parenthood, and career paths that have us limiting ourselves. Instead of following that linear plan, for example, she urges readers to take action now for what we want--limitations be damned. With wit and verve, Morgan also tells us to forget trying to \"have it all,\" as the cliche phrase goes--it'll never happen. And, Morgan argues, don't bother trying to give 100%--we simply can't give anything 100% attention, ever! Instead, this book teaches us to navigate life's necessary trade-offs free of the baggage of our own expectations. Chock full of strategies for where and when to give our limited energy, what to demand from our careers, and how to make better choices, Everything Is Negotiable is for women ready to seize the lives they really want."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1580057896"
+      - type: "ISBN_13"
+        identifier: "9781580057899"
+    pageCount: 0
+    printType: "BOOK"
+    categories:
+      - "Self-Help"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=yfawtQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=yfawtQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Everything_Is_Negotiable.html?hl=&id=yfawtQEACAAJ"
