@@ -3527,3 +3527,107 @@
       thumbnail: "https://books.google.com/books/content?id=c2pgMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Eat_that_Frog.html?hl=&id=c2pgMQEACAAJ"
+  - isbn: "9781785042119"
+    dateFinished: "2024-04-29"
+    title: "Out of the Maze"
+    authors:
+      - "Spencer Johnson"
+    publishedDate: "2018-11"
+    description: "Who Moved My Cheese?offered millions of readers relief for an evergreen problem- unanticipated and unwelcome change. Now its long-awaited sequel digs deeper, to show how readers can adapt their beliefs and achieve better results in any field. Johnson's theme is that all of our accomplishments are due to our beliefs- whether we're confident or insecure, cynical or positive, open-minded or inflexible. But it's difficult to change your beliefs - and with them, your outcomes. Find out how Hem, Haw, and the other characters from Who Moved My Cheese?deal with this challenge."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1785042114"
+      - type: "ISBN_13"
+        identifier: "9781785042119"
+    pageCount: 96
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=5AUDtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=5AUDtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Out_of_the_Maze.html?hl=&id=5AUDtAEACAAJ"
+  - isbn: "9781580057899"
+    dateFinished: "2024-04-30"
+    title: "Everything Is Negotiable"
+    authors:
+      - "Meg Myers Morgan"
+    publishedDate: "2018-12-04"
+    description: "Surprising ways we limit ourselves and our happiness, and how to challenge the internalized wisdom and circular thinking that holds us back As women, many of us are stuck in feedback loops about how to be successful and happy: striving to \"have it all\" at work and at home, letting ourselves be pressured into giving every part of our lives 100% until we're completely burnt-out, imagining only a strictly linear life path (college, job, marriage, kids), and accepting limitations without question. Yet the truth is, this book argues, most of the conventional wisdom about driving our life choices is total baloney. In Everything Is Negotiable, Meg Myers Morgan deconstructs preconceived notions about adulthood, parenthood, and career paths that have us limiting ourselves. Instead of following that linear plan, for example, she urges readers to take action now for what we want--limitations be damned. With wit and verve, Morgan also tells us to forget trying to \"have it all,\" as the cliche phrase goes--it'll never happen. And, Morgan argues, don't bother trying to give 100%--we simply can't give anything 100% attention, ever! Instead, this book teaches us to navigate life's necessary trade-offs free of the baggage of our own expectations. Chock full of strategies for where and when to give our limited energy, what to demand from our careers, and how to make better choices, Everything Is Negotiable is for women ready to seize the lives they really want."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1580057896"
+      - type: "ISBN_13"
+        identifier: "9781580057899"
+    pageCount: 0
+    printType: "BOOK"
+    categories:
+      - "Self-Help"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=yfawtQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=yfawtQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Everything_Is_Negotiable.html?hl=&id=yfawtQEACAAJ"
+  - isbn: "9780241315415"
+    dateFinished: "2024-04-30"
+    title: "My Morning Routine"
+    authors:
+      - "Benjamin Spall"
+    publishedDate: "2018-05"
+    description: "Most of us mindlessly drift from bed to phone to fridge to work in the morning. Yet the choices we make during the first few hours of our day have an outsized effect on everything else. In My Morning Routine,talented creatives and successful business people share their secrets to unlocking greater energy, focus and calm - starting first thing in the morning. For example, Arianna Huffington describes how she silences the 'bad roommate' of self-doubt every morning; Google's M.G. Siegler reveals why he religiously drinks bottled Starbucks Frappucinos; and a former Navy SEAL lieutenant explains why his morning workout routine changes each season. From sleep patterns and dietary preferences to electronics use, workout rituals and more leisurely and self-indulgent habits, Benjamin Spall and Michael Xander present readers with a wide range of possible practices to choose from. My Morning Routineillustrates that there is not one right way to start the day, but encourages you to experiment until you've formed a morning routine that works for you - one that makes you feel awake, alert, physically and mentally healthy and psyched up to have a great day."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0241315417"
+      - type: "ISBN_13"
+        identifier: "9780241315415"
+    pageCount: 288
+    printType: "BOOK"
+    categories:
+      - "Habit"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=q2TRtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=q2TRtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/My_Morning_Routine.html?hl=&id=q2TRtAEACAAJ"
+  - isbn: "9781785040207"
+    dateFinished: "2024-04-30"
+    title: "Grit"
+    authors:
+      - "Angela Duckworth"
+    publishedDate: "2017"
+    description: "Why do naturally talented people frequently fail to reach their potential while other far less gifted individuals go on to achieve amazing things? The secret to outstanding achievement is not talent, but a passionate persistence. In other words, grit. MacArthur Genius Award-winning psychologist Angela Duckworth shares fascinating new revelations about who succeeds in life and why. Based on her cutting-edge research, Duckworth shows how many people achieve remarkable things not just by relying on innate natural talent, but by practising what she calls grit. She then offers a Grit Formula to help anyone to become more gritty, focusing on six key factors: hope, effort, precision, passion, ritual and prioritisation. She reveals: - Why people who test high for talent often fail to achieve their potential, and why people who do not test high for talent often \"overachieve\" what others expect them to do - How grit can be learned, whatever your IQ or circumstances - Why stubbornness is a key characteristic of gritty people - When to be stubborn and when giving up is the grittiest thing you can do - How gritty people found their passion, and you can find yours - How gritty experts practise, and how you can do the same in your own life - What the people who care about you can do to boost your grit when you need it most - How grit is cultivated in the highest-performing sports teams, companies and schools"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1785040200"
+      - type: "ISBN_13"
+        identifier: "9781785040207"
+    pageCount: 0
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=4N7IwAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=4N7IwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Grit.html?hl=&id=4N7IwAEACAAJ"
+  - isbn: "9781641523455"
+    dateFinished: "2024-04-30"
+    notes: "Book on minimalism strategies."
+    title: "The Minimalist Way"
+    authors:
+      - "Erica Layne"
+    publishedDate: "2019-03-12"
+    description: "Bring Minimalism to Your Home, Work, and Relationships Discover how to apply the minimalist mindset to every aspect of your life by changing the way you think about your home, career, relationships, family, and money. The Minimalist Way will help you take it one step at a time with simple exercises and activities. Ease into minimalism at your own pace and learn how to let go. Filled with practical philosophy and easy-to-use strategies for removing unnecessary distractions and stress, this is the essential guidebook for anyone looking to clear out their physical, mental, and emotional clutter. The Minimalist Way includes: MINIMALIST PHILOSOPHY_outlines the principles of minimalism and shows you how to define the practice to fit your life. THE MINIMALIST LIFESTYLE_teaches you how to apply minimalism to your spending, food, clothing, family, leisure time, work, and more. REAL SOLUTIONS_that help you spend time and energy wisely, including checklists, activities, and troubleshooting tips. Live simpler. Live better. Live minimalism."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "164152345X"
+      - type: "ISBN_13"
+        identifier: "9781641523455"
+    pageCount: 160
+    printType: "BOOK"
+    categories:
+      - "Self-Help"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=4FTyuQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=4FTyuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Minimalist_Way.html?hl=&id=4FTyuQEACAAJ"
