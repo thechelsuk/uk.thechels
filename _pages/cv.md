@@ -38,7 +38,7 @@ Using Github Actions and GitHub Issues to create a Security News feed for the di
 
 _Blackfinch Group are investment specialists offering a range of products including tax efficient investments for individuals and business as well as offering investment in solar/wind energy and UK start up companies_
 
-##### HEAD OF ENGINEERING (July 2023 - Current)
+##### HEAD OF ENGINEERING (July 2023 - May 2024)
 
 Implemented an agile approach to software delivery across three teams building a sustainable pace for product delivery aligned to emerging business needs, set-up various team ceremonies, one-to-ones, and. Used a data-led approach recording DORA metrics and through objective setting and coaching saw the average cycle time reduce from 51 days to 5 days. Implemented new ways of working such as refinement and building out acceptance criteria, unit testing. 
 

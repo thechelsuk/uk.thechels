@@ -8,7 +8,7 @@ seo: About page for Mat B, owner of Weak Notes at thechels.uk
 
 ![banner photo of Mat running in London](/images/gh-header-image-cropped.jpg)
 
-I work as a Head of Engineering at a multi-faceted fintech in the wealth management space.
+I work in the senior software engineering people leader space, typically as a Head of Engineering or Engineering Manager. 
 
 I wrote my first bit of HTML in a Notepad window sometime around 1999 and never really stopped, I've been hands-off day-to-day at work for several years now, but I still like to dabble in my spare time.
 

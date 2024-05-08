@@ -45,7 +45,7 @@ The app NetNewsWire as my RSS reader of choice and will look to subscribe to web
 
 ## Apps
  
-- PocketCasts (Podcasts)
+- Castro (Podcasts)
 - Working Copy (Git Client)
 - NetNewsWire (News/RSS)
 - Play, x.app (Video Management and Play)
