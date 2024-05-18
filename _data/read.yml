@@ -3631,3 +3631,25 @@
       thumbnail: "https://books.google.com/books/content?id=4FTyuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Minimalist_Way.html?hl=&id=4FTyuQEACAAJ"
+  - isbn: "9780241385845"
+    dateFinished: "2024-05-18"
+    title: "The Squiggly Career"
+    authors:
+      - "Helen Tupper"
+      - "Sarah Ellis"
+    publishedDate: "2020-03-17"
+    description: "THE NO.1 SUNDAY TIMES BUSINESS BESTSELLER 2020 'The Squiggly Career is about navigating work in a way that suits you, it's a timely and brilliant handbook for now' Stylist 'A brilliant guide. Read it and get the tools you need to thrive in your career now and in the future' Marie Forleo, author of Everything is Figureoutable 'Logical, practical and based on tried and tested models' Financial Times's Book of the Month Career ladders and jobs for life are a thing of the past Today, we're living in a world of squiggly careers, where moving frequently and fluidly between roles, industries, locations, and even careers, is becoming the new normal. Squiggly careers can feel stressful and overwhelming, but if you know how to make the most of them, they can be full of opportunity, freedom and purpose. And to make the most of our increasingly squiggly careers we need to answer some important questions: What am I good at? What do I stand for? What motivates and drives me? Where do I want to go in the future? In The Squiggly Career, you'll learn how to: - Play to your super strengths - Discover your values - Overcome your confidence gremlins - Build better support networks - Explore your future possibilities Packed with insights about the changing shape of work and inspiration from highly successful people, this book will fuel your growth and help you be happier, and ultimately more successful in your career. If you enjoyed reading this, check out You Coach You, Helen and Sarah's practical guide to getting unstuck, increasing self-awareness and solving knotty career conundrums."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780241385845"
+      - type: "ISBN_10"
+        identifier: "0241385849"
+    pageCount: 0
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=rsCMEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=rsCMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Squiggly_Career.html?hl=&id=rsCMEAAAQBAJ"
