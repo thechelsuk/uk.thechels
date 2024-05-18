@@ -3631,6 +3631,28 @@
       thumbnail: "https://books.google.com/books/content?id=4FTyuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Minimalist_Way.html?hl=&id=4FTyuQEACAAJ"
+  - isbn: "9780735210936"
+    dateFinished: "2024-05-14"
+    notes: "Another book... (audiobook via library)"
+    title: "Because Internet"
+    authors:
+      - "Gretchen McCulloch"
+    publishedDate: "2019-07-23"
+    description: "AN INSTANT NEW YORK TIMES BESTSELLER!! Named a Best Book of 2019 by TIME, Amazon, and The Washington Post A Wired Must-Read Book of Summer “Gretchen McCulloch is the internet’s favorite linguist, and this book is essential reading. Reading her work is like suddenly being able to see the matrix.” —Jonny Sun, author of everyone's a aliebn when ur a aliebn too Because Internet is for anyone who's ever puzzled over how to punctuate a text message or wondered where memes come from. It's the perfect book for understanding how the internet is changing the English language, why that's a good thing, and what our online interactions reveal about who we are. Language is humanity's most spectacular open-source project, and the internet is making our language change faster and in more interesting ways than ever before. Internet conversations are structured by the shape of our apps and platforms, from the grammar of status updates to the protocols of comments and @replies. Linguistically inventive online communities spread new slang and jargon with dizzying speed. What's more, social media is a vast laboratory of unedited, unfiltered words where we can watch language evolve in real time. Even the most absurd-looking slang has genuine patterns behind it. Internet linguist Gretchen McCulloch explores the deep forces that shape human language and influence the way we communicate with one another. She explains how your first social internet experience influences whether you prefer \"LOL\" or \"lol,\" why ~sparkly tildes~ succeeded where centuries of proposals for irony punctuation had failed, what emoji have in common with physical gestures, and how the artfully disarrayed language of animal memes like lolcats and doggo made them more likely to spread."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780735210936"
+      - type: "ISBN_10"
+        identifier: "0735210934"
+    pageCount: 338
+    printType: "BOOK"
+    categories:
+      - "Social Science"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=bbqkDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=bbqkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Because_Internet.html?hl=&id=bbqkDwAAQBAJ"
   - isbn: "9780241385845"
     dateFinished: "2024-05-18"
     title: "The Squiggly Career"
