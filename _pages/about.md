@@ -8,9 +8,11 @@ seo: About page for Mat B, owner of Weak Notes at thechels.uk
 
 ![banner photo of Mat running in London](/images/gh-header-image-cropped.jpg)
 
-I work in the senior software engineering people leader space, typically as a Head of Engineering or Engineering Manager. 
+An experienced Engineering leader (ex-Blackfinch, ex-Seccl) with a passion for people development, building teams using agile methodologies, focusing on flow and delivery. A broad history of working with various programming languages. Has led multiple teams in fast-paced environments, implementing agile approaches and reducing cycle times significantly. Has a track record of increasing team morale and motivation, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, and personal development frameworks, as well as addressing technical debt.
 
-I wrote my first bit of HTML in a Notepad window sometime around 1999 and never really stopped, I've been hands-off day-to-day at work for several years now, but I still like to dabble in my spare time.
+Regularly attends local meetups to extend knowledge and contribute to the development community, furthermore worked on various side projects, including creating and managing a football statistics website and a Security News feed. 
+
+Holds a Business Information Systems (HND) and a Business Information Technology in Computing (HNC) from Solent University.
 
 You can see my [curriculum vitae](/cv) and my [operating manual](/manual).
 
