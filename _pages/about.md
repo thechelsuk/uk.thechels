@@ -16,14 +16,20 @@ Holds a Business Information Systems (HND) and a Business Information Technology
 
 You can see my [curriculum vitae](/cv) and my [operating manual](/manual).
 
-I love listening to [podcasts](/podcasts) so please [help me find more](https://github.com/Mat-0/TheChels.uk/issues/new?assignees=Mat-0=podcast&template=podcast.md). I apparently like making lists, so here are some [football teams](/teams), [apps](/apps), [books](/books) and [sites](/sites), and [things I use](/gear).
+ I like making lists, so here are some...
+- I love listening to [podcasts](/podcasts) so please [help me find more](https://github.com/Mat-0/TheChels.uk/issues/new?assignees=Mat-0=podcast&template=podcast.md).
+- [football teams](/teams)
+- [apps](/apps)
+- [books](/books)
+- [sites](/sites)
+- [things I use](/gear).
 
 ### Active Projects
 
-- Having learned a little python, I created a twitter bot [tweeting breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news) and [associated low-fi Chelsea official news app](https://app.thechels.uk) because, for some reason, modern websites don't produce RSS feeds.
+- Having learned a little Python, I created a Twitter bot [tweeting breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news) and [associated low-fi Chelsea official news app](https://app.thechels.uk) because, for some reason, modern websites don't produce RSS feeds.
 - I have been compiling a repository of [engineering management](https://github.com/Mat-0/engineering-management) tools to help the day job and others in the role.
 - [Boinc - Contribute computing capacity](https://boinc.thechels.uk) is hosted for a friend.
-- [Cheltenham open data](https://cheltenham-open-data.github.io) is an GitHub organisation that uses open data sources relevant to my hometown. Projects include using and archiving official government statistics of Covid-19, Food bank data, street crimes, fix-my-street and more.
+- [Cheltenham open data](https://cheltenham-open-data.github.io) is an GitHub organisation that uses open data sources relevant to my hometown. Projects include using and archiving official government statistics of Covid-19, Foodbank data, street crimes, fix-my-street and more.
 - [CLC Striders](http://clcstriders-runningclub.co.uk/) is my local running club's website - I rebuilt from the ground-up reducing the clubs costs by 66%. The site is built using Jekyll a static site generator built on Ruby, utilising GitHub Pages and Actions. Winning a club award in 2020.
 
 ### In The Press
