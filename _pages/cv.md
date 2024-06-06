@@ -8,7 +8,7 @@ seo: CV of Mat-0
 
 ### Personal Profile
 
-Passionate and experienced Engineering leader seeking hands-off people-focused leadership role in fast paced agile environment. A leader and catalyst for change with a focus on agile methodologies. A 'driver' with a focus on task management and delivery through a holistic approach to people development.
+Passionate and experienced Engineering leader seeking a hands-off people-focused leadership role in fast-paced agile environment. A leader and catalyst for change with a focus on agile methodologies. A 'driver' with a focus on task management and delivery through a holistic approach to people development.
 
 Attends local meetups and "geek nights" to further extend knowledge and be a member of the development community.
 
@@ -27,22 +27,28 @@ Attends local meetups and "geek nights" to further extend knowledge and be a mem
 
 ### Side Projects
 
-Created, published, and managed football statistics website (WordPress, PHP, MySQL) and twitter account which oversaw organic growth to peak 175,000 followers and global reach. Latest personal project was to redesign of running club website using Jekyll, a static site generator on Ruby hosted on GitHub pages.
+Created, published, and managed a football statistics website (WordPress, PHP, MySQL) and Twitter account, overseeing organic growth to peak 175,000 followers and global reach. Latest personal project was to redesign of a running club website using Jekyll, a static site generator on Ruby hosted on GitHub pages.
 
 Using Github Actions and GitHub Issues to create a Security News feed for the discerning security professional or engineering leader.
 
 
 ### Employment History
 
+#### Howden Insurance
+
+_Howden, formally A Plan, is one of the biggest insurance firms in the world, and the 5th largest employee-owned business in the UK.
+
+##### HEAD OF WEB DEVELOPMENT (June 2024 - )
+
 #### Blackfinch Group
 
-_Blackfinch Group are investment specialists offering a range of products including tax efficient investments for individuals and business as well as offering investment in solar/wind energy and UK start up companies_
+_Blackfinch Group are investment specialists offering a range of products including tax efficient investments for individuals and businesses as well as offering investment in solar/wind energy and UK start-up companies
 
 ##### HEAD OF ENGINEERING (July 2023 - May 2024)
 
-Implemented an agile approach to software delivery across three teams building a sustainable pace for product delivery aligned to emerging business needs, set-up various team ceremonies, one-to-ones, and. Used a data-led approach recording DORA metrics and through objective setting and coaching saw the average cycle time reduce from 51 days to 5 days. Implemented new ways of working such as refinement and building out acceptance criteria, unit testing. 
+Implemented an agile approach to software delivery across three teams building a sustainable pace for product delivery aligned to emerging business needs, set up various team ceremonies, one-to-ones, and. Used a data-led approach recording DORA metrics and through objective setting and coaching saw the average cycle time reduce from 51 days to 5 days. Implemented new ways of working such as refinement and building out acceptance criteria, and unit testing. 
 
-Presented Engineering baseline and principles to the group. Increased morale, motivation, and a value driven team-first approach to work - resulting in more pair programming and TDD adoption. Carried out quarterly and probationary reviews. Hired first QAs into the business. Introduced a progression framework for career development.
+Presented Engineering baseline and principles to the group. Increased morale, motivation, and a value-driven team-first approach to work - resulting in more pair programming and TDD adoption. Carried out quarterly and probationary reviews. Hired first QAs into the business. Introduced a progression framework for career development.
 
 Worked closely with architect and IT/Ops to implement RBACs and environment management through IaC.
 Developed a technical roadmap, architectural review and architectural design records, acknowledging and surfacing technical debt to stakeholders.
@@ -50,27 +56,27 @@ Developed a technical roadmap, architectural review and architectural design rec
 
 #### Seccl
 
-_Seccl’s technology helps advisers, investment managers, and fintechs of all sizes to operate their own investment platform. Seccl are an API first technology company operating in the wealth management, financial services sector as part of the Octopus Group._
+_Seccl’s technology helps advisers, investment managers, and fintechs of all sizes to operate their own investment platform. Seccl is an API-first technology company operating in the wealth management and financial services sector as part of the Octopus Group._
 
 ##### ENGINEERING MANAGER (June 2021 - June 2023)
 
 Started leading multiple squads in the Investments and Advice tribe with a focus on delivery, empowering, and growing our engineers. Implemented a role/skill matrix and used this during annual reviews - the first time anything like this was used in the company, acted as head of engineering during a senior/c-suite leadership change and aided recruitment of new CTO and HoE.
 
-Currently leading the devops capability, a team responsible for cloud infrastructure and developer enablement and support. Developed a roadmap to remove legacy cloud, poorly managed systems to managed services. Helped team deliver an automated client onboarding process reducing cycle time from approximately 6 hours to 3 minutes. Oversaw a DB upgrade well within deadlines and with no downtime nor customer detriment. Gave Technical debt and security greater gravitas within the organisation and helped construct a roadmap for remediation. Increased Team happiness metrics by 4 points (out of 10), 2.7 in wellness and 2.4 in overall engagement, 7.1 in relationship with peers from 6 months to prior 6 months.
+Currently leading the DevOps capability, a team responsible for cloud infrastructure and developer enablement and support. Developed a roadmap to remove legacy cloud, poorly managed systems to managed services. Helped team deliver an automated client onboarding process reducing cycle time from approximately 6 hours to 3 minutes. Oversaw a DB upgrade well within deadlines and with no downtime or customer detriment. Gave Technical debt and security greater gravitas within the organisation and helped construct a roadmap for remediation. Increased Team happiness metrics by 4 points (out of 10), 2.7 in wellness and 2.4 in overall engagement, 7.1 in relationship with peers from 6 months to the prior 6 months.
 
 ###### Key achievements and projects
 
-- built a recruitment process and question set for various roles and formalised a fair and systematic approach to recruitment hiring 12 engineers in first 6 months
-- involved in non-engineering hiring sessions to support other hiring managers. Interviewed and hired peer and involved in CTO and HoE hires.
+- built a recruitment process and question set for various roles and formalised a fair and systematic approach to recruitment hiring 12 engineers in the first 6 months
+- involved in non-engineering hiring sessions to support other hiring managers. Interviewed and hired peers and involved in CTO and HoE hires.
 - led on transition to GitHub Enterprise and Advanced Security.
-- led on the trial and implementation of DataDog, adding monitoring and observability capability for the first time
-- replaced custom-built legacy CI/CD process on Jenkins to GitHub actions moving from monolythic deployments to individual components
-- oversaw remediation of infrastructure through a well-architected review with AWS partner. 
-- oversaw replacement of Kubernetes to ECR on Fargate - creating on demand infrastructure triggered by pull-requests reducing AWS costs by 10 per cent.
+- Led the trial and implementation of DataDog, adding monitoring and observability capability for the first time.
+- replaced custom-built legacy CI/CD process on Jenkins to GitHub actions moving from monolithic deployments to individual components
+- oversaw remediation of infrastructure through a well-architected review with an AWS partner. 
+- oversaw replacement of Kubernetes to ECR on Fargate - creating on-demand infrastructure triggered by pull requests reducing AWS costs by 10 per cent.
 
 #### Higher Education Statistics Agency
 
-_Collects, processes, and publishes data about all aspects of the higher education landscape in the UK as the trusted source of HE data and analysis as Designated Data body. In addition to roles acted as a Product Owner, (certified) Scrum Master, Staff Forum representative, and fire marshal from time-to-time._
+_Collects, processes, and publishes data about all aspects of the higher education landscape in the UK as the trusted source of HE data and analysis as the Designated Data body. In addition to roles acted as a Product Owner, (certified) Scrum Master, Staff Forum representative, and fire marshal from time to time._
 
 ##### HEAD OF SOFTWARE DEVELOPMENT (October 2019 - June 2021)
 
