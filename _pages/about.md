@@ -8,7 +8,7 @@ seo: About page for Mat B, owner of Weak Notes at thechels.uk
 
 ![banner photo of Mat running in London](/images/gh-header-image-cropped.jpg)
 
-An experienced Engineering leader (ex-Blackfinch, ex-Seccl) with a passion for people development, building teams using agile methodologies, focusing on flow and delivery. A broad history of working with various programming languages. Has led multiple teams in fast-paced environments, implementing agile approaches and reducing cycle times significantly. Has a track record of increasing team morale and motivation, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, and personal development frameworks, as well as addressing technical debt.
+An experienced Engineering leader (ex-Blackfinch, ex-Seccl) with a passion for people development, building teams using agile methodologies, and focusing on flow and delivery. A broad history of working with various programming languages. Has led multiple teams in fast-paced environments, implementing agile approaches and reducing cycle times significantly. Has a track record of increasing team morale and motivation, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, personal development frameworks, and addressing technical debt.
 
 Regularly attends local meetups to extend knowledge and contribute to the development community, furthermore worked on various side projects, including creating and managing a football statistics website and a Security News feed. 
 
@@ -17,20 +17,20 @@ Holds a Business Information Systems (HND) and a Business Information Technology
 You can see my [curriculum vitae](/cv) and my [operating manual](/manual).
 
  I like making lists, so here are some...
-- I love listening to [podcasts](/podcasts) so please [help me find more](https://github.com/Mat-0/TheChels.uk/issues/new?assignees=Mat-0=podcast&template=podcast.md).
-- [football teams](/teams)
-- [apps](/apps)
-- [books](/books)
-- [sites](/sites)
-- [things I use](/gear).
+- [Podcasts](/podcasts). I love podcasts, so please [help me find more](https://github.com/Mat-0/TheChels.uk/issues/new?assignees=Mat-0=podcast&template=podcast.md).
+- [Football teams](/teams)
+- [Apps](/apps)
+- [Books](/books)
+- [Sites](/sites)
+- [Things I use](/gear).
 
 ### Active Projects
 
 - Having learned a little Python, I created a Twitter bot [tweeting breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news) and [associated low-fi Chelsea official news app](https://app.thechels.uk) because, for some reason, modern websites don't produce RSS feeds.
 - I have been compiling a repository of [engineering management](https://github.com/Mat-0/engineering-management) tools to help the day job and others in the role.
 - [Boinc - Contribute computing capacity](https://boinc.thechels.uk) is hosted for a friend.
-- [Cheltenham open data](https://cheltenham-open-data.github.io) is an GitHub organisation that uses open data sources relevant to my hometown. Projects include using and archiving official government statistics of Covid-19, Foodbank data, street crimes, fix-my-street and more.
-- [CLC Striders](http://clcstriders-runningclub.co.uk/) is my local running club's website - I rebuilt from the ground-up reducing the clubs costs by 66%. The site is built using Jekyll a static site generator built on Ruby, utilising GitHub Pages and Actions. Winning a club award in 2020.
+- [Cheltenham open data](https://cheltenham-open-data.github.io) is a GitHub organisation that uses open data sources relevant to my hometown. Projects include using and archiving official government statistics of Covid-19, Foodbank data, street crimes, fix-my-street and more.
+- [CLC Striders](http://clcstriders-runningclub.co.uk/) is my local running club's website - I rebuilt it from the ground up reducing the club's costs by 66%. The site is built using Jekyll a static site generator built on Ruby, utilising GitHub Pages and Actions. Won a club award in 2020.
 
 ### In The Press
 
