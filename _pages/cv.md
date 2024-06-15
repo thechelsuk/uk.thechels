@@ -36,13 +36,13 @@ Using Github Actions and GitHub Issues to create a Security News feed for the di
 
 #### Howden Insurance
 
-_Howden, formally A Plan, is one of the biggest insurance firms in the world, and the 5th largest employee-owned business in the UK.
+_Howden, formally A Plan, is one of the biggest insurance firms in the world, and the 5th largest employee-owned business in the UK._
 
 ##### HEAD OF WEB DEVELOPMENT (June 2024 - )
 
 #### Blackfinch Group
 
-_Blackfinch Group are investment specialists offering a range of products including tax efficient investments for individuals and businesses as well as offering investment in solar/wind energy and UK start-up companies
+_Blackfinch Group are investment specialists offering a range of products including tax efficient investments for individuals and businesses as well as offering investment in solar/wind energy and UK start-up companies._
 
 ##### HEAD OF ENGINEERING (July 2023 - May 2024)
 
