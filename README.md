@@ -1,9 +1,9 @@
 # Site
 
-A blog hosted on GitHub available at TheChels.uk. The site uses Jekyll, a static site generator, on Ruby. DNS and SSL by Cloudflare. It also uses GitHub actions, GitHub issues, and Python for extensive automation.
+A blog hosted on GitHub is available at TheChels.uk. The site uses Jekyll, a static site generator, on Ruby. DNS and SSL by Cloudflare. It also uses GitHub actions, GitHub issues, and Python for extensive automation.
 
-It is called "weak notes" as play on words of the popular "week notes" [blogging style](https://weeknot.es/) - 
-due to the likelihood I will be inconsistent and non-regular.
+It is called "weak notes" as a play on words of the popular "week notes" [blogging style](https://weeknot.es/) - 
+due to the likelihood, I will be inconsistent and non-regular.
 
 ## Badges
 
@@ -30,32 +30,22 @@ due to the likelihood I will be inconsistent and non-regular.
   [![Add Stock](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-stock.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-stock.yml) 
 </details>
 
-## Morning
-
-In order for the page to work you need to enter some secrets for the repository. There are also a bunch of config files (json) that need updating to suit your needs.
-
-1. An open weather API key - you can register for a free account on their website.
-2. Latitude and Longitude for the weather API.
-3. Update stocks.json with the ticker ids for the stocks you want prices for.
-4. Update comps.json with the list of competition slugs used by the BBC in order to get the relevant football fixtures 
-5. Update quotes.json with your favourite quotes.
-
 
 ## Configuration
-There are a number of optional settings for you to configure. Use the example `_config.yml` file in the repo and use the documentation below to configure your site:
+There are several optional settings for you to configure. Use the example `_config.yml` file in the repo and use the documentation below to configure your site:
 
 <details><summary><code>Config</code></summary>
   
   ### Using includes
-  There are 2 main includes: one for the header and one for the footer, largely to minimise repetititon.
+  There are 2 main includes: one for the header and one for the footer, largely to minimise repetition.
   
   ### Using layouts
   
-  Layouts exist on an almost one-to-one relationship with pages, handling any page specifics, `post.html` is the layout used for every blog post. There also default templates and an empty template used for `scss` and other special pages such as `humans.txt`
+  Layouts are almost one-to-one with pages, handling any page specifics. `post.html` is the layout used for every blog post. There are also default templates and an empty template used for `scss` and other special pages such as `humans.txt`
   
   ### Using Data
   
-  Many aspects of the site are powered by data files and these are updating via issues and GitHub Actions, including most of the content on the `Morning` page.
+  Data files power many aspects of the site and these are updated via issues and GitHub Actions.
   
   ### Site navigation
   
