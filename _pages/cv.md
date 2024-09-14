@@ -41,6 +41,12 @@ _Howden, formally A Plan, is one of the biggest insurance firms in the world, an
 
 ##### HEAD OF WEB DEVELOPMENT (June 2024 - )
 
+Leading the frontend development centre of excellence with a focus on UI/UX across all digital products.  
+  
+Overseeing improvements in ways of working and the adoption of TDD and social programming techniques and an increase in quality. Measuring DORA metrics and helping the team into good and elite categories.  Development incident management process.
+  
+Overseeing and coordinating a 4x increase in headcount in stream-aligned product teams
+
 #### Blackfinch Group
 
 _Blackfinch Group are investment specialists offering a range of products including tax-efficient investments for individuals and businesses as well as offering investment in solar/wind energy and UK start-up companies._
