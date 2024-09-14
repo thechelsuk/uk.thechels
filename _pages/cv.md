@@ -8,26 +8,27 @@ seo: CV of Mat-0
 
 ### Personal Profile
 
-Passionate and experienced Engineering leader seeking a hands-off people-focused leadership role in fast-paced agile environment. A leader and catalyst for change with a focus on agile methodologies. A 'driver' with a focus on task management and delivery through a holistic approach to people development.
+Passionate and experienced Engineering leader seeking a hands-off people-focused leadership role in a fast-paced agile environment. A leader and catalyst for change with a focus on agile methodologies. A 'driver' focusing on task management and delivery through a holistic approach to people development.
 
 Attends local meetups and "geek nights" to further extend knowledge and be a member of the development community.
 
 
 ### Core Skills
 
-- Methodologies - Shape-up, Scrum, Kanban, Waterfall, XP, TDD, Ensemble
-- Languages: C#, SQL, XML, PHP, HTML, CSS, JavaScript, Markdown, Ruby, Jekyll, Python, Sass, TypeScript, NodeJS
-- Testing: TDD, Nunit, Moq, Specflow/Cucumber, Selenium Web driver, pytest
+- Methodologies - Shape-up, Scrum, Kanban, Waterfall, XP, TDD, Ensemble, no estimates,
+- Languages: C#, SQL, XML, PHP, HTML, CSS, JavaScript, Markdown, Ruby, Jekyll, Python, Sass, TypeScript, NodeJS, Blazor
+- Testing: TDD, Nunit, Moq, Specflow/Cucumber, Selenium Web driver, pytest, Playwright
 - Source Control: TFS, Azure DevOps, Git, GitHub, subversion, CVS
 - Cloud: AWS, Azure
 - Database: MySQL, Oracle, SQL Server, MongoDB
 - Architecture: Micro-Services, Volatility, Domain Driven, Event Driven.
-- Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress, Mural, Confluence, Jira, Airtable, Code Climate, DataDog, working copy
+- Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress, Mural, Confluence, Jira, Airtable, Code Climate, DataDog, working copy, Azure DevOps, 
 - OS: Mac, iOS, iPadOS, Windows
+- Leadership: Performance management, Recruitment, Leadership, Coaching, Mentoring, Personal development, Career development, Agile adoption, Ways of working, Stakeholder management, Advocacy, Radical candour, Requirement gathering, Workshop facilitation, Process implementation.
 
 ### Side Projects
 
-Created, published, and managed a football statistics website (WordPress, PHP, MySQL) and Twitter account, overseeing organic growth to peak 175,000 followers and global reach. Latest personal project was to redesign of a running club website using Jekyll, a static site generator on Ruby hosted on GitHub pages.
+Created, published, and managed a football statistics website (WordPress, PHP, MySQL) and Twitter account, overseeing organic growth to peak 175,000 followers and global reach. Latest personal project was to redesign a running club website using Jekyll, a static site generator on Ruby hosted on GitHub pages.
 
 Using Github Actions and GitHub Issues to create a Security News feed for the discerning security professional or engineering leader.
 
@@ -42,11 +43,11 @@ _Howden, formally A Plan, is one of the biggest insurance firms in the world, an
 
 #### Blackfinch Group
 
-_Blackfinch Group are investment specialists offering a range of products including tax efficient investments for individuals and businesses as well as offering investment in solar/wind energy and UK start-up companies._
+_Blackfinch Group are investment specialists offering a range of products including tax-efficient investments for individuals and businesses as well as offering investment in solar/wind energy and UK start-up companies._
 
 ##### HEAD OF ENGINEERING (July 2023 - May 2024)
 
-Implemented an agile approach to software delivery across three teams building a sustainable pace for product delivery aligned to emerging business needs, set up various team ceremonies, one-to-ones, and. Used a data-led approach recording DORA metrics and through objective setting and coaching saw the average cycle time reduce from 51 days to 5 days. Implemented new ways of working such as refinement and building out acceptance criteria, and unit testing. 
+Implemented an agile approach to software delivery across three teams building a sustainable pace for product delivery aligned to emerging business needs, set up various team ceremonies, one-to-ones, and. Using a data-led approach recording DORA metrics and through objective setting and coaching saw the average cycle time reduce from 51 to 5 days. Implemented new working methods such as refinement, building out acceptance criteria, and unit testing. 
 
 Presented Engineering baseline and principles to the group. Increased morale, motivation, and a value-driven team-first approach to work - resulting in more pair programming and TDD adoption. Carried out quarterly and probationary reviews. Hired first QAs into the business. Introduced a progression framework for career development.
 
@@ -104,17 +105,17 @@ _co-led a team of 30 lead developers, developers and testers, expanding to 46 in
 
 ##### LEAD SOFTWARE DEVELOPER (October 2018 – October 2019)
 
-_Planning, designing and developing server and client applications. Having a key role in ensuring the best technologies and techniques are used in their development. Development of technical capability and involvement in performance assessment and development of junior colleagues. Working day-to- day within a scrum team._
+_Planning, designing and developing server and client applications. Having a key role in ensuring the best technologies and techniques are used in their development. Development of technical capability and involvement in performance assessment and development of junior colleagues. Working day-to-day within a scrum team._
 
 ###### Key responsibilities
 
 - Line management, pastoral care, objective setting and appraisals, resourcing
-- Development work within scrum team
-- Setting and delivering on quarterly objectives at group level in line with business's annual operating plan
+- Development work within a scrum team
+- Setting and delivering on quarterly objectives at the group level in line with the business's annual operating plan
 - Product owner for security business system
 - Strategic and high-level planning
 - Fostered good working relationships with government/statutory colleagues
-- Ensuring quality throughout software development lifecycle
+- Ensuring quality throughout the software development lifecycle
 
 ###### Key achievements and projects
 
@@ -122,7 +123,7 @@ _Planning, designing and developing server and client applications. Having a key
 - Update and implementation of skills framework
 - Oversaw release of business system move from MongoDB to SQL server and hosted in Azure
 - Supported direct reports through mental health and gender identity acceptance
-- Building and identification of technical debt register and encouraging team to tackle one item per sprint
+- Building and identifying technical debt register and encouraging the team to tackle one item per sprint
 - Knowledge sharing sessions and training to colleagues on Agile/Scrum, mental health and design patterns
 
 ##### SOFTWARE DEVELOPER (July 2015 - October 2018)
@@ -140,7 +141,7 @@ Development and maintenance of data collection system (c#, MVC, Oracle, azure bl
 - Led team on new delivery software used by all scrum teams / projects. Under build control and release. XML configuration. Software reads, creates, checks, uploads data in file/oracle to customers, running on a schedule.
 - Volunteered for special team to redesign unistats project - from legacy oracle SQL scripts to xml/c# project with unit tests
 - Selected for project team to oversee redesign of corporate website (outsourced). User workshops and requirements gathering. Subject matter expert.
-- Redesigned lookup service micro site
+- Redesigned lookup service microsite.
 
 ##### WEB DEVELOPER (May 2011 – July 2015)
 
@@ -148,15 +149,15 @@ Development and maintenance of data collection system (c#, MVC, Oracle, azure bl
 - Maintenance of main corporate website (PHP, MYSQL/ORACLE) with e-commerce
 - Managed 6 micro websites (WordPress/MYSQL)
 - Support Service desk and infrastructure team as needed
-- Worked on HEDIIP micro site (WordPress/MYSQL)
+- Worked on HEDIIP microsite (WordPress/MYSQL)
 - Created and redesigned main website migrating from Joomla 1.0 to 2.5
-- Created web based mobile application displaying provider data, also embedded on main website
+- Created web-based mobile application displaying provider data, also embedded on the main website
 
 ##### DATA ANALYST (March 2006 – May 2011)
 
 - Designed, created and specified documentation for a new data collection record
 - Generated PL/SQL script to automate manual checking
-- Generated, maintained and published data for high profile performance indicators
+- Generated, maintained and published data for high-profile performance indicators
 - Trained new members of staff, including new line manager
 
 ### Education Summary
@@ -165,7 +166,7 @@ Development and maintenance of data collection system (c#, MVC, Oracle, azure bl
 
 - Business Information Systems & Business Information Technology (Computing) HND, HNC - 2001-2005
 
-_Database management systems, systems analysis and design, computer management, software constructs and tools, data analysis and database design, multimedia and internet development, information analysis, quality management principles, communication technology._
+_Database management systems, systems analysis and design, computer management, software constructs and tools, data analysis and database design, multimedia and internet development, information analysis, quality management principles, and communication technology._
 
 #### North Leamington School & Binswood 6th Form
 
