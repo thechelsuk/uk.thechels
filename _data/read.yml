@@ -3740,6 +3740,27 @@
       thumbnail: "https://books.google.com/books/content?id=005vswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Culture_Is_Everything.html?hl=&id=005vswEACAAJ"
+  - isbn: "9781835465912"
+    dateFinished: "2024-09-01"
+    title: "Web Development with Blazor - Third Edition"
+    authors:
+      - "Jimmy Engström"
+    publishedDate: "2024-04-29"
+    description: "Dive into web development with Blazor in this essential guide to creating and deploying production-ready Blazor apps, updated to bring you up to speed with the new features and enhancements introduced in .NET 8."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1835465919"
+      - type: "ISBN_13"
+        identifier: "9781835465912"
+    pageCount: 0
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=Rs-w0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=Rs-w0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Web_Development_with_Blazor_Third_Editio.html?hl=&id=Rs-w0AEACAAJ"
   - isbn: "9780349443256"
     dateFinished: "2024-09-14"
     title: "COMPLETELY DIFFERENT GAME"
