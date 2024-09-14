@@ -3718,6 +3718,27 @@
       thumbnail: "https://books.google.com/books/content?id=ueOSzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Quit.html?hl=&id=ueOSzwEACAAJ"
+  - isbn: "9781783351985"
+    dateFinished: "2024-08-24"
+    title: "Dishonesty Is the Second-Best Policy"
+    authors:
+      - "David Mitchell"
+    publishedDate: "2020-09"
+    description: "David Mitchell's 2014 bestseller Thinking About It Only Makes It Worse must really have made people think - because everything's got worse. We've gone from UKIP surge to Brexit shambles, from horsemeat in lasagne to Donald Trump in the White House, from Woolworths going under to all the other shops going under. It's probably socially irresponsible even to try to cheer up. But if you're determined to give it a go, you might enjoy this eclectic collection (or eclection) of David Mitchell's attempts to make light of all that darkness. Scampi, politics, the Olympics, terrorism, exercise, rude street names, inheritance tax, salad cream, proportional representation and farts are all touched upon by Mitchell's unremitting laser of chit-chat, as he negotiates a path between the commercialisation of Christmas and the true spirit of Halloween. Read this book and slightly change your life!"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1783351985"
+      - type: "ISBN_13"
+        identifier: "9781783351985"
+    pageCount: 272
+    printType: "BOOK"
+    categories:
+      - "Civilization"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=EApKygEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=EApKygEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Dishonesty_Is_the_Second_Best_Policy.html?hl=&id=EApKygEACAAJ"
   - isbn: "9781599326634"
     dateFinished: "2024-08-25"
     notes: "book read"
