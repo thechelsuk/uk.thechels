@@ -3696,6 +3696,28 @@
       thumbnail: "https://books.google.com/books/content?id=rsB8zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Four_Thousand_Weeks.html?hl=&id=rsB8zgEACAAJ"
+  - isbn: "9781529146165"
+    dateFinished: "2024-08-01"
+    notes: "audiobook"
+    title: "Quit"
+    authors:
+      - "Annie Duke"
+    publishedDate: "2023-09-21"
+    description: "'Brilliant and entertaining' Daniel Kahneman | 'Quit what you are doing right now and read this' Richard Thaler | 'Engrossing, important, and grounded in science' Katy Milkman What if the secret to success is not just hard work, but knowing when to change track? In this game-changing guide, decision-making expert Annie Duke shows why quitting what holds you back is essential for success. Drawing on new research and fascinating examples, this book offers practical strategies and explains- Why it's so hard to walk away How to identify when it's best to persevere or pivot How quitting on time often feels like quitting too early Packed with insights from athletes, start-up founders and entertainers, Quit breaks down the mental model that keeps us from walking away and provides a toolkit for quitting anything - a career, a marriage, an investment - at the perfect time."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "152914616X"
+      - type: "ISBN_13"
+        identifier: "9781529146165"
+    pageCount: 0
+    printType: "BOOK"
+    categories:
+      - "Self-Help"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=ueOSzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=ueOSzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Quit.html?hl=&id=ueOSzwEACAAJ"
   - isbn: "9781599326634"
     dateFinished: "2024-08-25"
     notes: "book read"
