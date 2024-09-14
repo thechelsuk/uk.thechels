@@ -28,9 +28,11 @@ Attends local meetups and "geek nights" to further extend knowledge and be a mem
 
 ### Side Projects
 
-Created, published, and managed a football statistics website (WordPress, PHP, MySQL) and Twitter account, overseeing organic growth to peak 175,000 followers and global reach. Latest personal project was to redesign a running club website using Jekyll, a static site generator on Ruby hosted on GitHub pages.
+- Created, published, and managed a football statistics website (WordPress, PHP, MySQL) and associated Twitter account, overseeing organic growth to peak 180,000 followers and global reach and featured in high-profile football publications.
 
-Using Github Actions and GitHub Issues to create a Security News feed for the discerning security professional or engineering leader.
+- Rebuilt a running club website using Jekyll, a static site generator using Ruby hosted on GitHub pages reducing operating costs by over 75% per year.
+
+- Using Github Actions and GitHub Issues to create a Security News feed for the discerning security professional or engineering leader.
 
 
 ### Employment History
@@ -93,11 +95,11 @@ _co-led a team of 30 lead developers, developers and testers, expanding to 46 in
 
 - Line management, pastoral care, objective setting and appraisals, resourcing and recruitment
 - Member of information security and data protection management group
-- Member of Portfolio and Performance Board
+- Member of the Portfolio and Performance Board
 - Strategy, planning, resourcing and organisation
 - Technical oversight and decision making
 - Close collaboration for architects, product owners, directors, and CEO on project direction
-- Working with third party partner organisations and key stakeholders during requirements, planning, and funding phases.
+- Working with third-party partner organisations and key stakeholders during requirements, planning, and funding phases.
 
 ###### Key achievements and projects
 
@@ -111,60 +113,12 @@ _co-led a team of 30 lead developers, developers and testers, expanding to 46 in
 
 ##### LEAD SOFTWARE DEVELOPER (October 2018 – October 2019)
 
-_Planning, designing and developing server and client applications. Having a key role in ensuring the best technologies and techniques are used in their development. Development of technical capability and involvement in performance assessment and development of junior colleagues. Working day-to-day within a scrum team._
-
-###### Key responsibilities
-
-- Line management, pastoral care, objective setting and appraisals, resourcing
-- Development work within a scrum team
-- Setting and delivering on quarterly objectives at the group level in line with the business's annual operating plan
-- Product owner for security business system
-- Strategic and high-level planning
-- Fostered good working relationships with government/statutory colleagues
-- Ensuring quality throughout the software development lifecycle
-
-###### Key achievements and projects
-
-- Setting up regular video training lunch sessions
-- Update and implementation of skills framework
-- Oversaw release of business system move from MongoDB to SQL server and hosted in Azure
-- Supported direct reports through mental health and gender identity acceptance
-- Building and identifying technical debt register and encouraging the team to tackle one item per sprint
-- Knowledge sharing sessions and training to colleagues on Agile/Scrum, mental health and design patterns
-
 ##### SOFTWARE DEVELOPER (July 2015 - October 2018)
-
-Development and maintenance of data collection system (c#, MVC, Oracle, azure blob storage) - identify, design, estimate, prioritise and deliver work items in Azure DevOps
-
-###### Key responsibilities
-
-- Development and maintenance of data collection system (c#, MVC, Oracle, azure blob storage)
-- Identify, design, estimate, prioritise and deliver work items in Azure DevOps
-- Acting scrum master for the team
-
-###### Key achievements and projects
-
-- Led team on new delivery software used by all scrum teams / projects. Under build control and release. XML configuration. Software reads, creates, checks, uploads data in file/oracle to customers, running on a schedule.
-- Volunteered for special team to redesign unistats project - from legacy oracle SQL scripts to xml/c# project with unit tests
-- Selected for project team to oversee redesign of corporate website (outsourced). User workshops and requirements gathering. Subject matter expert.
-- Redesigned lookup service microsite.
 
 ##### WEB DEVELOPER (May 2011 – July 2015)
 
-- Design, maintenance and support for all internal applications (web-based issue tracking, asset tracking, contacts database)
-- Maintenance of main corporate website (PHP, MYSQL/ORACLE) with e-commerce
-- Managed 6 micro websites (WordPress/MYSQL)
-- Support Service desk and infrastructure team as needed
-- Worked on HEDIIP microsite (WordPress/MYSQL)
-- Created and redesigned main website migrating from Joomla 1.0 to 2.5
-- Created web-based mobile application displaying provider data, also embedded on the main website
-
 ##### DATA ANALYST (March 2006 – May 2011)
 
-- Designed, created and specified documentation for a new data collection record
-- Generated PL/SQL script to automate manual checking
-- Generated, maintained and published data for high-profile performance indicators
-- Trained new members of staff, including new line manager
 
 ### Education Summary
 
