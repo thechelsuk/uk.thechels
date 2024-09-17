@@ -13,6 +13,6 @@ title: Team Spoons
 > Spoon theory has become a shorthand for chronically ill people to explain how they're feeling and coping day-to-day. And for me, it's become a simple way to share with the able-bodied people in my life what I have the capacity for.
 
 
-Considering how this might apply to me, after two years of undiagnosed fatigue. but also how it might apply in an agile team setup workinh against an unsustainable pace.
+Considering how this might apply to me, after two years of undiagnosed fatigue, but also how it might apply in an agile team setup working against an unsustainable pace.
 
  
