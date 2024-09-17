@@ -3696,3 +3696,107 @@
       thumbnail: "https://books.google.com/books/content?id=rsB8zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Four_Thousand_Weeks.html?hl=&id=rsB8zgEACAAJ"
+  - isbn: "9781529146165"
+    dateFinished: "2024-08-01"
+    notes: "audiobook"
+    title: "Quit"
+    authors:
+      - "Annie Duke"
+    publishedDate: "2023-09-21"
+    description: "'Brilliant and entertaining' Daniel Kahneman | 'Quit what you are doing right now and read this' Richard Thaler | 'Engrossing, important, and grounded in science' Katy Milkman What if the secret to success is not just hard work, but knowing when to change track? In this game-changing guide, decision-making expert Annie Duke shows why quitting what holds you back is essential for success. Drawing on new research and fascinating examples, this book offers practical strategies and explains- Why it's so hard to walk away How to identify when it's best to persevere or pivot How quitting on time often feels like quitting too early Packed with insights from athletes, start-up founders and entertainers, Quit breaks down the mental model that keeps us from walking away and provides a toolkit for quitting anything - a career, a marriage, an investment - at the perfect time."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "152914616X"
+      - type: "ISBN_13"
+        identifier: "9781529146165"
+    pageCount: 0
+    printType: "BOOK"
+    categories:
+      - "Self-Help"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=ueOSzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=ueOSzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Quit.html?hl=&id=ueOSzwEACAAJ"
+  - isbn: "9781783351985"
+    dateFinished: "2024-08-24"
+    title: "Dishonesty Is the Second-Best Policy"
+    authors:
+      - "David Mitchell"
+    publishedDate: "2020-09"
+    description: "David Mitchell's 2014 bestseller Thinking About It Only Makes It Worse must really have made people think - because everything's got worse. We've gone from UKIP surge to Brexit shambles, from horsemeat in lasagne to Donald Trump in the White House, from Woolworths going under to all the other shops going under. It's probably socially irresponsible even to try to cheer up. But if you're determined to give it a go, you might enjoy this eclectic collection (or eclection) of David Mitchell's attempts to make light of all that darkness. Scampi, politics, the Olympics, terrorism, exercise, rude street names, inheritance tax, salad cream, proportional representation and farts are all touched upon by Mitchell's unremitting laser of chit-chat, as he negotiates a path between the commercialisation of Christmas and the true spirit of Halloween. Read this book and slightly change your life!"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1783351985"
+      - type: "ISBN_13"
+        identifier: "9781783351985"
+    pageCount: 272
+    printType: "BOOK"
+    categories:
+      - "Civilization"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=EApKygEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=EApKygEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Dishonesty_Is_the_Second_Best_Policy.html?hl=&id=EApKygEACAAJ"
+  - isbn: "9781599326634"
+    dateFinished: "2024-08-25"
+    notes: "book read"
+    title: "Culture Is Everything"
+    authors:
+      - "Tristan White"
+    publishedDate: "2017-05"
+    description: "How One Company Is Redefining The Meaning Of Going To Work Tristan White's story started like many others. He had a dream to work in a job that inspired him. He didn't find that job, so he created it. In 2004, The Physio Co (TPC) was born with one team member: Tristan White. In the thirteen years since, TPC has become a remarkable healthcare success story based upon fast growth and a thriving, systemized company culture. Tristan's obsession with creating an inspiring place to work for himself and others has resulted in more than a decade of learning, testing and refining. If you've ever wondered how to build and sustain a thriving company culture, the Culture Is Everything system developed by Tristan White and The Physio Co team is your answer. The Physio Co story and Culture Is Everything system explained in this book will give you the confidence and knowledge to create a strong culture in your very own business or team."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1599326639"
+      - type: "ISBN_13"
+        identifier: "9781599326634"
+    pageCount: 150
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=005vswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=005vswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Culture_Is_Everything.html?hl=&id=005vswEACAAJ"
+  - isbn: "9781835465912"
+    dateFinished: "2024-09-01"
+    title: "Web Development with Blazor - Third Edition"
+    authors:
+      - "Jimmy Engström"
+    publishedDate: "2024-04-29"
+    description: "Dive into web development with Blazor in this essential guide to creating and deploying production-ready Blazor apps, updated to bring you up to speed with the new features and enhancements introduced in .NET 8."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1835465919"
+      - type: "ISBN_13"
+        identifier: "9781835465912"
+    pageCount: 0
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=Rs-w0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=Rs-w0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Web_Development_with_Blazor_Third_Editio.html?hl=&id=Rs-w0AEACAAJ"
+  - isbn: "9780349443256"
+    dateFinished: "2024-09-14"
+    title: "COMPLETELY DIFFERENT GAME"
+    authors:
+      - "EMMA CAROL. HAYES"
+    publishedDate: "2024"
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0349443254"
+      - type: "ISBN_13"
+        identifier: "9780349443256"
+    pageCount: 0
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=tU6Z0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=tU6Z0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/COMPLETELY_DIFFERENT_GAME.html?hl=&id=tU6Z0AEACAAJ"
