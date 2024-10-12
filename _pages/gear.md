@@ -43,7 +43,6 @@ I use the Kindle Paperwhite Signature Edition as my device of choice for reading
 
 The app NetNewsWire is my RSS reader of choice and will look to subscribe to websites and blogs and tend to avoid hitting websites directly due largely to cookie policies, adverts, and shitty design.
 
-
 ## Apps
  
 - Castro (Podcasts)
