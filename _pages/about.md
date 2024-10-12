@@ -8,20 +8,18 @@ seo: About page for Mat B, owner of Weak Notes at thechels.uk
 
 ![banner photo of Mat running in London](/images/gh-header-image-cropped.jpg)
 
-An experienced Engineering leader (ex-Blackfinch, ex-Seccl) with a passion for people development, building teams using agile methodologies, and focusing on flow and delivery. A broad history of working with various programming languages. Has led multiple teams in fast-paced environments, implementing agile approaches and reducing cycle times significantly. Has a track record of increasing team morale and motivation, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, personal development frameworks, and addressing technical debt.
+An experienced Engineering leader with a passion for people development, building teams using agile methodologies, and focusing on flow and delivery. A broad history of working with various programming languages. Has led multiple teams in fast-paced environments, implementing agile approaches and reducing cycle times significantly. Has a track record of increasing team morale and motivation, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, personal development frameworks, and addressing technical debt.
 
 Regularly attends local meetups to extend knowledge and contribute to the development community, furthermore worked on various side projects, including creating and managing a football statistics website and a Security News feed. 
 
-Holds a Business Information Systems (HND) and a Business Information Technology in Computing (HNC) from Solent University.
+Holds an HND in Business Information Systems and an HNC in Business Information Technology in Computing from Solent University.
 
 You can see my [curriculum vitae](/cv) and my [operating manual](/manual).
 
  I like making lists, so here are some...
 - [Podcasts](/podcasts). I love podcasts, so please [help me find more](https://github.com/Mat-0/TheChels.uk/issues/new?assignees=Mat-0=podcast&template=podcast.md).
 - [Football teams](/teams)
-- [Apps](/apps)
 - [Books](/books)
-- [Sites](/sites)
 - [Things I use](/gear).
 
 ### Active Projects
