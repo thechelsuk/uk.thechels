@@ -12,18 +12,17 @@ My phone of choice is the iPhone 15 Pro. I've been an iPhone user since the 4th 
 
 ## Computing
 
-The iPad Pro 11 inch - 4th generation is my daily computer of choice having upgraded from a rather old yet capable MacBook Air from 2012.
-
-I also own a MacBook Pro from 2017 that is my desk machine but will likely be replaced by an M series Mac Mini if Apple releases an Apple TV-sized machine.
-
-Almost everything I need to do can be done in the browser or via dedicated apps.
+iPad Pro 11 inch - 4th generation.
 
 - Apple Pencil
 - Magic Keyboard
+
+M4 Mac Mini.
+
 - Logitech MX Master 3 Wireless Mouse
 - RK ROYAL KLUDGE NK80 Wireless Mechanical Keyboard
 
-I also have a Raspberry Pi 400 running Homebridge and Pi-hole
+I also have a Raspberry Pi 400 running Homebridge.
 
 ## Watch
 
