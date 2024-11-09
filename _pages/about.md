@@ -8,6 +8,8 @@ seo: About page for Mat B, owner of Weak Notes at thechels.uk
 
 ![banner photo of Mat running in London](/images/gh-header-image-cropped.jpg)
 
+Weak Notes is a play on words on the weeknotes style government posts created by Juksie et al, but posts here are less frequent.
+
 An experienced Engineering leader with a passion for people development, building teams using agile methodologies, and focusing on flow and delivery. A broad history of working with various programming languages. Has led multiple teams in fast-paced environments, implementing agile approaches and reducing cycle times significantly. Has a track record of increasing team morale and motivation, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, personal development frameworks, and addressing technical debt.
 
 Regularly attends local meetups to extend knowledge and contribute to the development community, furthermore worked on various side projects, including creating and managing a football statistics website and a Security News feed. 
