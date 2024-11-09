@@ -327,6 +327,7 @@ post-num-words {
 .footer {
   line-height: 40px;
   font-size: .8em;
+  padding-bottom: 8px;
 
   .wrapper {
     width: 860px;
@@ -340,7 +341,7 @@ post-num-words {
   font-variant: small-caps;
   color: $font-darkest;
   margin-left: 2px;
-  margin-bottom: 6px;
+  margin-bottom: 0px;
   }
 
 }
@@ -376,17 +377,12 @@ post-num-words {
 
   .footer {
     line-height: 30px;
-    padding-top: 10px;
+    padding-top: 0 10px;
   }
 
   .footer .wrapper {
     margin: 0 20px;
     width: auto;
-  }
-
-  .footer .donations {
-    display: block;
-    float: none;
   }
 
   .num-words {

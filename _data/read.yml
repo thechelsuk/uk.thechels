@@ -3468,6 +3468,25 @@
       thumbnail: "https://books.google.com/books/content?id=Q46IEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/How_to_Work_with_Almost_Anyone.html?hl=&id=Q46IEAAAQBAJ"
+  - isbn: "9780008520908"
+    dateFinished: "2024-01-01"
+    title: "Why Money Matters"
+    authors:
+      - "Deborah Meaden"
+    publishedDate: "2023-07-06"
+    description: "Mystified by money? Discover how it shapes the world we live in with Dragon's Den investor and entrepreneur DEBORAH MEADEN."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0008520909"
+      - type: "ISBN_13"
+        identifier: "9780008520908"
+    pageCount: 0
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=8_WqzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=8_WqzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Why_Money_Matters.html?hl=&id=8_WqzwEACAAJ"
   - isbn: "9783982112602"
     dateFinished: "2024-03-29"
     title: "Remote Mob Programming"
@@ -3800,3 +3819,24 @@
       thumbnail: "https://books.google.com/books/content?id=tU6Z0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/COMPLETELY_DIFFERENT_GAME.html?hl=&id=tU6Z0AEACAAJ"
+  - isbn: "9780143127741"
+    dateFinished: "2024-10-01"
+    title: "The Body Keeps the Score"
+    authors:
+      - "Bessel A. Van der Kolk"
+    publishedDate: "2015-09-08"
+    description: "Originally published by Viking Penguin, 2014."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780143127741"
+      - type: "ISBN_10"
+        identifier: "0143127748"
+    pageCount: 466
+    printType: "BOOK"
+    categories:
+      - "Medical"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=vHnZCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=vHnZCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Body_Keeps_the_Score.html?hl=&id=vHnZCwAAQBAJ"
