@@ -45,8 +45,16 @@ navigation_header:
   title: "Offers"  
 -
   link: "https://shop.the-ensemblist.uk"
-  title: "Shop"  
+  title: "Shop"
 ## Footer
+navigation_social:
+-
+  link: "https://www.linkedin.com/in/mat-benfield/"
+  title: "LinkedIn"
+-
+  link: "https://github.com/Mat-0/"
+  title: "GitHub"  
+## Footer links
 navigation_footer:
 -
   link: "https://thechels.uk/feed.json"
@@ -58,14 +66,11 @@ navigation_footer:
   link: "https://thechels.uk/robots.txt"
   title: "Robots"
 -
+  link: "https://thechels.uk/.well-known/privacy.txt"
+  title: "Privacy"  
+-
   link: "https://thechels.uk/sitemap.xml"
   title: "Sitemap"
 -
   link: "https://thechels.uk/.well-known/security.txt"
   title: "Security"
--
-  link: "https://www.linkedin.com/in/mat-benfield/"
-  title: "LinkedIn"
--
-  link: "https://github.com/Mat-0/"
-  title: "GitHub"
