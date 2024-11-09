@@ -8,10 +8,15 @@
                {{ site.copyright }}
              {% else %}
              {% endif %}
-             {% for item in site.navigation_footer %}
+             {% for item in site.navigation_socials %}
              <a href="{{item.link}}">{{item.title}}</a>
              {% endfor %}
              | {% github_edit_link "Edit" %}
+        </p>
+        <p>
+             {% for item in site.navigation_footer %}
+             <a href="{{item.link}}">{{item.title}}</a>
+             {% endfor %}           
         </p>
       </div>
   </div>
