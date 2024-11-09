@@ -1,7 +1,7 @@
 highlighter:    rouge
 permalink:      ./:title
 title:           "Weak Notes"
-description:    "useful things"
+description:    "A public second brain"
 author:         "Mat"
 url:            https://thechels.uk
 copyright:      "Mat B"
@@ -52,6 +52,9 @@ navigation_footer:
   link: "https://thechels.uk/feed.json"
   title: "Feed"
 -
+  link: "https://thechels.uk/sitemap.xml"
+  title: "Sitemap"
+-
   link: "https://thechels.uk/humans.txt"
   title: "Humans"
 -
@@ -60,9 +63,6 @@ navigation_footer:
 -
   link: "https://thechels.uk/.well-known/privacy.txt"
   title: "Privacy"
--
-  link: "https://thechels.uk/sitemap.xml"
-  title: "Sitemap"
 -
   link: "https://thechels.uk/.well-known/security.txt"
   title: "Security"
