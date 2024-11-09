@@ -8,16 +8,12 @@
                {{ site.copyright }}
              {% else %}
              {% endif %}
-             {% for item in site.navigation_social %}
-             <a href="{{item.link}}">{{item.title}}</a>
-             {% endfor %}
-             | {% github_edit_link "Edit" %}
-        </p>
-        <p>
              {% for item in site.navigation_footer %}
              <a href="{{item.link}}">{{item.title}}</a>
-             {% endfor %}           
+             {% endfor %} 
+             | {% github_edit_link "Edit" %}
         </p>
+        <p></p>
       </div>
   </div>
      <script src="app.js"></script>
