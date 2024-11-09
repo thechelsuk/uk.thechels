@@ -22,14 +22,6 @@ You can see my [curriculum vitae](/cv) and my [operating manual](/manual).
 - [Books](/books)
 - [Things I use](/gear).
 
-### Active Projects
-
-- Having learned a little Python, I created a Twitter bot [tweeting breaking news](https://github.com/TheChelsOrg/bot_tocfcws_news) and [associated low-fi Chelsea official news app](https://app.thechels.uk) because, for some reason, modern websites don't produce RSS feeds.
-- I have been compiling a repository of [engineering management](https://github.com/Mat-0/engineering-management) tools to help the day job and others in the role.
-- [Boinc - Contribute computing capacity](https://boinc.thechels.uk) is hosted for a friend.
-- [Cheltenham open data](https://cheltenham-open-data.github.io) is a GitHub organisation that uses open data sources relevant to my hometown. Projects include using and archiving official government statistics of Covid-19, Foodbank data, street crimes, fix-my-street and more.
-- [CLC Striders](http://clcstriders-runningclub.co.uk/) is my local running club's website - I rebuilt it from the ground up reducing the club's costs by 66%. The site is built using Jekyll a static site generator built on Ruby, utilising GitHub Pages and Actions. Won a club award in 2020.
-
 ### In The Press
 
 During an era of running a successful football analytics website I had work published on the Chelsea FC website, [FourFourTwo](https://thechels.uk/fourfourtwo-cult-heroes) [magazine](https://thechels.uk/fourfourtwo-chelsea-vs-swansea), [Man City's match day programme](https://thechels.uk/man-city-programme), the [Daily Mail](https://www.dailymail.co.uk/sport/football/article-2282976/Frank-Lampard-scores-200th-Chelsea-goal.html), the [Independent](https://www.independent.co.uk/sport/football/european/valencia-penalty-gary-neville-chelsea-under19s-uefa-youth-league-a6892926.html) and various club fan sites.
