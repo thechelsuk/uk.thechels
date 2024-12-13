@@ -22,6 +22,12 @@ You can see my [curriculum vitae](/cv) and my [operating manual](/manual).
 - [Books](/books)
 - [Things I use](/gear).
 
+### Colophon
+
+Hosted on [GitHub Pages](https://pages.github.com), the site uses [Jekyll](https://jekyllrb.com), a static site generator, on [Ruby](https://www.ruby-lang.org/en/). DNS and SSL by [Cloudflare](https://www.cloudflare.com). It also uses GitHub actions, GitHub issues, and some [Python](https://www.python.org) for automation. Content is written in GitHub flavoured [Markdown](https://daringfireball.net/projects/markdown/). Data is stored in [Yaml](https://yaml.org) files.
+
+It is called "weak notes" as a play on words of the popular Government "[week](https://promo.cymru/resource/weeknotes/) [notes](https://weeknot.es)" blogging style - due to the likelihood, I will be inconsistent and non-regular and having worked adjacent to Government for 16 years.
+
 ### In The Press
 
 During an era of running a successful football analytics website I had work published on the Chelsea FC website, [FourFourTwo](https://thechels.uk/fourfourtwo-cult-heroes) [magazine](https://thechels.uk/fourfourtwo-chelsea-vs-swansea), [Man City's match day programme](https://thechels.uk/man-city-programme), the [Daily Mail](https://www.dailymail.co.uk/sport/football/article-2282976/Frank-Lampard-scores-200th-Chelsea-goal.html), the [Independent](https://www.independent.co.uk/sport/football/european/valencia-penalty-gary-neville-chelsea-under19s-uefa-youth-league-a6892926.html) and various club fan sites.
