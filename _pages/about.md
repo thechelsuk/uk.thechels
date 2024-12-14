@@ -6,7 +6,7 @@ seo: About page for Mat B, owner of Weak Notes at thechels.uk
 
 ---
 
-[Colophon](#Colophon) / [In The Press](#In-The-Press) / [Now & Next](/now) / [CV](/cv) / [Manual](/manual)
+[Colophon](#colophon) / [In The Press](#in-the-press) / [Now & Next](/now) / [CV](/cv) / [Manual](/manual)
 
 ![banner photo of Mat running in London](/images/gh-header-image-cropped.jpg)
 
