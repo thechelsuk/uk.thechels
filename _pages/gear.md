@@ -34,7 +34,7 @@ Apple TVs in the usual rooms in the house, including the office.
 
 ## Listening
 
-Two pairs of the second generation Airpod Pro (USB-C model), on almost constant rotation.
+Two pairs of the second generation AirPod Pro (USB-C model), on almost constant rotation.
 
 ## Reading
 
@@ -43,11 +43,11 @@ I use the Kindle Paperwhite Signature Edition as my device of choice for reading
 The app NetNewsWire is my RSS reader of choice and will look to subscribe to websites and blogs and tend to avoid hitting websites directly due largely to cookie policies, adverts, and shitty design.
 
 ## Apps
- 
+
 - Castro (Podcasts)
 - Working Copy (Git Client)
 - NetNewsWire (News/RSS)
-- Play, x.app (Video Management and Play)
+- Play, x.app (Video Management and Playback)
 - Drafts (Notes)
 - 1Password (Password Manager)
 - GoodLinks (Bookmarks)
@@ -56,5 +56,6 @@ The app NetNewsWire is my RSS reader of choice and will look to subscribe to web
 - Scriptable (Coding)
 - Pythonista (Coding)
 - Kindle (Reading)
+- WhatsApp (Social/Messaging)
 
 As well as the usual banking, utility, and home apps for the services I use, plus, of course, the default Apple apps.
