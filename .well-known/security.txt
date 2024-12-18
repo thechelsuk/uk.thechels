@@ -2,7 +2,7 @@
 layout: empty
 ---
 
-## Security
+# Security
 
 Contact: security@thechels.uk
 Preferred-Languages: en

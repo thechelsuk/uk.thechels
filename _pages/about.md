@@ -17,6 +17,7 @@ An experienced Engineering leader with a passion for people development, buildin
 Holds an HND in Business Information Systems and an HNC in Business Information Technology in Computing from Solent University. Was one of two people in his year to study French and Spanish at GCSE.
 
  I like making lists, so here are some...
+
 - [Podcasts](/podcasts)
 - [Football teams](/teams)
 - [Books](/books)

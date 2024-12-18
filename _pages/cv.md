@@ -15,13 +15,13 @@ Attends local meetups to further extend knowledge and be a member of the develop
 ### Core Skills
 
 - Methodologies - Shape-up, Scrum, Kanban, Waterfall, XP, TDD, Ensemble, no estimates,
-- Languages: C#, SQL, XML, PHP, HTML, CSS, JavaScript, Markdown, Ruby, Jekyll, Python, Sass, TypeScript, NodeJS, Blazor
+- Languages: C#, SQL, XML, PHP, HTML, CSS, JavaScript, Markdown, Ruby, Jekyll, Python, Sass, TypeScript, NodeJS, Blazor,
 - Testing: TDD, Nunit, Moq, Specflow/Cucumber, Selenium Web driver, pytest, Playwright
 - Source Control: TFS, Azure DevOps, Git, GitHub, subversion, CVS
 - Cloud: AWS, Azure
 - Database: MySQL, Oracle, SQL Server, MongoDB
 - Architecture: Micro-Services, Volatility, Domain Driven, Event Driven.
-- Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress, Mural, Confluence, Jira, Airtable, Code Climate, DataDog, working copy, Azure DevOps, 
+- Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress, Mural, Confluence, Jira, Airtable, Code Climate, DataDog, working copy, Azure DevOps,
 - OS: Mac, iOS, iPadOS, Windows
 - Leadership: Performance management, Recruitment, Leadership, Coaching, Mentoring, Personal development, Career development, Agile adoption, Ways of working, Stakeholder management, Advocacy, Radical candour, Requirement gathering, Workshop facilitation, Process implementation.
 
@@ -43,9 +43,9 @@ _Howden, formally A Plan, is one of the biggest insurance firms in the world, an
 ##### HEAD OF WEB DEVELOPMENT.
 
 Leading the frontend development centre of excellence with a focus on UI/UX across all digital products.  
-  
+
 Overseeing improvements in ways of working and the adoption of TDD and social programming techniques and an increase in quality. Measuring DORA metrics and helping the team into good and elite categories.  Development incident management process.
-  
+
 Overseeing and coordinating a 4x increase in headcount in stream-aligned product teams.
 
 #### Blackfinch Group (July 2023 - May 2024).

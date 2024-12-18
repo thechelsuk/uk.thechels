@@ -1,4 +1,8 @@
-Privacy Policy
+---
+layout: empty
+---
+
+# Privacy Policy
 
 Effective Date: 2023-10-01
 1. Introduction
