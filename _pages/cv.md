@@ -8,9 +8,11 @@ seo: CV of Mat-0
 
 ### Personal Profile
 
-Passionate and experienced Engineering leader seeking a hands-off people-focused leadership role in a fast-paced agile environment. A leader and catalyst for change with a focus on agile methodologies. A 'driver' focusing on task management and delivery through a holistic approach to people development.
+An experienced Engineering leader with a passion for people development, building teams using agile methodologies, and focusing on flow and delivery. A broad history of working with various programming languages. Has led multiple teams in fast-paced environments, implementing agile approaches and reducing cycle times significantly. 
 
-Attends local meetups to further extend knowledge and be a member of the development community, Consumes an unhealthy amount of podcasts.
+Has a track record of increasing team morale and motivation through a holistic people development style, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, personal development frameworks, and addressing technical debt.
+
+Holds an HND in Business Information Systems and an HNC in Business Information Technology in Computing from Solent University. Was one of two people in his year to study French and Spanish at GCSE. Consumes an unhealthy amount of football and podcasts.
 
 ### Core Skills
 
