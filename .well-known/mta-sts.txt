@@ -1,3 +1,7 @@
+---
+layout: empty
+---
+
 version: STSv1
 mode: enforce
 mx: mx01.mail.icloud.com.
