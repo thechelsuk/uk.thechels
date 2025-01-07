@@ -55,7 +55,6 @@ The app NetNewsWire is my RSS reader of choice and will look to subscribe to web
 - 1.1.1.1 VPN (VPN)
 - Scriptable (Coding)
 - Pythonista (Coding)
-- Kindle (Reading)
-- WhatsApp (Social/Messaging)
+- iMessage/WhatsApp (Social/Messaging)
 
 As well as the usual banking, utility, and home apps for the services I use, plus, of course, the default Apple apps.

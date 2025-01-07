@@ -4,9 +4,15 @@ title: My Operating Manual
 permalink: /manual
 seo: Operating Manual of Mat-0
 
---- 
+---
 
-___underlying principle: Hands-off as much as possible and hands-on as much as necessary.___
+## General Principles
+
+- Teams > Individuals; Group work.
+- One > Many; Throughput.
+- Humans > Machines; People First.
+- Learning > Blame; Culture.
+- Delivery > Debate; Bias towards action.
 
 ### My Leadership Philosophy
 
@@ -18,7 +24,7 @@ I crave being surrounded by people who smarter than me, it is how I learn and it
 
 I value open, authentic relationships. I promise to be honest and empathetic with others.
 
-I can often be seen as short or to-the-point but I'm a big softie at heart and always care more about people than I do about deadlines. 
+I can often be seen as short or to-the-point but I'm a big softie at heart and always care more about people than I do about deadlines.
 
 ### My expectations of colleagues who report to me
 

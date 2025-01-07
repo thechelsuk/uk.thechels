@@ -4,12 +4,12 @@
     <title>{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}</title>
     <meta name="title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}" />
     {% if page.id %}
-    
+
       <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.title }} {{ site.description }}" />
     {% else %}
       <meta name="description" content="{% if page.seo %} {{ page.seo }}{% else %} {{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}" />
     {% endif %}
-     
+
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}">
@@ -20,14 +20,14 @@
     <meta property="article:publisher" content="{{ site.url }}" />
     <meta property="article:author" content="{{ site.author }} at {{site.url }}" />
     <meta property="article:published_time" content="{{ page.date }}" />
-    
-    
+
+
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.title }} {{ site.description }}{% endif %}">
     <meta name="twitter:site" content="{{ site.url }}" />
     <meta name="twitter:creator" content="{{ site.twitter }}">
-  
+
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta name="format-detection" content="telephone=no"/>
