@@ -14,9 +14,9 @@ An experienced Engineering leader with a passion for people development, buildin
 
 Has a track record of increasing team morale and motivation through a holistic people development style, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, personal development frameworks, and addressing technical debt.
 
-Holds an HND in Business Information Systems and an HNC in Business Information Technology in Computing from Solent University. Was one of two people in his year to study French and Spanish at GCSE. Consumes an unhealthy amount of football and podcasts.
+Holds an HND in Business Information Systems and an HNC in Business Information Technology in Computing from Solent University. Was one of two people in his year to study French and Spanish at GCSE. 
 
-_[Please recommend a podcast](https://github.com/Mat-0/TheChels.uk/issues/new?assignees=Mat-0=podcast&template=podcast.md)_.
+Consumes an unhealthy amount of football and podcasts [Please recommend one](https://github.com/Mat-0/TheChels.uk/issues/new?assignees=Mat-0=podcast&template=podcast.md).
 
 ### Colophon
 
