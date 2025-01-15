@@ -1,3 +1,7 @@
+---
+# render
+---
+
 'use strict';
 
 const CACHE_VERSION = {{ site.github.build_revision }};
