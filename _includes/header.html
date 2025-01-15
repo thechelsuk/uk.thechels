@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <META HTTP-EQUIV='Content-Security-Policy'   CONTENT="default-src 'self' https://thechels.uk/, https://static.cloudflareinsights.com/; script-src 'self' https://thechels.uk/, https://static.cloudflareinsights.com/; style-src 'self'; upgrade-insecure-requests; block-all-mixed-content; base-uri 'self'">
-    <META HTTP-EQUIV='X-Content-Security-Policy' CONTENT="default-src 'self' https://thechels.uk/, https://static.cloudflareinsights.com/; script-src 'self' https://thechels.uk/, https://static.cloudflareinsights.com/; style-src 'self'; upgrade-insecure-requests; block-all-mixed-content; base-uri 'self'">
+    <META HTTP-EQUIV='Content-Security-Policy'   CONTENT="default-src 'self' thechels.uk, static.cloudflareinsights.com; script-src 'self' thechels.uk, static.cloudflareinsights.com; script-src-elem 'self' thechels.uk, static.cloudflareinsights.com; script-src-attr 'self' thechels.uk, static.cloudflareinsights.com; style-src 'self'; style-src-elem 'self'; style-src-attr 'self'; img-src 'self'; font-src 'none'; upgrade-insecure-requests; block-all-mixed-content; base-uri 'self'; manifest-src 'self'">
+    <META HTTP-EQUIV='X-Content-Security-Policy' CONTENT="default-src 'self' thechels.uk, static.cloudflareinsights.com; script-src 'self' thechels.uk, static.cloudflareinsights.com; script-src-elem 'self' thechels.uk, static.cloudflareinsights.com; script-src-attr 'self' thechels.uk, static.cloudflareinsights.com; style-src 'self'; style-src-elem 'self'; style-src-attr 'self'; img-src 'self'; font-src 'none'; upgrade-insecure-requests; block-all-mixed-content; base-uri 'self'; manifest-src 'self'">
 
     <title>{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}</title>
     <meta name="title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}" />
