@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <META HTTP-EQUIV='Content-Security-Policy'   CONTENT="default-src 'self';">
-    <META HTTP-EQUIV='X-Content-Security-Policy' CONTENT="default-src 'self';">
+    <meta http-equiv='Content-Security-Policy'   content="default-src *; script-src *; style-src *; upgrade-insecure-requests; block-all-mixed-content">
+    <meta http-equiv='X-Content-Security-Policy' content="default-src *; script-src *; style-src *; upgrade-insecure-requests; block-all-mixed-content">
+    <meta http-equiv="Referrer-Policy: origin-when-cross-origin">
 
     <title>{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}</title>
     <meta name="title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}" />
