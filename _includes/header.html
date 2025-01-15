@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <META HTTP-EQUIV='Content-Security-Policy'   CONTENT="default-src 'self'; script-src 'self'; style-src 'self'; upgrade-insecure-requests; block-all-mixed-content; base-uri 'self'">
-    <META HTTP-EQUIV='X-Content-Security-Policy' CONTENT="default-src 'self'; script-src 'self'; style-src 'self'; upgrade-insecure-requests; block-all-mixed-content; base-uri 'self'">
+    <META HTTP-EQUIV='Content-Security-Policy'   CONTENT="default-src 'self' https://thechels.uk/, https://static.cloudflareinsights.com/; script-src 'self' https://thechels.uk/, https://static.cloudflareinsights.com/; style-src 'self'; upgrade-insecure-requests; block-all-mixed-content; base-uri 'self'">
+    <META HTTP-EQUIV='X-Content-Security-Policy' CONTENT="default-src 'self' https://thechels.uk/, https://static.cloudflareinsights.com/; script-src 'self' https://thechels.uk/, https://static.cloudflareinsights.com/; style-src 'self'; upgrade-insecure-requests; block-all-mixed-content; base-uri 'self'">
 
     <title>{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}</title>
     <meta name="title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}" />
