@@ -4,7 +4,7 @@
 
 'use strict';
 
-const CACHE_VERSION = {{ site.github.build_revision }};
+const CACHE_VERSION = "{{ site.github.build_revision }}";
 let CURRENT_CACHES = {
   offline: 'offline-v' + CACHE_VERSION
 };
