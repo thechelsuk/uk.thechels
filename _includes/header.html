@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <META HTTP-EQUIV='Content-Security-Policy'   CONTENT="script-src 'self' default-src https:;">
+    <META HTTP-EQUIV='X-Content-Security-Policy' CONTENT="script-src 'self' default-src https:;">
+
     <title>{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}</title>
     <meta name="title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}" />
     {% if page.id %}
