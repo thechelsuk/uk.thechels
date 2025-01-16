@@ -8,10 +8,10 @@
 $background: #FFFFFF;
 $font-darkest: #04100D;
 $font-dark: #00233D;
-$border-light: #ACD7EC;
+$border-light: #505a5f;
 $border-dark: #005CA3;
-$links: #295147;
-$links-active: #376C5F;
+$links: #003078;
+$links-active: #1d70b8;
 $quotebar: #cccccc;
 
 html,
@@ -22,7 +22,7 @@ body {
 body {
   border-top: 12px solid $border-dark;
   margin: 0;
-  font-family: 'San Francisco','Gill Sans',sans-serif;
+  font-family: 'San Francisco', 'Gill Sans', Arial, Helvetica, sans-serif;
   color: $font-darkest;
   font-size: 1em;
   background: $background;
