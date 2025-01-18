@@ -22,14 +22,13 @@ if __name__ == "__main__":
         d = date.today()
         output_date = d.strftime("%A, %d %B %Y")
 
-        avg_temp = str(response_dict["main"]["temp"])
+        day_temp = str(response_dict["main"]["temp"])
         feels_like = str(response_dict["main"]["feels_like"])
-        today_desc = str(response_dict["weather"][0]["description"])
+        day_desc = str(response_dict["weather"][0]["description"])
 
         string_today = f"### on {output_date}\n\n"
-        string_today += f"- The average temperature today is {avg_temp}˚C,\n"
-        string_today += f" but will feel like {feels_like}C\n"
-        string_today += f"- You can expect {today_desc}.\n"
+        string_today += f"- The average temperature today is {day_temp}˚C,\n"
+        string_today += f" but will feel like {feels_like}C with {day_desc}\n"
 
         f = root / "_pages/morning.md"
         m = f.open().read()
