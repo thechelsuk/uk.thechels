@@ -6,6 +6,9 @@ seo: About page for Mat B, owner of Weak Notes at thechels.uk
 
 ---
 
+[Colophon](#colophon) / [In The Press](#in-the-press) / [Now & Next](#now) / [Manual](/manual) / [Podcasts](/podcasts) / [Football teams](/teams) / [Books](/books) / [Use](/gear).
+
+![banner photo of Mat running in London](/images/gh-header-image-cropped.jpg)
 
 An experienced Engineering leader with a passion for people development, building teams using agile methodologies, and focusing on flow and delivery. A broad history of working with various programming languages. Has led multiple teams in fast-paced environments, implementing agile approaches and reducing cycle times significantly. 
 
@@ -26,3 +29,17 @@ It is called "weak notes" as a play on words of the popular Government "[week](h
 During an era of running a successful football analytics website I had work published on the Chelsea FC website, [FourFourTwo](https://thechels.uk/fourfourtwo-cult-heroes) [magazine](https://thechels.uk/fourfourtwo-chelsea-vs-swansea), [Man City's match day programme](https://thechels.uk/man-city-programme), the [Daily Mail](https://www.dailymail.co.uk/sport/football/article-2282976/Frank-Lampard-scores-200th-Chelsea-goal.html), the [Independent](https://www.independent.co.uk/sport/football/european/valencia-penalty-gary-neville-chelsea-under19s-uefa-youth-league-a6892926.html) and various club fan sites.
 
 The Twitter account, active from 2010 to 2018, peaked at 185,000 followers with a monthly reach of 8 million users worldwide all through organic growth.
+
+### Now
+
+_based on the "now" page idea from Derek Sivers._ 
+
+* Surviving. I continue to fight with an undiagnosed fatigue that's been ongoing since October 2022
+* Reading kindle books - I have a huge backlog to get through
+* Digital decluttering - sorting through files and photos and downsizing.
+
+### Next
+
+* Household improvements - solar panels, cladding, heat pump, kitchen are all on the cards for 2025.
+* Gardening - tending to the veggie patch and planters.
+  
