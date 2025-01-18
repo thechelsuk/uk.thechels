@@ -30,16 +30,12 @@ During an era of running a successful football analytics website I had work publ
 
 The Twitter account, active from 2010 to 2018, peaked at 185,000 followers with a monthly reach of 8 million users worldwide all through organic growth.
 
-### Now
+### Now & Next
 
 _based on the "now" page idea from Derek Sivers._ 
 
 * Surviving. I continue to fight with an undiagnosed fatigue that's been ongoing since October 2022
 * Reading kindle books - I have a huge backlog to get through
-* Digital decluttering - sorting through files and photos and downsizing.
-
-### Next
-
-* Household improvements - solar panels, cladding, heat pump, kitchen are all on the cards for 2025.
+* Household improvements - solar panels, cladding, heat pump, new kitchen are all on the cards for 2025.
 * Gardening - tending to the veggie patch and planters.
   
