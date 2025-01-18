@@ -27,9 +27,9 @@ if __name__ == "__main__":
         today_desc = str(response_dict["weather"][0]["description"])
 
         string_today = f"### Daily Rundown on {output_date}\n\n"
-        string_today += f"- The average temperature today is {avg_temp}˚C"
+        string_today += f"- The average temperature today is {avg_temp}˚C,\n"
         string_today += f" but will feel like {feels_like}C\n"
-        string_today += f"- You can expect a {today_desc} outlook for the day.\n"
+        string_today += f"- You can expect {today_desc}.\n"
 
         f = root / "_pages/morning.md"
         m = f.open().read()
