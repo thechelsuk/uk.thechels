@@ -7,11 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### Daily Rundown on Saturday, 12 August 2023
+### Daily Rundown on Saturday, 18 January 2025
 
-- The average temperature today is 19.75˚C;
-- With highs of 20.62˚C and lows of 13.2˚C.
-- You can expect light rain for the day.
+- The average temperature today is 6.09˚C;
+- but will feel like 2.49˚C- You can expect clear sky outlook for the day.
 
 <!-- weather_marker ends -->
 
@@ -24,26 +23,22 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
+- VWRL.L : 114.73
+
 <!-- stocks_marker ends -->
-
-### Fixtures
-
-<!-- sports_marker starts -->
-
-<!-- sports_marker ends -->
-
-### CFC news
-
-<!-- cfc_marker starts -->
-
-<!-- cfc_marker ends -->
 
 ### Word of the day
 <!-- word_marker starts -->
+
+ > wonky - adjective: 1. Unreliable; unsteady; not working properly. 2. Concerned with minute details in a field; nerdy.
 
 <!-- word_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
+
+- Target: 979, using [5, 6, 8, 10, 25, 50]
+- Solution: ( 50 + 25 ) x ( 8 + 5 ) + 10 - 6
+- Total: 1 solutions.
 
 <!-- game_marker ends -->

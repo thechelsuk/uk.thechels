@@ -15,7 +15,7 @@ if __name__ == "__main__":
         LON = os.getenv("lon")
         APIKEY = os.getenv("open_weather_key")
         url = (
-            "https://api.openweathermap.org/data/2.5/onecall?lat=%s&lon=%"
+            "https://api.openweathermap.org/data/2.5/weather?lat=%s&lon=%"
             "s&appid=%s&exclude=current,minutely,hourly,alerts&units=metric" %
             (LAT, LON, APIKEY))
 
@@ -24,17 +24,18 @@ if __name__ == "__main__":
         d = date.today()
         output_date = d.strftime("%A, %d %B %Y")
 
-        avg_temp = str(response_dict["daily"][0]["temp"]["day"])
-        high_temp = str(response_dict["daily"][0]["temp"]["max"])
-        low_temp = str(response_dict["daily"][0]["temp"]["min"])
+        avg_temp = str(response_dict["main"]["temp"])
+        feels_like = str(response_dict["main"]["feels_like"])
         today_desc = str(
-            response_dict["daily"][0]["weather"][0]["description"])
+            response_dict["weather"][0]["description"])
 
         string_today = f"### Daily Rundown on {output_date}\n\n"
         string_today += f"- The average temperature today is {avg_temp}˚C;\n"
-        string_today += f"- With highs of {high_temp}˚C"
-        string_today += f" and lows of {low_temp}˚C.\n"
-        string_today += f"- You can expect {today_desc} for the day.\n"
+        string_today += f"- but will feel like {feels_like}˚C"
+        string_today += f"- You can expect a {today_desc} outlook for the day.\n"
+
+        print(string_today)
+
         f = root / "_pages/morning.md"
         m = f.open().read()
         c = helper.replace_chunk(m, "weather_marker", string_today)
