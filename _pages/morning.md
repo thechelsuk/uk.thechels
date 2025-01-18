@@ -7,10 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### on Saturday, 18 January 2025
+### Daily Rundown on Saturday, 18 January 2025
 
-- The average temperature today is 6.09˚C but will feel like 2.49˚C
-- You can expect a clear sky outlook for the day.
+- The average temperature today is 4.72˚C,
+ but will feel like 0.8C
+- You can expect few clouds.
 
 <!-- weather_marker ends -->
 
