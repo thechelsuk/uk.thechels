@@ -7,7 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-Weather data not available
+### on Saturday, 18 January 2025
+
+- The average temperature today is 0.96˚C,
+ but will feel like -0.4C with few clouds
+
 <!-- weather_marker ends -->
 
 ### Today's tasks
