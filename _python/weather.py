@@ -13,7 +13,8 @@ if __name__ == "__main__":
         root = pathlib.Path(__file__).parent.parent.resolve()
         LAT = os.getenv("lat") or '51.8994'
         LON = os.getenv("lon") or '2.0783'
-        APIKEY = os.getenv("open_weather_key") or 'a56c667ab0029d2b8956e8cd665f8007'
+        APIKEY = os.getenv(
+            "open_weather_key") or 'a56c667ab0029d2b8956e8cd665f8007'
         url = ("https://api.openweathermap.org/data/2.5/weather?lat=%s&lon=%"
                "s&appid=%s&units=metric" % (LAT, LON, APIKEY))
 
