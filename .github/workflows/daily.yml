@@ -1,5 +1,5 @@
 ---
-name: Morning Run
+name: Daily
 on:
   workflow_dispatch:
   schedule:
