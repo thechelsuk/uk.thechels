@@ -3,38 +3,38 @@ name: Python Format
 on:
   pull_request:
     paths:
-      - '_python/*'
+      - "_python/*"
   push:
     paths:
-      - '_python/*'
+      - "_python/*"
   workflow_dispatch:
 jobs:
-  Format_and_testing:    
-      name: Run formatting
-      runs-on: ubuntu-latest
-      steps:
+  Format_and_testing:
+    name: Run formatting
+    runs-on: ubuntu-latest
+    steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: 3.8
-          
+          python-version: 3.13.1
+
       - name: Install Python Dependencies
         run: python -m pip install -r requirements.txt
-        working-directory: ./_python        
-      
+        working-directory: ./_python
+
       - name: Format with yapf (pep8) and commit back
         run: |
-              python -m yapf --style pep8 --recursive -i .
-              git diff
-              git config user.name "GitHub Action"
-              git config user.email "action@github.com"
-              git diff --quiet || (git add -A && git commit -m "Python format")
-              git push
+          python -m yapf --style pep8 --recursive -i .
+          git diff
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git diff --quiet || (git add -A && git commit -m "Python format")
+          git push
         working-directory: ./_python
-        
+
       - name: Run Unit Tests
         run: pytest --cov=.  --cov-report term-missing | tee $GITHUB_STEP_SUMMARY
         working-directory: ./_python

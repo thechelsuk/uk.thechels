@@ -3,7 +3,7 @@ name: "Runner"
 
 on:
   workflow_call:
-     inputs:
+    inputs:
       content:
         required: true
         type: string
@@ -12,7 +12,7 @@ on:
         type: string
 
 jobs:
- Build:
+  Build:
     runs-on: ubuntu-latest
     name: Processing
     steps:
@@ -21,7 +21,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: 3.8
+          python-version: 3.13.1
       - uses: actions/cache@v4
         name: Configure pip caching
         with:

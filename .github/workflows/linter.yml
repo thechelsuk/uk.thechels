@@ -1,5 +1,5 @@
 name: Linter
-on: 
+on:
   pull_request:
   workflow_dispatch:
 jobs:
