@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gear
+title: Gear - What I use
 permalink: /gear
 seo: A list of my favourite gear and EDC
 
