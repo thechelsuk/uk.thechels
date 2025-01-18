@@ -16,7 +16,7 @@ if __name__ == "__main__":
         APIKEY = os.getenv("open_weather_key")
         url = (
             "https://api.openweathermap.org/data/2.5/weather?lat=%s&lon=%"
-            "s&appid=%s&exclude=current,minutely,hourly,alerts&units=metric" %
+            "s&appid=%s&units=metric" %
             (LAT, LON, APIKEY))
 
         response = requests.get(url)
@@ -32,8 +32,6 @@ if __name__ == "__main__":
         string_today += f"- The average temperature today is {avg_temp}˚C"
         string_today += f" but will feel like {feels_like}C\n"
         string_today += f"- You can expect a {today_desc} outlook for the day.\n"
-
-        print(string_today)
 
         f = root / "_pages/morning.md"
         m = f.open().read()
