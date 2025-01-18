@@ -40,9 +40,9 @@ navigation_header:
   - link: "https://thechels.uk/offers"
     title: "Offers"
   - link: "https://decodingyourmanager.substack.com/"
-    title: "SubStack ↗"
+    title: "SubStack &rarr;"
   - link: "https://shop.the-ensemblist.uk"
-    title: "Shop ↗"
+    title: "Shop &rarr;"
 ## Footer links
 navigation_footer:
   - link: "https://thechels.uk/feed.json"
