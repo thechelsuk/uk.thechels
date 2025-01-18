@@ -305,8 +305,9 @@ def compare_operations_less_than(op1, op2):
     if op1.reciprocal != op2.reciprocal:
         return op1.reciprocal
     # multiplication or division > addition or subtraction
-    if (op1.operator == 'x' or op1.operator == '/') != (op2.operator == 'x' or
-                                                        op2.operator == '/'):
+    if (op1.operator == 'x'
+            or op1.operator == '/') != (op2.operator == 'x'
+                                        or op2.operator == '/'):
         return not (op1.operator == 'x' or op1.operator == '/')
     # expression > number
     if (op1.operator is None) != (op2.operator is None):

@@ -26,8 +26,7 @@ if __name__ == "__main__":
 
         avg_temp = str(response_dict["main"]["temp"])
         feels_like = str(response_dict["main"]["feels_like"])
-        today_desc = str(
-            response_dict["weather"][0]["description"])
+        today_desc = str(response_dict["weather"][0]["description"])
 
         string_today = f"### Daily Rundown on {output_date}\n\n"
         string_today += f"- The average temperature today is {avg_temp}˚C;\n"
