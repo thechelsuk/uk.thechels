@@ -37,12 +37,12 @@ navigation_header:
     title: "About"
   - link: "https://thechels.uk/cv"
     title: "CV"
-  - link: "https://decodingyourmanager.substack.com/"
-    title: "SubStack"
   - link: "https://thechels.uk/offers"
     title: "Offers"
+  - link: "https://decodingyourmanager.substack.com/"
+    title: "SubStack ↗"
   - link: "https://shop.the-ensemblist.uk"
-    title: "Shop"
+    title: "Shop ↗"
 ## Footer links
 navigation_footer:
   - link: "https://thechels.uk/feed.json"
