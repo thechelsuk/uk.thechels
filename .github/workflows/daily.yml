@@ -26,9 +26,7 @@ jobs:
                   python -m pip install -r requirements.txt
             - name: Processing Python Scripts
               env:
-                  open_weather_key: ${{ secrets.OPEN_WEATHER_KEY }}
-                  lat: ${{ secrets.LAT_COORDS }}
-                  lon: ${{ secrets.LON_COORDS }}
+                  OPEN_WEATHER_KEY: ${{ secrets.OPEN_WEATHER_KEY }}
               run: |-
                   python '_python/stocks.py'
                   python '_python/word.py'
