@@ -1,5 +1,5 @@
 ---
-layout: morning
+layout: about
 title: Good Morning
 permalink: /daily
 seo: Good Morning Mat, Here is your daily briefing
