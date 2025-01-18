@@ -1,7 +1,7 @@
 ---
 layout: morning
 title: Good Morning
-permalink: /morning
+permalink: /daily
 seo: Good Morning Mat, Here is your daily briefing
 
 ---
