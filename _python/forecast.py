@@ -14,8 +14,7 @@ if __name__ == "__main__":
 
         APIKEY = os.getenv("OPEN_WEATHER_KEY") or ''
 
-        url = ("https://api.openweathermap.org/data/2.5/weather?q=Cheltenham&"
-               "s&appid=%s&units=metric" % (APIKEY))
+        url = ("https://api.openweathermap.org/data/2.5/weather?q=Cheltenham&appid=%s&units=metric" % (APIKEY))
 
         response = requests.get(url)
         response_dict = json.loads(response.text)
