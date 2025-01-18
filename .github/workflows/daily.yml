@@ -1,43 +1,43 @@
 ---
 name: Daily
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 6 * * *"
+    workflow_dispatch:
+    schedule:
+        - cron: "0 6 * * *"
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out Repo
-        uses: actions/checkout@v3
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.13.1
-      - uses: actions/cache@v3
-        name: Configure pip Caching
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
-      - name: Install Python Dependencies
-        run: |
-          python -m pip install -r requirements.txt
-      - name: Processing Python Scripts
-        env:
-          open_weather_key: ${{ secrets.OPEN_WEATHER_KEY }}
-          lat: ${{ secrets.LAT_COORDS }}
-          lon: ${{ secrets.LON_COORDS }}
-        run: |-
-          python '_python/stocks.py'
-          python '_python/weather.py'
-          python '_python/word.py'
-          python '_python/task.py'
-      - name: Commit and push
-        run: |-
-          git diff
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
-          git diff --quiet || (git add -A && git commit -m "new Morning Run")
-          git push
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out Repo
+              uses: actions/checkout@v3
+            - name: Set up Python
+              uses: actions/setup-python@v4
+              with:
+                  python-version: 3.13.1
+            - uses: actions/cache@v3
+              name: Configure pip Caching
+              with:
+                  path: ~/.cache/pip
+                  key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+                  restore-keys: |
+                      ${{ runner.os }}-pip-
+            - name: Install Python Dependencies
+              run: |
+                  python -m pip install -r requirements.txt
+            - name: Processing Python Scripts
+              env:
+                  open_weather_key: ${{ secrets.OPEN_WEATHER_KEY }}
+                  lat: ${{ secrets.LAT_COORDS }}
+                  lon: ${{ secrets.LON_COORDS }}
+              run: |-
+                  python '_python/stocks.py'
+                  python '_python/word.py'
+                  python '_python/task.py'
+                  python '_python/weather.py'
+            - name: Commit and push
+              run: |-
+                  git diff
+                  git config user.name "GitHub Action"
+                  git config user.email "action@github.com"
+                  git diff --quiet || (git add -A && git commit -m "new Morning Run")
+                  git push
