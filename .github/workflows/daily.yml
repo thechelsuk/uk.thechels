@@ -31,13 +31,11 @@ jobs:
           lon: ${{ secrets.LON_COORDS }}
         run: |-
           python '_python/stocks.py'
-          python '_python/sports.py'
+          # python '_python/sports.py'
           python '_python/weather.py'
           python '_python/cfc.py'
           python '_python/word.py'
           python '_python/task.py'
-          python '_python/corona.py'
-          python '_python/workout.py'
       - name: Commit and push
         run: |-
           git diff
