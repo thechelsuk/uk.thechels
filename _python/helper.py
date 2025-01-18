@@ -156,20 +156,6 @@ def create_date(input: str) -> datetime:
     return datetime.strptime(input, "%Y-%m-%d")
 
 
-def get_corona(records: int) -> str:
-    """Returns a string of corona records from hardcoded url"""
-    url = ("https://raw.githubusercontent.com/"
-           "Cheltenham-Open-Data/covid/main/corona.json")
-    response = requests.get(url).json()
-    data = response["body"]
-    string_builder = f"##### Latest {records} day Local Corona Data\n\n"
-    for i in range(0, records):
-        string_builder += (f"- {data[i]['newCasesByPublishDate']} new cases & "
-                           f"{data[i]['newDeaths28DaysByPublishDate']}"
-                           f" deaths on {data[i]['date']}\n")
-    return string_builder
-
-
 def get_random_items_from_a_list(out: str, items: list, count: int) -> str:
     """Returns a string of random items from a list"""
     for item in random.sample(items, count):
