@@ -4,7 +4,7 @@ title: "Weak Notes"
 description: "A public second brain"
 author: "Mat"
 url: https://thechels.uk
-copyright: "Mat B"
+copyright: "MB"
 encoding: UTF-8
 future: false
 repository: Mat-0/TheChels.uk
@@ -48,7 +48,7 @@ navigation_header:
 ## Footer links
 navigation_footer:
   - link: "https://thechels.uk/feed.json"
-    title: "Feed"
+    title: "RSS"
   - link: "https://thechels.uk/sitemap.xml"
     title: "Sitemap"
   - link: "https://thechels.uk/humans.txt"
