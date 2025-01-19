@@ -27,18 +27,15 @@ No tasks today
 
 <!-- stocks_marker ends -->
 
-### Word of the day
-<!-- word_marker starts -->
-
- > wonky - adjective: 1. Unreliable; unsteady; not working properly. 2. Concerned with minute details in a field; nerdy.
-
-<!-- word_marker ends -->
-
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 979, using [5, 6, 8, 10, 25, 50]
-- Solution: ( 50 + 25 ) x ( 8 + 5 ) + 10 - 6
-- Total: 1 solutions.
+- Target: 458, using [2, 2, 5, 10, 25, 75]
+<details><summary><code>Solution</code></summary>
+
+
+Solution: ( 75 + 25 + 2 - 10 ) x 5 - 2
+Total: 2 solutions.
+</details>
 
 <!-- game_marker ends -->

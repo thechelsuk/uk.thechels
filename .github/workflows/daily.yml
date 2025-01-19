@@ -29,7 +29,7 @@ jobs:
                   OPEN_WEATHER_KEY: ${{ secrets.OPEN_WEATHER_KEY }}
               run: |-
                   python '_python/stocks.py'
-                  python '_python/word.py'
+                  python '_python/countdown.py'
                   python '_python/task.py'
                   python '_python/forecast.py'
             - name: Commit and push
