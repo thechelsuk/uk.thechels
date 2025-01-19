@@ -1,0 +1,307 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+--- // 16px = 1em
+
+$background: #f5f4f4;
+$font-darkest: #04100D;
+$font-dark: #00233D;
+$border-light: #ACD7EC;
+$border-dark: #005CA3;
+$links: #295147;
+$links-active: #376C5F;
+$quotebar: #505a5f;
+$accent: #CEC452;
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    border-top: 16px solid $border-dark;
+    margin: 0;
+    font-family: 'Gill Sans', Arial, Helvetica, sans-serif;
+    color: $font-darkest;
+    font-size: 1em;
+    background: $background;
+    box-sizing: border-box;
+}
+
+#outer-wrapper {
+    border-top: 16px solid $border-light;
+    min-height: 80%;
+    margin-bottom: -40px;
+}
+
+#wrapper {
+    width: 860px;
+    margin: 1px auto;
+    padding: 0px;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+.blog-title {
+    display: none;
+}
+
+.blog-slogan {
+    display: none;
+}
+
+.blog-menu {
+    display: none;
+}
+
+.blog-image {
+    display: none;
+}
+
+.book-list .book {
+    display: flex;
+}
+
+.book-list {
+    display: grid;
+    grid-gap: 0;
+    grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
+    max-width: 860px;
+}
+
+.book-list .book-img {
+    flex-shrink: 0;
+    width: 90px;
+}
+
+.about-row {
+    display: flex;
+}
+
+.about-column {
+    flex: 50%;
+    padding: 5px;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 28px;
+    position: relative;
+
+    a {
+        color: $links;
+        text-decoration: none;
+    }
+
+    a:hover,
+    a:active {
+        text-decoration: none;
+    }
+}
+
+h3 {
+    font-size: 1.4em;
+    margin-top: 32px;
+    margin-left: -30px;
+    padding-left: 30px;
+    position: relative;
+}
+
+h4 {
+    font-size: 1.3em;
+    margin-left: -25px;
+    padding-left: 25px;
+    position: relative;
+}
+
+h5 {
+    font-size: 1.1em;
+    margin-left: 0px;
+    padding-left: 25px;
+    position: relative;
+}
+
+h6 {
+    font-size: 0.9em;
+    margin-left: -25px;
+    padding-left: 25px;
+    position: relative;
+}
+
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+    position: absolute;
+    left: -5px;
+    top: -10px;
+    text-decoration: none;
+    display: none;
+    padding: 10px;
+}
+
+h3:hover a,
+h4:hover a,
+h5:hover a,
+h3:focus a,
+h4:focus a,
+h5:focus a,
+h6:focus a {
+    display: block;
+}
+
+article,
+ol li,
+ul li {
+    margin-bottom: 7px;
+    line-height: 1.4;
+}
+
+article,
+ul ul,
+ol ol,
+ol ul,
+ul ol {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+p {
+    line-height: 1.4;
+}
+
+a {
+    color: $links;
+}
+
+a:hover,
+a:focus {
+    text-decoration: underline;
+}
+
+a:active {
+    color: $links-active;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+strong code {
+    background: $font-dark;
+}
+
+code {
+    font-family: Courier, monospace;
+    font-size: .9em;
+    background: #bbb;
+    padding: 1px 4px;
+}
+
+pre {
+    background: #bbb;
+    margin-left: -6px;
+    margin-top: 22px;
+    margin-bottom: 22px;
+    padding: 1px;
+    border-radius: 4px;
+
+    code {
+        font-size: .9em;
+        display: block;
+        overflow: auto;
+        background: #eee;
+        padding-left: 10px;
+        color: $font-dark;
+        border: 5px solid #eee;
+        border-radius: 5px;
+        padding-bottom: 5px;
+    }
+}
+
+blockquote,
+cite {
+    padding: 0 1em;
+    color: $font-dark;
+    border-left: 0.25em solid $quotebar;
+    width: 90%;
+    margin-left: 10px;
+}
+
+
+.footnote {
+    font-size: .75em;
+    color: $font-dark;
+
+    sup {
+        color: $font-darkest;
+        margin-right: 5px;
+    }
+}
+
+.post {
+    position: relative;
+
+    >h2 {
+        margin-top: 60px;
+        margin-right: 130px;
+    }
+}
+
+.meta {
+    color: $font-dark;
+    font-size: .75em;
+    position: absolute;
+    top: 18px;
+    right: 0;
+}
+
+.entry {
+    margin-bottom: 20px;
+}
+
+.posts .num-words,
+.post-num-words {
+    color: $font-dark;
+    font-size: 75%;
+    margin-left: 6px;
+}
+
+post-num-words {
+    transform: small-caps;
+}
+
+.posts {
+    margin-left: 0;
+    padding-left: 0;
+    margin-bottom: 12px;
+    transition: all .1s;
+}
+
+.poster {
+    width: 100px;
+    vertical-align: top;
+}
+
+.num-words {
+    float: right;
+    color: $font-dark;
+}
+
+.floated {
+    float: left;
+    vertical-align: top;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.content {
+    position: relative;
+}
+
+.footer {
+        display:none;
+ }
+
