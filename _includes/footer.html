@@ -10,9 +10,10 @@
              {% endif %}
              {% for item in site.navigation_footer %}
              <a href="{{item.link}}">{{item.title}}</a>
-             {% endfor %} 
+             {% endfor %}
         </p>
-        <p>| {% github_edit_link "Edit" %} - {{ site.github.build_revision }}</p>
+        <p>| {% github_edit_link "Edit &raquo;" %}</p>
+        <p style="font-variant-caps: all-petite-caps; color: lightslategray;">{{ site.github.build_revision }}</p>
       </div>
   </div>
      <script src="app.js"></script>
