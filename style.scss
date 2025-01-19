@@ -13,6 +13,7 @@ $border-dark: #005CA3;
 $links: #295147;
 $links-active: #376C5F;
 $quotebar: #505a5f;
+$accent: #Feea00;
 
 html,
 body {
@@ -27,6 +28,10 @@ body {
   font-size: 1em;
   background: $background;
   box-sizing: border-box;
+}
+
+sup:hover {
+  color: $accent;
 }
 
 #outer-wrapper {
@@ -149,7 +154,14 @@ h4 {
 }
 
 h5 {
-  font-size: 1.2em;
+  font-size: 1.1em;
+  margin-left: 0px;
+  padding-left: 25px;
+  position: relative;
+}
+
+h6 {
+  font-size: 0.9em;
   margin-left: -25px;
   padding-left: 25px;
   position: relative;
@@ -157,7 +169,8 @@ h5 {
 
 h3 a,
 h4 a,
-h5 a {
+h5 a,
+h6 a {
   position: absolute;
   left: -5px;
   top: -10px;
@@ -171,7 +184,8 @@ h4:hover a,
 h5:hover a,
 h3:focus a,
 h4:focus a,
-h5:focus a {
+h5:focus a,
+h6:focus a {
   display: block;
 }
 
