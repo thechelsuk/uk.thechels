@@ -7,10 +7,10 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### on Saturday, 18 January 2025
+### on Sunday, 19 January 2025
 
-- The average temperature today is 0.96˚C,
- but will feel like -0.4C with few clouds
+- The average temperature today is 0.85˚C,
+ but will feel like 0.85C with overcast clouds
 
 <!-- weather_marker ends -->
 
