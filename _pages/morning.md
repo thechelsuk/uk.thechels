@@ -7,17 +7,18 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### on Sunday, 19 January 2025
+### on Monday, 20 January 2025
 
-- The average temperature today is 2.4˚C,
-- With highs of 2.94 and lows of 2.05˚C,
-- It may feel like 0.27C with broken clouds
+- The average temperature today is 2.09˚C,
+- With highs of 3.49 and lows of 1.49˚C,
+- It may feel like 2.09C with overcast clouds
 
 <!-- weather_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Stocks
@@ -31,13 +32,13 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 481, using [2, 5, 7, 9, 9, 10]
+- Target: 884, using [2, 3, 3, 10, 25, 75]
 <details><summary><code>Solution</code></summary>
 
 
-Solution: ( 9 + 5 ) x 10 x 7 / 2 - 9
+Solution: ( ( 75 + 25 ) x 3 - 2 ) x 3 - 10
 
-Total: 10 solutions.
+Total: 2 solutions.
 
 </details>
 
