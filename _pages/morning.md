@@ -7,17 +7,18 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### on Monday, 20 January 2025
+### on Tuesday, 21 January 2025
 
-- The average temperature today is 2.09˚C,
-- With highs of 3.49 and lows of 1.49˚C,
-- It may feel like 2.09C with overcast clouds
+- The average temperature today is 3.5˚C,
+- With highs of 5.16 and lows of 2.6˚C,
+- It may feel like 3.5C with overcast clouds
 
 <!-- weather_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
@@ -25,20 +26,20 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 114.73
+- VWRL.L : 114.36
 
 <!-- stocks_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 884, using [2, 3, 3, 10, 25, 75]
+- Target: 553, using [1, 4, 6, 7, 9, 25]
 <details><summary><code>Solution</code></summary>
 
 
-Solution: ( ( 75 + 25 ) x 3 - 2 ) x 3 - 10
+Solution: ( 9 + 7 + 6 ) x 25 + 4 - 1
 
-Total: 2 solutions.
+Total: 10 solutions.
 
 </details>
 
