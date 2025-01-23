@@ -35,8 +35,8 @@ if __name__ == "__main__":
 
             string_today = f"### on {output_date}\n\n"
             string_today += f"- The average temperature today is {day_temp}˚C,\n"
-            string_today += f"- With highs of {high_temp} and lows of {low_temp}˚C,\n"
-            string_today += f"- It may feel like {feels_like}C with {day_desc}\n"
+            string_today += f"- With highs of {high_temp}˚C and lows of {low_temp}˚C,\n"
+            string_today += f"- It may feel like {feels_like}˚C with {day_desc}\n"
 
         f = root / "_pages/morning.md"
         m = f.open().read()
