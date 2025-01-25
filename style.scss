@@ -13,6 +13,7 @@ $primary: #04100D;
 $secondary: #005CA3;
 $links: #295147;
 $accent: #CEC452;
+$code: #fefefe;
 
 body {
   border-top: 16px solid $secondary;
@@ -222,12 +223,12 @@ img {
 code {
   font-family: Courier, monospace;
   font-size:.9em;
-  background: #bbb;
+  background: $code;
   padding: 1px 4px;
 }
 
 pre {
-  background: #bbb;
+  background: $code;
   margin-left: -6px;
   margin-top: 22px;
   margin-bottom: 22px;
@@ -238,9 +239,9 @@ pre {
     font-size: .9em;
     display: block;
     overflow: auto;
-    background: #eee;
+    background: $code;
     padding-left: 10px;
-    border: 5px solid #eee;
+    border: 5px solid $code;
     border-radius: 5px;
     padding-bottom: 5px;
   }
