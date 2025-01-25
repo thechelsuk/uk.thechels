@@ -204,7 +204,7 @@ pre {
         overflow: auto;
         background: $code;
         padding-left: 10px;
-        color: $code;
+        color: $primary;
         border: 5px solid $code;
         border-radius: 5px;
         padding-bottom: 5px;
@@ -214,7 +214,7 @@ pre {
 blockquote,
 cite {
     padding: 0 1em;
-    color: $code;
+    color: $primary;
     border-left: 0.25em solid $accent;
     width: 90%;
     margin-left: 10px;
@@ -223,7 +223,7 @@ cite {
 
 .footnote {
     font-size: .75em;
-    color: $code;
+    color: $primary;
 
     sup {
         color: $primary;
@@ -241,7 +241,7 @@ cite {
 }
 
 .meta {
-    color: $font-dark;
+    color: $secondary;
     font-size: .75em;
     position: absolute;
     top: 18px;
