@@ -24,7 +24,7 @@ Hosted on [GitHub Pages](https://pages.github.com), the site uses [Jekyll](https
 
 It is called "weak notes" as a play on words of the popular Government "[week](https://promo.cymru/resource/weeknotes/) [notes](https://weeknot.es)" blogging style - due to the likelihood, I will be inconsistent and non-regular and having worked adjacent to Government for 16 years.
 
-The primary colour scheme is White Smoke background, Night for text, Brunswick Green for links, Lapis Lazuli for some additional text and Citron for accents.
+The primary colour scheme is `White Smoke` as the background, `Night` for text, `Brunswick Green` for links, `Lapis Lazuli` for some additional text and `Citron` for accents.
 
 ![websites colour scheme](/images/colour-scheme.png)
 
