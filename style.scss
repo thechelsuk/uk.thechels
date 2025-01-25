@@ -24,10 +24,6 @@ body {
   box-sizing: border-box;
 }
 
-sup:hover {
-  color: $accent;
-}
-
 #outer-wrapper {
   border-top: 16px solid $accent;
   min-height: 80%;
@@ -57,6 +53,10 @@ sup:hover {
 
   a:active, a:hover {
      text-decoration: none;
+  }
+
+  sup {
+    color: $accent;
   }
 
 }
