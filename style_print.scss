@@ -3,26 +3,22 @@
 --- 
 
 // 16px = 1em
-$background: #f5f4f4;
-$font-darkest: #04100D;
-$font-dark: #00233D;
-$border-light: #ACD7EC;
-$border-dark: #005CA3;
-$links: #295147;
-$links-active: #376C5F;
-$quotebar: #505a5f;
-$accent: #CEC452;
-
 html,
 body {
     height: 100%;
 }
 
+$background: #f5f4f4;
+$primary: #04100D;
+$secondary: #005CA3;
+$links: #295147;
+$accent: #CEC452;
+
 body {
     border-top: 0;
     margin: 0;
     font-family: 'Gill Sans', Arial, Helvetica, sans-serif;
-    color: $font-darkest;
+    color: $primary;
     font-size: 1em;
     background: $background;
     box-sizing: border-box;
@@ -116,7 +112,7 @@ h4 {
 }
 
 h5 {
-    font-size: 1.1em;
+    font-size: 1em;
     margin-left: 0px;
     padding-left: 25px;
     position: relative;
@@ -176,12 +172,9 @@ a {
 }
 
 a:hover,
-a:focus {
-    text-decoration: underline;
-}
-
+a:focus,
 a:active {
-    color: $links-active;
+    text-decoration: underline;
 }
 
 img {
@@ -189,11 +182,6 @@ img {
     max-width: 100%;
     height: auto;
 }
-
-strong code {
-    background: $font-dark;
-}
-
 code {
     font-family: Courier, monospace;
     font-size: .9em;
@@ -226,7 +214,7 @@ blockquote,
 cite {
     padding: 0 1em;
     color: $font-dark;
-    border-left: 0.25em solid $quotebar;
+    border-left: 0.25em solid $accent;
     width: 90%;
     margin-left: 10px;
 }
@@ -237,7 +225,7 @@ cite {
     color: $font-dark;
 
     sup {
-        color: $font-darkest;
+        color: $primary;
         margin-right: 5px;
     }
 }

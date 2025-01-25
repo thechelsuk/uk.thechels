@@ -74,13 +74,13 @@ Currently leading the DevOps capability, a team responsible for cloud infrastruc
 
 ###### Key achievements and projects
 
-- built a recruitment process and question set for various roles and formalised a fair and systematic approach to recruitment hiring 12 engineers in the first 6 months
+- Built a recruitment process and question set for various roles and formalised a fair and systematic approach to recruitment hiring 12 engineers in the first 6 months
 - Contributed in non-engineering hiring sessions to support other hiring managers. Interviewed and hired peers and was on an interview panel for CTO and HoE hires.
 - Led on transition to GitHub Enterprise and Advanced Security.
 - Led the trial and implementation of DataDog, adding monitoring and observability capability for the first time.
-- replaced custom-built legacy CI/CD process on Jenkins to GitHub actions moving from monolithic deployments to individual components
-- oversaw remediation of infrastructure through a well-architected review with an AWS partner.
-- oversaw replacement of Kubernetes to ECR on Fargate - creating on-demand infrastructure triggered by pull requests reducing AWS costs by 10 per cent.
+- Replaced custom-built legacy CI/CD process on Jenkins to GitHub actions moving from monolithic deployments to individual components
+- Oversaw remediation of infrastructure through a well-architected review with an AWS partner.
+- Oversaw replacement of Kubernetes to ECR on Fargate - creating on-demand infrastructure triggered by pull requests reducing AWS costs by 10 per cent.
 
 #### Higher Education Statistics Agency (March 2006 - June 2021)
 
