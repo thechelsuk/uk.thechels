@@ -3,28 +3,22 @@
 ---
 
 // 16px = 1em
-
-
-$background: #f5f4f4;
-$font-darkest: #04100D;
-$font-dark: #00233D;
-$border-light: #ACD7EC;
-$border-dark: #005CA3;
-$links: #295147;
-$links-active: #376C5F;
-$quotebar: #505a5f;
-$accent: #CEC452;
-
 html,
 body {
   height: 100%;
 }
 
+$background: #f5f4f4;
+$primary-text: #04100D;
+$secondary: #005CA3;
+$links: #295147;
+$accent: #CEC452;
+
 body {
-  border-top: 16px solid $border-dark;
+  border-top: 16px solid $secondary;
   margin: 0;
   font-family: 'Gill Sans', Arial, Helvetica, sans-serif;
-  color: $font-darkest;
+  color: $primary-text;
   font-size: 1em;
   background: $background;
   box-sizing: border-box;
@@ -35,7 +29,7 @@ sup:hover {
 }
 
 #outer-wrapper {
-  border-top: 16px solid $border-light;
+  border-top: 16px solid $accent;
   min-height: 80%;
   margin-bottom: -40px;
 }
@@ -57,7 +51,7 @@ sup:hover {
   display: inline;
 
   a {
-    color: $font-dark;
+    color: $links;
     text-decoration: none;
   }
 
@@ -71,7 +65,7 @@ sup:hover {
   margin-top: 0;
   text-transform: lowercase;
   font-variant: small-caps;
-  color: $border-dark;
+  color: $secondary;
   margin-left: 2px;
   margin-bottom: 0;
 }
@@ -214,22 +208,15 @@ a {
 }
 
 a:hover,
-a:focus {
-  text-decoration: underline;
-}
-
+a:focus,
 a:active {
-  color: $links-active;
+  text-decoration: underline;
 }
 
 img {
   display: block;
   max-width: 100%;
   height: auto;
-}
-
-strong code {
-  background: $font-dark;
 }
 
 code {
@@ -253,7 +240,6 @@ pre {
     overflow: auto;
     background: #eee;
     padding-left: 10px;
-    color: $font-dark;
     border: 5px solid #eee;
     border-radius: 5px;
     padding-bottom: 5px;
@@ -262,8 +248,7 @@ pre {
 
 blockquote, cite {
   padding: 0 1em;
-  color: $font-dark;
-  border-left: 0.25em solid $quotebar;
+  border-left: 0.25em solid $accent;
   width: 90%;
   margin-left: 10px;
 }
@@ -271,10 +256,10 @@ blockquote, cite {
 
 .footnote {
   font-size: .75em;
-  color: $font-dark;
+  color: $secondary;
 
   sup {
-    color: $font-darkest;
+    color: $primary-text;
     margin-right: 5px;
   }
 }
@@ -289,7 +274,6 @@ blockquote, cite {
 }
 
 .meta {
-  color: $font-dark;
   font-size: .75em;
   position: absolute;
   top: 18px;
@@ -301,7 +285,6 @@ blockquote, cite {
 }
 
 .posts .num-words, .post-num-words {
-  color: $font-dark;
   font-size: 75%;
   margin-left: 6px;
 }
@@ -324,7 +307,7 @@ post-num-words {
 
   .num-words {
     float: right;
-    color: $font-dark;
+    color: $secondary;
   }
 
 .floated {
@@ -353,7 +336,7 @@ post-num-words {
   font-size: .9em;
   text-transform: lowercase;
   font-variant: small-caps;
-  color: $font-darkest;
+  color: $primary-text;
   margin-left: 2px;
   margin-bottom: 0px;
   }
