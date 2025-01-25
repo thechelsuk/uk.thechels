@@ -9,7 +9,7 @@ body {
 }
 
 $background: #f5f4f4;
-$primary-text: #04100D;
+$primary: #04100D;
 $secondary: #005CA3;
 $links: #295147;
 $accent: #CEC452;
@@ -18,7 +18,7 @@ body {
   border-top: 16px solid $secondary;
   margin: 0;
   font-family: 'Gill Sans', Arial, Helvetica, sans-serif;
-  color: $primary-text;
+  color: $primary;
   font-size: 1em;
   background: $background;
   box-sizing: border-box;
@@ -259,7 +259,7 @@ blockquote, cite {
   color: $secondary;
 
   sup {
-    color: $primary-text;
+    color: $primary;
     margin-right: 5px;
   }
 }
@@ -336,7 +336,7 @@ post-num-words {
   font-size: .9em;
   text-transform: lowercase;
   font-variant: small-caps;
-  color: $primary-text;
+  color: $primary;
   margin-left: 2px;
   margin-bottom: 0px;
   }
