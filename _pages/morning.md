@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### on Saturday, 25 January 2025
+### on Sunday, 26 January 2025
 
-- The average temperature today is 1.93˚C,
-- With highs of 2.76˚C and lows of 1.49˚C,
-- It may feel like 0.69˚C with overcast clouds
+- The average temperature today is 4.16˚C,
+- With highs of 5.16˚C and lows of 3.72˚C,
+- It may feel like 2.62˚C with moderate rain
 
 <!-- weather_marker ends -->
 
@@ -31,14 +31,6 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 790, using [2, 3, 8, 10, 25, 100]
-<details><summary><code>Solution</code></summary>
-
-
-Solution: ( 8 / 2 + 100 - 25 ) x 10
-
-Total: 27 solutions.
-
-</details>
+- Target: 583, using [1, 3, 3, 3, 4, 10]
 
 <!-- game_marker ends -->
