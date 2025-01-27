@@ -283,8 +283,12 @@ blockquote, cite {
   margin-right: 0px;
   float: right;
   display: block;
+}
+
+article .meta {
   font-variant-caps: all-petite-caps;
 }
+
 
 .posts {
   margin-left: 0;
@@ -375,8 +379,11 @@ blockquote, cite {
     float: none;
     margin-left: 0;
     display: block;
-    font-variant-caps: all-petite-caps;
   }
+
+ article .meta {
+   font-variant-caps: all-petite-caps;
+ }
 
   .footer,
   #outer-wrapper:after {
