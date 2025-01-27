@@ -10,13 +10,13 @@ seo: About page for Mat B, owner of Weak Notes at thechels.uk
 
 ![banner photo of Mat running in London](/images/gh-header-image-cropped.jpg)
 
-An experienced Engineering leader with a passion for people development, building teams using agile methodologies, and focusing on flow and delivery. A broad history of working with various programming languages. Has led multiple teams in fast-paced environments, implementing agile approaches and reducing cycle times significantly. 
+An experienced software engineering leader with a passion for people development, building teams, using agile methodologies, and focusing on flow and delivery. A broad history of working with various programming languages and software tools. Has led multiple teams in fast-paced and regulated environments, implementing agile approaches and reducing cycle times significantly.
 
-Has a track record of increasing team morale and motivation through a holistic people development style, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, personal development frameworks, and addressing technical debt.
+Has a track record of increasing team morale and motivation through a holistic people-first leadership style, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, personal development frameworks, and addressing technical debt.
 
-Holds an HND in Business Information Systems and an HNC in Business Information Technology in Computing from Solent University. Was one of two people in his year to study French and Spanish at GCSE. 
+Holds an HND in Business Information Systems and an HNC in Business Information Technology in Computing from Solent University. Was one of two people in his year to study French and Spanish at GCSE.
 
-Consumes an unhealthy amount of football and podcasts [Please recommend one](https://github.com/Mat-0/TheChels.uk/issues/new?assignees=Mat-0=podcast&template=podcast.md).
+Consumes an unhealthy amount of football and subscribed to over 215 podcasts [Please recommend one](https://github.com/Mat-0/TheChels.uk/issues/new?assignees=Mat-0=podcast&template=podcast.md).
 
 ### Colophon
 
@@ -24,7 +24,7 @@ Hosted on [GitHub Pages](https://pages.github.com), the site uses [Jekyll](https
 
 It is called "weak notes" as a play on words of the popular Government "[week](https://promo.cymru/resource/weeknotes/) [notes](https://weeknot.es)" blogging style - due to the likelihood, I will be inconsistent and non-regular and having worked adjacent to Government for 16 years.
 
-The primary colour scheme is `White Smoke` as the background, `Night` for text, `Brunswick Green` for links, `Lapis Lazuli` for some additional/secondary text and `Citron` for accents e.g, borders and quote bars.
+The font-family utilises the user's operating system setting via the `system-ui` declaration, `Gill Sans` if available, and as a last resort falls back to sans-serif. The primary colour scheme is `White Smoke` as the background, `Night` for text, `Brunswick Green` for links, `Lapis Lazuli` for some additional/secondary text and `Citron` for accents e.g, borders and quote bars.
 
 ![websites colour scheme](/images/colour-scheme.png)
 
