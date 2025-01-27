@@ -3819,6 +3819,27 @@
       thumbnail: "https://books.google.com/books/content?id=tU6Z0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/COMPLETELY_DIFFERENT_GAME.html?hl=&id=tU6Z0AEACAAJ"
+  - isbn: "9781068605741"
+    dateFinished: "2024-09-14"
+    title: "Impact Engineering (Complete Omnibus)"
+    authors:
+      - "Junade Ali"
+    publishedDate: "2024-07-14"
+    description: "“This has touched a nerve” - The Register This is a book people don’t want you to read. In “How to Protect Yourself from Killer Computers”, Dr Junade Ali peeled back the layers of cover-up, negligence and wrongdoing to uncover how killer computers are born and how everyone can protect themselves, as the powerful institutions implicated attempted to shutdown coverage of the case studies. Then in “Impact Engineering”, Dr Ali took on the “cult following” of the Agile software development methodology with new research into what truly enables success in software projects alongside personal and organisational transformations. Ferocious shutdown attempts including stalking led to the book becoming an Amazon Best Seller on launch week. Now, this Complete Omnibus edition of “Impact Engineering” contains both previous books alongside a new epilogue closing the work. “Leaders that fail to deal with such failures transparently leave their organisations vulnerable to existential risk.” - Forbes “Junade Ali's research has also found basic problems shared across various sectors.” - The Independent “Through the years, Ali became adept at not only software engineering but understanding how software engineers work. In addition to developer burnout, he’s focused on quality, continuous improvement and psychological safety in the workplace.” - EE Times “With a decade’s experience building high-reliability systems for critical applications in transport and other industries, Ali has seen all too often how institutions double down on the assumption that they are correct” - Australian Computer Society Information Age “His many contributions to IT security include developing cyber security techniques that have been adopted in products built by Apple and Google, and developing software to help de-escalate cyber warfare situations.” - Computer Weekly"
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781068605741"
+      - type: "ISBN_10"
+        identifier: "106860574X"
+    pageCount: 346
+    printType: "BOOK"
+    categories:
+      - "Computers"
+    imageLinks:
+      smallThumbnail: "https://books.google.com/books/content?id=_ZE4EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "https://books.google.com/books/content?id=_ZE4EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Impact_Engineering_Complete_Omnibus.html?hl=&id=_ZE4EQAAQBAJ"
   - isbn: "9780143127741"
     dateFinished: "2024-10-01"
     title: "The Body Keeps the Score"
