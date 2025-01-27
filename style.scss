@@ -280,10 +280,11 @@ blockquote, cite {
 
 .meta {
   color: $secondary;
-  margin-left: 6px;
-  transform: small-caps;
-  font-size: 75%;
+  margin-right: 0px;
+  font-size: 90%;
   float: right;
+  display: block;
+  font-variant-caps: all-petite-caps;
 }
 
 .posts {
