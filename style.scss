@@ -375,7 +375,9 @@ blockquote, cite {
     display: block;
     float: none;
     margin-left: 0;
-    font-size: 75%;
+    font-size: 90%;
+    display: block;
+    font-variant-caps: all-petite-caps;
   }
 
   .footer,
