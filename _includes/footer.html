@@ -11,12 +11,11 @@
              {% for item in site.navigation_footer %}
              <a href="{{item.link}}">{{item.title}}</a>
              {% endfor %}
-        </p>
-        <p>
-          | {% github_edit_link "Edit &raquo;" %}
-          <a href="/#{{ site.github.build_revision }}">#</a>
-          
-          <a class"numwords" href="#top">↑</a>
+             <span class="numwords">
+                  | {% github_edit_link "Edit &raquo;" %}
+                  <a href="/#{{ site.github.build_revision }}">#</a>
+                  <a href="#top">↑</a>
+             </span>
         </p>
       
         
