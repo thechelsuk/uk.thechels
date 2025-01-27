@@ -244,15 +244,12 @@ cite {
     margin-bottom: 20px;
 }
 
-.posts .meta,
-.post-meta {
+.meta {
     color: $secondary;
-    font-size: 75%;
     margin-left: 6px;
-}
-
-.post-meta {
     transform: small-caps;
+    font-size: 75%;
+    float: right;
 }
 
 .posts {
@@ -265,11 +262,6 @@ cite {
 .poster {
     width: 100px;
     vertical-align: top;
-}
-
-.meta {
-    float: right;
-    color: $secondary;
 }
 
 .floated {

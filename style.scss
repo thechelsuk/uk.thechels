@@ -278,13 +278,12 @@ blockquote, cite {
   margin-bottom: 20px;
 }
 
-.posts .num-.meta, .post-meta {
-  font-size: 75%;
+.meta {
+  color: $secondary;
   margin-left: 6px;
-}
-
-.post-meta {
   transform: small-caps;
+  font-size: 75%;
+  float: right;
 }
 
 .posts {
@@ -297,11 +296,6 @@ blockquote, cite {
   .poster {
     width: 100px;
     vertical-align: top;
-  }
-
-  .meta {
-    float: right;
-    color: $secondary;
   }
 
 .floated {
