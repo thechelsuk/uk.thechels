@@ -3,7 +3,7 @@
 <p><small><b>{{ site.data.podcasts | size }}</b> podcast subscriptions.</small></p>
 {% for item in site.data.podcasts  %}
   <article class="posts">
-      {{item.name}} <span class="num-words"><a href="{{item.link}}">Feed &rarr;</a></span>
+      {{item.name}} <span class="meta"><a href="{{item.link}}">Feed &rarr;</a></span>
   </article>
 {% endfor %}
 {% include footer.html %}

@@ -252,14 +252,14 @@ cite {
     margin-bottom: 20px;
 }
 
-.posts .num-words,
-.post-num-words {
+.posts .meta,
+.post-meta {
     color: $secondary;
     font-size: 75%;
     margin-left: 6px;
 }
 
-post-num-words {
+.post-meta {
     transform: small-caps;
 }
 
@@ -275,7 +275,7 @@ post-num-words {
     vertical-align: top;
 }
 
-.num-words {
+.meta {
     float: right;
     color: $secondary;
 }

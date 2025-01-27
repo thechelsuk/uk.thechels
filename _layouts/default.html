@@ -5,6 +5,6 @@
   <p>• <a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
 {% endif %}
 {% if page.id %}
-  <p class="post-num-words">Published {{ page.date | date: "%-d %B %Y" }}, with {{ page.content | number_of_words }} words.
+  <p class="post-meta">Published {{ page.date | date: "%-d %B %Y" }}, with {{ page.content | number_of_words }} words.
 {% endif %}
 {% include footer.html %}

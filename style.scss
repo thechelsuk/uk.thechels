@@ -285,12 +285,12 @@ blockquote, cite {
   margin-bottom: 20px;
 }
 
-.posts .num-words, .post-num-words {
+.posts .num-.meta, .post-meta {
   font-size: 75%;
   margin-left: 6px;
 }
 
-post-num-words {
+.post-meta {
   transform: small-caps;
 }
 
@@ -306,7 +306,7 @@ post-num-words {
     vertical-align: top;
   }
 
-  .num-words {
+  .meta {
     float: right;
     color: $secondary;
   }
@@ -383,7 +383,7 @@ post-num-words {
     width: auto;
   }
 
-  .num-words {
+  .meta {
     display: block;
     float: none;
     margin-left: 0;
