@@ -14,7 +14,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 
 Holds an HND in Business Information Systems and an HNC in Business Information Technology in Computing from Solent University. Was one of two people in his year to study French and Spanish at GCSE.
 
-Consumes an unhealthy amount of football and is subscribed to over 215 podcasts [Please recommend one](https://github.com/Mat-0/TheChels.uk/issues/new?assignees=Mat-0=podcast&template=podcast.md).
+Consumes an unhealthy amount of football and is subscribed to over 215 podcasts, [please recommend one](https://github.com/Mat-0/TheChels.uk/issues/new?assignees=Mat-0=podcast&template=podcast.md).
 
 ## Colophon
 
@@ -22,7 +22,7 @@ Hosted on [GitHub Pages](https://pages.github.com), the site uses [Jekyll](https
 
 It is called "weak notes" as a play on words of the popular Government "[week](https://promo.cymru/resource/weeknotes/) [notes](https://weeknot.es)" blogging style - due to the likelihood, posting will be inconsistent and irregular, and having worked adjacent to Government for 14 years.
 
-The font-family utilises the user's operating system setting via the `-system-ui` declaration, `Gill Sans` if available, and as a last resort falls back to `sans-serif`. The primary colour scheme is `White Smoke` as the background, `Night` for text, `Brunswick Green` for links, `Lapis Lazuli` for some additional/secondary text e.g., post meta data, and finally `Citron` is used for accents e.g, borders, separstors, quote bars and whimsy.
+The font-family utilises the user's operating system setting via the `-system-ui` declaration, `Gill Sans` if available, and as a last resort falls back to `sans-serif`. The primary colour scheme is `White Smoke` as the background, `Night` for text, `Brunswick Green` for links, `Lapis Lazuli` for some additional/secondary text e.g., post meta data and sub headings, and finally `Citron` is used for accents e.g., borders, separators, quote bars, and whimsy.
 
 ![websites colour scheme](/images/colour-scheme.png)
 
