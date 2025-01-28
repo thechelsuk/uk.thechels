@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: default
 title: Daily Rundown
 permalink: /daily
 seo: Good Morning Mat, Here is your daily briefing
