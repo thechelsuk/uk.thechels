@@ -6,8 +6,6 @@ seo: About page for Mat B, owner of Weak Notes at thechels.uk
 
 ---
 
-[Colophon](#colophon) / [In The Press](#in-the-press) / [Now](#now) / [Manual](/manual) / [Podcasts](/podcasts) / [Football teams](/teams) / [Books](/books) / [Use](/gear).
-
 ![banner photo of Mat running in London](/images/gh-header-image-cropped.jpg)
 
 An experienced software engineering leader with a passion for people development, building teams, using agile methodologies, and focusing on flow and delivery. A broad history of working with various programming languages and software tools. Has led multiple teams in fast-paced and regulated environments, implementing agile approaches and reducing cycle times significantly.
