@@ -18,7 +18,7 @@ Holds an HND in Business Information Systems and an HNC in Business Information 
 
 Consumes an unhealthy amount of football and subscribed to over 215 podcasts [Please recommend one](https://github.com/Mat-0/TheChels.uk/issues/new?assignees=Mat-0=podcast&template=podcast.md).
 
-### Colophon
+## Colophon
 
 Hosted on [GitHub Pages](https://pages.github.com), the site uses [Jekyll](https://jekyllrb.com), a static site generator, on [Ruby](https://www.ruby-lang.org/en/). DNS and SSL by [Cloudflare](https://www.cloudflare.com). It also uses GitHub actions, GitHub issues, and some [Python](https://www.python.org) for automation. Content is written in GitHub flavoured [Markdown](https://daringfireball.net/projects/markdown/). Data is stored in [Yaml](https://yaml.org) files.
 
@@ -28,13 +28,13 @@ The font-family utilises the user's operating system setting via the `-system-ui
 
 ![websites colour scheme](/images/colour-scheme.png)
 
-### In The Press
+## In The Press
 
 During an era of running a successful football analytics website I had work published on the Chelsea FC website, [FourFourTwo](https://thechels.uk/fourfourtwo-cult-heroes) [magazine](https://thechels.uk/fourfourtwo-chelsea-vs-swansea), [Man City's match day programme](https://thechels.uk/man-city-programme), the [Daily Mail](https://www.dailymail.co.uk/sport/football/article-2282976/Frank-Lampard-scores-200th-Chelsea-goal.html), the [Independent](https://www.independent.co.uk/sport/football/european/valencia-penalty-gary-neville-chelsea-under19s-uefa-youth-league-a6892926.html) and various club fan sites.
 
 The Twitter account, active from 2010 to 2018, peaked at 185,000 followers with a monthly reach of 8 million users worldwide all through organic growth.
 
-### Now
+## Now
 
 _based on the "now" page idea from Derek Sivers._
 
