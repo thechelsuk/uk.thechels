@@ -55,6 +55,8 @@ navigation_bout:
     title: "Now"
 ## SubMenu
 navigation_subpages:
+  - link: "/about"
+    title: "Bio"
   - link: "/manual"
     title: "Manual"
   - link: "/podcasts"
