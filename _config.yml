@@ -45,6 +45,25 @@ navigation_header:
     title: "SubStack &raquo;"
   - link: "https://shop.the-ensemblist.uk"
     title: "Shop &raquo;"
+## SubMenu
+navigation_submenu:
+  - link: "#colophon"
+    title: "Colophon"
+  - link: "#in-the-press"
+    title: "In The Press"
+  - link: "#now"
+    title: "Now"
+  - link: "/manual"
+    title: "Manual"
+  - link: "/podcasts"
+    title: "Podcasts"
+  - link: "/teams"
+    title: "Football teams"
+  - link: "/books"
+    title: "Books"
+  - link: "/gear"
+    title: "Use"
+
 ## Footer links
 navigation_footer:
   - link: "https://thechels.uk/feed.json"
