@@ -57,13 +57,12 @@ My wife's surgery was the key moment of the year particularly the urgency in whi
 
 I also got a new job this year and it's night and day on how I feel about work now. Amazing what moving away from a clueless micro manager can do for one's stress levels.
 
-- Winner: Wife's spinal surgery 
+- Winner: Wife's spinal surgery
 - Runner up: New job
-
 
 ## Business
 
 For overall customer service, speeding responses and good proactive comms
 
-Winner: Octopus Energy (Solar & EV chargers)
-Runner up: YouFibre
+- Winner: Octopus Energy (Solar & EV chargers)
+- Runner up: YouFibre
