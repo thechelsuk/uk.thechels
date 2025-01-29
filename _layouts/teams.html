@@ -2,8 +2,8 @@
 <h1 class="post-title">{{ page.title }}</h1>
 <p><small><b>{{ site.data.teams | size }}</b> Teams seen live.</small></p>
 {% for item in site.data.teams | sort %}
-    <article class="posts">
+    <div class="posts">
         {{item}}
-    </article>
+    </div>
 {% endfor %}
 {% include footer.html %}

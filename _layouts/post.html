@@ -1,5 +1,6 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
+<article>
  {{ content }}
 {% if page.link %}
   <p>• <a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
@@ -7,4 +8,5 @@
 {% if page.id %}
   <p class="post-meta">Published {{ page.date | date: "%-d %B %Y" }}, with {{ page.content | number_of_words }} words.
 {% endif %}
+</article>
 {% include footer.html %}
