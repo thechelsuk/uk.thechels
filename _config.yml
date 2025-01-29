@@ -45,14 +45,6 @@ navigation_header:
     title: "SubStack &raquo;"
   - link: "https://shop.the-ensemblist.uk"
     title: "Shop &raquo;"
-## AboutMenu
-navigation_bout:
-  - link: "/about#colophon"
-    title: "Colophon"
-  - link: "/about#in-the-press"
-    title: "In The Press"
-  - link: "/about#now"
-    title: "Now"
 ## SubMenu
 navigation_subpages:
   - link: "/about"

@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: pages
 title: About
 permalink: /about
 seo: About page for Mat B, owner of Weak Notes at thechels.uk
