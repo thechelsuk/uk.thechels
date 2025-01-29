@@ -282,17 +282,16 @@ blockquote, cite {
   margin-bottom: 20px;
 }
 
-.meta {
+div, article .meta {
   color: $secondary;
   margin-right: 0px;
   float: right;
   display: block;
 }
 
-article .meta {
+div, article .meta {
   font-variant-caps: all-petite-caps;
 }
-
 
 .posts {
   margin-left: 0;
@@ -378,14 +377,14 @@ article .meta {
     width: auto;
   }
 
-  .meta {
+  div, article .meta {
     display: block;
     float: none;
     margin-left: 0;
     display: block;
   }
 
- article .meta {
+  div, article .meta {
    font-variant-caps: all-petite-caps;
  }
 
