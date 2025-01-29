@@ -47,11 +47,11 @@ navigation_header:
     title: "Shop &raquo;"
 ## SubMenu
 navigation_submenu:
-  - link: "#colophon"
+  - link: "/about#colophon"
     title: "Colophon"
-  - link: "#in-the-press"
+  - link: "/about#in-the-press"
     title: "In The Press"
-  - link: "#now"
+  - link: "/about#now"
     title: "Now"
   - link: "/manual"
     title: "Manual"
