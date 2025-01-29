@@ -1,45 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <meta charset="utf-8">
     <meta http-equiv='Content-Security-Policy'   content="default-src *; script-src *; style-src *; upgrade-insecure-requests; block-all-mixed-content">
     <meta http-equiv='X-Content-Security-Policy' content="default-src *; script-src *; style-src *; upgrade-insecure-requests; block-all-mixed-content">
     <meta http-equiv="Referrer-Policy: origin-when-cross-origin">
 
     <title>{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}</title>
-    <meta name="title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}" />
+    <meta name="title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}">
     {% if page.id %}
 
-      <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.title }} {{ site.description }}" />
+      <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.title }} {{ site.description }}">
     {% else %}
-      <meta name="description" content="{% if page.seo %} {{ page.seo }}{% else %} {{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}" />
+      <meta name="description" content="{% if page.seo %} {{ page.seo }}{% else %} {{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}">
     {% endif %}
 
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="og:image" content="{{ site.url }}{{ site.defaultImagePath }}" />
+    <meta property="og:image" content="{{ site.url }}{{ site.defaultImagePath }}">
     <meta property="og:site_name" content="{{ site.title }} {{ site.description }}">
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta property="article:publisher" content="{{ site.url }}" />
-    <meta property="article:author" content="{{ site.author }} at {{site.url }}" />
-    <meta property="article:published_time" content="{{ page.date }}" />
+    <meta property="article:publisher" content="{{ site.url }}">
+    <meta property="article:author" content="{{ site.author }} at {{site.url }}">
+    <meta property="article:published_time" content="{{ page.date }}">
 
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="format-detection" content="telephone=no"/>
     <meta name="format-detection" content="address=no"/>
-    <meta name="HandheldFriendly" content="True" />
-    <meta name="theme-color" content="#005CA3" />
-    <meta name="robots" content="index,follow" />
-    <meta name="mobile-web-app-capable" content="yes" />
-    <meta name="apple-touch-fullscreen" content="yes" />
-    <meta name="apple-mobile-web-app-title" content="Expo" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-    <link rel="manifest" href="/manifest.json" />
-      <link rel="shortcut icon" href="/images/splashscreens/favicon.ico" type="image/x-icon" />
-      <link rel="apple-touch-icon" href="/images/splashscreens/apple-touch-icon.png" />
+    <meta name="HandheldFriendly" content="True">
+    <meta name="theme-color" content="#005CA3">
+    <meta name="robots" content="index,follow">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Expo">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" media="print" href="/style_print.css">
+    <link rel="manifest" href="/manifest.json">
+      <link rel="shortcut icon" href="/images/splashscreens/favicon.ico" type="image/x-icon">
+      <link rel="apple-touch-icon" href="/images/splashscreens/apple-touch-icon.png">
       <link rel="apple-touch-icon" sizes="57x57" href="/images/splashscreens/apple-icon-57x57.png">
       <link rel="apple-touch-icon" sizes="60x60" href="/images/splashscreens/apple-icon-60x60.png">
       <link rel="apple-touch-icon" sizes="72x72" href="/images/splashscreens/apple-icon-72x72.png">
@@ -112,11 +114,6 @@
       media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
     <link href="/images/splashscreens/apple-splash-640-960.jpg" rel="apple-touch-startup-image"
      media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
-
-
-    <link rel="stylesheet" href="/style.css" />
-    <link rel="stylesheet" media="print" href="/style_print.css" />
-
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} xml" href="{{ site.url }}/feed.xml">
     <link rel="alternate" type="application/json" title="{{ site.title }} json" href="{{ site.url }}/feed.json">
 
