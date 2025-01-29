@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cv
 title: Mat | Engineering Leader
 permalink: /cv
 seo: CV of Mat-0
