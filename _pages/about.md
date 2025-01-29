@@ -26,6 +26,8 @@ The font-family utilises the user's operating system setting via the `-system-ui
 
 ![websites colour scheme](/images/colour-scheme.png)
 
+At the time of checking the site has [valid html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fthechels.uk%2F) and [valid CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthechels.uk&profile=css3svg). Lighthouse scores are 100 across the board.
+
 ## In The Press
 
 During an era of running a successful football analytics website I had work published on the Chelsea FC website, [FourFourTwo](https://thechels.uk/fourfourtwo-cult-heroes) [magazine](https://thechels.uk/fourfourtwo-chelsea-vs-swansea), [Man City's match day programme](https://thechels.uk/man-city-programme), the [Daily Mail](https://www.dailymail.co.uk/sport/football/article-2282976/Frank-Lampard-scores-200th-Chelsea-goal.html), the [Independent](https://www.independent.co.uk/sport/football/european/valencia-penalty-gary-neville-chelsea-under19s-uefa-youth-league-a6892926.html) and various club fan sites including Crystal Palace, Walsall, Swansea snd Man City.
