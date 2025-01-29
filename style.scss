@@ -96,6 +96,15 @@ body {
   background: url("images/me72-hover.png") no-repeat;
 }
 
+.meta {
+  color: $secondary;
+  display: block;
+  float: right;
+  margin-right: 0;
+  display: block;
+  font-variant-caps: all-petite-caps;
+}
+
 
 .book-list .book {
     display: flex;
@@ -111,15 +120,6 @@ body {
 .book-list .book-img {
     flex-shrink: 0;
     width: 90px;
-}
-
-.about-row {
-  display: flex;
-}
-
-.about-column {
-  flex: 50%;
-  padding: 5px;
 }
 
 h2 {
@@ -282,17 +282,6 @@ blockquote, cite {
   margin-bottom: 20px;
 }
 
-div, article .meta {
-  color: $secondary;
-  margin-right: 0px;
-  float: right;
-  display: block;
-}
-
-div, article .meta {
-  font-variant-caps: all-petite-caps;
-}
-
 .posts {
   margin-left: 0;
   padding-left: 0;
@@ -377,15 +366,12 @@ div, article .meta {
     width: auto;
   }
 
-  div, article .meta {
+  .meta {
     display: block;
     float: none;
     margin-left: 0;
     display: block;
-  }
-
-  div, article .meta {
-   font-variant-caps: all-petite-caps;
+    font-variant-caps: all-petite-caps;
  }
 
   .footer,

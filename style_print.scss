@@ -72,15 +72,6 @@ body {
     width: 90px;
 }
 
-.about-row {
-    display: flex;
-}
-
-.about-column {
-    flex: 50%;
-    padding: 5px;
-}
-
 h2 {
     font-size: 1.5em;
     margin-bottom: 28px;
@@ -249,9 +240,6 @@ cite {
     margin-left: 6px;
     font-size: 75%;
     float: right;
-}
-
-article .meta {
     font-variant-caps: all-petite-caps;
 }
 
