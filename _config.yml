@@ -46,7 +46,7 @@ navigation_header:
   - link: "https://shop.the-ensemblist.uk"
     title: "Shop &raquo;"
 ## SubMenu
-navigation_submenu:
+navigation_subpages:
   - link: "/about#colophon"
     title: "Colophon"
   - link: "/about#in-the-press"
