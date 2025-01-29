@@ -8,7 +8,7 @@ body {
     height: 100%;
 }
 
-$background: #f5f4f4;
+$background: #fff;
 $primary: #04100D;
 $secondary: #005CA3;
 $links: #295147;
@@ -247,10 +247,14 @@ cite {
 .meta {
     color: $secondary;
     margin-left: 6px;
-    transform: small-caps;
     font-size: 75%;
     float: right;
 }
+
+article .meta {
+    font-variant-caps: all-petite-caps;
+}
+
 
 .posts {
     margin-left: 0;
