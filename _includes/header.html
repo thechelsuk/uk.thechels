@@ -5,17 +5,16 @@
     <meta http-equiv="Content-Security-Policy"   content="default-src *; script-src *; style-src *; upgrade-insecure-requests; block-all-mixed-content">
     <meta name="referrer" content="origin">
     <title>{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}</title>
-    <meta name="title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}">
+    <meta name="title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }}">
     {% if page.id %}
-
-      <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.title }} {{ site.description }}">
+      <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.title }}">
     {% else %}
-      <meta name="description" content="{% if page.seo %} {{ page.seo }}{% else %} {{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}">
+      <meta name="description" content="{% if page.seo %} {{ page.seo }}{% else %} {{ post.title }}{% endif %} | {{ site.title }}">
     {% endif %}
 
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
-    <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}">
+    <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:image" content="{{ site.url }}{{ site.defaultImagePath }}">
     <meta property="og:site_name" content="{{ site.title }} {{ site.description }}">

@@ -9,5 +9,4 @@ cited: Accidentally in Code
 ---
 
 > Have you ever found yourself in the middle of an argument and not been sure how you got there? People tend to match other people’s energy, so if someone comes in hot you might – naturally, no judgment here – meet them hot in return. Learning to replace reaction with a question can diffuse a heated reaction and make sure you’re having the conversation that will actually move this forward.
-
 > The next time someone seems annoyed, take a deep breath and get curious instead. See what you can learn – rather than what you can win.
