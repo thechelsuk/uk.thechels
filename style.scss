@@ -64,11 +64,11 @@ body {
 }
 
 .blog-slogan {
-    margin-top: 0;
-    font-variant-caps: all-petite-caps;
     color: $secondary;
-    margin-left: 2px;
-    margin-bottom: 0;
+    margin: 0 0 0 2px;
+    color: $secondary;
+    display: block;
+    font-size: 12px;
 }
 
 .blog-menu {
@@ -99,7 +99,7 @@ body {
     float: right;
     margin-right: 0;
     display: block;
-    font-variant-caps: all-petite-caps;
+    font-size: 12px;
 }
 
 article {
@@ -340,8 +340,6 @@ cite {
         display: block;
         float: none;
         margin-left: 0;
-        display: block;
-        font-variant-caps: all-petite-caps;
     }
 
     .footer,
