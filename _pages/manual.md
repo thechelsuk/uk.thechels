@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pages
 title: My Operating Manual
 permalink: /manual
 seo: Operating Manual of Mat-0
@@ -8,11 +8,11 @@ seo: Operating Manual of Mat-0
 
 ## General Principles
 
-- Teams > Individuals; Group work.
-- One > Many; Throughput.
-- Humans > Machines; People First.
-- Learning > Blame; Culture.
-- Delivery > Debate; Bias towards action.
+- Teams over Individuals; Group work.
+- One over Many; Throughput.
+- Humans over Machines; People First.
+- Learning over Blame; Culture.
+- Delivery over Debate; Bias towards action.
 
 ### My Leadership Philosophy
 

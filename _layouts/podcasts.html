@@ -1,9 +1,14 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
+<nav id="submenu" class="blog-menu">
+  {% for item in site.navigation_subpages %}
+  <a href="{{item.link}}">{{item.title}}</a> /
+  {% endfor %}
+</nav>
 <p><small><b>{{ site.data.podcasts | size }}</b> podcast subscriptions.</small></p>
 {% for item in site.data.podcasts  %}
-  <article class="posts">
+  <div class="posts">
       {{item.name}} <span class="meta"><a href="{{item.link}}">Feed &rarr;</a></span>
-  </article>
+  </div>
 {% endfor %}
 {% include footer.html %}

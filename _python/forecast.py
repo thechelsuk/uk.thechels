@@ -38,7 +38,7 @@ if __name__ == "__main__":
             string_today += f"- With highs of {high_temp}˚C and lows of {low_temp}˚C,\n"
             string_today += f"- It may feel like {feels_like}˚C with {day_desc}\n"
 
-        f = root / "_pages/morning.md"
+        f = root / "_pages/daily.md"
         m = f.open().read()
         c = helper.replace_chunk(m, "weather_marker", string_today)
         f.open("w").write(c)

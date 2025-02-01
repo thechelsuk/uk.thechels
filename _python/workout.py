@@ -15,7 +15,7 @@ if __name__ == "__main__":
             "3x AMRAP for 45 seconds, 15 second rest:\n\n", workouts, 3)
 
         try:
-            f = root / "_pages/morning.md"
+            f = root / "_pages/daily.md"
             print(f)
             m = f.open().read()
             c = helper.replace_chunk(m, "workout_marker", string)

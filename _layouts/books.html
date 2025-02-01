@@ -1,5 +1,10 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
+<nav id="submenu" class="blog-menu">
+  {% for item in site.navigation_subpages %}
+  <a href="{{item.link}}">{{item.title}}</a> /
+  {% endfor %}
+</nav>
 <p><small><b>{{ site.data.read | size }}</b> books I own or have read (almost all digitally).</small></p>
 <div class="book-list">
   {% assign books = site.data.read | sort: "dateFinished" | reverse %}

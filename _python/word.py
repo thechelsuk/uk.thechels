@@ -13,7 +13,7 @@ if __name__ == "__main__":
         title = item[0]["title"]
         desc = item[0]["summary"]
         string = f"\n > {title} - {desc}\n"
-        f = root / "_pages/morning.md"
+        f = root / "_pages/daily.md"
         m = f.open().read()
         c = helper.replace_chunk(m, "word_marker", string)
         f.open("w").write(c)

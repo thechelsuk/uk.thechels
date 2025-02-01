@@ -1,10 +1,15 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
+<nav id="submenu" class="blog-menu">
+    {% for item in site.navigation_subpages %}
+    <a href="{{item.link}}">{{item.title}}</a> /
+    {% endfor %}
+</nav>
 <p><small><b>{{ site.data.feeds | size }}</b> RSS subscriptions.</small></p>
 {% assign sites = site.data.feeds | sort: "_title" %}
 {% for item in sites %}
-    <article class="posts">
+    <div class="posts">
         {{item._title}} <span class="meta"><a href="{{item._htmlUrl}} ">{{item._htmlUrl}}</a> <a href="{{item._xmlUrl}}">&rarr;</a></span>
-    </article>
+    </div>
 {% endfor %}
 {% include footer.html %}

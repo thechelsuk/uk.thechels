@@ -18,7 +18,7 @@ if __name__ == "__main__":
             string += f"\nSolution: {answers_list[0]}\n\n"
             string += f"{summary}\n\n"
             string += "</details>\n"
-        f = root / "_pages/morning.md"
+        f = root / "_pages/daily.md"
         m = f.open().read()
         c = helper.replace_chunk(m, "game_marker", f"\n{string}")
         f.open("w").write(c)

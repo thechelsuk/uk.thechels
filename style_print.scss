@@ -8,7 +8,7 @@ body {
     height: 100%;
 }
 
-$background: #f5f4f4;
+$background: #fff;
 $primary: #04100D;
 $secondary: #005CA3;
 $links: #295147;
@@ -70,15 +70,6 @@ body {
 .book-list .book-img {
     flex-shrink: 0;
     width: 90px;
-}
-
-.about-row {
-    display: flex;
-}
-
-.about-column {
-    flex: 50%;
-    padding: 5px;
 }
 
 h2 {
@@ -247,16 +238,16 @@ cite {
 .meta {
     color: $secondary;
     margin-left: 6px;
-    transform: small-caps;
     font-size: 75%;
     float: right;
+    font-variant-caps: all-petite-caps;
 }
+
 
 .posts {
     margin-left: 0;
     padding-left: 0;
     margin-bottom: 12px;
-    transition: all .1s;
 }
 
 .poster {
