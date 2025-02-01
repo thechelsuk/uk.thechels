@@ -3,7 +3,6 @@ layout: default
 title: Mat | Engineering Leader
 permalink: /cv
 seo: CV of Mat-0
-
 ---
 
 ### Personal Profile
@@ -16,24 +15,29 @@ Holds an HND in Business Information Systems and an HNC in Business Information 
 
 ### Core Skills
 
-- Methodologies - Shape-up, Scrum, Kanban, Waterfall, XP, TDD, Ensemble, no estimates,
-- Languages: C#, SQL, XML, PHP, HTML, CSS, JavaScript, Markdown, Ruby, Jekyll, Python, Sass, TypeScript, NodeJS, Blazor,
-- Testing: TDD, Nunit, Moq, Specflow/Cucumber, Selenium Web driver, pytest, Playwright
-- Source Control: TFS, Azure DevOps, Git, GitHub, subversion, CVS
-- Cloud: AWS, Azure
-- Database: MySQL, Oracle, SQL Server, MongoDB
-- Architecture: Micro-Services, Volatility, Domain Driven, Event Driven.
-- Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress, Mural, Confluence, Jira, Airtable, Code Climate, DataDog, working copy, Azure DevOps,
-- OS: Mac, iOS, iPadOS, Windows
-- Leadership: Performance management, Recruitment, Leadership, Coaching, Mentoring, Personal development, Career development, Agile adoption, Ways of working, Stakeholder management, Advocacy, Radical candour, Requirement gathering, Workshop facilitation, Process implementation.
+-   Methodologies - Shape-up, Scrum, Kanban, Waterfall, XP, TDD, Ensemble, no estimates,
+-   Languages: C#, SQL, XML, PHP, HTML, CSS, JavaScript, Markdown, Ruby, Jekyll, Python, Sass, TypeScript, NodeJS, Blazor,
+-   Testing: TDD, Nunit, Moq, Specflow/Cucumber, Selenium Web driver, pytest, Playwright
+-   Source Control: TFS, Azure DevOps, Git, GitHub, subversion, CVS
+-   OS/Cloud: Mac, iOS, iPadOS, Windows, AWS, Azure
+-   Database: MySQL, Oracle, SQL Server, MongoDB
+-   Architecture: Micro-Services, Volatility, Domain Driven, Event Driven.
+-   Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress, Mural, Confluence, Jira, Airtable, Code Climate, DataDog, working copy, Azure DevOps,
+-   Leadership: Performance management, Recruitment, Leadership, Coaching, Mentoring, Personal development, Career development, Agile adoption, Ways of working, Stakeholder management, Advocacy, Radical candour, Requirement gathering, Workshop facilitation, Process implementation.
 
 ### Side Projects
 
-- Created, published, and managed a football statistics website (WordPress, PHP, MySQL) and associated Twitter account, overseeing organic growth to peak 180,000 followers and global reach and featured in high-profile football publications.
+-   Created, published, and managed a football statistics website (WordPress, PHP, MySQL) and associated Twitter account, overseeing organic growth to peak 180,000 followers and global reach and featured in high-profile football publications.
 
-- Rebuilt a running club website using Jekyll, a static site generator using Ruby hosted on GitHub pages reducing operating costs by over 75% per year.
+-   Rebuilt a running club website using Jekyll, a static site generator using Ruby hosted on GitHub pages reducing operating costs by over 75% per year.
 
-- Using Github Actions and GitHub Issues to create a Security News feed for the discerning security professional or engineering leader.
+-   Using Github Actions and GitHub Issues to create a Security News feed for the discerning security professional or engineering leader.
+
+### Education Summary
+
+-   Business Information Systems & Business Information Technology (Computing) HND, HNC at Solent University - 2001-2005
+-   2 A Levels in Psychology and General Studies, BTEC in Business Studies.
+-   10 GCSEs including English (double), Science (double), Maths, French, Spanish, and Geography.
 
 ### Employment History
 
@@ -49,7 +53,7 @@ Overseeing and coordinating a 4x increase in headcount in stream-aligned product
 
 #### Blackfinch Group - Head of Engineering (July 2023 - May 2024)
 
-_Blackfinch Group are investment specialists offering a range of products including tax-efficient investments for individuals and businesses plus  offering investment support in solar/wind energy and UK start-up companies._
+_Blackfinch Group are investment specialists offering a range of products including tax-efficient investments for individuals and businesses plus offering investment support in solar/wind energy and UK start-up companies._
 
 Implemented an agile approach to software delivery across three teams building a sustainable pace for product delivery aligned to emerging business needs, set up various team ceremonies, one-to-ones, and. Using a data-led approach recording DORA metrics and through objective setting and coaching saw the average cycle time reduce from 51 to 5 days. Implemented new working methods such as refinement, building out acceptance criteria, and unit testing.
 
@@ -83,12 +87,6 @@ _Collects, processes, and publishes data about all aspects of the higher educati
 ##### WEB DEVELOPER - (May 2011 – July 2015)
 
 ##### DATA ANALYST - (March 2006 – May 2011)
-
-### Education Summary
-
-- Business Information Systems & Business Information Technology (Computing) HND, HNC at Solent University - 2001-2005
-- 2 A Levels in Psychology and General Studies, BTEC in Business Studies.
-- 10 GCSEs including English (double), Science (double), Maths, French, Spanish, and Geography.
 
 ### References and Recommendations
 
