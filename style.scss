@@ -2,16 +2,19 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-// 16px = 1em
- {
-    $background: #f5f4f4;
-    $primary: #04100d;
-    $secondary: #005ca3;
-    $links: #295147;
-    $accent: #cec452;
-    $code-block: #fefefe;
-    $font-stack:  -system-ui, "Gill Sans", sans-serif;
+html {
+    font-size: 100%;
+    height: 100%;
 }
+// 16px = 1em
+
+$background: #f5f4f4;
+$primary: #04100d;
+$secondary: #005ca3;
+$links: #295147;
+$accent: #cec452;
+$code-block: #fefefe;
+$font-stack: -system-ui, "Gill Sans", sans-serif;
 
 body {
     border-top: 16px solid $secondary;
@@ -21,7 +24,6 @@ body {
     font-size: 1em;
     background: $background;
     box-sizing: border-box;
-    height: 100%;
 }
 
 #outer-wrapper {
@@ -74,7 +76,7 @@ body {
     color: $accent;
 
     a {
-        padding: 0 0.4em;
+        padding: 0 0.3125em;
     }
 }
 
@@ -252,7 +254,7 @@ cite {
 .posts {
     margin-left: 0;
     padding-left: 0;
-    margin-bottom: 0.75em
+    margin-bottom: 0.75em;
     transition: all 0.1s;
 }
 
