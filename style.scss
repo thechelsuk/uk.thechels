@@ -211,6 +211,11 @@ code {
     font-size: 0.9em;
 }
 
+pre > code {
+    font-family: $font-mono;
+    font-size: 0.9em;
+}
+
 blockquote,
 cite {
     padding: 0 1em;
