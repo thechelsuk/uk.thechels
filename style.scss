@@ -200,15 +200,15 @@ img {
 
 pre {
     font-family: $font-mono;
+    background: $code-block;
+    border: 0.125em solid $secondary;
+    border-radius: 1em;
+    font-size: 0.9em;
+    padding: 0.625em;
 }
 
 code {
     font-family: $font-mono;
-    font-size: 0.9em;
-    background: $code-block;
-    padding: 0.625em;
-    border-radius: 1em;
-    border: 0.125em solid $secondary;
 }
 
 blockquote,
