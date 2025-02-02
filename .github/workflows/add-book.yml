@@ -24,7 +24,7 @@ jobs:
             - name: Checkout
               uses: actions/checkout@v4
             - name: Read
-              uses: mat-0/read-action@1.0.1
+              uses: mat-0/read-action@1.0.3
               with:
                   readFileName: _data/read.yml
             - name: Download the book thumbnail
