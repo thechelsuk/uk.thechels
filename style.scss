@@ -200,6 +200,10 @@ img {
 
 pre {
     font-family: $font-mono;
+}
+
+code {
+    font-family: $font-mono;
     font-size: 0.9em;
     background: $code-block;
     padding: 0.625em;
