@@ -57,8 +57,8 @@ navigation_subpages:
     title: "Football Teams"
   - link: "/books"
     title: "Books"
-  - link: "/gear"
-    title: "Use"
+  - link: "/tech"
+    title: "Technology"
 
 ## Footer links
 navigation_footer:

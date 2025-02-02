@@ -1,7 +1,7 @@
 ---
 layout: pages
-title: Gear - What I use
-permalink: /gear
+title: Technology
+permalink: /tech
 seo: A list of my favourite gear and EDC
 
 ---
