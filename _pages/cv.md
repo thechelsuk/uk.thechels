@@ -28,9 +28,7 @@ Holds an HND in Business Information Systems and an HNC in Business Information 
 ### Side Projects
 
 - Created, published, and managed a football statistics website (WordPress, PHP, MySQL) and associated Twitter account, overseeing organic growth to peak 180,000 followers and global reach and featured in high-profile football publications.
-
 - Rebuilt a running club website using Jekyll, a static site generator using Ruby hosted on GitHub pages reducing operating costs by over 75% per year.
-
 - Using Github Actions and GitHub Issues to create a Security News feed for the discerning security professional or engineering leader.
 
 ### Education Summary
