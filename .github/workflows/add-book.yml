@@ -1,43 +1,42 @@
 ---
 name: Add Book
 on:
-  issues:
-    types: [labeled, edited]
+    issues:
+        types: [labeled, edited]
 env:
-  content: ${{ github.event.issue.body }}
-  label: ${{ github.event.label.name }}
-  issue_number: ${{ github.event.issue.number }}
-  actor: ${{ github.actor }}
-  owner: ${{ github.repository_owner }}
+    content: ${{ github.event.issue.body || '' }}
+    label: ${{ github.event.label.name || '' }}
+    issue_number: ${{ github.event.issue.number || '' }}
+    actor: ${{ github.actor || '' }}
+    owner: ${{ github.repository_owner || '' }}
 jobs:
-  Checks:
-    if: contains( github.event.issue.labels.*.name, 'read')
-    runs-on: ubuntu-latest
-    steps:
-      - name: Echo
-        run: echo "Label is $label"
-  Build:
-    needs: Checks
-    if: ${{ github.actor == github.repository_owner }}
-    runs-on: macOS-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Read
-        uses: mat-0/read-action@1.0.2 
-      - name: Download the book thumbnail
-        run: curl "${{env.BookThumb}}" -o "images/books/${{env.BookThumbOutput}}"
-      - name: Commit files
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A && git commit -m "Added ${{ env.BookTitle }}"
-          git push
-      - name: Close issue
-        uses: peter-evans/close-issue@v3
-        with:
-          issue-number: "${{ env.IssueNumber }}"
-          comment: "📚 You read ${{ env.BookTitle }} on ${{env.DateRead}}."
-
-
-
+    Checks:
+        if: contains( github.event.issue.labels.*.name, 'read')
+        runs-on: ubuntu-latest
+        steps:
+            - name: Echo
+              run: echo "Label is $label"
+    Build:
+        needs: Checks
+        if: ${{ github.actor == github.repository_owner }}
+        runs-on: macOS-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+            - name: Read
+              uses: mat-0/read-action@1.0.2
+              with:
+                  readFileName: _data/read.yml
+            - name: Download the book thumbnail
+              run: curl "${{env.BookThumb}}" -o "images/books/${{env.BookThumbOutput}}"
+            - name: Commit files
+              run: |
+                  git config --local user.email "action@github.com"
+                  git config --local user.name "GitHub Action"
+                  git add -A && git commit -m "Added ${{ env.BookTitle }}"
+                  git push
+            - name: Close issue
+              uses: peter-evans/close-issue@v3
+              with:
+                  issue-number: "${{ env.IssueNumber }}"
+                  comment: "📚 You read ${{ env.BookTitle }} on ${{env.DateRead}}."
