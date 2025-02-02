@@ -13,9 +13,8 @@ $primary: #04100d;
 $secondary: #005ca3;
 $links: #295147;
 $accent: #cec452;
-$code-block: #c5c4c4;
 $font-stack: -system-ui, "Gill Sans", sans-serif;
-$font-mono: ui-monospace, "Courier New", monospace;
+$font-mono: ui-monospace, monospace, "Courier New";
 
 body {
     border-top: 16px solid $secondary;
@@ -200,7 +199,6 @@ img {
 
 .codeblock {
     font-family: $font-mono;
-    background: $code-block;
     border: 0.125em solid $secondary;
     border-radius: 1em;
     font-size: 0.9em;
