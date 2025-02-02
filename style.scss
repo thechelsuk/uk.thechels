@@ -198,7 +198,7 @@ img {
     height: auto;
 }
 
-pre {
+.codeblock {
     font-family: $font-mono;
     background: $code-block;
     border: 0.125em solid $secondary;
@@ -207,6 +207,7 @@ pre {
     padding: 0.625em;
 }
 
+pre,
 code {
     font-family: $font-mono;
 }
