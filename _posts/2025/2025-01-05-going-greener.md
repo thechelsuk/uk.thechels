@@ -1,9 +1,7 @@
 ---
-
 layout: post
 date: 2025-01-05
 title: Going Greener
-
 ---
 
 On the verge of an acquiring a full electric EV for the wife. I don't drive, installing a EV charger to compliment this.

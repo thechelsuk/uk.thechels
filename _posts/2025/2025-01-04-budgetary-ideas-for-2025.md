@@ -1,9 +1,7 @@
 ---
-
 layout: post
 date: 2025-01-04
 title: Budgetary ideas for 2025
-
 ---
 
 1. Reform national insurance tax with its removal and incorporate it into income tax. Remove contributions from employers to incentivise hiring.

@@ -1,11 +1,9 @@
 ---
-
 layout: post
 date: 2024-10-28
 link: https://ifamagazine.com/upward-revision-of-earning-figures-gives-rachel-reeves-unwelcome-extra-100m-bill-for-state-pension-rise-next-year-steve-webb-lcp/
 title: Extra £100m bill for state pension rise next year
 cited: Steve Webb, LCP - IFA Magazine
-
 ---
 
 > Last month the provisional estimate was 4.0% but today this has been revised to 4.1%.  Just this extra 0.1% adds around £100m to the state pension bill under the triple lock formula.

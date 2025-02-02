@@ -1,11 +1,9 @@
 ---
-
 layout: post
 date: 2024-12-29
 title: Make the state more like a start up
 cited: Gov Uk
 link: https://www.gov.uk/government/news/pat-mcfadden-vows-to-make-the-state-more-like-a-start-up-as-he-deploys-reform-teams-across-country
-
 ---
 
 > Pat McFadden will pledge to make the state “more like a start up” as he launches a £100 million fund to pioneer public service reform and deliver the Government’s Plan for Change. The Chancellor of the Duchy of Lancaster will warn: “If we keep governing as usual, we are not going to achieve what we want to achieve”.
