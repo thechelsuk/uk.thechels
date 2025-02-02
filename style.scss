@@ -13,8 +13,9 @@ $primary: #04100d;
 $secondary: #005ca3;
 $links: #295147;
 $accent: #cec452;
-$code-block: #fefefe;
+$code-block: #918e8e;
 $font-stack: -system-ui, "Gill Sans", sans-serif;
+$font-mono: ui-monospace, "Courier New", monospace;
 
 body {
     border-top: 16px solid $secondary;
@@ -78,6 +79,10 @@ body {
     a {
         padding: 0 0.3125em;
     }
+}
+
+.radius {
+    border-radius: 1em;
 }
 
 .blog-image {
@@ -193,31 +198,15 @@ img {
     height: auto;
 }
 
-code {
-    font-family: Courier, monospace;
+code,
+pre {
+    font-family: $font-mono;
     font-size: 0.9em;
     background: $code-block;
-    padding: 1px 4px;
-}
-
-pre {
-    background: $code-block;
-    margin-left: -6px;
-    margin-top: 22px;
-    margin-bottom: 22px;
-    padding: 1px;
-    border-radius: 4px;
-
-    code {
-        font-size: 0.9em;
-        display: block;
-        overflow: auto;
-        background: $code-block;
-        padding-left: 0.625em;
-        border: 5px solid $code-block;
-        border-radius: 5px;
-        padding-bottom: 5px;
-    }
+    padding: 0.625em;
+    border-radius: 1em;
+    overflow: auto;
+    border: 0.313em solid $secondary;
 }
 
 blockquote,
