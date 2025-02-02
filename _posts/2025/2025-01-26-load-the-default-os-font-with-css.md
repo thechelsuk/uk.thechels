@@ -16,9 +16,7 @@ Very cool indeed, I have given this site a little stylistic refresh over the las
 This should mean better performance, less maintenance and easier refreshes in the future utilising variables in my scss file.
 
 > Cool! By using system-ui as default font, I could clean up a bit of CSS and go with this beauty.
-
 >    ```css
 >     body { font-family: system-ui, sans-serif; }
 >    ```
-
 > Nice and clean. This site will now render .SF NS on MacOS, and I don't have a Windows machine, but it seems to be Segoe UI Variable. But whatever is available on the OS does the trick for me.
