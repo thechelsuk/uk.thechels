@@ -198,15 +198,13 @@ img {
     height: auto;
 }
 
-code,
 pre {
     font-family: $font-mono;
     font-size: 0.9em;
     background: $code-block;
     padding: 0.625em;
     border-radius: 1em;
-    overflow: auto;
-    border: 0.313em solid $secondary;
+    border: 0.125em solid $secondary;
 }
 
 blockquote,
