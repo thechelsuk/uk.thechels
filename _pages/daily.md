@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### on Sunday, 02 February 2025
+### on Monday, 03 February 2025
 
-- The average temperature today is 4.04˚C,
-- With highs of 5.16˚C and lows of 3.62˚C,
-- It may feel like 2˚C with overcast clouds
+- The average temperature today is 5.33˚C,
+- With highs of 6.1˚C and lows of 4.82˚C,
+- It may feel like 3.52˚C with broken clouds
 
 <!-- weather_marker ends -->
 
@@ -31,13 +31,13 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 104, using [7, 9, 10, 25, 50, 75]
+- Target: 821, using [3, 4, 10, 25, 75, 100]
 <details><summary><code>Solution</code></summary>
 
 
-Solution: ( 10 - 7 ) x 9 + 50 / 25 + 75
+Solution: ( ( 100 - 75 ) x 10 + 25 ) x 3 - 4
 
-Total: 17 solutions.
+Total: 12 solutions.
 
 </details>
 
