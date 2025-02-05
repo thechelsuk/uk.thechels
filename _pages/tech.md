@@ -19,12 +19,12 @@ seo: A list of my favourite technology and EDC
 ## Apps
 
 -   Castro (Podcasts)
+-   1Password (Password Manager)
 -   Working Copy (Git Client)
+-   Drafts (Notes)
+-   GoodLinks (Bookmarks)
 -   NetNewsWire (News/RSS)
 -   Play, x.app (Video Management and Playback)
--   Drafts (Notes)
--   1Password (Password Manager)
--   GoodLinks (Bookmarks)
 -   Bobby (Budgeting)
 -   1.1.1.1 VPN (VPN)
 -   Scriptable (Coding)
@@ -32,5 +32,6 @@ seo: A list of my favourite technology and EDC
 -   iMessage/WhatsApp (Social/Messaging)
 -   VS Code (Coding)
 -   Arc, Safari, Chrome, DuckDuckGo (Browsing)
+-   Raycast (Spotlight)
 
 As well as the usual banking, utility, and home apps for the services I use, plus, of course, the default Apple apps.
