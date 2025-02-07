@@ -1,8 +1,8 @@
 ---
 layout: pages
-title: Technology
-permalink: /tech
-seo: A list of my favourite technology and EDC
+title: Uses
+permalink: /uses
+seo: A list of my in use favourite technology
 ---
 
 ## Devices
