@@ -9,7 +9,7 @@ seo: Verify Me
 This page serves as the system of record for my online identity. The best places to follow me are:
 
 - Here on this website [rss](/feed)
-- [Linkedin &raquo;](https://www.linkedin.com/in/mat-benfield/)
+- [LinkedIn &raquo;](https://www.linkedin.com/in/mat-benfield/)
 - [GitHub &raquo;](https://github.com/Mat-0/)
 
 I own and control the domain thechels.uk and the-ensemblist.uk
