@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### on Thursday, 06 February 2025
+### on Friday, 07 February 2025
 
-- The average temperature today is -1.32˚C,
-- With highs of -0.09˚C and lows of -2.39˚C,
-- It may feel like -4.02˚C with clear sky
+- The average temperature today is 2.54˚C,
+- With highs of 3.32˚C and lows of 2.04˚C,
+- It may feel like -0.18˚C with overcast clouds
 
 <!-- weather_marker ends -->
 
@@ -24,20 +24,20 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 113.34
+- VWRL.L : 114.81
 
 <!-- stocks_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 995, using [1, 4, 5, 6, 8, 75]
+- Target: 650, using [1, 2, 6, 6, 9, 100]
 <details><summary><code>Solution</code></summary>
 
 
-Solution: ( 8 + 6 - 1 ) x 75 + 5 x 4
+Solution: ( ( 9 + 6 ) x 2 + 100 ) x ( 6 - 1 )
 
-Total: 5 solutions.
+Total: 8 solutions.
 
 </details>
 
