@@ -12,7 +12,7 @@ seo: Slash Pages
 
 ## / Avatar
 
-[Avatar](/avatar)
+[Avatar](/.well-known/avatar.png)
 
 ## / Colophon
 
@@ -36,7 +36,7 @@ seo: Slash Pages
 
 ## / Tip
 
-[Tip](https://ko-fi.com/thechelsuk)
+[Tip &raquo;](https://ko-fi.com/thechelsuk)
 
 
 ## / Use
