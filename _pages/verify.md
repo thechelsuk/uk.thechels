@@ -11,6 +11,7 @@ This page serves as the system of record for my online identity. The best places
 - Here on this website [RSS](/feed)
 - [LinkedIn &raquo;](https://www.linkedin.com/in/mat-benfield/)
 - [GitHub &raquo;](https://github.com/Mat-0/)
+- [Apple Music &raquo;](https://music.apple.com/profile/thechelsuk)
 
 I own and control this domain thechels.uk
 
