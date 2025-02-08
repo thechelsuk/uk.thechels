@@ -149,12 +149,12 @@ img {
 code {
     font-family: $font-mono;
     font-size: 0.9em;
-    background: $code;
+    background: $background;
     padding: 1px 4px;
 }
 
 pre {
-    background: $code;
+    background: $background;
     margin-left: -6px;
     margin-top: 22px;
     margin-bottom: 22px;
@@ -165,7 +165,7 @@ pre {
         font-size: 0.9em;
         display: block;
         overflow: auto;
-        background: $code;
+        background: $background;
         padding-left: 10px;
         color: $primary;
         border: 5px solid $code;
