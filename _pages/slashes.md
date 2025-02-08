@@ -11,7 +11,7 @@ Slash pages are a set of commonly named pages often popular in the indie web.
 - / [About](/about)
 - / [Avatar](/.well-known/avatar.png)
 - / [Colophon](/about#colophon)
-- / [Music](https://music.apple.com/profile/benf83)
+- / [Music &raquo;](https://music.apple.com/profile/benf83)
 - / [Now](/about#now)
 - / [Podroll](/podcassts)
 - / [Save](/save)

@@ -12,9 +12,10 @@ This page serves as the system of record for my online identity. The best places
 - [LinkedIn &raquo;](https://www.linkedin.com/in/mat-benfield/)
 - [GitHub &raquo;](https://github.com/Mat-0/)
 
-I own and control the domain thechels.uk and the-ensemblist.uk
+I own and control this domain thechels.uk
 
-My email address are ensemblist.uk@gmail.com I have a [PGP](/pgp) key.
+My email address is ensemblist.uk@gmail.com I have a [PGP](/pgp) key.
 
 If there's an account claiming to be me that's not on this list, it's almost certainly an impersonator.
-My presence on the web is limited
+
+My presence on the web is limited so its incredibly likely similiarly named people will exist on the usual social sites.
