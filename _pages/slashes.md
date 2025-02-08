@@ -6,43 +6,16 @@ seo: Slash Pages
 
 ---
 
-## / About
+Slash pages are a set of commonly named pages often popular in the indie web.
 
-[About](/about)
-
-## / Avatar
-
-[Avatar](/.well-known/avatar.png)
-
-## / Colophon
-
-[Colophon](/about#colophon)
-
-## / Now
-
-[Now](/about#now)
-
-## / Podroll
-
-[Podroll](/podcassts)
-
-## / Save
-
-[Save](/save)
-
-## / Sitemap
-
-[Sitemap](/sitemap)
-
-## / Tip
-
-[Tip &raquo;](https://ko-fi.com/thechelsuk)
-
-
-## / Use
-
-[Uses](/uses)
-
-## / Verify
-
-[Verify](/verify)
+- / [About](/about)
+- / [Avatar](/.well-known/avatar.png)
+- / [Colophon](/about#colophon)
+- / [Music](https://music.apple.com/profile/benf83)
+- / [Now](/about#now)
+- / [Podroll](/podcassts)
+- / [Save](/save)
+- / [Sitemap](/sitemap)
+- / [Tip &raquo;](https://ko-fi.com/thechelsuk)
+- / [Uses](/uses) 
+- / [Verify](/verify)
