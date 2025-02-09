@@ -21,7 +21,7 @@ seo: Doing my bit for the environment
 - Actively seek to recycle waste products. As a household we rarely fill the refuse waste, but do fill the recycling boxes for card, glass, and foil and plastics.
 - We also recycle coffee pods and contact lenses and give plenty to charity as well as shop there often.
 
- ## Garden
+## Garden
 
  - The small garden is allowed to grow in spring and we delay the first cut of the lawn to allow for pollinators to benefit.
  - An area of the garden is set up for wild flowers.
