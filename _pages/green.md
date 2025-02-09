@@ -8,7 +8,7 @@ seo: Doing my bit for the environment
 
 ## Calculator
 
-According to an online calculator, it estimates a gross individual use of 4.64 tonnes of C0<sub>2</sub> for the year 2024.
+According to an online calculator, it estimates a gross individual use of 4.64 tonnes of C0<sub>2</sub> for the year 2024. Ths pre-dates solar panels. So will update later in 2025.
 
 ## Website
 
