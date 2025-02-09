@@ -76,7 +76,9 @@ navigation_slashes:
   - link: "/uses"
     title: "Uses"
   - link: "/verify"
-    title: "Verify" 
+    title: "Verify"
+  - link: "https://www.amazon.co.uk/hz/wishlist/ls/39EDV7CSPVYZT"
+    title: "Wish &raquo;"
 
 ## Footer links
 navigation_footer:
