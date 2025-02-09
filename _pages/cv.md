@@ -57,9 +57,7 @@ _Blackfinch Group are investment specialists offering a range of AIM and EIS pro
 
 Implemented an agile approach to software delivery across three teams building a sustainable pace for product delivery aligned to emerging business needs. Using a data-led approach recording DORA metrics and through objective setting and coaching saw the average cycle time reduce from 51 to 5 days. Implemented new working methods such as group/pairing and unit testing.
 
-Presented Engineering baseline and principles to the group. Increased morale, motivation, and a value-driven team-first approach to work - resulting in more pair programming and TDD adoption. Carried out quarterly and probationary reviews. Hired first QAs into the business. Introduced a progression framework for career development.
-
-Worked closely with architect and IT/Ops to implement RBACs and environment management through IaC. Developed a technical roadmap, architectural review and architectural design records, acknowledging and surfacing technical debt to stakeholders.
+Presented Engineering baseline and principles to the group. Increased morale, motivation, and a value-driven team-first approach to work - resulting in more pair programming and TDD adoption. Carried out quarterly and probationary reviews. Hired first QAs into the business. Introduced a progression framework for career development. Developed a technical roadmap, architectural review and architectural design records, acknowledging and surfacing technical debt to stakeholders.
 
 #### Seccl - Engineering Manager (June 2021 - June 2023)
 
@@ -77,8 +75,8 @@ Led on transition to GitHub Enterprise and Advanced Security and the trial and i
 
 _Collects, processes, and publishes data about all aspects of the UK higher education landscape as the Designated Data body. Additionally acted as a Product Owner, (certified) Scrum Master, fire marshal and member of the Staff Forum._
 
-- HEAD OF SOFTWARE DEVELOPMENT - (October 2019 - June 2021)
-- LEAD SOFTWARE DEVELOPER - (October 2018 – October 2019)
-- SOFTWARE DEVELOPER - (July 2015 - October 2018)
-- WEB DEVELOPER - (May 2011 – July 2015)
-- DATA ANALYST - (March 2006 – May 2011)
+- Head of Software Development - (October 2019 - June 2021)
+- Lead Software Developer - (October 2018 – October 2019)
+- Software Developer - (July 2015 - October 2018)
+- Web Developer - (May 2011 – July 2015)
+- Data Analyst - (March 2006 – May 2011)
