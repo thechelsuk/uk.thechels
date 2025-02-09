@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Green
+title: Green Credentials and decarbonisation
 permalink: /green
 seo: Doing my bit for the environment
 
