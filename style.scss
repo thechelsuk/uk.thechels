@@ -75,14 +75,24 @@ body {
     a {
         text-decoration: none;
         color: $accent;
+        display: inline-block;
     }
     a:hover,
     a:active {
         animation: rotate 1s linear infinite;
-        animation-play-state: paused;
-        animation-delay: calc(var(--scroll) * -1s);
+        animation-play-state: running;
         text-decoration: none;
         color: $accent;
+    }
+}
+
+// Add the keyframes for the rotate animation
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
     }
 }
 
