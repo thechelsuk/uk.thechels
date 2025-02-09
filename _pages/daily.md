@@ -34,3 +34,10 @@ No tasks today
 - Target: 483, using [1, 1, 4, 9, 9, 25]
 
 <!-- game_marker ends -->
+
+### Quote of the day
+<!-- quote_marker starts -->
+
+> What got us here, won't get us there - Emma Hayes
+
+<!-- quote_marker ends -->

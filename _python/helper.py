@@ -161,3 +161,9 @@ def get_random_items_from_a_list(out: str, items: list, count: int) -> str:
     for item in random.sample(items, count):
         out += f"- {item}\n"
     return out
+
+def get_random_quote_from_a_list(out: str, items: list, count: int) -> str:
+    """Returns a markdown formatted string of random item from a list"""
+    for item in random.sample(items, count):
+        out += f"{item}\n"
+    return out

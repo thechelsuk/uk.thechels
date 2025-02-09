@@ -5,10 +5,8 @@
 - name: Bobby
 - name: Working Copy
 - name: 1Password
-- name: Garmin Connect
 - name: Reddit
 - name: Amazon
-- name: Paypal
 - name: Google Maps
 - name: Kindle
 - name: Whatsapp
@@ -28,7 +26,6 @@
 - name: Zwift
 - name: Zwift Companion
 - name: Phillips Hue
-- name: Airmid UK
 - name: Nest
 - name: Coolors
 - name: Twitch
