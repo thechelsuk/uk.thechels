@@ -7,7 +7,7 @@ seo: CV of Mat-0
 
 ### Personal Profile
 
-An experienced Engineering leader with a passion for people development, building teams using agile methodologies, and focusing on flow and delivery. A broad history of working with various programming languages. Has led multiple teams in fast-paced environments, implementing agile approaches and reducing cycle times significantly.
+An experienced Engineering leader with a passion for people development, building teams, implementing agile methodologies, and focusing on flow and delivery. A broad history of working with teams using various programming languages, in fast-paced environments, reducing cycle times significantly.
 
 Has a track record of increasing team morale and motivation through a holistic people development style, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, personal development frameworks, and addressing technical debt.
 
@@ -39,19 +39,17 @@ Holds an HND in Business Information Systems and an HNC in Business Information 
 
 ### References and Recommendations
 
-[See LinkedIn recommendations](https://www.linkedin.com/in/mat-benfield/details/recommendations/#)
+[See LinkedIn for recommendations](https://www.linkedin.com/in/mat-benfield/details/recommendations/#)
 
 ### Employment History
 
 #### Howden Insurance - Head of Web Development (June 2024 - )
 
-_Howden, formally A Plan, is one of the biggest insurance firms in the world, and the 5th largest employee-owned business in the UK._
+_Howden, is one of the biggest insurance firms in the world, and the 5th largest employee-owned business in the UK._
 
-Heading up the frontend development centre of excellence with a focus on UI/UX across all digital products.
+Heading up the frontend development centre of excellence with a focus on UI/UX across all digital products. Overseeing and coordinating a 4x increase in headcount in stream-aligned product teams.
 
 Leading on improvements in ways of working and the adoption of TDD and social programming techniques and an increase in quality. Measuring DORA metrics and helping the team into good and elite categories. Development of incident management process.
-
-Overseeing and coordinating a 4x increase in headcount in stream-aligned product teams.
 
 #### Blackfinch Group - Head of Engineering (July 2023 - May 2024)
 
@@ -61,8 +59,7 @@ Implemented an agile approach to software delivery across three teams building a
 
 Presented Engineering baseline and principles to the group. Increased morale, motivation, and a value-driven team-first approach to work - resulting in more pair programming and TDD adoption. Carried out quarterly and probationary reviews. Hired first QAs into the business. Introduced a progression framework for career development.
 
-Worked closely with architect and IT/Ops to implement RBACs and environment management through IaC.
-Developed a technical roadmap, architectural review and architectural design records, acknowledging and surfacing technical debt to stakeholders.
+Worked closely with architect and IT/Ops to implement RBACs and environment management through IaC. Developed a technical roadmap, architectural review and architectural design records, acknowledging and surfacing technical debt to stakeholders.
 
 #### Seccl - Engineering Manager (June 2021 - June 2023)
 
@@ -78,10 +75,12 @@ Led on transition to GitHub Enterprise and Advanced Security and the trial and i
 
 #### Higher Education Statistics Agency - Various (March 2006 - June 2021)
 
-_Collects, processes, and publishes data about all aspects of the higher education landscape in the UK as the trusted source of HE data and analysis as the Designated Data body. In addition to roles acted as a Product Owner, (certified) Scrum Master, Staff Forum representative, and fire marshal._
+_Collects, processes, and publishes data about all aspects of the UK higher education landscape as the Designated Data body._
 
 - HEAD OF SOFTWARE DEVELOPMENT - (October 2019 - June 2021)
 - LEAD SOFTWARE DEVELOPER - (October 2018 – October 2019)
 - SOFTWARE DEVELOPER - (July 2015 - October 2018)
 - WEB DEVELOPER - (May 2011 – July 2015)
 - DATA ANALYST - (March 2006 – May 2011)
+
+_Additionally acted as a Product Owner, (certified) Scrum Master, fire marshal and member of the Staff Forum._
