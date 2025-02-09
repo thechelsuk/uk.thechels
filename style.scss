@@ -66,15 +66,21 @@ body {
     }
 }
 
-.asterisk a {
-        color: $accent;
+.asterisk {
+    color: $accent;
+    font-size: 3em;
+    margin: 0 auto;
+    text-align: center;
+
+    a,
+    a:hover,
+    a:active {
         animation: rotate 1s linear infinite;
         animation-play-state: paused;
         animation-delay: calc(var(--scroll) * -1s);
-        font-size: 3em;
-        align-content: center;
+        text-decoration: none;
+    }
 }
-
 
 .blog-slogan {
     color: $secondary;
