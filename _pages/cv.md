@@ -48,9 +48,7 @@ Holds an HND in Business Information Systems and an HNC in Business IT in Comput
 
 _Howden, is one of the biggest insurance firms in the world, and the 5th largest employee-owned business in the UK._
 
-Heading up the frontend development centre of excellence with a focus on UI/UX across all digital products. Overseeing and coordinating a 4x increase in headcount in stream-aligned product teams.
-
-Leading on improvements in ways of working and the adoption of TDD and social programming techniques and an increase in quality. Measuring DORA metrics and helping the team into good and elite categories. Development of incident management process.
+Heading up the frontend development centre of excellence with a focus on UI/UX across all digital products. Overseeing and coordinating a 4x increase in headcount in stream-aligned product teams. Led on improvements in ways of working and the adoption of TDD and social programming techniques and an increase in quality. Measuring DORA metrics and helping the team into good and elite categories. Development of incident management process.
 
 #### Blackfinch Group - Head of Engineering (July 2023 - May 2024)
 
