@@ -40,8 +40,7 @@ Holds an HND in Business Information Systems and an HNC in Business IT in Comput
 - Business Information Systems & Business Information Technology (Computing) HND, HNC at Solent University - 2001-2005
 - 2 A Levels in Psychology and General Studies, BTEC in Business Studies.
 - 10 GCSEs including English (double), Science (double), Maths, French, Spanish, and Geography.
-- [See LinkedIn for other certifications](https://www.linkedin.com/in/mat-benfield/details/certifications/#)
-
+- [See LinkedIn for various certifications](https://www.linkedin.com/in/mat-benfield/details/certifications/#)
 <div class="page-break"></div>
 
 ### Employment History
@@ -66,9 +65,7 @@ Presented Engineering baseline and principles to the group. Increased morale, mo
 
 _Seccl’s technology helps advisers, investment managers, and fintechs of all sizes to operate their own investment platforms. Seccl is an API-first technology company operating in the wealth management and financial services sector as part of the Octopus Group._
 
-Started leading multiple squads in the Investments and Advice tribe, focusing on delivery, empowering, and growing the engineers.Increased Team happiness metrics by 4 points (out of 10), +2.7 in wellness and +2.4 in overall engagement, +7.1 in relationship with peers within six months.
-
-Implemented a competency matrix, acted as head of engineering during a senior/c-suite leadership change. Interviewed and hired peers, was on the interview panel for CTO and HoE hires and contributed in non-engineering hiring sessions to support other hiring managers.
+Started leading multiple squads in the Investments and Advice tribe, focusing on delivery, empowering, and growing the engineers.Increased Team happiness metrics by 4 points (out of 10), +2.7 in wellness and +2.4 in overall engagement, +7.1 in relationship with peers within six months. Implemented a competency matrix, acted as head of engineering during a senior/c-suite leadership change. Interviewed and hired peers, was on the interview panel for CTO and HoE hires and contributed in non-engineering hiring sessions to support other hiring managers.
 
 Moved to lead a team responsible for cloud infrastructure and developer enablement and support. Developed a roadmap to remove legacy cloud, poorly managed systems to managed services. Helped team deliver an automated client onboarding process reducing cycle time from approximately 6 hours to 3 minutes. Oversaw a DB upgrade well within deadlines and without downtime or customer detriment. Gave Technical debt and security greater gravitas within the organisation and helped construct a roadmap for remediation.
 
