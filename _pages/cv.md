@@ -40,6 +40,9 @@ Holds an HND in Business Information Systems and an HNC in Business IT in Comput
 - Business Information Systems & Business Information Technology (Computing) HND, HNC at Solent University - 2001-2005
 - 2 A Levels in Psychology and General Studies, BTEC in Business Studies.
 - 10 GCSEs including English (double), Science (double), Maths, French, Spanish, and Geography.
+- [See LinkedIn for other certifications](https://www.linkedin.com/in/mat-benfield/details/certifications/#)
+
+<div class="page-break"></div>
 
 ### Employment History
 
