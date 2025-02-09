@@ -6,6 +6,10 @@ seo: Doing my bit for the environment
 
 ---
 
+## Calculator
+
+According to an online calculator, it estimates a gross use of 4.64 tonnes of C0<sub>2</sub> for the year 2024.
+
 ## Energy
 
 - 10 Solar Panels and a 5kw battery helps reduce reliance on the grid
