@@ -37,6 +37,10 @@ Holds an HND in Business Information Systems and an HNC in Business Information 
 - 2 A Levels in Psychology and General Studies, BTEC in Business Studies.
 - 10 GCSEs including English (double), Science (double), Maths, French, Spanish, and Geography.
 
+### References and Recommendations
+
+[See LinkedIn recommendations](https://www.linkedin.com/in/mat-benfield/details/recommendations/#)
+
 ### Employment History
 
 #### Howden Insurance - Head of Web Development (June 2024 - )
@@ -76,16 +80,8 @@ Led on transition to GitHub Enterprise and Advanced Security and the trial and i
 
 _Collects, processes, and publishes data about all aspects of the higher education landscape in the UK as the trusted source of HE data and analysis as the Designated Data body. In addition to roles acted as a Product Owner, (certified) Scrum Master, Staff Forum representative, and fire marshal._
 
-##### HEAD OF SOFTWARE DEVELOPMENT - (October 2019 - June 2021)
-
-##### LEAD SOFTWARE DEVELOPER - (October 2018 – October 2019)
-
-##### SOFTWARE DEVELOPER - (July 2015 - October 2018)
-
-##### WEB DEVELOPER - (May 2011 – July 2015)
-
-##### DATA ANALYST - (March 2006 – May 2011)
-
-### References and Recommendations
-
-[See LinkedIn recommendations](https://www.linkedin.com/in/mat-benfield/details/recommendations/#)
+- HEAD OF SOFTWARE DEVELOPMENT - (October 2019 - June 2021)
+- LEAD SOFTWARE DEVELOPER - (October 2018 – October 2019)
+- SOFTWARE DEVELOPER - (July 2015 - October 2018)
+- WEB DEVELOPER - (May 2011 – July 2015)
+- DATA ANALYST - (March 2006 – May 2011)
