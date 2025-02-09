@@ -55,7 +55,7 @@ Leading on improvements in ways of working and the adoption of TDD and social pr
 
 _Blackfinch Group are investment specialists offering a range of AIM and EIS products including investment support in solar/wind energy and UK start-ups._
 
-Implemented an agile approach to software delivery across three teams building a sustainable pace for product delivery aligned to emerging business needs, set up various team ceremonies, one-to-ones, and. Using a data-led approach recording DORA metrics and through objective setting and coaching saw the average cycle time reduce from 51 to 5 days. Implemented new working methods such as refinement, building out acceptance criteria, and unit testing.
+Implemented an agile approach to software delivery across three teams building a sustainable pace for product delivery aligned to emerging business needs. Using a data-led approach recording DORA metrics and through objective setting and coaching saw the average cycle time reduce from 51 to 5 days. Implemented new working methods such as group/pairing and unit testing.
 
 Presented Engineering baseline and principles to the group. Increased morale, motivation, and a value-driven team-first approach to work - resulting in more pair programming and TDD adoption. Carried out quarterly and probationary reviews. Hired first QAs into the business. Introduced a progression framework for career development.
 
@@ -67,7 +67,7 @@ _Seccl’s technology helps advisers, investment managers, and fintechs of all s
 
 Started leading multiple squads in the Investments and Advice tribe, focusing on delivery, empowering, and growing the engineers.Increased Team happiness metrics by 4 points (out of 10), +2.7 in wellness and +2.4 in overall engagement, +7.1 in relationship with peers within six months.
 
-Implemented a role/skill matrix during annual reviews - the first time anything like this was used in the company, acted as head of engineering during a senior/c-suite leadership change and contributed in non-engineering hiring sessions to support other hiring managers. Interviewed and hired peers and was on an interview panel for CTO and HoE hires.
+Implemented a competency matrix, acted as head of engineering during a senior/c-suite leadership change. Interviewed and hired peers, was on the interview panel for CTO and HoE hires and contributed in non-engineering hiring sessions to support other hiring managers.
 
 Moved to lead a team responsible for cloud infrastructure and developer enablement and support. Developed a roadmap to remove legacy cloud, poorly managed systems to managed services. Helped team deliver an automated client onboarding process reducing cycle time from approximately 6 hours to 3 minutes. Oversaw a DB upgrade well within deadlines and without downtime or customer detriment. Gave Technical debt and security greater gravitas within the organisation and helped construct a roadmap for remediation.
 
@@ -75,12 +75,10 @@ Led on transition to GitHub Enterprise and Advanced Security and the trial and i
 
 #### Higher Education Statistics Agency - Various (March 2006 - June 2021)
 
-_Collects, processes, and publishes data about all aspects of the UK higher education landscape as the Designated Data body._
+_Collects, processes, and publishes data about all aspects of the UK higher education landscape as the Designated Data body. Additionally acted as a Product Owner, (certified) Scrum Master, fire marshal and member of the Staff Forum._
 
 - HEAD OF SOFTWARE DEVELOPMENT - (October 2019 - June 2021)
 - LEAD SOFTWARE DEVELOPER - (October 2018 – October 2019)
 - SOFTWARE DEVELOPER - (July 2015 - October 2018)
 - WEB DEVELOPER - (May 2011 – July 2015)
 - DATA ANALYST - (March 2006 – May 2011)
-
-_Additionally acted as a Product Owner, (certified) Scrum Master, fire marshal and member of the Staff Forum._
