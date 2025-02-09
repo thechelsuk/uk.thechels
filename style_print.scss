@@ -111,8 +111,12 @@ h6:focus a {
     text-decoration: none;
 }
 
+h1 {
+    color: $primary;
+}
+
 h3 {
-    border-bottom: #cec452 dotted 1px;
+    border-bottom: $secondary dashed 2px;
 }
 
 article,
