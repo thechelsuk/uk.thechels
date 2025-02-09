@@ -13,6 +13,10 @@ Has a track record of increasing team morale and motivation through a holistic p
 
 Holds an HND in Business Information Systems and an HNC in Business IT in Computing from Solent University. Was one of two people in his year to study French and Spanish at GCSE. Consumes an unhealthy amount of football and podcasts.
 
+### References and Recommendations
+
+[See LinkedIn for recommendations](https://www.linkedin.com/in/mat-benfield/details/recommendations/#)
+
 ### Core Skills
 
 - Methodologies - Shape-up, Scrum, Kanban, Waterfall, XP, TDD, Ensemble, No estimates,
@@ -36,10 +40,6 @@ Holds an HND in Business Information Systems and an HNC in Business IT in Comput
 - Business Information Systems & Business Information Technology (Computing) HND, HNC at Solent University - 2001-2005
 - 2 A Levels in Psychology and General Studies, BTEC in Business Studies.
 - 10 GCSEs including English (double), Science (double), Maths, French, Spanish, and Geography.
-
-### References and Recommendations
-
-[See LinkedIn for recommendations](https://www.linkedin.com/in/mat-benfield/details/recommendations/#)
 
 ### Employment History
 
@@ -65,13 +65,13 @@ Worked closely with architect and IT/Ops to implement RBACs and environment mana
 
 _Seccl’s technology helps advisers, investment managers, and fintechs of all sizes to operate their own investment platforms. Seccl is an API-first technology company operating in the wealth management and financial services sector as part of the Octopus Group._
 
-Started leading multiple squads in the Investments and Advice tribe, focusing on delivery, empowering, and growing the engineers. Implemented a role/skill matrix during annual reviews - the first time anything like this was used in the company, acted as head of engineering during a senior/c-suite leadership change and aided recruitment of new CTO and HoE.
+Started leading multiple squads in the Investments and Advice tribe, focusing on delivery, empowering, and growing the engineers.Increased Team happiness metrics by 4 points (out of 10), +2.7 in wellness and +2.4 in overall engagement, +7.1 in relationship with peers within six months.
 
-Moved to lead a team responsible for cloud infrastructure and developer enablement and support. Developed a roadmap to remove legacy cloud, poorly managed systems to managed services. Helped team deliver an automated client onboarding process reducing cycle time from approximately 6 hours to 3 minutes. Oversaw a DB upgrade well within deadlines and without downtime or customer detriment. Gave Technical debt and security greater gravitas within the organisation and helped construct a roadmap for remediation. Increased Team happiness metrics by 4 points (out of 10), +2.7 in wellness and +2.4 in overall engagement, +7.1 in relationship with peers within six months.
+Implemented a role/skill matrix during annual reviews - the first time anything like this was used in the company, acted as head of engineering during a senior/c-suite leadership change and contributed in non-engineering hiring sessions to support other hiring managers. Interviewed and hired peers and was on an interview panel for CTO and HoE hires.
 
-Built a recruitment process and question set for various roles and formalised a fair and systematic approach to recruitment hiring 12 engineers in the first 6 months. Contributed in non-engineering hiring sessions to support other hiring managers. Interviewed and hired peers and was on an interview panel for CTO and HoE hires.
+Moved to lead a team responsible for cloud infrastructure and developer enablement and support. Developed a roadmap to remove legacy cloud, poorly managed systems to managed services. Helped team deliver an automated client onboarding process reducing cycle time from approximately 6 hours to 3 minutes. Oversaw a DB upgrade well within deadlines and without downtime or customer detriment. Gave Technical debt and security greater gravitas within the organisation and helped construct a roadmap for remediation.
 
-Led on transition to GitHub Enterprise and Advanced Security and the trial and implementation of DataDog, adding monitoring and observability capability for the first time. Replaced custom-built legacy CI/CD process on Jenkins to GitHub actions moving from monolithic deployments to individual components Oversaw remediation of infrastructure through a well-architected review with an AWS partner. Oversaw replacement of Kubernetes to ECR on Fargate - creating on-demand infrastructure triggered by pull requests reducing AWS costs by 10 per cent.
+Led on transition to GitHub Enterprise and Advanced Security and the trial and implementation of DataDog, adding monitoring and observability capability for the first time. Replaced custom-built legacy CI/CD process on Jenkins to GitHub actions moving from monolithic deployments to individual components Oversaw remediation of infrastructure through a well-architected review with an AWS partner. Oversaw replacement of Kubernetes to ECR on Fargate reducing AWS costs by 10 per cent.
 
 #### Higher Education Statistics Agency - Various (March 2006 - June 2021)
 
