@@ -7,7 +7,9 @@ seo: CV of Mat-0 optimised for printing and savings as PDF
 
 ### Personal Profile
 
-An experienced engineering leader with a passion for people development, building teams, implementing agile methodologies, and focusing on flow and delivery. A broad history of working with teams using various programming languages, in fast-paced and regulated environments. Has a track record of increasing team morale and motivation through a holistic people development style, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, personal development frameworks, addressing technical debt and reducing cycle times significantly.
+An experienced engineering leader with a passion for people development, building teams, implementing agile methodologies, and focusing on flow and delivery. A broad history of working with teams using various programming languages, in fast-paced and regulated environments. 
+
+Has a track record of increasing team morale and motivation through a holistic people development style, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, personal development frameworks, addressing technical debt and reducing cycle times significantly.
 
 Holds an HND in Business Information Systems and an HNC in Business IT in Computing from Solent University. Was one of two people in his year to study French and Spanish at GCSE. Consumes an unhealthy amount of football and podcasts.
 
@@ -54,7 +56,7 @@ Heading up the frontend development centre of excellence with a focus on UI/UX a
 
 _Blackfinch Group are investment specialists offering a range of AIM and EIS products including investment support in solar/wind energy and UK start-ups._
 
-Implemented an agile approach to software delivery across three teams building a sustainable pace for product delivery aligned to emerging business needs. Using a data-led approach recording DORA metrics and through objective setting and coaching saw the average cycle time reduce from 51 to 5 days. Implemented new working methods such as group/pairing and unit testing. Increased morale, motivation, and a value-driven team-first approach to work - resulting in more pair programming and TDD adoption. Carried out quarterly and probationary reviews. Hired first QAs into the business. Introduced a progression framework for career development. Developed a technical roadmap, architectural review and architectural design records, acknowledging and surfacing technical debt to stakeholders.
+Implemented an agile approach across three teams building a sustainable pace for product delivery aligned to emerging business needs. Used a data-led approach recording DORA metrics and through objective setting and coaching saw the average cycle time reduce from 51 to 5 days. Implemented new working methods such as group/pairing and unit testing. Increased morale, motivation, and a value-driven team-first approach to work - resulting in more pair programming and TDD adoption. Carried out quarterly and probationary reviews. Hired first QAs into the business. Introduced a progression framework for career development. Developed a technical roadmap, architectural review and architectural design records, acknowledging and surfacing technical debt to stakeholders.
 
 #### Seccl - Engineering Manager (June 2021 - June 2023)
 
@@ -62,9 +64,7 @@ _Seccl’s technology helps advisers, investment managers, and fintechs of all s
 
 Started leading multiple squads in the Investments and Advice tribe, focusing on delivery, empowering, and growing the engineers.Increased Team happiness metrics by 4 points (out of 10), +2.7 in wellness and +2.4 in overall engagement, +7.1 in relationship with peers within six months. Implemented a competency matrix, acted as head of engineering during a senior/c-suite leadership change. Interviewed and hired peers, was on the interview panel for CTO and HoE hires and contributed in non-engineering hiring sessions to support other hiring managers.
 
-Moved to lead a team responsible for cloud infrastructure and developer enablement and support. Developed a roadmap to remove legacy cloud, poorly managed systems to managed services. Helped team deliver an automated client onboarding process reducing cycle time from approximately 6 hours to 3 minutes. Oversaw a DB upgrade well within deadlines and without downtime or customer detriment. Gave Technical debt and security greater gravitas within the organisation and helped construct a roadmap for remediation.
-
-Led on transition to GitHub Enterprise and Advanced Security and the trial and implementation of DataDog, adding monitoring and observability capability for the first time. Replaced custom-built legacy CI/CD process on Jenkins to GitHub actions moving from monolithic deployments to individual components Oversaw remediation of infrastructure through a well-architected review with an AWS partner. Oversaw replacement of Kubernetes to ECR on Fargate reducing AWS costs by 10 per cent.
+Moved to lead a team responsible for cloud infrastructure and developer enablement and support. Developed a roadmap to remove legacy cloud, poorly managed systems to managed services. Helped team deliver an automated client onboarding process reducing cycle time from approximately 6 hours to 3 minutes. Oversaw a DB upgrade well within deadlines and without downtime or customer detriment. Gave Technical debt and security greater gravitas within the organisation and helped construct a roadmap for remediation then led on transition to GitHub Enterprise and Advanced Security and the trial and implementation of DataDog, adding monitoring and observability capability for the first time. Replaced custom-built legacy CI/CD process on Jenkins to GitHub actions moving from monolithic deployments to individual components Oversaw remediation of infrastructure through a well-architected review with an AWS partner. Oversaw replacement of Kubernetes to ECR on Fargate reducing AWS costs by 10 per cent.
 
 #### Higher Education Statistics Agency - Various (March 2006 - June 2021)
 
