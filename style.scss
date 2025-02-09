@@ -60,9 +60,6 @@ body {
 
     sup {
         color: $accent;
-        animation: rotate 1s linear infinite;
-        animation-play-state: paused;
-        animation-delay: calc(var(--scroll) * -1s);
     }
 }
 
