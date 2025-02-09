@@ -66,6 +66,16 @@ body {
     }
 }
 
+.asterisk a {
+        color: $accent;
+        animation: rotate 1s linear infinite;
+        animation-play-state: paused;
+        animation-delay: calc(var(--scroll) * -1s);
+        font-size: 3em;
+        align-content: center;
+}
+
+
 .blog-slogan {
     color: $secondary;
     margin: 0 0 0 2px;
