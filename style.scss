@@ -71,7 +71,10 @@ body {
     margin: 0 auto;
     line-height: 0.5em;
 
-    a,
+    a {
+        text-decoration: none;
+        color: $accent;
+    }
     a:hover,
     a:active {
         animation: rotate 1s linear infinite;
