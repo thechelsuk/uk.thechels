@@ -69,17 +69,14 @@ body {
     line-height: 0.5em;
     text-align: center;
 
-    a {
-        text-decoration: none;
-        color: $accent;
-        display: inline-block;
-    }
+    a,
     a:hover,
     a:active {
         animation: rotate 1s linear infinite;
         animation-play-state: running;
         text-decoration: none;
         color: $accent;
+        display: inline-block;
     }
 }
 
