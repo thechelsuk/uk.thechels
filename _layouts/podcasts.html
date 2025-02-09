@@ -1,10 +1,12 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
 {% include img.html %}
-<p><small><b>{{ site.data.podcasts | size }}</b> podcast subscriptions.</small></p>
-{% for item in site.data.podcasts  %}
-  <div class="posts">
-      {{item.name}} <span class="meta"><a href="{{item.link}}">Feed &rarr;</a></span>
-  </div>
-{% endfor %}
-{% include footer.html %}
+<p>
+    <small><b>{{ site.data.podcasts | size }}</b> podcast subscriptions.</small>
+</p>
+{% for item in site.data.podcasts %}
+<div class="posts">
+    {{item.name}}
+    <span class="meta"><a href="{{item.link}}">Feed &rarr;</a></span>
+</div>
+{% endfor %} {% include footer.html %}

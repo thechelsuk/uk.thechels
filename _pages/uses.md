@@ -20,10 +20,10 @@ seo: A list of my in use favourite technology
 
 -   Castro (Podcasts)
 -   1Password (Password Manager)
+-   NetNewsWire (News/RSS)
 -   Working Copy (Git Client)
 -   Drafts (Notes)
 -   GoodLinks (Bookmarks)
--   NetNewsWire (News/RSS)
 -   Play, x.app (Video Management and Playback)
 -   Bobby (Budgeting)
 -   1.1.1.1 VPN (VPN)
@@ -33,5 +33,6 @@ seo: A list of my in use favourite technology
 -   VS Code (Coding)
 -   Arc, Safari, Chrome, DuckDuckGo (Browsing)
 -   Raycast (Spotlight)
+-   Hush, 1Blocker, uBlock (Advert/Cookie nag Blocker)
 
 As well as the usual banking, utility, and home apps for the services I use, plus, of course, the default Apple apps.

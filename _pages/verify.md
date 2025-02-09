@@ -19,4 +19,4 @@ My email address is ensemblist.uk@gmail.com I have a [PGP](/pgp) key.
 
 If there's an account claiming to be me that's not on this list, it's almost certainly an impersonator.
 
-My presence on the web is limited so its incredibly likely similiarly named people will exist on the usual social sites.
+My presence on the web is limited so its incredibly likely similarly named people will exist on the usual social sites.
