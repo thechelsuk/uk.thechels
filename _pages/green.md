@@ -10,7 +10,7 @@ seo: Doing my bit for the environment
 
 - 10 Solar Panels and a 5kw battery helps reduce reliance on the grid
 - Energy provider uses green energy.
-- 95% of home uses smart energy efficient lighting. Remaining is due to be addressed in 2025
+- 95% of home uses smart energy efficient lighting. Remaining is due to be addressed in 2025.
 
 ## Transport
 
