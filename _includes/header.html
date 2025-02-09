@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="Content-Security-Policy"   content="default-src *; script-src *; style-src *; upgrade-insecure-requests; block-all-mixed-content">
     <meta name="referrer" content="origin">
-    <title>{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} {{ site.description }}</title>
+    <title>{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %}</title>
     <meta name="title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }}">
     {% if page.id %}
       <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.title }}">
