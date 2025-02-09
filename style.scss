@@ -69,7 +69,8 @@ body {
     line-height: 0.5em;
     text-align: center;
 
-    a,
+    a:visited,
+    a:link,
     a:hover,
     a:active {
         animation: rotate 1s linear infinite;
