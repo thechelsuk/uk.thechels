@@ -33,6 +33,7 @@ jobs:
                   python '_python/task.py'
                   python '_python/forecast.py'
                   python '_python/quote.py'
+                  python '_python/word.py'
             - name: Commit and push
               run: |-
                   git diff

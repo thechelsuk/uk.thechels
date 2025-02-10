@@ -20,6 +20,14 @@ seo: Good Morning Mat, Here is your daily briefing
 No tasks today
 <!-- task_marker ends -->
 
+### Word
+
+<!-- word_marker starts -->
+
+ > insufflate - verb tr.: 1. To blow or breathe into. 2. To treat by blowing air, gas, vapor, or powder into a body cavity. 3. To bless by breathing or blowing on baptismal water or a person.
+
+<!-- word_marker ends -->
+
 ### Stocks
 
 <!-- stocks_marker starts -->
