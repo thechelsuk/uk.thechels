@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### on Sunday, 09 February 2025
+### on Monday, 10 February 2025
 
-- The average temperature today is 3.55˚C,
-- With highs of 4.43˚C and lows of 2.61˚C,
-- It may feel like 1.13˚C with overcast clouds
+- The average temperature today is 3.87˚C,
+- With highs of 4.41˚C and lows of 3.25˚C,
+- It may feel like 2.89˚C with light rain
 
 <!-- weather_marker ends -->
 
@@ -31,7 +31,15 @@ No tasks today
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 483, using [1, 1, 4, 9, 9, 25]
+- Target: 556, using [1, 3, 5, 8, 10, 100]
+<details><summary><code>Solution</code></summary>
+
+
+Solution: ( 10 x 8 + 100 + 5 ) x 3 + 1
+
+Total: 10 solutions.
+
+</details>
 
 <!-- game_marker ends -->
 
