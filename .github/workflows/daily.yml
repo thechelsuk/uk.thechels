@@ -32,6 +32,7 @@ jobs:
                   python '_python/countdown.py'
                   python '_python/task.py'
                   python '_python/forecast.py'
+                  python '_python/quote.py'
             - name: Commit and push
               run: |-
                   git diff
