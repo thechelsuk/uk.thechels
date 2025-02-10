@@ -12,9 +12,7 @@ According to an online calculator, it estimates a gross individual use of 4.64 t
 
 ## Website
 
-> Only 0.01g of CO<sub>2</sub> is produced every time someone visits this web page.
-
-> This web page appears to be running on sustainable energy
+> Only 0.01g of CO<sub>2</sub> is produced every time someone visits this web page. This web page appears to be running on sustainable energy
 
 [Source](https://www.websitecarbon.com/website/thechels-uk/)
 
