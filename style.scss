@@ -303,17 +303,19 @@ cite {
         margin: 0 auto;
     }
 
-    .back-to-top a,
-    .back-to-top a:hover,
-    .back-to-top a:active,
-    .back-to-top a:focus {
-        color: $accent;
+    .back-to-top {
         font-size: 2em;
-        text-decoration: none;
         padding: 0.3em;
         position: fixed;
         inset: auto 2rem 2rem auto;
+        display: inline-block;
     }
+
+    .back-to-top:is(:link, :visited) {
+        color: $accent;
+        text-decoration: none;
+    }
+
 }
 
 #outer-wrapper:after {
