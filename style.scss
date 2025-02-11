@@ -78,16 +78,6 @@ body {
     }
 }
 
-// Add the keyframes for the rotate animation
-@keyframes rotate {
-    from {
-        transform: rotate(0deg);
-    }
-    to {
-        transform: rotate(180deg);
-    }
-}
-
 .blog-slogan {
     color: $secondary;
     margin: 0 0 0 2px;
