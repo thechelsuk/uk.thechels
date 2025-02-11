@@ -3,7 +3,7 @@
 layout: post
 date: 2025-02-11
 title: The Newman List
-cite: Patrick Newman
+cited: Patrick Newman
 link: #
 ---
 
