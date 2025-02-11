@@ -364,7 +364,8 @@ cite {
         margin-bottom: 1em;
     }
 
-    .footer > p > span {
+    p > span > a {
+        color: $accent;
         font-size: 1em;
         float: none;
     }
