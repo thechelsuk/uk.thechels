@@ -293,6 +293,19 @@ cite {
     position: relative;
 }
 
+.back-to-top {
+    font-size: 2em;
+    padding: 0.3em;
+    position: fixed;
+    inset: auto 2rem 2rem auto;
+    display: inline-block;
+}
+
+.back-to-top:is(:link, :visited, :hover, :active) {
+    color: $accent;
+    text-decoration: none;
+}
+
 .footer {
     line-height: 40px;
     font-size: 0.8em;
@@ -302,20 +315,6 @@ cite {
         width: 860px;
         margin: 0 auto;
     }
-
-    .back-to-top {
-        font-size: 2em;
-        padding: 0.3em;
-        position: fixed;
-        inset: auto 2rem 2rem auto;
-        display: inline-block;
-    }
-
-    .back-to-top:is(:link, :visited) {
-        color: $accent;
-        text-decoration: none;
-    }
-
 }
 
 #outer-wrapper:after {
