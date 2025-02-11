@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### on Monday, 10 February 2025
+### on Tuesday, 11 February 2025
 
-- The average temperature today is 3.87˚C,
-- With highs of 4.41˚C and lows of 3.25˚C,
-- It may feel like 2.89˚C with light rain
+- The average temperature today is 3.43˚C,
+- With highs of 4.43˚C and lows of 2.61˚C,
+- It may feel like 2.39˚C with overcast clouds
 
 <!-- weather_marker ends -->
 
@@ -24,7 +24,7 @@ No tasks today
 
 <!-- word_marker starts -->
 
- > insufflate - verb tr.: 1. To blow or breathe into. 2. To treat by blowing air, gas, vapor, or powder into a body cavity. 3. To bless by breathing or blowing on baptismal water or a person.
+ > spanghew - verb tr.: To throw violently into the air.
 
 <!-- word_marker ends -->
 
@@ -32,20 +32,20 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 114.5
+- VWRL.L : 115.17
 
 <!-- stocks_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 556, using [1, 3, 5, 8, 10, 100]
+- Target: 532, using [2, 2, 6, 10, 50, 75]
 <details><summary><code>Solution</code></summary>
 
 
-Solution: ( 10 x 8 + 100 + 5 ) x 3 + 1
+Solution: ( 75 + 50 + 10 - 2 ) x ( 6 - 2 )
 
-Total: 10 solutions.
+Total: 9 solutions.
 
 </details>
 
@@ -54,6 +54,6 @@ Total: 10 solutions.
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> What got us here, won't get us there - Emma Hayes
+> A key goal of continuous delivery is changing the economics of the software delivery process so the cost of pushing out individual changes is very low - Accelerate
 
 <!-- quote_marker ends -->
