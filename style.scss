@@ -282,11 +282,6 @@ cite {
     transition: all 0.1s;
 }
 
-.poster {
-    width: 100px;
-    vertical-align: top;
-}
-
 .floated {
     float: left;
     vertical-align: top;
@@ -308,15 +303,7 @@ cite {
         margin: 0 auto;
     }
 
-    .p {
-        clear: both;
-        font-size: 0.9em;
-        color: $primary;
-        margin-left: 2px;
-        margin-bottom: 0px;
-    }
-
-    p > span {
+    p > span a {
         color: $accent;
         font-size: 2em;
         float: right;
@@ -349,12 +336,6 @@ cite {
         flex-shrink: 0;
         width: 72px;
     }
-    .about-row {
-        display: block;
-    }
-    .about-column {
-        width: 100%;
-    }
 
     .footer {
         line-height: 30px;
@@ -384,7 +365,11 @@ cite {
     }
 
     .footer > p > span {
-        font-sie: 1em;
+        font-size: 1em;
         float: none;
     }
+}
+
+.sr-only {
+    display: none;
 }
