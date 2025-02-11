@@ -303,11 +303,14 @@ cite {
         margin: 0 auto;
     }
 
-    p > span > a {
+    .back-to-top a,
+    .back-to-top a:hover,
+    .back-to-top a:active,
+    .back-to-top a:focus {
         color: $accent;
         font-size: 2em;
         float: right;
-        text-decoration: underline;
+        text-decoration: none;
     }
 }
 
@@ -365,11 +368,14 @@ cite {
         margin-bottom: 1em;
     }
 
-    p > span > a {
+    .back-to-top a,
+    .back-to-top a:hover,
+    .back-to-top a:active,
+    .back-to-top a:focus {
         color: $accent;
         font-size: 1em;
         float: none;
-        text-decoration: underline;
+        text-decoration: none;
     }
 }
 
