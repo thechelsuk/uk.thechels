@@ -309,8 +309,10 @@ cite {
     .back-to-top a:focus {
         color: $accent;
         font-size: 2em;
-        float: right;
         text-decoration: none;
+        padding: 0.3em;
+        position: fixed;
+        inset: auto 2rem 2rem auto;
     }
 }
 
