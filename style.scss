@@ -69,13 +69,13 @@ body {
     margin: 0 auto;
     line-height: 0.5em;
     text-align: center;
+}
 
-    :hover {
-        rotate: 180deg;
-        text-decoration: none;
-        color: $secondary;
-        display: inline-block;
-    }
+.asterisk:hover {
+    rotate: 180deg;
+    text-decoration: none;
+    color: $secondary;
+    display: inline-block;
 }
 
 .blog-slogan {
