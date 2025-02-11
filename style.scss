@@ -303,7 +303,7 @@ cite {
         margin: 0 auto;
     }
 
-    p > span a {
+    p > span > a {
         color: $accent;
         font-size: 2em;
         float: right;
