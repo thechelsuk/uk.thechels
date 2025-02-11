@@ -70,11 +70,10 @@ body {
     line-height: 0.5em;
     text-align: center;
 
-    a:hover {
-        animation: rotate 1s linear infinite;
-        animation-play-state: running;
+    :hover {
+        rotate: 180deg;
         text-decoration: none;
-        color: $accent;
+        color: $secondary;
         display: inline-block;
     }
 }
