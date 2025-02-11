@@ -315,6 +315,12 @@ cite {
         margin-left: 2px;
         margin-bottom: 0px;
     }
+
+    p > span {
+        color: $accent;
+        font-size: 2em;
+        float: right;
+    }
 }
 
 #outer-wrapper:after {
@@ -375,5 +381,10 @@ cite {
 @media only screen and (min-width: 320px) and (max-width: 480px) {
     .blog-menu {
         margin-bottom: 1em;
+    }
+
+    .footer > p > span {
+        font-sie: 1em;
+        float: none;
     }
 }
