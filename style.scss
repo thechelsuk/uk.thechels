@@ -298,6 +298,8 @@ cite {
     position: fixed;
     inset: auto 1rem 1rem auto;
     display: inline-block;
+    padding: 1 rem;
+    background-color: $background;
 }
 
 .back-to-top:is(:link, :visited, :hover, :active) {
