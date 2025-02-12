@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### on Tuesday, 11 February 2025
+### on Wednesday, 12 February 2025
 
-- The average temperature today is 3.43˚C,
-- With highs of 4.43˚C and lows of 2.61˚C,
-- It may feel like 2.39˚C with overcast clouds
+- The average temperature today is 3.19˚C,
+- With highs of 3.86˚C and lows of 2.61˚C,
+- It may feel like 3.19˚C with overcast clouds
 
 <!-- weather_marker ends -->
 
@@ -24,7 +24,7 @@ No tasks today
 
 <!-- word_marker starts -->
 
- > spanghew - verb tr.: To throw violently into the air.
+ > peregrinate - verb tr., intr.: To travel, especially to wander from place to place.
 
 <!-- word_marker ends -->
 
@@ -32,20 +32,20 @@ No tasks today
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 115.17
+- VWRL.L : 114.94
 
 <!-- stocks_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 532, using [2, 2, 6, 10, 50, 75]
+- Target: 379, using [3, 4, 7, 10, 50, 75]
 <details><summary><code>Solution</code></summary>
 
 
-Solution: ( 75 + 50 + 10 - 2 ) x ( 6 - 2 )
+Solution: 75 x 50 / 10 + 7 - 3
 
-Total: 9 solutions.
+Total: 28 solutions.
 
 </details>
 
@@ -54,6 +54,6 @@ Total: 9 solutions.
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> A key goal of continuous delivery is changing the economics of the software delivery process so the cost of pushing out individual changes is very low - Accelerate
+> What got us here, won't get us there - Emma Hayes
 
 <!-- quote_marker ends -->
