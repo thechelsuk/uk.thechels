@@ -47,19 +47,12 @@ body {
     break-after: page;
 }
 
-.blog-title {
-    display: none;
-}
-
-.blog-slogan {
-    display: none;
-}
-
-.blog-menu {
-    display: none;
-}
-
-.blog-image {
+.blog-title,
+.blog-slogan,
+.blog-menu,
+.blog-image,
+.footer,
+.sr-only {
     display: none;
 }
 
@@ -238,8 +231,4 @@ cite {
 
 .content {
     position: relative;
-}
-
-.footer {
-    display: none;
 }

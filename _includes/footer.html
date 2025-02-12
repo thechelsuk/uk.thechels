@@ -3,7 +3,6 @@
 </div>
     <div class="footer">
       <div class="wrapper">
-        <p class="asterisk"><a href="#top">*</a></p>
         <p>&copy; {{ site.time | date: '%Y' }}
              {% if site.copyright %}
                {{ site.copyright }}
@@ -12,11 +11,9 @@
              {% for item in site.navigation_footer %}
              <a href="{{item.link}}">{{item.title}}</a>
              {% endfor %}
-             <span>
-                  | {% github_edit_link "Edit &raquo;" %}
-                  <a href="/#{{ site.github.build_revision }}">#</a>
-                  <a href="#top">↑</a>
-             </span>
+              | {% github_edit_link "Edit &raquo;" %}
+              <a href="/#{{ site.github.build_revision }}">#</a>
+              <a href="#top" class="back-to-top" name="back-to-top">↑</a>
         </p>
     </div>
   </div>
