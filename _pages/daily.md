@@ -69,3 +69,18 @@ Total: 4 solutions.
  - Sam Kerr cleared of all charges in Met Police harassment case
 
 <!-- news_marker ends -->
+
+### FT News
+
+<!-- ftnews_marker starts -->
+
+ - Trump and Modi discuss oil and weapons deal to boost US-India trade
+ - Euronext chief calls Trump’s economic barrage a ‘wake-up call’ to Europe
+ - Trump opens the door to Putin’s grandest ambitions
+ - Britain will not thrive in a might is right world
+ - China’s war games near Taiwan could be used to conceal attack, US says
+ - Arm to launch its own chip in move that could upend semiconductor industry
+ - Morgan Stanley pays Ted Pick $34mn in his first year as chief executive
+ - Santander explored sale of UK business with NatWest
+
+<!-- ftnews_marker ends -->
