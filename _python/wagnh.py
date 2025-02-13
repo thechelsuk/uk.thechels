@@ -9,8 +9,11 @@ if __name__ == "__main__":
     try:
         root = pathlib.Path(__file__).parent.parent.resolve()
 
-        news_feed = feedparser.parse("https://weaintgotnohistory.sbnation.com/rss/current.xml")["entries"]
-        news_headlines = "\n".join([f" - {entry['title']}" for entry in news_feed[:8]])
+        news_feed = feedparser.parse(
+            "https://weaintgotnohistory.sbnation.com/rss/current.xml"
+        )["entries"]
+        news_headlines = "\n".join(
+            [f" - {entry['title']}" for entry in news_feed[:8]])
         string = f"\n{news_headlines}\n"
         f = root / "_pages/daily.md"
         m = f.open().read()
