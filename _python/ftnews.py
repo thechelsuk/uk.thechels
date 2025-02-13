@@ -10,8 +10,7 @@ if __name__ == "__main__":
         root = pathlib.Path(__file__).parent.parent.resolve()
 
         news_feed = feedparser.parse(
-            "https://www.ft.com/?format=rss"
-        )["entries"]
+            "https://www.ft.com/?format=rss")["entries"]
         news_headlines = "\n".join(
             [f" - {entry['title']}" for entry in news_feed[:8]])
         string = f"\n{news_headlines}\n"
