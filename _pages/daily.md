@@ -57,3 +57,15 @@ Total: 4 solutions.
 > Leadership is the capacity to translate vision into reality - Warren Bennis
 
 <!-- quote_marker ends -->
+
+### CFC News
+<!-- news_marker starts -->
+
+ - Nicolas Jackson out '6-8 weeks’ as Maresca scrambles for striker solution
+ - Maresca confirms Filip Jörgensen as first-choice goalkeeper
+ - How should Chelsea line up against Brighton, again?
+ - Nicolas Jackson ruled out for six weeks with hamstring injury — report
+ - Mike Penders feels ready to compete for Chelsea starting goalkeeper job already
+ - Sam Kerr cleared of all charges in Met Police harassment case
+
+<!-- news_marker ends -->
