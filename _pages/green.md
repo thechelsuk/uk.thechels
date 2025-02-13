@@ -43,5 +43,4 @@ According to an online calculator, it estimates a gross individual use of 4.64 t
 ## Travel
 
 - Working mostly from home, but occasional trips to London for work are by train. The Trainline App reports that this journey typically saves 27kg of C0<sub>2</sub>.
-
-For all train travel since June 2021, I haves 448kg of C0<sub>2</sub>. Using 197kg compared 645kg had the journey been by car.
+- For all train travel since June 2021, I haves 448kg of C0<sub>2</sub>. Using 197kg compared 645kg had the journey been by car.
