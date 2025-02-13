@@ -288,6 +288,7 @@ cite {
     padding: 1rem;
     background-color: $background;
     border-radius: 0.5rem;
+    border: 1px solid $secondary;
 }
 
 .back-to-top:is(:link, :visited, :hover, :active) {
