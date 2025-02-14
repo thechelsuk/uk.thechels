@@ -22,7 +22,7 @@ if __name__ == "__main__":
         response_dict = json.loads(response.text)
 
         if response_dict["cod"] != 200:
-            string_today = "Weather data not available"
+            string_today = "- Weather data not available"
         else:
             d = date.today()
             output_date = d.strftime("%A, %d %B %Y")
@@ -33,7 +33,7 @@ if __name__ == "__main__":
             high_temp = str(response_dict["main"]["temp_max"])
             low_temp = str(response_dict["main"]["temp_min"])
 
-            string_today = f"### on {output_date}\n\n"
+            string_today = f"### On {output_date}\n\n"
             string_today += f"- The average temperature today is {day_temp}˚C,\n"
             string_today += f"- With highs of {high_temp}˚C and lows of {low_temp}˚C,\n"
             string_today += f"- It may feel like {feels_like}˚C with {day_desc}\n"
