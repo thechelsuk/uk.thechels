@@ -70,11 +70,11 @@ No tasks today
 
 <!-- ftnews_marker ends -->
 
-## Interesting Fact
+### Interesting Fact
 
 <!-- fact_marker starts -->
 
-The average lifespan of an eyelash is five months.
+- Mike Nesmith`s (the guitarist of The Monkeys) mom invented White Out.
 
 <!-- fact_marker ends -->
 
