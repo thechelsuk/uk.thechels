@@ -17,7 +17,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Today's tasks
 <!-- task_marker starts -->
-No tasks today
+- No tasks today
 <!-- task_marker ends -->
 
 ### Word
