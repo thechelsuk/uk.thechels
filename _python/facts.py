@@ -8,7 +8,7 @@ if __name__ == "__main__":
         response = requests.get(
             "https://uselessfacts.jsph.pl/random.json?language=en")
         fact = response.json()["text"]
-        string = f"\n{fact}\n"
+        string = f"\n- {fact}\n"
         f = root / "_pages/daily.md"
         m = f.open().read()
         c = helper.replace_chunk(m, "fact_marker", string)
