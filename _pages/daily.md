@@ -72,9 +72,11 @@ No tasks today
 
 ## Interesting Fact
 
-<!-- fact_marker starts-->
+<!-- fact_marker starts -->
 
-<!-- fact_marker ends-->
+The average lifespan of an eyelash is five months.
+
+<!-- fact_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
