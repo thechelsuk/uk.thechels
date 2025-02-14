@@ -5,7 +5,8 @@ import helper
 if __name__ == "__main__":
     try:
         root = pathlib.Path(__file__).parent.parent.resolve()
-        response = requests.get("https://uselessfacts.jsph.pl/random.json?language=en")
+        response = requests.get(
+            "https://uselessfacts.jsph.pl/random.json?language=en")
         fact = response.json()["text"]
         string = f"\n{fact}\n"
         f = root / "_pages/daily.md"
