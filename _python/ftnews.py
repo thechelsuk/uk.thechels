@@ -9,11 +9,11 @@ if __name__ == "__main__":
     try:
         root = pathlib.Path(__file__).parent.parent.resolve()
 
-        news_feed = feedparser.parse(
+        nf = feedparser.parse(
             "https://www.ft.com/?format=rss")["entries"]
-        news_headlines = "\n".join(
-            [f" - {entry['title']}" for entry in news_feed[8]])
-        string = f"\n{news_headlines}\n"
+        nh = "\n".join(
+            [f" - {entry['title']}" for entry in nf[5]])
+        string = f"\n{nh}\n"
         f = root / "_pages/daily.md"
         m = f.open().read()
         c = helper.replace_chunk(m, "ftnews_marker", string)
