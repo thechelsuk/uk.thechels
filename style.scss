@@ -192,9 +192,7 @@ ul ol {
     margin-bottom: 10px;
 }
 
-ul::marker,
-ol::marker,
-li::marker {
+ul > li::marker {
     color: $accent;
 }
 
