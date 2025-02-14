@@ -12,7 +12,7 @@ if __name__ == "__main__":
         news_feed = feedparser.parse(
             "https://www.ft.com/?format=rss")["entries"]
         news_headlines = "\n".join(
-            [f" - {entry['title']}" for entry in news_feed[15]])
+            [f" - {entry['title']}" for entry in news_feed[10]])
         string = f"\n{news_headlines}\n"
         f = root / "_pages/daily.md"
         m = f.open().read()
