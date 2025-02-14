@@ -36,21 +36,6 @@ No tasks today
 
 <!-- stocks_marker ends -->
 
-### Countdown numbers
-<!-- game_marker starts -->
-
-- Target: 185, using [2, 4, 4, 6, 6, 75]
-<details><summary><code>Solution</code></summary>
-
-
-Solution: 75 x 6 / 2 - ( 6 + 4 ) x 4
-
-Total: 4 solutions.
-
-</details>
-
-<!-- game_marker ends -->
-
 ### Quote of the day
 <!-- quote_marker starts -->
 
@@ -84,3 +69,24 @@ Total: 4 solutions.
  - Santander explored sale of UK business with NatWest
 
 <!-- ftnews_marker ends -->
+
+## Interesting Fact
+
+<!-- fact_marker starts-->
+
+<!-- fact_marker ends-->
+
+### Countdown numbers
+<!-- game_marker starts -->
+
+- Target: 185, using [2, 4, 4, 6, 6, 75]
+<details><summary><code>Solution</code></summary>
+
+
+Solution: 75 x 6 / 2 - ( 6 + 4 ) x 4
+
+Total: 4 solutions.
+
+</details>
+
+<!-- game_marker ends -->
