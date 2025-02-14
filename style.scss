@@ -182,7 +182,6 @@ ol li,
 ul li {
     margin-bottom: 7px;
     line-height: 1.4;
-    color: $accent;
 }
 
 ul ul,
@@ -191,6 +190,11 @@ ol ul,
 ul ol {
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+ul::marker,
+ol::marker,
+li::marker {
     color: $accent;
 }
 
