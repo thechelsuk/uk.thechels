@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### on Thursday, 13 February 2025
+### On Friday, 14 February 2025
 
-- The average temperature today is 3.18˚C,
-- With highs of 3.86˚C and lows of 2.61˚C,
-- It may feel like 3.18˚C with broken clouds
+- The average temperature today is 4.02˚C,
+- With highs of 4.75˚C and lows of 3.71˚C,
+- It may feel like 2.78˚C with light rain
 
 <!-- weather_marker ends -->
 
@@ -24,7 +24,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > quetch - verb intr.: 1. To twitch or stir. 2. To break the silence by uttering a sound.
+ > nidify - verb intr.: To build a nest.
 
 <!-- word_marker ends -->
 
@@ -32,26 +32,26 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 114.45
+- VWRL.L : 114.5
 
 <!-- stocks_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Leadership is the capacity to translate vision into reality - Warren Bennis
+> Great Product Owners keeps options open. - Geoff Watts
 
 <!-- quote_marker ends -->
 
 ### CFC News
 <!-- news_marker starts -->
 
+ - Brighton & Hove Albion vs. Chelsea, Premier League: Confirmed lineups; how to watch
+ - Brighton & Hove Albion 2-1 Chelsea, FA Cup:  Tactical Analysis
+ - The people’s choice against Brighton: Another chance for Nkunku
+ - Brighton & Hove Albion vs. Chelsea, Premier League: Preview, team news, how to watch
  - Nicolas Jackson out '6-8 weeks’ as Maresca scrambles for striker solution
  - Maresca confirms Filip Jörgensen as first-choice goalkeeper
- - How should Chelsea line up against Brighton, again?
- - Nicolas Jackson ruled out for six weeks with hamstring injury — report
- - Mike Penders feels ready to compete for Chelsea starting goalkeeper job already
- - Sam Kerr cleared of all charges in Met Police harassment case
 
 <!-- news_marker ends -->
 
@@ -59,14 +59,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Trump and Modi discuss oil and weapons deal to boost US-India trade
- - Euronext chief calls Trump’s economic barrage a ‘wake-up call’ to Europe
- - Trump opens the door to Putin’s grandest ambitions
- - Britain will not thrive in a might is right world
- - China’s war games near Taiwan could be used to conceal attack, US says
- - Arm to launch its own chip in move that could upend semiconductor industry
- - Morgan Stanley pays Ted Pick $34mn in his first year as chief executive
- - Santander explored sale of UK business with NatWest
+ - JD Vance hits out at Europe’s ‘threat from within’
+ - Europe must respond to Trump ‘electroshock’, says Macron
+ - China says Europeans must have role in Ukraine talks
+ - Is corporate America already souring on Trump?
+ - Forget the US — Europe has successfully put tariffs on itself
+ - The tragedy of Britain’s assisted dying debate
+ - Ken Griffin’s Citadel bets £300mn against drugmaker GSK
+ - Wall Street banks have sold almost all $12.5bn of debt tied to Elon Musk’s Twitter purchase
 
 <!-- ftnews_marker ends -->
 
@@ -81,13 +81,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 185, using [2, 4, 4, 6, 6, 75]
+- Target: 921, using [6, 9, 10, 25, 75, 100]
 <details><summary><code>Solution</code></summary>
 
 
-Solution: 75 x 6 / 2 - ( 6 + 4 ) x 4
+Solution: ( 75 / 25 + 100 ) x 9 - 6
 
-Total: 4 solutions.
+Total: 11 solutions.
 
 </details>
 
