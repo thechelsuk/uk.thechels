@@ -150,7 +150,7 @@ h6 {
     color: $primary;
     position: relative;
     display: block;
-    margin-top: 0.5em;
+    margin-top: 0.625em;
 }
 
 h1 a,
@@ -182,6 +182,7 @@ ol li,
 ul li {
     margin-bottom: 7px;
     line-height: 1.4;
+    color: $accent;
 }
 
 ul ul,
@@ -190,6 +191,7 @@ ol ul,
 ul ol {
     margin-top: 10px;
     margin-bottom: 10px;
+    color: $accent;
 }
 
 p {
