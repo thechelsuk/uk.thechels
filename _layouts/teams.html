@@ -2,11 +2,18 @@
 <h1 class="post-title">{{ page.title }}</h1>
 {% include img.html %}
 
-<p><small><b>{{ site.data.teams | size }}</b> Teams seen live.</small></p>
-{% assign sorted = site.data.teams | sort: 'title'  %}
-{% for item in sorted %}
-    <div class="posts">
-        {{item.title}}
-    </div>
-{% endfor %}
+<p>
+    <small>
+        <b>{{ site.data.teams | size }}</b>
+        Teams seen live in person.
+    </small>
+</p>
+{% assign sorted = site.data.teams | sort: 'title' %}
+<div class="posts">
+    <ul>
+        {% for item in sorted %}
+        <li>{{item.title}}</li>
+        {% endfor %}
+    </ul>
+</div>
 {% include footer.html %}
