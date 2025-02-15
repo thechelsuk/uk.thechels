@@ -7,3 +7,5 @@ vendor
 Gemfile.lock
 Gemfile
 .vscode/settings.json
+_includes/footer.html
+
