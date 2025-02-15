@@ -65,6 +65,8 @@ navigation_slashes:
     title: "Books"
   - link: "/about#colophon"
     title: "Colophon"
+  - link: "/work/public.vcf"
+    title: "Contact Card"
   - link: "/cv"
     title: "CV"
   - link: "/feed"
