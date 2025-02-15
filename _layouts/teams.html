@@ -3,9 +3,10 @@
 {% include img.html %}
 
 <p><small><b>{{ site.data.teams | size }}</b> Teams seen live.</small></p>
-{% for item in site.data.teams | sort %}
+{% assign sorted = site.data.teams | sort: 'title'  %}
+{% for item in sorted %}
     <div class="posts">
-        {{item}}
+        {{item.title}}
     </div>
 {% endfor %}
 {% include footer.html %}
