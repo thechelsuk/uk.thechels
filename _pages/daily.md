@@ -7,12 +7,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Friday, 14 February 2025
-
-- The average temperature today is 4.02˚C,
-- With highs of 4.75˚C and lows of 3.71˚C,
-- It may feel like 2.78˚C with light rain
-
+- Weather data not available
 <!-- weather_marker ends -->
 
 ### Today's tasks
@@ -39,14 +34,15 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Great Product Owners keeps options open. - Geoff Watts
+> If your actions inspire others to dream more, learn more, do more and become more, you are a leader. - John Quincy Adams
 
 <!-- quote_marker ends -->
 
 ### CFC News
 <!-- news_marker starts -->
 
- - Brighton & Hove Albion vs. Chelsea, Premier League: Confirmed lineups; how to watch
+ - Brighton & Hove Albion 3-0 Chelsea, Premier League: Post-match reaction, ratings
+ - Brighton & Hove Albion vs. Chelsea, Premier League: Live blog; highlights
  - Brighton & Hove Albion 2-1 Chelsea, FA Cup:  Tactical Analysis
  - The people’s choice against Brighton: Another chance for Nkunku
  - Brighton & Hove Albion vs. Chelsea, Premier League: Preview, team news, how to watch
@@ -60,13 +56,13 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- ftnews_marker starts -->
 
  - JD Vance hits out at Europe’s ‘threat from within’
- - Europe must respond to Trump ‘electroshock’, says Macron
- - China says Europeans must have role in Ukraine talks
  - Is corporate America already souring on Trump?
  - Forget the US — Europe has successfully put tariffs on itself
- - The tragedy of Britain’s assisted dying debate
- - Ken Griffin’s Citadel bets £300mn against drugmaker GSK
- - Wall Street banks have sold almost all $12.5bn of debt tied to Elon Musk’s Twitter purchase
+ - Smaller countries learn to hedge their bets in the age of Trump
+ - Rachel Reeves leaves door open to raising UK taxes next month
+ - Buffett’s Berkshire Hathaway slashes stakes in Bank of America and Citi
+ - Blackstone puts First Eagle up for sale for $4bn
+ - Starmer chooses AI security over ‘woke’ safety concerns to align with Trump
 
 <!-- ftnews_marker ends -->
 
@@ -74,21 +70,20 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- fact_marker starts -->
 
-- Mike Nesmith`s (the guitarist of The Monkeys) mom invented White Out.
+- Average number of days a West German goes without washing his underwear: 7
 
 <!-- fact_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 921, using [6, 9, 10, 25, 75, 100]
-<details><summary><code>Solution</code></summary>
+- Target: 550, using [3, 5, 7, 7, 9, 10]
+- Answer: 21 solutions.
 
+- <details><summary><code>Solution</code></summary>
 
-Solution: ( 75 / 25 + 100 ) x 9 - 6
+  Solution: ( 10 x 9 - 7 x 5 ) x ( 7 + 3 )
 
-Total: 11 solutions.
-
-</details>
+   </details>
 
 <!-- game_marker ends -->

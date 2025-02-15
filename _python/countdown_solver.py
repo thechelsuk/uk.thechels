@@ -40,7 +40,7 @@ def solve(arg_input, arg_target):
 
     for solution_str in unique_solutions:
         solution_list.append(solution_str)
-    summary = f"Total: {str(len(unique_solutions))} solutions."
+    summary = f"Answer: {str(len(unique_solutions))} solutions."
     return (solution_list, summary)
 
 
