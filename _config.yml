@@ -26,6 +26,16 @@ exclude:
   - requirements.txt
   - _python/
   - .github/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 include:
   - ".well-known"
   - "_pages"
@@ -33,13 +43,13 @@ include:
 # Site Navigation
 ## Header
 navigation_header:
-  - link: "https://thechels.uk/about"
+  - link: "/about"
     title: "About"
-  - link: "https://thechels.uk/cv"
+  - link: "/cv"
     title: "CV"
-  - link: "https://thechels.uk/daily"
+  - link: "/daily"
     title: "Daily"
-  - link: "https://thechels.uk/slashes"
+  - link: "/slashes"
     title: "Slashes //"
   - link: "https://decodingyourmanager.substack.com/"
     title: "SubStack &raquo;"
@@ -57,7 +67,7 @@ navigation_slashes:
     title: "Colophon"
   - link: "/cv"
     title: "CV"
-  - link: "https://thechels.uk/feed"
+  - link: "/feed"
     title: "Feed"
   - link: "/green"
     title: "Green"
@@ -71,13 +81,13 @@ navigation_slashes:
     title: "Next"
   - link: "/about#now"
     title: "Now"
-  - link: "https://thechels.uk/.well-known/privacy.txt"
+  - link: "/.well-known/privacy.txt"
     title: "Privacy"
   - link: "/podcasts"
     title: "Podcasts"
   - link: "/save"
     title: "Save"
-  - link: "https://thechels.uk/.well-known/security.txt"
+  - link: "/.well-known/security.txt"
     title: "Security"
   - link: "/sitemap"
     title: "Sitemap"
@@ -92,15 +102,15 @@ navigation_slashes:
 
 ## Footer links
 navigation_footer:
-  - link: "https://thechels.uk/feed.json"
+  - link: "/feed.json"
     title: "RSS"
-  - link: "https://thechels.uk/sitemap.xml"
+  - link: "/sitemap.xml"
     title: "Sitemap"
-  - link: "https://thechels.uk/humans.txt"
+  - link: "/humans.txt"
     title: "Humans"
-  - link: "https://thechels.uk/robots.txt"
+  - link: "/robots.txt"
     title: "Robots"
-  - link: "https://thechels.uk/.well-known/privacy.txt"
+  - link: "/.well-known/privacy.txt"
     title: "Privacy"
-  - link: "https://thechels.uk/.well-known/security.txt"
+  - link: "/.well-known/security.txt"
     title: "Security"
