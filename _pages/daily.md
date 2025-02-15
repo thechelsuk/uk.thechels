@@ -7,7 +7,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-- Weather data not available
+### On Saturday, 15 February 2025
+
+- The average temperature today is 2.89˚C,
+- With highs of 3.3˚C and lows of 2.61˚C,
+- It may feel like 2.89˚C with overcast clouds
+
 <!-- weather_marker ends -->
 
 ### Today's tasks
@@ -34,7 +39,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> If your actions inspire others to dream more, learn more, do more and become more, you are a leader. - John Quincy Adams
+> The art of leadership is saying no, not yes. It is very easy to say yes - Tony Blair
 
 <!-- quote_marker ends -->
 
@@ -77,12 +82,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 550, using [3, 5, 7, 7, 9, 10]
-- Answer: 21 solutions.
+- Target: 457, using [4, 8, 9, 10, 75, 100]
+- Answer: 11 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 10 x 9 - 7 x 5 ) x ( 7 + 3 )
+  Solution: ( 100 - 10 x 4 ) x 9 - 75 - 8
 
    </details>
 
