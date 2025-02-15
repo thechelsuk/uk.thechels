@@ -14,10 +14,10 @@ if __name__ == "__main__":
         (answers_list, summary) = countdown_solver.solve(selected, target)
         string = f"- Target: {target}, using {selected}\n"
         if answers_list:
-            string += "<details><summary><code>Solution</code></summary>\n\n"
-            string += f"\nSolution: {answers_list[0]}\n\n"
-            string += f"{summary}\n\n"
-            string += "</details>\n"
+            string += f"- {summary}\n\n"
+            string += "- <details><summary><code>Solution</code></summary>\n\n"
+            string += f"  Solution: {answers_list[0]}\n\n"
+            string += "   </details>\n"
         f = root / "_pages/daily.md"
         m = f.open().read()
         c = helper.replace_chunk(m, "game_marker", f"\n{string}")

@@ -150,7 +150,7 @@ h6 {
     color: $primary;
     position: relative;
     display: block;
-    margin-top: 1em;
+    margin-top: 0.75em;
 }
 
 h1 a,
@@ -190,6 +190,14 @@ ol ul,
 ul ol {
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+ol li::marker {
+    color: $primary;
+}
+
+ul li::marker {
+    color: $accent;
 }
 
 p {
@@ -288,6 +296,7 @@ cite {
     padding: 1rem;
     background-color: $background;
     border-radius: 0.5rem;
+    border: 1px solid #dbd9d9;
 }
 
 .back-to-top:is(:link, :visited, :hover, :active) {

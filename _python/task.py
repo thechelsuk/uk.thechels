@@ -18,9 +18,9 @@ if __name__ == "__main__":
         if helper.is_tuesday(working_date):
             string += "- Food Waste Collection Day\n"
         if string == "":
-            string = "No tasks today"
+            string = "- No tasks today"
         root = pathlib.Path(__file__).parent.parent.resolve()
-        f = root / "_pages/morning.md"
+        f = root / "_pages/daily.md"
         m = f.open().read()
         c = helper.replace_chunk(m, "task_marker", string)
         f.open("w").write(c)
