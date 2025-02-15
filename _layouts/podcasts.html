@@ -8,14 +8,11 @@
     </small>
 </p>
 {% assign sorted = site.data.podcasts | sort: 'name' %}
-<div class="posts">
-    <ul>
-        {% for item in sorted %}
-        <li>
-            <a href="{{item.link}}">{{item.name}} &rarr;</a>
-        </li>
-        {% endfor %}
-    </ul>
-</div>
-
+<ul>
+    {% for item in sorted %}
+    <li>
+        <a href="{{item.link}}">{{item.name}} &rarr;</a>
+    </li>
+    {% endfor %}
+</ul>
 {% include footer.html %}

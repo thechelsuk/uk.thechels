@@ -9,11 +9,9 @@
     </small>
 </p>
 {% assign sorted = site.data.teams | sort: 'title' %}
-<div class="posts">
-    <ul>
-        {% for item in sorted %}
-        <li>{{item.title}}</li>
-        {% endfor %}
-    </ul>
-</div>
+<ul>
+    {% for item in sorted %}
+    <li>{{item.title}}</li>
+    {% endfor %}
+</ul>
 {% include footer.html %}
