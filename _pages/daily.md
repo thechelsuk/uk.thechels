@@ -9,9 +9,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- weather_marker starts -->
 ### On Sunday, 16 February 2025
 
-- The average temperature today is 2.2˚C,
-- With highs of 2.75˚C and lows of 1.58˚C,
-- It may feel like -1.59˚C with overcast clouds
+- The average temperature today is 2.4˚C,
+- With highs of 2.75˚C and lows of 2.05˚C,
+- It may feel like -0.69˚C with scattered clouds
 
 <!-- weather_marker ends -->
 
@@ -39,19 +39,19 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Anyone who has never made a mistake has never tried anything new - Albert Einstein
+> Failure is simply the opportunity to begin again, this time more intelligently - Henry Ford
 
 <!-- quote_marker ends -->
 
 ### CFC News
 <!-- news_marker starts -->
 
+ - Brighton & Hove Albion 3-0 Chelsea, Player Ratings: Lowest lows
  - Chelsea FCW vs. Everton FCW, Women’s Super League: Preview, team news, how to watch
  - Juventus happy with Renato Veiga impact
  - Maresca: ‘The desire we showed was not enough’
  - Brighton & Hove Albion 3-0 Chelsea, Premier League: Post-match reaction, ratings
  - Brighton & Hove Albion vs. Chelsea, Premier League: Live blog; highlights
- - Brighton & Hove Albion 2-1 Chelsea, FA Cup:  Tactical Analysis
 
 <!-- news_marker ends -->
 
@@ -66,7 +66,7 @@ seo: Good Morning Mat, Here is your daily briefing
  - The exasperating state of modern marketing
  - The rights and wrongs of politicians ‘doing God’
  - UK housing market debt falls as older generations pay off mortgages
- - How the UK’s competition regulator lost the trust of ministers
+ - UBS offers sabbatical perk to former Credit Suisse staff only
 
 <!-- ftnews_marker ends -->
 
@@ -81,12 +81,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 263, using [1, 3, 5, 9, 50, 100]
+- Target: 411, using [2, 2, 4, 8, 9, 75]
 - Answer: 10 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 - 50 ) x 5 + 9 + 3 + 1
+  Solution: ( 8 + 2 ) x 75 / 2 + 9 x 4
 
    </details>
 
