@@ -2,27 +2,25 @@ name: Lighthouse
 on: [pull_request, workflow_dispatch]
 
 jobs:
-  lighthouse:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v4
-    - name: Lighthouse
-      uses: foo-software/lighthouse-check-action@master
-      id: lighthouseCheck
-      with:
-          urls: "https://thechels.uk,htttps://thechels.uk/about,https://thechels.uk/daily"
-    - name: Verify Lighthouse Check results
-      uses: foo-software/lighthouse-check-status-action@master
-      with:
-        Device: all
-        gitAuthor: "${{ github.actor }}"
-        gitBranch: "${{ github.ref }}"
-        gitHubAccessToken: "${{ secrets.GITHUB_TOKEN }}"
-        minAccessibilityScore: "95"
-        minBestPracticesScore: "95"
-        minPerformanceScore: "95"
-        minProgressiveWebAppScore: "25"
-        minSeoScore: "90"
-        lighthouseCheckResults: ${{ steps.lighthouseCheck.outputs.lighthouseCheckResults }}
-        
-          
+    lighthouse:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+            - name: Lighthouse
+              uses: foo-software/lighthouse-check-action@master
+              id: lighthouseCheck
+              with:
+                  urls: "https://thechels.uk,htttps://thechels.uk/about,https://thechels.uk/daily"
+                  gitAuthor: "${{ github.actor }}"
+                  gitBranch: "${{ github.ref }}"
+                  gitHubAccessToken: "${{ secrets.GITHUB_TOKEN }}"
+                  device: all
+            - name: Verify Lighthouse Check results
+              uses: foo-software/lighthouse-check-status-action@master
+              with:
+                  minAccessibilityScore: "95"
+                  minBestPracticesScore: "95"
+                  minPerformanceScore: "95"
+                  minProgressiveWebAppScore: "25"
+                  minSeoScore: "90"
+                  lighthouseCheckResults: ${{ steps.lighthouseCheck.outputs.lighthouseCheckResults }}
