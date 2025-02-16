@@ -1,5 +1,9 @@
 ---
 name: Add Book
+permissions:
+    issues: write
+    contents: read
+    pull-requests: write
 on:
     issues:
         types: [labeled, edited]
