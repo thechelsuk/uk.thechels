@@ -68,21 +68,21 @@ body {
     margin: 0 auto;
     line-height: 0.5em;
     text-align: center;
-}
 
-.asterisk:hover {
-    rotate: 180deg;
-    text-decoration: none;
-    color: $secondary;
-    display: inline-block;
+    &:hover {
+        rotate: 180deg;
+        transition: color 1s ease-in-out;
+        text-decoration: none;
+        color: $secondary;
+        display: inline-block;
+    }
 }
 
 .blog-slogan {
     color: $secondary;
     margin: 0 0 0 2px;
-    color: $secondary;
     display: block;
-    font-size: 12px;
+    font-size: 1em;
 }
 
 .blog-menu {
@@ -105,10 +105,11 @@ body {
     width: 72px;
     margin-top: 0;
     background: url("images/me72.png") no-repeat;
-}
 
-.blog-image:hover {
-    background: url("images/me72-hover.png") no-repeat;
+    &:hover {
+        background: url("images/me72-hover.png") no-repeat;
+        transition: all 2s ease-in-out 0.5s;
+    }
 }
 
 .meta {
@@ -150,6 +151,11 @@ h6 {
     position: relative;
     display: block;
     margin-top: 0.75em;
+
+    &:hover::after {
+            content: " #";
+            color: $accent;
+        }
 }
 
 h1 a,
@@ -160,21 +166,13 @@ h5 a,
 h6 a {
     text-decoration: none;
     color: $primary;
-}
 
-h1:hover a,
-h2:hover a,
-h3:hover a,
-h4:hover a,
-h5:hover a,
-h6:hover a,
-h1:focus a,
-h2:focus a,
-h3:focus a,
-h4:focus a,
-h5:focus a,
-h6:focus a {
-    text-decoration: none;
+    &:hover {
+        text-decoration: none;
+    }
+    &:focus {
+        text-decoration: none;
+    }
 }
 
 ol li,
@@ -205,12 +203,14 @@ p {
 
 a {
     color: $links;
-}
 
-a:hover,
-a:focus,
-a:active {
-    text-decoration: underline;
+    &:hover,
+    &:focus,
+    &:active {
+        color: $accent;
+        transition: color 4s ease-in-out;
+        text-decoration: underline;
+    }
 }
 
 img {
