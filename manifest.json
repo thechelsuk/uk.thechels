@@ -1,6 +1,7 @@
 {
   "name": "Mat B",
   "short_name": "Mat B",
+  "description": "A working out loud, public second brain",
   "theme_color": "#005ca3",
   "background_color": "#ffffff",
   "display": "standalone",
@@ -12,7 +13,8 @@
     {
       "src": "/images/splashscreens/apple-touch-icon-512x512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any"
     },
     {
       "src": "/images/splashscreens/manifest-icon-512.maskable.png",
