@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Saturday, 15 February 2025
+### On Sunday, 16 February 2025
 
-- The average temperature today is 2.89˚C,
-- With highs of 3.3˚C and lows of 2.61˚C,
-- It may feel like 2.89˚C with overcast clouds
+- The average temperature today is 2.2˚C,
+- With highs of 2.75˚C and lows of 1.58˚C,
+- It may feel like -1.59˚C with overcast clouds
 
 <!-- weather_marker ends -->
 
@@ -39,20 +39,19 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The art of leadership is saying no, not yes. It is very easy to say yes - Tony Blair
+> Anyone who has never made a mistake has never tried anything new - Albert Einstein
 
 <!-- quote_marker ends -->
 
 ### CFC News
 <!-- news_marker starts -->
 
+ - Chelsea FCW vs. Everton FCW, Women’s Super League: Preview, team news, how to watch
+ - Juventus happy with Renato Veiga impact
+ - Maresca: ‘The desire we showed was not enough’
  - Brighton & Hove Albion 3-0 Chelsea, Premier League: Post-match reaction, ratings
  - Brighton & Hove Albion vs. Chelsea, Premier League: Live blog; highlights
  - Brighton & Hove Albion 2-1 Chelsea, FA Cup:  Tactical Analysis
- - The people’s choice against Brighton: Another chance for Nkunku
- - Brighton & Hove Albion vs. Chelsea, Premier League: Preview, team news, how to watch
- - Nicolas Jackson out '6-8 weeks’ as Maresca scrambles for striker solution
- - Maresca confirms Filip Jörgensen as first-choice goalkeeper
 
 <!-- news_marker ends -->
 
@@ -60,14 +59,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - JD Vance hits out at Europe’s ‘threat from within’
- - Is corporate America already souring on Trump?
- - Forget the US — Europe has successfully put tariffs on itself
- - Smaller countries learn to hedge their bets in the age of Trump
- - Rachel Reeves leaves door open to raising UK taxes next month
- - Buffett’s Berkshire Hathaway slashes stakes in Bank of America and Citi
- - Blackstone puts First Eagle up for sale for $4bn
- - Starmer chooses AI security over ‘woke’ safety concerns to align with Trump
+ - Ukraine rejects Trump bid to take rights to half its mineral reserves
+ - Marco Rubio speaks with Sergei Lavrov ahead of US-Russia talks next week
+ - US demands Europe sets out arms and troops support for postwar Ukraine
+ - End of an era? Germany in disarray as US scolds staunchest European ally
+ - The exasperating state of modern marketing
+ - The rights and wrongs of politicians ‘doing God’
+ - UK housing market debt falls as older generations pay off mortgages
+ - How the UK’s competition regulator lost the trust of ministers
 
 <!-- ftnews_marker ends -->
 
@@ -82,12 +81,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 457, using [4, 8, 9, 10, 75, 100]
-- Answer: 11 solutions.
+- Target: 263, using [1, 3, 5, 9, 50, 100]
+- Answer: 10 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 - 10 x 4 ) x 9 - 75 - 8
+  Solution: ( 100 - 50 ) x 5 + 9 + 3 + 1
 
    </details>
 
