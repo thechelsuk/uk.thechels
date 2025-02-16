@@ -1,4 +1,4 @@
-name: Add a Book 5
+name: Book Manager
 run-name: 📚 ${{ inputs['book-status'] }} book ${{ inputs.identifier }}
 
 # Grant the action permission to write to the repository
@@ -10,15 +10,11 @@ permissions:
 on:
     workflow_dispatch:
         inputs:
-            book-status:
-                description: What is the status of the book? Required.
-                required: true
-                default: "finished"
             date:
                 description: Date to record the status of the book (YYYY-MM-DD). Leave blank for today. Optional.
                 type: string
             identifier:
-                description: The book's identifier. This is an ISBN, Libby or Libro.fm share URL. Required.
+                description: The book's identifier. This is an ISBN, share URL. Required.
                 # Example values: 9780062315007
                 required: true
                 type: string
@@ -37,7 +33,11 @@ jobs:
               with:
                   set-image: true
               uses: library-pals/read-action@v9.5.0
-
+              env:
+                  BOOK_STATUS: "Finished"
+                  BOOK_DATE: ${{ inputs.date }}
+                  BOOK_IDENTIFIER: ${{ inputs.identifier }}
+                  BOOK_FILENAME: "_data/read.yml"
             - name: Download the book thumbnail
               if: env.BookThumbOutput != ''
               run: curl "${{ env.BookThumb }}" -o "img/${{ env.BookThumbOutput }}"
