@@ -1,5 +1,6 @@
 name: Lighthouse
 on: [pull_request, workflow_dispatch]
+
 jobs:
   lighthouse:
     runs-on: ubuntu-latest
@@ -7,14 +8,21 @@ jobs:
     - uses: actions/checkout@v4
     - name: Lighthouse
       uses: foo-software/lighthouse-check-action@master
+      id: lighthouseCheck
+      with:
+          urls: "https://thechels.uk,htttps://thechels.uk/about,https://thechels.uk/daily"
+    - name: Verify Lighthouse Check results
+      uses: foo-software/lighthouse-check-status-action@master
       with:
         Device: all
         gitAuthor: "${{ github.actor }}"
         gitBranch: "${{ github.ref }}"
         gitHubAccessToken: "${{ secrets.GITHUB_TOKEN }}"
-        minAccessibilityScore: "90"
-        minBestPracticesScore: "90"
-        minPerformanceScore: "90"
+        minAccessibilityScore: "95"
+        minBestPracticesScore: "95"
+        minPerformanceScore: "95"
         minProgressiveWebAppScore: "25"
         minSeoScore: "90"
-        urls: "https://thechels.uk"
+        lighthouseCheckResults: ${{ steps.lighthouseCheck.outputs.lighthouseCheckResults }}
+        
+          
