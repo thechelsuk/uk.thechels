@@ -2,7 +2,7 @@
 name: Add Book
 permissions:
     issues: write
-    contents: read
+    contents: write
     pull-requests: write
 on:
     issues:
@@ -13,6 +13,7 @@ env:
     issue_number: ${{ github.event.issue.number || '' }}
     actor: ${{ github.actor || '' }}
     owner: ${{ github.repository_owner || '' }}
+    token: ${{ secrets.ACTION_TOKEN }}
 jobs:
     Checks:
         if: contains( github.event.issue.labels.*.name, 'read')
