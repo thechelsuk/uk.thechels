@@ -35,3 +35,4 @@ jobs:
                   emoji: true
                   verbose: false
                   job-summary: true
+                  report-title: "Test Report"
