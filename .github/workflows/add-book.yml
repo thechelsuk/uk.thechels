@@ -9,6 +9,10 @@ env:
     issue_number: ${{ github.event.issue.number || '' }}
     actor: ${{ github.actor || '' }}
     owner: ${{ github.repository_owner || '' }}
+    BookThumb: ${{ github.event.issue.body  || '' }}
+    BookThumbOutput: ${{ github.event.issue.body || '' }}
+    BookTitle: ${{ github.event.issue.title || '' }}
+    DateRead: ${{ github.event.issue.created_at || '' }}
 jobs:
     Checks:
         if: contains( github.event.issue.labels.*.name, 'read')
@@ -38,5 +42,5 @@ jobs:
             - name: Close issue
               uses: peter-evans/close-issue@v3
               with:
-                  issue-number: "${{ env.IssueNumber }}"
+                  issue-number: "${{ env.issue_number }}"
                   comment: "📚 You read ${{ env.BookTitle }} on ${{env.DateRead}}."
