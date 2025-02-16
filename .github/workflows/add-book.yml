@@ -31,9 +31,7 @@ jobs:
             - name: Read
               uses: mat-0/read-action@main
               with:
-                  readFileName: '_data/read.yml'
-                  providers: 'goob,openl,ismn'
-                  token: ${{ secrets.GITHUB_TOKEN }}
+                  title: ${{github.event.issue.title}}
             - name: Download the book thumbnail
               run: curl "${{env.BookThumb}}" -o "images/books/${{env.BookThumbOutput}}"
             - name: Commit files
