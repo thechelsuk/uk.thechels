@@ -9,9 +9,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- weather_marker starts -->
 ### On Monday, 17 February 2025
 
-- The average temperature today is -1.11˚C,
-- With highs of -0.57˚C and lows of -2.31˚C,
-- It may feel like -2.74˚C with few clouds
+- The average temperature today is 4.82˚C,
+- With highs of 6.03˚C and lows of 4.41˚C,
+- It may feel like 1.57˚C with few clouds
 
 <!-- weather_marker ends -->
 
@@ -33,27 +33,26 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 114.5
+- VWRL.L : 114.94031
 
 <!-- stocks_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The single biggest way to impact an organization is to focus on leadership development. There is almost no limit to the potential of an organization that recruits good people, raises them up as leaders and continually develops them - John Maxwell
+> A great ScrumMaster will become dispensable and wanted by the team - Geoff Watts
 
 <!-- quote_marker ends -->
 
 ### CFC News
 <!-- news_marker starts -->
 
+ - Deivid Washington leads Brazil to South American U20 Championship title
  - Chelsea want ‘period of adaptation’ for Kendry Páez prior to joining officially
  - Chelsea 2-1 Everton, Women’s Super League: Post-match reaction
  - WATCH: Mayra Ramírez equalises for Chelsea against Everton! 1-1!
  - Chelsea vs. Everton, Women’s Super League: Confirmed lineups; how to watch
  - Brighton & Hove Albion 3-0 Chelsea, Player Ratings: Lowest lows
- - Chelsea FCW vs. Everton FCW, Women’s Super League: Preview, team news, how to watch
- - Juventus happy with Renato Veiga impact
 
 <!-- news_marker ends -->
 
@@ -62,13 +61,13 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- ftnews_marker starts -->
 
  - Costa says Europe needs to negotiate ‘new security architecture’ with Russia
- - Europe scrambles to respond as US and Russia prepare for Ukraine peace talks
+ - European defence shares surge as investors bet on higher spending
  - China’s unspoken question: who will succeed Xi Jinping?
- - We must fund oppositions properly to save democracy
- - Iceland chair and Labour backer gives Starmer government ‘6 out of 10’
- - Starmer offers to put British ‘boots on the ground’ in Ukraine
- - Reeves faces bigger UK budget threat as OBR attacked for bullish forecasts
- - Treasury seeks clarity on cost of Thames Water renationalisation
+ - Vance’s real warning to Europe
+ - Gen Z has turned against taking middle management roles
+ - Trump administration pressures Romania to lift restrictions on Tate brothers
+ - US and Russian officials to meet in Saudi Arabia
+ - Tesla braces for delay to China licence as Trump trade tensions mount
 
 <!-- ftnews_marker ends -->
 
@@ -76,19 +75,19 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- fact_marker starts -->
 
-- Average number of days a West German goes without washing his underwear: 7
+- WWII fighter pilots in the South Pacific armed their airplanes while stationed with .50 caliber machine gun ammo belts measuring 27 feet before being loaded into the fuselage. If the pilots fired all their ammo at a target, he went through "the whole 9 yards", hence the term.
 
 <!-- fact_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 354, using [3, 3, 4, 7, 50, 75]
-- Answer: 32 solutions.
+- Target: 532, using [4, 5, 7, 7, 50, 100]
+- Answer: 8 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 50 - 7 ) x ( 4 - 3 / 3 )
+  Solution: ( 100 + 7 ) x 5 + 4 - 7
 
    </details>
 
