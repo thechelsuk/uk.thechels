@@ -40,6 +40,7 @@ jobs:
               id: read_action
               with:
                   set-image: true
+                  filename: "library.json"
               uses: library-pals/read-action@v9.5.0
 
             - name: Download the book thumbnail
