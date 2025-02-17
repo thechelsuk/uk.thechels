@@ -1,0 +1,27 @@
+{% include header.html %}
+<h1 class="post-title">{{ page.title }}</h1>
+{% include img.html %}
+<p>
+  <small>
+    <b>{{ site.data.films | size }}</b>
+    Films watched.
+  </small>
+</p>
+{% assign sorted = site.data.films | sort: 'Rating' | reverse %}
+<table class="table-striped">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Rating</th>
+      <th>Year</th>
+    </tr>
+  </thead>
+  {% for item in sorted %}
+  <tr>
+    <td class="{{item.Imdb}}">{{item.Title}}</td>
+    <td>{{item.Rating}}</td>
+    <td>{{item.Year}}</td>
+  </tr>
+  {% endfor %}
+</table>
+{% include footer.html %}

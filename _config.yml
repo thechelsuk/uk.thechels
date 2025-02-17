@@ -71,6 +71,8 @@ navigation_slashes:
     title: "CV"
   - link: "/feed"
     title: "Feed"
+  - link: "films"
+    title: "Films"
   - link: "/green"
     title: "Green"
   - link: "/teams"
