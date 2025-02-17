@@ -36,6 +36,7 @@ jobs:
                   python '_python/word.py'
                   python '_python/wagnh.py'
                   python '_python/ftnews.py'
+                  python '_python/facts.py'
             - name: Commit and push
               run: |-
                   git diff
