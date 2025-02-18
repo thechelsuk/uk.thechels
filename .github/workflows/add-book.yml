@@ -11,6 +11,10 @@ on:
                 type: string
 env:
     token: ${{ secrets.ACTION_TOKEN }}
+    issue_number: 241
+    actor: ${{ github.actor }}
+    owner: ${{ github.repository_owner }}
+
 jobs:
     Build:
         if: ${{ github.actor == github.repository_owner }}
