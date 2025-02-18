@@ -29,8 +29,8 @@ You'll have to do a bit of homework prior to every one on one, especially if you
 
 3. Set an agenda. You have to understand what's going on within your team so that you can use one on ones effectively. One on ones are a collaborative effort and agenda items will be based on concerns from you and from your employee. Ask one of these questions at least a day before the meeting:
 
-  - "What do you want to discuss in our next one on one meeting?"
-  - "What challenges are you facing?"
+   - "What do you want to discuss in our next one on one meeting?"
+   - "What challenges are you facing?"
 
 4. Create a plan. Managers, it's up to you to help employees bridge the gap between where they are and where they could be. Think about the behaviors of your employee and what could be standing in their way of success.
 

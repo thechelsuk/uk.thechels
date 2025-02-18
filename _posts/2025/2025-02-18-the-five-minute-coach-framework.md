@@ -32,7 +32,7 @@ If I ask you any questions that seem unusual or odd, just answer with the first 
 
 Once we start, I won't answer any questions as that will interrupt the flow. So… Is there anything you'd like to ask me now?
 
- **Remember** :
+ Remember:
 
 1. Play close attention
 2. Use only the five-minute coach questions
