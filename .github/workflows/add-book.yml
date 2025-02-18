@@ -30,7 +30,7 @@ jobs:
             - name: Checkout
               uses: actions/checkout@v4
             - name: Read
-              uses: mat-0/read-action@2.1.0
+              uses: mat-0/read-action@main
             - name: Download the book thumbnail
               run: curl "${{env.BookThumb}}" -o "images/books/${{env.BookThumbOutput}}"
             - name: Commit files
