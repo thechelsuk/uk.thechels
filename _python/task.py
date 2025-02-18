@@ -17,6 +17,8 @@ if __name__ == "__main__":
             string += "- Refuse Waste Collection Day\n"
         if helper.is_tuesday(working_date):
             string += "- Food Waste Collection Day\n"
+        if helper.is_water_the_plants_day(working_date):
+            string += "- Water the plants\n"
         if string == "":
             string = "- No tasks today"
         root = pathlib.Path(__file__).parent.parent.resolve()
