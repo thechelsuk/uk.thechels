@@ -51,4 +51,4 @@ jobs:
             - name: Check out Repo
               uses: actions/checkout@v4
             - name: Call Deployment Workflow
-              uses: ./deployment.yml
+              uses: ./.github/workflows/deployment.yml
