@@ -9,7 +9,7 @@ cited: Build The Stage
 
 > Putting words together to give positive feedback is hard! You know the emotions you feel but lack the words.
 >
-> o organize my thoughts, I use the <abbr>SBIR</abbr> Framework. This acronym defines the structure of how to deliver positive feedback:
+> organize my thoughts, I use the <abbr>SBIR</abbr> Framework. This acronym defines the structure of how to deliver positive feedback:
 >
 > - Situation: State the specific situation where you observed the behaviour.
 > - Behaviour: Explain the precise behaviour you saw.
