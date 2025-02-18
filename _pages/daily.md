@@ -7,17 +7,18 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Monday, 17 February 2025
+### On Tuesday, 18 February 2025
 
-- The average temperature today is 4.82˚C,
-- With highs of 6.03˚C and lows of 4.41˚C,
-- It may feel like 1.57˚C with few clouds
+- The average temperature today is 0.36˚C,
+- With highs of 0.85˚C and lows of -1.2˚C,
+- It may feel like -3.54˚C with overcast clouds
 
 <!-- weather_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
@@ -25,7 +26,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > onolatry - noun: 1. Worship of the donkey or ass. 2. Devotion to foolishness.
+ > grizzle - verb tr.: To make gray. verb intr.: 1. To turn gray. 2. To fuss; to gripe or grumble. noun: 1. An animal with gray or grizzled fur. 2. Gray hair. adjective: 1. Having gray hair. 2. Gray.
 
 <!-- word_marker ends -->
 
@@ -33,20 +34,21 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 114.94031
+- VWRL.L : 114.86
 
 <!-- stocks_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> A great ScrumMaster will become dispensable and wanted by the team - Geoff Watts
+> A great ScrumMaster grasps the skills and mindset of the role. - Geoff Watts
 
 <!-- quote_marker ends -->
 
 ### CFC News
 <!-- news_marker starts -->
 
+ - Santos, Chelsea agree Deivid Washington loan — report
  - Deivid Washington leads Brazil to South American U20 Championship title
  - Chelsea want ‘period of adaptation’ for Kendry Páez prior to joining officially
  - Chelsea 2-1 Everton, Women’s Super League: Post-match reaction
@@ -60,14 +62,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Costa says Europe needs to negotiate ‘new security architecture’ with Russia
- - European defence shares surge as investors bet on higher spending
- - China’s unspoken question: who will succeed Xi Jinping?
- - Vance’s real warning to Europe
- - Gen Z has turned against taking middle management roles
- - Trump administration pressures Romania to lift restrictions on Tate brothers
- - US and Russian officials to meet in Saudi Arabia
- - Tesla braces for delay to China licence as Trump trade tensions mount
+ - US and Russia prepare to hold talks on ending war in Ukraine
+ - European countries clash over sending troops to Ukraine
+ - Apple’s quiet pivot to India
+ - Paul Weiss’s legal raid on London is a boost for the City
+ - The Ukrainian mineral riches in Trump’s sights
+ - HMRC ditches crackdown on private equity tax
+ - Reeves to order audit of UK’s 130 regulators in bid to cut red tape
+ - Memecoin scandal rocks Argentina’s Milei
 
 <!-- ftnews_marker ends -->
 
@@ -75,19 +77,19 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- fact_marker starts -->
 
-- WWII fighter pilots in the South Pacific armed their airplanes while stationed with .50 caliber machine gun ammo belts measuring 27 feet before being loaded into the fuselage. If the pilots fired all their ammo at a target, he went through "the whole 9 yards", hence the term.
+- One of the reasons marijuana is illegal today is because cotton growers in the 1930s lobbied against hemp farmers they saw it as competition.
 
 <!-- fact_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 532, using [4, 5, 7, 7, 50, 100]
-- Answer: 8 solutions.
+- Target: 278, using [2, 6, 25, 50, 75, 100]
+- Answer: 15 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 7 ) x 5 + 4 - 7
+  Solution: 100 x 75 / 25 - ( 50 - 6 ) / 2
 
    </details>
 
