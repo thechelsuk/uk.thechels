@@ -129,6 +129,7 @@ def is_tuesday(today) -> bool:
     """Returns true if a date is Tuesday"""
     return get_day_of_the_week(today) == "Tuesday"
 
+
 def is_saturday(today) -> bool:
     """Returns true if a date is Saturday"""
     return get_day_of_the_week(today) == "Saturday"
@@ -153,6 +154,7 @@ def is_refuse_waste_day(today) -> bool:
     if is_tuesday(today) and is_week_two(get_week_number(today)):
         return True
     return False
+
 
 def is_water_the_plants_day(today) -> bool:
     """Returns true if a date is Saturday and is week two"""
