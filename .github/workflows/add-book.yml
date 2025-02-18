@@ -1,31 +1,27 @@
 ---
 name: Add Book
-permissions:
-    contents: write
 on:
+    issues:
+        types: [labeled, edited]
     workflow_dispatch:
         inputs:
-            identifier:
-                description: The book's identifier. This is an ISBN
-                # Example values: 0780062315007
-                type: string
+            Identifier:
+                description: "ISBN"
+                required: false
 env:
-    token: ${{ secrets.ACTION_TOKEN }}
-    issue_number: 241
+    content: ${{ github.event.issue.body }}
+    label: ${{ github.event.label.name }}
+    issue_number: ${{ github.event.issue.number || 241 }}
     actor: ${{ github.actor }}
     owner: ${{ github.repository_owner }}
-
 jobs:
     Build:
-        if: ${{ github.actor == github.repository_owner }}
         runs-on: macOS-latest
         steps:
             - name: Checkout
               uses: actions/checkout@v4
             - name: Read
-              uses: mat-0/read-action@main
-              with:
-                  readFileName: "_data/read.yml"
+              uses: mat-0/read-action@1.0.1
             - name: Download the book thumbnail
               run: curl "${{env.BookThumb}}" -o "images/books/${{env.BookThumbOutput}}"
             - name: Commit files
