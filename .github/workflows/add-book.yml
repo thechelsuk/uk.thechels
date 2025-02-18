@@ -16,7 +16,15 @@ env:
     owner: ${{ github.repository_owner }}
     github_token: ${{ secrets.GITHUB_TOKEN }}
 jobs:
+    Checks:
+        if: contains( github.event.issue.labels.*.name, 'read')
+        runs-on: ubuntu-latest
+        steps:
+            - name: Echo
+              run: echo "Label is $label"
     Build:
+        needs: Checks
+        if: ${{ github.actor == github.repository_owner }}
         runs-on: macOS-latest
         steps:
             - name: Checkout
