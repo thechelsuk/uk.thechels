@@ -21,3 +21,5 @@ title: Energy Investment Model
 ## Deadwood
 
 > Sometimes noted as victims. These people have the deadly combination of a bad attitude and low energy expenditures. They often do little more than take up space and occupy slots on the organization chart. Turning them around is the most difficult task of all because both attitude and energy expenditures must be raised.
+
+![Energy Investment Model](/images/energy-investment-model.png)
