@@ -19,7 +19,7 @@ jobs:
             - name: Checkout
               uses: actions/checkout@v4
             - name: Read
-              uses: mat-0/read-action@1.0.0
+              uses: mat-0/read-action@main
               with:
                   readFileName: "_data/read.yml"
             - name: Download the book thumbnail
