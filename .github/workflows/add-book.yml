@@ -1,0 +1,27 @@
+---
+name: Add Book
+permissions:
+    contents: write
+on:
+    workflow_dispatch:
+env:
+    token: ${{ secrets.ACTION_TOKEN }}
+jobs:
+    Build:
+        if: ${{ github.actor == github.repository_owner }}
+        runs-on: macOS-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+            - name: Read
+              uses: mat-0/read-action@1.0.0
+              with:
+                  readFileName: "_data/read.yml"
+            - name: Download the book thumbnail
+              run: curl "${{env.BookThumb}}" -o "images/books/${{env.BookThumbOutput}}"
+            - name: Commit files
+              run: |
+                  git config --local user.email "action@github.com"
+                  git config --local user.name "GitHub Action"
+                  git add -A && git commit -m "Added ${{ env.BookTitle }}"
+                  git push
