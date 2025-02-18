@@ -1,48 +1,11 @@
 ---
-layout: pages
+layout: slashes
 title: Slash Pages
 permalink: /slashes
 seo: Slash Pages
 
 ---
 
-## / About
+Slash pages are a set of commonly named pages often found on the indie web. see [slash pages](https://slashpages.net) for more.
 
-[About](/about)
-
-## / Avatar
-
-[Avatar](/.well-known/avatar.png)
-
-## / Colophon
-
-[Colophon](/about#colophon)
-
-## / Now
-
-[Now](/about#now)
-
-## / Podroll
-
-[Podroll](/podcassts)
-
-## / Save
-
-[Save](/save)
-
-## / Sitemap
-
-[Sitemap](/sitemap)
-
-## / Tip
-
-[Tip &raquo;](https://ko-fi.com/thechelsuk)
-
-
-## / Use
-
-[Uses](/uses)
-
-## / Verify
-
-[Verify](/verify)
+Here is my take with a few additional items that might catch on.

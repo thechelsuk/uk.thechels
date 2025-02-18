@@ -1,10 +1,18 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
-{% include menu.html %}
-<p><small><b>{{ site.data.podcasts | size }}</b> podcast subscriptions.</small></p>
-{% for item in site.data.podcasts  %}
-  <div class="posts">
-      {{item.name}} <span class="meta"><a href="{{item.link}}">Feed &rarr;</a></span>
-  </div>
-{% endfor %}
+{% include img.html %}
+<p>
+    <small>
+        <b>{{ site.data.podcasts | size }}</b>
+        podcast subscriptions.
+    </small>
+</p>
+{% assign sorted = site.data.podcasts | sort: 'name' %}
+<ul>
+    {% for item in sorted %}
+    <li>
+        <a href="{{item.link}}">{{item.name}} &raquo;</a>
+    </li>
+    {% endfor %}
+</ul>
 {% include footer.html %}

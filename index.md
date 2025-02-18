@@ -1,6 +1,6 @@
 ---
 layout: index
 title: Recent
-seo: Recent Articles about stuff and things on Weak Notes.
+seo: A working out loud public second brain blog from Mat, your favourite engineering leader.
 
 ---

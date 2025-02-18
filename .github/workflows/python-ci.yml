@@ -1,37 +1,38 @@
 ---
 name: Python CI
 on:
-  pull_request:
-    paths:
-      - "_python/*"
-  push:
-    paths:
-      - "_python/*"
-  workflow_dispatch:
+    pull_request:
+        paths:
+            - "_python/*"
+    push:
+        paths:
+            - "_python/*"
+    workflow_dispatch:
 
 jobs:
-  python_testing:
-    name: Python Testing
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: ["3.8", "3.9", "3.10", "3.13.1"]
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+    python_testing:
+        name: Python Testing
+        runs-on: ubuntu-latest
+        strategy:
+            matrix:
+                python-version: ["3.8", "3.9", "3.10", "3.13.1"]
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
 
-      - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v5
-        with:
-          python-version: ${{ matrix.python-version }}
+            - name: Set up Python ${{ matrix.python-version }}
+              uses: actions/setup-python@v5
+              with:
+                  python-version: ${{ matrix.python-version }}
 
-      - name: Install Python Dependencies
-        run: python -m pip install -r requirements.txt --quiet
-        working-directory: ./_python
+            - name: Install Python Dependencies
+              run: python -m pip install -r requirements.txt --quiet
+              working-directory: ./_python
 
-      - name: Run Tests
-        uses: pavelzw/pytest-action@v2
-        with:
-          emoji: true
-          verbose: false
-          job_summary: true
+            - name: Run Tests
+              uses: pavelzw/pytest-action@v2
+              with:
+                  emoji: true
+                  verbose: false
+                  job-summary: true
+                  report-title: "Test Report"

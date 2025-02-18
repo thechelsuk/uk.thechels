@@ -1,9 +1,11 @@
-_site/
-.sass-cache/
-.jekyll-cache/
+_site
+.sass-cache
+.jekyll-cache
 .jekyll-metadata
-CNAME
+vendor
 .DS_Store
-_python/__pycache__
+Gemfile.lock
+Gemfile
 .vscode/settings.json
-.pytest_cache/
+_includes/footer.html
+

@@ -1,14 +1,14 @@
 ---
-# Front matter comment to ensure Jekyll properly reads file
 ---
 
-// 16px = 1em
 html,
 body {
     height: 100%;
 }
 
-$background: #fff;
+// 16px = 1em
+
+$background: #ffffff;
 $primary: #04100d;
 $secondary: #005ca3;
 $links: #295147;
@@ -41,19 +41,17 @@ body {
     box-sizing: content-box;
 }
 
-.blog-title {
-    display: none;
+.page,
+.page-break {
+    break-after: page;
 }
 
-.blog-slogan {
-    display: none;
-}
-
-.blog-menu {
-    display: none;
-}
-
-.blog-image {
+.blog-title,
+.blog-slogan,
+.blog-menu,
+.blog-image,
+.footer,
+.sr-only {
     display: none;
 }
 
@@ -82,7 +80,7 @@ h6 {
     color: $primary;
     position: relative;
     display: block;
-    margin-top: 1em;
+    margin-top: 0.5em;
 }
 
 h1 a,
@@ -108,6 +106,14 @@ h4:focus a,
 h5:focus a,
 h6:focus a {
     text-decoration: none;
+}
+
+h1 {
+    color: $primary;
+}
+
+h3 {
+    border-bottom: $secondary dashed 2px;
 }
 
 article,
@@ -145,41 +151,31 @@ img {
     max-width: 100%;
     height: auto;
 }
-code {
+.codeblock {
     font-family: $font-mono;
+    border: 0.125em solid $secondary;
+    border-radius: 1em;
     font-size: 0.9em;
-    background: $code;
-    padding: 1px 4px;
+    padding: 0.625em;
 }
 
-pre {
-    background: $code;
-    margin-left: -6px;
-    margin-top: 22px;
-    margin-bottom: 22px;
-    padding: 1px;
-    border-radius: 4px;
+pre,
+code {
+    font-family: $font-mono;
+    font-size: 0.75em;
+}
 
-    code {
-        font-size: 0.9em;
-        display: block;
-        overflow: auto;
-        background: $code;
-        padding-left: 10px;
-        color: $primary;
-        border: 5px solid $code;
-        border-radius: 5px;
-        padding-bottom: 5px;
-    }
+pre > code {
+    font-family: $font-mono;
+    font-size: 0.9em;
 }
 
 blockquote,
 cite {
     padding: 0 1em;
-    color: $primary;
     border-left: 0.25em solid $accent;
     width: 90%;
-    margin-left: 10px;
+    margin-left: 0.625em;
 }
 
 .footnote {
@@ -234,8 +230,4 @@ cite {
 
 .content {
     position: relative;
-}
-
-.footer {
-    display: none;
 }

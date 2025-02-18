@@ -5,13 +5,11 @@ permalink: /about
 seo: About page for Mat B, owner of Weak Notes at thechels.uk
 ---
 
-An experienced software engineering leader with a passion for people development, building teams, using agile methodologies, and focusing on flow and delivery. A broad history of working with various programming languages and software tools. Has led multiple teams in fast-paced and regulated environments, implementing agile approaches and reducing cycle times significantly.
+An experienced engineering leader with a passion for people development, building teams, implementing agile methodologies, and focusing on flow and delivery. A broad history of working with teams using various programming languages, in fast-paced and regulated environments.
 
-Has a track record of increasing team morale and motivation through a holistic people-first leadership style, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, personal development frameworks, and addressing technical debt.
+Has a track record of increasing team morale and motivation through a holistic people development style, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, personal development frameworks, addressing technical debt and reducing cycle times significantly.
 
-Holds an HND in Business Information Systems and an HNC in Business Information Technology in Computing from Solent University. Was one of two people in his year to study French and Spanish at GCSE.
-
-Consumes an unhealthy amount of football and is subscribed to over 215 podcasts, [please recommend one](https://github.com/Mat-0/TheChels.uk/issues/new?assignees=Mat-0=podcast&template=podcast.md).
+Holds an HND in Business Information Systems and an HNC in Business IT in Computing from Solent University. Was one of two people in his year to study French and Spanish at GCSE. Consumes an unhealthy amount of football (having seen {{site.data.teams | size }} teams play live), and podcasts (with {{ site.data.podcasts | size }} subscriptions). [Have a recommendation?](https://github.com/Mat-0/TheChels.uk/issues/new?assignees=Mat-0=podcast&template=podcast.md)
 
 ## Colophon
 
@@ -27,15 +25,20 @@ At the time of checking the site has [valid HTML](https://validator.w3.org/nu/?d
 
 ## In The Press
 
-During an era of running a successful football analytics website I had work published on the Chelsea FC website, [FourFourTwo](https://thechels.uk/fourfourtwo-cult-heroes) [magazine](https://thechels.uk/fourfourtwo-chelsea-vs-swansea), [Man City's match day programme](https://thechels.uk/man-city-programme), the [Daily Mail](https://www.dailymail.co.uk/sport/football/article-2282976/Frank-Lampard-scores-200th-Chelsea-goal.html), the [Independent](https://www.independent.co.uk/sport/football/european/valencia-penalty-gary-neville-chelsea-under19s-uefa-youth-league-a6892926.html) and various club fan sites including [Crystal Palac](https://theeaglesbeak.com/2014/08/08/view-from-the-opposition-part-1/), [Walsall](https://walsall.vitalfootball.co.uk/chelsea-a-fans-view/), Swansea and Man City.
+During an era of running a successful football analytics website I had work published on the Chelsea FC website, [FourFourTwo](https://thechels.uk/fourfourtwo-cult-heroes) [magazine](https://thechels.uk/fourfourtwo-chelsea-vs-swansea), [Man City's match day programme](https://thechels.uk/man-city-programme), the [Daily Mail](https://www.dailymail.co.uk/sport/football/article-2282976/Frank-Lampard-scores-200th-Chelsea-goal.html), the [Independent](https://www.independent.co.uk/sport/football/european/valencia-penalty-gary-neville-chelsea-under19s-uefa-youth-league-a6892926.html) and various club fan sites including [Crystal Palace](https://theeaglesbeak.com/2014/08/08/view-from-the-opposition-part-1/), [Walsall](https://walsall.vitalfootball.co.uk/chelsea-a-fans-view/), Swansea and Man City.
 
 The associated Twitter account, active from 2010 to 2018, peaked at 185,000 followers with a monthly reach of 8 million users worldwide all through organic growth and received acclaim from Opta Sports, Chelsea FC, BBC and other businesses. The account was closed due to Twiiter's new ownership, whilst noting football statistics had become more mainstream and access to data had become less readily available.
 
 ## Now
 
-_based on the "now" page idea from Derek Sivers._
+_Based on the [now](https://sive.rs/now) page idea from [Derek Sivers](https://sive.rs/nowff)._
 
--   Surviving. I continue to fight with an undiagnosed fatigue that's been ongoing since October 2022
--   Reading kindle books - I have a huge backlog to get through
--   Household improvements - a heat pump, new carpets, doors and a new kitchen are all on the cards for 2025.
--   Gardening - tending to the veggie patch and planters.
+-   Surviving - I continue to fight with an undiagnosed fatigue that's been ongoing since October 2022.
+-   Reading - I have a huge backlog on my Kindle to get through.
+-   Gardening - Huge tidy up and tending to the veggie patch and planters.
+
+## Next
+
+- Home improvements - A heat pump, new carpets, doors and a new kitchen.
+- Cycling - Getting back on Zwift well-being permitting.
+- Conferences/Meet-ups - Attending some conferences and meet-ups in the Technology space.

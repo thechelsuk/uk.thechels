@@ -35,6 +35,10 @@ jobs:
       - name: Check for new content
         run: |-
           python '_python/yaml_updater.py' --content "${{ inputs.content }}" --label "${{ inputs.label }}"
+      - name: set title
+        id: title
+        run: |-
+          echo "{title}={Feat: ${{ github.event.issue.title}}}" >> $GITHUB_OUTPUT
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
         with:

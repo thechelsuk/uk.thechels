@@ -3,7 +3,7 @@
 layout: post
 date: 2025-02-08
 link: https://castro.fm/blog/transcript-tag-release
-title: castro adds transcript support
+title: Castro adds transcript support
 cited: Castro
 
 ---

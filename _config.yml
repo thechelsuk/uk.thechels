@@ -1,7 +1,7 @@
 highlighter: rouge
 permalink: ./:title
 title: "Weak Notes"
-description: "A public second brain"
+description: "// A working out loud, public second brain"
 author: "Mat"
 url: https://thechels.uk
 copyright: "MB"
@@ -26,6 +26,16 @@ exclude:
   - requirements.txt
   - _python/
   - .github/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 include:
   - ".well-known"
   - "_pages"
@@ -33,48 +43,78 @@ include:
 # Site Navigation
 ## Header
 navigation_header:
-  - link: "https://thechels.uk/about"
+  - link: "/about"
     title: "About"
-  - link: "https://thechels.uk/cv"
+  - link: "/cv"
     title: "CV"
-  - link: "https://thechels.uk/daily"
+  - link: "/daily"
     title: "Daily"
-  - link: "https://thechels.uk/slashes"
-    title: "Slashes //"
+  - link: "/slashes"
+    title: "///"
   - link: "https://decodingyourmanager.substack.com/"
     title: "SubStack &raquo;"
   - link: "https://shop.the-ensemblist.uk"
     title: "Shop &raquo;"
 ## SubMenu
-navigation_subpages:
+navigation_slashes:
   - link: "/about"
-    title: "Bio"
-  - link: "/manual"
-    title: "Manual"
-  - link: "/podcasts"
-    title: "Podcasts"
-  - link: "/teams"
-    title: "Football Teams"
+    title: "About"
+  - link: "/.well-known/avatar.png"
+    title: "Avatar"
   - link: "/books"
     title: "Books"
+  - link: "/about#colophon"
+    title: "Colophon"
+  - link: "/work/public.vcf"
+    title: "Contact Card"
+  - link: "/cv"
+    title: "CV"
+  - link: "/feed"
+    title: "Feed"
+  - link: "films"
+    title: "Films"
+  - link: "/green"
+    title: "Green"
+  - link: "/teams"
+    title: "Live Teams"
+  - link: "/manual"
+    title: "Manual"
+  - link: "https://music.apple.com/profile/thechelsuk"
+    title: "Music &raquo;"
+  - link: "/about#next"
+    title: "Next"
+  - link: "/about#now"
+    title: "Now"
+  - link: "/.well-known/privacy.txt"
+    title: "Privacy"
+  - link: "/podcasts"
+    title: "Podcasts"
+  - link: "/save"
+    title: "Save"
+  - link: "/.well-known/security.txt"
+    title: "Security"
+  - link: "/sitemap"
+    title: "Sitemap"
+  - link: "https://ko-fi.com/thechelsuk"
+    title: "Tip &raquo;"
   - link: "/uses"
     title: "Uses"
+  - link: "/verify"
+    title: "Verify"
+  - link: "https://www.amazon.co.uk/hz/wishlist/ls/39EDV7CSPVYZT"
+    title: "Wish &raquo;"
 
 ## Footer links
 navigation_footer:
-  - link: "https://thechels.uk/feed.json"
+  - link: "/feed.json"
     title: "RSS"
-  - link: "https://thechels.uk/sitemap.xml"
+  - link: "/sitemap.xml"
     title: "Sitemap"
-  - link: "https://thechels.uk/humans.txt"
+  - link: "/humans.txt"
     title: "Humans"
-  - link: "https://thechels.uk/robots.txt"
+  - link: "/robots.txt"
     title: "Robots"
-  - link: "https://thechels.uk/.well-known/privacy.txt"
+  - link: "/.well-known/privacy.txt"
     title: "Privacy"
-  - link: "https://thechels.uk/.well-known/security.txt"
+  - link: "/.well-known/security.txt"
     title: "Security"
-  - link: "https://www.linkedin.com/in/mat-benfield/"
-    title: "LinkedIn &raquo;"
-  - link: "https://github.com/Mat-0/"
-    title: "GitHub &raquo;"
