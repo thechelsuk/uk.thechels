@@ -8,4 +8,6 @@ Gemfile.lock
 Gemfile
 .vscode/settings.json
 _includes/footer.html
+.pytest_cache
+_python/__pycache__
 
