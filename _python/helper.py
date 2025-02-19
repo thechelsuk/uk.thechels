@@ -7,6 +7,7 @@ import feedparser
 from yahoo_fin import stock_info as si
 from requests.exceptions import JSONDecodeError
 
+
 # methods
 def get_countdown_number_selection():
     selected = list()
@@ -86,6 +87,7 @@ def get_yf_stocks(set_of_tickers: list) -> str:
         markdown += f"- {yf.Ticker(ticker).history(period='1d')} \n\n\n"
         print(yf.Ticker(ticker).history(period='1d'))
     return markdown
+
 
 def get_si_stocks(stocks_list):
     markdown = ""
