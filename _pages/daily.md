@@ -39,7 +39,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Scrum is like your mother-in-law, it points out ALL your faults - Ken Schwaber
+> The very essence of leadership is that you have to have vision. You can't blow an uncertain trumpet. - Theodore M. Hesburgh
 
 <!-- quote_marker ends -->
 
@@ -73,19 +73,19 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- fact_marker starts -->
 
-- The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).
+- In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.
 
 <!-- fact_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 791, using [1, 2, 6, 9, 25, 75]
-- Answer: 8 solutions.
+- Target: 346, using [1, 3, 10, 25, 75, 100]
+- Answer: 4 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 25 - 6 x 2 ) x 9 - 1
+  Solution: ( 100 + 25 - 10 ) x 3 + 1
 
    </details>
 
