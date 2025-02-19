@@ -2,6 +2,7 @@
 import pathlib
 import helper
 import yaml
+from json.decoder import JSONDecodeError
 
 # processing
 if __name__ == "__main__":
@@ -11,7 +12,12 @@ if __name__ == "__main__":
             stocks_list = yaml.load(stream, Loader=yaml.FullLoader)
         f = root / "_pages/daily.md"
         m = f.open().read()
-        s = helper.get_stocks(stocks_list)
+        try:
+            s = helper.get_stocks(stocks_list)
+        except JSONDecodeError as e:
+            print(f"Error decoding JSON response: {e}")
+            s = "Error fetching stock data"
+
         c = helper.replace_chunk(m, "stocks_marker", f"\n{s}")
         f.open("w").write(c)
         print("Stocks Completed")
