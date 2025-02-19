@@ -4,5 +4,7 @@ jobs:
     deploy:
         runs-on: ubuntu-latest
         steps:
+            - name: Check out Repo
+              uses: actions/checkout@v4
             - name: Call Deployment Workflow
               uses: ./.github/workflows/deployment.yml
