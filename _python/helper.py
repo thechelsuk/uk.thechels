@@ -5,6 +5,7 @@ import re
 from datetime import datetime
 import feedparser
 from yahoo_fin import stock_info as si
+import yfinance as yf
 from requests.exceptions import JSONDecodeError
 
 
