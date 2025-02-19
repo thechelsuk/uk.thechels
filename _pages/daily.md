@@ -9,9 +9,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- weather_marker starts -->
 ### On Wednesday, 19 February 2025
 
-- The average temperature today is 8.16˚C,
-- With highs of 8.75˚C and lows of 7.61˚C,
-- It may feel like 6.59˚C with broken clouds
+- The average temperature today is 9.42˚C,
+- With highs of 9.84˚C and lows of 8.49˚C,
+- It may feel like 8.33˚C with light rain
 
 <!-- weather_marker ends -->
 
@@ -39,18 +39,18 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Do not cling to mistake because you spent a lot of time making it - unknown
+> Scrum is like your mother-in-law, it points out ALL your faults - Ken Schwaber
 
 <!-- quote_marker ends -->
 
 ### CFC News
 <!-- news_marker starts -->
 
+ - Chelsea ‘regret’ hiring Pochettino, will review Maresca’s performance only after 2025-26 season — report
  - Chelsea hire Willie ‘cultural architect’ Isa in player-support role — reports
  - Premier League to delay PSR reform by another year
  - Santos, Chelsea agree Deivid Washington loan — report
  - Deivid Washington leads Brazil to South American U20 Championship title
- - Chelsea want ‘period of adaptation’ for Kendry Páez prior to joining officially
 
 <!-- news_marker ends -->
 
@@ -58,14 +58,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Donald Trump calls Volodymyr Zelenskyy a ‘dictator’ as US rift with Ukraine deepens
- - EU considers tapping €93bn in unspent Covid recovery funds for defence
- - How Europe can defend itself without US help
- - What are the UK’s options for funding a bigger military budget?
+ - Trump calls Zelenskyy a ‘dictator’ as US rift with Ukraine deepens
+ - Starmer expresses support for Zelenskyy after Trump criticism
+ - Trump’s rush to strike a deal on Ukraine hands Putin the advantage
+ - France and UK plan air power-backed ‘reassurance force’ in postwar Ukraine
  - Bond investors brace for Europe’s defence spending ‘bazooka’
+ - Trump makes push for control of independent US regulators
+ - Trump administration moves to halt New York congestion scheme
  - Microsoft claims quantum breakthrough after 20-year pursuit of elusive particle
- - Google builds AI ‘co-scientist’ tool to speed up research
- - Fund managers step up calls for Reeves to ‘simplify’ UK tax-free savings
 
 <!-- ftnews_marker ends -->
 
@@ -73,19 +73,19 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- fact_marker starts -->
 
-- The pupils of a goat`s eyes are square.
+- The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).
 
 <!-- fact_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 983, using [2, 5, 6, 50, 75, 100]
-- Answer: 4 solutions.
+- Target: 791, using [1, 2, 6, 9, 25, 75]
+- Answer: 8 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 75 - 2 ) x 6 - 50 - 5
+  Solution: ( 75 + 25 - 6 x 2 ) x 9 - 1
 
    </details>
 
