@@ -50,8 +50,4 @@ jobs:
         needs: build
         steps:
             - name: Call Deployment Workflow
-              uses: actions/github-script@v4
-              with:
-                  script: |
-                      const { exec } = require('@actions/exec');
-                      await exec('gh workflow run deployment.yml --ref main');
+              uses: ./.github/workflows/deployment.yml
