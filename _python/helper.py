@@ -90,6 +90,7 @@ def get_yf_stocks(set_of_tickers: list) -> str:
         markdown += f"- {ticker} : {output} \n"
     return markdown
 
+
 def get_si_stocks(stocks_list):
     markdown = ""
     for ticker in stocks_list:
