@@ -16,7 +16,7 @@ if __name__ == "__main__":
         m = f.open().read()
 
         try:
-            s = helper.get_si_stocks(stocks_list)
+            s = helper.get_yf_stocks(stocks_list)
         except JSONDecodeError as e:
             print(f"Error decoding JSON response: {e}")
             s = "Error fetching stock data"

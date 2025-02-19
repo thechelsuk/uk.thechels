@@ -85,10 +85,10 @@ def get_yf_stocks(set_of_tickers: list) -> str:
     """Returns a string of stock prices for a given set of tickers"""
     markdown = ""
     for ticker in list(set_of_tickers):
-        markdown += f"- {yf.Ticker(ticker).history(period='1d')} \n\n\n"
-        print(yf.Ticker(ticker).history(period='1d'))
+        data = yf.Ticker(ticker)
+        output = data.history(period="1d").Close[0]
+        markdown += f"- {ticker} : {output} \n"
     return markdown
-
 
 def get_si_stocks(stocks_list):
     markdown = ""

@@ -32,7 +32,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : Error fetching data
+- VWRL.L : 114.87000274658203 
 
 <!-- stocks_marker ends -->
 
