@@ -10,8 +10,8 @@ seo: Good Morning Mat, Here is your daily briefing
 ### On Wednesday, 19 February 2025
 
 - The average temperature today is 9.42˚C,
-- With highs of 9.84˚C and lows of 8.49˚C,
-- It may feel like 8.33˚C with light rain
+- With highs of 9.84˚C and lows of 8.8˚C,
+- It may feel like 8.01˚C with overcast clouds
 
 <!-- weather_marker ends -->
 
@@ -39,7 +39,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The very essence of leadership is that you have to have vision. You can't blow an uncertain trumpet. - Theodore M. Hesburgh
+> UO quite simply stands for 'User Outcomes', and when I use it, it very simply means does the user get the right answer - Martin Lewis
 
 <!-- quote_marker ends -->
 
@@ -73,19 +73,19 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- fact_marker starts -->
 
-- In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.
+- Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.
 
 <!-- fact_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 346, using [1, 3, 10, 25, 75, 100]
-- Answer: 4 solutions.
+- Target: 457, using [4, 7, 8, 10, 25, 50]
+- Answer: 21 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 25 - 10 ) x 3 + 1
+  Solution: ( 50 + 25 - 10 ) x 7 + 8 / 4
 
    </details>
 
