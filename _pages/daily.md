@@ -7,26 +7,24 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Tuesday, 18 February 2025
+### On Wednesday, 19 February 2025
 
-- The average temperature today is 4.7˚C,
-- With highs of 6.08˚C and lows of 4.27˚C,
-- It may feel like 2.78˚C with clear sky
+- The average temperature today is 8.16˚C,
+- With highs of 8.75˚C and lows of 7.61˚C,
+- It may feel like 6.59˚C with broken clouds
 
 <!-- weather_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Word
 
 <!-- word_marker starts -->
 
- > grizzle - verb tr.: To make gray. verb intr.: 1. To turn gray. 2. To fuss; to gripe or grumble. noun: 1. An animal with gray or grizzled fur. 2. Gray hair. adjective: 1. Having gray hair. 2. Gray.
+ > polyphony - noun: 1. The combination of independent melodic lines sounded together. For example, a fugue. 2. The representation of different sounds by a letter or symbol. For example, the letter c which can represent /s/ or /k/. 3. A multiplicity of distinct voices or perspectives.
 
 <!-- word_marker ends -->
 
@@ -34,26 +32,24 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 115.07443
-
+Error fetching stock data
 <!-- stocks_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> People with goals succeed because they know where they're going - Earl Nightingale
+> Do not cling to mistake because you spent a lot of time making it - unknown
 
 <!-- quote_marker ends -->
 
 ### CFC News
 <!-- news_marker starts -->
 
+ - Chelsea hire Willie ‘cultural architect’ Isa in player-support role — reports
  - Premier League to delay PSR reform by another year
  - Santos, Chelsea agree Deivid Washington loan — report
  - Deivid Washington leads Brazil to South American U20 Championship title
  - Chelsea want ‘period of adaptation’ for Kendry Páez prior to joining officially
- - Chelsea 2-1 Everton, Women’s Super League: Post-match reaction
- - WATCH: Mayra Ramírez equalises for Chelsea against Everton! 1-1!
 
 <!-- news_marker ends -->
 
@@ -61,14 +57,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - US and Russia start talks on ending war in Ukraine
- - Apple’s quiet pivot to India
- - Paul Weiss’s legal raid on London is a boost for the City
- - The Ukrainian mineral riches in Trump’s sights
- - HMRC ditches crackdown on private equity tax
- - Reeves to order audit of UK’s 130 regulators in bid to cut red tape
- - Thames Water £3bn rescue loan gets High Court approval
- - Memecoin scandal rocks Argentina’s Milei
+ - Donald Trump calls Volodymyr Zelenskyy a ‘dictator’ as US rift with Ukraine deepens
+ - EU considers tapping €93bn in unspent Covid recovery funds for defence
+ - How Europe can defend itself without US help
+ - What are the UK’s options for funding a bigger military budget?
+ - Bond investors brace for Europe’s defence spending ‘bazooka’
+ - Microsoft claims quantum breakthrough after 20-year pursuit of elusive particle
+ - Google builds AI ‘co-scientist’ tool to speed up research
+ - Fund managers step up calls for Reeves to ‘simplify’ UK tax-free savings
 
 <!-- ftnews_marker ends -->
 
@@ -76,19 +72,19 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- fact_marker starts -->
 
-- Prince Charles is an avid collecter of toilet seats.
+- The pupils of a goat`s eyes are square.
 
 <!-- fact_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 883, using [3, 5, 9, 10, 75, 100]
-- Answer: 11 solutions.
+- Target: 983, using [2, 5, 6, 50, 75, 100]
+- Answer: 4 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 75 + 10 - 9 ) x 5 + 3
+  Solution: ( 100 + 75 - 2 ) x 6 - 50 - 5
 
    </details>
 
