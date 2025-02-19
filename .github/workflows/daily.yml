@@ -49,6 +49,9 @@ jobs:
         runs-on: ubuntu-latest
         needs: build
         steps:
-            - name: Run Deployment Script
-              run: ./.github/workflows/deployment.yml
-
+            - name: Call Deployment Workflow
+              uses: actions/github-script@v4
+              with:
+                  script: |
+                      const { exec } = require('@actions/exec');
+                      await exec('gh workflow run deployment.yml --ref main');
