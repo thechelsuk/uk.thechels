@@ -3,11 +3,9 @@ import json
 import random
 import re
 from datetime import datetime
-
 import feedparser
-import requests
 from yahoo_fin import stock_info as si
-
+from requests.exceptions import JSONDecodeError
 
 # methods
 def get_countdown_number_selection():
@@ -81,19 +79,27 @@ def convert_cfc_date(input: str) -> str:
     return output
 
 
-def get_stocks(set_of_tickers: list) -> str:
+def get_yf_stocks(set_of_tickers: list) -> str:
     """Returns a string of stock prices for a given set of tickers"""
     markdown = ""
     for ticker in list(set_of_tickers):
-        markdown += f"- {ticker} : {round(si.get_live_price(ticker),5)}\n"
+        markdown += f"- {yf.Ticker(ticker).history(period='1d')} \n\n\n"
+        print(yf.Ticker(ticker).history(period='1d'))
     return markdown
 
-
-def return_stocks_as_a_string(ticker: str) -> str:
-    """Returns a string of stock prices for a given set of tickers"""
-    print("Getting stock prices")
-    string = (round(si.get_live_price({ticker}), 5))
-    return string
+def get_si_stocks(stocks_list):
+    markdown = ""
+    for ticker in stocks_list:
+        try:
+            price = round(si.get_live_price(ticker), 5)
+            markdown += f"- {ticker} : {price}\n"
+        except JSONDecodeError as e:
+            print(f"Error fetching data for {ticker}: {e}")
+            markdown += f"- {ticker} : Error fetching data\n"
+        except Exception as e:
+            print(f"An unexpected error occurred for {ticker}: {e}")
+            markdown += f"- {ticker} : Error fetching data\n"
+    return markdown
 
 
 def get_day_of_the_week(today: datetime) -> str:
