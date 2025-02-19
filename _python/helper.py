@@ -88,10 +88,11 @@ def get_stocks(set_of_tickers: list) -> str:
         markdown += f"- {ticker} : {round(si.get_live_price(ticker),5)}\n"
     return markdown
 
+
 def return_stocks_as_a_string(ticker: str) -> str:
     """Returns a string of stock prices for a given set of tickers"""
     print("Getting stock prices")
-    string =  (round(si.get_live_price({ticker}),5))
+    string = (round(si.get_live_price({ticker}), 5))
     return string
 
 
