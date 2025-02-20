@@ -9,9 +9,9 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- weather_marker starts -->
 ### On Thursday, 20 February 2025
 
-- The average temperature today is 9.42˚C,
-- With highs of 9.97˚C and lows of 8.8˚C,
-- It may feel like 7.08˚C with overcast clouds
+- The average temperature today is 11.75˚C,
+- With highs of 12.21˚C and lows of 11.03˚C,
+- It may feel like 11.33˚C with overcast clouds
 
 <!-- weather_marker ends -->
 
@@ -24,7 +24,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > polyphony - noun: 1. The combination of independent melodic lines sounded together. For example, a fugue. 2. The representation of different sounds by a letter or symbol. For example, the letter c which can represent /s/ or /k/. 3. A multiplicity of distinct voices or perspectives.
+ > bibble - verb tr.: 1. To eat or drink noisily. verb intr.: 2. To drink habitually or to excess. 3. To produce bubbles or a bubbling sound. noun: 4. Nonsense; something worthless or deceptive.
 
 <!-- word_marker ends -->
 
@@ -39,13 +39,14 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The most important thing for me is making sure the team is at the top of the table when the season ends - Sam Kerr
+> Leaders instil in their people a hope for success and a belief in themselves. Positive leaders empower people to accomplish their goals. - Unknown
 
 <!-- quote_marker ends -->
 
 ### CFC News
 <!-- news_marker starts -->
 
+ - WATCH: FourFourTwo on why Chelsea’s season has gone from good to bad, and from bad to worse
  - Chelsea ‘regret’ hiring Pochettino, will review Maresca’s performance only after 2025-26 season — report
  - Chelsea hire Willie ‘cultural architect’ Isa in player-support role — reports
  - Premier League to delay PSR reform by another year
@@ -59,13 +60,13 @@ seo: Good Morning Mat, Here is your daily briefing
 <!-- ftnews_marker starts -->
 
  - Trump calls Zelenskyy a ‘dictator’ as US rift with Ukraine deepens
- - Starmer expresses support for Zelenskyy after Trump criticism
- - Trump’s rush to strike a deal on Ukraine hands Putin the advantage
- - France and UK plan air power-backed ‘reassurance force’ in postwar Ukraine
- - Bond investors brace for Europe’s defence spending ‘bazooka’
- - Trump makes push for control of independent US regulators
- - Trump administration moves to halt New York congestion scheme
- - Microsoft claims quantum breakthrough after 20-year pursuit of elusive particle
+ - Russia’s executions of Ukrainian prisoners point to systematic policy
+ - Do not let Great British Railways crush competition
+ - Trump’s freewheeling disruption could extend to the dollar
+ - Politico’s owner praises JD Vance for ‘inspiring message’
+ - British Business Bank told to refocus lending on priority sectors
+ - Orcel says Ukraine breakthrough could unlock sale of UniCredit’s Russia unit
+ - Rio Tinto urges shareholders to reject proposal to drop London listing
 
 <!-- ftnews_marker ends -->
 
@@ -73,19 +74,19 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- fact_marker starts -->
 
-- Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women
+- A spider has transparent blood.
 
 <!-- fact_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 231, using [1, 2, 4, 50, 75, 100]
-- Answer: 29 solutions.
+- Target: 110, using [2, 8, 8, 8, 9, 25]
+- Answer: 18 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 50 + 2 - 75 ) x ( 4 - 1 )
+  Solution: ( 25 + 9 ) x ( 8 / 8 + 2 ) + 8
 
    </details>
 
