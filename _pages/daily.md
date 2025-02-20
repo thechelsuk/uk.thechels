@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Wednesday, 19 February 2025
+### On Thursday, 20 February 2025
 
 - The average temperature today is 9.42˚C,
-- With highs of 9.84˚C and lows of 8.8˚C,
-- It may feel like 8.01˚C with overcast clouds
+- With highs of 9.97˚C and lows of 8.8˚C,
+- It may feel like 7.08˚C with overcast clouds
 
 <!-- weather_marker ends -->
 
@@ -39,7 +39,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> UO quite simply stands for 'User Outcomes', and when I use it, it very simply means does the user get the right answer - Martin Lewis
+> The most important thing for me is making sure the team is at the top of the table when the season ends - Sam Kerr
 
 <!-- quote_marker ends -->
 
@@ -73,19 +73,19 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- fact_marker starts -->
 
-- Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.
+- Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women
 
 <!-- fact_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 457, using [4, 7, 8, 10, 25, 50]
-- Answer: 21 solutions.
+- Target: 231, using [1, 2, 4, 50, 75, 100]
+- Answer: 29 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 + 25 - 10 ) x 7 + 8 / 4
+  Solution: ( 100 + 50 + 2 - 75 ) x ( 4 - 1 )
 
    </details>
 
