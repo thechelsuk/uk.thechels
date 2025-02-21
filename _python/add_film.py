@@ -59,7 +59,7 @@ if __name__ == "__main__":
                            type=str,
                            help="The title of the film",
                            required=True)
-    arguments.add_argument("--Rating",
+    arguments.add_argument("--rating",
                            type=str,
                            help="The rating of the film (0-10)",
                            required=True)
