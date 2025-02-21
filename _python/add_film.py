@@ -48,29 +48,20 @@ def add_film_to_list(film_data, rating):
     new_films.append(film)
     with pathlib.Path(OUTPUT_FILE).open("w") as f:
         yaml.dump(new_films, f)
+    return True
 
 
 # processing
 if __name__ == "__main__":
-    arguments = argparse.ArgumentParser(
-        description="""Get title and rating to update films db.""")
+    parser = argparse.ArgumentParser(description="Add a film to the list.")
+    parser.add_argument("--title", required=True, help="The title of the film")
+    parser.add_argument("--rating", required=True, type=int, help="The rating of the film (0-10)")
 
-    arguments.add_argument("--title",
-                           type=str,
-                           help="The title of the film",
-                           required=True)
-    arguments.add_argument("--rating",
-                           type=str,
-                           help="The rating of the film (0-10)",
-                           required=True)
+    args = parser.parse_args()
 
-    args = arguments.parse_args()
-    a_title = args.title.replace("`", "")
-    a_rating = args.rating.replace("`", "")
-
-    film_data = get_film_data(a_title)
+    film_data = get_film_data(args.title)
     if film_data:
-        if add_film_to_list(film_data, a_rating):
+        if add_film_to_list(film_data, args.rating):
             print("Film added successfully.")
         else:
             print("Film already exists in the list.")
