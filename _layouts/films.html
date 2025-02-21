@@ -8,7 +8,7 @@
   </small>
 </p>
 {% assign sorted = site.data.films | sort: 'Rating' | reverse %}
-<table class="table-striped">
+<table class="table-striped" id="films-table">
   <thead>
     <tr>
       <th>Title</th>
@@ -25,3 +25,16 @@
   {% endfor %}
 </table>
 {% include footer.html %}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js"
+  integrity="sha384-3q4z5y6z7x8w9y0z1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x" crossorigin="anonymous"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    new Tablesort(document.getElementById('films-table'));
+  });
+</script>></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    new Tablesort(document.getElementById('films-table'));
+  });
+</script>
