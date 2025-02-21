@@ -1,0 +1,47 @@
+---
+name: Add Podcast
+on:
+    workflow_dispatch:
+        inputs:
+            Title:
+                description: "Title"
+                required: true
+            Rating:
+                description: "Rating"
+                required: true
+env:
+    actor: ${{ github.actor }}
+    owner: ${{ github.repository_owner }}
+    github_token: ${{ secrets.GITHUB_TOKEN }}
+jobs:
+    Build:
+        if: ${{ github.actor == github.repository_owner }}
+        runs-on: macOS-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+
+            - name: Set up Python
+              uses: actions/setup-python@v4
+              with:
+                python-version: '3.x'
+
+            - name: Cache dependencies
+              uses: actions/cache@v3
+              with:
+                path: ~/.cache/pip
+                key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }} restore-keys: |
+                  ${{ runner.os }}-pip-
+            - name: Install dependencies
+              run: |
+                python -m pip install --upgrade pip
+                pip install -r requirements.txt
+            - name: Run add_film script
+              run: |
+                python add_film.py "${{ inputs.Title }}" "${{ inputs.Rating }}"
+            - name: Commit files
+              run: |
+                  git config --local user.email "action@github.com"
+                  git config --local user.name "GitHub Action"
+                  git add -A && git commit -m "Added ${{ inputs.Title }}"
+                  git push
