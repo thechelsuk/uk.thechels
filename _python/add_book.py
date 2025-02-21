@@ -7,10 +7,9 @@ from datetime import date
 from PIL import Image
 from ruamel.yaml import YAML
 
-OUTPUT_FILE = "_data/books.yml"
+OUTPUT_FILE = "./_data/books.yml"
 yaml = YAML()
 yaml.default_flow_style = False
-
 
 def load_book_file(file_path):
     path = pathlib.Path(file_path)
@@ -20,11 +19,9 @@ def load_book_file(file_path):
         data = yaml.load(f)
         return data if isinstance(data, list) else []
 
-
 def save_books(file_path, books):
     with pathlib.Path(file_path).open("w") as f:
         yaml.dump(books, f)
-
 
 def add_book_to_list(book_data):
     library_books = load_book_file(OUTPUT_FILE)
@@ -38,32 +35,21 @@ def add_book_to_list(book_data):
     save_books(OUTPUT_FILE, library_books)
     return True
 
-
 def download_book_cover(book_data):
     cover_url = book_data["cover"]
-    try:
-        cover_response = requests.get(cover_url)
-        cover_response.raise_for_status()
-        if cover_response.status_code == 200:
-            print("Downloading cover image...")
-            isbn_key = book_data["isbn"]
-            if isinstance(isbn_key, list):
-                isbn_key = isbn_key[0]
-            isbn_key = isbn_key.replace("-", "").replace(" ", "")
-            cover_path = f"./image/books/book-{isbn_key}.png"
-            os.makedirs(os.path.dirname(cover_path), exist_ok=True)
-            # Convert and save the image as PNG
-            img = Image.open(BytesIO(cover_response.content))
-            img.save(cover_path, 'PNG')
-            print(f"Cover image saved to {cover_path}")
-        else:
-            print(
-                f"Failed to download cover image. Status code: {cover_response.status_code}"
-            )
-    except requests.exceptions.RequestException as e:
-        print(f"Error downloading cover image: {e}")
-    except Exception as e:
-        print(f"Error saving cover image: {e}")
+    cover_response = requests.get(cover_url)
+    print(cover_response)
+    isbn_key = book_data["isbn"]
+    if isinstance(isbn_key, list):
+        isbn_key = isbn_key[0]
+        isbn_key = isbn_key.replace("-", "").replace(" ", "")
+        new_cover_path = f"./image/books/book-{isbn_key}.png"
+        os.makedirs(os.path.dirname(new_cover_path), exist_ok=True)
+        img = Image.open(BytesIO(cover_response.content))
+        img.save(new_cover_path, 'PNG')
+        print(f"Cover image saved to {new_cover_path}")
+    else:
+        print(f"Failed to download cover image. Status code: {cover_response.status_code}")
     return True
 
 
@@ -88,7 +74,6 @@ def get_book_data(isbn):
         "notes": "",
     }
     return book_data
-
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Add a book to the library.")
