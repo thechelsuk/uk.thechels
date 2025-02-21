@@ -36,7 +36,7 @@ jobs:
                   python -m pip install -r "./_python/requirements.txt" --quiet
             - name: Run add_film script
               run: |
-                  python add_film.py "${{ inputs.Title }}" "${{ inputs.Rating }}"
+                  python '_python/add_film.py' --title "${{ inputs.Title }}" --rating "${{ inputs.Rating }}"
             - name: Commit files
               run: |
                   git config --local user.email "action@github.com"
