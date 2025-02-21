@@ -28,6 +28,7 @@ jobs:
             - name: Processing Python Scripts
               env:
                   OPEN_WEATHER_KEY: ${{ secrets.OPEN_WEATHER_KEY }}
+                  OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }}
               run: |-
                   python '_python/stocks.py'
                   python '_python/countdown.py'
@@ -38,6 +39,7 @@ jobs:
                   python '_python/wagnh.py'
                   python '_python/ftnews.py'
                   python '_python/facts.py'
+                  python '_python/remember_film.py
             - name: Commit and push
               run: |-
                   git diff

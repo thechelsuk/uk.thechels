@@ -32,7 +32,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 114.01499938964844 
+- VWRL.L : 114.01499938964844
 
 <!-- stocks_marker ends -->
 
@@ -76,6 +76,14 @@ seo: Good Morning Mat, Here is your daily briefing
 - The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.
 
 <!-- fact_marker ends -->
+
+### Film Archive
+
+<!-- film_marker starts -->
+- Robin Hood (Rated: 3)
+- Released in 2010
+- Summary: In twelfth-century England, Robin Longstride and his band of marauders confront corruption in a local village and lead an uprising against the crown that will forever alter the balance of world power.
+<!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
