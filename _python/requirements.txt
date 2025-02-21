@@ -14,3 +14,5 @@ pytest-emoji
 yapf
 lxml_html_clean
 yfinance
+pillow
+ruamel.yaml

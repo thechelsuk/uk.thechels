@@ -1,41 +1,47 @@
 ---
 name: Add Book
 on:
-    issues:
-        types: [labeled, edited]
     workflow_dispatch:
         inputs:
-            Identifier:
+            isbn:
                 description: "ISBN"
-                required: false
+                required: true
 env:
-    content: ${{ github.event.issue.body }}
-    label: ${{ github.event.label.name }}
-    issue_number: ${{ github.event.issue.number || 241 }}
     actor: ${{ github.actor }}
     owner: ${{ github.repository_owner }}
     github_token: ${{ secrets.GITHUB_TOKEN }}
 jobs:
-    Checks:
-        if: contains( github.event.issue.labels.*.name, 'read')
-        runs-on: ubuntu-latest
-        steps:
-            - name: Echo
-              run: echo "Label is $label"
     Build:
-        needs: Checks
+        runs-on: ubuntu-latest
         if: ${{ github.actor == github.repository_owner }}
-        runs-on: macOS-latest
         steps:
             - name: Checkout
               uses: actions/checkout@v4
-            - name: Read
-              uses: mat-0/read-action@main
-            - name: Download the book thumbnail
-              run: curl "${{env.BookThumb}}" -o "images/books/${{env.BookThumbOutput}}"
-            - name: Commit files
+
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: 3.13.1
+
+            - uses: actions/cache@v4
+              name: Configure pip caching
+              with:
+                  path: ~/.cache/pip
+                  key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+                  restore-keys: |
+                      ${{ runner.os }}-pip-
+
+            - name: Install Python dependencies
+              run: |
+                  python -m pip install -r "./_python/requirements.txt" --quiet
+
+            - name: Run add_film script
+              run: |
+                  python '_python/add_book.py' --isbn "${{ inputs.isbn }}"
+
+            - name: Commit and Push
               run: |
                   git config --local user.email "action@github.com"
                   git config --local user.name "GitHub Action"
-                  git add -A && git commit -m "Added ${{ env.BookTitle }}"
+                  git add -A && git commit -m "Added ${{ inputs.ISBN }}"
                   git push

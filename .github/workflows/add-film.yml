@@ -39,9 +39,6 @@ jobs:
             - name: Run add_film script
               run: |
                   python '_python/add_film.py' --title "${{ inputs.Title }}" --rating "${{ inputs.Rating }}"
-            - name: set title
-              run: |-
-                  echo "{title}={Feat: ${{ inputs.Title }}}" >> $GITHUB_OUTPUT
             - name: Commit and push
               run: |-
                   git diff
