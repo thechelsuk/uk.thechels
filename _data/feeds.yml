@@ -1,1494 +1,1307 @@
---- 
-- 
-  _description: ""
+---
+- _description: ""
   _htmlUrl: "https://blog.1password.com/"
   _text: "Blog - 1Password"
   _title: "Blog - 1Password"
   _type: rss
   _version: RSS
   _xmlUrl: "http://blog.agilebits.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://clcstriders-runningclub.co.uk/"
   _text: "Blog - CLC"
   _title: "Blog - CLC"
   _type: rss
   _version: RSS
   _xmlUrl: "http://clcstriders-runningclub.co.uk/feed.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://github.blog/"
   _text: "Blog - GitHub"
   _title: "Blog - GitHub"
   _type: rss
   _version: RSS
   _xmlUrl: "https://github.blog/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://nnw.ranchero.com/"
   _text: "Blog - NetNewsWire"
   _title: "Blog - NetNewsWire"
   _type: rss
   _version: RSS
   _xmlUrl: "https://nnw.ranchero.com/feed.json"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.starlingbank.com/"
   _text: "Blog - Starling Bank"
   _title: "Blog - Starling Bank"
   _type: rss
   _version: RSS
   _xmlUrl: "https://www.starlingbank.com/rss.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://blog.strava.com/"
   _text: "Blog - Strava"
   _title: "Blog - Strava"
   _type: rss
   _version: RSS
   _xmlUrl: "http://blog.strava.com/feed/atom/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://medium.com/strava-engineering?source=rss----89d4108ce2a3---4"
   _text: "Blog - strava-engineering - Medium"
   _title: "Blog - strava-engineering - Medium"
   _type: rss
   _version: RSS
   _xmlUrl: "https://medium.com/feed/strava-engineering"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://blog.supertop.co/"
   _text: "Blog - Supertop"
   _title: "Blog - Supertop"
   _type: rss
   _version: RSS
   _xmlUrl: "http://blog.supertop.co/rss"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://blog.cloudflare.com/"
   _text: "Blog - The Cloudflare"
   _title: "Blog - The Cloudflare"
   _type: rss
   _version: RSS
   _xmlUrl: "https://blog.cloudflare.com/rss/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://thechels.uk/"
   _text: "Blog - Weak notes"
   _title: "Blog - Weak notes"
   _type: rss
   _version: RSS
   _xmlUrl: "https://thechels.uk/feed.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://monevator.com/"
   _text: "Monevator"
   _title: "Monevator"
   _type: rss
   _version: RSS
   _xmlUrl: "https://feeds.feedburner.com/monevatorcom"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.raconteur.net/"
   _text: "Finance - Raconteur"
   _title: "Finance - Raconteur"
   _type: rss
   _version: RSS
   _xmlUrl: "https://www.raconteur.net/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.bbc.co.uk/news/"
   _text: "News - BBC Business"
   _title: "News - BBC Business"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.bbci.co.uk/news/business/rss.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.bbc.co.uk/news/"
   _text: "News - BBC Technology"
   _title: "News - BBC Technology"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.bbci.co.uk/news/technology/rss.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://www.cnn.com/TECH/index.html?eref=rss_tech"
   _text: "News - CNN Tech"
   _title: "News - CNN Tech"
   _type: rss
   _version: RSS
   _xmlUrl: "http://rss.cnn.com/rss/edition_technology.rss"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://rss.politico.com/morningcybersecurity.xml"
   _text: "News - Politico Cyber"
   _title: "News - Politico Cyber"
   _type: rss
   _version: RSS
   _xmlUrl: "http://rss.politico.com/morningcybersecurity.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://rss.politico.com/economy.xml"
   _text: "News - Politico Economy "
   _title: "News - Politico Economy "
   _type: rss
   _version: RSS
   _xmlUrl: "http://rss.politico.com/economy.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://rss.politico.com/morningmoney.xml"
   _text: "News - Politico Money"
   _title: "News - Politico Money"
   _type: rss
   _version: RSS
   _xmlUrl: "https://rss.politico.com/morningmoney.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://rss.politico.com/morningtech.xml"
   _text: "News - Politico Tech"
   _title: "News - Politico Tech"
   _type: rss
   _version: RSS
   _xmlUrl: "https://rss.politico.com/morningtech.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://www.techmeme.com/"
   _text: "Tech Meme"
   _title: "Tech Meme"
   _type: rss
   _version: RSS
   _xmlUrl: "https://www.techmeme.com/feed.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.adventureswithagile.com/"
   _text: "Adventures with Agile"
   _title: "Adventures with Agile"
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.adventureswithagile.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.agileadvice.com/"
   _text: "Agile Advice"
   _title: "Agile Advice"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/AgileAdvice"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://salfreudenberg.wordpress.com/"
   _text: "Agile in the Wild"
   _title: "Agile in the Wild"
   _type: rss
   _version: RSS
   _xmlUrl: "http://salfreudenberg.wordpress.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://agiletortoise.com"
   _text: "Agile Tortoise"
   _title: "Agile Tortoise"
   _type: rss
   _version: RSS
   _xmlUrl: "http://agiletortoise.com/atom.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://rgalen.com/agile-training-news/"
   _text: "Agile Training - RGalen Consulting"
   _title: "Agile Training - RGalen Consulting"
   _type: rss
   _version: RSS
   _xmlUrl: "http://rgalen.com/agile-training-news?format=rss"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://aaronrandall.com/"
   _text: "Blog - Aaron Randall"
   _title: "Blog - Aaron Randall"
   _type: rss
   _version: RSS
   _xmlUrl: "https://aaronrandall.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://cate.blog/"
   _text: "Blog - Accidentally in Code"
   _title: "Blog - Accidentally in Code"
   _type: rss
   _version: RSS
   _xmlUrl: "https://cate.blog/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://holub.com/"
   _text: "Blog - Allen Holub"
   _title: "Blog - Allen Holub"
   _type: rss
   _version: RSS
   _xmlUrl: "https://holub.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.benlinders.com/"
   _text: "Blog - Ben Linders"
   _title: "Blog - Ben Linders"
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.benlinders.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://callumakehurstryansblog.wordpress.com/"
   _text: "Blog - Callum A-R"
   _title: "Blog - Callum A-R"
   _type: rss
   _version: RSS
   _xmlUrl: "https://callumakehurstryansblog.wordpress.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://buttondown.email/cassidoo"
   _text: "Blog - Cassidy"
   _title: "Blog - Cassidy"
   _type: rss
   _version: RSS
   _xmlUrl: "https://buttondown.email/cassidoo/rss"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://chrisachard.com/"
   _text: "Blog - Chris Achard"
   _title: "Blog - Chris Achard"
   _type: rss
   _version: RSS
   _xmlUrl: "https://chrisachard.com/rss.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.cjchilvers.com/blog/"
   _text: "Blog - CJ Chilvers"
   _title: "Blog - CJ Chilvers"
   _type: rss
   _version: RSS
   _xmlUrl: "http://cjchilvers.com/blog?format=rss"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://dannorth.net/"
   _text: "Blog - Dan North"
   _title: "Blog - Dan North"
   _type: rss
   _version: RSS
   _xmlUrl: "http://DanNorth.net/index.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://domk.website/blog.html"
   _text: "Blog - domk.website"
   _title: "Blog - domk.website"
   _type: rss
   _version: RSS
   _xmlUrl: "https://domk.website/blog/feed.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://freakingrectangle.com/"
   _text: "Blog - Freaking Rectangle"
   _title: "Blog - Freaking Rectangle"
   _type: rss
   _version: RSS
   _xmlUrl: "https://freakingrectangle.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://blog.gitscrum.com/"
   _text: "Blog - GitScrum"
   _title: "Blog - GitScrum"
   _type: rss
   _version: RSS
   _xmlUrl: "https://magazine.gitscrum.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://testing.googleblog.com/"
   _text: "Blog - Google Testing"
   _title: "Blog - Google Testing"
   _type: rss
   _version: RSS
   _xmlUrl: "http://googletesting.blogspot.com/feeds/posts/default"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://gunnarpeipman.com/"
   _text: "Blog - Gunnar Peipman"
   _title: "Blog - Gunnar Peipman"
   _type: rss
   _version: RSS
   _xmlUrl: "https://gunnarpeipman.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://infraeng.dev/"
   _text: "Blog - Infrastructure Engineering"
   _title: "Blog - Infrastructure Engineering"
   _type: rss
   _version: RSS
   _xmlUrl: "https://infraeng.dev/feeds.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://jacobian.org/"
   _text: "Blog - Jacob Kaplan-Moss"
   _title: "Blog - Jacob Kaplan-Moss"
   _type: rss
   _version: RSS
   _xmlUrl: "https://jacobian.org/index.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://blog.jacobsdata.com/"
   _text: "Blog - JacobsData.com"
   _title: "Blog - JacobsData.com"
   _type: rss
   _version: RSS
   _xmlUrl: "https://blog.jacobsdata.com/api/rss/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://jeffgothelf.com/"
   _text: "Blog - Jeff Gothelf"
   _title: "Blog - Jeff Gothelf"
   _type: rss
   _version: RSS
   _xmlUrl: "https://jeffgothelf.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://blog.johnnyreilly.com/"
   _text: "Blog - Johnny Reilly"
   _title: "Blog - Johnny Reilly"
   _type: rss
   _version: RSS
   _xmlUrl: "https://blog.johnnyreilly.com/rss.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://jvns.ca/"
   _text: "Blog - Julia Evans"
   _title: "Blog - Julia Evans"
   _type: rss
   _version: RSS
   _xmlUrl: "https://jvns.ca/atom.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.karllhughes.com/"
   _text: "Blog - Karl Hughes"
   _title: "Blog - Karl Hughes"
   _type: rss
   _version: RSS
   _xmlUrl: "https://www.karllhughes.com/feed.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://blog.ploeh.dk/"
   _text: "Blog - Ploeh.DJ"
   _title: "Blog - Ploeh.DJ"
   _type: rss
   _version: RSS
   _xmlUrl: "https://blog.ploeh.dk/rss.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://whitep4nth3r.com/"
   _text: "Blog - Salma Alam-Naylor"
   _title: "Blog - Salma Alam-Naylor"
   _type: rss
   _version: RSS
   _xmlUrl: "https://whitep4nth3r.com/feed.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.scottbrady91.com/"
   _text: "Blog - Scott Brady"
   _title: "Blog - Scott Brady"
   _type: rss
   _version: RSS
   _xmlUrl: "https://feeds.feedburner.com/scottbrady91"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.hanselman.com/blog/"
   _text: "Blog - Scott Hanselman"
   _title: "Blog - Scott Hanselman"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.hanselman.com/ScottHanselman"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://shekhargulati.com/"
   _text: "Blog - Shekhar Gulati"
   _title: "Blog - Shekhar Gulati"
   _type: rss
   _version: RSS
   _xmlUrl: "https://shekhargulati.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://simonwillison.net/"
   _text: "Blog - Simon Willison"
   _title: "Blog - Simon Willison"
   _type: rss
   _version: RSS
   _xmlUrl: "https://simonwillison.net/atom/everything/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://www.developertoarchitect.com/lessons/"
   _text: "Blog - Software Architecture Monday "
   _title: "Blog - Software Architecture Monday "
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.developertoarchitect.com/lessons/index.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://about.sourcegraph.com/"
   _text: "Blog - SourceGraph"
   _title: "Blog - SourceGraph"
   _type: rss
   _version: RSS
   _xmlUrl: "https://about.sourcegraph.com/rss.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://blog.cleancoder.com/"
   _text: "Blog - The Clean Code"
   _title: "Blog - The Clean Code"
   _type: rss
   _version: RSS
   _xmlUrl: "http://blog.cleancoder.com/atom.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://refactory.blog/"
   _text: "Blog - The Refactory"
   _title: "Blog - The Refactory"
   _type: rss
   _version: RSS
   _xmlUrl: "https://refactory.blog/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://tkainrad.dev/posts/"
   _text: "Blog - tkainrad"
   _title: "Blog - tkainrad"
   _type: rss
   _version: RSS
   _xmlUrl: "https://tkainrad.dev/posts/index.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://lethain.com/"
   _text: "Blog - Will Larson"
   _title: "Blog - Will Larson"
   _type: rss
   _version: RSS
   _xmlUrl: "https://lethain.com/feeds.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.devopsgroup.com/"
   _text: "Blog – DevOpsGroup"
   _title: "Blog – DevOpsGroup"
   _type: rss
   _version: RSS
   _xmlUrl: "http://blog.devopsguys.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://luis-goncalves.com/"
   _text: "Blog – Luís Gonçalves"
   _title: "Blog – Luís Gonçalves"
   _type: rss
   _version: RSS
   _xmlUrl: "https://luis-goncalves.com/blog/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.buildthestage.com/"
   _text: "Build The Stage"
   _title: "Build The Stage"
   _type: rss
   _version: RSS
   _xmlUrl: "https://www.buildthestage.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://build5nines.com/"
   _text: Build5Nines
   _title: Build5Nines
   _type: rss
   _version: RSS
   _xmlUrl: "http://buildazure.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://changelog.com/"
   _text: Changelog
   _title: Changelog
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/thechangelog"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://medium.com/@davic32?source=rss-e374b833c819------2"
   _text: "Chris Davies"
   _title: "Chris Davies"
   _type: rss
   _version: RSS
   _xmlUrl: "https://medium.com/feed/@davic32"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://circleci.com/blog/"
   _text: "Circle CI"
   _title: "Circle CI"
   _type: rss
   _version: RSS
   _xmlUrl: "http://circleci.com/blog/feed.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://blog.codinghorror.com/"
   _text: "Coding Horror"
   _title: "Coding Horror"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/codinghorror/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://css-tricks.com/"
   _text: CSS-Tricks
   _title: CSS-Tricks
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/CssTricks"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://code.dblock.org/"
   _text: "Dblock "
   _title: "Dblock "
   _type: rss
   _version: RSS
   _xmlUrl: "https://code.dblock.org/feed.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.designweek.co.uk/"
   _text: "Design Week"
   _title: "Design Week"
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.designweek.co.uk/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://devtomanager.com/"
   _text: "Dev to Manager"
   _title: "Dev to Manager"
   _type: rss
   _version: RSS
   _xmlUrl: "https://devtomanager.com/interviews/atom.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://digitalbydefault.com/"
   _text: "Digital by Default"
   _title: "Digital by Default"
   _type: rss
   _version: RSS
   _xmlUrl: "https://digitalbydefault.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://dontcodetired.com/blog/"
   _text: "Don't Code Tired"
   _title: "Don't Code Tired"
   _type: rss
   _version: RSS
   _xmlUrl: "http://dontcodetired.com/blog/syndication.axd"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.enqa.eu/"
   _text: ENQA
   _title: ENQA
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.enqa.eu/index.php/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.estherderby.com/"
   _text: "Esther Derby associates, inc."
   _title: "Esther Derby associates, inc."
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.estherderby.com/feed"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://exceptionnotfound.net/"
   _text: "Exception Not Found"
   _title: "Exception Not Found"
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.exceptionnotfound.net/rss/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.funretrospectives.com/"
   _text: FunRetrospectives
   _title: FunRetrospectives
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.funretrospectives.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://gds.blog.gov.uk/"
   _text: "Government Digital Service"
   _title: "Government Digital Service"
   _type: rss
   _version: RSS
   _xmlUrl: "https://gds.blog.gov.uk/feed/atom/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://hakanforss.wordpress.com/"
   _text: "Hakan Forss's Blog"
   _title: "Hakan Forss's Blog"
   _type: rss
   _version: RSS
   _xmlUrl: "http://hakanforss.wordpress.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://insidegovuk.blog.gov.uk/"
   _text: "Inside GOV.UK"
   _title: "Inside GOV.UK"
   _type: rss
   _version: RSS
   _xmlUrl: "https://insidegovuk.blog.gov.uk/feed/atom/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://itrevolution.com/"
   _text: "IT Revolution"
   _title: "IT Revolution"
   _type: rss
   _version: RSS
   _xmlUrl: "https://itrevolution.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://javascriptissexy.com/"
   _text: "JavaScript Is Sexy"
   _title: "JavaScript Is Sexy"
   _type: rss
   _version: RSS
   _xmlUrl: "http://javascriptissexy.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://javascriptweekly.com/"
   _text: "JavaScript Weekly"
   _title: "JavaScript Weekly"
   _type: rss
   _version: RSS
   _xmlUrl: "http://javascriptweekly.com/rss/161kj581"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://justinjackson.ca/"
   _text: "Justin Jackson"
   _title: "Justin Jackson"
   _type: rss
   _version: RSS
   _xmlUrl: "http://justinjackson.ca/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://krebsonsecurity.com/"
   _text: "Krebs on Security"
   _title: "Krebs on Security"
   _type: rss
   _version: RSS
   _xmlUrl: "http://krebsonsecurity.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.leadingagile.com/"
   _text: LeadingAgile
   _title: LeadingAgile
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/LeadingAgile"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.leadinganswers.com/"
   _text: "LeadingAnswers: Agile Project Mngmnt Blog"
   _title: "LeadingAnswers: Agile Project Mngmnt Blog"
   _type: rss
   _version: RSS
   _xmlUrl: "http://leadinganswers.typepad.com/leading_answers/atom.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://martinfowler.com/"
   _text: "Martin Fowler"
   _title: "Martin Fowler"
   _type: rss
   _version: RSS
   _xmlUrl: "https://martinfowler.com/feed.atom"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://feeds.politico.com/politico/"
   _text: "Morning Tech"
   _title: "Morning Tech"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.politico.com/politico/rss/morningtech"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://orghacking.com/"
   _text: "Org Hacking"
   _title: "Org Hacking"
   _type: rss
   _version: RSS
   _xmlUrl: "https://orghacking.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://pbpython.com/"
   _text: "Practical business python"
   _title: "Practical business python"
   _type: rss
   _version: RSS
   _xmlUrl: "https://pbpython.com/feeds/all.atom.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.romanpichler.com/"
   _text: "Roman Pichler "
   _title: "Roman Pichler "
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.romanpichler.com/blog/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.scrum.org/"
   _text: "Scrum.org Blog"
   _title: "Scrum.org Blog"
   _type: rss
   _version: RSS
   _xmlUrl: "http://blog.scrum.org/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.smashingmagazine.com/"
   _text: "Smashing Mag"
   _title: "Smashing Mag"
   _type: rss
   _version: RSS
   _xmlUrl: "http://rss1.smashingmagazine.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.stefanjudis.com/"
   _text: "Stefan Judis Web Development"
   _title: "Stefan Judis Web Development"
   _type: rss
   _version: RSS
   _xmlUrl: "https://www.stefanjudis.com/rss.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://technology.blog.gov.uk/"
   _text: "Technology in government"
   _title: "Technology in government"
   _type: rss
   _version: RSS
   _xmlUrl: "https://gdstechnology.blog.gov.uk/feed/atom/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://testguild.com/"
   _text: "TestGuild Automation Podcast"
   _title: "TestGuild Automation Podcast"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/TesttalksAutomationAwesomenessHelpingYouSucceedWithTestAutomation"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://thecodist.com/"
   _text: "The Codist"
   _title: "The Codist"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/thecodist"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://javascriptplayground.com/"
   _text: "The JavaScript Playground"
   _title: "The JavaScript Playground"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/TheJavascriptPlayground"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://blog.cwa.me.uk/"
   _text: "The Morning Brew"
   _title: "The Morning Brew"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/ReflectivePerspective"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://tobeagile.com/"
   _text: "To Be Agile"
   _title: "To Be Agile"
   _type: rss
   _version: RSS
   _xmlUrl: "https://tobeagile.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://blog.dropbox.com/"
   _text: "Work in Progress"
   _title: "Work in Progress"
   _type: rss
   _version: RSS
   _xmlUrl: "https://blog.dropbox.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://anchorchange.substack.com/"
   _text: "Substack - Anchor Change - Katie Harbath"
   _title: "Substack - Anchor Change - Katie Harbath"
   _type: rss
   _version: RSS
   _xmlUrl: "https://anchorchange.substack.com/feed"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://bigtechnology.substack.com/"
   _text: "SubStack - Big Technology"
   _title: "SubStack - Big Technology"
   _type: rss
   _version: RSS
   _xmlUrl: "https://bigtechnology.substack.com/feed"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://blog.bytebytego.com/"
   _text: "Substack - ByteByteGo"
   _title: "Substack - ByteByteGo"
   _type: rss
   _version: RSS
   _xmlUrl: "https://blog.bytebytego.com/feed"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://cutlefish.substack.com/"
   _text: "SubStack - Cutlefish "
   _title: "SubStack - Cutlefish "
   _type: rss
   _version: RSS
   _xmlUrl: "https://cutlefish.substack.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://devrelbook.substack.com/"
   _text: "Substack - Developer Relations"
   _title: "Substack - Developer Relations"
   _type: rss
   _version: RSS
   _xmlUrl: "https://devrelbook.substack.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://adharanand.substack.com/"
   _text: "SubStack - Finn Musings"
   _title: "SubStack - Finn Musings"
   _type: rss
   _version: RSS
   _xmlUrl: "https://adharanand.substack.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.yourfriendsguide.com/"
   _text: "SubStack - Guide to entrepreneurship"
   _title: "SubStack - Guide to entrepreneurship"
   _type: rss
   _version: RSS
   _xmlUrl: "https://www.yourfriendsguide.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://honestlychelseafcw.substack.com/"
   _text: "SubStack - Honestly CFCW"
   _title: "SubStack - Honestly CFCW"
   _type: rss
   _version: RSS
   _xmlUrl: "https://honestlychelseafcw.substack.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.lennysnewsletter.com/"
   _text: "Substack - Lenny Rachitsky"
   _title: "Substack - Lenny Rachitsky"
   _type: rss
   _version: RSS
   _xmlUrl: "https://www.lennysnewsletter.com/feed"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://livboeree.substack.com/"
   _text: "SubStack - Liv Boeree"
   _title: "SubStack - Liv Boeree"
   _type: rss
   _version: RSS
   _xmlUrl: "https://livboeree.substack.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.readmargins.com/"
   _text: "Substack - Margins by Ranjan Roy & Can Duruk"
   _title: "Substack - Margins by Ranjan Roy & Can Duruk"
   _type: rss
   _version: RSS
   _xmlUrl: "https://www.readmargins.com/feed"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://peoplefirstengineering.substack.com/"
   _text: "Substack - People First Engineering"
   _title: "Substack - People First Engineering"
   _type: rss
   _version: RSS
   _xmlUrl: "https://peoplefirstengineering.substack.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://techleadcoaching.substack.com/"
   _text: "SubStack - Tech lead coaching"
   _title: "SubStack - Tech lead coaching"
   _type: rss
   _version: RSS
   _xmlUrl: "https://techleadcoaching.substack.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://newsletter.pragmaticengineer.com/"
   _text: "Substack - The Pragmatic Engineer"
   _title: "Substack - The Pragmatic Engineer"
   _type: rss
   _version: RSS
   _xmlUrl: "https://newsletter.pragmaticengineer.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://therebooting.substack.com/"
   _text: "Substack - The Rebooting - Brian Morrissey"
   _title: "Substack - The Rebooting - Brian Morrissey"
   _type: rss
   _version: RSS
   _xmlUrl: "https://therebooting.substack.com/feed"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://thinkingthursdays.substack.com/"
   _text: "SubStack - Thinking Thursdays"
   _title: "SubStack - Thinking Thursdays"
   _type: rss
   _version: RSS
   _xmlUrl: "https://thinkingthursdays.substack.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.workspaces.xyz/"
   _text: "SubStack - Workspaces"
   _title: "SubStack - Workspaces"
   _type: rss
   _version: RSS
   _xmlUrl: "https://www.workspaces.xyz/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://seclists.org/#bugtraq"
   _text: Bugtraq
   _title: Bugtraq
   _type: rss
   _version: RSS
   _xmlUrl: "http://seclists.org/rss/bugtraq.rss"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://us-cert.cisa.gov/"
   _text: "CISA Current Activity"
   _title: "CISA Current Activity"
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.us-cert.gov/current/index.rdf"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.darkreading.com/"
   _text: "Dark Reading:"
   _title: "Dark Reading:"
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.darkreading.com/rss/all.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.databreaches.net/"
   _text: DataBreaches.net
   _title: DataBreaches.net
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/OfficeOfInadequateSecurity"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://seclists.org/#fulldisclosure"
   _text: "Full Disclosure"
   _title: "Full Disclosure"
   _type: rss
   _version: RSS
   _xmlUrl: "http://seclists.org/rss/fulldisclosure.rss"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://grahamcluley.com/"
   _text: "Graham Cluley"
   _title: "Graham Cluley"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/GrahamCluleysBlog"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://haveibeenpwned.com/"
   _text: "Have I Been Pwned latest breaches"
   _title: "Have I Been Pwned latest breaches"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://blogs.technet.com/mmpc/"
   _text: "Microsoft Security"
   _title: "Microsoft Security"
   _type: rss
   _version: RSS
   _xmlUrl: "http://blogs.technet.com/mmpc/rss.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://blogs.technet.com/msrc/"
   _text: "Microsoft Security Response Center"
   _title: "Microsoft Security Response Center"
   _type: rss
   _version: RSS
   _xmlUrl: "http://blogs.technet.com/msrc/rss.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://rss.politico.com/morningcybersecurity.xml"
   _text: "Morning Cybersecurity"
   _title: "Morning Cybersecurity"
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.politico.com/rss/morningcybersecurity.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.ncsc.gov.uk/api/1/services/v1/guidance-rss-feed.xml"
   _text: "NCSC Guidance Feed"
   _title: "NCSC Guidance Feed"
   _type: rss
   _version: RSS
   _xmlUrl: "https://www.ncsc.gov.uk/feeds/guidance.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml"
   _text: "NCSC threats"
   _title: "NCSC threats"
   _type: rss
   _version: RSS
   _xmlUrl: "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.netresec.com/?page=Blog"
   _text: "NETRESEC Network Security Blog"
   _title: "NETRESEC Network Security Blog"
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.netresec.com/rss.ashx"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://scotthelme.co.uk/"
   _text: "Scott Helme"
   _title: "Scott Helme"
   _type: rss
   _version: RSS
   _xmlUrl: "https://scotthelme.co.uk/rss/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.securityweek.com/"
   _text: "SecurityWeek RSS Feed"
   _title: "SecurityWeek RSS Feed"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/securityweek"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.theregister.com/security/"
   _text: "The Register - Security"
   _title: "The Register - Security"
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.theregister.co.uk/security/headlines.atom"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.tripwire.com/state-of-security"
   _text: "The State of Security"
   _title: "The State of Security"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/tripwire-state-of-security"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.troyhunt.com/"
   _text: "Troy Hunt"
   _title: "Troy Hunt"
   _type: rss
   _version: RSS
   _xmlUrl: "https://www.troyhunt.com/rss/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.zdnet.com/"
   _text: "ZDNet | security RSS"
   _title: "ZDNet | security RSS"
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.zdnet.com/blog/security/rss"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://512pixels.net/"
   _text: "512 Pixels"
   _title: "512 Pixels"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds2.feedburner.com/forkbombr/rss2"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://www.apple.com/pr/"
   _text: "Apple Newsroom"
   _title: "Apple Newsroom"
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.apple.com/pr/feeds/pr.rss"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://iamashley.co.uk/"
   _text: "Ashley Baxter"
   _title: "Ashley Baxter"
   _type: rss
   _version: RSS
   _xmlUrl: "http://iamashley.co.uk/feed.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://eblingroup.com/blog/"
   _text: "Blog - Eblin Group"
   _title: "Blog - Eblin Group"
   _type: rss
   _version: RSS
   _xmlUrl: "https://eblingroup.com/blog/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://jordanmerrick.com/"
   _text: "Blog - Jordan Merrick"
   _title: "Blog - Jordan Merrick"
   _type: rss
   _version: RSS
   _xmlUrl: "https://jordanmerrick.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.moneysavingexpert.com/news/"
   _text: "Blog - MSE"
   _title: "Blog - MSE"
   _type: rss
   _version: RSS
   _xmlUrl: "https://www.moneysavingexpert.com/news/feeds/news.rss"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://onlinejournalismblog.com/"
   _text: "Blog - Online Journalism"
   _title: "Blog - Online Journalism"
   _type: rss
   _version: RSS
   _xmlUrl: "http://onlinejournalismblog.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://simonbs.dev/"
   _text: "Blog - Simon BS"
   _title: "Blog - Simon BS"
   _type: rss
   _version: RSS
   _xmlUrl: "http://simonbs.dev/feed.rss"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://theapplewatchtriathlete.com/blog-1/"
   _text: "Blog - The Apple Watch Triathlete"
   _title: "Blog - The Apple Watch Triathlete"
   _type: rss
   _version: RSS
   _xmlUrl: "https://theapplewatchtriathlete.com/blog-1?format=RSS"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://rosemaryorchard.com/"
   _text: "Blog – Rosemary Orchard"
   _title: "Blog – Rosemary Orchard"
   _type: rss
   _version: RSS
   _xmlUrl: "https://rosemaryorchard.com/category/blog/feed"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://daringfireball.net/"
   _text: "Daring Fireball"
   _title: "Daring Fireball"
   _type: rss
   _version: RSS
   _xmlUrl: "http://daringfireball.net/index.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://sive.rs/"
   _text: "Derek Sivers"
   _title: "Derek Sivers"
   _type: rss
   _version: RSS
   _xmlUrl: "https://sive.rs/en.atom"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://emilywebber.co.uk/"
   _text: "Emily Webber"
   _title: "Emily Webber"
   _type: rss
   _version: RSS
   _xmlUrl: "http://emilywebber.co.uk/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.channel4.com/news"
   _text: "FactCheck – Channel 4 News"
   _title: "FactCheck – Channel 4 News"
   _type: rss
   _version: RSS
   _xmlUrl: "http://blogs.channel4.com/factcheck/feed"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://fionavoss.blog/"
   _text: "Fiona Voss"
   _title: "Fiona Voss"
   _type: rss
   _version: RSS
   _xmlUrl: "http://fionavoss.blog/feed.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://flowingdata.com/"
   _text: FlowingData
   _title: FlowingData
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/FlowingData"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://httptoolkit.tech/blog/"
   _text: "HTTP toolkit"
   _title: "HTTP toolkit"
   _type: rss
   _version: RSS
   _xmlUrl: "https://httptoolkit.tech/rss.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://indiedevmonday.com/"
   _text: "Indie Dev Monday"
   _title: "Indie Dev Monday"
   _type: rss
   _version: RSS
   _xmlUrl: "https://indiedevmonday.com/feed.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://inessential.com/"
   _text: Inessential.com
   _title: Inessential.com
   _type: rss
   _version: RSS
   _xmlUrl: "http://inessential.com/xml/rss.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://informationisbeautiful.net/"
   _text: "Information is Beautiful"
   _title: "Information is Beautiful"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/InformationIsBeautiful"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.caseyliss.com/"
   _text: "Liss is More"
   _title: "Liss is More"
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.caseyliss.com/rss"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://www.lukew.com/"
   _text: "LukeW | Digital Product Design + Strategy"
   _title: "LukeW | Digital Product Design + Strategy"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/FunctioningForm"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.macsparky.com/"
   _text: MacSparky
   _title: MacSparky
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.macsparky.com/blog/rss.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.macstories.net/"
   _text: MacStories
   _title: MacStories
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/macstoriesnet"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://marco.org/"
   _text: Marco.org
   _title: Marco.org
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.marco.org/rss"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://mattgemmell.com/"
   _text: "Matt Gemmell"
   _title: "Matt Gemmell"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/mattgemmell/rss2"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://www.mountaingoatsoftware.com/blog/"
   _text: "Mike Cohn's Blog - Succeeding With Agile"
   _title: "Mike Cohn's Blog - Succeeding With Agile"
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.mountaingoatsoftware.com/blog/rss"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.moneywise.co.uk/"
   _text: Moneywise
   _title: Moneywise
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.moneywise.co.uk/rss.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.nahumck.me/"
   _text: Nahumck.me
   _title: Nahumck.me
   _type: rss
   _version: RSS
   _xmlUrl: "https://nahumck.me/feed/json/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://standardebooks.org/"
   _text: "New Ebook Releases"
   _title: "New Ebook Releases"
   _type: rss
   _version: RSS
   _xmlUrl: "https://standardebooks.org/rss/new-releases"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://onethingwell.org/"
   _text: "One Thing Well"
   _title: "One Thing Well"
   _type: rss
   _version: RSS
   _xmlUrl: "http://onethingwell.org/rss"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://osxdaily.com/"
   _text: "OS X Daily"
   _title: "OS X Daily"
   _type: rss
   _version: RSS
   _xmlUrl: "http://osxdaily.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.politics.co.uk/"
   _text: Politics.co.uk
   _title: Politics.co.uk
   _type: rss
   _version: RSS
   _xmlUrl: "https://www.politics.co.uk/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://polymaths.blog/"
   _text: PolyMaths
   _title: PolyMaths
   _type: rss
   _version: RSS
   _xmlUrl: "https://polymaths.blog/feed.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://shoreline.io/"
   _text: Shoreline
   _title: Shoreline
   _type: rss
   _version: RSS
   _xmlUrl: "https://shoreline.io/rss.xml/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://sifted.eu/"
   _text: "Sifted EU"
   _title: "Sifted EU"
   _type: rss
   _version: RSS
   _xmlUrl: "https://sifted.eu/latest/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://sixcolors.com/?feed=json"
   _text: "Six Colors"
   _title: "Six Colors"
   _type: rss
   _version: RSS
   _xmlUrl: "https://sixcolors.com/feed.json"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://www.subtraction.com/"
   _text: Subtraction.com
   _title: Subtraction.com
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/subtraction"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://thedatagoddess.com/"
   _text: "The Data Goddess"
   _title: "The Data Goddess"
   _type: rss
   _version: RSS
   _xmlUrl: "http://thedatagoddess.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://thesweetsetup.com/"
   _text: "The Sweet Setup"
   _title: "The Sweet Setup"
   _type: rss
   _version: RSS
   _xmlUrl: "http://thesweetsetup.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://toolsandtoys.net/"
   _text: "Tools and Toys"
   _title: "Tools and Toys"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/toolsandtoys"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://unbreak.tech/"
   _text: "Unbreak Tech"
   _title: "Unbreak Tech"
   _type: rss
   _version: RSS
   _xmlUrl: "https://unbreak.tech/feed.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "http://usesthis.com/"
   _text: "Uses This"
   _title: "Uses This"
   _type: rss
   _version: RSS
   _xmlUrl: "http://usesthis.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://xkcd.com/"
   _text: XKCD
   _title: XKCD
   _type: rss
   _version: RSS
   _xmlUrl: "http://xkcd.com/rss.xml"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://zenhabits.net/"
   _text: "Zen Habits"
   _title: "Zen Habits"
   _type: rss
   _version: RSS
   _xmlUrl: "http://feeds.feedburner.com/zenhabits"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://experimental361.com/"
   _text: "Football - Experimental 3-6-1"
   _title: "Football - Experimental 3-6-1"
   _type: rss
   _version: RSS
   _xmlUrl: "http://experimental361.wordpress.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://mywomensfootball.wordpress.com/"
   _text: "Football - My women's football blog"
   _title: "Football - My women's football blog"
   _type: rss
   _version: RSS
   _xmlUrl: "http://mywomensfootball.wordpress.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://statsbomb.com/"
   _text: "Football - StatsBomb"
   _title: "Football - StatsBomb"
   _type: rss
   _version: RSS
   _xmlUrl: "http://www.statsbomb.com/feed/"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://weaintgotnohistory.sbnation.com/"
   _text: "Football - We Ain't Got No History"
   _title: "Football - We Ain't Got No History"
   _type: rss
   _version: RSS
   _xmlUrl: "http://weaintgotnohistory.sbnation.com/rss/current"
-- 
-  _description: ""
+- _description: ""
   _htmlUrl: "https://the5krunner.com/"
   _text: "Running - the5krunner"
   _title: "Running - the5krunner"
