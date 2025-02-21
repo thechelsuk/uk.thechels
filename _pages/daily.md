@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Thursday, 20 February 2025
+### On Friday, 21 February 2025
 
-- The average temperature today is 11.75˚C,
-- With highs of 12.21˚C and lows of 11.03˚C,
-- It may feel like 11.33˚C with overcast clouds
+- The average temperature today is 12.96˚C,
+- With highs of 13.32˚C and lows of 11.83˚C,
+- It may feel like 12.58˚C with overcast clouds
 
 <!-- weather_marker ends -->
 
@@ -24,7 +24,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > bibble - verb tr.: 1. To eat or drink noisily. verb intr.: 2. To drink habitually or to excess. 3. To produce bubbles or a bubbling sound. noun: 4. Nonsense; something worthless or deceptive.
+ > jactation - noun: 1. Boasting. 2. Involuntary bodily movements, such as tossing or twitching.
 
 <!-- word_marker ends -->
 
@@ -32,26 +32,25 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 114.87000274658203 
+- VWRL.L : 114.01499938964844 
 
 <!-- stocks_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Leaders instil in their people a hope for success and a belief in themselves. Positive leaders empower people to accomplish their goals. - Unknown
+> A leader is one who knows the way, goes the way, and shows the way - John C. Maxwell
 
 <!-- quote_marker ends -->
 
 ### CFC News
 <!-- news_marker starts -->
 
+ - Madueke ruled out for at least a month with hamstring injury — report
+ - Official: Santos sign Deivid Washington on loan from Chelsea
  - WATCH: FourFourTwo on why Chelsea’s season has gone from good to bad, and from bad to worse
  - Chelsea ‘regret’ hiring Pochettino, will review Maresca’s performance only after 2025-26 season — report
  - Chelsea hire Willie ‘cultural architect’ Isa in player-support role — reports
- - Premier League to delay PSR reform by another year
- - Santos, Chelsea agree Deivid Washington loan — report
- - Deivid Washington leads Brazil to South American U20 Championship title
 
 <!-- news_marker ends -->
 
@@ -59,14 +58,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Trump calls Zelenskyy a ‘dictator’ as US rift with Ukraine deepens
- - Russia’s executions of Ukrainian prisoners point to systematic policy
- - Do not let Great British Railways crush competition
- - Trump’s freewheeling disruption could extend to the dollar
- - Politico’s owner praises JD Vance for ‘inspiring message’
- - British Business Bank told to refocus lending on priority sectors
- - Orcel says Ukraine breakthrough could unlock sale of UniCredit’s Russia unit
- - Rio Tinto urges shareholders to reject proposal to drop London listing
+ - Japan to court Tesla on Nissan investment
+ - How high-end City offices smashed through the £100 sq ft ceiling
+ - Donald Trump’s first month in charts
+ - Eight investment rules to live and die by
+ - US moves to dismiss SpaceX discrimination lawsuit
+ - Musk sets up clash with Republican hawks over ‘Doge dividend cheques’
+ - UK’s development investment arm spent £7mn on business class flights
+ - Meta’s ‘free speech’ revamp divides oversight board
 
 <!-- ftnews_marker ends -->
 
@@ -74,19 +73,19 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- fact_marker starts -->
 
-- A spider has transparent blood.
+- The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.
 
 <!-- fact_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 110, using [2, 8, 8, 8, 9, 25]
-- Answer: 18 solutions.
+- Target: 373, using [1, 6, 6, 7, 10, 50]
+- Answer: 13 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 25 + 9 ) x ( 8 / 8 + 2 ) + 8
+  Solution: ( 50 + 10 - 6 ) x 7 + 1 - 6
 
    </details>
 
