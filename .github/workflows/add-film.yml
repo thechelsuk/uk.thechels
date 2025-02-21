@@ -1,5 +1,5 @@
 ---
-name: Add Podcast
+name: Add Film
 on:
     workflow_dispatch:
         inputs:
