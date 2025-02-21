@@ -3,6 +3,7 @@ import pathlib
 import helper
 import yaml
 import random
+import os
 
 APIKEY = os.getenv("OMDB_API_KEY") or ''
 OUTPUT_FILE = "./_data/films.yml"
@@ -18,7 +19,7 @@ if __name__ == "__main__":
         film = random.choice(films)
         title = film['Title']
 
-        url = f"http://www.omdbapi.com/?t={title}&plot=short&r=json&apikey={OMDB_API_KEY}"
+        url = f"http://www.omdbapi.com/?t={title}&plot=short&r=json&apikey={APIKEY}"
         response = requests.get(url)
         data = response.json()
         if data:
