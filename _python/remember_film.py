@@ -4,7 +4,6 @@ import helper
 import yaml
 import random
 
-
 APIKEY = os.getenv("OMDB_API_KEY") or ''
 OUTPUT_FILE = "./_data/films.yml"
 
@@ -27,7 +26,7 @@ if __name__ == "__main__":
         else:
             summary = "No summary available"
 
-        film_output =  f"- {film['Title']} (Rated: {film['Rating']})\n"
+        film_output = f"- {film['Title']} (Rated: {film['Rating']})\n"
         film_output += f"- Released in {film['Year']}\n"
         film_output += f"- Summary: {summary}"
 
