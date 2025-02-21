@@ -7,6 +7,7 @@ import argparse
 APIKEY = os.getenv("OMDB_API_KEY") or ''
 OUTPUT_FILE = "./_data/films.yml"
 
+
 def get_film_data(film_name):
     url = f"https://www.omdbapi.com/?t={film_name}&r=json&apikey={APIKEY}"
     try:
@@ -24,6 +25,7 @@ def get_film_data(film_name):
         print("Error: Unable to parse JSON response")
     return None
 
+
 def load_film_file(file_path):
     path = pathlib.Path(file_path)
     with path.open("r") as f:
@@ -33,7 +35,12 @@ def load_film_file(file_path):
 
 def add_film_to_list(film_data, rating):
     film_code, film_title, film_year = film_data
-    film = {"Imdb": film_code, "Title": film_title, "Year": film_year, "Rating": rating }
+    film = {
+        "Imdb": film_code,
+        "Title": film_title,
+        "Year": film_year,
+        "Rating": rating
+    }
     new_films = load_film_file(OUTPUT_FILE)
     for f in new_films:
         if f["Imdb"] == film_code:
@@ -52,11 +59,12 @@ if __name__ == "__main__":
     else:
         print("not found")
 
-
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Add a film to the list.")
     parser.add_argument("title", help="The title of the film")
-    parser.add_argument("rating", type=int, help="The rating of the film (0-10)")
+    parser.add_argument("rating",
+                        type=int,
+                        help="The rating of the film (0-10)")
     args = parser.parse_args()
     film_data = get_film_data(args.title)
     if film_data:
