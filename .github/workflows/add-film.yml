@@ -37,10 +37,17 @@ jobs:
             - name: Run add_film script
               run: |
                   python '_python/add_film.py' --title "${{ inputs.Title }}" --rating "${{ inputs.Rating }}"
-            - name: Commit files
-              run: |
-                  git config --local user.email "action@github.com"
-                  git config --local user.name "GitHub Action"
-                  git add -A
-                  git commit -m "Added ${{ inputs.Title }}" || echo "No changes to commit"
-                  git push
+            - name: set title
+              run: |-
+                  echo "{title}={Feat: ${{ inputs.title}}}" >> $GITHUB_OUTPUT
+            - name: Create Pull Request
+              uses: peter-evans/create-pull-request@v7
+              with:
+                  committer: GitHub Action <action@github.com>
+                  branch: "new-film-from-dispatch-${{ inputs.Title }}"
+                  delete-branch: true
+                  title: "Feat: ${{ inputs.title}}"
+                  body: |
+                      Automatic PR for new film entry: ${{ inputs.title }}  ${{ inputs.Rating }}
+                  reviewers: "${{ github.repository_owner }}"
+                  commit-message: "feat-${{ inputs.title }}"
