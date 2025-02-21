@@ -51,15 +51,6 @@ def add_film_to_list(film_data, rating):
 
 
 if __name__ == "__main__":
-    film = input("Enter the film title: ")
-    rating = input("Enter the film rating (0-10): ")
-    film_data = get_film_data(film)
-    if film_data:
-        add_film_to_list(film_data, rating)
-    else:
-        print("not found")
-
-if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Add a film to the list.")
     parser.add_argument("title", help="The title of the film")
     parser.add_argument("rating",
