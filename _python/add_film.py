@@ -66,7 +66,7 @@ if __name__ == "__main__":
 
     args = arguments.parse_args()
     a_title = args.title.replace("`", "")
-    a_rating = args.content.replace("`", "")
+    a_rating = args.rating.replace("`", "")
 
     film_data = get_film_data(a_title)
     if film_data:
