@@ -13,3 +13,4 @@ pytest-md
 pytest-emoji
 yapf
 lxml_html_clean
+yfinance
