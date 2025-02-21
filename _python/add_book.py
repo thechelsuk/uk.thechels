@@ -11,6 +11,7 @@ OUTPUT_FILE = "_data/books.yml"
 yaml = YAML()
 yaml.default_flow_style = False
 
+
 def load_book_file(file_path):
     path = pathlib.Path(file_path)
     if not path.exists():
@@ -19,9 +20,11 @@ def load_book_file(file_path):
         data = yaml.load(f)
         return data if isinstance(data, list) else []
 
+
 def save_books(file_path, books):
     with pathlib.Path(file_path).open("w") as f:
         yaml.dump(books, f)
+
 
 def add_book_to_list(book_data):
     library_books = load_book_file(OUTPUT_FILE)
@@ -34,6 +37,7 @@ def add_book_to_list(book_data):
     library_books.append(book_data)
     save_books(OUTPUT_FILE, library_books)
     return True
+
 
 def download_book_cover(book_data):
     cover_url = book_data["cover"]
@@ -53,12 +57,15 @@ def download_book_cover(book_data):
             img.save(cover_path, 'PNG')
             print(f"Cover image saved to {cover_path}")
         else:
-            print(f"Failed to download cover image. Status code: {cover_response.status_code}")
+            print(
+                f"Failed to download cover image. Status code: {cover_response.status_code}"
+            )
     except requests.exceptions.RequestException as e:
         print(f"Error downloading cover image: {e}")
     except Exception as e:
         print(f"Error saving cover image: {e}")
     return True
+
 
 def get_book_data(isbn):
     headers = {
@@ -81,6 +88,7 @@ def get_book_data(isbn):
         "notes": "",
     }
     return book_data
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Add a book to the library.")
