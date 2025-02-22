@@ -5,9 +5,78 @@ import pytest
 from datetime import datetime
 import pathlib
 import os
+from unittest.mock import patch
+import yaml
 
+class TestHelper:
 
-class Test_helper:
+    @pytest.fixture
+    def setup_test_file(self):
+        # Create a temporary films.yml file for testing
+        test_file = pathlib.Path("./_data/test_films.yml")
+        test_file.write_text(yaml.dump([
+            {"Imdb": "tt1234567", "Title": "Test Film", "Year": "2021", "Rating": 5}
+        ]))
+        helper.OUTPUT_FILE = str(test_file)
+        yield
+        # Remove the temporary test file after tests
+        test_file.unlink()
+
+    def test_load_film_file(self, setup_test_file):
+        films = helper.load_film_file(helper.OUTPUT_FILE)
+        assert len(films) == 1
+        assert films[0]["Imdb"] == "tt1234567"
+        assert films[0]["Title"] == "Test Film"
+        assert films[0]["Year"] == "2021"
+        assert films[0]["Rating"] == 5
+
+    def test_make_film_url(self):
+        film_name = "Inception"
+        apikey = "testapikey"
+        url = helper.make_film_url(film_name, apikey)
+        expected_url = f"https://www.omdbapi.com/?t={film_name}&r=json&apikey={apikey}"
+        assert url == expected_url
+
+    def test_add_film_to_list_no_duplicates(self, setup_test_file):
+        film_data = ("tt1234567", "Test Film", "2021")
+        rating = 5
+        result = helper.add_film_to_list(film_data, rating, helper.OUTPUT_FILE)
+        assert not result, "Duplicate film should not be added"
+
+    def test_add_film_to_list_new_entry(self, setup_test_file):
+        film_data = ("tt7654321", "New Test Film", "2022")
+        rating = 8
+        result = helper.add_film_to_list(film_data, rating, helper.OUTPUT_FILE)
+        assert result, "New film should be added"
+        films = helper.load_film_file(helper.OUTPUT_FILE)
+        assert len(films) == 2, "There should be two films in the list"
+        assert films[-1]["Imdb"] == "tt7654321", "The new film should be added to the list"
+
+    @patch('requests.get')
+    def test_get_film_data(self, mock_get):
+        mock_response = mock_get.return_value
+        mock_response.raise_for_status.return_value = None
+        mock_response.json.return_value = {
+            "Response": "True",
+            "Title": "Inception",
+            "Year": "2010",
+            "imdbID": "tt1375666"
+        }
+        url = "https://www.omdbapi.com/?t=Inception&r=json&apikey=testapikey"
+        film_data = helper.get_film_data(url)
+        assert film_data == ("tt1375666", "Inception", "2010")
+
+    @patch('requests.get')
+    def test_get_film_data_not_found(self, mock_get):
+        mock_response = mock_get.return_value
+        mock_response.raise_for_status.return_value = None
+        mock_response.json.return_value = {
+            "Response": "False",
+            "Error": "Movie not found!"
+        }
+        url = "https://www.omdbapi.com/?t=NonExistentFilm&r=json&apikey=testapikey"
+        film_data = helper.get_film_data(url)
+        assert film_data is None
 
     def test_ord_given_int_returns_correct_string(self):
         assert helper.get_ordinal_string(1) == "1st"
@@ -117,7 +186,6 @@ class Test_helper:
         assert not contains(output, "- a")
         assert not contains(output, "- b")
         assert contains(output, "string")
-
 
 if __name__ == "__main__":
     pytest.main()
