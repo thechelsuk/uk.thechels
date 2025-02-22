@@ -2,7 +2,7 @@
 
 layout: post
 date: 2025-02-23
-title: The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
+title: The Phoenix Project - A Novel About IT, DevOps, and Helping Your Business Win
 
 ---
 
