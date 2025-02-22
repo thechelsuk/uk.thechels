@@ -8,15 +8,20 @@ import os
 from unittest.mock import patch
 import yaml
 
+
 class TestHelper:
 
     @pytest.fixture
     def setup_test_file(self):
         # Create a temporary films.yml file for testing
         test_file = pathlib.Path("./_data/test_films.yml")
-        test_file.write_text(yaml.dump([
-            {"Imdb": "tt1234567", "Title": "Test Film", "Year": "2021", "Rating": 5}
-        ]))
+        test_file.write_text(
+            yaml.dump([{
+                "Imdb": "tt1234567",
+                "Title": "Test Film",
+                "Year": "2021",
+                "Rating": 5
+            }]))
         helper.OUTPUT_FILE = str(test_file)
         yield
         # Remove the temporary test file after tests
@@ -50,7 +55,8 @@ class TestHelper:
         assert result, "New film should be added"
         films = helper.load_film_file(helper.OUTPUT_FILE)
         assert len(films) == 2, "There should be two films in the list"
-        assert films[-1]["Imdb"] == "tt7654321", "The new film should be added to the list"
+        assert films[-1][
+            "Imdb"] == "tt7654321", "The new film should be added to the list"
 
     @patch('requests.get')
     def test_get_film_data(self, mock_get):
@@ -186,6 +192,7 @@ class TestHelper:
         assert not contains(output, "- a")
         assert not contains(output, "- b")
         assert contains(output, "string")
+
 
 if __name__ == "__main__":
     pytest.main()
