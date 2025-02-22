@@ -33,7 +33,7 @@ def load_film_file(file_path):
     return data
 
 
-def add_film_to_list(film_data, rating, output_file);
+def add_film_to_list(film_data, rating, output_file):
     film_code, film_title, film_year = film_data
     film = {
         "Imdb": film_code,
