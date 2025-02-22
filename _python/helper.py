@@ -7,9 +7,41 @@ import feedparser
 from yahoo_fin import stock_info as si
 import yfinance as yf
 from requests.exceptions import JSONDecodeError
-
+import requests
+import datetime
+from bs4 import BeautifulSoup
 
 # methods
+def add_suffix(day):
+    if 4 <= day <= 20 or 24 <= day <= 30:
+        suffix = "th"
+    else:
+        suffix = ["st", "nd", "rd"][day % 10 - 1]
+    return suffix
+
+
+def format_date(date):
+    suffix = add_suffix(date.day)
+    formatted_date = date.strftime(f'%A %d{suffix} %B %Y')
+    return formatted_date
+
+
+def get_fixtures(link):
+    page = requests.get(link)
+    today = format_date(datetime.datetime.now())
+    tomorrow = format_date(datetime.datetime.now() + datetime.timedelta(days=1))
+    content = re.search(f'{today}(.*?){tomorrow}', page.text, re.DOTALL).group(1)
+    soup = BeautifulSoup(content, 'html.parser')
+    body_text = ' - '.join(soup.stripped_strings)
+    matches = []
+    for line in body_text.split(' - '):
+        if ' v ' in line:
+            matches.append(line)
+    if not matches:
+        return "No Fixtures"
+    return matches
+
+
 def get_countdown_number_selection():
     selected = list()
     small_numbers = list(range(1, 10)) * 2

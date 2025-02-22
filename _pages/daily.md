@@ -20,13 +20,22 @@ seo: Good Morning Mat, Here is your daily briefing
 - No tasks today
 <!-- task_marker ends -->
 
-### Word
+### Fixture List
 
-<!-- word_marker starts -->
+<!-- fixture_marker starts -->
+- Crystal Palace U18 v Aston Villa U18
+- Derby County v Millwall
+- Plymouth Argyle v Cardiff City
+- Sunderland v Hull City
+- Reading v Birmingham City
+- Rotherham United v Barnsley
+- Crewe Alexandra v Barrow AFC
+- Morecambe v Walsall
+- Everton v Manchester United
+- Manchester City U18 v Sunderland U18
+- Aston Villa v Chelsea
+<!-- fixture_marker ends -->
 
- > jactation - noun: 1. Boasting. 2. Involuntary bodily movements, such as tossing or twitching.
-
-<!-- word_marker ends -->
 
 ### Stocks
 
@@ -36,14 +45,8 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker ends -->
 
-### Quote of the day
-<!-- quote_marker starts -->
 
-> A leader is one who knows the way, goes the way, and shows the way - John C. Maxwell
-
-<!-- quote_marker ends -->
-
-### CFC News
+### Team News
 <!-- news_marker starts -->
 
  - Madueke ruled out for at least a month with hamstring injury — report
@@ -68,6 +71,23 @@ seo: Good Morning Mat, Here is your daily briefing
  - Meta’s ‘free speech’ revamp divides oversight board
 
 <!-- ftnews_marker ends -->
+
+### Word
+
+<!-- word_marker starts -->
+
+ > jactation - noun: 1. Boasting. 2. Involuntary bodily movements, such as tossing or twitching.
+
+<!-- word_marker ends -->
+
+
+### Quote of the day
+<!-- quote_marker starts -->
+
+> A leader is one who knows the way, goes the way, and shows the way - John C. Maxwell
+
+<!-- quote_marker ends -->
+
 
 ### Interesting Fact
 

@@ -39,7 +39,8 @@ jobs:
                   python '_python/wagnh.py'
                   python '_python/ftnews.py'
                   python '_python/facts.py'
-                  python '_python/remember_film.py
+                  python '_python/remember_film.py'
+                  python '_python/fixtures.py'
             - name: Commit and push
               run: |-
                   git diff
