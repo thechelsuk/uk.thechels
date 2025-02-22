@@ -1,6 +1,7 @@
 ---
 name: Add Film
 on:
+    repository_dispatch:
     workflow_dispatch:
         inputs:
             Title:
