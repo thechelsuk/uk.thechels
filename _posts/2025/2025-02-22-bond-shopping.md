@@ -16,9 +16,9 @@ James Bond enters Q's lab, where Q is working on a new gadget.
 
 **Q:** Very funny, Bond. This is a TV, it's just like 30 other TVs completely indistinguishable to the TV you purchased last week.
 
-**Bond:** (examining the gadget) hmm, I'm not sure I've heard of "XangTech", is this a new branch?
+**Bond:** (examining the gadget) hmm, I'm not sure I've heard of "XangTech", is this a new special branch?
 
-**Q:** fine. How about this shirt?
+**Q:** sort of. Fine. How about this shirt?
 
 **Bond:** Sounds useful. And what's the twist?
 
@@ -30,10 +30,10 @@ James Bond enters Q's lab, where Q is working on a new gadget.
 
 **Bond:** (smiling) A delightful touch, Q.
 
-**M:** (nodding) You're right Q, keeping an eye on adversaries is necessary, Bond, and it's be easier if you weren't half-sozzled all the time.
+**M:** (nodding) You're right Q, keeping an eye on adversaries is necessary, Bond, and it'll be easier if you weren't half-sozzled all the time.
 
 **Bond:** (smiling) Just doing my part for the services economy and country M.
 
 **M:** Bond... be careful with your shopping habits.
 
-Q (to M) at least he pays taxes.
+**Q:** (to M) at least he pays taxes.
