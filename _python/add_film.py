@@ -4,7 +4,7 @@ import yaml
 import os
 import argparse
 
-APIKEY = os.getenv("OMDB_API_KEY") or ''
+APIKEY = os.getenv("omdb_key") or ''
 OUTPUT_FILE = "./_data/films.yml"
 
 
