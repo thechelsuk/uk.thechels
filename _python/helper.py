@@ -11,6 +11,7 @@ import requests
 import datetime
 from bs4 import BeautifulSoup
 
+
 # methods
 def add_suffix(day):
     if 4 <= day <= 20 or 24 <= day <= 30:
@@ -29,8 +30,10 @@ def format_date(date):
 def get_fixtures(link):
     page = requests.get(link)
     today = format_date(datetime.datetime.now())
-    tomorrow = format_date(datetime.datetime.now() + datetime.timedelta(days=1))
-    content = re.search(f'{today}(.*?){tomorrow}', page.text, re.DOTALL).group(1)
+    tomorrow = format_date(datetime.datetime.now() +
+                           datetime.timedelta(days=1))
+    content = re.search(f'{today}(.*?){tomorrow}', page.text,
+                        re.DOTALL).group(1)
     soup = BeautifulSoup(content, 'html.parser')
     body_text = ' - '.join(soup.stripped_strings)
     matches = []
