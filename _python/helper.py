@@ -21,10 +21,12 @@ def add_suffix(day):
         suffix = ["st", "nd", "rd"][day % 10 - 1]
     return suffix
 
+
 def format_date(date):
     suffix = add_suffix(date.day)
     formatted_date = date.strftime(f'%A %d{suffix} %B %Y')
     return formatted_date
+
 
 def load_film_file(file_path):
     path = pathlib.Path(file_path)
@@ -54,6 +56,7 @@ def add_film_to_list(film_data, rating, output_file):
     with pathlib.Path(output_file).open("w") as f:
         yaml.dump(new_films, f)
     return True
+
 
 def get_film_data(url):
     try:

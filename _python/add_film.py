@@ -18,7 +18,7 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    url = helper.make_film_url(args.title,  APIKEY)
+    url = helper.make_film_url(args.title, APIKEY)
     film_data = helper.get_film_data(url)
     if film_data:
         if helper.add_film_to_list(film_data, args.rating, OUTPUT_FILE):
