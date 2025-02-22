@@ -7,17 +7,18 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Friday, 21 February 2025
+### On Saturday, 22 February 2025
 
-- The average temperature today is 12.96˚C,
-- With highs of 13.32˚C and lows of 11.83˚C,
-- It may feel like 12.58˚C with overcast clouds
+- The average temperature today is 12.36˚C,
+- With highs of 13.17˚C and lows of 11.75˚C,
+- It may feel like 11.77˚C with few clouds
 
 <!-- weather_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Water the plants
+
 <!-- task_marker ends -->
 
 ### Fixture List
@@ -41,7 +42,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 114.01499938964844
+- VWRL.L : 113.91000366210938 
 
 <!-- stocks_marker ends -->
 
@@ -49,11 +50,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
- - Madueke ruled out for at least a month with hamstring injury — report
- - Official: Santos sign Deivid Washington on loan from Chelsea
- - WATCH: FourFourTwo on why Chelsea’s season has gone from good to bad, and from bad to worse
- - Chelsea ‘regret’ hiring Pochettino, will review Maresca’s performance only after 2025-26 season — report
- - Chelsea hire Willie ‘cultural architect’ Isa in player-support role — reports
+ - The people’s choice against Aston Villa: Try and try again
+ - Maresca insists he’s not Chelsea just ‘to survive’ but ‘to win games’ and ‘fight for titles’
+ - Aston Villa vs. Chelsea, Premier League: Preview, team news, how to watch
+ - Chelsea drawn against FC Copenhagen in UEFA Conference League Round of 16
+ - Chelsea director Jonathan Goldstein confirms ‘100 per cent’ support of Maresca
+ - How should Chelsea line up against Aston Villa to avoid sinking further into the mire?
 
 <!-- news_marker ends -->
 
@@ -61,14 +63,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Japan to court Tesla on Nissan investment
- - How high-end City offices smashed through the £100 sq ft ceiling
- - Donald Trump’s first month in charts
- - Eight investment rules to live and die by
- - US moves to dismiss SpaceX discrimination lawsuit
- - Musk sets up clash with Republican hawks over ‘Doge dividend cheques’
- - UK’s development investment arm spent £7mn on business class flights
- - Meta’s ‘free speech’ revamp divides oversight board
+ - Trump fires top US military officer in Pentagon shake-up
+ - Trump considers tariffs to counter digital services taxes on Big Tech
+ - What’s really behind Trump’s abrupt pivot to Russia?
+ - The anti-woke overcorrection is here
+ - How Washington plans to defend the dollar
+ - Berkshire Hathaway’s cash pile hits record as Buffett dumps stocks
+ - Hamas frees five hostages as first phase of ceasefire nears end
+ - Top shale boss says US oil companies will not flock back to Russia
 
 <!-- ftnews_marker ends -->
 
@@ -84,7 +86,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> A leader is one who knows the way, goes the way, and shows the way - John C. Maxwell
+> A great ScrumMaster grasps the skills and mindset of the role. - Geoff Watts
 
 <!-- quote_marker ends -->
 
@@ -93,27 +95,27 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- fact_marker starts -->
 
-- The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.
+- Shakespeare spelled his OWN name several different ways.
 
 <!-- fact_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Robin Hood (Rated: 3)
-- Released in 2010
-- Summary: In twelfth-century England, Robin Longstride and his band of marauders confront corruption in a local village and lead an uprising against the crown that will forever alter the balance of world power.
+- Skylines (Rated: 3)
+- Released in 2020
+- Summary: When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what's left of humanity.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 373, using [1, 6, 6, 7, 10, 50]
-- Answer: 13 solutions.
+- Target: 553, using [2, 4, 5, 8, 25, 100]
+- Answer: 4 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 + 10 - 6 ) x 7 + 1 - 6
+  Solution: ( 100 + 8 - 25 - 4 ) x ( 5 + 2 )
 
    </details>
 
