@@ -4,11 +4,11 @@ on:
     repository_dispatch:
     workflow_dispatch:
         inputs:
-            Title:
-                description: "Title"
+            title:
+                description: "title"
                 required: true
-            Rating:
-                description: "Rating"
+            rating:
+                description: "rating"
                 required: true
 env:
     actor: ${{ github.actor }}
@@ -39,7 +39,7 @@ jobs:
                   python -m pip install -r "./_python/requirements.txt" --quiet
             - name: Run add_film script
               run: |
-                  python '_python/add_film.py' --title "${{ inputs.Title }}" --rating "${{ inputs.Rating }}"
+                  python '_python/add_film.py' --title "${{ inputs.title }}" --rating "${{ inputs.rating }}"
             - name: Commit and push
               run: |-
                   git diff
