@@ -8,8 +8,9 @@ from yahoo_fin import stock_info as si
 import yfinance as yf
 from requests.exceptions import JSONDecodeError
 import requests
-import datetime
 from bs4 import BeautifulSoup
+import pathlib
+import yaml
 
 
 # methods
@@ -20,11 +21,55 @@ def add_suffix(day):
         suffix = ["st", "nd", "rd"][day % 10 - 1]
     return suffix
 
-
 def format_date(date):
     suffix = add_suffix(date.day)
     formatted_date = date.strftime(f'%A %d{suffix} %B %Y')
     return formatted_date
+
+def load_film_file(file_path):
+    path = pathlib.Path(file_path)
+    with path.open("r") as f:
+        data = yaml.safe_load(f)
+    return data
+
+
+def make_film_url(film_name, apikey):
+    url = f"https://www.omdbapi.com/?t={film_name}&r=json&apikey={apikey}"
+    return url
+
+
+def add_film_to_list(film_data, rating, output_file):
+    film_code, film_title, film_year = film_data
+    film = {
+        "Imdb": film_code,
+        "Title": film_title,
+        "Year": film_year,
+        "Rating": rating
+    }
+    new_films = load_film_file(output_file)
+    for f in new_films:
+        if f["Imdb"] == film_code:
+            return False
+    new_films.append(film)
+    with pathlib.Path(output_file).open("w") as f:
+        yaml.dump(new_films, f)
+    return True
+
+def get_film_data(url):
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+        data = response.json()
+        if data.get("Response") == "True":
+            print(f"Found film: {data.get('Title')} ({data.get('Year')})")
+            return data.get("imdbID"), data.get("Title"), data.get("Year")
+        else:
+            print(f"Error: {data.get('Error')}")
+    except requests.exceptions.RequestException as e:
+        print(f"Network error: {e}")
+    except ValueError:
+        print("Error: Unable to parse JSON response")
+    return None
 
 
 def get_fixtures(link):
