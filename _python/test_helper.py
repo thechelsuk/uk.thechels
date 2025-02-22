@@ -55,8 +55,7 @@ class TestHelper:
         assert result, "New film should be added"
         films = helper.load_film_file(helper.OUTPUT_FILE)
         assert len(films) == 2, "There should be two films in the list"
-        assert films[-1][
-            "Imdb"] == "tt7654321", "The new film should be added to the list"
+        assert films[-1]["Imdb"] == "tt7654321", "The new film should be added"
 
     @patch('requests.get')
     def test_get_film_data(self, mock_get):
