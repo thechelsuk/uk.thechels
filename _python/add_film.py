@@ -54,11 +54,8 @@ def add_film_to_list(film_data, rating):
 # processing
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Add a film to the list.")
-    parser.add_argument("--title", required=True, help="The title of the film")
-    parser.add_argument("--rating",
-                        required=True,
-                        type=int,
-                        help="The rating of the film (0-10)")
+    parser.add_argument("--title", required=True, help="Name the film")
+    parser.add_argument("--rating",required=True,type=int, help="Rate (0-10)")
 
     args = parser.parse_args()
 
