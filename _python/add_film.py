@@ -8,7 +8,7 @@ APIKEY = os.getenv("omdb_key") or ''
 OUTPUT_FILE = "./_data/films.yml"
 
 
-def get_film_data(film_name):
+def get_film_data(film_name ,url):
     url = f"https://www.omdbapi.com/?t={film_name}&r=json&apikey={APIKEY}"
     try:
         response = requests.get(url)
@@ -33,7 +33,7 @@ def load_film_file(file_path):
     return data
 
 
-def add_film_to_list(film_data, rating):
+def add_film_to_list(film_data, rating, output_file);
     film_code, film_title, film_year = film_data
     film = {
         "Imdb": film_code,
@@ -41,12 +41,12 @@ def add_film_to_list(film_data, rating):
         "Year": film_year,
         "Rating": rating
     }
-    new_films = load_film_file(OUTPUT_FILE)
+    new_films = load_film_file(output_file)
     for f in new_films:
         if f["Imdb"] == film_code:
             return False
     new_films.append(film)
-    with pathlib.Path(OUTPUT_FILE).open("w") as f:
+    with pathlib.Path(output_file).open("w") as f:
         yaml.dump(new_films, f)
     return True
 
@@ -64,7 +64,7 @@ if __name__ == "__main__":
 
     film_data = get_film_data(args.title)
     if film_data:
-        if add_film_to_list(film_data, args.rating):
+        if add_film_to_list(film_data, args.rating, OUTPUT_FILE):
             print("Film added successfully.")
         else:
             print("Film already exists in the list.")
