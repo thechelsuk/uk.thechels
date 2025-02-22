@@ -8,7 +8,7 @@ APIKEY = os.getenv("omdb_key") or ''
 OUTPUT_FILE = "./_data/films.yml"
 
 
-def get_film_data(film_name ,url):
+def get_film_data(film_name, url):
     url = f"https://www.omdbapi.com/?t={film_name}&r=json&apikey={APIKEY}"
     try:
         response = requests.get(url)
