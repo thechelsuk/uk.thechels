@@ -112,9 +112,7 @@ Think about the scenarios in which your particular management approach might man
 
 In those environments, what do you find you _optimise_ for most as a manager?
 
----
-
-Optimise for long-term relationships.
+#### Optimise for long-term relationships.
 
 In the beginning of your relationships, share with your teammates:
 * What do you optimise for in your role?
@@ -163,7 +161,8 @@ Forming lots of open questions (instead of problem solving questions, or giving 
 Holding up a mirror for the other person and describing what you see or hear, or asking them to reflect themselves.
 
 Help your teammates reflect by repeating back to them what you hear them say.
-  * _What I'm hearing you say is that you're frustrated with how this project is going. Is that right?_
+
+> _What I'm hearing you say is that you're frustrated with how this project is going. Is that right?_
 
 Don't be worried about giving a bad reflection; reflecting back what you're hearing will still help your teammate.
 
