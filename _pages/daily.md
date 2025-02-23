@@ -35,7 +35,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 113.91000366210938 
+- VWRL.L : 113.91000366210938
 
 <!-- stocks_marker ends -->
 
@@ -67,7 +67,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker ends -->
 
-### Word
+### Word of the day
 
 <!-- word_marker starts -->
 
@@ -83,14 +83,6 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- quote_marker ends -->
 
-
-### Interesting Fact
-
-<!-- fact_marker starts -->
-
-- The only two days of the year in which there are no professional sports games--MLB, NBA, NHL, or NFL--are the day before and the day after the Major League All-Star Game.
-
-<!-- fact_marker ends -->
 
 ### Film Archive
 
