@@ -74,33 +74,22 @@ It can be really helpful to gather insights about each teammate's growth areas, 
 
 You can ask a list of simple questions to your teammates in your first 1:1 together. A template.
 
-```
-What makes you grumpy?
 
-How will I know when you're grumpy?
-
-How can I help you when you're grumpy?
-
-In what medium (Slack, email, in person, etc.) do you prefer to receive feedback?
-
-When do you prefer to receive feedback—routinely in 1:1s, or as-it-happens?
-
-How do you prefer to receive recognition—publicly or privately?
-
-What makes 1:1s the most valuable for you?
-
-What are your goals for this year? And for the next three months?
-
-What do you need from your manager?
-
-What do you need from your teammates?
-
-What do you need from your peers outside the team?
+- What makes you grumpy?
+- How will I know when you're grumpy?
+- How can I help you when you're grumpy?
+- In what medium (Slack, email, in person, etc.) do you prefer to receive feedback?
+- When do you prefer to receive feedback—routinely in 1:1s, or as-it-happens?
+- How do you prefer to receive recognition—publicly or privately?
+- What makes 1:1s the most valuable for you?
+- What are your goals for this year? And for the next three months?
+- What do you need from your manager?
+- What do you need from your teammates?
+- What do you need from your peers outside the team?
 
 Human learning and growth requires the right amount of four things: new challenges, low ego, space to reflect and brainstorm, and timely and clear feedback. How are these four going for you? Is there one you need more or less of?
 
-What's your favourite way to treat yourself?
-```
+- What's your favourite way to treat yourself?
 
 As you're kicking off a relationship with a new direct report, it's just as important for them to get to know _you_ as you get to know _them_.
 
@@ -144,7 +133,7 @@ You'll end up wearing four different hats: Mentoring, coaching, sponsoring and d
 
 In mentoring mode, we're giving out advice, sharing our experience and perspective, and helping someone else problem based on that information.
 
-If you are not a member of a marginalised group, and you have a mentee who _is_, be aware of the way members of underrepresented groups are perceived. Make sure that your advice is going to be helpful in practice for your mentee.
+If you are not a member of a marginalised group, and you have a mentee who _is_, be aware of the way members of under-represented groups are perceived. Make sure that your advice is going to be helpful in practice for your mentee.
 
 Our mentee success is ultimately _our_ success.
 
@@ -192,9 +181,9 @@ Sponsorship is all about feeling _on the hook_ for getting someone to the next l
 * Assigning stretch tasks and projects that are _just beyond_ their current skill set, to help them grow and gather evidence for future promotion
 * Opening the door for them to write blog posts, give company or conference talks, or contribute open-source work.
 
-Members of underrepresented groups are typically over-mentored, but under-sponsored (_in-group bias_).
+Members of under-represented groups are typically over-mentored, but under-sponsored (_in-group bias_).
 
-Put in the time and intention to ensure that you're sponsoring members of underrepresented groups too.
+Put in the time and intention to ensure that you're sponsoring members of under-represented groups too.
 
 ### Constructing and delivering feedback
 
@@ -296,7 +285,7 @@ For example:
     * Identifies technical risks
 
 All of those bubbles, intersect on:
-* Define + improve team processes (standups, etc)
+* Define + improve team processes (stand-ups, etc)
 * Deliver feedback to teammates
 * Communicate hiring needs
 * Ensure team is hitting key results
@@ -520,7 +509,7 @@ It can help you realise what kind events drain your energy and which ones _reene
 
 Experiment with your scheduling and see how the changes impact your energy or stress levels.
 
-#### Repriorising your tasks
+#### Re-prioritising your tasks
 
 Scheduling and context-switching might not be the source of your energy drain; you might be overwhelmed by your volume of work and spread too thin.
 
