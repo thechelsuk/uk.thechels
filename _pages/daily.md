@@ -7,34 +7,27 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Saturday, 22 February 2025
+### On Sunday, 23 February 2025
 
-- The average temperature today is 12.36˚C,
-- With highs of 13.17˚C and lows of 11.75˚C,
-- It may feel like 11.77˚C with few clouds
+- The average temperature today is 10.04˚C,
+- With highs of 10.55˚C and lows of 9.05˚C,
+- It may feel like 9.19˚C with scattered clouds
 
 <!-- weather_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Water the plants
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Crystal Palace U18 v Aston Villa U18
-- Derby County v Millwall
-- Plymouth Argyle v Cardiff City
-- Sunderland v Hull City
-- Reading v Birmingham City
-- Rotherham United v Barnsley
-- Crewe Alexandra v Barrow AFC
-- Morecambe v Walsall
-- Everton v Manchester United
-- Manchester City U18 v Sunderland U18
-- Aston Villa v Chelsea
+- Watford v Luton Town
+- Newcastle United v Nottingham Forest
+- Mansfield Town v Wrexham
+- Manchester City v Liverpool
+- Swansea City Women v Wrexham Women
 <!-- fixture_marker ends -->
 
 
@@ -50,12 +43,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Maresca praises team’s reaction in ‘toughest’ defeat of the season yet
+ - Aston Villa 2-1 Chelsea, Premier League: Post-match reaction, ratings
+ - WATCH: Enzo Fernández opens the scoring for Chelsea against Aston Villa! 1-0!
+ - Aston Villa vs. Chelsea, Premier League: Live blog; highlights
  - The people’s choice against Aston Villa: Try and try again
  - Maresca insists he’s not Chelsea just ‘to survive’ but ‘to win games’ and ‘fight for titles’
- - Aston Villa vs. Chelsea, Premier League: Preview, team news, how to watch
- - Chelsea drawn against FC Copenhagen in UEFA Conference League Round of 16
- - Chelsea director Jonathan Goldstein confirms ‘100 per cent’ support of Maresca
- - How should Chelsea line up against Aston Villa to avoid sinking further into the mire?
 
 <!-- news_marker ends -->
 
@@ -63,14 +56,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Trump fires top US military officer in Pentagon shake-up
- - Trump considers tariffs to counter digital services taxes on Big Tech
- - What’s really behind Trump’s abrupt pivot to Russia?
- - The anti-woke overcorrection is here
- - How Washington plans to defend the dollar
- - Berkshire Hathaway’s cash pile hits record as Buffett dumps stocks
- - Hamas frees five hostages as first phase of ceasefire nears end
- - Top shale boss says US oil companies will not flock back to Russia
+ - US says revenue from minerals deal will fuel Ukraine’s postwar growth
+ - Economic partnership will protect the Ukrainian people and the US taxpayer
+ - Trump’s assault on aid sparks chaos in east Africa’s relief hub
+ - When we politicise everything we make society stupider
+ - Who’s afraid of the big, bad sabbatical?
+ - Alternative for Germany set to make gains as Germany goes to the polls
+ - Shein profits slump in fresh challenge to long-planned London IPO
+ - Carmakers turn to new hybrid and petrol models to bolster profits
 
 <!-- ftnews_marker ends -->
 
@@ -86,7 +79,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> A great ScrumMaster grasps the skills and mindset of the role. - Geoff Watts
+> Management is doing things right; leadership is doing the right things - Peter F. Drucker
 
 <!-- quote_marker ends -->
 
@@ -95,28 +88,21 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- fact_marker starts -->
 
-- Shakespeare spelled his OWN name several different ways.
+- The only two days of the year in which there are no professional sports games--MLB, NBA, NHL, or NFL--are the day before and the day after the Major League All-Star Game.
 
 <!-- fact_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Skylines (Rated: 3)
-- Released in 2020
-- Summary: When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what's left of humanity.
+- Hold the Dark (Rated: 3)
+- Released in 2018
+- Summary: After the deaths of three children suspected to be killed by wolves, writer Russell Core is hired by the mother of a missing six-year-old boy to track down and locate her son in the Alaskan wilderness.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 553, using [2, 4, 5, 8, 25, 100]
-- Answer: 4 solutions.
-
-- <details><summary><code>Solution</code></summary>
-
-  Solution: ( 100 + 8 - 25 - 4 ) x ( 5 + 2 )
-
-   </details>
+- Target: 467, using [2, 3, 25, 50, 75, 100]
 
 <!-- game_marker ends -->
