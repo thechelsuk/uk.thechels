@@ -7,7 +7,7 @@ from datetime import date
 from PIL import Image
 from ruamel.yaml import YAML
 
-OUTPUT_FILE = "./_data/books.yml"
+OUTPUT_FILE = "./_data/read.yml"
 yaml = YAML()
 yaml.default_flow_style = False
 
