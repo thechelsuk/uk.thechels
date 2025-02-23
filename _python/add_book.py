@@ -54,7 +54,7 @@ def download_book_cover(book_data):
         print(f"Cover image saved to {new_cover_path}")
     else:
         print(
-            f"Failed to download cover image. Status code: {cover_response.status_code}"
+            f"Failed to download cover image."
         )
     return True
 
