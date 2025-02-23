@@ -2,7 +2,7 @@
 
 A blog hosted on GitHub is available at TheChels.uk. The site uses Jekyll, a static site generator, on Ruby. DNS and SSL by Cloudflare. It also uses GitHub actions, GitHub issues, and Python for extensive automation.
 
-It is called "weak notes" as a play on words of the popular "week notes" [blogging style](https://weeknot.es/) - 
+It is called "weak notes" as a play on words of the popular "week notes" [blogging style](https://weeknot.es/) -
 due to the likelihood, I will have an inconsistent and irregular cadence for posting.
 
 ## Badges
@@ -10,23 +10,23 @@ due to the likelihood, I will have an inconsistent and irregular cadence for pos
 <details><summary><code>Quality Control</code></summary>
 
   [![Run tests](https://github.com/Mat-0/TheChels.uk/actions/workflows/python-ci.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/python-ci.yml)
-  [![CodeQL](https://github.com/Mat-0/TheChels.uk/actions/workflows/codeql.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/codeql.yml) 
-  [![Lighthouse](https://github.com/Mat-0/TheChels.uk/actions/workflows/lighthouse.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/lighthouse.yml) 
-  [![Link Checker](https://github.com/Mat-0/TheChels.uk/actions/workflows/link-checker.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/link-checker.yml) 
-  [![Linter](https://github.com/Mat-0/TheChels.uk/actions/workflows/linter.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/linter.yml) 
-  [![Clear Cache](https://github.com/Mat-0/TheChels.uk/actions/workflows/clear-cache.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/clear-cache.yml) 
-  [![Pages](https://github.com/Mat-0/TheChels.uk/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/pages/pages-build-deployment) 
+  [![CodeQL](https://github.com/mat-0/TheChels.uk/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/mat-0/TheChels.uk/actions/workflows/codeql-analysis.yml)
+  [![Lighthouse](https://github.com/Mat-0/TheChels.uk/actions/workflows/lighthouse.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/lighthouse.yml)
+  [![Link Checker](https://github.com/Mat-0/TheChels.uk/actions/workflows/link-checker.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/link-checker.yml)
+  [![Linter](https://github.com/Mat-0/TheChels.uk/actions/workflows/linter.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/linter.yml)
+  [![Clear Cache](https://github.com/Mat-0/TheChels.uk/actions/workflows/clear-cache.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/clear-cache.yml)
+  [![Pages](https://github.com/Mat-0/TheChels.uk/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/pages/pages-build-deployment)
 </details>
 
 <details><summary><code>Content Management</code></summary>
 
-  [![Add Book](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-book.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-book.yml) 
-  [![Add Now and Next](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-next.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-next.yml) 
-  [![Add Offers](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-offers.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-offers.yml) 
-  [![Add Post](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-post.yml/badge.svg?event=issues)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-post.yml) 
-  [![Add Podcast](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-podcast.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-podcast.yml) 
-  [![Add Quotes](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-quotes.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-quotes.yml) 
-  [![Add Stock](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-stock.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-stock.yml) 
+  [![Add Book](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-book.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-book.yml)
+  [![Add Film](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-film.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-film.yml)
+  [![Add Offers](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-offers.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-offers.yml)
+  [![Add Post](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-post.yml/badge.svg?event=issues)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-post.yml)
+  [![Add Podcast](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-podcast.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-podcast.yml)
+  [![Add Quotes](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-quotes.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-quotes.yml)
+  [![Add Stock](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-stock.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-stock.yml)
 </details>
 
 ## Configuration
@@ -48,4 +48,39 @@ There are several optional settings for you to configure. Use the example `_conf
   ### Site navigation
 
   Using configuration yml, navigation is provided by three collections for `header`, `footer`, and `around_the_web` (on the about page) and are fairly self-explanatory.
+</details>
+
+
+## Post Types
+
+<details><summary><code>Postings</code></summary>
+
+  ### Mixtape Monthly Guide
+
+  - Monthly, create a mixtape running the shortcut
+  - Open the produced and resize to 832px width
+  - Copy the image to the`image/mixtapes/` folder ensuring the name matches the format `yyyy-MM.png`
+  - Push a commit to Prod
+
+  ### Add a Film
+
+  - Run the python script typing in a Film title and a Rating. Or;
+  - Run a workflow dispatch - entering the inputs Film and Rating
+
+
+  ### Add a Book
+
+  - Run a workflow dispatch - entering the ISBN
+  - Download the cover image
+  - Resize to a height of 183px
+  - Save the cover image into the `images/books` folder ensuring the name matches the format `book-[isbn].png`
+  - Push a commit to Prod
+
+  ### Quote posts
+
+  - Capture the selection on a page in safari
+  - Share to Drafts and click Save
+  - In Drafts run the `cite to blog` if it's a quotable post. Or;
+  - In Drafts run the `post to blog` if it's a regular post
+
 </details>
