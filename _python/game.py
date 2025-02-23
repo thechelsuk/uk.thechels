@@ -6,12 +6,16 @@ import random
 import numpy as np
 from random import sample
 
+
 def create_sudoku_board():
     base = 3
     side = base * base
 
-    def pattern(r, c): return (base * (r % base) + r // base + c) % side
-    def shuffle(s): return sample(s, len(s))
+    def pattern(r, c):
+        return (base * (r % base) + r // base + c) % side
+
+    def shuffle(s):
+        return sample(s, len(s))
 
     rBase = range(base)
     rows = [g * base + r for g in shuffle(rBase) for r in shuffle(rBase)]
@@ -27,12 +31,15 @@ def create_sudoku_board():
 
     return board
 
+
 def board_to_markdown(board):
     markdown = "|---|---|---|---|---|---|---|---|---|\n"
     markdown += "|---|---|---|---|---|---|---|---|---|\n"
     for row in board:
-        markdown += "|" + "|".join(f" {num} " if num != 0 else "   " for num in row) + "|\n"
+        markdown += "|" + "|".join(f" {num} " if num != 0 else "   "
+                                   for num in row) + "|\n"
     return markdown
+
 
 # processing
 if __name__ == "__main__":
