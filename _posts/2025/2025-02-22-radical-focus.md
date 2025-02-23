@@ -6,20 +6,20 @@ title: Radical Focus - Achieving Your Most Important Goals with Objectives and K
 
 ---
 
-    - [Introduction](#introduction)
-    - [The framework for Radical Focus](#the-framework-for-radical-focus)
-        - [Why we can't get things done](#why-we-cant-get-things-done)
-        - [A path to success](#a-path-to-success)
-    - [OKR fundamentals](#okr-fundamentals)
-    - [Setting a rhythm of execution](#setting-a-rhythm-of-execution)
-        - [How to hold a meeting to set OKRs for the quarter](#how-to-hold-a-meeting-to-set-okrs-for-the-quarter)
-    - [The timing for OKRs](#the-timing-for-okrs)
-        - [Preparing for the next quarter](#preparing-for-the-next-quarter)
-        - [The first time](#the-first-time)
-    - [OKRs for MVPs](#okrs-for-mvps)
-    - [Improve weekly status emails with OKRs](#improve-weekly-status-emails-with-okrs)
-    - [Common OKR mistakes](#common-okr-mistakes)
-    - [Quick tips on OKRs use](#quick-tips-on-okrs-use)
+ - [Introduction](#introduction)
+ - [The framework for Radical Focus](#the-framework-for-radical-focus)
+     - [Why we can't get things done](#why-we-cant-get-things-done)
+     - [A path to success](#a-path-to-success)
+ - [OKR fundamentals](#okr-fundamentals)
+ - [Setting a rhythm of execution](#setting-a-rhythm-of-execution)
+     - [How to hold a meeting to set OKRs for the quarter](#how-to-hold-a-meeting-to-set-okrs-for-the-quarter)
+ - [The timing for OKRs](#the-timing-for-okrs)
+     - [Preparing for the next quarter](#preparing-for-the-next-quarter)
+     - [The first time](#the-first-time)
+ - [OKRs for MVPs](#okrs-for-mvps)
+ - [Improve weekly status emails with OKRs](#improve-weekly-status-emails-with-okrs)
+ - [Common OKR mistakes](#common-okr-mistakes)
+ - [Quick tips on OKRs use](#quick-tips-on-okrs-use)
 
 
 
