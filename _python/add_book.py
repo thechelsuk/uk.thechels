@@ -53,9 +53,7 @@ def download_book_cover(book_data):
         img.save(new_cover_path, 'PNG')
         print(f"Cover image saved to {new_cover_path}")
     else:
-        print(
-            f"Failed to download cover image."
-        )
+        print(f"Failed to download cover image.")
     return True
 
 
