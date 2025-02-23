@@ -30,16 +30,17 @@ jobs:
                   OPEN_WEATHER_KEY: ${{ secrets.OPEN_WEATHER_KEY }}
                   OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }}
               run: |-
-                  python '_python/stocks.py'
-                  python '_python/countdown.py'
-                  python '_python/task.py'
                   python '_python/forecast.py'
-                  python '_python/quote.py'
-                  python '_python/word.py'
+                  python '_python/task.py'
+                  python '_python/fixtures.py'
+                  python '_python/stocks.py'
                   python '_python/wagnh.py'
                   python '_python/ftnews.py'
+                  python '_python/word.py'
+                  python '_python/quote.py'
                   python '_python/remember_film.py'
-                  python '_python/fixtures.py'
+                  python '_python/countdown.py'
+                  python '_python/game.py'
             - name: Commit and push
               run: |-
                   git diff
