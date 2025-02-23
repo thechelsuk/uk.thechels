@@ -313,6 +313,12 @@ cite {
     }
 }
 
+.highlight {
+    background: $accent;
+    color: $primary;
+    padding: 0.167em 0.111em;
+}
+
 .back-to-top {
     font-size: 2rem;
     position: fixed;
