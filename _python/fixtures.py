@@ -2,14 +2,13 @@
 import pathlib
 import helper
 
+LINK = "https://www.live-footballontv.com/live-english-football-on-tv.html"
+
 # processing
 if __name__ == "__main__":
     try:
         root = pathlib.Path(__file__).parent.parent.resolve()
-
-        link = "https://www.live-footballontv.com/live-english-football-on-tv.html"
-
-        matches = helper.get_fixtures(link)
+        matches = helper.get_fixtures(LINK)
         string = "\n".join([f"- {match}" for match in matches])
         f = root / "_pages/daily.md"
         m = f.open().read()

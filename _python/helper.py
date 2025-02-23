@@ -2,7 +2,7 @@
 import json
 import random
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 import feedparser
 from yahoo_fin import stock_info as si
 import yfinance as yf
@@ -77,9 +77,8 @@ def get_film_data(url):
 
 def get_fixtures(link):
     page = requests.get(link)
-    today = format_date(datetime.datetime.now())
-    tomorrow = format_date(datetime.datetime.now() +
-                           datetime.timedelta(days=1))
+    today = format_date(datetime.now())
+    tomorrow = format_date(datetime.now() + timedelta(days=1))
     content = re.search(f'{today}(.*?){tomorrow}', page.text,
                         re.DOTALL).group(1)
     soup = BeautifulSoup(content, 'html.parser')
