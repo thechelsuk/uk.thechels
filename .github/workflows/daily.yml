@@ -40,7 +40,6 @@ jobs:
                   python '_python/quote.py'
                   python '_python/remember_film.py'
                   python '_python/countdown.py'
-                  python '_python/game.py'
             - name: Commit and push
               run: |-
                   git diff
