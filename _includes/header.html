@@ -1,24 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
+
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="Content-Security-Policy"   content="default-src *; script-src *; style-src *; upgrade-insecure-requests; block-all-mixed-content">
+    <meta http-equiv="Content-Security-Policy"
+      content="default-src *; script-src *; style-src *; upgrade-insecure-requests; block-all-mixed-content">
     <meta name="referrer" content="origin">
     <title>{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %}</title>
-    <meta name="title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }}">
+    <meta name="title"
+      content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }}">
     {% if page.id %}
-      <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.title }}">
+    <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.title }}">
     {% else %}
-      <meta name="description" content="{% if page.seo %} {{ page.seo }}{% else %} {{ post.title }}{% endif %} | {{ site.title }}">
+    <meta name="description"
+      content="{% if page.seo %} {{ page.seo }}{% else %} {{ post.title }}{% endif %} | {{ site.title }}">
     {% endif %}
 
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
-    <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }}">
+    <meta property="og:title"
+      content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:image" content="{{ site.url }}{{ site.defaultImagePath }}">
     <meta property="og:site_name" content="{{ site.title }} {{ site.description }}">
-    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:description"
+      content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta property="article:publisher" content="{{ site.url }}">
     <meta property="article:author" content="{{ site.author }} at {{site.url }}">
     <meta property="article:published_time" content="{{ page.date }}">
@@ -39,25 +45,25 @@
     <link rel="stylesheet" media="print" href="/style_print.css">
     <link rel="manifest" href="/manifest.json">
 
-      <link rel="icon" href="/images/splashscreens/favicon.ico" type="image/x-icon">
-      <link rel="apple-touch-icon" href="/images/splashscreens/apple-touch-icon.png">
-      <link rel="apple-touch-icon" sizes="57x57" href="/images/splashscreens/apple-icon-57x57.png">
-      <link rel="apple-touch-icon" sizes="60x60" href="/images/splashscreens/apple-icon-60x60.png">
-      <link rel="apple-touch-icon" sizes="72x72" href="/images/splashscreens/apple-icon-72x72.png">
-      <link rel="apple-touch-icon" sizes="76x76" href="/images/splashscreens/apple-icon-76x76.png">
-      <link rel="apple-touch-icon" sizes="114x114" href="/images/splashscreens/apple-icon-114x114.png">
-      <link rel="apple-touch-icon" sizes="120x120" href="/images/splashscreens/apple-icon-120x120.png">
-      <link rel="apple-touch-icon" sizes="144x144" href="/images/splashscreens/apple-icon-144x144.png">
-      <link rel="apple-touch-icon" sizes="152x152" href="/images/splashscreens/apple-icon-152x152.png">
-      <link rel="apple-touch-icon" sizes="180x180" href="/images/splashscreens/apple-icon-180x180.png">
-      <link rel="icon" type="image/png" sizes="192x192" href="/images/splashscreens/android-icon-192x192.png">
-      <link rel="icon" type="image/png" sizes="32x32" href="/images/splashscreens/favicon-32x32.png">
-      <link rel="icon" type="image/png" sizes="96x96" href="/images/splashscreens/favicon-96x96.png">
-      <link rel="icon" type="image/png" sizes="16x16" href="/images/splashscreens/favicon-16x16.png">
-      <link rel="manifest" href="/manifest.json">
-      <meta name="msapplication-TileColor" content="#f5f4f4">
-      <meta name="msapplication-TileImage" content="/images/splashscreens/ms-icon-144x144.png">
-      <meta name="theme-color" content="#f5f4f4">
+    <link rel="icon" href="/images/splashscreens/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="/images/splashscreens/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="/images/splashscreens/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/images/splashscreens/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/splashscreens/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/images/splashscreens/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/splashscreens/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/splashscreens/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/splashscreens/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/splashscreens/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/splashscreens/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/images/splashscreens/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/splashscreens/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/images/splashscreens/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/splashscreens/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#f5f4f4">
+    <meta name="msapplication-TileImage" content="/images/splashscreens/ms-icon-144x144.png">
+    <meta name="theme-color" content="#f5f4f4">
 
     <link href="/images/splashscreens/apple-splash-2048-2732.png" rel="apple-touch-startup-image"
       media="(width: 1024px) and (height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
@@ -112,38 +118,45 @@
     <link href="/images/splashscreens/apple-splash-1136-640.jpg" rel="apple-touch-startup-image"
       media="(width: 320px) and (height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
     <link href="/images/splashscreens/apple-splash-640-960.jpg" rel="apple-touch-startup-image"
-     media="(width: 320px) and (height: 480px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
+      media="(width: 320px) and (height: 480px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} xml" href="{{ site.url }}/feed.xml">
     <link rel="alternate" type="application/json" title="{{ site.title }} json" href="{{ site.url }}/feed.json">
 
   </head>
+
   <body>
     <div id="outer-wrapper">
       <div id="wrapper">
-        <div class="blog-title">
-  <a href="{{ site.url }}">
-    {% if site.title %}
-            {{ site.title }}
-    {% else %}
-            {{ page.title }}
-    {% endif %}</a> <sup class="asterisk" id="top">*</sup>
-  </div>
-        <div class="blog-image"></div>
-        <p class="blog-slogan">
-          {% if site.description %}
-              {{ site.description }}
-          {% else %}
-          {% endif %}
-        </p>
-        <nav class="blog-menu">
-             {% if page.id %}
-              <a href="{{ site.url }}" title="Back to all posts">&larr; Back</a>
+        <header id="header">
+          <ul class="skip-link-ul">
+            <li>
+              <a href="#main" class="skip-link">Skip to main content</a>
+            </li>
+          </ul>
+          <div class="blog-title">
+            <a href="{{ site.url }}">
+              {% if site.title %}
+              {{ site.title }}
               {% else %}
-              <a href="{{ site.url }}" title="Back to all home">&larr; Home</a>
-              {% endif %}
-             {% for item in site.navigation_header %}
-               <a href="{{item.link}}">{{item.title}}</a>
-             {% endfor %}
-        </nav>
-
-        <div class="content">
+              {{ page.title }}
+              {% endif %}</a> <sup class="asterisk" id="top">*</sup>
+          </div>
+          <div class="blog-image"></div>
+          <p class="blog-slogan">
+            {% if site.description %}
+            {{ site.description }}
+            {% else %}
+            {% endif %}
+          </p>
+          <nav class="blog-menu">
+            {% if page.id %}
+            <a href="{{ site.url }}" title="Back to all posts">&larr; Back</a>
+            {% else %}
+            <a href="{{ site.url }}" title="Back to all home">&larr; Home</a>
+            {% endif %}
+            {% for item in site.navigation_header %}
+            <a href="{{item.link}}">{{item.title}}</a>
+            {% endfor %}
+          </nav>
+        </header>
+        <div id="main" class="content">

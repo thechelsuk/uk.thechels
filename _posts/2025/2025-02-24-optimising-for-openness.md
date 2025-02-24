@@ -2,7 +2,7 @@
 
 layout: post
 date: 2025-02-24
-title: Optimising for openness and transparency
+title: Optimising for Openness and Transparency
 
 ---
 
