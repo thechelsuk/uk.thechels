@@ -8,13 +8,13 @@ title: Dora Assessment Template
 
 _Notes: Complete this using a broad assessment and revisit every x time period (a time in keeping with the pace of the organisation, e.g. 6 months or 2 years)_
 
-## Review of the 24 key capabilities of the Accelerate DevOps survey outcomes.
+Review of the 24 key capabilities of the Accelerate DevOps survey outcomes.
 
-**Scoring:** 1 (poor) to 5 (excellent)
-**Dated:**
+- **Scoring:** 1 (poor) to 5 (excellent)
+- **Dated:**
 
 | **Continuous Delivery** | **score** |
-| --- | --- |
+|--- | ---|
 | 1. Use version control for all production artifacts | 1 |
 | 2. Automate your deployment processes | 1 |
 | 3. Implement continuous integration (CI) | 1 |
