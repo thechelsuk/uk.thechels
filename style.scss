@@ -16,6 +16,25 @@ $accent: #cec452;
 $font-stack: -system-ui, "Gill Sans", sans-serif;
 $font-mono: ui-monospace, monospace, "Courier New";
 
+.primary {
+    color: $primary;
+}
+.secondary {
+    color: $secondary;
+}
+.links {
+    color: $links;
+}
+.accent {
+    color: $accent;
+}
+.font-stack {
+    font-family: $font-stack;
+}
+.font-mono {
+    font-family: $font-mono;
+}
+
 body {
     border-top: 16px solid $secondary;
     margin: 0;

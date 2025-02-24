@@ -5,15 +5,6 @@ permalink: /style
 seo: Style Guide
 ---
 
-## Table of contents
-
-```markdown
-[TOC]
-```
-
-[TOC]
-
-
 ## Headings
 
 Use the following markdown syntax to create headings:
@@ -125,10 +116,10 @@ Create links using the following syntax:
 Example:
 
 ```markdown
-[GitHub](https://github.com)
+[TheChels](https://thechels.uk)
 ```
 
-[GitHub](https://github.com)
+[TheChels](https://thechels.uk)
 
 ## Images
 
@@ -141,10 +132,10 @@ Embed images using the following syntax:
 Example:
 
 ```markdown
-![GitHub Logo](/images/me72.png)
+![TheChels Logo](/images/me72.png)
 ```
 
-![GitHub Logo](/images/me72.png)
+![TheChels Logo](/images/me72.png)
 
 ## Blockquotes
 
@@ -227,10 +218,10 @@ You can add a title to a link that appears when you hover over it.
 Example:
 
 ```markdown
-[GitHub](https://thechels.uk "Homepage")
+[TheChells](https://thechels.uk "Homepage")
 ```
 
-[GitHub](https://thechels.uk "Homepage")
+[TheChels](https://thechels.uk "Homepage")
 
 ### Nested Lists
 
@@ -307,16 +298,23 @@ Example:
 
 You can apply custom fonts using the variables defined in the CSS.
 
+## Fonts
+
+You can apply custom fonts using the variables defined in the CSS.
+
 Example:
 
-```markdown
-- <span style="font-family: var(--font-stack);">This is primary font.</span>
-- <span style="font-family: var(--font-mono);">This is the mono.</span>
+```html
+<ul>
+    <li><span class="font-stack">This is the primary font.</span></li>
+    <li><span class="font-mono">This is the mono font.</span></li>
+</ul>
 ```
 
-- <span style="font-family: var(--font-stack);">This is primary font.</span>
-- <span style="font-family: var(--font-mono);">This is the mono.</span>
-
+<ul>
+    <li><span class="font-stack">This is the primary font.</span></li>
+    <li><span class="font-mono">This is the mono font.</span></li>
+</ul>
 
 ### Font Colors
 
@@ -324,14 +322,18 @@ You can apply custom font colors using the variables defined in the CSS.
 
 Example:
 
-```markdown
-<span style="color: var(--primary);">This is primary text.</span>
-<span style="color: var(--secondary);">This is secondary text.</span>
-<span style="color: var(--link);">This is link text.</span>
-<span style="color: var(--accent);">This is accent color.</span>
+```html
+<p>
+    <span class="primary">This is primary text.</span><br>
+    <span class="secondary">This is secondary text.</span><br>
+    <span class="link">This is link text.</span><br>
+    <span class="accent">This is the accent color.</span>
+</p>
 ```
 
-- <span style="color: var(--primary);">This is primary text.</span>
-- <span style="color: var(--secondary);">This is secondary text.</span>
-- <span style="color: var(--link);">This is link text.</span>
-- <span style="color: var(--accent);">This is the accent color.</span>
+<p>
+    <span class="primary">This is primary text.</span><br>
+    <span class="secondary">This is secondary text.</span><br>
+    <span class="link">This is link text.</span><br>
+    <span class="accent">This is the accent color.</span>
+</p>
