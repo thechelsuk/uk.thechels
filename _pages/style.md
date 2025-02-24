@@ -5,6 +5,14 @@ permalink: /style
 seo: Style Guide
 ---
 
+## Table of contents
+
+```markdown
+[TOC]
+```
+
+[TOC]
+
 
 ## Headings
 
@@ -219,10 +227,10 @@ You can add a title to a link that appears when you hover over it.
 Example:
 
 ```markdown
-[GitHub](https://github.com "GitHub Homepage")
+[GitHub](https://thechels.uk "Homepage")
 ```
 
-[GitHub](https://github.com "GitHub Homepage")
+[GitHub](https://thechels.uk "Homepage")
 
 ### Nested Lists
 
@@ -293,3 +301,37 @@ Example:
 
 > This is a blockquote with a custom class.
 {: .custom-class}
+
+
+## Fonts
+
+You can apply custom fonts using the variables defined in the CSS.
+
+Example:
+
+```markdown
+- <span style="font-family: var(--font-stack);">This is primary font.</span>
+- <span style="font-family: var(--font-mono);">This is the mono.</span>
+```
+
+- <span style="font-family: var(--font-stack);">This is primary font.</span>
+- <span style="font-family: var(--font-mono);">This is the mono.</span>
+
+
+### Font Colors
+
+You can apply custom font colors using the variables defined in the CSS.
+
+Example:
+
+```markdown
+<span style="color: var(--primary);">This is primary text.</span>
+<span style="color: var(--secondary);">This is secondary text.</span>
+<span style="color: var(--link);">This is link text.</span>
+<span style="color: var(--accent);">This is accent color.</span>
+```
+
+- <span style="color: var(--primary);">This is primary text.</span>
+- <span style="color: var(--secondary);">This is secondary text.</span>
+- <span style="color: var(--link);">This is link text.</span>
+- <span style="color: var(--accent);">This is the accent color.</span>
