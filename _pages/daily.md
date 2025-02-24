@@ -79,7 +79,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Management is doing things right; leadership is doing the right things - Peter F. Drucker
+> Leadership is the art of giving people a platform for spreading ideas that work. - Seth Godin
 
 <!-- quote_marker ends -->
 
