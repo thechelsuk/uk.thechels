@@ -300,8 +300,8 @@ You can add custom CSS classes to elements using the `{: .class}` syntax.
 Example:
 
 ```markdown
-> This is a blockquote 
-> with a custom class 
+> This is a blockquote
+> with a custom class
 > `secondary`.
 {: .secondary}
 ```
@@ -320,23 +320,33 @@ Example:
 
 ```html
 <ul>
-    <li><span class="font-stack">This is the primary font.</span></li>
-    <li><span class="font-mono">This is the mono font.</span></li>
+    <li>
+        <span class="font-stack">
+            This is the primary
+            font family.
+        </span>
+    </li>
+    <li>
+        <span class="font-mono">
+            This is the mono
+            font family.
+        </span>
+    </li>
 </ul>
 ```
 
 <ul>
     <li>
-    <span class="font-stack">
-    This is the primary 
-    font family.
-    </span>
+        <span class="font-stack">
+            This is the primary
+            font family.
+        </span>
     </li>
     <li>
-    <span class="font-mono">
-    This is the mono 
-    font family.
-    </span>
+        <span class="font-mono">
+            This is the mono
+            font family.
+        </span>
     </li>
 </ul>
 
