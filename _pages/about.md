@@ -17,9 +17,9 @@ Hosted on [GitHub Pages](https://pages.github.com), the site uses [Jekyll](https
 
 It is called "weak notes" as a play on words of the popular Government "[week](https://promo.cymru/resource/weeknotes/) [notes](https://weeknot.es)" blogging style - due to the likelihood, posting will be inconsistent and irregular, and having worked adjacent to Government for 14 years.
 
-The site is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) (PWA) and can be installed on devices via Chrome, Safari and Edge. There is no cookies or tracking other than some of the CloudFlare protection and RUA. The site builds as static html and css, uses browser and Cloudflare caching and scores highly in performance scanning tools and in Lighthouse scores with 100% across the board. At the time of checking the site has [valid HTML](https://validator.w3.org/nu/?doc=https%3A%2F%2Fthechels.uk%2F) and [valid CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthechels.uk&profile=css3svg).
+The site is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) (PWA) and can be installed on devices from modern browsers. There is no cookies or tracking other than some of the CloudFlare protection and RUA. The site builds as static html and css, uses browser and Cloudflare caching and scores highly in performance scanning tools and in Lighthouse scores with 100% across the board. At the time of checking the site has [valid HTML](https://validator.w3.org/nu/?doc=https%3A%2F%2Fthechels.uk%2F) and [valid CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthechels.uk&profile=css3svg).
 
-![websites colour scheme](/images/colour-scheme.png)
+![website colour scheme](/images/colour-scheme.png)
 
 The font-family utilises the user's operating system setting via the `-system-ui` declaration, `Gill Sans` if available, and as a last resort falls back to `sans-serif`. This means it should look natural and native to the operating system in use. The primary colour scheme is `White Smoke` as the background, `Night` for text, `Brunswick Green` for links, `Lapis Lazuli` for some additional/secondary text e.g., post meta data and sub headings, and finally `Citron` is used for accents e.g., borders, separators, quote bars, table header backgrounds, and little bits of whimsy.
 
