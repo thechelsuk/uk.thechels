@@ -13,15 +13,16 @@ Holds an HND in Business Information Systems and an HNC in Business IT in Comput
 
 ## Colophon
 
-Hosted on [GitHub Pages](https://pages.github.com), the site uses [Jekyll](https://jekyllrb.com), a static site generator, on [Ruby](https://www.ruby-lang.org/en/). DNS and SSL by [Cloudflare](https://www.cloudflare.com). It also uses GitHub actions, GitHub issues, and some [Python](https://www.python.org) for automation. Content is written in GitHub flavoured [Markdown](https://daringfireball.net/projects/markdown/). Data is stored in [Yaml](https://yaml.org) files.
+Hosted on [GitHub Pages](https://pages.github.com), the site uses [Jekyll](https://jekyllrb.com), a static site generator, on [Ruby](https://www.ruby-lang.org/en/) using the [liquid templating language](https://shopify.github.io/liquid/). It also uses GitHub Actions and [Python](https://www.python.org) for automation and additional compute at build time. Content is written in GitHub flavoured [Markdown](https://daringfireball.net/projects/markdown/). Data is stored in [Yaml](https://yaml.org) files. DNS and SSL by [Cloudflare](https://www.cloudflare.com). [VSCode for Mac](https://code.visualstudio.com/) as the IDE, supported by various plugins. [Working Copy](https://workingcopy.app/) on iOS as the Git client of choice. [Drafts](https://getdrafts.com/) App as the starting point for content creation.
 
 It is called "weak notes" as a play on words of the popular Government "[week](https://promo.cymru/resource/weeknotes/) [notes](https://weeknot.es)" blogging style - due to the likelihood, posting will be inconsistent and irregular, and having worked adjacent to Government for 14 years.
 
-The font-family utilises the user's operating system setting via the `-system-ui` declaration, `Gill Sans` if available, and as a last resort falls back to `sans-serif`. The primary colour scheme is `White Smoke` as the background, `Night` for text, `Brunswick Green` for links, `Lapis Lazuli` for some additional/secondary text e.g., post meta data and sub headings, and finally `Citron` is used for accents e.g., borders, separators, quote bars, and whimsy.
+The site is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) (PWA) and can be installed on devices via Chrome, Safari and Edge. There is no cookies or tracking other than some of the CloudFlare protection and RUA. The site builds as static html and css, uses browser and Cloudflare caching and scores highly in performance scanning tools and in Lighthouse scores with 100% across the board. At the time of checking the site has [valid HTML](https://validator.w3.org/nu/?doc=https%3A%2F%2Fthechels.uk%2F) and [valid CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthechels.uk&profile=css3svg).
 
 ![websites colour scheme](/images/colour-scheme.png)
 
-At the time of checking the site has [valid HTML](https://validator.w3.org/nu/?doc=https%3A%2F%2Fthechels.uk%2F) and [valid CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthechels.uk&profile=css3svg). Lighthouse scores are 100% across the board.
+The font-family utilises the user's operating system setting via the `-system-ui` declaration, `Gill Sans` if available, and as a last resort falls back to `sans-serif`. This means it should look natural and native to the operating system in use. The primary colour scheme is `White Smoke` as the background, `Night` for text, `Brunswick Green` for links, `Lapis Lazuli` for some additional/secondary text e.g., post meta data and sub headings, and finally `Citron` is used for accents e.g., borders, separators, quote bars, table header backgrounds, and little bits of whimsy.
+
 
 ## In The Press
 
