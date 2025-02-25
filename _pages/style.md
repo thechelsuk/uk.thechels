@@ -12,7 +12,7 @@ There is one additional style applied to the code blocks on this page for eligib
 
 ## Headings
 
-The page or post title using`h1` headings.
+The page or post title using `h1` headings.
 Section uses `h2` and further sub-headings continue as needed, it's rare to go beyond `h4` if it feels like this is needed, rethink the content format.
 
 Use the following markdown syntax to create headings:
@@ -147,7 +147,7 @@ Example:
 
 ## Blockquotes
 
-Create blockquotes using the `>` symbol. For a large quote that has paragraphs of text use `>` with a blank link.
+Create blockquotes using the `>` symbol. For a large quote that has paragraphs of text use `>` with a blank line.
 
 Example:
 
@@ -213,7 +213,7 @@ Example:
 
 ## Horizontal Rule
 
-Create a horizontal rule using three or more hyphens, asterisks, or underscores. This shouldn't be used in content, but it's included here for completeness
+Create a horizontal rule using three or more hyphens, asterisks, or underscores. This shouldn't be used in content, but it's included here for completeness.
 
 Example:
 
@@ -300,17 +300,17 @@ You can add custom CSS classes to elements using the `{: .class}` syntax.
 Example:
 
 ```markdown
-> This is a blockquote with a custom class `secondary`.
+> This is a blockquote 
+> with a custom class 
+> `secondary`.
 {: .secondary}
 ```
 
-> This is a blockquote with a custom class `secondary`.
+> This is a blockquote
+> with a custom class
+> `secondary`.
 {: .secondary}
 
-
-## Fonts
-
-You can apply custom fonts using the variables defined in the CSS.
 
 ## Fonts
 
@@ -332,22 +332,38 @@ Example:
 
 ### Font Colors
 
-You can apply custom font colors using the variables defined in the CSS. The `accent` color is used for borders or backgrounds and should be used for text for accessibility reasons as it's hard to read.
+You can apply custom font colors using the variables defined in the CSS. The `accent` color is used for borders or backgrounds and should not be used for text for accessibility reasons as it's hard to read. It is shown here for completeness.
 
 Example:
 
 ```html
 <p>
-    <span class="primary">This is primary text.</span><br>
-    <span class="secondary">This is secondary text.</span><br>
-    <span class="link">This is link text.</span><br>
-    <span class="accent">This is the accent color.</span>
+    <span class="primary">
+    This is primary text.
+    </span><br>
+    <span class="secondary">
+    This is secondary text.
+    </span><br>
+    <span class="link">
+    This is link text.
+    </span><br>
+    <span class="accent">
+    This is the accent color.
+    </span>
 </p>
 ```
 
 <p>
-    <span class="primary">This is primary text.</span><br>
-    <span class="secondary">This is secondary text.</span><br>
-    <span class="link">This is link text.</span><br>
-    <span class="accent">This is the accent color.</span>
+    <span class="primary">
+    This is primary text.
+    </span><br>
+    <span class="secondary">
+    This is secondary text.
+    </span><br>
+    <span class="link">
+    This is link text.
+    </span><br>
+    <span class="accent">
+    This is the accent color.
+    </span>
 </p>
