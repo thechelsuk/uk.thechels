@@ -326,8 +326,18 @@ Example:
 ```
 
 <ul>
-    <li><span class="font-stack">This is the primary font.</span></li>
-    <li><span class="font-mono">This is the mono font.</span></li>
+    <li>
+    <span class="font-stack">
+    This is the primary 
+    font family.
+    </span>
+    </li>
+    <li>
+    <span class="font-mono">
+    This is the mono 
+    font family.
+    </span>
+    </li>
 </ul>
 
 ### Font Colors
