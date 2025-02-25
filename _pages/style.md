@@ -5,7 +5,13 @@ permalink: /style
 seo: Style Guide
 ---
 
+This style guide acts as a visual guide to the mark-up styles used throughout the site and acts as a check that all likely mark-up is styled appropriately.
+
+
 ## Headings
+
+The page or post title using`h1` headings.
+Section uses `h2` and further sub-headings continue as needed, it's rare to go beyond `h4` if it feels like this is needed, rethink the content format.
 
 Use the following markdown syntax to create headings:
 
@@ -29,7 +35,7 @@ Example:
 
 ## Paragraphs
 
-Write paragraphs by simply typing text. Separate paragraphs with a blank line.
+Paragraphs are simply typing text. Separate paragraphs with a blank line. This is a key tenant of markdown format, it allows the focus to be on content.
 
 Example:
 
@@ -45,7 +51,7 @@ This is the second paragraph.
 
 ## Emphasis
 
-You can add emphasis by making text bold or italic.
+You can add emphasis by making text bold or italic. Use with caution and in limited fashion. Don't use `bold` for headings, it's not semantic.
 
 - **Bold**: `**bold text**` or `__bold text__`
 - *Italic*: `*italic text*` or `_italic text_`
@@ -139,7 +145,7 @@ Example:
 
 ## Blockquotes
 
-Create blockquotes using the `>` symbol.
+Create blockquotes using the `>` symbol. For a large quote that has paragraphs of text use `>` with a blank link.
 
 Example:
 
@@ -165,23 +171,28 @@ Here is some `inline code`.
 
 ### Code Blocks
 
-Use triple backticks to create code blocks.
+Use triple backticks to create code blocks. and include the rendering/code e.g. `markdown`, `css`, or `html` to render code highlighting.
 
 Example:
 
 \`\`\`markdown
-\`\`\`
+
 This is a code block.
-\`\`\`
+
+using a multi-line approach.
+
 \`\`\`
 
-\`\`\`markdown
+
+```markdown
 This is a code block.
-\`\`\`
+using a multi-line approach.
+```
+
 
 ## Tables
 
-Create tables using pipes `|` and hyphens `-`.
+Create tables using pipes `|` and hyphens `-`. Tables should be used for tabular content only and not for handling layouts or page structure. Don't have large tables as they are hard to read. If this is necessary then provide the file as a download e.g. excel or as a pdf
 
 Example:
 
@@ -192,6 +203,7 @@ Example:
 | Row 2    | Data 2   |
 ```
 
+
 | Header 1 | Header 2 |
 |----------|----------|
 | Row 1    | Data 1   |
@@ -199,7 +211,7 @@ Example:
 
 ## Horizontal Rule
 
-Create a horizontal rule using three or more hyphens, asterisks, or underscores.
+Create a horizontal rule using three or more hyphens, asterisks, or underscores. This shouldn't be used in content, but it's included here for completeness
 
 Example:
 
@@ -218,7 +230,7 @@ You can add a title to a link that appears when you hover over it.
 Example:
 
 ```markdown
-[TheChells](https://thechels.uk "Homepage")
+[TheChels](https://thechels.uk "Homepage")
 ```
 
 [TheChels](https://thechels.uk "Homepage")
@@ -247,7 +259,7 @@ Example:
 
 ### Task Lists
 
-You can create task lists using `- [ ]` for unchecked items and `- [x]` for checked items.
+You can create task lists using `- [ ]` for unchecked items and `- [x]` for checked items, this might be used to convey progress of a list of work items but should be used sparingly.
 
 Example:
 
@@ -261,7 +273,7 @@ Example:
 
 ### Definition Lists
 
-You can create definition lists using terms and definitions.
+You can create definition lists using terms and definitions in markdown, but are unlikely to be used on this site.
 
 Example:
 
@@ -286,12 +298,12 @@ You can add custom CSS classes to elements using the `{: .class}` syntax.
 Example:
 
 ```markdown
-> This is a blockquote with a custom class.
-{: .custom-class}
+> This is a blockquote with a custom class `secondary`.
+{: .secondary}
 ```
 
-> This is a blockquote with a custom class.
-{: .custom-class}
+> This is a blockquote with a custom class `secondary`.
+{: .secondary}
 
 
 ## Fonts
@@ -318,7 +330,7 @@ Example:
 
 ### Font Colors
 
-You can apply custom font colors using the variables defined in the CSS.
+You can apply custom font colors using the variables defined in the CSS. The `accent` color is used for borders or backgrounds and should be used for text for accessibility reasons as it's hard to read.
 
 Example:
 
