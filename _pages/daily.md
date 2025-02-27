@@ -15,6 +15,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- weather_marker ends -->
 
+<!-- threat_marker starts -->
+- Current threat level: SUBSTANTIAL
+- It has been 359 days since the last change (2024-03-05)
+
+<!-- threat_marker ends -->
+
 ### Today's tasks
 <!-- task_marker starts -->
 - No tasks today
@@ -33,7 +39,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 112.63999938964844 
+- VWRL.L : 112.63999938964844
 
 <!-- stocks_marker ends -->
 
