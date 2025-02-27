@@ -16,6 +16,34 @@ $accent: #cec452;
 $font-stack: -system-ui, "Gill Sans", sans-serif;
 $font-mono: ui-monospace, monospace, "Courier New";
 
+.primary {
+    color: $primary;
+}
+.secondary {
+    color: $secondary;
+}
+.links {
+    color: $links;
+}
+.accent {
+    color: $accent;
+}
+.font-stack {
+    font-family: $font-stack;
+}
+.font-mono {
+    font-family: $font-mono;
+}
+
+.highlight > pre{
+    background: #a2a2a2;
+    color: $primary;
+    padding: 0.525em;
+    border-radius: 0.5em;
+    margin: 0.525em;
+    border: 1px solid #121212;
+}
+
 body {
     border-top: 16px solid $secondary;
     margin: 0;

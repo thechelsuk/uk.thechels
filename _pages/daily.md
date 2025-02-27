@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Monday, 24 February 2025
+### On Thursday, 27 February 2025
 
-- The average temperature today is 9.53˚C,
-- With highs of 9.99˚C and lows of 8.8˚C,
-- It may feel like 9.29˚C with light rain
+- The average temperature today is 3.79˚C,
+- With highs of 5.71˚C and lows of 3.15˚C,
+- It may feel like 3.79˚C with broken clouds
 
 <!-- weather_marker ends -->
 
@@ -23,8 +23,9 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- West Brom U21 v Crystal Palace U21
-- Sheffield United v Leeds United
+- West Brom U18 v Manchester City U18
+- Barrow AFC v Carlisle United
+- West Ham United v Leicester City
 <!-- fixture_marker ends -->
 
 
@@ -32,7 +33,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 113.91000366210938 
+- VWRL.L : 112.63999938964844 
 
 <!-- stocks_marker ends -->
 
@@ -40,13 +41,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
- - Aston Villa 2-1 Chelsea, Player Ratings: Pedro Neto’s new role offers some promise
- - Chelsea appoint ex-Barcelona head of analytics as Director of Data Science
- - Leo Castledine back at Chelsea with ‘minor stress fracture’ in lower back
- - Renato Veiga to miss three weeks with injury for Juventus
- - Maresca praises team’s reaction in ‘toughest’ defeat of the season yet
- - Aston Villa 2-1 Chelsea, Premier League: Post-match reaction, ratings
- - WATCH: Enzo Fernández opens the scoring for Chelsea against Aston Villa! 1-0!
+ - Chelsea 4-0 Southampton, Player Ratings: Pedro Neto stepping up and thriving
+ - Maresca asks for fans’ trust in top-four battle, backs Jörgensen, Palmer
+ - Chelsea 4-0 Southampton, Premier League: Post-match reaction, ratings
+ - WATCH: Marc Cucurella makes it 4-0 Chelsea against Southampton!
+ - WATCH: Levi Colwill adds a third for Chelsea against Southampton! 3-0!
+ - WATCH: Pedro Neto doubles Chelsea’s lead over Southampton! 2-0!
+ - WATCH: Nkunku opens the scoring for Chelsea against Southampton! 1-0!
 
 <!-- news_marker ends -->
 
@@ -54,14 +55,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Germany’s election winner pledges ‘independence from US’
- - Debt and defence headache for Merz after AfD and far left make gains
- - Cometh the hour, cometh eventually Friedrich Merz
- - Zelenskyy’s toughest battle
- - Now is the time for Europe really to step up on Ukraine
- - Doge versus business
- - FTI Consulting reels from staff exodus after rainmaker launches rival
- - Zelenskyy offers to step down in exchange for peace and Nato membership
+ - Nvidia revenues jump almost 80% on booming AI chip sales
+ - Nvidia passes its quarterly future-shock stress test
+ - DeepSeek spreads across China with Beijing’s backing
+ - The USAID fallout
+ - What are the terms of the US-Ukraine minerals deal?
+ - Trump threatens to impose 25% tariffs on EU goods
+ - Starmer to warn Trump that peace in Ukraine needs US military cover
+ - State Street loses £28bn of assets to Amundi and Invesco over ESG goals
 
 <!-- ftnews_marker ends -->
 
@@ -69,7 +70,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > stela - noun: An upright stone or pillar inscribed or sculpted, often serving as a monument. Also known as a stele.
+ > crwth - noun: An ancient stringed instrument that's typically associated with Welsh music. Also called a crowd.
 
 <!-- word_marker ends -->
 
@@ -77,7 +78,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The ScrumMaster's goal is to encourage self-organization. - Zuzana Sochova
+> Be fixed on the vision, but flexible on the journey - Jeff Bezos
 
 <!-- quote_marker ends -->
 
@@ -85,20 +86,20 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Film Archive
 
 <!-- film_marker starts -->
-- 65 (Rated: 3)
-- Released in 2023
-- Summary: An astronaut crash lands on a mysterious planet only to discover he's not alone.
+- Snakes On A Plane (Rated: 1)
+- Released in 2006
+- Summary: An FBI agent takes on a plane full of deadly venomous snakes, deliberately released to kill a witness being flown from Honolulu to Los Angeles to testify against a mob boss.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 795, using [3, 5, 5, 6, 8, 25]
-- Answer: 12 solutions.
+- Target: 849, using [8, 8, 8, 10, 25, 100]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 25 + 8 ) x 5 - 6 ) x 5
+  Solution: ( 100 + 10 - 8 ) x 8 + 25 + 8
 
    </details>
 
