@@ -17,7 +17,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### MI5 Status
 <!-- threat_marker starts -->
-- Current threat level: SUBSTANTIAL
+- The current threat level is <span class="highlighter">SUBSTANTIAL</span>
 - It has been 359 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
