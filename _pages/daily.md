@@ -7,11 +7,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Wednesday, 26 February 2025
+### On Thursday, 27 February 2025
 
-- The average temperature today is 5.67˚C,
-- With highs of 6.66˚C and lows of 4.83˚C,
-- It may feel like 2.43˚C with moderate rain
+- The average temperature today is 3.79˚C,
+- With highs of 5.71˚C and lows of 3.15˚C,
+- It may feel like 3.79˚C with broken clouds
 
 <!-- weather_marker ends -->
 
@@ -23,13 +23,9 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Wrexham v Peterborough United
-- Brentford v Everton
-- Manchester United v Ipswich Town
-- Nottingham Forest v Arsenal
-- Tottenham Hotspur v Manchester City
-- England Women v Spain Women
-- Liverpool v Newcastle United
+- West Brom U18 v Manchester City U18
+- Barrow AFC v Carlisle United
+- West Ham United v Leicester City
 <!-- fixture_marker ends -->
 
 
@@ -37,7 +33,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 111.44999694824219 
+- VWRL.L : 112.63999938964844 
 
 <!-- stocks_marker ends -->
 
@@ -45,13 +41,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Chelsea 4-0 Southampton, Player Ratings: Pedro Neto stepping up and thriving
+ - Maresca asks for fans’ trust in top-four battle, backs Jörgensen, Palmer
  - Chelsea 4-0 Southampton, Premier League: Post-match reaction, ratings
  - WATCH: Marc Cucurella makes it 4-0 Chelsea against Southampton!
  - WATCH: Levi Colwill adds a third for Chelsea against Southampton! 3-0!
  - WATCH: Pedro Neto doubles Chelsea’s lead over Southampton! 2-0!
  - WATCH: Nkunku opens the scoring for Chelsea against Southampton! 1-0!
- - Chelsea vs. Southampton, Premier League: Live blog; highlights
- - The people’s choice against Southampton: Let’s try that again
 
 <!-- news_marker ends -->
 
@@ -59,14 +55,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - US House passes budget resolution to cut taxes and spending by trillions
- - The political rise of the anti-vax movement
- - Ukraine agrees minerals deal with US
- - The US is now the enemy of the west
- - Trump announces US ‘gold card’ visa scheme
- - Apple promises to fix dictation bug that replaces ‘racist’ with ‘Trump’
- - Reeves’ private share trading plan criticised by executives
- - Surge in UK university students using AI to complete work
+ - Nvidia revenues jump almost 80% on booming AI chip sales
+ - Nvidia passes its quarterly future-shock stress test
+ - DeepSeek spreads across China with Beijing’s backing
+ - The USAID fallout
+ - What are the terms of the US-Ukraine minerals deal?
+ - Trump threatens to impose 25% tariffs on EU goods
+ - Starmer to warn Trump that peace in Ukraine needs US military cover
+ - State Street loses £28bn of assets to Amundi and Invesco over ESG goals
 
 <!-- ftnews_marker ends -->
 
@@ -74,7 +70,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > crunk - adjective: 1. Intoxicated. 2. Crazy. 3. Excited. 4. Wonderful.
+ > crwth - noun: An ancient stringed instrument that's typically associated with Welsh music. Also called a crowd.
 
 <!-- word_marker ends -->
 
@@ -82,7 +78,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Do not cling to mistake because you spent a lot of time making it - unknown
+> Be fixed on the vision, but flexible on the journey - Jeff Bezos
 
 <!-- quote_marker ends -->
 
@@ -90,20 +86,20 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Film Archive
 
 <!-- film_marker starts -->
-- Ichi The Killer (Rated: 5)
-- Released in 2001
-- Summary: As sadomasochistic yakuza enforcer Kakihara searches for his missing boss he comes across Ichi, a repressed and psychotic killer who may be able to inflict levels of pain that Kakihara has only dreamed of achieving.
+- Snakes On A Plane (Rated: 1)
+- Released in 2006
+- Summary: An FBI agent takes on a plane full of deadly venomous snakes, deliberately released to kill a witness being flown from Honolulu to Los Angeles to testify against a mob boss.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 531, using [6, 7, 8, 9, 75, 100]
-- Answer: 17 solutions.
+- Target: 849, using [8, 8, 8, 10, 25, 100]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 7 x 6 + 100 - 75 - 8 ) x 9
+  Solution: ( 100 + 10 - 8 ) x 8 + 25 + 8
 
    </details>
 
