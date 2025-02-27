@@ -31,6 +31,7 @@ jobs:
                   OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }}
               run: |-
                   python '_python/forecast.py'
+                  python '_python/threat.py'
                   python '_python/task.py'
                   python '_python/fixtures.py'
                   python '_python/stocks.py'
