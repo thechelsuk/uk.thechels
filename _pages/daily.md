@@ -7,18 +7,18 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Thursday, 27 February 2025
+### On Friday, 28 February 2025
 
-- The average temperature today is 3.79˚C,
-- With highs of 5.71˚C and lows of 3.15˚C,
-- It may feel like 3.79˚C with broken clouds
+- The average temperature today is 4.71˚C,
+- With highs of 6.64˚C and lows of 3.72˚C,
+- It may feel like 4.71˚C with clear sky
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 359 days since the last change (2024-03-05)
+- It has been 360 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -30,9 +30,17 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- West Brom U18 v Manchester City U18
-- Barrow AFC v Carlisle United
-- West Ham United v Leicester City
+- N
+- o
+-  
+- F
+- i
+- x
+- t
+- u
+- r
+- e
+- s
 <!-- fixture_marker ends -->
 
 
@@ -40,7 +48,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 112.63999938964844
+- VWRL.L : 111.02200317382812 
 
 <!-- stocks_marker ends -->
 
@@ -48,13 +56,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Boehly, Clearlake ‘have agreed on a strategy and a way forward’ for Chelsea
+ - Pedro Neto enjoying the freedom of his new central role
  - Chelsea 4-0 Southampton, Player Ratings: Pedro Neto stepping up and thriving
  - Maresca asks for fans’ trust in top-four battle, backs Jörgensen, Palmer
  - Chelsea 4-0 Southampton, Premier League: Post-match reaction, ratings
- - WATCH: Marc Cucurella makes it 4-0 Chelsea against Southampton!
- - WATCH: Levi Colwill adds a third for Chelsea against Southampton! 3-0!
- - WATCH: Pedro Neto doubles Chelsea’s lead over Southampton! 2-0!
- - WATCH: Nkunku opens the scoring for Chelsea against Southampton! 1-0!
 
 <!-- news_marker ends -->
 
@@ -62,14 +68,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Nvidia revenues jump almost 80% on booming AI chip sales
- - Nvidia passes its quarterly future-shock stress test
- - DeepSeek spreads across China with Beijing’s backing
- - The USAID fallout
- - What are the terms of the US-Ukraine minerals deal?
- - Trump threatens to impose 25% tariffs on EU goods
- - Starmer to warn Trump that peace in Ukraine needs US military cover
- - State Street loses £28bn of assets to Amundi and Invesco over ESG goals
+ - US and UK in talks on trade deal that could spare Britain from tariffs
+ - After chiding US allies, Trump lavishes praise on ‘special’ Starmer
+ - A special one?
+ - The Bangladeshi politician who built a shadowy global property empire
+ - Index funds saved billions in fees. Now the industry wants its money back.
+ - Quantum computing is struggling to reach its silicon moment
+ - Global stocks slide as tariff threats add to big tech jitters
+ - US to raise tariffs on China and push ahead with Canada and Mexico levies
 
 <!-- ftnews_marker ends -->
 
@@ -77,7 +83,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > crwth - noun: An ancient stringed instrument that's typically associated with Welsh music. Also called a crowd.
+ > cwtch - noun: 1. A hiding place, such as a cupboard or a cubbyhole. 2. A hug or a cuddle. verb tr.: To hug or cuddle. verb intr. 1. To crouch down. 2. To hide.
 
 <!-- word_marker ends -->
 
@@ -85,7 +91,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Be fixed on the vision, but flexible on the journey - Jeff Bezos
+> The best way to get a project done faster is to start sooner - Jim Highsmith
 
 <!-- quote_marker ends -->
 
@@ -93,20 +99,20 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Film Archive
 
 <!-- film_marker starts -->
-- Snakes On A Plane (Rated: 1)
-- Released in 2006
-- Summary: An FBI agent takes on a plane full of deadly venomous snakes, deliberately released to kill a witness being flown from Honolulu to Los Angeles to testify against a mob boss.
+- Constantine (Rated: 9)
+- Released in 2005
+- Summary: Detective Angela approaches Constantine, a demon hunter, to help her investigate her twin sister's mysterious death. As he digs deeper, he realizes that demons are trying to enter the human world.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 849, using [8, 8, 8, 10, 25, 100]
-- Answer: 3 solutions.
+- Target: 819, using [2, 6, 10, 25, 50, 75]
+- Answer: 14 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 10 - 8 ) x 8 + 25 + 8
+  Solution: ( 75 + 10 - 50 - 2 ) x 25 - 6
 
    </details>
 
