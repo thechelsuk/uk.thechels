@@ -143,10 +143,9 @@
           </div>
           <div class="blog-image"></div>
           <p class="blog-slogan">
-            {% if site.description %}
-            {{ site.description }}
-            {% else %}
-            {% endif %}
+            {% assign descriptions = site.data.descriptions %}
+            {% assign random_index = "now" | date: "%s" | modulo: descriptions.size %}
+            // {{ descriptions[random_index] }}
           </p>
           <nav class="blog-menu">
             {% if page.id %}
