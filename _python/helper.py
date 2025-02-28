@@ -82,17 +82,17 @@ def get_fixtures(link):
     match = re.search(f'{today}(.*?){tomorrow}', page.text, re.DOTALL)
     if match:
         content = match.group(1)
+        soup = BeautifulSoup(content, 'html.parser')
+        body_text = ' - '.join(soup.stripped_strings)
+        matches = []
+        for line in body_text.split(' - '):
+            if ' v ' in line:
+                matches.append(line)
+        if not matches:
+            return "No Fixtures"
+        return "\n".join([f"- {match}" for match in matches])
     else:
         return "No Fixtures"
-    soup = BeautifulSoup(content, 'html.parser')
-    body_text = ' - '.join(soup.stripped_strings)
-    matches = []
-    for line in body_text.split(' - '):
-        if ' v ' in line:
-            matches.append(line)
-    if not matches:
-        return "No Fixtures"
-    return matches
 
 
 def get_countdown_number_selection():

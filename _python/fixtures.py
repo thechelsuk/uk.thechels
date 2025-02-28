@@ -9,10 +9,9 @@ if __name__ == "__main__":
     try:
         root = pathlib.Path(__file__).parent.parent.resolve()
         matches = helper.get_fixtures(LINK)
-        string = "\n".join([f"- {match}" for match in matches])
         f = root / "_pages/daily.md"
         m = f.open().read()
-        c = helper.replace_chunk(m, "fixture_marker", string)
+        c = helper.replace_chunk(m, "fixture_marker", matches)
         f.open("w").write(c)
         print("Fixtures completed")
 
