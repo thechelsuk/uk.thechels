@@ -4,10 +4,8 @@ import helper
 import pytest
 from datetime import datetime
 import pathlib
-import os
 from unittest.mock import patch
 import yaml
-
 
 class TestHelper:
 
@@ -192,6 +190,72 @@ class TestHelper:
         assert not contains(output, "- b")
         assert contains(output, "string")
 
+    def test_format_date(self):
+        date = datetime(2022, 6, 8)
+        formatted_date = helper.format_date(date)
+        assert formatted_date == "Wednesday 08th June 2022"
+
+    def test_get_countdown_number_selection(self):
+        numbers = helper.get_countdown_number_selection()
+        assert len(numbers) == 6
+        assert all(isinstance(n, int) for n in numbers)
+
+    def test_remove_img_tags(self):
+        data = '<p>Some text <img src="image.jpg"/> more text</p>'
+        result = helper.remove_img_tags(data)
+        assert result == '<p>Some text  more text</p>'
+
+    def test_pretty_print(self):
+        string = {"key": "value"}
+        pretty = helper.pretty_print(string)
+        assert pretty == '{\n  "key": "value"\n}'
+
+    def test_fetch_cfc_entries(self):
+        with patch('feedparser.parse') as mock_parse:
+            mock_parse.return_value = {
+                "entries": [{
+                    "description": "Test Entry",
+                    "link": "http://example.com#123",
+                    "published": "Wed, 08 Jun 2022 11:00:00 -0000"
+                }]
+            }
+            entries = helper.fetch_cfc_entries("http://example.com")
+            assert len(entries) == 1
+            assert entries[0]["title"] == "Test Entry"
+            assert entries[0]["url"] == "http://example.com"
+            assert entries[0]["published"] == "08 Jun"
+
+    def test_get_yf_stocks(self):
+        with patch('yfinance.Ticker') as mock_ticker:
+            mock_ticker.return_value.history.return_value.Close = [100.0]
+            stocks = helper.get_yf_stocks(["AAPL"])
+            assert stocks == "- AAPL : 100.0 \n"
+
+    def test_get_si_stocks(self):
+        with patch('yahoo_fin.stock_info.get_live_price') as mock_get_live_price:
+            mock_get_live_price.return_value = 150.0
+            stocks = helper.get_si_stocks(["AAPL"])
+            assert stocks == "- AAPL : 150.0\n"
+
+    def test_is_saturday(self):
+        date = datetime(2022, 6, 11)  # Saturday
+        assert helper.is_saturday(date) is True
+
+    def test_is_garden_waste_day(self):
+        date = datetime(2022, 6, 13)  # Monday, week 24
+        assert helper.is_garden_waste_day(date) is True
+
+    def test_is_recycling_waste_day(self):
+        date = datetime(2022, 6, 7)  # Tuesday, week 23
+        assert helper.is_recycling_waste_day(date) is True
+
+    def test_is_refuse_waste_day(self):
+        date = datetime(2022, 6, 14)  # Tuesday, week 24
+        assert helper.is_refuse_waste_day(date) is True
+
+    def test_is_water_the_plants_day(self):
+        date = datetime(2024, 6, 15)  # Saturday, week 2
+        assert helper.is_water_the_plants_day(date) is True
 
 if __name__ == "__main__":
     pytest.main()
