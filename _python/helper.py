@@ -79,8 +79,11 @@ def get_fixtures(link):
     page = requests.get(link)
     today = format_date(datetime.now())
     tomorrow = format_date(datetime.now() + timedelta(days=1))
-    content = re.search(f'{today}(.*?){tomorrow}', page.text,
-                        re.DOTALL).group(1)
+    match = re.search(f'{today}(.*?){tomorrow}', page.text, re.DOTALL)
+    if match:
+        content = match.group(1)
+    else:
+        return "No Fixtures"
     soup = BeautifulSoup(content, 'html.parser')
     body_text = ' - '.join(soup.stripped_strings)
     matches = []
