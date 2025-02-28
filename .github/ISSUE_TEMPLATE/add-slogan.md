@@ -1,5 +1,5 @@
 ---
-name: Add new quote
+name: Add new Slogan
 about: Update list of slogans
 title: 'Add quote'
 labels: 'slogans'
