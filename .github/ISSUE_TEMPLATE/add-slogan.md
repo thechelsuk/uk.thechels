@@ -1,7 +1,7 @@
 ---
 name: Add new Slogan
 about: Update list of slogans
-title: 'Add quote'
+title: 'Add Slogan'
 labels: 'slogans'
 assignees: '@Mat-0'
 
