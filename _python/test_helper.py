@@ -7,6 +7,7 @@ import pathlib
 from unittest.mock import patch
 import yaml
 
+
 class TestHelper:
 
     @pytest.fixture
@@ -232,7 +233,8 @@ class TestHelper:
             assert stocks == "- AAPL : 100.0 \n"
 
     def test_get_si_stocks(self):
-        with patch('yahoo_fin.stock_info.get_live_price') as mock_get_live_price:
+        with patch(
+                'yahoo_fin.stock_info.get_live_price') as mock_get_live_price:
             mock_get_live_price.return_value = 150.0
             stocks = helper.get_si_stocks(["AAPL"])
             assert stocks == "- AAPL : 150.0\n"
@@ -256,6 +258,7 @@ class TestHelper:
     def test_is_water_the_plants_day(self):
         date = datetime(2024, 6, 15)  # Saturday, week 2
         assert helper.is_water_the_plants_day(date) is True
+
 
 if __name__ == "__main__":
     pytest.main()
