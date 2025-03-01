@@ -259,6 +259,50 @@ class TestHelper:
         date = datetime(2024, 6, 15)  # Saturday, week 2
         assert helper.is_water_the_plants_day(date) is True
 
+    @patch('requests.get')
+    def test_get_fixtures(self, mock_get):
+        mock_response = mock_get.return_value
+        mock_response.text = """
+        <html>
+            <body>
+                <div>Wednesday 08th June 2022</div>
+                <div>Team A v Team B</div>
+                <div>Thursday 09th June 2022</div>
+            </body>
+        </html>
+        """
+        link = "http://example.com"
+        fixtures = helper.get_fixtures(link)
+        assert fixtures == "- Team A v Team B"
+
+    @patch('requests.get')
+    def test_get_fixtures_no_fixtures(self, mock_get):
+        mock_response = mock_get.return_value
+        mock_response.text = """
+        <html>
+            <body>
+                <div>Wednesday 08th June 2022</div>
+                <div>Thursday 09th June 2022</div>
+            </body>
+        </html>
+        """
+        link = "http://example.com"
+        fixtures = helper.get_fixtures(link)
+        assert fixtures == "- No fixtures found"
+
+    @patch('requests.get')
+    def test_get_fixtures_no_matches(self, mock_get):
+        mock_response = mock_get.return_value
+        mock_response.text = """
+        <html>
+            <body>
+                <div>Some other content</div>
+            </body>
+        </html>
+        """
+        link = "http://example.com"
+        fixtures = helper.get_fixtures(link)
+        assert fixtures == "- No Fixtures"
 
 if __name__ == "__main__":
     pytest.main()

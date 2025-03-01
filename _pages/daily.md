@@ -30,7 +30,20 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- No Fixtures
+- Fulham U18 v Crystal Palace U18
+- Liverpool U18 v Leeds United U18
+- Tottenham Hotspur U18 v Southampton U18
+- Crystal Palace v Millwall
+- Preston North End v Burnley
+- Blackburn Rovers v Norwich City
+- Leeds United v West Brom
+- Oxford United v Coventry City
+- Birmingham City v Wycombe Wanderers
+- Wrexham v Bolton Wanderers
+- Salford City v Bradford City
+- Tranmere Rovers v Port Vale
+- Gateshead v AFC Fylde
+- Manchester City v Plymouth Argyle
 <!-- fixture_marker ends -->
 
 

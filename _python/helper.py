@@ -24,7 +24,7 @@ def add_suffix(day):
 
 def format_date(date):
     suffix = add_suffix(date.day)
-    formatted_date = date.strftime(f'%A %d{suffix} %B %Y')
+    formatted_date = date.strftime(f'%A {date.day}{suffix} %B %Y')
     return formatted_date
 
 
@@ -79,7 +79,9 @@ def get_fixtures(link):
     page = requests.get(link)
     today = format_date(datetime.now())
     tomorrow = format_date(datetime.now() + timedelta(days=1))
+    print(today, tomorrow)
     match = re.search(f'{today}(.*?){tomorrow}', page.text, re.DOTALL)
+    print(match)
     if match:
         content = match.group(1)
         soup = BeautifulSoup(content, 'html.parser')
