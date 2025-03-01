@@ -304,5 +304,6 @@ class TestHelper:
         fixtures = helper.get_fixtures(link)
         assert fixtures == "- No Fixtures"
 
+
 if __name__ == "__main__":
     pytest.main()
