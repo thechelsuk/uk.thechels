@@ -7,18 +7,18 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Friday, 28 February 2025
+### On Saturday, 01 March 2025
 
-- The average temperature today is 4.71˚C,
-- With highs of 6.64˚C and lows of 3.72˚C,
-- It may feel like 4.71˚C with clear sky
+- The average temperature today is 0.3˚C,
+- With highs of 1.08˚C and lows of -0.01˚C,
+- It may feel like 0.3˚C with clear sky
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 360 days since the last change (2024-03-05)
+- It has been 361 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -38,7 +38,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 111.02200317382812 
+- VWRL.L : 111.08999633789062 
 
 <!-- stocks_marker ends -->
 
@@ -46,11 +46,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Chelsea, Corinthians agree future transfer of Denner Evangelista — report
+ - Chelsea not planning to sign new goalkeeper in the summer — reports
+ - Chelsea held players-only meeting after the back-to-back defeats Brighton — report
  - Boehly, Clearlake ‘have agreed on a strategy and a way forward’ for Chelsea
  - Pedro Neto enjoying the freedom of his new central role
  - Chelsea 4-0 Southampton, Player Ratings: Pedro Neto stepping up and thriving
- - Maresca asks for fans’ trust in top-four battle, backs Jörgensen, Palmer
- - Chelsea 4-0 Southampton, Premier League: Post-match reaction, ratings
 
 <!-- news_marker ends -->
 
@@ -58,14 +59,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - US and UK in talks on trade deal that could spare Britain from tariffs
- - After chiding US allies, Trump lavishes praise on ‘special’ Starmer
- - A special one?
- - The Bangladeshi politician who built a shadowy global property empire
- - Index funds saved billions in fees. Now the industry wants its money back.
- - Quantum computing is struggling to reach its silicon moment
- - Global stocks slide as tariff threats add to big tech jitters
- - US to raise tariffs on China and push ahead with Canada and Mexico levies
+ - Trump cuts short Zelenskyy meeting after fiery White House clash
+ - Europeans rally around Zelenskyy but will struggle to formulate a plan to defend Ukraine
+ - Video: How Trump-Zelenskyy dispute unfolded
+ - Trump-Zelenskyy clash fuelled by years of bad blood
+ - Zelenskyy’s humiliation in the White House
+ - Trump and Zelenskyy’s Oval Office meltdown will fill Putin with glee
+ - Blackstone chief Schwarzman’s income eclipsed $1bn last year
+ - Microsoft to shut down video-calling pioneer Skype
 
 <!-- ftnews_marker ends -->
 
@@ -81,7 +82,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The best way to get a project done faster is to start sooner - Jim Highsmith
+> Do not try and make a right choice, make a choice and then make it right. - Joe Delaney
 
 <!-- quote_marker ends -->
 
@@ -89,20 +90,20 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Film Archive
 
 <!-- film_marker starts -->
-- Constantine (Rated: 9)
-- Released in 2005
-- Summary: Detective Angela approaches Constantine, a demon hunter, to help her investigate her twin sister's mysterious death. As he digs deeper, he realizes that demons are trying to enter the human world.
+- Errementari (Rated: 3)
+- Released in 2017
+- Summary: A quiet village is thrown into turmoil upon disturbing a reclusive and feared blacksmith rumored to be in league with the devil.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 819, using [2, 6, 10, 25, 50, 75]
-- Answer: 14 solutions.
+- Target: 932, using [1, 1, 4, 6, 8, 75]
+- Answer: 4 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 10 - 50 - 2 ) x 25 - 6
+  Solution: ( 1 + 1 ) x 75 x 6 + 8 x 4
 
    </details>
 
