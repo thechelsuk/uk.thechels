@@ -293,7 +293,6 @@ class TestHelper:
         fixtures = helper.get_fixtures(link)
         assert fixtures == "- No Fixtures"
 
-
     @patch('requests.get')
     def test_get_fixtures_no_fixtures(self, mock_get):
         mock_response = mock_get.return_value
