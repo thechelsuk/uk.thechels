@@ -89,7 +89,7 @@ def get_fixtures(link):
             if ' v ' in line:
                 matches.append(line)
         if not matches:
-            return "- No Fixtures"
+            return "- No fixtures found"
         return "\n".join([f"- {match}" for match in matches])
     else:
         return "- No Fixtures"

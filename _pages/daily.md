@@ -30,7 +30,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Fixture List
 
 <!-- fixture_marker starts -->
-No Fixtures
+- No Fixtures
 <!-- fixture_marker ends -->
 
 
