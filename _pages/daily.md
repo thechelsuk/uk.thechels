@@ -85,7 +85,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> As a general rule of thumb, when benefits are not quantified at all, assume there aren't any. - Tom DeMarco and Timothy Lister
+> Leaders instil in their people a hope for success and a belief in themselves. Positive leaders empower people to accomplish their goals. - Unknown
 
 <!-- quote_marker ends -->
 
@@ -93,20 +93,20 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Film Archive
 
 <!-- film_marker starts -->
-- Wolf Creek (Rated: 7)
-- Released in 2005
-- Summary: Three backpackers stranded in the Australian outback are plunged inside a hellish nightmare of insufferable torture by a sadistic psychopathic local.
+- World Trade Center (Rated: 1)
+- Released in 2006
+- Summary: Two Port Authority police officers become trapped under the rubble of the World Trade Center.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 335, using [1, 5, 9, 10, 25, 100]
-- Answer: 26 solutions.
+- Target: 328, using [3, 8, 10, 25, 75, 100]
+- Answer: 13 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 - 25 - 10 ) x 5 + 9 + 1
+  Solution: ( 75 + 10 - 3 ) x 100 / 25
 
    </details>
 
