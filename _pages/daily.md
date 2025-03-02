@@ -7,18 +7,18 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Saturday, 01 March 2025
+### On Sunday, 02 March 2025
 
-- The average temperature today is 0.3˚C,
-- With highs of 1.08˚C and lows of -0.01˚C,
-- It may feel like 0.3˚C with clear sky
+- The average temperature today is 10.44˚C,
+- With highs of 11.03˚C and lows of 9.83˚C,
+- It may feel like 8.82˚C with clear sky
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 361 days since the last change (2024-03-05)
+- It has been 362 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -30,20 +30,16 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Fulham U18 v Crystal Palace U18
-- Liverpool U18 v Leeds United U18
-- Tottenham Hotspur U18 v Southampton U18
-- Crystal Palace v Millwall
-- Preston North End v Burnley
-- Blackburn Rovers v Norwich City
-- Leeds United v West Brom
-- Oxford United v Coventry City
-- Birmingham City v Wycombe Wanderers
-- Wrexham v Bolton Wanderers
-- Salford City v Bradford City
-- Tranmere Rovers v Port Vale
-- Gateshead v AFC Fylde
-- Manchester City v Plymouth Argyle
+- Manchester United Women v Leicester City Women
+- Newcastle United v Brighton & Hove Albion
+- Liverpool U21 v Middlesbrough U21
+- Newcastle United Women v Bristol City Women
+- Aston Villa Women v Everton Women
+- Crystal Palace Women v Liverpool Women
+- Tottenham Hotspur Women v Manchester City Women
+- Brighton & Hove Albion Women v Chelsea Women
+- Manchester United v Fulham
+- Arsenal Women v West Ham United Women
 <!-- fixture_marker ends -->
 
 
@@ -59,12 +55,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - WATCH: Sandy Baltimore volley opens the scoring for Chelsea against Brighton! 1-0!
+ - Brighton vs. Chelsea, Women’s Super League: Confirmed lineups; how to watch
+ - IFAB approve new rule to try to limit time-wasting by goalkeepers
+ - Brighton vs. Chelsea, Women’s Super League: Preview, team news, how to watch
  - Chelsea, Corinthians agree future transfer of Denner Evangelista — report
  - Chelsea not planning to sign new goalkeeper in the summer — reports
- - Chelsea held players-only meeting after the back-to-back defeats Brighton — report
- - Boehly, Clearlake ‘have agreed on a strategy and a way forward’ for Chelsea
- - Pedro Neto enjoying the freedom of his new central role
- - Chelsea 4-0 Southampton, Player Ratings: Pedro Neto stepping up and thriving
 
 <!-- news_marker ends -->
 
@@ -72,14 +68,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Trump cuts short Zelenskyy meeting after fiery White House clash
- - Europeans rally around Zelenskyy but will struggle to formulate a plan to defend Ukraine
- - Video: How Trump-Zelenskyy dispute unfolded
- - Trump-Zelenskyy clash fuelled by years of bad blood
- - Zelenskyy’s humiliation in the White House
- - Trump and Zelenskyy’s Oval Office meltdown will fill Putin with glee
- - Blackstone chief Schwarzman’s income eclipsed $1bn last year
- - Microsoft to shut down video-calling pioneer Skype
+ - European leaders aim for new Ukraine peace plan
+ - Putin ally pushes deal to restart Nord Stream 2 with US backing
+ - The US Congress is missing in action
+ - Sacking of Iran’s finance minister deals blow to reformists
+ - Israel halts aid to Gaza as Hamas rejects revised ceasefire proposal
+ - Currency investors grow wary of bets on Trump tariffs
+ - UK needs to tackle ‘unaffordable’ benefits system, says employment minister
+ - Americans delay home improvements in latest blow to US housing market
 
 <!-- ftnews_marker ends -->
 
@@ -95,7 +91,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Do not try and make a right choice, make a choice and then make it right. - Joe Delaney
+> If your actions inspire others to dream more, learn more, do more and become more, you are a leader. - John Quincy Adams
 
 <!-- quote_marker ends -->
 
@@ -103,20 +99,20 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Film Archive
 
 <!-- film_marker starts -->
-- Errementari (Rated: 3)
-- Released in 2017
-- Summary: A quiet village is thrown into turmoil upon disturbing a reclusive and feared blacksmith rumored to be in league with the devil.
+- The Objective (Rated: 6)
+- Released in 2008
+- Summary: A military special operations team, led by a CIA case officer, are on a mission in the harsh and hostile terrain of Afghanistan where they find themselves in a Middle Eastern "Bermuda Triangle" of ancient evil.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 932, using [1, 1, 4, 6, 8, 75]
-- Answer: 4 solutions.
+- Target: 583, using [3, 4, 25, 50, 75, 100]
+- Answer: 1 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 1 + 1 ) x 75 x 6 + 8 x 4
+  Solution: ( 50 + 3 ) x ( ( 100 + 75 ) / 25 + 4 )
 
    </details>
 
