@@ -13,10 +13,8 @@ if __name__ == "__main__":
         root = pathlib.Path(__file__).parent.parent.resolve()
 
         APIKEY = os.getenv("OPEN_WEATHER_KEY") or ''
-
-        url = (
-            "https://api.openweathermap.org/data/2.5/weather?q=Cheltenham&appid=%s&units=metric"
-            % (APIKEY))
+        BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
+        url = f"{BASE_URL}r?q=Cheltenham&appid=%{APIKEY}&units=metric"
 
         response = requests.get(url)
         response_dict = json.loads(response.text)
