@@ -24,8 +24,7 @@ if __name__ == "__main__":
         if response_dict["cod"] != 200:
             string_today = "- Weather data not available"
         else:
-            d = date.today()
-            output_date = d.strftime("%A, %d %B %Y")
+            output_date = helper.format_date(date.today())
 
             day_temp = str(response_dict["main"]["temp"])
             feels_like = str(response_dict["main"]["feels_like"])
