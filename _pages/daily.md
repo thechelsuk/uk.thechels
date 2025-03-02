@@ -7,12 +7,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Sunday, 02 March 2025
-
-- The average temperature today is 10.44˚C,
-- With highs of 11.03˚C and lows of 9.83˚C,
-- It may feel like 8.82˚C with clear sky
-
+- Weather data not available
 <!-- weather_marker ends -->
 
 ### MI5 Status
@@ -30,7 +25,6 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Manchester United Women v Leicester City Women
 - Newcastle United v Brighton & Hove Albion
 - Liverpool U21 v Middlesbrough U21
 - Newcastle United Women v Bristol City Women
@@ -55,12 +49,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - WATCH: Lauren James equalises for Chelsea against Brighton! 2-2!
  - WATCH: Sandy Baltimore volley opens the scoring for Chelsea against Brighton! 1-0!
  - Brighton vs. Chelsea, Women’s Super League: Confirmed lineups; how to watch
  - IFAB approve new rule to try to limit time-wasting by goalkeepers
  - Brighton vs. Chelsea, Women’s Super League: Preview, team news, how to watch
  - Chelsea, Corinthians agree future transfer of Denner Evangelista — report
- - Chelsea not planning to sign new goalkeeper in the summer — reports
 
 <!-- news_marker ends -->
 
@@ -73,9 +67,9 @@ seo: Good Morning Mat, Here is your daily briefing
  - The US Congress is missing in action
  - Sacking of Iran’s finance minister deals blow to reformists
  - Israel halts aid to Gaza as Hamas rejects revised ceasefire proposal
- - Currency investors grow wary of bets on Trump tariffs
- - UK needs to tackle ‘unaffordable’ benefits system, says employment minister
+ - Crypto prices jump as Trump says US strategic reserve to include lesser-traded tokens
  - Americans delay home improvements in latest blow to US housing market
+ - UK needs to tackle ‘unaffordable’ benefits system, says employment minister
 
 <!-- ftnews_marker ends -->
 
@@ -91,7 +85,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> If your actions inspire others to dream more, learn more, do more and become more, you are a leader. - John Quincy Adams
+> As a general rule of thumb, when benefits are not quantified at all, assume there aren't any. - Tom DeMarco and Timothy Lister
 
 <!-- quote_marker ends -->
 
@@ -99,20 +93,20 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Objective (Rated: 6)
-- Released in 2008
-- Summary: A military special operations team, led by a CIA case officer, are on a mission in the harsh and hostile terrain of Afghanistan where they find themselves in a Middle Eastern "Bermuda Triangle" of ancient evil.
+- Wolf Creek (Rated: 7)
+- Released in 2005
+- Summary: Three backpackers stranded in the Australian outback are plunged inside a hellish nightmare of insufferable torture by a sadistic psychopathic local.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 583, using [3, 4, 25, 50, 75, 100]
-- Answer: 1 solutions.
+- Target: 335, using [1, 5, 9, 10, 25, 100]
+- Answer: 26 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 + 3 ) x ( ( 100 + 75 ) / 25 + 4 )
+  Solution: ( 100 - 25 - 10 ) x 5 + 9 + 1
 
    </details>
 
