@@ -362,6 +362,14 @@ table {
     }
 }
 
+img {
+    border: 1px solid $primary;
+}
+
+.book-img img {
+    border: 0;
+}
+
 .highlighter {
     background: $accent;
     color: $primary;
