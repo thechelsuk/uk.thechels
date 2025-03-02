@@ -7,7 +7,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-- Weather data not available
+### On Sunday 2nd March 2025
+
+- The average temperature today is 9.34˚C,
+- With highs of 9.75˚C and lows of 8.86˚C,
+- It may feel like 9.34˚C with clear sky
+
 <!-- weather_marker ends -->
 
 ### MI5 Status
