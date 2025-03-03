@@ -22,11 +22,7 @@ if __name__ == "__main__":
         url = f"http://www.omdbapi.com/?t={title}&plot=short&r=json&apikey={APIKEY}"
         response = requests.get(url)
         data = response.json()
-        if data:
-            summary = data["Plot"]
-        else:
-            summary = "No summary available"
-
+        summary = data["Plot"] or "No summary available"
         film_output = f"- {film['Title']} (Rated: {film['Rating']})\n"
         film_output += f"- Released in {film['Year']}\n"
         film_output += f"- Summary: {summary}"

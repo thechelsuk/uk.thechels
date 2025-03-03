@@ -8,7 +8,7 @@ seo: Doing my bit for the environment
 
 ## Calculator
 
-According to an online calculator, it estimates a gross individual use of 4.64 tonnes of C0<sub>2</sub> for the year 2024. Ths pre-dates solar panels. So will update later in 2025.
+According to an online calculator, it estimates a gross individual use of 4.64 tonnes of C0<sub>2</sub> for the year 2024. This pre-dates solar panel install. So will update later in 2025.
 
 ## Website
 
@@ -38,9 +38,9 @@ According to an online calculator, it estimates a gross individual use of 4.64 t
 - 10 Solar Panels and a 5kw battery helps reduce reliance on the grid
 - Energy provider uses green energy.
 - 95% of home uses smart energy efficient lighting. Remaining is due to be addressed in 2025.
-- Own an EV (as a gift to my spouse) but have never been learned to drive so all commuting has been via public transport.
+- Own an EV (as a gift to my spouse) but have never been able to nor learned to drive so all commuting has been via foot or public transport.
 
 ## Travel
 
 - Working mostly from home, but occasional trips to London for work are by train. The Trainline App reports that this journey typically saves 27kg of C0<sub>2</sub>.
-- For all train travel since June 2021, I haves 448kg of C0<sub>2</sub>. Using 197kg compared 645kg had the journey been by car.
+- For all train travel since June 2021, I have saved 448kg of C0<sub>2</sub>. Using 197kg compared 645kg had the journey been by car.

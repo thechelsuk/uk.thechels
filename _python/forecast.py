@@ -13,10 +13,8 @@ if __name__ == "__main__":
         root = pathlib.Path(__file__).parent.parent.resolve()
 
         APIKEY = os.getenv("OPEN_WEATHER_KEY") or ''
-
-        url = (
-            "https://api.openweathermap.org/data/2.5/weather?q=Cheltenham&appid=%s&units=metric"
-            % (APIKEY))
+        BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
+        url = f"{BASE_URL}?q=Cheltenham&appid={APIKEY}&units=metric"
 
         response = requests.get(url)
         response_dict = json.loads(response.text)
@@ -24,8 +22,7 @@ if __name__ == "__main__":
         if response_dict["cod"] != 200:
             string_today = "- Weather data not available"
         else:
-            d = date.today()
-            output_date = d.strftime("%A, %d %B %Y")
+            output_date = helper.format_date(date.today())
 
             day_temp = str(response_dict["main"]["temp"])
             feels_like = str(response_dict["main"]["feels_like"])

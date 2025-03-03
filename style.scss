@@ -35,7 +35,7 @@ $font-mono: ui-monospace, monospace, "Courier New";
     font-family: $font-mono;
 }
 
-.highlight > pre{
+.highlight > pre {
     background: #a2a2a2;
     color: $primary;
     padding: 0.525em;
@@ -362,12 +362,21 @@ table {
     }
 }
 
+img {
+    border: 1px solid $primary;
+}
+
+.book-img img {
+    border: 0;
+}
+
 .highlighter {
     background: $accent;
     color: $primary;
     padding: 0.265em;
     border-radius: 0.5em;
     margin: 0.265em;
+    font-size: 0.8em;
 }
 
 .back-to-top {

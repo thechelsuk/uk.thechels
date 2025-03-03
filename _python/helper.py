@@ -24,7 +24,7 @@ def add_suffix(day):
 
 def format_date(date):
     suffix = add_suffix(date.day)
-    formatted_date = date.strftime(f'%A %d{suffix} %B %Y')
+    formatted_date = date.strftime(f'%A {date.day}{suffix} %B %Y')
     return formatted_date
 
 
@@ -89,10 +89,10 @@ def get_fixtures(link):
             if ' v ' in line:
                 matches.append(line)
         if not matches:
-            return "No Fixtures"
+            return "- No fixtures found"
         return "\n".join([f"- {match}" for match in matches])
     else:
-        return "No Fixtures"
+        return "- No Fixtures"
 
 
 def get_countdown_number_selection():

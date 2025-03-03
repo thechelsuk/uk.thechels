@@ -7,40 +7,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Friday, 28 February 2025
+### On Monday 3rd March 2025
 
-- The average temperature today is 4.71˚C,
-- With highs of 6.64˚C and lows of 3.72˚C,
-- It may feel like 4.71˚C with clear sky
+- The average temperature today is -1.11˚C,
+- With highs of -0.02˚C and lows of -2.4˚C,
+- It may feel like -1.11˚C with clear sky
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 360 days since the last change (2024-03-05)
+- It has been 363 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- N
-- o
--  
-- F
-- i
-- x
-- t
-- u
-- r
-- e
-- s
+- Crystal Palace U21 v Arsenal U21
+- Leicester City U21 v Tottenham Hotspur U21
+- Nottingham Forest v Ipswich Town
 <!-- fixture_marker ends -->
 
 
@@ -48,7 +41,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 111.02200317382812 
+- VWRL.L : 111.08999633789062 
 
 <!-- stocks_marker ends -->
 
@@ -56,11 +49,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
- - Boehly, Clearlake ‘have agreed on a strategy and a way forward’ for Chelsea
- - Pedro Neto enjoying the freedom of his new central role
- - Chelsea 4-0 Southampton, Player Ratings: Pedro Neto stepping up and thriving
- - Maresca asks for fans’ trust in top-four battle, backs Jörgensen, Palmer
- - Chelsea 4-0 Southampton, Premier League: Post-match reaction, ratings
+ - Deivid Washington doesn’t regret Chelsea move but happy to ‘have a history’ at Santos now
+ - Chelsea appoint Arsenal academy coach as Assistant Head of Goalkeeping
+ - Brighton 2-2 Chelsea, Women’s Super League: Post-match reaction
+ - WATCH: Lauren James equalises for Chelsea against Brighton! 2-2!
+ - WATCH: Sandy Baltimore volley opens the scoring for Chelsea against Brighton! 1-0!
+ - Brighton vs. Chelsea, Women’s Super League: Confirmed lineups; how to watch
+ - IFAB approve new rule to try to limit time-wasting by goalkeepers
 
 <!-- news_marker ends -->
 
@@ -68,14 +63,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - US and UK in talks on trade deal that could spare Britain from tariffs
- - After chiding US allies, Trump lavishes praise on ‘special’ Starmer
- - A special one?
- - The Bangladeshi politician who built a shadowy global property empire
- - Index funds saved billions in fees. Now the industry wants its money back.
- - Quantum computing is struggling to reach its silicon moment
- - Global stocks slide as tariff threats add to big tech jitters
- - US to raise tariffs on China and push ahead with Canada and Mexico levies
+ - UK and France aim for new Ukraine peace deal involving initial 1-month truce
+ - Europe’s rescue mission on Ukraine: keep Trump engaged
+ - Negotiations over Ukraine are missing a human dimension
+ - How Trump’s tariffs threaten an iconic US pick-up truck
+ - Deutsche Bank clashed with ECB over bad loan losses
+ - How to respond to the realities of a more dangerous world
+ - Crypto prices jump as Trump names tokens included in strategic reserve
+ - US hints that tariffs on Mexico and Canada could be lower than 25%
 
 <!-- ftnews_marker ends -->
 
@@ -83,7 +78,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > cwtch - noun: 1. A hiding place, such as a cupboard or a cubbyhole. 2. A hug or a cuddle. verb tr.: To hug or cuddle. verb intr. 1. To crouch down. 2. To hide.
+ > trimmer - noun: 1. One who adjusts beliefs, opinions, and actions to suit personal interest. 2. A person or a tool that clips, shortens, neatens, etc.
 
 <!-- word_marker ends -->
 
@@ -91,7 +86,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The best way to get a project done faster is to start sooner - Jim Highsmith
+> Never forget that the great ScrumMaster is, in the first place, a leader. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
@@ -99,20 +94,20 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Film Archive
 
 <!-- film_marker starts -->
-- Constantine (Rated: 9)
-- Released in 2005
-- Summary: Detective Angela approaches Constantine, a demon hunter, to help her investigate her twin sister's mysterious death. As he digs deeper, he realizes that demons are trying to enter the human world.
+- Wrath Of The Titans (Rated: 3)
+- Released in 2012
+- Summary: Perseus braves the treacherous underworld to rescue his father, Zeus, captured by his son, Ares, and brother Hades who unleash the ancient Titans upon the world.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 819, using [2, 6, 10, 25, 50, 75]
-- Answer: 14 solutions.
+- Target: 225, using [2, 3, 4, 5, 9, 50]
+- Answer: 149 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 10 - 50 - 2 ) x 25 - 6
+  Solution: ( 5 - 3 ) x 50 x 9 / 4
 
    </details>
 

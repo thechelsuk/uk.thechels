@@ -2,7 +2,7 @@
 from operator import contains
 import helper
 import pytest
-from datetime import datetime
+from datetime import datetime, timedelta
 import pathlib
 from unittest.mock import patch
 import yaml
@@ -194,7 +194,7 @@ class TestHelper:
     def test_format_date(self):
         date = datetime(2022, 6, 8)
         formatted_date = helper.format_date(date)
-        assert formatted_date == "Wednesday 08th June 2022"
+        assert formatted_date == "Wednesday 8th June 2022"
 
     def test_get_countdown_number_selection(self):
         numbers = helper.get_countdown_number_selection()
@@ -258,6 +258,69 @@ class TestHelper:
     def test_is_water_the_plants_day(self):
         date = datetime(2024, 6, 15)  # Saturday, week 2
         assert helper.is_water_the_plants_day(date) is True
+
+    @patch('requests.get')
+    def test_get_fixtures_returns_match(self, mock_get):
+        mock_response = mock_get.return_value
+        today = helper.format_date(datetime.now())
+        tomorrow = helper.format_date(datetime.now() + timedelta(days=1))
+        mock_response.text = f"""
+        <html>
+            <body>
+                <div>{today}</div>
+                <div>Team A v Team B</div>
+                <div>{tomorrow}</div>
+            </body>
+        </html>
+        """
+        link = "http://example.com"
+        fixtures = helper.get_fixtures(link)
+        assert fixtures == "- Team A v Team B"
+
+    @patch('requests.get')
+    def test_get_fixtures_no_fixtures_within_date(self, mock_get):
+        mock_response = mock_get.return_value
+        mock_response.text = """
+        <html>
+            <body>
+                <div>Wednesday 8th June 2022</div>
+                <div>Team A v Team B</div>
+                <div>Thursday 9th June 2022</div>
+            </body>
+        </html>
+        """
+        link = "http://example.com"
+        fixtures = helper.get_fixtures(link)
+        assert fixtures == "- No Fixtures"
+
+    @patch('requests.get')
+    def test_get_fixtures_no_fixtures(self, mock_get):
+        mock_response = mock_get.return_value
+        mock_response.text = """
+        <html>
+            <body>
+                <div>Wednesday 8th June 2022</div>
+                <div>Thursday 9th June 2022</div>
+            </body>
+        </html>
+        """
+        link = "http://example.com"
+        fixtures = helper.get_fixtures(link)
+        assert fixtures == "- No Fixtures"
+
+    @patch('requests.get')
+    def test_get_fixtures_no_matches(self, mock_get):
+        mock_response = mock_get.return_value
+        mock_response.text = """
+        <html>
+            <body>
+                <div>Some other content</div>
+            </body>
+        </html>
+        """
+        link = "http://example.com"
+        fixtures = helper.get_fixtures(link)
+        assert fixtures == "- No Fixtures"
 
 
 if __name__ == "__main__":
