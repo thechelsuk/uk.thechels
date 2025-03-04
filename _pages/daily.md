@@ -7,33 +7,74 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Monday 3rd March 2025
+### On Tuesday 4th March 2025
 
-- The average temperature today is -1.11˚C,
-- With highs of -0.02˚C and lows of -2.4˚C,
-- It may feel like -1.11˚C with clear sky
+- The average temperature today is 0.87˚C,
+- With highs of 1.09˚C and lows of -1.28˚C,
+- It may feel like -1.64˚C with clear sky
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 363 days since the last change (2024-03-05)
+- It has been 364 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Crystal Palace U21 v Arsenal U21
-- Leicester City U21 v Tottenham Hotspur U21
-- Nottingham Forest v Ipswich Town
+- Aston Villa U19 v Barcelona U19
+- Club Brugge v Aston Villa
+- Cardiff City v Burnley
+- Hull City v Plymouth Argyle
+- Preston North End v Swansea City
+- Blackpool v Peterborough United
+- Bolton Wanderers v Birmingham City
+- Cambridge United v Stevenage
+- Charlton Athletic v Barnsley
+- Huddersfield Town v Wrexham
+- Lincoln City v Crawley Town
+- Mansfield Town v Wigan Athletic
+- Northampton Town v Stockport County
+- Reading v Exeter City
+- Rotherham United v Leyton Orient
+- Shrewsbury Town v Bristol Rovers
+- Accrington Stanley v MK Dons
+- Bradford City v Cheltenham Town
+- Bromley v Doncaster Rovers
+- Carlisle United v Walsall
+- Colchester United v Chesterfield
+- Crewe Alexandra v Fleetwood Town
+- Grimsby Town v Tranmere Rovers
+- Morecambe v AFC Wimbledon
+- Newport County v Gillingham
+- Notts County v Barrow AFC
+- Port Vale v Harrogate Town
+- Swindon Town v Salford City
+- AFC Fylde v Hartlepool United
+- Aldershot Town v Dagenham & Redbridge
+- Barnet v Yeovil Town
+- Boston United v Oldham Athletic
+- Eastleigh v Ebbsfleet United
+- FC Halifax Town v Forest Green Rovers
+- Maidenhead United v Braintree Town
+- Rochdale v Gateshead
+- Solihull Moors v Sutton United
+- Southend United v Woking
+- Tamworth v Wealdstone
+- York City v Altrincham
+- Chippenham Town v Torquay United
+- Wycombe Wanderers v Burton Albion
+- PSV Eindhoven v Arsenal
 <!-- fixture_marker ends -->
 
 
@@ -41,7 +82,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 111.08999633789062 
+- VWRL.L : 111.43000030517578 
 
 <!-- stocks_marker ends -->
 
@@ -55,7 +96,6 @@ seo: Good Morning Mat, Here is your daily briefing
  - WATCH: Lauren James equalises for Chelsea against Brighton! 2-2!
  - WATCH: Sandy Baltimore volley opens the scoring for Chelsea against Brighton! 1-0!
  - Brighton vs. Chelsea, Women’s Super League: Confirmed lineups; how to watch
- - IFAB approve new rule to try to limit time-wasting by goalkeepers
 
 <!-- news_marker ends -->
 
@@ -63,14 +103,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - UK and France aim for new Ukraine peace deal involving initial 1-month truce
- - Europe’s rescue mission on Ukraine: keep Trump engaged
- - Negotiations over Ukraine are missing a human dimension
- - How Trump’s tariffs threaten an iconic US pick-up truck
- - Deutsche Bank clashed with ECB over bad loan losses
- - How to respond to the realities of a more dangerous world
- - Crypto prices jump as Trump names tokens included in strategic reserve
- - US hints that tariffs on Mexico and Canada could be lower than 25%
+ - Europeans move towards seizing €200bn of Russian assets
+ - Stocks fall as Trump’s tariffs take effect
+ - ‘Trump is kicking ass’: supporters cheer president’s frenzied first weeks
+ - Students must learn to be more than mindless ‘machine-minders’
+ - UK rental prices rise at slowest pace in over 3 years, data shows
+ - BYD pledges to work with rival Tesla to combat petrol cars
+ - Global government borrowing set to hit record $12.3tn
+ - Record number of Americans apply for UK citizenship
 
 <!-- ftnews_marker ends -->
 
@@ -78,7 +118,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > trimmer - noun: 1. One who adjusts beliefs, opinions, and actions to suit personal interest. 2. A person or a tool that clips, shortens, neatens, etc.
+ > bilge - noun: 1. The bottom (inner or outer) part of a ship or a boat. 2. Water, oil, and waste that collect in the lowest part of a ship or a boat. 3. Nonsense; rubbish. 4. The bulging part of a barrel or a cask. verb tr., intr.: 1. To bulge or swell. 2. To spring a leak.
 
 <!-- word_marker ends -->
 
@@ -86,7 +126,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Never forget that the great ScrumMaster is, in the first place, a leader. - Zuzana Sochova
+> People with goals succeed because they know where they're going - Earl Nightingale
 
 <!-- quote_marker ends -->
 
@@ -94,20 +134,20 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Film Archive
 
 <!-- film_marker starts -->
-- Wrath Of The Titans (Rated: 3)
-- Released in 2012
-- Summary: Perseus braves the treacherous underworld to rescue his father, Zeus, captured by his son, Ares, and brother Hades who unleash the ancient Titans upon the world.
+- The Island (Rated: 8)
+- Released in 2005
+- Summary: In 2019, a mercenary pursues a man and woman who escaped a research facility after learning their true fate.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 225, using [2, 3, 4, 5, 9, 50]
-- Answer: 149 solutions.
+- Target: 307, using [3, 6, 7, 25, 75, 100]
+- Answer: 37 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 5 - 3 ) x 50 x 9 / 4
+  Solution: ( 100 + 75 - 25 ) x 6 / 3 + 7
 
    </details>
 
