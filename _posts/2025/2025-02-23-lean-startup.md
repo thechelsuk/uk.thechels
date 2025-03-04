@@ -100,7 +100,7 @@ Good questions for the team to answer why developing product:
 
 > **Success is not delivering a feature; success is learning how to solve the customer's problem.**
 
-# How vision leads to steering
+## How vision leads to steering
 
 - **Qualitative feedback**: What customers like and don't like.
 - **Quantiative feedback**: How many customers use the product and find it valuable.

@@ -10,7 +10,7 @@
     <meta name="title"
       content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }}">
     {% if page.id %}
-    <meta name="description" content="{% if post.title %} {{ post.title }} | {% endif %}{{ site.title }}">
+    <meta name="description" content="{% if post.seo %} {{ post.seo }} {% else %} {% if post.title %} {{ post.title }} | {% endif %} {% endif %} {{ site.title }}">
     {% else %}
     <meta name="description"
       content="{% if page.seo %} {{ page.seo }}{% else %} {{ post.title }}{% endif %} | {{ site.title }}">
