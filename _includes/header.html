@@ -6,15 +6,10 @@
     <meta http-equiv="Content-Security-Policy"
       content="default-src *; script-src *; style-src *; upgrade-insecure-requests; block-all-mixed-content">
     <meta name="referrer" content="origin">
-    <title>{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %}</title>
-    <meta name="title"
-      content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }}">
-    {% if page.id %}
-    <meta name="description" content="{% if post.seo %} {{ post.seo }} {% else %} {% if post.title %} {{ post.title }} | {% endif %} {% endif %} {{ site.title }}">
-    {% else %}
+    <title>{{ page.title | default: post.title }}</title>
+    <meta name="title" content="{{ page.title | default: post.title }} | {{ site.title }}">
     <meta name="description"
-      content="{% if page.seo %} {{ page.seo }}{% else %} {{ post.title }}{% endif %} | {{ site.title }}">
-    {% endif %}
+      content="{{ page.seo | default: post.seo | default: page.title | default: post.title }} | {{ site.title }}">
 
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
@@ -24,7 +19,7 @@
     <meta property="og:image" content="{{ site.url }}{{ site.defaultImagePath }}">
     <meta property="og:site_name" content="{{ site.title }} {{ site.description }}">
     <meta property="og:description"
-      content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+      content="{{ page.seo | default: post.seo | default: page.title | default: post.title }} | {{ site.title }}">
     <meta property="article:publisher" content="{{ site.url }}">
     <meta property="article:author" content="{{ site.author }} at {{site.url }}">
     <meta property="article:published_time" content="{{ page.date }}">
