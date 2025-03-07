@@ -27,6 +27,11 @@ seo: Good Morning Mat, Here is your daily briefing
 - No tasks today
 <!-- task_marker ends -->
 
+### Daily Doctrine
+<!-- doctrine_marker starts -->
+- Use appropriate tools.
+<!-- doctrine_marker ends -->
+
 ### Fixture List
 
 <!-- fixture_marker starts -->
