@@ -38,7 +38,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 108.74500274658203 
+- VWRL.L : 108.74500274658203
 
 <!-- stocks_marker ends -->
 
@@ -87,6 +87,12 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- quote_marker ends -->
 
+### Oblique Strategies
+<!-- eno_marker starts -->
+
+- How would you have done it?
+
+<!-- eno_marker ends -->
 
 ### Film Archive
 
