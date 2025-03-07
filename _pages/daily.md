@@ -7,18 +7,18 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Thursday 6th March 2025
+### On Friday 7th March 2025
 
-- The average temperature today is 5.54˚C,
-- With highs of 6.65˚C and lows of 4.82˚C,
-- It may feel like 4.78˚C with clear sky
+- The average temperature today is 9.58˚C,
+- With highs of 10.55˚C and lows of 8.87˚C,
+- It may feel like 8.51˚C with overcast clouds
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 366 days since the last change (2024-03-05)
+- It has been 367 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -30,9 +30,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- FC Copenhagen v Chelsea
-- AZ Alkmaar v Tottenham Hotspur
-- Real Sociedad v Manchester United
+- Norwich City v Oxford United
 <!-- fixture_marker ends -->
 
 
@@ -40,7 +38,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 108.1500015258789 
+- VWRL.L : 108.74500274658203 
 
 <!-- stocks_marker ends -->
 
@@ -48,12 +46,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - FC Copenhagen 1-2 Chelsea, UEFA Conference League: Post-match reaction, ratings
+ - WATCH: Enzo Fernández doubles Chelsea’s lead over FC Copenhagen! 2-0!
+ - WATCH: Reece James opens the scoring for Chelsea against FC Copenhagen! 1-0!
+ - FC Copenhagen vs. Chelsea, UEFA Conference League: Live blog; highlights
+ - Official: Millie Bright signs new Chelsea contract extension
+ - The people’s choice against FC Copenhagen: No messing about
  - FC Copenhagen vs. Chelsea, UEFA Conference League: Preview, team news, how to watch
- - Chelsea 3-1 Leicester, Women’s Super League: Post-match reaction
- - WATCH: Aggie Beever-Jones doubles Chelsea’s lead over Leicester! 2-0!
- - WATCH: Cat Macario opens the scoring for Chelsea against Leicester! 1-0!
- - Chelsea vs. Leicester, Women’s Super League: Confirmed lineups; how to watch
- - Chelsea vs. Leicester City, Women’s Super League: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -61,14 +60,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Japanese bond yields hit 16-year high
- - German borrowing costs soar by most since 1997 on ‘historic’ debt deal
- - How much does Brookfield really make?
- - Germany’s ‘whatever-it-takes’ spending push to end years of stagnation
- - Thames Water has to keep borrowing and carry on
- - Microsoft walks away from some CoreWeave commitments ahead of $35bn IPO
- - Trump administration to expand blitz against spending on consultants
- - Trump hands carmakers 1-month reprieve from tariffs
+ - Trump’s crypto project netted $350mn from presidential memecoin
+ - The secret history of Syria’s new leader
+ - What a Mar-a-Lago accord could look like
+ - ‘It’s like a whipsaw’: Trump’s tariff U-turns unnerve businesses and investors
+ - Trump restrains Elon Musk’s Doge as concern mounts over job losses
+ - Lloyds shifts skilled IT jobs from UK to India
+ - UK Treasury eyes spending cuts at GB Energy in blow to Ed Miliband
+ - EU puts on show of solidarity with Zelenskyy after clash with Trump
 
 <!-- ftnews_marker ends -->
 
@@ -76,7 +75,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > keel - noun: 1. The beam along the length of the base of a ship or boat on which the frame is built. 2. A fin-like structure on the bottom of a hull, improving stability. verb tr., intr.: To capsize, collapse, or fall.
+ > by and large - adverb: In general; on the whole.
 
 <!-- word_marker ends -->
 
@@ -84,7 +83,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Stable Velocity. Sustainable Pace - Mike Cottmeyer
+> The ScrumMaster has no authority over Scrum team members but does have authority over the process. - Mike Cohn
 
 <!-- quote_marker ends -->
 
@@ -92,14 +91,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Film Archive
 
 <!-- film_marker starts -->
-- James Bond: A View To A Kill (Rated: 4)
-- Released in 1985
-- Summary: No summary available
+- Goon (Rated: 5)
+- Released in 2011
+- Summary: Labeled an outcast by his brainy family, a bouncer overcomes long odds to lead a team of under performing misfits to semi-pro hockey glory, beating the crap out of everything that stands in his way.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 659, using [1, 2, 2, 5, 7, 25]
+- Target: 301, using [1, 3, 3, 5, 8, 75]
+- Answer: 32 solutions.
+
+- <details><summary><code>Solution</code></summary>
+
+  Solution: ( 3 / 3 + 8 - 5 ) x 75 + 1
+
+   </details>
 
 <!-- game_marker ends -->
