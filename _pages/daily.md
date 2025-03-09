@@ -7,49 +7,40 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Saturday 8th March 2025
+### On Sunday 9th March 2025
 
-- The average temperature today is 9.27˚C,
-- With highs of 9.42˚C and lows of 8.25˚C,
-- It may feel like 7.31˚C with overcast clouds
+- The average temperature today is 6.59˚C,
+- With highs of 6.96˚C and lows of 5.4˚C,
+- It may feel like 4.32˚C with broken clouds
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 368 days since the last change (2024-03-05)
+- It has been 369 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Water the plants
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-- Provide purpose, mastery and autonomy.
+- challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Crystal Palace U18 v West Ham United U18
-- Derby County U18 v Manchester United U18
-- Coventry City v Stoke City
-- Watford v Millwall
-- Crawley Town v Reading
-- Stockport County v Charlton Athletic
-- AFC Wimbledon v Notts County
-- Walsall v Grimsby Town
-- Barnet v Dagenham & Redbridge
-- Nottingham Forest v Manchester City
-- Manchester United Women v Sunderland AFC Women
-- York City v Forest Green Rovers
-- Brentford v Aston Villa
-- Wolves v Everton
+- Portsmouth v Leeds United
+- Manchester City Women v Aston Villa Women
+- Tottenham Hotspur v AFC Bournemouth
+- Arsenal Women v Liverpool Women
+- Chelsea Women v Crystal Palace Women
+- Manchester United v Arsenal
 <!-- fixture_marker ends -->
 
 
@@ -65,13 +56,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Chelsea vs. Leicester City, Premier League: Preview, team news, how to watch
+ - Chelsea vs. Crystal Palace, Women’s FA Cup: Preview, team news, how to watch
+ - How should Chelsea line up against Leicester City at Stamford Bridge?
+ - Maresca ‘always imagined’ Reece James in midfield
  - FC Copenhagen 1-2 Chelsea, Player Ratings: Captains take charge
  - Maresca happy with ‘very important’ but bit sloppy first leg win against Copenhagen
- - FC Copenhagen 1-2 Chelsea, UEFA Conference League: Post-match reaction, ratings
- - WATCH: Enzo Fernández doubles Chelsea’s lead over FC Copenhagen! 2-0!
- - WATCH: Reece James opens the scoring for Chelsea against FC Copenhagen! 1-0!
- - FC Copenhagen vs. Chelsea, UEFA Conference League: Live blog; highlights
- - Official: Millie Bright signs new Chelsea contract extension
 
 <!-- news_marker ends -->
 
@@ -79,14 +69,11 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Fed chief Jay Powell plays down growth worries after jobs report disappoints
- - The Wirecard fugitive, Russian intelligence and a Bulgarian spy ring
- - US global leadership has never been plain sailing
- - The OBR has been a victim of its own success
- - Poland must look at acquiring nuclear weapons, says Donald Tusk
- - Trump threatens Russia with additional sanctions and tariffs
- - China hits Canada with retaliatory tariffs on agricultural products
- - Scores killed as Assad loyalists clash with Syrian security forces
+ - Berlin’s about-turn can get Europe more bang for the buck
+ - The sobering new state of feminism
+ - Hikma races to launch generic versions of blockbuster obesity drugs
+ - US law firms’ London expansion drives record number of job moves
+ - Son of Brazil’s indicted ex-president Bolsonaro lobbies Trump camp
 
 <!-- ftnews_marker ends -->
 
@@ -102,33 +89,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The art of leadership is saying no, not yes. It is very easy to say yes - Tony Blair
+> A great person attracts great people and knows how to hold them together. - Johann Wolfgang Von Goethe
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-- Ask people to work against their better judgment
+- Work at a different speed
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Dangerous (Rated: 3)
-- Released in 2021
-- Summary: A reformed sociopath journeys to a remote island to investigate the mystery behind his brother's demise, but soon ends up facing off with more than he bargained for.
+- Ironclad (Rated: 6)
+- Released in 2011
+- Summary: In thirteenth-century England, a Knights Templar and a few of the Barons men fight to defend Rochester Castle against the tyrannical King John.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 766, using [7, 8, 10, 25, 50, 75]
-- Answer: 4 solutions.
+- Target: 914, using [2, 3, 4, 6, 8, 10]
+- Answer: 2 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 50 + 8 - 25 ) x 7 + 10
+  Solution: ( 10 x 4 x 3 - 6 ) x 8 + 2
 
    </details>
 
