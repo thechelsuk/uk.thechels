@@ -7,35 +7,60 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Monday 10th March 2025
+### On Tuesday 11th March 2025
 
-- The average temperature today is 7.98˚C,
-- With highs of 8.88˚C and lows of 7.04˚C,
-- It may feel like 7.98˚C with overcast clouds
+- The average temperature today is 4.73˚C,
+- With highs of 5.71˚C and lows of 4.27˚C,
+- It may feel like 2.12˚C with few clouds
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 370 days since the last change (2024-03-05)
+- It has been 371 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-- Use appropriate tools.
+- Set exceptional standards.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- West Ham United v Newcastle United
+- Aldershot Town v Leeds United U21
+- Burnley v West Brom
+- Cardiff City v Luton Town
+- Derby County v Coventry City
+- Middlesbrough v QPR
+- Norwich City v Sheffield Wednesday
+- Sunderland v Preston North End
+- Birmingham City v Stevenage
+- Bristol Rovers v Bolton Wanderers
+- Crawley Town v Charlton Athletic
+- Exeter City v Mansfield Town
+- Colchester United v Port Vale
+- Grimsby Town v Notts County
+- Salford City v Chesterfield
+- Forest Green Rovers v Sutton United
+- Oldham Athletic v Eastleigh
+- Rochdale v Altrincham
+- Yeovil Town v Boston United
+- Braintree Town v Brighton & Hove Albion U21
+- Alfreton Town v Scunthorpe United
+- Maidstone United v Dorking Wanderers
+- Sheffield United v Bristol City
+- Reading v Wrexham
+- Liverpool v PSG
 <!-- fixture_marker ends -->
 
 
@@ -43,7 +68,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 106.91000366210938 
+- VWRL.L : 105.87999725341797 
 
 <!-- stocks_marker ends -->
 
@@ -51,13 +76,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Kellyman returns to action with Chelsea U21; hoping for first-team debut — report
+ - Maresca doesn’t want to keep changing goalkeepers ‘every game’
+ - Chelsea 1-0 Leicester City, Player Ratings: Stand under our Cucurella, ella, ella, eh, eh
  - Maresca ‘very happy’ with narrow win over a surprising Leicester City
  - Chelsea 1-0 Crystal Palace, Women’s FA Cup: Post-match reaction
  - WATCH: Lauren James opens the scoring for Chelsea against Palace! 1-0!
- - Chelsea 1-0 Leicester City, Premier League: Post-match reaction, ratings
- - WATCH: Cucurella opens the scoring for Chelsea against Leicester! 1-0!
- - Chelsea vs. Leicester City, Premier League: Live blog; highlights
- - Chelsea vs. Crystal Palace, Women’s FA Cup: Confirmed lineups; how to watch
 
 <!-- news_marker ends -->
 
@@ -65,14 +89,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Ukraine seeks to persuade US to resume aid in high-stakes talks
- - Two-thirds of arms imports to Nato countries in Europe come from US
- - Inside Russia’s shadow war in the Baltics
- - The rising economies born through crisis
- - ‘Nuclear bomb’ ruling on car finance could spur UK bank deals
- - Mark Carney to replace Trudeau as Canada’s prime minister
- - Can Mark Carney win an election in Canada and a trade war with the US?
- - Internal emails reveal ONS fears about troubled UK jobs survey
+ - Global markets steady after slowdown fears hit Wall Street
+ - Wall Street stocks tumble as investors fret over US economic slowdown
+ - Wall Street loses hope in a ‘Trump put’ for markets
+ - What is behind the dramatic shift in markets
+ - What bankers and care home workers have in common
+ - Portugal’s government on brink of collapse
+ - Pimco books 17% instant profit on Thames Water emergency loan
+ - Musk expresses support for rival to Reform UK as feud in Farage’s party intensifies
 
 <!-- ftnews_marker ends -->
 
@@ -80,7 +104,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > eclat - noun: 1. Enthusiastic approval or praise. 2. A strikingly brilliant display or effect. 3. Notable success.
+ > bosky - adjective: 1. Densely wooded; covered in trees and shrubs. 2. Pertaining to forests or wooded areas.
 
 <!-- word_marker ends -->
 
@@ -88,33 +112,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Leadership is the capacity to translate vision into reality - Warren Bennis
+> The Product Owner should never act in the ScrumMaster role. The two roles have conflicting goals. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-- Accept advice
+- Just carry on
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Cho Kowai Hanashi (Rated: 5)
-- Released in 2005
-- Summary: Employees at a convenience store must get to the bottom of supernatural goings-on occurring within their workplace.
+- Murder By Numbers (Rated: 3)
+- Released in 2002
+- Summary: Two gifted high school students execute a perfect murder - then become engaged in an intellectual contest with a seasoned homicide detective.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 403, using [4, 5, 9, 50, 75, 100]
-- Answer: 1 solutions.
+- Target: 747, using [1, 4, 9, 10, 25, 50]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: 75 x 5 + ( 9 - 100 / 50 ) x 4
+  Solution: ( 25 - 10 ) x 50 - 9 / ( 4 - 1 )
 
    </details>
 
