@@ -26,15 +26,15 @@ I've included the `site.time` to process a date in the title and also in the pub
 <rss version="2.0">
   <channel>
     <title>Daily Rundown</title>
-    <link>{{ site.url }}/daily</link>
-    <description>{{ site.description }}</description>
+    <link> site.url /daily</link>
+    <description> site.description </description>
     <item>
-      <title>Daily Rundown for {{ pub_date }}</title>
-      <link>{{ site.url }}/daily</link>
+      <title>Daily Rundown for  pub_date </title>
+      <link> site.url /daily</link>
       <description>
-      <![CDATA[ {{ contents_of_page.content }} ]]>
+      <![CDATA[  contents_of_page.content  ]]>
       </description>
-      <pubDate>{{ site.time }}</pubDate>
+      <pubDate> site.time </pubDate>
     </item>
   </channel>
 </rss>
