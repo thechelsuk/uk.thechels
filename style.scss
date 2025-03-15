@@ -476,12 +476,12 @@ img {
 }
 
 /* Old stuff going out */
-::view-transition-old(hero) {
+::view-transition-old(blog-menu) {
     animation: fade 0.2s linear forwards;
 }
 
 /* New stuff coming in */
-::view-transition-new(hero) {
+::view-transition-new(blog-menu) {
     animation: fade 0.3s linear reverse;
 }
 
