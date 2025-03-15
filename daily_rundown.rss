@@ -10,12 +10,12 @@ layout: null
     <link>{{ site.url }}/daily</link>
     <description>{{ site.description }}</description>
     <item>
-      <title>{{ content_page.date | date_to_rfc822 }}</title>
+      <title>Daily Rundown for {{ content_page.date | date: "%Y-%m-%dT%H:%M:%S%z" }}</title>
       <link>{{ site.url }}/about</link>
       <description>
         {{ content_page.content }}
       </description>
-      <pubDate>{{ content_page.date | date_to_rfc822 }}</pubDate>
+      <pubDate>{{ content_page.date | date: "%Y-%m-%d" }}</pubDate>
     </item>
   </channel>
 </rss>
