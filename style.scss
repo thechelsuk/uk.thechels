@@ -475,6 +475,10 @@ img {
     display: none;
 }
 
+@view-transition {
+    navigation: auto;
+}
+
 /* Old stuff going out */
 ::view-transition-old(blog-menu) {
     animation: fade 0.2s linear forwards;
