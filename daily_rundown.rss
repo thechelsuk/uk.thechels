@@ -10,7 +10,7 @@ layout: null
     <link>{{ site.url }}/daily</link>
     <description>{{ site.description }}</description>
     <item>
-      <title>Daily Rundown for {{ content_page.date | date: "%Y-%m-%dT%H:%M:%S%z" }}</title>
+      <title>Daily Rundown for {{ content_page.date | date: "%Y-%m-%d" }}</title>
       <link>{{ site.url }}/about</link>
       <description>
         {{ content_page.content }}
