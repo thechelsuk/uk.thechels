@@ -13,7 +13,7 @@
       <title>Daily Rundown for {{ pub_date }}</title>
       <link>{{ site.url }}/daily</link>
       <description>
-      {{ contents_of_page.content | xml_escape }}>
+      <![CDATA[ {{ contents_of_page.content }} ]]>
       </description>
       <pubDate>{{ pub_date }}</pubDate>
     </item>
