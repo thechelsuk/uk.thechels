@@ -1,7 +1,7 @@
 ---
 layout: null
 ---
-{% assign content_page = site.pages | where: "name", "daily" | first %}
+{% assign content_page = site.pages | where: "name", "/daily.html" | first %}
 
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
