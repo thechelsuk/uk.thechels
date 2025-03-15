@@ -1,3 +1,4 @@
+{% assign content-page = site.pages | where: "path", "about.md' | first %}
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Daily Rundown",
@@ -8,8 +9,8 @@
             "id": "https://thechels.uk/daily",
             "url": "https://thechels.uk/daily",
             "title": "Daily Rundown",
-            "content_html": "{{ content }}",
-            "date_published": "2025-03-15T00:00:00Z"
+            "content_html": "{{ content-page.content | jsonify }}",
+            "date_published": "{{ site.time | date_to_rfc822 }}"
         }
     ]
 }
