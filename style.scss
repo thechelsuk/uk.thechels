@@ -474,3 +474,18 @@ img {
 .sr-only {
     display: none;
 }
+
+/* New stuff coming in */
+::view-transition-new(blog-menu) {
+  animation: fade 0.3s linear reverse;
+  height: 100%;
+}
+
+@keyframes fade {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
