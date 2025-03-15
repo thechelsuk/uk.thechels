@@ -1,5 +1,4 @@
 ---
-layout: null
 ---
 {% assign contents_of_page = site.pages | where: "path", "daily.html" | first %}
 {% assign pub_date = site.date | date: "%Y-%m-%d" %}
