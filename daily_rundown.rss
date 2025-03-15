@@ -1,5 +1,5 @@
 ---
-{% assign content_page = site.pages | where: "name", "/daily.html" | first %}
+{% assign content_page = site.pages | where: "path", "/daily.html" | first %}
 
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
