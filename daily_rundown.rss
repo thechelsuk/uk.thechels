@@ -7,10 +7,10 @@
     <item>
       <title>About</title>
       <link>{{ site.url }}/about</link>
-      <description><![CDATA[
+      <description>
         {% assign content_page = site.pages | where: "path", "about.md" | first %}
-        {{ content_page.content }}
-      ]]></description>
+        {{ content_page }}
+      </description>
       <pubDate>{{ content_page.date | date_to_rfc822 }}</pubDate>
     </item>
   </channel>
