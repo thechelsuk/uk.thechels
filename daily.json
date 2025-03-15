@@ -1,0 +1,15 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Daily Rundown",
+    "home_page_url": "https://thechels.uk/daily",
+    "feed_url": "https://thechels.uk/daily.json",
+    "items": [
+        {
+            "id": "https://thechels.uk/daily",
+            "url": "https://thechels.uk/daily",
+            "title": "Daily Rundown",
+            "content_html": "{{ content }}",
+            "date_published": "2025-03-15T00:00:00Z"
+        }
+    ]
+}
