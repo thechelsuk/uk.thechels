@@ -475,17 +475,21 @@ img {
     display: none;
 }
 
+/* Old stuff going out */
+::view-transition-old(hero) {
+    animation: fade 0.2s linear forwards;
+}
+
 /* New stuff coming in */
-::view-transition-new(blog-menu) {
-  animation: fade 0.3s linear reverse;
-  height: 100%;
+::view-transition-new(hero) {
+    animation: fade 0.3s linear reverse;
 }
 
 @keyframes fade {
-  from {
-    opacity: 1;
-  }
-  to {
-    opacity: 0;
-  }
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
 }
