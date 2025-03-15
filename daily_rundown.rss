@@ -1,7 +1,7 @@
 ---
 ---
 {% assign contents_of_page = site.pages | where: "name", "daily.md" | first %}
-{% assign pub_date = site.date | date: "%Y-%m-%d" %}
+{% assign pub_date = site.time | date: "%Y-%m-%d" %}
 
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
