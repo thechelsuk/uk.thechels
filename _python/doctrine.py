@@ -15,7 +15,7 @@ if __name__ == "__main__":
             items = yaml.safe_load(f)
         # Select a random film
         item = random.choice(items)
-        string = f"- {item}"
+        string = f"> {item}"
 
         f = root / "_pages/daily.md"
         m = f.open().read()

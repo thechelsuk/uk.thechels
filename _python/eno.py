@@ -16,7 +16,7 @@ if __name__ == "__main__":
         for entry in output:
             out_string = entry['title']
 
-        string = f'- {out_string}\n'
+        string = f'> {out_string}\n'
         f = root / "_pages/daily.md"
         m = f.open().read()
         c = helper.replace_chunk(m, "eno_marker", string)
