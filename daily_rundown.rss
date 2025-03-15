@@ -1,6 +1,8 @@
 ---
 layout: null
 ---
+{% assign content_page = site.pages | where: "path", "about.md" | first %}
+
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
@@ -11,7 +13,6 @@ layout: null
       <title>{{ content_page.date | date_to_rfc822 }}</title>
       <link>{{ site.url }}/about</link>
       <description>
-        {% assign content_page = site.pages | where: "path", "about.md" | first %}
         {{ content_page.content }}
       </description>
       <pubDate>{{ content_page.date | date_to_rfc822 }}</pubDate>
