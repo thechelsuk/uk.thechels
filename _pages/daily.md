@@ -7,18 +7,18 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Friday 14th March 2025
+### On Saturday 15th March 2025
 
-- The average temperature today is 1˚C,
-- With highs of 2.75˚C and lows of 0.29˚C,
-- It may feel like 1˚C with overcast clouds
+- The average temperature today is -0.92˚C,
+- With highs of -0.92˚C and lows of -0.92˚C,
+- It may feel like -4.16˚C with few clouds
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 374 days since the last change (2024-03-05)
+- It has been 375 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -29,17 +29,23 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-- Exploit the landscape.
+- Be open to change.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Aston Villa U19 v Plymouth Argyle U19
-- Manchester United U21 v West Brom U21
-- Everton Women v Arsenal Women
-- Liverpool Women v Manchester United Women
-- Bristol City v Norwich City
+- Chelsea U18 v Crystal Palace U18
+- Chelsea Women v Manchester City Women
+- Millwall v Stoke City
+- QPR v Leeds United
+- Bolton Wanderers v Stockport County
+- Cambridge United v Peterborough United
+- Crewe Alexandra v Doncaster Rovers
+- Swindon Town v Cheltenham Town
+- Oldham Athletic v Rochdale
+- Hartlepool United v Solihull Moors
+- AFC Bournemouth v Brentford
 <!-- fixture_marker ends -->
 
 
@@ -47,7 +53,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 104.3550033569336 
+- VWRL.L : 106.0199966430664 
 
 <!-- stocks_marker ends -->
 
@@ -55,13 +61,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Kepa Arrizabalaga wins Premier League Save of the Month
+ - Chelsea 1-0 FC Copenhagen, Player Ratings: Caicedo keeps on keeping on
+ - Chelsea vs. Manchester City, Women’s League Cup final: Preview, team news, how to watch
+ - Chelsea, Sporting CP also agree Dário Essugo transfer (maybe?) — reports
+ - Chelsea, Sporting CP agree future transfer of Geovany Quenda — reports
  - Chelsea to face Legia Warsaw in UEFA Conference League quarterfinals
  - Chelsea 1-0 (3-1 agg.) FC Copenhagen, UEFA Conference League: Post-match reaction, ratings
- - WATCH: KDH great play to open the scoring for Chelsea against Copenhagen! 1-0!
- - Chelsea vs. FC Copenhagen, UEFA Conference League: Live blog; highlights
- - The people’s choice against Copenhagen: Cole Palmer dropped
- - Chelsea vs. FC Copenhagen, UEFA Conference League: Preview, team news, how to watch
- - Official: Erin Cuthbert signs new contract extension!
 
 <!-- news_marker ends -->
 
@@ -69,14 +75,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Putin sets tough conditions for Ukraine ceasefire
- - Inside the downfall of trading titan and Blackpool FC owner Simon Sadler
- - Have humans passed peak brain power?
- - Tariffs on goods may be a prelude to tariffs on money
- - Tesla warns Trump administration it is ‘exposed’ to retaliatory tariffs
- - S&P 500 tumbles into ‘correction’ on fresh Trump tariff threats
- - Deutsche Bank reviews Canary Wharf presence
- - DeepSeek focuses on research over revenue in contrast to Silicon Valley
+ - G7 warns Russia of expanded sanctions unless it backs ceasefire
+ - Ukraine ceasefire: what is Putin’s game?
+ - EU to remove 4 Russian nationals from sanctions list
+ - How the US economy lost its aura of invincibility
+ - Rachel Reeves: turning a weak economy into a strong hand
+ - Why it might get worse for US stocks
+ - US Senate passes stop-gap funding bill to avert government shutdown
+ - US stocks rebound as government shutdown fears recede
 
 <!-- ftnews_marker ends -->
 
@@ -92,33 +98,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Nothing endures but change - Heraclitus
+> Everything is vague to a degree you do not realize 'till you have tried to make it precise - Bertrand Russell
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-- Spectrum analysis
+- Make a blank valuable by putting it in an exquisite frame
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Devils Tomb (Rated: 5)
-- Released in 2009
-- Summary: No summary available
+- The Institute (Rated: 3)
+- Released in 2017
+- Summary: Subjected to bizarre, increasingly violent pseudo-scientific experiments in personality modification, brainwashing and mind control, Isabel must escape the clutches of the Rosewood Institute and exact her revenge, or else be forev...
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 309, using [4, 8, 9, 50, 75, 100]
-- Answer: 30 solutions.
+- Target: 219, using [4, 7, 25, 50, 75, 100]
+- Answer: 18 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: 100 x 75 x 8 / 50 / 4 + 9
+  Solution: ( 75 / 25 + 100 - 50 ) x 4 + 7
 
    </details>
 
