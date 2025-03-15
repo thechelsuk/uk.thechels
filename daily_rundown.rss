@@ -11,7 +11,7 @@ layout: null
     <description>{{ site.description }}</description>
     <item>
       <title>Daily Rundown for {{ content_page.date | date: "%Y-%m-%d" }}</title>
-      <link>{{ site.url }}/about</link>
+      <link>{{ site.url }}/daily</link>
       <description>
         {{ content_page.content }}
       </description>
