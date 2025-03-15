@@ -5,7 +5,6 @@
 {% capture page_content %}
 {{ contents_of_page.title }}
 {{ contents_of_page.content }}
-{{ pub_date = site.date | date: "%Y-%m-%d" }}
 {% endcapture %}
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
@@ -16,9 +15,9 @@
     <item>
       <title>Daily Rundown for {{ pub_date }}</title>
       <link>{{ site.url }}/daily</link>
-      <description><![CDATA[
-        {{ page.content | xml_escape }}
-      ]]></description>
+      <description>
+      <![CDATA[ {{ page.content | xml_escape }} ]]>
+      </description>
       <pubDate>{{ pub_date }}</pubDate>
     </item>
   </channel>
