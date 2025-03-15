@@ -2,6 +2,7 @@
 layout: null
 ---
 {% assign contents_of_page = site.pages | where: "path", "daily.html" | first %}
+{% assign pub_date = site.date | date: "%Y-%m-%d" %}
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
@@ -9,12 +10,13 @@ layout: null
     <link>{{ site.url }}/daily</link>
     <description>{{ site.description }}</description>
     <item>
-      <title>Daily Rundown for {{ site.date | date: "%Y-%m-%d" }}</title>
+      <title>Daily Rundown for {{ pub_date }}</title>
       <link>{{ site.url }}/daily</link>
       <description>
+        {{ contents_of_page }}
         {{ contents_of_page.content }}
       </description>
-      <pubDate>{{ site.date | date: "%Y-%m-%d" }}</pubDate>
+      <pubDate>{{ pub_date }}</pubDate>
     </item>
   </channel>
 </rss>

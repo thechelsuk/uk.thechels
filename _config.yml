@@ -103,6 +103,8 @@ navigation_slashes:
     title: "Style Guide"
   - link: "https://ko-fi.com/thechelsuk"
     title: "Tip &raquo;"
+  - link: "https://tools.thechels.uk"
+    title: "Tools &raquo;"
   - link: "/uses"
     title: "Uses"
   - link: "/verify"
