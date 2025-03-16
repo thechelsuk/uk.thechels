@@ -3,7 +3,6 @@
     "window-controls-overlay"
   ],
   "protocol_handlers": [
-    {},
     {
       "protocol": "mailto",
       "url": "/mailto?url=%s"
