@@ -7,18 +7,18 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Saturday 15th March 2025
+### On Sunday 16th March 2025
 
-- The average temperature today is -0.92˚C,
-- With highs of -0.92˚C and lows of -0.92˚C,
-- It may feel like -4.16˚C with few clouds
+- The average temperature today is -1.75˚C,
+- With highs of -0.58˚C and lows of -2.49˚C,
+- It may feel like -1.75˚C with clear sky
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 375 days since the last change (2024-03-05)
+- It has been 376 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -29,23 +29,13 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-- Be open to change.
+> Move fast.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Chelsea U18 v Crystal Palace U18
-- Chelsea Women v Manchester City Women
-- Millwall v Stoke City
-- QPR v Leeds United
-- Bolton Wanderers v Stockport County
-- Cambridge United v Peterborough United
-- Crewe Alexandra v Doncaster Rovers
-- Swindon Town v Cheltenham Town
-- Oldham Athletic v Rochdale
-- Hartlepool United v Solihull Moors
-- AFC Bournemouth v Brentford
+- No Fixtures
 <!-- fixture_marker ends -->
 
 
@@ -61,13 +51,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
- - Kepa Arrizabalaga wins Premier League Save of the Month
- - Chelsea 1-0 FC Copenhagen, Player Ratings: Caicedo keeps on keeping on
- - Chelsea vs. Manchester City, Women’s League Cup final: Preview, team news, how to watch
- - Chelsea, Sporting CP also agree Dário Essugo transfer (maybe?) — reports
- - Chelsea, Sporting CP agree future transfer of Geovany Quenda — reports
- - Chelsea to face Legia Warsaw in UEFA Conference League quarterfinals
- - Chelsea 1-0 (3-1 agg.) FC Copenhagen, UEFA Conference League: Post-match reaction, ratings
+ - Chelsea are not done collecting wingers just yet — report
+ - Arsenal vs. Chelsea, Premier League: Preview, team news, how to watch
+ - How should Chelsea line up against Arsenal in a top-four showdown?
+ - Chelsea 2-1 Manchester City, Women’s League Cup final: Post-match reaction
+ - WATCH: Yui Hasegawa own goal gives the lead back to Chelsea against Manchester City! 2-1!
+ - WATCH: Mayra Ramírez opens the scoring for Chelsea against Manchester City! 1-0!
+ - Chelsea vs. Manchester City, Women’s League Cup final: Confirmed lineups; how to watch
 
 <!-- news_marker ends -->
 
@@ -75,14 +65,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - G7 warns Russia of expanded sanctions unless it backs ceasefire
- - Ukraine ceasefire: what is Putin’s game?
- - EU to remove 4 Russian nationals from sanctions list
- - How the US economy lost its aura of invincibility
- - Rachel Reeves: turning a weak economy into a strong hand
- - Why it might get worse for US stocks
- - US Senate passes stop-gap funding bill to avert government shutdown
- - US stocks rebound as government shutdown fears recede
+ - US companies drop DEI from annual reports as Trump targets corporate values
+ - Judge blocks Trump’s move to use wartime law to deport Venezuelans
+ - How to spot a low performer
+ - Xi snubs EU-China anniversary summit
+ - UK government announces reforms to fix ‘broken’ welfare system
+ - What went wrong with the UK’s welfare system?
+ - Republicans in Congress weigh tax increase for top university endowments
+ - US conducts strikes on Iran-backed Houthi rebels in Yemen
 
 <!-- ftnews_marker ends -->
 
@@ -98,33 +88,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Everything is vague to a degree you do not realize 'till you have tried to make it precise - Bertrand Russell
+> Opportunity is missed by most people because it is dressed in overalls and looks like work - Thomas Edison
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-- Make a blank valuable by putting it in an exquisite frame
+> Do the words need changing?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Institute (Rated: 3)
-- Released in 2017
-- Summary: Subjected to bizarre, increasingly violent pseudo-scientific experiments in personality modification, brainwashing and mind control, Isabel must escape the clutches of the Rosewood Institute and exact her revenge, or else be forev...
+- Police Academy v (Rated: 3)
+- Released in 1984
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 219, using [4, 7, 25, 50, 75, 100]
-- Answer: 18 solutions.
+- Target: 880, using [1, 3, 4, 4, 10, 75]
+- Answer: 12 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 / 25 + 100 - 50 ) x 4 + 7
+  Solution: ( 75 - ( 3 - 1 ) x 10 ) x 4 x 4
 
    </details>
 
