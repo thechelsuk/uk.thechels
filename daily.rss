@@ -15,7 +15,7 @@
       <description>
       <![CDATA[ {{ contents_of_page.content }} ]]>
       </description>
-      <pubDate>{{ site.time }}</pubDate>
+      <pubDate>{{ pub_date }}</pubDate>
     </item>
   </channel>
 </rss>
