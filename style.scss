@@ -475,25 +475,3 @@ img {
     display: none;
 }
 
-@view-transition {
-    navigation: auto;
-}
-
-/* Old stuff going out */
-::view-transition-old(blog-menu) {
-    animation: fade 0.2s linear forwards;
-}
-
-/* New stuff coming in */
-::view-transition-new(blog-menu) {
-    animation: fade 0.3s linear reverse;
-}
-
-@keyframes fade {
-    from {
-        opacity: 1;
-    }
-    to {
-        opacity: 0;
-    }
-}
