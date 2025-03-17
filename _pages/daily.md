@@ -7,29 +7,30 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Sunday 16th March 2025
+### On Monday 17th March 2025
 
-- The average temperature today is -1.75˚C,
-- With highs of -0.58˚C and lows of -2.49˚C,
-- It may feel like -1.75˚C with clear sky
+- The average temperature today is 4.28˚C,
+- With highs of 4.28˚C and lows of 4.28˚C,
+- It may feel like 1.66˚C with broken clouds
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 376 days since the last change (2024-03-05)
+- It has been 377 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Move fast.
+> Know your users.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -51,13 +52,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Maresca feels Chelsea ‘on the right path’ despite not taking ‘that step forward’ against Arsenal
+ - Arsenal 1-0 Chelsea, Premier League: Post-match reaction, ratings
+ - Arsenal vs. Chelsea, Premier League: Live blog; highlights
+ - The people’s choice against Arsenal: Sánchez and Jörgensen battle it out
  - Chelsea are not done collecting wingers just yet — report
  - Arsenal vs. Chelsea, Premier League: Preview, team news, how to watch
  - How should Chelsea line up against Arsenal in a top-four showdown?
- - Chelsea 2-1 Manchester City, Women’s League Cup final: Post-match reaction
- - WATCH: Yui Hasegawa own goal gives the lead back to Chelsea against Manchester City! 2-1!
- - WATCH: Mayra Ramírez opens the scoring for Chelsea against Manchester City! 1-0!
- - Chelsea vs. Manchester City, Women’s League Cup final: Confirmed lineups; how to watch
 
 <!-- news_marker ends -->
 
@@ -65,14 +66,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - US companies drop DEI from annual reports as Trump targets corporate values
- - Judge blocks Trump’s move to use wartime law to deport Venezuelans
- - How to spot a low performer
- - Xi snubs EU-China anniversary summit
- - UK government announces reforms to fix ‘broken’ welfare system
- - What went wrong with the UK’s welfare system?
- - Republicans in Congress weigh tax increase for top university endowments
- - US conducts strikes on Iran-backed Houthi rebels in Yemen
+ - Investors seek to profit from Russia as Trump pursues rapprochement
+ - Trump plans Tuesday talks with Putin on Russia-Ukraine war
+ - How Jack Ma’s pivot to AI rehabilitated Alibaba
+ - The Democrats must make a choice
+ - What should Reeves and Starmer say and do next?
+ - Reeves to restrict UK competition watchdog’s merger investigations
+ - China unveils plan to ‘vigorously boost’ weak consumption
+ - Officials do not fully understand UK skilled worker visa, watchdog says
 
 <!-- ftnews_marker ends -->
 
@@ -80,7 +81,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > sapid - adjective: 1. Having a pleasant taste or flavor. 2. Pleasant; engaging; stimulating.
+ > farce - noun: 1. A light play, film, or literary work involving absurd, exaggerated, or improbable situations. 2. Humor of this type. 3. An absurd or ridiculous situation; mockery. 4. A mix of finely chopped ingredients used as stuffing. verb tr.: 1. To pad a speech or written work with jokes or witty remarks. 2. To stuff or fill with culinary mixture.
 
 <!-- word_marker ends -->
 
@@ -88,33 +89,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Opportunity is missed by most people because it is dressed in overalls and looks like work - Thomas Edison
+> Never doubt that a small group of thoughtful, concerned citizens can change the world. Indeed it is the only thing that ever has. - Margeret Mead
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Do the words need changing?
+> Faced with a choice, do both (given by Dieter Roth)
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Police Academy v (Rated: 3)
-- Released in 1984
-- Summary: No summary available
+- Revolt (Rated: 3)
+- Released in 2017
+- Summary: In the war-ravaged Kenyan countryside, a U.S. soldier (Lee Pace) and a French foreign aid worker (Berenice Marlohe) team up to survive an alien onslaught.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 880, using [1, 3, 4, 4, 10, 75]
-- Answer: 12 solutions.
+- Target: 165, using [4, 7, 10, 25, 50, 75]
+- Answer: 82 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 - ( 3 - 1 ) x 10 ) x 4 x 4
+  Solution: ( 50 + 4 - 25 - 7 ) x 75 / 10
 
    </details>
 
