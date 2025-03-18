@@ -7,36 +7,45 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Monday 17th March 2025
+### On Tuesday 18th March 2025
 
-- The average temperature today is 4.28˚C,
-- With highs of 4.28˚C and lows of 4.28˚C,
-- It may feel like 1.66˚C with broken clouds
+- The average temperature today is 1.44˚C,
+- With highs of 2.2˚C and lows of 0.39˚C,
+- It may feel like 1.44˚C with clear sky
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 377 days since the last change (2024-03-05)
+- It has been 378 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Know your users.
+> Be open to change.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- No Fixtures
+- Real Madrid Women v Arsenal Women
+- Rotherham United v Wycombe Wanderers
+- AFC Fylde v Sutton United
+- Altrincham v Wealdstone
+- FC Halifax Town v Dagenham & Redbridge
+- Gateshead v Braintree Town
+- Maidenhead United v Aldershot Town
+- Rochdale v Boston United
+- Kidderminster Harriers v Scunthorpe United
 <!-- fixture_marker ends -->
 
 
@@ -44,7 +53,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 106.0199966430664 
+- VWRL.L : 106.41000366210938 
 
 <!-- stocks_marker ends -->
 
@@ -52,13 +61,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Arsenal 1-0 Chelsea, Player Ratings: No stink on Cucurella, Caicedo
  - Maresca feels Chelsea ‘on the right path’ despite not taking ‘that step forward’ against Arsenal
  - Arsenal 1-0 Chelsea, Premier League: Post-match reaction, ratings
  - Arsenal vs. Chelsea, Premier League: Live blog; highlights
  - The people’s choice against Arsenal: Sánchez and Jörgensen battle it out
  - Chelsea are not done collecting wingers just yet — report
- - Arsenal vs. Chelsea, Premier League: Preview, team news, how to watch
- - How should Chelsea line up against Arsenal in a top-four showdown?
 
 <!-- news_marker ends -->
 
@@ -66,14 +74,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Investors seek to profit from Russia as Trump pursues rapprochement
- - Trump plans Tuesday talks with Putin on Russia-Ukraine war
- - How Jack Ma’s pivot to AI rehabilitated Alibaba
- - The Democrats must make a choice
- - What should Reeves and Starmer say and do next?
- - Reeves to restrict UK competition watchdog’s merger investigations
- - China unveils plan to ‘vigorously boost’ weak consumption
- - Officials do not fully understand UK skilled worker visa, watchdog says
+ - Israel launches Gaza strikes in biggest attack since ceasefire
+ - Why Europe can’t rely on French nuclear umbrella alone
+ - Why do people keep buying printers they hate?
+ - Canary Wharf is turning organic in its drive to survive
+ - Trump’s policies set to cool growth and lift inflation, economists say
+ - Short sellers make $16bn profit from Tesla’s share price plunge
+ - Indian billionaire Mittal weighs up increasing his BT stake
+ - Lloyds apologises for sending customer other retail investors’ statements
 
 <!-- ftnews_marker ends -->
 
@@ -81,7 +89,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > farce - noun: 1. A light play, film, or literary work involving absurd, exaggerated, or improbable situations. 2. Humor of this type. 3. An absurd or ridiculous situation; mockery. 4. A mix of finely chopped ingredients used as stuffing. verb tr.: 1. To pad a speech or written work with jokes or witty remarks. 2. To stuff or fill with culinary mixture.
+ > jammy - adjective: 1. Covered with, made with, or like jam; sticky or sweet in texture or appearance. 2. Easy, pleasant, desirable, or profitable, often referring to a situation or opportunity. 3. Lucky, implying an unearned or undeserved advantage.
 
 <!-- word_marker ends -->
 
@@ -89,33 +97,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Never doubt that a small group of thoughtful, concerned citizens can change the world. Indeed it is the only thing that ever has. - Margeret Mead
+> Anyone who has never made a mistake has never tried anything new - Albert Einstein
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Faced with a choice, do both (given by Dieter Roth)
+> Look closely at the most embarrassing details and amplify them
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Revolt (Rated: 3)
-- Released in 2017
-- Summary: In the war-ravaged Kenyan countryside, a U.S. soldier (Lee Pace) and a French foreign aid worker (Berenice Marlohe) team up to survive an alien onslaught.
+- The Hustler (Rated: 3)
+- Released in 1961
+- Summary: An up-and-coming pool player plays a long-time champion in a single high-stakes match.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 165, using [4, 7, 10, 25, 50, 75]
-- Answer: 82 solutions.
+- Target: 362, using [3, 4, 5, 25, 75, 100]
+- Answer: 19 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 + 4 - 25 - 7 ) x 75 / 10
+  Solution: ( 100 - 75 / 5 ) x 4 + 25 - 3
 
    </details>
 
