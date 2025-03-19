@@ -7,45 +7,35 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Tuesday 18th March 2025
+### On Wednesday 19th March 2025
 
-- The average temperature today is 1.44˚C,
-- With highs of 2.2˚C and lows of 0.39˚C,
-- It may feel like 1.44˚C with clear sky
+- The average temperature today is 0.4˚C,
+- With highs of 1.65˚C and lows of -0.73˚C,
+- It may feel like 0.4˚C with broken clouds
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 378 days since the last change (2024-03-05)
+- It has been 379 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be open to change.
+> Seek the best.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Real Madrid Women v Arsenal Women
-- Rotherham United v Wycombe Wanderers
-- AFC Fylde v Sutton United
-- Altrincham v Wealdstone
-- FC Halifax Town v Dagenham & Redbridge
-- Gateshead v Braintree Town
-- Maidenhead United v Aldershot Town
-- Rochdale v Boston United
-- Kidderminster Harriers v Scunthorpe United
+- No Fixtures
 <!-- fixture_marker ends -->
 
 
@@ -53,7 +43,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 106.41000366210938 
+- VWRL.L : 106.1500015258789 
 
 <!-- stocks_marker ends -->
 
@@ -61,12 +51,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Chelsea ‘considering’ paying penalty to get out of Sancho loan obligation — reports
+ - Manchester City vs. Chelsea, Women’s Champions League: Preview, team news, how to watch
+ - Caicedo ‘frustrated’ by Arsenal defeat
  - Arsenal 1-0 Chelsea, Player Ratings: No stink on Cucurella, Caicedo
  - Maresca feels Chelsea ‘on the right path’ despite not taking ‘that step forward’ against Arsenal
  - Arsenal 1-0 Chelsea, Premier League: Post-match reaction, ratings
- - Arsenal vs. Chelsea, Premier League: Live blog; highlights
- - The people’s choice against Arsenal: Sánchez and Jörgensen battle it out
- - Chelsea are not done collecting wingers just yet — report
 
 <!-- news_marker ends -->
 
@@ -74,14 +64,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Israel launches Gaza strikes in biggest attack since ceasefire
- - Why Europe can’t rely on French nuclear umbrella alone
- - Why do people keep buying printers they hate?
- - Canary Wharf is turning organic in its drive to survive
- - Trump’s policies set to cool growth and lift inflation, economists say
- - Short sellers make $16bn profit from Tesla’s share price plunge
- - Indian billionaire Mittal weighs up increasing his BT stake
- - Lloyds apologises for sending customer other retail investors’ statements
+ - Musk’s X obtains $44bn valuation in sharp turnaround
+ - Howard Lutnick touts Elon Musk’s Starlink for US broadband scheme
+ - Has Goldman Sachs already chosen its next CEO?
+ - Will anybody buy a ‘Mar-a-Lago accord’?
+ - Stop trying to make stock vigilantes happen
+ - Putin agrees 30-day halt to strikes on Ukrainian energy infrastructure in Trump call
+ - US chief justice rebukes Trump after president’s threat to impeach judges
+ - Investors pump $22bn into short-term US debt to ride out market ‘storm’
 
 <!-- ftnews_marker ends -->
 
@@ -89,7 +79,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > jammy - adjective: 1. Covered with, made with, or like jam; sticky or sweet in texture or appearance. 2. Easy, pleasant, desirable, or profitable, often referring to a situation or opportunity. 3. Lucky, implying an unearned or undeserved advantage.
+ > tripe - noun: 1. The lining from the stomach of a ruminant animal, especially cattle and sheep, used as food. 2. Worthless or rubbish (often used to describe written or spoken material).
 
 <!-- word_marker ends -->
 
@@ -97,33 +87,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Anyone who has never made a mistake has never tried anything new - Albert Einstein
+> People with goals succeed because they know where they're going - Earl Nightingale
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Look closely at the most embarrassing details and amplify them
+> Listen to the quiet voice
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Hustler (Rated: 3)
-- Released in 1961
-- Summary: An up-and-coming pool player plays a long-time champion in a single high-stakes match.
+- Crawl (Rated: 3)
+- Released in 2019
+- Summary: Gigantic alligators swarm around a young woman and her father as floodwaters engulf their home.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 362, using [3, 4, 5, 25, 75, 100]
-- Answer: 19 solutions.
+- Target: 474, using [1, 2, 10, 25, 75, 100]
+- Answer: 11 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 - 75 / 5 ) x 4 + 25 - 3
+  Solution: ( 100 - 75 ) x 10 x 2 - 25 - 1
 
    </details>
 
