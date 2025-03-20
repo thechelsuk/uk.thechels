@@ -7,30 +7,29 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Monday 17th March 2025
+### On Wednesday 19th March 2025
 
-- The average temperature today is 4.28˚C,
-- With highs of 4.28˚C and lows of 4.28˚C,
-- It may feel like 1.66˚C with broken clouds
+- The average temperature today is 0.4˚C,
+- With highs of 1.65˚C and lows of -0.73˚C,
+- It may feel like 0.4˚C with broken clouds
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 377 days since the last change (2024-03-05)
+- It has been 379 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Know your users.
+> Seek the best.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -44,7 +43,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 106.0199966430664 
+- VWRL.L : 106.1500015258789 
 
 <!-- stocks_marker ends -->
 
@@ -52,13 +51,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Chelsea ‘considering’ paying penalty to get out of Sancho loan obligation — reports
+ - Manchester City vs. Chelsea, Women’s Champions League: Preview, team news, how to watch
+ - Caicedo ‘frustrated’ by Arsenal defeat
+ - Arsenal 1-0 Chelsea, Player Ratings: No stink on Cucurella, Caicedo
  - Maresca feels Chelsea ‘on the right path’ despite not taking ‘that step forward’ against Arsenal
  - Arsenal 1-0 Chelsea, Premier League: Post-match reaction, ratings
- - Arsenal vs. Chelsea, Premier League: Live blog; highlights
- - The people’s choice against Arsenal: Sánchez and Jörgensen battle it out
- - Chelsea are not done collecting wingers just yet — report
- - Arsenal vs. Chelsea, Premier League: Preview, team news, how to watch
- - How should Chelsea line up against Arsenal in a top-four showdown?
 
 <!-- news_marker ends -->
 
@@ -66,14 +64,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Investors seek to profit from Russia as Trump pursues rapprochement
- - Trump plans Tuesday talks with Putin on Russia-Ukraine war
- - How Jack Ma’s pivot to AI rehabilitated Alibaba
- - The Democrats must make a choice
- - What should Reeves and Starmer say and do next?
- - Reeves to restrict UK competition watchdog’s merger investigations
- - China unveils plan to ‘vigorously boost’ weak consumption
- - Officials do not fully understand UK skilled worker visa, watchdog says
+ - Musk’s X obtains $44bn valuation in sharp turnaround
+ - Howard Lutnick touts Elon Musk’s Starlink for US broadband scheme
+ - Has Goldman Sachs already chosen its next CEO?
+ - Will anybody buy a ‘Mar-a-Lago accord’?
+ - Stop trying to make stock vigilantes happen
+ - Putin agrees 30-day halt to strikes on Ukrainian energy infrastructure in Trump call
+ - US chief justice rebukes Trump after president’s threat to impeach judges
+ - Investors pump $22bn into short-term US debt to ride out market ‘storm’
 
 <!-- ftnews_marker ends -->
 
@@ -81,7 +79,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > farce - noun: 1. A light play, film, or literary work involving absurd, exaggerated, or improbable situations. 2. Humor of this type. 3. An absurd or ridiculous situation; mockery. 4. A mix of finely chopped ingredients used as stuffing. verb tr.: 1. To pad a speech or written work with jokes or witty remarks. 2. To stuff or fill with culinary mixture.
+ > tripe - noun: 1. The lining from the stomach of a ruminant animal, especially cattle and sheep, used as food. 2. Worthless or rubbish (often used to describe written or spoken material).
 
 <!-- word_marker ends -->
 
@@ -89,33 +87,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Never doubt that a small group of thoughtful, concerned citizens can change the world. Indeed it is the only thing that ever has. - Margeret Mead
+> People with goals succeed because they know where they're going - Earl Nightingale
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Faced with a choice, do both (given by Dieter Roth)
+> Listen to the quiet voice
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Revolt (Rated: 3)
-- Released in 2017
-- Summary: In the war-ravaged Kenyan countryside, a U.S. soldier (Lee Pace) and a French foreign aid worker (Berenice Marlohe) team up to survive an alien onslaught.
+- Crawl (Rated: 3)
+- Released in 2019
+- Summary: Gigantic alligators swarm around a young woman and her father as floodwaters engulf their home.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 165, using [4, 7, 10, 25, 50, 75]
-- Answer: 82 solutions.
+- Target: 474, using [1, 2, 10, 25, 75, 100]
+- Answer: 11 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 + 4 - 25 - 7 ) x 75 / 10
+  Solution: ( 100 - 75 ) x 10 x 2 - 25 - 1
 
    </details>
 
