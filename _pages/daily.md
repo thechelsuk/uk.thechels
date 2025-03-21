@@ -7,18 +7,18 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Thursday 20th March 2025
+### On Friday 21st March 2025
 
-- The average temperature today is 5.79˚C,
-- With highs of 7.75˚C and lows of 4.83˚C,
-- It may feel like 4.72˚C with scattered clouds
+- The average temperature today is 8.96˚C,
+- With highs of 8.96˚C and lows of 8.96˚C,
+- It may feel like 6.93˚C with overcast clouds
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 380 days since the last change (2024-03-05)
+- It has been 381 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -35,7 +35,8 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- No Fixtures
+- England v Albania
+- France U21 v England U21
 <!-- fixture_marker ends -->
 
 
@@ -43,7 +44,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 106.83000183105469 
+- VWRL.L : 106.37999725341797 
 
 <!-- stocks_marker ends -->
 
@@ -51,13 +52,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Cucurella, Neto, Veiga start in UEFA Nations League quarterfinals
  - Official: Chelsea, Sporting CP agree Geovany Quenda, Dário Essugo transfers
  - Manchester City 2-0 Chelsea, Women’s Champions League: Post-match reaction
  - Manchester City vs. Chelsea, Women’s Champions League: Confirmed lineups; how to watch
  - Palmer withdraws from England for ‘further assessment’ of injury
  - Kellyman to miss rest of season after hamstring ‘reinjury’
- - Chelsea ‘considering’ paying penalty to get out of Sancho loan obligation — reports
- - Manchester City vs. Chelsea, Women’s Champions League: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -65,14 +65,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Nvidia to spend hundreds of billions on US supply chain, says chief
- - How Jeff Bezos made peace with Maga
- - What will be in Rachel Reeves’ Spring Statement?
- - Israel’s ‘forever war’ stretches IDF to the limit
- - Fed cuts US growth forecast as Trump’s policies weigh on outlook
- - Higher medicine sales tax makes UK ‘uninvestable’, drugmakers warn
- - Retail traders take on hedge funds in Europe’s answer to ‘meme stock’ mania
- - Gilts investors brace for nearly £310bn in debt sales
+ - London’s Heathrow airport closes after nearby fire causes power outage
+ - European military powers work on 5-10 year plan to replace US in Nato
+ - Donald Trump takes on America’s elite
+ - The madness of the £100,000 childcare tax trap
+ - Starmer shifts from boots on the ground in Ukraine to air and sea defence
+ - US seeks to reopen terms of Ukraine minerals deal
+ - Trump invokes wartime powers to increase US minerals production
+ - Dollar slump magnifies stock market pain for foreign investors
 
 <!-- ftnews_marker ends -->
 
@@ -80,7 +80,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > barmy - adjective: 1. Full of froth. 2. Exciting or excited. 3. Crazy; foolish; eccentric.
+ > taffy - noun: 1. A soft, chewy candy made by boiling sugar, butter, and other ingredients, then repeatedly pulling the mixture to incorporate air, resulting in a light, fluffy texture. 2. Insincere flattery.
 
 <!-- word_marker ends -->
 
@@ -88,27 +88,34 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Encourage use of 'yes, and' (adding) rather 'yes, but' (ending/blocking). - Geoff Watts
+> Leadership and learning are indispensable to each other - John F. Kennedy
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Accretion
+> Don't be frightened to display your talents
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Man From U.N.C.L.E. (Rated: 7)
-- Released in 2015
-- Summary: In the early 1960s, CIA agent Napoleon Solo and KGB operative Illya Kuryakin participate in a joint mission against a mysterious criminal organization, which is working to proliferate nuclear weapons.
+- Donny Darko (Rated: 4)
+- Released in 2001
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 837, using [1, 4, 7, 25, 50, 75]
+- Target: 949, using [3, 6, 7, 50, 75, 100]
+- Answer: 4 solutions.
+
+- <details><summary><code>Solution</code></summary>
+
+  Solution: ( ( 100 - 3 ) x ( 75 - 6 ) - 50 ) / 7
+
+   </details>
 
 <!-- game_marker ends -->
