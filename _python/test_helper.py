@@ -280,23 +280,23 @@ class TestHelper:
         assert helper.get_nth_weekday_of_month(date) == 5
 
     def test_is_friday_returns_true(self):
-        date = datetime(2025, 3, 21)    # Friday
+        date = datetime(2025, 3, 21)  # Friday
         assert helper.is_friday(date) is True
 
     def test_is_friday_returns_false(self):
-        date = datetime(2025, 1, 2)    # Thursday 1st
+        date = datetime(2025, 1, 2)  # Thursday 1st
         assert helper.is_friday(date) is False
 
     def test_is_farmers_market_returns_false(self):
-        date = datetime(2025, 1, 17)    # Friday 3rd
+        date = datetime(2025, 1, 17)  # Friday 3rd
         assert helper.is_farmers_market(date) is False
 
     def test_is_farmers_market_returns_true_2nd(self):
-        date = datetime(2025, 1, 10)    # Friday
+        date = datetime(2025, 1, 10)  # Friday
         assert helper.is_farmers_market(date) is True
 
     def test_is_farmers_market_returns_true_4th(self):
-        date = datetime(2025, 1, 24)    # Friday
+        date = datetime(2025, 1, 24)  # Friday
         assert helper.is_farmers_market(date) is True
 
     @patch('requests.get')
