@@ -283,10 +283,10 @@ def is_farmers_market(today) -> bool:
     # The market will run on the 2nd and last Friday of every month, from January to November
     # and then on the 2nd and 3rd Friday in December.
     if today.month == 12:
-        if is_friday(today) and today.day in [11, 18]:
+        if is_friday(today) and get_nth_weekday_of_month(today) in [2, 3]:
             return True
     elif today.month in [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]:
-        if is_friday(today) and today.day in [8, 29]:
+        if is_friday(today) and get_nth_weekday_of_month(today) in [2, 4]:
             return True
     return False
 
