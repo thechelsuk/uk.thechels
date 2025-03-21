@@ -260,41 +260,41 @@ class TestHelper:
         assert helper.is_water_the_plants_day(date) is True
 
     def get_nth_weekday_of_month_returns_3(self) -> int:
-            """Returns the occurrence of the weekday in the month (1st, 2nd, 3rd, 4th, or 5th)"""
-            date = datetime(2025, 3, 21)  # Friday
-            first_day_of_month = date.replace(day=1)
-            weekday_of_first = first_day_of_month.weekday()
-            day_of_week = date.weekday()
-            occurrence = (date.day + weekday_of_first - day_of_week) // 7 + 1
-            assert helper.get_nth_weekday_of_month(date) == 3
+        """Returns the occurrence of the weekday in the month (1st, 2nd, 3rd, 4th, or 5th)"""
+        date = datetime(2025, 3, 21)  # Friday
+        first_day_of_month = date.replace(day=1)
+        weekday_of_first = first_day_of_month.weekday()
+        day_of_week = date.weekday()
+        occurrence = (date.day + weekday_of_first - day_of_week) // 7 + 1
+        assert helper.get_nth_weekday_of_month(date) == 3
 
     def get_nth_weekday_of_month_returns_2(self) -> int:
-            """Returns the occurrence of the weekday in the month (1st, 2nd, 3rd, 4th, or 5th)"""
-            date = datetime(2025, 3, 14)  # Friday
-            first_day_of_month = date.replace(day=1)
-            weekday_of_first = first_day_of_month.weekday()
-            day_of_week = date.weekday()
-            occurrence = (date.day + weekday_of_first - day_of_week) // 7 + 1
-            assert helper.get_nth_weekday_of_month(date) == 2
+        """Returns the occurrence of the weekday in the month (1st, 2nd, 3rd, 4th, or 5th)"""
+        date = datetime(2025, 3, 14)  # Friday
+        first_day_of_month = date.replace(day=1)
+        weekday_of_first = first_day_of_month.weekday()
+        day_of_week = date.weekday()
+        occurrence = (date.day + weekday_of_first - day_of_week) // 7 + 1
+        assert helper.get_nth_weekday_of_month(date) == 2
 
     def is_friday_returns_true(self):
-        date = datetime(2025, 3, 21)    # Friday
+        date = datetime(2025, 3, 21)  # Friday
         assert helper.is_friday(date) is True
 
     def is_friday_returns_false(self):
-        date = datetime(2025, 3, 4)    # Tuesday
+        date = datetime(2025, 3, 4)  # Tuesday
         assert helper.is_friday(date) is False
 
     def is_farmers_market_returns_false(self):
-        date = datetime(2025, 3, 21)    # Friday
+        date = datetime(2025, 3, 21)  # Friday
         assert helper.is_farmers_marker(date) is False
 
     def is_farmers_market_returns_true_2nd(self):
-        date = datetime(2025, 3, 14)    # Friday
+        date = datetime(2025, 3, 14)  # Friday
         assert helper.is_farmers_marker(date) is True
 
     def is_farmers_market_returns_true_4th(self):
-        date = datetime(2025, 3, 28)    # Friday
+        date = datetime(2025, 3, 28)  # Friday
         assert helper.is_farmers_marker(date) is True
 
     @patch('requests.get')
