@@ -19,6 +19,8 @@ if __name__ == "__main__":
             string += "- Food Waste Collection Day\n"
         if helper.is_water_the_plants_day(working_date):
             string += "- Water the plants\n"
+        if helper.is_farmers_marker(working_date):
+            string += "- Farmers Market in town\n"
         if string == "":
             string = "- No tasks today"
         root = pathlib.Path(__file__).parent.parent.resolve()

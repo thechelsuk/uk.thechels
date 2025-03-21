@@ -264,6 +264,31 @@ def is_water_the_plants_day(today) -> bool:
         return True
     return False
 
+def is_friday(today) -> bool:
+    """Returns true if a date is Friday"""
+    return get_day_of_the_week(today) == "Friday"
+
+
+def get_nth_weekday_of_month(today: datetime) -> int:
+        """Returns the occurrence of the weekday in the month (1st, 2nd, 3rd, 4th, or 5th)"""
+        first_day_of_month = today.replace(day=1)
+        weekday_of_first = first_day_of_month.weekday()
+        day_of_week = today.weekday()
+        occurrence = (today.day + weekday_of_first - day_of_week) // 7 + 1
+        return occurrence
+
+
+def is_farmers_market(today) -> bool:
+    # The market will run on the 2nd and last Friday of every month, from January to November
+    # and then on the 2nd and 3rd Friday in December.
+    if today.month == 12:
+        if is_friday(today) and today.day in [11, 18]:
+            return True
+    elif today.month in [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]:
+        if is_friday(today) and today.day in [8, 29]:
+            return True
+    return False
+
 
 def create_date(input: str) -> datetime:
     """Returns a datetime object from a string"""
