@@ -20,3 +20,7 @@ Distributed applications are largely run by Universities to research fields such
 
 RSS items as GitHub Issues for the discerning engineering leader or security professional. A repository to track and publish third party (RSS) feeds from various security sites as GitHub issues. Note this is quite noisy but seems well liked with 47 stars on GitHub
 
+
+- [Tools](https://tools.thechels.uk)
+
+A digital playground or smorgasbord of ad-hoc and occasional tooling, including converting file types, charting, and string manipulations.
