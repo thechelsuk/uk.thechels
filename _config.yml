@@ -87,7 +87,7 @@ navigation_slashes:
     title: "PGP key"
   - link: "/.well-known/privacy.txt"
     title: "Privacy"
-  - link: "/Projects"
+  - link: "/projects"
     title: "Projects"
   - link: "/podcasts"
     title: "Podcasts"
