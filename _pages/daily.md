@@ -7,36 +7,69 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Friday 21st March 2025
+### On Saturday 22nd March 2025
 
-- The average temperature today is 8.96˚C,
-- With highs of 8.96˚C and lows of 8.96˚C,
-- It may feel like 6.93˚C with overcast clouds
+- The average temperature today is 14.77˚C,
+- With highs of 14.77˚C and lows of 14.77˚C,
+- It may feel like 14.26˚C with scattered clouds
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 381 days since the last change (2024-03-05)
+- It has been 382 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Water the plants
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Use a common language.
+> challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- England v Albania
-- France U21 v England U21
+- Notts County v Crewe Alexandra
+- Sutton United v Dagenham & Redbridge
+- Everton Women v Crystal Palace Women
+- Barnsley v Cambridge United
+- Crawley Town v Bristol Rovers
+- Lincoln City v Exeter City
+- Northampton Town v Blackpool
+- Peterborough United v Charlton Athletic
+- Wrexham v Stockport County
+- AFC Wimbledon v Barrow AFC
+- Bradford City v Colchester United
+- Carlisle United v Bromley
+- Cheltenham Town v MK Dons
+- Chesterfield v Harrogate Town
+- Fleetwood Town v Tranmere Rovers
+- Gillingham v Walsall
+- Grimsby Town v Newport County
+- Port Vale v Morecambe
+- Swindon Town v Accrington Stanley
+- AFC Fylde v Forest Green Rovers
+- Aldershot Town v Ebbsfleet United
+- Braintree Town v York City
+- Eastleigh v Southend United
+- Gateshead v Tamworth
+- Hartlepool United v Boston United
+- Maidenhead United v Rochdale
+- Oldham Athletic v FC Halifax Town
+- Solihull Moors v Yeovil Town
+- Wealdstone v Woking
+- Scunthorpe United v Chester
+- Boreham Wood v Dorking Wanderers
+- Torquay United v Bath City
+- Altrincham v Barnet
+- Arsenal Women v Liverpool Women
 <!-- fixture_marker ends -->
 
 
@@ -44,7 +77,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 106.37999725341797 
+- VWRL.L : 106.41000366210938 
 
 <!-- stocks_marker ends -->
 
@@ -52,12 +85,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Liverpool vs. Chelsea, Legends charity match: Preview, team news, how to watch
+ - Tuchel starts England tenure with 2-0 win over Albania
+ - Chelsea opponents Club León removed from FIFA Club World Cup
  - Cucurella, Neto, Veiga start in UEFA Nations League quarterfinals
  - Official: Chelsea, Sporting CP agree Geovany Quenda, Dário Essugo transfers
- - Manchester City 2-0 Chelsea, Women’s Champions League: Post-match reaction
- - Manchester City vs. Chelsea, Women’s Champions League: Confirmed lineups; how to watch
- - Palmer withdraws from England for ‘further assessment’ of injury
- - Kellyman to miss rest of season after hamstring ‘reinjury’
 
 <!-- news_marker ends -->
 
@@ -65,14 +97,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - London’s Heathrow airport closes after nearby fire causes power outage
- - European military powers work on 5-10 year plan to replace US in Nato
- - Donald Trump takes on America’s elite
- - The madness of the £100,000 childcare tax trap
- - Starmer shifts from boots on the ground in Ukraine to air and sea defence
- - US seeks to reopen terms of Ukraine minerals deal
- - Trump invokes wartime powers to increase US minerals production
- - Dollar slump magnifies stock market pain for foreign investors
+ - Heathrow reopens after blaze but airlines warn of more disruption
+ - Heathrow’s shutdown fuels questions about UK’s infrastructure resilience
+ - Heathrow hotels quadruple prices as stranded passengers drive demand
+ - Can the dollar remain king of currencies?
+ - A Denmark state of mind
+ - The misinformation discourse is a distraction
+ - Trump revokes security clearance for Kamala Harris and Hillary Clinton
+ - Trump says he would be happy for US to become ‘associate’ Commonwealth member
 
 <!-- ftnews_marker ends -->
 
@@ -88,33 +120,36 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Leadership and learning are indispensable to each other - John F. Kennedy
+> Encourage use of 'yes, and' (adding) rather 'yes, but' (ending/blocking). - Geoff Watts
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Don't be frightened to display your talents
+> Intentions
+-credibility of
+-nobility of
+-humility of
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Donny Darko (Rated: 4)
-- Released in 2001
-- Summary: No summary available
+- The Bounty Hunter (Rated: 2)
+- Released in 2010
+- Summary: A bounty hunter learns that his next target is his ex-wife, a reporter working on a murder cover-up. Soon after their reunion, the always-at-odds duo find themselves on a run-for-their-lives adventure.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 949, using [3, 6, 7, 50, 75, 100]
-- Answer: 4 solutions.
+- Target: 195, using [5, 8, 8, 25, 50, 75]
+- Answer: 43 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 100 - 3 ) x ( 75 - 6 ) - 50 ) / 7
+  Solution: ( 75 - 50 / 25 - 8 ) x ( 8 - 5 )
 
    </details>
 
