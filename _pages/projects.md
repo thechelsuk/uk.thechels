@@ -6,7 +6,7 @@ seo: Projects
 
 ---
 
-- [Cheltenham Open Data](https://cheltenham-open-data.github.io) - A GitHub project to collect and disseminate public open data from a variety of sources, created during the covid pandemic and lockdown 2020. The project pulls together terrorism ratings, food-bank data, flood warnings and covid data (now archived). The main requirement was to just republish exciting data as RSS feeds (xml).
+- [Cheltenham Open Data](https://cod.thechels.uk) - A GitHub project to collect and disseminate public open data from a variety of sources, created during the covid pandemic and lockdown 2020. The project pulls together terrorism ratings, food-bank data, flood warnings and covid data (now archived). The main requirement was to just republish exciting data as RSS feeds (xml).
 
 - [Boinc](https://boinc.thechels.uk) - Hosting a web page for a friend; BOINC is a platform that allows computers all round the world to contribute their spare computing capacity to run distributed applications. Several of those involved with TheChels.org contribute their computers in such a way.
 
