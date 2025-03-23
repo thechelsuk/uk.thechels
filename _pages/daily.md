@@ -7,69 +7,40 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Saturday 22nd March 2025
+### On Sunday 23rd March 2025
 
-- The average temperature today is 14.77˚C,
-- With highs of 14.77˚C and lows of 14.77˚C,
-- It may feel like 14.26˚C with scattered clouds
+- The average temperature today is 9.18˚C,
+- With highs of 9.18˚C and lows of 9.18˚C,
+- It may feel like 9.18˚C with broken clouds
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 382 days since the last change (2024-03-05)
+- It has been 383 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Water the plants
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> challenge assumptions.
+> Be humble.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Notts County v Crewe Alexandra
-- Sutton United v Dagenham & Redbridge
-- Everton Women v Crystal Palace Women
-- Barnsley v Cambridge United
-- Crawley Town v Bristol Rovers
-- Lincoln City v Exeter City
-- Northampton Town v Blackpool
-- Peterborough United v Charlton Athletic
-- Wrexham v Stockport County
-- AFC Wimbledon v Barrow AFC
-- Bradford City v Colchester United
-- Carlisle United v Bromley
-- Cheltenham Town v MK Dons
-- Chesterfield v Harrogate Town
-- Fleetwood Town v Tranmere Rovers
-- Gillingham v Walsall
-- Grimsby Town v Newport County
-- Port Vale v Morecambe
-- Swindon Town v Accrington Stanley
-- AFC Fylde v Forest Green Rovers
-- Aldershot Town v Ebbsfleet United
-- Braintree Town v York City
-- Eastleigh v Southend United
-- Gateshead v Tamworth
-- Hartlepool United v Boston United
-- Maidenhead United v Rochdale
-- Oldham Athletic v FC Halifax Town
-- Solihull Moors v Yeovil Town
-- Wealdstone v Woking
-- Scunthorpe United v Chester
-- Boreham Wood v Dorking Wanderers
-- Torquay United v Bath City
-- Altrincham v Barnet
-- Arsenal Women v Liverpool Women
+- West Ham United Women v Tottenham Hotspur Women
+- Charlton Athletic Women v Birmingham City Women
+- Newcastle United Women v Sunderland AFC Women
+- Manchester City Women v Chelsea Women
+- Leicester City Women v Brighton & Hove Albion Women
+- Aston Villa Women v Manchester United Women
 <!-- fixture_marker ends -->
 
 
@@ -85,11 +56,11 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Manchester City vs. Chelsea, WSL: Preview, team news, how to watch
  - Liverpool vs. Chelsea, Legends charity match: Preview, team news, how to watch
  - Tuchel starts England tenure with 2-0 win over Albania
  - Chelsea opponents Club León removed from FIFA Club World Cup
  - Cucurella, Neto, Veiga start in UEFA Nations League quarterfinals
- - Official: Chelsea, Sporting CP agree Geovany Quenda, Dário Essugo transfers
 
 <!-- news_marker ends -->
 
@@ -97,14 +68,8 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Heathrow reopens after blaze but airlines warn of more disruption
- - Heathrow’s shutdown fuels questions about UK’s infrastructure resilience
- - Heathrow hotels quadruple prices as stranded passengers drive demand
- - Can the dollar remain king of currencies?
- - A Denmark state of mind
- - The misinformation discourse is a distraction
- - Trump revokes security clearance for Kamala Harris and Hillary Clinton
- - Trump says he would be happy for US to become ‘associate’ Commonwealth member
+ - UK ministers launch investigation into blaze that shut Heathrow
+ - The Heathrow fire shows Britain has a resilience problem
 
 <!-- ftnews_marker ends -->
 
@@ -120,36 +85,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Encourage use of 'yes, and' (adding) rather 'yes, but' (ending/blocking). - Geoff Watts
+> Even though working in small chunks adds some overhead, it reaps enormous rewards by allowing us to avoid work that delivers zero or negative value for our organisations - Accelerate
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Intentions
--credibility of
--nobility of
--humility of
+> Remove ambiguities and convert to specifics
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Bounty Hunter (Rated: 2)
-- Released in 2010
-- Summary: A bounty hunter learns that his next target is his ex-wife, a reporter working on a murder cover-up. Soon after their reunion, the always-at-odds duo find themselves on a run-for-their-lives adventure.
+- House On Haunted Hill i (Rated: 6)
+- Released in 1999
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 195, using [5, 8, 8, 25, 50, 75]
-- Answer: 43 solutions.
+- Target: 524, using [2, 3, 10, 50, 75, 100]
+- Answer: 8 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 - 50 / 25 - 8 ) x ( 8 - 5 )
+  Solution: ( 100 + 75 - 2 ) x 3 + 50 / 10
 
    </details>
 
