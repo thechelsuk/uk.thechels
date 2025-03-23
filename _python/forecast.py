@@ -7,7 +7,6 @@ from datetime import date, datetime
 import helper
 import requests
 
-
 # processing
 if __name__ == "__main__":
     try:
@@ -35,8 +34,10 @@ if __name__ == "__main__":
             pressure = str(response_dict["main"]["pressure"])
             humidity = str(response_dict["main"]["humidity"])
 
-            sunrise = datetime.datetime.fromtimestamp(response_dict["sys"]["sunrise"]).strftime("%H:%M")
-            sunset = datetime.datetime.fromtimestamp(response_dict["sys"]["sunset"]).strftime("%H:%M")
+            sunrise = datetime.datetime.fromtimestamp(
+                response_dict["sys"]["sunrise"]).strftime("%H:%M")
+            sunset = datetime.datetime.fromtimestamp(
+                response_dict["sys"]["sunset"]).strftime("%H:%M")
 
             string_today = f"## On {output_date}\n\n"
             string_today += f"- The average temperature today is {day_temp}˚C,\n"
