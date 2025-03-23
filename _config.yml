@@ -51,7 +51,7 @@ navigation_header:
     title: "Daily"
   - link: "/slashes"
     title: "More //"
-  - link: "https://shop.the-ensemblist.uk"
+  - link: "https://shop.thechels.uk"
     title: "Shop &raquo;"
 ## SubMenu
 navigation_slashes:
@@ -97,7 +97,7 @@ navigation_slashes:
     title: "Security"
   - link: "/sitemap"
     title: "Sitemap"
-  - link: "https://shop.the-ensemblist.uk"
+  - link: "https://shop.thechels.uk"
     title: "Shop &raquo;"
   - link: "https://ensemble.substack.com/"
     title: "SubStack &raquo;"
