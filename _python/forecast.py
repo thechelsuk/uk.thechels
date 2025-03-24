@@ -2,7 +2,7 @@
 import json
 import os
 import pathlib
-from datetime import date, datetime
+import datetime
 
 import helper
 import requests
