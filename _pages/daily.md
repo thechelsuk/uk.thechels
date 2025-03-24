@@ -7,18 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-### On Sunday 23rd March 2025
+## On Monday, 24 March 2025
 
-- The average temperature today is 9.18˚C,
-- With highs of 9.18˚C and lows of 9.18˚C,
-- It may feel like 9.18˚C with broken clouds
+- The average temperature today is 7.42˚C,
+- With highs of 7.42˚C and lows of 7.42˚C,
+- It may feel like 5.35˚C with overcast clouds
+- The wind speed is 3.09m/s and visibility is 7000m
+- The pressure is 1018hPa and humidity is 82%
+- The sun will rise at 06:01 and set at 18:27
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 383 days since the last change (2024-03-05)
+- It has been 384 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -29,18 +32,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be humble.
+> Embrace uncertainty.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- West Ham United Women v Tottenham Hotspur Women
-- Charlton Athletic Women v Birmingham City Women
-- Newcastle United Women v Sunderland AFC Women
-- Manchester City Women v Chelsea Women
-- Leicester City Women v Brighton & Hove Albion Women
-- Aston Villa Women v Manchester United Women
+- England v Latvia
+- England U21 v Portugal U21
 <!-- fixture_marker ends -->
 
 
@@ -48,7 +47,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 106.41000366210938 
+- VWRL.L : 107.27999877929688 
 
 <!-- stocks_marker ends -->
 
@@ -56,11 +55,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Chelsea can get out of Sancho loan obligation for just £5m — report
+ - WATCH: Cuthbert wins it late for Chelsea, 2-1 against Manchester City!
+ - Manchester City WFC 1-2 Chelsea FCW, Women’s Super League: Post-match reaction
+ - WATCH: Beever-Jones equalizes for Chelsea against Manchester City, 1-1!
+ - Manchester City vs. Chelsea, WSL: Confirmed lineups; how to watch
  - Manchester City vs. Chelsea, WSL: Preview, team news, how to watch
- - Liverpool vs. Chelsea, Legends charity match: Preview, team news, how to watch
- - Tuchel starts England tenure with 2-0 win over Albania
- - Chelsea opponents Club León removed from FIFA Club World Cup
- - Cucurella, Neto, Veiga start in UEFA Nations League quarterfinals
 
 <!-- news_marker ends -->
 
@@ -68,8 +68,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - UK ministers launch investigation into blaze that shut Heathrow
- - The Heathrow fire shows Britain has a resilience problem
+ - Japan has not yet conquered deflation, finance minister warns
+ - From Berlin to Tokyo, the fears of a new nuclear arms race
+ - Pensions risk: the downside of weight-loss drugs
+ - The end of American exceptionalism goes way beyond Trump
+ - Trump tariffs hang over Reeves’ plan to repair UK public finances
+ - Britain’s unwanted fiscal fix
+ - National Grid chief says Heathrow had ‘enough power’ despite fire shutdown
+ - New poll shows risks for Keir Starmer over spending choices
 
 <!-- ftnews_marker ends -->
 
@@ -77,7 +83,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > taffy - noun: 1. A soft, chewy candy made by boiling sugar, butter, and other ingredients, then repeatedly pulling the mixture to incorporate air, resulting in a light, fluffy texture. 2. Insincere flattery.
+ > whatness - noun: That which constitutes the fundamental nature of a thing: the essence or inherent quality.
 
 <!-- word_marker ends -->
 
@@ -85,33 +91,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Even though working in small chunks adds some overhead, it reaps enormous rewards by allowing us to avoid work that delivers zero or negative value for our organisations - Accelerate
+> ScrumMasters aren't just an additional expense; they create high-performing teams. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Remove ambiguities and convert to specifics
+> Into the impossible
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- House On Haunted Hill i (Rated: 6)
-- Released in 1999
-- Summary: No summary available
+- Kong: Skull Island (Rated: 3)
+- Released in 2017
+- Summary: After the Vietnam war, a team of scientists explores an uncharted island in the Pacific, venturing into the domain of the mighty Kong and must fight to escape a primal Eden.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 524, using [2, 3, 10, 50, 75, 100]
-- Answer: 8 solutions.
+- Target: 398, using [1, 2, 25, 50, 75, 100]
+- Answer: 20 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 75 - 2 ) x 3 + 50 / 10
+  Solution: ( 100 + 75 + 50 - 25 - 1 ) x 2
 
    </details>
 
