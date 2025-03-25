@@ -7,39 +7,47 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 24 March 2025
+## On Tuesday, 25 March 2025
 
-- The average temperature today is 7.42˚C,
-- With highs of 7.42˚C and lows of 7.42˚C,
-- It may feel like 5.35˚C with overcast clouds
-- The wind speed is 3.09m/s and visibility is 7000m
-- The pressure is 1018hPa and humidity is 82%
-- The sun will rise at 06:01 and set at 18:27
+- The average temperature today is 5.65˚C,
+- With highs of 5.65˚C and lows of 5.65˚C,
+- It may feel like 5.65˚C with broken clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 92%
+- The sun will rise at 05:59 and set at 18:29
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 384 days since the last change (2024-03-05)
+- It has been 385 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Embrace uncertainty.
+> Crossing the river by feeling the stones.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- England v Latvia
-- England U21 v Portugal U21
+- Portugal U18 v England U18
+- Carlisle United v MK Dons
+- Altrincham v Solihull Moors
+- Boston United v Southend United
+- Rochdale v York City
+- Wealdstone v Aldershot Town
+- Woking v FC Halifax Town
+- Brackley Town v Kidderminster Harriers
 <!-- fixture_marker ends -->
 
 
@@ -47,7 +55,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 107.27999877929688 
+- VWRL.L : 107.76000213623047 
 
 <!-- stocks_marker ends -->
 
@@ -55,12 +63,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Player of the Match Reece James scores in first England start for 30 months!
  - Chelsea can get out of Sancho loan obligation for just £5m — report
  - WATCH: Cuthbert wins it late for Chelsea, 2-1 against Manchester City!
  - Manchester City WFC 1-2 Chelsea FCW, Women’s Super League: Post-match reaction
  - WATCH: Beever-Jones equalizes for Chelsea against Manchester City, 1-1!
  - Manchester City vs. Chelsea, WSL: Confirmed lineups; how to watch
- - Manchester City vs. Chelsea, WSL: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -68,14 +76,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Japan has not yet conquered deflation, finance minister warns
- - From Berlin to Tokyo, the fears of a new nuclear arms race
- - Pensions risk: the downside of weight-loss drugs
- - The end of American exceptionalism goes way beyond Trump
- - Trump tariffs hang over Reeves’ plan to repair UK public finances
- - Britain’s unwanted fiscal fix
- - National Grid chief says Heathrow had ‘enough power’ despite fire shutdown
- - New poll shows risks for Keir Starmer over spending choices
+ - Top US officials shared classified details of military strikes with journalist
+ - ‘Remarkable sloppiness’: Trump officials’ chat breach shakes Washington
+ - Why was Heathrow airport slow to resume operations after substation fire?
+ - Reeves braces for her Spring Statement to be only the start of bad fiscal news
+ - British Airways tries to regain its halo with a new first-class seat
+ - Retail traders plough $67bn into US stocks while investment giants flee
+ - Greenland’s government hits back at Trump over US visit to Arctic island
+ - Trump’s dogsled diplomacy has spooked Greenland
 
 <!-- ftnews_marker ends -->
 
@@ -83,7 +91,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > whatness - noun: That which constitutes the fundamental nature of a thing: the essence or inherent quality.
+ > fleshment - noun: Excitement resulting from a first success at something.
 
 <!-- word_marker ends -->
 
@@ -91,7 +99,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> ScrumMasters aren't just an additional expense; they create high-performing teams. - Zuzana Sochova
+> A great ScrumMaster grasps the skills and mindset of the role. - Geoff Watts
 
 <!-- quote_marker ends -->
 
@@ -104,20 +112,20 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Film Archive
 
 <!-- film_marker starts -->
-- Kong: Skull Island (Rated: 3)
-- Released in 2017
-- Summary: After the Vietnam war, a team of scientists explores an uncharted island in the Pacific, venturing into the domain of the mighty Kong and must fight to escape a primal Eden.
+- The Crazies (Rated: 6)
+- Released in 2010
+- Summary: After a strange and insecure plane crash, an unusual toxic virus enters a quaint farming town. A young couple are quarantined, but they fight for survival along with help from a couple of people.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 398, using [1, 2, 25, 50, 75, 100]
-- Answer: 20 solutions.
+- Target: 147, using [3, 3, 3, 10, 25, 100]
+- Answer: 19 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 75 + 50 - 25 - 1 ) x 2
+  Solution: 3 x 3 + 100 + 25 + 10 + 3
 
    </details>
 
