@@ -13,6 +13,8 @@ $primary: #04100d;
 $secondary: #005ca3;
 $links: #295147;
 $accent: #cec452;
+$code: #c0deff;
+
 $font-stack: -system-ui, "Gill Sans", sans-serif;
 $font-mono: ui-monospace, monospace, "Courier New";
 
@@ -36,7 +38,7 @@ $font-mono: ui-monospace, monospace, "Courier New";
 }
 
 .highlight > pre {
-    background: #a2a2a2;
+    background: $code;
     color: $primary;
     padding: 0.525em;
     border-radius: 0.5em;
@@ -474,4 +476,3 @@ img {
 .sr-only {
     display: none;
 }
-
