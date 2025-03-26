@@ -7,47 +7,38 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 25 March 2025
+## On Wednesday, 26 March 2025
 
-- The average temperature today is 5.65˚C,
-- With highs of 5.65˚C and lows of 5.65˚C,
-- It may feel like 5.65˚C with broken clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 92%
-- The sun will rise at 05:59 and set at 18:29
+- The average temperature today is 6.06˚C,
+- With highs of 6.06˚C and lows of 6.06˚C,
+- It may feel like 6.06˚C with clear sky
+- The wind speed is 0.83m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 84%
+- The sun will rise at 05:56 and set at 18:30
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 385 days since the last change (2024-03-05)
+- It has been 386 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Crossing the river by feeling the stones.
+> challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Portugal U18 v England U18
-- Carlisle United v MK Dons
-- Altrincham v Solihull Moors
-- Boston United v Southend United
-- Rochdale v York City
-- Wealdstone v Aldershot Town
-- Woking v FC Halifax Town
-- Brackley Town v Kidderminster Harriers
+- Arsenal Women v Real Madrid Women
 <!-- fixture_marker ends -->
 
 
@@ -55,7 +46,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 107.76000213623047 
+- VWRL.L : 107.62000274658203 
 
 <!-- stocks_marker ends -->
 
@@ -63,12 +54,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Boehly, Clearlake happy to maintain ‘status quo’ but stadium issue could prove divisive
  - Player of the Match Reece James scores in first England start for 30 months!
  - Chelsea can get out of Sancho loan obligation for just £5m — report
  - WATCH: Cuthbert wins it late for Chelsea, 2-1 against Manchester City!
  - Manchester City WFC 1-2 Chelsea FCW, Women’s Super League: Post-match reaction
  - WATCH: Beever-Jones equalizes for Chelsea against Manchester City, 1-1!
- - Manchester City vs. Chelsea, WSL: Confirmed lineups; how to watch
 
 <!-- news_marker ends -->
 
@@ -76,14 +67,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Top US officials shared classified details of military strikes with journalist
- - ‘Remarkable sloppiness’: Trump officials’ chat breach shakes Washington
- - Why was Heathrow airport slow to resume operations after substation fire?
- - Reeves braces for her Spring Statement to be only the start of bad fiscal news
- - British Airways tries to regain its halo with a new first-class seat
- - Retail traders plough $67bn into US stocks while investment giants flee
- - Greenland’s government hits back at Trump over US visit to Arctic island
- - Trump’s dogsled diplomacy has spooked Greenland
+ - Rising debt and spending demands squeeze Britain’s finances
+ - Reeves to unveil £2.2bn UK defence spending boost in Spring Statement
+ - Inside Russia’s Gazprom: can the ailing energy giant be revived?
+ - Europe’s battle to break Musk’s stranglehold on the skies
+ - An ominous shadow falls over mRNA technology
+ - Top Fed official says market angst over inflation would be ‘red flag’
+ - US proposes new critical minerals deal to Ukraine, says Zelenskyy
+ - US agrees maritime ceasefire deal with Ukraine and Russia
 
 <!-- ftnews_marker ends -->
 
@@ -91,7 +82,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > fleshment - noun: Excitement resulting from a first success at something.
+ > pejorism - noun: The belief that the world is becoming worse.
 
 <!-- word_marker ends -->
 
@@ -99,33 +90,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> A great ScrumMaster grasps the skills and mindset of the role. - Geoff Watts
+> The most important thing for me is making sure the team is at the top of the table when the season ends - Sam Kerr
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Into the impossible
+> Ghost echoes
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Crazies (Rated: 6)
-- Released in 2010
-- Summary: After a strange and insecure plane crash, an unusual toxic virus enters a quaint farming town. A young couple are quarantined, but they fight for survival along with help from a couple of people.
+- Semi-Pro (Rated: 5)
+- Released in 2008
+- Summary: Jackie Moon, the owner-coach-player of the American Basketball Association's Flint Michigan Tropics, rallies his teammates to make their NBA dreams come true.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 147, using [3, 3, 3, 10, 25, 100]
-- Answer: 19 solutions.
+- Target: 861, using [6, 8, 9, 10, 50, 75]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: 3 x 3 + 100 + 25 + 10 + 3
+  Solution: ( 75 + 10 + 6 ) x 9 + 50 - 8
 
    </details>
 
