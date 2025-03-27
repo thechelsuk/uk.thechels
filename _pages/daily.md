@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 26 March 2025
+## On Thursday, 27 March 2025
 
-- The average temperature today is 6.06˚C,
-- With highs of 6.06˚C and lows of 6.06˚C,
-- It may feel like 6.06˚C with clear sky
-- The wind speed is 0.83m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 84%
-- The sun will rise at 05:56 and set at 18:30
+- The average temperature today is 6.27˚C,
+- With highs of 6.27˚C and lows of 6.27˚C,
+- It may feel like 6.27˚C with broken clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 89%
+- The sun will rise at 05:54 and set at 18:32
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 386 days since the last change (2024-03-05)
+- It has been 387 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,13 +32,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> challenge assumptions.
+> Commit to the direction.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Arsenal Women v Real Madrid Women
+- Leyton Orient v Stevenage
+- Chelsea Women v Manchester City Women
 <!-- fixture_marker ends -->
 
 
@@ -46,7 +47,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 107.62000274658203 
+- VWRL.L : 107.47000122070312 
 
 <!-- stocks_marker ends -->
 
@@ -54,12 +55,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Chelsea vs. Manchester City, Women’s Champions League: Preview, team news, how to watch
+ - Enzo picks up goal, assist as Argentina dominate Brazil, 4-1
+ - Arsenal 1-0 Chelsea, Premier League:  Tactical Analysis
  - Boehly, Clearlake happy to maintain ‘status quo’ but stadium issue could prove divisive
  - Player of the Match Reece James scores in first England start for 30 months!
  - Chelsea can get out of Sancho loan obligation for just £5m — report
- - WATCH: Cuthbert wins it late for Chelsea, 2-1 against Manchester City!
- - Manchester City WFC 1-2 Chelsea FCW, Women’s Super League: Post-match reaction
- - WATCH: Beever-Jones equalizes for Chelsea against Manchester City, 1-1!
 
 <!-- news_marker ends -->
 
@@ -67,14 +68,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Rising debt and spending demands squeeze Britain’s finances
- - Reeves to unveil £2.2bn UK defence spending boost in Spring Statement
- - Inside Russia’s Gazprom: can the ailing energy giant be revived?
- - Europe’s battle to break Musk’s stranglehold on the skies
- - An ominous shadow falls over mRNA technology
- - Top Fed official says market angst over inflation would be ‘red flag’
- - US proposes new critical minerals deal to Ukraine, says Zelenskyy
- - US agrees maritime ceasefire deal with Ukraine and Russia
+ - Rachel Reeves warned of tax rises ahead despite £14bn plan to fix public finances
+ - Rachel Reeves’ Spring Statement — in charts
+ - Weak productivity and Trump tariffs: the chancellor remains in perilous fiscal waters
+ - The UK chancellor’s fiscal holding operation
+ - Ben & Jerry’s fudge has come back to bite Unilever
+ - Trump to impose 25% tariff on car imports
+ - US companies feel China squeeze as new Trump tariffs loom
+ - Atlantic magazine releases more details of Trump officials’ Signal chat
 
 <!-- ftnews_marker ends -->
 
@@ -82,7 +83,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > pejorism - noun: The belief that the world is becoming worse.
+ > uniquity - noun: The quality of being the only one of its kind.
 
 <!-- word_marker ends -->
 
@@ -90,33 +91,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The most important thing for me is making sure the team is at the top of the table when the season ends - Sam Kerr
+> As ScrumMaster, your job is to improve the culture, empower people, increase motivation, and boost proactivity. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Ghost echoes
+> Go slowly all the way round the outside
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Semi-Pro (Rated: 5)
-- Released in 2008
-- Summary: Jackie Moon, the owner-coach-player of the American Basketball Association's Flint Michigan Tropics, rallies his teammates to make their NBA dreams come true.
+- Jarhead 3: The Siege (Rated: 3)
+- Released in 2016
+- Summary: A group of Marines must protect a US Embassy in the Middle East when it suddenly comes under attack from enemy forces.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 861, using [6, 8, 9, 10, 50, 75]
-- Answer: 7 solutions.
+- Target: 218, using [5, 6, 9, 25, 50, 75]
+- Answer: 4 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 10 + 6 ) x 9 + 50 - 8
+  Solution: ( 9 - 6 ) x 75 - 50 / 25 - 5
 
    </details>
 
