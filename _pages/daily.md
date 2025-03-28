@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 27 March 2025
+## On Friday, 28 March 2025
 
-- The average temperature today is 6.27˚C,
-- With highs of 6.27˚C and lows of 6.27˚C,
-- It may feel like 6.27˚C with broken clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 89%
-- The sun will rise at 05:54 and set at 18:32
+- The average temperature today is 9.89˚C,
+- With highs of 9.89˚C and lows of 9.89˚C,
+- It may feel like 8.57˚C with overcast clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1010hPa and humidity is 91%
+- The sun will rise at 05:52 and set at 18:34
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 387 days since the last change (2024-03-05)
+- It has been 388 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,14 +32,15 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Commit to the direction.
+> Think aptitude and attitude.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Leyton Orient v Stevenage
-- Chelsea Women v Manchester City Women
+- Colchester United v Grimsby Town
+- Tranmere Rovers v Cheltenham Town
+- Sheffield United v Coventry City
 <!-- fixture_marker ends -->
 
 
@@ -47,7 +48,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 107.47000122070312 
+- VWRL.L : 106.66500091552734 
 
 <!-- stocks_marker ends -->
 
@@ -55,12 +56,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Chelsea 3-0 (3-2 agg.) Manchester City, Women’s Champions League: Post-match reaction
+ - WATCH: Mayra Ramírez makes it 3-0 Chelsea over Manchester City!
+ - WATCH: Nathalie Björn doubles Chelsea’s lead over Manchester City! 2-0!
+ - WATCH: Sandy Baltimore opens the scoring for Chelsea against Manchester City! 1-0!
+ - Chelsea vs. Manchester City, Women’s Champions League: Confirmed lineups; how to watch
+ - Nicolas Jackson back in training
  - Chelsea vs. Manchester City, Women’s Champions League: Preview, team news, how to watch
- - Enzo picks up goal, assist as Argentina dominate Brazil, 4-1
- - Arsenal 1-0 Chelsea, Premier League:  Tactical Analysis
- - Boehly, Clearlake happy to maintain ‘status quo’ but stadium issue could prove divisive
- - Player of the Match Reece James scores in first England start for 30 months!
- - Chelsea can get out of Sancho loan obligation for just £5m — report
 
 <!-- news_marker ends -->
 
@@ -68,14 +70,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Rachel Reeves warned of tax rises ahead despite £14bn plan to fix public finances
- - Rachel Reeves’ Spring Statement — in charts
- - Weak productivity and Trump tariffs: the chancellor remains in perilous fiscal waters
- - The UK chancellor’s fiscal holding operation
- - Ben & Jerry’s fudge has come back to bite Unilever
- - Trump to impose 25% tariff on car imports
- - US companies feel China squeeze as new Trump tariffs loom
- - Atlantic magazine releases more details of Trump officials’ Signal chat
+ - Steel tycoon Lakshmi Mittal plans to leave UK after non-dom tax change
+ - Meloni rejects ‘childish’ choice between Trump and Europe
+ - Why hasn’t AI taken your job yet?
+ - ‘Not being Liz Truss’ does not a growth strategy make
+ - Heathrow warns airlines risk having to pay £1bn for better power system
+ - Blackstone buys stake in UK airports group for £235mn
+ - Trump targets law firm WilmerHale in latest executive order
+ - US pushes for expansive new deal to control Ukraine’s minerals and energy
 
 <!-- ftnews_marker ends -->
 
@@ -83,7 +85,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > uniquity - noun: The quality of being the only one of its kind.
+ > whereness - noun: The condition or essence of being situated or existing in a specific place or location.
 
 <!-- word_marker ends -->
 
@@ -91,33 +93,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> As ScrumMaster, your job is to improve the culture, empower people, increase motivation, and boost proactivity. - Zuzana Sochova
+> Great Product Owners keeps options open. - Geoff Watts
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Go slowly all the way round the outside
+> Put in earplugs
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Jarhead 3: The Siege (Rated: 3)
-- Released in 2016
-- Summary: A group of Marines must protect a US Embassy in the Middle East when it suddenly comes under attack from enemy forces.
+- The Secret Window (Rated: 4)
+- Released in 2004
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 218, using [5, 6, 9, 25, 50, 75]
-- Answer: 4 solutions.
+- Target: 877, using [2, 2, 5, 8, 25, 100]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 9 - 6 ) x 75 - 50 / 25 - 5
+  Solution: ( 100 + 25 ) x ( 5 + 2 ) + 2
 
    </details>
 
