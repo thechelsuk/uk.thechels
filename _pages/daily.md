@@ -7,46 +7,39 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 30 March 2025
+## On Monday, 31 March 2025
 
-- The average temperature today is 7.89˚C,
-- With highs of 8.25˚C and lows of 7.6˚C,
-- It may feel like 7.89˚C with overcast clouds
+- The average temperature today is 2.95˚C,
+- With highs of 4.42˚C and lows of 1.96˚C,
+- It may feel like 2.95˚C with broken clouds
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 82%
-- The sun will rise at 05:47 and set at 18:37
+- The pressure is 1027hPa and humidity is 87%
+- The sun will rise at 05:45 and set at 18:39
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 390 days since the last change (2024-03-05)
+- It has been 391 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Exploit the landscape.
+> Crossing the river by feeling the stones.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Manchester United Women v Everton Women
-- Preston North End v Aston Villa
-- Newcastle United Women v London City Lionesses
-- Brighton & Hove Albion Women v Manchester City Women
-- Crystal Palace Women v Arsenal Women
-- Leicester City Women v Tottenham Hotspur Women
-- Liverpool Women v Aston Villa Women
-- AFC Bournemouth v Manchester City
-- Chelsea Women v West Ham United Women
+- Aston Villa U18 v Manchester United U18
 <!-- fixture_marker ends -->
 
 
@@ -62,13 +55,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Kepa finding joy in football again, saves Haaland penalty
+ - Chelsea 2-2 West Ham, Women’s Super League: Post-match reaction
+ - WATCH: Aggie Beever-Jones doubles Chelsea’s lead over West Ham! 2-0!
+ - WATCH: Maika Hamano opens the scoring for Chelsea against West Ham! 1-0!
+ - Chelsea vs. West Ham, Women’s Super League: Confirmed lineups; how to watch
+ - Kendry Páez ‘very happy’ with Chelsea visits, expected to join for Club World Cup
  - Chelsea vs. West Ham, Women’s Super League: Preview, team news, how to watch
- - The Daily Hilario: Saturday
- - Premier League announce split transfer window for summer 2025
- - Cole Palmer, Noni Madueke reportedly also back in training
- - Cucurella nominated for Premier League Goal of the Month award
- - Chelsea 3-0 (3-2 agg.) Manchester City, Women’s Champions League: Post-match reaction
- - WATCH: Mayra Ramírez makes it 3-0 Chelsea over Manchester City!
 
 <!-- news_marker ends -->
 
@@ -76,14 +69,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Norway urged to drop ‘crazy’ ban on investment in defence companies
- - Dutch pensions to invest €100bn in risky assets boosting Europe’s defence efforts
- - Autocrats behaving badly: Trump emboldens global strongmen
- - Russia’s war economy fuels rustbelt revival
- - How to keep sick people in employment
- - Brands spend nominal sums on X ads to keep Musk happy
- - Ukraine ceasefire to increase Russian threat in Baltic region, ministers warn
- - Only 0.6% of offshore debt recovered from China’s property developers
+ - Germany’s spending push drives up borrowing costs across Eurozone
+ - Portugal cautious on joining Europe’s defence spending splurge
+ - The people vs Musk: billionaire transforms Wisconsin court contest
+ - Fiscal tweaks won’t solve Britain’s growth problem
+ - Is UBS’s ‘deal of the century’ starting to sour?
+ - Trump threatens secondary tariffs on Russian oil if no deal on Ukraine
+ - Trump says he is ‘not joking’ about seeking a third term in office
+ - Cabinet Office to scrutinise failings of UK’s official data provider ONS
 
 <!-- ftnews_marker ends -->
 
@@ -91,7 +84,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > whereness - noun: The condition or essence of being situated or existing in a specific place or location.
+ > chalk line - noun: 1. A standard of proper behavior. 2. A line made with chalk or a similar substance.
 
 <!-- word_marker ends -->
 
@@ -99,33 +92,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You must do the thing you think you cannot do. - Eleanor Roosevelt
+> In matters of style, swim with the current; in matters of principle, stand like a rock. - Thomas Jefferson
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Use filters
+> Make a blank valuable by putting it in an exquisite frame
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- To Wong Fu Thanks For Everything (Rated: 4)
-- Released in 1995
-- Summary: No summary available
+- Nightcrawler (Rated: 7)
+- Released in 2014
+- Summary: A petty thief desperate for work muscles into the world of crime journalism and becomes the star of his own story as he blurs the line between observer and participant.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 491, using [5, 5, 8, 10, 25, 100]
-- Answer: 7 solutions.
+- Target: 441, using [3, 6, 25, 50, 75, 100]
+- Answer: 24 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 x 25 + 5 - 10 ) / 5 - 8
+  Solution: ( 75 / 25 + 100 + 50 - 6 ) x 3
 
    </details>
 
