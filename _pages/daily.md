@@ -7,39 +7,68 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 31 March 2025
+## On Tuesday, 01 April 2025
 
-- The average temperature today is 2.95˚C,
-- With highs of 4.42˚C and lows of 1.96˚C,
-- It may feel like 2.95˚C with broken clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1027hPa and humidity is 87%
-- The sun will rise at 05:45 and set at 18:39
+- The average temperature today is 4.27˚C,
+- With highs of 4.42˚C and lows of 3.25˚C,
+- It may feel like 1.53˚C with overcast clouds
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 83%
+- The sun will rise at 05:42 and set at 18:41
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 391 days since the last change (2024-03-05)
+- It has been 392 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Crossing the river by feeling the stones.
+> Be open to change.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Aston Villa U18 v Manchester United U18
+- Altrincham v Leeds United U21
+- Barnsley v Exeter City
+- Blackpool v Reading
+- Burton Albion v Leyton Orient
+- Cambridge United v Wrexham
+- Crawley Town v Peterborough United
+- Lincoln City v Huddersfield Town
+- Mansfield Town v Charlton Athletic
+- Northampton Town v Rotherham United
+- Stockport County v Stevenage
+- Wigan Athletic v Bolton Wanderers
+- Wycombe Wanderers v Shrewsbury Town
+- Accrington Stanley v Fleetwood Town
+- Barrow AFC v Salford City
+- Chesterfield v Carlisle United
+- Crewe Alexandra v Grimsby Town
+- Doncaster Rovers v Walsall
+- Gillingham v Colchester United
+- Harrogate Town v Tranmere Rovers
+- Morecambe v Cheltenham Town
+- Newport County v Bromley
+- Port Vale v Bradford City
+- Swindon Town v AFC Wimbledon
+- Aldershot Town v AFC Fylde
+- Wealdstone v Boston United
+- Woking v Rochdale
+- Braintree Town v Sutton United
+- Bristol Rovers v Birmingham City
+- Nottingham Forest v Manchester United
 <!-- fixture_marker ends -->
 
 
@@ -47,7 +76,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 104.8949966430664 
+- VWRL.L : 104.04000091552734 
 
 <!-- stocks_marker ends -->
 
@@ -55,13 +84,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Chelsea announce £128.4m pre-tax profit for 2023-24 thanks to restructuring
+ - BlueCo to put Strasbourg into ‘trust’ should they qualify for Champions League alongside Chelsea — report
+ - FIFA considering playoff between LAFC and Club América for vacant Club World Cup spot — reports
  - Kepa finding joy in football again, saves Haaland penalty
  - Chelsea 2-2 West Ham, Women’s Super League: Post-match reaction
  - WATCH: Aggie Beever-Jones doubles Chelsea’s lead over West Ham! 2-0!
  - WATCH: Maika Hamano opens the scoring for Chelsea against West Ham! 1-0!
- - Chelsea vs. West Ham, Women’s Super League: Confirmed lineups; how to watch
- - Kendry Páez ‘very happy’ with Chelsea visits, expected to join for Club World Cup
- - Chelsea vs. West Ham, Women’s Super League: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -69,14 +98,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Germany’s spending push drives up borrowing costs across Eurozone
- - Portugal cautious on joining Europe’s defence spending splurge
- - The people vs Musk: billionaire transforms Wisconsin court contest
- - Fiscal tweaks won’t solve Britain’s growth problem
- - Is UBS’s ‘deal of the century’ starting to sour?
- - Trump threatens secondary tariffs on Russian oil if no deal on Ukraine
- - Trump says he is ‘not joking’ about seeking a third term in office
- - Cabinet Office to scrutinise failings of UK’s official data provider ONS
+ - What to expect on ‘liberation day’
+ - French court leaves Marine Le Pen’s political career on the brink
+ - How a $1.4tn Trump trade war could unfold
+ - Anime lessons in the limits of AI
+ - Barclays’ private credit partner struggles to raise new funds
+ - DeepMind slows down research releases in battle to keep competitive edge
+ - Pension Protection Fund vows to boost UK investment if allowed to grow
+ - China launches large-scale military exercises around Taiwan
 
 <!-- ftnews_marker ends -->
 
@@ -84,7 +113,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > chalk line - noun: 1. A standard of proper behavior. 2. A line made with chalk or a similar substance.
+ > ratchet - noun: 1. A mechanism consisting of a toothed wheel or bar engaged by a pawl to allow controlled movement in one direction only. 2. An incremental change, typically in one direction and irreversible. verb tr., intr.: To move or to cause to move in small increments, especially progressively or irreversibly.
 
 <!-- word_marker ends -->
 
@@ -92,33 +121,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> In matters of style, swim with the current; in matters of principle, stand like a rock. - Thomas Jefferson
+> The ScrumMaster should stay only one step ahead of the team and organization, pulling them out of their habits and customs. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Make a blank valuable by putting it in an exquisite frame
+> Reverse
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Nightcrawler (Rated: 7)
-- Released in 2014
-- Summary: A petty thief desperate for work muscles into the world of crime journalism and becomes the star of his own story as he blurs the line between observer and participant.
+- The Kitchen (Rated: 3)
+- Released in 2019
+- Summary: The wives of New York gangsters in Hell's Kitchen in the 1970s continue to operate their husbands' rackets after they're locked up in prison.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 441, using [3, 6, 25, 50, 75, 100]
-- Answer: 24 solutions.
+- Target: 474, using [4, 8, 10, 50, 75, 100]
+- Answer: 10 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 / 25 + 100 + 50 - 6 ) x 3
+  Solution: ( ( 100 - 50 ) x 75 + 10 ) / 8 + 4
 
    </details>
 
