@@ -7,68 +7,41 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 01 April 2025
+## On Wednesday, 02 April 2025
 
-- The average temperature today is 4.27˚C,
-- With highs of 4.42˚C and lows of 3.25˚C,
-- It may feel like 1.53˚C with overcast clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 83%
-- The sun will rise at 05:42 and set at 18:41
+- The average temperature today is 4.22˚C,
+- With highs of 5.54˚C and lows of 3.16˚C,
+- It may feel like 1.23˚C with clear sky
+- The wind speed is 3.47m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 84%
+- The sun will rise at 05:40 and set at 18:42
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 392 days since the last change (2024-03-05)
+- It has been 393 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be open to change.
+> Use a common language.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Altrincham v Leeds United U21
-- Barnsley v Exeter City
-- Blackpool v Reading
-- Burton Albion v Leyton Orient
-- Cambridge United v Wrexham
-- Crawley Town v Peterborough United
-- Lincoln City v Huddersfield Town
-- Mansfield Town v Charlton Athletic
-- Northampton Town v Rotherham United
-- Stockport County v Stevenage
-- Wigan Athletic v Bolton Wanderers
-- Wycombe Wanderers v Shrewsbury Town
-- Accrington Stanley v Fleetwood Town
-- Barrow AFC v Salford City
-- Chesterfield v Carlisle United
-- Crewe Alexandra v Grimsby Town
-- Doncaster Rovers v Walsall
-- Gillingham v Colchester United
-- Harrogate Town v Tranmere Rovers
-- Morecambe v Cheltenham Town
-- Newport County v Bromley
-- Port Vale v Bradford City
-- Swindon Town v AFC Wimbledon
-- Aldershot Town v AFC Fylde
-- Wealdstone v Boston United
-- Woking v Rochdale
-- Braintree Town v Sutton United
-- Bristol Rovers v Birmingham City
-- Nottingham Forest v Manchester United
+- AZ Alkmaar U19 v Manchester City U19
+- Derby County v Preston North End
+- Notts County v MK Dons
+- Liverpool v Everton
 <!-- fixture_marker ends -->
 
 
@@ -76,7 +49,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 104.04000091552734 
+- VWRL.L : 136.08470153808594 
 
 <!-- stocks_marker ends -->
 
@@ -84,13 +57,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Premier League to introduce semi-automated offside technology for final weeks of season
+ - Chelsea-linked Liam Delap will have £40m release clause when Ipswich get relegated — report
+ - How should Chelsea line up against Spurs to begin the home stretch of the season?
  - Chelsea announce £128.4m pre-tax profit for 2023-24 thanks to restructuring
  - BlueCo to put Strasbourg into ‘trust’ should they qualify for Champions League alongside Chelsea — report
  - FIFA considering playoff between LAFC and Club América for vacant Club World Cup spot — reports
- - Kepa finding joy in football again, saves Haaland penalty
- - Chelsea 2-2 West Ham, Women’s Super League: Post-match reaction
- - WATCH: Aggie Beever-Jones doubles Chelsea’s lead over West Ham! 2-0!
- - WATCH: Maika Hamano opens the scoring for Chelsea against West Ham! 1-0!
 
 <!-- news_marker ends -->
 
@@ -98,14 +70,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - What to expect on ‘liberation day’
- - French court leaves Marine Le Pen’s political career on the brink
- - How a $1.4tn Trump trade war could unfold
- - Anime lessons in the limits of AI
- - Barclays’ private credit partner struggles to raise new funds
- - DeepMind slows down research releases in battle to keep competitive edge
- - Pension Protection Fund vows to boost UK investment if allowed to grow
- - China launches large-scale military exercises around Taiwan
+ - Investors on edge as White House vows new tariffs ‘immediately’
+ - How Trump is exploiting Big Law’s identity crisis
+ - China senses an opportunity in Trump’s cultural revolution
+ - How our social structures shape our DNA — and vice versa
+ - Musk-backed judge loses Wisconsin race as liberals surge
+ - Musk’s X asks Supreme Court to shield users from US government
+ - US-UK deal on accounting qualifications stalls after disputes
+ - Andreessen Horowitz in talks to help buy out TikTok’s Chinese owners
 
 <!-- ftnews_marker ends -->
 
@@ -113,7 +85,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > ratchet - noun: 1. A mechanism consisting of a toothed wheel or bar engaged by a pawl to allow controlled movement in one direction only. 2. An incremental change, typically in one direction and irreversible. verb tr., intr.: To move or to cause to move in small increments, especially progressively or irreversibly.
+ > parish pump - noun: A water pump shared by people within a small area. adjective: Of local, often trivial, interest or importance.
 
 <!-- word_marker ends -->
 
@@ -121,33 +93,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The ScrumMaster should stay only one step ahead of the team and organization, pulling them out of their habits and customs. - Zuzana Sochova
+> Failure is simply the opportunity to begin again, this time more intelligently - Henry Ford
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Reverse
+> Disconnect from desire
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Kitchen (Rated: 3)
-- Released in 2019
-- Summary: The wives of New York gangsters in Hell's Kitchen in the 1970s continue to operate their husbands' rackets after they're locked up in prison.
+- Traitor (Rated: 5)
+- Released in 2008
+- Summary: When straight arrow FBI agent Roy Clayton heads up the investigation into a dangerous international conspiracy, all clues seem to lead back to former U.S. Special Operations officer, Samir Horn.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 474, using [4, 8, 10, 50, 75, 100]
-- Answer: 10 solutions.
+- Target: 205, using [2, 2, 10, 25, 50, 100]
+- Answer: 46 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 100 - 50 ) x 75 + 10 ) / 8 + 4
+  Solution: 25 x 2 + 10 / 2 + 100 + 50
 
    </details>
 
