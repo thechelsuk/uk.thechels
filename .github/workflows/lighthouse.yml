@@ -10,7 +10,7 @@ jobs:
               uses: foo-software/lighthouse-check-action@master
               id: lighthouseCheck
               with:
-                  urls: "https://thechels.uk,htttps://thechels.uk/about,https://thechels.uk/daily"
+                  urls: "https://thechels.uk,https://thechels.uk/about,https://thechels.uk/daily"
                   gitAuthor: "${{ github.actor }}"
                   gitBranch: "${{ github.ref }}"
                   gitHubAccessToken: "${{ secrets.GITHUB_TOKEN }}"

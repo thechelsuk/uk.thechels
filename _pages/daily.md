@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 29 March 2025
+## On Thursday, 03 April 2025
 
-- The average temperature today is 2.99˚C,
-- With highs of 3.32˚C and lows of 2.6˚C,
-- It may feel like 1.89˚C with scattered clouds
+- The average temperature today is 5.85˚C,
+- With highs of 7.51˚C and lows of 4.82˚C,
+- It may feel like 5.13˚C with scattered clouds
 - The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 84%
-- The sun will rise at 05:49 and set at 18:36
+- The pressure is 1019hPa and humidity is 87%
+- The sun will rise at 05:38 and set at 18:44
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 389 days since the last change (2024-03-05)
+- It has been 394 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,24 +32,13 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Set exceptional standards.
+> Seek the best.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Blackburn Rovers U18 v Manchester City U18
-- Tottenham Hotspur U18 v West Ham United U18
-- Fulham v Crystal Palace
-- Hull City v Luton Town
-- Watford v Plymouth Argyle
-- Charlton Athletic v Huddersfield Town
-- Stockport County v Burton Albion
-- Accrington Stanley v Bradford City
-- Crewe Alexandra v Port Vale
-- Forest Green Rovers v Solihull Moors
-- Brighton & Hove Albion v Nottingham Forest
-- Southend United v Oldham Athletic
+- Chelsea v Tottenham Hotspur
 <!-- fixture_marker ends -->
 
 
@@ -57,7 +46,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 104.8949966430664 
+- VWRL.L : 105.41000366210938 
 
 <!-- stocks_marker ends -->
 
@@ -65,13 +54,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
- - Premier League announce split transfer window for summer 2025
- - Cole Palmer, Noni Madueke reportedly also back in training
- - Cucurella nominated for Premier League Goal of the Month award
- - Chelsea 3-0 (3-2 agg.) Manchester City, Women’s Champions League: Post-match reaction
- - WATCH: Mayra Ramírez makes it 3-0 Chelsea over Manchester City!
- - WATCH: Nathalie Björn doubles Chelsea’s lead over Manchester City! 2-0!
- - WATCH: Sandy Baltimore opens the scoring for Chelsea against Manchester City! 1-0!
+ - Chelsea vs. Tottenham Hotspur, Premier League: Preview, team news, how to watch
+ - Palmer, Jackson, Madueke set to return, but Lavia picks up small problem
+ - Premier League to introduce semi-automated offside technology for final weeks of season
+ - Chelsea-linked Liam Delap will have £40m release clause when Ipswich get relegated — report
+ - How should Chelsea line up against Spurs to begin the home stretch of the season?
+ - Chelsea announce £128.4m pre-tax profit for 2023-24 thanks to restructuring
 
 <!-- news_marker ends -->
 
@@ -79,14 +67,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - US stocks tumble as deepening consumer gloom raises stagflation fears
- - CoreWeave treads water in market debut after downsized IPO
- - ‘Almost comical’: the Trump team’s first national security crisis
- - CoreWeave chief Michael Intrator tests market faith in AI hype
- - Can Rachel Reeves start a retail investment revolution?
- - US tells French companies to comply with Trump’s anti-diversity order
- - Trump and Carney hold talks over US-Canada trade war tensions
- - UK carmakers back Starmer’s no-tariff approach to Trump
+ - Trump escalates global trade war with sweeping tariff blitz
+ - Global stocks tumble as investors move into haven assets
+ - Starmer relieved as Trump imposes 10% tariff on UK exports
+ - Trump’s tariffs in brief: universal levies and targeted retaliation
+ - Trump has made his move. Will he hold his nerve?
+ - Donald Trump’s beautiful trade war
+ - Private equity firms urge UK to rethink carried interest tax change
+ - Rolls-Royce in talks over UK subsidies for new engine development
 
 <!-- ftnews_marker ends -->
 
@@ -94,7 +82,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > whereness - noun: The condition or essence of being situated or existing in a specific place or location.
+ > windmill - noun: 1. A machine powered by wind. 2. An imagined enemy, opponent, or threat. verb tr., intr.: To move or to cause to move like a windmill.
 
 <!-- word_marker ends -->
 
@@ -102,7 +90,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> I keep the white-belt mentality that I can learn from anyone, anywhere, anytime. - Georges St-Pierre
+> You can never try to escape one danger without encountering another. Prudence consists in recognising the different dangers and in accepting the least bad as good. - Machiavelli
 
 <!-- quote_marker ends -->
 
@@ -115,20 +103,20 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Film Archive
 
 <!-- film_marker starts -->
-- Beethoven Ii (Rated: 1)
-- Released in 1993
-- Summary: No summary available
+- Satanic (Rated: 3)
+- Released in 2016
+- Summary: Four friends on their way to Coachella stop off in Los Angeles to tour true-crime occult sites, only to encounter a mysterious young runaway who puts them on a terrifying path to ultimate horror.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 224, using [5, 5, 6, 8, 9, 75]
-- Answer: 20 solutions.
+- Target: 939, using [2, 3, 6, 8, 9, 10]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: 75 x 9 / ( 8 - 5 ) + 5 - 6
+  Solution: ( 10 x 8 x 6 - 9 ) x 2 - 3
 
    </details>
 
