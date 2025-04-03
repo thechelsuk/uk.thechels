@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 02 April 2025
+## On Thursday, 03 April 2025
 
-- The average temperature today is 4.22˚C,
-- With highs of 5.54˚C and lows of 3.16˚C,
-- It may feel like 1.23˚C with clear sky
-- The wind speed is 3.47m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 84%
-- The sun will rise at 05:40 and set at 18:42
+- The average temperature today is 5.85˚C,
+- With highs of 7.51˚C and lows of 4.82˚C,
+- It may feel like 5.13˚C with scattered clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 87%
+- The sun will rise at 05:38 and set at 18:44
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 393 days since the last change (2024-03-05)
+- It has been 394 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,16 +32,13 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Use a common language.
+> Seek the best.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- AZ Alkmaar U19 v Manchester City U19
-- Derby County v Preston North End
-- Notts County v MK Dons
-- Liverpool v Everton
+- Chelsea v Tottenham Hotspur
 <!-- fixture_marker ends -->
 
 
@@ -49,7 +46,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 136.08470153808594 
+- VWRL.L : 105.41000366210938 
 
 <!-- stocks_marker ends -->
 
@@ -57,12 +54,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Chelsea vs. Tottenham Hotspur, Premier League: Preview, team news, how to watch
+ - Palmer, Jackson, Madueke set to return, but Lavia picks up small problem
  - Premier League to introduce semi-automated offside technology for final weeks of season
  - Chelsea-linked Liam Delap will have £40m release clause when Ipswich get relegated — report
  - How should Chelsea line up against Spurs to begin the home stretch of the season?
  - Chelsea announce £128.4m pre-tax profit for 2023-24 thanks to restructuring
- - BlueCo to put Strasbourg into ‘trust’ should they qualify for Champions League alongside Chelsea — report
- - FIFA considering playoff between LAFC and Club América for vacant Club World Cup spot — reports
 
 <!-- news_marker ends -->
 
@@ -70,14 +67,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Investors on edge as White House vows new tariffs ‘immediately’
- - How Trump is exploiting Big Law’s identity crisis
- - China senses an opportunity in Trump’s cultural revolution
- - How our social structures shape our DNA — and vice versa
- - Musk-backed judge loses Wisconsin race as liberals surge
- - Musk’s X asks Supreme Court to shield users from US government
- - US-UK deal on accounting qualifications stalls after disputes
- - Andreessen Horowitz in talks to help buy out TikTok’s Chinese owners
+ - Trump escalates global trade war with sweeping tariff blitz
+ - Global stocks tumble as investors move into haven assets
+ - Starmer relieved as Trump imposes 10% tariff on UK exports
+ - Trump’s tariffs in brief: universal levies and targeted retaliation
+ - Trump has made his move. Will he hold his nerve?
+ - Donald Trump’s beautiful trade war
+ - Private equity firms urge UK to rethink carried interest tax change
+ - Rolls-Royce in talks over UK subsidies for new engine development
 
 <!-- ftnews_marker ends -->
 
@@ -85,7 +82,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > parish pump - noun: A water pump shared by people within a small area. adjective: Of local, often trivial, interest or importance.
+ > windmill - noun: 1. A machine powered by wind. 2. An imagined enemy, opponent, or threat. verb tr., intr.: To move or to cause to move like a windmill.
 
 <!-- word_marker ends -->
 
@@ -93,33 +90,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Failure is simply the opportunity to begin again, this time more intelligently - Henry Ford
+> You can never try to escape one danger without encountering another. Prudence consists in recognising the different dangers and in accepting the least bad as good. - Machiavelli
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Disconnect from desire
+> Twist the spine
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Traitor (Rated: 5)
-- Released in 2008
-- Summary: When straight arrow FBI agent Roy Clayton heads up the investigation into a dangerous international conspiracy, all clues seem to lead back to former U.S. Special Operations officer, Samir Horn.
+- Satanic (Rated: 3)
+- Released in 2016
+- Summary: Four friends on their way to Coachella stop off in Los Angeles to tour true-crime occult sites, only to encounter a mysterious young runaway who puts them on a terrifying path to ultimate horror.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 205, using [2, 2, 10, 25, 50, 100]
-- Answer: 46 solutions.
+- Target: 939, using [2, 3, 6, 8, 9, 10]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: 25 x 2 + 10 / 2 + 100 + 50
+  Solution: ( 10 x 8 x 6 - 9 ) x 2 - 3
 
    </details>
 
