@@ -9,14 +9,12 @@ EMAIL;type=INTERNET;type=HOME;type=pref:ensemblist.uk@gmail.com
 EMAIL;type=INTERNET;type=WORK:hello@thechels.uk
 TEL;type=OTHER;type=VOICE;type=pref:+44 7310 138825
 X-SOCIALPROFILE;type=WhatsApp:x-apple:+44%C2%A07310%C2%A0138825
-item1.URL;type=pref:https://the-ensemblist.uk
+item1.URL;type=pref:https://thechels.uk
 item1.X-ABLabel:Company Website
 item2.URL:https://ensemblist.substack.com
 item2.X-ABLabel:Company Website
-item3.URL:https://shop.the-ensemblist.uk
+item3.URL:https://shop.thechels.uk
 item3.X-ABLabel:Company Website
-item4.URL:https://thechels.uk
-item4.X-ABLabel:_$!<HomePage>!$_
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAASABIAAD/4QBARXhpZgAATU0AKgAA
  AAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAEAKADAAQAAAABAAAEAAAAAAD/7QA4UG
  hvdG9zaG9wIDMuMAA4QklNBAQAAAAAAAA4QklNBCUAAAAAABDUHYzZjwCyBOmACZjs+EJ+/+IC
