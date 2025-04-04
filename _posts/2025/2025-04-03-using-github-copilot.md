@@ -6,7 +6,7 @@ title: Using GitHub CoPilot
 
 ---
 
-I've been doing a bit of small scale personal development over recent weeks including building out some simple one-use case tools. I've found CoPilot and AI generally brilliant for this work. 
+I've been doing a bit of small scale personal development over recent weeks including building out some simple one-use case tools. I've found CoPilot and AI generally brilliant for this work.
 
 I'm at a point in my career where I've been professionally hands-off for about 7 years and I'm a bit rusty in writing code. What I can do however, is read code and understand it and spot issues.
 
