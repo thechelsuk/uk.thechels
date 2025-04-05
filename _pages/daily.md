@@ -7,40 +7,52 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 04 April 2025
+## On Saturday, 05 April 2025
 
-- The average temperature today is 10.33˚C,
-- With highs of 11.1˚C and lows of 9.26˚C,
-- It may feel like 9.43˚C with overcast clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 77%
-- The sun will rise at 05:36 and set at 18:46
+- The average temperature today is 4.77˚C,
+- With highs of 5.55˚C and lows of 4.26˚C,
+- It may feel like 3.33˚C with clear sky
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1020hPa and humidity is 84%
+- The sun will rise at 05:33 and set at 18:47
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 395 days since the last change (2024-03-05)
+- It has been 396 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Water the plants
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Focus on user needs.
+> Move fast.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- West Ham United U21 v Crystal Palace U21
-- Blackburn Rovers v Middlesbrough
-- England Women v Belgium Women
+- West Brom U18 v Crystal Palace U18
+- Manchester United U18 v Leeds United U18
+- Wolves U18 v Manchester City U18
+- Coventry City v Burnley
+- Luton Town v Leeds United
+- West Brom v Sunderland
+- Reading v Wycombe Wanderers
+- Wrexham v Burton Albion
+- Cheltenham Town v Doncaster Rovers
+- Walsall v Port Vale
+- AFC Fylde v York City
+- Everton v Arsenal
+- Eastleigh v FC Halifax Town
+- Aston Villa v Nottingham Forest
 <!-- fixture_marker ends -->
 
 
@@ -48,7 +60,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 101.05000305175781 
+- VWRL.L : 97.36000061035156 
 
 <!-- stocks_marker ends -->
 
@@ -56,12 +68,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Chelsea 1-0 Spurs, Player Ratings: A goal that wasn’t, a performance that was
+ - Chelsea waiting on latest Fofana, Lavia injuries
+ - Maresca very happy to ‘win in a dirty way’ against Spurs
  - Chelsea 1-0 Tottenham Hotspur, Premier League: Post-match reaction, ratings
  - WATCH: Enzo Fernández opens the scoring for Chelsea against Tottenham! 1-0!
  - Chelsea vs. Tottenham Hotspur, Premier League: Live blog; highlights
  - The people’s choice against Spurs: Reinforcements have arrived
- - Chelsea vs. Tottenham Hotspur, Premier League: Preview, team news, how to watch
- - Palmer, Jackson, Madueke set to return, but Lavia picks up small problem
 
 <!-- news_marker ends -->
 
@@ -69,14 +82,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Trump’s sweeping tariffs ignite $2.5tn rout on Wall Street
- - Global equity sell-off deepens as investors rotate into haven assets
- - Trump triggers race to offer US concessions before tariffs hit
- - Europe braces for flood of Chinese goods after US tariffs
- - America’s astonishing act of self-harm
- - How to make sense of Donald Trump’s tariffs
- - Trump fires National Security Agency director
- - Trump tariffs open rift among top Republicans in Washington
+ - US stocks shed $5.4tn in two days as Trump’s tariffs stoke recession fears
+ - Meloni under pressure to back EU ‘bazooka’ against Trump tariffs
+ - Canada and Mexico leaders take credit for dodging latest US tariffs
+ - Trump’s aggressive push to roll back globalisation
+ - In charts: winners and losers from Trump’s new tariffs
+ - Direct economics — the great Maga experiment
+ - UK pushes back on Trump’s claim Britain is ‘happy’ with 10% tariff
+ - Cruz says Republicans face midterms ‘bloodbath’ if tariffs trigger recession
 
 <!-- ftnews_marker ends -->
 
@@ -92,33 +105,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Do the planning, but throw out the plans. - Mary Poppendieck
+> I start with the premise that the function of leadership is to produce more leaders, not more followers. - Ralph Nader
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Tidy up
+> Simple subtraction
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Ghostbusters ii (Rated: 2)
-- Released in 1989
-- Summary: The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.
+- The Usual Suspects (Rated: 5)
+- Released in 1995
+- Summary: The sole survivor of a pier shoot-out tells the story of how a notorious criminal influenced the events that began with five criminals meeting in a seemingly random police lineup.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 981, using [2, 6, 6, 9, 75, 100]
-- Answer: 12 solutions.
+- Target: 851, using [4, 7, 8, 8, 25, 100]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 2 - 75 ) x 6 x 6 + 9
+  Solution: ( 100 + 25 - 8 ) x 7 + 8 x 4
 
    </details>
 
