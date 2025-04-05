@@ -58,7 +58,7 @@ The key points you need to get across to the other person are that they need to:
 4. Ask for feedback
 5. Confront themselves - work out what they really are good at, accept that we all have limitations, be honest with themselves about what they really want, and hear what other people say.
 
-## Who are we doing?
+## How are we doing?
 
 The appraisal.
 
@@ -68,4 +68,3 @@ The appraisal.
 4. Ask - them to consider your suggestions
 5. Coach (see conversation 1)
 6. Build - their confidence in future success.
- 
