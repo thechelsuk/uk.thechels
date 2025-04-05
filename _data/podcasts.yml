@@ -4,8 +4,6 @@
   name: Thoughtworks Technology Podcast
 - link: https://access.acast.com/rss/ec380acc-fe13-46a0-991f-a1e508d126f8/default
   name: Economist Podcasts
-- link: https://softwareengineeringdaily.com/feed/podcast
-  name: Software Engineering Daily
 - link: https://feeds.buzzsprout.com/1411126.rss
   name: Maintenance Phase
 - link: https://feeds.transistor.fm/primary-technology
@@ -110,8 +108,6 @@
   name: Sharp Tech with Ben Thompson
 - link: https://feeds.megaphone.fm/TPG1669083856
   name: Money Rehab with Nicole Lapin
-- link: https://feeds.megaphone.fm/TNM3035277142
-  name: A Productive Conversation
 - link: https://feed.podbean.com/productfaculty/feed.xml
   name: CPO Mastery Podcast
 - link: https://anchor.fm/s/45580f58/podcast/rss
@@ -360,8 +356,6 @@
   name: Anatomy of a Leader with Maria Hvorostovsky
 - link: https://feeds.simplecast.com/wgl4xEgL
   name: EconTalk
-- link: https://workinggeniuspodcast.libsyn.com/rss
-  name: The Working Genius Podcast with Patrick Lencioni
 - link: https://feeds.megaphone.fm/recodedecode
   name: Decoder with Nilay Patel
 - link: https://feeds.megaphone.fm/vergecast
@@ -394,8 +388,6 @@
   name: The Vernon Richard Show
 - link: https://www.effectiveem.com/feed/podcast/
   name: Effective Engineering Manager
-- link: https://thectoadvisor.com/feed/podcast/
-  name: The CTO Advisor
 - link: https://media.rss.com/theengineeringroom/feed.xml
   name: The Engineering Room with Dave Farley
 - link: https://feeds.libsyn.com/83359/rss
@@ -419,7 +411,7 @@
 - link: https://feeds.acast.com/public/shows/67585c62102e6d4448d44969
   name: TED Tech
 - link: https://feeds.buzzsprout.com/657931.rss
-  name: Agile Coaching Network
+  name: Agile Community Network
 - link: https://rss.art19.com/culture-first
   name: Culture First with Damon Klotz
 - link: https://changelog.com/master/feed
@@ -492,7 +484,25 @@
   name: The Book Club Review
 - link: https://audioboom.com/channels/5146200.rss
   name: In The News This Week (the Have I Got News For You podcast)
-- link: https://feeds.simplecast.com/snMMEVFU
+- link: https://feeds.transistor.fm/a-productive-conversation
+  name: A Productive Conversation
+- link: https://feed.hyperfixedpod.com/
+  name: Hyperfixed
+- link: https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053
   name: Pod Save the UK
+- link: https://feeds.megaphone.fm/ignukpod
+  name: IGN UK Podcast
+- link: https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/cf0c25ad-cf01-4da5-ae1c-b0fc015f790e/53ed270b-7147-4f70-81c2-b0fc015fe4ed/podcast.rss
+  name: Better Offline
+- link: https://talkpython.fm/episodes/rss
+  name: Talk Python To Me
+- link: https://feeds.transistor.fm/simply-cyber
+  name: Daily Cyber Threat Brief
 - link: https://feeds.transistor.fm/oxide-and-friends
   name: Oxide and Friends
+- link: https://feeds.captivate.fm/workinggeniuspodcast/
+  name: The Working Genius Podcast with Patrick Lencioni
+- link: https://thectoadvisor.com/feed/podcast/the-cto-advisor/
+  name: The CTO Advisor
+- link: https://softwareengineeringdaily.com/feed/podcast/
+  name: Software Engineering Daily
