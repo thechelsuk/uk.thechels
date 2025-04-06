@@ -7,52 +7,39 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 05 April 2025
+## On Sunday, 06 April 2025
 
-- The average temperature today is 4.77˚C,
-- With highs of 5.55˚C and lows of 4.26˚C,
-- It may feel like 3.33˚C with clear sky
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 84%
-- The sun will rise at 05:33 and set at 18:47
+- The average temperature today is 3.68˚C,
+- With highs of 4.18˚C and lows of 3.15˚C,
+- It may feel like 3.68˚C with few clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 86%
+- The sun will rise at 05:31 and set at 18:49
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 396 days since the last change (2024-03-05)
+- It has been 397 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Water the plants
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Move fast.
+> Bias towards action.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- West Brom U18 v Crystal Palace U18
-- Manchester United U18 v Leeds United U18
-- Wolves U18 v Manchester City U18
-- Coventry City v Burnley
-- Luton Town v Leeds United
-- West Brom v Sunderland
-- Reading v Wycombe Wanderers
-- Wrexham v Burton Albion
-- Cheltenham Town v Doncaster Rovers
-- Walsall v Port Vale
-- AFC Fylde v York City
-- Everton v Arsenal
-- Eastleigh v FC Halifax Town
-- Aston Villa v Nottingham Forest
+- Fulham v Liverpool
+- Manchester United v Manchester City
 <!-- fixture_marker ends -->
 
 
@@ -68,13 +55,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - The people’s choice against Brentford: Madueke to start; Sánchez back in favor
+ - Official: Wesley Fofana has undergone successful hamstring surgery
+ - Brentford vs. Chelsea, Premier League: Preview, team news, how to watch
+ - How should Chelsea line up against Brentford in a tough test away from home?
  - Chelsea 1-0 Spurs, Player Ratings: A goal that wasn’t, a performance that was
  - Chelsea waiting on latest Fofana, Lavia injuries
  - Maresca very happy to ‘win in a dirty way’ against Spurs
- - Chelsea 1-0 Tottenham Hotspur, Premier League: Post-match reaction, ratings
- - WATCH: Enzo Fernández opens the scoring for Chelsea against Tottenham! 1-0!
- - Chelsea vs. Tottenham Hotspur, Premier League: Live blog; highlights
- - The people’s choice against Spurs: Reinforcements have arrived
 
 <!-- news_marker ends -->
 
@@ -82,14 +69,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - US stocks shed $5.4tn in two days as Trump’s tariffs stoke recession fears
- - Meloni under pressure to back EU ‘bazooka’ against Trump tariffs
- - Canada and Mexico leaders take credit for dodging latest US tariffs
- - Trump’s aggressive push to roll back globalisation
- - In charts: winners and losers from Trump’s new tariffs
- - Direct economics — the great Maga experiment
- - UK pushes back on Trump’s claim Britain is ‘happy’ with 10% tariff
- - Cruz says Republicans face midterms ‘bloodbath’ if tariffs trigger recession
+ - Tariffs spark US junk bond sell-off as recession risk mounts
+ - A tariff crisis is exactly the right time to reform the WTO
+ - The business lessons to draw from Trump’s dealmaking
+ - Trump and the long history of ‘sticky’ US tariffs
+ - Nike’s ‘Made in Vietnam’ trainers run into Trump tariff wall
+ - The battle for the global payments system is under way
+ - UK wealth managers say American clients are moving money to Britain
+ - Tens of thousands join protests against Donald Trump and Elon Musk
 
 <!-- ftnews_marker ends -->
 
@@ -105,33 +92,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> I start with the premise that the function of leadership is to produce more leaders, not more followers. - Ralph Nader
+> Agile is a philosophy, not a methodology - Paul Bennett
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Simple subtraction
+> Disconnect from desire
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Usual Suspects (Rated: 5)
-- Released in 1995
-- Summary: The sole survivor of a pier shoot-out tells the story of how a notorious criminal influenced the events that began with five criminals meeting in a seemingly random police lineup.
+- Dawn Of The Dead (Rated: 5)
+- Released in 1978
+- Summary: A nurse, a policeman, a young married couple, a salesman and other survivors of a worldwide plague that is producing aggressive, flesh-eating zombies, take refuge in a mega Midwestern shopping mall.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 851, using [4, 7, 8, 8, 25, 100]
-- Answer: 3 solutions.
+- Target: 736, using [4, 5, 10, 25, 50, 100]
+- Answer: 6 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 25 - 8 ) x 7 + 8 x 4
+  Solution: ( 100 + 50 ) x 25 / 5 - 10 - 4
 
    </details>
 
