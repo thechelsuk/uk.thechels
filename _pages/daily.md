@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 06 April 2025
+## On Monday, 07 April 2025
 
-- The average temperature today is 3.68˚C,
-- With highs of 4.18˚C and lows of 3.15˚C,
-- It may feel like 3.68˚C with few clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 86%
-- The sun will rise at 05:31 and set at 18:49
+- The average temperature today is 2.54˚C,
+- With highs of 3.32˚C and lows of 1.5˚C,
+- It may feel like 0.06˚C with clear sky
+- The wind speed is 2.42m/s and visibility is 10000m
+- The pressure is 1026hPa and humidity is 81%
+- The sun will rise at 05:29 and set at 18:51
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 397 days since the last change (2024-03-05)
+- It has been 398 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,14 +32,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Bias towards action.
+> Inspire others
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Fulham v Liverpool
-- Manchester United v Manchester City
+- Reading U21 v Manchester United U21
+- Leicester City v Newcastle United
 <!-- fixture_marker ends -->
 
 
@@ -55,13 +55,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - ‘The only thing missing’ against Brentford was the most important thing
+ - Brentford 0-0 Chelsea, Premier League: Post-match reaction, ratings
+ - Brentford vs. Chelsea, Premier League: Live blog; highlights
+ - Chelsea, UEFA ‘in talks’ over financial settlement for FFP breach — reports
  - The people’s choice against Brentford: Madueke to start; Sánchez back in favor
  - Official: Wesley Fofana has undergone successful hamstring surgery
  - Brentford vs. Chelsea, Premier League: Preview, team news, how to watch
- - How should Chelsea line up against Brentford in a tough test away from home?
- - Chelsea 1-0 Spurs, Player Ratings: A goal that wasn’t, a performance that was
- - Chelsea waiting on latest Fofana, Lavia injuries
- - Maresca very happy to ‘win in a dirty way’ against Spurs
 
 <!-- news_marker ends -->
 
@@ -69,14 +69,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Tariffs spark US junk bond sell-off as recession risk mounts
- - A tariff crisis is exactly the right time to reform the WTO
- - The business lessons to draw from Trump’s dealmaking
- - Trump and the long history of ‘sticky’ US tariffs
- - Nike’s ‘Made in Vietnam’ trainers run into Trump tariff wall
- - The battle for the global payments system is under way
- - UK wealth managers say American clients are moving money to Britain
- - Tens of thousands join protests against Donald Trump and Elon Musk
+ - Global stocks tumble as Trump offers no respite from tariffs
+ - Chinese stocks plunge as fears of global trade war mount
+ - Big investors look to sell out of private equity after market rout
+ - China reserves firepower for Trump trade battle
+ - The Fed shouldn’t try to save the world from Trump tariffs
+ - Britain to dilute rules for smaller private equity firms and hedge funds
+ - Hegseth to visit Panama as US raises pressure over canal
+ - Trump tariffs risk large euro-area ‘demand shock’, central banker warns
 
 <!-- ftnews_marker ends -->
 
@@ -84,7 +84,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > Swiss Army knife - noun: 1. A pocketknife, with multiple blades and other tools such as scissors, saw, corkscrew, can opener, etc. 2. A person or object with many diverse skills or functions.
+ > alsatia - noun: 1. A sanctuary. 2. A lawless place.
 
 <!-- word_marker ends -->
 
@@ -92,33 +92,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Agile is a philosophy, not a methodology - Paul Bennett
+> Simplicity is the ultimate sophistication - Leonardo Da Vinci
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Disconnect from desire
+> Courage!
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Dawn Of The Dead (Rated: 5)
-- Released in 1978
-- Summary: A nurse, a policeman, a young married couple, a salesman and other survivors of a worldwide plague that is producing aggressive, flesh-eating zombies, take refuge in a mega Midwestern shopping mall.
+- Taken 2 (Rated: 4)
+- Released in 2012
+- Summary: In Istanbul, retired CIA operative Bryan Mills and his wife are taken hostage by the father of a kidnapper Mills killed while rescuing his daughter.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 736, using [4, 5, 10, 25, 50, 100]
-- Answer: 6 solutions.
+- Target: 751, using [2, 2, 8, 8, 25, 75]
+- Answer: 1 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 50 ) x 25 / 5 - 10 - 4
+  Solution: ( 8 x 2 + 75 ) x 8 + 25 - 2
 
    </details>
 
