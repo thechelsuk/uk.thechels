@@ -7,39 +7,59 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 07 April 2025
+## On Tuesday, 08 April 2025
 
-- The average temperature today is 2.54˚C,
-- With highs of 3.32˚C and lows of 1.5˚C,
-- It may feel like 0.06˚C with clear sky
-- The wind speed is 2.42m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 81%
-- The sun will rise at 05:29 and set at 18:51
+- The average temperature today is 3.12˚C,
+- With highs of 4.42˚C and lows of 1.4˚C,
+- It may feel like 1.9˚C with clear sky
+- The wind speed is 1.43m/s and visibility is 10000m
+- The pressure is 1027hPa and humidity is 76%
+- The sun will rise at 05:26 and set at 18:52
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 398 days since the last change (2024-03-05)
+- It has been 399 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Inspire others
+> Bias towards action.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Reading U21 v Manchester United U21
-- Leicester City v Newcastle United
+- Belgium Women v England Women
+- Blackburn Rovers v Sheffield Wednesday
+- Bristol City v West Brom
+- Derby County v Burnley
+- Norwich City v Sunderland
+- Preston North End v Cardiff City
+- Sheffield United v Millwall
+- Stoke City v Luton Town
+- Watford v Hull City
+- Bolton Wanderers v Rotherham United
+- Exeter City v Wigan Athletic
+- Huddersfield Town v Wycombe Wanderers
+- Mansfield Town v Leyton Orient
+- Peterborough United v Birmingham City
+- Shrewsbury Town v Reading
+- Aldershot Town v Boston United
+- Oldham Athletic v Woking
+- Sutton United v Rochdale
+- Middlesbrough v Leeds United
+- Arsenal v Real Madrid
 <!-- fixture_marker ends -->
 
 
@@ -47,7 +67,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 97.36000061035156 
+- VWRL.L : 95.13999938964844 
 
 <!-- stocks_marker ends -->
 
@@ -55,13 +75,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Brentford 0-0 Chelsea, Player Ratings: Not much credit for this clean sheet
  - ‘The only thing missing’ against Brentford was the most important thing
  - Brentford 0-0 Chelsea, Premier League: Post-match reaction, ratings
  - Brentford vs. Chelsea, Premier League: Live blog; highlights
  - Chelsea, UEFA ‘in talks’ over financial settlement for FFP breach — reports
  - The people’s choice against Brentford: Madueke to start; Sánchez back in favor
- - Official: Wesley Fofana has undergone successful hamstring surgery
- - Brentford vs. Chelsea, Premier League: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -69,14 +88,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Global stocks tumble as Trump offers no respite from tariffs
- - Chinese stocks plunge as fears of global trade war mount
- - Big investors look to sell out of private equity after market rout
- - China reserves firepower for Trump trade battle
- - The Fed shouldn’t try to save the world from Trump tariffs
- - Britain to dilute rules for smaller private equity firms and hedge funds
- - Hegseth to visit Panama as US raises pressure over canal
- - Trump tariffs risk large euro-area ‘demand shock’, central banker warns
+ - China vows ‘fight to the end’ after Trump threatens extra 50% tariff
+ - Powell’s tariff dilemma: defend the economy or contain inflation
+ - China offers first hint of devaluation with weak renminbi fix
+ - Global stock markets poised to regain ground
+ - Can companies exploit differences between Trump’s tariff rates?
+ - Donald Trump’s tariffs will fix a broken system
+ - Prices for used Teslas drop in US and Britain
+ - US tariffs threaten almost $2tn of investment pledges by global companies
 
 <!-- ftnews_marker ends -->
 
@@ -84,7 +103,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > alsatia - noun: 1. A sanctuary. 2. A lawless place.
+ > Carthaginian peace - noun: Peace or settlement in which very harsh terms are imposed on the defeated side.
 
 <!-- word_marker ends -->
 
@@ -92,33 +111,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Simplicity is the ultimate sophistication - Leonardo Da Vinci
+> The very essence of leadership is that you have to have vision. You can't blow an uncertain trumpet. - Theodore M. Hesburgh
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Courage!
+> Look closely at the most embarrassing details and amplify them
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Taken 2 (Rated: 4)
-- Released in 2012
-- Summary: In Istanbul, retired CIA operative Bryan Mills and his wife are taken hostage by the father of a kidnapper Mills killed while rescuing his daughter.
+- Hoshots! (Rated: 2)
+- Released in 1991
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 751, using [2, 2, 8, 8, 25, 75]
-- Answer: 1 solutions.
+- Target: 622, using [4, 6, 10, 25, 50, 100]
+- Answer: 5 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 8 x 2 + 75 ) x 8 + 25 - 2
+  Solution: ( 50 / 25 + 100 ) x 6 + 10
 
    </details>
 
