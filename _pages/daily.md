@@ -7,59 +7,41 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 08 April 2025
+## On Wednesday, 09 April 2025
 
-- The average temperature today is 3.12˚C,
-- With highs of 4.42˚C and lows of 1.4˚C,
-- It may feel like 1.9˚C with clear sky
-- The wind speed is 1.43m/s and visibility is 10000m
-- The pressure is 1027hPa and humidity is 76%
-- The sun will rise at 05:26 and set at 18:52
+- The average temperature today is 1.37˚C,
+- With highs of 2.77˚C and lows of 0.38˚C,
+- It may feel like 1.37˚C with clear sky
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1028hPa and humidity is 89%
+- The sun will rise at 05:24 and set at 18:54
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 399 days since the last change (2024-03-05)
+- It has been 400 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Bias towards action.
+> Crossing the river by feeling the stones.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Belgium Women v England Women
-- Blackburn Rovers v Sheffield Wednesday
-- Bristol City v West Brom
-- Derby County v Burnley
-- Norwich City v Sunderland
-- Preston North End v Cardiff City
-- Sheffield United v Millwall
-- Stoke City v Luton Town
-- Watford v Hull City
-- Bolton Wanderers v Rotherham United
-- Exeter City v Wigan Athletic
-- Huddersfield Town v Wycombe Wanderers
-- Mansfield Town v Leyton Orient
-- Peterborough United v Birmingham City
-- Shrewsbury Town v Reading
-- Aldershot Town v Boston United
-- Oldham Athletic v Woking
-- Sutton United v Rochdale
-- Middlesbrough v Leeds United
-- Arsenal v Real Madrid
+- Oxford United v QPR
+- Swansea City v Plymouth Argyle
+- Coventry City v Portsmouth
+- PSG v Aston Villa
 <!-- fixture_marker ends -->
 
 
@@ -67,7 +49,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 95.13999938964844 
+- VWRL.L : 97.87999725341797 
 
 <!-- stocks_marker ends -->
 
@@ -75,12 +57,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - How should Chelsea line up in the roiling cauldron of Legia Warsaw?
+ - Official: Premier League top-five will qualify for 2025-26 Champions League
+ - Badiashile: Chelsea ‘ready to meet’ UEFA Conference League expectations
  - Brentford 0-0 Chelsea, Player Ratings: Not much credit for this clean sheet
  - ‘The only thing missing’ against Brentford was the most important thing
  - Brentford 0-0 Chelsea, Premier League: Post-match reaction, ratings
- - Brentford vs. Chelsea, Premier League: Live blog; highlights
- - Chelsea, UEFA ‘in talks’ over financial settlement for FFP breach — reports
- - The people’s choice against Brentford: Madueke to start; Sánchez back in favor
 
 <!-- news_marker ends -->
 
@@ -88,14 +70,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - China vows ‘fight to the end’ after Trump threatens extra 50% tariff
- - Powell’s tariff dilemma: defend the economy or contain inflation
- - China offers first hint of devaluation with weak renminbi fix
- - Global stock markets poised to regain ground
- - Can companies exploit differences between Trump’s tariff rates?
- - Donald Trump’s tariffs will fix a broken system
- - Prices for used Teslas drop in US and Britain
- - US tariffs threaten almost $2tn of investment pledges by global companies
+ - Trump’s sweeping tariffs take effect
+ - Companies’ rush to promise new US factories threatened by Trump tariff chaos
+ - The US trade demands that go far beyond tariffs
+ - Treasuries hit as market turmoil intensifies
+ - It falls to Congress to unravel Trump’s reckless tariff plan
+ - Falling share prices test bro-sphere’s bromance with Trump
+ - US tariffs cause car import pile-up at American ports
+ - Musk’s Starlink in new Canada spat over access to subsidies
 
 <!-- ftnews_marker ends -->
 
@@ -103,7 +85,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > Carthaginian peace - noun: Peace or settlement in which very harsh terms are imposed on the defeated side.
+ > Cathay - noun: 1. A remote and exotic land, steeped in mystery, richness, and bliss. 2. A literary name for China.
 
 <!-- word_marker ends -->
 
@@ -111,33 +93,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The very essence of leadership is that you have to have vision. You can't blow an uncertain trumpet. - Theodore M. Hesburgh
+> Management is doing things right; leadership is doing the right things - Peter F. Drucker
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Look closely at the most embarrassing details and amplify them
+> Water
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Hoshots! (Rated: 2)
-- Released in 1991
+- Die Hard ii (Rated: 3)
+- Released in 1990
 - Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 622, using [4, 6, 10, 25, 50, 100]
-- Answer: 5 solutions.
+- Target: 585, using [1, 1, 4, 6, 50, 75]
+- Answer: 1 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 / 25 + 100 ) x 6 + 10
+  Solution: ( 50 + 1 ) x ( 6 + 4 ) + 75
 
    </details>
 
