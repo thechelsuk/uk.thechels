@@ -7,42 +7,40 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 10 April 2025
+## On Friday, 11 April 2025
 
-- The average temperature today is 1.85˚C,
-- With highs of 3.31˚C and lows of 0.38˚C,
-- It may feel like 1.85˚C with few clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1032hPa and humidity is 88%
-- The sun will rise at 05:22 and set at 18:56
+- The average temperature today is 4.43˚C,
+- With highs of 6.09˚C and lows of 3.07˚C,
+- It may feel like 4.43˚C with clear sky
+- The wind speed is 0.52m/s and visibility is 10000m
+- The pressure is 1024hPa and humidity is 88%
+- The sun will rise at 05:20 and set at 18:58
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 401 days since the last change (2024-03-05)
+- It has been 402 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Farmers Market in town
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Bias towards action.
+> Set exceptional standards.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Legia Warsaw v Chelsea
-- Watford U18 v Manchester City U18
-- Crewe Alexandra v Cheltenham Town
-- Lyon v Manchester United
-- Tottenham Hotspur v Eintracht Frankfurt
+- Notts County v Salford City
+- Burnley v Norwich City
 <!-- fixture_marker ends -->
 
 
@@ -50,7 +48,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 94.75499725341797 
+- VWRL.L : 98.0 
 
 <!-- stocks_marker ends -->
 
@@ -58,11 +56,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
- - Legia Warsaw vs. Chelsea, UEFA Conference League: Preview, team news, how to watch
- - How should Chelsea line up in the roiling cauldron of Legia Warsaw?
- - Official: Premier League top-five will qualify for 2025-26 Champions League
- - Badiashile: Chelsea ‘ready to meet’ UEFA Conference League expectations
- - Brentford 0-0 Chelsea, Player Ratings: Not much credit for this clean sheet
+ - Maresca hails Chelsea’s ‘professional performance’ against Legia Warsaw
+ - Legia Warsaw 0-3 Chelsea, UEFA Conference League: Post-match reaction, ratings
+ - WATCH: Noni Madueke adds a third for Chelsea against Legia Warsaw! 3-0!
+ - WATCH: Noni Madueke doubles Chelsea’s lead over Legia Warsaw! 2-0!
+ - WATCH: Tyrique George first ever Chelsea goal opens the scoring against Legia! 1-0!
+ - Legia Warsaw vs. Chelsea, Conference League: Live blog; highlights
+ - The people’s choice against Legia Warsaw: Full strength, full speed ahead
 
 <!-- news_marker ends -->
 
@@ -70,14 +70,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Global stocks soar as Trump backs down from trade war
- - China’s renminbi weakens to lowest level since 2007
- - Why did Donald Trump buckle?
- - Trump’s tariff pause: what does it mean for global trade?
- - Trump’s Wall Street tariff rollercoaster reaches Main Street
- - With markets and tariffs, the only certainty is uncertainty
- - Keir Starmer shifts focus in US trade talks to cutting 25% tariff on UK cars
- - Doge’s job cuts at US traffic safety regulator hit self-drive experts
+ - Dollar and Treasuries sell off as Trump’s China tariffs spook investors
+ - Gold hits all-time high as investors seek haven assets
+ - US consumers warned of higher prices from tariffs within weeks
+ - EU could tax Big Tech if Trump trade talks fail, says von der Leyen
+ - Trump tests the American attitude to pain
+ - The US would be better off without the global dollar
+ - Top Chinese general removed in Xi’s latest purge
+ - Pentagon cuts $4bn in contracts with Deloitte, Accenture and Booz Allen
 
 <!-- ftnews_marker ends -->
 
@@ -85,7 +85,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > siberianize - verb tr.: To send to a remote location as a form of punishment.
+ > Botany Bay - noun: A place of exile, punishment, or hard labor.
 
 <!-- word_marker ends -->
 
@@ -93,33 +93,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> ScrumMasters aren't just an additional expense; they create high-performing teams. - Zuzana Sochova
+> Stable Velocity. Sustainable Pace - Mike Cottmeyer
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Do the words need changing?
+> Look closely at the most embarrassing details and amplify them
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- From Hell (Rated: 10)
-- Released in 2001
-- Summary: After five ritualistic murders are committed in 1888 London, Inspector Abberline's assignment is to investigate the "Jack the Ripper" murders. Along with a string of mutilated prostitutes, he uncovers a conspiracy involving the go...
+- The Full Monty (Rated: 4)
+- Released in 1997
+- Summary: Six unemployed steel workers form a male striptease act. The women cheer them on to go for "the full monty" - total nudity.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 340, using [5, 5, 7, 10, 25, 100]
-- Answer: 76 solutions.
+- Target: 899, using [2, 5, 6, 25, 50, 75]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 25 + 7 - 10 - 5 ) x 100 / 5
+  Solution: ( 75 x 6 + 50 / 25 ) x 2 - 5
 
    </details>
 
