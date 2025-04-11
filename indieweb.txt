@@ -1,0 +1,18 @@
+/* https://indieweb.org/indieweb.txt */
+
+/* Tools */
+  A list of tools my site leverages to implement IndieWeb functionality.
+  - Cloudflare: https://cloudflare.com
+  - GitHub Pages: https://pages.github.com
+  - Jekyll: https://jekyllrb.com
+  - Site architecture: https://thechels.uk/architecture
+
+
+/* Reference Information */
+  - handle: TheChels.uk
+  - name: Mat
+  - font-color: #04100d
+  - background-color: #f5f4f4
+  - html-reference: <span style="color:#005ca3">TheChels.uk</span>
+  - contact:
+    - email: indie@thechels.uk
