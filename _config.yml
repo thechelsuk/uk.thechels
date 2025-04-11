@@ -113,7 +113,7 @@ navigation_slashes:
     title: "Verify"
   - link: "https://www.amazon.co.uk/hz/wishlist/ls/39EDV7CSPVYZT"
     title: "Wish &raquo;"
-  - link: "indieweb.txt"
+  - link: "/indieweb.txt"
     title: "IndieWeb"
   - link: "/contributing.md"
     title: "Contributing"
