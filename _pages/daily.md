@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 12 April 2025
+## On Sunday, 13 April 2025
 
-- The average temperature today is 7.02˚C,
-- With highs of 8.71˚C and lows of 6.96˚C,
-- It may feel like 7.02˚C with few clouds
+- The average temperature today is 7.45˚C,
+- With highs of 8.32˚C and lows of 6.96˚C,
+- It may feel like 7.45˚C with scattered clouds
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 75%
-- The sun will rise at 05:18 and set at 18:59
+- The pressure is 1001hPa and humidity is 84%
+- The sun will rise at 05:15 and set at 19:01
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 403 days since the last change (2024-03-05)
+- It has been 404 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,23 +32,16 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Inspire others
+> Use appropriate tools.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Chelsea Women v Liverpool Women
-- Leeds United v Preston North End
-- Plymouth Argyle v Sheffield United
-- Wigan Athletic v Wrexham
-- Wycombe Wanderers v Stevenage
-- Doncaster Rovers v AFC Wimbledon
-- Swindon Town v Bradford City
-- Barnet v Wealdstone
-- Manchester City v Crystal Palace
-- Forest Green Rovers v Gateshead
-- Arsenal v Brentford
+- Liverpool v West Ham United
+- Birmingham City v Peterborough United
+- Manchester City Women v Manchester United Women
+- Newcastle United v Manchester United
 <!-- fixture_marker ends -->
 
 
@@ -64,13 +57,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Chelsea vs. Ipswich Town, Premier League: Preview, team news, how to watch
+ - Chelsea 2-1 Liverpool, Women’s FA Cup semifinal: Post-match reaction
+ - WATCH: Erin Cuthbert equalizes for Chelsea against Liverpool, 1-1!
+ - Chelsea vs. Liverpool, Women’s FA Cup: Confirmed lineups; how to watch
+ - How should Chelsea line up to not lose again to Ipswich Town?
  - Enzo Maresca heaps praise on Josh Acheampong
  - Chelsea vs. Liverpool, Women’s FA Cup semifinal: Preview, team news, how to watch
- - Legia Warsaw 0-3 Chelsea, Player Ratings: Noni and the kids
- - Maresca hails Chelsea’s ‘professional performance’ against Legia Warsaw
- - Legia Warsaw 0-3 Chelsea, UEFA Conference League: Post-match reaction, ratings
- - WATCH: Noni Madueke adds a third for Chelsea against Legia Warsaw! 3-0!
- - WATCH: Noni Madueke doubles Chelsea’s lead over Legia Warsaw! 2-0!
 
 <!-- news_marker ends -->
 
@@ -78,14 +71,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Fed ‘absolutely’ ready to help stabilise market if needed
- - Liquidity worsens in $29tn Treasury market as volatility soars
- - Trump tariffs could push US inflation to 4% this year, New York Fed chief warns
- - The last grand strategists: what Brzezinski and Kissinger could teach Trump
- - The midlife non-crisis
- - Starmer’s opportunity to ride the Trump rollercoaster
- - Wall Street stocks end turbulent week with late rally
- - Starmer vows to pass emergency law ‘in one day’ to save British Steel’s Scunthorpe site
+ - Trump exempts smartphones from ‘reciprocal’ tariffs after market rout
+ - Warning lights flash for US consumer strength as credit defaults rise
+ - The pain of doing business under Trump
+ - America the Unstable
+ - British MP denied entry to Hong Kong
+ - Trump chaos prompts top Canadian and Danish pension funds to cool on US
+ - UK start-ups consider switch to US as funding falls to post-pandemic low
+ - Trump’s China trade war a ‘boon’ for Brazil but sends US farmers reeling
 
 <!-- ftnews_marker ends -->
 
@@ -101,33 +94,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You must do the thing you think you cannot do. - Eleanor Roosevelt
+> A great ScrumMaster grasps the skills and mindset of the role. - Geoff Watts
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> You can only make one dot at a time
+> The tape is now the music
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Daehakno-Yeseo Maechoon-Hadaka Tomaksalhae Danghan Yeogosaeng Ajik Daehakno-Ye Issda (Rated: 8)
-- Released in 2000
-- Summary: No summary available
+- An Act of Valour (Rated: 3)
+- Released in 2010
+- Summary: London gay couple, Kevin and Will, face a grim morning anxiously waiting for the TV news. At a police station, a distraught Lisa seeks word of her boyfriend after they argued the night before. A body lies on the common. Fragments ...
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 267, using [1, 4, 10, 25, 50, 75]
-- Answer: 4 solutions.
+- Target: 197, using [4, 4, 9, 10, 50, 100]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 / 25 + 75 - 10 ) x 4 - 1
+  Solution: ( 10 + 4 ) x 4 + 100 + 50 - 9
 
    </details>
 
