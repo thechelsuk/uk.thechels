@@ -23,8 +23,7 @@ The site is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web
 
 ![website colour scheme](/images/colour-scheme.png)
 
-The font-family utilises the user's operating system setting via the `-system-ui` declaration, `Gill Sans` if available, and as a last resort falls back to `sans-serif`. This means it should look natural and native to the operating system in use. The primary colour scheme is `White Smoke` as the background, `Night` for text, `Brunswick Green` for links, `Lapis Lazuli` for some additional/secondary text e.g., post meta data and sub headings, and finally `Citron` is used for accents e.g., borders, separators, quote bars, table header backgrounds, and little bits of whimsy.
-
+The font-family is a custom font, secondary to that the site utilises the user's operating system setting via the `-system-ui` declaration, `Gill Sans` if available, and as a last resort falls back to `sans-serif`. This means it should look natural and native to the operating system in use should the primary font not work. The primary colour scheme is `White Smoke` as the background, `Night` for text, `Brunswick Green` for links, `Lapis Lazuli` for some additional/secondary text e.g., post meta data and sub headings, and finally `Citron` is used for accents e.g., borders, separators, quote bars, table header backgrounds, and little bits of whimsy.
 
 ## In The Press
 
@@ -36,9 +35,9 @@ The associated [Twitter](/images/ChelseaStats.png) [account](https://web.archive
 
 _Based on the [now](https://sive.rs/now) page idea from [Derek Sivers](https://sive.rs/nowff)._
 
--   Surviving - I continue to fight with an undiagnosed fatigue that's been ongoing since October 2022.
--   Reading - I have a huge backlog on my Kindle to get through.
--   Gardening - Huge tidy up and tending to the veggie patch and planters.
+- Surviving - I continue to fight with an undiagnosed fatigue that's been ongoing since October 2022.
+- Reading - I have a huge backlog on my Kindle to get through.
+- Gardening - Huge tidy up and tending to the veggie patch and planters.
 
 ## Next
 

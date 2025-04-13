@@ -8,6 +8,17 @@ html {
 }
 // 16px = 1em
 
+@font-face {
+    font-family: "TheChelsLight";
+    src: url("fonts/TheChelsLight.woff") format("woff");
+}
+
+@font-face {
+    font-family: "TheChelsMedium";
+    src: url("fonts/TheChelsMedium.woff") format("woff");
+    font-weight: bold;
+}
+
 $background: #f5f4f4;
 $primary: #04100d;
 $secondary: #005ca3;
@@ -15,7 +26,8 @@ $links: #295147;
 $accent: #cec452;
 $code: #c0deff;
 
-$font-stack: -system-ui, "Gill Sans", sans-serif;
+$font-stack: TheChelsLight, -system-ui, "Gill Sans", sans-serif;
+$header-stack: TheChelsMedium, -apple-system, "Gill Sans", sans-serif;
 $font-mono: ui-monospace, monospace, "Courier New";
 
 .primary {
@@ -202,6 +214,7 @@ h6 {
     position: relative;
     display: block;
     margin-top: 0.75em;
+    font-family: $header-stack;
 
     &:hover::after {
         content: " #";
