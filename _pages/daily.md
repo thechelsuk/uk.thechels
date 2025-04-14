@@ -7,41 +7,41 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 13 April 2025
+## On Monday, 14 April 2025
 
-- The average temperature today is 7.45˚C,
-- With highs of 8.32˚C and lows of 6.96˚C,
-- It may feel like 7.45˚C with scattered clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1001hPa and humidity is 84%
-- The sun will rise at 05:15 and set at 19:01
+- The average temperature today is 5.53˚C,
+- With highs of 5.93˚C and lows of 4.97˚C,
+- It may feel like 4.77˚C with clear sky
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1004hPa and humidity is 89%
+- The sun will rise at 05:13 and set at 19:03
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 404 days since the last change (2024-03-05)
+- It has been 405 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Use appropriate tools.
+> What got us here, will not get us there.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Liverpool v West Ham United
-- Birmingham City v Peterborough United
-- Manchester City Women v Manchester United Women
-- Newcastle United v Manchester United
+- Tottenham Hotspur U21 v Everton U21
+- Hull City v Coventry City
+- AFC Bournemouth v Fulham
 <!-- fixture_marker ends -->
 
 
@@ -57,13 +57,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Maresca laments Chelsea’s wavering confidence, negative fan pressure
+ - Chelsea 2-2 Ipswich Town, Premier League: Post-match reaction, ratings
+ - WATCH: Jadon Sancho top bins to equalize for Chelsea against Ipswich, 2-2!
+ - WATCH: Tuanzebe own goal gets one back for Chelsea against Ipswich! 1-2!
+ - Chelsea vs. Ipswich Town, Premier League: Live blog; highlights
+ - Chelsea fans’ preferred lineup against Ipswich Town: A near unanimous decision
  - Chelsea vs. Ipswich Town, Premier League: Preview, team news, how to watch
- - Chelsea 2-1 Liverpool, Women’s FA Cup semifinal: Post-match reaction
- - WATCH: Erin Cuthbert equalizes for Chelsea against Liverpool, 1-1!
- - Chelsea vs. Liverpool, Women’s FA Cup: Confirmed lineups; how to watch
- - How should Chelsea line up to not lose again to Ipswich Town?
- - Enzo Maresca heaps praise on Josh Acheampong
- - Chelsea vs. Liverpool, Women’s FA Cup semifinal: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -71,14 +71,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Trump exempts smartphones from ‘reciprocal’ tariffs after market rout
- - Warning lights flash for US consumer strength as credit defaults rise
- - The pain of doing business under Trump
- - America the Unstable
- - British MP denied entry to Hong Kong
- - Trump chaos prompts top Canadian and Danish pension funds to cool on US
- - UK start-ups consider switch to US as funding falls to post-pandemic low
- - Trump’s China trade war a ‘boon’ for Brazil but sends US farmers reeling
+ - Global stocks lifted by US reprieve for Trump’s tech tariffs
+ - China’s exports jump ahead of sweeping US tariffs
+ - Can Mark Carney stand up to Donald Trump?
+ - Global turmoil makes Britain’s productivity predicament even worse
+ - Untangling the spaghetti bowl of tariffs
+ - UK retail bosses raise fears of Chinese product ‘dumping’ due to Donald Trump’s tariffs
+ - UK suspends import tariffs to ease strain for British businesses
+ - UK and EU close ranks on defence amid Trump turmoil
 
 <!-- ftnews_marker ends -->
 
@@ -86,7 +86,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > Botany Bay - noun: A place of exile, punishment, or hard labor.
+ > nithing - noun: 1. A coward. 2. An outlaw. 3. A miser. adjective: 1. Cowardly. 2. Treacherous. 3. Miserly.
 
 <!-- word_marker ends -->
 
@@ -94,33 +94,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> A great ScrumMaster grasps the skills and mindset of the role. - Geoff Watts
+> Stop starting things, and start finishing things - Jean Tabaka
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> The tape is now the music
+> Is there something missing?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- An Act of Valour (Rated: 3)
-- Released in 2010
-- Summary: London gay couple, Kevin and Will, face a grim morning anxiously waiting for the TV news. At a police station, a distraught Lisa seeks word of her boyfriend after they argued the night before. A body lies on the common. Fragments ...
+- Fight Club (Rated: 9)
+- Released in 1999
+- Summary: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 197, using [4, 4, 9, 10, 50, 100]
-- Answer: 7 solutions.
+- Target: 385, using [1, 1, 4, 10, 50, 100]
+- Answer: 8 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 10 + 4 ) x 4 + 100 + 50 - 9
+  Solution: ( 100 + 1 - 50 / 10 ) x 4 + 1
 
    </details>
 
