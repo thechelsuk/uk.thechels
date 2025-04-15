@@ -7,27 +7,28 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 14 April 2025
+## On Tuesday, 15 April 2025
 
-- The average temperature today is 5.53˚C,
-- With highs of 5.93˚C and lows of 4.97˚C,
-- It may feel like 4.77˚C with clear sky
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1004hPa and humidity is 89%
-- The sun will rise at 05:13 and set at 19:03
+- The average temperature today is 8.6˚C,
+- With highs of 9.6˚C and lows of 8.16˚C,
+- It may feel like 8.6˚C with overcast clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 995hPa and humidity is 85%
+- The sun will rise at 05:11 and set at 19:04
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 405 days since the last change (2024-03-05)
+- It has been 406 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
@@ -39,9 +40,9 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Tottenham Hotspur U21 v Everton U21
-- Hull City v Coventry City
-- AFC Bournemouth v Fulham
+- Arsenal Women v Leicester City Women
+- Salford City v Doncaster Rovers
+- Aston Villa v PSG
 <!-- fixture_marker ends -->
 
 
@@ -49,7 +50,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 97.79000091552734 
+- VWRL.L : 99.80999755859375 
 
 <!-- stocks_marker ends -->
 
@@ -57,13 +58,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Chelsea 2-2 Ipswich Town, Player Ratings: Jadon Sancho took a shot!
  - Maresca laments Chelsea’s wavering confidence, negative fan pressure
  - Chelsea 2-2 Ipswich Town, Premier League: Post-match reaction, ratings
  - WATCH: Jadon Sancho top bins to equalize for Chelsea against Ipswich, 2-2!
  - WATCH: Tuanzebe own goal gets one back for Chelsea against Ipswich! 1-2!
  - Chelsea vs. Ipswich Town, Premier League: Live blog; highlights
  - Chelsea fans’ preferred lineup against Ipswich Town: A near unanimous decision
- - Chelsea vs. Ipswich Town, Premier League: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -71,14 +72,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Global stocks lifted by US reprieve for Trump’s tech tariffs
- - China’s exports jump ahead of sweeping US tariffs
- - Can Mark Carney stand up to Donald Trump?
- - Global turmoil makes Britain’s productivity predicament even worse
- - Untangling the spaghetti bowl of tariffs
- - UK retail bosses raise fears of Chinese product ‘dumping’ due to Donald Trump’s tariffs
- - UK suspends import tariffs to ease strain for British businesses
- - UK and EU close ranks on defence amid Trump turmoil
+ - Risky corporate borrowers shut out of bond market since Trump’s tariff blitz
+ - How Wall Street got Donald Trump wrong
+ - Want a winning economic policy for America? Learn from Andy Grove
+ - Trade, tech and Treasuries: China holds cards in US tariff stand-off
+ - Aircraft deliveries at risk from tariff chaos, Ryanair warns
+ - US takes step towards chip and pharma tariffs with new probes
+ - EU explores legal options for ending Russian gas deals
+ - Trump administration halts $2.2bn in Harvard funds after it defied pressure
 
 <!-- ftnews_marker ends -->
 
@@ -86,7 +87,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > nithing - noun: 1. A coward. 2. An outlaw. 3. A miser. adjective: 1. Cowardly. 2. Treacherous. 3. Miserly.
+ > barbermonger - noun: One excessively concerned about appearance; a fop, a dandy.
 
 <!-- word_marker ends -->
 
@@ -94,33 +95,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Stop starting things, and start finishing things - Jean Tabaka
+> After you plant a seed in the ground, you do not dig it up every week to see how it is doing. - William Coyne
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Is there something missing?
+> Repetition is a form of change
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Fight Club (Rated: 9)
-- Released in 1999
-- Summary: An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.
+- Lock Stock & Two Smoking Barrels (Rated: 9)
+- Released in 1998
+- Summary: When four small-time criminals lose a rigged poker game against a London kingpin, he gives them one week to settle their enormous debt.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 385, using [1, 1, 4, 10, 50, 100]
-- Answer: 8 solutions.
+- Target: 758, using [3, 3, 5, 7, 9, 75]
+- Answer: 6 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 1 - 50 / 10 ) x 4 + 1
+  Solution: ( 75 + 9 ) x 3 x 3 + 7 - 5
 
    </details>
 
