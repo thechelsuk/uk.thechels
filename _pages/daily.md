@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 16 April 2025
+## On Thursday, 17 April 2025
 
-- The average temperature today is 6.08˚C,
-- With highs of 7.75˚C and lows of 5.39˚C,
-- It may feel like 2.34˚C with light rain
-- The wind speed is 5.81m/s and visibility is 6958m
-- The pressure is 994hPa and humidity is 86%
-- The sun will rise at 05:09 and set at 19:06
+- The average temperature today is 2.87˚C,
+- With highs of 4.42˚C and lows of 1.96˚C,
+- It may feel like 1.76˚C with few clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1011hPa and humidity is 87%
+- The sun will rise at 05:07 and set at 19:08
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 407 days since the last change (2024-03-05)
+- It has been 408 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,15 +32,17 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Move fast.
+> Crossing the river by feeling the stones.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Liverpool U18 v Manchester City U18
-- Newcastle United v Crystal Palace
-- Real Madrid v Arsenal
+- Crystal Palace U18 v Arsenal U18
+- Bradford City v Notts County
+- Chelsea v Legia Warsaw
+- Eintracht Frankfurt v Tottenham Hotspur
+- Manchester United v Lyon
 <!-- fixture_marker ends -->
 
 
@@ -48,7 +50,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 99.76000213623047 
+- VWRL.L : 99.18000030517578 
 
 <!-- stocks_marker ends -->
 
@@ -56,12 +58,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Roméo Lavia back in Chelsea training
+ - Chelsea vs. Legia Warsaw, UEFA Conference League: Previews, team news, how to watch
+ - How should Chelsea line up against Legia Warsaw in the home ‘environment’?
  - Official: Kadeisha Buchanan signs Chelsea contract extension!
  - Official: Ishé Samuels-Smith signs new long-term Chelsea contract
  - Chelsea 2-2 Ipswich Town, Player Ratings: Jadon Sancho took a shot!
- - Maresca laments Chelsea’s wavering confidence, negative fan pressure
- - Chelsea 2-2 Ipswich Town, Premier League: Post-match reaction, ratings
- - WATCH: Jadon Sancho top bins to equalize for Chelsea against Ipswich, 2-2!
 
 <!-- news_marker ends -->
 
@@ -69,14 +71,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Nvidia to take $5.5bn hit as US clamps down on AI chip sales to China
- - Trump threatens to hit critical minerals with tariffs
- - Trump trade war could challenge US credibility, says Jamie Dimon
- - Advice to shell-shocked Americans from Brexit Britain
- - Why Turkey’s democratic future matters for the world
- - PwC exits more than a dozen countries in push to avoid scandals
- - Trump threatens to scrap Harvard’s tax-exempt status
- - UK and France in talks over a migrant returns agreement
+ - Trump’s tariffs put Fed’s jobs and inflation goals at risk, says Powell
+ - Trump weighs in on Japan trade talks but Tokyo team leaves without deal
+ - Can Harvard withstand Trump?
+ - Is the world losing faith in the almighty US dollar?
+ - The Chinese Dream is to Xi what Maga is to Trump
+ - Trading in two stocks surged before Trump family appointments announced
+ - Astronomers claim strongest evidence yet of extraterrestrial life
+ - When aliens call, look to the ‘little green swan’ trade
 
 <!-- ftnews_marker ends -->
 
@@ -84,7 +86,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > varlet - noun: 1. An unprincipled or dishonest person. 2. An attendant, servant, or a knight's page.
+ > applejohn - noun: One with a shriveled body and/or mind.
 
 <!-- word_marker ends -->
 
@@ -92,33 +94,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The ScrumMaster is never finished with learning. - Zuzana Sochova
+> Agile is a philosophy, not a methodology - Paul Bennett
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Consider different fading systems
+> Emphasize the flaws
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Xxx I (Rated: 3)
-- Released in 2002
-- Summary: No summary available
+- Beneath (Rated: 3)
+- Released in 2013
+- Summary: Six high school seniors celebrating in the middle of a lake find themselves trapped on a rowboat due to a man-eating fish.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 641, using [2, 2, 9, 10, 25, 50]
-- Answer: 9 solutions.
+- Target: 356, using [1, 1, 5, 7, 9, 25]
+- Answer: 4 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 25 - 10 - 2 ) x 50 - 9
+  Solution: ( 9 + 5 ) x 25 + 7 - 1
 
    </details>
 
