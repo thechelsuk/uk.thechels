@@ -2,10 +2,12 @@
 layout: default
 title: Mat | Engineering Leader
 permalink: /cv
-seo: CV of Mat-0 optimised for printing and savings as PDF
+seo: CV of Mat-0 optimised for printing and savings as a PDF
 ---
 
-An experienced engineering leader with a passion for people development, building teams, implementing agile methodologies, and focusing on flow and delivery. A broad history of working with teams using various programming languages, in fast-paced and regulated environments. Has a track record of increasing team morale and motivation through a holistic people development style, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, personal development frameworks, addressing technical debt and reducing cycle times significantly.
+An experienced engineering leader with a passion for people development, building teams, implementing agile methodologies, and focusing on flow and delivery. A broad history of working with teams using various programming languages, in fast-paced and regulated environments.
+
+Has a track record of increasing team morale and motivation through a holistic people development style, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, personal development frameworks, addressing technical debt and reducing cycle times significantly.
 
 Holds an HND in Business Information Systems and an HNC in Business IT in Computing from Solent University. Was one of two people in his year to study French and Spanish at GCSE. Consumes an unhealthy amount of football (having seen {{site.data.teams | size }} teams play live), and podcasts (with {{ site.data.podcasts | size }} subscriptions).
 
@@ -15,7 +17,7 @@ Holds an HND in Business Information Systems and an HNC in Business IT in Comput
 
 ### Core Skills
 
-- Methodologies - Shape-up, Scrum, Kanban, Waterfall, XP, TDD, Ensemble, No estimates,
+- Methodologies - Shape-up, Scrum, Kanban, Waterfall, XP, Lean, BDD, TDD, Ensemble, No estimates,
 - Languages: C#, SQL, XML, PHP, HTML, CSS, JavaScript, Markdown, Ruby, Jekyll, Python, Sass, TypeScript, NodeJS, Blazor,
 - Testing: TDD, Nunit, Moq, Specflow/Cucumber, Selenium Web driver, pytest, Playwright
 - Source Control: TFS, Azure DevOps, Git, GitHub, subversion, CVS
