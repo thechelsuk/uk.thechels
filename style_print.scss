@@ -7,13 +7,25 @@ body {
 }
 
 // 16px = 1em
+@font-face {
+    font-family: "TheChelsLight";
+    src: url("fonts/TheChelsLight.woff") format("woff");
+}
+
+@font-face {
+    font-family: "TheChelsMedium";
+    src: url("fonts/TheChelsMedium.woff") format("woff");
+    font-weight: bold;
+}
 
 $background: #ffffff;
 $primary: #04100d;
 $secondary: #005ca3;
 $links: #295147;
 $accent: #cec452;
-$font-stack: -system-ui, "Gill Sans", sans-serif;
+$code: #c0deff;
+$font-stack: TheChelsLight, -system-ui, "Gill Sans", sans-serif;
+$header-stack: TheChelsMedium, -system-ui, "Gill Sans", sans-serif;
 $font-mono: ui-monospace, monospace, "Courier New";
 
 body {
@@ -78,6 +90,7 @@ h4,
 h5,
 h6 {
     color: $primary;
+    font-family: $header-stack;
     position: relative;
     display: block;
     margin-top: 0.5em;
