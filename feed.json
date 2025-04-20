@@ -19,12 +19,15 @@ layout: null
   {% if site.author %
   }
   "author": {
-    "name": "{{ site.author | jsonify }}"
+    "name": {
+      { site.author | jsonify
+      }
+    }
   },
   {% endif %
   }
   "items": [
-    {% for post in site.posts limit: 25 %
+    {% for post in site.posts limit: 45 %
     }
     {
       "id": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
