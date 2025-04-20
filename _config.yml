@@ -123,7 +123,7 @@ navigation_slashes:
 
 ## Footer links
 navigation_footer:
-  - link: "/feed.json"
+  - link: "/feed"
     title: "RSS"
   - link: "/sitemap.xml"
     title: "Sitemap"
