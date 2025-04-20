@@ -7,44 +7,44 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 19 April 2025
+## On Sunday, 20 April 2025
 
-- The average temperature today is 10.27˚C,
-- With highs of 10.54˚C and lows of 9.41˚C,
-- It may feel like 9.42˚C with light rain
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1005hPa and humidity is 79%
-- The sun will rise at 05:02 and set at 19:11
+- The average temperature today is 6.03˚C,
+- With highs of 6.03˚C and lows of 5.95˚C,
+- It may feel like 3.96˚C with few clouds
+- The wind speed is 2.7m/s and visibility is 10000m
+- The pressure is 1007hPa and humidity is 80%
+- The sun will rise at 05:00 and set at 19:13
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 410 days since the last change (2024-03-05)
+- It has been 411 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Water the plants
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Seek the best.
+> Challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Manchester City U18 v Middlesbrough U18
-- Tottenham Hotspur U18 v Aston Villa U18
-- West Ham United Women v Manchester United Women
-- Arsenal Women v Lyon Women
-- Brighton & Hove Albion Women v Liverpool Women
-- Aston Villa v Newcastle United
+- Charlton Athletic Women v Newcastle United Women
+- Manchester City Women v Everton Women
+- Ipswich Town v Arsenal
+- Birmingham City Women v Durham Women
+- Tottenham Hotspur Women v Aston Villa Women
+- Leicester City v Liverpool
+- Barcelona Women v Chelsea Women
 <!-- fixture_marker ends -->
 
 
@@ -60,13 +60,14 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
- - Chelsea 1-2 Legia Warsaw, Player Ratings: Whiskey Tango Foxtrot
- - Maresca not happy with Legia ‘setback’, looking for response from team on Sunday
- - Chelsea to face Djurgårdens IF in UEFA Conference League semifinals
- - Chelsea 1-2 (4-2 agg.) Legia Warsaw, UEFA Conference League: Post-match reaction, ratings
- - WATCH: Marc Cucurella equalizes for Chelsea against Legia Warsaw, 1-1!
- - Chelsea vs. Legia Warsaw, UEFA Conference League: Live blog; highlights
- - The people’s choice against Legia Warsaw: Opportunity for backups and youth
+ - The people’s choice against Fulham: Let’s try it again, shall we?
+ - João Félix, Benfica ‘eager’ for reunion on loan from Chelsea — report
+ - Barcelona vs. Chelsea, Women’s Champions League: Preview, team news, how to watch
+ - Al-Nassr interested in Moisés Caicedo; interest not reciprocated — reports
+ - WATCH: Lesley Ugochukwu scores a fantastic goal to earn a point for Southampton
+ - Fulham vs. Chelsea, Premier League: Preview, team news, how to watch
+ - Former Chelsea assistant Steve Holland sacked by Yokohama after just four months
+ - Lauren James out ‘for a period of time’ with hamstring injury
 
 <!-- news_marker ends -->
 
@@ -74,14 +75,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Wall Street slashes stock market forecasts amid Trump tariff fears
- - Donald Trump vs Mr Market
- - What abundance can’t achieve
- - Trump tariffs bring furrowed brows to Ireland’s Botox town
- - Trump will abandon Ukraine peace talks ‘in days’ without progress, warns Rubio
- - ‘We had to buy them’: old emails haunt Zuckerberg in high-stakes trial
- - UK says transfer of deep-sea mining permits could prompt security review
- - Dubai chocolate sparks pistachio shortage as TikTokers go nuts
+ - Ukraine says Russian attacks continue after Putin declares ceasefire
+ - Hungary would hurt EU taxpayers by lifting Russia sanctions, warns Estonia
+ - Why Jamie Dimon is right about meetings
+ - It’s the hope that saves you
+ - US Supreme Court temporarily halts deportations of migrants
+ - South Korea will not ‘fight’ Trump’s tariffs, says acting president
+ - China’s rare earths controls prompt fears of auto shortages and shutdowns
+ - The little-known law firm behind the biggest case in UK history
 
 <!-- ftnews_marker ends -->
 
@@ -97,33 +98,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The most important thing for me is making sure the team is at the top of the table when the season ends - Sam Kerr
+> Nothing endures but change - Heraclitus
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Mechanicalize something idiosyncratic
+> Give way to your worst impulse
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Four Lions (Rated: 6)
-- Released in 2010
-- Summary: Four incompetent British terrorists set out to train for and commit an act of terror.
+- Terminator I (Rated: 3)
+- Released in 1984
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 804, using [1, 2, 9, 10, 25, 50]
-- Answer: 9 solutions.
+- Target: 207, using [6, 7, 10, 50, 75, 100]
+- Answer: 29 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 + 25 + 1 - 9 ) x ( 10 + 2 )
+  Solution: ( 100 + 50 - 75 - 6 ) x ( 10 - 7 )
 
    </details>
 
