@@ -30,57 +30,57 @@ due to the likelihood, I will have an inconsistent and irregular cadence for pos
 </details>
 
 ## Configuration
+
 There are several optional settings for you to configure. Use the example `_config.yml` file in the repo and use the documentation below to configure your site:
 
 <details><summary><code>Config</code></summary>
 
-  ### Using includes
+### Using includes
+
   There are 2 main includes: one for the header and one for the footer, largely to minimise repetition.
 
-  ### Using layouts
+### Using layouts
 
   Layouts are almost one-to-one with pages, handling any page specifics. `post.html` is the layout used for every blog post. There are also default templates and an empty template used for `scss` and other special pages such as `humans.txt`
 
- ### Using Data
+### Using Data
 
   Data files power many aspects of the site and these are updated via issues and GitHub Actions.
 
-  ### Site navigation
+### Site navigation
 
   Using configuration yml, navigation is provided by three collections for `header`, `footer`, and `around_the_web` (on the about page) and are fairly self-explanatory.
 </details>
-
 
 ## Post Types
 
 <details><summary><code>Postings</code></summary>
 
-  ### Mixtape Monthly Guide
+### Mixtape Monthly Guide
 
-  - Monthly, create a mixtape running the shortcut
-  - Open the produced and resize to 832px width
-  - Copy the image to the`image/mixtapes/` folder ensuring the name matches the format `yyyy-MM.png`
-  - Push a commit to Prod
+- Monthly, create a mixtape running the shortcut
+- Open the produced and resize to 832px width
+- Copy the image to the`image/mixtapes/` folder ensuring the name matches the format `yyyy-MM.png`
+- Push a commit to Prod
 
-  ### Add a Film
+### Add a Film
 
-  - Run the python script typing in a Film title and a Rating. Or;
-  - Run a workflow dispatch - entering the inputs Film and Rating
+- Run the python script typing in a Film title and a Rating. Or;
+- Run a workflow dispatch - entering the inputs Film and Rating
 
+### Add a Book
 
-  ### Add a Book
+- Run a workflow dispatch - entering the ISBN
+- Download the cover image
+- Resize to a height of 183px
+- Save the cover image into the `images/books` folder ensuring the name matches the format `book-[isbn].png`
+- Push a commit to Prod
 
-  - Run a workflow dispatch - entering the ISBN
-  - Download the cover image
-  - Resize to a height of 183px
-  - Save the cover image into the `images/books` folder ensuring the name matches the format `book-[isbn].png`
-  - Push a commit to Prod
+### Quote posts
 
-  ### Quote posts
-
-  - Capture the selection on a page in safari
-  - Share to Drafts and click Save
-  - In Drafts run the `cite to blog` if it's a quotable post. Or;
-  - In Drafts run the `post to blog` if it's a regular post
+- Capture the selection on a page in safari
+- Share to Drafts and click Save
+- In Drafts run the `cite to blog` if it's a quotable post. Or;
+- In Drafts run the `post to blog` if it's a regular post
 
 </details>
