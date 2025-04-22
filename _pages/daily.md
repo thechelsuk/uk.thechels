@@ -7,44 +7,40 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 20 April 2025
+## On Tuesday, 22 April 2025
 
-- The average temperature today is 6.03˚C,
-- With highs of 6.03˚C and lows of 5.95˚C,
-- It may feel like 3.96˚C with few clouds
-- The wind speed is 2.7m/s and visibility is 10000m
-- The pressure is 1007hPa and humidity is 80%
-- The sun will rise at 05:00 and set at 19:13
+- The average temperature today is 5.6˚C,
+- With highs of 7.19˚C and lows of 4.73˚C,
+- It may feel like 5.6˚C with overcast clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1015hPa and humidity is 90%
+- The sun will rise at 04:56 and set at 19:16
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 411 days since the last change (2024-03-05)
+- It has been 413 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Challenge assumptions.
+> Design for constant evolution.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Charlton Athletic Women v Newcastle United Women
-- Manchester City Women v Everton Women
-- Ipswich Town v Arsenal
-- Birmingham City Women v Durham Women
-- Tottenham Hotspur Women v Aston Villa Women
-- Leicester City v Liverpool
-- Barcelona Women v Chelsea Women
+- Manchester City v Aston Villa
 <!-- fixture_marker ends -->
 
 
@@ -60,14 +56,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
- - The people’s choice against Fulham: Let’s try it again, shall we?
- - João Félix, Benfica ‘eager’ for reunion on loan from Chelsea — report
- - Barcelona vs. Chelsea, Women’s Champions League: Preview, team news, how to watch
- - Al-Nassr interested in Moisés Caicedo; interest not reciprocated — reports
- - WATCH: Lesley Ugochukwu scores a fantastic goal to earn a point for Southampton
- - Fulham vs. Chelsea, Premier League: Preview, team news, how to watch
- - Former Chelsea assistant Steve Holland sacked by Yokohama after just four months
- - Lauren James out ‘for a period of time’ with hamstring injury
+ - Fulham 1-2 Chelsea, Player Ratings: By George!
+ - Gusto suffers ‘not a good’ muscle injury against Fulham
+ - Barcelona 4-1 Chelsea, Women’s Champions League: Post-match reaction
+ - WATCH: Sandi Baltimore pulls one back for Chelsea against Barcelona! 1-2!
+ - Fulham 1-2 Chelsea, Premier League: Post-match reaction, ratings
+ - WATCH: Pedro Neto wins it for Chelsea against Fulham! 2-1!
+ - Barcelona vs. Chelsea, Women’s Champions League: Confirmed lineups; how to watch
 
 <!-- news_marker ends -->
 
@@ -75,14 +70,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Ukraine says Russian attacks continue after Putin declares ceasefire
- - Hungary would hurt EU taxpayers by lifting Russia sanctions, warns Estonia
- - Why Jamie Dimon is right about meetings
- - It’s the hope that saves you
- - US Supreme Court temporarily halts deportations of migrants
- - South Korea will not ‘fight’ Trump’s tariffs, says acting president
- - China’s rare earths controls prompt fears of auto shortages and shutdowns
- - The little-known law firm behind the biggest case in UK history
+ - Donald Trump needs Jay Powell
+ - Will going back to basics restore BP’s fortunes?
+ - The US ruled against Google’s monopoly — Europe should do the same
+ - The legacy of a compassionate reformist pope
+ - White House stands behind Hegseth over new Signal chat allegations
+ - Kuwait’s sovereign wealth fund sues over City of London skyscraper
+ - Japanese investors sold $20bn of foreign debt as Trump tariffs shook markets
+ - Harvard sues Trump administration over funding freeze
 
 <!-- ftnews_marker ends -->
 
@@ -90,7 +85,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > trifler - noun: One not to be believed or taken seriously.
+ > Turveydrop - noun: One who poses as a model of deportment: the way in which one conducts oneself.
 
 <!-- word_marker ends -->
 
@@ -98,33 +93,35 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Nothing endures but change - Heraclitus
+> Stable Velocity. Sustainable Pace - Mike Cottmeyer
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Give way to your worst impulse
+> Children's voices
+-speaking
+-singing
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Terminator I (Rated: 3)
-- Released in 1984
-- Summary: No summary available
+- Doomsday (Rated: 3)
+- Released in 2008
+- Summary: A futuristic action thriller where a team of people work to prevent a disaster threatening the future of the human race.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 207, using [6, 7, 10, 50, 75, 100]
-- Answer: 29 solutions.
+- Target: 382, using [2, 3, 10, 25, 50, 100]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 50 - 75 - 6 ) x ( 10 - 7 )
+  Solution: ( 100 + 2 - 25 ) x 50 / 10 - 3
 
    </details>
 
