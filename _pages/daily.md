@@ -7,39 +7,49 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 25 April 2025
+## On Saturday, 26 April 2025
 
-- The average temperature today is 6.39˚C,
-- With highs of 7.2˚C and lows of 4.84˚C,
-- It may feel like 3.8˚C with overcast clouds
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 84%
-- The sun will rise at 04:50 and set at 19:21
+- The average temperature today is 8.96˚C,
+- With highs of 9.99˚C and lows of 8.17˚C,
+- It may feel like 8.96˚C with overcast clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 83%
+- The sun will rise at 04:48 and set at 19:23
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 416 days since the last change (2024-03-05)
+- It has been 417 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Farmers Market in town
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> What got us here, will not get us there.
+> Be a learning individual.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Stoke City v Sheffield United
+- Manchester City U18 v Derby County U18
+- Luton Town v Coventry City
+- QPR v Burnley
+- Bristol Rovers v Reading
+- Leyton Orient v Wycombe Wanderers
+- AFC Wimbledon v Port Vale
+- Doncaster Rovers v Bradford City
+- Woking v Eastleigh
+- Chelsea v Everton
+- Crystal Palace v Aston Villa
+- Wrexham v Charlton Athletic
+- Southend United v Wealdstone
 <!-- fixture_marker ends -->
 
 
@@ -47,7 +57,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 100.76000213623047 
+- VWRL.L : 101.16000366210938 
 
 <!-- stocks_marker ends -->
 
@@ -55,13 +65,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
- - Ticketmaster to take over Chelsea ticketing system, bring it into the 21st century
- - Chelsea 4-0 Crystal Palace, Women’s Super League: Post-match reaction
- - WATCH: Mia Fishel makes it 4-0 Chelsea against Crystal Palace!
- - WATCH: Catarina Macario adds a third for Chelsea against Crystal Palace! 3-0!
- - Chelsea ‘leading the race’ to sign Bournemouth defender Dean Huijsen — report
- - WATCH: Catarina Macario doubles Chelsea’s lead over Crystal Palace! 2-0!
- - WATCH: Guro Reiten opens the scoring for Chelsea against Crystal Palace! 1-0!
+ - Chelsea fans’ preferred lineup against Everton: All the usual suspects
+ - Nkunku has reached ‘the point of no return’ at Chelsea — report
+ - Chelsea express ‘very clear interest’ in Jamie Gittens — report
+ - Chelsea vs. Everton, Premier League: Preview, team news, how to watch
+ - Chelsea looking to offload Disasi, Veiga ... and Trevoh Chalobah, again — report
+ - How should Chelsea line up against Everton to keep pace in the top-five race?
+ - Estêvão explains why he chose to join Chelsea
 
 <!-- news_marker ends -->
 
@@ -69,14 +79,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Apple aims to source all US iPhones from India in pivot away from China
- - How the Treasury market got hooked on hedge fund leverage
- - We’re not spending cash, so why are we hoarding it?
- - Uncertainty remains the only certainty for UK on tariffs
- - Trump urges Putin to stop attacks on Ukraine
- - Ukraine fails to reach deal with investors to restructure $2.6bn of debt
- - HSBC explored axing in-person AGM amid frustration with cost and protests
- - PwC partners ordered to cut ties with brokerage after internal investigation
+ - Brussels rebuffs UK bid to prise open access to EU single market
+ - Reeves and Bessent can see ‘landing zone’ for a UK-US trade deal, say British officials
+ - Simon Schama: Trump’s war on knowledge
+ - Where the west still wins
+ - The battle for the Catholic Church’s future will not be over doctrine
+ - Trump claims to have received call from Xi and to have cut ‘200 deals’ on trade
+ - US judge arrested in escalation of immigration crackdown
+ - White House reverses course on foreign student visa terminations
 
 <!-- ftnews_marker ends -->
 
@@ -92,7 +102,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> In matters of style, swim with the current; in matters of principle, stand like a rock. - Thomas Jefferson
+> Never doubt that a small group of thoughtful, concerned citizens can change the world. Indeed it is the only thing that ever has. - Margeret Mead
 
 <!-- quote_marker ends -->
 
@@ -105,20 +115,20 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Film Archive
 
 <!-- film_marker starts -->
-- Tenet (Rated: 3)
-- Released in 2020
-- Summary: Armed with only the word "Tenet," and fighting for the survival of the entire world, CIA operative, The Protagonist, journeys through a twilight world of international espionage on a global mission that unfolds beyond real time.
+- Mute (Rated: 3)
+- Released in 2018
+- Summary: A mute bartender goes up against his city's gangsters in an effort to find out what happened to his missing partner.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 430, using [1, 6, 8, 10, 50, 75]
-- Answer: 13 solutions.
+- Target: 419, using [3, 6, 9, 25, 50, 75]
+- Answer: 16 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 + 8 ) x 75 / 10 + 1 - 6
+  Solution: ( 75 x 50 + 25 x 3 ) / 9 - 6
 
    </details>
 
