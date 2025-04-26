@@ -3,7 +3,7 @@
 layout: post
 date: 2025-04-18
 link: https://mastodon.social/@andrewnez/114302875075999244
-title: Slobsquatting
+title: Slopsquatting
 cited: Andrew Nesbitt
 
 ---
