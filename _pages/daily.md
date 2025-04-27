@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 26 April 2025
+## On Sunday, 27 April 2025
 
-- The average temperature today is 8.96˚C,
-- With highs of 9.99˚C and lows of 8.17˚C,
-- It may feel like 8.96˚C with overcast clouds
+- The average temperature today is 7.21˚C,
+- With highs of 8.17˚C and lows of 7.04˚C,
+- It may feel like 7.21˚C with clear sky
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 83%
-- The sun will rise at 04:48 and set at 19:23
+- The pressure is 1025hPa and humidity is 94%
+- The sun will rise at 04:46 and set at 19:25
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 417 days since the last change (2024-03-05)
+- It has been 418 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,24 +32,25 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be a learning individual.
+> Use appropriate tools.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Manchester City U18 v Derby County U18
-- Luton Town v Coventry City
-- QPR v Burnley
-- Bristol Rovers v Reading
-- Leyton Orient v Wycombe Wanderers
-- AFC Wimbledon v Port Vale
-- Doncaster Rovers v Bradford City
-- Woking v Eastleigh
-- Chelsea v Everton
-- Crystal Palace v Aston Villa
-- Wrexham v Charlton Athletic
-- Southend United v Wealdstone
+- Liverpool Women v Tottenham Hotspur Women
+- Crystal Palace Women v West Ham United Women
+- AFC Bournemouth v Manchester United
+- Bristol City Women v Sunderland AFC Women
+- Newcastle United Women v Birmingham City Women
+- Portsmouth Women v Blackburn Rovers Women
+- Chelsea Women v Barcelona Women
+- Everton Women v Brighton & Hove Albion Women
+- Birmingham City v Mansfield Town
+- Leicester City Women v Manchester City Women
+- Nottingham Forest v Manchester City
+- Liverpool v Tottenham Hotspur
+- Lyon Women v Arsenal Women
 <!-- fixture_marker ends -->
 
 
@@ -65,13 +66,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Maresca happy with Chelsea’s ‘strong’ play, praises struggling trio Sánchez, Jackson, Palmer
+ - Chilwell to play for the FA Cup as Crystal Palace shock Aston Villa, 3-0
+ - Chelsea vs. Barcelona, Women’s Champions League: Preview, team news, how to watch
+ - Chelsea 1-0 Everton, Premier League: Post-match reaction, ratings
+ - WATCH: Nicolas Jackson opens the scoring for Chelsea against Everton! 1-0!
+ - Chelsea vs. Everton, Premier League: Live blog; highlights
  - Chelsea fans’ preferred lineup against Everton: All the usual suspects
- - Nkunku has reached ‘the point of no return’ at Chelsea — report
- - Chelsea express ‘very clear interest’ in Jamie Gittens — report
- - Chelsea vs. Everton, Premier League: Preview, team news, how to watch
- - Chelsea looking to offload Disasi, Veiga ... and Trevoh Chalobah, again — report
- - How should Chelsea line up against Everton to keep pace in the top-five race?
- - Estêvão explains why he chose to join Chelsea
 
 <!-- news_marker ends -->
 
@@ -79,14 +80,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Brussels rebuffs UK bid to prise open access to EU single market
- - Reeves and Bessent can see ‘landing zone’ for a UK-US trade deal, say British officials
- - Simon Schama: Trump’s war on knowledge
- - Where the west still wins
- - The battle for the Catholic Church’s future will not be over doctrine
- - Trump claims to have received call from Xi and to have cut ‘200 deals’ on trade
- - US judge arrested in escalation of immigration crackdown
- - White House reverses course on foreign student visa terminations
+ - Trade war hits foreign companies in China with double tariffs
+ - Vanguard rules out China in big international push
+ - Europe’s far right at odds over Trump tariffs
+ - Broken Justice: how Europe let its courts decay
+ - Clean energy will be critical to winning the AI race with China
+ - Lashing out at staff is bad for business
+ - Trump and Zelenskyy hold ‘productive’ discussion at Pope’s funeral
+ - Grenfell Tower fridge maker did not run adequate safety checks, council claims
 
 <!-- ftnews_marker ends -->
 
@@ -102,33 +103,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Never doubt that a small group of thoughtful, concerned citizens can change the world. Indeed it is the only thing that ever has. - Margeret Mead
+> Leadership and learning are indispensable to each other - John F. Kennedy
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Take a break
+> Use fewer notes
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Mute (Rated: 3)
+- The Commuter (Rated: 3)
 - Released in 2018
-- Summary: A mute bartender goes up against his city's gangsters in an effort to find out what happened to his missing partner.
+- Summary: An insurance salesman/ex-cop is caught up in a life-threatening conspiracy during his daily commute home.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 419, using [3, 6, 9, 25, 50, 75]
-- Answer: 16 solutions.
+- Target: 831, using [2, 6, 6, 7, 25, 75]
+- Answer: 8 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 x 50 + 25 x 3 ) / 9 - 6
+  Solution: ( 25 - 7 x 2 ) x 75 + 6
 
    </details>
 
