@@ -7,50 +7,40 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 27 April 2025
+## On Monday, 28 April 2025
 
-- The average temperature today is 7.21˚C,
-- With highs of 8.17˚C and lows of 7.04˚C,
-- It may feel like 7.21˚C with clear sky
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 94%
-- The sun will rise at 04:46 and set at 19:25
+- The average temperature today is 9.22˚C,
+- With highs of 10.55˚C and lows of 7.61˚C,
+- It may feel like 8.93˚C with overcast clouds
+- The wind speed is 1.35m/s and visibility is 10000m
+- The pressure is 1026hPa and humidity is 87%
+- The sun will rise at 04:44 and set at 19:26
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 418 days since the last change (2024-03-05)
+- It has been 419 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Use appropriate tools.
+> challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Liverpool Women v Tottenham Hotspur Women
-- Crystal Palace Women v West Ham United Women
-- AFC Bournemouth v Manchester United
-- Bristol City Women v Sunderland AFC Women
-- Newcastle United Women v Birmingham City Women
-- Portsmouth Women v Blackburn Rovers Women
-- Chelsea Women v Barcelona Women
-- Everton Women v Brighton & Hove Albion Women
-- Birmingham City v Mansfield Town
-- Leicester City Women v Manchester City Women
-- Nottingham Forest v Manchester City
-- Liverpool v Tottenham Hotspur
-- Lyon Women v Arsenal Women
+- Crystal Palace U21 v Brighton & Hove Albion U21
+- Leeds United v Bristol City
 <!-- fixture_marker ends -->
 
 
@@ -66,13 +56,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Chelsea 1-0 Everton, Player Ratings: Robert Sánchez hates the Toffees
+ - Chelsea 1-4 (2-8 agg.) Barcelona, Women’s Champions League: Post-match reaction
+ - Chelsea vs. Barcelona, Women’s Champions League: Confirmed lineups; how to watch
  - Maresca happy with Chelsea’s ‘strong’ play, praises struggling trio Sánchez, Jackson, Palmer
  - Chilwell to play for the FA Cup as Crystal Palace shock Aston Villa, 3-0
  - Chelsea vs. Barcelona, Women’s Champions League: Preview, team news, how to watch
  - Chelsea 1-0 Everton, Premier League: Post-match reaction, ratings
- - WATCH: Nicolas Jackson opens the scoring for Chelsea against Everton! 1-0!
- - Chelsea vs. Everton, Premier League: Live blog; highlights
- - Chelsea fans’ preferred lineup against Everton: All the usual suspects
 
 <!-- news_marker ends -->
 
@@ -80,14 +70,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Trade war hits foreign companies in China with double tariffs
- - Vanguard rules out China in big international push
- - Europe’s far right at odds over Trump tariffs
- - Broken Justice: how Europe let its courts decay
- - Clean energy will be critical to winning the AI race with China
- - Lashing out at staff is bad for business
- - Trump and Zelenskyy hold ‘productive’ discussion at Pope’s funeral
- - Grenfell Tower fridge maker did not run adequate safety checks, council claims
+ - Demand slump fuelled by Trump tariffs hits US ports and air freight
+ - China stockpiles oil as Trump tariff shock hits crude prices
+ - Why Trump can’t dislodge Apple from China
+ - In tough times, good policy becomes still more important
+ - The spectre of dollar doomsday still looms
+ - American students turn to UK as Trump takes aim at US universities
+ - UK risks ‘lost generation’ of young workers, business warns
+ - Trump steps up criticism of Putin over continuing attacks on Ukraine
 
 <!-- ftnews_marker ends -->
 
@@ -95,7 +85,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > Artful Dodger - noun: A nimble, cunning thief or a pickpocket.
+ > windlass - noun: A device for lifting or hauling, using a rope or cable wound around a cylinder. verb tr.: To extract, lift, or bring forth with deliberate, steady effort.
 
 <!-- word_marker ends -->
 
@@ -103,33 +93,35 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Leadership and learning are indispensable to each other - John F. Kennedy
+> The ScrumMaster has no authority over Scrum team members but does have authority over the process. - Mike Cohn
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Use fewer notes
+> Children's voices
+-speaking
+-singing
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Commuter (Rated: 3)
-- Released in 2018
-- Summary: An insurance salesman/ex-cop is caught up in a life-threatening conspiracy during his daily commute home.
+- Interstellar (Rated: 7)
+- Released in 2014
+- Summary: When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 831, using [2, 6, 6, 7, 25, 75]
-- Answer: 8 solutions.
+- Target: 621, using [4, 5, 5, 5, 7, 75]
+- Answer: 1 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 25 - 7 x 2 ) x 75 + 6
+  Solution: ( 5 / 5 + 75 - 7 ) x ( 5 + 4 )
 
    </details>
 
