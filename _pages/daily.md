@@ -7,40 +7,45 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 28 April 2025
+## On Tuesday, 29 April 2025
 
-- The average temperature today is 9.22˚C,
-- With highs of 10.55˚C and lows of 7.61˚C,
-- It may feel like 8.93˚C with overcast clouds
-- The wind speed is 1.35m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 87%
-- The sun will rise at 04:44 and set at 19:26
+- The average temperature today is 11.09˚C,
+- With highs of 12.76˚C and lows of 9.27˚C,
+- It may feel like 10.24˚C with overcast clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 76%
+- The sun will rise at 04:42 and set at 19:28
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 419 days since the last change (2024-03-05)
+- It has been 420 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> challenge assumptions.
+> Focus on user needs.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Crystal Palace U21 v Brighton & Hove Albion U21
-- Leeds United v Bristol City
+- Sutton United v Leeds United U21
+- Burton Albion v Wigan Athletic
+- Solihull Moors v Rochdale
+- Chorley v King's Lynn Town
+- Boreham Wood v Dorking Wanderers
+- Arsenal v PSG
 <!-- fixture_marker ends -->
 
 
@@ -48,7 +53,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 101.16000366210938 
+- VWRL.L : 100.83999633789062 
 
 <!-- stocks_marker ends -->
 
@@ -56,13 +61,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Rugby Football Union open door for potential Chelsea games at Twickenham
+ - Bayer Leverkusen ‘prepared to spend a lot’ on Đorđe Petrović — report
  - Chelsea 1-0 Everton, Player Ratings: Robert Sánchez hates the Toffees
  - Chelsea 1-4 (2-8 agg.) Barcelona, Women’s Champions League: Post-match reaction
  - Chelsea vs. Barcelona, Women’s Champions League: Confirmed lineups; how to watch
  - Maresca happy with Chelsea’s ‘strong’ play, praises struggling trio Sánchez, Jackson, Palmer
- - Chilwell to play for the FA Cup as Crystal Palace shock Aston Villa, 3-0
- - Chelsea vs. Barcelona, Women’s Champions League: Preview, team news, how to watch
- - Chelsea 1-0 Everton, Premier League: Post-match reaction, ratings
 
 <!-- news_marker ends -->
 
@@ -70,14 +74,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Demand slump fuelled by Trump tariffs hits US ports and air freight
- - China stockpiles oil as Trump tariff shock hits crude prices
- - Why Trump can’t dislodge Apple from China
- - In tough times, good policy becomes still more important
- - The spectre of dollar doomsday still looms
- - American students turn to UK as Trump takes aim at US universities
- - UK risks ‘lost generation’ of young workers, business warns
- - Trump steps up criticism of Putin over continuing attacks on Ukraine
+ - Mark Carney’s Liberals win pivotal Canadian election
+ - The 10 charts that define Trump’s tumultuous first 100 days
+ - How Trump’s honeymoon turned sour so quickly
+ - Guess what’s coming to ever-expanding Greggs
+ - Spain races to restore full power after massive blackout
+ - Europe fears Trump preparing to walk away from Ukraine talks
+ - US and Ukraine inch closer to signing minerals deal
+ - Macquarie says it is ‘very proud’ of Thames Water ownership
 
 <!-- ftnews_marker ends -->
 
@@ -85,7 +89,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > windlass - noun: A device for lifting or hauling, using a rope or cable wound around a cylinder. verb tr.: To extract, lift, or bring forth with deliberate, steady effort.
+ > monopolylogue - noun: A performance in which one person plays multiple characters, typically all of them.
 
 <!-- word_marker ends -->
 
@@ -93,35 +97,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The ScrumMaster has no authority over Scrum team members but does have authority over the process. - Mike Cohn
+> UO quite simply stands for 'User Outcomes', and when I use it, it very simply means does the user get the right answer - Martin Lewis
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Children's voices
--speaking
--singing
+> Tape your mouth (given by Ritva Saarikko)
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Interstellar (Rated: 7)
-- Released in 2014
-- Summary: When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.
+- The Dead Room (Rated: 4)
+- Released in 2015
+- Summary: When a terrified family flees a desolate southern New Zealand farmhouse, two cynical scientists and a young psychic are sent to investigate their claims of a haunting. There they encounter a powerful spirit that will protect the h...
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 621, using [4, 5, 5, 5, 7, 75]
-- Answer: 1 solutions.
+- Target: 664, using [4, 4, 5, 9, 50, 100]
+- Answer: 12 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 5 / 5 + 75 - 7 ) x ( 5 + 4 )
+  Solution: ( ( 9 - 5 ) x 4 + 100 + 50 ) x 4
 
    </details>
 
