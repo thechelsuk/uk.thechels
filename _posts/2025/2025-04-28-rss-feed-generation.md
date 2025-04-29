@@ -24,13 +24,13 @@ The will produce a daily feed (as the pub date has no timestamp, and will be tri
 <link>page link</link>
 <description>Description</description>
 <item>
-<title>Title {{ pub_date }}</title>
+<title>Title {{ pub date }}</title>
 <link>[url]</link>
-<guid isPermaLink=“false”>Daily Rundown for {{ pub_date }}</guid>
+<guid isPermaLink=“false”>Daily Rundown for {{ pub date }}</guid>
 <description>
-<![CDATA[ {{ contents_of_page.content | markdownify }} ]]>
+<![CDATA[ {{ contents_of_page .content | markdownify }} ]]>
 </description>
-<pubDate>{{ pub_date }}</pubDate>
+<pubDate>{{ pub date }}</pubDate>
 </item>
 </channel>
 </rss>
