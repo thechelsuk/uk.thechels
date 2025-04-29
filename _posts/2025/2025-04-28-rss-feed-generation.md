@@ -13,8 +13,8 @@ The will produce a daily feed (as the pub date has no timestamp, and will be tri
 ```markdown
 ---
 ---
-{ assign contents_of_page = site.pages | where: “name”, “index.md” | first }
-{ assign pub_date = site.time | date: “%Y-%m-%d” }
+{ assign contents_of_page = site pages | where: “name”, “index md” | first }
+{ assign pub_date = site time | date: “%Y-%m-%d” }
 
 <?xml version=“1.0” encoding=“UTF-8” ?>
 <rss version=“2.0”>
