@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 01 May 2025
+## On Friday, 02 May 2025
 
-- The average temperature today is 13.21˚C,
-- With highs of 14.41˚C and lows of 10.95˚C,
-- It may feel like 12.52˚C with clear sky
-- The wind speed is 1.02m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 74%
-- The sun will rise at 04:38 and set at 19:32
+- The average temperature today is 11.25˚C,
+- With highs of 12.14˚C and lows of 10.93˚C,
+- It may feel like 10.47˚C with scattered clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 78%
+- The sun will rise at 04:36 and set at 19:33
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 422 days since the last change (2024-03-05)
+- It has been 423 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,16 +32,13 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> One Step Beyond.
+> Be humble.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Nottingham Forest v Brentford
-- Djurgarden v Chelsea
-- Athletic Bilbao v Manchester United
-- Tottenham Hotspur v Bodo/Glimt
+- Manchester City v Wolves
 <!-- fixture_marker ends -->
 
 
@@ -49,7 +46,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 101.61000061035156 
+- VWRL.L : 103.77999877929688 
 
 <!-- stocks_marker ends -->
 
@@ -57,13 +54,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
- - Đorđe Petrović, Andrey Santos nominated for French PFA end of season awards
- - Robert Sánchez, Christopher Nkunku miss Djurgården trip
- - Official: Chelsea agree short-term shirt sponsorship with DAMAC Properties
- - Manchester United 0-1 Chelsea, Women’s Super League: Post-match reaction
- - WATCH: Lucy Bronze opens the scoring for Chelsea against Manchester United! 1-0!
- - Manchester United vs. Chelsea, Women’s Super League: Confirmed lineups; how to watch
- - How should Chelsea line up against Djurgårdens in Conference League semifinal, first leg?
+ - Djurgårdens IF 1-4 Chelsea, UEFA Conference League: Post-match reaction, ratings
+ - WATCH: Nicolas Jackson makes it 4-0 Chelsea over Djurgardens!
+ - WATCH: Nicolas Jackson adds a third for Chelsea against Djurgardens! 3-0!
+ - WATCH: Noni Madueke doubles Chelsea’s lead over Djurgardens! 2-0!
+ - WATCH: Jadon Sancho opens the scoring for Chelsea against Djurgardens! 1-0!
+ - Djurgårdens IF vs. Chelsea, UEFA Conference League: Live blog; highlights
+ - The people’s choice against Djurgården: Just a bit of rotation
 
 <!-- news_marker ends -->
 
@@ -71,14 +68,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - US and Ukraine sign natural resources deal
- - EU readies ‘plan B’ should Trump walk away from Ukraine talks
- - Australia: caught between a slowing China and a chaotic US
- - Brexit lessons for Trump’s trade war
- - Trump’s bombing campaign against Houthis tests his vow to ‘stop wars’
- - Tesla board denies launching search for Musk’s successor
- - Brussels threatens UK food deal unless given long-term fishing access
- - Goldman’s Waldron says US’s early trade deals to ‘serve as a template’
+ - Reform UK wins Runcorn by-election by six votes in blow to Labour
+ - Microsoft wins Big Tech’s first earnings battle since Trump’s tariffs
+ - Get ready for a corporate rush for cash
+ - How China is quietly diversifying from US Treasuries
+ - Blair sought to advise Brazilian climate summit despite net zero criticisms
+ - France and Poland deepen defence ties in signal to Putin and Trump
+ - Europe ready to make Trump a €50bn trade offer, says EU negotiator
+ - China signals opening for trade talks with US
 
 <!-- ftnews_marker ends -->
 
@@ -86,7 +83,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > unicity - noun: The quality of being the only one of its kind: uniqueness or oneness.
+ > piepowder - noun: A traveler, especially a traveling merchant.
 
 <!-- word_marker ends -->
 
@@ -94,33 +91,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Do the planning, but throw out the plans. - Mary Poppendieck
+> The art of leadership is saying no, not yes. It is very easy to say yes - Tony Blair
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Use an old idea
+> Short circuit
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Jungle Book (Rated: 2)
-- Released in 1967
-- Summary: After a threat from the tiger Shere Khan forces him to flee the jungle, a man-cub named Mowgli embarks on a journey of self discovery with the help of panther Bagheera and free-spirited bear Baloo.
+- 30 Days Of Night (Rated: 10)
+- Released in 2007
+- Summary: After an Alaskan town is plunged into darkness for a month, it is attacked by a bloodthirsty gang of vampires.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 431, using [2, 8, 10, 50, 75, 100]
-- Answer: 5 solutions.
+- Target: 650, using [2, 8, 9, 25, 50, 100]
+- Answer: 102 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: 100 x 50 / 10 + 8 - 75 - 2
+  Solution: ( 8 / 2 + 9 ) x 100 x 25 / 50
 
    </details>
 
