@@ -7,81 +7,51 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 03 May 2025
+## On Sunday, 04 May 2025
 
-- The average temperature today is 10.25˚C,
-- With highs of 11.03˚C and lows of 9.28˚C,
-- It may feel like 9.34˚C with broken clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 77%
-- The sun will rise at 04:34 and set at 19:35
+- The average temperature today is 8.2˚C,
+- With highs of 9.6˚C and lows of 7.51˚C,
+- It may feel like 6.95˚C with broken clouds
+- The wind speed is 2.17m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 80%
+- The sun will rise at 04:33 and set at 19:37
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 424 days since the last change (2024-03-05)
+- It has been 425 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Water the plants
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Seek the best.
+> Use appropriate tools.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Crystal Palace U18 v Brighton & Hove Albion U18
-- Liverpool U18 v Everton U18
-- Tottenham Hotspur U18 v Chelsea U18
-- Bristol City v Preston North End
-- Burnley v Millwall
-- Coventry City v Middlesbrough
-- Derby County v Stoke City
-- Norwich City v Cardiff City
-- Plymouth Argyle v Leeds United
-- Portsmouth v Hull City
-- Sheffield United v Blackburn Rovers
-- Sunderland v QPR
-- Swansea City v Oxford United
-- Watford v Sheffield Wednesday
-- West Brom v Luton Town
-- Aston Villa v Fulham
-- Blackpool v Bristol Rovers
-- Bolton Wanderers v Stevenage
-- Cambridge United v Birmingham City
-- Charlton Athletic v Burton Albion
-- Huddersfield Town v Leyton Orient
-- Lincoln City v Wrexham
-- Mansfield Town v Exeter City
-- Northampton Town v Wigan Athletic
-- Reading v Barnsley
-- Rotherham United v Peterborough United
-- Shrewsbury Town v Crawley Town
-- Wycombe Wanderers v Stockport County
-- Accrington Stanley v Chesterfield
-- Bradford City v Fleetwood Town
-- Bromley v Cheltenham Town
-- Carlisle United v Salford City
-- Colchester United v Barrow AFC
-- Crewe Alexandra v Walsall
-- Grimsby Town v AFC Wimbledon
-- Morecambe v Harrogate Town
-- Newport County v Tranmere Rovers
-- Notts County v Doncaster Rovers
-- Port Vale v Gillingham
-- Swindon Town v MK Dons
-- Scunthorpe United v Chorley
-- Torquay United v Boreham Wood
-- Arsenal v AFC Bournemouth
+- Liverpool Women v Everton Women
+- Manchester United Women v Manchester City Women
+- Brighton & Hove Albion v Newcastle United
+- Blackburn Rovers Women v Newcastle United Women
+- Durham Women v Bristol City Women
+- Southampton Women v Charlton Athletic Women
+- Sunderland AFC Women v Sheffield United Women
+- Crystal Palace Women v Leicester City Women
+- Birmingham City Women v London City Lionesses
+- Tottenham Hotspur Women v Chelsea Women
+- Kidderminster Harriers v Chester
+- Eastbourne Borough v Maidstone United
+- West Ham United Women v Aston Villa Women
+- Chelsea v Liverpool
 <!-- fixture_marker ends -->
 
 
@@ -97,13 +67,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Tottenham vs. Chelsea, Women’s Super League: Preview, team news, how to watch
+ - Chelsea vs. Liverpool, Premier League: Preview, team news, how to watch
+ - How should Chelsea line up after the guard of honor against Liverpool?
  - Djurgårdens IF 1-4 Chelsea, Player Ratings: Jackson’s heating up
  - Official: Burton Albion sign Dylan Williams from Chelsea
  - Enzo Maresca very happy with emphatic win, hopes to avoid another second leg ‘struggle’
- - Djurgårdens IF 1-4 Chelsea, UEFA Conference League: Post-match reaction, ratings
- - WATCH: Nicolas Jackson makes it 4-0 Chelsea over Djurgardens!
- - WATCH: Nicolas Jackson adds a third for Chelsea against Djurgardens! 3-0!
- - WATCH: Noni Madueke doubles Chelsea’s lead over Djurgardens! 2-0!
 
 <!-- news_marker ends -->
 
@@ -111,14 +80,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - ‘Apocalyptic’: Tory wipeout as Farage storms English councils
- - An unwelcome surge of rightwing populism in Britain
- - What must Ukraine give up for peace?
- - Wanted: a mean liberal
- - Is UK house price growth a thing of the past?
- - Citi del Sol: How the party ended for Wall Street bank’s Málaga experiment
- - Dubai draws Swiss family offices tired of tax and regulation
- - UK military prevented from flying drones over soldiers’ heads
+ - Warren Buffett to step down from Berkshire Hathaway after six decades
+ - Buffett sells stocks for 10th quarter in a row
+ - Buffett devotees say farewell at poignant Omaha ‘pilgrimage’
+ - UK builds just 65 miles of motorway in 10 years
+ - EU eyes closer ties to transpacific bloc as Trump jolts trade order
+ - Spanish blackout drives use of Musk’s Starlink
+ - The great regenerator: how Nigel Farage keeps bouncing back
+ - Labour and Tories hunt for a way to counter Farage’s Reform
 
 <!-- ftnews_marker ends -->
 
@@ -134,34 +103,27 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Leadership and learning are indispensable to each other - John F. Kennedy
+> A leader is one who knows the way, goes the way, and shows the way - John C. Maxwell
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Reverse
+> Use an unacceptable color
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- 2 Guns (Rated: 3)
-- Released in 2013
-- Summary: Two hardened criminals get into trouble with the US border patrol after meeting with a Mexican drug lord, and then revelations start to unfold.
+- Robots (Rated: 4)
+- Released in 2005
+- Summary: In a robot world, a young idealistic inventor travels to the big city to join his inspiration's company, only to find himself opposing its sinister new management.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 461, using [4, 5, 9, 10, 50, 100]
-- Answer: 16 solutions.
-
-- <details><summary><code>Solution</code></summary>
-
-  Solution: ( 50 / 10 + 100 + 9 ) x 4 + 5
-
-   </details>
+- Target: 813, using [1, 9, 25, 50, 75, 100]
 
 <!-- game_marker ends -->
