@@ -1,14 +1,14 @@
 {% include header.html %}
 <article>
-    <h1 class="post-title">{{ post.title }}</h1>
+    <h1 class="post-title">{{ page.title }}</h1>
     {{ content }} 
     
-    {% if post.link == true and post.cited == true%}
-    <p>• <a href="{{ post.link }}">{{post.cited}} &rarr;</a></p>
+    {% if page.link == true and page.cited == true %}
+    <p>• <a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
     {% endif %} 
     
-    {% if post.cited == true and post.link == false %}
-    <p>• {{post.cited}}</p>
+    {% if page.cited == true and page.link == false %}
+    <p>• {{page.cited}}</p>
     {% endif %} 
     
     {% if page.id %}
