@@ -1,19 +1,18 @@
 {% include header.html %}
 <article>
-    <h1 class="post-title">{{ page.title }}</h1>
-    {{ content }} 
+  <h1 class="post-title">{{ page.title }}</h1>
+  {{ content }}
 
+  {% if page.link and page.cited %}
+  <p>• <a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
+  {% elsif page.cited %}
+  <p>• {{page.cited}}</p>
+  {% endif %}
 
-    {% if page.link and page.cited == true %}
-    <p>• <a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
-    {% elsif  page.cited == true and page.link == null %}
-    <p>• {{page.cited}}</p>
-    {% endif %} 
-    
-    {% if page.id %}
-    <p class="meta">
-      • Published {{ page.date | date: "%-d %B %Y" }}, with {{ page.content | number_of_words }} words.
-    </p>
-    {% endif %}
+  {% if page.id %}
+  <p class="meta">
+    • Published {{ page.date | date: "%-d %B %Y" }}, with {{ page.content | number_of_words }} words.
+  </p>
+  {% endif %}
 </article>
 {% include footer.html %}

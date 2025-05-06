@@ -2,7 +2,7 @@
 
 layout: post
 date: 2025-05-04
-title: Change is a constant 
+title: Change is a constant
 cited: Emma Hayes
 
 ---

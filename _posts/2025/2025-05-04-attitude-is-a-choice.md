@@ -7,4 +7,4 @@ cited: Viktor E. Frankl
 
 ---
 
-> One thing you can't take away from me is how I choose to respond to what you do to me. The last of one's freedoms is to choose one's attitudes in any circumstances."
+> One thing you can't take away from me is how I choose to respond to what you do to me. The last of one's freedoms is to choose one's attitudes in any circumstances.
