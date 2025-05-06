@@ -7,7 +7,7 @@
     <p>• <a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
     {% endif %} 
     
-    {% if page.cited == true and page.link == false %}
+    {% if page.cited == true and not page.link %}
     <p>• {{page.cited}}</p>
     {% endif %} 
     
