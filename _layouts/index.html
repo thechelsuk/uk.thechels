@@ -3,34 +3,34 @@
 <p><small><b>{{ site.posts | size }}</b> total posts.</small></p>
 <div id="blog-archives">
 
-        {% for post in site.posts limit:5 %}
-            <div class="posts">
-              <a href="{{ post.url }}">{{ post.title }}</a> {% if post.link %} &rarr;{% endif %}
-              <span class="meta">{{ post.content | number_of_words }} words on {{ post.date | date: "%-d %B %Y" }}.</span>
-            </div>
-        {% endfor %}
+  {% for post in site.posts limit:5 %}
+  <div class="posts">
+    <a href="{{ post.url }}">{{ post.title }}</a> {% include post_icon.html %}
+    <span class="meta">{{ post.content | number_of_words }} words on {{ post.date | date: "%-d %B %Y" }}.</span>
+  </div>
+  {% endfor %}
 
-    {% assign min = 1 %}
-    {% assign max = site.data.offers.size %}
-    {% assign diff = max | minus: min %}
-    {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
-    {% assign offer =  site.data.offers[item] %}
-        <div class="posts" id="{{offer.id}}">
-           &rarr; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a>
-          <span class="meta">Sponsor/Advert, T&amp;Cs apply.</span>
-        </div>
+  {% assign min = 1 %}
+  {% assign max = site.data.offers.size %}
+  {% assign diff = max | minus: min %}
+  {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
+  {% assign offer = site.data.offers[item] %}
+  <div class="posts" id="{{offer.id}}">
+    &rarr; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a>
+    <span class="meta">Sponsor/Advert, T&amp;Cs apply.</span>
+  </div>
 
 
   {% for post in site.posts offset:5 %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% unless year == this_year %}
-    {% assign year = this_year %}
-    <h2>{{ year }}</h2>
+  {% assign year = this_year %}
+  <h2>{{ year }}</h2>
   {% endunless %}
-          <div class="posts">
-            <a href="{{ post.url }}">{{ post.title }}</a> {% if post.link %} &rarr;{% endif %}
-            <span class="meta">{{ post.content | number_of_words }} words on {{ post.date | date: "%-d %B %Y" }}.</span>
-          </div>
+  <div class="posts">
+    <a href="{{ post.url }}">{{ post.title }}</a> {% include post_icon.html %}
+    <span class="meta">{{ post.content | number_of_words }} words on {{ post.date | date: "%-d %B %Y" }}.</span>
+  </div>
   {% endfor %}
 </div>
 {% include footer.html %}

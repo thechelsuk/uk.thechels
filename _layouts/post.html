@@ -4,9 +4,9 @@
   {{ content }}
 
   {% if page.link and page.cited %}
-  <p>• <a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
+  <p>&raquo;<a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
   {% elsif page.cited %}
-  <p>• {{page.cited}}</p>
+  <p>&raquo; {{page.cited}}</p>
   {% endif %}
 
   {% if page.id %}
