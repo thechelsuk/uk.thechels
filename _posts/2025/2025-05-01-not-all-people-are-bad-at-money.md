@@ -12,10 +12,10 @@ cited: IFA Magazine
 >
 > Across the UK, many parents are setting their children up with savings to access when they reach adulthood, with the FOI request revealing there are 2,170,000 JISAs held, which will be passed onto the child recipient once they reach 16 years old. These contain an average value of £4,370, with the majority of accounts having up to £25,000 saved:
 
-| Market Value Range	| Number of Junior ISA accounts |
+| Market Value Range | Number of Junior ISA accounts |
 |-- | --|
-| £0 – £24,999	 | 2,100,100 |
-| £25,000 – £49,999 |	55,400 |
-| £50,000 – £74,999 |	11,800 |
-| £75,000 – £99,999 |	2,400 |
-| £100,000+	| 400 |
+| £0 – £24,999  | 2,100,100 |
+| £25,000 – £49,999 | 55,400 |
+| £50,000 – £74,999 | 11,800 |
+| £75,000 – £99,999 | 2,400 |
+| £100,000+ | 400 |
