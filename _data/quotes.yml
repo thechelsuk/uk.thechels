@@ -1,89 +1,190 @@
-- A genuine leader is not a searcher for consensus but a molder of consensus. - Martin Luther King Jr.
-- A good objective of leadership is to help those who are doing poorly to do well and to help those who are doing well to do even better. - Jim Rohn
-- A great person attracts great people and knows how to hold them together. - Johann Wolfgang Von Goethe
-- A great ScrumMaster grasps the skills and mindset of the role. - Geoff Watts
-- A great ScrumMaster will become dispensable and wanted by the team - Geoff Watts
-- A key goal of continuous delivery is changing the economics of the software delivery process so the cost of pushing out individual changes is very low - Accelerate
-- A leader is a dealer in hope - Napoleon Bonaparte
-- A leader is best when people barely know he exists. When his work is done, his aim fulfilled, they will say we did it ourselves. - Lao Tzu
-- A leader is one who knows the way, goes the way, and shows the way - John C. Maxwell
-- Agile is a philosophy, not a methodology - Paul Bennett
-- Anyone who has never made a mistake has never tried anything new - Albert Einstein
-- As a general rule of thumb, when benefits are not quantified at all, assume there aren't any. - Tom DeMarco and Timothy Lister
-- As an Agile coach, you don't need to have all the answers; it takes time and a few experiments to hit the right approach - Rachel Davies and Liz Sedley
-- As ScrumMaster, your job is to improve the culture, empower people, increase motivation, and boost proactivity. - Zuzana Sochova
-- Be fixed on the vision, but flexible on the journey - Jeff Bezos
-- Breakdown large user stories using SPIDR (spike, paths, interfaces, data, rules). - Mike Cohn
-- By limiting not only the amount of work we start, but also the work we commit to doing, we can improve our flow and achieve better quality, better throughput and more consistency
-- Do not follow where the path may lead. Go instead where there is no path and leave a trail. - Ralph Waldo Emerson
-- Do the planning, but throw out the plans. - Mary Poppendieck
-- Do not cling to mistake because you spent a lot of time making it - unknown
-- Do not try and make a right choice, make a choice and then make it right. - Joe Delaney
-- Empower the team to resolve their own impediments. - Geoff Watts
-- Encourage use of 'yes, and' (adding) rather 'yes, but' (ending/blocking). - Geoff Watts
-- Even though working in small chunks adds some overhead, it reaps enormous rewards by allowing us to avoid work that delivers zero or negative value for our organisations - Accelerate
-- Everything is vague to a degree you do not realize 'till you have tried to make it precise - Bertrand Russell
-- Failure is simply the opportunity to begin again, this time more intelligently - Henry Ford
-- Fix the things that hurt the most - unknown
-- Football is for everyone. It is not for the privileged, it is not for the few, it is not for the elite. - Emma Hayes
-- Great Product Owners keeps options open. - Geoff Watts
-- Great ScrumMasters are not solely focused on their teams but are able to build communities across the organization. - Zuzana Sochova
-- Great ScrumMasters must be practiced in soft skills and be good listeners. - Zuzana Sochova
-- He who cannot be a good follower cannot be a good leader - Aristotle
-- I keep the white-belt mentality that I can learn from anyone, anywhere, anytime. - Georges St-Pierre
-- I start with the premise that the function of leadership is to produce more leaders, not more followers. - Ralph Nader
-- If you as ScrumMaster keep the positivity high, you are halfway to achieving your goal. - Zuzana Sochova
-- If your actions inspire others to dream more, learn more, do more and become more, you are a leader. - John Quincy Adams
-- In matters of style, swim with the current; in matters of principle, stand like a rock. - Thomas Jefferson
-- Innovation distinguishes between a leader and a follower - Steve Jobs
-- It is not failing fast, but learning early  - Anon
-- It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change. - Charles Darwin
-- It is never about how you start - it's always about how you finish. - Dwayne Johnson
-- It is only a problem if it is a problem - Joe Delaney
-- Know the power of silence. - Geoff Watts
-- Leaders instil in their people a hope for success and a belief in themselves. Positive leaders empower people to accomplish their goals. - Unknown
-- Leadership and learning are indispensable to each other - John F. Kennedy
-- Leadership is the art of giving people a platform for spreading ideas that work. - Seth Godin
-- Leadership is the capacity to translate vision into reality - Warren Bennis
-- Management is doing things right; leadership is doing the right things - Peter F. Drucker
-- Never doubt that a small group of thoughtful, concerned citizens can change the world. Indeed it is the only thing that ever has. - Margeret Mead
-- Never forget that the great ScrumMaster is, in the first place, a leader. - Zuzana Sochova
-- Nothing endures but change - Heraclitus
-- Observing, listening, and not interfering are the most important aspects of a great ScrumMaster's job. - Zuzana Sochova
-- Opportunity is missed by most people because it is dressed in overalls and looks like work - Thomas Edison
-- People with goals succeed because they know where they're going - Earl Nightingale
-- Plans are worthless, but planning is everything - Dwight Eisenhower
-- Scrum is a mindset, culture, and philosophy, not just a fixed set of practices. - Zuzana Sochova
-- Scrum is like your mother-in-law, it points out ALL your faults - Ken Schwaber
-- ScrumMasters aren't just an additional expense; they create high-performing teams. - Zuzana Sochova
-- Simplicity is the ultimate sophistication - Leonardo Da Vinci
-- Stable Velocity. Sustainable Pace - Mike Cottmeyer
-- Stop starting things, and start finishing things - Jean Tabaka
-- The art of leadership is saying no, not yes. It is very easy to say yes - Tony Blair
-- The best way to empower a team is to begin trusting the team. - Mike Cohn
-- The best way to get a project done faster is to start sooner - Jim Highsmith
-- The great ScrumMaster is a leader who creates new leaders out of the people around him. - Zuzana Sochova
-- The more elaborate our means of communication, the less we communicate. - Joseph Priestley
-- The most important thing for me is making sure the team is at the top of the table when the season ends - Sam Kerr
-- The Product Owner should never act in the ScrumMaster role. The two roles have conflicting goals. - Zuzana Sochova
-- The ScrumMaster has no authority over Scrum team members but does have authority over the process. - Mike Cohn
-- The ScrumMaster is never finished with learning. - Zuzana Sochova
-- The ScrumMaster must encourage the team to take responsibility. - Zuzana Sochova
-- The ScrumMaster should stay only one step ahead of the team and organization, pulling them out of their habits and customs. - Zuzana Sochova
-- The ScrumMaster's goal is to encourage self-organization. - Zuzana Sochova
-- The ScrumMaster's role is to support team rather than individual behaviour. - Zuzana Sochova
-- The single biggest way to impact an organization is to focus on leadership development. There is almost no limit to the potential of an organization that recruits good people, raises them up as leaders and continually develops them - John Maxwell
-- The true mark of a leader is the willingness to stick with a bold course of action — an unconventional business strategy, a unique product-development roadmap, a controversial marketing campaign — even as the rest of the world wonders why you're not marching in step with the status quo. In other words, real leaders are happy to zig while others zag. They understand that in an era of hyper-competition and non-stop disruption, the only way to stand out from the crowd is to stand for something special. - Bill Taylor
-- The very essence of leadership is that you have to have vision. You can't blow an uncertain trumpet. - Theodore M. Hesburgh
-- To be uncertain is to be uncomfortable, but to be certain is to be ridiculous - Chinese Proverb
-- UO quite simply stands for 'User Outcomes', and when I use it, it very simply means does the user get the right answer - Martin Lewis
-- User stories are not a replacement for requirements but a placeholder/marker. - Mike Cohn
-- We don't rise to the level of our expectations; we fall to the level of our training. - Archilochus
-- What got us here, won't get us there - Emma Hayes
-- You can never try to escape one danger without encountering another. Prudence consists in recognising the different dangers and in accepting the least bad as good. - Machiavelli
-- You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You must do the thing you think you cannot do. - Eleanor Roosevelt
-- After you plant a seed in the ground, you do not dig it up every week to see how it is doing. - William Coyne
-- If you are early on in your career and they give you a choice between a great mentor or higher pay, take the mentor every time. It's not even close. - Stanley Druckenmiller
-- Change is a constant in all of our lives, and if you do not evolve, you are dead. To stay at the top, you cannot wait for the crisis. You must take steps to deal with it before it arises. - Emma Hayes
-- If your job is constantly putting out fires, it helps not to walk around with a flamethrower. - Emma Hayes
+- "A genuine leader is not a searcher for consensus but a molder of consensus. - Martin Luther King Jr."
+- "A good objective of leadership is to help those who are doing poorly to do well and to help those who are doing well to do even better. - Jim Rohn"
+- "A great person attracts great people and knows how to hold them together. - Johann Wolfgang Von Goethe"
+- "A great ScrumMaster grasps the skills and mindset of the role. - Geoff Watts"
+- "A great ScrumMaster will become dispensable and wanted by the team - Geoff Watts"
+- "A key goal of continuous delivery is changing the economics of the software delivery process so the cost of pushing out individual changes is very low - Accelerate"
+- "A leader is a dealer in hope - Napoleon Bonaparte"
+- "A leader is best when people barely know he exists. When his work is done, his aim fulfilled, they will say we did it ourselves. - Lao Tzu"
+- "A leader is one who knows the way, goes the way, and shows the way - John C. Maxwell"
+- "Agile is a philosophy, not a methodology - Paul Bennett"
+- "Anyone who has never made a mistake has never tried anything new - Albert Einstein"
+- "As a general rule of thumb, when benefits are not quantified at all, assume there aren't any. - Tom DeMarco and Timothy Lister"
+- "As an Agile coach, you don't need to have all the answers; it takes time and a few experiments to hit the right approach - Rachel Davies and Liz Sedley"
+- "As ScrumMaster, your job is to improve the culture, empower people, increase motivation, and boost proactivity. - Zuzana Sochova"
+- "Be fixed on the vision, but flexible on the journey - Jeff Bezos"
+- "Breakdown large user stories using SPIDR (spike, paths, interfaces, data, rules). - Mike Cohn"
+- "By limiting not only the amount of work we start, but also the work we commit to doing, we can improve our flow and achieve better quality, better throughput and more consistency"
+- "Do not follow where the path may lead. Go instead where there is no path and leave a trail. - Ralph Waldo Emerson"
+- "Do the planning, but throw out the plans. - Mary Poppendieck"
+- "Do not cling to mistake because you spent a lot of time making it - unknown"
+- "Do not try and make a right choice, make a choice and then make it right. - Joe Delaney"
+- "Empower the team to resolve their own impediments. - Geoff Watts"
+- "Encourage use of 'yes, and' (adding) rather 'yes, but' (ending/blocking). - Geoff Watts"
+- "Even though working in small chunks adds some overhead, it reaps enormous rewards by allowing us to avoid work that delivers zero or negative value for our organisations - Accelerate"
+- "Everything is vague to a degree you do not realize 'till you have tried to make it precise - Bertrand Russell"
+- "Failure is simply the opportunity to begin again, this time more intelligently - Henry Ford"
+- "Fix the things that hurt the most - unknown"
+- "Football is for everyone. It is not for the privileged, it is not for the few, it is not for the elite. - Emma Hayes"
+- "Great Product Owners keeps options open. - Geoff Watts"
+- "Great ScrumMasters are not solely focused on their teams but are able to build communities across the organization. - Zuzana Sochova"
+- "Great ScrumMasters must be practiced in soft skills and be good listeners. - Zuzana Sochova"
+- "He who cannot be a good follower cannot be a good leader - Aristotle"
+- "I keep the white-belt mentality that I can learn from anyone, anywhere, anytime. - Georges St-Pierre"
+- "I start with the premise that the function of leadership is to produce more leaders, not more followers. - Ralph Nader"
+- "If you as ScrumMaster keep the positivity high, you are halfway to achieving your goal. - Zuzana Sochova"
+- "If your actions inspire others to dream more, learn more, do more and become more, you are a leader. - John Quincy Adams"
+- "In matters of style, swim with the current; in matters of principle, stand like a rock. - Thomas Jefferson"
+- "Innovation distinguishes between a leader and a follower - Steve Jobs"
+- "It is not failing fast, but learning early  - Anon"
+- "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change. - Charles Darwin"
+- "It is never about how you start - it's always about how you finish. - Dwayne Johnson"
+- "It is only a problem if it is a problem - Joe Delaney"
+- "Know the power of silence. - Geoff Watts"
+- "Leaders instil in their people a hope for success and a belief in themselves. Positive leaders empower people to accomplish their goals. - Unknown"
+- "Leadership and learning are indispensable to each other - John F. Kennedy"
+- "Leadership is the art of giving people a platform for spreading ideas that work. - Seth Godin"
+- "Leadership is the capacity to translate vision into reality - Warren Bennis"
+- "Management is doing things right; leadership is doing the right things - Peter F. Drucker"
+- "Never doubt that a small group of thoughtful, concerned citizens can change the world. Indeed it is the only thing that ever has. - Margeret Mead"
+- "Never forget that the great ScrumMaster is, in the first place, a leader. - Zuzana Sochova"
+- "Nothing endures but change - Heraclitus"
+- "Observing, listening, and not interfering are the most important aspects of a great ScrumMaster's job. - Zuzana Sochova"
+- "Opportunity is missed by most people because it is dressed in overalls and looks like work - Thomas Edison"
+- "People with goals succeed because they know where they're going - Earl Nightingale"
+- "Plans are worthless, but planning is everything - Dwight Eisenhower"
+- "Scrum is a mindset, culture, and philosophy, not just a fixed set of practices. - Zuzana Sochova"
+- "Scrum is like your mother-in-law, it points out ALL your faults - Ken Schwaber"
+- "ScrumMasters aren't just an additional expense; they create high-performing teams. - Zuzana Sochova"
+- "Simplicity is the ultimate sophistication - Leonardo Da Vinci"
+- "Stable Velocity. Sustainable Pace - Mike Cottmeyer"
+- "Stop starting things, and start finishing things - Jean Tabaka"
+- "The art of leadership is saying no, not yes. It is very easy to say yes - Tony Blair"
+- "The best way to empower a team is to begin trusting the team. - Mike Cohn"
+- "The best way to get a project done faster is to start sooner - Jim Highsmith"
+- "The great ScrumMaster is a leader who creates new leaders out of the people around him. - Zuzana Sochova"
+- "The more elaborate our means of communication, the less we communicate. - Joseph Priestley"
+- "The most important thing for me is making sure the team is at the top of the table when the season ends - Sam Kerr"
+- "The Product Owner should never act in the ScrumMaster role. The two roles have conflicting goals. - Zuzana Sochova"
+- "The ScrumMaster has no authority over Scrum team members but does have authority over the process. - Mike Cohn"
+- "The ScrumMaster is never finished with learning. - Zuzana Sochova"
+- "The ScrumMaster must encourage the team to take responsibility. - Zuzana Sochova"
+- "The ScrumMaster should stay only one step ahead of the team and organization, pulling them out of their habits and customs. - Zuzana Sochova"
+- "The ScrumMaster's goal is to encourage self-organization. - Zuzana Sochova"
+- "The ScrumMaster's role is to support team rather than individual behaviour. - Zuzana Sochova"
+- "The single biggest way to impact an organization is to focus on leadership development. There is almost no limit to the potential of an organization that recruits good people, raises them up as leaders and continually develops them - John Maxwell"
+- "The true mark of a leader is the willingness to stick with a bold course of action — an unconventional business strategy, a unique product-development roadmap, a controversial marketing campaign — even as the rest of the world wonders why you're not marching in step with the status quo. In other words, real leaders are happy to zig while others zag. They understand that in an era of hyper-competition and non-stop disruption, the only way to stand out from the crowd is to stand for something special. - Bill Taylor"
+- "The very essence of leadership is that you have to have vision. You can't blow an uncertain trumpet. - Theodore M. Hesburgh"
+- "To be uncertain is to be uncomfortable, but to be certain is to be ridiculous - Chinese Proverb"
+- "UO quite simply stands for 'User Outcomes', and when I use it, it very simply means does the user get the right answer - Martin Lewis"
+- "User stories are not a replacement for requirements but a placeholder/marker. - Mike Cohn"
+- "We don't rise to the level of our expectations; we fall to the level of our training. - Archilochus"
+- "What got us here, won't get us there - Emma Hayes"
+- "You can never try to escape one danger without encountering another. Prudence consists in recognising the different dangers and in accepting the least bad as good. - Machiavelli"
+- "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You must do the thing you think you cannot do. - Eleanor Roosevelt"
+- "After you plant a seed in the ground, you do not dig it up every week to see how it is doing. - William Coyne"
+- "If you are early on in your career and they give you a choice between a great mentor or higher pay, take the mentor every time. It's not even close. - Stanley Druckenmiller"
+- "Change is a constant in all of our lives, and if you do not evolve, you are dead. To stay at the top, you cannot wait for the crisis. You must take steps to deal with it before it arises. - Emma Hayes"
+- "If your job is constantly putting out fires, it helps not to walk around with a flamethrower. - Emma Hayes"
 - "One thing you cannot take away from me is how I choose to respond to what you do to me. The last of one's freedoms is to choose one's attitudes in any circumstances. - Viktor Frankl"
+- "When to use iterative development? You should use iterative development only on projects that you want to succeed. - Martin Fowler, Author and Programmer"
+- "An organization that treats its programmers as morons will soon have programmers that are willing and able to act like morons only. - Bjarne Stroustrup, Computer Scientist"
+- "Do the planning, but throw out the plans. - Mary Poppendieck, Lean Trainer and Author"
+- "There is nothing so useless as doing efficiently that which should not be done at all. - Peter Drucker"
+- "The only way to go fast is to go well. - Robert C. Martin (Uncle Bob), Agile Trainer and Author"
+- "The value of an idea lies in the using of it. - Thomas Edison"
+- "Nothing endures but change. - Heraclitus"
+- "Stable Velocity. Sustainable Pace. - Mike Cottmeyer, Agile Author and Coach"
+- "The secret of getting ahead is getting started. The secret of getting started is breaking your complex overwhelming tasks into small manageable tasks, and then start on the first one. - Anonymous"
+- "As ScrumMasters, we should all value being great over being good. - Geoff Watts, Scrum Trainer and Author"
+- "It seems that perfection is reached not when there is nothing left to add, but when there is nothing left to take away. - Antoine de Saint-Exupéry, Author"
+- "It is a capital mistake to theorize before one has data. - Sherlock Holmes, Scandal in Bohemia"
+- "Everything stinks till it’s finished. - Dr. Seuss"
+- "Right and wrong cease to be useful concepts when you’re talking about software development. - Kent Beck, XP Trainer and Author"
+- "If you want a guarantee, buy a toaster. - Clint Eastwood, as Nick Pulovski in The Rookie"
+- "A market is never saturated with a good product, but it is very quickly saturated with a bad one. - Henry Ford"
+- "As a software development consultant, I've never encountered a successful software company (although my sample size is limited) in which the team and project leaders were not technically savvy. - Jim Highsmith, Agile Author"
+- "The important thing is not your process. The important thing is your process for improving your process. - Henrik Kniberg, Agile Trainer and Author"
+- "Most teams aren’t teams at all but merely collections of individual relationships with the boss. Each individual vying with the others for power, prestige, and position. - Douglas McGregor, Management Professor"
+- "Keep your roadmap simple and easy to understand. Capture what really matters; leave out the rest. - Roman Pichler, Agile Trainer and Author"
+- "When forced to work within a strict framework the imagination is taxed to its utmost – and will produce its richest ideas. Given total freedom the work is likely to sprawl. - T. S. Eliot, Poet"
+- "Simplicity is the ultimate sophistication. - Leonardo da Vinci"
+- "Scrum is like your mother-in-law, it points out ALL your faults. - Ken Schwaber, Scrum Trainer and Author"
+- "Failure is simply the opportunity to begin again, this time more intelligently. - Henry Ford"
+- "As a general rule of thumb, when benefits are not quantified at all, assume there aren’t any. - Tom DeMarco and Timothy Lister, Software Development Authors"
+- "This indispensable first step to getting what you want is this: Decide what you want. - Ben Stein, Actor"
+- "Anyone who has never made a mistake has never tried anything new. - Albert Einstein"
+- "That which is a feature to a component team is a task to a feature team. - Ken Rubin, Agile Author and Trainer"
+- "Be honest – Without objectivity and honesty, the project team is set up for failure, even if developing iteratively. - Ian Spence and Kurt Bittner, Agile Authors"
+- "To be uncertain is to be uncomfortable, but to be certain is to be ridiculous. - Chinese Proverb"
+- "Software is the most malleable product. Companies need to use this characteristic to their competitive advantage, and sticking to traditional waterfall development negates this advantage. - Jim Highsmith, Agile Author"
+- "The more elaborate our means of communication, the less we communicate. - Joseph Priestley, Theologian"
+- "Everything is vague to a degree you do not realize ‘till you have tried to make it precise. - Bertrand Russell, Philosopher"
+- "Scrum without automation is like driving a sports car on a dirt track – you won’t experience the full potential, you will get frustrated, and you will probably end up blaming the car… - Ilan Goldstein, Scrum Trainer and Author"
+- "As an Agile coach, you don't need to have all the answers; it takes time and a few experiments to hit on the right approach. - Rachel Davies and Liz Sedley, Agile Trainers and Authors"
+- "Innovation is a bottoms-up, decentralized, and unpredictable thing, but that doesn’t mean it cannot be managed. - Eric Ries, Author, The Lean Startup"
+- "Plans are worthless, but planning is everything. - Dwight Eisenhower"
+- "In XP, we don’t divide and conquer. We conquer and divide. First we make something that works, then we bust that up and solve the little parts. - Kent Beck, XP Trainer and Author"
+- "After working for some years in the domains of large, multisite, and offshore development, we have distilled our experience and advice down to the following: Don’t do it. - Bas Vodde and Craig Larman, Agile Trainers and Authors"
+- "First-time product owners need time, trust, and support to grow into their new role. - Roman Pichler, Agile Trainer and Author"
+- "If you tell people where to go, but not how to get there, you’ll be amazed by the results. - General George S. Patton"
+- "Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill"
+- "If you define the problem correctly, you almost have the solution. - Steve Jobs"
+- "We define an agile tester this way: a professional tester who embraces change, collaborates well with both technical and business people, and understands the concept of using tests to document requirements and drive development. - Lisa Crispin and Janet Gregory, Agile Trainers and Authors"
+- "You improvise. You adapt. You overcome. - Clint Eastwood, as Sergeant Highway in Heartbreak Ridge"
+- "Planning is a quest for value. - Mike Cohn, Agile Trainer and Author"
+- "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time. - Thomas Edison"
+- "As a rule of thumb, for every user who tells you about a problem, there will be between 10 and 100 other users who experienced the same problem and didn’t think to get in touch. - Paul Butcher, Software Engineering Author"
+- "Luck is not a factor. Hope is not a strategy. Fear is not an option. - James Cameron"
+- "To achieve great things, two things are needed: a plan, and not quite enough time. - Leonard Bernstein"
+- "Grand principles that generate no action are mere vapor. Conversely, specific practices in the absence of guiding principles are often inappropriately used. - Jim Highsmith, Agile Author"
+- "The thing is, Bob, it’s not that I’m lazy, it’s that I just don’t care. - Ron Livingston, as Peter Gibbons in Office Space"
+- "If everything seems under control, you’re not going fast enough. - Mario Andretti, World Champion Racing Driver"
+- "Prediction is very difficult, especially about the future. - Niels Bohr, Physicist"
+- "To improve is to change; to be perfect is to change often. - Winston Churchill"
+- "Whether you think that you can, or that you can’t, you are usually right. - Henry Ford"
+- "Every great product owner needs a great ScrumMaster. - Roman Pichler, Agile Trainer and Author"
+- "The more they over think the plumbing, the easier it is to stop up the drain. - James Doohan, as Scotty in Star Trek III"
+- "It doesn’t matter how good you are today; if you’re not better next month, you’re no longer agile. - Mike Cohn, Agile Trainer and Author"
+- "Focus on idle work not idle workers to achieve fast, flexible flow. - Ken Rubin, Agile Author and Trainer"
+- "It’s never about how you start – it’s always about how you finish. - Dwayne Johnson, The Rock"
+- "Remove any feature, process, or effort that does not contribute directly to the learning you seek. - Eric Ries, Author, The Lean Startup"
+- "Agility means that you are faster than your competition. Agile time frames are measured in weeks and months, not years. - Michael Hugos, Agile Systems Architect"
+- "The four most important words for Scrum Masters are: Let’s ask the team. - Kristen Sammons, Agile Evangelist & Scrum Master"
+- "We don’t need an accurate document. We need a shared understanding. - Jeff Patton, Agile Trainer"
+- "If you have a choice of two things and can’t decide, take both. - Gregory Corso, Poet"
+- "Agile leaders lead teams, non-agile ones manage tasks. - Jim Highsmith, Agile Author"
+- "Change is scary, but complacency is deadly. - Dave Dame, Agile Leader"
+- "Design and programming are human activities; forget that and all is lost. - Bjarne Stroustrup, Computer Scientist"
+- "Scrum focuses on being agile which may (and should) lead to improving. Kanban focuses on improving, which may lead to being agile. - Karl Scotland, Agile Trainer"
+- "When we go into that new project, we believe in it all the way. We have confidence in our ability to do it right. - Walt Disney"
+- "Agile teams produce a continuous stream of value, at a sustainable pace, while adapting to the changing needs of the business. - Elisabeth Hendrickson, Agile Author and Trainer"
+- "People with goals succeed because they know where they’re going. - Earl Nightingale, Motivational Speaker"
+- "Opportunity is missed by most people because it is dressed in overalls and looks like work. - Thomas Edison"
+- "In everything we do, whether writing tests, writing production code, or refactoring, we keep the system executing at all times. - Robert C. Martin (Uncle Bob), Agile Trainer and Author"
+- "Agile is all about teams working together to produce great software. As an Agile coach, you can help your team go from first steps to running with Agile to unleashing their full Agile potential. - Rachel Davies and Liz Sedley, Agile Trainers and Authors"
+- "No matter what the problem is, it's always a people problem. - Gerald M. Weinberg"
+- "A wrong decision is better than no decision. - Tony Soprano"
+- "It is always wise to look ahead, but difficult to look further than you can see. - Winston Churchill"
+- "Although self-organizing is a good term, it has, unfortunately, become confused with anarchy. - Jim Highsmith, Agile Author"
+- "The benefit of allowing a team to self-organize isn’t that the team finds some optimal organization for their work that a manager may have missed. Rather, it is that by allowing the team to self-organize, they are encouraged to fully own the problem. - Mike Cohn, Agile Trainer and Author"
+- "Meetings should be like salt–a spice sprinkled carefully to enhance a dish, not poured recklessly over every forkful. - Jason Fried, Founder, Basecamp"
+- "There’s no sense in being precise when you don’t even know what you’re talking about. - John von Neumann, Physicist"
+- "Kill your product if a pivot is not beneficial and persevering no option. It's tough but the right thing to do. - Roman Pichler, Agile Trainer and Author"
+- "Remember: it’s not the documentation that needs to be in sync, but the people. - George Dinwiddie, Agile Coach and Trainer"
+- "The first thing to realize when formulating your first DoD (Definition of Done) is that it isn’t cast in stone. You don’t need to spend an eternity deliberating what it should be, because it can evolve over time. - Ilan Goldstein, Scrum Trainer and Author"
+- "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler, Author and Programmer"
+- "However beautiful the strategy, you should occasionally look at the results. - Winston Churchill"
+- "Be prepared to cut your losses – Canceling bad projects early is success because you save time, money and resources that can be applied to better opportunities. - Ian Spence and Kurt Bittner, Agile Authors"
+- "The best way to get a project done faster is to start sooner. - Jim Highsmith, Agile Author"
+- "Optimism is an occupational hazard of programming: feedback is the treatment. - Kent Beck, XP Trainer and Author"
+- "Inside every large program, there is a small program trying to get out. - C.A.R. Hoare, Computer Scientist"
+- "People don’t adopt a methodology, they adapt it. - Tom DeMarco, Author"
+- "Be fixed on the vision, but flexible on the journey. - Jeff Bezos, Founder of Amazon"
+- "Scaling agile always sounds to me like scaling small-batch, hand-crafted artisanal beer. You end up with Bud Light. - Andy Hunt, Pragmatic Programmer"
+- "Facts are better than dreams. - Winston Churchill"
+- "Stop starting things, and start finishing things. - Jean Tabaka"
+- "If you can dream it, you can do it. - Walt Disney"
+- "It’s better to be roughly right than precisely wrong. - John Maynard Keynes, Economist"
+- "Intelligence is the ability to adapt to change. - Stephen Hawking"
+- "Agile is a philosophy, not a methodology. - Paul Bennett"
