@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 07 May 2025
+## On Thursday, 08 May 2025
 
-- The average temperature today is 6.38˚C,
-- With highs of 8.31˚C and lows of 4.36˚C,
-- It may feel like 5.38˚C with overcast clouds
-- The wind speed is 1.62m/s and visibility is 10000m
-- The pressure is 1024hPa and humidity is 86%
-- The sun will rise at 04:27 and set at 19:41
+- The average temperature today is 8.48˚C,
+- With highs of 8.48˚C and lows of 8.48˚C,
+- It may feel like 6.87˚C with clear sky
+- The wind speed is 2.72m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 78%
+- The sun will rise at 04:26 and set at 19:43
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 428 days since the last change (2024-03-05)
+- It has been 429 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,13 +32,16 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Design for constant evolution.
+> Bias towards action.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- PSG v Arsenal
+- Bristol City v Sheffield United
+- Chelsea v Djurgarden
+- Bodo/Glimt v Tottenham Hotspur
+- Manchester United v Athletic Bilbao
 <!-- fixture_marker ends -->
 
 
@@ -46,7 +49,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 103.81999969482422 
+- VWRL.L : 103.45999908447266 
 
 <!-- stocks_marker ends -->
 
@@ -54,12 +57,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Chelsea vs. Djurgårdens IF, UEFA Conference League: Preview, team news, how to watch
+ - Chelsea 3-1 Liverpool, Premier League:  Tactical Analysis
+ - How should Chelsea line up against Djurgården to reach the Conference League final?
  - Club León lose appeal; will be replaced by LAFC or Club América in Club World Cup
  - Champions League worth 20 per cent payrise at Chelsea — report
  - Édouard Mendy makes history by also winning the AFC Champions League (Elite)
- - Chelsea 3-1 Liverpool, Player Ratings: Caicedo crowns his season
- - Moisés Caicedo, Erin Cuthbert named Chelsea Players of the Season
- - Enzo Maresca very happy with performance, result, atmosphere in crucial win
 
 <!-- news_marker ends -->
 
@@ -67,14 +70,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - India launches military strikes on Pakistan
- - Chancellor on pause: Bundestag stings Merz on day one
- - The resilient coffee discovery that could save our morning brew
- - The old global economic order is dead
- - US and China to launch formal trade talks
- - China cuts key interest rate to 1.4%
- - UK closes in on US trade pact with lower tariff quotas for cars and steel
- - UK and India strike trade deal after three years of talks
+ - Trump to announce trade deal with UK
+ - Attack in the heart of Kashmir: Pakistanis voice fear after deadly strikes
+ - Germany’s Mittelstand arms itself for a new era
+ - TikTok vs defence: Europe faces a reckoning over the allocation of energy
+ - Trump offers to mediate as India-Pakistan conflict spirals
+ - EU capitals want retaliation against Trump delayed to avoid Nato clash
+ - Swatch investor takes aim at family behind Omega and Longines
+ - UK set to limit permanent residency for some migrants
 
 <!-- ftnews_marker ends -->
 
@@ -82,7 +85,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > cylindraceous - adjective: Resembling a cylinder.
+ > autocephality - noun: Self-rule.
 
 <!-- word_marker ends -->
 
@@ -90,33 +93,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> As ScrumMaster, your job is to improve the culture, empower people, increase motivation, and boost proactivity. - Zuzana Sochova
+> Nothing endures but change. - Heraclitus
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Into the impossible
+> Simple subtraction
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Internship (Rated: 7)
-- Released in 2013
-- Summary: Two salesmen whose careers have been torpedoed by the digital age find their way into a coveted internship at Google, where they must compete with a group of young, tech-savvy geniuses for a shot at employment.
+- Archive (Rated: 3)
+- Released in 2020
+- Summary: 2038: George Almore is working on a true human-equivalent AI. His latest prototype is almost ready. This sensitive phase is also the riskiest. Especially as he has a goal that must be hidden at all costs.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 930, using [2, 9, 9, 10, 25, 75]
-- Answer: 9 solutions.
+- Target: 909, using [1, 3, 10, 25, 50, 75]
+- Answer: 1 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 25 + 2 - 9 ) x 10
+  Solution: ( 75 + 1 ) x ( 50 / 25 + 10 ) - 3
 
    </details>
 
