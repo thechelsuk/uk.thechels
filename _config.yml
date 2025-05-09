@@ -45,14 +45,14 @@ include:
 navigation_header:
   - link: "/about"
     title: "About"
+  - link: "/cv"
+    title: "CV"
   - link: "/daily"
     title: "Daily"
   - link: "/slashes"
     title: "Links"
   - link: "https://tools.thechels.uk"
     title: "Tools &#11084;"
-  - link: "https://cod.thechels.uk"
-    title: "COD &#11084;"
   - link: "https://shop.thechels.uk"
     title: "Shop &#11084;"
 ## SubMenu
