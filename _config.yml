@@ -51,6 +51,10 @@ navigation_header:
     title: "Daily"
   - link: "/slashes"
     title: "More //"
+  - link: "https://tools.thechels.uk"
+    title: "Tools &#11084;"
+  - link: "https://cod.thechels.uk"
+    title: "COD &#11084;"
   - link: "https://shop.thechels.uk"
     title: "Shop &#11084;"
 ## SubMenu
