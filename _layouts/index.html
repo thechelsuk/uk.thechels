@@ -16,7 +16,7 @@
   {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
   {% assign offer = site.data.offers[item] %}
   <div class="posts" id="{{offer.id}}">
-    &rarr;; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a>
+    &rarr; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a>
     <span class="meta">// Sponsor/Advert, T&amp;Cs apply.</span>
   </div>
 
