@@ -16,8 +16,8 @@
   {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
   {% assign offer = site.data.offers[item] %}
   <div class="posts" id="{{offer.id}}">
-    &rArr;; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a>
-    <span class="meta">Sponsor/Advert, T&amp;Cs apply.</span>
+    &rarr;; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a>
+    <span class="meta">// Sponsor/Advert, T&amp;Cs apply.</span>
   </div>
 
 
@@ -39,8 +39,8 @@
   {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
   {% assign offer = site.data.offers[item] %}
   <div class="posts" id="{{offer.id}}">
-    &rArr;; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a>
-    <span class="meta">Sponsor/Advert, T&amp;Cs apply.</span>
+    &rarr; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a>
+    <span class="meta">// Sponsor/Advert, T&amp;Cs apply.</span>
   </div>
 </div>
 {% include footer.html %}
