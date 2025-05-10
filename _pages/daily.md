@@ -7,39 +7,48 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 09 May 2025
+## On Saturday, 10 May 2025
 
-- The average temperature today is 6.6˚C,
-- With highs of 7.19˚C and lows of 5.39˚C,
-- It may feel like 6.6˚C with few clouds
+- The average temperature today is 9.14˚C,
+- With highs of 10.29˚C and lows of 7.62˚C,
+- It may feel like 9.14˚C with clear sky
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 80%
-- The sun will rise at 04:24 and set at 19:45
+- The pressure is 1020hPa and humidity is 70%
+- The sun will rise at 04:22 and set at 19:46
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 430 days since the last change (2024-03-05)
+- It has been 431 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Farmers Market in town
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Use appropriate tools.
+> One Step Beyond.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Coventry City v Sunderland
+- Newcastle United U18 v Manchester City U18
+- Manchester United U18 v Sunderland U18
+- Leyton Orient v Stockport County
+- Arsenal Women v Manchester United Women
+- Aston Villa Women v Brighton & Hove Albion Women
+- Chelsea Women v Liverpool Women
+- Everton Women v Tottenham Hotspur Women
+- Leicester City Women v West Ham United Women
+- Manchester City Women v Crystal Palace Women
+- AFC Bournemouth v Aston Villa
+- Notts County v AFC Wimbledon
 <!-- fixture_marker ends -->
 
 
@@ -47,7 +56,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 104.66000366210938 
+- VWRL.L : 104.58000183105469 
 
 <!-- stocks_marker ends -->
 
@@ -55,13 +64,14 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Flamengo looking to add Jorginho, João Félix for Club World Cup — reports
+ - Chelsea FCW vs. Liverpool FCW, WSL: Preview, team news, how to watch
+ - Sophie Ingle, Zećira Mušović to leave Chelsea at the end of the season
+ - Chelsea 1-0 (5-1 agg.) Djurgårdens IF, Player Ratings: The kids are alright
+ - The Daily Hilario: Friday
  - Chelsea to play Real Betis in UEFA Conference League final
  - Chelsea 1-0 Djurgårdens IF, UEFA Conference League: Post-match reaction, ratings
  - WATCH: KDH opens the scoring for Chelsea against Djurgardens! 1-0!
- - Chelsea vs. Djurgårdens IF, UEFA Conference League: Live blog; highlights
- - The people’s choice against Djurgården: The New B-Team
- - Chelsea vs. Djurgårdens IF, UEFA Conference League: Preview, team news, how to watch
- - Chelsea 3-1 Liverpool, Premier League:  Tactical Analysis
 
 <!-- news_marker ends -->
 
@@ -69,14 +79,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - US and UK seal first deal of Donald Trump’s trade war
- - Britain’s trade deal with Trump may not be good news for the world
- - Military briefing: India and Pakistan test red lines of nuclear rivalry
- - Chicago in the Vatican: what America’s first pope means for the Catholic church
- - Welcome to the new age of geoeconomics
- - Trump proposes to raise income taxes on wealthy Americans
- - Mid-tier law firms increase bonuses for juniors working long hours
- - Pension funds should invest more in UK equities, investors tell ministers
+ - Pakistan says it has launched military retaliation against India
+ - China’s J-10 ‘Dragon’ shows teeth in India-Pakistan combat debut
+ - India and Pakistan: a conflict in the hands of two religious strongmen
+ - Why travel didn’t bring the world together
+ - What the turmoil in Asian currencies tells us
+ - Trump signals openness to cutting China tariffs ahead of Geneva talks
+ - US-UK trade deal squeezes China supply chains
+ - Selling of dollar assets signals start of longer-term shift, warn investors
 
 <!-- ftnews_marker ends -->
 
@@ -92,33 +102,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> It is better to be roughly right than precisely wrong. - John Maynard Keynes, Economist
+> We define an agile tester this way: a professional tester who embraces change, collaborates well with both technical and business people, and understands the concept of using tests to document requirements and drive development. - Lisa Crispin and Janet Gregory, Agile Trainers and Authors
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Assemble some of the instruments in a group and treat the group
+> Cluster analysis
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Wrong Turn (Rated: 3)
-- Released in 2003
-- Summary: Chris and a group of five friends are left stranded deep in the middle of the woods after their cars collide. As they venture deeper into the woods, they face an uncertain and bloodcurdling fate.
+- Spaceballs (Rated: 4)
+- Released in 1987
+- Summary: A star-pilot for hire and his trusty sidekick must come to the rescue of a princess and save Planet Druidia from the clutches of the evil Spaceballs.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 998, using [1, 5, 7, 25, 50, 75]
-- Answer: 2 solutions.
+- Target: 167, using [5, 6, 8, 8, 9, 50]
+- Answer: 19 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 - 5 ) x ( 25 - 1 ) - 75 - 7
+  Solution: ( 50 - 9 - 8 ) x 5 + 8 - 6
 
    </details>
 
