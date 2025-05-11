@@ -13,3 +13,7 @@ seo: Projects
 - [SecOpsNews](https://github.com/SecOpsNews/news) - RSS items as GitHub Issues for the discerning engineering leader or security professional. A repository to track and publish third party (RSS) feeds from various security sites as GitHub issues. Note this is quite noisy but seems well liked with 47 stars on GitHub
 
 - [Tools](https://tools.thechels.uk) - A digital playground or smorgasbord of ad-hoc and occasional tooling, including converting file types, charting, and string manipulations.
+
+- [Hyd](https://github.com/mat-0/Hyd) - A Jekyll companions app for iOS that allows for the creation and exporting of Jekyll formatted markdown files. The app is built using SwiftUI and is designed to be easy to use and intuitive. The app is open source and available on GitHub.
+
+- [Mltply](https://github.com/mat-0/Mltply) - An iOS app with a chat like interface for learning maths through repetition. The app is built using SwiftUI, with a focus on helping users learn and practice maths in a fun and engaging way quiz. The app is open source and available on GitHub.
