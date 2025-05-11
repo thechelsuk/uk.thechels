@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 10 May 2025
+## On Sunday, 11 May 2025
 
-- The average temperature today is 9.14˚C,
-- With highs of 10.29˚C and lows of 7.62˚C,
-- It may feel like 9.14˚C with clear sky
+- The average temperature today is 11.12˚C,
+- With highs of 12.19˚C and lows of 9.83˚C,
+- It may feel like 10.04˚C with overcast clouds
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 70%
-- The sun will rise at 04:22 and set at 19:46
+- The pressure is 1012hPa and humidity is 67%
+- The sun will rise at 04:21 and set at 19:48
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 431 days since the last change (2024-03-05)
+- It has been 432 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,23 +32,19 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> One Step Beyond.
+> Crossing the river by feeling the stones.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Newcastle United U18 v Manchester City U18
-- Manchester United U18 v Sunderland U18
-- Leyton Orient v Stockport County
-- Arsenal Women v Manchester United Women
-- Aston Villa Women v Brighton & Hove Albion Women
-- Chelsea Women v Liverpool Women
-- Everton Women v Tottenham Hotspur Women
-- Leicester City Women v West Ham United Women
-- Manchester City Women v Crystal Palace Women
-- AFC Bournemouth v Aston Villa
-- Notts County v AFC Wimbledon
+- Newcastle United v Chelsea
+- AFC Whyteleafe v Whitstable Town
+- Nottingham Forest v Leicester City
+- Chesterfield v Walsall
+- Aldershot Town v Spennymoor Town
+- Liverpool v Arsenal
+- Wycombe Wanderers v Charlton Athletic
 <!-- fixture_marker ends -->
 
 
@@ -64,14 +60,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Newcastle United vs. Chelsea, Premier League: Preview, team news, how to watch
+ - Chelsea 1-0 Liverpool, Women’s Super League: Post-match reaction
+ - Chelsea vs. Liverpool, Women’s Super League: Confirmed lineups; how to watch
+ - How should Chelsea line up away against Newcastle United?
  - Flamengo looking to add Jorginho, João Félix for Club World Cup — reports
  - Chelsea FCW vs. Liverpool FCW, WSL: Preview, team news, how to watch
  - Sophie Ingle, Zećira Mušović to leave Chelsea at the end of the season
- - Chelsea 1-0 (5-1 agg.) Djurgårdens IF, Player Ratings: The kids are alright
- - The Daily Hilario: Friday
- - Chelsea to play Real Betis in UEFA Conference League final
- - Chelsea 1-0 Djurgårdens IF, UEFA Conference League: Post-match reaction, ratings
- - WATCH: KDH opens the scoring for Chelsea against Djurgardens! 1-0!
 
 <!-- news_marker ends -->
 
@@ -79,14 +74,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Pakistan says it has launched military retaliation against India
- - China’s J-10 ‘Dragon’ shows teeth in India-Pakistan combat debut
- - India and Pakistan: a conflict in the hands of two religious strongmen
- - Why travel didn’t bring the world together
- - What the turmoil in Asian currencies tells us
- - Trump signals openness to cutting China tariffs ahead of Geneva talks
- - US-UK trade deal squeezes China supply chains
- - Selling of dollar assets signals start of longer-term shift, warn investors
+ - India and Pakistan’s fragile ceasefire holds after alleged breaches
+ - Why can’t more financial heavyweights write letters like Warren Buffett?
+ - Life is too important not to laugh at it
+ - China and US kick off high-stakes trade talks in Geneva
+ - Latin America wary of US trade backlash as it builds relations with China
+ - Insurers launch cover for losses caused by AI chatbot errors
+ - Energy prices push chemicals groups to explore exit from Europe
+ - Rush of copper to US because of tariff threat creates shortages in continental Europe
 
 <!-- ftnews_marker ends -->
 
@@ -102,33 +97,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> We define an agile tester this way: a professional tester who embraces change, collaborates well with both technical and business people, and understands the concept of using tests to document requirements and drive development. - Lisa Crispin and Janet Gregory, Agile Trainers and Authors
+> Innovation is a bottoms-up, decentralized, and unpredictable thing, but that does not mean it cannot be managed. - Eric Ries, Author, The Lean Startup
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Cluster analysis
+> Are there sections? Consider transitions
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Spaceballs (Rated: 4)
-- Released in 1987
-- Summary: A star-pilot for hire and his trusty sidekick must come to the rescue of a princess and save Planet Druidia from the clutches of the evil Spaceballs.
+- Elektra (Rated: 6)
+- Released in 2005
+- Summary: An assassin's change of heart leads her into a war against an evil crime syndicate.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 167, using [5, 6, 8, 8, 9, 50]
-- Answer: 19 solutions.
+- Target: 706, using [2, 4, 8, 9, 10, 100]
+- Answer: 17 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 - 9 - 8 ) x 5 + 8 - 6
+  Solution: ( 100 + 10 + 9 ) x ( 4 + 2 ) - 8
 
    </details>
 
