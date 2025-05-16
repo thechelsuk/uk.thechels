@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 15 May 2025
+## On Friday, 16 May 2025
 
-- The average temperature today is 8.55˚C,
-- With highs of 8.87˚C and lows of 8.15˚C,
-- It may feel like 7.3˚C with scattered clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 80%
-- The sun will rise at 04:14 and set at 19:54
+- The average temperature today is 9.29˚C,
+- With highs of 9.83˚C and lows of 8.71˚C,
+- It may feel like 7.86˚C with clear sky
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1027hPa and humidity is 79%
+- The sun will rise at 04:13 and set at 19:56
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 436 days since the last change (2024-03-05)
+- It has been 437 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,14 +32,15 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Set exceptional standards.
+> Be a learning individual.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Rochdale v Southend United
-- Charlton Athletic v Wycombe Wanderers
+- Aston Villa v Tottenham Hotspur
+- Walsall v Chesterfield
+- Chelsea v Manchester United
 <!-- fixture_marker ends -->
 
 
@@ -47,7 +48,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 107.73999786376953 
+- VWRL.L : 108.0199966430664 
 
 <!-- stocks_marker ends -->
 
@@ -55,11 +56,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Chelsea vs. Manchester United, Premier League: Preview, team news, how to watch
+ - Chelsea vs. Newcastle, Premier League:  Tactical Analysis
+ - How should Chelsea line up against Manchester United in final home game of season?
  - Maresca’s job not under threat regardless of finish to the season — report
  - Alexis Ohanian buys 8 per cent stake in Chelsea FC Women — report
  - Lampard’s Coventry suffer Championship promotion playoff semifinal heartbreak
- - Chelsea targets Dean Huijsen, Liam Delap now looking elsewhere — reports
- - Newcastle United 2-0 Chelsea, Player Ratings: Moral victories
 
 <!-- news_marker ends -->
 
@@ -67,14 +69,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Plans to reset UK-EU relations hit trouble over fishing rights and youth mobility
- - How Zara’s unorthodox Russian exit left it primed for a return
- - Don’t make Isas a great British failure
- - In charts: drought risk as England faces driest year this century
- - US poised to dial back bank rules imposed in wake of 2008 crisis
- - Vladimir Putin to skip Russia-Ukraine peace talks in Turkey
- - Mike Lynch’s sunken yacht had ‘vulnerabilities’, UK probe finds
- - Badenoch pivots towards economy in bid to fend off Reform threat
+ - UK water watchdog woos investors with ‘guaranteed revenues’ as it seeks £50bn
+ - How Ukraine lost hundreds of millions on arms deals gone wrong
+ - Trump made me a hundred grand
+ - A US recession doesn’t seem so likely any more
+ - UK ministers consider cutting tax-free cash Isa allowance
+ - Biden ‘redemption tour’ backfires as cognitive doubts resurface
+ - Nvidia plans Shanghai research centre in new commitment to China
+ - Tax dodging by rich could be ‘much greater than thought’, says UK audit office
 
 <!-- ftnews_marker ends -->
 
@@ -82,7 +84,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > ruderal - adjective: Growing in waste places, disturbed land, or poor soil. noun: A plant that thrives in such conditions.
+ > bereft - adjective: Deprived of or lacking.
 
 <!-- word_marker ends -->
 
@@ -90,33 +92,35 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Breakdown large user stories using SPIDR (spike, paths, interfaces, data, rules). - Mike Cohn
+> First-time product owners need time, trust, and support to grow into their new role. - Roman Pichler, Agile Trainer and Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> What are you really thinking about just now? Incorporate
+> Consult other sources
+-promising
+-unpromising
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Waterboy (Rated: 3)
-- Released in 1998
-- Summary: A waterboy for a college football team discovers he has a unique tackling ability and becomes a member of the team.
+- Dogma (Rated: 5)
+- Released in 1999
+- Summary: An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loop-hole and reenter Heaven.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 519, using [1, 3, 4, 5, 25, 100]
-- Answer: 16 solutions.
+- Target: 788, using [1, 3, 6, 25, 50, 100]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 25 + 5 - 1 ) x 4 + 3
+  Solution: ( 100 + 25 + 1 - 3 ) x 6 + 50
 
    </details>
 
