@@ -7,40 +7,41 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 16 May 2025
+## On Saturday, 17 May 2025
 
-- The average temperature today is 9.29˚C,
-- With highs of 9.83˚C and lows of 8.71˚C,
-- It may feel like 7.86˚C with clear sky
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1027hPa and humidity is 79%
-- The sun will rise at 04:13 and set at 19:56
+- The average temperature today is 9.88˚C,
+- With highs of 10.4˚C and lows of 9.82˚C,
+- It may feel like 8.87˚C with clear sky
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 72%
+- The sun will rise at 04:11 and set at 19:57
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 437 days since the last change (2024-03-05)
+- It has been 438 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Water the plants
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be a learning individual.
+> Do better with less.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Aston Villa v Tottenham Hotspur
-- Walsall v Chesterfield
-- Chelsea v Manchester United
+- AFC Wimbledon v Notts County
+- Aston Villa U18 v Manchester City U18
+- Crystal Palace v Manchester City
 <!-- fixture_marker ends -->
 
 
@@ -48,7 +49,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 108.0199966430664 
+- VWRL.L : 108.55999755859375 
 
 <!-- stocks_marker ends -->
 
@@ -56,12 +57,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Chelsea ‘interested’ in Leicester City loanee Ben Nelson — report
+ - Chelsea 1-0 Manchester United, Premier League: Post-match reaction, ratings
+ - WATCH: Marc Cucurella gives Chelsea the lead against Manchester United! 1-0!
+ - Chelsea vs. Manchester United, Premier League: Live blog; highlights
+ - Chelsea fans’ preferred lineup against Man Utd: Jackson replaced by ... Reece James?
+ - Chelsea unveil 2025-26 home shirt from Nike
  - Chelsea vs. Manchester United, Premier League: Preview, team news, how to watch
- - Chelsea vs. Newcastle, Premier League:  Tactical Analysis
- - How should Chelsea line up against Manchester United in final home game of season?
- - Maresca’s job not under threat regardless of finish to the season — report
- - Alexis Ohanian buys 8 per cent stake in Chelsea FC Women — report
- - Lampard’s Coventry suffer Championship promotion playoff semifinal heartbreak
 
 <!-- news_marker ends -->
 
@@ -69,14 +71,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - UK water watchdog woos investors with ‘guaranteed revenues’ as it seeks £50bn
- - How Ukraine lost hundreds of millions on arms deals gone wrong
- - Trump made me a hundred grand
- - A US recession doesn’t seem so likely any more
- - UK ministers consider cutting tax-free cash Isa allowance
- - Biden ‘redemption tour’ backfires as cognitive doubts resurface
- - Nvidia plans Shanghai research centre in new commitment to China
- - Tax dodging by rich could be ‘much greater than thought’, says UK audit office
+ - Moody’s strips US of top-notch triple-A credit rating
+ - UK overtakes China as second-largest US Treasury holder
+ - Flatter or confront? How world leaders are dealing with Trump
+ - The ‘Taco’ factor has spurred markets higher
+ - How India’s most notorious gangster declared war on a Bollywood legend
+ - UK rich explore ‘10 years out, 9 years in’ to escape inheritance tax net
+ - BT nears deal to sell TNT Sports stake to Warner Bros Discovery
+ - Keir Starmer considers partial retreat on winter fuel cuts
 
 <!-- ftnews_marker ends -->
 
@@ -92,36 +94,27 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> First-time product owners need time, trust, and support to grow into their new role. - Roman Pichler, Agile Trainer and Author
+> Stop starting things, and start finishing things - Jean Tabaka
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Consult other sources
--promising
--unpromising
+> Accretion
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Dogma (Rated: 5)
-- Released in 1999
-- Summary: An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loop-hole and reenter Heaven.
+- Back in Action (Rated: 2)
+- Released in 2025
+- Summary: Former CIA spies Emily and Matt are pulled back into espionage after their secret identities are exposed.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 788, using [1, 3, 6, 25, 50, 100]
-- Answer: 3 solutions.
-
-- <details><summary><code>Solution</code></summary>
-
-  Solution: ( 100 + 25 + 1 - 3 ) x 6 + 50
-
-   </details>
+- Target: 733, using [4, 5, 5, 5, 6, 75]
 
 <!-- game_marker ends -->
