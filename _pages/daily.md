@@ -7,41 +7,43 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 17 May 2025
+## On Sunday, 18 May 2025
 
-- The average temperature today is 9.88˚C,
-- With highs of 10.4˚C and lows of 9.82˚C,
-- It may feel like 8.87˚C with clear sky
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 72%
-- The sun will rise at 04:11 and set at 19:57
+- The average temperature today is 10.11˚C,
+- With highs of 10.55˚C and lows of 8.8˚C,
+- It may feel like 9.37˚C with clear sky
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 84%
+- The sun will rise at 04:10 and set at 19:59
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 438 days since the last change (2024-03-05)
+- It has been 439 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Water the plants
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Do better with less.
+> One Step Beyond.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- AFC Wimbledon v Notts County
-- Aston Villa U18 v Manchester City U18
-- Crystal Palace v Manchester City
+- Everton v Southampton
+- Boreham Wood v Maidstone United
+- Chelsea Women v Manchester United Women
+- West Ham United v Nottingham Forest
+- Scunthorpe United v Chester
+- Arsenal v Newcastle United
 <!-- fixture_marker ends -->
 
 
@@ -57,13 +59,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Chelsea 1-0 Manchester United, Player Ratings: Expecting Cucurella with our eyes closed
+ - Petrović voted RC Strasbourg Player of the Year, ahead of Andrey Santos
+ - Ben Chilwell wins the FA Cup with Crystal Palace
+ - Chelsea vs. Manchester United, Women’s FA Cup Final: Preview, team news, how to watch
+ - Palmer nominated again for Premier League Young Player of the Year
  - Chelsea ‘interested’ in Leicester City loanee Ben Nelson — report
  - Chelsea 1-0 Manchester United, Premier League: Post-match reaction, ratings
- - WATCH: Marc Cucurella gives Chelsea the lead against Manchester United! 1-0!
- - Chelsea vs. Manchester United, Premier League: Live blog; highlights
- - Chelsea fans’ preferred lineup against Man Utd: Jackson replaced by ... Reece James?
- - Chelsea unveil 2025-26 home shirt from Nike
- - Chelsea vs. Manchester United, Premier League: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -71,14 +73,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Moody’s strips US of top-notch triple-A credit rating
- - UK overtakes China as second-largest US Treasury holder
- - Flatter or confront? How world leaders are dealing with Trump
- - The ‘Taco’ factor has spurred markets higher
- - How India’s most notorious gangster declared war on a Bollywood legend
- - UK rich explore ‘10 years out, 9 years in’ to escape inheritance tax net
- - BT nears deal to sell TNT Sports stake to Warner Bros Discovery
- - Keir Starmer considers partial retreat on winter fuel cuts
+ - Global supply chains threatened by lack of Chinese rare earths
+ - The scourge of the ‘woke right’
+ - Starmer closes in on EU food trade deal in run-up to key summit
+ - EU certificates deal could boost UK exports by a quarter, study finds
+ - Nvidia seeks to build its business beyond Big Tech
+ - Trump to speak to Putin and Zelenskyy in fresh peace bid
+ - CIA to name veteran Middle East case officer as head of covert operations
+ - UK police arrest second man in connection with Starmer arson attacks
 
 <!-- ftnews_marker ends -->
 
@@ -94,27 +96,34 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Stop starting things, and start finishing things - Jean Tabaka
+> It is not failing fast, but learning early  - Anon
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Accretion
+> Don't break the silence
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Back in Action (Rated: 2)
-- Released in 2025
-- Summary: Former CIA spies Emily and Matt are pulled back into espionage after their secret identities are exposed.
+- A Field In England (Rated: 6)
+- Released in 2013
+- Summary: Amid the Civil War in 17th-century England, a group of deserters flee from battle through an overgrown field. Captured by an alchemist, the men are forced to help him search to find a hidden treasure that he believes is buried in ...
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 733, using [4, 5, 5, 5, 6, 75]
+- Target: 458, using [6, 6, 8, 9, 9, 100]
+- Answer: 4 solutions.
+
+- <details><summary><code>Solution</code></summary>
+
+  Solution: ( 9 - 6 ) x 100 x 9 / 6 + 8
+
+   </details>
 
 <!-- game_marker ends -->
