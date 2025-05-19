@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 18 May 2025
+## On Monday, 19 May 2025
 
-- The average temperature today is 10.11˚C,
-- With highs of 10.55˚C and lows of 8.8˚C,
-- It may feel like 9.37˚C with clear sky
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 84%
-- The sun will rise at 04:10 and set at 19:59
+- The average temperature today is 9.45˚C,
+- With highs of 9.98˚C and lows of 8.71˚C,
+- It may feel like 9.2˚C with scattered clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 80%
+- The sun will rise at 04:09 and set at 20:00
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 439 days since the last change (2024-03-05)
+- It has been 440 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,18 +32,13 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> One Step Beyond.
+> Design for constant evolution.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Everton v Southampton
-- Boreham Wood v Maidstone United
-- Chelsea Women v Manchester United Women
-- West Ham United v Nottingham Forest
-- Scunthorpe United v Chester
-- Arsenal v Newcastle United
+- Brighton & Hove Albion v Liverpool
 <!-- fixture_marker ends -->
 
 
@@ -59,13 +54,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Enzo Fernández has been playing through conjunctivitis
+ - Chelsea 3-0 Manchester United, Women’s FA Cup Final: Post-match reaction
+ - WATCH: Catarina Macario doubles Chelsea’s lead over Manchester United! 2-0!
+ - WATCH: Sandy Baltimore opens the scoring for Chelsea against Manchester United! 1-0!
+ - Chelsea vs. Manchester United, Women’s FA Cup Final: Confirmed lineups; how to watch
  - Chelsea 1-0 Manchester United, Player Ratings: Expecting Cucurella with our eyes closed
  - Petrović voted RC Strasbourg Player of the Year, ahead of Andrey Santos
- - Ben Chilwell wins the FA Cup with Crystal Palace
- - Chelsea vs. Manchester United, Women’s FA Cup Final: Preview, team news, how to watch
- - Palmer nominated again for Premier League Young Player of the Year
- - Chelsea ‘interested’ in Leicester City loanee Ben Nelson — report
- - Chelsea 1-0 Manchester United, Premier League: Post-match reaction, ratings
 
 <!-- news_marker ends -->
 
@@ -73,14 +68,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Global supply chains threatened by lack of Chinese rare earths
- - The scourge of the ‘woke right’
- - Starmer closes in on EU food trade deal in run-up to key summit
- - EU certificates deal could boost UK exports by a quarter, study finds
- - Nvidia seeks to build its business beyond Big Tech
- - Trump to speak to Putin and Zelenskyy in fresh peace bid
- - CIA to name veteran Middle East case officer as head of covert operations
- - UK police arrest second man in connection with Starmer arson attacks
+ - UK and EU make ‘breakthrough’ over key terms of post-Brexit reset
+ - Biden diagnosed with aggressive prostate cancer
+ - Private capital: growth opportunity or minefield?
+ - Sweden: a socialist paradise overflowing with billionaires
+ - UK to regulate ‘buy now, pay later’ lenders in legal overhaul
+ - Far right surges in Portugal as moderate conservatives win election
+ - Pro-EU centrist wins Romanian presidency in stunning reversal
+ - Liberal narrowly ahead in Poland’s first round presidential vote
 
 <!-- ftnews_marker ends -->
 
@@ -88,7 +83,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > bereft - adjective: Deprived of or lacking.
+ > sanguineous - adjective: 1. Relating to blood. 2. Of the color of blood. 3. Involving bloodshed. 4. Confident or optimistic.
 
 <!-- word_marker ends -->
 
@@ -96,33 +91,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> It is not failing fast, but learning early  - Anon
+> As a software development consultant, I have never encountered a successful software company (although my sample size is limited) in which the team and project leaders were not technically savvy. - Jim Highsmith, Agile Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Don't break the silence
+> Faced with a choice, do both (given by Dieter Roth)
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- A Field In England (Rated: 6)
-- Released in 2013
-- Summary: Amid the Civil War in 17th-century England, a group of deserters flee from battle through an overgrown field. Captured by an alchemist, the men are forced to help him search to find a hidden treasure that he believes is buried in ...
+- Shrek Forever After (Rated: 7)
+- Released in 2010
+- Summary: Rumpelstiltskin tricks a mid-life crisis burdened Shrek into allowing himself to be erased from existence and cast in a dark alternate timeline where Rumpelstiltskin rules supreme.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 458, using [6, 6, 8, 9, 9, 100]
+- Target: 654, using [4, 8, 9, 10, 25, 50]
 - Answer: 4 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 9 - 6 ) x 100 x 9 / 6 + 8
+  Solution: ( 50 + 25 ) x 8 + ( 10 - 4 ) x 9
 
    </details>
 
