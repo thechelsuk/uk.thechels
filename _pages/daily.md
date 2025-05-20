@@ -7,38 +7,42 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 19 May 2025
+## On Tuesday, 20 May 2025
 
-- The average temperature today is 9.45˚C,
-- With highs of 9.98˚C and lows of 8.71˚C,
-- It may feel like 9.2˚C with scattered clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 80%
-- The sun will rise at 04:09 and set at 20:00
+- The average temperature today is 10.39˚C,
+- With highs of 10.94˚C and lows of 9.82˚C,
+- It may feel like 9.6˚C with scattered clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1022hPa and humidity is 81%
+- The sun will rise at 04:07 and set at 20:02
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 440 days since the last change (2024-03-05)
+- It has been 441 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Design for constant evolution.
+> Think aptitude and attitude.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Brighton & Hove Albion v Liverpool
+- England U17 v Belgium U17
+- York City v Oldham Athletic
+- Manchester City v AFC Bournemouth
 <!-- fixture_marker ends -->
 
 
@@ -46,7 +50,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 108.55999755859375 
+- VWRL.L : 108.19000244140625 
 
 <!-- stocks_marker ends -->
 
@@ -54,13 +58,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Leo Castledine set to leave Chelsea — report
  - Enzo Fernández has been playing through conjunctivitis
  - Chelsea 3-0 Manchester United, Women’s FA Cup Final: Post-match reaction
  - WATCH: Catarina Macario doubles Chelsea’s lead over Manchester United! 2-0!
  - WATCH: Sandy Baltimore opens the scoring for Chelsea against Manchester United! 1-0!
  - Chelsea vs. Manchester United, Women’s FA Cup Final: Confirmed lineups; how to watch
- - Chelsea 1-0 Manchester United, Player Ratings: Expecting Cucurella with our eyes closed
- - Petrović voted RC Strasbourg Player of the Year, ahead of Andrey Santos
 
 <!-- news_marker ends -->
 
@@ -68,14 +71,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - UK and EU make ‘breakthrough’ over key terms of post-Brexit reset
- - Biden diagnosed with aggressive prostate cancer
- - Private capital: growth opportunity or minefield?
- - Sweden: a socialist paradise overflowing with billionaires
- - UK to regulate ‘buy now, pay later’ lenders in legal overhaul
- - Far right surges in Portugal as moderate conservatives win election
- - Pro-EU centrist wins Romanian presidency in stunning reversal
- - Liberal narrowly ahead in Poland’s first round presidential vote
+ - Trump leaves Russia and Ukraine to settle war in talks
+ - Has Donald Trump abandoned Ukraine?
+ - Patient data could power the NHS. Much of it is still stuck on paper
+ - Trump and Farage are politicians for the post-TV age
+ - Are female experts more credible?
+ - Trump’s ‘big, beautiful’ tax bill heightens concerns over US debt
+ - Plans for 12 new towns in England to cost up to £48bn, report says
+ - China’s battery leader CATL surges on debut after biggest listing of 2025
 
 <!-- ftnews_marker ends -->
 
@@ -83,7 +86,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > sanguineous - adjective: 1. Relating to blood. 2. Of the color of blood. 3. Involving bloodshed. 4. Confident or optimistic.
+ > bloody-minded - adjective: 1. Disposed to violence and bloodshed. 2. Stubborn; obstructive. (chiefly used in British English)
 
 <!-- word_marker ends -->
 
@@ -91,33 +94,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> As a software development consultant, I have never encountered a successful software company (although my sample size is limited) in which the team and project leaders were not technically savvy. - Jim Highsmith, Agile Author
+> As ScrumMaster, your job is to improve the culture, empower people, increase motivation, and boost proactivity. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Faced with a choice, do both (given by Dieter Roth)
+> Don't stress one thing more than another
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Shrek Forever After (Rated: 7)
-- Released in 2010
-- Summary: Rumpelstiltskin tricks a mid-life crisis burdened Shrek into allowing himself to be erased from existence and cast in a dark alternate timeline where Rumpelstiltskin rules supreme.
+- In Bruges (Rated: 6)
+- Released in 2008
+- Summary: After a job gone wrong, hitman Ray and his partner await orders from their ruthless boss in Bruges, Belgium, the last place in the world Ray wants to be.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 654, using [4, 8, 9, 10, 25, 50]
-- Answer: 4 solutions.
+- Target: 631, using [2, 5, 6, 9, 10, 25]
+- Answer: 10 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 + 25 ) x 8 + ( 10 - 4 ) x 9
+  Solution: 25 x 10 x 5 / 2 + 6
 
    </details>
 
