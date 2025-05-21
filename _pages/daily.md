@@ -7,42 +7,38 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 20 May 2025
+## On Wednesday, 21 May 2025
 
-- The average temperature today is 10.39˚C,
-- With highs of 10.94˚C and lows of 9.82˚C,
-- It may feel like 9.6˚C with scattered clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 81%
-- The sun will rise at 04:07 and set at 20:02
+- The average temperature today is 12.2˚C,
+- With highs of 12.51˚C and lows of 12.04˚C,
+- It may feel like 11.59˚C with light rain
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 81%
+- The sun will rise at 04:06 and set at 20:03
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 441 days since the last change (2024-03-05)
+- It has been 442 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Think aptitude and attitude.
+> Design for constant evolution.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- England U17 v Belgium U17
-- York City v Oldham Athletic
-- Manchester City v AFC Bournemouth
+- No Fixtures
 <!-- fixture_marker ends -->
 
 
@@ -50,7 +46,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 108.19000244140625 
+- VWRL.L : 108.36000061035156 
 
 <!-- stocks_marker ends -->
 
@@ -58,12 +54,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Jörgensen will start Conference League final, confirms Maresca
+ - Official: Burnley confirm Humphreys transfer at end of his loan from Chelsea
+ - Alexis Ohanian has limitless, unapologetic ambition for Chelsea FC Women
  - Leo Castledine set to leave Chelsea — report
  - Enzo Fernández has been playing through conjunctivitis
  - Chelsea 3-0 Manchester United, Women’s FA Cup Final: Post-match reaction
- - WATCH: Catarina Macario doubles Chelsea’s lead over Manchester United! 2-0!
- - WATCH: Sandy Baltimore opens the scoring for Chelsea against Manchester United! 1-0!
- - Chelsea vs. Manchester United, Women’s FA Cup Final: Confirmed lineups; how to watch
 
 <!-- news_marker ends -->
 
@@ -71,14 +67,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Trump leaves Russia and Ukraine to settle war in talks
- - Has Donald Trump abandoned Ukraine?
- - Patient data could power the NHS. Much of it is still stuck on paper
- - Trump and Farage are politicians for the post-TV age
- - Are female experts more credible?
- - Trump’s ‘big, beautiful’ tax bill heightens concerns over US debt
- - Plans for 12 new towns in England to cost up to £48bn, report says
- - China’s battery leader CATL surges on debut after biggest listing of 2025
+ - UK inflation rose more than expected to 3.5% in April
+ - Inside China’s ‘stolen iPhone building’
+ - If an animal could speak, would we listen?
+ - Mexico uncovers new ‘death camp’ as pressure on president rises
+ - Trump pressures Republicans to pass ‘big, beautiful’ tax bill
+ - IMF urges US to curb deficit as Trump tax cut plan stirs debt fears
+ - Trump considers order to open US retirement plans to private equity
+ - Robinhood aims to capitalise on UK government’s share trading push with Isa launch
 
 <!-- ftnews_marker ends -->
 
@@ -86,7 +82,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > bloody-minded - adjective: 1. Disposed to violence and bloodshed. 2. Stubborn; obstructive. (chiefly used in British English)
+ > anemia - noun: 1. A medical condition characterized by a deficiency of red blood cells or hemoglobin resulting in weakness, tiredness, shortness of breath, and paleness. 2. A lack of vitality, strength, or vividness.
 
 <!-- word_marker ends -->
 
@@ -94,33 +90,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> As ScrumMaster, your job is to improve the culture, empower people, increase motivation, and boost proactivity. - Zuzana Sochova
+> Agile is all about teams working together to produce great software. As an Agile coach, you can help your team go from first steps to running with Agile to unleashing their full Agile potential. - Rachel Davies and Liz Sedley, Agile Trainers and Authors
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Don't stress one thing more than another
+> The tape is now the music
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- In Bruges (Rated: 6)
-- Released in 2008
-- Summary: After a job gone wrong, hitman Ray and his partner await orders from their ruthless boss in Bruges, Belgium, the last place in the world Ray wants to be.
+- Tag (Rated: 3)
+- Released in 2018
+- Summary: A small group of former classmates organize an elaborate, annual game of tag that requires some to travel all over the country.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 631, using [2, 5, 6, 9, 10, 25]
-- Answer: 10 solutions.
+- Target: 121, using [2, 4, 9, 10, 25, 100]
+- Answer: 57 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: 25 x 10 x 5 / 2 + 6
+  Solution: 100 + 25 - 10 / ( 9 - 4 ) - 2
 
    </details>
 
