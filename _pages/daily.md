@@ -7,38 +7,39 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 22 May 2025
+## On Friday, 23 May 2025
 
-- The average temperature today is 10.17˚C,
-- With highs of 11.09˚C and lows of 8.17˚C,
-- It may feel like 9.31˚C with clear sky
+- The average temperature today is 8.8˚C,
+- With highs of 9.97˚C and lows of 8.07˚C,
+- It may feel like 8.8˚C with clear sky
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 79%
-- The sun will rise at 04:05 and set at 20:05
+- The pressure is 1020hPa and humidity is 78%
+- The sun will rise at 04:03 and set at 20:06
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 443 days since the last change (2024-03-05)
+- It has been 444 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Farmers Market in town
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be a learning individual.
+> Embrace uncertainty.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- No Fixtures
+- Italy U17 v England U17
 <!-- fixture_marker ends -->
 
 
@@ -46,7 +47,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 107.80500030517578 
+- VWRL.L : 106.62000274658203 
 
 <!-- stocks_marker ends -->
 
@@ -54,11 +55,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Summer Transfer Window Preview: Goalkeepers & defenders & wingers & strikers, oh my!
+ - Hugo Ekitike of particular interest to Chelsea — report
+ - Renato Veiga future hangs in the balance at Juventus — report
  - Chelsea ‘have no plans’ to sign Rodrygo; Enzo Fernández ‘not for sale’ — reports
  - Jörgensen will start Conference League final, confirms Maresca
  - Official: Burnley confirm Humphreys transfer at end of his loan from Chelsea
- - Alexis Ohanian has limitless, unapologetic ambition for Chelsea FC Women
- - Leo Castledine set to leave Chelsea — report
 
 <!-- news_marker ends -->
 
@@ -66,14 +68,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Two Israeli embassy staff shot and killed in Washington
- - Has Starlink already won the new space race?
- - Investors ask ‘what next’ as the American fever breaks
- - Why we don’t move house anymore
- - US government bonds drop as worries over Trump’s tax bill flare up
- - What Trump’s ‘big, beautiful’ budget bill means for the US economy
- - UK weighs bill to wipe out debts British Steel owes to Chinese parent
- - HSBC warns of bonus cuts for staff who work from home too much
+ - Investors shift away from US bond market on fears over Trump policies
+ - Trump’s tax bill triumph could be a poisoned chalice for Republicans
+ - Trump administration bars Harvard from enrolling international students
+ - The great Syrian gold hunt
+ - Donald Trump’s slapdown diplomacy
+ - US applications for British citizenship hit record high after Trump win
+ - UK consumer confidence improves due to better economic sentiment
+ - David Cameron in talks to join law firm DLA Piper as consultant
 
 <!-- ftnews_marker ends -->
 
@@ -81,7 +83,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > red-blooded - adjective: Strong; energetic; high-spirited; vigorous; virile.
+ > hemorrhage - noun: 1. A severe or uncontrollable loss of blood. 2. A rapid and significant loss of assets. verb intr.: To bleed copiously. verb tr.: To lose assets rapidly and in large amounts.
 
 <!-- word_marker ends -->
 
@@ -89,33 +91,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Change is scary, but complacency is deadly. - Dave Dame, Agile Leader
+> Agile is all about teams working together to produce great software. As an Agile coach, you can help your team go from first steps to running with Agile to unleashing their full Agile potential. - Rachel Davies and Liz Sedley, Agile Trainers and Authors
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> (Organic) machinery
+> What would your closest friend do?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Impossible (Rated: 4)
-- Released in 2012
-- Summary: The story of a tourist family in Thailand caught in the destruction and chaotic aftermath of the 2004 Indian Ocean tsunami.
+- The Last Exocrism Ii (Rated: 4)
+- Released in 2013
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 281, using [2, 3, 4, 6, 75, 100]
-- Answer: 41 solutions.
+- Target: 630, using [2, 5, 9, 50, 75, 100]
+- Answer: 68 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 - 75 ) x ( 4 x 2 + 3 ) + 6
+  Solution: ( 100 + 50 - 75 - 5 ) x 9
 
    </details>
 
