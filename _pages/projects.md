@@ -12,7 +12,7 @@ seo: Projects
 
 - [SecOpsNews](https://github.com/SecOpsNews/news) - RSS items as GitHub Issues for the discerning engineering leader or security professional. A repository to track and publish third party (RSS) feeds from various security sites as GitHub issues. Note this is quite noisy but seems well liked with over 50 stars on GitHub
 
-- [InsuranceNews](https://github.com/mat-0/insure.thechels.uk) - A clone of SecOps but for the discerning insurance professional. A repository to track and publish third party (RSS) feeds from various insurance sites as GitHub issues. Note this is quite noisy.
+- [Feeds](https://feeds.thechels.uk/) - An RSS feed aggregator that combines a bunch of RSS feeds into discrete pages per topic and all into one place and one simple view.
 
 - [Tools](https://tools.thechels.uk) - A digital playground or smorgasbord of ad-hoc and occasional tooling, including converting file types, charting, and string manipulations.
 
