@@ -7,39 +7,39 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 23 May 2025
+## On Saturday, 24 May 2025
 
-- The average temperature today is 8.8˚C,
-- With highs of 9.97˚C and lows of 8.07˚C,
-- It may feel like 8.8˚C with clear sky
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 78%
-- The sun will rise at 04:03 and set at 20:06
+- The average temperature today is 15.25˚C,
+- With highs of 16.1˚C and lows of 14.28˚C,
+- It may feel like 15.13˚C with overcast clouds
+- The wind speed is 3.58m/s and visibility is 3826m
+- The pressure is 1011hPa and humidity is 88%
+- The sun will rise at 04:02 and set at 20:07
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 444 days since the last change (2024-03-05)
+- It has been 445 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Farmers Market in town
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Embrace uncertainty.
+> Challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Italy U17 v England U17
+- Sheffield United v Sunderland
+- Arsenal Women v Barcelona Women
 <!-- fixture_marker ends -->
 
 
@@ -47,7 +47,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 106.62000274658203 
+- VWRL.L : 105.5 
 
 <!-- stocks_marker ends -->
 
@@ -55,12 +55,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Antonio Conte, Billy Gilmour, and Romelu Lukaku win Serie A with Napoli!
+ - Chelsea to make €60m move for Brighton’s João Pedro — reports
+ - Chalobah among five Chelsea players called up by England
+ - Premier League final day scenarios for Chelsea’s Champions League hopes
+ - Chelsea 1-0 Manchester United, Premier League:  Tactical Analysis
+ - Watford keen on getting Caleb Wiley on loan for another season — report
  - Summer Transfer Window Preview: Goalkeepers & defenders & wingers & strikers, oh my!
- - Hugo Ekitike of particular interest to Chelsea — report
- - Renato Veiga future hangs in the balance at Juventus — report
- - Chelsea ‘have no plans’ to sign Rodrygo; Enzo Fernández ‘not for sale’ — reports
- - Jörgensen will start Conference League final, confirms Maresca
- - Official: Burnley confirm Humphreys transfer at end of his loan from Chelsea
 
 <!-- news_marker ends -->
 
@@ -68,14 +69,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Investors shift away from US bond market on fears over Trump policies
- - Trump’s tax bill triumph could be a poisoned chalice for Republicans
- - Trump administration bars Harvard from enrolling international students
- - The great Syrian gold hunt
- - Donald Trump’s slapdown diplomacy
- - US applications for British citizenship hit record high after Trump win
- - UK consumer confidence improves due to better economic sentiment
- - David Cameron in talks to join law firm DLA Piper as consultant
+ - UK investigates possible Russian involvement in Starmer arson attacks
+ - Britain and Europe are moving beyond Brexit. Now for the real trade-offs
+ - A war too well remembered
+ - This is not just any cyber meltdown: will shoppers forgive M&S?
+ - Trump ‘not looking for deal’ as he threatens EU with 50% tariff
+ - What EU exports are hit hardest by Trump’s 50% tariff threat?
+ - Harvard wins order blocking Trump’s international student ban
+ - Trump’s attack on Harvard won’t make America great again
 
 <!-- ftnews_marker ends -->
 
@@ -91,33 +92,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Agile is all about teams working together to produce great software. As an Agile coach, you can help your team go from first steps to running with Agile to unleashing their full Agile potential. - Rachel Davies and Liz Sedley, Agile Trainers and Authors
+> The most important thing for me is making sure the team is at the top of the table when the season ends - Sam Kerr
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> What would your closest friend do?
+> Is it finished?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Last Exocrism Ii (Rated: 4)
-- Released in 2013
-- Summary: No summary available
+- The Awakening (Rated: 3)
+- Released in 2011
+- Summary: In 1921, England is overwhelmed by the loss and grief of World War I. Hoax exposer Florence Cathcart visits a boarding school to explain sightings of a child ghost. Everything she believes unravels as the 'missing' begin to show t...
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 630, using [2, 5, 9, 50, 75, 100]
-- Answer: 68 solutions.
+- Target: 469, using [5, 6, 25, 50, 75, 100]
+- Answer: 20 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 50 - 75 - 5 ) x 9
+  Solution: ( 100 - ( 75 + 50 ) / 25 ) x 5 - 6
 
    </details>
 
