@@ -84,3 +84,37 @@ There are several optional settings for you to configure. Use the example `_conf
 - In Drafts run the `post to blog` if it's a regular post
 
 </details>
+
+### How to Run the Site Locally
+
+<details><summary><code>Local Development</code></summary>
+
+- Clone the repository:
+
+   ```bash
+   git clone https://github.com/Mat-0/TheChels.uk.git
+   ```
+
+- Navigate into the project directory:
+
+   ```bash
+   cd TheChels.uk
+   ```
+
+- Install the required dependencies:
+
+   ```bash
+   bundle install
+   ```
+
+- Build and serve the site locally:
+
+   ```bash
+   bundle exec jekyll serve --watch
+   ```
+
+- Open your browser and go to `http://localhost:4000` to see your site.
+
+  <http://localhost:4000>
+
+</details>

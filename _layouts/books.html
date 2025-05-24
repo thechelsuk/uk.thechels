@@ -6,7 +6,10 @@
   {% assign books = site.data.read | sort: "dateFinished" | reverse %}
   {% for book in books %}
   <div class="book">
-    <div class="book-img"><img src="/images/books/book-{{book.isbn}}.png" alt="cover of {{book.title}} book" /></div>
+    <div class="book-img">
+      <img src="/images/books/book-{{book.isbn}}.png" alt="cover of {{book.title}}"
+        title="{{ book.dateFinished | date: '%B, %Y' }}" />
+    </div>
   </div>
   {% endfor %}
 </div>
