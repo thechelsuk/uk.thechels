@@ -6,7 +6,6 @@ html {
     height: 100%;
     scroll-behavior: smooth;
 }
-// 16px = 1em
 
 @font-face {
     font-family: "TheChelsLight";
@@ -19,12 +18,34 @@ html {
     font-weight: bold;
 }
 
-$background: #f5f4f4;
-$primary: #04100d;
-$secondary: #005ca3;
-$links: #295147;
-$accent: #cec452;
-$code: #c0deff;
+:root {
+  --background: #f5f4f4;
+  --primary: #04100d;
+  --secondary: #005ca3;
+  --links: #295147;
+  --accent: #cec452;
+  --code: #c0deff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #121212;
+    --primary: #e0e0e0;
+    --secondary: #0f7ed8;
+    --links: #bb86fc;
+    --accent: #cec452;
+    --code: #bb86fc;
+  }
+}
+
+$background: var(--background);
+$primary: var(--primary);
+$secondary: var(--secondary);
+$links: var(--links);
+$accent: var(--accent);
+$code: var(--code);
+
+
 $font-stack: TheChelsLight, -system-ui, "Gill Sans", sans-serif;
 $header-stack: TheChelsMedium, -system-ui, "Gill Sans", sans-serif;
 $font-mono: ui-monospace, monospace, "Courier New";
