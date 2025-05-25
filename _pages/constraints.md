@@ -10,4 +10,4 @@ I have a backed a Kickstarter years ago that delivered a set of playing card siz
 
 These cards are a great way to get out of a creative rut or to challenge yourself to think differently about a problem. They can be used in team brainstorming sessions, solo work, or even as a warm-up exercise before starting a project.
 
-The cards are listed below, shared only because the Kickstarter and associated website is no longer available
+The cards are listed below, shared only because the Kickstarter and associated website is no longer available.
