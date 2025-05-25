@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 24 May 2025
+## On Sunday, 25 May 2025
 
-- The average temperature today is 15.25˚C,
-- With highs of 16.1˚C and lows of 14.28˚C,
-- It may feel like 15.13˚C with overcast clouds
-- The wind speed is 3.58m/s and visibility is 3826m
-- The pressure is 1011hPa and humidity is 88%
-- The sun will rise at 04:02 and set at 20:07
+- The average temperature today is 14.23˚C,
+- With highs of 14.99˚C and lows of 13.72˚C,
+- It may feel like 13.93˚C with broken clouds
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 1006hPa and humidity is 85%
+- The sun will rise at 04:01 and set at 20:09
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 445 days since the last change (2024-03-05)
+- It has been 446 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,14 +32,16 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Challenge assumptions.
+> Exploit the landscape.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Sheffield United v Sunderland
-- Arsenal Women v Barcelona Women
+- Charlton Athletic v Leyton Orient
+- Liverpool v Crystal Palace
+- Manchester United v Aston Villa
+- Nottingham Forest v Chelsea
 <!-- fixture_marker ends -->
 
 
@@ -55,13 +57,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Nottingham Forest vs. Chelsea, Premier League: Preview, team news, how to watch
+ - How should Chelsea line up against Nottingham Forest with Champions League on the line?
  - Antonio Conte, Billy Gilmour, and Romelu Lukaku win Serie A with Napoli!
  - Chelsea to make €60m move for Brighton’s João Pedro — reports
  - Chalobah among five Chelsea players called up by England
  - Premier League final day scenarios for Chelsea’s Champions League hopes
- - Chelsea 1-0 Manchester United, Premier League:  Tactical Analysis
- - Watford keen on getting Caleb Wiley on loan for another season — report
- - Summer Transfer Window Preview: Goalkeepers & defenders & wingers & strikers, oh my!
 
 <!-- news_marker ends -->
 
@@ -69,14 +70,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - UK investigates possible Russian involvement in Starmer arson attacks
- - Britain and Europe are moving beyond Brexit. Now for the real trade-offs
- - A war too well remembered
- - This is not just any cyber meltdown: will shoppers forgive M&S?
- - Trump ‘not looking for deal’ as he threatens EU with 50% tariff
- - What EU exports are hit hardest by Trump’s 50% tariff threat?
- - Harvard wins order blocking Trump’s international student ban
- - Trump’s attack on Harvard won’t make America great again
+ - SoftBank founder Son floats idea of US-Japan sovereign wealth fund
+ - How Heineken tapped into China’s beer market
+ - Would you work 32 hours Monday to Sunday?
+ - Defence spending is up — but on all the wrong things
+ - Foreign Office London staff face major cull
+ - UK considers taxing pensioners to claw back winter fuel payment
+ - Canadian pension giant to invest more than £8bn in UK
+ - Investors pile into rocks to absorb carbon emissions
 
 <!-- ftnews_marker ends -->
 
@@ -92,33 +93,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The most important thing for me is making sure the team is at the top of the table when the season ends - Sam Kerr
+> We do not rise to the level of our expectations; we fall to the level of our training. - Archilochus
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Is it finished?
+> Short circuit
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Awakening (Rated: 3)
-- Released in 2011
-- Summary: In 1921, England is overwhelmed by the loss and grief of World War I. Hoax exposer Florence Cathcart visits a boarding school to explain sightings of a child ghost. Everything she believes unravels as the 'missing' begin to show t...
+- Teaching Mrs Tingle (Rated: 3)
+- Released in 1999
+- Summary: The story of a girl who is willing to do anything to become Valedictorian, even if it means murdering the teacher that stands in her way.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 469, using [5, 6, 25, 50, 75, 100]
-- Answer: 20 solutions.
+- Target: 759, using [1, 4, 5, 7, 25, 100]
+- Answer: 6 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 - ( 75 + 50 ) / 25 ) x 5 - 6
+  Solution: ( ( 25 - 7 ) x 5 + 100 ) x 4 - 1
 
    </details>
 
