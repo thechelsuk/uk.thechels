@@ -4741,31 +4741,6 @@
     thumbnail: https://books.google.com/books/content?id=qYtz7kEHegEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
   language: en
   canonicalVolumeLink: https://books.google.com/books/about/All_Music_Guide_to_the_Blues.html?hl=&id=qYtz7kEHegEC
-- isbn: "9780321127426"
-  dateFinished: "2022-05-21"
-  title: Patterns of Enterprise Application Architecture
-  authors:
-    - Martin Fowler
-  publishedDate: "2003"
-  description:
-    This volume is a handbook for enterprise system developers, guiding
-    them through the intricacies and lessons learned in enterprise application development.
-    It provides proven solutions to the everyday problems facing information systems
-    developers.
-  industryIdentifiers:
-    - type: ISBN_13
-      identifier: "9780321127426"
-    - type: ISBN_10
-      identifier: "0321127420"
-  pageCount: 533
-  printType: BOOK
-  categories:
-    - Computers
-  imageLinks:
-    smallThumbnail: https://books.google.com/books/content?id=Jl5rkQnbfAIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api
-    thumbnail: https://books.google.com/books/content?id=Jl5rkQnbfAIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
-  language: en
-  canonicalVolumeLink: https://books.google.com/books/about/Patterns_of_Enterprise_Application_Archi.html?hl=&id=Jl5rkQnbfAIC
 - isbn: "9780071343312"
   dateFinished: "2022-05-21"
   title:
