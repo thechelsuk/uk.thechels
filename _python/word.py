@@ -13,4 +13,3 @@ if __name__ == "__main__":
     KEY = "word_marker"
     string = helper.FileProcessorFromSource(OUTPUT_FILE, string, KEY)
     print(string)
-
