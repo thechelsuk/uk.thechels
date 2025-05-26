@@ -42,25 +42,23 @@ seo: Good Morning Mat, Here is your daily briefing
 - No Fixtures
 <!-- fixture_marker ends -->
 
-
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 105.5 
+- VWRL.L : 105.5
 
 <!-- stocks_marker ends -->
-
 
 ### Team News
 <!-- news_marker starts -->
 
- - Never in doubt, says Maresca, about thing that was very much in doubt
- - Nottingham Forest 0-1 Chelsea, Premier League: Post-match reaction, ratings
- - WATCH: Levi Colwill opens the scoring for Chelsea against Forest! 1-0!
- - Nottingham Forest vs. Chelsea, Premier League: Live blog; highlights
- - The people’s choice against Nottingham Forest: More midfield, less striker
- - Nottingham Forest vs. Chelsea, Premier League: Preview, team news, how to watch
+- Never in doubt, says Maresca, about thing that was very much in doubt
+- Nottingham Forest 0-1 Chelsea, Premier League: Post-match reaction, ratings
+- WATCH: Levi Colwill opens the scoring for Chelsea against Forest! 1-0!
+- Nottingham Forest vs. Chelsea, Premier League: Live blog; highlights
+- The people’s choice against Nottingham Forest: More midfield, less striker
+- Nottingham Forest vs. Chelsea, Premier League: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -68,14 +66,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - Donald Trump delays imposing 50% tariffs on EU until July 9
- - How Robert F Kennedy Jr is taking on Big Food
- - The UK’s trade performance remains dire
- - The fellowship: how Trump loyalists are taking over the US state department
- - Reeves squeezed by rising borrowing costs and spending pressures
- - Wall Street vs private equity: can anyone stop the grad recruitment creep?
- - China improves ability to launch sudden attack on Taiwan, officials say
- - Fed’s Powell urges US university students to protect democracy
+- Trump delays imposing 50% tariffs on EU until July 9
+- Robert F Kennedy Jr’s battle with Big Food
+- The UK’s trade performance remains dire
+- Why is Trump so obsessed with other men’s looks?
+- Reeves squeezed by rising borrowing costs and spending pressures
+- NHS leaders in England braced for 2% spending settlement
+- Wall Street vs private equity: can anyone stop the grad recruitment creep?
+- Trump calls Putin ‘crazy’ after record air attack on Ukraine
 
 <!-- ftnews_marker ends -->
 
@@ -86,7 +84,6 @@ seo: Good Morning Mat, Here is your daily briefing
  > Aaron's rod - noun: 1. A powerful force that overcomes others around it. 2. Any of various plants with tall, flowering stems, like goldenrod or mullein. 3. An architectural molding featuring a snake motif, sometimes with vines and leaves.
 
 <!-- word_marker ends -->
-
 
 ### Quote of the day
 <!-- quote_marker starts -->
