@@ -19,7 +19,7 @@ Hosted on [GitHub Pages](https://pages.github.com), the site uses [Jekyll](https
 
 It is called "weak notes" as a play on words of the popular Government "[week](https://promo.cymru/resource/weeknotes/) [notes](https://weeknot.es)" blogging style - due to the likelihood, posting will be inconsistent and irregular, and having worked adjacent to Government for 14 years.
 
-The site is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) (PWA) and can be installed on devices from modern browsers. There is no cookies or tracking other than some of the CloudFlare protection and RUA. The site builds as static html and css, uses browser and Cloudflare caching and scores highly in performance scanning tools and in Lighthouse scores with 100% across the board. At the time of checking the site has [valid HTML](https://validator.w3.org/nu/?doc=https%3A%2F%2Fthechels.uk%2F) and [valid CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthechels.uk&profile=css3svg).
+The site is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) (PWA) and can be installed on devices from modern browsers. There is no cookies or tracking other than some of the CloudFlare protection and RUA. The site builds as static html and css, uses browser and Cloudflare caching and scores highly in performance scanning tools and in Lighthouse scores with 100% across the board. At the time of checking the site has [valid HTML](https://validator.w3.org/nu/?doc=https%3A%2F%2Fthechels.uk%2F) and [valid CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthechels.uk&profile=css3svg). There is minimal JavaScript used on the site purely for the [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) for caching and offline support. The site also utilises a web App Manifest for Progressive Web App (PWA) support.
 
 ![website colour scheme](/images/colour-scheme.png)
 
@@ -38,8 +38,7 @@ The associated [Twitter](/images/ChelseaStats.png) [account](https://web.archive
 _Based on the [now](https://sive.rs/now) page idea from [Derek Sivers](https://sive.rs/nowff)._
 
 - Surviving - I continue to fight with an undiagnosed fatigue that's been ongoing since October 2022.
-- Reading - I have a huge backlog on my Kindle to get through.
-- Gardening - Huge tidy up and tending to the veggie patch and planters.
+- Reading - I have a huge backlog of books to get through.
 
 ## Next
 
