@@ -14,7 +14,7 @@ import yaml
 
 
 # methods
-def add_suffix(day):
+def add_suffix(day) -> str:
     if 4 <= day <= 20 or 24 <= day <= 30:
         suffix = "th"
     else:
@@ -22,7 +22,7 @@ def add_suffix(day):
     return suffix
 
 
-def format_date(date):
+def format_date(date) -> str:
     suffix = add_suffix(date.day)
     formatted_date = date.strftime(f'%A {date.day}{suffix} %B %Y')
     return formatted_date
