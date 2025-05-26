@@ -1,7 +1,9 @@
 import pytest
 import countdown_solver
 
+
 class TestCountdownSolver:
+
     def test_solve_simple(self):
         # 2 + 3 = 5
         solutions, summary = countdown_solver.solve([2, 3], 5)

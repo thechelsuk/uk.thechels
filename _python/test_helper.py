@@ -464,10 +464,13 @@ class TestHelper:
         data = 'Some content here'
         m = mock_open(read_data=helper.format_marker_chunk(key, 'old content'))
         with patch('pathlib.Path.open', m):
-            with patch('helper.replace_chunk', side_effect=lambda s, k, n: helper.format_marker_chunk(k, n)):
+            with patch('helper.replace_chunk',
+                       side_effect=lambda s, k, n: helper.format_marker_chunk(
+                           k, n)):
                 result = helper.FileProcessorFromSource(output_file, data, key)
                 handle = m()
-                handle.write.assert_called_once_with(helper.format_marker_chunk(key, data))
+                handle.write.assert_called_once_with(
+                    helper.format_marker_chunk(key, data))
                 assert result == f"{key} completed"
 
     @patch('pathlib.Path.open', new_callable=mock_open)
