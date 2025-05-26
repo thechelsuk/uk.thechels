@@ -314,6 +314,7 @@ def get_random_quote_from_a_list(out: str, items: list, count: int) -> str:
         out += f"{item}\n"
     return out
 
+
 def process_entries(entries, file_content, key):
     if not entries:
         out_string = "No entries found"
@@ -323,7 +324,13 @@ def process_entries(entries, file_content, key):
     c = replace_chunk(file_content, key, string)
     return c
 
-def FeedProcessor(OUTPUT_FILE, URL, KEY, read_file=None, write_file=None, feed_parse=None):
+
+def FeedProcessor(OUTPUT_FILE,
+                  URL,
+                  KEY,
+                  read_file=None,
+                  write_file=None,
+                  feed_parse=None):
     """
     OUTPUT_FILE: pathlib.Path or str
     URL: str
@@ -347,6 +354,7 @@ def FeedProcessor(OUTPUT_FILE, URL, KEY, read_file=None, write_file=None, feed_p
     except FileNotFoundError:
         return ("File does not exist, unable to proceed")
 
+
 def FileProcessorPicksRandomItem(OUTPUT_FILE, INPUT_SOURCE, KEY) -> str:
     try:
         doctrine = pathlib.Path(INPUT_SOURCE)
@@ -361,6 +369,6 @@ def FileProcessorPicksRandomItem(OUTPUT_FILE, INPUT_SOURCE, KEY) -> str:
         m = f.open().read()
         c = replace_chunk(m, KEY, string)
         f.open("w").write(c)
-        return  f"{KEY} completed"
+        return f"{KEY} completed"
     except FileNotFoundError:
         return ("File does not exist, unable to proceed")

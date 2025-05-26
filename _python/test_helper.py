@@ -373,13 +373,17 @@ class TestHelper:
         m = mock_open(read_data=helper.format_marker_chunk(key, "old"))
         with patch("pathlib.Path.open", m):
             # Patch helper.replace_chunk to a known output for assertion
-            with patch("eno.helper.replace_chunk", side_effect=lambda s, k, n: helper.format_marker_chunk(k, n)) as mock_replace:
-                result = helper.FeedProcessor(pathlib.Path(output_file), url, key)
+            with patch("eno.helper.replace_chunk",
+                       side_effect=lambda s, k, n: helper.format_marker_chunk(
+                           k, n)) as mock_replace:
+                result = helper.FeedProcessor(pathlib.Path(output_file), url,
+                                              key)
                 # Check output string
                 assert result == "eno_marker processor completed"
                 # Check file write called with expected content
                 handle = m()
-                handle.write.assert_called_once_with(helper.format_marker_chunk(key, '> Test Title\n'))
+                handle.write.assert_called_once_with(
+                    helper.format_marker_chunk(key, '> Test Title\n'))
 
     @patch('random.choice')
     def test_FileProcessorPicksRandomItem_success(self, mock_choice):
@@ -394,10 +398,14 @@ class TestHelper:
         # Patch open for both input and output files
         with patch('pathlib.Path.open', m):
             # Patch replace_chunk to a known output
-            with patch('helper.replace_chunk', side_effect=lambda s, k, n: helper.format_marker_chunk(k, n)):
-                result = helper.FileProcessorPicksRandomItem(output_file, input_source, key)
+            with patch('helper.replace_chunk',
+                       side_effect=lambda s, k, n: helper.format_marker_chunk(
+                           k, n)):
+                result = helper.FileProcessorPicksRandomItem(
+                    output_file, input_source, key)
                 handle = m()
-                handle.write.assert_called_once_with(helper.format_marker_chunk(key, '> item2'))
+                handle.write.assert_called_once_with(
+                    helper.format_marker_chunk(key, '> item2'))
                 assert result == f"{key} completed"
 
     @patch('random.choice')
@@ -409,10 +417,14 @@ class TestHelper:
         input_source = pathlib.Path('input.yml')
         key = 'doctrine_marker'
         with patch('pathlib.Path.open', m):
-            with patch('helper.replace_chunk', side_effect=lambda s, k, n: helper.format_marker_chunk(k, n)):
-                result = helper.FileProcessorPicksRandomItem(output_file, input_source, key)
+            with patch('helper.replace_chunk',
+                       side_effect=lambda s, k, n: helper.format_marker_chunk(
+                           k, n)):
+                result = helper.FileProcessorPicksRandomItem(
+                    output_file, input_source, key)
                 handle = m()
-                handle.write.assert_called_once_with(helper.format_marker_chunk(key, '> onlyitem'))
+                handle.write.assert_called_once_with(
+                    helper.format_marker_chunk(key, '> onlyitem'))
                 assert result == f"{key} completed"
 
     @patch('random.choice')
@@ -424,10 +436,14 @@ class TestHelper:
         input_source = pathlib.Path('input.yml')
         key = 'custom_marker'
         with patch('pathlib.Path.open', m):
-            with patch('helper.replace_chunk', side_effect=lambda s, k, n: helper.format_marker_chunk(k, n)):
-                result = helper.FileProcessorPicksRandomItem(output_file, input_source, key)
+            with patch('helper.replace_chunk',
+                       side_effect=lambda s, k, n: helper.format_marker_chunk(
+                           k, n)):
+                result = helper.FileProcessorPicksRandomItem(
+                    output_file, input_source, key)
                 handle = m()
-                handle.write.assert_called_once_with(helper.format_marker_chunk(key, '> itemX'))
+                handle.write.assert_called_once_with(
+                    helper.format_marker_chunk(key, '> itemX'))
                 assert result == f"{key} completed"
 
     @patch('feedparser.parse')
@@ -441,13 +457,17 @@ class TestHelper:
         m = mock_open(read_data=helper.format_marker_chunk(key, "old"))
         with patch("pathlib.Path.open", m):
             # Patch helper.replace_chunk to a known output for assertion
-            with patch("eno.helper.replace_chunk", side_effect=lambda s, k, n: helper.format_marker_chunk(k, n)) as mock_replace:
-                result = helper.FeedProcessor(pathlib.Path(output_file), url, key)
+            with patch("eno.helper.replace_chunk",
+                       side_effect=lambda s, k, n: helper.format_marker_chunk(
+                           k, n)) as mock_replace:
+                result = helper.FeedProcessor(pathlib.Path(output_file), url,
+                                              key)
                 # Check output string
                 assert result == "eno_marker processor completed"
                 # Check file write called with expected content
                 handle = m()
-                handle.write.assert_called_once_with(helper.format_marker_chunk(key, '> Test Title\n'))
+                handle.write.assert_called_once_with(
+                    helper.format_marker_chunk(key, '> Test Title\n'))
 
     def test_add_suffix_th(self):
         # 4-20 and 24-30 should be 'th'

@@ -9,4 +9,3 @@ if __name__ == "__main__":
     KEY = "eno_marker"
     string = helper.FeedProcessor(OUTPUT_FILE, URL, KEY)
     print(string)
-
