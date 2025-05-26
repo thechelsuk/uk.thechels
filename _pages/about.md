@@ -24,6 +24,12 @@ The site is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web
 ![website colour scheme](/images/colour-scheme.png)
 
 The font-family is a custom font, secondary to that the site utilises the user's operating system setting via the `-system-ui` declaration, `Gill Sans` if available, and as a last resort falls back to `sans-serif`. This means it should look natural and native to the operating system in use should the primary font not work. The primary colour scheme is `White Smoke` as the background, `Night` for text, `Brunswick Green` for links, `Lapis Lazuli` for some additional/secondary text e.g., post meta data and sub headings, and finally `Citron` is used for accents e.g., borders, separators, quote bars, table header backgrounds, and little bits of whimsy.
+Tables are `Gray Cloud` with `Snow` for the alternate rows, and code blocks are `c0deff`.
+
+The site supports user preferred colour schemes, so if you have a dark mode enabled on your device or browser, the site will automatically switch to a dark mode.
+
+The dark mode colour scheme is `Night` as the background, `Gray Cloud` for text, `Blue Koi` for links, `Mist Blue` for some additional/secondary text e.g., post meta data and sub headings, and finally `Black Blue` is used for accents e.g., borders, separators, quote bars, table header backgrounds, and little bits of whimsy.
+Table rows are `charcoal` with `oil` for the alternate rows, and code blocks are `dark steampunk`.
 
 The site uses some icons to denote the type of content, these are: &rarr; (`&rarr;`) for posts that link to other sites, &raquo; (`&raquo;`) for quotations, and &#11084; (`&#11084;`) for external links, although ultimately these are all just decorative and non-functional.
 

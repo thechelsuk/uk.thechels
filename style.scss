@@ -25,16 +25,20 @@ html {
     --links: #295147;
     --accent: #cec452;
     --code: #c0deff;
+    --tab: #b6b6b4;
+    --alt-tab: #fffafa;
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --background: #121212;
-        --primary: #e0e0e0;
-        --secondary: #0f7ed8;
-        --links: #bb86fc;
-        --accent: #cec452;
-        --code: #bb86fc;
+        --background: #0c090a; // night
+        --primary: #b6b6b6; // gray cloud
+        --secondary: #646d7e; //mist blue
+        --links: #659ec7; // blue koi;
+        --accent: #111b76; // black blue
+        --code: #4d4d4f; // dark steampunk
+        --tab: #34282c; // charcoal
+        --alt-tab: #3b3131; // oil
     }
 }
 
@@ -44,6 +48,8 @@ $secondary: var(--secondary);
 $links: var(--links);
 $accent: var(--accent);
 $code: var(--code);
+$tab: var(--tab);
+$alt-tab: var(--alt-tab);
 $font-stack: TheChelsLight, -system-ui, "Gill Sans", sans-serif;
 $header-stack: TheChelsMedium, -system-ui, "Gill Sans", sans-serif;
 $font-mono: ui-monospace, monospace, "Courier New";
@@ -372,13 +378,13 @@ cite {
 table {
     width: 100%;
     border-collapse: collapse;
-    border: 1px solid #bbb;
+    border: 1px solid $tab;
 
     th,
     td {
         padding: 8px;
         text-align: left;
-        border: 1px solid #d2d2d2;
+        border: 1px solid $alt-tab;
     }
 
     th {
@@ -387,11 +393,11 @@ table {
     }
 
     tr:nth-child(even) {
-        background-color: #f2f2f2;
+        background-color: $alt-tab;
     }
 
     tr:hover {
-        background-color: #ddd;
+        background-color: $code;
     }
 }
 
@@ -420,7 +426,7 @@ img {
     padding: 1rem;
     background-color: $background;
     border-radius: 0.5rem;
-    border: 1px solid #dbd9d9;
+    border: 1px solid $alt-tab;
 }
 
 .back-to-top:is(:link, :visited, :hover, :active) {
