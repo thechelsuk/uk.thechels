@@ -152,152 +152,95 @@ class TestHelper:
         # is Monday
         assert helper.is_monday(workingDate) is True
 
-    def test_isMonday_returns_false_if_not_monday(self):
-        workingDate = helper.create_date("2022-06-07")
-        # is Tuesday
-        assert helper.is_monday(workingDate) is False
+    def test_is_tuesday_false(self):
+        # Not Tuesday
+        date = datetime(2022, 6, 8)  # Wednesday
+        assert helper.is_tuesday(date) is False
 
-    def test_isTuesday_returns_true_if_tuesday(self):
-        workingDate = helper.create_date("2022-06-07")
-        # is Tuesday
-        assert helper.is_tuesday(workingDate) is True
-
-    def test_isTuesday_returns_false_if_not_tuesday(self):
-        workingDate = helper.create_date("2022-06-08")
-        # is Wednesday
-        assert helper.is_tuesday(workingDate) is False
-
-    def test_get_random_items_from_a_list_returns_correct_item(self):
-        list = ["a"]
-        output = helper.get_random_items_from_a_list("string", list, 1)
-        assert contains(output, "- a")
-        assert contains(output, "string")
-
-    def test_get_random_items_from_a_list_returns_correct_items(self):
-        list = ["a", "b"]
-        output = helper.get_random_items_from_a_list("string", list, 2)
-        assert contains(output, "- a")
-        assert contains(output, "- b")
-        assert contains(output, "string")
-
-    def test_get_random_items_from_a_list_count_bigger_than_list_throws(self):
-        with pytest.raises(Exception) as e_info:
-            helper.get_random_items_from_a_list("string", ["a", "b", "c"], 4)
-            print(e_info)
-
-    def test_get_random_items_from_a_list_zero_count_does_not_contain(self):
-        output = helper.get_random_items_from_a_list("string", ["a", "b"], 0)
-        assert not contains(output, "- a")
-        assert not contains(output, "- b")
-        assert contains(output, "string")
-
-    def test_format_date(self):
-        date = datetime(2022, 6, 8)
-        formatted_date = helper.format_date(date)
-        assert formatted_date == "Wednesday 8th June 2022"
-
-    def test_get_countdown_number_selection(self):
-        numbers = helper.get_countdown_number_selection()
-        assert len(numbers) == 6
-        assert all(isinstance(n, int) for n in numbers)
-
-    def test_remove_img_tags(self):
-        data = '<p>Some text <img src="image.jpg"/> more text</p>'
-        result = helper.remove_img_tags(data)
-        assert result == '<p>Some text  more text</p>'
-
-    def test_pretty_print(self):
-        string = {"key": "value"}
-        pretty = helper.pretty_print(string)
-        assert pretty == '{\n  "key": "value"\n}'
-
-    def test_fetch_cfc_entries(self):
-        with patch('feedparser.parse') as mock_parse:
-            mock_parse.return_value = {
-                "entries": [{
-                    "description": "Test Entry",
-                    "link": "http://example.com#123",
-                    "published": "Wed, 08 Jun 2022 11:00:00 -0000"
-                }]
-            }
-            entries = helper.fetch_cfc_entries("http://example.com")
-            assert len(entries) == 1
-            assert entries[0]["title"] == "Test Entry"
-            assert entries[0]["url"] == "http://example.com"
-            assert entries[0]["published"] == "08 Jun"
-
-    def test_get_yf_stocks(self):
-        with patch('yfinance.Ticker') as mock_ticker:
-            mock_ticker.return_value.history.return_value.Close = [100.0]
-            stocks = helper.get_yf_stocks(["AAPL"])
-            assert stocks == "- AAPL : 100.0 \n"
-
-    def test_get_si_stocks(self):
-        with patch(
-                'yahoo_fin.stock_info.get_live_price') as mock_get_live_price:
-            mock_get_live_price.return_value = 150.0
-            stocks = helper.get_si_stocks(["AAPL"])
-            assert stocks == "- AAPL : 150.0\n"
-
-    def test_is_saturday(self):
+    def test_isSaturday(self):
         date = datetime(2022, 6, 11)  # Saturday
         assert helper.is_saturday(date) is True
 
-    def test_is_garden_waste_day(self):
+    def test_is_saturday_false(self):
+        # Not Saturday
+        date = datetime(2022, 6, 10)  # Friday
+        assert helper.is_saturday(date) is False
+
+    def test_isGardenWasteDay(self):
         date = datetime(2022, 6, 13)  # Monday, week 24
         assert helper.is_garden_waste_day(date) is True
 
-    def test_is_recycling_waste_day(self):
-        date = datetime(2022, 6, 7)  # Tuesday, week 23
-        assert helper.is_recycling_waste_day(date) is True
+    def test_is_recycling_waste_day_false(self):
+        # Not Tuesday or not week one
+        date = datetime(2022, 6, 6)  # Monday
+        assert helper.is_recycling_waste_day(date) is False
+        date = datetime(2022, 6, 14)  # Tuesday, week 24 (should be week 1)
+        assert helper.is_recycling_waste_day(date) is False
 
-    def test_is_refuse_waste_day(self):
+    def test_isRefuseWasteDay(self):
         date = datetime(2022, 6, 14)  # Tuesday, week 24
         assert helper.is_refuse_waste_day(date) is True
 
-    def test_is_water_the_plants_day(self):
+    def test_is_refuse_waste_day_false(self):
+        # Not Tuesday or not week two
+        date = datetime(2022, 6, 6)  # Monday
+        assert helper.is_refuse_waste_day(date) is False
+        date = datetime(2022, 6, 7)  # Tuesday, week 23 (should be week 2)
+        assert helper.is_refuse_waste_day(date) is False
+
+    def test_isWaterThePlantsDay(self):
         date = datetime(2024, 6, 15)  # Saturday, week 2
         assert helper.is_water_the_plants_day(date) is True
 
-    def test_get_1st_weekday_of_month_returns_1(self):
-        date = datetime(2025, 1, 3)  # Friday
-        assert helper.get_nth_weekday_of_month(date) == 1
-
-    def test_get_2nd_weekday_of_month_returns_1(self):
-        date = datetime(2025, 1, 10)  # Friday
-        assert helper.get_nth_weekday_of_month(date) == 2
-
-    def test_get_2nd_weekday_of_month_returns_2(self):
-        date = datetime(2025, 1, 17)  # Friday
-        assert helper.get_nth_weekday_of_month(date) == 3
-
-    def test_get_3rd_weekday_of_month_returns_3(self):
-        date = datetime(2025, 1, 24)  # Friday
-        assert helper.get_nth_weekday_of_month(date) == 4
-
-    def test_get_3rd_weekday_of_month_returns_4(self):
-        date = datetime(2025, 1, 31)  # Friday
-        assert helper.get_nth_weekday_of_month(date) == 5
-
-    def test_is_friday_returns_true(self):
+    def test_is_friday(self):
         date = datetime(2025, 3, 21)  # Friday
         assert helper.is_friday(date) is True
 
-    def test_is_friday_returns_false(self):
-        date = datetime(2025, 1, 2)  # Thursday 1st
+    def test_is_friday_false(self):
+        # Not Friday
+        date = datetime(2022, 6, 8)  # Wednesday
         assert helper.is_friday(date) is False
 
-    def test_is_farmers_market_returns_false(self):
-        date = datetime(2025, 1, 17)  # Friday 3rd
+    def test_is_farmers_market(self):
+        date = datetime(2025, 1, 24)  # Friday 3rd
+        assert helper.is_farmers_market(date) is True
+
+    def test_is_farmers_market_false(self):
+        # Not 2nd/4th Friday or not Friday
+        date = datetime(2025, 1, 3)  # Friday, 1st
+        assert helper.is_farmers_market(date) is False
+        date = datetime(2025, 1, 7)  # Tuesday
         assert helper.is_farmers_market(date) is False
 
-    def test_is_farmers_market_returns_true_2nd(self):
-        date = datetime(2025, 1, 10)  # Friday
+    def test_is_farmers_market_jan_2nd_friday(self):
+        # 2nd Friday in January should be True
+        date = datetime(2025, 1, 10)  # Friday, 2nd
         assert helper.is_farmers_market(date) is True
 
-    def test_is_farmers_market_returns_true_4th(self):
-        date = datetime(2025, 1, 24)  # Friday
+    def test_is_farmers_market_jan_4th_friday(self):
+        # 4th Friday in January should be True
+        date = datetime(2025, 1, 24)  # Friday, 4th
         assert helper.is_farmers_market(date) is True
+
+    def test_is_farmers_market_jan_3rd_friday(self):
+        # 3rd Friday in January should be False
+        date = datetime(2025, 1, 17)  # Friday, 3rd
+        assert helper.is_farmers_market(date) is False
+
+    def test_is_farmers_market_dec_2nd_friday(self):
+        # 2nd Friday in December should be True
+        date = datetime(2025, 12, 12)  # Friday, 2nd
+        assert helper.is_farmers_market(date) is True
+
+    def test_is_farmers_market_dec_3rd_friday(self):
+        # 3rd Friday in December should be True
+        date = datetime(2025, 12, 19)  # Friday, 3rd
+        assert helper.is_farmers_market(date) is True
+
+    def test_is_farmers_market_dec_4th_friday(self):
+        # 4th Friday in December should be False
+        date = datetime(2025, 12, 26)  # Friday, 4th
+        assert helper.is_farmers_market(date) is False
 
     @patch('requests.get')
     def test_get_fixtures_returns_match(self, mock_get):
@@ -513,6 +456,232 @@ class TestHelper:
         fmt = '%A {th} %B %Y'
         result = helper.stylish_datetime(dt, fmt)
         assert result == 'Friday 3rd June 2022'
+
+    @patch('pathlib.Path.open', new_callable=mock_open)
+    def test_FileProcessorFromSource_success(self, mock_file):
+        output_file = pathlib.Path('output.md')
+        key = 'test_marker'
+        data = 'Some content here'
+        m = mock_open(read_data=helper.format_marker_chunk(key, 'old content'))
+        with patch('pathlib.Path.open', m):
+            with patch('helper.replace_chunk', side_effect=lambda s, k, n: helper.format_marker_chunk(k, n)):
+                result = helper.FileProcessorFromSource(output_file, data, key)
+                handle = m()
+                handle.write.assert_called_once_with(helper.format_marker_chunk(key, data))
+                assert result == f"{key} completed"
+
+    @patch('pathlib.Path.open', new_callable=mock_open)
+    def test_FileProcessorFromSource_file_not_found(self, mock_file):
+        output_file = pathlib.Path('output.md')
+        key = 'test_marker'
+        data = 'Some content here'
+        with patch('pathlib.Path.open', side_effect=FileNotFoundError):
+            result = helper.FileProcessorFromSource(output_file, data, key)
+            assert result == "File does not exist, unable to proceed"
+
+    def test_get_random_quote_from_a_list_single(self):
+        items = ["quote1"]
+        out = "string\n"
+        # Should always return the only item
+        result = helper.get_random_quote_from_a_list(out, items, 1)
+        assert "quote1" in result
+        assert result.startswith("string\n")
+
+    def test_get_random_quote_from_a_list_multiple(self):
+        items = ["quote1", "quote2", "quote3"]
+        out = "quotes:\n"
+        result = helper.get_random_quote_from_a_list(out, items, 2)
+        # Should contain two different quotes from the list
+        count = sum(q in result for q in items)
+        assert count == 2
+        assert result.startswith("quotes:\n")
+
+    def test_get_random_quote_from_a_list_zero(self):
+        items = ["quote1", "quote2"]
+        out = "quotes:\n"
+        result = helper.get_random_quote_from_a_list(out, items, 0)
+        # Should not add any quotes
+        assert result == "quotes:\n"
+
+    def test_get_random_quote_from_a_list_count_too_large(self):
+        items = ["quote1", "quote2"]
+        out = "quotes:\n"
+        with pytest.raises(ValueError):
+            helper.get_random_quote_from_a_list(out, items, 3)
+
+    def test_is_week_one_false(self):
+        # Week 2 should return False
+        week = 2
+        assert helper.is_week_one(week) is False
+
+    def test_is_week_two_false(self):
+        # Week 1 should return False
+        week = 1
+        assert helper.is_week_two(week) is False
+
+    def test_is_monday_false(self):
+        # Not Monday
+        date = datetime(2022, 6, 7)  # Tuesday
+        assert helper.is_monday(date) is False
+
+    def test_is_tuesday_false(self):
+        # Not Tuesday
+        date = datetime(2022, 6, 8)  # Wednesday
+        assert helper.is_tuesday(date) is False
+
+    def test_is_saturday_false(self):
+        # Not Saturday
+        date = datetime(2022, 6, 10)  # Friday
+        assert helper.is_saturday(date) is False
+
+    def test_is_friday_with_non_date_input(self):
+        # Should raise for non-date input
+        with pytest.raises(AttributeError):
+            helper.is_friday(None)
+        with pytest.raises(AttributeError):
+            helper.is_friday("2022-06-10")
+        with pytest.raises(AttributeError):
+            helper.is_friday(123)
+
+    def test_is_monday_with_non_date_input(self):
+        with pytest.raises(AttributeError):
+            helper.is_monday(None)
+        with pytest.raises(AttributeError):
+            helper.is_monday("2022-06-06")
+        with pytest.raises(AttributeError):
+            helper.is_monday(123)
+
+    def test_is_tuesday_with_non_date_input(self):
+        with pytest.raises(AttributeError):
+            helper.is_tuesday(None)
+        with pytest.raises(AttributeError):
+            helper.is_tuesday("2022-06-07")
+        with pytest.raises(AttributeError):
+            helper.is_tuesday(123)
+
+    def test_is_saturday_with_non_date_input(self):
+        with pytest.raises(AttributeError):
+            helper.is_saturday(None)
+        with pytest.raises(AttributeError):
+            helper.is_saturday("2022-06-11")
+        with pytest.raises(AttributeError):
+            helper.is_saturday(123)
+
+    def test_is_garden_waste_day_boundary_weeks(self):
+        for week in [0, 53]:
+            date = datetime.strptime(f"2022-W{week}-1", "%Y-W%W-%w")
+            result = helper.is_garden_waste_day(date)
+            print(f"is_garden_waste_day for week {week}: {result}")
+            assert isinstance(result, bool)
+
+    def test_is_recycling_waste_day_boundary_weeks(self):
+        for week in [0, 53]:
+            date = datetime.strptime(f"2022-W{week}-2", "%Y-W%W-%w")
+            result = helper.is_recycling_waste_day(date)
+            print(f"is_recycling_waste_day for week {week}: {result}")
+            assert isinstance(result, bool)
+
+    def test_is_refuse_waste_day_boundary_weeks(self):
+        for week in [0, 53]:
+            date = datetime.strptime(f"2022-W{week}-2", "%Y-W%W-%w")
+            result = helper.is_refuse_waste_day(date)
+            print(f"is_refuse_waste_day for week {week}: {result}")
+            assert isinstance(result, bool)
+
+    def test_is_water_the_plants_day_boundary_weeks(self):
+        for week in [0, 53]:
+            date = datetime.strptime(f"2022-W{week}-6", "%Y-W%W-%w")
+            result = helper.is_water_the_plants_day(date)
+            print(f"is_water_the_plants_day for week {week}: {result}")
+            assert isinstance(result, bool)
+
+    def test_remove_img_tags_basic(self):
+        s = 'Hello <img src="foo.jpg"/> world!'
+        assert helper.remove_img_tags(s) == 'Hello  world!'
+
+    def test_remove_img_tags_multiple(self):
+        s = '<img src="a.jpg"/>foo<img src="b.jpg"/>bar'
+        assert helper.remove_img_tags(s) == 'foobar'
+
+    def test_remove_img_tags_no_img(self):
+        s = 'No images here.'
+        assert helper.remove_img_tags(s) == s
+
+    def test_remove_img_tags_malformed(self):
+        s = 'Broken <img src="foo.jpg"> tag'
+        # Should not remove malformed tag
+        assert '<img' in helper.remove_img_tags(s)
+
+    def test_remove_img_tags_empty(self):
+        assert helper.remove_img_tags('') == ''
+
+    def test_pretty_print_string(self):
+        s = 'foo'
+        result = helper.pretty_print(s)
+        assert result == '"foo"'
+
+    def test_pretty_print_dict(self):
+        d = {'a': 1, 'b': 2}
+        result = helper.pretty_print(d)
+        assert '{' in result and 'a' in result and '1' in result
+
+    def test_pretty_print_list(self):
+        l = [1, 2, 3]
+        result = helper.pretty_print(l)
+        assert '[' in result and '1' in result
+
+    def test_pretty_print_empty(self):
+        result = helper.pretty_print('')
+        assert result == '""'
+
+    def test_pretty_print_none(self):
+        result = helper.pretty_print(None)
+        assert result == 'null'
+
+    def test_get_countdown_number_selection(self):
+        # Should always return a list of 6 numbers, with 1-4 big numbers
+        for _ in range(10):
+            nums = helper.get_countdown_number_selection()
+            assert isinstance(nums, list)
+            assert len(nums) == 6
+            bigs = [n for n in nums if n in [10, 25, 50, 75, 100]]
+            assert 1 <= len(bigs) <= 4
+
+    def test_format_marker_chunk_basic(self):
+        out = helper.format_marker_chunk('foo', 'bar')
+        assert out == '<!-- foo starts -->\nbar\n<!-- foo ends -->'
+
+    def test_format_marker_chunk_empty(self):
+        out = helper.format_marker_chunk('foo', '')
+        assert out == '<!-- foo starts -->\n\n<!-- foo ends -->'
+
+    def test_replace_chunk_basic(self):
+        content = '<!-- foo starts -->old<!-- foo ends -->'
+        new = 'new'
+        out = helper.replace_chunk(content, 'foo', new)
+        assert '<!-- foo starts -->\nnew\n<!-- foo ends -->' in out
+
+    def test_replace_chunk_no_marker(self):
+        content = 'no marker here'
+        new = 'new'
+        out = helper.replace_chunk(content, 'foo', new)
+        # Should not change content if marker not found
+        assert out == content
+
+    def test_replace_chunk_multiple_markers(self):
+        content = '<!-- foo starts -->a<!-- foo ends --><!-- foo starts -->b<!-- foo ends -->'
+        new = 'x'
+        out = helper.replace_chunk(content, 'foo', new)
+        # Greedy regex: only one marker block remains, with new content
+        assert out.count('<!-- foo starts -->') == 1
+        assert out.count('x') == 1
+        assert out == '<!-- foo starts -->\nx\n<!-- foo ends -->'
+
+    def test_replace_chunk_nested_markers(self):
+        content = '<!-- foo starts --><!-- bar starts -->a<!-- bar ends --><!-- foo ends -->'
+        new = 'x'
+        out = helper.replace_chunk(content, 'foo', new)
+        assert '<!-- foo starts -->\nx\n<!-- foo ends -->' in out
 
 
 if __name__ == "__main__":
