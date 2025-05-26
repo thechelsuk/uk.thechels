@@ -7,41 +7,39 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 25 May 2025
+## On Monday, 26 May 2025
 
-- The average temperature today is 14.23˚C,
-- With highs of 14.99˚C and lows of 13.72˚C,
-- It may feel like 13.93˚C with broken clouds
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1006hPa and humidity is 85%
-- The sun will rise at 04:01 and set at 20:09
+- The average temperature today is 11.45˚C,
+- With highs of 12.19˚C and lows of 10.94˚C,
+- It may feel like 10.69˚C with broken clouds
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 1015hPa and humidity is 78%
+- The sun will rise at 04:00 and set at 20:10
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 446 days since the last change (2024-03-05)
+- It has been 447 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Exploit the landscape.
+> Crossing the river by feeling the stones.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Charlton Athletic v Leyton Orient
-- Liverpool v Crystal Palace
-- Manchester United v Aston Villa
-- Nottingham Forest v Chelsea
+- No Fixtures
 <!-- fixture_marker ends -->
 
 
@@ -57,12 +55,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+ - Never in doubt, says Maresca, about thing that was very much in doubt
+ - Nottingham Forest 0-1 Chelsea, Premier League: Post-match reaction, ratings
+ - WATCH: Levi Colwill opens the scoring for Chelsea against Forest! 1-0!
+ - Nottingham Forest vs. Chelsea, Premier League: Live blog; highlights
+ - The people’s choice against Nottingham Forest: More midfield, less striker
  - Nottingham Forest vs. Chelsea, Premier League: Preview, team news, how to watch
- - How should Chelsea line up against Nottingham Forest with Champions League on the line?
- - Antonio Conte, Billy Gilmour, and Romelu Lukaku win Serie A with Napoli!
- - Chelsea to make €60m move for Brighton’s João Pedro — reports
- - Chalobah among five Chelsea players called up by England
- - Premier League final day scenarios for Chelsea’s Champions League hopes
 
 <!-- news_marker ends -->
 
@@ -70,14 +68,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
- - SoftBank founder Son floats idea of US-Japan sovereign wealth fund
- - How Heineken tapped into China’s beer market
- - Would you work 32 hours Monday to Sunday?
- - Defence spending is up — but on all the wrong things
- - Foreign Office London staff face major cull
- - UK considers taxing pensioners to claw back winter fuel payment
- - Canadian pension giant to invest more than £8bn in UK
- - Investors pile into rocks to absorb carbon emissions
+ - Donald Trump delays imposing 50% tariffs on EU until July 9
+ - How Robert F Kennedy Jr is taking on Big Food
+ - The UK’s trade performance remains dire
+ - The fellowship: how Trump loyalists are taking over the US state department
+ - Reeves squeezed by rising borrowing costs and spending pressures
+ - Wall Street vs private equity: can anyone stop the grad recruitment creep?
+ - China improves ability to launch sudden attack on Taiwan, officials say
+ - Fed’s Powell urges US university students to protect democracy
 
 <!-- ftnews_marker ends -->
 
@@ -85,7 +83,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > hemorrhage - noun: 1. A severe or uncontrollable loss of blood. 2. A rapid and significant loss of assets. verb intr.: To bleed copiously. verb tr.: To lose assets rapidly and in large amounts.
+ > Aaron's rod - noun: 1. A powerful force that overcomes others around it. 2. Any of various plants with tall, flowering stems, like goldenrod or mullein. 3. An architectural molding featuring a snake motif, sometimes with vines and leaves.
 
 <!-- word_marker ends -->
 
@@ -93,33 +91,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> We do not rise to the level of our expectations; we fall to the level of our training. - Archilochus
+> The best way to get a project done faster is to start sooner - Jim Highsmith
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Short circuit
+> Turn it upside down
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Teaching Mrs Tingle (Rated: 3)
-- Released in 1999
-- Summary: The story of a girl who is willing to do anything to become Valedictorian, even if it means murdering the teacher that stands in her way.
+- James Bond: Goldeneye (Rated: 6)
+- Released in 1995
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 759, using [1, 4, 5, 7, 25, 100]
-- Answer: 6 solutions.
+- Target: 579, using [4, 5, 10, 50, 75, 100]
+- Answer: 18 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 25 - 7 ) x 5 + 100 ) x 4 - 1
+  Solution: ( 100 + 75 - 50 - 10 ) x 5 + 4
 
    </details>
 
