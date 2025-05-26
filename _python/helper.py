@@ -315,6 +315,7 @@ def get_random_quote_from_a_list(out: str, items: list, count: int) -> str:
     return out
 
 
+
 def process_entries(entries, file_content, key):
     if not entries:
         out_string = "No entries found"
@@ -325,20 +326,7 @@ def process_entries(entries, file_content, key):
     return c
 
 
-def FeedProcessor(OUTPUT_FILE,
-                  URL,
-                  KEY,
-                  read_file=None,
-                  write_file=None,
-                  feed_parse=None):
-    """
-    OUTPUT_FILE: pathlib.Path or str
-    URL: str
-    KEY: str
-    read_file: function to read file content (for testability)
-    write_file: function to write file content (for testability)
-    feed_parse: function to parse feed (for testability)
-    """
+def FeedProcessor(OUTPUT_FILE, URL, KEY, read_file=None, write_file=None, feed_parse=None):
     try:
         if feed_parse is None:
             feed_parse = feedparser.parse
@@ -355,6 +343,7 @@ def FeedProcessor(OUTPUT_FILE,
         return ("File does not exist, unable to proceed")
 
 
+
 def FileProcessorPicksRandomItem(OUTPUT_FILE, INPUT_SOURCE, KEY) -> str:
     try:
         doctrine = pathlib.Path(INPUT_SOURCE)
@@ -369,6 +358,18 @@ def FileProcessorPicksRandomItem(OUTPUT_FILE, INPUT_SOURCE, KEY) -> str:
         m = f.open().read()
         c = replace_chunk(m, KEY, string)
         f.open("w").write(c)
+        return  f"{KEY} completed"
+    except FileNotFoundError:
+        return ("File does not exist, unable to proceed")
+
+
+def FileProcessorFromSource(OUTPUT_FILE, data, KEY) -> str:
+    try:
+        f = pathlib.Path(OUTPUT_FILE)
+        m = f.open().read()
+        c = replace_chunk(m, KEY, data)
+        f.open("w").write(c)
         return f"{KEY} completed"
     except FileNotFoundError:
         return ("File does not exist, unable to proceed")
+
