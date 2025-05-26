@@ -1,34 +1,24 @@
-# importing modules
-import pathlib
-
-import feedparser
-import helper
 from datetime import datetime
+import feedparser
+import pathlib
+import helper
 
-URL = "https://www.mi5.gov.uk/UKThreatLevel/UKThreatLevel.xml"
-
-# processing
 if __name__ == "__main__":
-    try:
-        root = pathlib.Path(__file__).parent.parent.resolve()
-        output = feedparser.parse(URL)["entries"]
-
-        for entry in output:
-            level = (f"{entry['title']}")
-            last_word = level.split()[-1]
-            update = entry['published']
-            update = datetime.strptime(
-                update, "%A, %B %d, %Y -  %H:%M").strftime("%Y-%m-%d")
-            days_since_update = (datetime.now() -
-                                 datetime.strptime(update, "%Y-%m-%d")).days
-
+    root = pathlib.Path(__file__).parent.parent.resolve()
+    OUTPUT_FILE = root / "_pages/daily.md"
+    nf = feedparser.parse("https://www.mi5.gov.uk/UKThreatLevel/UKThreatLevel.xml")["entries"]
+    if nf:
+        entry = nf[0]
+        last_word = entry['title'].split()[-1]
+        update_dt = datetime.strptime(entry['published'], "%A, %B %d, %Y -  %H:%M")
+        days_since_update = (datetime.now() - update_dt).days
+        update = update_dt.strftime("%Y-%m-%d")
         string = f'- The current threat level is <span class="highlighter">{last_word}</span>\n'
         string += f"- It has been {days_since_update} days since the last change ({update})\n"
-        f = root / "_pages/daily.md"
-        m = f.open().read()
-        c = helper.replace_chunk(m, "threat_marker", string)
-        f.open("w").write(c)
-        print("threat completed")
-
-    except FileNotFoundError:
-        print("File does not exist, unable to proceed")
+    else:
+        string = '- Unable to fetch threat level data.\n'
+        days_since_update = 0
+        update = ''
+    KEY = "threat_marker"
+    string = helper.FileProcessorFromSource(OUTPUT_FILE, string, KEY)
+    print(string)

@@ -1,23 +1,16 @@
 # importing modules
-import pathlib
-
 import feedparser
+import pathlib
 import helper
 
-# processing
 if __name__ == "__main__":
-    try:
-        root = pathlib.Path(__file__).parent.parent.resolve()
-        item = feedparser.parse(
-            "https://wordsmith.org/awad/rss1.xml")["entries"]
-        title = item[0]["title"]
-        desc = item[0]["summary"]
-        string = f"\n > {title} - {desc}\n"
-        f = root / "_pages/daily.md"
-        m = f.open().read()
-        c = helper.replace_chunk(m, "word_marker", string)
-        f.open("w").write(c)
-        print("Word completed")
+    root = pathlib.Path(__file__).parent.parent.resolve()
+    OUTPUT_FILE = root / "_pages/daily.md"
+    nf = feedparser.parse("https://wordsmith.org/awad/rss1.xml")["entries"]
+    title = nf[0]["title"]
+    desc = nf[0]["summary"]
+    string = f"\n > {title} - {desc}\n"
+    KEY = "word_marker"
+    string = helper.FileProcessorFromSource(OUTPUT_FILE, string, KEY)
+    print(string)
 
-    except FileNotFoundError:
-        print("File does not exist, unable to proceed")
