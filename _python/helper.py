@@ -325,19 +325,14 @@ def process_entries(entries, file_content, key):
     return c
 
 
-def FeedProcessor(OUTPUT_FILE,
-                  URL,
-                  KEY,
-                  read_file=None,
-                  write_file=None,
-                  feed_parse=None):
+def FeedProcessor(OF,URL,KEY) -> str:
     try:
         if feed_parse is None:
             feed_parse = feedparser.parse
         if read_file is None:
-            read_file = lambda: OUTPUT_FILE.open().read()
+            read_file = lambda: OF.open().read()
         if write_file is None:
-            write_file = lambda content: OUTPUT_FILE.open("w").write(content)
+            write_file = lambda content: OF.open("w").write(content)
         output = feed_parse(URL)["entries"]
         m = read_file()
         c = process_entries(output, m, KEY)
@@ -347,9 +342,9 @@ def FeedProcessor(OUTPUT_FILE,
         return ("File does not exist, unable to proceed")
 
 
-def FileProcessorPicksRandomItem(OUTPUT_FILE, INPUT_SOURCE, KEY) -> str:
+def FileProcessorPicksRandomItem(OF, IF, KEY) -> str:
     try:
-        doctrine = pathlib.Path(INPUT_SOURCE)
+        doctrine = pathlib.Path(IF)
         with doctrine.open() as f:
             items = yaml.safe_load(f)
         if not items:
@@ -357,7 +352,7 @@ def FileProcessorPicksRandomItem(OUTPUT_FILE, INPUT_SOURCE, KEY) -> str:
         item = random.choice(items)
         string = f"> {item}"
 
-        f = pathlib.Path(OUTPUT_FILE)
+        f = pathlib.Path(OF)
         m = f.open().read()
         c = replace_chunk(m, KEY, string)
         f.open("w").write(c)
@@ -366,9 +361,9 @@ def FileProcessorPicksRandomItem(OUTPUT_FILE, INPUT_SOURCE, KEY) -> str:
         return ("File does not exist, unable to proceed")
 
 
-def FileProcessorFromSource(OUTPUT_FILE, data, KEY) -> str:
+def FileProcessorFromSource(OF, data, KEY) -> str:
     try:
-        f = pathlib.Path(OUTPUT_FILE)
+        f = pathlib.Path(OF)
         m = f.open().read()
         c = replace_chunk(m, KEY, data)
         f.open("w").write(c)

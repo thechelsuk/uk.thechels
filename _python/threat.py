@@ -5,7 +5,7 @@ import helper
 
 if __name__ == "__main__":
     root = pathlib.Path(__file__).parent.parent.resolve()
-    OUTPUT_FILE = root / "_pages/daily.md"
+    OF = root / "_pages/daily.md"
     nf = feedparser.parse(
         "https://www.mi5.gov.uk/UKThreatLevel/UKThreatLevel.xml")["entries"]
     if nf:
@@ -22,5 +22,5 @@ if __name__ == "__main__":
         days_since_update = 0
         update = ''
     KEY = "threat_marker"
-    string = helper.FileProcessorFromSource(OUTPUT_FILE, string, KEY)
+    string = helper.FileProcessorFromSource(OF, string, KEY)
     print(string)
