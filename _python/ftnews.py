@@ -1,4 +1,3 @@
-# importing modules
 import feedparser
 import pathlib
 import helper

@@ -327,16 +327,10 @@ def process_entries(entries, file_content, key):
 
 def FeedProcessor(OF,URL,KEY) -> str:
     try:
-        if feed_parse is None:
-            feed_parse = feedparser.parse
-        if read_file is None:
-            read_file = lambda: OF.open().read()
-        if write_file is None:
-            write_file = lambda content: OF.open("w").write(content)
-        output = feed_parse(URL)["entries"]
-        m = read_file()
+        output = feedparser.parse(URL)["entries"]
+        m = pathlib.Path(OF).open().read()
         c = process_entries(output, m, KEY)
-        write_file(c)
+        OF.open("w").write(c)
         return (f"{KEY} processor completed")
     except FileNotFoundError:
         return ("File does not exist, unable to proceed")
