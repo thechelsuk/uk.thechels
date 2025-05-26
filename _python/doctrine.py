@@ -6,5 +6,5 @@ if __name__ == "__main__":
     OF = root / "_pages/daily.md"
     IF = "./_data/doctrine.yml"
     KEY = "doctrine_marker"
-    string = helper.FileProcessorPicksRandomItem(OF=OF,IF=IF,KEY=KEY)
+    string = helper.FileProcessorPicksRandomItem(OF=OF, IF=IF, KEY=KEY)
     print(string)

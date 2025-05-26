@@ -325,7 +325,7 @@ def process_entries(entries, file_content, key):
     return c
 
 
-def FeedProcessor(OF,URL,KEY) -> str:
+def FeedProcessor(OF, URL, KEY) -> str:
     try:
         output = feedparser.parse(URL)["entries"]
         m = pathlib.Path(OF).open().read()
