@@ -4,8 +4,8 @@ import helper
 import pytest
 from datetime import datetime, timedelta
 import pathlib
-from unittest.mock import patch
 import yaml
+from unittest.mock import patch, mock_open
 
 
 class TestHelper:
@@ -361,6 +361,138 @@ class TestHelper:
         link = "http://example.com"
         fixtures = helper.get_fixtures(link)
         assert fixtures == "- No Fixtures"
+
+    @patch('feedparser.parse')
+    def test_FeedProcessor(self, mock_parse):
+        url = "https://jamesg.blog/oblique-strategies/rss.xml"
+        output_file = "test_output.md"
+        key = "eno_marker"
+        # Mock feedparser output
+        mock_parse.return_value = {"entries": [{"title": "Test Title"}]}
+        # Mock file read/write
+        m = mock_open(read_data=helper.format_marker_chunk(key, "old"))
+        with patch("pathlib.Path.open", m):
+            # Patch helper.replace_chunk to a known output for assertion
+            with patch("eno.helper.replace_chunk", side_effect=lambda s, k, n: helper.format_marker_chunk(k, n)) as mock_replace:
+                result = helper.FeedProcessor(pathlib.Path(output_file), url, key)
+                # Check output string
+                assert result == "eno_marker processor completed"
+                # Check file write called with expected content
+                handle = m()
+                handle.write.assert_called_once_with(helper.format_marker_chunk(key, '> Test Title\n'))
+
+    @patch('random.choice')
+    def test_FileProcessorPicksRandomItem_success(self, mock_choice):
+        # Setup
+        items = ['item1', 'item2', 'item3']
+        mock_choice.return_value = 'item2'
+        input_yaml = yaml.dump(items)
+        m = mock_open(read_data=input_yaml)
+        output_file = pathlib.Path('output.md')
+        input_source = pathlib.Path('input.yml')
+        key = 'doctrine_marker'
+        # Patch open for both input and output files
+        with patch('pathlib.Path.open', m):
+            # Patch replace_chunk to a known output
+            with patch('helper.replace_chunk', side_effect=lambda s, k, n: helper.format_marker_chunk(k, n)):
+                result = helper.FileProcessorPicksRandomItem(output_file, input_source, key)
+                handle = m()
+                handle.write.assert_called_once_with(helper.format_marker_chunk(key, '> item2'))
+                assert result == f"{key} completed"
+
+    @patch('random.choice')
+    def test_FileProcessorPicksRandomItem_single_item(self, mock_choice):
+        items = ['onlyitem']
+        mock_choice.return_value = 'onlyitem'
+        m = mock_open(read_data=yaml.dump(items))
+        output_file = pathlib.Path('output.md')
+        input_source = pathlib.Path('input.yml')
+        key = 'doctrine_marker'
+        with patch('pathlib.Path.open', m):
+            with patch('helper.replace_chunk', side_effect=lambda s, k, n: helper.format_marker_chunk(k, n)):
+                result = helper.FileProcessorPicksRandomItem(output_file, input_source, key)
+                handle = m()
+                handle.write.assert_called_once_with(helper.format_marker_chunk(key, '> onlyitem'))
+                assert result == f"{key} completed"
+
+    @patch('random.choice')
+    def test_FileProcessorPicksRandomItem_custom_key(self, mock_choice):
+        items = ['itemX']
+        mock_choice.return_value = 'itemX'
+        m = mock_open(read_data=yaml.dump(items))
+        output_file = pathlib.Path('output.md')
+        input_source = pathlib.Path('input.yml')
+        key = 'custom_marker'
+        with patch('pathlib.Path.open', m):
+            with patch('helper.replace_chunk', side_effect=lambda s, k, n: helper.format_marker_chunk(k, n)):
+                result = helper.FileProcessorPicksRandomItem(output_file, input_source, key)
+                handle = m()
+                handle.write.assert_called_once_with(helper.format_marker_chunk(key, '> itemX'))
+                assert result == f"{key} completed"
+
+    @patch('feedparser.parse')
+    def test_FeedProcessor(self, mock_parse):
+        url = "https://jamesg.blog/oblique-strategies/rss.xml"
+        output_file = "test_output.md"
+        key = "eno_marker"
+        # Mock feedparser output
+        mock_parse.return_value = {"entries": [{"title": "Test Title"}]}
+        # Mock file read/write
+        m = mock_open(read_data=helper.format_marker_chunk(key, "old"))
+        with patch("pathlib.Path.open", m):
+            # Patch helper.replace_chunk to a known output for assertion
+            with patch("eno.helper.replace_chunk", side_effect=lambda s, k, n: helper.format_marker_chunk(k, n)) as mock_replace:
+                result = helper.FeedProcessor(pathlib.Path(output_file), url, key)
+                # Check output string
+                assert result == "eno_marker processor completed"
+                # Check file write called with expected content
+                handle = m()
+                handle.write.assert_called_once_with(helper.format_marker_chunk(key, '> Test Title\n'))
+
+    def test_add_suffix_th(self):
+        # 4-20 and 24-30 should be 'th'
+        for day in list(range(4, 21)) + list(range(24, 31)):
+            assert helper.add_suffix(day) == 'th'
+
+    def test_add_suffix_st(self):
+        # 1, 21, 31 should be 'st'
+        for day in [1, 21, 31]:
+            assert helper.add_suffix(day) == 'st'
+
+    def test_add_suffix_nd(self):
+        # 2, 22 should be 'nd'
+        for day in [2, 22]:
+            assert helper.add_suffix(day) == 'nd'
+
+    def test_add_suffix_rd(self):
+        # 3, 23 should be 'rd'
+        for day in [3, 23]:
+            assert helper.add_suffix(day) == 'rd'
+
+    def test_stylish_datetime_basic(self):
+        dt = datetime(2022, 6, 8)  # 8th June 2022
+        fmt = '%A {th} %B %Y'
+        result = helper.stylish_datetime(dt, fmt)
+        # Should replace {th} with 8th
+        assert result == 'Wednesday 8th June 2022'
+
+    def test_stylish_datetime_st(self):
+        dt = datetime(2022, 6, 1)  # 1st June 2022
+        fmt = '%A {th} %B %Y'
+        result = helper.stylish_datetime(dt, fmt)
+        assert result == 'Wednesday 1st June 2022'
+
+    def test_stylish_datetime_nd(self):
+        dt = datetime(2022, 6, 2)  # 2nd June 2022
+        fmt = '%A {th} %B %Y'
+        result = helper.stylish_datetime(dt, fmt)
+        assert result == 'Thursday 2nd June 2022'
+
+    def test_stylish_datetime_rd(self):
+        dt = datetime(2022, 6, 3)  # 3rd June 2022
+        fmt = '%A {th} %B %Y'
+        result = helper.stylish_datetime(dt, fmt)
+        assert result == 'Friday 3rd June 2022'
 
 
 if __name__ == "__main__":

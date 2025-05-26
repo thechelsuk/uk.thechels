@@ -33,7 +33,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Crossing the river by feeling the stones.
+> Inspire others
 <!-- doctrine_marker ends -->
 
 ### Fixture List

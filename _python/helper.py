@@ -123,6 +123,11 @@ def replace_chunk(content: str, m: str, c: str) -> str:
     return replacer.sub(c, content)
 
 
+def format_marker_chunk(key: str, content: str) -> str:
+    """Formats a marker chunk for a given key and content."""
+    return f"<!-- {key} starts -->\n{content}\n<!-- {key} ends -->"
+
+
 def remove_img_tags(data: str) -> str:
     """Removes img tags from a string"""
     p = re.compile(r"<img.*?/>")
@@ -308,3 +313,54 @@ def get_random_quote_from_a_list(out: str, items: list, count: int) -> str:
     for item in random.sample(items, count):
         out += f"{item}\n"
     return out
+
+def process_entries(entries, file_content, key):
+    if not entries:
+        out_string = "No entries found"
+    else:
+        out_string = entries[-1]['title']
+    string = f'> {out_string}\n'
+    c = replace_chunk(file_content, key, string)
+    return c
+
+def FeedProcessor(OUTPUT_FILE, URL, KEY, read_file=None, write_file=None, feed_parse=None):
+    """
+    OUTPUT_FILE: pathlib.Path or str
+    URL: str
+    KEY: str
+    read_file: function to read file content (for testability)
+    write_file: function to write file content (for testability)
+    feed_parse: function to parse feed (for testability)
+    """
+    try:
+        if feed_parse is None:
+            feed_parse = feedparser.parse
+        if read_file is None:
+            read_file = lambda: OUTPUT_FILE.open().read()
+        if write_file is None:
+            write_file = lambda content: OUTPUT_FILE.open("w").write(content)
+        output = feed_parse(URL)["entries"]
+        m = read_file()
+        c = process_entries(output, m, KEY)
+        write_file(c)
+        return (f"{KEY} processor completed")
+    except FileNotFoundError:
+        return ("File does not exist, unable to proceed")
+
+def FileProcessorPicksRandomItem(OUTPUT_FILE, INPUT_SOURCE, KEY) -> str:
+    try:
+        doctrine = pathlib.Path(INPUT_SOURCE)
+        with doctrine.open() as f:
+            items = yaml.safe_load(f)
+        if not items:
+            raise ValueError("No items found in YAML file")
+        item = random.choice(items)
+        string = f"> {item}"
+
+        f = pathlib.Path(OUTPUT_FILE)
+        m = f.open().read()
+        c = replace_chunk(m, KEY, string)
+        f.open("w").write(c)
+        return  f"{KEY} completed"
+    except FileNotFoundError:
+        return ("File does not exist, unable to proceed")
