@@ -7,33 +7,34 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 26 May 2025
+## On Tuesday, 27 May 2025
 
-- The average temperature today is 11.45˚C,
-- With highs of 12.19˚C and lows of 10.94˚C,
-- It may feel like 10.69˚C with broken clouds
+- The average temperature today is 13.42˚C,
+- With highs of 14.28˚C and lows of 12.69˚C,
+- It may feel like 12.96˚C with overcast clouds
 - The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 78%
-- The sun will rise at 04:00 and set at 20:10
+- The pressure is 1011hPa and humidity is 82%
+- The sun will rise at 03:59 and set at 20:11
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 447 days since the last change (2024-03-05)
+- It has been 448 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Inspire others
+> Exploit the landscape.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -46,19 +47,20 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 105.5
+- VWRL.L : 105.5 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Nottingham Forest 0-1 Chelsea, Player Ratings: Colwill leading the fight to be among the best
+- Chelsea set record for youngest Premier League team ever
 - Never in doubt, says Maresca, about thing that was very much in doubt
 - Nottingham Forest 0-1 Chelsea, Premier League: Post-match reaction, ratings
 - WATCH: Levi Colwill opens the scoring for Chelsea against Forest! 1-0!
 - Nottingham Forest vs. Chelsea, Premier League: Live blog; highlights
 - The people’s choice against Nottingham Forest: More midfield, less striker
-- Nottingham Forest vs. Chelsea, Premier League: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -66,14 +68,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump delays imposing 50% tariffs on EU until July 9
-- Robert F Kennedy Jr’s battle with Big Food
-- The UK’s trade performance remains dire
-- Why is Trump so obsessed with other men’s looks?
-- Reeves squeezed by rising borrowing costs and spending pressures
-- NHS leaders in England braced for 2% spending settlement
-- Wall Street vs private equity: can anyone stop the grad recruitment creep?
-- Trump calls Putin ‘crazy’ after record air attack on Ukraine
+- UK turns to shorter-term borrowing as fiscal pressure mounts
+- ‘Crazy’ data rules hit German plans to boost army reserve
+- Professionals are losing control of their work
+- The much-loved village post office that it hardly pays to run
+- Trump media group plans to raise $3bn to spend on cryptocurrencies
+- Greenland says it will turn to China if US and EU shun its mining sector
+- Reform UK treasurer Nick Candy’s start-up fund lost £100mn over a decade
+- Police arrest man after car hits pedestrians at Liverpool Football Club parade
 
 <!-- ftnews_marker ends -->
 
@@ -81,40 +83,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > Aaron's rod - noun: 1. A powerful force that overcomes others around it. 2. Any of various plants with tall, flowering stems, like goldenrod or mullein. 3. An architectural molding featuring a snake motif, sometimes with vines and leaves.
+ > chef's kiss - noun: 1. A gesture made by kissing one's fingertip(s) and thumb and spreading them outward. 2. Something or someone considered excellent or perfect.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The best way to get a project done faster is to start sooner - Jim Highsmith
+> What got us here, will not get us there - Emma Hayes
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Turn it upside down
+> Be dirty
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- James Bond: Goldeneye (Rated: 6)
-- Released in 1995
-- Summary: No summary available
+- James Bond: Die Another Day (Rated: 4)
+- Released in 2002
+- Summary: N/A
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 579, using [4, 5, 10, 50, 75, 100]
-- Answer: 18 solutions.
+- Target: 129, using [1, 4, 9, 10, 50, 100]
+- Answer: 17 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 75 - 50 - 10 ) x 5 + 4
+  Solution: 50 / ( 10 + 1 - 9 ) + 100 + 4
 
    </details>
 
