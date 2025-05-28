@@ -7,34 +7,32 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 27 May 2025
+## On Wednesday, 28 May 2025
 
-- The average temperature today is 13.42˚C,
-- With highs of 14.28˚C and lows of 12.69˚C,
-- It may feel like 12.96˚C with overcast clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1011hPa and humidity is 82%
-- The sun will rise at 03:59 and set at 20:11
+- The average temperature today is 14.2˚C,
+- With highs of 14.73˚C and lows of 13.72˚C,
+- It may feel like 13.63˚C with overcast clouds
+- The wind speed is 4.47m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 75%
+- The sun will rise at 03:58 and set at 20:13
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 448 days since the last change (2024-03-05)
+- It has been 449 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Exploit the landscape.
+> Be the owner.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -47,20 +45,19 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 105.5 
+- VWRL.L : 106.94999694824219 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea re-emerge as favorites to sign Liam Delap — reports
+- How should Chelsea line up in the UEFA Conference League final against Real Betis?
 - Nottingham Forest 0-1 Chelsea, Player Ratings: Colwill leading the fight to be among the best
 - Chelsea set record for youngest Premier League team ever
 - Never in doubt, says Maresca, about thing that was very much in doubt
 - Nottingham Forest 0-1 Chelsea, Premier League: Post-match reaction, ratings
-- WATCH: Levi Colwill opens the scoring for Chelsea against Forest! 1-0!
-- Nottingham Forest vs. Chelsea, Premier League: Live blog; highlights
-- The people’s choice against Nottingham Forest: More midfield, less striker
 
 <!-- news_marker ends -->
 
@@ -68,14 +65,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- UK turns to shorter-term borrowing as fiscal pressure mounts
-- ‘Crazy’ data rules hit German plans to boost army reserve
-- Professionals are losing control of their work
-- The much-loved village post office that it hardly pays to run
-- Trump media group plans to raise $3bn to spend on cryptocurrencies
-- Greenland says it will turn to China if US and EU shun its mining sector
-- Reform UK treasurer Nick Candy’s start-up fund lost £100mn over a decade
-- Police arrest man after car hits pedestrians at Liverpool Football Club parade
+- McKinsey sheds 10% of staff in 2-year profitability drive
+- The lessons from China’s dominance in manufacturing
+- Saudi AI company courts US tech investors and plans $10bn fund
+- Should ordinary US retirement accounts be investing in private assets?
+- Musk criticises Trump’s ‘big, beautiful’ tax bill
+- SpaceX Starship rocket fails to deploy satellites and explodes on re-entry
+- Trump warns Putin he is ‘playing with fire’ in Ukraine
+- Bitcoin price surge encourages more companies to acquire crypto
 
 <!-- ftnews_marker ends -->
 
@@ -83,40 +80,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > chef's kiss - noun: 1. A gesture made by kissing one's fingertip(s) and thumb and spreading them outward. 2. Something or someone considered excellent or perfect.
+ > rat's nest - noun: A confused mess.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> What got us here, will not get us there - Emma Hayes
+> The ScrumMaster's goal is to encourage self-organization. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Be dirty
+> Accretion
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- James Bond: Die Another Day (Rated: 4)
-- Released in 2002
-- Summary: N/A
+- Scarface (Rated: 5)
+- Released in 1983
+- Summary: In the 1980s, a determined criminal-minded Cuban immigrant becomes the biggest drug smuggler in Miami, and is eventually undone by his own drug addiction.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 129, using [1, 4, 9, 10, 50, 100]
-- Answer: 17 solutions.
+- Target: 343, using [3, 4, 6, 6, 25, 50]
+- Answer: 16 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: 50 / ( 10 + 1 - 9 ) + 100 + 4
+  Solution: ( 50 - 6 / 6 ) x ( 25 - 4 ) / 3
 
    </details>
 
