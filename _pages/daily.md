@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 28 May 2025
+## On Thursday, 29 May 2025
 
-- The average temperature today is 14.2˚C,
-- With highs of 14.73˚C and lows of 13.72˚C,
-- It may feel like 13.63˚C with overcast clouds
-- The wind speed is 4.47m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 75%
-- The sun will rise at 03:58 and set at 20:13
+- The average temperature today is 15.71˚C,
+- With highs of 16.66˚C and lows of 14.36˚C,
+- It may feel like 15.58˚C with overcast clouds
+- The wind speed is 5.36m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 86%
+- The sun will rise at 03:57 and set at 20:14
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 449 days since the last change (2024-03-05)
+- It has been 450 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,7 +32,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be the owner.
+> Think aptitude and attitude.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -45,19 +45,21 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 106.94999694824219 
+- VWRL.L : 107.11000061035156 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
-- Chelsea re-emerge as favorites to sign Liam Delap — reports
-- How should Chelsea line up in the UEFA Conference League final against Real Betis?
-- Nottingham Forest 0-1 Chelsea, Player Ratings: Colwill leading the fight to be among the best
-- Chelsea set record for youngest Premier League team ever
-- Never in doubt, says Maresca, about thing that was very much in doubt
-- Nottingham Forest 0-1 Chelsea, Premier League: Post-match reaction, ratings
+- Maresca delighted to win the Conference League, hopes to build ‘something important’ from it
+- WATCH: Chelsea lift the UEFA Conference League trophy!
+- WATCH: Moisés Caicedo makes it 4-1 Chelsea against Real Betis!
+- Real Betis 1-4 Chelsea, UEFA Conference League Final: Post-match reaction, ratings
+- WATCH: Jadon Sancho top bins effort adds a third for Chelsea against Real Betis! 3-1!
+- WATCH: Nicolas Jackson puts Chelsea in front against Real Betis! 2-1!
+- WATCH: Enzo Fernández equalises for Chelsea against Real Betis! 1-1!
+- Real Betis vs. Chelsea, UEFA Conference League: Live blog; highlights
 
 <!-- news_marker ends -->
 
@@ -65,14 +67,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- McKinsey sheds 10% of staff in 2-year profitability drive
-- The lessons from China’s dominance in manufacturing
-- Saudi AI company courts US tech investors and plans $10bn fund
-- Should ordinary US retirement accounts be investing in private assets?
-- Musk criticises Trump’s ‘big, beautiful’ tax bill
-- SpaceX Starship rocket fails to deploy satellites and explodes on re-entry
-- Trump warns Putin he is ‘playing with fire’ in Ukraine
-- Bitcoin price surge encourages more companies to acquire crypto
+- US trade court says Trump’s global tariffs are illegal
+- Court tariffs bombshell should inspire trading partners to defy Trump
+- UK seeks to speed up implementation of US trade deal
+- How Wall Street offloaded $13bn of debt tied to Elon Musk’s Twitter deal
+- The bond vigilantes are on the prowl
+- ‘Whales’, Vance, and the Trump sons: inside the Vegas bitcoin party
+- One in 10 UK civil service jobs facing axe
+- US to ‘aggressively’ revoke visas of Chinese students
 
 <!-- ftnews_marker ends -->
 
@@ -80,41 +82,34 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > rat's nest - noun: A confused mess.
+ > devil's tattoo - noun: A rhythmic tapping of fingers, knuckles, or feet.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The ScrumMaster's goal is to encourage self-organization. - Zuzana Sochova
+> As an Agile coach, you do not need to have all the answers; it takes time and a few experiments to hit the right approach - Rachel Davies and Liz Sedley
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Accretion
+> Do something boring
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Scarface (Rated: 5)
-- Released in 1983
-- Summary: In the 1980s, a determined criminal-minded Cuban immigrant becomes the biggest drug smuggler in Miami, and is eventually undone by his own drug addiction.
+- Psycho (Rated: 3)
+- Released in 1960
+- Summary: A secretary on the run for embezzlement takes refuge at a secluded California motel owned by a repressed man and his overbearing mother.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 343, using [3, 4, 6, 6, 25, 50]
-- Answer: 16 solutions.
-
-- <details><summary><code>Solution</code></summary>
-
-  Solution: ( 50 - 6 / 6 ) x ( 25 - 4 ) / 3
-
-   </details>
+- Target: 665, using [2, 9, 9, 25, 50, 100]
 
 <!-- game_marker ends -->
