@@ -30,14 +30,25 @@ html {
 }
 
 html.dark-mode {
-    --background: #0c090a;
-    --primary: #b6b6b6;
-    --secondary: #646d7e;
-    --links: #659ec7;
-    --accent: #111b76;
-    --code: #4d4d4f;
-    --tab: #34282c;
-    --alt-tab: #3b3131;
+    --background: #181a1b;
+    --primary: #e0e6ed;
+    --secondary: #3a7afe;
+    --links: #7abaff;
+    --accent: #83631c;
+    --code: #23272e;
+    --tab: #23272e;
+    --alt-tab: #22252a;
+}
+
+html.alt-mode {
+    --background: #232946; // deep blue
+    --primary: #fffffe; // off-white text
+    --secondary: #eebbc3; // soft pink accent
+    --links: #b8c1ec; // light blue links
+    --accent: #5a472c; // gold accent
+    --code: #121629; // very dark blue for code
+    --tab: #393e6e; // muted blue for tabs
+    --alt-tab: #2e325a; // slightly lighter for alternating rows
 }
 
 html.light-mode {

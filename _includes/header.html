@@ -161,18 +161,14 @@
           <script>
             (function () {
               function setTheme(mode) {
-                if (mode === 'dark') {
-                  document.documentElement.setAttribute('data-theme', 'dark');
-                } else {
-                  document.documentElement.setAttribute('data-theme', 'light');
-                }
-                // Force CSS variables to update
-                document.documentElement.classList.remove('dark-mode', 'light-mode');
+                document.documentElement.setAttribute('data-theme', mode);
+                document.documentElement.classList.remove('dark-mode', 'light-mode', 'alt-mode');
                 document.documentElement.classList.add(mode + '-mode');
               }
               // On load, set theme from localStorage or system preference
               var stored = localStorage.getItem('theme');
-              if (stored) {
+              var validModes = ['light', 'alt', 'dark'];
+              if (stored && validModes.includes(stored)) {
                 setTheme(stored);
               } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
                 setTheme('dark');
@@ -184,7 +180,8 @@
               if (asterisk) {
                 asterisk.addEventListener('click', function () {
                   var current = document.documentElement.getAttribute('data-theme');
-                  var next = current === 'dark' ? 'light' : 'dark';
+                  var nextIdx = (validModes.indexOf(current) + 1) % validModes.length;
+                  var next = validModes[nextIdx];
                   setTheme(next);
                   localStorage.setItem('theme', next);
                 });
