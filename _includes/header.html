@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Security-Policy"
-      content="default-src *; script-src *; style-src *; upgrade-insecure-requests; block-all-mixed-content">
+      content="default-src *; script-src * 'unsafe-inline'; style-src *; upgrade-insecure-requests; block-all-mixed-content">
     <meta name="referrer" content="origin">
     <title>{{ page.title | default: post.title }}</title>
     <meta name="title" content="{{ page.title | default: post.title }} | {{ site.title }}">
@@ -137,7 +137,8 @@
               {{ site.title }}
               {% else %}
               {{ page.title }}
-              {% endif %}</a> <sup class="asterisk" id="top">*</sup>
+              {% endif %}</a> <sup class="asterisk" id="top" tabindex="0" title="Toggle light/dark mode"
+              style="cursor:pointer;">*</sup>
           </div>
           <div class="blog-image"></div>
           <p class="blog-slogan">
@@ -157,3 +158,42 @@
           </nav>
         </header>
         <div id="main" class="content">
+          <script>
+            (function () {
+              function setTheme(mode) {
+                if (mode === 'dark') {
+                  document.documentElement.setAttribute('data-theme', 'dark');
+                } else {
+                  document.documentElement.setAttribute('data-theme', 'light');
+                }
+                // Force CSS variables to update
+                document.documentElement.classList.remove('dark-mode', 'light-mode');
+                document.documentElement.classList.add(mode + '-mode');
+              }
+              // On load, set theme from localStorage or system preference
+              var stored = localStorage.getItem('theme');
+              if (stored) {
+                setTheme(stored);
+              } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                setTheme('dark');
+              } else {
+                setTheme('light');
+              }
+              // Toggle on asterisk click or enter
+              var asterisk = document.getElementById('top');
+              if (asterisk) {
+                asterisk.addEventListener('click', function () {
+                  var current = document.documentElement.getAttribute('data-theme');
+                  var next = current === 'dark' ? 'light' : 'dark';
+                  setTheme(next);
+                  localStorage.setItem('theme', next);
+                });
+                asterisk.addEventListener('keydown', function (e) {
+                  if (e.key === 'Enter' || e.key === ' ') {
+                    asterisk.click();
+                    e.preventDefault();
+                  }
+                });
+              }
+            })();
+          </script>

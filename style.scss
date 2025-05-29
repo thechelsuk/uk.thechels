@@ -29,17 +29,26 @@ html {
     --alt-tab: #fffafa;
 }
 
-@media (prefers-color-scheme: dark) {
-    :root {
-        --background: #0c090a; // night
-        --primary: #b6b6b6; // gray cloud
-        --secondary: #646d7e; //mist blue
-        --links: #659ec7; // blue koi;
-        --accent: #111b76; // black blue
-        --code: #4d4d4f; // dark steampunk
-        --tab: #34282c; // charcoal
-        --alt-tab: #3b3131; // oil
-    }
+html.dark-mode {
+    --background: #0c090a;
+    --primary: #b6b6b6;
+    --secondary: #646d7e;
+    --links: #659ec7;
+    --accent: #111b76;
+    --code: #4d4d4f;
+    --tab: #34282c;
+    --alt-tab: #3b3131;
+}
+
+html.light-mode {
+    --background: #f5f4f4;
+    --primary: #04100d;
+    --secondary: #005ca3;
+    --links: #295147;
+    --accent: #cec452;
+    --code: #c0deff;
+    --tab: #b6b6b4;
+    --alt-tab: #fffafa;
 }
 
 $background: var(--background);
