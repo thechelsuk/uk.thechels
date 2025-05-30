@@ -119,10 +119,6 @@ navigation_slashes:
     title: "Wish &#11084;"
   - link: "/indieweb.txt"
     title: "IndieWeb"
-  - link: "/contributing.md"
-    title: "Contributing"
-  - link: "/code-of-conduct.md"
-    title: "Code of Conduct"
 
 ## Footer links
 navigation_footer:
