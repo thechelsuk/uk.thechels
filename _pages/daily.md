@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 29 May 2025
+## On Friday, 30 May 2025
 
-- The average temperature today is 15.71˚C,
-- With highs of 16.66˚C and lows of 14.36˚C,
-- It may feel like 15.58˚C with overcast clouds
-- The wind speed is 5.36m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 86%
-- The sun will rise at 03:57 and set at 20:14
+- The average temperature today is 15.42˚C,
+- With highs of 16.4˚C and lows of 14.83˚C,
+- It may feel like 15.13˚C with clear sky
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 81%
+- The sun will rise at 03:56 and set at 20:15
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 450 days since the last change (2024-03-05)
+- It has been 451 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,7 +32,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Think aptitude and attitude.
+> Do better with less.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -45,21 +45,20 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 107.11000061035156 
+- VWRL.L : 107.04000091552734 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea in talks with Jadon Sancho over contract terms — report
+- Ipswich Town interested in taking Marc Guiu on loan — report
+- Chelsea, Ipswich Town agree Liam Delap transfer — reports
 - Maresca delighted to win the Conference League, hopes to build ‘something important’ from it
 - WATCH: Chelsea lift the UEFA Conference League trophy!
 - WATCH: Moisés Caicedo makes it 4-1 Chelsea against Real Betis!
 - Real Betis 1-4 Chelsea, UEFA Conference League Final: Post-match reaction, ratings
-- WATCH: Jadon Sancho top bins effort adds a third for Chelsea against Real Betis! 3-1!
-- WATCH: Nicolas Jackson puts Chelsea in front against Real Betis! 2-1!
-- WATCH: Enzo Fernández equalises for Chelsea against Real Betis! 1-1!
-- Real Betis vs. Chelsea, UEFA Conference League: Live blog; highlights
 
 <!-- news_marker ends -->
 
@@ -67,14 +66,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- US trade court says Trump’s global tariffs are illegal
-- Court tariffs bombshell should inspire trading partners to defy Trump
-- UK seeks to speed up implementation of US trade deal
-- How Wall Street offloaded $13bn of debt tied to Elon Musk’s Twitter deal
-- The bond vigilantes are on the prowl
-- ‘Whales’, Vance, and the Trump sons: inside the Vegas bitcoin party
-- One in 10 UK civil service jobs facing axe
-- US to ‘aggressively’ revoke visas of Chinese students
+- Foreign tax provision in Trump budget bill spooks Wall Street
+- There’s a ticking time bomb in Trump’s ‘big, beautiful bill’
+- Tariffs take Detroit to verge of break-up with ‘best friends’ in Canada
+- Musk counts the cost of his ‘government efficiency’ blitz
+- Welcome to the age of cyber insecurity in business
+- UK fuel payment U-turn risks turning £1.5bn cut into net cost, analysts warn
+- BoE policymaker plays down inflation risk in call for rate cuts
+- Commodities giant ADM exploits green fuel loophole, UK producers say
 
 <!-- ftnews_marker ends -->
 
@@ -82,34 +81,41 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > devil's tattoo - noun: A rhythmic tapping of fingers, knuckles, or feet.
+ > Adam's ale - noun: Water.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> As an Agile coach, you do not need to have all the answers; it takes time and a few experiments to hit the right approach - Rachel Davies and Liz Sedley
+> ScrumMasters are not just an additional expense; they create high-performing teams. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Do something boring
+> What mistakes did you make last time?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Psycho (Rated: 3)
-- Released in 1960
-- Summary: A secretary on the run for embezzlement takes refuge at a secluded California motel owned by a repressed man and his overbearing mother.
+- The Bay (Rated: 7)
+- Released in 2012
+- Summary: Chaos breaks out in a small Maryland town after an ecological disaster occurs.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 665, using [2, 9, 9, 25, 50, 100]
+- Target: 819, using [2, 4, 10, 25, 75, 100]
+- Answer: 2 solutions.
+
+- <details><summary><code>Solution</code></summary>
+
+  Solution: ( 100 - 25 ) x 10 + 75 - 4 - 2
+
+   </details>
 
 <!-- game_marker ends -->
