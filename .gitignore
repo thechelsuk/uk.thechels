@@ -12,3 +12,4 @@ _includes/footer.html
 _python/__pycache__
 _drafts/
 .coverage
+_pages/SBOM.md
