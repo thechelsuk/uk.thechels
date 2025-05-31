@@ -10,6 +10,7 @@ import re
 import datetime
 from pathlib import Path
 
+
 def parse_gemfile_lock(gemfile_lock_path):
     """Parse Gemfile.lock to extract gem names and versions."""
     gems = {}
@@ -18,7 +19,8 @@ def parse_gemfile_lock(gemfile_lock_path):
         content = f.read()
 
     # Extract gem specifications from the specs section
-    specs_section = re.search(r'specs:\s*\n(.*?)\nPLATFORMS', content, re.DOTALL)
+    specs_section = re.search(r'specs:\s*\n(.*?)\nPLATFORMS', content,
+                              re.DOTALL)
     if specs_section:
         specs_content = specs_section.group(1)
 
@@ -33,6 +35,7 @@ def parse_gemfile_lock(gemfile_lock_path):
                 gems[gem_name] = version
 
     return gems
+
 
 def parse_requirements_txt(requirements_path):
     """Parse requirements.txt to extract package names."""
@@ -50,6 +53,7 @@ def parse_requirements_txt(requirements_path):
 
     return sorted(packages)
 
+
 def get_python_package_info():
     """Get Python package information from requirements files."""
     base_path = Path(__file__).parent.parent
@@ -66,6 +70,7 @@ def get_python_package_info():
     all_packages = sorted(set(main_packages + python_packages))
 
     return all_packages
+
 
 def generate_sbom_markdown():
     """Generate the SBOM markdown file."""
@@ -170,6 +175,7 @@ This SBOM is provided for transparency. Individual packages maintain their own l
 
     return markdown_content
 
+
 def main():
     """Main function to generate and save the SBOM."""
     try:
@@ -199,6 +205,7 @@ def main():
         return 1
 
     return 0
+
 
 if __name__ == "__main__":
     exit(main())
