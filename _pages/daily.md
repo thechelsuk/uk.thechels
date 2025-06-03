@@ -7,32 +7,34 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 02 June 2025
+## On Tuesday, 03 June 2025
 
-- The average temperature today is 11.11˚C,
-- With highs of 11.96˚C and lows of 10.38˚C,
-- It may feel like 10.34˚C with few clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 79%
-- The sun will rise at 03:54 and set at 20:18
+- The average temperature today is 12.55˚C,
+- With highs of 13.32˚C and lows of 11.58˚C,
+- It may feel like 12.08˚C with light rain
+- The wind speed is 4.92m/s and visibility is 10000m
+- The pressure is 1003hPa and humidity is 85%
+- The sun will rise at 03:53 and set at 20:19
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 454 days since the last change (2024-03-05)
+- It has been 455 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Set exceptional standards.
+> Optimise flow.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -45,19 +47,19 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 107.0250015258789 
+- VWRL.L : 106.61000061035156 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea ‘step up’ efforts to sign Ekitike despite concerns over transfer fee — reports
+- Official: Chelsea sign Dário Essugo from Sporting CP
+- Chelsea ‘open to offers’ for Noni Madueke — report
+- Chelsea, Borussia Dortmund ‘in talks’ over quick-fire Jamie Gittens deal — report
 - Chelsea agree personal terms with Liam Delap — report
 - LAFC beat Club América to qualify for Club World Cup and play against Chelsea
-- Cucurella, Neto, Gusto set to play in UEFA Nations League Finals
-- Đorđe Petrović open to €25m AS Monaco transfer — report
-- Chelsea interested in Branthwaite, Gila as Marseille shortlist Badiashile — reports
-- Chelsea could sign Ekitike this summer, Emegha next summer — reports
 
 <!-- news_marker ends -->
 
@@ -65,14 +67,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Nationalist candidate wins Poland election
-- ‘Humanity deserves better’: Jony Ive and Laurene Powell Jobs on tech’s next chapter
-- The world’s strongest currency is also super-competitive
-- The Fed’s demanding coming months
-- Britain to build up to 12 attack submarines as it moves to war-ready footing
-- Ukraine stages audacious attack on airfields deep in Russian territory
-- China accuses US of ‘seriously violating’ trade truce and vows to respond
-- UK office construction drops to 10-year low
+- Big Four firms race to develop audits for AI products
+- ‘Godfather’ of AI Yoshua Bengio says latest models lie to users
+- How Blackstone and its biggest rivals are drifting apart
+- ‘Vibe coding’ is the new DIY
+- It’s time for the second draft of globalisation
+- Musk’s xAI seeks $113bn valuation in $300mn share sale
+- Sizewell C nuclear project to get go-ahead during Anglo-French summit
+- Bank of England neglected climate and nature risk, say former senior staff
 
 <!-- ftnews_marker ends -->
 
@@ -80,40 +82,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > Rambo - noun: A violently aggressive person, especially one who disregards rules or authority.
+ > Keystone cop - noun: An incompetent bungling person.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> I start with the premise that the function of leadership is to produce more leaders, not more followers. - Ralph Nader
+> The great ScrumMaster is a leader who creates new leaders out of the people around him. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Work at a different speed
+> Abandon normal instruments
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Infinite (Rated: 3)
-- Released in 2021
-- Summary: A man discovers that his hallucinations are actually visions from past lives.
+- Definitely Maybe (Rated: 4)
+- Released in 2008
+- Summary: A political consultant tries to explain his impending divorce and past relationships to his 11-year-old daughter.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 808, using [1, 5, 6, 25, 50, 75]
-- Answer: 1 solutions.
+- Target: 545, using [4, 5, 9, 10, 50, 100]
+- Answer: 68 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 75 + 6 ) x 5 - 1 ) x 50 / 25
+  Solution: ( 100 + 10 - 50 ) x 9 + 5
 
    </details>
 
