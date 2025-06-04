@@ -7,34 +7,32 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 03 June 2025
+## On Wednesday, 04 June 2025
 
-- The average temperature today is 12.55˚C,
-- With highs of 13.32˚C and lows of 11.58˚C,
-- It may feel like 12.08˚C with light rain
-- The wind speed is 4.92m/s and visibility is 10000m
-- The pressure is 1003hPa and humidity is 85%
-- The sun will rise at 03:53 and set at 20:19
+- The average temperature today is 11.85˚C,
+- With highs of 12.51˚C and lows of 11.03˚C,
+- It may feel like 11.1˚C with few clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1005hPa and humidity is 77%
+- The sun will rise at 03:52 and set at 20:20
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 455 days since the last change (2024-03-05)
+- It has been 456 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Optimise flow.
+> Focus on user needs.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -47,19 +45,20 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 106.61000061035156 
+- VWRL.L : 107.58000183105469 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Jadon Sancho bids farewell, sends ‘big love to everyone’ at Chelsea
+- Chelsea ‘ready to put €25m on the table’ with Maignan ‘open to move’ — reports
+- Chelsea keeping an eye on Mike Maignan’s contract situation at AC Milan — reports
+- Sancho set to leave after failing to agree new contract — report
 - Chelsea ‘step up’ efforts to sign Ekitike despite concerns over transfer fee — reports
 - Official: Chelsea sign Dário Essugo from Sporting CP
 - Chelsea ‘open to offers’ for Noni Madueke — report
-- Chelsea, Borussia Dortmund ‘in talks’ over quick-fire Jamie Gittens deal — report
-- Chelsea agree personal terms with Liam Delap — report
-- LAFC beat Club América to qualify for Club World Cup and play against Chelsea
 
 <!-- news_marker ends -->
 
@@ -67,14 +66,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Big Four firms race to develop audits for AI products
-- ‘Godfather’ of AI Yoshua Bengio says latest models lie to users
-- How Blackstone and its biggest rivals are drifting apart
-- ‘Vibe coding’ is the new DIY
-- It’s time for the second draft of globalisation
-- Musk’s xAI seeks $113bn valuation in $300mn share sale
-- Sizewell C nuclear project to get go-ahead during Anglo-French summit
-- Bank of England neglected climate and nature risk, say former senior staff
+- Europe confronts Trump’s triple threat on Ukraine, Nato and trade
+- Iranians seek safety in gold from sanctions and military threats
+- Interest rates are normal, the world is not
+- Thames Water’s financial options are narrowing
+- Labour forced to postpone £5,000-a-head business conference
+- Lloyds executive tasked with winning ‘mass affluent’ customers leaves bank
+- We have ‘surrendered more to the machines’, says quant fund titan Cliff Asness
+- Musk derides Trump’s tax bill as ‘a disgusting abomination’
 
 <!-- ftnews_marker ends -->
 
@@ -82,40 +81,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > Keystone cop - noun: An incompetent bungling person.
+ > big chill - noun: 1. An extremely cold spell. 2. A prolonged period of global cooling or glaciation. 3. A state of emotional letdown, disillusionment, or waning enthusiasm. 4. A metaphor for death or the end of life.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The great ScrumMaster is a leader who creates new leaders out of the people around him. - Zuzana Sochova
+> The single biggest way to impact an organization is to focus on leadership development. There is almost no limit to the potential of an organization that recruits good people, raises them up as leaders and continually develops them - John Maxwell
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Abandon normal instruments
+> Imagine the music as a moving chain or caterpillar
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Definitely Maybe (Rated: 4)
-- Released in 2008
-- Summary: A political consultant tries to explain his impending divorce and past relationships to his 11-year-old daughter.
+- We Are What We Are (Rated: 9)
+- Released in 2010
+- Summary: The Parkers, a reclusive family who follow ancient customs, find their secret existence threatened as a torrential downpour moves into their area, forcing daughters Iris and Rose to assume responsibilities beyond those of a typica...
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 545, using [4, 5, 9, 10, 50, 100]
-- Answer: 68 solutions.
+- Target: 736, using [1, 5, 10, 25, 75, 100]
+- Answer: 4 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 10 - 50 ) x 9 + 5
+  Solution: ( 100 - 25 ) x 10 + 1 - 75 / 5
 
    </details>
 
