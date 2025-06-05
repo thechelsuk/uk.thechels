@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 04 June 2025
+## On Thursday, 05 June 2025
 
-- The average temperature today is 11.85˚C,
-- With highs of 12.51˚C and lows of 11.03˚C,
-- It may feel like 11.1˚C with few clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1005hPa and humidity is 77%
-- The sun will rise at 03:52 and set at 20:20
+- The average temperature today is 11.92˚C,
+- With highs of 12.77˚C and lows of 11.49˚C,
+- It may feel like 11.41˚C with light rain
+- The wind speed is 4.47m/s and visibility is 10000m
+- The pressure is 1001hPa and humidity is 86%
+- The sun will rise at 03:52 and set at 20:21
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 456 days since the last change (2024-03-05)
+- It has been 457 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,7 +32,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Focus on user needs.
+> Move fast.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -45,20 +45,20 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 107.58000183105469 
+- VWRL.L : 107.81999969482422 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
-- Jadon Sancho bids farewell, sends ‘big love to everyone’ at Chelsea
-- Chelsea ‘ready to put €25m on the table’ with Maignan ‘open to move’ — reports
-- Chelsea keeping an eye on Mike Maignan’s contract situation at AC Milan — reports
-- Sancho set to leave after failing to agree new contract — report
-- Chelsea ‘step up’ efforts to sign Ekitike despite concerns over transfer fee — reports
-- Official: Chelsea sign Dário Essugo from Sporting CP
-- Chelsea ‘open to offers’ for Noni Madueke — report
+- Sterling not expected to rejoin for Club World Cup even as Arsenal confirm departure — report
+- Pedro Neto starts as Portugal beat Germany to advance to UEFA Nations League final
+- Official: Johanna Rytting Kaneryd signs two-year Chelsea contract extension
+- Official: Chelsea sign Liam Delap from Ipswich Town
+- Chelsea, AC Milan ‘not close on valuation’ for Mike Maignan — reports
+- Mamadou Sarr to join for Club World Cup, then return to Strasbourg on loan — reports
+- Benfica stepping up efforts to bring João Félix home (temporarily) — reports
 
 <!-- news_marker ends -->
 
@@ -66,14 +66,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Europe confronts Trump’s triple threat on Ukraine, Nato and trade
-- Iranians seek safety in gold from sanctions and military threats
-- Interest rates are normal, the world is not
-- Thames Water’s financial options are narrowing
-- Labour forced to postpone £5,000-a-head business conference
-- Lloyds executive tasked with winning ‘mass affluent’ customers leaves bank
-- We have ‘surrendered more to the machines’, says quant fund titan Cliff Asness
-- Musk derides Trump’s tax bill as ‘a disgusting abomination’
+- Big investors shift away from US markets
+- Akio Toyoda takes the wheel
+- Inside the collapse of Microsoft-backed UK tech unicorn Builder.ai
+- Biden’s activist treasury issuance continues under Trump
+- Trump bans citizens of 12 countries from coming to US
+- Trump administration says Columbia fails to meet accreditation standards
+- Criminals steal £47mn from HMRC after accessing 100,000 taxpayers’ accounts
+- Fossil fuel spending to fall for first time since pandemic
 
 <!-- ftnews_marker ends -->
 
@@ -81,40 +81,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > big chill - noun: 1. An extremely cold spell. 2. A prolonged period of global cooling or glaciation. 3. A state of emotional letdown, disillusionment, or waning enthusiasm. 4. A metaphor for death or the end of life.
+ > bunny boiler - noun: A person who is dangerously obsessive and vengeful, especially when spurned.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The single biggest way to impact an organization is to focus on leadership development. There is almost no limit to the potential of an organization that recruits good people, raises them up as leaders and continually develops them - John Maxwell
+> In XP, we do not divide and conquer. We conquer and divide. First we make something that works, then we bust that up and solve the little parts. - Kent Beck, XP Trainer and Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Imagine the music as a moving chain or caterpillar
+> Define an area as `safe' and use it as an anchor
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- We Are What We Are (Rated: 9)
-- Released in 2010
-- Summary: The Parkers, a reclusive family who follow ancient customs, find their secret existence threatened as a torrential downpour moves into their area, forcing daughters Iris and Rose to assume responsibilities beyond those of a typica...
+- Dont Look Up (Rated: 7)
+- Released in 2009
+- Summary: N/A
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 736, using [1, 5, 10, 25, 75, 100]
-- Answer: 4 solutions.
+- Target: 686, using [1, 5, 8, 25, 50, 100]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 - 25 ) x 10 + 1 - 75 / 5
+  Solution: ( 100 - 50 / 25 ) x ( 8 - 1 )
 
    </details>
 
