@@ -95,6 +95,8 @@ navigation_slashes:
     title: "Projects"
   - link: "/podcasts"
     title: "Podcasts"
+  - link: "https://thechelsuk.redbubble.com"
+    title: "Merch &#11084;"
   - link: "/save"
     title: "Save"
   - link: "/.well-known/security.txt"
