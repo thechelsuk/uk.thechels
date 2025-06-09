@@ -7,32 +7,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 08 June 2025
+## On Monday, 09 June 2025
 
-- The average temperature today is 9.61˚C,
-- With highs of 9.98˚C and lows of 8.8˚C,
-- It may feel like 8.55˚C with clear sky
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 84%
-- The sun will rise at 03:50 and set at 20:24
+- The average temperature today is 12.96˚C,
+- With highs of 13.62˚C and lows of 12.14˚C,
+- It may feel like 12.4˚C with broken clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1020hPa and humidity is 80%
+- The sun will rise at 03:49 and set at 20:25
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 460 days since the last change (2024-03-05)
+- It has been 461 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be humble.
+> Know your users.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -52,13 +53,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Neto’s Portugal beat Cucurella’s Spain in entertaining UEFA Nations League final
+- Benfica struggling to meet financial demands of a João Félix deal — report
+- Chelsea bids for Jamie Gittens, Mike Maignan get rejected — reports
 - Chelsea submit transfer offer after agreeing personal terms with Jamie Gittens — report
 - Madueke picks up assist in England win; Petrović saves penalty for Serbia
 - Arsenal set to sign Kepa Arrizabalaga — report
 - Chelsea ‘remain interested’ in Ajax defender Jorrel Hato — report
-- Estêvão gets first senior Brazil start from new manager Carlo Ancelotti
-- Trevoh Chalobah ‘number one’ transfer target for Napoli — report
-- Chelsea among teams enquiring after Mohammed Kudus at West Ham — reports
 
 <!-- news_marker ends -->
 
@@ -66,14 +67,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump to send national guard to quell immigration protests in LA
-- How the ’90s shaped Donald Trump’s politics of national despair
-- Trump’s Golden Dome pits Silicon Valley against defence giants
-- Mr Darcy and the Mandela effect
-- UK industrial strategy launch pushed back to end of June
-- Former Reform UK chair returns in new role 48 hours after resigning
-- Colombian opposition senator shot in Bogotá
-- China arms itself for more export control battles
+- Federal agents clash with anti-deportation protesters in LA
+- ABC suspends journalist for calling Trump and adviser ‘world-class haters’
+- Trump tests the limits of presidential authority by sending troops into LA
+- British pension policy is finally stepping in the right direction
+- Hong Kong rate slump is a warning light for global markets
+- Norway’s oil fund calls for urgent reform of European capital markets
+- Reform UK gains support in areas with high child poverty
+- China’s exports to US plunge as trade talks loom
 
 <!-- ftnews_marker ends -->
 
@@ -81,40 +82,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > central casting - adjective: Stereotypical. noun: A company or department that provides actors for minor or background roles, often based on stereotypical appearances.
+ > Nero - noun: A cruel, depraved, or tyrannical ruler.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The great ScrumMaster is a leader who creates new leaders out of the people around him. - Zuzana Sochova
+> He who cannot be a good follower cannot be a good leader - Aristotle
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Abandon normal instruments
+> Use an unacceptable color
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Contract (Rated: 4)
-- Released in 2006
-- Summary: A father and his son attempt to bring in an assassin to the authorities, but his dangerous associates have other plans.
+- Rebel Moon - Part One: A Child of Fire (Rated: 4)
+- Released in 2023
+- Summary: When a peaceful settlement on the edge of a distant moon finds itself threatened by a tyrannical ruling force, a stranger living among its villagers becomes their best hope for survival.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 588, using [3, 7, 7, 8, 75, 100]
-- Answer: 13 solutions.
+- Target: 141, using [2, 3, 4, 8, 10, 25]
+- Answer: 57 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 8 x 7 + 100 + 3 - 75 ) x 7
+  Solution: ( 10 x 8 / 4 + 25 + 2 ) x 3
 
    </details>
 
