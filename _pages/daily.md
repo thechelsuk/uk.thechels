@@ -7,33 +7,34 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 09 June 2025
+## On Tuesday, 10 June 2025
 
-- The average temperature today is 12.96˚C,
-- With highs of 13.62˚C and lows of 12.14˚C,
-- It may feel like 12.4˚C with broken clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 80%
-- The sun will rise at 03:49 and set at 20:25
+- The average temperature today is 15.63˚C,
+- With highs of 16.1˚C and lows of 14.84˚C,
+- It may feel like 15.47˚C with overcast clouds
+- The wind speed is 4.02m/s and visibility is 7131m
+- The pressure is 1014hPa and humidity is 85%
+- The sun will rise at 03:49 and set at 20:26
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 461 days since the last change (2024-03-05)
+- It has been 462 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Know your users.
+> Sometimes you just have to get on the fucking bus.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -46,20 +47,19 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 108.3499984741211 
+- VWRL.L : 108.41000366210938 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Three more youth goalkeepers released by Chelsea
+- Manchester City, Chelsea agree Marcus Bettinelli transfer — reports
+- Official: Chelsea sign Mamadou Sarr from RC Strasbourg
 - Neto’s Portugal beat Cucurella’s Spain in entertaining UEFA Nations League final
 - Benfica struggling to meet financial demands of a João Félix deal — report
 - Chelsea bids for Jamie Gittens, Mike Maignan get rejected — reports
-- Chelsea submit transfer offer after agreeing personal terms with Jamie Gittens — report
-- Madueke picks up assist in England win; Petrović saves penalty for Serbia
-- Arsenal set to sign Kepa Arrizabalaga — report
-- Chelsea ‘remain interested’ in Ajax defender Jorrel Hato — report
 
 <!-- news_marker ends -->
 
@@ -67,14 +67,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Federal agents clash with anti-deportation protesters in LA
-- ABC suspends journalist for calling Trump and adviser ‘world-class haters’
-- Trump tests the limits of presidential authority by sending troops into LA
-- British pension policy is finally stepping in the right direction
-- Hong Kong rate slump is a warning light for global markets
-- Norway’s oil fund calls for urgent reform of European capital markets
-- Reform UK gains support in areas with high child poverty
-- China’s exports to US plunge as trade talks loom
+- UK pledges £11.5bn of new state funding for Sizewell C nuclear plant
+- Reeves plans ‘housing bank’ to deliver cheaper financing for builders
+- The vulnerable teen drawn into far-right extremism online
+- What to expect in Rachel Reeves’ spending review
+- Who are you calling over-the-hill? The truth about cognitive peaks
+- Trump administration to deploy hundreds of Marines in LA
+- Military veterans object to Donald Trump’s intervention in Los Angeles
+- Eurostar plans services to Frankfurt and Geneva to tap demand for greener travel
 
 <!-- ftnews_marker ends -->
 
@@ -82,40 +82,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > Nero - noun: A cruel, depraved, or tyrannical ruler.
+ > Herod - noun: A cruel and wicked tyrant.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> He who cannot be a good follower cannot be a good leader - Aristotle
+> Most teams are not teams at all but merely collections of individual relationships with the boss. Each individual vying with the others for power, prestige, and position. - Douglas McGregor, Management Professor
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Use an unacceptable color
+> Courage!
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Rebel Moon - Part One: A Child of Fire (Rated: 4)
-- Released in 2023
-- Summary: When a peaceful settlement on the edge of a distant moon finds itself threatened by a tyrannical ruling force, a stranger living among its villagers becomes their best hope for survival.
+- Into The Mirror (Rated: 9)
+- Released in 2003
+- Summary: An ex-cop, now working as a security guard in a shopping mall, tries to uncover the secret behind a series of mysterious deaths linked to mirrors.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 141, using [2, 3, 4, 8, 10, 25]
-- Answer: 57 solutions.
+- Target: 233, using [2, 6, 7, 7, 9, 75]
+- Answer: 15 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 10 x 8 / 4 + 25 + 2 ) x 3
+  Solution: ( ( 75 - 9 ) / 2 + 7 ) x 6 - 7
 
    </details>
 
