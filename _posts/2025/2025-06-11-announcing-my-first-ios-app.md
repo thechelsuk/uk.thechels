@@ -2,7 +2,7 @@
 title: Announcing my first iOS app
 author: Mat
 tags: [Hiyd, news, app]
-date: 2025-06-012
+date: 2025-06-11
 
 ---
 
