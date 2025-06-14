@@ -121,6 +121,10 @@ navigation_slashes:
     title: "Wish &#11084;"
   - link: "/indieweb.txt"
     title: "IndieWeb"
+  - link: "https://www.youtube.com/@TheChelsUk/"
+    title: "YouTube &#11084;"
+  - link: "https://www.twitch.tv/thechelsuk"
+    title: "Twitch &#11084;"
 
 ## Footer links
 navigation_footer:
