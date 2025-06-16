@@ -57,6 +57,8 @@ navigation_header:
     title: "Shop &#11084;"
 ## SubMenu
 navigation_slashes:
+  - link: "/projects"
+    title: "Apps"
   - link: "/about"
     title: "About"
   - link: "/.well-known/avatar.png"
@@ -121,6 +123,10 @@ navigation_slashes:
     title: "Wish &#11084;"
   - link: "/indieweb.txt"
     title: "IndieWeb"
+  - link: "https://www.youtube.com/@TheChelsUk/"
+    title: "YouTube &#11084;"
+  - link: "https://www.twitch.tv/thechelsuk"
+    title: "Twitch &#11084;"
 
 ## Footer links
 navigation_footer:
