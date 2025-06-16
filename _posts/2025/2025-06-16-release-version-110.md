@@ -1,6 +1,5 @@
 ---
 title: Hiyd Release version 1.1.0
-cited: May
 author: Mat
 tags: [App, Hiyd, Releases]
 date: 2025-06-16
