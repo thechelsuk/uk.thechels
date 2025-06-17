@@ -7,56 +7,60 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 16 June 2025
+## On Tuesday, 17 June 2025
 
-- The average temperature today is 15.56˚C,
-- With highs of 16.09˚C and lows of 15.29˚C,
-- It may feel like 15.36˚C with clear sky
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1028hPa and humidity is 84%
-- The sun will rise at 03:48 and set at 20:29
+- The average temperature today is 14.54˚C,
+- With highs of 15.71˚C and lows of 13.86˚C,
+- It may feel like 14.16˚C with overcast clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1026hPa and humidity is 81%
+- The sun will rise at 03:48 and set at 20:30
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 468 days since the last change (2024-03-05)
+- It has been 469 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Use appropriate tools.
+> Exploit the landscape.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Chelsea v Los Angeles Football Club
+- Germany U19 v England U19
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 108.1500015258789 
+- VWRL.L : 108.77999877929688 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea 2-0 LAFC, Club World Cup: Post-match reaction, ratings
+- WATCH: Enzo Fernández doubles Chelsea’s lead over LAFC! 2-0!
+- WATCH: Pedro Neto gets Chelsea in front against LAFC! 1-0!
+- Chelsea vs. LAFC, Club World Cup: Live blog; highlights
+- The people’s choice against LAFC: Liam Delap to make debut
+- Chelsea vs. LAFC, Club World Cup: Preview, team news, how to watch
 - Estêvão’s Palmeiras held to scoreless draw by FC Porto at Club World Cup
-- How should Chelsea line up against LAFC at the Club World Cup?
-- Why Enzo Maresca must move beyond ‘Marescaball’ to create a legacy at Chelsea
-- Enzo looking for Chelsea ‘to do the best job possible’ at Club World Cup
-- Chelsea sign Livia Peng and Mara Alber
 
 <!-- news_marker ends -->
 
@@ -64,14 +68,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Iran hits Israeli cities with fresh barrage
-- Fuel and fury: energy becomes a Middle East battlefield
-- Was Iran really developing nuclear weapons?
-- What history tells us about the impact of an oil price jolt
-- Britain’s MI6 spy agency promotes ‘Q’ to be first female head
-- JPMorgan’s European chief to run business from New York
-- Reeves to set out 10-year UK infrastructure plan
-- UK patients to gain direct access to clinical trials, says Streeting
+- Trump leaves G7 early as Iran-Israel conflict intensifies
+- Trump says Macron wrong about his G7 summit exit
+- Tehran chokes in gridlock and fear
+- How long can it last? Israel and Iran’s endurance battle
+- This is Europe’s ‘global euro’ moment
+- The economic scourge of small print
+- Reeves considers changes to non-dom inheritance tax amid UK ‘exodus’
+- Mid-tier UK law firms hand big pay rises to junior lawyers
 
 <!-- ftnews_marker ends -->
 
@@ -79,40 +83,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > eddy - noun: 1. A current moving contrary to the main current, especially in a circular motion, in a fluid such as air or water. 2. A trend, fashion, or opinion that runs counter to the prevailing one. verb tr., intr.: To move or cause to move in a circular, countercurrent motion.
+ > brandish - verb tr.: To hold or wave something (especially a weapon), in a threatening or triumphant manner. noun: The act of waving or displaying something in an ostentatious or boastful manner.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Opportunity is missed by most people because it is dressed in overalls and looks like work. - Thomas Edison
+> A great ScrumMaster grasps the skills and mindset of the role. - Geoff Watts
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Make an exhaustive list of everything you might do and do the last
+> Water
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Need For Speed (Rated: 4)
-- Released in 2014
-- Summary: Fresh from prison, a street racer who was framed by a wealthy business associate joins a cross-country race with revenge in mind. His ex-partner, learning of the plan, places a massive bounty on his head as the race begins.
+- Morbius (Rated: 3)
+- Released in 2022
+- Summary: Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 606, using [4, 7, 7, 9, 25, 50]
-- Answer: 2 solutions.
+- Target: 464, using [2, 9, 9, 10, 25, 100]
+- Answer: 13 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: 50 x 9 + ( 25 + 7 + 7 ) x 4
+  Solution: ( 100 - 25 - 10 ) x ( 9 - 2 ) + 9
 
    </details>
 
