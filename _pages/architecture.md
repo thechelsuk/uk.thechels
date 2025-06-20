@@ -21,9 +21,7 @@ The site is structured as follows:
 
 This structure allows for modular and maintainable development, with clear separation of content, data, and presentation.
 
-
 ![architecture](/images/architecture.png)
-
 
 This diagram illustrates the following:
 
@@ -32,5 +30,3 @@ This diagram illustrates the following:
 3. **Static Site (_site folder)**: The output of the Jekyll build process, containing HTML, CSS, and other static files.
 4. **GitHub Pages Server**: Hosts and serves the static site.
 5. **Browser**: Users access the site through their web browsers.
-
-
