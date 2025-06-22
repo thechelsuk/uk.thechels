@@ -7,13 +7,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 21 June 2025
+## On Sunday, 22 June 2025
 
-- The average temperature today is 20.28˚C,
-- With highs of 20.29˚C and lows of 18.25˚C,
-- It may feel like 20.14˚C with few clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 68%
+- The average temperature today is 17.87˚C,
+- With highs of 18.86˚C and lows of 17.6˚C,
+- It may feel like 17.8˚C with scattered clouds
+- The wind speed is 4.47m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 80%
 - The sun will rise at 03:48 and set at 20:31
 
 <!-- weather_marker ends -->
@@ -21,7 +21,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 473 days since the last change (2024-03-05)
+- It has been 474 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,7 +32,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Do better with less.
+> challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -52,14 +52,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Flamengo 3-1 Chelsea, Player Ratings: Pedro Neto keeps his good form going
+- Maresca rues ‘six minutes that changed the game’ in failed experiment against Flamengo
 - Flamengo 3-1 Chelsea, Club World Cup: Post-match reaction; ratings
 - WATCH: Pedro Neto opens the scoring for Chelsea against Flamengo! 1-0!
 - Flamengo vs. Chelsea, Club World Cup: Live blog; highlights
 - Official: Bolton Wanderers sign Teddy Sharman-Lowe on loan from Chelsea
-- The people’s choice against Flamengo: Andrey Santos please
-- Flamengo vs. Chelsea, Club World Cup: Preview, team news, how to watch
-- The Daily Hilario: Friday
-- Chelsea Squad Audit, Part 1: Center backs, full backs, inverting backs
 
 <!-- news_marker ends -->
 
@@ -67,14 +65,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Fed starts to split on when to begin cutting US interest rates
-- Netanyahu’s war with Iran: ‘For him, it’s personal’
-- How Los Angeles made the modern world
-- Credit card points seem increasingly, well, pointless
-- European ministers urge Iran to resume talks with Trump administration
-- My exit from wartime Iran
-- London club claims Banksy street art unlawfully removed to America
-- Inheritance tax referendum spooks Swiss super-rich
+- US bombs nuclear sites in Iran
+- Trump warns Iran of further attacks if Tehran does not ‘make peace’
+- Trump gambles his presidency as US enters war with Iran
+- Trump faces backlash from Maga base after strikes on Iran
+- Chinese factories rush to reduce reliance on Donald Trump’s US
+- Canadian export agency hit by £350mn loss on loans to Thames Water
+- Cyprus arrests alleged Iranian spy near RAF base
+- UK promise of £1bn boost to job support for disabled not yet funded
 
 <!-- ftnews_marker ends -->
 
@@ -89,33 +87,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> As a general rule of thumb, when benefits are not quantified at all, assume there are not any. - Tom DeMarco and Timothy Lister
+> Nothing endures but change - Heraclitus
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> What mistakes did you make last time?
+> Overtly resist change
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Back To The Future I (Rated: 5)
-- Released in 1985
-- Summary: No summary available
+- Abducted (Rated: 4)
+- Released in 2013
+- Summary: After his young daughter is kidnapped, a war hero takes matters into his own hands while detectives unravel the mystery surrounding the unusual crime.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 319, using [1, 3, 5, 6, 9, 50]
-- Answer: 13 solutions.
+- Target: 949, using [2, 9, 10, 25, 50, 75]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 + 5 - 9 ) x ( 6 + 1 ) - 3
+  Solution: ( 75 x 25 + 50 / 10 ) / 2 + 9
 
    </details>
 
