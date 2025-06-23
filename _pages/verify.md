@@ -17,6 +17,7 @@ This page serves as the system of record for my online identity. The best places
 - [Reddit &raquo;](https://www.reddit.com/user/thechelsuk)
 - [X &raquo;](https://x.com/thechelsuk)
 - [Ko-fi &raquo;](https://ko-fi.com/thechelsuk)
+- [Keybase &raquo;](https://keybase.io/thechelsuk)
 
 I own and control this domain thechels.uk
 
