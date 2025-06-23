@@ -14,6 +14,9 @@ This page serves as the system of record for my online identity. The best places
 - [YouTube &raquo;](https://www.youtube.com/@thechelsuk)
 - [Twitch &raquo;](https://www.twitch.tv/thechelsuk)
 - [Apple Music &raquo;](https://music.apple.com/profile/thechelsuk)
+- [Reddit &raquo;](https://www.reddit.com/user/thechelsuk)
+- [X &raquo;](https://x.com/thechelsuk)
+- [Ko-fi &raquo;](https://ko-fi.com/thechelsuk)
 
 I own and control this domain thechels.uk
 
