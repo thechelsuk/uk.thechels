@@ -19,9 +19,9 @@ This page serves as the system of record for my online identity. The best places
 - [Ko-fi &raquo;](https://ko-fi.com/thechelsuk)
 - [Keybase &raquo;](https://keybase.io/thechelsuk)
 
-I own and control this domain thechels.uk
+I own and control this domain thechels.uk and hiyd.uk
 
-My email address is <ensemblist.uk@gmail.com> I have a [PGP](/pgp) key.
+I have a [PGP](/pgp) key for the email address <ensemblist.uk@gmail.com>.
 
 If there's an account claiming to be me that's not on this list, it's almost certainly an impersonator.
 
