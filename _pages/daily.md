@@ -7,13 +7,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 23 June 2025
+## On Tuesday, 24 June 2025
 
-- The average temperature today is 13.88˚C,
-- With highs of 14.18˚C and lows of 13.71˚C,
-- It may feel like 13.1˚C with few clouds
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 68%
+- The average temperature today is 15.79˚C,
+- With highs of 16.83˚C and lows of 15.39˚C,
+- It may feel like 15.75˚C with broken clouds
+- The wind speed is 9.39m/s and visibility is 10000m
+- The pressure is 1011hPa and humidity is 89%
 - The sun will rise at 03:49 and set at 20:31
 
 <!-- weather_marker ends -->
@@ -21,19 +21,20 @@ seo: Good Morning Mat, Here is your daily briefing
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 475 days since the last change (2024-03-05)
+- It has been 476 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Provide purpose, mastery and autonomy.
+> Think aptitude and attitude.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -46,18 +47,19 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 107.55000305175781 
+- VWRL.L : 107.3499984741211 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Palmeiras finish top of Group A after dramatic comeback against Inter Miami
+- Chelsea, Manchester United ‘weighing up’ Garnacho, Nkunku moves — reports
+- How should Chelsea line up against ES Tunis to advance to Club World Cup knockout rounds?
 - Chelsea Squad Audit, Part 2: Midfielders, wingers, strikers
 - Chelsea linked with Randal Kolo Muani again — reports
 - Flamengo 3-1 Chelsea, Player Ratings: Pedro Neto keeps his good form going
-- Maresca rues ‘six minutes that changed the game’ in failed experiment against Flamengo
-- Flamengo 3-1 Chelsea, Club World Cup: Post-match reaction; ratings
 
 <!-- news_marker ends -->
 
@@ -65,14 +67,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump taunts Iran with prospect of ‘regime change’ after strike on nuclear sites
-- Trump claims ‘monumental’ damage to Iran nuclear sites
-- Oil price jumps to five-month high after US strikes on Iran
-- Where is Iran’s uranium? Fate of strike hangs on 400kg stockpile
-- Trump’s step into the dark
-- Iran’s supreme leader faces his defining moment
-- How the US used stealth and decoys to launch surprise attack on Iran
-- In maps: Iran’s three nuclear sites targeted by US bombers
+- Trump says Israel and Iran have agreed ceasefire
+- ‘Regime change’ or peace: Trump’s head-spinning Iran policy
+- Iranian paramilitaries go on the hunt for Mossad agents
+- Macron and Merz: Europe must arm itself in an unstable world
+- UK defence funding will hit 5% of GDP by 2035, Starmer to tell Nato summit
+- Germany to boost defence spending at faster rate than France or UK
+- Dozens of rebel Labour MPs seek to stop Starmer’s welfare reforms
+- Jeff Bezos’s wedding draws storm of protest in Venice
 
 <!-- ftnews_marker ends -->
 
@@ -80,40 +82,43 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > vuln - noun: Vulnerability: susceptibility to attack, injury, or temptation. verb tr.: To wound.
+ > oik - noun: A person perceived as uncouth, unpleasant, and of lower social standing.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> By limiting not only the amount of work we start, but also the work we commit to doing, we can improve our flow and achieve better quality, better throughput and more consistency
+> If your job is constantly putting out fires, it helps not to walk around with a flamethrower. - Emma Hayes
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Do something boring
+> Lowest common denominator check
+-single beat
+-single note
+-single
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- When Saturday Comes (Rated: 7)
-- Released in 1996
-- Summary: Jimmy Muir,a brewery worker with talent, gets a chance to play for local club Hallam. He's offered a trial at Sheffield United but blows it due to drunkenness.He must reevaluate his choices and potential for success.
+- Bourne Ultimatum (Rated: 7)
+- Released in 2007
+- Summary: Jason Bourne dodges a ruthless C.I.A. official and his Agents from a new assassination program while searching for the origins of his life as a trained killer.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 219, using [1, 7, 7, 9, 10, 50]
-- Answer: 5 solutions.
+- Target: 819, using [2, 5, 6, 7, 9, 100]
+- Answer: 31 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 7 - 1 ) x 50 x 7 / 10 + 9
+  Solution: ( 9 x 7 + 100 + 2 ) x 5 - 6
 
    </details>
 
