@@ -7,13 +7,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 26 June 2025
+## On Friday, 27 June 2025
 
-- The average temperature today is 16.89˚C,
-- With highs of 17.94˚C and lows of 16.49˚C,
-- It may feel like 16.91˚C with light rain
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 1009hPa and humidity is 87%
+- The average temperature today is 14.6˚C,
+- With highs of 15.71˚C and lows of 14.26˚C,
+- It may feel like 14.28˚C with broken clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 83%
 - The sun will rise at 03:50 and set at 20:31
 
 <!-- weather_marker ends -->
@@ -21,7 +21,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 478 days since the last change (2024-03-05)
+- It has been 479 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,7 +32,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Inspire others
+> Challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -45,20 +45,19 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 108.18000030517578 
+- VWRL.L : 108.06999969482422 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- How should Chelsea line up against Benfica in Club World Cup Round of 16?
+- ES Tunis 0-3 Chelsea, Player Ratings: Enzo pulling all the strings
 - Juventus linked with Nicolas Jackson — reports
 - Arsenal activate Kepa Arrizabalaga release clause — report
 - Milan director confirms Maignan ‘not leaving’, no deal with Chelsea
 - ES Tunis 0-3 Chelsea, Club World Cup: Post-match reaction, ratings
-- WATCH: Liam Delap opens his Chelsea account to make it 2-0 against ES Tunis
-- WATCH: Tosin heads Chelsea into the lead against ES Tunis
-- ES Tunis vs. Chelsea, Club World Cup: Live blog; highlights
 
 <!-- news_marker ends -->
 
@@ -66,14 +65,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Fears over US debt load and inflation ignite exodus from long-term bonds
-- Dollar hits 3-year low on report Trump could pick next Fed chair early
-- How the next financial crisis starts
-- Military briefing: Israel and Iran size up war damage
-- Markets should watch out for the summer fling
-- Private equity-backed Visma picks London for blockbuster tech IPO
-- Ursula von der Leyen faces no-confidence vote over Pfizergate
-- Trump brands Mamdani a ‘100% Communist Lunatic’
+- Eric Trump opens door to political dynasty
+- How Starmer averted ‘civil war’ with Labour MPs after diluting welfare cuts
+- The rollercoaster ride of Britain’s financial markets
+- Should we stop the UK’s best talent moving to London?
+- BoE urged to curb bond sales investors say could ‘reignite’ sell-off
+- Centrica set to take 15% stake in Sizewell C nuclear project
+- US Treasury asks Congress to scrap foreign revenge tax in Trump bill
+- UK vehicle production hits 76-year low in May as Trump tariffs bite
 
 <!-- ftnews_marker ends -->
 
@@ -81,40 +80,43 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > leal - adjective: Loyal; honest; true.
+ > erst - adverb: Formerly: in the past.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> It is not failing fast, but learning early  - Anon
+> Never doubt that a small group of thoughtful, concerned citizens can change the world. Indeed it is the only thing that ever has. - Margeret Mead
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Turn it upside down
+> Lowest common denominator check
+-single beat
+-single note
+-single
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Kong: Skull Island (Rated: 3)
-- Released in 2017
-- Summary: After the Vietnam war, a team of scientists explores an uncharted island in the Pacific, venturing into the domain of the mighty Kong and must fight to escape a primal Eden.
+- The Last Thing He Wanted (Rated: 3)
+- Released in 2020
+- Summary: A veteran D.C. journalist loses the thread of her own narrative when a guilt-propelled errand for her father thrusts her from byline to unwitting subject in the very story she's trying to break. Adapted from Joan Didion's namesake...
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 398, using [4, 6, 10, 50, 75, 100]
-- Answer: 5 solutions.
+- Target: 847, using [1, 3, 7, 8, 9, 10]
+- Answer: 8 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 / 50 + 75 - 10 ) x 6 - 4
+  Solution: ( 9 + 3 ) x ( 8 - 1 ) x 10 + 7
 
    </details>
 
