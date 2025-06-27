@@ -57,8 +57,12 @@ navigation_header:
     title: "Shop &#11084;"
 ## SubMenu
 navigation_slashes:
+  - link: "/projects"
+    title: "Apps"
   - link: "/about"
     title: "About"
+  - link: "/architecture"
+    title: "Architecture"
   - link: "/.well-known/avatar.png"
     title: "Avatar"
   - link: "/books"
@@ -101,6 +105,8 @@ navigation_slashes:
     title: "Save"
   - link: "/.well-known/security.txt"
     title: "Security"
+  - link: "https://signal.me/#eu/BizXBBg5kvZWt8bjNg-TNpekSp9dJMBUXzLlNCaYil27chQ_yoVItr5fBPF9n0jE"
+    title: "Signal &#11084"
   - link: "/sitemap"
     title: "Sitemap"
   - link: "https://shop.thechels.uk"
@@ -121,6 +127,10 @@ navigation_slashes:
     title: "Wish &#11084;"
   - link: "/indieweb.txt"
     title: "IndieWeb"
+  - link: "https://www.youtube.com/@TheChelsUk/"
+    title: "YouTube &#11084;"
+  - link: "https://www.twitch.tv/thechelsuk"
+    title: "Twitch &#11084;"
 
 ## Footer links
 navigation_footer:

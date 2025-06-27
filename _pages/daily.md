@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 12 June 2025
+## On Friday, 27 June 2025
 
-- The average temperature today is 15.3˚C,
-- With highs of 15.53˚C and lows of 14.84˚C,
-- It may feel like 14.84˚C with overcast clouds
-- The wind speed is 4.92m/s and visibility is 10000m
-- The pressure is 1011hPa and humidity is 75%
-- The sun will rise at 03:48 and set at 20:27
+- The average temperature today is 14.6˚C,
+- With highs of 15.71˚C and lows of 14.26˚C,
+- It may feel like 14.28˚C with broken clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 83%
+- The sun will rise at 03:50 and set at 20:31
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 464 days since the last change (2024-03-05)
+- It has been 479 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,7 +32,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Focus on user needs.
+> Challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -45,20 +45,19 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 109.2300033569336 
+- VWRL.L : 108.06999969482422 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
-- Petrović exploring options to leave Chelsea, ‘asked to be left out’ of Club World Cup — report
-- Chelsea confirm squad for FIFA Club World Cup
-- Andrey Santos the only returning loanee to be added to squad for Club World Cup — report
-- Nicolas Jackson helps Senegal to 3-1 victory over England
-- Chelsea end Mike Maignan interest (for now) — reports
-- Borussia Dortmund reject €50m second bid from Chelsea for Jamie Gittens — report
-- Official: Manchester City sign Marcus Bettinelli from Chelsea
+- How should Chelsea line up against Benfica in Club World Cup Round of 16?
+- ES Tunis 0-3 Chelsea, Player Ratings: Enzo pulling all the strings
+- Juventus linked with Nicolas Jackson — reports
+- Arsenal activate Kepa Arrizabalaga release clause — report
+- Milan director confirms Maignan ‘not leaving’, no deal with Chelsea
+- ES Tunis 0-3 Chelsea, Club World Cup: Post-match reaction, ratings
 
 <!-- news_marker ends -->
 
@@ -66,14 +65,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- UK economy contracted by 0.3% in April
-- No new money to help cut UK business’s energy costs in spending review
-- Fake McDonald’s lobbies Putin to block return of western companies
-- City firms order workers back to the office as WFH perks end
-- Dollar weakness is turning all fund managers into currency traders
-- China demands sensitive information for rare earth exports, companies warn
-- Oil prices surge on fears of escalation between US and Iran
-- BYD brings EV price wars to small cars in Europe
+- Eric Trump opens door to political dynasty
+- How Starmer averted ‘civil war’ with Labour MPs after diluting welfare cuts
+- The rollercoaster ride of Britain’s financial markets
+- Should we stop the UK’s best talent moving to London?
+- BoE urged to curb bond sales investors say could ‘reignite’ sell-off
+- Centrica set to take 15% stake in Sizewell C nuclear project
+- US Treasury asks Congress to scrap foreign revenge tax in Trump bill
+- UK vehicle production hits 76-year low in May as Trump tariffs bite
 
 <!-- ftnews_marker ends -->
 
@@ -81,40 +80,43 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > Heliogabalus - noun: A wildly extravagant, foolish, and self-indulgent person.
+ > erst - adverb: Formerly: in the past.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> A leader is one who knows the way, goes the way, and shows the way - John C. Maxwell
+> Never doubt that a small group of thoughtful, concerned citizens can change the world. Indeed it is the only thing that ever has. - Margeret Mead
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Do the words need changing?
+> Lowest common denominator check
+-single beat
+-single note
+-single
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Worth (Rated: 3)
+- The Last Thing He Wanted (Rated: 3)
 - Released in 2020
-- Summary: An attorney in Washington D.C. battles against cynicism, bureaucracy and politics to help the victims of 9/11.
+- Summary: A veteran D.C. journalist loses the thread of her own narrative when a guilt-propelled errand for her father thrusts her from byline to unwitting subject in the very story she's trying to break. Adapted from Joan Didion's namesake...
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 121, using [2, 7, 9, 50, 75, 100]
-- Answer: 25 solutions.
+- Target: 847, using [1, 3, 7, 8, 9, 10]
+- Answer: 8 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: 100 + 75 + 7 - 50 - 9 - 2
+  Solution: ( 9 + 3 ) x ( 8 - 1 ) x 10 + 7
 
    </details>
 
