@@ -7,13 +7,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 28 June 2025
+## On Sunday, 29 June 2025
 
-- The average temperature today is 19.52˚C,
-- With highs of 20.4˚C and lows of 19.26˚C,
-- It may feel like 19.83˚C with overcast clouds
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 88%
+- The average temperature today is 18.58˚C,
+- With highs of 19.6˚C and lows of 18.15˚C,
+- It may feel like 18.66˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 83%
 - The sun will rise at 03:51 and set at 20:31
 
 <!-- weather_marker ends -->
@@ -21,26 +21,24 @@ seo: Good Morning Mat, Here is your daily briefing
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 480 days since the last change (2024-03-05)
+- It has been 481 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Water the plants
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> challenge assumptions.
+> Optimise flow.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- England U21 v Germany U21
-- Benfica v Chelsea
+- No Fixtures
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -54,12 +52,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Benfica 1-4 (a.e.t.) Chelsea, Club World Cup: Post-match reaction, ratings
+- WATCH: Reece James free kick opens the scoring for Chelsea against Benfica! 1-0!
+- Benfica vs. Chelsea, Club World Cup: Live blog; highlights
+- The people’s choice against Benfica: All aboard the strongest XI
 - Benfica vs. Chelsea, Club World Cup: Preview, team news, how to watch
 - How should Chelsea line up against Benfica in Club World Cup Round of 16?
-- ES Tunis 0-3 Chelsea, Player Ratings: Enzo pulling all the strings
-- Juventus linked with Nicolas Jackson — reports
-- Arsenal activate Kepa Arrizabalaga release clause — report
-- Milan director confirms Maignan ‘not leaving’, no deal with Chelsea
 
 <!-- news_marker ends -->
 
@@ -67,14 +65,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump halts US-Canada trade talks over Big Tech tax dispute
-- What kind of world does Trump want?
-- US stocks rise to closing high despite Trump ending negotiations with Canada
-- Carmaker Lotus plans to end production in the UK
-- The neocons a generation on
-- Time to give the euro a glow-up
-- Nigel Farage pledges to install business chiefs in government if he wins power
-- Streeting puts robotic surgeons at heart of 10-year plan for NHS
+- Nvidia executives cash out $1bn worth of shares
+- US holidaymakers descend on Europe as overtourism fears mount
+- The power and the glory of profanity
+- Inside the British lab growing a biological computer
+- The Asian factories on the frontline of Trump’s tariffs
+- London-listed companies pile into bitcoin
+- Crypto-crazy investors make South Korea the best-performing market in Asia
+- Trump’s tariff war and aid cuts threaten poorest nations’ recovery
 
 <!-- ftnews_marker ends -->
 
@@ -89,33 +87,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Software is the most malleable product. Companies need to use this characteristic to their competitive advantage, and sticking to traditional waterfall development negates this advantage. - Jim Highsmith, Agile Author
+> The thing is, Bob, it is not that I am lazy, it is that I just do not care. - Ron Livingston, as Peter Gibbons in Office Space
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Use an old idea
+> Use "unqualified" people
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Before The Devil Knows Youre Dead (Rated: 3)
-- Released in 2007
-- Summary: No summary available
+- Damage (Rated: 3)
+- Released in 1992
+- Summary: A Member of Parliament falls passionately in love with his son's girlfriend despite the obvious dangers.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 676, using [3, 4, 5, 7, 7, 75]
-- Answer: 5 solutions.
+- Target: 420, using [6, 9, 10, 50, 75, 100]
+- Answer: 32 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 7 + 7 - 5 ) x 75 + 4 - 3
+  Solution: ( 50 x 9 / 10 + 100 - 75 ) x 6
 
    </details>
 
