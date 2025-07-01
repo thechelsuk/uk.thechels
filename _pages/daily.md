@@ -7,27 +7,29 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 30 June 2025
+## On Tuesday, 01 July 2025
 
-- The average temperature today is 19.91˚C,
-- With highs of 21.1˚C and lows of 18.71˚C,
-- It may feel like 20.05˚C with clear sky
+- The average temperature today is 19.52˚C,
+- With highs of 20.55˚C and lows of 18.71˚C,
+- It may feel like 19.67˚C with broken clouds
 - The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 80%
-- The sun will rise at 03:52 and set at 20:31
+- The pressure is 1014hPa and humidity is 82%
+- The sun will rise at 03:53 and set at 20:30
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 482 days since the last change (2024-03-05)
+- It has been 483 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
@@ -45,20 +47,19 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 109.16999816894531 
+- VWRL.L : 109.26000213623047 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Kalidou Koulibaly helps Al-Hilal knock Manchester City out of the Club World Cup!
+- Benfica 1-4 Chelsea, Player Ratings: Captain’s goal
 - Chelsea, Brighton & Hove Albion agree João Pedro transfer — report
 - Dortmund, Chelsea talks over Chukwuemeka loan extension ‘nearing completion’ — report
 - Chelsea, Dortmund agree €65m Jamie Gittens transfer — reports
 - Brighton & Hove Albion reject £50m bid from Chelsea for João Pedro — reports
-- Benfica 1-4 (a.e.t.) Chelsea, Club World Cup: Post-match reaction, ratings
-- WATCH: Reece James free kick opens the scoring for Chelsea against Benfica! 1-0!
-- Benfica vs. Chelsea, Club World Cup: Live blog; highlights
 
 <!-- news_marker ends -->
 
@@ -66,14 +67,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Canada scraps tech tax to advance Trump trade talks
-- Republicans struggle to pass Trump’s ‘big, beautiful bill’ as debate drags on
-- The vulnerabilities holding back Chinese industry
-- The world is changing, the US market is not
-- One year in: what has the Labour government achieved?
-- Lifetime Isa raises risk of making poor financial decisions, say MPs
-- Ministers face showdown on UK welfare reform as concessions fail to quash rebellion
-- US stock market comeback tests investor faith in rotation to Europe
+- US narrows trade focus to secure deals before Trump tariff deadline
+- India seeks to seal interim trade deal with US this week
+- Is Europe prepared for war?
+- A resurgent China should do the hard work now
+- In defence of the second-mover advantage
+- Senate races to pass Trump’s flagship tax bill as deadline looms
+- When will Congress pass Trump’s ‘big, beautiful bill’?
+- Standard Chartered hit with $2.7bn lawsuit over 1MDB scandal
 
 <!-- ftnews_marker ends -->
 
@@ -81,40 +82,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > malison - noun: A curse.
+ > pogonotomy - noun: The cutting of a beard; shaving.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> One thing you cannot take away from me is how I choose to respond to what you do to me. The last of one's freedoms is to choose one's attitudes in any circumstances. - Viktor Frankl
+> A key goal of continuous delivery is changing the economics of the software delivery process so the cost of pushing out individual changes is very low - Accelerate
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Overtly resist change
+> Spectrum analysis
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Counsellor (Rated: 4)
-- Released in 2013
-- Summary: N/A
+- The Helpers (Rated: 5)
+- Released in 2012
+- Summary: When a few friends, each with a secret, must come together to save Christmas. But if they don't make it in time, the consequences could be deadly.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 708, using [3, 6, 7, 9, 75, 100]
-- Answer: 26 solutions.
+- Target: 619, using [2, 5, 7, 9, 10, 100]
+- Answer: 9 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 x 3 / 9 + 100 - 7 ) x 6
+  Solution: ( ( 10 - 7 ) x 100 + 5 ) x 2 + 9
 
    </details>
 
