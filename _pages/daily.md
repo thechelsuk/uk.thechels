@@ -7,13 +7,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 01 July 2025
+## On Wednesday, 02 July 2025
 
-- The average temperature today is 19.52˚C,
-- With highs of 20.55˚C and lows of 18.71˚C,
-- It may feel like 19.67˚C with broken clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 82%
+- The average temperature today is 14.43˚C,
+- With highs of 15.52˚C and lows of 14.18˚C,
+- It may feel like 14.1˚C with overcast clouds
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 83%
 - The sun will rise at 03:53 and set at 20:30
 
 <!-- weather_marker ends -->
@@ -21,20 +21,18 @@ seo: Good Morning Mat, Here is your daily briefing
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 483 days since the last change (2024-03-05)
+- It has been 484 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Seek the best.
+> Think aptitude and attitude.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -47,19 +45,19 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 109.26000213623047 
+- VWRL.L : 149.89439392089844 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Arsenal ‘maintaining interest’ in Noni Madueke — reports
+- Official: Arsenal sign Kepa Arrizabalaga from Chelsea
+- João Pedro passes Chelsea medical ahead of £55+5m move — report
 - Kalidou Koulibaly helps Al-Hilal knock Manchester City out of the Club World Cup!
 - Benfica 1-4 Chelsea, Player Ratings: Captain’s goal
 - Chelsea, Brighton & Hove Albion agree João Pedro transfer — report
-- Dortmund, Chelsea talks over Chukwuemeka loan extension ‘nearing completion’ — report
-- Chelsea, Dortmund agree €65m Jamie Gittens transfer — reports
-- Brighton & Hove Albion reject £50m bid from Chelsea for João Pedro — reports
 
 <!-- news_marker ends -->
 
@@ -67,14 +65,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- US narrows trade focus to secure deals before Trump tariff deadline
-- India seeks to seal interim trade deal with US this week
-- Is Europe prepared for war?
-- A resurgent China should do the hard work now
-- In defence of the second-mover advantage
-- Senate races to pass Trump’s flagship tax bill as deadline looms
-- When will Congress pass Trump’s ‘big, beautiful bill’?
-- Standard Chartered hit with $2.7bn lawsuit over 1MDB scandal
+- Starmer guts UK welfare reforms to avoid Commons defeat
+- Rachel Reeves faces £5bn fiscal hole after welfare reform U-turn
+- How the ‘rebel alliance’ took on Starmer over welfare — and won
+- Is Trump’s ‘big, beautiful bill’ a political curse for Republicans?
+- Zohran Mamdani is wrong — of course billionaires should exist
+- Kennedy is a shot in the arm for the anti-vaccine movement
+- Matthew Freud sets up sale of PR firm with help from George Osborne
+- EU blocks Britain’s attempts to join pan-European trading bloc
 
 <!-- ftnews_marker ends -->
 
@@ -82,40 +80,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > pogonotomy - noun: The cutting of a beard; shaving.
+ > agnoiology - noun: The study of ignorance or the investigation of the unknowable.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> A key goal of continuous delivery is changing the economics of the software delivery process so the cost of pushing out individual changes is very low - Accelerate
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler, Author and Programmer
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Spectrum analysis
+> Short circuit
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Helpers (Rated: 5)
-- Released in 2012
-- Summary: When a few friends, each with a secret, must come together to save Christmas. But if they don't make it in time, the consequences could be deadly.
+- Transformers: The Last Knight (Rated: 3)
+- Released in 2017
+- Summary: A deadly threat from Earth's history reappears and a hunt for a lost artifact takes place between Autobots and Decepticons, while Optimus Prime encounters his creator in space.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 619, using [2, 5, 7, 9, 10, 100]
-- Answer: 9 solutions.
+- Target: 744, using [5, 7, 8, 9, 50, 100]
+- Answer: 16 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 10 - 7 ) x 100 + 5 ) x 2 + 9
+  Solution: ( 100 + 50 ) x 5 + 9 - 8 - 7
 
    </details>
 
