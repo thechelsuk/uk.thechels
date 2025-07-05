@@ -1,7 +1,7 @@
 ---
 layout: default
 title: App Privacy
-permalink: /mi-pace-app/privacy
+permalink: /Mi-Pace-app/privacy
 seo: app privacy policy
 ---
 
