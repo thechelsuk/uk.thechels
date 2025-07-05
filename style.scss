@@ -1,7 +1,6 @@
 ---
 ---
 
-
 @font-face {
     font-family: "TheChelsLight";
     src: url("fonts/TheChelsLight.woff") format("woff");
@@ -22,7 +21,10 @@
     --code: #c0deff;
     --tab: #b6b6b4;
     --alt-tab: #fffafa;
-    --trans: color 0.7s cubic-bezier(0.4,0,0.2,1), background 0.7s cubic-bezier(0.4,0,0.2,1), background-color 0.7s cubic-bezier(0.4,0,0.2,1), border-color 0.7s cubic-bezier(0.4,0,0.2,1);
+    --trans: color 0.7s cubic-bezier(0.4, 0, 0.2, 1),
+        background 0.7s cubic-bezier(0.4, 0, 0.2, 1),
+        background-color 0.7s cubic-bezier(0.4, 0, 0.2, 1),
+        border-color 0.7s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 html.dark-mode {
@@ -114,7 +116,7 @@ body {
     font-size: 1em;
     background: $background;
     box-sizing: border-box;
-    transition: $transition
+    transition: $transition;
 }
 
 #outer-wrapper {
@@ -480,6 +482,19 @@ img {
 .footer,
 #outer-wrapper:after {
     height: 40px;
+}
+
+/* App icon styling for projects page */
+.app-icon {
+    width: 64px;
+    height: 64px;
+    border-radius: 6px;
+    margin-right: 12px;
+    margin-bottom: 12px;
+    float: left;
+    display: block;
+    border: 1px solid $alt-tab;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
 @media screen and (max-width: 1000px) {
