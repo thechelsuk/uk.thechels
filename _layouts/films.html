@@ -6,7 +6,29 @@
     <b>{{ site.data.films | size }}</b>
     Films watched.
   </small>
-</p>
+<p>
+
+<h2>5 Recent Films</h2>
+{% assign recent = site.data.films | slice: -5, 5 | reverse %}
+<table class="table-striped" id="films-table-recent">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Rating</th>
+      <th>Year</th>
+    </tr>
+  </thead>
+  {% for item in recent %}
+  <tr>
+    <td class="{{item.Imdb}}">{{item.Title}}</td>
+    <td>{{item.Rating}}</td>
+    <td>{{item.Year}}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+<h2>All Films</h2>
+
 {% assign sorted = site.data.films | sort: 'Rating' | reverse %}
 <table class="table-striped" id="films-table">
   <thead>
@@ -24,4 +46,5 @@
   </tr>
   {% endfor %}
 </table>
+
 {% include footer.html %}
