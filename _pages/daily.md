@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 05 July 2025
+## On Sunday, 06 July 2025
 
-- The average temperature today is 17.82˚C,
-- With highs of 18.49˚C and lows of 17.06˚C,
-- It may feel like 17.8˚C with overcast clouds
-- The wind speed is 4.02m/s and visibility is 3117m
-- The pressure is 1015hPa and humidity is 82%
-- The sun will rise at 03:56 and set at 20:29
+- The average temperature today is 16.34˚C,
+- With highs of 17.38˚C and lows of 15.94˚C,
+- It may feel like 16.2˚C with overcast clouds
+- The wind speed is 3.58m/s and visibility is 10000m
+- The pressure is 1006hPa and humidity is 83%
+- The sun will rise at 03:57 and set at 20:28
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 487 days since the last change (2024-03-05)
+- It has been 488 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,7 +32,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Challenge assumptions.
+> challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -52,13 +52,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- João Félix ‘most inclined’ to rejoin Benfica, but wages remain a problem
+- Noni Madueke agrees personal terms with Arsenal — reports
+- Official: Chelsea sign Jamie Gittens from Borussia Dortmund
+- Official: Chelsea sign free agent Kian Best
 - Palmeiras 1-2 Chelsea, Club World Cup: Post-match reaction, ratings
 - WATCH:  Gusto’s cross is deflected into their goal by Agustín Giay! 2-1!
 - WATCH: Cole Palmer opens up the Palmeiras defense to give Chelsea the lead! 1-0!
-- Palmeiras vs. Chelsea, Club World Cup: Confirmed lineups; how to watch
-- The people’s choice against Palmeiras: Searching for options
-- Chelsea fined €31m by UEFA for squad cost and financial rules breaches
-- Palmeiras vs. Chelsea, Club World Cup: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -66,14 +66,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- BCG modelled plan to ‘relocate’ Palestinians from Gaza
-- Palestine Action loses bid to secure block on UK government ban
-- China, Russia and the ‘Dragon-Bear’ embrace
-- All hail the equity vigilantes
-- How Labour can resurrect itself
-- EU to stockpile critical minerals due to war risk
-- Apple races to box office glory with Brad Pitt’s F1 blockbuster
-- Hamas gives ‘positive’ response to Trump proposal for Gaza ceasefire
+- China snaps up mines around the world in rush to secure resources
+- Israel’s quiet war in the West Bank
+- It pays to be vulnerable — but please pick your moments
+- Pension and housing policy is a war on Britain’s young
+- Britain’s HS1 rail link was ‘poor value for money’, report finds
+- Musk launches US political party to fight ‘one-party system’
+- Rescuers search for missing children after Texas flood kills more than 40
+- Retail investors reap big gains from ‘buying the dip’ in US stocks
 
 <!-- ftnews_marker ends -->
 
@@ -88,33 +88,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> First-time product owners need time, trust, and support to grow into their new role. - Roman Pichler, Agile Trainer and Author
+> People with goals succeed because they know where they are going. - Earl Nightingale, Motivational Speaker
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Assemble some of the instruments in a group and treat the group
+> Simple subtraction
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Lying and Stealing (Rated: 3)
-- Released in 2019
-- Summary: Ivan steals art for the Greek. He wants out but can he? He meets an actress at two of his "jobs". She has her own problems but helps him.
+- The Devils Tomb (Rated: 5)
+- Released in 2009
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 495, using [3, 5, 7, 7, 25, 75]
-- Answer: 24 solutions.
+- Target: 537, using [2, 4, 6, 10, 50, 75]
+- Answer: 8 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 25 - 7 - 7 ) x 75 x 3 / 5
+  Solution: ( 75 + 50 + 10 ) x 4 - 6 / 2
 
    </details>
 
