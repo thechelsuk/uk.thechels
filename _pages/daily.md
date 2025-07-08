@@ -7,59 +7,59 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 07 July 2025
+## On Tuesday, 08 July 2025
 
-- The average temperature today is 12.08˚C,
-- With highs of 12.51˚C and lows of 11.49˚C,
-- It may feel like 11.77˚C with overcast clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1011hPa and humidity is 93%
-- The sun will rise at 03:58 and set at 20:28
+- The average temperature today is 13.53˚C,
+- With highs of 13.86˚C and lows of 12.62˚C,
+- It may feel like 12.82˚C with clear sky
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 72%
+- The sun will rise at 03:59 and set at 20:27
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 489 days since the last change (2024-03-05)
+- It has been 490 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Sometimes you just have to get on the fucking bus.
+> Challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- No Fixtures
+- Fluminense v Chelsea
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 110.47000122070312 
+- VWRL.L : 110.44000244140625 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Villarreal negotiating with Disasi as Chelsea set €30m asking price — reports
+- Bayern Munich shortlist Renato Veiga — reports
+- How should Chelsea line up against Fluminense in the Club World Cup semifinals?
 - Chelsea set ‘more than £50m’ asking price for Noni Madueke — report
 - Valencia interested in Lesley Ugochukwu — reports
 - Palmeiras 1-2 Chelsea, Player Ratings: ‘Twas chilly in Philly
-- João Félix ‘most inclined’ to rejoin Benfica, but wages remain a problem
-- Noni Madueke agrees personal terms with Arsenal — reports
-- Official: Chelsea sign Jamie Gittens from Borussia Dortmund
-- Official: Chelsea sign free agent Kian Best
 
 <!-- news_marker ends -->
 
@@ -67,14 +67,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Tony Blair’s staff took part in ‘Gaza Riviera’ project with BCG
-- BlackRock tried private credit once before. Will this time be better?
-- The roots of the British malaise lie in a sick economy
-- The global economy is suffering from the Rashomon effect
-- Trump threatens extra 10% tariff over ‘anti-American’ Brics policies
-- Trump calls Musk a ‘train wreck’ as feud escalates over third party
-- Revolut yet to receive key credit licence from UK regulators
-- Forcing pensions into British assets like ‘capital controls’, says Lloyds boss
+- Trump renews threat to hit trading partners with steep tariffs
+- The markets just don’t believe Trump on tariffs
+- The surprising success story of British fibre broadband
+- Why driverless vehicles just can’t quit humans
+- China’s weaponisation of rare earths is a new kind of trade war
+- Europe’s biggest port readies for potential war with Russia
+- Shein files for Hong Kong IPO to pressure UK to save London listing
+- Trump says US will send Ukraine more arms
 
 <!-- ftnews_marker ends -->
 
@@ -82,34 +82,41 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > fulvous - adjective: Tawny; brownish-yellow or orange.
+ > festucine - adjective: Of a pale yellow or straw-like color.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Stable Velocity. Sustainable Pace. - Mike Cottmeyer, Agile Author and Coach
+> The ScrumMaster must encourage the team to take responsibility. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Mechanicalize something idiosyncratic
+> (Organic) machinery
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Starsky & Hutch (Rated: 3)
-- Released in 2004
-- Summary: Two streetwise cops bust criminals in their red and white Ford Gran Torino, with the help of a police snitch called "Huggy Bear".
+- Et (Rated: 2)
+- Released in 1982
+- Summary: Autistic archivist Astrid Nielsen and impulsive inspector Raphaëlle Coste work together to solve crimes in and around Paris.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 943, using [1, 2, 2, 2, 75, 100]
+- Target: 562, using [3, 4, 4, 5, 9, 100]
+- Answer: 3 solutions.
+
+- <details><summary><code>Solution</code></summary>
+
+  Solution: ( 100 + 9 + 4 ) x 5 - 3
+
+   </details>
 
 <!-- game_marker ends -->
