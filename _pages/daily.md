@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 09 July 2025
+## On Thursday, 10 July 2025
 
-- The average temperature today is 14.79˚C,
-- With highs of 16.1˚C and lows of 14.26˚C,
-- It may feel like 14.36˚C with scattered clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 78%
-- The sun will rise at 04:00 and set at 20:26
+- The average temperature today is 16.93˚C,
+- With highs of 19.28˚C and lows of 16.03˚C,
+- It may feel like 16.82˚C with scattered clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 82%
+- The sun will rise at 04:01 and set at 20:25
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 491 days since the last change (2024-03-05)
+- It has been 492 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,7 +32,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Challenge assumptions.
+> Be humble.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -45,20 +45,20 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 110.74500274658203 
+- VWRL.L : 110.96499633789062 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
-- Fluminense 0-2 Chelsea, Club World Cup: Post-match reaction, ratings
-- WATCH: João Pedro scores again to give Chelsea 2-0 lead against Fluminense!
-- WATCH: João Pedro scores his first Chelsea goal to take the lead against Fluminense!
-- Fluminense vs. Chelsea, Club World Cup: Live blog; highlights
-- Bayern Munich now also ‘targeting’ Nkunku, again — reports
-- The people’s choice against Fluminense: João Pedro and Jackson, too!
-- Fluminense vs. Chelsea, Club World Cup: Preview, team news, how to watch
+- Fluminense 0-2 Chelsea, Player Ratings: There are some who call him ... JP!
+- Chelsea sweating Caicedo ankle injury ahead of Club World Cup final
+- PSG easily dispatch Real Madrid to set up Club World Cup final against Chelsea
+- Ishé Samuels-Smith spotted at Strasbourg training; Chelsea ‘considering’ €6m transfer — report
+- Arsenal, Chelsea now in talks over Madueke transfer — report
+- AFC Bournemouth submit official transfer bid for Đorđe Petrović — report
+- Crystal Palace make loan inquiry for Josh Acheampong — report
 
 <!-- news_marker ends -->
 
@@ -66,14 +66,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- US copper prices rise to record high as Trump threatens 50% tariff
-- What is on Rachel Reeves’ menu for raising UK taxes?
-- The double-edged sword of a strong euro
-- A new twist on an old bet with Buffett
-- Trump deal to leave EU facing higher tariffs than UK
-- Apple bids for Formula 1 rights in US following success of Brad Pitt film
-- Apple names new chief operating officer
-- Musk’s Grok AI chatbot praises Adolf Hitler on X
+- Moët Hennessy sexual harassment case shines light on company’s culture
+- Can the Fed stay independent under Trump?
+- The UK should press ahead with the inevitable on tax
+- Manchester prepares to welcome home Oasis
+- Dutch pension funds set to sell €125bn of government bonds
+- Trafigura-owned biodiesel plant to close in new blow to UK industry
+- Thames Water weighs last-minute rescue backed by ex-Lib Dem peer
+- Europe just years away from uncrewed fighter jets, says defence start-up Helsing
 
 <!-- ftnews_marker ends -->
 
@@ -81,40 +81,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > spadiceous - adjective: 1. Of a reddish-brown color. 2. Relating to a spadix, the floral spike usually enclosed in a spathe.
+ > verdazurine - adjective: Bluish-green; sea-green.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Great ScrumMasters must be practiced in soft skills and be good listeners. - Zuzana Sochova
+> It is never about how you start, it is always about how you finish. - Dwayne Johnson, The Rock
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Ghost echoes
+> Tidy up
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Archive (Rated: 3)
-- Released in 2020
-- Summary: 2038: George Almore is working on a true human-equivalent AI. His latest prototype is almost ready. This sensitive phase is also the riskiest. Especially as he has a goal that must be hidden at all costs.
+- Scarface (Rated: 5)
+- Released in 1983
+- Summary: In the 1980s, a determined criminal-minded Cuban immigrant becomes the biggest drug smuggler in Miami, and is eventually undone by his own drug addiction.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 205, using [3, 4, 10, 25, 50, 75]
-- Answer: 66 solutions.
+- Target: 113, using [1, 1, 4, 5, 10, 50]
+- Answer: 9 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 / 25 + 75 - 10 ) x 3 + 4
+  Solution: ( 10 + 1 ) x 50 / 5 + 4 - 1
 
    </details>
 
