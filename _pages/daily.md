@@ -7,48 +7,38 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 12 July 2025
+## On Sunday, 13 July 2025
 
-- The average temperature today is 20.69˚C,
-- With highs of 21.64˚C and lows of 18.71˚C,
-- It may feel like 20.62˚C with clear sky
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 69%
-- The sun will rise at 04:03 and set at 20:24
+- The average temperature today is 17.85˚C,
+- With highs of 18.86˚C and lows of 15.93˚C,
+- It may feel like 17.7˚C with scattered clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 77%
+- The sun will rise at 04:04 and set at 20:23
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 494 days since the last change (2024-03-05)
+- It has been 495 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Water the plants
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Design for constant evolution.
+> Think aptitude and attitude.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- CastellÃ³n v QPR
-- Crystal Palace v Millwall
-- Gateshead v Sunderland
-- Matlock Town v Derby County
-- Dartford v Charlton Athletic
-- Eastleigh v Southampton
-- Leicester City v OH Leuven
-- Watford v AFC Wimbledon
-- South Shields v Sunderland
-- Sevilla v Birmingham City
+- No Fixtures
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -62,13 +52,13 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Benfica ready to pay €25m but not a dime more for João Félix — report
+- Chelsea vs. PSG, Club World Cup final: Preview, team news, how to watch
+- Official: RC Strasbourg sign Mathis Amougou from Chelsea
+- Chelsea set £100m asking price for Nicolas Jackson — report
+- How should Chelsea line up against PSG in the Club World Cup final?
 - Maresca: ‘Nobody told Noni he had to leave’
 - Moisés Caicedo taking part in training but not ‘fully’
-- AFC Bournemouth, Chelsea agree Đorđe Petrović transfer — reports
-- Madueke given permission to undergo Arsenal medical; leaves Chelsea training — report
-- Official: Seattle Reign sign Mia Fishel from Chelsea
-- Green, White, Burgundy ... and Blue
-- AC Milan ‘very interested’ in Nicolas Jackson — reports
 
 <!-- news_marker ends -->
 
@@ -76,14 +66,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump could trigger another market shock, investors warn
-- Texan communities reel as holiday idyll becomes a disaster zone
-- The new age of geoeconomics
-- Tidings from my stock market humble pie
-- Fuel to Air India 171’s engines was cut off seconds before fatal crash, report says
-- Reeves to open ‘front door’ for investors in UK with concierge service
-- ‘It’s a strength’: female business leaders back Reeves’ tearful moment
-- Musk’s xAI seeks up to $200bn valuation in next fundraising
+- Crypto companies race to secure banking foothold in US
+- Vietnam got a Trump trade deal early. Was it worth it?
+- Summertime sadness is a real thing
+- Linda Yaccarino: Musk’s X deputy who ‘tried to ride the tiger’
+- Wealthy turn to life insurance to soften blow of new UK inheritance tax rules
+- BCG earned more than $1mn for Gaza aid barge project
+- Barristers in England and Wales struggle to pay bills after legal aid hack
+- Trump threatens 30% tariffs on EU and Mexico from August 1
 
 <!-- ftnews_marker ends -->
 
@@ -98,33 +88,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Great ScrumMasters must be practiced in soft skills and be good listeners. - Zuzana Sochova
+> A genuine leader is not a searcher for consensus but a molder of consensus. - Martin Luther King Jr.
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Give the game away
+> A line has two sides
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Cool Runnings I (Rated: 2)
-- Released in 1993
-- Summary: No summary available
+- Trainspotting (Rated: 5)
+- Released in 1996
+- Summary: Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out despite the allure of drugs and the influence of friends.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 309, using [3, 6, 7, 9, 50, 100]
-- Answer: 30 solutions.
+- Target: 141, using [3, 3, 5, 7, 25, 100]
+- Answer: 35 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 9 - 50 - 7 ) x 6 - 3
+  Solution: ( 7 - 5 ) x 25 + 100 - 3 x 3
 
    </details>
 
