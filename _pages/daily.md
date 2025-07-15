@@ -7,27 +7,29 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 14 July 2025
+## On Tuesday, 15 July 2025
 
-- The average temperature today is 19.35˚C,
-- With highs of 19.97˚C and lows of 19.26˚C,
-- It may feel like 19.38˚C with scattered clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 78%
-- The sun will rise at 04:05 and set at 20:22
+- The average temperature today is 14.72˚C,
+- With highs of 15.71˚C and lows of 14.18˚C,
+- It may feel like 14.34˚C with broken clouds
+- The wind speed is 4.47m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 80%
+- The sun will rise at 04:06 and set at 20:21
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 496 days since the last change (2024-03-05)
+- It has been 497 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
@@ -38,28 +40,28 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- No Fixtures
+- Sydney FC v Wrexham
+- Accrington Stanley v Everton
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 111.6500015258789 
+- VWRL.L : 112.20500183105469 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Colwill sets sights on Premier League, Champions League trophies after Club World Cup triumph
+- Official: Millwall sign Zak Sturge from Chelsea
+- Middlesbrough ‘making inquiries’ for Alfie Gilchrist — report
 - Cole ‘I Like Finals’ Palmer: ‘Everyone has talked a lot of s*** about us all season’
 - Maresca: ‘We won the game in the first 10 minutes’
 - Chelsea 3-0 PSG, Club World Cup final: Post-match reaction, ratings
 - WATCH: João Pedro adds a third for Chelsea against PSG! 3-0!
-- WATCH: Cole Palmer doubles Chelsea’s lead over PSG! 2-0!
-- WATCH: Cole Palmer opens the scoring for Chelsea against PSG! 1-0!
-- Chelsea vs. PSG, Club World Cup final: Live blog; highlights
-- The people’s choice against PSG: Gotta have Caicedo and João Pedro
 
 <!-- news_marker ends -->
 
@@ -67,14 +69,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- German defence minister calls on arms makers to deliver
-- Macron promises to boost France’s defence budget by €6.5bn over next 2 years
-- Inside Gaza’s ‘death traps’
-- The markets are signalling a clear winner in the Middle East
-- Japan faces an era-defining reset with the US
-- Investment banking set to extend worst run in over a decade
-- Lord Mayor criticises UK companies for choosing low-fee pension schemes
-- Reform UK’s ‘Doge’ unit battles councils for access to sensitive data
+- Catastrophe bond sales hit record as insurers offload climate risks
+- How BYD caught up with Tesla in the global EV race
+- Pity the policymakers in the AI jobs tsunami
+- Why a clean sweep on tax reform is the easiest option
+- City leaders call for ‘tax certainty’ from Rachel Reeves
+- Reeves dials up risk in UK financial services as she seeks to boost growth
+- Trump’s Maga base split over handling of Jeffrey Epstein files
+- Nvidia gets nod from Washington to resume sales of H20 China chip
 
 <!-- ftnews_marker ends -->
 
@@ -82,40 +84,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > Adam and Eve - noun: 1. A beginning. 2. A set of ancestors or founders.
+ > mess of pottage - noun: Something trivial accepted in return for something of great value, especially when done for immediate gratification.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Agile is a philosophy, not a methodology - Paul Bennett
+> When forced to work within a strict framework the imagination is taxed to its utmost – and will produce its richest ideas. Given total freedom the work is likely to sprawl. - T. S. Eliot, Poet
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Remove specifics and convert to ambiguities
+> What wouldn't you do?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Code 8 (Rated: 3)
-- Released in 2019
-- Summary: A super-powered construction worker falls in with a group of criminals in order to raise the funds to help his ill mother.
+- 40 Days And 40 Nights (Rated: 5)
+- Released in 2002
+- Summary: After a brutal break-up, a young man vows to stay celibate during the forty days of Lent, but finds the girl of his dreams and is unable to do anything about it.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 845, using [1, 6, 7, 10, 25, 100]
-- Answer: 5 solutions.
+- Target: 312, using [1, 1, 2, 5, 25, 50]
+- Answer: 14 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 - 25 - 10 ) x ( 7 + 6 )
+  Solution: ( 50 + 25 + 2 + 1 ) x ( 5 - 1 )
 
    </details>
 
