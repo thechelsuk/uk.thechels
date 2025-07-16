@@ -10,6 +10,11 @@ on:
             rating:
                 description: "rating"
                 required: true
+
+concurrency:
+    group: add-film
+    cancel-in-progress: false
+
 env:
     actor: ${{ github.actor }}
     owner: ${{ github.repository_owner }}
@@ -23,6 +28,9 @@ jobs:
         steps:
             - name: Checkout
               uses: actions/checkout@v4
+            - name: Pull latest changes
+              run: |
+                  git pull origin main
             - name: Set up Python
               uses: actions/setup-python@v5
               with:
