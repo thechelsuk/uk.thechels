@@ -1,0 +1,36 @@
+---
+---
+{% assign films_with_dates = site.data.films | where_exp: "film", "film.DateAdded != nil" | sort: "DateAdded" | reverse %}
+{% assign recent_films = films_with_dates | slice: 0, 20 %}
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>{{ site.title }} - Recent Films</title>
+    <link>{{ site.url }}/films</link>
+    <description>Recently added films to {{ site.title }}</description>
+    <language>en-us</language>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll</generator>
+
+    {% for film in recent_films %}
+    <item>
+      <title>{{ film.Title }} ({{ film.Year }}) - Rated {{ film.Rating }}/10</title>
+      <link>https://thechels.ul/films/#{{ film.Imdb }}/</link>
+      <description>
+        <![CDATA[
+        <h3>{{ film.Title }} ({{ film.Year }})</h3>
+        <p><strong>Personal Rating:</strong> {{ film.Rating }}/10</p>
+        <p><strong>Added:</strong> {{ film.DateAdded | date: "%B %d, %Y at %I:%M %p" }}</p>
+        <p><a href="https://www.imdb.com/title/{{ film.Imdb }}/" target="_blank">View on IMDb →</a></p>
+        ]]>
+      </description>
+      <pubDate>{{ film.DateAdded | date_to_rfc822 }}</pubDate>
+      <guid>{{ site.url }}/films#{{ film.Imdb }}-{{ film.DateAdded | date: "%Y%m%d" }}</guid>
+      <category>Film</category>
+      <category>Rating: {{ film.Rating }}</category>
+    </item>
+    {% endfor %}
+
+  </channel>
+</rss>

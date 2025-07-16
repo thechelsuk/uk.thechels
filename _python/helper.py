@@ -46,7 +46,8 @@ def add_film_to_list(film_data, rating, output_file):
         "Imdb": film_code,
         "Title": film_title,
         "Year": film_year,
-        "Rating": rating
+        "Rating": rating,
+        "DateAdded": datetime.now().strftime("%Y-%m-%d")
     }
     new_films = load_film_file(output_file)
     for f in new_films:
