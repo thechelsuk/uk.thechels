@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 17 July 2025
+## On Friday, 18 July 2025
 
-- The average temperature today is 18.04˚C,
-- With highs of 18.32˚C and lows of 17.6˚C,
-- It may feel like 18.25˚C with overcast clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 90%
-- The sun will rise at 04:09 and set at 20:19
+- The average temperature today is 18.54˚C,
+- With highs of 19.18˚C and lows of 17.69˚C,
+- It may feel like 18.67˚C with broken clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 85%
+- The sun will rise at 04:10 and set at 20:18
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 499 days since the last change (2024-03-05)
+- It has been 500 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,20 +32,21 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Provide purpose, mastery and autonomy.
+> Think aptitude and attitude.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Sweden Women v England Women
+- RB Salzburg v Derby County
+- Toulouse v QPR
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 111.37999725341797 
+- VWRL.L : 112.91000366210938 
 
 <!-- stocks_marker ends -->
 
@@ -57,7 +58,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - Chelsea finally closing in on front-of-shirt sponsorship deal ... maybe — report
 - Badiashile wants to stay and ‘make even more history’ with Chelsea
 - Chelsea 3-0 PSG, Player Ratings: Cole likes finals
-- Colwill sets sights on Premier League, Champions League trophies after Club World Cup triumph
 
 <!-- news_marker ends -->
 
@@ -65,14 +65,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump’s escalating attacks on Fed unnerve investors
-- Trump asked lawmakers whether he should fire Fed’s Powell
-- The fight to revive Europe’s shrinking rural areas
-- Big launch, small gains: Bobby Jain struggles to match hedge fund giants
-- A weak yen is the root of Japan’s lurch to the right
-- RBC chief warns UK wealth tax would compound non-dom exodus
-- Trump says Coca-Cola will use cane sugar in US production of Coke
-- Spain overtakes Germany as top EU asylum destination
+- Elon Musk backer Vy Capital closes to outside investors after windfall
+- Chatbots in the classroom: how AI is reshaping higher education
+- Threats to the Fed go beyond firing Powell
+- Rising graduate joblessness is mainly affecting men. Will that last?
+- Trump tells justice department to release Epstein testimony
+- Congress passes $9bn in cuts to public broadcasting and foreign aid
+- Apollo lends £80mn in pricey debt to Premier League’s Nottingham Forest
+- Private-equity backed insurer CFC weighs London listing
 
 <!-- ftnews_marker ends -->
 
@@ -80,40 +80,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > writing on the wall - noun: A clear sign of impending decline or disaster.
+ > feet of clay - noun: A hidden weakness or flaw in someone otherwise strong and admired.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Never forget that the great ScrumMaster is, in the first place, a leader. - Zuzana Sochova
+> A market is never saturated with a good product, but it is very quickly saturated with a bad one. - Henry Ford
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Remove ambiguities and convert to specifics
+> Look at the order in which you do things
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- We Own The Night (Rated: 3)
-- Released in 2007
-- Summary: A New York City nightclub manager tries to save his brother and father from Russian Mafia hitmen.
+- Sisu (Rated: 5)
+- Released in 2022
+- Summary: When an ex-soldier who discovers gold in the Lapland wilderness tries to take the loot into the city, German soldiers led by a brutal SS officer battle him.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 850, using [8, 8, 25, 50, 75, 100]
-- Answer: 48 solutions.
+- Target: 115, using [1, 5, 9, 25, 75, 100]
+- Answer: 33 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 25 ) x 100 / 8 - 50 x 8
+  Solution: ( 9 + 1 - 5 ) x 75 / 25 + 100
 
    </details>
 
