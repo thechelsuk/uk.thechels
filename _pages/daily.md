@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 18 July 2025
+## On Saturday, 19 July 2025
 
-- The average temperature today is 18.54˚C,
-- With highs of 19.18˚C and lows of 17.69˚C,
-- It may feel like 18.67˚C with broken clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 85%
-- The sun will rise at 04:10 and set at 20:18
+- The average temperature today is 16.84˚C,
+- With highs of 17.77˚C and lows of 16.4˚C,
+- It may feel like 16.75˚C with overcast clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1006hPa and humidity is 83%
+- The sun will rise at 04:11 and set at 20:17
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 500 days since the last change (2024-03-05)
+- It has been 501 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,32 +32,31 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Think aptitude and attitude.
+> Exploit the landscape.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- RB Salzburg v Derby County
-- Toulouse v QPR
+- No Fixtures
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 112.91000366210938 
+- VWRL.L : 112.88999938964844 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Official: Arsenal sign Noni Madueke from Chelsea
+- Official: Ato Ampah signs new Chelsea contract
+- Cole Palmer receives hero’s welcome on St. Kitts
 - Jackson, Nkunku futures not assured at Chelsea — reports
 - Official: AFC Bournemouth sign Đorđe Petrović from Chelsea
-- Chelsea finally closing in on front-of-shirt sponsorship deal ... maybe — report
-- Badiashile wants to stay and ‘make even more history’ with Chelsea
-- Chelsea 3-0 PSG, Player Ratings: Cole likes finals
 
 <!-- news_marker ends -->
 
@@ -65,14 +64,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Elon Musk backer Vy Capital closes to outside investors after windfall
-- Chatbots in the classroom: how AI is reshaping higher education
-- Threats to the Fed go beyond firing Powell
-- Rising graduate joblessness is mainly affecting men. Will that last?
-- Trump tells justice department to release Epstein testimony
-- Congress passes $9bn in cuts to public broadcasting and foreign aid
-- Apollo lends £80mn in pricey debt to Premier League’s Nottingham Forest
-- Private-equity backed insurer CFC weighs London listing
+- Global crypto assets hit $4tn as industry wins backing of US lawmakers
+- Did UK’s military data rules make a leak more likely?
+- The unspoken truth about the baby bust
+- UK investors still face a gap between 1990s nostalgia and reality
+- Trump sues Wall Street Journal’s publisher and Rupert Murdoch for $10bn
+- Trump administration files motion to unseal Epstein transcripts
+- Japan tells its companies in Taiwan: ‘You’re on your own’
+- Trump pushes for 15%-20% minimum tariff on all EU goods
 
 <!-- ftnews_marker ends -->
 
@@ -87,33 +86,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> A market is never saturated with a good product, but it is very quickly saturated with a bad one. - Henry Ford
+> Scrum focuses on being agile which may (and should) lead to improving. Kanban focuses on improving, which may lead to being agile. - Karl Scotland, Agile Trainer
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Look at the order in which you do things
+> Simple subtraction
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Sisu (Rated: 5)
-- Released in 2022
-- Summary: When an ex-soldier who discovers gold in the Lapland wilderness tries to take the loot into the city, German soldiers led by a brutal SS officer battle him.
+- Jumanji (Rated: 4)
+- Released in 1995
+- Summary: When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 115, using [1, 5, 9, 25, 75, 100]
-- Answer: 33 solutions.
+- Target: 976, using [2, 2, 9, 10, 25, 75]
+- Answer: 5 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 9 + 1 - 5 ) x 75 / 25 + 100
+  Solution: ( ( 25 + 10 - 9 ) x 75 + 2 ) / 2
 
    </details>
 
