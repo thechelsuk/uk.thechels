@@ -59,6 +59,8 @@ navigation_header:
 navigation_slashes:
   - link: "/projects"
     title: "Apps"
+  - link: "https://apps.apple.com/gb/developer/mat-benfield/id1818791310"
+    title: "App Store"
   - link: "/about"
     title: "About"
   - link: "/architecture"
