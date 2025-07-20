@@ -59,6 +59,8 @@ navigation_header:
 navigation_slashes:
   - link: "/projects"
     title: "Apps"
+  - link: "https://apps.apple.com/gb/developer/mat-benfield/id1818791310"
+    title: "App Store"
   - link: "/about"
     title: "About"
   - link: "/architecture"
@@ -111,7 +113,7 @@ navigation_slashes:
     title: "Sitemap"
   - link: "https://shop.thechels.uk"
     title: "Shop &#11084;"
-  - link: "https://ensemble.substack.com/"
+  - link: "https://thechelsuk.substack.com/"
     title: "SubStack &#11084;"
   - link: "/style"
     title: "Style Guide"

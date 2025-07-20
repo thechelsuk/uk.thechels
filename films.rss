@@ -16,7 +16,7 @@
     {% for film in recent_films %}
     <item>
       <title>{{ film.Title }} ({{ film.Year }}) - Rated {{ film.Rating }}/10</title>
-      <link>https://thechels.ul/films/#{{ film.Imdb }}/</link>
+      <link>{{ site.url }}/films/#{{ film.Imdb }}</link>
       <description>
         <![CDATA[
         <h3>{{ film.Title }} ({{ film.Year }})</h3>
