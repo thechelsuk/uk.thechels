@@ -21,7 +21,7 @@ This page serves as the system of record for my online identity. The best places
 
 I own and control this domain thechels.uk and hiyd.uk
 
-I have a [PGP](/pgp) key for the email address <ensemblist.uk@gmail.com>.
+I have a [PGP](/pgp) key for keybase.io/thechelsuk and you can verify my identity there.
 
 If there's an account claiming to be me that's not on this list, it's almost certainly an impersonator.
 

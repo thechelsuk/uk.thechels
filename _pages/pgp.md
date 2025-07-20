@@ -7,7 +7,7 @@ seo: Public PGP key
 ---
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: https://keybase.io/download
+Comment: <https://keybase.io/download>
 Version: Keybase Go 6.5.1 (darwin)
 
 xsFNBGhX/eIBEADasyZR8ZJ+sLGyDmuzcYGoi/NS5uz/QzW65nRmxyXoZ9A2ZhE1
@@ -84,4 +84,3 @@ dPOPJTpFj1nMx1Zomo95cprztoF8RPPUdQyFK7u2T/+M1OzrNblzKk9YZVgUFbE6
 HMFwubnkB5O+5g==
 =p7hq
 -----END PGP PUBLIC KEY BLOCK-----
-
