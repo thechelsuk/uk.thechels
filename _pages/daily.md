@@ -7,58 +7,62 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 21 July 2025
+## On Tuesday, 22 July 2025
 
-- The average temperature today is 12.96˚C,
-- With highs of 14.28˚C and lows of 12.04˚C,
-- It may feel like 12.66˚C with few clouds
-- The wind speed is 0.75m/s and visibility is 10000m
-- The pressure is 998hPa and humidity is 90%
-- The sun will rise at 04:14 and set at 20:14
+- The average temperature today is 17.46˚C,
+- With highs of 18.32˚C and lows of 17.05˚C,
+- It may feel like 17.4˚C with broken clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1008hPa and humidity is 82%
+- The sun will rise at 04:15 and set at 20:13
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 503 days since the last change (2024-03-05)
+- It has been 504 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Optimise flow.
+> Inspire others
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Sporting CP v Sunderland
+- Bristol City v Newport County
+- AFC Wimbledon v Millwall
+- Walsall v Derby County
+- Burton Albion v Sheffield United
+- England Women v Italy Women
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 112.88999938964844 
+- VWRL.L : 113.05000305175781 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea have ‘serious interest’ in RB Leipzig’s Xavi Simons — reports
 - Mamadou Sarr set to rejoin RC Strasbourg on loan from Chelsea — report
 - Atlético Madrid making moves for Renato Veiga as Chelsea set €40m asking price — report
 - Newcastle United keeping an eye on Axel Disasi — report
 - Club World Cup Champions not guaranteed place at next Club World Cup
-- Official: Arsenal sign Noni Madueke from Chelsea
-- Official: Ato Ampah signs new Chelsea contract
 
 <!-- news_marker ends -->
 
@@ -66,14 +70,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- UK government seeks way out of clash with US over Apple encryption
-- Can Europe break free of American tech supremacy?
-- How to help the financial sector promote growth — and how not to
-- The UK’s laggard approach to stablecoins reveals so much
-- Water regulator Ofwat faces abolition after official review
-- UK property asking prices fall faster than usual in July
-- London Stock Exchange considers launch of 24-hour trading
-- Greek companies tour Europe to lure back skilled nationals
+- JPMorgan explores lending against clients’ cryptocurrency
+- The controversy over the US Federal Reserve refurbishment
+- Premier Inn should loosen up a little as it expands
+- The internet hates my apostrophe
+- Fusion energy start-up claims to have cracked alchemy
+- China moves to widen influence at UN and fill US power vacuum
+- BYD executive labels UK EV subsidies ‘stupid’ as carmaker expands
+- Metro Bank co-founder raises funds for new lender to family offices
 
 <!-- ftnews_marker ends -->
 
@@ -81,40 +85,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > lase - verb tr.: To expose or process with a laser (e.g. to target an object or cut a material). verb intr.: To give off coherent light.
+ > ablute - verb tr., intr.: To bathe or to wash a part of the body.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Leadership is the capacity to translate vision into reality - Warren Bennis
+> The best way to get a project done faster is to start sooner. - Jim Highsmith, Agile Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Cluster analysis
+> Emphasize differences
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Fear And Loathing In Las Vegas (Rated: 4)
-- Released in 1998
-- Summary: An oddball journalist and his psychopathic lawyer travel to Las Vegas for a series of psychedelic escapades.
+- Sympathy For Mr Vengeance (Rated: 5)
+- Released in 2002
+- Summary: A recently laid off factory worker kidnaps his former boss' friend's daughter, hoping to use the ransom money to pay for his sister's kidney transplant.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 424, using [1, 2, 25, 50, 75, 100]
-- Answer: 4 solutions.
+- Target: 819, using [4, 5, 6, 10, 25, 75]
+- Answer: 19 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 75 + 50 ) x 2 - 25 - 1
+  Solution: ( 25 - 10 - 4 ) x 75 - 6
 
    </details>
 
