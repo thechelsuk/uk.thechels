@@ -7,62 +7,57 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 22 July 2025
+## On Wednesday, 23 July 2025
 
-- The average temperature today is 17.46˚C,
-- With highs of 18.32˚C and lows of 17.05˚C,
-- It may feel like 17.4˚C with broken clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 82%
-- The sun will rise at 04:15 and set at 20:13
+- The average temperature today is 14.92˚C,
+- With highs of 16.1˚C and lows of 13.71˚C,
+- It may feel like 14.69˚C with overcast clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 85%
+- The sun will rise at 04:17 and set at 20:12
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 504 days since the last change (2024-03-05)
+- It has been 505 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Inspire others
+> Set exceptional standards.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Bristol City v Newport County
-- AFC Wimbledon v Millwall
-- Walsall v Derby County
-- Burton Albion v Sheffield United
-- England Women v Italy Women
+- No Fixtures
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 113.05000305175781 
+- VWRL.L : 112.5 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Introducing the 12th Edition of WaFFLe: WAGNH Fantasy Football League!
+- Official: Watford sign Caleb Wiley on loan from Chelsea
+- Chelsea set £20m asking price for Raheem Sterling — report
 - Chelsea have ‘serious interest’ in RB Leipzig’s Xavi Simons — reports
 - Mamadou Sarr set to rejoin RC Strasbourg on loan from Chelsea — report
 - Atlético Madrid making moves for Renato Veiga as Chelsea set €40m asking price — report
-- Newcastle United keeping an eye on Axel Disasi — report
-- Club World Cup Champions not guaranteed place at next Club World Cup
 
 <!-- news_marker ends -->
 
@@ -70,14 +65,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- JPMorgan explores lending against clients’ cryptocurrency
-- The controversy over the US Federal Reserve refurbishment
-- Premier Inn should loosen up a little as it expands
-- The internet hates my apostrophe
-- Fusion energy start-up claims to have cracked alchemy
-- China moves to widen influence at UN and fill US power vacuum
-- BYD executive labels UK EV subsidies ‘stupid’ as carmaker expands
-- Metro Bank co-founder raises funds for new lender to family offices
+- US and Japan agree trade deal
+- Germany and France push EU to prepare trade reprisals against US
+- China hits out at EU ahead of tough talks in shadow of trade and Ukraine war
+- The evolution of Marco Rubio
+- Coca-Cola gets roped into making America healthy again
+- Our phones can alert us to earthquakes — but there’s a catch
+- McKinsey bars China practice from generative AI work amid geopolitical tensions
+- Amazon shuts down Shanghai AI research lab
 
 <!-- ftnews_marker ends -->
 
@@ -85,40 +80,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > ablute - verb tr., intr.: To bathe or to wash a part of the body.
+ > insurrect - verb intr.: To rise in revolt against a government or other authority.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The best way to get a project done faster is to start sooner. - Jim Highsmith, Agile Author
+> We do not rise to the level of our expectations; we fall to the level of our training. - Archilochus
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Emphasize differences
+> Think of the radio
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Sympathy For Mr Vengeance (Rated: 5)
-- Released in 2002
-- Summary: A recently laid off factory worker kidnaps his former boss' friend's daughter, hoping to use the ransom money to pay for his sister's kidney transplant.
+- A Knights Tale (Rated: 3)
+- Released in 2001
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 819, using [4, 5, 6, 10, 25, 75]
-- Answer: 19 solutions.
+- Target: 944, using [1, 5, 7, 25, 50, 100]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 25 - 10 - 4 ) x 75 - 6
+  Solution: ( 50 / 5 + 100 + 25 ) x 7 - 1
 
    </details>
 
