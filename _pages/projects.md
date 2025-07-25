@@ -8,7 +8,7 @@ seo: Projects
 
 ## Applications
 
-![MiPace App Icon](images/apps/mipace-icon.png){: .app-icon} [MiPace](https://apps.apple.com/gb/app/mipace/) - An iOS app aimed at ME/CFS and Long Covid sufferers by helping to track and manage your body battery and self-assessed 'Spoons' . Built using SwiftUI, the app allows users to track their energy levels, activity, and symptoms over time. It provides insights into patterns and helps users manage their daily activities more effectively.
+![Tomoz App Icon](images/apps/tomoz-icon.png){: .app-icon} [Tomoz](https://apps.apple.com/gb/app/Tomoz/) - An iOS app that helps plan for tomorrow today. Built using SwiftUI, the app allows users to pick and choose from their calendars and shows tomorrow's events in a simple single view. The app supports exporting to Markdown, JSON and CSV formats, making it easy to share or import into other applications.
 
 ![EngMan App Icon](images/apps/engman-icon.png){: .app-icon} [EngMan](/https://apps.apple.com/gb/app/engman/id6747295473)- An iOS app for Engineering Managers. Built using SwiftUI, the app provides a bunch of topics and nearly 200 coaching cards to help engineering leaders and managers improve their skills and knowledge. Whilst being a good quick reference for difficult conversations or coaching scenarios.
 
