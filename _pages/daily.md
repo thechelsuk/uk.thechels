@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 27 July 2025
+## On Monday, 28 July 2025
 
-- The average temperature today is 14.24˚C,
-- With highs of 14.99˚C and lows of 13.62˚C,
-- It may feel like 13.78˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 79%
-- The sun will rise at 04:23 and set at 20:06
+- The average temperature today is 13.69˚C,
+- With highs of 14.43˚C and lows of 13.07˚C,
+- It may feel like 13.26˚C with scattered clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1020hPa and humidity is 82%
+- The sun will rise at 04:24 and set at 20:04
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 509 days since the last change (2024-03-05)
+- It has been 510 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,7 +32,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Sometimes you just have to get on the fucking bus.
+> Commit to the direction.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -52,13 +52,12 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- João Félix close to joining Saudi club Al-Nassr — reports
 - Chelsea in ‘advanced talks’ for Xavi Simons as RB Leipzig demand €70m — reports
 - The Daily Hilario: Saturday
 - Acheampong an ‘alternative option of interest’ for Bournemouth — report
 - Ajax reject initial offer from Chelsea for Jorrel Hato, send counteroffer — report
 - Raheem Sterling linked with Napoli, Fulham — reports
-- A new look coming for We Ain’t Got No History in August
-- Fulham interested in Kiernan Dewsbury-Hall — report
 
 <!-- news_marker ends -->
 
@@ -66,14 +65,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Crypto lenders dial up risk with ‘microfinance on steroids’
-- Stablecoins craze pits central bank against lawmakers in South Korea
-- One year on: UK communities count the cost of anti-immigration riots
-- The Very Online Right has come for Britain too
-- The UK’s aversion to super-CEOs might be due for a rethink
-- Companies back boomerang CEOs as succession plans falter
-- Doubt cast on widely quoted millionaire migration numbers
-- EU and US locked in talks ahead of key Trump meeting with von der Leyen
+- US and EU reach tariff agreement to avert trade war
+- What the world got wrong about tariffs
+- How the EU succumbed to Trump’s tariff steamroller
+- What India’s economy can teach the UK
+- Heathrow’s third runway could actually be good value
+- Share of goods in UK exports falls to record low
+- VPN use surges in UK as new online safety rules kick in
+- CK Hutchison to invite ‘major’ Chinese investor for $23bn Panama ports deal
 
 <!-- ftnews_marker ends -->
 
@@ -81,34 +80,41 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > tase - verb tr.: To incapacitate or subdue by delivering an electric shock using a stun gun.
+ > vicissitude - noun: A change in circumstances, typically one that is unwelcome.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The four most important words for Scrum Masters are: Let us ask the team. - Kristen Sammons, Agile Evangelist & Scrum Master
+> As an Agile coach, you do not need to have all the answers; it takes time and a few experiments to hit on the right approach. - Rachel Davies and Liz Sedley, Agile Trainers and Authors
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> riff
+> Accretion
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Them (Rated: 7)
-- Released in 2006
-- Summary: Lucas and Clementine live peacefully in their isolated country house, but one night they wake up to strange noise... they're not alone... and a group of hooded assailants begin to terrorize them throughout the night.
+- The Crow (Rated: 5)
+- Released in 1994
+- Summary: The night before his wedding, musician Eric Draven and his fiancée are brutally murdered by members of a violent gang. On the anniversary of their death, Eric rises from the grave and assumes the mantle of the Crow, a supernatural...
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 974, using [3, 7, 9, 50, 75, 100]
+- Target: 818, using [4, 5, 8, 9, 10, 50]
+- Answer: 19 solutions.
+
+- <details><summary><code>Solution</code></summary>
+
+  Solution: ( 10 + 5 ) x 50 + ( 9 + 8 ) x 4
+
+   </details>
 
 <!-- game_marker ends -->
