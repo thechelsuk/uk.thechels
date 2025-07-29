@@ -7,64 +7,63 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 25 July 2025
+## On Tuesday, 29 July 2025
 
-- The average temperature today is 15.02˚C,
-- With highs of 16.08˚C and lows of 14.27˚C,
-- It may feel like 14.72˚C with scattered clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 82%
-- The sun will rise at 04:20 and set at 20:09
+- The average temperature today is 13.97˚C,
+- With highs of 14.97˚C and lows of 13.62˚C,
+- It may feel like 13.72˚C with broken clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 88%
+- The sun will rise at 04:26 and set at 20:03
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 507 days since the last change (2024-03-05)
+- It has been 511 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Farmers Market in town
+- Recycling Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> One Step Beyond.
+> Crossing the river by feeling the stones.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Karpaty Lviv v Leicester City
-- Norwich City v Olympiakos
-- FC KÃ¶ln v Leicester City
-- ADO Den Haag v Norwich City
-- Elche v Blackburn Rovers
-- Aberdeen v Ipswich Town
-- Crawley Town v Crystal Palace
+- Mainz v Crystal Palace
+- Mainz v Crystal Palace
+- Barnet v Newport County
+- Hull City v Sunderland
+- Solihull Moors v Derby County
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 113.83000183105469 
+- VWRL.L : 114.48999786376953 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
-- A new look coming for We Ain’t Got No History in August
-- Fulham interested in Kiernan Dewsbury-Hall — report
-- Chelsea agree personal terms with Jorrel Hato — report
-- Chelsea make ‘official club-to-club contact’ with Ajax for Jorrel Hato — report
-- Chelsea making progress with Xavi Simons over personal terms — report
-- Introducing the 12th Edition of WaFFLe: WAGNH Fantasy Football League!
+- Newcastle shortlist Nicolas Jackson amid Isak, Šeško transfer sagas — reports
+- Official: RC Strasbourg sign Mike Penders on loan from Chelsea
+- Al-Nassr, Chelsea agree João Félix transfer — report
+- Ajax want at least €50m for Jorrel Hato — report
+- João Félix close to joining Saudi club Al-Nassr — reports
+- Chelsea in ‘advanced talks’ for Xavi Simons as RB Leipzig demand €70m — reports
 
 <!-- news_marker ends -->
 
@@ -72,14 +71,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump and Powell spar as US president visits Federal Reserve
-- Trump risks market revolt if he threatens Fed independence, Pimco says
-- It’s fear, not greed, that drives the stock market
-- Why are young adults in the English-speaking world so unhappy?
-- Investors beware the dangers lurking in private credit
-- Starmer to press Trump over deal to cut tariffs on UK steel imports
-- Companies look beyond bitcoin to drive up their share prices
-- UK households prioritise saving more than at any point since 2008 crash, survey finds
+- Reeves and Bailey clash over Revolut meeting
+- Trump’s tariff blitz brings US levies to highest levels since 1930s
+- The Sensodyne formula for marketing to the world
+- Global AI rivalry is a dangerous game
+- Five dead after shooting at New York tower housing Blackstone offices
+- Europe’s roads and rail unfit for war with Russia, EU transport chief warns
+- Trump says Russia has 10 to 12 days to agree ceasefire in Ukraine
+- Bain & Co shuts South Africa consulting business after corruption scandal
 
 <!-- ftnews_marker ends -->
 
@@ -87,40 +86,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > tase - verb tr.: To incapacitate or subdue by delivering an electric shock using a stun gun.
+ > trenchant - adjective: Incisive and forceful.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change. - Charles Darwin
+> Kill your product if a pivot is not beneficial and persevering no option. It is tough but the right thing to do. - Roman Pichler, Agile Trainer and Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Balance the consistency principle with the inconsistency principle
+> What is the reality of the situation?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Condemned (Rated: 5)
-- Released in 2007
-- Summary: Jack Conrad is awaiting the death penalty in a corrupt Central American prison. He is "purchased" by a wealthy television producer and taken to a desolate island where he must fight to the death against nine other condemned killer...
+- Oceans 12 (Rated: 6)
+- Released in 2004
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 684, using [4, 6, 8, 10, 75, 100]
-- Answer: 28 solutions.
+- Target: 383, using [2, 8, 9, 10, 75, 100]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 75 + 10 - 8 - 6 ) x 4
+  Solution: 100 x 75 / 10 / 2 + 8
 
    </details>
 
