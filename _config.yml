@@ -111,13 +111,14 @@ navigation_slashes:
     title: "Verify"
   - link: "/indieweb.txt"
     title: "IndieWeb"
+## External links
 navigation_external:
   - link: "https://music.apple.com/profile/thechelsuk"
-    title: "Music &#11084;"
+    title: "Apple Music &#11084;"
   - link: "https://tools.thechels.uk"
     title: "Tools &#11084;"
   - link: "https://apps.apple.com/gb/developer/mat-benfield/id1818791310"
-    title: "App Store  &#11084;"
+    title: "iOS App Store  &#11084;"
   - link: "https://shop.thechels.uk"
     title: "Shop &#11084;"
   - link: "https://thechelsuk.redbubble.com"

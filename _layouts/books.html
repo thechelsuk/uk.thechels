@@ -1,7 +1,9 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
 {% include img.html %}
-<p><small><b>{{ site.data.read | size }}</b> books I own or have read (almost all digitally).</small></p>
+<p>A List of all the books in my collection. I prefer digital formats over physical copies.
+  I own a Kindle but tend to use Apple books more often.</p>
+<p><b>{{ site.data.read | size }}</b>.</p>
 <div class="book-list">
   {% assign books = site.data.read | sort: "dateFinished" | reverse %}
   {% for book in books %}

@@ -10,7 +10,7 @@ seo: Projects
 
 ![Tomoz App Icon](images/apps/tomoz-icon.png){: .app-icon} [Tomoz](https://apps.apple.com/gb/app/Tomoz/) - An iOS app that helps plan for tomorrow today. Built using SwiftUI, the app allows users to pick and choose from their calendars and shows tomorrow's events in a simple single view. The app supports exporting to Markdown, JSON and CSV formats, making it easy to share or import into other applications.
 
-![EngMan App Icon](images/apps/engman-icon.png){: .app-icon} [EngMan](/https://apps.apple.com/gb/app/engman/id6747295473)- An iOS app for Engineering Managers. Built using SwiftUI, the app provides a bunch of topics and nearly 200 coaching cards to help engineering leaders and managers improve their skills and knowledge. Whilst being a good quick reference for difficult conversations or coaching scenarios.
+![EngMan App Icon](images/apps/engman-icon.png){: .app-icon} [EngMan](https://apps.apple.com/gb/app/engman/id6747295473)- An iOS app for Engineering Managers. Built using SwiftUI, the app provides a bunch of topics and nearly 200 coaching cards to help engineering leaders and managers improve their skills and knowledge. Whilst being a good quick reference for difficult conversations or coaching scenarios.
 
 ![Mltply App Icon](images/apps/mltply-icon.png){: .app-icon} [Mltply](https://apps.apple.com/gb/app/mltply/id6747147316) - An iOS app with a chat like interface for learning maths through repetition. The app is built using SwiftUI, with a focus on helping users learn and practice maths in a fun and engaging way quiz. The app is open source and available on [GitHub](https://github.com/mat-0/Mltply).
 
