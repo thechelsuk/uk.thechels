@@ -2,7 +2,7 @@
 layout: pages
 title: About
 permalink: /about
-seo: About page for Mat B, owner of Weak Notes at thechels.uk
+seo: About page for Mat B, owner of thechels.uk
 ---
 
 An experienced engineering leader with a passion for people development, building teams, implementing agile methodologies, and focusing on flow and delivery. A broad history of working with teams using various programming languages, in fast-paced and regulated environments.
