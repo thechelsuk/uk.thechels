@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 01 August 2025
+## On Saturday, 02 August 2025
 
-- The average temperature today is 12.22˚C,
-- With highs of 12.76˚C and lows of 11.58˚C,
-- It may feel like 11.59˚C with few clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 80%
-- The sun will rise at 04:30 and set at 19:58
+- The average temperature today is 12.76˚C,
+- With highs of 13.07˚C and lows of 12.6˚C,
+- It may feel like 12.1˚C with clear sky
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 77%
+- The sun will rise at 04:32 and set at 19:56
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 514 days since the last change (2024-03-05)
+- It has been 515 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,34 +32,66 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> What got us here, will not get us there.
+> challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Augsburg v Crystal Palace
-- Augsburg v Crystal Palace
-- Luton Town v AFC Wimbledon
+- Cardiff City v Peterborough United
+- Millwall v Estoril Praia
+- Birmingham City v Nottingham Forest
+- Bristol City v Real Valladolid
+- Leeds United v Villarreal
+- Leicester City v Fiorentina
+- QPR v Brentford
+- Stoke City v Burnley
+- Sunderland v Real Betis
+- Swansea City v Lorient
+- Blackpool v Stevenage
+- Bradford City v Wycombe Wanderers
+- Burton Albion v Mansfield Town
+- Doncaster Rovers v Exeter City
+- Huddersfield Town v Leyton Orient
+- Lincoln City v Reading
+- Plymouth Argyle v Barnsley
+- Rotherham United v Port Vale
+- Wigan Athletic v Northampton Town
+- Accrington Stanley v Gillingham
+- Barnet v Fleetwood Town
+- Bristol Rovers v Harrogate Town
+- Cambridge United v Cheltenham Town
+- Chesterfield v Barrow AFC
+- Colchester United v Tranmere Rovers
+- Grimsby Town v Crawley Town
+- MK Dons v Oldham Athletic
+- Newport County v Notts County
+- Salford City v Crewe Alexandra
+- Shrewsbury Town v Bromley
+- Walsall v Swindon Town
+- Southampton v Brighton & Hove Albion
+- Southampton v Brighton & Hove Albion
+- Hull City v Getafe
+- Auxerre v Ipswich Town
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 115.38999938964844 
+- VWRL.L : 112.95999908447266 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Burnley, Chelsea agree Armando Broja transfer — reports
+- Official: Huddersfield Town sign Leo Castledine on loan from Chelsea
+- Official: RC Strasbourg sign Mamadou Sarr on loan from Chelsea
+- Chelsea still ‘expected’ to bid for Garnacho before end of transfer window — report
 - Official: Chelsea sign free agent youth winger Jesse Derry
 - Official: RC Strasbourg sign Kendry Páez on loan from Chelsea
-- Chelsea, Ajax agree Jorrel Hato transfer — reports
-- Official: RC Strasbourg sign Ishé Samuels-Smith from Chelsea
-- Sunderland make approach to sign Marc Guiu on loan from Chelsea — report
-- Chelsea playing hardball over Jorrel Hato, and it may be working — reports
 
 <!-- news_marker ends -->
 
@@ -67,14 +99,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump reignites global trade war with sweeping tariff regime
-- Trump tariffs hit dozens of US trading partners
-- Investors glimpse pay-off for Big Tech’s mammoth spending on AI arms race
-- The great crime paradox
-- Crypto needs to move beyond black and white thinking
-- Apple posts strong earnings but tariff fears spook investors
-- Apple has become Silicon Valley’s big contrarian bet
-- Business chiefs more gloomy on UK economy than any time since 2016
+- Trump fires US labour statistics boss after weak jobs report
+- US labour market suffered sharp slowdown over past three months
+- Trump says he will reposition nuclear submarines after ‘provocative’ Russian comments
+- How to travel
+- Asylum hotel protests spread to prestige London postcodes
+- David Cameron’s ex-chief of staff to advise UK foreign secretary David Lammy
+- Sizewell C costs could hit £100bn including financing, modelling shows
+- UK Supreme Court gives banks reprieve on car finance commissions
 
 <!-- ftnews_marker ends -->
 
@@ -89,33 +121,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Luck is not a factor. Hope is not a strategy. Fear is not an option. - James Cameron
+> Be fixed on the vision, but flexible on the journey - Jeff Bezos
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Do we need holes?
+> Do the words need changing?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Bad Boys Ii (Rated: 6)
-- Released in 2003
-- Summary: Two loose-cannon narcotics cops investigate the flow of Ecstasy into Florida from a Cuban drug cartel.
+- The Clinic (Rated: 10)
+- Released in 2010
+- Summary: While traveling across country with her fiancé, Beth wakes alone in an isolated clinic to find her unborn baby has been removed. Just how far will she go to get her child back?
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 683, using [4, 4, 25, 50, 75, 100]
-- Answer: 1 solutions.
+- Target: 686, using [2, 3, 6, 9, 50, 75]
+- Answer: 11 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 - 75 ) x 25 + 50 + 4 + 4
+  Solution: ( ( 50 + 3 + 2 ) x 75 - 9 ) / 6
 
    </details>
 
