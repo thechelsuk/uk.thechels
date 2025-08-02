@@ -3,7 +3,7 @@ date: 2025-08-02
 title: "Substack sent a push alert promoting a Nazi blog"
 cited: "Taylor Lorenz"
 link: https://www.usermag.co/p/substack-sent-a-push-alert-promoting-nazi-white-supremacist-blog
-seo: "The newsletter's logo is a swastika and it has pushed Holocaust denialism along with news and opinion content for the 'White Nationalist Community.'"
+seo: "The newsletter's logo is a swastika and it has pushed Holocaust denialism"
 tags:
 ---
 

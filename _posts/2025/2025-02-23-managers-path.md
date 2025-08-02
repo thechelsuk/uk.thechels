@@ -2,7 +2,8 @@
 
 layout: post
 date: 2025-02-23
-title: The Manager's Path - A Guide for Tech Leaders Navigating Growth and Change
+title: The Manager's Path - A Guide for Tech Leaders
+seo: - A Guide for Tech Leaders Navigating Growth and Change
 
 ---
 
@@ -14,7 +15,7 @@ title: The Manager's Path - A Guide for Tech Leaders Navigating Growth and Chang
 - [Managing multiple teams](#managing-multiple-teams)
 - [Managing managers](#managing-managers)
 - [The big leagues](#the-big-leagues)
-- [Bootstrapping culture](#Bootstrapping-culture)
+- [Bootstrapping culture](#bootstrapping-culture)
 
 Engineering management is not just about people management. Hands-on expertise gives you credibility and helps leading your team effectively.
 
@@ -84,9 +85,9 @@ You will have to have a project in mind, look for small features of your current
 
 Try to sit with him as much as possible the first days.
 
-* **Listen carefully.** Listening is one of the basic skills for people management. Listening is the precursor of empathy, which is one of the core skills of a quality manager. When you mentee is speaking to you, pay attention to your behaviour. Listening goes beyond hearing words, people are not usually precise on what they mean. Let your mentee correct you.
-* **Communicate clearly.** Communicate what needs to happen.
-* **Calibrate your response.** During the first weeks of the internship, you'll learn the frequency you need to check in with your mentee to provide the right adjustments.
+- **Listen carefully.** Listening is one of the basic skills for people management. Listening is the precursor of empathy, which is one of the core skills of a quality manager. When you mentee is speaking to you, pay attention to your behaviour. Listening goes beyond hearing words, people are not usually precise on what they mean. Let your mentee correct you.
+- **Communicate clearly.** Communicate what needs to happen.
+- **Calibrate your response.** During the first weeks of the internship, you'll learn the frequency you need to check in with your mentee to provide the right adjustments.
 
 #### Mentoring a new hire
 
@@ -100,8 +101,8 @@ Part of the mentoring is introducing the new person around, bringing this person
 
 The best mentoring relationships evolve naturally and in the context of larger work.
 
-* **When you are a mentor.** Don't do it unless you think it will be rewarding for you and the person you're mentoring. Don't say yes and then fail to actually do the mentoring work.
-* **When you are a mentee.** Think about what you want to get out of this relationship, and come prepared to your sessions. If you don't have time to prepare or you don't think preparing is necessary, ask yourself if mentoring is really something you need at all. Maybe instead you need a friend, or a therapist, or a coach.
+- **When you are a mentor.** Don't do it unless you think it will be rewarding for you and the person you're mentoring. Don't say yes and then fail to actually do the mentoring work.
+- **When you are a mentee.** Think about what you want to get out of this relationship, and come prepared to your sessions. If you don't have time to prepare or you don't think preparing is necessary, ask yourself if mentoring is really something you need at all. Maybe instead you need a friend, or a therapist, or a coach.
 
 ### Good manager, bad manager: the alpha geek
 
@@ -129,9 +130,9 @@ Use this opportunity to reward and train future leaders of your team.
 
 ### Key takeaways for the mentor
 
-* **Be curious and open-minded.** When we close our minds and stop learning, we start to lose the most valuable skill for maintaining and growing a successful technical career. Working with new people who are learning things for the first time can shed light on hidden patterns and help you make connections you may not otherwise have made.
-* **Listen and speak their language.** Mentoring forces you to hone your communication skills. You must be able to listen and communicate in a way that the person can understand. Teams have to communicate effectively to get anything done.
-* **Make connections**. Your career ultimately succeeds or fails on the strength of your network. Mentoring is a great way to build this network. Your career is long and the tech world can be very small, so treat the other person well.
+- **Be curious and open-minded.** When we close our minds and stop learning, we start to lose the most valuable skill for maintaining and growing a successful technical career. Working with new people who are learning things for the first time can shed light on hidden patterns and help you make connections you may not otherwise have made.
+- **Listen and speak their language.** Mentoring forces you to hone your communication skills. You must be able to listen and communicate in a way that the person can understand. Teams have to communicate effectively to get anything done.
+- **Make connections**. Your career ultimately succeeds or fails on the strength of your network. Mentoring is a great way to build this network. Your career is long and the tech world can be very small, so treat the other person well.
 
 ## Tech lead
 
@@ -139,9 +140,9 @@ The idea that the tech lead role should automatically be given to the most exper
 
 _The tech lead role is not a point in the latter, but a set of responsibilities that any engineer may take once they reach the senior level._
 
-* Regular (weekly) 1-1 touchbases
-* Regular feedback on career growth, progression towards goals, areas for improvement, and praise as warranted.
-* Working with reports to identify areas for learning and helping them grow in these areas via project work, external learning, or additional mentoring.
+- Regular (weekly) 1-1 touchbases
+- Regular feedback on career growth, progression towards goals, areas for improvement, and praise as warranted.
+- Working with reports to identify areas for learning and helping them grow in these areas via project work, external learning, or additional mentoring.
 
 The tech lead is learning how to be a strong technical project manager by delegating work effectively without micromanaging. They focus on the whole team's productivity and strive to increase the impact of the team's work product.
 
@@ -150,7 +151,6 @@ It is very hard to grow past senior engineer 2 without ever having acted as a te
 You can't lead without engaging with other people, and people skills should be important, much more than technical expertise. **Tech leads will work on one major new technical skill: project management, or the work of breaking down a project.**
 
 > Being a tech lead is an exercise in influencing without authority. How do I empower my team? How do I remove the obstacles slowing them down?
-
 
 ### All great tech leads know this one weird trick
 
@@ -166,9 +166,9 @@ It's important to get your team into a schedule that allows them to be focused o
 
 #### The main roles of a tech lead
 
-* **System architect and business analyst.** Have a good sense of the overall architecture of your systems and a solid understanding of how to design complex software. Understand business requirements and translate them into software.
-* **Project planner.** Breaking down work into rough deliverables. Part of the challenge here is getting as much productive work done in parallel as possible.
-* **Software developer and team leader.** Software developers and leaders write code, communicate challenges and delegate. In your position as a tech lead, you should _continue writing code, but not too much_. Start looking for opportunities to _delegate work_.
+- **System architect and business analyst.** Have a good sense of the overall architecture of your systems and a solid understanding of how to design complex software. Understand business requirements and translate them into software.
+- **Project planner.** Breaking down work into rough deliverables. Part of the challenge here is getting as much productive work done in parallel as possible.
+- **Software developer and team leader.** Software developers and leaders write code, communicate challenges and delegate. In your position as a tech lead, you should _continue writing code, but not too much_. Start looking for opportunities to _delegate work_.
 
 You have to act as a software developer, a system architect, a business analyst, and a team leaders who knows when to do something single-handedly, and when to delegate work to others.
 
@@ -204,34 +204,34 @@ Processes must meet the needs of the team and the work.
 
 ### How to be a great tech lead
 
-* **Understand architecture.** Take time to understand it. It's almost impossible to lead projects well when you don't understand the architecture you're changing.
-* **Be a team player.** If you're doing all the interesting work yourself, stop. Working on the less exciting, boring or frustrating parts of the code base can teach you a lot about where the process is broken and how to fix it. Also, if you are doing the most boring work, stop that too. You want to encourage others on your team to learn the entire system.
-* **Lead technical decisions.** Determine which decisions must be made by you, which decisions should be delegated to others with more expertise, and which decisions require the whole team to resolve. Make it clear what the matter under discussion is, and communicate the outcome.
-* **Communicate.** Your productivity is now less important than the productivity of the team. You will pay the price of communication overhead, you represent the team. If one universal talent separates successful leaders it's communication skills. Successful leaders write well, they read carefully, and the get up in front of a group and speak. Don't forget to listen and give others a chance to speak. If you aren't a good note taker, you may need to become one.
+- **Understand architecture.** Take time to understand it. It's almost impossible to lead projects well when you don't understand the architecture you're changing.
+- **Be a team player.** If you're doing all the interesting work yourself, stop. Working on the less exciting, boring or frustrating parts of the code base can teach you a lot about where the process is broken and how to fix it. Also, if you are doing the most boring work, stop that too. You want to encourage others on your team to learn the entire system.
+- **Lead technical decisions.** Determine which decisions must be made by you, which decisions should be delegated to others with more expertise, and which decisions require the whole team to resolve. Make it clear what the matter under discussion is, and communicate the outcome.
+- **Communicate.** Your productivity is now less important than the productivity of the team. You will pay the price of communication overhead, you represent the team. If one universal talent separates successful leaders it's communication skills. Successful leaders write well, they read carefully, and the get up in front of a group and speak. Don't forget to listen and give others a chance to speak. If you aren't a good note taker, you may need to become one.
 
 ## Managing people
 
 Your team is only as healthy as its individuals.
 
 The main tasks required to manage people:
-* Taking on a new report
-* Holding regular 1-1s
-* Giving feedback on career growth, progression toward goals, areas for improvement and praise as warranted
-* Working with reports to identify areas for learning and helping them grow in these areas via project work, external learning, or additional mentoring.
+- Taking on a new report
+- Holding regular 1-1s
+- Giving feedback on career growth, progression toward goals, areas for improvement and praise as warranted
+- Working with reports to identify areas for learning and helping them grow in these areas via project work, external learning, or additional mentoring.
 
 ### Starting a new reporting relationship off right
 
-* **Build trust and rapport**. Get to know each other.
-* **Create a 30/60/90 day plan**. This plan includes basic goals. The more senior the hire, the more he should participate in creating the plan.
-* **Encouraging participation by updating new hire documentation**. Team onboarding documents get updated on every new hire to get up to speed.
-* **Communicate your style and expectations**. How often will you meet him, how will you share information, and when and how often you'll want to review his work.
-* **Get feedback from your new hire**. Get as much feedback as you can about the new hire's perspective on the team in that first 90 days.
+- **Build trust and rapport**. Get to know each other.
+- **Create a 30/60/90 day plan**. This plan includes basic goals. The more senior the hire, the more he should participate in creating the plan.
+- **Encouraging participation by updating new hire documentation**. Team onboarding documents get updated on every new hire to get up to speed.
+- **Communicate your style and expectations**. How often will you meet him, how will you share information, and when and how often you'll want to review his work.
+- **Get feedback from your new hire**. Get as much feedback as you can about the new hire's perspective on the team in that first 90 days.
 
 ### Communicating with your team
 
-* **Have regular 1-1s**.
-* **Scheduling 1-1s**. The default should be weekly. Try to avoid as much as possible interrupting your reports in the middle of productive workflow hours.
-* **Adjusting 1-1s**. Adapt the cadence of your 1-1s, junior people or people who need frequent feedback or help on difficult times will appreciate more dedicated time.
+- **Have regular 1-1s**.
+- **Scheduling 1-1s**. The default should be weekly. Try to avoid as much as possible interrupting your reports in the middle of productive workflow hours.
+- **Adjusting 1-1s**. Adapt the cadence of your 1-1s, junior people or people who need frequent feedback or help on difficult times will appreciate more dedicated time.
 
 ### Different 1-1 styles
 
@@ -277,17 +277,18 @@ _Delegation is not the same thing as abdication_. When you're delegating respons
 
 Being a good leader means being good at delegating.
 
-* **Use team's goals to understand which details you should dig into.** If the team is making progress on its goals, the systems are stable, and the product manager is happy, I rarely dig into the details beyond cursory overview. However, it requires goals with a plan for people to be making progress against, and a product manager who can give you another perspective. **When you are managing a team that doesn't have a clear plan, use the details you'd want to monitor to help them create one.**
-* **Gather information from the systems before going to the people.** The worst micromanagers are those who constantly ask for information they could easily get themselves. Use a light touch. The team will not be productive or happy spending half of their time gathering information for you that you could easily find yourself.
-* **Adjust your focus depending on the stage of projects.** You should know all of the details of the project status as part of your regular team process.
-* **Establish standards for code and systems.**
-* **Treat the open sharing information, good or bad in a neutral to positive way.** If you don't figure out how to let go of details, delegate, and trust your team.
+- **Use team's goals to understand which details you should dig into.** If the team is making progress on its goals, the systems are stable, and the product manager is happy, I rarely dig into the details beyond cursory overview. However, it requires goals with a plan for people to be making progress against, and a product manager who can give you another perspective. **When you are managing a team that doesn't have a clear plan, use the details you'd want to monitor to help them create one.**
+- **Gather information from the systems before going to the people.** The worst micromanagers are those who constantly ask for information they could easily get themselves. Use a light touch. The team will not be productive or happy spending half of their time gathering information for you that you could easily find yourself.
+- **Adjust your focus depending on the stage of projects.** You should know all of the details of the project status as part of your regular team process.
+- **Establish standards for code and systems.**
+- **Treat the open sharing information, good or bad in a neutral to positive way.** If you don't figure out how to let go of details, delegate, and trust your team.
 
 ### Creating a culture of continuous feedback
 
 Continuous feedback is a commitment to regularly share both positive and corrective feedback. Raise issues as they happen.
 
 Steps you can take to be great at continuous feedback:
+
 1. **Know your people.** What are their goals, strengths and weaknesses and what do they need to do to get to the next level.
 2. **Observe your people.** Good managers have an intuition for identifying talents and helping people draw more out of their strengths. Lookout for things to praise. Every week there should be at least one thing you can recognise about someone in your team.
 3. **Provide lightweight, regular feedback.** Start with positive feedback.
@@ -303,13 +304,13 @@ Your job as a manager is to gather all that feedback together and summarise it i
 
 #### Writing a performance review
 
-* **Give yourself enough time, and start early.** Spend solid, uninterrupted time working on reviews.
-* **Try to account for the whole year, not just the past couple months**. Keep a running summary of your 1-1s.
-* **Use concrete examples, and excerpts from peer reviews.** Forcing yourself to be specific will steer you away from writing reviews based on underlying bias.
-* **Spend plenty of time on accomplishments and strengths.** Celebrate achievements, talk about what's going well, and give plenty of praise for good work. Those strengths are what you'll use to determine when people should be promoted.
-* **When it comes to areas for improvement, keep it focused.** If the feedback seems valuable for the person to hear, share it, but don't just blindly report all the grudges. If you have very little feedback for improvement maybe that means the person is ready for promotion or given more challenging work.
-* **Avoid big surprises.** If someone is underperforming across the board, the review should not be his first time getting that feedback.
-* **Schedule enough time to discuss the review.** Give them a copy of the review as they're leaving on the evening before the review is scheduled. This gives them a chance to read it at home and come prepared to talk about what it says next day.
+- **Give yourself enough time, and start early.** Spend solid, uninterrupted time working on reviews.
+- **Try to account for the whole year, not just the past couple months**. Keep a running summary of your 1-1s.
+- **Use concrete examples, and excerpts from peer reviews.** Forcing yourself to be specific will steer you away from writing reviews based on underlying bias.
+- **Spend plenty of time on accomplishments and strengths.** Celebrate achievements, talk about what's going well, and give plenty of praise for good work. Those strengths are what you'll use to determine when people should be promoted.
+- **When it comes to areas for improvement, keep it focused.** If the feedback seems valuable for the person to hear, share it, but don't just blindly report all the grudges. If you have very little feedback for improvement maybe that means the person is ready for promotion or given more challenging work.
+- **Avoid big surprises.** If someone is underperforming across the board, the review should not be his first time getting that feedback.
+- **Schedule enough time to discuss the review.** Give them a copy of the review as they're leaving on the evening before the review is scheduled. This gives them a chance to read it at home and come prepared to talk about what it says next day.
 
 ### Cultivating careers
 
@@ -359,10 +360,10 @@ It's hard to make up lost time when you stop writing code, and if you do it too 
 
 ### Debugging dysfunctional teams: the basics
 
-* **Not shipping**. The trick is to learn how to balance pushing your team and holding back. Start to push for the removal of bottlenecks. When people are contending for a scarce resource, conflicts and unhappiness among team members are almost inevitable.
-* **People drama**. Make it clear that a bad behaviour has to change, bring clear examples, and provide corrective feedback quickly after things happen. The best defence is a good offence, quick actions are essential.
-* **Unhappiness due to overwork**. If overwork is due to (in)stability of the production system, it's your job as the manager to slow down the product roadmap in order to focus on stability for a while. Measures of alerts, downtime, incidents, and strive to reduce them. Dedicate 20% of your time in every planning sessions to system sustainability (technical debt). For time-critical releases you should be playing cheerleader helping out with the work yourself. Order dinner. Tell them you appreciate the hard work. Offer breaks after the push and make it as fun as you can. You should avoid it next time.
-* **Collaboration problems**. Regular touch-bases with the appropriate peers to work through issues. Gather actionable feedback from your team, and have productive conversations about possible improvements. Try to stay positive and supportive of their efforts in public. If your team isn't working well together, look into creating some opportunities for them to hang out.
+- **Not shipping**. The trick is to learn how to balance pushing your team and holding back. Start to push for the removal of bottlenecks. When people are contending for a scarce resource, conflicts and unhappiness among team members are almost inevitable.
+- **People drama**. Make it clear that a bad behaviour has to change, bring clear examples, and provide corrective feedback quickly after things happen. The best defence is a good offence, quick actions are essential.
+- **Unhappiness due to overwork**. If overwork is due to (in)stability of the production system, it's your job as the manager to slow down the product roadmap in order to focus on stability for a while. Measures of alerts, downtime, incidents, and strive to reduce them. Dedicate 20% of your time in every planning sessions to system sustainability (technical debt). For time-critical releases you should be playing cheerleader helping out with the work yourself. Order dinner. Tell them you appreciate the hard work. Offer breaks after the push and make it as fun as you can. You should avoid it next time.
+- **Collaboration problems**. Regular touch-bases with the appropriate peers to work through issues. Gather actionable feedback from your team, and have productive conversations about possible improvements. Try to stay positive and supportive of their efforts in public. If your team isn't working well together, look into creating some opportunities for them to hang out.
 
 ### Managing a former peer
 
@@ -386,24 +387,24 @@ _You are not their parent_. Your team is made up of adults who need to be treate
 
 While the product manager is responsible for the product roadmap, and the tech lead is responsible for the technical details, you are usually accountable for the team's progress.
 
-* **Create a data-driven team culture**. Get used to give to the product or business head person data about team productivity (time that takes to complete features) or data about quality measures (number of outages, bugs found, etc).
-* **Flex your own product muscles**. Taking the time to develop customer empathy is important because you'll need to give your engineers context for their work.
-* **Looking into the future**. Think two steps ahead, from a product and technology perspective. Getting a sense of where the product roadmap is going helps you guide the technical roadmap. Start asking the product team questions about the future might look like, and spend some time keeping up with technological developments that might change the way you think about the software you're writing or the way you're operating it.
-* **Review the outcome of your decisions and projects**. Review assumptions after the project is done.
-* **Run retrospectives for the processes and day-to-day**. Discuss what happened during the sprint and pick a few events, good, bad or neutral, to discuss in detail.
+- **Create a data-driven team culture**. Get used to give to the product or business head person data about team productivity (time that takes to complete features) or data about quality measures (number of outages, bugs found, etc).
+- **Flex your own product muscles**. Taking the time to develop customer empathy is important because you'll need to give your engineers context for their work.
+- **Looking into the future**. Think two steps ahead, from a product and technology perspective. Getting a sense of where the product roadmap is going helps you guide the technical roadmap. Start asking the product team questions about the future might look like, and spend some time keeping up with technological developments that might change the way you think about the software you're writing or the way you're operating it.
+- **Review the outcome of your decisions and projects**. Review assumptions after the project is done.
+- **Run retrospectives for the processes and day-to-day**. Discuss what happened during the sprint and pick a few events, good, bad or neutral, to discuss in detail.
 
 ### Good manager, bad manager: conflict avoider, conflict tamer
 
 Creating a safe environment for disagreement to work itself out is far better than pretending that all disagreement does not exist.
 
-* **Don't rely exclusively on consensus or voting**. Don't set people up for votes that you know will fail instead of taking the responsibility as a manager of delivering bad news yourself.
-* **Do set up clear processes to depersonalise decisions**. Start with a shared understanding of the goals, risks and the questions to answer before making a decision.
-* **Don't turn a blind eye to simmering issues**. Conflict avoidance manifests as an inability to address problems until they've gone on for way too long. It's probably an indication that you are not paying attention.
-* **Do address issues without courting drama**. The goal is to identify problems that are causing the team to work less effectively together and resolve them, no to become the team's therapist.
-* **Don't take it out on other teams**.
-* **Do remember to be kind**. Your goal as a manager, should not to be _nice_, it should be to be _kind_. Nice is saying "please" and "thank you". It's kind to tell someone who isn't ready for promotion that she isn't ready.
-* **Don't be afraid**.
-* **Do get curious**. Be thoughtful about your behaviour.
+- **Don't rely exclusively on consensus or voting**. Don't set people up for votes that you know will fail instead of taking the responsibility as a manager of delivering bad news yourself.
+- **Do set up clear processes to depersonalise decisions**. Start with a shared understanding of the goals, risks and the questions to answer before making a decision.
+- **Don't turn a blind eye to simmering issues**. Conflict avoidance manifests as an inability to address problems until they've gone on for way too long. It's probably an indication that you are not paying attention.
+- **Do address issues without courting drama**. The goal is to identify problems that are causing the team to work less effectively together and resolve them, no to become the team's therapist.
+- **Don't take it out on other teams**.
+- **Do remember to be kind**. Your goal as a manager, should not to be _nice_, it should be to be _kind_. Nice is saying "please" and "thank you". It's kind to tell someone who isn't ready for promotion that she isn't ready.
+- **Don't be afraid**.
+- **Do get curious**. Be thoughtful about your behaviour.
 
 ### Challenging situations: team cohesion destroyers
 
@@ -441,11 +442,11 @@ A person who simply doesn't respect you as a manager, or who doesn't respect her
 
 Some rules of thumb to keep in mind.
 
-* **None of this is a replacement for agile project management**. You are responsible for the larger picture, the accomplishments that are measured in months instead of weeks, and this is where you have to start exerting some higher-level planning.
-* **You have 10 productive engineering weeks per engineer per quarter**. Don't expect to get more than 10 weeks worth of focused effort.
-* **Budget 20% of time for generic sustaining engineering work**. Testing, debugging, cleaning up legacy code, migrating language or platform versions, and doing other work that has to happen.
-* **As you approach deadlines, it's your job to say no**. The only way to achieve this goals is to cut scope at the end of the project. Figure out what "must-haves" are not actually must-haves.
-* **Use the doubling rule for quick estimates, but push for planning to estimate longer tasks**. Whenever asked for an estimate, take your guess and double it.
+- **None of this is a replacement for agile project management**. You are responsible for the larger picture, the accomplishments that are measured in months instead of weeks, and this is where you have to start exerting some higher-level planning.
+- **You have 10 productive engineering weeks per engineer per quarter**. Don't expect to get more than 10 weeks worth of focused effort.
+- **Budget 20% of time for generic sustaining engineering work**. Testing, debugging, cleaning up legacy code, migrating language or platform versions, and doing other work that has to happen.
+- **As you approach deadlines, it's your job to say no**. The only way to achieve this goals is to cut scope at the end of the project. Figure out what "must-haves" are not actually must-haves.
+- **Use the doubling rule for quick estimates, but push for planning to estimate longer tasks**. Whenever asked for an estimate, take your guess and double it.
 
 ### Joining a small team as a manager
 
@@ -467,7 +468,6 @@ Understanding details across a couple of teams probably means one important thin
 >
 > They both create a strategic and tactical tech roadmap that tackles business needs, efficiencies and revenue, and fundamental technology innovation. They are strong communicators being able to explain technical concepts to nontechnical partners.
 
-
 It is very difficult for a person responsible for hands-on management of multiple teams to write code. Debugging and production support are also valuable. You might be more helpful doing pair programming, or fixing minor bugs or features.
 
 **You should spend the time to gain mastery of programming before moving into management.**
@@ -476,7 +476,8 @@ One of the critical parts of the job at this level: debugging team issues and ke
 
 Even if you don't program on a daily basis, it is strongly advised to code half a day per week on some creative pursuit.
 
-> ### I miss code!
+> ### I miss code
+>
 > _I miss code terribly. Is this a sign that I shouldn't be a manager?_
 >
 > There is a transition period where people question frequently whether they've made a mistake. Management is a job, it is a necessary and important job, and in particular, it's your job now.
@@ -530,11 +531,11 @@ Delegation is a process that starts slow but turns into the essential element of
 
 ### Challenging situations: strategies for saying no
 
-* **"Yes, and".** "Yes, we can do that project, and all we will need to do is delay the start of this other project that is currently on the roadmap".
-* **Create policies**. Making a policy helps your team know in advance the cost of getting to "yes".
-* **"Help me say yes"**. Means you ask questions and dig on the elements that seem so questionable to you. This line of questioning helps people come to the realisation themselves that their plan isn't a good idea.
-* **Appeal to budget**. Lay out the current workload in plain terms, and show how there is little room to maneuver. "Not right now".
-* **Don't prevaricate**. When you know that you need to say no, it's better to say it quickly that to delay and drag out the process. You'll be wrong sometimes, so when you discover that you were too quick to say no, apologise for making that mistake.
+- **"Yes, and".** "Yes, we can do that project, and all we will need to do is delay the start of this other project that is currently on the roadmap".
+- **Create policies**. Making a policy helps your team know in advance the cost of getting to "yes".
+- **"Help me say yes"**. Means you ask questions and dig on the elements that seem so questionable to you. This line of questioning helps people come to the realisation themselves that their plan isn't a good idea.
+- **Appeal to budget**. Lay out the current workload in plain terms, and show how there is little room to maneuver. "Not right now".
+- **Don't prevaricate**. When you know that you need to say no, it's better to say it quickly that to delay and drag out the process. You'll be wrong sometimes, so when you discover that you were too quick to say no, apologise for making that mistake.
 
 ### Technical elements beyond code
 
@@ -546,26 +547,26 @@ As the popular management book _First, break all the rules._
 
 Interrogate every process to determine the value it should provide, and always ask yourself if it can be automated further.
 
-* **Frequent releases**. Frequency of code change is one of the leading indicators of a healthy engineering team. Part of moving fast requires breaking work down into small chunks. As a technical leader, while you may not be writing code much, you're still responsible for the technical side of getting work done. You're also responsible for keeping your team happy and productive, and often the solution to this is not cheerleading or paying them better or praising them more. **You have to be the advocate and push for technical process improvements that can lead to increased engineer productivity, even if you're not implementing them all yourself.**
-* **Frequency of code check-ins**. The importance of breaking stuff into chunks. Engineers who don't write tests often have a harder time breaking down their work, and learning how to test-driven development can help them better at this skill.
-* **Frequency of incidents**. Determining the level of software quality you need for the product you're building and adjusting that measure over time is a technical challenge for you, the manager, to help address. Developers support code or systems they write. Incident management, when it becomes merely reacting to incidents rather than working to reduce them, can turn into a task that diminishes your team's ability to do what they do best.
+- **Frequent releases**. Frequency of code change is one of the leading indicators of a healthy engineering team. Part of moving fast requires breaking work down into small chunks. As a technical leader, while you may not be writing code much, you're still responsible for the technical side of getting work done. You're also responsible for keeping your team happy and productive, and often the solution to this is not cheerleading or paying them better or praising them more. **You have to be the advocate and push for technical process improvements that can lead to increased engineer productivity, even if you're not implementing them all yourself.**
+- **Frequency of code check-ins**. The importance of breaking stuff into chunks. Engineers who don't write tests often have a harder time breaking down their work, and learning how to test-driven development can help them better at this skill.
+- **Frequency of incidents**. Determining the level of software quality you need for the product you're building and adjusting that measure over time is a technical challenge for you, the manager, to help address. Developers support code or systems they write. Incident management, when it becomes merely reacting to incidents rather than working to reduce them, can turn into a task that diminishes your team's ability to do what they do best.
 
-### Good manager, bad manager: us versus them, team player.
+### Good manager, bad manager: us versus them, team player
 
 It can be hard for new managers to create a shared team identity. They unite the team by empathising how this identity is special as compared to other teams. Taking this too far, this identity is used to make the team feel superior to the rest of the company, and the team is more interested in its superiority than the company's goals. This attitude make the team vulnerable of many dysfunctions.
-* **Fragile to the loss of the leader**. When you hire a manager who builds a clique, that clique is likely to dissolve and leave the company if the manager leaves the company.
-* **Resistant to outside ideas**. Miss opportunities to learn and grow.
-* **Empire building**. Leaders who favour and us-versus-them style tend to be empire builders, seeking opportunities to grow their teams and their mandates without concern for what is best for the overall organisation.
-* **Inflexibility**. Struggle against changes that comes from outside the group.
+- **Fragile to the loss of the leader**. When you hire a manager who builds a clique, that clique is likely to dissolve and leave the company if the manager leaves the company.
+- **Resistant to outside ideas**. Miss opportunities to learn and grow.
+- **Empire building**. Leaders who favour and us-versus-them style tend to be empire builders, seeking opportunities to grow their teams and their mandates without concern for what is best for the overall organisation.
+- **Inflexibility**. Struggle against changes that comes from outside the group.
 
 Before you try to change everything to fit your vision, take the time to understand the company's strengths and culture. The trick is not to focus on what's broken, but to identify existing strengths and cultivate them.
 
 By creating a strong and enduring alignment between the team, its individuals, and the overall company, purpose-based binding makes teams.
 
-* **Resilient loss of individuals**.
-* **Driven to find better ways to achieve their purpose**.
-* **First-team focused**. Consider the needs of the company as a whole before focusing on the needs of their team.
-* **Open to changes that serve their purpose**.
+- **Resilient loss of individuals**.
+- **Driven to find better ways to achieve their purpose**.
+- **First-team focused**. Consider the needs of the company as a whole before focusing on the needs of their team.
+- **Open to changes that serve their purpose**.
 
 Getting clarity about the purpose of your team and your company can take time. In startups especially.
 
@@ -608,23 +609,23 @@ No one wants to add yet more meetings to their calendar. A skip-level meeting it
 It's a short 1-1 meeting, held perhaps once a quarter, between the head of an organisation and each person in that organisation. It's a personal relationship between you and everyone in your organisation. It also gives individuals time to ask you questions. Each person should come prepared to focus on what he or she is interested in talking to you about.
 
 Possible prompts for a skip-level 1-1:
-* What do you like best/worst about the project you are working on?
-* Who on your team has been doing really well recently?
-* Do you have any feedback about your manager, what's going well, what isn't?
-* What changes do you think we could make to the product?
-* Are there any opportunities you think we might be missing?
-* How do you think the organisation is doing overall? Anything we could be doing better/more/less?
-* Are there any areas of the business strategy you don't understand?
-* What's keeping you from doing your best work right now?
-* How (un)happy are you working at the company?
-* What could we do to make working at the company more fun?
+- What do you like best/worst about the project you are working on?
+- Who on your team has been doing really well recently?
+- Do you have any feedback about your manager, what's going well, what isn't?
+- What changes do you think we could make to the product?
+- Are there any opportunities you think we might be missing?
+- How do you think the organisation is doing overall? Anything we could be doing better/more/less?
+- Are there any areas of the business strategy you don't understand?
+- What's keeping you from doing your best work right now?
+- How (un)happy are you working at the company?
+- What could we do to make working at the company more fun?
 
 If you have a larger organisation, there are other ways to get skip-level time. Like holding lunches with whole teams a couple of times a quarter for each team.
 
 However, people act differently in group scenarios. It is a good opportunity to get a sense for where the team believed their focus needed to be. Some questions that can be used to draw out information:
-* What can I, your manager's manager, provide for you or your team? Anything I should be helping with?
-* Is this team working poorly with any other teams, from your perspective?
-* Are there any questions I can answer?
+- What can I, your manager's manager, provide for you or your team? Anything I should be helping with?
+- Is this team working poorly with any other teams, from your perspective?
+- Are there any questions I can answer?
 
 Skip-level lunches provide familiarity, which in turn generates more willingness for people to come to you.
 
@@ -649,13 +650,13 @@ You'll need to help your managers, sometimes they won't have the energy to push 
 ### Good manager, bad manager: the people pleaser
 
 The people pleaser has deep aversion to ever directly making people he cares about unhappy. If you're in the group that he cares, he'll always say yes. People pleasers often burn themselves out.
-* Her team loves her as a person but is increasingly frustrated with her as a manager.
-* He's more interested in a team that runs smoothly and avoids mistakes than really become excellent.
-* When she is feeling bad, she wears it on her face, and the whole team lose confidence.
-* He never pushes back work.
-* She overpromises and underdelivers.
-* He says yes to everyone and sends contradictory messages.
-* She seems to know about all of the problems, but hasn't directly addressed any of them.
+- Her team loves her as a person but is increasingly frustrated with her as a manager.
+- He's more interested in a team that runs smoothly and avoids mistakes than really become excellent.
+- When she is feeling bad, she wears it on her face, and the whole team lose confidence.
+- He never pushes back work.
+- She overpromises and underdelivers.
+- He says yes to everyone and sends contradictory messages.
+- She seems to know about all of the problems, but hasn't directly addressed any of them.
 
 The _therapist_ people pleaser can inspire huge loyalty, but unfortunately this can mean he amplifies drama and negativity, and disappoints his team by making promises that he cannot possibly keep.
 
@@ -715,7 +716,6 @@ To check for cultural fit, you need first to understand the values of the compan
 
 Most new hires act in self-interest until they get to know their colleagues, and then they move into group interest.
 
-
 **Critical elements to hiring a new managers: the reference check.** Ask the references to describe the ways the person succeeds as well as the ways she fails. Ask them if they would work with or for this person again.
 
 > #### Managing outside your skill set
@@ -730,14 +730,13 @@ The best engineering managers are often great debuggers. They are relentless in 
 
 Managing teams is a series of complex black boxes interacting with other black boxes. When the outputs aren't as expected, figuring out _why_ requires trying to open them up and see what's going on inside.
 
-* **Have a hypothesis**. You need a reasonable hypothesis that explains how the system got into the failed state.
-* **Check the data**. Look at the team chats and emails, look at the tickets, look at the repository code reviews and check-ins. What do you see? Look at their calendars.
-* **Observe the team**. Now is the time to start doing some potentially destructive investigations. Sit in their meetings. Boring meeting are a sign. They may be a sign of inefficient planning on the part of the organisers. Good meetings have heavy discussion element, where opinions and ideas are drawn out of the team. Be aware, the act of observing changes the outcome, or rather, causes an outcome to happen. Your presence might provoke hiding the problem you're trying to find.
-* **Ask questions**. Ask the team what their goals are. If they don't understand the goals of their work, their leaders aren't doing a good job engaging the team in the purpose of the work.
-* **Check the team dynamics**. Very professional groups tend to have a degree of personal connection between the members. **A bunch of people who never talk to each other and are always working on independent projects are not really working as a team.**
-* **Jump into help**. It's OK to jump in and help debug team issues as you see them, particularly when the manager in question is struggling. It can be an opportunity to teach the manager and help him grow.
-* **Be curious**. We get better at debugging by doing it often. We become better leaders by pushing ourselves and our management teams to really get into the bottom of the organisational issues.
-
+- **Have a hypothesis**. You need a reasonable hypothesis that explains how the system got into the failed state.
+- **Check the data**. Look at the team chats and emails, look at the tickets, look at the repository code reviews and check-ins. What do you see? Look at their calendars.
+- **Observe the team**. Now is the time to start doing some potentially destructive investigations. Sit in their meetings. Boring meeting are a sign. They may be a sign of inefficient planning on the part of the organisers. Good meetings have heavy discussion element, where opinions and ideas are drawn out of the team. Be aware, the act of observing changes the outcome, or rather, causes an outcome to happen. Your presence might provoke hiding the problem you're trying to find.
+- **Ask questions**. Ask the team what their goals are. If they don't understand the goals of their work, their leaders aren't doing a good job engaging the team in the purpose of the work.
+- **Check the team dynamics**. Very professional groups tend to have a degree of personal connection between the members. **A bunch of people who never talk to each other and are always working on independent projects are not really working as a team.**
+- **Jump into help**. It's OK to jump in and help debug team issues as you see them, particularly when the manager in question is struggling. It can be an opportunity to teach the manager and help him grow.
+- **Be curious**. We get better at debugging by doing it often. We become better leaders by pushing ourselves and our management teams to really get into the bottom of the organisational issues.
 
 ### Setting expectations and delivering on schedule
 
@@ -756,11 +755,11 @@ Don't be afraid to cut scope toward the end of the project in order to make impo
 ### Challenging situations: roadmap uncertainty
 
 Challenge of changing product and business roadmaps. There are a few strategies about building a roadmap:
-* **Be realistic about the likelihood of changing plans given the size and stage of the company you work for**.
-* **Think about how to break down big projects into a series of smaller deliverables so that you can achieve e some of the results, even if you don't necessarily complete the grand vision.** Everything must be repeatedly re-examined with an eye toward what's the most valuable right now.
-* **Don't overpromise a future of technical projects**. This kind of thinking will get hopes up and then disappoint.
-* **Dedicate 20% of your team's schedule to "sustaining engineering"**. Refactoring, bugs, improving engineering processes, doing minor cleanups, and providing support.
-* **Understand how important engineering projects really are**.
+- **Be realistic about the likelihood of changing plans given the size and stage of the company you work for**.
+- **Think about how to break down big projects into a series of smaller deliverables so that you can achieve e some of the results, even if you don't necessarily complete the grand vision.** Everything must be repeatedly re-examined with an eye toward what's the most valuable right now.
+- **Don't overpromise a future of technical projects**. This kind of thinking will get hopes up and then disappoint.
+- **Dedicate 20% of your team's schedule to "sustaining engineering"**. Refactoring, bugs, improving engineering processes, doing minor cleanups, and providing support.
+- **Understand how important engineering projects really are**.
 
 Treat big technical projects the same way as product initiatives. **Gather data to support yourself, and talk about what will be possible when the work is done.** Pick your battles.
 
@@ -768,17 +767,17 @@ Teams may even be disbanded or moved around in ways you don't understand or agre
 
 ### Staying technically relevant
 
-* **Oversee technical investment**. You're accountable for making sure the team is placing its technical best in the right places. You can see where the ares of greatest need or opportunity lie.
-* **Ask informed questions**. Having accountability doesn't mean that you personally do the research to find potential investments. You guide these investments by asking questions. You need to know enough about the work to sniff our misguided efforts and evaluate proposed investments.
-* **Analise and explain engineering and business tradeoffs**. Understanding the business and customer goals, you offer guidance as to which technical projects can achieve those goals within reasonable time frames.
-* **Make specific requests**. You still need to have enough understanding of the technology in your organisation to make specific requests without distracting the senior engineers with questions. **Managers who don't stay technical enough relay these questions on the team, and then relay the team's response back up to management. This is not value-add role.**
-* **Use your experience as a gut check**. Rely on your instincts to guide where you spend your time and attention. So, how should you invest your time to stay technically relevant?
-  * **Read code**. Looking over code reviews and pull requests can give you insight into changes that are happening.
-  * **Pick an unknown area, and ask an engineer to explain it to you.** Have him pair with you on a small change.
-  * **Attend postmortems**. In times of failure you can most clearly see where problems have built up.
-  * **Keep up with industry trends in software development process**. Make time to learn about how other teams deliver software.
-  * **Foster a network of technical people outside your company**.
-  * **Never stop learning**.
+- **Oversee technical investment**. You're accountable for making sure the team is placing its technical best in the right places. You can see where the ares of greatest need or opportunity lie.
+- **Ask informed questions**. Having accountability doesn't mean that you personally do the research to find potential investments. You guide these investments by asking questions. You need to know enough about the work to sniff our misguided efforts and evaluate proposed investments.
+- **Analise and explain engineering and business tradeoffs**. Understanding the business and customer goals, you offer guidance as to which technical projects can achieve those goals within reasonable time frames.
+- **Make specific requests**. You still need to have enough understanding of the technology in your organisation to make specific requests without distracting the senior engineers with questions. **Managers who don't stay technical enough relay these questions on the team, and then relay the team's response back up to management. This is not value-add role.**
+- **Use your experience as a gut check**. Rely on your instincts to guide where you spend your time and attention. So, how should you invest your time to stay technically relevant?
+  - **Read code**. Looking over code reviews and pull requests can give you insight into changes that are happening.
+  - **Pick an unknown area, and ask an engineer to explain it to you.** Have him pair with you on a small change.
+  - **Attend postmortems**. In times of failure you can most clearly see where problems have built up.
+  - **Keep up with industry trends in software development process**. Make time to learn about how other teams deliver software.
+  - **Foster a network of technical people outside your company**.
+  - **Never stop learning**.
 
 ## The big leagues
 
@@ -797,10 +796,10 @@ You understand how to disagree with a decision and commit to deliver on it.
 You know how to hold individuals and organisations accountable for their output.
 
 The book _High Output Management_, breaks down management tasks into four categories:
-* Information gathering or information sharing: synthesising large quantities of information quickly, sharing information with 3rd parties in a way they would understand.
-* Nudging: Reminding people of their commitments by asking questions instead of giving orders.
-* Decision making: Taking conflicting perspectives and incomplete information and setting direction.
-* Role modelling: Showing people what the values of the company are. Showing up for your own commitments. Setting the best example for the team even when you don't feel like it.
+- Information gathering or information sharing: synthesising large quantities of information quickly, sharing information with 3rd parties in a way they would understand.
+- Nudging: Reminding people of their commitments by asking questions instead of giving orders.
+- Decision making: Taking conflicting perspectives and incomplete information and setting direction.
+- Role modelling: Showing people what the values of the company are. Showing up for your own commitments. Setting the best example for the team even when you don't feel like it.
 
 > My job wasn't to be the smartest person in the room. It wasn't to be "right", my role was to help the team make the best possible decisions and help them implement them in a sustainable and efficient way.
 
@@ -852,31 +851,33 @@ The larger the organisation, the harder it'll be to change priorities quickly. K
 
 Strategy as a critical element, setting strategy looks like
 
-* **Do a lot of research.*** The technology we had currently built, the pain points. Where the expected growth will come from the future. What are the scaling challenges right now, and where they might be in the future. What are the current productivity bottlenecks.
-* **Combine your research and your ideas.** Draw out the systems in place at your company, slice and dice the systems and teams across various common attributes. Get insights on the way data flows and changes, and possible axes for evolution.
-* **Draft a strategy.** Actionable ideas to improve operational efficiency, expand features and grow the business. Consider the structure of the business, the needs of the customer and possible future evolutions. Develop a technology strategy that supports these factors into the future.
-* **Consider your board's communication style.**
-  * In an underdeveloped strategic plan, the system and architectural details offer very few forward-thinking ideas beyond the next 6 to 12 months. It's not uncommon for company boards to read through the slide deck before a meeting, so that the meetings can be focused more on the details on presentations.
-  * A good technology strategy means good technology architecture, team structure, underpinnings of the business and the directions in which it was header. Potential futures of the business. Anticipates and enables future growth.
+- **Do a lot of research.*** The technology we had currently built, the pain points. Where the expected growth will come from the future. What are the scaling challenges right now, and where they might be in the future. What are the current productivity bottlenecks.
+- **Combine your research and your ideas.** Draw out the systems in place at your company, slice and dice the systems and teams across various common attributes. Get insights on the way data flows and changes, and possible axes for evolution.
+- **Draft a strategy.** Actionable ideas to improve operational efficiency, expand features and grow the business. Consider the structure of the business, the needs of the customer and possible future evolutions. Develop a technology strategy that supports these factors into the future.
+- **Consider your board's communication style.**
+  - In an underdeveloped strategic plan, the system and architectural details offer very few forward-thinking ideas beyond the next 6 to 12 months. It's not uncommon for company boards to read through the slide deck before a meeting, so that the meetings can be focused more on the details on presentations.
+  - A good technology strategy means good technology architecture, team structure, underpinnings of the business and the directions in which it was header. Potential futures of the business. Anticipates and enables future growth.
 
 ### Challenging bad situations: delivering bad news
 
 You'll need to excel at communicating sensitive information to large groups
-* **Don't blast an impersonal message to a large group.** The worst way to communicate bad news is via impersonal mediums like email and chat. Your team deserves to hear the message coming from your mouth directly. The second-worst way to deliver a message is with all them in a room at once.
-* **Do talk to individuals as much as possible.** Try your best to talk to people individually about the news.
-* **Don't force yourself to deliver a message you can't stand behind.** You might need to have someone else help you deliver it.
-* **Do be honest about the likely outcomes.** Being forthright with people will help them trust you and tolerate unhappy news well.
-* **Do think about how you would like to be told.**
+- **Don't blast an impersonal message to a large group.** The worst way to communicate bad news is via impersonal mediums like email and chat. Your team deserves to hear the message coming from your mouth directly. The second-worst way to deliver a message is with all them in a room at once.
+- **Do talk to individuals as much as possible.** Try your best to talk to people individually about the news.
+- **Don't force yourself to deliver a message you can't stand behind.** You might need to have someone else help you deliver it.
+- **Do be honest about the likely outcomes.** Being forthright with people will help them trust you and tolerate unhappy news well.
+- **Do think about how you would like to be told.**
 
 > #### I have a nontechnical boss
+>
 > Reporting to a nontechnical manager can be a total culture clash.
-> * Don't hide information behind jargon, and be careful with details
-> * Expect that you will need to run your 1-1s with your new boss, so come prepared with a list of topics.
-> * Try to bring solutions, not problems to be solved. Don't shy away from delivering bad news.
-> * Ask for advice. Nothing shows respect like asking for someone's advice.
-> * Don't be afraid to repeat yourself.
-> * Be supportive. Show that you are there to support.
-> * Actively look for coaching and skill development in other places. Get a coach, ask for training, and create a peer group outside of the company.
+>
+> - Don't hide information behind jargon, and be careful with details
+> - Expect that you will need to run your 1-1s with your new boss, so come prepared with a list of topics.
+> - Try to bring solutions, not problems to be solved. Don't shy away from delivering bad news.
+> - Ask for advice. Nothing shows respect like asking for someone's advice.
+> - Don't be afraid to repeat yourself.
+> - Be supportive. Show that you are there to support.
+> - Actively look for coaching and skill development in other places. Get a coach, ask for training, and create a peer group outside of the company.
 
 ### Senior peers in other functions
 
@@ -912,22 +913,22 @@ _Care more_ about people as individuals. Take time to get to know as many people
 
 #### Correcting a culture of fear
 
-* **Practice relatedness.** Getting to know your team as people or let them know you as a person. If you want a team that feels comfortable taking risks and making mistakes, one of the core requirements is a sense of belonging and safety. This means you need to take little time to small talk.
-* **Apologise.** When you screw up, apologise. You're showing the team that apologising doesn't make you weaker, it makes the whole team stronger.
-* **Get curious.** When you disagree with something, stop to ask why. Attacking something we disagree with makes that harder. Learn how to turn that disagreement into honest questioning.
-* **Learn how to hold people accountable without making them bad.** How do you measure success? Does the team have the capabilities needed to succeed? Are you providing feedback along the way?
+- **Practice relatedness.** Getting to know your team as people or let them know you as a person. If you want a team that feels comfortable taking risks and making mistakes, one of the core requirements is a sense of belonging and safety. This means you need to take little time to small talk.
+- **Apologise.** When you screw up, apologise. You're showing the team that apologising doesn't make you weaker, it makes the whole team stronger.
+- **Get curious.** When you disagree with something, stop to ask why. Attacking something we disagree with makes that harder. Learn how to turn that disagreement into honest questioning.
+- **Learn how to hold people accountable without making them bad.** How do you measure success? Does the team have the capabilities needed to succeed? Are you providing feedback along the way?
 
 ### True north
 
 The role played by a senior leader of a functional area (CTO, CFO, etc.), sets the baseline of what excellence looks like in this function (_"True North"_).
 
 A way of exploring the True North in technology is by looking through the lenses of risk analysis. Things like:
-* Having a single point of failure.
-* Having known bugs and issues.
-* Being unable to tolerate high load.
-* Losing data.
-* Putting out code that is undertested.
-* Having slow performance.
+- Having a single point of failure.
+- Having known bugs and issues.
+- Being unable to tolerate high load.
+- Losing data.
+- Putting out code that is undertested.
+- Having slow performance.
 
 True North helps us understand that all these issues must be carefully considered. Just because these rules have exceptions doesn't mean we forget that they exist. True North is the guiding instinct that we as leaders have developed over time
 
@@ -952,10 +953,10 @@ The important thing for leaders to be willing to do in those early days is to pi
 Sometimes companies decide to limit the decisions themselves, as in organisation that forgoes titles. Deciding not to decide right now is a popular option for new companies, because it really doesn't matter at the scale of a few people.
 
 **Pretending to lack structure tends to create hidden power structures.** In [The Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm) Jo Freeman describes a set of circumstances in which the unstructured group can work:
-* It is task oriented. It is the task that basically structures the group.
-* It is relatively small and homogeneous. Homogeneity is necessary to insure that participants have a "common language" for interaction.
-* There is high degree of communication. Information must be passed on to everyone.
-* There is a low degree of skill specialisation. Everything must be able to be done by more than one person. People become interchangeable parts.
+- It is task oriented. It is the task that basically structures the group.
+- It is relatively small and homogeneous. Homogeneity is necessary to insure that participants have a "common language" for interaction.
+- There is high degree of communication. Information must be passed on to everyone.
+- There is a low degree of skill specialisation. Everything must be able to be done by more than one person. People become interchangeable parts.
 
 **When work is done to satisfy an immediate task, in a unified code base worked on by a team of interchangeables, the result is not usually a larger thoughtful structure, but a tweak here, a hack there.** We usually end up refactoring the code to make it scalable, this involves identifying and explicitly drawing out structure in order to make code base easier to read and work in.
 
@@ -965,10 +966,10 @@ The earliest startup is like a driving car. As you grow, you graduate to a comme
 
 ### Assessing your role
 
-* **People.** Leaders who want a high degree of control over their organisation tend to need more structure in place to make sure their wishes are enacted.
-* **Age.** The longer a company is around, the more habits become entrenched. The longer the company has been around, the more likely it is to continue to survive.
-* **Size of existing infrastructure.** If you have few established business rules and little code or physical infrastructure, there is less need for structure. The more existing business rules and infrastructure you have, the more you'll need clarity on how to handle them.
-* **Risk tolerance.** Your structures and process should reflect this.
+- **People.** Leaders who want a high degree of control over their organisation tend to need more structure in place to make sure their wishes are enacted.
+- **Age.** The longer a company is around, the more habits become entrenched. The longer the company has been around, the more likely it is to continue to survive.
+- **Size of existing infrastructure.** If you have few established business rules and little code or physical infrastructure, there is less need for structure. The more existing business rules and infrastructure you have, the more you'll need clarity on how to handle them.
+- **Risk tolerance.** Your structures and process should reflect this.
 
 When failures occur, examine all aspects of reality that are contributing to those failures. The patterns you see are opportunities to evolve your structure, either by creating more or different structure or removing it. **Using failure to guide evolution lets you apply structure at the right level. Success is often a poor teacher.** If you want to learn from success, make sure you can identify the actually improvement you're seeking.
 
@@ -1004,22 +1005,22 @@ Getting started on these documents from scratch is hard. Fortunately there are f
 
 ### Writing a career ladder
 
-* **Solicit participation from your team.** Enlist the support for senior managers and engineers on the team to provide feedback and details.
-* **Look for examples.** Examples of ladders from friends at other companies to help provide some ideas for the details.
-* **Be detailed.** You want something that is inspirational and descriptive but that matches your company.
-* **Use both long-form descriptions and summaries.**
-* **Consider how the ladder relates to salary.**
-* **Provide many early opportunities for advancement.** You may want to be able to promote someone every year for the first two to three years of her career. Create several levels that encompass the role of _software engineer_.
-* **Use narrow salary bands for early-career stages.** Lots of levels and narrow salary bands mean that you can promote people quickly.
-* **Use wide salary bands when and where you have fewer levels.** You want those salary bands to overlap. Software engineer band may go $50-100K, and a senior software engineer band might go $80-150K. This is meant to retain talent who are performing well at their current levels. This also also allows you to hire people who are on the fence into the lower level with the expectation that they will be promoted quickly.
-* **Consider your breakpoint levels.** Lack of advancement means that the person has not achieved the maturity of independence needed to remain at the company. For many companies, it's somewhere around senior engineer. Someone who's made it this far is a solid team member. You may even want to use it as a the point at which your ladder levels get harder to achieve.
-* **Recognise achievement.** Celebrate and share keystone promotions.
-* **Split management and technical tracks.** You do not want people to feel that the only path to advancement is by managing people, because not everyone is suited to that role.
-* **Consider making people management skills a mid-career requirement.** Consider making leadership experience (tech lead) a requirement for promotion to senior individual contribution levels.
-* **Years of experience.** Distinguish the keystone levels by an expectation of maturity increase, and these tend to correspond with years of experience.
-* **Don't be afraid to evolve over time.** A ladder is a living document that will need to evolve as your company grows.
+- **Solicit participation from your team.** Enlist the support for senior managers and engineers on the team to provide feedback and details.
+- **Look for examples.** Examples of ladders from friends at other companies to help provide some ideas for the details.
+- **Be detailed.** You want something that is inspirational and descriptive but that matches your company.
+- **Use both long-form descriptions and summaries.**
+- **Consider how the ladder relates to salary.**
+- **Provide many early opportunities for advancement.** You may want to be able to promote someone every year for the first two to three years of her career. Create several levels that encompass the role of _software engineer_.
+- **Use narrow salary bands for early-career stages.** Lots of levels and narrow salary bands mean that you can promote people quickly.
+- **Use wide salary bands when and where you have fewer levels.** You want those salary bands to overlap. Software engineer band may go $50-100K, and a senior software engineer band might go $80-150K. This is meant to retain talent who are performing well at their current levels. This also also allows you to hire people who are on the fence into the lower level with the expectation that they will be promoted quickly.
+- **Consider your breakpoint levels.** Lack of advancement means that the person has not achieved the maturity of independence needed to remain at the company. For many companies, it's somewhere around senior engineer. Someone who's made it this far is a solid team member. You may even want to use it as a the point at which your ladder levels get harder to achieve.
+- **Recognise achievement.** Celebrate and share keystone promotions.
+- **Split management and technical tracks.** You do not want people to feel that the only path to advancement is by managing people, because not everyone is suited to that role.
+- **Consider making people management skills a mid-career requirement.** Consider making leadership experience (tech lead) a requirement for promotion to senior individual contribution levels.
+- **Years of experience.** Distinguish the keystone levels by an expectation of maturity increase, and these tend to correspond with years of experience.
+- **Don't be afraid to evolve over time.** A ladder is a living document that will need to evolve as your company grows.
 
-(Rent the Runaway Ladder](https://dresscode.renttherunway.com/blog/ladder).
+(Rent the Runaway Ladder](<https://dresscode.renttherunway.com/blog/ladder>).
 
 ### Cross-functional teams
 
@@ -1058,25 +1059,25 @@ Without any process, your teams will struggle to scale. With the wrong process, 
 #### Code review
 
 You want the process to be straightforward and efficient:
-* **Be clear about code review expectations.** Code review is largely a socialisation exercise, so that multiple team members have seen and are aware of the changed code.
-* **Use a linter for style issues.**
-* **Keep an eye on the review backlog.** Limit how many outstanding review requests a person can have assigned to him.
+- **Be clear about code review expectations.** Code review is largely a socialisation exercise, so that multiple team members have seen and are aware of the changed code.
+- **Use a linter for style issues.**
+- **Keep an eye on the review backlog.** Limit how many outstanding review requests a person can have assigned to him.
 
 #### The outage postmortem
 
-* **Resist the urge to point fingers and blame.**
-* **Look at the circumstances around the incident and understand the context of the events.** Understand and identify the factors that contributed to this incident.
-* **Be realistic about which takeaways are important and which are worth dropping.** Pick the one or two that are truly high-risk and highly likely to cause future problems, and acknowledge the ones that you are going to let go for now.
+- **Resist the urge to point fingers and blame.**
+- **Look at the circumstances around the incident and understand the context of the events.** Understand and identify the factors that contributed to this incident.
+- **Be realistic about which takeaways are important and which are worth dropping.** Pick the one or two that are truly high-risk and highly likely to cause future problems, and acknowledge the ones that you are going to let go for now.
 
 #### Architecture review
 
 The goal of architecture review is to help socialise big changes to the appropriate group, and to make the risks for those changes clear.
-* How many people on the team are comfortable using this new system/writing this new language?
-* Do you have production standards in place for this new thing?
-* What is the process for rolling this out and training people to use it?
-* Are there new operational considerations for using this?
+- How many people on the team are comfortable using this new system/writing this new language?
+- Do you have production standards in place for this new thing?
+- What is the process for rolling this out and training people to use it?
+- Are there new operational considerations for using this?
 
 Some guidelines:
-* **Be specific about the kinds of changes that need architecture review.** Usually these include new languages, new frameworks, new storage systems, and new developer tooling.
-* **The value of architecture review is in preparing for the review.** It forces people to think about why they want to make these changes. It make people aware of the risks that they may not have considered.
-* **Choose the review board wisely.** The scope of the deciding group is best kept to the people who will be closely impacted by the decision.
+- **Be specific about the kinds of changes that need architecture review.** Usually these include new languages, new frameworks, new storage systems, and new developer tooling.
+- **The value of architecture review is in preparing for the review.** It forces people to think about why they want to make these changes. It make people aware of the risks that they may not have considered.
+- **Choose the review board wisely.** The scope of the deciding group is best kept to the people who will be closely impacted by the decision.
