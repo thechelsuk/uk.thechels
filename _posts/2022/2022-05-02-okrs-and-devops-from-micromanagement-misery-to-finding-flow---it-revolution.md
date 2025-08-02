@@ -3,7 +3,7 @@
 layout: post
 date: 2022-05-02
 link: https://itrevolution.com/okrs-from-micromanagement-misery-to-finding-flow/
-title: OKRs and DevOps: From Micromanagement to Finding Flow
+title: OKRs and DevOps - From Micromanagement to Finding Flow
 cited: IT Revolution
 
 ---

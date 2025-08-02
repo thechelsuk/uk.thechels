@@ -2,7 +2,7 @@
 
 layout: post
 date: 2025-02-23
-title: The Phoenix Project: DevOps Transformation Guide
+title: The Phoenix Project - DevOps Transformation Guide
 
 ---
 
