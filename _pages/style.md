@@ -27,8 +27,6 @@ Use the following markdown syntax to create headings:
 
 Example:
 
-# Heading 1
-
 ## Heading 2
 
 ### Heading 3

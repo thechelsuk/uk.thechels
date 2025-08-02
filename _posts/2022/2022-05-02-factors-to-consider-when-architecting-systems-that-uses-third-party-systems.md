@@ -9,7 +9,7 @@ cited: Shekhar Gulati
 ---
 
 > important factors you should consider when architecting systems that are powered by third-party systems. The factors I detail are:
-
+>
 > - deployment model
 > - technology coherence
 > - NFRs and SLAs

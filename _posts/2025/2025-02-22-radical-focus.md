@@ -217,8 +217,7 @@ Being able to quickly recite the business logic behind a feature and its positio
 4. **LIst any risks or blockers.** Things you can't solve yourself. Do _not_ play the blame game. List anything you know tof that could keep you from accomplishing what you set out to do.
 5. **Notes.** Anything that doesn't fit in these categories.
 
-    ```
-    To: exec-team@example.com
+    To: exec-team@ example.com
     Subject: Week of 10/15/2020
     Body:
 
@@ -241,7 +240,6 @@ Being able to quickly recite the business logic behind a feature and its positio
     NOTES
     Anyone know the procurement VP at Johnson Supplies?
     Also, lmk if you want to sit in on usability! It's good for your soul, y'know....
-    ```
 
 This format also fixes another key challenge large organisations face: coordination.
 

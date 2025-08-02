@@ -1,4 +1,4 @@
-```---
+---
 layout: pages
 title: Daily Rundown - Personal Briefing and Updates
 permalink: /daily

@@ -6,7 +6,7 @@ title: Zettelkasten - Personal Knowledge Management System
 
 ---
 
-**What is it?**
+## What is it?
 
 Build a living web of ideas--not a filing cabinet (he says, using an emoji of a filing cabinet).
 
@@ -18,7 +18,7 @@ Instead of taking notes you never revisit, Zettelkasten helps you:
 
 You know those non-profit leaders who always seem to have a killer blogpost at their fingertips, no matter the situation? This is how they're doing it.
 
-**How it works**
+## How it works
 
 1. Take atomic notes: When you read something interesting, distil the key insight in your own words (no copypasta). Each note should be one idea, one note--no long summaries.
 

@@ -210,19 +210,19 @@ DevOps is the outcome of applying Lean principles to IT value stream. These prin
 
 ## The three ways
 
-### The First Way
+### The First Way 1
 
 Is about the left-to-right flow of work from Development to IT Operations to the customer. In order to maximise flow, we need small batch sizes and intervals of work, never passing defects to downstream work centres, and to constantly optimise the global goals.
 
 The practices include: Continuous build, integration, and deployment, creating environments on demand, limiting work in progress, and building safe systems and organisations that are safe to change.
 
-### The Second Way
+### The Second Way 2
 
 Is about constant flow of fast feedback from right-to-left at all stages of the value stream, amplifying it to ensure that we can prevent problems from happening again or enable faster detection and recovery. By doing this, we create quality at the source, creating or embedding knowledge where we need it.
 
 The practices include: "Stopping the production line" when our builds and tests fail, elevating the improvement of daily work over daily work; creating fast automated test suites to ensure that code is always potentially deployable creating shared goals and shared pain between Development and IT Operations; and creating pervasive production telemetry so that everyone can see whether code and environments are operating as designed and the customer goals are being met.
 
-### The Third Way
+### The Third Way 3
 
 Is about creating a culture that fosters two things: continual experimentation, which requires taking risks and learning from success and failure, and understanding that repetition and practice is the prerequisite to mastery.
 

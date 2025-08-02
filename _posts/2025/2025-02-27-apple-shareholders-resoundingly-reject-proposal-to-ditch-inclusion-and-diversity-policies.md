@@ -9,5 +9,5 @@ cited: John Gruber
 ---
 
 > After a brief presentation about the anti-DEI proposal, Apple announced shareholders had rejected it. In a regulatory filing submitted Tuesday evening, Apple disclosed that 97% of the ballots cast were votes against the measure.
-
+>
 > APPLE SHOULD GET RID OF DEI RULES, NOT JUST MAKE ADJUSTMENTS TO THEM. DEI WAS A HOAX THAT HAS BEEN VERY BAD FOR OUR COUNTRY. DEI IS GONE!!!  - Trump

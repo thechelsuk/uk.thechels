@@ -6,7 +6,7 @@ title: Bond Shopping - MI6 Q's Lab Equipment Adventure
 
 ---
 
-_Scene 1: MI6 Headquarters - Q's Lab_
+## Scene 1: MI6 Headquarters - Q's Lab
 
 James Bond enters Q's lab, where Q is working on a new gadget.
 
