@@ -214,6 +214,7 @@ Processes must meet the needs of the team and the work.
 Your team is only as healthy as its individuals.
 
 The main tasks required to manage people:
+
 - Taking on a new report
 - Holding regular 1-1s
 - Giving feedback on career growth, progression toward goals, areas for improvement and praise as warranted
@@ -554,6 +555,7 @@ Interrogate every process to determine the value it should provide, and always a
 ### Good manager, bad manager: us versus them, team player
 
 It can be hard for new managers to create a shared team identity. They unite the team by empathising how this identity is special as compared to other teams. Taking this too far, this identity is used to make the team feel superior to the rest of the company, and the team is more interested in its superiority than the company's goals. This attitude make the team vulnerable of many dysfunctions.
+
 - **Fragile to the loss of the leader**. When you hire a manager who builds a clique, that clique is likely to dissolve and leave the company if the manager leaves the company.
 - **Resistant to outside ideas**. Miss opportunities to learn and grow.
 - **Empire building**. Leaders who favour and us-versus-them style tend to be empire builders, seeking opportunities to grow their teams and their mandates without concern for what is best for the overall organisation.
@@ -609,6 +611,7 @@ No one wants to add yet more meetings to their calendar. A skip-level meeting it
 It's a short 1-1 meeting, held perhaps once a quarter, between the head of an organisation and each person in that organisation. It's a personal relationship between you and everyone in your organisation. It also gives individuals time to ask you questions. Each person should come prepared to focus on what he or she is interested in talking to you about.
 
 Possible prompts for a skip-level 1-1:
+
 - What do you like best/worst about the project you are working on?
 - Who on your team has been doing really well recently?
 - Do you have any feedback about your manager, what's going well, what isn't?
@@ -623,6 +626,7 @@ Possible prompts for a skip-level 1-1:
 If you have a larger organisation, there are other ways to get skip-level time. Like holding lunches with whole teams a couple of times a quarter for each team.
 
 However, people act differently in group scenarios. It is a good opportunity to get a sense for where the team believed their focus needed to be. Some questions that can be used to draw out information:
+
 - What can I, your manager's manager, provide for you or your team? Anything I should be helping with?
 - Is this team working poorly with any other teams, from your perspective?
 - Are there any questions I can answer?
@@ -650,6 +654,7 @@ You'll need to help your managers, sometimes they won't have the energy to push 
 ### Good manager, bad manager: the people pleaser
 
 The people pleaser has deep aversion to ever directly making people he cares about unhappy. If you're in the group that he cares, he'll always say yes. People pleasers often burn themselves out.
+
 - Her team loves her as a person but is increasingly frustrated with her as a manager.
 - He's more interested in a team that runs smoothly and avoids mistakes than really become excellent.
 - When she is feeling bad, she wears it on her face, and the whole team lose confidence.
@@ -755,6 +760,7 @@ Don't be afraid to cut scope toward the end of the project in order to make impo
 ### Challenging situations: roadmap uncertainty
 
 Challenge of changing product and business roadmaps. There are a few strategies about building a roadmap:
+
 - **Be realistic about the likelihood of changing plans given the size and stage of the company you work for**.
 - **Think about how to break down big projects into a series of smaller deliverables so that you can achieve e some of the results, even if you don't necessarily complete the grand vision.** Everything must be repeatedly re-examined with an eye toward what's the most valuable right now.
 - **Don't overpromise a future of technical projects**. This kind of thinking will get hopes up and then disappoint.
@@ -796,6 +802,7 @@ You understand how to disagree with a decision and commit to deliver on it.
 You know how to hold individuals and organisations accountable for their output.
 
 The book _High Output Management_, breaks down management tasks into four categories:
+
 - Information gathering or information sharing: synthesising large quantities of information quickly, sharing information with 3rd parties in a way they would understand.
 - Nudging: Reminding people of their commitments by asking questions instead of giving orders.
 - Decision making: Taking conflicting perspectives and incomplete information and setting direction.
@@ -861,6 +868,7 @@ Strategy as a critical element, setting strategy looks like
 ### Challenging bad situations: delivering bad news
 
 You'll need to excel at communicating sensitive information to large groups
+
 - **Don't blast an impersonal message to a large group.** The worst way to communicate bad news is via impersonal mediums like email and chat. Your team deserves to hear the message coming from your mouth directly. The second-worst way to deliver a message is with all them in a room at once.
 - **Do talk to individuals as much as possible.** Try your best to talk to people individually about the news.
 - **Don't force yourself to deliver a message you can't stand behind.** You might need to have someone else help you deliver it.
@@ -923,6 +931,7 @@ _Care more_ about people as individuals. Take time to get to know as many people
 The role played by a senior leader of a functional area (CTO, CFO, etc.), sets the baseline of what excellence looks like in this function (_"True North"_).
 
 A way of exploring the True North in technology is by looking through the lenses of risk analysis. Things like:
+
 - Having a single point of failure.
 - Having known bugs and issues.
 - Being unable to tolerate high load.
@@ -953,6 +962,7 @@ The important thing for leaders to be willing to do in those early days is to pi
 Sometimes companies decide to limit the decisions themselves, as in organisation that forgoes titles. Deciding not to decide right now is a popular option for new companies, because it really doesn't matter at the scale of a few people.
 
 **Pretending to lack structure tends to create hidden power structures.** In [The Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm) Jo Freeman describes a set of circumstances in which the unstructured group can work:
+
 - It is task oriented. It is the task that basically structures the group.
 - It is relatively small and homogeneous. Homogeneity is necessary to insure that participants have a "common language" for interaction.
 - There is high degree of communication. Information must be passed on to everyone.
@@ -1059,6 +1069,7 @@ Without any process, your teams will struggle to scale. With the wrong process, 
 #### Code review
 
 You want the process to be straightforward and efficient:
+
 - **Be clear about code review expectations.** Code review is largely a socialisation exercise, so that multiple team members have seen and are aware of the changed code.
 - **Use a linter for style issues.**
 - **Keep an eye on the review backlog.** Limit how many outstanding review requests a person can have assigned to him.
@@ -1072,12 +1083,14 @@ You want the process to be straightforward and efficient:
 #### Architecture review
 
 The goal of architecture review is to help socialise big changes to the appropriate group, and to make the risks for those changes clear.
+
 - How many people on the team are comfortable using this new system/writing this new language?
 - Do you have production standards in place for this new thing?
 - What is the process for rolling this out and training people to use it?
 - Are there new operational considerations for using this?
 
 Some guidelines:
+
 - **Be specific about the kinds of changes that need architecture review.** Usually these include new languages, new frameworks, new storage systems, and new developer tooling.
 - **The value of architecture review is in preparing for the review.** It forces people to think about why they want to make these changes. It make people aware of the risks that they may not have considered.
 - **Choose the review board wisely.** The scope of the deciding group is best kept to the people who will be closely impacted by the decision.
