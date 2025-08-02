@@ -2,26 +2,24 @@
 
 layout: post
 date: 2025-02-22
-title: Radical Focus - Achieving Your Most Important Goals with Objectives and Key Results
+title: Radical Focus - A Guide to Achieving Goals with OKRs
 
 ---
 
- - [Introduction](#introduction)
- - [The framework for Radical Focus](#the-framework-for-radical-focus)
-     - [Why we can't get things done](#why-we-cant-get-things-done)
-     - [A path to success](#a-path-to-success)
- - [OKR fundamentals](#okr-fundamentals)
- - [Setting a rhythm of execution](#setting-a-rhythm-of-execution)
-     - [How to hold a meeting to set OKRs for the quarter](#how-to-hold-a-meeting-to-set-okrs-for-the-quarter)
- - [The timing for OKRs](#the-timing-for-okrs)
-     - [Preparing for the next quarter](#preparing-for-the-next-quarter)
-     - [The first time](#the-first-time)
- - [OKRs for MVPs](#okrs-for-mvps)
- - [Improve weekly status emails with OKRs](#improve-weekly-status-emails-with-okrs)
- - [Common OKR mistakes](#common-okr-mistakes)
- - [Quick tips on OKRs use](#quick-tips-on-okrs-use)
-
-
+- [Introduction](#introduction)
+- [The framework for Radical Focus](#the-framework-for-radical-focus)
+  - [Why we can't get things done](#why-we-cant-get-things-done)
+  - [A path to success](#a-path-to-success)
+- [OKR fundamentals](#okr-fundamentals)
+- [Setting a rhythm of execution](#setting-a-rhythm-of-execution)
+  - [How to hold a meeting to set OKRs for the quarter](#how-to-hold-a-meeting-to-set-okrs-for-the-quarter)
+- [The timing for OKRs](#the-timing-for-okrs)
+  - [Preparing for the next quarter](#preparing-for-the-next-quarter)
+  - [The first time](#the-first-time)
+- [OKRs for MVPs](#okrs-for-mvps)
+- [Improve weekly status emails with OKRs](#improve-weekly-status-emails-with-okrs)
+- [Common OKR mistakes](#common-okr-mistakes)
+- [Quick tips on OKRs use](#quick-tips-on-okrs-use)
 
  > Don't tell people how to do things, tell them what you need done and let them surprise you with their results -- General George Patton
 
@@ -77,7 +75,7 @@ OKR stands for **Objectives** and **Key Results**, they came from Andy Grove imp
 The Objective is qualitative, and the KRs (most often three) are quantitative. The objective establishes a goal for a set period of time, usually a quarter. The Key Results tell you if the Objective has been met by the end of the time.
 
 Your **Objective** is a single sentence that is:
-    * **Qualitative and Inspirational**. Designed to get people jumping out of bed in the morning with excitement, it provides meaning and progress. Use the language of your team.
+    ***Qualitative and Inspirational**. Designed to get people jumping out of bed in the morning with excitement, it provides meaning and progress. Use the language of your team.
     * **Time bound**. For example, doable in a month or a quarter.
     * **Actionable by team independently**. Your Objective has to be truly yours, and you can't have the excuse of "Marketing didn't market it".
    **Key Results** take all that inspirational language and quantify it. "How would we know if we met our Objective?". Typically you have three Key Results. They can be based on anything you can measure like Growth, Engagement, Revenue, Performance or Quality.
@@ -103,9 +101,9 @@ Do not change OKRs halfway through the quarter. Fail or nail then, and use that 
 ## Setting a rhythm of execution
 
 It's important to have a cadence of commitment and celebration. Each Monday, the team should meet to check in on progress against OKRs, and commit to the tasks that will help the company meet its Objective. A format of four key quadrants is recommended:
-    * **Intention for the week**: What are the 3-4 most important things you must get done this week toward the Objective? Discuss if these priorities will get you close to the OKRs.
+    ***Intention for the week**: What are the 3-4 most important things you must get done this week toward the Objective? Discuss if these priorities will get you close to the OKRs.
     * **Forecast for month**: What should our team know is coming up that they can help with or prepare for?
-    * **Status toward OKRs**: If you set a confidence of five out of ten, has that move up or down? Have a discussion about why.
+    ***Status toward OKRs**: If you set a confidence of five out of ten, has that move up or down? Have a discussion about why.
     * **Health metrics**: Pick two things you want to protect as you strive toward greatness. What can you not afford to eff-up? Key relationships with customers? Code stability? Team well-being? Now mark when things start to go sideways and discuss it.
 
     ```
@@ -251,23 +249,23 @@ Coordinating organizational efforts is critical to compete and innovate. Giving 
 
 ## Common OKR mistakes
 
-* **You set too many goals per quarter.** Try setting only one.
-* **You set OKRs for a week or a month.** Startups maybe shouldn't use OKRs before achieving product market fit. If you can't keep on track longer than a week, you probably aren't ready for OKRs.
-* **You set a metric-driven Objective.** The Objective needs to be inspirational.
-* **You don't set confidence levels.** OKRs are there to encourage you to shoot for the moon. Setting a confidence level of five out of ten means you have a 50% chance of hitting the goal. That's stretching.
-* **You don't track changing confidence levels.** Mark changes as you get new information.
-* **You use the four-square on Monday as a status report.** Discuss what needs discussing.
-* **You talk tough on Friday.** Let's crack a beer and toast what we _did_ accomplish. Let's be proud of what setting big goals did let us accomplish.
+- **You set too many goals per quarter.** Try setting only one.
+- **You set OKRs for a week or a month.** Startups maybe shouldn't use OKRs before achieving product market fit. If you can't keep on track longer than a week, you probably aren't ready for OKRs.
+- **You set a metric-driven Objective.** The Objective needs to be inspirational.
+- **You don't set confidence levels.** OKRs are there to encourage you to shoot for the moon. Setting a confidence level of five out of ten means you have a 50% chance of hitting the goal. That's stretching.
+- **You don't track changing confidence levels.** Mark changes as you get new information.
+- **You use the four-square on Monday as a status report.** Discuss what needs discussing.
+- **You talk tough on Friday.** Let's crack a beer and toast what we _did_ accomplish. Let's be proud of what setting big goals did let us accomplish.
 
 ## Quick tips on OKRs use
 
- * Set only one OKR for the company, unless you have multiple business lines.
- * Give yourself three months for an OKR.
- * Keep the metrics out of the Objective.
- * In the weekly check in, open with company OKR, then do groups. Don't do individuals, that's better in private.
- * OKRs cascade; set the company OKRs, then group's/role's, and then individuals.
- * OKRs are not the only thing you do; they are the one thing you _must_ do. Don't jam every task intoOKRs.
- * The Monday OKR check in is a _conversation_.
- * Encourage employees to suggest company OKRs. OKRs are great bottom up, not just top down.
- * Make OKRs available publicly for the whole company.
- * Friday celebrations is an antidote to Monday's grim business.
+- Set only one OKR for the company, unless you have multiple business lines.
+- Give yourself three months for an OKR.
+- Keep the metrics out of the Objective.
+- In the weekly check in, open with company OKR, then do groups. Don't do individuals, that's better in private.
+- OKRs cascade; set the company OKRs, then group's/role's, and then individuals.
+- OKRs are not the only thing you do; they are the one thing you _must_ do. Don't jam every task intoOKRs.
+- The Monday OKR check in is a _conversation_.
+- Encourage employees to suggest company OKRs. OKRs are great bottom up, not just top down.
+- Make OKRs available publicly for the whole company.
+- Friday celebrations is an antidote to Monday's grim business.

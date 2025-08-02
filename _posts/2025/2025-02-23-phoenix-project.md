@@ -2,7 +2,7 @@
 
 layout: post
 date: 2025-02-23
-title: The Phoenix Project - A Novel About IT, DevOps, and Helping Your Business Win
+title: The Phoenix Project: DevOps Transformation Guide
 
 ---
 
@@ -85,7 +85,6 @@ Gathering prerequisites of what you need before you can complete work allows you
 
 The Third Way is all about ensuring that we're continually putting tension into the system, so that we're continually reinforcing habits and improving something. Resilience engineering is tells us that routinely injecting faults into the system, doing them frequently, to make them less painful.
 
-
 ### Improvement kata
 
 It almost doesn't matter what you improve, as long as you're improving something. Why? Because if you are not improving, entropy guarantees that you are actually getting worse, which ensures that there is no path to zero errors, zero work-related accidents, and zero loss.
@@ -144,16 +143,16 @@ Sometimes some tasks look like a single-person task but they are not. Sometimes 
 
 It's about systems thinking, always confirming that the entire organisation achieves its goal, not just one part of it.
 
-* Are we competitive?
-* Understanding customer needs and wants: Do we know what to build?
-* Product portfolio: Do we have the right products?
-* R&D effectiveness: Can we build it effectively?
-* Time to market: Can we ship it soon enough to matter?
-* Sales pipeline: Can we convert products to interested prospects?
-* Are we effective?
-* Customer on-time delivery: Are customers getting what we promised them?
-* Customer retention: Are we gaining or losing customers?
-* Sales forecast accuracy: Can we factor this into our sales planning process?
+- Are we competitive?
+- Understanding customer needs and wants: Do we know what to build?
+- Product portfolio: Do we have the right products?
+- R&D effectiveness: Can we build it effectively?
+- Time to market: Can we ship it soon enough to matter?
+- Sales pipeline: Can we convert products to interested prospects?
+- Are we effective?
+- Customer on-time delivery: Are customers getting what we promised them?
+- Customer retention: Are we gaining or losing customers?
+- Sales forecast accuracy: Can we factor this into our sales planning process?
 
 You must leave the realm of IT to discover where the business relies on IT to achieve its goals. You must find where you've under-scoped IT, where certain portions of the processes and technology you manage actively jeopardises the achievement of business goals. And secondly, where IT might be over-scoped, where you focused on the problems that bring little value to the business.
 
@@ -199,7 +198,6 @@ High performers are deploying features more quickly, while providing world-class
 
 High performers have significantly better organisational performance as well: they are two times more likely to exceed profitability, market share and productivity goals, and there are hints that they have significantly better performance in the capital markets as well.
 
-
 Everyone values non-functional requirements (e.g., quality, scalability, manageability, security, operability) as much as features. Why? Because non-functional requirements are just as important in achieving business objectives, too.
 
 We have High-trust, collaboration culture, where everyone is responsible of the quality of their work. Instead of approval and compliance processes, the hallmark of a low-trust command-and-control management culture, we rely on peer review to ensure that everyone has confidence int he quality of their code.
@@ -234,7 +232,7 @@ The practices include: Creating a culture of innovation and risk taking (as oppo
 
 ## The four types of work
 
-* **Business projects**. These are business initiatives, of which most Development projects encompass.
-* **Internal IT projects**. Infrastructure or IT Operations projects that business projects might create, as well as internally generated improvement projects. Often these are not centrally tracked anywhere, instead residing with the budget owners. This creates a problem when IT Operations is a bottleneck, because there is no easy way to find out who much of capacity is already committed to internal projects.
-* **Changes**. Generated from the previous two types of work and are typically tracked in a ticketing system.
-* **Unplanned word or recovery work**. Operational incidents and problems. Always come at the expense of other planned work commitments.
+- **Business projects**. These are business initiatives, of which most Development projects encompass.
+- **Internal IT projects**. Infrastructure or IT Operations projects that business projects might create, as well as internally generated improvement projects. Often these are not centrally tracked anywhere, instead residing with the budget owners. This creates a problem when IT Operations is a bottleneck, because there is no easy way to find out who much of capacity is already committed to internal projects.
+- **Changes**. Generated from the previous two types of work and are typically tracked in a ticketing system.
+- **Unplanned word or recovery work**. Operational incidents and problems. Always come at the expense of other planned work commitments.

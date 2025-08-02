@@ -1,6 +1,6 @@
 ---  
 layout: post
-title: Michy Batshuayi has scored six goals in his last nine premier league apps
+title: Michy Batshuayi: Six Goals in Nine Premier League Apps
 date: 2017-10-21T14:40:00Z
 tags:
   - stats

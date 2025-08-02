@@ -3,15 +3,13 @@
 layout: post
 date: 2025-03-07
 link: https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features
-title: Apple Is Delaying the More Personalized Siri Apple Intelligence Features
+title: Apple Delays Personalized Siri Intelligence Features
 cited: John Gruber
 seo: Apple delays intelligence features
 
 ---
 
 Apple seem to have a track record of over promising and failing to deliver on their own deadlines. At least they are working to get the quality right.
-
-
 
 > Here's a statement I got this morning from Apple spokeswoman Jacqueline Roy, verbatim:
 >

@@ -3,7 +3,7 @@ layout: post
 title: "5-Day Low Histamine Vegan Meal Plan"
 date: 2025-05-04
 tags: [low histamine, vegan, meal plan, anti-inflammatory, food sensitivity]
-seo: "A carefully crafted 5-day meal plan combining low histamine requirements with a vegan lifestyle to help manage histamine intolerance while maintaining a plant-based diet."
+seo: "A carefully crafted 5-day meal plan combining low histamine and a vegan diet."
 ---
 
 Managing histamine intolerance on a vegan diet requires careful planning. This 5-day meal plan avoids high-histamine plant foods while ensuring nutritional adequacy through fresh, minimally processed ingredients.

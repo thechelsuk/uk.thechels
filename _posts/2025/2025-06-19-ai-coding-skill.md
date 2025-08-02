@@ -1,5 +1,5 @@
 ---
-title: Doing good software engineering first, then AI-assisted coding can help
+title: Good Software Engineering First, Then AI-Assisted Coding
 description: AI-assisted coding for teams that can't get away with vibes
 type: post
 date: 2025-06-19
