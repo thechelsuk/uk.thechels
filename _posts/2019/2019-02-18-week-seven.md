@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Seven
+title: Week Seven - Work Life Balance and 25.4 Mile Week
 tags: [25.4]
 tag:
   - runs
