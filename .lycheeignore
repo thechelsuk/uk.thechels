@@ -1,3 +1,5 @@
+# Lychee Ignore File
+
 _includes/*
 _layouts/*
 index.html
