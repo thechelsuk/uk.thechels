@@ -2,7 +2,7 @@
 
 layout: post
 date: 2024-09-15
-title: Team Spoons
+title: Team Spoons - Energy Management and Chronic Illness
 
 ---
 

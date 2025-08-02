@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Verify
+title: Verify - Identity Verification and Authentication
 permalink: /verify
 seo: Verify Me
 

@@ -1,6 +1,6 @@
----
+```---
 layout: pages
-title: Daily Rundown
+title: Daily Rundown - Personal Briefing and Updates
 permalink: /daily
 seo: Good Morning Mat, Here is your daily briefing
 
@@ -79,7 +79,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 112.95999908447266 
+- VWRL.L : 112.95999908447266
 
 <!-- stocks_marker ends -->
 

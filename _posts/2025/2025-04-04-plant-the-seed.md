@@ -2,7 +2,7 @@
 
 layout: post
 date: 2025-04-04
-title: Plant the seed
+title: Plant the Seed - Growth and Investment Philosophy
 
 ---
 

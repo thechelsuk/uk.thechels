@@ -2,7 +2,7 @@
 
 layout: post
 date: 2025-02-22
-title: Bond shopping
+title: Bond Shopping - MI6 Q's Lab Equipment Adventure
 
 ---
 

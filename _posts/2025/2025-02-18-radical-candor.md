@@ -2,7 +2,7 @@
 
 layout: post
 date: 2025-02-18
-title: Radical Candor
+title: Radical Candor - Effective Leadership Communication
 link: https://www.radicalcandor.com/our-approach/
 cited: RadicalCandor.com
 

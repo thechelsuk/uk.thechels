@@ -3,7 +3,7 @@
 layout: post
 date: 2025-01-19
 link: https://www.scrum.org/resources/blog/case-flow-metrics
-title: Flow Metrics
+title: Flow Metrics - Agile Development Performance Measurement
 cited: Scrum.Org
 
 ---

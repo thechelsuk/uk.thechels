@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Architecture
+title: Architecture - Website Technology Stack and Build
 permalink: /architecture
 seo: Architecture page for thechels.uk
 ---

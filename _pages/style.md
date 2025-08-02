@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Style Guide
+title: Style Guide - Visual Mark-up Reference and Examples
 permalink: /style
 seo: Style Guide
 ---
@@ -8,7 +8,6 @@ seo: Style Guide
 This style guide acts as a visual guide to the mark-up styles used throughout the site and acts as a check that all likely mark-up is styled appropriately.
 
 There is one additional style applied to the code blocks on this page for eligibility.
-
 
 ## Headings
 
@@ -29,10 +28,15 @@ Use the following markdown syntax to create headings:
 Example:
 
 # Heading 1
+
 ## Heading 2
+
 ### Heading 3
+
 #### Heading 4
+
 ##### Heading 5
+
 ###### Heading 6
 
 ## Paragraphs
@@ -92,8 +96,8 @@ Example:
 
 - Item 1
 - Item 2
-    - Subitem 1
-    - Subitem 2
+  - Subitem 1
+  - Subitem 2
 
 ### Ordered List
 
@@ -185,12 +189,10 @@ using a multi-line approach.
 
 \`\`\`
 
-
 ```markdown
 This is a code block.
 using a multi-line approach.
 ```
-
 
 ## Tables
 
@@ -204,7 +206,6 @@ Example:
 | Row 1    | Data 1   |
 | Row 2    | Data 2   |
 ```
-
 
 | Header 1 | Header 2 |
 |----------|----------|
@@ -256,8 +257,8 @@ Example:
    - Subitem 1
    - Subitem 2
 2. Second item
-   * Subitem 1
-   * Subitem 2
+   - Subitem 1
+   - Subitem 2
 
 ### Task Lists
 
@@ -310,7 +311,6 @@ Example:
 > with a custom class
 > `secondary`.
 {: .secondary}
-
 
 ## Fonts
 

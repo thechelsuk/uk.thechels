@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: About
+title: About Mat B - Engineering Leader and Team Builder
 permalink: /about
 seo: About page for Mat B, owner of thechels.uk
 ---

@@ -3,7 +3,7 @@
 layout: post
 date: 2025-03-18
 link: https://dansinker.com/posts/2025-03-16-one-thing/
-title: Do One Thing 
+title: Do One Thing - Focus and Productivity Strategies
 cited: dansinker.com
 
 ---

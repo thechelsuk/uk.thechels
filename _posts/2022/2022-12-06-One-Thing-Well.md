@@ -1,5 +1,5 @@
 ---
-title: One Thing Well
+title: One Thing Well - Curated Software and Tool Discovery
 layout: post
 date: 2022-12-06
 

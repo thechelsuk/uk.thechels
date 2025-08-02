@@ -1,6 +1,6 @@
 ---
 layout: default
-title: App Privacy
+title: App Privacy - Mobile Application Privacy Policy
 permalink: /app-privacy
 seo: app privacy policy
 ---

@@ -1,6 +1,6 @@
 ---  
 layout: post
-title: Gadgets
+title: Gadgets - Essential Tech Tools and Device Collection
 tags:
   - lists
 ---

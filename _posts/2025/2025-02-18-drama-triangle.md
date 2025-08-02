@@ -2,7 +2,7 @@
 
 layout: post
 date: 2025-02-18
-title: Drama Triangle
+title: Drama Triangle - Workplace Conflict Recognition Guide
 link: https://charleslambdin.wordpress.com/2019/12/06/recognizing-and-avoiding-drama-at-work-and-in-life/
 cited: Charles Lambdin
 

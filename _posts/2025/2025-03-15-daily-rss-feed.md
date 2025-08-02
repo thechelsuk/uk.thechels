@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daily RSS Feed
+title: Daily RSS Feed - Jekyll Automation and Schedule Setup
 seo: How I built a daily page and RSS feed in Jekyll
 date: 2025-03-15
 
@@ -13,7 +13,6 @@ However, I am almost always end up in my RSS reader of choice so thought about h
 Pages are normally static and posts are like a blog and are typically shown in RSS feeds as a new item. So this was a little trickier than anticipated as I needed to find the page and pull it's content using the `assign` method in the Liquid syntax. I was then able to put together a pretty simple xml file.
 
 I've included the `site.time` to process a date in the title and also in the pubDate so this should trigger a new feed everyday... Perhaps I'll need to monitor if this changes on every build, but at best case it'll be daily when the page changes, worst case it might be sent to my RSS reader multiple times a day with the same content. Perhaps changing the PubDate to just have a fixed time might solve that... lets experiment.
-
 
 ```xml
 

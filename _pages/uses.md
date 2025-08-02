@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Uses
+title: Uses - Favourite Technology and Setup Configuration
 permalink: /uses
 seo: A list of my favourite technology
 ---

@@ -2,7 +2,7 @@
 
 layout: post
 date: 2023-09-02
-title: Priority Quote
+title: Priority Quote - Focus and Essential Task Management
 cited: Gary Keller
 
 ---

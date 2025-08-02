@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Eight
+title: Week Eight - Training Consistency and Mile Building
 tags: [24.3]
 tag:
   - runs

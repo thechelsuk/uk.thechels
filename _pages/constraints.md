@@ -1,6 +1,6 @@
 ---
 layout: constraints
-title: Constraints
+title: Constraints - Design and Development Challenge Cards
 permalink: /constraints
 seo: constraint cards for designers and developers
 

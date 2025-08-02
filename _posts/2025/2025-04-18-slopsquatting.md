@@ -3,7 +3,7 @@
 layout: post
 date: 2025-04-18
 link: https://mastodon.social/@andrewnez/114302875075999244
-title: Slopsquatting
+title: Slopsquatting - Domain Name Registration Tactics
 cited: Andrew Nesbitt
 
 ---

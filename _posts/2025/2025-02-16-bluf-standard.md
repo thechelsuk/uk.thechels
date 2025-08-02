@@ -3,7 +3,7 @@
 layout: post
 date: 2025-02-16
 link: https://www.animalz.co/blog/bottom-line-up-front/
-title: BLUF standard
+title: BLUF Standard - Bottom Line Up Front Communication
 cited: Animalz
 
 ---

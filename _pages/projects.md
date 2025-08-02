@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Projects
+title: Projects - Software Development and Side Projects
 permalink: /projects
 seo: Projects
 
