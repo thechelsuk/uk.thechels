@@ -1,26 +1,31 @@
 name: "Link Checker"
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 20 * * 5'
+    workflow_dispatch:
+    schedule:
+        - cron: "0 20 * * 5"
 
 jobs:
-  linkChecker:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+    linkChecker:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
 
-      - name: Link Checker
-        id: lychee
-        uses: lycheeverse/lychee-action@v2.4.1
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+            - name: Link Checker
+              id: lychee
+              uses: lycheeverse/lychee-action@v2.4.1
+              with:
+                  args: --verbose --no-progress --accept=200,203,204,429,999 --timeout=30 --retry-wait-time=5 --max-retries=2 --insecure --user-agent="Mozilla/5.0 (compatible; LinkChecker)" --exclude-mail './**/*.md' './**/*.html'
+                  fail: true
+                  format: markdown
+              env:
+                  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
-      - name: Create Issue From File
-        if: steps.lychee.outputs.exit_code != 0
-        uses: peter-evans/create-issue-from-file@v5
-        with:
-          title: Link Checker Report
-          content-filepath: ./lychee/out.md
-          labels: Bot
+            - name: Create Issue From File
+              if: steps.lychee.outputs.exit_code != 0
+              uses: peter-evans/create-issue-from-file@v5
+              with:
+                  title: Link Checker Report - ${{ github.run_id }}
+                  content-filepath: ./lychee/out.md
+                  labels: |
+                      Bot
