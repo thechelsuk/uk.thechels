@@ -1,9 +1,12 @@
 ---
 
 layout: post
-date: 2025-02-23
 title: "The Manager's Path - A Guide for Tech Leader"
 seo: "A Guide for Tech Leaders Navigating Growth and Change"
+date: 2025-02-23
+tags: 
+ - book
+ - manager
 
 ---
 
