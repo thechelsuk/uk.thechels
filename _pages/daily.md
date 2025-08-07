@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 06 August 2025
+## On Thursday, 07 August 2025
 
-- The average temperature today is 10.94˚C,
-- With highs of 13.86˚C and lows of 9.82˚C,
-- It may feel like 10.26˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 83%
-- The sun will rise at 04:38 and set at 19:50
+- The average temperature today is 15.54˚C,
+- With highs of 16.27˚C and lows of 14.91˚C,
+- It may feel like 15.13˚C with broken clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 76%
+- The sun will rise at 04:40 and set at 19:48
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 519 days since the last change (2024-03-05)
+- It has been 520 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,37 +32,37 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Use a common language.
+> Seek the best.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Arsenal v Villarreal
-- Aston Villa v Roma
+- Bayern Munich v Tottenham Hotspur
+- Port Vale v Cardiff City
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 114.01000213623047 
+- VWRL.L : 114.37999725341797 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Official: Burnley sign Lesley Ugochukwu from Chelsea
+- Official: Sunderland sign Marc Guiu on loan from Chelsea
+- Official: Everton sign Kiernan Dewsbury-Hall from Chelsea
+- Chelsea ‘willing to compromise’ with Borussia Dortmund over Carney Chukwuemeka — report
+- Derby County, Chelsea ‘have held’ talks over Alfie Gilchrist — report
+- Official: Chelsea sign Estêvão Willian from Palmeiras
 - The (Almost) Daily Hilario: We’re … back … ?
 - Welcome to the new We Ain’t Got No History: A fresh look, fewer ads and a new feature
 - Burnley, Chelsea agree Lesley Ugochukwu transfer — report
 - Everton, Chelsea agree Kiernan Dewsbury-Hall transfer — reports
-- The Daily Hilario: Monday
-- Christopher Nkunku to miss start of preseason training with ‘minor injury’ — report
-- Official: Chelsea sign Jorrel Hato from Ajax Amsterdam
-- The Daily Hilario: Sunday
-- WaFFLe 25/26: Confirmed Divisions and Waitlist
-- Inter Milan potentially interested in Christopher Nkunku — report
 
 <!-- news_marker ends -->
 
@@ -70,14 +70,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Thousands of company directors leave UK after Labour’s tax changes
-- Can the world’s beaches survive a sand shortage?
-- The big picture on Alzheimer’s is missing the smaller pieces
-- US labour data agency was teetering even before Trump fired its chief
-- Berkshire shares tumble as Warren Buffett prepares to step down
-- Number of UK civil servants in same pay band as PM doubles in 2 years
-- Almost half of UK companies want staff ‘on site’ all the time, survey finds
-- Reeves warned of ‘impossible trilemma’ on tax, spending and fiscal rules
+- Trump’s new tariff regime deepens global trade war
+- European earnings lag behind US as trade war saps market revival
+- Trump threatens 100% tariff on chips with carve-out for Apple
+- Why Taiwanese fear China could take over from within
+- The kernels of truth in reports of a millionaires’ exodus
+- Inside the AI race: can data centres ever truly be green?
+- Top UK private equity earners dwindle ahead of Reeves crackdown
+- Apple hit by string of departures in AI talent war
 
 <!-- ftnews_marker ends -->
 
@@ -85,40 +85,42 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > jabberwock - noun: Nonsensical or wildly incoherent speech or writing. verb intr.: To speak or write in this manner.
+ > white knight - noun: 1. One who comes to the rescue of another. 2. A well-meaning but ineffective helper.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Agile is a philosophy, not a methodology. - Paul Bennett
+> A great ScrumMaster grasps the skills and mindset of the role. - Geoff Watts
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Is it finished?
+> Destroy
+-nothing
+-the most important thing
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- American Pie: Beta House (Rated: 3)
-- Released in 2007
-- Summary: No summary available
+- Zombie Strippers (Rated: 1)
+- Released in 2008
+- Summary: A zombie epidemic spreads throughout a strip club in Nebraska.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 675, using [2, 6, 7, 9, 9, 10]
-- Answer: 24 solutions.
+- Target: 566, using [1, 2, 9, 9, 75, 100]
+- Answer: 9 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 10 + 9 ) x 2 + 7 ) x ( 9 + 6 )
+  Solution: ( 9 + 1 ) x 100 / 2 + 75 - 9
 
    </details>
 
