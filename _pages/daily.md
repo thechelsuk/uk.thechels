@@ -7,62 +7,64 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 07 August 2025
+## On Friday, 08 August 2025
 
-- The average temperature today is 15.54˚C,
-- With highs of 16.27˚C and lows of 14.91˚C,
-- It may feel like 15.13˚C with broken clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 76%
-- The sun will rise at 04:40 and set at 19:48
+- The average temperature today is 14.24˚C,
+- With highs of 14.98˚C and lows of 13.25˚C,
+- It may feel like 13.94˚C with overcast clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 85%
+- The sun will rise at 04:41 and set at 19:46
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 520 days since the last change (2024-03-05)
+- It has been 521 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Farmers Market in town
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Seek the best.
+> Design for constant evolution.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Bayern Munich v Tottenham Hotspur
-- Port Vale v Cardiff City
+- Chelsea v Bayer Leverkusen
+- Newcastle United v Espanyol
+- Birmingham City v Ipswich Town
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 114.37999725341797 
+- VWRL.L : 114.08499908447266 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Newcastle United miss out on Benjamin Šeško, too; Nicolas Jackson next?
+- Chelsea, Manchester United ‘step up’ talks over Alejandro Garnacho — reports
+- Levi Colwill to miss the season after undergoing ACL surgery
+- Levi Colwill picks up potentially serious injury in training
+- The Daily Hilario: Day 2
 - Official: Burnley sign Lesley Ugochukwu from Chelsea
 - Official: Sunderland sign Marc Guiu on loan from Chelsea
 - Official: Everton sign Kiernan Dewsbury-Hall from Chelsea
 - Chelsea ‘willing to compromise’ with Borussia Dortmund over Carney Chukwuemeka — report
 - Derby County, Chelsea ‘have held’ talks over Alfie Gilchrist — report
-- Official: Chelsea sign Estêvão Willian from Palmeiras
-- The (Almost) Daily Hilario: We’re … back … ?
-- Welcome to the new We Ain’t Got No History: A fresh look, fewer ads and a new feature
-- Burnley, Chelsea agree Lesley Ugochukwu transfer — report
-- Everton, Chelsea agree Kiernan Dewsbury-Hall transfer — reports
 
 <!-- news_marker ends -->
 
@@ -70,14 +72,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump’s new tariff regime deepens global trade war
-- European earnings lag behind US as trade war saps market revival
-- Trump threatens 100% tariff on chips with carve-out for Apple
-- Why Taiwanese fear China could take over from within
-- The kernels of truth in reports of a millionaires’ exodus
-- Inside the AI race: can data centres ever truly be green?
-- Top UK private equity earners dwindle ahead of Reeves crackdown
-- Apple hit by string of departures in AI talent war
+- US hits one-kilo gold bars with tariffs in blow to refining hub Switzerland
+- UBS may find an opportunity in the Swiss tariff crisis
+- Why struggling companies are loading up on bitcoin
+- The troubling decline in conscientiousness
+- Britain is squeezing AstraZeneca too tight
+- Israel security cabinet approves new plan to reoccupy all of Gaza
+- KKR recut terms with big backers to hand rich investors larger share of deals
+- Big companies tell investment banks to stop leaking their UK takeover deals
 
 <!-- ftnews_marker ends -->
 
@@ -85,42 +87,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > white knight - noun: 1. One who comes to the rescue of another. 2. A well-meaning but ineffective helper.
+ > boojum - noun: An imaginary or elusive goal whose pursuit may lead to ruin.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> A great ScrumMaster grasps the skills and mindset of the role. - Geoff Watts
+> Opportunity is missed by most people because it is dressed in overalls and looks like work. - Thomas Edison
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Destroy
--nothing
--the most important thing
+> Think of the radio
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Zombie Strippers (Rated: 1)
-- Released in 2008
-- Summary: A zombie epidemic spreads throughout a strip club in Nebraska.
+- Gladiator (Rated: 4)
+- Released in 2000
+- Summary: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 566, using [1, 2, 9, 9, 75, 100]
-- Answer: 9 solutions.
+- Target: 373, using [3, 5, 6, 25, 50, 75]
+- Answer: 29 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 9 + 1 ) x 100 / 2 + 75 - 9
+  Solution: ( ( 50 + 25 ) x 75 / 5 - 6 ) / 3
 
    </details>
 
