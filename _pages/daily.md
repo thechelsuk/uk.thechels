@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Daily Rundown - Personal Briefing and Updates
+title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning Mat, Here is your daily briefing
 

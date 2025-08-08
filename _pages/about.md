@@ -39,11 +39,9 @@ The associated [Twitter](/images/ChelseaStats.png) [account](https://web.archive
 
 _Based on the [now](https://sive.rs/now) page idea from [Derek Sivers](https://sive.rs/nowff)._
 
-- Surviving - I continue to fight with an undiagnosed fatigue that's been ongoing since October 2022.
-- Reading - I have a huge backlog of books to get through.
+- Pacing and rest - against me/cfs since October 2022.
+- Reading - I have a huge backlog of books to get through .
 
 ## Next
 
-- Home improvements - A heat pump, new carpets, doors and a new kitchen.
-- Cycling - Getting back on Zwift well-being permitting.
-- Conferences/Meet-ups - Attending some conferences and meet-ups in the Technology space.
+- no plans.
