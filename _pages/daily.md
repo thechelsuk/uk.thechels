@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 10 August 2025
+## On Monday, 11 August 2025
 
-- The average temperature today is 13.61˚C,
-- With highs of 14.43˚C and lows of 12.51˚C,
-- It may feel like 13.32˚C with scattered clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1027hPa and humidity is 88%
-- The sun will rise at 04:44 and set at 19:42
+- The average temperature today is 15.41˚C,
+- With highs of 16.1˚C and lows of 14.26˚C,
+- It may feel like 15.17˚C with overcast clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1024hPa and humidity is 83%
+- The sun will rise at 04:46 and set at 19:40
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 523 days since the last change (2024-03-05)
+- It has been 524 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,7 +32,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be humble.
+> challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -52,16 +52,16 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea, RB Leipzig in talks for Xavi Simons, Christopher Nkunku swap — reports
+- Enzo Maresca plays down Trevoh Chalobah injury concerns
+- Chelsea 4-1 AC Milan, Friendly: Post-match reaction
+- Chelsea vs. AC Milan, Friendly: Confirmed lineups; how to watch
 - The Daily Hilario: Sunday
 - Chelsea vs. AC Milan, Friendly: Preview, team news, how to watch
 - Chelsea not in for Marc Guéhi, exploring ‘different options’ after Levi Colwill injury
 - The Daily Hilario: Saturday
 - ‘You cannot do preseason’: Enzo Maresca happy with performance against Bayer Leverkusen
 - Chelsea 2-0 Bayer Leverkusen, Friendly: Post-match reaction
-- Chelsea vs. Bayer Leverkusen, Friendly: Confirmed lineups; how to watch
-- Official: Burnley sign Armando Broja from Chelsea
-- Chelsea agree personal terms with Alejandro Garnacho — report
-- Chelsea vs. Bayer Leverkusen, Friendly: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -69,12 +69,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- European allies back Ukraine’s borders after Trump floats Russia land swap
-- What padel has taught me about the power of play
-- Sanctioned oil trader sues corporate spooks over alleged ‘smear campaign’
-- Police arrest hundreds of Palestine Action supporters under anti-terror law
-- Zuber Issa calls for EG Group to sell $5bn-plus US forecourt business
-- The other Israel-Iran war
+- Nvidia and AMD to pay 15% of China chip sale revenues to US government
+- What Putin wants from Trump at Alaska summit
+- America doesn’t have a monopoly on wealth creation
+- How Pakistan wooed Trump — and rattled India
+- Big Oil heeds call to ‘drill, baby, drill’ as green transition slows
+- UK employers cut back hiring over labour and tax cost fears
+- BlackRock and Vanguard lead US ‘super league’ dominating Europe
+- Europe urges Trump to use sanctions pressure ahead of Putin summit
 
 <!-- ftnews_marker ends -->
 
@@ -82,40 +84,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > boojum - noun: An imaginary or elusive goal whose pursuit may lead to ruin.
+ > fruiterer - noun: A fruit seller.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Plans are worthless, but planning is everything. - Dwight Eisenhower
+> If you as ScrumMaster keep the positivity high, you are halfway to achieving your goal. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Short circuit
+> Abandon normal instruments
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Ice Age i (Rated: 6)
-- Released in 2002
-- Summary: No summary available
+- The Possession of Hannah Grace (Rated: 3)
+- Released in 2018
+- Summary: When a cop who is just out of rehab takes the graveyard shift in a city hospital morgue, she faces a series of bizarre, violent events caused by an evil entity in one of the corpses.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 499, using [1, 2, 4, 10, 50, 75]
-- Answer: 25 solutions.
+- Target: 255, using [2, 4, 4, 6, 9, 50]
+- Answer: 29 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 - 10 ) x 75 / ( 4 + 2 ) - 1
+  Solution: ( 50 + 9 + 4 ) x 4 + 6 / 2
 
    </details>
 
