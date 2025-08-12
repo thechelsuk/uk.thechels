@@ -7,51 +7,93 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 11 August 2025
+## On Tuesday, 12 August 2025
 
-- The average temperature today is 15.41˚C,
-- With highs of 16.1˚C and lows of 14.26˚C,
-- It may feel like 15.17˚C with overcast clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1024hPa and humidity is 83%
-- The sun will rise at 04:46 and set at 19:40
+- The average temperature today is 18.68˚C,
+- With highs of 19.43˚C and lows of 17.62˚C,
+- It may feel like 18.61˚C with broken clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 77%
+- The sun will rise at 04:48 and set at 19:38
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 524 days since the last change (2024-03-05)
+- It has been 525 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> challenge assumptions.
+> Use appropriate tools.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- No Fixtures
+- Swansea City v Crawley Town
+- Aldershot Town v Brighton & Hove Albion U21
+- Boreham Wood v Nottingham Forest U21
+- Boston United v Leeds United U21
+- Braintree Town v Leicester City U21
+- Scunthorpe United v Sunderland U21
+- Solihull Moors v Everton U21
+- Sutton United v Fulham U21
+- Wealdstone v Wolves U21
+- Barrow AFC v Preston North End
+- Middlesbrough v Doncaster Rovers
+- Newport County v Millwall
+- Stockport County v Crewe Alexandra
+- Accrington Stanley v Peterborough United
+- Blackburn Rovers v Bradford City
+- Blackpool v Port Vale
+- Bristol City v MK Dons
+- Bristol Rovers v Cambridge United
+- Cardiff City v Swindon Town
+- Charlton Athletic v Stevenage
+- Chesterfield v Mansfield Town
+- Coventry City v Luton Town
+- Gillingham v AFC Wimbledon
+- Grimsby Town v Shrewsbury Town
+- Harrogate Town v Lincoln City
+- Leyton Orient v Wycombe Wanderers
+- Northampton Town v Southampton
+- Oxford United v Colchester United
+- Plymouth Argyle v QPR
+- Portsmouth v Reading
+- Salford City v Rotherham United
+- Stoke City v Walsall
+- Tranmere Rovers v Burton Albion
+- Watford v Norwich City
+- West Brom v Derby County
+- Wigan Athletic v Notts County
+- Wrexham v Hull City
+- Brackley Town v Blackburn Rovers U21
+- Bromley v Ipswich Town
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 114.33499908447266 
+- VWRL.L : 114.70999908447266 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Christopher Nkunku ‘would be open’ to potential RB Leipzig return — report
+- The Daily Hilario: Monday
 - Chelsea, RB Leipzig in talks for Xavi Simons, Christopher Nkunku swap — reports
 - Enzo Maresca plays down Trevoh Chalobah injury concerns
 - Chelsea 4-1 AC Milan, Friendly: Post-match reaction
@@ -60,8 +102,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - Chelsea vs. AC Milan, Friendly: Preview, team news, how to watch
 - Chelsea not in for Marc Guéhi, exploring ‘different options’ after Levi Colwill injury
 - The Daily Hilario: Saturday
-- ‘You cannot do preseason’: Enzo Maresca happy with performance against Bayer Leverkusen
-- Chelsea 2-0 Bayer Leverkusen, Friendly: Post-match reaction
 
 <!-- news_marker ends -->
 
@@ -69,14 +109,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Nvidia and AMD to pay 15% of China chip sale revenues to US government
-- What Putin wants from Trump at Alaska summit
-- America doesn’t have a monopoly on wealth creation
-- How Pakistan wooed Trump — and rattled India
-- Big Oil heeds call to ‘drill, baby, drill’ as green transition slows
-- UK employers cut back hiring over labour and tax cost fears
-- BlackRock and Vanguard lead US ‘super league’ dominating Europe
-- Europe urges Trump to use sanctions pressure ahead of Putin summit
+- Europe builds for war as arms factories expand at triple speed
+- The unprecedented feud between the US and Brazil
+- The lost art of admitting what you don’t know
+- ‘Manipulative’ Putin vs ‘emotional’ Trump: what past summits reveal about Alaska meeting
+- Trump extends trade war truce with China
+- Global stocks rally as Washington and Beijing signal trade talks
+- Google and IBM believe first workable quantum computer is in sight
+- HSBC flags 73% of Hong Kong commercial property loans as risky
 
 <!-- ftnews_marker ends -->
 
@@ -84,40 +124,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > fruiterer - noun: A fruit seller.
+ > innumerate - innumerate: adjective: Marked by ignorance of mathematical concepts. noun: A person who is unable to count or do simple mathematics.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> If you as ScrumMaster keep the positivity high, you are halfway to achieving your goal. - Zuzana Sochova
+> By limiting not only the amount of work we start, but also the work we commit to doing, we can improve our flow and achieve better quality, better throughput and more consistency
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Abandon normal instruments
+> Get your neck massaged
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Possession of Hannah Grace (Rated: 3)
-- Released in 2018
-- Summary: When a cop who is just out of rehab takes the graveyard shift in a city hospital morgue, she faces a series of bizarre, violent events caused by an evil entity in one of the corpses.
+- Luther: The Fallen Sun (Rated: 3)
+- Released in 2023
+- Summary: Brilliant but disgraced detective John Luther breaks out of prison to hunt down a sadistic serial killer who is terrorising London.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 255, using [2, 4, 4, 6, 9, 50]
-- Answer: 29 solutions.
+- Target: 369, using [3, 6, 7, 7, 10, 50]
+- Answer: 17 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 + 9 + 4 ) x 4 + 6 / 2
+  Solution: ( 7 / 7 + 50 + 10 ) x 6 + 3
 
    </details>
 
