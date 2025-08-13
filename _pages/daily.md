@@ -7,101 +7,61 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 12 August 2025
+## On Wednesday, 13 August 2025
 
-- The average temperature today is 18.68˚C,
+- The average temperature today is 18.79˚C,
 - With highs of 19.43˚C and lows of 17.62˚C,
-- It may feel like 18.61˚C with broken clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 77%
-- The sun will rise at 04:48 and set at 19:38
+- It may feel like 18.76˚C with few clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 78%
+- The sun will rise at 04:49 and set at 19:36
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 525 days since the last change (2024-03-05)
+- It has been 526 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Use appropriate tools.
+> Design for constant evolution.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Swansea City v Crawley Town
-- Aldershot Town v Brighton & Hove Albion U21
-- Boreham Wood v Nottingham Forest U21
-- Boston United v Leeds United U21
-- Braintree Town v Leicester City U21
-- Scunthorpe United v Sunderland U21
-- Solihull Moors v Everton U21
-- Sutton United v Fulham U21
-- Wealdstone v Wolves U21
-- Barrow AFC v Preston North End
-- Middlesbrough v Doncaster Rovers
-- Newport County v Millwall
-- Stockport County v Crewe Alexandra
-- Accrington Stanley v Peterborough United
-- Blackburn Rovers v Bradford City
-- Blackpool v Port Vale
-- Bristol City v MK Dons
-- Bristol Rovers v Cambridge United
-- Cardiff City v Swindon Town
-- Charlton Athletic v Stevenage
-- Chesterfield v Mansfield Town
-- Coventry City v Luton Town
-- Gillingham v AFC Wimbledon
-- Grimsby Town v Shrewsbury Town
-- Harrogate Town v Lincoln City
-- Leyton Orient v Wycombe Wanderers
-- Northampton Town v Southampton
-- Oxford United v Colchester United
-- Plymouth Argyle v QPR
-- Portsmouth v Reading
-- Salford City v Rotherham United
-- Stoke City v Walsall
-- Tranmere Rovers v Burton Albion
-- Watford v Norwich City
-- West Brom v Derby County
-- Wigan Athletic v Notts County
-- Wrexham v Hull City
-- Brackley Town v Blackburn Rovers U21
-- Bromley v Ipswich Town
+- No Fixtures
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 114.70999908447266 
+- VWRL.L : 114.68000030517578 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Borussia Dortmund ‘once again considering’ Renato Veiga — report
+- Bayern Munich re-reignite Christopher Nkunku interest — reports
+- The Daily Hilario: Tuesday
+- Chelsea want to pay only ‘around £30m’ for Alejandro Garnacho — report
 - Christopher Nkunku ‘would be open’ to potential RB Leipzig return — report
 - The Daily Hilario: Monday
 - Chelsea, RB Leipzig in talks for Xavi Simons, Christopher Nkunku swap — reports
 - Enzo Maresca plays down Trevoh Chalobah injury concerns
 - Chelsea 4-1 AC Milan, Friendly: Post-match reaction
 - Chelsea vs. AC Milan, Friendly: Confirmed lineups; how to watch
-- The Daily Hilario: Sunday
-- Chelsea vs. AC Milan, Friendly: Preview, team news, how to watch
-- Chelsea not in for Marc Guéhi, exploring ‘different options’ after Levi Colwill injury
-- The Daily Hilario: Saturday
 
 <!-- news_marker ends -->
 
@@ -109,14 +69,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Europe builds for war as arms factories expand at triple speed
-- The unprecedented feud between the US and Brazil
-- The lost art of admitting what you don’t know
-- ‘Manipulative’ Putin vs ‘emotional’ Trump: what past summits reveal about Alaska meeting
-- Trump extends trade war truce with China
-- Global stocks rally as Washington and Beijing signal trade talks
-- Google and IBM believe first workable quantum computer is in sight
-- HSBC flags 73% of Hong Kong commercial property loans as risky
+- France, Germany and UK willing to reimpose sanctions on Iran
+- How the Bayeux Tapestry became a tool of soft power
+- Investors are frogs in a Trumpian pot
+- No experts in the room: Trump to meet Putin after loss of Russia specialists
+- ‘Traffic-light’ dashboard lets PwC monitor office attendance
+- Global stocks buoyed by steady US inflation data
+- CoreWeave shares drop after bigger than expected losses
+- UK porn site traffic plunges as age verification rules take effect
 
 <!-- ftnews_marker ends -->
 
@@ -124,40 +84,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > innumerate - innumerate: adjective: Marked by ignorance of mathematical concepts. noun: A person who is unable to count or do simple mathematics.
+ > pule - pule: To whimper or whine.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> By limiting not only the amount of work we start, but also the work we commit to doing, we can improve our flow and achieve better quality, better throughput and more consistency
+> Leadership is the art of giving people a platform for spreading ideas that work. - Seth Godin
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Get your neck massaged
+> Make an exhaustive list of everything you might do and do the last
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Luther: The Fallen Sun (Rated: 3)
-- Released in 2023
-- Summary: Brilliant but disgraced detective John Luther breaks out of prison to hunt down a sadistic serial killer who is terrorising London.
+- The Task (Rated: 8)
+- Released in 2011
+- Summary: A group of reality show contestants must survive the night in a haunted jail.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 369, using [3, 6, 7, 7, 10, 50]
-- Answer: 17 solutions.
+- Target: 262, using [6, 6, 6, 8, 9, 75]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 7 / 7 + 50 + 10 ) x 6 + 3
+  Solution: ( 75 - 8 ) x 6 x 6 / 9 - 6
 
    </details>
 
