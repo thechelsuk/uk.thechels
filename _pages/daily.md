@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 13 August 2025
+## On Thursday, 14 August 2025
 
-- The average temperature today is 18.79˚C,
-- With highs of 19.43˚C and lows of 17.62˚C,
-- It may feel like 18.76˚C with few clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 78%
-- The sun will rise at 04:49 and set at 19:36
+- The average temperature today is 16.67˚C,
+- With highs of 17.2˚C and lows of 16.4˚C,
+- It may feel like 16.66˚C with clear sky
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 87%
+- The sun will rise at 04:51 and set at 19:34
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 526 days since the last change (2024-03-05)
+- It has been 527 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,7 +32,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Design for constant evolution.
+> Provide purpose, mastery and autonomy.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -45,13 +45,16 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 114.68000030517578 
+- VWRL.L : 114.76000213623047 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Marc Guiu off to inauspicious start at Sunderland with match fitness issues
+- Chelsea players took home $500k bonuses for winning Club World Cup — report
+- The Daily Hilario: Wednesday
 - Borussia Dortmund ‘once again considering’ Renato Veiga — report
 - Bayern Munich re-reignite Christopher Nkunku interest — reports
 - The Daily Hilario: Tuesday
@@ -59,9 +62,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - Christopher Nkunku ‘would be open’ to potential RB Leipzig return — report
 - The Daily Hilario: Monday
 - Chelsea, RB Leipzig in talks for Xavi Simons, Christopher Nkunku swap — reports
-- Enzo Maresca plays down Trevoh Chalobah injury concerns
-- Chelsea 4-1 AC Milan, Friendly: Post-match reaction
-- Chelsea vs. AC Milan, Friendly: Confirmed lineups; how to watch
 
 <!-- news_marker ends -->
 
@@ -69,14 +69,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- France, Germany and UK willing to reimpose sanctions on Iran
-- How the Bayeux Tapestry became a tool of soft power
-- Investors are frogs in a Trumpian pot
-- No experts in the room: Trump to meet Putin after loss of Russia specialists
-- ‘Traffic-light’ dashboard lets PwC monitor office attendance
-- Global stocks buoyed by steady US inflation data
-- CoreWeave shares drop after bigger than expected losses
-- UK porn site traffic plunges as age verification rules take effect
+- Initial tax data allays fears of non-dom exodus from UK
+- Zelenskyy faces his ‘moment of maximum pressure’
+- The art of persuasion: how top AI chatbots can change your mind
+- What I witnessed at the battle of Orgreave
+- UK inheritance tax clampdown will not spark mass sale of family farms, study shows
+- Four BCG staff quit Gaza aid project over early concerns
+- Saudi Arabia’s PIF makes $8bn writedown on value of flagship megaprojects
+- DeepSeek’s launch of new AI model delayed by Huawei chip issues
 
 <!-- ftnews_marker ends -->
 
@@ -84,40 +84,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > pule - pule: To whimper or whine.
+ > agon - agon: A conflict, contest, or struggle.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Leadership is the art of giving people a platform for spreading ideas that work. - Seth Godin
+> Scrum focuses on being agile which may (and should) lead to improving. Kanban focuses on improving, which may lead to being agile. - Karl Scotland, Agile Trainer
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Make an exhaustive list of everything you might do and do the last
+> Do we need holes?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Task (Rated: 8)
-- Released in 2011
-- Summary: A group of reality show contestants must survive the night in a haunted jail.
+- Hard Target 2 (Rated: 3)
+- Released in 2016
+- Summary: Wes is slumming it in Bangkok 6 months after killing his best friend in a match in Vegas. He's tricked into Myanmar's jungle, where he's the fox in rich people's hunt.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 262, using [6, 6, 6, 8, 9, 75]
-- Answer: 3 solutions.
+- Target: 688, using [1, 9, 10, 25, 50, 75]
+- Answer: 1 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 - 8 ) x 6 x 6 / 9 - 6
+  Solution: 75 x 9 + 50 / 25 + 10 + 1
 
    </details>
 
