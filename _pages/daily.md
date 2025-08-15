@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 14 August 2025
+## On Friday, 15 August 2025
 
-- The average temperature today is 16.67˚C,
-- With highs of 17.2˚C and lows of 16.4˚C,
-- It may feel like 16.66˚C with clear sky
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 87%
-- The sun will rise at 04:51 and set at 19:34
+- The average temperature today is 15.51˚C,
+- With highs of 16.66˚C and lows of 14.26˚C,
+- It may feel like 15.44˚C with broken clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 89%
+- The sun will rise at 04:52 and set at 19:32
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 527 days since the last change (2024-03-05)
+- It has been 528 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,26 +32,28 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Provide purpose, mastery and autonomy.
+> Design for constant evolution.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- No Fixtures
+- Liverpool v AFC Bournemouth
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 114.76000213623047 
+- VWRL.L : 114.7699966430664 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea sporting directors also sign new long-term contracts — report
+- The Daily Hilario: Thursday
 - Marc Guiu off to inauspicious start at Sunderland with match fitness issues
 - Chelsea players took home $500k bonuses for winning Club World Cup — report
 - The Daily Hilario: Wednesday
@@ -60,8 +62,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - The Daily Hilario: Tuesday
 - Chelsea want to pay only ‘around £30m’ for Alejandro Garnacho — report
 - Christopher Nkunku ‘would be open’ to potential RB Leipzig return — report
-- The Daily Hilario: Monday
-- Chelsea, RB Leipzig in talks for Xavi Simons, Christopher Nkunku swap — reports
 
 <!-- news_marker ends -->
 
@@ -69,14 +69,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Initial tax data allays fears of non-dom exodus from UK
-- Zelenskyy faces his ‘moment of maximum pressure’
-- The art of persuasion: how top AI chatbots can change your mind
-- What I witnessed at the battle of Orgreave
-- UK inheritance tax clampdown will not spark mass sale of family farms, study shows
-- Four BCG staff quit Gaza aid project over early concerns
-- Saudi Arabia’s PIF makes $8bn writedown on value of flagship megaprojects
-- DeepSeek’s launch of new AI model delayed by Huawei chip issues
+- China’s economy loses momentum as trade pressures weigh
+- Trump the ‘dealmaker’ faces his biggest test with Putin summit
+- Opponents of Trump’s tariffs should be wary of relying on the courts
+- Doom sells: why everyone’s talking about the end times
+- Tech bosses spend millions more on personal security
+- Canary Wharf office values rise for first time in three years
+- Reports of the death of Canary Wharf were exaggerated
+- Re-housing falcons and a £10mn front door: Westminster’s spiralling refurbishment costs
 
 <!-- ftnews_marker ends -->
 
@@ -84,40 +84,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > agon - agon: A conflict, contest, or struggle.
+ > exfoliate - exfoliate: To remove or shed dead cells, leaves, bark, etc.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Scrum focuses on being agile which may (and should) lead to improving. Kanban focuses on improving, which may lead to being agile. - Karl Scotland, Agile Trainer
+> There is nothing so useless as doing efficiently that which should not be done at all. - Peter Drucker
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Do we need holes?
+> [blank white card]
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Hard Target 2 (Rated: 3)
-- Released in 2016
-- Summary: Wes is slumming it in Bangkok 6 months after killing his best friend in a match in Vegas. He's tricked into Myanmar's jungle, where he's the fox in rich people's hunt.
+- 1 Mile to You (Rated: 3)
+- Released in 2017
+- Summary: After a teenager's friends die in an accident, he finds running allows him to remember them perfectly. Running, however, also brings him notoriety. He is caught between keeping the past alive and making new memories in the present.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 688, using [1, 9, 10, 25, 50, 75]
-- Answer: 1 solutions.
+- Target: 896, using [3, 6, 6, 7, 25, 50]
+- Answer: 16 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: 75 x 9 + 50 / 25 + 10 + 1
+  Solution: ( 25 - 7 ) x 50 + 6 / 3 - 6
 
    </details>
 
