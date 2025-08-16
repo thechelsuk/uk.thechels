@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 15 August 2025
+## On Saturday, 16 August 2025
 
-- The average temperature today is 15.51˚C,
-- With highs of 16.66˚C and lows of 14.26˚C,
-- It may feel like 15.44˚C with broken clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 89%
-- The sun will rise at 04:52 and set at 19:32
+- The average temperature today is 16.74˚C,
+- With highs of 17.21˚C and lows of 16.49˚C,
+- It may feel like 16.66˚C with broken clouds
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 1027hPa and humidity is 84%
+- The sun will rise at 04:54 and set at 19:30
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 528 days since the last change (2024-03-05)
+- It has been 529 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -38,30 +38,41 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Liverpool v AFC Bournemouth
+- Tottenham Hotspur U18 v Reading U18
+- Derby County v Coventry City
+- Portsmouth v Norwich City
+- Wrexham v West Brom
+- Burton Albion v Port Vale
+- Exeter City v Mansfield Town
+- Chesterfield v Bristol Rovers
+- Oldham Athletic v Swindon Town
+- Rochdale v Altrincham
+- Aston Villa v Newcastle United
+- Truro City v York City
+- Wolves v Manchester City
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 114.7699966430664 
+- VWRL.L : 114.83000183105469 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Nicolas Jackson will not play against Crystal Palace, and not just because he’s suspended
+- Villarreal offer ‘short of expectations’ for Chelsea defender Renato Veiga — report
+- Chelsea reject ‘insulting’ Borussia Dortmund loan offer for Carney Chukwuemeka — report
+- Bayern Munich, Chelsea in talks for Christopher Nkunku transfer — reports
+- OGC Nice, Toulouse ‘in the running’ for Chelsea striker David Datro Fofana — report
+- The Daily Hilario: Friday
 - Chelsea sporting directors also sign new long-term contracts — report
 - The Daily Hilario: Thursday
 - Marc Guiu off to inauspicious start at Sunderland with match fitness issues
 - Chelsea players took home $500k bonuses for winning Club World Cup — report
-- The Daily Hilario: Wednesday
-- Borussia Dortmund ‘once again considering’ Renato Veiga — report
-- Bayern Munich re-reignite Christopher Nkunku interest — reports
-- The Daily Hilario: Tuesday
-- Chelsea want to pay only ‘around £30m’ for Alejandro Garnacho — report
-- Christopher Nkunku ‘would be open’ to potential RB Leipzig return — report
 
 <!-- news_marker ends -->
 
@@ -69,14 +80,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- China’s economy loses momentum as trade pressures weigh
-- Trump the ‘dealmaker’ faces his biggest test with Putin summit
-- Opponents of Trump’s tariffs should be wary of relying on the courts
-- Doom sells: why everyone’s talking about the end times
-- Tech bosses spend millions more on personal security
-- Canary Wharf office values rise for first time in three years
-- Reports of the death of Canary Wharf were exaggerated
-- Re-housing falcons and a £10mn front door: Westminster’s spiralling refurbishment costs
+- Trump fails to secure Ukraine deal at Alaska summit with Putin
+- Alaska summit as it happened: Trump urges Zelenskyy to ‘make a deal’ after Putin talks conclude
+- Trump rolls out red carpet for Putin as Ukrainians watch from afar
+- Europe now needs to step off the sidelines on Ukraine
+- ‘May God give the right words to President Trump’: Anchorage hosts Putin summit
+- Treasury prepares tax reforms in push to boost UK productivity
+- UK consumers risk inflation hit to savings for first time in two years
+- Weight-loss weariness and Trump threats wipe $250bn off Novo Nordisk and Eli Lilly
 
 <!-- ftnews_marker ends -->
 
@@ -91,33 +102,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> There is nothing so useless as doing efficiently that which should not be done at all. - Peter Drucker
+> Scrum focuses on being agile which may (and should) lead to improving. Kanban focuses on improving, which may lead to being agile. - Karl Scotland, Agile Trainer
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> [blank white card]
+> Mechanicalize something idiosyncratic
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- 1 Mile to You (Rated: 3)
+- Mountain (Rated: 3)
 - Released in 2017
-- Summary: After a teenager's friends die in an accident, he finds running allows him to remember them perfectly. Running, however, also brings him notoriety. He is caught between keeping the past alive and making new memories in the present.
+- Summary: An experience about the highest peaks around the world.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 896, using [3, 6, 6, 7, 25, 50]
-- Answer: 16 solutions.
+- Target: 418, using [5, 8, 10, 25, 50, 100]
+- Answer: 10 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 25 - 7 ) x 50 + 6 / 3 - 6
+  Solution: ( ( 50 - 8 ) x 100 + 5 - 25 ) / 10
 
    </details>
 
