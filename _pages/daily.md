@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 16 August 2025
+## On Sunday, 17 August 2025
 
-- The average temperature today is 16.74˚C,
-- With highs of 17.21˚C and lows of 16.49˚C,
-- It may feel like 16.66˚C with broken clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1027hPa and humidity is 84%
-- The sun will rise at 04:54 and set at 19:30
+- The average temperature today is 12.56˚C,
+- With highs of 13.31˚C and lows of 11.5˚C,
+- It may feel like 12.09˚C with few clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 85%
+- The sun will rise at 04:56 and set at 19:28
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 529 days since the last change (2024-03-05)
+- It has been 530 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,24 +32,16 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Design for constant evolution.
+> Focus on user needs.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Tottenham Hotspur U18 v Reading U18
-- Derby County v Coventry City
-- Portsmouth v Norwich City
-- Wrexham v West Brom
-- Burton Albion v Port Vale
-- Exeter City v Mansfield Town
-- Chesterfield v Bristol Rovers
-- Oldham Athletic v Swindon Town
-- Rochdale v Altrincham
-- Aston Villa v Newcastle United
-- Truro City v York City
-- Wolves v Manchester City
+- Ipswich Town v Southampton
+- Chelsea v Crystal Palace
+- Nottingham Forest v Brentford
+- Manchester United v Arsenal
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -63,16 +55,16 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea not looking to sign another center back, despite Enzo Maresca’s public plea — report
+- Chelsea vs. Crystal Palace, Premier League: Preview, team news, how to watch
+- Tosin Adarabioyo to miss Crystal Palace match due to injury — report
+- Chelsea due  ‘around £4m’ as Omari Hutchinson signs for Nottingham Forest — reports
+- How should Chelsea line up against Crystal Palace in first game of new season?
+- The Daily Hilario: Saturday
 - Nicolas Jackson will not play against Crystal Palace, and not just because he’s suspended
 - Villarreal offer ‘short of expectations’ for Chelsea defender Renato Veiga — report
 - Chelsea reject ‘insulting’ Borussia Dortmund loan offer for Carney Chukwuemeka — report
 - Bayern Munich, Chelsea in talks for Christopher Nkunku transfer — reports
-- OGC Nice, Toulouse ‘in the running’ for Chelsea striker David Datro Fofana — report
-- The Daily Hilario: Friday
-- Chelsea sporting directors also sign new long-term contracts — report
-- The Daily Hilario: Thursday
-- Marc Guiu off to inauspicious start at Sunderland with match fitness issues
-- Chelsea players took home $500k bonuses for winning Club World Cup — report
 
 <!-- news_marker ends -->
 
@@ -80,14 +72,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump fails to secure Ukraine deal at Alaska summit with Putin
-- Alaska summit as it happened: Trump urges Zelenskyy to ‘make a deal’ after Putin talks conclude
-- Trump rolls out red carpet for Putin as Ukrainians watch from afar
-- Europe now needs to step off the sidelines on Ukraine
-- ‘May God give the right words to President Trump’: Anchorage hosts Putin summit
-- Treasury prepares tax reforms in push to boost UK productivity
-- UK consumers risk inflation hit to savings for first time in two years
-- Weight-loss weariness and Trump threats wipe $250bn off Novo Nordisk and Eli Lilly
+- Putin demanded Ukraine cede Donetsk and Luhansk in exchange for freezing rest of front line
+- ‘Stab in the back’: Kyiv reels as Trump embraces Putin’s terms
+- Russia, Ukraine and Europe are all trying to manipulate Trump
+- No concessions, no ceasefire: how Putin outplayed Trump in Anchorage
+- China’s entrepreneurial spirit is under immense strain
+- JPMorgan steps up planning for new Canary Wharf tower
+- EU push to protect digital rules holds up trade statement with US
+- ‘You will have AI friends’: Character.ai bets on companionship chatbots
 
 <!-- ftnews_marker ends -->
 
@@ -102,33 +94,35 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Scrum focuses on being agile which may (and should) lead to improving. Kanban focuses on improving, which may lead to being agile. - Karl Scotland, Agile Trainer
+> In XP, we do not divide and conquer. We conquer and divide. First we make something that works, then we bust that up and solve the little parts. - Kent Beck, XP Trainer and Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Mechanicalize something idiosyncratic
+> Bridges
+-build
+-burn
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Mountain (Rated: 3)
-- Released in 2017
-- Summary: An experience about the highest peaks around the world.
+- Napoleon Dynamite (Rated: 5)
+- Released in 2004
+- Summary: A listless and alienated teenager helps his new friend win the class presidency in their small western high school, while dealing with his bizarre family life back home.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 418, using [5, 8, 10, 25, 50, 100]
-- Answer: 10 solutions.
+- Target: 902, using [5, 6, 6, 9, 50, 100]
+- Answer: 4 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 50 - 8 ) x 100 + 5 - 25 ) / 10
+  Solution: ( 100 + 50 ) x 6 + 6 + 5 - 9
 
    </details>
 
