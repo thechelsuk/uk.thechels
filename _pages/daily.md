@@ -7,27 +7,28 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 17 August 2025
+## On Monday, 18 August 2025
 
-- The average temperature today is 12.56˚C,
-- With highs of 13.31˚C and lows of 11.5˚C,
-- It may feel like 12.09˚C with few clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 85%
-- The sun will rise at 04:56 and set at 19:28
+- The average temperature today is 16.23˚C,
+- With highs of 16.4˚C and lows of 16.03˚C,
+- It may feel like 15.97˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 79%
+- The sun will rise at 04:57 and set at 19:26
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 530 days since the last change (2024-03-05)
+- It has been 531 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
@@ -38,10 +39,9 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Ipswich Town v Southampton
-- Chelsea v Crystal Palace
-- Nottingham Forest v Brentford
-- Manchester United v Arsenal
+- Chelsea U21 v Manchester City U21
+- Sunderland U21 v Tottenham Hotspur U21
+- Leeds United v Everton
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -55,16 +55,16 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Enzo Maresca hoping Chelsea can build on and get better from ‘first real game’ of season
+- Chelsea 0-0 Crystal Palace, Premier League: Post-match reaction, ratings
+- Chelsea vs. Crystal Palace, Premier League: Live blog; highlights
+- Chelsea fans’ preferred lineup against Crystal Palace: Estêvão to start
+- The Daily Hilario: Sunday
 - Chelsea not looking to sign another center back, despite Enzo Maresca’s public plea — report
 - Chelsea vs. Crystal Palace, Premier League: Preview, team news, how to watch
 - Tosin Adarabioyo to miss Crystal Palace match due to injury — report
 - Chelsea due  ‘around £4m’ as Omari Hutchinson signs for Nottingham Forest — reports
 - How should Chelsea line up against Crystal Palace in first game of new season?
-- The Daily Hilario: Saturday
-- Nicolas Jackson will not play against Crystal Palace, and not just because he’s suspended
-- Villarreal offer ‘short of expectations’ for Chelsea defender Renato Veiga — report
-- Chelsea reject ‘insulting’ Borussia Dortmund loan offer for Carney Chukwuemeka — report
-- Bayern Munich, Chelsea in talks for Christopher Nkunku transfer — reports
 
 <!-- news_marker ends -->
 
@@ -72,14 +72,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Putin demanded Ukraine cede Donetsk and Luhansk in exchange for freezing rest of front line
-- ‘Stab in the back’: Kyiv reels as Trump embraces Putin’s terms
-- Russia, Ukraine and Europe are all trying to manipulate Trump
-- No concessions, no ceasefire: how Putin outplayed Trump in Anchorage
-- China’s entrepreneurial spirit is under immense strain
-- JPMorgan steps up planning for new Canary Wharf tower
-- EU push to protect digital rules holds up trade statement with US
-- ‘You will have AI friends’: Character.ai bets on companionship chatbots
+- Zelenskyy and allies to press Trump on security guarantees
+- An incompetent way to pursue peace in Ukraine
+- Zelenskyy’s Oval Office mission: court Trump and secure Ukraine’s future
+- The new Square Mile: how London’s IPO drought forced City bankers to pivot
+- India’s oil lobby is funding Putin’s war machine — that has to stop
+- Being an angel investor is tougher than it looks
+- Citi raid on JPMorgan investment bankers reaches double digits
+- British solar power surges past 2024 total
 
 <!-- ftnews_marker ends -->
 
@@ -87,42 +87,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > exfoliate - exfoliate: To remove or shed dead cells, leaves, bark, etc.
+ > pussophilist - noun: A cat lover.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> In XP, we do not divide and conquer. We conquer and divide. First we make something that works, then we bust that up and solve the little parts. - Kent Beck, XP Trainer and Author
+> People with goals succeed because they know where they are going. - Earl Nightingale, Motivational Speaker
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Bridges
--build
--burn
+> Use fewer notes
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Napoleon Dynamite (Rated: 5)
-- Released in 2004
-- Summary: A listless and alienated teenager helps his new friend win the class presidency in their small western high school, while dealing with his bizarre family life back home.
+- Scary Movie II (Rated: 3)
+- Released in 2001
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 902, using [5, 6, 6, 9, 50, 100]
-- Answer: 4 solutions.
+- Target: 821, using [1, 3, 3, 7, 7, 100]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 50 ) x 6 + 6 + 5 - 9
+  Solution: ( 100 - 7 - 1 ) x 3 x 3 - 7
 
    </details>
 
