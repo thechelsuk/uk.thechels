@@ -7,66 +7,74 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 22 August 2025
+## On Saturday, 23 August 2025
 
-- The average temperature today is 10.04˚C,
-- With highs of 11.09˚C and lows of 9.18˚C,
-- It may feel like 9.29˚C with few clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 84%
-- The sun will rise at 05:04 and set at 19:18
+- The average temperature today is 13.8˚C,
+- With highs of 14.43˚C and lows of 12.06˚C,
+- It may feel like 13.38˚C with overcast clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1020hPa and humidity is 82%
+- The sun will rise at 05:05 and set at 19:16
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 535 days since the last change (2024-03-05)
+- It has been 536 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Farmers Market in town
+- Water the plants
 
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Challenge assumptions.
+> Seek the best.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Sunderland U18 v Manchester City U18
-- Manchester City U21 v West Ham United U21
-- Tottenham Hotspur U21 v Crystal Palace U21
-- Derby County v Bristol City
-- West Ham United v Chelsea
+- Crystal Palace U18 v Chelsea U18
+- Manchester United U18 v Middlesbrough U18
+- Charlton Athletic v Leicester City
+- Hull City v Blackburn Rovers
+- Swansea City v Watford
+- Luton Town v Cardiff City
+- Rotherham United v Wigan Athletic
+- Newport County v MK Dons
+- Walsall v Salford City
+- Morecambe v Altrincham
+- Manchester City v Tottenham Hotspur
+- Wealdstone v Carlisle United
+- Arsenal v Leeds United
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 115.2300033569336 
+- VWRL.L : 115.91999816894531 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea assessing Cole Palmer growing groin concern
+- West Ham United 1-5 Chelsea, Premier League: Post-match reaction, ratings
+- West Ham United vs. Chelsea, Premier League: Live blog; highlights
+- Official: Villarreal sign Renato Veiga from Chelsea
+- Chelsea fans’ preferred lineup against West Ham United: Estêvão please!
+- The Daily Hilario: Friday
 - West Ham United vs. Chelsea, Premier League: Preview, team news, how to watch
 - Maresca: Nicolas Jackson and Christopher Nkunku leaving Chelsea would be best for all involved
 - Borussia Dortmund, Chelsea in talks for both Carney Chukwuemeka and Aarón Anselmino — reports
 - How should Chelsea line up against West Ham United on Friday night?
-- Chelsea unveil aggressively basic 2025-26 third kit
-- The Daily Hilario: Thursday
-- AFC Bournemouth, Chelsea in talks over Axel Disasi loan — reports
-- Julio Enciso to join Chelsea next summer after season at RC Strasbourg — report
-- Villarreal, Chelsea agree Renato Veiga transfer — report
-- The Daily Hilario: Wednesday
 
 <!-- news_marker ends -->
 
@@ -74,14 +82,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- EU speeds up plans for digital euro after US stablecoin law
-- The US tourism slump that never happened
-- Britain’s statistics scandal means it cannot answer its most pressing questions
-- Has the UK now found its role in the world?
-- Musk tried to enlist Zuckerberg in $100bn bid for OpenAI
-- Jefferies tells senior bankers to collaborate for biggest bonuses
-- UK banks have closed more than one in three branches over past five years
-- OnlyFans hands record $701mn dividend to owner ahead of sale
+- Powell paves the way for Fed rate cut in September
+- The twilight of the central banking elite
+- Can you run a Premier League football club?
+- How English costs the English
+- China refuses to explain ‘greyed out’ parts of London embassy plan
+- Gavin Newsom holds mirror to Maga by trolling Trump
+- US to take 10% stake in troubled chipmaker Intel
+- Tariff revenue will cut US deficits by $4tn, fiscal watchdog says
 
 <!-- ftnews_marker ends -->
 
@@ -96,33 +104,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The ScrumMaster should stay only one step ahead of the team and organization, pulling them out of their habits and customs. - Zuzana Sochova
+> Grand principles that generate no action are mere vapour. Conversely, specific practices in the absence of guiding principles are often inappropriately used. - Jim Highsmith, Agile Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Mechanicalize something idiosyncratic
+> Into the impossible
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Finding Nemo (Rated: 4)
-- Released in 2003
-- Summary: After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.
+- Its A Boy Girl Thing (Rated: 7)
+- Released in 2006
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 403, using [2, 2, 8, 9, 50, 75]
-- Answer: 16 solutions.
+- Target: 355, using [2, 3, 3, 5, 7, 25]
+- Answer: 28 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 - 8 ) x 9 - ( 2 + 2 ) x 50
+  Solution: ( 5 - 3 ) x 25 x 7 + 3 + 2
 
    </details>
 
