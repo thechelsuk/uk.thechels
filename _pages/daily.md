@@ -7,32 +7,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 31 August 2025
+## On Monday, 01 September 2025
 
-- The average temperature today is 13.5˚C,
-- With highs of 14.6˚C and lows of 12.61˚C,
-- It may feel like 13.07˚C with scattered clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1001hPa and humidity is 83%
-- The sun will rise at 05:18 and set at 18:58
+- The average temperature today is 14.79˚C,
+- With highs of 15.55˚C and lows of 14.27˚C,
+- It may feel like 14.49˚C with broken clouds
+- The wind speed is 4.47m/s and visibility is 10000m
+- The pressure is 998hPa and humidity is 83%
+- The sun will rise at 05:20 and set at 18:56
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 544 days since the last change (2024-03-05)
+- It has been 545 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Bias towards action.
+> Embrace uncertainty.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -52,16 +53,16 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- The Daily Hilario: TRANSFERPALOOZA 2025
+- Chelsea, Sunderland agree Marc Guiu recall, but Bayern call off Nicolas Jackson deal anyway — reports
+- Leeds United had bought his flight, then Chelsea pounced — report
+- Chelsea considering solutions as Liam Delap injury feared worse than initially thought — reports
+- The Daily Hilario: Sunday
 - Nicolas Jackson’s agent says there’s no going back to Chelsea now!
 - Chelsea submit €40m bid to Barcelona for Fermín López — reports
 - Official: Chelsea sign Alejandro Garnacho from Manchester United
 - Chelsea trying to back out of Nicolas Jackson deal after Liam Delap injury — report
 - Chelsea 2-0 Fulham, Premier League: Post-match reaction, ratings
-- Official: AC Milan sign Christopher Nkunku from Chelsea
-- Chelsea vs. Fulham, Premier League: Live blog, highlights
-- Bayern Munich, Chelsea agree Nicolas Jackson loan — report
-- Chelsea fans’ preferred lineup against Fulham: Only need one change
-- The Daily Hilario: Saturday
 
 <!-- news_marker ends -->
 
@@ -69,14 +70,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- JPMorgan Chase poaches record number of senior bankers
-- The kidults are more than alright for toy companies
-- Sending out an SOS: Save our Secretaries
-- Prominent Ukrainian nationalist politician shot dead in Lviv
-- Houthi prime minister killed in Israeli air strike on Yemen
-- Bitcoin boom sees newly wealthy splurging on luxury travel
-- ‘No room for complacency’, warns top ECB policymaker
-- China’s stock market outpaces global peers as local investors pile in
+- Investors underestimate Trump’s threat to the Fed, economists warn
+- Xi to project China’s global role with ‘victory day’ military parade
+- Why AI won’t take my job
+- Maha: Making America Held to international standards Again
+- Crossings of small boats to UK in August fall to lowest since 2019
+- French business warns of recession risk as political turmoil deepens
+- Stablecoins could trigger taxpayer bailouts, warns Nobel laureate
+- Europe has ‘pretty precise’ plan to send troops to Ukraine, von der Leyen says
 
 <!-- ftnews_marker ends -->
 
@@ -84,40 +85,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > serendipitous - adjective: Relating to fortunate discoveries or happenings by chance.
+ > theomachy - noun: A battle among the gods or other powerful entities.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> When we go into that new project, we believe in it all the way. We have confidence in our ability to do it right. - Walt Disney
+> Scrum is like your mother-in-law, it points out ALL your faults - Ken Schwaber
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Define an area as `safe' and use it as an anchor
+> thing on the list
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Semi-Pro (Rated: 5)
-- Released in 2008
-- Summary: Jackie Moon, the owner-coach-player of the American Basketball Association's Flint Michigan Tropics, rallies his teammates to make their NBA dreams come true.
+- Sucker Punch (Rated: 4)
+- Released in 2011
+- Summary: A young girl institutionalized by her abusive stepfather retreats to an alternative reality as a coping strategy and envisions a plan to help her escape.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 487, using [1, 9, 9, 10, 25, 100]
+- Target: 580, using [1, 2, 9, 25, 50, 100]
 - Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 25 + 10 + 9 - 1 ) x 9 + 100
+  Solution: ( 100 x 2 / 25 + 50 ) x ( 9 + 1 )
 
    </details>
 
