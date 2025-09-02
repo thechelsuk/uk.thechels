@@ -7,62 +7,89 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 01 September 2025
+## On Tuesday, 02 September 2025
 
-- The average temperature today is 14.79˚C,
-- With highs of 15.55˚C and lows of 14.27˚C,
-- It may feel like 14.49˚C with broken clouds
-- The wind speed is 4.47m/s and visibility is 10000m
-- The pressure is 998hPa and humidity is 83%
-- The sun will rise at 05:20 and set at 18:56
+- The average temperature today is 11.7˚C,
+- With highs of 12.2˚C and lows of 10.93˚C,
+- It may feel like 11.28˚C with scattered clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1002hPa and humidity is 90%
+- The sun will rise at 05:22 and set at 18:54
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 545 days since the last change (2024-03-05)
+- It has been 546 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Embrace uncertainty.
+> Use a common language.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- No Fixtures
+- AFC Wimbledon v Stevenage
+- Bolton Wanderers v Rotherham United
+- Burton Albion v Liverpool U21
+- Crewe Alexandra v Chesterfield
+- Doncaster Rovers v Everton U21
+- Fleetwood Town v Accrington Stanley
+- Gillingham v Fulham U21
+- Lincoln City v Notts County
+- Peterborough United v Leyton Orient
+- Plymouth Argyle v Cheltenham Town
+- Port Vale v Leeds United U21
+- Shrewsbury Town v Walsall
+- Stockport County v Wolves U21
+- Swindon Town v Reading
+- Wigan Athletic v Salford City
+- Wycombe Wanderers v Colchester United
+- Bradford City v Grimsby Town
+- Luton Town v Barnet
+- Bromley v Crystal Palace U21
+- Huddersfield Town v Newcastle United U21
+- Braintree Town v Tamworth
+- Eastleigh v Scunthorpe United
+- Morecambe v Forest Green Rovers
+- Solihull Moors v Yeovil Town
+- Wealdstone v Southend United
+- Marine v Darlington
+- Hampton & Richmond Borough v Torquay United
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 115.23999786376953 
+- VWRL.L : 115.27999877929688 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
-- The Daily Hilario: TRANSFERPALOOZA 2025
-- Chelsea, Sunderland agree Marc Guiu recall, but Bayern call off Nicolas Jackson deal anyway — reports
-- Leeds United had bought his flight, then Chelsea pounced — report
-- Chelsea considering solutions as Liam Delap injury feared worse than initially thought — reports
-- The Daily Hilario: Sunday
-- Nicolas Jackson’s agent says there’s no going back to Chelsea now!
-- Chelsea submit €40m bid to Barcelona for Fermín López — reports
-- Official: Chelsea sign Alejandro Garnacho from Manchester United
-- Chelsea trying to back out of Nicolas Jackson deal after Liam Delap injury — report
-- Chelsea 2-0 Fulham, Premier League: Post-match reaction, ratings
+- David Datro Fofana turns down Celtic for Charlton Athletic, but they miss the deadline — reports
+- Official: RC Strasbourg sign Ben Chilwell from Chelsea
+- Official: Bayern Munich sign Nicolas Jackson on loan from Chelsea
+- Fulham pull out of Tyrique George deal in the final hour — report
+- Ben Chilwell agrees last-minute Strasbourg transfer, but Raheem Sterling, Axel Disasi fail to secure moves — reports
+- Chelsea confirm Marc Guiu recall as Nicolas Jackson completes Bayern move ahead of transfer deadline
+- Official: Peterborough United sign Jimmy-Jay Morgan on loan from Chelsea
+- Bayern Munich, Chelsea re-agree Nicolas Jackson loan deal — report
+- Official: Chelsea sign Facundo Buonanotte on loan from Brighton &#038; Hove Albion
+- Official: Sheffield United sign Alex Matos from Chelsea
 
 <!-- news_marker ends -->
 
@@ -70,14 +97,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Investors underestimate Trump’s threat to the Fed, economists warn
-- Xi to project China’s global role with ‘victory day’ military parade
-- Why AI won’t take my job
-- Maha: Making America Held to international standards Again
-- Crossings of small boats to UK in August fall to lowest since 2019
-- French business warns of recession risk as political turmoil deepens
-- Stablecoins could trigger taxpayer bailouts, warns Nobel laureate
-- Europe has ‘pretty precise’ plan to send troops to Ukraine, von der Leyen says
+- UK fintechs explore buying US banks to speed up push for licences
+- Is there a future for the ‘Amazon of Africa’?
+- Labour needs to give up magical thinking on ‘reform’
+- Can a machine be just?
+- US sliding towards 1930s-style autocracy, warns Ray Dalio
+- Ex-KPMG executive targets £1bn valuation for his own accounting firm
+- Gold price vaults past $3,500 to new record
+- Nestlé dismisses CEO Laurent Freixe after probe into ‘romantic relationship’
 
 <!-- ftnews_marker ends -->
 
@@ -85,41 +112,34 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > theomachy - noun: A battle among the gods or other powerful entities.
+ > kleptocrat - noun: A politician or an official who uses their position to enrich themselves.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Scrum is like your mother-in-law, it points out ALL your faults - Ken Schwaber
+> The art of leadership is saying no, not yes. It is very easy to say yes - Tony Blair
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> thing on the list
+> Reverse
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Sucker Punch (Rated: 4)
-- Released in 2011
-- Summary: A young girl institutionalized by her abusive stepfather retreats to an alternative reality as a coping strategy and envisions a plan to help her escape.
+- The Hoax (Rated: 3)
+- Released in 2006
+- Summary: In what would cause a fantastic media frenzy, Clifford Irving sells his bogus biography of Howard Hughes to a premiere publishing house in the early 1970s.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 580, using [1, 2, 9, 25, 50, 100]
-- Answer: 3 solutions.
-
-- <details><summary><code>Solution</code></summary>
-
-  Solution: ( 100 x 2 / 25 + 50 ) x ( 9 + 1 )
-
-   </details>
+- Target: 995, using [1, 1, 8, 50, 75, 100]
 
 <!-- game_marker ends -->
