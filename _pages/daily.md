@@ -7,89 +7,61 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 02 September 2025
+## On Wednesday, 03 September 2025
 
-- The average temperature today is 11.7˚C,
-- With highs of 12.2˚C and lows of 10.93˚C,
-- It may feel like 11.28˚C with scattered clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1002hPa and humidity is 90%
-- The sun will rise at 05:22 and set at 18:54
+- The average temperature today is 17.07˚C,
+- With highs of 17.75˚C and lows of 16.27˚C,
+- It may feel like 17.26˚C with light rain
+- The wind speed is 2.24m/s and visibility is 3291m
+- The pressure is 990hPa and humidity is 93%
+- The sun will rise at 05:23 and set at 18:52
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 546 days since the last change (2024-03-05)
+- It has been 547 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Use a common language.
+> challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- AFC Wimbledon v Stevenage
-- Bolton Wanderers v Rotherham United
-- Burton Albion v Liverpool U21
-- Crewe Alexandra v Chesterfield
-- Doncaster Rovers v Everton U21
-- Fleetwood Town v Accrington Stanley
-- Gillingham v Fulham U21
-- Lincoln City v Notts County
-- Peterborough United v Leyton Orient
-- Plymouth Argyle v Cheltenham Town
-- Port Vale v Leeds United U21
-- Shrewsbury Town v Walsall
-- Stockport County v Wolves U21
-- Swindon Town v Reading
-- Wigan Athletic v Salford City
-- Wycombe Wanderers v Colchester United
-- Bradford City v Grimsby Town
-- Luton Town v Barnet
-- Bromley v Crystal Palace U21
-- Huddersfield Town v Newcastle United U21
-- Braintree Town v Tamworth
-- Eastleigh v Scunthorpe United
-- Morecambe v Forest Green Rovers
-- Solihull Moors v Yeovil Town
-- Wealdstone v Southend United
-- Marine v Darlington
-- Hampton & Richmond Borough v Torquay United
+- No Fixtures
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 115.27999877929688 
+- VWRL.L : 115.08000183105469 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea 2-0 Fulham, Player Ratings: Another game, another João Pedro goal
+- Official: Barnet sign Ronnie Stutter on loan from Chelsea
+- Chelsea recall Deivid Washington from Santos — report
+- Official: Ishé Samuels-Smith had rejoined Chelsea from Strasbourg before Swansea City loan
+- The Daily Hilario: Tuesday
 - David Datro Fofana turns down Celtic for Charlton Athletic, but they miss the deadline — reports
 - Official: RC Strasbourg sign Ben Chilwell from Chelsea
 - Official: Bayern Munich sign Nicolas Jackson on loan from Chelsea
 - Fulham pull out of Tyrique George deal in the final hour — report
 - Ben Chilwell agrees last-minute Strasbourg transfer, but Raheem Sterling, Axel Disasi fail to secure moves — reports
-- Chelsea confirm Marc Guiu recall as Nicolas Jackson completes Bayern move ahead of transfer deadline
-- Official: Peterborough United sign Jimmy-Jay Morgan on loan from Chelsea
-- Bayern Munich, Chelsea re-agree Nicolas Jackson loan deal — report
-- Official: Chelsea sign Facundo Buonanotte on loan from Brighton &#038; Hove Albion
-- Official: Sheffield United sign Alex Matos from Chelsea
 
 <!-- news_marker ends -->
 
@@ -97,14 +69,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- UK fintechs explore buying US banks to speed up push for licences
-- Is there a future for the ‘Amazon of Africa’?
-- Labour needs to give up magical thinking on ‘reform’
-- Can a machine be just?
-- US sliding towards 1930s-style autocracy, warns Ray Dalio
-- Ex-KPMG executive targets £1bn valuation for his own accounting firm
-- Gold price vaults past $3,500 to new record
-- Nestlé dismisses CEO Laurent Freixe after probe into ‘romantic relationship’
+- Xi hails ‘unstoppable’ China at landmark military parade with Putin and Kim
+- Vitol: the secretive trading giant minting fortunes for its employees
+- Crypto scandal sinks Russian elite’s $8.5mn polar party cruise
+- Norway says pump it up on oil and gas for now
+- Cut spending to fix UK public finances, investors urge Rachel Reeves
+- UK rail freight boss urges Reeves to scrap fuel duty freeze
+- French finance minister urges compromise on 2026 budget
+- Global bond sell-off hits Japanese government debt
 
 <!-- ftnews_marker ends -->
 
@@ -112,34 +84,41 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > kleptocrat - noun: A politician or an official who uses their position to enrich themselves.
+ > thanatophobia - noun: An excessive or irrational fear of death.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The art of leadership is saying no, not yes. It is very easy to say yes - Tony Blair
+> An organization that treats its programmers as morons will soon have programmers that are willing and able to act like morons only. - Bjarne Stroustrup, Computer Scientist
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Reverse
+> Assemble some of the instruments in a group and treat the group
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Hoax (Rated: 3)
-- Released in 2006
-- Summary: In what would cause a fantastic media frenzy, Clifford Irving sells his bogus biography of Howard Hughes to a premiere publishing house in the early 1970s.
+- Home Alone i (Rated: 2)
+- Released in 1990
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 995, using [1, 1, 8, 50, 75, 100]
+- Target: 303, using [1, 2, 4, 8, 9, 100]
+- Answer: 28 solutions.
+
+- <details><summary><code>Solution</code></summary>
+
+  Solution: ( 9 + 2 - 8 ) x 100 + 4 - 1
+
+   </details>
 
 <!-- game_marker ends -->
