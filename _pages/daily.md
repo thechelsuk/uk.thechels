@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 03 September 2025
+## On Thursday, 04 September 2025
 
-- The average temperature today is 17.07˚C,
-- With highs of 17.75˚C and lows of 16.27˚C,
-- It may feel like 17.26˚C with light rain
-- The wind speed is 2.24m/s and visibility is 3291m
-- The pressure is 990hPa and humidity is 93%
-- The sun will rise at 05:23 and set at 18:52
+- The average temperature today is 13.35˚C,
+- With highs of 14.05˚C and lows of 12.69˚C,
+- It may feel like 13.09˚C with light rain
+- The wind speed is 1.79m/s and visibility is 6762m
+- The pressure is 1000hPa and humidity is 90%
+- The sun will rise at 05:25 and set at 18:49
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 547 days since the last change (2024-03-05)
+- It has been 548 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,7 +32,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> challenge assumptions.
+> Optimise flow.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -45,13 +45,16 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 115.08000183105469 
+- VWRL.L : 115.41000366210938 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea confirm 2025-26 Champions League squad
+- Official: Volendam sign Kiano Dyer on loan from Chelsea
+- The Daily Hilario: Wednesday
 - Chelsea 2-0 Fulham, Player Ratings: Another game, another João Pedro goal
 - Official: Barnet sign Ronnie Stutter on loan from Chelsea
 - Chelsea recall Deivid Washington from Santos — report
@@ -59,9 +62,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - The Daily Hilario: Tuesday
 - David Datro Fofana turns down Celtic for Charlton Athletic, but they miss the deadline — reports
 - Official: RC Strasbourg sign Ben Chilwell from Chelsea
-- Official: Bayern Munich sign Nicolas Jackson on loan from Chelsea
-- Fulham pull out of Tyrique George deal in the final hour — report
-- Ben Chilwell agrees last-minute Strasbourg transfer, but Raheem Sterling, Axel Disasi fail to secure moves — reports
 
 <!-- news_marker ends -->
 
@@ -69,14 +69,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Xi hails ‘unstoppable’ China at landmark military parade with Putin and Kim
-- Vitol: the secretive trading giant minting fortunes for its employees
-- Crypto scandal sinks Russian elite’s $8.5mn polar party cruise
-- Norway says pump it up on oil and gas for now
-- Cut spending to fix UK public finances, investors urge Rachel Reeves
-- UK rail freight boss urges Reeves to scrap fuel duty freeze
-- French finance minister urges compromise on 2026 budget
-- Global bond sell-off hits Japanese government debt
+- Thousands of Lloyds staff face axe in performance overhaul
+- How the Trumps won the Gulf
+- Making British homes affordable again
+- If AI lifts off, will living standards follow?
+- Angela Rayner fights for political survival after property tax admission
+- Bond investors count on Trump tariff revenues to rein in US debt
+- Trade unions urge Reeves to fend off Reform UK with wealth taxes
+- US ‘very troubled’ by Norway fund’s Caterpillar divestment over Israel
 
 <!-- ftnews_marker ends -->
 
@@ -84,40 +84,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > thanatophobia - noun: An excessive or irrational fear of death.
+ > euryphagous - adjective: Eating a wide variety of foods.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> An organization that treats its programmers as morons will soon have programmers that are willing and able to act like morons only. - Bjarne Stroustrup, Computer Scientist
+> If you define the problem correctly, you almost have the solution. - Steve Jobs
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Assemble some of the instruments in a group and treat the group
+> You don't have to be ashamed of using your own ideas
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Home Alone i (Rated: 2)
-- Released in 1990
-- Summary: No summary available
+- Titanic (Rated: 1)
+- Released in 1997
+- Summary: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 303, using [1, 2, 4, 8, 9, 100]
-- Answer: 28 solutions.
+- Target: 708, using [6, 7, 10, 25, 75, 100]
+- Answer: 11 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 9 + 2 - 8 ) x 100 + 4 - 1
+  Solution: ( 75 - 6 ) x 100 / 10 + 25 - 7
 
    </details>
 
