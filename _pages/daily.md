@@ -7,62 +7,98 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 05 September 2025
+## On Saturday, 06 September 2025
 
-- The average temperature today is 10.7˚C,
-- With highs of 12.06˚C and lows of 9.26˚C,
-- It may feel like 10.2˚C with clear sky
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 91%
-- The sun will rise at 05:27 and set at 18:47
+- The average temperature today is 13.61˚C,
+- With highs of 14.43˚C and lows of 13.07˚C,
+- It may feel like 13.32˚C with overcast clouds
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 88%
+- The sun will rise at 05:28 and set at 18:45
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 549 days since the last change (2024-03-05)
+- It has been 550 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Water the plants
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Embrace uncertainty.
+> Focus on user needs.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Sheffield United Women v Sunderland AFC Women
-- Chelsea Women v Manchester City Women
+- Newport County v Bristol Rovers
+- Altrincham v Sutton United
+- Arsenal Women v London City Lionesses
+- Southampton Women v Ipswich Town Women
+- Bolton Wanderers v AFC Wimbledon
+- Doncaster Rovers v Bradford City
+- Huddersfield Town v Peterborough United
+- Lincoln City v Wigan Athletic
+- Plymouth Argyle v Stockport County
+- Port Vale v Leyton Orient
+- Rotherham United v Exeter City
+- Wycombe Wanderers v Mansfield Town
+- Barnet v Shrewsbury Town
+- Barrow AFC v Swindon Town
+- Cambridge United v Oldham Athletic
+- Cheltenham Town v Accrington Stanley
+- Colchester United v Crewe Alexandra
+- Harrogate Town v Crawley Town
+- MK Dons v Grimsby Town
+- Notts County v Fleetwood Town
+- Salford City v Tranmere Rovers
+- Walsall v Chesterfield
+- Boreham Wood v Morecambe
+- Boston United v Solihull Moors
+- Carlisle United v Truro City
+- Forest Green Rovers v Hartlepool United
+- Rochdale v Braintree Town
+- Scunthorpe United v Wealdstone
+- Southend United v FC Halifax Town
+- Tamworth v Eastleigh
+- Woking v Gateshead
+- Yeovil Town v York City
+- Kidderminster Harriers v Macclesfield FC
+- Dagenham & Redbridge v Worthing
+- England v Andorra
+- Bromley v Gillingham
+- Aldershot Town v Brackley Town
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 116.05999755859375 
+- VWRL.L : 115.5 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Cole Palmer teases imminent return; Moisés Caicedo misses Ecuador match
+- Andrey Santos chose Chelsea over Saudi Pro League riches
+- Chelsea FCW 2-1 Manchester City WFC, Women’s Super League: Post-match reaction
+- Official: Chelsea FC Women sign Alyssa Thompson from Angel City
+- Chelsea FCW vs. Manchester City WFC, Women’s Super League: Confirmed lineups; how to watch
+- Chelsea FCW vs. Manchester City WFC, Women’s Super League: Preview, team news, how to watch
+- The Daily Hilario: Friday
 - João Pedro, Enzo Maresca nominated for Premier League Player, Manager of the Month
 - The Daily Hilario: Thursday
 - Chelsea confirm 2025-26 Champions League squad
-- Official: Volendam sign Kiano Dyer on loan from Chelsea
-- The Daily Hilario: Wednesday
-- Chelsea 2-0 Fulham, Player Ratings: Another game, another João Pedro goal
-- Official: Barnet sign Ronnie Stutter on loan from Chelsea
-- Chelsea recall Deivid Washington from Santos — report
-- Official: Ishé Samuels-Smith had rejoined Chelsea from Strasbourg before Swansea City loan
-- The Daily Hilario: Tuesday
 
 <!-- news_marker ends -->
 
@@ -70,14 +106,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Stablecoin group Tether holds talks to invest in gold miners
-- Reality check looms for Reform UK’s Doge experiment
-- The psychology of CEO loyalty to Trump
-- The end of the gatekeepers
-- Sharp rise in UK pension lump sum withdrawals over tax concerns
-- Rayner property adviser says firm is being ‘scapegoated’ over unpaid tax
-- Norway is increasingly disadvantaged outside EU, foreign minister says
-- Big Tech bosses court favour with Trumps at White House dinner
+- Starmer launches sweeping cabinet reshuffle after Rayner resigns in tax scandal
+- Who’s who in Starmer’s new cabinet?
+- Rayner’s resignation comes at huge cost to Starmer
+- Keir Starmer’s problems multiply after deputy’s downfall
+- The audacity of mope
+- Polycrisis — is this the sequel?
+- Deutsche Bank in talks to become Revolut’s Canary Wharf neighbour
+- Reform UK think-tank plans Trump-style constitutional changes
 
 <!-- ftnews_marker ends -->
 
@@ -92,33 +128,36 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The ScrumMaster's role is to support team rather than individual behaviour. - Zuzana Sochova
+> Scaling agile always sounds to me like scaling small-batch, hand-crafted artisanal beer. You end up with Bud Light. - Andy Hunt, Pragmatic Programmer
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> [blank white card]
+> Lowest common denominator check
+-single beat
+-single note
+-single
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Mean Machine (Rated: 8)
-- Released in 2001
-- Summary: After 2 years in prison Ricco is released and on a path of vengeance. His father, the head of a mafia family, is gunned down by the ambitious Don Vito and now Ricco is looking to settle the score.
+- Hook (Rated: 2)
+- Released in 1991
+- Summary: When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 162, using [1, 5, 6, 7, 25, 50]
-- Answer: 32 solutions.
+- Target: 991, using [2, 4, 7, 8, 9, 100]
+- Answer: 14 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 + 7 - 25 - 5 ) x 6
+  Solution: ( ( 9 - 4 ) x 100 - 8 ) x 2 + 7
 
    </details>
 
