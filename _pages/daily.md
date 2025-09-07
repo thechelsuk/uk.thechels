@@ -7,75 +7,38 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 06 September 2025
+## On Sunday, 07 September 2025
 
-- The average temperature today is 13.61˚C,
-- With highs of 14.43˚C and lows of 13.07˚C,
-- It may feel like 13.32˚C with overcast clouds
+- The average temperature today is 17.83˚C,
+- With highs of 18.32˚C and lows of 17.05˚C,
+- It may feel like 17.57˚C with overcast clouds
 - The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 88%
-- The sun will rise at 05:28 and set at 18:45
+- The pressure is 1006hPa and humidity is 73%
+- The sun will rise at 05:30 and set at 18:42
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 550 days since the last change (2024-03-05)
+- It has been 551 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Water the plants
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Focus on user needs.
+> Commit to the direction.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Newport County v Bristol Rovers
-- Altrincham v Sutton United
-- Arsenal Women v London City Lionesses
-- Southampton Women v Ipswich Town Women
-- Bolton Wanderers v AFC Wimbledon
-- Doncaster Rovers v Bradford City
-- Huddersfield Town v Peterborough United
-- Lincoln City v Wigan Athletic
-- Plymouth Argyle v Stockport County
-- Port Vale v Leyton Orient
-- Rotherham United v Exeter City
-- Wycombe Wanderers v Mansfield Town
-- Barnet v Shrewsbury Town
-- Barrow AFC v Swindon Town
-- Cambridge United v Oldham Athletic
-- Cheltenham Town v Accrington Stanley
-- Colchester United v Crewe Alexandra
-- Harrogate Town v Crawley Town
-- MK Dons v Grimsby Town
-- Notts County v Fleetwood Town
-- Salford City v Tranmere Rovers
-- Walsall v Chesterfield
-- Boreham Wood v Morecambe
-- Boston United v Solihull Moors
-- Carlisle United v Truro City
-- Forest Green Rovers v Hartlepool United
-- Rochdale v Braintree Town
-- Scunthorpe United v Wealdstone
-- Southend United v FC Halifax Town
-- Tamworth v Eastleigh
-- Woking v Gateshead
-- Yeovil Town v York City
-- Kidderminster Harriers v Macclesfield FC
-- Dagenham & Redbridge v Worthing
-- England v Andorra
-- Bromley v Gillingham
-- Aldershot Town v Brackley Town
+- No Fixtures
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -89,6 +52,7 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- ‘No regrets, just gratitude’ for Nicolas Jackson after dramatic Chelsea exit
 - Cole Palmer teases imminent return; Moisés Caicedo misses Ecuador match
 - Andrey Santos chose Chelsea over Saudi Pro League riches
 - Chelsea FCW 2-1 Manchester City WFC, Women’s Super League: Post-match reaction
@@ -98,7 +62,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - The Daily Hilario: Friday
 - João Pedro, Enzo Maresca nominated for Premier League Player, Manager of the Month
 - The Daily Hilario: Thursday
-- Chelsea confirm 2025-26 Champions League squad
 
 <!-- news_marker ends -->
 
@@ -106,14 +69,13 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Starmer launches sweeping cabinet reshuffle after Rayner resigns in tax scandal
-- Who’s who in Starmer’s new cabinet?
-- Rayner’s resignation comes at huge cost to Starmer
-- Keir Starmer’s problems multiply after deputy’s downfall
-- The audacity of mope
-- Polycrisis — is this the sequel?
-- Deutsche Bank in talks to become Revolut’s Canary Wharf neighbour
-- Reform UK think-tank plans Trump-style constitutional changes
+- Business hopes grow Starmer will dilute workers’ rights bill
+- Jubilant Reform supporters make hay at Birmingham conference
+- Trump is turning the White House into Mar-a-Lagoland
+- UK faces mounting stockpile of used EV batteries
+- EU steelmakers plead for tariffs on cheap imports to avert collapse
+- TfL warns of severe disruption if London Underground strike goes ahead
+- Global banks rush into Credit Suisse vacuum to serve Swiss companies
 
 <!-- ftnews_marker ends -->
 
@@ -128,36 +90,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Scaling agile always sounds to me like scaling small-batch, hand-crafted artisanal beer. You end up with Bud Light. - Andy Hunt, Pragmatic Programmer
+> We do not need an accurate document. We need a shared understanding. - Jeff Patton, Agile Trainer
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Lowest common denominator check
--single beat
--single note
--single
+> Assemble some of the instruments in a group and treat the group
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Hook (Rated: 2)
-- Released in 1991
-- Summary: When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.
+- Malevolent (Rated: 3)
+- Released in 2018
+- Summary: A team of scam artists get more than they bargained for when a job at a haunted country estate gets out of hand.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 991, using [2, 4, 7, 8, 9, 100]
-- Answer: 14 solutions.
+- Target: 949, using [2, 6, 10, 25, 50, 75]
+- Answer: 2 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 9 - 4 ) x 100 - 8 ) x 2 + 7
+  Solution: ( 75 - 50 / 25 ) x ( 6 / 2 + 10 )
 
    </details>
 
