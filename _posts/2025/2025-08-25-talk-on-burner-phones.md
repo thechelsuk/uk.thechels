@@ -9,7 +9,8 @@ cited: Rebecca Williams
 ---
 
 > Next, we discussed why your smartphone is risky and how you can improve it today, even without a burner phone. We covered how device IDs -- the IMSI tied to your SIM and cell tower access, and the IMEI tied to your hardware -- make true phone anonymity nearly impossible.  We also outlined four broad categories of data your phone collects and how each can be exposed
-- _Identity & finance_: payments, contracts, phone numbers, and digital IDs. 
+
+- _Identity & finance_: payments, contracts, phone numbers, and digital IDs.
 - _Location & movement_: GPS, Wi-Fi, Bluetooth, cell towers, and sensors, exposed by spyware, stalkerware, tower dumps, and data brokers.
 - _Communications & social graph_: calls, texts, and contacts, exposed through spyware, stalkerware, and forensic tools.
 - _Content & storage_: accounts, apps, photos, backups, and local files, exposed by spyware, forensic tools like Cellebrite and GrayKey, and cloud subpoenas.
@@ -22,7 +23,7 @@ cited: Rebecca Williams
 4. **Install Signal**
 5. **Enforce strict app permissions (deny mic, camera, location) unless needed**
 6. **Radios off (GPS/Wi-Fi/Bluetooth) unless needed**
-7. **Store minimal sensitive data (including photos) **
+7. **Store minimal sensitive data (including photos)**
 
 _For Android specifically_: Disable Google Location History & ad personalization, use Firefox or Brave instead of Chrome, restrict Gemini / Google Assistant, consider F-Droid for trusted apps, consider GrapheneOS or CalyxOS.
 
@@ -34,14 +35,14 @@ _For iPhones specifically_: Enable Ask App Not to Track, restrict Siri & Apple I
 
 From there, we moved into the "off the grid" options and mapped out a taxonomy of what people mean by a burner phone. We talked through four main categories:
 
-- _Prepaid or repurposed phones: _Cheap and flexible, but still tower-tracked and vulnerable to forensic phone breaking. Some can support Signal. 
+- _Prepaid or repurposed phones:_Cheap and flexible, but still tower-tracked and vulnerable to forensic phone breaking. Some can support Signal.
 - _SIM rotation_: Rotating SIMs manually or using PGPP eSIMs changes your IMSI, though your IMEI stays constant.
-- _Minimal or dumb phones_: Fewer apps, but limited functionality and no encryption. Staying off social more is still a win. 
+- _Minimal or dumb phones_: Fewer apps, but limited functionality and no encryption. Staying off social more is still a win.
 - _Device disguises_: Tools like VoIP numbers, VPNs, or hotspots can obscure identifiers but still leave metadata trails.
 
 Each of these offers some protection, though none guarantees anonymity.
 
-**Universal Burner Phone Set Up: **
+Universal Burner Phone Set Up:
 
 1. **Buy phone & service in cash**
 2. **Do not share your email, phone number, or ID with carriers or clerks when activating service**
