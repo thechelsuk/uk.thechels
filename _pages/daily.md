@@ -7,64 +7,76 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 12 September 2025
+## On Saturday, 13 September 2025
 
-- The average temperature today is 10.57˚C,
-- With highs of 11.09˚C and lows of 9.83˚C,
-- It may feel like 9.9˚C with light rain
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 85%
-- The sun will rise at 05:38 and set at 18:31
+- The average temperature today is 10.79˚C,
+- With highs of 11.4˚C and lows of 9.82˚C,
+- It may feel like 10.2˚C with overcast clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1006hPa and humidity is 87%
+- The sun will rise at 05:39 and set at 18:28
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 556 days since the last change (2024-03-05)
+- It has been 557 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Farmers Market in town
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Design for constant evolution.
+> Be open to change.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Manchester City Women v Brighton & Hove Albion Women
-- West Ham United Women v Arsenal Women
-- Ipswich Town v Sheffield United
+- Arsenal U18 v Chelsea U18
+- Manchester United U18 v Burnley U18
+- Crystal Palace U18 v Ipswich Town U18
+- Charlton Athletic v Millwall
+- Oxford United v Leicester City
+- Preston North End v Middlesbrough
+- Bradford City v Huddersfield Town
+- Northampton Town v Blackpool
+- Accrington Stanley v Colchester United
+- Crawley Town v Cheltenham Town
+- Yeovil Town v Woking
+- Arsenal v Nottingham Forest
+- Wolves U18 v Manchester City U18
+- FC Halifax Town v Eastleigh
+- West Ham United v Tottenham Hotspur
+- Brentford v Chelsea
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 117.45999908447266 
+- VWRL.L : 117.47000122070312 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Official: Maika Hamano signs new long-term Chelsea contract
+- Official: Chelsea agree future transfer of Emmanuel Emegha from RC Strasbourg
+- How should Chelsea line up against Brentford on Saturday night?
+- Mykhailo Mudryk positive doping test blamed on stem cell injection
+- The Daily Hilario: Friday
 - The FA bring 74 charges against Chelsea for self-reported, historical financial irregularities
 - Estêvão surprised, pleased by rapid adaptation, early opportunities with Chelsea
 - Cole Palmer back in Chelsea training, maybe — reports
 - The Daily Hilario: Thursday
 - The Daily Hilario: Wednesday
-- Liam Delap to miss 10 weeks with hamstring injury — report
-- Dário Essugo to be out &#8216;for a while&#8217; after undergoing hamstring surgery
-- The Daily Hilario: Tuesday
-- Eden Hazard, Cesc Fàbregas nominated again for Premier League Hall of Fame
-- Axel Disasi still hoping to win his spot back at Chelsea — report
 
 <!-- news_marker ends -->
 
@@ -72,14 +84,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Barclays boss warns UK government on wages and bank taxes
-- US authorities release new video of suspect in Charlie Kirk assassination
-- UK assets are in trouble — and any rewards come with plenty of risk
-- American right vows vengeance after killing of Charlie Kirk
-- UK trade minister urges China to let Britain revamp Beijing embassy
-- Ryanair prepared to cut 1mn more seats from Spain flights next summer
-- Nvidia and OpenAI to back major UK investment in artificial intelligence
-- Lobbying firm co-founded by Peter Mandelson prepares to cut ties with him
+- US urged UK to offer a better deal on drug pricing to pharma companies
+- What we know about the suspect in the shooting of Charlie Kirk
+- America’s dangerous descent into mutual loathing
+- The Mandelson appointment shows Starmer’s weakness
+- US and UK near tech, nuclear and whisky deals ahead of Trump trip
+- Fed governor Lisa Cook listed contested home as vacation property
+- French debt downgrade piles pressure on Macron’s new prime minister
+- Cathie Wood’s flagship ARK fund balloons by $3.5bn ahead of Klarna IPO
 
 <!-- ftnews_marker ends -->
 
@@ -94,33 +106,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> There is nothing so useless as doing efficiently that which should not be done at all. - Peter Drucker
+> Kill your product if a pivot is not beneficial and persevering no option. It is tough but the right thing to do. - Roman Pichler, Agile Trainer and Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Emphasize differences
+> Fill every beat with something
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Snitch (Rated: 3)
-- Released in 2013
-- Summary: A father goes undercover for the DEA in order to free his son, who was imprisoned after being set up in a drug deal.
+- 21 (Rated: 9)
+- Released in 2008
+- Summary: Inspired by real events and people, 21 is about six MIT students who become trained to be experts in card counting in blackjack and subsequently took Vegas casinos for millions in winnings.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 282, using [5, 6, 9, 10, 25, 75]
-- Answer: 15 solutions.
+- Target: 395, using [1, 3, 5, 8, 10, 75]
+- Answer: 34 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 - 25 ) x 6 - 10 x 9 / 5
+  Solution: ( 75 + 10 + 3 - 8 - 1 ) x 5
 
    </details>
 
