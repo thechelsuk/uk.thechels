@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 13 September 2025
+## On Sunday, 14 September 2025
 
-- The average temperature today is 10.79˚C,
-- With highs of 11.4˚C and lows of 9.82˚C,
-- It may feel like 10.2˚C with overcast clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1006hPa and humidity is 87%
-- The sun will rise at 05:39 and set at 18:28
+- The average temperature today is 8.97˚C,
+- With highs of 10.55˚C and lows of 8.15˚C,
+- It may feel like 8.97˚C with broken clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1010hPa and humidity is 92%
+- The sun will rise at 05:41 and set at 18:26
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 557 days since the last change (2024-03-05)
+- It has been 558 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,28 +32,13 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be open to change.
+> Move fast.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Arsenal U18 v Chelsea U18
-- Manchester United U18 v Burnley U18
-- Crystal Palace U18 v Ipswich Town U18
-- Charlton Athletic v Millwall
-- Oxford United v Leicester City
-- Preston North End v Middlesbrough
-- Bradford City v Huddersfield Town
-- Northampton Town v Blackpool
-- Accrington Stanley v Colchester United
-- Crawley Town v Cheltenham Town
-- Yeovil Town v Woking
-- Arsenal v Nottingham Forest
-- Wolves U18 v Manchester City U18
-- FC Halifax Town v Eastleigh
-- West Ham United v Tottenham Hotspur
-- Brentford v Chelsea
+- No Fixtures
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -67,16 +52,16 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Brentford 2-2 Chelsea, Premier League: Post-match reaction, ratings
+- Brentford vs. Chelsea, Premier League: Live blog; highlights
+- Official: Fatih Karagümrük SK sign David Datro Fofana on loan from Chelsea
+- Chelsea fans’ preferred lineup against Brentford: Close battle between Palmer, Gittens, Garnacho
+- The Daily Hilario: Saturday
+- Brentford vs. Chelsea, Premier League: Preview, team news, how to watch
 - Official: Maika Hamano signs new long-term Chelsea contract
 - Official: Chelsea agree future transfer of Emmanuel Emegha from RC Strasbourg
 - How should Chelsea line up against Brentford on Saturday night?
 - Mykhailo Mudryk positive doping test blamed on stem cell injection
-- The Daily Hilario: Friday
-- The FA bring 74 charges against Chelsea for self-reported, historical financial irregularities
-- Estêvão surprised, pleased by rapid adaptation, early opportunities with Chelsea
-- Cole Palmer back in Chelsea training, maybe — reports
-- The Daily Hilario: Thursday
-- The Daily Hilario: Wednesday
 
 <!-- news_marker ends -->
 
@@ -84,14 +69,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- US urged UK to offer a better deal on drug pricing to pharma companies
-- What we know about the suspect in the shooting of Charlie Kirk
-- America’s dangerous descent into mutual loathing
-- The Mandelson appointment shows Starmer’s weakness
-- US and UK near tech, nuclear and whisky deals ahead of Trump trip
-- Fed governor Lisa Cook listed contested home as vacation property
-- French debt downgrade piles pressure on Macron’s new prime minister
-- Cathie Wood’s flagship ARK fund balloons by $3.5bn ahead of Klarna IPO
+- French companies’ borrowing costs fall below government’s as debt fears intensify
+- How Macron’s France became Europe’s fiscal problem child
+- Abandoning the arts in schools is a national scandal
+- Pret and peers serve up a cold platter of UK high-street gloom
+- Tariffs and fentanyl question cloud prospect of Trump-Xi summit in Beijing
+- Spanish airport owner accuses Ryanair of ‘lies’ over flight cuts
+- ECB rate cuts at ‘or very close to’ end, says Austria’s central bank governor
+- Russia uses priests and bots to sway election, says Moldovan president
 
 <!-- ftnews_marker ends -->
 
@@ -106,33 +91,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Kill your product if a pivot is not beneficial and persevering no option. It is tough but the right thing to do. - Roman Pichler, Agile Trainer and Author
+> Agile is all about teams working together to produce great software. As an Agile coach, you can help your team go from first steps to running with Agile to unleashing their full Agile potential. - Rachel Davies and Liz Sedley, Agile Trainers and Authors
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Fill every beat with something
+> Only one element of each kind
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- 21 (Rated: 9)
-- Released in 2008
-- Summary: Inspired by real events and people, 21 is about six MIT students who become trained to be experts in card counting in blackjack and subsequently took Vegas casinos for millions in winnings.
+- Goth (Rated: 6)
+- Released in 2003
+- Summary: Morino and Kamiyama share a morbid fascination with cruelty and murder in this horror. Together they track down a brutal serial killer to find the latest two victims - not necessarily to bring the killer to justice but to inspect ...
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 395, using [1, 3, 5, 8, 10, 75]
-- Answer: 34 solutions.
+- Target: 467, using [2, 2, 4, 6, 8, 75]
+- Answer: 4 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 10 + 3 - 8 - 1 ) x 5
+  Solution: ( 75 - 8 ) x ( 6 / 2 + 4 ) - 2
 
    </details>
 
