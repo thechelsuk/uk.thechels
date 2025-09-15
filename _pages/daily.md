@@ -7,32 +7,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 14 September 2025
+## On Monday, 15 September 2025
 
-- The average temperature today is 8.97˚C,
-- With highs of 10.55˚C and lows of 8.15˚C,
-- It may feel like 8.97˚C with broken clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 92%
-- The sun will rise at 05:41 and set at 18:26
+- The average temperature today is 13.59˚C,
+- With highs of 14.43˚C and lows of 12.94˚C,
+- It may feel like 13.12˚C with overcast clouds
+- The wind speed is 7.6m/s and visibility is 10000m
+- The pressure is 1000hPa and humidity is 81%
+- The sun will rise at 05:43 and set at 18:24
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 558 days since the last change (2024-03-05)
+- It has been 559 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Move fast.
+> What got us here, will not get us there.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -52,16 +53,16 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Brentford 2-2 Chelsea, Player Ratings: Just gonna have to clone Caicedo and Palmer
+- Aston Villa WFC 1-3 Chelsea FCW, Women’s Super League: Post-match reaction
+- Aston Villa WFC vs. Chelsea FCW, Women’s Super League: Confirmed lineups; how to watch
+- Aston Villa WFC vs. Chelsea FCW, Women’s Super League: Preview, team news, how to watch
+- The Daily Hilario: Sunday
+- Maresca happy with Chelsea’s second half response, rues the two points dropped in final minutes
 - Brentford 2-2 Chelsea, Premier League: Post-match reaction, ratings
 - Brentford vs. Chelsea, Premier League: Live blog; highlights
 - Official: Fatih Karagümrük SK sign David Datro Fofana on loan from Chelsea
 - Chelsea fans’ preferred lineup against Brentford: Close battle between Palmer, Gittens, Garnacho
-- The Daily Hilario: Saturday
-- Brentford vs. Chelsea, Premier League: Preview, team news, how to watch
-- Official: Maika Hamano signs new long-term Chelsea contract
-- Official: Chelsea agree future transfer of Emmanuel Emegha from RC Strasbourg
-- How should Chelsea line up against Brentford on Saturday night?
-- Mykhailo Mudryk positive doping test blamed on stem cell injection
 
 <!-- news_marker ends -->
 
@@ -69,14 +70,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- French companies’ borrowing costs fall below government’s as debt fears intensify
-- How Macron’s France became Europe’s fiscal problem child
-- Abandoning the arts in schools is a national scandal
-- Pret and peers serve up a cold platter of UK high-street gloom
-- Tariffs and fentanyl question cloud prospect of Trump-Xi summit in Beijing
-- Spanish airport owner accuses Ryanair of ‘lies’ over flight cuts
-- ECB rate cuts at ‘or very close to’ end, says Austria’s central bank governor
-- Russia uses priests and bots to sway election, says Moldovan president
+- Crypto groups hit out at BoE plan to limit stablecoin ownership
+- US campuses seek a safe space for debate after Charlie Kirk’s murder
+- Why British workers keep getting pay rises despite weak hiring
+- The niche debt tool at the heart of Apollo’s private credit machine
+- Starmer has until May to turn things around, say MPs and unions
+- US-UK nuclear energy accord unveiled ahead of Trump state visit
+- UK fintech SumUp explores listing at up to $15bn valuation
+- Trump’s new SEC appointee scraps aggressive enforcement agenda
 
 <!-- ftnews_marker ends -->
 
@@ -84,40 +85,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > judgment day - noun: 1. A time when one is evaluated, especially for their actions. 2. In some religious traditions, the day when the world ends and God judges people, sending them to heaven or hell.
+ > corroboree - noun: 1. A meeting. 2. A large or noisy gathering or celebration. 3. A tumult.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Agile is all about teams working together to produce great software. As an Agile coach, you can help your team go from first steps to running with Agile to unleashing their full Agile potential. - Rachel Davies and Liz Sedley, Agile Trainers and Authors
+> He who cannot be a good follower cannot be a good leader - Aristotle
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Only one element of each kind
+> A line has two sides
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Goth (Rated: 6)
-- Released in 2003
-- Summary: Morino and Kamiyama share a morbid fascination with cruelty and murder in this horror. Together they track down a brutal serial killer to find the latest two victims - not necessarily to bring the killer to justice but to inspect ...
+- Bad Karma (Rated: 3)
+- Released in 2002
+- Summary: Reformed criminal gets blackmailed into doing one last job when former partner crawls out of the woodwork.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 467, using [2, 2, 4, 6, 8, 75]
-- Answer: 4 solutions.
+- Target: 884, using [6, 7, 9, 10, 25, 100]
+- Answer: 12 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 - 8 ) x ( 6 / 2 + 4 ) - 2
+  Solution: ( 25 - 10 - 6 ) x 100 - 9 - 7
 
    </details>
 
