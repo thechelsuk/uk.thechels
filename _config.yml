@@ -45,8 +45,6 @@ include:
 navigation_header:
   - link: "/about"
     title: "About"
-  - link: "/cv"
-    title: "CV"
   - link: "/daily"
     title: "Daily"
   - link: "/slashes"
