@@ -7,76 +7,57 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 16 September 2025
+## On Wednesday, 17 September 2025
 
-- The average temperature today is 11.99˚C,
-- With highs of 12.75˚C and lows of 11.5˚C,
-- It may feel like 11.33˚C with overcast clouds
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 80%
-- The sun will rise at 05:44 and set at 18:21
+- The average temperature today is 14.41˚C,
+- With highs of 14.99˚C and lows of 13.25˚C,
+- It may feel like 14.2˚C with overcast clouds
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 88%
+- The sun will rise at 05:46 and set at 18:19
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 560 days since the last change (2024-03-05)
+- It has been 561 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Move fast.
+> Provide purpose, mastery and autonomy.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Athletic Bilbao U19 v Arsenal U19
-- Tottenham Hotspur U19 v Villarreal U19
-- Athletic Bilbao v Arsenal
-- AFC Wimbledon v Crystal Palace U21
-- Blackpool v Barrow AFC
-- Exeter City v Cardiff City
-- MK Dons v West Ham United U21
-- Boston United v Sunderland U21
-- Braintree Town v Nottingham Forest U21
-- Forest Green Rovers v Wolves U21
-- Rochdale v Blackburn Rovers U21
-- Scunthorpe United v Leeds United U21
-- Solihull Moors v Burnley U21
-- Sutton United v Brighton & Hove Albion U21
-- Truro City v Fulham U21
-- Wealdstone v Leicester City U21
-- Woking v Southampton U21
-- Brackley Town v Manchester United U21
-- Sheffield Wednesday v Grimsby Town
-- Crawley Town v Aston Villa U21
-- Tamworth v Everton U21
-- Brentford v Aston Villa
-- Crystal Palace v Millwall
-- Tottenham Hotspur v Villarreal
+- Liverpool U19 v AtlÃ©tico Madrid U19
+- Gateshead v Middlesbrough U21
+- Swansea City v Nottingham Forest
+- Bayern Munich v Chelsea
+- Liverpool v AtlÃ©tico Madrid
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 117.69999694824219 
+- VWRL.L : 117.22000122070312 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- How should Chelsea line up against Bayern Munich on Champions League return?
+- The Daily Hilario: Tuesday
 - The Daily Hilario: Monday
 - Brentford 2-2 Chelsea, Player Ratings: Just gonna have to clone Caicedo and Palmer
 - Aston Villa WFC 1-3 Chelsea FCW, Women’s Super League: Post-match reaction
@@ -85,8 +66,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - The Daily Hilario: Sunday
 - Maresca happy with Chelsea’s second half response, rues the two points dropped in final minutes
 - Brentford 2-2 Chelsea, Premier League: Post-match reaction, ratings
-- Brentford vs. Chelsea, Premier League: Live blog; highlights
-- Official: Fatih Karagümrük SK sign David Datro Fofana on loan from Chelsea
 
 <!-- news_marker ends -->
 
@@ -94,14 +73,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump fails to oust Lisa Cook from Fed ahead of rates decision
-- Switzerland’s US tech ‘whale’
-- The left’s radical plan to fix housing in Paris
-- What’s in a popular first name? Let this Sarah tell you . . .
-- Trump tilts balance of power from investors to CEOs
-- Trump calls for US companies to ditch quarterly reporting
-- Banks tighten debt terms as squeezed UK universities refinance loans
-- UK smartphone maker Nothing raises $200mn to take on Apple and Samsung
+- Foreign investors in US assets rush for protection against swings in dollar
+- Pomp and protest: Donald Trump flies into UK for second state visit
+- The problem with taxing the rich
+- Trump’s quarterly reporting move is the wrong idea at the wrong time
+- UK inflation held steady at 3.8% in August
+- US lawmakers release more Epstein files amid scrutiny over Trump links
+- Senior UK official asks whether pause in pharma sector spending is ‘co-ordinated’
+- Ben & Jerry’s co-founder quits over Unilever ‘silencing’ of social mission
 
 <!-- ftnews_marker ends -->
 
@@ -109,40 +88,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > monomachy - noun: A fight between two people or forces.
+ > verisimilar - adjective: Having the appearance of truth or reality.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> This indispensable first step to getting what you want is this: Decide what you want. - Ben Stein, Actor
+> It is only a problem if it is a problem - Joe Delaney
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Decorate, decorate
+> Convert a melodic element into a rhythmic element
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- 6 Underground (Rated: 3)
-- Released in 2019
-- Summary: It follows a group of people who fake their deaths and decide to form a vigilante team in order to stage a coup d'état against a ruthless dictator.
+- The 13th Floor (Rated: 4)
+- Released in 1999
+- Summary: As a child, a girl witnesses her father electrocute a young boy. When she grows into an adult, the ghost of the murdered boy appears to her, and together they set out to expose the crimes of her father.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 337, using [4, 7, 7, 9, 10, 25]
-- Answer: 10 solutions.
+- Target: 544, using [1, 2, 5, 9, 10, 75]
+- Answer: 5 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 10 - 7 ) x 25 + 7 ) x 4 + 9
+  Solution: ( 75 + 5 - 10 - 2 ) x ( 9 - 1 )
 
    </details>
 
