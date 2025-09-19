@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 17 September 2025
+## On Friday, 19 September 2025
 
-- The average temperature today is 14.41˚C,
-- With highs of 14.99˚C and lows of 13.25˚C,
-- It may feel like 14.2˚C with overcast clouds
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 88%
-- The sun will rise at 05:46 and set at 18:19
+- The average temperature today is 16.11˚C,
+- With highs of 16.66˚C and lows of 15.39˚C,
+- It may feel like 15.97˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 84%
+- The sun will rise at 05:49 and set at 18:14
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 561 days since the last change (2024-03-05)
+- It has been 563 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,40 +32,39 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Provide purpose, mastery and autonomy.
+> Seek the best.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Liverpool U19 v AtlÃ©tico Madrid U19
-- Gateshead v Middlesbrough U21
-- Swansea City v Nottingham Forest
-- Bayern Munich v Chelsea
-- Liverpool v AtlÃ©tico Madrid
+- Sunderland AFC Women v Durham Women
+- Everton Women v London City Lionesses
+- Tottenham Hotspur Women v Manchester City Women
+- Middlesbrough v West Brom
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 117.22000122070312 
+- VWRL.L : 118.30999755859375 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Enzo Maresca believes Chelsea can ‘build something special’ from defeat against Bayern Munich
+- The Daily Hilario: Thursday
+- Bayern Munich 3-1 Chelsea, Champions League: Post-match reaction, ratings
+- Bayern Munich vs. Chelsea, Champions League: Live blog; highlights
+- Chelsea fans’ preferred lineup against Bayern Munich: Full strength ahead!
+- The Daily Hilario: Wednesday
+- Bayern Munich vs. Chelsea, Champions League: Preview, team news, how to watch
 - How should Chelsea line up against Bayern Munich on Champions League return?
 - The Daily Hilario: Tuesday
 - The Daily Hilario: Monday
-- Brentford 2-2 Chelsea, Player Ratings: Just gonna have to clone Caicedo and Palmer
-- Aston Villa WFC 1-3 Chelsea FCW, Women’s Super League: Post-match reaction
-- Aston Villa WFC vs. Chelsea FCW, Women’s Super League: Confirmed lineups; how to watch
-- Aston Villa WFC vs. Chelsea FCW, Women’s Super League: Preview, team news, how to watch
-- The Daily Hilario: Sunday
-- Maresca happy with Chelsea’s second half response, rues the two points dropped in final minutes
-- Brentford 2-2 Chelsea, Premier League: Post-match reaction, ratings
 
 <!-- news_marker ends -->
 
@@ -73,14 +72,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Foreign investors in US assets rush for protection against swings in dollar
-- Pomp and protest: Donald Trump flies into UK for second state visit
-- The problem with taxing the rich
-- Trump’s quarterly reporting move is the wrong idea at the wrong time
-- UK inflation held steady at 3.8% in August
-- US lawmakers release more Epstein files amid scrutiny over Trump links
-- Senior UK official asks whether pause in pharma sector spending is ‘co-ordinated’
-- Ben & Jerry’s co-founder quits over Unilever ‘silencing’ of social mission
+- Deutsche Bank chief Christian Sewing set to face multimillion-pound lawsuit
+- Petrodollars and the ‘Islamic Bomb’: how a Saudi-Pakistan pact was forged
+- Is America entering a new era of McCarthyism?
+- How drones have transformed the nature of war
+- UK borrowing rises more than expected in August to £18bn
+- Reeves to face £18bn spending shortfall if bet on productivity gains fails
+- UK households prefer cash, as they plough record sums into Isas
+- Oil market brushes off predictions of supply glut
 
 <!-- ftnews_marker ends -->
 
@@ -88,40 +87,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > verisimilar - adjective: Having the appearance of truth or reality.
+ > doctor's mandate - noun: Full authority to deal with a crisis.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> It is only a problem if it is a problem - Joe Delaney
+> User stories are not a replacement for requirements but a placeholder/marker. - Mike Cohn
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Convert a melodic element into a rhythmic element
+> Define an area as `safe' and use it as an anchor
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The 13th Floor (Rated: 4)
-- Released in 1999
-- Summary: As a child, a girl witnesses her father electrocute a young boy. When she grows into an adult, the ghost of the murdered boy appears to her, and together they set out to expose the crimes of her father.
+- Oceans 11 (Rated: 6)
+- Released in 2001
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 544, using [1, 2, 5, 9, 10, 75]
-- Answer: 5 solutions.
+- Target: 604, using [3, 6, 6, 9, 10, 50]
+- Answer: 4 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 5 - 10 - 2 ) x ( 9 - 1 )
+  Solution: ( 9 + 6 - 3 ) x 50 + 10 - 6
 
    </details>
 
