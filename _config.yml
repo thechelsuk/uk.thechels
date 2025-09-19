@@ -109,7 +109,6 @@ navigation_slashes:
     title: "Verify"
   - link: "/indieweb.txt"
     title: "IndieWeb"
-	
 ## External links
 navigation_external:
   - link: "https://music.apple.com/profile/thechelsuk"
@@ -132,7 +131,6 @@ navigation_external:
     title: "Twitch &#11084;"
   - link: "https://www.linkedin.com/in/0mat/"
     title: "LinkedIn &#11084;"
-
 ## Footer links
 navigation_footer:
   - link: "/feed"
