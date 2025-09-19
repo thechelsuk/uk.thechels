@@ -13,7 +13,7 @@ jobs:
 
             - name: Link Checker
               id: lychee
-              uses: lycheeverse/lychee-action@v2.4.1
+              uses: lycheeverse/lychee-action@v2.6.1
               with:
                   args: --verbose --no-progress --accept=200,203,204,429,999 --timeout=30 --retry-wait-time=5 --max-retries=2 --insecure --user-agent="Mozilla/5.0 (compatible; LinkChecker)" --exclude-mail './**/*.md' './**/*.html'
                   fail: true
