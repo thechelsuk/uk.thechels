@@ -7,55 +7,51 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 20 September 2025
+## On Sunday, 21 September 2025
 
-- The average temperature today is 15.33˚C,
-- With highs of 16.1˚C and lows of 14.36˚C,
-- It may feel like 15.19˚C with overcast clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1009hPa and humidity is 87%
-- The sun will rise at 05:51 and set at 18:12
+- The average temperature today is 7.95˚C,
+- With highs of 8.88˚C and lows of 7.51˚C,
+- It may feel like 7.95˚C with broken clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 88%
+- The sun will rise at 05:52 and set at 18:10
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 564 days since the last change (2024-03-05)
+- It has been 565 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Water the plants
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Move fast.
+> Crossing the river by feeling the stones.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Chelsea U18 v Brighton & Hove Albion U18
-- Crystal Palace U18 v Reading U18
-- Wolves U18 v Manchester United U18
-- Birmingham City v Swansea City
-- Leicester City v Coventry City
-- QPR v Stoke City
-- Blackpool v Barnsley
-- Bolton Wanderers v Wigan Athletic
-- Lincoln City v Luton Town
-- Cambridge United v Fleetwood Town
-- Harrogate Town v Shrewsbury Town
-- Brackley Town v Sutton United
-- Liverpool v Everton
-- Arsenal U21 v Wolves U21
-- Rochdale v Southend United
-- Manchester United v Chelsea
-- Fulham v Brentford
+- Aston Villa Women v Liverpool Women
+- Brighton & Hove Albion Women v West Ham United Women
+- Chelsea Women v Leicester City Women
+- AFC Bournemouth v Newcastle United
+- Sunderland v Aston Villa
+- Liverpool U21 v Manchester United U21
+- Birmingham City Women v Newcastle United Women
+- Charlton Athletic Women v Ipswich Town Women
+- Nottingham Forest Women v Crystal Palace Women
+- Portsmouth Women v Sheffield United Women
+- Southampton Women v Bristol City Women
+- Manchester United Women v Arsenal Women
+- Bristol City v Oxford United
+- Arsenal v Manchester City
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -69,16 +65,16 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea FCW vs. Leicester City WFC, Women&#8217;s Super League: Preview, team news, how to watch
+- Manchester United 2-1 Chelsea, Premier League: Post-match reaction, ratings
+- Manchester United vs. Chelsea, Premier League: Live blog; highlights
+- UEFA Women&#8217;s Champions League draw: Chelsea FCW to face Barcelona in league phase
+- Chelsea fans’ preferred lineup against Manchester United: It’s Garnacho time!
 - Manchester United vs. Chelsea, Premier League: Preview, team news, how to watch
 - How should Chelsea find fresh legs and line up against Manchester United?
 - Bayern Munich 3-1 Chelsea, Player Ratings: Cole Palmer not in it for the learning curve
-- The Daily Hilario: Friday
+- The Daily Hilario: Friday AND Saturday, too!
 - Official: Genesis Antwi signs new Chelsea contract
-- Enzo Maresca believes Chelsea can ‘build something special’ from defeat against Bayern Munich
-- The Daily Hilario: Thursday
-- Bayern Munich 3-1 Chelsea, Champions League: Post-match reaction, ratings
-- Bayern Munich vs. Chelsea, Champions League: Live blog; highlights
-- Chelsea fans’ preferred lineup against Bayern Munich: Full strength ahead!
 
 <!-- news_marker ends -->
 
@@ -86,14 +82,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Markets hit record highs as ‘Fomo’ infects investors
-- The truth about immigration
-- What if Putin and Xi live forever?
-- A lot of learning is a dangerous thing
-- Keir Starmer set to unveil digital ID scheme
-- US military conducts third fatal strike on alleged drug smuggling vessel
-- VW warns that Porsche EV delay will put €5.1bn dent in profits
-- Germany considers dropping France from flagship fighter jet project
+- Trump’s H-1B visa fee prompts emergency guidance from companies
+- Pentagon places restrictions on reporters in return for access
+- ‘Stargate of China’ plan emerges to challenge US as AI superpower
+- Will Benjamin Netanyahu annex the West Bank?
+- EU to block Big Tech from new financial data sharing system
+- The EU should see public anger at Trump as an opportunity
+- Former top civil servant in running to replace Mandelson as US ambassador
+- Chinese tech stocks surge past Nasdaq on the back of AI advance
 
 <!-- ftnews_marker ends -->
 
@@ -108,33 +104,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Innovation distinguishes between a leader and a follower - Steve Jobs
+> If you are early on in your career and they give you a choice between a great mentor or higher pay, take the mentor every time. It is not even close. - Stanley Druckenmiller
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Use fewer notes
+> What mistakes did you make last time?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Happy Death Day 2U (Rated: 4)
-- Released in 2019
-- Summary: Tree Gelbman discovers that dying over and over was surprisingly easier than the dangers that lie ahead.
+- Nocebo (Rated: 3)
+- Released in 2022
+- Summary: A fashion designer suffers from a mysterious illness that puzzles her doctors and frustrates her husband until help arrives in the form of a Filipino caregiver who uses traditional folk healing to reveal a horrifying truth.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 645, using [4, 7, 8, 9, 9, 75]
-- Answer: 9 solutions.
+- Target: 110, using [2, 3, 10, 25, 50, 100]
+- Answer: 195 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 7 - 9 ) x 9 - 8 - 4
+  Solution: 100 + 50 - 25 - 10 - 3 - 2
 
    </details>
 
