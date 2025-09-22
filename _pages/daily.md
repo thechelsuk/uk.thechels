@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 21 September 2025
+## On Monday, 22 September 2025
 
-- The average temperature today is 7.95˚C,
-- With highs of 8.88˚C and lows of 7.51˚C,
-- It may feel like 7.95˚C with broken clouds
+- The average temperature today is 3.11˚C,
+- With highs of 4.42˚C and lows of 2.04˚C,
+- It may feel like 3.11˚C with clear sky
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 88%
-- The sun will rise at 05:52 and set at 18:10
+- The pressure is 1028hPa and humidity is 90%
+- The sun will rise at 05:54 and set at 18:07
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 565 days since the last change (2024-03-05)
+- It has been 566 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,26 +32,13 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Crossing the river by feeling the stones.
+> Be the owner.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Aston Villa Women v Liverpool Women
-- Brighton & Hove Albion Women v West Ham United Women
-- Chelsea Women v Leicester City Women
-- AFC Bournemouth v Newcastle United
-- Sunderland v Aston Villa
-- Liverpool U21 v Manchester United U21
-- Birmingham City Women v Newcastle United Women
-- Charlton Athletic Women v Ipswich Town Women
-- Nottingham Forest Women v Crystal Palace Women
-- Portsmouth Women v Sheffield United Women
-- Southampton Women v Bristol City Women
-- Manchester United Women v Arsenal Women
-- Bristol City v Oxford United
-- Arsenal v Manchester City
+- Millwall v Watford
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -65,16 +52,16 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Manchester United 2-1 Chelsea, Player Ratings: A new individual low
+- Enzo Maresca tries to explain his substitutions against Manchester United
+- Chelsea FCW 1-0 Leicester City WFC, Women’s Super League: Post-match reaction
+- Chelsea FCW vs. Leicester City WFC, Women’s Super League: Confirmed lineups; how to watch
+- The Daily Hilario: Sunday
 - Chelsea FCW vs. Leicester City WFC, Women&#8217;s Super League: Preview, team news, how to watch
 - Manchester United 2-1 Chelsea, Premier League: Post-match reaction, ratings
 - Manchester United vs. Chelsea, Premier League: Live blog; highlights
 - UEFA Women&#8217;s Champions League draw: Chelsea FCW to face Barcelona in league phase
 - Chelsea fans’ preferred lineup against Manchester United: It’s Garnacho time!
-- Manchester United vs. Chelsea, Premier League: Preview, team news, how to watch
-- How should Chelsea find fresh legs and line up against Manchester United?
-- Bayern Munich 3-1 Chelsea, Player Ratings: Cole Palmer not in it for the learning curve
-- The Daily Hilario: Friday AND Saturday, too!
-- Official: Genesis Antwi signs new Chelsea contract
 
 <!-- news_marker ends -->
 
@@ -82,14 +69,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump’s H-1B visa fee prompts emergency guidance from companies
-- Pentagon places restrictions on reporters in return for access
-- ‘Stargate of China’ plan emerges to challenge US as AI superpower
-- Will Benjamin Netanyahu annex the West Bank?
-- EU to block Big Tech from new financial data sharing system
-- The EU should see public anger at Trump as an opportunity
-- Former top civil servant in running to replace Mandelson as US ambassador
-- Chinese tech stocks surge past Nasdaq on the back of AI advance
+- Trump hails Charlie Kirk as conservative ‘martyr’ in memorial service
+- How top hedge funds can pay traders $100mn
+- The warped economics of insuring climate destruction
+- How New York became a political laboratory
+- Retail and hospitality chains sound alarm over UK jobs market
+- UK explores plan to drop visa fees for top global talent
+- Trump’s H-1B visa fee to hit US employers with $14bn annual bill
+- UK, Canada and Australia recognise Palestine as an independent state
 
 <!-- ftnews_marker ends -->
 
@@ -97,40 +84,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > doctor's mandate - noun: Full authority to deal with a crisis.
+ > skid row - noun: An area where people down on their luck congregate, often struggling with poverty, addiction, or homelessness.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> If you are early on in your career and they give you a choice between a great mentor or higher pay, take the mentor every time. It is not even close. - Stanley Druckenmiller
+> Plans are worthless, but planning is everything - Dwight Eisenhower
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> What mistakes did you make last time?
+> Is it finished?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Nocebo (Rated: 3)
-- Released in 2022
-- Summary: A fashion designer suffers from a mysterious illness that puzzles her doctors and frustrates her husband until help arrives in the form of a Filipino caregiver who uses traditional folk healing to reveal a horrifying truth.
+- John Q (Rated: 3)
+- Released in 2002
+- Summary: John Quincy Archibald takes a hospital emergency room hostage when his insurance won't cover his son's heart transplant.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 110, using [2, 3, 10, 25, 50, 100]
-- Answer: 195 solutions.
+- Target: 303, using [1, 6, 10, 25, 75, 100]
+- Answer: 6 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: 100 + 50 - 25 - 10 - 3 - 2
+  Solution: 100 x 75 / 25 + 10 - 6 - 1
 
    </details>
 
