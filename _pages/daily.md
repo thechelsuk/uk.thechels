@@ -7,51 +7,57 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 25 September 2025
+## On Friday, 26 September 2025
 
-- The average temperature today is 4.59˚C,
-- With highs of 4.99˚C and lows of 3.86˚C,
-- It may feel like 4.59˚C with clear sky
+- The average temperature today is 5.08˚C,
+- With highs of 6.66˚C and lows of 3.72˚C,
+- It may feel like 5.08˚C with clear sky
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1027hPa and humidity is 86%
-- The sun will rise at 05:59 and set at 18:00
+- The pressure is 1023hPa and humidity is 89%
+- The sun will rise at 06:00 and set at 17:58
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 569 days since the last change (2024-03-05)
+- It has been 570 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Farmers Market in town
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Optimise flow.
+> Bias towards action.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Aston Villa v Bologna
+- Derby County U21 v Arsenal U21
+- Ipswich Town U21 v Liverpool U21
+- Manchester City U21 v Southampton U21
+- Tottenham Hotspur U21 v West Brom U21
+- West Brom v Leicester City
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 119.13999938964844 
+- VWRL.L : 119.22000122070312 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- The Daily Hilario: Thursday
 - Lincoln City 1-2 Chelsea, Player Ratings: George says good night
 - Chelsea drawn against Wolves in League Cup fourth round
 - ‘It&#8217;s more about desire’: Maresca fires up Chelsea with half-time talk
@@ -61,7 +67,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - Chelsea fans’ preferred lineup against Lincoln City: Rotation, rotation, all the rotation
 - Cole Palmer groin injury to be managed ‘day-by-day, week-by-week, game-by-game’
 - Hannah Hampton wins the Yashin Trophy at 2025 Ballon d’Or!
-- Lincoln City vs. Chelsea, League Cup: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -69,14 +74,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Stablecoin issuer Circle examines ‘reversible’ transactions in departure for crypto
-- Inside the billion-dollar quest to live beyond 100
-- The wrong kind of maths
-- The billionaire politician making a Trump-like comeback in Europe
-- Andy Burnham launches thinly veiled bid to replace Keir Starmer
-- UK visa costs already near Trump-like levels, advisers say
-- European officials fear Trump is preparing to blame them for Ukraine failure
-- Keir Starmer has no plans to attend COP30 climate summit in Brazil
+- US charges ex-FBI chief Comey who investigated Trump’s alleged Russia ties
+- The Russian spy ship stalking Europe’s subsea cables
+- Did the political establishment pave the way for Trump and Farage?
+- Trump’s climate tirade will not stop the new ESG
+- Trump announces 100% tariff on branded pharmaceutical products
+- Tony Blair seeks to play key role in Gaza under Trump peace plan
+- Trump presents new Gaza peace plan to Arab and Muslim leaders
+- Octopus Energy chief defends failure to meet new capital targets
 
 <!-- ftnews_marker ends -->
 
@@ -84,40 +89,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > space needle - noun: A tall slender tower.
+ > grunge - noun: 1. A type of rock music blending punk and heavy metal, marked by distorted guitars, raw vocals, and a deliberately unpolished sound. 2. A fashion trend featuring loose-fitting clothes, ripped jeans, etc. with an untidy appearance. 3. Dirt; filth.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You must do the thing you think you cannot do. - Eleanor Roosevelt
+> Do not try and make a right choice, make a choice and then make it right. - Joe Delaney
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Trust in the you of now
+> Faced with a choice, do both (given by Dieter Roth)
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Once Upon a Time in London (Rated: 3)
-- Released in 2019
-- Summary: In the 1930s, organized crime came to England. The Italian Sabinis and English White family in West End dominated the London underworld. Come WWII and Jack "Spot" took over and later Billy Hill.
+- Fantastic Four (Rated: 4)
+- Released in 2015
+- Summary: A group of astronauts gain superpowers after a cosmic radiation exposure and must use them to oppose the plans of their enemy, Doctor Victor Von Doom.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 977, using [4, 8, 10, 50, 75, 100]
-- Answer: 3 solutions.
+- Target: 978, using [1, 2, 10, 25, 75, 100]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 x 75 - 4 ) / 8 + 50 - 10
+  Solution: ( 100 + 1 - 75 / 25 ) x 10 - 2
 
    </details>
 
