@@ -7,56 +7,73 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 26 September 2025
+## On Saturday, 27 September 2025
 
-- The average temperature today is 5.08˚C,
-- With highs of 6.66˚C and lows of 3.72˚C,
-- It may feel like 5.08˚C with clear sky
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 89%
-- The sun will rise at 06:00 and set at 17:58
+- The average temperature today is 10.72˚C,
+- With highs of 11.66˚C and lows of 10.29˚C,
+- It may feel like 10.04˚C with overcast clouds
+- The wind speed is 3.58m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 84%
+- The sun will rise at 06:02 and set at 17:55
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 570 days since the last change (2024-03-05)
+- It has been 571 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Farmers Market in town
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Bias towards action.
+> Commit to the direction.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Derby County U21 v Arsenal U21
-- Ipswich Town U21 v Liverpool U21
-- Manchester City U21 v Southampton U21
-- Tottenham Hotspur U21 v West Brom U21
-- West Brom v Leicester City
+- Chelsea U21 v Stoke City U21
+- Manchester United U18 v Manchester City U18
+- Chelsea U18 v West Brom U18
+- Tottenham Hotspur U18 v Birmingham City U18
+- Arsenal Women v Aston Villa Women
+- Coventry City v Birmingham City
+- Swansea City v Millwall
+- Wrexham v Derby County
+- Westbury United v Farnborough
+- AFC Wimbledon v Wycombe Wanderers
+- Leyton Orient v Stevenage
+- Crewe Alexandra v Notts County
+- Oldham Athletic v Barnet
+- Boreham Wood v Woking
+- Brentford v Manchester United
+- Forest Green Rovers v York City
+- Nottingham Forest v Sunderland
+- Bristol City Women v Nottingham Forest Women
+- Sheffield United Women v Birmingham City Women
+- Tottenham Hotspur v Wolves
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 119.22000122070312 
+- VWRL.L : 118.88999938964844 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Cole Palmer, Tosin Adarabioyo, Wesley Fofana all set to miss time with injuries
+- The Daily Hilario: Friday
+- How should Chelsea line up against Brighton &#038; Hove Albion?
 - The Daily Hilario: Thursday
 - Lincoln City 1-2 Chelsea, Player Ratings: George says good night
 - Chelsea drawn against Wolves in League Cup fourth round
@@ -64,9 +81,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - The Daily Hilario: Wednesday
 - Lincoln City 1-2 Chelsea, League Cup: Post-match reaction, ratings
 - Lincoln City vs. Chelsea, League Cup: Live blog; highlights
-- Chelsea fans’ preferred lineup against Lincoln City: Rotation, rotation, all the rotation
-- Cole Palmer groin injury to be managed ‘day-by-day, week-by-week, game-by-game’
-- Hannah Hampton wins the Yashin Trophy at 2025 Ballon d’Or!
 
 <!-- news_marker ends -->
 
@@ -74,14 +88,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- US charges ex-FBI chief Comey who investigated Trump’s alleged Russia ties
-- The Russian spy ship stalking Europe’s subsea cables
-- Did the political establishment pave the way for Trump and Farage?
-- Trump’s climate tirade will not stop the new ESG
-- Trump announces 100% tariff on branded pharmaceutical products
-- Tony Blair seeks to play key role in Gaza under Trump peace plan
-- Trump presents new Gaza peace plan to Arab and Muslim leaders
-- Octopus Energy chief defends failure to meet new capital targets
+- Euro’s rally has further to run, investment banks predict
+- How tech lords and populists changed the rules of power
+- Why Ukraine is winning the war
+- The young against the young
+- Hegseth’s sudden military summit stirs concern and speculation
+- Video game maker Electronic Arts nears $50bn deal to go private
+- Keir Starmer heads into tough autumn with rump of ‘Starmtroopers’
+- Andy Burnham insists riling the bond markets is off the agenda
 
 <!-- ftnews_marker ends -->
 
@@ -96,33 +110,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Do not try and make a right choice, make a choice and then make it right. - Joe Delaney
+> A good objective of leadership is to help those who are doing poorly to do well and to help those who are doing well to do even better. - Jim Rohn
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Faced with a choice, do both (given by Dieter Roth)
+> Don't be frightened of cliches
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Fantastic Four (Rated: 4)
-- Released in 2015
-- Summary: A group of astronauts gain superpowers after a cosmic radiation exposure and must use them to oppose the plans of their enemy, Doctor Victor Von Doom.
+- Hoshots! (Rated: 2)
+- Released in 1991
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 978, using [1, 2, 10, 25, 75, 100]
-- Answer: 7 solutions.
+- Target: 326, using [1, 2, 6, 6, 25, 50]
+- Answer: 13 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 1 - 75 / 25 ) x 10 - 2
+  Solution: ( 25 - 6 - 6 ) x 50 / 2 + 1
 
    </details>
 
