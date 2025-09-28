@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 27 September 2025
+## On Sunday, 28 September 2025
 
-- The average temperature today is 10.72˚C,
-- With highs of 11.66˚C and lows of 10.29˚C,
-- It may feel like 10.04˚C with overcast clouds
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 84%
-- The sun will rise at 06:02 and set at 17:55
+- The average temperature today is 11.28˚C,
+- With highs of 11.28˚C and lows of 11.28˚C,
+- It may feel like 10.84˚C with overcast clouds
+- The wind speed is 2.41m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 91%
+- The sun will rise at 06:04 and set at 17:53
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 571 days since the last change (2024-03-05)
+- It has been 572 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,32 +32,23 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Commit to the direction.
+> Be a learning individual.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Chelsea U21 v Stoke City U21
-- Manchester United U18 v Manchester City U18
-- Chelsea U18 v West Brom U18
-- Tottenham Hotspur U18 v Birmingham City U18
-- Arsenal Women v Aston Villa Women
-- Coventry City v Birmingham City
-- Swansea City v Millwall
-- Wrexham v Derby County
-- Westbury United v Farnborough
-- AFC Wimbledon v Wycombe Wanderers
-- Leyton Orient v Stevenage
-- Crewe Alexandra v Notts County
-- Oldham Athletic v Barnet
-- Boreham Wood v Woking
-- Brentford v Manchester United
-- Forest Green Rovers v York City
-- Nottingham Forest v Sunderland
-- Bristol City Women v Nottingham Forest Women
-- Sheffield United Women v Birmingham City Women
-- Tottenham Hotspur v Wolves
+- Brighton & Hove Albion Women v Everton Women
+- Leicester City Women v Tottenham Hotspur Women
+- Liverpool Women v Manchester United Women
+- Manchester City Women v London City Lionesses
+- Durham Women v Crystal Palace Women
+- Southampton Women v Sunderland AFC Women
+- Aston Villa v Fulham
+- Ipswich Town Women v Portsmouth Women
+- Newcastle United Women v Charlton Athletic Women
+- West Ham United Women v Chelsea Women
+- Newcastle United v Arsenal
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -71,6 +62,9 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea fans’ preferred lineup against Brighton: Garnacho, Gittens don’t make the cut
+- Chelsea vs. Brighton &#038; Hove Albion, Premier League: Preview, team  news, how to watch
+- The Daily Hilario: Saturday
 - Cole Palmer, Tosin Adarabioyo, Wesley Fofana all set to miss time with injuries
 - The Daily Hilario: Friday
 - How should Chelsea line up against Brighton &#038; Hove Albion?
@@ -78,9 +72,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - Lincoln City 1-2 Chelsea, Player Ratings: George says good night
 - Chelsea drawn against Wolves in League Cup fourth round
 - ‘It&#8217;s more about desire’: Maresca fires up Chelsea with half-time talk
-- The Daily Hilario: Wednesday
-- Lincoln City 1-2 Chelsea, League Cup: Post-match reaction, ratings
-- Lincoln City vs. Chelsea, League Cup: Live blog; highlights
 
 <!-- news_marker ends -->
 
@@ -88,14 +79,13 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Euro’s rally has further to run, investment banks predict
-- How tech lords and populists changed the rules of power
-- Why Ukraine is winning the war
-- The young against the young
-- Hegseth’s sudden military summit stirs concern and speculation
-- Video game maker Electronic Arts nears $50bn deal to go private
-- Keir Starmer heads into tough autumn with rump of ‘Starmtroopers’
-- Andy Burnham insists riling the bond markets is off the agenda
+- Jaguar Land Rover wins £1.5bn UK loan support after cyber attack
+- ‘We need some vision’: Starmer’s search for clearer words
+- There is no shame in sleeping late
+- Private equity’s rush to raise money prompts fears of European sector shake-out
+- London considers lowering affordable homes target to spur house building
+- Economists want Christopher Waller as next Fed chair but expect to be disappointed
+- German AI start-up in funding talks at $4bn valuation
 
 <!-- ftnews_marker ends -->
 
@@ -110,33 +100,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> A good objective of leadership is to help those who are doing poorly to do well and to help those who are doing well to do even better. - Jim Rohn
+> This indispensable first step to getting what you want is this: Decide what you want. - Ben Stein, Actor
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Don't be frightened of cliches
+> Discard an axiom
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Hoshots! (Rated: 2)
-- Released in 1991
-- Summary: No summary available
+- Scarface (Rated: 5)
+- Released in 1983
+- Summary: In the 1980s, a determined criminal-minded Cuban immigrant becomes the biggest drug smuggler in Miami, and is eventually undone by his own drug addiction.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 326, using [1, 2, 6, 6, 25, 50]
-- Answer: 13 solutions.
+- Target: 481, using [2, 4, 5, 7, 8, 10]
+- Answer: 5 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 25 - 6 - 6 ) x 50 / 2 + 1
+  Solution: ( 10 x 7 + 4 ) x ( 8 + 5 ) / 2
 
    </details>
 
