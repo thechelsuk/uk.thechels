@@ -7,89 +7,73 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 30 September 2025
+## On Wednesday, 01 October 2025
 
-- The average temperature today is 6.73˚C,
-- With highs of 8.31˚C and lows of 5.38˚C,
-- It may feel like 6.73˚C with broken clouds
+- The average temperature today is 11.7˚C,
+- With highs of 13.3˚C and lows of 10.94˚C,
+- It may feel like 11.12˚C with overcast clouds
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 91%
-- The sun will rise at 06:07 and set at 17:48
+- The pressure is 1026hPa and humidity is 84%
+- The sun will rise at 06:09 and set at 17:46
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 574 days since the last change (2024-03-05)
+- It has been 575 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Exploit the landscape.
+> Embrace uncertainty.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Galatasaray U19 v Liverpool U19
-- Chelsea U19 v Benfica U19
-- Lincoln City v Manchester United U21
-- Notts County v Barnsley
-- Peterborough United v Aston Villa U21
-- Reading v West Ham United U21
-- Birmingham City v Sheffield Wednesday
-- Blackburn Rovers v Swansea City
-- Bristol City v Ipswich Town
-- Hull City v Preston North End
-- Leicester City v Wrexham
-- Middlesbrough v Stoke City
-- Sheffield United v Southampton
-- Barnet v Brighton & Hove Albion U21
-- Harrogate Town v Huddersfield Town
-- Blackpool v Luton Town
-- Cardiff City v Burton Albion
-- Aldershot Town v Braintree Town
-- Boreham Wood v Southend United
-- Morecambe v Gateshead
-- Solihull Moors v Woking
-- Sutton United v Yeovil Town
-- Truro City v Eastleigh
-- Derby County v Charlton Athletic
-- Bodo/Glimt v Tottenham Hotspur
-- Chelsea v Benfica
-- Galatasaray v Liverpool
+- Union Saint-Gilloise v Newcastle United
+- Millwall v Coventry City
+- Norwich City v West Brom
+- Portsmouth v Watford
+- Altrincham v Tamworth
+- Boston United v Forest Green Rovers
+- Brackley Town v Wealdstone
+- Carlisle United v Hartlepool United
+- Rochdale v FC Halifax Town
+- York City v Scunthorpe United
+- QPR v Oxford United
+- Arsenal v Olympiakos
+- Monaco v Manchester City
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 119.45500183105469 
+- VWRL.L : 119.25 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Enzo Maresca relieved to grind out ‘ugly’ yet ‘important’ win against Benfica in Champions League
+- Chelsea 1-0 Benfica, Champions League: Post-match reaction, ratings
+- Chelsea vs. Benfica, Champions League: Live blog; highlights
+- Chelsea fans’ preferred lineup against Benfica: So who’s fit to play?
+- The Daily Hilario: Tuesday
+- Chelsea vs. Benfica, Champions League: Preview, team news, how to watch
 - How should Chelsea line up against Benfica as Champions League returns to Stamford Bridge?
 - The Daily Hilario: Monday
 - Chelsea 1-3 Brighton &#038; Hove Albion, Player Ratings: At least Reecey’s doing well
 - West Ham WFC 0-4 Chelsea FCW, Women’s Super League: Post-match reaction
-- West Ham WFC vs. Chelsea FCW, Women’s Super League: Confirmed lineups; how to watch
-- West Ham WFC vs. Chelsea FCW, Women’s Super League: Preview, team news, how to watch
-- The Daily Hilario: Sunday
-- Maresca: ‘You cannot continue to give away presents’
-- Chelsea 1-3 Brighton &#038; Hove Albion, Premier League
-- Chelsea vs. Brighton &#038; Hove Albion, Premier League: Live blog; highlights
 
 <!-- news_marker ends -->
 
@@ -97,14 +81,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Netanyahu says Israel backs Trump’s peace plan for Gaza
-- ‘Lost the plot’: Tony Blair’s Gaza role prompts incredulity - and some hope
-- Full text of Trump’s proposal to end the war in Gaza
-- Elon Musk hit by exodus of senior staff over burnout and politics
-- Memo for Labour: globalisation is good, actually
-- What Jane Austen can teach us about taking feedback
-- Labour must brace for decisions that are ‘not cost-free or easy’, Starmer to say
-- Business gives wary welcome to Reeves and Starmer at Labour conference
+- US government shuts down as lawmakers fail to reach deal
+- ‘We’re not going to be bullied’: Democrats wage risky shutdown battle
+- How Donald Trump’s Gaza deal came together
+- Black hole stars challenge our idea of the universe
+- Upbeat mood at Labour conference defies gloom about polls and the Budget
+- JPMorgan takes on Hargreaves Lansdown in the UK with ‘DIY’ investment push
+- UK seeks to keep £5bn bitcoin haul after money laundering convictions
+- Russia’s hybrid war is ‘only the beginning’, warns Danish PM
 
 <!-- ftnews_marker ends -->
 
@@ -112,40 +96,43 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > barbatulous - adjective: Having a small or sparse beard.
+ > pseudonymuncle - noun: An insignificant person writing under a pseudonym.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The best way to empower a team is to begin trusting the team. - Mike Cohn
+> Scrum is like your mother-in-law, it points out ALL your faults - Ken Schwaber
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Make a sudden, destructive, unpredictable action; incorporate
+> Lowest common denominator check
+-single beat
+-single note
+-single
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Snakes on a Plane (Rated: 3)
-- Released in 2006
-- Summary: An FBI agent takes on a plane full of deadly venomous snakes, deliberately released to kill a witness being flown from Honolulu to Los Angeles to testify against a mob boss.
+- The Matrix i (Rated: 5)
+- Released in 1999
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 808, using [3, 3, 4, 5, 8, 100]
-- Answer: 44 solutions.
+- Target: 800, using [1, 2, 4, 5, 9, 50]
+- Answer: 51 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 8 - 4 - 3 ) x ( 5 + 3 )
+  Solution: ( 9 + 5 + 4 - 2 ) x 50
 
    </details>
 
