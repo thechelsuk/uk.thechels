@@ -3,7 +3,7 @@
 layout: post
 date: 2025-10-01
 link: https://cks.nice.org.uk/topics/myalgic-encephalomyelitis-chronic-fatigue-syndrome-me/cfs/ 
-title: Myalgic encephalomyelitis - chronic fatigue syndrome (ME/CFS) 
+title: Myalgic encephalomyelitis (ME/CFS) 
 cited: NICE
 
 ---
@@ -37,6 +37,3 @@ cited: NICE
 >     - Offering referral for cognitive behavioural therapy if the person wishes for this.
 >     - Ensuring early recognition, planning for, and self-management of flare-ups or relapse.
 >     - Providing a named contact in primary care and/or the ME/CFS specialist team to co-ordinate care and provide supports.
-
-
-https://cks.nice.org.uk/topics/myalgic-encephalomyelitis-chronic-fatigue-syndrome-me/cfs/
