@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 01 October 2025
+## On Thursday, 02 October 2025
 
-- The average temperature today is 11.7˚C,
-- With highs of 13.3˚C and lows of 10.94˚C,
-- It may feel like 11.12˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 84%
-- The sun will rise at 06:09 and set at 17:46
+- The average temperature today is 11.12˚C,
+- With highs of 11.12˚C and lows of 11.12˚C,
+- It may feel like 10.64˚C with overcast clouds
+- The wind speed is 2.59m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 90%
+- The sun will rise at 06:10 and set at 17:44
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 575 days since the last change (2024-03-05)
+- It has been 576 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,38 +32,31 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Embrace uncertainty.
+> Challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Union Saint-Gilloise v Newcastle United
-- Millwall v Coventry City
-- Norwich City v West Brom
-- Portsmouth v Watford
-- Altrincham v Tamworth
-- Boston United v Forest Green Rovers
-- Brackley Town v Wealdstone
-- Carlisle United v Hartlepool United
-- Rochdale v FC Halifax Town
-- York City v Scunthorpe United
-- QPR v Oxford United
-- Arsenal v Olympiakos
-- Monaco v Manchester City
+- Dynamo Kiev v Crystal Palace
+- Rotherham United v Bradford City
+- Feyenoord v Aston Villa
+- Nottingham Forest v FC Midtjylland
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 119.25 
+- VWRL.L : 161.5552978515625 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Brazil call up Estêvão, but João Pedro misses out with ‘physical problem’
+- The Daily Hilario: Wednesday
 - Enzo Maresca relieved to grind out ‘ugly’ yet ‘important’ win against Benfica in Champions League
 - Chelsea 1-0 Benfica, Champions League: Post-match reaction, ratings
 - Chelsea vs. Benfica, Champions League: Live blog; highlights
@@ -72,8 +65,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - Chelsea vs. Benfica, Champions League: Preview, team news, how to watch
 - How should Chelsea line up against Benfica as Champions League returns to Stamford Bridge?
 - The Daily Hilario: Monday
-- Chelsea 1-3 Brighton &#038; Hove Albion, Player Ratings: At least Reecey’s doing well
-- West Ham WFC 0-4 Chelsea FCW, Women’s Super League: Post-match reaction
 
 <!-- news_marker ends -->
 
@@ -81,14 +72,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- US government shuts down as lawmakers fail to reach deal
-- ‘We’re not going to be bullied’: Democrats wage risky shutdown battle
-- How Donald Trump’s Gaza deal came together
-- Black hole stars challenge our idea of the universe
-- Upbeat mood at Labour conference defies gloom about polls and the Budget
-- JPMorgan takes on Hargreaves Lansdown in the UK with ‘DIY’ investment push
-- UK seeks to keep £5bn bitcoin haul after money laundering convictions
-- Russia’s hybrid war is ‘only the beginning’, warns Danish PM
+- Russian missile upgrade outpaces Ukraine’s Patriot defences
+- India’s rich flock to Mumbai’s new billionaires’ row
+- Think twice before rushing to fix the UK’s broken property taxes
+- Shadow banks are not outside the banking system
+- Reeves braced for hole in UK public finances after productivity downgrade
+- UK business secretary approved £1.5bn JLR loan guarantee despite civil service concerns
+- Music labels close to landmark AI licensing deals
+- Badenoch pledges to ditch flagship UK climate change law
 
 <!-- ftnews_marker ends -->
 
@@ -96,43 +87,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > pseudonymuncle - noun: An insignificant person writing under a pseudonym.
+ > whoness - noun: The essence of a person.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Scrum is like your mother-in-law, it points out ALL your faults - Ken Schwaber
+> The art of leadership is saying no, not yes. It is very easy to say yes - Tony Blair
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Lowest common denominator check
--single beat
--single note
--single
+> A line has two sides
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Matrix i (Rated: 5)
-- Released in 1999
-- Summary: No summary available
+- Shaft (Rated: 3)
+- Released in 2000
+- Summary: New York City police detective John Shaft (nephew of the original 1970s detective) goes on a personal mission to make sure the son of a real estate tycoon is brought to justice after a racially-motivated murder.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 800, using [1, 2, 4, 5, 9, 50]
-- Answer: 51 solutions.
+- Target: 639, using [3, 6, 6, 7, 8, 25]
+- Answer: 5 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 9 + 5 + 4 - 2 ) x 50
+  Solution: ( 25 x 8 + 7 + 6 ) x ( 6 - 3 )
 
    </details>
 
