@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 02 October 2025
+## On Friday, 03 October 2025
 
-- The average temperature today is 11.12˚C,
-- With highs of 11.12˚C and lows of 11.12˚C,
-- It may feel like 10.64˚C with overcast clouds
-- The wind speed is 2.59m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 90%
-- The sun will rise at 06:10 and set at 17:44
+- The average temperature today is 15.91˚C,
+- With highs of 16.1˚C and lows of 14.91˚C,
+- It may feel like 15.91˚C with overcast clouds
+- The wind speed is 2.68m/s and visibility is 6734m
+- The pressure is 1009hPa and humidity is 90%
+- The sun will rise at 06:12 and set at 17:42
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 576 days since the last change (2024-03-05)
+- It has been 577 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,23 +32,22 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Challenge assumptions.
+> Design for constant evolution.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Dynamo Kiev v Crystal Palace
-- Rotherham United v Bradford City
-- Feyenoord v Aston Villa
-- Nottingham Forest v FC Midtjylland
+- Manchester United Women v Chelsea Women
+- Wrexham v Birmingham City
+- AFC Bournemouth v Fulham
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 161.5552978515625 
+- VWRL.L : 120.5199966430664 
 
 <!-- stocks_marker ends -->
 
@@ -72,14 +71,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Russian missile upgrade outpaces Ukraine’s Patriot defences
-- India’s rich flock to Mumbai’s new billionaires’ row
-- Think twice before rushing to fix the UK’s broken property taxes
-- Shadow banks are not outside the banking system
-- Reeves braced for hole in UK public finances after productivity downgrade
-- UK business secretary approved £1.5bn JLR loan guarantee despite civil service concerns
-- Music labels close to landmark AI licensing deals
-- Badenoch pledges to ditch flagship UK climate change law
+- Multinationals race ahead as dollar slump divides US stock market
+- Manchester’s Jews left in fear after ‘inevitable’ attack strikes at heart of community
+- Have we passed peak social media?
+- Investors could face a bonfire night surprise on Trump tariffs
+- CVC buys into private school group at triple 2021 valuation
+- Short seller Jim Chanos predicts more First Brands fiascos in private credit
+- Shadow chancellor underlines Tory commitment to ‘fiscal responsibility’
+- Green leader calls for BoE to end interest payments to commercial banks
 
 <!-- ftnews_marker ends -->
 
@@ -87,40 +86,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > whoness - noun: The essence of a person.
+ > pennyweighter - noun: One who steals jewelry, especially by substituting a fake for the real one.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The art of leadership is saying no, not yes. It is very easy to say yes - Tony Blair
+> You can never try to escape one danger without encountering another. Prudence consists in recognising the different dangers and in accepting the least bad as good. - Machiavelli
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> A line has two sides
+> Do we need holes?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Shaft (Rated: 3)
-- Released in 2000
-- Summary: New York City police detective John Shaft (nephew of the original 1970s detective) goes on a personal mission to make sure the son of a real estate tycoon is brought to justice after a racially-motivated murder.
+- After The Dark (Rated: 8)
+- Released in 2013
+- Summary: At an international school in Jakarta, a philosophy teacher challenges his class of twenty graduating seniors to choose which ten of them would take shelter underground and reboot the human race in the event of a nuclear apocalypse.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 639, using [3, 6, 6, 7, 8, 25]
-- Answer: 5 solutions.
+- Target: 184, using [2, 3, 5, 8, 8, 25]
+- Answer: 100 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 25 x 8 + 7 + 6 ) x ( 6 - 3 )
+  Solution: ( 25 + 8 - 8 - 2 ) x ( 5 + 3 )
 
    </details>
 
