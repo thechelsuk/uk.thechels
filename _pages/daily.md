@@ -7,63 +7,77 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 03 October 2025
+## On Saturday, 04 October 2025
 
-- The average temperature today is 15.91˚C,
-- With highs of 16.1˚C and lows of 14.91˚C,
-- It may feel like 15.91˚C with overcast clouds
-- The wind speed is 2.68m/s and visibility is 6734m
-- The pressure is 1009hPa and humidity is 90%
-- The sun will rise at 06:12 and set at 17:42
+- The average temperature today is 10.78˚C,
+- With highs of 11.66˚C and lows of 10.38˚C,
+- It may feel like 9.72˚C with scattered clouds
+- The wind speed is 4.92m/s and visibility is 10000m
+- The pressure is 998hPa and humidity is 69%
+- The sun will rise at 06:14 and set at 17:39
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 577 days since the last change (2024-03-05)
+- It has been 578 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Water the plants
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Design for constant evolution.
+> Challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Manchester United Women v Chelsea Women
-- Wrexham v Birmingham City
-- AFC Bournemouth v Fulham
+- Manchester City U18 v Chelsea U18
+- Sheffield United U18 v Crystal Palace U18
+- Manchester City Women v Arsenal Women
+- Blackburn Rovers v Stoke City
+- Hull City v Sheffield United
+- Sheffield Wednesday v Coventry City
+- Doncaster Rovers v Burton Albion
+- Wycombe Wanderers v Barnsley
+- MK Dons v Gillingham
+- Newport County v Swindon Town
+- Gateshead v Boston United
+- Hartlepool United v York City
+- Leeds United v Tottenham Hotspur
+- Arsenal U21 v West Ham United U21
+- Scunthorpe United v Carlisle United
+- Chelsea v Liverpool
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 120.5199966430664 
+- VWRL.L : 120.9000015258789 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea vs. Liverpool, Premier League: Preview, team news, how to watch
+- Manchester United WFC 1-1 Chelsea FCW, Women’s Super League: Post-match reaction
+- Manchester United WFC vs. Chelsea FCW, Women’s Super League: Confirmed lineups; how to watch
+- How should injury-hit Chelsea line up against Liverpool?
+- The Daily Hilario: Friday
+- Manchester United WFC vs. Chelsea FCW, Women’s Super League: Preview, team news, how to watch
+- Chelsea 1-0 Benfica, Player Ratings: No one talks about his transfer fee anymore
+- The Daily Hilario: Thursday
 - Brazil call up Estêvão, but João Pedro misses out with ‘physical problem’
 - The Daily Hilario: Wednesday
-- Enzo Maresca relieved to grind out ‘ugly’ yet ‘important’ win against Benfica in Champions League
-- Chelsea 1-0 Benfica, Champions League: Post-match reaction, ratings
-- Chelsea vs. Benfica, Champions League: Live blog; highlights
-- Chelsea fans’ preferred lineup against Benfica: So who’s fit to play?
-- The Daily Hilario: Tuesday
-- Chelsea vs. Benfica, Champions League: Preview, team news, how to watch
-- How should Chelsea line up against Benfica as Champions League returns to Stamford Bridge?
-- The Daily Hilario: Monday
 
 <!-- news_marker ends -->
 
@@ -71,14 +85,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Multinationals race ahead as dollar slump divides US stock market
-- Manchester’s Jews left in fear after ‘inevitable’ attack strikes at heart of community
-- Have we passed peak social media?
-- Investors could face a bonfire night surprise on Trump tariffs
-- CVC buys into private school group at triple 2021 valuation
-- Short seller Jim Chanos predicts more First Brands fiascos in private credit
-- Shadow chancellor underlines Tory commitment to ‘fiscal responsibility’
-- Green leader calls for BoE to end interest payments to commercial banks
+- Trump tells Israel to stop bombing Gaza after Hamas agrees to release hostages
+- Pakistan courts US with pitch for new Arabian Sea port
+- Italy paralysed as Gaza protests mount pressure on Meloni
+- Simon Schama: What America’s Founders can teach Trump about liberty
+- The war against the quite good
+- Why I welcome Americanisation. Sorry, Americanization
+- Victim killed in Manchester synagogue attack was shot by police
+- What we know about Manchester synagogue attacker Jihad Al-Shamie
 
 <!-- ftnews_marker ends -->
 
@@ -93,33 +107,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> You can never try to escape one danger without encountering another. Prudence consists in recognising the different dangers and in accepting the least bad as good. - Machiavelli
+> A great ScrumMaster grasps the skills and mindset of the role. - Geoff Watts
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Do we need holes?
+> Look closely at the most embarrassing details and amplify them
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- After The Dark (Rated: 8)
-- Released in 2013
-- Summary: At an international school in Jakarta, a philosophy teacher challenges his class of twenty graduating seniors to choose which ten of them would take shelter underground and reboot the human race in the event of a nuclear apocalypse.
+- Centurion (Rated: 3)
+- Released in 2010
+- Summary: A splinter group of Roman soldiers fight for their lives behind enemy lines after their legion is devastated in a guerrilla attack.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 184, using [2, 3, 5, 8, 8, 25]
-- Answer: 100 solutions.
+- Target: 383, using [5, 8, 9, 10, 25, 50]
+- Answer: 24 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 25 + 8 - 8 - 2 ) x ( 5 + 3 )
+  Solution: ( 50 + 25 ) x ( 10 - 5 ) + 8
 
    </details>
 
