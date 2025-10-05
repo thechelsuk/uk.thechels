@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 01 October 2025
+## On Sunday, 05 October 2025
 
-- The average temperature today is 11.7˚C,
-- With highs of 13.3˚C and lows of 10.94˚C,
-- It may feel like 11.12˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 84%
-- The sun will rise at 06:09 and set at 17:46
+- The average temperature today is 10.79˚C,
+- With highs of 11.27˚C and lows of 10.38˚C,
+- It may feel like 9.88˚C with broken clouds
+- The wind speed is 3.58m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 75%
+- The sun will rise at 06:15 and set at 17:37
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 575 days since the last change (2024-03-05)
+- It has been 579 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,48 +32,53 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Embrace uncertainty.
+> Optimise flow.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Union Saint-Gilloise v Newcastle United
-- Millwall v Coventry City
-- Norwich City v West Brom
-- Portsmouth v Watford
-- Altrincham v Tamworth
-- Boston United v Forest Green Rovers
-- Brackley Town v Wealdstone
-- Carlisle United v Hartlepool United
-- Rochdale v FC Halifax Town
-- York City v Scunthorpe United
-- QPR v Oxford United
-- Arsenal v Olympiakos
-- Monaco v Manchester City
+- Leicester City Women v Everton Women
+- London City Lionesses v Liverpool Women
+- Tottenham Hotspur Women v Brighton & Hove Albion Women
+- West Ham United Women v Aston Villa Women
+- Ipswich Town v Norwich City
+- Burnley U21 v Chelsea U21
+- Manchester City U21 v Reading U21
+- Sheffield United Women v Ipswich Town Women
+- Aston Villa v Burnley
+- Everton v Crystal Palace
+- Newcastle United v Nottingham Forest
+- Wolves v Brighton & Hove Albion
+- Birmingham City Women v Southampton Women
+- Bristol City Women v Durham Women
+- Crystal Palace Women v Newcastle United Women
+- Nottingham Forest Women v Portsmouth Women
+- Sunderland AFC Women v Charlton Athletic Women
+- Brentford v Manchester City
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 119.25 
+- VWRL.L : 120.9000015258789 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
-- Enzo Maresca relieved to grind out ‘ugly’ yet ‘important’ win against Benfica in Champions League
-- Chelsea 1-0 Benfica, Champions League: Post-match reaction, ratings
-- Chelsea vs. Benfica, Champions League: Live blog; highlights
-- Chelsea fans’ preferred lineup against Benfica: So who’s fit to play?
-- The Daily Hilario: Tuesday
-- Chelsea vs. Benfica, Champions League: Preview, team news, how to watch
-- How should Chelsea line up against Benfica as Champions League returns to Stamford Bridge?
-- The Daily Hilario: Monday
-- Chelsea 1-3 Brighton &#038; Hove Albion, Player Ratings: At least Reecey’s doing well
-- West Ham WFC 0-4 Chelsea FCW, Women’s Super League: Post-match reaction
+- Caballero, Maresca all praise on ‘a great day’ for Chelsea
+- Chelsea 2-1 Liverpool, Premier League: Post-match reaction, ratings
+- Chelsea vs. Liverpool, Premier League: Live blog; highlights
+- Chelsea fans’ preferred lineup against Liverpool: Roméo Lavia to the rescue?
+- The Daily Hilario: Saturday
+- Chelsea vs. Liverpool, Premier League: Preview, team news, how to watch
+- Manchester United WFC 1-1 Chelsea FCW, Women’s Super League: Post-match reaction
+- Manchester United WFC vs. Chelsea FCW, Women’s Super League: Confirmed lineups; how to watch
+- How should injury-hit Chelsea line up against Liverpool?
+- The Daily Hilario: Friday
 
 <!-- news_marker ends -->
 
@@ -81,14 +86,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- US government shuts down as lawmakers fail to reach deal
-- ‘We’re not going to be bullied’: Democrats wage risky shutdown battle
-- How Donald Trump’s Gaza deal came together
-- Black hole stars challenge our idea of the universe
-- Upbeat mood at Labour conference defies gloom about polls and the Budget
-- JPMorgan takes on Hargreaves Lansdown in the UK with ‘DIY’ investment push
-- UK seeks to keep £5bn bitcoin haul after money laundering convictions
-- Russia’s hybrid war is ‘only the beginning’, warns Danish PM
+- Labour markets stuck in a ‘low-hire, low-fire’ cycle
+- Crypto skulduggery isn’t a bug, it’s the whole point
+- The rise of America’s hard left
+- Impact of Trump tariffs is beginning to show in US consumer prices
+- OpenAI and Jony Ive grapple with technical issues on secretive AI device
+- EU pushes new AI strategy to reduce tech reliance on US and China
+- Trump tells Hamas to ‘move quickly’ on hostage deal
+- Gaza protesters defy calls to cancel marches after synagogue attack
 
 <!-- ftnews_marker ends -->
 
@@ -96,43 +101,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > pseudonymuncle - noun: An insignificant person writing under a pseudonym.
+ > pennyweighter - noun: One who steals jewelry, especially by substituting a fake for the real one.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Scrum is like your mother-in-law, it points out ALL your faults - Ken Schwaber
+> A key goal of continuous delivery is changing the economics of the software delivery process so the cost of pushing out individual changes is very low - Accelerate
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Lowest common denominator check
--single beat
--single note
--single
+> Overtly resist change
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Matrix i (Rated: 5)
-- Released in 1999
-- Summary: No summary available
+- Skyfall (Rated: 6)
+- Released in 2012
+- Summary: James Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 800, using [1, 2, 4, 5, 9, 50]
-- Answer: 51 solutions.
+- Target: 414, using [1, 2, 6, 25, 50, 75]
+- Answer: 10 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 9 + 5 + 4 - 2 ) x 50
+  Solution: ( 75 - ( 50 / 25 + 1 ) x 2 ) x 6
 
    </details>
 
