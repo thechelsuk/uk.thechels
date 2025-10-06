@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 19 September 2025
+## On Monday, 06 October 2025
 
-- The average temperature today is 16.11˚C,
-- With highs of 16.66˚C and lows of 15.39˚C,
-- It may feel like 15.97˚C with overcast clouds
+- The average temperature today is 11.57˚C,
+- With highs of 12.77˚C and lows of 10.93˚C,
+- It may feel like 10.98˚C with broken clouds
 - The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 84%
-- The sun will rise at 05:49 and set at 18:14
+- The pressure is 1023hPa and humidity is 84%
+- The sun will rise at 06:17 and set at 17:35
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 563 days since the last change (2024-03-05)
+- It has been 580 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,39 +32,36 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Seek the best.
+> Design for constant evolution.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Sunderland AFC Women v Durham Women
-- Everton Women v London City Lionesses
-- Tottenham Hotspur Women v Manchester City Women
-- Middlesbrough v West Brom
+- Harrogate Town v Crewe Alexandra
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 118.30999755859375 
+- VWRL.L : 120.9000015258789 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
-- Enzo Maresca believes Chelsea can ‘build something special’ from defeat against Bayern Munich
-- The Daily Hilario: Thursday
-- Bayern Munich 3-1 Chelsea, Champions League: Post-match reaction, ratings
-- Bayern Munich vs. Chelsea, Champions League: Live blog; highlights
-- Chelsea fans’ preferred lineup against Bayern Munich: Full strength ahead!
-- The Daily Hilario: Wednesday
-- Bayern Munich vs. Chelsea, Champions League: Preview, team news, how to watch
-- How should Chelsea line up against Bayern Munich on Champions League return?
-- The Daily Hilario: Tuesday
-- The Daily Hilario: Monday
+- Chelsea 2-1 Liverpool, Player Ratings: Moisés Caicedo, ‘best midfielder in the Premier League’
+- The Daily Hilario: Sunday
+- Caballero, Maresca all praise on ‘a great day’ for Chelsea
+- Chelsea 2-1 Liverpool, Premier League: Post-match reaction, ratings
+- Chelsea vs. Liverpool, Premier League: Live blog; highlights
+- Chelsea fans’ preferred lineup against Liverpool: Roméo Lavia to the rescue?
+- The Daily Hilario: Saturday
+- Chelsea vs. Liverpool, Premier League: Preview, team news, how to watch
+- Manchester United WFC 1-1 Chelsea FCW, Women’s Super League: Post-match reaction
+- Manchester United WFC vs. Chelsea FCW, Women’s Super League: Confirmed lineups; how to watch
 
 <!-- news_marker ends -->
 
@@ -72,14 +69,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Deutsche Bank chief Christian Sewing set to face multimillion-pound lawsuit
-- Petrodollars and the ‘Islamic Bomb’: how a Saudi-Pakistan pact was forged
-- Is America entering a new era of McCarthyism?
-- How drones have transformed the nature of war
-- UK borrowing rises more than expected in August to £18bn
-- Reeves to face £18bn spending shortfall if bet on productivity gains fails
-- UK households prefer cash, as they plough record sums into Isas
-- Oil market brushes off predictions of supply glut
+- ‘Gold-plated Fomo’ powers bullion’s record-breaking rally
+- How Trump cornered Netanyahu into signing up for peace
+- America is now one big bet on AI
+- China’s charm offensive in India’s backyard
+- Reform likely to raise Kent council tax after cost-cutting drive falters
+- FCA’s multibillion car loan redress estimate is too high, say lenders
+- Tories tout £47bn in spending cuts in bid to reclaim fiscal reputation
+- UK homebuyers to get more upfront information on properties for sale
 
 <!-- ftnews_marker ends -->
 
@@ -87,40 +84,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > doctor's mandate - noun: Full authority to deal with a crisis.
+ > gardyloo - noun: A warning cry.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> User stories are not a replacement for requirements but a placeholder/marker. - Mike Cohn
+> If your job is constantly putting out fires, it helps not to walk around with a flamethrower. - Emma Hayes
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Define an area as `safe' and use it as an anchor
+> Mute and continue
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Oceans 11 (Rated: 6)
-- Released in 2001
-- Summary: No summary available
+- Three Kings (Rated: 6)
+- Released in 1999
+- Summary: In the aftermath of the Persian Gulf War, four soldiers set out to steal gold that was stolen from Kuwait, but they discover people who desperately need their help.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 604, using [3, 6, 6, 9, 10, 50]
-- Answer: 4 solutions.
+- Target: 974, using [2, 6, 6, 10, 25, 50]
+- Answer: 5 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 9 + 6 - 3 ) x 50 + 10 - 6
+  Solution: 50 x 10 x 2 - 6 / 6 - 25
 
    </details>
 
