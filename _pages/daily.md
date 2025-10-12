@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 11 October 2025
+## On Sunday, 12 October 2025
 
-- The average temperature today is 10.83˚C,
-- With highs of 10.83˚C and lows of 10.83˚C,
-- It may feel like 10.32˚C with overcast clouds
-- The wind speed is 1.04m/s and visibility is 10000m
-- The pressure is 1034hPa and humidity is 90%
-- The sun will rise at 06:25 and set at 17:23
+- The average temperature today is 9.33˚C,
+- With highs of 9.91˚C and lows of 8.71˚C,
+- It may feel like 9.33˚C with broken clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1032hPa and humidity is 87%
+- The sun will rise at 06:27 and set at 17:21
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 585 days since the last change (2024-03-05)
+- It has been 586 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,33 +32,24 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> What got us here, will not get us there.
+> Inspire others
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Farnham Town v Sutton United
-- Northampton Town v Rotherham United
-- AFC Wimbledon v Port Vale
-- Burton Albion v Bolton Wanderers
-- Exeter City v Reading
-- Leyton Orient v Doncaster Rovers
-- Stockport County v Blackpool
-- Wigan Athletic v Wycombe Wanderers
-- Accrington Stanley v Newport County
-- Bristol Rovers v MK Dons
-- Chesterfield v Salford City
-- Crawley Town v Walsall
-- Crewe Alexandra v Bromley
-- Fleetwood Town v Harrogate Town
-- Gillingham v Cheltenham Town
-- Grimsby Town v Colchester United
-- Shrewsbury Town v Cambridge United
-- Tranmere Rovers v Barnet
-- Kidderminster Harriers v Radcliffe Borough
-- Torquay United v Dagenham & Redbridge
-- Oldham Athletic v Barrow AFC
+- Aston Villa Women v Leicester City Women
+- Chelsea Women v Tottenham Hotspur Women
+- Everton Women v Manchester United Women
+- London City Lionesses v West Ham United Women
+- Crystal Palace Women v Sunderland AFC Women
+- Durham Women v Nottingham Forest Women
+- Charlton Athletic Women v Sheffield United Women
+- Ipswich Town Women v Birmingham City Women
+- Newcastle United Women v Bristol City Women
+- Portsmouth Women v Southampton Women
+- Arsenal Women v Brighton & Hove Albion Women
+- Liverpool Women v Manchester City Women
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -89,14 +80,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Donald Trump threatens extra 100% tariff as he retaliates against China
-- US stocks close sharply lower after Trump threatens new China tariffs
-- How high-end restaurants went global
-- Don’t move to Dubai — this is still the place to be
-- Living in the grey zone
-- First Brands boss weighs resigning under pressure from lenders
-- Macron reappoints Sébastien Lecornu as French prime minister
-- The bitter bargain over Israeli and Palestinian bodies
+- China blames Trump and US for escalating trade war
+- Trump talks tough with China but holds out hope of truce in trade war
+- Ukraine hit Russian energy sites with US help
+- The fashion for the young: turn to the radical right
+- Would your speech make a professional’s top 10?
+- UK consumers curb spending more than anywhere else in G7
+- Chinese stocks race ahead as reforms take hold
+- Musk’s xAI joins race to build ‘world models’ to power video games
 
 <!-- ftnews_marker ends -->
 
@@ -111,33 +102,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Be fixed on the vision, but flexible on the journey. - Jeff Bezos, Founder of Amazon
+> Observing, listening, and not interfering are the most important aspects of a great ScrumMaster's job. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Work at a different speed
+> Don't be afraid of things because they're easy to do
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- 1922 (Rated: 3)
-- Released in 2017
-- Summary: In the year 1922, a rancher conspires to murder his wife for financial gain and convinces his teenage son to participate.
+- Nobody (Rated: 3)
+- Released in 2021
+- Summary: A docile family man slowly reveals his true character after his house gets burgled by two petty thieves, which, coincidentally, leads him into a bloody war with a Russian crime boss.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 143, using [2, 6, 8, 10, 25, 75]
-- Answer: 39 solutions.
+- Target: 405, using [4, 5, 9, 9, 10, 75]
+- Answer: 53 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: 8 x 6 + 75 + 25 - 10 / 2
+  Solution: ( 75 + 10 + 9 - 9 - 4 ) x 5
 
    </details>
 
