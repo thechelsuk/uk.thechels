@@ -7,49 +7,40 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 12 October 2025
+## On Monday, 13 October 2025
 
-- The average temperature today is 9.33˚C,
-- With highs of 9.91˚C and lows of 8.71˚C,
-- It may feel like 9.33˚C with broken clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1032hPa and humidity is 87%
-- The sun will rise at 06:27 and set at 17:21
+- The average temperature today is 11.77˚C,
+- With highs of 11.77˚C and lows of 11.77˚C,
+- It may feel like 11.48˚C with overcast clouds
+- The wind speed is 2.14m/s and visibility is 10000m
+- The pressure is 1030hPa and humidity is 95%
+- The sun will rise at 06:29 and set at 17:19
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 586 days since the last change (2024-03-05)
+- It has been 587 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Inspire others
+> Move fast.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Aston Villa Women v Leicester City Women
-- Chelsea Women v Tottenham Hotspur Women
-- Everton Women v Manchester United Women
-- London City Lionesses v West Ham United Women
-- Crystal Palace Women v Sunderland AFC Women
-- Durham Women v Nottingham Forest Women
-- Charlton Athletic Women v Sheffield United Women
-- Ipswich Town Women v Birmingham City Women
-- Newcastle United Women v Bristol City Women
-- Portsmouth Women v Southampton Women
-- Arsenal Women v Brighton & Hove Albion Women
-- Liverpool Women v Manchester City Women
+- Worthing v Forest Green Rovers
+- England U21 v Andorra U21
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -63,16 +54,16 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Enzo Fernández withdrawn from Argentina squad with knee inflammation
+- Chelsea FCW 1-0 Tottenham Hotspur FCW, Women’s Super League: Post-match reaction
+- Chelsea FCW vs. Tottenham Hotspur FCW, Women’s Super League: Confirmed lineups; how to watch
+- Chelsea FCW vs. Tottenham Hotspur FCW, Women’s Super League: Preview, team news, how to watch
+- The Daily Hilario: Sunday
 - Jamie Gittens scores for England U21; Estêvão grabs brace for Brazil
 - The Daily Hilario: Saturday
 - How to make sure We Ain’t Got No History shows up in your Google search
 - The Daily Hilario: Friday
 - The Daily Hilario: Thursday
-- FC Twente Vrouwen 1-1 Chelsea FCW, UEFA Women’s Champions League: Post-match reaction
-- FC Twente Vrouwen vs. Chelsea FCW, UEFA Women’s Champions League: Confirmed lineups; how to watch
-- The Daily Hilario: Wednesday
-- FC Twente Vrouwen vs. Chelsea FCW, UEFA Women’s Champions League: Preview, team news, how to watch
-- The Daily Hilario: Tuesday
 
 <!-- news_marker ends -->
 
@@ -80,14 +71,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- China blames Trump and US for escalating trade war
-- Trump talks tough with China but holds out hope of truce in trade war
-- Ukraine hit Russian energy sites with US help
-- The fashion for the young: turn to the radical right
-- Would your speech make a professional’s top 10?
-- UK consumers curb spending more than anywhere else in G7
-- Chinese stocks race ahead as reforms take hold
-- Musk’s xAI joins race to build ‘world models’ to power video games
+- Hamas starts the release of Israeli hostages
+- A rare moment of hope in the Middle East
+- How mega batteries are unlocking an energy revolution
+- The limits of the ‘Donroe doctrine’
+- Novo Nordisk’s ‘lottery ticket’: can obesity drugs help treat Alzheimer’s?
+- Dutch government takes control of Chinese-owned chipmaker Nexperia
+- Strava plots Wall Street debut as running boom boosts fitness app
+- Wall Street investment banking revenues poised to top $9bn
 
 <!-- ftnews_marker ends -->
 
@@ -95,40 +86,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > lampoon - noun: A biting satire directed against a person or institution; verb tr.: To ridicule or satirize.
+ > lace-curtain - adjective: Aspiring to or pretentiously displaying middle-class respectability.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Observing, listening, and not interfering are the most important aspects of a great ScrumMaster's job. - Zuzana Sochova
+> Grand principles that generate no action are mere vapour. Conversely, specific practices in the absence of guiding principles are often inappropriately used. - Jim Highsmith, Agile Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Don't be afraid of things because they're easy to do
+> What is the reality of the situation?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Nobody (Rated: 3)
-- Released in 2021
-- Summary: A docile family man slowly reveals his true character after his house gets burgled by two petty thieves, which, coincidentally, leads him into a bloody war with a Russian crime boss.
+- Contact (Rated: 5)
+- Released in 1997
+- Summary: Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 405, using [4, 5, 9, 9, 10, 75]
-- Answer: 53 solutions.
+- Target: 848, using [1, 1, 2, 7, 50, 75]
+- Answer: 4 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 10 + 9 - 9 - 4 ) x 5
+  Solution: ( ( 7 - 1 ) x 75 - 1 ) x 2 - 50
 
    </details>
 
