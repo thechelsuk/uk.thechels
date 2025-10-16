@@ -35,12 +35,3 @@ During an era of running a successful football analytics website I had work publ
 
 The associated [Twitter](/images/ChelseaStats.png) [account](https://web.archive.org/web/20160330035832/https://twitter.com/ChelseaStats), active from 2010 to 2018, peaked at 185,000 followers with a monthly reach of 8 million users worldwide all through organic growth and received acclaim from Opta Sports, Chelsea FC, BBC and other businesses. The account was closed due to Twiiter's new ownership, whilst noting football statistics had become more mainstream and access to data had become less readily available.
 
-## Now
-
-_Based on the [now](https://sive.rs/now) page idea from [Derek Sivers](https://sive.rs/nowff)._
-
-- Pacing and rest - currently on long term sick leave due to a diagnosis of me/cfs (Oct 2025)
-
-## Next
-
-- No plans. Living day-to-day. 
