@@ -39,9 +39,8 @@ The associated [Twitter](/images/ChelseaStats.png) [account](https://web.archive
 
 _Based on the [now](https://sive.rs/now) page idea from [Derek Sivers](https://sive.rs/nowff)._
 
-- Pacing and rest - against me/cfs since October 2022.
-- Reading - I have a huge backlog of books to get through .
+- Pacing and rest - currently on long term sick leave due to a diagnosis of me/cfs (Oct 2025)
 
 ## Next
 
-- no plans.
+- No plans. Living day-to-day. 
