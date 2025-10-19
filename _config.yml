@@ -109,6 +109,8 @@ navigation_slashes:
     title: "IndieWeb"
 ## External links
 navigation_external:
+  - link: "https://mastodon.social/@Thechelsuk"
+    title: "Mastodon &#11084;"
   - link: "https://music.apple.com/profile/thechelsuk"
     title: "Apple Music &#11084;"
   - link: "https://tools.thechels.uk"
