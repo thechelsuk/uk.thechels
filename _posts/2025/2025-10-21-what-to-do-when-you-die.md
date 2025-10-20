@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: “What to Do When You Die”
+title: “What to Do When Before You Die”
 date: 2025-10-21
 categories: [finance, planning, estate]
 
