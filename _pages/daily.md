@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 19 October 2025
+## On Monday, 20 October 2025
 
-- The average temperature today is 11.75˚C,
-- With highs of 12.62˚C and lows of 11.08˚C,
-- It may feel like 11.15˚C with overcast clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1005hPa and humidity is 83%
-- The sun will rise at 06:39 and set at 17:06
+- The average temperature today is 12.78˚C,
+- With highs of 13.3˚C and lows of 12.04˚C,
+- It may feel like 12.49˚C with moderate rain
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 988hPa and humidity is 91%
+- The sun will rise at 06:41 and set at 17:04
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 593 days since the last change (2024-03-05)
+- It has been 594 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,16 +32,13 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Set exceptional standards.
+> Design for constant evolution.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Tottenham Hotspur v Aston Villa
-- Newcastle United Women v Manchester City Women
-- Tottenham Hotspur Women v Birmingham City Women
-- Liverpool v Manchester United
+- West Ham United v Brentford
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -55,6 +52,8 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Enzo Maresca very happy with second half response after ‘sloppy’ first half
+- The Daily Hilario: Sunday
 - Nottingham Forest 0-3 Chelsea, Premier League: Post-match reaction
 - Nottingham Forest vs. Chelsea, Premier League: Live blog; highlights
 - Chelsea fans’ preferred lineup against Nottingham Forest: A new midfield pairing
@@ -63,8 +62,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - Cole Palmer to miss at least six more weeks with injury!
 - How should still-injury-hit Chelsea line up against Nottingham Forest?
 - The Daily Hilario: Friday
-- Chelsea unconcerned by Enzo Fernández injury, but Cole Palmer now ‘feared out’ until November — reports
-- Estêvão and Jorrel Hato among 25 finalists for 2025 Golden Boy Award
 
 <!-- news_marker ends -->
 
@@ -72,13 +69,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Chinese tech giants pause stablecoin plans after Beijing steps in
-- AI is killing the magic
-- Is your workplace a theatre of the absurd?
-- France’s wealthy shift funds to Luxembourg and Switzerland
-- Apple’s biggest iPhone overhaul in years ignites upgrade frenzy
-- Labour braces for defeat in Caerphilly by-election
-- US says Hamas could breach ceasefire with attack on Palestinians
+- Trump urged Zelenskyy to accept Putin’s terms or be ‘destroyed’ by Russia
+- How Portland became ground zero in Trump’s battle with Democratic cities
+- Blaming the OBR for the Budget maths is a waste of time
+- Why gold and stocks are partying together
+- Rare earths shares soar as US and China battle over export controls
+- America’s rare earth delusion
+- CKI calls for Thames Water renationalisation after ‘high-risk’ creditor plan
+- UK profit warnings rise as business blames trade tariffs and policy shifts
 
 <!-- ftnews_marker ends -->
 
@@ -86,40 +84,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > moral compass - noun: One's inner sense of right and wrong.
+ > acerbic - adjective: 1. Having a sour or bitter taste. 2. Harsh, biting, critical.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> People with goals succeed because they know where they are going - Earl Nightingale
+> Leadership and learning are indispensable to each other - John F. Kennedy
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> (Organic) machinery
+> You are an engineer
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Mother (Rated: 3)
-- Released in 2023
-- Summary: While fleeing from dangerous assailants, an assassin comes out of hiding to protect the daughter she left earlier in life.
+- Into The Mirror (Rated: 9)
+- Released in 2003
+- Summary: An ex-cop, now working as a security guard in a shopping mall, tries to uncover the secret behind a series of mysterious deaths linked to mirrors.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 859, using [1, 5, 7, 10, 75, 100]
-- Answer: 4 solutions.
+- Target: 177, using [3, 6, 7, 8, 25, 50]
+- Answer: 54 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 75 + 7 - 10 ) x 5 - 1
+  Solution: ( 50 + 8 - 25 ) x 6 - 7 x 3
 
    </details>
 
