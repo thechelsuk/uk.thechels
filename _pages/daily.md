@@ -7,51 +7,89 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 20 October 2025
+## On Tuesday, 21 October 2025
 
-- The average temperature today is 12.78˚C,
-- With highs of 13.3˚C and lows of 12.04˚C,
-- It may feel like 12.49˚C with moderate rain
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 988hPa and humidity is 91%
-- The sun will rise at 06:41 and set at 17:04
+- The average temperature today is 11.21˚C,
+- With highs of 11.64˚C and lows of 10.47˚C,
+- It may feel like 10.71˚C with scattered clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 990hPa and humidity is 89%
+- The sun will rise at 06:43 and set at 17:02
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 594 days since the last change (2024-03-05)
+- It has been 595 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Design for constant evolution.
+> Set exceptional standards.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- West Ham United v Brentford
+- Villarreal U19 v Manchester City U19
+- Arsenal U19 v AtlÃ©tico Madrid U19
+- Barnsley v Manchester United U21
+- Stevenage v Crystal Palace U21
+- Aldershot Town v Southampton U21
+- Braintree Town v West Brom U21
+- FC Halifax Town v Leeds United U21
+- Forest Green Rovers v Leicester City U21
+- Solihull Moors v Blackburn Rovers U21
+- Sutton United v West Ham United U21
+- Truro City v Brighton & Hove Albion U21
+- Wealdstone v Nottingham Forest U21
+- Woking v Fulham U21
+- Gateshead v Sunderland U21
+- Blackburn Rovers v Sheffield United
+- Derby County v Norwich City
+- Hull City v Leicester City
+- Ipswich Town v Charlton Athletic
+- Millwall v Stoke City
+- Portsmouth v Coventry City
+- Preston North End v Birmingham City
+- Barnet v Cambridge United
+- Swindon Town v Notts County
+- Boston United v Morecambe
+- Eastleigh v Scunthorpe United
+- York City v Boreham Wood
+- Brackley Town v Everton U21
+- Tamworth v Burnley U21
+- Alfreton Town v Chester
+- Dover Athletic v Dorking Wanderers
+- Bristol City v Southampton
+- Reading v Northampton Town
+- Arsenal v AtlÃ©tico Madrid
+- Newcastle United v Benfica
+- Villarreal v Manchester City
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 119.55999755859375 
+- VWRL.L : 121.37999725341797 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Nottingham Forest 0-3 Chelsea, Player Ratings: Pedro Neto makes an impact
+- The Daily Hilario: Monday
 - Enzo Maresca very happy with second half response after ‘sloppy’ first half
 - The Daily Hilario: Sunday
 - Nottingham Forest 0-3 Chelsea, Premier League: Post-match reaction
@@ -60,8 +98,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - The Daily Hilario: Saturday
 - Nottingham Forest vs. Chelsea, Premier League: Preview, team news, how to watch
 - Cole Palmer to miss at least six more weeks with injury!
-- How should still-injury-hit Chelsea line up against Nottingham Forest?
-- The Daily Hilario: Friday
 
 <!-- news_marker ends -->
 
@@ -69,14 +105,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump urged Zelenskyy to accept Putin’s terms or be ‘destroyed’ by Russia
-- How Portland became ground zero in Trump’s battle with Democratic cities
-- Blaming the OBR for the Budget maths is a waste of time
-- Why gold and stocks are partying together
-- Rare earths shares soar as US and China battle over export controls
-- America’s rare earth delusion
-- CKI calls for Thames Water renationalisation after ‘high-risk’ creditor plan
-- UK profit warnings rise as business blames trade tariffs and policy shifts
+- US army taps private equity groups to help fund $150bn revamp
+- How Friedrich Merz is testing Germany’s patience
+- Why can’t I buy a small smartphone?
+- Demographic doom-mongering isn’t helping
+- Reeves launches ‘blitz’ on red tape in bid to save £6bn a year for UK business
+- Nicolas Sarkozy to start jail time in Paris
+- Japan stocks surge as Sanae Takaichi becomes prime minister
+- HSBC taps former NatWest executive to lead UK business
 
 <!-- ftnews_marker ends -->
 
@@ -84,40 +120,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > acerbic - adjective: 1. Having a sour or bitter taste. 2. Harsh, biting, critical.
+ > polemical - adjective: Relating to or involving strong, critical, or controversial writing or speech.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Leadership and learning are indispensable to each other - John F. Kennedy
+> Nothing endures but change. - Heraclitus
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> You are an engineer
+> Are there sections? Consider transitions
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Into The Mirror (Rated: 9)
-- Released in 2003
-- Summary: An ex-cop, now working as a security guard in a shopping mall, tries to uncover the secret behind a series of mysterious deaths linked to mirrors.
+- The Cell (Rated: 7)
+- Released in 2000
+- Summary: An F.B.I. Agent persuades a social worker, who is adept with a new experimental technology, to enter the mind of a comatose serial killer in order to learn where he has hidden his latest kidnap victim.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 177, using [3, 6, 7, 8, 25, 50]
-- Answer: 54 solutions.
+- Target: 967, using [1, 4, 8, 10, 25, 100]
+- Answer: 11 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 + 8 - 25 ) x 6 - 7 x 3
+  Solution: ( 100 + 25 - 4 ) x 8 - 1
 
    </details>
 
