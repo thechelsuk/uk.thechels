@@ -7,87 +7,60 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 21 October 2025
+## On Wednesday, 22 October 2025
 
-- The average temperature today is 11.21˚C,
-- With highs of 11.64˚C and lows of 10.47˚C,
-- It may feel like 10.71˚C with scattered clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 990hPa and humidity is 89%
-- The sun will rise at 06:43 and set at 17:02
+- The average temperature today is 9.46˚C,
+- With highs of 9.99˚C and lows of 8.25˚C,
+- It may feel like 9.46˚C with broken clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 997hPa and humidity is 90%
+- The sun will rise at 06:45 and set at 17:00
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 595 days since the last change (2024-03-05)
+- It has been 596 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Set exceptional standards.
+> Exploit the landscape.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Villarreal U19 v Manchester City U19
-- Arsenal U19 v AtlÃ©tico Madrid U19
-- Barnsley v Manchester United U21
-- Stevenage v Crystal Palace U21
-- Aldershot Town v Southampton U21
-- Braintree Town v West Brom U21
-- FC Halifax Town v Leeds United U21
-- Forest Green Rovers v Leicester City U21
-- Solihull Moors v Blackburn Rovers U21
-- Sutton United v West Ham United U21
-- Truro City v Brighton & Hove Albion U21
-- Wealdstone v Nottingham Forest U21
-- Woking v Fulham U21
-- Gateshead v Sunderland U21
-- Blackburn Rovers v Sheffield United
-- Derby County v Norwich City
-- Hull City v Leicester City
-- Ipswich Town v Charlton Athletic
-- Millwall v Stoke City
-- Portsmouth v Coventry City
-- Preston North End v Birmingham City
-- Barnet v Cambridge United
-- Swindon Town v Notts County
-- Boston United v Morecambe
-- Eastleigh v Scunthorpe United
-- York City v Boreham Wood
-- Brackley Town v Everton U21
-- Tamworth v Burnley U21
-- Alfreton Town v Chester
-- Dover Athletic v Dorking Wanderers
-- Bristol City v Southampton
-- Reading v Northampton Town
-- Arsenal v AtlÃ©tico Madrid
-- Newcastle United v Benfica
-- Villarreal v Manchester City
+- Monaco U19 v Tottenham Hotspur U19
+- Swansea City v QPR
+- Watford v West Brom
+- Wrexham v Oxford United
+- Sheffield Wednesday v Middlesbrough
+- Chelsea v Ajax
+- Eintracht Frankfurt v Liverpool
+- Monaco v Tottenham Hotspur
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 121.37999725341797 
+- VWRL.L : 121.56999969482422 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- How should Chelsea line up against Ajax Amsterdam in the Champions League?
+- The Daily Hilario: Tuesday
 - Nottingham Forest 0-3 Chelsea, Player Ratings: Pedro Neto makes an impact
 - The Daily Hilario: Monday
 - Enzo Maresca very happy with second half response after ‘sloppy’ first half
@@ -96,8 +69,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - Nottingham Forest vs. Chelsea, Premier League: Live blog; highlights
 - Chelsea fans’ preferred lineup against Nottingham Forest: A new midfield pairing
 - The Daily Hilario: Saturday
-- Nottingham Forest vs. Chelsea, Premier League: Preview, team news, how to watch
-- Cole Palmer to miss at least six more weeks with injury!
 
 <!-- news_marker ends -->
 
@@ -105,14 +76,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- US army taps private equity groups to help fund $150bn revamp
-- How Friedrich Merz is testing Germany’s patience
-- Why can’t I buy a small smartphone?
-- Demographic doom-mongering isn’t helping
-- Reeves launches ‘blitz’ on red tape in bid to save £6bn a year for UK business
-- Nicolas Sarkozy to start jail time in Paris
-- Japan stocks surge as Sanae Takaichi becomes prime minister
-- HSBC taps former NatWest executive to lead UK business
+- UK inflation unexpectedly holds steady at 3.8% in September
+- Chancellor targets tax partnerships in crackdown on wealthy Britons
+- Inside Oklo: the $20bn nuclear start-up still waiting to power up
+- Bubble-talk is breaking out everywhere
+- Why the ‘thrifty gene’ hypothesis is back
+- US and Qatar issue energy and trade threats to EU over climate rules
+- Sequoia COO quit over Shaun Maguire’s comments about Mamdani
+- HS2 link to West Coast Main Line delayed for four years
 
 <!-- ftnews_marker ends -->
 
@@ -120,7 +91,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > polemical - adjective: Relating to or involving strong, critical, or controversial writing or speech.
+ > orectic - adjective: Relating to appetite or desire.
 
 <!-- word_marker ends -->
 
@@ -133,27 +104,27 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Are there sections? Consider transitions
+> Shut the door and listen from outside
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Cell (Rated: 7)
-- Released in 2000
-- Summary: An F.B.I. Agent persuades a social worker, who is adept with a new experimental technology, to enter the mind of a comatose serial killer in order to learn where he has hidden his latest kidnap victim.
+- Reasonable Doubt (Rated: 3)
+- Released in 2014
+- Summary: A District Attorney has his life turned upside down when he's involved in a hit and run and another man is arrested for his crime and charged with murder.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 967, using [1, 4, 8, 10, 25, 100]
-- Answer: 11 solutions.
+- Target: 486, using [3, 6, 10, 25, 50, 100]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 25 - 4 ) x 8 - 1
+  Solution: ( 10 x 6 + 50 / 25 + 100 ) x 3
 
    </details>
 
