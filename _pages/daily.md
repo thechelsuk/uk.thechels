@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 22 October 2025
+## On Thursday, 23 October 2025
 
-- The average temperature today is 9.46˚C,
-- With highs of 9.99˚C and lows of 8.25˚C,
-- It may feel like 9.46˚C with broken clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 997hPa and humidity is 90%
-- The sun will rise at 06:45 and set at 17:00
+- The average temperature today is 7.91˚C,
+- With highs of 8.88˚C and lows of 7.6˚C,
+- It may feel like 5.42˚C with light rain
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 983hPa and humidity is 91%
+- The sun will rise at 06:46 and set at 16:58
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 596 days since the last change (2024-03-05)
+- It has been 597 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,43 +32,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Exploit the landscape.
+> challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Monaco U19 v Tottenham Hotspur U19
-- Swansea City v QPR
-- Watford v West Brom
-- Wrexham v Oxford United
-- Sheffield Wednesday v Middlesbrough
-- Chelsea v Ajax
-- Eintracht Frankfurt v Liverpool
-- Monaco v Tottenham Hotspur
+- Germany Women U23 v England Women U23
+- Go Ahead Eagles v Aston Villa
+- Exeter City v Plymouth Argyle
+- Crystal Palace v AEK Larnaca
+- Nottingham Forest v FC Porto
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 121.56999969482422 
+- VWRL.L : 121.12000274658203 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea 5-1 Ajax Amsterdam, Champions League: Post-match reaction, ratings
+- Chelsea vs. Ajax Amsterdam, Champions League: Confirmed lineups; how to watch
+- Chelsea fans’ preferred lineup against Ajax: Guiu and Estevao to lead the way
+- Chelsea vs. Ajax Amsterdam, Champions League: Preview, team news, how to watch
+- The Daily Hilario: Wednesday
 - How should Chelsea line up against Ajax Amsterdam in the Champions League?
 - The Daily Hilario: Tuesday
 - Nottingham Forest 0-3 Chelsea, Player Ratings: Pedro Neto makes an impact
 - The Daily Hilario: Monday
 - Enzo Maresca very happy with second half response after ‘sloppy’ first half
-- The Daily Hilario: Sunday
-- Nottingham Forest 0-3 Chelsea, Premier League: Post-match reaction
-- Nottingham Forest vs. Chelsea, Premier League: Live blog; highlights
-- Chelsea fans’ preferred lineup against Nottingham Forest: A new midfield pairing
-- The Daily Hilario: Saturday
 
 <!-- news_marker ends -->
 
@@ -76,14 +73,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- UK inflation unexpectedly holds steady at 3.8% in September
-- Chancellor targets tax partnerships in crackdown on wealthy Britons
-- Inside Oklo: the $20bn nuclear start-up still waiting to power up
-- Bubble-talk is breaking out everywhere
-- Why the ‘thrifty gene’ hypothesis is back
-- US and Qatar issue energy and trade threats to EU over climate rules
-- Sequoia COO quit over Shaun Maguire’s comments about Mamdani
-- HS2 link to West Coast Main Line delayed for four years
+- US puts sanctions on Russia’s Rosneft and Lukoil
+- Milei’s make-or-break moment
+- Let’s fall in love with cars again
+- Taking a swipe at dating apps
+- Tesla profits drop more than a quarter despite record car sales
+- Citi board names Jane Fraser as chair and awards her $25mn bonus
+- Lawyers and accountants warn Reeves against tax raid on partnerships
+- Borrowing costs fall in boost for UK chancellor
 
 <!-- ftnews_marker ends -->
 
@@ -91,40 +88,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > orectic - adjective: Relating to appetite or desire.
+ > wrackful - adjective: Ruinous.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Nothing endures but change. - Heraclitus
+> Whether you think that you can, or that you cannot, you are usually right. - Henry Ford
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Shut the door and listen from outside
+> Imagine the music as a moving chain or caterpillar
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Reasonable Doubt (Rated: 3)
-- Released in 2014
-- Summary: A District Attorney has his life turned upside down when he's involved in a hit and run and another man is arrested for his crime and charged with murder.
+- Black Crab (Rated: 3)
+- Released in 2022
+- Summary: In a post-apocalyptic world, six soldiers on a covert mission must transport a mysterious package across a frozen archipelago. Noomi Rapace stars.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 486, using [3, 6, 10, 25, 50, 100]
-- Answer: 7 solutions.
+- Target: 359, using [2, 3, 8, 10, 50, 75]
+- Answer: 17 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 10 x 6 + 50 / 25 + 100 ) x 3
+  Solution: ( 75 + 50 + 2 - 10 ) x 3 + 8
 
    </details>
 
