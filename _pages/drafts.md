@@ -16,6 +16,9 @@ Drafts is a Mac and [iOS app](https://itunes.apple.com/app/id1236254471?ls=1&mt=
 - [Quote post](https://directory.getdrafts.com/a/21d) _Takes a quote post, asks for Front Matter, and saves it into Working Copy._
 - [Regular Post](https://directory.getdrafts.com/a/21c) _Takes a regular blog post, asks for Title and date, and saves it to Working Copy._
 - [Front-mattered Post](https://directory.getdrafts.com/a/21i) _Takes a Jekyll formatted post with front matter and copies it to Working Copy._
+- [Header Date](https://directory.getdrafts.com/a/21m) _adds today's date as a h3 heading - perfect for journalling._
+- [Get weather](https://directory.getdrafts.com/a/21n) _using OpenWeather's 2.5 API (your own key required) and a city/location added as credentials to produce a date header and list of metrics for the forecast._
+ 
 
 ## Tip
 
