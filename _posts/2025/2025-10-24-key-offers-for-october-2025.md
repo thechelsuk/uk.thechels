@@ -13,3 +13,12 @@ title: Key Offers for October 2025
 - [£25 - Visa card when you install an Octopus EV charger](https://tech.referrals.octopus.energy/ulLGI6SC)
 - [Join Monzo bank get up to £50](https://join.monzo.com/c/tr0bxrb7)
 
+## Sponsor
+
+- [Monitor all your domains for security issues and get real time alerts with Cybaa](https://cybaa.io/?ref=thechels)
+
+## Indie App
+- [Get the Engineering Manager Coach App on iOS now](https://apps.apple.com/uk/app/engman/id6747295473)
+- [Get Hiyd - the Jekyll companion App on iOS now](https://apps.apple.com/us/app/hiyd/id6746853559)
+- [Plan for Tomorrow, today either Tomoz for iOS - your simple view of tomorrow’s calendar events](https://apps.apple.com/gb/app/tomoz/id6748755747)
+- 
