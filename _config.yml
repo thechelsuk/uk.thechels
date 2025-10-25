@@ -131,6 +131,8 @@ navigation_external:
     title: "Twitch &#11084;"
   - link: "https://www.linkedin.com/in/0mat/"
     title: "LinkedIn &#11084;"
+  - link: "https://throne.com/thechelsuk"
+    title: "Throne"
 ## Footer links
 navigation_footer:
   - link: "/feed"
