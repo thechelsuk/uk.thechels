@@ -7,43 +7,41 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 26 October 2025
+## On Monday, 27 October 2025
 
-- The average temperature today is 4.26˚C,
-- With highs of 4.42˚C and lows of 3.88˚C,
-- It may feel like 3.33˚C with clear sky
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1011hPa and humidity is 87%
-- The sun will rise at 06:52 and set at 16:52
+- The average temperature today is 10.34˚C,
+- With highs of 10.85˚C and lows of 9.82˚C,
+- It may feel like 9.41˚C with overcast clouds
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 1004hPa and humidity is 76%
+- The sun will rise at 06:53 and set at 16:50
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 600 days since the last change (2024-03-05)
+- It has been 601 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Think aptitude and attitude.
+> Do better with less.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Liverpool U21 v Everton U21
-- AFC Bournemouth v Nottingham Forest
-- Arsenal v Crystal Palace
-- Aston Villa v Manchester City
-- Wolves v Burnley
-- Everton v Tottenham Hotspur
+- Crystal Palace U21 v Newcastle United U21
+- England Women U23 v Portugal Women U23
+- Port Vale v Stockport County
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -57,6 +55,9 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea 1-2 Sunderland, Player Ratings: Probably should’ve kept him on
+- Enzo Maresca admits Chelsea simply ‘not good enough’ against Sunderland
+- The Daily Hilario: Sunday
 - Chelsea 1-2 Sunderland, Premier League: Post-match reaction
 - Chelsea vs. Sunderland, Premier League: Live blog; highlights
 - Chelsea fans’ preferred lineup against Sunderland: João Pedro and Marc Guiu together
@@ -64,9 +65,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - Chelsea vs. Sunderland, Premier League: Preview, team news, how to watch
 - How should Chelsea line up against Sunderland to keep momentum building?
 - Chelsea 5-1 Ajax, Player Ratings: First Man of the Match for Estêvão
-- Enzo Maresca happy to continue building Chelsea momentum with Ajax win
-- The Daily Hilario: Thursday
-- Chelsea 5-1 Ajax Amsterdam, Champions League: Post-match reaction, ratings
 
 <!-- news_marker ends -->
 
@@ -74,14 +72,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- US risks losing more ground to China in EV race as investment tumbles
-- Trump kicks off Asia tour as trade tensions loom large
-- Not another work email with exclamation marks!
-- ‘Where the hell is the market risk?’ Scott Bessent takes on his critics
-- Markets brace as Argentines go to the polls
-- ‘Do not trust your eyes’: AI generates surge in expense fraud
-- Far-right lawmakers are ‘political reality’ in EU assembly, says top official
-- China upgraded missiles using UAE technology, Biden spies said
+- Argentina’s Milei secures big victory in midterm elections
+- Can Pakistan’s military strongman fix a failing nation?
+- The need to tighten UK fiscal policy is also an opportunity
+- CEOs don’t call the shots
+- Home Office wasted billions on asylum hotels due to ‘flawed contracts’, MPs say
+- Labour ministers round on Reform UK over MP’s ‘racist’ remarks
+- UK chancellor to hold Gulf trade talks in push for pro-growth policies
+- Global stocks rally on US-China trade optimism
 
 <!-- ftnews_marker ends -->
 
@@ -89,40 +87,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > homiletic - adjective: 1. Relating to a homily. 2. Relating to homiletics (the art of preaching). 3. Preachy.
+ > nomophobia - noun: 1. The fear or dislike of laws or rules. 2. The fear of not having access to or being unable to use one's mobile phone.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> It seems that perfection is reached not when there is nothing left to add, but when there is nothing left to take away. - Antoine de Saint-Exupéry, Author
+> The more they over think the plumbing, the easier it is to stop up the drain. - James Doohan, as Scotty in Star Trek III
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> A line has two sides
+> Think of the radio
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Strangers (Rated: 6)
-- Released in 2008
-- Summary: James Hoyt and Kristen McKay visit an isolated vacation home to enjoy some time together. However, they are in for a rude surprise when three masked assailants make their stay a nightmare.
+- Clive Barkers Book Of Blood (Rated: 6)
+- Released in 2009
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 760, using [5, 6, 8, 50, 75, 100]
-- Answer: 39 solutions.
+- Target: 191, using [1, 5, 6, 25, 50, 100]
+- Answer: 12 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 - ( 75 + 5 - 50 ) / 6 ) x 8
+  Solution: ( 50 + 25 ) x 6 / 5 + 100 + 1
 
    </details>
 
