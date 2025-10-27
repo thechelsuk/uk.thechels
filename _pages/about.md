@@ -1,8 +1,8 @@
 ---
 layout: pages
-title: About Mat B - Engineering Leader and Team Builder
+title: About TheChels.uk
 permalink: /about
-seo: About page for Mat B, owner of thechels.uk
+seo: About page for the owner of thechels.uk
 ---
 
 An experienced engineering leader with a passion for people development, building teams, implementing agile methodologies, and focusing on flow and delivery. A broad history of working with teams using various programming languages, in fast-paced and regulated environments.

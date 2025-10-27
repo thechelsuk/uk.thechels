@@ -9,15 +9,16 @@ seo: Verify Me
 This page serves as the system of record for my online identity. The best places to follow me are:
 
 - Here on this website [RSS](/feed)
-- [LinkedIn &raquo;](https://www.linkedin.com/in/0Mat/)
 - [GitHub &#11084;](https://github.com/Mat-0/)
 - [Mastodon &#11084;](https://mastodon.social/@Thechelsuk)
 - [YouTube &#11084;](https://www.youtube.com/@thechelsuk)
 - [Twitch &#11084;](https://www.twitch.tv/thechelsuk)
-- [Apple Music &raquo;](https://music.apple.com/profile/thechelsuk)
+- [Apple Music &#11084;](https://music.apple.com/profile/thechelsuk)
 - [Reddit &#11084;](https://www.reddit.com/user/thechelsuk)
 - [X &#11084;](https://x.com/thechelsuk)
 - [Ko-fi &#11084;](https://ko-fi.com/thechelsuk)
+- [Signal &#11084;](https://signal.me/#eu/BizXBBg5kvZWt8bjNg-TNpekSp9dJMBUXzLlNCaYil27chQ_yoVItr5fBPF9n0jE")
+- [Throne &#11084;](https://throne.com/thechelsuk)
 - [Keybase &#11084;](https://keybase.io/thechelsuk)
 
 I own and control this domain thechels.uk and hiyd.uk
