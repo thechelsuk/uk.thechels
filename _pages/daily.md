@@ -7,27 +7,28 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 27 October 2025
+## On Tuesday, 28 October 2025
 
-- The average temperature today is 10.34˚C,
-- With highs of 10.85˚C and lows of 9.82˚C,
-- It may feel like 9.41˚C with overcast clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1004hPa and humidity is 76%
-- The sun will rise at 06:53 and set at 16:50
+- The average temperature today is 11.17˚C,
+- With highs of 11.64˚C and lows of 10.93˚C,
+- It may feel like 10.33˚C with overcast clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1006hPa and humidity is 76%
+- The sun will rise at 06:55 and set at 16:48
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 601 days since the last change (2024-03-05)
+- It has been 602 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
@@ -39,22 +40,38 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Crystal Palace U21 v Newcastle United U21
-- England Women U23 v Portugal Women U23
-- Port Vale v Stockport County
+- Barrow AFC v Nottingham Forest U21
+- Cheltenham Town v Tottenham Hotspur U21
+- Exeter City v Arsenal U21
+- Leyton Orient v Aston Villa U21
+- Luton Town v Brighton & Hove Albion U21
+- Rotherham United v Manchester City U21
+- Swindon Town v West Ham United U21
+- Walsall v Chelsea U21
+- Rochdale v Manchester United U21
+- Scunthorpe United v Middlesbrough U21
+- England Women v Australia Women
+- Grimsby Town v Brentford
+- Wycombe Wanderers v Fulham
+- Bradford City v Lincoln City
+- Mansfield Town v Plymouth Argyle
+- Accrington Stanley v Tranmere Rovers
+- Wrexham v Cardiff City
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 123.43000030517578 
+- VWRL.L : 124.0 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Cole Palmer nominated for 2025 FIFPro Men’s World XI
+- The Daily Hilario: Monday
 - Chelsea 1-2 Sunderland, Player Ratings: Probably should’ve kept him on
 - Enzo Maresca admits Chelsea simply ‘not good enough’ against Sunderland
 - The Daily Hilario: Sunday
@@ -63,8 +80,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - Chelsea fans’ preferred lineup against Sunderland: João Pedro and Marc Guiu together
 - The Daily Hilario: Saturday
 - Chelsea vs. Sunderland, Premier League: Preview, team news, how to watch
-- How should Chelsea line up against Sunderland to keep momentum building?
-- Chelsea 5-1 Ajax, Player Ratings: First Man of the Match for Estêvão
 
 <!-- news_marker ends -->
 
@@ -72,14 +87,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Argentina’s Milei secures big victory in midterm elections
-- Can Pakistan’s military strongman fix a failing nation?
-- The need to tighten UK fiscal policy is also an opportunity
-- CEOs don’t call the shots
-- Home Office wasted billions on asylum hotels due to ‘flawed contracts’, MPs say
-- Labour ministers round on Reform UK over MP’s ‘racist’ remarks
-- UK chancellor to hold Gulf trade talks in push for pro-growth policies
-- Global stocks rally on US-China trade optimism
+- $100bn stock swings expose ‘fragility’ beneath Wall Street rally
+- Will Trump push south-east Asia towards China?
+- Trump and Takaichi promise ‘golden age’ for US-Japan alliance
+- Europe needs a fix to its rules on markets and finance
+- Kirkland & Ellis trains lawyers on communication style after investor tensions
+- Reeves faces £20bn hit to UK public finances from productivity downgrade
+- How bad will UK productivity downgrade be for Reeves?
+- HSBC profits fall 14% as bank takes hit from Madoff lawsuit provision
 
 <!-- ftnews_marker ends -->
 
@@ -87,41 +102,34 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > nomophobia - noun: 1. The fear or dislike of laws or rules. 2. The fear of not having access to or being unable to use one's mobile phone.
+ > partocracy - noun: Government or rule by a single political party.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The more they over think the plumbing, the easier it is to stop up the drain. - James Doohan, as Scotty in Star Trek III
+> Never doubt that a small group of thoughtful, concerned citizens can change the world. Indeed it is the only thing that ever has. - Margeret Mead
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Think of the radio
+> You are an engineer
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Clive Barkers Book Of Blood (Rated: 6)
-- Released in 2009
-- Summary: No summary available
+- Piranha (Rated: 3)
+- Released in 1978
+- Summary: When flesh-eating piranhas are accidentally released into a summer resort's rivers, the guests become their next meal.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 191, using [1, 5, 6, 25, 50, 100]
-- Answer: 12 solutions.
-
-- <details><summary><code>Solution</code></summary>
-
-  Solution: ( 50 + 25 ) x 6 / 5 + 100 + 1
-
-   </details>
+- Target: 173, using [1, 1, 9, 10, 50, 100]
 
 <!-- game_marker ends -->
