@@ -7,69 +7,53 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 28 October 2025
+## On Wednesday, 29 October 2025
 
-- The average temperature today is 11.17˚C,
-- With highs of 11.64˚C and lows of 10.93˚C,
-- It may feel like 10.33˚C with overcast clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1006hPa and humidity is 76%
-- The sun will rise at 06:55 and set at 16:48
+- The average temperature today is 8.87˚C,
+- With highs of 9.41˚C and lows of 8.71˚C,
+- It may feel like 8.87˚C with overcast clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1000hPa and humidity is 94%
+- The sun will rise at 06:57 and set at 16:46
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 602 days since the last change (2024-03-05)
+- It has been 603 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Do better with less.
+> Design for constant evolution.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Barrow AFC v Nottingham Forest U21
-- Cheltenham Town v Tottenham Hotspur U21
-- Exeter City v Arsenal U21
-- Leyton Orient v Aston Villa U21
-- Luton Town v Brighton & Hove Albion U21
-- Rotherham United v Manchester City U21
-- Swindon Town v West Ham United U21
-- Walsall v Chelsea U21
-- Rochdale v Manchester United U21
-- Scunthorpe United v Middlesbrough U21
-- England Women v Australia Women
-- Grimsby Town v Brentford
-- Wycombe Wanderers v Fulham
-- Bradford City v Lincoln City
-- Mansfield Town v Plymouth Argyle
-- Accrington Stanley v Tranmere Rovers
-- Wrexham v Cardiff City
+- No Fixtures
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 124.0 
+- VWRL.L : 124.87000274658203 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- How should Chelsea rotate and line up against Wolves in the League Cup?
+- The Daily Hilario: Tuesday
 - Cole Palmer nominated for 2025 FIFPro Men’s World XI
 - The Daily Hilario: Monday
 - Chelsea 1-2 Sunderland, Player Ratings: Probably should’ve kept him on
@@ -78,8 +62,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - Chelsea 1-2 Sunderland, Premier League: Post-match reaction
 - Chelsea vs. Sunderland, Premier League: Live blog; highlights
 - Chelsea fans’ preferred lineup against Sunderland: João Pedro and Marc Guiu together
-- The Daily Hilario: Saturday
-- Chelsea vs. Sunderland, Premier League: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -87,14 +69,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- $100bn stock swings expose ‘fragility’ beneath Wall Street rally
-- Will Trump push south-east Asia towards China?
-- Trump and Takaichi promise ‘golden age’ for US-Japan alliance
-- Europe needs a fix to its rules on markets and finance
-- Kirkland & Ellis trains lawyers on communication style after investor tensions
-- Reeves faces £20bn hit to UK public finances from productivity downgrade
-- How bad will UK productivity downgrade be for Reeves?
-- HSBC profits fall 14% as bank takes hit from Madoff lawsuit provision
+- Lakshmi Mittal’s energy venture bought Russian oil transported on blacklisted ships
+- Who will be Trump’s next Fed chair — and what will they do?
+- Deregulation will pour extra fuel on the private credit bonfire
+- Revenge against the banking nerds is near
+- Citi probe did not interview women who complained about executive’s conduct
+- Trump says he will cut fentanyl tariffs on China
+- Trump floats Treasury secretary Scott Bessent as new Fed chair
+- German start-ups set for deal on kamikaze drones with Rheinmetall
 
 <!-- ftnews_marker ends -->
 
@@ -102,34 +84,41 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > partocracy - noun: Government or rule by a single political party.
+ > opsomania - noun: An excessive longing for a particular food.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Never doubt that a small group of thoughtful, concerned citizens can change the world. Indeed it is the only thing that ever has. - Margeret Mead
+> Scrum is like your mother-in-law, it points out ALL your faults - Ken Schwaber
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> You are an engineer
+> Do something boring
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Piranha (Rated: 3)
-- Released in 1978
-- Summary: When flesh-eating piranhas are accidentally released into a summer resort's rivers, the guests become their next meal.
+- The Fog (Rated: 6)
+- Released in 2005
+- Summary: Local legend tells of a ship lured on to the rocks of Antonio Bay being enveloped by a supernatural cloud as it sank; the myth says that when this mysterious fog returns, the victims will rise up from the depths seeking vengeance.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 173, using [1, 1, 9, 10, 50, 100]
+- Target: 547, using [3, 9, 10, 25, 50, 75]
+- Answer: 10 solutions.
+
+- <details><summary><code>Solution</code></summary>
+
+  Solution: ( 75 + 25 ) x 10 - 50 x 9 - 3
+
+   </details>
 
 <!-- game_marker ends -->
