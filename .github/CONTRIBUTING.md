@@ -16,7 +16,7 @@ Please go ahead and add your info as outlined below.
 
 ## Using the issue tracker
 
-The issue tracker is the preferred channel for bug reports and features requests. You can also reach out via twitter see [README for links](https://github.com/MatBenfield)
+The issue tracker is the preferred channel for bug reports and features requests.
 
 ## Bug reports
 
