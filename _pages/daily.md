@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 29 October 2025
+## On Thursday, 30 October 2025
 
-- The average temperature today is 8.87˚C,
-- With highs of 9.41˚C and lows of 8.71˚C,
-- It may feel like 8.87˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1000hPa and humidity is 94%
-- The sun will rise at 06:57 and set at 16:46
+- The average temperature today is 5.57˚C,
+- With highs of 6.65˚C and lows of 4.26˚C,
+- It may feel like 5.57˚C with broken clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1004hPa and humidity is 88%
+- The sun will rise at 06:59 and set at 16:44
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 603 days since the last change (2024-03-05)
+- It has been 604 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,7 +32,7 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Design for constant evolution.
+> Be humble.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -45,23 +45,23 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 124.87000274658203 
+- VWRL.L : 125.62000274658203 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea drawn against Cardiff City in League Cup quarterfinals
+- Wolves 3-4 Chelsea, League Cup: Post-match reaction
+- Wolves vs. Chelsea, League Cup: Live blog, highlights
+- Chelsea fans’ preferred lineup against Wolves: Full rotation ahead
+- Wolves vs. Chelsea, League Cup: Preview, team news, how to watch
+- The Daily Hilario: Wednesday
 - How should Chelsea rotate and line up against Wolves in the League Cup?
 - The Daily Hilario: Tuesday
 - Cole Palmer nominated for 2025 FIFPro Men’s World XI
 - The Daily Hilario: Monday
-- Chelsea 1-2 Sunderland, Player Ratings: Probably should’ve kept him on
-- Enzo Maresca admits Chelsea simply ‘not good enough’ against Sunderland
-- The Daily Hilario: Sunday
-- Chelsea 1-2 Sunderland, Premier League: Post-match reaction
-- Chelsea vs. Sunderland, Premier League: Live blog; highlights
-- Chelsea fans’ preferred lineup against Sunderland: João Pedro and Marc Guiu together
 
 <!-- news_marker ends -->
 
@@ -69,14 +69,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Lakshmi Mittal’s energy venture bought Russian oil transported on blacklisted ships
-- Who will be Trump’s next Fed chair — and what will they do?
-- Deregulation will pour extra fuel on the private credit bonfire
-- Revenge against the banking nerds is near
-- Citi probe did not interview women who complained about executive’s conduct
-- Trump says he will cut fentanyl tariffs on China
-- Trump floats Treasury secretary Scott Bessent as new Fed chair
-- German start-ups set for deal on kamikaze drones with Rheinmetall
+- Trump says China’s Xi agrees to one-year trade deal
+- The race to launch a pill for weight loss
+- Big Tech tests investors’ patience with $80bn AI investment spree
+- Our devices work for Big Tech, not us
+- Trump says South Korea can build nuclear-powered submarines in US
+- Trump administration quietly pays overdue WTO fees
+- Liberal D66 party set to win Dutch parliamentary elections, exit poll suggests
+- Fed trims US rates by quarter point but casts doubt on December cut
 
 <!-- ftnews_marker ends -->
 
@@ -84,40 +84,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > opsomania - noun: An excessive longing for a particular food.
+ > onychophagy - noun: The practice of biting one's nails.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Scrum is like your mother-in-law, it points out ALL your faults - Ken Schwaber
+> Nothing endures but change. - Heraclitus
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Do something boring
+> Look at a very small object; look at its center
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Fog (Rated: 6)
-- Released in 2005
-- Summary: Local legend tells of a ship lured on to the rocks of Antonio Bay being enveloped by a supernatural cloud as it sank; the myth says that when this mysterious fog returns, the victims will rise up from the depths seeking vengeance.
+- The Machinist (Rated: 5)
+- Released in 2004
+- Summary: An industrial worker who hasn't slept in a year begins to doubt his own sanity.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 547, using [3, 9, 10, 25, 50, 75]
-- Answer: 10 solutions.
+- Target: 256, using [2, 5, 10, 50, 75, 100]
+- Answer: 2 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 25 ) x 10 - 50 x 9 - 3
+  Solution: ( ( 75 - 2 ) x 10 + 50 ) / 5 + 100
 
    </details>
 
