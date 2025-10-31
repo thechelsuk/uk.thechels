@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 30 October 2025
+## On Friday, 31 October 2025
 
-- The average temperature today is 5.57˚C,
-- With highs of 6.65˚C and lows of 4.26˚C,
-- It may feel like 5.57˚C with broken clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1004hPa and humidity is 88%
-- The sun will rise at 06:59 and set at 16:44
+- The average temperature today is 12.76˚C,
+- With highs of 13.07˚C and lows of 12.6˚C,
+- It may feel like 12.39˚C with broken clouds
+- The wind speed is 4.47m/s and visibility is 10000m
+- The pressure is 999hPa and humidity is 88%
+- The sun will rise at 07:01 and set at 16:42
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 604 days since the last change (2024-03-05)
+- It has been 605 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,26 +32,31 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be humble.
+> What got us here, will not get us there.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- No Fixtures
+- Manchester City U21 v Leicester City U21
+- Luton Town v Forest Green Rovers
+- Wrexham v Coventry City
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 125.62000274658203 
+- VWRL.L : 125.54000091552734 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Enzo Maresca ‘very upset’ with second half against Wolves, Liam Delap red card
+- Eden Hazard inducted into Premier League Hall of Fame
+- The Daily Hilario: Thursday
 - Chelsea drawn against Cardiff City in League Cup quarterfinals
 - Wolves 3-4 Chelsea, League Cup: Post-match reaction
 - Wolves vs. Chelsea, League Cup: Live blog, highlights
@@ -59,9 +64,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - Wolves vs. Chelsea, League Cup: Preview, team news, how to watch
 - The Daily Hilario: Wednesday
 - How should Chelsea rotate and line up against Wolves in the League Cup?
-- The Daily Hilario: Tuesday
-- Cole Palmer nominated for 2025 FIFPro Men’s World XI
-- The Daily Hilario: Monday
 
 <!-- news_marker ends -->
 
@@ -69,14 +71,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump says China’s Xi agrees to one-year trade deal
-- The race to launch a pill for weight loss
-- Big Tech tests investors’ patience with $80bn AI investment spree
-- Our devices work for Big Tech, not us
-- Trump says South Korea can build nuclear-powered submarines in US
-- Trump administration quietly pays overdue WTO fees
-- Liberal D66 party set to win Dutch parliamentary elections, exit poll suggests
-- Fed trims US rates by quarter point but casts doubt on December cut
+- Full abolition of two-child benefit cap not expected in Budget
+- Starmer puts Labour MPs on notice for Budget tax rises
+- ‘Rely on America at your peril’: the vagaries of Trump’s foreign policy
+- Are Britain and the US losing their allure to top international talent?
+- China emerges as US ‘peer rival’ at Xi-Trump summit
+- City grandee Sherwood says Revolut systems are now ‘Goldman quality’
+- FTSE 100 boss moves residency to run events group from UAE
+- Trump-Putin Budapest summit axed after Moscow memo
 
 <!-- ftnews_marker ends -->
 
@@ -84,40 +86,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > onychophagy - noun: The practice of biting one's nails.
+ > mycophile - noun: A mushroom enthusiast.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Nothing endures but change. - Heraclitus
+> The ScrumMaster's role is to support team rather than individual behaviour. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Look at a very small object; look at its center
+> Simple subtraction
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Machinist (Rated: 5)
-- Released in 2004
-- Summary: An industrial worker who hasn't slept in a year begins to doubt his own sanity.
+- This Means War (Rated: 7)
+- Released in 2012
+- Summary: CIA agents and best friends Franklin and Tuck discover that they are in love with the same woman. Each of them then decides to win her over by using their own skills.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 256, using [2, 5, 10, 50, 75, 100]
-- Answer: 2 solutions.
+- Target: 745, using [5, 6, 25, 50, 75, 100]
+- Answer: 34 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 75 - 2 ) x 10 + 50 ) / 5 + 100
+  Solution: ( 100 + 75 - 50 - 5 ) x 6 + 25
 
    </details>
 
