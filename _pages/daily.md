@@ -7,63 +7,73 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 31 October 2025
+## On Saturday, 01 November 2025
 
-- The average temperature today is 12.76˚C,
-- With highs of 13.07˚C and lows of 12.6˚C,
-- It may feel like 12.39˚C with broken clouds
+- The average temperature today is 11.47˚C,
+- With highs of 12.21˚C and lows of 10.71˚C,
+- It may feel like 10.66˚C with broken clouds
 - The wind speed is 4.47m/s and visibility is 10000m
-- The pressure is 999hPa and humidity is 88%
-- The sun will rise at 07:01 and set at 16:42
+- The pressure is 996hPa and humidity is 76%
+- The sun will rise at 07:02 and set at 16:40
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 605 days since the last change (2024-03-05)
+- It has been 606 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Water the plants
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> What got us here, will not get us there.
+> Seek the best.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Manchester City U21 v Leicester City U21
-- Luton Town v Forest Green Rovers
-- Wrexham v Coventry City
+- Crystal Palace U18 v Leicester City U18
+- Manchester City U18 v Burnley U18
+- Chelmsford City v Braintree Town
+- Chelsea Women v London City Lionesses
+- Manchester City Women v West Ham United Women
+- Leicester City v Blackburn Rovers
+- Norwich City v Hull City
+- West Brom v Sheffield Wednesday
+- Tottenham Hotspur U21 v Southampton U21
+- Brackley Town v Notts County
+- Tottenham Hotspur v Chelsea
+- Liverpool v Aston Villa
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 125.54000091552734 
+- VWRL.L : 125.13999938964844 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Tottenham Hotspur vs. Chelsea, Premier League: Preview, team news, how to watch
+- How should Chelsea line up against Spurs at New Three Point Lane?
+- Chelsea FCW vs. London City Lionesses, Women’s Super League: Preview, team news, how to watch
+- Wolves 3-4 Chelsea, Player Ratings: How about that wondergoal?
+- The Daily Hilario: Friday
 - Enzo Maresca ‘very upset’ with second half against Wolves, Liam Delap red card
 - Eden Hazard inducted into Premier League Hall of Fame
 - The Daily Hilario: Thursday
 - Chelsea drawn against Cardiff City in League Cup quarterfinals
 - Wolves 3-4 Chelsea, League Cup: Post-match reaction
-- Wolves vs. Chelsea, League Cup: Live blog, highlights
-- Chelsea fans’ preferred lineup against Wolves: Full rotation ahead
-- Wolves vs. Chelsea, League Cup: Preview, team news, how to watch
-- The Daily Hilario: Wednesday
-- How should Chelsea rotate and line up against Wolves in the League Cup?
 
 <!-- news_marker ends -->
 
@@ -71,14 +81,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Full abolition of two-child benefit cap not expected in Budget
-- Starmer puts Labour MPs on notice for Budget tax rises
-- ‘Rely on America at your peril’: the vagaries of Trump’s foreign policy
-- Are Britain and the US losing their allure to top international talent?
-- China emerges as US ‘peer rival’ at Xi-Trump summit
-- City grandee Sherwood says Revolut systems are now ‘Goldman quality’
-- FTSE 100 boss moves residency to run events group from UAE
-- Trump-Putin Budapest summit axed after Moscow memo
+- Rachel Reeves plans Budget tax raid on expensive homes
+- Carelessness costs political lives
+- Big Tech’s market dominance is becoming ever more extreme
+- Animal spirits have returned to M&A
+- Trump stirs global alarm with pledge to restart nuclear testing
+- French parliament strikes down wealth tax demanded by Socialists
+- First Brands formally accused of ‘massive fraud’ by lenders
+- Drone start-up backed by Peter Thiel crashed and burned in armed forces trials
 
 <!-- ftnews_marker ends -->
 
@@ -93,33 +103,33 @@ seo: Good Morning Mat, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The ScrumMaster's role is to support team rather than individual behaviour. - Zuzana Sochova
+> Agile is a philosophy, not a methodology - Paul Bennett
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Simple subtraction
+> What are you really thinking about just now? Incorporate
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- This Means War (Rated: 7)
-- Released in 2012
-- Summary: CIA agents and best friends Franklin and Tuck discover that they are in love with the same woman. Each of them then decides to win her over by using their own skills.
+- Carry On Cabby (Rated: 1)
+- Released in 1963
+- Summary: A taxi company is threatened when an all-female firm sets itself up in business and starts to steal their customers.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 745, using [5, 6, 25, 50, 75, 100]
-- Answer: 34 solutions.
+- Target: 374, using [2, 4, 4, 7, 25, 75]
+- Answer: 19 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 75 - 50 - 5 ) x 6 + 25
+  Solution: ( ( 25 + 2 - 7 ) x 75 - 4 ) / 4
 
    </details>
 
