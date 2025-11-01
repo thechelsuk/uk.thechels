@@ -4,13 +4,6 @@ _includes/*
 _layouts/*
 index.html
 
-## Academic sites with SSL issues or that block bots
-
-<http://www.iacmr.org/>*
-<https://www.iacmr.org/>*
-*.edu/*
-*.ac.uk/*
-
 ## Social media that often blocks bots
 
 <https://twitter.com/>*

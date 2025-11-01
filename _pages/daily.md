@@ -7,64 +7,63 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 27 October 2025
+## On Friday, 31 October 2025
 
-- The average temperature today is 10.34˚C,
-- With highs of 10.85˚C and lows of 9.82˚C,
-- It may feel like 9.41˚C with overcast clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1004hPa and humidity is 76%
-- The sun will rise at 06:53 and set at 16:50
+- The average temperature today is 12.76˚C,
+- With highs of 13.07˚C and lows of 12.6˚C,
+- It may feel like 12.39˚C with broken clouds
+- The wind speed is 4.47m/s and visibility is 10000m
+- The pressure is 999hPa and humidity is 88%
+- The sun will rise at 07:01 and set at 16:42
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 601 days since the last change (2024-03-05)
+- It has been 605 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Do better with less.
+> What got us here, will not get us there.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Crystal Palace U21 v Newcastle United U21
-- England Women U23 v Portugal Women U23
-- Port Vale v Stockport County
+- Manchester City U21 v Leicester City U21
+- Luton Town v Forest Green Rovers
+- Wrexham v Coventry City
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 123.43000030517578 
+- VWRL.L : 125.54000091552734 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
-- Chelsea 1-2 Sunderland, Player Ratings: Probably should’ve kept him on
-- Enzo Maresca admits Chelsea simply ‘not good enough’ against Sunderland
-- The Daily Hilario: Sunday
-- Chelsea 1-2 Sunderland, Premier League: Post-match reaction
-- Chelsea vs. Sunderland, Premier League: Live blog; highlights
-- Chelsea fans’ preferred lineup against Sunderland: João Pedro and Marc Guiu together
-- The Daily Hilario: Saturday
-- Chelsea vs. Sunderland, Premier League: Preview, team news, how to watch
-- How should Chelsea line up against Sunderland to keep momentum building?
-- Chelsea 5-1 Ajax, Player Ratings: First Man of the Match for Estêvão
+- Enzo Maresca ‘very upset’ with second half against Wolves, Liam Delap red card
+- Eden Hazard inducted into Premier League Hall of Fame
+- The Daily Hilario: Thursday
+- Chelsea drawn against Cardiff City in League Cup quarterfinals
+- Wolves 3-4 Chelsea, League Cup: Post-match reaction
+- Wolves vs. Chelsea, League Cup: Live blog, highlights
+- Chelsea fans’ preferred lineup against Wolves: Full rotation ahead
+- Wolves vs. Chelsea, League Cup: Preview, team news, how to watch
+- The Daily Hilario: Wednesday
+- How should Chelsea rotate and line up against Wolves in the League Cup?
 
 <!-- news_marker ends -->
 
@@ -72,14 +71,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Argentina’s Milei secures big victory in midterm elections
-- Can Pakistan’s military strongman fix a failing nation?
-- The need to tighten UK fiscal policy is also an opportunity
-- CEOs don’t call the shots
-- Home Office wasted billions on asylum hotels due to ‘flawed contracts’, MPs say
-- Labour ministers round on Reform UK over MP’s ‘racist’ remarks
-- UK chancellor to hold Gulf trade talks in push for pro-growth policies
-- Global stocks rally on US-China trade optimism
+- Full abolition of two-child benefit cap not expected in Budget
+- Starmer puts Labour MPs on notice for Budget tax rises
+- ‘Rely on America at your peril’: the vagaries of Trump’s foreign policy
+- Are Britain and the US losing their allure to top international talent?
+- China emerges as US ‘peer rival’ at Xi-Trump summit
+- City grandee Sherwood says Revolut systems are now ‘Goldman quality’
+- FTSE 100 boss moves residency to run events group from UAE
+- Trump-Putin Budapest summit axed after Moscow memo
 
 <!-- ftnews_marker ends -->
 
@@ -87,40 +86,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > nomophobia - noun: 1. The fear or dislike of laws or rules. 2. The fear of not having access to or being unable to use one's mobile phone.
+ > mycophile - noun: A mushroom enthusiast.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The more they over think the plumbing, the easier it is to stop up the drain. - James Doohan, as Scotty in Star Trek III
+> The ScrumMaster's role is to support team rather than individual behaviour. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Think of the radio
+> Simple subtraction
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Clive Barkers Book Of Blood (Rated: 6)
-- Released in 2009
-- Summary: No summary available
+- This Means War (Rated: 7)
+- Released in 2012
+- Summary: CIA agents and best friends Franklin and Tuck discover that they are in love with the same woman. Each of them then decides to win her over by using their own skills.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 191, using [1, 5, 6, 25, 50, 100]
-- Answer: 12 solutions.
+- Target: 745, using [5, 6, 25, 50, 75, 100]
+- Answer: 34 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 + 25 ) x 6 / 5 + 100 + 1
+  Solution: ( 100 + 75 - 50 - 5 ) x 6 + 25
 
    </details>
 
