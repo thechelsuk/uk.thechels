@@ -7,52 +7,77 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 03 November 2025
+## On Tuesday, 04 November 2025
 
-- The average temperature today is 12.87˚C,
-- With highs of 13.3˚C and lows of 11.83˚C,
-- It may feel like 12.43˚C with overcast clouds
-- The wind speed is 4.47m/s and visibility is 10000m
+- The average temperature today is 13.78˚C,
+- With highs of 14.43˚C and lows of 13.16˚C,
+- It may feel like 13.43˚C with overcast clouds
+- The wind speed is 3.13m/s and visibility is 10000m
 - The pressure is 1008hPa and humidity is 85%
-- The sun will rise at 07:06 and set at 16:37
+- The sun will rise at 07:08 and set at 16:35
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 608 days since the last change (2024-03-05)
+- It has been 609 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Seek the best.
+> Provide purpose, mastery and autonomy.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Tamworth v Leyton Orient
-- Sunderland v Everton
+- Liverpool U19 v Real Madrid U19
+- England U17 v Venezuela U17
+- Slavia Prague v Arsenal
+- Notts County v Manchester United U21
+- Grimsby Town v Everton U21
+- Birmingham City v Millwall
+- Bristol City v Blackburn Rovers
+- Charlton Athletic v West Brom
+- Derby County v Hull City
+- Ipswich Town v Watford
+- Leicester City v Middlesbrough
+- Oxford United v Stoke City
+- Huddersfield Town v Mansfield Town
+- Rotherham United v Burton Albion
+- Boreham Wood v Aldershot Town
+- Carlisle United v FC Halifax Town
+- Forest Green Rovers v Tamworth
+- Hartlepool United v Morecambe
+- Rochdale v Scunthorpe United
+- Yeovil Town v Wealdstone
+- Oxford City v Hereford
+- Coventry City v Sheffield United
+- Liverpool v Real Madrid
+- Tottenham Hotspur v FC Copenhagen
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 125.13999938964844 
+- VWRL.L : 125.20999908447266 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- The Daily Hilario: Monday
 - Spurs 0-1 Chelsea, Player Ratings: Moisés Caicedo the ‘top best’
 - The Daily Hilario: Sunday
 - Enzo Maresca happy with Spurs win, delighted with clean sheet
@@ -62,7 +87,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - Chelsea FCW vs. London City Lionesses, Women’s Super League: Confirmed lineups; how to watch
 - Chelsea fans’ preferred lineup against Spurs: Another chance for Marc Guiu
 - The Daily Hilario: Saturday
-- Tottenham Hotspur vs. Chelsea, Premier League: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -70,14 +94,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- City bosses warn on pay as UK minimum wage closes in on graduate salaries
-- What next for Andrea Orcel’s UniCredit?
-- The UK bank bashing must stop
-- Books, malls and cars: where the physical world still rules
-- Young Britons’ attitudes hardening on crime and welfare
-- Train stabbing fuels UK public’s feeling of insecurity
-- One remaining suspect held in train stabbing case as police say no suggestion of terrorism
-- BoE expects closely fought meeting over rate cut
+- Starmer fuels expectations of income tax rise in the Budget
+- What are Rachel Reeves’ tax options in the Budget?
+- The meaning of Zohran Mamdani
+- Britain’s quantum software start-ups might be giants
+- Why the job ladder matters for migrants
+- China offers tech giants cheap power to boost domestic AI chips
+- Asian markets’ reliance on AI boom raises ‘bubble’ fears
+- Out of Nick Clegg’s shadow: Miriam González seeks to shake up Spain
 
 <!-- ftnews_marker ends -->
 
@@ -85,42 +109,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > elsewhither - adverb: In a different direction.
+ > posthaste - adverb: With great speed.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> If your job is constantly putting out fires, it helps not to walk around with a flamethrower. - Emma Hayes
+> A leader is a dealer in hope - Napoleon Bonaparte
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Children's voices
--speaking
--singing
+> Get your neck massaged
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Con Air (Rated: 6)
-- Released in 1997
-- Summary: Former US Army Ranger, Cameron Poe, has just been paroled for manslaughter, but must stop a group of violent and deadly criminals from escaping the country after they seize control of the prison transport plane he is on.
+- The Lincoln Lawyer (Rated: 8)
+- Released in 2011
+- Summary: Defence lawyer Mick Haller lands a case defending a wealthy realtor's son who is accused of raping a prostitute. Believing his client to be innocent, Haller soon finds evidence that proves otherwise.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 475, using [2, 2, 7, 9, 50, 100]
-- Answer: 22 solutions.
+- Target: 290, using [1, 2, 7, 8, 9, 25]
+- Answer: 33 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 - 50 - 7 ) x ( 9 + 2 ) + 2
+  Solution: ( 9 + 2 ) x 25 + 8 + 7
 
    </details>
 
