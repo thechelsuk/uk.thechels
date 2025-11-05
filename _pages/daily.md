@@ -7,76 +7,70 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 04 November 2025
+## On Wednesday, 05 November 2025
 
-- The average temperature today is 13.78˚C,
-- With highs of 14.43˚C and lows of 13.16˚C,
-- It may feel like 13.43˚C with overcast clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 85%
-- The sun will rise at 07:08 and set at 16:35
+- The average temperature today is 14.87˚C,
+- With highs of 14.98˚C and lows of 14.36˚C,
+- It may feel like 14.66˚C with light rain
+- The wind speed is 5.81m/s and visibility is 10000m
+- The pressure is 1005hPa and humidity is 86%
+- The sun will rise at 07:10 and set at 16:33
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 609 days since the last change (2024-03-05)
+- It has been 610 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Provide purpose, mastery and autonomy.
+> Be open to change.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Liverpool U19 v Real Madrid U19
-- England U17 v Venezuela U17
-- Slavia Prague v Arsenal
-- Notts County v Manchester United U21
-- Grimsby Town v Everton U21
-- Birmingham City v Millwall
-- Bristol City v Blackburn Rovers
-- Charlton Athletic v West Brom
-- Derby County v Hull City
-- Ipswich Town v Watford
-- Leicester City v Middlesbrough
-- Oxford United v Stoke City
-- Huddersfield Town v Mansfield Town
-- Rotherham United v Burton Albion
-- Boreham Wood v Aldershot Town
-- Carlisle United v FC Halifax Town
-- Forest Green Rovers v Tamworth
-- Hartlepool United v Morecambe
-- Rochdale v Scunthorpe United
-- Yeovil Town v Wealdstone
-- Oxford City v Hereford
-- Coventry City v Sheffield United
-- Liverpool v Real Madrid
-- Tottenham Hotspur v FC Copenhagen
+- Manchester City U19 v Borussia Dortmund U19
+- Newcastle United U19 v Athletic Bilbao U19
+- FK Qarabag v Chelsea
+- Cambridge United v Brighton & Hove Albion U21
+- Preston North End v Swansea City
+- QPR v Southampton
+- Sheffield Wednesday v Norwich City
+- Altrincham v Boston United
+- Braintree Town v Brackley Town
+- Solihull Moors v Truro City
+- Sutton United v Eastleigh
+- Woking v Southend United
+- York City v Gateshead
+- Farnborough v Torquay United
+- Portsmouth v Wrexham
+- Manchester City v Borussia Dortmund
+- Newcastle United v Athletic Bilbao
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 125.20999908447266 
+- VWRL.L : 125.31999969482422 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- How should Chelsea line up against Qarabag, away?
+- The Daily Hilario: Tuesday
+- Cole Palmer named in 2024-25 FIFPRO World XI
 - The Daily Hilario: Monday
 - Spurs 0-1 Chelsea, Player Ratings: Moisés Caicedo the ‘top best’
 - The Daily Hilario: Sunday
@@ -84,9 +78,6 @@ seo: Good Morning Mat, Here is your daily briefing
 - Spurs 0-1 Chelsea, Premier League: Post-match reaction
 - Spurs vs. Chelsea, Premier League: Confirmed lineups; how to watch
 - Chelsea FCW 2-0 London City Lionesses, Women’s Super League: Post-match reaction
-- Chelsea FCW vs. London City Lionesses, Women’s Super League: Confirmed lineups; how to watch
-- Chelsea fans’ preferred lineup against Spurs: Another chance for Marc Guiu
-- The Daily Hilario: Saturday
 
 <!-- news_marker ends -->
 
@@ -94,14 +85,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Starmer fuels expectations of income tax rise in the Budget
-- What are Rachel Reeves’ tax options in the Budget?
-- The meaning of Zohran Mamdani
-- Britain’s quantum software start-ups might be giants
-- Why the job ladder matters for migrants
-- China offers tech giants cheap power to boost domestic AI chips
-- Asian markets’ reliance on AI boom raises ‘bubble’ fears
-- Out of Nick Clegg’s shadow: Miriam González seeks to shake up Spain
+- Mamdani wins New York as Democratic US electoral sweep deals blow to Trump
+- Wall Street offers cautious support to NY mayor-elect Zohran Mamdani
+- US regional elections — as it happened: Virginia and New Jersey governor wins give Democrats confidence boost
+- Global stocks fall as US sell-off over AI valuations spreads
+- Bond markets are winning the Budget stand-off
+- Russia adds jet engines to Soviet-era ‘dumb bombs’
+- Elite bank Coutts increases fees for its least wealthy customers
+- All schoolchildren in England to be taught financial literacy
 
 <!-- ftnews_marker ends -->
 
@@ -109,40 +100,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > posthaste - adverb: With great speed.
+ > abreast - adverb: 1. Side by side and facing the same direction. 2. Informed; up-to-date.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> A leader is a dealer in hope - Napoleon Bonaparte
+> As a rule of thumb, for every user who tells you about a problem, there will be between 10 and 100 other users who experienced the same problem and did not think to get in touch. - Paul Butcher, Software Engineering Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Get your neck massaged
+> Cut a vital connection
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Lincoln Lawyer (Rated: 8)
-- Released in 2011
-- Summary: Defence lawyer Mick Haller lands a case defending a wealthy realtor's son who is accused of raping a prostitute. Believing his client to be innocent, Haller soon finds evidence that proves otherwise.
+- War (Rated: 6)
+- Released in 2007
+- Summary: An FBI Agent seeks vengeance on a mysterious assassin known as "Rogue" who murdered his partner.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 290, using [1, 2, 7, 8, 9, 25]
-- Answer: 33 solutions.
+- Target: 859, using [2, 2, 7, 8, 10, 50]
+- Answer: 4 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 9 + 2 ) x 25 + 8 + 7
+  Solution: ( 10 + 7 ) x 50 + 2 / 2 + 8
 
    </details>
 
