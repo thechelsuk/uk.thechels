@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Mat | Engineering Leader
+title: Engineering Leader
 permalink: /cv
-seo: CV of Mat-0 optimised for printing and savings as a PDF
+seo: CV optimised for printing and savings as a PDF
 ---
 
 ### Personal Profile

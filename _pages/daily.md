@@ -2,7 +2,7 @@
 layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
-seo: Good Morning Mat, Here is your daily briefing
+seo: Good Morning, Here is your daily briefing
 
 ---
 
