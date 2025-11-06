@@ -7,21 +7,21 @@ seo: Good Morning Mat, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 05 November 2025
+## On Thursday, 06 November 2025
 
-- The average temperature today is 14.87˚C,
-- With highs of 14.98˚C and lows of 14.36˚C,
-- It may feel like 14.66˚C with light rain
-- The wind speed is 5.81m/s and visibility is 10000m
-- The pressure is 1005hPa and humidity is 86%
-- The sun will rise at 07:10 and set at 16:33
+- The average temperature today is 13.1˚C,
+- With highs of 13.88˚C and lows of 12.75˚C,
+- It may feel like 12.71˚C with overcast clouds
+- The wind speed is 3.58m/s and visibility is 10000m
+- The pressure is 1004hPa and humidity is 86%
+- The sun will rise at 07:11 and set at 16:31
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 610 days since the last change (2024-03-05)
+- It has been 611 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,52 +32,39 @@ seo: Good Morning Mat, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be open to change.
+> challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Manchester City U19 v Borussia Dortmund U19
-- Newcastle United U19 v Athletic Bilbao U19
-- FK Qarabag v Chelsea
-- Cambridge United v Brighton & Hove Albion U21
-- Preston North End v Swansea City
-- QPR v Southampton
-- Sheffield Wednesday v Norwich City
-- Altrincham v Boston United
-- Braintree Town v Brackley Town
-- Solihull Moors v Truro City
-- Sutton United v Eastleigh
-- Woking v Southend United
-- York City v Gateshead
-- Farnborough v Torquay United
-- Portsmouth v Wrexham
-- Manchester City v Borussia Dortmund
-- Newcastle United v Athletic Bilbao
+- Sturm Graz v Nottingham Forest
+- Reading v Stevenage
+- Crystal Palace v AZ Alkmaar
+- Aston Villa v Maccabi Tel-Aviv
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 125.31999969482422 
+- VWRL.L : 125.37000274658203 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Qarabag 2-2 Chelsea, Champions League: Post-match reaction, ratings
+- Qarabag vs. Chelsea, Champions League: Game thread
+- Chelsea fans’ preferred lineup against Qarabag: Rotation situation
+- The Daily Hilario: Wednesday
+- Qarabag vs. Chelsea, Champions League: Preview, team news, how to watch
 - How should Chelsea line up against Qarabag, away?
 - The Daily Hilario: Tuesday
 - Cole Palmer named in 2024-25 FIFPRO World XI
 - The Daily Hilario: Monday
 - Spurs 0-1 Chelsea, Player Ratings: Moisés Caicedo the ‘top best’
-- The Daily Hilario: Sunday
-- Enzo Maresca happy with Spurs win, delighted with clean sheet
-- Spurs 0-1 Chelsea, Premier League: Post-match reaction
-- Spurs vs. Chelsea, Premier League: Confirmed lineups; how to watch
-- Chelsea FCW 2-0 London City Lionesses, Women’s Super League: Post-match reaction
 
 <!-- news_marker ends -->
 
@@ -85,14 +72,14 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Mamdani wins New York as Democratic US electoral sweep deals blow to Trump
-- Wall Street offers cautious support to NY mayor-elect Zohran Mamdani
-- US regional elections — as it happened: Virginia and New Jersey governor wins give Democrats confidence boost
-- Global stocks fall as US sell-off over AI valuations spreads
-- Bond markets are winning the Budget stand-off
-- Russia adds jet engines to Soviet-era ‘dumb bombs’
-- Elite bank Coutts increases fees for its least wealthy customers
-- All schoolchildren in England to be taught financial literacy
+- Reeves set to spare UK banks from Budget tax raid
+- Reeves poised to unveil Budget plan for EV drivers to pay per mile charges
+- End of The Line: how Saudi Arabia’s Neom dream unravelled
+- Are bubbles good, actually?
+- KPMG axes ‘busy season’ overtime pay for junior auditors
+- Milei defies calls to float Argentine peso freely
+- Nvidia’s Jensen Huang says China ‘will win’ AI race with US
+- Leverage creeps into gilts market as insurers seek to boost returns
 
 <!-- ftnews_marker ends -->
 
@@ -100,40 +87,40 @@ seo: Good Morning Mat, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > abreast - adverb: 1. Side by side and facing the same direction. 2. Informed; up-to-date.
+ > ad nauseam - adverb: To an excessive degree.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> As a rule of thumb, for every user who tells you about a problem, there will be between 10 and 100 other users who experienced the same problem and did not think to get in touch. - Paul Butcher, Software Engineering Author
+> Breakdown large user stories using SPIDR (spike, paths, interfaces, data, rules). - Mike Cohn
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Cut a vital connection
+> Spectrum analysis
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- War (Rated: 6)
-- Released in 2007
-- Summary: An FBI Agent seeks vengeance on a mysterious assassin known as "Rogue" who murdered his partner.
+- We Are Still Here (Rated: 2)
+- Released in 2015
+- Summary: In the cold, wintery fields of New England, a lonely old house wakes up every thirty years - and demands a sacrifice.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 859, using [2, 2, 7, 8, 10, 50]
-- Answer: 4 solutions.
+- Target: 319, using [3, 7, 10, 25, 50, 100]
+- Answer: 12 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 10 + 7 ) x 50 + 2 / 2 + 8
+  Solution: ( 100 x 25 / 50 - 3 ) x 7 - 10
 
    </details>
 
