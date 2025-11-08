@@ -69,8 +69,6 @@ navigation_slashes:
     title: "Colophon"
   - link: "/constraints"
     title: "Constraints"
-  - link: "/work/public.vcf"
-    title: "Contact Card"
   - link: "/cv"
     title: "CV"
   - link: "/feed"
