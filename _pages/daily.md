@@ -7,65 +7,78 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 07 November 2025
+## On Saturday, 08 November 2025
 
-- The average temperature today is 11.97˚C,
-- With highs of 12.77˚C and lows of 11.58˚C,
-- It may feel like 11.55˚C with broken clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1003hPa and humidity is 89%
-- The sun will rise at 07:13 and set at 16:30
+- The average temperature today is 10.34˚C,
+- With highs of 11.08˚C and lows of 9.36˚C,
+- It may feel like 9.88˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1009hPa and humidity is 94%
+- The sun will rise at 07:15 and set at 16:28
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
-- The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 612 days since the last change (2024-03-05)
+- Unable to fetch threat level data.
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Farmers Market in town
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be a learning individual.
+> Think aptitude and attitude.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- England U17 v Haiti U17
-- Southampton U21 v Arsenal U21
-- West Ham United U21 v Liverpool U21
-- Watford v Bristol City
+- Chelsea U18 v Norwich City U18
+- Middlesbrough U18 v Manchester City U18
+- Tottenham Hotspur U18 v Ipswich Town U18
+- West Ham United U18 v Crystal Palace U18
+- Fulham U21 v Tottenham Hotspur U21
+- Arsenal Women v Chelsea Women
+- Manchester United Women v Aston Villa Women
+- Blackburn Rovers v Derby County
+- Hull City v Portsmouth
+- Millwall v Preston North End
+- Northampton Town v Mansfield Town
+- Wycombe Wanderers v Leyton Orient
+- Colchester United v Bromley
+- Crewe Alexandra v Shrewsbury Town
+- Aldershot Town v Forest Green Rovers
+- Tottenham Hotspur v Manchester United
+- Southend United v Carlisle United
+- Sunderland v Arsenal
+- Chelsea v Wolves
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 123.7300033569336 
+- VWRL.L : 122.01000213623047 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- How should Chelsea line up against Wolves, again?
+- Cole Palmer, Enzo Maresca nominated for FIFA’s The Best awards
+- Qarabag 2-2 Chelsea, Champions League: Retro ratings
+- The Daily Hilario: Friday
 - It ‘doesn’t look good’ for Roméo Lavia after latest injury
 - The Daily Hilario: Thursday
 - Qarabag 2-2 Chelsea, Champions League: Post-match reaction, ratings
 - Qarabag vs. Chelsea, Champions League: Game thread
 - Chelsea fans’ preferred lineup against Qarabag: Rotation situation
 - The Daily Hilario: Wednesday
-- Qarabag vs. Chelsea, Champions League: Preview, team news, how to watch
-- How should Chelsea line up against Qarabag, away?
-- The Daily Hilario: Tuesday
-- Cole Palmer named in 2024-25 FIFPRO World XI
 
 <!-- news_marker ends -->
 
@@ -73,14 +86,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Elon Musk celebrates $1tn Tesla pay vote victory
-- UK military top brass mix with defence executives at luxury Alpine event
-- Beware the three Ls: leverage, liquidity and lunacy
-- The cable news-ification of everything
-- EU demands UK pay into budget as part of relationship ‘reset’
-- Gunvor drops $22bn bid for Lukoil assets after US moves to block deal
-- Reeves considers less dramatic cut to cash Isa allowance
-- Comcast holds talks about buying ITV’s television business
+- Reeves plans £2bn Budget raid on UK retirement savings
+- Income tax rise in manifesto’s ‘spirit’, say Labour figures
+- The politics of breaking manifesto promises
+- Tech stocks suffer worst week since April after $800bn AI sell-off
+- Has Trump passed his peak?
+- It’s time to stop passing the parcel on welfare
+- The UK’s rich tap their social circles to borrow millions quickly
+- Sequoia’s ‘imperial’ Roelof Botha pushed out by top lieutenants
 
 <!-- ftnews_marker ends -->
 
@@ -95,33 +108,33 @@ seo: Good Morning, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Great ScrumMasters must be practiced in soft skills and be good listeners. - Zuzana Sochova
+> Agile leaders lead teams, non-agile ones manage tasks. - Jim Highsmith, Agile Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Listen in total darkness, or in a very large room, very quietly
+> Don't break the silence
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Northmen: A Viking Saga (Rated: 3)
-- Released in 2014
-- Summary: A band of Vikings cross enemy lines and a panicked race begins. The losers will pay with their lives.
+- Matilda (Rated: 2)
+- Released in 1996
+- Summary: A girl gifted with a keen intellect and psychic powers uses both to get even with her callous family and free her kindly schoolteacher from the tyrannical grip of a sadistic headmistress.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 985, using [1, 2, 5, 6, 75, 100]
-- Answer: 5 solutions.
+- Target: 181, using [4, 6, 8, 9, 50, 75]
+- Answer: 25 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 6 - 1 ) x 100 x 2 - 75 / 5
+  Solution: 9 x 6 + 8 / 4 + 75 + 50
 
    </details>
 
