@@ -7,20 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 08 November 2025
+## On Sunday, 09 November 2025
 
-- The average temperature today is 10.34˚C,
-- With highs of 11.08˚C and lows of 9.36˚C,
-- It may feel like 9.88˚C with overcast clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1009hPa and humidity is 94%
-- The sun will rise at 07:15 and set at 16:28
+- The average temperature today is 9.91˚C,
+- With highs of 10.54˚C and lows of 9.26˚C,
+- It may feel like 9.91˚C with few clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 89%
+- The sun will rise at 07:17 and set at 16:27
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
-- Unable to fetch threat level data.
+- The current threat level is <span class="highlighter">SUBSTANTIAL</span>
+- It has been 614 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -31,31 +32,26 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Think aptitude and attitude.
+> Crossing the river by feeling the stones.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Chelsea U18 v Norwich City U18
-- Middlesbrough U18 v Manchester City U18
-- Tottenham Hotspur U18 v Ipswich Town U18
-- West Ham United U18 v Crystal Palace U18
-- Fulham U21 v Tottenham Hotspur U21
-- Arsenal Women v Chelsea Women
-- Manchester United Women v Aston Villa Women
-- Blackburn Rovers v Derby County
-- Hull City v Portsmouth
-- Millwall v Preston North End
-- Northampton Town v Mansfield Town
-- Wycombe Wanderers v Leyton Orient
-- Colchester United v Bromley
-- Crewe Alexandra v Shrewsbury Town
-- Aldershot Town v Forest Green Rovers
-- Tottenham Hotspur v Manchester United
-- Southend United v Carlisle United
-- Sunderland v Arsenal
-- Chelsea v Wolves
+- Liverpool Women v Brighton & Hove Albion Women
+- London City Lionesses v Tottenham Hotspur Women
+- West Ham United Women v Leicester City Women
+- Durham Women v Newcastle United Women
+- Aston Villa v AFC Bournemouth
+- Brentford v Newcastle United
+- Crystal Palace v Brighton & Hove Albion
+- Nottingham Forest v Leeds United
+- Bristol City Women v Ipswich Town Women
+- Charlton Athletic Women v Southampton Women
+- Crystal Palace Women v Sheffield United Women
+- Sunderland AFC Women v Portsmouth Women
+- Everton Women v Manchester City Women
+- Manchester City v Liverpool
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -69,16 +65,16 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea 3-0 Wolves, Premier League: Post-match reaction, ratings
+- Chelsea vs. Wolves, Premier League: Lineups &#038; Game Thread
+- Chelsea fans’ preferred lineup against Wolves: Delap to start
+- Arsenal WFC 1-1 Chelsea FCW, Women’s Super League: Post-match reaction
+- Arsenal WFC vs. Chelsea FCW, Women’s Super League: Confirmed lineups; how to watch
+- Arsenal WFC vs. Chelsea FCW, Women’s Super League: Preview, team news, how to watch
+- The Daily Hilario: Saturday
+- Chelsea vs. Wolves, Premier League: Preview, team news, how to watch
 - How should Chelsea line up against Wolves, again?
 - Cole Palmer, Enzo Maresca nominated for FIFA’s The Best awards
-- Qarabag 2-2 Chelsea, Champions League: Retro ratings
-- The Daily Hilario: Friday
-- It ‘doesn’t look good’ for Roméo Lavia after latest injury
-- The Daily Hilario: Thursday
-- Qarabag 2-2 Chelsea, Champions League: Post-match reaction, ratings
-- Qarabag vs. Chelsea, Champions League: Game thread
-- Chelsea fans’ preferred lineup against Qarabag: Rotation situation
-- The Daily Hilario: Wednesday
 
 <!-- news_marker ends -->
 
@@ -86,14 +82,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Reeves plans £2bn Budget raid on UK retirement savings
-- Income tax rise in manifesto’s ‘spirit’, say Labour figures
-- The politics of breaking manifesto promises
-- Tech stocks suffer worst week since April after $800bn AI sell-off
-- Has Trump passed his peak?
-- It’s time to stop passing the parcel on welfare
-- The UK’s rich tap their social circles to borrow millions quickly
-- Sequoia’s ‘imperial’ Roelof Botha pushed out by top lieutenants
+- Private equity steps in as Europe’s last industrial groups splinter
+- What Mamdani and Martha Stewart tell us about the vibe shift
+- The CEO trying to end the curse of the pointless meeting
+- Lloyds quietly builds £2bn rental portfolio to become major UK landlord
+- Lloyds Bank’s landlord experiment starts to earn its keep
+- Whistleblowers could earn millions as HMRC targets tax fraud
+- Gulf between rich and poor risks US downturn, Fed official warns
+- Wealthy Chinese sidestep Singapore for Dubai
 
 <!-- ftnews_marker ends -->
 
@@ -108,33 +104,33 @@ seo: Good Morning, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Agile leaders lead teams, non-agile ones manage tasks. - Jim Highsmith, Agile Author
+> When we go into that new project, we believe in it all the way. We have confidence in our ability to do it right. - Walt Disney
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Don't break the silence
+> Use filters
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Matilda (Rated: 2)
-- Released in 1996
-- Summary: A girl gifted with a keen intellect and psychic powers uses both to get even with her callous family and free her kindly schoolteacher from the tyrannical grip of a sadistic headmistress.
+- Wake Wood (Rated: 8)
+- Released in 2011
+- Summary: The parents of a girl who was killed by a savage dog are granted the opportunity to spend three days with their deceased daughter.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 181, using [4, 6, 8, 9, 50, 75]
-- Answer: 25 solutions.
+- Target: 446, using [2, 4, 6, 6, 8, 50]
+- Answer: 38 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: 9 x 6 + 8 / 4 + 75 + 50
+  Solution: ( 6 / 6 + 8 ) x 50 - 4
 
    </details>
 
