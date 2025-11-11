@@ -7,54 +7,77 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 10 November 2025
+## On Tuesday, 11 November 2025
 
-- The average temperature today is 11.57˚C,
-- With highs of 12.21˚C and lows of 10.94˚C,
-- It may feel like 11.08˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1004hPa and humidity is 88%
-- The sun will rise at 07:19 and set at 16:25
+- The average temperature today is 9.86˚C,
+- With highs of 10.16˚C and lows of 8.8˚C,
+- It may feel like 8.54˚C with overcast clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1002hPa and humidity is 90%
+- The sun will rise at 07:20 and set at 16:23
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 615 days since the last change (2024-03-05)
+- It has been 616 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Know your users.
+> Use a common language.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Egypt U17 v England U17
-- Nottingham Forest Women v Birmingham City Women
-- Cheltenham Town v Notts County
+- Accrington Stanley v Leeds United U21
+- Barnsley v Lincoln City
+- Bristol Rovers v Plymouth Argyle
+- Burton Albion v Crewe Alexandra
+- Chesterfield v Liverpool U21
+- Doncaster Rovers v Bradford City
+- Gillingham v Wycombe Wanderers
+- MK Dons v Swindon Town
+- Newport County v Exeter City
+- Northampton Town v Shrewsbury Town
+- Oldham Athletic v Bolton Wanderers
+- Port Vale v Fleetwood Town
+- Salford City v Wolves U21
+- Stockport County v Wigan Athletic
+- Tranmere Rovers v Blackpool
+- Bromley v AFC Wimbledon
+- Cardiff City v Arsenal U21
+- Colchester United v Fulham U21
+- Crawley Town v Peterborough United
+- Harrogate Town v Newcastle United U21
+- Forest Green Rovers v Tamworth
+- York City v Rochdale
+- St Polten Women v Chelsea Women
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 122.01000213623047 
+- VWRL.L : 124.27999877929688 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- SKN St. Pölten vs. Chelsea FCW, UEFA Women’s Champions League: Preview, team news, how to watch
+- The Daily Hilario: Monday
 - Chelsea 3-0 Wolves, Player Ratings: Garnacho ‘top without the ball’, and with it, too!
 - Enzo Fernández dealing with painful bone edema in knee, withdraws from Argentina duty
 - The Daily Hilario: Sunday
@@ -63,8 +86,6 @@ seo: Good Morning, Here is your daily briefing
 - Chelsea fans’ preferred lineup against Wolves: Delap to start
 - Arsenal WFC 1-1 Chelsea FCW, Women’s Super League: Post-match reaction
 - Arsenal WFC vs. Chelsea FCW, Women’s Super League: Confirmed lineups; how to watch
-- Arsenal WFC vs. Chelsea FCW, Women’s Super League: Preview, team news, how to watch
-- The Daily Hilario: Saturday
 
 <!-- news_marker ends -->
 
@@ -72,14 +93,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- BBC boss Tim Davie resigns over Trump documentary edit
-- US senators take first step to end government shutdown
-- The disturbing victory of Old Labour over New Labour
-- The new crop of rating agencies behind the private credit boom
-- Von der Leyen dodged Starmer request for meeting on EU money demands
-- Robinhood wants to allow amateur traders to invest in AI start-ups
-- Swiss finance shrinks as regulators tighten grip on prized sector
-- Permira nears £2bn plus deal to buy JTC
+- Investor angst over Big Tech’s AI spending spills into bond market
+- How the world’s biggest mining project is a win for China
+- The UK’s fiscal problems aren’t just about growth
+- The British company filling the world’s airport lounges
+- Warren Buffett says he is ‘going quiet’
+- Lloyds used data from 30,000 staff accounts in union pay talks
+- Jack Ma’s wife buys former Italian embassy in London for £19.5mn
+- EU to set up new intelligence unit under von der Leyen
 
 <!-- ftnews_marker ends -->
 
@@ -87,40 +108,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > writhen - adjective: Twisted; coiled; contorted.
+ > shrive - verb tr.: 1. To hear a confession. 2. To impose penance. 3. To free from guilt. verb intr.: 1. To make a confession. 2. To hear a confession.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> A genuine leader is not a searcher for consensus but a molder of consensus. - Martin Luther King Jr.
+> Intelligence is the ability to adapt to change. - Stephen Hawking
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> The tape is now the music
+> Use filters
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- 13 Hrs (Night Wolf) (Rated: 6)
-- Released in 2010
-- Summary: No summary available
+- Dead Like Me: Life After Death (Rated: 4)
+- Released in 2009
+- Summary: George's been dead and working as grim reaper 5 years. She and her 3 colleagues get a new, chaotic boss. George looks different to the living e.g. her mom and sister.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 250, using [5, 9, 10, 25, 50, 75]
-- Answer: 227 solutions.
+- Target: 731, using [3, 4, 4, 8, 9, 100]
+- Answer: 15 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 + 10 - 25 - 5 ) x 75 / 9
+  Solution: ( 100 + 4 - 9 - 4 ) x 8 + 3
 
    </details>
 
