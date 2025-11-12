@@ -7,85 +7,62 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 11 November 2025
+## On Wednesday, 12 November 2025
 
-- The average temperature today is 9.86˚C,
-- With highs of 10.16˚C and lows of 8.8˚C,
-- It may feel like 8.54˚C with overcast clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1002hPa and humidity is 90%
-- The sun will rise at 07:20 and set at 16:23
+- The average temperature today is 13.59˚C,
+- With highs of 14.43˚C and lows of 12.94˚C,
+- It may feel like 13.38˚C with moderate rain
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1000hPa and humidity is 91%
+- The sun will rise at 07:22 and set at 16:22
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 616 days since the last change (2024-03-05)
+- It has been 617 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Use a common language.
+> Think aptitude and attitude.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Accrington Stanley v Leeds United U21
-- Barnsley v Lincoln City
-- Bristol Rovers v Plymouth Argyle
-- Burton Albion v Crewe Alexandra
-- Chesterfield v Liverpool U21
-- Doncaster Rovers v Bradford City
-- Gillingham v Wycombe Wanderers
-- MK Dons v Swindon Town
-- Newport County v Exeter City
-- Northampton Town v Shrewsbury Town
-- Oldham Athletic v Bolton Wanderers
-- Port Vale v Fleetwood Town
-- Salford City v Wolves U21
-- Stockport County v Wigan Athletic
-- Tranmere Rovers v Blackpool
-- Bromley v AFC Wimbledon
-- Cardiff City v Arsenal U21
-- Colchester United v Fulham U21
-- Crawley Town v Peterborough United
-- Harrogate Town v Newcastle United U21
-- Forest Green Rovers v Tamworth
-- York City v Rochdale
-- St Polten Women v Chelsea Women
+- Bayern Munich Women v Arsenal Women
+- Manchester United Women v PSG Women
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 124.27999877929688 
+- VWRL.L : 125.02999877929688 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- SKN St. Pölten 0-6 Chelsea FCW, UEFA Women’s Champions League: Post-match reaction
+- SKN St. Pölten vs. Chelsea FCW, UEFA Women’s Champions League: Confirmed lineups; how to watch
+- Pedro Neto also withdraws from international duty due to ‘physical problems’
+- The Daily Hilario: Tuesday
 - SKN St. Pölten vs. Chelsea FCW, UEFA Women’s Champions League: Preview, team news, how to watch
 - The Daily Hilario: Monday
 - Chelsea 3-0 Wolves, Player Ratings: Garnacho ‘top without the ball’, and with it, too!
 - Enzo Fernández dealing with painful bone edema in knee, withdraws from Argentina duty
 - The Daily Hilario: Sunday
 - Chelsea 3-0 Wolves, Premier League: Post-match reaction, ratings
-- Chelsea vs. Wolves, Premier League: Lineups &#038; Game Thread
-- Chelsea fans’ preferred lineup against Wolves: Delap to start
-- Arsenal WFC 1-1 Chelsea FCW, Women’s Super League: Post-match reaction
-- Arsenal WFC vs. Chelsea FCW, Women’s Super League: Confirmed lineups; how to watch
 
 <!-- news_marker ends -->
 
@@ -93,14 +70,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Investor angst over Big Tech’s AI spending spills into bond market
-- How the world’s biggest mining project is a win for China
-- The UK’s fiscal problems aren’t just about growth
-- The British company filling the world’s airport lounges
-- Warren Buffett says he is ‘going quiet’
-- Lloyds used data from 30,000 staff accounts in union pay talks
-- Jack Ma’s wife buys former Italian embassy in London for £19.5mn
-- EU to set up new intelligence unit under von der Leyen
+- UK’s Powell contacted Moscow in bid to build back channel to Putin
+- Can anything halt the decline of German industry?
+- Please Rachel, don’t sacrifice workers’ pensions
+- Epstein is not going away
+- Starmer vows to fight on as Streeting’s allies deny leadership challenge
+- Oil and gas demand to rise for 25 years without global change of course, says IEA
+- Kraken boss hits out at UK crypto rules
+- Toto Wolff in talks to sell part of Mercedes F1 stake to CrowdStrike chief at $6bn valuation
 
 <!-- ftnews_marker ends -->
 
@@ -108,40 +85,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > shrive - verb tr.: 1. To hear a confession. 2. To impose penance. 3. To free from guilt. verb intr.: 1. To make a confession. 2. To hear a confession.
+ > tidings - noun: News.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Intelligence is the ability to adapt to change. - Stephen Hawking
+> It is better to be roughly right than precisely wrong. - John Maynard Keynes, Economist
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Use filters
+> Twist the spine
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Dead Like Me: Life After Death (Rated: 4)
-- Released in 2009
-- Summary: George's been dead and working as grim reaper 5 years. She and her 3 colleagues get a new, chaotic boss. George looks different to the living e.g. her mom and sister.
+- Date Night (Rated: 6)
+- Released in 2010
+- Summary: In New York City, a case of mistaken identity turns a bored married couple's attempt at a glamorous and romantic evening into something more thrilling and dangerous.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 731, using [3, 4, 4, 8, 9, 100]
-- Answer: 15 solutions.
+- Target: 593, using [6, 7, 25, 50, 75, 100]
+- Answer: 30 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 4 - 9 - 4 ) x 8 + 3
+  Solution: ( 75 + 6 - 50 - 25 ) x 100 - 7
 
    </details>
 
