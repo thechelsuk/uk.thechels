@@ -11,14 +11,4 @@
     </ul>
 </nav>
 
-<h3>External Links</h3>
-<nav id="submenu" class="blog-menu">
-    <ul>
-        {% assign sorted_navigation_external = site.navigation_external | sort:
-        'title' %} {% for item in sorted_navigation_external %}
-        <li>// <a href="{{item.link}}">{{item.title}}</a></li>
-        {% endfor %}
-    </ul>
-</nav>
-
 {% include footer.html %}
