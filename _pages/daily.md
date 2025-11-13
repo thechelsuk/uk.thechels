@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 12 November 2025
+## On Thursday, 13 November 2025
 
-- The average temperature today is 13.59˚C,
-- With highs of 14.43˚C and lows of 12.94˚C,
-- It may feel like 13.38˚C with moderate rain
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1000hPa and humidity is 91%
-- The sun will rise at 07:22 and set at 16:22
+- The average temperature today is 13.11˚C,
+- With highs of 13.62˚C and lows of 12.38˚C,
+- It may feel like 12.75˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1002hPa and humidity is 87%
+- The sun will rise at 07:24 and set at 16:20
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 617 days since the last change (2024-03-05)
+- It has been 618 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,27 +32,27 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Think aptitude and attitude.
+> Be open to change.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Bayern Munich Women v Arsenal Women
-- Manchester United Women v PSG Women
+- England v Serbia
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 125.02999877929688 
+- VWRL.L : 125.9800033569336 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- The Daily Hilario: Wednesday
 - SKN St. Pölten 0-6 Chelsea FCW, UEFA Women’s Champions League: Post-match reaction
 - SKN St. Pölten vs. Chelsea FCW, UEFA Women’s Champions League: Confirmed lineups; how to watch
 - Pedro Neto also withdraws from international duty due to ‘physical problems’
@@ -62,7 +62,6 @@ seo: Good Morning, Here is your daily briefing
 - Chelsea 3-0 Wolves, Player Ratings: Garnacho ‘top without the ball’, and with it, too!
 - Enzo Fernández dealing with painful bone edema in knee, withdraws from Argentina duty
 - The Daily Hilario: Sunday
-- Chelsea 3-0 Wolves, Premier League: Post-match reaction, ratings
 
 <!-- news_marker ends -->
 
@@ -70,14 +69,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- UK’s Powell contacted Moscow in bid to build back channel to Putin
-- Can anything halt the decline of German industry?
-- Please Rachel, don’t sacrifice workers’ pensions
-- Epstein is not going away
-- Starmer vows to fight on as Streeting’s allies deny leadership challenge
-- Oil and gas demand to rise for 25 years without global change of course, says IEA
-- Kraken boss hits out at UK crypto rules
-- Toto Wolff in talks to sell part of Mercedes F1 stake to CrowdStrike chief at $6bn valuation
+- Ineos debt sell-off accelerates amid fears over European chemicals sector
+- How Starmer is facing plots from across the Labour party
+- How Gen Z saved the cruise industry
+- How populism became popular
+- Downing Street briefings plunge Starmer into leadership crisis
+- Scotland given same credit rating as UK ahead of debut ‘kilts’ sale
+- Trump signs spending bill to end longest-ever US shutdown
+- Wall Street CEOs flock to White House dinner with Trump
 
 <!-- ftnews_marker ends -->
 
@@ -85,40 +84,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > tidings - noun: News.
+ > screed - noun: 1. A long piece of writing or speech, especially one that's tedious or denunciatory. 2. A long strip of material such as wood, plaster, metal, or paper. 3. A tool (a strip of wood or metal) used to level off freshly poured concrete.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> It is better to be roughly right than precisely wrong. - John Maynard Keynes, Economist
+> As an Agile coach, you do not need to have all the answers; it takes time and a few experiments to hit on the right approach. - Rachel Davies and Liz Sedley, Agile Trainers and Authors
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Twist the spine
+> Use fewer notes
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Date Night (Rated: 6)
-- Released in 2010
-- Summary: In New York City, a case of mistaken identity turns a bored married couple's attempt at a glamorous and romantic evening into something more thrilling and dangerous.
+- Paranormal Activity (Rated: 7)
+- Released in 2007
+- Summary: After moving into a suburban home, a couple becomes increasingly disturbed by a nightly demonic presence.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 593, using [6, 7, 25, 50, 75, 100]
-- Answer: 30 solutions.
+- Target: 448, using [3, 6, 8, 9, 25, 75]
+- Answer: 26 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 6 - 50 - 25 ) x 100 - 7
+  Solution: ( 75 + 9 + 3 - 25 - 6 ) x 8
 
    </details>
 
