@@ -21,7 +21,8 @@ Drafts is a Mac and [iOS app](https://itunes.apple.com/app/id1236254471?ls=1&mt=
  - [ISBN Search](https://directory.getdrafts.com/a/2Rw) _Uses selected text in a draft and searches ISBNsearch.org for a result._
  - [AI Prompt Processor](https://directory.getdrafts.com/a/21q) _Uses a template to create a prompt and data the action then uses the on device model to provide an outcome._
  - [Arc Search Selection](https://directory.getdrafts.com/a/21s) _Takes the selected text in a draft and launches an search in the Arc Browser._
- - [Duck Duck go Search Selection](https://directory.getdrafts.com/a/22D) _Takes the selected text in a draft and launches a search in Duck Duck Go_
+ - [Duck Duck go Search Selection](https://directory.getdrafts.com/a/22D) _Takes the selected text in a draft and launches a search with Duck Duck Go_
+ - [Bing Search Selection](https://directory.getdrafts.com/a/22F) _Takes the selected text in a draft and launches a search with Bing_.
 
 ## Tip
 
