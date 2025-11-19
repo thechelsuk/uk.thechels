@@ -7,55 +7,53 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 18 November 2025
+## On Wednesday, 19 November 2025
 
-- The average temperature today is 3.04˚C,
-- With highs of 3.88˚C and lows of 2.14˚C,
-- It may feel like 1.95˚C with scattered clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 90%
-- The sun will rise at 07:33 and set at 16:14
+- The average temperature today is 3.56˚C,
+- With highs of 3.87˚C and lows of 2.75˚C,
+- It may feel like -0.64˚C with light rain
+- The wind speed is 5.36m/s and visibility is 677m
+- The pressure is 1007hPa and humidity is 91%
+- The sun will rise at 07:34 and set at 16:12
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 623 days since the last change (2024-03-05)
+- It has been 624 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Move fast.
+> Bias towards action.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Austria U17 v England U17
-- Slovakia U21 v England U21
-- Morecambe v Brackley Town
+- Wolfsburg Women v Manchester United Women
+- Arsenal Women v Real Madrid Women
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 123.33000183105469 
+- VWRL.L : 121.79000091552734 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- The Daily Hilario: Tuesday
 - The Daily Hilario: Monday
 - Malo Gusto picks up brace of assists for France
 - Liverpool FCW 1-1 Chelsea FCW, Women’s Super League: Post-match reaction
@@ -65,7 +63,6 @@ seo: Good Morning, Here is your daily briefing
 - Liverpool FCW vs. Chelsea FCW, Women’s Super League: Preview, team news, how to watch
 - The Daily Hilario: Saturday
 - Chelsea agree future transfer of Deinner Ordóñez from Independiente del Valle — reports
-- Jamie Gittens forced off with apparent injury in England U21 match
 
 <!-- news_marker ends -->
 
@@ -73,14 +70,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Crypto market sheds $1.2tn as traders shun speculative assets
-- The surreal 45-day trek at the heart of Nato’s defence
-- What nostalgia for the 1990s leaves out
-- Labour needs a way out of the infernal circle of immigration policy
-- Lawrence Summers to step back from public roles over ties to Epstein
-- Reform UK targets EU citizens and overseas aid as it seeks to save £25bn
-- Reform council cuts back on litter picking and gardening in bid to fill shortfall
-- HSBC board at odds over candidates to succeed Mark Tucker as chair
+- Iranian nuclear experts held second covert meeting with Russian weapons institute
+- How well do you know your Budgets?
+- The American exceptionalism trade is wobbling
+- For scientists, the right questions are often the hardest
+- ‘Things happen’: Trump recasts Khashoggi killing as Saudi prince arrives with deals
+- Elon Musk returns to the White House at dinner for Saudi crown prince
+- US Congress approves bill to release Jeffrey Epstein files
+- FCA pension scheme invests less in UK stocks than private sector peers
 
 <!-- ftnews_marker ends -->
 
@@ -88,40 +85,43 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > Babbittry - noun: Complacent materialism and smug conformity.
+ > chauvinist - noun: One who believes in the superiority of one's country, group, gender, etc. adjective: Believing in or relating to such beliefs.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The value of an idea lies in the using of it. - Thomas Edison
+> The more they over think the plumbing, the easier it is to stop up the drain. - James Doohan, as Scotty in Star Trek III
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Cascades
+> Lowest common denominator check
+-single beat
+-single note
+-single
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- James Bond: Live And Let Die (Rated: 4)
-- Released in 1973
-- Summary: No summary available
+- Lara Croft Tomb Raider: The Cradle Of Life (Rated: 2)
+- Released in 2003
+- Summary: Lara Croft sets out on a quest to prevent Pandora's box from landing into the wrong hands.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 525, using [2, 3, 4, 6, 6, 100]
-- Answer: 15 solutions.
+- Target: 991, using [1, 5, 9, 10, 50, 75]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 6 - 2 ) x 6 - 3 ) x 100 / 4
+  Solution: ( 75 + 50 - 10 - 5 ) x 9 + 1
 
    </details>
 
