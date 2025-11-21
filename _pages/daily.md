@@ -7,62 +7,64 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 20 November 2025
+## On Friday, 21 November 2025
 
-- The average temperature today is -2.68˚C,
-- With highs of 0.52˚C and lows of -4.15˚C,
-- It may feel like -4.52˚C with clear sky
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 89%
-- The sun will rise at 07:36 and set at 16:11
+- The average temperature today is -2.44˚C,
+- With highs of -0.58˚C and lows of -4.07˚C,
+- It may feel like -2.44˚C with clear sky
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 91%
+- The sun will rise at 07:38 and set at 16:10
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 625 days since the last change (2024-03-05)
+- It has been 626 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Farmers Market in town
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Know your users.
+> Seek the best.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Peterborough United v Stockport County
-- Chelsea Women v Barcelona Women
+- Aston Villa Women v Birmingham City Women
+- Wolves Women v Stoke City Women
+- Preston North End v Blackburn Rovers
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 122.27999877929688 
+- VWRL.L : 122.7300033569336 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea FCW 1-1 Barcelona Femení, UEFA Women’s Champions League: Post-match reaction
+- Chelsea FCW vs. Barcelona Femení, UEFA Women’s Champions League: Confirmed lineups; how to watch
+- The Daily Hilario: Thursday
+- Filip Jörgensen ‘considering potential January exit’ from Chelsea — reports
 - Chelsea FCW vs. Barcelona Femení, UEFA Women’s Champions League: Preview, team news, how to watch
 - Starting today, comments and Feed posts on We Ain&#8217;t Got No History will have activity notifications
 - The Daily Hilario: Wednesday
 - Estêvão scores again for Brazil; Marc Cucurella picks up assist for Spain
 - The Daily Hilario: Tuesday
 - The Daily Hilario: Monday
-- Malo Gusto picks up brace of assists for France
-- Liverpool FCW 1-1 Chelsea FCW, Women’s Super League: Post-match reaction
-- Liverpool FCW vs. Chelsea FCW, Women’s Super League: Confirmed lineups; how to watch
-- The Daily Hilario: Sunday
 
 <!-- news_marker ends -->
 
@@ -70,14 +72,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Nvidia shrugs off ‘AI bubble’ anxiety with bumper chip demand
-- Global tech stocks rally after Nvidia earnings bolster AI bulls
-- Nvidia’s AI supremacy is a weapon that cuts both ways
-- Rachel Reeves’ gambit
-- Don’t trade where you tweet
-- The matrix: Ellison overtures for Warner Bros kick off bidding war
-- Big Four partner promotions sink to five-year low
-- Rachel Reeves under pressure to scale back Budget raid on expensive homes
+- US plan for Ukraine-Russia peace calls on Kyiv to cede land under its control
+- The dark truth behind supermarket tuna
+- Britain’s tax system combines the worst of the US and Scandinavia
+- Behind the AI bubble, another tech revolution could be brewing
+- UK consumer confidence drops as public braces for a ‘difficult’ Budget
+- Clifford Chance cites AI as it axes 10 per cent of back-office staff
+- High earners to be eligible for UK settlement within 3 years of arrival
+- Davos assured Trump ‘woke’ topics were off the agenda
 
 <!-- ftnews_marker ends -->
 
@@ -85,40 +87,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > Dantean - adjective: 1. Relating to Dante or his writings. 2. Having a hellish quality.
+ > Plimsoll line - noun: 1. Any of various horizontal lines on the side of a ship indicating the depth to which it may be immersed under various conditions. 2. A threshold or limit.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> You improvise. You adapt. You overcome. - Clint Eastwood, as Sergeant Highway in Heartbreak Ridge
+> Be honest, Without objectivity and honesty, the project team is set up for failure, even if developing iteratively. - Ian Spence and Kurt Bittner, Agile Authors
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> How would you have done it?
+> [blank white card]
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- A Lonely Place To Die (Rated: 10)
-- Released in 2011
-- Summary: A group of mountaineers in the Scottish Highlands discover a kidnapped girl and are pursued by her captors.
+- Them (Rated: 7)
+- Released in 2006
+- Summary: Lucas and Clementine live peacefully in their isolated country house, but one night they wake up to strange noise... they're not alone... and a group of hooded assailants begin to terrorize them throughout the night.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 677, using [1, 6, 7, 8, 10, 75]
-- Answer: 11 solutions.
+- Target: 703, using [1, 3, 9, 10, 25, 75]
+- Answer: 13 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 10 - 1 ) x 75 + ( 8 + 6 ) / 7
+  Solution: ( ( 75 + 10 - 1 ) x 25 + 9 ) / 3
 
    </details>
 
