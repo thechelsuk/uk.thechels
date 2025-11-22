@@ -7,64 +7,75 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 21 November 2025
+## On Saturday, 22 November 2025
 
-- The average temperature today is -2.44˚C,
-- With highs of -0.58˚C and lows of -4.07˚C,
-- It may feel like -2.44˚C with clear sky
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 91%
-- The sun will rise at 07:38 and set at 16:10
+- The average temperature today is 5.53˚C,
+- With highs of 6.1˚C and lows of 4.36˚C,
+- It may feel like 4.21˚C with light rain
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 85%
+- The sun will rise at 07:39 and set at 16:09
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 626 days since the last change (2024-03-05)
+- It has been 627 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Farmers Market in town
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Seek the best.
+> Use a common language.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Aston Villa Women v Birmingham City Women
-- Wolves Women v Stoke City Women
-- Preston North End v Blackburn Rovers
+- Crystal Palace U18 v Chelsea U18
+- Manchester City U18 v Sheffield United U18
+- Manchester United U18 v Birmingham City U18
+- Bristol City v Swansea City
+- Charlton Athletic v Southampton
+- Coventry City v West Brom
+- Port Vale v Plymouth Argyle
+- Gillingham v Barnet
+- Harrogate Town v Walsall
+- Aldershot Town v Woking
+- Tamworth v Rochdale
+- Burnley v Chelsea
+- Tottenham Hotspur U18 v Derby County U18
+- Boston United v Carlisle United
+- Newcastle United v Manchester City
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 122.7300033569336 
+- VWRL.L : 121.05999755859375 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Burnley vs. Chelsea, Premier League: Preview, team news, how to watch
+- Cole Palmer fractures toe in at home ‘accident’
+- How should Chelsea line up against Burnley in first game back from international break?
+- The Daily Hilario: Friday
 - Chelsea FCW 1-1 Barcelona Femení, UEFA Women’s Champions League: Post-match reaction
 - Chelsea FCW vs. Barcelona Femení, UEFA Women’s Champions League: Confirmed lineups; how to watch
 - The Daily Hilario: Thursday
 - Filip Jörgensen ‘considering potential January exit’ from Chelsea — reports
 - Chelsea FCW vs. Barcelona Femení, UEFA Women’s Champions League: Preview, team news, how to watch
 - Starting today, comments and Feed posts on We Ain&#8217;t Got No History will have activity notifications
-- The Daily Hilario: Wednesday
-- Estêvão scores again for Brazil; Marc Cucurella picks up assist for Spain
-- The Daily Hilario: Tuesday
-- The Daily Hilario: Monday
 
 <!-- news_marker ends -->
 
@@ -72,14 +83,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- US plan for Ukraine-Russia peace calls on Kyiv to cede land under its control
-- The dark truth behind supermarket tuna
-- Britain’s tax system combines the worst of the US and Scandinavia
-- Behind the AI bubble, another tech revolution could be brewing
-- UK consumer confidence drops as public braces for a ‘difficult’ Budget
-- Clifford Chance cites AI as it axes 10 per cent of back-office staff
-- High earners to be eligible for UK settlement within 3 years of arrival
-- Davos assured Trump ‘woke’ topics were off the agenda
+- Trump envoys issue ultimatum to Ukraine to sign peace deal by Thursday
+- Trump wields dealmaking diplomacy to shape US foreign policy
+- US president’s grab for Russian frozen assets puts EU Ukraine loan in doubt
+- China’s risky challenge to Japan — and the US
+- Mohammed bin Salman, the autocratic Saudi moderniser trying to escape his past
+- UK Budget’s pensions tax raid to raise over £3bn
+- Labour’s charm offensive to avoid an ‘omnishambles’ Budget
+- BBC board member resigns
 
 <!-- ftnews_marker ends -->
 
@@ -94,33 +105,33 @@ seo: Good Morning, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Be honest, Without objectivity and honesty, the project team is set up for failure, even if developing iteratively. - Ian Spence and Kurt Bittner, Agile Authors
+> ScrumMasters are not just an additional expense; they create high-performing teams. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> [blank white card]
+> Make a sudden, destructive, unpredictable action; incorporate
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Them (Rated: 7)
-- Released in 2006
-- Summary: Lucas and Clementine live peacefully in their isolated country house, but one night they wake up to strange noise... they're not alone... and a group of hooded assailants begin to terrorize them throughout the night.
+- Colombiana (Rated: 6)
+- Released in 2011
+- Summary: A professional assassin seeks revenge for the murder of her parents.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 703, using [1, 3, 9, 10, 25, 75]
-- Answer: 13 solutions.
+- Target: 742, using [3, 3, 4, 8, 10, 25]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 75 + 10 - 1 ) x 25 + 9 ) / 3
+  Solution: ( 4 - 3 / 3 ) x 25 x 10 - 8
 
    </details>
 
