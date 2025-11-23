@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 22 November 2025
+## On Sunday, 23 November 2025
 
-- The average temperature today is 5.53˚C,
-- With highs of 6.1˚C and lows of 4.36˚C,
-- It may feel like 4.21˚C with light rain
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 85%
-- The sun will rise at 07:39 and set at 16:09
+- The average temperature today is 8.85˚C,
+- With highs of 9.43˚C and lows of 7.69˚C,
+- It may feel like 7.05˚C with broken clouds
+- The wind speed is 3.13m/s and visibility is 6756m
+- The pressure is 998hPa and humidity is 93%
+- The sun will rise at 07:41 and set at 16:08
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 627 days since the last change (2024-03-05)
+- It has been 628 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,27 +32,16 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Use a common language.
+> Seek the best.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Crystal Palace U18 v Chelsea U18
-- Manchester City U18 v Sheffield United U18
-- Manchester United U18 v Birmingham City U18
-- Bristol City v Swansea City
-- Charlton Athletic v Southampton
-- Coventry City v West Brom
-- Port Vale v Plymouth Argyle
-- Gillingham v Barnet
-- Harrogate Town v Walsall
-- Aldershot Town v Woking
-- Tamworth v Rochdale
-- Burnley v Chelsea
-- Tottenham Hotspur U18 v Derby County U18
-- Boston United v Carlisle United
-- Newcastle United v Manchester City
+- Sheffield Wednesday v Sheffield United
+- Leeds United v Aston Villa
+- Sunderland AFC Women v Durham Women
+- Arsenal v Tottenham Hotspur
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -66,16 +55,16 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Burnley 0-2 Chelsea, Premier League: Post-match reaction, ratings
+- Burnley vs. Chelsea, Premier League: Lineups &#038; Game Thread
+- Chelsea fans’ preferred lineup against Burnley: Here’s what worked before
+- The Daily Hilario: Saturday
 - Burnley vs. Chelsea, Premier League: Preview, team news, how to watch
 - Cole Palmer fractures toe in at home ‘accident’
 - How should Chelsea line up against Burnley in first game back from international break?
 - The Daily Hilario: Friday
 - Chelsea FCW 1-1 Barcelona Femení, UEFA Women’s Champions League: Post-match reaction
 - Chelsea FCW vs. Barcelona Femení, UEFA Women’s Champions League: Confirmed lineups; how to watch
-- The Daily Hilario: Thursday
-- Filip Jörgensen ‘considering potential January exit’ from Chelsea — reports
-- Chelsea FCW vs. Barcelona Femení, UEFA Women’s Champions League: Preview, team news, how to watch
-- Starting today, comments and Feed posts on We Ain&#8217;t Got No History will have activity notifications
 
 <!-- news_marker ends -->
 
@@ -83,14 +72,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump envoys issue ultimatum to Ukraine to sign peace deal by Thursday
-- Trump wields dealmaking diplomacy to shape US foreign policy
-- US president’s grab for Russian frozen assets puts EU Ukraine loan in doubt
-- China’s risky challenge to Japan — and the US
-- Mohammed bin Salman, the autocratic Saudi moderniser trying to escape his past
-- UK Budget’s pensions tax raid to raise over £3bn
-- Labour’s charm offensive to avoid an ‘omnishambles’ Budget
-- BBC board member resigns
+- Kyiv’s allies insist more work is needed on US-Russian peace plan
+- Lawmakers say US secretary of state rowed back on Ukraine peace plan
+- UK business blames long run-up to Budget for fuelling uncertainty
+- In defence of the weird and wonderful Wicked ‘womance’
+- Insurers retreat from AI cover as risk of multibillion-dollar claims mounts
+- Starmer’s top business adviser emerges as frontrunner to replace Mandelson as envoy to US
+- Rail fares in the UK to be frozen in Autumn Budget
+- Reeves to extend electric vehicle grant in Autumn Budget
 
 <!-- ftnews_marker ends -->
 
@@ -105,33 +94,33 @@ seo: Good Morning, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> ScrumMasters are not just an additional expense; they create high-performing teams. - Zuzana Sochova
+> Be fixed on the vision, but flexible on the journey - Jeff Bezos
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Make a sudden, destructive, unpredictable action; incorporate
+> Put in earplugs
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Colombiana (Rated: 6)
-- Released in 2011
-- Summary: A professional assassin seeks revenge for the murder of her parents.
+- Alien (Rated: 7)
+- Released in 1979
+- Summary: After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 742, using [3, 3, 4, 8, 10, 25]
-- Answer: 3 solutions.
+- Target: 898, using [2, 4, 5, 8, 75, 100]
+- Answer: 16 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 4 - 3 / 3 ) x 25 x 10 - 8
+  Solution: ( 8 + 5 - 4 ) x 100 - 2
 
    </details>
 
