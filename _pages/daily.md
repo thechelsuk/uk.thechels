@@ -7,41 +7,39 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 23 November 2025
+## On Monday, 24 November 2025
 
-- The average temperature today is 8.85˚C,
-- With highs of 9.43˚C and lows of 7.69˚C,
-- It may feel like 7.05˚C with broken clouds
-- The wind speed is 3.13m/s and visibility is 6756m
-- The pressure is 998hPa and humidity is 93%
-- The sun will rise at 07:41 and set at 16:08
+- The average temperature today is 6.21˚C,
+- With highs of 7.21˚C and lows of 4.91˚C,
+- It may feel like 4.55˚C with broken clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 988hPa and humidity is 89%
+- The sun will rise at 07:43 and set at 16:07
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 628 days since the last change (2024-03-05)
+- It has been 629 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Seek the best.
+> Be humble.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Sheffield Wednesday v Sheffield United
-- Leeds United v Aston Villa
-- Sunderland AFC Women v Durham Women
-- Arsenal v Tottenham Hotspur
+- Manchester United v Everton
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -55,6 +53,9 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Burnley 0-2 Chelsea, Player Ratings: Andrey Santos steps up, answers the call
+- The Daily Hilario: Saturday night racing
+- Enzo Maresca happy as Chelsea successfully navigate ‘tricky’, ‘tough’ Burnley away trip
 - Burnley 0-2 Chelsea, Premier League: Post-match reaction, ratings
 - Burnley vs. Chelsea, Premier League: Lineups &#038; Game Thread
 - Chelsea fans’ preferred lineup against Burnley: Here’s what worked before
@@ -62,9 +63,6 @@ seo: Good Morning, Here is your daily briefing
 - Burnley vs. Chelsea, Premier League: Preview, team news, how to watch
 - Cole Palmer fractures toe in at home ‘accident’
 - How should Chelsea line up against Burnley in first game back from international break?
-- The Daily Hilario: Friday
-- Chelsea FCW 1-1 Barcelona Femení, UEFA Women’s Champions League: Post-match reaction
-- Chelsea FCW vs. Barcelona Femení, UEFA Women’s Champions League: Confirmed lineups; how to watch
 
 <!-- news_marker ends -->
 
@@ -72,14 +70,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Kyiv’s allies insist more work is needed on US-Russian peace plan
-- Lawmakers say US secretary of state rowed back on Ukraine peace plan
-- UK business blames long run-up to Budget for fuelling uncertainty
-- In defence of the weird and wonderful Wicked ‘womance’
-- Insurers retreat from AI cover as risk of multibillion-dollar claims mounts
-- Starmer’s top business adviser emerges as frontrunner to replace Mandelson as envoy to US
-- Rail fares in the UK to be frozen in Autumn Budget
-- Reeves to extend electric vehicle grant in Autumn Budget
+- US and Ukraine report progress in talks on peace plan with Russia
+- Ukraine has no choice but to engage with US peace plan
+- US peace plan: What could Ukraine compromise on?
+- How to get the UK out of its economic hole
+- FT seasonal appeal: why financial education has never been more crucial
+- Investors warn Rachel Reeves against delaying fiscal pain in UK Budget
+- What big bond investors want from the UK Budget
+- BHP walks away from fresh Anglo American tie-up
 
 <!-- ftnews_marker ends -->
 
@@ -87,40 +85,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > Plimsoll line - noun: 1. Any of various horizontal lines on the side of a ship indicating the depth to which it may be immersed under various conditions. 2. A threshold or limit.
+ > cavil - verb tr., intr.: To raise a trivial or frivolous objection. noun: A trivial or frivolous objection.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Be fixed on the vision, but flexible on the journey - Jeff Bezos
+> The very essence of leadership is that you have to have vision. You cannot blow an uncertain trumpet. - Theodore M. Hesburgh
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Put in earplugs
+> Honor thy error as a hidden intention
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Alien (Rated: 7)
-- Released in 1979
-- Summary: After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.
+- Life or Something Like It (Rated: 2)
+- Released in 2002
+- Summary: A reporter interviews a psychic, who tells her that she's going to die and her life is meaningless.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 898, using [2, 4, 5, 8, 75, 100]
-- Answer: 16 solutions.
+- Target: 798, using [1, 3, 9, 25, 50, 75]
+- Answer: 2 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 8 + 5 - 4 ) x 100 - 2
+  Solution: ( 25 - 9 ) x 50 + 1 - 3
 
    </details>
 
