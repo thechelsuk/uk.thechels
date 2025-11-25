@@ -7,52 +7,84 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 24 November 2025
+## On Tuesday, 25 November 2025
 
-- The average temperature today is 6.21˚C,
-- With highs of 7.21˚C and lows of 4.91˚C,
-- It may feel like 4.55˚C with broken clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 988hPa and humidity is 89%
-- The sun will rise at 07:43 and set at 16:07
+- The average temperature today is 2.88˚C,
+- With highs of 3.8˚C and lows of 2.6˚C,
+- It may feel like 2.88˚C with overcast clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1011hPa and humidity is 92%
+- The sun will rise at 07:44 and set at 16:06
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 629 days since the last change (2024-03-05)
+- It has been 630 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be humble.
+> Exploit the landscape.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Manchester United v Everton
+- Chelsea U19 v Barcelona U19
+- Manchester City U19 v Bayer Leverkusen U19
+- Aldershot Town v Fulham U21
+- Boreham Wood v Leicester City U21
+- Braintree Town v Wolves U21
+- FC Halifax Town v Sunderland U21
+- Forest Green Rovers v Nottingham Forest U21
+- Rochdale v Everton U21
+- Solihull Moors v Manchester United U21
+- Sutton United v Southampton U21
+- Truro City v West Ham United U21
+- Wealdstone v West Brom U21
+- Woking v Brighton & Hove Albion U21
+- Hull City v Ipswich Town
+- Middlesbrough v Coventry City
+- Norwich City v Oxford United
+- Stoke City v Charlton Athletic
+- Swansea City v Derby County
+- Watford v Preston North End
+- Luton Town v Huddersfield Town
+- Peterborough United v Stevenage
+- Brackley Town v Burnley U21
+- Tamworth v Blackburn Rovers U21
+- AFC Fylde v Macclesfield FC
+- Salisbury City v Maidenhead United
+- Southampton v Leicester City
+- Chelsea v Barcelona
+- Manchester City v Bayer Leverkusen
+- Marseille v Newcastle United
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 121.05999755859375 
+- VWRL.L : 122.70999908447266 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Cole Palmer back in Chelsea training despite fractured toe
+- How should Chelsea line up against Barcelona in the Champions League?
+- The Daily Hilario: Monday
 - Burnley 0-2 Chelsea, Player Ratings: Andrey Santos steps up, answers the call
 - The Daily Hilario: Saturday night racing
 - Enzo Maresca happy as Chelsea successfully navigate ‘tricky’, ‘tough’ Burnley away trip
@@ -60,9 +92,6 @@ seo: Good Morning, Here is your daily briefing
 - Burnley vs. Chelsea, Premier League: Lineups &#038; Game Thread
 - Chelsea fans’ preferred lineup against Burnley: Here’s what worked before
 - The Daily Hilario: Saturday
-- Burnley vs. Chelsea, Premier League: Preview, team news, how to watch
-- Cole Palmer fractures toe in at home ‘accident’
-- How should Chelsea line up against Burnley in first game back from international break?
 
 <!-- news_marker ends -->
 
@@ -70,14 +99,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- US and Ukraine report progress in talks on peace plan with Russia
-- Ukraine has no choice but to engage with US peace plan
-- US peace plan: What could Ukraine compromise on?
-- How to get the UK out of its economic hole
-- FT seasonal appeal: why financial education has never been more crucial
-- Investors warn Rachel Reeves against delaying fiscal pain in UK Budget
-- What big bond investors want from the UK Budget
-- BHP walks away from fresh Anglo American tie-up
+- Currency traders bet against sterling ahead of Budget
+- Reeves asks banks to praise her plans as they escape Budget tax raid
+- What will be in Rachel Reeves’ second Budget?
+- Britain’s Budget woes illustrate the threat to Europe’s social contract
+- Tech trumps tariffs: why US exceptionalism will last
+- The minimum wage is not a cure all — we’re asking too much of business
+- US holds Russia-Ukraine peace talks in Abu Dhabi
+- US and Ukraine draft new 19-point peace plan but defer biggest decisions
 
 <!-- ftnews_marker ends -->
 
@@ -85,40 +114,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > cavil - verb tr., intr.: To raise a trivial or frivolous objection. noun: A trivial or frivolous objection.
+ > shirtfront - noun: 1. The front of a shirt. 2. A high, front-on collision or bump on an opponent. 3. An aggressive direct confrontation. verb tr.: 1. To run at and collide with someone. 2. To confront someone aggressively.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The very essence of leadership is that you have to have vision. You cannot blow an uncertain trumpet. - Theodore M. Hesburgh
+> Everything is vague to a degree you do not realize 'till you have tried to make it precise - Bertrand Russell
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Honor thy error as a hidden intention
+> Trust in the you of now
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Life or Something Like It (Rated: 2)
-- Released in 2002
-- Summary: A reporter interviews a psychic, who tells her that she's going to die and her life is meaningless.
+- The Helpers (Rated: 5)
+- Released in 2012
+- Summary: When a few friends, each with a secret, must come together to save Christmas. But if they don't make it in time, the consequences could be deadly.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 798, using [1, 3, 9, 25, 50, 75]
-- Answer: 2 solutions.
+- Target: 962, using [2, 4, 5, 5, 9, 100]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 25 - 9 ) x 50 + 1 - 3
+  Solution: ( 5 + 5 ) x 100 - 9 x 4 - 2
 
    </details>
 
