@@ -42,7 +42,6 @@ As well as the usual banking, utility, and home apps for the services I use, plu
 
 ## Fuel
 
-- [Irn Bru Xtra](https://amzn.to/3HdkALM)
 - [Pepsi Max](https://www.amazon.co.uk/dp/B017NVHSF8?tag=thechelsuk-21)
 
 ### Notes
