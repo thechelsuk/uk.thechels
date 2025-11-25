@@ -16,7 +16,7 @@
 <nav id="datamenu" class="blog-menu">
     <ul>
         {% assign sorted_navigation_data = site.navigation_data | sort:
-        'title' %} {% for dataitems in sorted_navigation_slashes %}
+        'title' %} {% for dataitems in sorted_navigation_data %}
         <li>// <a href="{{dataitems.link}}">{{dataitems.title}}</a></li>
         {% endfor %}
     </ul>
