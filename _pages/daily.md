@@ -7,91 +7,72 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 25 November 2025
+## On Wednesday, 26 November 2025
 
-- The average temperature today is 2.88˚C,
-- With highs of 3.8˚C and lows of 2.6˚C,
-- It may feel like 2.88˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1011hPa and humidity is 92%
-- The sun will rise at 07:44 and set at 16:06
+- The average temperature today is -0.02˚C,
+- With highs of -0.02˚C and lows of -0.57˚C,
+- It may feel like -2.52˚C with scattered clouds
+- The wind speed is 2.03m/s and visibility is 10000m
+- The pressure is 1022hPa and humidity is 94%
+- The sun will rise at 07:46 and set at 16:05
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 630 days since the last change (2024-03-05)
+- It has been 631 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Exploit the landscape.
+> Set exceptional standards.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Chelsea U19 v Barcelona U19
-- Manchester City U19 v Bayer Leverkusen U19
-- Aldershot Town v Fulham U21
-- Boreham Wood v Leicester City U21
-- Braintree Town v Wolves U21
-- FC Halifax Town v Sunderland U21
-- Forest Green Rovers v Nottingham Forest U21
-- Rochdale v Everton U21
-- Solihull Moors v Manchester United U21
-- Sutton United v Southampton U21
-- Truro City v West Ham United U21
-- Wealdstone v West Brom U21
-- Woking v Brighton & Hove Albion U21
-- Hull City v Ipswich Town
-- Middlesbrough v Coventry City
-- Norwich City v Oxford United
-- Stoke City v Charlton Athletic
-- Swansea City v Derby County
-- Watford v Preston North End
-- Luton Town v Huddersfield Town
-- Peterborough United v Stevenage
-- Brackley Town v Burnley U21
-- Tamworth v Blackburn Rovers U21
-- AFC Fylde v Macclesfield FC
-- Salisbury City v Maidenhead United
-- Southampton v Leicester City
-- Chelsea v Barcelona
-- Manchester City v Bayer Leverkusen
-- Marseille v Newcastle United
+- Arsenal U19 v Bayern Munich U19
+- Liverpool U19 v PSV Eindhoven U19
+- Crystal Palace U21 v FC Nordsjaelland U21
+- Gateshead v Leeds United U21
+- Blackburn Rovers v QPR
+- Millwall v Sheffield Wednesday
+- Sheffield United v Portsmouth
+- Wrexham v Bristol City
+- West Brom v Birmingham City
+- Arsenal v Bayern Munich
+- Liverpool v PSV Eindhoven
+- PSG v Tottenham Hotspur
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 122.70999908447266 
+- VWRL.L : 122.68000030517578 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea 3-0 Barcelona, Champions League: Post-match reaction, ratings
+- Chelsea vs. Barcelona, Champions League: Lineups &#038; Game Thread
+- Chelsea fans&#8217; preferred lineup against Barcelona: Release the Estêvão!
+- The Daily Hilario: Tuesday
+- Chelsea vs. Barcelona, Champions League: Preview, team news, how to watch
 - Cole Palmer back in Chelsea training despite fractured toe
 - How should Chelsea line up against Barcelona in the Champions League?
 - The Daily Hilario: Monday
 - Burnley 0-2 Chelsea, Player Ratings: Andrey Santos steps up, answers the call
 - The Daily Hilario: Saturday night racing
-- Enzo Maresca happy as Chelsea successfully navigate ‘tricky’, ‘tough’ Burnley away trip
-- Burnley 0-2 Chelsea, Premier League: Post-match reaction, ratings
-- Burnley vs. Chelsea, Premier League: Lineups &#038; Game Thread
-- Chelsea fans’ preferred lineup against Burnley: Here’s what worked before
-- The Daily Hilario: Saturday
 
 <!-- news_marker ends -->
 
@@ -99,14 +80,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Currency traders bet against sterling ahead of Budget
-- Reeves asks banks to praise her plans as they escape Budget tax raid
-- What will be in Rachel Reeves’ second Budget?
-- Britain’s Budget woes illustrate the threat to Europe’s social contract
-- Tech trumps tariffs: why US exceptionalism will last
-- The minimum wage is not a cure all — we’re asking too much of business
-- US holds Russia-Ukraine peace talks in Abu Dhabi
-- US and Ukraine draft new 19-point peace plan but defer biggest decisions
+- Britons brace for highly uneven impact of Rachel Reeves’ ‘stealth tax’
+- Reeves increases minimum wage by 4.1% ahead of tax-raising Budget
+- Don’t worry about another leveraged gilt market blow-up
+- The four audiences Reeves’ ‘high-wire’ Budget must satisfy
+- China is making trade impossible
+- Can a drone wall really work?
+- Trump sends top envoy to Russia to finalise US peace plan for Ukraine
+- Crypto hoarders dump tokens as shares tumble
 
 <!-- ftnews_marker ends -->
 
@@ -114,40 +95,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > shirtfront - noun: 1. The front of a shirt. 2. A high, front-on collision or bump on an opponent. 3. An aggressive direct confrontation. verb tr.: 1. To run at and collide with someone. 2. To confront someone aggressively.
+ > foin - verb intr.: To thrust with a weapon; lunge. noun: A thrust with a weapon.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Everything is vague to a degree you do not realize 'till you have tried to make it precise - Bertrand Russell
+> Do the planning, but throw out the plans. - Mary Poppendieck
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Trust in the you of now
+> Cluster analysis
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Helpers (Rated: 5)
-- Released in 2012
-- Summary: When a few friends, each with a secret, must come together to save Christmas. But if they don't make it in time, the consequences could be deadly.
+- Black Crab (Rated: 3)
+- Released in 2022
+- Summary: In a post-apocalyptic world, six soldiers on a covert mission must transport a mysterious package across a frozen archipelago. Noomi Rapace stars.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 962, using [2, 4, 5, 5, 9, 100]
-- Answer: 7 solutions.
+- Target: 511, using [4, 5, 6, 8, 50, 100]
+- Answer: 9 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 5 + 5 ) x 100 - 9 x 4 - 2
+  Solution: ( 100 + 8 + 6 ) x 4 + 50 + 5
 
    </details>
 
