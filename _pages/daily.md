@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 26 November 2025
+## On Thursday, 27 November 2025
 
-- The average temperature today is -0.02˚C,
-- With highs of -0.02˚C and lows of -0.57˚C,
-- It may feel like -2.52˚C with scattered clouds
-- The wind speed is 2.03m/s and visibility is 10000m
-- The pressure is 1022hPa and humidity is 94%
-- The sun will rise at 07:46 and set at 16:05
+- The average temperature today is 11.57˚C,
+- With highs of 12.21˚C and lows of 10.93˚C,
+- It may feel like 11.21˚C with overcast clouds
+- The wind speed is 4.92m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 93%
+- The sun will rise at 07:47 and set at 16:04
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 631 days since the last change (2024-03-05)
+- It has been 632 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,37 +32,31 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Set exceptional standards.
+> Challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Arsenal U19 v Bayern Munich U19
-- Liverpool U19 v PSV Eindhoven U19
-- Crystal Palace U21 v FC Nordsjaelland U21
-- Gateshead v Leeds United U21
-- Blackburn Rovers v QPR
-- Millwall v Sheffield Wednesday
-- Sheffield United v Portsmouth
-- Wrexham v Bristol City
-- West Brom v Birmingham City
-- Arsenal v Bayern Munich
-- Liverpool v PSV Eindhoven
-- PSG v Tottenham Hotspur
+- Aston Villa v Young Boys
+- Grimsby Town v Tranmere Rovers
+- Strasbourg v Crystal Palace
+- Nottingham Forest v Malmo
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 122.68000030517578 
+- VWRL.L : 123.94000244140625 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- The Daily Hilario: Wednesday
+- Maresca not getting carried away with ‘big’ Barcelona win, looking to keep momentum going against Arsenal
 - Chelsea 3-0 Barcelona, Champions League: Post-match reaction, ratings
 - Chelsea vs. Barcelona, Champions League: Lineups &#038; Game Thread
 - Chelsea fans&#8217; preferred lineup against Barcelona: Release the Estêvão!
@@ -71,8 +65,6 @@ seo: Good Morning, Here is your daily briefing
 - Cole Palmer back in Chelsea training despite fractured toe
 - How should Chelsea line up against Barcelona in the Champions League?
 - The Daily Hilario: Monday
-- Burnley 0-2 Chelsea, Player Ratings: Andrey Santos steps up, answers the call
-- The Daily Hilario: Saturday night racing
 
 <!-- news_marker ends -->
 
@@ -80,14 +72,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Britons brace for highly uneven impact of Rachel Reeves’ ‘stealth tax’
-- Reeves increases minimum wage by 4.1% ahead of tax-raising Budget
-- Don’t worry about another leveraged gilt market blow-up
-- The four audiences Reeves’ ‘high-wire’ Budget must satisfy
-- China is making trade impossible
-- Can a drone wall really work?
-- Trump sends top envoy to Russia to finalise US peace plan for Ukraine
-- Crypto hoarders dump tokens as shares tumble
+- Business chides Reeves for not kick-starting growth in the Budget
+- Budget exposes Labour to charges of being ‘high tax, high welfare’ party
+- ‘Spend now, pay later’: Reeves’ Budget delays the fiscal pain
+- A tax-raising British Budget with no long-term solutions
+- Rachel Reeves’ case of risky risk aversion
+- UK boards now more forceful on CEO pay, LSE boss says
+- Suspect in Washington shooting came from Afghanistan, Trump says
+- China’s tech giants take AI model training offshore to tap Nvidia chips
 
 <!-- ftnews_marker ends -->
 
@@ -95,40 +87,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > foin - verb intr.: To thrust with a weapon; lunge. noun: A thrust with a weapon.
+ > flyspeck - noun: 1. A small dot made by the excrement of an insect, such as a fly. 2. Something tiny or insignificant. adjective: Tiny or insignificant. verb tr.: 1. To mark with flyspecks. 2. To examine in minute detail, especially to nitpick.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Do the planning, but throw out the plans. - Mary Poppendieck
+> The important thing is not your process. The important thing is your process for improving your process. - Henrik Kniberg, Agile Trainer and Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Cluster analysis
+> Take a break
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Black Crab (Rated: 3)
-- Released in 2022
-- Summary: In a post-apocalyptic world, six soldiers on a covert mission must transport a mysterious package across a frozen archipelago. Noomi Rapace stars.
+- Cruel Intentions Ii (Rated: 5)
+- Released in 2000
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 511, using [4, 5, 6, 8, 50, 100]
-- Answer: 9 solutions.
+- Target: 561, using [1, 5, 10, 25, 75, 100]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 8 + 6 ) x 4 + 50 + 5
+  Solution: ( 100 + 25 ) x 5 + 10 + 1 - 75
 
    </details>
 
