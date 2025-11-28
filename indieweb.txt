@@ -9,10 +9,10 @@
 
 
 /* Reference Information */
-  - handle: TheChels.uk
-  - name: Mat
+  - handle: thechelsuk
+  - name: thechelsuk
   - font-color: #04100d
   - background-color: #f5f4f4
-  - html-reference: <span style="color:#005ca3">TheChels.uk</span>
+  - html-reference: <span style="color:#005ca3">thechelsuk</span>
   - contact:
     - email: indie@thechels.uk
