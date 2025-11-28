@@ -36,7 +36,7 @@ seo: A list of my favourite technology
 - [Pythonista](https://omz-software.com/pythonista/) (Coding)
 - [VS Code](https://code.visualstudio.com) (Coding)
 - [Hush](https://oblador.github.io/hush/) / [1Blocker](https://1blocker.com) / [uBlock Origin](https://ublockorigin.com) (Ad/Cookie nag Blocker)
-- [iMessage](https://www.apple.com/imessage/) / [WhatsApp](https://www.whatsapp.com) (Messaging)
+- iMessage / [WhatsApp](https://www.whatsapp.com) (Messaging)
 
 As well as the usual banking, utility, and home apps for the services I use, plus, of course, the default Apple apps.
 
