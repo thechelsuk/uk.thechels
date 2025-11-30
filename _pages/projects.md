@@ -16,6 +16,8 @@ seo: Projects
 
 ![Hiyd App Icon](/images/apps/hiyd-icon.png){: .app-icon} [Hiyd](https://apps.apple.com/gb/app/hiyd/id6746853559) - A Jekyll companion app for iOS that allows for the creation and exporting of Jekyll formatted markdown files. The app is built using SwiftUI. There is also a companion Chrome extension that allows for the creation of Jekyll formatted markdown files directly from the browser, by copying urls, select page content and site metadata.
 
+![ShortKeys App Icon](/images/apps/shortkeys-icon.png){: .app-icon} ShortKeys (coming soon) - A productivity app for iOS that allows users to create and manage custom keyboard shortcuts. The app is built using SwiftUI and aims to improve typing efficiency and workflow by using keys expanded to multi-line text snippets.
+
 ## Websites
 
 - [Cheltenham Open Data](https://cod.thechels.uk) - A GitHub project to collect and disseminate public open data from a variety of sources, created during the covid pandemic and lockdown 2020. The project pulls together terrorism ratings, food-bank data, flood warnings and covid data (now archived). The page now includes helpful phone numbers, consolidated local news and more being added as it becomes available. The main requirement was to just republish existing data as RSS feeds (xml) as it continues to be an undervalued publishing format.
