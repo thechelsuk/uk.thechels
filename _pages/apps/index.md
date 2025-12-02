@@ -1,8 +1,9 @@
 ---
 layout: pages
-title: iOS Applications by thechelsuk
+title: iOS Applications
 permalink: /apps
-seo: Apps
+seo: iOS Applications by thechelsuk
+
 ---
 
 ![Tomoz App Icon](/images/apps/tomoz-icon.png){: .app-icon} [Tomoz](/apps/tomoz) - An iOS app that helps plan for tomorrow today. Built using SwiftUI, the app allows users to pick and choose from their calendars and shows tomorrow's events in a simple single view. The app supports exporting to Markdown, JSON and CSV formats, making it easy to share or import into other applications.
