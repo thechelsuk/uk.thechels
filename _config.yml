@@ -62,12 +62,12 @@ navigation_data:
   - link: "/podcasts"
     title: "Podcasts"
   - link: "films"
-    title: "Films" 
+    title: "Films"
   - link: "/constraints"
     title: "Constraints"
 ## SubMenu
 navigation_slashes:
-  - link: "/projects"
+  - link: "/apps"
     title: "Apps"
   - link: "/about"
     title: "About"
