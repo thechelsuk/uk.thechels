@@ -5,8 +5,6 @@ permalink: /apps
 seo: Apps
 ---
 
-## Applications
-
 ![Tomoz App Icon](/images/apps/tomoz-icon.png){: .app-icon} [Tomoz](/apps/tomoz) - An iOS app that helps plan for tomorrow today. Built using SwiftUI, the app allows users to pick and choose from their calendars and shows tomorrow's events in a simple single view. The app supports exporting to Markdown, JSON and CSV formats, making it easy to share or import into other applications.
 
 ![EngMan App Icon](/images/apps/engman-icon.png){: .app-icon} [EngMan](/apps/engman) - An iOS app for Engineering Managers. Built using SwiftUI, the app provides a bunch of topics and nearly 200 coaching cards to help engineering leaders and managers improve their skills and knowledge. Whilst being a good quick reference for difficult conversations or coaching scenarios.
