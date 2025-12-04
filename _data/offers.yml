@@ -1,34 +1,46 @@
 ---
 - id: a-oct
   link: "https://share.octopus.energy/ideal-ant-315"
-  title: "£50 - Switch to Octopus Energy for £50 credit."
+  title: "Octopus Energy - £50 credit when you switch."
 - id: b-oct
   link: "https://electroverse.octopus.energy/sign-up/magic?referralCode=aglow-louse-16571"
-  title: "£5 free credit when you join the Electroverse"
+  title: "Electroverse - £5 free credit when you join."
 - id: c-oct
   link: "https://tech.referrals.octopus.energy/ulLGI6SC"
-  title: "£25 - Visa card when you install an Octopus EV charger"
+  title: "Octopus EV - £25 Visa card when you install a charger."
 - id: d-smart
   link: "https://i.smarty.co.uk/CSj6iK"
-  title: "Choose a gift card up to £20 when you join Smarty"
+  title: "Smarty - Choose a gift card up to £20 when you join."
 - id: e-you
   link: "https://aklam.io/91zWhU?"
-  title: "£75 - when taking a 1000mb YouFibre broadband plan"
+  title: "YouFibre - £75 when taking a broadband plan."
 - id: f-cybaa
   link: "https://cybaa.io/?ref=thechels"
-  title: "Monitor your domains for security issues and get real time alerts"
+  title: "Cybaa - Monitor your domains for security issues and get real time alerts."
 - id: g-star
   link: "https://www.starlingbank.com/referral/?code=f2tr2i"
-  title: "Join Starling bank and get two-person day pass to National Trust."
+  title: "Starling bank - Join and get two-person day pass to National Trust."
 - id: h-ride
   link: "https://www.zwift.com/invite/aEBmACSRGs"
-  title: "Get a free month on Zwift"
+  title: "Zwift - Get a free month on Zwift."
 - id: z-bubble
   link: "https://thechelsuk.redbubble.com"
   title: "Support TheChels with Merch from Redbubble"
 - id: z-engman
   link: "https://apps.apple.com/uk/app/engman/id6747295473"
-  title: "Get the Engineering Manager Coach App on iOS now"
+  title: "EngMan - Get the Engineering Manager Coach Cards App on iOS."
+- id: z-tomoz
+  link: "https://apps.apple.com/gb/app/tomoz/id6748755747"
+  title: "Tomoz - Plan for tomorrow, today on iOS."
+- id: z-mltply
+  link: "https://apps.apple.com/gb/app/mltply/id6747147316"
+  title: "Mltply - Chat-style maths practice for kids on iOS."
+- id: z-hiyd
+  link: "https://apps.apple.com/gb/app/hiyd/id6746853559"
+  title: "Hiyd - The Jekyll companion app for iOS."
+- id: z-shortkeys
+  link: "https://apps.apple.com/gb/app/shortkeys/id6755919256"
+  title: "ShortKeys - Multi-line text replacement on iOS."
 - id: z-monzo
   link: "https://join.monzo.com/c/tr0bxrb7"
-  title: "Join Monzo Bank and get up to £50"
+  title: "Monzo Bank - Join Bank and get up to £50"
