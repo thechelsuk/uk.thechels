@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 04 December 2025
+## On Friday, 05 December 2025
 
-- The average temperature today is 8.12˚C,
-- With highs of 8.88˚C and lows of 7.14˚C,
-- It may feel like 5.47˚C with overcast clouds
-- The wind speed is 4.47m/s and visibility is 10000m
-- The pressure is 994hPa and humidity is 89%
-- The sun will rise at 07:57 and set at 15:59
+- The average temperature today is 3.69˚C,
+- With highs of 4.99˚C and lows of 3.15˚C,
+- It may feel like 1.59˚C with scattered clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1004hPa and humidity is 88%
+- The sun will rise at 07:59 and set at 15:59
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 639 days since the last change (2024-03-05)
+- It has been 640 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,26 +32,30 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be humble.
+> Be the owner.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Manchester United v West Ham United
+- Manchester City U18 v Fulham U18
+- Salford City v Leyton Orient
+- Hull City v Middlesbrough
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 123.45999908447266 
+- VWRL.L : 123.5999984741211 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Maresca: ‘Nothing’ positive to take from ‘bad night’ against Leeds United
+- The Daily Hilario: Thursday
 - Leeds United 3-1 Chelsea, Premier League: Post-match reaction, ratings
 - Leeds United vs. Chelsea, Premier League: Lineups &#038; Game Thread
 - Chelsea fans’ preferred lineup against Leeds United: Just a bit of rotation
@@ -60,8 +64,6 @@ seo: Good Morning, Here is your daily briefing
 - How should Chelsea line up against Leeds United to avoid a letdown?
 - Chelsea 1-1 Arsenal, Player Ratings: Reece James, our very own
 - The Daily Hilario: Tuesday
-- Enzo Maresca happy enough for point gained with ten in feisty draw against Arsenal
-- The Daily Hilario: Monday
 
 <!-- news_marker ends -->
 
@@ -69,14 +71,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Bond investors warned US Treasury over picking Hassett as Fed chair
-- Trump says claim of US affordability crisis is a ‘hoax’
-- How Brendan Nelson became HSBC’s stop-gap chair
-- Executive pay has gone galactic
-- The Taliban comes in from the cold
-- Macron warns of ‘disintegration’ risk to world order in Xi meeting
-- Sterling jumps as business survey triggers unwinding of negative bets
-- Japanese 10-year bond yields rise to highest level since 2007
+- US stocks set for double-digit gains in 2026, say Wall Street banks
+- The people who shaped the world this year
+- There’s a black hole where central banks’ theory of inflation should be
+- OpenAI’s ‘code red’ moment
+- Farage brands BBC ‘despicable’ after tense clash over antisemitism allegations
+- Reform UK receives record £9mn donation from Christopher Harborne
+- Merz jets to Belgium to secure frozen Russian assets plan
+- Meta plans to slash metaverse spending as Zuckerberg shifts focus to AI
 
 <!-- ftnews_marker ends -->
 
@@ -84,40 +86,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > jobsworth - noun: A petty official who insists on following trivial rules at the expense of common sense.
+ > roturier - noun: A person of low rank; a commoner.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The value of an idea lies in the using of it. - Thomas Edison
+> Leadership is the capacity to translate vision into reality - Warren Bennis
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Cut a vital connection
+> Ask your body
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Bourne Ultimatum (Rated: 7)
-- Released in 2007
-- Summary: Jason Bourne dodges a ruthless C.I.A. official and his Agents from a new assassination program while searching for the origins of his life as a trained killer.
+- 40 Days And 40 Nights (Rated: 5)
+- Released in 2002
+- Summary: After a brutal break-up, a young man vows to stay celibate during the forty days of Lent, but finds the girl of his dreams and is unable to do anything about it.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 215, using [3, 6, 6, 7, 25, 75]
-- Answer: 15 solutions.
+- Target: 406, using [2, 8, 25, 50, 75, 100]
+- Answer: 11 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 6 + 6 - 7 ) x 3 - 25
+  Solution: ( 100 + 75 ) x ( 50 + 8 ) / 25
 
    </details>
 
