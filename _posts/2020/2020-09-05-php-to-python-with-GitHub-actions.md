@@ -17,7 +17,7 @@ becomes
 
 I am amazed at how concise python is, having switched from a 200 line php file with a few methods coded in different classes so around 250 all in, to around 180 in python, but with processing (excluding the arrays of data) to around 25 lines.
 
-You can see outputs published via a GitHub action to a [README.md file in this repo](https://thechelsorg.GitHub.io/horofootball/)
+The outputs were published via a GitHub action to a README.md file in the repository (no longer available).
 
 <script src="https://gist.github.com/Mat-0/314fc390936e862bc4c264e1e1cc57d0.js"></script>
 
