@@ -37,9 +37,12 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
 
+    <link rel="preload" href="/fonts/TheChelsLight.woff" as="font" type="font/woff" crossorigin>
+    <link rel="preload" href="/fonts/TheChelsMedium.woff" as="font" type="font/woff" crossorigin>
+    <link rel="preload" href="/style.css" as="style">
     <link rel="stylesheet" href="/style.css">
     <link rel="stylesheet" media="print" href="/style_print.css">
-    <link rel="manifest" href="/manifest.json">
+    <link rel="manifest" href="/manifest.json" fetchpriority="low">
     <link rel="indieweb" href="/indieweb.txt" />
 
     <link rel="icon" href="/images/splashscreens/favicon.ico" type="image/x-icon">
