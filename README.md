@@ -92,13 +92,13 @@ There are several optional settings for you to configure. Use the example `_conf
 - Clone the repository:
 
    ```bash
-   git clone https://github.com/Mat-0/TheChels.uk.git
+   git clone https://github.com/Mat-0/uk.thechels.git
    ```
 
 - Navigate into the project directory:
 
    ```bash
-   cd TheChels.uk
+   cd uk.thechels
    ```
 
 - Install the required dependencies:
@@ -116,5 +116,16 @@ There are several optional settings for you to configure. Use the example `_conf
 - Open your browser and go to `http://localhost:4000` to see your site.
 
   <http://localhost:4000>
+
+</details>
+
+### Cloudflare CSP Rules
+
+<details><summary><code>Content-Security-Policy</code></summary>
+  Add the following Content-Security-Policy (CSP) rules to your Cloudflare settings to enhance the security of your site:
+
+```plaintext
+ default-src 'self'; img-src 'self' https:; script-src 'self' <https://static.cloudflareinsights.com> 'unsafe-inline'; connect-src 'self' <https://cloudflareinsights.com>; style-src 'self' 'unsafe-inline'; font-src 'self'; manifest-src 'self';
+```
 
 </details>
