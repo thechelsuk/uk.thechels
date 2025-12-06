@@ -184,6 +184,7 @@ main:focus {
     margin: 0 auto;
     line-height: 0.5em;
     text-align: center;
+    cursor: pointer;
 
     &:hover {
         rotate: 180deg;
