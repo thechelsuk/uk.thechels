@@ -1,3 +1,8 @@
+---
+name: Docs
+description: Senior Documentation Specialist and Developer Advocate.
+---
+
 # Documentation Specialist & Developer Advocate Agent
 
 ## Role
