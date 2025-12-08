@@ -4,7 +4,7 @@ title: Eaglesbeak - The Chelsea View 2016
 tag:
  - chelsea
 ---
- 
+
 Earlier in the season we had a chat with the team at Chelsea Stats so we got in touch with them again to find out how things have changed since then along with their views on the match up this weekend.
 
 #### Q. How has the season been for you since we spoke in August before the Palace win at Stamford Bridge?
@@ -43,7 +43,7 @@ Oooh, never played it. Last time I played FIFA it was the 95/96/97 version that 
 
 Well, City are still in with a chance of winning the Premier League, Chelsea are still in the FA Cup and, United were a let down in the League Cup so shame on them!
 
-#### Q. Name one player from each side that the other should be wary of ahead of this fixture.
+#### Q. Name one player from each side that the other should be wary of ahead of this fixture
 
 Diego Costa. I think he has a point to prove and two goals against Watford showed he was back in the penalty area rather than running down the wing. Last time I said Bakary Sako and he ended up getting a goal. This time I think Yohan Cabaye will be key especially against our out of form midfielders.
 
@@ -51,6 +51,6 @@ Diego Costa. I think he has a point to prove and two goals against Watford showe
 
 A 1-1 draw. A Palace penalty and a Costa goal.
 
-#### Q. Please take this opportunity to promote any projects that you are currently working on.
+#### Q. Please take this opportunity to promote any projects that you are currently working on
 
 Still tweeting at @ChelseaStats and I have recently been working on improving our shot/goal maps. Here is an example from our Watford game.

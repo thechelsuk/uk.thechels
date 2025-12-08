@@ -6,4 +6,4 @@ date: YYYY-MM-DD
 
 ---
 
-content 
+content
