@@ -2,7 +2,7 @@
 layout: pages
 title: now and next
 permalink: /now
-seo: now and next 
+seo: now and next
 
 ---
 
@@ -14,5 +14,4 @@ _Based on the [now](https://sive.rs/now) page idea from [Derek Sivers](https://s
 
 ## Next
 
-- No plans. Living day-to-day. 
-- 
+- No plans. Living day-to-day.

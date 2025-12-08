@@ -29,5 +29,4 @@ One such feature that has been around for a couple years, but which I only just 
     > Advises about risks or negative outcomes of certain actions.
     ```
 
-
 Visit the GitHub docs for [Alerts](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts) to see examples of how these render.
