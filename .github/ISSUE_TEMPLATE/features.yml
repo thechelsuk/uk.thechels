@@ -5,17 +5,17 @@ labels: ["feature", "triage"]
 assignees:
   - Mat-0
 body:
-- type: checkboxes
-  attributes:
-    label: Is there an existing issue for this?
-    description: Please search to see if an issue already exists for the bug you encountered.
-    options:
-    - label: I have searched the existing issues
-      required: true
-- type: textarea
-  id: whats-your-problem
-  attributes:
-    label: What would you like?
-    description: Given I am... When... Then I would expect...
-  validations:
+  - type: checkboxes
+    attributes:
+      label: Is there an existing issue for this?
+      description: Please search to see if an issue already exists for the bug you encountered.
+      options:
+        - label: I have searched the existing issues
+          required: true
+  - type: textarea
+    id: what-is-the-problem
+    attributes:
+      label: What would you like?
+      description: Given I am... When... Then I would expect...
+    validations:
       required: true

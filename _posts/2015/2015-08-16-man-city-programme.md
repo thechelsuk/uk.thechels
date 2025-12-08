@@ -5,6 +5,6 @@ tags:
  - chelsea
 ---
  
- ![match day program 1](https://github.com/mat-0/TheChels.uk/raw/main/images/city-cover.jpg "Cover")
+ ![match day program 1](https://github.com/mat-0/uk.thechels/raw/main/images/city-cover.jpg "Cover")
 
- ![match day program 2](https://github.com/mat-0/TheChels.uk/raw/main/images/city-article.jpg "Article")
+ ![match day program 2](https://github.com/mat-0/uk.thechels/raw/main/images/city-article.jpg "Article")

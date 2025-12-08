@@ -6,7 +6,7 @@ Thank you for using TheChels.uk! This document explains how to get help with the
 
 ### Issue Tracker
 
-The best way to get help is through the [GitHub issue tracker](https://github.com/Mat-0/TheChels.uk/issues). Before opening a new issue:
+The best way to get help is through the [GitHub issue tracker](https://github.com/mat-0/uk.thechels/issues). Before opening a new issue:
 
 1. **Search existing issues** - Check if your question or problem has already been addressed.
 2. **Use the appropriate template** - Select the most relevant issue template for your needs.
@@ -23,14 +23,14 @@ The best way to get help is through the [GitHub issue tracker](https://github.co
 For questions about the project:
 
 1. Check the [README](../README.md) for answers to common questions.
-2. Review existing [issues](https://github.com/Mat-0/TheChels.uk/issues) to see if your question has been answered.
+2. Review existing [issues](https://github.com/mat-0/uk.thechels/issues) to see if your question has been answered.
 3. Open a new issue using the appropriate template if you can't find an answer.
 
 ### Reporting Bugs
 
 If you've found a bug, please:
 
-1. Check the [issue tracker](https://github.com/Mat-0/TheChels.uk/issues) to see if it's already been reported.
+1. Check the [issue tracker](https://github.com/mat-0/uk.thechels/issues) to see if it's already been reported.
 2. If not, open a new issue with a clear description of the problem, steps to reproduce, and your environment details.
 3. Follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) for bug reports.
 
@@ -57,7 +57,7 @@ This is a hobby project maintained by a single owner. While we appreciate all co
 ## Additional Resources
 
 - [Project Website](https://thechels.uk)
-- [GitHub Repository](https://github.com/Mat-0/TheChels.uk)
+- [GitHub Repository](https://github.com/mat-0/uk.thechels)
 - [Funding Options](FUNDING.yml) - Support the project if you find it valuable
 
 Thank you for being part of our community!

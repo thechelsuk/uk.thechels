@@ -9,24 +9,24 @@ due to the likelihood, I will have an inconsistent and irregular cadence for pos
 
 <details><summary><code>Quality Control</code></summary>
 
-  [![Run tests](https://github.com/Mat-0/TheChels.uk/actions/workflows/python-ci.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/python-ci.yml)
-  [![CodeQL](https://github.com/mat-0/TheChels.uk/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/mat-0/TheChels.uk/actions/workflows/codeql-analysis.yml)
-  [![Lighthouse](https://github.com/Mat-0/TheChels.uk/actions/workflows/lighthouse.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/lighthouse.yml)
-  [![Link Checker](https://github.com/Mat-0/TheChels.uk/actions/workflows/link-checker.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/link-checker.yml)
-  [![Linter](https://github.com/Mat-0/TheChels.uk/actions/workflows/linter.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/linter.yml)
-  [![Clear Cache](https://github.com/Mat-0/TheChels.uk/actions/workflows/clear-cache.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/clear-cache.yml)
-  [![Pages](https://github.com/Mat-0/TheChels.uk/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/pages/pages-build-deployment)
+  [![Run tests](https://github.com/mat-0/uk.thechels/actions/workflows/python-ci.yml/badge.svg)](https://github.com/mat-0/uk.thechels/actions/workflows/python-ci.yml)
+  [![CodeQL](https://github.com/mat-0/uk.thechels/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/mat-0/uk.thechels/actions/workflows/codeql-analysis.yml)
+  [![Lighthouse](https://github.com/mat-0/uk.thechels/actions/workflows/lighthouse.yml/badge.svg)](https://github.com/mat-0/uk.thechels/actions/workflows/lighthouse.yml)
+  [![Link Checker](https://github.com/mat-0/uk.thechels/actions/workflows/link-checker.yml/badge.svg)](https://github.com/mat-0/uk.thechels/actions/workflows/link-checker.yml)
+  [![Linter](https://github.com/mat-0/uk.thechels/actions/workflows/linter.yml/badge.svg)](https://github.com/mat-0/uk.thechels/actions/workflows/linter.yml)
+  [![Clear Cache](https://github.com/mat-0/uk.thechels/actions/workflows/clear-cache.yml/badge.svg)](https://github.com/mat-0/uk.thechels/actions/workflows/clear-cache.yml)
+  [![Pages](https://github.com/mat-0/uk.thechels/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/mat-0/uk.thechels/actions/workflows/pages/pages-build-deployment)
 </details>
 
 <details><summary><code>Content Management</code></summary>
 
-  [![Add Book](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-book.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-book.yml)
-  [![Add Film](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-film.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-film.yml)
-  [![Add Offers](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-offers.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-offers.yml)
-  [![Add Post](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-post.yml/badge.svg?event=issues)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-post.yml)
-  [![Add Podcast](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-podcast.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-podcast.yml)
-  [![Add Quotes](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-quotes.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-quotes.yml)
-  [![Add Stock](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-stock.yml/badge.svg)](https://github.com/Mat-0/TheChels.uk/actions/workflows/add-stock.yml)
+  [![Add Book](https://github.com/mat-0/uk.thechels/actions/workflows/add-book.yml/badge.svg)](https://github.com/mat-0/uk.thechels/actions/workflows/add-book.yml)
+  [![Add Film](https://github.com/mat-0/uk.thechels/actions/workflows/add-film.yml/badge.svg)](https://github.com/mat-0/uk.thechels/actions/workflows/add-film.yml)
+  [![Add Offers](https://github.com/mat-0/uk.thechels/actions/workflows/add-offers.yml/badge.svg)](https://github.com/mat-0/uk.thechels/actions/workflows/add-offers.yml)
+  [![Add Post](https://github.com/mat-0/uk.thechels/actions/workflows/add-post.yml/badge.svg?event=issues)](https://github.com/mat-0/uk.thechels/actions/workflows/add-post.yml)
+  [![Add Podcast](https://github.com/mat-0/uk.thechels/actions/workflows/add-podcast.yml/badge.svg)](https://github.com/mat-0/uk.thechels/actions/workflows/add-podcast.yml)
+  [![Add Quotes](https://github.com/mat-0/uk.thechels/actions/workflows/add-quotes.yml/badge.svg)](https://github.com/mat-0/uk.thechels/actions/workflows/add-quotes.yml)
+  [![Add Stock](https://github.com/mat-0/uk.thechels/actions/workflows/add-stock.yml/badge.svg)](https://github.com/mat-0/uk.thechels/actions/workflows/add-stock.yml)
 </details>
 
 ## Configuration
@@ -92,7 +92,7 @@ There are several optional settings for you to configure. Use the example `_conf
 - Clone the repository:
 
    ```bash
-   git clone https://github.com/Mat-0/uk.thechels.git
+   git clone https://github.com/mat-0/uk.thechels.git
    ```
 
 - Navigate into the project directory:

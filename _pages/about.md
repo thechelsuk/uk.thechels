@@ -13,7 +13,7 @@ Has a track record of increasing team morale and motivation through a holistic p
 
 Holds an HND in Business Information Systems and an HNC in Business IT in Computing from Solent University. Was one of two people in his year to study French and Spanish at GCSE. Consumes an unhealthy amount of football and podcasts, having seen {{site.data.teams | size }} teams play live and with {{ site.data.podcasts | size }} active podcast subscriptions.
 
-[Have a podcast recommendation?](https://github.com/Mat-0/uk.thechels/issues/new?assignees=Mat-0=podcast&template=podcast.md)
+[Have a podcast recommendation?](https://github.com/mat-0/uk.thechels/issues/new?assignees=mat-0=podcast&template=podcast.md)
 
 ## Colophon
 

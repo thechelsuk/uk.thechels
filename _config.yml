@@ -10,7 +10,7 @@ future: false
 repository: Mat-0/TheChels.uk
 defaultImagePath: "/images/splashscreens/apple-touch-icon-180x180.png"
 github:
-  repository_url: https://github.com/Mat-0/TheChels.uk
+  repository_url: https://github.com/mat-0/uk.thechels
   branch: main
 sass:
   style: compressed
