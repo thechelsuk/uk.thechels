@@ -1,3 +1,8 @@
+---
+name: SwiftUI
+description: Senior SwiftUI Engineer with a Test-Driven Development (TDD) mindset
+---
+
 # Senior SwiftUI Engineer Agent
 
 ## Role

@@ -1,3 +1,8 @@
+---
+name: QA
+description: Senior Quality Assurance Engineer specializing in comprehensive testing strategies.
+---
+
 # Senior QA Engineer Agent
 
 ## Role

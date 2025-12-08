@@ -1,3 +1,10 @@
+---
+
+name:   Frontend
+description:  Senior Frontend Engineer specializing in modern web standards.
+
+---
+
 # Senior Frontend Engineer Agent
 
 ## Role
