@@ -20,8 +20,7 @@ Why this line-up
 
 #### Blogger: @ChelseaStats
 
-![Image of ChelseaStats Team](https://github.com/Mat-0/TheChels.uk/blob/main/images/chelseastatsxi3.jpg)
-
+![Image of ChelseaStats Team](https://github.com/mat-0/uk.thechels/blob/main/images/chelseastatsxi3.jpg)
 
 (4-2-3-1)
 "The team picks itself really. It’s a home game, so means Cesc Fabregas dropping into the deeper midfield spot rather than as a No.10, He’s likely to move forward when we have a top-four opponent or difficult away trip and we need the security behind him.
@@ -36,13 +35,11 @@ Why this line-up
 (4-2-3-1)
 Chelsea's first XI is undoubtedly the simplest to predict. Key for Jose Mourinho is managing his squad players, having waved goodbye to excellent understudies in Filipe Luis, Petr Cech, Andre Schurrle and Mohamed Salah over the past six months. Given the state of Diego Costa's hamstrings, it's vital he galvanises Loic Remy and Radamel Falcao.
 
-
-PREVIEW 
+PREVIEW
 
 Chelsea vs Swansea: Will it be Diego or Radamel leading the Blues' line?
 As last season progressed, the ever-cautious Jose Mourinho preferred an extra body alongside Nemanja Matic and Cesc Fabregas. Perhaps surprisingly, Matic was dribbled past more often per game than anyone else in the league, with Fabregas close behind. Attack is the best form of defence, however, and he should resist the temptation to continue sacrificing a creative attacking midfielder for a destroyer (Kurt Zouma) or athlete (Ramires).
- 
-Elsewhere, Juan Cuadrado should replace Willian. The Brazilian is a Mourinho favourite for his hard work, but Cuadrado isn't workshy and will also offer more creative output than Willian – six goals and four assists in two full league seasons isn't enough, regardless of his role.
 
+Elsewhere, Juan Cuadrado should replace Willian. The Brazilian is a Mourinho favourite for his hard work, but Cuadrado isn't workshy and will also offer more creative output than Willian – six goals and four assists in two full league seasons isn't enough, regardless of his role.
 
 Read more at [FourFourTwo](http://www.fourfourtwo.com/features/how-chelsea-should-line-against-swansea-fft-asks-experts)

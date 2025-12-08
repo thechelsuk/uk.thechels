@@ -1,10 +1,10 @@
 contact_links:
   - name: Contributing
-    url: https://github.com/Mat-0/thechels.uk/blob/main/.github/CONTRIBUTING.md
+    url: https://github.com/mat-0/uk.thechels/blob/main/.github/CONTRIBUTING.md
     about: Please read about contributing.
   - name: Code of conduct
-    url: https://github.com/Mat-0/thechels.uk/blob/main/.github/CODE_OF_CONDUCT.md
+    url: https://github.com/mat-0/uk.thechels/blob/main/.github/CODE_OF_CONDUCT.md
     about: Please read the code of conduct.
   - name: Commit
-    url: https://github.com/Mat-0/thechels.uk/blob/main/.github/COMMIT.md
+    url: https://github.com/mat-0/uk.thechels/blob/main/.github/COMMIT.md
     about: Please read the 7 rules for a good commit.

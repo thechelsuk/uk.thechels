@@ -7,7 +7,7 @@ The following guidelines for contribution should be followed if you want to subm
 ## How to prepare
 
 * You need a [GitHub account](https://github.com/signup/free)
-* Submit an [issue ticket](https://github.com/Mat-0/TheChels.uk/issues/new/choose) for your issue if there is not one already.
+* Submit an [issue ticket](https://github.com/mat-0/uk.thechels/issues/new/choose) for your issue if there is not one already.
 * Describe the issue and include steps to reproduce if it's a bug.
 * Ensure to mention the earliest version that you know is affected.
 
@@ -60,7 +60,7 @@ Example:
 ## Feature requests
 
 Feature requests are welcome. But take a moment to find out whether your idea
-fits with the scope and aims of the project. It's up to *you* to make a strong
+fits with the scope and aims of the project. It's up to _you_ to make a strong
 case to convince the project's developers of the merits of this feature. Please
 provide as much detail and context as possible.
 

@@ -1,7 +1,7 @@
 ---
 name: Podcast
 about: What I should be listening to next?. Please keep title to the name of the show, and the issue body for a link and the reasons why. Thanks
-title: 
+title:
 labels: 'podcast'
 assignees: 'Mat-0'
 
@@ -9,6 +9,6 @@ assignees: 'Mat-0'
 
 Name:
 Link:
-Reason: 
+Reason:
 
 Thank you
