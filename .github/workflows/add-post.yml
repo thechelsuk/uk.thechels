@@ -40,7 +40,7 @@ jobs:
           file="${POST_DATE}-${POST_FILE}.md"
           echo -e "${POST_FM}${POST_BODY}" >> "$file"
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         with:
           committer: GitHub Action <action@github.com>
           branch: "new-config-from-issue=${{ github.event.issue.number }}"
