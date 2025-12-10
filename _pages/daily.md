@@ -7,97 +7,75 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 09 December 2025
+## On Wednesday, 10 December 2025
 
-- The average temperature today is 12.42˚C,
-- With highs of 12.76˚C and lows of 11.51˚C,
-- It may feel like 12.12˚C with light rain
-- The wind speed is 10.28m/s and visibility is 10000m
-- The pressure is 1000hPa and humidity is 92%
-- The sun will rise at 08:03 and set at 15:57
+- The average temperature today is 10.48˚C,
+- With highs of 11.1˚C and lows of 9.6˚C,
+- It may feel like 9.7˚C with broken clouds
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 1009hPa and humidity is 81%
+- The sun will rise at 08:05 and set at 15:57
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
-- Unable to fetch threat level data.
+- The current threat level is <span class="highlighter">SUBSTANTIAL</span>
+- It has been 645 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Provide purpose, mastery and autonomy.
+> Be humble.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Tottenham Hotspur U19 v Slavia Prague U19
-- Inter Milan U19 v Liverpool U19
-- Manchester United U18 v Peterborough United U18
-- Aldershot Town v West Ham United U21
-- Blackburn Rovers v Oxford United
-- Charlton Athletic v Middlesbrough
-- Preston North End v Coventry City
-- Sheffield United v Norwich City
-- Southampton v West Brom
-- Swansea City v Portsmouth
-- Watford v Sheffield Wednesday
-- Colchester United v West Ham United U21
-- Doncaster Rovers v Stockport County
-- Exeter City v AFC Wimbledon
-- Leyton Orient v Luton Town
-- Lincoln City v Barnsley
-- Mansfield Town v Bolton Wanderers
-- Northampton Town v Huddersfield Town
-- Port Vale v Bradford City
-- Reading v Peterborough United
-- Stevenage v Cardiff City
-- Wycombe Wanderers v Plymouth Argyle
-- Barnet v Bristol Rovers
-- Barrow AFC v Tranmere Rovers
-- Bromley v Crawley Town
-- Cambridge United v Chesterfield
-- Fleetwood Town v Salford City
-- Harrogate Town v Accrington Stanley
-- Notts County v MK Dons
-- Shrewsbury Town v Grimsby Town
-- Swindon Town v Cheltenham Town
-- QPR v Birmingham City
-- Atalanta v Chelsea
-- Inter Milan v Liverpool
-- Tottenham Hotspur v Slavia Prague
-- Arsenal Women v FC Twente Women
+- Club Brugge U19 v Arsenal U19
+- Real Madrid U19 v Manchester City U19
+- Bristol City v Leicester City
+- Derby County v Millwall
+- Ipswich Town v Stoke City
+- Rotherham United v Blackpool
+- Crewe Alexandra v Newport County
+- Oldham Athletic v Walsall
+- Carlisle United v Woking
+- Hull City v Wrexham
+- Bayer Leverkusen v Newcastle United
+- Club Brugge v Arsenal
+- Real Madrid v Manchester City
+- Chelsea Women v Roma Women
+- Manchester United Women v Lyon Women
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 123.87999725341797 
+- VWRL.L : 124.12000274658203 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Atalanta 2-1 Chelsea, Champions League: Post-match reaction, ratings
+- Atalanta vs. Chelsea, Champions League: Lineups &#038; Game Thread
+- Chelsea fans’ preferred lineup against Atalanta: Caicedo plus ten
+- Atalanta vs. Chelsea, Champions League: Preview, team news, how to watch
+- Chelsea drawn against Charlton Athletic in FA Cup third round
+- The Daily Hilario: Tuesday
 - How should Moisés Caicedo and ten others line up against Atalanta for Chelsea?
 - The Daily Hilario: Monday
 - AFC Bournemouth 0-0 Chelsea, Player Ratings: Bob saves a point
 - Chelsea FCW 0-1 Everton FCW, Women’s Super League: Post-match reaction
-- Chelsea FCW vs. Everton FCW, Women’s Super League: Lineups &#038; Game Thread
-- Chelsea FCW vs. Everton FCW, Women’s Super League: Preview, team news, how to watch
-- The Daily Hilario: Sunday
-- AFC Bournemouth 0-0 Chelsea, Premier League: Post-match reaction, ratings
-- AFC Bournemouth vs. Chelsea, Premier League: Lineups &#038; Game Thread
-- Chelsea fans’ preferred lineup against Bournemouth: No striker needed?
 
 <!-- news_marker ends -->
 
@@ -105,14 +83,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Inside Paramount’s $108bn hostile bid for Warner Bros
-- Paramount’s WBD bid relegates Netflix to a supporting role
-- Russia’s hybrid warfare puts Europe to the test
-- Why Britain doesn’t have enough dentists
-- The significance of the next Fed chair choice
-- City of London explores outside investment for housing projects
-- Revolut offers former staff chance to cash out at 30% discount
-- Boaz Weinstein’s $2bn flagship hedge fund sinks amid buoyant markets
+- EU races to bypass Orbán on Russian assets before summit
+- Trump gives Zelenskyy ‘days’ to respond to peace proposal
+- Trump’s immigration data dragnet
+- Netflix vs Paramount: politics could decide battle for Warner Bros
+- Why the world should worry about stablecoins
+- Trump to pit Hassett against trio of Fed chair finalists
+- Trump tries to tackle voters’ cost-of-living concerns at Pennsylvania rally
+- Robert Tchenguiz hopes Truss-fronted club will help pay off debt to Reubens
 
 <!-- ftnews_marker ends -->
 
@@ -120,40 +98,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > imbroglio - noun: 1. A difficult, confusing, or embarrassing situation. 2. A confused heap or tangle.
+ > vaticinate - verb tr., intr.: To prophesy or predict.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Although self-organizing is a good term, it has, unfortunately, become confused with anarchy. - Jim Highsmith, Agile Author
+> To be uncertain is to be uncomfortable, but to be certain is to be ridiculous. - Chinese Proverb
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Disconnect from desire
+> Infinitesimal gradations
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Doom (Rated: 3)
-- Released in 2005
-- Summary: Space Marines are sent to investigate strange events at a research facility on Mars but find themselves at the mercy of genetically enhanced killing machines.
+- Red Notice (Rated: 3)
+- Released in 2021
+- Summary: An Interpol agent successfully tracks down the world's most wanted art thief with help from a rival thief. But nothing is as it seems as a series of double-crosses ensues.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 354, using [1, 8, 10, 25, 75, 100]
-- Answer: 5 solutions.
+- Target: 469, using [2, 2, 6, 6, 10, 75]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 8 - 75 ) x 10 + 25 - 1
+  Solution: ( 75 - 6 - 2 ) x ( 10 - 6 / 2 )
 
    </details>
 
