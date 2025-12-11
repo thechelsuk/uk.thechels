@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 10 December 2025
+## On Thursday, 11 December 2025
 
-- The average temperature today is 10.48˚C,
-- With highs of 11.1˚C and lows of 9.6˚C,
-- It may feel like 9.7˚C with broken clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1009hPa and humidity is 81%
-- The sun will rise at 08:05 and set at 15:57
+- The average temperature today is 8.59˚C,
+- With highs of 9.43˚C and lows of 8.15˚C,
+- It may feel like 6.05˚C with broken clouds
+- The wind speed is 4.47m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 88%
+- The sun will rise at 08:06 and set at 15:57
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 645 days since the last change (2024-03-05)
+- It has been 646 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,50 +32,39 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be humble.
+> Inspire others
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Club Brugge U19 v Arsenal U19
-- Real Madrid U19 v Manchester City U19
-- Bristol City v Leicester City
-- Derby County v Millwall
-- Ipswich Town v Stoke City
-- Rotherham United v Blackpool
-- Crewe Alexandra v Newport County
-- Oldham Athletic v Walsall
-- Carlisle United v Woking
-- Hull City v Wrexham
-- Bayer Leverkusen v Newcastle United
-- Club Brugge v Arsenal
-- Real Madrid v Manchester City
-- Chelsea Women v Roma Women
-- Manchester United Women v Lyon Women
+- FC Utrecht v Nottingham Forest
+- Aston Villa Women v Liverpool Women
+- Shelbourne v Crystal Palace
+- FC Basel v Aston Villa
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 124.12000274658203 
+- VWRL.L : 123.83999633789062 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea FCW 6-0 AS Roma Femminile, UEFA Women’s Champions League: Post-match reaction
+- Chelsea FCW vs. AS Roma Femminile, UEFA Women’s Champions League: Confirmed lineups; how to watch
+- Chelsea FCW vs. AS Roma Femminile, UEFA Women’s Champions League: Preview, team news, how to watch
+- Maresca: ‘We lost a little bit the control of the game’
+- The Daily Hilario: Wednesday
 - Atalanta 2-1 Chelsea, Champions League: Post-match reaction, ratings
 - Atalanta vs. Chelsea, Champions League: Lineups &#038; Game Thread
 - Chelsea fans’ preferred lineup against Atalanta: Caicedo plus ten
 - Atalanta vs. Chelsea, Champions League: Preview, team news, how to watch
 - Chelsea drawn against Charlton Athletic in FA Cup third round
-- The Daily Hilario: Tuesday
-- How should Moisés Caicedo and ten others line up against Atalanta for Chelsea?
-- The Daily Hilario: Monday
-- AFC Bournemouth 0-0 Chelsea, Player Ratings: Bob saves a point
-- Chelsea FCW 0-1 Everton FCW, Women’s Super League: Post-match reaction
 
 <!-- news_marker ends -->
 
@@ -83,14 +72,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- EU races to bypass Orbán on Russian assets before summit
-- Trump gives Zelenskyy ‘days’ to respond to peace proposal
-- Trump’s immigration data dragnet
-- Netflix vs Paramount: politics could decide battle for Warner Bros
-- Why the world should worry about stablecoins
-- Trump to pit Hassett against trio of Fed chair finalists
-- Trump tries to tackle voters’ cost-of-living concerns at Pennsylvania rally
-- Robert Tchenguiz hopes Truss-fronted club will help pay off debt to Reubens
+- Fed cuts rates to three-year low after fractious meeting
+- US central bank to launch $40bn debt-buying scheme after money market strains
+- Inside the failed green revolutions at BP and Shell
+- Paramount’s Warner Bros bid draws Gulf investors into rare alliance
+- Ukraine’s ‘fortress belt’ that Trump wants to trade for peace
+- US seizes oil tanker off coast of Venezuela, says Trump
+- Venezuela opposition leader appears in Oslo for Nobel award
+- Carmakers sound warning over EU’s ‘very dangerous’ local sourcing rules
 
 <!-- ftnews_marker ends -->
 
@@ -98,40 +87,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > vaticinate - verb tr., intr.: To prophesy or predict.
+ > janiform - adjective: Having two faces, sides, or contrasting aspects.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> To be uncertain is to be uncomfortable, but to be certain is to be ridiculous. - Chinese Proverb
+> Encourage use of 'yes, and' (adding) rather 'yes, but' (ending/blocking). - Geoff Watts
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Infinitesimal gradations
+> Balance the consistency principle with the inconsistency principle
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Red Notice (Rated: 3)
-- Released in 2021
-- Summary: An Interpol agent successfully tracks down the world's most wanted art thief with help from a rival thief. But nothing is as it seems as a series of double-crosses ensues.
+- The Mean Machine (Rated: 8)
+- Released in 2001
+- Summary: After 2 years in prison Ricco is released and on a path of vengeance. His father, the head of a mafia family, is gunned down by the ambitious Don Vito and now Ricco is looking to settle the score.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 469, using [2, 2, 6, 6, 10, 75]
-- Answer: 3 solutions.
+- Target: 682, using [1, 4, 8, 10, 75, 100]
+- Answer: 11 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 - 6 - 2 ) x ( 10 - 6 / 2 )
+  Solution: ( 100 + 75 + 1 - 8 ) x 4 + 10
 
    </details>
 
