@@ -23,4 +23,4 @@ title: Four Stages of Competence
 > The individual has had so much practice with a skill that it has become "second nature" and can be performed easily. As a result, the skill can be performed while executing another task. The individual may be able to teach it to others, depending upon how and when it was learned.
 
 
-!["Four Stages of Incompetence"](images/four-stages-of-competence.png)
+!["Four Stages of Incompetence"](/images/four-stages-of-competence.png)
