@@ -142,7 +142,7 @@ Like traffic, work does not fit. Work flows.
 
 When we don't acknowledge or respect our work's flow we fall prey to multitasking. We rush through one thing to get next, striving for quantity (productivity) when we know quality (effectiveness) will surely suffer.
 
-A 2009 [Stanford University study](http://news.stanford.edu/news/2009/august24/multitask-research-study-082409.html) dispels the myth that multitaskers have mental edge over those who focus on a single task, ultimately deeming multitasking counterproductive. High multitaskers optimise for capacity not for throughput.
+A 2009 [Stanford University study](https://news.stanford.edu/news/2009/august24/multitask-research-study-082409.html) dispels the myth that multitaskers have mental edge over those who focus on a single task, ultimately deeming multitasking counterproductive. High multitaskers optimise for capacity not for throughput.
 
 We want _throughput_. Throughput is a flowbased system. It measures success by the amount of quality work flowing from READY to DONE over time, not just the volume of work. The rate which work moves from READY to DONE is our throughput.
 

@@ -2,7 +2,7 @@
 
 layout: post
 date: 2025-04-05
-link: http://www.defmacro.org/2013/07/23/startup-lessons.html
+link: https://www.defmacro.org/2013/07/23/startup-lessons.html
 title:  57 startup lessons
 cited: Slava Akhmechet
 ---

@@ -42,4 +42,4 @@ As last season progressed, the ever-cautious Jose Mourinho preferred an extra bo
 
 Elsewhere, Juan Cuadrado should replace Willian. The Brazilian is a Mourinho favourite for his hard work, but Cuadrado isn't workshy and will also offer more creative output than Willian – six goals and four assists in two full league seasons isn't enough, regardless of his role.
 
-Read more at [FourFourTwo](http://www.fourfourtwo.com/features/how-chelsea-should-line-against-swansea-fft-asks-experts)
+Read more at [FourFourTwo](https://www.fourfourtwo.com/features/how-chelsea-should-line-against-swansea-fft-asks-experts)

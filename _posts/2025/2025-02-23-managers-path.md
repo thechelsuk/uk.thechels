@@ -964,7 +964,7 @@ The important thing for leaders to be willing to do in those early days is to pi
 
 Sometimes companies decide to limit the decisions themselves, as in organisation that forgoes titles. Deciding not to decide right now is a popular option for new companies, because it really doesn't matter at the scale of a few people.
 
-**Pretending to lack structure tends to create hidden power structures.** In [The Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm) Jo Freeman describes a set of circumstances in which the unstructured group can work:
+**Pretending to lack structure tends to create hidden power structures.** In [The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm) Jo Freeman describes a set of circumstances in which the unstructured group can work:
 
 - It is task oriented. It is the task that basically structures the group.
 - It is relatively small and homogeneous. Homogeneity is necessary to insure that participants have a "common language" for interaction.

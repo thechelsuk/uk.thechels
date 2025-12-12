@@ -2,7 +2,7 @@
 
 layout: post
 date: 2025-04-05
-link: http://www.defmacro.org/2014/10/03/engman.html
+link: https://www.defmacro.org/2014/10/03/engman.html
 title:  44 engineering management lessons
 cited: Slava Akhmechet
 ---

@@ -30,7 +30,7 @@ In a cost of living and energy bill crisis, the following offers, valid as of No
 
 - [Join **Smarty** Mobile and choose a £10 Gift Card](https://i.smarty.co.uk/CSj6iKx) - Based on the Three network this firm offer much cheaper prices.
 - [Switch to **Octopus Energy** for £50 credit](https://bit.ly/3oD1nnS) The best energy firm hands down.
-- [Join **Virgin** Media broadband, phone line or 02 Volt and get £50](http://aklam.io/babpdz)
+- [Join **Virgin** Media broadband, phone line or 02 Volt and get £50](https://aklam.io/babpdz)
 - [Get £5 off your first order at **Grüum** skincare](https://www.gruum.com/raf/mat-benfield)
 - [Get a £10 Sign Up Bonus at **TopCashBack**](https://www.topcashback.co.uk/ref/matbee1983) use some no-purchase offers and earn £10 to cash out quickly, and continue to get discounts on everyday spending.
 - [Join OhMyDosh! to earn cash, sign up, complete profile and get £3](https://ohmydosh.co.uk/validate/refer_a_friend/welcome/1056559?keyword=referred&epi=OMD-CO-218-1056559-39967382-11906480) there are a whole bunch of Amazon Prime Video free trails that will get you over the £10 needed to cash out.
