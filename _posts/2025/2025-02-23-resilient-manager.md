@@ -341,7 +341,7 @@ When you need ot deliver a critical new message, it's a good idea to prepare a _
 
 Julia Grace, director of engineering at Slack, created a simple communications plan template
 
-```
+```text
 Header: author, date, status (e.g. draft)
 
 Background:
@@ -457,7 +457,7 @@ There is a range of styles for communicating the same message. For example, you 
 
 - **Red**, a bit of anger, frustration, edge, or urgency.
 - **Orange**, cautious, hesitant, tiptoes around topics
-- **Yellow**, lighthearted, effervescent, crack jokes
+- **Yellow**, light-hearted, effervescent, crack jokes
 - **Green**, in tune with other's feelings, loving, high emotional intelligence
 - **Blue**, calm, cool, collected, steady
 - **Purple**, creative, flowy, great at storytelling
@@ -548,7 +548,7 @@ It's not just okay, but actually _important_ to hand off bigger, scarier project
 - Tell them that you expect this to be a stretch for them, and that's the point. You'll trust them to raise a flag if they are stuck
 - Use a RACI. Tell your teammate that they are the "Responsible" role in the RACI matrix for this project, and you are "Consulted" and "Accountable".
 
-Some folks may be wary of giving away your Legos, by what most don't realise up front is that by doing so, you're creating space to pick up new ones.
+Some folks may be wary of giving away your Lego, by what most don't realise up front is that by doing so, you're creating space to pick up new ones.
 
 Be there to lend support when your teammate needs it, by asking coaching questions or reflecting back what you're hearing. Warning about pitfalls, or helping them get unstuck. Stay in coaching mode when delegating.
 
