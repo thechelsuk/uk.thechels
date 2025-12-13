@@ -4,7 +4,7 @@ layout: post
 title: "The Manager's Path - A Guide for Tech Leader"
 seo: "A Guide for Tech Leaders Navigating Growth and Change"
 date: 2025-02-23
-tags: 
+tags:
  - book
  - manager
 
@@ -430,7 +430,7 @@ Simply not hire one. Getting rid of brilliant jerks takes a level of management 
 
 Simply and openly refuse to tolerate bad behaviours. One of the few instances where "praise in public, criticise in private" is upended. You don't want your culture to mimic, you need to say something in the moment to make the standard clear. If you seem emotional, it may undermine you. **Your first goal is to protect your team as a whole, the second is to protect each individual on the team, and your last priority is protecting yourself.**
 
-#### The noncommunicator
+#### The non-communicator
 
 The person who hides information from you, from his teammates, from his product manager.
 
@@ -470,7 +470,7 @@ Understanding details across a couple of teams probably means one important thin
 >
 > They are responsible for creating and growing the next generation of leadership and management talents, and they are obsessed with creating high-functioning, engaged, and motivated organisations.
 >
-> They both create a strategic and tactical tech roadmap that tackles business needs, efficiencies and revenue, and fundamental technology innovation. They are strong communicators being able to explain technical concepts to nontechnical partners.
+> They both create a strategic and tactical tech roadmap that tackles business needs, efficiencies and revenue, and fundamental technology innovation. They are strong communicators being able to explain technical concepts to non-technical partners.
 
 It is very difficult for a person responsible for hands-on management of multiple teams to write code. Debugging and production support are also valuable. You might be more helpful doing pair programming, or fixing minor bugs or features.
 
@@ -543,7 +543,7 @@ Delegation is a process that starts slow but turns into the essential element of
 
 ### Technical elements beyond code
 
-Assuming that the job at this level becomes essentially nontechnical is a mistake. You now need to develop an eye for technical health signals for the overall team,
+Assuming that the job at this level becomes essentially non-technical is a mistake. You now need to develop an eye for technical health signals for the overall team,
 
 As the popular management book _First, break all the rules._
 
@@ -778,7 +778,7 @@ Teams may even be disbanded or moved around in ways you don't understand or agre
 
 - **Oversee technical investment**. You're accountable for making sure the team is placing its technical best in the right places. You can see where the ares of greatest need or opportunity lie.
 - **Ask informed questions**. Having accountability doesn't mean that you personally do the research to find potential investments. You guide these investments by asking questions. You need to know enough about the work to sniff our misguided efforts and evaluate proposed investments.
-- **Analise and explain engineering and business tradeoffs**. Understanding the business and customer goals, you offer guidance as to which technical projects can achieve those goals within reasonable time frames.
+- **Analyse and explain engineering and business trade-offs**. Understanding the business and customer goals, you offer guidance as to which technical projects can achieve those goals within reasonable time frames.
 - **Make specific requests**. You still need to have enough understanding of the technology in your organisation to make specific requests without distracting the senior engineers with questions. **Managers who don't stay technical enough relay these questions on the team, and then relay the team's response back up to management. This is not value-add role.**
 - **Use your experience as a gut check**. Rely on your instincts to guide where you spend your time and attention. So, how should you invest your time to stay technically relevant?
   - **Read code**. Looking over code reviews and pull requests can give you insight into changes that are happening.
@@ -878,9 +878,9 @@ You'll need to excel at communicating sensitive information to large groups
 - **Do be honest about the likely outcomes.** Being forthright with people will help them trust you and tolerate unhappy news well.
 - **Do think about how you would like to be told.**
 
-> #### I have a nontechnical boss
+> #### I have a non-technical boss
 >
-> Reporting to a nontechnical manager can be a total culture clash.
+> Reporting to a non-technical manager can be a total culture clash.
 >
 > - Don't hide information behind jargon, and be careful with details
 > - Expect that you will need to run your 1-1s with your new boss, so come prepared with a list of topics.
@@ -939,7 +939,7 @@ A way of exploring the True North in technology is by looking through the lenses
 - Having known bugs and issues.
 - Being unable to tolerate high load.
 - Losing data.
-- Putting out code that is undertested.
+- Putting out code that is under-tested.
 - Having slow performance.
 
 True North helps us understand that all these issues must be carefully considered. Just because these rules have exceptions doesn't mean we forget that they exist. True North is the guiding instinct that we as leaders have developed over time
@@ -964,7 +964,7 @@ The important thing for leaders to be willing to do in those early days is to pi
 
 Sometimes companies decide to limit the decisions themselves, as in organisation that forgoes titles. Deciding not to decide right now is a popular option for new companies, because it really doesn't matter at the scale of a few people.
 
-**Pretending to lack structure tends to create hidden power structures.** In [The Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm) Jo Freeman describes a set of circumstances in which the unstructured group can work:
+**Pretending to lack structure tends to create hidden power structures.** In [The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm) Jo Freeman describes a set of circumstances in which the unstructured group can work:
 
 - It is task oriented. It is the task that basically structures the group.
 - It is relatively small and homogeneous. Homogeneity is necessary to insure that participants have a "common language" for interaction.

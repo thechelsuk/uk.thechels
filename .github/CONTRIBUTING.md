@@ -31,7 +31,7 @@ Guidelines for bug reports:
 2. **Check if the issue has been fixed/closed** &mdash; but you can still reproduce it - raise a new issue include the url to the old issue. re-opened issues will not be accepted.
 
 3. **Isolate the problem** &mdash; create a [reduced test
-   case](http://css-tricks.com/reduced-test-cases/) and a live example.
+   case](https://css-tricks.com/reduced-test-cases/) and a live example.
 
 A good bug report shouldn't leave others needing to chase you up for more
 information. Please try to be as detailed as possible in your report. What is
@@ -76,4 +76,4 @@ For changes of a trivial nature to comments and documentation, start the first l
 
 ## Additional Resources
 
-* [General GitHub documentation](http://help.github.com/)
+* [General GitHub documentation](https://support.github.com/request/landing)
