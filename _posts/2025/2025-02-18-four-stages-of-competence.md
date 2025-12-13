@@ -14,7 +14,7 @@ title: Four Stages of Competence
 
 > Though the individual does not understand or know how to do something, they recognize the deficit, as well as the value of a new skill in addressing the deficit. The making of mistakes can be integral to the learning process at this stage.
 
- - Conscious Competence
+- Conscious Competence
 
 > The individual understands or knows how to do something. However, demonstrating the skill or knowledge requires concentration. It may be broken down into steps, and there is heavy conscious involvement in executing the new skill.
 
@@ -22,5 +22,4 @@ title: Four Stages of Competence
 
 > The individual has had so much practice with a skill that it has become "second nature" and can be performed easily. As a result, the skill can be performed while executing another task. The individual may be able to teach it to others, depending upon how and when it was learned.
 
-
-!["Four Stages of Incompetence"](images/four-stages-of-competence.png)
+!["Four Stages of Incompetence"](/images/four-stages-of-competence.png)
