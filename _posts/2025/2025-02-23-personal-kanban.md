@@ -28,9 +28,10 @@ Tools should give you control and not take anything.
 You need a way to actually _see_ the tasks you're expected to perform so you can do the right work at the right time. Personal Kanban is a visual representation of work that makes the conceptual tangible. It shows what needs to be done, what is complete, what is being delayed, and what is going on at this precise moment.
 
 Visualisation tools:
-* **Lists**: Offer zero context for work, allow no reorganisation or repriorisation, and obscure vital priorities beneath piles of marginally useful work.
-* **Mind map**: It's an improvement versus lists. It doesn't help to complete tasks or distinguish between work shared by multiple people. Its greatest limitation is that the information conveyed is not obvious.
-* **Kanban**: It works great for software development. Its focus on team work increases productivity and effectiveness. It shows the flow of work, limit the work-in-progress, and it captures all tasks, not just those directly related to software production. It is flexible enough to relate extremely variable or even chaotic workload.
+
+- **Lists**: Offer zero context for work, allow no reorganisation or repriorisation, and obscure vital priorities beneath piles of marginally useful work.
+- **Mind map**: It's an improvement versus lists. It doesn't help to complete tasks or distinguish between work shared by multiple people. Its greatest limitation is that the information conveyed is not obvious.
+- **Kanban**: It works great for software development. Its focus on team work increases productivity and effectiveness. It shows the flow of work, limit the work-in-progress, and it captures all tasks, not just those directly related to software production. It is flexible enough to relate extremely variable or even chaotic workload.
 
 ### Rules
 
@@ -53,12 +54,11 @@ Lean is both a philosophy and a discipline which, at its core, increases access 
 
 _**Kaizen**_ is a state of continuous improvement where people naturally look for ways to improve poorly performing practices.
 
-When we visualise our work, we adopt a kaizen mindset; we are weened
-from the comfort of complacency and actively seek out opportunities for improvement.
+When we visualise our work, we adopt a kaizen mindset; we are weaned from the comfort of complacency and actively seek out opportunities for improvement.
 
 ### Why it works
 
-When we are able to represent each of our tasks, it becomes tangible. Touching, feeling physically interacting with our tasks transforms work-as-a-concept into work-as-a-concrete-experience. Each time we move a sticky note, we receive kinesthetic feedback: the tactile action is both a data point and a reward. A regular succession of these movements creates a cadence, a rhythm of work.
+When we are able to represent each of our tasks, it becomes tangible. Touching, feeling physically interacting with our tasks transforms work-as-a-concept into work-as-a-concrete-experience. Each time we move a sticky note, we receive kinaesthetic feedback: the tactile action is both a data point and a reward. A regular succession of these movements creates a cadence, a rhythm of work.
 
 > Good leaders provide enough management oversight to give a clear and coherent idea of vision and purpose, but not to the extent that they micromanage. They ensure employees have the information they need to make good decisions, and then step back to let the good decisions happen.
 
@@ -111,11 +111,12 @@ We pull work into DOING only when we have room to accommodate it. Pulling is a w
 ### Step six: reflect
 
 From time to time, reflect on the tasks that have been done:
-* Which tasks did you do particularly well?
-* Which tasks made you feel good about yourself?
-* Which tasks were difficult to complete?
-* Were the right tasks completed at the right time?
-* Did the tasks completed provide value?
+
+- Which tasks did you do particularly well?
+- Which tasks made you feel good about yourself?
+- Which tasks were difficult to complete?
+- Were the right tasks completed at the right time?
+- Did the tasks completed provide value?
 
 Then ask yourself _Why_?
 
@@ -147,6 +148,7 @@ A 2009 [Stanford University study](http://news.stanford.edu/news/2009/august24/m
 We want _throughput_. Throughput is a flowbased system. It measures success by the amount of quality work flowing from READY to DONE over time, not just the volume of work. The rate which work moves from READY to DONE is our throughput.
 
 > ### In four years I'll send Julie to university
+>
 > How?
 > Personally and professionally, we often get stuck in "analysis paralysis". We overcomplicate our situation painstakingly planning to the minutest detail, details that in the beginning we have limited insight into. **We allow the planning phase to stall the action phase.**
 > Carl needs to come up with a few steps he can take immediately. He takes those sticky notes and populates his READY column with them. In his brain immediately understands hat progress is being made towards his goal. He doesn't worry he didn't solve every issue on the first day, he's accepted that we never solve every issue.
@@ -208,9 +210,10 @@ Focusing on productivity is myopic. Effectiveness is our goal, and for that we n
 Productivity should not be the ultimate measure of human potential.
 
 Personal Kanban is:
-* A productivity tool: limiting our WIP helps us accomplish more.
-* An efficiency tool: focusing on our value stream encourages us to find ways to do more while expending less effort.
-* An effectiveness tool: making our options explicit leads us to make informed decisions.
+
+- A productivity tool: limiting our WIP helps us accomplish more.
+- An efficiency tool: focusing on our value stream encourages us to find ways to do more while expending less effort.
+- An effectiveness tool: making our options explicit leads us to make informed decisions.
 
 **To feel truly successful, fulfilled, or self-actualised, we need to feel pride in our work.**
 
@@ -287,12 +290,13 @@ The SWB helps us identify what exactly impacts our mood so that we can begin to 
 When you complete a task and it moves you to an extreme, annotate it as a positive or negative experience, and why in the SWB.
 
 Don't discard the contents of your SWB until you begin to recognise patterns. When you do, consider:
-* When to refuse work.
-* When to delegate work.
-* What changes can help ensure success.
-* Which processes you might want to recreate.
-* What your career options really are.
-* How to balance family, career, recreation and personal development.
+
+- When to refuse work.
+- When to delegate work.
+- What changes can help ensure success.
+- Which processes you might want to recreate.
+- What your career options really are.
+- How to balance family, career, recreation and personal development.
 
 #### Metric four: time
 
@@ -334,7 +338,6 @@ At the beginning or tend of each week hold a restrospective and quickly examine 
 
 ### Solving problems at their source
 
-
 When things go wrong, our first line of defence is to identify who or what appears to be responsible.
 
 #### Pattern matching as a foundation for problem solving
@@ -347,8 +350,8 @@ Opportunities for improvement usually arise when a change in pattern is detected
 
 Two simplest ways to analyse where to improve:
 
-* **The Five Whys**: Problems often have nested causes. Repeat "why" five times to every matter, until you arrive at something with real context. Stopping after the first _Why?_ confuses the symptom with the cause. Drilling down the heart of the matter exposes an actionable reason for the event.
-* **The Socratic Method**: You question your own assumptions, stripping away confounding information to reveal the truth embedded in your position. Critical self-enquiry – playing your own devil's advocate – requires both patience and honesty, but is essential in the quest for improvement.
+- **The Five Whys**: Problems often have nested causes. Repeat "why" five times to every matter, until you arrive at something with real context. Stopping after the first _Why?_ confuses the symptom with the cause. Drilling down the heart of the matter exposes an actionable reason for the event.
+- **The Socratic Method**: You question your own assumptions, stripping away confounding information to reveal the truth embedded in your position. Critical self-enquiry – playing your own devil's advocate – requires both patience and honesty, but is essential in the quest for improvement.
 
 ## Endgame
 
@@ -386,11 +389,12 @@ In an emergency response situation, you simply don't have time to fully complete
 This is multitasking by necessity, but it's _controlled_ multitasking.
 
 The value stream for emergency response approach shows:
-* **BEGUN**: Begun to work in the task
-* **ASSEMBLING**: Gathering paperwork or other requirements
-* **ASSEMBLED**: Requirements are complete
-* **ACTIVE**: If you are waiting someone else to act
-* **COMPLETE**: If it's complete
+
+- **BEGUN**: Begun to work in the task
+- **ASSEMBLING**: Gathering paperwork or other requirements
+- **ASSEMBLED**: Requirements are complete
+- **ACTIVE**: If you are waiting someone else to act
+- **COMPLETE**: If it's complete
 
 It might be useful to include a NOTES column.
 
