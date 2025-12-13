@@ -611,7 +611,7 @@ Embrace the uncertainty. Know that it's there for a purpose, and that you will e
 ### Papers
 
 - [Mentoring: Strategies for building an effective mentoring relationship](https://www.americanjournalofsurgery.com/article/S0002-9610(13)00413-3/pdf), by doctors Hilary Sanfey, Celeste Holands, and Nancy L. Gantt
-- [Psychological safety and learning behaviour in work teams](http://www.iacmr.org/Conferences/WS2011/Submission_XM/Participant/Readings/Lecture9B_Jing/Edmondson,%20ASQ%201999.pdf) by Amy Edmonson
+- [Psychological safety and learning behaviour in work teams](https://www.iacmr.org/Conferences/WS2011/Submission_XM/Participant/Readings/Lecture9B_Jing/Edmondson,%20ASQ%201999.pdf) by Amy Edmonson
 
 ### Articles
 
