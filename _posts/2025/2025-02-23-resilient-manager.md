@@ -32,20 +32,22 @@ title: Resilient Management
 A team is composed of a least two people who share the same strategic objective.
 
 Glossary:
-* Teammates: People you're responsible as a manager.
-* Discipline: The skill set you primarily use at work. Peg: Design, or Brand Design.
-* Functional team: People who work on the same discipline.
-* Feature (Product) team: People from different disciplines who work together on a specific feature or product.
+
+- Teammates: People you're responsible as a manager.
+- Discipline: The skill set you primarily use at work. Peg: Design, or Brand Design.
+- Functional team: People who work on the same discipline.
+- Feature (Product) team: People from different disciplines who work together on a specific feature or product.
 
 Sometimes, a team might be described as both functional team _and_ feature team, peg: Mobile Platform team.
 
 As a manager, you must be able to assess and improve your team's dynamic.
 
 Tuckman's stages of group development:
+
 1. **Forming**, when the group comes together. It might have a name and some understanding of tis goal, but processes and patterns still need to be defined.
 2. **Storming**, you'll start to see some friction. You've gotta feel some confusion and clashing to make it to the next stage.
-4. **Norming**, where things start to iron themselves out. Individuals resolve their differences, and clarity is introduced.
-5. **Performing**, flow state. You're effective, you are communicating well, and you're shipping.
+3. **Norming**, where things start to iron themselves out. Individuals resolve their differences, and clarity is introduced.
+4. **Performing**, flow state. You're effective, you are communicating well, and you're shipping.
 
 When a person joins, or a manager changes, or the mission changes, these stages of group development can restart.
 
@@ -57,12 +59,12 @@ To get to know your teammates as individuals, start from a place of genuine curi
 
 Paloma Medina research indicates that humans have six core needs (_BICEPS_). Needs that must be met in order for us to feel safe and secure.
 
-* **Belonging**, a connection to a community or to a group of people. When you feel rejected or left out from a group, you'll feel threatened.
-* **Improvement/progress**, A sense of making progress, whether for your organisation, your team, or your personal life. People may feel frustrated when their work doesn't affect the greater good, or when there are no enough challenges, or when they change from the maker path to the manager path.
-* **Choice (or autonomy)**, the power to make decisions about your own life and work. This needs calls for balance, too many choices can feel overwhelming; too few choices can make you feel powerless.
-* **Equality/fairness**, the idea that your environment includes equal access to resources, information, and support for everyone in it. When this doesn't happen (or there's a perception that doesn't happen), people take to the streets and revolt.
-* **Predictability**, requires balancing too. If change is the only constant, it can be exhausting. If there are _never_ any surprises, it gets boring. When our sense of certainty is threatened, we may have a _really_ hard time focusing.
-* **Significance**, or status. Understanding where we are in a hierarchy, especially in relation to others. How do we get recognised also plays into it.
+- **Belonging**, a connection to a community or to a group of people. When you feel rejected or left out from a group, you'll feel threatened.
+- **Improvement/progress**, A sense of making progress, whether for your organisation, your team, or your personal life. People may feel frustrated when their work doesn't affect the greater good, or when there are no enough challenges, or when they change from the maker path to the manager path.
+- **Choice (or autonomy)**, the power to make decisions about your own life and work. This needs calls for balance, too many choices can feel overwhelming; too few choices can make you feel powerless.
+- **Equality/fairness**, the idea that your environment includes equal access to resources, information, and support for everyone in it. When this doesn't happen (or there's a perception that doesn't happen), people take to the streets and revolt.
+- **Predictability**, requires balancing too. If change is the only constant, it can be exhausting. If there are _never_ any surprises, it gets boring. When our sense of certainty is threatened, we may have a _really_ hard time focusing.
+- **Significance**, or status. Understanding where we are in a hierarchy, especially in relation to others. How do we get recognised also plays into it.
 
 Each person might care about some particular code needs more than others.
 
@@ -73,7 +75,6 @@ Often we project our _own_ core needs onto someone else, which means you'll like
 It can be really helpful to gather insights about each teammate's growth areas, preferences about feedback and recognition, and other aspects of their work.
 
 You can ask a list of simple questions to your teammates in your first 1:1 together. A template.
-
 
 - What makes you grumpy?
 - How will I know when you're grumpy?
@@ -104,20 +105,22 @@ The framing of this question can help you identify your "style" or "philosophy" 
 > I was optimising for growing emerging leaders. I asked open questions and offered reflections much more than I issued directives. Direct reports who wanted more direction grew frustrated.
 
 Think about the scenarios in which your particular management approach might manifest day to day, such when you are:
-* Coaching, mentoring, or sponsoring your reports
-* Requesting and delivering feedback
-* Goal setting or vision setting for/with your team
-* Scoping, delegating, and shipping work for/with your team
-* Communicating to/with your teammates in different mediums
+
+- Coaching, mentoring, or sponsoring your reports
+- Requesting and delivering feedback
+- Goal setting or vision setting for/with your team
+- Scoping, delegating, and shipping work for/with your team
+- Communicating to/with your teammates in different mediums
 
 In those environments, what do you find you _optimise_ for most as a manager?
 
-#### Optimise for long-term relationships.
+#### Optimise for long-term relationships
 
 In the beginning of your relationships, share with your teammates:
-* What do you optimise for in your role?
-* What do you hope your teammates will lean on you for?
-* What management skill are you currently working on learning or improving?
+
+- What do you optimise for in your role?
+- What do you hope your teammates will lean on you for?
+- What management skill are you currently working on learning or improving?
 
 Sharing the _one thing_ that you want to make sure your teammates know about you, so that they aren't mystified day to day.
 
@@ -146,9 +149,10 @@ In mentoring mode, you're focused on both the problem and the solution. While co
 To explore more of the shape of the topic, rather than staying at the surface level.
 
 The best questions are about the problem, not the solution. Questions that start with _why_ tend to make the other person feel judged, questions that start with _how_ tend to go into problem solving mode, bot we should be avoided. _What_ questions can be authentically curious.
-  * _What's most important to you about it?_
-  * _What's holding you back?_
-  * _What does success look like?_
+
+- _What's most important to you about it?_
+- _What's holding you back?_
+- _What does success look like?_
 
 Coaching would start a two-way conversation, which would help make an otherwise tricky conversation feel more like a shared exploration.
 
@@ -176,9 +180,9 @@ The sponsor hat is more often worn when they're _not_ around.
 
 Sponsorship is all about feeling _on the hook_ for getting someone to the next level. You will put your personal reputation on the line on behalf of the person you're sponsoring.
 
-* Giving visible/public recognition
-* Assigning stretch tasks and projects that are _just beyond_ their current skill set, to help them grow and gather evidence for future promotion
-* Opening the door for them to write blog posts, give company or conference talks, or contribute open-source work.
+- Giving visible/public recognition
+- Assigning stretch tasks and projects that are _just beyond_ their current skill set, to help them grow and gather evidence for future promotion
+- Opening the door for them to write blog posts, give company or conference talks, or contribute open-source work.
 
 Members of under-represented groups are typically over-mentored, but under-sponsored (_in-group bias_).
 
@@ -196,9 +200,9 @@ The feedback equation:
 
 **Observation** of behaviour + **Impact** of behaviour + **Request** or **Question** = Specific, actionable feedback
 
-* **Observation**, describe the simple facts of what happened, the who/what/when/where part of the feedback.
-* **Impact**, _this_ is where you can share how you feel. Share the effects of the behaviour you're seeing. The impact is often personal. Framing the impact in terms of what the recipient cares about will more quickly motivate them to change their behaviour.
-* **Request or question**, if you're always defaulting to making a request, the other person doesn't have to do much thinking or problem solving on their own. Hit pause on the mentoring mode and go into coaching mode instead. Asking an open question at the end of delivering feedback is often much more powerful than making a request.
+- **Observation**, describe the simple facts of what happened, the who/what/when/where part of the feedback.
+- **Impact**, _this_ is where you can share how you feel. Share the effects of the behaviour you're seeing. The impact is often personal. Framing the impact in terms of what the recipient cares about will more quickly motivate them to change their behaviour.
+- **Request or question**, if you're always defaulting to making a request, the other person doesn't have to do much thinking or problem solving on their own. Hit pause on the mentoring mode and go into coaching mode instead. Asking an open question at the end of delivering feedback is often much more powerful than making a request.
 
 #### Coaching teammates to deliver feedback
 
@@ -221,6 +225,7 @@ If you want your teammates to get into the habit of giving feedback, encourage t
 ### Striking a balance
 
 Managers and individuals often aim to accomplish the following in their 1:1s
+
 1. **Build trust**. A manager wants to develop a relationship and get to know their report so they can best support them. A teammate wants to know if their manager cares about them and is invested in their success.
 2. **Gain shared context**. A manager wants to disseminate clear, relevant information about day-to-day work and company goals. A teammate wants to hear rumours, news and higher-level strategy.
 3. **Plan out and support career growth**. A manager wants to help their teammate identify goals and plan their career trajectory. A teammate wants to keep growing their skills, gain new opportunities, and get feedback on their blind spots.
@@ -240,9 +245,9 @@ When someone's behaviour is damaging to those around them, talk with another lea
 
 Develop clear expectations in _collaboration_ with your team, document them in a searchable, central location, and keep them updated over time. Team-wide expectations that are worth documenting and iterating:
 
-* Teammates' roles and responsibilities, including the manager's role
-* The team mission or priorities
-* How teammates should be collaborating, communicating, and shipping work
+- Teammates' roles and responsibilities, including the manager's role
+- The team mission or priorities
+- How teammates should be collaborating, communicating, and shipping work
 
 ### Roles and responsibilities
 
@@ -253,10 +258,11 @@ Individual's day-to-day or project-specific responsibilities can feel ambiguous.
 #### Responsibility assignment matrix
 
 A responsibility assignment matrix (_RACI matrix_, Responsible, Accountable, Consulted and Informed), the most frequent roles for people involved in a project or decision:
-* **Responsible**: People who do the work
-* **Accountable**: The person (_just one_) who must ensure that the project gets completed or the decision gets made. Often the one that do the most communication with stakeholders
-* **Consulted**: Folks whose opinions are sought as the work progress, they're actually not working on the project
-* **Informed**: People who are updated either as major milestones are hit, or when the deliverable is complete
+
+- **Responsible**: People who do the work
+- **Accountable**: The person (_just one_) who must ensure that the project gets completed or the decision gets made. Often the one that do the most communication with stakeholders
+- **Consulted**: Folks whose opinions are sought as the work progress, they're actually not working on the project
+- **Informed**: People who are updated either as major milestones are hit, or when the deliverable is complete
 
 Naming some folks as Informed or Consulted can add clarity and reduce design by committee.
 
@@ -268,28 +274,29 @@ You can held meetings with product managers, engineering managers, and engineeri
 
 For example:
 
-* Product Manager owns the story of "what"
-    * Translates company goals into tech roadmap
-    * Is communication conduit to Product and broader org
-    * UNderstands customer needs + produces customer insights
-* Engineering Manager owns the story of "who"
-    * Coaches makers' career paths and personal growth
-    * Recruits and owns interview workflow
-    * Delivers annual performance reviews
-    * Monitors team health
-* Engineering Lead owns the story of "how"
-    * Pairing/technical mentorship
-    * Surfaces major arch changes to Eng leaders
-    * Translates "why" for project to "how" (arch decisions, UX, product health)
-    * Identifies technical risks
+- Product Manager owns the story of "what"
+  - Translates company goals into tech roadmap
+  - Is communication conduit to Product and broader org
+  - UNderstands customer needs + produces customer insights
+- Engineering Manager owns the story of "who"
+  - Coaches makers' career paths and personal growth
+  - Recruits and owns interview workflow
+  - Delivers annual performance reviews
+  - Monitors team health
+- Engineering Lead owns the story of "how"
+  - Pairing/technical mentorship
+  - Surfaces major arch changes to Eng leaders
+  - Translates "why" for project to "how" (arch decisions, UX, product health)
+  - Identifies technical risks
 
 All of those bubbles, intersect on:
-* Define + improve team processes (stand-ups, etc)
-* Deliver feedback to teammates
-* Communicate hiring needs
-* Ensure team is hitting key results
-* Identify and solve execution roadblocks early
-* Understand, own, and share the story of "why"
+
+- Define + improve team processes (stand-ups, etc)
+- Deliver feedback to teammates
+- Communicate hiring needs
+- Ensure team is hitting key results
+- Identify and solve execution roadblocks early
+- Understand, own, and share the story of "why"
 
 You can use this tool with _any_ intersection of roles. It's helpful any time you have people in distinct roles or functions all working together toward a united goal.
 
@@ -301,10 +308,10 @@ Companies usually have a high-level "north star" to inspire and align the work t
 
 What's your team's "north star" and how does your team work toward it every day?
 
-* **Vision**: The team's north star; a dream of what the future could look like.
-* **Mission**: A more grounded version of the vision that describe the team's role as it works towards that north star.
-* **Strategy**: How this team goes about achieving that mission every day.
-* **Objectives**: Measurable goals that reflect the mission and strategy, to help benchmark the team's progress.
+- **Vision**: The team's north star; a dream of what the future could look like.
+- **Mission**: A more grounded version of the vision that describe the team's role as it works towards that north star.
+- **Strategy**: How this team goes about achieving that mission every day.
+- **Objectives**: Measurable goals that reflect the mission and strategy, to help benchmark the team's progress.
 
 Collaborating on an publishing a vision and mission helps teams to gut check project plans, share what they are doing with stakeholders around the company, and back up on hiring strategy.
 
@@ -312,13 +319,13 @@ Collaborating on an publishing a vision and mission helps teams to gut check pro
 
 To help add clarity to your teams, it's a good idea to document details on your team practices
 
-* **Meetings**: Identify all of the meetings. Jot down the purpose, frequency, and participants. Add descriptions so potential attendees decide which meetings are important to attend, which might be _interesting_ to attend, and which they can probably skip.
-* **Email and chat channels**: Document your team's messaging channels, email lists, and resource pages, include context about _why_ someone might (or must) choose one channel or method over another. Make it clear that you want your teammates to take part in improving the way the team works together.
-* **Collaboration and interaction**: The kind of work your team does, the processes your team has collaborating and delivering projects, and what _you_ value in team settings. At Etsy they had the "Charter of Mindful Communication"
-    * _Reflect on the dynamics in the room_, to reflect when they were dominating a conversation
-    * _Elevate the conversation_, by being constructive to feedback
-    * _Assume best intentions_
-    * _Listen to learn_ to stay curious about other's perspectives
+- **Meetings**: Identify all of the meetings. Jot down the purpose, frequency, and participants. Add descriptions so potential attendees decide which meetings are important to attend, which might be _interesting_ to attend, and which they can probably skip.
+- **Email and chat channels**: Document your team's messaging channels, email lists, and resource pages, include context about _why_ someone might (or must) choose one channel or method over another. Make it clear that you want your teammates to take part in improving the way the team works together.
+- **Collaboration and interaction**: The kind of work your team does, the processes your team has collaborating and delivering projects, and what _you_ value in team settings. At Etsy they had the "Charter of Mindful Communication"
+  - _Reflect on the dynamics in the room_, to reflect when they were dominating a conversation
+  - _Elevate the conversation_, by being constructive to feedback
+  - _Assume best intentions_
+  - _Listen to learn_ to stay curious about other's perspectives
 
 Documentation should be developed collaboratively, like a living document.
 
@@ -360,11 +367,12 @@ Share the document with whomever else is doing the heavy lifting of communicatin
 Sensitive information should be executed as swiftly as possible, there are too many things that could go sideways. Take care to understand how your team will absorb this new _sudden_ information.
 
 It can be helpful to brainstorm ways to address their reactions so you can adequately prepare
-* Map big changes back to the things you know people care about
-* Choose your planned words carefully
-* Plan out who can be informed early on, and who should be informed later
-* Optimise for creating clarity and transparency as soon as the information is set in stone
-* Remember that other's reactions can affect and threaten yourself
+
+- Map big changes back to the things you know people care about
+- Choose your planned words carefully
+- Plan out who can be informed early on, and who should be informed later
+- Optimise for creating clarity and transparency as soon as the information is set in stone
+- Remember that other's reactions can affect and threaten yourself
 
 You are in the best possible position to help changes _land_ with your teammates. Share this knowledge with the people above you if they're spearheading the communication rollout.
 
@@ -407,6 +415,7 @@ Sharing information in a meeting can significantly reduce negative gut reactions
 Gathering everyone for the same meeting is helpful when you want to roll out big news. It can be organised for subsections of the company.
 
 Walk people through the following:
+
 1. A high-level description of what's changing
 2. Instructions on what to do with questions
 3. An explanation for the change
@@ -428,6 +437,7 @@ Choose emails when you're ready to set facts in stone, especially after big verb
 You can practice repeating decisions or actions after a meeting with a _recap email_. It creates a paper trail of decisions that come out of meetings.
 
 You can use images for communicating:
+
 1. The stated company line on the topic
 2. Facts about what it means in practice
 3. Your personal take
@@ -444,14 +454,15 @@ People _rarely_ remember information the first time they hear it. You'll have to
 You'll find also that particular word choices land better with different audiences, or different mediums get more feedback or attention from others. There is another element to think about: your energy as you're communicating.
 
 There is a range of styles for communicating the same message. For example, you can use colours, so you are aware of different styles available for your toolbox
-* **Red**, a bit of anger, frustration, edge, or urgency.
-* **Orange**, cautious, hesitant, tiptoes around topics
-* **Yellow**, lighthearted, effervescent, crack jokes
-* **Green**, in tune with other's feelings, loving, high emotional intelligence
-* **Blue**, calm, cool, collected, steady
-* **Purple**, creative, flowy, great at storytelling
-* **Brown**, adds (and lives in) nuance, complexity, or ambiguity
-* **Black**, blunt, unfeeling, no nuance, cut and dry
+
+- **Red**, a bit of anger, frustration, edge, or urgency.
+- **Orange**, cautious, hesitant, tiptoes around topics
+- **Yellow**, lighthearted, effervescent, crack jokes
+- **Green**, in tune with other's feelings, loving, high emotional intelligence
+- **Blue**, calm, cool, collected, steady
+- **Purple**, creative, flowy, great at storytelling
+- **Brown**, adds (and lives in) nuance, complexity, or ambiguity
+- **Black**, blunt, unfeeling, no nuance, cut and dry
 
 Sometimes people need to hear a different tone, or feel a different energy. Strong leaders understand the spectrum of communication styles.
 
@@ -472,19 +483,21 @@ Each new storm is an opportunity to gain experience, try out different tactics, 
 The clearer you can describe processes, the easier the cognitive load will be for dealing with a crisis.
 
 Ways you can prepare in advance:
-* **Know your benefits.** Research company-sponsored support mechanisms for employees.
-* **Lead by example**
-* **Ask for input.** Ask the team about what information or resources they need to stay resilient in times of rapid change.
-* **Keep setting expectations.** Give them the gift of clarity, so they can also communicate with you about whether they can accomplish the work they've been assigned.
+
+- **Know your benefits.** Research company-sponsored support mechanisms for employees.
+- **Lead by example**
+- **Ask for input.** Ask the team about what information or resources they need to stay resilient in times of rapid change.
+- **Keep setting expectations.** Give them the gift of clarity, so they can also communicate with you about whether they can accomplish the work they've been assigned.
 
 #### During a crisis
 
 If you sense that something has gone awry for one of your teammates, you can say "As your manager, I want to make sure I'm supporting you as best I can. Is there anything that would be helpful to you to chat about?"
 
 If your teammate _does_ share with you that they're experiencing something difficult, partner with them to figure out next steps.
-* How else could we meet this goal?
-* What can I do to help you meet this goal?
-* What would be the impact of moving this goal?
+
+- How else could we meet this goal?
+- What can I do to help you meet this goal?
+- What would be the impact of moving this goal?
 
 A natural instinct is to express deep concern, or deep sympathy; please do not respond in a way that requires _them_ to calm _you_. Do not put more hardship onto your direct report.
 
@@ -525,15 +538,15 @@ When carrying too many tasks, delegate work to others.
 
 As managers, we want to give our teammates beautifully packaged, cleanly wrapped gifts of leadership work. However, the best gift you can give a teammate is a messy, hard-to-measure, unscoped project. It's the biggest opportunity for someone to grow as a leader.
 
-* Hones folks' problem solving abilities
-* Forces them to lean on more people around them
-* Stretches them into new leadership skills faster
+- Hones folks' problem solving abilities
+- Forces them to lean on more people around them
+- Stretches them into new leadership skills faster
 
 It's not just okay, but actually _important_ to hand off bigger, scarier projects to emerging leaders. And as you do, you'll need to support them along the way.
 
-* Tell them how and in what medium you will support them
-* Tell them that you expect this to be a stretch for them, and that's the point. You'll trust them to raise a flag if they are stuck
-* Use a RACI. Tell your teammate that they are the "Responsible" role in the RACI matrix for this project, and you are "Consulted" and "Accountable".
+- Tell them how and in what medium you will support them
+- Tell them that you expect this to be a stretch for them, and that's the point. You'll trust them to raise a flag if they are stuck
+- Use a RACI. Tell your teammate that they are the "Responsible" role in the RACI matrix for this project, and you are "Consulted" and "Accountable".
 
 Some folks may be wary of giving away your Legos, by what most don't realise up front is that by doing so, you're creating space to pick up new ones.
 
@@ -546,19 +559,21 @@ The best way to troubleshoot your energy drain may be to reduce how often you sa
 Priorities and objectives are there for a reason. Wield them as a tool to help you practice saying no more often.
 
 Several tactics you can experiment with to help you say no more efficiently.
-* Ask someone you trust to hold you accountable to saying no more often.
-* Make a calendar item at the beginning of the day to spend twenty minutes figuring out what to say no to.
-* Draft emails that you can copy and paste whenever you need to say no clearly and gracefully.
+
+- Ask someone you trust to hold you accountable to saying no more often.
+- Make a calendar item at the beginning of the day to spend twenty minutes figuring out what to say no to.
+- Draft emails that you can copy and paste whenever you need to say no clearly and gracefully.
 
 ### Building a support network
 
 Diverse group of people to lean on when you encounter a workplace challenge. Consider each individual as a facet of what an imaginary ideal manager would be. This is what is known as a _Manager Voltron_ (referring to the show where heroes join forces to create a giant super robot).
 
 Always lookout for people who:
-* Will push you out of your comfort zone
-* Have different levels of experience than you do (both more and less!)
-* Have experience in a different industry
-* Are good at the things you're terribly at
+
+- Will push you out of your comfort zone
+- Have different levels of experience than you do (both more and less!)
+- Have experience in a different industry
+- Are good at the things you're terribly at
 
 Where do you find more supporters? And what do you say when you do?
 
@@ -590,28 +605,30 @@ Embrace the uncertainty. Know that it's there for a purpose, and that you will e
 
 ### Books
 
-* [Switch: How to Change Things When Change is Hard](https://www.goodreads.com/book/show/6570502-switch), by Chip Heath and Dan Heath.
-* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path), by Camille Fournier
+- [Switch: How to Change Things When Change is Hard](https://www.goodreads.com/book/show/6570502-switch), by Chip Heath and Dan Heath.
+- [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path), by Camille Fournier
 
 ### Papers
 
-* [Mentoring: Strategies for building an effective mentoring relationship](https://www.americanjournalofsurgery.com/article/S0002-9610(13)00413-3/pdf), by doctors Hilary Sanfey, Celeste Holands, and Nancy L. Gantt
-* [Psychological safety and learning behaviour in work teams](http://www.iacmr.org/Conferences/WS2011/Submission_XM/Participant/Readings/Lecture9B_Jing/Edmondson,%20ASQ%201999.pdf) by Amy Edmonson
+- [Mentoring: Strategies for building an effective mentoring relationship](https://www.americanjournalofsurgery.com/article/S0002-9610(13)00413-3/pdf), by doctors Hilary Sanfey, Celeste Holands, and Nancy L. Gantt
+- [Psychological safety and learning behaviour in work teams](http://www.iacmr.org/Conferences/WS2011/Submission_XM/Participant/Readings/Lecture9B_Jing/Edmondson,%20ASQ%201999.pdf) by Amy Edmonson
 
 ### Articles
 
-* [Research: When Managers Are Overworked, They Treat Employees Less Fairly](https://hbr.org/2018/06/research-when-managers-are-overworked-they-treat-employees-less-fairly)
-* [Engineering growth: assessing progress](https://medium.com/s/engineering-growth-framework/engineering-growth-assessing-progress-743620e70763)
-* [Coaching Skills: Listening](https://partners.coactive.com/CTI-learning-hub/fundamentals/res/FUN-Co-Active-Coaching-Skills-Listening.pdf)
-* [Followership](https://www.attack-gecko.net/2018/09/04/followership/)
-* [Remote friendly meetings and hygiene](https://larahogan.me/blog/better-meetings/)
-* [How to organise a working group](https://larahogan.me/blog/running-working-groups/)
-* [Tracking compensation and promotion inequity](https://larahogan.me/blog/inclusion-math/)
-* [Five Keys to Successful Google Team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
+- [Research: When Managers Are Overworked, They Treat Employees Less Fairly](https://hbr.org/2018/06/research-when-managers-are-overworked-they-treat-employees-less-fairly)
+- [Engineering growth: assessing progress](https://medium.com/s/engineering-growth-framework/engineering-growth-assessing-progress-743620e70763)
+- [Coaching Skills: Listening](https://partners.coactive.com/CTI-learning-hub/fundamentals/res/FUN-Co-Active-Coaching-Skills-Listening.pdf)
+- [Followership](https://www.attack-gecko.net/2018/09/04/followership/)
+- [Remote friendly meetings and hygiene](https://larahogan.me/blog/better-meetings/)
+- [How to organise a working group](https://larahogan.me/blog/running-working-groups/)
+- [Tracking compensation and promotion inequity](https://larahogan.me/blog/inclusion-math/)
+- [Five Keys to Successful Google Team](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
 
 ### Tools
-* [Balanced 1:1s template](https://larahogan.me/resources/Balanced-One-on-Ones.pdf)
-* [1:1 coaching questions deck](https://shop.beplucky.com/products/the-plucky-1-1-starter-pack)
-* [Template for organising consistent, repeatable, and inclusive interviews](https://larahogan.me/blog/onsite-interview-loop-template/)
-* [Manager hand-off meeting template](https://larahogan.me/blog/manager-handoffs/)
-* [Google Tool to Foster Psychological Safety](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/)
+
+- [Balanced 1:1s template](https://larahogan.me/resources/Balanced-One-on-Ones.pdf)
+
+- [1:1 coaching questions deck](https://shop.beplucky.com/products/the-plucky-1-1-starter-pack)
+- [Template for organising consistent, repeatable, and inclusive interviews](https://larahogan.me/blog/onsite-interview-loop-template/)
+- [Manager hand-off meeting template](https://larahogan.me/blog/manager-handoffs/)
+- [Google Tool to Foster Psychological Safety](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/)
