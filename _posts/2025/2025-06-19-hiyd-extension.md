@@ -12,6 +12,3 @@ The extension captures selected text on a page and via the context menu allows t
 Save it to your Hiyd iCloud Drive folder to sync with the mobile app.
 
 Save it to your git repo to publish to your Jekyll blog.
-
-Code is open source on GitHub and it collects no data of any kind.
-You can find the source code on [GitHub here](https://github.com/Hiyd-uk/hiyd-extension).

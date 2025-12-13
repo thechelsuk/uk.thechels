@@ -25,7 +25,7 @@ seo: A list of my favourite technology
 
 - [Castro](https://castro.fm) (Podcasts)
 - [1Password](https://1password.com) (Password Manager)
-- [NetNewsWire](https://ranchero.com/netnewswire/) (News/RSS)
+- [NetNewsWire](https://netnewswire.com/) (News/RSS)
 - [Working Copy](https://workingcopyapp.com) (Git Client)
 - [Drafts](https://getdrafts.com) (Notes)
 - [GoodLinks](https://goodlinks.app) (Bookmarks)
@@ -35,7 +35,7 @@ seo: A list of my favourite technology
 - [ShortKeys](https://apps.apple.com/gb/app/shortkeys/id6755919256) (Productivity)
 - [Play](https://marcosatanaka.com) & x.app (Video Management and Playback)
 - [Bobby](https://bobbyapp.co) (Budgeting)
-- [1.1.1.1](https://1.1.1.1) (DNS/VPN)
+- [1.1.1.1](https://one.one.one.one/) (DNS/VPN)
 - [Scriptable](https://scriptable.app) (Coding)
 - [Pythonista](https://omz-software.com/pythonista/) (Coding)
 - [VS Code](https://code.visualstudio.com) (Coding)
