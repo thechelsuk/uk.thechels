@@ -7,13 +7,13 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 12 December 2025
+## On Saturday, 13 December 2025
 
-- The average temperature today is 10.54˚C,
-- With highs of 11.08˚C and lows of 9.91˚C,
-- It may feel like 10˚C with light rain
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1011hPa and humidity is 90%
+- The average temperature today is 5.02˚C,
+- With highs of 6.83˚C and lows of 3.15˚C,
+- It may feel like 5.02˚C with clear sky
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 93%
 - The sun will rise at 08:07 and set at 15:57
 
 <!-- weather_marker ends -->
@@ -21,38 +21,54 @@ seo: Good Morning, Here is your daily briefing
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 647 days since the last change (2024-03-05)
+- It has been 648 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Farmers Market in town
+- Water the plants
 
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be the owner.
+> Be humble.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- West Brom v Sheffield United
+- Manchester City U18 v Everton U18
+- Stoke City U18 v Manchester United U18
+- Crystal Palace U18 v Norwich City U18
+- Tottenham Hotspur U18 v Aston Villa U18
+- Everton Women v Arsenal Women
+- Wolves Women v Nottingham Forest Women
+- Norwich City v Southampton
+- Oxford United v Preston North End
+- Stoke City v Swansea City
+- AFC Wimbledon v Mansfield Town
+- Huddersfield Town v Wigan Athletic
+- Bristol Rovers v Swindon Town
+- Salford City v Colchester United
+- Burnley v Fulham
+- Arsenal v Wolves
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 123.63999938964844 
+- VWRL.L : 123.30000305175781 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- The Daily Hilario: Friday
+- Atalanta 1-2 Chelsea, Player Ratings: More minutes for Acheampong please
 - The Daily Hilario: Thursday
 - Liam Delap to be out ‘no longer than four weeks’ with shoulder injury — report
 - Chelsea FCW 6-0 AS Roma Femminile, UEFA Women’s Champions League: Post-match reaction
@@ -61,8 +77,6 @@ seo: Good Morning, Here is your daily briefing
 - Maresca: ‘We lost a little bit the control of the game’
 - The Daily Hilario: Wednesday
 - Atalanta 2-1 Chelsea, Champions League: Post-match reaction, ratings
-- Atalanta vs. Chelsea, Champions League: Lineups &#038; Game Thread
-- Chelsea fans’ preferred lineup against Atalanta: Caicedo plus ten
 
 <!-- news_marker ends -->
 
@@ -70,14 +84,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Marsalek’s missing millions: the unravelling of a secret Libyan empire
-- FT Person of the Year: Jensen Huang
-- Is silver the new gold?
-- A Brexit survival strategy that shows Starmer’s days are numbered
-- HSBC axes 160-year-old management scheme in bid to cut costs
-- MPs pension scheme makes ‘mockery’ of Reeves investment push
-- Apollo moves fast-growing lending unit out of storied buyout division
-- S&P 500 closes at record high as consumer-led rally blunts Oracle slide
+- EU freezes Russian assets ahead of pivotal Ukraine talks
+- Russia sues Euroclear over frozen assets
+- Ukraine would join EU next year under draft peace plan
+- Donald Trump and Bill Clinton pictured in newly released Epstein photos
+- The UK economy is not nearly as bad as you’ve been told
+- The twilight of the physical letter
+- Apollo took bearish software view with bets against corporate debt
+- US tech stocks slide as fears over AI boom flare up
 
 <!-- ftnews_marker ends -->
 
@@ -92,33 +106,33 @@ seo: Good Morning, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> A leader is best when people barely know he exists. When his work is done, his aim fulfilled, they will say we did it ourselves. - Lao Tzu
+> Remember it is not the documentation that needs to be in sync, but the people. - George Dinwiddie, Agile Coach and Trainer
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> What would your closest friend do?
+> Abandon normal instruments
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Kill List (Rated: 8)
-- Released in 2011
-- Summary: Nearly a year after a botched job, a hitman takes a new assignment with the promise of a big payoff for three killings. What starts off as an easy task soon unravels, sending the killer into the heart of darkness.
+- Kate (Rated: 3)
+- Released in 2021
+- Summary: A jaded assassin assigned to target a yakuza clan has 24 hours to find out who poisoned her and get vengeance before she dies.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 844, using [2, 3, 4, 6, 8, 50]
-- Answer: 21 solutions.
+- Target: 522, using [5, 8, 9, 9, 25, 50]
+- Answer: 13 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 8 + 6 + 3 ) x 50 - 4 - 2
+  Solution: ( 50 + 25 - 9 - 8 ) x 9
 
    </details>
 
