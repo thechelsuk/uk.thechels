@@ -15,7 +15,7 @@ Mltply uses a friendly chat-style interface to make maths practice less intimida
 - Configure numbers 1–12, pick operations, and toggle sequential or random order for tailored drills.
 - Instant feedback and streak tracking encourage kids to keep going while keeping progress entirely on-device.
 - Unlock achievements and celebrate milestones to keep motivation high based on each number, operation, and overall progress.
-- No in-app purchases, subscriptions, or data sharing; the code is open source on [GitHub](https://github.com/mat-0/Mltply) for added transparency.
+- No in-app purchases, subscriptions, or data sharing; the code is open source on [GitHub](https://github.com/mat-0/com.uk.thechels.mltply) for added transparency.
 - Built with SwiftUI for a fun, lightweight experience that fits quick study sessions.
 - [App Privacy Policy](/app/privacy).
 

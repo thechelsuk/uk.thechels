@@ -10,7 +10,7 @@ seo: iOS Applications by thechelsuk
 
 ![EngMan App Icon](/images/apps/engman-icon.png){: .app-icon} [EngMan](/apps/engman) - An iOS app for Engineering Managers. Built using SwiftUI, the app provides a bunch of topics and nearly 200 coaching cards to help engineering leaders and managers improve their skills and knowledge. Whilst being a good quick reference for difficult conversations or coaching scenarios.
 
-![Mltply App Icon](/images/apps/mltply-icon.png){: .app-icon} [Mltply](/apps/mltply) - An iOS app with a chat like interface for learning maths through repetition. The app is built using SwiftUI, with a focus on helping users learn and practice maths in a fun and engaging way quiz. The app is open source and available on [GitHub](https://github.com/mat-0/Mltply).
+![Mltply App Icon](/images/apps/mltply-icon.png){: .app-icon} [Mltply](/apps/mltply) - An iOS app with a chat like interface for learning maths through repetition. The app is built using SwiftUI, with a focus on helping users learn and practice maths in a fun and engaging way quiz. The app is open source and available on [GitHub](https://github.com/mat-0/com.uk.thechels.mltply).
 
 ![Hiyd App Icon](/images/apps/hiyd-icon.png){: .app-icon} [Hiyd](/apps/hiyd) - A Jekyll companion app for iOS that allows for the creation and exporting of Jekyll formatted markdown files. The app is built using SwiftUI. There is also a companion Chrome extension that allows for the creation of Jekyll formatted markdown files directly from the browser, by copying urls, select page content and site metadata. [Marketing site](https://hiyd.uk).
 

@@ -9,7 +9,7 @@ Having recently created and updated the new [ReadMe template homepage](https://g
 
 Then I paused for a moment and thought about how someone might want to communicate with me. Being on GitHub creating a [new issue](https://github.com/Mat-0/Mat-0/issues/new/choose) would make sense, So I created a link to [the issues page](https://github.com/Mat-0/Mat-0/issues/new/choose). However I would want these items kept separate from other issues related to code/bugs i.e. genuine issues.
 
-GitHub allows you to create custom templates and they get stored in `ISSUE_TEMPLATE` folder stored in a `.GitHub` folder in [your repository](https://github.com/Mat-0/Mat-0/tree/master/.github/ISSUE_TEMPLATE).
+GitHub allows you to create custom templates and they get stored in `ISSUE_TEMPLATE` folder stored in a `.GitHub` folder in [your repository](https://github.com/Mat-0/Mat-0/tree/main/.github/ISSUE_TEMPLATE).
 
 Creating a new template is as easy as clicking the _add new file_ button and providing some markdown
 
