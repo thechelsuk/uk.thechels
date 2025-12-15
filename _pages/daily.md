@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 14 December 2025
+## On Monday, 15 December 2025
 
-- The average temperature today is 9.24˚C,
-- With highs of 9.99˚C and lows of 7.94˚C,
-- It may feel like 7.28˚C with broken clouds
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 83%
-- The sun will rise at 08:08 and set at 15:57
+- The average temperature today is 10.26˚C,
+- With highs of 11.1˚C and lows of 9.6˚C,
+- It may feel like 9.69˚C with light rain
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 1003hPa and humidity is 90%
+- The sun will rise at 08:09 and set at 15:57
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 649 days since the last change (2024-03-05)
+- It has been 650 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,23 +32,14 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Provide purpose, mastery and autonomy.
+> Focus on user needs.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Brighton & Hove Albion Women v Chelsea Women
-- Leicester City Women v London City Lionesses
-- Manchester City Women v Aston Villa Women
-- West Ham United Women v Liverpool Women
-- Crystal Palace v Manchester City
-- Nottingham Forest v Tottenham Hotspur
-- Sunderland v Newcastle United
-- West Ham United v Aston Villa
-- Manchester United Women v Tottenham Hotspur Women
-- Lewes Women v Crystal Palace Women
-- Brentford v Leeds United
+- Sheffield Wednesday v Derby County
+- Manchester United v AFC Bournemouth
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -62,16 +53,16 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Brighton &#038; Hove Albion WFC 0-3 Chelsea FCW, Women’s Super League: Post-match reaction
+- Brighton &#038; Hove Albion WFC vs. Chelsea FCW, Women’s Super League: Lineups &#038; Game Thread
+- Enzo Maresca strikes back with ‘very important’ win against Everton
+- The Daily Hilario: Sunday
+- Brighton &#038; Hove Albion WFC vs. Chelsea FCW, Women’s Super League: Preview, team news, how to watch
 - Chelsea 2-0 Everton, Premier League: Post-match reaction, ratings
 - Chelsea vs. Everton, Premier League: Lineups &#038; Game Thread
 - Chelsea fans’ preferred lineup against Everton: Palmer and Estêvão together
 - The Daily Hilario: Saturday
 - Chelsea vs. Everton, Premier League: Preview, team news, how to watch
-- How should Chelsea line up against Evertont to get back on the winning track?
-- The Daily Hilario: Friday
-- Atalanta 2-1 Chelsea, Player Ratings: More minutes for Acheampong please
-- The Daily Hilario: Thursday
-- Liam Delap to be out ‘no longer than four weeks’ with shoulder injury — report
 
 <!-- news_marker ends -->
 
@@ -79,14 +70,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Hedge funds pile into commodities searching fresh source of returns
-- It makes sense to look smart when flying
-- China’s $1tn trade surplus is a problem for Beijing — and the world
-- Swiss dealmaking surges to record highs despite strong franc
-- IPO of bubble-era Japan bank seen as trigger for more deals
-- Keir Starmer risks losing ally at top of Britain’s biggest union
-- VW gears up for first production closure in Germany in its 88-year history
-- Coca-Cola holds last-ditch talks in bid to salvage Costa Coffee sale
+- Australia to review gun laws after 15 die in attack on Jewish festival
+- Bitcoin investor plans Caribbean community — with its own court system
+- Why the ‘stablecoin supercycle’ could rewire banking
+- The four ‘O’s that shape a bubble
+- Trump assault opens EU rift as leaders split on US strategy
+- Ukraine offers to drop Nato membership demands
+- Hong Kong convicts Jimmy Lai in national security trial
+- Russia is ‘exporting chaos’, new head of Britain’s spy agency MI6 warns
 
 <!-- ftnews_marker ends -->
 
@@ -94,40 +85,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > opsomaniac - noun: A person with a craving for a particular food.
+ > fettle - noun: State or condition.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> To be uncertain is to be uncomfortable, but to be certain is to be ridiculous - Chinese Proverb
+> An organization that treats its programmers as morons will soon have programmers that are willing and able to act like morons only. - Bjarne Stroustrup, Computer Scientist
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Ghost echoes
+> Use an unacceptable color
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- 11-11-11 (Rated: 7)
-- Released in 2011
-- Summary: After the death of his wife and child, an author travels to Barcelona to see his estranged brother and dying father, where he learns that his life is plagued by events that occur on 11/11/11.
+- The Karate Kid (Rated: 3)
+- Released in 1984
+- Summary: Recently relocated from NJ to LA, Daniel becomes the target of a gang of Cobra Kai dojo students. When Mr. Miyagi saves him with expert Karate skills, Daniel convinces him to teach him to defend himself, and put his bullies in the...
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 453, using [1, 2, 5, 10, 25, 100]
-- Answer: 8 solutions.
+- Target: 640, using [1, 5, 5, 25, 50, 75]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 1 - 10 ) x 25 / 5 - 2
+  Solution: ( 50 + 1 ) x 75 / 5 - 25 x 5
 
    </details>
 
