@@ -7,62 +7,69 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 15 December 2025
+## On Tuesday, 16 December 2025
 
-- The average temperature today is 10.26˚C,
-- With highs of 11.1˚C and lows of 9.6˚C,
-- It may feel like 9.69˚C with light rain
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1003hPa and humidity is 90%
-- The sun will rise at 08:09 and set at 15:57
+- The average temperature today is 6.66˚C,
+- With highs of 7.94˚C and lows of 5.93˚C,
+- It may feel like 5.51˚C with light rain
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1004hPa and humidity is 95%
+- The sun will rise at 08:10 and set at 15:57
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 650 days since the last change (2024-03-05)
+- It has been 651 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Focus on user needs.
+> Exploit the landscape.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Sheffield Wednesday v Derby County
-- Manchester United v AFC Bournemouth
+- Tottenham Hotspur U18 v Brighton & Hove Albion U18
+- FC Halifax Town v Newcastle United U21
+- Manchester City U21 v Real Madrid U21
+- Truro City v Wealdstone
+- Tamworth v Manchester United U21
+- Dorking Wanderers v Weston Super Mare
+- Cardiff City v Chelsea
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 123.30000305175781 
+- VWRL.L : 123.4800033569336 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Cardiff City vs. Chelsea, League Cup: Preview, team news, how to watch
+- How should Chelsea line up against lower-league Cardiff City in the League Cup?
+- The Daily Hilario: Monday
+- Chelsea 2-0 Everton, Player Ratings: Muy Bueno Gusto
 - Brighton &#038; Hove Albion WFC 0-3 Chelsea FCW, Women’s Super League: Post-match reaction
 - Brighton &#038; Hove Albion WFC vs. Chelsea FCW, Women’s Super League: Lineups &#038; Game Thread
 - Enzo Maresca strikes back with ‘very important’ win against Everton
 - The Daily Hilario: Sunday
 - Brighton &#038; Hove Albion WFC vs. Chelsea FCW, Women’s Super League: Preview, team news, how to watch
 - Chelsea 2-0 Everton, Premier League: Post-match reaction, ratings
-- Chelsea vs. Everton, Premier League: Lineups &#038; Game Thread
-- Chelsea fans’ preferred lineup against Everton: Palmer and Estêvão together
-- The Daily Hilario: Saturday
-- Chelsea vs. Everton, Premier League: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -70,14 +77,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Australia to review gun laws after 15 die in attack on Jewish festival
-- Bitcoin investor plans Caribbean community — with its own court system
-- Why the ‘stablecoin supercycle’ could rewire banking
-- The four ‘O’s that shape a bubble
-- Trump assault opens EU rift as leaders split on US strategy
-- Ukraine offers to drop Nato membership demands
-- Hong Kong convicts Jimmy Lai in national security trial
-- Russia is ‘exporting chaos’, new head of Britain’s spy agency MI6 warns
+- Global brands seek PE partners to save their China businesses
+- The Trump back channel: how diplomacy works in Washington
+- Do we need a ‘Made by Humans’ label?
+- Fewer dolls and pencils: Trump struggles to read the US’s cost of living crisis
+- Trump files $10bn lawsuit against the BBC
+- Monzo chief pushed out after board rift over growth and IPO plans
+- Shell mergers chief departed after CEO blocked bid for BP
+- Morrisons loses £17mn food fight as chicken tax comes home to roost
 
 <!-- ftnews_marker ends -->
 
@@ -85,40 +92,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > fettle - noun: State or condition.
+ > kilter - noun: Proper or usual state or order.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> An organization that treats its programmers as morons will soon have programmers that are willing and able to act like morons only. - Bjarne Stroustrup, Computer Scientist
+> To be uncertain is to be uncomfortable, but to be certain is to be ridiculous - Chinese Proverb
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Use an unacceptable color
+> Work at a different speed
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Karate Kid (Rated: 3)
-- Released in 1984
-- Summary: Recently relocated from NJ to LA, Daniel becomes the target of a gang of Cobra Kai dojo students. When Mr. Miyagi saves him with expert Karate skills, Daniel convinces him to teach him to defend himself, and put his bullies in the...
+- The Hitcher (Rated: 3)
+- Released in 2007
+- Summary: A young man who escapes the clutches of a murderous hitchhiker is subsequently stalked by the hitcher and framed for his crimes.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 640, using [1, 5, 5, 25, 50, 75]
+- Target: 544, using [1, 4, 5, 10, 25, 75]
 - Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 + 1 ) x 75 / 5 - 25 x 5
+  Solution: ( 25 + 10 + 1 ) x 75 / 5 + 4
 
    </details>
 
