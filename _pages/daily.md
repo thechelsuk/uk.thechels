@@ -7,55 +7,68 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 19 December 2025
+## On Saturday, 20 December 2025
 
-- The average temperature today is 7˚C,
-- With highs of 7.75˚C and lows of 6.49˚C,
-- It may feel like 4.82˚C with broken clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1009hPa and humidity is 85%
-- The sun will rise at 08:12 and set at 15:58
+- The average temperature today is 5.47˚C,
+- With highs of 6.66˚C and lows of 3.73˚C,
+- It may feel like 3.68˚C with clear sky
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 93%
+- The sun will rise at 08:13 and set at 15:58
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 654 days since the last change (2024-03-05)
+- It has been 655 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Farmers Market in town
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Know your users.
+> Be a learning individual.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Manchester United U21 v Borussia Dortmund U21
-- Northampton Town v AFC Wimbledon
-- Altrincham v Rochdale
-- Swansea City v Wrexham
+- Blackburn Rovers v Millwall
+- Preston North End v Norwich City
+- Southampton v Coventry City
+- Stevenage v Burton Albion
+- Wigan Athletic v Blackpool
+- Bromley v Grimsby Town
+- Notts County v Walsall
+- Boston United v Aldershot Town
+- Woking v Scunthorpe United
+- Newcastle United v Chelsea
+- Tamworth v Southend United
+- York City v Truro City
+- Tottenham Hotspur v Liverpool
+- Yeovil Town v Forest Green Rovers
+- Everton v Arsenal
+- Leeds United v Crystal Palace
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 122.7699966430664 
+- VWRL.L : 123.27999877929688 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- The Daily Hilario: Friday
+- How should Chelsea line up against Newcastle United?
 - The Daily Hilario: Thursday
 - Cardiff City 1-3 Chelsea, Player Ratings: Garnacho to the rescue
 - Chelsea to play either Arsenal or Crystal Palace in League Cup semifinals
@@ -64,8 +77,6 @@ seo: Good Morning, Here is your daily briefing
 - The Daily Hilario: Wednesday
 - VfL Wolfsburg Frauen vs. Chelsea FCW, UEFA Women’s Champions League: Preview, team news, how to watch
 - Estêvão to miss a couple games with ‘small muscular injury’
-- Cardiff City 1-3 Chelsea, League Cup: Post-match reaction, ratings
-- Cardiff City vs. Chelsea, League Cup: Lineups &#038; Game Thread
 
 <!-- news_marker ends -->
 
@@ -73,14 +84,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- EU agrees €90bn loan to Ukraine after frozen Russian asset plan fails
-- How BP’s ‘sharp-elbowed’ chair lost patience with its chief executive
-- Prediction markets and the casino mentality of 2025
-- Welcome to the age of zero-sum politics
-- Bumper Christmas for air travel as 300mn take to the skies
-- Japan raises interest rates to highest level in 30 years
-- China boosts AI chip output by upgrading older ASML machines
-- Bill Gates and Sergey Brin among newly released Epstein photos
+- US justice department releases cache of Epstein files
+- Trump fails to put Epstein behind him with partial release of files
+- What to know about the new Epstein files release
+- UK rules out using frozen Russian assets to aid Ukraine
+- It’s beginning to look a lot like holiday job season
+- Don’t believe the fake gloom about London
+- Delaware high court reinstates Musk’s $56bn Tesla pay package
+- London St Pancras revamp aims to cut Eurostar waiting time to 15 minutes
 
 <!-- ftnews_marker ends -->
 
@@ -95,33 +106,33 @@ seo: Good Morning, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Opportunity is missed by most people because it is dressed in overalls and looks like work - Thomas Edison
+> I have just three things to teach -  simplicity, patience, compassion. These three are your greatest treasures. - Lao Tzu
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Honor thy error as a hidden intention
+> Overtly resist change
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Madame Web (Rated: 3)
-- Released in 2024
-- Summary: Forced to confront her past, Cassandra Webb, a Manhattan paramedic that may have clairvoyant abilities, forms a relationship with three young women destined for powerful futures, if they can survive their threatening present.
+- Turbo (Rated: 3)
+- Released in 2013
+- Summary: A freak accident might just help an everyday garden snail achieve his biggest dream: winning the Indy 500.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 789, using [3, 6, 7, 10, 25, 100]
-- Answer: 11 solutions.
+- Target: 217, using [2, 9, 10, 25, 50, 75]
+- Answer: 26 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 25 + 10 ) x 6 - 7 x 3
+  Solution: ( 75 x 50 / 10 + 9 ) / 2 + 25
 
    </details>
 
