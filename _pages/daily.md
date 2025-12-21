@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 20 December 2025
+## On Sunday, 21 December 2025
 
-- The average temperature today is 5.47˚C,
-- With highs of 6.66˚C and lows of 3.73˚C,
-- It may feel like 3.68˚C with clear sky
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 93%
-- The sun will rise at 08:13 and set at 15:58
+- The average temperature today is 8.64˚C,
+- With highs of 9.18˚C and lows of 8.16˚C,
+- It may feel like 7.09˚C with overcast clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1005hPa and humidity is 93%
+- The sun will rise at 08:13 and set at 15:59
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 655 days since the last change (2024-03-05)
+- It has been 656 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -38,22 +38,23 @@ seo: Good Morning, Here is your daily briefing
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Blackburn Rovers v Millwall
-- Preston North End v Norwich City
-- Southampton v Coventry City
-- Stevenage v Burton Albion
-- Wigan Athletic v Blackpool
-- Bromley v Grimsby Town
-- Notts County v Walsall
-- Boston United v Aldershot Town
-- Woking v Scunthorpe United
-- Newcastle United v Chelsea
-- Tamworth v Southend United
-- York City v Truro City
-- Tottenham Hotspur v Liverpool
-- Yeovil Town v Forest Green Rovers
-- Everton v Arsenal
-- Leeds United v Crystal Palace
+- Brackley Town v Morecambe
+- Solihull Moors v Sutton United
+- Crystal Palace Women v Arsenal Women
+- Liverpool Women v Chelsea Women
+- Manchester United Women v Tottenham Hotspur Women
+- West Ham United Women v Manchester City Women
+- Sheffield United Women v Southampton Women
+- Braintree Town v Hartlepool United
+- Gateshead v Eastleigh
+- Birmingham City Women v Durham Women
+- Bristol City Women v Crystal Palace Women
+- Charlton Athletic Women v Nottingham Forest Women
+- Portsmouth Women v Newcastle United Women
+- Sunderland AFC Women v Ipswich Town Women
+- Boreham Wood v Carlisle United
+- FC Halifax Town v Wealdstone
+- Aston Villa v Manchester United
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -67,16 +68,16 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Newcastle United 2-2 Chelsea, Premier League: Post-match reaction, ratings
+- Newcastle United vs. Chelsea, Premier League: Lineups &#038; Game Thread
+- Chelsea fans’ preferred lineup against Newcastle: The A+ Team
+- The Daily Hilario: Saturday
+- Newcastle United vs. Chelsea, Premier League: Preview, team news, how to watch
 - The Daily Hilario: Friday
 - How should Chelsea line up against Newcastle United?
 - The Daily Hilario: Thursday
 - Cardiff City 1-3 Chelsea, Player Ratings: Garnacho to the rescue
 - Chelsea to play either Arsenal or Crystal Palace in League Cup semifinals
-- VfL Wolfsburg Frauen 1-2 Chelsea FCW, UEFA Women’s Champions League: Post-match reaction
-- VfL Wolfsburg Frauen vs. Chelsea FCW, UEFA Women’s Champions League: Lineups &#038; Game Thread
-- The Daily Hilario: Wednesday
-- VfL Wolfsburg Frauen vs. Chelsea FCW, UEFA Women’s Champions League: Preview, team news, how to watch
-- Estêvão to miss a couple games with ‘small muscular injury’
 
 <!-- news_marker ends -->
 
@@ -84,14 +85,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- US justice department releases cache of Epstein files
-- Trump fails to put Epstein behind him with partial release of files
-- What to know about the new Epstein files release
-- UK rules out using frozen Russian assets to aid Ukraine
-- It’s beginning to look a lot like holiday job season
-- Don’t believe the fake gloom about London
-- Delaware high court reinstates Musk’s $56bn Tesla pay package
-- London St Pancras revamp aims to cut Eurostar waiting time to 15 minutes
+- US justice department under fire for removing Trump image from Epstein files
+- Role reversal: how foot-dragging France blindsided newly assertive Berlin
+- Year in a word: Affordability
+- In praise of male courage
+- Fidelity pledges crackdown on excessive corporate pay
+- Inside Tencent’s deal to use Nvidia’s best AI chips in Japan
+- Revolut clashes with former staff over tax on share awards
+- Alcohol consumption falls to record low in Britain
 
 <!-- ftnews_marker ends -->
 
@@ -106,33 +107,33 @@ seo: Good Morning, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> I have just three things to teach -  simplicity, patience, compassion. These three are your greatest treasures. - Lao Tzu
+> Scrum is like your mother-in-law, it points out ALL your faults. - Ken Schwaber, Scrum Trainer and Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Overtly resist change
+> Look at the order in which you do things
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Turbo (Rated: 3)
-- Released in 2013
-- Summary: A freak accident might just help an everyday garden snail achieve his biggest dream: winning the Indy 500.
+- Surveillance (Rated: 9)
+- Released in 2008
+- Summary: Two FBI agents attempt to clarify the murders occurring in a desolate region. They approach the witnesses of the latest incident with the help of the local police. All of them hide something and all have wildly different stories t...
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 217, using [2, 9, 10, 25, 50, 75]
-- Answer: 26 solutions.
+- Target: 159, using [2, 3, 6, 9, 10, 100]
+- Answer: 59 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 x 50 / 10 + 9 ) / 2 + 25
+  Solution: ( 10 + 9 ) x ( 6 - 3 ) + 100 + 2
 
    </details>
 
