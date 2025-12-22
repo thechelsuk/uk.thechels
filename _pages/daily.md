@@ -7,54 +7,39 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 21 December 2025
+## On Monday, 22 December 2025
 
-- The average temperature today is 8.64˚C,
-- With highs of 9.18˚C and lows of 8.16˚C,
-- It may feel like 7.09˚C with overcast clouds
+- The average temperature today is 9.97˚C,
+- With highs of 10.29˚C and lows of 9.28˚C,
+- It may feel like 8.67˚C with overcast clouds
 - The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1005hPa and humidity is 93%
-- The sun will rise at 08:13 and set at 15:59
+- The pressure is 1003hPa and humidity is 90%
+- The sun will rise at 08:14 and set at 15:59
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 656 days since the last change (2024-03-05)
+- It has been 657 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be a learning individual.
+> Move fast.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Brackley Town v Morecambe
-- Solihull Moors v Sutton United
-- Crystal Palace Women v Arsenal Women
-- Liverpool Women v Chelsea Women
-- Manchester United Women v Tottenham Hotspur Women
-- West Ham United Women v Manchester City Women
-- Sheffield United Women v Southampton Women
-- Braintree Town v Hartlepool United
-- Gateshead v Eastleigh
-- Birmingham City Women v Durham Women
-- Bristol City Women v Crystal Palace Women
-- Charlton Athletic Women v Nottingham Forest Women
-- Portsmouth Women v Newcastle United Women
-- Sunderland AFC Women v Ipswich Town Women
-- Boreham Wood v Carlisle United
-- FC Halifax Town v Wealdstone
-- Aston Villa v Manchester United
+- Fulham v Nottingham Forest
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -68,16 +53,16 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Liverpool FCW 1-9 Chelsea FCW, Women’s League Cup: Post-match reaction
+- Liverpool FCW vs. Chelsea FCW, Women’s League Cup: Confirmed lineups; how to watch
+- Enzo Maresca credits Chelsea ‘character, togetherness’ for historic fightback against Newcastle United
+- Liverpool FCW vs. Chelsea FCW, Women’s League Cup: Preview, team news, how to watch
+- The Daily Hilario: Sunday
 - Newcastle United 2-2 Chelsea, Premier League: Post-match reaction, ratings
 - Newcastle United vs. Chelsea, Premier League: Lineups &#038; Game Thread
 - Chelsea fans’ preferred lineup against Newcastle: The A+ Team
 - The Daily Hilario: Saturday
 - Newcastle United vs. Chelsea, Premier League: Preview, team news, how to watch
-- The Daily Hilario: Friday
-- How should Chelsea line up against Newcastle United?
-- The Daily Hilario: Thursday
-- Cardiff City 1-3 Chelsea, Player Ratings: Garnacho to the rescue
-- Chelsea to play either Arsenal or Crystal Palace in League Cup semifinals
 
 <!-- news_marker ends -->
 
@@ -85,14 +70,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- US justice department under fire for removing Trump image from Epstein files
-- Role reversal: how foot-dragging France blindsided newly assertive Berlin
-- Year in a word: Affordability
-- In praise of male courage
-- Fidelity pledges crackdown on excessive corporate pay
-- Inside Tencent’s deal to use Nvidia’s best AI chips in Japan
-- Revolut clashes with former staff over tax on share awards
-- Alcohol consumption falls to record low in Britain
+- Binance allowed suspicious accounts to operate even after 2023 US plea agreement
+- The stock market winners and losers of 2025
+- Happy K-shaped Christmas
+- How upbeat battlefield briefings are fuelling Putin’s confidence
+- UK cannot ignore deep-sea threat from Russia, head of Navy warns
+- Apollo cuts risk and stockpiles cash in preparation for market turmoil
+- US steps up blockade of Venezuela by seeking to board third oil tanker
+- Sweden boards sanctioned Russian vessel off its coast
 
 <!-- ftnews_marker ends -->
 
@@ -100,40 +85,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > deserts - noun: Something that is deserved.
+ > frowze - verb tr., intr.: To be or to make untidy, tangled, or ruffled. noun: A wig of frizzed hair.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Scrum is like your mother-in-law, it points out ALL your faults. - Ken Schwaber, Scrum Trainer and Author
+> Anyone who has never made a mistake has never tried anything new. - Albert Einstein
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Look at the order in which you do things
+> Simple subtraction
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Surveillance (Rated: 9)
-- Released in 2008
-- Summary: Two FBI agents attempt to clarify the murders occurring in a desolate region. They approach the witnesses of the latest incident with the help of the local police. All of them hide something and all have wildly different stories t...
+- Soulmate (Rated: 10)
+- Released in 2013
+- Summary: Two women who have been close friends since adolescence must cope with the changes that maturity brings.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 159, using [2, 3, 6, 9, 10, 100]
-- Answer: 59 solutions.
+- Target: 424, using [4, 6, 25, 50, 75, 100]
+- Answer: 44 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 10 + 9 ) x ( 6 - 3 ) + 100 + 2
+  Solution: ( 100 + 75 + 6 - 50 - 25 ) x 4
 
    </details>
 
