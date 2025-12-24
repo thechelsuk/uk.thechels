@@ -121,3 +121,8 @@ navigation_footer:
     title: "Privacy"
   - link: "/.well-known/security.txt"
     title: "Security"
+  - link: "https://bsky.app/profile/thechels.uk"
+    title: "@bsky" 
+  - link: "https://mastodon.social/@Thechelsuk"
+    title: "@Masto"
+    
