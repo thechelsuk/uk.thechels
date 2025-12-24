@@ -7,34 +7,32 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 23 December 2025
+## On Wednesday, 24 December 2025
 
-- The average temperature today is 7.18˚C,
-- With highs of 7.6˚C and lows of 6.51˚C,
-- It may feel like 4.53˚C with overcast clouds
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 92%
-- The sun will rise at 08:14 and set at 16:00
+- The average temperature today is 5.46˚C,
+- With highs of 6.08˚C and lows of 4.6˚C,
+- It may feel like 2.97˚C with broken clouds
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 1031hPa and humidity is 80%
+- The sun will rise at 08:15 and set at 16:00
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 658 days since the last change (2024-03-05)
+- It has been 659 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Do better with less.
+> Think aptitude and attitude.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -47,23 +45,23 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 123.13999938964844 
+- VWRL.L : 123.37000274658203 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Arsenal squeak by Crystal Palace to set up League Cup semifinal against Chelsea
+- Chelsea make inquiry, then pass on Antoine Semenyo — reports
+- The Daily Hilario: Tuesday
+- Aarón Anselmino to stay at Borussia Dortmund despite lack of minutes — report
 - Newcastle United 2-2 Chelsea, Player Ratings: St Reece James’ Park
 - The Daily Hilario: Monday
 - Liverpool FCW 1-9 Chelsea FCW, Women’s League Cup: Post-match reaction
 - Liverpool FCW vs. Chelsea FCW, Women’s League Cup: Confirmed lineups; how to watch
 - Enzo Maresca credits Chelsea ‘character, togetherness’ for historic fightback against Newcastle United
 - Liverpool FCW vs. Chelsea FCW, Women’s League Cup: Preview, team news, how to watch
-- The Daily Hilario: Sunday
-- Newcastle United 2-2 Chelsea, Premier League: Post-match reaction, ratings
-- Newcastle United vs. Chelsea, Premier League: Lineups &#038; Game Thread
-- Chelsea fans’ preferred lineup against Newcastle: The A+ Team
 
 <!-- news_marker ends -->
 
@@ -71,14 +69,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- AI debt boom pushes US corporate bond sales close to record
-- Year in a word: AI bubble
-- Is Christmas as good for the UK economy as it used to be?
-- The good, the bad and the ugly of Britain’s labour market reforms
-- The prison island where Turkey locked its past
-- House prices fall in half of London boroughs
-- UK exporters increasingly dissatisfied with EU trade terms, survey finds
-- Novo Nordisk weight-loss drug wins US approval as a daily pill
+- Tech groups shift $120bn of AI data centre debt off balance sheets
+- The slow death of Britain’s TV channels
+- Subscription overload is exhausting Americans
+- No, you can’t tell when something was written by AI
+- EU spent less on US energy after $750bn Trump trade deal
+- Investors bet on smaller private equity funds to break deal drought
+- Top Shell auditor leaves EY role as regulators probe independence breaches
+- One of the world’s hottest IPO markets shows signs of weakness
 
 <!-- ftnews_marker ends -->
 
@@ -86,42 +84,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > pipsqueak - noun: Something or someone small or insignificant.
+ > gobmouthed - adjective: Open-mouthed.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> To be uncertain is to be uncomfortable, but to be certain is to be ridiculous. - Chinese Proverb
+> Scrum without automation is like driving a sports car on a dirt track, you will not experience the full potential, you will get frustrated, and you will probably end up blaming the car… - Ilan Goldstein, Scrum Trainer and Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Consult other sources
--promising
--unpromising
+> Humanize something free of error
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Them (Rated: 7)
-- Released in 2006
-- Summary: Lucas and Clementine live peacefully in their isolated country house, but one night they wake up to strange noise... they're not alone... and a group of hooded assailants begin to terrorize them throughout the night.
+- Scary Movie I (Rated: 3)
+- Released in 2000
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 193, using [1, 1, 3, 3, 6, 25]
-- Answer: 4 solutions.
+- Target: 231, using [2, 7, 7, 8, 10, 75]
+- Answer: 26 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 25 + 6 + 1 ) x ( 3 + 3 ) + 1
+  Solution: ( 75 + 8 - 10 - 7 ) x 7 / 2
 
    </details>
 
