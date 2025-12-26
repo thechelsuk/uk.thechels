@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 25 December 2025
+## On Friday, 26 December 2025
 
-- The average temperature today is 3.11˚C,
-- With highs of 3.86˚C and lows of 2.38˚C,
-- It may feel like -1.21˚C with clear sky
-- The wind speed is 5.36m/s and visibility is 10000m
-- The pressure is 1031hPa and humidity is 82%
-- The sun will rise at 08:15 and set at 16:01
+- The average temperature today is 2.61˚C,
+- With highs of 2.69˚C and lows of 2.61˚C,
+- It may feel like 2.61˚C with clear sky
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1028hPa and humidity is 84%
+- The sun will rise at 08:15 and set at 16:02
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 660 days since the last change (2024-03-05)
+- It has been 661 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,13 +32,63 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Challenge assumptions.
+> Use appropriate tools.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- No Fixtures
+- Birmingham City v Derby County
+- Millwall v Ipswich Town
+- Maidstone United v Dover Athletic
+- Coventry City v Swansea City
+- Leicester City v Watford
+- Middlesbrough v Blackburn Rovers
+- Norwich City v Charlton Athletic
+- Oxford United v Southampton
+- Portsmouth v QPR
+- Sheffield Wednesday v Hull City
+- Stoke City v Preston North End
+- West Brom v Bristol City
+- AFC Wimbledon v Stevenage
+- Barnsley v Mansfield Town
+- Blackpool v Doncaster Rovers
+- Bolton Wanderers v Rotherham United
+- Bradford City v Wigan Athletic
+- Burton Albion v Northampton Town
+- Cardiff City v Exeter City
+- Huddersfield Town v Port Vale
+- Luton Town v Wycombe Wanderers
+- Peterborough United v Leyton Orient
+- Plymouth Argyle v Reading
+- Stockport County v Lincoln City
+- Accrington Stanley v Barrow AFC
+- Bristol Rovers v Bromley
+- Cheltenham Town v Shrewsbury Town
+- Chesterfield v Notts County
+- Crawley Town v Colchester United
+- Gillingham v Cambridge United
+- Grimsby Town v Oldham Athletic
+- MK Dons v Swindon Town
+- Newport County v Barnet
+- Salford City v Harrogate Town
+- Tranmere Rovers v Fleetwood Town
+- Walsall v Crewe Alexandra
+- Brackley Town v Forest Green Rovers
+- Braintree Town v Southend United
+- Eastleigh v Woking
+- FC Halifax Town v Altrincham
+- Gateshead v Carlisle United
+- Hartlepool United v Scunthorpe United
+- Morecambe v Rochdale
+- Solihull Moors v Tamworth
+- Sutton United v Aldershot Town
+- Truro City v Yeovil Town
+- Wealdstone v Boreham Wood
+- York City v Boston United
+- Hereford v Kidderminster Harriers
+- Wrexham v Sheffield United
+- Manchester United v Newcastle United
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -52,6 +102,8 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- How should Chelsea line up against Aston Villa on Day After Boxing Day?
+- The Daily Hilario: Merry Christmas
 - Nicolas Jackson bags brace for Senegal at Africa Cup of Nations
 - The Daily Hilario: Wednesday
 - Arsenal squeak by Crystal Palace to set up League Cup semifinal against Chelsea
@@ -60,8 +112,6 @@ seo: Good Morning, Here is your daily briefing
 - Aarón Anselmino to stay at Borussia Dortmund despite lack of minutes — report
 - Newcastle United 2-2 Chelsea, Player Ratings: St Reece James’ Park
 - The Daily Hilario: Monday
-- Liverpool FCW 1-9 Chelsea FCW, Women’s League Cup: Post-match reaction
-- Liverpool FCW vs. Chelsea FCW, Women’s League Cup: Confirmed lineups; how to watch
 
 <!-- news_marker ends -->
 
@@ -69,10 +119,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Zelenskyy open to demilitarised zone as part of peace deal if Russia pulls back
-- US justice department says full Epstein file release could take ‘few more weeks’
-- Nvidia to poach top staff from AI chip start-up Groq in licensing deal
-- Big US banks add $600bn in value as deregulation spurs gains
+- AI boom adds $500bn to net worth of US tech billionaires in 2025
+- AI ‘world models’ promise to reshape $190bn video games industry
+- How weight-loss jabs are changing life in the City
+- China isn’t just dumping cheap goods anymore — it’s sending caviar
+- The FTSE 100’s worst and best performers in 2025
+- Trump says US struck Isis targets in Nigeria over attacks on Christians
+- UK aid sector braces for spending cuts in 2026
+- Bayeux Tapestry set to be covered by £800mn UK Treasury indemnity
 
 <!-- ftnews_marker ends -->
 
@@ -80,40 +134,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > juvenescence - noun: 1. A youthful state. 2. The state of becoming young or juvenile.
+ > oxytonize - verb tr.: To make oxytone, that is, to put the stress on the last syllable.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Facts are better than dreams. - Winston Churchill
+> No matter what the problem is, it is always a people problem. - Gerald M. Weinberg
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Consider different fading systems
+> improve his virility shovels them straight into his lap)
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Havoc (Rated: 6)
-- Released in 2005
-- Summary: After a drug deal gone wrong, a bruised detective must fight his way through the criminal underworld to rescue a politician's estranged son, unraveling a deep web of corruption and conspiracy that ensnares his entire city.
+- The Eagle (Rated: 5)
+- Released in 2011
+- Summary: In Roman-ruled Britain, a young Roman soldier endeavors to honor his father's memory by finding his lost legion's golden emblem.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 467, using [1, 5, 6, 9, 50, 75]
-- Answer: 8 solutions.
+- Target: 776, using [4, 5, 6, 9, 9, 75]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 50 - 6 ) x ( 5 - 1 ) - 9
+  Solution: ( ( 75 - 9 x 6 ) x 9 + 5 ) x 4
 
    </details>
 
