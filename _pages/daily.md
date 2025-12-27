@@ -7,13 +7,13 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 26 December 2025
+## On Saturday, 27 December 2025
 
-- The average temperature today is 2.61˚C,
-- With highs of 2.69˚C and lows of 2.61˚C,
-- It may feel like 2.61˚C with clear sky
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1028hPa and humidity is 84%
+- The average temperature today is 1.26˚C,
+- With highs of 2.38˚C and lows of -0.16˚C,
+- It may feel like -0.06˚C with clear sky
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1034hPa and humidity is 91%
 - The sun will rise at 08:15 and set at 16:02
 
 <!-- weather_marker ends -->
@@ -21,74 +21,26 @@ seo: Good Morning, Here is your daily briefing
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 661 days since the last change (2024-03-05)
+- It has been 662 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Water the plants
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Use appropriate tools.
+> Use a common language.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Birmingham City v Derby County
-- Millwall v Ipswich Town
-- Maidstone United v Dover Athletic
-- Coventry City v Swansea City
-- Leicester City v Watford
-- Middlesbrough v Blackburn Rovers
-- Norwich City v Charlton Athletic
-- Oxford United v Southampton
-- Portsmouth v QPR
-- Sheffield Wednesday v Hull City
-- Stoke City v Preston North End
-- West Brom v Bristol City
-- AFC Wimbledon v Stevenage
-- Barnsley v Mansfield Town
-- Blackpool v Doncaster Rovers
-- Bolton Wanderers v Rotherham United
-- Bradford City v Wigan Athletic
-- Burton Albion v Northampton Town
-- Cardiff City v Exeter City
-- Huddersfield Town v Port Vale
-- Luton Town v Wycombe Wanderers
-- Peterborough United v Leyton Orient
-- Plymouth Argyle v Reading
-- Stockport County v Lincoln City
-- Accrington Stanley v Barrow AFC
-- Bristol Rovers v Bromley
-- Cheltenham Town v Shrewsbury Town
-- Chesterfield v Notts County
-- Crawley Town v Colchester United
-- Gillingham v Cambridge United
-- Grimsby Town v Oldham Athletic
-- MK Dons v Swindon Town
-- Newport County v Barnet
-- Salford City v Harrogate Town
-- Tranmere Rovers v Fleetwood Town
-- Walsall v Crewe Alexandra
-- Brackley Town v Forest Green Rovers
-- Braintree Town v Southend United
-- Eastleigh v Woking
-- FC Halifax Town v Altrincham
-- Gateshead v Carlisle United
-- Hartlepool United v Scunthorpe United
-- Morecambe v Rochdale
-- Solihull Moors v Tamworth
-- Sutton United v Aldershot Town
-- Truro City v Yeovil Town
-- Wealdstone v Boreham Wood
-- York City v Boston United
-- Hereford v Kidderminster Harriers
-- Wrexham v Sheffield United
-- Manchester United v Newcastle United
+- Nottingham Forest v Manchester City
+- Chelsea v Aston Villa
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -102,6 +54,8 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Leo Castledine can’t stop scoring for Huddersfield Town
+- The Daily Hilario: Friday
 - How should Chelsea line up against Aston Villa on Day After Boxing Day?
 - The Daily Hilario: Merry Christmas
 - Nicolas Jackson bags brace for Senegal at Africa Cup of Nations
@@ -110,8 +64,6 @@ seo: Good Morning, Here is your daily briefing
 - Chelsea make inquiry, then pass on Antoine Semenyo — reports
 - The Daily Hilario: Tuesday
 - Aarón Anselmino to stay at Borussia Dortmund despite lack of minutes — report
-- Newcastle United 2-2 Chelsea, Player Ratings: St Reece James’ Park
-- The Daily Hilario: Monday
 
 <!-- news_marker ends -->
 
@@ -119,14 +71,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- AI boom adds $500bn to net worth of US tech billionaires in 2025
-- AI ‘world models’ promise to reshape $190bn video games industry
-- How weight-loss jabs are changing life in the City
-- China isn’t just dumping cheap goods anymore — it’s sending caviar
-- The FTSE 100’s worst and best performers in 2025
-- Trump says US struck Isis targets in Nigeria over attacks on Christians
-- UK aid sector braces for spending cuts in 2026
-- Bayeux Tapestry set to be covered by £800mn UK Treasury indemnity
+- Italy and Spain shake off ‘periphery’ tag as borrowing premiums hit 16-year low
+- The relentless rise of YouTube
+- The political weaponisation of sleep
+- Year in a word: Stablecoins
+- Zelenskyy to meet Trump at Mar-a-Lago this weekend
+- Union chief backs calls for a UK-EU customs union
+- Saudi strikes UAE-backed faction in Yemen as Gulf rift deepens
+- Mosque bombing in Alawite district in Syria leaves at least 8 dead
 
 <!-- ftnews_marker ends -->
 
@@ -141,33 +93,33 @@ seo: Good Morning, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> No matter what the problem is, it is always a people problem. - Gerald M. Weinberg
+> When we go into that new project, we believe in it all the way. We have confidence in our ability to do it right. - Walt Disney
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> improve his virility shovels them straight into his lap)
+> Go slowly all the way round the outside
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Eagle (Rated: 5)
-- Released in 2011
-- Summary: In Roman-ruled Britain, a young Roman soldier endeavors to honor his father's memory by finding his lost legion's golden emblem.
+- Occupation (Rated: 3)
+- Released in 2018
+- Summary: A small group of town residents have to band together after a devastating ground invasion. As they struggle to survive, they realize they must stay one step ahead of their attackers, and work together for a chance to strike back.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 776, using [4, 5, 6, 9, 9, 75]
-- Answer: 3 solutions.
+- Target: 982, using [3, 6, 10, 50, 75, 100]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 75 - 9 x 6 ) x 9 + 5 ) x 4
+  Solution: ( 100 + 75 - 3 ) x 6 - 50
 
    </details>
 
