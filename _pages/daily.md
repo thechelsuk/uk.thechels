@@ -7,58 +7,54 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 29 December 2025
+## On Tuesday, 30 December 2025
 
-- The average temperature today is 4.27˚C,
-- With highs of 4.36˚C and lows of 3.49˚C,
-- It may feel like 3.34˚C with overcast clouds
+- The average temperature today is 4.14˚C,
+- With highs of 4.99˚C and lows of 3.17˚C,
+- It may feel like 3.19˚C with overcast clouds
 - The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1029hPa and humidity is 81%
-- The sun will rise at 08:16 and set at 16:04
+- The pressure is 1032hPa and humidity is 92%
+- The sun will rise at 08:16 and set at 16:05
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 664 days since the last change (2024-03-05)
+- It has been 665 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Use a common language.
+> Think aptitude and attitude.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Coventry City v Ipswich Town
-- Leicester City v Derby County
-- Sheffield Wednesday v Blackburn Rovers
-- Bradford City v Port Vale
-- Plymouth Argyle v Wycombe Wanderers
-- Grimsby Town v Shrewsbury Town
-- Tranmere Rovers v Barrow AFC
-- Birmingham City v Southampton
+- No Fixtures
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 123.33999633789062 
+- VWRL.L : 123.37000274658203 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- The Daily Hilario: Monday
 - Chelsea 1-2 Aston Villa, Player Ratings: Reece James alone not enough
 - Jorrel Hato ‘number one’ on Ajax Amsterdam’s January wishlist — report
 - Enzo Maresca rues missed chances as Chelsea drop more points from winning positions
@@ -68,7 +64,6 @@ seo: Good Morning, Here is your daily briefing
 - Chelsea fans’ preferred lineup against Aston Villa: The usual suspects
 - The Daily Hilario: Saturday
 - Chelsea vs. Aston Villa, Premier League: Preview, team news, how to watch
-- Leo Castledine can’t stop scoring for Huddersfield Town
 
 <!-- news_marker ends -->
 
@@ -76,14 +71,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump and Zelenskyy talks fail to deliver breakthrough on Ukraine peace deal
-- ‘Capital of capital’: how Abu Dhabi rose as a sovereign wealth power
-- The AI boom is not a bubble
-- The rise of the side hustle
-- Europe’s largest defence groups set to return $5bn to shareholders in 2025
-- China launches military drills around Taiwan
-- Accounting body scraps remote exams to combat cheating
-- UK needs £800bn of new funding by 2040 to meet defence pledge, says report
+- Private equity firms sell assets to themselves at a record rate
+- Charts of the year: Trump’s attempt to reshape world trade
+- British business has an opportunity to defy the gloom
+- Winter fuel was Labour’s administration-defining mistake
+- Trump threatens strikes against Iran if it restarts nuclear programme
+- Top US law firms hand associates $300,000-plus bonuses
+- China steps up Taiwan military drills with live-fire exercises
+- Boost from joining euro would have covered cost of NHS, adviser told Blair
 
 <!-- ftnews_marker ends -->
 
@@ -91,40 +86,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > nutation - noun: 1. The nodding of the head, especially when involuntary. 2. The oscillation of the axis of a rotating object, such as a planet or a gyroscope. 3. The curving movement of a part in a growing plant.
+ > noodly - adjective: 1. Involving casual or meandering improvisation. 2. Of or relating to noodles. 3. Floppy, weak, or thin.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> A great ScrumMaster grasps the skills and mindset of the role. - Geoff Watts
+> Do not cling to mistake because you spent a lot of time making it - unknown
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> improve his virility shovels them straight into his lap)
+> Don't break the silence
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Outlander (Rated: 3)
-- Released in 2014–
-- Summary: Claire Beauchamp Randall, a nurse in World War II, mysteriously goes back in time to Scotland in 1743. There, she meets a dashing Highland warrior and gets drawn into an epic rebellion.
+- The Reckoning (Rated: 10)
+- Released in 2003
+- Summary: A priest on the lam takes up with a traveling band of actors, who then discover a murder has occurred and try to solve it by recreating the crime in a play.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 889, using [2, 3, 8, 25, 50, 75]
-- Answer: 3 solutions.
+- Target: 443, using [1, 5, 8, 10, 50, 100]
+- Answer: 10 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 x 25 + 3 ) / 2 - 50
+  Solution: ( 100 - 50 - 5 ) x 10 + 1 - 8
 
    </details>
 
