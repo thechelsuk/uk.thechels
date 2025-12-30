@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: About TheChels.uk
+title: About thechelsuk
 permalink: /about
 seo: About page for the owner of thechels.uk
 ---
