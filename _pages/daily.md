@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 01 January 2026
+## On Saturday, 03 January 2026
 
-- The average temperature today is 2.45˚C,
-- With highs of 3.86˚C and lows of 2.04˚C,
-- It may feel like -0.29˚C with broken clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 81%
-- The sun will rise at 08:15 and set at 16:07
+- The average temperature today is -0.44˚C,
+- With highs of 1.08˚C and lows of -1.38˚C,
+- It may feel like -1.99˚C with broken clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1010hPa and humidity is 88%
+- The sun will rise at 08:15 and set at 16:09
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 667 days since the last change (2024-03-05)
+- It has been 669 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,36 +32,49 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Exploit the landscape.
+> One Step Beyond.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- No Fixtures
+- Aston Villa v Nottingham Forest
+- Aldershot Town v Solihull Moors
+- Altrincham v Morecambe
+- Boston United v Eastleigh
+- Carlisle United v Wealdstone
+- Forest Green Rovers v FC Halifax Town
+- Rochdale v Brackley Town
+- Southend United v Truro City
+- Tamworth v Gateshead
+- Woking v Hartlepool United
+- Darlington v Macclesfield FC
+- Dover Athletic v Torquay United
+- Yeovil Town v Braintree Town
+- AFC Bournemouth v Arsenal
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 123.66999816894531 
+- VWRL.L : 123.41000366210938 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
-- Chelsea flounder yet again in December malaise
-- The Daily Hilario: Wednesday
-- Chelsea 2-2 AFC Bournemouth, Premier League: Post-match reaction
-- Chelsea vs. AFC Bournemouth, Premier League: Lineups &#038; Game Thread
-- Chelsea fans’ preferred lineup against Bournemouth: Anyone for left back?
-- Chelsea vs. AFC Bournemouth, Premier League: Preview, team news, how to watch
-- The Daily Hilario: Tuesday
-- How should Chelsea line up against AFC Bournemouth?
-- The Daily Hilario: Monday
-- Chelsea 1-2 Aston Villa, Player Ratings: Reece James alone not enough
+- Liam Rosenior plays down speculation, but Chelsea move reportedly ‘imminent’
+- How should interim Chelsea line up against Manchester City?
+- Calum McFarlane just happy to be here, at this &#8216;brilliant&#8217; and &#8216;amazing&#8217; club
+- The Daily Hilario: Friday
+- Liam Rosenior the ‘leading candidate’ to replace Enzo Maresca; Calum McFarlane to take interim charge — reports
+- Chelsea 2-2 AFC Bournemouth, Player Ratings: End of year Blues
+- Official: Enzo Maresca has left Chelsea
+- Enzo Maresca ‘expected’ to leave Chelsea today — report
+- The Daily Hilario: Happy New Year!
+- Enzo Maresca considering his future at Chelsea Football Club — reports
 
 <!-- news_marker ends -->
 
@@ -69,14 +82,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- SpaceX, OpenAI and Anthropic prepare to launch landmark IPOs
-- Mamdani to press ahead with tax rises for New York City millionaires
-- The rupture of the UAE-Saudi Arabia alliance
-- Five simple ways to reset your finances in 2026
-- Warren Buffett hands over Berkshire Hathaway’s reins to Greg Abel
-- Russian shoppers pay double for sanctions-hit luxury goods from Europe
-- Number of women barristers in UK Supreme Court cases fails to increase in 17 years
-- Apple cuts Vision Pro production and marketing after weak sales
+- Gold tipped to extend record-breaking rally in 2026
+- How the bubble bursts
+- The messy art of escapism
+- The red flags investors should look for in private lending
+- Electric vehicle sales set for slowest growth since pandemic
+- Tesla loses EV crown to China’s BYD
+- Mukesh Ambani takes on Coca-Cola and Pepsi for India fizzy drink supremacy
+- FTSE 100 tops 10,000 for first time in new year rally
 
 <!-- ftnews_marker ends -->
 
@@ -84,40 +97,42 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > nouveau - adjective: New.
+ > new-collar - adjective: Relating to jobs that require specialized skills, but not necessarily a college education.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> If your actions inspire others to dream more, learn more, do more and become more, you are a leader. - John Quincy Adams
+> It does not matter how good you are today; if you are not better next month, you are no longer agile. - Mike Cohn, Agile Trainer and Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Remove ambiguities and convert to specifics
+> Children's voices
+-speaking
+-singing
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Conjuring 2 (Rated: 6)
-- Released in 2016
-- Summary: Ed and Lorraine Warren travel to North London to help a single mother raising four children alone in a house plagued by a supernatural spirit.
+- Downsizing (Rated: 2)
+- Released in 2017
+- Summary: A social satire in which a man realizes he would have a better life if he were to shrink himself to five inches tall, allowing him to live in wealth and splendor.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 725, using [1, 2, 4, 8, 8, 75]
-- Answer: 3 solutions.
+- Target: 184, using [3, 4, 5, 8, 25, 100]
+- Answer: 88 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 8 - 2 ) x ( 8 + 1 ) - 4
+  Solution: ( 25 - 8 / ( 5 - 3 ) ) x 4 + 100
 
    </details>
 
