@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 03 January 2026
+## On Sunday, 04 January 2026
 
-- The average temperature today is -0.44˚C,
-- With highs of 1.08˚C and lows of -1.38˚C,
-- It may feel like -1.99˚C with broken clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 88%
-- The sun will rise at 08:15 and set at 16:09
+- The average temperature today is -3.32˚C,
+- With highs of -2.24˚C and lows of -4.47˚C,
+- It may feel like -3.32˚C with few clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1015hPa and humidity is 89%
+- The sun will rise at 08:15 and set at 16:10
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 669 days since the last change (2024-03-05)
+- It has been 670 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,26 +32,25 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> One Step Beyond.
+> Provide purpose, mastery and autonomy.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Aston Villa v Nottingham Forest
-- Aldershot Town v Solihull Moors
-- Altrincham v Morecambe
-- Boston United v Eastleigh
-- Carlisle United v Wealdstone
-- Forest Green Rovers v FC Halifax Town
-- Rochdale v Brackley Town
-- Southend United v Truro City
-- Tamworth v Gateshead
-- Woking v Hartlepool United
-- Darlington v Macclesfield FC
-- Dover Athletic v Torquay United
-- Yeovil Town v Braintree Town
-- AFC Bournemouth v Arsenal
+- Birmingham City v Coventry City
+- QPR v Sheffield Wednesday
+- Sheffield United v Oxford United
+- Bolton Wanderers v Northampton Town
+- Lincoln City v Peterborough United
+- Cheltenham Town v Crawley Town
+- MK Dons v Chesterfield
+- Leeds United v Manchester United
+- Everton v Brentford
+- Fulham v Liverpool
+- Newcastle United v Crystal Palace
+- Tottenham Hotspur v Sunderland
+- Manchester City v Chelsea
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -65,9 +64,6 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
-- Liam Rosenior plays down speculation, but Chelsea move reportedly ‘imminent’
-- How should interim Chelsea line up against Manchester City?
-- Calum McFarlane just happy to be here, at this &#8216;brilliant&#8217; and &#8216;amazing&#8217; club
 - The Daily Hilario: Friday
 - Liam Rosenior the ‘leading candidate’ to replace Enzo Maresca; Calum McFarlane to take interim charge — reports
 - Chelsea 2-2 AFC Bournemouth, Player Ratings: End of year Blues
@@ -75,6 +71,9 @@ seo: Good Morning, Here is your daily briefing
 - Enzo Maresca ‘expected’ to leave Chelsea today — report
 - The Daily Hilario: Happy New Year!
 - Enzo Maresca considering his future at Chelsea Football Club — reports
+- Chelsea flounder yet again in December malaise
+- The Daily Hilario: Wednesday
+- Chelsea 2-2 AFC Bournemouth, Premier League: Post-match reaction
 
 <!-- news_marker ends -->
 
@@ -82,14 +81,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Gold tipped to extend record-breaking rally in 2026
-- How the bubble bursts
-- The messy art of escapism
-- The red flags investors should look for in private lending
-- Electric vehicle sales set for slowest growth since pandemic
-- Tesla loses EV crown to China’s BYD
-- Mukesh Ambani takes on Coca-Cola and Pepsi for India fizzy drink supremacy
-- FTSE 100 tops 10,000 for first time in new year rally
+- Trump topples Maduro and vows to ‘run’ Venezuela in stark display of US power
+- How will Trump ‘run’ Venezuela?
+- Inside the audacious US operation to capture Maduro
+- Trump now owns Venezuela
+- Trump bets US will extract ‘tremendous’ oil wealth from Venezuela
+- European office deals rebound as investors bet on supply crunch
+- US to extend productivity lead on back of AI boom, say economists
+- China targets online vendors in tax crackdown
 
 <!-- ftnews_marker ends -->
 
@@ -104,35 +103,33 @@ seo: Good Morning, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> It does not matter how good you are today; if you are not better next month, you are no longer agile. - Mike Cohn, Agile Trainer and Author
+> To improve is to change; to be perfect is to change often. - Winston Churchill
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Children's voices
--speaking
--singing
+> Allow an easement (an easement is the abandonment of a stricture)
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Downsizing (Rated: 2)
-- Released in 2017
-- Summary: A social satire in which a man realizes he would have a better life if he were to shrink himself to five inches tall, allowing him to live in wealth and splendor.
+- Red Riding Hood (Rated: 4)
+- Released in 2011
+- Summary: A teenage girl finds herself in deathly straits when her village sets out to hunt the werewolf that terrorizes it every full moon.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 184, using [3, 4, 5, 8, 25, 100]
-- Answer: 88 solutions.
+- Target: 457, using [1, 7, 10, 50, 75, 100]
+- Answer: 10 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 25 - 8 / ( 5 - 3 ) ) x 4 + 100
+  Solution: ( 100 - 50 ) x ( 10 - 1 ) + 7
 
    </details>
 
