@@ -7,63 +7,68 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 06 January 2026
+## On Wednesday, 07 January 2026
 
-- The average temperature today is -1.68˚C,
-- With highs of -0.4˚C and lows of -1.83˚C,
-- It may feel like -1.68˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 81%
-- The sun will rise at 08:14 and set at 16:13
+- The average temperature today is 2.97˚C,
+- With highs of 3.86˚C and lows of 2.04˚C,
+- It may feel like 1.87˚C with scattered clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1004hPa and humidity is 83%
+- The sun will rise at 08:14 and set at 16:14
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 672 days since the last change (2024-03-05)
+- It has been 673 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Know your users.
+> One Step Beyond.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- West Ham United v Nottingham Forest
+- AFC Bournemouth v Tottenham Hotspur
+- Brentford v Sunderland
+- Crystal Palace v Aston Villa
+- Everton v Wolves
+- Fulham v Chelsea
+- Manchester City v Brighton & Hove Albion
+- Burnley v Manchester United
+- Newcastle United v Leeds United
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 124.45999908447266 
+- VWRL.L : 124.87999725341797 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- How should still-interim Chelsea line up against Fulham?
+- Official: Chelsea appoint Liam Rosenior as new head coach
+- The Daily Hilario: Tuesday
+- Manchester City 1-1 Chelsea, Player Ratings: The Enzo we need
+- Calum McFarlane to remain in charge of Chelsea against Fulham as well — report
 - Calum McFarlane &#8216;very proud&#8217; of Chelsea players&#8217; character in Manchester City draw
 - The Daily Hilario: Monday
 - Manchester City 1-1 Chelsea, Premier League: Post-match reaction
 - Manchester City vs. Chelsea, Premier League: Lineups &#038; Game Thread
 - Chelsea fans’ preferred lineup against Manchester City: Let’s just try to have some fun
-- The Daily Hilario: Sunday
-- Liam Rosenior loves Strasbourg, but ‘wants to work at the highest possible level’
-- Manchester City vs. Chelsea, Premier League: Preview, team news, how to watch
-- The Daily Hilario: Saturday
-- Liam Rosenior plays down speculation, but Chelsea move reportedly ‘imminent’
 
 <!-- news_marker ends -->
 
@@ -71,14 +76,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Venezuela launches wave of repression after US seizure of Maduro
-- White House seeks to reassure Republicans over Venezuela’s future
-- Hedge funds profit as Venezuela’s bonds surge
-- The long wait of María Corina Machado
-- The drugs case against Maduro
-- China’s influence in US backyard tested by Maduro’s downfall
-- Microsoft and McKinsey pay up to $1mn each to back Trump’s Davos hub
-- London office shortage forces big companies to stay put
+- Trump says US to take sanctioned Venezuelan oil to American ports
+- Hedge funds hunt for Venezuela’s unpaid financial claims
+- Polymarket refuses to pay bets that US would ‘invade’ Venezuela
+- Cuba: what is left for Trump to topple?
+- Don’t be fooled — everything has changed for the global economy
+- Watch out for America’s activist attorneys-general
+- US says using military is among ‘options’ to acquire Greenland
+- Chevron and Quantum Energy Partners line up bid for $22bn of Lukoil assets
 
 <!-- ftnews_marker ends -->
 
@@ -86,40 +91,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > librate - verb intr.: 1. To oscillate, waver. 2. To be poised or balanced.
+ > psilanthropy - noun: The doctrine or belief that Jesus was merely human.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> ScrumMasters are not just an additional expense; they create high-performing teams. - Zuzana Sochova
+> You improvise. You adapt. You overcome. - Clint Eastwood, as Sergeant Highway in Heartbreak Ridge
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> The tape is now the music
+> Fill every beat with something
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Luther: The Fallen Sun (Rated: 3)
-- Released in 2023
-- Summary: Brilliant but disgraced detective John Luther breaks out of prison to hunt down a sadistic serial killer who is terrorising London.
+- Truth or Dare (Rated: 6)
+- Released in 2018
+- Summary: A harmless game of Truth or Dare among friends turns deadly when someone - or something - begins to punish those who tell a lie or refuse the dare.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 560, using [3, 6, 10, 25, 75, 100]
-- Answer: 34 solutions.
+- Target: 679, using [4, 8, 9, 10, 25, 50]
+- Answer: 11 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 25 + 6 - 75 ) x 10
+  Solution: ( 50 + 25 - 8 ) x 10 + 9
 
    </details>
 
