@@ -7,54 +7,54 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 10 January 2026
+## On Sunday, 11 January 2026
 
-- The average temperature today is -1.24˚C,
-- With highs of -0.01˚C and lows of -2.4˚C,
-- It may feel like -1.24˚C with broken clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 95%
-- The sun will rise at 08:12 and set at 16:18
+- The average temperature today is 3.59˚C,
+- With highs of 3.88˚C and lows of 2.94˚C,
+- It may feel like 0.71˚C with overcast clouds
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 86%
+- The sun will rise at 08:12 and set at 16:19
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 676 days since the last change (2024-03-05)
+- It has been 677 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Water the plants
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Use appropriate tools.
+> Be the owner.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Liverpool U18 v Stoke City U18
-- Cheltenham Town v Leicester City
-- Everton v Sunderland
-- Macclesfield FC v Crystal Palace
-- Wolves v Shrewsbury Town
-- Luton Town v Stevenage
-- Stockport County v Huddersfield Town
-- Arsenal Women v Manchester United Women
-- Chelsea U21 v Crystal Palace U21
-- Braintree Town v Boston United
-- Southampton Women v Portsmouth Women
-- Bristol City v Watford
-- Cambridge United v Birmingham City
-- Grimsby Town v Weston Super Mare
-- Tottenham Hotspur v Aston Villa
-- Charlton Athletic v Chelsea
+- Derby County v Leeds United
+- Aston Villa Women v Brighton & Hove Albion Women
+- Chelsea Women v West Ham United Women
+- Manchester City Women v Everton Women
+- Tottenham Hotspur Women v Leicester City Women
+- Durham Women v Sunderland AFC Women
+- Portsmouth v Arsenal
+- Ipswich Town Women v Charlton Athletic Women
+- Newcastle United Women v Birmingham City Women
+- Nottingham Forest Women v Bristol City Women
+- Hull City v Blackburn Rovers
+- Norwich City v Walsall
+- Sheffield United v Mansfield Town
+- Swansea City v West Brom
+- West Ham United v QPR
+- Liverpool Women v London City Lionesses
+- Manchester United v Brighton & Hove Albion
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -68,16 +68,16 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Charlton Athletic 1-5 Chelsea, FA Cup: Post-match reaction
+- Charlton Athletic vs. Chelsea, FA Cup: Lineups &#038; Game Thread
+- Chelsea fans’ preferred lineup against Charlton Athletic: Bring out your subs!
+- Charlton Athletic vs. Chelsea, FA Cup: Preview, team news, how to watch
+- The Daily Hilario: Saturday
 - Liam Rosenior intends to ‘fully enjoy’ his time and take Chelsea to ‘the next level’
 - How should Liam Rosenior’s Chelsea line up against Charlton Athletic in the FA Cup?
 - The Daily Hilario: Friday
 - Calum McFarlane joins Liam Rosenior’s coaching staff
 - Fulham 2-1 Chelsea, Player Ratings: Liam Delap passes the audition
-- The Daily Hilario: Thursday
-- Chelsea ‘want to win so much’, but sabotage own efforts once again
-- Fulham 2-1 Chelsea, Premier League: Post-match reaction
-- Fulham vs. Chelsea, Premier League: Lineups &#038; Game Thread
-- Chelsea fans’ preferred lineup against Fulham: Delap wins the crowd
 
 <!-- news_marker ends -->
 
@@ -85,14 +85,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- US oil giant ExxonMobil tells Trump Venezuela is ‘uninvestable’
-- Venezuelan currency plunges as economy choked by US blockade
-- California’s divisive plan to tax billionaires
-- Starmer should not be afraid to pick a fight to get things done
-- What is to stop Trump upending the rules in global finance too?
-- How Elon Musk’s Grok spread sexual deepfakes and child exploitation images
-- Elon Musk’s xAI restricts Grok after outcry over sexualised images
-- UK hedge fund trader Chris Rokos pays himself £477mn
+- EU demands ‘Farage clause’ as part of Brexit reset talks with Britain
+- Venezuela: the Hizbollah connection
+- Trump’s assault on US defence industry puts investors on edge
+- Why men should really be reading more fiction
+- Iran tightens crackdown as it tackles biggest protests in years
+- Nato silence on Trump’s Greenland threats rattles European allies
+- Digital euro ‘only defence’ against deepening US control of money, economists warn
+- Elite German army unit accused of sexual harassment, drug use and making Nazi salutes
 
 <!-- ftnews_marker ends -->
 
@@ -107,33 +107,33 @@ seo: Good Morning, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The secret of getting ahead is getting started. The secret of getting started is breaking your complex overwhelming tasks into small manageable tasks, and then start on the first one. - Anonymous
+> The art of leadership is saying no, not yes. It is very easy to say yes - Tony Blair
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Make an exhaustive list of everything you might do and do the last
+> Honor thy error as a hidden intention
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Talk to Me (Rated: 3)
-- Released in 2022
-- Summary: When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.
+- The Ice Road (Rated: 3)
+- Released in 2021
+- Summary: After a remote diamond mine collapses in far northern Canada, a 'big-rig' ice road driver must lead an impossible rescue mission over a frozen lake to save the trapped miners.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 550, using [3, 4, 4, 7, 10, 25]
-- Answer: 27 solutions.
+- Target: 912, using [6, 7, 7, 10, 25, 100]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 10 + 7 + 4 + 4 - 3 ) x 25
+  Solution: ( 10 x 7 + 100 + 7 - 25 ) x 6
 
    </details>
 
