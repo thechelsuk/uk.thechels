@@ -7,54 +7,64 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 12 January 2026
+## On Tuesday, 13 January 2026
 
-- The average temperature today is 10.32˚C,
-- With highs of 10.54˚C and lows of 9.05˚C,
-- It may feel like 9.63˚C with light rain
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 1000hPa and humidity is 85%
-- The sun will rise at 08:11 and set at 16:21
+- The average temperature today is 8.79˚C,
+- With highs of 9.41˚C and lows of 8.15˚C,
+- It may feel like 8.79˚C with overcast clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1002hPa and humidity is 93%
+- The sun will rise at 08:10 and set at 16:22
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 678 days since the last change (2024-03-05)
+- It has been 679 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Exploit the landscape.
+> Think aptitude and attitude.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- West Ham United U21 v AFC Wimbledon
-- Wolves U21 v Manchester United U21
-- Sheffield United Women v Crystal Palace Women
-- Liverpool v Barnsley
+- Bolton Wanderers v Port Vale
+- Bristol Rovers v Plymouth Argyle
+- Doncaster Rovers v Fleetwood Town
+- Huddersfield Town v Rotherham United
+- Luton Town v Swindon Town
+- Stockport County v Harrogate Town
+- Southend United v Gateshead
+- Dorking Wanderers v Hornchurch
+- Newcastle United v Manchester City
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 126.12000274658203 
+- VWRL.L : 126.08000183105469 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea drawn against Hull City in FA Cup fourth round
+- The Daily Hilario: Monday
+- Charlton Athletic 1-5 Chelsea, Player Ratings: Get ready for the Hato-ssance
 - Chelsea FCW 5-0 West Ham United FCW, Women’s Super League: Post-match reaction
 - Chelsea FCW vs. West Ham United FCW, Women’s Super League: Confirmed lineups, how to watch
 - Chelsea FCW vs. West Ham United FCW, Women’s Super League: Preview, team news, how to watch
@@ -62,9 +72,6 @@ seo: Good Morning, Here is your daily briefing
 - Liam Rosenior delighted with Chelsea attitude, intensity in first match in charge
 - Charlton Athletic 1-5 Chelsea, FA Cup: Post-match reaction
 - Charlton Athletic vs. Chelsea, FA Cup: Lineups &#038; Game Thread
-- Chelsea fans’ preferred lineup against Charlton Athletic: Bring out your subs!
-- Charlton Athletic vs. Chelsea, FA Cup: Preview, team news, how to watch
-- The Daily Hilario: Saturday
 
 <!-- news_marker ends -->
 
@@ -72,14 +79,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- US prosecutors launch criminal investigation into Fed’s Powell
-- ‘I don’t want to live in an American empire’: Greenlanders bristle at US threats
-- Trump’s new ‘great game’: Mining, mapping and mercantilism
-- India needs to import more capital and export fewer workers
-- Trump says US ‘looking’ at military operations in Iran
-- Trump threatens to block Exxon from Venezuela
-- Wall Street headed for best investment banking year since pandemic
-- Police chief says London is ‘extraordinarily safe’ as murder rate hits historic low
+- UBS boss Sergio Ermotti plans to step down in April 2027
+- Top Republicans denounce justice department’s criminal probe into Fed chair
+- California’s billionaire tax plan will backfire
+- When robots meet commercial reality
+- Coutts in talks with Apollo and Ares over private markets funds for rich clients
+- Billions from a million: the London VC that hit the jackpot with Revolut
+- Trump announces 25% tariff on countries ‘doing business’ with Iran
+- How Iran’s economic pain sparked explosion of unrest
 
 <!-- ftnews_marker ends -->
 
@@ -87,40 +94,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > touch grass - verb tr.: To spend time in the real world, especially as a corrective to excessive online activity.
+ > doomscroll - verb tr., intr.: To scroll through the news or other online material compulsively, especially negative or distressing stories.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Great Product Owners keeps options open. - Geoff Watts
+> Never forget that the great ScrumMaster is, in the first place, a leader. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Use fewer notes
+> Honor thy error as a hidden intention
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Phone (Rated: 9)
-- Released in 2002
-- Summary: Investigative reporter Ji-won begins to receive a series of menacing calls. To escape the terrifying and relentless clanging of the telephone, she changes her number and moves out. But the threatening campaign of terror continues ...
+- Underworld i (Rated: 6)
+- Released in 2003
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 800, using [4, 8, 10, 50, 75, 100]
-- Answer: 94 solutions.
+- Target: 161, using [1, 4, 25, 50, 75, 100]
+- Answer: 6 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 / ( 10 - 8 ) + 100 + 75 ) x 4
+  Solution: 75 x 4 / 25 + 100 + 50 - 1
 
    </details>
 
