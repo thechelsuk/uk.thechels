@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 14 January 2026
+## On Thursday, 15 January 2026
 
-- The average temperature today is -0.8˚C,
-- With highs of 0.55˚C and lows of -1.85˚C,
-- It may feel like -0.8˚C with clear sky
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 95%
-- The sun will rise at 08:09 and set at 16:24
+- The average temperature today is 7.52˚C,
+- With highs of 8.32˚C and lows of 6.49˚C,
+- It may feel like 6.51˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1001hPa and humidity is 90%
+- The sun will rise at 08:09 and set at 16:25
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 680 days since the last change (2024-03-05)
+- It has been 681 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,40 +32,36 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be a learning individual.
+> Set exceptional standards.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Tottenham Hotspur U18 v Aston Villa U18
-- Northampton Town v Walsall
-- Reading U18 v Chelsea U18
-- Manchester City U21 v RB Leipzig U21
-- Chelsea v Arsenal
+- West Brom Women v Everton Women
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 126.29000091552734 
+- VWRL.L : 125.63999938964844 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea 2-3 Arsenal, League Cup: Post-match reaction, ratings
+- Chelsea vs. Arsenal, League Cup: Lineups &#038; Game Thread
+- Chelsea fans’ preferred lineup against Arsenal: Faith in Delap and Estêvão
+- The Daily Hilario: Tuesday … and Wednesday, too!
+- Arsenal vs. Chelsea, League Cup: Preview, team news, how to watch
 - How should Chelsea line up against Arsenal in the first leg of the League Cup semifinal?
-- The Daily Hilario: Tuesday
 - Rosenior: Every game you play, in any project, you&#8217;re trying to win it
 - Chelsea drawn against Hull City in FA Cup fourth round
 - The Daily Hilario: Monday
 - Charlton Athletic 1-5 Chelsea, Player Ratings: Get ready for the Hato-ssance
-- Chelsea FCW 5-0 West Ham United FCW, Women’s Super League: Post-match reaction
-- Chelsea FCW vs. West Ham United FCW, Women’s Super League: Confirmed lineups, how to watch
-- Chelsea FCW vs. West Ham United FCW, Women’s Super League: Preview, team news, how to watch
-- The Daily Hilario: Sunday
 
 <!-- news_marker ends -->
 
@@ -73,14 +69,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump warns Iran to ‘show humanity’ or face ‘very strong action’
-- How Iran switched off the internet — and Iranians fought back
-- Dispatch from Tehran: the week Iranians revolted against the regime
-- Inside the US justice department’s probe of Jay Powell
-- The Maga war on European democracy
-- ‘Welcome to hell’: Venezuela’s most notorious torture chamber
-- Starmer set to drop plans to make digital ID mandatory for UK workers
-- Starmer under pressure amid growing talk of leadership challenge
+- Trump’s ‘unpredictable’ policies to fuel shift from US, Pimco says
+- Can Europe still afford its generous state pensions?
+- Would a ‘mild zombie apocalypse’ be a good thing for the UK economy?
+- Israel waits on US to settle ‘unfinished business’ with Iran
+- Sadiq Khan to warn AI could cause ‘mass unemployment’ in London
+- Musk bows to pressure over Grok creating sexualised AI images
+- Trump says he has received assurances ‘killing in Iran is stopping’
+- The historic bazaar where Iran’s protests began
 
 <!-- ftnews_marker ends -->
 
@@ -88,40 +84,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > shadow ban - verb tr.: To block or restrict someone without their being aware of it. noun: The practice of doing so or an instance of it.
+ > edgelord - noun: A person who affects an edgy persona by saying or doing provocative or offensive things, chiefly to attract attention.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Nothing endures but change. - Heraclitus
+> Intelligence is the ability to adapt to change. - Stephen Hawking
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Use filters
+> Is it finished?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Aladdin I (Rated: 2)
-- Released in 1992
-- Summary: No summary available
+- The Ruins (Rated: 7)
+- Released in 2008
+- Summary: A leisurely Mexican holiday takes a turn for the worse when a group of friends and a fellow tourist embark on a remote archaeological dig in the jungle, where something evil lives among the ruins.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 285, using [3, 6, 10, 25, 50, 100]
-- Answer: 58 solutions.
+- Target: 360, using [2, 2, 3, 10, 25, 75]
+- Answer: 43 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 25 - 50 ) x 3 + 10 x 6
+  Solution: ( 10 x 2 + 75 + 25 ) x 3
 
    </details>
 
