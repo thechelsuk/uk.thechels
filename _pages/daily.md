@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 15 January 2026
+## On Friday, 16 January 2026
 
-- The average temperature today is 7.52˚C,
-- With highs of 8.32˚C and lows of 6.49˚C,
-- It may feel like 6.51˚C with overcast clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1001hPa and humidity is 90%
-- The sun will rise at 08:09 and set at 16:25
+- The average temperature today is 4.92˚C,
+- With highs of 5.54˚C and lows of 4.26˚C,
+- It may feel like 4.08˚C with scattered clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1002hPa and humidity is 96%
+- The sun will rise at 08:08 and set at 16:27
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 681 days since the last change (2024-03-05)
+- It has been 682 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,36 +32,38 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Set exceptional standards.
+> Move fast.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- West Brom Women v Everton Women
+- Burnley U21 v Tottenham Hotspur U21
+- Newcastle United Women v West Ham United Women
+- West Brom v Middlesbrough
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 125.63999938964844 
+- VWRL.L : 127.12000274658203 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea 2-3 Arsenal, Player Ratings: Garnacho keeps hope alive
+- Chelsea ‘ready to make a move for a new defender’ — report
+- Official: Facundo Buonanotte signs on loan with Leeds United after Chelsea loan cut short
+- The Daily Hilario: Thursday
+- Liam Rosenior taking blame, giving praise, focusing on positives from Arsenal defeat
 - Chelsea 2-3 Arsenal, League Cup: Post-match reaction, ratings
 - Chelsea vs. Arsenal, League Cup: Lineups &#038; Game Thread
 - Chelsea fans’ preferred lineup against Arsenal: Faith in Delap and Estêvão
 - The Daily Hilario: Tuesday … and Wednesday, too!
 - Arsenal vs. Chelsea, League Cup: Preview, team news, how to watch
-- How should Chelsea line up against Arsenal in the first leg of the League Cup semifinal?
-- Rosenior: Every game you play, in any project, you&#8217;re trying to win it
-- Chelsea drawn against Hull City in FA Cup fourth round
-- The Daily Hilario: Monday
-- Charlton Athletic 1-5 Chelsea, Player Ratings: Get ready for the Hato-ssance
 
 <!-- news_marker ends -->
 
@@ -69,14 +71,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump’s ‘unpredictable’ policies to fuel shift from US, Pimco says
-- Can Europe still afford its generous state pensions?
-- Would a ‘mild zombie apocalypse’ be a good thing for the UK economy?
-- Israel waits on US to settle ‘unfinished business’ with Iran
-- Sadiq Khan to warn AI could cause ‘mass unemployment’ in London
-- Musk bows to pressure over Grok creating sexualised AI images
-- Trump says he has received assurances ‘killing in Iran is stopping’
-- The historic bazaar where Iran’s protests began
+- EU ‘membership-lite’ plan for Ukraine spooks European capitals
+- Nato troops to be in Greenland on ‘more permanent’ basis
+- How Iran’s regime retook the streets
+- Fiscal threats lurk in the undergrowth for Japan
+- Trump is making the world fall in love with China
+- France warns US that Greenland seizure would endanger EU trade
+- BBC to strike content deal with YouTube
+- Middle East governments believe US-Iran tension has ‘de-escalated’
 
 <!-- ftnews_marker ends -->
 
@@ -84,40 +86,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > edgelord - noun: A person who affects an edgy persona by saying or doing provocative or offensive things, chiefly to attract attention.
+ > nepo baby - noun: A person whose success is significantly aided by family connections.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Intelligence is the ability to adapt to change. - Stephen Hawking
+> If your job is constantly putting out fires, it helps not to walk around with a flamethrower. - Emma Hayes
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Is it finished?
+> Emphasize repetitions
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Ruins (Rated: 7)
-- Released in 2008
-- Summary: A leisurely Mexican holiday takes a turn for the worse when a group of friends and a fellow tourist embark on a remote archaeological dig in the jungle, where something evil lives among the ruins.
+- Ichi The Killer (Rated: 5)
+- Released in 2001
+- Summary: As sadomasochistic yakuza enforcer Kakihara searches for his missing boss he comes across Ichi, a repressed and psychotic killer who may be able to inflict levels of pain that Kakihara has only dreamed of achieving.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 360, using [2, 2, 3, 10, 25, 75]
-- Answer: 43 solutions.
+- Target: 148, using [2, 5, 8, 9, 50, 100]
+- Answer: 51 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 10 x 2 + 75 + 25 ) x 3
+  Solution: 100 + 50 + 9 + 2 - 8 - 5
 
    </details>
 
