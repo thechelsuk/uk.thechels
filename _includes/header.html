@@ -43,16 +43,8 @@
     <link rel="manifest" href="/manifest.json" fetchpriority="low">
     <link rel="indieweb" href="/indieweb.txt" />
 
-        <link rel="alternate" type="application/json" title="{{ site.title }} json" href="{{ site.url }}/feed.json">
+    <link rel="alternate" type="application/json" title="{{ site.title }} json" href="{{ site.url }}/feed.json">
     <link rel="alternate" type="application/rss+xml" title="Daily Rundown" href="{{ site.url }}/daily.xml">
-    {% if page.url == "/" %}
-    <link href="{{ site.url }}/index.md" type="text/markdown" rel="alternate" title="Markdown">
-    {% else %}
-    <link href="{{ site.url }}{{ page.url | strip_slash }}.md" type="text/markdown" rel="alternate" title="Markdown">
-    {% endif %}
-
-
-
     <link rel="icon" href="/images/splashscreens/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="/images/splashscreens/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="512x512" href="/images/splashscreens/apple-touch-icon-512x512.png">
