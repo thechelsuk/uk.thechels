@@ -27,6 +27,8 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: Fix permissions
+        run: chmod -R u+w _site
       - name: Copy markdown source files
         run: |
           find _posts -name "*.md" -o -name "*.markdown" | while read file; do
