@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 16 January 2026
+## On Saturday, 17 January 2026
 
-- The average temperature today is 4.92˚C,
-- With highs of 5.54˚C and lows of 4.26˚C,
-- It may feel like 4.08˚C with scattered clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1002hPa and humidity is 96%
-- The sun will rise at 08:08 and set at 16:27
+- The average temperature today is 6.44˚C,
+- With highs of 6.65˚C and lows of 5.94˚C,
+- It may feel like 5.26˚C with broken clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1010hPa and humidity is 93%
+- The sun will rise at 08:07 and set at 16:29
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 682 days since the last change (2024-03-05)
+- It has been 683 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,28 +32,43 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Move fast.
+> One Step Beyond.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Burnley U21 v Tottenham Hotspur U21
-- Newcastle United Women v West Ham United Women
-- West Brom v Middlesbrough
+- Crystal Palace U18 v West Brom U18
+- Leicester City U18 v Chelsea U18
+- Sunderland AFC Women v London City Lionesses
+- Coventry City v Leicester City
+- Ipswich Town v Blackburn Rovers
+- Watford v Millwall
+- Bradford City v Cardiff City
+- Wigan Athletic v Bolton Wanderers
+- Chesterfield v Bromley
+- Tranmere Rovers v Walsall
+- Hartlepool United v Altrincham
+- Manchester United v Manchester City
+- Swansea City v Birmingham City
+- York City v Southend United
+- Nottingham Forest v Arsenal
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 127.12000274658203 
+- VWRL.L : 126.81999969482422 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- How should injury- and illness-hit Chelsea line up against Brentford?
+- Chelsea FCW vs. Crystal Palace FCW, Women’s FA Cup: Preview, team news, how to watch
+- The Daily Hilario: Friday
 - Chelsea 2-3 Arsenal, Player Ratings: Garnacho keeps hope alive
 - Chelsea ‘ready to make a move for a new defender’ — report
 - Official: Facundo Buonanotte signs on loan with Leeds United after Chelsea loan cut short
@@ -61,9 +76,6 @@ seo: Good Morning, Here is your daily briefing
 - Liam Rosenior taking blame, giving praise, focusing on positives from Arsenal defeat
 - Chelsea 2-3 Arsenal, League Cup: Post-match reaction, ratings
 - Chelsea vs. Arsenal, League Cup: Lineups &#038; Game Thread
-- Chelsea fans’ preferred lineup against Arsenal: Faith in Delap and Estêvão
-- The Daily Hilario: Tuesday … and Wednesday, too!
-- Arsenal vs. Chelsea, League Cup: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -71,14 +83,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- EU ‘membership-lite’ plan for Ukraine spooks European capitals
-- Nato troops to be in Greenland on ‘more permanent’ basis
-- How Iran’s regime retook the streets
-- Fiscal threats lurk in the undergrowth for Japan
-- Trump is making the world fall in love with China
-- France warns US that Greenland seizure would endanger EU trade
-- BBC to strike content deal with YouTube
-- Middle East governments believe US-Iran tension has ‘de-escalated’
+- Trump says he wants Fed chair contender Hassett to stay in White House job
+- The threat to the global economy from Trump’s war on the Fed
+- Trump threatens tariffs on allies over opposition to Greenland plan
+- Is Britain ungovernable?
+- Death of a dream: Saks’ crisis exposes luxury department store woes
+- Trump names Tony Blair, Jared Kushner and Marc Rowan to advise Gaza ‘Board of Peace’
+- US floats expanding Gaza ‘Board of Peace’ to other global hotspots
+- Populism makes managing global economy harder, Andrew Bailey warns
 
 <!-- ftnews_marker ends -->
 
@@ -93,33 +105,33 @@ seo: Good Morning, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> If your job is constantly putting out fires, it helps not to walk around with a flamethrower. - Emma Hayes
+> Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present. - Marcus Aurelius
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Emphasize repetitions
+> Left channel, right channel, center channel
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Ichi The Killer (Rated: 5)
+- J And Silent Bob Strike Back (Rated: 5)
 - Released in 2001
-- Summary: As sadomasochistic yakuza enforcer Kakihara searches for his missing boss he comes across Ichi, a repressed and psychotic killer who may be able to inflict levels of pain that Kakihara has only dreamed of achieving.
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 148, using [2, 5, 8, 9, 50, 100]
-- Answer: 51 solutions.
+- Target: 776, using [1, 3, 3, 6, 25, 75]
+- Answer: 6 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: 100 + 50 + 9 + 2 - 8 - 5
+  Solution: ( ( 25 + 6 ) x 75 + 3 ) / 3
 
    </details>
 
