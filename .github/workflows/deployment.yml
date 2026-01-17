@@ -27,8 +27,6 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      - name: Fix permissions
-        run: chmod -R u+w _site
       - name: Copy markdown source files
         run: |
           find _posts -name "*.md" -o -name "*.markdown" | while read file; do
@@ -40,7 +38,7 @@ jobs:
               slug="${BASH_REMATCH[4]}"
               dest="_site/${year}-${month}-${day}-${slug}.md"
               mkdir -p "$(dirname "$dest")"
-              cp "$file" "$dest"
+              install -m 644 "$file" "$dest"
               echo "Copied $file -> $dest"
             fi
           done
@@ -48,7 +46,7 @@ jobs:
           # Copy page markdown files (about/index.md -> about.md, etc.)
           for dir in about press speaking; do
             if [[ -f "${dir}/index.md" ]]; then
-              cp "${dir}/index.md" "_site/${dir}.md"
+              install -m 644 "${dir}/index.md" "_site/${dir}.md"
               echo "Copied ${dir}/index.md -> _site/${dir}.md"
             fi
           done
