@@ -7,41 +7,40 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 18 January 2026
+## On Monday, 19 January 2026
 
-- The average temperature today is 6.22˚C,
-- With highs of 6.65˚C and lows of 5.4˚C,
-- It may feel like 6.22˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 94%
-- The sun will rise at 08:06 and set at 16:30
+- The average temperature today is 7.04˚C,
+- With highs of 7.76˚C and lows of 6.49˚C,
+- It may feel like 6.47˚C with light rain
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1011hPa and humidity is 98%
+- The sun will rise at 08:05 and set at 16:32
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 684 days since the last change (2024-03-05)
+- It has been 685 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Sometimes you just have to get on the fucking bus.
+> Be a learning individual.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Tottenham Hotspur Women v Leicester City Women
-- Wolves v Newcastle United
-- Arsenal Women v Aston Villa Women
-- Aston Villa v Everton
+- West Ham United U21 v Chelsea U21
+- Brighton & Hove Albion v AFC Bournemouth
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -55,16 +54,16 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Nicolas Jackson and Mamadou Sarr win Africa Cup of Nations with Senegal
+- Chelsea 2-0 Brentford, Player Ratings: Bob strikes back
+- Liam Rosenior pleased with Chelsea ‘attitude’ in battling win against Brentford
+- The Daily Hilario: Sunday
 - Chelsea agree personal terms with Jérémy Jacquet — report
 - Chelsea 2-0 Brentford, Premier League: Post-match reaction, ratings
 - Chelsea vs. Brentford, Premier League: Lineups &#038; Game Thread
 - Chelsea FCW 5-0 Crystal Palace FCW, Women’s FA Cup: Post-match reaction
 - Chelsea FCW vs. Crystal Palace FCW, Women’s FA Cup: Lineups &#038; Game Thread
 - The Daily Hilario: Saturday
-- Chelsea vs. Brentford, Premier League: Preview, team news, how to watch
-- How should injury- and illness-hit Chelsea line up against Brentford?
-- Chelsea FCW vs. Crystal Palace FCW, Women’s FA Cup: Preview, team news, how to watch
-- The Daily Hilario: Friday
 
 <!-- news_marker ends -->
 
@@ -72,14 +71,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump to hit Europe with 10% tariffs until Greenland deal is agreed
-- European defence stocks surge as Greenland tensions mount
-- Denmark’s investment fund has ‘huge appetite’ to invest in Greenland, says CEO
-- Tehran after the protests: patrols, propaganda and despair
-- Embrace the Fomo, wear sensible shoes and never take a cab: FT writers share their Davos tips
-- Can India be luxury’s next big thing?
-- Beijing pours cash into Belt and Road financing in global resources grab
-- Broad mandate of Trump’s Board of Peace sets it up for rivalry with UN
+- EU readies €93bn tariffs in retaliation for Trump’s Greenland threat
+- UK parties unite to condemn Trump’s tariffs threat over Greenland
+- How could Trump’s Greenland tariffs hit individual EU countries?
+- ‘It’s about trust’: Trump’s fresh tariff threats push Europe to harden its stance
+- The dangerous triumph of neo-mercantilism
+- Trump’s attack on the Fed should galvanise the GOP
+- Chris Hohn beats hedge fund rivals with record-breaking $19bn profit
+- UK chancellor hails ‘golden age’ for City after easing tax and regulation
 
 <!-- ftnews_marker ends -->
 
@@ -87,40 +86,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > nepo baby - noun: A person whose success is significantly aided by family connections.
+ > guyliner - noun: Eyeliner used by men.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Inside every large program, there is a small program trying to get out. - C.A.R. Hoare, Computer Scientist
+> As an Agile coach, you do not need to have all the answers; it takes time and a few experiments to hit on the right approach. - Rachel Davies and Liz Sedley, Agile Trainers and Authors
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> What wouldn't you do?
+> Into the impossible
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Bridesmaids (Rated: 3)
-- Released in 2011
-- Summary: Competition between the maid of honor and a bridesmaid, over who is the bride's best friend, threatens to upend the life of an out-of-work pastry chef.
+- Heartless (Rated: 6)
+- Released in 2009
+- Summary: Jamie Morgan, a young man with a large heart-shaped birthmark on his face, discovers that there are demons on the streets of East London.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 361, using [1, 1, 5, 6, 50, 75]
-- Answer: 2 solutions.
+- Target: 261, using [1, 3, 5, 7, 8, 50]
+- Answer: 21 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 6 + 1 ) x 5 + 1 - 50
+  Solution: ( 8 / ( 7 - 3 ) + 50 ) x 5 + 1
 
    </details>
 
