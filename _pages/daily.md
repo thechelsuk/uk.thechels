@@ -7,52 +7,40 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 17 January 2026
+## On Monday, 19 January 2026
 
-- The average temperature today is 6.44˚C,
-- With highs of 6.65˚C and lows of 5.94˚C,
-- It may feel like 5.26˚C with broken clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 93%
-- The sun will rise at 08:07 and set at 16:29
+- The average temperature today is 7.04˚C,
+- With highs of 7.76˚C and lows of 6.49˚C,
+- It may feel like 6.47˚C with light rain
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 1011hPa and humidity is 98%
+- The sun will rise at 08:05 and set at 16:32
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 683 days since the last change (2024-03-05)
+- It has been 685 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> One Step Beyond.
+> Be a learning individual.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Crystal Palace U18 v West Brom U18
-- Leicester City U18 v Chelsea U18
-- Sunderland AFC Women v London City Lionesses
-- Coventry City v Leicester City
-- Ipswich Town v Blackburn Rovers
-- Watford v Millwall
-- Bradford City v Cardiff City
-- Wigan Athletic v Bolton Wanderers
-- Chesterfield v Bromley
-- Tranmere Rovers v Walsall
-- Hartlepool United v Altrincham
-- Manchester United v Manchester City
-- Swansea City v Birmingham City
-- York City v Southend United
-- Nottingham Forest v Arsenal
+- West Ham United U21 v Chelsea U21
+- Brighton & Hove Albion v AFC Bournemouth
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -66,16 +54,16 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
-- How should injury- and illness-hit Chelsea line up against Brentford?
-- Chelsea FCW vs. Crystal Palace FCW, Women’s FA Cup: Preview, team news, how to watch
-- The Daily Hilario: Friday
-- Chelsea 2-3 Arsenal, Player Ratings: Garnacho keeps hope alive
-- Chelsea ‘ready to make a move for a new defender’ — report
-- Official: Facundo Buonanotte signs on loan with Leeds United after Chelsea loan cut short
-- The Daily Hilario: Thursday
-- Liam Rosenior taking blame, giving praise, focusing on positives from Arsenal defeat
-- Chelsea 2-3 Arsenal, League Cup: Post-match reaction, ratings
-- Chelsea vs. Arsenal, League Cup: Lineups &#038; Game Thread
+- Nicolas Jackson and Mamadou Sarr win Africa Cup of Nations with Senegal
+- Chelsea 2-0 Brentford, Player Ratings: Bob strikes back
+- Liam Rosenior pleased with Chelsea ‘attitude’ in battling win against Brentford
+- The Daily Hilario: Sunday
+- Chelsea agree personal terms with Jérémy Jacquet — report
+- Chelsea 2-0 Brentford, Premier League: Post-match reaction, ratings
+- Chelsea vs. Brentford, Premier League: Lineups &#038; Game Thread
+- Chelsea FCW 5-0 Crystal Palace FCW, Women’s FA Cup: Post-match reaction
+- Chelsea FCW vs. Crystal Palace FCW, Women’s FA Cup: Lineups &#038; Game Thread
+- The Daily Hilario: Saturday
 
 <!-- news_marker ends -->
 
@@ -83,14 +71,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump says he wants Fed chair contender Hassett to stay in White House job
-- The threat to the global economy from Trump’s war on the Fed
-- Trump threatens tariffs on allies over opposition to Greenland plan
-- Is Britain ungovernable?
-- Death of a dream: Saks’ crisis exposes luxury department store woes
-- Trump names Tony Blair, Jared Kushner and Marc Rowan to advise Gaza ‘Board of Peace’
-- US floats expanding Gaza ‘Board of Peace’ to other global hotspots
-- Populism makes managing global economy harder, Andrew Bailey warns
+- EU readies €93bn tariffs in retaliation for Trump’s Greenland threat
+- UK parties unite to condemn Trump’s tariffs threat over Greenland
+- How could Trump’s Greenland tariffs hit individual EU countries?
+- ‘It’s about trust’: Trump’s fresh tariff threats push Europe to harden its stance
+- The dangerous triumph of neo-mercantilism
+- Trump’s attack on the Fed should galvanise the GOP
+- Chris Hohn beats hedge fund rivals with record-breaking $19bn profit
+- UK chancellor hails ‘golden age’ for City after easing tax and regulation
 
 <!-- ftnews_marker ends -->
 
@@ -98,40 +86,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > nepo baby - noun: A person whose success is significantly aided by family connections.
+ > guyliner - noun: Eyeliner used by men.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present. - Marcus Aurelius
+> As an Agile coach, you do not need to have all the answers; it takes time and a few experiments to hit on the right approach. - Rachel Davies and Liz Sedley, Agile Trainers and Authors
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Left channel, right channel, center channel
+> Into the impossible
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- J And Silent Bob Strike Back (Rated: 5)
-- Released in 2001
-- Summary: No summary available
+- Heartless (Rated: 6)
+- Released in 2009
+- Summary: Jamie Morgan, a young man with a large heart-shaped birthmark on his face, discovers that there are demons on the streets of East London.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 776, using [1, 3, 3, 6, 25, 75]
-- Answer: 6 solutions.
+- Target: 261, using [1, 3, 5, 7, 8, 50]
+- Answer: 21 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 25 + 6 ) x 75 + 3 ) / 3
+  Solution: ( 8 / ( 7 - 3 ) + 50 ) x 5 + 1
 
    </details>
 
