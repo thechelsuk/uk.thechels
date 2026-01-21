@@ -7,83 +7,75 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 20 January 2026
+## On Wednesday, 21 January 2026
 
-- The average temperature today is 8.11˚C,
-- With highs of 8.62˚C and lows of 7.19˚C,
-- It may feel like 7.19˚C with broken clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1007hPa and humidity is 90%
-- The sun will rise at 08:04 and set at 16:34
+- The average temperature today is 4.76˚C,
+- With highs of 4.98˚C and lows of 4.27˚C,
+- It may feel like 1.55˚C with scattered clouds
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 992hPa and humidity is 93%
+- The sun will rise at 08:03 and set at 16:35
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 686 days since the last change (2024-03-05)
+- It has been 687 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Use appropriate tools.
+> Embrace uncertainty.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Bodo/Glimt v Manchester City
-- Manchester City U21 v Monaco U21
-- Manchester United U21 v Sporting CP U21
-- Charlton Athletic v Derby County
-- Coventry City v Millwall
-- Ipswich Town v Bristol City
-- Oxford United v QPR
-- Preston North End v Hull City
-- Sheffield Wednesday v Birmingham City
-- Swansea City v Blackburn Rovers
-- West Brom v Norwich City
-- Stevenage v Bolton Wanderers
-- Boreham Wood v Scunthorpe United
-- Hartlepool United v Gateshead
-- Southend United v Eastleigh
-- Sutton United v Woking
-- Truro City v Brackley Town
-- Yeovil Town v Aldershot Town
-- Wrexham v Leicester City
-- Inter Milan v Arsenal
-- Tottenham Hotspur v Borussia Dortmund
+- Chelsea U21 v Real Sociedad U21
+- Crystal Palace U21 v Borussia MÃ¶nchengladbach U21
+- Arsenal Women v Manchester United Women
+- Manchester City Women v Chelsea Women
+- Southampton v Sheffield United
+- Watford v Portsmouth
+- Carlisle United v York City
+- FC Halifax Town v Morecambe
+- Forest Green Rovers v Altrincham
+- Solihull Moors v Rochdale
+- Wealdstone v Tamworth
+- Stoke City v Middlesbrough
+- Chelsea v Pafos
+- Marseille v Liverpool
+- Newcastle United v PSV Eindhoven
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 125.36000061035156 
+- VWRL.L : 124.80999755859375 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea vs. Pafos, Champions League: Preview, team news, how to watch
+- Tosin Adarabioyo to miss ‘a few weeks’ with hamstring injury; Axel Disasi joins Chelsea training
+- Manchester City WFC vs. Chelsea FCW, Women’s League Cup: Preview, team news, how to watch
+- How should Chelsea line up against Pafos in Champions League?
+- The Daily Hilario: Tuesday
 - Chelsea to recall David Datro Fofana from Fatih Karagümrük SK loan — report
 - The Daily Hilario: Monday
 - Nicolas Jackson and Mamadou Sarr win Africa Cup of Nations with Senegal
 - Chelsea 2-0 Brentford, Player Ratings: Bob strikes back
 - Liam Rosenior pleased with Chelsea ‘attitude’ in battling win against Brentford
-- The Daily Hilario: Sunday
-- Chelsea agree personal terms with Jérémy Jacquet — report
-- Chelsea 2-0 Brentford, Premier League: Post-match reaction, ratings
-- Chelsea vs. Brentford, Premier League: Lineups &#038; Game Thread
-- Chelsea FCW 5-0 Crystal Palace FCW, Women’s FA Cup: Post-match reaction
 
 <!-- news_marker ends -->
 
@@ -91,14 +83,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Danish troops land in Greenland as tensions rise
-- Bessent questions Europe’s ability to agree strong response to Greenland tariffs
-- How the Greenland deployment of a few European troops enraged Trump
-- Greenland is ground zero for Arctic ‘Great Game’
-- Why we have the calendar all wrong
-- Tech titans prospered in the first year of Trump’s return to power
-- Nigel Farage seeks meeting with UAE president to boost profile and build ties
-- Saudi banks borrow abroad at fastest ever pace
+- Greenland latest: Trump returns to US after ‘electrical issue’ on Air Force One
+- Republicans begin to push back against Trump’s pursuit of Greenland
+- Can the EU keep up with Trump in a trade war?
+- Trump row over Greenland derails Ukraine postwar deal
+- Why the Trump administration is going to Davos
+- World Economic Forum weighs moving flagship event from Davos
+- Carney warns of ‘rupture’ to global order as Trump rattles allies
+- UK in ‘strong position’ to avoid further tax rises, says Rachel Reeves
 
 <!-- ftnews_marker ends -->
 
@@ -106,40 +98,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > dataveillance - noun: The collection or monitoring of data relating to personal activities.
+ > broligarchy - noun: A small group of extremely wealthy men who wield disproportionate influence in government.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Be fixed on the vision, but flexible on the journey - Jeff Bezos
+> You can never try to escape one danger without encountering another. Prudence consists in recognising the different dangers and in accepting the least bad as good. - Machiavelli
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Into the impossible
+> Short circuit
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Deliverance (Rated: 3)
+- The Union (Rated: 3)
 - Released in 2024
-- Summary: An Indiana family discovers strange, demonic occurrences that convince them and their community that the house is a portal to hell.
+- Summary: Construction worker Mike is thrust into the world of espionage when his high school sweetheart, Roxanne, recruits him for a high-stakes intelligence mission.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 644, using [2, 8, 10, 25, 75, 100]
-- Answer: 8 solutions.
+- Target: 252, using [4, 9, 10, 25, 50, 100]
+- Answer: 28 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 75 + 8 ) x 100 / 25 - 10 ) x 2
+  Solution: ( 50 / 25 + 100 + 10 ) x 9 / 4
 
    </details>
 
