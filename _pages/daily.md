@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 21 January 2026
+## On Thursday, 22 January 2026
 
-- The average temperature today is 4.76˚C,
-- With highs of 4.98˚C and lows of 4.27˚C,
-- It may feel like 1.55˚C with scattered clouds
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 992hPa and humidity is 93%
-- The sun will rise at 08:03 and set at 16:35
+- The average temperature today is 8.87˚C,
+- With highs of 9.18˚C and lows of 8.49˚C,
+- It may feel like 6.83˚C with overcast clouds
+- The wind speed is 3.58m/s and visibility is 10000m
+- The pressure is 985hPa and humidity is 93%
+- The sun will rise at 08:01 and set at 16:37
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 687 days since the last change (2024-03-05)
+- It has been 688 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,27 +32,16 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Embrace uncertainty.
+> Focus on user needs.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Chelsea U21 v Real Sociedad U21
-- Crystal Palace U21 v Borussia MÃ¶nchengladbach U21
-- Arsenal Women v Manchester United Women
-- Manchester City Women v Chelsea Women
-- Southampton v Sheffield United
-- Watford v Portsmouth
-- Carlisle United v York City
-- FC Halifax Town v Morecambe
-- Forest Green Rovers v Altrincham
-- Solihull Moors v Rochdale
-- Wealdstone v Tamworth
-- Stoke City v Middlesbrough
-- Chelsea v Pafos
-- Marseille v Liverpool
-- Newcastle United v PSV Eindhoven
+- Fenerbahce v Aston Villa
+- Newcastle United U18 v Crystal Palace U18
+- Lincoln City v Burton Albion
+- SC Braga v Nottingham Forest
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -66,16 +55,16 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Rosenior: ‘You have to keep banging on the door’
+- Chelsea 1-0 Pafos, Champions League: Post-match reaction, ratings
+- Manchester City WFC 0-1 Chelsea FCW, Women’s League Cup: Post-match reaction
+- Chelsea vs. Pafos, Champions League: Lineups &#038; Game Thread
+- Chelsea fans’ preferred lineup against Pafos: Don’t take it too easy!
+- Manchester City WFC vs. Chelsea FCW, Women’s League Cup: Lineups &#038; Game Thread
+- The Daily Hilario: Wednesday
 - Chelsea vs. Pafos, Champions League: Preview, team news, how to watch
 - Tosin Adarabioyo to miss ‘a few weeks’ with hamstring injury; Axel Disasi joins Chelsea training
 - Manchester City WFC vs. Chelsea FCW, Women’s League Cup: Preview, team news, how to watch
-- How should Chelsea line up against Pafos in Champions League?
-- The Daily Hilario: Tuesday
-- Chelsea to recall David Datro Fofana from Fatih Karagümrük SK loan — report
-- The Daily Hilario: Monday
-- Nicolas Jackson and Mamadou Sarr win Africa Cup of Nations with Senegal
-- Chelsea 2-0 Brentford, Player Ratings: Bob strikes back
-- Liam Rosenior pleased with Chelsea ‘attitude’ in battling win against Brentford
 
 <!-- news_marker ends -->
 
@@ -83,14 +72,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Greenland latest: Trump returns to US after ‘electrical issue’ on Air Force One
-- Republicans begin to push back against Trump’s pursuit of Greenland
-- Can the EU keep up with Trump in a trade war?
-- Trump row over Greenland derails Ukraine postwar deal
-- Why the Trump administration is going to Davos
-- World Economic Forum weighs moving flagship event from Davos
-- Carney warns of ‘rupture’ to global order as Trump rattles allies
-- UK in ‘strong position’ to avoid further tax rises, says Rachel Reeves
+- Trump’s Greenland pivot leaves Europe flummoxed
+- Who wants to join Trump’s ‘Board of Peace’?
+- Carney’s new global order needs a huge shift in political will
+- BofA’s Moynihan left off invite list for Trump reception at Davos
+- European governments turn to short-term debt as borrowing costs rise
+- Phoenix, Scottish Widows and Royal London circle insurer Aegon’s UK business
+- US companies expand protection services for top executives
+- US congressional committee votes to hold Bill and Hillary Clinton in contempt
 
 <!-- ftnews_marker ends -->
 
@@ -98,40 +87,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > broligarchy - noun: A small group of extremely wealthy men who wield disproportionate influence in government.
+ > precariat - noun: People living with chronic economic insecurity.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> You can never try to escape one danger without encountering another. Prudence consists in recognising the different dangers and in accepting the least bad as good. - Machiavelli
+> Do not try and make a right choice, make a choice and then make it right. - Joe Delaney
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Short circuit
+> You can only make one dot at a time
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Union (Rated: 3)
-- Released in 2024
-- Summary: Construction worker Mike is thrust into the world of espionage when his high school sweetheart, Roxanne, recruits him for a high-stakes intelligence mission.
+- Mountain (Rated: 3)
+- Released in 2017
+- Summary: An experience about the highest peaks around the world.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 252, using [4, 9, 10, 25, 50, 100]
-- Answer: 28 solutions.
+- Target: 546, using [4, 5, 6, 7, 25, 100]
+- Answer: 25 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 / 25 + 100 + 10 ) x 9 / 4
+  Solution: ( 100 + 7 + 5 + 4 - 25 ) x 6
 
    </details>
 
