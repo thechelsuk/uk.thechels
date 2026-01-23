@@ -7,41 +7,44 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 22 January 2026
+## On Friday, 23 January 2026
 
-- The average temperature today is 8.87˚C,
-- With highs of 9.18˚C and lows of 8.49˚C,
-- It may feel like 6.83˚C with overcast clouds
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 985hPa and humidity is 93%
-- The sun will rise at 08:01 and set at 16:37
+- The average temperature today is 6.55˚C,
+- With highs of 6.96˚C and lows of 5.71˚C,
+- It may feel like 2.94˚C with overcast clouds
+- The wind speed is 5.81m/s and visibility is 10000m
+- The pressure is 981hPa and humidity is 91%
+- The sun will rise at 08:00 and set at 16:39
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 688 days since the last change (2024-03-05)
+- It has been 689 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Farmers Market in town
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Focus on user needs.
+> Be open to change.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Fenerbahce v Aston Villa
-- Newcastle United U18 v Crystal Palace U18
-- Lincoln City v Burton Albion
-- SC Braga v Nottingham Forest
+- Manchester United U18 v Derby County U18
+- Arsenal U21 v Burnley U21
+- Everton U21 v Manchester City U21
+- Stoke City U21 v Tottenham Hotspur U21
+- Everton Women v Brighton & Hove Albion Women
+- Derby County v West Brom
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -55,6 +58,9 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea ‘exploring a move’ for Douglas Luiz — reports
+- Chelsea 1-0 Pafos, Player Ratings: Moi saves the day
+- The Daily Hilario: Thursday
 - Rosenior: ‘You have to keep banging on the door’
 - Chelsea 1-0 Pafos, Champions League: Post-match reaction, ratings
 - Manchester City WFC 0-1 Chelsea FCW, Women’s League Cup: Post-match reaction
@@ -62,9 +68,6 @@ seo: Good Morning, Here is your daily briefing
 - Chelsea fans’ preferred lineup against Pafos: Don’t take it too easy!
 - Manchester City WFC vs. Chelsea FCW, Women’s League Cup: Lineups &#038; Game Thread
 - The Daily Hilario: Wednesday
-- Chelsea vs. Pafos, Champions League: Preview, team news, how to watch
-- Tosin Adarabioyo to miss ‘a few weeks’ with hamstring injury; Axel Disasi joins Chelsea training
-- Manchester City WFC vs. Chelsea FCW, Women’s League Cup: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -72,14 +75,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump’s Greenland pivot leaves Europe flummoxed
-- Who wants to join Trump’s ‘Board of Peace’?
-- Carney’s new global order needs a huge shift in political will
-- BofA’s Moynihan left off invite list for Trump reception at Davos
-- European governments turn to short-term debt as borrowing costs rise
-- Phoenix, Scottish Widows and Royal London circle insurer Aegon’s UK business
-- US companies expand protection services for top executives
-- US congressional committee votes to hold Bill and Hillary Clinton in contempt
+- Trump’s tariff ‘shock regime’ tests Wall Street’s mettle
+- ‘Waiting for the king’: how Trump dominated Davos
+- ‘I am just so tired of Trump’: Greenland on alert as US hovers
+- Is liberal democracy in terminal decline?
+- Lessons for business in Trumpian uncertainty
+- UK consumer confidence marks 10 years without a positive reading
+- TikTok finalises Trump deal to stay online in US
+- Trump’s TikTok deal is a gift to China
 
 <!-- ftnews_marker ends -->
 
@@ -87,40 +90,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > precariat - noun: People living with chronic economic insecurity.
+ > zoodle - noun: A thin strip of a vegetable, typically zucchini, prepared like pasta.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Do not try and make a right choice, make a choice and then make it right. - Joe Delaney
+> People with goals succeed because they know where they are going. - Earl Nightingale, Motivational Speaker
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> You can only make one dot at a time
+> Balance the consistency principle with the inconsistency principle
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Mountain (Rated: 3)
-- Released in 2017
-- Summary: An experience about the highest peaks around the world.
+- Road Train (Rated: 2)
+- Released in 2010
+- Summary: Joey Lark (Sebastian Angborn; 500 Miles, The Elephant Princess, Sea Patrol) is running late. He's on his twelfth day in the truck straight, and while he might be three trips away from being...
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 546, using [4, 5, 6, 7, 25, 100]
-- Answer: 25 solutions.
+- Target: 610, using [4, 5, 7, 10, 50, 75]
+- Answer: 43 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 7 + 5 + 4 - 25 ) x 6
+  Solution: ( 75 + 50 + 7 - 10 ) x 5
 
    </details>
 
