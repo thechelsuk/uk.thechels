@@ -7,28 +7,27 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 24 January 2026
+## On Sunday, 25 January 2026
 
-- The average temperature today is 6.99˚C,
-- With highs of 7.2˚C and lows of 6.5˚C,
-- It may feel like 4.29˚C with overcast clouds
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 989hPa and humidity is 84%
-- The sun will rise at 07:59 and set at 16:40
+- The average temperature today is 6.01˚C,
+- With highs of 6.4˚C and lows of 5.39˚C,
+- It may feel like 3.63˚C with broken clouds
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 989hPa and humidity is 93%
+- The sun will rise at 07:58 and set at 16:42
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 690 days since the last change (2024-03-05)
+- It has been 691 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Water the plants
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
@@ -39,20 +38,21 @@ seo: Good Morning, Here is your daily briefing
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Blackburn Rovers U18 v Manchester City U18
-- Tottenham Hotspur U18 v Norwich City U18
-- Middlesbrough v Preston North End
-- Millwall v Charlton Athletic
-- Cardiff City v Stockport County
-- Huddersfield Town v Bradford City
-- Plymouth Argyle v Luton Town
-- Barnet v Oldham Athletic
-- Notts County v Crewe Alexandra
-- West Ham United v Sunderland
-- Chelsea Women v Arsenal Women
-- Portsmouth Women v Birmingham City Women
-- Scunthorpe United v Forest Green Rovers
-- AFC Bournemouth v Liverpool
+- Aston Villa Women v Manchester United Women
+- Leicester City Women v West Ham United Women
+- Liverpool Women v Tottenham Hotspur Women
+- London City Lionesses v Manchester City Women
+- Portsmouth v Southampton
+- Crystal Palace Women v Durham Women
+- Brentford v Nottingham Forest
+- Crystal Palace v Chelsea
+- Newcastle United v Aston Villa
+- Liverpool U21 v Leeds United U21
+- Charlton Athletic Women v Newcastle United Women
+- Ipswich Town Women v Bristol City Women
+- Nottingham Forest Women v Sheffield United Women
+- Sunderland AFC Women v Southampton Women
+- Arsenal v Manchester United
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -66,16 +66,16 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Crystal Palace vs. Chelsea, Premier League: Preview, team news, how to watch
+- Chelsea FCW 0-2 Arsenal WFC, Women’s Super League: Post-match reaction
+- Chelsea FCW vs. Arsenal WFC, Women’s Super League: Confirmed lineups; how to watch
+- The Daily Hilario: Saturday
+- Chelsea FCW vs. Arsenal WFC, Women’s Super League: Preview, team news, how to watch
 - How should Chelsea line up against Crystal Palace at Selhurst Park?
 - Chelsea fined £150k for water bottle-throwing incident against Aston Villa
 - Chelsea assessing midfield loan options as Dário Essugo suffers injury setback
 - The Daily Hilario: Friday
 - Chelsea ‘exploring a move’ for Douglas Luiz — reports
-- Chelsea 1-0 Pafos, Player Ratings: Moi saves the day
-- The Daily Hilario: Thursday
-- Rosenior: ‘You have to keep banging on the door’
-- Chelsea 1-0 Pafos, Champions League: Post-match reaction, ratings
-- Manchester City WFC 0-1 Chelsea FCW, Women’s League Cup: Post-match reaction
 
 <!-- news_marker ends -->
 
@@ -83,14 +83,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- BlackRock’s Rick Rieder surges ahead in race to chair Federal Reserve
-- Greenland, America and the end of Atlanticism
-- A liberal in illiberal times
-- Starmer’s dilemma: America or Europe?
-- Nigel Farage attended Davos as adviser to Iranian billionaire
-- Starmer condemns Trump’s ‘appalling’ claim that Nato avoided Afghan frontline
-- Tory peers force UK to pause passage of Chagos Islands bill after US criticism
-- Gold records best week since 2008 as Greenland crisis rattles dollar
+- Federal agents shoot man dead in Minneapolis
+- Middle powers may miss the global order more than they think
+- No laughing matter as Lebanon goes after its comedians
+- Andy Burnham announces bid to stand for Westminster seat
+- Xi takes sole operational control of army as China probes military leaders
+- Link MPs’ pay to GDP, says UK business secretary
+- Trump threatens 100% tariffs on Canada if it seals trade deal with China
+- US to invest $1.6bn into rare earths group in bid to shore up key minerals
 
 <!-- ftnews_marker ends -->
 
@@ -105,33 +105,33 @@ seo: Good Morning, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The most important thing for me is making sure the team is at the top of the table when the season ends - Sam Kerr
+> Scrum is a mindset, culture, and philosophy, not just a fixed set of practices. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Don't break the silence
+> Is it finished?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Mad Max : Fury Road (Rated: 8)
-- Released in 2015
-- Summary: In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshipper and a drifter named Max.
+- In Dreams (Rated: 6)
+- Released in 1999
+- Summary: A suburban housewife learns that she has a dreamworld connection to a serial murderer, and must stop him from killing again.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 315, using [1, 2, 3, 3, 9, 75]
-- Answer: 21 solutions.
+- Target: 712, using [7, 9, 10, 25, 50, 75]
+- Answer: 8 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 - 9 - 3 ) x ( 3 + 2 )
+  Solution: ( 25 - 10 ) x 75 - ( 50 + 9 ) x 7
 
    </details>
 
