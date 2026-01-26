@@ -8,6 +8,7 @@ seo: A list of my favourite technology
 ## Desk and Devices
 
 - iPhone 15 Pro.
+- iPhone 12 Pro. 
 - iPad Pro 11 inch - 4th generation, with Apple Pencil, Magic Keyboard.
 - M4 Mac Mini
   - Logitech MX Master 3 Wireless Mouse,
@@ -16,6 +17,7 @@ seo: A list of my favourite technology
 - Raspberry Pi 400 running Homebridge
 - Apple Watch Series 9
 - AirPod Pro 2nd Gen (USB-C model) x2.
+- Sony WH-1000XM5 ANC over-ear headphones.
 - Apple TVs in the usual rooms in the house, including the office.
 - HomePod Mini
 - Belkin BoostCharge Pro 3-in-1 Wireless Charger.
