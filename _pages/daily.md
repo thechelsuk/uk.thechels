@@ -7,70 +7,44 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 27 January 2026
+## On Wednesday, 28 January 2026
 
-- The average temperature today is 6.65˚C,
-- With highs of 7.19˚C and lows of 6.27˚C,
-- It may feel like 3.88˚C with moderate rain
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 982hPa and humidity is 94%
-- The sun will rise at 07:55 and set at 16:46
+- The average temperature today is 2.79˚C,
+- With highs of 4.6˚C and lows of 0.95˚C,
+- It may feel like 1.04˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 991hPa and humidity is 92%
+- The sun will rise at 07:54 and set at 16:48
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 693 days since the last change (2024-03-05)
+- It has been 694 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be the owner.
+> Use appropriate tools.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Reading U18 v Chelsea U18
-- Burnley U18 v Manchester United U18
-- Newport County v Accrington Stanley
-- Blackpool v Stockport County
-- Bolton Wanderers v Burton Albion
-- Cardiff City v Barnsley
-- Huddersfield Town v Luton Town
-- Lincoln City v Bradford City
-- Plymouth Argyle v Mansfield Town
-- Port Vale v AFC Wimbledon
-- Rotherham United v Northampton Town
-- Stevenage v Peterborough United
-- Wycombe Wanderers v Wigan Athletic
-- Barnet v Tranmere Rovers
-- Barrow AFC v Oldham Athletic
-- Bromley v Crewe Alexandra
-- Cambridge United v Shrewsbury Town
-- Cheltenham Town v Gillingham
-- Colchester United v Grimsby Town
-- Harrogate Town v Fleetwood Town
-- MK Dons v Bristol Rovers
-- Notts County v Swindon Town
-- Salford City v Chesterfield
-- Walsall v Crawley Town
-- Rochdale v Southend United
-- Bedford Town v Kidderminster Harriers
-- South Shields v AFC Fylde
-- Dagenham & Redbridge v Eastbourne Borough
-- Maidstone United v Ebbsfleet United
-- Doncaster Rovers v Leyton Orient
-- Reading v Exeter City
+- Arsenal Women v AS FAR
+- Arsenal v Kairat Almaty
+- Eintracht Frankfurt v Tottenham Hotspur
+- Liverpool v FK Qarabag
+- Manchester City v Galatasaray
+- Napoli v Chelsea
+- PSG v Newcastle United
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -84,16 +58,16 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- How should Chelsea line up against Napoli with Champions League bye on the line?
+- Chelsea ‘declined to pursue’ Aston Villa-bound Douglas Luiz — report
+- Crystal Palace 1-3 Chelsea, Player Ratings: Estêvão making Chelsea sing
+- The Daily Hilario: Tuesday
+- West Ham, Chelsea in talks over Axel Disasi loan — report
+- Official: Chelsea sign teenage left back Yisa Alao from Sheffield Wednesday
 - The Daily Hilario: Monday
 - Liam Rosenior ‘really, really  happy’ with ‘top team performance’ by Chelsea
 - Chelsea to recall Aarón Anselmino after Rennes reject Jérémy Jacquet approach — reports
 - Crystal Palace 1-3 Chelsea, Premier League: Post-match reaction, ratings
-- Crystal Palace vs. Chelsea, Premier League: Lineups &#038; Game Thread
-- Chelsea fans’ preferred lineup against Crystal Palace: No time to mess about
-- The Daily Hilario: Sunday
-- Crystal Palace vs. Chelsea, Premier League: Preview, team news, how to watch
-- Chelsea FCW 0-2 Arsenal WFC, Women’s Super League: Post-match reaction
-- Chelsea FCW vs. Arsenal WFC, Women’s Super League: Confirmed lineups; how to watch
 
 <!-- news_marker ends -->
 
@@ -101,14 +75,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump signals shift on immigration crackdown as ICE backlash intensifies
-- How Nato is preparing for war in the Arctic
-- Carney, Trump and the power of a good speech
-- Next’s coming challenge is life after Simon Wolfson
-- UK to cap ground rents paid to freeholders
-- UK shop price inflation rises to its highest level in nearly 2 years
-- Big Tech’s borrowing spree raises fears of AI risks in US bond market
-- ‘Humanity needs to wake up’ to dangers of AI, says Anthropic chief
+- Investors bet on ‘hot’ US economy heading into midterm elections
+- Dollar slides as Trump says he is not concerned with its recent decline
+- The rise of the ‘National Health State’
+- The reality of a world after rupture
+- How Trump was forced to back off his harshest immigration tactics
+- SpaceX weighs June IPO timed to planetary alignment and Musk’s birthday
+- Swiss franc surges to decade high as traders seek last ‘reliable’ haven
+- ECB would need to act if euro keeps gaining, says Austria’s central bank governor
 
 <!-- ftnews_marker ends -->
 
@@ -116,40 +90,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > verbicide - noun: 1. The deliberate distortion or destruction of the meaning of a word. 2. A person who deliberately distorts the meaning of a word.
+ > agnotology - noun: The study of ignorance or the investigation of the unknowable.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> There is no sense in being precise when you do not even know what you are talking about. - John von Neumann, Physicist
+> There is nothing so useless as doing efficiently that which should not be done at all. - Peter Drucker
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Emphasize repetitions
+> Remove specifics and convert to ambiguities
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Beach (Rated: 5)
-- Released in 2000
-- Summary: On vacation in Thailand, Richard sets out for an island rumored to be a solitary beach paradise.
+- Inner Senses (Rated: 6)
+- Released in 2002
+- Summary: Yan is haunted by fleeting images of what she believes to be dead people. Soon, her suspicions are confirmed when her therapist Jim begins seeing the same things and the two begin to unravel a mystery that leads to a forgotten past.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 948, using [6, 9, 25, 50, 75, 100]
-- Answer: 4 solutions.
+- Target: 953, using [3, 6, 10, 25, 50, 75]
+- Answer: 8 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 - 25 x 6 / 50 ) x 9 + 75
+  Solution: ( 75 + 25 ) x 10 + 6 - 50 - 3
 
    </details>
 
