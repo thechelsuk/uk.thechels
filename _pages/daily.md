@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 28 January 2026
+## On Thursday, 29 January 2026
 
-- The average temperature today is 2.79˚C,
-- With highs of 4.6˚C and lows of 0.95˚C,
-- It may feel like 1.04˚C with overcast clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 991hPa and humidity is 92%
-- The sun will rise at 07:54 and set at 16:48
+- The average temperature today is 3.11˚C,
+- With highs of 3.86˚C and lows of 2.61˚C,
+- It may feel like 0.13˚C with clear sky
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 997hPa and humidity is 96%
+- The sun will rise at 07:52 and set at 16:49
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 694 days since the last change (2024-03-05)
+- It has been 695 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,19 +32,14 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Use appropriate tools.
+> One Step Beyond.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Arsenal Women v AS FAR
-- Arsenal v Kairat Almaty
-- Eintracht Frankfurt v Tottenham Hotspur
-- Liverpool v FK Qarabag
-- Manchester City v Galatasaray
-- Napoli v Chelsea
-- PSG v Newcastle United
+- Aston Villa v RB Salzburg
+- Nottingham Forest v Ferencvaros
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -58,16 +53,16 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Liam Rosenior explains tactical approach, praises Chelsea’s ‘collective mentality’ in comeback win against Napoli
+- Napoli 2-3 Chelsea, Champions League: Post-match reaction, ratings
+- Napoli vs. Chelsea, Champions League: Lineups &#038; Game Thread
+- Official: Raheem Sterling leaves Chelsea by mutual agreement
+- Chelsea fans’ preferred lineup against Napoli: All in for the top eight
+- The Daily Hilario: Wednesday
+- Napoli vs. Chelsea, Champions League: Preview, team news, how to watch
 - How should Chelsea line up against Napoli with Champions League bye on the line?
 - Chelsea ‘declined to pursue’ Aston Villa-bound Douglas Luiz — report
 - Crystal Palace 1-3 Chelsea, Player Ratings: Estêvão making Chelsea sing
-- The Daily Hilario: Tuesday
-- West Ham, Chelsea in talks over Axel Disasi loan — report
-- Official: Chelsea sign teenage left back Yisa Alao from Sheffield Wednesday
-- The Daily Hilario: Monday
-- Liam Rosenior ‘really, really  happy’ with ‘top team performance’ by Chelsea
-- Chelsea to recall Aarón Anselmino after Rennes reject Jérémy Jacquet approach — reports
-- Crystal Palace 1-3 Chelsea, Premier League: Post-match reaction, ratings
 
 <!-- news_marker ends -->
 
@@ -75,14 +70,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Investors bet on ‘hot’ US economy heading into midterm elections
-- Dollar slides as Trump says he is not concerned with its recent decline
-- The rise of the ‘National Health State’
-- The reality of a world after rupture
-- How Trump was forced to back off his harshest immigration tactics
-- SpaceX weighs June IPO timed to planetary alignment and Musk’s birthday
-- Swiss franc surges to decade high as traders seek last ‘reliable’ haven
-- ECB would need to act if euro keeps gaining, says Austria’s central bank governor
+- Tesla trims car line-up in pivot to AI as annual revenue falls for first time
+- Meta’s record sales boost shares 10% despite massive spending plans
+- Microsoft’s AI spending and disappointing cloud growth overshadow strong profits
+- Trump’s ‘beautiful armada’ underlines US threat to Iran
+- Do markets make us moral?
+- ‘I wouldn’t dare take these drugs . . . I just sell them’: how China supplies untested peptides to the west
+- Starmer tells Xi UK wants more ‘sophisticated’ relationship with China
+- Talks with US over Chagos Islands deal have reopened, confirms Starmer
 
 <!-- ftnews_marker ends -->
 
@@ -90,40 +85,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > agnotology - noun: The study of ignorance or the investigation of the unknowable.
+ > antithalian - adjective: Opposed to fun, festivity, or joy.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> There is nothing so useless as doing efficiently that which should not be done at all. - Peter Drucker
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler, Author and Programmer
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Remove specifics and convert to ambiguities
+> Convert a melodic element into a rhythmic element
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Inner Senses (Rated: 6)
-- Released in 2002
-- Summary: Yan is haunted by fleeting images of what she believes to be dead people. Soon, her suspicions are confirmed when her therapist Jim begins seeing the same things and the two begin to unravel a mystery that leads to a forgotten past.
+- Shawshank Redemption (Rated: 6)
+- Released in 1994
+- Summary: A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 953, using [3, 6, 10, 25, 50, 75]
-- Answer: 8 solutions.
+- Target: 277, using [2, 3, 9, 10, 25, 50]
+- Answer: 37 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 25 ) x 10 + 6 - 50 - 3
+  Solution: ( 25 - 10 x 2 ) x 50 + 9 x 3
 
    </details>
 
