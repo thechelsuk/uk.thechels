@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 29 January 2026
+## On Friday, 30 January 2026
 
-- The average temperature today is 3.11˚C,
-- With highs of 3.86˚C and lows of 2.61˚C,
-- It may feel like 0.13˚C with clear sky
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 997hPa and humidity is 96%
-- The sun will rise at 07:52 and set at 16:49
+- The average temperature today is 5.17˚C,
+- With highs of 5.53˚C and lows of 4.6˚C,
+- It may feel like 3.79˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 1171m
+- The pressure is 986hPa and humidity is 95%
+- The sun will rise at 07:51 and set at 16:51
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 695 days since the last change (2024-03-05)
+- It has been 696 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,14 +32,18 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> One Step Beyond.
+> Move fast.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Aston Villa v RB Salzburg
-- Nottingham Forest v Ferencvaros
+- Liverpool U18 v Derby County U18
+- Brighton & Hove Albion U21 v Liverpool U21
+- Chelsea U21 v Southampton U21
+- Ipswich Town U21 v Crystal Palace U21
+- Tottenham Hotspur U21 v Everton U21
+- Bristol City v Derby County
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -53,6 +57,8 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea ‘still working to try to sign’ Jérémy Jacquet from Rennes — reports
+- The Daily Hilario: Thursday
 - Liam Rosenior explains tactical approach, praises Chelsea’s ‘collective mentality’ in comeback win against Napoli
 - Napoli 2-3 Chelsea, Champions League: Post-match reaction, ratings
 - Napoli vs. Chelsea, Champions League: Lineups &#038; Game Thread
@@ -61,8 +67,6 @@ seo: Good Morning, Here is your daily briefing
 - The Daily Hilario: Wednesday
 - Napoli vs. Chelsea, Champions League: Preview, team news, how to watch
 - How should Chelsea line up against Napoli with Champions League bye on the line?
-- Chelsea ‘declined to pursue’ Aston Villa-bound Douglas Luiz — report
-- Crystal Palace 1-3 Chelsea, Player Ratings: Estêvão making Chelsea sing
 
 <!-- news_marker ends -->
 
@@ -70,14 +74,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Tesla trims car line-up in pivot to AI as annual revenue falls for first time
-- Meta’s record sales boost shares 10% despite massive spending plans
-- Microsoft’s AI spending and disappointing cloud growth overshadow strong profits
-- Trump’s ‘beautiful armada’ underlines US threat to Iran
-- Do markets make us moral?
-- ‘I wouldn’t dare take these drugs . . . I just sell them’: how China supplies untested peptides to the west
-- Starmer tells Xi UK wants more ‘sophisticated’ relationship with China
-- Talks with US over Chagos Islands deal have reopened, confirms Starmer
+- Trump preparing to nominate Kevin Warsh for Fed chair
+- US shutdown avoided despite stand-off over immigration enforcement
+- The music industry’s cautious embrace of AI
+- Europe needs to put its money where its mouth is
+- The meaning of Xi’s military purge
+- Apple’s blockbuster iPhone sales power record $144bn quarter
+- Apple buys Israeli start-up Q.AI for close to $2bn in race to build AI devices
+- Trump warns Starmer against closer China business ties
 
 <!-- ftnews_marker ends -->
 
@@ -85,14 +89,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > antithalian - adjective: Opposed to fun, festivity, or joy.
+ > renitent - adjective: Resistant to compulsion or pressure.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler, Author and Programmer
+> The ScrumMaster must encourage the team to take responsibility. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
@@ -105,20 +109,20 @@ seo: Good Morning, Here is your daily briefing
 ### Film Archive
 
 <!-- film_marker starts -->
-- Shawshank Redemption (Rated: 6)
-- Released in 1994
-- Summary: A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.
+- Detroit Rock City (Rated: 3)
+- Released in 1999
+- Summary: In 1978, four rebellious teenagers try to scam their way into a KISS concert.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 277, using [2, 3, 9, 10, 25, 50]
-- Answer: 37 solutions.
+- Target: 111, using [1, 4, 6, 8, 25, 50]
+- Answer: 32 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 25 - 10 x 2 ) x 50 + 9 x 3
+  Solution: ( 6 + 1 ) x 4 + 50 + 25 + 8
 
    </details>
 
