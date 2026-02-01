@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Saturday, 31 January 2026
+## On Sunday, 01 February 2026
 
-- The average temperature today is 6.18˚C,
-- With highs of 6.65˚C and lows of 5.71˚C,
-- It may feel like 4.52˚C with overcast clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 991hPa and humidity is 89%
-- The sun will rise at 07:49 and set at 16:53
+- The average temperature today is 6.57˚C,
+- With highs of 6.83˚C and lows of 6.03˚C,
+- It may feel like 6.57˚C with overcast clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1000hPa and humidity is 95%
+- The sun will rise at 07:48 and set at 16:55
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 697 days since the last change (2024-03-05)
+- It has been 698 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,25 +32,28 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> What got us here, will not get us there.
+> Design for constant evolution.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Crystal Palace U18 v Birmingham City U18
-- Norwich City U18 v Chelsea U18
-- Leicester City v Charlton Athletic
-- Sheffield Wednesday v Wrexham
-- Stoke City v Southampton
-- AFC Wimbledon v Bolton Wanderers
-- Bradford City v Doncaster Rovers
-- Bristol Rovers v Newport County
-- Grimsby Town v MK Dons
-- Manchester City U18 v Newcastle United U18
-- Bristol City Women v Sunderland AFC Women
-- Chelsea v West Ham United
-- Liverpool v Newcastle United
+- Brighton & Hove Albion Women v London City Lionesses
+- Everton Women v Aston Villa Women
+- Manchester United Women v Liverpool Women
+- West Ham United Women v Tottenham Hotspur Women
+- Durham Women v Portsmouth Women
+- Leeds United U21 v Arsenal U21
+- Sheffield United Women v Charlton Athletic Women
+- Aston Villa v Brentford
+- Manchester United v Fulham
+- Nottingham Forest v Crystal Palace
+- Birmingham City Women v Nottingham Forest Women
+- Newcastle United Women v Ipswich Town Women
+- Southampton Women v Crystal Palace Women
+- Manchester City Women v Chelsea Women
+- Tottenham Hotspur v Manchester City
+- Arsenal Women v Corinthians Women
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -64,16 +67,16 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea 3-2 West Ham United, Premier League: Post-match reaction
+- Chelsea vs. West Ham United, Premier League: Lineups &#038; Game Thread
+- Chelsea fans’ preferred lineup against West Ham: Almost unchanged
+- The Daily Hilario: Saturday
+- Chelsea vs. West Ham United, Premier League: Preview, team news, how to watch
 - Champions League knockout bracket set, Chelsea likely to play either PSG or Newcastle in Round of 16
 - Official: River Plate sign Kendry Páez on loan from Chelsea after RC Strasbourg recall
 - How should Chelsea line up against West Ham United to extend winning run?
 - Napoli 2-3 Chelsea, Player Ratings: Big Game João Pedro
 - The Daily Hilario: Friday
-- Chelsea ‘still working to try to sign’ Jérémy Jacquet from Rennes — reports
-- The Daily Hilario: Thursday
-- Liam Rosenior explains tactical approach, praises Chelsea’s ‘collective mentality’ in comeback win against Napoli
-- Napoli 2-3 Chelsea, Champions League: Post-match reaction, ratings
-- Napoli vs. Chelsea, Champions League: Lineups &#038; Game Thread
 
 <!-- news_marker ends -->
 
@@ -81,14 +84,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Epstein emails claim Bill Gates hid STD from wife after sex with ‘Russian girls’
-- Jeffrey Epstein sent thousands of pounds to Peter Mandelson’s husband, emails show
-- Former Prince Andrew offered to aid pay-off to member of Epstein’s staff, DoJ emails show
-- Starmer’s China trip thaws relations with Beijing but spurs criticism at home
-- The Tories have forgotten what it takes to prosper
-- The Hamnet wars
-- Gold and silver prices plunge as rally goes into reverse
-- How not to short gold
+- Russia struggles to shake reliance on foreign technology imports
+- Chechen warlords’ health crises threaten Putin’s plan for the region
+- Who wants to live forever?
+- How to deal with defecting MPs
+- Bitcoin price slides to lowest level since 2025 tariff shock
+- Jeffrey Epstein sent Peter Mandelson $75,000, documents show
+- How Peter Mandelson’s Jeffrey Epstein links were exposed
+- Ford held talks with China’s Xiaomi over EV partnership
 
 <!-- ftnews_marker ends -->
 
@@ -103,33 +106,33 @@ seo: Good Morning, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Do not cling to mistake because you spent a lot of time making it - unknown
+> There is nothing so useless as doing efficiently that which should not be done at all. - Peter Drucker
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Do we need holes?
+> Into the impossible
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Karate Kid (Rated: 3)
-- Released in 1984
-- Summary: Recently relocated from NJ to LA, Daniel becomes the target of a gang of Cobra Kai dojo students. When Mr. Miyagi saves him with expert Karate skills, Daniel convinces him to teach him to defend himself, and put his bullies in the...
+- Juno (Rated: 7)
+- Released in 2007
+- Summary: Faced with an unplanned pregnancy, an offbeat young woman makes a selfless decision regarding the unborn child.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 516, using [2, 9, 10, 25, 75, 100]
+- Target: 382, using [2, 9, 10, 50, 75, 100]
 - Answer: 13 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 - 75 ) x 10 x 2 + 25 - 9
+  Solution: ( 100 + 75 - 9 ) x 2 + 50
 
    </details>
 
