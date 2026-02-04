@@ -7,58 +7,40 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 03 February 2026
+## On Wednesday, 04 February 2026
 
-- The average temperature today is 5.58˚C,
-- With highs of 5.85˚C and lows of 5.16˚C,
-- It may feel like 1.9˚C with light rain
-- The wind speed is 5.36m/s and visibility is 10000m
-- The pressure is 992hPa and humidity is 89%
-- The sun will rise at 07:45 and set at 16:59
+- The average temperature today is 3.76˚C,
+- With highs of 4.18˚C and lows of 2.06˚C,
+- It may feel like 0.6˚C with overcast clouds
+- The wind speed is 3.58m/s and visibility is 1825m
+- The pressure is 991hPa and humidity is 97%
+- The sun will rise at 07:43 and set at 17:00
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 700 days since the last change (2024-03-05)
+- It has been 701 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Set exceptional standards.
+> Inspire others
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Peterborough United U18 v Crystal Palace U18
-- MSK Zilina U19 v Liverpool U19
-- Chelsea U19 v PSV Eindhoven U19
-- Port Vale v AFC Wimbledon
-- Hull City v Watford
-- Portsmouth v Ipswich Town
-- Sheffield United v Oxford United
-- Barnsley v Northampton Town
-- Bristol Rovers v Walsall
-- Harrogate Town v Swindon Town
-- Notts County v Gillingham
-- Altrincham v Morecambe
-- Forest Green Rovers v Woking
-- Rochdale v Boreham Wood
-- Macclesfield FC v Kidderminster Harriers
-- Radcliffe Borough v Oxford City
-- Dover Athletic v Torquay United
-- Weston Super Mare v Worthing
-- Arsenal v Chelsea
+- Hjk Helsinki U19 v Manchester City U19
+- Real Betis U19 v Tottenham Hotspur U19
+- Manchester City v Newcastle United
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -72,16 +54,16 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Arsenal 1-0 (4-2 agg.) Chelsea, League Cup: Post-match reaction, ratings
+- Arsenal vs. Chelsea, League Cup: Lineups &#038; Game Thread
+- Chelsea fans’ preferred lineup against Arsenal: It practically picks itself
+- Arsenal vs. Chelsea, League Cup: Preview, team news, how to watch
+- The Daily Hilario: Tuesday
 - How should Chelsea line up to come back against Arsenal in League Cup semifinal?
 - Official: West Ham sign Axel Disasi on loan from Chelsea
 - Official: Stoke City sign Ato Ampah from Chelsea
 - Official: Everton sign Tyrique George on loan from Chelsea
 - Official: Chelsea recall Mamadou Sarr from RC Strasbourg; send Aarón Anselmino there instead
-- Official: RC Strasbourg sign David Datro Fofana on loan from Chelsea
-- Official: Ipswich Town sign Frankie Runham on loan from Chelsea
-- The Daily Hilario: Monday
-- Chelsea 3-2 West Ham, Player Ratings: Here they come to save the day!
-- Liverpool beat Chelsea to €60+10m Jérémy Jacquet signing — report
 
 <!-- news_marker ends -->
 
@@ -89,14 +71,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- SpaceX buys xAI in $1.25tn deal to unite crucial parts of Musk’s empire
-- OpenAI’s ChatGPT push triggers senior staff exits
-- Silver’s runaway rally becomes ‘death trap’ for Reddit’s retail crowd
-- No, the public is not irredeemably ignorant
-- This is what a proper Brexit looks like
-- Police to review allegations against Mandelson in Epstein scandal
-- Epstein emails reveal extensive ties with top Goldman Sachs lawyer
-- Virgin Media O2 owners to seal £2bn acquisition of UK broadband rival
+- Russian spy spacecraft have intercepted Europe’s key satellites, officials believe
+- From arms to orbit: Rheinmetall’s expansion unsettles rivals
+- Reading the runes on a Warsh Fed
+- Everyone and their mother is peddling an AI application
+- Citadel’s Ken Griffin says Trump White House has ‘enriched’ family members
+- Lloyds plans corporate banking push in strategy overhaul
+- Tether retreats from $20bn funding ambitions after investor pushback
+- Police launch criminal investigation into Mandelson over Epstein scandal
 
 <!-- ftnews_marker ends -->
 
@@ -104,43 +86,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > marquee - noun: 1. A permanent canopy over the entrance of a theater, hotel, etc. 2. An illuminated sign over the entrance of an entertainment venue, displaying the names of attractions, performers, etc. 3. A large tent typically having open sides, used for outdoor parties, exhibitions, etc. adjective: Headlining; star; superlative.
+ > roister - verb intr.: 1. To revel noisily and boisterously. 2. To behave in a swaggering manner.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Focus on idle work not idle workers to achieve fast, flexible flow. - Ken Rubin, Agile Author and Trainer
+> The important thing is not your process. The important thing is your process for improving your process. - Henrik Kniberg, Agile Trainer and Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Lowest common denominator check
--single beat
--single note
--single
+> Give way to your worst impulse
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Alien (Rated: 7)
-- Released in 1979
-- Summary: After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.
+- The Hangover II (Rated: 8)
+- Released in 2011
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 137, using [1, 2, 4, 5, 8, 10]
-- Answer: 27 solutions.
+- Target: 355, using [3, 7, 10, 25, 50, 75]
+- Answer: 33 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 10 + 8 + 1 ) x ( 5 + 2 ) + 4
+  Solution: ( 7 x 3 + 50 ) x 75 / ( 25 - 10 )
 
    </details>
 
