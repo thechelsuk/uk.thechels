@@ -35,6 +35,16 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: Ensure .well-known is included
+        run: |
+          if [ -d ".well-known" ]; then
+            echo "Copying .well-known folder to _site"
+            cp -r .well-known _site/
+            echo "Contents of _site/.well-known:"
+            ls -la _site/.well-known
+          else
+            echo "Warning: .well-known folder not found in source"
+          fi
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
 
