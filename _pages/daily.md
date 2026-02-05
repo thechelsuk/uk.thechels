@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 04 February 2026
+## On Thursday, 05 February 2026
 
-- The average temperature today is 3.76˚C,
-- With highs of 4.18˚C and lows of 2.06˚C,
-- It may feel like 0.6˚C with overcast clouds
-- The wind speed is 3.58m/s and visibility is 1825m
-- The pressure is 991hPa and humidity is 97%
-- The sun will rise at 07:43 and set at 17:00
+- The average temperature today is 6.29˚C,
+- With highs of 6.65˚C and lows of 5.71˚C,
+- It may feel like 2.43˚C with light rain
+- The wind speed is 6.26m/s and visibility is 8315m
+- The pressure is 981hPa and humidity is 90%
+- The sun will rise at 07:41 and set at 17:02
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 701 days since the last change (2024-03-05)
+- It has been 702 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,15 +32,13 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Inspire others
+> Be a learning individual.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Hjk Helsinki U19 v Manchester City U19
-- Real Betis U19 v Tottenham Hotspur U19
-- Manchester City v Newcastle United
+- Accrington Stanley v Salford City
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -54,6 +52,8 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Liam Rosenior reflects on ultimately unsuccessful tactical approach against Arsenal
+- The Daily Hilario: Wednesday
 - Arsenal 1-0 (4-2 agg.) Chelsea, League Cup: Post-match reaction, ratings
 - Arsenal vs. Chelsea, League Cup: Lineups &#038; Game Thread
 - Chelsea fans’ preferred lineup against Arsenal: It practically picks itself
@@ -62,8 +62,6 @@ seo: Good Morning, Here is your daily briefing
 - How should Chelsea line up to come back against Arsenal in League Cup semifinal?
 - Official: West Ham sign Axel Disasi on loan from Chelsea
 - Official: Stoke City sign Ato Ampah from Chelsea
-- Official: Everton sign Tyrique George on loan from Chelsea
-- Official: Chelsea recall Mamadou Sarr from RC Strasbourg; send Aarón Anselmino there instead
 
 <!-- news_marker ends -->
 
@@ -71,14 +69,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Russian spy spacecraft have intercepted Europe’s key satellites, officials believe
-- From arms to orbit: Rheinmetall’s expansion unsettles rivals
-- Reading the runes on a Warsh Fed
-- Everyone and their mother is peddling an AI application
-- Citadel’s Ken Griffin says Trump White House has ‘enriched’ family members
-- Lloyds plans corporate banking push in strategy overhaul
-- Tether retreats from $20bn funding ambitions after investor pushback
-- Police launch criminal investigation into Mandelson over Epstein scandal
+- Starmer engulfed in leadership speculation as he backtracks over Mandelson papers
+- Epstein advised former prince’s team on proposed deal with Cantor Fitzgerald
+- Hedge fund run by Chris Rokos ends talks with Mandelson on advisory role
+- Inside the Russian Monopoly money network moving billions over borders
+- Where is AI showing up in the productivity data?
+- The truth about the ‘blue-collar boom’
+- Google set to double AI spending to $185bn after strong earnings
+- US tech stocks hit by fresh wave of selling as Qualcomm and AMD tumble
 
 <!-- ftnews_marker ends -->
 
@@ -86,40 +84,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > roister - verb intr.: 1. To revel noisily and boisterously. 2. To behave in a swaggering manner.
+ > serried - adjective: Arranged close together, often in a line.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The important thing is not your process. The important thing is your process for improving your process. - Henrik Kniberg, Agile Trainer and Author
+> Even though working in small chunks adds some overhead, it reaps enormous rewards by allowing us to avoid work that delivers zero or negative value for our organisations - Accelerate
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Give way to your worst impulse
+> Think of the radio
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Hangover II (Rated: 8)
-- Released in 2011
-- Summary: No summary available
+- Nine Dead (Rated: 2)
+- Released in 2010
+- Summary: Nine strangers are kidnapped and forced to figure out the connection they have to each other as one has to die every ten minutes.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 355, using [3, 7, 10, 25, 50, 75]
-- Answer: 33 solutions.
+- Target: 904, using [2, 7, 8, 8, 9, 75]
+- Answer: 6 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 7 x 3 + 50 ) x 75 / ( 25 - 10 )
+  Solution: ( ( 9 + 8 + 7 ) x 75 + 8 ) / 2
 
    </details>
 
