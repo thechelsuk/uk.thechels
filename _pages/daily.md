@@ -7,44 +7,52 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Friday, 06 February 2026
+## On Saturday, 07 February 2026
 
-- The average temperature today is 8.2˚C,
-- With highs of 8.62˚C and lows of 6.51˚C,
-- It may feel like 6.89˚C with light rain
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 981hPa and humidity is 95%
-- The sun will rise at 07:40 and set at 17:04
+- The average temperature today is 7.76˚C,
+- With highs of 8.07˚C and lows of 6.83˚C,
+- It may feel like 6.04˚C with broken clouds
+- The wind speed is 2.68m/s and visibility is 9112m
+- The pressure is 991hPa and humidity is 94%
+- The sun will rise at 07:38 and set at 17:06
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 703 days since the last change (2024-03-05)
+- It has been 704 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Farmers Market in town
+- Water the plants
 
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Bias towards action.
+> Inspire others
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Arsenal U21 v Everton U21
-- Manchester United U21 v Derby County U21
-- Tottenham Hotspur U21 v Birmingham City U21
-- Sunderland AFC Women v Sheffield United Women
-- Leeds United v Nottingham Forest
-- Charlton Athletic v QPR
+- Tottenham Hotspur U18 v West Ham United U18
+- Leicester City Women v Manchester United Women
+- Manchester United v Tottenham Hotspur
+- Derby County v Ipswich Town
+- Norwich City v Blackburn Rovers
+- Southampton v Watford
+- Luton Town v Bradford City
+- Port Vale v Burton Albion
+- Crawley Town v Crewe Alexandra
+- Swindon Town v Oldham Athletic
+- Chelsea U21 v Blackburn Rovers U21
+- Eastleigh v Wealdstone
+- Newcastle United v Brentford
+- Manchester City U21 v Leeds United U21
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -58,16 +66,16 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Official: Sonia Bompastor extends Chelsea FCW contract
+- Liam Rosenior, Enzo Fernández nominated for Premier League Manager, Player of the Month
+- The Daily Hilario: Friday
+- How should bruised and battered Chelsea line up against Wolves, away?
 - Liverpool to pay Chelsea £2.8+4m in compensation for 2024 Rio Ngumoha signing — report
 - Jamie Gittens out with ‘long-term’ hamstring injury
 - The Daily Hilario: Thursday
 - Arsenal 1-0 (4-2 agg.) Chelsea, Player Ratings: Good but not good enough
 - Liam Rosenior reflects on ultimately unsuccessful tactical approach against Arsenal
 - The Daily Hilario: Wednesday
-- Arsenal 1-0 (4-2 agg.) Chelsea, League Cup: Post-match reaction, ratings
-- Arsenal vs. Chelsea, League Cup: Lineups &#038; Game Thread
-- Chelsea fans’ preferred lineup against Arsenal: It practically picks itself
-- Arsenal vs. Chelsea, League Cup: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -75,14 +83,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Big Tech’s ‘breathtaking’ $660bn spending spree reignites AI bubble fears
-- Amazon shares sink as it prepares $200bn AI spending blitz
-- Bitcoin falls below $65,000 to wipe out ‘Trump rally’
-- Inside Jeffrey Epstein’s social Ponzi scheme
-- Starmer on borrowed time as MPs weigh up how to mount leadership challenge
-- Trump and the normalisation of deviance
-- Former prince advocated for Epstein during Queen Elizabeth’s visit to UAE
-- Starmer apologises to victims of Epstein
+- Starmer camp warns leadership challenge risks economic chaos
+- Hesitation from leadership rivals keeps Starmer in Downing Street for now
+- Police search Peter Mandelson’s homes as part of misconduct probe
+- Anthropic’s breakout moment: how Claude cracked AI for business
+- Funding the Muskverse will require ever more audacious moves
+- China warns US arms sales to Taiwan could threaten Trump visit
+- Trump removes racist post about Obamas after fierce backlash
+- Epstein propelled investment career of UK power broker Ian Osborne
 
 <!-- ftnews_marker ends -->
 
@@ -97,33 +105,33 @@ seo: Good Morning, Here is your daily briefing
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Scaling agile always sounds to me like scaling small-batch, hand-crafted artisanal beer. You end up with Bud Light. - Andy Hunt, Pragmatic Programmer
+> Luck is not a factor. Hope is not a strategy. Fear is not an option. - James Cameron
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Shut the door and listen from outside
+> What is the reality of the situation?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Jumanji (Rated: 4)
-- Released in 1995
-- Summary: A magic board game summons jungle perils and a missing boy.
+- Saw V (Rated: 6)
+- Released in 2008
+- Summary: Following Jigsaw's grisly demise, Mark Hoffman is commended as a hero, but Agent Strahm is suspicious, and delves into Hoffman's past. Meanwhile, another group of people are put through a series of gruesome tests.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 320, using [1, 2, 4, 8, 50, 100]
-- Answer: 29 solutions.
+- Target: 257, using [3, 5, 6, 9, 50, 100]
+- Answer: 21 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 50 + 8 ) x 2 + 4
+  Solution: ( ( 100 + 50 + 6 ) x 5 - 9 ) / 3
 
    </details>
 
