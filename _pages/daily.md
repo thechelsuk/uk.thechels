@@ -7,40 +7,67 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Monday, 09 February 2026
+## On Tuesday, 10 February 2026
 
-- The average temperature today is 7.66˚C,
-- With highs of 8.07˚C and lows of 7.05˚C,
-- It may feel like 6.67˚C with overcast clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1000hPa and humidity is 95%
-- The sun will rise at 07:34 and set at 17:10
+- The average temperature today is 7.85˚C,
+- With highs of 8.32˚C and lows of 7.38˚C,
+- It may feel like 6.15˚C with overcast clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 989hPa and humidity is 92%
+- The sun will rise at 07:33 and set at 17:12
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 706 days since the last change (2024-03-05)
+- It has been 707 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> challenge assumptions.
+> Crossing the river by feeling the stones.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Chelsea U18 v Manchester City U18
-- Crystal Palace U21 v Middlesbrough U21
-- Sheffield United v Middlesbrough
+- Ipswich Town U18 v Crystal Palace U18
+- AFC Wimbledon v Northampton Town
+- Huddersfield Town v Doncaster Rovers
+- Port Vale v Stockport County
+- Chelsea v Leeds United
+- Everton v AFC Bournemouth
+- Tottenham Hotspur v Newcastle United
+- Birmingham City v West Brom
+- Oxford United v Norwich City
+- Mansfield Town v Peterborough United
+- Stevenage v Barnsley
+- Wigan Athletic v Reading
+- Crawley Town v Cambridge United
+- Altrincham v Wealdstone
+- Boston United v Gateshead
+- Carlisle United v Scunthorpe United
+- Morecambe v Tamworth
+- Solihull Moors v Eastleigh
+- Truro City v Woking
+- AFC Fylde v Spennymoor Town
+- Darlington v Radcliffe Borough
+- Kidderminster Harriers v Merthyr Town
+- Scarborough Athletic v South Shields
+- Chippenham Town v Torquay United
+- Eastbourne Borough v Maidstone United
+- Hornchurch v Chelmsford City
+- Horsham v Dagenham & Redbridge
+- West Ham United v Manchester United
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -54,16 +81,16 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Official: Paul Green leaves role as Chelsea’s Head of Women’s Football
+- How should Chelsea line up against Leeds United to keep stacking Premier League wins?
+- The Daily Hilario: Monday
+- Wolves 1-3 Chelsea, Player Ratings: A Cold front moves through
 - Tottenham Hotspur FCW 0-2 Chelsea FCW, Women’s Super League: Post-match reaction
 - Tottenham Hotspur FCW vs. Chelsea FCW, Women’s Super League: Lineups &#038; Game Thread
 - The Daily Hilário: Sunday
 - Cole Palmer sets Premier League and Chelsea records with latest hat trick
 - Tottenham Hotspur FCW vs. Chelsea FCW, Women’s Super League: Preview, team news, how to watch
 - Wolves 1-3 Chelsea, Premier League: Post-match reaction, ratings
-- Wolves vs. Chelsea, Premier League: Lineups &#038; Game Thread
-- Chelsea fans’ preferred lineup against Wolves: Chance for Garnacho?
-- The Daily Hilario: Saturday
-- Wolverhampton Wanderers vs. Chelsea, Premier League: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -71,14 +98,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Keir Starmer faces crunch week in battle to hold on to power
-- ‘It feels like a betrayal.’ Germany’s painful estrangement from the US
-- Bash All Day, Buy All Night
-- Three ways European banks are finding their mojo
-- Japanese stocks soar to record after Takaichi landslide election win
-- US embassy in London denies visas to executives over minor offences
-- UK’s FCA plans to publish all trading data for London-listed shares
-- Big Tech groups race to fund unprecedented $660bn AI spending spree
+- Starmer defies call to quit as UK prime minister
+- Misconduct in public office: the offence that rarely ensnares politicians
+- Keir Starmer’s inconvenient truth
+- Starmer stumbles on as rivals balk at killer blow
+- Is this the way the world ends?
+- What fast food’s downturn says about the US economy
+- Rising share of UK public in favour of tax and spending cuts
+- UK shoppers held out for January sales, data shows
 
 <!-- ftnews_marker ends -->
 
@@ -86,34 +113,41 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > windbag - noun: A person who talks pompously or excessively. verb intr.: To talk pompously or excessively.
+ > rizz - noun: The ability to charm or seduce. verb intr.: To charm or seduce.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Anyone who has never made a mistake has never tried anything new. - Albert Einstein
+> It is not failing fast, but learning early  - Anon
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> What are you really thinking about just now? Incorporate
+> Is there something missing?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Robert the Bruce (Rated: 3)
-- Released in 2019
-- Summary: The story of the nobleman-turned-outlaw hero who was crowned king of Scots in the 14th century.
+- Outlaw (Rated: 5)
+- Released in 2007
+- Summary: A group of people who feel betrayed by their government and let down by their Police force form a modern-day outlaw posse in order to right what they see as the wrongs of society.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 812, using [3, 5, 10, 25, 50, 75]
+- Target: 678, using [3, 7, 8, 8, 9, 50]
+- Answer: 9 solutions.
+
+- <details><summary><code>Solution</code></summary>
+
+  Solution: ( 50 + 9 + 8 ) x ( 7 + 3 ) + 8
+
+   </details>
 
 <!-- game_marker ends -->
