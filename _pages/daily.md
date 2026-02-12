@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Wednesday, 11 February 2026
+## On Thursday, 12 February 2026
 
-- The average temperature today is 9.9˚C,
-- With highs of 10.55˚C and lows of 9.05˚C,
-- It may feel like 7.33˚C with overcast clouds
-- The wind speed is 5.36m/s and visibility is 5870m
-- The pressure is 982hPa and humidity is 94%
-- The sun will rise at 07:31 and set at 17:14
+- The average temperature today is 6.91˚C,
+- With highs of 7.77˚C and lows of 5.85˚C,
+- It may feel like 6.33˚C with broken clouds
+- The wind speed is 1.34m/s and visibility is 10000m
+- The pressure is 980hPa and humidity is 92%
+- The sun will rise at 07:29 and set at 17:15
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 708 days since the last change (2024-03-05)
+- It has been 709 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,27 +32,14 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Seek the best.
+> Be open to change.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- OH Leuven Women v Arsenal Women
-- Aston Villa v Brighton & Hove Albion
-- Crystal Palace v Burnley
-- Manchester City v Fulham
-- Nottingham Forest v Wolves
-- Charlton Athletic v Stoke City
-- Grimsby Town v Accrington Stanley
-- Aldershot Town v Southend United
-- Boreham Wood v Yeovil Town
-- Brackley Town v FC Halifax Town
-- Rochdale v Forest Green Rovers
-- Sutton United v Braintree Town
-- York City v Hartlepool United
-- Swindon Town v Newport County
-- Sunderland v Liverpool
+- Brentford v Arsenal
+- AtlÃ©tico Madrid Women v Manchester United Women
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -66,6 +53,9 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Liam Rosenior hoping Marc Cucurella won’t be out ‘too long’ with hamstring injury
+- The Daily Hilario: Wednesday
+- Liam Rosenior looks for positive trends in ‘bitter pill’ Leeds United draw
 - Chelsea 2-2 Leeds United, Premier League: Post-match reaction, ratings
 - Chelsea vs. Leeds United, Premier League: Lineups &#038; Game Thread
 - Chelsea fans’ preferred lineup against Leeds United: Not the time to take it easy
@@ -73,9 +63,6 @@ seo: Good Morning, Here is your daily briefing
 - Chelsea vs. Leeds United, Premier League: Preview, team news, how to watch
 - Official: Paul Green leaves role as Chelsea’s Head of Women’s Football
 - How should Chelsea line up against Leeds United to keep stacking Premier League wins?
-- The Daily Hilario: Monday
-- Wolves 1-3 Chelsea, Player Ratings: A Cold front moves through
-- Tottenham Hotspur FCW 0-2 Chelsea FCW, Women’s Super League: Post-match reaction
 
 <!-- news_marker ends -->
 
@@ -83,14 +70,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Zelenskyy planning elections in Ukraine and vote on peace deal
-- The airlines fighting the expansion of Heathrow
-- Why are fertility rates collapsing? Gender roles
-- Turkey’s soap opera boom threatened by dramatic inflation
-- Howard Lutnick says he visited Jeffrey Epstein’s island in 2012
-- Canadian pension giant halts deals with DP World over chief’s Epstein ties
-- 25-year-old founder raises $220mn for secretive UK AI chip start-up
-- Nine killed in shooting in remote Canada town
+- Epstein trustee document contradicts Jes Staley testimony
+- Bondi under fire over handling of Epstein files in congressional hearing
+- China wants to create a ‘Polar Silk Road’ through the Arctic
+- How private equity’s big bet on software got derailed by AI
+- Does the weight-loss revolution show up in the data?
+- Mustafa Suleyman plots AI ‘self-sufficiency’ as Microsoft loosens OpenAI ties
+- Musk overhauls xAI’s leadership as he sets lofty space data centre ambitions
+- Trump prompts global surge in people viewing US as a threat
 
 <!-- ftnews_marker ends -->
 
@@ -98,40 +85,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > deadname - noun: The former name of a person. verb tr.: To call someone using their former name.
+ > gundeck - noun: The deck carrying guns on a warship. verb tr.: To falsify or fabricate.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> UO quite simply stands for 'User Outcomes', and when I use it, it very simply means does the user get the right answer - Martin Lewis
+> Great ScrumMasters are not solely focused on their teams but are able to build communities across the organization. - Zuzana Sochova
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Consider different fading systems
+> Take a break
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Legend (Rated: 8)
-- Released in 2015
-- Summary: Identical twin gangsters Ronald and Reginald Kray terrorize London during the 1960s.
+- James Bond: You Only Live Twice (Rated: 4)
+- Released in 1967
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 295, using [2, 4, 5, 8, 9, 75]
-- Answer: 53 solutions.
+- Target: 488, using [4, 5, 5, 7, 7, 25]
+- Answer: 2 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 2 - 9 x 8 / 4 ) x 5
+  Solution: ( ( 25 + 5 - 7 ) x 5 + 7 ) x 4
 
    </details>
 
