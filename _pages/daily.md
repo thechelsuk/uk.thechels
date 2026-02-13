@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Thursday, 12 February 2026
+## On Friday, 13 February 2026
 
-- The average temperature today is 6.91˚C,
-- With highs of 7.77˚C and lows of 5.85˚C,
-- It may feel like 6.33˚C with broken clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 980hPa and humidity is 92%
-- The sun will rise at 07:29 and set at 17:15
+- The average temperature today is 5.88˚C,
+- With highs of 6.83˚C and lows of 4.84˚C,
+- It may feel like 5.88˚C with overcast clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 989hPa and humidity is 95%
+- The sun will rise at 07:27 and set at 17:17
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 709 days since the last change (2024-03-05)
+- It has been 710 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -32,14 +32,18 @@ seo: Good Morning, Here is your daily briefing
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be open to change.
+> One Step Beyond.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Brentford v Arsenal
-- AtlÃ©tico Madrid Women v Manchester United Women
+- Arsenal U21 v Newcastle United U21
+- Birmingham City U21 v Chelsea U21
+- Derby County U21 v Manchester City U21
+- Manchester City Women v Leicester City Women
+- Hull City v Chelsea
+- Wrexham v Ipswich Town
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -53,6 +57,9 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- How should Chelsea line up against Hull City in the FA Cup?
+- The Daily Hilario: Thursday
+- Chelsea 2-2 Leeds United, Player Ratings: Please keep pushing João Pedro
 - Liam Rosenior hoping Marc Cucurella won’t be out ‘too long’ with hamstring injury
 - The Daily Hilario: Wednesday
 - Liam Rosenior looks for positive trends in ‘bitter pill’ Leeds United draw
@@ -60,9 +67,6 @@ seo: Good Morning, Here is your daily briefing
 - Chelsea vs. Leeds United, Premier League: Lineups &#038; Game Thread
 - Chelsea fans’ preferred lineup against Leeds United: Not the time to take it easy
 - The Daily Hilario: Tuesday
-- Chelsea vs. Leeds United, Premier League: Preview, team news, how to watch
-- Official: Paul Green leaves role as Chelsea’s Head of Women’s Football
-- How should Chelsea line up against Leeds United to keep stacking Premier League wins?
 
 <!-- news_marker ends -->
 
@@ -70,14 +74,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Epstein trustee document contradicts Jes Staley testimony
-- Bondi under fire over handling of Epstein files in congressional hearing
-- China wants to create a ‘Polar Silk Road’ through the Arctic
-- How private equity’s big bet on software got derailed by AI
-- Does the weight-loss revolution show up in the data?
-- Mustafa Suleyman plots AI ‘self-sufficiency’ as Microsoft loosens OpenAI ties
-- Musk overhauls xAI’s leadership as he sets lofty space data centre ambitions
-- Trump prompts global surge in people viewing US as a threat
+- Schroders boss reassured UK Treasury ahead of £9.9bn US takeover
+- Schroders is the defining deal of a glass half-empty UK
+- Chicago crashes the Square Mile’s club with deal to buy Schroders
+- Top Goldman Sachs lawyer Kathy Ruemmler to resign over Epstein links
+- How London unwittingly killed housebuilding
+- Wall Street hunts next casualty from AI threat to white-collar work
+- PwC UK applications jump 35% in graduate jobs drought
+- Bankers push to avoid US regulator taking charge of British supervisor
 
 <!-- ftnews_marker ends -->
 
@@ -85,40 +89,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > gundeck - noun: The deck carrying guns on a warship. verb tr.: To falsify or fabricate.
+ > sandbag - noun: A bag filled with sand. verb tr.: 1. To fortify a position. 2. To thwart. 3. To coerce. 4. To treat unfairly or harshly. 5. To give an unpleasant surprise; to blindside. verb intr.: To conceal one's position in order to gain an advantage.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Great ScrumMasters are not solely focused on their teams but are able to build communities across the organization. - Zuzana Sochova
+> If you define the problem correctly, you almost have the solution. - Steve Jobs
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Take a break
+> Mute and continue
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- James Bond: You Only Live Twice (Rated: 4)
-- Released in 1967
+- Beethoven Ii (Rated: 1)
+- Released in 1993
 - Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 488, using [4, 5, 5, 7, 7, 25]
+- Target: 817, using [2, 3, 6, 7, 8, 10]
 - Answer: 2 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 25 + 5 - 7 ) x 5 + 7 ) x 4
+  Solution: ( 10 + 7 ) x 8 x 6 + 3 - 2
 
    </details>
 
