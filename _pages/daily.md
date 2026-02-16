@@ -7,53 +7,42 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 15 February 2026
+## On Monday, 16 February 2026
 
-- The average temperature today is 3.95˚C,
-- With highs of 4.43˚C and lows of 3.25˚C,
-- It may feel like 1.15˚C with light rain
-- The wind speed is 3.13m/s and visibility is 2104m
-- The pressure is 1006hPa and humidity is 90%
-- The sun will rise at 07:23 and set at 17:21
+- The average temperature today is 5.46˚C,
+- With highs of 6.1˚C and lows of 4.6˚C,
+- It may feel like 2.41˚C with broken clouds
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 996hPa and humidity is 85%
+- The sun will rise at 07:21 and set at 17:23
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 712 days since the last change (2024-03-05)
+- It has been 713 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Optimise flow.
+> Be the owner.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Birmingham City v Leeds United
-- Aston Villa Women v Tottenham Hotspur Women
-- Chelsea Women v Liverpool Women
-- Everton Women v West Ham United Women
-- Manchester United Women v London City Lionesses
-- Charlton Athletic Women v Durham Women
-- Grimsby Town v Wolves
-- Oxford United v Sunderland
-- Stoke City v Fulham
-- Liverpool U21 v West Brom U21
-- Bristol City Women v Southampton Women
-- Ipswich Town Women v Sheffield United Women
-- Newcastle United Women v Portsmouth Women
-- Sunderland AFC Women v Nottingham Forest Women
-- Brighton & Hove Albion Women v Arsenal Women
-- Arsenal v Wigan Athletic
+- Birmingham City Women v Crystal Palace Women
+- Macclesfield FC v Brentford
+- Chelmsford City v Maidstone United
+- Coventry City v Middlesbrough
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -67,16 +56,16 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Hull City 0-4 Chelsea, Player Ratings: Neto, Delap bring a bit of magic to the Cup
+- Chelsea FCW 2-0 Liverpool FCW, Women’s Super League: Post-match reaction
+- Chelsea FCW vs. Liverpool FCW, Women’s Super League: Lineups &#038; Game Thread
+- Chelsea FCW vs. Liverpool FCW, Women’s Super League: Preview, team news, how to watch
+- The Daily Hilario: Sunday
+- Marc Cucurella to miss 3-4 weeks with hamstring injury — report
 - ‘World-class’ Pedro Neto joins the hat-trick party
 - The Daily Hilario: Saturday
 - Liam Rosenior ‘very happy’ with Chelsea’s ‘really professional performance’ against Hull City
 - Hull City 0-4 Chelsea, FA Cup: Post-match reaction, ratings
-- Hull City vs. Chelsea, FA Cup: Lineups &#038; Game Thread
-- Chelsea fans’ preferred lineup against Hull City: Half rotation
-- The Daily Hilario: Friday
-- Hull City vs. Chelsea, FA Cup: Preview, team news, how to watch
-- How should Chelsea line up against Hull City in the FA Cup?
-- The Daily Hilario: Thursday
 
 <!-- news_marker ends -->
 
@@ -84,14 +73,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- ‘The best we can hope for’: Rubio’s Munich unity appeal fails to woo Europe
-- Ukraine’s survival still an ‘open question’, Kyiv mayor warns
-- Zelenskyy insists elections can only take place two months after a ceasefire
-- Will Keir Starmer shift to the left?
-- The AI productivity take-off is finally visible
-- The age of the disposable leader
-- End of EV euphoria triggers $65bn hit for carmakers
-- Investors reluctant to ‘buy the dip’ after AI scares
+- Russia’s Wagner Group pivots to European sabotage, say western officials
+- A fallen Indian tech star and the hunt for its missing millions
+- Student loans show that hard policy choices will only get harder
+- MIT Sloan tops FT Global MBA Ranking for the first time
+- UK to tighten online safety laws to include AI chatbots
+- OpenAI hires OpenClaw founder Peter Steinberger
+- EU cross-border banking deals jump to highest since 2008 crisis
+- Getir founders sue Mubadala for $700mn over break-up of assets
 
 <!-- ftnews_marker ends -->
 
@@ -99,40 +88,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > sandbag - noun: A bag filled with sand. verb tr.: 1. To fortify a position. 2. To thwart. 3. To coerce. 4. To treat unfairly or harshly. 5. To give an unpleasant surprise; to blindside. verb intr.: To conceal one's position in order to gain an advantage.
+ > invaginate - verb tr.: 1. To enclose or to put into a sheath. 2. To fold inward so an outer surface becomes an inner surface, forming a cavity or pouch.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Change is scary, but complacency is deadly. - Dave Dame, Agile Leader
+> A great person attracts great people and knows how to hold them together. - Johann Wolfgang Von Goethe
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> You are an engineer
+> Only one element of each kind
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Target Number One (Rated: 3)
-- Released in 2023
-- Summary: In order to strengthen his connections on the street, a young man has to participate in a violent robbery. But, after surviving the war between street gangs, he becomes the main target of law enforcement and a ruthless mobster.
+- Les Miserables (Rated: 7)
+- Released in 1998
+- Summary: Jean Valjean (Richard Jordan), convicted of stealing bread, is hounded for several decades by the relentless and cruel Policeman Javert (Anthony Perkins).
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 482, using [3, 6, 8, 9, 9, 100]
-- Answer: 3 solutions.
+- Target: 174, using [1, 1, 3, 6, 7, 25]
+- Answer: 31 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 - 9 - 9 - 3 ) x 6 + 8
+  Solution: ( 25 + 7 + 1 - 3 - 1 ) x 6
 
    </details>
 
