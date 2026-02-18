@@ -7,75 +7,44 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 17 February 2026
+## On Wednesday, 18 February 2026
 
-- The average temperature today is 1.45˚C,
-- With highs of 1.65˚C and lows of 0.94˚C,
-- It may feel like 0.15˚C with scattered clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 81%
-- The sun will rise at 07:19 and set at 17:25
+- The average temperature today is 3.12˚C,
+- With highs of 3.88˚C and lows of 2.14˚C,
+- It may feel like 0.15˚C with overcast clouds
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 1007hPa and humidity is 78%
+- The sun will rise at 07:17 and set at 17:27
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 714 days since the last change (2024-03-05)
+- It has been 715 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Crossing the river by feeling the stones.
+> Exploit the landscape.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Manchester City U18 v Wolves U18
-- Peterborough United U18 v Crystal Palace U18
-- Boreham Wood v Truro City
-- Tamworth v West Ham United U21
-- Bristol City v Wrexham
-- Charlton Athletic v Portsmouth
-- Barnsley v Peterborough United
-- Bradford City v Stockport County
-- Burton Albion v Rotherham United
-- Cardiff City v AFC Wimbledon
-- Doncaster Rovers v Huddersfield Town
-- Exeter City v Wycombe Wanderers
-- Leyton Orient v Plymouth Argyle
-- Lincoln City v Northampton Town
-- Stevenage v Port Vale
-- Barnet v Swindon Town
-- Barrow AFC v Harrogate Town
-- Bromley v Cheltenham Town
-- Cambridge United v Colchester United
-- Chesterfield v Gillingham
-- Crewe Alexandra v Fleetwood Town
-- MK Dons v Crawley Town
-- Oldham Athletic v Bristol Rovers
-- Salford City v Newport County
-- Shrewsbury Town v Notts County
-- Tranmere Rovers v Accrington Stanley
-- FC Halifax Town v Gateshead
-- Rochdale v Scunthorpe United
-- Sutton United v Woking
-- Wealdstone v Hartlepool United
-- Yeovil Town v Aldershot Town
-- Hereford v Darlington
-- Bath City v Ebbsfleet United
-- Dorking Wanderers v Hornchurch
-- Blackpool v Mansfield Town
-- Reading v Bolton Wanderers
+- FK Qarabag v Newcastle United
+- Oxford United U18 v Manchester United U18
+- Crystal Palace U21 v Borussia MÃ¶nchengladbach U21
+- Ipswich Town Women v Charlton Athletic Women
+- Wigan Athletic v Luton Town
+- Wolves v Arsenal
+- Arsenal Women v OH Leuven Women
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -89,6 +58,8 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Bayern Munich ‘unlikely to pursue’ Nicolas Jackson transfer — report
+- The Daily Hilario: Tuesday
 - Chelsea drawn against Wrexham in FA Cup fifth round
 - The Daily Hilario: Monday
 - Hull City 0-4 Chelsea, Player Ratings: Neto, Delap bring a bit of magic to the Cup
@@ -97,8 +68,6 @@ seo: Good Morning, Here is your daily briefing
 - Chelsea FCW vs. Liverpool FCW, Women’s Super League: Preview, team news, how to watch
 - The Daily Hilario: Sunday
 - Marc Cucurella to miss 3-4 weeks with hamstring injury — report
-- ‘World-class’ Pedro Neto joins the hat-trick party
-- The Daily Hilario: Saturday
 
 <!-- news_marker ends -->
 
@@ -106,14 +75,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- UK quietly shelves £110mn frictionless post-Brexit trade border project
-- China’s high-speed rail network accelerates world’s largest human migration
-- Perhaps we should all be banned from social media
-- We have to stop calling some jobs ‘low skilled’
-- Thomas Pritzker steps down as Hyatt executive chair over Epstein ties
-- Big Oil executives under pressure to spell out growth plans
-- Starmer cancels plans to delay 30 local council elections in England
-- Macron arrives in India as blockbuster fighter jet deal nears
+- Christine Lagarde to leave ECB before the end of her 8-year term
+- Maternity care is broken. Who can fix it?
+- The truth about population decline
+- Brain drain is undermining America’s scientific edge
+- Carmakers to win reprieve in £11bn UK motor finance redress scheme
+- Gilt investors warn about ‘ruse’ to fund higher UK defence spending
+- John Lewis hands shop floor staff 6.9% pay rise
+- UK unemployment hits post-pandemic peak as wage growth cools
 
 <!-- ftnews_marker ends -->
 
@@ -121,40 +90,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > fucate - adjective: 1. Artificially colored. 2. Counterfeit; disguised; falsified.
+ > sexpartite - adjective: 1. Divided into six parts. 2. Having six participants.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Agile is a philosophy, not a methodology - Paul Bennett
+> You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You must do the thing you think you cannot do. - Eleanor Roosevelt
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Allow an easement (an easement is the abandonment of a stricture)
+> Define an area as `safe' and use it as an anchor
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Runner Runner (Rated: 6)
-- Released in 2013
-- Summary: When a poor college student who cracks an online poker game goes bust, he arranges a face-to-face with the man he thinks cheated him, a sly offshore entrepreneur.
+- The Silence (Rated: 3)
+- Released in 2019
+- Summary: When the world is under attack from terrifying creatures who hunt their human prey by sound, 16-year old Ally Andrews (Kiernan Shipka), who lost her hearing at 13, and her family seek refuge in a remote haven.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 728, using [1, 4, 6, 10, 75, 100]
-- Answer: 4 solutions.
+- Target: 878, using [3, 4, 5, 10, 25, 75]
+- Answer: 11 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 75 + 6 + 1 ) x 4
+  Solution: ( ( 25 + 10 ) x 75 + 5 + 4 ) / 3
 
    </details>
 
