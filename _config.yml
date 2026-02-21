@@ -15,7 +15,6 @@ github:
 sass:
   style: compressed
 plugins:
-  - jekyll-feed
   - jekyll-avatar
   - jekyll-github-metadata
 exclude:
@@ -79,7 +78,7 @@ navigation_slashes:
     title: "Colophon"
   - link: "/cv"
     title: "CV"
-  - link: "/feed"
+  - link: "/feed.xml"
     title: "Feed"
   - link: "/green"
     title: "Green"
@@ -109,20 +108,25 @@ navigation_slashes:
     title: "IndieWeb"
 ## Footer links
 navigation_footer:
-  - link: "/feed"
+  - link: "/feed.xml"
     title: "RSS"
-  - link: "/sitemap.xml"
-    title: "Sitemap"
+  - link: "/feed.json"
+    title: "JSON"
   - link: "/humans.txt"
     title: "Humans"
   - link: "/robots.txt"
     title: "Robots"
+  - link: "/llms.txt"
+    title: "LLMs"
+  - link: "/sitemap.xml"
+    title: "Sitemap"
   - link: "/.well-known/privacy.txt"
     title: "Privacy"
   - link: "/.well-known/security.txt"
     title: "Security"
+
+navigation_social:
   - link: "https://bsky.app/profile/thechels.uk"
-    title: "@bsky" 
+    title: "Bluesky"
   - link: "https://mastodon.social/@Thechelsuk"
-    title: "@Masto"
-    
+    title: "Mastodon"

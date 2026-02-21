@@ -1,9 +1,12 @@
 ---
 layout: null
+permalink: /humans.txt
 ---
 
 # Site
+
 Last Updated: {{ site.time | date:"%Y-%m-%d" }}
+Build: {{ site.github.build_revision }}
 
 Standards: HTML5, CSS3
 
