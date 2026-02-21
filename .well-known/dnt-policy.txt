@@ -167,12 +167,12 @@ the following specific situations:
   b. If we encounter technical problems with our site, then, in rare
      circumstances, we may retain logs for longer than 10 days, if that is
      necessary to diagnose and fix those problems, but this practice will not be
-     routinized and we will strive to delete such logs as soon as possible.
+     routinised and we will strive to delete such logs as soon as possible.
 
 4. AGGREGATION:
 
   a. We may retain and share anonymized datasets, such as aggregate records of
-     readership patterns; statistical models of user behavior; graphs of system
+     readership patterns; statistical models of user behaviour; graphs of system
      variables; data structures to count active users on monthly or yearly
      bases; database tables mapping authentication cookies to logged in
      accounts; non-unique data structures constructed within browsers for tasks
