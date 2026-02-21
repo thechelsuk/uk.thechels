@@ -29,7 +29,15 @@ permalink: /rss.xml
     <uri>{{ site.url }}</uri>
     <email>{{ site.owner.email }}</email>
   </author>
-  <content type="html">{{ post.content | xml_escape }}</content>
+  <content type="html">{{ post.content | xml_escape }}
+ {% assign min = 1 %}
+  {% assign max = site.data.offers.size %}
+  {% assign diff = max | minus: min %}
+  {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
+  {% assign offer = site.data.offers[item] %}
+  <![CDATA[<p><a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a> [Sponsor/Advert, T&Cs apply].</p>]]>
+
+  </content>
 </entry>
 {% endfor %}
 </feed>
