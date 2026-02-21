@@ -25,7 +25,7 @@ layout: empty
                         {% assign diff = max | minus: min %}
                         {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
                         {% assign offer = site.data.offers[item] %}
-                        <hr/><p>Notes: Thanks for keeping RSS alive. If you have an RSS feed please send it my way.</p><p>Here is a special sponsor/advert link just for you.</p><p><a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a> [T&Cs apply].</p>]]>
+                        <hr/><p>Notes: Thanks for keeping RSS alive. If you have an RSS feed please send it my way.</p><p>Here is a special sponsor/advert link just for you; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a> [T&Cs apply].</p>]]>
                       ",
       "date_published": "{{ post.date | date_to_rfc822 }}",
       "author": {
