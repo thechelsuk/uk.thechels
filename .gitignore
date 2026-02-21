@@ -6,7 +6,7 @@ vendor
 .DS_Store
 Gemfile.lock
 .vscode/
-
+_includes/footer.html
 .pytest_cache
 _python/__pycache__
 _drafts/
