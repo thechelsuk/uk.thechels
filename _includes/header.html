@@ -45,7 +45,11 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} xml" href="{{ site.url }}/feed.xml">
     <link rel="alternate" type="application/json" title="{{ site.title }} json" href="{{ site.url }}/feed.json">
     <link rel="alternate" type="application/rss+xml" title="Daily Rundown" href="{{ site.url }}/daily.rss">
-        <link rel="alternate" type="application/rss+xml" title="Film Reviews" href="{{ site.url }}/films.rss">
+    <link rel="alternate" type="application/rss+xml" title="Film Reviews" href="{{ site.url }}/films.rss">
+    {% if page.layout == 'post' %}
+    <link href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md" type="text/markdown" rel="alternate"
+      title="Markdown">
+    {% endif %}
     <link rel="icon" href="/images/splashscreens/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="/images/splashscreens/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="512x512" href="/images/splashscreens/apple-touch-icon-512x512.png">
