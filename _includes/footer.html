@@ -11,9 +11,17 @@
       {% for item in site.navigation_footer %}
       <a href="{{item.link}}">{{item.title}}</a>
       {% endfor %}
-      <a href="/#{{ site.github.build_revision }}">#</a>
-      <a href="#top" class="back-to-top" name="back-to-top">↑</a>
+      {% unless page.url == "/" %}
+      <a href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md">MD</a>
+      {% endunless %}
+      <a href=" #top" class="back-to-top" name="back-to-top">↑</a>
     </p>
+    <p>
+      {% for item in site.navigation_social %}
+      <a href="{{item.link}}">{{item.title}}</a>
+      {% endfor %}
+    </p>
+    <p>Build: #{{ site.github.build_revision }}</p>
   </div>
 </div>
 <script src="{{ site.baseurl }}/app.js"></script>

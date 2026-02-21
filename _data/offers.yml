@@ -15,7 +15,7 @@
   link: "https://aklam.io/91zWhU?"
   title: "YouFibre - £75 when taking a broadband plan."
 - id: f-cybaa
-  link: "https://cybaa.io/?ref=thechels"
+  link: "https://cybaa.io/?ref=thechelsuk"
   title: "Cybaa - Monitor your domains for security issues and get real time alerts."
 - id: g-star
   link: "https://www.starlingbank.com/referral/?code=f2tr2i"
@@ -44,3 +44,6 @@
 - id: z-monzo
   link: "https://join.monzo.com/c/tr0bxrb7"
   title: "Monzo Bank - Join Bank and get up to £50"
+- id: z-GitHub
+  link: "https://github.com/sponsors/thechelsuk"
+  title: "Sponsor thechelsuk's open source work on GitHub"
