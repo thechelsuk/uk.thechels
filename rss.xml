@@ -30,7 +30,7 @@ permalink: /rss.xml
     <email>{{ site.owner.email }}</email>
   </author>
   <content type="html">{{ post.content | xml_escape }}
- {% assign min = 1 %}
+  {% assign min = 1 %}
   {% assign max = site.data.offers.size %}
   {% assign diff = max | minus: min %}
   {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
