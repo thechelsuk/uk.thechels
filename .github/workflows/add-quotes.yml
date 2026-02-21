@@ -17,3 +17,7 @@ jobs:
     with:
       content: ${{ github.event.issue.body }}
       label: "quotes"
+  Deploy:
+    needs: Execution
+    uses: ./.github/workflows/deploy.yml
+    secrets: inherit

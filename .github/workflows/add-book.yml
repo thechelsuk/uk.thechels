@@ -45,3 +45,8 @@ jobs:
                   git config --local user.name "GitHub Action"
                   git add -A && git commit -m "Added ${{ inputs.ISBN }}"
                   git push
+
+    Deploy:
+      needs: Build
+      uses: ./.github/workflows/deploy-pages.yml
+      secrets: inherit
