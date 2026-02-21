@@ -48,5 +48,5 @@ jobs:
 
     Deploy:
       needs: Build
-      uses: ./.github/workflows/deploy-pages.yml
+      uses: ./.github/workflows/deploy.yml
       secrets: inherit
