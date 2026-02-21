@@ -1,5 +1,6 @@
 ---
 layout: empty
+permalink: /.well-known/dnt-policy.txt
 ---
 
 # Do Not Track Compliance Policy

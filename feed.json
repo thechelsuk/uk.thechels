@@ -1,20 +1,38 @@
 ---
---- 
+permalink: /feed.json
+layout: empty
+---
 {
   "version": "https://jsonfeed.org/version/1",
   "title": "{{ site.title | escape }}",
   "home_page_url": "{{ site.url | append: site.baseurl | escape }}",
   "feed_url": "{{ site.url | append: site.baseurl | append: '/feed.json' | escape }}",
   "description": "{{ site.description | escape }}",
+  "icon": "{{ site.defaultImagePath }}",
+  "language": "en",
+  "author": {
+    "name": "{{ site.author | escape }}",
+    "url": "{{ site.url }}"
+},
   "items": [
     {% for post in site.posts %}
     {
       "id": "{{ post.url | escape }}",
       "url": "{{ site.url | append: post.url | escape }}",
       "title": "{{ post.title | escape }}",
-      "content_text": "{{ post.content | strip_html | normalize_whitespace | escape }}",
-      "date_published": "{{ post.date | date_to_rfc822 }}"
-    }{% unless forloop.last %},{% endunless %}
+      "content_html": "{{ post.content | strip_html | normalize_whitespace | escape }}   {% assign min = 1 %}
+                        {% assign max = site.data.offers.size %}
+                        {% assign diff = max | minus: min %}
+                        {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
+                        {% assign offer = site.data.offers[item] %}
+                        <hr/><p>Notes: Thanks for keeping RSS alive. If you have an RSS feed please send it my way.</p><p>Here is a special sponsor/advert link just for you; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a> [T&Cs apply].</p>]]>
+                      ",
+      "date_published": "{{ post.date | date_to_rfc822 }}",
+      "author": {
+        "name": "{% if post.cited %}Quoting {{ post.cited }}{% else %}{{ site.owner.name }}{% endif %}",
+        "uri": "{{ post.link | default: post.url }}"
+      }
+      }{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ]
 }
