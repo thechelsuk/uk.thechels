@@ -15,7 +15,6 @@ github:
 sass:
   style: compressed
 plugins:
-  - jekyll-feed
   - jekyll-avatar
   - jekyll-github-metadata
 exclude:
@@ -122,7 +121,7 @@ navigation_footer:
   - link: "/.well-known/security.txt"
     title: "Security"
   - link: "https://bsky.app/profile/thechels.uk"
-    title: "@bsky" 
+    title: "@bsky"
   - link: "https://mastodon.social/@Thechelsuk"
     title: "@Masto"
-    
+

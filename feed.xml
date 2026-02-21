@@ -1,6 +1,6 @@
 ---
 layout: empty
-permalink: /rss.xml
+permalink: /feed.xml
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
@@ -27,8 +27,14 @@ permalink: /rss.xml
   {% else %}<published>{{ post.date | date_to_xmlschema }}</published>
   <updated>{{ post.date | date_to_xmlschema }}</updated>{% endif %}
   <author>
-    <name>{{ post.cited | default: site.owner.name }}</name>
-    <uri>{{ post.link   | default: post.url }}</uri>
+    <name>
+        {% if post.cited %}
+            Quoting {{ post.cited }}
+        {% else %}
+            {{ site.owner.name }}
+        {% endif %}
+    </name>
+    <uri>{{ post.link | default: post.url }}</uri>
   </author>
   <content type="html">{{ post.content | xml_escape }}
   {% assign min = 1 %}
@@ -36,7 +42,7 @@ permalink: /rss.xml
   {% assign diff = max | minus: min %}
   {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
   {% assign offer = site.data.offers[item] %}
-  <![CDATA[<br/><p>Notes: Thanks for keeping RSS alive. If you have an RSS feed please send it my way.</p><p>Here is a special sponsor/advert link just for you.</p><p><a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a> [T&Cs apply].</p>]]>
+  <![CDATA[<hr/><p>Notes: Thanks for keeping RSS alive. If you have an RSS feed please send it my way.</p><p>Here is a special sponsor/advert link just for you.</p><p><a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a> [T&Cs apply].</p>]]>
 
   </content>
 </entry>
