@@ -1,9 +1,10 @@
 name: Clear Cache
 on:
   push:
-    paths:
-    - 'style.scss'
+    branches:
+      - main
   workflow_dispatch:
+  workflow_call:
 
 jobs:
   deploy:

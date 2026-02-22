@@ -43,12 +43,21 @@ jobs:
             echo "Copied $file -> $dest"
           done
 
-          # Copy page markdown files (about/index.md -> about.md, etc.)
-          for dir in about press speaking; do
-            if [[ -f "${dir}/index.md" ]]; then
-              cp "${dir}/index.md" "_site/${dir}.md"
-              echo "Copied ${dir}/index.md -> _site/${dir}.md"
-            fi
+          # Copy all markdown files from _pages/ to _site/
+          find _pages -name "*.md" | while read file; do
+            filename=$(basename "$file")
+            dest="_site/${filename}"
+            cp "$file" "$dest"
+            echo "Copied $file -> $dest"
+          done
+
+          # Copy root-level markdown files (excluding README.md, LICENSE.md, etc.)
+          for file in *.md; do
+            case "$file" in
+              README.md|LICENSE.md|Gemfile|_config.yml) continue ;;
+            esac
+            cp "$file" "_site/$file"
+            echo "Copied $file -> _site/$file"
           done
 
       - name: Upload artifact
@@ -66,3 +75,10 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+  cache:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clear Cloudflare Cache
+        id: cache
+        uses: ./.github/workflows/clear-cache.yml
