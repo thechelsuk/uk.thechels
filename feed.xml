@@ -28,11 +28,11 @@ permalink: /feed.xml
   <updated>{{ post.date | date_to_xmlschema }}</updated>{% endif %}
   <author>
     <name>
-        {% if post.cited %}
-            Quoting {{ post.cited }}
-        {% else %}
-            {{ site.owner.name }}
-        {% endif %}
+      {% if post.cited %}
+        Quoting {{ post.cited }}
+      {% else %}
+        {{ site.owner.name }}
+      {% endif %}
     </name>
     <uri>{{ post.link | default: post.url }}</uri>
   </author>
