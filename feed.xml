@@ -14,7 +14,7 @@ permalink: /feed.xml
 <author>
   <name>{{ site.owner.name }}</name>
   <email>{{ site.owner.email }}</email>
-  <uri>{{ site.url }}/</uri>
+  <uri>{{ site.owner.uri }}/</uri>
 </author>
 {% for post in site.posts %}
 
