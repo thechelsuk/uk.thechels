@@ -29,7 +29,7 @@ Important Notes:
     - https://feeds.thechels.uk/
     - https://tools.thechels.uk/
     - https://shop.thechels.uk/
-    - http://secops.thechels.uk/
+    - https://secops.thechels.uk/
     - https://hiyd.uk
 
 ## Recommended pages to read first
@@ -72,7 +72,7 @@ thechelsuk is available in British English.
     - https://thechels.uk/sitemap.xml
     - https://thechels.uk/llms.txt
 
-## policy
+## Policy
 
     - https://thechels.uk/robots.txt
     - https://thechels.uk/humans.txt
