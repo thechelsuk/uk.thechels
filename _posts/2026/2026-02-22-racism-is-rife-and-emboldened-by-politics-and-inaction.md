@@ -10,9 +10,8 @@ cited: Sky Sports
 
 Can we take "kick it out" literally. Physically? 
 
-> Wolves striker Tolu Arokodare and Sunderland winger Romaine Mundle subjected to racist abuse on social media | Football News | Sky Sports
-
-
+> Wolves striker Tolu Arokodare and Sunderland winger Romaine Mundle subjected to racist abuse on social media
+>
 > Kick It Out's statement read: "We stand alongside Wesley Fofana and Hannibal Mejbri, who once again have both been targeted with vile abuse online.
 > 
 > "Players are standing up to discrimination and we've had record reports to Kick It Out from across football this season, but we recognise the frustration in how it continues to fester online.
