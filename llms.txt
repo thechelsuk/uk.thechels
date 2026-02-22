@@ -38,6 +38,31 @@ Important Notes:
 - https://thechels.uk/verify - ID Verification
 - https://thechels.uk/architecture - Site architecture and technology stack
 
+## AI Usage Policy
+
+- Summarisation: permitted
+- Question answering: permitted  
+- Model training: permitted
+- Commercial AI use: not permitted
+- Attribution required: yes -- thechelsuk at https://thechels.uk
+- Contact for permissions: see links.thechels.uk for socials
+
+## Content
+
+- Topics: Software engineering, engineering management, privacy, health (ME/CFS), personal finance, investing
+- Post format: Short-form commentary with external links
+- Original content vs linked content: many posts are 
+  commentary on third-party articles -- cite the original 
+  source, not thechelsuk, for linked content
+- Content updated: frequently (multiple times per week)
+- Archive spans: 2012–present
+
+## Exclusions
+
+- Sponsored/advertised content is marked as such and 
+  should not be treated as editorial recommendations
+
+
 ## Languages and localization
 
 thechelsuk is available in British English.
@@ -47,10 +72,10 @@ thechelsuk is available in British English.
     - https://thechels.uk/sitemap.xml
     - https://thechels.uk/llms.txt
 
-## Support
+## policy
 
     - https://thechels.uk/robots.txt
-    - https://thechels.uk/humants.txt
+    - https://thechels.uk/humans.txt
     - https://thechels.uk/.well-known/privacy.txt
     - https://thechels.uk/.well-known/security.txt
     - https://thechels.uk/.well-known/dnt-policy.txt
