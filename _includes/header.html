@@ -14,12 +14,12 @@
     <meta property="og:title"
       content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="og:image" content="{{ site.url }}{{ site.defaultImagePath }}">
+    <meta property="og:image" content="{{ site.url }}{{ site.owner.avatar }}">
     <meta property="og:site_name" content="{{ site.title }} {{ site.description }}">
     <meta property="og:description"
       content="{{ page.seo | default: post.seo | default: page.title | default: post.title }} | {{ site.title }}">
     <meta property="article:publisher" content="{{ site.url }}">
-    <meta property="article:author" content="{{ site.author }} at {{site.url }}">
+    <meta property="article:author" content="{{ site.owner.name }} at {{site.owner.uri }}">
     <meta property="article:published_time" content="{{ page.date }}">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">

@@ -9,6 +9,12 @@
     <title>Daily Rundown</title>
     <link>{{ site.url }}/daily</link>
     <description>{{ site.description }}</description>
+    <id>{{ site.url }}/daily</id>
+    <author>
+      <name>{{ site.owner.name }}</name>
+      <email>{{ site.owner.email }}</email>
+      <uri>{{ site.owner.uri }}/</uri>
+    </author>
     <item>
       <title>Daily Rundown for {{ pub_date }}</title>
       <link>{{ site.url }}/daily</link>

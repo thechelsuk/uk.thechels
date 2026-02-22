@@ -1,14 +1,16 @@
 highlighter: rouge
 permalink: ./:title
 title: "Weak Notes"
-description: "// A working out loud, public second brain"
-author: "thechelsuk"
+description: "// A working in public, second brain"
+owner: 
+    name: thechelsuk
+    email: "feedback@thechels.uk"
+    uri: https://thechels.uk
+    avatar: "/images/splashscreens/apple-touch-icon-180x180.png"
 url: https://thechels.uk
 copyright: "MB"
 encoding: UTF-8
-future: false
-repository: thechelsuk/uk.thechels
-defaultImagePath: "/images/splashscreens/apple-touch-icon-180x180.png"
+future: false 
 github:
   repository_url: https://github.com/thechelsuk/uk.thechels
   branch: main

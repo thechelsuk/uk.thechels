@@ -6,12 +6,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
+    <id>{{ site.url }}/films</id>
     <title>{{ site.title }} - Recent Films</title>
     <link>{{ site.url }}/films</link>
     <description>Recently added films to {{ site.title }}</description>
     <language>en-us</language>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll</generator>
+    <author>
+      <name>{{ site.owner.name }}</name>
+      <email>{{ site.owner.email }}</email>
+      <uri>{{ site.owner.uri }}/</uri>
+    </author>
 
     {% for film in recent_films %}
     <item>

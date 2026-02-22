@@ -8,11 +8,12 @@ layout: empty
   "home_page_url": "{{ site.url | append: site.baseurl | escape }}",
   "feed_url": "{{ site.url | append: site.baseurl | append: '/feed.json' | escape }}",
   "description": "{{ site.description | escape }}",
-  "icon": "{{ site.defaultImagePath }}",
+  "icon": "{{ site.owner.avatar }}",
   "language": "en",
   "author": {
-    "name": "{{ site.author | escape }}",
-    "url": "{{ site.url }}"
+    "name": "{{ site.owner.name | escape }}",
+    "url": "{{ site.owner.uri }}",
+    "email": "{{ site.owner.email }}"
 },
   "items": [
     {% for post in site.posts %}
