@@ -42,7 +42,7 @@ permalink: /feed.xml
   {% assign diff = max | minus: min %}
   {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
   {% assign offer = site.data.offers[item] %}
-  <![CDATA[<hr/><p>Notes: Thanks for keeping RSS alive. If you have an RSS feed please send it my way.</p><p>Here is a special sponsor/advert link just for you; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a> [T&Cs apply].</p>]]>
+  <![CDATA[<p> // Published {{ post.date | date: "%-d %B %Y" }}, with {{ post.content | number_of_words }} words.</p><hr/><p>Notes: Thanks for keeping RSS alive. If you have an RSS feed please send it my way.</p><p>Here is a special sponsor/advert link just for you; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a> [T&Cs apply].</p>]]>
 
   </content>
 </entry>
