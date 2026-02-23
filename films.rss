@@ -22,11 +22,11 @@
     {% for film in recent_films %}
     <item>
       <title>{{ film.Title }} ({{ film.Year }}) - Rated {{ film.Rating }}/10</title>
-      <link>{{ site.url }}/films/#{{ film.Imdb }}</link>
+      <link>{{ site.url }}/films#{{ film.Imdb }}</link>
       <description>
         <![CDATA[
         <h3>{{ film.Title }} ({{ film.Year }})</h3>
-        <p><strong>Personal Rating:</strong> {{ film.Rating }}/10</p>
+        <p><strong>Rated:</strong> {{ film.Rating }}/10</p>
         <p><strong>Added:</strong> {{ film.DateAdded | date: "%B %d, %Y at %I:%M %p" }}</p>
         <p><a href="https://www.imdb.com/title/{{ film.Imdb }}/" target="_blank">View on IMDb →</a></p>
         ]]>

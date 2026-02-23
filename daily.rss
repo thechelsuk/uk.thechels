@@ -9,6 +9,7 @@
     <title>Daily Rundown</title>
     <link>{{ site.url }}/daily</link>
     <description>{{ site.description }}</description>
+    <generator>Jekyll</generator>
     <id>{{ site.url }}/daily</id>
     <author>
       <name>{{ site.owner.name }}</name>
@@ -17,7 +18,7 @@
     </author>
     <item>
       <title>Daily Rundown for {{ pub_date }}</title>
-      <link>{{ site.url }}/daily</link>
+      <link>{{ site.url }}/daily#{{ pub_date }}</link>
       <description>
       <![CDATA[ {{ contents_of_page.content }} ]]>
       </description>
