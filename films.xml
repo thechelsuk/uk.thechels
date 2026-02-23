@@ -30,7 +30,7 @@ permalink: /films.xml
     <summary type="html"><![CDATA[
       <h3>{{ film.Title }} ({{ film.Year }})</h3>
       <p><strong>Rated:</strong> {{ film.Rating }}/10</p>
-      <p><strong>Added:</strong> {{ film.DateAdded | date: "%B %d, %Y at %I:%M %p" }}</p>
+      <p><strong>Added:</strong> {{ film.DateAdded | date: "%Y-%m-%d"  }}</p>
       <p><a href="https://www.imdb.com/title/{{ film.Imdb }}/" target="_blank">View on IMDb →</a></p>
     ]]></summary>
     <author>
