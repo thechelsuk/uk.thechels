@@ -3,7 +3,6 @@ layout: empty
 permalink: /feed.xml
 ---
 {% assign pub_date = site.time | date: "%a, %d %b %Y %H:%M:%S %z" %}
-
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="html">{{ site.title }}</title>
@@ -27,10 +26,7 @@ permalink: /feed.xml
   <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
  <link rel="alternate" type="text/html" href="{% if post.link %}{{ post.link }}{% else %}{{ site.url }}{{ post.url }}{% endif %}" />
   <id>{{ site.url }}{{ post.id }}</id>
-  {% if post.modified %}<updated>{{ post.modified | to_xmlschema }}T00:00:00-00:00</updated>
   <published>{{ post.date | date_to_xmlschema }}</published>
-  {% else %}<published>{{ post.date | date_to_xmlschema }}</published>
-  <updated>{{ post.date | date_to_xmlschema }}</updated>{% endif %}
   <author>
     <name>{% if post.cited %}Quoting {{ post.cited }}{% else %}{{ site.owner.name }}{% endif %}</name>
     <uri>{{ post.link | default: site.url | append: post.url }}</uri>
