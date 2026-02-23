@@ -3,6 +3,8 @@ layout: empty
 permalink: /feed.xml
 ---
 {% assign pub_date = site.time | date: "%a, %d %b %Y %H:%M:%S %z" %}
+{% assign print_date = site.time | date: "%Y-%m-%d" %}
+{% assign build_time = site.time | date: "%Y%m%d%H%M%S" %}
 
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">

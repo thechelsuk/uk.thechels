@@ -1,0 +1,43 @@
+---
+layout: empty
+permalink: /daily.xml
+---
+{% assign contents_of_page = site.pages | where: "name", "daily.md" | first %}
+{% assign pub_date = site.time | date: "%a, %d %b %Y %H:%M:%S %z" %}
+{% assign print_date = site.time | date: "%Y-%m-%d" %}
+{% assign build_time = site.time | date: "%Y%m%d%H%M%S" %}
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Daily Rundown</title>
+    <link rel="self" type="application/atom+xml" href="{{ site.url }}/daily.xml" />
+    <link rel="alternate" type="text/html" href="{{ site.url }}/daily" />
+    <description>{{ site.description }}</description>
+    <generator>Jekyll</generator>
+    <language>en-gb</language>
+    <copyright>{{ site.owner.name }}</copyright>
+    <lastBuildDate>{{ pub_date }}</lastBuildDate>
+    <ttl>60</ttl>
+    <author>
+      <name>{{ site.owner.name }}</name>
+      <email>{{ site.owner.email }}</email>
+      <uri>{{ site.owner.uri }}/</uri>
+    </author>
+    <id>{{ site.url }}/daily</id>
+
+    <item>
+      <title>Daily Rundown for {{ print_date }}</title>
+      <link>{{ site.url }}/daily#{{ print_date }}</link>
+      <description>
+      <![CDATA[ {{ contents_of_page.content }} ]]>
+      </description>
+       <author>
+        <name>{{ site.owner.name }}</name>
+      </author>
+      <pubDate>{{ pub_date }}</pubDate>
+      <guid isPermaLink="false">{{ site.url }}/daily#{{ print_date }}</guid>
+    </item>
+
+  </channel>
+</rss>
