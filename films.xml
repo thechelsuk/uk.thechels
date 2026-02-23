@@ -5,48 +5,41 @@ permalink: /films.xml
 <?xml version="1.0" encoding="UTF-8" ?>
 {% assign films_with_dates = site.data.films | where_exp: "film", "film.DateAdded != nil" | sort: "DateAdded" | reverse %}
 {% assign recent_films = films_with_dates | slice: 0, 25 %}
-{% assign pub_date = site.time | date: "%a, %d %b %Y %H:%M:%S %z" %}
+{% assign pub_date = site.time | date: "%Y-%m-%dT%H:%M:%SZ" %}
 {% assign print_date = site.time | date: "%Y-%m-%d" %}
 {% assign build_time = site.time | date: "%Y%m%d%H%M%S" %}
-<rss version="2.0">
-  <channel>
-    <title>{{ site.owner.name }} - Recent Films</title>
-    <link rel="self" type="application/atom+xml" href="{{ site.url }}/films.xml" />
-    <link rel="alternate" type="text/html" href="{{ site.url }}/films" />
-    <description>Recently added films to {{ site.title }}</description>
-    <generator>Jekyll</generator>
-    <language>en-gb</language>
-    <copyright>{{ site.owner.name }}</copyright>
-    <lastBuildDate>{{ pub_date }}</lastBuildDate>
-    <ttl>60</ttl>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>{{ site.owner.name }} - Recent Films</title>
+  <subtitle>Recently added films to {{ site.title }}</subtitle>
+  <link rel="self" type="application/atom+xml" href="{{ site.url }}/films.xml" />
+  <link rel="alternate" type="text/html" href="{{ site.url }}/films" />
+  <generator>Jekyll</generator>
+  <rights>{{ site.owner.name }}</rights>
+  <updated>{{ pub_date }}</updated>
+  <author>
+    <name>{{ site.owner.name }}</name>
+    <email>{{ site.owner.email }}</email>
+    <uri>{{ site.owner.uri }}/</uri>
+  </author>
+  <id>{{ site.url }}/films</id>
+
+  {% for film in recent_films %}
+  <entry>
+    <title>{{ film.Title }} ({{ film.Year }}) - Rated {{ film.Rating }}/10</title>
+    <link rel="alternate" href="{{ site.url }}/films#{{ film.Imdb }}" />
+    <summary type="html"><![CDATA[
+      <h3>{{ film.Title }} ({{ film.Year }})</h3>
+      <p><strong>Rated:</strong> {{ film.Rating }}/10</p>
+      <p><strong>Added:</strong> {{ film.DateAdded | date: "%B %d, %Y at %I:%M %p" }}</p>
+      <p><a href="https://www.imdb.com/title/{{ film.Imdb }}/" target="_blank">View on IMDb →</a></p>
+    ]]></summary>
     <author>
       <name>{{ site.owner.name }}</name>
-      <email>{{ site.owner.email }}</email>
-      <uri>{{ site.owner.uri }}/</uri>
     </author>
-    <id>{{ site.url }}/films</id>
-
-    {% for film in recent_films %}
-    <item>
-      <title>{{ film.Title }} ({{ film.Year }}) - Rated {{ film.Rating }}/10</title>
-      <link>{{ site.url }}/films#{{ film.Imdb }}</link>
-      <description>
-        <![CDATA[
-        <h3>{{ film.Title }} ({{ film.Year }})</h3>
-        <p><strong>Rated:</strong> {{ film.Rating }}/10</p>
-        <p><strong>Added:</strong> {{ film.DateAdded | date: "%B %d, %Y at %I:%M %p" }}</p>
-        <p><a href="https://www.imdb.com/title/{{ film.Imdb }}/" target="_blank">View on IMDb →</a></p>
-        ]]>
-      </description>
-      <author>
-        <name>{{ site.owner.name }}</name>
-      </author>
-      <pubDate>{{ film.DateAdded | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-      <guid isPermaLink="false">{{ site.url }}/films#{{ film.Imdb }}-{{ build_time }}</guid>
-      <category>Film</category>
-      <category>Rating: {{ film.Rating }}</category>
-    </item>
-    {% endfor %}
-
-  </channel>
-</rss>
+    <updated>{{ film.DateAdded | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>
+    <id>{{ site.url }}/films#{{ film.Imdb }}-{{ build_time }}</id>
+    <category term="Film" />
+    <category term="Rating: {{ film.Rating }}" />
+  </entry>
+  {% endfor %}
+</feed>
