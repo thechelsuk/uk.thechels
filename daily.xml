@@ -9,7 +9,7 @@ permalink: /daily.xml
 {% assign build_time = site.time | date: "%Y%m%d%H%M%S" %}
 <rss version="2.0">
   <channel>
-    <title>Daily Rundown</title>
+    <title>{{ site.owner.name }} - Daily Rundown</title>
     <link rel="self" type="application/atom+xml" href="{{ site.url }}/daily.xml" />
     <link rel="alternate" type="text/html" href="{{ site.url }}/daily" />
     <description>{{ site.description }}</description>
