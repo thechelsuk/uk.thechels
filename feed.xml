@@ -35,7 +35,7 @@ permalink: /feed.xml
         <updated>{% if post.modified %}{{ updated_date }}{% else %}{{ build_date }}{% endif %}</updated>
         <author>
           <name>{% if post.cited %}Quoting {{ post.cited }}{% else %}{{ site.owner.name }}{% endif %}</name>
-          <uri>{{ post.link | default: site.url | append: post.url }}</uri>
+          <uri>{% if post.link %}{{ post.link }}{% else %}{{ site.url }}{{ post.url }}{% endif %}</uri>
         </author>
         <content type="html"><![CDATA[
           {{ post.content }}
