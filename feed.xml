@@ -29,7 +29,7 @@ permalink: /feed.xml
      {% assign offer = site.data.offers[item] %}
       <entry>
         <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
-        <link rel="alternate" type="text/html" href="{% if post.link %}{{ post.link }}{% else %}{{ site.url }}{{ post.url }}{% endif %}" />
+        <link rel="alternate" type="text/html" href="{{ site.url }}{{ post.url }}" />
         <id>{{ site.url }}{{ post.id }}</id>
         <published>{{ build_date }}</published>
         <updated>{% if post.modified %}{{ updated_date }}{% else %}{{ build_date }}{% endif %}</updated>
