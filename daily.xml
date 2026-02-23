@@ -28,6 +28,7 @@ permalink: /daily.xml
     <summary type="html"><![CDATA[ {{ contents_of_page.content }} ]]></summary>
     <author>
       <name>{{ site.owner.name }}</name>
+      <uri>{{ site.url }}/daily#{{ print_date }}</uri>
     </author>
     <updated>{{ pub_date }}</updated>
     <id>{{ site.url }}/daily#{{ print_date }}</id>

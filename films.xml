@@ -35,6 +35,7 @@ permalink: /films.xml
     ]]></summary>
     <author>
       <name>{{ site.owner.name }}</name>
+      <uri>{{ site.url }}/films#{{ film.Imdb }}</uri>
     </author>
     <updated>{{ film.DateAdded | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>
     <id>{{ site.url }}/films#{{ film.Imdb }}-{{ build_time }}</id>
