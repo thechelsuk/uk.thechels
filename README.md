@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 -->
 # Site
 
 A blog hosted on GitHub is available at TheChels.uk. The site uses Jekyll, a static site generator, on Ruby. DNS and SSL by Cloudflare. It also uses GitHub actions, GitHub issues, and Python for extensive automation.
