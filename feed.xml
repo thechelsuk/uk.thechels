@@ -30,6 +30,7 @@ permalink: /feed.xml
     <name>{% if post.cited %}Quoting {{ post.cited }}{% else %}{{ site.owner.name }}{% endif %}</name>
     <uri>{{ post.link | default: site.url | append: post.url }}</uri>
   </author>
+  <link>{{ post.link | default: site.url | append: post.url }}</link>
   <content type="html">{{ post.content | xml_escape }}
   {% assign min = 1 %}
   {% assign max = site.data.offers.size %}
