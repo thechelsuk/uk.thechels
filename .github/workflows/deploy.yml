@@ -75,10 +75,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-  cache:
-    needs: deploy
-    runs-on: ubuntu-latest
-    steps:
-      - name: Clear Cloudflare Cache
-        id: cache
-        uses: ./.github/workflows/clear-cache.yml
