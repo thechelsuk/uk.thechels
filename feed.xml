@@ -2,8 +2,8 @@
 layout: empty
 permalink: /feed.xml
 ---
-{% assign pub_date = site.time | date: "%a, %d %b %Y %H:%M:%S %z" %}
 <?xml version="1.0" encoding="utf-8"?>
+{% assign pub_date = site.time | date: "%a, %d %b %Y %H:%M:%S %z" %}
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="html">{{ site.title }}</title>
 <subtitle type="html">{{ site.description }}</subtitle>
