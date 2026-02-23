@@ -7,21 +7,21 @@ seo: Good Morning, Here is your daily briefing
 ---
 
 <!-- weather_marker starts -->
-## On Sunday, 22 February 2026
+## On Monday, 23 February 2026
 
-- The average temperature today is 11.95˚C,
-- With highs of 12.77˚C and lows of 11.49˚C,
-- It may feel like 11.47˚C with scattered clouds
-- The wind speed is 5.81m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 87%
-- The sun will rise at 07:09 and set at 17:34
+- The average temperature today is 9.22˚C,
+- With highs of 9.99˚C and lows of 8.49˚C,
+- It may feel like 8.09˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 80%
+- The sun will rise at 07:07 and set at 17:36
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 719 days since the last change (2024-03-05)
+- It has been 720 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -38,13 +38,12 @@ seo: Good Morning, Here is your daily briefing
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Sheffield United v Sheffield Wednesday
-- Chelsea Women v Manchester United Women
-- Crystal Palace v Wolves
-- Nottingham Forest v Liverpool
-- Sunderland v Fulham
-- Tottenham Hotspur v Arsenal
-- Liverpool Women v Everton Women
+- Reading U21 v Arsenal U21
+- West Ham United U21 v Crystal Palace U21
+- London City Lionesses v Tottenham Hotspur Women
+- Chelmsford City v Hemel Hempstead
+- Walsall v MK Dons
+- Everton v Manchester United
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -58,6 +57,8 @@ seo: Good Morning, Here is your daily briefing
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea FCW 2-1 (a.e.t.) Manchester United WFC, Women’s FA Cup: Post-match reaction
+- Chelsea FCW vs. Manchester United WFC, Women’s FA Cup: Confirmed lineups; how to watch
 - Chelsea FCW vs. Manchester United WFC, Women’s FA Cup: Preview, team news, how to watch
 - The Daily Hilario: Sunday
 - Chelsea 1-1 Burnley, Premier League: Post-match reaction, ratings
@@ -66,8 +67,6 @@ seo: Good Morning, Here is your daily briefing
 - The Daily Hilario: Saturday
 - Chelsea vs. Burnley, Premier League: Preview, team news, how to watch
 - Official: Chelsea agree short-term front-of-shirt sponsorship with Industrial AI provider IFS
-- Roméo Lavia set for rehab start with Chelsea U21 (*UPDATED*)
-- The Daily Hilario: Friday
 
 <!-- news_marker ends -->
 
@@ -75,14 +74,14 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- ftnews_marker starts -->
 
-- Trump raises global tariffs to 15% in wake of Supreme Court loss
-- What does Trump’s latest tariff threat mean for his previous trade pacts?
-- France says EU has the tools to hit back at Trump over tariffs
-- Labour battles disaffection in crucial three-way by-election battle
-- It is time for Europe to weaponise its chokepoints
-- This meeting is being recorded. Did you know?
-- Centerview settles lawsuit over analyst’s need for 8 hours’ sleep
-- Trump demands Netflix remove former Obama official from board
+- Iran agreed secret shoulder-fired missile deal with Russia
+- Satellite images reveal surge in US fighter jets in Middle East
+- Inside Ukraine’s ‘kill zone’
+- Gold enters the storybook stage
+- Is the sale of Schroders really so bad for the City?
+- Mexico hit by wave of violence after security forces kill cartel leader
+- Schroders chief vows to keep wealth manager Cazenove after £9.9bn takeover
+- Rolls-Royce urges UK to commit to subsidies for £3bn engine project
 
 <!-- ftnews_marker ends -->
 
@@ -90,40 +89,40 @@ seo: Good Morning, Here is your daily briefing
 
 <!-- word_marker starts -->
 
- > autogamous - adjective: Self-fertilizing.
+ > mucid - adjective: 1. Moldy, musty, or slimy. 2. Rotten; really bad.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> After you plant a seed in the ground, you do not dig it up every week to see how it is doing. - William Coyne
+> The value of an idea lies in the using of it. - Thomas Edison
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> The inconsistency principle
+> Think of the radio
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Chronicle (Rated: 6)
-- Released in 2012
-- Summary: Three high school friends gain superpowers after making an incredible discovery underground. Soon they find their lives spinning out of control and their bond tested as they embrace their darker sides.
+- The Wolf of Wall Street (Rated: 7)
+- Released in 2013
+- Summary: Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 645, using [1, 2, 3, 10, 50, 75]
-- Answer: 14 solutions.
+- Target: 291, using [1, 4, 6, 9, 10, 25]
+- Answer: 19 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 50 + 3 + 1 ) x 10 / 2
+  Solution: ( 6 / ( 4 - 1 ) + 10 ) x 25 - 9
 
    </details>
 
