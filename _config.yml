@@ -68,6 +68,8 @@ navigation_data:
     title: "Constraints"
 ## SubMenu
 navigation_slashes:
+  - link: "/ai"
+    title: "AI"
   - link: "/apps"
     title: "Apps"
   - link: "/about"
@@ -80,8 +82,10 @@ navigation_slashes:
     title: "Colophon"
   - link: "/cv"
     title: "CV"
-  - link: "/feed.xml"
-    title: "Feed"
+  - link: "/disability"
+    title: "Disability" 
+  - link: "/feeds"
+    title: "Feeds"
   - link: "/green"
     title: "Green"
   - link: "/manual"
