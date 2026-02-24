@@ -4,9 +4,8 @@ permalink: /daily.xml
 ---
 <?xml version="1.0" encoding="UTF-8" ?>
 {% assign contents_of_page = site.pages | where: "name", "daily.md" | first %}
-{% assign pub_date = site.time | date: "%Y-%m-%dT%H:%M:%SZ" %}
-{% assign print_date = site.time | date: "%Y-%m-%d" %}
-{% assign build_time = site.time | date: "%Y%m%d%H%M%S" %}
+{% assign pub_date = contents_of_page.date | date: "%Y-%m-%dT%H:%M:%SZ" %}
+{% assign print_date = contents_of_page.date | date: "%Y-%m-%d" %}
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>{{ site.owner.name }} - Daily Rundown</title>
   <subtitle>{{ site.description }}</subtitle>

@@ -5,9 +5,9 @@ permalink: /films.xml
 <?xml version="1.0" encoding="UTF-8" ?>
 {% assign films_with_dates = site.data.films | where_exp: "film", "film.DateAdded != nil" | sort: "DateAdded" | reverse %}
 {% assign recent_films = films_with_dates | slice: 0, 25 %}
-{% assign pub_date = site.time | date: "%Y-%m-%dT%H:%M:%SZ" %}
-{% assign print_date = site.time | date: "%Y-%m-%d" %}
-{% assign build_time = site.time | date: "%Y%m%d%H%M%S" %}
+{% assign pub_date = recent_films[0].DateAdded | date: "%Y-%m-%dT%H:%M:%SZ" %}
+{% assign print_date = recent_films[0].DateAdded | date: "%Y-%m-%d" %}
+{% assign build_time = recent_films[0].DateAdded | date: "%Y%m%d%H%M%S" %}
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>{{ site.owner.name }} - Recent Films</title>
   <subtitle>Recently added films to {{ site.title }}</subtitle>

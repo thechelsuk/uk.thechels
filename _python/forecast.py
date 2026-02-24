@@ -5,6 +5,7 @@ import pathlib
 import datetime
 import helper
 import requests
+import re
 
 # processing
 if __name__ == "__main__":
@@ -23,6 +24,7 @@ if __name__ == "__main__":
             string_today = "- Weather data not available"
         else:
             output_date = datetime.date.today().strftime("%A, %d %B %Y")
+            frontmatter_date = datetime.date.today().strftime("%Y-%m-%d")
 
             day_temp = str(response_dict["main"]["temp"])
             feels_like = str(response_dict["main"]["feels_like"])
@@ -50,6 +52,12 @@ if __name__ == "__main__":
         f = root / "_pages/daily.md"
         m = f.open().read()
         c = helper.replace_chunk(m, "weather_marker", string_today)
+        # Replace or add date in front matter
+        if re.search(r'^date: .*$', m, re.MULTILINE):
+            m = re.sub(r'^date: .*$',
+                    f'date: {frontmatter_date}', m, flags=re.MULTILINE)
+        else:
+            m = re.sub(r'^(---\s*\n)', r'\1date: ' + frontmatter_date + '\n', m)
         f.open("w").write(c)
         print("Weather completed")
 
