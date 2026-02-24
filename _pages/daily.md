@@ -5,6 +5,7 @@ permalink: /daily
 seo: Good Morning, Here is your daily briefing
 date: 2026-02-23
 ---
+<!-- markdownlint-disable MD033 -->
 
 <!-- weather_marker starts -->
 ## On Monday, 23 February 2026
