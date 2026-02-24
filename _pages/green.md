@@ -34,12 +34,13 @@ According to an online calculator, my personal emissions equate to 4.6kg and my 
 
 ## Energy
 
-- 10 Solar Panels and a 5kw battery helps reduce reliance on the grid. Home is 60% independent from the grid based on metrics so far this year.
+- 10 Solar Panels and a 5kw battery helps reduce reliance on the grid. Home is 60% independent from the grid based on metrics over a rolling 12-month period.
 - Energy provider uses green energy.
-- 100% of home uses smart energy efficient lighting
+- 100% of the home uses smart energy efficient lighting.
 - Own an EV (as a gift to my spouse) but have never been able to nor learned to drive so all commuting has been via foot or public transport.
 
 ## Travel
 
-- Working mostly from home, but occasional trips to London for work are by train. The Trainline App reports that this journey typically saves 27kg of CO₂.
+- Previously working was mostly from home, but occasional trips to London for work are by train. The Trainline App reports that this journey typically saves 27kg of CO₂.
 - For all train travel since June 2021, I have saved 448kg of CO₂. Using 197kg compared 645kg had the journey been by car.
+- Due to my [disability](/disability) I am currently homebound and not working, so travel has reduced to zero. 
