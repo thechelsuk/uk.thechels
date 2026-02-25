@@ -8,68 +8,49 @@ date: 2026-02-23
 <!-- markdownlint-disable MD033 -->
 
 <!-- weather_marker starts -->
-## On Tuesday, 24 February 2026
+## On Wednesday, 25 February 2026
 
-- The average temperature today is 11.65˚C,
-- With highs of 12.21˚C and lows of 10.94˚C,
-- It may feel like 11.14˚C with overcast clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 87%
-- The sun will rise at 07:05 and set at 17:38
+- The average temperature today is 9.32˚C,
+- With highs of 10.47˚C and lows of 9.26˚C,
+- It may feel like 9.32˚C with scattered clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 92%
+- The sun will rise at 07:03 and set at 17:39
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 721 days since the last change (2024-03-05)
+- It has been 722 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be a learning individual.
+> Focus on user needs.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Luton Town v Plymouth Argyle
-- Blackburn Rovers v Bristol City
-- Hull City v Derby County
-- Middlesbrough v Leicester City
-- Swansea City v Preston North End
-- Watford v Ipswich Town
-- West Brom v Charlton Athletic
-- Wrexham v Portsmouth
-- Bradford City v Rotherham United
-- Northampton Town v Port Vale
-- Salford City v Shrewsbury Town
-- FC Halifax Town v Rochdale
-- Forest Green Rovers v Boston United
-- Scunthorpe United v York City
-- Southend United v Boreham Wood
-- Tamworth v Altrincham
-- Wealdstone v Brackley Town
-- Alfreton Town v Scarborough Athletic
-- Curzon Ashton v Darlington
-- Kidderminster Harriers v Marine
-- Macclesfield FC v AFC Fylde
-- Radcliffe Borough v Southport
-- South Shields v Worksop Town
-- Bath City v Weston Super Mare
-- Eastbourne Borough v Dorking Wanderers
-- Horsham v Ebbsfleet United
-- Worthing v Torquay United
-- Southampton v QPR
-- Newcastle United v FK Qarabag
+- Real Madrid U19 v Chelsea U19
+- Millwall v Birmingham City
+- Norwich City v Sheffield Wednesday
+- Sheffield United v Coventry City
+- Braintree Town v Aldershot Town
+- Eastleigh v Truro City
+- Gateshead v Morecambe
+- Hartlepool United v Carlisle United
+- Woking v Solihull Moors
+- Yeovil Town v Sutton United
+- Farnborough v Chippenham Town
+- Stoke City v Oxford United
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -83,6 +64,8 @@ date: 2026-02-23
 ### Team News
 <!-- news_marker starts -->
 
+- The Daily Hilario: Sucker for a montage
+- Chelsea to face Tottenham Hotspur in Women’s FA Cup quarterfinal
 - Chelsea 1-1 Burnley, Player Ratings: At least João Pedro scores again
 - The Daily Hilario: Monday
 - Chelsea FCW 2-1 (a.e.t.) Manchester United WFC, Women’s FA Cup: Post-match reaction
@@ -91,8 +74,6 @@ date: 2026-02-23
 - The Daily Hilario: Sunday
 - Chelsea 1-1 Burnley, Premier League: Post-match reaction, ratings
 - Chelsea vs. Burnley, Premier League: Confirmed lineups; how to watch
-- Chelsea fans’ preferred lineup against Burnley: Estêvão ahead of Neto
-- The Daily Hilario: Saturday
 
 <!-- news_marker ends -->
 
@@ -100,14 +81,14 @@ date: 2026-02-23
 
 <!-- ftnews_marker starts -->
 
-- Trump’s global tariff takes effect at 10%
-- UK warns tariff retaliation is an option if US reneges on trade deal
-- ‘Crisis of his own making’: Trump weighs another war with Iran
-- What has Reform learnt from its first taste of power?
-- Europe’s ‘tech sovereignty’ ambitions carry security risks, military warns
-- Zelenskyy urges Trump to see through Russia’s ‘games’
-- Mandelson arrested on suspicion of misconduct in public office
-- PwC clashes with boutique consultancy founded by former executive
+- Trump condemns Iran’s ‘sinister’ nuclear ambitions in State of the Union speech
+- How Deutsche Bank rolled out the red carpet for Jeffrey Epstein
+- To raise low birth rates, we must help mothers
+- The death of the Trump trade
+- Jim Ratcliffe’s Ineos explores asset sales as chemical sector struggles
+- HSBC says capital ratios need to improve before it resumes buybacks
+- NHS in England to be set targets on getting people back to work
+- Microsoft hunts for new London HQ on Elizabeth Line
 
 <!-- ftnews_marker ends -->
 
@@ -115,40 +96,40 @@ date: 2026-02-23
 
 <!-- word_marker starts -->
 
- > lucid - adjective: 1. Clear; easily understood. 2. Clearheaded, especially between periods of confusion. 3. Bright or shining.
+ > sallow - adjective: Of a sickly yellowish or pale color.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> UO quite simply stands for 'User Outcomes', and when I use it, it very simply means does the user get the right answer - Martin Lewis
+> Plans are worthless, but planning is everything. - Dwight Eisenhower
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Consider different fading systems
+> What would your closest friend do?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Cho Kowai Hanashi (Rated: 5)
-- Released in 2005
-- Summary: Employees at a convenience store must get to the bottom of supernatural goings-on occurring within their workplace.
+- Happy Feet (Rated: 5)
+- Released in 2006
+- Summary: Into the world of the Emperor Penguins, who find their soul mates through song, a penguin is born who cannot sing. But he can tap dance something fierce!
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 994, using [1, 3, 7, 7, 7, 75]
-- Answer: 3 solutions.
+- Target: 219, using [3, 6, 10, 25, 50, 75]
+- Answer: 28 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 3 - 7 ) x ( 7 + 7 )
+  Solution: ( 50 / 25 + 75 + 6 - 10 ) x 3
 
    </details>
 
