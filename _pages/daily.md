@@ -8,6 +8,9 @@ date: 2026-02-26
 ---
 <!-- markdownlint-disable MD033 -->
 
+_Good Morning, Here is your daily briefing_  
+
+
 <!-- weather_marker starts -->
 ## On Thursday, 26 February 2026
 
