@@ -8,21 +8,21 @@ date: 2026-02-23
 <!-- markdownlint-disable MD033 -->
 
 <!-- weather_marker starts -->
-## On Wednesday, 25 February 2026
+## On Thursday, 26 February 2026
 
-- The average temperature today is 9.32˚C,
-- With highs of 10.47˚C and lows of 9.26˚C,
-- It may feel like 9.32˚C with scattered clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 92%
-- The sun will rise at 07:03 and set at 17:39
+- The average temperature today is 11.37˚C,
+- With highs of 11.65˚C and lows of 10.16˚C,
+- It may feel like 10.81˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 86%
+- The sun will rise at 07:01 and set at 17:41
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 722 days since the last change (2024-03-05)
+- It has been 723 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -33,24 +33,14 @@ date: 2026-02-23
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Focus on user needs.
+> Set exceptional standards.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Real Madrid U19 v Chelsea U19
-- Millwall v Birmingham City
-- Norwich City v Sheffield Wednesday
-- Sheffield United v Coventry City
-- Braintree Town v Aldershot Town
-- Eastleigh v Truro City
-- Gateshead v Morecambe
-- Hartlepool United v Carlisle United
-- Woking v Solihull Moors
-- Yeovil Town v Sutton United
-- Farnborough v Chippenham Town
-- Stoke City v Oxford United
+- Crystal Palace v Zrinjski Mostar
+- Nottingham Forest v Fenerbahce
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -64,6 +54,8 @@ date: 2026-02-23
 ### Team News
 <!-- news_marker starts -->
 
+- The Daily Hilario: Wednesday
+- Dário Essugo spotted in training as Chelsea start preparations for Arsenal
 - The Daily Hilario: Sucker for a montage
 - Chelsea to face Tottenham Hotspur in Women’s FA Cup quarterfinal
 - Chelsea 1-1 Burnley, Player Ratings: At least João Pedro scores again
@@ -72,8 +64,6 @@ date: 2026-02-23
 - Chelsea FCW vs. Manchester United WFC, Women’s FA Cup: Confirmed lineups; how to watch
 - Chelsea FCW vs. Manchester United WFC, Women’s FA Cup: Preview, team news, how to watch
 - The Daily Hilario: Sunday
-- Chelsea 1-1 Burnley, Premier League: Post-match reaction, ratings
-- Chelsea vs. Burnley, Premier League: Confirmed lineups; how to watch
 
 <!-- news_marker ends -->
 
@@ -81,14 +71,14 @@ date: 2026-02-23
 
 <!-- ftnews_marker starts -->
 
-- Trump condemns Iran’s ‘sinister’ nuclear ambitions in State of the Union speech
-- How Deutsche Bank rolled out the red carpet for Jeffrey Epstein
-- To raise low birth rates, we must help mothers
-- The death of the Trump trade
-- Jim Ratcliffe’s Ineos explores asset sales as chemical sector struggles
-- HSBC says capital ratios need to improve before it resumes buybacks
-- NHS in England to be set targets on getting people back to work
-- Microsoft hunts for new London HQ on Elizabeth Line
+- Nvidia stock downbeat despite blockbuster quarter
+- Salesforce chief dismisses ‘SaaS-pocalypse’ fears of AI overtaking business software
+- Do America’s carmakers have a plan for survival?
+- How working from home changed how we shop
+- Inside the $265mn war over who writes America’s AI rules
+- UK government debt sales set to fall for first time in four years
+- Democrats probe missing files alleging Trump link to Epstein
+- Lawrence Summers to step down from Harvard teaching role
 
 <!-- ftnews_marker ends -->
 
@@ -96,40 +86,40 @@ date: 2026-02-23
 
 <!-- word_marker starts -->
 
- > sallow - adjective: Of a sickly yellowish or pale color.
+ > fallow - adjective: 1. Inactive or unproductive. 2. (Of land) left to lie idle for a season, sometimes after plowing. noun: 1. Land left to lie idle to restore its fertility. 2. The act of plowing land and leaving it unseeded. verb tr.: To leave unseeded.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Plans are worthless, but planning is everything. - Dwight Eisenhower
+> Innovation is a bottoms-up, decentralized, and unpredictable thing, but that does not mean it cannot be managed. - Eric Ries, Author, The Lean Startup
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> What would your closest friend do?
+> What mistakes did you make last time?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Happy Feet (Rated: 5)
-- Released in 2006
-- Summary: Into the world of the Emperor Penguins, who find their soul mates through song, a penguin is born who cannot sing. But he can tap dance something fierce!
+- Deadpool (Rated: 3)
+- Released in 2016
+- Summary: A wisecracking mercenary gets experimented on and becomes immortal yet hideously scarred, and sets out to track down the man who ruined his looks.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 219, using [3, 6, 10, 25, 50, 75]
-- Answer: 28 solutions.
+- Target: 657, using [2, 2, 6, 9, 25, 100]
+- Answer: 8 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 / 25 + 75 + 6 - 10 ) x 3
+  Solution: ( 100 + 2 + 2 - 25 - 6 ) x 9
 
    </details>
 
