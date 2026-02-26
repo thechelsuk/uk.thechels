@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-02-23
+date: 2026-02-26
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,11 +11,11 @@ date: 2026-02-23
 <!-- weather_marker starts -->
 ## On Thursday, 26 February 2026
 
-- The average temperature today is 11.37˚C,
-- With highs of 11.65˚C and lows of 10.16˚C,
-- It may feel like 10.81˚C with overcast clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 86%
+- The average temperature today is 12.02˚C,
+- With highs of 12.51˚C and lows of 11.5˚C,
+- It may feel like 11.39˚C with overcast clouds
+- The wind speed is 6.69m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 81%
 - The sun will rise at 07:01 and set at 17:41
 
 <!-- weather_marker ends -->
@@ -34,7 +34,7 @@ date: 2026-02-23
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Set exceptional standards.
+> Be open to change.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -55,6 +55,9 @@ date: 2026-02-23
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea fined more for West Ham player choking João Pedro
+- The Daily Hilario: Thursday
+- Chelsea to face either Newcastle United or PSG in Champions League Round of 16
 - The Daily Hilario: Wednesday
 - Dário Essugo spotted in training as Chelsea start preparations for Arsenal
 - The Daily Hilario: Sucker for a montage
@@ -62,9 +65,6 @@ date: 2026-02-23
 - Chelsea 1-1 Burnley, Player Ratings: At least João Pedro scores again
 - The Daily Hilario: Monday
 - Chelsea FCW 2-1 (a.e.t.) Manchester United WFC, Women’s FA Cup: Post-match reaction
-- Chelsea FCW vs. Manchester United WFC, Women’s FA Cup: Confirmed lineups; how to watch
-- Chelsea FCW vs. Manchester United WFC, Women’s FA Cup: Preview, team news, how to watch
-- The Daily Hilario: Sunday
 
 <!-- news_marker ends -->
 
@@ -72,14 +72,14 @@ date: 2026-02-23
 
 <!-- ftnews_marker starts -->
 
-- Nvidia stock downbeat despite blockbuster quarter
-- Salesforce chief dismisses ‘SaaS-pocalypse’ fears of AI overtaking business software
-- Do America’s carmakers have a plan for survival?
-- How working from home changed how we shop
-- Inside the $265mn war over who writes America’s AI rules
 - UK government debt sales set to fall for first time in four years
-- Democrats probe missing files alleging Trump link to Epstein
-- Lawrence Summers to step down from Harvard teaching role
+- Inside the war over who writes America’s AI rules
+- Working from home has changed the way we shop
+- It’s payback time for Trump’s tariff fiasco
+- Nvidia’s blockbuster results fail to dazzle investors
+- Salesforce chief dismisses ‘SaaS-pocalypse’ fears of AI overtaking business software
+- Starmer braced for high-stakes battle for Manchester seat
+- UK work visa numbers cut sharply in 2025
 
 <!-- ftnews_marker ends -->
 
@@ -94,7 +94,7 @@ date: 2026-02-23
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Innovation is a bottoms-up, decentralized, and unpredictable thing, but that does not mean it cannot be managed. - Eric Ries, Author, The Lean Startup
+> Scrum is like your mother-in-law, it points out ALL your faults - Ken Schwaber
 
 <!-- quote_marker ends -->
 
@@ -107,20 +107,20 @@ date: 2026-02-23
 ### Film Archive
 
 <!-- film_marker starts -->
-- Deadpool (Rated: 3)
-- Released in 2016
-- Summary: A wisecracking mercenary gets experimented on and becomes immortal yet hideously scarred, and sets out to track down the man who ruined his looks.
+- Skylines (Rated: 3)
+- Released in 2020
+- Summary: When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what's left of humanity.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 657, using [2, 2, 6, 9, 25, 100]
-- Answer: 8 solutions.
+- Target: 299, using [2, 2, 4, 6, 8, 75]
+- Answer: 75 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 2 + 2 - 25 - 6 ) x 9
+  Solution: 75 x 8 / ( 6 - 4 ) - 2 / 2
 
    </details>
 
