@@ -51,13 +51,14 @@ if __name__ == "__main__":
 
         f = root / "_pages/daily.md"
         m = f.open().read()
-        c = helper.replace_chunk(m, "weather_marker", string_today)
-        # Replace or add date in front matter
+                # Replace or add date in front matter
         if re.search(r'^date: .*$', m, re.MULTILINE):
             m = re.sub(r'^date: .*$',
                     f'date: {frontmatter_date}', m, flags=re.MULTILINE)
         else:
             m = re.sub(r'^(---\s*\n)', r'\1date: ' + frontmatter_date + '\n', m)
+        c = helper.replace_chunk(m, "weather_marker", string_today)
+
         f.open("w").write(c)
         print("Weather completed")
 
