@@ -5,7 +5,7 @@
   <div class="wrapper">
     <p>&copy; {{ site.time | date: '%Y' }}
       {% if site.copyright %}
-      {{ site.copyright }}
+      {{ site.owner.name }}
       {% else %}
       {% endif %}
       {% for item in site.navigation_footer %}
@@ -22,7 +22,7 @@
       {% endfor %}
     </p>
     <p>Build: #{{ site.github.build_revision }}</p>
-    <p>build date: {{ site.time | timeago }}</p>
+    <p>Last Build: {{ site.time | timeago | depth: 3 }}</p>
   </div>
 </div>
 <script src="{{ site.baseurl }}/app.js"></script>
