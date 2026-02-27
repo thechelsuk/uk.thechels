@@ -22,6 +22,7 @@
       {% endfor %}
     </p>
     <p>Build: #{{ site.github.build_revision }}</p>
+    <p>build date: {{ site.time | timeago }}</p>
   </div>
 </div>
 <script src="{{ site.baseurl }}/app.js"></script>
