@@ -42,10 +42,13 @@
     <link rel="stylesheet" media="print" href="/style_print.css">
     <link rel="manifest" href="/manifest.json" fetchpriority="low">
     <link rel="indieweb" href="/indieweb.txt" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} xml" href="{{ site.url }}/feed.xml">
-    <link rel="alternate" type="application/json" title="{{ site.title }} json" href="{{ site.url }}/feed.json">
-    <link rel="alternate" type="application/rss+xml" title="Daily Rundown" href="{{ site.url }}/daily.rss">
-    <link rel="alternate" type="application/rss+xml" title="Film Reviews" href="{{ site.url }}/films.rss">
+    
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Main Feed xml" href="{{ site.url }}/feed.xml">
+    <link rel="alternate" type="application/json" title="{{ site.title }} - Main json" href="{{ site.url }}/feed.json">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Daily Rundown" href="{{ site.url }}/daily.xml">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Posts only" href="{{ site.url }}/posts.xml">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Film Reviews" href="{{ site.url }}/films.xml">
+    
     {% if page.layout == 'post' %}
     <link href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md" type="text/markdown" rel="alternate"
       title="Markdown">

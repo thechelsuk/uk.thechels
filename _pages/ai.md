@@ -14,9 +14,17 @@ I use AI to help write code, often very simple logic in python, liquid or ruby, 
 
 I use AI for spell-checking, wording, grammar, and as a peer review for the words I write and share.
 
-I don't use AI to formulate opinions or to generate content (typically referred to as AI Slop).
+I do _not_ use AI to formulate opinions or to generate content (typically referred to as AI Slop).
 
-I use automations to help simplify my content generation using Shortcuts, Drafts Actions and text replacement/keys as well as GitHub actions extensively.
+### Automation
 
-I am comfortable with this stance as none of my apps, plug-ins, websites nor code collection, store, or use personal data of users/visitors.
+Although not AI, I use comprehensive tools and automations to help complete everyday technology tasks.
 
+I use automations to help simplify my content generation using Shortcuts, Drafts Actions and text replacement/keys as well as GitHub actions extensively. 
+
+
+## Summary
+
+I am comfortable with my AI stance. It is a useful tool given my situation. whilst protecting consulers and users as none of my apps, plug-ins, websites nor code produced collect, store, or use personal data of users/visitors.
+
+bottom line is none of my or my users private or personal data is shared.
