@@ -17,4 +17,3 @@ jobs:
     with:
       content: ${{ github.event.issue.body }}
       label: "stocks"
-  

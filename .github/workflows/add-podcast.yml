@@ -17,7 +17,3 @@ jobs:
     with:
       content: ${{ github.event.issue.body }}
       label: "podcasts"
-  Deploy:
-    needs: Execution
-    uses: ./.github/workflows/deploy.yml
-    secrets: inherit

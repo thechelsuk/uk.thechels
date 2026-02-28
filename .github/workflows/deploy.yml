@@ -1,7 +1,6 @@
 ---
 name: Build Jekyll and Deploy Pages
 on:
-  workflow_call:
   workflow_dispatch:
   push:
     branches:

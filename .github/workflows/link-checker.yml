@@ -3,7 +3,7 @@ name: "Link Checker"
 on:
     workflow_dispatch:
     schedule:
-        - cron: "0 20 * * 5"
+        - cron: "0 20 1 * *"
 
 jobs:
     linkChecker:
@@ -15,7 +15,7 @@ jobs:
               id: lychee
               uses: lycheeverse/lychee-action@v2.8.0
               with:
-                  args: --verbose --no-progress --accept=200,202,203,204,301,302,303,307,308,429,999 --timeout=30 --retry-wait-time=5 --max-retries=2 --insecure --user-agent="Mozilla/5.0 (compatible; LinkChecker)" './**/*.md' './**/*.html'
+                  args: --verbose --no-progress --accept=200,202,203,204,301,302,303,307,308,429,999 --timeout=30 --retry-wait-time=5 --max-retries=2 --insecure --exclude-redirects --user-agent="Mozilla/5.0 (compatible; LinkChecker)" './**/*.md' './**/*.html'
                   fail: false
                   format: markdown
               env:

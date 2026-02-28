@@ -50,4 +50,3 @@ jobs:
                   git config user.email "action@github.com"
                   git diff --quiet || (git add -A && git commit -m "New Daily Rundown")
                   git push
-                  
