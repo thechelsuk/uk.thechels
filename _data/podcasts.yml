@@ -1,9 +1,11 @@
+- link: https://feeds.megaphone.fm/thebookclub
+  name: The Book Club
 - link: https://feeds.redcircle.com/c478d684-038f-4b13-8507-bc32af486a2c
   name: Smashing Security
 - link: https://feeds.transistor.fm/simply-cyber
   name: Daily Cyber Threat Brief
 - link: https://rss.libsyn.com/shows/83359/destinations/392364.xml
-  name: NextGen Planners
+  name: The Plannex Podcast
 - link: https://feeds.transistor.fm/compile-swift
   name: Compile Swift Podcast
 - link: https://rss.podplaystudio.com/1332.xml
@@ -18,8 +20,6 @@
   name: Overdue
 - link: https://feeds.captivate.fm/three-bean-salad/
   name: Three Bean Salad
-- link: https://podcastengineering.libsyn.com/rss
-  name: The Podcast Engineering Show
 - link: https://feeds.megaphone.fm/DSLLC6297708582
   name: Founders
 - link: https://feed.podbean.com/moneymarketing/feed.xml
@@ -38,8 +38,6 @@
   name: Media Confidential
 - link: https://feeds.captivate.fm/the-rebooting-show/
   name: The Rebooting Show
-- link: https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f
-  name: PoliticsJOE Podcast
 - link: https://feeds.transistor.fm/acquired
   name: Acquired
 - link: https://feed.syntax.fm/rss
@@ -51,11 +49,11 @@
 - link: https://anchor.fm/s/45580f58/podcast/rss
   name: AB Testing
 - link: https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926
-  name: 'The New Statesman: politics and culture'
+  name: Daily Politics from the New Statesman
 - link: https://feeds.acast.com/public/shows/6478a825654260001190a7cb
   name: Unhedged
-- link: https://feeds.transistor.fm/the-good-news-podcast
-  name: The Good News Podcast
+- link: https://feeds.transistor.fm/primary-technology
+  name: Primary Technology
 - link: https://feeds.acast.com/public/shows/67585d9cc705e441796ddaf6
   name: Worklife with Adam Grant
 - link: https://feeds.megaphone.fm/GLT4787413333
@@ -134,8 +132,6 @@
   name: 'Page 94: The Private Eye Podcast'
 - link: https://feeds.simplecast.com/mtWJMYrr
   name: The Diverse Minds Podcast
-- link: https://rss.art19.com/london-is-blue
-  name: London Is Blue - Chelsea FC Podcast
 - link: https://rss.amperwave.net/v2/feed/audacy/f1c70aa47121cb4a9e7b2350f233980e
   name: KCBS Bloomberg Tech and Business Report
 - link: https://sharptech.fm/feed/podcast
@@ -148,8 +144,6 @@
   name: The 404 Media Podcast
 - link: https://feeds.megaphone.fm/therestisclassified
   name: The Rest Is Classified
-- link: https://appstories.net/feed/podcast/appstories
-  name: AppStories
 - link: https://feedpress.me/9to5macdaily
   name: 9to5Mac Daily
 - link: https://fullychargedshow.libsyn.com/rss
@@ -182,18 +176,14 @@
   name: The Business of Content with Simon Owens
 - link: https://feeds.megaphone.fm/cyberwire-daily-podcast
   name: CyberWire Daily
-- link: https://feeds.redcircle.com/73aff9ee-3659-4771-9e10-c0b2ce914d38
-  name: The AI Fix
 - link: https://pa.tedcdn.com/feeds/talks.rss?apikey=172BB350-0207&type=audio
   name: TED Talks Daily
 - link: https://feeds.megaphone.fm/whalehunting
   name: Whale Hunting
-- link: https://bookworm.fm/feed/podcast
-  name: Bookworm
 - link: https://anchor.fm/s/41f55cbc/podcast/rss
   name: 'Adviser 3.0: The Podcast'
 - link: https://feeds.libsyn.com/502283/rss
-  name: Hope and Help For Fatigue Chronic Illness
+  name: Hope and Help For Fatigue & Chronic Illness
 - link: https://feeds.megaphone.fm/ridehome
   name: Tech Brew Ride Home
 - link: https://feeds.simplecast.com/bZ7U2PEk
@@ -222,14 +212,8 @@
   name: Not Overthinking
 - link: https://talkpython.fm/episodes/rss
   name: Talk Python To Me
-- link: https://podcast.global.com/show/3382902/episodes/feed
-  name: Sky Sports Premier League Podcast
-- link: https://feeds.acast.com/public/shows/6477148d8332f1001103c9af
-  name: The Wild Ones Cycling Podcast
 - link: https://api.substack.com/feed/podcast/458709.rss
   name: The Pragmatic Engineer
-- link: https://allinchamathjason.libsyn.com/rss
-  name: All-In with Chamath, Jason, Sacks & Friedberg
 - link: https://sive.rs/podcast.rss
   name: Derek Sivers
 - link: https://feeds.megaphone.fm/kermodeandmayo
@@ -246,18 +230,12 @@
   name: 'The Rest Is Politics: Leading'
 - link: https://feeds.transistor.fm/the-vernon-richard-show
   name: The Vernon Richard Show
-- link: https://podcast.global.com/show/3382900/episodes/feed
-  name: The Gary Neville Podcast
 - link: https://thoughtworks.libsyn.com/rss
   name: Thoughtworks Technology Podcast
-- link: https://feeds.acast.com/public/shows/18b8cecc-3331-4621-9f92-f207f4b2c4ea
-  name: Money Clinic with Claer Barrett
 - link: https://feeds.megaphone.fm/FSMI7575968096
   name: The Knowledge Project
 - link: https://anchor.fm/s/f6e76df4/podcast/rss
   name: Quality Talks Podcast
-- link: https://feeds.acast.com/public/shows/64fb2b0f977e5a001226cb16
-  name: Political Currency
 - link: https://feeds.simplecast.com/JT6pbPkg
   name: 'Google DeepMind: The Podcast'
 - link: https://feeds.captivate.fm/workinggeniuspodcast/
@@ -272,8 +250,6 @@
   name: FTAdviser Podcast
 - link: https://audioboom.com/channels/451365.rss
   name: Bletchley Park
-- link: https://feeds.castos.com/jdn3m
-  name: The Chronic Fatigue and Burnout Recovery Podcast
 - link: https://anchor.fm/s/572fc68/podcast/rss
   name: Swift over Coffee
 - link: https://www.spreaker.com/show/5634793/episodes/feed
@@ -325,7 +301,7 @@
 - link: https://feeds.transistor.fm/small-batches
   name: Software Delivery in Small Batches
 - link: https://feeds.npr.org/510019/podcast.xml
-  name: All Songs Considered
+  name: NPR Music
 - link: https://feeds.acast.com/public/shows/67b867b786a56284d05dc87f
   name: Inside Counter Terrorism Policing
 - link: https://aswaudio.libsyn.com/rss
@@ -334,18 +310,16 @@
   name: UKTN | The Podcast
 - link: https://cdn.atp.fm/rss/public?wtvryzdm
   name: Accidental Tech Podcast
-- link: https://feeds.libsyn.com/531557/rss
-  name: Comfort Zone
 - link: https://feeds.megaphone.fm/dalybrightness
   name: 'The Rest Is Football: Daly Brightness'
 - link: https://www.macgeekgab.com/feed/podcast/
   name: "Mac Geek Gab \u2014 Apple Tips, Tricks, and Troubleshooting"
+- link: http://scripting.com/podcast.xml
+  name: Scripting News podcast
 - link: https://feeds.megaphone.fm/COMG5530220765/
   name: '1905: The Chelsea FC Podcast'
 - link: https://feeds.transistor.fm/launched
   name: Launched
-- link: https://feeds.megaphone.fm/AUDD1666051198
-  name: Simon Mayo's Books Of The Year
 - link: https://podnews.net/sitemap/trailers.xml
   name: New Podcasts - trailers for new and noteworthy shows
 - link: https://feed.podbean.com/eightorsixteen/feed.xml
@@ -364,8 +338,6 @@
   name: The GitHub Podcast
 - link: https://feeds.captivate.fm/politics-at-sam-and-anne/
   name: Politics At Sam and Anne's
-- link: https://anchor.fm/s/1017b3750/podcast/rss
-  name: The OSINT Output Hosted by Tim and Chris
 - link: https://feeds.captivate.fm/cheat-sheet/
   name: Cheat Sheet with Ridge & Frost
 - link: https://rss.buzzsprout.com/2489886.rss
@@ -373,11 +345,9 @@
 - link: https://rss.buzzsprout.com/2522076.rss
   name: Fraud Intel
 - link: https://cisoseries.libsyn.com/rss
-  name: Cyber Security Headlines
+  name: Cybersecurity Headlines
 - link: https://anchor.fm/s/f408358c/podcast/rss
   name: NCSC Cyber Series
-- link: https://rss.buzzsprout.com/2551891.rss
-  name: Primary Technology
 - link: https://rss.buzzsprout.com/1078751.rss
   name: Testing Peers
 - link: https://api.substack.com/feed/podcast/3215891.rss
@@ -404,7 +374,66 @@
   name: "Startup Europe \u2014 The Sifted Podcast"
 - link: https://rss.buzzsprout.com/1714721.rss
   name: GOTO - The Brightest Minds in Tech
-- link: https://access.acast.com/rss/6851792d002f9da49a7fbef5/default
-  name: Quite right!
 - link: https://rss.buzzsprout.com/1858491.rss
   name: Product Agility
+- link: https://feeds.megaphone.fm/agileforhumans
+  name: Agile for Humans with Ryan Ripley and Todd Miller
+- link: https://pinecast.com/feed/make-life-work
+  name: Make Life Work
+- link: https://loufranco.com/feed/podcast
+  name: Write While True
+- link: https://api.substack.com/feed/podcast/24711.rss
+  name: The Beautiful Mess Podcast
+- link: https://feeds.megaphone.fm/GLT6907573392
+  name: The Rest Is Science
+- link: https://rss.buzzsprout.com/2253656.rss
+  name: Long Covid, MD
+- link: https://anchor.fm/s/d7fb0c34/podcast/rss
+  name: Long Covid Hope Podcast
+- link: https://feeds.castos.com/q4knn
+  name: The POTScast
+- link: https://rss.buzzsprout.com/1717775.rss
+  name: Learn about ME
+- link: https://rss.podplaystudio.com/3630.xml
+  name: Simon Mayo's Books of the Year
+- link: https://feeds.megaphone.fm/COMG1909627037
+  name: The Wild Ones Cycling Podcast
+- link: https://blog.codepen.io/feed/podcast/
+  name: CodePen Radio
+- link: https://anchor.fm/s/10d2220b4/podcast/rss
+  name: The Podcast Engineering Show
+- link: https://feeds.transistor.fm/bookworm
+  name: Bookworm
+- link: https://feeds.castos.com/j34px
+  name: 'Mast Cell Matters: Deep dives on MCAS with Tania Dempsey, MD - Presented
+    by The POTScast'
+- link: https://feeds.acast.com/public/shows/47990e88-454b-4e3b-bf78-75a172c33184
+  name: Coffee Break French
+- link: https://feeds.acast.com/public/shows/985e7c00-8945-4e0d-a4da-b93049180ce1
+  name: Coffee Break Spanish
+- link: https://anchor.fm/s/104e3eb08/podcast/rss
+  name: Boring History for Sleep
+- link: https://feeds.podcastmirror.com/novara-media
+  name: Novara Media
+- link: https://feeds.acast.com/public/shows/68b709d1a742b7c846de24b5
+  name: Bold Politics with Zack Polanski
+- link: https://anchor.fm/s/10e337494/podcast/rss/
+  name: 'A Friend for the Long Haul: A Long Covid Podcast'
+- link: https://www.macstories.net/podcasts/appstories/feed
+  name: AppStories
+- link: https://feeds.captivate.fm/the-gary-neville-podcast/
+  name: The Gary Neville Podcast
+- link: https://feeds.redcircle.com/6c608b0c-5983-4e63-8ca8-843f5b2d22f9
+  name: The AI Fix
+- link: https://feeds.captivate.fm/sky-sports-premierleague/
+  name: Sky Sports Premier League Podcast
+- link: https://rss2.flightcast.com/bzl5auwjgtkk741gcwgney98.xml
+  name: We Have A Meeting
+- link: https://mostdays.libsyn.com/rss
+  name: Death Clock
+- link: https://feeds.simplecast.com/kULRmujj
+  name: A Better Computer
+- link: https://feeds.megaphone.fm/COMG9410682723
+  name: London Is Blue - Chelsea FC Podcast
+- link: https://rss.libsyn.com/shows/531557/destinations/4573682.xml
+  name: Comfort Zone
