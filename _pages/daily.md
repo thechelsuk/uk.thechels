@@ -14,11 +14,11 @@ _Good Morning, Here is your daily briefing_
 <!-- weather_marker starts -->
 ## On Saturday, 28 February 2026
 
-- The average temperature today is 6.55˚C,
-- With highs of 7.21˚C and lows of 5.93˚C,
-- It may feel like 4.6˚C with overcast clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 92%
+- The average temperature today is 10˚C,
+- With highs of 11.1˚C and lows of 9.27˚C,
+- It may feel like 7.19˚C with few clouds
+- The wind speed is 6.17m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 61%
 - The sun will rise at 06:56 and set at 17:45
 
 <!-- weather_marker ends -->
@@ -37,7 +37,7 @@ _Good Morning, Here is your daily briefing_
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Crossing the river by feeling the stones.
+> Commit to the direction.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -86,14 +86,14 @@ _Good Morning, Here is your daily briefing_
 
 <!-- ftnews_marker starts -->
 
-- Trump hails ‘massive’ operation as US and Israel launch strikes on Iran
-- US and UK pull diplomats from Middle East as Iran war fears rise
-- Defensive munition shortages to shape attack on Iran
+- US and Israel launch ‘massive’ strikes on Iran as Trump calls for regime change
+- Trump gambles on war to force Iran’s capitulation
+- A brief guide to Iran’s complex regime
+- Military briefing: What have the US and Israel hit and how is Iran responding?
+- Trump shifts from ‘no new wars’ to Iran regime change
 - Pete Hegseth, Maga’s man at the Pentagon
-- Key areas of contention between Iran and the US
 - Anthropic to sue Trump administration after AI lab is labelled security risk
 - DeepSeek to release long-awaited AI model in new challenge to US rivals
-- Starmer hits out at ‘extremes’ of left and right after historic Green by-election victory
 
 <!-- ftnews_marker ends -->
 
@@ -108,7 +108,7 @@ _Good Morning, Here is your daily briefing_
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Empower the team to resolve their own impediments. - Geoff Watts
+> People with goals succeed because they know where they are going - Earl Nightingale
 
 <!-- quote_marker ends -->
 
@@ -121,20 +121,20 @@ _Good Morning, Here is your daily briefing_
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Endless (Rated: 3)
-- Released in 2017
-- Summary: As kids, they escaped a UFO death cult. Now, two adult brothers seek answers after an old videotape surfaces and brings them back to where they began.
+- Black Knight (Rated: 2)
+- Released in 2001
+- Summary: Martin Lawrence plays Jamal, an employee in Medieval World amusement park. After sustaining a blow to the head, he awakens to find himself in 14th century England.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 393, using [5, 5, 6, 7, 25, 50]
-- Answer: 17 solutions.
+- Target: 272, using [4, 5, 10, 25, 50, 100]
+- Answer: 13 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 + 25 + 6 ) x 5 - 7 - 5
+  Solution: ( ( 100 + 4 - 50 ) x 25 + 10 ) / 5
 
    </details>
 
