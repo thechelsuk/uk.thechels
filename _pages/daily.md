@@ -143,7 +143,7 @@ _Good Morning, Here is your daily briefing..._
 
 ### Blogroll links
 <!-- blogroll_marker starts -->
-- Blog - Matt Birchtree [URL](https://birchtree.me/) [Feed](https://birchtree.me/rss/)
-- Blog - Temper Temper [URL](https://www.tempertemper.net/) [Feed](https://www.tempertemper.net/feeds/main.json)
-- Blog - piccalilli links [URL](https://piccalil.li/) [Feed](https://piccalil.li/links.xml)
+- Monevator [URL](https://monevator.com/) [Feed](https://feeds.feedburner.com/monevatorcom)
+- Piccalilli (links) [URL](https://piccalil.li/) [Feed](https://piccalil.li/links.xml)
+- CJ Chilvers [URL](https://www.cjchilvers.com/) [Feed](http://cjchilvers.com/blog?format=rss)
 <!-- blogroll_marker ends -->

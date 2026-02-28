@@ -2,10 +2,10 @@
 <h1 class="post-title">{{ page.title }}</h1>
 <p>
     <small>
-        <b>{{ site.data.blogroll | size }}</b>
-        blog subscriptions. Links are directly to the blog, feed url to their RSS.
+        <b>{{ site.data.blogroll | size }}</b> blog subscriptions.
     </small>
 </p>
+<p>Click the link to go to the site, alternatively use the Feed link to subscribe to the RSS/Atom/JsonFeed.</p>
 {% assign sorted = site.data.blogroll | sort: 'title' %}
 <ul>
     {% for item in sorted %}
