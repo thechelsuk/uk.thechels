@@ -8,8 +8,7 @@ date: 2026-02-28
 ---
 <!-- markdownlint-disable MD033 -->
 
-_Good Morning, Here is your daily briefing_  
-
+_Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
 ## On Saturday, 28 February 2026
@@ -62,9 +61,9 @@ _Good Morning, Here is your daily briefing_
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 128.4499969482422 
-- ^FTSE : 10910.599609375 
-- ^FTMC : 23757.19921875 
+- VWRL.L : 128.4499969482422
+- ^FTSE : 10910.599609375
+- ^FTMC : 23757.19921875
 
 <!-- stocks_marker ends -->
 
