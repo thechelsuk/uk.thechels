@@ -177,7 +177,7 @@ def get_yf_stocks(set_of_tickers: list) -> str:
     markdown = ""
     for ticker in list(set_of_tickers):
         data = yf.Ticker(ticker)
-        output = data.history(period="1d").Close[0]
+        output = data.history(period="1d").Close.iloc[0]
         markdown += f"- {ticker} : {output} \n"
     return markdown
 

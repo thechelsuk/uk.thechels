@@ -51,7 +51,4 @@ jobs:
             Closes #${{ github.event.issue.number }}
           reviewers: "${{ github.repository_owner }}"
           commit-message: "Post: ${{ github.event.issue.title }}"
-  Deploy:
-    needs: Build
-    uses: ./.github/workflows/deploy.yml
-    secrets: inherit
+

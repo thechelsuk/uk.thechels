@@ -17,7 +17,3 @@ jobs:
         with:
             content: ${{ github.event.issue.body }}
             label: "slogans"
-    Deploy:
-        needs: Execution
-        uses: ./.github/workflows/deploy.yml
-        secrets: inherit

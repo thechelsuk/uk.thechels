@@ -62,7 +62,9 @@ _Good Morning, Here is your daily briefing_
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 124.80999755859375
+- VWRL.L : 128.4499969482422 
+- ^FTSE : 10910.599609375 
+- ^FTMC : 23757.19921875 
 
 <!-- stocks_marker ends -->
 

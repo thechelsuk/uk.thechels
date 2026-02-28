@@ -56,7 +56,3 @@ jobs:
                   git config user.email "action@github.com"
                   git diff --quiet || (git add -A && git commit -m "${{ inputs.Title }} added to DB")
                   git push
-    Deploy:
-        needs: Build
-        uses: ./.github/workflows/deploy.yml
-        secrets: inherit
