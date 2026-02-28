@@ -365,3 +365,53 @@ def FileProcessorFromSource(OF, data, KEY) -> str:
         return f"{KEY} completed"
     except FileNotFoundError:
         return ("File does not exist, unable to proceed")
+
+
+# Reads a YAML file containing a list of dicts (e.g., blogroll format) and returns the list of objects
+def read_yaml_objects(file_path):
+    """
+    Reads a YAML file containing a list of dicts and returns the list of objects.
+    Example format:
+    - title: some title
+      htmlUrl: some-link
+      xmlUrl: some-link.xml
+    """
+    path = pathlib.Path(file_path)
+    with path.open("r") as f:
+        data = yaml.safe_load(f)
+    if not isinstance(data, list):
+        raise ValueError("YAML file does not contain a list of objects")
+    return data
+
+
+
+# Picks N random objects from a YAML file and writes markdown output to a file using a marker, similar to FileProcessorPicksRandomItem
+def FileProcessorPicksRandomObjects(OF, IF, KEY, count=3) -> str:
+    """
+    Picks `count` random objects from a YAML file (list of dicts), formats as markdown bullet list:
+    - title [URL](htmlUrl) [Feed](xmlUrl)
+    and writes to the output file using the marker KEY.
+    """
+    try:
+        doctrine = pathlib.Path(IF)
+        with doctrine.open() as f:
+            items = yaml.safe_load(f)
+        if not items:
+            raise ValueError("No items found in YAML file")
+        if len(items) < count:
+            chosen = items
+        else:
+            chosen = random.sample(items, count)
+        out = ""
+        for obj in chosen:
+            title = obj.get("title", "(no title)")
+            htmlurl = obj.get("htmlUrl", "#")
+            xml = obj.get("xmlUrl", "#")
+            out += f"- {title} [URL]({htmlurl}) [Feed]({xml})\n"
+        f = pathlib.Path(OF)
+        m = f.open().read()
+        c = replace_chunk(m, KEY, out.strip())
+        f.open("w").write(c)
+        return f"{KEY} completed"
+    except FileNotFoundError:
+        return ("File does not exist, unable to proceed")

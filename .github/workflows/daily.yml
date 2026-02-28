@@ -43,6 +43,7 @@ jobs:
                   python '_python/eno.py'
                   python '_python/remember_film.py'
                   python '_python/countdown.py'
+                  python '_python/blogroll.py'
             - name: Commit and push
               run: |-
                   git diff

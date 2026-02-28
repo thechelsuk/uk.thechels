@@ -140,3 +140,10 @@ _Good Morning, Here is your daily briefing..._
    </details>
 
 <!-- game_marker ends -->
+
+### Blogroll links
+<!-- blogroll_marker starts -->
+- Blog - Matt Birchtree [URL](https://birchtree.me/) [Feed](https://birchtree.me/rss/)
+- Blog - Temper Temper [URL](https://www.tempertemper.net/) [Feed](https://www.tempertemper.net/feeds/main.json)
+- Blog - piccalilli links [URL](https://piccalil.li/) [Feed](https://piccalil.li/links.xml)
+<!-- blogroll_marker ends -->
