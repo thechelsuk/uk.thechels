@@ -1,9 +1,3 @@
-- title: Blog  - OWA
-  htmlUrl: https://open-web-advocacy.org/
-  xmlUrl: https://open-web-advocacy.org/feed.xml
-- title: 1Password
-  htmlUrl: https://blog.1password.com/
-  xmlUrl: http://blog.agilebits.com/feed/
 - title: A11y Weekly
   htmlUrl: https://a11yweekly.com/
   xmlUrl: https://a11yweekly.com/feed/
@@ -25,12 +19,6 @@
 - title: Amy Edmondson
   htmlUrl: https://amycedmondson.com/
   xmlUrl: https://amycedmondson.com/feed/
-- title: Ana Hello - Bookmarks
-  htmlUrl: https://ohhelloana.blog/
-  xmlUrl: https://ohhelloana.blog/feed.links.xml
-- title: Ana Hello - Site
-  htmlUrl: https://ohhelloana.blog/
-  xmlUrl: https://ohhelloana.blog/feed.xml
 - title: Andy Bell
   htmlUrl: https://bell.bz/
   xmlUrl: https://bell.bz/feed.xml
@@ -133,9 +121,6 @@
 - title: Freaking Rectangle
   htmlUrl: https://freakingrectangle.com/
   xmlUrl: https://freakingrectangle.com/feed/
-- title: From Jason (Notebook)
-  htmlUrl: https://www.fromjason.xyz/p/notebook/feed/feed.xml
-  xmlUrl: https://www.fromjason.xyz/notebook/feed/feed.xml
 - title: Gabz/mL
   htmlUrl: https://gabz.blog/
   xmlUrl: https://gabz.blog/feed.json
@@ -160,7 +145,7 @@
 - title: HeyDingus
   htmlUrl: https://heydingus.net/
   xmlUrl: https://heydingus.net/feed.rss
-- title: inessential.com
+- title: Inessential.com
   htmlUrl: https://inessential.com/
   xmlUrl: http://inessential.com/xml/rss.xml
 - title: Infrastructure Engineering
@@ -202,7 +187,7 @@
 - title: Karl Hughes
   htmlUrl: https://www.karllhughes.com/
   xmlUrl: https://www.karllhughes.com/feed.xml
-- title: kottke.org
+- title: Kottke.org
   htmlUrl: https://kottke.org/
   xmlUrl: http://feeds.kottke.org/main
 - title: "Lu\xEDs Gon\xE7alves"
@@ -247,9 +232,6 @@
 - title: ME Association
   htmlUrl: https://meassociation.org.uk/
   xmlUrl: https://meassociation.org.uk/feed/
-- title: ME Dys
-  htmlUrl: https://thepersonalme.substack.com/
-  xmlUrl: https://thepersonalme.substack.com/feed
 - title: Michael Tsai
   htmlUrl: https://mjtsai.com/blog
   xmlUrl: https://mjtsai.com/blog/feed/
@@ -280,6 +262,9 @@
 - title: Online Journalism
   htmlUrl: https://onlinejournalismblog.com/
   xmlUrl: http://onlinejournalismblog.com/feed/
+- title: Open Web Advocacy
+  htmlUrl: https://open-web-advocacy.org/
+  xmlUrl: https://open-web-advocacy.org/feed.xml
 - title: Paul AF
   htmlUrl: https://paul.af/
   xmlUrl: https://paul.af/feed.rss
@@ -364,14 +349,17 @@
 - title: Temper Temper
   htmlUrl: https://www.tempertemper.net/
   xmlUrl: https://www.tempertemper.net/feeds/main.json
+- title: The 5k Runner
+  htmlUrl: https://the5krunner.com/
+  xmlUrl: http://the5krunner.com/feed/
 - title: The Changelog
   htmlUrl: https://changelog.com/
   xmlUrl: http://feeds.feedburner.com/thechangelog
 - title: The Codist
   htmlUrl: https://thecodist.com/
   xmlUrl: http://feeds.feedburner.com/thecodist
-- title: the lang cat
-  htmlUrl: https://thelangcat.co.uk/
+- title: The Lang Cat
+  htmlUrl: https://langcatfinancial.co.uk/
   xmlUrl: https://langcatfinancial.co.uk/feed/
 - title: The Morning Brew
   htmlUrl: https://blog.cwa.me.uk/
@@ -388,9 +376,6 @@
 - title: The Sweet Setup
   htmlUrl: https://thesweetsetup.com/
   xmlUrl: https://thesweetsetup.com/feed/
-- title: the5krunner
-  htmlUrl: https://the5krunner.com/
-  xmlUrl: http://the5krunner.com/feed/
 - title: ThoughtAsylum
   htmlUrl: https://www.thoughtasylum.com/
   xmlUrl: https://www.thoughtasylum.com/atom.xml
