@@ -14,11 +14,11 @@ _Good Morning, Here is your daily briefing_
 <!-- weather_marker starts -->
 ## On Saturday, 28 February 2026
 
-- The average temperature today is 10˚C,
-- With highs of 11.1˚C and lows of 9.27˚C,
-- It may feel like 7.19˚C with few clouds
-- The wind speed is 6.17m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 61%
+- The average temperature today is 9.12˚C,
+- With highs of 10.95˚C and lows of 8.71˚C,
+- It may feel like 6.24˚C with scattered clouds
+- The wind speed is 5.66m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 66%
 - The sun will rise at 06:56 and set at 17:45
 
 <!-- weather_marker ends -->
@@ -37,7 +37,7 @@ _Good Morning, Here is your daily briefing_
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Commit to the direction.
+> Be open to change.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -87,11 +87,11 @@ _Good Morning, Here is your daily briefing_
 <!-- ftnews_marker starts -->
 
 - US and Israel launch ‘massive’ strikes on Iran as Trump calls for regime change
-- Trump gambles on war to force Iran’s capitulation
+- How will strikes on Iran affect global energy flows?
 - A brief guide to Iran’s complex regime
 - Military briefing: What have the US and Israel hit and how is Iran responding?
+- Trump gambles on war to force Iran’s capitulation
 - Trump shifts from ‘no new wars’ to Iran regime change
-- Pete Hegseth, Maga’s man at the Pentagon
 - Anthropic to sue Trump administration after AI lab is labelled security risk
 - DeepSeek to release long-awaited AI model in new challenge to US rivals
 
@@ -108,7 +108,7 @@ _Good Morning, Here is your daily briefing_
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> People with goals succeed because they know where they are going - Earl Nightingale
+> Opportunity is missed by most people because it is dressed in overalls and looks like work - Thomas Edison
 
 <!-- quote_marker ends -->
 
@@ -121,20 +121,20 @@ _Good Morning, Here is your daily briefing_
 ### Film Archive
 
 <!-- film_marker starts -->
-- Black Knight (Rated: 2)
-- Released in 2001
-- Summary: Martin Lawrence plays Jamal, an employee in Medieval World amusement park. After sustaining a blow to the head, he awakens to find himself in 14th century England.
+- The Task (Rated: 8)
+- Released in 2011
+- Summary: A group of reality show contestants must survive the night in a haunted jail.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 272, using [4, 5, 10, 25, 50, 100]
-- Answer: 13 solutions.
+- Target: 246, using [2, 9, 10, 25, 50, 75]
+- Answer: 6 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 100 + 4 - 50 ) x 25 + 10 ) / 5
+  Solution: ( 75 + 50 - 10 ) x 2 + 25 - 9
 
    </details>
 
