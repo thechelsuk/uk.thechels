@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-02-27
+date: 2026-02-28
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -12,21 +12,21 @@ _Good Morning, Here is your daily briefing_
 
 
 <!-- weather_marker starts -->
-## On Friday, 27 February 2026
+## On Saturday, 28 February 2026
 
-- The average temperature today is 11.53˚C,
-- With highs of 12.21˚C and lows of 10.4˚C,
-- It may feel like 11.11˚C with light intensity drizzle
-- The wind speed is 4.63m/s and visibility is 7000m
-- The pressure is 1007hPa and humidity is 91%
-- The sun will rise at 06:58 and set at 17:43
+- The average temperature today is 10˚C,
+- With highs of 11.1˚C and lows of 9.27˚C,
+- It may feel like 7.19˚C with few clouds
+- The wind speed is 6.17m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 61%
+- The sun will rise at 06:56 and set at 17:45
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 724 days since the last change (2024-03-05)
+- It has been 725 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -37,17 +37,25 @@ _Good Morning, Here is your daily briefing_
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be open to change.
+> Commit to the direction.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Arsenal U21 v Ipswich Town U21
-- Manchester City U21 v Nottingham Forest U21
-- Harrogate Town v Cheltenham Town
-- Bristol City v Watford
-- Wolves v Aston Villa
+- Crystal Palace U18 v West Ham United U18
+- Derby County U18 v Manchester City U18
+- Derby County v Blackburn Rovers
+- Leicester City v Norwich City
+- Portsmouth v Hull City
+- Leyton Orient v Barnsley
+- Northampton Town v Peterborough United
+- Cambridge United v MK Dons
+- Shrewsbury Town v Walsall
+- Swindon Town v Bristol Rovers
+- AFC Bournemouth v Sunderland
+- Morecambe v York City
+- Leeds United v Manchester City
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -61,16 +69,16 @@ _Good Morning, Here is your daily briefing_
 ### Team News
 <!-- news_marker starts -->
 
+- The Daily Hilario: Saturday
+- How should Chelsea line up against league-leaders Arsenal?
+- Chelsea FC Women appoint Phil Radley as new sporting director
+- Chelsea drawn against PSG in Champions League Round of 16
 - The Daily Hilario: Friday
 - Chelsea fined more for West Ham player choking João Pedro
 - The Daily Hilario: Thursday
 - Chelsea to face either Newcastle United or PSG in Champions League Round of 16
 - The Daily Hilario: Wednesday
 - Dário Essugo spotted in training as Chelsea start preparations for Arsenal
-- The Daily Hilario: Sucker for a montage
-- Chelsea to face Tottenham Hotspur in Women’s FA Cup quarterfinal
-- Chelsea 1-1 Burnley, Player Ratings: At least João Pedro scores again
-- The Daily Hilario: Monday
 
 <!-- news_marker ends -->
 
@@ -78,14 +86,14 @@ _Good Morning, Here is your daily briefing_
 
 <!-- ftnews_marker starts -->
 
-- Starmer under pressure after Greens secure historic by-election victory
-- Greens win key UK by-election in blow to Labour
-- ‘The worst outcome’: Green triumph creates new peril for Labour
-- Economic nationalism is just getting started
-- Power failure could undermine America’s AI ambitions
-- Paramount clinches Warner Bros deal after Netflix walks away
-- US warns it will axe all Anthropic agreements without Pentagon deal
-- Pentagon moves to build AI tools for China cyber operations
+- US and Israel launch ‘massive’ strikes on Iran as Trump calls for regime change
+- Trump gambles on war to force Iran’s capitulation
+- A brief guide to Iran’s complex regime
+- Military briefing: What have the US and Israel hit and how is Iran responding?
+- Trump shifts from ‘no new wars’ to Iran regime change
+- Pete Hegseth, Maga’s man at the Pentagon
+- Anthropic to sue Trump administration after AI lab is labelled security risk
+- DeepSeek to release long-awaited AI model in new challenge to US rivals
 
 <!-- ftnews_marker ends -->
 
@@ -100,33 +108,33 @@ _Good Morning, Here is your daily briefing_
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Scrum focuses on being agile which may (and should) lead to improving. Kanban focuses on improving, which may lead to being agile. - Karl Scotland, Agile Trainer
+> People with goals succeed because they know where they are going - Earl Nightingale
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Spectrum analysis
+> Emphasize the flaws
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Taken 2 (Rated: 4)
-- Released in 2012
-- Summary: In Istanbul, retired CIA operative Bryan Mills and his wife are taken hostage by the father of a kidnapper Mills killed while rescuing his daughter.
+- Black Knight (Rated: 2)
+- Released in 2001
+- Summary: Martin Lawrence plays Jamal, an employee in Medieval World amusement park. After sustaining a blow to the head, he awakens to find himself in 14th century England.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 387, using [7, 7, 8, 10, 25, 100]
-- Answer: 7 solutions.
+- Target: 272, using [4, 5, 10, 25, 50, 100]
+- Answer: 13 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 100 + 10 ) x 25 + 8 ) / 7 - 7
+  Solution: ( ( 100 + 4 - 50 ) x 25 + 10 ) / 5
 
    </details>
 
