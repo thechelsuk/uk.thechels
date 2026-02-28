@@ -1,0 +1,17 @@
+{% include header.html %}
+<h1 class="post-title">{{ page.title }}</h1>
+<p>
+    <small>
+        <b>{{ site.data.blogroll | size }}</b>
+        podcast subscriptions. Links are directly to the podcast feed.
+    </small>
+</p>
+{% assign sorted = site.data.blogroll | sort: 'name' %}
+<ul>
+    {% for item in sorted %}
+    <li>
+        <a href="{{item.htmlUrl}}">{{item.name}}</a> [<a href="{{ item.xmlUrl}}">feed</a>] &#11084;
+    </li>
+    {% endfor %}
+</ul>
+{% include footer.html %}
