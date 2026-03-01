@@ -1,10 +1,8 @@
 {% include header.html %}
-<meta name="robots" content="noindex">
-<h1 class="post-title">{{ page.title }}</h1>
-{% include img.html %}
+{{ page.title }}
+
 {{ content }}
 
-<hr/>
 
 <ul>
  <li>{{ site.data.blogroll | size }}</b> blog subscriptions.</li>
@@ -18,4 +16,12 @@
  
 </ul>
 
+ assign sorted = site.data.items | sort: 'title' %}
+<ul>
+    {% for item in sorted %}
+    <li>{{item.title}}</li>
+    {% endfor %}
+</ul>
+
+{% endfor %}
 {% include footer.html %}
