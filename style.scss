@@ -482,9 +482,7 @@ img {
         margin: 0 auto;
 
         p {
-            width: 90%
-
-            a {
+            width: 90% a {
                 padding-right: 5px;
             }
         }
@@ -534,6 +532,7 @@ img {
     .footer {
         line-height: 30px;
         padding-top: 10px;
+        font-size: 0.9em;
     }
 
     .footer .wrapper {
@@ -556,6 +555,10 @@ img {
 @media only screen and (min-width: 320px) and (max-width: 480px) {
     .blog-menu {
         margin-bottom: 1em;
+    }
+
+    .footer {
+        font-size: 1em;
     }
 
     .back-to-top a,
