@@ -10,7 +10,7 @@ layout: empty
     <priority>1.0</priority>
   </url>
   {% for page in site.html_pages %}
-  {% if page.title != "Home page" %}
+  {% if page.url != "/" and page.sitemap != false and page.robots != "noindex, nofollow" %}
   <url>
     <loc>{{ site.url }}{{ page.url }}</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>

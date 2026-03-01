@@ -29,6 +29,9 @@ jobs:
         steps:
             - name: Checkout
               uses: actions/checkout@v6
+              with:
+                token: ${{ secrets.PAT_TOKEN }}
+
             - name: Pull latest changes
               run: |
                   git pull origin main

@@ -1,5 +1,5 @@
 ---
-name: Daily
+name: Daily Build and Deploy
 on:
     workflow_dispatch:
     schedule:
@@ -10,7 +10,8 @@ jobs:
         steps:
             - name: Check out Repo
               uses: actions/checkout@v6
-
+              with:
+                token: ${{ secrets.PAT_TOKEN }}
             - name: Set up Python
               uses: actions/setup-python@v6
               with:
@@ -49,5 +50,10 @@ jobs:
                   git diff
                   git config user.name "GitHub Action"
                   git config user.email "action@github.com"
-                  git diff --quiet || (git add -A && git commit -m "New Daily Rundown")
+                  COMMIT_MSG="New Daily Rundown $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+                  echo "COMMIT_MSG=$COMMIT_MSG" >> $GITHUB_ENV
+                  git diff --quiet || (git add -A && git commit -m "$COMMIT_MSG")
                   git push
+            - name: Log commit message
+              run: |
+                  echo "Committed: $COMMIT_MSG"

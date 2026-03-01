@@ -517,7 +517,7 @@ img {
     #wrapper {
         margin: 1em auto;
         width: auto;
-        max-width:832px;
+        max-width: 832px;
     }
 
     .book-list {
@@ -551,6 +551,21 @@ img {
     .footer,
     #outer-wrapper:after {
         height: 60px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .footer .footer-links {
+        display: flex;
+        flex-wrap: wrap;
+        padding-right: 3.5rem;
+        gap: 0.3rem 0;
+
+        a {
+            width: 50%;
+            box-sizing: border-box;
+            padding-right: 5px;
+        }
     }
 }
 

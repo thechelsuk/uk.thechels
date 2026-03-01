@@ -1,8 +1,8 @@
 ---
 layout: slashes
-title: Slash Pages - Common Indie Web Page Conventions
+title: Pages and Links
 permalink: /slashes
-seo: Slash Pages
+seo: Slash Pages from the common indie web page convention
 
 ---
 

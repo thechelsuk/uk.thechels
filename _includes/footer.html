@@ -3,12 +3,11 @@
 </div>
 <div class="footer">
   <div class="wrapper">
-    <p>&copy; {{ site.time | date: '%Y' }}
-      {{ site.owner.name }}
-      | Last Build: {{ site.github.build_revision | slice: 0, 12 }}
-      <a href=" #top" class="back-to-top" name="back-to-top">↑</a>
-    </p>
-    <p>
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }} <img src="{{ site.owner.avatar }}"
+        alt="{{ site.owner.name }}" width="12" height="12"
+        style="display:inline;vertical-align:text-bottom;position:relative;top:-1px;"> | Last Build:
+      {{ site.github.build_revision | slice: 0, 12 }} <a href=" #top" class="back-to-top" name="back-to-top">↑</a></p>
+    <p class="footer-links">
       {% unless page.url == "/" %}
       <a href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md">MD</a>
       {% endunless %}
