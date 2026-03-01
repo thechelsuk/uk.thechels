@@ -8,7 +8,7 @@ cited: Will Larson
 
 ---
 
-> Having been and worked with engineering managers for some time, I think there are [eight foundational engineering management skills](/categories-engineering-leadership/), which I want to personally group into two clusters: core skills that are essential to operate in all roles (including entry-level management roles), and growth skills whose presence--or absence--determines how far you can go in your career.
+> Having been and worked with engineering managers for some time, I think there are eight foundational engineering management skills, which I want to personally group into two clusters: core skills that are essential to operate in all roles (including entry-level management roles), and growth skills whose presence--or absence--determines how far you can go in your career.
 
 > The core skills are:
 
