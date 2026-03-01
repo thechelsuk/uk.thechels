@@ -10,12 +10,13 @@
     </p>
 
     <p>
-      {% for item in site.navigation_footer %}
-      <a href="{{item.link}}">{{item.title}}</a>
-      {% endfor %}
       {% unless page.url == "/" %}
       <a href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md">MD</a>
       {% endunless %}
+      {% for item in site.navigation_footer %}
+      <a href="{{item.link}}">{{item.title}}</a>
+      {% endfor %}
+
 
       <a href=" #top" class="back-to-top" name="back-to-top">↑</a>
     </p>
