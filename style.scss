@@ -475,20 +475,14 @@ img {
 
 .footer {
     font-size: 0.8em;
+    padding-bottom: 8px;
 
     .wrapper {
-        margin: 1em auto;
-        padding: 1em;
-        -webkit-box-sizing: content-box;
-        -moz-box-sizing: content-box;
-        box-sizing: content-box;
+        width: 860px;
+        margin: 0 auto;
 
-        p {
-            max-width: 85%;
-            a {
-                display: inline-block;
-                padding-right: 5px;
-            }
+        a {
+            padding-right: 5px;
         }
     }
 }
@@ -518,7 +512,7 @@ img {
 
 @media screen and (max-width: 1000px) {
     #wrapper {
-        margin: 3px;
+        margin: 2px;
         width: auto;
     }
 
@@ -531,6 +525,16 @@ img {
     .book-list .book-img {
         flex-shrink: 0;
         width: 72px;
+    }
+
+    .footer {
+        line-height: 30px;
+        padding-top: 10px;
+    }
+
+    .footer .wrapper {
+        margin: 0 20px;
+        width: auto;
     }
 
     .meta {
