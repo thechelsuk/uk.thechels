@@ -21,7 +21,8 @@
     --code: #c0deff;
     --tab: #b6b6b4;
     --alt-tab: #fffafa;
-    --trans: color 0.7s cubic-bezier(0.4, 0, 0.2, 1),
+    --trans:
+        color 0.7s cubic-bezier(0.4, 0, 0.2, 1),
         background 0.7s cubic-bezier(0.4, 0, 0.2, 1),
         background-color 0.7s cubic-bezier(0.4, 0, 0.2, 1),
         border-color 0.7s cubic-bezier(0.4, 0, 0.2, 1);
@@ -69,8 +70,16 @@ $accent: var(--accent);
 $code: var(--code);
 $tab: var(--tab);
 $alt-tab: var(--alt-tab);
-$font-stack: TheChelsLight, -system-ui, "Gill Sans", sans-serif;
-$header-stack: TheChelsMedium, -system-ui, "Gill Sans", sans-serif;
+$font-stack:
+    TheChelsLight,
+    -system-ui,
+    "Gill Sans",
+    sans-serif;
+$header-stack:
+    TheChelsMedium,
+    -system-ui,
+    "Gill Sans",
+    sans-serif;
 $font-mono: ui-monospace, monospace, "Courier New";
 
 html {
@@ -525,6 +534,11 @@ img {
         .wrapper {
             margin: 0 20px;
             width: auto;
+
+            p {
+                max-width: 75%;
+            }
+        }
     }
 
     .meta {
