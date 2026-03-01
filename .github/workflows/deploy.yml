@@ -2,6 +2,10 @@
 name: Build Jekyll and Deploy Pages
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Daily"]
+    types:
+      - completed
   push:
     branches:
       - main

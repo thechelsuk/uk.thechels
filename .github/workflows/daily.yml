@@ -51,3 +51,10 @@ jobs:
                   git config user.email "action@github.com"
                   git diff --quiet || (git add -A && git commit -m "New Daily Rundown")
                   git push
+    Deploy:
+        needs: Build
+        runs-on: ubuntu-latest
+        steps:
+            - name: Deploy to GitHub Pages
+              uses: ./.github/workflows/deploy.yml
+
