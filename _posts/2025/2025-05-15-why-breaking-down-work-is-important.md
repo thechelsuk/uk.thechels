@@ -16,6 +16,8 @@ cited: Probably Fine
 >
 > But why is this the case, and how might we do that? First, a definition.
 
+...
+
 > The team’s the thing
 > “Be ruthless with systems, be kind with people” - Michael Brooks
 >
