@@ -1,3 +1,8 @@
+---
+layout: empty
+permalink: /indieweb.txt
+---
+
 /* https://indieweb.org/indieweb.txt */
 
 /* Tools */
