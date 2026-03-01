@@ -521,11 +521,10 @@ img {
     .footer {
         line-height: 30px;
         padding-top: 10px;
-    }
 
-    .footer .wrapper {
-        margin: 0 20px;
-        width: auto;
+        .wrapper {
+            margin: 0 20px;
+            width: auto;
     }
 
     .meta {
