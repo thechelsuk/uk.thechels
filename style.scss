@@ -515,8 +515,9 @@ img {
 
 @media screen and (max-width: 1000px) {
     #wrapper {
-        margin: 2px;
+        margin: 1em auto;
         width: auto;
+        max-width:832px;
     }
 
     .book-list {
