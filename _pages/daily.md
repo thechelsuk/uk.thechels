@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-02-28
+date: 2026-03-01
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,21 +11,21 @@ date: 2026-02-28
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Saturday, 28 February 2026
+## On Sunday, 01 March 2026
 
-- The average temperature today is 9.12˚C,
-- With highs of 10.95˚C and lows of 8.71˚C,
-- It may feel like 6.24˚C with scattered clouds
-- The wind speed is 5.66m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 66%
-- The sun will rise at 06:56 and set at 17:45
+- The average temperature today is 8.44˚C,
+- With highs of 8.71˚C and lows of 7.94˚C,
+- It may feel like 7.57˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 90%
+- The sun will rise at 06:54 and set at 17:47
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 725 days since the last change (2024-03-05)
+- It has been 726 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -36,40 +36,33 @@ _Good Morning, Here is your daily briefing..._
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Be open to change.
+> Crossing the river by feeling the stones.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Crystal Palace U18 v West Ham United U18
-- Derby County U18 v Manchester City U18
-- Derby County v Blackburn Rovers
-- Leicester City v Norwich City
-- Portsmouth v Hull City
-- Leyton Orient v Barnsley
-- Northampton Town v Peterborough United
-- Cambridge United v MK Dons
-- Shrewsbury Town v Walsall
-- Swindon Town v Bristol Rovers
-- AFC Bournemouth v Sunderland
-- Morecambe v York City
-- Leeds United v Manchester City
+- Brighton & Hove Albion v Nottingham Forest
+- Fulham v Tottenham Hotspur
+- Manchester United v Crystal Palace
+- Liverpool U21 v Tottenham Hotspur U21
+- Arsenal v Chelsea
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 128.4499969482422
-- ^FTSE : 10910.599609375
-- ^FTMC : 23757.19921875
+- VWRL.L : 128.4499969482422 
+- ^FTSE : 10910.599609375 
+- ^FTMC : 23757.19921875 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Arsenal vs. Chelsea, Premier League: Preview, team news, how to watch
 - The Daily Hilario: Saturday
 - How should Chelsea line up against league-leaders Arsenal?
 - Chelsea FC Women appoint Phil Radley as new sporting director
@@ -79,7 +72,6 @@ _Good Morning, Here is your daily briefing..._
 - The Daily Hilario: Thursday
 - Chelsea to face either Newcastle United or PSG in Champions League Round of 16
 - The Daily Hilario: Wednesday
-- Dário Essugo spotted in training as Chelsea start preparations for Arsenal
 
 <!-- news_marker ends -->
 
@@ -87,14 +79,14 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- ftnews_marker starts -->
 
-- US and Israel launch ‘massive’ strikes on Iran as Trump calls for regime change
+- Iran’s supreme leader killed in air strikes
+- Trump tries to defy troubled history of US interventions in Middle East
+- Panic in the Gulf as Iran lashes out at US allies
+- Ayatollah Ali Khamenei, Iran’s supreme leader, 1939-2026
+- Netanyahu’s ‘biggest decision’: Israeli leader pursues regime change in Iran
+- Military briefing: The US-Israeli strikes and Iran’s retaliation
+- US not planning to tap strategic reserve as Iran war risks oil surge
 - How will strikes on Iran affect global energy flows?
-- A brief guide to Iran’s complex regime
-- Military briefing: What have the US and Israel hit and how is Iran responding?
-- Trump gambles on war to force Iran’s capitulation
-- Trump shifts from ‘no new wars’ to Iran regime change
-- Anthropic to sue Trump administration after AI lab is labelled security risk
-- DeepSeek to release long-awaited AI model in new challenge to US rivals
 
 <!-- ftnews_marker ends -->
 
@@ -109,33 +101,33 @@ _Good Morning, Here is your daily briefing..._
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Opportunity is missed by most people because it is dressed in overalls and looks like work - Thomas Edison
+> Every great product owner needs a great ScrumMaster. - Roman Pichler, Agile Trainer and Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Emphasize the flaws
+> Water
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Task (Rated: 8)
-- Released in 2011
-- Summary: A group of reality show contestants must survive the night in a haunted jail.
+- Hatchet (Rated: 4)
+- Released in 2006
+- Summary: When a group of tourists in a New Orleans haunted swamp tour find themselves stranded in the wilderness, their evening of fun and spooks turns into a horrific nightmare.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 246, using [2, 9, 10, 25, 50, 75]
-- Answer: 6 solutions.
+- Target: 528, using [5, 9, 25, 50, 75, 100]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 50 - 10 ) x 2 + 25 - 9
+  Solution: ( 100 - 9 ) x 5 + 75 - 50 / 25
 
    </details>
 
@@ -143,7 +135,7 @@ _Good Morning, Here is your daily briefing..._
 
 ### Blogroll links
 <!-- blogroll_marker starts -->
-- Monevator [URL](https://monevator.com/) [Feed](https://feeds.feedburner.com/monevatorcom)
-- Piccalilli (links) [URL](https://piccalil.li/) [Feed](https://piccalil.li/links.xml)
-- CJ Chilvers [URL](https://www.cjchilvers.com/) [Feed](http://cjchilvers.com/blog?format=rss)
+- A11y Weekly [URL](https://a11yweekly.com/) [Feed](https://a11yweekly.com/feed/)
+- Harry Cresswell [URL](https://harrycresswell.com/) [Feed](https://harrycresswell.com/feed.xml)
+- Luís Gonçalves [URL](https://luis-goncalves.com/) [Feed](https://luis-goncalves.com/blog/feed/)
 <!-- blogroll_marker ends -->
