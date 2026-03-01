@@ -71,7 +71,7 @@ navigation_data:
   - link: "/constraints"
     title: "Constraints"
   - link: "/sitemap"
-    title: "Sitemap"    
+    title: "Sitemap"
 ## SubMenu
 navigation_slashes:
   - link: "/ai"
@@ -89,7 +89,7 @@ navigation_slashes:
   - link: "/cv"
     title: "CV"
   - link: "/disability"
-    title: "Disability" 
+    title: "Disability"
   - link: "/green"
     title: "Green"
   - link: "/manual"
@@ -132,8 +132,6 @@ navigation_footer:
     title: "Privacy"
   - link: "/.well-known/security.txt"
     title: "Security"
-
-navigation_social:
   - link: "https://bsky.app/profile/thechels.uk"
     title: "Bluesky"
   - link: "https://mastodon.social/@Thechelsuk"
