@@ -13,3 +13,4 @@ _drafts/
 .coverage
 _pages/SBOM.md
 urls-only.txt
+htmlcov/
