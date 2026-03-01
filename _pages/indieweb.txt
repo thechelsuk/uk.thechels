@@ -21,3 +21,4 @@ permalink: /indieweb.txt
   - html-reference: <span style="color:#005ca3">thechelsuk</span>
   - contact:
     - email: indie@thechels.uk
+  - avatar: <https://thechels.uk/.well-known/avatar.png>
