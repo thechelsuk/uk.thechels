@@ -4,25 +4,22 @@
 <div class="footer">
   <div class="wrapper">
     <p>&copy; {{ site.time | date: '%Y' }}
-      {% if site.copyright %}
       {{ site.owner.name }}
-      {% else %}
-      {% endif %}
-      {% for item in site.navigation_footer %}
-      <a href="{{item.link}}">{{item.title}}</a>
-      {% endfor %}
-      {% unless page.url == "/" %}
-      <a href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md">MD</a>
-      {% endunless %}
-      <a href=" #top" class="back-to-top" name="back-to-top">↑</a>
+      Last Build: {{ {{ site.time | date: "%Y-%m-%d %H:%M:%S %z" | timeago }} }}
+      // {{ site.github.build_revision | slice: 0, 8 }}
+      <a href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md">[MD]</a>
     </p>
-    <p>
-      {% for item in site.navigation_social %}
-      <a href="{{item.link}}">{{item.title}}</a>
-      {% endfor %}
+
+
+    {% for item in site.navigation_footer %}
+    <a href="{{item.link}}">{{item.title}}</a>
+    {% endfor %}
+    {% unless page.url == "/" %}
+    {% endunless %}
+
+
+    <a href=" #top" class="back-to-top" name="back-to-top">↑</a>
     </p>
-    <p>Build: #{{ site.github.build_revision }}</p>
-    <p>Last Build: {{ site.time | timeago | depth: 3 }}</p>
   </div>
 </div>
 <script src="{{ site.baseurl }}/app.js"></script>
