@@ -8,6 +8,16 @@ cited: Probably Fine
 
 ---
 
+> This is a write-up of a talk I did for our tech team at work.
+>
+> As developers, our bread and butter is to get our software from its current state to some future state.
+> Working sustainably in small batches and performing regular releases is considered [industry best practice](https://en.wikipedia.org/wiki/DevOps_Research_and_Assessment#DORA_Four_Key_Metrics).
+> It reduces the risk of errors being introduced, makes delivery of work more predictable, and enables us to learn faster.
+>
+> But why is this the case, and how might we do that? First, a definition.
+
+...
+
 > The team’s the thing
 > “Be ruthless with systems, be kind with people” - Michael Brooks
 >

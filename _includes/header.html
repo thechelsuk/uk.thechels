@@ -27,7 +27,12 @@
     <meta name="format-detection" content="address=no">
     <meta name="HandheldFriendly" content="True">
     <meta name="theme-color" content="#005CA3">
-    <meta name="robots" content="index,follow">
+    <meta name="robots" content="{% if page.robots %}{{ page.robots }}{% else %}index,follow{% endif %}">
+    {% if page.canonical %}
+    <link rel="canonical" href="{{ page.canonical }}" />
+    {% else %}
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+    {% endif %}
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-touch-fullscreen" content="yes">
     <meta name="apple-mobile-web-app-title" content="Mat B">
@@ -42,16 +47,20 @@
     <link rel="stylesheet" media="print" href="/style_print.css">
     <link rel="manifest" href="/manifest.json" fetchpriority="low">
     <link rel="indieweb" href="/indieweb.txt" />
-    
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Main Feed xml" href="{{ site.url }}/feed.xml">
+
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Main Feed xml"
+      href="{{ site.url }}/feed.xml">
     <link rel="alternate" type="application/json" title="{{ site.title }} - Main json" href="{{ site.url }}/feed.json">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Daily Rundown" href="{{ site.url }}/daily.xml">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Posts only" href="{{ site.url }}/posts.xml">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Film Reviews" href="{{ site.url }}/films.xml">
-    
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Daily Rundown"
+      href="{{ site.url }}/daily.xml">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Posts only"
+      href="{{ site.url }}/posts.xml">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Film Reviews"
+      href="{{ site.url }}/films.xml">
+
     {% if page.layout == 'post' %}
-    <link href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md" type="text/markdown" rel="alternate"
-      title="Markdown">
+    <link href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md" type="text/markdown"
+      rel="alternate" title="Markdown">
     {% endif %}
     <link rel="icon" href="/images/splashscreens/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="/images/splashscreens/apple-touch-icon.png">
@@ -149,11 +158,8 @@
               {% endif %}</a> <sup class="asterisk" id="top" tabindex="0" title="Toggle light/dark mode">*</sup>
           </div>
           <div class="blog-image"></div>
-          <p class="blog-slogan"
-            {% assign slogans = site.data.slogans %}
-            {% assign random_index = "now" | date: "%s" | modulo: slogans.size %}
-            // {{ slogans[random_index] }}
-          </p>
+          <p class="blog-slogan" {% assign slogans=site.data.slogans %} {% assign random_index="now" | date: "%s" |
+            modulo: slogans.size %} // {{ slogans[random_index] }} </p>
           <nav class="blog-menu">
             {% if page.id %}
             <a href="{{ site.url }}" title="Back to all posts">&larr; Back</a>
