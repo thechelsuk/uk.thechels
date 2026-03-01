@@ -1,5 +1,5 @@
 ---
-name: Daily
+name: Daily Build and Deploy
 on:
     workflow_dispatch:
     schedule:
