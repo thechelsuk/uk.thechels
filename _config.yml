@@ -6,7 +6,7 @@ owner:
   name: thechelsuk
   email: "feedback@thechels.uk"
   uri: https://thechels.uk
-  avatar: "/images/splashscreens/apple-touch-icon-180x180.png"
+  avatar: "/.well-known/avatar.png"
 url: https://thechels.uk
 encoding: UTF-8
 future: false
