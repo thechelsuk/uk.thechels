@@ -6,6 +6,7 @@
     <p>&copy; {{ site.time | date: '%Y' }}
       {{ site.owner.name }}
       | Last Build: {{ site.github.build_revision | slice: 0, 12 }}
+      <a href=" #top" class="back-to-top" name="back-to-top">↑</a>
     </p>
     <p>
       {% unless page.url == "/" %}
@@ -14,7 +15,6 @@
       {% for item in site.navigation_footer %}
       <a href="{{item.link}}">{{item.title}}</a>
       {% endfor %}
-      <a href=" #top" class="back-to-top" name="back-to-top">↑</a>
     </p>
   </div>
 </div>
