@@ -7,7 +7,6 @@
       {{ site.owner.name }}
       | Last Build: {{ 'now' | date_to_xmlschema | timeago }}
       // {{ site.github.build_revision | slice: 0, 12 }}
-      <a href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md">[MD]</a>
     </p>
 
     <p>
@@ -15,6 +14,7 @@
       <a href="{{item.link}}">{{item.title}}</a>
       {% endfor %}
       {% unless page.url == "/" %}
+      <a href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md">MD</a>
       {% endunless %}
 
       <a href=" #top" class="back-to-top" name="back-to-top">↑</a>
