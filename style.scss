@@ -486,6 +486,10 @@ img {
 
         p {
             max-width: 90%;
+            a {
+                display: inline-block;
+                margin: 0 5px 0 0;
+            }
         }
     }
 }
@@ -528,20 +532,6 @@ img {
     .book-list .book-img {
         flex-shrink: 0;
         width: 72px;
-    }
-
-    .footer {
-        line-height: 30px;
-        padding-top: 10px;
-
-        .wrapper {
-            margin: 0 25px;
-            width: auto;
-
-            p {
-                max-width: 90%;
-            }
-        }
     }
 
     .meta {
