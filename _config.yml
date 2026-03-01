@@ -55,6 +55,8 @@ navigation_header:
     title: "Shop &#11084;"
 ## SubMenu
 navigation_data:
+  - link: "/daily"
+    title: "Daily Briefing"
   - link: "/feeds"
     title: "Feeds"
   - link: "/books"
