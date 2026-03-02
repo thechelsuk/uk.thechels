@@ -6,7 +6,7 @@ seo: my disabilities are ME/CFS and MCAS
 
 ---
 
-![/images/me-2025-02-1024.png](me)
+![me](/images/me-2025-02-1024.png){:center}
 
 I suffer from Myalgic Encephalomyelitis commonly known as ME or ME/CFS, and MCAS. 
 
