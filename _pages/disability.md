@@ -6,9 +6,11 @@ seo: my disabilities are ME/CFS and MCAS
 
 ---
 
+![/images/me-2025-02-1024.png](me)
+
 I suffer from Myalgic Encephalomyelitis commonly known as ME or ME/CFS, and MCAS. 
 
-Additionally I Protanopia and Deuteranopia (colorblindness) and Raynaud's syndrome.
+Additionally, I also have Protanopia and Deuteranopia (colorblindness) and suffer from Raynaud's syndrome.
 
 I am largely homebound and unable to work, physical activity is severly limited as well as cognitive exertion and stress excerbate symptoms.
 
