@@ -1,7 +1,9 @@
 ---
-layout: pages
+
+layout: directory
 permalink: /.well-known/change-password/
 title: Change Password
+
 ---
 
 
