@@ -4,16 +4,30 @@
 {% include img.html %}
 {{ content }}
 
-<hr/>
+<p><a href="/">← Back to site</a> or perhaps check out the 
+<a href="https://links.thechels.uk">Links</a></p>
+
+
+<h2>Data Summary</h2>
 
 <ul>
  <li>{{ site.data.blogroll | size }}</b> blog subscriptions.</li>
  <li>{{ site.data.podcasts | size }}</b> podcast subscriptions.</li>
  <li>{{ site.data.teams | size }}</b> teams seen live.</li>
- <li>{{ site.data.books | size }}</b> books in library.</li>
+ <li>{{ site.data.read | size }}</b> books in library.</li>
+ <li>{{ site.data.slogans | size }}</b> sub-headings.</li>
+ <li>{{ site.data.quotes | size }}</b> quotes stored.</li>
+ <li>{{ site.data.doctrine | size }}</b> doctrine stored.</li>
+ <li>{{ site.data.stocks | size }}</b> stocks monitored.</li>
+ <li>{{ site.data.constraints | size }}</b> constraint cards.</li> 
+ 
+ 
+ <li>{{ site.posts | size }}</b> posts written.</li>
+ <li>{{ site.pages | size }}</b> pages written.</li> 
+ <li>{{ site.data.offers | size }}</b> offers available.</li> 
  
  <li>{{ site.navigation_header | size }}</b> nav items.</li>
- <li>{{ site.navigation_dara | size }}</b> data links.</li>
+ <li>{{ site.navigation_data | size }}</b> data links.</li>
  <li>{{ site.navigation_slashes | size }}</b> page links.</li>
  
 </ul>

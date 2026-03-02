@@ -4,9 +4,8 @@ layout: directory
 canonical: https://thechels.uk/
 sitemap: false
 robots: noindex, nofollow
-title: Image Assets
+title: Font Assets
 
 ---
 
-This directory contains image and media assets.
-
+This directory contains font assets.
