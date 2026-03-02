@@ -10,7 +10,3 @@ title: Change Password
 Yeh, no. This is a problem. This website doesn't have any form of membership, login, authentication, nor backend.
 
 Take a break and put the kettle on, but seriously, no you cannot change a password you have never set.
-
-[← Back to site](/)
-
-Perhaps check out the [Links](https://links.thechels.uk)?
