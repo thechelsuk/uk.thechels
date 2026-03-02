@@ -12,11 +12,11 @@ I suffer from Myalgic Encephalomyelitis commonly known as ME or ME/CFS, and MCAS
 
 Additionally, I also have Protanopia and Deuteranopia (colorblindness) and suffer from Raynaud's syndrome.
 
-I am largely homebound and unable to work, physical activity is severly limited as well as cognitive exertion and stress excerbate symptoms.
+I am largely homebound and unable to work, physical activity is severly limited as well as cognitive exertion and stress excerbates the symptoms.
 
-I am sensitive to light and sound most of the time and suffer from a wide range of symptoms including palpatations, stabbing pains, neurological and nerve pain, overwhelming sense of feeling poisioned.
+I am sensitive to light and sound, most of the time and suffer from a wide range of symptoms including palpatations, stabbing pains, neurological and nerve pain, overwhelming sense of feeling poisoned.
 
-_Imagine the worst flu you've ever had and imagine that feeling for everyday of the rest of our life and that is what your new baseline or new normal is._
+_Imagine the worst flu you've ever had and imagine that feeling for everyday of the rest of our life and that is what your new baseline or new normal is. On most days you live in darkness_
 
 ## ME
 
