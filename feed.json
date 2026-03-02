@@ -1,5 +1,5 @@
 ---
-permalink: /feed.json
+permalink: /feed
 layout: empty
 ---
 {
@@ -26,7 +26,10 @@ layout: empty
                         {% assign diff = max | minus: min %}
                         {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
                         {% assign offer = site.data.offers[item] %}
-                        <hr/><p>Notes: Thanks for keeping RSS alive. If you have an RSS feed please send it my way.</p><p>Here is a special sponsor/advert link just for you; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a> [T&Cs apply].</p>]]>
+                                <hr/>
+          <sp>💬 Thanks for keeping RSS alive. If you have an RSS feed please share it on any of these <a href="https://links.thechels.uk">socials</a>.</p>
+          <p>If you get value from this site, please share this post with someone you think will like it and buy a <a href="https://ko-fi.com/thechelsuk">ko-fi</a>.</p>
+          <p>Finally, here is a special sponsor/advert link just for you; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a><br/>[T&Cs apply].</p>]]>
                       ",
       "date_published": "{{ post.date | date_to_rfc822 }}",
       "author": {
