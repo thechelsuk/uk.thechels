@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-03-01
+date: 2026-03-02
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,67 +11,65 @@ date: 2026-03-01
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Sunday, 01 March 2026
+## On Monday, 02 March 2026
 
-- The average temperature today is 8.44˚C,
-- With highs of 8.71˚C and lows of 7.94˚C,
-- It may feel like 7.57˚C with overcast clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 90%
-- The sun will rise at 06:54 and set at 17:47
+- The average temperature today is 9.55˚C,
+- With highs of 9.99˚C and lows of 8.49˚C,
+- It may feel like 6.16˚C with broken clouds
+- The wind speed is 7.72m/s and visibility is 10000m
+- The pressure is 1011hPa and humidity is 84%
+- The sun will rise at 06:52 and set at 17:48
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 726 days since the last change (2024-03-05)
+- It has been 727 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Crossing the river by feeling the stones.
+> Seek the best.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Brighton & Hove Albion v Nottingham Forest
-- Fulham v Tottenham Hotspur
-- Manchester United v Crystal Palace
-- Liverpool U21 v Tottenham Hotspur U21
-- Arsenal v Chelsea
+- Manchester United U21 v Chelsea U21
+- Birmingham City v Middlesbrough
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 128.4499969482422 
-- ^FTSE : 10910.599609375 
-- ^FTMC : 23757.19921875 
+- VWRL.L : 127.1500015258789 
+- ^FTSE : 10831.3896484375 
+- ^FTMC : 23389.359375 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- The Daily Hilario: Monday
+- Liam Rosenior ‘really disappointed’ as ‘set plays and discipline’ cost Chelsea yet again
+- Arsenal 2-1 Chelsea, Premier League: Post-match reaction, ratings
+- Arsenal vs. Chelsea, Premier League: Lineups &#038; Game Thread
+- Chelsea fans’ preferred lineup against Arsenal: Mamadou Sarr, step right up!
+- The Daily Hilario: Sunday
 - Arsenal vs. Chelsea, Premier League: Preview, team news, how to watch
 - The Daily Hilario: Saturday
 - How should Chelsea line up against league-leaders Arsenal?
 - Chelsea FC Women appoint Phil Radley as new sporting director
-- Chelsea drawn against PSG in Champions League Round of 16
-- The Daily Hilario: Friday
-- Chelsea fined more for West Ham player choking João Pedro
-- The Daily Hilario: Thursday
-- Chelsea to face either Newcastle United or PSG in Champions League Round of 16
-- The Daily Hilario: Wednesday
 
 <!-- news_marker ends -->
 
@@ -79,14 +77,14 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- ftnews_marker starts -->
 
-- Iran’s supreme leader killed in air strikes
-- Trump tries to defy troubled history of US interventions in Middle East
-- Panic in the Gulf as Iran lashes out at US allies
-- Ayatollah Ali Khamenei, Iran’s supreme leader, 1939-2026
-- Netanyahu’s ‘biggest decision’: Israeli leader pursues regime change in Iran
-- Military briefing: The US-Israeli strikes and Iran’s retaliation
-- US not planning to tap strategic reserve as Iran war risks oil surge
-- How will strikes on Iran affect global energy flows?
+- Israel targets Hizbollah as conflict widens across Middle East
+- Oil prices soar and stocks slide as Middle East conflict escalates
+- Trump’s epic gamble in the Middle East
+- In charts: how Donald Trump became a military interventionist
+- Military briefing: Iran’s new retaliation strategy
+- After Khamenei, who rules Iran?
+- Inside Tehran: an eerie quiet is punctuated by explosions and people fleeing
+- Air travel heavily disrupted following Iranian strikes
 
 <!-- ftnews_marker ends -->
 
@@ -94,40 +92,42 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > incubus - noun: 1. An oppressive burden. 2. A nightmare. 3. A male demon believed to have sex with sleeping women.
+ > incubous - adjective: Arranged so that each part overlaps the one above it (the reverse of how roof shingles are laid).
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Every great product owner needs a great ScrumMaster. - Roman Pichler, Agile Trainer and Author
+> As a software development consultant, I have never encountered a successful software company (although my sample size is limited) in which the team and project leaders were not technically savvy. - Jim Highsmith, Agile Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Water
+> Destroy
+-nothing
+-the most important thing
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Hatchet (Rated: 4)
-- Released in 2006
-- Summary: When a group of tourists in a New Orleans haunted swamp tour find themselves stranded in the wilderness, their evening of fun and spooks turns into a horrific nightmare.
+- Home Alone i (Rated: 2)
+- Released in 1990
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 528, using [5, 9, 25, 50, 75, 100]
-- Answer: 3 solutions.
+- Target: 620, using [3, 3, 5, 6, 50, 75]
+- Answer: 28 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 - 9 ) x 5 + 75 - 50 / 25
+  Solution: ( 75 + 50 - 6 / ( 3 + 3 ) ) x 5
 
    </details>
 
@@ -135,7 +135,7 @@ _Good Morning, Here is your daily briefing..._
 
 ### Blogroll links
 <!-- blogroll_marker starts -->
-- A11y Weekly [URL](https://a11yweekly.com/) [Feed](https://a11yweekly.com/feed/)
-- Harry Cresswell [URL](https://harrycresswell.com/) [Feed](https://harrycresswell.com/feed.xml)
-- Luís Gonçalves [URL](https://luis-goncalves.com/) [Feed](https://luis-goncalves.com/blog/feed/)
+- One Thing Well [URL](https://onethingwell.org/) [Feed](http://onethingwell.org/rss)
+- Will Larson [URL](https://lethain.com/) [Feed](https://lethain.com/feeds.xml)
+- Beard FM [URL](https://beard.fm/blog/) [Feed](https://beard.fm/blog?format=rss)
 <!-- blogroll_marker ends -->
