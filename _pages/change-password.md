@@ -3,8 +3,6 @@
 layout: directory
 permalink: /.well-known/change-password/
 title: Change Password
-sitemap: false
-robots: noindex, nofollow
 
 ---
 
