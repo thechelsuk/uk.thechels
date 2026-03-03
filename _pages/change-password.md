@@ -3,6 +3,7 @@
 layout: directory
 permalink: /.well-known/change-password/
 title: Change Password
+seo: The Change Password as a standard URI
 
 ---
 
