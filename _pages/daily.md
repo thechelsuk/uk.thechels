@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-03-02
+date: 2026-03-03
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,49 +11,73 @@ date: 2026-03-02
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Monday, 02 March 2026
+## On Tuesday, 03 March 2026
 
-- The average temperature today is 9.55˚C,
-- With highs of 9.99˚C and lows of 8.49˚C,
-- It may feel like 6.16˚C with broken clouds
-- The wind speed is 7.72m/s and visibility is 10000m
-- The pressure is 1011hPa and humidity is 84%
-- The sun will rise at 06:52 and set at 17:48
+- The average temperature today is 8.63˚C,
+- With highs of 9.43˚C and lows of 7.75˚C,
+- It may feel like 7.54˚C with broken clouds
+- The wind speed is 2.06m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 84%
+- The sun will rise at 06:50 and set at 17:50
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 727 days since the last change (2024-03-05)
+- It has been 728 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Seek the best.
+> Crossing the river by feeling the stones.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Manchester United U21 v Chelsea U21
-- Birmingham City v Middlesbrough
+- Leeds United U18 v Manchester City U18
+- Chelsea U18 v Fulham U18
+- Ukraine Women v England Women
+- AFC Bournemouth v Brentford
+- Everton v Burnley
+- Leeds United v Sunderland
+- Ipswich Town v Hull City
+- Barnsley v Wycombe Wanderers
+- Exeter City v Burton Albion
+- Chesterfield v Colchester United
+- Grimsby Town v Salford City
+- Newport County v Tranmere Rovers
+- Walsall v Fleetwood Town
+- Boreham Wood v York City
+- Boston United v Woking
+- Hartlepool United v Sutton United
+- Rochdale v Brackley Town
+- Southend United v Truro City
+- Wealdstone v Morecambe
+- Yeovil Town v Tamworth
+- Darlington v Macclesfield FC
+- Scarborough Athletic v Hereford
+- Maidstone United v Weston Super Mare
+- Doncaster Rovers v Stockport County
+- Wolves v Liverpool
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 127.1500015258789 
-- ^FTSE : 10831.3896484375 
-- ^FTMC : 23389.359375 
+- VWRL.L : 126.86000061035156 
+- ^FTSE : 10660.8701171875 
+- ^FTMC : 23143.869140625 
 
 <!-- stocks_marker ends -->
 
@@ -77,14 +101,14 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- ftnews_marker starts -->
 
-- Israel targets Hizbollah as conflict widens across Middle East
-- Oil prices soar and stocks slide as Middle East conflict escalates
-- Trump’s epic gamble in the Middle East
-- In charts: how Donald Trump became a military interventionist
-- Military briefing: Iran’s new retaliation strategy
-- After Khamenei, who rules Iran?
-- Inside Tehran: an eerie quiet is punctuated by explosions and people fleeing
-- Air travel heavily disrupted following Iranian strikes
+- Gas prices extend surge as market reels from Qatar shutdown
+- Trump struggles to explain why he launched another Middle Eastern war
+- Polymarket users won big with unusual bets on US attack on Iran
+- Iran executes Khamenei’s plan to spread regional war
+- Laura Loomer and the far-right ultra-hawks cheering on Trump in Iran
+- Inside the plan to kill Ali Khamenei
+- In charts: How serious is the Middle East gas price shock?
+- Lengthy Iran war could cause inflation ‘spike’, warns ECB’s top economist
 
 <!-- ftnews_marker ends -->
 
@@ -92,42 +116,40 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > incubous - adjective: Arranged so that each part overlaps the one above it (the reverse of how roof shingles are laid).
+ > morose - adjective: Gloomy, sullen, or sour-tempered.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> As a software development consultant, I have never encountered a successful software company (although my sample size is limited) in which the team and project leaders were not technically savvy. - Jim Highsmith, Agile Author
+> Simplicity is the ultimate sophistication - Leonardo Da Vinci
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Destroy
--nothing
--the most important thing
+> Do something boring
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Home Alone i (Rated: 2)
-- Released in 1990
-- Summary: No summary available
+- Saving Private Ryan (Rated: 3)
+- Released in 1998
+- Summary: Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose comrades have been killed in action.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 620, using [3, 3, 5, 6, 50, 75]
-- Answer: 28 solutions.
+- Target: 596, using [3, 3, 5, 7, 9, 25]
+- Answer: 6 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 50 - 6 / ( 3 + 3 ) ) x 5
+  Solution: ( 7 x 3 + 3 ) x 25 + 5 - 9
 
    </details>
 
@@ -135,7 +157,7 @@ _Good Morning, Here is your daily briefing..._
 
 ### Blogroll links
 <!-- blogroll_marker starts -->
-- One Thing Well [URL](https://onethingwell.org/) [Feed](http://onethingwell.org/rss)
-- Will Larson [URL](https://lethain.com/) [Feed](https://lethain.com/feeds.xml)
-- Beard FM [URL](https://beard.fm/blog/) [Feed](https://beard.fm/blog?format=rss)
+- Mike Cohn [URL](https://www.mountaingoatsoftware.com/blog/) [Feed](http://www.mountaingoatsoftware.com/blog/rss)
+- The Codist [URL](https://thecodist.com/) [Feed](http://feeds.feedburner.com/thecodist)
+- Cloudflare [URL](https://blog.cloudflare.com/) [Feed](https://blog.cloudflare.com/rss/)
 <!-- blogroll_marker ends -->
