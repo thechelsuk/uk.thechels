@@ -2,6 +2,6 @@
 layout: offers
 title: Savings and offers
 permalink: /save
-seo: Referrals, offers, bonuses, and free stuff
+seo: Referrals, offers, bonuses, and free stuff for me
 
 ---

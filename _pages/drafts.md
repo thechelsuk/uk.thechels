@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Drafts Actions
+title: Drafts Actions List
 permalink: /drafts
 seo: Drafts actions master list
 

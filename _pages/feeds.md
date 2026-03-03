@@ -2,7 +2,7 @@
 layout: pages
 title: Feeds & RSS
 permalink: /feeds
-seo: Subscribe to RSS
+seo: Subscribe to various JSON, RSS, and Data feeds
 
 ---
 
