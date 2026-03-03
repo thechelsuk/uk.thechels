@@ -1,8 +1,8 @@
 ---
 layout: pages
-title: AI
+title: Statement on AI Usage
 permalink: /ai 
-seo: Statement on AI
+seo: Statement on AI usage
 
 ---
 

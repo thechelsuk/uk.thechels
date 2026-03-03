@@ -1,8 +1,8 @@
 ---
 layout: pages
-title: now and next
+title: Now and Next
 permalink: /now
-seo: now and next
+seo: Page detailing what i am working on now and next
 
 ---
 
