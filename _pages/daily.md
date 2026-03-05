@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-03-04
+date: 2026-03-05
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,21 +11,21 @@ date: 2026-03-04
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Wednesday, 04 March 2026
+## On Thursday, 05 March 2026
 
-- The average temperature today is 6.04˚C,
-- With highs of 7.38˚C and lows of 5.39˚C,
-- It may feel like 3.13˚C with few clouds
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 88%
-- The sun will rise at 06:48 and set at 17:52
+- The average temperature today is 8.21˚C,
+- With highs of 8.71˚C and lows of 5.95˚C,
+- It may feel like 6.02˚C with scattered clouds
+- The wind speed is 3.58m/s and visibility is 8000m
+- The pressure is 1014hPa and humidity is 85%
+- The sun will rise at 06:45 and set at 17:54
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 729 days since the last change (2024-03-05)
+- It has been 730 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -36,34 +36,29 @@ _Good Morning, Here is your daily briefing..._
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Use appropriate tools.
+> Bias towards action.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Luton Town v Northampton Town
-- Aston Villa v Chelsea
-- Brighton & Hove Albion v Arsenal
-- Fulham v West Ham United
-- Manchester City v Nottingham Forest
-- Gateshead v Braintree Town
-- Newcastle United v Manchester United
+- Tottenham Hotspur v Crystal Palace
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 125.4000015258789 
-- ^FTSE : 10495.669921875 
-- ^FTMC : 22691.66015625 
+- VWRL.L : 126.5999984741211 
+- ^FTSE : 10547.73046875 
+- ^FTMC : 22839.5703125 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Aston Villa vs. Chelsea, Premier League: Preview, team news, how to watch
 - The Daily Hilario: Wednesday
 - How should Chelsea line up in massive top-five clash against Aston Villa?
 - The Daily Hilario: Tuesday
@@ -73,7 +68,6 @@ _Good Morning, Here is your daily briefing..._
 - Arsenal 2-1 Chelsea, Premier League: Post-match reaction, ratings
 - Arsenal vs. Chelsea, Premier League: Lineups &#038; Game Thread
 - Chelsea fans’ preferred lineup against Arsenal: Mamadou Sarr, step right up!
-- The Daily Hilario: Sunday
 
 <!-- news_marker ends -->
 
@@ -81,14 +75,14 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- ftnews_marker starts -->
 
-- Israel vows to kill next Iranian leader
-- Is this Hizbollah’s last stand?
-- Military briefing: how Iran could wage a new ‘tanker war’
-- The cynical opportunities of ‘Epic Fury’
-- China to lean on Russian oil as Iran crisis chokes supply
-- Gold and silver flows disrupted as Iran war grounds flights
-- Strait of Hormuz disruption threatens Middle East food imports
-- Vance takes low profile on Iran after resisting foreign wars
+- Pentagon eyes Ukrainian interceptor drones to counter Iran
+- Israel expects weeks-long war against Iran
+- Israel hits Iran and Lebanon on sixth day of conflict
+- How Sánchez became Trump’s nemesis in Europe
+- Iran attacks show the perils of following America’s economic lead
+- Gulf oil producers face race to resume exports before storage fills up
+- US in talks with Iranian Kurdish militants over anti-regime operations
+- Reform UK received second big donation from Thailand-based crypto investor
 
 <!-- ftnews_marker ends -->
 
@@ -96,40 +90,40 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > porose - adjective: Having pores.
+ > perfusion - noun: 1. The spreading of a liquid, color, light, aroma, etc. 2. The passage of a fluid through an organ or tissue, for example, to supply nutrients or oxygen.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The more they over think the plumbing, the easier it is to stop up the drain. - James Doohan, as Scotty in Star Trek III
+> Design and programming are human activities; forget that and all is lost. - Bjarne Stroustrup, Computer Scientist
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Make a blank valuable by putting it in an exquisite frame
+> (Organic) machinery
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Teeth (Rated: 3)
-- Released in 2007
-- Summary: Still a stranger to her own body, a high school student discovers she has a physical advantage when she becomes the object of male violence.
+- Memory (Rated: 3)
+- Released in 2022
+- Summary: An assassin-for-hire finds that he's become a target after he refuses to complete a job for a dangerous criminal organization.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 824, using [1, 5, 6, 10, 50, 100]
-- Answer: 6 solutions.
+- Target: 649, using [2, 3, 4, 6, 9, 10]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 x 50 - 10 x 5 ) / 6 - 1
+  Solution: ( 10 x 6 + 3 - 4 ) x ( 9 + 2 )
 
    </details>
 
@@ -137,7 +131,7 @@ _Good Morning, Here is your daily briefing..._
 
 ### Blogroll links
 <!-- blogroll_marker starts -->
-- Will Larson [URL](https://lethain.com/) [Feed](https://lethain.com/feeds.xml)
-- MacStories [URL](https://www.macstories.net/) [Feed](https://www.macstories.net/feed/)
-- Robb Owen [URL](http://robbowen.digital/) [Feed](https://robbowen.digital/feed.xml)
+- Jamie Thingelstad [URL](https://www.thingelstad.com/) [Feed](https://www.thingelstad.com/feed.json)
+- Everything Changes [URL](https://everythingchanges.us/) [Feed](https://everythingchanges.us/feed.json)
+- Amy Edmondson [URL](https://amycedmondson.com/) [Feed](https://amycedmondson.com/feed/)
 <!-- blogroll_marker ends -->
