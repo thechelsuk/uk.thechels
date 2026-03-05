@@ -158,7 +158,7 @@
               {% endif %}</a> <sup class="asterisk" id="top" tabindex="0" title="Toggle light/dark mode">*</sup>
           </div>
           <div class="blog-image"></div>
-          <p class="blog-slogan" {% assign slogans=site.data.slogans %} {% assign random_index="now" | date: "%s" |
+          <p class="blog-slogan"> {% assign slogans=site.data.slogans %} {% assign random_index="now" | date: "%s" |
             modulo: slogans.size %} // {{ slogans[random_index] }} </p>
           <nav class="blog-menu">
             {% if page.id %}
