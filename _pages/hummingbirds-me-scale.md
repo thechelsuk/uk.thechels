@@ -41,7 +41,7 @@ seo: The HFME 3 Part M.E. Ability and Severity Scale by Jodi Bassett
 | 90% | A high level of cognitive functioning is possible; around 90% of pre-illness level. Able to cope on a cognitive level with full-time study or work without difficulty and enjoy a full social life. |
 | **MILDLY AFFECTED** | |
 | 80% | A high level of cognitive functioning is possible, around 80 - 90%. Minimal restrictions apply for activities that demand a high standard of cognitive functioning. Unable to manage full-time study or work without difficulty in areas that place an excessive demand on a cognitive level. |
-| 70% | Cognitive functioning is at/or around 70 - 80%; a daily cognitive activity limit is clearly noted. Unable to work fulltime where high demands are made on a cognitive level, but can work full-time in less demanding jobs if hours are flexible. Some restrictions on social life. |
+| 70% | Cognitive functioning is at/or around 70 - 80%; a daily cognitive activity limit is clearly noted. Unable to work full-time where high demands are made on a cognitive level, but can work full-time in less demanding jobs if hours are flexible. Some restrictions on social life. |
 | **MODERATELY AFFECTED** | |
 | 60% | Cognitive functioning is at/or around 60% ; unable to perform tasks which are excessively demanding on a cognitive level, but can complete lighter activities for 5 – 7 hours a day although rest periods are required. Cognitive functioning degenerates significantly in a crowded, noisy or busy environment or with sustained and/or high level use. Social life may be moderately affected. |
 | 50% | Cognitive functioning is at/or around 40 -50%; unable to perform tasks which are excessively demanding on a cognitive level, but able to work part-time in lighter activities for 4 - 5 hours a day (or perhaps longer at a reduced quality level) if requirements for quiet and resting are met. Cognitive functioning degenerates significantly in a crowded, noisy or busy environment or with sustained and/or high level use. Social activities with environments that are quiet and not mentally challenging are possible. |
@@ -104,7 +104,7 @@ You can make charting your progress as simple or as complicated as you like:
 - **Detailed charting:** Have a chart that includes "good day" and "bad day" columns, and a notations section, and fill them in accordingly, as shown in the example below.
 
 | DATE: | GOOD DAY | BAD DAY | NOTATIONS: |
-|-------|----------|---------|------------|
+| ------- | ---------- | --------- | ------------ |
 | 10/10/2010 | 40% overall | | To have days this good I need to rest almost totally for weeks beforehand including avoiding all trips out of the house and any other serious exertions. |
 | 10/10/2010 | | 20% 20% 7/10 | |
 
