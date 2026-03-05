@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: The Hummingbirds' M.E. Ability Scale
-permalink: /hummingbirds-me-scale
+permalink: /hummingbirds-me-scale/
 seo: The HFME 3 Part M.E. Ability and Severity Scale by Jodi Bassett
 ---
 
