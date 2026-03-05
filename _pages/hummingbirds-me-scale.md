@@ -140,27 +140,26 @@ Increasing the activity levels of someone with M.E. beyond their individual limi
 
 The main characteristics of the pattern of symptom exacerbations, relapses and disease progression etc. in M.E. include:
 
-A. People with M.E. are unable to maintain their pre-illness activity levels. This is an acute (sudden) change. M.E. patients can only achieve 50%, or less, of their pre-illness activity levels.
+- A. People with M.E. are unable to maintain their pre-illness activity levels. This is an acute (sudden) change. M.E. patients can only achieve 50%, or less, of their pre-illness activity levels.
+- B. People with M.E. are limited in how physically active they can be but are also limited in similar way with; cognitive exertion, sensory input and orthostatic stress.
 
-B. People with M.E. are limited in how physically active they can be but are also limited in similar way with; cognitive exertion, sensory input and orthostatic stress.
+- C. When a person with M.E. is active beyond their individual (physical, cognitive, sensory or orthostatic) limits this causes a worsening of various neurological, cognitive, cardiac, cardiovascular, immunological, endocrinological, respiratory, hormonal, muscular, gastrointestinal and other symptoms.
 
-C. When a person with M.E. is active beyond their individual (physical, cognitive, sensory or orthostatic) limits this causes a worsening of various neurological, cognitive, cardiac, cardiovascular, immunological, endocrinological, respiratory, hormonal, muscular, gastrointestinal and other symptoms.
+- D. The level of physical activity, cognitive exertion, sensory input or orthostatic stress that is needed to cause a significant or severe worsening of symptoms varies from patient to patient, but is often trivial compared to a patient's pre-illness tolerances and abilities.
 
-D. The level of physical activity, cognitive exertion, sensory input or orthostatic stress that is needed to cause a significant or severe worsening of symptoms varies from patient to patient, but is often trivial compared to a patient's pre-illness tolerances and abilities.
+- E. The severity of M.E. waxes and wanes throughout the hour/day/week and month.
 
-E. The severity of M.E. waxes and wanes throughout the hour/day/week and month.
+- F. The worsening of the illness caused by overexertion often does not peak until 24 - 72 hours (or more) later.
 
-F. The worsening of the illness caused by overexertion often does not peak until 24 - 72 hours (or more) later.
+- G. The effects of overexertion can accumulate over longer periods of time and lead to disease progression, or death.
 
-G. The effects of overexertion can accumulate over longer periods of time and lead to disease progression, or death.
+- H. The activity limits of M.E. are not short term; an increase in activity levels beyond a patient's individual limits, even if gradual, can only cause relapse, disease progression or death.
 
-H. The activity limits of M.E. are not short term; an increase in activity levels beyond a patient's individual limits, even if gradual, can only cause relapse, disease progression or death.
+- I. The symptoms of M.E. do not resolve with rest. The symptoms and disability of M.E. are not caused only by overexertion; there is also a base level of illness which can be quite severe even at rest.
 
-I. The symptoms of M.E. do not resolve with rest. The symptoms and disability of M.E. are not caused only by overexertion; there is also a base level of illness which can be quite severe even at rest.
+- J. Repeated overexertion can harm the patient's chances for future improvement in M.E. Patients who are able to avoid overexertion have repeatedly been shown to have the most positive long-term prognosis.
 
-J. Repeated overexertion can harm the patient's chances for future improvement in M.E. Patients who are able to avoid overexertion have repeatedly been shown to have the most positive long-term prognosis.
-
-K. Not every M.E. sufferer has 'safe' activity limits within which they will not exacerbate their illness; this is not the case for very severely affected patients.
+- K. Not every M.E. sufferer has 'safe' activity limits within which they will not exacerbate their illness; this is not the case for very severely affected patients.
 
 **Sensory input:** This includes light, noise, movement, motion, vibration, odour and touch.
 
