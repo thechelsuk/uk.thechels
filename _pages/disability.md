@@ -72,8 +72,7 @@ There is a blood test, although often inconclusive and can frequently be a false
 - [Me Association](https://meassociation.org.uk)
 - [BACME - British Association of Clinicians in ME/CFS](https://bacme.info)
 - [Action for ME](https://www.actionforme.org.uk)
-- [ME - Wikipedia](https://en.wikipedia.org/wiki/
-Myalgic_encephalomyelitis/chronic_fatigue_syndrome)
+- [ME - Wikipedia](https://en.wikipedia.org/wiki/Myalgic_encephalomyelitis/chronic_fatigue_syndrome)
 - [CDC (US) Diagnostic Criteria](https://www.cdc.gov/me-cfs/hcp/diagnosis/iom-2015-diagnostic-criteria-1.html)
 - [NICE (UK) Diagnostic Criteria](https://www.nice.org.uk/guidance/ng206/chapter/1-Recommendations#diagnosis)
 - [Hummingbird's ME Scale](/hummingbirds-me-scale/)
