@@ -14,9 +14,9 @@ Additionally, I also have Protanopia and Deuteranopia (colourblindness) and suff
 
 I am largely homebound and unable to work, physical activity is severely limited as well as cognitive exertion and stress exacerbates the symptoms.
 
-I am sensitive to light and sound, most of the time and suffer from a wide range of symptoms including palpitations, stabbing pains, neurological and nerve pain, overwhelming sense of feeling poisoned.
+I am sensitive to light and sound, most of the time and suffer from a wide range of symptoms including palpitations, stabbing pains, neurological and nerve pain, overwhelming sense of dread, malaise, and feeling poisoned.
 
-_Imagine the worst flu you've ever had and imagine that feeling for everyday of the rest of our life and that is what your new baseline or new normal is. On most days you live in darkness..._
+_Imagine the worst flu you've ever had and imagine that feeling for everyday of the rest of our life and that is what your new baseline or new normal is. On most days you live in darkness and alone having given up any form of exercise, social activities, or going to any public places when doing any activity out of neccessity it feels like you have run a marathon whilst not being able to remember the word for box, or sea..._
 
 ## ME
 
@@ -28,9 +28,9 @@ _A recent study showed as many as 51% of Long Covid sufferers meet the diagnosti
 
 It can cause many different symptoms, which can be triggered or worsened by any kind of effort or activity.
 
-### MESymptoms
+### ME Symptoms
 
-Symptoms vary by individual, can change over time, and can vary in severity making management incredibly difficult.
+Symptoms vary by individual, can change over time, and can fluctuate in severity making management incredibly difficult.
 
 The 4 key symptoms are:
 
@@ -39,13 +39,17 @@ The 4 key symptoms are:
 - Overwhelming fatigue - including flu-like malaise, chronic pain, headaches, nausea, digestive problems, and sensitivity to light, sound and other stimuli.
 - Cognitive disturbance; commonly known as brain fog, whereby finding the right words, or remembering, or understanding is impaired.
 
+_If you see me and think I am doing well and must therefore be faking being ill, it is infact, that I am faking being well and will with out doubt spending several days being worse for it._ 
+
 ### ME Treatment
 
 ME/CFS has no effective drug treatment and full recovery is rare. It is criminally under-researched, understood and diagnosis and medical support is difficult due to a history of misleading and poor quality studies by face-saving psychologists who still perceive ME as a psychological or hysteria issue.
 
+UK funding for MS is about 6:1 
+
 Modern research has shown a physical and multi-system disease and more research is beginning go take place.
 
-### Diagnosis and co-morbidities
+### ME Diagnosis and co-morbidities
 
 Symptoms overlap with many other treatable illnesses so seek support from health care professionals
 
