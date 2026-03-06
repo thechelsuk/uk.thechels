@@ -45,7 +45,7 @@ _If you see me and think I am doing well and must therefore be faking being ill,
 
 ME/CFS has no effective drug treatment and full recovery is rare. It is criminally under-researched, understood and diagnosis and medical support is difficult due to a history of misleading and poor quality studies by face-saving psychologists who still perceive ME as a psychological or hysteria issue.
 
-UK funding for MS is about 6:1 
+_The ratios of the prevelance of ME to Multiple Scheloris (MS) is 3:1 but the funding is 1:10, whilst many identify ME as having a quality of life worse than cancer._
 
 Modern research has shown a physical and multi-system disease and more research is beginning go take place.
 
