@@ -1,6 +1,6 @@
 ---
 layout: empty
-permalink: /feed
+permalink: /rss.xml
 ---
 <?xml version="1.0" encoding="utf-8"?>
 {% assign pub_date = site.time | date: "%Y-%m-%dT%H:%M:%SZ" %}
