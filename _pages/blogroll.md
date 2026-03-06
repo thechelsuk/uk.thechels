@@ -1,6 +1,6 @@
 ---
 layout: blogroll
-title: Blogroll
+title: Blogroll - Favourite Websites and Blogs
 permalink: /blogroll
 seo: My favourite blogs
 

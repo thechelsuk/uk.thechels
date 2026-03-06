@@ -2,7 +2,7 @@
 layout: default
 title: App Privacy - Mobile Application Privacy Policy
 permalink: /app-privacy
-seo: TheChels UK Mobile App Privacy Policy
+seo: thechelsuk Mobile Apps Privacy Policy
 ---
 
 **Last updated:** _June 9, 2025_

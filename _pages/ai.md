@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Statement on AI Usage
+title: AI - Statement on Usage
 permalink: /ai 
 seo: Statement on AI usage
 

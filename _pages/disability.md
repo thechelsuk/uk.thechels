@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Disability
+title: My Disabilities explained
 permalink: /disability
 seo: my disabilities are ME/CFS and MCAS
 
