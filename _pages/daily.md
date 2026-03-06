@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-03-05
+date: 2026-03-06
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,63 +11,68 @@ date: 2026-03-05
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Thursday, 05 March 2026
+## On Friday, 06 March 2026
 
-- The average temperature today is 8.21˚C,
-- With highs of 8.71˚C and lows of 5.95˚C,
-- It may feel like 6.02˚C with scattered clouds
-- The wind speed is 3.58m/s and visibility is 8000m
-- The pressure is 1014hPa and humidity is 85%
-- The sun will rise at 06:45 and set at 17:54
+- The average temperature today is 6.55˚C,
+- With highs of 6.55˚C and lows of 6.55˚C,
+- It may feel like 3.21˚C with overcast clouds
+- The wind speed is 5.14m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 88%
+- The sun will rise at 06:43 and set at 17:56
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 730 days since the last change (2024-03-05)
+- It has been 731 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Farmers Market in town
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Bias towards action.
+> Inspire others
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Tottenham Hotspur v Crystal Palace
+- Aston Villa U21 v Manchester City U21
+- Norwich City U21 v Arsenal U21
+- Tottenham Hotspur U21 v Middlesbrough U21
+- Preston North End v Oxford United
+- Wolves v Liverpool
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 126.5999984741211 
-- ^FTSE : 10547.73046875 
-- ^FTMC : 22839.5703125 
+- VWRL.L : 126.16999816894531 
+- ^FTSE : 10430.650390625 
+- ^FTMC : 22771.2890625 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- The Daily Hilario: Friday
+- João Pedro just living the Chelsea dream with his first Premier League hat-trick
+- Robert Sánchez, Filip Jörgensen ‘fighting it out’ for Chelsea starting goalkeeper spot
+- Liam Rosenior ‘very proud’ of ‘outstanding team performance’ by Chelsea against Aston Villa
+- The Daily Hilario: Thursday
+- Aston Villa 1-4 Chelsea, Premier League: Post-match reaction, ratings
+- Aston Villa vs. Chelsea, Premier League: Lineups &#038; Game Thread
+- Chelsea fans’ preferred lineup against Aston Villa: Let’s try again
 - Aston Villa vs. Chelsea, Premier League: Preview, team news, how to watch
 - The Daily Hilario: Wednesday
-- How should Chelsea line up in massive top-five clash against Aston Villa?
-- The Daily Hilario: Tuesday
-- Arsenal 2-1 Chelsea, Player Ratings: Some good, a lot bad
-- The Daily Hilario: Monday
-- Liam Rosenior ‘really disappointed’ as ‘set plays and discipline’ cost Chelsea yet again
-- Arsenal 2-1 Chelsea, Premier League: Post-match reaction, ratings
-- Arsenal vs. Chelsea, Premier League: Lineups &#038; Game Thread
-- Chelsea fans’ preferred lineup against Arsenal: Mamadou Sarr, step right up!
 
 <!-- news_marker ends -->
 
@@ -75,14 +80,14 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- ftnews_marker starts -->
 
-- Pentagon eyes Ukrainian interceptor drones to counter Iran
-- Israel expects weeks-long war against Iran
-- Israel hits Iran and Lebanon on sixth day of conflict
-- How Sánchez became Trump’s nemesis in Europe
-- Iran attacks show the perils of following America’s economic lead
-- Gulf oil producers face race to resume exports before storage fills up
-- US in talks with Iranian Kurdish militants over anti-regime operations
-- Reform UK received second big donation from Thailand-based crypto investor
+- Israel targets Beirut and Tehran in broad wave of strikes
+- Gulf states could review overseas investments to ease Iran war strains
+- Can the Gulf still act as an airline hub for the world?
+- The vulnerable Gulf energy assets putting the world on edge
+- The billionaire ‘buccaneer’ braving the Strait of Hormuz
+- Why Trump won’t clean up his own mess
+- Reprieve for India as US eases sanctions on buying Russian oil
+- Trump says he must be ‘involved’ in choosing Iran’s next leader
 
 <!-- ftnews_marker ends -->
 
@@ -90,48 +95,41 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > perfusion - noun: 1. The spreading of a liquid, color, light, aroma, etc. 2. The passage of a fluid through an organ or tissue, for example, to supply nutrients or oxygen.
+ > profusion - noun: 1. Extravagance. 2. A large quantity or abundance.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> Design and programming are human activities; forget that and all is lost. - Bjarne Stroustrup, Computer Scientist
+> A genuine leader is not a searcher for consensus but a molder of consensus. - Martin Luther King Jr.
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> (Organic) machinery
+> Discover the recipes you are using and abandon them
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Memory (Rated: 3)
-- Released in 2022
-- Summary: An assassin-for-hire finds that he's become a target after he refuses to complete a job for a dangerous criminal organization.
+- Errementari (Rated: 3)
+- Released in 2017
+- Summary: A quiet village is thrown into turmoil upon disturbing a reclusive and feared blacksmith rumored to be in league with the devil.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 649, using [2, 3, 4, 6, 9, 10]
-- Answer: 3 solutions.
-
-- <details><summary><code>Solution</code></summary>
-
-  Solution: ( 10 x 6 + 3 - 4 ) x ( 9 + 2 )
-
-   </details>
+- Target: 872, using [1, 1, 1, 9, 50, 100]
 
 <!-- game_marker ends -->
 
 ### Blogroll links
 <!-- blogroll_marker starts -->
-- Jamie Thingelstad [URL](https://www.thingelstad.com/) [Feed](https://www.thingelstad.com/feed.json)
-- Everything Changes [URL](https://everythingchanges.us/) [Feed](https://everythingchanges.us/feed.json)
-- Amy Edmondson [URL](https://amycedmondson.com/) [Feed](https://amycedmondson.com/feed/)
+- Stephen Hackett 512 Pixels [URL](https://512pixels.net/) [Feed](http://feeds2.feedburner.com/forkbombr/rss2)
+- Inessential.com [URL](https://inessential.com/) [Feed](http://inessential.com/xml/rss.xml)
+- CodeGood [URL](https://codegood.co/) [Feed](https://codegood.co/feed.xml)
 <!-- blogroll_marker ends -->
