@@ -121,9 +121,11 @@ navigation_slashes:
 ## Footer links
 navigation_footer:
   - link: "/feed"
-    title: "RSS Feed"
+    title: "RSS Main Feed"
   - link: "/feed.json"
     title: "JSON Feed"
+  - link: /rss.xml"
+    title: "RSS only Feed"
   - link: "/humans.txt"
     title: "Humans"
   - link: "/robots.txt"
