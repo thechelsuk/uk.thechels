@@ -47,7 +47,7 @@ ME/CFS has no effective drug treatment and full recovery is rare. It is criminal
 
 _The ratios of the prevelance of ME to Multiple Scheloris (MS) is 3:1 but the funding is 1:10, whilst many identify ME as having a quality of life worse than cancer._
 
-Modern research has shown a physical and multi-system disease and more research is beginning go take place.
+Modern research has shown genetic markers evidencing a physical and multi-system disease and more research is beginning to take place.
 
 ### ME Diagnosis and co-morbidities
 
