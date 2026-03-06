@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Now and Next
+title: What I am Doing Now and Next
 permalink: /now
 seo: Page detailing what i am working on now and next
 

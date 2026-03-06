@@ -2,7 +2,7 @@
 layout: pages
 title: My Operating Manual
 permalink: /manual
-seo: Operating Manual of Mat-0
+seo: Operating Manual of thechelsuk
 
 ---
 
