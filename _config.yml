@@ -18,6 +18,9 @@ sass:
 plugins:
   - jekyll-avatar
   - jekyll-github-metadata
+collections:
+  rss:
+    output: false
 exclude:
   - CNAME
   - README.md
