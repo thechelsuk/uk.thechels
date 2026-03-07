@@ -15,6 +15,11 @@ github:
   branch: main
 sass:
   style: compressed
+webmentions:
+  username: thechels.uk
+  cache_folder: .cache
+  cache_bad_uris_for: 5
+  js: false
 plugins:
   - jekyll-avatar
   - jekyll-github-metadata

@@ -18,6 +18,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap", "~> 1.4"
   gem "jekyll-avatar", "~> 0.8.0"
   gem "jekyll-github-metadata", "2.16.1"
+  gem "jekyll-webmention_io", "~> 4.1.0"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
