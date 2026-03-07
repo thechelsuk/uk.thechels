@@ -243,7 +243,13 @@ main:focus {
     display: block;
     float: right;
     margin-right: 0;
-    display: block;
+    font-size: 12px;
+}
+
+.webmentions {
+    color: $secondary;
+    display: inline-block;
+    margin-right: 0;
     font-size: 12px;
 }
 
@@ -547,7 +553,8 @@ img {
         width: auto;
     }
 
-    .meta {
+    .meta,
+    .webmentions {
         display: block;
         float: none;
         margin-left: 0;

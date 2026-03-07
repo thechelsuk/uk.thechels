@@ -11,8 +11,14 @@
 
   {% if page.id %}
   <p class="meta">
-    // Published {{ page.date | date: "%-d %B %Y" }}, with {{ page.content | number_of_words }} words.
+    // Published: {{ page.date | date: "%-d %B %Y" }}, with {{ page.content | number_of_words }} words. {%
+    webmention_count page.url %} mentions.
   </p>
+
+  <p class="webmentions">
+    {% webmentions page.url %}
+  </p>
+
   {% endif %}
 </article>
 {% include footer.html %}
