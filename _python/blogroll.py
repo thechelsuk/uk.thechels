@@ -6,5 +6,8 @@ if __name__ == "__main__":
     OF = root / "_pages/daily.md"
     IF = "./_data/blogroll.yml"
     KEY = "blogroll_marker"
-    string = helper.FileProcessorPicksRandomObjects(OF=OF, IF=IF, KEY=KEY, count=3)
+    string = helper.FileProcessorPicksRandomObjects(OF=OF,
+                                                    IF=IF,
+                                                    KEY=KEY,
+                                                    count=3)
     print(string)

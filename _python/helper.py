@@ -384,7 +384,6 @@ def read_yaml_objects(file_path):
     return data
 
 
-
 # Picks N random objects from a YAML file and writes markdown output to a file using a marker, similar to FileProcessorPicksRandomItem
 def FileProcessorPicksRandomObjects(OF, IF, KEY, count=3) -> str:
     """
