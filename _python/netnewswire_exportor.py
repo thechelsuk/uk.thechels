@@ -69,7 +69,7 @@ def main():
         frontmatter = (
             '---\n'
             f'title: "RSS Favourites Digest: {month_year}"\n'
-            f'date: {now.strftime('%Y-%m-%d')}\n'
+            f"date: {now.strftime('%Y-%m-%d')}\n"
             'layout: post\n'
             'categories: [digest, netnewswire]\n'
             '---\n\n'
