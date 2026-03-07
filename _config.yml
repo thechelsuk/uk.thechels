@@ -23,6 +23,7 @@ webmentions:
 plugins:
   - jekyll-avatar
   - jekyll-github-metadata
+  - jekyll-webmention_io
 collections:
   rss:
     output: false
@@ -129,7 +130,7 @@ navigation_footer:
     title: "RSS Main Feed"
   - link: "/feed.json"
     title: "JSON Feed"
-  - link: /rss.xml"
+  - link: "/rss.xml"
     title: "RSS only Feed"
   - link: "/humans.txt"
     title: "Humans"
@@ -139,6 +140,7 @@ navigation_footer:
     title: "LLMs"
   - link: "/sitemap.xml"
     title: "Sitemap"
+
   - link: "/.well-known/privacy.txt"
     title: "Privacy"
   - link: "/.well-known/change-password/"
