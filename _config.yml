@@ -20,6 +20,24 @@ webmentions:
   cache_folder: .cache
   cache_bad_uris_for: 5
   js: false
+  throttle_lookups:
+    last_week: daily
+    last_month: daily
+    last_year: monthly
+    older: monthly
+  syndication:
+    mastodon:
+      endpoint: https://brid.gy/publish/mastodon
+    bluesky:
+      endpoint: https://brid.gy/publish/bluesky
+    reddit:
+      endpoint: https://brid.gy/publish/reddit
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      syndicate_to: [mastodon, bluesky, reddit]
 plugins:
   - jekyll-avatar
   - jekyll-github-metadata
