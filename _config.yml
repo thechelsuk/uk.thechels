@@ -22,7 +22,7 @@ webmentions:
   js: false
   throttle_lookups:
     last_week: daily
-    last_month: daily
+    last_month: weekly
     last_year: monthly
     older: monthly
   syndication:
