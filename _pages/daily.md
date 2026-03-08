@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-03-07
+date: 2026-03-08
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,53 +11,43 @@ date: 2026-03-07
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Saturday, 07 March 2026
+## On Sunday, 08 March 2026
 
-- The average temperature today is 6.23˚C,
-- With highs of 6.23˚C and lows of 6.23˚C,
-- It may feel like 6.23˚C with overcast clouds
-- The wind speed is 1.29m/s and visibility is 10000m
-- The pressure is 1025hPa and humidity is 91%
-- The sun will rise at 06:41 and set at 17:57
+- The average temperature today is 8.06˚C,
+- With highs of 8.88˚C and lows of 7.61˚C,
+- It may feel like 6.4˚C with overcast clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 94%
+- The sun will rise at 06:39 and set at 17:59
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 732 days since the last change (2024-03-05)
+- It has been 733 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Water the plants
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Exploit the landscape.
+> Set exceptional standards.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Liverpool U18 v Manchester City U18
-- Chelsea U18 v West Brom U18
-- Manchester United U18 v Nottingham Forest U18
-- Mansfield Town v Arsenal
-- Blackburn Rovers v Portsmouth
-- Hull City v Millwall
-- England Women v Iceland Women
-- Cardiff City v Lincoln City
-- Huddersfield Town v Rotherham United
-- Grimsby Town v Bromley
-- Salford City v Barnet
-- Boreham Wood v Brackley Town
-- Carlisle United v Southend United
-- Wrexham v Chelsea
-- Newcastle United v Manchester City
+- Fulham v Southampton
+- AFC Wimbledon v Northampton Town
+- Port Vale v Sunderland
+- Liverpool U21 v Wolves U21
+- QPR v Middlesbrough
+- Leeds United v Norwich City
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -73,16 +63,16 @@ _Good Morning, Here is your daily briefing..._
 ### Team News
 <!-- news_marker starts -->
 
+- Liam Rosenior: ‘We were pushed all the way by very good team’
+- Wrexham 2-4 Chelsea, FA Cup: Post-match reaction, ratings
+- Wrexham vs. Chelsea, FA Cup: Lineups &#038; Game Thread
+- Chelsea fans’ preferred lineup against Wrexham: Rotate ‘em all!
 - The Daily Hilario: Saturday
 - Wrexham vs. Chelsea, FA Cup: Preview, team news, how to watch
 - How should Chelsea line up against Wrexham in the FA Cup?
 - Aston Villa 1-4 Chelsea, Player Ratings: Teamwork makes the dream work
 - The Daily Hilario: Friday
 - João Pedro just living the Chelsea dream with his first Premier League hat-trick
-- Robert Sánchez, Filip Jörgensen ‘fighting it out’ for Chelsea starting goalkeeper spot
-- Liam Rosenior ‘very proud’ of ‘outstanding team performance’ by Chelsea against Aston Villa
-- The Daily Hilario: Thursday
-- Aston Villa 1-4 Chelsea, Premier League: Post-match reaction, ratings
 
 <!-- news_marker ends -->
 
@@ -90,14 +80,14 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- ftnews_marker starts -->
 
-- Middle East war live: Iran calls halt to attacks on neighbours as Israel strikes more targets
-- Oil hits highest level since 2023 as Iran war triggers historic surge
-- Investors are not ready for a true shock
-- Trump’s war on Iran is spreading. Where does it stop?
-- The war of unintended consequences
-- We’ll always have Dubai
-- US draws up strict new AI guidelines amid Anthropic clash
-- UK lenders raise mortgage rates amid warnings over inflation and energy prices
+- Israel expands attacks to Iranian oil storage facilities
+- Gulf businesses buy up political violence insurance as conflict spreads
+- Iran warns it will hit US bases across region hours after president’s apology
+- ‘Most dangerous job on earth’: the life of an Iranian ballistic missile crew
+- America chose this war — and must now choose how to end it
+- The bombing of Tehran — in maps and satellite images
+- Samsung seeks AI deals to challenge Apple’s smartphone lead
+- US faced with few good options to tamp down surging oil prices
 
 <!-- ftnews_marker ends -->
 
@@ -112,33 +102,35 @@ _Good Morning, Here is your daily briefing..._
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The very essence of leadership is that you have to have vision. You cannot blow an uncertain trumpet. - Theodore M. Hesburgh
+> It seems that perfection is reached not when there is nothing left to add, but when there is nothing left to take away. - Antoine de Saint-Exupéry, Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Give the game away
+> Destroy
+-nothing
+-the most important thing
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Monsters Vs Aliens (Rated: 7)
-- Released in 2009
-- Summary: On Halloween, innocent-looking carved pumpkins reveal themselves for what they really are -- mutant aliens.
+- Robert the Bruce (Rated: 3)
+- Released in 2019
+- Summary: The story of the nobleman-turned-outlaw hero who was crowned king of Scots in the 14th century.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 987, using [2, 4, 5, 25, 50, 75]
-- Answer: 5 solutions.
+- Target: 805, using [2, 4, 7, 9, 10, 50]
+- Answer: 16 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 x 25 + 4 - 5 ) / 2 + 50
+  Solution: ( 10 x 4 + 50 ) x 9 + 2 - 7
 
    </details>
 
@@ -146,7 +138,7 @@ _Good Morning, Here is your daily briefing..._
 
 ### Blogroll links
 <!-- blogroll_marker starts -->
-- Matt Birchtree [URL](https://birchtree.me/) [Feed](https://birchtree.me/rss/)
-- Emily Webber [URL](https://emilywebber.co.uk/) [Feed](http://emilywebber.co.uk/feed/)
-- Salma Alam-Naylor [URL](https://whitep4nth3r.com/) [Feed](https://whitep4nth3r.com/feed.xml)
+- Aaron Randall [URL](https://aaronrandall.com/) [Feed](https://aaronrandall.com/feed/)
+- Farnham Street [URL](https://fs.blog/) [Feed](https://www.farnamstreetblog.com/feed/)
+- Information is Beautiful [URL](https://informationisbeautiful.net/) [Feed](http://feeds.feedburner.com/InformationIsBeautiful)
 <!-- blogroll_marker ends -->
