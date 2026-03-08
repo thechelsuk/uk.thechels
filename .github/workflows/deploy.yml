@@ -29,6 +29,10 @@ jobs:
       - name: Build Jekyll site
         run: bundle exec jekyll build
 
+      - name: Send webmentions to Brid.gy
+        run: bundle exec jekyll webmention
+        continue-on-error: true
+
       - name: Copy markdown source files
         run: |
           # Copy post markdown files to _site
