@@ -1,7 +1,7 @@
 {% include header.html %}
 <article class="h-entry">
   <h1 class="p-name post-title">{{ page.title }}</h1>
-  
+
   <div class="e-content">
     {{ content }}
 
@@ -14,7 +14,9 @@
 
   {% if page.id %}
   <p class="meta">
-    // Published: <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>, with {{ page.content | number_of_words }} words. {%
+    // Published: <time class="dt-published"
+      datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>, with
+    {{ page.content | number_of_words }} words. {%
     webmention_count page.url %} mentions.
   </p>
 
