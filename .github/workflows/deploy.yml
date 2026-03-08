@@ -35,7 +35,9 @@ jobs:
           bundler-cache: true
 
       - name: Build Jekyll site
-        run: bundle exec jekyll build
+        run: |
+          printf 'webmentions:\n  pause_lookups: true\n' > /tmp/deploy_config.yml
+          bundle exec jekyll build --config _config.yml,/tmp/deploy_config.yml
 
       - name: Send webmentions to Brid.gy
         run: bundle exec jekyll webmention

@@ -2959,6 +2959,6 @@ https://thechels.uk/osint-tools:
   https://www.operationprivacy.com: true
   https://shop.thechels.uk/l/reddit-delete: true
 https://thechels.uk/the-web-is-bearable-with-rss:
-  https://brid.gy/publish/mastodon: true
-  https://brid.gy/publish/bluesky: true
-  https://brid.gy/publish/reddit: true
+  https://brid.gy/publish/mastodon: false
+  https://brid.gy/publish/bluesky: false
+  https://brid.gy/publish/reddit: false
