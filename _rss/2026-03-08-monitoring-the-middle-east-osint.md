@@ -12,7 +12,7 @@ A few resources for monitoring the situation in the Middle East, using open sour
 Live Cams
 
 - [wwlivecams](https://twitch.tv/wwlivecams)
-- [Intel cams | OSINT](https://www.youtube.com/watch?v=4E-iFtUM2kk)
+- [Intel cams - OSINT](https://www.youtube.com/watch?v=4E-iFtUM2kk)
 
 Mapping
 
