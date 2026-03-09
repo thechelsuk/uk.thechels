@@ -481,14 +481,14 @@ table {
 }
 
 .back-to-top {
-    font-size: 2em;
+    font-size: 3em;
     position: fixed;
     inset: auto 1em 1em auto;
     display: inline-block;
-    padding: 1rem;
+    padding: 2em;
     background-color: $background;
     border-radius: 0.5em;
-    border: 1px solid $alt-tab;
+    border: 1px solid $secondary;
 }
 
 .back-to-top:is(:link, :visited, :hover, :active) {
