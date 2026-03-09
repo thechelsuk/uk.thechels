@@ -128,6 +128,14 @@ body {
     transition: $transition;
 }
 
+.flow > * + * {
+    margin-block-start: var(--flow-space, 1em);
+}
+
+.stack > * + * {
+      margin-block-start: 1.5rem;
+}
+
 #outer-wrapper {
     border-top: 16px solid $accent;
     min-height: 80%;
@@ -291,12 +299,7 @@ h6 {
     }
 }
 
-h1 a,
-h2 a,
-h3 a,
-h4 a,
-h5 a,
-h6 a {
+:is(h1, h2, h3, h4, h5, h6) a {
     text-decoration: none;
     color: $primary;
 
