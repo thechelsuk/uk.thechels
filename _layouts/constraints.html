@@ -6,7 +6,7 @@
     <b>{{ site.data.constraints | size }}</b>
     constraint cards.
 </p>
-<ul class="constraints">
+<ul id="constraints">
     {% for item in site.data.constraints %}
     <li>{{item}}</li>
     {% endfor %}

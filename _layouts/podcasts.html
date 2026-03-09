@@ -1,14 +1,13 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
 <p>
-    <b>{{ site.data.podcasts | size }}</b>
-    podcast subscriptions.
+    <b>{{ site.data.podcasts | size }}</b> podcast subscriptions.
     Links are directly to the podcast feed.
 </p>
 {% assign sorted = site.data.podcasts | sort: 'name' %}
 <ul class="blog-menu">
     {% for item in sorted %}
     <li>// <a href="{{item.link}}">{{item.name}}</a> &#11084;</li>
-        {% endfor %}
+    {% endfor %}
 </ul>
 {% include footer.html %}

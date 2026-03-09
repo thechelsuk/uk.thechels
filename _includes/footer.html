@@ -1,12 +1,12 @@
+</main>
 </div>
-</div>
-<div id="footer" class="flow">
-  <p>
-  <img src="{{ site.owner.avatar }}"
-      alt="{{ site.owner.name }}" width="18" height="18" class="footer-avatar"> &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }} | Last Build:
-    {{ site.github.build_revision | slice: 0, 12 }} 
+<footer role="contentinfo" id="footer" class="flow">
+  <p class="footer-copyright">
+    <img src="{{ site.owner.avatar }}" alt="{{ site.owner.name }}" width="18" height="18" class="footer-avatar"> &copy;
+    {{ site.time | date: '%Y' }} {{ site.owner.name }} | Last Build:
+    {{ site.github.build_revision | slice: 0, 12 }}
 
- <a href=" #top" class="back-to-top" name="back-to-top">↑</a>
+    <a href=" #top" class="back-to-top" name="back-to-top">↑</a>
   </p>
   <p class="footer-links">
     {% unless page.url == "/" %}
@@ -16,7 +16,7 @@
     <a href="{{item.link}}">{{item.title}}</a>
     {% endfor %}
   </p>
-</div>
+</footer>
 </div>
 <script src="{{ site.baseurl }}/app.js"></script>
 </body>
