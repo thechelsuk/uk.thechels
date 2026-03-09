@@ -20,9 +20,8 @@
     webmention_count page.url %} mentions.
   </p>
 
-  <a class="u-url" href="{{ page.url | absolute_url }}" class="hidden"></a>
-
   <p class="webmentions">
+    <a class="u-url" href="{{ page.url | absolute_url }}" class="hidden"></a>
     {% webmentions page.url %}
   </p>
 
