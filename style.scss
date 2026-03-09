@@ -478,11 +478,11 @@ table {
 }
 
 .back-to-top {
-    font-size: 3em;
+    font-size: 2em;
     position: fixed;
     inset: auto 1em 1em auto;
     display: inline-block;
-    padding: 2em;
+    padding: 0.5em;
     background-color: $background;
     border-radius: 0.5em;
     border: 1px solid $secondary;
