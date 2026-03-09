@@ -21,13 +21,27 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      - name: Restore webmention cache
+        uses: actions/cache@v4
+        with:
+          path: .cache/
+          key: webmention-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            webmention-${{ runner.os }}-
+
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.4'
           bundler-cache: true
 
       - name: Build Jekyll site
-        run: bundle exec jekyll build
+        run: |
+          printf 'webmentions:\n  pause_lookups: true\n' > /tmp/deploy_config.yml
+          bundle exec jekyll build --config _config.yml,/tmp/deploy_config.yml
+
+      - name: Send webmentions to Brid.gy
+        run: bundle exec jekyll webmention
+        continue-on-error: true
 
       - name: Copy markdown source files
         run: |
