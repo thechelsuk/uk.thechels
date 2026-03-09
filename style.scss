@@ -142,6 +142,7 @@ body {
 }
 
 #footer {
+  border-top: 0.1rem solid $secondary;
   font-size: 0.8em;
   padding-bottom: 1em;
   p {
@@ -496,7 +497,6 @@ table {
     display: inline;
     vertical-align: text-bottom;
     position: relative;
-    top: -1px;
 }
 
 /* App icon styling for projects page */
