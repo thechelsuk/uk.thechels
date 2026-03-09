@@ -24,7 +24,3 @@ Swedish international Sofia Jakobbson was another addition and at 23, she is you
 The break will give a good opportunity to work together and improve for those not on international duty in the European Championships, but we should congratulate Helen Ward on her goal for Wales this week in their 2-2 draw with Slovakia and to both Eni Aluko and Dunia Susi who made Hope Powell’s England team announced this week.
 
 Chelsea Ladies return to action on the 4th of August at 2pm with a home match against bottom of the league Doncaster Rovers Belles at Staines Town FC. The ladies have won all 5 of the previous WSL meetings between the sides averaging over 3 goals per game.
-
-Written by @ChelseaStats 
-
-For more info on the Chelsea Ladies team click here or to purchase tickets to see them play click here

@@ -42,5 +42,3 @@ The win takes the Ladies up to third in the table above Arsenal on goal differen
 In the other games Bristol extended their lead at the top of the league and realistically look out of reach, whilst Liverpool lost,for only the second time this season, to Arsenal the night before, The team from Merseyside are just 5 points a head of our Ladies who should now be aiming for a top three finish.
 
 With a very bright future for a young and talented squad, it’s only a matter of time before we are challenging for the title and Champions League qualification.
-
-Written by @ChelseaStats

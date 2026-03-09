@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Eaglesbeak - Post-match reaction
+cited: Jay Crame
+link: https://theeaglesbeak.com/2013/12/17/predictions-league-4/
 tag:
  - chelsea
 ---
- 
+
 > Ahead of the game at Chelsea this weekend we held a question and answer session with our friends at Chelsea Stats and here is what they told us.
 
 We appreciate the time they spent answering our questions. You can check out their website here which will have plenty of information before and after the game.
@@ -48,5 +50,3 @@ TEB. Palace pass the ball around well, look composed in possession whilst not sh
 TEB. And finally, your prediction for this one?
 
 > CS. We’ll concede, that seems inevitable at the moment, but I think some players will have a point to prove and if our striker on the day fancies it, we could roll out  five or six , but I think it will be 2-1 until twenty to go and  we’ll kill the game late on 4-1.
-
-Article by Jay Crame

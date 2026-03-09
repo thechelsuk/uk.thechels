@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Eaglesbeak - Post-match reaction
+link: https://theeaglesbeak.com/2014/03/30/crystal-palace-1-0-chelsea-bonus-points/
+cited: Neil Carter
 tag:
  - chelsea
 ---

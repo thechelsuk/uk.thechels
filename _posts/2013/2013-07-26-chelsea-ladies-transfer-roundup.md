@@ -18,5 +18,3 @@ At the other end, goalkeeper Marie Hourihan has joined the club from Birmingham 
 That leave meant an emergency loan for Shannon Lynn, whilst Carly Telford was out injured, and that deal has now expired and Shannon has returned to Scotland, leaving the club with three experienced keepers to challenge for the matchday squad.
 
 We wish good luck and a bright future to all those moving on and a warm welcome to the new additions who are now just weeks away from resumption of the FAWSL with a home fixture vs Doncaster Rovers Belles.
-
-Written by @ChelseaStats

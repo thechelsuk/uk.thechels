@@ -17,13 +17,9 @@ I am Chelsea Stats — a web developer for a government agency that I am not all
 
 ### What is your current setup?
 
-ChelseaStat's desk
-
 I have a mid-2011 Mac Mini with maxed out RAM (8GB). It runs two 27-inch Dell P2714H widescreen monitors. I have another 21-inch Dell P2714H connected to a 13-inch Acer Chromebook.
 
 The Mac uses an external Samsung DVD drive, a Seagate 1TB drive as my Time Machine, Magic Mouse on a Mobee magic charger, a D-link USB hub, and a standard Apple numerical keyboard.
-
-ChelseaStat's desk
 
 I have two Perixx DX 1000XXL gaming mouse pads as I like the non-slip feel.
 
@@ -32,8 +28,6 @@ The iPhone 6 and an original iPad Mini both sit on an e-kit tablet stand on top 
 Everything sits on a desk that I picked up from eBay for around £40 (around $65) 5 years ago. A huge 1.8 metres (71 inches) and a total 223cm (88 inches) with the drawers included.
 
 My setup has built up over time and started on a tight budget whilst providing a pretty impressive office space.
-
-ChelseaStat's desk
 
 ### Where can we find your OS X wallpaper?
 

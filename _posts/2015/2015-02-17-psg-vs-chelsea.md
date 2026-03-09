@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Ultimate Fan Live - PSG vs Chelsea
+cited: Cameron Innes
+
 tag:
  - chelsea
 ---
- 
+
 #### PSG vs Chelsea: The Fans View
 
 The Champions League knockout stages comprise of some of the most highly anticipated games of the season. Ahead of this evening's stand-out tie between PSG and Chelsea, we spoke with @1970_PSG who runs 1970psg.com and @ChelseaStats who runs thechels.co.uk to find out their views on the game, and help UFL users out with some top tips!
@@ -54,6 +56,3 @@ You can follow ChelseaStats on Twitter here: @ChelseaStats
 Enjoy the game everyone, and we hope you join us on UFL this evening!
 
 Ultimate Fan Live is a new, real time fantasy game, which is free to play. Draft two players, and earn points based on their real life performance. Challenge your friends or join a public game and battle to become The Ultimate Fan!
-
-Download Ultimate Fan Live By Clicking HERE
-posted on Feb 17, 2015 by Cameron Innes

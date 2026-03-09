@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Eaglesbeak -Pre-season 2013-2014
+link: https://theeaglesbeak.com/2014/08/08/view-from-the-opposition-part-1/
+cited: Jay Crame
 tag:
  - chelsea
 ---
- 
+
 Palace surprised many teams with their good run of form under Pulis and won over plenty of opposition fans and neutrals with their result especially the win over Chelsea and the comeback draw against Liverpool. But those highlights on what was a fantastic season for the Eagles will be forgotten as the new season begins.
 
 I expect Palace to struggle, it's the cliched second season syndrome and although the team doesn't appear to be any weaker it hasn't improved enough for me, it's difficult for Puncheon to replicate his goal threat this time round, they've earned more respect from the rest of the league so teams won't be so open to the counter-attack.
