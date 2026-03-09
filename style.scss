@@ -147,8 +147,6 @@ body {
     width: 832px;
     margin: 1em auto;
     padding: 1em;
-    -webkit-box-sizing: content-box;
-    -moz-box-sizing: content-box;
     box-sizing: content-box;
     transition: $transition;
 }
@@ -251,14 +249,14 @@ main:focus {
     display: block;
     float: right;
     margin-right: 0;
-    font-size: 12px;
+    font-size: 0.75rem;
 }
 
 .webmentions {
     color: $secondary;
     display: inline-block;
     margin-right: 0;
-    font-size: 12px;
+    font-size: 0.75rem;
 }
 
 article {
@@ -358,6 +356,7 @@ img {
     display: block;
     max-width: 100%;
     height: auto;
+    border: 1px solid $primary;
 }
 
 .codeblock {
@@ -435,7 +434,7 @@ table {
 
     th,
     td {
-        padding: 8px;
+        padding: 0.5rem;
         text-align: left;
         border: 1px solid $alt-tab;
     }
@@ -452,10 +451,6 @@ table {
     tr:hover {
         background-color: $code;
     }
-}
-
-img {
-    border: 1px solid $primary;
 }
 
 .book-img img {
