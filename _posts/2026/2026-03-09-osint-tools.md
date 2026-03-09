@@ -1,7 +1,7 @@
 ---
 
 layout: post
-date: 2026-03-08
+date: 2026-03-09
 title: OSINT Tools
 
 ---
@@ -16,6 +16,14 @@ Broad open source intelligence tool link list
 - [YouTube GeoFind](https://mattw.io/youtube-geofind/location)
 - [TinEye Reverse Image Search](https://tineye.com)
 - [Google Dorking](https://www.group-ib.com/resources/knowledge-hub/google-dorks/)
+
+## Data
+
+- [Oil Prices](https://oilprice.com)
+- [Gov.uk](https://www.gov.uk/)
+- [MI5 Threat level](https://www.mi5.gov.uk/)
+- [Data Breaches](https://databreaches.net/)
+
 
 ## Websites Email and Technology
 
