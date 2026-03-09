@@ -269,7 +269,7 @@ main:focus {
     }
 }
 
-.meta {
+.meta, .webmentions{
     color: $secondary;
     display: block;
     float: right;
@@ -278,10 +278,7 @@ main:focus {
 }
 
 .webmentions {
-    color: $secondary;
     display: inline-block;
-    margin-right: 0;
-    font-size: 0.8em;
 }
 
 .hidden {
@@ -525,7 +522,7 @@ table {
     .back-to-top a:active,
     .back-to-top a:focus {
         color: $accent;
-        font-size: 1em;
+        font-size: 2em;
         float: none;
         text-decoration: none;
     }
@@ -539,7 +536,7 @@ table {
         gap: 0.3rem 0;
 
         a {
-            width: 50%;
+            width: 33%;
             box-sizing: border-box;
             padding-right: 2em;
         }
