@@ -1,7 +1,7 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
 <p><small><b>{{ site.posts | size }}</b> total posts.</small></p>
-<div id="blog-archives">
+<div id="blog-archives" class="flow">
 
   {% for post in site.posts limit:5 %}
   <div class="posts">
