@@ -20,5 +20,3 @@ The ladies have won just 3 of the last 12 and just once in the last 8 in all com
 Maybe there is an underlying problem that comes with a heavily congested first part of the season followed by a long break before having to adjust to another set of games. The blues have now played 10 league games, more than any other side and have 4 remaining including Arsenal next up on the 29th of August, a Thursday night. The game is being shown live on BT Sport.
 
 Hannah Blundell, meanwhile, is in Wales with the England Under 19s who took a well earned point in the group stage with a 0-0 draw with France.
-
-Written by @ChelseaStats
