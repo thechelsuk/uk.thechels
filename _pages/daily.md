@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-03-08
+date: 2026-03-09
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,21 +11,21 @@ date: 2026-03-08
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Sunday, 08 March 2026
+## On Monday, 09 March 2026
 
-- The average temperature today is 8.06˚C,
-- With highs of 8.88˚C and lows of 7.61˚C,
-- It may feel like 6.4˚C with overcast clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 94%
-- The sun will rise at 06:39 and set at 17:59
+- The average temperature today is 7.54˚C,
+- With highs of 8.32˚C and lows of 6.58˚C,
+- It may feel like 6.27˚C with broken clouds
+- The wind speed is 2.06m/s and visibility is 7000m
+- The pressure is 1018hPa and humidity is 93%
+- The sun will rise at 06:36 and set at 18:01
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 733 days since the last change (2024-03-05)
+- It has been 734 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -36,43 +36,39 @@ _Good Morning, Here is your daily briefing..._
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Set exceptional standards.
+> Sometimes you just have to get on the fucking bus.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Fulham v Southampton
-- AFC Wimbledon v Northampton Town
-- Port Vale v Sunderland
-- Liverpool U21 v Wolves U21
-- QPR v Middlesbrough
-- Leeds United v Norwich City
+- Birmingham City U21 v Chelsea U21
+- West Ham United v Brentford
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 124.1500015258789 
-- ^FTSE : 10284.7998046875 
-- ^FTMC : 22501.0 
+- VWRL.L : 122.55999755859375 
+- ^FTSE : 10103.9697265625 
+- ^FTMC : 21976.869140625 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- The Daily Hilario: Monday
+- Dário Essugo feeling ‘very good’ after 8-month injury layoff, instant impact
+- Wrexham 2-4 Chelsea, FA Cup: The JP and Garna-show
+- The Daily Hilario: Sunday
 - Liam Rosenior: ‘We were pushed all the way by very good team’
 - Wrexham 2-4 Chelsea, FA Cup: Post-match reaction, ratings
 - Wrexham vs. Chelsea, FA Cup: Lineups &#038; Game Thread
 - Chelsea fans’ preferred lineup against Wrexham: Rotate ‘em all!
 - The Daily Hilario: Saturday
 - Wrexham vs. Chelsea, FA Cup: Preview, team news, how to watch
-- How should Chelsea line up against Wrexham in the FA Cup?
-- Aston Villa 1-4 Chelsea, Player Ratings: Teamwork makes the dream work
-- The Daily Hilario: Friday
-- João Pedro just living the Chelsea dream with his first Premier League hat-trick
 
 <!-- news_marker ends -->
 
@@ -80,14 +76,14 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- ftnews_marker starts -->
 
-- Israel expands attacks to Iranian oil storage facilities
-- Gulf businesses buy up political violence insurance as conflict spreads
-- Iran warns it will hit US bases across region hours after president’s apology
-- ‘Most dangerous job on earth’: the life of an Iranian ballistic missile crew
-- America chose this war — and must now choose how to end it
-- The bombing of Tehran — in maps and satellite images
-- Samsung seeks AI deals to challenge Apple’s smartphone lead
-- US faced with few good options to tamp down surging oil prices
+- G7 to discuss joint release of emergency oil reserves
+- Stocks and bonds tumble as oil soars past $100 a barrel
+- Iran’s choice of Khamenei’s son as supreme leader signals continuity of hardline policies
+- Which economies will pay the biggest price for the Iran war?
+- Farage misses out on Trump meeting as their relationship cools
+- Yvette Cooper defends UK’s ‘cool-headed approach’ on Iran after Trump criticism
+- Kharg Island: Iran’s oil lifeline that Trump has left untouched
+- Muscat airport limits private jet flights as wealthy leave the Gulf
 
 <!-- ftnews_marker ends -->
 
@@ -95,42 +91,40 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > profusion - noun: 1. Extravagance. 2. A large quantity or abundance.
+ > arcadia - noun: A region that is idyllic, pastoral: simple, peaceful.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> It seems that perfection is reached not when there is nothing left to add, but when there is nothing left to take away. - Antoine de Saint-Exupéry, Author
+> The best way to empower a team is to begin trusting the team. - Mike Cohn
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Destroy
--nothing
--the most important thing
+> What would your closest friend do?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Robert the Bruce (Rated: 3)
-- Released in 2019
-- Summary: The story of the nobleman-turned-outlaw hero who was crowned king of Scots in the 14th century.
+- 28 Weeks Later (Rated: 8)
+- Released in 2007
+- Summary: Six months after the rage virus was inflicted on the population of Great Britain, the US Army helps to secure a small area of London for the survivors to repopulate and start again. But not everything goes according to plan.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 805, using [2, 4, 7, 9, 10, 50]
-- Answer: 16 solutions.
+- Target: 556, using [2, 3, 8, 25, 75, 100]
+- Answer: 14 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 10 x 4 + 50 ) x 9 + 2 - 7
+  Solution: ( ( 100 + 75 + 3 ) x 25 - 2 ) / 8
 
    </details>
 
@@ -138,7 +132,7 @@ _Good Morning, Here is your daily briefing..._
 
 ### Blogroll links
 <!-- blogroll_marker starts -->
-- Aaron Randall [URL](https://aaronrandall.com/) [Feed](https://aaronrandall.com/feed/)
-- Farnham Street [URL](https://fs.blog/) [Feed](https://www.farnamstreetblog.com/feed/)
-- Information is Beautiful [URL](https://informationisbeautiful.net/) [Feed](http://feeds.feedburner.com/InformationIsBeautiful)
+- ThoughtAsylum [URL](https://www.thoughtasylum.com/) [Feed](https://www.thoughtasylum.com/atom.xml)
+- Cybaa by Joe T [URL](https://joetiedeman.uk/) [Feed](https://joetiedeman.uk/feed/)
+- Basic Apple Guy [URL](https://basicappleguy.com/) [Feed](https://www.basicappleguy.com/basicappleblog?format=rss)
 <!-- blogroll_marker ends -->
