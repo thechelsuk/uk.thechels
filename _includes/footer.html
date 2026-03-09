@@ -4,8 +4,7 @@
 <div class="footer">
   <div class="wrapper flow">
     <p>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }} <img src="{{ site.owner.avatar }}"
-        alt="{{ site.owner.name }}" width="12" height="12"
-        style="display:inline;vertical-align:text-bottom;position:relative;top:-1px;"> | Last Build:
+        alt="{{ site.owner.name }}" width="12" height="12" style="footer-avatar"> | Last Build:
       {{ site.github.build_revision | slice: 0, 12 }} <a href=" #top" class="back-to-top" name="back-to-top">↑</a></p>
     <p class="footer-links">
       {% unless page.url == "/" %}

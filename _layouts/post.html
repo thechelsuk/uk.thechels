@@ -20,7 +20,7 @@
     webmention_count page.url %} mentions.
   </p>
 
-  <a class="u-url" href="{{ page.url | absolute_url }}" style="display:none"></a>
+  <a class="u-url" href="{{ page.url | absolute_url }}" class="hidden"></a>
 
   <p class="webmentions">
     {% webmentions page.url %}
@@ -29,7 +29,7 @@
   {% endif %}
 </article>
 {% for target in page.syndicate_to %}
-<a href="{{ site.webmentions.syndication[target].endpoint }}" style="display:none"></a>
+<a href="{{ site.webmentions.syndication[target].endpoint }}" class="hidden"></a>
 {% endfor %}
 
 {% include footer.html %}

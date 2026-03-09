@@ -256,8 +256,8 @@ main:focus {
     font-size: 0.75rem;
 }
 
-article {
-    margin: 3em 0;
+.hidden  {
+     display:none;
 }
 
 .book-list .book {
@@ -285,7 +285,6 @@ h6 {
     color: $primary;
     position: relative;
     display: block;
-    margin-top: 0.75em;
     font-family: $header-stack;
 
     &:hover::after {
@@ -481,6 +480,13 @@ table {
 .footer,
 #outer-wrapper:after {
     height: 40px;
+}
+
+.footer-avatar {
+     display: inline;
+     vertical-align: text-bottom;
+     position: relative;
+     top: -1px;"
 }
 
 /* App icon styling for projects page */
