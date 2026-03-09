@@ -15,7 +15,6 @@ If you don’t have a feed reader then I recommend using [NetNewsWire](https://n
 - RSS only [Atom/XML](/rss.xml) - Secret RSS only feed
 - Films [Atom/XML](/films.xml) - Film reviews
 - Daily [Atom/XML](/daily.xml) - A daily briefing of news, notices, quotes, and more.
-- 
 
 ## Niche Summary Feeds
 
