@@ -3,10 +3,10 @@
 {{content}}
 
 <p>
-   <b>{{ site.data.constraints | size }}</b> 
-   constraint cards. 
+    <b>{{ site.data.constraints | size }}</b>
+    constraint cards.
 </p>
-<ul class="Constraints">
+<ul class="constraints">
     {% for item in site.data.constraints %}
     <li>{{item}}</li>
     {% endfor %}
