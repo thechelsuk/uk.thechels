@@ -1,0 +1,32 @@
+name: Refresh Webmentions Cache
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Every 12 hours
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Restore webmention cache
+        uses: actions/cache@v4
+        with:
+          path: .cache/
+          key: webmention-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            webmention-${{ runner.os }}-
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4'
+          bundler-cache: true
+
+      - name: Refresh incoming webmentions
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production

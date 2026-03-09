@@ -1,19 +1,26 @@
 {% include header.html %}
-<article>
-  <h1 class="post-title">{{ page.title }}</h1>
-  {{ content }}
+<article class="h-entry">
+  <h1 class="p-name post-title">{{ page.title }}</h1>
 
-  {% if page.link and page.cited %}
-  <p>&raquo;<a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
-  {% elsif page.cited %}
-  <p>&raquo; {{page.cited}}</p>
-  {% endif %}
+  <div class="e-content">
+    {{ content }}
+
+    {% if page.link and page.cited %}
+    <p>&raquo;<a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
+    {% elsif page.cited %}
+    <p>&raquo; {{page.cited}}</p>
+    {% endif %}
+  </div>
 
   {% if page.id %}
   <p class="meta">
-    // Published: {{ page.date | date: "%-d %B %Y" }}, with {{ page.content | number_of_words }} words. {%
+    // Published: <time class="dt-published"
+      datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>, with
+    {{ page.content | number_of_words }} words. {%
     webmention_count page.url %} mentions.
   </p>
+
+  <a class="u-url" href="{{ page.url | absolute_url }}" style="display:none"></a>
 
   <p class="webmentions">
     {% webmentions page.url %}
