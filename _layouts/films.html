@@ -4,12 +4,11 @@
   <small>
     <b>{{ site.data.films | size }}</b> Films watched. Get updates via an <a href="{{ site.baseurl }}/films.rss">RSS Feed</a> |
   </small>
-
-<p>
+</p>
 
 <h2>5 Recent Films</h2>
 {% assign recent = site.data.films | slice: -5, 5 | reverse %}
-<table class="table-striped" id="films-table-recent">
+<table id="films-table-recent">
   <thead>
     <tr>
       <th>Title</th>
@@ -29,7 +28,7 @@
 <h2>All Films</h2>
 
 {% assign sorted = site.data.films | sort: 'Rating' | reverse %}
-<table class="table-striped" id="films-table">
+<table id="films-table">
   <thead>
     <tr>
       <th>Title</th>
