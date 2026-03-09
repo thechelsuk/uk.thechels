@@ -477,11 +477,11 @@ table {
 .back-to-top {
     font-size: 2em;
     position: fixed;
-    inset: auto 1em 1em auto;
+    inset: auto 0.25em 0.25em auto;
     display: inline-block;
-    padding: 0.5em;
+    padding: 0.25em;
     background-color: $background;
-    border-radius: 0.5em;
+    border-radius: 0.25em;
     border: 1px solid $secondary;
 }
 
