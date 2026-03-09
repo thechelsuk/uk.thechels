@@ -1,13 +1,11 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
-<p>
-    <b>{{ site.data.feeds | size }}</b> 
-    RSS subscriptions.
-</p>
+<p><b>{{ site.data.feeds | size }}</b> RSS subscriptions.</p>
 {% assign sites = site.data.feeds | sort: "_title" %}
 {% for item in sites %}
-    <div class="posts">
-        {{item._title}} <span class="meta"><a href="{{item._htmlUrl}} ">{{item._htmlUrl}}</a> <a href="{{item._xmlUrl}}">&rarr;</a></span>
-    </div>
+<div class="posts">
+    {{item._title}} <span class="meta"><a href="{{item._htmlUrl}} ">{{item._htmlUrl}}</a> <a
+            href="{{item._xmlUrl}}">&rarr;</a></span>
+</div>
 {% endfor %}
 {% include footer.html %}

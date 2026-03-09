@@ -145,7 +145,7 @@
   <body>
     <div id="outer-wrapper" class="flow">
       <div id="wrapper" class="flow">
-        <header id="header">
+        <header id="header" role="banner">
           <ul class="skip-link-ul">
             <li>
               <a href="#main" class="skip-link">Skip to main content</a>
@@ -162,7 +162,7 @@
           <div class="blog-image"></div>
           <div class="blog-slogan"> {% assign slogans=site.data.slogans %} {% assign random_index="now" | date: "%s" |
             modulo: slogans.size %} // {{ slogans[random_index] }} </div>
-          <nav class="blog-menu">
+          <nav role="navigation" class="blog-menu">
             {% if page.id %}
             <a href="{{ site.url }}" title="Back to all posts">&larr; Back</a>
             {% else %}
@@ -173,7 +173,7 @@
             {% endfor %}
           </nav>
         </header>
-        <div id="main" class="content flow">
+        <main role="main" id="main" class="content flow">
           <script>
             (function () {
               function setTheme(mode) {
