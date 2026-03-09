@@ -1,6 +1,6 @@
 ---
 
-permalink: /.well-known/site.standard.publication
+permalink: /.well-known/site.standard.publication/
 layout: empty
 
 ---
