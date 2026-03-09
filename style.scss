@@ -117,7 +117,7 @@ body {
 }
 
 .stack > * + * {
-    margin-block-start: 1.5rem;
+    margin-block-start: 1.5em;
 }
 
 #outer-wrapper {
@@ -142,8 +142,7 @@ body {
 }
 
 #footer {
-  border-top: 0.2rem solid $secondary;
-  font-size: 0.9em;
+  border-top: 0.4rem solid $secondary;
   padding-bottom: 2em;
   p {
     width: 90%;
@@ -200,7 +199,7 @@ main:focus {
 }
 
 .blog-title {
-    font-size: 2.5em;
+    font-size: 3em;
     font-weight: bold;
     padding-bottom: 0;
     margin-right: 8px;
@@ -223,7 +222,7 @@ main:focus {
 }
 
 .asterisk {
-    font-size: 2.5rem;
+    font-size: 3em;
     margin: 0 auto;
     line-height: 0.5em;
     text-align: center;
@@ -272,14 +271,14 @@ main:focus {
     display: block;
     float: right;
     margin-right: 0;
-    font-size: 0.75rem;
+    font-size: 0.8em;
 }
 
 .webmentions {
     color: $secondary;
     display: inline-block;
     margin-right: 0;
-    font-size: 0.75rem;
+    font-size: 0.8em;
 }
 
 .hidden {
@@ -398,7 +397,7 @@ cite {
 }
 
 .footnote {
-    font-size: 0.75em;
+    font-size: 0.8em;
     color: $secondary;
 
     sup {
@@ -414,7 +413,7 @@ cite {
 .posts {
     margin-left: 0;
     padding-left: 0;
-    margin-bottom: 0.75em;
+    margin-bottom: 0.8em;
     transition: all 0.1s;
 }
 
@@ -445,7 +444,7 @@ table {
 
     th,
     td {
-        padding: 0.5rem;
+        padding: 0.5em;
         text-align: left;
         border: 1px solid $alt-tab;
     }
@@ -478,13 +477,13 @@ table {
 }
 
 .back-to-top {
-    font-size: 2rem;
+    font-size: 2em;
     position: fixed;
-    inset: auto 1rem 1rem auto;
+    inset: auto 1em 1em auto;
     display: inline-block;
     padding: 1rem;
     background-color: $background;
-    border-radius: 0.5rem;
+    border-radius: 0.5em;
     border: 1px solid $alt-tab;
 }
 
@@ -533,13 +532,13 @@ table {
     .footer-links {
         display: flex;
         flex-wrap: wrap;
-        padding-right: 3.5rem;
+        padding-right: 3.5em;
         gap: 0.3rem 0;
 
         a {
             width: 50%;
             box-sizing: border-box;
-            padding-right: 5px;
+            padding-right: 2em;
         }
     }
 }
