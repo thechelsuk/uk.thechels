@@ -268,7 +268,7 @@ main:focus {
     display: grid;
     grid-gap: 0;
     grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
-    max-width: 860px;
+    max-width: 832px;
 }
 
 .book-list .book-img {
@@ -400,6 +400,16 @@ cite {
     position: relative;
 }
 
+.sr-only {
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
+
 table {
     width: 100%;
     border-collapse: collapse;
@@ -457,7 +467,7 @@ table {
 
 .footer {
     font-size: 0.8em;
-    padding-bottom: 8px;
+    padding-bottom: 1em;
 
     .wrapper {
         width: 832px;
@@ -502,6 +512,40 @@ table {
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
+
+/* Media Queries */
+
+@media only screen and (max-width: 480px) {
+    .blog-menu {
+        margin-bottom: 1em;
+    }
+
+    .back-to-top a,
+    .back-to-top a:hover,
+    .back-to-top a:active,
+    .back-to-top a:focus {
+        color: $accent;
+        font-size: 1em;
+        float: none;
+        text-decoration: none;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .footer .footer-links {
+        display: flex;
+        flex-wrap: wrap;
+        padding-right: 3.5rem;
+        gap: 0.3rem 0;
+
+        a {
+            width: 50%;
+            box-sizing: border-box;
+            padding-right: 5px;
+        }
+    }
+}
+
 @media screen and (max-width: 1000px) {
     #wrapper {
         margin: 1em auto;
@@ -522,7 +566,6 @@ table {
 
     .footer {
         line-height: 30px;
-        padding-top: 10px;
         font-size: 0.9em;
     }
 
@@ -542,44 +585,4 @@ table {
     #outer-wrapper:after {
         height: 60px;
     }
-}
-
-@media screen and (max-width: 600px) {
-    .footer .footer-links {
-        display: flex;
-        flex-wrap: wrap;
-        padding-right: 3.5rem;
-        gap: 0.3rem 0;
-
-        a {
-            width: 50%;
-            box-sizing: border-box;
-            padding-right: 5px;
-        }
-    }
-}
-
-@media only screen and (min-width: 320px) and (max-width: 480px) {
-    .blog-menu {
-        margin-bottom: 1em;
-    }
-
-    .back-to-top a,
-    .back-to-top a:hover,
-    .back-to-top a:active,
-    .back-to-top a:focus {
-        color: $accent;
-        font-size: 1em;
-        float: none;
-        text-decoration: none;
-    }
-}
-
-.sr-only {
-    clip-path: inset(50%);
-    height: 1px;
-    overflow: hidden;
-    position: absolute;
-    white-space: nowrap;
-    width: 1px;
 }
