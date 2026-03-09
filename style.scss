@@ -226,9 +226,6 @@ main:focus {
     }
 }
 
-.radius {
-    border-radius: 1em;
-}
 
 .blog-image {
     display: block;
@@ -309,19 +306,6 @@ h6 {
     }
 }
 
-ol li,
-ul li {
-    margin-bottom: 7px;
-    line-height: 1.4;
-}
-
-ul ul,
-ol ol,
-ol ul,
-ul ol {
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
 
 ol li::marker {
     color: $primary;
