@@ -374,7 +374,6 @@ code {
 }
 
 pre > code {
-    font-family: $font-mono;
     font-size: 0.9em;
 }
 
@@ -393,15 +392,6 @@ cite {
     sup {
         color: $primary;
         margin-right: 0.3125em;
-    }
-}
-
-.post {
-    position: relative;
-
-    > h2 {
-        margin-top: 60px;
-        margin-right: 130px;
     }
 }
 
