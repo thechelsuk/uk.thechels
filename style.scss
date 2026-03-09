@@ -142,13 +142,15 @@ body {
 }
 
 #footer {
-  border-top: 0.4rem solid $secondary;
-  font-size: 0.8em
-  padding-bottom: 2em;
-  p {
-    width: 90%;
-    a { padding-right: 5px; }
-  }
+    border-top: 0.4rem solid $secondary;
+    font-size: 0.8em;
+    padding-bottom: 2em;
+    p {
+        width: 90%;
+        a {
+            padding-right: 5px;
+        }
+    }
 }
 
 .primary {
@@ -223,9 +225,9 @@ main:focus {
 }
 
 .asterisk {
-    font-size: 0.8em;
+    font-size: 1em;
     margin: 0 auto;
-    line-height: 0.5em;
+    line-height: 1em;
     text-align: center;
     cursor: pointer;
 
@@ -517,7 +519,6 @@ table {
 /* ---------------------------------- */
 
 @media only screen and (max-width: 480px) {
-
     .back-to-top a,
     .back-to-top a:hover,
     .back-to-top a:active,
