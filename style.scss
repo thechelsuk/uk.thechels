@@ -246,7 +246,7 @@ main:focus {
     color: $accent;
 
     a {
-        padding: 0 0.3125em;
+        padding: 0 0.3em;
     }
 }
 
@@ -518,6 +518,7 @@ table {
     column-gap: 4em;
     a {
         display: block;
+        margin-bottom: 0.3em;
     }
     a:nth-child(6),
     a:nth-child(12) {
