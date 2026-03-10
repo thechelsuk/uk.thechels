@@ -166,7 +166,12 @@ navigation_footer:
   - link: "/.well-known/security.txt"
     title: "Security"
   - link: "/.well-known/change-password/"
-    title: "Change password"
+    title: "Change password" 
+    
+  - link: "#back-to-top"
+    title: "Back to Top"
+  - link: "https://shop.thechels.uk"
+    title: "Shop"
 
   - link: "https://bsky.app/profile/thechels.uk"
     title: "Bluesky"
