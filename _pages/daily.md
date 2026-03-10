@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-03-09
+date: 2026-03-10
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,54 +11,88 @@ date: 2026-03-09
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Monday, 09 March 2026
+## On Tuesday, 10 March 2026
 
-- The average temperature today is 7.54˚C,
-- With highs of 8.32˚C and lows of 6.58˚C,
-- It may feel like 6.27˚C with broken clouds
-- The wind speed is 2.06m/s and visibility is 7000m
-- The pressure is 1018hPa and humidity is 93%
-- The sun will rise at 06:36 and set at 18:01
+- The average temperature today is 7.02˚C,
+- With highs of 7.75˚C and lows of 6.03˚C,
+- It may feel like 4.56˚C with few clouds
+- The wind speed is 3.6m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 90%
+- The sun will rise at 06:34 and set at 18:03
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 734 days since the last change (2024-03-05)
+- It has been 735 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Sometimes you just have to get on the fucking bus.
+> Exploit the landscape.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Birmingham City U21 v Chelsea U21
-- West Ham United v Brentford
+- Galatasaray v Liverpool
+- Leicester City v Bristol City
+- Millwall v Derby County
+- Portsmouth v Swansea City
+- Sheffield Wednesday v Watford
+- Wrexham v Hull City
+- Barnsley v Cardiff City
+- Mansfield Town v Reading
+- Stevenage v Leyton Orient
+- Fleetwood Town v Cheltenham Town
+- Gillingham v MK Dons
+- Salford City v Walsall
+- Aldershot Town v Carlisle United
+- Eastleigh v Brackley Town
+- Scunthorpe United v Sutton United
+- Southend United v Gateshead
+- Wealdstone v Tamworth
+- Woking v Boreham Wood
+- AFC Fylde v AFC Telford
+- Alfreton Town v Radcliffe Borough
+- Chorley v South Shields
+- Darlington v Buxton
+- Kidderminster Harriers v Peterborough Sports
+- Dorking Wanderers v Chelmsford City
+- Horsham v Hornchurch
+- Maidstone United v Dagenham & Redbridge
+- Torquay United v Salisbury City
+- Worthing v Maidenhead United
+- Stoke City v Ipswich Town
+- AtlÃ©tico Madrid v Tottenham Hotspur
+- Newcastle United v Barcelona
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 122.55999755859375 
-- ^FTSE : 10103.9697265625 
-- ^FTMC : 21976.869140625 
+- VWRL.L : 125.12999725341797 
+- ^FTSE : 10397.9404296875 
+- ^FTMC : 22411.720703125 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- The Daily Hilario: Tuesday
+- Chelsea drawn against Port Vale in FA Cup quarterfinals
+- Vincent Kompany rejects Nicolas Jackson narratives, praises Chelsea loanee
 - The Daily Hilario: Monday
 - Dário Essugo feeling ‘very good’ after 8-month injury layoff, instant impact
 - Wrexham 2-4 Chelsea, FA Cup: The JP and Garna-show
@@ -66,9 +100,6 @@ _Good Morning, Here is your daily briefing..._
 - Liam Rosenior: ‘We were pushed all the way by very good team’
 - Wrexham 2-4 Chelsea, FA Cup: Post-match reaction, ratings
 - Wrexham vs. Chelsea, FA Cup: Lineups &#038; Game Thread
-- Chelsea fans’ preferred lineup against Wrexham: Rotate ‘em all!
-- The Daily Hilario: Saturday
-- Wrexham vs. Chelsea, FA Cup: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -76,14 +107,14 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- ftnews_marker starts -->
 
-- G7 to discuss joint release of emergency oil reserves
-- Stocks and bonds tumble as oil soars past $100 a barrel
-- Iran’s choice of Khamenei’s son as supreme leader signals continuity of hardline policies
-- Which economies will pay the biggest price for the Iran war?
-- Farage misses out on Trump meeting as their relationship cools
-- Yvette Cooper defends UK’s ‘cool-headed approach’ on Iran after Trump criticism
-- Kharg Island: Iran’s oil lifeline that Trump has left untouched
-- Muscat airport limits private jet flights as wealthy leave the Gulf
+- Oil slides as Trump says war will end ‘very soon’
+- The thing that everyone expected to happen has happened
+- Can the G7 release enough oil to calm the market?
+- Khamenei martyrdom narrative smooths path for son’s rise
+- Israel expects Lebanon offensive to outlast Iran conflict
+- The handymen and drivers keeping Tehran running
+- White males will have ‘fewer board seats’ in future, says UK diversity chair
+- Lego chief hits out at Danish wealth tax proposal
 
 <!-- ftnews_marker ends -->
 
@@ -91,40 +122,40 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > arcadia - noun: A region that is idyllic, pastoral: simple, peaceful.
+ > Babylonian - noun: A place of great luxury and extravagance, usually accompanied with vice and corruption.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> The best way to empower a team is to begin trusting the team. - Mike Cohn
+> A great ScrumMaster grasps the skills and mindset of the role. - Geoff Watts
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> What would your closest friend do?
+> How would you have done it?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- 28 Weeks Later (Rated: 8)
-- Released in 2007
-- Summary: Six months after the rage virus was inflicted on the population of Great Britain, the US Army helps to secure a small area of London for the survivors to repopulate and start again. But not everything goes according to plan.
+- Bfg (Rated: 2)
+- Released in 1989
+- Summary: An orphan little girl befriends a benevolent giant who takes her to Giant Country, where they attempt to stop the man-eating giants that are invading the human world.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 556, using [2, 3, 8, 25, 75, 100]
-- Answer: 14 solutions.
+- Target: 795, using [2, 5, 9, 25, 50, 75]
+- Answer: 39 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 100 + 75 + 3 ) x 25 - 2 ) / 8
+  Solution: ( ( 25 + 2 ) / 9 + 50 ) x 75 / 5
 
    </details>
 
@@ -132,7 +163,7 @@ _Good Morning, Here is your daily briefing..._
 
 ### Blogroll links
 <!-- blogroll_marker starts -->
-- ThoughtAsylum [URL](https://www.thoughtasylum.com/) [Feed](https://www.thoughtasylum.com/atom.xml)
-- Cybaa by Joe T [URL](https://joetiedeman.uk/) [Feed](https://joetiedeman.uk/feed/)
-- Basic Apple Guy [URL](https://basicappleguy.com/) [Feed](https://www.basicappleguy.com/basicappleblog?format=rss)
+- Non-zero Sum [URL](https://nonzerosum.games/) [Feed](https://nonzerosum.games/rss.xml)
+- Simon BS [URL](https://simonbs.dev/) [Feed](http://simonbs.dev/feed.rss)
+- Mike Swanson [URL](https://blog.mikeswanson.com/) [Feed](https://blog.mikeswanson.com/feed/)
 <!-- blogroll_marker ends -->
