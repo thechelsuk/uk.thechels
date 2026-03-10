@@ -78,8 +78,7 @@ navigation_header:
     title: "Links &#11084;"
   - link: "https://tools.thechels.uk"
     title: "Tools &#11084;"
-  - link: "https://shop.thechels.uk"
-    title: "Shop &#11084;"
+
 ## SubMenu
 navigation_data:
   - link: "/daily"
@@ -157,6 +156,8 @@ navigation_footer:
   - link: "/sitemap.xml"
     title: "Sitemap"
 
+  - link: "https://tools.thechels.uk"
+    title: "Tools &#11084;"
   - link: "/humans.txt"
     title: "Humans"
   - link: "/humans.json"
@@ -168,11 +169,10 @@ navigation_footer:
   - link: "/.well-known/change-password/"
     title: "Change password" 
     
-  - link: "#back-to-top"
-    title: "Back to Top"
+  - link: "#top"
+    title: "↑ Back to top"
   - link: "https://shop.thechels.uk"
-    title: "Shop"
-
+    title: "Shop &#11084;"
   - link: "https://bsky.app/profile/thechels.uk"
     title: "Bluesky"
   - link: "https://mastodon.social/@Thechelsuk"
