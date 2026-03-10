@@ -200,7 +200,7 @@ main:focus {
     font-size: 3em;
     font-weight: bold;
     padding-bottom: 0;
-    margin-right: 8px;
+    margin-right: 0.5em;
     display: inline-block;
     outline: none;
 
@@ -271,6 +271,7 @@ main:focus {
     margin-right: 0;
     font-size: 0.8em;
 }
+
 .webmentions {
     color: $secondary;
     display: inline-block;
@@ -537,6 +538,10 @@ table {
         font-size: 2em;
         float: none;
         text-decoration: none;
+    }
+    
+    .blog-title {
+      font-size: 2em;
     }
 }
 
