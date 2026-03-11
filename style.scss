@@ -501,6 +501,10 @@ table {
 
 .footer-meta {
     margin-bottom: 1em;
+    li:nth-child(1),
+    li:nth-child(2) {
+        break-after: column;
+    }
 }
 
 .footer-links {
