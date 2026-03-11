@@ -8,8 +8,8 @@ seo: Verify Me
 
 This page serves as the system of record for my online identity. The best places to follow me are:
 
-- Here on this website [RSS](/feed).
-- [Links](https://links.thechels.uk) to socials and resources on this page.
+- Here on this website via a number of [feeds](/feeds).
+- [Links](https://links.thechels.uk) for all the socials as well as somr other resources.
 
 I own and control this domain (thechels.uk) and hiyd.uk
 
