@@ -475,22 +475,6 @@ table {
     font-size: 0.8em;
 }
 
-.back-to-top {
-    font-size: 2em;
-    position: fixed;
-    inset: auto 0.25em 0.25em auto;
-    display: inline-block;
-    padding: 0.25em;
-    background-color: $background;
-    border-radius: 0.25em;
-    border: 1px solid $secondary;
-}
-
-.back-to-top:is(:link, :visited, :hover, :active) {
-    color: $accent;
-    text-decoration: none;
-}
-
 .app-icon {
     width: 64px;
     height: 64px;
@@ -536,8 +520,8 @@ table {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 24px;
-    height: 24px;
+    width: 32px;
+    height: 32px;
 }
 
 /* ---------------------------------- */
@@ -545,16 +529,6 @@ table {
 /* ---------------------------------- */
 
 @media only screen and (max-width: 480px) {
-    .back-to-top a,
-    .back-to-top a:hover,
-    .back-to-top a:active,
-    .back-to-top a:focus {
-        color: $accent;
-        font-size: 2em;
-        float: none;
-        text-decoration: none;
-    }
-
     .blog-title {
         font-size: 2em;
     }
