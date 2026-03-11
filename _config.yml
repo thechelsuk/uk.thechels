@@ -75,9 +75,9 @@ navigation_header:
   - link: "/slashes"
     title: "Pages"
   - link: "https://links.thechels.uk"
-    title: "Links &rarrw;"
+    title: "Links &neArr;"
   - link: "https://tools.thechels.uk"
-    title: "Tools &rarrw;"
+    title: "Tools &neArr;"
 
 ## SubMenu
 navigation_data:
@@ -168,12 +168,12 @@ navigation_footer:
     title: "Change password"
 
   - link: "https://shop.thechels.uk"
-    title: "Shop &rarrw;"
+    title: "Shop &neArr;"
   - link: "https://tools.thechels.uk"
-    title: "Tools &rarrw;"
+    title: "Tools &neArr;"
   - link: "https://links.thechels.uk"
-    title: "Links &rarrw;"
+    title: "Links &neArr;"
   - link: "https://bsky.app/profile/thechels.uk"
-    title: "Bluesky &rarrw;"
+    title: "Bluesky &neArr;"
   - link: "https://mastodon.social/@Thechelsuk"
-    title: "Mastodon &rarrw;"
+    title: "Mastodon &neArr;"
