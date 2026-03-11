@@ -1,22 +1,25 @@
 </main>
 </div>
 <footer role="contentinfo" id="footer" class="flow">
-  <p class="footer-copyright">
-    <img src="{{ site.owner.avatar }}" alt="{{ site.owner.name }}" class="footer-avatar"> &copy;
-    {{ site.time | date: '%Y' }} {{ site.owner.name }} | Last Build:
-    {{ site.github.build_revision | slice: 0, 12 }}
-  </p>
-  <p class="footer-links">
+  <ul class="footer-meta">
+    <li>Build: {{ site.github.build_revision | slice: 0, 12 }}</li>
+    <li>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}</li>
+    <li><a href="#top">↑ Back to top</a></li>
+  </ul>
+  <ul class="footer-links">
     {% for item in site.navigation_footer %}
-    <a href="{{item.link}}">{{item.title}}</a>
+    <li><a href="{{item.link}}">{{item.title}}</a></li>
     {% endfor %}
     {% unless page.url == "/" %}
-    <a href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md">Markdown</a>
+    <li><a href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md">Markdown</a></li>
     {% endunless %}
+  </ul>
+  <p class="footer-avatar">
+    <img src="{{ site.owner.avatar }}" alt="{{ site.owner.name }}" class="footer-avatar">
   </p>
 </footer>
 </div>
-<a href=" #top" class="back-to-top" name="back-to-top">↑</a>
+<a href="#top" class="back-to-top" name="back-to-top">↑</a>
 <script src="{{ site.baseurl }}/app.js"></script>
 </body>
 

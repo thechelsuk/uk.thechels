@@ -491,15 +491,6 @@ table {
     text-decoration: none;
 }
 
-.footer-avatar {
-    display: inline;
-    vertical-align: text-bottom;
-    position: relative;
-    width: 24px;
-    height: 24px;
-}
-
-/* App icon styling for projects page */
 .app-icon {
     width: 64px;
     height: 64px;
@@ -512,18 +503,41 @@ table {
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
+.footer-meta,
 .footer-links {
     column-count: 3;
-    column-rule: 1px solid $secondary;
     column-gap: 4em;
-    a {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    li {
         display: block;
-        margin-bottom: 0.3em;
+        margin-bottom: 0.4em;
+        text-transform: uppercase;
     }
-    a:nth-child(6),
-    a:nth-child(12) {
+    li a {
+        text-decoration: none;
+    }
+}
+
+.footer-meta {
+    margin-bottom: 2em;
+}
+
+.footer-links {
+    column-rule: 1px solid $secondary;
+    li:nth-child(6),
+    li:nth-child(11) {
         break-after: column;
     }
+}
+
+.footer-avatar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 24px;
+    height: 24px;
 }
 
 /* ---------------------------------- */
@@ -540,9 +554,9 @@ table {
         float: none;
         text-decoration: none;
     }
-    
+
     .blog-title {
-      font-size: 2em;
+        font-size: 2em;
     }
 }
 
