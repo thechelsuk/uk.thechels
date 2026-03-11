@@ -142,7 +142,7 @@ body {
 }
 
 #footer {
-    border-top: 0.4rem solid $secondary;
+    border-top: 0.8em solid $secondary;
     font-size: 0.8em;
     padding-bottom: 2em;
     clear: both;
@@ -405,10 +405,6 @@ cite {
     }
 }
 
-.entry {
-    margin-bottom: 20px;
-}
-
 .posts {
     margin-left: 0;
     padding-left: 0;
@@ -418,8 +414,8 @@ cite {
 .floated {
     float: left;
     vertical-align: top;
-    margin-right: 20px;
-    margin-top: 10px;
+    margin-right: 1.4em;
+    margin-top: 0.8em;
 }
 
 .content {
