@@ -15,6 +15,3 @@ _pages/SBOM.md
 urls-only.txt
 htmlcov/
 .bundle/config
-.cache/webmention_io_received.yml
-.cache/webmention_io_lookups.yml
-.cache/webmention_io_bad_uris.yml

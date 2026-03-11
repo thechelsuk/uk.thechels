@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-03-10
+date: 2026-03-11
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,29 +11,27 @@ date: 2026-03-10
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Tuesday, 10 March 2026
+## On Wednesday, 11 March 2026
 
-- The average temperature today is 7.02˚C,
-- With highs of 7.75˚C and lows of 6.03˚C,
-- It may feel like 4.56˚C with few clouds
+- The average temperature today is 7.95˚C,
+- With highs of 8.88˚C and lows of 7.38˚C,
+- It may feel like 5.69˚C with scattered clouds
 - The wind speed is 3.6m/s and visibility is 10000m
-- The pressure is 1014hPa and humidity is 90%
-- The sun will rise at 06:34 and set at 18:03
+- The pressure is 1007hPa and humidity is 82%
+- The sun will rise at 06:32 and set at 18:04
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 735 days since the last change (2024-03-05)
+- It has been 736 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
@@ -44,52 +42,35 @@ _Good Morning, Here is your daily briefing..._
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Galatasaray v Liverpool
-- Leicester City v Bristol City
-- Millwall v Derby County
-- Portsmouth v Swansea City
-- Sheffield Wednesday v Watford
-- Wrexham v Hull City
-- Barnsley v Cardiff City
-- Mansfield Town v Reading
-- Stevenage v Leyton Orient
-- Fleetwood Town v Cheltenham Town
-- Gillingham v MK Dons
-- Salford City v Walsall
-- Aldershot Town v Carlisle United
-- Eastleigh v Brackley Town
-- Scunthorpe United v Sutton United
-- Southend United v Gateshead
-- Wealdstone v Tamworth
-- Woking v Boreham Wood
-- AFC Fylde v AFC Telford
-- Alfreton Town v Radcliffe Borough
-- Chorley v South Shields
-- Darlington v Buxton
-- Kidderminster Harriers v Peterborough Sports
-- Dorking Wanderers v Chelmsford City
-- Horsham v Hornchurch
-- Maidstone United v Dagenham & Redbridge
-- Torquay United v Salisbury City
-- Worthing v Maidenhead United
-- Stoke City v Ipswich Town
-- AtlÃ©tico Madrid v Tottenham Hotspur
-- Newcastle United v Barcelona
+- Bayer Leverkusen v Arsenal
+- Birmingham City v QPR
+- Middlesbrough v Charlton Athletic
+- Norwich City v Sheffield United
+- Oxford United v Blackburn Rovers
+- West Brom v Southampton
+- AFC Wimbledon v Blackpool
+- Port Vale v Bradford City
+- Coventry City v Preston North End
+- PSG v Chelsea
+- Real Madrid v Manchester City
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 125.12999725341797 
-- ^FTSE : 10397.9404296875 
-- ^FTMC : 22411.720703125 
+- VWRL.L : 124.94999694824219 
+- ^FTSE : 10341.2197265625 
+- ^FTMC : 22400.7109375 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- PSG vs. Chelsea, Champions League: Preview, team news, how to watch
+- The Daily Hilario: Wednesday
+- How should Chelsea line up against PSG in Champions League Round of 16, first leg?
 - The Daily Hilario: Tuesday
 - Chelsea drawn against Port Vale in FA Cup quarterfinals
 - Vincent Kompany rejects Nicolas Jackson narratives, praises Chelsea loanee
@@ -97,9 +78,6 @@ _Good Morning, Here is your daily briefing..._
 - Dário Essugo feeling ‘very good’ after 8-month injury layoff, instant impact
 - Wrexham 2-4 Chelsea, FA Cup: The JP and Garna-show
 - The Daily Hilario: Sunday
-- Liam Rosenior: ‘We were pushed all the way by very good team’
-- Wrexham 2-4 Chelsea, FA Cup: Post-match reaction, ratings
-- Wrexham vs. Chelsea, FA Cup: Lineups &#038; Game Thread
 
 <!-- news_marker ends -->
 
@@ -107,14 +85,14 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- ftnews_marker starts -->
 
-- Oil slides as Trump says war will end ‘very soon’
-- The thing that everyone expected to happen has happened
-- Can the G7 release enough oil to calm the market?
-- Khamenei martyrdom narrative smooths path for son’s rise
-- Israel expects Lebanon offensive to outlast Iran conflict
-- The handymen and drivers keeping Tehran running
-- White males will have ‘fewer board seats’ in future, says UK diversity chair
-- Lego chief hits out at Danish wealth tax proposal
+- US says it destroyed 16 Iranian minelayers near Strait of Hormuz
+- Gulf disruption chokes sulphur flows supporting swaths of global industry
+- The ‘number station’ sending mystery messages to Iran
+- Iranians rethink the price of regime change
+- The economic consequences of war with Iran
+- Lasers, radars and drones: Middle East war spurs hunt for cheaper air defence
+- People on controversial UK student loan plan each owe over £40,000 on average
+- Kremlin backs covert campaign to keep Orbán in power
 
 <!-- ftnews_marker ends -->
 
@@ -122,40 +100,40 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > Babylonian - noun: A place of great luxury and extravagance, usually accompanied with vice and corruption.
+ > Laodiceanism - noun: Indifference or lukewarmness, especially in matters of religion or politics.
 
 <!-- word_marker ends -->
 
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> A great ScrumMaster grasps the skills and mindset of the role. - Geoff Watts
+> Simplicity is the ultimate sophistication. - Leonardo da Vinci
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> How would you have done it?
+> Put in earplugs
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Bfg (Rated: 2)
-- Released in 1989
-- Summary: An orphan little girl befriends a benevolent giant who takes her to Giant Country, where they attempt to stop the man-eating giants that are invading the human world.
+- F1: The Movie (Rated: 9)
+- Released in 2025
+- Summary: A Formula One driver comes out of retirement to mentor and team up with a younger driver.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 795, using [2, 5, 9, 25, 50, 75]
-- Answer: 39 solutions.
+- Target: 650, using [2, 2, 5, 7, 10, 25]
+- Answer: 46 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 25 + 2 ) / 9 + 50 ) x 75 / 5
+  Solution: ( 10 + 5 - 2 ) x 25 x 2
 
    </details>
 
@@ -163,7 +141,7 @@ _Good Morning, Here is your daily briefing..._
 
 ### Blogroll links
 <!-- blogroll_marker starts -->
-- Non-zero Sum [URL](https://nonzerosum.games/) [Feed](https://nonzerosum.games/rss.xml)
-- Simon BS [URL](https://simonbs.dev/) [Feed](http://simonbs.dev/feed.rss)
-- Mike Swanson [URL](https://blog.mikeswanson.com/) [Feed](https://blog.mikeswanson.com/feed/)
+- DevOpsGroup [URL](https://www.devopsgroup.com/) [Feed](http://blog.devopsguys.com/feed/)
+- Fun Retrospectives [URL](https://www.funretrospectives.com/) [Feed](http://www.funretrospectives.com/feed/)
+- Ploeh.DJ [URL](https://blog.ploeh.dk/) [Feed](https://blog.ploeh.dk/rss.xml)
 <!-- blogroll_marker ends -->
