@@ -156,8 +156,6 @@ navigation_footer:
   - link: "/sitemap.xml"
     title: "Sitemap"
 
-  - link: "https://tools.thechels.uk"
-    title: "Tools &#11084;"
   - link: "/humans.txt"
     title: "Humans"
   - link: "/humans.json"
@@ -167,12 +165,12 @@ navigation_footer:
   - link: "/.well-known/security.txt"
     title: "Security"
   - link: "/.well-known/change-password/"
-    title: "Change password" 
-    
-  - link: "#top"
-    title: "↑ Back to top"
+    title: "Change password"
+
   - link: "https://shop.thechels.uk"
     title: "Shop &#11084;"
+  - link: "https://tools.thechels.uk"
+    title: "Tools &#11084;"
   - link: "https://bsky.app/profile/thechels.uk"
     title: "Bluesky"
   - link: "https://mastodon.social/@Thechelsuk"

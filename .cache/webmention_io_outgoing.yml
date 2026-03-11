@@ -2958,6 +2958,10 @@ https://thechels.uk/osint-tools:
   https://www.bing.com/webmasters/tools/contentremoval: true
   https://www.operationprivacy.com: true
   https://shop.thechels.uk/l/reddit-delete: true
+  https://oilprice.com: false
+  https://www.gov.uk/: false
+  https://www.mi5.gov.uk/: false
+  https://databreaches.net/: false
 https://thechels.uk/the-web-is-bearable-with-rss:
   https://brid.gy/publish/mastodon: false
   https://brid.gy/publish/bluesky: false
