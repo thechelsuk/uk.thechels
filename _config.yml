@@ -111,8 +111,6 @@ navigation_slashes:
     title: "Architecture"
   - link: "/.well-known/avatar.png"
     title: "Avatar"
-  - link: "/about#colophon"
-    title: "Colophon"
   - link: "/cv"
     title: "CV"
   - link: "/disability"
@@ -156,6 +154,8 @@ navigation_footer:
   - link: "/sitemap.xml"
     title: "Sitemap"
 
+  - link: "/about#colophon"
+    title: "Colophon"
   - link: "/humans.txt"
     title: "Humans"
   - link: "/humans.json"
