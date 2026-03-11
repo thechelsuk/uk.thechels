@@ -1,12 +1,10 @@
 ---
 ---
 
-html,
-body {
-    height: 100%;
-}
+/* ---------------------------------- */
+/* ----------  Font Setup  ---------- */
+/* ---------------------------------- */
 
-// 16px = 1em
 @font-face {
     font-family: "TheChelsLight";
     src: url("fonts/TheChelsLight.woff") format("woff");
@@ -18,15 +16,36 @@ body {
     font-weight: bold;
 }
 
+/* ---------------------------------- */
+/* ----------  SCSS Setup  ---------- */
+/* ---------------------------------- */
+
 $background: #ffffff;
 $primary: #04100d;
 $secondary: #005ca3;
 $links: #295147;
 $accent: #cec452;
 $code: #c0deff;
-$font-stack: TheChelsLight, -system-ui, "Gill Sans", sans-serif;
-$header-stack: TheChelsMedium, -system-ui, "Gill Sans", sans-serif;
+$font-stack:
+    TheChelsLight,
+    -system-ui,
+    "Gill Sans",
+    sans-serif;
+$header-stack:
+    TheChelsMedium,
+    -system-ui,
+    "Gill Sans",
+    sans-serif;
 $font-mono: ui-monospace, monospace, "Courier New";
+
+/* ---------------------------------- */
+/* ----------  Main Styles ---------- */
+/* ---------------------------------- */
+
+html,
+body {
+    height: 100%;
+}
 
 body {
     border-top: 0;
@@ -105,19 +124,16 @@ h6 a {
     color: $primary;
 }
 
-h1:hover a,
-h2:hover a,
-h3:hover a,
-h4:hover a,
-h5:hover a,
-h6:hover a,
-h1:focus a,
-h2:focus a,
-h3:focus a,
-h4:focus a,
-h5:focus a,
-h6:focus a {
+:is(h1, h2, h3, h4, h5, h6) a {
     text-decoration: none;
+    color: $primary;
+
+    &:hover {
+        text-decoration: none;
+    }
+    &:focus {
+        text-decoration: none;
+    }
 }
 
 h1 {

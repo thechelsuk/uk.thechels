@@ -2966,3 +2966,15 @@ https://thechels.uk/the-web-is-bearable-with-rss:
   https://brid.gy/publish/mastodon: true
   https://brid.gy/publish/bluesky: true
   https://brid.gy/publish/reddit: true
+https://thechels.uk/cybaa-adds-web-dependency-intelligence:
+  https://brid.gy/publish/mastodon: false
+  https://brid.gy/publish/bluesky: false
+  https://brid.gy/publish/reddit: false
+https://thechels.uk/pod-seek-is-a-new-product-by-castro:
+  https://brid.gy/publish/mastodon: false
+  https://brid.gy/publish/bluesky: false
+  https://brid.gy/publish/reddit: false
+  https://thechels.uk/castro-adds-device-sync: false
+  https://thechels.uk/castro-podcast-app-is-back: false
+  https://thechels.uk/castro-new-pricing-under-new-ownership: false
+  https://apps.apple.com/app/apple-store/id6752532969?pt=126811150&ct=announcement_post&mt=8: false
