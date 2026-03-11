@@ -7,7 +7,7 @@
 {% assign sorted = site.data.blogroll | sort: 'title' %}
 <ul class="blog-menu">
     {% for item in sorted %}
-    <li>// <a href="{{item.link}}">{{item.title}}</a> [<a href="{{ item.xmlUrl}}">feed</a>] &#11084;</li>
+    <li>// <a href="{{item.htmlUrl}}">{{item.title}}</a> [<a href="{{ item.xmlUrl}}">feed</a>] &rarrw;</li>
     {% endfor %}
 </ul>
 {% include footer.html %}
