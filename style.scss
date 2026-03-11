@@ -511,6 +511,29 @@ table {
     }
 }
 
+.theme-icon--dark,
+.theme-icon--alt {
+    display: none;
+}
+
+html.dark-mode {
+    .theme-icon--light {
+        display: none;
+    }
+    .theme-icon--dark {
+        display: inline;
+    }
+}
+
+html.alt-mode {
+    .theme-icon--light {
+        display: none;
+    }
+    .theme-icon--alt {
+        display: inline;
+    }
+}
+
 .footer-avatar {
     display: block;
     margin-left: auto;
@@ -518,6 +541,14 @@ table {
     width: 32px;
     height: 32px;
 }
+
+// a[href^="http"]:not([href*="thechels.uk"]):after {
+//     content: "⎋";
+//     margin-left: 0.25rem;
+//     text-decoration: none;
+//     display: inline-block;
+//     transform: rotate(90deg);
+// }
 
 /* ---------------------------------- */
 /* ---------  Media Queries --------- */

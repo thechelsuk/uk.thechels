@@ -29,7 +29,7 @@ The font-family is a custom font, secondary to that the site utilises the user's
 
 The site supports the setting a variable in the local browser storage to remember themes, it's a challenge for the visitor to find the toggle.
 
-The site uses some icons to denote the type of content, these are: &rarr; (`&rarr;`) for posts that link to other sites, &raquo; (`&raquo;`) for quotations, and &#11084; (`&#11084;`) for external links, although ultimately these are all just decorative and non-functional.
+The site uses some icons to denote the type of content, these are: &rarr; (`&rarr;`) for posts that link to other sites, &raquo; (`&raquo;`) for quotations without a linked source, and ↝ (`&rarrw;`) exists for other external links, although ultimately these are all just decorative and non-functional. &rrarr; (`&rrarr;`) is used for sponsored content and adverts.
 
 ## In The Press
 
