@@ -558,17 +558,21 @@ html.alt-mode {
 /* ---------  Media Queries --------- */
 /* ---------------------------------- */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 720px) {
     .blog-title {
         font-size: 2em;
     }
-    
+
+    .blog-slogan {
+        font-size: 0.8em;
+    }
+
     #footer {
-      font-size: 0.625em
+        font-size: 0.625em;
     }
 }
 
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 960px) {
     #wrapper,
     #footer {
         margin: 0 auto;
