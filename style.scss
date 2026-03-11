@@ -412,7 +412,6 @@ cite {
 .posts {
     margin-left: 0;
     padding-left: 0;
-    margin-bottom: 0.8em;
     transition: all 0.1s;
 }
 
@@ -537,9 +536,13 @@ table {
 @media screen and (max-width: 980px) {
     #wrapper,
     #footer {
-        margin: 1em auto;
+        margin: 0 auto;
         width: auto;
         max-width: 832px;
+    }
+
+    .blog-title {
+        font-size: 2em;
     }
 
     .book-list {
