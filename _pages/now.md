@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: What I am Doing Now and Next
+title: What I am Doing Now
 permalink: /now
 seo: Page detailing what i am working on now and next
 
@@ -10,7 +10,7 @@ seo: Page detailing what i am working on now and next
 
 _Based on the [now](https://sive.rs/now) page idea from [Derek Sivers](https://sive.rs/nowff)._
 
-- Pacing and rest - currently on long term sick leave due to a diagnosis of me/cfs (Oct 2025)
+- Pacing and rest - currently on long term sick leave (Jul 2025) due to a diagnosis of me/cfs (Oct 2025)
 
 ## Next
 
