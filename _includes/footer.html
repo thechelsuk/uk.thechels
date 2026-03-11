@@ -2,10 +2,7 @@
 </div>
 <footer role="contentinfo" id="footer" class="flow">
   <ul class="footer-meta">
-    <li>Build: {{ site.github.build_revision | slice: 0, 12 }}.
-      <span class="theme-icon theme-icon--light">&#9788;</span>
-      <span class="theme-icon theme-icon--dark">&#9790;</span>
-      <span class="theme-icon theme-icon--alt">&#9733;</span>
+    <li>Build: {{ site.github.build_revision | slice: 0, 8 }}.
     </li>
     <li>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}</li>
     <li><a href="#top">↑ Back to top</a></li>
@@ -20,7 +17,7 @@
   </ul>
   <p class="footer-avatar">
     <img src="{{ site.owner.avatar }}" alt="{{ site.owner.name }}" class="footer-avatar">
-  </p>
+  </p> 
 </footer>
 </div>
 <script src="{{ site.baseurl }}/app.js"></script>
