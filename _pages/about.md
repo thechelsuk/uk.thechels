@@ -5,6 +5,8 @@ permalink: /about
 seo: About page for the owner of thechels.uk
 ---
 
+It is called "weak notes" as a play on words of the popular Government Digital Service era "[week](https://promo.cymru/resource-articles/weeknotes/) [notes](https://weeknot.es)" blogging style - due to the likelihood, posting will be inconsistent and irregular, and having worked adjacent to Government for 14 years.
+
 ![banner photo - running in London](/images/gh-header-image-cropped.jpg)
 
 An experienced engineering leader with a passion for people development, building teams, implementing agile methodologies, and focusing on flow and delivery. A broad history of working with teams using various programming languages, in fast-paced and regulated environments.
@@ -18,8 +20,6 @@ Holds an HND in Business Information Systems and an HNC in Business IT in Comput
 ## Colophon
 
 Hosted on [GitHub Pages](https://pages.github.com), the site uses [Jekyll](https://jekyllrb.com), a static site generator, on [Ruby](https://www.ruby-lang.org/en/) using the [liquid templating language](https://shopify.github.io/liquid/). It also uses GitHub Actions and [Python](https://www.python.org) for automation and additional compute at build time. Content is written in GitHub flavoured [Markdown](https://daringfireball.net/projects/markdown/). Data is stored in [Yaml](https://yaml.org) files. DNS and SSL by [Cloudflare](https://www.cloudflare.com). [VSCode for Mac](https://code.visualstudio.com/) as the IDE, supported by various plugins. [Working Copy](https://workingcopy.app/) on iOS as the Git client of choice. [Drafts](https://getdrafts.com/) App as the starting point for content creation.
-
-It is called "weak notes" as a play on words of the popular Government "[week](https://promo.cymru/resource-articles/weeknotes/) [notes](https://weeknot.es)" blogging style - due to the likelihood, posting will be inconsistent and irregular, and having worked adjacent to Government for 14 years.
 
 The site is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) (PWA) and can be installed on devices from modern browsers. There is no cookies or tracking other than some of the CloudFlare protection and RUA. The site builds as static html and css, uses browser and Cloudflare caching and scores highly in performance scanning tools and in Lighthouse scores with 100% across the board. At the time of checking the site has [valid HTML](https://validator.w3.org/nu/?doc=https%3A%2F%2Fthechels.uk%2F) and [valid CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthechels.uk&profile=css3svg). There is minimal JavaScript used on the site purely for the [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) for caching and offline support. The site also utilises a web App Manifest for Progressive Web App (PWA) support.
 
