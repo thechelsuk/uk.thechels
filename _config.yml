@@ -78,7 +78,9 @@ navigation_header:
     title: "Links &neArr;"
   - link: "https://tools.thechels.uk"
     title: "Tools &neArr;"
-
+  - link: "https://shop.thechels.uk"
+    title: "Shop &neArr;"
+    
 ## SubMenu
 navigation_data:
   - link: "/daily"
