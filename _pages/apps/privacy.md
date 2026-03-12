@@ -1,6 +1,6 @@
 ---
 layout: default
-title: App Privacy
+title: App Privacy - Mobile Application Privacy Policy
 permalink: /app/privacy
 seo: thechelsuk and Hiyd Mobile Apps Privacy Policy
 ---
@@ -9,7 +9,7 @@ seo: thechelsuk and Hiyd Mobile Apps Privacy Policy
 
 ## Overview
 
-thechelsuk and Hiyd ("we," "our," or "us") are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our apps and extensions.
+thechelsuk and Hiyd ("we," "our," or "us") are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our any of our apps and extensions. We have one policy as everything is built with the privacy in mind.
 
 ## Information We Collect
 
@@ -25,7 +25,7 @@ thechelsuk and Hiyd ("we," "our," or "us") are committed to protecting your priv
 ### Local Storage Only
 
 - All your data is stored locally on your device
-- Settings and preferences are saved in your browser's local storage (Chrome extension) or iCloud (iOS app)
+- Settings and preferences are saved in your browser's local storage (Chrome extension if applicable) or iCloud (iOS or iPadOS apps)
 - No data is transmitted to our servers or any third-party services
 
 ## How We Use Information
@@ -35,6 +35,9 @@ Since we don't collect personal information, we cannot use it. All processing ha
 - Markdown generation and formatting
 - Jekyll front matter creation
 - Content preview and editing
+- JSON files for archiving or export.
+- Local settings management and preferences storage.
+- Keyboard shortcuts and user interface interactions.
 
 ## Data Security
 
