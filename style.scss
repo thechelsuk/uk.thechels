@@ -175,7 +175,7 @@ body {
     position: relative;
     overflow: hidden;
     background: url("images/me72.png") center/cover no-repeat;
-    border: 2cap solid $$accent;
+    border: 2px solid $accent;
 
     &::after {
         content: "";
