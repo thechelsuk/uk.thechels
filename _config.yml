@@ -165,16 +165,14 @@ navigation_footer:
   - link: "/.well-known/change-password/"
     title: "Change password"
   - link: "/.well-known/dnt-policy.txt"
-    title: "DNT Policy (txt) 
+    title: "DNT Policy (txt)"
 
   - link: "/about#colophon"
     title: "Colophon"
   - link: "https://shop.thechels.uk"
     title: "Shop &neArr;"
   - link: "https://tools.thechels.uk"
-    title: "Tools &neArr;"
-  - link: "https://links.thechels.uk"
-    title: "Links &neArr;"
+    title: "Tools &neArr;" 
   - link: "https://bsky.app/profile/thechels.uk"
     title: "Bluesky &neArr;"
   - link: "https://mastodon.social/@Thechelsuk"
