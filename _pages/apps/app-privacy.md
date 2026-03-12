@@ -2,16 +2,18 @@
 layout: default
 title: App Privacy - Mobile Application Privacy Policy
 permalink: /app-privacy
-seo: thechelsuk Mobile Apps Privacy Policy
+seo: thechelsuk and Hiyd Mobile Apps Privacy Policy
 ---
 
-**Last updated:** _June 9, 2025_
+**Last updated:** _12th March, 2025_
 
 ## Overview
 
-TheChels ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our apps and extensions.
+thechelsuk and Hiyd ("we," "our," or "us") are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our apps and extensions.
 
 ## Information We Collect
+
+- We do not collect any personal information from our users. Our apps and extensions are designed to operate without the need for any data collection.
 
 ### Information We Don't Collect
 
@@ -43,7 +45,7 @@ Since we don't collect personal information, we cannot use it. All processing ha
 
 ## Third-Party Services
 
-Hyd does not integrate with or share data with any third-party services. The app operates entirely offline after installation.
+Neither Hiyd nor thechelsuk integrates with or shares data with any third-party services. The app operates entirely offline after installation.
 
 ## Children's Privacy
 
@@ -55,9 +57,10 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ## Contact Us
 
-If you have questions about this Privacy Policy, please contact us at:
+If you have questions about this Privacy Policy, please contact us at either:
 
 - Email: <privacy@hiyd.uk>
+- Email: <privacy@thechels.uk>
 
 ## Your Rights
 
