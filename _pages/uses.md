@@ -50,3 +50,6 @@ As well as the usual banking, utility, and home apps for the services I use, plu
 ## Fuel
 
 - Pepsi Max
+- Baked (Jacket) Potatoes
+- Pink Lady Apples
+- Blueberries
