@@ -8,13 +8,13 @@ seo: my disabilities are ME/CFS and MCAS
 
 ![me](/images/me-2025-02-1024.png){:center}
 
-I suffer from Myalgic Encephalomyelitis commonly known as ME or ME/CFS, and MCAS.
+I suffer from Myalgic Encephalomyelitis commonly known as ME or ME/CFS.
 
-Additionally, I also have Protanopia and Deuteranopia (colourblindness) and suffer from Reynaud's syndrome.
+Additionally, I sugger from MCAS, Protanopia and Deuteranopia (colourblindness) as well as from Reynaud's syndrome.
 
-I am largely homebound and unable to work, physical activity is severely limited as well as cognitive exertion and stress exacerbates the symptoms.
+I am largely homebound and unable to work, physical activity is severely limited as well as cognitive exertion and stress exacerbates my symptoms often for several days. My sleep is so distrupted any form of planning is largely impossible.
 
-I am sensitive to light and sound, most of the time and suffer from a wide range of symptoms including palpitations, stabbing pains, neurological and nerve pain, overwhelming sense of dread, malaise, and feeling poisoned.
+I am sensitive to light and sound most of the time and suffer from a wide range of symptoms including palpitations, stabbing pains, neurological and nerve pain, gastrointestinal issues, overwhelming sense of dread, general malaise, and feeling poisoned.
 
 _Imagine the worst flu you've ever had and imagine that feeling for everyday of the rest of our life and that is what your new baseline or new normal is. On most days you live in darkness and alone having given up any form of exercise, social activities, or going to any public places when doing any activity out of neccessity it feels like you have run a marathon whilst not being able to remember the word for box, or sea..._
 
@@ -84,3 +84,4 @@ There is a blood test, although often inconclusive and can frequently be a false
 - [Mast Cell Action](https://www.mastcellaction.org/)
 - [International Society for
 Mast Cell Activation Syndromes](https://ismcas.org)
+
