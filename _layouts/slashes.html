@@ -5,7 +5,7 @@
 
 <h2>Slash Pages</h2>
 
-<nav id="submenu" class="blog-menu">
+<nav id="submenu">
     <ul>
         {% assign sorted_navigation_slashes = site.navigation_slashes | sort:
         'title' %} {% for item in sorted_navigation_slashes %}
@@ -16,7 +16,7 @@
 
 <h2>Data Pages</h2>
 
-<nav id="datamenu" class="blog-menu">
+<nav id="datamenu">
     <ul>
         {% assign sorted_navigation_data = site.navigation_data | sort:
         'title' %} {% for dataitems in sorted_navigation_data %}
