@@ -18,7 +18,7 @@ Those actions are:
 - creating a serious risk to the health or safety of the public or a section of the public; and
 - action designed to seriously interfere with or seriously to disrupt an electronic system
 
-Killing the adversarial leader and family members, 160 odd people, mostly children on day one, the oil rain will cause the potential for decades of ill health.
+Killing the adversarial leader and family members, 160 odd people, mostly children on day one, the oil rain will cause the potential for decades of ill health woukd seem to meet many if not all of the criteria.
 
 And then here is a news article  from the [Guardian](https://www.theguardian.com/world/2026/mar/03/us-israel-iran-war-christian-rhetoric) about religious ideology being invoked by commanders in the US.
 
