@@ -5,7 +5,7 @@
     Links are directly to the podcast feed.
 </p>
 {% assign sorted = site.data.podcasts | sort: 'name' %}
-<ul class="blog-menu">
+<ul>
     {% for item in sorted %}
     <li>// <a href="{{item.link}}">{{item.name}}</a> &neArr;</li>
     {% endfor %}

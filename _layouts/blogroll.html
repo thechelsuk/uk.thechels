@@ -5,7 +5,7 @@
 {{ content }}
 
 {% assign sorted = site.data.blogroll | sort: 'title' %}
-<ul class="blog-menu">
+<ul>
     {% for item in sorted %}
     <li>// <a href="{{item.htmlUrl}}">{{item.title}}</a> [<a href="{{ item.xmlUrl}}">feed</a>] &neArr;</li>
     {% endfor %}
