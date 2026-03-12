@@ -2,28 +2,50 @@
 layout: default
 title: App Privacy
 permalink: /app/privacy
-seo: app privacy policy
+seo: thechelsuk and Hiyd Mobile Apps Privacy Policy
 ---
 
-**Last updated:** _July 5, 2025_
+**Last updated:** _12th March, 2025_
 
 ## Overview
 
-TheChels ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our apps and extensions.
+thechelsuk and Hiyd ("we," "our," or "us") are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our apps and extensions.
 
 ## Information We Collect
 
-- None. All our apps and extensions are designed with a privacy-first approach, meaning we do not collect, store, or transmit any personal information or usage data. We don't have any servers or databases that store user data.
+- We do not collect any personal information from our users. Our apps and extensions are designed to operate without the need for any data collection.
 
-- All data is processed locally on your device or iCloud, ensuring complete privacy and control over your content.
+### Information We Don't Collect
+
+- **Personal Data**: We do not collect, store, or transmit any personal information
+- **Usage Analytics**: We do not track your usage patterns or behaviour
+- **Account Information**: No account creation or login is required
+- **Content Data**: Your markdown content and Jekyll posts remain entirely in your iCloud drive or local device.
+
+### Local Storage Only
+
+- All your data is stored locally on your device
+- Settings and preferences are saved in your browser's local storage (Chrome extension) or iCloud (iOS app)
+- No data is transmitted to our servers or any third-party services
 
 ## How We Use Information
 
-- Since we don't collect personal information, we cannot use it. All processing happens locally on your device.
+Since we don't collect personal information, we cannot use it. All processing happens locally on your device:
+
+- Markdown generation and formatting
+- Jekyll front matter creation
+- Content preview and editing
+
+## Data Security
+
+- **Local Processing**: All operations are performed locally on your device
+- **No Server Communication**: The app does not communicate with external servers
+- **No Data Transmission**: Your content never leaves your device or iCloud drive
+- **Device Security**: Your data security depends on your device's security measures
 
 ## Third-Party Services
 
-None of our apps integrate with or share data with any third-party services. The app operates entirely offline after installation, or uses iCloud for storage, which is managed by Apple.
+Neither Hiyd nor thechelsuk integrates with or shares data with any third-party services. The app operates entirely offline after installation.
 
 ## Children's Privacy
 
@@ -35,8 +57,9 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ## Contact Us
 
-If you have questions about this Privacy Policy, please contact us at:
+If you have questions about this Privacy Policy, please contact us at either:
 
+- Email: <privacy@hiyd.uk>
 - Email: <privacy@thechels.uk>
 
 ## Your Rights
@@ -46,3 +69,5 @@ Since we don't collect personal data:
 - There is no data to access, modify, or delete
 - No data portability is needed as everything stays on your device
 - You maintain complete control over your information
+
+This privacy-first approach ensures your content and usage patterns remain completely private and under your control.
