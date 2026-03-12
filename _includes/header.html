@@ -151,27 +151,34 @@
               <a href="#main" class="skip-link">Skip to main content</a>
             </li>
           </ul>
-          <div class="blog-title">
-            <a href="{{ site.url }}">
-              {% if site.title %}
-              {{ site.title }}
+          <div class="blog-bar">
+            <div class="blog-identity">
+              <div class="blog-avatar" role="img" aria-label="{{ site.owner.name }}"></div>
+              <div class="blog-text">
+                <div class="blog-title">
+                  <a href="{{ site.url }}">
+                    {% if site.title %}
+                    {{ site.title }}
+                    {% else %}
+                    {{ page.title }}
+                    {% endif %}</a><sup class="asterisk" id="top" tabindex="0" title="Toggle light/dark mode">*</sup>
+                </div>
+                <div class="blog-slogan"> {% assign slogans=site.data.slogans %} {% assign random_index="now" | date:
+                  "%s" |
+                  modulo: slogans.size %} // {{ slogans[random_index] }} </div>
+              </div>
+            </div>
+            <nav role="navigation" class="blog-menu">
+              {% if page.id %}
+              <a href="{{ site.url }}" title="Back to all posts">&larr; Back</a>
               {% else %}
-              {{ page.title }}
-              {% endif %}</a> <sup class="asterisk" id="top" tabindex="0" title="Toggle light/dark mode">*</sup>
+              <a href="{{ site.url }}" title="Back to all home">&larr; Home</a>
+              {% endif %}
+              {% for item in site.navigation_header %}
+              <a href="{{item.link}}">{{item.title}}</a>
+              {% endfor %}
+            </nav>
           </div>
-          <div class="blog-image"></div>
-          <div class="blog-slogan"> {% assign slogans=site.data.slogans %} {% assign random_index="now" | date: "%s" |
-            modulo: slogans.size %} // {{ slogans[random_index] }} </div>
-          <nav role="navigation" class="blog-menu">
-            {% if page.id %}
-            <a href="{{ site.url }}" title="Back to all posts">&larr; Back</a>
-            {% else %}
-            <a href="{{ site.url }}" title="Back to all home">&larr; Home</a>
-            {% endif %}
-            {% for item in site.navigation_header %}
-            <a href="{{item.link}}">{{item.title}}</a>
-            {% endfor %}
-          </nav>
         </header>
         <main role="main" id="main" class="content flow">
           <script>
