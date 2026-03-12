@@ -1,6 +1,4 @@
----
----
-
+--- ---
 /* ---------------------------------- */
 /* ----------  Font Setup  ---------- */
 /* ---------------------------------- */
@@ -78,13 +76,11 @@ $accent: var(--accent);
 $code: var(--code);
 $tab: var(--tab);
 $alt-tab: var(--alt-tab);
-$font-stack:
-    TheChelsLight,
+$font-stack: TheChelsLight,
     -system-ui,
     "Gill Sans",
     sans-serif;
-$header-stack:
-    TheChelsMedium,
+$header-stack: TheChelsMedium,
     -system-ui,
     "Gill Sans",
     sans-serif;
@@ -112,11 +108,11 @@ body {
     transition: $transition;
 }
 
-.flow > * + * {
+.flow>*+* {
     margin-block-start: var(--flow-space, 1em);
 }
 
-.stack > * + * {
+.stack>*+* {
     margin-block-start: 1.5em;
 }
 
@@ -177,7 +173,7 @@ body {
     position: relative;
     overflow: hidden;
     background: url("images/me72.png") center/cover no-repeat;
-    border: 1px solid $primary;
+    border: 2cap solid $$accent;
 
     &::after {
         content: "";
@@ -275,23 +271,28 @@ body {
 .primary {
     color: $primary;
 }
+
 .secondary {
     color: $secondary;
 }
+
 .links {
     color: $links;
 }
+
 .accent {
     color: $accent;
 }
+
 .font-stack {
     font-family: $font-stack;
 }
+
 .font-mono {
     font-family: $font-mono;
 }
 
-.highlight > pre {
+.highlight>pre {
     background: $code;
     color: $primary;
     padding: 0.525em;
@@ -374,6 +375,7 @@ main:focus {
     &:hover {
         text-decoration: none;
     }
+
     &:focus {
         text-decoration: none;
     }
@@ -434,7 +436,7 @@ code {
     font-size: 0.75em;
 }
 
-pre > code {
+pre>code {
     font-size: 0.9em;
 }
 
@@ -544,11 +546,13 @@ table {
     list-style: none;
     padding: 0;
     margin: 0;
+
     li {
         display: block;
         margin-bottom: 0.4em;
         text-transform: uppercase;
     }
+
     li a {
         text-decoration: none;
     }
@@ -556,6 +560,7 @@ table {
 
 .footer-meta {
     margin-bottom: 1em;
+
     li:nth-child(1),
     li:nth-child(2) {
         break-after: column;
@@ -564,6 +569,7 @@ table {
 
 .footer-links {
     column-rule: 1px solid $secondary;
+
     li:nth-child(6),
     li:nth-child(12) {
         break-after: column;
@@ -599,6 +605,7 @@ html.dark-mode {
     .theme-icon--light {
         display: none;
     }
+
     .theme-icon--dark {
         display: inline;
     }
@@ -608,6 +615,7 @@ html.alt-mode {
     .theme-icon--light {
         display: none;
     }
+
     .theme-icon--alt {
         display: inline;
     }
@@ -644,6 +652,7 @@ html.alt-mode {
 }
 
 @media screen and (max-width: 960px) {
+
     #wrapper,
     #footer {
         margin: 0 auto;
