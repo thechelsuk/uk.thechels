@@ -148,6 +148,130 @@ body {
     clear: both;
 }
 
+/* ---------------------------------- */
+/* ----------  Header bar  ---------- */
+/* ---------------------------------- */
+
+.blog-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    padding-bottom: 0.6em;
+    border-bottom: 1px solid $accent;
+}
+
+.blog-identity {
+    display: flex;
+    align-items: stretch;
+    gap: 0.5em;
+}
+
+.blog-avatar {
+    width: 4.5em;
+    min-width: 4.5em;
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+    flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
+    background: url("images/me72.png") center/cover no-repeat;
+    border: 1px solid $primary;
+
+    &::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        border-radius: 50%;
+        background: url("images/me72-hover.png") center/cover no-repeat;
+        opacity: 0;
+        transition: opacity 2s ease-in-out;
+    }
+
+    &:hover::after {
+        opacity: 1;
+        transition: opacity 2s ease-in-out 0.5s;
+    }
+}
+
+.blog-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.blog-title {
+    font-size: 3em;
+    font-family: $header-stack;
+    line-height: 1;
+    outline: none;
+
+    a {
+        text-decoration: none;
+        color: $primary;
+    }
+
+    a:active,
+    a:hover {
+        text-decoration: none;
+    }
+}
+
+.asterisk {
+    font-size: 0.8em;
+    color: $accent;
+    cursor: pointer;
+    vertical-align: super;
+    display: inline-block;
+
+    &:hover {
+        rotate: 180deg;
+        transition: color 1s ease-in-out;
+        text-decoration: none;
+        color: $secondary;
+    }
+}
+
+.blog-slogan {
+    font-size: 0.9em;
+    color: $secondary;
+    margin-top: 0.2em;
+}
+
+.blog-menu {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+
+    a {
+        color: $links;
+        font-size: 0.9em;
+        padding: 0.25em 0.5em;
+        white-space: nowrap;
+        text-decoration: none;
+
+        &:hover,
+        &:focus {
+            color: $accent;
+            text-decoration: underline;
+        }
+
+        &:not(:first-child)::before {
+            content: "\00b7";
+            margin-right: 0.5em;
+            color: $primary;
+            pointer-events: none;
+            user-select: none;
+            display: inline-block;
+        }
+    }
+}
+
+/* ---------------------------------- */
+/* ----------  Utility Classes  ----- */
+/* ---------------------------------- */
+
 .primary {
     color: $primary;
 }
@@ -196,74 +320,6 @@ main:focus {
     outline: none;
 }
 
-.blog-title {
-    font-size: 3em;
-    font-weight: bold;
-    padding-bottom: 0;
-    margin-right: 0.5em;
-    display: inline-block;
-    outline: none;
-
-    a {
-        text-decoration: none;
-        color: $primary;
-    }
-
-    a:active,
-    a:hover {
-        text-decoration: none;
-    }
-
-    sup {
-        color: $accent;
-    }
-}
-
-.asterisk {
-    font-size: 1em;
-    margin: 0 auto;
-    line-height: 1em;
-    text-align: center;
-    cursor: pointer;
-
-    &:hover {
-        rotate: 180deg;
-        transition: color 1s ease-in-out;
-        text-decoration: none;
-        color: $secondary;
-        display: inline-block;
-    }
-}
-
-.blog-slogan {
-    color: $secondary;
-    display: block;
-    font-size: 1em;
-}
-
-.blog-menu {
-    margin: 1em 0;
-    color: $accent;
-
-    a {
-        padding: 0 0.3em;
-    }
-}
-
-.blog-image {
-    display: block;
-    float: right;
-    height: 72px;
-    width: 72px;
-    margin-top: 0;
-    background: url("images/me72.png") no-repeat;
-
-    &:hover {
-        background: url("images/me72-hover.png") no-repeat;
-        transition: all 2s ease-in-out 0.5s;
-    }
-}
-
 .meta {
     color: $secondary;
     display: block;
@@ -299,12 +355,7 @@ main:focus {
     width: 90px;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+:is(h1, h2, h3, h4, h5, h6) {
     color: $primary;
     position: relative;
     display: block;
@@ -482,6 +533,10 @@ table {
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
+/* ---------------------------------- */
+/* ----------  Footer Styles  ------- */
+/* ---------------------------------- */
+
 .footer-meta,
 .footer-links {
     column-count: 3;
@@ -515,6 +570,26 @@ table {
     }
 }
 
+.footer-avatar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 32px;
+    height: 32px;
+}
+
+/* ---------------------------------- */
+/* ----------  Theming  ------------- */
+/* ---------------------------------- */
+
+// a[href^="http"]:not([href*="thechels.uk"]):after {
+//     content: "⎋";
+//     margin-left: 0.25rem;
+//     text-decoration: none;
+//     display: inline-block;
+//     transform: rotate(90deg);
+// }
+
 .theme-icon--dark,
 .theme-icon--alt {
     display: none;
@@ -538,31 +613,27 @@ html.alt-mode {
     }
 }
 
-.footer-avatar {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 32px;
-    height: 32px;
-}
-
-// a[href^="http"]:not([href*="thechels.uk"]):after {
-//     content: "⎋";
-//     margin-left: 0.25rem;
-//     text-decoration: none;
-//     display: inline-block;
-//     transform: rotate(90deg);
-// }
-
 /* ---------------------------------- */
 /* ---------  Media Queries --------- */
 /* ---------------------------------- */
 
-@media only screen and (max-width: 720px) {
-    .blog-title {
-        font-size: 2em;
+@media only screen and (max-width: 540px) {
+    .blog-bar {
+        flex-direction: column;
+        align-items: flex-start;
     }
 
+    .blog-menu a {
+        font-size: 0.8em;
+        padding: 0.25em 0.3em;
+    }
+
+    .blog-menu a:not(:first-child)::before {
+        margin-right: 0.3em;
+    }
+}
+
+@media only screen and (max-width: 720px) {
     .blog-slogan {
         font-size: 0.8em;
     }
