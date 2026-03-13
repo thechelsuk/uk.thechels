@@ -89,6 +89,14 @@ $header-stack: TheChelsMedium,
     sans-serif;
 $font-mono: ui-monospace, monospace, "Courier New";
 
+.font-stack {
+    font-family: $font-stack;
+}
+
+.font-mono {
+    font-family: $font-mono;
+}
+
 /* ---------------------------------- */
 /* ----------  Main Styles ---------- */
 /* ---------------------------------- */
@@ -267,6 +275,11 @@ body {
     }
 }
 
+main:focus {
+    outline: none;
+}
+
+
 /* ---------------------------------- */
 /* ----------  Utility Classes  ----- */
 /* ---------------------------------- */
@@ -285,14 +298,6 @@ body {
 
 .accent {
     color: $accent;
-}
-
-.font-stack {
-    font-family: $font-stack;
-}
-
-.font-mono {
-    font-family: $font-mono;
 }
 
 .highlight>pre {
@@ -320,8 +325,32 @@ body {
     padding: 0;
 }
 
-main:focus {
-    outline: none;
+.marker {
+    display: inline-block;
+    position: relative;
+    z-index: 0;
+}
+
+.marker::before {
+    content: "";
+    position: absolute;
+    left: -0.35em;
+    right: -0.35em;
+    top: 0;
+    height: 66%;
+    background: linear-gradient(180deg,
+            rgba(255, 182, 193, 0.95) 0%,
+            rgba(255, 182, 193, 0.60) 100%);
+    border-radius: 0.15em;
+    transform: skewY(-2deg);
+    pointer-events: none;
+    z-index: -1;
+    mix-blend-mode: multiply;
+}
+
+
+.marker {
+    background-image: linear-gradient(to top, #fbe4ea 50%, transparent 50%);
 }
 
 .meta {
@@ -418,13 +447,6 @@ a {
     }
 }
 
-img {
-    display: block;
-    max-width: 100%;
-    height: auto;
-    border: 1px solid $primary;
-}
-
 .codeblock {
     font-family: $font-mono;
     border: 0.125em solid $secondary;
@@ -487,6 +509,47 @@ cite {
     width: 1px;
 }
 
+.highlighter {
+    background: $accent;
+    color: $primary;
+    padding: 0.265em;
+    border-radius: 0.5em;
+    margin: 0.265em;
+    font-size: 0.8em;
+}
+
+/* ---------------------------------- */
+/* ----------  Image Styles  -------- */
+/* ---------------------------------- */
+
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border: 1px solid $primary;
+}
+
+.book-img img {
+    border: 0;
+}
+
+.app-icon {
+    width: 64px;
+    height: 64px;
+    border-radius: 6px;
+    margin-right: 12px;
+    margin-bottom: 12px;
+    float: left;
+    display: block;
+    border: 1px solid $alt-tab;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* ---------------------------------- */
+/* ----------  Table Styles  -------- */
+/* ---------------------------------- */
+
 table {
     width: 100%;
     border-collapse: collapse;
@@ -511,31 +574,6 @@ table {
     tr:hover {
         background-color: $code;
     }
-}
-
-.book-img img {
-    border: 0;
-}
-
-.highlighter {
-    background: $accent;
-    color: $primary;
-    padding: 0.265em;
-    border-radius: 0.5em;
-    margin: 0.265em;
-    font-size: 0.8em;
-}
-
-.app-icon {
-    width: 64px;
-    height: 64px;
-    border-radius: 6px;
-    margin-right: 12px;
-    margin-bottom: 12px;
-    float: left;
-    display: block;
-    border: 1px solid $alt-tab;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
 /* ---------------------------------- */
