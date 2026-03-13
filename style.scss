@@ -1,5 +1,5 @@
 ---
-
+layout: empty
 ---
 
 /* ---------------------------------- */
@@ -547,13 +547,13 @@ table {
     column-count: 3;
     column-gap: 4em;
     list-style: none;
-    padding: 0;
     margin: 0;
 
     li {
         display: block;
         margin-bottom: 0.4em;
         text-transform: uppercase;
+        padding: 0.15625em;
     }
 
     li a {
