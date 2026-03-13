@@ -642,6 +642,11 @@ html.alt-mode {
     .blog-menu a:not(:first-child)::before {
         margin-right: 0.3em;
     }
+    
+    .footer-links {
+      li {
+        padding: 0;;
+    }
 }
 
 @media only screen and (max-width: 720px) {
