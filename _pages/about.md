@@ -7,7 +7,7 @@ seo: About page for the owner of thechels.uk
 
 It is called "weak notes" as a play on words of the popular Government Digital Service era "[week](https://promo.cymru/resource-articles/weeknotes/) [notes](https://weeknot.es)" blogging style - due to the likelihood, posting will be inconsistent and irregular, and having worked adjacent to Government for 14 years.
 
-![Banner photo - Running in Fulham, London, UK. November 2018. A 10km race by Adidas City Run campaign where all entrants we sent a T shirt to keep and wear with their badge number on. Chip time was 47.22](/images/gh-header-image-cropped.jpg)
+![Banner photo - Running in Fulham, London, UK. November 2018. A 10km race by Adidas City Runs campaign where all entrants we sent a T shirt to keep and wear with their badge number on. Chip time was 47.22](/images/gh-header-image-cropped.jpg)
 
 An experienced engineering leader with a passion for people development, building teams, implementing agile methodologies, and focusing on flow and delivery. A broad history of working with teams using various programming languages, in fast-paced and regulated environments.
 
