@@ -1,5 +1,4 @@
 ---
----
 /* ---------------------------------- */
 /* ----------  Font Setup  ---------- */
 /* ---------------------------------- */
@@ -496,6 +495,12 @@ cite {
     vertical-align: top;
     margin-right: 1.4em;
     margin-top: 0.8em;
+}
+
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
 }
 
 .content {

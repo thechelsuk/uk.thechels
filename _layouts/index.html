@@ -2,7 +2,7 @@
 <h1 class="post-title">{{ page.title }}</h1>
 <p class="marker"><b>{{ site.posts | size }}</b> total posts.</p>
 <div id="blog-archives" class="flow">
-
+  <h2>Recent Posts</h2>
   {% for post in site.posts limit:5 %}
   <div class="posts">
     <a href="{{ post.url }}">{{ post.title }}</a> {% include post_icon.html %}
@@ -20,11 +20,25 @@
     <span class="meta">// Sponsor/Advert, T&amp;Cs apply.</span>
   </div>
 
+  <div class="flow clearfix">
+    <p class="meta">Skip to:
+      {% capture year_links %}
+      {% for post in site.posts offset:5 %}
+      {{ post.date | date: "%Y" }}
+      {% endfor %}
+      {% endcapture %}
+      {% assign archive_years = year_links | split: " " | uniq | sort | reverse %}
+      {% for y in archive_years %}
+      <a href="/#{{ y }}" class="year">{{ y }}</a>{% unless forloop.last %} / {% endunless %}
+      {% endfor %}
+    </p>
+  </div>
+
   {% for post in site.posts offset:5 %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% unless year == this_year %}
   {% assign year = this_year %}
-  <h2>{{ year }} Archive</h2>
+  <h2 id="{{ year }}">{{ year }} Archive</h2>
   {% endunless %}
   <div class="posts">
     <a href="{{ post.url }}">{{ post.title }}</a> {% include post_icon.html %}
