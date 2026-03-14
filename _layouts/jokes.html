@@ -1,0 +1,7 @@
+{% include header.html %}
+<h1 class="post-title">{{ page.title }}</h1>
+<p class="marker"><b>{{ site.data.jokes | size }}</b> jokes written.</p>
+
+{{content}}
+
+{% include footer.html %}
