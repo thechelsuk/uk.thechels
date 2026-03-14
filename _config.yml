@@ -80,7 +80,7 @@ navigation_header:
     title: "Tools &neArr;"
   - link: "https://shop.thechels.uk"
     title: "Shop &neArr;"
-    
+
 ## SubMenu
 navigation_data:
   - link: "/daily"
@@ -174,7 +174,7 @@ navigation_footer:
   - link: "https://shop.thechels.uk"
     title: "Shop &neArr;"
   - link: "https://tools.thechels.uk"
-    title: "Tools &neArr;" 
+    title: "Tools &neArr;"
   - link: "https://bsky.app/profile/thechels.uk"
     title: "Bluesky &neArr;"
   - link: "https://mastodon.social/@Thechelsuk"
