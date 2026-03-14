@@ -9,5 +9,5 @@ if __name__ == "__main__":
     string = helper.FileProcessorPicksRandomObjects(OF=OF,
                                                     IF=IF,
                                                     KEY=KEY,
-                                                    count=3)
+                                                    count=5)
     print(string)

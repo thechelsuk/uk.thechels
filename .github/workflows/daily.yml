@@ -45,6 +45,7 @@ jobs:
                   python '_python/remember_film.py'
                   python '_python/countdown.py'
                   python '_python/blogroll.py'
+                  python '_python/jokes.py'
             - name: Commit and push
               run: |-
                   git diff
