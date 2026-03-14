@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-03-13
+date: 2026-03-14
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,21 +11,21 @@ date: 2026-03-13
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Friday, 13 March 2026
+## On Saturday, 14 March 2026
 
-- The average temperature today is 5.26˚C,
-- With highs of 5.26˚C and lows of 5.26˚C,
-- It may feel like 0.49˚C with overcast clouds
-- The wind speed is 8.07m/s and visibility is 10000m
-- The pressure is 999hPa and humidity is 79%
-- The sun will rise at 06:27 and set at 18:08
+- The average temperature today is 3.36˚C,
+- With highs of 4.18˚C and lows of 2.05˚C,
+- It may feel like 3.36˚C with broken clouds
+- The wind speed is 0.45m/s and visibility is 10000m
+- The pressure is 1003hPa and humidity is 94%
+- The sun will rise at 06:25 and set at 18:09
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 738 days since the last change (2024-03-05)
+- It has been 739 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -36,42 +36,57 @@ _Good Morning, Here is your daily briefing..._
 
 ### Daily Doctrine
 <!-- doctrine_marker starts -->
-> Design for constant evolution.
+> challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Manchester United U21 v Southampton U21
-- Manchester City U18 v Everton U18
-- Arsenal U21 v Leicester City U21
-- Colchester United v Crawley Town
-- Wrexham v Swansea City
+- Brighton & Hove Albion U18 v Chelsea U18
+- Reading U18 v Crystal Palace U18
+- Tottenham Hotspur U18 v Southampton U18
+- Coventry City v Southampton
+- Middlesbrough v Bristol City
+- Oxford United v Charlton Athletic
+- Lincoln City v Stockport County
+- Rotherham United v Bolton Wanderers
+- Harrogate Town v Salford City
+- Notts County v Chesterfield
+- Wealdstone v Solihull Moors
+- Crystal Palace U21 v Wolves U21
+- Chelsea U21 v Sunderland U21
+- Eastleigh v Rochdale
+- Morecambe v Braintree Town
+- Scunthorpe United v Altrincham
+- Arsenal v Everton
+- Chelsea v Newcastle United
+- Sheffield United Women v Newcastle United Women
+- West Ham United v Manchester City
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 123.33000183105469 
-- ^FTSE : 10230.7001953125 
-- ^FTMC : 22027.330078125 
+- VWRL.L : 123.7699966430664 
+- ^FTSE : 10261.150390625 
+- ^FTMC : 22071.099609375 
 
 <!-- stocks_marker ends -->
 
 ### Team News
 <!-- news_marker starts -->
 
+- Chelsea vs. Newcastle United, Premier League: Preview, team news, how to watch
+- Official: Lauren James signs new long-term Chelsea contract
+- How should Chelsea line up against Newcastle in a post-PSG world?
+- Pedro Neto banned for one additional match after Arsenal red card
+- Official: Reece James signs new long-term Chelsea contract
 - The Daily Hilario: Friday
 - PSG 5-2 Chelsea, Player Ratings: Some good before the horror show
 - Official: Gotham FC sign Guro Reiten from Chelsea FCW
 - Liam Rosenior takes the blame for Chelsea collapse in Paris
 - The Daily Hilario: Thursday
-- PSG 5-2 Chelsea, Champions League: Post-match reaction, ratings
-- PSG vs. Chelsea, Champions League: Lineups &#038; Game Thread
-- Chelsea fans’ preferred lineup against PSG: Neto and Garnacho, too
-- PSG vs. Chelsea, Champions League: Preview, team news, how to watch
-- The Daily Hilario: Wednesday
 
 <!-- news_marker ends -->
 
@@ -79,14 +94,14 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- ftnews_marker starts -->
 
-- US eases Russian oil sanctions as energy prices soar
-- Gulf states lose $15bn in energy revenues since start of war
-- US has burned through ‘years’ of munitions since start of Iran war
-- The Iranian school bombing and the information war
-- Iran war tests Xi’s plan to build China’s stockpiles
-- Iran is playing a long game
-- UK economy unexpectedly failed to grow in January
-- Ultra-short-term bets add ‘even more mania’ to crypto trading
+- Israel calls for Iranian factory evacuation, suggesting attack imminent
+- Why Iran could become the next Iraq
+- Wall Street warns Iran war will trigger prolonged energy crisis
+- The oil price war
+- Are markets being too complacent about the Iran war?
+- Donald Trump, globalist
+- US judge throws out justice department subpoenas to Fed, citing ‘thin’ evidence
+- Full text: judge says probe is attempt to ‘harass and pressure’ the central bank chief to cut rates
 
 <!-- ftnews_marker ends -->
 
@@ -101,33 +116,33 @@ _Good Morning, Here is your daily briefing..._
 ### Quote of the day
 <!-- quote_marker starts -->
 
-> No matter what the problem is, it is always a people problem. - Gerald M. Weinberg
+> Know the power of silence. - Geoff Watts
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 <!-- eno_marker starts -->
-> Disconnect from desire
+> Into the impossible
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Hitcher (Rated: 3)
-- Released in 2007
-- Summary: A young man who escapes the clutches of a murderous hitchhiker is subsequently stalked by the hitcher and framed for his crimes.
+- The Commitments (Rated: 7)
+- Released in 1991
+- Summary: Jimmy Rabbitte, an unemployed Dublin boy, decides to put together a soul band made up entirely of the Irish working class.
 <!-- film_marker ends -->
 
 ### Countdown numbers
 <!-- game_marker starts -->
 
-- Target: 449, using [2, 2, 3, 7, 9, 100]
-- Answer: 16 solutions.
+- Target: 434, using [2, 6, 7, 10, 25, 75]
+- Answer: 20 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 9 - 2 ) x 7 + 100 ) x 3 + 2
+  Solution: ( 75 + 10 + 2 - 25 ) x 7
 
    </details>
 
@@ -135,7 +150,7 @@ _Good Morning, Here is your daily briefing..._
 
 ### Blogroll links
 <!-- blogroll_marker starts -->
+- Bogdan on Digital Accessibility [URL](https://cerovac.com/a11y) [Feed](https://cerovac.com/a11y/feed/)
 - Rob Weychert [URL](http://v6.robweychert.com/blog/) [Feed](http://feeds.feedburner.com/robweychert)
-- Krebs on Security [URL](https://krebsonsecurity.com/) [Feed](http://krebsonsecurity.com/feed/)
-- The Refactory [URL](https://refactory.blog/) [Feed](https://refactory.blog/feed/)
+- Matt Stein [URL](https://mattstein.com/) [Feed](https://mattstein.com/rss.xml)
 <!-- blogroll_marker ends -->
