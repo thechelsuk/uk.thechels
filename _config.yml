@@ -103,6 +103,7 @@ navigation_data:
     title: "Constraints"
   - link: "/sitemap"
     title: "Sitemap (xml)"
+
 ## SubMenu
 navigation_slashes:
   - link: "/ai"
