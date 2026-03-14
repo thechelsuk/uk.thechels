@@ -39,19 +39,21 @@ The 4 key symptoms are:
 - Overwhelming fatigue - including flu-like malaise, chronic pain, headaches, nausea, digestive problems, and sensitivity to light, sound and other stimuli.
 - Cognitive disturbance; commonly known as brain fog, whereby finding the right words, or remembering, or understanding is impaired.
 
-_If you see me and think I am doing well and must therefore be faking being ill, it is infact, that I am faking being well and will with out doubt spending several days being worse for it._ 
+_If you see me and think I am doing well and must therefore be faking being ill or "you don't look ill", it is in fact, that I am faking being well in that moment and will with out doubt be spending several days being worse off for it._ 
 
 ### ME Treatment
 
-ME/CFS has no effective drug treatment and full recovery is rare. It is criminally under-researched, understood and diagnosis and medical support is difficult due to a history of misleading and poor quality studies by face-saving psychologists who still perceive ME as a psychological or hysteria issue.
+ME/CFS has no effective drug treatment and full recovery is rare. It is criminally under-researched, understood and diagnosis and medical support is difficult due to a history of misleading and poor quality studies by face-saving psychologists who still perceive ME as a psychological or hysteria issue among Women.
 
 _The ratios of the prevelance of ME to Multiple Scheloris (MS) is 3:1 but the funding is 1:10, whilst many identify ME as having a quality of life worse than cancer._
 
 Modern research has shown genetic markers evidencing a physical and multi-system disease and more research is beginning to take place.
 
+You don't see charity adverts on TV for ME. Most ME sufferers don't run 5km race for life to raise awareness.
+
 ### ME Diagnosis and co-morbidities
 
-Symptoms overlap with many other treatable illnesses so seek support from health care professionals
+Symptoms overlap with many other treatable illnesses so its important to seek support from health care professionals. PEM is the unique and tell-tale sign of ME.
 
 Given the multi-system nature of the disease other issues are frequently identified such as POTs, MCAS, Dysautomnia, Fibromyalgia.
 
@@ -61,11 +63,15 @@ Mast Cell Activation Syndrome is a condition that causes intense episodes of sym
 
 ### MCAS Symptoms
 
-Flushing, itching, swelling, hives, congestion, breathlessness, increase hear rate, weakness, fainting, drop in blood pressure, stomach pain, vomiting, diarrhoea.
+Flushing, itching, swelling, hives, congestion, breathlessness, increase hear rate, weakness, fainting, drop in blood pressure, stomach pain, vomiting, diarrhoea, gastro issues etc.
 
 ### MCAS Treatment
 
 Some see benefit from Type H1 and H2 Antihistamines.
+
+Avoidance of and a reduction in diet to safer foods.
+
+_Baked "jacket" potatoes, pistachios, fresh chicken, some vegetables, blueberries and plain pasta are my safe foods discovered so far_
 
 ### MCAS Diagnosis
 
@@ -82,6 +88,4 @@ There is a blood test, although often inconclusive and can frequently be a false
 - [Hummingbird's ME Scale](/hummingbirds-me-scale/)
 - [MCAS - Wikipedia](https://en.wikipedia.org/wiki/Mast_cell_activation_syndrome)
 - [Mast Cell Action](https://www.mastcellaction.org/)
-- [International Society for
-Mast Cell Activation Syndromes](https://ismcas.org)
-
+- [International Society for MCAS](https://ismcas.org)
