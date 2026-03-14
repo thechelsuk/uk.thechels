@@ -1,7 +1,5 @@
 ---
-layout: empty
 ---
-
 /* ---------------------------------- */
 /* ----------  Font Setup  ---------- */
 /* ---------------------------------- */
@@ -27,6 +25,8 @@ layout: empty
     --secondary: #005ca3;
     --links: #295147;
     --accent: #cec452;
+    --marker-start: #ffb6c18c;
+    --marker-end: #ffb6c14d;
     --code: #c0deff;
     --tab: #b6b6b4;
     --alt-tab: #fffafa;
@@ -43,6 +43,8 @@ html.dark-mode {
     --secondary: #3a7afe;
     --links: #7abaff;
     --accent: #83631c;
+    --marker-start: #ffb6c166;
+    --marker-end: #ffb6c138;
     --code: #23272e;
     --tab: #23272e;
     --alt-tab: #22252a;
@@ -54,6 +56,8 @@ html.alt-mode {
     --secondary: #eebbc3; // soft pink accent
     --links: #b8c1ec; // light blue links
     --accent: #5a472c; // gold accent
+    --marker-start: #ffcdd68c;
+    --marker-end: #ffcdd652;
     --code: #121629; // very dark blue for code
     --tab: #393e6e; // muted blue for tabs
     --alt-tab: #2e325a; // slightly lighter for alternating rows
@@ -65,6 +69,8 @@ html.light-mode {
     --secondary: #005ca3;
     --links: #295147;
     --accent: #cec452;
+    --marker-start: #ffb6c18c;
+    --marker-end: #ffb6c14d;
     --code: #c0deff;
     --tab: #b6b6b4;
     --alt-tab: #fffafa;
@@ -228,6 +234,7 @@ body {
 .asterisk {
     font-size: 0.8em;
     color: $accent;
+    scroll-margin-top: 2em;
     cursor: pointer;
     vertical-align: super;
     display: inline-block;
@@ -339,18 +346,13 @@ main:focus {
     top: 0;
     height: 66%;
     background: linear-gradient(180deg,
-            rgba(255, 182, 193, 0.95) 0%,
-            rgba(255, 182, 193, 0.60) 100%);
+            var(--marker-start) 0%,
+            var(--marker-end) 100%);
     border-radius: 0.15em;
     transform: skewY(-2deg);
     pointer-events: none;
     z-index: -1;
     mix-blend-mode: multiply;
-}
-
-
-.marker {
-    background-image: linear-gradient(to top, #fbe4ea 50%, transparent 50%);
 }
 
 .meta {
