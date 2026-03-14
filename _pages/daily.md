@@ -23,6 +23,7 @@ _Good Morning, Here is your daily briefing..._
 <!-- weather_marker ends -->
 
 ### MI5 Status
+
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
 - It has been 739 days since the last change (2024-03-05)
@@ -30,11 +31,13 @@ _Good Morning, Here is your daily briefing..._
 <!-- threat_marker ends -->
 
 ### Today's tasks
+
 <!-- task_marker starts -->
 - No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
+
 <!-- doctrine_marker starts -->
 > challenge assumptions.
 <!-- doctrine_marker ends -->
@@ -73,6 +76,13 @@ _Good Morning, Here is your daily briefing..._
 - ^FTMC : 22071.099609375 
 
 <!-- stocks_marker ends -->
+
+### Just for fun
+
+<!-- jokes_marker starts -->
+
+<!-- jokes_marker ends -->
+
 
 ### Team News
 <!-- news_marker starts -->
@@ -113,7 +123,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker ends -->
 
-### Quote of the day
+### Quote of the Day
 <!-- quote_marker starts -->
 
 > Know the power of silence. - Geoff Watts
@@ -121,6 +131,7 @@ _Good Morning, Here is your daily briefing..._
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
+
 <!-- eno_marker starts -->
 > Into the impossible
 
@@ -134,7 +145,7 @@ _Good Morning, Here is your daily briefing..._
 - Summary: Jimmy Rabbitte, an unemployed Dublin boy, decides to put together a soul band made up entirely of the Irish working class.
 <!-- film_marker ends -->
 
-### Countdown numbers
+### Countdown Numbers
 <!-- game_marker starts -->
 
 - Target: 434, using [2, 6, 7, 10, 25, 75]
@@ -148,7 +159,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- game_marker ends -->
 
-### Blogroll links
+### 5 Random Blogroll Links
 <!-- blogroll_marker starts -->
 - Bogdan on Digital Accessibility [URL](https://cerovac.com/a11y) [Feed](https://cerovac.com/a11y/feed/)
 - Rob Weychert [URL](http://v6.robweychert.com/blog/) [Feed](http://feeds.feedburner.com/robweychert)
