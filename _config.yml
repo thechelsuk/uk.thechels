@@ -91,6 +91,8 @@ navigation_data:
     title: "Books"
   - link: "/teams"
     title: "Live Teams"
+  - link: "/jokes"
+    title: "Jokes"
   - link: "/podcasts"
     title: "Podcasts"
   - link: "/blogroll"
@@ -141,6 +143,7 @@ navigation_slashes:
     title: "Verify"
   - link: "/indieweb.txt"
     title: "IndieWeb (txt)"
+
 ## Footer links
 navigation_footer:
   - link: "/feed"
