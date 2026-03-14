@@ -5,7 +5,7 @@ permalink: /about
 seo: About page for the owner of thechels.uk
 ---
 
-It is called "weak notes" as a play on words of the popular Government Digital Service era "[week](https://promo.cymru/resource-articles/weeknotes/) [notes](https://weeknot.es)" blogging style - due to the likelihood, posting will be inconsistent and irregular, and having worked adjacent to Government for 14 years.
+It is called "weak notes" as a play on words of the popular [Government](https://gds.blog.gov.uk/tag/week-notes-2/) Digital Service era [week](https://promo.cymru/resource-articles/weeknotes/) [notes](https://weeknot.es) [blogging](https://neilojwilliams.net/about/week-notes/) [style](https://jordanh.net/gds.html) - due to the likelihood, posting will be inconsistent, irregular, and having worked adjacent to but not in Government for 14 years.
 
 ![Banner photo - Running in Fulham, London, UK. November 2018. A 10km race by Adidas City Runs campaign where all entrants we sent a T shirt to keep and wear with their badge number on. Chip time was 47.22](/images/gh-header-image-cropped.jpg)
 
@@ -16,6 +16,8 @@ Has a track record of increasing team morale and motivation through a holistic p
 Holds an HND in Business Information Systems and an HNC in Business IT in Computing from Solent University. Was one of two people in his year to study French and Spanish at GCSE. Consumes an unhealthy amount of football having seen {{site.data.teams | size }} teams play live and and podcasts, with {{ site.data.podcasts | size }} active subscriptions.
 
 [Have a podcast recommendation?](https://github.com/thechelsuk/uk.thechels/issues/new?assignees=thechelsuk=podcast&template=podcast.md)
+
+Currently on long term sick leave, read more about [disabilities and how they affect me here](/disability).
 
 ## Colophon
 
