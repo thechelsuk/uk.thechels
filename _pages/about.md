@@ -5,9 +5,9 @@ permalink: /about
 seo: About page for the owner of thechels.uk
 ---
 
-It is called "weak notes" as a play on words of the popular Government Digital Service era "[week](https://promo.cymru/resource-articles/weeknotes/) [notes](https://weeknot.es)" blogging style - due to the likelihood, posting will be inconsistent and irregular, and having worked adjacent to Government for 14 years.
+It is called "weak notes" as a play on words of the popular [Government](https://gds.blog.gov.uk/tag/week-notes-2/) Digital Service era [week](https://promo.cymru/resource-articles/weeknotes/) [notes](https://weeknot.es) [blogging](https://neilojwilliams.net/about/week-notes/) [style](https://jordanh.net/gds.html) - due to the likelihood, posting will be inconsistent, irregular, and having worked adjacent to but not in Government for 14 years.
 
-![banner photo - running in London](/images/gh-header-image-cropped.jpg)
+![Banner photo - Running in Fulham, London, UK. November 2018. A 10km race by Adidas City Runs campaign where all entrants we sent a T shirt to keep and wear with their badge number on. Chip time was 47.22](/images/gh-header-image-cropped.jpg)
 
 An experienced engineering leader with a passion for people development, building teams, implementing agile methodologies, and focusing on flow and delivery. A broad history of working with teams using various programming languages, in fast-paced and regulated environments.
 
@@ -16,6 +16,8 @@ Has a track record of increasing team morale and motivation through a holistic p
 Holds an HND in Business Information Systems and an HNC in Business IT in Computing from Solent University. Was one of two people in his year to study French and Spanish at GCSE. Consumes an unhealthy amount of football having seen {{site.data.teams | size }} teams play live and and podcasts, with {{ site.data.podcasts | size }} active subscriptions.
 
 [Have a podcast recommendation?](https://github.com/thechelsuk/uk.thechels/issues/new?assignees=thechelsuk=podcast&template=podcast.md)
+
+Currently on long term sick leave, read more about [disabilities and how they affect me here](/disability).
 
 ## Colophon
 
@@ -35,4 +37,4 @@ The site uses some icons to denote the type of content, these are: &rarr; (`&rar
 
 During an era of running a successful and pioneering football analytics website I had work published on the Chelsea FC website, [FourFourTwo](https://thechels.uk/fourfourtwo-cult-heroes) [magazine](https://thechels.uk/fourfourtwo-chelsea-vs-swansea), [Man City's match day programme](https://thechels.uk/man-city-programme), the [Daily Mail](https://www.dailymail.co.uk/sport/football/article-2282976/Frank-Lampard-scores-200th-Chelsea-goal.html), the [Independent](https://www.independent.co.uk/sport/football/european/valencia-penalty-gary-neville-chelsea-under19s-uefa-youth-league-a6892926.html) and various club fan sites including [Crystal Palace](https://theeaglesbeak.com/2014/08/08/view-from-the-opposition-part-1/), [Walsall](https://vitalfootball.co.uk/chelsea-a-fans-view/), Swansea, and Man City.
 
-The associated [Twitter](/images/ChelseaStats.png) [account](https://web.archive.org/web/20160330035832/https://twitter.com/ChelseaStats), active from 2010 to 2018, peaked at 185,000 followers with a monthly reach of 8 million users worldwide all through organic growth and received acclaim from Opta Sports, Chelsea FC, BBC and other organisations. The account was ranked 4th most influential Chelsea twitter account by HITC in 2013. The account was closed due to Twiiter's ownership change, whilst it is also worth noting football statistics had become more mainstream and access to data had become less readily available given it's commerical importance to data businesses and it's adoption by clubs targeting performance gains such that the effort and maintanence outweighed the enjoyment. A new .uk domain was created and pivoted to a personal indie weblog.
+The associated [Twitter](/images/ChelseaStats.png) [account](https://web.archive.org/web/20160330035832/https://twitter.com/ChelseaStats), active from 2010 to 2018, peaked at 185,000 followers with a monthly reach of 8 million users worldwide all through organic growth and received acclaim from Opta Sports, Chelsea FC, BBC and other organisations. The account was ranked 4th most influential Chelsea twitter account by HITC in 2013. The account was closed due to Twiiter's ownership change, whilst it is also worth noting football statistics had become more mainstream and access to data had become less readily available given it's commerical importance to data businesses and it's adoption by clubs targeting performance gains such that the effort and maintenance outweighed the enjoyment. A new .uk domain was created and pivoted to a personal indie weblog.

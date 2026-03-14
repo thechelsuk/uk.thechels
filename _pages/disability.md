@@ -6,17 +6,17 @@ seo: my disabilities are ME/CFS and MCAS
 
 ---
 
-![me](/images/me-2025-02-1024.png){:center}
+![me taken in February 2026 wearing a heavy duty welding goggles to block out light and resting with a large blanket and pillow in a seated position. The image is a moody self portrait in monochrome with the subject slightly out of focus.](/images/me-2025-02-1024.png){:center}
 
 I suffer from Myalgic Encephalomyelitis commonly known as ME or ME/CFS.
 
-Additionally, I sugger from MCAS, Protanopia and Deuteranopia (colourblindness) as well as from Reynaud's syndrome.
+Additionally, I suffer from MCAS, Protanopia and Deuteranopia (colourblindness) as well as from Reynaud's syndrome.
 
 I am largely homebound and unable to work, physical activity is severely limited as well as cognitive exertion and stress exacerbates my symptoms often for several days. My sleep is so distrupted any form of planning is largely impossible.
 
 I am sensitive to light and sound most of the time and suffer from a wide range of symptoms including palpitations, stabbing pains, neurological and nerve pain, gastrointestinal issues, overwhelming sense of dread, general malaise, and feeling poisoned.
 
-_Imagine the worst flu you've ever had and imagine that feeling for everyday of the rest of our life and that is what your new baseline or new normal is. On most days you live in darkness and alone having given up any form of exercise, social activities, or going to any public places when doing any activity out of neccessity it feels like you have run a marathon whilst not being able to remember the word for box, or sea..._
+_Imagine the worst flu you've ever had and imagine that feeling for everyday of the rest of our life and that is what your new baseline or new normal is. On most days you live in darkness and alone having given up any form of exercise, social activities, or going to any public places when doing any activity out of necessity it feels like you have run a marathon whilst not being able to remember the word for box, or sea..._
 
 ## ME
 
@@ -45,7 +45,7 @@ _If you see me and think I am doing well and must therefore be faking being ill 
 
 ME/CFS has no effective drug treatment and full recovery is rare. It is criminally under-researched, understood and diagnosis and medical support is difficult due to a history of misleading and poor quality studies by face-saving psychologists who still perceive ME as a psychological or hysteria issue among Women.
 
-_The ratios of the prevelance of ME to Multiple Scheloris (MS) is 3:1 but the funding is 1:10, whilst many identify ME as having a quality of life worse than cancer._
+_The ratios of the prevalence of ME to Multiple Sclerosis (MS) is 3:1 but the funding is 1:10, whilst many identify ME as having a quality of life worse than cancer._
 
 Modern research has shown genetic markers evidencing a physical and multi-system disease and more research is beginning to take place.
 
@@ -85,7 +85,9 @@ There is a blood test, although often inconclusive and can frequently be a false
 - [ME - Wikipedia](https://en.wikipedia.org/wiki/Myalgic_encephalomyelitis/chronic_fatigue_syndrome)
 - [CDC (US) Diagnostic Criteria](https://www.cdc.gov/me-cfs/hcp/diagnosis/iom-2015-diagnostic-criteria-1.html)
 - [NICE (UK) Diagnostic Criteria](https://www.nice.org.uk/guidance/ng206/chapter/1-Recommendations#diagnosis)
+- [25% ME Group (Scotland)](https://www.25megroup.org/)
 - [Hummingbird's ME Scale](/hummingbirds-me-scale/)
 - [MCAS - Wikipedia](https://en.wikipedia.org/wiki/Mast_cell_activation_syndrome)
 - [Mast Cell Action](https://www.mastcellaction.org/)
 - [International Society for MCAS](https://ismcas.org)
+    
