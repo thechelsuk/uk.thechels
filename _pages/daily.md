@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-03-14
+date: 2026-03-15
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,14 +11,14 @@ date: 2026-03-14
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Saturday, 14 March 2026
+## On Sunday, 15 March 2026
 
-- The average temperature today is 3.36˚C,
-- With highs of 4.18˚C and lows of 2.05˚C,
-- It may feel like 3.36˚C with broken clouds
-- The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1003hPa and humidity is 94%
-- The sun will rise at 06:25 and set at 18:09
+- The average temperature today is 6.39˚C,
+- With highs of 7.19˚C and lows of 5.94˚C,
+- It may feel like 3.56˚C with overcast clouds
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 1010hPa and humidity is 81%
+- The sun will rise at 06:23 and set at 18:11
 
 <!-- weather_marker ends -->
 
@@ -26,7 +26,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 739 days since the last change (2024-03-05)
+- It has been 740 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -39,32 +39,26 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> challenge assumptions.
+> Exploit the landscape.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Brighton & Hove Albion U18 v Chelsea U18
-- Reading U18 v Crystal Palace U18
-- Tottenham Hotspur U18 v Southampton U18
-- Coventry City v Southampton
-- Middlesbrough v Bristol City
-- Oxford United v Charlton Athletic
-- Lincoln City v Stockport County
-- Rotherham United v Bolton Wanderers
-- Harrogate Town v Salford City
-- Notts County v Chesterfield
-- Wealdstone v Solihull Moors
-- Crystal Palace U21 v Wolves U21
-- Chelsea U21 v Sunderland U21
-- Eastleigh v Rochdale
-- Morecambe v Braintree Town
-- Scunthorpe United v Altrincham
-- Arsenal v Everton
-- Chelsea v Newcastle United
-- Sheffield United Women v Newcastle United Women
-- West Ham United v Manchester City
+- Aston Villa Women v Manchester City Women
+- Liverpool Women v Leicester City Women
+- London City Lionesses v Arsenal Women
+- Tottenham Hotspur Women v Everton Women
+- Ipswich Town Women v Durham Women
+- Crystal Palace v Leeds United
+- Manchester United v Aston Villa
+- Nottingham Forest v Fulham
+- Charlton Athletic Women v Sunderland AFC Women
+- Crystal Palace Women v Nottingham Forest Women
+- Portsmouth Women v Bristol City Women
+- Southampton Women v Birmingham City Women
+- Chelsea Women v Manchester United Women
+- Liverpool v Tottenham Hotspur
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -80,23 +74,23 @@ _Good Morning, Here is your daily briefing..._
 ### Just for fun
 
 <!-- jokes_marker starts -->
-
+> Why did the Jazzman cross the road? To get from A to B flat 6th.
 <!-- jokes_marker ends -->
 
 
 ### Team News
 <!-- news_marker starts -->
 
+- Liam Rosenior blames mental and physical freshness, ‘one mistake’ for Newcastle defeat
+- The Daily Hilario: Sunday
+- Chelsea FCW vs. Manchester United WFC, Women’s League Cup final: Preview, team news, how to watch
+- Chelsea 0-1 Newcastle United, Premier League: Post-match reaction, ratings
+- Chelsea vs. Newcastle United, Premier League: Lineups &#038; Game Thread
+- Chelsea fans’ preferred lineup against Newcastle: Back to basics
+- The Daily Hilario: Saturday
 - Chelsea vs. Newcastle United, Premier League: Preview, team news, how to watch
 - Official: Lauren James signs new long-term Chelsea contract
 - How should Chelsea line up against Newcastle in a post-PSG world?
-- Pedro Neto banned for one additional match after Arsenal red card
-- Official: Reece James signs new long-term Chelsea contract
-- The Daily Hilario: Friday
-- PSG 5-2 Chelsea, Player Ratings: Some good before the horror show
-- Official: Gotham FC sign Guro Reiten from Chelsea FCW
-- Liam Rosenior takes the blame for Chelsea collapse in Paris
-- The Daily Hilario: Thursday
 
 <!-- news_marker ends -->
 
@@ -104,14 +98,14 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- ftnews_marker starts -->
 
-- Israel calls for Iranian factory evacuation, suggesting attack imminent
-- Why Iran could become the next Iraq
-- Wall Street warns Iran war will trigger prolonged energy crisis
-- The oil price war
-- Are markets being too complacent about the Iran war?
-- Donald Trump, globalist
-- US judge throws out justice department subpoenas to Fed, citing ‘thin’ evidence
-- Full text: judge says probe is attempt to ‘harass and pressure’ the central bank chief to cut rates
+- US oil groups in line for $63bn windfall from Gulf war disruption
+- Trump urges China and UK to send warships to reopen Strait of Hormuz
+- Military briefing: How mines could tighten Iran’s Gulf chokehold
+- Retail traders rush into oil bets as Iran war drives wild price swings
+- Trump’s ‘shock and war’ makes this economic crisis different
+- Ukraine peace talks fizzle out as Trump’s focus shifts to Iran
+- ‘Firing off 10 to 15 applications a day’: how UK’s hiring slump hits the young
+- Japan loses its thirst for vending machines
 
 <!-- ftnews_marker ends -->
 
@@ -126,34 +120,34 @@ _Good Morning, Here is your daily briefing..._
 ### Quote of the Day
 <!-- quote_marker starts -->
 
-> Know the power of silence. - Geoff Watts
+> Even though working in small chunks adds some overhead, it reaps enormous rewards by allowing us to avoid work that delivers zero or negative value for our organisations - Accelerate
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Into the impossible
+> You can only make one dot at a time
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Commitments (Rated: 7)
-- Released in 1991
-- Summary: Jimmy Rabbitte, an unemployed Dublin boy, decides to put together a soul band made up entirely of the Irish working class.
+- Baby Driver (Rated: 3)
+- Released in 2017
+- Summary: Coerced into working for a crime boss, a young getaway driver must face the music when a doomed heist threatens his life, love, and freedom.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 <!-- game_marker starts -->
 
-- Target: 434, using [2, 6, 7, 10, 25, 75]
-- Answer: 20 solutions.
+- Target: 881, using [4, 5, 10, 25, 50, 75]
+- Answer: 2 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 10 + 2 - 25 ) x 7
+  Solution: ( 50 - 75 / 5 ) x 25 + 10 - 4
 
    </details>
 
@@ -161,7 +155,9 @@ _Good Morning, Here is your daily briefing..._
 
 ### 5 Random Blogroll Links
 <!-- blogroll_marker starts -->
-- Bogdan on Digital Accessibility [URL](https://cerovac.com/a11y) [Feed](https://cerovac.com/a11y/feed/)
-- Rob Weychert [URL](http://v6.robweychert.com/blog/) [Feed](http://feeds.feedburner.com/robweychert)
-- Matt Stein [URL](https://mattstein.com/) [Feed](https://mattstein.com/rss.xml)
+- Psych Chartered [URL](https://psychologychartered.co.uk/blog/) [Feed](https://psychologychartered.co.uk/blog/feed)
+- Sean McPherson [URL](https://seanmcp.com/) [Feed](https://seanmcp.com/rss.xml)
+- Beard FM [URL](https://beard.fm/blog/) [Feed](https://beard.fm/blog?format=rss)
+- Robb Owen [URL](http://robbowen.digital/) [Feed](https://robbowen.digital/feed.xml)
+- Health Rising [URL](https://www.healthrising.org/) [Feed](https://www.healthrising.org/feed/)
 <!-- blogroll_marker ends -->
