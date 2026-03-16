@@ -19,6 +19,6 @@ If you don’t have a feed reader then I recommend using [NetNewsWire](https://n
 ## Niche Summary Feeds
 
 - [Dotnet](https://feeds.thechels.uk/dotnet.rss)
-- [SecOps](https://feeds.thechels.uk/secops.rss) 
+- [SecOps](https://feeds.thechels.uk/secops.rss)
 - [COD](https://cod.thechels.uk/daily.rss)
 - [Floods](https://cod.thechels.uk/flood.xml)
