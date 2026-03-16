@@ -86,7 +86,7 @@ def generate_sbom_markdown():
 
     markdown_content = f"""# Software Bill of Materials (SBOM)
 
-**Project:** TheChels.uk
+**Project:** thechels.uk
 **Generated:** {current_date}
 **Description:** Personal website built with Jekyll and Python utilities
 
@@ -189,19 +189,19 @@ def main():
         with open(output_path, 'w') as f:
             f.write(sbom_content)
 
-        print(f"✅ SBOM generated successfully: {output_path}")
-        print(f"📄 File size: {len(sbom_content)} characters")
+        print(f"SBOM generated successfully: {output_path}")
+        print(f"File size: {len(sbom_content)} characters")
 
         # Count totals
         gems = parse_gemfile_lock(base_path / "Gemfile.lock")
         python_packages = get_python_package_info()
 
-        print(f"📦 Ruby gems: {len(gems)}")
-        print(f"🐍 Python packages: {len(python_packages)}")
-        print(f"🔢 Total dependencies: {len(gems) + len(python_packages)}")
+        print(f"Ruby gems: {len(gems)}")
+        print(f"Python packages: {len(python_packages)}")
+        print(f"Total dependencies: {len(gems) + len(python_packages)}")
 
     except Exception as e:
-        print(f"❌ Error generating SBOM: {e}")
+        print(f"Error generating SBOM: {e}")
         return 1
 
     return 0
