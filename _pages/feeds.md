@@ -23,6 +23,6 @@ If you don’t have a feed reader then I recommend using [NetNewsWire](https://n
 - [COD](https://cod.thechels.uk/daily.rss)
 - [Floods](https://cod.thechels.uk/flood.xml)
 
-## thechelsuk theme for NewNewsWire
+## Theme theme for NewNewsWire
 
-If you use NetNewsWire, you can use my [theme](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes.nnw/raw/main/dist//thechelsuk.nnwtheme_v1.zip)
+If you use NetNewsWire, you can use my [thechelsuk theme](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes.nnw/raw/main/dist//thechelsuk.nnwtheme_v1.zip) based on the light and alt themes on this site.
