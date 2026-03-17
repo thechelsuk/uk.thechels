@@ -1,8 +1,7 @@
-# Software Bill of Materials (SBOM)
-
-**Project:** TheChels.uk
-**Generated:** 2026-03-16
-**Description:** Personal website built with Jekyll and Python utilities
+---
+title : Software Bill of Materials (SBOM)
+layout: page
+---
 
 ## Overview
 
@@ -135,7 +134,7 @@ The following Ruby gems are used for the Jekyll static site generator:
 The following Python packages are used for utility scripts and data processing:
 
 | Package Name | Type | Usage |
-|--------------|------|-------|
+| -------------- | ------ | ------- |
 | argparse | Python package | Command-line argument parsing |
 | datefinder | Python package | Date extraction from text |
 | feedparser | Python package | RSS/Atom feed parsing |
@@ -179,6 +178,4 @@ All dependencies are managed through their respective package managers and shoul
 
 This SBOM is provided for transparency. Individual packages maintain their own licenses. Please refer to each package's documentation for specific license terms.
 
----
-
-*This SBOM was automatically generated on 2026-03-16 using the project's dependency files.*
+_This SBOM was automatically generated on 2026-03-16 using the project's dependency files._
