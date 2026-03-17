@@ -1,5 +1,4 @@
----
----
+--- ---
 /* ---------------------------------- */
 /* ----------  Font Setup  ---------- */
 /* ---------------------------------- */
@@ -51,16 +50,16 @@ html.dark-mode {
 }
 
 html.alt-mode {
-    --background: #232946; // deep blue
-    --primary: #fffffe; // off-white text
-    --secondary: #eebbc3; // soft pink accent
-    --links: #b8c1ec; // light blue links
-    --accent: #5a472c; // gold accent
+    --background: #232946;
+    --primary: #fffffe;
+    --secondary: #eebbc3;
+    --links: #b8c1ec;
+    --accent: #5a472c;
     --marker-start: #ffcdd68c;
     --marker-end: #ffcdd652;
-    --code: #121629; // very dark blue for code
-    --tab: #393e6e; // muted blue for tabs
-    --alt-tab: #2e325a; // slightly lighter for alternating rows
+    --code: #121629;
+    --tab: #393e6e;
+    --alt-tab: #2e325a;
 }
 
 html.light-mode {
