@@ -1,6 +1,9 @@
 ---
+
 title : Software Bill of Materials (SBOM)
 layout: page
+date: 2026-03-17
+robots: noindex, nofollow
 ---
 
 ## Overview
@@ -178,4 +181,6 @@ All dependencies are managed through their respective package managers and shoul
 
 This SBOM is provided for transparency. Individual packages maintain their own licenses. Please refer to each package's documentation for specific license terms.
 
-_This SBOM was automatically generated on 2026-03-16 using the project's dependency files._
+---
+
+*This SBOM was automatically generated on 2026-03-17 using the project's dependency files.*
