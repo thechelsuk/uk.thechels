@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate Software Bill of Materials (SBOM) for TheChels.uk website
+Generate Software Bill of Materials (SBOM) for the website
 This script extracts package information from Gemfile.lock and requirements.txt
 and generates a markdown SBOM file.
 """
@@ -18,7 +18,6 @@ def parse_gemfile_lock(gemfile_lock_path):
     with open(gemfile_lock_path, 'r') as f:
         content = f.read()
 
-    # Extract gem specifications from the specs section
     specs_section = re.search(r'specs:\s*\n(.*?)\nPLATFORMS', content,
                               re.DOTALL)
     if specs_section:
@@ -27,8 +26,6 @@ def parse_gemfile_lock(gemfile_lock_path):
         # Split into lines and look for gem entries
         lines = specs_content.split('\n')
         for line in lines:
-            # Look for lines that start with 4 spaces and contain (version)
-            # These are the main gem entries, not dependencies
             match = re.match(r'^    ([a-zA-Z0-9_-]+)\s+\(([^)]+)\)$', line)
             if match:
                 gem_name, version = match.groups()
@@ -46,7 +43,6 @@ def parse_requirements_txt(requirements_path):
             for line in f:
                 line = line.strip()
                 if line and not line.startswith('#'):
-                    # Extract package name (before any version specifiers)
                     package_name = re.split(r'[>=<!=]', line)[0].strip()
                     if package_name:
                         packages.append(package_name)
@@ -58,18 +54,11 @@ def get_python_package_info():
     """Get Python package information from requirements files."""
     base_path = Path(__file__).parent.parent
 
-    # Main requirements.txt
-    main_requirements = base_path / "requirements.txt"
-    main_packages = parse_requirements_txt(main_requirements)
-
     # Python-specific requirements.txt
     python_requirements = base_path / "_python" / "requirements.txt"
     python_packages = parse_requirements_txt(python_requirements)
 
-    # Combine and deduplicate
-    all_packages = sorted(set(main_packages + python_packages))
-
-    return all_packages
+    return python_packages
 
 
 def generate_sbom_markdown():
@@ -84,11 +73,13 @@ def generate_sbom_markdown():
     # Generate markdown content
     current_date = datetime.datetime.now().strftime("%Y-%m-%d")
 
-    markdown_content = f"""# Software Bill of Materials (SBOM)
+    markdown_content = f"""---
 
-**Project:** thechels.uk
-**Generated:** {current_date}
-**Description:** Personal website built with Jekyll and Python utilities
+title : Software Bill of Materials (SBOM)
+layout: page
+date: {current_date}
+robots: noindex, nofollow
+---
 
 ## Overview
 
@@ -99,7 +90,7 @@ This document lists all software dependencies used in the TheChels.uk website pr
 The following Ruby gems are used for the Jekyll static site generator:
 
 | Gem Name | Version | Description |
-|----------|---------|-------------|
+| ---------- | ---------: | ------------- |
 """
 
     # Add Ruby gems
@@ -114,7 +105,7 @@ The following Ruby gems are used for the Jekyll static site generator:
 The following Python packages are used for utility scripts and data processing:
 
 | Package Name | Type | Usage |
-|--------------|------|-------|
+| -------------- | ------ | ------- |
 """
 
     # Add Python packages with descriptions
