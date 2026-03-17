@@ -66,6 +66,7 @@ exclude:
 include:
   - ".well-known"
   - "_pages"
+  - "assets"
 
 # Site Navigation
 ## Header

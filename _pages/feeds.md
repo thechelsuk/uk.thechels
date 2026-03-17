@@ -22,3 +22,7 @@ If you don’t have a feed reader then I recommend using [NetNewsWire](https://n
 - [SecOps](https://feeds.thechels.uk/secops.rss)
 - [COD](https://cod.thechels.uk/daily.rss)
 - [Floods](https://cod.thechels.uk/flood.xml)
+
+## thechelsuk theme for NewNewsWire
+
+If you use NetNewsWire, you can use my [theme](netnewswire://theme/add?url=<https://github.com/thechelsuk/uk.thechels.themes.nnw/raw/main/dist//thechelsuk.nnwtheme_v1.zip>)
