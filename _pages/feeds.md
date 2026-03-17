@@ -25,4 +25,4 @@ If you don’t have a feed reader then I recommend using [NetNewsWire](https://n
 
 ## thechelsuk theme for NewNewsWire
 
-If you use NetNewsWire, you can use my [theme](netnewswire://theme/add?url=<https://github.com/thechelsuk/uk.thechels.themes.nnw/raw/main/dist//thechelsuk.nnwtheme_v1.zip>)
+If you use NetNewsWire, you can use my [theme](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes.nnw/raw/main/dist//thechelsuk.nnwtheme_v1.zip)
