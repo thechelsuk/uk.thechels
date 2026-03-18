@@ -6,24 +6,24 @@ title: Public TestFlights
 
 ---
 
-My iOS apps gave public testflights open. 
+My iOS apps gave public TestFlights open. If you want to try them out, just click the links below on your iOS device and follow the prompts to install the TestFlight app and then the app itself.
 
 ## Engman
 
-- https://testflight.apple.com/join/Q3KGVsau
+- <https://testflight.apple.com/join/Q3KGVsau>
 
 ## Hiyd
 
-- https://testflight.apple.com/join/nvCzFTHT
+- <https://testflight.apple.com/join/nvCzFTHT>
 
 ## Tomoz
 
-- https://testflight.apple.com/join/6ZuZsqf7
+- <https://testflight.apple.com/join/6ZuZsqf7>
 
 ## Shortkeys
 
-- https://testflight.apple.com/join/2YA8VW2W
+- <https://testflight.apple.com/join/2YA8VW2W>
 
 ## Mltply
 
-- https://testflight.apple.com/join/Q2362NM7
+- <https://testflight.apple.com/join/Q2362NM7>

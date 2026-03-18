@@ -16,7 +16,7 @@ throttle_lookups:
     last_month: weekly
     last_year: monthly
     older: monthly
-``` 
+```
 
 Thanks to the following resources for the documentation and inspiration.
 
