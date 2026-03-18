@@ -23,6 +23,6 @@ If you don’t have a feed reader then I recommend using [NetNewsWire](https://n
 - [COD](https://cod.thechels.uk/daily.rss)
 - [Floods](https://cod.thechels.uk/flood.xml)
 
-## Theme theme for NewNewsWire
+## Themes for NewNewsWire
 
 If you use NetNewsWire, you can use my [thechelsuk theme](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes.nnw/raw/main/dist//thechelsuk.nnwtheme_v1.zip) based on the light and alt themes on this site, adjusted to match the light and darkness of the app. Just click the link on your device that has NNW installed and follow the prompts to install the theme. It’s free and open source, and you can find the source code on [GitHub](https://github.com/thechelsuk/uk.thechels.themes.nnw) and also download a zip file there.
