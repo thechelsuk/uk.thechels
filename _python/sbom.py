@@ -79,6 +79,8 @@ title : Software Bill of Materials (SBOM)
 layout: page
 date: {current_date}
 robots: noindex, nofollow
+permalink: /SBOM
+seo: Software Bill of Materials (SBOM) for thechelsuk website
 ---
 
 ## Overview
