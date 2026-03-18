@@ -38,7 +38,7 @@ permalink: /films.xml
       <uri>{{ site.url }}/films#{{ film.Imdb }}</uri>
     </author>
     <updated>{{ film.DateAdded | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>
-    <id>{{ site.url }}/films#{{ film.Imdb }}-{{ build_time }}</id>
+    <id>{{ site.url }}/films#{{ film.Imdb }}</id>
     <category term="Film" />
     <category term="Rating: {{ film.Rating }}" />
   </entry>
