@@ -35,10 +35,10 @@ class TestHelper:
         assert films[0]["Rating"] == 5
 
     def test_make_film_url(self):
-        film_name = "Inception"
+        imdb_id = "tt1375666"
         apikey = "testapikey"
-        url = helper.make_film_url(film_name, apikey)
-        expected_url = f"https://www.omdbapi.com/?t={film_name}&r=json&apikey={apikey}"
+        url = helper.make_film_url(imdb_id, apikey)
+        expected_url = f"https://www.omdbapi.com/?i={imdb_id}&r=json&apikey={apikey}"
         assert url == expected_url
 
     def test_add_film_to_list_no_duplicates(self, setup_test_file):
@@ -66,7 +66,7 @@ class TestHelper:
             "Year": "2010",
             "imdbID": "tt1375666"
         }
-        url = "https://www.omdbapi.com/?t=Inception&r=json&apikey=testapikey"
+        url = "https://www.omdbapi.com/?i=tt1375666&r=json&apikey=testapikey"
         film_data = helper.get_film_data(url)
         assert film_data == ("tt1375666", "Inception", "2010")
 
@@ -78,7 +78,7 @@ class TestHelper:
             "Response": "False",
             "Error": "Movie not found!"
         }
-        url = "https://www.omdbapi.com/?t=NonExistentFilm&r=json&apikey=testapikey"
+        url = "https://www.omdbapi.com/?i=tt0000000&r=json&apikey=testapikey"
         film_data = helper.get_film_data(url)
         assert film_data is None
 
