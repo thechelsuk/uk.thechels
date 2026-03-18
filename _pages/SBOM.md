@@ -4,11 +4,13 @@ title : Software Bill of Materials (SBOM)
 layout: page
 date: 2026-03-17
 robots: noindex, nofollow
+permalink: /SBOM
+seo: Software Bill of Materials (SBOM) for thechelsuk website
 ---
 
 ## Overview
 
-This document lists all software dependencies used in the TheChels.uk website project, including both Ruby gems for Jekyll and Python packages for utility scripts.
+This document lists all software dependencies used in the thechelsuk website, including both Ruby gems for Jekyll and Python packages for utility scripts.
 
 ## Ruby Gems (Jekyll Dependencies)
 
