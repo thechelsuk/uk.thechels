@@ -35,8 +35,8 @@ def load_film_file(file_path):
     return data
 
 
-def make_film_url(film_name, apikey):
-    url = f"https://www.omdbapi.com/?t={film_name}&r=json&apikey={apikey}"
+def make_film_url(imdb_id, apikey):
+    url = f"https://www.omdbapi.com/?i={imdb_id}&r=json&apikey={apikey}"
     return url
 
 
