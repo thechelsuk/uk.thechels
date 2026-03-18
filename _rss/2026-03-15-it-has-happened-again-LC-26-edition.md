@@ -8,4 +8,4 @@ title: It has happened again LC 26 Edition
 
 Chelsea Women 2-0 Manchester United Women.
 
-League Cup winners 2026
+League Cup winners 2026.
