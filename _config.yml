@@ -121,6 +121,8 @@ navigation_slashes:
     title: "CV"
   - link: "/disability"
     title: "Disability"
+  - link: "/drafts"
+    title: "Draft Actions"
   - link: "/green"
     title: "Green"
   - link: "/manual"
