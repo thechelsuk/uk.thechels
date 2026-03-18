@@ -137,6 +137,8 @@ navigation_slashes:
     title: "Projects"
   - link: "/save"
     title: "Save"
+  - link: "/SBOM"
+    title: "Software Bill of Materials (SBOM)"
   - link: "/.well-known/security.txt"
     title: "Security (txt)"
   - link: "/style"
