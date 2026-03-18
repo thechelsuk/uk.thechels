@@ -25,4 +25,4 @@ If you don’t have a feed reader then I recommend using [NetNewsWire](https://n
 
 ## Theme theme for NewNewsWire
 
-If you use NetNewsWire, you can use my [thechelsuk theme](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes.nnw/raw/main/dist//thechelsuk.nnwtheme_v1.zip) based on the light and alt themes on this site.
+If you use NetNewsWire, you can use my [thechelsuk theme](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes.nnw/raw/main/dist//thechelsuk.nnwtheme_v1.zip) based on the light and alt themes on this site, adjusted to match the light and darkness of the app.
