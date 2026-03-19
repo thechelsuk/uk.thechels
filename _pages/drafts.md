@@ -23,6 +23,7 @@ Drafts is a Mac and [iOS app](https://apps.apple.com/us/app/drafts/id1236254471)
 - // [Arc Search Selection](https://directory.getdrafts.com/a/21s) _Takes the selected text in a draft, and launches a search in the Arc Browser._
 - // [Duck Duck go Search Selection](https://directory.getdrafts.com/a/22D) _Takes the selected text in a draft, and launches a search with Duck Duck Go_
 - // [Bing Search Selection](https://directory.getdrafts.com/a/22F) _Takes the selected text in a draft, and launches a search with Bing_.
+- // [Google Search Selection without AI](https://directory.getdrafts.com/a/24h) _Takes the selected text searches at google but appends udm=14 to the url to remove the AI overview_. 
 - // [OMDB Film Search](https://directory.getdrafts.com/a/24e) _Takes the selected text in a draft and searches the OMDB API for a film result (requires OMDB API key)_.
 - // [Film GitHub Action](https://directory.getdrafts.com/a/24f) _Takes the Date, IMDBCode, and Rating, and Posts to GitHub to trigger an action to write the film data to a Yaml file. (Requires a GitHub User, Repo and Personal Access Token)_.
 
