@@ -19,5 +19,5 @@ Based on the light and alt themes on this site, adjusted to match the light and 
 
 A light mode only, simple and clean theme using thechelsuk font (included) and JetBrains Mono if installed.
 
-- [Install](https://github.com/thechelsuk/uk.thechels.themes.nnw.guro/raw/main/dist/guro.nnwtheme_v1.zip)
+- [Install](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes.nnw.guro/raw/main/dist/guro.nnwtheme_v1.zip)
 - [GitHub](https://github.com/thechelsuk/uk.thechels.themes.nnw.guro)
