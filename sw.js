@@ -27,18 +27,16 @@ self.addEventListener('install', function(event) {
     caches.open(CURRENT_CACHES).then(function(cache) {
       return cache.addAll(
         [
-          '/style.css',
           '/index.html',
+          '/about.html',
+          '/slashes.html',
+          '/style.css',
+          '/style_print.css',
           '/images/gh-header-image-cropped.jpg',
-          '/images/logo.svg',
+          '/images/me72.png',
           '/images/me72-hover.png',
           '/images/colour-scheme.png',
-          '/images/me72.png',
-          '/about.html',
-          '/books.html',
-          '/cv.html',
-          '/manual.html',
-          '/podcasts.html',
+          '/.well-known/avatar.png',
         ]
       );
     })
