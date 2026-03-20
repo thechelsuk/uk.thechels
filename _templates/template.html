@@ -5,18 +5,18 @@
 
 
 <ul>
- <li>{{ site.data.blogroll | size }}</b> blog subscriptions.</li>
- <li>{{ site.data.podcasts | size }}</b> podcast subscriptions.</li>
- <li>{{ site.data.teams | size }}</b> teams seen live.</li>
- <li>{{ site.data.books | size }}</b> books in library.</li>
- 
- <li>{{ site.navigation_header | size }}</b> nav items.</li>
- <li>{{ site.navigation_dara | size }}</b> data links.</li>
- <li>{{ site.navigation_slashes | size }}</b> page links.</li>
- 
+    <li>{{ site.data.blogroll | size }}</b> blog subscriptions.</li>
+    <li>{{ site.data.podcasts | size }}</b> podcast subscriptions.</li>
+    <li>{{ site.data.teams | size }}</b> teams seen live.</li>
+    <li>{{ site.data.books | size }}</b> books in library.</li>
+
+    <li>{{ site.navigation_header | size }}</b> nav items.</li>
+    <li>{{ site.navigation_dara | size }}</b> data links.</li>
+    <li>{{ site.navigation_slashes | size }}</b> page links.</li>
+
 </ul>
 
- assign sorted = site.data.items | sort: 'title' %}
+assign sorted = site.data.items | sort: 'title' %}
 <ul>
     {% for item in sorted %}
     <li>{{item.title}}</li>
