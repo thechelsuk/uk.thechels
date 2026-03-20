@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-03-19
+date: 2026-03-20
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,14 +11,14 @@ date: 2026-03-19
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Thursday, 19 March 2026
+## On Friday, 20 March 2026
 
-- The average temperature today is 6.15˚C,
-- With highs of 8.49˚C and lows of 4.75˚C,
-- It may feel like 5.21˚C with clear sky
-- The wind speed is 1.54m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 82%
-- The sun will rise at 06:13 and set at 18:18
+- The average temperature today is 5.33˚C,
+- With highs of 5.33˚C and lows of 5.33˚C,
+- It may feel like 4.42˚C with overcast clouds
+- The wind speed is 1.43m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 90%
+- The sun will rise at 06:11 and set at 18:20
 
 <!-- weather_marker ends -->
 
@@ -26,50 +26,55 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 744 days since the last change (2024-03-05)
+- It has been 745 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-- No tasks today
+- Farmers Market in town
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Think aptitude and attitude.
+> Inspire others
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- AEK Larnaca v Crystal Palace
-- FC Midtjylland v Nottingham Forest
-- Aston Villa v Lille
+- Birmingham City U21 v Manchester City U21
+- Wolves U21 v Chelsea U21
+- Preston North End v Stoke City
+- AFC Bournemouth v Manchester United
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 122.97000122070312 
-- ^FTSE : 10171.83984375 
-- ^FTMC : 21825.16015625 
+- VWRL.L : 121.54000091552734 
+- ^FTSE : 10116.6298828125 
+- ^FTMC : 21683.779296875 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> The sun came first and was absolutely beaming. The whole thing was overshadowed by the Uranus.
+> I have interviewed at a bird food-making company, but waiting to see if they have a successful seed funding round, as I don't come cheep.
 <!-- jokes_marker ends -->
 
 
 ### Team News
 <!-- news_marker starts -->
 
+- How should Chelsea line up against Everton to get season back on track?
+- The Daily Hilario: Friday
+- Liam Rosenior claims Enzo Fernández ’fully committed’ to Chelsea, quotes lost in translation
 - The Daily Hilario: Thursday
 - Chelsea 0-3 PSG, Player Ratings: Another for the Hall of Shame
 - Chelsea FCW 2-1 Brighton &#038; Hove Albion WFC, Women’s Super League: Post-match reaction
@@ -77,9 +82,6 @@ _Good Morning, Here is your daily briefing..._
 - Chelsea FCW vs. Brighton &#038; Hove Albion WFC, Women’s Super League: Preview, team news, how to watch
 - Enzo Fernández gives his Chelsea future the ‘we’ll see’ treatment
 - The Daily Hilario: Wednesday
-- Trevoh Chalobah suffers high ankle sprain in PSG defeat
-- Chelsea 0-3 (2-8 agg.) PSG, Champions League: Post-match reaction, ratings
-- Chelsea vs. PSG, Champions League: Confirmed lineups; how to watch
 
 <!-- news_marker ends -->
 
@@ -87,14 +89,14 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- ftnews_marker starts -->
 
-- Gas price surges 30% and oil hits $114 as strikes rattle markets
-- Iran inflicts ‘extensive damage’ on site of world’s largest LNG facility in Qatar
-- US explored tying naval escorts in Strait of Hormuz to government insurance
-- Iran sets its price to end the war
-- Trump sails into battle with Lloyd’s of London
-- How the White House tries to sell war and death as a game
-- Battersea Power Station in dispute with fired CEO over accounts
-- PwC US boss says partners who resist AI have no place at the firm
+- Iran renews Gulf strikes as oil steadies
+- US-Israel strikes have destroyed Iran’s ability to enrich uranium, Netanyahu says
+- Military briefing: the perils of the Hormuz escort plan
+- Qatar’s gas empire comes under fire
+- Rituals of survival in Tehran
+- The war over tail risks is in full swing
+- JPMorgan deploys tech to monitor junior bankers’ working hours
+- Airlines draw up contingency plans over jet fuel shortage fears
 
 <!-- ftnews_marker ends -->
 
@@ -102,41 +104,41 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > labyrinthine - adjective: 1. Relating to a labyrinth or maze. 2. Intricate, convoluted, or confusing. 3. Relating to the inner ear.
+ > superincumbent - adjective: 1. Lying or resting on something else. 2. Weighty; oppressive.
 
 <!-- word_marker ends -->
 
 ### Quote of the Day
 <!-- quote_marker starts -->
 
-> Do not try and make a right choice, make a choice and then make it right. - Joe Delaney
+> The art of leadership is saying no, not yes. It is very easy to say yes - Tony Blair
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Use an old idea
+> How would you have done it?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Aliens (Rated: 7)
-- Released in 1986
-- Summary: Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring.
+- Goodfellas (Rated: 6)
+- Released in 1990
+- Summary: The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 <!-- game_marker starts -->
 
-- Target: 271, using [2, 3, 10, 25, 50, 100]
-- Answer: 10 solutions.
+- Target: 176, using [2, 2, 5, 8, 10, 25]
+- Answer: 49 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 50 + 3 ) x 2 - 25 - 10
+  Solution: ( 10 + 5 - 8 ) x 25 + 2 / 2
 
    </details>
 
@@ -144,9 +146,9 @@ _Good Morning, Here is your daily briefing..._
 
 ### 5 Random Blogroll Links
 <!-- blogroll_marker starts -->
-- Farnham Street [URL](https://fs.blog/) [Feed](https://www.farnamstreetblog.com/feed/)
-- Sean McPherson [URL](https://seanmcp.com/) [Feed](https://seanmcp.com/rss.xml)
-- Michael Tsai [URL](https://mjtsai.com/blog) [Feed](https://mjtsai.com/blog/feed/)
-- Caleb Hearth [URL](https://calebhearth.com/) [Feed](https://calebhearth.com/atom.xml)
-- Castro [URL](https://castro.fm/) [Feed](https://castro.fm/feed.rss)
+- Scripting [URL](http://scripting.com/) [Feed](http://scripting.com/rss.xml)
+- Benedict Evans [URL](https://www.ben-evans.com/benedictevans/) [Feed](https://www.ben-evans.com/benedictevans?format=rss)
+- Dave Kiss [URL](https://davekiss.com/) [Feed](https://davekiss.com/blog.rss)
+- Geoff Graham [URL](https://geoffgraham.me/) [Feed](https://geoffgraham.me/feed)
+- Codemanship [URL](https://codemanship.wordpress.com/) [Feed](https://codemanship.wordpress.com/feed/)
 <!-- blogroll_marker ends -->
