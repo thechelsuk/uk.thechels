@@ -1,5 +1,6 @@
 ---
-layout: null
+# service worker Cache-first network
+
 ---
 
 'use strict';
@@ -39,7 +40,7 @@ self.addEventListener('install', function(event) {
           '/images/me72.png',
           '/.well-known/avatar.png',
           '/fonts/TheChelsLight.woff',
-          '/fonts/TheChelsMedium.woff'
+          '/fonts/TheChelsMedium.woff',
         ]
       );
     })
