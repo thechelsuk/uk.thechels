@@ -1,5 +1,5 @@
 ---
-# SW
+# render
 ---
 
 'use strict';
@@ -33,10 +33,10 @@ self.addEventListener('install', function(event) {
           '/style.css',
           '/style_print.css',
           '/images/gh-header-image-cropped.jpg',
+          '/images/me72.png',
           '/images/me72-hover.png',
           '/images/colour-scheme.png',
-          '/images/me72.png',
-          '/.well-known/avatar.png'
+          '/.well-known/avatar.png',
         ]
       );
     })
