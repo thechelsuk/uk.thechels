@@ -1,5 +1,5 @@
 ---
-# service worker Cache-first network
+# SW
 ---
 
 'use strict';
@@ -33,7 +33,6 @@ self.addEventListener('install', function(event) {
           '/style.css',
           '/style_print.css',
           '/images/gh-header-image-cropped.jpg',
-          '/images/logo.svg',
           '/images/me72-hover.png',
           '/images/colour-scheme.png',
           '/images/me72.png',
