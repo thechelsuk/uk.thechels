@@ -1,9 +1,9 @@
-- date: 2026-03-17
-  title: house
+- title: House
+  date: 2026-03-17
   label: last left the house
-- date: 2025-07-04
-  title: work
-  label: last worked day
-- date: 2025-10-01
-  title: Diagnosis
+- title: Work
+  date: 2025-07-04
+  label: last day at work
+- title: Diagnosis
+  date: 2025-10-01
   label: ME diagnosis date
