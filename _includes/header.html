@@ -9,6 +9,12 @@
     <meta name="description"
       content="{{ page.seo | default: post.seo | default: page.title | default: post.title }} | {{ site.title }}">
 
+    {% if page.canonical %}
+    <link rel="canonical" href="{{ page.canonical }}" />
+    {% else %}
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+    {% endif %}
+
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:title"
@@ -28,14 +34,10 @@
     <meta name="HandheldFriendly" content="True">
     <meta name="theme-color" content="#005CA3">
     <meta name="robots" content="{% if page.robots %}{{ page.robots }}{% else %}index,follow{% endif %}">
-    {% if page.canonical %}
-    <link rel="canonical" href="{{ page.canonical }}" />
-    {% else %}
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-    {% endif %}
+
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-touch-fullscreen" content="yes">
-    <meta name="apple-mobile-web-app-title" content="Mat B">
+    <meta name="apple-mobile-web-app-title" content="thechelsuk">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <link href="/fonts/TheChelsLight.woff" rel="preload" crossorigin as="font" type="font/woff">
@@ -47,6 +49,11 @@
     <link rel="manifest" href="/manifest.json" fetchpriority="low">
     <link rel="human-json" href="/human.json" fetchpriority="low">
     <link rel="indieweb" href="/indieweb.txt" fetchpriority="low">
+    <link rel="icon" href="/favicon.ico" sizes="32x32">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/favicon.png">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="me" href="https://mastodon.social/@Thechelsuk">
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Main Feed xml"
       href="{{ site.url }}/feed">
@@ -63,82 +70,7 @@
     <link href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md" type="text/markdown"
       rel="alternate" title="Markdown">
     {% endif %}
-    <link rel="icon" href="/images/splashscreens/favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" href="/images/splashscreens/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="512x512" href="/images/splashscreens/apple-touch-icon-512x512.png">
-    <link rel="apple-touch-icon" sizes="57x57" href="/images/splashscreens/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/images/splashscreens/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/images/splashscreens/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/images/splashscreens/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/images/splashscreens/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/images/splashscreens/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/images/splashscreens/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/images/splashscreens/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/images/splashscreens/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="/images/splashscreens/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/images/splashscreens/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/images/splashscreens/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/images/splashscreens/favicon-16x16.png">
-    <link rel="manifest" href="/manifest.json">
-    <meta name="msapplication-TileColor" content="#f5f4f4">
-    <meta name="msapplication-TileImage" content="/images/splashscreens/ms-icon-144x144.png">
-    <meta name="theme-color" content="#f5f4f4">
 
-    <link href="/images/splashscreens/apple-splash-2048-2732.png" rel="apple-touch-startup-image"
-      media="(width: 1024px) and (height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
-    <link href="/images/splashscreens/apple-splash-2732-2048.jpg" rel="apple-touch-startup-image"
-      media="(width: 1024px) and (height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
-    <link href="/images/splashscreens/apple-splash-1668-2388.jpg" rel="apple-touch-startup-image"
-      media="(width: 834px) and (height: 1194px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
-    <link href="/images/splashscreens/apple-splash-2388-1668.jpg" rel="apple-touch-startup-image"
-      media="(width: 834px) and (height: 1194px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
-    <link href="/images/splashscreens/apple-splash-1536-2048.jpg" rel="apple-touch-startup-image"
-      media="(width: 768px) and (height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
-    <link href="/images/splashscreens/apple-splash-2048-1536.jpg" rel="apple-touch-startup-image"
-      media="(width: 768px) and (height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
-    <link href="/images/splashscreens/apple-splash-1668-2224.jpg" rel="apple-touch-startup-image"
-      media="(width: 834px) and (height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
-    <link href="/images/splashscreens/apple-splash-2224-1668.jpg" rel="apple-touch-startup-image"
-      media="(width: 834px) and (height: 1112px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
-    <link href="/images/splashscreens/apple-splash-1620-2160.jpg" rel="apple-touch-startup-image"
-      media="(width: 810px) and (height: 1080px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
-    <link href="/images/splashscreens/apple-splash-2160-1620.jpg" rel="apple-touch-startup-image"
-      media="(width: 810px) and (height: 1080px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
-    <link href="/images/splashscreens/apple-splash-1284-2778.jpg" rel="apple-touch-startup-image"
-      media="(width: 428px) and (height: 926px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
-    <link href="/images/splashscreens/apple-splash-2778-1284.jpg" rel="apple-touch-startup-image"
-      media="(width: 428px) and (height: 926px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
-    <link href="/images/splashscreens/apple-splash-1170-2532.jpg" rel="apple-touch-startup-image"
-      media="(width: 390px) and (height: 844px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
-    <link href="/images/splashscreens/apple-splash-2532-1170.jpg" rel="apple-touch-startup-image"
-      media="(width: 390px) and (height: 844px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
-    <link href="/images/splashscreens/apple-splash-1125-2436.jpg" rel="apple-touch-startup-image"
-      media="(width: 375px) and (height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
-    <link href="/images/splashscreens/apple-splash-2436-1125.jpg" rel="apple-touch-startup-image"
-      media="(width: 375px) and (height: 812px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
-    <link href="/images/splashscreens/apple-splash-1242-2688.jpg" rel="apple-touch-startup-image"
-      media="(width: 414px) and (height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
-    <link href="/images/splashscreens/apple-splash-2688-1242.jpg" rel="apple-touch-startup-image"
-      media="(width: 414px) and (height: 896px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
-    <link href="/images/splashscreens/apple-splash-828-1792.jpg" rel="apple-touch-startup-image"
-      media="(width: 414px) and (height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
-    <link href="/images/splashscreens/apple-splash-1792-828.jpg" rel="apple-touch-startup-image"
-      media="(width: 414px) and (height: 896px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
-    <link href="/images/splashscreens/apple-splash-1242-2208.jpg" rel="apple-touch-startup-image"
-      media="(width: 414px) and (height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)">
-    <link href="/images/splashscreens/apple-splash-2208-1242.jpg" rel="apple-touch-startup-image"
-      media="(width: 414px) and (height: 736px) and (-webkit-device-pixel-ratio: 3) and (orientation: landscape)">
-    <link href="/images/splashscreens/apple-splash-750-1334.jpg" rel="apple-touch-startup-image"
-      media="(width: 375px) and (height: 667px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
-    <link href="/images/splashscreens/apple-splash-1334-750.jpg" rel="apple-touch-startup-image"
-      media="(width: 320px) and (height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
-    <link href="/images/splashscreens/apple-splash-640-1136.jpg" rel="apple-touch-startup-image"
-      media="(width: 320px) and (height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
-    <link href="/images/splashscreens/apple-splash-1136-640.jpg" rel="apple-touch-startup-image"
-      media="(width: 320px) and (height: 568px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)">
-    <link href="/images/splashscreens/apple-splash-640-960.jpg" rel="apple-touch-startup-image"
-      media="(width: 320px) and (height: 480px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)">
-    <link rel="me" href="https://mastodon.social/@Thechelsuk">
     {% webmentions_head %}
   </head>
 
@@ -154,7 +86,7 @@
           <div class="blog-bar">
             <div class="blog-identity">
               <div class="blog-avatar" role="img"
-                    aria-label="{{ site.owner.name }} background image - a generated avatar on white background transitions to portrait head shot">
+                aria-label="{{ site.owner.name }} background image - a generated avatar on white background transitions to portrait head shot">
               </div>
               <div class="blog-text">
                 <div class="blog-title">
