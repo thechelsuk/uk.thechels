@@ -93,7 +93,7 @@ $header-stack: TheChelsMedium,
     -system-ui,
     "Gill Sans",
     sans-serif;
-$font-mono: ui-monospace, monospace, "Courier New";
+$font-mono: "JetBrains Mono", ui-monospace, monospace, "Courier New";
 
 .font-stack {
     font-family: $font-stack;

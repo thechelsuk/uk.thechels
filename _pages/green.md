@@ -43,4 +43,4 @@ According to an online calculator, my personal emissions equate to 4.6kg and my 
 
 - Previously working was mostly from home, but occasional trips to London for work are by train. The Trainline App reports that this journey typically saves 27kg of CO₂.
 - For all train travel since June 2021, I have saved 448kg of CO₂. Using 197kg compared 645kg had the journey been by car.
-- Due to my [disability](/disability) I am currently homebound and not working, so travel has reduced to zero. 
+- Due to my [disability](/disability) I am currently homebound and not working, so travel has reduced to zero.
