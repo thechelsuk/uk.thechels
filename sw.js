@@ -1,5 +1,5 @@
 ---
-# render
+layout: null
 ---
 
 'use strict';
@@ -28,17 +28,18 @@ self.addEventListener('install', function(event) {
       return cache.addAll(
         [
           '/style.css',
+          '/style_print.css',
           '/index.html',
           '/images/gh-header-image-cropped.jpg',
           '/images/logo.svg',
           '/images/me72-hover.png',
           '/images/colour-scheme.png',
           '/images/me72.png',
-          '/about.html',
-          '/books.html',
-          '/cv.html',
-          '/manual.html',
-          '/podcasts.html',
+          '/.well-known/avatar.png',
+          '/about/',
+          '/slashes/',
+          'TheChelsLight.woff',
+          'TheChelsMedium.woff'
         ]
       );
     })
