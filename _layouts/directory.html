@@ -42,4 +42,21 @@
     <li><b>{{ site.navigation_data | size }}</b> data links.</li>
 </ul>
 
+<h2>Personal Data Summary</h2>
+
+{% assign sorted = site.data.since | sort: 'date' | reverse %}
+{% assign build_epoch = site.time | date: '%s' %}
+<ul>
+    {% for item in sorted %}
+    {% assign item_epoch = item.date | date: '%s' %}
+    {% assign days_since = build_epoch | minus: item_epoch | divided_by: 86400 %}
+    {% if days_since == 1 %}
+    {% assign day_label = 'day' %}
+    {% else %}
+    {% assign day_label = 'days' %}
+    {% endif %}
+    <li><b>{{ days_since }}</b> {{ day_label }} since {{ item.label }} - ({{ item.date }})</li>
+
+    {% endfor %}
+</ul>
 {% include footer.html %}
