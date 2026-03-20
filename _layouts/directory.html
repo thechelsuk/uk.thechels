@@ -4,10 +4,16 @@
 
 {{ content }}
 
+<hr />
+
 <h2>So... What now</h2>
 
-<p>Go <a href="/">← Back</a> to homepage to read a blog post, or perhaps check out other
+<p>
+    Go <a href="/">← Back</a> to homepage to read a blog post, or perhaps check out other
     <a href="https://links.thechels.uk">Links</a> around the web.
+</p>
+<p>
+    Below is a summary of the content and data on this site as a bonus for visiting this special page.
 </p>
 
 <h2>Content Summary</h2>
@@ -44,7 +50,7 @@
 
 <h2>Personal Data Summary</h2>
 
-{% assign sorted = site.data.since | sort: 'date' | reverse %}
+{% assign sorted = site.data.since | sort: 'date' %}
 {% assign build_epoch = site.time | date: '%s' %}
 <ul>
     {% for item in sorted %}
