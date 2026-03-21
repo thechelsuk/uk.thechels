@@ -38,6 +38,7 @@ Broad open source intelligence tool link list
 - [Live Events - UA Maps](https://health.liveuamap.com/)
 - [Missile/Drone - Red Alerts](https://www.tzevaadom.co.il/en/)
 - [Flight Radar 24](https://www.flightradar24.com/29.76,39.82/7)
+- [Flights](https://globe.adsbexchange.com)
 - [Marine Traffic](https://www.marinetraffic.com/en/ais/home/centerx:55.2/centery:22.5/zoom:6)
 - [Wifi Routers - Wigle.net ](https://wigle.net/)
 - [IOT Search - Shodan.io](https://www.shodan.io)
