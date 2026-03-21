@@ -88,7 +88,7 @@
           <div class="blog-bar">
             <div class="blog-identity">
               <div class="blog-avatar" role="img"
-                aria-label="{{ site.owner.name }} background image - a generated avatar on white background transitions to portrait head shot">
+                aria-label="A generated avatar on white background which transitions to portrait head shot of {{ site.owner.name }} on hover.">
               </div>
               <div class="blog-text">
                 <div class="blog-title">
@@ -97,7 +97,8 @@
                     {{ site.title }}
                     {% else %}
                     {{ page.title }}
-                    {% endif %}</a><sup class="asterisk" id="top" tabindex="0" title="Toggle light/dark mode">*</sup>
+                    {% endif %}</a><sup class="asterisk" id="top" tabindex="0" role="button" aria-label="Toggle Theme"
+                    title="Toggle light/alt/dark mode">*</sup>
                 </div>
                 <div class="blog-slogan"> {% assign slogans=site.data.slogans %} {% assign random_index="now" | date:
                   "%s" |
