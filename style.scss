@@ -1,5 +1,4 @@
----
----
+--- ---
 /* ---------------------------------- */
 /* ----------  Font Setup  ---------- */
 /* ---------------------------------- */
@@ -233,7 +232,7 @@ body {
 
 .asterisk {
     font-size: 0.8em;
-    color: $accent;
+    color: $secondary;
     scroll-margin-top: 2em;
     cursor: pointer;
     vertical-align: super;
@@ -241,9 +240,9 @@ body {
 
     &:hover {
         rotate: 180deg;
-        transition: color 1s ease-in-out;
+        transition: color 1s ease-in-out, transform 1s ease-in-out;
         text-decoration: none;
-        color: $secondary;
+        color: $accent;
     }
 }
 
