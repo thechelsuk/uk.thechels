@@ -11,7 +11,7 @@ Broad open source intelligence tool link list
 ## Lookups and Images
 
 - [Search for Faces](https://searchforfaces.com)
-- [Search for Name](https://whatsmyname.web)
+- [Search for Name](https://whatsmynameapp.net/)
 - [Identify car model](https://carnet.ai)
 - [YouTube GeoFind](https://mattw.io/youtube-geofind/location)
 - [TinEye Reverse Image Search](https://tineye.com)
