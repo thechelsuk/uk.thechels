@@ -10,8 +10,8 @@ Broad open source intelligence tool link list
 
 ## Lookups and Images
 
-- [Search for Faces](searchforfaces.com)
-- [Search for Name](whatsmyname.web) 
+- [Search for Faces](https://searchforfaces.com)
+- [Search for Name](https://whatsmyname.web)
 - [Identify car model](https://carnet.ai)
 - [YouTube GeoFind](https://mattw.io/youtube-geofind/location)
 - [TinEye Reverse Image Search](https://tineye.com)
@@ -23,7 +23,6 @@ Broad open source intelligence tool link list
 - [Gov.uk](https://www.gov.uk/)
 - [MI5 Threat level](https://www.mi5.gov.uk/)
 - [Data Breaches](https://databreaches.net/)
-
 
 ## Websites Email and Technology
 
@@ -40,7 +39,7 @@ Broad open source intelligence tool link list
 - [Flight Radar 24](https://www.flightradar24.com/29.76,39.82/7)
 - [Flights](https://globe.adsbexchange.com)
 - [Marine Traffic](https://www.marinetraffic.com/en/ais/home/centerx:55.2/centery:22.5/zoom:6)
-- [Wifi Routers - Wigle.net ](https://wigle.net/)
+- [Wifi Routers - Wigle.net](https://wigle.net/)
 - [IOT Search - Shodan.io](https://www.shodan.io)
 
 ## Privacy & Defensive Tools
