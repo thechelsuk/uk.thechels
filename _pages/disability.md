@@ -89,7 +89,6 @@ There is a blood test, although often inconclusive and can frequently be a false
 - [25% ME Group (Scotland)](https://www.25megroup.org/)
 - [Hummingbird's ME Scale](/hummingbirds-me-scale/)
 - [ME Controversies Wikipedia](https://en.wikipedia.org/wiki/Controversies_related_to_ME/CFS)
--
 
 ### MCAS Resources
 
