@@ -12,7 +12,7 @@ I suffer from Myalgic Encephalomyelitis commonly known as ME or ME/CFS.
 
 Additionally, I suffer from MCAS, Protanopia and Deuteranopia (colourblindness) as well as from Reynaud's syndrome.
 
-I am largely homebound and unable to work, physical activity is severely limited as well as cognitive exertion and stress exacerbates my symptoms often for several days. My sleep is so distrupted any form of planning is largely impossible.
+I am largely homebound and unable to work, physical activity is severely limited as well as cognitive exertion and stress exacerbates my symptoms often for several days. My sleep is so disrupted any form of planning is largely impossible.
 
 I am sensitive to light and sound most of the time and suffer from a wide range of symptoms including palpitations, stabbing pains, neurological and nerve pain, gastrointestinal issues, overwhelming sense of dread, general malaise, and feeling poisoned.
 
@@ -39,7 +39,7 @@ The 4 key symptoms are:
 - Overwhelming fatigue - including flu-like malaise, chronic pain, headaches, nausea, digestive problems, and sensitivity to light, sound and other stimuli.
 - Cognitive disturbance; commonly known as brain fog, whereby finding the right words, or remembering, or understanding is impaired.
 
-_If you see me and think I am doing well and must therefore be faking being ill or "you don't look ill", it is in fact, that I am faking being well in that moment and will with out doubt be spending several days being worse off for it._ 
+_If you see me and think I am doing well and must therefore be faking being ill or "you don't look ill", it is in fact, that I am faking being well in that moment and will with out doubt be spending several days being worse off for it._
 
 ### ME Treatment
 
@@ -67,11 +67,10 @@ Flushing, itching, swelling, hives, congestion, breathlessness, increase hear ra
 
 ### MCAS Treatment
 
-Some see benefit from Type H1 and H2 Antihistamines.
+- Some see benefit from Type H1 and H2 Antihistamines.
+- Avoidance of and a reduction in diet to safer foods.
 
-Avoidance of and a reduction in diet to safer foods.
-
-_Baked "jacket" potatoes, pistachios, fresh chicken, some vegetables, blueberries and plain pasta are my safe foods discovered so far_
+_Baked "jacket" potatoes, pistachios, fresh chicken, some vegetables, and blueberries are safe foods discovered so far that I can eat with only minor symptoms being triggered._
 
 ### MCAS Diagnosis
 
@@ -79,7 +78,7 @@ There is a blood test, although often inconclusive and can frequently be a false
 
 ## Resources
 
-### ME
+### ME Resources
 
 - [Me Association](https://meassociation.org.uk)
 - [BACME - British Association of Clinicians in ME/CFS](https://bacme.info)
@@ -90,11 +89,10 @@ There is a blood test, although often inconclusive and can frequently be a false
 - [25% ME Group (Scotland)](https://www.25megroup.org/)
 - [Hummingbird's ME Scale](/hummingbirds-me-scale/)
 - [ME Controversies Wikipedia](https://en.wikipedia.org/wiki/Controversies_related_to_ME/CFS)
-- 
+-
 
-### MCAS
- 
+### MCAS Resources
+
 - [MCAS - Wikipedia](https://en.wikipedia.org/wiki/Mast_cell_activation_syndrome)
 - [Mast Cell Action](https://www.mastcellaction.org/)
 - [International Society for MCAS](https://ismcas.org)
-    
