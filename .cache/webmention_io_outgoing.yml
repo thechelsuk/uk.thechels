@@ -2962,6 +2962,9 @@ https://thechels.uk/osint-tools:
   https://www.gov.uk/: false
   https://www.mi5.gov.uk/: false
   https://databreaches.net/: false
+  https://searchforfaces.com: false
+  https://whatsmynameapp.net/: false
+  https://globe.adsbexchange.com: false
 https://thechels.uk/the-web-is-bearable-with-rss:
   https://brid.gy/publish/mastodon: true
   https://brid.gy/publish/bluesky: true
@@ -3035,6 +3038,10 @@ https://thechels.uk/empty-stands-fans-with-me+:
   https://brid.gy/publish/bluesky: false
   https://brid.gy/publish/reddit: false
 https://thechels.uk/the-trump-paradox:
+  https://brid.gy/publish/mastodon: false
+  https://brid.gy/publish/bluesky: false
+  https://brid.gy/publish/reddit: false
+https://thechels.uk/new-york-times-and-the-49mb-web-page:
   https://brid.gy/publish/mastodon: false
   https://brid.gy/publish/bluesky: false
   https://brid.gy/publish/reddit: false
