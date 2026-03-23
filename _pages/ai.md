@@ -1,7 +1,6 @@
 ---
 layout: pages
 title: AI - Statement on Usage
-permalink: /ai 
 seo: Statement on AI usage
 
 ---
@@ -23,4 +22,3 @@ I do _not_ use AI to formulate opinions or to generate content (typically referr
 Although not AI, I use comprehensive tools and automations to help complete everyday technology tasks.
 
 I use automations to help simplify my content generation using Shortcuts, Drafts Actions and text replacement/keys as well as GitHub actions extensively.
-
