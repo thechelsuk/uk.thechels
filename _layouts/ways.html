@@ -3,7 +3,7 @@
 <p class="marker"><b>{{ site.ways | size }}</b> total ways.</p>
 <div id="blog-archives" class="flow">
   {{ content }}
-  <h2>Recent Posts</h2>
+  <h2>Recent Ways</h2>
   {% for post in site.ways %}
   <div class="posts">
     <a href="{{ post.url }}">{{ post.title }}</a> {% include post_icon.html %}
