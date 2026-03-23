@@ -707,3 +707,27 @@
 "/empty-stands-fans-with-me+": {}
 "/the-trump-paradox": {}
 "/new-york-times-and-the-49mb-web-page": {}
+"/pc-gamer-loads-half-a-gigabyte-of-ads":
+  '1985603':
+    id: '1985603'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mholzlpizr2c
+    source: false
+    pubdate: 2026-03-22 00:00:00.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mholzlpizr2c%23bridgy-fed-create-2026-03-22T22:32:43.619055+00:00
+      verified: true
+      verified_date: '2026-03-22T22:32:47+00:00'
+      id: 1985603
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mholzlpizr2c
+        name:
+        content: PC Gamer loads half a gigabyte of ads (<a href="https://thechels.uk/pc-gamer-loads-half-a-gigabyte-of-ads">https://thechels.uk/pc-gamer-loads-half-a-gigabyte-of-ads</a>)
+        published: '2026-03-22T00:00:00+00:00'
+        published_ts: 1774137600
+      activity:
+        type: link
+      target: https://thechels.uk/pc-gamer-loads-half-a-gigabyte-of-ads
+    author:
+    type: link
+    content: PC Gamer loads half a gigabyte of ads (<a href="https://thechels.uk/pc-gamer-loads-half-a-gigabyte-of-ads">https://thechels.uk/pc-gamer-loads-half-a-gigabyte-of-ads</a>)
