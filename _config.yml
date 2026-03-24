@@ -46,7 +46,7 @@ collections:
   rss:
     output: false
   ways:
-    output: false
+    output: true
 exclude:
   - CNAME
   - README.md
@@ -152,6 +152,8 @@ navigation_slashes:
     title: "Uses"
   - link: "/verify"
     title: "Verify"
+  - link: "/ways"
+    title: "Ways"
   - link: "/indieweb.txt"
     title: "IndieWeb (txt)"
 
