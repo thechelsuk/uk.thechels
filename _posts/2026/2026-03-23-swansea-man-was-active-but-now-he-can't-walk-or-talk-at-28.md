@@ -15,8 +15,3 @@ Yet, nothing new here for anyone who has read others. still little to no action.
 > Tomos is one of thousands with the condition in Wales who campaigners say are "invisible", with healthcare services described as "a desert" for those most severely affected. 
 > 
 > The Welsh government said proposals for an all‑Wales specialist, an expert group and national standards were being "actively considered".
-
-
-
-
-Date: 2026-03-23
