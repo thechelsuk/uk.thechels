@@ -3,6 +3,7 @@
 layout: post
 date: 2025-11-30
 title: Monthly Mixtape - Nov 2025
+tags: [music]
 
 ---
 

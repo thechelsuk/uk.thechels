@@ -3,6 +3,7 @@
 layout: post
 date: 2026-01-23
 title: Monthly Mixtape - Jan 2026
+tags: [music]
 
 ---
 
