@@ -3,7 +3,7 @@ layout: tagged
 title: Chelsea Archives
 seo: Chelsea - old chelsea blog posts and articles
 tagged: chelsea
-permalink: /tag/chelsea/
+permalink: /tag/chelsea
 date: 2026-01-01
 
 ---
