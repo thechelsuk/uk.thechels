@@ -3,14 +3,13 @@
 layout: post
 date: 2025-10-26
 title: Monthly Mixtape - Oct 2025
-tags: [music]
+tags: [mixtapes]
 
 ---
 
 What I've been listening to this month.
 
 ![Monthly Mixtape 2025-10](/images/mixtapes/2025-10.png)
-
 
 1. Antidepressants - Suede
 2. Ecdysis - Miho Hatori

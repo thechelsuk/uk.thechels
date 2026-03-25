@@ -3,14 +3,13 @@
 layout: post
 date: 2025-12-20
 title: Monthly Mixtape - Dec 2025
-tags: [music]
+tags: [mixtapes]
 
 ---
 
 What I've been listening to this month.
 
 ![Monthly Mixtape 2025-12](/images/mixtapes/2025-12.png)
-
 
 1. Tell Me Ten Words - Idlewild
 2. We Have All the Time in the World (Copa Cabana Version) - Fun Lovin' Criminals

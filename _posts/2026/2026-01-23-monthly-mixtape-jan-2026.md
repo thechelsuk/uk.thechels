@@ -3,14 +3,13 @@
 layout: post
 date: 2026-01-23
 title: Monthly Mixtape - Jan 2026
-tags: [music]
+tags: [mixtapes]
 
 ---
 
 What I've been listening to this month.
 
 ![Monthly Mixtape 2026-01](/images/mixtapes/2026-01.png)
-
 
 1. Freebird II - Parquet Courts
 2. I Don't Know How To Reach You - Suede
