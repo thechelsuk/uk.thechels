@@ -8,13 +8,11 @@
     <meta name="title" content="{{ page.title | default: post.title }} | {{ site.title }}">
     <meta name="description"
       content="{{ page.seo | default: post.seo | default: page.title | default: post.title }} | {{ site.title }}">
-
     {% if page.canonical %}
     <link rel="canonical" href="{{ page.canonical }}" />
     {% else %}
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
     {% endif %}
-
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:title"
