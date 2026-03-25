@@ -3,7 +3,6 @@
 layout: post
 date: 2023-09-03
 title: Search Engine Management and Reducing Digital Footprint
-cited: 
 
 ---
 
@@ -24,15 +23,15 @@ Firefox lets you pick your search engine so it's likely Google or Bing, or Amazo
 4. Hide your browsing habits via incognito modes
 5. Use a VPN
 6. Avoid filling in surveys and opinion polls on social media
-7. Use pseudonyms when you must register accounts and never answer favourite pet or maiden names with real data. 
+7. Use pseudonyms when you must register accounts and never answer favourite pet or maiden names with real data.
 8. Use a generic spare email account for signing up to things so they not tied to the same account you use for your bank etc
 9. Unsubscribe from emails/newsletters etc
-10. Delete your history on major service providers - e.g., Google. 
+10. Delete your history on major service providers - e.g., Google.
 11. Turn off watch history etc on YouTube etc
 12. Delete and deny cookies, clear cookies and browser sessions regularly
 13. Use an Ad blocker
 14. Ask the Wayback Machine to delete archived content
-15. If you do have a Google account set up alerts for your name, email address or other data you want to keep track of. 
+15. If you do have a Google account set up alerts for your name, email address or other data you want to keep track of.
 
 ## Tools
 

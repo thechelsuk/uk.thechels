@@ -9,5 +9,5 @@ cited: The Register
 ---
 
 > The United Kingdom's Government Digital Service (GDS) has found that giving civil service employees access to Microsoft 365 Copilot saved them an average 26 minutes per day on office tasks.
-
+>
 > Microsoft 365 Copilot provides generative AI assistance with various Microsoft Office applications like Word, Excel, PowerPoint, Outlook, and Teams. It allows workers to accomplish some tasks through a natural language chat interface instead of mouse movements and menu clicks.

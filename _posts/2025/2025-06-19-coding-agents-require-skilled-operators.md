@@ -4,11 +4,7 @@ title: "Coding agents require skilled operators"
 cited: "Simon Willison"
 link: https://simonwillison.net/2025/Jun/18/coding-agents/#atom-everything
 seo: "Coding agents require skilled operators"
-tags: [
-  "AI",
-  "Hacker News",
-  "coding agents"
-]
+tags:
 ---
 
 > I wrote this recently in a conversation about whether coding agents can work as a replacement for human programmers.

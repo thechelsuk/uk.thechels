@@ -3,8 +3,7 @@
 layout: post
 title: "7 Frameworks To Master Decision Making"
 date: 2025-05-25
-categories: [productivity, decision-making, frameworks]
-tags: [OODA, pareto-principle, eisenhower-matrix, first-principles, inversion-thinking, regret-minimization, amazon]
+tags:
 cited: "Owain Lewis"
 link: "https://owainlewis.com/"
 

@@ -4,11 +4,7 @@ title: "Context Rot from AI"
 cited: "Workaccount2"
 link: https://simonwillison.net/2025/Jun/18/context-rot/#atom-everything
 seo: ""
-tags: [
-  "AI",
-  "Hacker News",
-  "context rot"
-]
+tags:
 ---
 
 Via Simon Willison, a quote from a comment on  Hacker News by Workaccount2. Sharing here as I've found that I have inadvertently been doing this myself when wanting to move on with an agent and not have it carry existing context into a new request.

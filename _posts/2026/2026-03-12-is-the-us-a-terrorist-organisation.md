@@ -23,9 +23,9 @@ Killing the adversarial leader and family members, 160 odd people, mostly childr
 And then here is a news article  from the [Guardian](https://www.theguardian.com/world/2026/mar/03/us-israel-iran-war-christian-rhetoric) about religious ideology being invoked by commanders in the US.
 
 > US military commanders have been invoking extremist Christian rhetoric about biblical "end times" to justify involvement in the Iran war to troops, according to complaints made to a watchdog group.
-> 
+>
 > The Military Religious Freedom Foundation (MRFF) says it has received [more than 200 complaints](https://www.militaryreligiousfreedom.org/2026/03/mrff-inundated-with-complaints-of-gleeful-commanders-telling-troops-iran-war-is-part-of-gods-divine-plan-to-usher-in-the-return-of-jesus-christ/) from service members across all branches of the armed forces, including the marines, air force and space force.
-> 
+>
 > One complainant, identified as a noncommissioned officer (NCO) in a unit that could be deployed "at any moment to join" operations against Iran, told MRFF in a complaint viewed by the Guardian that their commander had "urged us to tell our troops that this was 'all part of God's divine plan' and he specifically referenced numerous citations out of the Book of Revelation referring to Armageddon and the imminent return of Jesus Christ".
 
 Just a reminder that the line is _The threat must be for the purpose of advancing a religious cause_

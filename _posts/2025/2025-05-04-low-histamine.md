@@ -2,7 +2,7 @@
 layout: post
 title: "5-Day Low Histamine Vegan Meal Plan"
 date: 2025-05-04
-tags: [low histamine, vegan, meal plan, anti-inflammatory, food sensitivity]
+tags: [ME]
 seo: "A carefully crafted 5-day meal plan combining low histamine and a vegan diet."
 ---
 
@@ -11,7 +11,7 @@ Managing histamine intolerance on a vegan diet requires careful planning. This 5
 ## Daily Meal Plan
 
 | Day | Meal | Menu |
-|-----|------|------|
+| ----- | ------ | ------ |
 | **Day 1** | Lunch | Fresh zucchini noodles with olive oil, garlic, and fresh herbs (basil, parsley)<br>Side of steamed sweet potato chunks |
 | | Snack | Fresh cucumber slices with homemade mung bean hummus |
 | | Dinner | Millet pilaf with freshly cooked vegetables (carrots, broccoli, leeks)<br>Simple green salad with extra virgin olive oil and fresh lemon juice |

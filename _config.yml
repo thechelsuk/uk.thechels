@@ -93,6 +93,8 @@ navigation_data:
     title: "Feeds"
   - link: "/books"
     title: "Books"
+  - link: "/tag/mixtapes"
+    title: "Mixtapes"
   - link: "/teams"
     title: "Live Teams"
   - link: "/jokes"

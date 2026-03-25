@@ -2,10 +2,10 @@
 layout: post
 title : Secret Hitler - Top-decking before the reshuffle.
 tags:
-  - other
+
 ---
 
-#### Advanced game play.
+## Advanced game play
 
 It is advantageous for liberals to 'nein' 3 successive governments at the point five cards remain in the deck and the previous claims suggest seeing just four blues. In other words there are two blues remaining.
 
@@ -16,4 +16,3 @@ The next successful government then has to pick the top three cards from the fou
 If three reds are played it proves that a previous president had lied about the claim. Or indeed the most recent government claiming three reds, although the logic when discussed puts great pressure on the president to play the blue.
 
 In over 1000 games played, it is very common to see the liberals lead three blues to two reds at the reshuffle, if the deck has been unlucky or fascists have been in power twice the deck might be two blue to three red. So this advanced gameplay helps give the liberals the advantage and points the finger at previous presidents - maybe those claiming three reds, or those claiming just one blue but actually getting two or three.
-

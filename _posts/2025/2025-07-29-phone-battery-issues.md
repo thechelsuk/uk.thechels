@@ -1,7 +1,7 @@
 ---
 title: Phone battery issues
-author: 
-tags: [Me, cfs, Hiyd]
+author:
+tags: [ME]
 date: 2025-07-29
 
 ---
@@ -10,7 +10,7 @@ When a phone gets hot, very hot, because it’s processing something in the back
 
 Today I have the same phone but it is 3 year’s older. It’s battery says 80% but it’s actually only 5% and it randomly switches off, some days it’s 50% and lasts the day, some days it never seems to go above 20% despite having it on charge and not using it.
 
-I turn the screen brightness down, turn off Bluetooth, force close all my favourite apps and charge it for about 15 hours a day just to be able to message people once in a while. 
+I turn the screen brightness down, turn off Bluetooth, force close all my favourite apps and charge it for about 15 hours a day just to be able to message people once in a while.
 
 It randomly turns off if I try to send an email or make a call. Using maps in a new location or using any apps that do not have a shortcut or accessibility concessions.
 

@@ -5,8 +5,6 @@ cited: "Dave Rupert"
 link: https://daverupert.com/2025/05/notion-to-obsidian/
 seo: "markdown, text is the new gold."
 tags:
-  - process
-  - productivity
 ---
 
 As it turns out. Markdown _is_ the new gold.

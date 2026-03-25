@@ -1,8 +1,8 @@
 ---
 Layout: default
 Title: TypeScript for Pythonistas
-Tags: 
- - other
+Tags:
+
 ---
 
 Allison Kaptur, writing for Medium

@@ -5,10 +5,6 @@ cited: "Dane McMillan"
 link: https://www.theverge.com/press-room/710921/verge-site-features-launch-newsletters
 seo: "The site’s users can now follow reporters and topics, and receive a personalized daily email digest."
 tags:
-    - The Verge
-    - News
-    - Newsletters
-    - Digital Media
 
 ---
 
