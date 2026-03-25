@@ -3,7 +3,7 @@ layout: tagged
 title: ME Archives
 seo: ME - old ME blog posts and articles
 tagged: ME
-permalink: /tag/ME/
+permalink: /tag/ME
 date: 2026-01-01
 
 ---
