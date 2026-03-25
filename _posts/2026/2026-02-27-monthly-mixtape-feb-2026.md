@@ -3,13 +3,13 @@
 layout: post
 date: 2026-02-27
 title: Monthly Mixtape - Feb 2026
+tags: [music]
 
 ---
 
 What I've been listening to this month.
 
 ![Monthly Mixtape 2026-02](/images/mixtapes/2026-02.png)
-
 
 1. Learnt My Lesson Well - Kaiser Chiefs
 2. The Dogs - The Fumes

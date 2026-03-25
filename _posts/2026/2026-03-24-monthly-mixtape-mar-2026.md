@@ -3,13 +3,13 @@
 layout: post
 date: 2026-03-24
 title: Monthly Mixtape - Mar 2026
+tags: [music]
 
 ---
 
 What I've been listening to this month.
 
 ![Monthly Mixtape 2026-03](/images/mixtapes/2026-03.png)
-
 
 1. Cry Yourself to Sleep - The Charlatans
 2. go steady - TENDER
