@@ -1,6 +1,6 @@
 ---
----
 
+---
 /* ---------------------------------- */
 /* ----------  Font Setup  ---------- */
 /* ---------------------------------- */
@@ -26,13 +26,11 @@ $secondary: #005ca3;
 $links: #295147;
 $accent: #cec452;
 $code: #c0deff;
-$font-stack:
-    TheChelsLight,
+$font-stack: TheChelsLight,
     -system-ui,
     "Gill Sans",
     sans-serif;
-$header-stack:
-    TheChelsMedium,
+$header-stack: TheChelsMedium,
     -system-ui,
     "Gill Sans",
     sans-serif;
@@ -77,12 +75,17 @@ body {
     break-after: page;
 }
 
+.blog-bar,
+.blog-avatar,
 .blog-title,
 .blog-slogan,
 .blog-menu,
 .blog-image,
 .footer,
-.sr-only {
+.sr-only,
+.post-title,
+#header,
+#footer {
     display: none;
 }
 
@@ -131,6 +134,7 @@ h6 a {
     &:hover {
         text-decoration: none;
     }
+
     &:focus {
         text-decoration: none;
     }
@@ -179,6 +183,7 @@ img {
     max-width: 100%;
     height: auto;
 }
+
 .codeblock {
     font-family: $font-mono;
     border: 0.125em solid $secondary;
@@ -193,7 +198,7 @@ code {
     font-size: 0.75em;
 }
 
-pre > code {
+pre>code {
     font-family: $font-mono;
     font-size: 0.9em;
 }
@@ -219,7 +224,7 @@ cite {
 .post {
     position: relative;
 
-    > h2 {
+    >h2 {
         margin-top: 60px;
         margin-right: 130px;
     }
