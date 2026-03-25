@@ -3,14 +3,13 @@
 layout: post
 date: 2025-11-30
 title: Monthly Mixtape - Nov 2025
-tags: [music]
+tags: [mixtapes]
 
 ---
 
 What I've been listening to this month.
 
 ![Monthly Mixtape 2025-11](/images/mixtapes/2025-11.png)
-
 
 1. Danse macabre, Op. 40 (Arr. Kossler for 2 Guitars) - Alexandra Whittingham & Stephanie Jones
 2. Never Be Dead - Agnostic Mountain Gospel Choir
