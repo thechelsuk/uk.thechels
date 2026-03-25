@@ -2,6 +2,7 @@
 layout: pages
 title: AI - Statement on Usage
 seo: Statement on AI usage
+permalink: /ai
 
 ---
 

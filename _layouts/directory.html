@@ -38,6 +38,7 @@
     <li><b>{{ site.data.stocks | size }}</b> stocks monitored.</li>
     <li><b>{{ site.data.constraints | size }}</b> constraint cards.</li>
     <li><b>{{ site.data.jokes | size }}</b> jokes written.</li>
+    <li><b>{{ site.tags | size }}</b> unique tags used.</li>
 </ul>
 
 <h2>Site Metadata Summary</h2>
@@ -66,4 +67,15 @@
 
     {% endfor %}
 </ul>
+
+<h2>Tag Summary</h2>
+<p>Tags are used sparingly throughout the site to categorize content, mostly to separate
+    different periods of time when a certain topic was more prevalent.</p>
+{% assign sorted_tags = site.tags | sort %}
+<ul>
+    {% for tag in sorted_tags %}
+    {% assign tag_name = tag[0] %}
+    {% assign tag_posts = tag[1] %}
+    <li><a href="/tag/{{ tag_name }}">{{ tag_name | capitalize }}</a> ({{ tag_posts | size }})</li>
+    {% endfor %}
 {% include footer.html %}

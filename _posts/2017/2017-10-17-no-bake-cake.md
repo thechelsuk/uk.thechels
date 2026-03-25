@@ -2,12 +2,11 @@
 layout: post
 title: No-Bake Cake - Simple Recipe for Kids and Adults
 tags:
-  - other
 ---
 
 > a no-bake cake that's perfect for making with children. You can also pick and mix the fillings to suit your taste
 
-#### Ingredients
+## Ingredients
 
 + 250g/8oz digestive biscuits
 + 150g/5oz milk chocolate
@@ -19,7 +18,7 @@ tags:
 + 60g/2oz pecans, chopped (optional)
 + Preparation method
 
-#### Method
+## Method
 
 + Use cling film to line a 20cm (8in) shallow, square-shaped tin. Leave extra cling film hanging over the sides.
 + Bash the biscuits into pieces using a rolling pin. (Put them in a plastic bag first so they don't go everywhere!)

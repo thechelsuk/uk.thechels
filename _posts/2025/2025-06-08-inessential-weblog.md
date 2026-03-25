@@ -5,8 +5,6 @@ cited: "Brent Simmons"
 link: https://inessential.com/2025/05/24/retirement_and_netnewswire.html
 seo:
 tags:
-  - netnewswire
-  - apps
 
 ---
 

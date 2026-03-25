@@ -3,7 +3,6 @@ layout: post
 title: Runbooks and Playbooks
 date: 2021-05-07 13:00
 tag:
- - dev
 ---
 
 Having read The Checklist Manifesto by Atul Gawande, I've been a big fan of checklists. Back as a dev in a high performing, we had some very manual but repetitive tasks, by creating checklists we were able to reduce errors/bugs.

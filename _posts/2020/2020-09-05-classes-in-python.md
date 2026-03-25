@@ -3,7 +3,6 @@ layout: post
 title: Learning Classes in Python
 date: 2020-09-05 21:00
 tag:
- - dev
 ---
 
 I am currently learning python having used a few scripts in some Github Actions to automated some processes using the free serverless compute offered by GitHub.

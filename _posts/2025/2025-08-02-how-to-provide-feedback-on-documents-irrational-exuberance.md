@@ -5,11 +5,7 @@ cited: "Will Larson"
 link: https://lethain.com/providing-feedback-on-writing/
 seo: "how to provide feedback on documents"
 tags:
-    - "Feedback"
-    - "Writing"
-    - "Communication"
-    - "Documentation"
-    - "Software Engineering"
+
 ---
 
 > As one step in reducing the overhead of sharing documents widely, I wrote up and shared this recommended process for providing feedback on documents:

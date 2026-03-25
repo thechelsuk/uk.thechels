@@ -1,9 +1,11 @@
 {% include header.html %}
 <h1 class="post-title">Tagged : {{ page.title }}</h1>
-<p class="marker"><b>{{ site.posts | where: "tags", page.tagged | size }}</b> total mixtapes.</p>
+
+{{ content }}
+
+<p class="marker"><b>{{ site.posts | where: "tags", page.tagged | size }}</b> total tagged.</p>
 <div id="blog-archives" class="flow">
-  {{ content }}
-  <h2>{{ page.tagged | capitalize }}</h2>
+
   {% assign sorted = site.posts | where: "tags", page.tagged | sort: 'date' | reverse %}
   {% for post in sorted %}
   <div class="posts">

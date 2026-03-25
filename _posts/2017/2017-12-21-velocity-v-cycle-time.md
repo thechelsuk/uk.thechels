@@ -2,7 +2,7 @@
 layout: post
 title: Cycle time - a metric for scrum
 tags:
-  - other
+
 ---
 
 
@@ -14,6 +14,6 @@ UoW = Unit of Work
 
 If a team completes four UoW in a sprint with the cycle times of 4 days, 10 days, 5 days, and 1 day the average cycle time would be 5 days (20 days/ 4 UoW).
 
-The unit of work can be any unit of work the team tracks. 
+The unit of work can be any unit of work the team tracks.
 
 [Velocity and cycle time are not the same](https://tcagley.wordpress.com/2017/11/28/frequently-asked-question-velocity-and-cycle-time-are-not-the-same/)

@@ -3,11 +3,11 @@
 layout: post
 date: 2026-02-24
 title: How fast did ME develop for you?
-tags: ME
+tags: [ME]
 
 ---
 
-Slowly, then quickly. 
+Slowly, then quickly.
 
 Clear onset of not feeling right like a two-week virus. Slow ongoing persistent decline (like inverse stock market; volatility, but long term downward trend). Cutting back on everything then very very quickly into a huge reduction in capacity forcing me to stop work.
 

@@ -3,10 +3,11 @@
 layout: post
 date: 2025-07-27
 title: Tomoz App Launched
+tags:
 
 ---
 
-I made an app that, allows picking of whatever calendars you want, and shows only what is happening tomorrow in a simple agenda view. 
+I made an app that, allows picking of whatever calendars you want, and shows only what is happening tomorrow in a simple agenda view.
 
 Also supports export to markdown and other formats.
 

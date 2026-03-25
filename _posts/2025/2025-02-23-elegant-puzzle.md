@@ -12,7 +12,7 @@ title: Elegant Puzzle - Systems of Engineering Management
   - [Sizing teams](#sizing-teams)
   - [Staying on the path to high-performing teams](#staying-on-the-path-to-high-performing-teams)
   - [A case against top-down global optimisation](#a-case-against-top-down-global-optimisation)
-  - [Productivity in the age of hypergrowth](#productivity-in-the-age-of-hypergrowth)
+  - [Productivity in the age of hyper-growth](#productivity-in-the-age-of-hypergrowth)
   - [Where to stash your organisation risk?](#where-to-stash-your-organisation-risk)
   - [Succession planning](#succession-planning)
 - [Tools](#tools)
@@ -76,29 +76,32 @@ Organisational design is the attempt ot understand why some create such energy a
 The fundamental challenge of organisational design is sizing teams.
 
 **Managers should support six to eight engineers.** This gives them enough time for active coaching, coordinating, and furthering their team's mission by writing strategies, leading change and so on.
-  * Fewer than four engineers tend to function as **Tech Lead Managers**, taking on a share of design and implementation work.
-  * Managers supporting more than eight or nine engineers act as **coaches** and safety nets for problems.
+
+- Fewer than four engineers tend to function as **Tech Lead Managers**, taking on a share of design and implementation work.
+- Managers supporting more than eight or nine engineers act as **coaches** and safety nets for problems.
 
 **Managers-of-managers should support four to six managers.** This gives them enough time to coach, align with stakeholders, and to do a reasonable amount of investment in their organisation.
-  * Managers supporting fewer than four other managers should be in a period of active learning.
-  * Supporting a large team of managers leaves you functioning purely as a problem-solving coach.
+
+- Managers supporting fewer than four other managers should be in a period of active learning.
+- Supporting a large team of managers leaves you functioning purely as a problem-solving coach.
 
 **On-call rotations want eight engineers.** It is sometimes necessary to pool multiple teams together to reach the eight engineers necessary for a 24/7 on-call rotation.
 
 **Small teams (< 4 members) are not teams.** Fewer than four individuals are sufficiently leaky abstraction that they function indistinguishably from individuals.  A few tips:
-* Teams should be six to eight during steady state.
-* To create a new team, grow an existing team to eight to ten, and then bud into two teams of four or five.
-* Never create empty teams.
-* Never leave managers supporting more than eight individuals.
+
+- Teams should be six to eight during steady state.
+- To create a new team, grow an existing team to eight to ten, and then bud into two teams of four or five.
+- Never create empty teams.
+- Never leave managers supporting more than eight individuals.
 
 ### Staying on the path to high-performing teams
 
 Four stages of a team
 
-* **A team is falling behind** if each week their backlog is longer than it was the week before. To fix this, hire new people and increase capacity.
-* **A team is treading water** if they're able to get their critical work done, but are not able to paying down technical debt or begin major new projects. To fix this, consolidate team efforts to finish more things, and reduce concurrent work until able to begin repaying debt.
-* **A team is repaying debt** when they're able to start paying down tech debt, and are beginning to benefit from the debt repayment snowball. To fix this, add time to pay debt.
-* **A team is innovating** when their technical debt is sustainably low, morale is high, and the majority of work is satisfying new user needs. To fix this maintain enough slack in your team's schedule so that the team can build quality into their work.
+- **A team is falling behind** if each week their backlog is longer than it was the week before. To fix this, hire new people and increase capacity.
+- **A team is treading water** if they're able to get their critical work done, but are not able to paying down technical debt or begin major new projects. To fix this, consolidate team efforts to finish more things, and reduce concurrent work until able to begin repaying debt.
+- **A team is repaying debt** when they're able to start paying down tech debt, and are beginning to benefit from the debt repayment snowball. To fix this, add time to pay debt.
+- **A team is innovating** when their technical debt is sustainably low, morale is high, and the majority of work is satisfying new user needs. To fix this maintain enough slack in your team's schedule so that the team can build quality into their work.
 
 For each constraint, prioritise one team at a time, this is particularly important for hiring.
 
@@ -111,7 +114,6 @@ Adding new individuals to a team disrupt the team. It is much easier to have rap
 Sustained productivity comes from high-performing teams, be hesitant to disassemble them.
 
 A proposed model is to rapidly hiring into teams loaded down by technical debt, not into innovating teams, which avoids incurring re-gelling costs on high-performing teams.
-
 
 #### Fixed costs
 
@@ -136,6 +138,7 @@ Another approach is to rotate individuals for a fixed period into an area that n
 Integrating large numbers of engineers is hard. The challenge depends on how quickly you can ramp engineers up ot self-sufficient productivity. You can quickly find a scenario in which untrained engineers increasingly outnumber the trained ones.
 
 It is not just training and hiring tho:
+
 1. For every additional order of magnitude of engineers, you need to design and maintain a new layer of management.
 2. For every ~10 engineers, you need an additional team and more coordination.
 3. You'll need to improve your development tools
@@ -185,17 +188,19 @@ It's best to only delegate solvable risk. If something isn't likely to end well,
 Succession planning is thinking through how the organisation would function without you.
 
 First, figure out what you do:
-* Look at your calendar and write down **your role in meetings**.
-* Take a pass on you calendar for non-meeting stuff.
-* Look out for **recurring processes**, like roadmap, planning, performance calibrations, etc. and document your role in each of those processes.
-* For each of the **individuals you support**, in which areas are your skills and actions most complementary to theirs?
-* Audit inbound chats and emails for requests and questions coming your way.
-* Look at the categories of the work you've completed over the past six months.
-* Think on the **external relationships** that have been important for your current role.
+
+- Look at your calendar and write down **your role in meetings**.
+- Take a pass on you calendar for non-meeting stuff.
+- Look out for **recurring processes**, like roadmap, planning, performance calibrations, etc. and document your role in each of those processes.
+- For each of the **individuals you support**, in which areas are your skills and actions most complementary to theirs?
+- Audit inbound chats and emails for requests and questions coming your way.
+- Look at the categories of the work you've completed over the past six months.
+- Think on the **external relationships** that have been important for your current role.
 
 For each item try to identify individuals who could readily take on that work. If you cannot find someone, identify a handful of individuals who could potentially take over.
 
 Filter the gaps down to two lists:
+
 1. _Easiest gaps to close_, It may require a written document or quick introduction.
 2. _Riskiest gaps_, areas where you're uniquely valuable to the company.
 
@@ -216,10 +221,11 @@ Systems thinking makes the observation that links between events are often more 
 Recommended reading [_Accelerate: The Science of Lean Software and DevOps_](https://www.goodreads.com/book/show/39211555-accelerate) by Nicole Forsgren, Gene Kim, and Jez Humble.
 
 To measure developer velocity:
-* **Delivery lead time**, time from the creation of code to its use in production
-* **Deployment frequency**
-* **Change fail rate**, how frequent changes fail
-* **Time to restore service**, time spent recovering from defects
+
+- **Delivery lead time**, time from the creation of code to its use in production
+- **Deployment frequency**
+- **Change fail rate**, how frequent changes fail
+- **Time to restore service**, time spent recovering from defects
 
 Any difficult problem is worth trying to represent as a system. There are a few tools that can help you out: Stella and Insight Maker.
 
@@ -230,29 +236,30 @@ Many engineering organisations separate engineering and product leadership into 
 As an engineering leader, you may have to cover both roles temporarily.
 
 Product management is an iterative elimination tournament.
+
 1. **Problem discovery.** Exploring the different problems that you could pick to solve. You populate the problem space based on:
-    * **Users' pain**, problems that your users experience
-    * **Users' purpose**, what motivates your users to engage with your systems
-    * **Benchmark**, how your company compares to competitors. Areas in which you are weak, _consider_ investing in
-    * **Cohorts**, what is hiding behind your clean distributions
-    * **Competitive advantages**, areas where you're exceptionally strong
-    * **Competitive moats**, extreme version of a competitive advantage. Allows you to pursue offerings that others simply cannot
-    * **Compounding leverage**, blocks you could start building today that would compound into major product or technical leverage over time.
+    - **Users' pain**, problems that your users experience
+    - **Users' purpose**, what motivates your users to engage with your systems
+    - **Benchmark**, how your company compares to competitors. Areas in which you are weak, _consider_ investing in
+    - **Cohorts**, what is hiding behind your clean distributions
+    - **Competitive advantages**, areas where you're exceptionally strong
+    - **Competitive moats**, extreme version of a competitive advantage. Allows you to pursue offerings that others simply cannot
+    - **Compounding leverage**, blocks you could start building today that would compound into major product or technical leverage over time.
 2. **Problem selection**, narrow down to a specific problem portfolio
-    * **Surviving round**, what do you need to survive current round
-    * **Surviving the next round**, where do you need to be when the next round in order to avoid getting eliminated?
-    * **Winning rounds**
-    * **Consider different time frames.** Assumptions about the correct time frame to optimise for
-    * **Industry trends**, where do you think the industry is moving
-    * **Return on investment**, try ordering problems by expected return on investment
-    * **Experiments to learn**
+    - **Surviving round**, what do you need to survive current round
+    - **Surviving the next round**, where do you need to be when the next round in order to avoid getting eliminated?
+    - **Winning rounds**
+    - **Consider different time frames.** Assumptions about the correct time frame to optimise for
+    - **Industry trends**, where do you think the industry is moving
+    - **Return on investment**, try ordering problems by expected return on investment
+    - **Experiments to learn**
 3. **Solution validation**, it's easy to jump directly into execution, but it's well worth to have an explicit solution validation phase.
-    * **Write a customer letter**, useful to test against actual users
-    * **Identify prior art**, it's better to rely on people you have some connection to instead of on conference talks, there is lot of misinformation out there.
-    * **Find reference users**
-    * **Prefer experimentation over analysis**, get good at cheap validation
-    * **Find the path more quickly travelled**, try to find the cheapest way to validate
-    * **Justify switching costs**, the cost of switching for users to move to your solution
+    - **Write a customer letter**, useful to test against actual users
+    - **Identify prior art**, it's better to rely on people you have some connection to instead of on conference talks, there is lot of misinformation out there.
+    - **Find reference users**
+    - **Prefer experimentation over analysis**, get good at cheap validation
+    - **Find the path more quickly travelled**, try to find the cheapest way to validate
+    - **Justify switching costs**, the cost of switching for users to move to your solution
 
 ### Vision and strategies
 
@@ -279,26 +286,29 @@ Because strategies are specific to a given problem, it's okay to write a few of 
 If strategies describe the harsh trade-offs necessary to overcome a particular challenge, then _visions_ describe a future in which those trade-offs are no longer mutually exclusive. **An effective vision helps folks think beyond the constraints of their local maxima**, and lightly aligns progress without requiring tight centralised coordination.
 
 Visions should be detailed, but the details are used to illustrate the dream vividly, not prescriptively constraint with its possibilities. Good visions are composed of:
-* **Vision statement**, a one or two sentence aspirational statement to summarise the rest of the document.
-* **Value proposition**, how will you be valuable to your users and your company?
-* **Capabilities**, what capabilities will the product, platform, or team need in order to deliver on your value proposition?
-* **Solved constraints**, constraints that you're limited by today, but that in future you'll no longer be constrained by?
-* **Future constraints**, constraints that you expect to encounter in this wonderful future?
-* **Reference materials**, link to all resources for those who want to understand more of the thinking that went into the vision.
-* **Narrative**, synthesise all those details into a short, maybe one page, narrative that serves as an easy-to-digest summary.
+
+- **Vision statement**, a one or two sentence aspirational statement to summarise the rest of the document.
+- **Value proposition**, how will you be valuable to your users and your company?
+- **Capabilities**, what capabilities will the product, platform, or team need in order to deliver on your value proposition?
+- **Solved constraints**, constraints that you're limited by today, but that in future you'll no longer be constrained by?
+- **Future constraints**, constraints that you expect to encounter in this wonderful future?
+- **Reference materials**, link to all resources for those who want to understand more of the thinking that went into the vision.
+- **Narrative**, synthesise all those details into a short, maybe one page, narrative that serves as an easy-to-digest summary.
 
 **A vision is succeeding when people reference the document to make their own decisions.**
 
 Some additional tips:
-* **Test the document** sit down with a few different folks to get their perspectives and iterate.
-* **Refresh periodically**
-* **Write simply** You'll likely want _one vision for every complete distinct area, but no more_.
+
+- **Test the document** sit down with a few different folks to get their perspectives and iterate.
+- **Refresh periodically**
+- **Write simply** You'll likely want _one vision for every complete distinct area, but no more_.
 
 ### Metrics and baselines
 
 Goals decouple the "what" from the "how"
 
 Goals are a composition of
+
 1. A **target** states where you want to reach
 2. A **baseline** identifies where you are today
 3. A **trend** describes the current velocity
@@ -342,7 +352,7 @@ Write a **design document** and shop it with the teams that you believe will hav
 
 It's better to slow down and build tooling to programmatically migrate the easy 90 percent, it reduces the cost radically.
 
-Figure out the **self-service tooling and documentation** that youc an provide to allow teams to make the necessary changes without getting stuck. The best migration tools are incremental and reversible.
+Figure out the **self-service tooling and documentation** that you can provide to allow teams to make the necessary changes without getting stuck. The best migration tools are incremental and reversible.
 
 Documentation and self-service tooling are products, and they thrive under the same regime.
 
@@ -363,6 +373,7 @@ It is important to celebrate migrations, **recognition should be reserved for th
 There are two managerial skills that have a disproportionate impact in your organisation success: making technical migrations cheap, and running clean reorganisations.
 
 Checklist to ensure a reorganisation is appropriate:
+
 1. Is there a structural problem? With a reorg you can increase communication, reduce decision friction, and focus attention
 2. Are you reorganising around a broken relationship? You'll be better of addressing the underlying issue.
 3. Does the problem already exist? It's better to wait until a problem actively exists before solving it.
@@ -371,6 +382,7 @@ Checklist to ensure a reorganisation is appropriate:
 #### Project head count a year out
 
 You can design an organisation determining it approximate total size:
+
 1. An optimistic number based on what's barely possible
 2. A number based on the "natural size", if every team and role was fully staffed
 3. A realistic number based on historical hiring rates.
@@ -390,6 +402,7 @@ Example: 35 engineers, 7 engineers per manager = you need 5 managers, and 1.8 ma
 You should generally round up the number of managers.
 
 Few extra considerations:
+
 1. Can you write a crisp mission statement for each team?
 2. Would you personally be excited to be a member of each of the teams, as well as the manager of each of those teams?
 3. Put teams that work together, as close together as possible.
@@ -401,6 +414,7 @@ Few extra considerations:
 #### Staffing the teams and groups
 
 Four sources of candidates to staff them:
+
 1. Team members who are ready to fill the roles now
 2. Team members who can grow into the roles in the time frame
 3. Internal transfers from within your company
@@ -419,11 +433,13 @@ Four sources of candidates to staff them:
 #### Roll out the change
 
 Key elements to a good rollout:
+
 1. Explanation of reasoning driving the reorganisation
 2. Documentation of how each person and team will be impacted
 3. Availability and empathy to help bleed off frustration from impacted individuals
 
 Tactics for doing this:
+
 1. Discuss with impacted individuals first
 2. Ensure that managers are prepared to explain the reasoning behind the changes
 3. Send an email out documenting the changes
@@ -473,7 +489,7 @@ You as a manager, can simply give folks a career path.
 
 #### Artificial competition
 
-Climbing the career ladder has the side effect of funneling most folks toward a constrained pool of opportunity.
+Climbing the career ladder has the side effect of funnelling most folks toward a constrained pool of opportunity.
 
 An important part of setting your goals is developing areas you're less experienced in to maximise your global success, but it's equally important to succeed locally within your current environment by prioritising doing what you do well.
 
@@ -486,6 +502,7 @@ Bringing your list of goals to this discussion helps ensure that it's successful
 #### The briefest of media trainings
 
 Three rules for speaking with the media:
+
 1. **Answer the question you want to be asked**. Reframe it into one that you're comfortable answering. [Don't Think of an Elephant!](https://www.goodreads.com/book/show/13455.Don_t_Think_of_an_Elephant_Know_Your_Values_and_Frame_the_Debate) is an excellent book on framing issues.
 2. **Stay positive**, find a positiver framing and stick to it.
 3. **Speak in threes**. Narrow your message in three concise points.
@@ -500,21 +517,22 @@ Then just start running Kanban. Don't publicise it, don't make a big deal about 
 
 **Share**. The final step is to share your documented approach, don't lobby for change, just present the approach and your experience following it. This has often lead to more adoption than top-down mandates have.
 
-##### Where it works
+#### Where it works
 
 Compare it with the top-down mandate. Mandates assume:
-* **It's better to adopt a good-enough approach quickly**
-  * Teams have the bandwidth to adopt a new approach
-  * The organisation has available resources to coordinate a rollout
-  * You want to centralise decision-making
-  * Consistency is important
-  * It's important to make this change quickly
-* **Model, document, share assumes**
-  * Some teams don't have the bandwidth to adopt a new approach
-  * The organisation may not have resources to coordinate a rollout
-  * You want to decentralise decision-making
-  * Teams have agency to adopt practices for themselves
-  * It's okay to approach change gradually
+
+- **It's better to adopt a good-enough approach quickly**
+  - Teams have the bandwidth to adopt a new approach
+  - The organisation has available resources to coordinate a rollout
+  - You want to centralise decision-making
+  - Consistency is important
+  - It's important to make this change quickly
+- **Model, document, share assumes**
+  - Some teams don't have the bandwidth to adopt a new approach
+  - The organisation may not have resources to coordinate a rollout
+  - You want to decentralise decision-making
+  - Teams have agency to adopt practices for themselves
+  - It's okay to approach change gradually
 
   You'll still need some natural authority and the respect of your peers.
 
@@ -549,27 +567,30 @@ A _positive freedom_ is the freedom to do something, for example the freedom to 
 #### Failure modes
 
 There are a few ways these groups consistently fail:
-* **Domineering** groups significantly reduce individuals negative and positive freedoms, those making decisions are abstracted from the consequences of the decisions.
-* **Bottlenecked** groups tend to be very helpful, but are trying to do more than they're actually able to do.
-* **Status-oriented** groups place more emphasis on being a member of the group than on the group's nominal purpose.
-* **Inert** groups don't do much of anything.
+
+- **Domineering** groups significantly reduce individuals negative and positive freedoms, those making decisions are abstracted from the consequences of the decisions.
+- **Bottlenecked** groups tend to be very helpful, but are trying to do more than they're actually able to do.
+- **Status-oriented** groups place more emphasis on being a member of the group than on the group's nominal purpose.
+- **Inert** groups don't do much of anything.
 
 ### Presenting to senior leadership
 
 Some tips to prepare your presentation:
-* Communication is company-specific.
-* Start with the conclusion. Starting with what's important, instead of building toward it gradually.
-* Frame why the topic matters. Start by explaining why your work matters to the company.
-* Everyone loves a narrative.
-* Prepare for detours. Be ready for the discussion to derail toward a thread of unexpected questions.
-* Answer directly. Instead of hiding problems, use them as an opportunity to explain your plans to address them.
-* Deep in the data. Spend time exploring the data.
-* Derive actions from principles. Provide a mental model of how you view the topic, and make folks familiar on how you make decisions.
-* Discuss the details.
-* Prepare a lot; practice a little. Leadership presentation tend to quickly detour, so practice isn't quite as useful. Prepare instead getting deeper into the data, details and principles.
-* Make a clear ask. Start the meeting by explicitly framing your goal.
+
+- Communication is company-specific.
+- Start with the conclusion. Starting with what's important, instead of building toward it gradually.
+- Frame why the topic matters. Start by explaining why your work matters to the company.
+- Everyone loves a narrative.
+- Prepare for detours. Be ready for the discussion to derail toward a thread of unexpected questions.
+- Answer directly. Instead of hiding problems, use them as an opportunity to explain your plans to address them.
+- Deep in the data. Spend time exploring the data.
+- Derive actions from principles. Provide a mental model of how you view the topic, and make folks familiar on how you make decisions.
+- Discuss the details.
+- Prepare a lot; practice a little. Leadership presentation tend to quickly detour, so practice isn't quite as useful. Prepare instead getting deeper into the data, details and principles.
+- Make a clear ask. Start the meeting by explicitly framing your goal.
 
 Approach to presenting to senior leaders is:
+
 1. Tie topic to business value.
 2. Establish historical narrative.
 3. Explicit ask.
@@ -581,23 +602,25 @@ Approach to presenting to senior leaders is:
 ### Time management
 
 Time management is the enduring meta-problem of leadership. The most impactful change you can do to manage time are:
-* **Quarterly time retrospective.** Categorising your calendar from the past three months to figure out how you've invested your time.
-* **Prioritise long-term success over short-term quality.** You have to prioritise long-term success, eve if it's personally unrewarding to do so in the short term.
-* **Finish small, leveraged things.** Each thing you finish should create more bandwidth to do more future work.
-* **Stop doing things.** Alert your team and management chain that you won't be doing it.
-* **Size backward, not forward.** Specify the number of hours you're able to dedicate to the activity (like skip-level meetings), perhaps two per week, and perform as many as possible within that amount of time.
-* **Delegate working "in the system".** Design a path that will enable someone else to take on that work.
-* **Trust the system you build.**
-* **Decouple participation from productivity.** Don't fall into the trap of assuming that attendance is valuable.
-* **Hire until you are slightly ahead of growth.** Hire before you get overwhelmed.
-* **Calendar blocking.** Add three or four two-hour blocks scattered across your week to support more focused work.
-* **Getting administrative support.** Once you've exhausted all the above tools and approaches, having someone else handling the dozens of little interruptions is a remarkable improvement.
+
+- **Quarterly time retrospective.** Categorising your calendar from the past three months to figure out how you've invested your time.
+- **Prioritise long-term success over short-term quality.** You have to prioritise long-term success, eve if it's personally unrewarding to do so in the short term.
+- **Finish small, leveraged things.** Each thing you finish should create more bandwidth to do more future work.
+- **Stop doing things.** Alert your team and management chain that you won't be doing it.
+- **Size backward, not forward.** Specify the number of hours you're able to dedicate to the activity (like skip-level meetings), perhaps two per week, and perform as many as possible within that amount of time.
+- **Delegate working "in the system".** Design a path that will enable someone else to take on that work.
+- **Trust the system you build.**
+- **Decouple participation from productivity.** Don't fall into the trap of assuming that attendance is valuable.
+- **Hire until you are slightly ahead of growth.** Hire before you get overwhelmed.
+- **Calendar blocking.** Add three or four two-hour blocks scattered across your week to support more focused work.
+- **Getting administrative support.** Once you've exhausted all the above tools and approaches, having someone else handling the dozens of little interruptions is a remarkable improvement.
 
 You can get less busy by prioritising finishing things with the goal of reducing load. **Don't fall into the trap of believing that being busy is being productive.**
 
 ### Communities of learning
 
 Recommended approach:
+
 1. **Be a facilitator, not a lecturer.** Folks want to learn from each other more than they want to learn for a single presenter.
 2. **Brief presentations, long discussions.** Present a few minutes of content, maybe five, and then move into discussion.
 3. **Small breakout groups.** Allow folks to learn in small and safe places. It also gives everyone an opportunity to be part of the discussion.
@@ -626,6 +649,7 @@ Every policy you write is a small strategy, identifying your goals and the const
 Once you've supported your goals through constraints, all you have to do is consistently uphold your constraints.
 
 Applying policy consistently is challenging:
+
 1. Accepting reduced opportunity space. Good constraints make trade-offs that deliberately narrow your opportunity space.
 2. Locally suboptimal. Global constraints inevitably leads to local inefficiency.
 
@@ -670,6 +694,7 @@ If your perspective still isn't resonating after explaining both your velocity a
 ### Your philosophy of management
 
 When you start managing, your philosophy could be quite simple:
+
 1. The Golden Rule, treating others as you want to be treated, makes a lot of sense.
 2. Give everyone an explicitly area of _ownership_ that they are responsible for.
 3. Reward and status should derive from _finishing_ high-quality work.
@@ -708,6 +733,7 @@ If you are working in the growth plates, or outside them, for the first time, tr
 ### Ways engineering managers get stuck
 
 Newer managers get stuck when:
+
 1. **Only manage down.** Building something your team wants to build, but which the company and your customers aren't interested in.
 2. **Only manage up.** Focus so much on following their management's wishes.
 3. **Never manage up.** Excellent work go unnoticed because it was never shared upward.
@@ -718,6 +744,7 @@ Newer managers get stuck when:
 8. **Forget that their manager is a human being.** You have to give them room to make mistakes.
 
 More experienced managers get stuck when:
+
 1. **Do what worked at their previous company.** Pause to listen and foster awareness before you start "fixing" everything.
 2. **Spend too much time building relationships.** Particularly common in managers coming from larger companies. Smaller companies expect more execution focus than relationship management focus.
 3. **Assume that more hiring can solve every problem.** Adding too many people can dilute your culture.
@@ -725,6 +752,7 @@ More experienced managers get stuck when:
 5. **Become disconnected from ground truth.** Make decisions fundamentally disconnected from reality.
 
 All managers tend to get stuck when:
+
 1. **Mistake team size for impact.** A larger team is not better job, it's a _different_ job. It won't make you important or make you happier.
 2. **Mistake title for impact.** Titles are arbitrary social constructs. Don't let them become your goal.
 3. **Confuse authority with truth.** Authority it's a pretty expensive way to work with people, they'll eventually turn off their minds and simply follow orders.
@@ -735,33 +763,38 @@ All managers tend to get stuck when:
 ### Partnering with your manager
 
 To partner successfully with your manager:
+
 1. You need to know a few things about you.
 2. You need to know a few things about them.
 3. You should occasionally update the things you know about each other.
 
 Things your manager should know about you:
-* What problems you're trying to solve. How you're trying to solve each of them.
-* That you're making progress (you're not stuck).
-* What you prefer to work on (staff you properly).
-* How busy you are (if you can take an opportunity if comes up).
-* What your professional goals and growth areas are. Where you are between bored and challenged.
-* How you believe you're being measured (KPIs, etc.).
+
+- What problems you're trying to solve. How you're trying to solve each of them.
+- That you're making progress (you're not stuck).
+- What you prefer to work on (staff you properly).
+- How busy you are (if you can take an opportunity if comes up).
+- What your professional goals and growth areas are. Where you are between bored and challenged.
+- How you believe you're being measured (KPIs, etc.).
 
 To keep your manager informed:
+
 1. Maintain a document with this information, which you keep updated.
 2. Sprinkle this information into your one-on-ones, focusing on information gaps.
 3. At some regular point, maybe quarterly, write up a self-reflection that covers each of those aspects.
 
 Another key aspect of managing up, is to know some things about your manager and their needs.
-* What are their current priorities? Particularly, what are their problems and key initiatives.
-* How stressed are they?
-* Is there anything you can do to help?
-* What is their management's priority for them?
-* What are they trying to improve on themselves, and what are their goals? This is particularly valuable to know if they appear stuck, because you may be able to help unstuck them.
+
+- What are their current priorities? Particularly, what are their problems and key initiatives.
+- How stressed are they?
+- Is there anything you can do to help?
+- What is their management's priority for them?
+- What are they trying to improve on themselves, and what are their goals? This is particularly valuable to know if they appear stuck, because you may be able to help unstuck them.
 
 ### Finding managerial scope
 
 There are three types of engineering management jobs:
+
 1. Manager: you manage a team directly.
 2. Director: you manage a team of managers.
 3. VP: you manage an organisation.
@@ -801,9 +834,10 @@ The final step is to distil the document into something comprehensible without h
 Your ability to put your head down and solve gritty, important problems was probably a big part of how you were promoted. Now it's the wrong answer to most of your problems. It's too inefficient to accomplish the breadth and quantity of things you need to get done.
 
 If your instincts are driving you into a pile of work you can't make a dent in, you must pick one of three options:
-* **Close out.** In a way that this specific ask is entirely resolved. Making a decision and communicating it to all involved participants.
-* **Solve.** Design a solution that you won't need to spend time on this particular kind of ask again in the next six months.
-* **Delegate.** Redirect the ask to someone who is responsible for that kind of work.
+
+- **Close out.** In a way that this specific ask is entirely resolved. Making a decision and communicating it to all involved participants.
+- **Solve.** Design a solution that you won't need to spend time on this particular kind of ask again in the next six months.
+- **Delegate.** Redirect the ask to someone who is responsible for that kind of work.
 
 ## Culture
 
@@ -818,6 +852,7 @@ Ensuring that folks can go home most days feeling fulfilled by challenge and gro
 **The most effective way to provide opportunity is through the structured application of good process.** Structure allows folks to learn how these process work, build trust by watching the consistent, repeated application of those process.
 
 Ways to create and distribute opportunity:
+
 1. **Rubrics everywhere.** Every important people decision should have a rubric around how folks are evaluated.
 2. **Selecting project leaders.**
 3. **Explicit budgets.** Instead of reasonable number of conferences per year, specify a fixed number. Instead of general ongoing education budget, make it explicit.
@@ -825,9 +860,10 @@ Ways to create and distribute opportunity:
 5. **Educational programs.** Ongoing training and learning programs available for everyone, or, for all managers.
 
 We can measure opportunity, some useful metrics:
+
 1. **Retention.** This is the most important measure. Slow to show change.
 2. **Usage rate** is how often folks get picked in project selection.
-3. **Level distribution** is useful, in particular comparing cohorts of folks with different backgrounds, like underrepresented minorities and women.
+3. **Level distribution** is useful, in particular comparing cohorts of folks with different backgrounds, like under-represented minorities and women.
 4. **Time at level** is how long team members wait between promotions.
 
 Some of this data will require partnering with your human resources team.
@@ -835,13 +871,15 @@ Some of this data will require partnering with your human resources team.
 #### Membership
 
 Membership is the precondition to belonging. Impactful programs could be:
+
 1. **Recurring weekly events** held during work hours, like a paper-reading group.
 2. **Employee resource groups (ERGs)** create opportunities for folks with similar backgrounds to build community.
-3. **Team offsites** once a quarter. Spending a day together learning and discussing is surprisingly effective.
+3. **Team off sites** once a quarter. Spending a day together learning and discussing is surprisingly effective.
 4. **Coffee chats**, maybe randomly assigned, get folks from different teams interacting.
 5. **Team lunches** give folks time to relax a bit and interact socially.
 
 Measuring remains extremely important:
+
 1. **Retention**
 2. **Referral rate**
 3. **Attendance rate**
@@ -852,31 +890,37 @@ Measuring remains extremely important:
 Having a wide cohort of coworkers who lead critical projects is one of the most important signifiers of good organisational health. Critical projects are scarce while other projects are abundant.
 
 To increase the number of folks leading these projects:
+
 1. **Define** the project's scope and goals in a short document.
-  * Time commitment
-  * Requirements to apply
-  * Selection criteria
-2. **Announce** the project
-  * Allow folks to _apply in private_
-  * Make sure that applicants _don't see who else has applied_. Less experienced people may get discouraged to apply if they see seniors apply.
-  * Give _at least three working days for people to apply_.
-3. **Nudge** folks to apply who you think would be good candidates but may not self-select.
-4. **Select** a project leader based on the selection criteria. Write up a paragraph or two about each of them. Once you've selected the leader, privately reach out to them to confirm that they're able to commit.
-5. **Sponsor** the project leader by finding someone accountable for coaching the leader to successful completion.
-6. **Notify** other individuals who applied that they were not selected. It's extremely helpful if you provide them feedback, create room for another person to learn.
-7. **Kick off** the project, notifying who the project leader is, who the sponsor is, and what their plan is.
-8. **Record** the project, who was selected, and who the sponsor is into a public spreadsheet. Link to a project brief.
+
+- Time commitment
+- Requirements to apply
+- Selection criteria
+
+1. **Announce** the project
+
+- Allow folks to _apply in private_
+- Make sure that applicants _don't see who else has applied_. Less experienced people may get discouraged to apply if they see seniors apply.
+- Give _at least three working days for people to apply_.
+
+1. **Nudge** folks to apply who you think would be good candidates but may not self-select.
+2. **Select** a project leader based on the selection criteria. Write up a paragraph or two about each of them. Once you've selected the leader, privately reach out to them to confirm that they're able to commit.
+3. **Sponsor** the project leader by finding someone accountable for coaching the leader to successful completion.
+4. **Notify** other individuals who applied that they were not selected. It's extremely helpful if you provide them feedback, create room for another person to learn.
+5. **Kick off** the project, notifying who the project leader is, who the sponsor is, and what their plan is.
+6. **Record** the project, who was selected, and who the sponsor is into a public spreadsheet. Link to a project brief.
 
 ### Make your peers your first team
 
 Folks that consistently look for each other are willing to disappoint the teams they manage in order to help their peers succeed. These people have shifted their _first team_ from the folks they support to their peers.
 
 Ingredients:
-* **Awareness of each other's work**. This requires a significant investment of time. This could be achieved sharing weekly progress.
-* **Evolution from character to person**. It is much easier to understand people you know personally.
-* **Refereeing defection**. _Dominant strategy_ is one that is expected to return maximum value regardless of the actions of other players. Team collaboration is not a dominant strategy, it depends on everyone participating in good faith. Then defection happens, coordination is only possible via a manager or a highly respected team member.
-* **Avoiding zero-sum culture**. Positive cultures center on recognising impact, support, and development.
-* **Making it explicit**. You still have to explicitly discuss the idea of shifting folks' identities away from the team they support and toward the team of their peers.
+
+- **Awareness of each other's work**. This requires a significant investment of time. This could be achieved sharing weekly progress.
+- **Evolution from character to person**. It is much easier to understand people you know personally.
+- **Refereeing defection**. _Dominant strategy_ is one that is expected to return maximum value regardless of the actions of other players. Team collaboration is not a dominant strategy, it depends on everyone participating in good faith. Then defection happens, coordination is only possible via a manager or a highly respected team member.
+- **Avoiding zero-sum culture**. Positive cultures center on recognising impact, support, and development.
+- **Making it explicit**. You still have to explicitly discuss the idea of shifting folks' identities away from the team they support and toward the team of their peers.
 
 Treating your peers as your first team _allows you to practice your manager's job_.
 
@@ -887,6 +931,7 @@ One of the most important things a first team does is provide a _community of le
 Letting individuals apply is the easy part. You must announce each position and ask for internal candidates. The trickier part is evaluation.
 
 Ensure you are testing the following categories:
+
 1. **Partnership**. Have they been effective partners to their peers, and to the team they've managed?
 2. **Execution**. Can they support the team in operational excellence?
 3. **Vision**. Can they present a compelling, energising vision of the future state of their team and its scope?
@@ -895,11 +940,12 @@ Ensure you are testing the following categories:
 6. **Stakeholder management**. Can they make others, especially executives feel heard?
 
 For testing these categories, use these tools:
-* **Peer and team feedback**. Collect written feedback. Listen to would-be dissenters and hear their concerns.
-* **A 90-day plan**. The applicant writes a 90-day plan on how they'd transition into the role, and what they would focus on.
-* **Vision/strategy document**. The applicant writes a combined vision/strategy document. Where the new team will be in two to three years.
-* **Vision/strategy presentation**. Have the applicant present their vision/strategy document to a group of three to four peers.
-* **Executive presentation**. Have the applicant present their strategy document one-on-one, with an executive.
+
+- **Peer and team feedback**. Collect written feedback. Listen to would-be dissenters and hear their concerns.
+- **A 90-day plan**. The applicant writes a 90-day plan on how they'd transition into the role, and what they would focus on.
+- **Vision/strategy document**. The applicant writes a combined vision/strategy document. Where the new team will be in two to three years.
+- **Vision/strategy presentation**. Have the applicant present their vision/strategy document to a group of three to four peers.
+- **Executive presentation**. Have the applicant present their strategy document one-on-one, with an executive.
 
 Keep in mind that internal processes are awkward, don't decide to avoid this awkwardness, you can't.
 
@@ -923,7 +969,7 @@ Freedom is a loaded term, so it's easy to deteriorate into a moral discussion.
 
 ### Kill your heroes, stop doing it harder
 
-Unless your problem is that people aren't trying hard, the "work harder" mantra only breeds hero programmers whose heroic ways make it difficult for nonheroes to contribute meaningfully.
+Unless your problem is that people aren't trying hard, the "work harder" mantra only breeds hero programmers whose heroic ways make it difficult for non-heroes to contribute meaningfully.
 
 Your options are limited: either kill the environment that breeds hero programmers, or kill the hero programmer by burnout.
 
@@ -966,6 +1012,7 @@ What matters most is the particular team you join.
 There is still a lot of whiteboard programming out there, mainly due inertia and coarse-grained analytics.
 
 Interviewing well is far from easy, but is fairly _simple_:
+
 1. Be kind
 2. Ensure that all interviewers agree on the role's requirements
 3. Understand the signal your interviewer is checking for
@@ -985,10 +1032,11 @@ Allow the candidate a few minutes to ask questions. You can't be kind if your in
 Break your interview into a series of interview slots that together cover all the signals. Each skill is covered by two different interviewers for redundancy in signal detection.
 
 Effective interview formats:
+
 1. Prepared presentations, talk about a given topic for 30 minutes.
 2. Debugging or extending an existing codebase on a laptop (ideally on _their_ laptop).
 3. Giving demos of an existing product or feature (ideally they one they've be working on).
-4. Roleplays
+4. Role plays
 
 The key point i to keep trying new approaches that improve your chance of finding signal.
 
@@ -1010,7 +1058,7 @@ Ask every candidate to fill an anonymous Glassdoor review.
 
 #### Optimise the funnel
 
-Instrumenting the process at each phase (sourcing, phone screens, take-home tests, onsites, offers, and so on).
+Instrumenting the process at each phase (sourcing, phone screens, take-home tests, on sites, offers, and so on).
 
 Don't obsess about it, optimising the funnel should be the last priority. You should measure first, and optimise second.
 
@@ -1056,18 +1104,18 @@ A clear indicator of strong recruiting organization is a close and respectful pa
 
 #### Funnel fundamentals
 
-* **Identify** where candidates tend to come from.
-  * _Inbound_ are candidates who apply to you directly, via the jobs website, job postings on LinkedIn and other job sites. These tend to be high on volume and low on quality.
-  * _Sourced_ are candidates you proactively find an engage with by using LinkedIn, colleagues and networking at conferences and meetups.
-  * _Referrals_ are candidates someone at your company already knows. This is usually the most efficient source of candidates.
-* **Motivate** people to come interview
-  * _Spend time_ with them, get them excited about learning from each other.
-  * _Clearly define the role_, what they'd be doing. Be honest and a bit optimistic.
-* **Evaluate** if they'll be a successful addition to your team.
-  * Be as confident as possible that the candidate will be a success in your company.
-  * You want their motivation to increase as they're evaluated.
-  * Minimise the amount of time invested by both your team and the candidate.
-* **Close**, from compensation packages to benefits, to making them feel needed.
+- **Identify** where candidates tend to come from.
+  - _Inbound_ are candidates who apply to you directly, via the jobs website, job postings on LinkedIn and other job sites. These tend to be high on volume and low on quality.
+  - _Sourced_ are candidates you proactively find an engage with by using LinkedIn, colleagues and networking at conferences and meetups.
+  - _Referrals_ are candidates someone at your company already knows. This is usually the most efficient source of candidates.
+- **Motivate** people to come interview
+  - _Spend time_ with them, get them excited about learning from each other.
+  - _Clearly define the role_, what they'd be doing. Be honest and a bit optimistic.
+- **Evaluate** if they'll be a successful addition to your team.
+  - Be as confident as possible that the candidate will be a success in your company.
+  - You want their motivation to increase as they're evaluated.
+  - Minimise the amount of time invested by both your team and the candidate.
+- **Close**, from compensation packages to benefits, to making them feel needed.
 
 #### Instrument and optimise
 
@@ -1076,10 +1124,11 @@ The first step is looking at the conversion rates across each phase and investin
 #### Extending the funnel
 
 Instead of ending your funnel at closing candidates, add a few more phases:
-* **Onboard**. How long does it take new hires to get up to speed? Pick a productivity metric, like commits per week. How long does it take to reach P40 productivity?
-* **Impact**. How impactful are the people you're hiring? You can look out at performance rating distributions on time since hiring.
-* **Promote**. How long does it take to get promoted after they're hired?
-* **Retain**. Are the people you hire staying?
+
+- **Onboard**. How long does it take new hires to get up to speed? Pick a productivity metric, like commits per week. How long does it take to reach P40 productivity?
+- **Impact**. How impactful are the people you're hiring? You can look out at performance rating distributions on time since hiring.
+- **Promote**. How long does it take to get promoted after they're hired?
+- **Retain**. Are the people you hire staying?
 
 ### Performance management systems
 
@@ -1100,6 +1149,7 @@ A good ladder allows individuals to accurately self-access. A bad ladder is ambi
 The next step is to apply the ladder. People can use the ladder as a guide for self-reflection, but you'll also want to create formal feedback in the form of a performance designation, which is how an individual is performing against the expectations of their career ladder at their current level.
 
 More important than the scale used for rating, is how the ratings are calculated
+
 1. **Self-review** written by the individual receiving the designation. Explicitly compare and contrast against their appropriate ladder and level. A ["Brag Document"](https://jvns.ca/blog/2017/12/31/2017--year-in-review/) may be a good idea.
 2. **Peer reviews** written by peers, which are useful for recognising mentorship and leadership contributions. They are also useful for identifying problems. Peers are generally not comfortable providing negative feedback.
 3. **Upward reviews**. Similar to a _peer review_, these are used to ensure manager's performance includes the perspective of the individuals they manage.
@@ -1108,6 +1158,7 @@ More important than the scale used for rating, is how the ratings are calculated
 With these, you can establish a _provisional designation_, which you can use as input to a calibration system. **Calibrations are rounds of reviewing performance designations and reviews, with the aim of ensuring that ratings are consistent and fair across teams.**
 
 Promotions are typically also considered during calibration process. They are pretty hard to do well. Some useful rules for calibrations:
+
 1. **Adopt a shared quest for consistency** as a community of co-workers working together toward the correct designations.
 2. **Read, don't present**, managers are effective, concise presenters. Don't allow managers to pitch their candidates, have everyone read the manager review.
 3. **Compare against the ladder, not against others**
@@ -1119,7 +1170,7 @@ Feedback for weak performance should be delivered immediately.
 
 Most companies do either annual or biannual performance cycles.
 
-### Career levels, designation momentum, level splits, etc.
+### Career levels, designation momentum, level splits, etc
 
 If designation momentum is not taking you a direction you're happy with, set clear goals to your manager, and iterate together toward an explicit agreement on the expectations to hit the designation you are aiming for.
 
@@ -1144,35 +1195,38 @@ If designation momentum is not taking you a direction you're happy with, set cle
 #### Challenges
 
 The major challenges while rolling out new roles are:
-* **Class systems**. Folks often look at new roles as less important. Sometimes are intended to reduce work for another role as opposed to having an empowering mission of their own.
-* **Brittle organisation**. As you move away from generalised roles and toward specialists, your organisation has far more single points of failure.
-* **Pattern matching**. Folks pattern match on how they've seen the role done elsewhere. People will avoid taking any steps to learn how the role is intended to function.
-* **Task offloading**. Individuals will view it as an opportunity to offload tasks that they find challenging, difficult or uninteresting.
-* **Roles too "trivial" to value**. Many roles start by taking on work that is viewed uninteresting. Individuals tend to view that work as trivial and unimportant.
-* **Roles too "trivial" to promote**. The work done by new roles is often valued very highly, but not viewed sufficiently "strategic" to merit promotion.
-* **Head count obstacles**.
-* **Recruiting rare humans**. People want the first hire for a new role to be a strong role model, which usually makes impossible for any candidate to pass the bar.
-* **Inability to evaluate**. The existing organisation has so little experience with the new function that don't know how to properly evaluate. This leads to evaluations focused on qualities that are independent to what the candidate would be doing.
+
+- **Class systems**. Folks often look at new roles as less important. Sometimes are intended to reduce work for another role as opposed to having an empowering mission of their own.
+- **Brittle organisation**. As you move away from generalised roles and toward specialists, your organisation has far more single points of failure.
+- **Pattern matching**. Folks pattern match on how they've seen the role done elsewhere. People will avoid taking any steps to learn how the role is intended to function.
+- **Task offloading**. Individuals will view it as an opportunity to offload tasks that they find challenging, difficult or uninteresting.
+- **Roles too "trivial" to value**. Many roles start by taking on work that is viewed uninteresting. Individuals tend to view that work as trivial and unimportant.
+- **Roles too "trivial" to promote**. The work done by new roles is often valued very highly, but not viewed sufficiently "strategic" to merit promotion.
+- **Head count obstacles**.
+- **Recruiting rare humans**. People want the first hire for a new role to be a strong role model, which usually makes impossible for any candidate to pass the bar.
+- **Inability to evaluate**. The existing organisation has so little experience with the new function that don't know how to properly evaluate. This leads to evaluations focused on qualities that are independent to what the candidate would be doing.
 
 #### Facilitating success
 
 The ingredients to bootstrap a new role successfully:
-* **Executive sponsor**. Find an authorised, senior leader who is committed to the success of the new function. If you can't find a sponsor, it may mean that leadership doesn't believe on the new role.
-* **Recruiting partner**. Make sure that your recruiting team is able to support a new role.
-* **Self-sustaining mission**. You might describe TPMs as offloading project management responsibilities for engineering managers. This frames the role as auxiliary, which makes it difficult to recognise impact. You must be able to frame the role's work without referencing other existing roles in order for it to succeed long-term.
-* **Career ladder**. New roles should have a career ladder from the beginning, this is the foundation of a successful performance management.
-* **Role model**. You want to have a person you can point to.
-* **Dedicated calibrations**. Sometimes managers try to perform calibration with mixed roles in a single session, which leads to smaller roles being treated as afterthoughts. Consider dedicated calibration sessions for the one role, or consider all smaller roles together.
+
+- **Executive sponsor**. Find an authorised, senior leader who is committed to the success of the new function. If you can't find a sponsor, it may mean that leadership doesn't believe on the new role.
+- **Recruiting partner**. Make sure that your recruiting team is able to support a new role.
+- **Self-sustaining mission**. You might describe TPMs as offloading project management responsibilities for engineering managers. This frames the role as auxiliary, which makes it difficult to recognise impact. You must be able to frame the role's work without referencing other existing roles in order for it to succeed long-term.
+- **Career ladder**. New roles should have a career ladder from the beginning, this is the foundation of a successful performance management.
+- **Role model**. You want to have a person you can point to.
+- **Dedicated calibrations**. Sometimes managers try to perform calibration with mixed roles in a single session, which leads to smaller roles being treated as afterthoughts. Consider dedicated calibration sessions for the one role, or consider all smaller roles together.
 
 #### Advantages
 
 Creating a new role has some advantages:
-* **Efficiency**. Specialised roles are able to spend more time doing a smaller set of tasks, which leads to great expertise that can be translated in significantly more overall throughput without increasing head count.
-* **Efficiency solve constraints**. You can add exactly the kind of capacity you are missing. If your organisation is low on project management bandwidth, you could add five new managers who can each other take on a bit of it, or you might be able to add a single project manager who individually adds as much relevant bandwidth as the five managers combined.
-* **Recognition**. It provides additional structural mechanisms to support recognition.
-* **Evaluating for strengths**. It's often challenging to interview specialists because you'll typically evaluate them based on your generalist position. Creating a new role makes it possible to target the interview process on the ares that are most important.
-* **Increased hiring pool**.
-* **Specialised compensation**.
+
+- **Efficiency**. Specialised roles are able to spend more time doing a smaller set of tasks, which leads to great expertise that can be translated in significantly more overall throughput without increasing head count.
+- **Efficiency solve constraints**. You can add exactly the kind of capacity you are missing. If your organisation is low on project management bandwidth, you could add five new managers who can each other take on a bit of it, or you might be able to add a single project manager who individually adds as much relevant bandwidth as the five managers combined.
+- **Recognition**. It provides additional structural mechanisms to support recognition.
+- **Evaluating for strengths**. It's often challenging to interview specialists because you'll typically evaluate them based on your generalist position. Creating a new role makes it possible to target the interview process on the ares that are most important.
+- **Increased hiring pool**.
+- **Specialised compensation**.
 
 #### What to do
 
@@ -1180,29 +1234,30 @@ Creating a new role has some advantages:
 
 ### Designing an interview loop
 
-* **Metrics first**. Do not start designing a new interview loop without instrumenting your hiring funnel.
-* **Understand the current loop's performance**. What you think does and doesn't work well in your current process.
-  * Funnel performance
-  * Employee trajectory
-  * Candidate debriefs
-* **Learn from peers**. Chat with folks who have interviewed at other companies for the kind of role you're hoping to evaluate.
-* **Find role models**.
-* **Identify skills** that are essential to candidate's success and rank them from most to least important.
-* **Test for each skill**. For each skill, design a test to evaluate the candidates' strengths.
-* **For each test, a rubric**. Write a rubric to assess performance on each test. These should include explicit scores and criteria for reaching each score.
-* **Group tests into interviews**. Group them into sets that can be performed together in a single 45-minute interview.
-* **Run the loop**. Early on, you should be asking candidates what did or didn't work well.
-* **Review the hiring funnel**. Review the funnel metrics to see how it's working out.
-* **Schedule an annual refresh**. Schedule a review for a year out.
+- **Metrics first**. Do not start designing a new interview loop without instrumenting your hiring funnel.
+- **Understand the current loop's performance**. What you think does and doesn't work well in your current process.
+  - Funnel performance
+  - Employee trajectory
+  - Candidate debriefs
+- **Learn from peers**. Chat with folks who have interviewed at other companies for the kind of role you're hoping to evaluate.
+- **Find role models**.
+- **Identify skills** that are essential to candidate's success and rank them from most to least important.
+- **Test for each skill**. For each skill, design a test to evaluate the candidates' strengths.
+- **For each test, a rubric**. Write a rubric to assess performance on each test. These should include explicit scores and criteria for reaching each score.
+- **Group tests into interviews**. Group them into sets that can be performed together in a single 45-minute interview.
+- **Run the loop**. Early on, you should be asking candidates what did or didn't work well.
+- **Review the hiring funnel**. Review the funnel metrics to see how it's working out.
+- **Schedule an annual refresh**. Schedule a review for a year out.
 
 A few more general pieces of guidance:
-* **Try to avoid design by committee**. Prefer a working group of one or two people.
-* **Don't hire for potential**. It is a major vector for bias.
-* **Use your career ladder**.
-* **Iterate on the interview a little**. Spend time iterating on the interview format.
-* **Iterate on the rubric a lot**. Pay attention and incorporate edge cases and ambiguities.
-* **A/B testing loops**.
-* **Hiring committees** as an alternative to A/B testing. A centralised hiring committee that identifies trends across new loops.
+
+- **Try to avoid design by committee**. Prefer a working group of one or two people.
+- **Don't hire for potential**. It is a major vector for bias.
+- **Use your career ladder**.
+- **Iterate on the interview a little**. Spend time iterating on the interview format.
+- **Iterate on the rubric a lot**. Pay attention and incorporate edge cases and ambiguities.
+- **A/B testing loops**.
+- **Hiring committees** as an alternative to A/B testing. A centralised hiring committee that identifies trends across new loops.
 
 Avoid reusing stuff that you know doesn't work and approach the matter with creativity and iteration.
 
@@ -1217,6 +1272,7 @@ One tension in management is staying far enough out of the details to let folks 
 Around the time your team reaches three engineers, you'll want to be running a **spring process**.
 
 You can evaluate if a team's sprint works well:
+
 1. _Team_ knows what they should be working on.
 2. _Team_ knows why their work is valuable.
 3. _Team_ can determine if their work is complete.
@@ -1236,11 +1292,12 @@ Your backlog will be a bit more detailed while your roadmap will look further in
 As you move into middle management, you'll become responsible for two to five line managers. **You'll need to shift away from day-to-day execution to give your line managers room to make an impact**.
 
 You'll spend more time on your _roadmaps_:
-* From receiving asks from stakeholders to deeply understanding what is motivating those asks.
-* Continuously validate that your teams' efforts are valuable.
-* You'll want to start a **weekly staff meeting** with your managers. You can do brief updates from each attendee, at most a couple of minutes per person, and then move into group discussions on shared topics, like running effective sprints planning, career development or whatever else proves useful.
-* Once you start observing misalignment, it's time for each team to write a **vision document**.
-* **Start skip-level on-on-ones** to ensure that there are direct, open channels for feedback about your managers and your teams.
+
+- From receiving asks from stakeholders to deeply understanding what is motivating those asks.
+- Continuously validate that your teams' efforts are valuable.
+- You'll want to start a **weekly staff meeting** with your managers. You can do brief updates from each attendee, at most a couple of minutes per person, and then move into group discussions on shared topics, like running effective sprints planning, career development or whatever else proves useful.
+- Once you start observing misalignment, it's time for each team to write a **vision document**.
+- **Start skip-level on-on-ones** to ensure that there are direct, open channels for feedback about your managers and your teams.
 
 #### Managing an organisation
 
@@ -1254,71 +1311,71 @@ Another interesting mechanism is **team snippets**. Every two to four weeks give
 
 ### Useful books
 
-* [Thinking in Systems: A Primer](https://www.goodreads.com/book/show/3828902-thinking-in-systems)
-* [Don't Think of an Elephant! Know Your values and Frame the Debate](https://www.goodreads.com/book/show/13455.Don_t_Think_of_an_Elephant_Know_Your_Values_and_Frame_the_Debate)
-* [Peopleware: Productive Projects and Teams](https://www.goodreads.com/book/show/67825.Peopleware)
-* [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.goodreads.com/book/show/123715.Slack)
-* [The Mythical Man-Month](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month)
-* [Good Strategy/Bad Strategy. The Difference and Why it Matters](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy)
-* [The Goal: A Process of Ongoing Improvement](https://www.goodreads.com/book/show/113934.The_Goal)
-* [The Five Dysfunctions of a Team](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team)
-* [The Three Signs of a Miserable Job](https://www.goodreads.com/book/show/749937.The_Three_Signs_of_a_Miserable_Job)
-* [Finite and Infinite Games](https://www.goodreads.com/book/show/189989.Finite_and_Infinite_Games)
-* [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired)
-* [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail](https://www.goodreads.com/book/show/18750852-the-innovator-s-dilemma)
-* [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to do About it](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited)
-* [Fierce Conversations: Achieving Success at Work and in Life, One Conversation at a Time](https://www.goodreads.com/book/show/15017.Fierce_Conversations)
-* [Becoming a Technical Leader: An Organic Problem-Solving Approach](https://www.goodreads.com/book/show/714344.Becoming_a_Technical_Leader)
-* [Designing with the Mind in Mind](https://www.goodreads.com/book/show/8564020-designing-with-the-mind-in-mind)
-* [The Leadership Pipeline: How to Build the Leadership Powered Company](https://www.goodreads.com/book/show/1254.The_Leadership_Pipeline)
-* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
-* [High Output Management](https://www.goodreads.com/book/show/324750.High_Output_Management)
-* [The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter](https://www.goodreads.com/book/show/18491275-the-first-90-days-updated-and-expanded)
-* [The Effective Executive: The Definitive Guide to Getting the Right Things Done](https://www.goodreads.com/book/show/48019.The_Effective_Executive)
-* [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
-* [The Deadline: A Novel About Project Management](https://www.goodreads.com/book/show/123716.The_Deadline)
-* [The Psychology of Computer Programming](https://www.goodreads.com/book/show/1660754.The_Psychology_of_Computer_Programming)
-* [Adrenaline Junkies and Template Zombies: Understanding Patterns of Project Behaviour](https://www.goodreads.com/book/show/2342271.Adrenaline_Junkies_and_Template_Zombies)
-* [The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully](https://www.goodreads.com/book/show/566213.The_Secrets_of_Consulting)
-* [Death by Meeting](https://www.goodreads.com/book/show/49040.Death_by_Meeting)
-* [The Advantage: Why Organizational Health Trumps Everything Else in Business](https://www.goodreads.com/book/show/12975375-the-advantage)
-* [Rise: 3 Practical Steps for Advancing Your Career, Standing Out as a Leader, and Liking Your Life](https://www.goodreads.com/book/show/12838919-rise)
-* [The Innovator's Solution: Creating and Sustaining Successful Growth](https://www.goodreads.com/book/show/2618.The_Innovator_s_Solution)
-* [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
-* [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organisations](https://www.goodreads.com/book/show/39080433-accelerate)
+- [Thinking in Systems: A Primer](https://www.goodreads.com/book/show/3828902-thinking-in-systems)
+- [Don't Think of an Elephant! Know Your values and Frame the Debate](https://www.goodreads.com/book/show/13455.Don_t_Think_of_an_Elephant_Know_Your_Values_and_Frame_the_Debate)
+- [Peopleware: Productive Projects and Teams](https://www.goodreads.com/book/show/67825.Peopleware)
+- [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.goodreads.com/book/show/123715.Slack)
+- [The Mythical Man-Month](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month)
+- [Good Strategy/Bad Strategy. The Difference and Why it Matters](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy)
+- [The Goal: A Process of Ongoing Improvement](https://www.goodreads.com/book/show/113934.The_Goal)
+- [The Five Dysfunctions of a Team](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team)
+- [The Three Signs of a Miserable Job](https://www.goodreads.com/book/show/749937.The_Three_Signs_of_a_Miserable_Job)
+- [Finite and Infinite Games](https://www.goodreads.com/book/show/189989.Finite_and_Infinite_Games)
+- [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired)
+- [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail](https://www.goodreads.com/book/show/18750852-the-innovator-s-dilemma)
+- [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to do About it](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited)
+- [Fierce Conversations: Achieving Success at Work and in Life, One Conversation at a Time](https://www.goodreads.com/book/show/15017.Fierce_Conversations)
+- [Becoming a Technical Leader: An Organic Problem-Solving Approach](https://www.goodreads.com/book/show/714344.Becoming_a_Technical_Leader)
+- [Designing with the Mind in Mind](https://www.goodreads.com/book/show/8564020-designing-with-the-mind-in-mind)
+- [The Leadership Pipeline: How to Build the Leadership Powered Company](https://www.goodreads.com/book/show/1254.The_Leadership_Pipeline)
+- [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
+- [High Output Management](https://www.goodreads.com/book/show/324750.High_Output_Management)
+- [The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter](https://www.goodreads.com/book/show/18491275-the-first-90-days-updated-and-expanded)
+- [The Effective Executive: The Definitive Guide to Getting the Right Things Done](https://www.goodreads.com/book/show/48019.The_Effective_Executive)
+- [Don't Make Me Think: A Common Sense Approach to Web Usability](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
+- [The Deadline: A Novel About Project Management](https://www.goodreads.com/book/show/123716.The_Deadline)
+- [The Psychology of Computer Programming](https://www.goodreads.com/book/show/1660754.The_Psychology_of_Computer_Programming)
+- [Adrenaline Junkies and Template Zombies: Understanding Patterns of Project Behaviour](https://www.goodreads.com/book/show/2342271.Adrenaline_Junkies_and_Template_Zombies)
+- [The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully](https://www.goodreads.com/book/show/566213.The_Secrets_of_Consulting)
+- [Death by Meeting](https://www.goodreads.com/book/show/49040.Death_by_Meeting)
+- [The Advantage: Why Organizational Health Trumps Everything Else in Business](https://www.goodreads.com/book/show/12975375-the-advantage)
+- [Rise: 3 Practical Steps for Advancing Your Career, Standing Out as a Leader, and Liking Your Life](https://www.goodreads.com/book/show/12838919-rise)
+- [The Innovator's Solution: Creating and Sustaining Successful Growth](https://www.goodreads.com/book/show/2618.The_Innovator_s_Solution)
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
+- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organisations](https://www.goodreads.com/book/show/39080433-accelerate)
 
 ### Useful papers
 
-* [Dynamo: Amazon's Highly Available Key-Value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
-* [Hints for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)
-* [Big Ball of Mud](https://joeyoder.com/PDFs/mud.pdf)
-* [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
-* [On Designing and Deploying Internet-Scale Services](https://mvdirona.com/jrh/TalksAndPapers/JamesRH_Lisa.pdf)
-* [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
-* [Harvest, Yield, and Scalable Tolerant Systems](https://radlab.cs.berkeley.edu/people/fox/static/pubs/pdf/c18.pdf)
-* [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
-* [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://research.google/pubs/pub36356/)
-* [Kafka: a Distributed Messaging System for Log Processing](https://notes.stephenholiday.com/Kafka.pdf)
-* [Wormhole: Reliable Pub-Sub to Support Geo-Replicated Internet Services](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-sharma.pdf)
-* [Borg, Omega, and Kubernetes](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf)
-* [Large-Scale Cluster Management at Google with Borg](https://research.google/pubs/pub43438/)
-* [Omega: Flexible, Scalable Schedulers for Large Compute Clusters](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41684.pdf)
-* [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](https://people.eecs.berkeley.edu/~alig/papers/mesos.pdf)
-* [Design Patterns for Container-Based Distributed Systems](https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_burns.pdf)
-* [Raft: In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
-* [Paxos Made Simple](https://www.microsoft.com/en-us/research/publication/paxos-made-simple/)
-* [SWIM: Scalable Weakly-Consistent Infection-Style Process Group Membership Protocol](https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/SWIM.pdf)
-* [The Byzantine Generals Problem](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/)
-* [Out of the Tar Pit](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/)
-* [The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
-* [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
-* [Spanner: Google's Globally-Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
-* [Security Keys: Practical Cryptographic Second Factors for the Modern Web](https://fc16.ifca.ai/preproceedings/25_Lang.pdf)
-* [BeyondCorp: Design to Deployment at Google](https://research.google/pubs/pub44860/)
-* [Availability in Globally Distributed Storage Systems](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36737.pdf)
-* [Still All on One Server: Perforce at Scale](https://info.perforce.com/rs/perforce/images/GoogleWhitePaper-StillAllonOneServer-PerforceatScale.pdf)
-* [Large-Scale Automated Refactoring Using ClangMR](https://research.google/pubs/pub41342/)
-* [Source Code Rejuvenation is not Refactoring](https://s3.amazonaws.com/systemsandpapers/papers/sofsem10.pdf)
-* [Searching for Build Debt: Experiences Managing Techncial Debt at Google](https://s3.amazonaws.com/systemsandpapers/papers/sofsem10.pdf)
-* [No Silver Bullet, Essence and Accident in Software Engineering](https://s3.amazonaws.com/systemsandpapers/papers/sofsem10.pdf)
-* [The UNIX Time-Sharing System](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)
+- [Dynamo: Amazon's Highly Available Key-Value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+- [Hints for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)
+- [Big Ball of Mud](https://joeyoder.com/PDFs/mud.pdf)
+- [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+- [On Designing and Deploying Internet-Scale Services](https://mvdirona.com/jrh/TalksAndPapers/JamesRH_Lisa.pdf)
+- [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
+- [Harvest, Yield, and Scalable Tolerant Systems](https://radlab.cs.berkeley.edu/people/fox/static/pubs/pdf/c18.pdf)
+- [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+- [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://research.google/pubs/pub36356/)
+- [Kafka: a Distributed Messaging System for Log Processing](https://notes.stephenholiday.com/Kafka.pdf)
+- [Wormhole: Reliable Pub-Sub to Support Geo-Replicated Internet Services](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-sharma.pdf)
+- [Borg, Omega, and Kubernetes](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf)
+- [Large-Scale Cluster Management at Google with Borg](https://research.google/pubs/pub43438/)
+- [Omega: Flexible, Scalable Schedulers for Large Compute Clusters](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41684.pdf)
+- [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](https://people.eecs.berkeley.edu/~alig/papers/mesos.pdf)
+- [Design Patterns for Container-Based Distributed Systems](https://www.usenix.org/system/files/conference/hotcloud16/hotcloud16_burns.pdf)
+- [Raft: In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
+- [Paxos Made Simple](https://www.microsoft.com/en-us/research/publication/paxos-made-simple/)
+- [SWIM: Scalable Weakly-Consistent Infection-Style Process Group Membership Protocol](https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/SWIM.pdf)
+- [The Byzantine Generals Problem](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/)
+- [Out of the Tar Pit](https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/)
+- [The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
+- [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+- [Spanner: Google's Globally-Distributed Database](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+- [Security Keys: Practical Cryptographic Second Factors for the Modern Web](https://fc16.ifca.ai/preproceedings/25_Lang.pdf)
+- [BeyondCorp: Design to Deployment at Google](https://research.google/pubs/pub44860/)
+- [Availability in Globally Distributed Storage Systems](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36737.pdf)
+- [Still All on One Server: Perforce at Scale](https://info.perforce.com/rs/perforce/images/GoogleWhitePaper-StillAllonOneServer-PerforceatScale.pdf)
+- [Large-Scale Automated Refactoring Using ClangMR](https://research.google/pubs/pub41342/)
+- [Source Code Rejuvenation is not Refactoring](https://s3.amazonaws.com/systemsandpapers/papers/sofsem10.pdf)
+- [Searching for Build Debt: Experiences Managing Technical Debt at Google](https://s3.amazonaws.com/systemsandpapers/papers/sofsem10.pdf)
+- [No Silver Bullet, Essence and Accident in Software Engineering](https://s3.amazonaws.com/systemsandpapers/papers/sofsem10.pdf)
+- [The UNIX Time-Sharing System](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)

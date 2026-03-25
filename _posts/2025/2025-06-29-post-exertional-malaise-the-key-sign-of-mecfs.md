@@ -2,8 +2,7 @@
 title: Post-Exertional Malaise - The Key Sign of ME/CFS
 link: https://batemanhornecenter.org/wp-content/uploads/filebase/providers/PEM-Lecture-Slides-ECHO-v4-5_17_2022.pdf
 cited: Bateman Horne Center
-author: Mat
-tags: [medical, chronic-illness, pem, me-cfs, long-covid]
+tags: [ME]
 date: 2025-06-29
 
 ---
@@ -50,6 +49,7 @@ Many patients become bedridden and struggle with basic tasks like showering or e
 ## The “Energy Debt” Concept
 
 Think of energy like money:
+
 - You have $1/day to spend
 - Overspending creates debt that must be repaid with interest
 
