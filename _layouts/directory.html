@@ -39,6 +39,7 @@
     <li><b>{{ site.data.constraints | size }}</b> constraint cards.</li>
     <li><b>{{ site.data.jokes | size }}</b> jokes written.</li>
     <li><b>{{ site.tags | size }}</b> unique tags used.</li>
+    <li><b>{{ site.data.counter | size }}</b> counters tracked.</li>
 </ul>
 
 <h2>Site Metadata Summary</h2>
@@ -66,6 +67,11 @@
     <li><b>{{ days_since }}</b> {{ day_label }} since {{ item.label }} - ({{ item.date }})</li>
 
     {% endfor %}
+
+{% assign counts = site.data.counter | sort: 'count' %}
+    {% for count in counts %}
+    <li><b>{{ count.count }}</b> {{ count.label }}</li>
+    {% endfor %}
 </ul>
 
 <h2>Tag Summary</h2>
@@ -78,4 +84,4 @@
     {% assign tag_posts = tag[1] %}
     <li><a href="/tag/{{ tag_name }}">{{ tag_name | capitalize }}</a> ({{ tag_posts | size }})</li>
     {% endfor %}
-{% include footer.html %}
+    {% include footer.html %}
