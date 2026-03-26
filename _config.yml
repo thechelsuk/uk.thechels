@@ -118,6 +118,8 @@ navigation_slashes:
     title: "Apps"
   - link: "/about"
     title: "About"
+  - link: "/accessibility"
+    title: "Accessibility"
   - link: "/architecture"
     title: "Architecture"
   - link: "/.well-known/avatar.png"
