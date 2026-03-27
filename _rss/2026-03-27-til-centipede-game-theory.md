@@ -4,7 +4,7 @@ date: 2026-03-27
 title: TIL - Centipede game theory
 tags: [TIL]
 link: https://en.wikipedia.org/wiki/Centipede_game
-coted: Wikipedia
+cited: Wikipedia
 
 ---
 
