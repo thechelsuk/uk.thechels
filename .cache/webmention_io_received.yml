@@ -756,5 +756,38 @@
     author:
     type: link
     content: Incidence of ME peaks in adolescence or early middle age (<a href="https://thechels.uk/incidence-of-me-peaks-in-adolescence-or-early-middle-age-institute-of-genetics-and-cancer-institute-of-genetics-and-cancer">https://thechels.uk/incidence-of-me-peaks-in-adolescence-or-early-middle-age-institute-of-genetics-and-cancer-institute-of-genetics-and-cancer</a>)
-"/monthly-mixtape-mar-2026": {}
+"/monthly-mixtape-mar-2026":
+  '1986278':
+    id: '1986278'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mhubcpfuf22t
+    source: false
+    pubdate: 2026-03-25 04:36:55.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mhubcpfuf22t%23bridgy-fed-create-2026-03-25T04:36:58.779035+00:00
+      verified: true
+      verified_date: '2026-03-25T04:37:05+00:00'
+      id: 1986278
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mhubcpfuf22t
+        name:
+        content: "Here is some music I’ve been listening to in March. <a href=\"https://thechels.uk/monthly-mixtape-mar-2026\">thechels.uk/monthly-mixt...</a>\n\nYou
+          can listen along on Apple Music too <a href=\"https://music.apple.com/gb/playlist/2026-03-mixtape/pl.u-aZb0Dz0tPmoMzz\">music.apple.com/gb/playlist/...</a>\n\n<a
+          href=\"https://bsky.app/search?q=%23Morrissey\">#Morrissey</a> <a href=\"https://bsky.app/search?q=%23BRMC\">#BRMC</a>
+          <a href=\"https://bsky.app/search?q=%23Suede\">#Suede</a> <a href=\"https://bsky.app/search?q=%23DeclanMcKenna\">#DeclanMcKenna</a>
+          \n<a href=\"https://bsky.app/search?q=%23Pulp\">#Pulp</a> <a href=\"https://bsky.app/search?q=%23Radiohead\">#Radiohead</a>
+          <a href=\"https://bsky.app/search?q=%23REM\">#REM</a> <a href=\"https://bsky.app/search?q=%23RadioMoscow\">#RadioMoscow</a>"
+        published: '2026-03-25T04:36:55+00:00'
+        published_ts: 1774413415
+      activity:
+        type: link
+      target: https://thechels.uk/monthly-mixtape-mar-2026
+    author:
+    type: link
+    content: "Here is some music I’ve been listening to in March. <a href=\"https://thechels.uk/monthly-mixtape-mar-2026\">thechels.uk/monthly-mixt...</a>\n\nYou
+      can listen along on Apple Music too <a href=\"https://music.apple.com/gb/playlist/2026-03-mixtape/pl.u-aZb0Dz0tPmoMzz\">music.apple.com/gb/playlist/...</a>\n\n<a
+      href=\"https://bsky.app/search?q=%23Morrissey\">#Morrissey</a> <a href=\"https://bsky.app/search?q=%23BRMC\">#BRMC</a>
+      <a href=\"https://bsky.app/search?q=%23Suede\">#Suede</a> <a href=\"https://bsky.app/search?q=%23DeclanMcKenna\">#DeclanMcKenna</a>
+      \n<a href=\"https://bsky.app/search?q=%23Pulp\">#Pulp</a> <a href=\"https://bsky.app/search?q=%23Radiohead\">#Radiohead</a>
+      <a href=\"https://bsky.app/search?q=%23REM\">#REM</a> <a href=\"https://bsky.app/search?q=%23RadioMoscow\">#RadioMoscow</a>"
 "/mixtape-music-02-2025": {}
