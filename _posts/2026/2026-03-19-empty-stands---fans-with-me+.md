@@ -5,6 +5,7 @@ date: 2026-03-19
 link: https://emptystands.me/en/
 title: Empty Stands - Fans with ME+
 cited: Empty Stands
+tags: [ME]
 
 ---
 
