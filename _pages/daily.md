@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-03-27
+date: 2026-03-28
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,14 +11,14 @@ date: 2026-03-27
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Friday, 27 March 2026
+## On Saturday, 28 March 2026
 
-- The average temperature today is 9.07˚C,
-- With highs of 9.07˚C and lows of 9.07˚C,
-- It may feel like 6.27˚C with light rain
-- The wind speed is 5.41m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 92%
-- The sun will rise at 05:55 and set at 18:32
+- The average temperature today is 6.15˚C,
+- With highs of 6.15˚C and lows of 6.15˚C,
+- It may feel like 2.63˚C with overcast clouds
+- The wind speed is 5.33m/s and visibility is 10000m
+- The pressure is 1024hPa and humidity is 76%
+- The sun will rise at 05:52 and set at 18:33
 
 <!-- weather_marker ends -->
 
@@ -26,7 +26,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 752 days since the last change (2024-03-05)
+- It has been 753 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -39,46 +39,78 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Commit to the direction.
+> Optimise flow.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Andorra U21 v England U21
-- England v Uruguay
+- Everton Women v Liverpool Women
+- Harrogate Town v Notts County
+- Ipswich Town Women v Southampton Women
+- Sheffield United Women v Portsmouth Women
+- Manchester United Women v Manchester City Women
+- Blackpool v Burton Albion
+- Exeter City v Leyton Orient
+- Reading v Wigan Athletic
+- Stockport County v AFC Wimbledon
+- Wycombe Wanderers v Port Vale
+- Barnet v Cambridge United
+- Barrow AFC v Bromley
+- Bristol Rovers v Accrington Stanley
+- Colchester United v Walsall
+- Crawley Town v Gillingham
+- Crewe Alexandra v Oldham Athletic
+- Newport County v Shrewsbury Town
+- Salford City v MK Dons
+- Swindon Town v Fleetwood Town
+- Brackley Town v Tamworth
+- Braintree Town v Carlisle United
+- Eastleigh v Forest Green Rovers
+- FC Halifax Town v Scunthorpe United
+- Gateshead v Yeovil Town
+- Morecambe v Aldershot Town
+- Solihull Moors v Altrincham
+- Sutton United v Rochdale
+- Truro City v Boreham Wood
+- York City v Woking
+- South Shields v Alfreton Town
+- Dagenham & Redbridge v Hampton & Richmond Borough
+- Dorking Wanderers v Hemel Hempstead
+- Torquay United v Horsham
+- Arsenal Women v Tottenham Hotspur Women
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 120.1500015258789 
-- ^FTSE : 9993.5595703125 
-- ^FTMC : 21267.91015625 
+- VWRL.L : 119.0199966430664 
+- ^FTSE : 9967.400390625 
+- ^FTMC : 20964.80078125 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> The police came round the other day saying they had reports our pet dog had been chasing the local kids on roller skates, funny I said, our dog does not own any roller skates.
+> I have recently resigned from my job and have applied for a new job but yet to hear anything. It was at a chiropractor about a weak back.
 <!-- jokes_marker ends -->
 
 
 ### Team News
 <!-- news_marker starts -->
 
+- The Daily Hilario: Saturday
+- Enzo Fernández scores in Argentina win
+- Official: San Diego Wave sign Catarina Macario from Chelsea FCW
+- The Daily Hilario: Friday
 - Andrey Santos, Malo Gusto start for Brazil, France in friendly
 - The Daily Hilario: Thursday
 - Liam Rosenior secure unless Chelsea ‘implode’ over final weeks of season — report
 - The Daily Hilario: Wednesday
 - All Moisés Caicedo wants is to become a Chelsea legend
 - Arsenal WFC 3-1 Chelsea FCW, UEFA Women’s Champions League: Post-match reaction
-- Arsenal WFC vs. Chelsea FCW, UEFA Women’s Champions League: Lineups &#038; Game Thread
-- The Daily Hilario: Project Hail Mary
-- Everton 3-0 Chelsea, Player Ratings: It just keeps getting worse
-- Arsenal WFC vs. Chelsea FCW, UEFA Women’s Champions League: Preview, team news, how to watch
 
 <!-- news_marker ends -->
 
@@ -86,14 +118,14 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- ftnews_marker starts -->
 
-- Iran seeks to cash in on Strait of Hormuz
-- Markets rebound as Trump extends Iran peace deal deadline
-- UAE pushes for international force to reopen Hormuz
-- Echoes of history: what the oil shock means for your money
-- How MI5 gets into the minds of young terrorists
-- Why molecules matter in the age of the Halo trade
-- Keir Starmer set to make Sadiq Khan a lord
-- Reform UK figures braced for electoral damage from Trump links
+- Iranian strike wounds US troops at air base in Saudi Arabia
+- Global markets recoil as Rubio warns war in Iran could stretch for weeks
+- Gulf officials seek to calm investors as war rattles confidence
+- The decapitation dilemma
+- How Pakistan put itself in the middle of US-Iran peace talks
+- What the Iran war teaches America’s adversaries
+- KPMG to cut almost 600 UK jobs as slowdown persists
+- UK diesel stockpiles at risk, warn traders
 
 <!-- ftnews_marker ends -->
 
@@ -108,34 +140,34 @@ _Good Morning, Here is your daily briefing..._
 ### Quote of the Day
 <!-- quote_marker starts -->
 
-> The art of leadership is saying no, not yes. It is very easy to say yes - Tony Blair
+> If you can dream it, you can do it. - Walt Disney
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> improve his virility shovels them straight into his lap)
+> The inconsistency principle
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Alien (Rated: 7)
-- Released in 1979
-- Summary: After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.
+- F9: The Fast Saga (Rated: 3)
+- Released in 2021
+- Summary: Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 <!-- game_marker starts -->
 
-- Target: 517, using [2, 3, 7, 7, 25, 50]
-- Answer: 7 solutions.
+- Target: 275, using [2, 3, 8, 10, 50, 75]
+- Answer: 117 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 + 25 ) x 7 + 2 - 7 - 3
+  Solution: ( 75 + 50 + 10 ) x 2 + 8 - 3
 
    </details>
 
@@ -143,9 +175,9 @@ _Good Morning, Here is your daily briefing..._
 
 ### 5 Random Blogroll Links
 <!-- blogroll_marker starts -->
-- Aaron Randall [URL](https://aaronrandall.com/) [Feed](https://aaronrandall.com/feed/)
-- Alchemists [URL](https://alchemists.io/) [Feed](https://www.alchemists.io/feeds/news.xml)
-- Ricky Mondello [URL](https://rmondello.com/) [Feed](https://rmondello.com/feed/)
-- fnhipster [URL](https://fnhipster.com/) [Feed](https://fnhipster.com/rss)
-- Rob Weychert [URL](https://v7.robweychert.com/) [Feed](http://feeds.feedburner.com/robweychert)
+- Cory Dransfeldt [URL](https://www.coryd.dev/feeds/all.xml) [Feed](https://www.coryd.dev/feeds/all.xml)
+- Dave Kiss [URL](https://davekiss.com/) [Feed](https://davekiss.com/blog.rss)
+- One Thing Well [URL](https://onethingwell.org/) [Feed](http://onethingwell.org/rss)
+- David Bushell [URL](https://dbushell.com/) [Feed](https://dbushell.com/merge/rss.xml)
+- Matt Mullenweg [URL](https://ma.tt/) [Feed](https://ma.tt/feed/)
 <!-- blogroll_marker ends -->
