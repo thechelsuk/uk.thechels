@@ -10,7 +10,7 @@ date: 2026-03-01
 
 ---
 
-_This website alllows you to find the best bike for the route you want to ride, and compare the stats of different bikes._
+___This website alllows you to find the best bike for the route you want to ride, and compare the stats of different bikes.___
 
 1. Go to website
 2. Use the filters to find the bikes you want to compare.
