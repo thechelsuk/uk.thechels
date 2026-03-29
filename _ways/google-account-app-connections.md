@@ -11,5 +11,5 @@ date: 2026-03-01
 ---
 
 
-1. sign in to your Google account
+1. Sign in to your Google account
 2. Delete any connections you don't want or need. You can also manage permissions for each connection.
