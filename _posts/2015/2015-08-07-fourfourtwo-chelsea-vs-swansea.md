@@ -7,7 +7,7 @@ tags:
 
  We're debating the strongest line-ups for the opening day. How do you see it going? An ex-player, prominent blogger and FFT editor look at the various permutations...
 
-#### Former player: Pat Nevin (Chelsea 1983-88)
+## Former player: Pat Nevin (Chelsea 1983-88)
 
 (4-2-3-1)
 Why this line-up
@@ -18,9 +18,9 @@ Why this line-up
 "Up front you’d want Diego Costa, obviously, but the hamstring injury may cost him. If he’s not fit, it’s between Loic Remy and Radamel Falcao – and at the moment I think Remy is fitter.
 "Chelsea still need defensive coverage, and I think if Jose gets John Stones from Everton, you can see the core of a very good young team that can be dominant for a long time."
 
-#### Blogger: @ChelseaStats
+## Blogger: @ChelseaStats
 
-![Image of ChelseaStats Team](https://github.com/mat-0/uk.thechels/blob/main/images/chelseastatsxi3.jpg)
+![Image of ChelseaStats Team](/images/chelseastatsxi3.jpg)
 
 (4-2-3-1)
 "The team picks itself really. It’s a home game, so means Cesc Fabregas dropping into the deeper midfield spot rather than as a No.10, He’s likely to move forward when we have a top-four opponent or difficult away trip and we need the security behind him.
@@ -30,7 +30,7 @@ Why this line-up
 "We know Mourinho likes a core seven or eight who rarely change. He mentioned in pre-season the likelihood of playing two strikers more often this season. Remy playing from wide right against some of the lesser sides, where defending is less of an issue, will be interesting to see. Many forget the number of games Didier Drogba and Eidur Gudjohnsen (and latterly Andriy Shevchenko) played together.
 "I’m fascinated by how we’ll manage the bench and fringe players. Kenedy, permit pending, looks lively; Bertrand Traore too. Will they make the first team or will they be loaned out? The likes of Juan Cuadrado - an expensive acquisition - should have settled in after a pre-season with the team. We’re almost spoilt for choice."
 
-#### FFT says
+## FFT says
 
 (4-2-3-1)
 Chelsea's first XI is undoubtedly the simplest to predict. Key for Jose Mourinho is managing his squad players, having waved goodbye to excellent understudies in Filipe Luis, Petr Cech, Andre Schurrle and Mohamed Salah over the past six months. Given the state of Diego Costa's hamstrings, it's vital he galvanises Loic Remy and Radamel Falcao.
