@@ -790,5 +790,86 @@
       <a href=\"https://bsky.app/search?q=%23Suede\">#Suede</a> <a href=\"https://bsky.app/search?q=%23DeclanMcKenna\">#DeclanMcKenna</a>
       \n<a href=\"https://bsky.app/search?q=%23Pulp\">#Pulp</a> <a href=\"https://bsky.app/search?q=%23Radiohead\">#Radiohead</a>
       <a href=\"https://bsky.app/search?q=%23REM\">#REM</a> <a href=\"https://bsky.app/search?q=%23RadioMoscow\">#RadioMoscow</a>"
+  '1986898':
+    id: '1986898'
+    uri: https://bsky.app/profile/thechels.uk/post/3mhubcpfuf22t#liked_by_did:plc:wv2gr2o7ax7r3ns5yjcyckgm
+    source: false
+    pubdate: 2026-03-28 20:35:58.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/bluesky/did:plc:dz7xwi7wgfyzk4oemurkomax/at%253A%252F%252Fdid%253Aplc%253Adz7xwi7wgfyzk4oemurkomax%252Fapp.bsky.feed.post%252F3mhubcpfuf22t/did%253Aplc%253Awv2gr2o7ax7r3ns5yjcyckgm
+      verified: true
+      verified_date: '2026-03-28T20:35:58+00:00'
+      id: 1986898
+      private: false
+      data:
+        author: &1
+          name: Vintage Obscura Radio
+          url: https://bsky.app/profile/vintageobscura.net
+          photo: https://cdn.bsky.app/img/avatar/plain/did:plc:wv2gr2o7ax7r3ns5yjcyckgm/bafkreihbe44hj62ew2vcfd4xeaoqfw3lt47r233wgwnpcgbe3di2leknd4
+        url: https://bsky.app/profile/thechels.uk/post/3mhubcpfuf22t#liked_by_did:plc:wv2gr2o7ax7r3ns5yjcyckgm
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://thechels.uk/monthly-mixtape-mar-2026
+    author: *1
+    type: like
+    content: ''
 "/mixtape-music-02-2025": {}
 "/apple-s-ios-26.4-update-adds-age-verification-in-the-uk": {}
+"/effective-apologies":
+  '1986844':
+    id: '1986844'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mi4nmd7i5o2e
+    source: false
+    pubdate: 2026-03-26 00:00:00.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mi4nmd7i5o2e%23bridgy-fed-create-2026-03-28T12:38:22.229348+00:00
+      verified: true
+      verified_date: '2026-03-28T12:38:24+00:00'
+      id: 1986844
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mi4nmd7i5o2e
+        name:
+        content: Effective Apologies (<a href="https://thechels.uk/effective-apologies">https://thechels.uk/effective-apologies</a>)
+        published: '2026-03-26T00:00:00+00:00'
+        published_ts: 1774483200
+      activity:
+        type: link
+      target: https://thechels.uk/effective-apologies
+    author:
+    type: link
+    content: Effective Apologies (<a href="https://thechels.uk/effective-apologies">https://thechels.uk/effective-apologies</a>)
+"/apple-maps-will-have-ads": {}
+"/apple-discontinues-and-has-no-plans-for-the-mac-pro": {}
+"/a-review-of-me-specialist-provision-on-the-nhs":
+  '1986889':
+    id: '1986889'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mi5cagqp6s2z
+    source: false
+    pubdate: 2026-03-28 18:47:30.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mi5cagqp6s2z%23bridgy-fed-create-2026-03-28T18:47:31.812835+00:00
+      verified: true
+      verified_date: '2026-03-28T18:47:35+00:00'
+      id: 1986889
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mi5cagqp6s2z
+        name:
+        content: |-
+          A review of ME specialist provision on the NHS
+          <a href="https://thechels.uk/a-review-of-me-specialist-provision-on-the-nhs">https://thechels.uk/a-review-of-me-specialist-provision-on-the-nhs</a>
+        published: '2026-03-28T18:47:30+00:00'
+        published_ts: 1774723650
+      activity:
+        type: link
+      target: https://thechels.uk/a-review-of-me-specialist-provision-on-the-nhs
+    author:
+    type: link
+    content: |-
+      A review of ME specialist provision on the NHS
+      <a href="https://thechels.uk/a-review-of-me-specialist-provision-on-the-nhs">https://thechels.uk/a-review-of-me-specialist-provision-on-the-nhs</a>
