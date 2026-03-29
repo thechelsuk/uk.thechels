@@ -1,5 +1,7 @@
 ---
+layout: empty
 ---
+
 /* ---------------------------------- */
 /* ----------  Font Setup  ---------- */
 /* ---------------------------------- */
@@ -139,7 +141,7 @@ body {
     transition: $transition;
 }
 
-#outer-wrapper:after {
+#outer-wrapper::after {
     content: "";
     display: block;
 }
@@ -307,15 +309,7 @@ main:focus {
     color: $accent;
 }
 
-.highlight>pre {
-    background: $code;
-    color: $primary;
-    padding: 0.525em;
-    border-radius: 0.5em;
-    margin: 0.525em;
-    border: 1px solid #121212;
-}
-
+.sr-only,
 .skip-link:not(:focus):not(:active) {
     clip-path: inset(50%);
     height: 1px;
@@ -374,57 +368,20 @@ main:focus {
     display: none;
 }
 
-.book-list .book {
-    display: flex;
-}
+ul li {
+    margin-bottom: 0.5em;
 
-.book-list {
-    display: grid;
-    grid-gap: 0;
-    grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
-    max-width: 832px;
-}
-
-.book-list .book-img {
-    flex-shrink: 0;
-    width: 90px;
-}
-
-:is(h1, h2, h3, h4, h5, h6) {
-    color: $primary;
-    position: relative;
-    display: block;
-    font-family: $header-stack;
-
-    &:hover::after {
-        content: " #";
+    &::marker {
         color: $accent;
     }
 }
 
-:is(h1, h2, h3, h4, h5, h6) a {
-    text-decoration: none;
-    color: $primary;
-
-    &:hover {
-        text-decoration: none;
-    }
-
-    &:focus {
-        text-decoration: none;
-    }
-}
-
-ol li::marker {
-    color: $primary;
-}
-
-ul li::marker {
-    color: $accent;
-}
-
-ul li {
+ol li {
     margin-bottom: 0.5em;
+
+    &::marker {
+        color: $secondary;
+    }
 }
 
 p {
@@ -433,7 +390,7 @@ p {
 
 strong,
 b {
-    font-family: TheChelsMedium;
+    font-family: "TheChelsMedium";
     font-weight: bold;
 }
 
@@ -449,32 +406,6 @@ a {
     }
 }
 
-.codeblock {
-    font-family: $font-mono;
-    border: 0.125em solid $secondary;
-    border-radius: 1em;
-    font-size: 0.9em;
-    padding: 0.625em;
-}
-
-pre,
-code {
-    font-family: $font-mono;
-    font-size: 0.75em;
-}
-
-pre>code {
-    font-size: 0.9em;
-}
-
-blockquote,
-cite {
-    padding: 0 1em;
-    border-left: 0.25em solid $accent;
-    width: 90%;
-    margin-left: 0.625em;
-}
-
 .footnote {
     font-size: 0.8em;
     color: $secondary;
@@ -488,7 +419,6 @@ cite {
 .posts {
     margin-left: 0;
     padding-left: 0;
-    transition: all 0.1s;
 }
 
 .floated {
@@ -508,15 +438,6 @@ cite {
     position: relative;
 }
 
-.sr-only {
-    clip-path: inset(50%);
-    height: 1px;
-    overflow: hidden;
-    position: absolute;
-    white-space: nowrap;
-    width: 1px;
-}
-
 .highlighter {
     background: $accent;
     color: $primary;
@@ -524,6 +445,139 @@ cite {
     border-radius: 0.5em;
     margin: 0.265em;
     font-size: 0.8em;
+}
+
+/* ---------------------------------- */
+/* ---------- Book  Styles  --------- */
+/* ---------------------------------- */
+
+.book-list {
+    display: grid;
+    grid-gap: 0;
+    grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
+    max-width: 832px;
+
+    >.book {
+        display: flex;
+
+        .book-img {
+            flex-shrink: 0;
+            width: 90px;
+
+            img {
+                border: 0;
+            }
+        }
+    }
+}
+
+/* ---------------------------------- */
+/* ------ Header Link Styles  ------- */
+/* ---------------------------------- */
+
+:is(h1, h2, h3, h4, h5, h6) {
+    color: $primary;
+    position: relative;
+    display: block;
+    font-family: $header-stack;
+
+    & a {
+        text-decoration: none;
+        color: $primary;
+
+        &:hover {
+            text-decoration: none;
+        }
+
+        &:focus {
+            text-decoration: none;
+        }
+    }
+
+    &:hover::after {
+        content: " #";
+        color: $accent;
+    }
+}
+
+
+/* ---------------------------------- */
+/* ---------- Block Styles  -------- */
+/* ---------------------------------- */
+// Callout block: write ___text___ or ***text*** or _**text**_
+// in Markdown (produces <em><strong>text</strong></em>)
+
+div:has(> pre:only-child > code:only-child) {
+    border: 1px solid $code;
+    border-left: 0.5rem solid $links;
+    border-radius: 4px;
+    padding: 0 0 0 3.25rem;
+    color: $primary;
+    font-family: $font-mono;
+    font-style: normal;
+    position: relative;
+    margin: 1.5rem 0;
+    background-color: $alt-tab;
+
+    &::before {
+        content: "[]";
+        position: absolute;
+        left: 1rem;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 1rem;
+    }
+}
+
+blockquote {
+    border: 1px solid $code;
+    border-left: 0.5rem solid $secondary;
+    border-radius: 4px;
+    padding: 0.5rem 0.5rem 0.5rem 3.25rem;
+    color: $primary;
+    font-style: normal;
+    position: relative;
+    margin: 1.5rem 0;
+
+    ::before {
+        content: ">";
+        position: absolute;
+        left: 1rem;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 1rem;
+    }
+}
+
+
+:is(p:has(> em:only-child > strong:only-child),
+    p:has(> strong:only-child > em:only-child)) {
+    border: 1px solid $code;
+    border-left: 0.5rem solid $accent;
+    border-radius: 4px;
+    padding: 1rem 1rem 1rem 3.25rem;
+    color: $primary;
+    font-style: normal;
+    position: relative;
+    margin: 1.5rem 0;
+
+    &::before {
+        content: "ⓘ";
+        position: absolute;
+        left: 1rem;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 1rem;
+    }
+}
+
+:is(p:has(> em:only-child > strong:only-child),
+    p:has(> strong:only-child > em:only-child)) em,
+:is(p:has(> em:only-child > strong:only-child),
+    p:has(> strong:only-child > em:only-child)) strong {
+    font-family: $font-stack;
+    font-style: normal;
+    position: relative;
 }
 
 /* ---------------------------------- */
@@ -536,10 +590,6 @@ img {
     max-width: 100%;
     height: auto;
     border: 1px solid $primary;
-}
-
-.book-img img {
-    border: 0;
 }
 
 .app-icon {
@@ -610,8 +660,7 @@ table {
 .footer-meta {
     margin-bottom: 1em;
 
-    li:nth-child(1),
-    li:nth-child(2) {
+    li:is(:nth-child(1), :nth-child(2)) {
         break-after: column;
     }
 }
@@ -619,8 +668,7 @@ table {
 .footer-links {
     column-rule: 1px solid $secondary;
 
-    li:nth-child(6),
-    li:nth-child(12) {
+    li:is(:nth-child(6), :nth-child(12)) {
         break-after: column;
     }
 }
@@ -731,11 +779,11 @@ html.alt-mode {
         display: grid;
         grid-gap: 0;
         grid-template-columns: repeat(auto-fill, minmax(72px, 1fr));
-    }
 
-    .book-list .book-img {
-        flex-shrink: 0;
-        width: 72px;
+        .book-img {
+            flex-shrink: 0;
+            width: 72px;
+        }
     }
 
     .meta,

@@ -27,11 +27,11 @@ The site is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web
 
 ![website colour scheme](/images/colour-scheme.png)
 
-The font-family is a custom font, secondary to that the site utilises the user's operating system setting via the `-system-ui` declaration, `Gill Sans` if available, and as a last resort falls back to `sans-serif`. This means it should look natural and native to the operating system in use should the primary font not work. The primary colour scheme is `White Smoke` as the background, `Night` for text, `Brunswick Green` for links, `Lapis Lazuli` for some additional/secondary text e.g., post meta data and sub headings, and finally `Citron` is used for accents e.g., borders, separators, quote bars, table header backgrounds, and little bits of whimsy. Tables are `Gray Cloud` with `Snow` for the alternate rows, and code blocks are `c0deff`.
+The font-family is a custom font, secondary to that the site utilises the user's operating system setting via the `-system-ui` declaration, `Gill Sans` if available, and as a last resort falls back to `sans-serif`. This means it should look natural and native to the operating system in use should the primary font not work. The primary colour scheme is `White Smoke` as the background, `Night` for text, `Brunswick Green` for links, `Lapis Lazuli` for some additional/secondary text e.g., post meta data and sub headings, and finally `Citron` is used for accents e.g., borders, separators, quote bars, table header backgrounds, and little bits of whimsy. Tables are `Gray Cloud` with `Snow` for the alternate rows, and code blocks have a background of `fffafa`, with variations for alt and dark themes.
 
 The site supports the setting a variable in the local browser storage to remember themes, it's a challenge for the visitor to find the toggle.
 
-The site uses some icons to denote the type of content, these are: &rarr; (`&rarr;`) for posts that link to other sites, &raquo; (`&raquo;`) for quotations without a linked source, and ⇗ (`&neArr;`) exists for other external links, although ultimately these are all just decorative and non-functional. ⇉ (`&rrarr;`) is used for sponsored content and adverts.
+The site uses some icons to denote the type of content, these are: &rarr; (`&rarr;`) for posts that link to other sites, &raquo; (`&raquo;`) for quotations without a linked source, and ⇗ (`&neArr;`) exists for other external links, although ultimately these are all just decorative and non-functional. ⇉ (`&rrarr;`) is used for sponsored content and adverts. Blocks have a left border and an icon`[]` denotes code, `>` for quotes, and `ⓘ` for callouts.
 
 ## In The Press
 

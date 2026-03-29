@@ -55,11 +55,11 @@ This is the second paragraph.
 
 ## Emphasis
 
-You can add emphasis by making text bold or italic. Use with caution and in limited fashion. Don't use `bold` for headings, it's not semantic.
+You can add emphasis by making text bold or italic. Use with caution and in limited fashion. Don't use `bold` for headings, it's not semantic. By using both bold and italics together you can create a callout block style which is used for important notes or warnings.
 
 - **Bold**: `**bold text**` or `__bold text__`
 - *Italic*: `*italic text*` or `_italic text_`
-- ***Bold and Italic***: `***bold and italic***` or `___bold and italic___`
+- ***Bold and Italic***: `__*bold and italic*__` or `___bold and italic___`
 
 Example:
 
