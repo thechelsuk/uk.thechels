@@ -17,9 +17,10 @@ A number of RSS feeds are available.
 
 ## Niche Summary Feeds
 
-- [Dotnet](https://feeds.thechels.uk/dotnet.rss)
-- [SecOps](https://feeds.thechels.uk/secops.rss)
+- [Dotnet News Summary](https://feeds.thechels.uk/dotnet.rss)
+- [SecOps News Summary](https://feeds.thechels.uk/secops.rss)
+- [Insurance News Summary](https://feeds.thechels.uk/insurance.rss)
 - [COD](https://cod.thechels.uk/daily.rss)
 - [Local Floods](https://cod.thechels.uk/flood.xml)
 
-If you don’t have a feed reader then I recommend using [NetNewsWire](https://netnewswire.com/). It’s really good and completely free. If you go aheas and use it  , you can use my [themes](/nnw-themes). All themes are free.
+If you don’t have a feed reader then I highly recommend using [NetNewsWire](https://netnewswire.com/). It’s really good, offers icloud sync across devices, loads of third-party integrations and is completely free. If you go ahead and use it, you can also try my completely free [themes](/nnw-themes).
