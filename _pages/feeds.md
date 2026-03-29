@@ -8,11 +8,10 @@ seo: Subscribe to various JSON, RSS, and Data feeds
 
 A number of RSS feeds are available.
 
-If you don’t have a feed reader then I recommend using [NetNewsWire](https://netnewswire.com/). It’s really good and completely free.
 
 - Main Feed [Atom/XML](/feed.xml) / [JSON](/feed.json) - All post feeds
 - Posts [Atom/XML](/posts.xml) - Posts without linked/quote posts.
-- RSS only [Atom/XML](/rss.xml) - Secret RSS only feed
+- RSS only [Atom/XML](/rss.xml) - Secret RSS only feed + TIL
 - Films [Atom/XML](/films.xml) - Film reviews
 - Daily [Atom/XML](/daily.xml) - A daily briefing of news, notices, quotes, and more.
 
@@ -21,6 +20,6 @@ If you don’t have a feed reader then I recommend using [NetNewsWire](https://n
 - [Dotnet](https://feeds.thechels.uk/dotnet.rss)
 - [SecOps](https://feeds.thechels.uk/secops.rss)
 - [COD](https://cod.thechels.uk/daily.rss)
-- [Floods](https://cod.thechels.uk/flood.xml)
+- [Local Floods](https://cod.thechels.uk/flood.xml)
 
-If you use NetNewsWire, you can use my [themes](/nnw-themes). All themes are free and open source.
+If you don’t have a feed reader then I recommend using [NetNewsWire](https://netnewswire.com/). It’s really good and completely free. If you go aheas and use it  , you can use my [themes](/nnw-themes). All themes are free.
