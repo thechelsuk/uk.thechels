@@ -19,7 +19,7 @@ if __name__ == "__main__":
         # Step 2: Add icon to each item
         for url, icon in FEEDS:
             feed = feedparser.parse(url)
-            for item in feed["items"][:25]:
+            for item in feed["items"][:10]:
                 item["icon"] = icon
                 all_items.append(item)
 

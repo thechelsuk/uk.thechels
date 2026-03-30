@@ -5,7 +5,7 @@ permalink: /about
 seo: About page for the owner of thechels.uk
 ---
 
-It is called "weak notes" as a play on words of the popular [Government](https://gds.blog.gov.uk/tag/week-notes-2/) Digital Service era [week](https://promo.cymru/resource-articles/weeknotes/) [notes](https://weeknot.es) [blogging](https://neilojwilliams.net/about/week-notes/) [style](https://jordanh.net/gds.html) about [working in the open by default](https://digitalbydefault.com/2025/07/14/make-things-open-reading-list/)]- due to the likelihood, posting will be inconsistent, irregular, and having worked adjacent to but not in Government for 14 years.
+This website is named "weak notes" as a play on words of the popular [Government](https://gds.blog.gov.uk/tag/week-notes-2/) Digital Service era [week](https://promo.cymru/resource-articles/weeknotes/) [notes](https://weeknot.es) [blogging](https://neilojwilliams.net/about/week-notes/) [style](https://jordanh.net/gds.html) about [working in the open by default](https://digitalbydefault.com/2025/07/14/make-things-open-reading-list/)- due to the likelihood, posting will be inconsistent, irregular, and having worked adjacent to, but not in, Government for 14 years.
 
 ![Banner photo - Running in Fulham, London, UK. November 2018. A 10km race by Adidas City Runs campaign where all entrants we sent a T shirt to keep and wear with their badge number on. Chip time was 47.22](/images/gh-header-image-cropped.jpg)
 

@@ -1,0 +1,14 @@
+{% include header.html %}
+{% assign type = page.type | default: page.type %}
+<h1 class="post-title">{{ page.title }}</h1>
+<p class="marker"><b>{{ site.data[type] | size }}</b> cards.</p>
+
+{{content}}
+
+{% assign sorted = site.data[type] | sort %}
+<ul id="{{ type }}">
+    {% for item in sorted %}
+    <li>{{item}}</li>
+    {% endfor %}
+</ul>
+{% include footer.html %}
