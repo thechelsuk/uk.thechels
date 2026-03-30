@@ -103,6 +103,8 @@ navigation_data:
     title: "Podcasts"
   - link: "/blogroll"
     title: "Blogroll"
+  - link: "/slogans"
+    title: "Slogans"
   - link: "/films"
     title: "Films"
   - link: "/constraints"
