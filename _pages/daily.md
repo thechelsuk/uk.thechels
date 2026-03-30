@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-03-29
+date: 2026-03-30
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,14 +11,14 @@ date: 2026-03-29
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Sunday, 29 March 2026
+## On Monday, 30 March 2026
 
-- The average temperature today is 6.37˚C,
-- With highs of 7.19˚C and lows of 5.47˚C,
-- It may feel like 3.77˚C with clear sky
-- The wind speed is 3.6m/s and visibility is 10000m
-- The pressure is 1029hPa and humidity is 78%
-- The sun will rise at 05:50 and set at 18:35
+- The average temperature today is 8.98˚C,
+- With highs of 9.73˚C and lows of 7.94˚C,
+- It may feel like 6.47˚C with broken clouds
+- The wind speed is 4.63m/s and visibility is 10000m
+- The pressure is 1025hPa and humidity is 78%
+- The sun will rise at 05:48 and set at 18:37
 
 <!-- weather_marker ends -->
 
@@ -26,20 +26,21 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 754 days since the last change (2024-03-05)
+- It has been 755 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Seek the best.
+> Focus on user needs.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -52,32 +53,32 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 119.0199966430664 
-- ^FTSE : 9967.400390625 
-- ^FTMC : 20964.80078125 
+- VWRL.L : 119.44999694824219 
+- ^FTSE : 10031.1904296875 
+- ^FTMC : 20875.0 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> Our Sat Nav is so smart, we were driving through a safari park the other day and it said bear left.
+> The balloon industry has flattened too, due to the cost of inflation.
 <!-- jokes_marker ends -->
 
 
 ### Team News
 <!-- news_marker starts -->
 
+- The Daily Hilario: Monday
+- Malo Gusto kicks his feet up; Pedro Neto gets his blood pressure up
+- Chelsea FCW 4-3 Aston Villa WFC, Women’s Super League: Post-match reaction
+- Chelsea FCW vs. Aston Villa WFC, Women’s Super League: Confirmed lineups; how to watch
+- The Daily Hilario: Sunday
 - Malo Gusto: Chelsea ‘have to believe’ in head coach Liam Rosenior
 - The Daily Hilario: Saturday
 - Enzo Fernández scores in Argentina win
 - Official: San Diego Wave sign Catarina Macario from Chelsea FCW
 - The Daily Hilario: Friday
-- Andrey Santos, Malo Gusto start for Brazil, France in friendly
-- The Daily Hilario: Thursday
-- Liam Rosenior secure unless Chelsea ‘implode’ over final weeks of season — report
-- The Daily Hilario: Wednesday
-- All Moisés Caicedo wants is to become a Chelsea legend
 
 <!-- news_marker ends -->
 
@@ -85,14 +86,14 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- ftnews_marker starts -->
 
-- UK risks losing defence tech start-ups to relocation amid funding delays
-- The last bridge left to ancient Tyre
-- Houthi missile attack signals ‘serious’ escalation in Iran war
-- Iran activates its ‘resistance economy’ to survive the war
-- The hunger for ‘content’ is keeping us culturally stuck
-- The surprising science of quitting
-- Americans take to streets in ‘No Kings’ day protests against Trump
-- Support for JD Vance slips in straw poll of Republican candidates in 2028
+- Trump says US could ‘take the oil in Iran’
+- Oil rises above $116 as Trump stokes fears of protracted conflict
+- TotalEnergies made bumper profit on Middle East oil bet
+- Private capital: what are the risks?
+- What to do when the ‘public good’ of information goes bad
+- America’s gig economy
+- Insurers give Emirates ‘outrageously’ cheap war insurance cover
+- The lords and alleged lawbreakers among MFS’s eclectic borrowers
 
 <!-- ftnews_marker ends -->
 
@@ -100,41 +101,41 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > turpitude - noun: Depravity or baseness, or an instance of this.
+ > pandiculate - verb intr.: To stretch oneself.
 
 <!-- word_marker ends -->
 
 ### Quote of the Day
 <!-- quote_marker starts -->
 
-> To achieve great things, two things are needed: a plan, and not quite enough time. - Leonard Bernstein
+> Agile is all about teams working together to produce great software. As an Agile coach, you can help your team go from first steps to running with Agile to unleashing their full Agile potential. - Rachel Davies and Liz Sedley, Agile Trainers and Authors
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Remember those quiet evenings
+> Mute and continue
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- O Brother, Where Art Thou? (Rated: 3)
-- Released in 2000
-- Summary: In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.
+- Knight And Day (Rated: 2)
+- Released in 2010
+- Summary: A young woman gets mixed up with a disgraced spy who is trying to clear his name.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 <!-- game_marker starts -->
 
-- Target: 216, using [1, 5, 8, 9, 10, 50]
-- Answer: 28 solutions.
+- Target: 719, using [1, 2, 2, 8, 9, 100]
+- Answer: 5 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 + 1 - 10 - 9 - 5 ) x 8
+  Solution: ( 100 - 2 / 2 - 9 ) x 8 - 1
 
    </details>
 
@@ -142,9 +143,9 @@ _Good Morning, Here is your daily briefing..._
 
 ### 5 Random Blogroll Links
 <!-- blogroll_marker starts -->
-- Farnham Street [URL](https://fs.blog/) [Feed](https://www.farnamstreetblog.com/feed/)
-- Rosemary Orchard [URL](https://rosemaryorchard.com/) [Feed](https://rosemaryorchard.com/category/blog/feed)
-- Jon Shamir [URL](https://jonshamir.com/) [Feed](https://jonshamir.com/rss.xml)
-- Matthew Cassinelli [URL](https://matthewcassinelli.com/) [Feed](https://matthewcassinelli.com/feed/)
-- Matt Mullenweg [URL](https://ma.tt/) [Feed](https://ma.tt/feed/)
+- DBlock by Daniel Doubrovkine [URL](https://code.dblock.org/) [Feed](https://code.dblock.org/feed.xml)
+- ollicle.com [URL](https://ollicle.com/) [Feed](https://ollicle.com/feed.xml)
+- Basic Apple Guy [URL](https://basicappleguy.com/) [Feed](https://www.basicappleguy.com/basicappleblog?format=rss)
+- Non-zero Sum [URL](https://nonzerosum.games/) [Feed](https://nonzerosum.games/rss.xml)
+- Inessential.com [URL](https://inessential.com/) [Feed](http://inessential.com/xml/rss.xml)
 <!-- blogroll_marker ends -->
