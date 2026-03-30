@@ -78,11 +78,10 @@ def main():
                        f'title: "RSS Favourites Digest: {month_year}"\n'
                        f"date: {now.strftime('%Y-%m-%d')}\n"
                        'layout: post\n'
-                       'categories: [digest, netnewswire]\n'
+                       'tags: [digest]\n'
                        '---\n\n')
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             f.write(frontmatter)
-            f.write(f'# RSS Favourited Articles Digest — {month_year}\n\n')
             for tld in sorted(domain_groups.keys()):
                 f.write(f'## {tld}\n\n')
                 for safe_title, safe_url in domain_groups[tld]:
