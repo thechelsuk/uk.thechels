@@ -2,7 +2,7 @@
 
 title : Software Bill of Materials (SBOM)
 layout: page
-date: 2026-03-17
+date: 2026-03-30
 robots: noindex, nofollow
 permalink: /SBOM
 seo: Software Bill of Materials (SBOM) for thechelsuk website
@@ -10,7 +10,9 @@ seo: Software Bill of Materials (SBOM) for thechelsuk website
 
 ## Overview
 
-This document lists all software dependencies used in the thechelsuk website, including both Ruby gems for Jekyll and Python packages for utility scripts.
+This document lists all software dependencies used on this website, including both Ruby gems for Jekyll and Python packages for utility scripts.
+
+Last updated: 2026-03-30
 
 ## Ruby Gems (Jekyll Dependencies)
 
@@ -179,10 +181,4 @@ All dependencies are managed through their respective package managers and shoul
 - `bundle audit` for Ruby gem security checking
 - `pip-audit` for Python package security checking (recommended)
 
-## License Information
 
-This SBOM is provided for transparency. Individual packages maintain their own licenses. Please refer to each package's documentation for specific license terms.
-
----
-
-*This SBOM was automatically generated on 2026-03-17 using the project's dependency files.*
