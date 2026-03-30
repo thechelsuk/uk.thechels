@@ -527,6 +527,14 @@ div:has(> pre:only-child > code:only-child) {
         transform: translateY(-50%);
         font-size: 1rem;
     }
+
+    pre {
+        white-space: pre-wrap;
+        word-break: break-word;
+        overflow-x: auto;
+        box-sizing: border-box;
+        max-width: 100%;
+    }
 }
 
 blockquote {
