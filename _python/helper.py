@@ -12,8 +12,20 @@ from bs4 import BeautifulSoup
 import pathlib
 import yaml
 
-
 # methods
+def time_ago(published_parsed):
+            published_date = datetime(*published_parsed[:6])
+            now = datetime.now()
+            diff = now - published_date
+            if diff.days > 0:
+                return f"{diff.days} days ago"
+            elif diff.seconds > 3600:
+                return f"{diff.seconds // 3600} hours ago"
+            elif diff.seconds > 60:
+                return f"{diff.seconds // 60} minutes ago"
+            else:
+                return "just now"
+
 def add_suffix(day) -> str:
     if 4 <= day <= 20 or 24 <= day <= 30:
         suffix = "th"
