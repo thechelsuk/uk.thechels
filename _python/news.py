@@ -3,12 +3,10 @@ import pathlib
 import helper
 
 # Step 1: Define feeds with icons
-FEEDS = [
-    ("https://www.ft.com/?format=rss", "£"),
-    ("https://www.euronews.com/rss?", "€"),
-    ("https://www.theregister.com/headlines.atom", "®"),
-    ("https://weaintgotnohistory.sbnation.com/rss/current.xml", "♣")
-]
+FEEDS = [("https://www.ft.com/?format=rss", "£"),
+         ("https://www.euronews.com/rss?", "€"),
+         ("https://www.theregister.com/headlines.atom", "®"),
+         ("https://weaintgotnohistory.sbnation.com/rss/current.xml", "♣")]
 
 TIME_DELTA_DAYS = 2
 
@@ -30,8 +28,12 @@ if __name__ == "__main__":
         for item in all_items:
             item["published"] = helper.time_ago(item["published_parsed"])
 
-        cutoff_date = helper.datetime.now() - helper.timedelta(days=TIME_DELTA_DAYS)
-        all_items = [item for item in all_items if helper.datetime(*item["published_parsed"][:6]) > cutoff_date]
+        cutoff_date = helper.datetime.now() - helper.timedelta(
+            days=TIME_DELTA_DAYS)
+        all_items = [
+            item for item in all_items
+            if helper.datetime(*item["published_parsed"][:6]) > cutoff_date
+        ]
 
         string = ""
         for item in all_items:
