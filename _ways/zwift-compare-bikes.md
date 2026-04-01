@@ -3,13 +3,14 @@ layout: post
 title: How to compare bikes in Zwift
 seo: Ways - How to compare bikes in Zwift
 tag: ways
+permalink: /ways/compare-zwift-bikes
 link: https://zwifterbikes.web.app/
 cited: Zwifter Bikes
 date: 2026-03-01
 
 ---
 
-___This website alllows you to find the best bike for the route you want to ride, and compare the stats of different bikes.___
+___This website allows you to find the best bike for the route you want to ride, and compare the stats of different bikes.___
 
 1. Go to website
 2. Use the filters to find the bikes you want to compare.
