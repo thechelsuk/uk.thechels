@@ -4,6 +4,7 @@ import helper
 import pytest
 from datetime import datetime, timedelta
 import pathlib
+from types import SimpleNamespace
 import yaml
 from unittest.mock import patch, mock_open
 
@@ -55,6 +56,203 @@ class TestHelper:
         films = helper.load_film_file(helper.OUTPUT_FILE)
         assert len(films) == 2, "There should be two films in the list"
         assert films[-1]["Imdb"] == "tt7654321", "The new film should be added"
+
+    @pytest.fixture
+    def setup_video_test_file(self):
+        test_file = pathlib.Path("./_data/test_videos.yml")
+        test_file.write_text(
+            """
+- id: abc123
+  title: Existing Video
+  link: https://www.youtube.com/watch?v=abc123
+  published: '2025-12-01'
+  views: 10
+  rating_average: 5
+  rating_count: 1
+  source: youtube-feed
+""".strip()
+        )
+        yield test_file
+        if test_file.exists():
+            test_file.unlink()
+
+    def test_parse_published_with_iso_timestamp(self):
+        published = helper.parse_published("2025-12-27T20:14:48+00:00")
+        assert published.year == 2025
+        assert published.month == 12
+        assert published.day == 27
+
+    def test_parse_published_with_plain_date(self):
+        published = helper.parse_published("2025-12-27")
+        assert published.year == 2025
+        assert published.month == 12
+        assert published.day == 27
+
+    def test_normalise_date(self):
+        assert helper.normalise_date("2025-12-27T20:14:48+00:00") == "2025-12-27"
+        assert helper.normalise_date("") == ""
+
+    def test_normalise_rating_integer(self):
+        assert helper.normalise_rating("5.00") == 5
+
+    def test_normalise_rating_decimal(self):
+        assert helper.normalise_rating("4.89") == 4.89
+        assert helper.normalise_rating(None) is None
+
+    def test_build_video_entry(self):
+        item = {
+            "yt_videoid": "abc123",
+            "title": "Test | Video",
+            "link": "https://www.youtube.com/watch?v=abc123",
+            "published": "2025-12-27T20:14:48+00:00",
+            "media_statistics": {"views": "289"},
+            "media_starrating": {"average": "5.00", "count": "3"},
+        }
+
+        video = helper.build_video_entry(item)
+        assert video == {
+            "id": "abc123",
+            "title": "Test  Video",
+            "link": "https://www.youtube.com/watch?v=abc123",
+            "published": "2025-12-27",
+            "views": 289,
+            "rating_average": 5,
+            "rating_count": 3,
+            "source": "youtube-feed",
+        }
+
+    def test_build_video_entry_without_video_id_returns_none(self):
+        item = {
+            "title": "No Id Video",
+            "link": "https://www.youtube.com/watch?v=abc123",
+        }
+        assert helper.build_video_entry(item) is None
+
+    def test_build_video_entry_without_ratings_sets_none(self):
+        item = {
+            "yt_videoid": "abc123",
+            "title": "Test Video",
+            "link": "https://www.youtube.com/watch?v=abc123",
+            "published": "2025-12-27T20:14:48+00:00",
+            "media_statistics": {"views": "289"},
+            "media_starrating": {"average": "0.00", "count": "0"},
+        }
+
+        video = helper.build_video_entry(item)
+        assert video["rating_average"] is None
+        assert video["rating_count"] == 0
+
+    def test_load_videos_file(self, setup_video_test_file):
+        videos = helper.load_videos_file(setup_video_test_file)
+        assert len(videos) == 1
+        assert videos[0]["id"] == "abc123"
+        assert videos[0]["title"] == "Existing Video"
+
+    def test_load_videos_file_missing_file_returns_empty_list(self):
+        missing_file = pathlib.Path("./_data/does-not-exist.yml")
+        assert helper.load_videos_file(missing_file) == []
+
+    def test_save_videos_round_trip(self, setup_video_test_file):
+        videos = [{
+            "id": "xyz789",
+            "title": "Saved Video",
+            "link": "https://www.youtube.com/watch?v=xyz789",
+            "published": "2025-12-28",
+            "views": 5,
+            "rating_average": 4.5,
+            "rating_count": 2,
+            "source": "manual",
+        }]
+        helper.save_videos(setup_video_test_file, videos)
+        loaded = helper.load_videos_file(setup_video_test_file)
+        assert loaded[0]["id"] == "xyz789"
+        assert loaded[0]["source"] == "manual"
+
+    def test_merge_videos_updates_existing_entry(self):
+        existing = [{
+            "id": "abc123",
+            "title": "Old Title",
+            "link": "https://www.youtube.com/watch?v=abc123",
+            "published": "2025-12-01",
+            "views": 10,
+            "rating_average": 5,
+            "rating_count": 1,
+            "source": "youtube-feed",
+        }]
+        fetched = [{
+            "id": "abc123",
+            "title": "New Title",
+            "link": "https://www.youtube.com/watch?v=abc123",
+            "published": "2025-12-02",
+            "views": 20,
+            "rating_average": 4.89,
+            "rating_count": 3,
+            "source": "youtube-feed",
+        }]
+
+        merged = helper.merge_videos(existing, fetched)
+        assert len(merged) == 1
+        assert merged[0]["title"] == "New Title"
+        assert merged[0]["views"] == 20
+        assert merged[0]["rating_average"] == 4.89
+
+    def test_merge_videos_keeps_manual_unmatched_entry(self):
+        existing = [{
+            "id": "manual001",
+            "title": "Manual Video",
+            "link": "https://www.youtube.com/watch?v=manual001",
+            "published": "2025-01-01",
+            "views": None,
+            "rating_average": None,
+            "rating_count": 0,
+            "source": "manual",
+        }]
+        fetched = [{
+            "id": "feed001",
+            "title": "Feed Video",
+            "link": "https://www.youtube.com/watch?v=feed001",
+            "published": "2025-12-02",
+            "views": 20,
+            "rating_average": 5,
+            "rating_count": 3,
+            "source": "youtube-feed",
+        }]
+
+        merged = helper.merge_videos(existing, fetched)
+        assert len(merged) == 2
+        assert any(video["id"] == "manual001" for video in merged)
+        assert merged[0]["id"] == "feed001"
+
+    @patch("feedparser.parse")
+    def test_get_videos_filters_and_sorts(self, mock_parse):
+        mock_parse.return_value = SimpleNamespace(entries=[
+            {
+                "yt_videoid": "older",
+                "title": "Older Video",
+                "link": "https://www.youtube.com/watch?v=older",
+                "published": "2025-01-01T10:00:00+00:00",
+                "media_statistics": {"views": "1"},
+                "media_starrating": {"average": "5.00", "count": "1"},
+            },
+            {
+                "title": "Skip Me",
+                "link": "https://www.youtube.com/watch?v=skipme",
+                "published": "2025-01-03T10:00:00+00:00",
+            },
+            {
+                "yt_videoid": "newer",
+                "title": "Newer Video",
+                "link": "https://www.youtube.com/watch?v=newer",
+                "published": "2025-01-02T10:00:00+00:00",
+                "media_statistics": {"views": "2"},
+                "media_starrating": {"average": "4.89", "count": "2"},
+            },
+        ])
+
+        videos = helper.get_videos("https://example.com/feed")
+        assert len(videos) == 2
+        assert videos[0]["id"] == "newer"
+        assert videos[1]["id"] == "older"
 
     @patch('requests.get')
     def test_get_film_data(self, mock_get):

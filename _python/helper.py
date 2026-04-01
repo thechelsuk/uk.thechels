@@ -3,6 +3,7 @@ import json
 import random
 import re
 from datetime import datetime, timedelta
+from typing import Any
 import feedparser
 from yahoo_fin import stock_info as si
 import yfinance as yf
@@ -11,6 +12,11 @@ import requests
 from bs4 import BeautifulSoup
 import pathlib
 import yaml
+from ruamel.yaml import YAML as RuamelYAML
+
+
+videos_yaml = RuamelYAML()
+videos_yaml.default_flow_style = False
 
 
 # methods
@@ -428,3 +434,99 @@ def FileProcessorPicksRandomObjects(OF, IF, KEY, count=3) -> str:
         return f"{KEY} completed"
     except FileNotFoundError:
         return ("File does not exist, unable to proceed")
+
+
+def parse_published(value: str) -> datetime:
+    try:
+        return datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError:
+        return datetime.strptime(value[:10], "%Y-%m-%d")
+
+
+def load_videos_file(file_path: pathlib.Path) -> list[dict[str, Any]]:
+    if not file_path.exists():
+        return []
+    with file_path.open("r") as handle:
+        data = videos_yaml.load(handle)
+        return data if isinstance(data, list) else []
+
+
+def save_videos(file_path: pathlib.Path, videos: list[dict[str, Any]]) -> None:
+    with file_path.open("w") as handle:
+        videos_yaml.dump(videos, handle)
+
+
+def normalise_date(value: str) -> str:
+    if not value:
+        return ""
+    return parse_published(value).date().isoformat()
+
+
+def normalise_rating(value: str | None) -> int | float | None:
+    if not value:
+        return None
+
+    rating = float(value)
+    if rating.is_integer():
+        return int(rating)
+    return float(f"{rating:.2f}".rstrip("0").rstrip("."))
+
+
+def build_video_entry(item: Any) -> dict[str, Any] | None:
+    video_id = item.get("yt_videoid", "")
+    if not video_id:
+        return None
+
+    media_statistics = item.get("media_statistics") or {}
+    media_starrating = item.get("media_starrating") or {}
+    rating_count = int(media_starrating.get("count", 0) or 0)
+
+    return {
+        "id": video_id,
+        "title": item.get("title", "").replace("|", "").strip(),
+        "link": item.get("link", ""),
+        "published": normalise_date(item.get("published", "")),
+        "views": int(media_statistics.get("views")) if media_statistics.get("views") else None,
+        "rating_average": normalise_rating(media_starrating.get("average")) if rating_count > 0 else None,
+        "rating_count": rating_count,
+        "source": "youtube-feed",
+    }
+
+
+def get_videos(source: str) -> list[dict[str, Any]]:
+    feed = feedparser.parse(source)
+
+    videos = []
+    for item in feed.entries:
+        video = build_video_entry(item)
+        if video:
+            videos.append(video)
+
+    videos.sort(
+        key=lambda item: parse_published(item["published"]) if item["published"] else datetime.min,
+        reverse=True,
+    )
+    return videos
+
+
+def merge_videos(existing: list[dict[str, Any]], fetched: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    videos_by_id = {
+        str(video.get("id")): video
+        for video in existing
+        if isinstance(video, dict) and video.get("id")
+    }
+
+    for fetched_video in fetched:
+        existing_video = videos_by_id.get(str(fetched_video["id"]))
+        if existing_video:
+            for key, value in fetched_video.items():
+                existing_video[key] = value
+        else:
+            existing.append(fetched_video)
+            videos_by_id[str(fetched_video["id"])] = fetched_video
+
+    existing.sort(
+        key=lambda item: parse_published(item.get("published", "")) if item.get("published") else datetime.min,
+        reverse=True,
+    )
+    return existing

@@ -109,6 +109,8 @@ navigation_data:
     title: "Films"
   - link: "/constraints"
     title: "Constraints"
+  - link: "/videos"
+    title: "Videos"
   - link: "/sitemap"
     title: "Sitemap (xml)"
 
@@ -158,8 +160,6 @@ navigation_slashes:
     title: "Uses"
   - link: "/verify"
     title: "Verify"
-  - link: "/videos"
-    title: "Videos"
   - link: "/ways"
     title: "Ways"
   - link: "/indieweb.txt"
