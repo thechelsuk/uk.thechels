@@ -20,9 +20,10 @@ Important Notes:
 ## Primary entry points (canonical)
 
     - https://thechels.uk
-    - https://thechels.uk/feed.xml
+    - https://thechels.uk/feed.xml (all posts and quote/linked posts)
     - https://thechels.uk/feed.json
     - https://thechels.uk/films.xml
+    - https://thechels.uk/posts.xml (posts only feed, no quote/linked posts)
     - https://thechels.uk/rss.xml (Rss only feed)
     - https://thechels.uk/daily.xml (Daily briefing)
 

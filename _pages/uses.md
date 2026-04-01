@@ -8,7 +8,7 @@ seo: A list of my favourite technology
 ## Desk and Devices
 
 - iPhone 15 Pro.
-- iPhone 12 Pro. 
+- iPhone 12 Pro.
 - iPad Pro 11 inch - 4th generation, with Apple Pencil, Magic Keyboard.
 - M4 Mac Mini
   - Logitech MX Master 3 Wireless Mouse,
