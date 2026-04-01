@@ -3,7 +3,7 @@ layout: videos
 title: Video Archive
 seo: Video Archive
 tag: videos
-permalink: /videos/
+permalink: /videos
 
 ---
 
