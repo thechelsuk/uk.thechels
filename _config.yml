@@ -158,6 +158,8 @@ navigation_slashes:
     title: "Uses"
   - link: "/verify"
     title: "Verify"
+  - link: "/videos"
+    title: "Videos"
   - link: "/ways"
     title: "Ways"
   - link: "/indieweb.txt"
