@@ -3,7 +3,7 @@ layout: post
 title: How to create various data types for thechelsuk
 seo: Ways - create data types for thechelsuk
 tag: ways
-permalink: /ways/create-data-types-for-thechelsuk/
+permalink: /ways/create-data-types-for-thechelsuk
 date: 2026-03-01
 
 ---

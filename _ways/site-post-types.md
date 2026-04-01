@@ -3,7 +3,7 @@ layout: post
 title: How to create various post types for thechelsuk
 seo: Ways - create post types for thechelsuk
 tag: ways
-permalink: /ways/create-post-types-for-thechelsuk/
+permalink: /ways/create-post-types-for-thechelsuk
 date: 2026-03-01
 
 ---

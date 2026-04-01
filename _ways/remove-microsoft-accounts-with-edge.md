@@ -3,7 +3,7 @@ layout: post
 title: How to remove Microsoft accounts with Edge
 seo: Ways - How to remove Microsoft accounts with Edge
 tag: ways
-permalink: /ways/remove-microsoft-accounts-with-edge/
+permalink: /ways/remove-microsoft-accounts-with-edge
 link: edge://signin-internals/
 cited: Microsoft Edge
 date: 2026-03-01

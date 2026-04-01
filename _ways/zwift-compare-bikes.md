@@ -3,7 +3,6 @@ layout: post
 title: How to compare bikes in Zwift
 seo: Ways - How to compare bikes in Zwift
 tag: ways
-permalink: /ways/compare-bikes-in-zwift/
 link: https://zwifterbikes.web.app/
 cited: Zwifter Bikes
 date: 2026-03-01

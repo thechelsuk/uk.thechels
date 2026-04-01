@@ -3,7 +3,7 @@ layout: post
 title: How to rename and redirect a domain on Cloudflare
 seo: Ways - rename and redirect a domain on Cloudflare
 tag: ways
-permalink: /ways/rename-redirect-cloudflare/
+permalink: /ways/rename-redirect-cloudflare
 link: https://average.name/ways/redirect-domain
 cited: Average Name
 date: 2026-03-01
