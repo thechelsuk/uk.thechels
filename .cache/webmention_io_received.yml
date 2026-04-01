@@ -874,3 +874,27 @@
       A review of ME specialist provision on the NHS
       <a href="https://thechels.uk/a-review-of-me-specialist-provision-on-the-nhs">https://thechels.uk/a-review-of-me-specialist-provision-on-the-nhs</a>
 "/finding-an-isbn-in-drafts": {}
+"/disabled-people-face-lower-benefits-if-conditions-like-me-not-deemed-lifelong":
+  '1987736':
+    id: '1987736'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mifx4qkbmh2n
+    source: false
+    pubdate: 2026-04-01 00:00:00.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mifx4qkbmh2n%23bridgy-fed-create-2026-04-01T05:22:33.943420+00:00
+      verified: true
+      verified_date: '2026-04-01T05:22:37+00:00'
+      id: 1987736
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mifx4qkbmh2n
+        name:
+        content: Disabled people face lower benefits if not lifelong (<a href="https://thechels.uk/disabled-people-face-lower-benefits-if-conditions-like-me-not-deemed-lifelong">https://thechels.uk/disabled-people-face-lower-benefits-if-conditions-like-me-not-deemed-lifelong</a>)
+        published: '2026-04-01T00:00:00+00:00'
+        published_ts: 1775001600
+      activity:
+        type: link
+      target: https://thechels.uk/disabled-people-face-lower-benefits-if-conditions-like-me-not-deemed-lifelong
+    author:
+    type: link
+    content: Disabled people face lower benefits if not lifelong (<a href="https://thechels.uk/disabled-people-face-lower-benefits-if-conditions-like-me-not-deemed-lifelong">https://thechels.uk/disabled-people-face-lower-benefits-if-conditions-like-me-not-deemed-lifelong</a>)
