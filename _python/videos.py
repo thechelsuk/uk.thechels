@@ -30,18 +30,24 @@ def get_videos() -> list[dict[str, str | None]]:
 
     videos = []
     for entry in root.findall("atom:entry", NAMESPACES):
-        star_rating = entry.find("media:group/media:community/media:starRating", NAMESPACES)
-        statistics = entry.find("media:group/media:community/media:statistics", NAMESPACES)
-        videos.append(
-            {
-                "title": get_text(entry, "atom:title").replace("|", "").strip(),
-                "link": get_alternate_link(entry),
-                "published": get_text(entry, "atom:published")[:10],
-                "rating_average": star_rating.get("average") if star_rating is not None else None,
-                "rating_count": star_rating.get("count") if star_rating is not None else None,
-                "views": statistics.get("views") if statistics is not None else None,
-            }
-        )
+        star_rating = entry.find(
+            "media:group/media:community/media:starRating", NAMESPACES)
+        statistics = entry.find("media:group/media:community/media:statistics",
+                                NAMESPACES)
+        videos.append({
+            "title":
+            get_text(entry, "atom:title").replace("|", "").strip(),
+            "link":
+            get_alternate_link(entry),
+            "published":
+            get_text(entry, "atom:published")[:10],
+            "rating_average":
+            star_rating.get("average") if star_rating is not None else None,
+            "rating_count":
+            star_rating.get("count") if star_rating is not None else None,
+            "views":
+            statistics.get("views") if statistics is not None else None,
+        })
 
     videos.sort(key=lambda item: item["published"] or "", reverse=True)
     return videos
@@ -56,7 +62,9 @@ def format_meta(video: dict[str, str | None]) -> str:
     if video["rating_average"] and video["rating_count"]:
         rating_count = int(video["rating_count"])
         rating_label = "rating" if rating_count == 1 else "ratings"
-        meta.append(f"{video['rating_average']}/5 from {rating_count:,} {rating_label}")
+        meta.append(
+            f"{video['rating_average']}/5 from {rating_count:,} {rating_label}"
+        )
 
     return " // ".join(part for part in meta if part)
 
