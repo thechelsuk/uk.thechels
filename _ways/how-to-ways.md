@@ -3,7 +3,7 @@ layout: post
 title: How to use ways
 seo: Ways - A guide to using ways
 tag: ways
-permalink: /ways/use-ways/
+permalink: /ways/use-ways
 date: 2026-02-01
 
 ---

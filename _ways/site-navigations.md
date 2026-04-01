@@ -3,7 +3,7 @@ layout: post
 title: How to create navigation for thechelsuk
 seo: Ways - create navigation for thechelsuk
 tag: ways
-permalink: /ways/create-navigation-for-thechelsuk/
+permalink: /ways/create-navigation-for-thechelsuk
 date: 2026-03-01
 
 ---

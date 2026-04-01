@@ -3,7 +3,7 @@ layout: post
 title: How to reset Apple TV volume remote
 seo: Ways - How to reset Apple TV volume remote
 tag: ways
-permalink: /ways/reset-apple-tv-volume-remote/
+permalink: /ways/reset-apple-tv-volume-remote
 link: https://support.apple.com/en-gb/HT213437
 cited: Apple Support
 date: 2026-03-01

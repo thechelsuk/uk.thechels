@@ -3,7 +3,7 @@ layout: post
 title: How to manage your Google third-party app connections
 seo: Ways - Google third-party app connections
 tag: ways
-permalink: /ways/google-third-party-app-connections/
+permalink: /ways/google-third-party-app-connections
 link: https://myaccount.google.com/connections?filters=3
 cited: Google
 date: 2026-03-01

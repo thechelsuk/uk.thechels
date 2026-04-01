@@ -3,7 +3,7 @@ layout: post
 title: How to run Jekyll locally
 seo: Ways - run Jekyll locally
 tag: ways
-permalink: /ways/run-jekyll-locally/
+permalink: /ways/run-jekyll-locally
 date: 2026-03-01
 
 ---

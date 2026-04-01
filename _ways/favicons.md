@@ -3,7 +3,7 @@ layout: post
 title: How to do favicons on websites
 seo: Ways - favicons on websites
 tag: ways
-permalink: /ways/favicons-on-websites/
+permalink: /ways/favicons-on-websites
 link: https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs
 cited: Evil Martians
 date: 2026-03-01

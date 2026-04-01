@@ -3,7 +3,7 @@ layout: post
 title: How to spend Zwift Drops
 seo: Ways - How to spend Zwift Drops
 tag: ways
-permalink: /ways/spend-zwift-drops/
+permalink: /ways/spend-zwift-drops
 link: https://zwiftinsider.com/what-to-buy-at-each-zwift-level/
 cited: Zwift Insider
 date: 2026-03-01

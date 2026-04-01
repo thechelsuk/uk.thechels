@@ -3,7 +3,7 @@ layout: post
 title: How to watch NWSL games on TV
 seo: Ways - How to watch NWSL games on TV
 tag: ways
-permalink: /ways/watch-nwsl-games-on-tv/
+permalink: /ways/watch-nwsl-games-on-tv
 link: https://plus.nwslsoccer.com/
 cited: NWSL
 date: 2026-03-01
@@ -22,4 +22,3 @@ ___Note: Account seems to support multiple logins and no limits on "active" so i
 
 1. Go to NWSL App and sign in using your account.
 2. Pick Game
- 
