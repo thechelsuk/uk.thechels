@@ -7,6 +7,7 @@ import helper
 
 SOURCE = "https://www.youtube.com/feeds/videos.xml?channel_id=UCwK4oZ8hw9RS6tZKEjw_qLw"
 
+
 def get_embed_url(link: str) -> str:
     parsed = urlparse(link)
 
@@ -53,8 +54,7 @@ if __name__ == "__main__":
                 f"  <iframe width=\"100%\" height=\"315\" src=\"{embed_url}\" title=\"{escaped_title}\" "
                 "loading=\"lazy\" referrerpolicy=\"strict-origin-when-cross-origin\" "
                 "allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n"
-                "</div>\n\n"
-            )
+                "</div>\n\n")
 
         f = root / "_layouts/videos.html"
         m = f.open().read()
