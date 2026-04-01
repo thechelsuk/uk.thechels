@@ -8,4 +8,4 @@ date: 2026-01-01
 
 ---
 
-A list of posts that are related to statistics.
+A list of posts that are related to football statistics.
