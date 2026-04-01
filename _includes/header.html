@@ -66,7 +66,8 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Film Reviews"
       href="{{ site.url }}/films.xml">
 
-    {% if page.layout == 'post' %}
+    {% assign is_markdown_enabled = page.layout == 'post' and (page.collection == 'posts' or page.collection == 'ways') %}
+    {% if is_markdown_enabled %}
     <link href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md" type="text/markdown"
       rel="alternate" title="Markdown">
     {% endif %}

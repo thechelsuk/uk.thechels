@@ -11,12 +11,14 @@
     {% for item in site.navigation_footer %}
     <li><a href="{{item.link}}">{{item.title}}</a></li>
     {% endfor %}
-    {% unless page.url == "/" %}
-    <li><a href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md">Markdown (md)</a></li>
-    {% endunless %}
+    {% assign is_markdown_enabled = page.layout == 'post' and (page.collection == 'posts' or page.collection == 'ways') %}
+    {% if is_markdown_enabled %}
+    <li><a href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md">View as MD</a></li>
+    {% endif %}
   </ul>
   <p class="footer-avatar">
-    <a href="/about"><img src="{{ site.owner.avatar }}" alt="{{ site.owner.name }} generated avatar on white background" class="footer-avatar"></a>
+    <a href="/about"><img src="{{ site.owner.avatar }}" alt="{{ site.owner.name }} generated avatar on white background"
+        class="footer-avatar"></a>
   </p>
 </footer>
 </div>
