@@ -7,4 +7,4 @@ permalink: /videos
 
 ---
 
-A list of Videos published on YouTube.
+A list of videos and shorts published on YouTube.

@@ -66,10 +66,11 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Film Reviews"
       href="{{ site.url }}/films.xml">
 
-    {% assign is_markdown_enabled = page.layout == 'post' and (page.collection == 'posts' or page.collection == 'ways') %}
-    {% if is_markdown_enabled %}
+    {% if page.layout == 'post' %}
+    {% if page.collection == 'posts' or page.collection == 'ways' %}
     <link href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md" type="text/markdown"
       rel="alternate" title="Markdown">
+    {% endif %}
     {% endif %}
 
     {% webmentions_head %}
