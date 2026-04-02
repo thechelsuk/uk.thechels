@@ -11,9 +11,10 @@
     {% for item in site.navigation_footer %}
     <li><a href="{{item.link}}">{{item.title}}</a></li>
     {% endfor %}
-    {% assign is_markdown_enabled = page.layout == 'post' and (page.collection == 'posts' or page.collection == 'ways') %}
-    {% if is_markdown_enabled %}
+    {% if page.layout == 'post' %}
+    {% if page.collection == 'posts' or page.collection == 'ways' %}
     <li><a href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md">View as MD</a></li>
+    {% endif %}
     {% endif %}
   </ul>
   <p class="footer-avatar">
