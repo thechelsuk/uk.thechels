@@ -6,6 +6,7 @@ from datetime import datetime, timedelta
 import pathlib
 from types import SimpleNamespace
 import yaml
+from requests.exceptions import JSONDecodeError
 from unittest.mock import patch, mock_open
 
 
@@ -85,6 +86,10 @@ class TestHelper:
         assert published.year == 2025
         assert published.month == 12
         assert published.day == 27
+
+    def test_parse_published_invalid_format_raises(self):
+        with pytest.raises(ValueError):
+            helper.parse_published("not-a-date")
 
     def test_normalise_date(self):
         assert helper.normalise_date(
@@ -272,6 +277,95 @@ class TestHelper:
         assert len(videos) == 2
         assert videos[0]["id"] == "newer"
         assert videos[1]["id"] == "older"
+
+    @patch('helper.si.get_live_price')
+    def test_get_si_stocks_json_decode_error(self, mock_get_live_price):
+        mock_get_live_price.side_effect = JSONDecodeError("msg", "doc", 0)
+        result = helper.get_si_stocks(["ABC"])
+        assert result == "- ABC : Error fetching data\n"
+
+    @patch('helper.si.get_live_price')
+    def test_get_si_stocks_generic_exception(self, mock_get_live_price):
+        mock_get_live_price.side_effect = RuntimeError("boom")
+        result = helper.get_si_stocks(["ABC"])
+        assert result == "- ABC : Error fetching data\n"
+
+    def test_read_yaml_objects_valid_list(self, setup_video_test_file):
+        result = helper.read_yaml_objects(setup_video_test_file)
+        assert isinstance(result, list)
+        assert result[0]["id"] == "abc123"
+
+    def test_read_yaml_objects_not_list_raises(self):
+        test_file = pathlib.Path("./_data/test_videos_not_list.yml")
+        test_file.write_text("title: not-a-list\n")
+        try:
+            with pytest.raises(ValueError):
+                helper.read_yaml_objects(test_file)
+        finally:
+            test_file.unlink()
+
+    @patch('random.sample')
+    def test_FileProcessorPicksRandomObjects_success(self, mock_sample):
+        items = [{
+            "title": "Item 1",
+            "htmlUrl": "https://example.com/1",
+            "xmlUrl": "https://example.com/1.xml"
+        }, {
+            "title": "Item 2",
+            "htmlUrl": "https://example.com/2",
+            "xmlUrl": "https://example.com/2.xml"
+        }]
+        mock_sample.return_value = items
+        m = mock_open(read_data=yaml.dump(items))
+        output_file = pathlib.Path('output.md')
+        input_source = pathlib.Path('input.yml')
+        key = 'blogroll_marker'
+        expected = "- Item 1 [URL](https://example.com/1) [Feed](https://example.com/1.xml)\n- Item 2 [URL](https://example.com/2) [Feed](https://example.com/2.xml)"
+        with patch('pathlib.Path.open', m):
+            with patch('helper.replace_chunk', side_effect=lambda s, k, n: helper.format_marker_chunk(k, n)):
+                result = helper.FileProcessorPicksRandomObjects(output_file, input_source, key, count=2)
+                handle = m()
+                handle.write.assert_called_once_with(helper.format_marker_chunk(key, expected))
+                assert result == f"{key} completed"
+
+    def test_FileProcessorPicksRandomObjects_uses_defaults_for_missing_attributes(self):
+        items = [{"title": "Only Title"}]
+        m = mock_open(read_data=yaml.dump(items))
+        output_file = pathlib.Path('output.md')
+        input_source = pathlib.Path('input.yml')
+        key = 'blogroll_marker'
+        expected = "- Only Title [URL](#) [Feed](#)"
+        with patch('pathlib.Path.open', m):
+            with patch('helper.replace_chunk', side_effect=lambda s, k, n: helper.format_marker_chunk(k, n)):
+                result = helper.FileProcessorPicksRandomObjects(output_file, input_source, key, count=3)
+                handle = m()
+                handle.write.assert_called_once_with(helper.format_marker_chunk(key, expected))
+                assert result == f"{key} completed"
+
+    @patch('feedparser.parse')
+    def test_fetch_cfc_entries_returns_entries(self, mock_parse):
+        mock_parse.return_value = {
+            "entries": [{
+                "description": "Title | With Pipe",
+                "link": "https://example.com/post#fragment",
+                "published": "Sat, 04 Jun 2022 11:00:00 -0000"
+            }]
+        }
+        result = helper.fetch_cfc_entries("https://example.com/feed")
+        assert result == [{
+            "title": "Title - With Pipe",
+            "url": "https://example.com/post",
+            "published": "04 Jun"
+        }]
+
+    @patch('feedparser.parse')
+    def test_fetch_cfc_entries_empty_feed(self, mock_parse):
+        mock_parse.return_value = {"entries": []}
+        assert helper.fetch_cfc_entries("https://example.com/feed") == []
+
+    def test_convert_cfc_date_invalid_format_raises(self):
+        with pytest.raises(ValueError):
+            helper.convert_cfc_date("2022-06-04")
 
     @patch('requests.get')
     def test_get_film_data(self, mock_get):
@@ -522,25 +616,55 @@ class TestHelper:
         fixtures = helper.get_fixtures(link)
         assert fixtures == "- No Fixtures"
 
+    @patch('requests.get')
+    def test_get_fixtures_multiple_matches(self, mock_get):
+        mock_response = mock_get.return_value
+        today = helper.format_date(datetime.now())
+        tomorrow = helper.format_date(datetime.now() + timedelta(days=1))
+        mock_response.text = f"""
+        <html>
+            <body>
+                <div>{today}</div>
+                <div>Team A v Team B</div>
+                <div>Team C v Team D</div>
+                <div>{tomorrow}</div>
+            </body>
+        </html>
+        """
+        fixtures = helper.get_fixtures("http://example.com")
+        assert fixtures == "- Team A v Team B\n- Team C v Team D"
+
+    @patch('requests.get')
+    def test_get_fixtures_date_range_but_no_fixture_lines(self, mock_get):
+        mock_response = mock_get.return_value
+        today = helper.format_date(datetime.now())
+        tomorrow = helper.format_date(datetime.now() + timedelta(days=1))
+        mock_response.text = f"""
+        <html>
+            <body>
+                <div>{today}</div>
+                <div>Training Session</div>
+                <div>Press Conference</div>
+                <div>{tomorrow}</div>
+            </body>
+        </html>
+        """
+        fixtures = helper.get_fixtures("http://example.com")
+        assert fixtures == "- No fixtures found"
+
     @patch('feedparser.parse')
     def test_FeedProcessor(self, mock_parse):
         url = "https://jamesg.blog/oblique-strategies/rss.xml"
         output_file = "test_output.md"
         key = "eno_marker"
-        # Mock feedparser output
         mock_parse.return_value = {"entries": [{"title": "Test Title"}]}
-        # Mock file read/write
         m = mock_open(read_data=helper.format_marker_chunk(key, "old"))
         with patch("pathlib.Path.open", m):
-            # Patch helper.replace_chunk to a known output for assertion
-            with patch("eno.helper.replace_chunk",
-                       side_effect=lambda s, k, n: helper.format_marker_chunk(
-                           k, n)) as mock_replace:
+            with patch("helper.replace_chunk",
+                       side_effect=lambda s, k, n: helper.format_marker_chunk(k, n)):
                 result = helper.FeedProcessor(pathlib.Path(output_file), url,
                                               key)
-                # Check output string
                 assert result == "eno_marker processor completed"
-                # Check file write called with expected content
                 handle = m()
                 handle.write.assert_called_once_with(
                     helper.format_marker_chunk(key, '> Test Title\n'))
@@ -605,29 +729,6 @@ class TestHelper:
                 handle.write.assert_called_once_with(
                     helper.format_marker_chunk(key, '> itemX'))
                 assert result == f"{key} completed"
-
-    @patch('feedparser.parse')
-    def test_FeedProcessor(self, mock_parse):
-        url = "https://jamesg.blog/oblique-strategies/rss.xml"
-        output_file = "test_output.md"
-        key = "eno_marker"
-        # Mock feedparser output
-        mock_parse.return_value = {"entries": [{"title": "Test Title"}]}
-        # Mock file read/write
-        m = mock_open(read_data=helper.format_marker_chunk(key, "old"))
-        with patch("pathlib.Path.open", m):
-            # Patch helper.replace_chunk to a known output for assertion
-            with patch("eno.helper.replace_chunk",
-                       side_effect=lambda s, k, n: helper.format_marker_chunk(
-                           k, n)) as mock_replace:
-                result = helper.FeedProcessor(pathlib.Path(output_file), url,
-                                              key)
-                # Check output string
-                assert result == "eno_marker processor completed"
-                # Check file write called with expected content
-                handle = m()
-                handle.write.assert_called_once_with(
-                    helper.format_marker_chunk(key, '> Test Title\n'))
 
     def test_add_suffix_th(self):
         # 4-20 and 24-30 should be 'th'
@@ -728,6 +829,47 @@ class TestHelper:
         out = "quotes:\n"
         with pytest.raises(ValueError):
             helper.get_random_quote_from_a_list(out, items, 3)
+
+    def test_get_random_items_from_a_list_single(self):
+        items = ["item1"]
+        out = "items:\n"
+        result = helper.get_random_items_from_a_list(out, items, 1)
+        assert result == "items:\n- item1\n"
+
+    def test_get_random_items_from_a_list_multiple(self):
+        items = ["item1", "item2", "item3"]
+        out = "items:\n"
+        result = helper.get_random_items_from_a_list(out, items, 2)
+        assert result.startswith("items:\n")
+        assert result.count("- ") == 2
+
+    def test_get_random_items_from_a_list_zero(self):
+        items = ["item1", "item2"]
+        out = "items:\n"
+        result = helper.get_random_items_from_a_list(out, items, 0)
+        assert result == "items:\n"
+
+    def test_get_random_items_from_a_list_count_too_large(self):
+        items = ["item1", "item2"]
+        out = "items:\n"
+        with pytest.raises(ValueError):
+            helper.get_random_items_from_a_list(out, items, 3)
+
+    def test_time_ago_just_now(self):
+        now = datetime.now()
+        assert helper.time_ago(now.timetuple()[:6]) == "just now"
+
+    def test_time_ago_minutes(self):
+        past = datetime.now() - timedelta(minutes=5)
+        assert helper.time_ago(past.timetuple()[:6]) == "5 minutes ago"
+
+    def test_time_ago_hours(self):
+        past = datetime.now() - timedelta(hours=2)
+        assert helper.time_ago(past.timetuple()[:6]) == "2 hours ago"
+
+    def test_time_ago_days(self):
+        past = datetime.now() - timedelta(days=3)
+        assert helper.time_ago(past.timetuple()[:6]) == "3 days ago"
 
     def test_is_week_one_false(self):
         # Week 2 should return False
