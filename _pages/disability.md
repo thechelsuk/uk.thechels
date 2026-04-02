@@ -87,7 +87,7 @@ There is a blood test, although often inconclusive and can frequently be a false
 - [CDC (US) Diagnostic Criteria](https://www.cdc.gov/me-cfs/hcp/diagnosis/iom-2015-diagnostic-criteria-1.html)
 - [NICE (UK) Diagnostic Criteria](https://www.nice.org.uk/guidance/ng206/chapter/1-Recommendations#diagnosis)
 - [25% ME Group (Scotland)](https://www.25megroup.org/)
-- [Hummingbird's ME Scale](/hummingbirds-me-scale/)
+- [Hummingbird's ME Scale](/hummingbirds-me-scale)
 - [ME Controversies Wikipedia](https://en.wikipedia.org/wiki/Controversies_related_to_ME/CFS)
 
 ### MCAS Resources
