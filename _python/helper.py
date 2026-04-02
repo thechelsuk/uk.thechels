@@ -14,7 +14,6 @@ import pathlib
 import yaml
 from ruamel.yaml import YAML as RuamelYAML
 
-
 videos_yaml = RuamelYAML()
 videos_yaml.default_flow_style = False
 
@@ -482,14 +481,24 @@ def build_video_entry(item: Any) -> dict[str, Any] | None:
     rating_count = int(media_starrating.get("count", 0) or 0)
 
     return {
-        "id": video_id,
-        "title": item.get("title", "").replace("|", "").strip(),
-        "link": item.get("link", ""),
-        "published": normalise_date(item.get("published", "")),
-        "views": int(media_statistics.get("views")) if media_statistics.get("views") else None,
-        "rating_average": normalise_rating(media_starrating.get("average")) if rating_count > 0 else None,
-        "rating_count": rating_count,
-        "source": "youtube-feed",
+        "id":
+        video_id,
+        "title":
+        item.get("title", "").replace("|", "").strip(),
+        "link":
+        item.get("link", ""),
+        "published":
+        normalise_date(item.get("published", "")),
+        "views":
+        int(media_statistics.get("views"))
+        if media_statistics.get("views") else None,
+        "rating_average":
+        normalise_rating(media_starrating.get("average"))
+        if rating_count > 0 else None,
+        "rating_count":
+        rating_count,
+        "source":
+        "youtube-feed",
     }
 
 
@@ -503,17 +512,18 @@ def get_videos(source: str) -> list[dict[str, Any]]:
             videos.append(video)
 
     videos.sort(
-        key=lambda item: parse_published(item["published"]) if item["published"] else datetime.min,
+        key=lambda item: parse_published(item["published"])
+        if item["published"] else datetime.min,
         reverse=True,
     )
     return videos
 
 
-def merge_videos(existing: list[dict[str, Any]], fetched: list[dict[str, Any]]) -> list[dict[str, Any]]:
+def merge_videos(existing: list[dict[str, Any]],
+                 fetched: list[dict[str, Any]]) -> list[dict[str, Any]]:
     videos_by_id = {
         str(video.get("id")): video
-        for video in existing
-        if isinstance(video, dict) and video.get("id")
+        for video in existing if isinstance(video, dict) and video.get("id")
     }
 
     for fetched_video in fetched:
@@ -526,7 +536,8 @@ def merge_videos(existing: list[dict[str, Any]], fetched: list[dict[str, Any]]) 
             videos_by_id[str(fetched_video["id"])] = fetched_video
 
     existing.sort(
-        key=lambda item: parse_published(item.get("published", "")) if item.get("published") else datetime.min,
+        key=lambda item: parse_published(item.get("published", ""))
+        if item.get("published") else datetime.min,
         reverse=True,
     )
     return existing

@@ -60,8 +60,7 @@ class TestHelper:
     @pytest.fixture
     def setup_video_test_file(self):
         test_file = pathlib.Path("./_data/test_videos.yml")
-        test_file.write_text(
-            """
+        test_file.write_text("""
 - id: abc123
   title: Existing Video
   link: https://www.youtube.com/watch?v=abc123
@@ -70,8 +69,7 @@ class TestHelper:
   rating_average: 5
   rating_count: 1
   source: youtube-feed
-""".strip()
-        )
+""".strip())
         yield test_file
         if test_file.exists():
             test_file.unlink()
@@ -89,7 +87,8 @@ class TestHelper:
         assert published.day == 27
 
     def test_normalise_date(self):
-        assert helper.normalise_date("2025-12-27T20:14:48+00:00") == "2025-12-27"
+        assert helper.normalise_date(
+            "2025-12-27T20:14:48+00:00") == "2025-12-27"
         assert helper.normalise_date("") == ""
 
     def test_normalise_rating_integer(self):
@@ -105,8 +104,13 @@ class TestHelper:
             "title": "Test | Video",
             "link": "https://www.youtube.com/watch?v=abc123",
             "published": "2025-12-27T20:14:48+00:00",
-            "media_statistics": {"views": "289"},
-            "media_starrating": {"average": "5.00", "count": "3"},
+            "media_statistics": {
+                "views": "289"
+            },
+            "media_starrating": {
+                "average": "5.00",
+                "count": "3"
+            },
         }
 
         video = helper.build_video_entry(item)
@@ -134,8 +138,13 @@ class TestHelper:
             "title": "Test Video",
             "link": "https://www.youtube.com/watch?v=abc123",
             "published": "2025-12-27T20:14:48+00:00",
-            "media_statistics": {"views": "289"},
-            "media_starrating": {"average": "0.00", "count": "0"},
+            "media_statistics": {
+                "views": "289"
+            },
+            "media_starrating": {
+                "average": "0.00",
+                "count": "0"
+            },
         }
 
         video = helper.build_video_entry(item)
@@ -231,8 +240,13 @@ class TestHelper:
                 "title": "Older Video",
                 "link": "https://www.youtube.com/watch?v=older",
                 "published": "2025-01-01T10:00:00+00:00",
-                "media_statistics": {"views": "1"},
-                "media_starrating": {"average": "5.00", "count": "1"},
+                "media_statistics": {
+                    "views": "1"
+                },
+                "media_starrating": {
+                    "average": "5.00",
+                    "count": "1"
+                },
             },
             {
                 "title": "Skip Me",
@@ -244,8 +258,13 @@ class TestHelper:
                 "title": "Newer Video",
                 "link": "https://www.youtube.com/watch?v=newer",
                 "published": "2025-01-02T10:00:00+00:00",
-                "media_statistics": {"views": "2"},
-                "media_starrating": {"average": "4.89", "count": "2"},
+                "media_statistics": {
+                    "views": "2"
+                },
+                "media_starrating": {
+                    "average": "4.89",
+                    "count": "2"
+                },
             },
         ])
 
