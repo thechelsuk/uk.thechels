@@ -16,3 +16,4 @@ htmlcov/
 .bundle/config
 .coverage
 .coverage.*
+run.sh
