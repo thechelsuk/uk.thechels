@@ -322,13 +322,20 @@ class TestHelper:
         key = 'blogroll_marker'
         expected = "- Item 1 [URL](https://example.com/1) [Feed](https://example.com/1.xml)\n- Item 2 [URL](https://example.com/2) [Feed](https://example.com/2.xml)"
         with patch('pathlib.Path.open', m):
-            with patch('helper.replace_chunk', side_effect=lambda s, k, n: helper.format_marker_chunk(k, n)):
-                result = helper.FileProcessorPicksRandomObjects(output_file, input_source, key, count=2)
+            with patch('helper.replace_chunk',
+                       side_effect=lambda s, k, n: helper.format_marker_chunk(
+                           k, n)):
+                result = helper.FileProcessorPicksRandomObjects(output_file,
+                                                                input_source,
+                                                                key,
+                                                                count=2)
                 handle = m()
-                handle.write.assert_called_once_with(helper.format_marker_chunk(key, expected))
+                handle.write.assert_called_once_with(
+                    helper.format_marker_chunk(key, expected))
                 assert result == f"{key} completed"
 
-    def test_FileProcessorPicksRandomObjects_uses_defaults_for_missing_attributes(self):
+    def test_FileProcessorPicksRandomObjects_uses_defaults_for_missing_attributes(
+            self):
         items = [{"title": "Only Title"}]
         m = mock_open(read_data=yaml.dump(items))
         output_file = pathlib.Path('output.md')
@@ -336,10 +343,16 @@ class TestHelper:
         key = 'blogroll_marker'
         expected = "- Only Title [URL](#) [Feed](#)"
         with patch('pathlib.Path.open', m):
-            with patch('helper.replace_chunk', side_effect=lambda s, k, n: helper.format_marker_chunk(k, n)):
-                result = helper.FileProcessorPicksRandomObjects(output_file, input_source, key, count=3)
+            with patch('helper.replace_chunk',
+                       side_effect=lambda s, k, n: helper.format_marker_chunk(
+                           k, n)):
+                result = helper.FileProcessorPicksRandomObjects(output_file,
+                                                                input_source,
+                                                                key,
+                                                                count=3)
                 handle = m()
-                handle.write.assert_called_once_with(helper.format_marker_chunk(key, expected))
+                handle.write.assert_called_once_with(
+                    helper.format_marker_chunk(key, expected))
                 assert result == f"{key} completed"
 
     @patch('feedparser.parse')
@@ -661,7 +674,8 @@ class TestHelper:
         m = mock_open(read_data=helper.format_marker_chunk(key, "old"))
         with patch("pathlib.Path.open", m):
             with patch("helper.replace_chunk",
-                       side_effect=lambda s, k, n: helper.format_marker_chunk(k, n)):
+                       side_effect=lambda s, k, n: helper.format_marker_chunk(
+                           k, n)):
                 result = helper.FeedProcessor(pathlib.Path(output_file), url,
                                               key)
                 assert result == "eno_marker processor completed"
