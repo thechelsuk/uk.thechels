@@ -188,7 +188,7 @@ navigation_footer:
     title: "Privacy (txt)"
   - link: "/.well-known/security.txt"
     title: "Security (txt)"
-  - link: "/.well-known/change-password/"
+  - link: "/.well-known/change-password"
     title: "Change password"
   - link: "/.well-known/dnt-policy.txt"
     title: "DNT Policy (txt)"
