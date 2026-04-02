@@ -179,7 +179,11 @@ navigation_footer:
     title: "LLMs (txt)"
   - link: "/sitemap.xml"
     title: "Sitemap (xml)"
-
+  - link: "/save"
+    titlr: "Sponsors" 
+    
+  - link: "/accessibility"
+    title: "Accessibility"
   - link: "/humans.txt"
     title: "Humans (txt)"
   - link: "/humans.json"
