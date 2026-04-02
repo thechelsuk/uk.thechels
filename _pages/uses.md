@@ -51,5 +51,9 @@ As well as the usual banking, utility, and home apps for the services I use, plu
 
 - Pepsi Max
 - Baked (Jacket) Potatoes
+- Broccoli
+- Green Beans
+- Roast Parsnips and Potatoes
 - Pink Lady Apples
 - Blueberries
+- Mythos
