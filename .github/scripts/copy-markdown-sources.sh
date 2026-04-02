@@ -2,44 +2,46 @@
 
 set -euo pipefail
 
-front_matter_value() {
-  key="$1"
-  file="$2"
-  sed -n "/^---$/,/^---$/s/^${key}:[[:space:]]*//p" "$file" | head -n 1
-}
+bundle exec ruby <<'RUBY'
+require "fileutils"
+require "jekyll"
+require "pathname"
 
-normalise_permalink() {
-  permalink="$1"
-  printf '%s' "$permalink" | tr -d '"' | tr -d "'" | sed 's#^/##; s#/$##'
-}
+root = Dir.pwd
 
-copy_posts() {
-  find _posts -name "*.md" | while read -r file; do
-    filename=$(basename "$file")
-    slug=$(echo "${filename%.md}" | sed 's/^[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}-//')
-    dest="_site/${slug}.md"
-    mkdir -p "$(dirname "$dest")"
-    cp "$file" "$dest"
-    echo "Copied $file -> $dest"
-  done
-}
+def normalise_output_path(url)
+  path = url.sub(%r{\A/}, "")
+  path = path.sub(%r{/index\z}, "")
+  path.sub(%r{/\z}, "")
+end
 
-copy_ways() {
-  find _ways -name "*.md" | while read -r file; do
-    filename=$(basename "$file")
-    permalink=$(front_matter_value permalink "$file")
-    if [ -n "$permalink" ]; then
-      output_path=$(normalise_permalink "$permalink")
-      [ -z "$output_path" ] && output_path="ways/${filename%.md}"
-      dest="_site/${output_path}.md"
-    else
-      dest="_site/ways/${filename}"
-    fi
-    mkdir -p "$(dirname "$dest")"
-    cp "$file" "$dest"
-    echo "Copied $file -> $dest"
-  done
-}
+site = Jekyll::Site.new(
+  Jekyll.configuration(
+    "source" => root,
+    "destination" => File.join(root, "_site"),
+    "config" => "_config.yml"
+  )
+)
 
-copy_posts
-copy_ways
+site.read
+
+%w[posts ways].each do |label|
+  collection = site.collections[label]
+  next unless collection
+
+  collection.docs.each do |doc|
+    next unless File.extname(doc.path) == ".md"
+
+    output_path = normalise_output_path(doc.url)
+    next if output_path.empty?
+
+    dest = File.join(site.dest, "#{output_path}.md")
+    FileUtils.mkdir_p(File.dirname(dest))
+    FileUtils.cp(doc.path, dest)
+
+    source_path = Pathname.new(doc.path).relative_path_from(Pathname.new(root)).to_s
+    dest_path = Pathname.new(dest).relative_path_from(Pathname.new(root)).to_s
+    puts "Copied #{source_path} -> #{dest_path}"
+  end
+end
+RUBY

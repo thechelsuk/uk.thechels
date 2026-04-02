@@ -111,7 +111,7 @@ There are several optional settings for you to configure. Use the example `_conf
 - Build and serve the site locally:
 
    ```bash
-   bundle exec jekyll build && bundle exec jekyll serve --watch
+  bash run.sh
    ```
 
 - Open your browser and go to `http://localhost:4000` to see your site.
