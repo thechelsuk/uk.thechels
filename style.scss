@@ -754,7 +754,7 @@ table {
 .footer-links {
     column-rule: 1px solid $secondary;
 
-    li:is(:nth-child(6), :nth-child(12)) {
+    li:is(:nth-child(7), :nth-child(14)) {
         break-after: column;
     }
 }
