@@ -4,7 +4,7 @@ layout: post
 date: 2022-05-08
 link: https://lethain.com/should-you-prioritize-infrastructure-costs/
 title: Should you prioritize infrastructure costs
-cited: Will Larson
+cited: Will Larson (Lethain)
 
 ---
 

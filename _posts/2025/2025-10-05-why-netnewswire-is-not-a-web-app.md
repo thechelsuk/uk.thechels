@@ -4,7 +4,7 @@ layout: post
 date: 2025-10-05
 link: https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html
 title: Why NetNewsWire Is Not a Web App
-cited: inessential
+cited: Brent Simmons (inessential.com)
 
 ---
 

@@ -4,7 +4,7 @@ layout: post
 date: 2025-02-15
 link: https://www.takahe.org.nz/heat-death-of-the-internet/
 title: Heat Death of the Internet
-cited: takahē
+cited: Takahē
 
 ---
 

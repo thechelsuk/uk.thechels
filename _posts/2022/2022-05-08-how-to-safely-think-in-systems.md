@@ -4,7 +4,7 @@ layout: post
 date: 2022-05-08
 link: https://lethain.com/how-to-safely-think-in-systems/
 title: How to safely think in systems
-cited: Will Larson
+cited: Will Larson (Lethain)
 
 ---
 

@@ -9,7 +9,7 @@ cited: Cate Hutson
 ---
 
 > You’re not learning (and you want to be).
-> You’re learning coping mechanisms rather than skills. 
+> You’re learning coping mechanisms rather than skills.
 > You feel morally conflicted about hiring.
 > Your job is affecting your confidence.
 > Your job is affecting you physically.

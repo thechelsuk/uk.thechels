@@ -4,7 +4,7 @@ layout: post
 date: 2025-04-05
 link: https://www.inc.com/peter-economy/the-9-traits-that-define-great-leadership.html
 title: The 9 Traits That Define Great Leadership
-cited: Inc.com
+cited: Inc
 ---
 
 To motivate your team to achieve the highest levels of performance (and create an extraordinary organization in the process), here are the qualities you should model every day.

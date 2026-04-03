@@ -1,7 +1,7 @@
 ---
 date: 2025-06-08
 title: "Text is the new gold."
-cited: Build5Nines"
+cited: Build5Nines
 link: https://build5nines.com/extract-text-from-pdf-files-with-python-for-use-in-generative-ai-and-rag-solutions/
 seo: "Text is the new gold"
 tags:

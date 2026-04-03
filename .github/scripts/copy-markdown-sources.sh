@@ -41,7 +41,7 @@ site.read
 
     source_path = Pathname.new(doc.path).relative_path_from(Pathname.new(root)).to_s
     dest_path = Pathname.new(dest).relative_path_from(Pathname.new(root)).to_s
-    puts "Copied #{source_path} -> #{dest_path}"
+    # puts "Copied #{source_path} -> #{dest_path}"
   end
 end
 RUBY

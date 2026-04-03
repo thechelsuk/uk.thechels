@@ -4,7 +4,7 @@ layout: post
 date: 2025-04-05
 link: https://www.forbes.com/sites/kimberlyfries/2018/02/08/8-essential-qualities-that-define-great-leadership
 title:  8 Essential Qualities That Define Great Leadership
-cited: Kimberley Fries / Forbes
+cited: Kimberley Fries (Forbes)
 ---
 
 

@@ -8,6 +8,6 @@ cited: 9to5Mac
 
 ---
 
-RIP giant cheese grater. 
+RIP giant cheese grater.
 
-> Apple has confirmed to _9to5Mac_ that the Mac Pro is being discontinued. It has been removed from Apple's website as of Thursday afternoon
+> Apple has confirmed to _9to5Mac_ that the Mac Pro is being discontinued. It has been removed from Apple's website as of Thursday afternoon.

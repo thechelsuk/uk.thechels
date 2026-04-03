@@ -4,7 +4,7 @@ layout: post
 date: 2023-04-13
 link: https://github.blog/2023-02-24-3-ways-to-meet-compliance-needs-without-slowing-down-agility/
 title: 3 ways to meet compliance needs without slowing down agility
-cited: The GitHub Blog
+cited: GitHub
 
 ---
 

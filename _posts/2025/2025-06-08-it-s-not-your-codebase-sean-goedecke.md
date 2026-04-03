@@ -1,7 +1,7 @@
 ---
 date: 2025-06-08
 title: "It is not your codebase"
-cited: "sean goedecke"
+cited: Sean Goedecke
 link: https://www.seangoedecke.com/not-your-codebase/
 seo: "Engineers often feel a lot of ownership over the code they write"
 tags:

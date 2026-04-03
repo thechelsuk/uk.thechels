@@ -4,7 +4,7 @@ layout: post
 date: 2025-03-16
 link: https://www.bbc.co.uk/sport/football/articles/cy87lw1dgq2o
 title: Pitching for equality
-cited: Mat
+cited: thechelsuk
 
 ---
 

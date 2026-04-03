@@ -4,7 +4,7 @@ layout: post
 date: 2022-06-02
 link: https://www.darkreading.com/attacks-breaches/6-steps-to-ensure-cyber-resilience
 title: 6 Steps to Ensure Cyber Resilience
-cited: DarkReading
+cited: Dark Reading
 
 ---
 

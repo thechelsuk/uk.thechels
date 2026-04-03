@@ -4,7 +4,7 @@ layout: post
 date: 2023-04-13
 link: https://lethain.com/underperforming-executive/
 title: What should you do if you report to an underperforming executive?
-cited: Irrational Exuberance
+cited: Will Larson (Lethain)
 
 ---
 
