@@ -3,7 +3,7 @@ layout: post
 date: 2025-01-19
 link: https://gds.blog.gov.uk/2024/12/03/gov-uk-forms-through-the-ages/
 title: GOV Forms through the ages
-cited: GDS
+cited: Government Digital Service
 ---
 
 > We moved into private beta and started building the product in March 2022. Our aims in this phase were to deliver enough features to drive adoption, and test the platform with a small number of partner departments to validate our designs.

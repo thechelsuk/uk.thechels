@@ -4,7 +4,7 @@ layout: post
 date: 2025-02-27
 link: https://daringfireball.net/linked/2025/02/26/apple-shareholders-reject-proposl-to-ditch-diversity-policies
 title: Apple Shareholders Reject Anti-Diversity Proposal
-cited: John Gruber
+cited: John Gruber (Daring Fireball)
 
 ---
 

@@ -4,7 +4,7 @@ layout: post
 date: 2022-05-02
 link: https://about.sourcegraph.com/blog/remote-work-calendar/
 title: How 7 engineers rethought their work calendars
-cited: SourceGraph
+cited: Sourcegraph
 
 ---
 

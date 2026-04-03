@@ -8,4 +8,4 @@ cited: Government Digital Service
 
 ---
 
-> Site Reliability Engineers - or SREs - are primarily responsible for ensuring that the services provided by the UK Government (GOV.UK Pay, in my case) are working, continue to work, and that we spot problems prior to them developing into incidents
+> Site Reliability Engineers - or SREs - are primarily responsible for ensuring that the services provided by the UK Government (GOV.UK Pay, in my case) are working, continue to work, and that we spot problems prior to them developing into incidents.

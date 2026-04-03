@@ -4,7 +4,7 @@ layout: post
 date: 2022-04-30
 link: https://www.tripwire.com/state-of-security/security-data-protection/everything-you-need-to-know-about-cyber-crisis-tabletop-exercises/
 title: Everything You Need to Know about Cyber Crisis Tabletop Exercises
-cited: TripWire
+cited: Tripwire
 
 ---
 

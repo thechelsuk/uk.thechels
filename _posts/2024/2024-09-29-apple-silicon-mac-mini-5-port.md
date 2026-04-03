@@ -8,8 +8,8 @@ cited: 512 Pixels
 
 ---
 
-Sign me up, if this can match the apple TV in size and run an M series SOC i’d be in for this. 
+Sign me up, if this can match the Apple TV in size and run an M series SOC i’d be in for this.
 
-All about the minimalist desk step up. 
+All about the minimalist desk step up.
 
 > Apple has seemingly leaked the rumored next-generation Mac mini with five USB-C ports, according to a code change within Apple software that was discovered today by MacRumors contributor Aaron Perris.

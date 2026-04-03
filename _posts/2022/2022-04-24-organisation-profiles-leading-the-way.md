@@ -4,7 +4,7 @@ layout: post
 date: 2022-04-24
 link: https://github.blog/2022-04-20-organization-profiles-leading-the-way
 title: 'Organisation profiles leading the way'
-cited: The GitHub Blog
+cited: GitHub
 
 ---
 

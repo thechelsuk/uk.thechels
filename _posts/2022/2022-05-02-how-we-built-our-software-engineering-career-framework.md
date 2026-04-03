@@ -4,7 +4,7 @@ layout: post
 date: 2022-05-02
 link: https://about.sourcegraph.com/blog/software-engineer-career-ladder/
 title: How we built our software engineering career framework
-cited: SourceGraph
+cited: Sourcegraph
 
 ---
 

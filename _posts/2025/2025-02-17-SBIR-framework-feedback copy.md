@@ -4,7 +4,7 @@ layout: post
 date: 2025-02-17
 title: SBIR Framework for giving positive feedback
 link: https://www.buildthestage.com/how-to-give-positive-feedback-to-colleagues-with-examples
-cited: Build The Stage
+cited: Build the Stage
 ---
 
 > Putting words together to give positive feedback is hard! You know the emotions you feel but lack the words.

@@ -4,7 +4,7 @@ layout: post
 date: 2022-04-25
 link: https://domk.website/blog/2021-01-17-tests-should-build-confidence.html
 title: Tests should build confidence
-cited: domk
+cited: Domk
 
 ---
 

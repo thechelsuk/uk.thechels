@@ -180,8 +180,8 @@ navigation_footer:
   - link: "/sitemap.xml"
     title: "Sitemap (xml)"
   - link: "/save"
-    titlr: "Sponsors" 
-    
+    title: "Sponsors"
+
   - link: "/accessibility"
     title: "Accessibility"
   - link: "/humans.txt"
@@ -199,6 +199,8 @@ navigation_footer:
 
   - link: "/about#colophon"
     title: "Colophon"
+  - link: "https://links.thechels.uk"
+    title: "Links &neArr;"
   - link: "https://shop.thechels.uk"
     title: "Shop &neArr;"
   - link: "https://tools.thechels.uk"

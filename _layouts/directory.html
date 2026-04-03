@@ -68,7 +68,7 @@
 
     {% endfor %}
 
-{% assign counts = site.data.counter | sort: 'count' %}
+    {% assign counts = site.data.counter | sort: 'count' %}
     {% for count in counts %}
     <li><b>{{ count.count }}</b> {{ count.label }}</li>
     {% endfor %}
@@ -84,4 +84,52 @@
     {% assign tag_posts = tag[1] %}
     <li><a href="/tag/{{ tag_name }}">{{ tag_name | capitalize }}</a> ({{ tag_posts | size }})</li>
     {% endfor %}
-    {% include footer.html %}
+</ul>
+
+<h2>Post Metadata Summary</h2>
+
+{% assign posts_with_link = 0 %}
+{% assign posts_with_cited = 0 %}
+{% for post in site.posts %}
+{% if post.link and post.link != '' %}
+{% assign posts_with_link = posts_with_link | plus: 1 %}
+{% endif %}
+{% if post.cited and post.cited != '' %}
+{% assign posts_with_cited = posts_with_cited | plus: 1 %}
+{% endif %}
+{% endfor %}
+
+{% assign cited_groups = site.posts | group_by: 'cited' %}
+{% assign max_cited_count = 0 %}
+{% for cited in cited_groups %}
+{% if cited.name and cited.name != '' %}
+{% assign cited_count = cited.items | size %}
+{% if cited_count > max_cited_count %}
+{% assign max_cited_count = cited_count %}
+{% endif %}
+{% endif %}
+{% endfor %}
+<ul>
+    <li><b>{{ site.posts | size }}</b> posts in total.</li>
+    <li><b>{{ posts_with_link }}</b> Linked Posts.</li>
+    <li><b>{{ posts_with_cited }}</b> Linked Posts with Citations.</li>
+</ul>
+
+<h3>Most commonly cited/quoted.</h3>
+<ul>
+    <li>
+        {% for count in (1..max_cited_count) reversed %}
+        {% for cited in cited_groups %}
+        {% if cited.name and cited.name != '' %}
+        {% assign cited_count = cited.items | size %}
+        {% if cited_count == count %}
+        {{ cited.name }} <b>({{ cited_count }})</b>,&nbsp;
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+    </li>
+</ul>
+
+
+{% include footer.html %}

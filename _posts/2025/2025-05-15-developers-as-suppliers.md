@@ -4,7 +4,7 @@ layout: post
 date: 2025-05-15
 link: https://daringfireball.net/linked/2025/05/10/benedict-evans-apple-developers-as-suppliers
 title: Developers as Suppliers
-cited: John Gruber
+cited: John Gruber (Daring Fireball)
 
 ---
 

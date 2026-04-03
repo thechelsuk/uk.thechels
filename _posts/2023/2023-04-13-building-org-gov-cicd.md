@@ -4,7 +4,7 @@ layout: post
 date: 2023-04-13
 link: https://github.blog/2023-04-05-building-organization-wide-governance-and-re-use-for-ci-cd-and-automation-with-github-actions/
 title: Building Organizational Governance in CI/CD Pipelines
-cited: The GitHub Blog
+cited: GitHub
 
 ---
 
