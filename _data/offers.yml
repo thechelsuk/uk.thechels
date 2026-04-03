@@ -13,19 +13,10 @@
   title: "Smarty - Choose a gift card up to £20 when you join."
 - id: e-you
   link: "https://youfibre.com"
-  title: "YouFibre - upto £100 when taking a broadband plan with code 5QGYSF"
+  title: "YouFibre - Up to £100 when taking a broadband plan with code 5QGYSF"
 - id: f-cybaa
   link: "https://cybaa.io/?ref=thechelsuk"
   title: "Cybaa - Monitor your domains for security issues and get real time alerts."
-- id: g-star
-  link: "https://www.starlingbank.com/referral/?code=f2tr2i"
-  title: "Starling bank - Join and get two-person day pass to National Trust."
-- id: h-ride
-  link: "https://www.zwift.com/invite/aEBmACSRGs"
-  title: "Zwift - Get a free month on Zwift."
-- id: z-bubble
-  link: "https://thechelsuk.redbubble.com"
-  title: "Support thechelsuk with Merch from Redbubble"
 - id: z-engman
   link: "https://apps.apple.com/uk/app/engman/id6747295473"
   title: "EngMan - Get the Engineering Manager Coach Cards App on iOS."
@@ -43,7 +34,13 @@
   title: "ShortKeys - Multi-line text replacement on iOS."
 - id: z-monzo
   link: "https://join.monzo.com/c/tr0bxrb7"
-  title: "Monzo Bank - Join Bank and get up to £50"
+  title: "Monzo Bank - Join and get up to £50"
 - id: z-GitHub
   link: "https://github.com/sponsors/thechelsuk"
-  title: "Sponsor thechelsuk's open source work on GitHub"
+  title: "Sponsor thechelsuk on GitHub"
+- id: z-kofi
+  link: "https://ko-fi.com/thechelsuk"
+  title: "Support thechelsuk on Ko-fi"
+- id: z-bubble
+  link: "https://thechelsuk.redbubble.com"
+  title: "Support thechelsuk with Merch from Redbubble"
