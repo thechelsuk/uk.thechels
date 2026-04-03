@@ -2,6 +2,7 @@
 
 import sqlite3
 import os
+from datetime import datetime
 
 # NetNewsWire database path (checks user-provided iCloud path first, then local)
 USER_ICLOUD_PATH = os.path.expanduser(
@@ -17,11 +18,13 @@ elif os.path.exists(LOCAL_PATH):
 else:
     DB_PATH = None
 
-from datetime import datetime
+
+# Output path for the generated markdown file
+OUT_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '_drafts')
+
 
 today_str = datetime.now().strftime('%Y-%m-%d')
-OUTPUT_FILE = os.path.expanduser(
-    f'~/Desktop/{today_str}-rss-favourites-digest.md')
+OUTPUT_FILE = os.path.join(OUT_PATH, f'{today_str}-rss-favourites-digest.md')
 
 
 def main():
