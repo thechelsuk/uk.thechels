@@ -14,6 +14,9 @@
 - id: e-you
   link: "https://youfibre.com"
   title: "YouFibre - Up to £100 when taking a broadband plan with code 5QGYSF"
+- id: z-monzo
+  link: "https://join.monzo.com/c/tr0bxrb7"
+  title: "Monzo Bank - Join and get up to £50"
 - id: f-cybaa
   link: "https://cybaa.io/?ref=thechelsuk"
   title: "Cybaa - Monitor your domains for security issues and get real time alerts."
@@ -32,9 +35,6 @@
 - id: z-shortkeys
   link: "https://apps.apple.com/gb/app/shortkeys/id6755919256"
   title: "ShortKeys - Multi-line text replacement on iOS."
-- id: z-monzo
-  link: "https://join.monzo.com/c/tr0bxrb7"
-  title: "Monzo Bank - Join and get up to £50"
 - id: z-GitHub
   link: "https://github.com/sponsors/thechelsuk"
   title: "Sponsor thechelsuk on GitHub"
