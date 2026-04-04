@@ -3,6 +3,7 @@ import xml.etree.ElementTree as ET
 import yaml
 import config
 
+
 def process_opml(opml_file, output_file):
     tree = ET.parse(opml_file)
     root = tree.getroot()
@@ -19,7 +20,8 @@ def process_opml(opml_file, output_file):
                 html_url = outline.get('htmlUrl', '')
                 xml_url = outline.get('xmlUrl', '')
                 # Only include items with a title starting with 'Blog'
-                if title and title.strip().startswith('Blog') and html_url.strip():
+                if title and title.strip().startswith(
+                        'Blog') and html_url.strip():
                     clean_title = title.strip()
                     if clean_title.startswith('Blog - '):
                         clean_title = clean_title[len('Blog - '):]
@@ -32,25 +34,30 @@ def process_opml(opml_file, output_file):
 
     # Ensure 'title' is the first key in each dict for YAML output
     from collections import OrderedDict
+
     def ordered_blog(blog):
-        return OrderedDict([
-            ('title', blog['title']),
-            ('htmlUrl', blog['htmlUrl']),
-            ('xmlUrl', blog['xmlUrl'])
-        ])
+        return OrderedDict([('title', blog['title']),
+                            ('htmlUrl', blog['htmlUrl']),
+                            ('xmlUrl', blog['xmlUrl'])])
+
     blogs_ordered = [ordered_blog(b) for b in blogs]
 
     class OrderedDumper(yaml.SafeDumper):
         pass
+
     def _dict_representer(dumper, data):
         return dumper.represent_dict(data.items())
+
     OrderedDumper.add_representer(OrderedDict, _dict_representer)
 
     with open(output_file, 'w') as yaml_file:
-        yaml.dump(blogs_ordered, yaml_file, default_flow_style=False, Dumper=OrderedDumper)
+        yaml.dump(blogs_ordered,
+                  yaml_file,
+                  default_flow_style=False,
+                  Dumper=OrderedDumper)
 
 
 if __name__ == "__main__":
     opml_file = config.NNW_FILE
-    output_file =  config.NNW_OUT
+    output_file = config.NNW_OUT
     process_opml(opml_file, output_file)
