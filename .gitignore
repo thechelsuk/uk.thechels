@@ -1,19 +1,27 @@
+## Jekyll
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
-.DS_Store
-Gemfile.lock
-.vscode/
-_includes/footer.html
-.pytest_cache
-_python/__pycache__
-_drafts/
-.coverage
-urls-only.txt
-htmlcov/
 .bundle/config
+vendor
+Gemfile.lock
+
+## macOS
+.DS_Store
+.vscode/
+
+## Files
+_drafts/
+urls-only.txt
+run.sh
+
+# Python & coverage
+__pycache__/
 .coverage
 .coverage.*
-run.sh
+htmlcov/
+.pytest_cache
+_python/__pycache__
+_python/local/config.py
+_python/local/__pycache__/
