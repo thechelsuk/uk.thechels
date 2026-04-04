@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-04-03
+date: 2026-04-04
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,14 +11,14 @@ date: 2026-04-03
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Friday, 03 April 2026
+## On Saturday, 04 April 2026
 
-- The average temperature today is 11.09˚C,
-- With highs of 12.06˚C and lows of 10.16˚C,
-- It may feel like 10.55˚C with broken clouds
-- The wind speed is 7.2m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 88%
-- The sun will rise at 05:38 and set at 18:44
+- The average temperature today is 10.62˚C,
+- With highs of 11.4˚C and lows of 9.05˚C,
+- It may feel like 9.88˚C with broken clouds
+- The wind speed is 5.66m/s and visibility is 10000m
+- The pressure is 1014hPa and humidity is 82%
+- The sun will rise at 05:36 and set at 18:45
 
 <!-- weather_marker ends -->
 
@@ -26,74 +26,32 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 759 days since the last change (2024-03-05)
+- It has been 760 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-- No tasks today
+- Water the plants
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Set exceptional standards.
+> challenge assumptions.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Middlesbrough v Millwall
-- Doncaster Rovers v Mansfield Town
-- Leeds United U21 v Manchester United U21
-- Southampton Women v Sheffield United Women
-- Birmingham City v Blackburn Rovers
-- Charlton Athletic v Bristol City
-- Leicester City v Preston North End
-- Norwich City v Portsmouth
-- Oxford United v Hull City
-- QPR v Watford
-- Sheffield United v Swansea City
-- Stoke City v Sheffield Wednesday
-- West Brom v Wrexham
-- Blackpool v Exeter City
-- Bradford City v Northampton Town
-- Burton Albion v Barnsley
-- Huddersfield Town v Reading
-- Lincoln City v AFC Wimbledon
-- Luton Town v Peterborough United
-- Plymouth Argyle v Bolton Wanderers
-- Rotherham United v Stevenage
-- Stockport County v Wycombe Wanderers
-- Accrington Stanley v Crewe Alexandra
-- Barnet v Bromley
-- Bristol Rovers v Fleetwood Town
-- Chesterfield v Cheltenham Town
-- Colchester United v Oldham Athletic
-- Grimsby Town v Harrogate Town
-- MK Dons v Barrow AFC
-- Newport County v Crawley Town
-- Salford City v Notts County
-- Shrewsbury Town v Tranmere Rovers
-- Walsall v Gillingham
-- Aldershot Town v Sutton United
-- Altrincham v FC Halifax Town
-- Boreham Wood v Wealdstone
-- Boston United v York City
-- Carlisle United v Gateshead
-- Forest Green Rovers v Brackley Town
-- Rochdale v Morecambe
-- Scunthorpe United v Hartlepool United
-- Southend United v Braintree Town
-- Tamworth v Solihull Moors
-- Woking v Eastleigh
-- Yeovil Town v Truro City
-- Hornchurch v Dagenham & Redbridge
-- Derby County U21 v Manchester City U21
-- Nottingham Forest U21 v Crystal Palace U21
-- Coventry City v Derby County
+- Chelsea U18 v Crystal Palace U18
+- Manchester City v Liverpool
+- Tottenham Hotspur U21 v West Ham United U21
+- Arsenal U21 v West Brom U21
+- Chelsea v Port Vale
+- Southampton v Arsenal
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -109,44 +67,45 @@ _Good Morning, Here is your daily briefing..._
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> I also applied to work for a design company for TV user interfaces. But I misunderstood when they said it was remote-first.
+> Why did the blues man cross the road? To get from A to B#7
 <!-- jokes_marker ends -->
 
 ### Top News
 <!-- news_marker starts -->
-- € French and South Korean leaders say they'll work together to reopen Strait of Hormuz ([5 minutes ago](http://www.euronews.com/business/2026/04/03/french-and-south-korean-leaders-say-theyll-work-together-to-reopen-strait-of-hormuz))
-- € Artemis II astronauts describe 'breathtaking views' in space as they rocket toward the Moon ([6 minutes ago](http://www.euronews.com/video/2026/04/03/artemis-ii-astronauts-describe-breathtaking-views-in-space-as-they-rocket-toward-the-moon))
-- € Ukraine’s ancient Easter egg art helps preserve national identity ([8 minutes ago](http://www.euronews.com/video/2026/04/03/ukraines-ancient-easter-egg-art-helps-preserve-national-identity))
-- € Tehran fires at Israel as Trump warns US has not started 'destroying what is left' in Iran ([20 minutes ago](http://www.euronews.com/2026/04/03/tehran-fires-at-israel-as-trump-warns-us-has-not-started-destroying-what-is-left-in-iran))
-- € Inside the struggle to build Europe’s largest solar farm as €916 million project hit with delays ([28 minutes ago](http://www.euronews.com/2026/04/03/inside-the-struggle-to-build-europes-largest-solar-farm-as-916-million-project-hit-with-de))
-- € ‘Easter Lily’: U2 surprise drop new EP to mark Good Friday ([37 minutes ago](http://www.euronews.com/culture/2026/04/03/easter-lily-u2-surprise-drop-new-ep-to-mark-good-friday))
-- € US bank Goldman Sachs placed under police surveillance in Paris ([51 minutes ago](http://www.euronews.com/business/2026/04/03/us-bank-goldman-sachs-placed-under-police-surveillance-in-paris))
-- € From the Amazon to Antarctica: These are the best once-in-a-lifetime marathons to try ([57 minutes ago](http://www.euronews.com/travel/2026/04/03/from-the-amazon-to-antarctica-these-are-the-best-once-in-a-lifetime-marathons-to-try))
-- € Podcast: Everything you need to know about the Hungarian elections ([1 hours ago](http://www.euronews.com/my-europe/2026/04/03/podcast-everything-you-need-to-know-about-the-hungarian-elections))
-- € Belgium turns Easter chocolate into giant edible sculpture ([1 hours ago](http://www.euronews.com/video/2026/04/03/belgium-turns-easter-chocolate-into-giant-edible-sculpture))
-- ® Contractor quaffed his way through Y2K compliance while the client scowled ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/03/on_call/))
-- £ Europe must prepare for ‘long-lasting’ energy shock, EU warns ([4 hours ago](https://www.ft.com/content/7d3a6810-b571-4730-aa35-f7bfcacdc242))
-- £ UK motorists to face £2 a litre diesel within days ([4 hours ago](https://www.ft.com/content/05d3776b-5cf9-4a0f-94af-1c7e1c56d034))
-- £ What’s going on with dollar debt? ([4 hours ago](https://www.ft.com/content/c5a34c74-416c-4c90-8fc3-60a1c94d7cd5))
-- £ UK gender pay gap widens at Clifford Chance and McKinsey ([4 hours ago](https://www.ft.com/content/d9890c7f-bd24-402b-a78a-eb8b799703b9))
-- £ Credit investors flee to safety, pulling $11bn from junk bonds this year ([4 hours ago](https://www.ft.com/content/45c12697-4d59-4027-80b7-b0c565020d43))
-- £ Inside Tehran, a city under attack ([4 hours ago](https://www.ft.com/content/f5e9f184-50bf-466e-8f43-09c7321d0598))
-- £ Prediction markets: the hunt for the new ‘dumb money’ ([4 hours ago](https://www.ft.com/content/9b038375-66c1-4c30-80a3-49176e5137dd))
-- £ Fund managers snap up bonds on growth threat from Iran war ([4 hours ago](https://www.ft.com/content/397d5395-90d4-40db-8130-740b9bc91f5b))
-- £ M&S demands urgent action by ministers to tackle ‘brazen’ UK shoplifting ([8 hours ago](https://www.ft.com/content/52ba8264-ebce-4b54-bd2b-a669190c2520))
-- ® AI models will deceive you to save their own kind ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/02/ai_models_will_deceive_you/))
-- ® Google battles Chinese open-weights models with Gemma 4 ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/02/googles_gemma_4_open_weights/))
-- ® Microsoft shivs OpenAI with three new AI models for speech and images ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/02/microsoft_models_homegrown_ai_models/))
-- £ Trump fires US attorney-general Pam Bondi ([12 hours ago](https://www.ft.com/content/533ecec7-713f-46f1-a2a2-cbd9a659299f))
-- ® US military contractor open sources tool for validating hidden communications networks ([14 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/02/maude_hcs_rtx_raytheon_hcn/))
-- ® They thought they were downloading Claude Code source. They got a nasty dose of malware instead ([14 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/02/trojanized_claude_code_leak_github/))
-- ® Even Microsoft knows Copilot shouldn't be trusted with anything important ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/02/copilot_terms_of_service/))
-- ® IBM wants Arm software on its mainframes to better support AI ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/02/ibm_arm_software_mainframes_ai_support/))
-- ® Forking frenzy ensues after Euro-Office launch sparks OnlyOffice backlash ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/02/eurooffice_forks_onlyoffice/))
-- ® Artemis II astronaut: 'I have two Microsoft Outlooks, and neither one of those are working' ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/02/artemis_astronauts_microsoft_outlook_broken/))
-- ♣ The Daily Hilario: Thursday ([1 days ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167493/the-daily-hilario-april-2nd))
-- ♣ Chelsea FCW 1-0 (2-3 agg.) Arsenal WFC, UEFA Women’s Champions League: Post-match reaction ([1 days ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/167496/chelsea-fcw-1-0-2-3-agg-arsenal-wfc-uefa-womens-champions-league-post-match-reaction))
-- ♣ Chelsea FCW vs. Arsenal WFC, UEFA Women’s Champions League: Confirmed lineups; how to watch ([1 days ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/167483/chelsea-fcw-vs-arsenal-wfc-uefa-womens-champions-league-confirmed-lineups-how-to-watch))
+- ® PrismML debuts energy-sipping 1-bit LLM in bid to free AI from the cloud ([12 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/04/prismml_1bit_llm/))
+- € Eight dead in 'massive' Russian attack while Kyiv signals readiness for Easter ceasefire ([28 minutes ago](http://www.euronews.com/2026/04/04/eight-dead-in-massive-russian-attack-while-kyiv-signals-readiness-for-easter-ceasefire))
+- € Easter's chocolate giants: The EU nations fuelling the global industry ([1 hours ago](http://www.euronews.com/business/2026/04/04/easters-chocolate-giants-the-eu-nations-fuelling-the-global-industry))
+- € Simply the best: A connoisseurs guide to the finest Belgian chocolate this Easter ([3 hours ago](http://www.euronews.com/culture/2026/04/04/simply-the-best-a-connoisseurs-guide-to-the-finest-belgian-chocolate-this-easter))
+- € Can brain cells run computers? This startup powers data centre using human neurons ([3 hours ago](http://www.euronews.com/next/2026/04/04/can-brain-cells-run-computers-this-startup-powers-data-centre-using-human-neurons))
+- € The cost of climate change is ‘hitting homes’ this Easter. Your lamb roast dinner is proof ([3 hours ago](http://www.euronews.com/2026/04/04/the-cost-of-climate-change-is-hitting-homes-this-easter-your-lamb-roast-dinner-is-proof))
+- € Egg prices surge in Europe ahead of Easter: Which countries saw the highest rise? ([3 hours ago](http://www.euronews.com/business/2026/04/04/egg-prices-surge-in-europe-ahead-of-easter-which-countries-saw-the-highest-rise))
+- € The new spring detox? How to eat like a Greek monk over Lent ([3 hours ago](http://www.euronews.com/health/2026/04/04/the-new-spring-detox-how-to-eat-like-a-greek-monk-over-lent))
+- € Latest news bulletin  April 4th, 2026 – Morning ([3 hours ago](http://www.euronews.com/video/2026/04/04/latest-news-bulletin-april-4th-2026-morning))
+- € A new chocolate mega destination is coming to Switzerland – and 2030 can’t come soon enough ([3 hours ago](http://www.euronews.com/travel/2026/04/04/a-new-chocolate-mega-destination-is-coming-to-switzerland-and-2030-cant-come-soon-enough))
+- £ The shadowy group claiming attacks around Europe ([4 hours ago](https://www.ft.com/content/adc3e954-5928-471b-b7f2-e4385bbca540))
+- £ Japan cracks down on its wayward cyclists ([4 hours ago](https://www.ft.com/content/6c33a7cf-9c25-4ad9-9526-50198074e3df))
+- £ Trump’s tales are still muddling markets ([4 hours ago](https://www.ft.com/content/57f1c55a-7eab-4a3e-83d5-c8e228b7e99d))
+- £ Former CIA operative: regime change in Iran is much harder than the US thinks ([4 hours ago](https://www.ft.com/content/2936458a-f5a1-4af2-aaf6-93b998a9cd12))
+- ♣ Chelsea vs. Port Vale, FA Cup: Preview, team news, how to watch ([6 hours ago](https://weaintgotnohistory.sbnation.com/domestic-cups/167546/chelsea-vs-port-vale-fa-cup-preview-team-news-how-to-watch))
+- £ US fighter jet shot down over Iran ([6 hours ago](https://www.ft.com/content/ffedc7fe-b068-444c-b8c6-b11332890d6f))
+- £ Three charged with arson over London Jewish charity ambulance attack ([9 hours ago](https://www.ft.com/content/224108af-cc42-4e92-9722-a2f25ead002a))
+- ® Trump wants to take a battle axe to CISA again and slash $707M from budget ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/03/trump_cisa_budget/))
+- £ OpenAI chief operating officer takes on new role in shake-up ([10 hours ago](https://www.ft.com/content/d82b6277-fdd3-4914-a500-2bb39f4a114b))
+- ® Netflix - yes Netflix - jumps on the AI bandwagon with video editor ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/03/netflix_video_ai/))
+- ♣ Chelsea suspend Enzo Fernández for ‘crossing the line’ with comments ([12 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc/167542/chelsea-suspend-enzo-fernandez-for-crossing-the-line-with-comments))
+- £ US judge upholds block of subpoenas in criminal investigation of Jay Powell ([13 hours ago](https://www.ft.com/content/4741ed38-61c0-4f49-89f3-def3c3e18ced))
+- € Ukraine’s Zhytomyr region reels after missile and drone strike ([14 hours ago](http://www.euronews.com/video/2026/04/03/ukraines-zhytomyr-region-reels-after-missile-and-drone-strike))
+- ® NHS staff resist using Palantir software ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/03/nhs_staff_against_palantir/))
+- £ Former Iran foreign minister floats plan for peace with US ([17 hours ago](https://www.ft.com/content/489464b6-e61f-44ec-8051-406008fec7ce))
+- ® When a billboard survives the wind, but not the boot ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/03/when_a_billboard_survives_the/))
+- ♣ The Daily Hilario: Friday ([1 days ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167513/the-daily-hilario-april-3rd))
+- ® Contractor quaffed his way through Y2K compliance while the client scowled ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/03/on_call/))
+- ♣ How should Chelsea line up against lower-league Port Vale in the FA Cup? ([1 days ago](https://weaintgotnohistory.sbnation.com/domestic-cups/167523/how-should-chelsea-line-up-against-lower-league-port-vale-in-the-fa-cup))
+- ♣ Mykhailo Mudryk rented out the pitch at Uxbridge FC for training ([1 days ago](https://weaintgotnohistory.sbnation.com/chelsea-fc/167516/mykhailo-mudryk-rented-out-the-pitch-at-uxbridge-fc-for-training))
+- ® AI models will deceive you to save their own kind ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/02/ai_models_will_deceive_you/))
+- ® Google battles Chinese open-weights models with Gemma 4 ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/02/googles_gemma_4_open_weights/))
+- ® Microsoft shivs OpenAI with three new AI models for speech and images ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/02/microsoft_models_homegrown_ai_models/))
+- ® US military contractor open sources tool for validating hidden communications networks ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/02/maude_hcs_rtx_raytheon_hcn/))
 
 <!-- news_marker ends -->
 
@@ -162,36 +121,34 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> Even though working in small chunks adds some overhead, it reaps enormous rewards by allowing us to avoid work that delivers zero or negative value for our organisations - Accelerate
+> If you have a choice of two things and cannot decide, take both. - Gregory Corso, Poet
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Bridges
--build
--burn
+> Left channel, right channel, center channel
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Spaceballs (Rated: 4)
-- Released in 1987
-- Summary: A star-pilot for hire and his trusty sidekick must come to the rescue of a princess and save Planet Druidia from the clutches of the evil Spaceballs.
+- Doom (Rated: 3)
+- Released in 2005
+- Summary: Space Marines are sent to investigate strange events at a research facility on Mars but find themselves at the mercy of genetically enhanced killing machines.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 <!-- game_marker starts -->
 
-- Target: 777, using [2, 6, 7, 10, 50, 75]
-- Answer: 15 solutions.
+- Target: 290, using [4, 5, 7, 8, 10, 100]
+- Answer: 74 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 50 + 2 - 10 - 6 ) x 7
+  Solution: ( 10 - 7 ) x 100 - 8 x 5 / 4
 
    </details>
 
@@ -199,9 +156,9 @@ _Good Morning, Here is your daily briefing..._
 
 ### 5 Random Blogroll Links
 <!-- blogroll_marker starts -->
-- Beard FM [URL](https://beard.fm/blog/) [Feed](https://beard.fm/blog?format=rss)
-- Dave Kiss [URL](https://davekiss.com/) [Feed](https://davekiss.com/blog.rss)
-- Dave Rupert [URL](https://daverupert.com/) [Feed](https://daverupert.com/atom.xml)
-- Circle CI [URL](https://circleci.com/blog/) [Feed](http://circleci.com/blog/feed.xml)
-- CodeGood [URL](https://codegood.co/) [Feed](https://codegood.co/feed.xml)
+- Matt Stein [URL](https://mattstein.com/) [Feed](https://mattstein.com/rss.xml)
+- CJ Chilvers [URL](https://www.cjchilvers.com/) [Feed](http://cjchilvers.com/blog?format=rss)
+- Scott Brady [URL](https://www.scottbrady.io/) [Feed](https://feeds.feedburner.com/scottbrady91)
+- Shell Sharks [URL](https://shellsharks.com/) [Feed](https://shellsharks.com/feeds/all-feed.xml)
+- Luís Gonçalves [URL](https://luis-goncalves.com/) [Feed](https://luis-goncalves.com/blog/feed/)
 <!-- blogroll_marker ends -->
