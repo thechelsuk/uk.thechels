@@ -3,6 +3,7 @@ import xml.etree.ElementTree as ET
 import yaml
 import config
 
+
 def process_opml(opml_file, output_file):
     tree = ET.parse(opml_file)
     root = tree.getroot()
@@ -22,5 +23,5 @@ def process_opml(opml_file, output_file):
 
 if __name__ == "__main__":
     opml_file = config.OPML_FILE
-    output_file =  config.POD_OUT
+    output_file = config.POD_OUT
     process_opml(opml_file, output_file)
