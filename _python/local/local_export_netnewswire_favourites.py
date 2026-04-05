@@ -19,8 +19,9 @@ else:
     DB_PATH = None
 
 # Output path for the generated markdown file
-OUT_PATH = os.path.join(
-    os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '_drafts')
+PROJECT_ROOT = os.path.dirname(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+OUT_PATH = os.path.join(PROJECT_ROOT, '_drafts')
 
 today_str = datetime.now().strftime('%Y-%m-%d')
 OUTPUT_FILE = os.path.join(OUT_PATH, f'{today_str}-rss-favourites-digest.md')
