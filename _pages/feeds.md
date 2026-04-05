@@ -14,6 +14,7 @@ A number of RSS feeds are available.
 - RSS only [Atom/XML](/rss.xml) - Secret RSS only feed + TIL
 - Films [Atom/XML](/films.xml) - Film reviews
 - Daily [Atom/XML](/daily.xml) - A daily briefing of news, notices, quotes, and more.
+- Videos [XML](https://www.youtube.com/feeds/videos.xml?channel_id=UCwK4oZ8hw9RS6tZKEjw_qLw) - Videos on YouTube
 
 ## Niche Summary Feeds
 
