@@ -2,7 +2,7 @@
   title: Version 2.0 of Hiyd out now
   link: https://www.youtube.com/shorts/iHex6-AbxkQ
   published: '2026-04-02'
-  views: 44
+  views: 53
   rating_average: 5
   rating_count: 1
   source: youtube-feed
@@ -14,14 +14,6 @@
   rating_average: 5
   rating_count: 3
   source: youtube-feed
-- id: 0xg2Z1c1WK4
-  title: Hiyd App 1.7.1 released with new Liquid Glass
-  link: https://www.youtube.com/shorts/0xg2Z1c1WK4
-  published: '2025-12-19'
-  views: 31
-  rating_average:
-  rating_count: 0
-  source: youtube-feed
 - id: gzCawumUqUk
   title: Tomoz App 1.7.1 updated menu to Liquid Glass
   link: https://www.youtube.com/shorts/gzCawumUqUk
@@ -30,11 +22,19 @@
   rating_average:
   rating_count: 0
   source: youtube-feed
-- id: wt0KUCBbTF0
-  title: EngMan - Liquid Glass icon set added
-  link: https://www.youtube.com/shorts/wt0KUCBbTF0
+- id: 0xg2Z1c1WK4
+  title: Hiyd App 1.7.1 released with new Liquid Glass
+  link: https://www.youtube.com/shorts/0xg2Z1c1WK4
+  published: '2025-12-19'
+  views: 31
+  rating_average:
+  rating_count: 0
+  source: youtube-feed
+- id: WS0pQcBoqKI
+  title: Tomoz - Liquid Glass icon set added
+  link: https://www.youtube.com/shorts/WS0pQcBoqKI
   published: '2025-12-01'
-  views: 116
+  views: 13
   rating_average: 5
   rating_count: 1
   source: youtube-feed
@@ -46,19 +46,11 @@
   rating_average: 5
   rating_count: 1
   source: youtube-feed
-- id: WS0pQcBoqKI
-  title: Tomoz - Liquid Glass icon set added
-  link: https://www.youtube.com/shorts/WS0pQcBoqKI
+- id: wt0KUCBbTF0
+  title: EngMan - Liquid Glass icon set added
+  link: https://www.youtube.com/shorts/wt0KUCBbTF0
   published: '2025-12-01'
-  views: 13
-  rating_average: 5
-  rating_count: 1
-  source: youtube-feed
-- id: D22osLaY4oE
-  title: EmgMan new version is out now
-  link: https://www.youtube.com/shorts/D22osLaY4oE
-  published: '2025-11-24'
-  views: 62
+  views: 116
   rating_average: 5
   rating_count: 1
   source: youtube-feed
@@ -70,11 +62,11 @@
   rating_average: 5
   rating_count: 1
   source: youtube-feed
-- id: t5cT1jxwE8U
-  title: Tomoz App 1.5.4 out now
-  link: https://www.youtube.com/shorts/t5cT1jxwE8U
-  published: '2025-11-23'
-  views: 5
+- id: D22osLaY4oE
+  title: EmgMan new version is out now
+  link: https://www.youtube.com/shorts/D22osLaY4oE
+  published: '2025-11-24'
+  views: 62
   rating_average: 5
   rating_count: 1
   source: youtube-feed
@@ -83,6 +75,14 @@
   link: https://www.youtube.com/shorts/JhjwKW9Kov8
   published: '2025-11-23'
   views: 43
+  rating_average: 5
+  rating_count: 1
+  source: youtube-feed
+- id: t5cT1jxwE8U
+  title: Tomoz App 1.5.4 out now
+  link: https://www.youtube.com/shorts/t5cT1jxwE8U
+  published: '2025-11-23'
+  views: 5
   rating_average: 5
   rating_count: 1
   source: youtube-feed
@@ -102,19 +102,19 @@
   rating_average: 5
   rating_count: 2
   source: youtube-feed
-- id: HGLV826MJGw
-  title: Tomoz and Hiyd now support shortcuts and app intents
-  link: https://www.youtube.com/shorts/HGLV826MJGw
-  published: '2025-11-13'
-  views: 45
-  rating_average: 5
-  rating_count: 1
-  source: youtube-feed
 - id: qlCOnK2LT4A
   title: Mltply - a free iOS app for kids for learning maths.
   link: https://www.youtube.com/shorts/qlCOnK2LT4A
   published: '2025-11-13'
   views: 140
+  rating_average: 5
+  rating_count: 1
+  source: youtube-feed
+- id: HGLV826MJGw
+  title: Tomoz and Hiyd now support shortcuts and app intents
+  link: https://www.youtube.com/shorts/HGLV826MJGw
+  published: '2025-11-13'
+  views: 45
   rating_average: 5
   rating_count: 1
   source: youtube-feed
@@ -126,11 +126,11 @@
   rating_average: 5
   rating_count: 1
   source: youtube-feed
-- id: Y8GABqhz2kA
-  title: Swipe to Lead
-  link: https://www.youtube.com/shorts/Y8GABqhz2kA/
+- id: lH8O11y77Jg
+  title: Mltply App out now
+  link: https://www.youtube.com/shorts/lH8O11y77Jg/
   published: '2025-07-05'
-  views: 79
+  views: 30
   rating_average: 5
   rating_count: 1
   source: manual
@@ -142,11 +142,11 @@
   rating_average: 5
   rating_count: 1
   source: manual
-- id: lH8O11y77Jg
-  title: Mltply App out now
-  link: https://www.youtube.com/shorts/lH8O11y77Jg/
+- id: Y8GABqhz2kA
+  title: Swipe to Lead
+  link: https://www.youtube.com/shorts/Y8GABqhz2kA/
   published: '2025-07-05'
-  views: 30
+  views: 79
   rating_average: 5
   rating_count: 1
   source: manual
@@ -158,43 +158,11 @@
   rating_average: 5
   rating_count: 1
   source: manual
-- id: -qmrePtloKY
-  title: Using on device AI in Drafts App
-  link: https://www.youtube.com/shorts/-qmrePtloKY/
+- id: g7C4D0vvh2Y
+  title: Hiyd Out Now
+  link: https://www.youtube.com/shorts/g7C4D0vvh2Y/
   published: '2025-06-15'
-  views: 443
-  rating_average: 5
-  rating_count: 1
-  source: manual
-- id: lB_odZ1zpAA
-  title: What are you doing Tomoz?  Let me see…
-  link: https://www.youtube.com/shorts/lB_odZ1zpAA/
-  published: '2025-06-15'
-  views: 44
-  rating_average: 5
-  rating_count: 1
-  source: manual
-- id: eNpBRmVw3lE
-  title: Tomoz - New app out now. Prepare for tomorrow today.
-  link: https://www.youtube.com/shorts/eNpBRmVw3lE/
-  published: '2025-06-15'
-  views: 91
-  rating_average: 5
-  rating_count: 1
-  source: manual
-- id: 4zNB6CF0cRE
-  title: MiPace and chill
-  link: https://www.youtube.com/shorts/4zNB6CF0cRE/
-  published: '2025-06-15'
-  views: 10
-  rating_average: 5
-  rating_count: 1
-  source: manual
-- id: yEzkMufhSf8
-  title: New app coming soon
-  link: https://www.youtube.com/shorts/yEzkMufhSf8/
-  published: '2025-06-15'
-  views: 8
+  views: 46
   rating_average: 5
   rating_count: 1
   source: manual
@@ -206,11 +174,43 @@
   rating_average: 5
   rating_count: 1
   source: manual
-- id: g7C4D0vvh2Y
-  title: Hiyd Out Now
-  link: https://www.youtube.com/shorts/g7C4D0vvh2Y/
+- id: yEzkMufhSf8
+  title: New app coming soon
+  link: https://www.youtube.com/shorts/yEzkMufhSf8/
   published: '2025-06-15'
-  views: 46
+  views: 8
+  rating_average: 5
+  rating_count: 1
+  source: manual
+- id: 4zNB6CF0cRE
+  title: MiPace and chill
+  link: https://www.youtube.com/shorts/4zNB6CF0cRE/
+  published: '2025-06-15'
+  views: 10
+  rating_average: 5
+  rating_count: 1
+  source: manual
+- id: eNpBRmVw3lE
+  title: Tomoz - New app out now. Prepare for tomorrow today.
+  link: https://www.youtube.com/shorts/eNpBRmVw3lE/
+  published: '2025-06-15'
+  views: 91
+  rating_average: 5
+  rating_count: 1
+  source: manual
+- id: lB_odZ1zpAA
+  title: What are you doing Tomoz?  Let me see…
+  link: https://www.youtube.com/shorts/lB_odZ1zpAA/
+  published: '2025-06-15'
+  views: 44
+  rating_average: 5
+  rating_count: 1
+  source: manual
+- id: -qmrePtloKY
+  title: Using on device AI in Drafts App
+  link: https://www.youtube.com/shorts/-qmrePtloKY/
+  published: '2025-06-15'
+  views: 443
   rating_average: 5
   rating_count: 1
   source: manual
