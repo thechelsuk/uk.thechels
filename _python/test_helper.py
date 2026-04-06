@@ -58,8 +58,10 @@ class TestHelper:
         assert len(films) == 2, "There should be two films in the list"
         assert films[-1]["Imdb"] == "tt7654321", "The new film should be added"
         assert "date" in films[-1], "Film should have a 'date' key"
-        assert "DateAdded" not in films[-1], "Film should not have a 'DateAdded' key"
-        assert isinstance(films[-1]["date"], datetime), "date should be a datetime object"
+        assert "DateAdded" not in films[
+            -1], "Film should not have a 'DateAdded' key"
+        assert isinstance(films[-1]["date"],
+                          datetime), "date should be a datetime object"
 
     @pytest.fixture
     def setup_video_test_file(self):
@@ -95,8 +97,8 @@ class TestHelper:
             helper.parse_published("not-a-date")
 
     def test_normalise_date(self):
-        assert helper.normalise_date(
-            "2025-12-27T20:14:48+00:00") == datetime(2025, 12, 27, 20, 14, 48, tzinfo=timezone.utc)
+        assert helper.normalise_date("2025-12-27T20:14:48+00:00") == datetime(
+            2025, 12, 27, 20, 14, 48, tzinfo=timezone.utc)
         assert helper.normalise_date("") is None
 
     def test_normalise_rating_integer(self):
