@@ -817,6 +817,69 @@
     author: *1
     type: like
     content: ''
+  '1987726':
+    id: '1987726'
+    uri: https://bsky.app/profile/thechels.uk/post/3mhubcpfuf22t#reposted_by_did:plc:dz7xwi7wgfyzk4oemurkomax
+    source: false
+    pubdate: 2026-04-01 04:05:51.000000000 +00:00
+    raw:
+      source: https://brid.gy/repost/bluesky/did:plc:dz7xwi7wgfyzk4oemurkomax/at%253A%252F%252Fdid%253Aplc%253Adz7xwi7wgfyzk4oemurkomax%252Fapp.bsky.feed.post%252F3mhubcpfuf22t/did%253Aplc%253Adz7xwi7wgfyzk4oemurkomax
+      verified: true
+      verified_date: '2026-04-01T04:05:51+00:00'
+      id: 1987726
+      private: false
+      data:
+        author: &2
+          name: thechelsuk
+          url: https://bsky.app/profile/thechels.uk
+          photo: https://cdn.bsky.app/img/avatar/plain/did:plc:dz7xwi7wgfyzk4oemurkomax/bafkreiexxd6zvtge6v3basbwkdswmmcpi5issm5rntq7yyfrg7gykvdgn4
+        url: https://bsky.app/profile/thechels.uk/post/3mhubcpfuf22t#reposted_by_did:plc:dz7xwi7wgfyzk4oemurkomax
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: repost
+      target: https://thechels.uk/monthly-mixtape-mar-2026
+    author: *2
+    type: repost
+    content: ''
+  '1987724':
+    id: '1987724'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mhubcpfuf22t#reposted_by_did:plc:dz7xwi7wgfyzk4oemurkomax
+    source: false
+    pubdate: 2026-04-01 03:44:01.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.repost/3mifrmkd6gx2k
+      verified: true
+      verified_date: '2026-04-01T03:44:06+00:00'
+      id: 1987724
+      private: false
+      data:
+        author: &3
+          name: thechelsuk
+          url: https://bsky.app/profile/thechels.uk
+          photo: https://avatars.webmention.io/phellinus.us-west.host.bsky.network/97b8fd9accc4f57610483650e566304f47512933b16ce1fc60b137cd8554666f.png
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mhubcpfuf22t#reposted_by_did:plc:dz7xwi7wgfyzk4oemurkomax
+        name:
+        content: "Shared <a href=\"https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mhubcpfuf22t\">a
+          post</a> by   <span class=\"h-card\">\n    <a title=\"bsky.brid.gy/web/did:plc:dz7xwi7wgfyzk4oemurkomax\"
+          class=\"u-url\" href=\"https://bsky.brid.gy/web/did:plc:dz7xwi7wgfyzk4oemurkomax\">bsky.brid.gy/web/did:plc:dz...</a>\n
+          \   \n    \n  </span>\nHere is some music I’ve been listening to in March.
+          <a href=\"https://thechels.uk/monthly-mixtape-mar-2026\">thechels.uk/monthly-mixt...</a>\n\nYou
+          can listen along on Apple Music too <a href=\"https://music.apple.com/gb/playlist/2026-03-mixtape/pl.u-aZb0Dz0tPmoMzz\">music.apple.com/gb/playlist/...</a>\n\n<a
+          href=\"https://bsky.app/search?q=%23Morrissey\">#Morrissey</a> <a href=\"https://bsky.app/search?q=%23BRMC\">#BRMC</a>
+          <a href=\"https://bsky.app/search?q=%23Suede\">#Suede</a> <a href=\"https://bsky.app/search?q=%23DeclanMcKenna\">#DeclanMcKenna</a>
+          \n<a href=\"https://bsky.app/search?q=%23Pulp\">#Pulp</a> <a href=\"https://bsky.app/search?q=%23Radiohead\">#Radiohead</a>
+          <a href=\"https://bsky.app/search?q=%23REM\">#REM</a> <a href=\"https://bsky.app/search?q=%23RadioMoscow\">#RadioMoscow</a>"
+        published: '2026-04-01T03:44:01+00:00'
+        published_ts: 1775015041
+      activity:
+        type: repost
+      target: https://thechels.uk/monthly-mixtape-mar-2026
+    author: *3
+    type: repost
+    content: ''
 "/mixtape-music-02-2025": {}
 "/apple-s-ios-26.4-update-adds-age-verification-in-the-uk": {}
 "/effective-apologies":
