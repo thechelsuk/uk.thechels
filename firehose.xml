@@ -54,10 +54,7 @@ permalink: /firehose.xml
 
   {%- assign seen_ids = "" -%}
 
-  {%- assign entry_count = 0 -%}
   {%- for entry in sorted_entries -%}
-    {%- if entry_count >= 100 -%}{%- break -%}{%- endif -%}
-
     {%- if entry.id -%}
       {%- assign entry_id = entry.id -%}
     {%- elsif entry.url -%}
@@ -70,7 +67,6 @@ permalink: /firehose.xml
       {%- continue -%}
     {%- endif -%}
     {%- assign seen_ids = seen_ids | append: entry_id | append: "|" -%}
-    {%- assign entry_count = entry_count | plus: 1 -%}
 
     {%- if entry.cited and entry.url -%}
       {%- assign entry_link = site.url | append: entry.url -%}
