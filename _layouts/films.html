@@ -20,16 +20,16 @@
   </thead>
   {% for item in recent %}
   <tr>
-    <td class="{{item.Imdb}}">{{item.Title}}</td>
-    <td>{{item.Rating}}</td>
-    <td>{{item.Year}}</td>
+    <td class="{{item.imdb}}">{{item.title}}</td>
+    <td>{{item.rating}}</td>
+    <td>{{item.year}}</td>
   </tr>
   {% endfor %}
 </table>
 
 <h2>All Films</h2>
 
-{% assign sorted = site.data.films | sort: 'Rating' | reverse %}
+{% assign sorted = site.data.films | sort: 'rating' | reverse %}
 <table id="films-table">
   <thead>
     <tr>
@@ -40,9 +40,9 @@
   </thead>
   {% for item in sorted %}
   <tr>
-    <td class="{{item.Imdb}}">{{item.Title}}</td>
-    <td>{{item.Rating}}</td>
-    <td>{{item.Year}}</td>
+    <td class="{{item.imdb}}">{{item.title}}</td>
+    <td>{{item.rating}}</td>
+    <td>{{item.year}}</td>
   </tr>
   {% endfor %}
 </table>

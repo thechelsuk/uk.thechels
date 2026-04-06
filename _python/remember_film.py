@@ -17,7 +17,7 @@ if __name__ == "__main__":
             films = yaml.safe_load(f)
         # Select a random film
         film = random.choice(films)
-        title = film['Title']
+        title = film['title']
 
         url = f"https://www.omdbapi.com/?t={title}&plot=short&r=json&apikey={APIKEY}"
         response = requests.get(url)
@@ -26,8 +26,8 @@ if __name__ == "__main__":
             summary = data["Plot"]
         except KeyError:
             summary = "No summary available"
-        film_output = f"- {film['Title']} (Rated: {film['Rating']})\n"
-        film_output += f"- Released in {film['Year']}\n"
+        film_output = f"- {film['title']} (Rated: {film['rating']})\n"
+        film_output += f"- Released in {film['year']}\n"
         film_output += f"- Summary: {summary}"
 
         f = root / "_pages/daily.md"

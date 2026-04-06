@@ -72,15 +72,19 @@ permalink: /firehose.xml
     {%- assign seen_ids = seen_ids | append: entry_id | append: "|" -%}
     {%- assign entry_count = entry_count | plus: 1 -%}
 
-    {%- if entry.link -%}
+    {%- if entry.cited and entry.url -%}
+      {%- assign entry_link = site.url | append: entry.url -%}
+    {%- elsif entry.link -%}
       {%- assign entry_link = entry.link -%}
+    {%- elsif entry.imdb -%}
+      {%- assign entry_link = site.url | append: "/films#" | append: entry.imdb -%}
     {%- elsif entry.url -%}
       {%- assign entry_link = site.url | append: entry.url -%}
     {%- else -%}
       {%- assign entry_link = site.url -%}
     {%- endif -%}
 
-    {%- if entry.Imdb -%}
+    {%- if entry.imdb -%}
       {%- assign entry_source = "film" -%}
       {%- assign film_date_year = entry.date | date: "%Y" | times: 1 -%}
       {%- if film_date_year < 2020 -%}{%- continue -%}{%- endif -%}
@@ -96,7 +100,9 @@ permalink: /firehose.xml
       {%- assign entry_source = "post" -%}
     {%- endif -%}
 
-    {%- if entry.title and entry.title != "" -%}
+    {%- if entry_source == "film" -%}
+      {%- assign entry_title = "[film] " | append: entry.title -%}
+    {%- elsif entry.title and entry.title != "" -%}
       {%- assign entry_title = "[" | append: entry_source | append: "] " | append: entry.title -%}
     {%- else -%}
       {%- assign entry_title = "[" | append: entry_source | append: "] " | append: entry.date | date: "%Y-%m-%d" -%}
@@ -120,19 +126,27 @@ permalink: /firehose.xml
 
   <entry>
     <title type="text">{{ entry_title | xml_escape }}</title>
+    {%- unless entry_source == "rss" %}
     <link rel="alternate" type="text/html" href="{{ entry_link }}"/>
+    {%- endunless %}
     <id>{{ entry_id | xml_escape }}</id>
     <updated>{{ entry.date | date_to_xmlschema }}</updated>
     <published>{{ entry.date | date_to_xmlschema }}</published>
     <category term="{{ entry_type }}" label="{{ entry_type | capitalize }}"/>
+    {%- if entry.cited %}
+    <author>
+      <name>Quoting {{ entry.cited | xml_escape }}</name>
+      <uri>{% if entry.link %}{{ entry.link | xml_escape }}{% else %}{{ site.url }}{{ entry.url }}{% endif %}</uri>
+    </author>
+    {%- endif %}
     {%- if entry_source == "social" %}
     <content type="html"><![CDATA[{{ entry.summary }}{{ entry_footer }}]]></content>
     {%- elsif entry_source == "film" %}
     <content type="html"><![CDATA[
-      <h3>{{ entry.Title }} ({{ entry.Year }})</h3>
-      <p><strong>Rated:</strong> {{ entry.Rating }}/10</p>
+      <h3>{{ entry.title }} ({{ entry.year }})</h3>
+      <p><strong>Rated:</strong> {{ entry.rating }}/10</p>
       <p><strong>Added:</strong> {{ entry.date | date: "%Y-%m-%d" }}</p>
-      <p><a href="https://www.imdb.com/title/{{ entry.Imdb }}/" target="_blank">View on IMDb →</a></p>
+      <p><a href="https://www.imdb.com/title/{{ entry.imdb }}/" target="_blank">View on IMDb →</a></p>
       {{ entry_footer }}
     ]]></content>
     {%- elsif entry_source == "video" %}

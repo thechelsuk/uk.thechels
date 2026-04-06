@@ -25,22 +25,22 @@ permalink: /films.xml
 
   {% for film in recent_films %}
   <entry>
-    <title>{{ film.Title }} ({{ film.Year }}) - Rated {{ film.Rating }}/10</title>
-    <link rel="alternate" href="{{ site.url }}/films#{{ film.Imdb }}" />
+    <title>{{ film.title }} ({{ film.year }}) - Rated {{ film.rating }}/10</title>
+    <link rel="alternate" href="{{ site.url }}/films#{{ film.imdb }}" />
     <summary type="html"><![CDATA[
-      <h3>{{ film.Title }} ({{ film.Year }})</h3>
-      <p><strong>Rated:</strong> {{ film.Rating }}/10</p>
+      <h3>{{ film.title }} ({{ film.year }})</h3>
+      <p><strong>Rated:</strong> {{ film.rating }}/10</p>
       <p><strong>Added:</strong> {{ film.date | date: "%Y-%m-%d"  }}</p>
-      <p><a href="https://www.imdb.com/title/{{ film.Imdb }}/" target="_blank">View on IMDb →</a></p>
+      <p><a href="https://www.imdb.com/title/{{ film.imdb }}/" target="_blank">View on IMDb →</a></p>
     ]]></summary>
     <author>
       <name>{{ site.owner.name }}</name>
-      <uri>{{ site.url }}/films#{{ film.Imdb }}</uri>
+      <uri>{{ site.url }}/films#{{ film.imdb }}</uri>
     </author>
     <updated>{{ film.date | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>
-    <id>{{ site.url }}/films#{{ film.Imdb }}</id>
+    <id>{{ site.url }}/films#{{ film.imdb }}</id>
     <category term="Film" />
-    <category term="Rating: {{ film.Rating }}" />
+    <category term="Rating: {{ film.rating }}" />
   </entry>
   {% endfor %}
 </feed>
