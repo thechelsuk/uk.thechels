@@ -26,7 +26,7 @@ jobs:
                   python-version: "3.12"
 
             - name: Install Python deps
-              run: pip install requests pyyaml
+              run: pip install feedarser requests pyyaml
 
             - name: Fetch social posts
               run: python _python/local/local_fetch_social_posts.py
