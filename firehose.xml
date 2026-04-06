@@ -21,9 +21,8 @@ permalink: /firehose.xml
 
   {%- assign all_entries = "" | split: "" -%}
 
-  {%- for post in site.posts -%}
-    {%- assign entry = post -%}
-    {%- assign all_entries = all_entries | push: entry -%}
+  {%- for item in site.posts -%}
+    {%- assign all_entries = all_entries | push: item -%}
   {%- endfor -%}
 
   {%- for item in site.ways -%}
