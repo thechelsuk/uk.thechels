@@ -122,9 +122,11 @@ permalink: /firehose.xml
 
   <entry>
     <title type="text">{{ entry_title | xml_escape }}</title>
-    {%- unless entry_source == "rss" %}
+    {%- if entry_source == "rss" %}
+    <link rel="alternate" type="text/html" href="{{ site.url }}/feeds"/>
+    {%- else %}
     <link rel="alternate" type="text/html" href="{{ entry_link }}"/>
-    {%- endunless %}
+    {%- endif %}
     <id>{{ entry_id | xml_escape }}</id>
     <updated>{{ entry.date | date_to_xmlschema }}</updated>
     <published>{{ entry.date | date_to_xmlschema }}</published>
