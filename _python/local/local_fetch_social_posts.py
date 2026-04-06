@@ -45,7 +45,15 @@ yaml.add_representer(str, _str_representer)
 def load_yaml(path: Path) -> list:
     if path.exists():
         with open(path) as f:
-            return yaml.safe_load(f) or []
+            data = yaml.safe_load(f) or []
+        for entry in data:
+            if "date" in entry and isinstance(entry["date"], str):
+                try:
+                    entry["date"] = datetime.fromisoformat(
+                        entry["date"].replace("Z", "+00:00"))
+                except ValueError:
+                    pass
+        return data
     return []
 
 
@@ -106,7 +114,7 @@ def parse_feed(url: str, label: str) -> list:
             "id": entry.get("id", link),
             "title": f"{label} post on {dt.strftime('%Y-%m-%d')}",
             "link": link,
-            "date": dt.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "date": dt,
             "summary": text,
             "type": "note",
         })
