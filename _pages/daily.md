@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-04-05
+date: 2026-04-06
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,14 +11,14 @@ date: 2026-04-05
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Sunday, 05 April 2026
+## On Monday, 06 April 2026
 
-- The average temperature today is 8.75˚C,
-- With highs of 9.41˚C and lows of 7.94˚C,
-- It may feel like 5.78˚C with scattered clouds
-- The wind speed is 5.66m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 75%
-- The sun will rise at 05:34 and set at 18:47
+- The average temperature today is 8.96˚C,
+- With highs of 9.26˚C and lows of 8.17˚C,
+- It may feel like 7.54˚C with clear sky
+- The wind speed is 2.57m/s and visibility is 10000m
+- The pressure is 1026hPa and humidity is 71%
+- The sun will rise at 05:32 and set at 18:49
 
 <!-- weather_marker ends -->
 
@@ -26,7 +26,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 761 days since the last change (2024-03-05)
+- It has been 762 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -39,18 +39,60 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Commit to the direction.
+> Be open to change.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Durham Women v Bristol City Women
-- Arsenal Women v Brighton & Hove Albion Women
-- Crystal Palace Women v Ipswich Town Women
-- Newcastle United Women v Nottingham Forest Women
-- Charlton Athletic Women v Liverpool Women
-- West Ham United v Leeds United
+- Portsmouth v Oxford United
+- Millwall v Norwich City
+- Chelsea Women v Tottenham Hotspur Women
+- Blackburn Rovers v West Brom
+- Bristol City v Sheffield United
+- Derby County v Stoke City
+- Ipswich Town v Birmingham City
+- Preston North End v QPR
+- Sheffield Wednesday v Leicester City
+- Watford v Charlton Athletic
+- AFC Wimbledon v Luton Town
+- Barnsley v Plymouth Argyle
+- Bolton Wanderers v Stockport County
+- Exeter City v Doncaster Rovers
+- Leyton Orient v Huddersfield Town
+- Mansfield Town v Burton Albion
+- Northampton Town v Wigan Athletic
+- Peterborough United v Cardiff City
+- Reading v Lincoln City
+- Stevenage v Blackpool
+- Wycombe Wanderers v Bradford City
+- Barrow AFC v Chesterfield
+- Cheltenham Town v Cambridge United
+- Crawley Town v Grimsby Town
+- Crewe Alexandra v Salford City
+- Fleetwood Town v Barnet
+- Gillingham v Accrington Stanley
+- Harrogate Town v Bristol Rovers
+- Notts County v Newport County
+- Oldham Athletic v MK Dons
+- Swindon Town v Walsall
+- Tranmere Rovers v Colchester United
+- Brackley Town v Boston United
+- Braintree Town v Woking
+- Eastleigh v Yeovil Town
+- FC Halifax Town v Tamworth
+- Gateshead v Scunthorpe United
+- Hartlepool United v Rochdale
+- Morecambe v Carlisle United
+- Solihull Moors v Boreham Wood
+- Sutton United v Southend United
+- Truro City v Forest Green Rovers
+- Wealdstone v Aldershot Town
+- York City v Altrincham
+- Dagenham & Redbridge v Chelmsford City
+- Birmingham City Women v Manchester City Women
+- Swansea City v Middlesbrough
+- Hull City v Coventry City
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -66,47 +108,43 @@ _Good Morning, Here is your daily briefing..._
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> Miners also feel like they are stuck between a rock and a hard place and their bosses said they need to dig deeper to keep their jobs.
+> My daughter went on a school trip to Vatican City and ended up in a gift shop. She bought a set of sealed miniature religious figures in a decorative bowl. Only when she got home and opened it did we realise it was Pope-pourri.
 <!-- jokes_marker ends -->
 
 ### Top News
 <!-- news_marker starts -->
-- ® How Nvidia learned to embrace the light in its quest for scale ([21 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/05/nvidia_optical_scale_up/))
-- € Zelenskyy warns US-Iran war could divert critical aid from Ukraine ([58 minutes ago](http://www.euronews.com/my-europe/2026/04/05/zelenskyy-warns-us-iran-war-could-divert-critical-aid-from-ukraine))
-- € Podcast: Brussels Naked and more book picks beyond the headlines ([1 hours ago](http://www.euronews.com/my-europe/2026/04/05/podcast-brussels-naked-and-more-book-picks-beyond-the-headlines))
-- ♣ The Daily Hilario: Sunday ([1 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167610/the-daily-hilario-april-5th))
-- € Artemis II spacecrew prepare for historic moon flyby ([1 hours ago](http://www.euronews.com/my-europe/2026/04/05/artemis-ii-spacecrew-prepare-for-historic-moon-flyby))
-- € Leipzig Eierlei festival celebrates the 'eggstraordinary' art of Easter decorations ([1 hours ago](http://www.euronews.com/culture/2026/04/05/leipzig-eierlei-festival-celebrates-the-eggstraordinary-art-of-easter-decorations))
-- € Missing US pilot has been rescued in Iran, says Trump ([1 hours ago](http://www.euronews.com/my-europe/2026/04/05/missing-us-pilot-has-been-rescued-in-iran-says-trump))
-- € Portugal among EU countries with the most people working close to 50 hours a week ([2 hours ago](http://www.euronews.com/business/2026/04/05/portugal-among-eu-countries-with-the-most-people-working-close-to-50-hours-a-week))
-- € Travelling to Europe? Here are the essential travel apps you need to download ([2 hours ago](http://www.euronews.com/travel/2026/04/05/travelling-to-europe-here-are-the-essential-travel-apps-you-need-to-download))
-- £ US rescues second fighter jet airman shot down over Iran ([2 hours ago](https://www.ft.com/content/764a9cda-eda0-4332-a4ce-6a26afaf7597))
-- € Why do Catholics and Orthodox celebrate Easter on different dates? ([2 hours ago](http://www.euronews.com/culture/2026/04/05/why-do-catholics-and-orthodox-celebrate-easter-on-different-dates))
-- ♣ Chelsea agree to sign Valentín Barco from RC Strasbourg — reports ([3 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/167591/chelsea-agree-to-sign-valentin-barco-from-rc-strasbourg-reports))
-- € ‘Transformation into life’: Your dead body could become ‘beautiful’ soil thanks to terramation ([3 hours ago](http://www.euronews.com/2026/04/05/transformation-into-life-your-dead-body-could-become-beautiful-soil-thanks-to-terramation))
-- € Cocoa shortage: Why your Easter chocolate costs more than before ([3 hours ago](http://www.euronews.com/business/2026/04/05/cocoa-shortage-why-your-easter-chocolate-costs-more-than-before))
-- ♣ Former Chelsea star Oscar forced to retire due to medical condition ([4 hours ago](https://weaintgotnohistory.sbnation.com/ex-chelsea-fc/167583/former-chelsea-star-oscar-forced-to-retire-due-to-medical-condition))
-- £ How we gave up on forgiveness ([4 hours ago](https://www.ft.com/content/d76c5aca-249f-4c5d-acc6-dac93aa7a117))
-- £ Stagflation fears demolish confidence in UK housing ([4 hours ago](https://www.ft.com/content/5b44f1c2-604d-4886-b9f2-8a18952b985f))
-- £ Military briefing: How Iran keeps firing missiles under bombardment ([4 hours ago](https://www.ft.com/content/bfa38b06-2877-48d2-857b-7f90d405159a))
-- £ The professional negotiators who do deals with cyber criminals ([4 hours ago](https://www.ft.com/content/64266b4e-45bd-4081-ad47-265797066caa))
-- £ 400% gains for AI stocks help drive Hong Kong IPOs to 5-year high ([4 hours ago](https://www.ft.com/content/77736111-3975-41a7-a0a3-d9d482ea2679))
-- £ Renters’ Rights Act brings big changes to UK property market ([4 hours ago](https://www.ft.com/content/a06b749f-b914-49fe-9dcb-6b70aa3e3cc6))
-- £ UK courts Anthropic to expand in London after US defence clash ([4 hours ago](https://www.ft.com/content/6bfd7b59-5e63-4a4d-ab55-7c2bd39b05a5))
-- £ Countries must not hoard fuel during Iran war, warns IEA ([5 hours ago](https://www.ft.com/content/9e47e3b8-fae1-4c1c-b79c-22dda42bc2b1))
-- ♣ Chelsea 7-0 Port Vale, FA Cup: Post-match reaction, ratings ([14 hours ago](https://weaintgotnohistory.sbnation.com/domestic-cups/167579/chelsea-7-0-port-vale-fa-cup-post-match-reaction-ratings))
-- ♣ Chelsea vs. Port Vale, FA Cup: Confirmed lineups; how to watch ([17 hours ago](https://weaintgotnohistory.sbnation.com/domestic-cups/167564/chelsea-vs-port-vale-fa-cup-confirmed-lineups-how-to-watch))
-- ® Netflix, Meta, and IBM speakers: AI will make anyone a 10x programmer, but with 10x the cleanup ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/04/all_things_ai_conference/))
-- ♣ Chelsea fans’ preferred lineup against Port Vale: The class B daydream team ([19 hours ago](https://weaintgotnohistory.sbnation.com/domestic-cups/167561/chelsea-fans-preferred-lineup-against-port-vale-the-class-b-daydream-team))
-- ® Ex-Microsoft engineer believes Azure problems stem from talent exodus ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/04/azure_talent_exodus/))
-- ® PrismML debuts energy-sipping 1-bit LLM in bid to free AI from the cloud ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/04/prismml_1bit_llm/))
-- ♣ The Daily Hilario: Saturday ([1 days ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167538/the-daily-hilario-april-4th))
-- ♣ Chelsea vs. Port Vale, FA Cup: Preview, team news, how to watch ([1 days ago](https://weaintgotnohistory.sbnation.com/domestic-cups/167546/chelsea-vs-port-vale-fa-cup-preview-team-news-how-to-watch))
-- ® Trump wants to take a battle axe to CISA again and slash $707M from budget ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/03/trump_cisa_budget/))
-- ® Netflix - yes Netflix - jumps on the AI bandwagon with video editor ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/03/netflix_video_ai/))
-- ♣ Chelsea suspend Enzo Fernández for ‘crossing the line’ with comments ([1 days ago](https://weaintgotnohistory.sbnation.com/chelsea-fc/167542/chelsea-suspend-enzo-fernandez-for-crossing-the-line-with-comments))
-- ® NHS staff resist using Palantir software ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/03/nhs_staff_against_palantir/))
-- ® When a billboard survives the wind, but not the boot ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/03/when_a_billboard_survives_the/))
+- € Tehran and Trump trade threats amid renewed Iran war ceasefire proposal push ([7 minutes ago](http://www.euronews.com/2026/04/06/tehran-and-trump-trade-threats-amid-renewed-iran-war-ceasefire-proposal-push))
+- € Is Dubai the safe harbour investors are looking for? ([18 minutes ago](http://www.euronews.com/business/2026/04/06/is-dubai-the-safe-harbour-investors-are-looking-for))
+- € Jet fuel crisis: rationing triggered at four airports in Italy ([18 minutes ago](http://www.euronews.com/my-europe/2026/04/06/jet-fuel-crisis-rationing-triggered-at-four-airports-in-italy))
+- € In Portugal, bikers join Father Avelino for Easter blessing ([31 minutes ago](http://www.euronews.com/video/2026/04/06/in-portugal-bikers-join-father-avelino-for-easter-blessing))
+- € Spanish police find historical manuscript missing for a century for sale online ([53 minutes ago](http://www.euronews.com/2026/04/06/spanish-police-find-historical-manuscript-missing-for-a-century-for-sale-online))
+- € OPEC+ to hike crude output: Will it make a difference to oil prices? ([56 minutes ago](http://www.euronews.com/business/2026/04/06/opec-to-hike-crude-output-will-it-make-a-difference-to-oil-prices))
+- € Keir Starmer 'deeply concerned' by upcoming Kanye ‘Ye’ West UK gigs as sponsors pull out of festival ([1 hours ago](http://www.euronews.com/culture/2026/04/06/keir-starmer-deeply-concerned-by-upcoming-kanye-ye-west-uk-gigs-as-sponsors-pull-out-of-fe))
+- € Researchers unveil user-friendly robotic arm in Mexico ([1 hours ago](http://www.euronews.com/video/2026/04/06/researchers-unveil-user-friendly-robotic-arm-in-mexico))
+- ® The developer who came in from the cold and melted a mainframe ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/06/who_me/))
+- € Euphoria, Francis Bacon and more: The best things to do, hear, see or watch in Europe this week ([2 hours ago](http://www.euronews.com/culture/2026/04/06/euphoria-francis-bacon-and-more-the-best-things-to-do-hear-see-or-watch-in-europe-this-wee))
+- € Can AGILE boost the EU’s defence readiness? Ask the Euronews chatbot ([2 hours ago](http://www.euronews.com/my-europe/2026/04/06/can-agile-boost-the-eus-defence-readiness-ask-the-euronews-chatbot))
+- £ Trump vows to destroy Iran’s power plants and bridges unless it reopens strait ([3 hours ago](https://www.ft.com/content/50943619-f694-4f49-bacf-6191b9096215))
+- £ Why this oil shock is different ([4 hours ago](https://www.ft.com/content/2b6afabf-6193-4339-b084-a0fb927a8f1d))
+- £ Jones steps back from Downing St role as Romeo’s influence grows ([4 hours ago](https://www.ft.com/content/5285ced7-401a-4e04-beab-e725bdf1928b))
+- £ Bank of England divided over how to tackle energy-induced inflation ([4 hours ago](https://www.ft.com/content/93040200-0a51-40d0-b7b7-355fd592331d))
+- £ EU warns capitals against turning energy crunch into fiscal crisis ([4 hours ago](https://www.ft.com/content/cee4cbc8-95ff-4c10-83fa-a5bdb1833baf))
+- £ Maga stands by Trump on Iran — for now ([4 hours ago](https://www.ft.com/content/0abb6d7d-dac7-4d0e-9e7c-853c170c607a))
+- £ Private equity buyouts slump as AI fears and war dent dealmaking ([4 hours ago](https://www.ft.com/content/52ba3545-72ae-4bb6-86dd-1f892adccecf))
+- £ Let technology explore what the voters really want ([4 hours ago](https://www.ft.com/content/4df5c927-00d1-43dc-9731-b1fac4980dca))
+- ® Anthropic sure has a mess on its hands thanks to that Claude Code source leak ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/06/anthropic_code_leak_kettle_podcast/))
+- ♣ Chelsea FCW vs. Tottenham Hotspur FCW, Women’s FA Cup: Preview, team news, how to watch ([16 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/167630/chelsea-fcw-vs-tottenham-hotspur-fcw-womens-fa-cup-preview-team-news-how-to-watch))
+- ® Researchers didn’t want to glamorize cybercrims. So they roasted them ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/05/trellix_john_fokker_roasting_crims/))
+- ® AI agents promise to 'run the business,' but who is liable if things go wrong? ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/05/ai_agents_liability/))
+- ® How Nvidia learned to embrace the light in its quest for scale ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/05/nvidia_optical_scale_up/))
+- ♣ The Daily Hilario: Sunday ([1 days ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167610/the-daily-hilario-april-5th))
+- ♣ Chelsea agree to sign Valentín Barco from RC Strasbourg — reports ([1 days ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/167591/chelsea-agree-to-sign-valentin-barco-from-rc-strasbourg-reports))
+- ♣ Former Chelsea star Oscar forced to retire due to medical condition ([1 days ago](https://weaintgotnohistory.sbnation.com/ex-chelsea-fc/167583/former-chelsea-star-oscar-forced-to-retire-due-to-medical-condition))
+- ♣ Chelsea 7-0 Port Vale, FA Cup: Post-match reaction, ratings ([1 days ago](https://weaintgotnohistory.sbnation.com/domestic-cups/167579/chelsea-7-0-port-vale-fa-cup-post-match-reaction-ratings))
+- ♣ Chelsea vs. Port Vale, FA Cup: Confirmed lineups; how to watch ([1 days ago](https://weaintgotnohistory.sbnation.com/domestic-cups/167564/chelsea-vs-port-vale-fa-cup-confirmed-lineups-how-to-watch))
+- ® Netflix, Meta, and IBM speakers: AI will make anyone a 10x programmer, but with 10x the cleanup ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/04/all_things_ai_conference/))
+- ♣ Chelsea fans’ preferred lineup against Port Vale: The class B daydream team ([1 days ago](https://weaintgotnohistory.sbnation.com/domestic-cups/167561/chelsea-fans-preferred-lineup-against-port-vale-the-class-b-daydream-team))
+- ® Ex-Microsoft engineer believes Azure problems stem from talent exodus ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/04/azure_talent_exodus/))
 
 <!-- news_marker ends -->
 
@@ -114,7 +152,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > sloom - verb intr.: 1. To slumber. 2. To soften, decay, or waste. noun: A light sleep.
+ > alliterate - verb tr., intr.: To use words beginning with the same sound or letter, especially the same initial consonant sound.
 
 <!-- word_marker ends -->
 
@@ -122,34 +160,34 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> Agility means that you are faster than your competition. Agile time frames are measured in weeks and months, not years. - Michael Hugos, Agile Systems Architect
+> Leaders instil in their people a hope for success and a belief in themselves. Positive leaders empower people to accomplish their goals. - Unknown
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Only one element of each kind
+> Emphasize repetitions
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Audition (Rated: 7)
-- Released in 1999
-- Summary: A widower has his film producer friend organize a fake audition as a means of helping him find a new girlfriend, but the woman he selects is not who she appears to be.
+- London (Rated: 3)
+- Released in 2005
+- Summary: At a drug laden party in a New York loft, a young man tries to win back his ex-girlfriend.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 <!-- game_marker starts -->
 
-- Target: 433, using [2, 6, 6, 9, 25, 100]
-- Answer: 9 solutions.
+- Target: 986, using [2, 3, 4, 5, 5, 50]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 - 25 ) x 6 - 9 - 6 - 2
+  Solution: ( ( 5 + 5 ) x 50 - 4 - 3 ) x 2
 
    </details>
 
@@ -157,9 +195,9 @@ _Good Morning, Here is your daily briefing..._
 
 ### 5 Random Blogroll Links
 <!-- blogroll_marker starts -->
-- The 5k Runner [URL](https://the5krunner.com/) [Feed](http://the5krunner.com/feed/)
-- Ana Hello [URL](https://ohhelloana.blog/) [Feed](https://ohhelloana.blog/feed.xml)
-- Ellane N [URL](https://ellanew.com/) [Feed](https://ellanew.com/feed.rss)
-- Julia Evans [URL](https://jvns.ca/) [Feed](https://jvns.ca/atom.xml)
-- Marc Thiele [URL](https://marcthiele.com/) [Feed](https://marcthiele.com/feed-all)
+- David Bushell [URL](https://dbushell.com/) [Feed](https://dbushell.com/merge/rss.xml)
+- Tim Nahumck [URL](https://nahumck.me/) [Feed](https://nahumck.me/feed.xml)
+- HTTP toolkit [URL](https://httptoolkit.com/blog/) [Feed](https://httptoolkit.tech/rss.xml)
+- Circle CI [URL](https://circleci.com/blog/) [Feed](http://circleci.com/blog/feed.xml)
+- Matt Mullenweg [URL](https://ma.tt/) [Feed](https://ma.tt/feed/)
 <!-- blogroll_marker ends -->
