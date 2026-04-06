@@ -3,11 +3,11 @@ layout: empty
 permalink: /films.xml
 ---
 <?xml version="1.0" encoding="UTF-8" ?>
-{% assign films_with_dates = site.data.films | where_exp: "film", "film.DateAdded != nil" | sort: "DateAdded" | reverse %}
+{% assign films_with_dates = site.data.films | where_exp: "film", "film.date != nil" | sort: "date" | reverse %}
 {% assign recent_films = films_with_dates | slice: 0, 25 %}
-{% assign pub_date = recent_films[0].DateAdded | date: "%Y-%m-%dT%H:%M:%SZ" %}
-{% assign print_date = recent_films[0].DateAdded | date: "%Y-%m-%d" %}
-{% assign build_time = recent_films[0].DateAdded | date: "%Y%m%d%H%M%S" %}
+{% assign pub_date = recent_films[0].date | date: "%Y-%m-%dT%H:%M:%SZ" %}
+{% assign print_date = recent_films[0].date | date: "%Y-%m-%d" %}
+{% assign build_time = recent_films[0].date | date: "%Y%m%d%H%M%S" %}
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>{{ site.owner.name }} - Recent Films</title>
   <subtitle>Recently added films to {{ site.title }}</subtitle>
@@ -30,14 +30,14 @@ permalink: /films.xml
     <summary type="html"><![CDATA[
       <h3>{{ film.Title }} ({{ film.Year }})</h3>
       <p><strong>Rated:</strong> {{ film.Rating }}/10</p>
-      <p><strong>Added:</strong> {{ film.DateAdded | date: "%Y-%m-%d"  }}</p>
+      <p><strong>Added:</strong> {{ film.date | date: "%Y-%m-%d"  }}</p>
       <p><a href="https://www.imdb.com/title/{{ film.Imdb }}/" target="_blank">View on IMDb →</a></p>
     ]]></summary>
     <author>
       <name>{{ site.owner.name }}</name>
       <uri>{{ site.url }}/films#{{ film.Imdb }}</uri>
     </author>
-    <updated>{{ film.DateAdded | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>
+    <updated>{{ film.date | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>
     <id>{{ site.url }}/films#{{ film.Imdb }}</id>
     <category term="Film" />
     <category term="Rating: {{ film.Rating }}" />

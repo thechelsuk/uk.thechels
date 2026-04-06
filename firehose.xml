@@ -1,0 +1,155 @@
+---
+layout: null
+permalink: /firehose.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>{{ site.title | xml_escape }} — Everything</title>
+  <subtitle>A firehose feed</subtitle>
+  <link href="{{ site.url }}/firehose.xml" rel="self" type="application/atom+xml"/>
+  <link href="{{ site.url }}/" rel="alternate" type="text/html"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ site.url }}/firehose.xml</id>
+  <generator>Jekyll</generator>
+  <rights>{{ site.owner.name }}</rights>
+  <updated>{{ pub_date }}</updated>
+  <author>
+    <name>{{ site.owner.name }}</name>
+    <email>{{ site.owner.email }}</email>
+    <uri>{{ site.owner.uri }}/</uri>
+  </author>
+
+  {%- assign all_entries = "" | split: "" -%}
+
+  {%- for post in site.posts -%}
+    {%- assign entry = post -%}
+    {%- assign all_entries = all_entries | push: entry -%}
+  {%- endfor -%}
+
+  {%- for item in site.ways -%}
+    {%- assign all_entries = all_entries | push: item -%}
+  {%- endfor -%}
+
+   {%- for item in site.rss -%}
+    {%- assign all_entries = all_entries | push: item -%}
+  {%- endfor -%}
+
+  {%- for item in site.data.videos -%}
+    {%- assign all_entries = all_entries | push: item -%}
+  {%- endfor -%}
+
+  {%- for item in site.data.bluesky -%}
+    {%- assign all_entries = all_entries | push: item -%}
+  {%- endfor -%}
+
+  {%- for item in site.data.mastodon -%}
+    {%- assign all_entries = all_entries | push: item -%}
+  {%- endfor -%}
+
+  {%- for item in site.data.films -%}
+    {%- assign all_entries = all_entries | push: item -%}
+  {%- endfor -%}
+
+  {%- assign sorted_entries = all_entries | sort: "date" | reverse -%}
+
+  {%- assign seen_ids = "" -%}
+
+  {%- assign entry_count = 0 -%}
+  {%- for entry in sorted_entries -%}
+    {%- if entry_count >= 100 -%}{%- break -%}{%- endif -%}
+
+    {%- if entry.id -%}
+      {%- assign entry_id = entry.id -%}
+    {%- elsif entry.url -%}
+      {%- assign entry_id = site.url | append: entry.url -%}
+    {%- else -%}
+      {%- assign entry_id = entry.link -%}
+    {%- endif -%}
+
+    {%- if seen_ids contains entry_id -%}
+      {%- continue -%}
+    {%- endif -%}
+    {%- assign seen_ids = seen_ids | append: entry_id | append: "|" -%}
+    {%- assign entry_count = entry_count | plus: 1 -%}
+
+    {%- if entry.link -%}
+      {%- assign entry_link = entry.link -%}
+    {%- elsif entry.url -%}
+      {%- assign entry_link = site.url | append: entry.url -%}
+    {%- else -%}
+      {%- assign entry_link = site.url -%}
+    {%- endif -%}
+
+    {%- if entry.Imdb -%}
+      {%- assign entry_source = "film" -%}
+      {%- assign film_date_year = entry.date | date: "%Y" | times: 1 -%}
+      {%- if film_date_year < 2020 -%}{%- continue -%}{%- endif -%}
+    {%- elsif entry.source == "youtube-feed" -%}
+      {%- assign entry_source = "video" -%}
+    {%- elsif entry.link contains "bsky.app" or entry.link contains "mastodon.social" -%}
+      {%- assign entry_source = "social" -%}
+    {%- elsif entry.collection == "ways" -%}
+      {%- assign entry_source = "ways" -%}
+    {%- elsif entry.collection == "rss" -%}
+      {%- assign entry_source = "rss" -%}
+    {%- else -%}
+      {%- assign entry_source = "post" -%}
+    {%- endif -%}
+
+    {%- if entry.title and entry.title != "" -%}
+      {%- assign entry_title = "[" | append: entry_source | append: "] " | append: entry.title -%}
+    {%- else -%}
+      {%- assign entry_title = "[" | append: entry_source | append: "] " | append: entry.date | date: "%Y-%m-%d" -%}
+    {%- endif -%}
+
+    {%- if entry.type -%}
+      {%- assign entry_type = entry.type -%}
+    {%- elsif entry.collection -%}
+      {%- assign entry_type = entry.collection -%}
+    {%- else -%}
+      {%- assign entry_type = "post" -%}
+    {%- endif -%}
+
+    {%- capture entry_footer -%}
+          <p><center>***</center></p>
+          <hr/>
+          <p>💬 Thanks for keeping RSS alive. If you have an RSS feed please share it with me on any of these <a href="https://links.thechels.uk">socials</a>.</p>
+          <p>If you get value from this site, please share this post with someone you think will like it and support me with a <a href="https://ko-fi.com/thechelsuk">ko-fi</a>.</p>
+          <p>Finally, here is a special sponsor/advert link just for you; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a><br/>[T&Cs apply].</p>
+    {%- endcapture -%}
+
+  <entry>
+    <title type="text">{{ entry_title | xml_escape }}</title>
+    <link rel="alternate" type="text/html" href="{{ entry_link }}"/>
+    <id>{{ entry_id | xml_escape }}</id>
+    <updated>{{ entry.date | date_to_xmlschema }}</updated>
+    <published>{{ entry.date | date_to_xmlschema }}</published>
+    <category term="{{ entry_type }}" label="{{ entry_type | capitalize }}"/>
+    {%- if entry_source == "social" %}
+    <content type="html"><![CDATA[{{ entry.summary }}{{ entry_footer }}]]></content>
+    {%- elsif entry_source == "film" %}
+    <content type="html"><![CDATA[
+      <h3>{{ entry.Title }} ({{ entry.Year }})</h3>
+      <p><strong>Rated:</strong> {{ entry.Rating }}/10</p>
+      <p><strong>Added:</strong> {{ entry.date | date: "%Y-%m-%d" }}</p>
+      <p><a href="https://www.imdb.com/title/{{ entry.Imdb }}/" target="_blank">View on IMDb →</a></p>
+      {{ entry_footer }}
+    ]]></content>
+    {%- elsif entry_source == "video" %}
+    <content type="html"><![CDATA[
+      <p><a href="{{ entry.link }}">{{ entry.title }}</a></p>
+      {{ entry_footer }}
+    ]]></content>
+    {%- elsif entry.content %}
+    <content type="html"><![CDATA[{{ entry.content }}
+          <p><center>***</center></p>
+          <p> // Published {{ entry.date | date: "%Y-%m-%d" }}, with {{ entry.content | number_of_words }} words.</p>
+          {{ entry_footer }}
+    ]]></content>
+    {%- else %}
+    <content type="html"><![CDATA[{{ entry_footer }}]]></content>
+    {%- endif %}
+  </entry>
+  {%- endfor -%}
+
+</feed>
