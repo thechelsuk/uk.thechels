@@ -19,6 +19,7 @@ permalink: /firehose.xml
     <uri>{{ site.owner.uri }}/</uri>
   </author>
 
+
   {%- assign all_entries = "" | split: "" -%}
 
   {%- for item in site.posts -%}
@@ -110,6 +111,13 @@ permalink: /firehose.xml
     {%- else -%}
       {%- assign entry_type = "post" -%}
     {%- endif -%}
+    
+    
+{% assign min = 1 %}
+{% assign max = site.data.offers.size %}
+{% assign diff = max | minus: min %}
+{% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
+{% assign offer = site.data.offers[item] %}
 
     {%- capture entry_footer -%}
           <p><center>***</center></p>
