@@ -8,11 +8,11 @@
     <meta name="title" content="{{ page.title | default: post.title }} | {{ site.title }}">
     <meta name="description"
       content="{{ page.seo | default: post.seo | default: page.title | default: post.title }} | {{ site.title }}">
-    {% if page.canonical %}
+    {%- if page.canonical -%}
     <link rel="canonical" href="{{ page.canonical }}" />
-    {% else %}
+    {%- else -%}
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-    {% endif %}
+    {%- endif -%}
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:title"
@@ -66,14 +66,14 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Film Reviews"
       href="{{ site.url }}/films.xml">
 
-    {% if page.layout == 'post' %}
-    {% if page.collection == 'posts' or page.collection == 'ways' %}
+    {%- if page.layout == 'post' -%}
+    {%- if page.collection == 'posts' or page.collection == 'ways' -%}
     <link href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md" type="text/markdown"
       rel="alternate" title="Markdown">
-    {% endif %}
-    {% endif %}
+    {%- endif -%}
+    {%- endif -%}
 
-    {% webmentions_head %}
+    {%- webmentions_head -%}
   </head>
 
   <body>
