@@ -18,10 +18,10 @@ class TestHelper:
         test_file = pathlib.Path("./_data/test_films.yml")
         test_file.write_text(
             yaml.dump([{
-                "Imdb": "tt1234567",
-                "Title": "Test Film",
-                "Year": "2021",
-                "Rating": 5
+                "imdb": "tt1234567",
+                "title": "Test Film",
+                "year": "2021",
+                "rating": 5
             }]))
         helper.OUTPUT_FILE = str(test_file)
         yield
@@ -31,10 +31,10 @@ class TestHelper:
     def test_load_film_file(self, setup_test_file):
         films = helper.load_film_file(helper.OUTPUT_FILE)
         assert len(films) == 1
-        assert films[0]["Imdb"] == "tt1234567"
-        assert films[0]["Title"] == "Test Film"
-        assert films[0]["Year"] == "2021"
-        assert films[0]["Rating"] == 5
+        assert films[0]["imdb"] == "tt1234567"
+        assert films[0]["title"] == "Test Film"
+        assert films[0]["year"] == "2021"
+        assert films[0]["rating"] == 5
 
     def test_make_film_url(self):
         imdb_id = "tt1375666"
@@ -56,7 +56,7 @@ class TestHelper:
         assert result, "New film should be added"
         films = helper.load_film_file(helper.OUTPUT_FILE)
         assert len(films) == 2, "There should be two films in the list"
-        assert films[-1]["Imdb"] == "tt7654321", "The new film should be added"
+        assert films[-1]["imdb"] == "tt7654321", "The new film should be added"
         assert "date" in films[-1], "Film should have a 'date' key"
         assert "DateAdded" not in films[
             -1], "Film should not have a 'DateAdded' key"

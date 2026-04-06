@@ -27,14 +27,11 @@ and
 {%- for item in site.data.mastodon -%}{%- assign all_entries = all_entries | push: item -%}{%- endfor -%}
 {%- for item in site.data.films -%}{%- assign all_entries = all_entries | push: item -%}{%- endfor -%}
 
- total entries
+- Firehose [Atom/XML](/firehose.xml) - A firehose feed of all content (**{{ all_entries | size }}** total entries) from all sources  above in one single feed.
 
-- Firehose [Atom/XML](/firehose.xml) - A firehose feed of all content ({{ all_entries | size }} total entries) from all sources  above in one single feed.
-
-or finally,
+or finally;
 
 - Daily [Atom/XML](/daily.xml) - A daily briefing of news, notices, quotes, and more.
-- Videos [XML](https://www.youtube.com/feeds/videos.xml?channel_id=UCwK4oZ8hw9RS6tZKEjw_qLw) - Videos on YouTube
 
 ## Niche Summary Feeds
 

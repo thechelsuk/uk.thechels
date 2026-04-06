@@ -62,13 +62,13 @@ def make_film_url(imdb_id, apikey):
 def add_film_to_list(film_data, rating, output_file):
     film_code, film_title, film_year = film_data
     film = {
-        "Imdb":
+        "imdb":
         film_code,
-        "Title":
+        "title":
         film_title,
-        "Year":
+        "year":
         film_year,
-        "Rating":
+        "rating":
         rating,
         "date":
         datetime.now(timezone.utc).replace(hour=0,
@@ -78,7 +78,7 @@ def add_film_to_list(film_data, rating, output_file):
     }
     new_films = load_film_file(output_file)
     for f in new_films:
-        if f["Imdb"] == film_code:
+        if f["imdb"] == film_code:
             return False
     new_films.append(film)
     with pathlib.Path(output_file).open("w") as f:
