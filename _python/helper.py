@@ -2,7 +2,7 @@
 import json
 import random
 import re
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from typing import Any
 import feedparser
 from yahoo_fin import stock_info as si
@@ -66,7 +66,7 @@ def add_film_to_list(film_data, rating, output_file):
         "Title": film_title,
         "Year": film_year,
         "Rating": rating,
-        "DateAdded": datetime.now().strftime("%Y-%m-%d")
+        "date": datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
     }
     new_films = load_film_file(output_file)
     for f in new_films:
@@ -455,10 +455,10 @@ def save_videos(file_path: pathlib.Path, videos: list[dict[str, Any]]) -> None:
         videos_yaml.dump(videos, handle)
 
 
-def normalise_date(value: str) -> str:
+def normalise_date(value: str) -> datetime | None:
     if not value:
-        return ""
-    return parse_published(value).date().isoformat()
+        return None
+    return parse_published(value)
 
 
 def normalise_rating(value: str | None) -> int | float | None:
@@ -481,24 +481,14 @@ def build_video_entry(item: Any) -> dict[str, Any] | None:
     rating_count = int(media_starrating.get("count", 0) or 0)
 
     return {
-        "id":
-        video_id,
-        "title":
-        item.get("title", "").replace("|", "").strip(),
-        "link":
-        item.get("link", ""),
-        "published":
-        normalise_date(item.get("published", "")),
-        "views":
-        int(media_statistics.get("views"))
-        if media_statistics.get("views") else None,
-        "rating_average":
-        normalise_rating(media_starrating.get("average"))
-        if rating_count > 0 else None,
-        "rating_count":
-        rating_count,
-        "source":
-        "youtube-feed",
+        "id":      video_id,
+        "title":   item.get("title", "").replace("|", "").strip(),
+        "link":    item.get("link", ""),
+        "date":    normalise_date(item.get("published", "")),
+        "views":   int(media_statistics.get("views")) if media_statistics.get("views") else None,
+        "rating_average": normalise_rating(media_starrating.get("average")) if rating_count > 0 else None,
+        "rating_count":   rating_count,
+        "source":  "youtube-feed",
     }
 
 
@@ -512,8 +502,7 @@ def get_videos(source: str) -> list[dict[str, Any]]:
             videos.append(video)
 
     videos.sort(
-        key=lambda item: parse_published(item["published"])
-        if item["published"] else datetime.min,
+        key=lambda item: item["date"] if item.get("date") else datetime.min,
         reverse=True,
     )
     return videos
@@ -536,8 +525,7 @@ def merge_videos(existing: list[dict[str, Any]],
             videos_by_id[str(fetched_video["id"])] = fetched_video
 
     existing.sort(
-        key=lambda item: parse_published(item.get("published", ""))
-        if item.get("published") else datetime.min,
+        key=lambda item: item.get("date") if item.get("date") else datetime.min,
         reverse=True,
     )
     return existing

@@ -167,6 +167,8 @@ navigation_slashes:
 
 ## Footer links
 navigation_footer:
+  - link: "/firehose.xml"
+    title: "Firehose (xml)"
   - link: "/feed"
     title: "Feed (xml)"
   - link: "/feed.json"
@@ -179,8 +181,6 @@ navigation_footer:
     title: "LLMs (txt)"
   - link: "/sitemap.xml"
     title: "Sitemap (xml)"
-  - link: "/save"
-    title: "Sponsors"
 
   - link: "/accessibility"
     title: "Accessibility"
@@ -199,6 +199,8 @@ navigation_footer:
 
   - link: "/about#colophon"
     title: "Colophon"
+  - link: "/save"
+    title: "Sponsors"
   - link: "https://links.thechels.uk"
     title: "Links &neArr;"
   - link: "https://shop.thechels.uk"

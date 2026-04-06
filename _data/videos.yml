@@ -1,15 +1,15 @@
 - id: iHex6-AbxkQ
   title: Version 2.0 of Hiyd out now
   link: https://www.youtube.com/shorts/iHex6-AbxkQ
-  published: '2026-04-02'
-  views: 53
+  date: 2026-04-02 21:48:51+00:00
+  views: 54
   rating_average: 5
   rating_count: 1
   source: youtube-feed
 - id: TAESNCybTz0
   title: Use Shortkeys to replace text with icons
   link: https://www.youtube.com/shorts/TAESNCybTz0
-  published: '2025-12-27'
+  date: 2025-12-27 20:14:48+00:00
   views: 290
   rating_average: 5
   rating_count: 3
@@ -17,7 +17,7 @@
 - id: gzCawumUqUk
   title: Tomoz App 1.7.1 updated menu to Liquid Glass
   link: https://www.youtube.com/shorts/gzCawumUqUk
-  published: '2025-12-19'
+  date: 2025-12-19 04:01:06+00:00
   views: 43
   rating_average:
   rating_count: 0
@@ -25,7 +25,7 @@
 - id: 0xg2Z1c1WK4
   title: Hiyd App 1.7.1 released with new Liquid Glass
   link: https://www.youtube.com/shorts/0xg2Z1c1WK4
-  published: '2025-12-19'
+  date: 2025-12-19 03:58:50+00:00
   views: 31
   rating_average:
   rating_count: 0
@@ -33,7 +33,7 @@
 - id: WS0pQcBoqKI
   title: Tomoz - Liquid Glass icon set added
   link: https://www.youtube.com/shorts/WS0pQcBoqKI
-  published: '2025-12-01'
+  date: 2025-12-01 20:51:33+00:00
   views: 13
   rating_average: 5
   rating_count: 1
@@ -41,7 +41,7 @@
 - id: SurYW3Tdc5I
   title: Hiyd - Liquid Glass icon set added
   link: https://www.youtube.com/shorts/SurYW3Tdc5I
-  published: '2025-12-01'
+  date: 2025-12-01 20:51:30+00:00
   views: 64
   rating_average: 5
   rating_count: 1
@@ -49,7 +49,7 @@
 - id: wt0KUCBbTF0
   title: EngMan - Liquid Glass icon set added
   link: https://www.youtube.com/shorts/wt0KUCBbTF0
-  published: '2025-12-01'
+  date: 2025-12-01 20:51:16+00:00
   views: 116
   rating_average: 5
   rating_count: 1
@@ -57,7 +57,7 @@
 - id: Nc7GzQElj-s
   title: Mltply App new version is out now
   link: https://www.youtube.com/shorts/Nc7GzQElj-s
-  published: '2025-11-24'
+  date: 2025-11-24 10:48:23+00:00
   views: 7
   rating_average: 5
   rating_count: 1
@@ -65,7 +65,7 @@
 - id: D22osLaY4oE
   title: EmgMan new version is out now
   link: https://www.youtube.com/shorts/D22osLaY4oE
-  published: '2025-11-24'
+  date: 2025-11-24 10:47:06+00:00
   views: 62
   rating_average: 5
   rating_count: 1
@@ -73,7 +73,7 @@
 - id: JhjwKW9Kov8
   title: Hiyd App 1.5.4 out now
   link: https://www.youtube.com/shorts/JhjwKW9Kov8
-  published: '2025-11-23'
+  date: 2025-11-23 08:59:48+00:00
   views: 43
   rating_average: 5
   rating_count: 1
@@ -81,7 +81,7 @@
 - id: t5cT1jxwE8U
   title: Tomoz App 1.5.4 out now
   link: https://www.youtube.com/shorts/t5cT1jxwE8U
-  published: '2025-11-23'
+  date: 2025-11-23 08:58:59+00:00
   views: 5
   rating_average: 5
   rating_count: 1
@@ -89,7 +89,7 @@
 - id: Lx7f4gzW1_A
   title: Apple News doesn’t understand what blocked means
   link: https://www.youtube.com/shorts/Lx7f4gzW1_A
-  published: '2025-11-20'
+  date: 2025-11-20 10:05:28+00:00
   views: 48
   rating_average: 5
   rating_count: 1
@@ -97,7 +97,7 @@
 - id: pxVNhwD8Teg
   title: ME/CFS debate at Westminster Hall - 2025-11-19
   link: https://www.youtube.com/watch?v=pxVNhwD8Teg
-  published: '2025-11-19'
+  date: 2025-11-19 19:14:07+00:00
   views: 125
   rating_average: 5
   rating_count: 2
@@ -105,7 +105,7 @@
 - id: qlCOnK2LT4A
   title: Mltply - a free iOS app for kids for learning maths.
   link: https://www.youtube.com/shorts/qlCOnK2LT4A
-  published: '2025-11-13'
+  date: 2025-11-13 21:09:18+00:00
   views: 140
   rating_average: 5
   rating_count: 1
@@ -113,7 +113,7 @@
 - id: HGLV826MJGw
   title: Tomoz and Hiyd now support shortcuts and app intents
   link: https://www.youtube.com/shorts/HGLV826MJGw
-  published: '2025-11-13'
+  date: 2025-11-13 21:01:18+00:00
   views: 45
   rating_average: 5
   rating_count: 1
@@ -121,103 +121,103 @@
 - id: PeXC9qFe3fA
   title: Tomoz now supports reminders
   link: https://www.youtube.com/shorts/PeXC9qFe3fA
-  published: '2025-11-12'
+  date: 2025-11-12 00:00:00+00:00
   views: 56
   rating_average: 5
   rating_count: 1
   source: youtube-feed
-- id: lH8O11y77Jg
-  title: Mltply App out now
-  link: https://www.youtube.com/shorts/lH8O11y77Jg/
-  published: '2025-07-05'
-  views: 30
+- id: Y8GABqhz2kA
+  title: Swipe to Lead
+  link: https://www.youtube.com/shorts/Y8GABqhz2kA/
+  date: 2025-07-05 00:00:00+00:00
+  views: 79
   rating_average: 5
   rating_count: 1
   source: manual
 - id: bvjJ87NQRkc
   title: Preview WIP - new app to track fatigue
   link: https://www.youtube.com/shorts/bvjJ87NQRkc/
-  published: '2025-07-05'
+  date: 2025-07-05 00:00:00+00:00
   views: 85
   rating_average: 5
   rating_count: 1
   source: manual
-- id: Y8GABqhz2kA
-  title: Swipe to Lead
-  link: https://www.youtube.com/shorts/Y8GABqhz2kA/
-  published: '2025-07-05'
-  views: 79
+- id: lH8O11y77Jg
+  title: Mltply App out now
+  link: https://www.youtube.com/shorts/lH8O11y77Jg/
+  date: 2025-07-05 00:00:00+00:00
+  views: 30
   rating_average: 5
   rating_count: 1
   source: manual
 - id: ZX2lYpICAG0
   title: EngMan New iOS app
   link: https://www.youtube.com/shorts/ZX2lYpICAG0/
-  published: '2025-06-17'
+  date: 2025-06-17 00:00:00+00:00
   views: 93
-  rating_average: 5
-  rating_count: 1
-  source: manual
-- id: g7C4D0vvh2Y
-  title: Hiyd Out Now
-  link: https://www.youtube.com/shorts/g7C4D0vvh2Y/
-  published: '2025-06-15'
-  views: 46
-  rating_average: 5
-  rating_count: 1
-  source: manual
-- id: GKdWBveOsfM
-  title: 15 June 2025
-  link: https://www.youtube.com/shorts/GKdWBveOsfM/
-  published: '2025-06-15'
-  views: 94
-  rating_average: 5
-  rating_count: 1
-  source: manual
-- id: yEzkMufhSf8
-  title: New app coming soon
-  link: https://www.youtube.com/shorts/yEzkMufhSf8/
-  published: '2025-06-15'
-  views: 8
-  rating_average: 5
-  rating_count: 1
-  source: manual
-- id: 4zNB6CF0cRE
-  title: MiPace and chill
-  link: https://www.youtube.com/shorts/4zNB6CF0cRE/
-  published: '2025-06-15'
-  views: 10
-  rating_average: 5
-  rating_count: 1
-  source: manual
-- id: eNpBRmVw3lE
-  title: Tomoz - New app out now. Prepare for tomorrow today.
-  link: https://www.youtube.com/shorts/eNpBRmVw3lE/
-  published: '2025-06-15'
-  views: 91
-  rating_average: 5
-  rating_count: 1
-  source: manual
-- id: lB_odZ1zpAA
-  title: What are you doing Tomoz?  Let me see…
-  link: https://www.youtube.com/shorts/lB_odZ1zpAA/
-  published: '2025-06-15'
-  views: 44
   rating_average: 5
   rating_count: 1
   source: manual
 - id: -qmrePtloKY
   title: Using on device AI in Drafts App
   link: https://www.youtube.com/shorts/-qmrePtloKY/
-  published: '2025-06-15'
+  date: 2025-06-15 00:00:00+00:00
   views: 443
+  rating_average: 5
+  rating_count: 1
+  source: manual
+- id: lB_odZ1zpAA
+  title: What are you doing Tomoz?  Let me see…
+  link: https://www.youtube.com/shorts/lB_odZ1zpAA/
+  date: 2025-06-15 00:00:00+00:00
+  views: 44
+  rating_average: 5
+  rating_count: 1
+  source: manual
+- id: eNpBRmVw3lE
+  title: Tomoz - New app out now. Prepare for tomorrow today.
+  link: https://www.youtube.com/shorts/eNpBRmVw3lE/
+  date: 2025-06-15 00:00:00+00:00
+  views: 91
+  rating_average: 5
+  rating_count: 1
+  source: manual
+- id: 4zNB6CF0cRE
+  title: MiPace and chill
+  link: https://www.youtube.com/shorts/4zNB6CF0cRE/
+  date: 2025-06-15 00:00:00+00:00
+  views: 10
+  rating_average: 5
+  rating_count: 1
+  source: manual
+- id: yEzkMufhSf8
+  title: New app coming soon
+  link: https://www.youtube.com/shorts/yEzkMufhSf8/
+  date: 2025-06-15 00:00:00+00:00
+  views: 8
+  rating_average: 5
+  rating_count: 1
+  source: manual
+- id: GKdWBveOsfM
+  title: 15 June 2025
+  link: https://www.youtube.com/shorts/GKdWBveOsfM/
+  date: 2025-06-15 00:00:00+00:00
+  views: 94
+  rating_average: 5
+  rating_count: 1
+  source: manual
+- id: g7C4D0vvh2Y
+  title: Hiyd Out Now
+  link: https://www.youtube.com/shorts/g7C4D0vvh2Y/
+  date: 2025-06-15 00:00:00+00:00
+  views: 46
   rating_average: 5
   rating_count: 1
   source: manual
 - id: zsYF0TNRl3w
   title: Out now, your Jekyll companion app
   link: https://www.youtube.com/shorts/zsYF0TNRl3w
-  published: '2025-06-14'
+  date: 2025-06-14 00:00:00+00:00
   views: 82
   rating_average: 5
   rating_count: 1

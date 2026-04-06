@@ -2,7 +2,7 @@
 from operator import contains
 import helper
 import pytest
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import pathlib
 from types import SimpleNamespace
 import yaml
@@ -57,6 +57,9 @@ class TestHelper:
         films = helper.load_film_file(helper.OUTPUT_FILE)
         assert len(films) == 2, "There should be two films in the list"
         assert films[-1]["Imdb"] == "tt7654321", "The new film should be added"
+        assert "date" in films[-1], "Film should have a 'date' key"
+        assert "DateAdded" not in films[-1], "Film should not have a 'DateAdded' key"
+        assert isinstance(films[-1]["date"], datetime), "date should be a datetime object"
 
     @pytest.fixture
     def setup_video_test_file(self):
@@ -65,7 +68,7 @@ class TestHelper:
 - id: abc123
   title: Existing Video
   link: https://www.youtube.com/watch?v=abc123
-  published: '2025-12-01'
+  date: 2025-12-01 00:00:00+00:00
   views: 10
   rating_average: 5
   rating_count: 1
@@ -93,8 +96,8 @@ class TestHelper:
 
     def test_normalise_date(self):
         assert helper.normalise_date(
-            "2025-12-27T20:14:48+00:00") == "2025-12-27"
-        assert helper.normalise_date("") == ""
+            "2025-12-27T20:14:48+00:00") == datetime(2025, 12, 27, 20, 14, 48, tzinfo=timezone.utc)
+        assert helper.normalise_date("") is None
 
     def test_normalise_rating_integer(self):
         assert helper.normalise_rating("5.00") == 5
@@ -123,7 +126,7 @@ class TestHelper:
             "id": "abc123",
             "title": "Test  Video",
             "link": "https://www.youtube.com/watch?v=abc123",
-            "published": "2025-12-27",
+            "date": datetime(2025, 12, 27, 20, 14, 48, tzinfo=timezone.utc),
             "views": 289,
             "rating_average": 5,
             "rating_count": 3,
@@ -171,7 +174,7 @@ class TestHelper:
             "id": "xyz789",
             "title": "Saved Video",
             "link": "https://www.youtube.com/watch?v=xyz789",
-            "published": "2025-12-28",
+            "date": datetime(2025, 12, 28, 0, 0, 0, tzinfo=timezone.utc),
             "views": 5,
             "rating_average": 4.5,
             "rating_count": 2,
@@ -187,7 +190,7 @@ class TestHelper:
             "id": "abc123",
             "title": "Old Title",
             "link": "https://www.youtube.com/watch?v=abc123",
-            "published": "2025-12-01",
+            "date": datetime(2025, 12, 1, 0, 0, 0, tzinfo=timezone.utc),
             "views": 10,
             "rating_average": 5,
             "rating_count": 1,
@@ -197,7 +200,7 @@ class TestHelper:
             "id": "abc123",
             "title": "New Title",
             "link": "https://www.youtube.com/watch?v=abc123",
-            "published": "2025-12-02",
+            "date": datetime(2025, 12, 2, 0, 0, 0, tzinfo=timezone.utc),
             "views": 20,
             "rating_average": 4.89,
             "rating_count": 3,
@@ -215,7 +218,7 @@ class TestHelper:
             "id": "manual001",
             "title": "Manual Video",
             "link": "https://www.youtube.com/watch?v=manual001",
-            "published": "2025-01-01",
+            "date": datetime(2025, 1, 1, 0, 0, 0, tzinfo=timezone.utc),
             "views": None,
             "rating_average": None,
             "rating_count": 0,
@@ -225,7 +228,7 @@ class TestHelper:
             "id": "feed001",
             "title": "Feed Video",
             "link": "https://www.youtube.com/watch?v=feed001",
-            "published": "2025-12-02",
+            "date": datetime(2025, 12, 2, 0, 0, 0, tzinfo=timezone.utc),
             "views": 20,
             "rating_average": 5,
             "rating_count": 3,
