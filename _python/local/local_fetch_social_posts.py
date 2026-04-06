@@ -18,7 +18,7 @@ BLUESKY_RSS = "https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/rss"
 MASTODON_RSS = "https://mastodon.social/@Thechelsuk.rss"
 DATA_DIR = Path("_data")
 FIREHOSE_TAG = "#firehose"
-EXCLUDE_DOMAIN = "thechels.uk"
+EXCLUDE_DOMAIN = "https://thechels.uk"
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
