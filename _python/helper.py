@@ -62,11 +62,19 @@ def make_film_url(imdb_id, apikey):
 def add_film_to_list(film_data, rating, output_file):
     film_code, film_title, film_year = film_data
     film = {
-        "Imdb": film_code,
-        "Title": film_title,
-        "Year": film_year,
-        "Rating": rating,
-        "date": datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
+        "Imdb":
+        film_code,
+        "Title":
+        film_title,
+        "Year":
+        film_year,
+        "Rating":
+        rating,
+        "date":
+        datetime.now(timezone.utc).replace(hour=0,
+                                           minute=0,
+                                           second=0,
+                                           microsecond=0)
     }
     new_films = load_film_file(output_file)
     for f in new_films:
@@ -481,14 +489,24 @@ def build_video_entry(item: Any) -> dict[str, Any] | None:
     rating_count = int(media_starrating.get("count", 0) or 0)
 
     return {
-        "id":      video_id,
-        "title":   item.get("title", "").replace("|", "").strip(),
-        "link":    item.get("link", ""),
-        "date":    normalise_date(item.get("published", "")),
-        "views":   int(media_statistics.get("views")) if media_statistics.get("views") else None,
-        "rating_average": normalise_rating(media_starrating.get("average")) if rating_count > 0 else None,
-        "rating_count":   rating_count,
-        "source":  "youtube-feed",
+        "id":
+        video_id,
+        "title":
+        item.get("title", "").replace("|", "").strip(),
+        "link":
+        item.get("link", ""),
+        "date":
+        normalise_date(item.get("published", "")),
+        "views":
+        int(media_statistics.get("views"))
+        if media_statistics.get("views") else None,
+        "rating_average":
+        normalise_rating(media_starrating.get("average"))
+        if rating_count > 0 else None,
+        "rating_count":
+        rating_count,
+        "source":
+        "youtube-feed",
     }
 
 
@@ -525,7 +543,8 @@ def merge_videos(existing: list[dict[str, Any]],
             videos_by_id[str(fetched_video["id"])] = fetched_video
 
     existing.sort(
-        key=lambda item: item.get("date") if item.get("date") else datetime.min,
+        key=lambda item: item.get("date")
+        if item.get("date") else datetime.min,
         reverse=True,
     )
     return existing
