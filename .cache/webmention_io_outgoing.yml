@@ -3114,3 +3114,7 @@ https://thechels.uk/the-bbc-rss-feeds-are-garbage:
   https://brid.gy/publish/reddit: false
   http://feeds.bbci.co.uk/news/uk/rss.xml: false
   https://discourse.netnewswire.com/t/duplicates-of-the-articles/202: false
+https://thechels.uk/homebridge-2.0-launch:
+  https://brid.gy/publish/mastodon: false
+  https://brid.gy/publish/bluesky: false
+  https://brid.gy/publish/reddit: false
