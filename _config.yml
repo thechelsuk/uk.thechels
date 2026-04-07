@@ -2,6 +2,7 @@ highlighter: rouge
 permalink: ./:title
 title: "Weak Notes"
 description: "// A working in public, second brain"
+theme:
 owner:
   name: thechelsuk
   email: "feedback@thechels.uk"
@@ -52,11 +53,11 @@ exclude:
   - README.md
   - LICENSE.md
   - SECURITY.md
-  - requirements.txt
   - _python/
   - .github/
   - .sass-cache/
   - .jekyll-cache/
+  - htmlcov/
   - gemfiles/
   - Gemfile
   - Gemfile.lock
@@ -65,11 +66,11 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - assets/
 include:
   - ".well-known"
   - "_pages"
   - "_ways"
-  - "assets"
 
 # Site Navigation
 ## Header
