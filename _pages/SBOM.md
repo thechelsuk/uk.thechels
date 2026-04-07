@@ -3,9 +3,8 @@
 title : Software Bill of Materials (SBOM)
 layout: page
 date: 2026-03-30
-robots: noindex, nofollow
 permalink: /SBOM
-seo: Software Bill of Materials (SBOM) for thechelsuk website
+seo: Software Bill of Materials (SBOM) for thechelsuk website including all Ruby gems and Python packages
 ---
 
 ## Overview
@@ -180,5 +179,3 @@ All dependencies are managed through their respective package managers and shoul
 
 - `bundle audit` for Ruby gem security checking
 - `pip-audit` for Python package security checking (recommended)
-
-
