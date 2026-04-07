@@ -1,7 +1,7 @@
 ---
 
 title : Software Bill of Materials (SBOM)
-layout: page
+layout: pages
 date: 2026-03-30
 permalink: /SBOM
 seo: Software Bill of Materials (SBOM) for thechelsuk website including all Ruby gems and Python packages
