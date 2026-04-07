@@ -12,7 +12,7 @@ A number of RSS feeds are available.
 - Posts [Atom/XML](/posts.xml) - Posts without linked/quote posts.
 - RSS only [Atom/XML](/rss.xml) - Secret RSS only feed + TIL
 - Films [Atom/XML](/films.xml) - Film reviews
-- Bluesky [Atom/XML](/https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/rss) - A feed directly from Bluesky.
+- Bluesky [Atom/XML](https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/rss) - A feed directly from Bluesky.
 - Mastodon [Atom/XML](https://mastodon.social/@Thechelsuk.rss) - A feed directly from Mastodon.
 - Videos [Atom/XML](https://www.youtube.com/feeds/videos.xml?channel_id=UCwK4oZ8hw9RS6tZKEjw_qLw) - A feed directly from YouTube (Note that the reliability and consistency of this feed is not great)
 
