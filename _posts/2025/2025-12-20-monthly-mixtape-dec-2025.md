@@ -4,6 +4,7 @@ layout: post
 date: 2025-12-20
 title: Monthly Mixtape - Dec 2025
 tags: [mixtapes]
+type: mixtape
 
 ---
 

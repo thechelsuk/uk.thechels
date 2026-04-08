@@ -2,6 +2,12 @@
 &rarr;
 {% elsif post.cited %}
 &raquo;
+{% elsif post.type == 'mixtape' %}
+&#9835;
+{% elsif post.type == 'til' %}
+&#10026;
+{% elsif post.type == 'ways' %}
+&#10010;
 {% else %}
-<!-- &#9733; -->
+&#9733;
 {% endif %}

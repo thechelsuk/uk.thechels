@@ -4,6 +4,7 @@ layout: post
 date: 2026-03-24
 title: Monthly Mixtape - Mar 2026
 tags: [mixtapes]
+type: mixtape
 
 ---
 
