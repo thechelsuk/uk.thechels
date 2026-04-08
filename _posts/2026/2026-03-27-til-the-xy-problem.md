@@ -5,7 +5,7 @@ title: TIL - The XY Problem
 tags: [TIL]
 link: https://xyproblem.info/
 cited: xyproblem
-type: rss
+type: til
 
 ---
 
