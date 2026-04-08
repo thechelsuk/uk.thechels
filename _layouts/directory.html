@@ -19,10 +19,23 @@
 <h2>Content Summary</h2>
 
 <ul>
-    <li><b>{{ site.posts | size }}</b> posts written.</li>
-    <li><b>{{ site.rss | size }}</b> RSS only posts written.</li>
+    <li><b>{{ site.posts | size }}</b> posts written.
+        <ul>
+            {% assign post_types = site.posts | map: "type" | uniq | compact %}
+            {% assign typed_total = 0 %}
+            {% for type in post_types %}
+            {% assign type_count = site.posts | where: "type", type | size %}
+            <li><b>{{ type_count }}</b> {{ type }}</li>
+            {% assign typed_total = typed_total | plus: type_count %}
+            {% endfor %}
+            {% assign untyped = site.posts | size | minus: typed_total %}
+            {% if untyped > 0 %}
+            <li><b>{{ untyped }}</b> untyped</li>
+            {% endif %}
+        </ul>
+    </li>
     <li><b>{{ site.pages | size }}</b> pages written.</li>
-    <li><b>{{ site.ways | size }}</b> ways written.</li>
+
 </ul>
 
 <h2>Site Data Summary</h2>

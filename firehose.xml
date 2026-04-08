@@ -26,14 +26,6 @@ permalink: /firehose.xml
     {%- assign all_entries = all_entries | push: item -%}
   {%- endfor -%}
 
-  {%- for item in site.ways -%}
-    {%- assign all_entries = all_entries | push: item -%}
-  {%- endfor -%}
-
-   {%- for item in site.rss -%}
-    {%- assign all_entries = all_entries | push: item -%}
-  {%- endfor -%}
-
   {%- for item in site.data.videos -%}
     {%- assign all_entries = all_entries | push: item -%}
   {%- endfor -%}
@@ -88,10 +80,6 @@ permalink: /firehose.xml
       {%- assign entry_source = "video" -%}
     {%- elsif entry.link contains "bsky.app" or entry.link contains "mastodon.social" -%}
       {%- assign entry_source = "social" -%}
-    {%- elsif entry.collection == "ways" -%}
-      {%- assign entry_source = "ways" -%}
-    {%- elsif entry.collection == "rss" -%}
-      {%- assign entry_source = "rss" -%}
     {%- else -%}
       {%- assign entry_source = "post" -%}
     {%- endif -%}
@@ -111,8 +99,8 @@ permalink: /firehose.xml
     {%- else -%}
       {%- assign entry_type = "post" -%}
     {%- endif -%}
-    
-    
+
+
 {% assign min = 1 %}
 {% assign max = site.data.offers.size %}
 {% assign diff = max | minus: min %}
@@ -129,11 +117,7 @@ permalink: /firehose.xml
 
   <entry>
     <title type="text">{{ entry_title | xml_escape }}</title>
-    {%- if entry_source == "rss" %}
-    <link rel="alternate" type="text/html" href="{{ site.url }}/feeds"/>
-    {%- else %}
     <link rel="alternate" type="text/html" href="{{ entry_link }}"/>
-    {%- endif %}
     <id>{{ entry_id | xml_escape }}</id>
     <updated>{{ entry.date | date_to_xmlschema }}</updated>
     <published>{{ entry.date | date_to_xmlschema }}</published>

@@ -1,13 +1,13 @@
 ---
 layout: empty
-permalink: /rss.xml
+permalink: /til.xml
 ---
 <?xml version="1.0" encoding="utf-8"?>
 {% assign pub_date = site.time | date: "%Y-%m-%dT%H:%M:%SZ" %}
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <title>{{ site.owner.name }} - {{ site.title }} RSS only</title>
+  <title>{{ site.owner.name }} - {{ site.title }} TIL only</title>
   <subtitle type="html">{{ site.description }}</subtitle>
-  <link rel="self" type="application/atom+xml" href="{{ site.url }}/rss.xml" />
+  <link rel="self" type="application/atom+xml" href="{{ site.url }}/til.xml" />
   <link rel="alternate" type="text/html" href="{{ site.url }}" />
   <generator>Jekyll</generator>
   <rights>{{ site.owner.name }}</rights>
@@ -19,8 +19,8 @@ permalink: /rss.xml
   </author>
   <id>{{ site.url }}/</id>
 
-  {% assign rss_posts = site.posts | where: "type", "rss" %}
-  {% for post in rss_posts %}
+  {% assign til_posts = site.posts | where: "type", "til" %}
+  {% for post in til_posts %}
      {% assign build_date = post.date | date: "%Y-%m-%dT%H:%M:%SZ" %}
      {% assign updated_date = post.modified | date: "%Y-%m-%dT%H:%M:%SZ" %}
      {% assign min = 1 %}

@@ -43,11 +43,6 @@ plugins:
   - jekyll-avatar
   - jekyll-github-metadata
   - jekyll-webmention_io
-collections:
-  rss:
-    output: false
-  ways:
-    output: true
 exclude:
   - CNAME
   - README.md
@@ -70,7 +65,6 @@ exclude:
 include:
   - ".well-known"
   - "_pages"
-  - "_ways"
 
 # Site Navigation
 ## Header
@@ -114,6 +108,8 @@ navigation_data:
     title: "Socials"
   - link: "/videos"
     title: "Videos"
+  - link: "/ways"
+    title: "Ways"
   - link: "/sitemap"
     title: "Sitemap (xml)"
 
@@ -165,8 +161,6 @@ navigation_slashes:
     title: "Uses"
   - link: "/verify"
     title: "Verify"
-  - link: "/ways/"
-    title: "Ways"
   - link: "/indieweb.txt"
     title: "IndieWeb (txt)"
 

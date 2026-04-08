@@ -27,8 +27,9 @@ permalink: /feed
      {% assign diff = max | minus: min %}
      {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
      {% assign offer = site.data.offers[item] %}
+     {% if post.type == "rss" %}{% assign post_title_prefix = "+ " %}{% else %}{% assign post_title_prefix = "" %}{% endif %}
       <entry>
-        <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
+        <title type="html"><![CDATA[{{ post_title_prefix }}{{ post.title | cdata_escape }}]]></title>
         <link rel="alternate" type="text/html" href="{{ site.url }}{{ post.url }}" />
         <id>{{ site.url }}{{ post.id }}</id>
         <published>{{ build_date }}</published>
@@ -40,9 +41,12 @@ permalink: /feed
         <content type="html"><![CDATA[
           {{ post.content }}
           <p><center>***</center></p>
+          {% if post.type == "rss" %}
+          <p>Note: this is a secret rss only item.</p>
+          {% endif %}
           <p> // Published {{ post.date | date: "%Y-%m-%d" }}, with {{ post.content | number_of_words }} words.</p>
           <hr/>
-          <p>💬 Thanks for keeping RSS alive. If you have an RSS feed please share it with me on any of these <a href="https://links.thechels.uk">socials</a>. If you love RSS you may like my <a href="/rss.xml">secret RSS only feed</a> in which posts don't appear on the website.</p>
+          <p>💬 Thanks for keeping RSS alive. If you have an RSS feed please share it with me on any of these <a href="https://links.thechels.uk">socials</a>.</p>
           <p>If you get value from this site, please share this post with someone you think will like it and support me with a <a href="https://ko-fi.com/thechelsuk">ko-fi</a>.</p>
           <p>Finally, here is a special sponsor/advert link just for you; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a><br/>[T&Cs apply].</p>
         ]]></content>

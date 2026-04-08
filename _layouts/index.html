@@ -1,9 +1,12 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
-<p class="marker"><b>{{ site.posts | size }}</b> total posts.</p>
+{% assign posts = site.posts | where_exp: "post", "post.type != 'rss'" %}
+
+
+<p class="marker"><b>{{ posts | size }}</b> total posts.</p>
 <div id="blog-archives" class="flow">
   <h2>Recent Posts</h2>
-  {% for post in site.posts limit:5 %}
+  {% for post in posts limit:5 %}
   <div class="posts">
     <a href="{{ post.url }}">{{ post.title }}</a> {% include post_icon.html %}
     <span class="meta">// {{ post.content | number_of_words }} words on {{ post.date | date: "%-d %B %Y" }}.</span>
@@ -23,7 +26,7 @@
   <div class="flow clearfix">
     <p class="meta">Skip to:
       {% capture year_links %}
-      {% for post in site.posts offset:5 %}
+      {% for post in posts offset:5 %}
       {{ post.date | date: "%Y" }}
       {% endfor %}
       {% endcapture %}
@@ -34,7 +37,7 @@
     </p>
   </div>
 
-  {% for post in site.posts offset:5 %}
+  {% for post in posts offset:5 %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% unless year == this_year %}
   {% assign year = this_year %}

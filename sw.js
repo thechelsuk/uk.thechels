@@ -8,7 +8,7 @@ const CACHE_VERSION = "{{ site.github.build_revision }}";
 let CURRENT_CACHES = {
   offline: 'offline-v' + CACHE_VERSION
 };
-const OFFLINE_URL = 'about.html';
+const OFFLINE_URL = 'index.html';
 
 function createCacheBustedRequest(url) {
   let request = new Request(url, {cache: 'reload'});

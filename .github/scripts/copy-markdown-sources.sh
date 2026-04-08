@@ -25,23 +25,18 @@ site = Jekyll::Site.new(
 
 site.read
 
-%w[posts ways].each do |label|
-  collection = site.collections[label]
-  next unless collection
+site.posts.docs.each do |doc|
+  next unless File.extname(doc.path) == ".md"
 
-  collection.docs.each do |doc|
-    next unless File.extname(doc.path) == ".md"
+  output_path = normalise_output_path(doc.url)
+  next if output_path.empty?
 
-    output_path = normalise_output_path(doc.url)
-    next if output_path.empty?
+  dest = File.join(site.dest, "#{output_path}.md")
+  FileUtils.mkdir_p(File.dirname(dest))
+  FileUtils.cp(doc.path, dest)
 
-    dest = File.join(site.dest, "#{output_path}.md")
-    FileUtils.mkdir_p(File.dirname(dest))
-    FileUtils.cp(doc.path, dest)
-
-    source_path = Pathname.new(doc.path).relative_path_from(Pathname.new(root)).to_s
-    dest_path = Pathname.new(dest).relative_path_from(Pathname.new(root)).to_s
-    # puts "Copied #{source_path} -> #{dest_path}"
-  end
+  source_path = Pathname.new(doc.path).relative_path_from(Pathname.new(root)).to_s
+  dest_path = Pathname.new(dest).relative_path_from(Pathname.new(root)).to_s
+  # puts "Copied #{source_path} -> #{dest_path}"
 end
 RUBY

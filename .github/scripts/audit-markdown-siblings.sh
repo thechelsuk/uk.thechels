@@ -46,23 +46,17 @@ site.read
 
 expected = []
 
-%w[posts ways].each do |label|
-  collection = site.collections[label]
-  next unless collection
+site.posts.docs.each do |doc|
+  next unless File.extname(doc.path) == ".md"
 
-  collection.docs.each do |doc|
-    next unless File.extname(doc.path) == ".md"
+  output_path = normalise_output_path(doc.url)
+  next if output_path.empty?
 
-    output_path = normalise_output_path(doc.url)
-    next if output_path.empty?
-
-    expected << {
-      collection: label,
-      source: relative_to_root(root, doc.path),
-      html: File.join(site.dest, "#{output_path}.html"),
-      markdown: File.join(site.dest, "#{output_path}.md")
-    }
-  end
+  expected << {
+    source: relative_to_root(root, doc.path),
+    html: File.join(site.dest, "#{output_path}.html"),
+    markdown: File.join(site.dest, "#{output_path}.md")
+  }
 end
 
 missing_html = []
