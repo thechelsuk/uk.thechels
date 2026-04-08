@@ -1,6 +1,6 @@
 ---
 layout: data
-title: Slogans - website sub text
+title: Slogans - The Website Sub Text
 permalink: /slogans
 seo: websites sub text slogans on a page
 type: slogans
