@@ -1,7 +1,6 @@
 ---
 title: Good Software Engineering First, Then AI-Assisted Coding
 description: AI-assisted coding for teams that can't get away with vibes
-type: post
 date: 2025-06-19
 link: https://simonwillison.net/2025/Jun/10/ai-assisted-coding/#atom-everything
 cited: Simon Willison

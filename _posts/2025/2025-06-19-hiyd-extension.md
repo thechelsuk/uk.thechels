@@ -1,6 +1,6 @@
 ---
 title: Announcing Hiyd Extension
-type: post
+layout: post
 date: 2025-06-19
 tags:
 ---
