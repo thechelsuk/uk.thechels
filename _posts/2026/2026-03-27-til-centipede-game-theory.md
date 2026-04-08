@@ -5,7 +5,7 @@ title: TIL - Centipede game theory
 tags: [TIL]
 link: https://en.wikipedia.org/wiki/Centipede_game
 cited: Wikipedia
-type: rss
+type: til
 
 ---
 

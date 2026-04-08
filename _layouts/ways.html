@@ -8,7 +8,7 @@
   {% assign pinned = items | where: "title", "How to use ways" %}
   {% for post in pinned %}
   <div class="posts">
-    <a href="{{ post.url }}">{{ post.title }}</a> {% include post_icon.html %}
+    {% include post_icon.html %} <a href="{{ post.url }}">{{ post.title }}</a>
     <span class="meta">// {{ post.content | number_of_words }} words on {{ post.date | date: "%-d %B %Y" }}.</span>
   </div>
   {% endfor %}
@@ -16,7 +16,7 @@
   {% assign recent = items | where_exp: "post", "post.title != 'How to use ways'" %}
   {% for post in recent %}
   <div class="posts">
-    <a href="{{ post.url }}">{{ post.title }}</a> {% include post_icon.html %}
+    {% include post_icon.html %} <a href="{{ post.url }}">{{ post.title }}</a>
     <span class="meta">// {{ post.content | number_of_words }} words on {{ post.date | date: "%-d %B %Y" }}.</span>
   </div>
   {% endfor %}

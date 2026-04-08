@@ -3,7 +3,7 @@
 layout: post
 date: 2026-03-19
 title: TIL - London Eye Is not actually British.
-type: rss
+type: til
 
 ---
 
