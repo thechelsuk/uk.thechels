@@ -1,6 +1,6 @@
 ---
 title: Ongoing Offers- June 2025
-type: post
+layout: post
 date: 2025-06-19
 
 ---
