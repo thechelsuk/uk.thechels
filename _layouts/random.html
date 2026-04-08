@@ -1,0 +1,42 @@
+{% include header.html %}
+
+{% include img.html %}
+
+{{ content}}
+
+{% assign page = site.posts | sample %}
+<article class="h-entry flow">
+    <h1 class="p-name post-title">{{ page.title }}</h1>
+
+    <div class="e-content flow">
+        {{ page.content }}
+
+        {% if page.link and page.cited %}
+        <p>&raquo;<a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
+        {% elsif page.cited %}
+        <p>&raquo; {{page.cited}}</p>
+        {% endif %}
+    </div>
+
+    {% if page.id %}
+    <p class="meta">
+        // Published: <time class="dt-published"
+            datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>, with
+        {{ page.content | number_of_words }} words. {%
+        webmention_count page.url %} mentions.
+    </p>
+
+    <p class="webmentions">
+        <a class="u-url" href="{{ page.url | absolute_url }}" class="hidden"></a>
+        {% webmentions page.url %}
+    </p>
+
+    {% endif %}
+</article>
+{% for target in page.syndicate_to %}
+<a href="{{ site.webmentions.syndication[target].endpoint }}" class="hidden"></a>
+{% endfor %}
+
+
+
+{% include footer.html %}
