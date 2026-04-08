@@ -55,24 +55,28 @@
     <link rel="me" href="https://bsky.app/profile/Thechelsuk">
     <link rel="me" href="https://hiyd.uk">
 
-    <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Main Feed"
-      href="{{ site.url }}/feed">
-    <link rel="alternate" type="application/json" title="{{ site.title }} - Main as JSON" href="{{ site.url }}/feed.json">
-    <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Daily Rundown"
-      href="{{ site.url }}/daily.xml">
-    <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Posts only"
-      href="{{ site.url }}/posts.xml">
-    <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - RSS only" href="{{ site.url }}/rss.xml">
-    <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Film Reviews"
-      href="{{ site.url }}/films.xml">
-    <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Firehose xml"
-      href="{{ site.url }}/firehose.xml">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}
+    - Firehose xml" href="{{ site.url }}/firehose.xml">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}
+    - Main Feed" href="{{ site.url }}/feed">
+    <link rel="alternate" type="application/json" title="{{ site.title }}
+    - Main as JSON" href="{{ site.url }}/feed.json">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}
+    - Daily Rundown" href="{{ site.url }}/daily.xml">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}
+    - Posts only" href="{{ site.url }}/posts.xml">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}
+    - RSS only" href="{{ site.url }}/rss.xml">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}
+    - TIL only" href="{{ site.url }}/til.xml">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}
+    - Ways only" href="{{ site.url }}/ways.xml">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}
+    - Film Reviews" href="{{ site.url }}/films.xml">
 
     {%- if page.layout == 'post' -%}
-    {%- if page.collection == 'posts' or page.collection == 'ways' -%}
     <link href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md" type="text/markdown"
       rel="alternate" title="Markdown">
-    {%- endif -%}
     {%- endif -%}
 
     {%- webmentions_head -%}

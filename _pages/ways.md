@@ -3,7 +3,7 @@ layout: ways
 title: Ways - How to do things
 seo: Ways - How to do things
 tag: ways
-permalink: /ways/
+permalink: /ways
 date: 2026-01-01
 
 ---

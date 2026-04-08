@@ -12,9 +12,7 @@
     <li><a href="{{item.link}}">{{item.title}}</a></li>
     {% endfor %}
     {% if page.layout == 'post' %}
-    {% if page.collection == 'posts' or page.collection == 'ways' %}
     <li><a href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md">View as MD</a></li>
-    {% endif %}
     {% endif %}
   </ul>
   <p class="footer-avatar">

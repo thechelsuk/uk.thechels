@@ -9,8 +9,10 @@ seo: Subscribe to various JSON, RSS, and Data feeds
 A number of RSS feeds are available.
 
 - Main Feed [Atom/XML](/feed.xml) / [JSON](/feed.json) - All post feeds.
-- Posts [Atom/XML](/posts.xml) - Posts without linked/quote posts.
-- RSS only [Atom/XML](/rss.xml) - Secret RSS only feed + TIL posts.
+  - Posts [Atom/XML](/posts.xml) - Posts without linked/quote posts.
+  - RSS only [Atom/XML](/rss.xml) - Secret RSS only posts.
+  - Ways only [Atom/XML](/ways.xml) - Ways only posts.
+  - TIL only [Atom/XML](/til.xml) - TIL only posts.
 - Films [Atom/XML](/films.xml) - Film reviews.
 - Bluesky [Atom/XML](https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/rss) - A feed directly from Bluesky.
 - Mastodon [Atom/XML](https://mastodon.social/@Thechelsuk.rss) - A feed directly from Mastodon.
@@ -20,13 +22,10 @@ and;
 
 {%- assign all_entries = "" | split: "" -%}
 {%- for post in site.posts -%}{%- assign all_entries = all_entries | push: post -%}{%- endfor -%}
-{%- for item in site.ways -%}{%- assign all_entries = all_entries | push: item -%}{%- endfor -%}
-{%- for item in site.rss -%}{%- assign all_entries = all_entries | push: item -%}{%- endfor -%}
 {%- for item in site.data.videos -%}{%- assign all_entries = all_entries | push: item -%}{%- endfor -%}
 {%- for item in site.data.bluesky -%}{%- assign all_entries = all_entries | push: item -%}{%- endfor -%}
 {%- for item in site.data.mastodon -%}{%- assign all_entries = all_entries | push: item -%}{%- endfor -%}
-{%- for item in site.data.films -%}{%- assign all_entries = all_entries | push: item -%}
-{% endfor %}
+{%- for item in site.data.films -%}{%- assign all_entries = all_entries | push: item -%}{%- endfor -%}
 
 - Firehose [Atom/XML](/firehose.xml) - A firehose feed of all content (**{{ all_entries | size }}** total entries) from all sources  above in one single feed.
 
