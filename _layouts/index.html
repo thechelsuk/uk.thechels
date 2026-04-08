@@ -8,7 +8,7 @@
   <h2>Recent Posts</h2>
   {% for post in posts limit:5 %}
   <div class="posts">
-    <a href="{{ post.url }}">{{ post.title }}</a> {% include post_icon.html %}
+    {% include post_icon.html %}<a href="{{ post.url }}">{{ post.title }}</a>
     <span class="meta">// {{ post.content | number_of_words }} words on {{ post.date | date: "%-d %B %Y" }}.</span>
   </div>
   {% endfor %}
@@ -44,7 +44,7 @@
   <h2 id="{{ year }}">{{ year }} Archive</h2>
   {% endunless %}
   <div class="posts">
-    <a href="{{ post.url }}">{{ post.title }}</a> {% include post_icon.html %}
+    {% include post_icon.html %} <a href="{{ post.url }}">{{ post.title }}</a>
     <span class="meta">// {{ post.content | number_of_words }} words on {{ post.date | date: "%-d %B %Y" }}.</span>
   </div>
   {% endfor %}

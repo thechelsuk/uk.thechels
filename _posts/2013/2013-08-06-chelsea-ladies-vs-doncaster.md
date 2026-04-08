@@ -9,7 +9,7 @@ Chelsea Ladies returned to FAWSL action with a convincing 4-0 victory over Donca
 
 New signing Yuki Ogimi playing just behind in the number 10 role. The Japanese international, and first Japanese player to feature in the FAWSL, settled in quickly and showed her class with some excellent link up play to wow the 400+ crowd at Wheatsheaf Park.
 
-The fluidity and movement of the front four created numerous opportunities throughout the match and it was a fine through pass from Ward that set Eni Aluko on her way beyond the Belles defence to round the keeper cooly to open the scoring. Ward was then denied on 3 occassions by some last ditch tackling and blocking as well forcing a low save from Nicola Davies the former Chelsea player making her debut for Doncaster.
+The fluidity and movement of the front four created numerous opportunities throughout the match and it was a fine through pass from Ward that set Eni Aluko on her way beyond the Belles defence to round the keeper cooly to open the scoring. Ward was then denied on 3 occasions by some last ditch tackling and blocking as well forcing a low save from Nicola Davies the former Chelsea player making her debut for Doncaster.
 
 Doncaster struggled to cope with the running in behind. The Blues had countless corners as they searched for the second goal and Ward came closest again with her glancing header going just wide at the far post.
 
