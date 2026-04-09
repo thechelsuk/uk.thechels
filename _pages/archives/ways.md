@@ -1,11 +1,10 @@
 ---
-layout: ways
+layout: archives
 title: Ways - How to do things
 seo: Ways - How to do things
-tag: ways
-permalink: /ways
+permalink: /archives/ways
 date: 2026-01-01
-
+type: ways
 ---
 
 A list of posts that are guides and step-by-step explainers on various topics. The idea is to have a single place for reference for instructions on how to do things, and to help guide me when I forget, particularly as my cognitive decline continues to fluctuate.

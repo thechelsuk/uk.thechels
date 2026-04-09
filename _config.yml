@@ -88,8 +88,6 @@ navigation_data:
     title: "Feeds"
   - link: "/books"
     title: "Books"
-  - link: "/mixtapes"
-    title: "Mixtapes"
   - link: "/teams"
     title: "Live Teams"
   - link: "/jokes"
@@ -108,10 +106,17 @@ navigation_data:
     title: "Socials"
   - link: "/videos"
     title: "Videos"
-  - link: "/ways"
-    title: "Ways"
   - link: "/sitemap"
     title: "Sitemap (xml)"
+
+## SubMenu
+navigation_archives:
+  - link: "/archives/til"
+    title: "TILs"
+  - link: "/archives/ways"
+    title: "Ways"
+  - link: "/archives/mixtapes"
+    title: "Mixtapes"
 
 ## SubMenu
 navigation_slashes:

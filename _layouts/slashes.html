@@ -29,4 +29,17 @@
     </ul>
 </nav>
 
+<h2>Archives </h2>
+
+<p>Post archives by type.</p>
+
+<nav id="archivemenu" aria-label="submenu of post type items">
+    <ul>
+        {% assign sorted_nav_archives = site.navigation_archives | sort: 'title' %}
+        {% for item in sorted_nav_archives %}
+        <li>// <a href="{{item.link}}">{{item.title}}</a></li>
+        {% endfor %}
+    </ul>
+</nav>
+
 {% include footer.html %}
