@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-04-08
+date: 2026-04-09
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,14 +11,14 @@ date: 2026-04-08
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Wednesday, 08 April 2026
+## On Thursday, 09 April 2026
 
-- The average temperature today is 13.7˚C,
-- With highs of 15.52˚C and lows of 12.75˚C,
-- It may feel like 12.9˚C with clear sky
-- The wind speed is 1.03m/s and visibility is 10000m
-- The pressure is 1023hPa and humidity is 68%
-- The sun will rise at 05:27 and set at 18:52
+- The average temperature today is 13.52˚C,
+- With highs of 13.52˚C and lows of 13.52˚C,
+- It may feel like 13.09˚C with overcast clouds
+- The wind speed is 4.31m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 83%
+- The sun will rise at 05:25 and set at 18:54
 
 <!-- weather_marker ends -->
 
@@ -26,7 +26,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 764 days since the last change (2024-03-05)
+- It has been 765 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -39,65 +39,66 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Be open to change.
+> Use a common language.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- PSG v Liverpool
+- Crystal Palace v Fiorentina
+- Bologna v Aston Villa
+- FC Porto v Nottingham Forest
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 125.8499984741211 
-- ^FTSE : 10592.0498046875 
-- ^FTMC : 22477.330078125 
+- VWRL.L : 125.20999908447266 
+- ^FTSE : 10582.41015625 
+- ^FTMC : 22210.560546875 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> Even the local bakery did not have a roll for me.
+> I was in a coffee shop the other evening and got chatting to the barista, who said she worked everyday from 5 to 9pm. Her name was Polly Darton.
 <!-- jokes_marker ends -->
 
 ### Top News
 <!-- news_marker starts -->
-- € Where in Europe are workers the most stressed? ([6 minutes ago](http://www.euronews.com/my-europe/2026/04/08/where-in-europe-are-workers-the-most-stressed))
-- ® UK's grand plan to fuel AI with public data faces uphill battle ([7 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/08/national_data_library_plan/))
-- € Silence is golden: Embarrassing moment as Artemis II astronauts give Trump the silent treatment ([16 minutes ago](http://www.euronews.com/culture/2026/04/08/silence-is-golden-embarrassing-moment-as-artemis-ii-astronauts-give-trump-the-silent-treat))
-- € Thousands of Indigenous people march in Brasilia for land rights ([30 minutes ago](http://www.euronews.com/video/2026/04/08/thousands-of-indigenous-people-march-in-brasilia-for-land-rights))
-- € Rutte meets Trump in Washington amid US threat to leave NATO ([33 minutes ago](http://www.euronews.com/my-europe/2026/04/08/rutte-meets-trump-in-washington-amid-us-threat-to-leave-nato))
-- € Watch: Are we witnessing the end of the US in NATO? ([48 minutes ago](http://www.euronews.com/my-europe/2026/04/08/watch-are-we-witnessing-the-end-of-the-us-in-nato))
-- € North Korea launches ballistic missiles after declaring South 'most hostile enemy' ([59 minutes ago](http://www.euronews.com/2026/04/08/north-korea-launches-ballistic-missiles-after-declaring-south-most-hostile-enemy))
-- £ US and Iran agree 2-week ceasefire that will open Strait of Hormuz ([1 hours ago](https://www.ft.com/content/d8e9e0e9-9417-47ad-a915-ba08049d643f))
-- € Five teens to go on trial in Sweden over attempted murder of Iranian dissident ([1 hours ago](http://www.euronews.com/2026/04/08/five-teens-to-go-on-trial-in-sweden-over-attempted-murder-of-iranian-dissident))
-- € Iran ceasefire effect: Oil plunges as European markets surge ([1 hours ago](http://www.euronews.com/business/2026/04/08/iran-ceasefire-pushes-oil-prices-down-as-markets-remain-cautious))
-- € Restoring Rubens: Louvre Paris readies to save dozens of Flemish masterpieces from ruin ([1 hours ago](http://www.euronews.com/culture/2026/04/08/restoring-rubens-louvre-paris-readies-to-save-dozens-of-flemish-masterpieces-from-ruin))
-- ® Microsoft hints at bit bunkers for war zones ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/08/microsoft_armored_datacenters/))
-- € Newsletter: US and Iran agree to two-week truce, Strait of Hormuz set to reopen ([1 hours ago](http://www.euronews.com/my-europe/2026/04/08/newsletter-us-and-iran-agree-to-two-week-truce-strait-of-hormuz-set-to-reopen))
-- £ Russian military hackers reroute British internet users’ traffic ([2 hours ago](https://www.ft.com/content/d7e3294c-0a0e-4598-8687-93f5490d0cc5))
-- ® Japan relaxes privacy laws to make itself the ‘easiest country to develop AI’ ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/08/japan_privacy_law_changes_ai/))
-- £ The question over Trump’s ‘historic’ refinery deal: $300bn or $40mn? ([3 hours ago](https://www.ft.com/content/f217467c-e113-4aa2-ac5e-7046a1dc9be0))
-- £ Freedom itself is at stake in Hungary ([4 hours ago](https://www.ft.com/content/eecc0afe-3042-403e-8844-a9898eca7cf3))
-- £ Perplexity revenue jumps 50% in pivot from search to AI agents ([4 hours ago](https://www.ft.com/content/e9c28d31-a962-4684-8b58-c9e6bc68401f))
-- £ The dystopian fantasy of uselessness ([4 hours ago](https://www.ft.com/content/28dfa485-3c88-4963-82f8-5530a72792fe))
-- £ Oil tumbles and stocks surge after Iran ceasefire agreed ([7 hours ago](https://www.ft.com/content/2868ed5b-865f-4491-a78e-c84967d50c34))
-- ® Anthropic: All your zero-days are belong to Mythos ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/07/anthropic_all_your_zerodays_are_belong_to_us/))
-- ® Iran cyber actors disrupting US water, energy facilities, FBI warns ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/07/iran_hackers_disrupting_us_water_energy/))
-- ® Nutanix thinks some Azure cloud desktops belong on-prem to make them usable ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/07/nutanix_azure_cloud_desktops/))
-- ® Cloudflare, GoDaddy team up to curb AI bot brigades ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/07/cloudflare_godaddy_ai_bot_blocking/))
-- ® AWS CEO: It's funny when people ask me if AI is overhyped ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/07/aws_garman_humanx_ai_underhyped/))
-- ® Hundreds of orgs compromised daily in Microsoft device code phishing attacks ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/07/microsoft_device_code_phishing/))
-- £ One in eight British residents has left UAE since Iran war, data shows ([12 hours ago](https://www.ft.com/content/3fcc3dbf-3b9f-4639-8034-ded8fbee5ea0))
-- ® Intel gets trapped in Elon’s reality distortion field as it joins in megafab delusions ([13 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/07/intel_elon_space_delusion/))
-- ♣ The Daily Hilario: Tuesday ([1 days ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167681/the-daily-hilario-april-7th))
-- ♣ Rosenior: ‘Cole led the team magnificently’ ([1 days ago](https://weaintgotnohistory.sbnation.com/chelsea-fc/167684/rosenior-cole-led-the-team-magnificently))
-- ♣ Chelsea FCW 2-1 Tottenham Hotspur FCW, Women’s FA Cup: Post-match reaction ([1 days ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/167672/chelsea-fcw-2-1-tottenham-hotspur-fcw-womens-fa-cup-post-match-reaction))
-- ♣ Chelsea FCW vs. Tottenham Hotspur FCW, Women’s FA Cup: Confirmed lineups; how to watch ([1 days ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/167663/chelsea-fcw-vs-tottenham-hotspur-fcw-womens-fa-cup-confirmed-lineups-how-to-watch))
+- € Poland's Catholic Church prepares parishes as crisis centres amid war fears ([4 minutes ago](http://www.euronews.com/2026/04/09/polands-catholic-church-prepares-parishes-as-crisis-centres-amid-war-fears))
+- € Swiss researchers test robot dog designed to speed up Moon and Mars exploration ([24 minutes ago](http://www.euronews.com/next/2026/04/09/swiss-researchers-test-robot-dog-designed-to-speed-up-moon-and-mars-exploration))
+- ® Sticky-note security turned gym into hall of '80s horrors ([43 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/09/pwned/))
+- € Berlin opens Süd Ost Galerie, a new open-air street art landmark ([52 minutes ago](http://www.euronews.com/video/2026/04/09/berlin-opens-sud-ost-galerie-a-new-open-air-street-art-landmark))
+- € Newsletter: NATO holds after Rutte-Trump talks amid fragile ceasefire with Iran ([54 minutes ago](http://www.euronews.com/my-europe/2026/04/09/newsletter-nato-holds-after-rutte-trump-talks-amid-fragile-ceasefire-with-iran))
+- € Mexico: Miner rescued alive after 14 days trapped underground ([1 hours ago](http://www.euronews.com/video/2026/04/09/mexico-miner-rescued-alive-after-14-days-trapped-underground))
+- € What is Björk doing for this year’s total solar eclipse? A rave, of course ([1 hours ago](http://www.euronews.com/culture/2026/04/09/what-is-bjork-doing-for-this-years-total-solar-eclipse-a-rave-of-course))
+- € Israeli strikes on Beirut kill at least 182 and wound hundreds ([1 hours ago](http://www.euronews.com/video/2026/04/09/israeli-strikes-on-beirut-kill-at-least-182-and-wound-hundreds))
+- € Oil pushes past $97 again as markets eye ceasefire doubts ([1 hours ago](http://www.euronews.com/business/2026/04/09/oil-surges-past-97-again-as-markets-eye-ceasefire-doubts))
+- ® Cryptographers place $5,000 bet whether quantum will matter ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/09/cryptograhpers_quantum_bet/))
+- £ BDO axes 31 partner roles as AI pressure grows and profits fall ([1 hours ago](https://www.ft.com/content/ccf7209c-e66a-4e1c-8371-6b0701ddcdf6))
+- € 'NATO in grave danger after Iran war,' former US NATO ambassador tells Euronews ([2 hours ago](http://www.euronews.com/my-europe/2026/04/09/nato-in-grave-danger-after-iran-war-former-us-nato-ambassador-tells-euronews))
+- € Why oil and gas prices could stay high in Europe even if the Iran war ends ([2 hours ago](http://www.euronews.com/business/2026/04/09/why-oil-and-gas-prices-could-stay-high-in-europe-even-if-the-iran-war-ends))
+- £ Shipping stalls as Tehran dictates terms in Strait of Hormuz ([4 hours ago](https://www.ft.com/content/0ce6a1a0-08b0-4b2b-9634-e5c03c4fbbcd))
+- £ Ackman in talks to launch fund to bet on investor complacency ([4 hours ago](https://www.ft.com/content/70ddffb8-7fdc-437f-a0c5-d11737fd7561))
+- £ Iran war has exposed the weakness of the dollar ([4 hours ago](https://www.ft.com/content/ace89a7d-39f1-4901-ab32-fdb8ab2b86aa))
+- £ The case for trade, remade ([4 hours ago](https://www.ft.com/content/5105dd3a-a970-4a78-98ef-762a44300be6))
+- £ Reform UK donor runs company linked to sanctioned Iranian conglomerate ([4 hours ago](https://www.ft.com/content/c0c9c617-9003-4e00-a7c6-e87b56a56bf3))
+- £ Hizbollah attacks Israel after wave of strikes on Lebanon ([7 hours ago](https://www.ft.com/content/5fa84873-0c45-462d-9f8b-3adbc9f0a164))
+- £ Will Trump stick with his Iran truce? ([8 hours ago](https://www.ft.com/content/e6883be4-a756-4c0b-b9f9-ac28554ad42f))
+- ® Meta's latest model is as open as Zuckerberg's private school ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/08/meta_muse_spark/))
+- ® Western Union zaps VMware and moves to Nutanix ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/08/western_union_vmware_nutanix_migration/))
+- ® Atlassian gussies up Confluence for the AI era ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/08/atlassian_brings_ai_and_agents/))
+- ® Criminal wannabes even more dangerous than the pros, says ex-FBI cyber chief ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/08/cynthia_kaiser_interview/))
+- ® DARPA looking for battery that could power a laptop for months ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/08/darpa_fusion_firm_radioactive_battery/))
+- ® Call your existing automation ‘zero-token architecture’ to become an instant agentic AI wiz ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/08/automation_zerotoken_architecture_ai/))
+- £ NHS data chief pushes for deeper rollout of Palantir technology despite outcry ([12 hours ago](https://www.ft.com/content/1ac7a046-329c-4036-b01e-f2291dde28ca))
+- £ Ceasefire offers moment of respite for battered Tehran ([12 hours ago](https://www.ft.com/content/9226bb49-2a13-4b87-bcf8-5390abadef13))
+- ® Nvidia's Rubin GPU is likely to be late thanks to memory shortage and technical challenges ([14 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/08/nvidia_supply_chain/))
+- ® RAF eyes cheap drone-killer as Typhoon jet tests laser-guided rockets ([14 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/08/typhoon_drone_laser_rockets/))
+- ♣ The Daily Hilario: Wednesday ([1 days ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167695/the-daily-hilario-april-8th))
 
 <!-- news_marker ends -->
 
@@ -105,7 +106,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > fly-tip - verb tr., intr.: To dump waste illegally instead of taking it to an authorized disposal site.
+ > pettifog - verb intr.: 1. To quibble over trivial matters. 2. To engage in petty, often legalistic, chicanery.
 
 <!-- word_marker ends -->
 
@@ -113,34 +114,34 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> To be uncertain is to be uncomfortable, but to be certain is to be ridiculous. - Chinese Proverb
+> It is never about how you start, it is always about how you finish. - Dwayne Johnson, The Rock
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Don't break the silence
+> Are there sections? Consider transitions
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Dark Knight (Rated: 6)
-- Released in 2008
-- Summary: When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.
+- W Delta Z (The Killing Gene) (Rated: 8)
+- Released in 2007
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 <!-- game_marker starts -->
 
-- Target: 298, using [2, 3, 4, 7, 25, 100]
-- Answer: 48 solutions.
+- Target: 606, using [1, 6, 9, 50, 75, 100]
+- Answer: 14 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 25 - 7 ) x 100 / 3 - 4 ) / 2
+  Solution: ( 100 + 50 - 75 ) x ( 9 - 1 ) + 6
 
    </details>
 
@@ -148,9 +149,9 @@ _Good Morning, Here is your daily briefing..._
 
 ### 5 Random Blogroll Links
 <!-- blogroll_marker starts -->
-- Kottke.org [URL](https://kottke.org/) [Feed](http://feeds.kottke.org/main)
-- Dan Q [URL](https://danq.me/) [Feed](https://danq.me/feed/)
-- R. S. Doiel [URL](https://rsdoiel.github.io/pages.xml) [Feed](https://rsdoiel.github.io/rss.xml)
-- Castro [URL](https://castro.fm/) [Feed](https://castro.fm/feed.rss)
-- fnhipster [URL](https://fnhipster.com/) [Feed](https://fnhipster.com/rss)
+- Monevator [URL](https://monevator.com/) [Feed](https://feeds.feedburner.com/monevatorcom)
+- Cybaa by Joe T [URL](https://joetiedeman.uk/) [Feed](https://joetiedeman.uk/feed/)
+- Ben Nadel [URL](https://www.bennadel.com/) [Feed](https://www.bennadel.com/rss)
+- Shell Sharks [URL](https://shellsharks.com/) [Feed](https://shellsharks.com/feeds/all-feed.xml)
+- Terry Godier (blog) [URL](https://blog.terrygodier.com/) [Feed](https://blog.terrygodier.com/feed.xml)
 <!-- blogroll_marker ends -->
