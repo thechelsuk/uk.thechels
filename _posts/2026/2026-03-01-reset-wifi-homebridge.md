@@ -2,7 +2,7 @@
 layout: post
 title: How to reset WiFi on Homebridge
 seo: Ways - How to reset WiFi on Homebridge
-tag: ways
+
 link: https://github.com/homebridge/homebridge-raspbian-image/wiki/How-To-Reset-WiFi
 cited: Homebridge
 date: 2026-03-01

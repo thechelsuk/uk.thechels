@@ -2,7 +2,7 @@
 layout: post
 title: How to create navigation for thechelsuk
 seo: Ways - create navigation for thechelsuk
-tag: ways
+
 date: 2026-03-01
 type: ways
 

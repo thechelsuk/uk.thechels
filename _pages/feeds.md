@@ -13,6 +13,7 @@ A number of RSS feeds are available.
   - RSS only [Atom/XML](/rss.xml) - Secret RSS only posts.
   - Ways only [Atom/XML](/ways.xml) - Ways only posts.
   - TIL only [Atom/XML](/til.xml) - TIL only posts.
+  - Mixtapes only [Atom/XML](/mixtapes.xml) - Mixtape only posts.
 - Films [Atom/XML](/films.xml) - Film reviews.
 - Bluesky [Atom/XML](https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/rss) - A feed directly from Bluesky.
 - Mastodon [Atom/XML](https://mastodon.social/@Thechelsuk.rss) - A feed directly from Mastodon.

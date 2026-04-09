@@ -2,7 +2,7 @@
 layout: post
 title: How to delete WhatsApp
 seo: Ways - How to delete WhatsApp
-tag: ways
+
 link: https://faq.whatsapp.com/2138577903196467/
 cited: WhatsApp
 date: 2026-03-01

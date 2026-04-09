@@ -2,7 +2,7 @@
 layout: post
 title: How to replace the battery in your AirTag
 seo: Ways - How to replace the battery in your AirTag
-tag: ways
+
 link: https://support.apple.com/en-gb/102600
 cited: Apple Support
 date: 2026-03-01

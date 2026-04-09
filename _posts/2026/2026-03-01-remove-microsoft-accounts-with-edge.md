@@ -2,7 +2,7 @@
 layout: post
 title: How to remove Microsoft accounts with Edge
 seo: Ways - How to remove Microsoft accounts with Edge
-tag: ways
+
 link: edge://signin-internals/
 cited: Microsoft Edge
 date: 2026-03-01

@@ -2,7 +2,7 @@
 layout: post
 title: How to run Jekyll locally
 seo: Ways - run Jekyll locally
-tag: ways
+
 date: 2026-03-01
 type: ways
 
