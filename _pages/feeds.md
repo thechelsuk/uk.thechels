@@ -1,6 +1,6 @@
 ---
 layout: pages
-title: Available Feeds & RSS
+title: Available RSS Feeds in XML and JSON formats
 permalink: /feeds
 seo: Subscribe to various JSON, RSS, and Data feeds
 
@@ -20,12 +20,22 @@ A number of RSS feeds are available.
 
 and;
 
-{%- assign all_entries = "" | split: "" -%}
-{%- for post in site.posts -%}{%- assign all_entries = all_entries | push: post -%}{%- endfor -%}
-{%- for item in site.data.videos -%}{%- assign all_entries = all_entries | push: item -%}{%- endfor -%}
-{%- for item in site.data.bluesky -%}{%- assign all_entries = all_entries | push: item -%}{%- endfor -%}
-{%- for item in site.data.mastodon -%}{%- assign all_entries = all_entries | push: item -%}{%- endfor -%}
-{%- for item in site.data.films -%}{%- assign all_entries = all_entries | push: item -%}{%- endfor -%}
+{% assign all_entries = "" | split: "" %}
+{% for post in site.posts %}
+  {% assign all_entries = all_entries | push: post %}
+{% endfor %}
+{% for item in site.data.videos %}
+  {% assign all_entries = all_entries | push: item %}
+{% endfor %}
+{% for item in site.data.bluesky %}
+  {% assign all_entries = all_entries | push: item %}
+{% endfor %}
+{% for item in site.data.mastodon %}
+  {% assign all_entries = all_entries | push: item %}
+{% endfor %}
+{% for item in site.data.films %}
+  {% assign all_entries = all_entries | push: item %}
+{% endfor %}
 
 - Firehose [Atom/XML](/firehose.xml) - A firehose feed of all content (**{{ all_entries | size }}** total entries) from all sources  above in one single feed.
 
