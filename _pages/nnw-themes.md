@@ -12,7 +12,7 @@ If you use NetNewsWire, you can use my themes as listed below. All themes are fr
 
 Based on the light and alt themes on this site, adjusted to match the light and darkness of the app. Theme uses thechelsuk font included in the theme file as well as adapting to the device light/dark mode preference.
 
-- [Install](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes.nnw/raw/main/dist/thechelsuk.nnwtheme_v1.zip)
+- [Install](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes.nnw/raw/main/dist/thechelsuk.nnwtheme_v2.zip)
 - [GitHub](https://github.com/thechelsuk/uk.thechels.themes.nnw)
 
 ## Guro Theme
