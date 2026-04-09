@@ -132,6 +132,7 @@
                 document.documentElement.classList.add(mode + '-mode');
               }
               // On load, set theme from localStorage or system preference
+              var message = "Hurrah you found it! The theme is now ";
               var stored = localStorage.getItem('theme');
               var validModes = ['light', 'alt', 'dark'];
               if (stored && validModes.includes(stored)) {
@@ -149,11 +150,13 @@
                   var nextIdx = (validModes.indexOf(current) + 1) % validModes.length;
                   var next = validModes[nextIdx];
                   setTheme(next);
+                  console.log(message + document.documentElement.getAttribute('data-theme'));
                   localStorage.setItem('theme', next);
                 });
                 asterisk.addEventListener('keydown', function (e) {
                   if (e.key === 'Enter' || e.key === ' ') {
                     asterisk.click();
+                    console.log(message + document.documentElement.getAttribute('data-theme'));
                     e.preventDefault();
                   }
                 });
