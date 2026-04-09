@@ -2,7 +2,7 @@
 layout: post
 title: How to create various post types for thechelsuk
 seo: Ways - create post types for thechelsuk
-tag: ways
+
 date: 2026-03-01
 type: ways
 

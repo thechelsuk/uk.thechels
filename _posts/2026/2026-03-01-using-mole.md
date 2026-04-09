@@ -2,7 +2,7 @@
 layout: post
 title: How to run mole
 seo: Ways - run mole
-tag: ways
+
 link: https://github.com/tw93/Mole/blob/main/README.md
 cited: Mole
 date: 2026-03-01

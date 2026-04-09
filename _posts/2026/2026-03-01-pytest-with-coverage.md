@@ -2,7 +2,7 @@
 layout: post
 title: How to run Pytest with coverage
 seo: Ways - How to run Pytest with coverage
-tag: ways
+
 date: 2026-03-01
 type: ways
 

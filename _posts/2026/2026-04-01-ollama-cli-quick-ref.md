@@ -2,7 +2,7 @@
 layout: post
 title: How to use Ollama from the terminal
 seo: Ways - How to use Ollama from the terminal
-tag: ways
+
 date: 2026-04-01
 type: ways
 

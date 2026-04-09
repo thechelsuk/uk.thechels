@@ -2,7 +2,7 @@
 layout: post
 title: How to get data from your Google account
 seo: Ways - Google account export data
-tag: ways
+
 link: https://takeout.google.com/
 cited: Google
 date: 2026-03-01

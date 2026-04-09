@@ -2,7 +2,6 @@
 layout: post
 date: 2026-03-27
 title: TIL - The XY Problem
-tags: [TIL]
 link: https://xyproblem.info/
 cited: xyproblem
 type: til

@@ -3,7 +3,6 @@
 layout: post
 date: 2025-10-26
 title: Monthly Mixtape - Oct 2025
-tags: [mixtapes]
 type: mixtape
 
 ---

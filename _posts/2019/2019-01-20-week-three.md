@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Week Three - Strong Start with Easy Runs and Commutes
-tags: [27.5]
+total: [27.5]
 tag:
   - runs
 ---
