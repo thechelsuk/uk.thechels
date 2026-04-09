@@ -4,6 +4,7 @@ title: How to use ways
 seo: Ways - A guide to using ways
 date: 2026-02-01
 type: ways
+pinned: true
 
 ---
 
@@ -20,10 +21,11 @@ Ways are a slash pages format for documenting processes, workflows, and procedur
     type: ways
     permalink: /ways/use-ways/
     date: 2026-02-01
+    pinned: true/false
     ---
     ```
 
-3. Customize the front matter with the appropriate title, SEO description, type, permalink, and date for your specific way.
+3. Customize the front matter with the appropriate title, SEO description, type, permalink, and date for your specific way, use pinned as true if you want the way to be featured at the top of the ways archive page, otherwise set it to false or omit it.
 4. After the front matter, you can start writing your content. Use headings, lists, and other markdown formatting to make it easy to read and follow.
 5. Save the file and commit it to your repository. The new way will be available at the specified permalink, in this case `/ways/use-ways/`.
 

@@ -1,19 +1,23 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
-{% assign items = site.posts | where_exp: "post", "post.type == 'ways'" %}
-<p class="marker"><b>{{ items | size }}</b> total ways.</p>
+{% assign items = site.posts | where_exp: "post", "post.type == page.type" %}
+<p class="marker"><b>{{ items | size }}</b> total {{ page.type }}.</p>
 <div id="blog-archives" class="flow">
   {{ content }}
+
+  {% assign pinned = items | where: "pinned", true %}
+  {% if pinned.size > 0 %}
   <h2>Pinned Post</h2>
-  {% assign pinned = items | where: "title", "How to use ways" %}
   {% for post in pinned %}
   <div class="posts">
     {% include post_icon.html %} <a href="{{ post.url }}">{{ post.title }}</a>
     <span class="meta">// {{ post.content | number_of_words }} words on {{ post.date | date: "%-d %B %Y" }}.</span>
   </div>
   {% endfor %}
-  <h2>Recent Ways</h2>
-  {% assign recent = items | where_exp: "post", "post.title != 'How to use ways'" %}
+  {% endif %}
+
+  <h2>Recent {{ page.type | capitalize }} Posts</h2>
+  {% assign recent = items | where_exp: "post", "post.pinned != true" %}
   {% for post in recent %}
   <div class="posts">
     {% include post_icon.html %} <a href="{{ post.url }}">{{ post.title }}</a>
