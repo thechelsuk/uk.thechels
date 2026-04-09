@@ -452,6 +452,12 @@ ul li {
     &::marker {
         color: $accent;
     }
+
+    ul,
+    ol {
+        margin-top: 0.5em;
+        margin-bottom: 0;
+    }
 }
 
 ol li {
@@ -459,6 +465,12 @@ ol li {
 
     &::marker {
         color: $secondary;
+    }
+
+    ul,
+    ol {
+        margin-top: 0.5em;
+        margin-bottom: 0;
     }
 }
 
