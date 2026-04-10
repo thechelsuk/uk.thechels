@@ -123,6 +123,13 @@ $font-mono: "JetBrains Mono", ui-monospace, monospace, "Courier New";
 /* ----------  Main Styles ---------- */
 /* ---------------------------------- */
 
+html.no-transition,
+html.no-transition *,
+html.no-transition *::before,
+html.no-transition *::after {
+    transition: none !important;
+}
+
 html {
     font-size: 100%;
     height: 100%;
