@@ -3,12 +3,15 @@
 <footer role="contentinfo" aria-label="Secondary" id="footer" class="flow">
   <ul class="footer-meta">
     <li>
-      <span id="theme-cycle-icon">&#9683;</span>
       <a href="{{ site.url }}">{{ site.owner.name }}</a>
       &copy; {{ site.time | date: '%Y' }}
     </li>
     <li>Build: <a href="{{ site.github.repository_url }}">{{ site.github.build_revision | slice: 0, 10 }}</a></li>
     <li><a href="#top">↑ Back to top</a></li>
+  </ul>
+
+  <ul class="theme-icon-list">
+    <li><span id="theme-cycle-icon">&#9682;</span></li>
   </ul>
 
   <ul class="footer-links">

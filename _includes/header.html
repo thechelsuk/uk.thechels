@@ -86,14 +86,17 @@
 
     <script>
       (function () {
-        var validModes = ['light', 'sunrise', 'sunset', 'dark'];
+        var validModes = ['day', 'sunrise', 'sunset', 'night'];
         var stored = localStorage.getItem('theme');
-        var mode = 'light';
+        var mode = 'day';
+
+        if (stored === 'light') { stored = 'day'; localStorage.setItem('theme', 'day'); }
+        if (stored === 'dark') { stored = 'night'; localStorage.setItem('theme', 'night'); }
 
         if (stored && validModes.includes(stored)) {
           mode = stored;
         } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-          mode = 'dark';
+          mode = 'night';
         }
 
         document.documentElement.setAttribute('data-theme', mode);
