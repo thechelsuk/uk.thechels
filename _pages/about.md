@@ -29,11 +29,7 @@ The site is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web
 
 The font-family is a custom font, secondary to that the site utilises the user's operating system setting via the `-system-ui` declaration, `Gill Sans` if available, and as a last resort falls back to `sans-serif`. This means it should look natural and native to the operating system in use should the primary font not work. The primary colour scheme is `White Smoke` as the background, `Night` for text, `Brunswick Green` for links, `Lapis Lazuli` for some additional/secondary text e.g., post meta data and sub headings, and finally `Citron` is used for accents e.g., borders, separators, quote bars, table header backgrounds, and little bits of whimsy. Tables are `Gray Cloud` with `Snow` for the alternate rows, and code blocks have a background of `fffafa`.
 
-There are further variations for alternative and dark themes.
-
-The site supports preferred colour scheme on initial visit as well as setting a variable in local browser storage to remember theme selection*.
-
-_Please note it's a challenge for the visitor to find the theme toggle._
+There are further variations for sunset, night, sunrise, with the default theme being day, however, the site also supports `preferred-colour-scheme` so on initial visit it'll match your device mode. The site also sets a variable in local browser storage to remember theme selection*. _Please note it's a challenge for the visitor to find the theme toggles._
 
 The site uses some icons to denote the type of content, these are: &rarr; (`&rarr;`) for posts that link to other sites, &raquo; (`&raquo;`) for quotations without a linked source, &#9835; (`&#9835;`) for mixtapes, &#10026; (`&#10026;`) for Today I learned (TIL) posts, &#10010; (`&#10010;`) for [ways](/ways) - my how to posts, and finally &#9733; (`&#9733;`) regular posts and finally on non-post content ⇗ (`&neArr;`) is used for external links, ⇉ (`&rrarr;`) is used for sponsored content and adverts. Certain content is presented in blocks that have a left border and an icon. `[]` denotes code, `>` for quotes, and `ⓘ` for callouts but ultimately these are all just decorative and non-functional.
 

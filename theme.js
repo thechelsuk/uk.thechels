@@ -1,16 +1,16 @@
 (function () {
-    var validModes = ["light", "sunrise", "sunset", "dark"];
+    var validModes = ["day", "sunset", "night", "sunrise"];
     var modeLabels = {
-        light: "Light",
+        day: "Day",
         sunrise: "Sunrise",
         sunset: "Sunset",
-        dark: "Dark",
+        night: "Night",
     };
     var modeIcons = {
-        light: "\u25D3",
-        sunrise: "\u25D0",
+        day: "\u25D2",
+        sunrise: "\u25D1",
         sunset: "\u25D1",
-        dark: "\u25D2",
+        night: "\u25D2",
     };
 
     function getCurrentMode() {
@@ -52,8 +52,8 @@
 
         document.documentElement.setAttribute("data-theme", mode);
         document.documentElement.classList.remove(
-            "dark-mode",
-            "light-mode",
+            "night-mode",
+            "day-mode",
             "sunrise-mode",
             "sunset-mode",
         );
