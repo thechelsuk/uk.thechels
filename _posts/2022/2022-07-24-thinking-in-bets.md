@@ -4,7 +4,7 @@ layout: post
 date: 2022-07-24
 link: https://cate.blog/2022/07/11/book-thinking-in-bets/amp/
 title: Thinking in Bets
-cited: Accidentally in Code
+cited: Cate Huston (Accidentally in Code)
 
 ---
 
