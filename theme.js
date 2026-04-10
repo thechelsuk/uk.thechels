@@ -7,10 +7,10 @@
         dark: "Dark",
     };
     var modeIcons = {
-        light: String.fromCodePoint(9728),
-        sunrise: String.fromCodePoint(10040),
-        sunset: String.fromCodePoint(9730),
-        dark: String.fromCodePoint(9733),
+        light: String.fromCodePoint(9728) + "\uFE0E",
+        sunrise: String.fromCodePoint(10040) + "\uFE0E",
+        sunset: String.fromCodePoint(9730) + "\uFE0E",
+        dark: String.fromCodePoint(9733) + "\uFE0E",
     };
 
     function getCurrentMode() {
