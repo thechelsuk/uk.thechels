@@ -37,6 +37,7 @@ self.addEventListener('install', function(event) {
           '/images/me72-hover.png',
           '/images/colour-scheme.png',
           '/.well-known/avatar.png',
+          '/theme.js',
         ]
       );
     })
