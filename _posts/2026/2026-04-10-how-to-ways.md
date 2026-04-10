@@ -2,7 +2,7 @@
 layout: post
 title: How to use ways
 seo: Ways - A guide to using ways
-date: 2026-02-01
+date: 2026-04-10
 type: ways
 pinned: true
 class: indie
