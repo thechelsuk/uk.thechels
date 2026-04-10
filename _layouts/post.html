@@ -25,10 +25,18 @@
     {% webmentions page.url %}
   </p>
 
+  {% if page.class == 'indie' %}
+  <p class="meta">
+    <a href="https://news.indieweb.org/en" class="u-syndication">Also posted on IndieNews</a>
+  </p>
+  {% endif %}
+
+
   {% endif %}
 </article>
 {% for target in page.syndicate_to %}
 <a href="{{ site.webmentions.syndication[target].endpoint }}" class="hidden"></a>
 {% endfor %}
+
 
 {% include footer.html %}
