@@ -2,7 +2,11 @@
 </div>
 <footer role="contentinfo" aria-label="Secondary" id="footer" class="flow">
   <ul class="footer-meta">
-    <li>&copy; {{ site.time | date: '%Y' }} <a href="{{ site.url }}">{{ site.owner.name }}</a> <span id="theme-cycle-icon">&#9728;</span></li>
+    <li>
+      <span id="theme-cycle-icon">&#9683;</span>
+      <a href="{{ site.url }}">{{ site.owner.name }}</a>
+      &copy; {{ site.time | date: '%Y' }}
+    </li>
     <li>Build: <a href="{{ site.github.repository_url }}">{{ site.github.build_revision | slice: 0, 10 }}</a></li>
     <li><a href="#top">↑ Back to top</a></li>
   </ul>
@@ -17,12 +21,13 @@
   </ul>
   <p class="footer-avatar">
     <a href="#top" id="theme-cycle" class="theme-toggle__link" aria-label="Activate to cycle visual themes"
-        title="Activate to cycle visual themes"><img src="{{ site.owner.avatar }}" alt="{{ site.owner.name }} generated avatar on white background"
-        class="footer-avatar"></a>
+      title="Activate to cycle visual themes"><img src="{{ site.owner.avatar }}"
+        alt="{{ site.owner.name }} generated avatar on white background" class="footer-avatar"></a>
   </p>
 </footer>
 </div>
 <script src="{{ site.baseurl }}/app.js"></script>
 <script src="{{ site.baseurl }}/theme.js"></script>
 </body>
+
 </html>
