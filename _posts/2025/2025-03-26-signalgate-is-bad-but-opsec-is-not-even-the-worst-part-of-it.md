@@ -2,9 +2,9 @@
 
 layout: post
 date: 2025-03-26
-link: https://talkingpointsmemo.com/edblog/signalgate-is-bad-but-opsec-isnt-even-the-worst-part-of-it 
+link: https://talkingpointsmemo.com/edblog/signalgate-is-bad-but-opsec-isnt-even-the-worst-part-of-it
 title: SignalGate Is Bad But OPSEC Is Not Even the Worst Part Of It
-cited: TPM
+cited: Talking Points Memo
 
 ---
 

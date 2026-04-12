@@ -4,13 +4,13 @@ layout: post
 date: 2022-05-06
 link: https://cate.blog/2022/03/28/the-not-doing-list/amp/
 title: The Not Doing List
-cited: Accidentally in Code
+cited: Cate Huston (Accidentally in Code)
 
 ---
 
 Really like this idea of self-reflection, but I would argue that it isn't about not having time its just a priority call.
 
-I haven't been out running for quite some time now, I have prioritied work and famjly. 
+I haven't been out running for quite some time now, I have prioritied work and famjly.
 
 Inpsecting and adapting is key, and this post comes as a reminder to do that again.
 
