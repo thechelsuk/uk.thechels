@@ -19,7 +19,7 @@ permalink: /rss.xml
   </author>
   <id>{{ site.url }}/</id>
 
-  {% assign rss_posts = site.posts | where: "type", "rss" %}
+  {% assign rss_posts = site.posts | where_exp: "post", "post.type | downcase == 'rss'" %}
   {% for post in rss_posts %}
      {% assign build_date = post.date | date: "%Y-%m-%dT%H:%M:%SZ" %}
      {% assign updated_date = post.modified | date: "%Y-%m-%dT%H:%M:%SZ" %}
