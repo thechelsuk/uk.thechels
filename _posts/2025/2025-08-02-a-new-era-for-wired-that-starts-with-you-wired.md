@@ -2,10 +2,10 @@
 
 date: 2025-08-02
 title: "A New Era for WIRED — That Starts With You"
-cited: "Katie Drummond"
 link: https://www.wired.com/story/a-new-era-for-wired-that-starts-with-you/
 seo: "More ways to enjoy WIRED - journalism, including premium newsletters and livestream"
 tags:
+cited: Katie Drummond (Wired)
 
 ---
 

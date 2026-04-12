@@ -83,6 +83,33 @@
     {%- endif -%}
 
     {%- webmentions_head -%}
+
+    <script>
+      (function () {
+        var validModes = ['day', 'sunrise', 'sunset', 'night'];
+        var stored = localStorage.getItem('theme');
+        var mode = 'day';
+
+        if (stored === 'light') { stored = 'day'; localStorage.setItem('theme', 'day'); }
+        if (stored === 'dark') { stored = 'night'; localStorage.setItem('theme', 'night'); }
+
+        if (stored && validModes.includes(stored)) {
+          mode = stored;
+        } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          mode = 'night';
+        }
+
+        document.documentElement.setAttribute('data-theme', mode);
+        document.documentElement.classList.add(mode + '-mode');
+        document.documentElement.classList.add('no-transition');
+
+        requestAnimationFrame(function () {
+          requestAnimationFrame(function () {
+            document.documentElement.classList.remove('no-transition');
+          });
+        });
+      })();
+    </script>
   </head>
 
   <body>
@@ -107,7 +134,7 @@
                     {% else %}
                     {{ page.title }}
                     {% endif %}</a><sup class="asterisk" id="top" tabindex="0" role="button" aria-label="Toggle Theme"
-                    title="Toggle light/alt/dark mode">*</sup>
+                    title="Toggle light/sunrise/sunset/dark mode">*</sup>
                 </div>
                 <div class="blog-slogan"> {% assign slogans=site.data.slogans %} {% assign random_index="now" | date:
                   "%s" |
@@ -127,42 +154,3 @@
           </div>
         </header>
         <main role="main" id="main" class="content flow">
-          <script>
-            (function () {
-              function setTheme(mode) {
-                document.documentElement.setAttribute('data-theme', mode);
-                document.documentElement.classList.remove('dark-mode', 'light-mode', 'alt-mode');
-                document.documentElement.classList.add(mode + '-mode');
-              }
-              // On load, set theme from localStorage or system preference
-              var message = "Hurrah you found it! The theme is now ";
-              var stored = localStorage.getItem('theme');
-              var validModes = ['light', 'alt', 'dark'];
-              if (stored && validModes.includes(stored)) {
-                setTheme(stored);
-              } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-                setTheme('dark');
-              } else {
-                setTheme('light');
-              }
-              // Toggle on asterisk click or enter
-              var asterisk = document.getElementById('top');
-              if (asterisk) {
-                asterisk.addEventListener('click', function () {
-                  var current = document.documentElement.getAttribute('data-theme');
-                  var nextIdx = (validModes.indexOf(current) + 1) % validModes.length;
-                  var next = validModes[nextIdx];
-                  setTheme(next);
-                  console.log(message + document.documentElement.getAttribute('data-theme'));
-                  localStorage.setItem('theme', next);
-                });
-                asterisk.addEventListener('keydown', function (e) {
-                  if (e.key === 'Enter' || e.key === ' ') {
-                    asterisk.click();
-                    console.log(message + document.documentElement.getAttribute('data-theme'));
-                    e.preventDefault();
-                  }
-                });
-              }
-            })();
-          </script>
