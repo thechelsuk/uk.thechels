@@ -13,7 +13,7 @@ The main reason is to pump all the content into the `_posts` folder. The idea he
 
 It is trivial to exclude any post type using liquid syntax, for example where the type is RSS where one could choose to publish secretly just to the feed.  This enables the generation of the post html file, it is just excluded from the archives (for collections you can toggle output to false in the config to stop page generation). Taking onboard Dave Rupert's note that content should have a url. I opted for the change. I had found even if a page url was not provided several RSS reader apps default to the site url, so on clicking it would confuse users with the homepage, or worse a 404 page. Also there is an accessibility angle here where the web version might be better than the rss reader (zoom, tabbing, text to speech etc).
 
-So my blog now has post types for mixtapes, today I learned (TIL), ways (how to) as well as regular and linked quote posts and finally those secret posts. 
+So my blog now has post types for mixtapes, today I learned (TIL), ways (how to) as well as regular and linked quote posts and finally those secret posts.
 
 I've also added a feed for each post type too as again the loop is trivial inside an xml file. I've also added a firehose which adds in the rss from YouTube, mastodon and Bluesky - although the latter two require a hashtag in my post to show up, just in case I don't want it in my feed and on the socials page. Again several loops all being added to a single array ordered by date.
 
