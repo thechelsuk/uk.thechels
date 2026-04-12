@@ -1,6 +1,6 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
-{% assign posts = site.posts | where_exp: "post", "post.type != 'rss'" %}
+{% assign posts = site.posts | where_exp: "post", "post.type | downcase != 'rss'" %}
 
 
 <p class="marker"><b>{{ posts | size }}</b> total posts.</p>
