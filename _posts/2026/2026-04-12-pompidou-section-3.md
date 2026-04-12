@@ -3,7 +3,7 @@
 layout: post
 date: 2026-04-12 02:11
 title: Pompidou section 3 - Refactor post types
-type: RSS
+type: rss
 
 ---
 
