@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-04-13
+date: 2026-04-14
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,14 +11,14 @@ date: 2026-04-13
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Monday, 13 April 2026
+## On Tuesday, 14 April 2026
 
-- The average temperature today is 9.24˚C,
-- With highs of 9.24˚C and lows of 9.24˚C,
-- It may feel like 8.34˚C with clear sky
-- The wind speed is 1.96m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 78%
-- The sun will rise at 05:16 and set at 19:00
+- The average temperature today is 10.32˚C,
+- With highs of 10.32˚C and lows of 10.32˚C,
+- It may feel like 9.6˚C with broken clouds
+- The wind speed is 4.55m/s and visibility is 10000m
+- The pressure is 1016hPa and humidity is 84%
+- The sun will rise at 05:14 and set at 19:02
 
 <!-- weather_marker ends -->
 
@@ -26,74 +26,93 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 769 days since the last change (2024-03-05)
+- It has been 770 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Bias towards action.
+> Commit to the direction.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Crystal Palace U21 v Arsenal U21
-- Manchester City U21 v Norwich City U21
-- Manchester United v Leeds United
+- Southampton U18 v Chelsea U18
+- Manchester City U18 v Sunderland U18
+- England Women v Spain Women
+- Bolton Wanderers v Stevenage
+- Huddersfield Town v Cardiff City
+- Barrow AFC v Oldham Athletic
+- Cheltenham Town v Gillingham
+- Chesterfield v Grimsby Town
+- Colchester United v Accrington Stanley
+- Aldershot Town v Southend United
+- Wealdstone v Boston United
+- Woking v Solihull Moors
+- Portsmouth v Ipswich Town
+- Southampton v Blackburn Rovers
+- Liverpool v PSG
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 125.22000122070312 
-- ^FTSE : 10553.650390625 
-- ^FTMC : 22175.55078125 
+- VWRL.L : 126.69999694824219 
+- ^FTSE : 10621.1796875 
+- ^FTMC : 22508.859375 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> Why did the blues man cross the road? To get from A to B#7
+> At school, during the creative classes, I was only good at drawing night time scenes featuring lots of curtains, blinds, and shadows, my tutor said I had really mastered the dark arts.
 <!-- jokes_marker ends -->
 
 ### Top News
 <!-- news_marker starts -->
-- ® AI went viral among attorneys. We have the numbers on what happened next ([10 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/13/ai_attorneys/))
-- ® France’s digital directorate dumping Windows desktops, adopting Linux instead ([54 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/13/france_tech_sovereignty_plan/))
-- £ Trump lashes out at Pope Leo for criticism of Iran war ([1 hours ago](https://www.ft.com/content/5cfc03ff-6966-46fd-a62f-01b2452402dc))
-- £ Hungary’s Orbán concedes defeat as opposition secures landslide win ([1 hours ago](https://www.ft.com/content/a9b635f0-6fff-41e5-8e27-245de4500863))
-- ® IT manager approved downtime over lunch, but made a meal of it ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/13/who_me/))
-- £ Oil prices soar above $100 a barrel as hope fades of end to Iran war ([2 hours ago](https://www.ft.com/content/4dbf076f-004b-4244-8579-2aca3e60e05c))
-- £ The risks of Trump’s Strait of Hormuz blockade plan ([4 hours ago](https://www.ft.com/content/54003e09-03dd-4a45-90d3-98354f8aadfb))
-- £ What happens in Sudan will not stay in Sudan ([4 hours ago](https://www.ft.com/content/4ff2b813-e347-4373-8355-d19a49af5391))
-- £ Meta builds AI version of Mark Zuckerberg to interact with staff ([4 hours ago](https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f))
-- £ Carson Block sees new dawn for short sellers in AI disruption ([4 hours ago](https://www.ft.com/content/83b4d584-686b-4228-a59e-79f15c7510b7))
-- £ Stocks fall as US prepares for blockade of strait ([5 hours ago](https://www.ft.com/content/232417a6-b351-493f-81f3-e7b3b94ebc08))
-- ® China wants AI to prepare school lessons and mark homework ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/13/asia_tech_news_roundup/))
-- ® Linux 7.0 debuts as Linus Torvalds ponders AI's bug-finding powers and their impact on release process ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/13/linux_kernel_7_releaseed/))
-- ® Anthropic's mysterious Mythos AI threatens to upend the infosec world ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/12/anthropic_mythos_kettle_podcast/))
-- £ Hungary opposition delivers ‘regime change’ ([9 hours ago](https://www.ft.com/content/b348e8f5-c70a-4176-920e-168354846cc5))
-- £ UK Treasury to profit from final year of student loan scheme, says analysis ([9 hours ago](https://www.ft.com/content/184f97b0-275b-4d28-9ed6-bdb15ae0c69f))
-- ♣ Chelsea 0-3 Manchester City, Premier League: Post-match reaction, ratings ([15 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/167791/chelsea-0-3-manchester-city-premier-league-post-match-reaction-ratings))
-- ® I vibe coded a feed reading web app. It was enlightening and uncomfortable ([18 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/12/vibe_coding_works/))
-- ♣ Chelsea vs. Manchester City, Premier League: Lineups &#038; Game Thread ([18 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/167785/chelsea-vs-manchester-city-premier-league-confirmed-lineups-how-to-watch))
-- ® Growing void between enterprise and frontier AI puts open weights models in the spotlight ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/12/ai_open_weights_models/))
-- ® Apple update looks like Czech mate for locked-out iPhone user ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/12/ios_passcode_bug/))
-- ♣ The Daily Hilario: Sunday ([1 days ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167770/the-daily-hilario-april-12th))
-- ♣ Chelsea fans’ preferred lineup against Manchester City: Santos and Sarr to step up ([1 days ago](https://weaintgotnohistory.sbnation.com/premier-league/167773/chelsea-fans-preferred-lineup-against-manchester-city-santos-and-sarr-to-step-up))
-- ♣ Chelsea vs. Manchester City, Premier League: Preview, team news, how to watch ([1 days ago](https://weaintgotnohistory.sbnation.com/premier-league/167764/chelsea-vs-manchester-city-premier-league-preview-team-news-how-to-watch))
-- ® How Salesforce and ServiceNow are squaring off in the battle for the helpdesk ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/11/salesforce_vs_servicenow_itsm_battle/))
+- € Risk of ‘serious’ economic shock if Iran war drags on, EBRD chief says ([1 minutes ago](http://www.euronews.com/my-europe/2026/04/14/risk-of-serious-economic-shock-if-iran-war-drags-on-ebrd-chief-says))
+- ® Microsoft sends Outlook Lite to the great inbox in the sky as memory costs skyrocket ([2 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/microsoft_outlook_lite/))
+- € Foreign aid plummets in Europe: Which countries are slashing their funds? ([14 minutes ago](http://www.euronews.com/my-europe/2026/04/14/foreign-aid-plummets-in-europe-which-countries-are-slashing-their-funds))
+- € Luxury giant LVMH faces headwinds as sales growth slows in first quarter ([17 minutes ago](http://www.euronews.com/business/2026/04/14/luxury-giant-lvmh-faces-headwinds-as-sales-growth-slows-in-first-quarter))
+- € Shooting for the Moon: What's next for NASA after Artemis II's lunar fly-by? ([24 minutes ago](http://www.euronews.com/next/2026/04/14/shooting-for-the-moon-whats-next-for-nasa-after-artemis-iis-lunar-fly-by))
+- € Begoña Gómez, wife of Prime Minister Sánchez, to be tried for influence peddling ([31 minutes ago](http://www.euronews.com/2026/04/14/begona-gomez-wife-of-prime-minister-sanchez-to-be-tried-for-influence-peddling))
+- € Zelenskyy to meet German Chancellor Merz in Berlin as Russia's war grinds on ([38 minutes ago](http://www.euronews.com/2026/04/14/zelenskyy-to-meet-german-chancellor-merz-in-berlin-as-russias-war-grinds-on))
+- ® UK state bank considers lengthening disastrous IT program ([44 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/uk_state_bank_considers_lengthing/))
+- ® When the IBM PC and shoulder pads were big, Japan led the chip industry. It's trying to get back there now ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/japan_semiconductor_industry_comeback_rapidus/))
+- € Serbia's Aleksandar Vučić clashes with Péter Magyar over Putin 'godfather' remark ([1 hours ago](http://www.euronews.com/my-europe/2026/04/14/serbias-aleksandar-vucic-clashes-with-peter-magyar-over-putin-godfather-remark))
+- € Trump hosts Dutch royals at the White House for dinner and overnight stay ([1 hours ago](http://www.euronews.com/video/2026/04/14/trump-hosts-dutch-royals-at-the-white-house-for-dinner-and-overnight-stay))
+- € Lisbon voted the most colourful city in the world. Porto ranks third ([1 hours ago](http://www.euronews.com/travel/2026/04/14/lisbon-voted-the-most-colourful-city-in-the-world-porto-ranks-third))
+- € 'The largest energy security threat in history' is about push oil prices further up, IEA warns ([1 hours ago](http://www.euronews.com/business/2026/04/14/the-largest-energy-security-threat-in-history-is-about-push-oil-prices-further-up-iea-warn))
+- ® Windows Update is a torture chamber for seldom-used PCs ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/windows_update_torture/))
+- £ China’s Xi warns Iran conflict leaves world ‘beset by disarray’ ([4 hours ago](https://www.ft.com/content/bb8bf4c4-2643-4935-9872-5949d3ac3eb1))
+- £ JD Vance takes on ‘poisoned chalice’ of Trump’s foreign policy missions ([4 hours ago](https://www.ft.com/content/f56823aa-0aa5-4d22-8498-24fc6826c7fc))
+- £ Why ‘glue work’ can finally shine in the age of AI ([4 hours ago](https://www.ft.com/content/5e7e1a4e-050c-4c06-98ea-7be5c91863ab))
+- £ OpenAI investors question $852bn valuation as strategy shifts ([4 hours ago](https://www.ft.com/content/04ac7917-940b-4606-be5f-9eb895a7d982))
+- £ Young trader who made $250mn on Russian crude sets sights on Guyana ([4 hours ago](https://www.ft.com/content/c58370ba-0d31-4320-ad33-7c2236bd23c8))
+- £ China shock 2.0: the flood of high-tech goods that will change the world ([4 hours ago](https://www.ft.com/content/7d51a630-a3de-4cc7-9f5f-0f3e7f0d305a))
+- £ Geopolitical upheaval spurs family offices to open global branches ([4 hours ago](https://www.ft.com/content/77db56b6-d680-4859-9e5a-fb6dab14018f))
+- ® Japanese rocket part came unglued, leading to mission failure ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/jaxa_rocket_failure_faulty_adhesive/))
+- ® The votes are in: AI will hurt elections and relationships ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/ai_report_2026_stanford_hai/))
+- ® Zombie Microsoft bugs rise from the dead, pave way for crims and ransomware scum ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/13/ransomware_gang_other_crims_attacking/))
+- £ Reeves tells Gulf expats: come to ‘safe harbour’ Britain ([11 hours ago](https://www.ft.com/content/35d396e7-5590-4c65-9989-0c136e937fd7))
+- ® Cloudflare revamps CLI as agents take over the internet ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/13/cloudflare_expanding_wrangler_cli_functionality/))
+- ® Claude is getting worse, according to Claude ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/13/claude_outage_quality_complaints/))
+- ® How ServiceNow gets customers to gorge at the AI trough ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/13/servicenow_ai_everywhere/))
+- £ Starmer accused of ‘corrosive complacency’ on UK defence by former Nato chief ([12 hours ago](https://www.ft.com/content/88b1f17a-28d1-4706-b1ee-cbe6a1278496))
+- ♣ Chelsea 0-3 Manchester City, Premier League: Post-match reaction, ratings ([1 days ago](https://weaintgotnohistory.sbnation.com/premier-league/167791/chelsea-0-3-manchester-city-premier-league-post-match-reaction-ratings))
+- ♣ Chelsea vs. Manchester City, Premier League: Lineups &#038; Game Thread ([1 days ago](https://weaintgotnohistory.sbnation.com/premier-league/167785/chelsea-vs-manchester-city-premier-league-confirmed-lineups-how-to-watch))
 
 <!-- news_marker ends -->
 
@@ -101,7 +120,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > pummel - verb tr.: To beat or pound, with or as if with fists.
+ > balladmonger - noun: 1. A seller or composer of ballads. 2. An inferior poet.
 
 <!-- word_marker ends -->
 
@@ -109,37 +128,34 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> Fix the things that hurt the most - unknown
+> It is not failing fast, but learning early  - Anon
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Intentions
--credibility of
--nobility of
--humility of
+> Balance the consistency principle with the inconsistency principle
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Toy Soldiers (Rated: 6)
-- Released in 1991
-- Summary: A group of troublemaking boys decide to take a stand when terrorists seize control of their boarding school.
+- Hide And Seek (Rated: 7)
+- Released in 2005
+- Summary: As a widower tries to piece together his life in the wake of his wife's suicide, his daughter finds solace, at first, in her imaginary friend.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 <!-- game_marker starts -->
 
-- Target: 577, using [2, 4, 5, 5, 8, 10]
-- Answer: 1 solutions.
+- Target: 820, using [3, 5, 7, 10, 25, 75]
+- Answer: 38 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 8 + 4 ) x 10 - 5 ) x 5 + 2
+  Solution: ( 25 + 3 - 10 - 7 ) x 75 - 5
 
    </details>
 
@@ -147,9 +163,9 @@ _Good Morning, Here is your daily briefing..._
 
 ### 5 Random Blogroll Links
 <!-- blogroll_marker starts -->
-- Jason Rodriguez [URL](https://rodriguezcommaj.com/) [Feed](https://rodriguezcommaj.com/atom.xml)
-- One Thing Well [URL](https://onethingwell.org/) [Feed](http://onethingwell.org/rss)
-- Scott Brady [URL](https://www.scottbrady.io/) [Feed](https://feeds.feedburner.com/scottbrady91)
-- Harry Cresswell [URL](https://harrycresswell.com/writing/) [Feed](https://harrycresswell.com/writing/feed.xml)
-- Waxy (Andy Baio) [URL](https://waxy.org/) [Feed](https://waxy.org/feed/)
+- Pluralistic by Cory Doctorow [URL](https://pluralistic.net/) [Feed](https://pluralistic.net/feed/)
+- Robb Knight [URL](https://rknight.me/) [Feed](https://rknight.me/feed.xml)
+- Castro [URL](https://castro.fm/) [Feed](https://castro.fm/feed.rss)
+- Information is Beautiful [URL](https://informationisbeautiful.net/) [Feed](http://feeds.feedburner.com/InformationIsBeautiful)
+- Marco Arment [URL](https://marco.org/) [Feed](http://www.marco.org/rss)
 <!-- blogroll_marker ends -->
