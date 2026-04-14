@@ -2,10 +2,6 @@
   name: The Book Club
 - link: https://feeds.redcircle.com/c478d684-038f-4b13-8507-bc32af486a2c
   name: Smashing Security
-- link: https://feeds.transistor.fm/simply-cyber
-  name: Daily Cyber Threat Brief
-- link: https://rss.libsyn.com/shows/83359/destinations/392364.xml
-  name: The Plannex Podcast
 - link: https://feeds.transistor.fm/compile-swift
   name: Compile Swift Podcast
 - link: https://rss.podplaystudio.com/1332.xml
@@ -26,8 +22,6 @@
   name: The Money Marketing Podcast
 - link: https://feeds.transistor.fm/vibe-coded
   name: Vibe Coded
-- link: https://feeds.acast.com/public/shows/8e80ba05-2f15-4479-a6cc-b2f6635a1fe0
-  name: Political Fix
 - link: https://feeds.megaphone.fm/sma
   name: Sh**ged Married Annoyed
 - link: https://feeds.soundcloud.com/users/soundcloud:users:878491849/sounds.rss
@@ -36,8 +30,6 @@
   name: 99% Invisible
 - link: https://feeds.acast.com/public/shows/650ac5ba0434d000118468a9
   name: Media Confidential
-- link: https://feeds.captivate.fm/the-rebooting-show/
-  name: The Rebooting Show
 - link: https://feeds.transistor.fm/acquired
   name: Acquired
 - link: https://feed.syntax.fm/rss
@@ -49,19 +41,15 @@
 - link: https://anchor.fm/s/45580f58/podcast/rss
   name: AB Testing
 - link: https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926
-  name: Daily Politics from the New Statesman
-- link: https://feeds.acast.com/public/shows/6478a825654260001190a7cb
-  name: Unhedged
+  name: Politics from the New Statesman
 - link: https://feeds.transistor.fm/primary-technology
   name: Primary Technology
 - link: https://feeds.acast.com/public/shows/67585d9cc705e441796ddaf6
-  name: Worklife with Adam Grant
+  name: Worklife with Molly Graham
 - link: https://feeds.megaphone.fm/GLT4787413333
   name: The Rest Is History
 - link: https://feed.podbean.com/IFAMagazine/feed.xml
   name: IFA Talk
-- link: https://feeds.megaphone.fm/howto
-  name: How to Age Up
 - link: https://feeds.simplecast.com/47yfLpm0
   name: The Secure Developer
 - link: https://pensionconfident.libsyn.com/rss
@@ -80,8 +68,6 @@
   name: TED Business
 - link: https://feeds.megaphone.fm/makingmoney
   name: Making Money
-- link: https://audioboom.com/channels/3223350.rss
-  name: This is Money Podcast
 - link: https://feeds.simplecast.com/MssIhx9y
   name: The Book Review
 - link: https://feeds.megaphone.fm/hacking-humans
@@ -160,14 +146,10 @@
   name: Philosophy Bites
 - link: https://softskills.audio/feed.xml
   name: Soft Skills Engineering
-- link: https://www.omnycontent.com/d/playlist/2e9a850c-e6b9-48c2-afec-a8f8010f70f4/59833122-0b32-4ba8-b5c7-ae7c00ef4766/66a56824-b863-41a7-92e3-ae7c00f12d6e/podcast.rss
-  name: Upfront
 - link: https://idratherbewriting.com/itunes.rss
   name: I'd Rather Be Writing Podcast
 - link: http://feeds.podtrac.com/4nQu_j5cJ_vi
   name: The Apple WatchCast Podcast - A podcast dedicated to the Apple Watch
-- link: https://feeds.megaphone.fm/COMG7001339357
-  name: The Obi One Podcast
 - link: https://www.theguardian.com/football/series/theguardianswomensfootballweekly/podcast.xml
   name: The Guardian's Women's Football Weekly
 - link: https://feeds.simplecast.com/K1_mv0CJ
@@ -192,10 +174,6 @@
   name: AppleInsider Podcast
 - link: https://gettingthingsdone.libsyn.com/rss
   name: Getting Things Done
-- link: https://audioboom.com/channels/5146200.rss
-  name: In The News This Week (the Have I Got News For You podcast)
-- link: https://feeds.transistor.fm/smashing
-  name: Smashing Podcast
 - link: https://audioboom.com/channels/2399216.rss
   name: No Such Thing As A Fish
 - link: https://podcasts.files.bbci.co.uk/p02pc9xt.rss
@@ -215,7 +193,7 @@
 - link: https://api.substack.com/feed/podcast/458709.rss
   name: The Pragmatic Engineer
 - link: https://sive.rs/podcast.rss
-  name: Derek Sivers
+  name: Derek Sivers podcast
 - link: https://feeds.megaphone.fm/kermodeandmayo
   name: "Kermode & Mayo\u2019s Take"
 - link: https://feeds.captivate.fm/lets-talk-transformation/
@@ -257,11 +235,9 @@
 - link: https://feeds.megaphone.fm/business-casual
   name: Morning Brew Daily
 - link: https://feeds.megaphone.fm/ARML6831509338
-  name: The world, the universe and us
+  name: The World, the Universe and Us
 - link: https://rss.art19.com/culture-first
-  name: Culture First with Damon Klotz
-- link: https://feeds.captivate.fm/the-sports-agents/
-  name: The Sports Agents
+  name: Culture Leaders
 - link: https://feeds.megaphone.fm/LDB8042666505
   name: Modern CTO
 - link: https://media.rss.com/drkmode/feed.xml
@@ -308,18 +284,18 @@
   name: Application Security Weekly (Audio)
 - link: https://feeds.transistor.fm/uktn-the-podcast
   name: UKTN | The Podcast
+- link: https://anchor.fm/s/11004dd1c/podcast/rss
+  name: The Plannex Podcast
 - link: https://cdn.atp.fm/rss/public?wtvryzdm
   name: Accidental Tech Podcast
 - link: https://feeds.megaphone.fm/dalybrightness
   name: 'The Rest Is Football: Daly Brightness'
 - link: https://www.macgeekgab.com/feed/podcast/
   name: "Mac Geek Gab \u2014 Apple Tips, Tricks, and Troubleshooting"
-- link: http://scripting.com/podcast.xml
-  name: Scripting News podcast
 - link: https://feeds.megaphone.fm/COMG5530220765/
   name: '1905: The Chelsea FC Podcast'
 - link: https://feeds.transistor.fm/launched
-  name: Launched
+  name: Launched by RevenueCat
 - link: https://podnews.net/sitemap/trailers.xml
   name: New Podcasts - trailers for new and noteworthy shows
 - link: https://feed.podbean.com/eightorsixteen/feed.xml
@@ -336,8 +312,6 @@
   name: GitHub at Work Podcast
 - link: https://feeds.simplecast.com/ioCY0vfY
   name: The GitHub Podcast
-- link: https://feeds.captivate.fm/politics-at-sam-and-anne/
-  name: Politics At Sam and Anne's
 - link: https://feeds.captivate.fm/cheat-sheet/
   name: Cheat Sheet with Ridge & Frost
 - link: https://rss.buzzsprout.com/2489886.rss
@@ -368,8 +342,6 @@
   name: Maintenance Phase
 - link: https://rss.art19.com/the-book-club-review
   name: The Book Club Review
-- link: https://risky.biz/feeds/risky-business/
-  name: Risky Business
 - link: https://rss.buzzsprout.com/1877446.rss
   name: "Startup Europe \u2014 The Sifted Podcast"
 - link: https://rss.buzzsprout.com/1714721.rss
@@ -407,12 +379,6 @@
 - link: https://feeds.castos.com/j34px
   name: 'Mast Cell Matters: Deep dives on MCAS with Tania Dempsey, MD - Presented
     by The POTScast'
-- link: https://feeds.acast.com/public/shows/47990e88-454b-4e3b-bf78-75a172c33184
-  name: Coffee Break French
-- link: https://feeds.acast.com/public/shows/985e7c00-8945-4e0d-a4da-b93049180ce1
-  name: Coffee Break Spanish
-- link: https://anchor.fm/s/104e3eb08/podcast/rss
-  name: Boring History for Sleep
 - link: https://feeds.podcastmirror.com/novara-media
   name: Novara Media
 - link: https://feeds.acast.com/public/shows/68b709d1a742b7c846de24b5
@@ -430,10 +396,46 @@
 - link: https://rss2.flightcast.com/bzl5auwjgtkk741gcwgney98.xml
   name: We Have A Meeting
 - link: https://mostdays.libsyn.com/rss
-  name: Death Clock
+  name: The Life Lab by Death Clock
 - link: https://feeds.simplecast.com/kULRmujj
   name: A Better Computer
 - link: https://feeds.megaphone.fm/COMG9410682723
   name: London Is Blue - Chelsea FC Podcast
 - link: https://rss.libsyn.com/shows/531557/destinations/4573682.xml
   name: Comfort Zone
+- link: https://feeds.acast.com/public/shows/69a5aa3811f5657dedfff2bd
+  name: This is Money Podcast
+- link: https://feeds.megaphone.fm/NSR4788575303
+  name: In The News This Week (the Have I Got News For You podcast)
+- link: https://rss.buzzsprout.com/2564765.rss
+  name: All Things Cheltenham
+- link: https://rss.buzzsprout.com/2260490.rss
+  name: Remote Ruby
+- link: https://realpython.com/podcasts/rpp/feed
+  name: The Real Python Podcast
+- link: https://anchor.fm/s/e642e76c/podcast/rss
+  name: 'Liquid Weekly Podcast: Shopify Developers Talking Shopify Development'
+- link: https://rss.buzzsprout.com/2203307.rss
+  name: The Westminster Tradition
+- link: https://rss.beehiiv.com/podcasts/019d4663-59fd-78d0-a75f-51fc06939892.xml
+  name: The Rebooting Show
+- link: https://feeds.transistor.fm/this-week-in-net
+  name: This Week in NET
+- link: https://feeds.megaphone.fm/plain-english
+  name: Plain English with Derek Thompson
+- link: https://feeds.megaphone.fm/ARML4010200722
+  name: The Red Line
+- link: https://apple.dwarkesh-podcast.workers.dev/feed.rss
+  name: Dwarkesh Podcast
+- link: https://www.igalia.com/chats.xml
+  name: Igalia Chats
+- link: https://feeds.simplecast.com/FRQZxP6k
+  name: Unfinished Business
+- link: https://feeds.transistor.fm/wake-up-excited
+  name: Wake Up Excited!
+- link: https://feeds.megaphone.fm/lateralcast
+  name: Lateral with Tom Scott
+- link: https://feeds.megaphone.fm/only-malware-in-the-building
+  name: Only Malware in the Building
+- link: https://rss.pdrl.fm/e083fe/feeds.megaphone.fm/unit42threatvector
+  name: Threat Vector by Palo Alto Networks
