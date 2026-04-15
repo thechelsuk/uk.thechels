@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-04-14
+date: 2026-04-15
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,14 +11,14 @@ date: 2026-04-14
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Tuesday, 14 April 2026
+## On Wednesday, 15 April 2026
 
-- The average temperature today is 10.32˚C,
-- With highs of 10.32˚C and lows of 10.32˚C,
-- It may feel like 9.6˚C with broken clouds
-- The wind speed is 4.55m/s and visibility is 10000m
-- The pressure is 1016hPa and humidity is 84%
-- The sun will rise at 05:14 and set at 19:02
+- The average temperature today is 14.6˚C,
+- With highs of 14.6˚C and lows of 14.6˚C,
+- It may feel like 14.36˚C with overcast clouds
+- The wind speed is 7.75m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 86%
+- The sun will rise at 05:11 and set at 19:04
 
 <!-- weather_marker ends -->
 
@@ -26,93 +26,79 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 770 days since the last change (2024-03-05)
+- It has been 771 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Commit to the direction.
+> Be open to change.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Southampton U18 v Chelsea U18
-- Manchester City U18 v Sunderland U18
-- England Women v Spain Women
-- Bolton Wanderers v Stevenage
-- Huddersfield Town v Cardiff City
-- Barrow AFC v Oldham Athletic
-- Cheltenham Town v Gillingham
-- Chesterfield v Grimsby Town
-- Colchester United v Accrington Stanley
-- Aldershot Town v Southend United
-- Wealdstone v Boston United
-- Woking v Solihull Moors
-- Portsmouth v Ipswich Town
-- Southampton v Blackburn Rovers
-- Liverpool v PSG
+- AFC Wimbledon v Stockport County
+- Arsenal v Sporting CP
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 126.69999694824219 
-- ^FTSE : 10621.1796875 
-- ^FTMC : 22508.859375 
+- VWRL.L : 127.45999908447266 
+- ^FTSE : 10615.9697265625 
+- ^FTMC : 22767.9609375 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> At school, during the creative classes, I was only good at drawing night time scenes featuring lots of curtains, blinds, and shadows, my tutor said I had really mastered the dark arts.
+> What are two landmasses favourite game? -  Bridge.
 <!-- jokes_marker ends -->
 
 ### Top News
 <!-- news_marker starts -->
-- € Risk of ‘serious’ economic shock if Iran war drags on, EBRD chief says ([1 minutes ago](http://www.euronews.com/my-europe/2026/04/14/risk-of-serious-economic-shock-if-iran-war-drags-on-ebrd-chief-says))
-- ® Microsoft sends Outlook Lite to the great inbox in the sky as memory costs skyrocket ([2 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/microsoft_outlook_lite/))
-- € Foreign aid plummets in Europe: Which countries are slashing their funds? ([14 minutes ago](http://www.euronews.com/my-europe/2026/04/14/foreign-aid-plummets-in-europe-which-countries-are-slashing-their-funds))
-- € Luxury giant LVMH faces headwinds as sales growth slows in first quarter ([17 minutes ago](http://www.euronews.com/business/2026/04/14/luxury-giant-lvmh-faces-headwinds-as-sales-growth-slows-in-first-quarter))
-- € Shooting for the Moon: What's next for NASA after Artemis II's lunar fly-by? ([24 minutes ago](http://www.euronews.com/next/2026/04/14/shooting-for-the-moon-whats-next-for-nasa-after-artemis-iis-lunar-fly-by))
-- € Begoña Gómez, wife of Prime Minister Sánchez, to be tried for influence peddling ([31 minutes ago](http://www.euronews.com/2026/04/14/begona-gomez-wife-of-prime-minister-sanchez-to-be-tried-for-influence-peddling))
-- € Zelenskyy to meet German Chancellor Merz in Berlin as Russia's war grinds on ([38 minutes ago](http://www.euronews.com/2026/04/14/zelenskyy-to-meet-german-chancellor-merz-in-berlin-as-russias-war-grinds-on))
-- ® UK state bank considers lengthening disastrous IT program ([44 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/uk_state_bank_considers_lengthing/))
-- ® When the IBM PC and shoulder pads were big, Japan led the chip industry. It's trying to get back there now ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/japan_semiconductor_industry_comeback_rapidus/))
-- € Serbia's Aleksandar Vučić clashes with Péter Magyar over Putin 'godfather' remark ([1 hours ago](http://www.euronews.com/my-europe/2026/04/14/serbias-aleksandar-vucic-clashes-with-peter-magyar-over-putin-godfather-remark))
-- € Trump hosts Dutch royals at the White House for dinner and overnight stay ([1 hours ago](http://www.euronews.com/video/2026/04/14/trump-hosts-dutch-royals-at-the-white-house-for-dinner-and-overnight-stay))
-- € Lisbon voted the most colourful city in the world. Porto ranks third ([1 hours ago](http://www.euronews.com/travel/2026/04/14/lisbon-voted-the-most-colourful-city-in-the-world-porto-ranks-third))
-- € 'The largest energy security threat in history' is about push oil prices further up, IEA warns ([1 hours ago](http://www.euronews.com/business/2026/04/14/the-largest-energy-security-threat-in-history-is-about-push-oil-prices-further-up-iea-warn))
-- ® Windows Update is a torture chamber for seldom-used PCs ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/windows_update_torture/))
-- £ China’s Xi warns Iran conflict leaves world ‘beset by disarray’ ([4 hours ago](https://www.ft.com/content/bb8bf4c4-2643-4935-9872-5949d3ac3eb1))
-- £ JD Vance takes on ‘poisoned chalice’ of Trump’s foreign policy missions ([4 hours ago](https://www.ft.com/content/f56823aa-0aa5-4d22-8498-24fc6826c7fc))
-- £ Why ‘glue work’ can finally shine in the age of AI ([4 hours ago](https://www.ft.com/content/5e7e1a4e-050c-4c06-98ea-7be5c91863ab))
-- £ OpenAI investors question $852bn valuation as strategy shifts ([4 hours ago](https://www.ft.com/content/04ac7917-940b-4606-be5f-9eb895a7d982))
-- £ Young trader who made $250mn on Russian crude sets sights on Guyana ([4 hours ago](https://www.ft.com/content/c58370ba-0d31-4320-ad33-7c2236bd23c8))
-- £ China shock 2.0: the flood of high-tech goods that will change the world ([4 hours ago](https://www.ft.com/content/7d51a630-a3de-4cc7-9f5f-0f3e7f0d305a))
-- £ Geopolitical upheaval spurs family offices to open global branches ([4 hours ago](https://www.ft.com/content/77db56b6-d680-4859-9e5a-fb6dab14018f))
-- ® Japanese rocket part came unglued, leading to mission failure ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/jaxa_rocket_failure_faulty_adhesive/))
-- ® The votes are in: AI will hurt elections and relationships ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/ai_report_2026_stanford_hai/))
-- ® Zombie Microsoft bugs rise from the dead, pave way for crims and ransomware scum ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/13/ransomware_gang_other_crims_attacking/))
-- £ Reeves tells Gulf expats: come to ‘safe harbour’ Britain ([11 hours ago](https://www.ft.com/content/35d396e7-5590-4c65-9989-0c136e937fd7))
-- ® Cloudflare revamps CLI as agents take over the internet ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/13/cloudflare_expanding_wrangler_cli_functionality/))
-- ® Claude is getting worse, according to Claude ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/13/claude_outage_quality_complaints/))
-- ® How ServiceNow gets customers to gorge at the AI trough ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/13/servicenow_ai_everywhere/))
-- £ Starmer accused of ‘corrosive complacency’ on UK defence by former Nato chief ([12 hours ago](https://www.ft.com/content/88b1f17a-28d1-4706-b1ee-cbe6a1278496))
-- ♣ Chelsea 0-3 Manchester City, Premier League: Post-match reaction, ratings ([1 days ago](https://weaintgotnohistory.sbnation.com/premier-league/167791/chelsea-0-3-manchester-city-premier-league-post-match-reaction-ratings))
-- ♣ Chelsea vs. Manchester City, Premier League: Lineups &#038; Game Thread ([1 days ago](https://weaintgotnohistory.sbnation.com/premier-league/167785/chelsea-vs-manchester-city-premier-league-confirmed-lineups-how-to-watch))
+- ® Waymo's self-driving cars face their toughest test yet: London ([1 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/15/waymo_london/))
+- € Berlin conference seeks urgent aid as Sudan war fuels mass poverty ([1 minutes ago](http://www.euronews.com/2026/04/15/berlin-conference-seeks-urgent-aid-as-sudan-war-fuels-mass-poverty))
+- € New video shows moment Orion capsule hatch opens after splashdown ([2 minutes ago](http://www.euronews.com/video/2026/04/15/new-video-shows-moment-orion-capsule-hatch-opens-after-splashdown))
+- € AI expansion drives up profits for Dutch semiconductor giant ASML ([6 minutes ago](http://www.euronews.com/business/2026/04/15/ai-expansion-drives-up-profits-for-dutch-semiconductor-giant-asml))
+- € Viral post comparing Portugal's Hormuz conquest to US Iran operation mixes facts with exaggeration ([16 minutes ago](http://www.euronews.com/2026/04/15/viral-post-comparing-portugals-hormuz-conquest-to-us-iran-operation-mixes-facts-with-exagg))
+- € Drone warfare: Europe’s new security threat ([35 minutes ago](http://www.euronews.com/my-europe/2026/04/15/drone-warfare-europes-new-security-threat))
+- ® Agents hooked into GitHub can steal creds – but Anthropic, Google, and Microsoft haven't warned users ([45 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/15/claude_gemini_copilot_agents_hijacked/))
+- € Pakistan hosts thousands of Sikh pilgrims for 2026 baisakhi rites ([45 minutes ago](http://www.euronews.com/video/2026/04/15/pakistan-hosts-thousands-of-sikh-pilgrims-for-2026-baisakhi-rites))
+- € Oil prices fall as renewed hopes for peace talks feed a stock market rally ([59 minutes ago](http://www.euronews.com/business/2026/04/15/oil-prices-fall-as-renewed-hopes-for-peace-talks-feed-a-stock-market-rally))
+- € Trump accuses Italy’s Meloni of not having 'courage' to back Iran war ([1 hours ago](http://www.euronews.com/my-europe/2026/04/15/trump-accuses-italys-meloni-of-not-having-courage-to-back-iran-war))
+- € Kanye West postpones French concert a week after UK ban ([1 hours ago](http://www.euronews.com/culture/2026/04/15/kanye-west-postpones-french-concert-a-week-after-uk-ban))
+- ® Orbital datacenter startup CEO admits launch economics don't fly, presses ahead regardless ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/15/orbital_space_datacenter_startup_economics/))
+- ® The only technology that died more times than VR is AI, and that seems to have worked out ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/15/hardware_metaverse_will_happen/))
+- € Peru election dispute deepens amid slow ballot count ([1 hours ago](http://www.euronews.com/video/2026/04/15/peru-election-dispute-deepens-amid-slow-ballot-count))
+- ® Boeing deliveries soar past Airbus for the first time in years, but this is no time to unbuckle your seat belt ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/15/boeing_airbus_deliveries/))
+- £ Trump’s push to cut US rates akin to ‘banana republic’, says Yellen ([4 hours ago](https://www.ft.com/content/fcc0e47b-589b-49da-992c-f309a4783e23))
+- £ Iran faces halt to oil production within weeks if US blockade succeeds ([4 hours ago](https://www.ft.com/content/dec9c510-9dd8-434b-abe8-5f9ecbb41e55))
+- £ Starmer plans May relaunch with King’s Speech ([4 hours ago](https://www.ft.com/content/2c50b596-5383-444d-8436-f9e88aaf308a))
+- £ Iran used Chinese spy satellite to target US bases ([4 hours ago](https://www.ft.com/content/1fddd2cd-1294-4e9c-a17d-5ea06b399355))
+- £ The mix of chaotic politics and a resilient economy can’t last ([4 hours ago](https://www.ft.com/content/32a16d56-41c6-4d13-bbc4-7ea908b6ceae))
+- £ ‘Bifs’ replace ‘Piigs’ as Europe’s bond market whipping boys ([4 hours ago](https://www.ft.com/content/d2d32518-1622-4c45-9ada-569b67c8e4b6))
+- £ Should Europe repel Chinese investment? ([4 hours ago](https://www.ft.com/content/873ac1ea-8924-4600-b67d-0c078b917b55))
+- £ Private healthcare in the UK: helping or harming the NHS? ([4 hours ago](https://www.ft.com/content/cc443c43-f7c4-4545-87ad-5ddd4d91bd00))
+- ® AI-powered mainframe exits are a bubble set to pop ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/15/gartner_mainframe_exit_analysis/))
+- £ US military says blockade of Iranian ports is ‘fully implemented’ ([8 hours ago](https://www.ft.com/content/40218940-4f0f-4aee-9209-2fb713eea736))
+- ® Claude Code routines promise mildly clever cron jobs ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/claude_code_routines/))
+- ® Commvault has a Ctrl+Z for rogue AI agents ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/commvault_has_a_ctrlz_for/))
+- ® Microsoft's massive Patch Tuesday: It's raining bugs ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/microsofts_massive_patch_tuesday/))
+- ® You can finally control serial devices from Firefox ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/firefox_nightly_web_serial/))
+- £ Reeves hits out at Iran war ‘folly’ ([15 hours ago](https://www.ft.com/content/5aac2394-3720-4723-b75a-4db51804b2d1))
+- ♣ The Daily Hilario: Tuesday ([1 days ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167792/the-daily-hilario-april-13th))
+- ♣ Chelsea 0-3 Manchester City, Premier League: Not much credit to go around ([1 days ago](https://weaintgotnohistory.sbnation.com/premier-league/167805/chelsea-0-3-manchester-city-premier-league-not-much-credit-to-go-around))
 
 <!-- news_marker ends -->
 
@@ -120,7 +106,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > balladmonger - noun: 1. A seller or composer of ballads. 2. An inferior poet.
+ > paregoric - noun: Something that soothes.
 
 <!-- word_marker ends -->
 
@@ -128,34 +114,34 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> It is not failing fast, but learning early  - Anon
+> UO quite simply stands for 'User Outcomes', and when I use it, it very simply means does the user get the right answer - Martin Lewis
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Balance the consistency principle with the inconsistency principle
+> Don't be frightened to display your talents
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Hide And Seek (Rated: 7)
-- Released in 2005
-- Summary: As a widower tries to piece together his life in the wake of his wife's suicide, his daughter finds solace, at first, in her imaginary friend.
+- The Clinic (Rated: 10)
+- Released in 2010
+- Summary: While traveling across country with her fiancé, Beth wakes alone in an isolated clinic to find her unborn baby has been removed. Just how far will she go to get her child back?
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 <!-- game_marker starts -->
 
-- Target: 820, using [3, 5, 7, 10, 25, 75]
-- Answer: 38 solutions.
+- Target: 350, using [2, 4, 9, 10, 25, 75]
+- Answer: 85 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 25 + 3 - 10 - 7 ) x 75 - 5
+  Solution: ( 10 x 2 + 75 - 25 ) x ( 9 - 4 )
 
    </details>
 
@@ -163,9 +149,9 @@ _Good Morning, Here is your daily briefing..._
 
 ### 5 Random Blogroll Links
 <!-- blogroll_marker starts -->
-- Pluralistic by Cory Doctorow [URL](https://pluralistic.net/) [Feed](https://pluralistic.net/feed/)
-- Robb Knight [URL](https://rknight.me/) [Feed](https://rknight.me/feed.xml)
-- Castro [URL](https://castro.fm/) [Feed](https://castro.fm/feed.rss)
-- Information is Beautiful [URL](https://informationisbeautiful.net/) [Feed](http://feeds.feedburner.com/InformationIsBeautiful)
-- Marco Arment [URL](https://marco.org/) [Feed](http://www.marco.org/rss)
+- A11y Weekly [URL](https://a11yweekly.com/) [Feed](https://a11yweekly.com/feed/)
+- David Cramer [URL](https://cra.mr/) [Feed](https://cra.mr/rss.xml)
+- Ricky Mondello [URL](https://rmondello.com/) [Feed](https://rmondello.com/feed/)
+- Johnny Reilly [URL](https://johnnyreilly.com/) [Feed](https://blog.johnnyreilly.com/rss.xml)
+- Temper Temper [URL](https://www.tempertemper.net/) [Feed](https://www.tempertemper.net/feeds/main.json)
 <!-- blogroll_marker ends -->
