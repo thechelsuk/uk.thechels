@@ -6,7 +6,7 @@ seo: Projects
 
 ---
 
-## [Cheltenham Open Data](https://cod.thechels.uk) ⇗ 
+## [Cheltenham Open Data](https://cod.thechels.uk) ⇗
 
 - A GitHub project to collect and disseminate public open data from a variety of sources, created during the covid pandemic and lockdown 2020. The project pulls together terrorism ratings, food-bank data, flood warnings and covid data (now archived). The page now includes helpful phone numbers, consolidated local news and more being added as it becomes available. The main requirement was to just republish existing data as RSS feeds (xml) as it continues to be an undervalued publishing format.
 
@@ -24,14 +24,16 @@ seo: Projects
 
 ## [Tools](https://tools.thechels.uk) ⇗
 
-- A digital playground or smorgasbord of ad-hoc and occasional tooling, including converting file types, charting, and string manipulations such as Monte Carlo sumulations, local weather report, url slug generation and rolling average calculator.
+- A digital playground or smorgasbord of ad-hoc and occasional tooling, including converting file types, charting, and string manipulations such as Monte Carlo simulations, local weather report, url slug generation and rolling average calculator.
 
 ## [NetNewsWire Themes](/nnw-themes) ⇗
 
-- A small collection of themes for my favourite RSS reader app, NetNewsWire. Users can download zips or install directly from Apple devices that havs NNW installed.
-
+- A small collection of themes for my favourite RSS reader app, NetNewsWire. Users can download zips or install directly from Apple devices that have NNW installed.
 
 ## [Search Router](https://search.thechels.uk) ⇗
 
-- A default search engine browser homepage that uses !bangs and shortcodes to route a query to a search engine, or a websties search result page e.g `!amz pepsi max` will show results on amazon uk for my go to drink. The app is a simple vanilla HTML, CSS, and JavaScript using AI for the design/layout.
-  
+- A default search engine browser homepage that uses !bangs and shortcodes to route a query to a search engine, or a websites search result page e.g `!amz pepsi max` will show results on amazon uk for my go to drink. The app is a simple vanilla HTML, CSS, and JavaScript using AI for the design/layout.
+
+## [Nuchronic.uk](https://nuchronic.uk) ⇗
+
+- _The_ webring for the chronically ill on the indie web. A dark-mode hacker news style site that aggregates content from a variety of sources, including blogs, podcasts, and YouTube channels, all focused on the blogs and lives of people with chronic illness. The site is built using HTML, CSS, Jekyll and hosted on GitHub Pages, naturally. Utilising Python and GitHub Actions for the compute.
