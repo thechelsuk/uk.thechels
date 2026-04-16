@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-04-15
+date: 2026-04-16
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,14 +11,14 @@ date: 2026-04-15
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Wednesday, 15 April 2026
+## On Thursday, 16 April 2026
 
-- The average temperature today is 14.6˚C,
-- With highs of 14.6˚C and lows of 14.6˚C,
-- It may feel like 14.36˚C with overcast clouds
-- The wind speed is 7.75m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 86%
-- The sun will rise at 05:11 and set at 19:04
+- The average temperature today is 12.8˚C,
+- With highs of 12.8˚C and lows of 12.8˚C,
+- It may feel like 12.25˚C with broken clouds
+- The wind speed is 6.5m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 81%
+- The sun will rise at 05:09 and set at 19:06
 
 <!-- weather_marker ends -->
 
@@ -26,7 +26,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 771 days since the last change (2024-03-05)
+- It has been 772 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -39,66 +39,68 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Be open to change.
+> Inspire others
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- AFC Wimbledon v Stockport County
-- Arsenal v Sporting CP
+- Bromley v Cambridge United
+- Fiorentina v Crystal Palace
+- Aston Villa v Bologna
+- Nottingham Forest v FC Porto
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 127.45999908447266 
-- ^FTSE : 10615.9697265625 
-- ^FTMC : 22767.9609375 
+- VWRL.L : 128.32000732421875 
+- ^FTSE : 10578.75 
+- ^FTMC : 22790.400390625 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> What are two landmasses favourite game? -  Bridge.
+> I once had a work placement at an eye wear manufacturer, I gained good insight into the industry.
 <!-- jokes_marker ends -->
 
 ### Top News
 <!-- news_marker starts -->
-- ® Waymo's self-driving cars face their toughest test yet: London ([1 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/15/waymo_london/))
-- € Berlin conference seeks urgent aid as Sudan war fuels mass poverty ([1 minutes ago](http://www.euronews.com/2026/04/15/berlin-conference-seeks-urgent-aid-as-sudan-war-fuels-mass-poverty))
-- € New video shows moment Orion capsule hatch opens after splashdown ([2 minutes ago](http://www.euronews.com/video/2026/04/15/new-video-shows-moment-orion-capsule-hatch-opens-after-splashdown))
-- € AI expansion drives up profits for Dutch semiconductor giant ASML ([6 minutes ago](http://www.euronews.com/business/2026/04/15/ai-expansion-drives-up-profits-for-dutch-semiconductor-giant-asml))
-- € Viral post comparing Portugal's Hormuz conquest to US Iran operation mixes facts with exaggeration ([16 minutes ago](http://www.euronews.com/2026/04/15/viral-post-comparing-portugals-hormuz-conquest-to-us-iran-operation-mixes-facts-with-exagg))
-- € Drone warfare: Europe’s new security threat ([35 minutes ago](http://www.euronews.com/my-europe/2026/04/15/drone-warfare-europes-new-security-threat))
-- ® Agents hooked into GitHub can steal creds – but Anthropic, Google, and Microsoft haven't warned users ([45 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/15/claude_gemini_copilot_agents_hijacked/))
-- € Pakistan hosts thousands of Sikh pilgrims for 2026 baisakhi rites ([45 minutes ago](http://www.euronews.com/video/2026/04/15/pakistan-hosts-thousands-of-sikh-pilgrims-for-2026-baisakhi-rites))
-- € Oil prices fall as renewed hopes for peace talks feed a stock market rally ([59 minutes ago](http://www.euronews.com/business/2026/04/15/oil-prices-fall-as-renewed-hopes-for-peace-talks-feed-a-stock-market-rally))
-- € Trump accuses Italy’s Meloni of not having 'courage' to back Iran war ([1 hours ago](http://www.euronews.com/my-europe/2026/04/15/trump-accuses-italys-meloni-of-not-having-courage-to-back-iran-war))
-- € Kanye West postpones French concert a week after UK ban ([1 hours ago](http://www.euronews.com/culture/2026/04/15/kanye-west-postpones-french-concert-a-week-after-uk-ban))
-- ® Orbital datacenter startup CEO admits launch economics don't fly, presses ahead regardless ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/15/orbital_space_datacenter_startup_economics/))
-- ® The only technology that died more times than VR is AI, and that seems to have worked out ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/15/hardware_metaverse_will_happen/))
-- € Peru election dispute deepens amid slow ballot count ([1 hours ago](http://www.euronews.com/video/2026/04/15/peru-election-dispute-deepens-amid-slow-ballot-count))
-- ® Boeing deliveries soar past Airbus for the first time in years, but this is no time to unbuckle your seat belt ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/15/boeing_airbus_deliveries/))
-- £ Trump’s push to cut US rates akin to ‘banana republic’, says Yellen ([4 hours ago](https://www.ft.com/content/fcc0e47b-589b-49da-992c-f309a4783e23))
-- £ Iran faces halt to oil production within weeks if US blockade succeeds ([4 hours ago](https://www.ft.com/content/dec9c510-9dd8-434b-abe8-5f9ecbb41e55))
-- £ Starmer plans May relaunch with King’s Speech ([4 hours ago](https://www.ft.com/content/2c50b596-5383-444d-8436-f9e88aaf308a))
-- £ Iran used Chinese spy satellite to target US bases ([4 hours ago](https://www.ft.com/content/1fddd2cd-1294-4e9c-a17d-5ea06b399355))
-- £ The mix of chaotic politics and a resilient economy can’t last ([4 hours ago](https://www.ft.com/content/32a16d56-41c6-4d13-bbc4-7ea908b6ceae))
-- £ ‘Bifs’ replace ‘Piigs’ as Europe’s bond market whipping boys ([4 hours ago](https://www.ft.com/content/d2d32518-1622-4c45-9ada-569b67c8e4b6))
-- £ Should Europe repel Chinese investment? ([4 hours ago](https://www.ft.com/content/873ac1ea-8924-4600-b67d-0c078b917b55))
-- £ Private healthcare in the UK: helping or harming the NHS? ([4 hours ago](https://www.ft.com/content/cc443c43-f7c4-4545-87ad-5ddd4d91bd00))
-- ® AI-powered mainframe exits are a bubble set to pop ([5 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/15/gartner_mainframe_exit_analysis/))
-- £ US military says blockade of Iranian ports is ‘fully implemented’ ([8 hours ago](https://www.ft.com/content/40218940-4f0f-4aee-9209-2fb713eea736))
-- ® Claude Code routines promise mildly clever cron jobs ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/claude_code_routines/))
-- ® Commvault has a Ctrl+Z for rogue AI agents ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/commvault_has_a_ctrlz_for/))
-- ® Microsoft's massive Patch Tuesday: It's raining bugs ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/microsofts_massive_patch_tuesday/))
-- ® You can finally control serial devices from Firefox ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/14/firefox_nightly_web_serial/))
-- £ Reeves hits out at Iran war ‘folly’ ([15 hours ago](https://www.ft.com/content/5aac2394-3720-4723-b75a-4db51804b2d1))
-- ♣ The Daily Hilario: Tuesday ([1 days ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167792/the-daily-hilario-april-13th))
-- ♣ Chelsea 0-3 Manchester City, Premier League: Not much credit to go around ([1 days ago](https://weaintgotnohistory.sbnation.com/premier-league/167805/chelsea-0-3-manchester-city-premier-league-not-much-credit-to-go-around))
+- £ Ceasefire with Israel expected ‘soon’, say Lebanese officials ([9 minutes ago](https://www.ft.com/content/6d977b3a-1349-4d27-9d8b-ede7faabcb81))
+- € Flights disrupted by Iran war? Here are Europe's easiest countries to navigate by train this summer ([15 minutes ago](http://www.euronews.com/my-europe/2026/04/16/flights-disrupted-by-iran-war-here-are-europes-easiest-countries-to-navigate-by-train-this))
+- ® Cops hand Motorola £25M no-bid deal to keep 2000-era radios alive ([16 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/16/motorola_airwave/))
+- € Wave of departures at Grasset: 115 authors leave publishing house after ousting of CEO ([21 minutes ago](http://www.euronews.com/culture/2026/04/16/wave-of-departures-at-grasset-115-authors-leave-publishing-house-after-ousting-of-ceo))
+- € Canada's Mark Carney, Finland's Alexander Stubb play hockey during official visit ([27 minutes ago](http://www.euronews.com/video/2026/04/16/canadas-mark-carney-finlands-alexander-stubb-play-hockey))
+- ® Server-room lock was nothing but a crock ([46 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/16/pwned_server_room_lock_lol/))
+- ® QUIC will soon be as important as TCP – but it's vastly different ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/16/quic_explained/))
+- € Pope Leo XIV visits Cameroon as Biya faces unrest and separatist war ([1 hours ago](http://www.euronews.com/video/2026/04/16/pope-leo-xiv-visits-cameroon-as-biya-faces-unrest-and-separatist-war))
+- € New discovery solves mystery of the location of Shakespeare's London house ([1 hours ago](http://www.euronews.com/culture/2026/04/16/new-discovery-solves-mystery-of-the-location-of-shakespeares-london-house))
+- £ UK economy beat expectations to grow by 0.5% in February ([1 hours ago](https://www.ft.com/content/06ba79d2-8e7b-45fa-bc3d-4602c4520fe5))
+- € Australia: Refinery fire raises fuel supply concerns amid Iran war ([1 hours ago](http://www.euronews.com/video/2026/04/16/australia-refinery-fire-raises-fuel-supply-concerns-amid-iran-war))
+- € Ukraine: Deadly Russian strikes on Kyiv, Odesa and Dnipro leave 12 dead ([2 hours ago](http://www.euronews.com/video/2026/04/16/ukraine-deadly-russian-strikes-on-kyiv-odesa-and-dnipro-leave-12-dead))
+- € Drone tech evolves every 3-6 months, leaving Europe buying outpaced systems ([2 hours ago](http://www.euronews.com/my-europe/2026/04/16/drone-tech-evolves-every-3-6-months-leaving-europe-buying-outpaced-systems))
+- € Europe Today: Hungarian PM-elect vows rapid transition, targets state-controlled media ([2 hours ago](http://www.euronews.com/my-europe/2026/04/16/europe-today-hungarian-pm-elect-vows-rapid-transition-targets-state-controlled-media))
+- € Iran war sparks EU proposal to reduce tax on electricity and encourage green transition ([3 hours ago](http://www.euronews.com/2026/04/16/iran-war-sparks-eu-proposal-to-reduce-tax-on-electricity-and-encourage-green-transition))
+- ® Bullet train upgrade brings 5G windows and noise-cancelling cabins to Japan ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/16/jr_central_shinkansen_tech/))
+- £ Nato in ‘turf war’ with EU over defence spending ([4 hours ago](https://www.ft.com/content/00ea4f9b-65f1-4080-b526-9783fa8a4f83))
+- £ Deterrence costs and we will all have to pay ([4 hours ago](https://www.ft.com/content/bfea33f7-a736-4a4c-94b2-5a5eb56b7163))
+- £ Gulf states turn to private deals in $10bn wartime borrowing spree ([4 hours ago](https://www.ft.com/content/3b927d8b-4c6b-414a-bb85-3d6070495df7))
+- £ How the Strait of Hormuz will change Iran’s regime ([4 hours ago](https://www.ft.com/content/f3c8decc-0c59-49fa-9854-ddd9103279f4))
+- £ The pope versus the president: how Leo became Trump’s fearless foe ([4 hours ago](https://www.ft.com/content/4f67aa87-9210-402d-bfef-b71b294d65cb))
+- £ The NHS should keep Palantir for patients’ sake ([4 hours ago](https://www.ft.com/content/4ceee73c-b816-490c-a2ca-fc3896f5f51b))
+- £ Pensions drawdown: can the 4 Per Cent Rule survive stagflation? ([4 hours ago](https://www.ft.com/content/d6a0aaca-949c-420d-9431-ec9c170e6a05))
+- £ British investor builds $500mn stake in TikTok owner ([4 hours ago](https://www.ft.com/content/b4b172fa-47a7-464e-92f0-73f3c7d055b7))
+- ® Indian government investigating TCS after police sting finds sexual harassment ([7 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/16/tcs_india_harassment_allegations/))
+- ® Google Chrome lacks protection against one of the most basic and common ways to track users online ([8 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/16/google_chrome_lacks_browser_fingerprinting/))
+- ® Anthropic's Project Glasswing CVE tally is still anyone's guess ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/15/project_glasswing_cves/))
+- ® Don't let the bot play doctor! AI gets early diagnoses wrong 80% of the time ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/15/ai_gets_early_medical_diagnosis/))
+- ® Customers revolt as GitHub Copilot 'fixes' rate limits ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/15/github_copilot_rate_limiting_bug/))
+- ® Shoe company says it's getting into AI infrastructure and yes this is the top ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/15/allbirds_ai_longislandicedtea_blockchain_lolol/))
+- ♣ Chelsea U21 enter PL2 playoffs as top-seeded regular season champions ([1 days ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-youth-and-reserves/167822/chelsea-u21-enter-pl2-playoffs-as-top-seeded-regular-season-champions))
+- ♣ The Daily Hilario: Wednesday ([1 days ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167819/the-daily-hilario-april-15th))
 
 <!-- news_marker ends -->
 
@@ -106,7 +108,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > paregoric - noun: Something that soothes.
+ > jocund - adjective: Cheerful; lively.
 
 <!-- word_marker ends -->
 
@@ -114,34 +116,34 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> UO quite simply stands for 'User Outcomes', and when I use it, it very simply means does the user get the right answer - Martin Lewis
+> The thing is, Bob, it is not that I am lazy, it is that I just do not care. - Ron Livingston, as Peter Gibbons in Office Space
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Don't be frightened to display your talents
+> Use filters
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Clinic (Rated: 10)
-- Released in 2010
-- Summary: While traveling across country with her fiancé, Beth wakes alone in an isolated clinic to find her unborn baby has been removed. Just how far will she go to get her child back?
+- Seventh Son (Rated: 3)
+- Released in 2014
+- Summary: When Mother Malkin, the queen of evil witches, escapes the pit she was imprisoned in by professional monster hunter Spook decades ago and kills his apprentice, he recruits young Tom, the seventh son of the seventh son, to help him.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 <!-- game_marker starts -->
 
-- Target: 350, using [2, 4, 9, 10, 25, 75]
-- Answer: 85 solutions.
+- Target: 808, using [1, 5, 9, 25, 75, 100]
+- Answer: 4 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 10 x 2 + 75 - 25 ) x ( 9 - 4 )
+  Solution: ( 9 - 1 ) x 100 + 75 / 25 + 5
 
    </details>
 
@@ -149,9 +151,9 @@ _Good Morning, Here is your daily briefing..._
 
 ### 5 Random Blogroll Links
 <!-- blogroll_marker starts -->
-- A11y Weekly [URL](https://a11yweekly.com/) [Feed](https://a11yweekly.com/feed/)
-- David Cramer [URL](https://cra.mr/) [Feed](https://cra.mr/rss.xml)
-- Ricky Mondello [URL](https://rmondello.com/) [Feed](https://rmondello.com/feed/)
-- Johnny Reilly [URL](https://johnnyreilly.com/) [Feed](https://blog.johnnyreilly.com/rss.xml)
-- Temper Temper [URL](https://www.tempertemper.net/) [Feed](https://www.tempertemper.net/feeds/main.json)
+- Rosemary Orchard [URL](https://rosemaryorchard.com/) [Feed](https://rosemaryorchard.com/category/blog/feed)
+- Cory Dransfeldt [URL](https://www.coryd.dev/feeds/all.xml) [Feed](https://www.coryd.dev/feeds/all.xml)
+- One Thing Well [URL](https://onethingwell.org/) [Feed](http://onethingwell.org/rss)
+- MacStories [URL](https://www.macstories.net/) [Feed](https://www.macstories.net/feed/)
+- Scott Hanselman [URL](https://www.hanselman.com/blog/) [Feed](http://feeds.hanselman.com/ScottHanselman)
 <!-- blogroll_marker ends -->
