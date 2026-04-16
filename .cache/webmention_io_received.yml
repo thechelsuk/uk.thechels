@@ -1005,7 +1005,34 @@
 "/spotted-green-in-the-wild": {}
 "/til-2046": {}
 "/pompidou-section-2-ways-and-means": {}
-"/til-centipede-game-theory": {}
+"/til-centipede-game-theory":
+  '1988938':
+    id: '1988938'
+    uri: https://mastodon.social/@Thechelsuk/116366949855069297#favorited-by-110635833467728192
+    source: false
+    pubdate: 2026-04-08 14:43:28.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@thechelsuk@mastodon.social/116366949855069297/110635833467728192
+      verified: true
+      verified_date: '2026-04-08T14:43:28+00:00'
+      id: 1988938
+      private: false
+      data:
+        author: &4
+          name: James
+          url: https://mastodon.social/@nonzerosumjames
+          photo: https://avatars.webmention.io/files.mastodon.social/6e8596b5d519c03e0aa77f833ed8fda3c20964599edd5ea406810f0868dcd233.png
+        url: https://mastodon.social/@Thechelsuk/116366949855069297#favorited-by-110635833467728192
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://thechels.uk/til-centipede-game-theory
+    author: *4
+    type: like
+    content: ''
 "/til-the-xy-problem": {}
 "/google-search-commands-and-operators": {}
 "/ollama-cli-quick-ref": {}
