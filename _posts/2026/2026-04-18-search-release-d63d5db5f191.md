@@ -11,4 +11,4 @@ release_project: search
 release_version: 1.0.0
 ---
 
-No release notes were included for this release.
+First release of the search router.
