@@ -54,13 +54,19 @@ def load_release_feeds(file_path: pathlib.Path) -> list[dict[str, str]]:
 
     data = yaml.safe_load(raw)
     if not isinstance(data, list):
-        raise ValueError("Release feeds file must contain a list of entries with id and url keys")
+        raise ValueError(
+            "Release feeds file must contain a list of entries with id and url keys"
+        )
 
     result = []
     for item in data:
         if not isinstance(item, dict) or "id" not in item or "url" not in item:
-            raise ValueError(f"Each entry must have 'id' and 'url' keys, got: {item!r}")
-        result.append({"id": str(item["id"]).strip(), "url": str(item["url"]).strip()})
+            raise ValueError(
+                f"Each entry must have 'id' and 'url' keys, got: {item!r}")
+        result.append({
+            "id": str(item["id"]).strip(),
+            "url": str(item["url"]).strip()
+        })
     return result
 
 
@@ -155,7 +161,8 @@ def parse_release_datetime(entry: Any) -> datetime:
     return helper.parse_published(value)
 
 
-def build_release_record(feed_url: str, entry: Any, project_id: str) -> ReleaseRecord:
+def build_release_record(feed_url: str, entry: Any,
+                         project_id: str) -> ReleaseRecord:
     repo_name = extract_repo_name(feed_url)
     project_key = derive_project_key(project_id)
     project_label = project_id
