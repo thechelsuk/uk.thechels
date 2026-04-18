@@ -16,3 +16,4 @@ lxml_html_clean==0.4.4
 yfinance
 pillow
 ruamel.yaml
+markdownify

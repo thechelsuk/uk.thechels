@@ -26,8 +26,8 @@ jobs:
 
       - name: Commit updated webmention cache
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
           git add .cache/
           git diff --staged --quiet || git commit -m "chore: Refresh webmention cache [skip ci]"
           git push
