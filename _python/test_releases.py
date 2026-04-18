@@ -31,24 +31,26 @@ def test_extract_repo_name_from_feed_url():
     ) == "uk.thechels.search"
 
 
-def test_derive_project_key_and_label():
-    assert releases.derive_project_key("uk.thechels.search") == "search"
-    assert releases.derive_project_label("search") == "Search"
-    assert releases.derive_project_key("com.uk.thechels.mltply") == "mltply"
-    assert releases.derive_project_label("mltply") == "Mltply"
+def test_derive_project_key():
+    assert releases.derive_project_key("Search Router") == "search-router"
+    assert releases.derive_project_key("Mltply") == "mltply"
+    assert releases.derive_project_key("Cheltenham Open Data") == "cheltenham-open-data"
+    assert releases.derive_project_key("Boinc @ thechelsuk") == "boinc-thechelsuk"
 
 
-def test_load_release_feeds_accepts_plain_line_format(tmp_path):
+def test_load_release_feeds_parses_id_and_url(tmp_path):
     feeds_file = tmp_path / "releases.yml"
     feeds_file.write_text(
-        "https://github.com/thechelsuk/uk.thechels.search/releases.atom\n"
-        "https://github.com/thechelsuk/uk.nuchronic/releases.atom\n",
+        "- id: Search Router\n"
+        "  url: https://github.com/thechelsuk/uk.thechels.search/releases.atom\n"
+        "- id: Nuchronic.uk\n"
+        "  url: https://github.com/thechelsuk/uk.nuchronic/releases.atom\n",
         encoding="utf-8",
     )
 
     assert releases.load_release_feeds(feeds_file) == [
-        "https://github.com/thechelsuk/uk.thechels.search/releases.atom",
-        "https://github.com/thechelsuk/uk.nuchronic/releases.atom",
+        {"id": "Search Router", "url": "https://github.com/thechelsuk/uk.thechels.search/releases.atom"},
+        {"id": "Nuchronic.uk", "url": "https://github.com/thechelsuk/uk.nuchronic/releases.atom"},
     ]
 
 
@@ -101,10 +103,11 @@ def test_build_release_record_uses_updated_timestamp_when_published_missing():
     release = releases.build_release_record(
         "https://github.com/thechelsuk/uk.thechels.search/releases.atom",
         make_entry(published=""),
+        "Search Router",
     )
-    assert release.project_key == "search"
-    assert release.project_label == "Search"
-    assert release.title == "Search Version 1.0.0"
+    assert release.project_key == "search-router"
+    assert release.project_label == "Search Router"
+    assert release.title == "Search Router Version 1.0.0"
     assert release.published == datetime(2026,
                                          4,
                                          18,
@@ -166,7 +169,8 @@ def test_process_releases_creates_new_posts_then_skips_duplicates(
         tmp_path, monkeypatch):
     feeds_file = tmp_path / "releases.yml"
     feeds_file.write_text(
-        "- https://github.com/thechelsuk/uk.thechels.search/releases.atom\n",
+        "- id: Search Router\n"
+        "  url: https://github.com/thechelsuk/uk.thechels.search/releases.atom\n",
         encoding="utf-8",
     )
 
@@ -190,9 +194,9 @@ def test_process_releases_creates_new_posts_then_skips_duplicates(
 
     generated_files = list((tmp_path / "_posts").rglob("*.md"))
     assert len(generated_files) == 1
-    assert generated_files[0].name.startswith("2026-04-18-search-release-")
+    assert generated_files[0].name.startswith("2026-04-18-search-router-release-")
     content = generated_files[0].read_text(encoding="utf-8")
-    assert "title: Search Version 1.0.0" in content
+    assert "title: Search Router Version 1.0.0" in content
     assert "cited: github" in content
     assert "## What's Changed" in content
     assert "<h2>" not in content

@@ -47,22 +47,21 @@ class ReleaseRecord:
         return f"{self.project_label} Version {self.version}"
 
 
-def load_release_feeds(file_path: pathlib.Path) -> list[str]:
+def load_release_feeds(file_path: pathlib.Path) -> list[dict[str, str]]:
     raw = file_path.read_text(encoding="utf-8")
     if not raw.strip():
         return []
 
     data = yaml.safe_load(raw)
-    if isinstance(data, list) and all(isinstance(item, str) for item in data):
-        return [item.strip() for item in data if item.strip()]
+    if not isinstance(data, list):
+        raise ValueError("Release feeds file must contain a list of entries with id and url keys")
 
-    if isinstance(data, str):
-        return [
-            line.strip() for line in raw.splitlines()
-            if line.strip() and not line.strip().startswith("#")
-        ]
-
-    raise ValueError("Release feeds file must contain one feed URL per line")
+    result = []
+    for item in data:
+        if not isinstance(item, dict) or "id" not in item or "url" not in item:
+            raise ValueError(f"Each entry must have 'id' and 'url' keys, got: {item!r}")
+        result.append({"id": str(item["id"]).strip(), "url": str(item["url"]).strip()})
+    return result
 
 
 def extract_repo_name(feed_url: str) -> str:
@@ -73,16 +72,12 @@ def extract_repo_name(feed_url: str) -> str:
     return match.group(1)
 
 
-def derive_project_key(repo_name: str) -> str:
-    project_key = repo_name.split(".")[-1].strip().lower()
-    project_key = re.sub(r"[^a-z0-9-]+", "-", project_key).strip("-")
-    if not project_key:
-        raise ValueError(f"Unable to derive project key from: {repo_name}")
-    return project_key
-
-
-def derive_project_label(project_key: str) -> str:
-    return project_key.replace("-", " ").title()
+def derive_project_key(label: str) -> str:
+    key = label.strip().lower()
+    key = re.sub(r"[^a-z0-9]+", "-", key).strip("-")
+    if not key:
+        raise ValueError(f"Unable to derive project key from: {label}")
+    return key
 
 
 def extract_release_version(entry: Any) -> str:
@@ -160,10 +155,10 @@ def parse_release_datetime(entry: Any) -> datetime:
     return helper.parse_published(value)
 
 
-def build_release_record(feed_url: str, entry: Any) -> ReleaseRecord:
+def build_release_record(feed_url: str, entry: Any, project_id: str) -> ReleaseRecord:
     repo_name = extract_repo_name(feed_url)
-    project_key = derive_project_key(repo_name)
-    project_label = derive_project_label(project_key)
+    project_key = derive_project_key(project_id)
+    project_label = project_id
     link = str(get_entry_value(entry, "link", "") or "").strip()
     version = extract_release_version(entry)
     release_id = str(get_entry_value(entry, "id", "") or link).strip()
@@ -227,14 +222,14 @@ def create_release_post(posts_root: pathlib.Path,
     return True
 
 
-def fetch_feed_releases(feed_url: str) -> list[ReleaseRecord]:
+def fetch_feed_releases(feed_url: str, project_id: str) -> list[ReleaseRecord]:
     feed = feedparser.parse(feed_url)
-    releases = []
+    result = []
     for entry in getattr(feed, "entries", []):
-        releases.append(build_release_record(feed_url, entry))
+        result.append(build_release_record(feed_url, entry, project_id))
 
-    releases.sort(key=lambda item: item.published, reverse=True)
-    return releases
+    result.sort(key=lambda item: item.published, reverse=True)
+    return result
 
 
 def process_releases(
@@ -244,9 +239,11 @@ def process_releases(
     skipped = 0
     failed = 0
 
-    for feed_url in load_release_feeds(feeds_file):
+    for feed_config in load_release_feeds(feeds_file):
+        feed_url = feed_config["url"]
+        project_id = feed_config["id"]
         try:
-            for release in fetch_feed_releases(feed_url):
+            for release in fetch_feed_releases(feed_url, project_id):
                 if create_release_post(posts_root, release):
                     created += 1
                 else:
