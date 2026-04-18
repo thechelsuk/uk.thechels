@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-04-17
+date: 2026-04-18
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,14 +11,14 @@ date: 2026-04-17
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Friday, 17 April 2026
+## On Saturday, 18 April 2026
 
-- The average temperature today is 12.96˚C,
-- With highs of 12.96˚C and lows of 12.96˚C,
-- It may feel like 12.5˚C with overcast clouds
-- The wind speed is 6.62m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 84%
-- The sun will rise at 05:07 and set at 19:07
+- The average temperature today is 10.94˚C,
+- With highs of 10.94˚C and lows of 10.94˚C,
+- It may feel like 10.28˚C with broken clouds
+- The wind speed is 3.79m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 84%
+- The sun will rise at 05:05 and set at 19:09
 
 <!-- weather_marker ends -->
 
@@ -26,82 +26,90 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 773 days since the last change (2024-03-05)
+- It has been 774 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-- No tasks today
+- Water the plants
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Embrace uncertainty.
+> Use appropriate tools.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- England Women U23 v Sweden Women U23
-- Manchester United U18 v Crystal Palace U18
-- Blackburn Rovers v Coventry City
+- Fulham U18 v Chelsea U18
+- Tottenham Hotspur U18 v Brighton & Hove Albion U18
+- Derby County v Oxford United
+- Millwall v QPR
+- Portsmouth v Leicester City
+- Barnsley v Bradford City
+- Bolton Wanderers v Huddersfield Town
+- Barrow AFC v Walsall
+- Swindon Town v Accrington Stanley
+- FC Halifax Town v Southend United
+- Brentford v Fulham
+- Nottingham Forest U18 v Manchester City U18
+- Iceland Women v England Women
+- Braintree Town v Rochdale
+- York City v Yeovil Town
+- Tottenham Hotspur v Brighton & Hove Albion
+- Chelsea v Manchester United
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 128.75 
-- ^FTSE : 10578.849609375 
-- ^FTMC : 22787.310546875 
+- VWRL.L : 130.1999969482422 
+- ^FTSE : 10667.599609375 
+- ^FTMC : 23205.900390625 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> Jobs market is hitting hard, the balloon industry has flattened due to the cost of inflation.
+> I was in a coffee shop the other evening and got chatting to the barista, who said she worked everyday from 5 to 9pm. Her name was Polly Darton.
 <!-- jokes_marker ends -->
 
 ### Top News
 <!-- news_marker starts -->
-- € Escaped wolf “Neukgu” captured after 9-day search in South Korea ([4 minutes ago](http://www.euronews.com/video/2026/04/17/escaped-wolf-neukgu-captured-after-9-day-search-in-south-korea))
-- ® Capita won disastrous UK pensions gig after acing performance checks ([16 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/capita_csps/))
-- £ No scenario in latest Mandelson drama makes Starmer look good ([16 minutes ago](https://www.ft.com/content/9b2d3bb3-b88a-44ff-af6c-ab4702ec03a9))
-- € Listen to Lana Del Rey’s James Bond theme for ‘007: First Light’ video game ([26 minutes ago](http://www.euronews.com/culture/2026/04/17/listen-to-lana-del-reys-james-bond-theme-for-007-first-light-video-game))
-- € Ankara pushes deeper economic ties with Astana ahead of Erdoğan visit ([31 minutes ago](http://www.euronews.com/2026/04/17/ankara-pushes-deeper-economic-ties-with-astana-ahead-of-erdogan-visit))
-- € Instagram, TikTok and Facebook: Which European countries want to ban social media for minors? ([42 minutes ago](http://www.euronews.com/my-europe/2026/04/17/instagram-tiktok-and-facebook-which-european-countries-want-to-ban-social-media-for-minors))
-- € Four years of Gepard in Ukraine: How the vintage German weapon is proving its worth ([42 minutes ago](http://www.euronews.com/my-europe/2026/04/17/four-years-of-gepard-in-ukraine-how-the-german-vintage-weapon-is-proving-its-worth))
-- € Netherlands Keukenhof draws global visitors for spring display ([51 minutes ago](http://www.euronews.com/video/2026/04/17/netherlands-keukenhof-draws-global-visitors-for-spring-display))
-- € Watch: Sunday elections — Bulgaria's fight for stable government? ([59 minutes ago](http://www.euronews.com/my-europe/2026/04/17/watch-sunday-elections-bulgarias-fight-for-stable-government))
-- € Cameroon sees mass turnout for Pope Leo XIV visit as he calls for peace ([1 hours ago](http://www.euronews.com/video/2026/04/17/cameroon-sees-mass-turnout-for-pope-leo-xiv-visit-as-he-calls-for-peace))
-- £ Starmer battles calls to resign over Mandelson vetting ([1 hours ago](https://www.ft.com/content/c49c3c31-1c33-4236-87ab-aefd9bb4c7ee))
-- ® Support tech caught by 'Technician Aura': the bug that only hides when you're watching ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/on_call/))
-- € Lebanon truce takes effect as damaged Qasmiyeh bridge reopens ([1 hours ago](http://www.euronews.com/video/2026/04/17/lebanon-truce-takes-effect-as-damaged-qasmiyeh-bridge-reopens))
-- € Europe-led coalition prepares mission to reopen Strait of Hormuz ([1 hours ago](http://www.euronews.com/my-europe/2026/04/17/europe-led-coalition-prepares-mission-to-reopen-strait-of-hormuz))
-- ® Claude Opus wrote a Chrome exploit for $2,283 ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/claude_opus_wrote_chrome_exploit/))
-- ® IOWN Global Forum targets datacenter interconnects to scatter AI infrastructure ([2 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/iown_use_cases/))
-- ♣ How should Chelsea line up against Manchester United to break out of this losing streak? ([2 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/167865/how-should-chelsea-line-up-against-manchester-united-to-break-out-of-this-losing-streak))
-- ® Cisco Wi-Fi boxes are filling their disks with 5MB of undeletable data every day ([4 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/cisco_wifi_ap_useless_data/))
-- £ Latest AI models could threaten world banking system, financial officials warn ([4 hours ago](https://www.ft.com/content/5760b56a-ec83-46da-a301-4b0e8c73c238))
-- £ Wall Street banks start trading derivatives to bet on pain in private credit ([4 hours ago](https://www.ft.com/content/54076a09-7a66-44f3-8e70-343f6d601e50))
-- £ OnlyFans tops $3bn valuation in stake sale after death of owner ([4 hours ago](https://www.ft.com/content/e06cdb42-6967-4e7c-b6d5-9516883c73bc))
-- £ Welcome to the age of hoarding ([4 hours ago](https://www.ft.com/content/046315f2-d178-41f2-81e7-75fa2d842ada))
-- £ Macron and Starmer to hold summit on plan to secure Strait of Hormuz ([4 hours ago](https://www.ft.com/content/a348e5e0-c9d3-424c-b8a9-7903fa817b7d))
-- £ Data centre delays threaten to choke AI expansion ([4 hours ago](https://www.ft.com/content/f2bae708-f5c3-49b0-99c0-e4a11552427b))
-- £ The white-collar defence lawyers with nothing to do ([4 hours ago](https://www.ft.com/content/befa71e1-fcf1-4c02-9662-a572543ddcbf))
-- ♣ Levi Colwill set for rehab start with Chelsea U21 ([5 hours ago](https://weaintgotnohistory.sbnation.com/injury-news/167861/levi-colwill-set-for-rehab-start-with-chelsea-u21))
-- £ Trump says Iran war ‘should be ending pretty soon’ as Lebanon ceasefire begins ([5 hours ago](https://www.ft.com/content/cdb6aaee-3cec-4456-8106-5c9279d02392))
-- ® IPv6 carried half of internet traffic – for one day, according to Google ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/ipv6_50_percent_google/))
-- ® Anthropic won't own MCP 'design flaw' putting 200K servers at risk, researchers say ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/16/anthropic_mcp_design_flaw/))
-- ® Mozilla throws Thunderbolt at enterprise AI providers ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/16/mozilla_thunderbolt_enterprise_ai_client/))
-- ® NodeWeaver says its perpetual licensing beats VMware’s perpetual price hikes ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/16/nodeweaver_vs_vmware_at_edge/))
-- ® Anthropic squeezes enterprises by ejecting bundled tokens from seat deal ([12 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/16/anthropic_ejects_bundled_tokens_enterprise/))
-- ♣ How much trouble are Chelsea in after posting record losses? ([1 days ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-finances/167848/how-much-trouble-are-chelsea-in-after-posting-record-losses))
-- ♣ The Daily Hilario: Thursday ([1 days ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167836/the-daily-hilario-april-16th))
+- ® Atlassian’s new data collection policy protects rich customers while AI eats the rest ([53 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/18/atlassians_new_data_collection_policy/))
+- ♣ The Daily Hilario: Saturday ([1 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167880/the-daily-hilario-april-18th))
+- £ Why higher pay hasn’t made young adults feel richer ([4 hours ago](https://www.ft.com/content/b61f60a3-d4d7-46d9-aa6f-dd78dffe71f5))
+- £ Boom in UK ‘staycations’ as war puts holidaymakers off overseas travel ([4 hours ago](https://www.ft.com/content/bb3a8410-bc2b-4f62-86c1-0fefc181f164))
+- £ The return of Londonophobia ([4 hours ago](https://www.ft.com/content/ba3b3ed8-4f6f-486e-aa8c-fbec8a87ffd6))
+- £ The coming global food crisis ([4 hours ago](https://www.ft.com/content/36343e24-b06f-434d-a7e5-6046e7bcf3df))
+- £ Airbnb adds hotels to its platform in bid to boost growth ([4 hours ago](https://www.ft.com/content/d0dff36f-fa29-4a88-93d0-e7be0a58eba9))
+- £ Turkey promotes ‘Middle Corridor’ as Strait of Hormuz alternative ([4 hours ago](https://www.ft.com/content/a1ea2038-b4d7-4d94-bd02-bfb65d730f45))
+- ® Intel eases reliance on TSMC with 'Merica-made Core Series 3 processors ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/intel_eases_reliance_on_tsmc/))
+- £ Oil falls as US and Iran declare Strait of Hormuz open to shipping ([11 hours ago](https://www.ft.com/content/bb35fb5a-0df2-427c-8da0-5b55a0cdd97e))
+- ♣ Cole Palmer reiterates commitment to Chelsea, belief in better days ahead ([11 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc/167891/cole-palmer-reiterates-commitment-to-chelsea-belief-in-better-days-ahead))
+- ® Anthropic mocks up Claude Design to draft fancy new pink slips for marketing teams ([11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/anthropic_debuts_claude_design/))
+- ♣ Chelsea vs. Manchester United, Premier League: Preview, team news, how to watch ([11 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/167883/chelsea-vs-manchester-united-premier-league-preview-team-news-how-to-watch))
+- £ Allies of Olly Robbins defend handling of Mandelson vetting ([12 hours ago](https://www.ft.com/content/58c01bc9-12bf-440c-9a91-01c130a6a9c1))
+- £ Lutnick tells Canada ‘they suck’ and vows to wind back trade deal with US ([12 hours ago](https://www.ft.com/content/22f2f356-ffa7-478f-858c-8a2640ca3bf9))
+- ® CISA tells feds to patch 13-year-old Apache ActiveMQ bug under active attack ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/cisa_tells_feds_to_patch/))
+- £ The Starmer-shaped hole where a prime minister should be ([15 hours ago](https://www.ft.com/content/03a609b7-7a87-4e8a-8970-626a176c35c1))
+- ♣ Official: Moisés Caicedo signs new Chelsea contract ([15 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc/167875/official-moises-caicedo-signs-new-chelsea-contract))
+- ® Opsec oopsie: Dutch navy frigate location outed by mailing it a Bluetooth tracker ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/dutch_navy_frigate_tracked/))
+- ® Users complain that UK Azure is having capacity problems ([17 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/users_complain_of_uk_azure/))
+- ® Microsoft closes book on rogue Windows Server 2025 upgrades ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/microsoft_windows_server_2025/))
+- ® NASA gets the ball rolling on its part in Europe's jinxed Mars rover mission ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/nasa_rosalind_franklin/))
+- ® Attention data hoarders: Alexa loses its Plex appeal as voice feature gets canned ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/alexa_loses_its_plex_appeal/))
+- ® Locked-out iPhone user tells The Reg that Apple is scrambling to fix character flaw passcode bug ([22 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/iphone_keyboard_error_fix/))
+- ♣ The Daily Hilario: Friday ([1 days ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167858/the-daily-hilario-april-17th))
+- ♣ How should Chelsea line up against Manchester United to break out of this losing streak? ([1 days ago](https://weaintgotnohistory.sbnation.com/premier-league/167865/how-should-chelsea-line-up-against-manchester-united-to-break-out-of-this-losing-streak))
+- ♣ Levi Colwill set for rehab start with Chelsea U21 ([1 days ago](https://weaintgotnohistory.sbnation.com/injury-news/167861/levi-colwill-set-for-rehab-start-with-chelsea-u21))
 
 <!-- news_marker ends -->
 
@@ -117,34 +125,34 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> ScrumMasters are not just an additional expense; they create high-performing teams. - Zuzana Sochova
+> Although self-organizing is a good term, it has, unfortunately, become confused with anarchy. - Jim Highsmith, Agile Author
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Go slowly all the way round the outside
+> Mute and continue
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Dilemma (Rated: 6)
-- Released in 2011
-- Summary: A man discovers that his best friend's wife is having an affair.
+- Dark Signal (Rated: 10)
+- Released in 2016
+- Summary: The spirit of a murdered girl returns with a message for the staff of a local radio station.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 <!-- game_marker starts -->
 
-- Target: 311, using [2, 3, 4, 8, 9, 100]
-- Answer: 32 solutions.
+- Target: 560, using [5, 5, 7, 9, 10, 25]
+- Answer: 53 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 9 - 8 / 2 ) x 3 - 4
+  Solution: ( 9 + 5 ) x ( 25 - 10 - 7 ) x 5
 
    </details>
 
@@ -152,9 +160,9 @@ _Good Morning, Here is your daily briefing..._
 
 ### 5 Random Blogroll Links
 <!-- blogroll_marker starts -->
-- Matt Webb [URL](https://interconnected.org/home) [Feed](https://interconnected.org/home/feed)
+- Calum Ryan (bookmarks) [URL](https://www.calumryan.com/bookmarks) [Feed](https://www.calumryan.com/feeds/bookmarks/rss)
+- Scott Helme [URL](https://scotthelme.ghost.io/) [Feed](https://scotthelme.co.uk/rss/)
+- Matthew Cassinelli [URL](https://matthewcassinelli.com/) [Feed](https://matthewcassinelli.com/feed/)
+- Leading Answers [URL](https://www.leadinganswers.com/) [Feed](http://leadinganswers.typepad.com/leading_answers/atom.xml)
 - Luís Gonçalves [URL](https://luis-goncalves.com/) [Feed](https://luis-goncalves.com/blog/feed/)
-- Bryce Wray [URL](https://www.brycewray.com/) [Feed](https://www.brycewray.com/index.xml)
-- Daring Fireball [URL](https://daringfireball.net/) [Feed](http://daringfireball.net/index.xml)
-- Circle CI [URL](https://circleci.com/blog/) [Feed](http://circleci.com/blog/feed.xml)
 <!-- blogroll_marker ends -->
