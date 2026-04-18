@@ -34,8 +34,10 @@ def test_extract_repo_name_from_feed_url():
 def test_derive_project_key():
     assert releases.derive_project_key("Search Router") == "search-router"
     assert releases.derive_project_key("Mltply") == "mltply"
-    assert releases.derive_project_key("Cheltenham Open Data") == "cheltenham-open-data"
-    assert releases.derive_project_key("Boinc @ thechelsuk") == "boinc-thechelsuk"
+    assert releases.derive_project_key(
+        "Cheltenham Open Data") == "cheltenham-open-data"
+    assert releases.derive_project_key(
+        "Boinc @ thechelsuk") == "boinc-thechelsuk"
 
 
 def test_load_release_feeds_parses_id_and_url(tmp_path):
@@ -49,8 +51,15 @@ def test_load_release_feeds_parses_id_and_url(tmp_path):
     )
 
     assert releases.load_release_feeds(feeds_file) == [
-        {"id": "Search Router", "url": "https://github.com/thechelsuk/uk.thechels.search/releases.atom"},
-        {"id": "Nuchronic.uk", "url": "https://github.com/thechelsuk/uk.nuchronic/releases.atom"},
+        {
+            "id": "Search Router",
+            "url":
+            "https://github.com/thechelsuk/uk.thechels.search/releases.atom"
+        },
+        {
+            "id": "Nuchronic.uk",
+            "url": "https://github.com/thechelsuk/uk.nuchronic/releases.atom"
+        },
     ]
 
 
@@ -194,7 +203,8 @@ def test_process_releases_creates_new_posts_then_skips_duplicates(
 
     generated_files = list((tmp_path / "_posts").rglob("*.md"))
     assert len(generated_files) == 1
-    assert generated_files[0].name.startswith("2026-04-18-search-router-release-")
+    assert generated_files[0].name.startswith(
+        "2026-04-18-search-router-release-")
     content = generated_files[0].read_text(encoding="utf-8")
     assert "title: Search Router Version 1.0.0" in content
     assert "cited: github" in content
