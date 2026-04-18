@@ -6,14 +6,20 @@ import releases
 
 def make_entry(**overrides):
     entry = {
-        "id": "tag:github.com,2008:Repository/1210963867/1.0.0",
-        "title": "1.0.0",
-        "link": "https://github.com/thechelsuk/uk.thechels.search/releases/tag/1.0.0",
-        "updated": "2026-04-18T18:10:31Z",
+        "id":
+        "tag:github.com,2008:Repository/1210963867/1.0.0",
+        "title":
+        "1.0.0",
+        "link":
+        "https://github.com/thechelsuk/uk.thechels.search/releases/tag/1.0.0",
+        "updated":
+        "2026-04-18T18:10:31Z",
         "content": [{
-            "value": "<h2>What's Changed</h2><ul><li>Added search improvements</li></ul>"
+            "value":
+            "<h2>What's Changed</h2><ul><li>Added search improvements</li></ul>"
         }],
-        "summary": "Summary text",
+        "summary":
+        "Summary text",
     }
     entry.update(overrides)
     return entry
@@ -69,8 +75,7 @@ def test_html_to_markdown_converts_release_notes_html():
 def test_html_to_markdown_strips_bot_suffixes():
     source = (
         "<ul><li>Bump dependency by <a href=\"https://github.com/dependabot\">@dependabot</a>[bot]"
-        " in <a href=\"https://example.com/pr/2\">#2</a></li></ul>"
-    )
+        " in <a href=\"https://example.com/pr/2\">#2</a></li></ul>")
 
     result = releases.html_to_markdown(source)
     assert "[@dependabot](https://github.com/dependabot)" in result
@@ -116,7 +121,8 @@ def test_render_post_includes_required_front_matter():
         repo_name="uk.thechels.search",
         release_id="tag:github.com,2008:Repository/1210963867/1.0.0",
         version="1.0.0",
-        link="https://github.com/thechelsuk/uk.thechels.search/releases/tag/1.0.0",
+        link=
+        "https://github.com/thechelsuk/uk.thechels.search/releases/tag/1.0.0",
         published=datetime(2026, 4, 18, 18, 10, 31, tzinfo=timezone.utc),
         body="Release notes",
     )
@@ -140,7 +146,8 @@ def test_create_release_post_skips_when_hash_suffix_already_exists(tmp_path):
         repo_name="uk.thechels.search",
         release_id="tag:github.com,2008:Repository/1210963867/1.0.0",
         version="1.0.0",
-        link="https://github.com/thechelsuk/uk.thechels.search/releases/tag/1.0.0",
+        link=
+        "https://github.com/thechelsuk/uk.thechels.search/releases/tag/1.0.0",
         published=datetime(2026, 4, 18, 18, 10, 31, tzinfo=timezone.utc),
         body="Release notes",
     )

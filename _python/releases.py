@@ -155,7 +155,8 @@ def parse_release_datetime(entry: Any) -> datetime:
     updated = str(get_entry_value(entry, "updated", "") or "").strip()
     value = published or updated
     if not value:
-        raise ValueError("Release entry is missing a published or updated date")
+        raise ValueError(
+            "Release entry is missing a published or updated date")
     return helper.parse_published(value)
 
 
@@ -206,8 +207,7 @@ def render_post(release: ReleaseRecord) -> str:
     return f"---\n{yaml_front_matter}\n---\n\n{body}\n"
 
 
-def find_existing_post(posts_root: pathlib.Path,
-                       project_key: str,
+def find_existing_post(posts_root: pathlib.Path, project_key: str,
                        release_hash: str) -> pathlib.Path | None:
     pattern = f"*-{project_key}-release-{release_hash}.md"
     return next(posts_root.rglob(pattern), None)
@@ -237,9 +237,9 @@ def fetch_feed_releases(feed_url: str) -> list[ReleaseRecord]:
     return releases
 
 
-def process_releases(feeds_file: pathlib.Path = FEEDS_FILE,
-                     posts_root: pathlib.Path = POSTS_DIR) -> tuple[int, int,
-                                                                     int]:
+def process_releases(
+        feeds_file: pathlib.Path = FEEDS_FILE,
+        posts_root: pathlib.Path = POSTS_DIR) -> tuple[int, int, int]:
     created = 0
     skipped = 0
     failed = 0
