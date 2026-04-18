@@ -1,0 +1,22 @@
+{% include header.html %}
+<h1 class="post-title">{{ page.title }}</h1>
+<p class="marker"><b>{{ site.data.releases | size }}</b> software releases.</p>
+
+{{ content }}
+
+<div id="blog-archives" class="flow">
+  {% assign releases = site.data.releases | sort: "date" | reverse %}
+  {% for release in releases %}
+  {% assign rating_count = release.rating_count | default: 0 | plus: 0 %}
+  {% capture meta %}{% if release.views %}{{ release.views }} views{% endif %}{% if rating_count > 0 %}{% if
+  release.views %},
+  {% endif %}{{ release.rating_average }} stars{% endif %}{% if release.date %}{% if release.views or rating_count > 0
+  %}
+  {% endif %} on {{ release.date | date: "%-d %B %Y" }}{% endif %}{% endcapture %}
+  <div class="posts">
+    <a href="{{ release.link }}">{{ release.title }}</a> ⇗
+    <span class="meta">// {{ meta | strip }}.</span>
+  </div>
+  {% endfor %}
+</div>
+{% include footer.html %}

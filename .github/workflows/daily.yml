@@ -46,6 +46,7 @@ jobs:
                   python '_python/blogroll.py'
                   python '_python/jokes.py'
                   python '_python/videos.py'
+                  python '_python/releases.py'
 
             - name: Commit and push
               run: |-
