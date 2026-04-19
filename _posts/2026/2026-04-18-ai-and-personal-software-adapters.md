@@ -7,8 +7,6 @@ class: indie
 
 ---
 
-AI and Personal software adapters
-
 There are polarised takes on AI usage. Some very well-known engineers are advocating adoption and others rejecting it all as slop, many of whom I have respect for regardless of what side of the divide they are on.
 
 For me, it's the difference between a supermarket's factory-designed bakery churning out loaves of bread for the masses vs the local artisan sourdough baker.
