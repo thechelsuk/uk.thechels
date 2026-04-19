@@ -11,5 +11,5 @@ cited: The I
 Interesting, might be worth some to go on the garden shed.
 
 > Plug-in panels do not require installation, so the only upfront cost is the purchase. Panels are currently on the market from about £400.
-> 
+>
 > The Government estimates that a typical UK home could save £70 to £110 a year on their energy bills from plug-in solar, meaning a family could make their money back in around four years.

@@ -38,7 +38,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      syndicate_to: [mastodon, bluesky, reddit]
+      syndicate_to: [ mastodon, bluesky, reddit ]
 plugins:
   - jekyll-avatar
   - jekyll-github-metadata
@@ -117,6 +117,8 @@ navigation_archives:
     title: "Ways"
   - link: "/archives/mixtapes"
     title: "Mixtapes"
+  - link: "/archives/releases"
+    title: "Software Releases"
 
 ## SubMenu
 navigation_slashes:
