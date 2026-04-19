@@ -67,7 +67,10 @@ include:
   - ".well-known"
   - "_pages"
 
+##################### Menus ##########
+
 # Site Navigation
+
 ## Header
 navigation_header:
   - link: "/about"
