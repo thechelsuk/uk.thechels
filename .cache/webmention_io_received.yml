@@ -1042,3 +1042,101 @@
 "/new-tax-year,-new-plan": {}
 "/stop-treating-your-newsletters-as-glorified-rss-feeds": {}
 "/announcing-nuchronic.uk": {}
+"/mltply-release-778af1251b1f": {}
+"/boinc-release-1a749f2d8c0e":
+  '1991023':
+    id: '1991023'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjs54bn2y42c
+    source: false
+    pubdate: 2026-04-18 00:00:00.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjs54bn2y42c%23bridgy-fed-create-2026-04-18T19:06:49.365026+00:00
+      verified: true
+      verified_date: '2026-04-18T19:06:53+00:00'
+      id: 1991023
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjs54bn2y42c
+        name:
+        content: Boinc Version 1.0.0 (<a href="https://thechels.uk/boinc-release-1a749f2d8c0e">https://thechels.uk/boinc-release-1a749f2d8c0e</a>)
+        published: '2026-04-18T00:00:00+00:00'
+        published_ts: 1776470400
+      activity:
+        type: link
+      target: https://thechels.uk/boinc-release-1a749f2d8c0e
+    author:
+    type: link
+    content: Boinc Version 1.0.0 (<a href="https://thechels.uk/boinc-release-1a749f2d8c0e">https://thechels.uk/boinc-release-1a749f2d8c0e</a>)
+"/hiyd-release-8e21422f296b":
+  '1991024':
+    id: '1991024'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjs54fn3ar25
+    source: false
+    pubdate: 2026-04-18 00:00:00.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjs54fn3ar25%23bridgy-fed-create-2026-04-18T19:06:53.795761+00:00
+      verified: true
+      verified_date: '2026-04-18T19:06:56+00:00'
+      id: 1991024
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjs54fn3ar25
+        name:
+        content: Hiyd Version 1.0.0 (<a href="https://thechels.uk/hiyd-release-8e21422f296b">https://thechels.uk/hiyd-release-8e21422f296b</a>)
+        published: '2026-04-18T00:00:00+00:00'
+        published_ts: 1776470400
+      activity:
+        type: link
+      target: https://thechels.uk/hiyd-release-8e21422f296b
+    author:
+    type: link
+    content: Hiyd Version 1.0.0 (<a href="https://thechels.uk/hiyd-release-8e21422f296b">https://thechels.uk/hiyd-release-8e21422f296b</a>)
+"/nuchronic-release-413494524142":
+  '1991025':
+    id: '1991025'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjs54jti6s2p
+    source: false
+    pubdate: 2026-04-18 00:00:00.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjs54jti6s2p%23bridgy-fed-create-2026-04-18T19:06:59.224582+00:00
+      verified: true
+      verified_date: '2026-04-18T19:07:02+00:00'
+      id: 1991025
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjs54jti6s2p
+        name:
+        content: Nuchronic Version 1.0.0 (<a href="https://thechels.uk/nuchronic-release-413494524142">https://thechels.uk/nuchronic-release-413494524142</a>)
+        published: '2026-04-18T00:00:00+00:00'
+        published_ts: 1776470400
+      activity:
+        type: link
+      target: https://thechels.uk/nuchronic-release-413494524142
+    author:
+    type: link
+    content: Nuchronic Version 1.0.0 (<a href="https://thechels.uk/nuchronic-release-413494524142">https://thechels.uk/nuchronic-release-413494524142</a>)
+"/search-release-d63d5db5f191":
+  '1991027':
+    id: '1991027'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjs54pbbok2r
+    source: false
+    pubdate: 2026-04-18 00:00:00.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjs54pbbok2r%23bridgy-fed-create-2026-04-18T19:07:04.997244+00:00
+      verified: true
+      verified_date: '2026-04-18T19:07:08+00:00'
+      id: 1991027
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjs54pbbok2r
+        name:
+        content: Search Version 1.0.0 (<a href="https://thechels.uk/search-release-d63d5db5f191">https://thechels.uk/search-release-d63d5db5f191</a>)
+        published: '2026-04-18T00:00:00+00:00'
+        published_ts: 1776470400
+      activity:
+        type: link
+      target: https://thechels.uk/search-release-d63d5db5f191
+    author:
+    type: link
+    content: Search Version 1.0.0 (<a href="https://thechels.uk/search-release-d63d5db5f191">https://thechels.uk/search-release-d63d5db5f191</a>)
+"/prescribing-rss-and-curation": {}
