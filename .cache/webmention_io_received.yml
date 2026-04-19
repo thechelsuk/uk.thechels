@@ -1140,3 +1140,124 @@
     type: link
     content: Search Version 1.0.0 (<a href="https://thechels.uk/search-release-d63d5db5f191">https://thechels.uk/search-release-d63d5db5f191</a>)
 "/prescribing-rss-and-curation": {}
+"/boinc-thechelsuk-release-92779a36ebd5":
+  '1991108':
+    id: '1991108'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk3u7voy2r
+    source: false
+    pubdate: 2026-04-18 00:00:00.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjtk3u7voy2r%23bridgy-fed-create-2026-04-19T08:31:53.663288+00:00
+      verified: true
+      verified_date: '2026-04-19T08:31:59+00:00'
+      id: 1991108
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk3u7voy2r
+        name:
+        content: Boinc @ thechelsuk Version 1.0.0 (<a href="https://thechels.uk/boinc-thechelsuk-release-92779a36ebd5">https://thechels.uk/boinc-thechelsuk-release-92779a36ebd5</a>)
+        published: '2026-04-18T00:00:00+00:00'
+        published_ts: 1776470400
+      activity:
+        type: link
+      target: https://thechels.uk/boinc-thechelsuk-release-92779a36ebd5
+    author:
+    type: link
+    content: Boinc @ thechelsuk Version 1.0.0 (<a href="https://thechels.uk/boinc-thechelsuk-release-92779a36ebd5">https://thechels.uk/boinc-thechelsuk-release-92779a36ebd5</a>)
+"/hiyd-uk-release-f4dbd6b5f96a":
+  '1991109':
+    id: '1991109'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk3z45nc2c
+    source: false
+    pubdate: 2026-04-18 00:00:00.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjtk3z45nc2c%23bridgy-fed-create-2026-04-19T08:31:58.658153+00:00
+      verified: true
+      verified_date: '2026-04-19T08:32:02+00:00'
+      id: 1991109
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk3z45nc2c
+        name:
+        content: Hiyd.uk Version 1.0.0 (<a href="https://thechels.uk/hiyd-uk-release-f4dbd6b5f96a">https://thechels.uk/hiyd-uk-release-f4dbd6b5f96a</a>)
+        published: '2026-04-18T00:00:00+00:00'
+        published_ts: 1776470400
+      activity:
+        type: link
+      target: https://thechels.uk/hiyd-uk-release-f4dbd6b5f96a
+    author:
+    type: link
+    content: Hiyd.uk Version 1.0.0 (<a href="https://thechels.uk/hiyd-uk-release-f4dbd6b5f96a">https://thechels.uk/hiyd-uk-release-f4dbd6b5f96a</a>)
+"/nuchronic-uk-release-8921420fa8d0":
+  '1991110':
+    id: '1991110'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk456qvn2o
+    source: false
+    pubdate: 2026-04-18 00:00:00.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjtk456qvn2o%23bridgy-fed-create-2026-04-19T08:32:02.947985+00:00
+      verified: true
+      verified_date: '2026-04-19T08:32:07+00:00'
+      id: 1991110
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk456qvn2o
+        name:
+        content: Nuchronic.uk Version 1.0.0 (<a href="https://thechels.uk/nuchronic-uk-release-8921420fa8d0">https://thechels.uk/nuchronic-uk-release-8921420fa8d0</a>)
+        published: '2026-04-18T00:00:00+00:00'
+        published_ts: 1776470400
+      activity:
+        type: link
+      target: https://thechels.uk/nuchronic-uk-release-8921420fa8d0
+    author:
+    type: link
+    content: Nuchronic.uk Version 1.0.0 (<a href="https://thechels.uk/nuchronic-uk-release-8921420fa8d0">https://thechels.uk/nuchronic-uk-release-8921420fa8d0</a>)
+"/search-router-release-1cdb845ee4e8":
+  '1991111':
+    id: '1991111'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk4di3i62y
+    source: false
+    pubdate: 2026-04-18 00:00:00.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjtk4di3i62y%23bridgy-fed-create-2026-04-19T08:32:09.594532+00:00
+      verified: true
+      verified_date: '2026-04-19T08:32:12+00:00'
+      id: 1991111
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk4di3i62y
+        name:
+        content: Search Router Version 1.0.0 (<a href="https://thechels.uk/search-router-release-1cdb845ee4e8">https://thechels.uk/search-router-release-1cdb845ee4e8</a>)
+        published: '2026-04-18T00:00:00+00:00'
+        published_ts: 1776470400
+      activity:
+        type: link
+      target: https://thechels.uk/search-router-release-1cdb845ee4e8
+    author:
+    type: link
+    content: Search Router Version 1.0.0 (<a href="https://thechels.uk/search-router-release-1cdb845ee4e8">https://thechels.uk/search-router-release-1cdb845ee4e8</a>)
+"/tools-release-e59871ae14ad":
+  '1991112':
+    id: '1991112'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk4imuw62y
+    source: false
+    pubdate: 2026-04-18 00:00:00.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjtk4imuw62y%23bridgy-fed-create-2026-04-19T08:32:14.830145+00:00
+      verified: true
+      verified_date: '2026-04-19T08:32:17+00:00'
+      id: 1991112
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk4imuw62y
+        name:
+        content: Tools Version 1.0.0 (<a href="https://thechels.uk/tools-release-e59871ae14ad">https://thechels.uk/tools-release-e59871ae14ad</a>)
+        published: '2026-04-18T00:00:00+00:00'
+        published_ts: 1776470400
+      activity:
+        type: link
+      target: https://thechels.uk/tools-release-e59871ae14ad
+    author:
+    type: link
+    content: Tools Version 1.0.0 (<a href="https://thechels.uk/tools-release-e59871ae14ad">https://thechels.uk/tools-release-e59871ae14ad</a>)
+"/ai-and-personal-software-adapters": {}
