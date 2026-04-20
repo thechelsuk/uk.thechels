@@ -1,7 +1,7 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
 {% assign items = site.posts | where_exp: "post", "post.type == page.type" %}
-<p class="marker"><b>{{ items | size }}</b> total {{ page.type }}.</p>
+<p class="marker"><b>{{ items | size }}</b> total {{ page.type }} posts.</p>
 <div id="blog-archives" class="flow">
   {{ content }}
 
