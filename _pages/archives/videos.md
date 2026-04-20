@@ -3,6 +3,7 @@ layout: videos
 title: Video Archive
 seo: Video Archive
 permalink: /videos
+type: video
 
 ---
 
