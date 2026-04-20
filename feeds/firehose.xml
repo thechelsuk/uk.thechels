@@ -19,14 +19,9 @@ permalink: /firehose.xml
     <uri>{{ site.owner.uri }}/</uri>
   </author>
 
-
   {%- assign all_entries = "" | split: "" -%}
 
   {%- for item in site.posts -%}
-    {%- assign all_entries = all_entries | push: item -%}
-  {%- endfor -%}
-
-  {%- for item in site.data.videos -%}
     {%- assign all_entries = all_entries | push: item -%}
   {%- endfor -%}
 
@@ -76,8 +71,6 @@ permalink: /firehose.xml
       {%- assign entry_source = "film" -%}
       {%- assign film_date_year = entry.date | date: "%Y" | times: 1 -%}
       {%- if film_date_year < 2020 -%}{%- continue -%}{%- endif -%}
-    {%- elsif entry.source == "youtube-feed" -%}
-      {%- assign entry_source = "video" -%}
     {%- elsif entry.link contains "bsky.app" or entry.link contains "mastodon.social" -%}
       {%- assign entry_source = "social" -%}
     {%- else -%}

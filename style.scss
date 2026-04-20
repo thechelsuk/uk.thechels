@@ -305,6 +305,17 @@ main:focus {
     outline: none;
 }
 
+.post-icon {
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 6px;
+    background: transparent;
+    padding-right: 0.15em;
+    box-sizing: content-box;
+    transition: background 0.3s, color 0.3s;
+}
 
 /* ---------------------------------- */
 /* ----------  Utility Classes  ----- */
