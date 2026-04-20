@@ -5,12 +5,12 @@ import re
 import hashlib
 import feedparser
 
-
 ROOT = pathlib.Path(__file__).parent.parent.resolve()
 RSS_FEED_URL = "https://www.youtube.com/feeds/videos.xml?channel_id=UCwK4oZ8hw9RS6tZKEjw_qLw"
 OUTPUT_FOLDER = ROOT / "_posts"
 
 # ================= HELPER FUNCTIONS =================
+
 
 def get_video_id(entry):
     """
@@ -31,6 +31,7 @@ def get_video_id(entry):
         if video_id:
             return video_id
     return None
+
 
 def extract_id_from_link(link):
     """
@@ -69,6 +70,7 @@ def extract_id_from_link(link):
 
     return None
 
+
 def parse_date(entry):
     """
     Parses the date from RSS entry.
@@ -81,7 +83,8 @@ def parse_date(entry):
     if isinstance(pub_date, str):
         try:
             # Handle timezone formats correctly
-            dt = datetime.datetime.fromisoformat(pub_date.replace('Z', '+00:00'))
+            dt = datetime.datetime.fromisoformat(
+                pub_date.replace('Z', '+00:00'))
         except (ValueError, AttributeError):
             return None
     elif hasattr(pub_date, 'strftime'):
@@ -92,6 +95,7 @@ def parse_date(entry):
     # Format: 'yyyy-mm-dd' only (no time)
     return dt.strftime('%Y-%m-%d')
 
+
 def get_year(date_str):
     """
     Extracts the year for the folder path.
@@ -101,6 +105,7 @@ def get_year(date_str):
     else:
         return datetime.datetime.now().strftime('%Y')
 
+
 def clean_title_for_file(title):
     """
     Removes special characters to create a valid Markdown filename.
@@ -109,6 +114,7 @@ def clean_title_for_file(title):
     # Remove anything that isn't alphanumeric or space/hyphen
     title = re.sub(r'[^a-zA-Z0-9\s-]', '', title)
     return title.lower().replace(' ', '-')
+
 
 def get_unique_filename(year, date_str, title, video_id):
     """
@@ -126,6 +132,7 @@ def get_unique_filename(year, date_str, title, video_id):
     # Filename: yyyy-mm-dd-title-hash.md
     filename = f"{date_str}-video-{clean_title_for_filename}-{video_id_hash}.md"
     return f"{year}/{filename}"
+
 
 def create_front_matter(entry):
     """
@@ -153,12 +160,14 @@ type: video
 
     return fm_content
 
+
 def generate_body(video_url):
     """
     Generates the Markdown body content.
     Single line link only.
     """
     return f"[Watch on Youtube]({video_url})\n"
+
 
 def save_post_to_jekyll(fm_content, body_content, filename):
     """
@@ -180,6 +189,7 @@ def save_post_to_jekyll(fm_content, body_content, filename):
     except Exception as e:
         print(f"x Failed to write file {file_path}: {e}")
 
+
 def process_entry(entry):
     """
     Pure function. Handles the logic for one entry.
@@ -191,9 +201,11 @@ def process_entry(entry):
 
     fm_content = create_front_matter(entry)
     body_content = generate_body(link)
-    filename = get_unique_filename(get_year(parse_date(entry)), parse_date(entry), title, video_id)
+    filename = get_unique_filename(get_year(parse_date(entry)),
+                                   parse_date(entry), title, video_id)
 
     return fm_content, body_content, filename
+
 
 def run_main():
     """
@@ -225,6 +237,7 @@ def run_main():
             continue
 
     print("Script finished.")
+
 
 # ================= MAIN EXECUTION =================
 if __name__ == "__main__":
