@@ -3,6 +3,7 @@ import pathlib
 import helper
 
 
+
 # Step 1: Define feeds with icons
 FEEDS = [("https://www.ft.com/?format=rss", "£"),
          ("https://www.euronews.com/rss?", "€"),
@@ -38,7 +39,7 @@ if __name__ == "__main__":
 
         string = ""
         for item in all_items:
-            title = item['title'].replace('|', ''_python/news.py)
+            title = item['title'].replace('|', '')
             icon = item.get("icon", "")
             string += f"- {title} ({icon}, [{item['published']}]({item['link']}))\n"
 
