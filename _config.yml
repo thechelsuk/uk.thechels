@@ -108,21 +108,21 @@ navigation_data:
     title: "Constraints"
   - link: "/socials"
     title: "Socials"
-  - link: "/videos"
-    title: "Videos"
   - link: "/sitemap"
     title: "Sitemap (xml)"
 
 ## SubMenu
 navigation_archives:
+  - link: "/archives/mixtapes"
+    title: "Mixtapes"
   - link: "/archives/til"
     title: "TILs"
   - link: "/archives/ways"
     title: "Ways"
-  - link: "/archives/mixtapes"
-    title: "Mixtapes"
   - link: "/archives/releases"
     title: "Software Releases"
+  - link: "/archives/videos"
+    title: "Videos"
 
 ## SubMenu
 navigation_slashes:
