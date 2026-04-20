@@ -53,7 +53,7 @@ jobs:
                   git diff
                   git config user.name "GitHub Action"
                   git config user.email "action@github.com"
-                  COMMIT_MSG="New Daily Rundown $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+                  COMMIT_MSG="Chore: Add New Daily Rundown $(date -u +%Y-%m-%dT%H:%M:%SZ)"
                   echo "COMMIT_MSG=$COMMIT_MSG" >> $GITHUB_ENV
                   git diff --quiet || (git add -A && git commit -m "$COMMIT_MSG")
                   git push
