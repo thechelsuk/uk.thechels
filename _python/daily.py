@@ -5,7 +5,6 @@ import os
 import datetime
 import re
 
-
 ROOT = pathlib.Path(__file__).parent.parent.resolve()
 SOURCE = ROOT / "_pages/daily.md"
 OUTPUT_FOLDER = ROOT / "_posts"
@@ -13,6 +12,7 @@ OUTPUT_FOLDER = ROOT / "_posts"
 FILE_DATE = datetime.datetime.now().strftime("%Y-%m-%d")
 FM_DATE = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
 FILENAME = f"{FILE_DATE}-daily-rundown.md"
+
 
 def strip_front_matter(text):
     fm_pattern = r'^---\s*\n.*?\n---\s*\n'
@@ -27,16 +27,19 @@ def read_source_file(path: pathlib.Path) -> str:
     except Exception as e:
         raise RuntimeError(f"x Failed to read source file {path}: {e}")
 
+
 def strip_front_matter_md(text: str) -> str:
     """Remove YAML front matter from markdown text."""
     fm_pattern = r'^---\s*\n.*?\n---\s*\n'
     return re.sub(fm_pattern, '', text, flags=re.DOTALL).lstrip('\n')
+
 
 def build_front_matter(date: str, title: str, permalink: str) -> str:
     """Build the Jekyll front matter block."""
     return (
         f"---\nlayout: post\ndate: {date}\ntype: daily\ntitle: {title}\npermalink: {permalink}\n---\n\n"
     )
+
 
 def ensure_output_dir(year: str) -> pathlib.Path:
     """Ensure the output directory for the year exists and return its Path."""
@@ -45,10 +48,13 @@ def ensure_output_dir(year: str) -> pathlib.Path:
         year_folder.mkdir(parents=True, exist_ok=True)
     return year_folder
 
-def build_output_path(year_folder: pathlib.Path, file_date: str) -> pathlib.Path:
+
+def build_output_path(year_folder: pathlib.Path,
+                      file_date: str) -> pathlib.Path:
     """Build the output file path for the post."""
     filename = f"{file_date}-daily-rundown-for-{file_date}.md"
     return year_folder / filename
+
 
 def write_post_file(path: pathlib.Path, front_matter: str, body: str) -> None:
     """Write the front matter and body to the output file."""
@@ -59,6 +65,7 @@ def write_post_file(path: pathlib.Path, front_matter: str, body: str) -> None:
         print(f"✓ Created: {path}")
     except Exception as e:
         raise RuntimeError(f"x Failed to write file {path}: {e}")
+
 
 def generate_daily_post() -> pathlib.Path:
     """

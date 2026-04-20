@@ -2,8 +2,6 @@ import feedparser
 import pathlib
 import helper
 
-
-
 # Step 1: Define feeds with icons
 FEEDS = [("https://www.ft.com/?format=rss", "£"),
          ("https://www.euronews.com/rss?", "€"),
