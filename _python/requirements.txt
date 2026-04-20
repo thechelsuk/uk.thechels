@@ -1,10 +1,10 @@
 feedparser
-requests
+requests>=2.33.0
 pathlib
 datefinder
 yahoo_fin
 pandas
-requests_html>=2.33.0
+requests_html
 argparse
 pyyaml
 pytest>=9.0.3
