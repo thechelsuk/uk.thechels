@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-04-19
+date: 2026-04-20
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,14 +11,14 @@ date: 2026-04-19
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Sunday, 19 April 2026
+## On Monday, 20 April 2026
 
-- The average temperature today is 9.91˚C,
-- With highs of 9.91˚C and lows of 9.91˚C,
-- It may feel like 8.23˚C with clear sky
-- The wind speed is 3.32m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 77%
-- The sun will rise at 05:03 and set at 19:11
+- The average temperature today is 10.87˚C,
+- With highs of 10.87˚C and lows of 10.87˚C,
+- It may feel like 9.87˚C with scattered clouds
+- The wind speed is 2.79m/s and visibility is 10000m
+- The pressure is 1024hPa and humidity is 71%
+- The sun will rise at 05:01 and set at 19:12
 
 <!-- weather_marker ends -->
 
@@ -26,7 +26,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 775 days since the last change (2024-03-05)
+- It has been 776 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -39,18 +39,13 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Exploit the landscape.
+> Use a common language.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Ipswich Town v Middlesbrough
-- Aston Villa v Sunderland
-- Everton v Liverpool
-- Nottingham Forest v Burnley
-- Manchester City v Arsenal
-- Cardiff City Women v Swansea City Women
+- Crystal Palace v West Ham United
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -66,49 +61,45 @@ _Good Morning, Here is your daily briefing..._
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> I got sacked from my job at the bakery after customers complained everything had a leathery texture. I really misunderstood how to make Choux buns.
+> A woman from Detroit was recently interviewed by Police for setting on fire the terms and conditions of a loan. Her name was Bernadette.
 <!-- jokes_marker ends -->
 
 ### Top News
 <!-- news_marker starts -->
-- € China hosts humanoid robots in Beijing half marathon ([29 minutes ago](http://www.euronews.com/video/2026/04/19/china-hosts-humanoid-robots-in-beijing-half-marathon))
-- ® Ruby Central in 'real financial jeopardy' following RubyGems maintainer ruckus ([30 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/19/rubygems_nonprofit_in_real_financial/))
-- € Global shock feared as Iran tightens grip on Hormuz, Qatar says impact “not far away” ([31 minutes ago](http://www.euronews.com/business/2026/04/19/global-shock-feared-as-iran-tightens-grip-on-hormuz-qatar-says-impact-not-far-away))
-- € Trump signs order to fast-track research on psychedelic drugs ([1 hours ago](http://www.euronews.com/2026/04/19/trump-signs-order-to-fast-track-research-on-psychedelic-drugs))
-- ♣ The Daily Hilario: Sunday ([1 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167910/the-daily-hilario-april-19th))
-- € North Korea conducts multiple ballistic missile tests ([1 hours ago](http://www.euronews.com/2026/04/19/north-korea-conducts-multiple-ballistic-missile-tests))
-- € Iran says deal still 'far off' as Hormuz Strait remains shut ([2 hours ago](http://www.euronews.com/2026/04/19/iran-says-deal-still-far-off-as-hormuz-strait-remains-shut))
-- € Can AI robots work alongside humans? Siemens and NVIDIA trial a humanoid robot ([2 hours ago](http://www.euronews.com/next/2026/04/19/can-ai-robots-work-alongside-humans-siemens-and-nvidia-trial-a-humanoid-robot))
-- € Latest news bulletin  April 19th, 2026 – Morning ([3 hours ago](http://www.euronews.com/video/2026/04/19/latest-news-bulletin-april-19th-2026-morning))
-- € Too hot for solar and too much wind for turbines: Can renewables withstand our worsening climate? ([3 hours ago](http://www.euronews.com/2026/04/19/too-hot-for-solar-and-too-much-wind-for-turbines-can-renewables-withstand-our-worsening-cl))
-- € Travel smart: Must-have gadgets and accessories for summer holidays in 2026 ([3 hours ago](http://www.euronews.com/travel/2026/04/19/travel-smart-must-have-gadgets-and-accessories-for-summer-holidays-in-2026))
-- ♣ Liam Rosenior left befuddled by ‘impossible’ defeat after ‘dominant’ performance ([3 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/167927/liam-rosenior-left-befuddled-by-impossible-defeat-after-dominant-performance))
-- € Which European countries will be the richest by 2030? ([3 hours ago](http://www.euronews.com/business/2026/04/19/which-european-countries-will-be-the-richest-by-2030))
-- £ Wealth advisers made more than $2bn from private capital fees ([4 hours ago](https://www.ft.com/content/dbc5aac7-fbfd-466a-aa46-bc562f249cec))
-- £ Of course Trump thinks he’s the Messiah — his disciples tell him so ([4 hours ago](https://www.ft.com/content/529de651-24b2-4e96-b01e-18cd71b17739))
-- £ The annoyance economy isn’t going anywhere ([4 hours ago](https://www.ft.com/content/0d0881a5-c2a3-4475-bb31-7e7dfe49bca7))
-- £ Surge in HMRC probes over unpaid VAT by large companies ([4 hours ago](https://www.ft.com/content/75e7a380-4859-4f82-9859-c84429b56f92))
-- £ Brussels pushes remote working to ease energy crisis ([4 hours ago](https://www.ft.com/content/bbc9c31e-cc43-41a6-8fb7-057d44b25a21))
-- £ How Iran has been studying lessons from the war in Ukraine ([4 hours ago](https://www.ft.com/content/08629b39-9d82-4046-a1b9-3023009ffa81))
-- £ BlackRock warns of hit to European stocks from energy crisis ([4 hours ago](https://www.ft.com/content/8d1525ef-1279-4827-a610-3ba87a9edcdb))
-- £ Iran claims ‘strict control’ of Strait of Hormuz and says it will not be fully reopened ([6 hours ago](https://www.ft.com/content/b45b0ebe-7f8c-40f3-a804-303aba404e22))
-- ♣ Chelsea 0-1 Manchester United, Premier League: Post-match reaction, ratings ([11 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/167914/chelsea-0-1-manchester-united-premier-league-post-match-reaction))
-- ♣ Chelsea vs. Manchester United, Premier League: Lineups &#038; Game Thread ([14 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/167899/chelsea-vs-manchester-united-premier-league-confirmed-lineups-how-to-watch))
-- £ Burnham allies identify fresh path back to Westminster as Starmer battles calls to quit ([16 hours ago](https://www.ft.com/content/2310ab87-db53-4293-9f34-8b3a5331911e))
-- ♣ Chelsea fans’ preferred lineup against Manchester United: Enzo back in ([18 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/167902/chelsea-fans-preferred-lineup-against-manchester-united-enzo-back-in))
-- ® Cloudflare can remember it for you wholesale ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/18/cloudflare_agent_memory/))
-- ® Atlassian’s new data collection policy protects rich customers while AI eats the rest ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/18/atlassians_new_data_collection_policy/))
-- ♣ The Daily Hilario: Saturday ([1 days ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167880/the-daily-hilario-april-18th))
-- ® Intel eases reliance on TSMC with 'Merica-made Core Series 3 processors ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/intel_eases_reliance_on_tsmc/))
-- ♣ Cole Palmer reiterates commitment to Chelsea, belief in better days ahead ([1 days ago](https://weaintgotnohistory.sbnation.com/chelsea-fc/167891/cole-palmer-reiterates-commitment-to-chelsea-belief-in-better-days-ahead))
-- ® Anthropic mocks up Claude Design to draft fancy new pink slips for marketing teams ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/anthropic_debuts_claude_design/))
-- ♣ Chelsea vs. Manchester United, Premier League: Preview, team news, how to watch ([1 days ago](https://weaintgotnohistory.sbnation.com/premier-league/167883/chelsea-vs-manchester-united-premier-league-preview-team-news-how-to-watch))
-- ® CISA tells feds to patch 13-year-old Apache ActiveMQ bug under active attack ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/cisa_tells_feds_to_patch/))
-- ♣ Official: Moisés Caicedo signs new Chelsea contract ([1 days ago](https://weaintgotnohistory.sbnation.com/chelsea-fc/167875/official-moises-caicedo-signs-new-chelsea-contract))
-- ® Opsec oopsie: Dutch navy frigate location outed by mailing it a Bluetooth tracker ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/dutch_navy_frigate_tracked/))
-- ® Users complain that UK Azure is having capacity problems ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/users_complain_of_uk_azure/))
-- ® Microsoft closes book on rogue Windows Server 2025 upgrades ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/microsoft_windows_server_2025/))
-- ® NASA gets the ball rolling on its part in Europe's jinxed Mars rover mission ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/17/nasa_rosalind_franklin/))
+- € WWII bomb destroyed in controlled explosion in Paris ([20 minutes ago](http://www.euronews.com/video/2026/04/20/wwii-bomb-destroyed-in-controlled-explosion-in-paris))
+- € Planning a hiking trip across Europe? These are the most unspoilt national parks ([28 minutes ago](http://www.euronews.com/my-europe/2026/04/20/planning-a-hiking-trip-across-europe-these-are-the-most-unspoilt-national-parks))
+- £ The Mandelson affair is about the government’s judgment, not process ([28 minutes ago](https://www.ft.com/content/1ca6de4b-a178-41f8-ba2c-499393457c3f))
+- ® AI quota inflation is no token effort. It's baked in ([33 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/20/inflation_ai_quota/))
+- € Community holds vigil after Louisiana mass shooting ([33 minutes ago](http://www.euronews.com/video/2026/04/20/community-holds-vigil-after-louisiana-mass-shooting))
+- £ Japan issues tsunami warning after major earthquake ([34 minutes ago](https://www.ft.com/content/2840bbee-d440-40c8-b339-3c2ad2296dbf))
+- ♣ The Daily Hilario: Monday ([38 minutes ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167937/the-daily-hilario-april-20th))
+- € Kneecap, Fontaines D.C. and more back ‘Stop The Game’ campaign protesting Ireland v Israel game ([50 minutes ago](http://www.euronews.com/culture/2026/04/20/kneecap-fontaines-dc-and-more-back-stop-the-game-campaign-protesting-ireland-v-israel-game))
+- ® Next.js developer Vercel warns of customer credential compromise ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/20/vercel_context_ai_security_incident/))
+- € Moment US navy fires on and seizes Iranian-flagged cargo ship ([1 hours ago](http://www.euronews.com/video/2026/04/20/moment-us-navy-fires-on-and-seizes-iranian-flagged-cargo-ship))
+- £ Oil rebounds as Iran threatens to retaliate for US attack on cargo ship ([1 hours ago](https://www.ft.com/content/3f067df5-5016-4be1-aa61-21af3e7668e2))
+- € Obama and Mamdani sing with kids during first meeting in New York ([1 hours ago](http://www.euronews.com/video/2026/04/20/obama-and-mamdani-sing-with-kids-during-first-meeting-in-new-york))
+- € Bulgaria's Radev 'pro-EU on surface' but a 'practical Trojan horse for Kremlin', says expert ([1 hours ago](http://www.euronews.com/video/2026/04/20/bulgarias-radev-pro-eu-on-surface-but-a-practical-trojan-horse-for-kremlin-says-expert))
+- € More European countries cancel Kanye ‘Ye’ West gigs – Will the EU tour go ahead? ([1 hours ago](http://www.euronews.com/culture/2026/04/20/more-european-countries-cancel-kanye-ye-west-gigs-will-the-eu-tour-go-ahead))
+- ® 'Invisible mouse' made a mess of PC rebuild ([1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/20/who_me/))
+- € Should kids be on social media? Europe moves toward age limits ([1 hours ago](http://www.euronews.com/my-europe/2026/04/20/should-kids-be-on-social-media-europe-moves-toward-age-limits))
+- £ Starmer battles for Downing Street future amid Mandelson vetting scandal ([2 hours ago](https://www.ft.com/content/e5369e6b-b5d7-4e04-9c43-4adb6d8c231e))
+- € Louisiana gunman kills eight children in suspected domestic mass shooting ([2 hours ago](http://www.euronews.com/2026/04/20/louisiana-gunman-kills-eight-children-including-seven-of-his-own))
+- ® NASA working on ‘Big Bang’ upgrade to keep the Voyagers alive for longer ([3 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/20/voyager_big_bang_upgrades/))
+- £ Russian economy is faltering despite oil windfall, Sweden warns ([4 hours ago](https://www.ft.com/content/04a9d05d-2502-44d4-b7e0-041aaa4f83cd))
+- £ FTSE bosses receive 18% pay bump this year in global fight for talent ([4 hours ago](https://www.ft.com/content/474f0ddb-b9ad-4d09-89e6-928dd98a7650))
+- £ Out of office, still hyper-responsive ([4 hours ago](https://www.ft.com/content/98ab4190-9dbc-4f6c-bc3f-1a8afd0f4cc1))
+- £ The return of the e-merging markets ([4 hours ago](https://www.ft.com/content/3f3324fa-c0b6-479e-9ed4-10b72f0a75f8))
+- ® Indonesia’s game rating system paused amid claims it leaked developer creds and glimpses of major new titles ([6 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/20/asia_tech_news_roundup/))
+- £ Property asking prices rise in April despite higher UK mortgage rates ([9 hours ago](https://www.ft.com/content/58403b84-6881-4852-b0e8-c2e726f00171))
+- ® Just like phishing for gullible humans, prompt injecting AIs is here to stay ([9 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/19/just_like_phishing_for_gullible/))
+- ® I meant to do that! AI vendors shrug off responsibility for vulns ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/19/ai_vendors_response_to_security/))
+- £ Ex-Foreign Office head takes legal advice over Mandelson vetting dismissal ([22 hours ago](https://www.ft.com/content/034361bc-641b-4a73-a3d1-3ee76c4ed573))
+- ® Ruby Central in 'real financial jeopardy' following RubyGems maintainer ruckus ([1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/19/rubygems_nonprofit_in_real_financial/))
+- ♣ The Daily Hilario: Sunday ([1 days ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167910/the-daily-hilario-april-19th))
+- ♣ Liam Rosenior left befuddled by ‘impossible’ defeat after ‘dominant’ performance ([1 days ago](https://weaintgotnohistory.sbnation.com/premier-league/167927/liam-rosenior-left-befuddled-by-impossible-defeat-after-dominant-performance))
+- ♣ Chelsea 0-1 Manchester United, Premier League: Post-match reaction, ratings ([1 days ago](https://weaintgotnohistory.sbnation.com/premier-league/167914/chelsea-0-1-manchester-united-premier-league-post-match-reaction))
+- ♣ Chelsea vs. Manchester United, Premier League: Lineups &#038; Game Thread ([1 days ago](https://weaintgotnohistory.sbnation.com/premier-league/167899/chelsea-vs-manchester-united-premier-league-confirmed-lineups-how-to-watch))
+- ♣ Chelsea fans’ preferred lineup against Manchester United: Enzo back in ([1 days ago](https://weaintgotnohistory.sbnation.com/premier-league/167902/chelsea-fans-preferred-lineup-against-manchester-united-enzo-back-in))
 
 <!-- news_marker ends -->
 
@@ -116,7 +107,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > furbelow - noun: 1. A strip of fabric, tightly gathered or pleated, applied to an object such as a skirt, scarf, hat, or bedding. 2. Something showy or superfluous.
+ > swale - noun: A low tract of land, especially one that is moist or marshy; also, a shallow channel or depression.
 
 <!-- word_marker ends -->
 
@@ -124,34 +115,34 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> Everything is vague to a degree you do not realize until you have tried to make it precise. - Bertrand Russell, Philosopher
+> It is only a problem if it is a problem - Joe Delaney
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Convert a melodic element into a rhythmic element
+> Make a sudden, destructive, unpredictable action; incorporate
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Clive Barkers Book Of Blood (Rated: 6)
-- Released in 2009
-- Summary: No summary available
+- Doa: Dead Or Alive (Rated: 7)
+- Released in 2006
+- Summary: The world's best fighters are invited to DOA, an invitational martial arts contest. There, four female rival fighters will have to work together to uncover the secret that the organizer of the tournament is trying to hide.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 <!-- game_marker starts -->
 
-- Target: 856, using [1, 3, 5, 8, 10, 100]
-- Answer: 7 solutions.
+- Target: 744, using [4, 5, 6, 8, 9, 100]
+- Answer: 36 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 10 + 3 - 5 - 1 ) x 8
+  Solution: ( ( 9 + 5 - 8 ) x 4 + 100 ) x 6
 
    </details>
 
@@ -159,9 +150,9 @@ _Good Morning, Here is your daily briefing..._
 
 ### 5 Random Blogroll Links
 <!-- blogroll_marker starts -->
-- Everything Changes [URL](https://everythingchanges.us/) [Feed](https://everythingchanges.us/feed.json)
-- Rob Weychert [URL](https://v7.robweychert.com/) [Feed](http://feeds.feedburner.com/robweychert)
-- Jon Shamir [URL](https://jonshamir.com/) [Feed](https://jonshamir.com/rss.xml)
-- Graham Cluley [URL](https://grahamcluley.com/) [Feed](http://feeds.feedburner.com/GrahamCluleysBlog)
-- Codemanship [URL](https://codemanship.wordpress.com/) [Feed](https://codemanship.wordpress.com/feed/)
+- Calum Ryan (bookmarks) [URL](https://www.calumryan.com/bookmarks) [Feed](https://www.calumryan.com/feeds/bookmarks/rss)
+- Aaron Randall [URL](https://aaronrandall.com/) [Feed](https://aaronrandall.com/feed/)
+- The Sweet Setup [URL](https://thesweetsetup.com/) [Feed](https://thesweetsetup.com/feed/)
+- Smart [URL](https://www.smartlab.at/) [Feed](https://www.smartlab.at/feed/)
+- Simon Collison [URL](https://colly.com/) [Feed](https://colly.com/articles/feed)
 <!-- blogroll_marker ends -->
