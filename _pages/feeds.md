@@ -9,15 +9,15 @@ seo: Subscribe to various JSON, RSS, and Data feeds
 A number of RSS feeds are available. All feeds are Atom/XML unless otherwise specified.
 
 - [Main Feed](/feed.xml) - All post feed
-  - [Main feed as JSON](/feed.json) - All post feeds.
-  - [Daily only](/daily.xml) - A daily briefing of news, notices, quotes, and more.
-  - [Mixtapes only](/mixtapes.xml) - Mixtape only posts.
-  - [Posts only](/posts.xml) - Posts without linked/quote posts.
-  - [Releases only](/releases.xml) - Release only posts.
-  - [RSS only](/rss.xml) - Secret RSS only posts.
-  - [TIL only](/til.xml) - TIL only posts.
-  - [Ways only](/ways.xml) - Ways only posts.
-  - [Videos only](/videos.xml) - Video only posts.
+- [Main feed as JSON](/feed.json) - All post feed.
+- [Daily only](/daily.xml) - A daily briefing of news, notices, quotes, and more.
+- [Mixtapes only](/mixtapes.xml) - Mixtape only posts.
+- [Posts only](/posts.xml) - Posts without linked/quote posts.
+- [Releases only](/releases.xml) - Release only posts.
+- [RSS only](/rss.xml) - Secret RSS only posts.
+- [TIL only](/til.xml) - TIL only posts.
+- [Ways only](/ways.xml) - Ways only posts.
+- [Videos only](/videos.xml) - Video only posts.
 
 ## Data Feeds
 
@@ -31,9 +31,6 @@ and;
 {% assign all_entries = "" | split: "" %}
 {% for post in site.posts %}
   {% assign all_entries = all_entries | push: post %}
-{% endfor %}
-{% for item in site.data.videos %}
-  {% assign all_entries = all_entries | push: item %}
 {% endfor %}
 {% for item in site.data.bluesky %}
   {% assign all_entries = all_entries | push: item %}

@@ -86,8 +86,6 @@ navigation_header:
 
 ## SubMenu
 navigation_data:
-  - link: "/daily"
-    title: "Daily Briefing"
   - link: "/feeds"
     title: "Feeds"
   - link: "/books"
@@ -123,6 +121,8 @@ navigation_archives:
     title: "Software Releases"
   - link: "/archives/videos"
     title: "Videos"
+  - link: "/archives/rundowns"
+    title: "Daily Rundowns"
 
 ## SubMenu
 navigation_slashes:
