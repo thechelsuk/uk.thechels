@@ -2,6 +2,7 @@ import feedparser
 import pathlib
 import helper
 
+
 # Step 1: Define feeds with icons
 FEEDS = [("https://www.ft.com/?format=rss", "£"),
          ("https://www.euronews.com/rss?", "€"),
@@ -37,9 +38,9 @@ if __name__ == "__main__":
 
         string = ""
         for item in all_items:
-            title = item['title'].replace('|', '')
+            title = item['title'].replace('|', ''_python/news.py)
             icon = item.get("icon", "")
-            string += f"- {icon} {title} ([{item['published']}]({item['link']}))\n"
+            string += f"- {title} ({icon}, [{item['published']}]({item['link']}))\n"
 
         f = root / "_pages/daily.md"
         m = f.open().read()
