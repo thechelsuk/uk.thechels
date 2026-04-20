@@ -31,7 +31,7 @@ jobs:
             - name: Fetch social posts
               run: |
                 python _python/local/local_fetch_social_posts.py
-                python _python/local/videos.py
+                python _python/videos.py
                 python _python/releases.py
 
             - name: Commit updated YAML (if changed)
