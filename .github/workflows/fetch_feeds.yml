@@ -1,4 +1,4 @@
-name: Fetch social posts
+name: Fetch Feeds
 
 on:
     schedule:
@@ -27,12 +27,14 @@ jobs:
 
             - name: Install Python Dependencies
               run: python -m pip install -r "requirements.txt" --quiet
+              working-directory: ./_python
 
             - name: Fetch social posts
               run: |
-                  python _python/fetch/fetch_social_posts.py
-                  python _python/fetch/fetch_videos.py
-                  python _python/fetch/fetch_releases.py
+                  python fetch/fetch_social_posts.py
+                  python fetch/fetch_videos.py
+                  python fetch/fetch_releases.py
+              working-directory: ./_python
 
             - name: Commit updated YAML (if changed)
               run: |
