@@ -1139,7 +1139,30 @@
     author:
     type: link
     content: Search Version 1.0.0 (<a href="https://thechels.uk/search-release-d63d5db5f191">https://thechels.uk/search-release-d63d5db5f191</a>)
-"/prescribing-rss-and-curation": {}
+"/prescribing-rss-and-curation":
+  '1991080':
+    id: '1991080'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjt3j5qumn2o
+    source: false
+    pubdate: 2026-04-18 23:28:00.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjt3j5qumn2o%23bridgy-fed-create-2026-04-19T04:10:54.694412+00:00
+      verified: true
+      verified_date: '2026-04-19T04:11:00+00:00'
+      id: 1991080
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjt3j5qumn2o
+        name:
+        content: Prescribing a course of RSS and Curation (<a href="https://thechels.uk/prescribing-rss-and-curation">https://thechels.uk/prescribing-rss-and-curation</a>)
+        published: '2026-04-18T23:28:00+00:00'
+        published_ts: 1776554880
+      activity:
+        type: link
+      target: https://thechels.uk/prescribing-rss-and-curation
+    author:
+    type: link
+    content: Prescribing a course of RSS and Curation (<a href="https://thechels.uk/prescribing-rss-and-curation">https://thechels.uk/prescribing-rss-and-curation</a>)
 "/boinc-thechelsuk-release-92779a36ebd5":
   '1991108':
     id: '1991108'
@@ -1261,3 +1284,104 @@
     type: link
     content: Tools Version 1.0.0 (<a href="https://thechels.uk/tools-release-e59871ae14ad">https://thechels.uk/tools-release-e59871ae14ad</a>)
 "/ai-and-personal-software-adapters": {}
+"/video-out-now-your-jekyll-companion-app-c09218a6": {}
+"/video-15-june-2025-f876ba44": {}
+"/video-hiyd-out-now-f4048138": {}
+"/video-mipace-and-chill-bb790c4e": {}
+"/video-new-app-coming-soon-7b93e66a": {}
+"/video-tomoz-new-app-out-now-prepare-for-tomorrow-today-0d9612c5": {}
+"/video-using-on-device-ai-in-drafts-app-155470d1": {}
+"/video-what-are-you-doing-tomoz-let-me-see-644158ba": {}
+"/video-engman-new-ios-app-94befc76": {}
+"/video-mltply-app-out-now-51beea4f": {}
+"/video-preview-wip-new-app-to-track-fatigue-022bf13b": {}
+"/video-swipe-to-lead-3e4f150d": {}
+"/video-tomoz-now-supports-reminders-63f34463": {}
+"/video-mltply-a-free-ios-app-for-kids-for-learning-maths-c59c8984": {}
+"/video-tomoz-and-hiyd-now-support-shortcuts-and-app-intents-45c1dd37": {}
+"/video-mecfs-debate-at-westminster-hall-2025-11-19-39e9a345": {}
+"/video-apple-news-doesnt-understand-what-blocked-means-2ab211ba": {}
+"/video-hiyd-app-154-out-now-0ae99c29": {}
+"/video-tomoz-app-154-out-now-a1176fba": {}
+"/video-emgman-new-version-is-out-now-c505b637": {}
+"/video-mltply-app-new-version-is-out-now-8f4ccf18": {}
+"/video-engman-liquid-glass-icon-set-added-80207002": {}
+"/video-hiyd-liquid-glass-icon-set-added-9250422f": {}
+"/video-tomoz-liquid-glass-icon-set-added-d6356363": {}
+"/video-hiyd-app-171-released-with-new-liquid-glass-afd1c3b0": {}
+"/video-tomoz-app-171-updated-menu-to-liquid-glass-9d56de7a": {}
+"/video-use-shortkeys-to-replace-text-with-icons-271cb3cc": {}
+"/video-version-20-of-hiyd-out-now-0b51464e": {}
+"/video-me-is-in-our-blood-not-our-minds-50f9eecb":
+  '1991284':
+    id: '1991284'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjwlul7udz2z
+    source: false
+    pubdate: 2026-04-16 00:00:00.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjwlul7udz2z%23bridgy-fed-create-2026-04-20T13:41:37.218330+00:00
+      verified: true
+      verified_date: '2026-04-20T13:41:40+00:00'
+      id: 1991284
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjwlul7udz2z
+        name:
+        content: ME is In our blood, not our minds. (<a href="https://thechels.uk/video-me-is-in-our-blood-not-our-minds-50f9eecb">https://thechels.uk/video-me-is-in-our-blood-not-our-minds-50f9eecb</a>)
+        published: '2026-04-16T00:00:00+00:00'
+        published_ts: 1776297600
+      activity:
+        type: link
+      target: https://thechels.uk/video-me-is-in-our-blood-not-our-minds-50f9eecb
+    author:
+    type: link
+    content: ME is In our blood, not our minds. (<a href="https://thechels.uk/video-me-is-in-our-blood-not-our-minds-50f9eecb">https://thechels.uk/video-me-is-in-our-blood-not-our-minds-50f9eecb</a>)
+"/video-shortkeys-app-for-multi-line-text-replacement-5dd7bbed":
+  '1991285':
+    id: '1991285'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjwlup7ybe2y
+    source: false
+    pubdate: 2026-04-18 00:00:00.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjwlup7ybe2y%23bridgy-fed-create-2026-04-20T13:41:42.137818+00:00
+      verified: true
+      verified_date: '2026-04-20T13:41:44+00:00'
+      id: 1991285
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjwlup7ybe2y
+        name:
+        content: Shortkeys app for multi-line text replacement (<a href="https://thechels.uk/video-shortkeys-app-for-multi-line-text-replacement-5dd7bbed">https://thechels.uk/video-shortkeys-app-for-multi-line-text-replacement-5dd7bbed</a>)
+        published: '2026-04-18T00:00:00+00:00'
+        published_ts: 1776470400
+      activity:
+        type: link
+      target: https://thechels.uk/video-shortkeys-app-for-multi-line-text-replacement-5dd7bbed
+    author:
+    type: link
+    content: Shortkeys app for multi-line text replacement (<a href="https://thechels.uk/video-shortkeys-app-for-multi-line-text-replacement-5dd7bbed">https://thechels.uk/video-shortkeys-app-for-multi-line-text-replacement-5dd7bbed</a>)
+"/thechels-uk-release-f537425cbf0b":
+  '1991323':
+    id: '1991323'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjx4emezd525
+    source: false
+    pubdate: 2026-04-20 00:00:00.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjx4emezd525%23bridgy-fed-create-2026-04-20T18:36:54.064604+00:00
+      verified: true
+      verified_date: '2026-04-20T18:37:01+00:00'
+      id: 1991323
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjx4emezd525
+        name:
+        content: Thechels.uk Version 1.11.0 (<a href="https://thechels.uk/thechels-uk-release-f537425cbf0b">https://thechels.uk/thechels-uk-release-f537425cbf0b</a>)
+        published: '2026-04-20T00:00:00+00:00'
+        published_ts: 1776643200
+      activity:
+        type: link
+      target: https://thechels.uk/thechels-uk-release-f537425cbf0b
+    author:
+    type: link
+    content: Thechels.uk Version 1.11.0 (<a href="https://thechels.uk/thechels-uk-release-f537425cbf0b">https://thechels.uk/thechels-uk-release-f537425cbf0b</a>)
+"/2026-04-20-daily-rundown": {}
