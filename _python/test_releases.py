@@ -32,7 +32,8 @@ def test_extract_repo_name_from_feed_url():
 
 
 def test_derive_project_key():
-    assert fetch_releases.derive_project_key("Search Router") == "search-router"
+    assert fetch_releases.derive_project_key(
+        "Search Router") == "search-router"
     assert fetch_releases.derive_project_key("Mltply") == "mltply"
     assert fetch_releases.derive_project_key(
         "Cheltenham Open Data") == "cheltenham-open-data"
@@ -96,7 +97,8 @@ def test_html_to_markdown_strips_bot_suffixes():
 
 def test_build_release_body_uses_placeholder_when_feed_has_no_notes():
     entry = make_entry(content=[{"value": "No content."}], summary="")
-    assert fetch_releases.build_release_body(entry) == fetch_releases.NO_RELEASE_NOTES
+    assert fetch_releases.build_release_body(
+        entry) == fetch_releases.NO_RELEASE_NOTES
 
 
 def test_build_release_body_returns_markdown_not_html():
