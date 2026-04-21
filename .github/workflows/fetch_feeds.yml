@@ -25,14 +25,14 @@ jobs:
               with:
                   python-version: "3.12"
 
-            - name: Install Python deps
-              run: pip install feedparser requests pyyaml
+            - name: Install Python Dependencies
+              run: python -m pip install -r "requirements.txt" --quiet
 
             - name: Fetch social posts
               run: |
-                python _python/local/local_fetch_social_posts.py
-                python _python/videos.py
-                python _python/releases.py
+                  python _python/fetch/fetch_social_posts.py
+                  python _python/fetch/fetch_videos.py
+                  python _python/fetch/fetch_releases.py
 
             - name: Commit updated YAML (if changed)
               run: |
