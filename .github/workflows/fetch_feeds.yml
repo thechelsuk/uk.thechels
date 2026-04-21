@@ -29,7 +29,7 @@ jobs:
               run: python -m pip install -r "requirements.txt" --quiet
               working-directory: ./_python
 
-            - name: Fetch social posts
+            - name: Fetch PESOS feeds
               run: |
                   python fetch_social_posts.py
                   python fetch_videos.py
