@@ -31,9 +31,9 @@ jobs:
 
             - name: Fetch social posts
               run: |
-                  python fetch/fetch_social_posts.py
-                  python fetch/fetch_videos.py
-                  python fetch/fetch_releases.py
+                  python fetch_social_posts.py
+                  python fetch_videos.py
+                  python fetch_releases.py
               working-directory: ./_python
 
             - name: Commit updated YAML (if changed)
