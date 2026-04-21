@@ -1,7 +1,7 @@
 from datetime import datetime, timezone
 from types import SimpleNamespace
 
-import releases
+import fetch.fetch_releases as fetch_releases
 
 
 def make_entry(**overrides):
@@ -26,17 +26,17 @@ def make_entry(**overrides):
 
 
 def test_extract_repo_name_from_feed_url():
-    assert releases.extract_repo_name(
+    assert fetch_releases.extract_repo_name(
         "https://github.com/thechelsuk/uk.thechels.search/releases.atom"
     ) == "uk.thechels.search"
 
 
 def test_derive_project_key():
-    assert releases.derive_project_key("Search Router") == "search-router"
-    assert releases.derive_project_key("Mltply") == "mltply"
-    assert releases.derive_project_key(
+    assert fetch_releases.derive_project_key("Search Router") == "search-router"
+    assert fetch_releases.derive_project_key("Mltply") == "mltply"
+    assert fetch_releases.derive_project_key(
         "Cheltenham Open Data") == "cheltenham-open-data"
-    assert releases.derive_project_key(
+    assert fetch_releases.derive_project_key(
         "Boinc @ thechelsuk") == "boinc-thechelsuk"
 
 
@@ -50,7 +50,7 @@ def test_load_release_feeds_parses_id_and_url(tmp_path):
         encoding="utf-8",
     )
 
-    assert releases.load_release_feeds(feeds_file) == [
+    assert fetch_releases.load_release_feeds(feeds_file) == [
         {
             "id": "Search Router",
             "url":
@@ -65,7 +65,7 @@ def test_load_release_feeds_parses_id_and_url(tmp_path):
 
 def test_extract_release_version_prefers_release_tag():
     entry = make_entry(title="Initial Release 1.0.0")
-    assert releases.extract_release_version(entry) == "1.0.0"
+    assert fetch_releases.extract_release_version(entry) == "1.0.0"
 
 
 def test_html_to_markdown_converts_release_notes_html():
@@ -75,7 +75,7 @@ def test_html_to_markdown_converts_release_notes_html():
         "<p><strong>Full Changelog</strong>: <a href=\"https://example.com/changelog\">https://example.com/changelog</a></p>"
     )
 
-    result = releases.html_to_markdown(source)
+    result = fetch_releases.html_to_markdown(source)
     assert "## What's Changed" in result
     assert "- Added search improvements in [#1](https://example.com/pr/1)" in result
     assert "**Full Changelog**: [https://example.com/changelog](https://example.com/changelog)" in result
@@ -88,7 +88,7 @@ def test_html_to_markdown_strips_bot_suffixes():
         "<ul><li>Bump dependency by <a href=\"https://github.com/dependabot\">@dependabot</a>[bot]"
         " in <a href=\"https://example.com/pr/2\">#2</a></li></ul>")
 
-    result = releases.html_to_markdown(source)
+    result = fetch_releases.html_to_markdown(source)
     assert "[@dependabot](https://github.com/dependabot)" in result
     assert ")[bot]" not in result
     assert "[bot]" not in result
@@ -96,12 +96,12 @@ def test_html_to_markdown_strips_bot_suffixes():
 
 def test_build_release_body_uses_placeholder_when_feed_has_no_notes():
     entry = make_entry(content=[{"value": "No content."}], summary="")
-    assert releases.build_release_body(entry) == releases.NO_RELEASE_NOTES
+    assert fetch_releases.build_release_body(entry) == fetch_releases.NO_RELEASE_NOTES
 
 
 def test_build_release_body_returns_markdown_not_html():
     entry = make_entry()
-    result = releases.build_release_body(entry)
+    result = fetch_releases.build_release_body(entry)
     assert "## What's Changed" in result
     assert "- Added search improvements" in result
     assert "<h2>" not in result
@@ -109,7 +109,7 @@ def test_build_release_body_returns_markdown_not_html():
 
 
 def test_build_release_record_uses_updated_timestamp_when_published_missing():
-    release = releases.build_release_record(
+    release = fetch_releases.build_release_record(
         "https://github.com/thechelsuk/uk.thechels.search/releases.atom",
         make_entry(published=""),
         "Search Router",
@@ -127,7 +127,7 @@ def test_build_release_record_uses_updated_timestamp_when_published_missing():
 
 
 def test_render_post_includes_required_front_matter():
-    release = releases.ReleaseRecord(
+    release = fetch_releases.ReleaseRecord(
         project_key="search",
         project_label="Search",
         repo_name="uk.thechels.search",
@@ -139,7 +139,7 @@ def test_render_post_includes_required_front_matter():
         body="Release notes",
     )
 
-    content = releases.render_post(release)
+    content = fetch_releases.render_post(release)
     assert "layout: post" in content
     assert "type: release" in content
     assert "cited: github" in content
@@ -152,7 +152,7 @@ def test_render_post_includes_required_front_matter():
 
 
 def test_create_release_post_skips_when_hash_suffix_already_exists(tmp_path):
-    release = releases.ReleaseRecord(
+    release = fetch_releases.ReleaseRecord(
         project_key="search",
         project_label="Search",
         repo_name="uk.thechels.search",
@@ -169,7 +169,7 @@ def test_create_release_post_skips_when_hash_suffix_already_exists(tmp_path):
         f"2026-04-01-search-release-{release.release_hash}.md")
     existing_file.write_text("existing", encoding="utf-8")
 
-    assert releases.create_release_post(tmp_path, release) is False
+    assert fetch_releases.create_release_post(tmp_path, release) is False
     assert existing_file.read_text(encoding="utf-8") == "existing"
     assert len(list(tmp_path.rglob("*.md"))) == 1
 
@@ -184,16 +184,16 @@ def test_process_releases_creates_new_posts_then_skips_duplicates(
     )
 
     monkeypatch.setattr(
-        releases.feedparser,
+        fetch_releases.feedparser,
         "parse",
         lambda url: SimpleNamespace(entries=[make_entry()]),
     )
 
-    first_created, first_skipped, first_failed = releases.process_releases(
+    first_created, first_skipped, first_failed = fetch_releases.process_releases(
         feeds_file=feeds_file,
         posts_root=tmp_path / "_posts",
     )
-    second_created, second_skipped, second_failed = releases.process_releases(
+    second_created, second_skipped, second_failed = fetch_releases.process_releases(
         feeds_file=feeds_file,
         posts_root=tmp_path / "_posts",
     )
