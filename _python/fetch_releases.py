@@ -6,11 +6,9 @@ from dataclasses import dataclass
 from datetime import datetime
 from typing import Any
 from urllib.parse import unquote, urlparse
-
 import feedparser
 from markdownify import markdownify as convert_html
 import yaml
-
 import helper
 
 ROOT = pathlib.Path(__file__).parent.parent.resolve()

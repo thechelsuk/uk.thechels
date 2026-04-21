@@ -1,7 +1,7 @@
 from datetime import datetime, timezone
 from types import SimpleNamespace
 
-import fetch.fetch_releases as fetch_releases
+import fetch_releases as fetch_releases
 
 
 def make_entry(**overrides):
