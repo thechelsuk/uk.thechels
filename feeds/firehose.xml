@@ -3,8 +3,9 @@ layout: null
 permalink: /firehose.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
+{% assign pub_date = site.time | date: "%Y-%m-%dT%H:%M:%SZ" %}
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <title>{{ site.title | xml_escape }} — Everything</title>
+  <title>{{ site.title | xml_escape }} — Old</title>
   <subtitle>A firehose feed</subtitle>
   <link href="{{ site.url }}/firehose.xml" rel="self" type="application/atom+xml"/>
   <link href="{{ site.url }}/" rel="alternate" type="text/html"/>
@@ -18,110 +19,18 @@ permalink: /firehose.xml
     <email>{{ site.owner.email }}</email>
     <uri>{{ site.owner.uri }}/</uri>
   </author>
-
-  {%- assign all_entries = "" | split: "" -%}
-
-  {%- for item in site.posts -%}
-    {%- assign all_entries = all_entries | push: item -%}
-  {%- endfor -%}
-
-  {%- for item in site.data.films -%}
-    {%- assign all_entries = all_entries | push: item -%}
-  {%- endfor -%}
-
-  {%- assign sorted_entries = all_entries | sort: "date" | reverse -%}
-
-  {%- assign seen_ids = "" -%}
-
-  {%- for entry in sorted_entries -%}
-    {%- if entry.id -%}
-      {%- assign entry_id = entry.id -%}
-    {%- elsif entry.url -%}
-      {%- assign entry_id = site.url | append: entry.url -%}
-    {%- else -%}
-      {%- assign entry_id = entry.link -%}
-    {%- endif -%}
-
-    {%- if seen_ids contains entry_id -%}
-      {%- continue -%}
-    {%- endif -%}
-    {%- assign seen_ids = seen_ids | append: entry_id | append: "|" -%}
-
-    {%- if entry.cited and entry.url -%}
-      {%- assign entry_link = site.url | append: entry.url -%}
-    {%- elsif entry.link -%}
-      {%- assign entry_link = entry.link -%}
-    {%- elsif entry.imdb -%}
-      {%- assign entry_link = site.url | append: "/films#" | append: entry.imdb -%}
-    {%- elsif entry.url -%}
-      {%- assign entry_link = site.url | append: entry.url -%}
-    {%- else -%}
-      {%- assign entry_link = site.url -%}
-    {%- endif -%}
-
-    {%- if entry.imdb -%}
-      {%- assign entry_source = "film" -%}
-      {%- assign film_date_year = entry.date | date: "%Y" | times: 1 -%}
-      {%- if film_date_year < 2020 -%}{%- continue -%}{%- endif -%}
-      {%- assign entry_source = entry.type -%}
-    {%- endif -%}
-
-
-    {%- if entry.type -%}
-      {%- assign entry_type = entry.type -%}
-    {%- elsif entry.collection -%}
-      {%- assign entry_type = entry.collection -%}
-    {%- else -%}
-      {%- assign entry_type = "post" -%}
-    {%- endif -%}
-
-
-{% assign min = 1 %}
-{% assign max = site.data.offers.size %}
-{% assign diff = max | minus: min %}
-{% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
-{% assign offer = site.data.offers[item] %}
-
-    {%- capture entry_footer -%}
-          <p><center>***</center></p>
-          <hr/>
-          <p>💬 Thanks for keeping RSS alive. If you have an RSS feed please share it with me on any of these <a href="https://links.thechels.uk">socials</a>.</p>
-          <p>If you get value from this site, please share this post with someone you think will like it and support me with a <a href="https://ko-fi.com/thechelsuk">ko-fi</a>.</p>
-          <p>Finally, here is a special sponsor/advert link just for you; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a><br/>[T&Cs apply].</p>
-    {%- endcapture -%}
-
-  <entry>
-    <title type="text">{{ entry_type }} - {{ entry_title | xml_escape }}</title>
-    <link rel="alternate" type="text/html" href="{{ entry_link }}"/>
-    <id>{{ entry_id | xml_escape }}</id>
-    <updated>{{ entry.date | date_to_xmlschema }}</updated>
-    <published>{{ entry.date | date_to_xmlschema }}</published>
-    <category term="{{ entry_type }}" label="{{ entry_type | capitalize }}"/>
-    {%- if entry.cited %}
-    <author>
-      <name>Quoting {{ entry.cited | xml_escape }}</name>
-      <uri>{% if entry.link %}{{ entry.link | xml_escape }}{% else %}{{ site.url }}{{ entry.url }}{% endif %}</uri>
-    </author>
-    {%- endif %}
-
-    {%- if entry_source == "film" %}
-    <content type="html"><![CDATA[
-      <h3>{{ entry.title }} ({{ entry.year }})</h3>
-      <p><strong>Rated:</strong> {{ entry.rating }}/10</p>
-      <p><strong>Added:</strong> {{ entry.date | date: "%Y-%m-%d" }}</p>
-      <p><a href="https://www.imdb.com/title/{{ entry.imdb }}/" target="_blank">View on IMDb →</a></p>
-      {{ entry_footer }}
-    ]]></content>
-    {%- elsif entry.content %}
-    <content type="html"><![CDATA[{{ entry.content }}
-          <p><center>***</center></p>
-          <p> // Published {{ entry.date | date: "%Y-%m-%d" }}, with {{ entry.content | number_of_words }} words.</p>
-          {{ entry_footer }}
-    ]]></content>
-    {%- else %}
-    <content type="html"><![CDATA[{{ entry_footer }}]]></content>
-    {%- endif %}
-  </entry>
-  {%- endfor -%}
-
+    <entry>
+      <title type="text">Moved Feed</title>
+      <link rel="alternate" type="text/html" href="https://thechels.uk/feed"/>
+      <id>https://thechels.uk/feed</id>
+      <updated>{{ post.date | date_to_xmlschema }}</updated>
+      <published>{{ post.date | date_to_xmlschema }}</published>
+      <category term="Notice" label="Notice"/>
+      <content type="html"><![CDATA[
+        <h3>Moved</h3>
+        <p><a href="{{ site.url }}/feed">You can now get the latest updates from our main feed here</a>.</p>
+        {{ footer }}
+      ]]>
+      </content>
+    </entry>
 </feed>
