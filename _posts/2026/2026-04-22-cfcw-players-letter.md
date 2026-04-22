@@ -4,7 +4,7 @@ layout: post
 date: 2026-04-22 10:52
 title: CFCW Players Letter
 link: https://www.chelseafc.com/en/cfcw-players-letter
-cited: Chelsea
+cited: Chelsea FC Women
 type: linked
 
 ---
