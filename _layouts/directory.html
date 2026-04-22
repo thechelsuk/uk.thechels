@@ -106,7 +106,7 @@
 {% endfor %}
 <ul>
     <li><b>{{ site.posts | size }}</b> total posts.</li>
-    {% assign post_types = site.posts | map: "type" | uniq | compact %}
+    {% assign post_types = site.posts | map: "type" | uniq | compact | sort %}
     {% for type in post_types %}
     {% assign type_count = site.posts | where: "type", type | size %}
     <li><b>{{ type_count }}</b> {{ type | capitalize }} posts</li>
