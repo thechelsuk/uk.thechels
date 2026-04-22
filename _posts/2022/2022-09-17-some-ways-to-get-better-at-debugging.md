@@ -10,7 +10,7 @@ cited: Julia Evans
 ---
 
 > This is the fuzziest category, we all have a lot of strategies and heuristics we pick up along the way for how to debug efficiently. For example:
-
+>
 > - writing a unit test
 > - writing a tiny standalone program to reproduce the bug
 > - finding a working version of the code and seeing what changed

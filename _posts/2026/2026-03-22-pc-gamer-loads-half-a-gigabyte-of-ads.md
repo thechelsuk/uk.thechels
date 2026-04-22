@@ -14,5 +14,5 @@ The developers who build this should be ashamed.
 Free the web. RSS forever.
 
 > A whopping 37MB webpage on initial load. But that's not the worst part. In the five minutes since I started writing this post the website has downloaded almost half a gigabyte of new ads.
-> 
+>
 > We're lucky to have so many good RSS readers that cut through this nonsense

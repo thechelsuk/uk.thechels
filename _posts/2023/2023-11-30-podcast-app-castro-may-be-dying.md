@@ -19,16 +19,16 @@ Having been subscribed to 293 podcasts it makes it hard to keep track when one i
 
 Using a VPN was a problem too.
 
-The searching for podcasts would often return multiple results - inevitably I'd pick the one that throws an unauthenticated error.  
+The searching for podcasts would often return multiple results - inevitably I'd pick the one that throws an unauthenticated error.
 
 I've cancelled my subscription.
 
-PocketCasts filters allow me to process my inbox and define my playlist just like Castro did.  All without a subscription so far, but may look at synching to iPad or a web browser if the need arises. No errors or issues.
+PocketCasts filters allow me to process my inbox and define my playlist just like Castro did.  All without a subscription so far, but may look at syncing to iPad or a web browser if the need arises. No errors or issues.
 
 RIP Castro.
 
 > Castro has been a popular iOS podcast app for many years, but right now things look grim....
-
+>
 > The cloud database that backs the service is broken and needs to be replaced. As a result, the app has broken....
-
+>
 > What’s worse, according to former Castro team member Mohit Mamoria, “Castro is being shut down over the next two months.”

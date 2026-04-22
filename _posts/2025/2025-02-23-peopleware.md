@@ -278,9 +278,9 @@ IBM studied the work habits of those who would occupy the space. They concluded:
 #### Workplace quality and product quality
 
 > Workers who reported before the exercise that their workplace was acceptably quiet were one-third more likely to deliver zero-defect work.
-
+>
 > Zero-defect workers: 66% reported noise level okay
-
+>
 > One-or-more-defect workers: 8% reported noise level okay
 
 When a worker complains about noise, he's telling you that he is likely to be defect-prone.
@@ -739,8 +739,6 @@ If a team starts normalizing overtime, people who don't share the pain will beco
 - Performance measurement in almost any form
 
 Any action that rewards team members differentially is likely to foster competition. Managers need to take steps to decrease or counteract this effect.
-
-### Competition
 
 Internal competition in work team is fostered by managers with lack of time, respect, attention and affection for his or her own people.
 

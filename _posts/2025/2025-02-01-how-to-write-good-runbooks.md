@@ -10,7 +10,7 @@ cited: Raviraj Achar
 ---
 
 > Qualities of a Good Runbook:
-  
+>
 > - A single runbook focuses on a single problem: short & sweet.
 > - It has the necessary steps to confirm the problem in the form of graphs & dashboard links.
 > - It is easy to follow, even for a relatively new person on the team, and eliminates any guessing game.

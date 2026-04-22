@@ -10,5 +10,5 @@ cited: Sky News
 ---
 
 > **Here's one of my secrets for investigating...** People often reuse usernames. By tracking a username across platforms, databases, and forums, you can build a surprisingly complete profile, even if the person thinks they've been discreet.
-
+>
 > **Curiosity, genuine, relentless curiosity, is the single most important skill in this profession…** You have to be deeply interested in people, behaviours, patterns, and anomalies. It's that instinct to ask why, to dig one layer deeper than everyone else, that often leads to the breakthrough. You can teach someone the technical elements, but curiosity, in my opinion, can't be taught. It's either part of your mindset, or it's not.
