@@ -10,7 +10,7 @@ cited: Brent Simmons (inessential.com)
 ---
 
 > But what if I wanted to do a web app, in addition to or instead of a native app?
-
+>
 > I can picture a future, as I bet you can, where RSS readers aren't allowed on any app store, and we're essentially required to use billionaire-owned social media and platform-owned news apps.
-
+>
 > But there are issues with making NetNewsWire a web app.

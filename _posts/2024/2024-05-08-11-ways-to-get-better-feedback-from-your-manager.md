@@ -10,7 +10,7 @@ cited: Wes Kao
 ---
 
 > In this week’s newsletter, we’ll cover how to get more and better feedback from your manager:
-
+>
 > 1. Make it insanely easy for your manager to give you feedback.
 > 2. “Feedback” might feel loaded. Ask what to do differently and what worked well.
 > 3. Give them permission to rip your work apart.
