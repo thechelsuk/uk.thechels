@@ -2,7 +2,7 @@
 date: 2025-06-08
 title: "The promise that wasn’t kept"
 type: linked
-cited: "Salma Alam-Naylor"
+cited: Salma Alam-Naylor
 link: https://whitep4nth3r.com/blog/the-promise-that-wasnt-kept/
 seo: "AI is distracting us from creating real value. While we chase speed and automation"
 tags:

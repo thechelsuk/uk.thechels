@@ -2,7 +2,7 @@
 date: 2025-08-02
 title: "The Verge Launches New Site Features Aimed at Deepening Audience Engagement"
 type: linked
-cited: "Dane McMillan"
+cited: Dane McMillan
 link: https://www.theverge.com/press-room/710921/verge-site-features-launch-newsletters
 seo: "The site’s users can now follow reporters and topics, and receive a personalized daily email digest."
 tags:

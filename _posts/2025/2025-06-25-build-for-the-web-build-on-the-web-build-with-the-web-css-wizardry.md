@@ -2,7 +2,7 @@
 date: 2025-06-25
 title: "Build for the Web"
 type: linked
-cited: "Harry Roberts"
+cited: Harry Roberts
 link: https://csswizardry.com/2025/01/build-for-the-web-build-on-the-web-build-with-the-web/
 seo: "What is the real, long-term cost of adopting a JavaScript framework?"
 tags:
