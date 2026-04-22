@@ -29,7 +29,7 @@ permalink: /videos.xml
      {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
      {% assign offer = site.data.offers[item] %}
       <entry>
-        <title type="html"><![CDATA[ + {{ post.title | cdata_escape }}]]></title>
+        <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
         <link rel="alternate" type="text/html" href="{{ site.url }}/{{ post.url }}" />
         <id>{{ site.url }}{{ post.id }}</id>
         <published>{{ build_date }}</published>
