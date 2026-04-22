@@ -2,7 +2,7 @@
 date: 2026-04-21 01:05
 title: "Community Letter from Tim Apple"
 type: linked
-cited: "Apple"
+cited: Apple
 link: https://www.apple.com/community-letter-from-tim/
 seo: "Tim's letter to the Apple community"
 

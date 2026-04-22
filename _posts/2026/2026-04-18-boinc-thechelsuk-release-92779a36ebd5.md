@@ -4,7 +4,7 @@ date: '2026-04-18'
 title: Boinc @ thechelsuk Version 1.0.0
 type: release
 type: linked
-cited: github
+cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.boinc/releases/tag/1.0.0
 release_id: tag:github.com,2008:Repository/136165675/1.0.0
 release_repo: uk.thechels.boinc
