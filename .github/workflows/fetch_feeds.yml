@@ -31,7 +31,6 @@ jobs:
 
             - name: Fetch PESOS feeds
               run: |
-                  python fetch_social_posts.py
                   python fetch_videos.py
                   python fetch_releases.py
               working-directory: ./_python
