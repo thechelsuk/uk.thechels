@@ -1,14 +1,9 @@
 ---
-
 layout: post
-date: YYYY-MM-DD
-link: url
 title: post title
-type: linked
-cited: source name
+date: YYYY-MM-DDH HH:MM
+type: blog
 syndicate_to: [ mastodon, bluesky, reddit ]
 ---
 
-my comment
-
-> quote
+content

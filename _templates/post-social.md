@@ -1,10 +1,10 @@
 ---
+
+layout: post
+date: YYYY-MM-DD HH:MM
 title: post title
-author: name
-tags: [news, app]
-date: YYYY-MM-DD
-type: blog
+type: social
 syndicate_to: [ mastodon, bluesky, reddit ]
 ---
 
-content
+my comment
