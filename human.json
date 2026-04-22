@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "url": "https://thechels.uk/",
   "vouches": [
     {
@@ -9,6 +9,10 @@
     {
       "url": "https://nedbatchelder.com/",
       "vouched_at": "2026-04-14"
+    },
+    {
+      "url": "https://nuchronic.uk",
+      "vouched_at": "2026-04-21"
     }
   ]
 }
