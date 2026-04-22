@@ -4,6 +4,7 @@ layout: post
 date: 2024-05-08
 link: https://newsletter.weskao.com/p/get-better-feedback
 title: 11 ways to get better feedback from your manager
+type: linked
 cited: Wes Kao
 
 ---

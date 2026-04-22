@@ -4,6 +4,7 @@ layout: post
 date: 2025-06-27
 link: https://www.theregister.com/2025/06/03/uk_government_study_ai_time_savings/
 title: GDS say Copilot AI saved workers 26 minutes a day
+type: linked
 cited: The Register
 
 ---

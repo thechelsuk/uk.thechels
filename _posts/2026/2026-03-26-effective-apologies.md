@@ -1,6 +1,7 @@
 ---
 date: 2026-03-26
 title: "Effective Apologies"
+type: linked
 cited: "Vlad-Stefan Harbuz"
 link: https://vlad.website/apologies/
 seo: "Resources on how to apologise effectively."

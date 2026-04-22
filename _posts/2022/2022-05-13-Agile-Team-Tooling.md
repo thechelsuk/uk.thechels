@@ -3,6 +3,7 @@ title: Agile Team Tooling
 layout: post
 date: 2022-05-13
 
+type: blog
 ---
 
 A couple of tools to support agile team working

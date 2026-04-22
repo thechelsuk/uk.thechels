@@ -4,6 +4,7 @@ layout: post
 date: 2025-05-15
 link: https://www.linkedin.com/posts/bryan-finster_i-have-a-prediction-about-developer-productivity-activity-7328869142067929088-ae__
 title: Quoting Bryan Finster
+type: linked
 cited: Bryan Finster
 
 ---

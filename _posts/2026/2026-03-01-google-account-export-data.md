@@ -4,6 +4,7 @@ title: How to get data from your Google account
 seo: Ways - Google account export data
 
 link: https://takeout.google.com/
+type: linked
 cited: Google
 date: 2026-03-01
 type: ways

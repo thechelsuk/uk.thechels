@@ -3,6 +3,7 @@ layout: post
 title: Fool proof dairy free yorkshire pudding
 tag:
 
+type: blog
 ---
 
 Fool proof method for yorkshire pudding which is also dairy free.

@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-07
 link: https://www.smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/ https://cate.blog/2022/04/04/the-anatomy-of-a-11/amp/
 title: Refactoring Strategy, Regression Testing And Maintenance
+type: linked
 cited: Smashing Magazine
 
 ---

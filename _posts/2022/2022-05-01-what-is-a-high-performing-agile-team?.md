@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-01
 link: https://www.mountaingoatsoftware.com/blog/what-is-a-high-performing-agile-team
 title: What Is a High-Performing Agile Team?
+type: linked
 cited: Mike Cohn
 
 ---

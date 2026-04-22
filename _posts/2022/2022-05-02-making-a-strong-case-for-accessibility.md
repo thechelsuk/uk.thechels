@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-02
 link: https://www.smashingmagazine.com/2021/07/strong-case-for-accessibility/
 title: Making A Strong Case For Accessibility
+type: linked
 cited: Smashing Magazine
 
 ---

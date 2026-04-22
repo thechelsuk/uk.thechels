@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-19
 link: https://developer.mozilla.org/en-US/blog/h1-element-styles/
 title: Default styles for h1 elements are changing
+type: linked
 cited: MDN
 
 ---

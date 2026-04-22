@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-28
 link: https://cate.blog/2025/02/25/questions-for-the-end-of-a-11/
 title: Questions for the End of a one-to-one
+type: linked
 cited: Cate Huston (Accidentally in Code)
 
 ---

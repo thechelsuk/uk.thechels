@@ -4,6 +4,7 @@ layout: post
 date: 2022-09-09
 link: https://blog.1password.com/git-commit-signing/
 title: Sign your Git commits with 1Password
+type: linked
 cited: 1Password
 
 ---

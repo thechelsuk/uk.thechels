@@ -4,6 +4,7 @@ layout: post
 date: 2025-07-27
 link: https://www.gov.uk/government/news/boost-in-support-for-patients-with-chronic-fatigue-syndrome-or-me
 title: Boost in support for patients with chronic fatigue syndrome or ME
+type: linked
 cited: Gov.uk
 tags: [ME]
 

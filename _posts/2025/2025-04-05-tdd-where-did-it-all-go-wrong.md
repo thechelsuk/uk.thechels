@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-05
 link: https://vimeo.com/68375232
 title: TDD where did it all go wrong?
+type: linked
 cited: Vimeo
 ---
 

@@ -4,6 +4,7 @@ layout: post
 date: 2025-05-21
 link: https://nealstephenson.substack.com/p/remarks-on-ai-from-nz
 title: Remarks on AI - Neal Stephenson Technology Commentary
+type: linked
 cited: Neal Stephenson
 
 ---

@@ -2,6 +2,7 @@
 title: Women's super league broadcasting
 layout: post
 date: 2024-09-29
+type: blog
 ---
 
 I spoke to my dad in the summer about how rubbish the FA player was for casting, often streaming the wrong game on the wrong channel and generally a poor UI/UX on the player itself.

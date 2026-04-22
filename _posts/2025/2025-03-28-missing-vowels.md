@@ -4,6 +4,7 @@ layout: post
 date: 2025-03-28
 title: Missing Vowels - Football Player Name Game Archive
 
+type: blog
 ---
 
 One from the archives, I used to run a twitter bot that would tweet a footballer's name with the vowels, spaces and hyphens removed and then tweet the answer a few minutes later.

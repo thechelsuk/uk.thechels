@@ -4,6 +4,7 @@ layout: post
 date: 2026-04-21 01:00
 title: Boring Tiny Tools
 link: https://vaughntan.org/boringtinytools
+type: linked
 cited: Vaughn Tan
 class: indie
 

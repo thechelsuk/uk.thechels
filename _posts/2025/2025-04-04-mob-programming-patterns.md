@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-04
 link: https://github.com/michaelkeeling/mob-programming-patterns
 title: Mob Programming Patterns
+type: linked
 cited: Michael Keeling
 
 ---

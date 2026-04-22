@@ -4,6 +4,7 @@ title: How to add a Hue Dimmer Switch to HomeKit
 seo: Ways - Hue Dimmer Switch and HomeKit
 
 link: https://www.reddit.com/r/Hue/comments/yopggl/comment/ivg11ri
+type: linked
 cited: Reddit
 date: 2026-03-01
 type: ways

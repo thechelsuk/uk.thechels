@@ -3,8 +3,9 @@ layout: post
 title: EPL Index - The Rise and Rise of Salomon Kalou – Opta Analysis
 tag:
  - chelsea
+type: blog
 ---
- 
+
 Salomon Kalou confuses. The Ivorian sparks debate and splits Chelsea fans as to whether he is even worth a place in the side, courted by Arsene Wenger, there must be something about the man whose contract is up at the end of the season. Rumours are that he has been offered a new 4 year deal.
 
 Kalou has always been a squad player at Chelsea and holds the all time record for substitute appearances, he has been a hero, crossing that ball on to Riise’s head in the Champions League. late goals against Manchester United and Tottenham in recent seasons, a hat trick against Stoke in a 7-0 thumping,  but from game to game he is much maligned.  Screen Shot 2012 03 25 at 23.40.48 300x186 The Rise and Rise of Salomon Kalou   Opta Analysis

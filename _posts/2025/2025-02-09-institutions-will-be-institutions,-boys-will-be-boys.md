@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-09
 title: Institutions will be institutions - boys will be boys
 
+type: blog
 ---
 
 Fatalism that no matter how one is educated, how one is nurtured it's inevitable that certain characteristics or behaviours will exist.

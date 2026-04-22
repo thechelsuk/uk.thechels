@@ -4,6 +4,7 @@ layout: post
 date: 2025-09-23
 link: https://daringfireball.net/linked/2025/09/23/goddard-kimmel
 title: Wake-Up Call
+type: linked
 cited: John Gruber (Daring Fireball)
 
 ---

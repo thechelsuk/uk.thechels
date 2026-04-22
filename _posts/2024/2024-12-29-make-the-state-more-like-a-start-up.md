@@ -2,6 +2,7 @@
 layout: post
 date: 2024-12-29
 title: Make the state more like a start up
+type: linked
 cited: Gov.uk
 link: https://www.gov.uk/government/news/pat-mcfadden-vows-to-make-the-state-more-like-a-start-up-as-he-deploys-reform-teams-across-country
 ---

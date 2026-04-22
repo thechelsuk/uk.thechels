@@ -3,6 +3,7 @@ title: Ongoing Offers- June 2025
 layout: post
 date: 2025-06-19
 
+type: blog
 ---
 
 - [£50 - Switch to Octopus Energy for £50 credit.](https://bit.ly/3oD1nnS)

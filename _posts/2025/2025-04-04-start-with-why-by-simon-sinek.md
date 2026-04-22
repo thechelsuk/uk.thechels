@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-04
 title: Start with Why by Simon Sinek
 
+type: blog
 ---
 
 'Start with Why' is an inspirational book by Simon Sinek that centers on asking yourself deep, meaningful questions that help you understand your purpose in life and exactly why you wish to actualize it. It talks about how you can achieve truly remarkable things by simply focusing on the 'why' associated with things.

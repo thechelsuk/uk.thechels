@@ -4,6 +4,7 @@ layout: post
 date: 2026-03-01
 link: https://www.theatlantic.com/technology/2026/03/inside-anthropics-killer-robot-dispute-with-the-pentagon/686200/
 title: Inside Anthropic’s Killer-Robot Dispute With the Pentagon
+type: linked
 cited: The Atlantic
 
 ---

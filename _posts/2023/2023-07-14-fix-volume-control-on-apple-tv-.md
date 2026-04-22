@@ -2,8 +2,8 @@
 
 layout: post
 date: 2023-07-14
-title: Fix volume control on Apple TV 
-cited: 
+title: Fix volume control on Apple TV
+type: blog
 
 ---
 

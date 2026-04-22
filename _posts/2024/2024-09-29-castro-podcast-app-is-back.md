@@ -3,6 +3,7 @@ layout: post
 date: 2024-09-29
 link: https://castro.fm/blog/castro-explore-ios-18
 title: Castro Podcast app is back
+type: linked
 cited: Castro
 ---
 

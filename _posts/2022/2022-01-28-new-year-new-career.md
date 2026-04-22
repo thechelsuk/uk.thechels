@@ -3,6 +3,7 @@
 layout: post
 title: New year, new career
 
+type: blog
 ---
 
 *Even if you don’t believe in New Year’s Resolutions, the start of the year is a great time to reflect on your career and make goals for the months ahead.*

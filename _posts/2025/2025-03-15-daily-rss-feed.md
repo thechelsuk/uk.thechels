@@ -4,6 +4,7 @@ title: Daily RSS Feed - Jekyll Automation and Schedule Setup
 seo: How I built a daily page and RSS feed in Jekyll
 date: 2025-03-15
 
+type: blog
 ---
 
 I have been producing a [daily rundown](/daily) using some scheduled python scripts for a while now. I use a shortcut on my iOS to alert and then open this webpage on a schedule (at sunrise).

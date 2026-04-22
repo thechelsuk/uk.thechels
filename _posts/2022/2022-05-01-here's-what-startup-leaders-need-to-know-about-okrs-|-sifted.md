@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-01
 link: https://sifted.eu/articles/startup-leaders-okrs/
 title: What startup leaders need to know about OKRs
+type: linked
 cited: Sifted EU
 
 ---

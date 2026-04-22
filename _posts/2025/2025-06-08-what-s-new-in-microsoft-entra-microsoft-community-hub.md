@@ -1,7 +1,8 @@
 ---
 date: 2025-06-08
 title: "OTP Delivery via WhatsApp in Microsoft Entra ID"
-cited: ""
+type: linked
+cited: Microsoft
 link: https://techcommunity.microsoft.com/blog/microsoft-entra-blog/what%E2%80%99s-new-in-microsoft-entra/3796395
 seo: "Check out the latest new feature and change announcements across Microsoft Entra."
 tags:

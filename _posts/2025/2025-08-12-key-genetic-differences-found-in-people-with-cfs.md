@@ -4,6 +4,7 @@ layout: post
 date: 2025-08-12
 link: https://www.newscientist.com/article/2491509-key-genetic-differences-found-in-people-with-chronic-fatigue-syndrome/
 title: Key genetic differences found in people with CFS
+type: linked
 cited: New Scientist
 
 ---

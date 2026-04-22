@@ -3,6 +3,7 @@ layout: post
 date: 2024-12-29
 link: https://github.blog/news-insights/product-news/github-copilot-in-vscode-free/
 title: A new free tier for GitHub Copilot in VS Code
+type: linked
 cited: GitHub
 ---
 

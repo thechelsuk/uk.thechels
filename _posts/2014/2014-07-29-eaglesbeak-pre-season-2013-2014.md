@@ -2,6 +2,7 @@
 layout: post
 title: Eaglesbeak -Pre-season 2013-2014
 link: https://theeaglesbeak.com/2014/08/08/view-from-the-opposition-part-1/
+type: linked
 cited: Jay Crame
 tag:
  - chelsea

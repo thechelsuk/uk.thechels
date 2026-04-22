@@ -5,6 +5,7 @@ date: 2025-10-13
 title: Diagnosis
 permalink: /diagnosis
 
+type: blog
 ---
 
 Last week my GP confirmed a diagnosis of ME CFS.

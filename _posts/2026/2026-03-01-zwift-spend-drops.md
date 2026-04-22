@@ -4,6 +4,7 @@ title: How to spend Zwift Drops
 seo: Ways - How to spend Zwift Drops
 
 link: https://zwiftinsider.com/what-to-buy-at-each-zwift-level/
+type: linked
 cited: Zwift Insider
 date: 2026-03-01
 type: ways

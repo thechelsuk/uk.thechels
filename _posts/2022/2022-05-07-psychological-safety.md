@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-07
 link: https://peoplefirstengineering.substack.com/p/psychological-safety
 title: Psychological Safety
+type: linked
 cited: John Durrant
 
 ---

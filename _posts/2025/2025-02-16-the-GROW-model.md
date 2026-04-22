@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-16
 title: The GROW Model - Goals, Realities, Options, and Will
 
+type: blog
 ---
 
 GROW is an acronym that stands for Goals, Realities, Options, and Will, and it has several purposes. It helps you and your employees clarify their initial goals, assess what’s currently happening, and identify potential roadblocks. It also helps your people brainstorm both opportunities and resources for growth.

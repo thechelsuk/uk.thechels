@@ -2,8 +2,8 @@
 
 layout: post
 date: 2023-06-17
-title: Deleted Reddit account 
-cited: 
+title: Deleted Reddit account
+type: blog
 
 ---
 
@@ -11,4 +11,4 @@ I deleted my Reddit account this week.
 
 Having deleted my facebook account years and years ago and my Twitter account last year.
 
-Bad leadership will always catch up with you. 
+Bad leadership will always catch up with you.

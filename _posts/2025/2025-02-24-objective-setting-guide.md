@@ -4,10 +4,10 @@ layout: post
 date: 2025-02-24
 title: Objective Setting and Evidencing Guide
 
+type: blog
 ---
 
 _Notes: Publish this somewhere on the intranet or wiki, so it's visible to your direct reports/teams. There should be no surprises_
-
 
 ## Purpose
 

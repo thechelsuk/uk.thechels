@@ -6,6 +6,7 @@ title: You Should Probably Leave Substack
 link: https://leavesubstack.com/
 seo: substack supports Nazis
 
+type: blog
 ---
 
 > Unfortunately, Substack willingly platforms, and allows bad actors to monetize, hate speech and misinformation.

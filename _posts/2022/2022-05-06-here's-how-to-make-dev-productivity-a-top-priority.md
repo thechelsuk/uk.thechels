@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-06
 link: https://sifted.eu/articles/developer-productivity-top-priority/
 title: Here's how to make dev productivity a top priority
+type: linked
 cited: Sifted EU
 
 ---

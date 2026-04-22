@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-18
 title: Sprint Review Q and A
 
+type: blog
 ---
 
 To provide some 'go to' questions for sprint reviews. By asking these every sprint, the teams will hopefully realise this and come prepared with answers. We can then move these questions on to more challenging things in the hope of driving out better working practices, better sprint reviews and better happier people.

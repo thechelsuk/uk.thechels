@@ -3,6 +3,7 @@ title: Announcing Hiyd Extension
 layout: post
 date: 2025-06-19
 tags:
+type: blog
 ---
 
 Today I'm happy to announce that Hiyd  extension is now generally available via the [Chrome Web Store](https://chromewebstore.google.com/detail/hiyd/hkeklhoojnogpfmiikadpcmkmpldhpce).

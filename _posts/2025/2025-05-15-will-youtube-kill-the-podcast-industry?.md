@@ -4,6 +4,7 @@ layout: post
 date: 2025-05-15
 link: https://justinjackson.ca/youtube-kill-podcasting
 title: Will YouTube kill the podcast industry?
+type: linked
 cited: Justin Jackson
 
 ---

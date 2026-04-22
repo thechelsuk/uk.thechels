@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-17
 title: Logic Trees - Strategic Problem Decomposition Method
 
+type: blog
 ---
 
 Every strategy starts with a set of problems to be solved. The strategy is a set of solutions to those problems. The logic tree branches out as a decomposition of a problem

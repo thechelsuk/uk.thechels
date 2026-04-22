@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-23
 title: Elegant Puzzle - Systems of Engineering Management
 
+type: blog
 ---
 
 
@@ -169,7 +170,7 @@ The most important opportunity is designing your software to be flexible. If you
 
 An anti-pattern is the gatekeeper pattern. Having people who perform gatekeeping activities create very odd social dynamics, build systems with sufficient isolation so when they occasionally fail, make sure that they fail with a limited blast radius.
 
----
+***
 
 As a closing though, the way you handle urgent project requests when you're already underwater is by learning to say no.
 

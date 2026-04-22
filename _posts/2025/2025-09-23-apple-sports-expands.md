@@ -4,6 +4,7 @@ layout: post
 date: 2025-09-23
 link: https://www.apple.com/newsroom/2025/09/apple-sports-adds-widgets-and-expands-to-eight-new-countries/
 title: Apple Sports expands
+type: linked
 cited: Apple
 
 ---

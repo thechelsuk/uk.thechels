@@ -4,6 +4,7 @@ layout: post
 date: 2022-07-24
 link: https://successfulsoftware.net/2022/06/19/no-one-knows-what-they-are-doing/
 title: No-one knows what they are doing
+type: linked
 cited: Successful Software
 
 ---

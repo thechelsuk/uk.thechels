@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-10
 title: Introducing slash green
 
+type: blog
 ---
 
 Big fan of the [slash pages](https://slashpages.net) "movement" in the IndieWeb seen such that I would like to introduce my own suggestion.

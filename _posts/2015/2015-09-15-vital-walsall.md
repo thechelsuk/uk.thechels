@@ -3,6 +3,7 @@ layout: post
 title: Vital Walsall - Chelsea - A Fans View
 tags:
  - chelsea
+type: blog
 ---
 
 > We contacted ChelseaStats earlier with some probing questions about Chelsea, Jose Mourinho and Wednesday's match. Here are the answers.

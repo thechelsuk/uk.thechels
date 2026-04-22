@@ -2,6 +2,7 @@
 title: We need to talk
 layout: post
 date: 2022-06-06
+type: blog
 
 ---
 

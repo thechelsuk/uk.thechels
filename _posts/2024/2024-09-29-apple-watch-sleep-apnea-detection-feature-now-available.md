@@ -4,6 +4,7 @@ layout: post
 date: 2024-09-29
 link: https://www.macrumors.com/2024/09/16/apple-watch-sleep-apnea-feature-150-countries/
 title: Apple Watch Sleep Apnea Detection Feature Now Available
+type: linked
 cited: MacRumors
 
 ---

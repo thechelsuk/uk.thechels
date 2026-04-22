@@ -2,6 +2,7 @@
 layout: post
 title : Mute filters for Tweetbot
 tags:
+type: blog
 ---
 
 A bunch of regexes for muting on TweetBot, the popular iOS/Mac twitter app.

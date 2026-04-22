@@ -4,6 +4,7 @@ layout: post
 date: 2026-04-16 04:22
 title: Stop treating your newsletters as glorified RSS feeds
 link: https://simonowens.substack.com/p/stop-treating-your-newsletters-as
+type: linked
 cited: Simon Owens
 
 ---

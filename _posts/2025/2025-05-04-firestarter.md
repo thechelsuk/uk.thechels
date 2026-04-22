@@ -3,6 +3,7 @@
 layout: post
 date: 2025-05-04
 title: Firestarter - Leadership and Problem Prevention Strategy
+type: quote
 cited: Emma Hayes
 
 ---

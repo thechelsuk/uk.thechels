@@ -1,6 +1,7 @@
 ---
 date: 2025-08-02
 title: "How to provide feedback on documents"
+type: linked
 cited: Will Larson (Lethain)
 link: https://lethain.com/providing-feedback-on-writing/
 seo: "how to provide feedback on documents"

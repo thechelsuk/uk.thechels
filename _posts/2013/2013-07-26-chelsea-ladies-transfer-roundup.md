@@ -3,6 +3,7 @@ layout: post
 title: Chelsea Ladies - Transfer Roundup
 tag:
 - chelsea
+type: blog
 ---
 
 It has been a busy pre-mid-season for Emma Hayes and her coaching staff as both Olina Viddarsdottir and Edda Gardarsdottir both left the club and returned home to Iceland, with the former making brief substitute appearances at Euro 2013 in Sweden.

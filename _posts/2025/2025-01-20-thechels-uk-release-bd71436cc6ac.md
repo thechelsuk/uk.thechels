@@ -3,6 +3,7 @@ layout: post
 date: '2025-01-20'
 title: Thechels.uk Version 1.4.0
 type: release
+type: linked
 cited: github
 link: https://github.com/thechelsuk/uk.thechels/releases/tag/1.4.0
 release_id: tag:github.com,2008:Repository/107385143/1.4.0
@@ -21,6 +22,7 @@ Bumps [actions/cache]([https://github.com/actions/cache](https://github.com/acti
 
 - [Commits]([actions/cache@v3...v4](https://github.com/actions/cache/compare/v3...v4))
 
+type: blog
 ---
 
 updated-dependencies:

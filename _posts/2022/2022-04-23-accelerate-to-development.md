@@ -4,6 +4,7 @@ layout: post
 date: 2022-04-23
 title: Adapting Accelerate to Development
 link: https://holub.com/adapting-accelerate-to-development/
+type: linked
 cited: Allen Holub
 
 ---

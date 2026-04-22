@@ -4,6 +4,7 @@ layout: post
 date: 2023-12-17
 link: https://tidyfirst.substack.com/p/canon-tdd
 title: Canon TDD - by Kent Beck 
+type: linked
 cited: Kent Beck
 
 ---

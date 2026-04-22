@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-08
 link: https://lethain.com/measures-of-engineering-impact/
 title: Measures of engineering impact
+type: linked
 cited: Will Larson (Lethain)
 
 ---

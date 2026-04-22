@@ -5,12 +5,12 @@ date: 2023-05-23
 title: Curated interview process
 cited:
 
+type: blog
 ---
 
 Here's a rundown of the best set of interview questions I've developed after doing over 200 interviews in the last two years, and how to run a successful interview process for engineers.
 
 Regardless of the outcome, it's important to give everyone a good experience. So we go through the majority of questions and provide honest and candid feedback to all candidates in a timely manner.
-
 
 ## Introduction
 
@@ -42,7 +42,7 @@ Welcome the candidate and set the scene and ensure all parties can be seen and h
 - A good follow up is to ask what they would change about that process? Showing a level of self-reflection/awareness
 - For senior hires I’d ask what stopped them from changing it?
 
-### What’s your approach to testing? And can you talk us through a recent bug and its resolution.
+### What’s your approach to testing? And can you talk us through a recent bug and its resolution
 
 - Looking for test pyramid knowledge and different testing types and then a deep dive into a bug.
 - A good follow up is if a test was added to the regression or what would they do differently next time.
@@ -68,7 +68,7 @@ Welcome the candidate and set the scene and ensure all parties can be seen and h
 - Be ready and expect to describe ways of working, team structures, agile, progression, culture, if anything are unsure about always ask them what would good look like to them? What would be their preference. This makes it easy to agree or acknowledge.
 - Probe for more.
 
-### Finally;
+### Finally
 
 - Ask salary expectations (recruiters inflate!)
 - Explain next steps in the process

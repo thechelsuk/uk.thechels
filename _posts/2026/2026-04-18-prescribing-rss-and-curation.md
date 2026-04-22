@@ -1,6 +1,7 @@
 ---
 date: 2026-04-18 23:28
 title: Prescribing a course of RSS and Curation
+type: linked
 cited: "readbeanicecream"
 link: https://readbeanicecream.surge.sh/2026/04/10/rss-gets-you-off-the-platform-curation-gets-you-off-the-drug/
 seo: ""

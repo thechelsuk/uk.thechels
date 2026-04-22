@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-02
 link: https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/
 title: How to Freaking Find Great Developers By Having Them Read Code
+type: linked
 cited: Freaking Rectangle
 
 ---

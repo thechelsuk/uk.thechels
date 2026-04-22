@@ -4,6 +4,7 @@ layout: post
 date: 2023-11-30
 link: https://sixcolors.com/post/2023/11/castro-podcast-app-goes-down-and-may-be-dying/
 title: Podcast app Castro may be dying
+type: linked
 cited: Six Colors
 
 ---
@@ -14,7 +15,7 @@ Castro changed the way I use inboxes/queue for managing my listening. It was my 
 
 As a long time paying subscriber of Castro it has deteriorated since the sale/merge. Running PocketCasts in parallel showed how far Castro has fallen. Podcasts would drop days or weeks after release, often needing manual refreshing, occasionally I would get 10 episodes drop in one go, some dates months ago that I had missed, whilst PocketCasts got new episodes in my inbox instantly. Finding new podcasts is easy and error free.
 
-Having been subscribed to 293 podcasts it makes it hard to keep track when one isn't working in Castro. 
+Having been subscribed to 293 podcasts it makes it hard to keep track when one isn't working in Castro.
 
 Using a VPN was a problem too.
 
@@ -25,8 +26,8 @@ I've cancelled my subscription.
 PocketCasts filters allow me to process my inbox and define my playlist just like Castro did.  All without a subscription so far, but may look at synching to iPad or a web browser if the need arises. No errors or issues.
 
 RIP Castro.
- 
->  Castro has been a popular iOS podcast app for many years, but right now things look grim....
+
+> Castro has been a popular iOS podcast app for many years, but right now things look grim....
 
 > The cloud database that backs the service is broken and needs to be replaced. As a result, the app has broken....
 

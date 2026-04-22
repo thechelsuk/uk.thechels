@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-23
 title: The Lean Startup
 
+type: blog
 ---
 
 - [Introduction](#introduction)
@@ -75,6 +76,7 @@ _Clayton Christensten The Innovator's Dilemma_: Companies very good at increment
 Innovation is a bottoms-up, decentralized, and unpredictable thing. It does not mean it cannot be managed. Cultivating entrepreneurship is the responsibility of senior management. Leadership requires creating conditions that enable employees to do the kinds of experimentation that entrepreneurship requires.
 
 ## Learn
+
 As an engineer or manager, people are accustomed to measure progress by making sure work proceeded according to the plan, it is high quality and cost fits projections. As an entrepreneur, this might not be the best way of measuring progress. **What if we found ourselves building something that nobody wants?**
 
 If the fundamental goal of entrepreneurship is to engage in organization building under conditions of extreme uncertainty, its most vital function is learning. We must learn what customers really want, not what they say they want or what we think they should want.
@@ -88,11 +90,14 @@ The question is not "Can this product be built?" but more like "Should this prod
 **If the plan is to see what happens, a team is guaranteed to succeed – at seeing what happens – but won't necessarily gain validated learning**. If you cannot fail, you cannot learn. A true experiment follows the scientific method. It begins with clear hypothesis that makes predictions and it then tests predictions empirically. Startup experimentation is guided by startup's vision. The goal of startups is to discover how to build a sustainable business around that vision.
 
 The two most important assumptions entrepreneurs make are:
+
 - The _value hypothesis_ tests whether a product or service really delivers value to customers. Experiments provide a more accurate gauge.
 - The _growth hypothesis_ tests how new customers will discover a product or service. The point is not to find the average customer but to find _early adopters_. Those customers tend to be more forgiving of mistakes and are especially eager to give feedback.
 
 ### An experiment is a product
+
 Good questions for the team to answer why developing product:
+
 - Do consumers recognise that they have the problem you are trying to solve?
 - If there was a solution, would they buy it?
 - Would they buy it from us?
@@ -131,15 +136,14 @@ The first step in understanding a new product or service is to figure out if it 
 
 It's essential that entrepreneurs understand the reasons behind a startup's growth. There are many value-destroying kinds of growth that should be avoided (a business that grows through continuos fund-raising from investors and lots of paid advertising but does not develop a value-creating product).
 
-
 ### Design and customer archetype
 
 The goal of the early contact with customers is not to gain definitive answers but to clarify at a basic level that we understand our potential customer and what problems they have. **The archetype is a brief document that represents a target customer and serves as a guide for product development.** An archetype is an hypothesis, not a fact.
 
-
 ### Analysis paralysis
 
 There are two ever-present dangers:
+
 - **Just-do-it** school of entrepreneurship are impatient to get started and don't want to spend time analyzing their strategy.
 - Others fall victim to **analysis paralysis**, talking to customers, reading research reports and whiteboard strategizing are all equally unhelpful.
 
@@ -213,6 +217,7 @@ If we are not moving the drivers of our business model, we are not making progre
 > We tracked the "funnel metrics" behaviours that were critical to our engine of growth. Five dollars bought us a hundred clicks every day. From a marketing point of view this was not very significant, but for learning it was priceless. Every single day we were able to measure our product's performance with a brand new set of customers. Each day was a new experiment.
 
 ### Cohort analysis
+
 Instead of looking at cumulative totals or gross numbers such as total revenue and total number of customers, one looks at the performance of customers that comes into contact with the product independently.
 
 > Out of frustration of not knowing what to do I was finally ready to turn to the last resort: talking to customers. I was ready to ask the right questions.
@@ -234,6 +239,7 @@ Many features that make the product better in the eyes of engineers and designer
 ### The value of the three a's
 
 Three A's of metrics:
+
 - **Actionable**: It must demonstrate clear cause and effect.
 - **Accessible**: Reports as simple as possible so everyone understands them. Use tangible, concrete units. Cohort-based reports are the gold standard of metrics: they turn complex actions into people reports. Reports deal with people and their actions. Accessibility also refers to widespread access to the reports.
 - **Auditable**: The data is credible to employees. The loser of the argument would challenge the veracity of the data. **We need to test the data by hand by talking to customers. This is the only way to be able to check if the reports contain true facts.** This also has the benefit to giving insight into why customers are behaving the way the data indicate.
@@ -322,7 +328,6 @@ Instead of working in separate departments, engineers and designers would work t
 - **Hardware becoming software.** What can be built out of software can be modified much faster than a physical or mechanical device can.
 - **Fast production changes**. When the design changes, there is no excess inventory of the old version to slow things down. Since machines are designed for rapid changeovers, as soon as the new design is ready, new version can be produced quickly.
 - **3D printing and rapid prototyping tools**. By reducing the batch size, we can get through the Build-Measure-Learn feedback loop more quickly than our competitors can.
-
 
 ## Growth
 

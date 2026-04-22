@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-24
 title: Optimising for Teams
 
+type: blog
 ---
 
 - We work in small cross-functional teams with a focus on collaboration

@@ -4,6 +4,7 @@ layout: post
 date: 2025-12-09
 link: https://www.gov.uk/government/news/covid-fraud-cost-uk-taxpayer-109-billion-reveals-independent-report
 title: Covid fraud cost UK taxpayer £10.9 billion
+type: linked
 cited: Gov.uk
 tags: [ME]
 ---

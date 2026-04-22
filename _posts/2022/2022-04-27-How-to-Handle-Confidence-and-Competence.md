@@ -4,6 +4,7 @@ title: How to Handle Confidence and Competence
 date: 2022-04-27
 layout: post
 
+type: blog
 ---
 
 

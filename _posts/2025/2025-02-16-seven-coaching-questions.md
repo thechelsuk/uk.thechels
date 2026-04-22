@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-16
 title: Seven Coaching Questions
 
+type: blog
 ---
 
 Here are seven questions to ask during each coaching session.

@@ -4,6 +4,7 @@ layout: post
 date: 2024-05-07
 link: https://castro.fm/blog/pricing-updates
 title: Castro new pricing under new ownership
+type: linked
 cited: Castro
 
 ---

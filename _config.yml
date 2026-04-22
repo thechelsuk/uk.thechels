@@ -39,7 +39,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      syndicate_to: [ mastodon, bluesky, reddit ]
+      syndicate_to:
 plugins:
   - jekyll-avatar
   - jekyll-github-metadata
@@ -104,8 +104,6 @@ navigation_data:
     title: "Films"
   - link: "/constraints"
     title: "Constraints"
-  - link: "/socials"
-    title: "Socials"
   - link: "/sitemap"
     title: "Sitemap (xml)"
 
@@ -123,6 +121,14 @@ navigation_archives:
     title: "Videos"
   - link: "/archives/rundowns"
     title: "Daily Rundowns"
+  - link: "/archives/socials"
+    title: "Socials"
+  - link: "/archives/quotes"
+    title: "Quotes"
+  - link: "/archives/linked"
+    title: "Linked Quotes"
+  - link: "/archives/blogs"
+    title: "Blog Posts"
 
 ## SubMenu
 navigation_slashes:
@@ -177,14 +183,14 @@ navigation_slashes:
 
 ## Footer links
 navigation_footer:
-  - link: "/firehose.xml"
-    title: "Firehose (xml)"
+  - link: "/about#colophon"
+    title: "Colophon"
   - link: "/feed"
     title: "Feed (xml)"
   - link: "/feed.json"
     title: "Feed (json)"
-  - link: "/rss.xml"
-    title: "Feed - Alt (xml)"
+  - link: "/feeds"
+    title: "More feeds"
   - link: "/robots.txt"
     title: "Robots (txt)"
   - link: "/llms.txt"
@@ -207,8 +213,7 @@ navigation_footer:
   - link: "/.well-known/dnt-policy.txt"
     title: "DNT Policy (txt)"
 
-  - link: "/about#colophon"
-    title: "Colophon"
+
   - link: "/save"
     title: "Sponsors"
   - link: "https://links.thechels.uk"

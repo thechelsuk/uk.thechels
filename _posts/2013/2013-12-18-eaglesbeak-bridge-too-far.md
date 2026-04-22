@@ -2,6 +2,7 @@
 layout: post
 title: Eaglesbeak - A bridge too far
 link: https://theeaglesbeak.com/2013/12/15/bridge-far/
+type: linked
 cited: Jay Crame
 tag:
  - chelsea

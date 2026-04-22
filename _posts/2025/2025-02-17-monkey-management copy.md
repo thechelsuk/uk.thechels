@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-17
 title: Monkey Management
 
+type: blog
 ---
 
 Monkey management is a structured approach to preventing problems from getting delegated upward. in 1974, William Oncken, Jr., and Donald l. Wass published an article in Harvard Business Review that referred to unsolved problems as ‘monkeys’ and the problem of managers unwittingly reducing their effectiveness by taking ownership of monkeys that rightfully need to stay with the employee.
@@ -19,7 +20,6 @@ A manager’s job is to develop employees, create opportunities, remove obstacle
 - Employees who are both willing and able to solve problems
 
 ## How do you use it
-
 
 1. When an employee presents you with a problem, clarify what your employee expects. in a highly functional manager-employee relationship, the employee may just want to be heard and feel understood. After some empathetic listening, simply asking the employee “What do you need from me?” can often result in “nothing, i just needed someone to talk to. thanks for listening.” Don’t breed monkeys.
 

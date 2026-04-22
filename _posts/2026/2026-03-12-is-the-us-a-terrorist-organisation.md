@@ -4,6 +4,7 @@ layout: post
 date: 2026-03-12
 title: Is the US a Terrorist organisation
 
+type: blog
 ---
 
 According to the [Terrorism Act](https://www.cps.gov.uk/types-crime/terrorism) on the UK Government's Crown Prosecution Service Website;

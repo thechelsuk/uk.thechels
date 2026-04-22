@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-17
 title: SBIR Framework for giving positive feedback
 link: https://www.buildthestage.com/how-to-give-positive-feedback-to-colleagues-with-examples
+type: linked
 cited: Build the Stage
 ---
 

@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-02
 link: https://callumakehurstryansblog.wordpress.com/2021/09/08/lets-charm-our-teams-with-charisma-testing/
 title: Let’s charm our teams with Charisma testing
+type: linked
 cited: Callum Akehurst-Ryan
 
 ---

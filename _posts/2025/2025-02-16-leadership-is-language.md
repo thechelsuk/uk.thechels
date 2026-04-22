@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-16
 title: Leadership is Language
 link: https://smile.amazon.co.uk/dp/0241373662/
+type: linked
 cited: David Marquet
 ---
 
@@ -17,7 +18,7 @@ cited: David Marquet
 >
 > The language of the old approach to leadership is deterministic and binary – all about doing, not about thinking.
 >
-> ## Ask open-ended questions.
+> ## Ask open-ended questions
 >
 > Next time you want to move from one phase of a project to the next, don’t ask your team to sign off on a decision you’ve already made. That means avoiding a question like, "Everyone OK with this?" or "This looks fine, right?" Instead, ask, "How could this be improved?" or "On a scale of one to five, how confident are you feeling about moving ahead?" That way, you’ll get better and more diverse input – and a more motivated team to boot.
 >

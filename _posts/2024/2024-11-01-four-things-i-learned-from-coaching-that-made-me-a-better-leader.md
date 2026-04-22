@@ -3,6 +3,7 @@ layout: post
 date: 2024-11-01
 link: https://cate.blog/2024/10/08/four-things-i-learned-from-coaching-that-made-me-a-better-leader/
 title: Four things I learned from coaching that made me a better leader
+type: linked
 cited: Accidentally in Code
 ---
 

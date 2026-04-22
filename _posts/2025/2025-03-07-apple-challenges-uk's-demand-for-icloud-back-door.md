@@ -4,6 +4,7 @@ layout: post
 date: 2025-03-07
 link: https://www.ft.com/content/3d8fe709-f17a-44a6-97ae-f1bbe6d0dccd
 title: Apple Challenges UK's Demand for iCloud Back Door
+type: linked
 cited: FT
 
 ---

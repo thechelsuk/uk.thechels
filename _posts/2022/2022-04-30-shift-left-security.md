@@ -4,6 +4,7 @@ layout: post
 date: 2022-04-30
 link: https://www.darkreading.com/edge-ask-the-experts/what-steps-do-i-take-to-shift-left-in-security
 title: Shift Left Security
+type: linked
 cited: Dark Reading
 
 ---

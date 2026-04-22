@@ -4,6 +4,7 @@ title: Week Eight - Training Consistency and Mile Building
 total: [24.3]
 tag:
   - runs
+type: blog
 ---
 
 Monday afternoon easy run for 5.4 miles, the usual commute.

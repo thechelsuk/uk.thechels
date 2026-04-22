@@ -3,6 +3,7 @@ layout: post
 date: 2025-02-01
 link: https://cate.blog/2025/01/21/what-makes-a-good-team/amp/
 title: What Makes a Good Team
+type: linked
 cited: Cate Huston (Accidentally in Code)
 ---
 

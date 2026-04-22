@@ -4,6 +4,7 @@ layout: post
 date: 2026-01-23
 link: https://joetiedeman.uk/2026/01/22/snyk-is-shutting-down-the-securityheaders-com-api/
 title: Snyk is shutting down the securityheaders.com API
+type: linked
 cited: Joe Tiedeman
 
 ---

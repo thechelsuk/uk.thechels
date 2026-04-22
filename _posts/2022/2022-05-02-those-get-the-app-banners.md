@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-02
 link: https://css-tricks.com/those-get-the-app-banners/
 title: Those Get The App Banners
+type: linked
 cited: CSS Tricks
 
 ---

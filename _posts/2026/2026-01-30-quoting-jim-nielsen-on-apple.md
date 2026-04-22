@@ -4,6 +4,7 @@ layout: post
 date: 2026-01-30
 link: https://notes.jim-nielsen.com/#2026-01-28T0737
 title: Quoting Jim Nielsen on Apple
+type: linked
 cited: Jim Nielsen
 
 ---

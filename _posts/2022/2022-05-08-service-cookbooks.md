@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-08
 link: https://lethain.com/service-cookbooks/
 title: Service cookbooks
+type: linked
 cited: Will Larson (Lethain)
 
 ---

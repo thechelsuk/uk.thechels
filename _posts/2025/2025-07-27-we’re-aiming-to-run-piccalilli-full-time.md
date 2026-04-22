@@ -4,6 +4,7 @@ layout: post
 date: 2025-07-27
 link: https://bell.bz/were-aiming-to-run-piccalilli-full-time/
 title: Andy aiming to run Piccalilli full time
+type: linked
 cited: Andy Bell
 
 ---

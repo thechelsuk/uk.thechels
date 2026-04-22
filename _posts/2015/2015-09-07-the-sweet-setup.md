@@ -2,6 +2,7 @@
 layout: post
 title: The Sweet Setup
 tag:
+type: blog
 ---
 
 > Every week we post a new interview with someone about what software they use on their Mac, iPhone, or iPad. We do these interviews because not only are they fun, but a glimpse into what tools someone uses and how they use those tools can spark our imagination and give us an idea or insight into how we can do things better.

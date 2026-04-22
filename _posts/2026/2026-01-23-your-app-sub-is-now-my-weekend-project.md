@@ -4,6 +4,7 @@ layout: post
 date: 2026-01-23
 link: https://rselbach.com/your-sub-is-now-my-weekend-project
 title: Your App Sub Is Now My Weekend Project
+type: linked
 cited: Roberto Selbach
 
 ---

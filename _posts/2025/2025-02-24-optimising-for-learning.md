@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-24
 title: Optimising for Learning
 
+type: blog
 ---
 
 We optimise for learning by not rushing into code, thinking more and planning well, such that we can uncover the simplest solution to a problem eliminating waste (you ain't gonna need it YAGNI, keep it simple KIS, maximising the work not done)
