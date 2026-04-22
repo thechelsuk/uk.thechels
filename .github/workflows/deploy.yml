@@ -5,6 +5,10 @@ on:
     push:
         branches:
             - main
+    workflow_run:
+      workflows: [daily, fetch-feeds]
+      types:
+        - completed
 
 permissions:
     contents: read

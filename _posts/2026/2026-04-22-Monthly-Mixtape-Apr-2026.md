@@ -36,7 +36,4 @@ What I've been listening to this month.
 22. Do The Gruesome - Dead Freights
 23. Out of Time Man - Mick Harvey
 
-You can listen along on [Apple Music here](https://music.apple.com/profile/thechelsuk) as well as see the [archive here](/tag/mixtapes).
-
-
-
+You can listen along on [Apple Music here](https://music.apple.com/profile/thechelsuk) as well as see the [archive here](/archives/mixtapes).
