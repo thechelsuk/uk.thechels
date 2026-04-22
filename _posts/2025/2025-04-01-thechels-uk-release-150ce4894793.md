@@ -3,8 +3,6 @@ layout: post
 date: '2025-04-01'
 title: Thechels.uk Version 1.6.0
 type: release
-type: linked
-cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels/releases/tag/1.6.0
 release_id: tag:github.com,2008:Repository/107385143/1.6.0
 release_repo: uk.thechels
