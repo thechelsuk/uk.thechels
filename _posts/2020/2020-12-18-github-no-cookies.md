@@ -4,6 +4,7 @@ layout: post
 title: GitHub removes non-essential cookies
 date: 2020-12-18
 tag:
+type: linked
 cited: GitHub
 link: https://github.blog/news-insights/company-news/no-cookie-for-you/
 

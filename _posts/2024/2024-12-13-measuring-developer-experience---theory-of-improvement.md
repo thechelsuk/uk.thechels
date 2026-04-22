@@ -3,6 +3,7 @@ layout: post
 date: 2024-12-13
 link: https://lethain.com/measuring-developer-experience-benchmarks-theory-of-improvement/
 title: Measuring developer experience - theory of improvement
+type: linked
 cited: Will Larson (Lethain)
 ---
 

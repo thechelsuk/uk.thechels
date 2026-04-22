@@ -4,12 +4,12 @@ layout: post
 date: 2023-08-12
 link: https://moneyweek.com/personal-finance/pensions/small-pension-pots-to-be-consolidated-dwp
 title: Small pension pots to be consolidated says DWP
+type: linked
 cited: Moneyweek
 
 ---
 
-No doubt these consolidators will be charging a high fee and these modest pots will be worthless come retirement. 
-
+No doubt these consolidators will be charging a high fee and these modest pots will be worthless come retirement.
 
 > Default “consolidator” schemes will be created to sweep up small deferred pension pots worth less than £1,000.
 

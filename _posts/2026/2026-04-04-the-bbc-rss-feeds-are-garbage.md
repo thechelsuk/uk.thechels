@@ -4,15 +4,16 @@ layout: post
 date: 2026-04-04 12:00
 link: https://stuartbreckenridge.net/2026-04-03-the-bbcs-rss-feed/
 title: The BBC RSS Feeds are garbage
+type: linked
 cited: Stuart Breckenridge
 
 ---
 
-This must be due to the unique way the Beeb is funded. 
+This must be due to the unique way the Beeb is funded.
 
 I stopped subscribing to all BBC feeds because of this very reason, many, many moons ago.
 
-I love RSS and more so given my accessibility needs so to see and be reminded of how it is abused this way is frustrating 
+I love RSS and more so given my accessibility needs so to see and be reminded of how it is abused this way is frustrating
 
 > Due to the _incorrect_ way the BBC's [RSS 2.0 feed](http://feeds.bbci.co.uk/news/uk/rss.xml) handles `guid`s, RSS readers are repeatedly left displaying [duplicate articles](https://discourse.netnewswire.com/t/duplicates-of-the-articles/202).
 >

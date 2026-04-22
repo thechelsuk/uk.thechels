@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-18
 title: Five step coaching habit
 
+type: blog
 ---
 
 To build an effective new habit, you need five essential components: a reason, a trigger, a micro-habit, effective practice, and a plan.

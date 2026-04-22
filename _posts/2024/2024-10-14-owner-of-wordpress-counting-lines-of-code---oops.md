@@ -2,6 +2,7 @@
 layout: post
 date: 2024-10-14
 title: Owner of Wordpress counting lines of code - Oops
+type: blog
 ---
 
 lol.

@@ -4,6 +4,7 @@ layout: post
 date: 2025-07-27
 link: https://meassociation.org.uk/2025/07/gov-uk-issues-a-press-release-that-the-delivery-plan-on-me-cfs-has-been-published/
 title: Gov.UK Issues Presser on ME/CFS Delivery Plan
+type: linked
 cited: ME Association
 tags: [ME]
 ---

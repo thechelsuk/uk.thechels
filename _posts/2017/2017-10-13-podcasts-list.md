@@ -2,6 +2,7 @@
 layout: post
 title: Podcasts - Personal Listening List and Recommendations
 tags:
+type: blog
 ---
 
 - Do By Friday

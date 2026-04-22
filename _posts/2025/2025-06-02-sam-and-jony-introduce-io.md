@@ -4,6 +4,7 @@ layout: post
 date: 2025-06-02
 link: https://openai.com/sam-and-jony/
 title: Sam and Jony introduce io
+type: linked
 cited: OpenAI
 
 ---

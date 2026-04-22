@@ -4,6 +4,7 @@ title: How to find Minecraft seeds maps
 seo: Ways - How to find Minecraft seeds maps
 
 link: https://www.chunkbase.com/apps/seed-map
+type: linked
 cited: Chunkbase
 date: 2026-03-01
 type: ways

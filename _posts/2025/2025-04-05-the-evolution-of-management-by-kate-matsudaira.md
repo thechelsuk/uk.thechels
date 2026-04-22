@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-05
 link: https://queue.acm.org/detail.cfm?id=3350548
 title: The Evolution of Management
+type: linked
 cited: Kate Matsudaira
 ---
 

@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-16
 title: DORA Key Capabilities
 
+type: blog
 ---
 
 Capabilities that drive improvement, according to research in 2017 - leading to the publication of the book Accelerate by Nicole Forsgren, PhD, Jez Humble, and Gene Kim.

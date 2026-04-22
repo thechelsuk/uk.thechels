@@ -4,6 +4,7 @@ layout: post
 date: 2025-08-12
 link: https://castro.fm/blog/device-sync-and-ipad
 title: Castro adds device sync
+type: linked
 cited: Castro
 
 ---

@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-16
 title: PRACTICE coaching Model
 
+type: blog
 ---
 
 ## Problem identification (P)

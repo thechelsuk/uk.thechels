@@ -4,6 +4,7 @@ layout: post
 date: 2025-11-30
 link: https://notes.jim-nielsen.com#2025-11-28T2318
 title: Keeping it simple
+type: linked
 cited: Jim Nielsen
 
 ---

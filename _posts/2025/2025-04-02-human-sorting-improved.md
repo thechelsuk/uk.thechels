@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-02
 link: https://nedbatchelder.com/blog/202503/human_sorting_improved.html
 title: Human sorting improved
+type: linked
 cited: Ned Batchelder
 
 ---

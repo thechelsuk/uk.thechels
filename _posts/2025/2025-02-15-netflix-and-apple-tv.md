@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-15
 link: https://spyglass.org/netflix-apple-tv/
 title: Netflix and Apple TV
+type: linked
 cited: Spyglass
 
 ---

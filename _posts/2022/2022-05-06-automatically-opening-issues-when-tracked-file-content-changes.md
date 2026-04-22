@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-06
 link: https://simonwillison.net/2022/Apr/28/issue-on-changes/
 title: Automatically opening issues when tracked file content changes
+type: linked
 cited: Simon Willison
 
 ---

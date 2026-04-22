@@ -3,6 +3,7 @@ Layout: default
 Title: TypeScript for Pythonistas
 Tags:
 
+type: blog
 ---
 
 Allison Kaptur, writing for Medium

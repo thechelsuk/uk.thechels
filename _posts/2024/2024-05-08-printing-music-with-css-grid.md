@@ -4,6 +4,7 @@ layout: post
 date: 2024-05-08
 link: https://cruncher.ch/blog/printing-music-with-css-grid/
 title: Printing music with CSS Grid
+type: linked
 cited: Cruncher
 
 ---

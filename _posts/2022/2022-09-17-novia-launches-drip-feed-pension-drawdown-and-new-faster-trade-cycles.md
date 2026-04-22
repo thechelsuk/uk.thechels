@@ -4,6 +4,7 @@ layout: post
 date: 2022-09-17
 link: https://ifamagazine.com/article/novia-launches-drip-feed-pension-drawdown-and-new-faster-trade-cycles/
 title: Novia launches drip feed pension drawdown and new faster trade cycles
+type: linked
 cited: IFA Magazine
 
 ---

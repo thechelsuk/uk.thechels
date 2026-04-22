@@ -4,11 +4,12 @@ layout: post
 date: 2025-11-30
 link: https://ifamagazine.com/cash-isa-cut-update-from-jason-hollands-on-the-devil-in-the-detail/
 title: Cash ISA cut – devil in the detail
+type: linked
 cited: IFA Magazine
 
 ---
 
-Cash for fees, money market funds? 
+Cash for fees, money market funds?
 
 > An [HMRC bulletin](https://www.gov.uk/government/publications/tax-free-savings-newsletter-19/tax-free-savings-newsletter-19-november-2025) has today outlined the intended measures:
 

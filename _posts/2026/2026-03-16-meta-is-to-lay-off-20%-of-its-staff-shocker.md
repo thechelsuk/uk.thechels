@@ -4,6 +4,7 @@ layout: post
 date: 2026-03-16
 link: https://pxlnv.com/linklog/reuters-meta-layoffs-rumour/
 title: Meta is to lay off 20% of Its staff shocker
+type: linked
 cited: Nick Hear
 
 ---

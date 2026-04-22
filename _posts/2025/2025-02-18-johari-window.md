@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-18
 title: The Johari Window
 
+type: blog
 ---
 
 The Johari window is a technique that helps people better understand their relationship with themselves and others.

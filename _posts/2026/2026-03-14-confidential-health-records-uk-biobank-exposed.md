@@ -4,19 +4,20 @@ layout: post
 date: 2026-03-14
 link: https://www.theguardian.com/science/2026/mar/14/confidential-health-records-exposed-online-uk-biobank
 title: Confidential health records UK BioBank exposed
+type: linked
 cited: The Guardian
 
 ---
 
-This is fine. 
+This is fine.
 
 > UK Biobank, which holds the medical records of 500,000 British volunteers, is one of the world's most comprehensive stores of health information and is credited with driving breakthroughs in cancer, dementia and diabetes research. But scientists approved to access Biobank's sensitive data appear to have sometimes been cavalier about its security.
 
 ***
 
->  Last month, the government extended Biobank's access to volunteers' GP records.
+> Last month, the government extended Biobank's access to volunteers' GP records.
 
-*** 
+***
 
 > The issue emerged because journals and funders increasingly require researchers to publish the code they have used to analyse large datasets. When intending to upload code, some researchers have also accidentally published partial or entire Biobank datasets to GitHub, a popular online code-sharing platform. UK Biobank prohibits researchers from sharing data outside their systems and says it has introduced further training for all researchers.
 

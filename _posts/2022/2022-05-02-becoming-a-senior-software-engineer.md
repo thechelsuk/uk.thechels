@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-02
 link: https://www.karllhughes.com/posts/senior-software-engineer
 title: Becoming a Senior Software Engineer
+type: linked
 cited: Karl Hughes
 
 ---

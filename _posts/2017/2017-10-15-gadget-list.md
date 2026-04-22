@@ -2,6 +2,7 @@
 layout: post
 title: Gadgets - Essential Tech Tools and Device Collection
 tags:
+type: blog
 ---
 
 - iPad Pro 12.9'

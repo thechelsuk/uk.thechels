@@ -4,6 +4,7 @@ layout: post
 date: 2026-03-19
 link: https://www.economist.com/united-states/2026/03/18/how-the-iran-war-is-hurting-donald-trump
 title: The Trump Paradox
+type: linked
 cited: The Economist
 
 ---

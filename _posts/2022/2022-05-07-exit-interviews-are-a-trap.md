@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-07
 link: https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/
 title: Exit Interviews Are a Trap
+type: linked
 cited: Jacob Kaplan-Moss
 
 ---

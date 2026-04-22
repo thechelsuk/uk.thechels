@@ -4,6 +4,7 @@ layout: post
 date: 2022-06-12
 link: https://lethain.com/career-checkup/
 title: Career checkup template
+type: linked
 cited: Will Larson (Lethain)
 
 ---

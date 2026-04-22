@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-04
 link: https://blog.probablyfine.co.uk/2019/11/07/how-i-split-stories.html
 title: How I split stories
+type: linked
 cited: Probably Fine
 
 ---

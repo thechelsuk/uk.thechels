@@ -4,6 +4,7 @@ layout: post
 date: 2025-09-09
 link: https://www.apple.com/uk/
 title: Blood Pressure support in Apple Watch Series 9+
+type: linked
 cited: Apple
 
 ---

@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-02
 link: https://itrevolution.com/cynefin-four-frameworks-of-portfolio-management/
 title: Cynefin the Four Frameworks of Portfolio Management
+type: linked
 cited: IT Revolution
 
 ---

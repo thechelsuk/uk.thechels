@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-03
 link: https://github.blog/developer-skills/career-growth/how-engineers-can-use-one-on-ones-with-their-manager-to-accelerate-career-growth/
 title: Reframing your perception of what a one-on-one can accomplish
+type: linked
 cited: GitHub
 
 ---

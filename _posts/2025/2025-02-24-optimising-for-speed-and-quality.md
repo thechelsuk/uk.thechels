@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-24
 title: Optimising for Speed and Quality
 
+type: blog
 ---
 
 ## Speed = Cycle time & Deployment Frequency
@@ -18,6 +19,6 @@ Other variants of this metric include lead time - the time from story creation t
 
 **Change failure rate** = is a measure of how often a deployment results in an incident, that is a degradation of service such that our users cannot perform the outcome intended, this isn't the same as a bug. We measure this as a percentage of deployments that have failed _and high performing teams have a change failure rate of less than 3%_ - By optimising for low change failure rate (or **CFR**) we end up with more deployments. A once a year deployment encompassing 12 months of changes has a much greater risk of failure and would be 100%. By increasing the number of deployments to say 26.. say once a sprint.. then the percentage for that one breaking change is 1/26 or 3.84% but if we do get to multiple deployments a day so 700 a year ish, that becomes 0.143% and elite!
 
-**Mean time to restore** = is a measure in hours of how long it takes to restore the service to a working state. _High performing teams typically restore within an hour_. Optimising for ***MTTR*** means having a strong CI/CD pipeline and the ability to revert a deployment, it's a lot easier to revert a deployment when the change is smaller, reducing the impact on our customers. So by trying to optimise for restoration we value having a smaller deployment.
+**Mean time to restore** = is a measure in hours of how long it takes to restore the service to a working state. _High performing teams typically restore within an hour_. Optimising for _**MTTR**_ means having a strong CI/CD pipeline and the ability to revert a deployment, it's a lot easier to revert a deployment when the change is smaller, reducing the impact on our customers. So by trying to optimise for restoration we value having a smaller deployment.
 
 > Quality is everyone's responsibility - W. Edwards Deming

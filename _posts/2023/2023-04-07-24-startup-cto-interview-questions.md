@@ -4,6 +4,7 @@ layout: post
 date: 2023-04-07
 link: https://www.karllhughes.com/posts/cto-interview-questions
 title: 24 Startup CTO Interview Questions
+type: linked
 cited: Karl Hughes
 
 ---

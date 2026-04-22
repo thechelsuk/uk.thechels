@@ -3,6 +3,7 @@ layout: post
 date: 2024-09-29
 link: https://www.gov.uk/service-manual/technology/using-progressive-enhancement
 title: If you use JavaScript
+type: linked
 cited: Gov.uk
 ---
 

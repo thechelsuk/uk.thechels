@@ -3,6 +3,7 @@
 layout: post
 title: Highway Maintenance
 
+type: blog
 ---
 
 In many ways, engineering is not unlike driving on a motorway.
@@ -14,7 +15,6 @@ See, to run a successful engineering team, it can be useful to step back and ima
 Here at Seccl, we hire and develop Associate Engineers, Software Engineers, QA Engineers, Senior Engineers, Engineering Managers, Heads of Engineering and more.
 
 Now, I’m not comparing our engineers to cars, but it’s fair to say they all perform differently and have varying engine capabilities, gears, brakes and components. (Okay, maybe I am comparing our engineers to cars.)
-
 
 But looking at our engineering culture through a “motorway maintenance" lens can be helpful in terms of simplifying a complex working system.
 

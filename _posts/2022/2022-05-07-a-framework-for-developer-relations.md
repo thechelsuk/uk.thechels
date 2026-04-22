@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-07
 link: https://devrelbook.substack.com/p/a-framework-for-developer-relations
 title: A Framework for Developer Relations
+type: linked
 cited: DevRelBook
 
 ---

@@ -4,6 +4,7 @@ title: Everyday health rules
 date: 2020-12-17
 tag:
 
+type: blog
 ---
 
 1. Rise early and go to bed early

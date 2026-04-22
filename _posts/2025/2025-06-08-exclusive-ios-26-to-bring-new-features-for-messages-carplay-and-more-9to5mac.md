@@ -1,6 +1,7 @@
 ---
 date: 2025-06-08
 title: "Markdown export in Apple Notes"
+type: linked
 cited: 9to5Mac
 link: https://9to5mac.com/2025/06/03/exclusive-ios-26-messages-carplay-more/
 seo: "Based on information shared with 9to5Mac, here are five features that have flown under the radar and that might be announced on Monday."

@@ -4,6 +4,7 @@ layout: post
 date: 2025-05-15
 link: https://blog.probablyfine.co.uk/2024/09/27/why-breaking-down-work-is-important.html
 title: Why breaking down work is important
+type: linked
 cited: Probably Fine
 
 ---

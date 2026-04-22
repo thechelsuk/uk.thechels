@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-04
 title: Plant the Seed - Growth and Investment Philosophy
 
+type: blog
 ---
 
 Rather, invest in the best greenhouse, and the most appropriate compost/soil, and then water as frequently as needed and let them grow.

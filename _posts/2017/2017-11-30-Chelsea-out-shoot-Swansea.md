@@ -5,6 +5,7 @@ date: 2017-11-30T19:48:13Z
 tag:
   - stats
 Source: ChelseaFC
+type: blog
 ---
 
 Chelsea had 21 shots against Swansea, with ten on target. Our opponents mustered just two shots but neither tested our goal keeper.

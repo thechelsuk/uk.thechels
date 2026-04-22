@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-01
 link: https://shoreline.io/blog/the-guide-to-automating-runbook-execution
 title: The Guide to Automating Runbook Execution
+type: linked
 cited: Shoreline
 
 ---

@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-15
 link: https://sijobling.com/petals/
 title: Measure team health with Petals
+type: linked
 cited: Si Jobling
 
 ---

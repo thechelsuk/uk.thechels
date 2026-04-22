@@ -3,6 +3,7 @@
 layout: post
 date: 2025-05-04
 title: Attitude is a choice
+type: linked
 cited: Viktor E. Frankl
 
 ---

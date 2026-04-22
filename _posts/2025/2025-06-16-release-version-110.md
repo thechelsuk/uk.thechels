@@ -4,6 +4,7 @@ author: Mat
 tags:
 date: 2025-06-16
 
+type: blog
 ---
 
 Happy to announce a minor version bump to Hiyd; your Jekyll companion app.

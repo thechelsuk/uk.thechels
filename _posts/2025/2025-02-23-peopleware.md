@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-23
 title: Peopleware - Productive Projects and Teams
 
+type: blog
 ---
 
 - [Preface](#preface)
@@ -127,8 +128,7 @@ How is it possible that higher quality coexists with higher productivity?
 
 > **The trade-off between price and quality does not exist in japan. Rather, the idea that high quality brings on cost reduction is widely accepted.**
 
-
-#### Quality is free, but...
+#### Quality is free, but
 
 Letting the builder set a satisfying quality standard of his own will result in a productivity gain sufficient to offset the cost of improved quality.
 
@@ -164,7 +164,6 @@ The surprising part of the 1985 Jeffrey-Lawrence study is that no estimates outp
 
 **Schedule pressure needs to be made in much the same way you decide whether or not to punish your child.**
 
-
 #### Variation on a theme by Parkison
 
 > Organizational busy work tends to expand to fill the working day
@@ -185,23 +184,28 @@ False hopes engendered by easy technological nonsolutions are like Sirens. An at
 
 The seven false hopes of software management:
 
-* There is some new trick you've missed that could send productivity soaring.
+- There is some new trick you've missed that could send productivity soaring.
+
 > The line that there is some magical innovation out there that you've missed a pure fear tactic, employed by those with a vested interest in selling it.
 
-* Other managers are getting gains of 100% or 200% more!
+- Other managers are getting gains of 100% or 200% more!
 
-* Technology is moving so swiftly that you're being passed by.
+- Technology is moving so swiftly that you're being passed by.
+
 > Productivity within the software industry has improved by 3 to 5 percent a year
 
-* Changing languages will give you huge gains.
+- Changing languages will give you huge gains.
+
 > It might give you a 5% gain
 
-* Because of the backlog, you need to double productivity immediately.
+- Because of the backlog, you need to double productivity immediately.
 
-* Isn't about time you automate your software development staff?
+- Isn't about time you automate your software development staff?
+
 > The belief that software developers do easily automatable work is a fallacy. Principal work is communication to organize users's expressions of needs into formal procedure.
 
-* Your people will work better if you put them under a lot of pressure.
+- Your people will work better if you put them under a lot of pressure.
+
 > They won't, they'll just enjoy it less.
 
 #### This is management
@@ -239,10 +243,11 @@ Management had decided after due reflection that they couldn't really do much ab
 #### Productivity nonfactors
 
 From studies run in _Coding War Games_ in many organizations, the following factors had little or no correlation to performance:
-* **Language**, with exceptions on assembly language obviously
-* **Years of experience**, with the exception of people with less than 6 months of experience.
-* **Number of defects**, zero-defect workers paid no performance penalty for doing more precise work. In fact, they took slightly less time.
-* **Salary**, very weak relationship between salary and performance.
+
+- **Language**, with exceptions on assembly language obviously
+- **Years of experience**, with the exception of people with less than 6 months of experience.
+- **Number of defects**, zero-defect workers paid no performance penalty for doing more precise work. In fact, they took slightly less time.
+- **Salary**, very weak relationship between salary and performance.
 
 #### You may want to hide this from your boss
 
@@ -266,9 +271,9 @@ A penny saved on the work space is a penny earned on the bottom line. Savings ha
 
 IBM studied the work habits of those who would occupy the space. They concluded:
 
-* 100 square feet of dedicated space per worker.
-* 30 square feet of work surface per person.
-* Noise protection in form of enclosed offices or 6-foot-high partitions.
+- 100 square feet of dedicated space per worker.
+- 30 square feet of work surface per person.
+- Noise protection in form of enclosed offices or 6-foot-high partitions.
 
 #### Workplace quality and product quality
 
@@ -285,7 +290,6 @@ When a worker complains about noise, he's telling you that he is likely to be de
 Worker density is inversely proportional to dedicated space per person.
 
 Noise is directly proportional to density, so halving the allotment of space per person can be expected to double the noise.
-
 
 #### Hiding out
 
@@ -460,9 +464,9 @@ You don't have to solve the space problem for the whole institution. If you can 
 
 ## The right people
 
-* Get the right people
-* Make them happy so they don't want to leave.
-* Turn them loose.
+- Get the right people
+- Make them happy so they don't want to leave.
+- Turn them loose.
 
 ### The Hornblower factor
 
@@ -513,17 +517,17 @@ The most successful manager is the one who shakes up the local entropy to bring 
 
 Using a gun to lead means you have to "lead" from behind. In the workplace, is replaced with a delegated authority and position of power.
 
-
 #### Leadership as a service
 
 It happens outside the official hierarchy of delegated authority. Leadership is not about extracting anything from us; it's about service. Enables endeavors to go forth. Sometimes directions are set, but their role is as a catalyst, not as a director.
 
 In order to lead without positional authority:
-* Step up to the task
-* Be fit for the task
-* Prepare for the task, ahead of time
-* Maximize value to everyone
-* Do it all with humor and goodwill
+
+- Step up to the task
+- Be fit for the task
+- Prepare for the task, ahead of time
+- Maximize value to everyone
+- Do it all with humor and goodwill
 
 It will help to have charisma.
 
@@ -583,9 +587,9 @@ Not only is the structure wastefully top-heavy, it tends to have very lightweigh
 
 #### Why people leave
 
-* A just-passing-through mentality.
-* Feeling of disposability. Management think of workers as interchangeable parts.
-* A sense that loyalty would be ludicrous.
+- A just-passing-through mentality.
+- Feeling of disposability. Management think of workers as interchangeable parts.
+- A sense that loyalty would be ludicrous.
 
 Turnover engenders turnover. **The feeling that the company sees nothing extraordinary in the worker makes the worker feel unappreciated as individual.**
 
@@ -598,7 +602,6 @@ Usually the real reason for moving the company to another place, is a political 
 The more egocentric the manager, the more intense the fondness for the company move.
 
 Corporate move comes down hard on the couple's relationship at a very delicate point.
-
 
 #### A mentality of permanence
 
@@ -659,16 +662,15 @@ There is very little true teamwork required in most of our work. But team are st
 
 #### Sign of a jelled team
 
-* Low turnover, members aren't going anywhere till the work is done.
-* Strong sense of identity. Teams may congregate at lunch out at the same watering hole after work.
-* Sense of eliteness. Team members fell they are part of something unique.
-* Joint of ownership of the product. Participants are pleased to have their names grouped together on a product or part of one.
-* Obvious enjoyment. Interactions are easy, confident and warm.
+- Low turnover, members aren't going anywhere till the work is done.
+- Strong sense of identity. Teams may congregate at lunch out at the same watering hole after work.
+- Sense of eliteness. Team members fell they are part of something unique.
+- Joint of ownership of the product. Participants are pleased to have their names grouped together on a product or part of one.
+- Obvious enjoyment. Interactions are easy, confident and warm.
 
 #### Teams and cliques
 
 The jelled work group may be cocky and self-sufficient, irritating and exclusive, but it does more to serve the manager's real goals than any assemblage of interchangeable parts could ever do.
-
 
 ### Teamicide
 
@@ -730,11 +732,11 @@ If a team starts normalizing overtime, people who don't share the pain will beco
 
 **Internal competition has the direct effect of making coaching difficult or impossible.** Coaching cannot take place if people don't feel safe. In a suitably competitive atmosphere, you would be crazy to let anyone see you sitting down to be coached or you coaching someone else that may pass you by. Managerial actions that tend to produce teamicidal side effects:
 
-* Annual salary or merit reviews
-* Management by objectives
-* Praise of certain workers for extraordinary accomplishment
-* Awards, prizes, bonuses tied to performance
-* Performance measurement in almost any form
+- Annual salary or merit reviews
+- Management by objectives
+- Praise of certain workers for extraordinary accomplishment
+- Awards, prizes, bonuses tied to performance
+- Performance measurement in almost any form
 
 Any action that rewards team members differentially is likely to foster competition. Managers need to take steps to decrease or counteract this effect.
 
@@ -853,10 +855,11 @@ The difference between Methodology and methodology is that the small _m_ methodo
 #### Methodology madness
 
 Methodologies can do grievous work:
-* A morass of paperwork. Encouraging people to build documents instead of work.
-* A paucity of methods. There are a very few competing methods for most of the work we do.
-* An absence of responsibility. The fault is with the Methodology, not the people making the environment virtually responsibility-free.
-* A general loss of motivation. Nothing could be more demotivating that management thinking workers are incompetent.
+
+- A morass of paperwork. Encouraging people to build documents instead of work.
+- A paucity of methods. There are a very few competing methods for most of the work we do.
+- An absence of responsibility. The fault is with the Methodology, not the people making the environment virtually responsibility-free.
+- A general loss of motivation. Nothing could be more demotivating that management thinking workers are incompetent.
 
 #### The issue of malicious compliance
 
@@ -865,9 +868,10 @@ Unworkable products and meaningless documentation.
 #### The baby and the bathwater
 
 Methodologies are not the only way to achieve convergence. Better ways:
-* Training
-* Tools
-* Peer review
+
+- Training
+- Tools
+- Peer review
 
 You can't really declare something is standard until it has already become a de facto standard.
 
@@ -923,7 +927,7 @@ Common for professional conferences or congress. The real value of the experienc
 
 Your goal should be to eliminate most ceremonial meetings and spend time in one-on-one conversation. **Apply the "What ends this meeting"?**
 
-### The ultimate management sin is...
+### The ultimate management sin is
 
 Wasting people's time.
 
@@ -1018,7 +1022,7 @@ Start by stating in explicit terms that corporate spam is unwelcome.
 
 While you risk making enemies to those who have mastered the old ways forcing them back to the uncomfortable position of novice, you receive only minor support from those who would gain. **Uncertainty is more compelling than the potential for gain.**
 
-#### That's a swell idea, boss. I'll get right on it.
+#### That's a swell idea, boss. I'll get right on it
 
 Resistance-to-change continuum, resistance in increasing order:
 
@@ -1045,7 +1049,6 @@ Naive model of how change happens
     │ STATUS ├─────────────────────→│ STATUS │
     │ QUO    │          ↑           │ QUO    │
     └────────┘     A BETTER IDEA    └────────┘
-
 
 Satir's change model
 
@@ -1124,11 +1127,11 @@ Without chaos, we'd be bored to tears. Managers tend to be greedy. The manager's
 
 Nostalgic fondness for the days when everything wasn't so awfully mechanical. Progress toward more orderly, controllable methods is an unstoppable trend. The thoughtful manager feel a need to replace some of the lost disorder with a policy of _constructive reintroduction of small amounts of disorder_ with:
 
-* Pilot projects
-* War games
-* Brainstorming
-* Provocative training experiences
-* Trainings, trips, conferences, celebrations, and retreats
+- Pilot projects
+- War games
+- Brainstorming
+- Provocative training experiences
+- Trainings, trips, conferences, celebrations, and retreats
 
 #### Pilot projects
 
@@ -1143,7 +1146,6 @@ One caveat about pilot projects: Don't experiment with more than one aspect of d
 It can be an enjoyable experience to try your hand at set of tailored problems, and to be able to compare your performance to statistical performance profile of your peers. Game results won't be used against you, security and confidentiality should be guaranteed.
 
 War games help you evaluate your relative strengths and weaknesses and help the organization to observe its global strengths and weaknesses.
-
 
 #### Brainstorming
 

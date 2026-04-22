@@ -4,6 +4,7 @@ layout: post
 date: 2022-09-17
 link: https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/
 title: Some ways to get better at debugging
+type: linked
 cited: Julia Evans
 
 ---

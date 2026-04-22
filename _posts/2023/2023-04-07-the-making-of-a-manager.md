@@ -4,6 +4,7 @@ layout: post
 date: 2023-04-07
 link: https://www.scottbrady91.com/leadership/book-notes-making-of-a-manager
 title: The Making of a Manager
+type: linked
 cited: Scott Brady
 
 ---

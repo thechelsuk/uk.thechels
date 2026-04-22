@@ -4,6 +4,7 @@ layout: post
 date: 2026-03-08
 link: https://pluralistic.net/2026/03/07/reader-mode/
 title: The web is bearable with RSS
+type: linked
 cited: Cory Doctorow
 
 ---

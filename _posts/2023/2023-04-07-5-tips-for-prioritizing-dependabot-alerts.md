@@ -4,6 +4,7 @@ layout: post
 date: 2023-04-07
 link: https://github.blog/2022-09-19-5-tips-for-prioritizing-dependabot-alerts/
 title: 5 tips for prioritizing Dependabot alerts
+type: linked
 cited: GitHub
 
 ---

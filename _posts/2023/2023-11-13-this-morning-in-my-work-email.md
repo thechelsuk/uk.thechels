@@ -4,6 +4,7 @@ layout: post
 date: 2023-11-13
 link: https://gabz.blog/2023/11/08/this-morning-in.html
 title: This morning in my work email
+type: linked
 cited: Gabz/mL
 
 ---

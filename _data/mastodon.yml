@@ -1,3 +1,13 @@
+- id: https://mastodon.social/@Thechelsuk/116437675000344819
+  title: Mastodon post on 2026-04-20
+  link: https://mastodon.social/@Thechelsuk/116437675000344819
+  date: 2026-04-20 15:12:01+00:00
+  summary: '@stuarticus re: YouTube rss, yes, almost daily, like they turn a server
+    off at “night” the r/rss sub reddit is full of complaints. The feed url does seem
+    present in the `&lt;head&gt;` now though, for a while one had to know the channel
+    ID and the url structure to find the feed so it seems like they are doing some
+    dev work in the area. #firehose'
+  type: note
 - id: https://mastodon.social/@Thechelsuk/116382140372854879
   title: Mastodon post on 2026-04-10
   link: https://mastodon.social/@Thechelsuk/116382140372854879

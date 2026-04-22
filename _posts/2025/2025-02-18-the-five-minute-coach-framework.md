@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-18
 title: The five-minute coach framework
 
+type: blog
 ---
 
 ## The principles

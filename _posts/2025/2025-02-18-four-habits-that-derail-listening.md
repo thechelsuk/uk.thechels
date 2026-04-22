@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-18
 title: Four habits that derail listening
 
+type: blog
 ---
 
 > Listening is a key attribute of a coach, leader, team member and colleague. Consider the feelings of what is being said and not just the words used. Listen to the pauses. Listen to how things people are saying and not just what they are saying.

@@ -4,6 +4,7 @@ layout: post
 date: 2022-07-24
 link: https://jacobian.org/2022/may/19/honesty/
 title: Honesty is a professional behaviour
+type: linked
 cited: Jacob Kaplan-Moss
 
 ---

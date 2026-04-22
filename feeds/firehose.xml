@@ -25,14 +25,6 @@ permalink: /firehose.xml
     {%- assign all_entries = all_entries | push: item -%}
   {%- endfor -%}
 
-  {%- for item in site.data.bluesky -%}
-    {%- assign all_entries = all_entries | push: item -%}
-  {%- endfor -%}
-
-  {%- for item in site.data.mastodon -%}
-    {%- assign all_entries = all_entries | push: item -%}
-  {%- endfor -%}
-
   {%- for item in site.data.films -%}
     {%- assign all_entries = all_entries | push: item -%}
   {%- endfor -%}
@@ -71,19 +63,9 @@ permalink: /firehose.xml
       {%- assign entry_source = "film" -%}
       {%- assign film_date_year = entry.date | date: "%Y" | times: 1 -%}
       {%- if film_date_year < 2020 -%}{%- continue -%}{%- endif -%}
-    {%- elsif entry.link contains "bsky.app" or entry.link contains "mastodon.social" -%}
-      {%- assign entry_source = "social" -%}
-    {%- else -%}
-      {%- assign entry_source = "post" -%}
+      {%- assign entry_source = entry.type -%}
     {%- endif -%}
 
-    {%- if entry_source == "film" -%}
-      {%- assign entry_title = "[film] " | append: entry.title -%}
-    {%- elsif entry.title and entry.title != "" -%}
-      {%- assign entry_title = "[" | append: entry_source | append: "] " | append: entry.title -%}
-    {%- else -%}
-      {%- assign entry_title = "[" | append: entry_source | append: "] " | append: entry.date | date: "%Y-%m-%d" -%}
-    {%- endif -%}
 
     {%- if entry.type -%}
       {%- assign entry_type = entry.type -%}
@@ -109,7 +91,7 @@ permalink: /firehose.xml
     {%- endcapture -%}
 
   <entry>
-    <title type="text">{{ entry_title | xml_escape }}</title>
+    <title type="text">{{ entry_type }} - {{ entry_title | xml_escape }}</title>
     <link rel="alternate" type="text/html" href="{{ entry_link }}"/>
     <id>{{ entry_id | xml_escape }}</id>
     <updated>{{ entry.date | date_to_xmlschema }}</updated>
@@ -121,19 +103,13 @@ permalink: /firehose.xml
       <uri>{% if entry.link %}{{ entry.link | xml_escape }}{% else %}{{ site.url }}{{ entry.url }}{% endif %}</uri>
     </author>
     {%- endif %}
-    {%- if entry_source == "social" %}
-    <content type="html"><![CDATA[{{ entry.summary }}{{ entry_footer }}]]></content>
-    {%- elsif entry_source == "film" %}
+
+    {%- if entry_source == "film" %}
     <content type="html"><![CDATA[
       <h3>{{ entry.title }} ({{ entry.year }})</h3>
       <p><strong>Rated:</strong> {{ entry.rating }}/10</p>
       <p><strong>Added:</strong> {{ entry.date | date: "%Y-%m-%d" }}</p>
       <p><a href="https://www.imdb.com/title/{{ entry.imdb }}/" target="_blank">View on IMDb →</a></p>
-      {{ entry_footer }}
-    ]]></content>
-    {%- elsif entry_source == "video" %}
-    <content type="html"><![CDATA[
-      <p><a href="{{ entry.link }}">{{ entry.title }}</a></p>
       {{ entry_footer }}
     ]]></content>
     {%- elsif entry.content %}

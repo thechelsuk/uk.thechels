@@ -3,6 +3,7 @@
 layout: post
 date: 2026-03-11
 link: https://cybaa.io/blog/2026-03-10/changelog-2026-01-2026-02
+type: linked
 cited: Joe Tiedeman (Cybaa.io)
 title: Cybaa adds web dependency intelligence
 

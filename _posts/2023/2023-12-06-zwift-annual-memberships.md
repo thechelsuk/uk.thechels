@@ -4,6 +4,7 @@ layout: post
 date: 2023-12-06
 link: https://news.zwift.com/en-WW/232068-new-annual-memberships-make-it-more-affordable-to-zwift-all-year
 title: Zwift Annual Memberships
+type: linked
 cited: Zwift Newsroom
 
 ---

@@ -3,6 +3,7 @@ layout: post
 title: Types of DevOps metrics
 tags:
 
+type: blog
 ---
 
 DevOps is all about continuous delivery and shipping code as fast as possible. You want to move fast and not break things. By tracking these DevOps metrics, you can evaluate just how fast you can move before you start breaking things.

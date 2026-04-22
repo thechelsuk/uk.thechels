@@ -4,6 +4,7 @@ title: How to use my spare UGREEN MU101 Wireless Mouse
 seo: Ways - How to use my spare UGREEN MU101 ergo Wireless Mouse (User Guide)
 
 link: https://manuals.plus/ugreen/mu101-ergonomic-wireless-mouse-manual?expand_article=1#bluetooth_connection
+type: linked
 cited: UGREEN
 date: 2026-03-01
 type: ways

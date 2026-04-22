@@ -4,6 +4,7 @@ layout: post
 date: 2022-04-22
 title: 97 Things Every Engineering Manager Should Know
 link: https://amzn.eu/iuYJEFJ
+type: linked
 cited: Camille Fournier
 
 ---

@@ -4,6 +4,7 @@ layout: post
 date: 2023-09-03
 title: Search Engine Management and Reducing Digital Footprint
 
+type: blog
 ---
 
 First of all lets see what search engines can find about you just on your name try the following searches first:

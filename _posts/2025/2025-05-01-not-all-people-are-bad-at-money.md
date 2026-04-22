@@ -4,6 +4,7 @@ layout: post
 date: 2025-05-01
 link: https://ifamagazine.com/richie-rich-400-uk-children-have-more-than-100000-in-their-junior-isa-while-a-child-pension-could-lead-to-a-big-boost-later-in-life/
 title: Not all people are bad at money
+type: linked
 cited: IFA Magazine
 
 ---

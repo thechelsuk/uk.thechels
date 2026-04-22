@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-15
 link: https://www.gov.uk/government/speeches/reform-of-the-state-has-to-deliver-for-the-people
 title: Better by next Friday
+type: linked
 cited: Gov.uk
 
 ---

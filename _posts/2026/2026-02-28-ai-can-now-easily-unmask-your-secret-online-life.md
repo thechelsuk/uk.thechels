@@ -4,6 +4,7 @@ layout: post
 date: 2026-02-28
 link: https://itsfoss.com/news/ai-online-deanonymization/
 title: AI Can Now Easily Unmask Your Secret Online Life
+type: linked
 cited: It's FOSS
 
 ---

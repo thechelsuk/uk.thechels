@@ -4,6 +4,7 @@ layout: post
 title: What to Do Before You Die
 date: 2025-10-21
 
+type: blog
 ---
 
 ## Essential Estate Planning Checklist

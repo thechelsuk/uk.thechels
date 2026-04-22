@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-08
 link: https://cutlefish.substack.com/p/tbm-3952-monthly-strategy-prompt
 title: Monthly Strategy Prompt Exercise
+type: linked
 cited: John Cutlefish
 
 ---

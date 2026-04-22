@@ -4,6 +4,7 @@ layout: post
 date: 2024-05-07
 link: https://zwiftinsider.com/price-increase-2024/
 title: Zwift Announces Membership Price Increase
+type: linked
 cited: Zwift Insider
 
 ---

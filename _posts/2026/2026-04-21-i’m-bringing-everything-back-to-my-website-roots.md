@@ -4,6 +4,7 @@ layout: post
 date: 2026-04-21 01:05
 title: I’m bringing everything back to my website - ROOTs
 link: https://lisacharlottemuth.com/bringing-everything-back-to-my-website
+type: linked
 cited: Lisa Charlotte Muth
 class: indie
 

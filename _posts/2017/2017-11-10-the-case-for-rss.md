@@ -2,6 +2,7 @@
 layout: default
 title: The Case For RSS
 tags:
+type: linked
 cited: 512 Pixels
 link: https://512pixels.net/2017/11/the-case-for-rss/
 ---

@@ -4,6 +4,7 @@ layout: post
 date: 2023-04-13
 link: https://jacobian.org/2022/sep/23/post-interview-recommendation/
 title: Post-interview recommendations - a case against 'maybe'
+type: linked
 cited: Jacob Kaplan-Moss
 
 ---

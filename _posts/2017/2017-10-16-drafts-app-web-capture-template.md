@@ -2,6 +2,7 @@
 layout: post
 title: Drafts App web capture
 tags:
+type: blog
 ---
 
 ## drafts.web.capture.template

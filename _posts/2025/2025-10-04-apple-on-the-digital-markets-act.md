@@ -4,6 +4,7 @@ layout: post
 date: 2025-10-04
 link: https://daringfireball.net/2025/09/apple_on_the_digital_markets_act
 title: Apple on the Digital Markets Act
+type: linked
 cited: John Gruber (Daring Fireball)
 
 ---

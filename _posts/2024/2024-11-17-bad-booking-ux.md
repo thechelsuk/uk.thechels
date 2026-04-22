@@ -2,6 +2,7 @@
 layout: post
 date: 2024-11-17
 title: Bad Booking UX - Train Ticket Booking Frustrations
+type: blog
 ---
 
 Bad User Experiences are bad and immediately cause resentment and dissatisfaction. Even stress and anxiety too.

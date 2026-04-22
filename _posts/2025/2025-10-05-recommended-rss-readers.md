@@ -4,6 +4,7 @@ layout: post
 date: 2025-10-05
 link: https://www.coryd.dev/posts/2025/recommended-rss-readers
 title: Recommended RSS readers
+type: linked
 cited: Cory Dransfeldt
 
 ---

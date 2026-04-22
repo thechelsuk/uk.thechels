@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-19
 link: https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/
 title: How to Win an Argument With a Toddler
+type: linked
 cited: Seth Godin
 
 ---

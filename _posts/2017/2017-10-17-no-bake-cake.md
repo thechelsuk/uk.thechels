@@ -2,6 +2,7 @@
 layout: post
 title: No-Bake Cake - Simple Recipe for Kids and Adults
 tags:
+type: blog
 ---
 
 > a no-bake cake that's perfect for making with children. You can also pick and mix the fillings to suit your taste
