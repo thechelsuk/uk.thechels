@@ -31,7 +31,7 @@ The font-family is a custom font, secondary to that the site utilises the user's
 
 There are further variations for sunset, night, sunrise, with the default theme being day, however, the site also supports `preferred-colour-scheme` so on initial visit it'll match your device mode. The site also sets a variable in local browser storage to remember theme selection*. _Please note it's a challenge for the visitor to find the theme toggles._
 
-The site uses some icons to denote the type of content these should be self explanatory but ultimately these are all just decorative and non-functional; Additional ⇉ (`&rrarr;`) is used for sponsored content and adverts. Certain content is presented in blocks that have a left border and an icon. `[]` denotes code, `>` for quotes, and `ⓘ` for callouts.
+The site uses some icons to denote the type of content these should be self explanatory but ultimately these are all just decorative and non-functional. Certain content is presented in blocks that have a left border and an icon. `[]` denotes code, `>` for quotes, and `ⓘ` for callouts.
 
 ## In The Press
 
