@@ -1,5 +1,5 @@
 feedparser
-requests>=2.33.0
+requests>=2.33.1
 pathlib
 datefinder
 yahoo_fin
