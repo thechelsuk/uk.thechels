@@ -1,8 +1,7 @@
 ---
 
 layout: post
-date: YYYY-MM-DD
-tags : [music]
+date: YYYY-MM-DD HH:MM
 title: Monthly Mixtape - mmm YYYY
 type: mixtape
 
