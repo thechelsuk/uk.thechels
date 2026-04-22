@@ -3,8 +3,6 @@ layout: post
 date: '2025-05-11'
 title: Mltply Version 1.0.0
 type: release
-type: linked
-cited: GitHub
 link: https://github.com/thechelsuk/com.uk.thechels.mltply/releases/tag/1.0.0
 release_id: tag:github.com,2008:Repository/981650530/1.0.0
 release_repo: com.uk.thechels.mltply
