@@ -4,7 +4,7 @@ layout: post
 date: 2026-04-22 19:54
 title: Chelsea sack Liam Rosenior
 link: https://weaintgotnohistory.sbnation.com/chelsea-fc-news/168011/official-chelsea-sack-liam-rosenior
-cited: We Ain't Got No History
+cited: "We Ain't Got No History"
 type: linked
 
 ---
