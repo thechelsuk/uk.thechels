@@ -228,10 +228,9 @@ def create_release_post(posts_root: pathlib.Path,
 def fetch_feed_releases(feed_url: str, project_id: str) -> list[ReleaseRecord]:
     feed = feedparser.parse(feed_url)
     result = []
-    for entry in getattr(feed, "entries", []):
+    # Only process the latest entry (if any)
+    for entry in getattr(feed, "entries", [])[:1]:
         result.append(build_release_record(feed_url, entry, project_id))
-
-    result.sort(key=lambda item: item.published, reverse=True)
     return result
 
 
