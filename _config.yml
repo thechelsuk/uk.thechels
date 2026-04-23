@@ -160,8 +160,6 @@ navigation_slashes:
     title: "Privacy (txt)"
   - link: "/projects"
     title: "Projects"
-  - link: "/nnw-themes"
-    title: "NetNewsWire Themes"
   - link: "/random"
     title: "Random"
   - link: "/save"
