@@ -6,6 +6,7 @@ date: 2026-04-24 03:02
 title: UK Biobank project privacy concerns
 link: https://www.theguardian.com/world/2026/apr/23/what-is-uk-biobank-project-what-are-privacy-concerns
 cited: The Guardian
+type: linked
 
 ---
 
