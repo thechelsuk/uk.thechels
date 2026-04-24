@@ -22,5 +22,5 @@
   url: https://github.com/thechelsuk/uk.hiyd/releases.atom
 - id: Nuchronic.uk
   url: https://github.com/thechelsuk/uk.nuchronic/releases.atom
-- id: Homebridge Yale Alarm
-  url: https://github.com/thechelsuk/homebridge-yalealarmsystem-2/release.atom
+- id: Homebridge (YSA2) Yale Alarm
+  url: https://github.com/thechelsuk/homebridge-ysa2-plugin/release.atom
