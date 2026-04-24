@@ -13,11 +13,11 @@ _Good Morning, Here is your daily briefing..._
 <!-- weather_marker starts -->
 ## On Friday, 24 April 2026
 
-- The average temperature today is 8.33˚C,
-- With highs of 9.73˚C and lows of 7.2˚C,
-- It may feel like 8.33˚C with clear sky
+- The average temperature today is 7.91˚C,
+- With highs of 9.6˚C and lows of 7.04˚C,
+- It may feel like 7.91˚C with clear sky
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1027hPa and humidity is 71%
+- The pressure is 1027hPa and humidity is 73%
 - The sun will rise at 04:52 and set at 19:19
 
 <!-- weather_marker ends -->
@@ -40,7 +40,7 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Be the owner.
+> Embrace uncertainty.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
@@ -54,40 +54,40 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 129.57000732421875 
-- ^FTSE : 10403.6796875 
-- ^FTMC : 22571.220703125 
+- VWRL.L : 129.32962036132812 
+- ^FTSE : 10381.509765625 
+- ^FTMC : 22529.0703125 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> What are two landmasses favourite game? -  Bridge.
+> A former girlfriend, who was a pyromaniac, tried to reignite our relationship. She was an old flame, but I was able to blow her off.
 <!-- jokes_marker ends -->
 
 ### Top News
 <!-- news_marker starts -->
-- UK gov pays public £550 to discuss Digital ID – then bans journalists from the room (®, [4 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/24/digital_it_consult/))
-- Meta axes 8,000 jobs to fund AI spending spree, Microsoft to follow suit (€, [46 minutes ago](http://www.euronews.com/business/2026/04/24/meta-axes-8000-jobs-to-fund-ai-spending-spree-microsoft-to-follow-suit))
-- Betting shop bug ends in kidnap plot as staff turn ransom artists (®, [49 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/24/betting_shop_computer_glitch_sees/))
+- EU failure to sanction Israel weakens defence of Ukraine, warns Pedro Sánchez (€, [2 minutes ago](http://www.euronews.com/my-europe/2026/04/24/eu-failure-to-sanction-israel-weakens-defence-of-ukraine-warns-pedro-sanchez))
+- Intel shares soar 20% on earnings beat and stronger-than-expected outlook (€, [3 minutes ago](http://www.euronews.com/business/2026/04/24/intel-shares-soar-20-on-earnings-beat-and-stronger-than-expected-outlook))
+- Ranked: Which countries have had the worst fuel price spikes since the Iran war? (€, [7 minutes ago](http://www.euronews.com/my-europe/2026/04/24/ranked-which-countries-have-had-the-worst-fuel-price-spikes-since-the-iran-war))
+- Elon Musk's xAI discussed partnership with Mistral to try and rival OpenAI and Anthropic, report (€, [13 minutes ago](http://www.euronews.com/next/2026/04/24/elon-musks-xai-discussed-partnership-with-mistral-to-try-and-rival-openai-and-anthropic-re))
+- Polish PM questions whether US is ‘loyal’ to Europe’s defence (£, [14 minutes ago](https://www.ft.com/content/1a5a2502-a45a-40c1-af6f-b30ecc34bacb))
+- 'Block The Merger': Celebrities react as shareholders approve Paramount takeover of Warner Bros (€, [14 minutes ago](http://www.euronews.com/culture/2026/04/24/block-the-merger-celebrities-react-as-shareholders-approve-paramount-takeover-of-warner-br))
+- UK gov pays public £550 to discuss Digital ID – then bans journalists from the room (®, [22 minutes ago](https://go.theregister.com/feed/www.theregister.com/2026/04/24/digital_it_consult/))
+- Meta axes 8,000 jobs to fund AI spending spree, Microsoft to follow suit (€, [1 hours ago](http://www.euronews.com/business/2026/04/24/meta-axes-8000-jobs-to-fund-ai-spending-spree-microsoft-to-follow-suit))
+- Betting shop bug ends in kidnap plot as staff turn ransom artists (®, [1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/24/betting_shop_computer_glitch_sees/))
 - Ukraine: Russian strike on Odesa kills 2, hits hospitals and schools overnight (€, [1 hours ago](http://www.euronews.com/video/2026/04/24/ukraine-russian-strike-on-odesa-kills-2-hits-hospitals-and-schools-overnight))
 - Eurovision crisis: Slovenia to broadcast films about Palestine instead of this year's Eurovision (€, [1 hours ago](http://www.euronews.com/culture/2026/04/24/eurovision-crisis-slovenia-to-broadcast-films-about-palestine-instead-of-this-years-eurovi))
 - To fix this Wi-Fi network, we'll need a crane (®, [1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/24/on_call/))
 - The Daily Hilario: Friday (♣, [1 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/168051/the-daily-hilario-april-24th))
 - Researchers find cyber-sabotage malware that may predate Stuxnet by five years (®, [1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/24/fast16_sabotage_malware/))
-- At first summit without Orbán, Zelenskyy rejects “symbolic” EU membership (€, [1 hours ago](http://www.euronews.com/my-europe/2026/04/24/at-first-summit-without-orban-zelenskyy-rejects-symbolic-eu-membership))
-- Manchester City ‘considering’ Enzo Fernández as summer transfer option — report (♣, [1 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168059/manchester-city-considering-enzo-fernandez-as-summer-transfer-option-report))
+- At first summit without Orbán, Zelenskyy rejects “symbolic” EU membership (€, [2 hours ago](http://www.euronews.com/my-europe/2026/04/24/at-first-summit-without-orban-zelenskyy-rejects-symbolic-eu-membership))
+- Manchester City ‘considering’ Enzo Fernández as summer transfer option — report (♣, [2 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168059/manchester-city-considering-enzo-fernandez-as-summer-transfer-option-report))
 - Russian soldiers should be banned from Schengen ‘for life’, Estonian PM tells Euronews (€, [2 hours ago](http://www.euronews.com/my-europe/2026/04/24/russian-soldiers-should-be-banned-from-schengen-for-life-estonian-pm-tells-euronews))
-- 20,000 teddy bears in Washington highlight abducted Ukrainian children (€, [2 hours ago](http://www.euronews.com/video/2026/04/24/20000-teddy-bears-in-washington-highlight-abducted-ukrainian-children))
-- Armenia marks 111th anniversary of Armenian genocide in Yerevan (€, [2 hours ago](http://www.euronews.com/video/2026/04/24/armenia-marks-111th-anniversary-of-armenian-genocide-in-yerevan))
-- Europe Today: Charles Michel speaks to Euronews as EU leaders hold crisis talks in Cyprus (€, [2 hours ago](http://www.euronews.com/my-europe/2026/04/24/europe-today-charles-michel-speaks-to-euronews-as-eu-leaders-hold-crisis-talks-in-cyprus))
-- Brighton &#038; Hove Albion 3-0 Chelsea, Player Ratings: Postscript (♣, [2 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/168055/brighton-hove-albion-3-0-chelsea-player-ratings-postscript))
-- Rising to the challenge: Hermès wants to make its men's watches as famous as its bags and silks (€, [3 hours ago](http://www.euronews.com/video/2026/04/24/rising-to-the-challenge-hermes-wants-to-make-its-mens-watches-as-famous-as-its-bags-and-si))
-- Paris animal hospital offers ‘a second chance’ to swans, fox cubs and hedgehogs injured by humans (€, [3 hours ago](http://www.euronews.com/2026/04/24/paris-animal-hospital-offers-a-second-chance-to-swans-fox-cubs-and-hedgehogs-injured-by-hu))
+- Brighton &#038; Hove Albion 3-0 Chelsea, Player Ratings: Postscript (♣, [3 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/168055/brighton-hove-albion-3-0-chelsea-player-ratings-postscript))
 - Weak security means attackers could disable all of a city's public EV chargers (®, [4 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/24/rentable_iot_security_flaws/))
-- Polish PM questions whether US is ‘loyal’ to Europe’s defence (£, [4 hours ago](https://www.ft.com/content/1a5a2502-a45a-40c1-af6f-b30ecc34bacb))
-- The limits on Bessent’s Treasury swap lines for allies (£, [4 hours ago](https://www.ft.com/content/c8490305-c430-4f30-bb1d-04178a5ed27a))
+- Banks charged sharply different fees for access to Anthropic investment (£, [4 hours ago](https://www.ft.com/content/62b8159b-1cf1-4dd8-9352-cde0021dec61))
 - China’s own Mythos is coming — America must prepare (£, [4 hours ago](https://www.ft.com/content/ea8c8161-5b86-409b-93cf-5e778300d87e))
 - The danger of weaponising dollar swap lines (£, [4 hours ago](https://www.ft.com/content/aa7b9fe2-662b-42a4-b9b4-1f6675a30519))
 - Morgan McSweeney held talks with Google DeepMind over AI project (£, [4 hours ago](https://www.ft.com/content/c3a31801-be53-4b73-9a62-d71ac81110c9))
@@ -95,9 +95,9 @@ _Good Morning, Here is your daily briefing..._
 - KPMG and EY demote partners in end of job-for-life model (£, [4 hours ago](https://www.ft.com/content/7de5ef19-88c5-459f-bff7-d27d55d685c6))
 - Trump says Israel and Lebanon will extend ceasefire by 3 weeks (£, [7 hours ago](https://www.ft.com/content/a0b83a1d-78d3-4097-a5a7-fbc11b250f5e))
 - Anthropic admits it dumbed down Claude when trying to make it smarter (®, [9 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/23/anthropic_says_it_has_fixed/))
-- Dev targeted by sophisticated job scam: 'I let my guard down, and ran the freaking code' (®, [10 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/23/job_scam_targeted_developer/))
+- Dev targeted by sophisticated job scam: 'I let my guard down, and ran the freaking code' (®, [11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/23/job_scam_targeted_developer/))
 - Solid-state batteries hold more juice, but keep cracking up. Now researchers know why (®, [11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/23/solid_state_batteries_energy_storage/))
-- Claude Opus 4.7 has turned into an overzealous query cop, devs complain (®, [11 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/23/claude_opus_47_auc_overzealous/))
+- Claude Opus 4.7 has turned into an overzealous query cop, devs complain (®, [12 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/23/claude_opus_47_auc_overzealous/))
 - Chinese attackers are pwning your infrastructure to use in attacks, 10 countries warn (®, [13 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/23/china_covert_networks/))
 - The Daily Hilario: Thursday (♣, [1 days ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/168034/the-daily-hilario-april-23rd))
 - Andonio Iraola, Marco Silva, Edin Terzić, others ‘under consideration’ for next Chelsea head coach — reports (♣, [1 days ago](https://weaintgotnohistory.sbnation.com/premier-league/168038/andonio-iraola-marco-silva-edin-terzic-others-under-consideration-for-next-chelsea-head-coach-reports))
@@ -118,7 +118,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> Leadership is the art of giving people a platform for spreading ideas that work. - Seth Godin
+> Stop starting things, and start finishing things - Jean Tabaka
 
 <!-- quote_marker ends -->
 
@@ -132,30 +132,23 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Mother (Rated: 3)
-- Released in 2023
-- Summary: While fleeing from dangerous assailants, an assassin comes out of hiding to protect the daughter she left earlier in life.
+- Wrong Turn (Rated: 7)
+- Released in 2003
+- Summary: Chris and a group of five friends are left stranded deep in the middle of the woods after their cars collide. As they venture deeper into the woods, they face an uncertain and bloodcurdling fate.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 <!-- game_marker starts -->
 
-- Target: 369, using [2, 9, 10, 25, 75, 100]
-- Answer: 5 solutions.
-
-- <details><summary><code>Solution</code></summary>
-
-  Solution: ( 100 + 75 ) x 2 + 10 + 9
-
-   </details>
+- Target: 872, using [5, 5, 5, 7, 10, 100]
 
 <!-- game_marker ends -->
 
 ### 5 Random Blogroll Links
 <!-- blogroll_marker starts -->
-- Pluralistic by Cory Doctorow [URL](https://pluralistic.net/) [Feed](https://pluralistic.net/feed/)
-- Scott Brady [URL](https://www.scottbrady.io/) [Feed](https://feeds.feedburner.com/scottbrady91)
-- MacSparky [URL](https://www.macsparky.com/) [Feed](http://www.macsparky.com/blog/rss.xml)
-- GitHub [URL](https://github.blog/) [Feed](https://github.blog/feed/)
-- Chronosaur.us [URL](https://chronosaur.us/) [Feed](https://chronosaur.us/feed/)
+- Marc Amos [URL](https://marcamos.com/journal/) [Feed](https://marcamos.com/journal/feed.xml)
+- Robin Rendle [URL](https://robinrendle.com/) [Feed](https://robinrendle.com/feed.xml)
+- NetNewsWire [URL](https://netnewswire.blog/) [Feed](https://nnw.ranchero.com/feed.json)
+- Calum Ryan (bookmarks) [URL](https://www.calumryan.com/bookmarks) [Feed](https://www.calumryan.com/feeds/bookmarks/rss)
+- Six Colors [URL](https://sixcolors.com/?feed=json) [Feed](https://sixcolors.com/feed.json)
 <!-- blogroll_marker ends -->
