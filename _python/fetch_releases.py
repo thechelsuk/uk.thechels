@@ -186,6 +186,28 @@ def build_release_record(feed_url: str, entry: Any,
 
 
 def render_post(release: ReleaseRecord) -> str:
+    # Intercept NetNewsWire theme URL in body (plain or markdownified)
+    body = release.body.strip() or NO_RELEASE_NOTES
+    download_url = None
+    # Regex for both plain and markdownified NetNewsWire theme URLs
+    nnw_patterns = [
+        re.compile(r"^netnewswire://theme/add\?url=(https://[\w./%\-]+\.zip)$", re.MULTILINE),
+        re.compile(r"^netnewswire://theme/add\?url=\[(https://[\w./%\-]+\.zip)\]\(https://[\w./%\-]+\.zip\)$", re.MULTILINE),
+    ]
+    match = None
+    for pattern in nnw_patterns:
+        matches = list(pattern.finditer(body))
+        if matches:
+            match = matches[-1]
+            break
+    if match:
+        download_url = match.group(1)
+        # Replace only the last occurrence with the install link
+        start, end = match.span()
+        body = body[:start] + f"[Install now](netnewswire://theme/add?url={{page.download}})" + body[end:]
+        # Clean up any extra blank lines (optional, but keeps formatting tidy)
+        body = re.sub(r"\n{3,}", "\n\n", body).strip()
+
     front_matter = {
         "layout": "post",
         "date": release.published.date().isoformat(),
@@ -198,10 +220,12 @@ def render_post(release: ReleaseRecord) -> str:
         "release_project": release.project_key,
         "release_version": release.version,
     }
+    if download_url:
+        front_matter["download"] = download_url
+
     yaml_front_matter = yaml.safe_dump(front_matter,
                                        sort_keys=False,
                                        allow_unicode=False).strip()
-    body = release.body.strip() or NO_RELEASE_NOTES
     return f"---\n{yaml_front_matter}\n---\n\n{body}\n"
 
 
