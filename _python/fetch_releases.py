@@ -191,8 +191,11 @@ def render_post(release: ReleaseRecord) -> str:
     download_url = None
     # Regex for both plain and markdownified NetNewsWire theme URLs
     nnw_patterns = [
-        re.compile(r"^netnewswire://theme/add\?url=(https://[\w./%\-]+\.zip)$", re.MULTILINE),
-        re.compile(r"^netnewswire://theme/add\?url=\[(https://[\w./%\-]+\.zip)\]\(https://[\w./%\-]+\.zip\)$", re.MULTILINE),
+        re.compile(r"^netnewswire://theme/add\?url=(https://[\w./%\-]+\.zip)$",
+                   re.MULTILINE),
+        re.compile(
+            r"^netnewswire://theme/add\?url=\[(https://[\w./%\-]+\.zip)\]\(https://[\w./%\-]+\.zip\)$",
+            re.MULTILINE),
     ]
     match = None
     for pattern in nnw_patterns:
@@ -204,7 +207,9 @@ def render_post(release: ReleaseRecord) -> str:
         download_url = match.group(1)
         # Replace only the last occurrence with the install link
         start, end = match.span()
-        body = body[:start] + f"[Install now](netnewswire://theme/add?url={{page.download}})" + body[end:]
+        body = body[:
+                    start] + f"[Install now](netnewswire://theme/add?url={{page.download}})" + body[
+                        end:]
         # Clean up any extra blank lines (optional, but keeps formatting tidy)
         body = re.sub(r"\n{3,}", "\n\n", body).strip()
 
