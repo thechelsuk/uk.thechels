@@ -4279,3 +4279,7 @@ https://thechels.uk/2026-04-25-daily-rundown:
   https://chronosaur.us/feed/: false
   https://www.ben-evans.com/benedictevans/: false
   https://www.ben-evans.com/benedictevans?format=rss: false
+https://thechels.uk/heart-rate:
+  https://brid.gy/publish/mastodon: false
+  https://brid.gy/publish/bluesky: false
+  https://brid.gy/publish/reddit: false
