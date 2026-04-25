@@ -21,4 +21,4 @@ Theme uses thechelsuk font included in the theme file as well as adapting to the
 
 Download the `nnwtheme.zip` file and add it manually in NetNewsWire.
 
-[Install now](netnewswire://theme/add?url={page.download})
+[Install now](netnewswire://theme/add?url={{page.download}})

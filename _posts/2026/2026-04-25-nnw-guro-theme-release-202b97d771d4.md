@@ -20,4 +20,4 @@ A light mode only, simple and clean theme using thechelsuk font (included) and J
 
 Download the `nnwtheme_guro.zip` file and add it manually in NetNewsWire.
 
-[Install now](netnewswire://theme/add?url={page.download})
+[Install now](netnewswire://theme/add?url={{page.download}})
