@@ -3,7 +3,7 @@ name: Daily Build and Deploy
 on:
     workflow_dispatch:
     schedule:
-        - cron: "5 8 * * *"
+        - cron: "0 6 * * *"
 jobs:
     Build:
         runs-on: ubuntu-latest
@@ -52,6 +52,7 @@ jobs:
                   git diff
                   git config user.name "GitHub Action"
                   git config user.email "action@github.com"
-                  git diff --quiet || (git add -A && git commit -m "Chore: New Daily Rundown Post $(date -u +%Y-%m-%dT%H:%MZ)")
+                  git add -A
+                  git diff --staged --quiet || git commit -m "Chore: New Daily Rundown Post $(date -u +%Y-%m-%dT%H:%M) [skip ci]"
                   git push
 
