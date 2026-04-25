@@ -12,7 +12,7 @@ seo: Projects
 
 ## [Boinc](https://boinc.thechels.uk) ⇗
 
-- Hosting a web page for a friend; BOINC is a platform that allows computers all round the world to contribute their spare computing capacity to run distributed applications. Several of those involved with TheChels.org contribute their computers in such a way. Distributed applications are largely run by Universities to research fields such as Biology & Medicine, Earth Sciences, Mathematics or Physics & Astronomy.
+- Hosting a simple web page for a friend; BOINC is a platform that allows computers all round the world to contribute their spare computing capacity to run distributed applications. Several of those involved with TheChels.org contribute their computers in such a way. Distributed applications are largely run by Universities to research fields such as Biology & Medicine, Earth Sciences, Mathematics or Physics & Astronomy.
 
 ## [SecOpsNews](https://github.com/SecOpsNews/news) ⇗
 
@@ -36,8 +36,8 @@ seo: Projects
 
 ## [Nuchronic.uk](https://nuchronic.uk) ⇗
 
-- _The_ webring for the chronically ill on the indie web. A dark-mode hacker news style site that aggregates content from a variety of sources, including blogs, podcasts, and YouTube channels, all focused on the blogs and lives of people with chronic illness. The site is built using HTML, CSS, Jekyll and hosted on GitHub Pages, naturally. Utilising Python and GitHub Actions for the compute.
+- _The webring for the chronically ill_ on the indie web. A dark-mode hacker news style site that aggregates content from a variety of sources, including blogs, podcasts, and YouTube channels, all focused on the blogs and lives of people with chronic illness. The site is built using HTML, CSS, Jekyll and hosted on GitHub Pages, naturally. Utilising Python and GitHub Actions for the compute.
 
-## [Homebridge YaleSyncAlarm-2](https://npmx.dev/package/@thechelsuk/homebridge-yalesyncalarm-2) ⇗
+## [Homebridge YSA2 Plugin](https://npmx.dev/package/@thechelsuk/homebridge-ysa2-plugin) ⇗
 
--  Homebridge YaleSyncAlarm-2 is an updated project working on top of an existing version that appears to be abandoned having not been made ready for HB 2.0 or had any maintenance in the last 9 years. The NPM package can be installed for Homebridge users and helps manage your sync alarm, working alongside a dummy switch - the alarm can be armed or disarmed through HomeKit automations (e.g., set alarm when last person leaves the home)
+- Homebridge YSA2 is an updated project working on top of an existing YaleSyncAlarm Open source version that appears to be abandoned having not been made ready for HB 2.0 or had any maintenance in the last 9 years. The NPM package can be installed for Homebridge users and helps manage your sync alarm, working alongside a dummy switch (an Apple limitation) - the alarm can be armed or disarmed through HomeKit automations (e.g., set alarm when last person leaves the home)
