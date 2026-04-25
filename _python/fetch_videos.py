@@ -185,7 +185,6 @@ def save_post_to_jekyll(fm_content, body_content, filename):
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write(file_content)
-        print(f"✓ Created: {file_path}")
     except Exception as e:
         print(f"x Failed to write file {file_path}: {e}")
 
