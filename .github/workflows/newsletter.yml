@@ -1,0 +1,63 @@
+# Produces the bi-weekly digest (gather → OpenAI curation → optional Discord + GitHub Release).
+#
+# Optional repo secrets:
+#   DISCORD_WEBHOOK_URL  — omit to skip Discord; digest still lands in the Release
+#
+# Optional:
+#   OPENAI_API_KEY       — enables curated edition (omit for uncurated link-only fallback)
+#
+# Optional repo variable:
+#   OPENAI_MODEL         — defaults to gpt-4o-mini in app if unset/empty
+
+name: Bi-weekly Discord newsletter
+
+on:
+  schedule:
+    - cron: "0 9 1,15 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: newsletter-${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  publish-newsletter:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Run date (UTC)
+        id: meta
+        run: echo "date=$(date -u +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build digest, save artifact, post to Discord (if configured)
+        run: npm start
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          NEWSLETTER_ARTIFACT_PATH: newsletter/digest.md
+
+      - name: Publish GitHub Release (digest markdown)
+        uses: softprops/action-gh-release@v2.2.2
+        with:
+          tag_name: newsletter-${{ github.run_id }}
+          name: Newsletter ${{ steps.meta.outputs.date }}
+          # Release page body = same markdown as Discord and digest.md attachment
+          body_path: newsletter/digest.md
+          files: newsletter/digest.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
