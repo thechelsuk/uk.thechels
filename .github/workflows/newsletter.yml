@@ -1,19 +1,11 @@
-# Produces the bi-weekly digest (gather → OpenAI curation → optional Discord + GitHub Release).
-#
-# Optional repo secrets:
-#   DISCORD_WEBHOOK_URL  — omit to skip Discord; digest still lands in the Release
-#
+# Produces the digest (gather → OpenAI curation → GitHub Release).
 # Optional:
-#   OPENAI_API_KEY       — enables curated edition (omit for uncurated link-only fallback)
-#
-# Optional repo variable:
-#   OPENAI_MODEL         — defaults to gpt-4o-mini in app if unset/empty
+# OPENAI_API_KEY — enables curated edition (omit for uncurated link-only fallback)
+# OPENAI_MODEL  — defaults to gpt-4o-mini in app if unset/empty
 
-name: Bi-weekly Discord newsletter
+name: Newsletter
 
 on:
-  schedule:
-    - cron: "0 9 1,15 * *"
   workflow_dispatch:
 
 permissions:
@@ -46,7 +38,6 @@ jobs:
       - name: Build digest, save artifact, post to Discord (if configured)
         run: npm start
         env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
           NEWSLETTER_ARTIFACT_PATH: newsletter/digest.md
