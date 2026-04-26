@@ -4,6 +4,7 @@ layout: post
 date: 2023-04-05
 link: https://blog.1password.com/reasons-why-developers-love-1password/
 title: 5 reasons why developers love 1Password
+type: linked
 cited: 1Password
 
 ---

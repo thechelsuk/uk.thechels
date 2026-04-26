@@ -3,7 +3,7 @@ name: Daily Build and Deploy
 on:
     workflow_dispatch:
     schedule:
-        - cron: "5 8 * * *"
+        - cron: "0 6 * * *"
 jobs:
     Build:
         runs-on: ubuntu-latest
@@ -45,17 +45,14 @@ jobs:
                   python '_python/countdown.py'
                   python '_python/blogroll.py'
                   python '_python/jokes.py'
-                  python '_python/videos.py'
+                  python '_python/daily.py'
 
             - name: Commit and push
               run: |-
                   git diff
                   git config user.name "GitHub Action"
                   git config user.email "action@github.com"
-                  COMMIT_MSG="New Daily Rundown $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-                  echo "COMMIT_MSG=$COMMIT_MSG" >> $GITHUB_ENV
-                  git diff --quiet || (git add -A && git commit -m "$COMMIT_MSG")
+                  git add -A
+                  git diff --staged --quiet || git commit -m "Chore: New Daily Rundown Post $(date -u +%Y-%m-%dT%H:%M) [skip ci]"
                   git push
-            - name: Log commit message
-              run: |
-                  echo "Committed: $COMMIT_MSG"
+

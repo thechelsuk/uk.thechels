@@ -4,6 +4,7 @@ layout: post
 date: 2025-03-16
 link: https://spectrum-ieee-org.cdn.ampproject.org/c/s/spectrum.ieee.org/amp/10x-engineer-2671288905
 title: In Praise of Normal Engineers
+type: linked
 cited: IEEE Spectrum
 
 ---

@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-05
 link: https://boz.com/articles/advice-not-permission
 title: Ask for Advice Not Permission
+type: linked
 cited: Boz
 ---
 

@@ -4,6 +4,7 @@ layout: post
 date: 2024-09-29
 link: https://512pixels.net/2024/09/apple-silicon-mac-mini-5-port/
 title: Apple silicon Mac mini 5 port
+type: linked
 cited: 512 Pixels
 
 ---

@@ -25,3 +25,4 @@ htmlcov/
 _python/__pycache__
 _python/local/config.py
 _python/local/__pycache__/
+.venv

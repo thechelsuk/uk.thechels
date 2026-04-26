@@ -3,6 +3,7 @@ layout: post
 title: Chelsea Ladies - Doncaster
 tag:
 - chelsea
+type: blog
 ---
 
 Chelsea Ladies returned to FAWSL action with a convincing 4-0 victory over Doncaster Rovers Belles. Emma Hayes chose a very attack minded team with essentially four strikers. Helen Ward led the attack and was flanked by Eni Aluko and Sofia Jakobsson, interchanging in wider positions.

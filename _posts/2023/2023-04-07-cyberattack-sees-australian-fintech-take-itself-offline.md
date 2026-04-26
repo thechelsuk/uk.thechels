@@ -4,6 +4,7 @@ layout: post
 date: 2023-04-07
 link: https://www.theregister.com/2023/03/21/latitude_financial_cyber_attack_leak/
 title: Cyberattack sees Australian fintech take itself offline
+type: linked
 cited: The Register
 
 ---

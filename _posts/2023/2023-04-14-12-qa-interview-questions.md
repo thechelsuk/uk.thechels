@@ -3,7 +3,7 @@
 layout: post
 date: 2023-04-14
 title: 12 QA Interview questions
-cited: 
+type: blog
 
 ---
 
@@ -21,5 +21,4 @@ writing a good test case?
 - 11 Tell me about a time you missed a bug
 - 12 Tell me about your most difficult project
 
-
-thought these were quite useful to keep a copy of, but source unknown. 
+thought these were quite useful to keep a copy of, but source unknown.

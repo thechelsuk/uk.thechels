@@ -4,6 +4,7 @@ layout: post
 date: 2024-09-15
 title: Team Spoons - Energy Management and Chronic Illness
 
+type: blog
 ---
 
 > In the [chronic illness and disability world](https://archive.ph/o/WwKJw/https://www.washingtonpost.com/people/amanda-morris/), there's something called "spoon theory." Writer [Christine Miserandino](https://archive.ph/o/WwKJw/https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/) started it while explaining to a friend what chronic illness feels like, and grabbed a handful of spoons to make her point.

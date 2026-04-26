@@ -3,6 +3,7 @@ layout: post
 title: Cycle time - a metric for scrum
 tags:
 
+type: blog
 ---
 
 

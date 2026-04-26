@@ -5,6 +5,7 @@ date: 2026-02-24
 title: How fast did ME develop for you?
 tags: [ME]
 
+type: blog
 ---
 
 Slowly, then quickly.

@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-07
 link: https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/
 title: Preventing burnout - A manager's toolkit
+type: linked
 cited: GitLab
 
 ---

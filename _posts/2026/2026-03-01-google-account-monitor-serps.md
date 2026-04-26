@@ -4,6 +4,7 @@ title: How to monitor SERPS with Google Alerts
 seo: Ways - Google Alerts
 
 link: https://www.google.co.uk/alerts
+type: linked
 cited: Google
 date: 2026-03-01
 type: ways

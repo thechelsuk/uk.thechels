@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-18
 title: Four Fixations of a Brilliant Leader
 
+type: blog
 ---
 
 This Is based on the VIDA way of leadership.

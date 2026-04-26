@@ -1,6 +1,7 @@
 ---
 date: 2025-06-08
 title: Quoting Lynn Roberts on LinkedIn
+type: linked
 cited: Lynn Roberts
 link: https://www.linkedin.com/posts/digitalynn_im-working-with-some-great-organisations-activity-7335634969202974721-xmoa/
 seo: ""

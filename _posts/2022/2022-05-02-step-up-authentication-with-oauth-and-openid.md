@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-02
 link: https://www.scottbrady91.com/oauth/step-up-authentication
 title: Step-up authentication with OAuth and OpenID
+type: linked
 cited: Scott Brady
 
 ---

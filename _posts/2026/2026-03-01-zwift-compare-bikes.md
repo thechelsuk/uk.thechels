@@ -4,6 +4,7 @@ title: How to compare bikes in Zwift
 seo: Ways - How to compare bikes in Zwift
 
 link: https://zwifterbikes.web.app/
+type: linked
 cited: Zwifter Bikes
 date: 2026-03-01
 type: ways

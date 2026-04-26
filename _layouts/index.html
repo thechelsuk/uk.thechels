@@ -1,7 +1,9 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
-{% assign posts = site.posts | where_exp: "post", "post.type | downcase != 'rss'" %}
 
+{{ content }}
+
+{% assign posts = site.posts | where_exp: "post", "post.type != 'rss'" %}
 
 <p class="marker"><b>{{ posts | size }}</b> total posts.</p>
 <div id="blog-archives" class="flow">
@@ -19,7 +21,7 @@
   {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
   {% assign offer = site.data.offers[item] %}
   <div class="posts" id="{{offer.id}}">
-    &rrarr; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a>
+    {% include post_icon.html %} <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a>
     <span class="meta">// Sponsor/Advert, T&amp;Cs apply.</span>
   </div>
 
@@ -55,7 +57,7 @@
   {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
   {% assign offer = site.data.offers[item] %}
   <div class="posts" id="{{offer.id}}">
-    &rrarr; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a>
+    {% include post_icon.html %} <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a>
     <span class="meta">// Sponsor/Advert, T&amp;Cs apply.</span>
   </div>
 </div>

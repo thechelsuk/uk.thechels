@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-02
 link: https://reddit.com
 title: Is Raycast still European-owned
+type: linked
 cited: Reddit User
 
 ---

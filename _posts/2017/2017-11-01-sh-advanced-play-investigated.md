@@ -3,6 +3,7 @@ layout: post
 title: Secret Hitler - president picks investigator
 tag:
 
+type: blog
 ---
 
 

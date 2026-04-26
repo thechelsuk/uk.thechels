@@ -4,6 +4,7 @@ layout: post
 date: 2025-07-27
 link: https://mikefisher.substack.com/p/people-principles-process-product
 title: People - Principles - Process  - Product
+type: linked
 cited: Mike Fisher
 
 ---

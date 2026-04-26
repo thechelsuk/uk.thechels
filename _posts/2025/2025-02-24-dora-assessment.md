@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-24
 title: Dora Assessment Template
 
+type: blog
 ---
 
 _Notes: Complete this using a broad assessment and revisit every x time period (a time in keeping with the pace of the organisation, e.g. 6 months or 2 years)_

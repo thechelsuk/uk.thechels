@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-05
 link: https://www.theregister.com/2022/05/05/github_2fa_mandatory_2023/
 title: GitHub to require 2FA for active coders by late 2023
+type: linked
 cited: The Register
 
 ---

@@ -4,6 +4,7 @@ layout: post
 date: 2025-11-30
 link: https://lethain.com/good-eng-mgmt-is-a-fad/
 title: Good engineering management is a fad
+type: linked
 cited: Will Larson (Lethain)
 
 ---

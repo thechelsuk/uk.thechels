@@ -3,6 +3,7 @@ layout: post
 title : Secret Hitler - Top-decking before the reshuffle.
 tags:
 
+type: blog
 ---
 
 ## Advanced game play

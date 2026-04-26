@@ -4,6 +4,7 @@ title: How to cancel a subscription on Apple
 seo: Ways - How to cancel a subscription on Apple
 
 link: https://support.apple.com/en-us/118428
+type: linked
 cited: Apple
 date: 2026-03-01
 type: ways

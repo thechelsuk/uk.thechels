@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ultimate Fan Live - PSG vs Chelsea
+type: linked
 cited: Cameron Innes
 
 tag:

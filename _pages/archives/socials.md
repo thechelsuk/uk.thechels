@@ -1,11 +1,11 @@
 ---
-layout: socials
+layout: archives
 title: Social Post Archive
 seo: Lightly curated Social Post Archive
-permalink: /socials
+permalink: /archives/socials
+date: 2026-01-01
+type: social
 
 ---
 
-A lightly curated collection of selected social posts. You can subscribe to the full feeds on both [Bluesky](https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/rss) and [Mastodon](https://mastodon.social/@thechelsuk.rss) directly.
-
-Feeds are ingested every 3 hours or so and only include my own posts and not repost, replies or boosts. Posts I want to appear here have #firehose as a tag appended automatically in [Drafts](https://getdrafts.com/).
+A lightly curated collection of selected social posts. You can subscribe to the full feeds on both [Bluesky](https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/rss) and [Mastodon](https://mastodon.social/@thechelsuk.rss) directly. This is where I want to adopt the open/indie web ethos of POSSE (Publish on your Own Site, Syndicate Elsewhere), so more thoughtful posts start with an entry. For more chatty off topic posts, the full feeds are available.

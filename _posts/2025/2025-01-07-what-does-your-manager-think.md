@@ -4,6 +4,7 @@ layout: post
 date: 2025-01-07
 link: https://decodingyourmanager.substack.com/p/why-this-now
 title: What does your manager really mean?
+type: linked
 cited: Decoding Your Manager
 
 ---

@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-18
 title: Objective Setting and Evidencing Guide
 
+type: blog
 ---
 
 > Notes: Publish this somewhere on the intranet or wiki, so it's visible to your direct reports/teams. There should be no surprises
@@ -13,7 +14,6 @@ title: Objective Setting and Evidencing Guide
 The primary objective for each team, is to deliver on the strategic roadmap and BAU activity as required by the business and as such this is not reflected in individual objectives. It is our collective purpose.
 
 Individual objectives are set around performance-based goals adjacent to this, with the aim to improve the holistic performance of the engineering function.
-
 
 ## Method
 

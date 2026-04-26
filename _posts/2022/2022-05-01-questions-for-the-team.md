@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-01
 link: https://www.scrum.org/resources/blog/60-questions-new-scrum-master-take-them-team
 title: Questions for the Team
+type: linked
 cited: Scrum.org
 
 ---

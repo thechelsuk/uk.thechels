@@ -4,6 +4,7 @@ layout: post
 date: 2022-08-08
 link: https://build5nines.com/terraform-modules-create-reusable-infrastructure-as-code/
 title: Terraform Modules - Create Reusable Infrastructure As Code
+type: linked
 cited: Build5Nines
 
 ---

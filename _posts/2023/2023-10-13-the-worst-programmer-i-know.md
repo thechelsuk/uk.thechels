@@ -4,6 +4,7 @@ layout: post
 date: 2023-10-13
 link: https://dannorth.net/the-worst-programmer/
 title: The Worst Programmer I Know
+type: linked
 cited: Dan North
 
 ---

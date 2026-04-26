@@ -3,6 +3,7 @@ layout: post
 title: From PHP to Python and GitHub Actions
 date: 2020-09-05 17:00
 
+type: blog
 ---
 
 Some time ago for a bit of fun I had created Horo Football - a twitter account that auto-tweeted (via a php script and cron job) some randomly generated horoscopes from a football context.

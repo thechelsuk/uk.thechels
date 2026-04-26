@@ -4,9 +4,10 @@ layout: post
 date: 2025-07-20
 title: Accessibility Development Digest
 
+type: blog
 ---
 
-The is a selection of favourited articles in my RSS reader app around web design and accessibility 
+The is a selection of favourited articles in my RSS reader app around web design and accessibility
 
 - [#ARTY Could Get You Sued](https://adrianroselli.com/2025/07/arty-could-get-you-sued.html)
 - [Check / Uncheck all in a Table](https://adrianroselli.com/2025/07/check-uncheck-all-in-a-table.html)

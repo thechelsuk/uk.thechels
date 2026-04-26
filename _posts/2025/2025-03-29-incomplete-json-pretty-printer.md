@@ -4,6 +4,7 @@ layout: post
 date: 2025-03-29
 link: https://simonwillison.net/2025/Mar/28/incomplete-json-pretty-printer/
 title: Incomplete JSON Pretty Printer
+type: linked
 cited: Simon Willison
 
 ---

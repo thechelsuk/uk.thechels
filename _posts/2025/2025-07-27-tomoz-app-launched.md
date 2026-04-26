@@ -5,6 +5,7 @@ date: 2025-07-27
 title: Tomoz App Launched
 tags:
 
+type: blog
 ---
 
 I made an app that, allows picking of whatever calendars you want, and shows only what is happening tomorrow in a simple agenda view.

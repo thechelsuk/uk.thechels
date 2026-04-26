@@ -4,6 +4,7 @@ layout: post
 date: 2026-03-14
 link: https://cra.mr/optimizing-content-for-agents/
 title: Optimizing Content for Agents
+type: linked
 cited: David Cramer
 
 ---

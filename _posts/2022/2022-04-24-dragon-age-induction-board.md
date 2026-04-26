@@ -4,6 +4,7 @@ layout: post
 date: 2022-04-24
 link: https://trello.com/b/8AEffW1t/dragon-age-induction-board
 title: Dragon Age Induction Board
+type: linked
 cited: Barnardo's
 
 ---

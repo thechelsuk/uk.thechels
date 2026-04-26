@@ -3,6 +3,7 @@ layout: post
 title: New Beginnings - Head of Software Development Journey
 tag:
 
+type: blog
 ---
 
 Last time I posted on this blog I had just run 1000 miles and completed my challenge. I ended the year on just over 1200 miles and raised well over £1000 for the charity.

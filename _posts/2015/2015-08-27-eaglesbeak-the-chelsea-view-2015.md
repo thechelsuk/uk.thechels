@@ -3,6 +3,7 @@ layout: post
 title: Eaglesbeak - The Chelsea View 2015
 tag:
  - chelsea
+type: blog
 ---
 
  It does not seem too long ago that we were looking forward to a trip to Chelsea but regardless, we had a chat with Chelsea Stats to find out their hopes for the season.
@@ -47,7 +48,7 @@ I cannot see Palace being anything other than a eighth to twelfth placed team th
 
 It is a coin toss between Chelsea and Manchester City for the title. Chelsea for the FA Cup. Manchester United will somehow win the League Cup.
 
-#### Q. Name one player from each side that the other team should be wary of for this fixture.
+#### Q. Name one player from each side that the other team should be wary of for this fixture
 
 Hazard causes everyone problems, so it has to be him. He looked back to his best against West Brom.
 
@@ -57,7 +58,7 @@ I mentioned Sako earlier. I think he will cause our defenders a few problems. Ma
 
 Chelsea 2-1. Hazard and Costa scoring for the Blues while Sako will score the consolation.
 
-#### Q. Please tell us a little about what you do and share any projects that you are currently working on.
+#### Q. Please tell us a little about what you do and share any projects that you are currently working on
 
 I basically tweet about Chelsea a lot, on @ChelseaStats and I have been blogging on my site since 2010.
 

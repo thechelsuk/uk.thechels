@@ -4,6 +4,7 @@ author: Mat
 tags:
 date: 2025-06-11
 
+type: blog
 ---
 
 I’m delighted to announce my first iOS app has been published to the App Store.

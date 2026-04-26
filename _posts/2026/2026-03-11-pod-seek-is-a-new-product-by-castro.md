@@ -4,6 +4,7 @@ layout: post
 date: 2026-03-11
 link: https://castro.fm/blog/pod-seek
 title: Pod Seek is a new product by Castro
+type: linked
 cited: Castro
 
 ---

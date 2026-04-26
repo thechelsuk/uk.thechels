@@ -1,6 +1,7 @@
 ---
 date: 2025-06-19
 title: "Context Rot from AI"
+type: linked
 cited: Simon Willison
 link: https://simonwillison.net/2025/Jun/18/context-rot/#atom-everything
 seo: ""

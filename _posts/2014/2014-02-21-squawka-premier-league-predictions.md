@@ -3,13 +3,14 @@ layout: post
 title: Squawka - Premier League Predictions
 tag:
  - chelsea
+type: blog
 ---
 
 #### Chelsea vs Everton
 
 Chelsea are dominant at home and have still not lost a league game at the Bridge under Mourinho (won 57 drawn 16). Everton beat us at Goodison earlier in the season, so Chelsea will look to avenge that result. Chelsea haven't lost at home to Everton in the league since 1994 but also haven't kept a clean sheet against them for 13 games. Chelsea to win 2-1.
 
-#### Cardiff and Hull 
+#### Cardiff and Hull
 
 Cardiff look poor and haven't had the boost a new manager brings on the flip side Hull have boosted their strike force and that looks to be Shrewd business. Cardiff have won just 4 of their 16 games against sides outside the big 7 this season. Hull have won 6. I think Hull will be too strong and win 0-2
 
@@ -29,7 +30,7 @@ Arsenal will bounce back from their disappointment against Bayern and although i
 
 The 2011 Cup final. Hughes back at his former club. Man City like Arsenal will bounce back and although goals have dried up  a little in recent games they will be back to their best this time. Stoke have lost all 5 games away from home against the big teams, and although they beat Chelsea and Man Utd at home they won't have enough to stop City's fluidity. 5-0.
 
-#### West Ham vs Southampton.
+#### West Ham vs Southampton
 
 Many would think West Ham have turned it around in recent weeks, but the truth is they have had easier games and they are a team good enough to finish around 10th. They have 13 clean sheets this season, but 6 of those were 0-0 draws. Southampton have nothing to play for after their FA Cup loss. West Ham will continue to secure their premier league place but Southampton are decent enough and will score. 2-1.
 

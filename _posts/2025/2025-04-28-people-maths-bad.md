@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-28
 link: https://ifamagazine.com/hmrc-lisa-research-shows-even-financially-literate-confused-by-withdrawal-penalty/
 title: People are not good at maths
+type: linked
 cited: IFA Magazine
 
 ---

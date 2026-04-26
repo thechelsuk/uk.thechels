@@ -3,6 +3,7 @@ layout: post
 date: 2024-11-01
 link: https://humancentricengineering.substack.com/p/a-manifesto-for-human-centric-engineering
 title: A manifesto for Human-Centric Engineering
+type: linked
 cited: Simon Holmes
 ---
 

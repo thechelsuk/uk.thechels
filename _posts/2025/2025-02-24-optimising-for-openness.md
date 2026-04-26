@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-24
 title: Optimising for Openness and Transparency
 
+type: blog
 ---
 
 - We provide feedback on progress, challenges, blockers and issues early and often such that anyone is abreast of the current situation.
@@ -12,4 +13,3 @@ title: Optimising for Openness and Transparency
 - We are open with each other when we are unsure or find complexity or difficulty
 - We over-communicate given many work in a remote setting, we follow-up and check understanding
 - We are transparent and use facts as is. ([transparency](https://www.scrum.org/resources/blog/three-pillars-empiricism-scrum))
-

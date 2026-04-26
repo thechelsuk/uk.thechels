@@ -4,6 +4,7 @@ layout: post
 date: 2022-09-09
 link: https://blog.1password.com/incident-response-prevent-and-respond/
 title: Incident Response - How to Prevent and Respond to Data Breaches
+type: linked
 cited: 1Password
 
 ---

@@ -5,6 +5,7 @@ title: YouTube video workflow
 date: 2020-12-22
 tag:
 
+type: blog
 ---
 
 - Create cover thumbnail - adjust text

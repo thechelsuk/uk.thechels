@@ -50,5 +50,6 @@ jobs:
                   git diff
                   git config user.name "GitHub Action"
                   git config user.email "action@github.com"
-                  git diff --quiet || (git add -A && git commit -m "${{ inputs.imdb_id }} added to DB")
+                  git add -A
+                  git diff --staged --quiet || git commit -m "Chore: Add ${{ inputs.imdb_id }} film $(date -u +%Y-%m-%dT%H:%M) [skip ci]"
                   git push

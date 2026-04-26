@@ -2,6 +2,7 @@
 layout: post
 date: 2025-02-04
 title: Raycast Adds Hyperkey
+type: blog
 ---
 
 Finally, Spotlight replacement and all round productivity app, [Raycast](https://www.raycast.com/) has added a hyperkey.

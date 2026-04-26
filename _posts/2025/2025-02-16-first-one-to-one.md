@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-16
 title: First one-to-one
 
+type: blog
 ---
 
 A set of questions to ask at a first one-to-one with a new direct report or new colleague.

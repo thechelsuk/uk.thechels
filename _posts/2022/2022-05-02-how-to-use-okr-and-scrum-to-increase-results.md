@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-02
 link: https://blog.gitscrum.com/how-to-use-okr-and-scrum-to-increase-results/
 title: How to Use OKR and Scrum to Increase Results
+type: linked
 cited: GitScrum
 
 ---

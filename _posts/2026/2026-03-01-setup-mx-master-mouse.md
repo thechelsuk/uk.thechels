@@ -4,6 +4,7 @@ title: How to setup my MX Master Mouse
 seo: Ways - How to setup my MX Master Mouse
 
 link: https://www.logitech.com/en-gb/software/logi-options-plus
+type: linked
 cited: Logitech Options
 date: 2026-03-01
 type: ways

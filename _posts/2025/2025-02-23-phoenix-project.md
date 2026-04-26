@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-23
 title: The Phoenix Project - DevOps Transformation Guide
 
+type: blog
 ---
 
 - [About the story](#about-the-story)

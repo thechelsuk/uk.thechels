@@ -4,6 +4,7 @@ layout: post
 date: 2025-05-01
 link: https://ifamagazine.com/millions-of-people-in-the-uk-reach-retirement-age-with-a-private-annual-pension-of-just-3650-according-to-nowpensions/ IFA Magazine
 title: More people bad at math and money
+type: linked
 cited: IFA Magazine
 
 ---

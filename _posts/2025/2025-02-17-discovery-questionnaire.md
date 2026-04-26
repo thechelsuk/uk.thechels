@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-17
 title: The Discovery Questionnaire
 
+type: blog
 ---
 
 Please tell me about your life and work. Your answers are completely confidential. Take your time. Go deep. Nothing is out of bounds.

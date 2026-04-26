@@ -5,6 +5,7 @@ title: Saving json file using GitHub actions and curl
 date: 2020-11-12
 tag:
 
+type: blog
 ---
 
 Previously I had been using a python script and import the requests package to access a public json file and saving it to my repo, however there is a simpler way using curl built right in to the github action.

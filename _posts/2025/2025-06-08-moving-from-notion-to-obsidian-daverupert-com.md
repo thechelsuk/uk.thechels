@@ -1,7 +1,8 @@
 ---
 date: 2025-06-08
 title: "Moving from Notion to Obsidian"
-cited: "Dave Rupert"
+type: linked
+cited: Dave Rupert
 link: https://daverupert.com/2025/05/notion-to-obsidian/
 seo: "markdown, text is the new gold."
 tags:

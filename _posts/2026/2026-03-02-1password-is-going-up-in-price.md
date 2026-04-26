@@ -4,6 +4,7 @@ layout: post
 date: 2026-03-02
 link: https://www.theverge.com/tech/883837/1password-price-increase
 title: 1Password is going up in price
+type: linked
 cited: The Verge
 
 ---

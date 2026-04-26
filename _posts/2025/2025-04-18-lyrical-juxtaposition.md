@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-18
 title: Lyrical juxtaposition
 
+type: blog
 ---
 
 A couple of songs came up sequentially today that seemed appropriate for the times.

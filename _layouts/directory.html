@@ -89,9 +89,6 @@
 {% assign posts_with_link = 0 %}
 {% assign posts_with_cited = 0 %}
 {% for post in site.posts %}
-{% if post.link and post.link != '' %}
-{% assign posts_with_link = posts_with_link | plus: 1 %}
-{% endif %}
 {% if post.cited and post.cited != '' %}
 {% assign posts_with_cited = posts_with_cited | plus: 1 %}
 {% endif %}
@@ -108,13 +105,11 @@
 {% endif %}
 {% endfor %}
 <ul>
-    <li><b>{{ site.posts | size }}</b> Posts in total.</li>
-    <li><b>{{ posts_with_link }}</b> Linked Posts.</li>
-    <li><b>{{ posts_with_cited }}</b> Linked Posts with Citations.</li>
-    {% assign post_types = site.posts | map: "type" | uniq | compact %}
+    <li><b>{{ site.posts | size }}</b> total posts.</li>
+    {% assign post_types = site.posts | map: "type" | uniq | compact | sort %}
     {% for type in post_types %}
     {% assign type_count = site.posts | where: "type", type | size %}
-    <li><b>{{ type_count }}</b> {{ type | capitalize }}</li>
+    <li><b>{{ type_count }}</b> {{ type | capitalize }} posts</li>
     {% endfor %}
 
 </ul>

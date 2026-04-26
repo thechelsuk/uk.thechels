@@ -4,6 +4,7 @@ layout: post
 date: 2025-10-09
 title: Free the web
 
+type: blog
 ---
 
 When website security doesn't have fallbacks for visitors when using basic browser security tools.

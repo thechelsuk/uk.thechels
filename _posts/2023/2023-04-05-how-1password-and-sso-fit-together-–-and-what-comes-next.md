@@ -4,6 +4,7 @@ layout: post
 date: 2023-04-05
 link: https://blog.1password.com/1password-sso-what-comes-next/
 title: How 1Password and SSO fit together and what comes next
+type: linked
 cited: 1Password
 
 ---

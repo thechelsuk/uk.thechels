@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-22
 title: Bond Shopping - MI6 Q's Lab Equipment Adventure
 
+type: blog
 ---
 
 ## Scene 1: MI6 Headquarters - Q's Lab

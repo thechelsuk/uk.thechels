@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-07
 link: https://devrelbook.substack.com/p/2021-report-state-of-developer-relations
 title: 2021 Report State of Developer Relations
+type: linked
 cited: DevRelBook
 
 ---

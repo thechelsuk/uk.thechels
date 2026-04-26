@@ -3,6 +3,7 @@ layout: post
 title: Chelsea Ladies - Mid-season break
 tag:
    - chelsea
+type: blog
 ---
 
 It’s the mid-season break in the Women’s Super League So this seems like a good time to begin this blog as we recap over an exciting and transitional few months for the Ladies team. Chelsea sit 4th by virtue of goals scored over 5th placed Arsenal, albeit our London rivals and last season’s champions have two games in hand.

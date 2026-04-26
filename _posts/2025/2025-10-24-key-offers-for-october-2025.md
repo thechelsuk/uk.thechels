@@ -4,6 +4,7 @@ layout: post
 date: 2025-10-24
 title: Key Offers for October 2025
 
+type: blog
 ---
 
 - [£50 - Switch to Octopus Energy for £50 credit.](https://bit.ly/3oD1nnS)
@@ -18,6 +19,7 @@ title: Key Offers for October 2025
 - [Monitor all your domains for security issues and get real time alerts with Cybaa](https://cybaa.io/?ref=thechels)
 
 ## Indie App
+
 - [Get the Engineering Manager Coach App on iOS now](https://apps.apple.com/uk/app/engman/id6747295473)
 - [Get Hiyd - the Jekyll companion App on iOS now](https://apps.apple.com/us/app/hiyd/id6746853559)
 - [Plan for Tomorrow, today either Tomoz for iOS - your simple view of tomorrow’s calendar events](https://apps.apple.com/gb/app/tomoz/id6748755747)

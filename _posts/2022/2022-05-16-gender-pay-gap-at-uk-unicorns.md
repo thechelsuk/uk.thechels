@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-16
 link: https://sifted.eu/articles/gender-pay-gap-monzo-revolut/
 title: Gender pay gap at UK unicorns
+type: linked
 cited: Sifted EU
 
 ---

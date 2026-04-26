@@ -4,6 +4,7 @@ layout: post
 date: 2022-07-24
 link: https://www.swiftaid.co.uk/higher-rate-relief
 title: Higher Rate Relief via Swiftaid – Gift Aid made easy
+type: linked
 cited: Swiftaid
 
 ---

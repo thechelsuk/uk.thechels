@@ -4,6 +4,7 @@ layout: post
 date: 2026-01-16
 link: https://birchtree.me/blog/20261-the-year-of-micro-apps/
 title: 2026 the year of micro apps
+type: linked
 cited: Matt Birchtree
 
 ---

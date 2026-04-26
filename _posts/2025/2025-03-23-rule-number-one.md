@@ -5,6 +5,7 @@ date: 2025-03-23
 title: Rule One - People First Culture and Radical Candor
 
 
+type: blog
 ---
 
 In any organization, fostering a culture that prioritizes people is essential. This means valuing each individual's contribution to their team, promoting inclusivity, diversity, and ensuring that everyone feels respected and heard. I encourage debate and a difference of opinion. Stifling that would be detrimental the culture we are building however, how individuals communicate with others is critical. I'm a big fan of Radical Candor, but the key part is the respect in the messaging.

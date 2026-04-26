@@ -3,7 +3,7 @@
 layout: post
 date: 2025-02-23
 title: Resilient Management
-
+type: blog
 ---
 
 - [Meet your team](#meet-your-team)
@@ -593,7 +593,7 @@ In order to support your teammates well, it's important to build a strong relati
 
 If you consider your peers your first-team, you would have a more holistic picture of how others across the company are tackling changes to strategic direction, or are coaching their teammates to grow in their careers. And they would be learning from _you_, too.
 
----
+***
 
 A good metaphor for growth is what happens to caterpillars. A caterpillar will have to wrap itself into a cocoon, digest and convert itself to some kind of a gruesome soup, and reform itself into a butterfly.
 

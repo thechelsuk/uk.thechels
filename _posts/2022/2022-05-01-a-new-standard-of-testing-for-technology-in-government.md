@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-01
 link: https://technology.blog.gov.uk/2021/10/08/a-new-standard-of-testing-for-gov-uk/
 title: A new standard of testing for Technology in government
+type: linked
 cited: Gov.uk
 
 ---

@@ -3,6 +3,7 @@
 layout: post
 date: 2025-02-11
 title: The Newman List
+type: linked
 cited: Patrick Newman
 link: #
 ---
@@ -40,7 +41,7 @@ link: #
 
 ## Section 3: Managing senior management relationships
 
-1.	Direct management has clear visibility into the progress of the team
-2.	Direct management/management chain is appropriately involved in issues requiring special attention
-3.	You are able to advocate for specific prioritization decisions; priorities are set with transparency
-4.	Clear agreement on goals and definition of success
+1. Direct management has clear visibility into the progress of the team
+2. Direct management/management chain is appropriately involved in issues requiring special attention
+3. You are able to advocate for specific prioritization decisions; priorities are set with transparency
+4. Clear agreement on goals and definition of success

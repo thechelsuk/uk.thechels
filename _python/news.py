@@ -39,7 +39,7 @@ if __name__ == "__main__":
         for item in all_items:
             title = item['title'].replace('|', '')
             icon = item.get("icon", "")
-            string += f"- {icon} {title} ([{item['published']}]({item['link']}))\n"
+            string += f"- {title} ({icon}, [{item['published']}]({item['link']}))\n"
 
         f = root / "_pages/daily.md"
         m = f.open().read()

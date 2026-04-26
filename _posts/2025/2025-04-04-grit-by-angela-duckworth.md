@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-04
 title: Grit by Angela Duckworth
 
+type: blog
 ---
 
 ## About The Author

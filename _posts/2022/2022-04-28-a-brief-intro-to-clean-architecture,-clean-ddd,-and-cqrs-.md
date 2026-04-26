@@ -4,6 +4,7 @@ layout: post
 date: 2022-04-28
 link: https://blog.jacobsdata.com/2020/02/19/a-brief-intro-to-clean-architecture-clean-ddd-and-cqrs
 title: A Brief Intro to Clean Architecture, Clean DDD, and CQRS
+type: linked
 cited: Jacob Kaplan-Moss
 
 ---

@@ -4,6 +4,7 @@ layout: post
 date: 2026-02-25
 link: https://www.0xsid.com/blog/online-tld-is-pain
 title: Never Buy an .online Domain
+type: linked
 cited: Sid
 
 ---

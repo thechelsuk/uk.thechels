@@ -4,6 +4,7 @@ title: Week Seven - Work Life Balance and 25.4 Mile Week
 total: [25.4]
 tag:
   - runs
+type: blog
 ---
 
 Monday afternoon easy run for 5 miles, not the usual commute, having taken the day as leave.

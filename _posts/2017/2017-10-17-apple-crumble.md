@@ -2,6 +2,7 @@
 layout: post
 title: Apple Crumble - Classic Recipe and Cooking Guide
 tags:
+type: blog
 ---
 
 + Serves 4

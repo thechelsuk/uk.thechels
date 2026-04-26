@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-02
 link: https://www.karllhughes.com/posts/direct-reports
 title: Managing Direct Reports at a Startup
+type: linked
 cited: Karl Hughes
 
 ---

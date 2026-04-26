@@ -4,6 +4,7 @@ layout: post
 date: 2025-06-27
 link: https://www.theregister.com/2025/06/20/github_begins_enforcing_premium_request/
 title: New GitHub Copilot limits
+type: linked
 cited: The Register
 
 ---

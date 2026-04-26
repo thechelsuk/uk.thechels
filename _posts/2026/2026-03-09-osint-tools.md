@@ -4,6 +4,7 @@ layout: post
 date: 2026-03-09
 title: OSINT Tools
 
+type: blog
 ---
 
 Broad open source intelligence tool link list

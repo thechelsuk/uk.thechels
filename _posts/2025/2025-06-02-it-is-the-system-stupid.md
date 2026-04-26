@@ -4,6 +4,7 @@ layout: post
 date: 2025-06-02
 link: https://codemanship.wordpress.com/2025/05/11/its-the-system-stupid/
 title: It is the System Stupid
+type: linked
 cited: Codemanship
 
 ---

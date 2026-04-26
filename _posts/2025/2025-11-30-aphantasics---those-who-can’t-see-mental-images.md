@@ -4,6 +4,7 @@ layout: post
 date: 2025-11-30
 link: https://kottke.org/25/11/meet-the-aphantasics-those-who-cant-see-mental-images
 title: Aphantasics - Those Who Can’t See Mental Images
+type: linked
 cited: Jason Kottke
 
 ---

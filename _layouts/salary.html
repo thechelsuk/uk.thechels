@@ -1,0 +1,15 @@
+{% include header.html %}
+<h1 class="post-title">{{ page.title }}</h1>
+<p class="marker"><b>{{ site.data.salaries | size }}</b> entries.</p>
+
+{{content}}
+
+{% assign items = site.data.salaries %}
+
+
+<ul id="salaries">
+    {% for item in items %}
+    <li>{{item.date}}: £{{item.value | number_to_currency}}</li>
+    {% endfor %}
+</ul>
+{% include footer.html %}

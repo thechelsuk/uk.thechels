@@ -3,6 +3,7 @@ layout: post
 date: 2024-10-28
 link: https://ifamagazine.com/pension-transfer-times-at-lowest-since-pandemic/
 title: Pension transfer times at lowest since pandemic
+type: linked
 cited: IFA Magazine
 ---
 

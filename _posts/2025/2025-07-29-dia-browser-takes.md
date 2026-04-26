@@ -4,6 +4,7 @@ author: Mat
 tags:
 date: 2025-07-29
 
+type: blog
 ---
 
 I like the simplicity of The Browser Company’s second browser. I had been using Arc as my primary browser as I preferred the left hand side tabs - particularly on my 34’ screen - for around a year.

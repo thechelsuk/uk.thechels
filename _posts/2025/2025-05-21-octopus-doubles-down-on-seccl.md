@@ -4,6 +4,7 @@ layout: post
 date: 2025-05-21
 link: https://ifamagazine.com/octopus-doubles-down-on-seccl-with-new-investment-in-reshaped-management-team/
 title: Octopus doubles down on Seccl
+type: linked
 cited: IFA Magazine
 
 ---

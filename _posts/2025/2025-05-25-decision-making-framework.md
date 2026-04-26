@@ -4,7 +4,8 @@ layout: post
 title: "7 Frameworks To Master Decision Making"
 date: 2025-05-25
 tags:
-cited: "Owain Lewis"
+type: linked
+cited: Owain Lewis
 link: "https://owainlewis.com/"
 
 ---

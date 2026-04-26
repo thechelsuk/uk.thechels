@@ -4,6 +4,7 @@ layout: post
 date: 2025-05-15
 link: https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far
 title: What I've learned about writing AI apps so far
+type: linked
 cited: Seldo
 
 ---

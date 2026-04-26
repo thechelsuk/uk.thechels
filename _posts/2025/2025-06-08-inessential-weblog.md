@@ -1,6 +1,7 @@
 ---
 date: 2025-06-08
 title: "Quoting Brent Simmons on NetNewsWire"
+type: linked
 cited: Brent Simmons (inessential.com)
 link: https://inessential.com/2025/05/24/retirement_and_netnewswire.html
 seo:

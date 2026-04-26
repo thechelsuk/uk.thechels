@@ -1,0 +1,28 @@
+- id: Search Router
+  url: https://github.com/thechelsuk/uk.thechels.search/releases.atom
+- id: Tools
+  url: https://github.com/thechelsuk/uk.thechels.tools/releases.atom
+- id: Cheltenham Open Data
+  url: https://github.com/thechelsuk/uk.thechels.cod/releases.atom
+- id: DotNet Dev Feeds
+  url: https://github.com/thechelsuk/uk.thechels.feeds/releases.atom
+- id: Mltply
+  url: https://github.com/thechelsuk/com.uk.thechels.mltply/releases.atom
+- id: Boinc @ thechelsuk
+  url: https://github.com/thechelsuk/uk.thechels.boinc/releases.atom
+- id: Links
+  url: https://github.com/thechelsuk/uk.thechels.links/releases.atom
+- id: NNW thechelsuk Theme
+  url: https://github.com/thechelsuk/uk.thechels.themes.nnw/releases.atom
+- id: NNW Guro Theme
+  url: https://github.com/thechelsuk/uk.thechels.themes.nnw.guro/releases.atom
+- id: Thechels.uk
+  url: https://github.com/thechelsuk/uk.thechels/releases.atom
+- id: Hiyd.uk
+  url: https://github.com/thechelsuk/uk.hiyd/releases.atom
+- id: Nuchronic.uk
+  url: https://github.com/thechelsuk/uk.nuchronic/releases.atom
+- id: Homebridge (YSA2) Yale Alarm
+  url: https://github.com/thechelsuk/homebridge-ysa2-plugin/releases.atom
+- id: SecOpsNews
+  url: https://github.com/SecOpsNews/news/releases.atom
