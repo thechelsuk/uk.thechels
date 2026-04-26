@@ -4,6 +4,7 @@ title: How to run mole
 seo: Ways - run mole
 
 link: https://github.com/tw93/Mole/blob/main/README.md
+type: linked
 cited: Mole
 date: 2026-03-01
 type: ways

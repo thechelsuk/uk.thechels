@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-01
 title: Tips To Encourage Autonomy in Children 
 
+type: blog
 ---
 
 1. Let Children Make Choices.

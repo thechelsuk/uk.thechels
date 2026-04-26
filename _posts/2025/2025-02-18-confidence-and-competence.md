@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-18
 title: Confidence and Competence
 
+type: blog
 ---
 
 - Let people go when they are both confident and competent. If they know what they're doing then you can set goals and get out of the way.

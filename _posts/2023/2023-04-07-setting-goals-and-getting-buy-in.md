@@ -4,6 +4,7 @@ layout: post
 date: 2023-04-07
 link: https://www.karllhughes.com/posts/goals-buyin
 title: Setting Goals and Getting Buy-in
+type: linked
 cited: Karl Hughes
 
 ---

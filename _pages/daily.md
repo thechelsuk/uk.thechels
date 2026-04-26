@@ -3,7 +3,7 @@ layout: pages
 title: Daily Briefing and Updates
 permalink: /daily
 seo: Good Morning, Here is your daily briefing
-date: 2026-04-11
+date: 2026-04-26
 
 ---
 <!-- markdownlint-disable MD033 -->
@@ -11,14 +11,14 @@ date: 2026-04-11
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Saturday, 11 April 2026
+## On Sunday, 26 April 2026
 
-- The average temperature today is 7.92˚C,
-- With highs of 7.92˚C and lows of 7.92˚C,
-- It may feel like 5.51˚C with overcast clouds
-- The wind speed is 3.88m/s and visibility is 10000m
-- The pressure is 1002hPa and humidity is 86%
-- The sun will rise at 05:20 and set at 18:57
+- The average temperature today is 8.85˚C,
+- With highs of 9.73˚C and lows of 7.75˚C,
+- It may feel like 7.34˚C with overcast clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1024hPa and humidity is 76%
+- The sun will rise at 04:48 and set at 19:23
 
 <!-- weather_marker ends -->
 
@@ -26,7 +26,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SUBSTANTIAL</span>
-- It has been 767 days since the last change (2024-03-05)
+- It has been 782 days since the last change (2024-03-05)
 
 <!-- threat_marker ends -->
 
@@ -39,82 +39,82 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Move fast.
+> Know your users.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Chelsea U18 v West Ham United U18
-- Leeds United U18 v Manchester United U18
-- Coventry City v Sheffield Wednesday
-- Norwich City v Ipswich Town
-- QPR v Bristol City
-- Cardiff City v Bolton Wanderers
-- Lincoln City v Leyton Orient
-- Plymouth Argyle v Exeter City
-- Bristol Rovers v Crawley Town
-- MK Dons v Bromley
-- Boreham Wood v Hartlepool United
-- Tamworth v York City
-- Arsenal v AFC Bournemouth
-- Rochdale v Wealdstone
-- Liverpool v Fulham
+- Coventry City v Wrexham
+- Everton Women v Chelsea Women
+- London City Lionesses v Leicester City Women
+- Tottenham Hotspur Women v Manchester United Women
+- Durham Women v Sheffield United Women
+- Manchester United U21 v Sunderland U21
+- Liverpool U21 v Crystal Palace U21
+- Liverpool Women v West Ham United Women
+- Birmingham City Women v Ipswich Town Women
+- Bristol City Women v Newcastle United Women
+- Portsmouth Women v Nottingham Forest Women
+- Sunderland AFC Women v Crystal Palace Women
+- Chelsea v Leeds United
+- Arsenal Women v Lyon Women
+- Southampton Women v Charlton Athletic Women
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 125.9800033569336 
-- ^FTSE : 10600.5 
-- ^FTMC : 22351.0 
+- VWRL.L : 129.66000366210938 
+- ^FTSE : 10379.099609375 
+- ^FTMC : 22582.80078125 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> I have recently resigned from my job and have applied for a new job but yet to hear anything. It was at a chiropractor about a weak back.
+> I have a business idea, it is a candle company with the words of famous songs printed on them, it is called waxing lyrical.
 <!-- jokes_marker ends -->
 
 ### Top News
 <!-- news_marker starts -->
-- £ Peace talks between the US and Iran set to begin in Pakistan ([27 minutes ago](https://www.ft.com/content/d5c00c1b-0807-4f94-b181-4f3a50937540))
-- € Gather together: Photographer Neal Slavin on what 50 years of taking group shots says about us ([1 hours ago](http://www.euronews.com/culture/2026/04/11/gather-together-photographer-neal-slavin-on-what-50-years-of-taking-group-shots-says-about))
-- € Hungary Elections: There is hope that Peter Magyar can deliver a new beginning ([1 hours ago](http://www.euronews.com/2026/04/11/hungary-elections-peter-magyar))
-- ♣ The Daily Hilario: Saturday ([1 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167742/the-daily-hilario-april-11th))
-- £ JD Vance arrives in Pakistan for ‘positive’ peace talks with Iran ([1 hours ago](https://www.ft.com/content/5a14a4dd-0042-46bf-bbdf-bc0cc19635b1))
-- € Hungary Election: An Orbán victory would be good news for Europe ([1 hours ago](http://www.euronews.com/2026/04/11/hungary-election-orban-victory-europe))
-- € Kicking back: Spain's La Liga goes retro for nostalgic football matchday ([2 hours ago](http://www.euronews.com/culture/2026/04/11/kicking-back-spains-la-liga-goes-retro-for-nostalgic-football-matchday))
-- € How will AI impact tourism and travel? Your next trip could be entirely planned by ChatGPT ([2 hours ago](http://www.euronews.com/next/2026/04/11/how-will-ai-impact-tourism-and-travel-your-next-trip-could-be-entirely-planned-by-chatgpt))
-- € From bone loss to blurred vision: How space travel impacts the human body ([2 hours ago](http://www.euronews.com/health/2026/04/11/from-bone-loss-to-blurred-vision-how-space-travel-impacts-the-human-body))
-- € NASA's Artemis II astronauts back on earth after record-breaking trip around the moon ([2 hours ago](http://www.euronews.com/2026/04/11/nasas-artemis-ii-astronauts-back-on-earth-after-record-breaking-trip-around-the-moon))
-- € Drowned chicks and food scarcity: Emperor penguin and Antarctic fur seal now endangered ([3 hours ago](http://www.euronews.com/2026/04/11/drowned-chicks-and-food-scarcity-emperor-penguin-and-antarctic-fur-seal-now-endangered))
-- € House prices across Europe: Which countries saw the highest rises in 2025? ([3 hours ago](http://www.euronews.com/business/2026/04/11/house-prices-across-europe-which-countries-saw-the-highest-rises-in-2025))
-- € Latest news bulletin  April 11th, 2026 – Morning ([3 hours ago](http://www.euronews.com/video/2026/04/11/latest-news-bulletin-april-11th-2026-morning))
-- £ The damage wrought on the Middle East’s oil and gas supplies ([4 hours ago](https://www.ft.com/content/f7e61ecd-59cb-4be0-92c4-94198e60ba76))
-- £ Only two events have mattered in my 30 years of investing ([4 hours ago](https://www.ft.com/content/2b6a532b-236f-472b-b386-cc7d30f8453c))
-- £ The tragedy of leisure ([4 hours ago](https://www.ft.com/content/b91b739e-2164-463c-a8e0-54b59650a9f9))
-- £ Dubai, eternal city ([4 hours ago](https://www.ft.com/content/c9029475-b7cc-419c-823b-4caf78247ecf))
-- £ Clients’ barrage of AI-generated queries risks pushing up lawyers’ fees ([4 hours ago](https://www.ft.com/content/744d2c77-a34e-4ca0-9f0e-ce8cdcdee483))
-- £ Reid Wiseman, the astronaut hailing a new ‘golden age’ in space ([7 hours ago](https://www.ft.com/content/2b948cc0-e744-4209-a90b-fcc4577c6029))
-- £ Historic Nasa Moon mission returns safely to Earth ([7 hours ago](https://www.ft.com/content/8f92c5ae-49af-4a63-a5e6-66a571ea990c))
-- ® Snowflake manager explains the 'Spider-Man' theory of AI agent data access ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/10/ai_agents_spider_man_snowflake/))
-- ® Here's how to watch the Artemis II splashdown ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/10/watch_artemis_ii_splashdown/))
-- ® Red Hat RHELocates its Chinese engineering team to India ([10 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/10/red_hat_ends_china_engineering/))
-- £ Cyber security stocks fall on worries over Anthropic’s advanced AI tool ([11 hours ago](https://www.ft.com/content/f1205b22-ad87-43bb-bc63-da5b69a942ef))
-- ♣ How should Chelsea line up against Manchester City to avoid another embarrassment? ([11 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/167752/how-should-chelsea-line-up-against-manchester-city-to-avoid-another-embarrassment))
-- ♣ Alejandro Garnacho reflects on Manchester United exit, Chelsea struggles ([12 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc/167747/alejandro-garnacho-reflects-on-manchester-united-exit-chelsea-struggles))
-- ® Microsoft's Copilot strategy is just more user abuse from Redmond, says Mozilla ([15 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/10/mozilla_microsofts_copilot_strategy/))
-- ® Electronics industry says FCC's foreign-made router policy is a bit of a mesh ([16 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/10/gea_fcc_routers/))
-- ® CPUID site hijacked to serve malware instead of HWMonitor downloads ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/10/cpuid_site_hijacked/))
-- ® Amazon would rather shareholders did not look too closely at carbon footprint ([19 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/10/amazon_climate_goals/))
-- ® Suits won't quit AI spending, even if they can't prove it's working ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/10/ai_roi_kpmg/))
-- ® Project Glasswing and open source software: The good, the bad, and the ugly ([20 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/10/project_glasswing/))
-- ® Britain seeks views before it drops the hammer on signal jammers ([21 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/10/signal_jammer_consultation/))
-- ♣ The Daily Hilario: Friday ([1 days ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/167727/the-daily-hilario-april-10th))
-- ♣ Enzo Fernández apologized to everyone and ‘made peace’ at Chelsea ([1 days ago](https://weaintgotnohistory.sbnation.com/chelsea-fc/167730/enzo-fernandez-apologized-to-everyone-and-made-peace-at-chelsea))
+- Moment Trump rushed to safety as gunshots heard at White House Correspondents' Dinner (€, [10 minutes ago](http://www.euronews.com/video/2026/04/26/moment-trump-rushed-to-safety-as-gunshots-heard-at-white-house-correspondents-dinner))
+- Trump evacuated after shots fired near White House Correspondents' Dinner (€, [1 hours ago](http://www.euronews.com/2026/04/26/trump-evacuated-after-shots-fired-near-white-house-correspondents-dinner))
+- This 9-seat plane takes off in 50 meters. Norway hopes it will connect people in remote areas (€, [1 hours ago](http://www.euronews.com/next/2026/04/26/this-9-seat-plane-takes-off-in-50-meters-norway-hopes-it-will-connect-people-in-remote-are))
+- ‘Nature has performed a factory reset’: Chernobyl has flourished into an unlikely wildlife refuge (€, [1 hours ago](http://www.euronews.com/2026/04/26/nature-has-performed-a-factory-reset-chernobyl-has-flourished-into-an-unlikely-wildlife-re))
+- Opinions divided across UK on historic anti-smoking law (€, [1 hours ago](http://www.euronews.com/video/2026/04/26/opinions-divided-across-uk-on-historic-anti-smoking-law))
+- Europe fuel prices before the Iran war and after the ceasefire: Where did they rise most? (€, [1 hours ago](http://www.euronews.com/business/2026/04/26/europe-fuel-prices-before-the-iran-war-and-after-the-ceasefire-where-did-they-rise-most))
+- Latest news bulletin  April 26th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/04/26/latest-news-bulletin-april-26th-2026-morning))
+- New hotels in Japan: The standout openings to book in 2026 (€, [1 hours ago](http://www.euronews.com/travel/2026/04/26/new-hotels-in-japan-the-standout-openings-to-book-in-2026))
+- Can AI discriminate if it can’t justify itself? (£, [2 hours ago](https://www.ft.com/content/47f73399-df62-4683-93c2-ee210d983460))
+- Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft (£, [2 hours ago](https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c))
+- Iran war hits pistachio supplies amid Dubai chocolate boom (£, [2 hours ago](https://www.ft.com/content/438ef32a-59e5-41b3-a0da-569716385347))
+- How to demine the Strait of Hormuz (£, [2 hours ago](https://www.ft.com/content/78a983c8-6ed5-42f3-b794-7fed9ee189ed))
+- China’s smartphone king takes on Elon Musk in Europe with premium EVs (£, [2 hours ago](https://www.ft.com/content/31f80e68-dc0a-4251-a657-351e2e614fe2))
+- Vladimir Putin’s regime turns on book publishers (£, [2 hours ago](https://www.ft.com/content/120db39e-4ec0-4ef7-8041-4a1fdafb9ef0))
+- Fuel crisis hits remote Pacific island nation of Tuvalu (£, [2 hours ago](https://www.ft.com/content/6eaa0d4a-bf5c-40fa-91f7-001f399f4e08))
+- Trump rushed offstage at White House correspondents’ dinner after shots fired (£, [3 hours ago](https://www.ft.com/content/a5b3add2-eee6-41d8-9353-f1bdc2b77398))
+- Trump cancels trip by US negotiators for Iran peace talks (£, [9 hours ago](https://www.ft.com/content/c3be45f6-0e2d-4683-bd10-e0ba726ffade))
+- Chelsea vs. Leeds United, FA Cup: Preview, team news, how to watch (♣, [12 hours ago](https://weaintgotnohistory.sbnation.com/domestic-cups/168089/chelsea-vs-leeds-united-fa-cup-preview-team-news-how-to-watch))
+- Palestinians vote in West Bank and central Gaza municipal elections, the first since war started (€, [13 hours ago](http://www.euronews.com/2026/04/25/palestinians-vote-in-west-bank-and-central-gaza-municipal-elections-the-first-since-war-st))
+- Latest news bulletin  April 25th, 2026 – Evening (€, [14 hours ago](http://www.euronews.com/video/2026/04/25/latest-news-bulletin-april-25th-2026-evening))
+- Ex-AWS legend explains what enterprises need to make AI actually work (®, [17 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/25/ai_enterprise_matt_domo/))
+- Crime crew impersonates help desk, abuses Microsoft Teams to steal your data (®, [21 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/04/25/new_crime_crew_impersonates_help_desks/))
+- The Daily Hilario: Saturday (♣, [23 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/168067/the-daily-hilario-april-25th))
+- Frank Lampard’s ‘business’ is at Coventry, not Chelsea (♣, [1 days ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168080/frank-lampards-business-is-at-coventry-not-chelsea))
+- DeepSeek's new models are so efficient they'll run on a toaster ... by which we mean Huawei's NPUs (®, [1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/24/deepseek_v4/))
+- Cesc Fàbregas would be ‘stupid’ to think about Chelsea job opportunity right now (♣, [1 days ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168076/cesc-fabregas-would-be-stupid-to-think-about-chelsea-job-opportunity-right-now))
+- How should Calum McFarlane’s Blue and White Army line up against Leeds United in FA Cup semifinal? (♣, [1 days ago](https://weaintgotnohistory.sbnation.com/domestic-cups/168071/how-should-calum-mcfarlanes-blue-and-white-army-line-up-against-leeds-united-in-fa-cup-semifinal))
+- Ubuntu Resolute Raccoon spits out Xorg, but still lets you run X11 apps (®, [1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/24/ubuntu_resolute_raccoon/))
+- Pentagon wants to water down drone program with autonomous subs (®, [1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/24/pentagons_deep_sea_drones/))
+- US clarifies mobile hotspots part of foreign router ban despite rarity of American made consumer kit (®, [1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/24/fcc_does_a_doubletake_adds/))
+- ShinyHunters claim they have cruise giant Carnival's booty as 7.5M emails surface (®, [1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/24/shinyhunters_claim_cruise_giant_carnivals/))
+- Governments on high alert after CISA snuffs out Firestarter backdoor on fed network (®, [1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/24/government_cni_on_high_alert/))
+- More ancient Linux device support faces the chop (®, [1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/24/ancient_linux_drivers_going/))
+- Open Telemetry founder tools up for project graduation party (®, [1 days ago](https://go.theregister.com/feed/www.theregister.com/2026/04/24/open_telemetry_founder_tools_up/))
+- The Daily Hilario: Friday (♣, [1 days ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/168051/the-daily-hilario-april-24th))
 
 <!-- news_marker ends -->
 
@@ -122,7 +122,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > rabble-rouse - verb intr.: To stir up the masses, especially to incite action or change.
+ > verdurous - adjective: Abounding in green vegetation; verdant.
 
 <!-- word_marker ends -->
 
@@ -130,34 +130,34 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> I keep the white-belt mentality that I can learn from anyone, anywhere, anytime. - Georges St-Pierre
+> Know the power of silence. - Geoff Watts
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Is it finished?
+> Emphasize differences
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Psycho (Rated: 3)
-- Released in 1960
-- Summary: A secretary on the run for embezzlement takes refuge at a secluded California motel owned by a repressed man and his overbearing mother.
+- American History X (Rated: 5)
+- Released in 1998
+- Summary: A European-American man is released from prison and now a changed man and hopes to prevent his younger brother from following in his footsteps.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 <!-- game_marker starts -->
 
-- Target: 700, using [4, 7, 8, 9, 10, 50]
-- Answer: 62 solutions.
+- Target: 506, using [1, 2, 3, 8, 25, 75]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 10 + 9 + 7 - 8 - 4 ) x 50
+  Solution: ( 75 - 8 - 1 ) x ( 25 - 2 ) / 3
 
    </details>
 
@@ -165,9 +165,9 @@ _Good Morning, Here is your daily briefing..._
 
 ### 5 Random Blogroll Links
 <!-- blogroll_marker starts -->
-- Ploeh.DJ [URL](https://blog.ploeh.dk/) [Feed](https://blog.ploeh.dk/rss.xml)
-- Simon BS [URL](https://simonbs.dev/) [Feed](http://simonbs.dev/feed.rss)
-- Data Goddess [URL](https://thedatagoddess.com/) [Feed](http://thedatagoddess.com/feed/)
-- Robb Owen [URL](http://robbowen.digital/) [Feed](https://robbowen.digital/feed.xml)
-- Scott Helme [URL](https://scotthelme.ghost.io/) [Feed](https://scotthelme.co.uk/rss/)
+- ollicle.com [URL](https://ollicle.com/) [Feed](https://ollicle.com/feed.xml)
+- Martin Fowler [URL](https://martinfowler.com/) [Feed](https://martinfowler.com/feed.atom)
+- ThoughtAsylum [URL](https://www.thoughtasylum.com/) [Feed](https://www.thoughtasylum.com/atom.xml)
+- Simon Collison [URL](https://colly.com/) [Feed](https://colly.com/articles/feed)
+- Piccalilli (links) [URL](https://piccalil.li/) [Feed](https://piccalil.li/links.xml)
 <!-- blogroll_marker ends -->

@@ -1,7 +1,8 @@
 ---
 date: 2026-02-10
 title: "Discord Is Not An Acceptable Choice For Free Software Projects"
-cited: "Jeffrey Paul"
+type: linked
+cited: Jeffrey Paul
 link: https://sneak.berlin/20200220/discord-is-not-an-acceptable-choice-for-free-software-projects/
 seo: ""
 tags:

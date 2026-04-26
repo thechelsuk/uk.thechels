@@ -4,6 +4,7 @@ title: How to export your contacts from Apple Contacts
 seo: Ways - How to export your contacts from Apple Contacts
 
 link: https://support.apple.com/en-gb/guide/contacts/adrbdcfd32e6/mac
+type: linked
 cited: Apple
 date: 2026-03-01
 type: ways

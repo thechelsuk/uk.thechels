@@ -6,6 +6,7 @@ seo: "A Guide for Tech Leaders Navigating Growth and Change"
 date: 2025-02-23
 tags:
 
+type: blog
 ---
 
 - [Management 101](#management-101)
@@ -944,7 +945,7 @@ True North helps us understand that all these issues must be carefully considere
 
 **You must spend enough time in your career to hone these instincts in order to be comfortable making fast judgment calls.**
 
----
+***
 
 At this level your coaching and mentoring are likely to come from people outside of your company. Do you know other senior managers at companies in your area? Do you admire any technology senior managers? What is it about them that you admire? Are you behaving like a role model for your team?
 

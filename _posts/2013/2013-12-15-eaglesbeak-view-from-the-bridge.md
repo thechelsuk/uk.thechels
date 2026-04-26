@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Eaglesbeak - Post-match reaction
+type: linked
 cited: Jay Crame
 link: https://theeaglesbeak.com/2013/12/17/predictions-league-4/
 tag:

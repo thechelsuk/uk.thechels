@@ -4,6 +4,7 @@ title: How to watch NWSL games on TV
 seo: Ways - How to watch NWSL games on TV
 
 link: https://plus.nwslsoccer.com/
+type: linked
 cited: NWSL
 date: 2026-03-01
 type: ways

@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-18
 title: One-to-one Checklist
 link: https://www.15five.com/blog/one-on-one-meeting-checklist/
+type: linked
 cited: 15Five
 ---
 

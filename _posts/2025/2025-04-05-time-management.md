@@ -3,6 +3,7 @@
 layout: post
 date: 2025-04-05
 title: Time Management
+type: blog
 ---
 
 > I didn't have enough time to do this

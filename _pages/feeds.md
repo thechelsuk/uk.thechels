@@ -6,43 +6,30 @@ seo: Subscribe to various JSON, RSS, and Data feeds
 
 ---
 
-A number of RSS feeds are available.
+A number of RSS feeds are available. All feeds are Atom/XML unless otherwise specified.
 
-- Main Feed [Atom/XML](/feed.xml) / [JSON](/feed.json) - All post feeds.
-  - Posts [Atom/XML](/posts.xml) - Posts without linked/quote posts.
-  - RSS only [Atom/XML](/rss.xml) - Secret RSS only posts.
-  - Ways only [Atom/XML](/ways.xml) - Ways only posts.
-  - TIL only [Atom/XML](/til.xml) - TIL only posts.
-  - Mixtapes only [Atom/XML](/mixtapes.xml) - Mixtape only posts.
-- Films [Atom/XML](/films.xml) - Film reviews.
-- Bluesky [Atom/XML](https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/rss) - A feed directly from Bluesky.
-- Mastodon [Atom/XML](https://mastodon.social/@Thechelsuk.rss) - A feed directly from Mastodon.
-- Videos [Atom/XML](https://www.youtube.com/feeds/videos.xml?channel_id=UCwK4oZ8hw9RS6tZKEjw_qLw) - A feed directly from YouTube (Note that the reliability and consistency of this feed is not great).
+- [Main Feed](/feed.xml) - All firehose feed ({{ site.posts | size }} posts).
+- [Main feed as JSON](/feed.json) - All firehose feed.
 
-and;
+By type:
 
-{% assign all_entries = "" | split: "" %}
-{% for post in site.posts %}
-  {% assign all_entries = all_entries | push: post %}
-{% endfor %}
-{% for item in site.data.videos %}
-  {% assign all_entries = all_entries | push: item %}
-{% endfor %}
-{% for item in site.data.bluesky %}
-  {% assign all_entries = all_entries | push: item %}
-{% endfor %}
-{% for item in site.data.mastodon %}
-  {% assign all_entries = all_entries | push: item %}
-{% endfor %}
-{% for item in site.data.films %}
-  {% assign all_entries = all_entries | push: item %}
-{% endfor %}
+- [Daily only](/daily.xml) - A daily briefing of news, notices, quotes, and more.
+- [Mixtapes only](/mixtapes.xml) - Mixtape posts only.
+- [Links only](/links.xml) - Linked/quote posts only.
+- [Posts only](/posts.xml) - Posts only.
+- [Releases only](/releases.xml) - Release posts only.
+- [RSS only](/rss.xml) - Secret RSS posts only.
+- [Socials only](/socials.xml) - Social posts only.
+- [TIL only](/til.xml) - TIL posts only.
+- [Ways only](/ways.xml) - Ways posts only.
+- [Videos only](/videos.xml) - Video posts only.
 
-- Firehose [Atom/XML](/firehose.xml) - A firehose feed of all content (**{{ all_entries | size }}** total entries) from all sources  above in one single feed.
+## Direct Data Feeds
 
-or finally;
-
-- Daily [Atom/XML](/daily.xml) - A daily briefing of news, notices, quotes, and more.
+- [Films](/films.xml) - Film reviews.
+- [Bluesky](https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/rss) - A feed directly from Bluesky.
+- [Mastodon](https://mastodon.social/@Thechelsuk.rss) - A feed directly from Mastodon.
+- [Youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCwK4oZ8hw9RS6tZKEjw_qLw) - A feed directly from YouTube.
 
 ## Niche Summary Feeds
 

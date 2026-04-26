@@ -3,6 +3,7 @@ title: Why Agile Story Sizes Should Target One Day Maximum
 layout: post
 date: 2022-04-28
 link: https://paulhammant.com/2012/04/24/call-to-arms-average-story-sizes-of-one-day/
+type: linked
 cited: Paul Hammant
 
 ---

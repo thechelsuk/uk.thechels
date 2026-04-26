@@ -2,6 +2,7 @@
 layout: post
 title: Pizza base recipe
 tags:
+type: blog
 ---
 
 ## Ingredients

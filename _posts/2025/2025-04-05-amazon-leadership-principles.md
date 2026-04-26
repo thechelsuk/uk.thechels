@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-05
 link: https://www.amazon.jobs/content/en/our-workplace/leadership-principles
 title: Amazon Leadership principles
+type: linked
 cited: Amazon
 ---
 

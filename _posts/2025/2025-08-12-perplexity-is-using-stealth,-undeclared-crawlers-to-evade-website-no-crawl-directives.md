@@ -4,6 +4,7 @@ layout: post
 date: 2025-08-12
 link: https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/
 title: Perplexity is using stealth, undeclared crawlers to evade website no-crawl directives
+type: linked
 cited: Cloudflare
 
 ---

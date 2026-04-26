@@ -2,6 +2,7 @@
 layout: post
 title: Vegan Cheesecake
 tag:
+type: blog
 ---
 
 * 150g Finger biscuits - crushed

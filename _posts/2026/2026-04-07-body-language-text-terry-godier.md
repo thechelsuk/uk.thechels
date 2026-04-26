@@ -1,6 +1,7 @@
 ---
 date: 2026-04-07
 title: Language for when the body is broken
+type: linked
 cited: Terry Godier
 link: https://www.terrygodier.com/body-language/ascii
 tags: [ME]

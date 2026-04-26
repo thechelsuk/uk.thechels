@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-15
 link: https://www.jeremiahlee.com/posts/agile/user-story-estimation/
 title: Agile User Story Estimation
+type: linked
 cited: Jeremiah Lee
 
 ---

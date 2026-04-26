@@ -4,6 +4,7 @@ layout: post
 date: 2022-07-24
 link: https://jacobian.org/2022/jun/16/making-a-compelling-offer/
 title: Making a Compelling Offer in this economy?
+type: linked
 cited: Jacob Kaplan-Moss
 
 ---

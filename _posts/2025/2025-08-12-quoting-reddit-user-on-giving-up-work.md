@@ -5,6 +5,7 @@ date: 2025-08-12
 title: Quoting Reddit user on giving up work
 tags: [ME]
 
+type: blog
 ---
 
 Reddit user on giving up work

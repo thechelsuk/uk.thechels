@@ -2,13 +2,15 @@
 layout: empty
 permalink: /feed
 ---
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 {% assign pub_date = site.time | date: "%Y-%m-%dT%H:%M:%SZ" %}
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <title>{{ site.owner.name }} - {{ site.title }} Main</title>
-  <subtitle type="html">{{ site.description }}</subtitle>
-  <link rel="self" type="application/atom+xml" href="{{ site.url }}/feed.xml" />
-  <link rel="alternate" type="text/html" href="{{ site.url }}" />
+  <title>{{ site.title | xml_escape }} — The Everything Feed</title>
+  <subtitle>A firehose feed</subtitle>
+  <link href="{{ site.url }}/firehose.xml" rel="self" type="application/atom+xml"/>
+  <link href="{{ site.url }}/" rel="alternate" type="text/html"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ site.url }}/firehose.xml</id>
   <generator>Jekyll</generator>
   <rights>{{ site.owner.name }}</rights>
   <updated>{{ pub_date }}</updated>
@@ -17,39 +19,73 @@ permalink: /feed
     <email>{{ site.owner.email }}</email>
     <uri>{{ site.owner.uri }}/</uri>
   </author>
-  <id>{{ site.url }}/</id>
+{%- assign posts = site.posts -%}
+{%- assign films = "" | split: "" -%}
+{%- for film in site.data.films -%}
+  {%- assign film_year = film.date | date: "%Y" | times: 1 -%}
+  {%- if film_year >= 2020 -%}
+    {%- assign films = films | push: film -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign posts = posts | concat: films -%}
+{%- assign posts = posts | sort: "date" | reverse -%}
 
-  {% for post in site.posts %}
-     {% assign build_date = post.date | date: "%Y-%m-%dT%H:%M:%SZ" %}
-     {% assign updated_date = post.modified | date: "%Y-%m-%dT%H:%M:%SZ" %}
-     {% assign min = 1 %}
-     {% assign max = site.data.offers.size %}
-     {% assign diff = max | minus: min %}
-     {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
-     {% assign offer = site.data.offers[item] %}
-     {% if post.type == "rss" %}{% assign post_title_prefix = "+ " %}{% else %}{% assign post_title_prefix = "" %}{% endif %}
-      <entry>
-        <title type="html"><![CDATA[{{ post_title_prefix }}{{ post.title | cdata_escape }}]]></title>
-        <link rel="alternate" type="text/html" href="{{ site.url }}{{ post.url }}" />
-        <id>{{ site.url }}{{ post.id }}</id>
-        <published>{{ build_date }}</published>
-        <updated>{% if post.modified %}{{ updated_date }}{% else %}{{ build_date }}{% endif %}</updated>
-        <author>
-          <name>{% if post.cited %}Quoting {{ post.cited }}{% else %}{{ site.owner.name }}{% endif %}</name>
-          <uri>{% if post.link %}{{ post.link }}{% else %}{{ site.url }}{{ post.url }}{% endif %}</uri>
-        </author>
-        <content type="html"><![CDATA[
-          {{ post.content }}
-          <p><center>***</center></p>
-          {% if post.type == "rss" %}
-          <p>Note: this is a secret rss only item.</p>
-          {% endif %}
-          <p> // Published {{ post.date | date: "%Y-%m-%d" }}, with {{ post.content | number_of_words }} words.</p>
-          <hr/>
-          <p>💬 Thanks for keeping RSS alive. If you have an RSS feed please share it with me on any of these <a href="https://links.thechels.uk">socials</a>.</p>
-          <p>If you get value from this site, please share this post with someone you think will like it and support me with a <a href="https://ko-fi.com/thechelsuk">ko-fi</a>.</p>
-          <p>Finally, here is a special sponsor/advert link just for you; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a><br/>[T&Cs apply].</p>
-        ]]></content>
-      </entry>
-  {% endfor %}
+{% for post in posts %}
+    <!-- Entry -->
+    {% assign min = 1 %}
+    {% assign max = site.data.offers.size %}
+    {% assign diff = max | minus: min %}
+    {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
+    {% assign offer = site.data.offers[item] %}
+
+    {%- capture footer -%}
+      <p><center>***</center></p>
+      <hr/>
+      <p>💬 Thanks for keeping RSS alive. If you have an RSS feed please share it with me on any of these <a href="https://links.thechels.uk">socials</a>.</p>
+      <p>If you get value from this site, please share this post with someone you think will like it and support me with a <a href="https://ko-fi.com/thechelsuk">ko-fi</a>.</p>
+      <p>Finally, here is a special sponsor/advert link just for you; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a><br/>[T&Cs apply].</p>
+    {%- endcapture -%}
+
+    {%- if post.imdb %}
+    {% assign film_link = "https://thechels.uk/films#" | append: post.imdb %}
+    <entry>
+      <title type="text">Film Review - {{ post.title | xml_escape }}</title>
+      <link rel="alternate" type="text/html" href="{{ film_link }}"/>
+      <id>{{ film_link }}</id>
+      <updated>{{ post.date | date_to_xmlschema }}</updated>
+      <published>{{ post.date | date_to_xmlschema }}</published>
+      <category term="Film" label="Film"/>
+      <content type="html"><![CDATA[
+        <h3>{{ post.title }} ({{ post.year }})</h3>
+        <p><strong>Rated:</strong> {{ post.rating }}/10</p>
+        <p><strong>Added:</strong> {{ post.date | date: "%Y-%m-%d" }}</p>
+        <p><a href="https://www.imdb.com/title/{{ post.imdb }}/" target="_blank">View on IMDb →</a></p>
+        {{ footer }}
+      ]]>
+      </content>
+      {%- else -%}
+    <entry>
+      <title type="txt">{{ post.type | capitalize }} - {{ post.title | xml_escape }}</title>
+      <link rel="alternate" type="text/html" href="{{ post.url }}"/>
+      <id>{{ site.url }}{{ post.id }}</id>
+      <updated>{{ post.date | date_to_xmlschema }}</updated>
+      <published>{{ post.date | date_to_xmlschema }}</published>
+      <category term="{{ post.type }}" label="{{ post.type | capitalize }}"/>
+      {%- if post.cited %}
+      <author>
+        <name>Quoting {{ post.cited | xml_escape }}</name>
+        <uri>{% if post.link %}{{ post.link | xml_escape }}{% else %}{{ site.url }}{{ post.url }}{% endif %}</uri>
+      </author>
+      {%- endif %}
+      <content type="html"><![CDATA[{{ post.content }}
+            <p><center>***</center></p>
+            {% if post.type == "rss" %}
+            <p>Note: this is a secret rss only item.</p>
+            {% endif %}
+            <p> // Published {{ post.date | date: "%Y-%m-%d" }}, with {{ post.content | number_of_words }} words.</p>
+            {{ footer }}
+      ]]></content>
+      {%- endif -%}
+    </entry>
+  {%- endfor -%}
 </feed>

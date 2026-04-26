@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-07
 link: https://peoplefirstengineering.substack.com/p/personal-development-plans
 title: Personal Development Plans
+type: linked
 cited: John Durrant
 
 ---

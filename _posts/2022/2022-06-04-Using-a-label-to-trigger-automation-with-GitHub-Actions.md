@@ -3,6 +3,7 @@ title: Using a label to trigger automation with GitHub Actions
 layout: post
 date: 2022-06-04
 
+type: blog
 ---
 
 I have been evolving my website over the last few weeks - football season is over - and I am using GitHub Actions to automate my processes and essentially use GitHub's Issues as a content management system (CMS).
@@ -11,7 +12,7 @@ CMSs typically have a database backend see WordPress and MySql, there are headle
 
 From these I can then trigger an action that either converts an issue to a markdown file as a post or by adding some data to a yaml file - Jekyll my static site generator uses yaml files (along with CSV and JSON) as data sources.
 
-the below action shows a check against the `labelname` to make sure the right action runs by passing the variable into another action called `runner`. 
+the below action shows a check against the `labelname` to make sure the right action runs by passing the variable into another action called `runner`.
 
 Data in yaml files can be looped over at build time to create tables, lists. Using the liquid templating language one can sort and group data too. Such that i now record podcasts, books, websites, films, football teams and a to do list all in yaml files ans all managed by GitHub's issues.
 

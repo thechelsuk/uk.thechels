@@ -1,3 +1,9 @@
-# TIL - Thing Post
+---
+layout: post
+date: YYYY-MM-DD HH:MM
+title: TIL title
+type: til
 
-<|details>
+---
+
+my comment

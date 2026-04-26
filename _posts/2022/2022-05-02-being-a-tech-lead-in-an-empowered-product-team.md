@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-02
 link: https://domk.website/blog/2021-01-12-tech-lead-empowered-product-team.html
 title: Being a Tech Lead in an Empowered Product Team
+type: linked
 cited: Domk
 
 ---

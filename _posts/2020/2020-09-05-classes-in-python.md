@@ -3,6 +3,7 @@ layout: post
 title: Learning Classes in Python
 date: 2020-09-05 21:00
 tag:
+type: blog
 ---
 
 I am currently learning python having used a few scripts in some Github Actions to automated some processes using the free serverless compute offered by GitHub.
@@ -27,7 +28,6 @@ We add to the `square` class [see line 28] another method to draw, which inherit
 So to draw a polygon and a square we can use the following snippet
 
 <script src="https://gist.github.com/Mat-0/60265fed4f9a6fbe77ee7315df9d92b5.js"></script>
-
 
 The `turtle.done()` call on line 38 keeps the drawn item on screen like how `console.read()` would do the same in C#.
 

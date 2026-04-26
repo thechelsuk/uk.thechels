@@ -1,5 +1,5 @@
 feedparser
-requests
+requests>=2.33.1
 pathlib
 datefinder
 yahoo_fin
@@ -7,12 +7,14 @@ pandas
 requests_html
 argparse
 pyyaml
-pytest
+pytest>=9.0.3
 pytest-cov
 pytest-md
 pytest-emoji
 yapf
-lxml_html_clean==0.4.4
+lxml>=6.1.0
+lxml_html_clean>=0.4.4
 yfinance
-pillow
+pillow>=12.2.0
 ruamel.yaml
+markdownify

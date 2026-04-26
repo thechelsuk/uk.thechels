@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-19
 link: https://newsletter.weskao.com/p/7-phrases-i-use-when-giving-feedback
 title: Seven phrases when sharing feedback that makes it easier
+type: linked
 cited: Wes Kao
 
 ---

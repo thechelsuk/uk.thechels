@@ -3,6 +3,7 @@ layout: post
 date: 2024-11-09
 link: https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html
 title: SMURF Beyond the Test Pyramid
+type: linked
 cited: Google Testing Blog
 ---
 

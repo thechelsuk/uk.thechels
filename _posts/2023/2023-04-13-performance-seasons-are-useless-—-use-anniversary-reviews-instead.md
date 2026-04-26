@@ -4,6 +4,7 @@ layout: post
 date: 2023-04-13
 link: https://jacobian.org/2022/oct/25/against-performance-seasons/
 title: Performance Seasons Are Useless — Use Anniversary Reviews Instead
+type: linked
 cited: Jacob Kaplan-Moss
 
 ---

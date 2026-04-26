@@ -4,6 +4,7 @@ layout: post
 date: 2022-07-24
 link: https://hamberg.no/gtd
 title: GTD in 15 minutes – A Pragmatic Guide to Getting Things Done
+type: linked
 cited: Hamberg
 
 ---

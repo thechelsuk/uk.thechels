@@ -4,6 +4,7 @@ title: Stupid Taxes - Time and Status Drains on Life Goals
 date: 2020-12-16
 tag:
 
+type: blog
 ---
 
 1. Anything that doesn't help you towards your goals is a tax on your time (e.g fictional TV)

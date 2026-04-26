@@ -4,6 +4,7 @@ layout: post
 date: 2025-06-29
 link: https://githubnext.com/projects/continuous-ai
 title: Continuous AI - Development Workflow Automation
+type: linked
 cited: GitHub Next
 
 ---

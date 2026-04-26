@@ -4,6 +4,7 @@ layout: post
 date: 2022-04-30
 link: https://www.buildthestage.com/five-methods-of-facilitation-i-use-for-collaborative-meetings/
 title: Five Methods of Facilitation for Collaborative Meetings
+type: linked
 cited: Build the Stage
 
 ---

@@ -4,6 +4,7 @@ layout: post
 date: 2022-04-25
 link: https://www.karllhughes.com/posts/ipad-entrepreneur
 title: Running My Business From an iPad
+type: linked
 cited: Karl Hughes
 
 ---

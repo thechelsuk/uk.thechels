@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-03
 title: Using GitHub CoPilot
 
+type: blog
 ---
 
 I've been doing a bit of small scale personal development over recent weeks including building out some simple one-use case tools. I've found CoPilot and AI generally brilliant for this work.

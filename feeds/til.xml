@@ -19,7 +19,7 @@ permalink: /til.xml
   </author>
   <id>{{ site.url }}/</id>
 
-  {% assign til_posts = site.posts | where_exp: "post", "post.type | downcase == 'til'" %}
+  {% assign til_posts = site.posts | where_exp: "post", "post.type == 'til'" %}
   {% for post in til_posts %}
      {% assign build_date = post.date | date: "%Y-%m-%dT%H:%M:%SZ" %}
      {% assign updated_date = post.modified | date: "%Y-%m-%dT%H:%M:%SZ" %}
@@ -29,7 +29,7 @@ permalink: /til.xml
      {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
      {% assign offer = site.data.offers[item] %}
       <entry>
-        <title type="html"><![CDATA[ + {{ post.title | cdata_escape }}]]></title>
+        <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
         <link rel="alternate" type="text/html" href="{{ site.url }}/{{ post.url }}" />
         <id>{{ site.url }}{{ post.id }}</id>
         <published>{{ build_date }}</published>

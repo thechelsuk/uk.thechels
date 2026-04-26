@@ -3,6 +3,7 @@ layout: post
 title: Roambi - Keep Your Team’s Stats Close and Their Opponent's Even Closer
 tag:
  - chelsea
+type: blog
 ---
 
 > For decades football fans having been discussing players, referees, decisions, and results. As technology improves the way in which we communicate, it becomes much more easy to debate these topics with fellow and opposition fans all around the world.

@@ -4,6 +4,7 @@ layout: post
 date: 2025-01-06
 link: https://rmondello.com/2025/01/02/magic-links-and-passkeys/
 title: Magic Links and Passkeys
+type: linked
 cited: Ricky Mondello
 
 ---

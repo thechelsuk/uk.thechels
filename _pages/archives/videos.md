@@ -1,8 +1,9 @@
 ---
-layout: videos
+layout: archives
 title: Video Archive
 seo: Video Archive
-permalink: /videos
+permalink: /archives/videos
+type: video
 
 ---
 

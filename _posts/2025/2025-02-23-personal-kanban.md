@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-23
 title: Personal Kanban - Mapping Work, Navigating Life
 
+type: blog
 ---
 
 - [Introduction](#introduction)

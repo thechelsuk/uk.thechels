@@ -4,13 +4,12 @@ layout: post
 date: 2024-09-14
 link: https://testing.googleblog.com/2024/07/in-praise-of-small-pull-requests.html
 title: In Praise of Small Pull Requests 
+type: linked
 cited: Google Testing Blog
 
 --- 
 
 > Note: A "pull request" refers to one self-contained change that has been submitted to version control or which is undergoing code review. At Google, this is referred to as a"CL", which is short for "changelist".
-
-  
 
 Prefer [small, focused pull requests](https://google.github.io/eng-practices/review/developer/small-cls.html) that do exactly one thing each. Why? Several reasons:
 
@@ -24,7 +23,7 @@ Prefer [small, focused pull requests](https://google.github.io/eng-practices/rev
 
 Small pull requests are not always possible. In particular:
 
-- Frequent pull requests require reviewers to respond quickly to code review requests. If it takes multiple hours to get a pull request reviewed, developers spend more time blocked. Small pull requests often work better when reviewers are co-located (ideally within Nerf gun range for gentle reminders). 
+- Frequent pull requests require reviewers to respond quickly to code review requests. If it takes multiple hours to get a pull request reviewed, developers spend more time blocked. Small pull requests often work better when reviewers are co-located (ideally within Nerf gun range for gentle reminders).
 - Some features cannot safely be committed in partial states. If this is a concern, try to put the new feature behind a [flag](https://martinfowler.com/articles/feature-toggles.html).
 - Refactorings such as changing an argument type in a public method may require modifying many dozens of files at once.
 

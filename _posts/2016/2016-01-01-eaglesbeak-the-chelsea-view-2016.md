@@ -3,6 +3,7 @@ layout: post
 title: Eaglesbeak - The Chelsea View 2016
 tag:
  - chelsea
+type: blog
 ---
 
 Earlier in the season we had a chat with the team at Chelsea Stats so we got in touch with them again to find out how things have changed since then along with their views on the match up this weekend.

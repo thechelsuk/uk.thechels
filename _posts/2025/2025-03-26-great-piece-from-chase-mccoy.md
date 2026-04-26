@@ -4,6 +4,7 @@ layout: post
 date: 2025-03-26
 link: https://notes.jim-nielsen.com/#2025-03-24T2151
 title: Great piece from Chase McCoy
+type: linked
 cited: Jim Nielsen
 
 ---

@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-22
 title: Radical Focus - A Guide to Achieving Goals with OKRs
 
+type: blog
 ---
 
 - [Introduction](#introduction)

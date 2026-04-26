@@ -4,6 +4,7 @@ layout: post
 date: 2022-04-23
 link: https://aaronrandall.com/blog/a-personal-growth-framework/
 title: 'A Personal Growth Framework'
+type: linked
 cited: Aaron Randall
 
 ---

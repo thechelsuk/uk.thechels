@@ -4,6 +4,7 @@ title: Week Three - Strong Start with Easy Runs and Commutes
 total: [27.5]
 tag:
   - runs
+type: blog
 ---
 
 Started the week strongly with a decent 7.1 mile easy run, having been able to finish work a little earlier than usual.

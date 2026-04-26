@@ -3,7 +3,7 @@
 layout: post
 date: 2023-11-01
 title: Candidate Interview questions
-cited: 
+type: blog
 
 ---
 

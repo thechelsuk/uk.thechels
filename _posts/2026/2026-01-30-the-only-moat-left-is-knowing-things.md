@@ -4,6 +4,7 @@ layout: post
 date: 2026-01-30
 link: https://growtika.com/blog/authenticity-edge
 title: The Only Moat Left Is Knowing Things
+type: linked
 cited: growtika
 
 ---

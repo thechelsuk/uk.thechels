@@ -4,6 +4,7 @@ layout: post
 date: 2022-06-07
 link: https://blog.bytebytego.com/p/retry-patterns-episode-9
 title: Retry Patterns - Software Resilience and Error Handling
+type: linked
 cited: Alex Xu
 
 ---

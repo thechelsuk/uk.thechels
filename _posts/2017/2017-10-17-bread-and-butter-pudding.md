@@ -2,6 +2,7 @@
 layout: post
 title: Bread and Butter Pudding
 tags:
+type: blog
 ---
 
 > Bread and Butter Pudding makes a lovely dessert, and is so easy to make.

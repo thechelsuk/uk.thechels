@@ -2,6 +2,7 @@ highlighter: rouge
 permalink: ./:title
 title: "Weak Notes"
 description: "// A working in public, second brain"
+version: 1.10.0
 theme:
 owner:
   name: thechelsuk
@@ -38,7 +39,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      syndicate_to: [mastodon, bluesky, reddit]
+      syndicate_to:
 plugins:
   - jekyll-avatar
   - jekyll-github-metadata
@@ -66,7 +67,10 @@ include:
   - ".well-known"
   - "_pages"
 
+##################### Menus ##########
+
 # Site Navigation
+
 ## Header
 navigation_header:
   - link: "/about"
@@ -82,8 +86,6 @@ navigation_header:
 
 ## SubMenu
 navigation_data:
-  - link: "/daily"
-    title: "Daily Briefing"
   - link: "/feeds"
     title: "Feeds"
   - link: "/books"
@@ -102,21 +104,29 @@ navigation_data:
     title: "Films"
   - link: "/constraints"
     title: "Constraints"
-  - link: "/socials"
-    title: "Socials"
-  - link: "/videos"
-    title: "Videos"
   - link: "/sitemap"
     title: "Sitemap (xml)"
 
 ## SubMenu
 navigation_archives:
+  - link: "/archives/mixtapes"
+    title: "Mixtapes"
   - link: "/archives/til"
     title: "TILs"
   - link: "/archives/ways"
     title: "Ways"
-  - link: "/archives/mixtapes"
-    title: "Mixtapes"
+  - link: "/archives/releases"
+    title: "Software Releases"
+  - link: "/archives/videos"
+    title: "Videos"
+  - link: "/archives/rundowns"
+    title: "Daily Rundowns"
+  - link: "/archives/socials"
+    title: "Socials"
+  - link: "/archives/linked"
+    title: "Linked Quotes"
+  - link: "/archives/blogs"
+    title: "Blog Posts"
 
 ## SubMenu
 navigation_slashes:
@@ -150,8 +160,6 @@ navigation_slashes:
     title: "Privacy (txt)"
   - link: "/projects"
     title: "Projects"
-  - link: "/nnw-themes"
-    title: "NetNewsWire Themes"
   - link: "/random"
     title: "Random"
   - link: "/save"
@@ -166,19 +174,21 @@ navigation_slashes:
     title: "Uses"
   - link: "/verify"
     title: "Verify"
+  - link: "/nnw-themes"
+    title: "NetNewsWire Themes"
   - link: "/indieweb.txt"
     title: "IndieWeb (txt)"
 
 ## Footer links
 navigation_footer:
-  - link: "/firehose.xml"
-    title: "Firehose (xml)"
+  - link: "/about#colophon"
+    title: "Colophon"
   - link: "/feed"
     title: "Feed (xml)"
   - link: "/feed.json"
     title: "Feed (json)"
-  - link: "/rss.xml"
-    title: "Feed - Alt (xml)"
+  - link: "/feeds"
+    title: "More feeds"
   - link: "/robots.txt"
     title: "Robots (txt)"
   - link: "/llms.txt"
@@ -190,8 +200,8 @@ navigation_footer:
     title: "Accessibility"
   - link: "/humans.txt"
     title: "Humans (txt)"
-  - link: "/humans.json"
-    title: "Humans (json)"
+  - link: "/human.json"
+    title: "Human (json)"
   - link: "/.well-known/privacy.txt"
     title: "Privacy (txt)"
   - link: "/.well-known/security.txt"
@@ -201,8 +211,7 @@ navigation_footer:
   - link: "/.well-known/dnt-policy.txt"
     title: "DNT Policy (txt)"
 
-  - link: "/about#colophon"
-    title: "Colophon"
+
   - link: "/save"
     title: "Sponsors"
   - link: "https://links.thechels.uk"

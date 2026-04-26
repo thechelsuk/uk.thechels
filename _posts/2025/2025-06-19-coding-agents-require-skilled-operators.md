@@ -1,7 +1,8 @@
 ---
 date: 2025-06-19
 title: "Coding agents require skilled operators"
-cited: "Simon Willison"
+type: linked
+cited: Simon Willison
 link: https://simonwillison.net/2025/Jun/18/coding-agents/#atom-everything
 seo: "Coding agents require skilled operators"
 tags:

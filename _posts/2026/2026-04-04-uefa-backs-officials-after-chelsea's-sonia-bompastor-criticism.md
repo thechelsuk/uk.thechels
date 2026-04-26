@@ -4,6 +4,7 @@ layout: post
 date: 2026-04-04 10:00
 link: https://www.skysports.com/football/news/11095/13527282/champions-league-uefa-backs-officials-after-chelseas-sonia-bompastor-criticism-following-exit-to-arsenal
 title: UEFA backs officials after Chelsea's Sonia Bompastor criticism
+type: linked
 cited: Sky Sports
 
 ---

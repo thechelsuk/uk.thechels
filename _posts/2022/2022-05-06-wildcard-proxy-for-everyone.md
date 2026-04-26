@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-06
 link: https://blog.cloudflare.com/wildcard-proxy-for-everyone/
 title: Wildcard proxy for everyone
+type: linked
 cited: Cloudflare
 
 ---

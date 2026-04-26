@@ -3,6 +3,7 @@ layout: post
 date: 2025-04-28
 title: RSS Feed Generation
 
+type: blog
 ---
 
 

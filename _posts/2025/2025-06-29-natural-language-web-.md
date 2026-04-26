@@ -4,6 +4,7 @@ layout: post
 date: 2025-06-29
 link: https://github.com/microsoft/NLWeb
 title: Natural Language Web 
+type: linked
 cited: Microsoft
 
 ---

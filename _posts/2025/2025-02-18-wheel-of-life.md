@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-18
 title: The Wheel of Life
 
+type: blog
 ---
 
 The circle represents your life, the whole of you. The pieces of the pie, or spokes, are the parts of your life: the areas, roles, or aspects of the whole.

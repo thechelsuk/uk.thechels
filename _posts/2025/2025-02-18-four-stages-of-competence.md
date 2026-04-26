@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-18
 title: Four Stages of Competence
 
+type: blog
 ---
 
 - Unconscious incompetence

@@ -5,6 +5,7 @@ title: Reverse lines online tool
 date: 2020-10-04 22:30
 tag:
 
+type: blog
 ---
 
 [Reverse lines online tool](https://www.browserling.com/tools/reverse-lines)

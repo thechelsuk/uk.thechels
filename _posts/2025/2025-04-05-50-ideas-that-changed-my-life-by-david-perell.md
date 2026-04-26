@@ -5,6 +5,7 @@ date: 2025-04-05
 link: https://www.defmacro.org/2014/10/03/engman.html
 title:  50 ideas that changed my life - By David Perell
 
+type: blog
 ---
 
 

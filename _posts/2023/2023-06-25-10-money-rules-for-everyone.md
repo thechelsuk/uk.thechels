@@ -3,19 +3,17 @@
 layout: post
 date: 2023-07-13
 title: 10 Money Rules for Everyone
-cited: 
+type: blog
 
 ---
 
 Money can be a tricky subject, and culturally rarely discussed as openly as it should be. So it's important to have a good handle on your finances. Here are my 10 money principles. Not financial advice etc. etc.
 
-
-
 1. Maximise your earnings.  Whether that be through education, experience, up skilling, new jobs, new sectors, Perhaps even side incomes like selling on apps like Vinted. Do everything you can to add to your income.
- 
-2. Invest through your pension first and foremost, maximise employer matching and add as much as you can afford, add more for each pay rise. Look at marginal tax rates to maximise tax reduction and sometimes this can help keep certain benefits. 
 
-3. Spend less than you earn, hard during a cost of living crisis of course, but make sacrifices if you need. Get your essential spend sorted - cut back on everything else. Look at entitled.to to see if you are due any support. 
+2. Invest through your pension first and foremost, maximise employer matching and add as much as you can afford, add more for each pay rise. Look at marginal tax rates to maximise tax reduction and sometimes this can help keep certain benefits.
+
+3. Spend less than you earn, hard during a cost of living crisis of course, but make sacrifices if you need. Get your essential spend sorted - cut back on everything else. Look at entitled.to to see if you are due any support.
 
 4. When spending, use cashback and voucher sites - often companies have portals for this as a benefit for employees but there are plenty publicly available like JamDoughnut or TopCashBack. Use apps for the shops you spend at regularly as they often do offers or sign-up bonuses, points schemes like Subway and Tesco. Use cashback bank/credit cards too if appropriate.  If you have to spend you might as well make it as cheap as possible.
 
@@ -27,6 +25,6 @@ Money can be a tricky subject, and culturally rarely discussed as openly as it s
 
 8. Consolidate pensions from previous employees and ensure your expression of wish is up to date. Pensions are not part of your will. Will? Get a will sorted.
 
-9. Check in on your investments once a year, doesn't need to be more frequent then that. Have everything documented somewhere your partner or dependents can access if the worst was to happen. 
+9. Check in on your investments once a year, doesn't need to be more frequent then that. Have everything documented somewhere your partner or dependents can access if the worst was to happen.
 
 10. Talk about it with other people, remove the stigma about money. Help others make better choices and improve their lives.

@@ -4,6 +4,7 @@ layout: post
 date: 2024-05-07
 link: https://github.blog/2024-05-07-github-copilot-chat-in-github-mobile/
 title: GitHub Copilot Chat in GitHub Mobile is now generally available
+type: linked
 cited: GitHub
 
 ---

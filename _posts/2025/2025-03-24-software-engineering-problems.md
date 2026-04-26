@@ -4,6 +4,7 @@ layout: post
 date: 2025-03-24
 title: Software Engineering Problems
 
+type: blog
 ---
 
 Symptoms
@@ -18,7 +19,6 @@ Symptoms
 - Problems seem to grow in size and teams struggle to know where to start.
 - Work grinds to a halt when someone in the team is absent
 - Associate or mid-level staff struggle to progress and grow into Senior.
-
 
 Medicine
 

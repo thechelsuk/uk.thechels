@@ -4,6 +4,7 @@ layout: post
 date: 2022-05-09
 link: https://circleci.com/blog/how-we-hired-more-engineers-faster/
 title: How we hired more engineers faster
+type: linked
 cited: CircleCI
 
 ---

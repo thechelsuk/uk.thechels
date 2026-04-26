@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-08
 link: https://adactio.com/journal/21831
 title: And no, a robots txt file doesn’t help
+type: linked
 cited: Jeremy Keith
 
 ---

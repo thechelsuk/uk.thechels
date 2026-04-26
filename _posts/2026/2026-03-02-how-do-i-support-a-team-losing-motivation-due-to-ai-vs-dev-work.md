@@ -4,6 +4,7 @@ layout: post
 date: 2026-03-02
 title: How do I support a team losing motivation due to AI vs dev work
 
+type: blog
 ---
 
 How do I support a team losing motivation due to AI wrangling vs dev work?

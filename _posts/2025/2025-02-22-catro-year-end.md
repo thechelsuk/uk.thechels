@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-21
 link: https://castro.fm/blog/state-of-the-app-year-1
 title: State of the Castro app 2024
+type: linked
 cited: Castro
 
 ---

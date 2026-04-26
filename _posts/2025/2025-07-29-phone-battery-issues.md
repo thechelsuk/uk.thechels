@@ -4,6 +4,7 @@ author:
 tags: [ME]
 date: 2025-07-29
 
+type: blog
 ---
 
 When a phone gets hot, very hot, because it’s processing something in the background and it doesn’t finish. It has crashed and you realise the battery has gone from 98% to 8%. You force close every app and have to leave your phone for an hour to cool down. Since October 2022 my phone was processing something and was always running hot and it’s hard a profound impact on its usability over the last six months.

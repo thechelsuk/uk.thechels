@@ -3,6 +3,7 @@ layout: post
 date: 2024-10-28
 link: https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/
 title: Apple Passwords Generated Strong Password Format
+type: linked
 cited: Ricky Mondello
 ---
 

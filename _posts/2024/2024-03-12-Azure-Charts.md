@@ -3,6 +3,7 @@ title: Azure Charts - Useful Deprecation Timeline Visualizations
 layout: post
 date: 2024-03-12
 
+type: blog
 ---
 
 This was shared with me today, very useful visualisation.

@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-16
 link: https://www.palomamedina.com/biceps
 title: BICEP core needs
+type: linked
 cited: Paloma Medina
 
 ---

@@ -4,6 +4,7 @@ layout: post
 date: 2025-04-05
 link: https://www.inc.com/peter-economy/the-9-traits-that-define-great-leadership.html
 title: The 9 Traits That Define Great Leadership
+type: linked
 cited: Inc
 ---
 

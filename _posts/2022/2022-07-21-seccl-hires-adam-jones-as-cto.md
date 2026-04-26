@@ -4,6 +4,7 @@ layout: post
 date: 2022-07-21
 link: https://www.professionaladviser.com/news/4053507/seccl-hires-adam-jones-cto-oversee-tech-vision
 title: Seccl hires Adam Jones as CTO
+type: linked
 cited: Professional Adviser
 
 ---

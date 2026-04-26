@@ -4,6 +4,7 @@ layout: post
 date: 2025-02-23
 link: https://www.theverge.com/news/612898/amazon-removing-kindle-book-download-transfer-usb
 title: Amazon will stop Kindle book downloads to your PC
+type: linked
 cited: The Verge
 
 ---
