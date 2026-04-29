@@ -35,7 +35,7 @@ seo: A list of my favourite technology
 - [EngMan](https://apps.apple.com/gb/app/engman/id6747295473) (Coaching)
 - [Hiyd](https://apps.apple.com/gb/app/hiyd/id6746853559) (Productivity)
 - [ShortKeys](https://apps.apple.com/gb/app/shortkeys/id6755919256) (Productivity)
-- [Play](https://marcosatanaka.com) & x.app (Video Management and Playback)
+- [Play](https://marcosatanaka.com) & [x.app](https://extension.app/) (Video Management and Playback)
 - [Bobby](https://bobbyapp.co) (Budgeting)
 - [1.1.1.1](https://one.one.one.one/) (DNS/VPN)
 - [Scriptable](https://scriptable.app) (Coding)
