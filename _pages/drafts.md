@@ -28,6 +28,7 @@ Drafts is a Mac and [iOS app](https://apps.apple.com/us/app/drafts/id1236254471)
 - // [Bing Search Selection](https://directory.getdrafts.com/a/22F) _Takes the selected text in a draft, and launches a search with Bing_.
 - // [Google Search Selection without AI](https://directory.getdrafts.com/a/24h) _Takes the selected text searches at google but appends udm=14 to the url to remove the AI overview_.
 - // [Ecosia Search Selection](https://directory.getdrafts.com/a/24J) _Takes the selected text in a draft, and launches a search with Ecosia_.
+- // [Get GitHub user id](https://directory.getdrafts.com/a/25b) _Takes GitHub username and appends user id number to the draft_.
 
 ## Tip
 
