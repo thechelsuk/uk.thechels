@@ -110,6 +110,20 @@ def test_build_release_body_returns_markdown_not_html():
     assert "<ul>" not in result
 
 
+def test_build_release_body_removes_signed_off_by_lines():
+    entry = make_entry(content=[{
+        "value": "<p>Release notes line</p><p>Signed-off-by: Jane Doe &lt;jane@example.com&gt;</p><p>Another line</p>"
+    }],
+                      summary="")
+
+    result = fetch_releases.build_release_body(entry)
+
+    assert "Release notes line" in result
+    assert "Another line" in result
+    assert "Signed-off-by" not in result
+    assert "jane@example.com" not in result
+
+
 def test_build_release_record_uses_updated_timestamp_when_published_missing():
     release = fetch_releases.build_release_record(
         "https://github.com/thechelsuk/uk.thechels.search/releases.atom",
@@ -151,6 +165,30 @@ def test_render_post_includes_required_front_matter():
     assert "title: Search Version 1.0.0" in content
     assert "link: https://github.com/thechelsuk/uk.thechels.search/releases/tag/1.0.0" in content
     assert content.endswith("Release notes\n")
+
+
+def test_render_post_rewrites_labelled_netnewswire_links():
+    release = fetch_releases.ReleaseRecord(
+        project_key="nnw-thechelsuk-theme",
+        project_label="NNW thechelsuk Theme",
+        repo_name="uk.thechels.themes-for-nnw",
+        release_id="tag:github.com,2008:Repository/1184541049/v1.4.0",
+        version="v1.4.0",
+        link=
+        "https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/tag/v1.4.0",
+        published=datetime(2026, 5, 1, 0, 0, 0, tzinfo=timezone.utc),
+        body=(
+            "## NetNewsWire Install Links\n\n"
+            "- guro: netnewswire://theme/add?url=[https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.4.0/guro.zip](https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.4.0/guro.zip)\n"
+            "- thechelsuk: netnewswire://theme/add?url=[https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.4.0/thechelsuk.zip](https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.4.0/thechelsuk.zip)"
+        ),
+    )
+
+    content = fetch_releases.render_post(release)
+
+    assert "- guro: [Install guro in NetNewsWire directly](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.4.0/guro.zip)" in content
+    assert "- thechelsuk: [Install thechelsuk in NetNewsWire directly](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.4.0/thechelsuk.zip)" in content
+    assert "netnewswire://theme/add?url=[https://" not in content
 
 
 def test_create_release_post_skips_when_hash_suffix_already_exists(tmp_path):

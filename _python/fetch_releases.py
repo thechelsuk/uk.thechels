@@ -110,9 +110,33 @@ def get_content_value(content_item: Any) -> str:
 def normalise_markdown(value: str) -> str:
     text = "\n".join(line.rstrip() for line in value.splitlines())
     text = text.replace("[bot]", "")
+    text = strip_signed_email_lines(text)
     text = re.sub(r"<(https?://[^>]+)>", r"[\1](\1)", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
+
+
+def strip_signed_email_lines(value: str) -> str:
+    signed_off_by_line = re.compile(
+        r"^\s*(?:[-*+]\s+|\d+\.\s+)?signed-off-by\s*:?\s+.*$",
+        re.IGNORECASE,
+    )
+    cleaned_lines = []
+    for line in value.splitlines():
+        stripped = line.strip()
+        if signed_off_by_line.match(stripped):
+            continue
+
+        candidate = re.sub(r"^[-*+]\s+", "", stripped)
+        candidate = re.sub(r"^\d+\.\s+", "", candidate)
+        has_signed = re.search(r"\bsigned\b", candidate, re.IGNORECASE)
+        has_email = re.search(
+            r"[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}", candidate,
+            re.IGNORECASE)
+        if has_signed and has_email:
+            continue
+        cleaned_lines.append(line)
+    return "\n".join(cleaned_lines)
 
 
 def html_to_markdown(value: str) -> str:
@@ -186,32 +210,60 @@ def build_release_record(feed_url: str, entry: Any,
 
 
 def render_post(release: ReleaseRecord) -> str:
-    # Intercept NetNewsWire theme URL in body (plain or markdownified)
     body = release.body.strip() or NO_RELEASE_NOTES
-    download_url = None
-    # Regex for both plain and markdownified NetNewsWire theme URLs
-    nnw_patterns = [
-        re.compile(r"^netnewswire://theme/add\?url=(https://[\w./%\-]+\.zip)$",
-                   re.MULTILINE),
-        re.compile(
-            r"^netnewswire://theme/add\?url=\[(https://[\w./%\-]+\.zip)\]\(https://[\w./%\-]+\.zip\)$",
-            re.MULTILINE),
-    ]
-    match = None
-    for pattern in nnw_patterns:
-        matches = list(pattern.finditer(body))
-        if matches:
-            match = matches[-1]
-            break
-    if match:
-        download_url = match.group(1)
-        # Replace only the last occurrence with the install link
-        start, end = match.span()
-        body = body[:
-                    start] + "[Install now](netnewswire://theme/add?url={{page.download}})" + body[
-                        end:]
-        # Clean up any extra blank lines (optional, but keeps formatting tidy)
-        body = re.sub(r"\n{3,}", "\n\n", body).strip()
+    label_bad_link_pattern = re.compile(
+        r"^(\s*[-*]\s+)([^:]+):\s*netnewswire://theme/add\?url=\[(https://[^\]\s]+\.zip)\]\(https://[^\)\s]+\.zip\)\s*$"
+    )
+    label_plain_link_pattern = re.compile(
+        r"^(\s*[-*]\s+)([^:]+):\s*netnewswire://theme/add\?url=(https://[^\s]+\.zip)\s*$"
+    )
+    plain_bad_link_pattern = re.compile(
+        r"^netnewswire://theme/add\?url=\[(https://[^\]\s]+\.zip)\]\(https://[^\)\s]+\.zip\)$"
+    )
+    plain_link_pattern = re.compile(
+        r"^netnewswire://theme/add\?url=(https://[^\s]+\.zip)$"
+    )
+
+    rewritten_lines = []
+    for line in body.splitlines():
+        labelled_bad = label_bad_link_pattern.match(line)
+        if labelled_bad:
+            bullet, name, download_url = labelled_bad.groups()
+            theme_name = name.strip()
+            rewritten_lines.append(
+                f"{bullet}{theme_name}: [Install {theme_name} in NetNewsWire directly](netnewswire://theme/add?url={download_url})"
+            )
+            continue
+
+        labelled_plain = label_plain_link_pattern.match(line)
+        if labelled_plain:
+            bullet, name, download_url = labelled_plain.groups()
+            theme_name = name.strip()
+            rewritten_lines.append(
+                f"{bullet}{theme_name}: [Install {theme_name} in NetNewsWire directly](netnewswire://theme/add?url={download_url})"
+            )
+            continue
+
+        plain_bad = plain_bad_link_pattern.match(line.strip())
+        if plain_bad:
+            download_url = plain_bad.group(1)
+            rewritten_lines.append(
+                f"[Install in NetNewsWire directly](netnewswire://theme/add?url={download_url})"
+            )
+            continue
+
+        plain = plain_link_pattern.match(line.strip())
+        if plain:
+            download_url = plain.group(1)
+            rewritten_lines.append(
+                f"[Install in NetNewsWire directly](netnewswire://theme/add?url={download_url})"
+            )
+            continue
+
+        rewritten_lines.append(line)
+
+    body = "\n".join(rewritten_lines)
+    body = re.sub(r"\n{3,}", "\n\n", body).strip()
 
     front_matter = {
         "layout": "post",
@@ -225,9 +277,6 @@ def render_post(release: ReleaseRecord) -> str:
         "release_project": release.project_key,
         "release_version": release.version,
     }
-    if download_url:
-        front_matter["download"] = download_url
-
     yaml_front_matter = yaml.safe_dump(front_matter,
                                        sort_keys=False,
                                        allow_unicode=False).strip()
