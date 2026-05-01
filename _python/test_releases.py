@@ -112,9 +112,10 @@ def test_build_release_body_returns_markdown_not_html():
 
 def test_build_release_body_removes_signed_off_by_lines():
     entry = make_entry(content=[{
-        "value": "<p>Release notes line</p><p>Signed-off-by: Jane Doe &lt;jane@example.com&gt;</p><p>Another line</p>"
+        "value":
+        "<p>Release notes line</p><p>Signed-off-by: Jane Doe &lt;jane@example.com&gt;</p><p>Another line</p>"
     }],
-                      summary="")
+                       summary="")
 
     result = fetch_releases.build_release_body(entry)
 
@@ -177,11 +178,11 @@ def test_render_post_rewrites_labelled_netnewswire_links():
         link=
         "https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/tag/v1.4.0",
         published=datetime(2026, 5, 1, 0, 0, 0, tzinfo=timezone.utc),
-        body=(
-            "## NetNewsWire Install Links\n\n"
-            "- guro: netnewswire://theme/add?url=[https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.4.0/guro.zip](https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.4.0/guro.zip)\n"
-            "- thechelsuk: netnewswire://theme/add?url=[https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.4.0/thechelsuk.zip](https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.4.0/thechelsuk.zip)"
-        ),
+        body=
+        ("## NetNewsWire Install Links\n\n"
+         "- guro: netnewswire://theme/add?url=[https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.4.0/guro.zip](https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.4.0/guro.zip)\n"
+         "- thechelsuk: netnewswire://theme/add?url=[https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.4.0/thechelsuk.zip](https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.4.0/thechelsuk.zip)"
+         ),
     )
 
     content = fetch_releases.render_post(release)

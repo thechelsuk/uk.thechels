@@ -130,9 +130,8 @@ def strip_signed_email_lines(value: str) -> str:
         candidate = re.sub(r"^[-*+]\s+", "", stripped)
         candidate = re.sub(r"^\d+\.\s+", "", candidate)
         has_signed = re.search(r"\bsigned\b", candidate, re.IGNORECASE)
-        has_email = re.search(
-            r"[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}", candidate,
-            re.IGNORECASE)
+        has_email = re.search(r"[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}",
+                              candidate, re.IGNORECASE)
         if has_signed and has_email:
             continue
         cleaned_lines.append(line)
@@ -221,8 +220,7 @@ def render_post(release: ReleaseRecord) -> str:
         r"^netnewswire://theme/add\?url=\[(https://[^\]\s]+\.zip)\]\(https://[^\)\s]+\.zip\)$"
     )
     plain_link_pattern = re.compile(
-        r"^netnewswire://theme/add\?url=(https://[^\s]+\.zip)$"
-    )
+        r"^netnewswire://theme/add\?url=(https://[^\s]+\.zip)$")
 
     rewritten_lines = []
     for line in body.splitlines():
