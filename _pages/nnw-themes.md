@@ -3,8 +3,8 @@ layout: pages
 title: NetNewswire Themes
 permalink: /nnw-themes
 seo: Explore and install custom themes for NetNewsWire
-v-guro: 1.1.0
-v-thechelsuk: 1.1.0
+v-guro: 1.2.1
+v-thechelsuk: 1.2.1
 
 ---
 
