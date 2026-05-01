@@ -3,8 +3,7 @@ layout: pages
 title: NetNewswire Themes
 permalink: /nnw-themes
 seo: Explore and install custom themes for NetNewsWire
-v-guro: 1.2.1
-v-thechelsuk: 1.2.1
+v-thechelsuk: 1.3.0
 
 ---
 
@@ -12,16 +11,9 @@ If you use NetNewsWire, you can use my themes as listed below. All themes are fr
 
 Checkout the [releases archive](/archives/releases) for the latest versions and changelogs
 
-## thechelsuk Theme
+## Theme Pack
 
-Based on the light and alt themes on this site, adjusted to match the light and darkness of the app. Theme uses thechelsuk font included in the theme file as well as adapting to the device light/dark mode preference.
+- [Visit GitHub Releases for version history](https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases)
 
-- [Visit GitHub Releases for version history](https://github.com/thechelsuk/uk.thechels.themes.nnw/releases)
-- [Install latest directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes.nnw.guro/releases/download/{{page.v-thechelsuk}}/thechelsuk.nnwtheme_latest.zip)
-
-## Guro Theme
-
-A light mode only, simple and clean theme using thechelsuk font (included) and JetBrains Mono if installed.
-
-- [Visit GitHub Releases for version history](https://github.com/thechelsuk/uk.thechels.themes.nnw.guro/releases)
-- [Install latest directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes.nnw.guro/releases/download/{{page.v-guro}}/thechelsuk.nnwtheme_guro_latest.zip)
+- [Install thechelsuk directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/thechelsuk.zip)
+- [Install Guro directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/guro.zip)

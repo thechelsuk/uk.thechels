@@ -13,9 +13,7 @@
 - id: Links
   url: https://github.com/thechelsuk/uk.thechels.links/releases.atom
 - id: NNW thechelsuk Theme
-  url: https://github.com/thechelsuk/uk.thechels.themes.nnw/releases.atom
-- id: NNW Guro Theme
-  url: https://github.com/thechelsuk/uk.thechels.themes.nnw.guro/releases.atom
+  url: https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases.atom
 - id: Thechels.uk
   url: https://github.com/thechelsuk/uk.thechels/releases.atom
 - id: Hiyd.uk
