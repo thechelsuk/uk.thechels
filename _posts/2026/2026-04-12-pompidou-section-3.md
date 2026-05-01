@@ -21,4 +21,4 @@ Updating data pages has become easier as `site.posts | size` works well to show 
 
 I think my implementation is better as the author field shows 'quoting x' too to make it super clear it's a linked quote post. The reader can choose to go directly to source by clicking the author or to my website by clicking the title. Check out the [feeds](/feeds) to see it for yourself. This visually works well in NetNewsWire my goto RSS app, but also in a bunch of others I have tested.
 
-Links to archive pages filtered by type are on the [pages](/slages) page and given the variety of my posts, readers can choose to view a filtered list and a dedicated RSS feed.
+Links to archive pages filtered by type are on the [pages](/slashes) page and given the variety of my posts, readers can choose to view a filtered list and a dedicated RSS feed.
