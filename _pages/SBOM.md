@@ -1,7 +1,7 @@
 ---
 
 title : Software Bill of Materials (SBOM)
-layout: page
+layout: pages
 date: 2026-04-27
 robots: noindex, nofollow
 permalink: /SBOM
@@ -144,5 +144,3 @@ All dependencies are managed through their respective package managers and shoul
 
 - `bundle audit` for Ruby gem security checking
 - `pip-audit` for Python package security checking (recommended)
-
-
