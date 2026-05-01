@@ -11,4 +11,4 @@ release_project: homebridge-ysa2-yale-alarm
 release_version: v2.2.0
 ---
 
-Signed-off-by: mat-0 [Github@thechels.uk](mailto:Github@thechels.uk)
+no comments. still trying to debug
