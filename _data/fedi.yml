@@ -3,14 +3,14 @@ profile:
   note: |
     ✦ Diagnosed with ME/CFS (mod/sev) & MCAS -  Occasional senior software engineering people leader, app developer, web developer, and blogger. https://thechels.uk
      Tomoz, Hiyd, EngMan, Mltply & ShortKeys
-    ⌘ https://links.thechels.uk
-    ⇉ https://nuchronic.uk"
   photo: "/.well-known/avatar.png"
 
 links:
+  - label: ⌘ Links
+    url: https://links.thechels.uk
   - label: Hiyd
     url: https://hiyd.uk
-  - label: Nuchronic
+  - label: ⇉ Nuchronic
     url: https://nuchronic.uk
   - label: YouTube
     url: https://www.youtube.com/@thechelsuk
@@ -26,3 +26,5 @@ links:
     url: https://mastodon.social/@thechelsuk
   - label: Bluesky
     url: https://bsky.app/profile/thechelsuk.eurosky.social
+  - label: iOS Apps
+    url: https://apps.apple.com/gb/developer/mat-benfield/id1818791310
