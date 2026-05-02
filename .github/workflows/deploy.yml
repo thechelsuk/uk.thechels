@@ -75,7 +75,7 @@ jobs:
               with:
                   fetch-depth: 2
 
-            - name: Syndicate new posts to Brid.gy
+            - name: Notify Brid.gy and Bridgy Fed about new posts
               continue-on-error: true
               run: |
                   new_posts=$(git diff --name-status HEAD~1 HEAD -- _posts/ | grep '^A' | awk '{print $2}')
@@ -88,6 +88,11 @@ jobs:
                     slug=$(echo "${filename%.md}" | sed 's/^[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}-//')
                     source_url="https://thechels.uk/${slug}"
                     echo "Syndicating: $source_url"
+                    echo -n "  fediverse: "
+                    curl -s -o /dev/null -w "%{http_code}" \
+                      -d "source=${source_url}&target=https://fed.brid.gy/" \
+                      https://fed.brid.gy/webmention
+                    echo
                     echo -n "  mastodon: "
                     curl -s -o /dev/null -w "%{http_code}" \
                       -d "source=${source_url}&target=https://brid.gy/publish/mastodon" \

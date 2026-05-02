@@ -59,7 +59,7 @@
     <link rel="me" href="https://www.twitch.tv/thechelsuk">
     <link rel="me" href="https://ko-fi.com/thechelsuk">
     <link rel="me" href="https://github.com/thechelsuk">
-
+    <link rel="me" href="https://web.brid.gy/thechels.uk">
 
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Main Feed" href="{{ site.url }}/feed">
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Posts only" href="{{ site.url }}/posts.xml">
@@ -76,6 +76,7 @@
     <link rel="alternate" type="application/json" title="{{ site.title }} - Main as JSON" href="{{ site.url }}/feed.json">
 
     {%- if page.layout == 'post' -%}
+    <link rel="alternate" type="application/activity+json" href="https://fed.brid.gy/r/{{ page.url | absolute_url }}">
     <link href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md" type="text/markdown"
       rel="alternate" title="Markdown">
     {%- endif -%}
