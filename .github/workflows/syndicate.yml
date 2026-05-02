@@ -1,0 +1,26 @@
+---
+name: Syndicate New Posts
+on:
+    workflow_call:
+        inputs:
+            before_sha:
+                required: true
+                type: string
+            current_sha:
+                required: true
+                type: string
+
+jobs:
+    syndicate:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v6
+              with:
+                  fetch-depth: 0
+
+            - name: Syndicate new posts to Bridgy
+              continue-on-error: true
+              run: |
+                  bash .github/scripts/syndicate-new-posts.sh \
+                    "${{ inputs.before_sha }}" \
+                    "${{ inputs.current_sha }}"

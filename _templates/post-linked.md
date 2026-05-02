@@ -6,7 +6,7 @@ link: url
 title: post title
 type: linked
 cited: source name
-publish_to_fed: false
+syndicate: false
 ---
 
 my comment

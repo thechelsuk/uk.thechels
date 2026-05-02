@@ -4,6 +4,7 @@ layout: post
 date: 2026-04-25 16:07
 title: Heart Rate
 type: social
+syndicate: true
 
 ---
 

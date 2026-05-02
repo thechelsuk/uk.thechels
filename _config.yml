@@ -23,18 +23,18 @@ webmentions:
   cache_folder: .cache
   cache_bad_uris_for: 5
   js: false
-  syndication: {}
   throttle_lookups:
     last_week: daily
     last_month: weekly
     last_year: monthly
     older: monthly
+  syndication: {}
 defaults:
   - scope:
       path: ""
       type: "posts"
     values:
-      publish_to_fed: false
+      syndicate: false
 plugins:
   - jekyll-avatar
   - jekyll-github-metadata
