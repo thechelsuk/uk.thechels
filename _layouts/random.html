@@ -26,16 +26,8 @@
         webmention_count page.url %} mentions.
     </p>
 
-    <p class="webmentions">
-        <a class="u-url" href="{{ page.url | absolute_url }}" class="hidden"></a>
-        {% webmentions page.url %}
-    </p>
-
     {% endif %}
 </article>
-{% for target in page.syndicate_to %}
-<a href="{{ site.webmentions.syndication[target].endpoint }}" class="hidden"></a>
-{% endfor %}
 
 
 

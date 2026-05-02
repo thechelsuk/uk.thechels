@@ -75,32 +75,27 @@ jobs:
               with:
                   fetch-depth: 2
 
-            - name: Notify Brid.gy and Bridgy Fed about new posts
+            - name: Notify Bridgy Fed about new posts
               continue-on-error: true
               run: |
-                  new_posts=$(git diff --name-status HEAD~1 HEAD -- _posts/ | grep '^A' | awk '{print $2}')
+                  new_posts=$(git diff --name-status HEAD~1 HEAD -- _posts/ | awk '$1 == "A" { print $2 }')
                   if [ -z "$new_posts" ]; then
-                    echo "No new posts detected, skipping syndication."
+                    echo "No new posts detected, skipping publication."
                     exit 0
                   fi
                   for file in $new_posts; do
                     filename=$(basename "$file")
                     slug=$(echo "${filename%.md}" | sed 's/^[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}-//')
                     source_url="https://thechels.uk/${slug}"
-                    echo "Syndicating: $source_url"
+                    publish_to_fed=$(sed -n '/^---$/,/^---$/p' "$file" | grep '^publish_to_fed:' | head -n 1 | cut -d ':' -f 2- | tr '[:upper:]' '[:lower:]' | tr -d '[:space:]')
+                    if [ "$publish_to_fed" != "true" ]; then
+                      echo "Skipping: $source_url (publish_to_fed is not true)"
+                      continue
+                    fi
+                    echo "Publishing: $source_url"
                     echo -n "  fediverse: "
                     curl -s -o /dev/null -w "%{http_code}" \
                       -d "source=${source_url}&target=https://fed.brid.gy/" \
                       https://fed.brid.gy/webmention
-                    echo
-                    echo -n "  mastodon: "
-                    curl -s -o /dev/null -w "%{http_code}" \
-                      -d "source=${source_url}&target=https://brid.gy/publish/mastodon" \
-                      https://brid.gy/publish/webmention
-                    echo
-                    echo -n "  bluesky:  "
-                    curl -s -o /dev/null -w "%{http_code}" \
-                      -d "source=${source_url}&target=https://brid.gy/publish/bluesky" \
-                      https://brid.gy/publish/webmention
                     echo
                   done

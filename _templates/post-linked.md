@@ -6,7 +6,7 @@ link: url
 title: post title
 type: linked
 cited: source name
-syndicate_to: [ mastodon, bluesky, reddit ]
+publish_to_fed: false
 ---
 
 my comment

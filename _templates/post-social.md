@@ -4,7 +4,7 @@ layout: post
 date: YYYY-MM-DD HH:MM
 title: post title
 type: social
-syndicate_to: [ mastodon, bluesky, reddit ]
+publish_to_fed: false
 ---
 
 my comment

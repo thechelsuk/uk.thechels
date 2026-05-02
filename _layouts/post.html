@@ -34,10 +34,9 @@
 
   {% endif %}
 </article>
-{% for target in page.syndicate_to %}
-<a href="{{ site.webmentions.syndication[target].endpoint }}" class="hidden"></a>
-{% endfor %}
-<a class="u-bridgy-fed" href="https://fed.brid.gy/" hidden></a>
+{% if page.publish_to_fed %}
+<a class="u-bridgy-fed" href="https://fed.brid.gy/" hidden="from-humans"></a>
+{% endif %}
 
 
 {% include footer.html %}

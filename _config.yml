@@ -27,19 +27,12 @@ webmentions:
     last_month: weekly
     last_year: monthly
     older: monthly
-  syndication:
-    mastodon:
-      endpoint: https://brid.gy/publish/mastodon
-    bluesky:
-      endpoint: https://brid.gy/publish/bluesky
-    reddit:
-      endpoint: https://brid.gy/publish/reddit
 defaults:
   - scope:
       path: ""
       type: "posts"
     values:
-      syndicate_to:
+      publish_to_fed: false
 plugins:
   - jekyll-avatar
   - jekyll-github-metadata
