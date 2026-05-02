@@ -118,13 +118,15 @@
             </li>
           </ul>
           <div class="blog-bar">
-            <div class="blog-identity">
+            <div class="blog-identity h-card">
+              <img class="u-photo visually-hidden" src="{{ site.owner.avatar }}" alt="">
+              <span class="p-note visually-hidden">{{ site.description }}</span>
               <div class="blog-avatar" role="img"
                 aria-label="A generated avatar on white background which transitions to portrait head shot of {{ site.owner.name }} on hover.">
               </div>
               <div class="blog-text">
                 <div class="blog-title">
-                  <a href="{{ site.url }}">
+                  <a class="u-url p-name" rel="me" href="{{ site.url }}">
                     {% if site.title %}
                     {{ site.title }}
                     {% else %}

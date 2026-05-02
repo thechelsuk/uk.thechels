@@ -22,6 +22,7 @@ webmentions:
   cache_folder: .cache
   cache_bad_uris_for: 5
   js: false
+  syndication: {}
   throttle_lookups:
     last_week: daily
     last_month: weekly
@@ -203,7 +204,6 @@ navigation_footer:
     title: "Change password"
   - link: "/.well-known/dnt-policy.txt"
     title: "DNT Policy (txt)"
-
 
   - link: "/save"
     title: "Sponsors"

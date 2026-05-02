@@ -1,7 +1,6 @@
 ---
 
 layout: post
-syndicate_to:
 date: 2026-04-29 11:05
 title: Millie Bright announces retirement from football
 link: https://www.chelseafc.com/en/news/article/millie-bright-announces-retirement-from-football
@@ -17,5 +16,5 @@ Best and most successful captain Chelsea have ever had. Glad she is not playing 
 ***
   
 > Millie began her Chelsea career in the 2015 season and went on to play more Women's Super League matches than any other player, breaking Jordan Nobbs' record of 210 during our match against Liverpool in November 2025 and now sits in top spot with 216.
-> 
+>
 > She also holds our club's all-time appearance record (314) and has scored 19 total goals on the way to winning all eight of our WSL titles since our first in 2015. She has added six Women's FA Cup trophies to that list, as well as four Women's League Cups, earning two domestic Trebles, one in 2021 and the other in 2025.

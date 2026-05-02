@@ -1,7 +1,6 @@
 ---
 
 layout: post
-syndicate_to: [ mastodon, bluesky, reddit ]
 date: 2026-04-26 12:36
 title: Nearly half of everyone in poverty is either a disabled person or lives with a disabled person
 link: https://www.disabilityrightsuk.org/news/2020/february/nearly-half-everyone-poverty-either-disabled-person-or-lives-disabled-person
