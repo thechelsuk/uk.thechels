@@ -29,6 +29,8 @@ jobs:
                   bundler-cache: true
 
             - name: Build Jekyll site
+              env:
+                  JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               run: |
                   printf 'webmentions:\n  pause_lookups: true\n' > /tmp/deploy_config.yml
                   bundle exec jekyll build --config _config.yml,/tmp/deploy_config.yml

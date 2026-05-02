@@ -21,6 +21,7 @@ jobs:
       - name: Refresh webmentions
         run: bundle exec jekyll build
         env:
+          JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           JEKYLL_ENV: production
           PAGES_REPO_NWO: thechelsuk/uk.thechels
 
