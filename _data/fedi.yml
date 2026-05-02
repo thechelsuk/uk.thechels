@@ -1,0 +1,28 @@
+profile:
+  name: thechels.uk
+  note: |
+    ✦ Diagnosed with ME/CFS (mod/sev) & MCAS -  Occasional senior software engineering people leader, app developer, web developer, and blogger. https://thechels.uk
+     Tomoz, Hiyd, EngMan, Mltply & ShortKeys
+    ⌘ https://links.thechels.uk
+    ⇉ https://nuchronic.uk"
+  photo: "/.well-known/avatar.png"
+
+links:
+  - label: Hiyd
+    url: https://hiyd.uk
+  - label: Nuchronic
+    url: https://nuchronic.uk
+  - label: YouTube
+    url: https://www.youtube.com/@thechelsuk
+  - label: Twitch
+    url: https://www.twitch.tv/thechelsuk
+  - label: Ko-fi
+    url: https://ko-fi.com/thechelsuk
+  - label: GitHub
+    url: https://github.com/thechelsuk
+  - label: Bridgy Fed
+    url: https://web.brid.gy/thechels.uk
+  - label: Mastodon
+    url: https://mastodon.social/@thechelsuk
+  - label: Bluesky
+    url: https://bsky.app/profile/thechelsuk.eurosky.social
