@@ -4677,3 +4677,11 @@ https://thechels.uk/2026-05-02-daily-rundown:
   http://cjchilvers.com/blog?format=rss: false
   https://matthewcassinelli.com/: false
   https://matthewcassinelli.com/feed/: false
+https://thechels.uk/nnw-theme-bundle-release-fc098d90d3fe:
+  https://extension.app/: false
+  https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.6.2/guro.zip: false
+  https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.6.2/retro.zip: false
+  https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.6.2/thechelsuk.zip: false
+  "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.6.2/guro.zip": false
+  "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.6.2/retro.zip": false
+  "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.6.2/thechelsuk.zip": false
