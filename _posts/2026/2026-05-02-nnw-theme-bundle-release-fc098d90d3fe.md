@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2026-05-02'
+date: 2026-05-02 11:00
 title: NNW Theme Bundle Version v1.6.2
 type: release
 cited: github

@@ -158,6 +158,8 @@ def test_render_post_includes_required_front_matter():
 
     content = fetch_releases.render_post(release)
     assert "layout: post" in content
+    assert "date: 2026-04-18 18:10" in content
+    assert "date: '2026-04-18" not in content
     assert "type: release" in content
     assert "cited: github" in content
     assert "release_repo: uk.thechels.search" in content

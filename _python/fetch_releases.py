@@ -265,7 +265,7 @@ def render_post(release: ReleaseRecord) -> str:
 
     front_matter = {
         "layout": "post",
-        "date": release.published.date().isoformat(),
+        "date": release.published.strftime("%Y-%m-%d %H:%M"),
         "title": release.title,
         "type": "release",
         "cited": "github",
