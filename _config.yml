@@ -10,6 +10,7 @@ owner:
   uri: https://thechels.uk
   avatar: "/.well-known/avatar.png"
 url: https://thechels.uk
+timezone: Europe/London
 encoding: UTF-8
 future: false
 github:
