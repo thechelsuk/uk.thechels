@@ -31,9 +31,10 @@ jobs:
             - name: Build Jekyll site
               env:
                   JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  PAGES_REPO_NWO: thechelsuk/uk.thechels
               run: |
                   printf 'webmentions:\n  pause_lookups: true\n' > /tmp/deploy_config.yml
-                  bundle exec jekyll build --config _config.yml,/tmp/deploy_config.yml
+                  bundle exec jekyll build --trace --config _config.yml,/tmp/deploy_config.yml
 
             - name: Copy markdown source files
               run: |
