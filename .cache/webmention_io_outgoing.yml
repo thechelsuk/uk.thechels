@@ -4622,3 +4622,8 @@ https://thechels.uk/cheltenham-open-data-release-f7296982c5d7:
   https://github.com/thechelsuk/uk.thechels.cod/pull/16: false
   https://github.com/thechelsuk/uk.thechels.cod/pull/17: false
   https://github.com/thechelsuk/uk.thechels.cod/commits/1.1.0: false
+https://thechels.uk/nnw-theme-bundle-release-41512d7d0e50:
+  https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.5.0/guro.zip: false
+  https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.5.0/thechelsuk.zip: false
+  "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.5.0/guro.zip": false
+  "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.5.0/thechelsuk.zip": false
