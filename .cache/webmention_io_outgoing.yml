@@ -4733,3 +4733,12 @@ https://thechels.uk/2026-05-03-daily-rundown:
   http://onlinejournalismblog.com/feed/: false
   https://www.liminalarc.co/: false
   http://feeds.feedburner.com/LeadingAgile: false
+https://thechels.uk/nnw-theme-bundle-release-a865ebf081e2:
+  https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.7.2/guro.zip: false
+  https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.7.2/retro.zip: false
+  https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.7.2/thechelsuk.zip: false
+  "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.7.2/guro.zip": false
+  "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.7.2/retro.zip": false
+  "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.7.2/thechelsuk.zip": false
+https://thechels.uk/cf-worker-x-redirect-release-62642408c50b:
+  https://github.com/thechelsuk/cf-worker-x-redirect/commits/v1.0.1: false
