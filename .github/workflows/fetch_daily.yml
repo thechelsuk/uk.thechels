@@ -1,11 +1,11 @@
 ---
-name: Daily Build and Deploy
+name: Fetch Daily
 on:
     workflow_dispatch:
     schedule:
         - cron: "0 5 * * *"
 jobs:
-    Build:
+    fetch:
         runs-on: ubuntu-latest
         steps:
             - name: Check out Repo
