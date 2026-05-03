@@ -24,3 +24,5 @@
   url: https://github.com/thechelsuk/homebridge-ysa2-plugin/releases.atom
 - id: SecOpsNews
   url: https://github.com/SecOpsNews/news/releases.atom
+- id: CF Worker X Redirect
+  url: https://github.com/thechelsuk/cf-worker-x-redirect/releases.atom
