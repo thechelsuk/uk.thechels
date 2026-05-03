@@ -1,4 +1,4 @@
-name: Refresh Webmentions Cache
+name: Fetch Webmentions
 on:
     schedule:
         - cron: "0 */6 * * *"
@@ -8,7 +8,7 @@ permissions:
     contents: write
 
 jobs:
-    refresh:
+    fetch:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v6
@@ -18,12 +18,10 @@ jobs:
                   ruby-version: ".ruby-version"
                   bundler-cache: true
 
-            - name: Refresh webmentions
+            - name: Fetch webmentions
               run: bundle exec jekyll build --trace
               env:
-                  JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                   JEKYLL_ENV: production
-                  PAGES_REPO_NWO: thechelsuk/uk.thechels
 
             - name: Commit updated webmention cache
               run: |
