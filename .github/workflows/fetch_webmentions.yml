@@ -22,6 +22,7 @@ jobs:
               run: bundle exec jekyll build --trace
               env:
                   JEKYLL_ENV: production
+                  PAGES_REPO_NWO: thechelsuk/uk.thechels
 
             - name: Commit updated webmention cache
               run: |
