@@ -15,6 +15,7 @@ ROOT = pathlib.Path(__file__).parent.parent.resolve()
 FEEDS_FILE = ROOT / "_data" / "releases.yml"
 POSTS_DIR = ROOT / "_posts"
 NO_RELEASE_NOTES = "No release notes were included for this release."
+PROJECTS_LINK = "[Read more about my projects](/projects/)"
 
 
 @dataclass(frozen=True)
@@ -262,6 +263,7 @@ def render_post(release: ReleaseRecord) -> str:
 
     body = "\n".join(rewritten_lines)
     body = re.sub(r"\n{3,}", "\n\n", body).strip()
+    body = f"{body}\n\n{PROJECTS_LINK}" if body else PROJECTS_LINK
 
     front_matter = {
         "layout": "post",

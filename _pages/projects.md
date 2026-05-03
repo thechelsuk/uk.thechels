@@ -41,3 +41,7 @@ seo: Projects
 ## [Homebridge YSA2 Plugin](https://npmx.dev/package/@thechelsuk/homebridge-ysa2-plugin) ⇗
 
 - Homebridge YSA2 is an updated project working on top of an existing YaleSyncAlarm Open source version that appears to be abandoned having not been made ready for HB 2.0 or had any maintenance in the last 9 years. The NPM package can be installed for Homebridge users and helps manage your sync alarm, working alongside a dummy switch (an Apple limitation) - the alarm can be armed or disarmed through HomeKit automations (e.g., set alarm when last person leaves the home)
+
+## [CF Worker X Redirect](https://github.com/thechelsuk/cf-worker-x-redirect) ⇗
+
+- A Cloudflare Worker project that handles URL redirection. Providing a simple and efficient way to manage redirects at the edge. This project solves a small niche problem for managing videos in NetNewsWire that does not seem to support `x-callback-url schemes`. My themes rewrite URLs to to a subdomain passing the video url as a query parameter and the URL is then handled by this worker, redirecting to an iOS video playing app that supports PIP player via it's  own url scheme. The project is open source and available on GitHub under an MIT licence. Expected customer base of one.
