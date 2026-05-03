@@ -1,6 +1,8 @@
 from datetime import datetime, timezone
 from types import SimpleNamespace
 
+import pytest
+
 import fetch_releases as fetch_releases
 
 
@@ -254,3 +256,6 @@ def test_process_releases_creates_new_posts_then_skips_duplicates(
     assert "cited: github" in content
     assert "## What's Changed" in content
     assert "<h2>" not in content
+
+if __name__ == "__main__":
+    pytest.main()
