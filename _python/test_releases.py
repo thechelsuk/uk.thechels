@@ -257,5 +257,6 @@ def test_process_releases_creates_new_posts_then_skips_duplicates(
     assert "## What's Changed" in content
     assert "<h2>" not in content
 
+
 if __name__ == "__main__":
     pytest.main()
