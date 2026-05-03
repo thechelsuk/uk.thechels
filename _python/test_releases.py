@@ -167,7 +167,8 @@ def test_render_post_includes_required_front_matter():
     assert "release_version: 1.0.0" in content
     assert "title: Search Version 1.0.0" in content
     assert "link: https://github.com/thechelsuk/uk.thechels.search/releases/tag/1.0.0" in content
-    assert content.endswith("Release notes\n")
+    assert content.endswith(
+        "Release notes\n\n[Read more about my projects](/projects/)\n")
 
 
 def test_render_post_rewrites_labelled_netnewswire_links():
