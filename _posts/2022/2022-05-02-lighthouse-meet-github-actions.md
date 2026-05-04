@@ -5,7 +5,7 @@ date: 2022-05-02
 link: https://blog.johnnyreilly.com/2022/03/20/lighthouse-meet-github-actions
 title: Lighthouse meet GitHub Actions
 type: linked
-cited: Johnny Reilly 
+cited: Johnny Reilly
 
 ---
 

@@ -9,8 +9,8 @@ type: linked
 
 ---
 
-Interesting 
+Interesting
 
 > Why? Some writing wants to be a website. Some wants to be a newsletter. Some wants to be a feed.
-> 
+>
 > [Sourcefeed](https://www.sourcefeed.app) is for the third kind. RSS-only. No website, no inbox, no algorithm. Subscribers read it where they choose, in whatever reader they already trust.

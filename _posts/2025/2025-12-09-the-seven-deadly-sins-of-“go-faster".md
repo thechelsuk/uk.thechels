@@ -9,22 +9,22 @@ cited: Codemanship
 
 ---
 
-> Things that will make your dev team take _longer_to deliver _worse_software:  
-  
-1. Adding more people to the team  
-2. Making them work longer hours  
-3. Cutting down on work that "slows them down", like writing automated tests  
-4. Maximising team utilisation and scheduling more work to be done in parallel  
-5. Micromanaging the details  
-6. Minimising real-time, synchronous communication so they're not "interrupted"  
-7. Keeping them inline. No questioning the plan, and failure is _not_an option!  
-  
-> Things that will help your dev team take _less_time to deliver _better_software:  
-  
-1. Keep the team small  
-2. Keep the team rested  
-3. Test more often (you'll be needing those fast tests)  
-4. Solve one problem at a time, as a team  
-5. Trust the team to make decisions when they need to be made  
-6. Maximise synchronous communication to minimise waiting  
+> Things that will make your dev team take _longer_to deliver _worse_software:
+
+1. Adding more people to the team
+2. Making them work longer hours
+3. Cutting down on work that "slows them down", like writing automated tests
+4. Maximising team utilisation and scheduling more work to be done in parallel
+5. Micromanaging the details
+6. Minimising real-time, synchronous communication so they're not "interrupted"
+7. Keeping them inline. No questioning the plan, and failure is _not_an option!
+
+> Things that will help your dev team take _less_time to deliver _better_software:
+
+1. Keep the team small
+2. Keep the team rested
+3. Test more often (you'll be needing those fast tests)
+4. Solve one problem at a time, as a team
+5. Trust the team to make decisions when they need to be made
+6. Maximise synchronous communication to minimise waiting
 7. Keep them curious, questioning and unafraid to try

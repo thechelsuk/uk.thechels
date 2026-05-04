@@ -1,3 +1,4 @@
+---
 name: Fetch Webmentions
 on:
     schedule:

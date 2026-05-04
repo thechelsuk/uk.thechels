@@ -4,7 +4,7 @@ layout: post
 date: 2022-05-12
 link: https://changelog.com/posts/automation-is-the-serialization-of-understanding
 type: linked
-cited: Changelog 
+cited: Changelog
 
 ---
 

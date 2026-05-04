@@ -2,7 +2,7 @@
 
 layout: post
 date: 2026-04-21 01:08
-title: How I use RSS to quickly post on my Jekyll blog 
+title: How I use RSS to quickly post on my Jekyll blog
 link: https://lisacharlottemuth.com/rss-jekyll-blog
 type: linked
 cited: Lisa Charlotte Muth
