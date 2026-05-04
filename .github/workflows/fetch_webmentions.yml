@@ -6,6 +6,12 @@ on:
 
 permissions:
     contents: write
+    pages: write
+    id-token: write
+
+concurrency:
+    group: fetch-webmentions
+    cancel-in-progress: false
 
 jobs:
     fetch:
@@ -22,12 +28,19 @@ jobs:
               run: bundle exec jekyll build --trace
               env:
                   JEKYLL_ENV: production
-                  PAGES_REPO_NWO: thechelsuk/uk.thechels
 
             - name: Commit updated webmention cache
-              run: |
-                  git config user.name "GitHub Action"
-                  git config user.email "action@github.com"
-                  git add -A
-                  git diff --staged --quiet || git commit -m "Chore: Refresh webmention cache `date +'%Y-%m-%d %H:%M'` [skip ci]"
-                  git push
+              uses: ./.github/actions/git-commit-back
+              with:
+                  message: "Chore: Refresh webmention cache [skip ci]"
+
+    deploy:
+        needs: fetch
+        uses: ./.github/workflows/re-deploy.yml
+        secrets: inherit
+        with:
+            ref: ${{ github.ref_name }}
+            run_syndicate: false
+        permissions:
+            pages: write
+            id-token: write

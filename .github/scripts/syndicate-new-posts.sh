@@ -3,6 +3,9 @@ set -euo pipefail
 
 before_sha="${1:?before sha is required}"
 current_sha="${2:?current sha is required}"
+base_url="${BASE_URL:-https://thechels.uk}"
+bridgy_webmention_url="${BRIDGY_WEBMENTION_URL:-https://brid.gy/publish/webmention}"
+bridgy_publish_base="${bridgy_webmention_url%/webmention}"
 targets=(mastodon bluesky)
 
 front_matter_value() {
@@ -53,7 +56,7 @@ post_source_url() {
     filename="$(basename "$file")"
     slug="${filename%.md}"
     slug="$(printf '%s' "$slug" | sed 's/^[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}-//')"
-    printf 'https://thechels.uk/%s\n' "$slug"
+    printf '%s/%s\n' "${base_url%/}" "$slug"
 }
 
 syndicate_post() {
@@ -64,11 +67,11 @@ syndicate_post() {
 
     echo "Syndicating: $source_url"
     for target in "${targets[@]}"; do
-        target_url="https://brid.gy/publish/$target"
+        target_url="${bridgy_publish_base}/$target"
         status_code=$(curl -sS -o /tmp/bridgy_publish_response -w "%{http_code}" \
             --data-urlencode "source=${source_url}" \
             --data-urlencode "target=${target_url}" \
-            https://brid.gy/publish/webmention)
+            "${bridgy_webmention_url}")
         echo "  ${target}: ${status_code}"
     done
 }

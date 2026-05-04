@@ -5,6 +5,9 @@ on:
     schedule:
         - cron: "0 20 1 * *"
 
+permissions:
+    issues: write
+
 jobs:
     linkChecker:
         runs-on: ubuntu-latest
@@ -15,11 +18,19 @@ jobs:
               id: lychee
               uses: lycheeverse/lychee-action@v2.8.0
               with:
-                  args: --verbose --no-progress --accept=200,202,203,204,301,302,303,307,308,429,999 --timeout=30 --retry-wait-time=5 --max-retries=2 --insecure --exclude-redirects --user-agent="Mozilla/5.0 (compatible; LinkChecker)" './**/*.md' './**/*.html'
+                  args: >-
+                      --verbose
+                      --no-progress
+                      --base https://thechels.uk
+                      --include 'https?://([a-z]+\.)?thechels\.uk'
+                      --timeout=30
+                      --max-retries=2
+                      './**/*.md'
                   fail: false
                   format: markdown
+                  jobSummary: true
               env:
-                  GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
             - name: Create Issue From File
               if: steps.lychee.outputs.exit_code != 0

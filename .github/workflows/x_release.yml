@@ -18,7 +18,7 @@
 # Versioning:
 #   Semver, no 'v' prefix (e.g. 1.2.3).
 #   Defaults to 1.0.0 if no existing tags are found.
-
+---
 name: Release
 
 on:

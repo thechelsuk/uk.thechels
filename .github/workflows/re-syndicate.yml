@@ -20,6 +20,9 @@ jobs:
 
             - name: Syndicate new posts to Bridgy
               continue-on-error: true
+              env:
+                  BASE_URL: ${{ vars.BASE_URL }}
+                  BRIDGY_WEBMENTION_URL: ${{ vars.BRIDGY_WEBMENTION_URL }}
               run: |
                   bash .github/scripts/syndicate-new-posts.sh \
                     "${{ inputs.before_sha }}" \

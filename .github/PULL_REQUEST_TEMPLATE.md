@@ -14,7 +14,7 @@ Primary Goal:
 
 - _provide a guide on how to test the changes_
 
-## Final checks 
+## Final checks
 
 - [ ] Ensure, where possible, your change includes tests
 - [ ] Ensure, where possible, documentation is updated (readme, doc comments etc)

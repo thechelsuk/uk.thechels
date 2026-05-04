@@ -1,0 +1,29 @@
+name: Git Commit Back
+description: Commit and push repository changes when staged changes exist.
+inputs:
+    message:
+        description: Commit message to use when changes exist.
+        required: true
+    add-path:
+        description: Pathspec to stage before commit.
+        required: false
+        default: -A
+
+runs:
+    using: composite
+    steps:
+        - name: Configure git identity
+          shell: bash
+          run: |
+              git config user.name "GitHub Action"
+              git config user.email "action@github.com"
+
+        - name: Stage, commit, and push
+          shell: bash
+          run: |
+              git add ${{ inputs.add-path }}
+              if ! git diff --staged --quiet; then
+                TIMESTAMP=$(date +'%Y-%m-%d %H:%M')
+                git commit -m "${{ inputs.message }} $TIMESTAMP"
+                git push
+              fi

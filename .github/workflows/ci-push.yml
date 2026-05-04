@@ -1,0 +1,33 @@
+---
+name: CI for Push
+on:
+    workflow_dispatch:
+    push:
+        branches:
+            - main
+
+permissions:
+    contents: write
+    pages: write
+    id-token: write
+
+concurrency:
+    group: "pages"
+    cancel-in-progress: false
+
+jobs:
+    lint:
+        uses: ./.github/workflows/re-lint.yml
+        with:
+            autofix: ${{ github.event_name != 'pull_request' }}
+        permissions:
+            contents: write
+    deploy:
+        needs: lint
+        uses: ./.github/workflows/re-deploy.yml
+        secrets: inherit
+        with:
+            ref: ${{ github.sha }}
+            before_sha: ${{ github.event_name == 'push' && github.event.before || '' }}
+            current_sha: ${{ github.event_name == 'push' && github.sha || '' }}
+            run_syndicate: ${{ github.event_name == 'push' }}

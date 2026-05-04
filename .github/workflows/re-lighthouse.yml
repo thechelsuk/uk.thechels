@@ -1,0 +1,56 @@
+---
+name: Reusable Lighthouse
+
+on:
+    workflow_call:
+        inputs:
+            urls:
+                description: Newline-separated URLs for local Lighthouse checks
+                required: false
+                default: |
+                    http://127.0.0.1:4000/
+                    http://127.0.0.1:4000/projects
+                    http://127.0.0.1:4000/about
+                    http://127.0.0.1:4000/slashes
+                    http://127.0.0.1:4000/disability
+                type: string
+
+jobs:
+    lighthouse:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v6
+
+            - uses: ruby/setup-ruby@v1
+              with:
+                  ruby-version: ".ruby-version"
+                  bundler-cache: true
+
+            - name: Build Jekyll site for local checks
+              run: |
+                  printf 'webmentions:\n  pause_lookups: true\n' > /tmp/lighthouse_config.yml
+                  bundle exec jekyll build --trace --config _config.yml,/tmp/lighthouse_config.yml
+
+            - name: Start local static server
+              run: |
+                  python -m http.server 4000 --directory _site > /tmp/http-server.log 2>&1 &
+
+            - name: Lighthouse
+              uses: foo-software/lighthouse-check-action@master
+              id: lighthouseCheck
+              with:
+                  urls: ${{ inputs.urls }}
+                  gitAuthor: "${{ github.actor }}"
+                  gitBranch: "${{ github.ref }}"
+                  gitHubAccessToken: "${{ secrets.GITHUB_TOKEN }}"
+                  device: all
+
+            - name: Verify Lighthouse Check results
+              uses: foo-software/lighthouse-check-status-action@master
+              with:
+                  minAccessibilityScore: "${{ vars.LIGHTHOUSE_SCORE_MIN || '95' }}"
+                  minBestPracticesScore: "${{ vars.LIGHTHOUSE_SCORE_MIN || '95' }}"
+                  minPerformanceScore: "${{ vars.LIGHTHOUSE_SCORE_MIN || '95' }}"
+                  minProgressiveWebAppScore: "${{ vars.LIGHTHOUSE_SCORE_MIN || '95' }}"
+                  minSeoScore: "${{ vars.LIGHTHOUSE_SCORE_MIN || '95' }}"
+                  lighthouseCheckResults: ${{ steps.lighthouseCheck.outputs.lighthouseCheckResults }}

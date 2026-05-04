@@ -1,0 +1,24 @@
+---
+name: CI for Pull Requests
+
+on:
+    pull_request:
+    workflow_dispatch:
+
+permissions:
+    contents: read
+
+jobs:
+    lint:
+        uses: ./.github/workflows/re-lint.yml
+        with:
+            autofix: false
+        permissions:
+            contents: read
+
+    test:
+        uses: ./.github/workflows/re-python.yml
+
+    lighthouse:
+        needs: [lint, test]
+        uses: ./.github/workflows/re-lighthouse.yml

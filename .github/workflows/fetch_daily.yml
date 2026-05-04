@@ -3,29 +3,38 @@ name: Fetch Daily
 on:
     workflow_dispatch:
     schedule:
-        - cron: "0 5 * * *"
+        - cron: "11 5 * * *"
+
+concurrency:
+    group: fetch-daily
+    cancel-in-progress: false
+
+permissions:
+    contents: write
+    pages: write
+    id-token: write
+
 jobs:
     fetch:
         runs-on: ubuntu-latest
+        outputs:
+            before_sha: ${{ steps.before.outputs.sha }}
+            current_sha: ${{ steps.after.outputs.sha }}
         steps:
             - name: Check out Repo
               uses: actions/checkout@v6
               with:
                   token: ${{ secrets.PAT_TOKEN }}
-            - name: Set up Python
-              uses: actions/setup-python@v6
+
+            - name: Set up Python and dependencies
+              uses: ./.github/actions/python-setup
               with:
                   python-version: 3.13.1
-            - uses: actions/cache@v5
-              name: Configure pip Caching
-              with:
-                  path: ~/.cache/pip
-                  key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-                  restore-keys: |
-                      ${{ runner.os }}-pip-
-            - name: Install Python Dependencies
-              run: |
-                  python -m pip install -r "./_python/requirements.txt" --quiet
+
+            - name: Capture before SHA
+              id: before
+              run: echo "sha=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
+
             - name: Processing Python Scripts
               env:
                   OPEN_WEATHER_KEY: ${{ secrets.OPEN_WEATHER_KEY }}
@@ -48,11 +57,23 @@ jobs:
                   python '_python/daily.py'
 
             - name: Commit and push
-              run: |-
-                  git diff
-                  git config user.name "GitHub Action"
-                  git config user.email "action@github.com"
-                  git add -A
-                  git diff --staged --quiet || git commit -m "Chore: New Daily Rundown Post `date +'%Y-%m-%d %H:%M'` [skip ci]"
-                  git push
+              uses: ./.github/actions/git-commit-back
+              with:
+                  message: "Chore: New Daily Rundown Post [skip ci]"
 
+            - name: Capture after SHA
+              id: after
+              run: echo "sha=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
+
+    deploy:
+        needs: fetch
+        uses: ./.github/workflows/re-deploy.yml
+        secrets: inherit
+        with:
+            ref: ${{ github.ref_name }}
+            run_syndicate: true
+            before_sha: ${{ needs.fetch.outputs.before_sha }}
+            current_sha: ${{ needs.fetch.outputs.current_sha }}
+        permissions:
+            pages: write
+            id-token: write

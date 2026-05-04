@@ -1,0 +1,30 @@
+---
+name: Add Content
+
+on:
+    issues:
+        types: [labeled, edited]
+
+jobs:
+    validation:
+        runs-on: ubuntu-latest
+        outputs:
+            label: ${{ steps.match.outputs.label }}
+        steps:
+            - name: Match supported content label
+              id: match
+              uses: actions/github-script@v8
+              with:
+                  script: |
+                      const supported = ['next', 'quotes', 'slogans', 'stocks', 'teams', 'workout'];
+                      const labels = context.payload.issue.labels.map((label) => label.name);
+                      const matched = supported.find((label) => labels.includes(label));
+                      core.setOutput('label', matched || '');
+
+    execution:
+        if: needs.validation.outputs.label != ''
+        needs: validation
+        uses: ./.github/workflows/re-runner.yml
+        with:
+            content: ${{ github.event.issue.body }}
+            label: ${{ needs.validation.outputs.label }}

@@ -1,0 +1,66 @@
+---
+name: Reusable Lint
+
+on:
+    workflow_call:
+        inputs:
+            autofix:
+                description: Auto-fix formatting and commit changes back
+                required: false
+                default: false
+                type: boolean
+
+permissions:
+    contents: write
+
+jobs:
+    lint:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v6
+
+            - name: Set up Python and dependencies
+              uses: ./.github/actions/python-setup
+              with:
+                  python-version: "3.13"
+
+            - name: Install lint tooling
+              run: python -m pip install yamllint --quiet
+
+            - name: Set up Node
+              uses: actions/setup-node@v5
+              with:
+                  node-version: "20"
+
+            - name: Install markdown tooling
+              run: npm install -g markdownlint-cli prettier
+
+            - name: Auto-fix Python, Markdown, and YAML formatting
+              if: inputs.autofix
+              run: |
+                  python -m yapf --style pep8 --recursive -i _python
+                  prettier --write "**/*.md" "**/*.yml" "**/*.yaml" "!_site/**" "!node_modules/**"
+
+            - name: Lint YAML
+              run: yamllint .
+
+            - name: Lint Python formatting
+              run: python -m yapf --style pep8 --recursive --diff _python
+
+            - name: Lint Markdown
+              run: markdownlint "**/*.md" "!_site/**" "!node_modules/**"
+
+            - name: Lint Bash
+              run: |
+                  mapfile -t bash_files < <(find .github -type f -name "*.sh")
+                  if [[ ${#bash_files[@]} -gt 0 ]]; then
+                    sudo apt-get update
+                    sudo apt-get install -y shellcheck
+                    shellcheck "${bash_files[@]}"
+                  fi
+
+            - name: Commit formatting changes
+              if: inputs.autofix
+              uses: ./.github/actions/git-commit-back
+              with:
+                  message: "Chore: lint auto-fix [skip ci]"
