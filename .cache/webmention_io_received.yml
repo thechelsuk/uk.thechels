@@ -1486,15 +1486,105 @@
 "/zwift-acquires-rouvy": {}
 "/an-update-on-github-availability": {}
 "/nnw-thechelsuk-theme-release-51e3aefb243b": {}
-"/2026-04-30-daily-rundown": {}
+"/2026-04-30-daily-rundown":
+  '1994192':
+    id: '1994192'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-04-30-e8cc700ed1/
+    source: false
+    pubdate: 2026-04-30 08:06:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-04-30-e8cc700ed1/
+      verified: true
+      verified_date: '2026-05-03T16:38:05+00:00'
+      id: 1994192
+      private: false
+      data:
+        author: &6
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-04-30-e8cc700ed1/
+        name: Daily - Daily Rundown for 2026-04-30
+        content: <p>Read the original article on <a href="https://thechels.uk/2026-04-30-daily-rundown">thechels.uk</a>.</p>
+        published: '2026-04-30T07:06:00+00:00'
+        published_ts: 1777532760
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-04-30-e8cc700ed1/
+      target: https://thechels.uk/2026-04-30-daily-rundown
+    author: *6
+    type: link
+    title: Daily - Daily Rundown for 2026-04-30
+    content: <p>Read the original article on <a href="https://thechels.uk/2026-04-30-daily-rundown">thechels.uk</a>.</p>
 "/2026-05-01-daily-rundown": {}
 "/homebridge-ysa2-yale-alarm-release-f5d8b98ac6df": {}
 "/nnw-guro-theme-release-d38ab8c21728": {}
 "/nnw-thechelsuk-theme-release-bb2699b4dec2": {}
 "/cheltenham-open-data-release-f7296982c5d7": {}
 "/nnw-theme-bundle-release-41512d7d0e50": {}
-"/2026-05-02-daily-rundown": {}
-"/nnw-theme-bundle-release-fc098d90d3fe": {}
+"/2026-05-02-daily-rundown":
+  '1994189':
+    id: '1994189'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-02-a12e972d52/
+    source: false
+    pubdate: 2026-05-02 06:50:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-02-a12e972d52/
+      verified: true
+      verified_date: '2026-05-03T16:37:53+00:00'
+      id: 1994189
+      private: false
+      data:
+        author: &7
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-02-a12e972d52/
+        name: Daily - Daily Rundown for 2026-05-02
+        content: <p>Read the original article on <a href="https://thechels.uk/2026-05-02-daily-rundown">thechels.uk</a>.</p>
+        published: '2026-05-02T05:50:00+00:00'
+        published_ts: 1777701000
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-02-a12e972d52/
+      target: https://thechels.uk/2026-05-02-daily-rundown
+    author: *7
+    type: link
+    title: Daily - Daily Rundown for 2026-05-02
+    content: <p>Read the original article on <a href="https://thechels.uk/2026-05-02-daily-rundown">thechels.uk</a>.</p>
+"/nnw-theme-bundle-release-fc098d90d3fe":
+  '1994188':
+    id: '1994188'
+    uri: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-6-2-da73f950a6/
+    source: false
+    pubdate: 2026-05-02 12:00:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-6-2-da73f950a6/
+      verified: true
+      verified_date: '2026-05-03T16:37:53+00:00'
+      id: 1994188
+      private: false
+      data:
+        author: &8
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-6-2-da73f950a6/
+        name: Release - NNW Theme Bundle Version v1.6.2
+        content: <p>Read the original article on <a href="https://thechels.uk/nnw-theme-bundle-release-fc098d90d3fe">thechels.uk</a>.</p>
+        published: '2026-05-02T11:00:00+00:00'
+        published_ts: 1777719600
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-6-2-da73f950a6/
+      target: https://thechels.uk/nnw-theme-bundle-release-fc098d90d3fe
+    author: *8
+    type: link
+    title: Release - NNW Theme Bundle Version v1.6.2
+    content: <p>Read the original article on <a href="https://thechels.uk/nnw-theme-bundle-release-fc098d90d3fe">thechels.uk</a>.</p>
 "/brand": {}
 "/2026-05-03-daily-rundown": {}
 "/nnw-theme-bundle-release-a865ebf081e2": {}
@@ -1512,7 +1602,7 @@
       id: 1994158
       private: false
       data:
-        author: &6
+        author: &9
           name: Nuchronic
           url: https://nuchronic.uk/
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
@@ -1526,6 +1616,6 @@
       rels:
         canonical: https://nuchronic.uk/item/release-nuchronic-uk-version-1-1-0-263ed48b62/
       target: https://thechels.uk/nuchronic-uk-release-2ab952c7e7c5
-    author: *6
+    author: *9
     type: bookmark
     content: ''
