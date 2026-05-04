@@ -39,8 +39,8 @@ jobs:
             - name: Build digest, save artifact, post to Discord (if configured)
               run: npm start
               env:
-                  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-                  OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+                  # OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+                  # OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
                   NEWSLETTER_ARTIFACT_PATH: newsletter/digest.md
 
             - name: Publish GitHub Release (digest markdown)
