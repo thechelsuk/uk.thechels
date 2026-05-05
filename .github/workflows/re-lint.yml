@@ -39,7 +39,7 @@ jobs:
               if: inputs.autofix
               run: |
                   python -m yapf --style pep8 --recursive -i _python
-                  prettier --write "**/*.md" "**/*.yml" "**/*.yaml" "!_site/**" "!node_modules/**"
+                  prettier --write "**/*.md" "**/*.yml" "**/*.yaml" "!_site/**" "!node_modules/**" "!.github/workflows/**" "!.github/actions/**"
 
             - name: Lint YAML
               run: yamllint .

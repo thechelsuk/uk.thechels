@@ -43,5 +43,6 @@ jobs:
             ref: ${{ github.ref_name }}
             run_syndicate: false
         permissions:
+            contents: read
             pages: write
             id-token: write

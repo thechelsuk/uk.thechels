@@ -75,5 +75,6 @@ jobs:
             before_sha: ${{ needs.fetch.outputs.before_sha }}
             current_sha: ${{ needs.fetch.outputs.current_sha }}
         permissions:
+            contents: read
             pages: write
             id-token: write
