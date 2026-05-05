@@ -1,0 +1,58 @@
+---
+name: Release
+
+on:
+    push:
+        branches:
+            - main
+        paths:
+            - "_config.yml"
+    workflow_dispatch:
+
+permissions:
+    contents: write
+
+jobs:
+    release:
+        name: Create Release
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v6
+
+            - name: Read version from _config.yml
+              id: version
+              run: |
+                  VERSION=$(awk -F': *' '/^version:/ {print $2; exit}' _config.yml | tr -d '"')
+                  if [ -z "$VERSION" ]; then
+                    echo "version not found in _config.yml"
+                    exit 1
+                  fi
+                  echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+                  echo "Version from config: $VERSION"
+
+            - name: Check if release already exists
+              id: exists
+              env:
+                  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              run: |
+                  VERSION="${{ steps.version.outputs.version }}"
+                  if gh release view "$VERSION" >/dev/null 2>&1; then
+                    echo "Release $VERSION already exists — skipping."
+                    echo "create=false" >> "$GITHUB_OUTPUT"
+                  else
+                    echo "create=true" >> "$GITHUB_OUTPUT"
+                  fi
+
+            - name: Create GitHub release
+              if: steps.exists.outputs.create == 'true'
+              env:
+                  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              run: |
+                  VERSION="${{ steps.version.outputs.version }}"
+                  NOTES=$(git log -1 --pretty=%B)
+                  gh release create "$VERSION" \
+                    --target "$GITHUB_SHA" \
+                    --title "$VERSION" \
+                    --notes "$NOTES"
