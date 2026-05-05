@@ -29,6 +29,7 @@ jobs:
               run: bundle exec jekyll build --trace
               env:
                   JEKYLL_ENV: production
+                  PAGES_REPO_NWO: ${{ vars.PAGES_REPO_NWO }}
 
             - name: Commit updated webmention cache
               uses: ./.github/actions/git-commit-back
