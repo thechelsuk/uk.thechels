@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-04-24 03:02
 title: UK Biobank project privacy concerns
 link: https://www.theguardian.com/world/2026/apr/23/what-is-uk-biobank-project-what-are-privacy-concerns
 cited: The Guardian
 type: linked
-
 ---
 
 I am aware many people with ME could be in this dataset after recent funding and research. As if we do not suffer enough.

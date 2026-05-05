@@ -2,7 +2,7 @@
 layout: post
 title: Chelsea Ladies - A year with Emma Hayes
 tag:
-- chelsea
+  - chelsea
 type: blog
 ---
 

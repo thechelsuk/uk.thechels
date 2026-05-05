@@ -2,7 +2,7 @@
 layout: post
 title: Vital Walsall - Chelsea - A Fans View
 tags:
- - chelsea
+  - chelsea
 type: blog
 ---
 

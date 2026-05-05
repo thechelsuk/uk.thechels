@@ -5,7 +5,6 @@ seo: Ways - How to run Pytest with coverage
 
 date: 2026-03-01
 type: ways
-
 ---
 
 Run the following in Terminal to execute Pytest with coverage reporting.

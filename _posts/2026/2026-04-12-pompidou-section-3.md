@@ -1,17 +1,15 @@
 ---
-
 layout: post
 date: 2026-04-12 02:11
 title: Pompidou section 3 - Refactor post types
 type: rss
-
 ---
 
 After setting up collections on my Jekyll blog for various post types I've refactored to use `post.type` in the post front matter instead of collections.
 
 The main reason is to pump all the content into the `_posts` folder. The idea here is that by default everything will be loaded into the post loop - simplifying the code use for the homepage, which is effectively the archive, and simplifying the code for the main rss feed.
 
-It is trivial to exclude any post type using liquid syntax, for example where the type is RSS where one could choose to publish secretly just to the feed.  This enables the generation of the post html file, it is just excluded from the archives (for collections you can toggle output to false in the config to stop page generation). Taking onboard Dave Rupert's note that content should have a url. I opted for the change. I had found even if a page url was not provided several RSS reader apps default to the site url, so on clicking it would confuse users with the homepage, or worse a 404 page. Also there is an accessibility angle here where the web version might be better than the rss reader (zoom, tabbing, text to speech etc).
+It is trivial to exclude any post type using liquid syntax, for example where the type is RSS where one could choose to publish secretly just to the feed. This enables the generation of the post html file, it is just excluded from the archives (for collections you can toggle output to false in the config to stop page generation). Taking onboard Dave Rupert's note that content should have a url. I opted for the change. I had found even if a page url was not provided several RSS reader apps default to the site url, so on clicking it would confuse users with the homepage, or worse a 404 page. Also there is an accessibility angle here where the web version might be better than the rss reader (zoom, tabbing, text to speech etc).
 
 So my blog now has post types for mixtapes, today I learned (TIL), ways (how to) as well as regular and linked quote posts and finally those secret posts.
 

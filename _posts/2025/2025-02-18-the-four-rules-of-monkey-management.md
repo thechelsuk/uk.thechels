@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-02-18
 title: The four rules of monkey management

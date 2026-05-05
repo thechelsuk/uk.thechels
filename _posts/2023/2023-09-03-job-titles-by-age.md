@@ -1,10 +1,8 @@
 ---
-
 layout: post
 date: 2023-09-03
 title: Job titles by age
 type: blog
-
 ---
 
 - 23 Data Analyst

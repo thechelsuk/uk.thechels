@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-01-06
 link: https://rmondello.com/2025/01/02/magic-links-and-passkeys/
 title: Magic Links and Passkeys
 type: linked
 cited: Ricky Mondello
-
 ---
 
 A well-written post by [Ricky Mondello](https://www.linkedin.com/in/rmondello/) highlights their expertise in the password and authentication space.

@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-02-18
 title: Drama Triangle - Workplace Conflict Recognition Guide
 link: https://charleslambdin.wordpress.com/2019/12/06/recognizing-and-avoiding-drama-at-work-and-in-life/
 type: linked
 cited: Charles Lambdin
-
 ---
 
 Based on Eric Berne's theory of Transactional Analysis and his concept of games, but added to the dialogue the idea that drama and games largely stem from an underlying sense of "not okayness."

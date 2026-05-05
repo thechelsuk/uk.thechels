@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-02-18
 title: Radical Candor - Effective Leadership Communication
 link: https://www.radicalcandor.com/our-approach/
 type: linked
 cited: RadicalCandor.com
-
 ---
 
 Radical Candor is Caring Personally while Challenging Directly. At its core it is guidance and feedback that is both kind and clear whilst specific and sincere.

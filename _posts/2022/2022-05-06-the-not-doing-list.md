@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2022-05-06
 link: https://cate.blog/2022/03/28/the-not-doing-list/amp/
 title: The Not Doing List
 type: linked
 cited: Cate Huston (Accidentally in Code)
-
 ---
 
 Really like this idea of self-reflection, but I would argue that it isn't about not having time its just a priority call.

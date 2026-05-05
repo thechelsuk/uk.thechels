@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-10-24
 title: Key Offers for October 2025

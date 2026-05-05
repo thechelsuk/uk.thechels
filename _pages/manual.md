@@ -3,7 +3,6 @@ layout: pages
 title: My Operating Manual
 permalink: /manual
 seo: Operating Manual of thechelsuk
-
 ---
 
 ## General Principles

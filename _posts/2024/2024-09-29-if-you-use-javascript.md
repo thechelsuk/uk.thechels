@@ -14,4 +14,4 @@ cited: Gov.uk
 > - consider whether the benefits of using it outweigh the potential problems
 > - only use the framework for parts of the user interface that cannot be built using HTML and CSS alone
 > - design each part of the user interface as a separate component
-> Having separate components means that if the JavaScript fails to load, it will only be that single component that fails. The rest of the page will load as normal.
+>   Having separate components means that if the JavaScript fails to load, it will only be that single component that fails. The rest of the page will load as normal.

@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-04-02
 link: https://reddit.com
 title: Is Raycast still European-owned
 type: linked
 cited: Reddit User
-
 ---
 
 I thought this was an interesting position, coinciding with a piece on the Tech Meme Ride Home podcast.

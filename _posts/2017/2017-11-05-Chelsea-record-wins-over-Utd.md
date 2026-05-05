@@ -3,7 +3,7 @@ layout: post
 title: Chelsea record wins over Utd
 date: 2017-11-05T22:36:34Z
 tag:
-- stats
+  - stats
 source: ChelseaStats
 type: blog
 ---

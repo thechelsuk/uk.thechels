@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: "The Manager's Path - A Guide for Tech Leader"
 seo: "A Guide for Tech Leaders Navigating Growth and Change"
@@ -148,7 +147,7 @@ _The tech lead role is not a point in the latter, but a set of responsibilities 
 
 The tech lead is learning how to be a strong technical project manager by delegating work effectively without micromanaging. They focus on the whole team's productivity and strive to increase the impact of the team's work product.
 
-It is very hard to grow past senior engineer 2 without ever having acted as a tech lead._
+It is very hard to grow past senior engineer 2 without ever having acted as a tech lead.\_
 
 You can't lead without engaging with other people, and people skills should be important, much more than technical expertise. **Tech leads will work on one major new technical skill: project management, or the work of breaking down a project.**
 
@@ -494,7 +493,7 @@ It's time to figure out how to manage your time. Setting goals for the team, hel
 Time management is a personal thing. Managing your time comes down to one important thing: understanding the difference between _importance_ and _urgency_.
 
 |             | Not urgent           | Urgent                |
-|-------------|----------------------|-----------------------|
+| ----------- | -------------------- | --------------------- |
 | Important   | Strategic, make time | Obvious work          |
 | Unimportant | Obvious avoid        | Tempting distractions |
 
@@ -522,7 +521,7 @@ Feeling of management from here on out is plate spinning. Your plates are the pe
 You'll get better at this over time. Your instincts will improve.
 
 |         | Frequent             | Infrequent                     |
-|---------|----------------------|--------------------------------|
+| ------- | -------------------- | ------------------------------ |
 | Simple  | Delegate             | Do it yourself                 |
 | Complex | Delegate (carefully) | Delegate for training purposes |
 
@@ -860,7 +859,7 @@ The larger the organisation, the harder it'll be to change priorities quickly. K
 
 Strategy as a critical element, setting strategy looks like
 
-- **Do a lot of research.*** The technology we had currently built, the pain points. Where the expected growth will come from the future. What are the scaling challenges right now, and where they might be in the future. What are the current productivity bottlenecks.
+- **Do a lot of research.\*** The technology we had currently built, the pain points. Where the expected growth will come from the future. What are the scaling challenges right now, and where they might be in the future. What are the current productivity bottlenecks.
 - **Combine your research and your ideas.** Draw out the systems in place at your company, slice and dice the systems and teams across various common attributes. Get insights on the way data flows and changes, and possible axes for evolution.
 - **Draft a strategy.** Actionable ideas to improve operational efficiency, expand features and grow the business. Consider the structure of the business, the needs of the customer and possible future evolutions. Develop a technology strategy that supports these factors into the future.
 - **Consider your board's communication style.**
@@ -945,7 +944,7 @@ True North helps us understand that all these issues must be carefully considere
 
 **You must spend enough time in your career to hone these instincts in order to be comfortable making fast judgment calls.**
 
-***
+---
 
 At this level your coaching and mentoring are likely to come from people outside of your company. Do you know other senior managers at companies in your area? Do you admire any technology senior managers? What is it about them that you admire? Are you behaving like a role model for your team?
 

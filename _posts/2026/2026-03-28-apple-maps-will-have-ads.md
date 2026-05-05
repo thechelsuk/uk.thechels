@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-03-28 03:00
 link: https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/
 title: Apple Maps will have Ads
 type: linked
 cited: Apple
-
 ---
 
 Naively I've had this belief that Google was the data company and used Ads on that data to make money, whilst Apple were the software and hardware company that made money by selling at a premium for quality.

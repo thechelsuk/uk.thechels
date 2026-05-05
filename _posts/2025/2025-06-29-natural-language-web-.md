@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-06-29
 link: https://github.com/microsoft/NLWeb
 title: Natural Language Web
 type: linked
 cited: Microsoft
-
 ---
 
 > **NLWeb** simplifies the process of building conversational interfaces for websites. It natively supports MCP (Model Context Protocol), allowing the same natural language APIs to serve both humans and AI agents.

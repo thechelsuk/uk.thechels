@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2024-05-07
 title: Finding an ISBN in Drafts

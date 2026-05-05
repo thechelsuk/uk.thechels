@@ -3,7 +3,6 @@ layout: offers
 title: Savings, Offers, and Discounts
 permalink: /save
 seo: Referrals, offers, bonuses, and free stuff for me
-
 ---
 
 Terms and conditions apply, so please see links for details.

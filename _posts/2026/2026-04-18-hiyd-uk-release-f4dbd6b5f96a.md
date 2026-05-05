@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2026-04-18'
+date: "2026-04-18"
 title: Hiyd.uk Version 1.0.0
 type: release
 link: https://github.com/thechelsuk/uk.hiyd/releases/tag/1.0.0

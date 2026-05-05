@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-04-29 13:08
 title: Sourcefeed - a pop-up RSS service launched
 link: https://blog.terrygodier.com/2026/04/28/today-im-launching-sourcefeed-a.html
 cited: Terry Godier
 type: linked
-
 ---
 
 Interesting

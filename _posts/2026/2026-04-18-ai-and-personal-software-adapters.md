@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2026-04-18 10:27
 title: AI and Personal Software Adapters
@@ -20,7 +19,7 @@ AI is great for personal software. Not in the sense of the so-called SaaS apocal
 
 I'm calling them personal adapters. I have been able to use coding agents, where my own mind is failing, to develop solutions to common everyday paper-cuts, little automations, and connectors.
 
-Namely, I now have a script that uses my podcast OPML file and takes out relevant data into a yaml file.  My site then can compute through liquid's syntax `site.data` objects providing counts, links and latest update (helping to find dead feeds), similarly for my blogroll out of _NetNewsWire_ (solves my needs, zero resale value).
+Namely, I now have a script that uses my podcast OPML file and takes out relevant data into a yaml file. My site then can compute through liquid's syntax `site.data` objects providing counts, links and latest update (helping to find dead feeds), similarly for my blogroll out of _NetNewsWire_ (solves my needs, zero resale value).
 
 I also have some _Drafts_ actions that take words (like these) and put them into blog post formats (front matter and markdown) for various post types in _Working Copy_ ready for committing and pushing to my blog. _Drafts_ actions that get film data and push that up to my film archive.
 

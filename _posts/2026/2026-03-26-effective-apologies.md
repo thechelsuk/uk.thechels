@@ -6,7 +6,6 @@ cited: Vlad-Stefan Harbuz
 link: https://vlad.website/apologies/
 seo: "Resources on how to apologise effectively."
 tags:
-
 ---
 
 > There are bad apologies, and good apologies. I think an effective apology is one that communicates our feelings accurately to the person we have wronged, and that enables them to forgive us for our transgression so that the relationship can be repaired. The best resource I know of for figuring out how to make a good apology is a 2009 literature review by Kirchhoff, Strack and Jäger, in which they identified 10 components of effective apologies. Obviously, this does not mean that an apology should be formulaic, but rather that it is usually more effective when it includes more of these components. A more severe offence usually warrants a more complex apology involving more of the components. On the other hand, a complex apology might seem “too much” when used for a trivial offence, for which a simple apology might be more appropriate.

@@ -27,6 +27,6 @@ This diagram illustrates the following:
 
 1. **GitHub Repository**: Contains the source code for the Jekyll site, including configuration, content, and assets.
 2. **Jekyll Build Process**: Converts the source code into a static site.
-3. **Static Site (_site folder)**: The output of the Jekyll build process, containing HTML, CSS, and other static files.
+3. **Static Site (\_site folder)**: The output of the Jekyll build process, containing HTML, CSS, and other static files.
 4. **GitHub Pages Server**: Hosts and serves the static site.
 5. **Browser**: Users access the site through their web browsers.

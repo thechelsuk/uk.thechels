@@ -1,14 +1,12 @@
 ---
-
 layout: post
 date: 2023-04-14
 title: 12 QA Interview questions
 type: blog
-
 ---
 
 - 1 How do you define the format of
-writing a good test case?
+  writing a good test case?
 - 2 If you had to execute a big suite in a small window of time, how would you do it?
 - 3 How do you know a test was executed correctly?
 - 4 How would you create and sustain quality control?

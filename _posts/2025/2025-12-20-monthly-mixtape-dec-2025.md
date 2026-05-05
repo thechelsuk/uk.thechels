@@ -1,10 +1,8 @@
 ---
-
 layout: post
 date: 2025-12-20
 title: Monthly Mixtape - Dec 2025
 type: mixtape
-
 ---
 
 What I've been listening to this month.

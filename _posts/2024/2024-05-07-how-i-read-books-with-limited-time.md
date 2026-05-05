@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2024-05-07
 link: https://newsletter.techleadmentor.com/p/how-i-read-books-with-limited-time
 title: How I Read Books with Limited Time
 type: linked
 cited: Raviraj Achar
-
 ---
 
 Learning not to finish a book I wasn't enjoying is an elite level gain.

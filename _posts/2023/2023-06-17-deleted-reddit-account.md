@@ -1,10 +1,8 @@
 ---
-
 layout: post
 date: 2023-06-17
 title: Deleted Reddit account
 type: blog
-
 ---
 
 I deleted my Reddit account this week.

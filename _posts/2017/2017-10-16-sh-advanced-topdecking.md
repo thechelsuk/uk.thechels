@@ -1,6 +1,6 @@
 ---
 layout: post
-title : Secret Hitler - Top-decking before the reshuffle.
+title: Secret Hitler - Top-decking before the reshuffle.
 tags:
 
 type: blog

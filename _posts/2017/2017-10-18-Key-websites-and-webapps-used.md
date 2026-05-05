@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: Web Apps - Essential Websites and Digital Tools List
 date: 2017-10-18

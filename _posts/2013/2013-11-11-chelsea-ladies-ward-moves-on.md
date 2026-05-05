@@ -2,7 +2,7 @@
 layout: post
 title: Chelsea Ladies - Ward moves on
 tag:
- - chelsea
+  - chelsea
 type: blog
 ---
 

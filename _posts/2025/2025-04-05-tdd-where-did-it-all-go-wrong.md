@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-04-05
 link: https://vimeo.com/68375232
@@ -163,7 +162,7 @@ BDD starts with a similar insight, that we misunderstood TDD.
 
 - It creates tools like RSpec and Jbehave
 - It realises that specifying scenarios is the key to driving test-driven development
-- It evolves into a methodology for facilitating the transmission of requirements from customer to developer through scenarios  that can be automated.
+- It evolves into a methodology for facilitating the transmission of requirements from customer to developer through scenarios that can be automated.
 
 ### Mocks
 

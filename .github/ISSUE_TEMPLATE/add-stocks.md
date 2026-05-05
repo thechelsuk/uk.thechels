@@ -1,12 +1,10 @@
 ---
 name: Add new stock
 about: Update list of monitored stocks
-title: 'Add stock'
-labels: 'stocks'
-assignees: '@Mat-0'
-
+title: "Add stock"
+labels: "stocks"
+assignees: "@Mat-0"
 ---
-
 
 We really appreciate your contribution, to ensure your change gets accepted please follow and tick the checklist below.
 

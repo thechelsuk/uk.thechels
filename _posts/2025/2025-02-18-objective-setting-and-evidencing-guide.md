@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-02-18
 title: Objective Setting and Evidencing Guide
@@ -32,4 +31,4 @@ Following a similar approach to science experiments at school in the UK, for tho
 - Hypothesis (what do you expect to happen)
 - Method (What steps did you take)
 - Conclusion (what was the outcome)
-- Evaluation (what will you try next time)**
+- Evaluation (what will you try next time)\*\*

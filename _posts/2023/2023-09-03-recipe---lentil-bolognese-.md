@@ -1,10 +1,8 @@
 ---
-
 layout: post
 date: 2023-09-03
 title: Recipe - Lentil Bolognese
 type: blog
-
 ---
 
 - broccoli

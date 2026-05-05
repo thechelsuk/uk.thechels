@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-02-16
 title: DORA Key Capabilities

@@ -1,10 +1,8 @@
 ---
-
 layout: post
 date: 2026-02-27
 title: Monthly Mixtape - Feb 2026
 type: mixtape
-
 ---
 
 What I've been listening to this month.

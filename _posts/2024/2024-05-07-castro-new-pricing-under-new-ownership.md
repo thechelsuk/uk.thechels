@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2024-05-07
 link: https://castro.fm/blog/pricing-updates
 title: Castro new pricing under new ownership
 type: linked
 cited: Castro
-
 ---
 
 For me this would be an increase from £7.99 to £24.99, which is fine, if the service works.

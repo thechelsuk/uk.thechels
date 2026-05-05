@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2022-06-12
 link: https://lethain.com/career-checkup/
 title: Career checkup template
 type: linked
 cited: Will Larson (Lethain)
-
 ---
 
 > This is similar to a career narrative, but with more focus on self-diagnosis than something presentable to others.

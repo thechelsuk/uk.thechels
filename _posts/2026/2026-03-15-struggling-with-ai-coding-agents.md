@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-03-15
 link: https://justinjackson.ca/llm-struggles
 title: Struggling with AI coding agents
 type: linked
 cited: Justin Jackson
-
 ---
 
 More on the overwhelm...

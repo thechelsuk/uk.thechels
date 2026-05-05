@@ -5,7 +5,7 @@ link: https://theeaglesbeak.com/2013/12/15/bridge-far/
 type: linked
 cited: Jay Crame
 tag:
- - chelsea
+  - chelsea
 ---
 
 It has been a very decent few weeks in the Premier League for Palace.

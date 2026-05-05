@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-02-22
 link: https://daringfireball.net/
 title: Tyrannical authoritarian state told to fuck off
 type: linked
 cited: John Gruber (Daring Fireball)
-
 ---
 
 Fuck off, indeed.

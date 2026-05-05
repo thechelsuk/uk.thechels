@@ -14,7 +14,6 @@ Nothing beats a folder of markdown files with some front matter that an LLM or S
 
 > Extracting Text from PDFs
 > Extracting text from PDFs involves reading the document and parsing its content. With `pdfplumber`, this process is straightforward:​
->
 
 ```python
     import pdfplumber

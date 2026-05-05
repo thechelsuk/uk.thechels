@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-08-03
 title: You Should Probably Leave Substack

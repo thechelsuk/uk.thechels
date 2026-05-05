@@ -1,19 +1,17 @@
 ---
-
 layout: post
 date: 2026-04-29 11:05
 title: Millie Bright announces retirement from football
 link: https://www.chelseafc.com/en/news/article/millie-bright-announces-retirement-from-football
 cited: Chelsea FC Women
 type: linked
-
 ---
 
 Best and most successful captain Chelsea have ever had. Glad she is not playing for anyone else and will continue her Chelsea career in non-playing roles going forward.
 
 > On announcing her retirement, Millie said: 'Representing Chelsea over the last 12 years has been everything to me, but I'm now ready to say goodbye to playing football. I've given all I can, and I never wanted to fight for any other badge.
 
-***
+---
 
 > Millie began her Chelsea career in the 2015 season and went on to play more Women's Super League matches than any other player, breaking Jordan Nobbs' record of 210 during our match against Liverpool in November 2025 and now sits in top spot with 216.
 >

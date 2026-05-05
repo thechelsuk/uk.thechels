@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2026-05-01'
+date: "2026-05-01"
 title: Homebridge (YSA2) Yale Alarm Version v2.2.0
 type: release
 cited: github

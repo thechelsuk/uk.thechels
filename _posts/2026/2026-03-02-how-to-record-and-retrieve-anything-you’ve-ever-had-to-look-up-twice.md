@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-03-02
 link: https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase
 title: How to Record and Retrieve Anything You’ve Ever Had to Look Up Twice
 type: linked
 cited: Ellane W
-
 ---
 
 Sound advice, I use this website as my kb as well as an app called GoodLinks, a bookmarking app in the Apple ecosystem, in which website guides are saved as "how to reconnect Apple TV remote" tagged with #howto

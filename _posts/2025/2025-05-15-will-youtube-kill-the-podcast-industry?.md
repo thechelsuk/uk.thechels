@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-05-15
 link: https://justinjackson.ca/youtube-kill-podcasting
 title: Will YouTube kill the podcast industry?
 type: linked
 cited: Justin Jackson
-
 ---
 
 > tl;dr – The podcast industry has long relied on the open nature of RSS to sustain a wide variety of small businesses. But that could all disappear if YouTube becomes the de facto place to publish podcasts.

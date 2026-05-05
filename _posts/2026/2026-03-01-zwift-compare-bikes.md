@@ -11,7 +11,7 @@ type: ways
 
 ---
 
-___This website allows you to find the best bike for the route you want to ride, and compare the stats of different bikes.___
+**_This website allows you to find the best bike for the route you want to ride, and compare the stats of different bikes._**
 
 1. Go to website
 2. Use the filters to find the bikes you want to compare.

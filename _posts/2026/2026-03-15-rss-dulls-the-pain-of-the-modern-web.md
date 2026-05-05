@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-03-15
 link: https://www.theregister.com/2026/03/09/rss_in_2026/
 title: RSS dulls the pain of the modern web
 type: linked
 cited: The Register
-
 ---
 
 Nice editorial from The Register on finding RSS again

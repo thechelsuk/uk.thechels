@@ -1,10 +1,8 @@
 ---
-
 layout: directory
 permalink: /.well-known/change-password
 title: Change Password
 seo: Change Password page as a standard URI and .well-known URL for password manager identification.
-
 ---
 
 Yeh, no. This is a problem. This website doesn't have any form of membership, login, authentication, nor backend.

@@ -1,9 +1,7 @@
 ---
-
 layout: post
 date: 2025-03-23
 title: Rule One - People First Culture and Radical Candor
-
 
 type: blog
 ---

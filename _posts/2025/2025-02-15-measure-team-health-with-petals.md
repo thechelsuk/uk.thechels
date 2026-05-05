@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-02-15
 link: https://sijobling.com/petals/
 title: Measure team health with Petals
 type: linked
 cited: Si Jobling
-
 ---
 
 > In 2022, I created a simple new framework to help engineering teams become more aware of their overall health called **PETALS**. We identified and simplified to 5 key dimensions that influence team health:

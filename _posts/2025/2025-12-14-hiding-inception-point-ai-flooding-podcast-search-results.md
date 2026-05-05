@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-12-14
 link: https://castro.fm/blog/hiding-inception-point-ai
 title: Hiding Inception Point AI flooding Podcast search results
 type: linked
 cited: Castro
-
 ---
 
 AI slop is coming for your ears

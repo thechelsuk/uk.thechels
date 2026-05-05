@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2022-07-24
 link: https://circleci.com/blog/trunk-vs-feature-based-dev/
 title: Trunk-based vs. feature-based development
 type: linked
 cited: CircleCI
-
 ---
 
 > A developer can directly push changes to the main branch, but if a coding activity requires more extensive time — perhaps a few days — they can check out a branch from main, move the changes into it, then merge it back in when development is complete.

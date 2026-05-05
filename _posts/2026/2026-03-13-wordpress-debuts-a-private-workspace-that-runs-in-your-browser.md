@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-03-13
 link: https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/
 title: WordPress debuts a private workspace in your browser
 type: linked
 cited: TechCrunch
-
 ---
 
 15 year's ago this would have been very useful as a developer using WordPress as an engine for a heavily modified and custom plugin extended website for testing and raid development, but today...

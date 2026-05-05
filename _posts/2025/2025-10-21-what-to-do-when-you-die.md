@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: What to Do Before You Die
 date: 2025-10-21
@@ -54,6 +53,6 @@ type: blog
   - Poems and readings you’d like included.
   - Any other specific requests or wishes.
 
------
+---
 
 This comprehensive checklist ensures your affairs are in order and reduces the administrative and emotional burden on loved ones during difficult times.

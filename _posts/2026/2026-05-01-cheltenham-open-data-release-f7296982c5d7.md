@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2026-05-01'
+date: "2026-05-01"
 title: Cheltenham Open Data Version 1.1.0
 type: release
 cited: github

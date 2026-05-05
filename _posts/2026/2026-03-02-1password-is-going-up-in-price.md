@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-03-02
 link: https://www.theverge.com/tech/883837/1password-price-increase
 title: 1Password is going up in price
 type: linked
 cited: The Verge
-
 ---
 
 1Password is still great value for money and consistently ranks well compared to other password managers. This is a crucial app in our household for managing more than just passwords and is a mainstay in my phone dock.

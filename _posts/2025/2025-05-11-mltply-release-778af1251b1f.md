@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2025-05-11'
+date: "2025-05-11"
 title: Mltply Version 1.0.0
 type: release
 link: https://github.com/thechelsuk/com.uk.thechels.mltply/releases/tag/1.0.0

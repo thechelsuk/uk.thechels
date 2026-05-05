@@ -1,12 +1,10 @@
 ---
-
 title: How to Handle Confidence and Competence
 date: 2022-04-27
 layout: post
 
 type: blog
 ---
-
 
 Let people go when they are both confident and competent. If they know what they’re doing then you can set goals and get out of the way.
 

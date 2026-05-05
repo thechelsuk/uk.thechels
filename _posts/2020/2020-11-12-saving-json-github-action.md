@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: Saving json file using GitHub actions and curl
 date: 2020-11-12
@@ -16,34 +15,34 @@ As you can see below, this can be triggered manually in the actions tab on githu
 
 The job runs on ubuntu, uses curl and saves it out to the output_file.json
 
-``` yaml
+```yaml
 name: Scheduled Build
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '*/15 * * * *'
+    - cron: "*/15 * * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Check out repo
-      uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
-    - name: Download Feed
-      run: |-
-        curl "[url]" | jq . > output_file.json
-    - name: Commit and push changes
-      run: |-
-        git diff
-        git config user.name "Automated"
-        git config user.email "---"
-        git diff --quiet || (git add -A && git commit -m "Updated with latest")
-        git push
+      - name: Check out repo
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Download Feed
+        run: |-
+          curl "[url]" | jq . > output_file.json
+      - name: Commit and push changes
+        run: |-
+          git diff
+          git config user.name "Automated"
+          git config user.email "---"
+          git diff --quiet || (git add -A && git commit -m "Updated with latest")
+          git push
 ```
 
-At the moment, on public repos, there appears to be no cost involved in doing this, but do be mindful of GitHub's costs and respect the source's API restrictions - for example the environment agency's open beta API suggests requests at every 15 minutes would suffice as that is how frequent the underlying data is update, running this every  minute would just be wasteful and offer little value.
+At the moment, on public repos, there appears to be no cost involved in doing this, but do be mindful of GitHub's costs and respect the source's API restrictions - for example the environment agency's open beta API suggests requests at every 15 minutes would suffice as that is how frequent the underlying data is update, running this every minute would just be wasteful and offer little value.
 
 The last part of the yaml file does a git diff and sets some user config (this basically can be anything) and then does a commit.
 

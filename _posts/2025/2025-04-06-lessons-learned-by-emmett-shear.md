@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-04-06
 link: https://twitter.com/eshear/status/1402449647122018304

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2026-03-28 13:00
 title: A Review of ME specialist provision on the NHS
@@ -12,7 +11,7 @@ type: blog
 
 Just a quick summary on my ME onset for context. It started with a sudden onset in October 2022 and I've not felt the same since, I was able to get back to work after what felt like a nasty virus for after few weeks, but since then it's been a gradual decline during which I had good days and bad days akin to the stock market where you would expect growth over the long term and the occasional dip or correction. Like that but downwards all the way down. Along the way I gave up social things, exercise, family time, personal hygiene, friends, going out at all, and ultimately dropped everything that wasn't sleeping/resting and working. It was gradual and then it was rapid. In July 2025 I had to stop work. I was being late for meetings, taking naps over lunch, starting later and later. I had stopped being good. Felt awful and faked being well on Teams and cried between calls.
 
-___I'll skip the phase of changing jobs thinking it was burnout or a bad manager (twice), the countless GP appointments, multiple blood tests, and being pushed towards antidepressants along the way and jump right to seeing my NHS ME specialist.___
+**_I'll skip the phase of changing jobs thinking it was burnout or a bad manager (twice), the countless GP appointments, multiple blood tests, and being pushed towards antidepressants along the way and jump right to seeing my NHS ME specialist._**
 
 ## Session One
 
@@ -28,7 +27,7 @@ The Specialist was an occupational health therapist by trade and came across as 
 
 They, when asked, suggested there is no clear criteria for mild/moderate/severe/very severe, but I was towards the severe end although subjective, yet the NICE guidelines, ME association, and others suggest these levels are well documented so this was a bit odd.
 
-_It was very odd and maddening that as my specialist is across county lines (there is not one in my county) they could not access my NHS record - hence all the questions I suppose. Additionally it took 14 weeks for the appointment although I had been told it could be 26 weeks. This is a long wait and could easily be mitigated with a small handbook and a few videos sent immediately  with the survey I was sent and the intro session could be much shorter._
+_It was very odd and maddening that as my specialist is across county lines (there is not one in my county) they could not access my NHS record - hence all the questions I suppose. Additionally it took 14 weeks for the appointment although I had been told it could be 26 weeks. This is a long wait and could easily be mitigated with a small handbook and a few videos sent immediately with the survey I was sent and the intro session could be much shorter._
 
 The survey papers were sent to me by post and arrived about a month before my session, but it noted I could ask for a digital copy instead - I did this as the last paperwork I had to do for work cost me an entire week after 45 minutes of effort - the digital copies were not made for filling in by a human, let alone someone with physical and cognitive issues. A switch to a proper survey app would be more accessible than some word templates with no clickable/formatted response areas. Again funding the NHS properly and using GDS's form builders would help.
 

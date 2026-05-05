@@ -1,12 +1,11 @@
 ---
-
 layout: post
 title: New year, new career
 
 type: blog
 ---
 
-*Even if you don’t believe in New Year’s Resolutions, the start of the year is a great time to reflect on your career and make goals for the months ahead.*
+_Even if you don’t believe in New Year’s Resolutions, the start of the year is a great time to reflect on your career and make goals for the months ahead._
 
 Whether you’re in an existing tech role and you’re looking for something new, or you want to change career entirely, being interviewed can be nerve-wracking. If it’s been a while since you were in the job market, you might be feeling a bit rusty.
 

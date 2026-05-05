@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-03-03
 link: https://www.theguardian.com/society/2026/feb/24/my-maddening-battle-with-chronic-fatigue-syndrome-on-my-worst-days-it-feels-almost-demonic
 title: On my worst days it feels almost demonic
 type: linked
 cited: The Guardian
-
 ---
 
 No more questions your honour.

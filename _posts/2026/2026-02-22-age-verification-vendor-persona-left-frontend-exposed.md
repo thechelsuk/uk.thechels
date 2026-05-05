@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-02-22
 link: https://www.malwarebytes.com/blog/news/2026/02/age-verification-vendor-persona-left-frontend-exposed
 title: Age verification vendor Persona left frontend exposed
 type: linked
 cited: Malwarebytes
-
 ---
 
 Oops

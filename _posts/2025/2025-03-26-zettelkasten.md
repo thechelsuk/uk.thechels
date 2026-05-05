@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-03-26
 title: Zettelkasten - Personal Knowledge Management System

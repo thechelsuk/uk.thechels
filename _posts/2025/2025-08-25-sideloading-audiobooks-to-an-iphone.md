@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-08-25
 link: https://sixcolors.com/post/2025/08/apple-makes-it-hard-to-load-audiobooks-purchased-elsewhere/
 title: Sideloading audiobooks to an iPhone
 type: linked
 cited: Six Colors
-
 ---
 
 > You know where else you find sideloading? In podcast apps. Because not all podcasts or audio files you want to listen to in a podcast app can be retrieved via an RSS feed, many apps allow you to import episodes and audiobooks. That's often a premium feature.

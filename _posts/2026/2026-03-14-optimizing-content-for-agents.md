@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-03-14
 link: https://cra.mr/optimizing-content-for-agents/
 title: Optimizing Content for Agents
 type: linked
 cited: David Cramer
-
 ---
 
 The new SEO is giving agents data in a format that works. I am a big fan of markdown and favour text over static site generators like Jekyll over huge bloated JavaScript frameworks.

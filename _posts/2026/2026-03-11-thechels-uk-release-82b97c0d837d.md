@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2026-03-11'
+date: "2026-03-11"
 title: Thechels.uk Version 1.8.0
 type: release
 link: https://github.com/thechelsuk/uk.thechels/releases/tag/1.8.0

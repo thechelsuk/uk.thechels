@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-04-04 11:00
 link: https://css-naked-day.org/
 title: CSS Naked Day
 type: linked
 cited: CSS Naked Day
-
 ---
 
 Nice idea, I don't think I have the energy for this year. Reminder set for 2027.

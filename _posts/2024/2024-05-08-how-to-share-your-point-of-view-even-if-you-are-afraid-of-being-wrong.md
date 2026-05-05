@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2024-05-08
 link: https://newsletter.weskao.com/p/high-performers-share-their-point-of-view
 title: How to share your point of view even if you are afraid of being wrong
 type: linked
 cited: Wes Kao
-
 ---
 
 > In this week’s newsletter, we’ll cover principles on how to feel more confident sharing your point of view.

@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-02-22
 link: https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163
 title: The AI Vampire
 type: linked
 cited: Steve Yegge
-
 ---
 
 Rings true, I wonder how often AI will get the blame for poor management, overwork, stress, burnout and all the side effects of covid, long Covid etc.

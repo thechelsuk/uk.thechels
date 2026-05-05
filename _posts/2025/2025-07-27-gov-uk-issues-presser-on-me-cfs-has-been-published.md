@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-07-27
 link: https://meassociation.org.uk/2025/07/gov-uk-issues-a-press-release-that-the-delivery-plan-on-me-cfs-has-been-published/

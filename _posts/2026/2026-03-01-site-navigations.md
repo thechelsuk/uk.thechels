@@ -5,7 +5,6 @@ seo: Ways - create navigation for thechelsuk
 
 date: 2026-03-01
 type: ways
-
 ---
 
 This site has various navigation types, managed in the `_config.yml` file.

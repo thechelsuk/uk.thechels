@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-02-18
 title: One-to-one Checklist
@@ -24,12 +23,11 @@ While there is no single answer for how often you should have one on ones; what 
 
 You'll have to do a bit of homework prior to every one on one, especially if you are starting from scratch.
 
-1. Set the context of human care.  One on ones are a space for the growth of each employee with a manager who is personally invested in them. That means that you must meet whether things are good or bad. When things are going poorly, it's time for a difficult conversation. When things are going well, use the time to appreciate the person's accomplishments and help guide them into their career trajectory.
+1. Set the context of human care. One on ones are a space for the growth of each employee with a manager who is personally invested in them. That means that you must meet whether things are good or bad. When things are going poorly, it's time for a difficult conversation. When things are going well, use the time to appreciate the person's accomplishments and help guide them into their career trajectory.
 
 2. Paint a picture of what excellence looks like. Before you get specific about individual performance, depersonalize things. What would excellence look like for the person in this role? What work would equate to success?
 
 3. Set an agenda. You have to understand what's going on within your team so that you can use one on ones effectively. One on ones are a collaborative effort and agenda items will be based on concerns from you and from your employee. Ask one of these questions at least a day before the meeting:
-
    - "What do you want to discuss in our next one on one meeting?"
    - "What challenges are you facing?"
 

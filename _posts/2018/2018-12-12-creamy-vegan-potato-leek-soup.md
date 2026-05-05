@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: Creamy Vegan Potato Leek Soup
 

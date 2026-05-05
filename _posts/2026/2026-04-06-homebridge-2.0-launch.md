@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-04-06
 link: https://www.reddit.com/r/homebridge/comments/1sbu1z6/homebridge_20_launch/
 title: Homebridge 2.0 Launch
 type: linked
 cited: Homebridge
-
 ---
 
 > Homebridge 2.0 Launch

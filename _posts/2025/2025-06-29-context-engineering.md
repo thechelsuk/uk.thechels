@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-06-29
 link: https://simonwillison.net/2025/Jun/27/context-engineering/
 title: Context engineering
 type: linked
 cited: Simon Willison
-
 ---
 
 > The term **context engineering** has recently started to gain traction as a better alternative to prompt engineering. I like it. I think this one may have sticking power.

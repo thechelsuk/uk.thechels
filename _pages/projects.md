@@ -3,7 +3,6 @@ layout: pages
 title: Software Development and web-based side projects
 permalink: /projects
 seo: Projects
-
 ---
 
 ## [Cheltenham Open Data](https://cod.thechels.uk) ⇗
@@ -44,4 +43,4 @@ seo: Projects
 
 ## [CF Worker X Redirect](https://github.com/thechelsuk/cf-worker-x-redirect) ⇗
 
-- A Cloudflare Worker project that handles URL redirection. Providing a simple and efficient way to manage redirects at the edge. This project solves a small niche problem for managing videos in NetNewsWire that does not seem to support `x-callback-url schemes`. My themes rewrite URLs to to a subdomain passing the video url as a query parameter and the URL is then handled by this worker, redirecting to an iOS video playing app that supports PIP player via it's  own url scheme. The project is open source and available on GitHub under an MIT licence. Expected customer base of one.
+- A Cloudflare Worker project that handles URL redirection. Providing a simple and efficient way to manage redirects at the edge. This project solves a small niche problem for managing videos in NetNewsWire that does not seem to support `x-callback-url schemes`. My themes rewrite URLs to to a subdomain passing the video url as a query parameter and the URL is then handled by this worker, redirecting to an iOS video playing app that supports PIP player via it's own url scheme. The project is open source and available on GitHub under an MIT licence. Expected customer base of one.

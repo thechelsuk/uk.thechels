@@ -2,7 +2,7 @@
 layout: post
 title: Squawka - Premier League Predictions
 tag:
- - chelsea
+  - chelsea
 type: blog
 ---
 
@@ -28,7 +28,7 @@ Arsenal will bounce back from their disappointment against Bayern and although i
 
 #### Man City vs Stoke
 
-The 2011 Cup final. Hughes back at his former club. Man City like Arsenal will bounce back and although goals have dried up  a little in recent games they will be back to their best this time. Stoke have lost all 5 games away from home against the big teams, and although they beat Chelsea and Man Utd at home they won't have enough to stop City's fluidity. 5-0.
+The 2011 Cup final. Hughes back at his former club. Man City like Arsenal will bounce back and although goals have dried up a little in recent games they will be back to their best this time. Stoke have lost all 5 games away from home against the big teams, and although they beat Chelsea and Man Utd at home they won't have enough to stop City's fluidity. 5-0.
 
 #### West Ham vs Southampton
 

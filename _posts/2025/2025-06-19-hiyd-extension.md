@@ -6,7 +6,7 @@ tags:
 type: blog
 ---
 
-Today I'm happy to announce that Hiyd  extension is now generally available via the [Chrome Web Store](https://chromewebstore.google.com/detail/hiyd/hkeklhoojnogpfmiikadpcmkmpldhpce).
+Today I'm happy to announce that Hiyd extension is now generally available via the [Chrome Web Store](https://chromewebstore.google.com/detail/hiyd/hkeklhoojnogpfmiikadpcmkmpldhpce).
 
 The extension captures selected text on a page and via the context menu allows the use to save this as a quote and creates a markdown file with Jekyll front matter.
 

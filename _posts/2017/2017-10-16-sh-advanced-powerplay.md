@@ -1,6 +1,6 @@
 ---
 layout: post
-title : Secret Hitler - Power Play on 4 liberal vs 2 fascist board
+title: Secret Hitler - Power Play on 4 liberal vs 2 fascist board
 tags:
 type: blog
 ---

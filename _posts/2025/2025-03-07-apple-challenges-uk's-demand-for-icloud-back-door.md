@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-03-07
 link: https://www.ft.com/content/3d8fe709-f17a-44a6-97ae-f1bbe6d0dccd
 title: Apple Challenges UK's Demand for iCloud Back Door
 type: linked
 cited: FT
-
 ---
 
 > The Financial Times’ sources say that Apple has appealed the British government’s order to the Investigatory Power Tribunal, a judicial body that handles disputes with UK security services. If accurate, the challenge is believed to be the first of its kind. The Financial Times further reports that a hearing on Apple’s challenge to the order may take place as early as this month, although it is unclear to what degree the hearing will be made public.

@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2024-09-14
 link: https://testing.googleblog.com/2024/07/in-praise-of-small-pull-requests.html
 title: In Praise of Small Pull Requests
 type: linked
 cited: Google Testing Blog
-
 ---
 
 > Note: A "pull request" refers to one self-contained change that has been submitted to version control or which is undergoing code review. At Google, this is referred to as a"CL", which is short for "changelist".

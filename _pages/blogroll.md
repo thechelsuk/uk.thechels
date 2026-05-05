@@ -3,11 +3,9 @@ layout: blogroll
 title: Blogroll - Favourite Websites and Blogs
 permalink: /blogroll
 seo: My favourite blogs
-
 ---
 
-
-This is a subset of my OPML file from my RSS reader,  focused on the indie web, tech focused publications, and businesses publishing reliable and useful information.
+This is a subset of my OPML file from my RSS reader, focused on the indie web, tech focused publications, and businesses publishing reliable and useful information.
 
 Data is processed and updated automatically on a monthly basis.
 

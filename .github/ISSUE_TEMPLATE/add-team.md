@@ -2,7 +2,6 @@
 name: Add new Team
 about: Update my teams seen list
 title: Add a new team
-labels: 'teams'
-assignees: '@Mat-0'
-
+labels: "teams"
+assignees: "@Mat-0"
 ---

@@ -18,9 +18,9 @@ _note: you can also see their [support page for more information](https://suppor
 ## Setup
 
 1. Make sure the mouse is turned on — the number 1 LED on the bottom of the mouse should blink quickly.
-    NOTE: If the LED is not blinking quickly, perform a long press (three seconds).
+   NOTE: If the LED is not blinking quickly, perform a long press (three seconds).
 2. Choose how you want to connect:
-    - Use the included wireless USB receiver
-        - Plug the receiver into a USB port on your computer
-    - Connect directly using Bluetooth
-        - Open the Bluetooth settings on your computer to complete the pairing.
+   - Use the included wireless USB receiver
+     - Plug the receiver into a USB port on your computer
+   - Connect directly using Bluetooth
+     - Open the Bluetooth settings on your computer to complete the pairing.

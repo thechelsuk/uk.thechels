@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2023-04-13
 link: https://jacobian.org/2022/sep/23/post-interview-recommendation/
 title: Post-interview recommendations - a case against 'maybe'
 type: linked
 cited: Jacob Kaplan-Moss
-
 ---
 
 > If you’re ever an interviewer on a role I’m hiring for, there’s this one thing I’m going to ask you to do that might feel weird. After you conduct that interview, I’m going to ask you to send me a recommendation, and I’m going to insist that the recommendation begins with a very clear “hire” or “no hire”. I won’t accept any form of “maybe”.

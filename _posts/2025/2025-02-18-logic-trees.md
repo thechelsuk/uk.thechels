@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-02-17
 title: Logic Trees - Strategic Problem Decomposition Method
@@ -13,7 +12,7 @@ The output of a logic tree is a diagram, use techniques like the five whys and f
 
 A hypothesis is a starting point for an investigation. When one hypothesize, one makes a claim about why something might be the case, based on limited data. i.e. to offer up an explanation or a path forward. This puts a stake in the ground, a marker, for future work.
 
- Start by asking the following five questions:
+Start by asking the following five questions:
 
 1. What is the conjunct of propositions that describe the problem?
 2. what semantics characterize these propositions?

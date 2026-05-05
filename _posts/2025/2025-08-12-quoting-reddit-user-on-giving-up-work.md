@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-08-12
 title: Quoting Reddit user on giving up work

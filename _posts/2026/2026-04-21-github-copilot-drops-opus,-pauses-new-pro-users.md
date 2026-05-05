@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-04-21 11:03
 title: GitHub Copilot drops opus, pauses new pro users
 link: https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/
 type: linked
 cited: GitHub
-
 ---
 
 Using copilot chat, the usage limit alerts are horrible. It is visible on every interaction, even after being dismissed. If dismissed during "thinking" it reappears multiple times, almost once per step.

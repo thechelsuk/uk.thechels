@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2026-03-06
 title: Making an RSS only feed with Jekyll
@@ -11,8 +10,8 @@ Building on top of the recent work on releasing [1.7](/version-1-7). I am now ab
 
 ```yaml
 collections:
-      RSS:
-        output: false
+  RSS:
+    output: false
 ```
 
 I am a big fan of RSS in its indie web roots and its open standard. I consume most content via RSS as it's much more accessible (no flashing adverts, autoplaying videos, sounds, or cookie notices). I wish all sites that have a news/blog/time series based publishing format were mandated to have a feed.

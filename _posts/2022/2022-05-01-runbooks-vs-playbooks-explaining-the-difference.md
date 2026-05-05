@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2022-05-01
 link: https://shoreline.io/blog/runbooks-vs-playbooks
 title: Runbooks vs Playbooks - explaining the difference
 type: linked
 cited: Shoreline
-
 ---
 
 > Runbooks are best defined as a tactical method of completing a task--the series of steps needed to complete some process for a known end-goal. Examples include “Restarting the web services on frontend servers” to “Deploying the newest build of staging application”.

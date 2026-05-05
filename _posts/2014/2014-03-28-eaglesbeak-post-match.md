@@ -5,7 +5,7 @@ link: https://theeaglesbeak.com/2014/03/30/crystal-palace-1-0-chelsea-bonus-poin
 type: linked
 cited: Neil Carter
 tag:
- - chelsea
+  - chelsea
 ---
 
 Football. Bloody hell. Palace were lucky to have 11 men when Puncheon went in at the shin of Azpilicueta early on, that was a red in my opinion, he was later involved with a foul and kicked the ball away at 1-0. Considering the 2 yellows Willian had a Villa it seems a little strange these weren't dealt with correctly by Lee Mason.

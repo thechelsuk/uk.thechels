@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-04-29 08:59
 title: A potential diagnostic test for ME/CFS based on cell electrophysiology
 link: https://meassociation.org.uk/2026/04/meruk-breakthrough-magazine-a-potential-diagnostic-test-for-me-cfs-based-on-cell-electrophysiology/
 cited: ME Association
 type: linked
-
 ---
 
 Hope, potentially.

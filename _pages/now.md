@@ -3,7 +3,6 @@ layout: pages
 title: What I am Doing Now
 permalink: /now
 seo: Page detailing what i am working on now and next
-
 ---
 
 ## Now

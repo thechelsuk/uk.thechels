@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2026-03-12
 title: Is the US a Terrorist organisation
@@ -21,7 +20,7 @@ Those actions are:
 
 Killing the adversarial leader and family members, 160 odd people, mostly children on day one, the oil rain will cause the potential for decades of ill health woukd seem to meet many if not all of the criteria.
 
-And then here is a news article  from the [Guardian](https://www.theguardian.com/world/2026/mar/03/us-israel-iran-war-christian-rhetoric) about religious ideology being invoked by commanders in the US.
+And then here is a news article from the [Guardian](https://www.theguardian.com/world/2026/mar/03/us-israel-iran-war-christian-rhetoric) about religious ideology being invoked by commanders in the US.
 
 > US military commanders have been invoking extremist Christian rhetoric about biblical "end times" to justify involvement in the Iran war to troops, according to complaints made to a watchdog group.
 >

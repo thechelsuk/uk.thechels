@@ -6,7 +6,6 @@ tag:
 type: blog
 ---
 
-
 If a player gets investigated as a liberal then on that players go as President they should pick the investigator as chancellor.
 
 The chancellor cannot realistically conflict here as they will just be declared fascist, as they have already declared the president liberal. The only issue would be if both players were fascist.

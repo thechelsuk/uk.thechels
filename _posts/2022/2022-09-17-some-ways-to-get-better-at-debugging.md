@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2022-09-17
 link: https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/
 title: Some ways to get better at debugging
 type: linked
 cited: Julia Evans
-
 ---
 
 > This is the fuzziest category, we all have a lot of strategies and heuristics we pick up along the way for how to debug efficiently. For example:

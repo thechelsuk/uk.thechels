@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-02-23
 title: The Phoenix Project - DevOps Transformation Guide
@@ -177,7 +176,7 @@ You need to get everything in version control. Not just the code but the everyth
 
 Get humans out of the deployment business.
 
-If you can't out-experiment  and beat your competitors in time to market and agility, you are sunk. Features are always a gamble. If you're lucky, ten percent will get the desired benefits. So the faster you can get those features to market and test the, the better of you'll be. Incidentally, you also pay back the business faster for the use of the capital, which means the business starts making money faster, too.
+If you can't out-experiment and beat your competitors in time to market and agility, you are sunk. Features are always a gamble. If you're lucky, ten percent will get the desired benefits. So the faster you can get those features to market and test the, the better of you'll be. Incidentally, you also pay back the business faster for the use of the capital, which means the business starts making money faster, too.
 
 A big number of deployments per day allows you to fix bugs faster, get performance enhancements sooner, scaling when needed and run A/B tests as soon as possible.
 
@@ -203,7 +202,7 @@ Everyone values non-functional requirements (e.g., quality, scalability, managea
 
 We have High-trust, collaboration culture, where everyone is responsible of the quality of their work. Instead of approval and compliance processes, the hallmark of a low-trust command-and-control management culture, we rely on peer review to ensure that everyone has confidence int he quality of their code.
 
-Furthermore, there is a hypothesis-driven culture, requiring everyone to be a scientist, taking no assumptions for granted and doing  nothing without measuring. Why? Because we know that our time is valuable. We don't spend years building features that our customers don't actually want, deploying code that doesn't work or fixing something that isn't actually the problem. These factors contribute to our ability to release exciting features to the marketplace that delight our customer and help our organisation win.
+Furthermore, there is a hypothesis-driven culture, requiring everyone to be a scientist, taking no assumptions for granted and doing nothing without measuring. Why? Because we know that our time is valuable. We don't spend years building features that our customers don't actually want, deploying code that doesn't work or fixing something that isn't actually the problem. These factors contribute to our ability to release exciting features to the marketplace that delight our customer and help our organisation win.
 
 ### Where does it came from?
 

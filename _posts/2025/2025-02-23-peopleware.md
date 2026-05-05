@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-02-23
 title: Peopleware - Productive Projects and Teams
@@ -74,7 +73,7 @@ There is a widespread sense that what real-world management is all about is gett
 
 The Spanish Theory is that only a fixed amount of value existed on earth, and therefore the path to accumulation of wealth was to learn to extract it more efficiently from soil or from people's back.
 
-The English Theory  is that value can be created by ingenuity and technology.
+The English Theory is that value can be created by ingenuity and technology.
 
 The English had the Industrial Revolution, while the Spanish spun their wheels trying to exploit the land and the Indians in the New World.
 
@@ -311,11 +310,11 @@ Individuals are inclined to do exactly the same things with the data that the ma
 
 ### Brain time versus body time
 
-Work mode                       | Percent of time
---------------------------------|----------------
-Working alone                   | 30%
-Working with one other person   | 50%
-Working with two or more people | 20%
+| Work mode                       | Percent of time |
+| ------------------------------- | --------------- |
+| Working alone                   | 30%             |
+| Working with one other person   | 50%             |
+| Working with two or more people | 20%             |
 
 Thirty percent of the time, people are noise sensitive, and the rest of the time, they are noise generators.
 
@@ -480,7 +479,7 @@ Getting the right people in the first place is all-important. Your skill at thes
 
 #### The uniform plastic person
 
-You can't hire based on appearance. **Most hiring mistakes result from too much attention to appearances and not enough to capabilities.**  Evolution has planted in each of us a certain uneasiness toward people who differ by very much from the norm.
+You can't hire based on appearance. **Most hiring mistakes result from too much attention to appearances and not enough to capabilities.** Evolution has planted in each of us a certain uneasiness toward people who differ by very much from the norm.
 
 You probably don't feel that you have an uncontrollable tendency to hire attractive or "normal" looking people. The perceived norm encourages you to hire people that look like, sound like and thing like everybody else.
 
@@ -1026,10 +1025,10 @@ Resistance-to-change continuum, resistance in increasing order:
 
 1. Blindly loyal (ask no questions)
 2. Believers but questioners
-  a. Skeptics (show me)
-  b. Passive observers (what's in it for me?)
-  c. Opposed (fear of change)
-  d. Opposed (fear of loss of power)
+   a. Skeptics (show me)
+   b. Passive observers (what's in it for me?)
+   c. Opposed (fear of change)
+   d. Opposed (fear of loss of power)
 3. Militantly opposed (will undermine and destroy)
 
 Blindly loyal: fairly powerless, and they will jump onto whatever appears hot. They will withdraw their support as quickly as they give it.

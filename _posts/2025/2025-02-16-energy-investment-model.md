@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-02-16
 title: Energy Investment Model
@@ -9,7 +8,7 @@ type: blog
 
 ## Players
 
- > These are the people you want. They couple a positive attitude with high levels of effort. They are the ones who make things happen, who take the initiative and who see things through to the finish. They are both competent and caring about their work, their company and their co-workers. The primary task in relation to this community is retaining them as players.
+> These are the people you want. They couple a positive attitude with high levels of effort. They are the ones who make things happen, who take the initiative and who see things through to the finish. They are both competent and caring about their work, their company and their co-workers. The primary task in relation to this community is retaining them as players.
 
 ## Spectators
 

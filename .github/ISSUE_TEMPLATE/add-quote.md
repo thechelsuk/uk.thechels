@@ -1,10 +1,9 @@
 ---
 name: Add new quote
 about: Update list of motivational quotes
-title: 'Add quote'
-labels: 'quotes'
-assignees: '@Mat-0'
-
+title: "Add quote"
+labels: "quotes"
+assignees: "@Mat-0"
 ---
 
 We really appreciate your contribution, to ensure your change gets accepted please follow and tick the checklist below.

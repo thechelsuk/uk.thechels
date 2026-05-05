@@ -2,13 +2,13 @@
 layout: post
 title: Stamford Shed - interview
 tag:
- - chelsea
+  - chelsea
 type: blog
 ---
 
 #### Hi ChelseaStats, thank you speaking to us today. What sparked your love for the club and made you become a fan?
 
-My Dad took me to my first game - a 1-1 draw with Crewe at the Bridge. I was hooked. I loved being in the old shed and sometimes going on to the benches, but it was really the mid to late 90s that got me hooked I remember going along to the bridge with my dad for semi-final tickets vs Luton, they went on sale at 8pm and we walked back across London to Euston at 2-3am before driving back home That was some experience for a young kid and I only went to keep my dad company, I think he got that I was dedicated and hooked. That trip to Wembley was awesome, but I missed out on the final vs United. The Boro final made up for it though. I can still remember and feel the exact spine-tingling disbelief and amazement when Di Matteo blasted one in after 43 seconds. It’s those emotions that become addictive they tangle themselves around you and draw you in, never let you go and you love it.  I utterly adore that era and those players.
+My Dad took me to my first game - a 1-1 draw with Crewe at the Bridge. I was hooked. I loved being in the old shed and sometimes going on to the benches, but it was really the mid to late 90s that got me hooked I remember going along to the bridge with my dad for semi-final tickets vs Luton, they went on sale at 8pm and we walked back across London to Euston at 2-3am before driving back home That was some experience for a young kid and I only went to keep my dad company, I think he got that I was dedicated and hooked. That trip to Wembley was awesome, but I missed out on the final vs United. The Boro final made up for it though. I can still remember and feel the exact spine-tingling disbelief and amazement when Di Matteo blasted one in after 43 seconds. It’s those emotions that become addictive they tangle themselves around you and draw you in, never let you go and you love it. I utterly adore that era and those players.
 
 #### What was your inspiration behind starting Chelsea Stats?
 

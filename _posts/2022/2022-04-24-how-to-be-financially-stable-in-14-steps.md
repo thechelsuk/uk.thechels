@@ -1,13 +1,12 @@
 ---
-
 layout: post
 date: 2022-04-24
-title: 'How to be financially stable in 14 steps'
+title: "How to be financially stable in 14 steps"
 
 type: blog
 ---
 
-1. Invest in yourself first - it is a lot easier to increase your pay by adding skills and experience.  But don't overwork find a good work/life balance.
+1. Invest in yourself first - it is a lot easier to increase your pay by adding skills and experience. But don't overwork find a good work/life balance.
 2. Pay yourself first and ensure you end up with a surplus each month (I.e put money aside for the future you first and then live for today/month) this might be difficult at first but your future self will thank you
 3. Build an emergency fund, should the worst happen you are covered from 3-12 months depending on your risk toleration
 4. Have and use debt. Borrow as little as possible but as much as needed. Always repay in full each month on any credit. Except for mortgages where it is better statistically to pay back the minimum.
@@ -15,8 +14,8 @@ type: blog
 6. Learn about interest rates, debt, compound interest, borrowing, tax brackets, and tax wrappers (ISA, SIPP, GIA)
 7. Experiment in small manageable chunks on anything else if you have that desire.
 8. Only buy on sale what you were going to buy anyway and dismiss almost everything as marketing where people are being paid to make you buy something. Resist. Wealth comes from your use of time, experiences, and not possessions. But don't be so frugal as to not enjoy yourself
-9. Always shop around and look for vouchers, cash back, discounts and freebies.  Almost nothing is one fixed price
-10. Try to fix and recycle before buying new.  Almost everything depreciates in value the moment you purchase it.
+9. Always shop around and look for vouchers, cash back, discounts and freebies. Almost nothing is one fixed price
+10. Try to fix and recycle before buying new. Almost everything depreciates in value the moment you purchase it.
 11. Avoid the con. If someone is selling you a course on how to get rich, they are getting rich from those courses and not from the methods they teach - otherwise why would they share their secrets and their time?
 12. The Government and the benefits system are there to support you so don't be afraid to ask for help and to get what you are entitled too.
 13. Help others when and where you can

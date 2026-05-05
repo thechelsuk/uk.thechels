@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-01-26
 link: https://www.stefanjudis.com/blog/load-the-default-os-font-with-css/
 title: Load the default OS font with CSS
 type: linked
 cited: Stefan Judis
-
 ---
 
 Very cool indeed, I have given this site a little stylistic refresh over the last week or so.
@@ -19,7 +17,9 @@ This should mean better performance, less maintenance and easier refreshes in th
 > Cool! By using system-ui as default font, I could clean up a bit of CSS and go with this beauty.
 >
 > ```css
->body { font-family: system-ui, sans-serif; }
->    ```
+> body {
+>   font-family: system-ui, sans-serif;
+> }
+> ```
 >
 > Nice and clean. This site will now render .SF NS on MacOS, and I don't have a Windows machine, but it seems to be Segoe UI Variable. But whatever is available on the OS does the trick for me.

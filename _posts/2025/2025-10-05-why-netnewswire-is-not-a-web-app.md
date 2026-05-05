@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-10-05
 link: https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html
 title: Why NetNewsWire Is Not a Web App
 type: linked
 cited: Brent Simmons (inessential.com)
-
 ---
 
 > But what if I wanted to do a web app, in addition to or instead of a native app?

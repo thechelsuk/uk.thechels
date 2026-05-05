@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-02-18
 title: Dreyfus Model - Skill Acquisition and Learning Stages

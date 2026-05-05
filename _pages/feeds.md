@@ -3,7 +3,6 @@ layout: pages
 title: Available RSS Feeds in XML and JSON formats
 permalink: /feeds
 seo: Subscribe to various JSON, RSS, and Data feeds
-
 ---
 
 A number of RSS feeds are available. All feeds are Atom/XML unless otherwise specified.

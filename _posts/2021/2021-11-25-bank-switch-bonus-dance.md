@@ -11,7 +11,7 @@ Banks are offering switching bonuses at the moment and it’s a good time of yea
 1. Opened a Revolut account thinking it would be quickest to switch to some of the old school banks. Pain free ✅ Oops Revolut are not part of the CASS. So that’s a bust. ❌
 2. Tried to switch Revolut to First Direct (HSBC) for £125. Before knowing the CASS thing, FD ranks highly for customer service but having to create half a dozen pass phrases - heaven forbid your daughters middle name or your favourite city is less than 6 characters though, only bank to do a ‘hard’ credit search too. Shocking. ❌
 3. Switched FD to Halifax - went through like a dream, account credited a day after switch complete, easy enough for £125. ✅
-I have had a Halifax account in the past so cannot register for internet banking with my existing email address. Went to bank to try and change this, on their advice. They close at 3pm everyday now (I should have checked). No good for me or anybody with a typical 9-5 job. ❌
+   I have had a Halifax account in the past so cannot register for internet banking with my existing email address. Went to bank to try and change this, on their advice. They close at 3pm everyday now (I should have checked). No good for me or anybody with a typical 9-5 job. ❌
 4. Opened a Monzo account - very fast. Very nice. Quick as you like, lovely UI. ✅
 5. Opened Nationwide account. Slow, bit messy, UI is poor. But outcome achieved ✅
 6. Then used Monzo to switch (£100, or £125 if you are an existing customer at Nationwide so step 5 was important). Money arrived 3 days after the switch. ✅

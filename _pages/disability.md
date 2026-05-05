@@ -3,7 +3,6 @@ layout: pages
 title: My Disabilities Explained
 permalink: /disability
 seo: my disabilities are ME/CFS and MCAS
-
 ---
 
 ![Taken in February 2026 wearing a heavy duty welding goggles to block out light and resting with a large blanket and pillow in a seated position. A moody self portrait in monochrome with the subject slightly out of focus.](/images/me-2025-02-1024.png){:center}

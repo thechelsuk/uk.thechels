@@ -1,15 +1,13 @@
 ---
-
 layout: post
 date: 2025-12-09
 link: https://codemanship.wordpress.com/2025/11/13/the-seven-deadly-sins-of-go-faster/
 title: The Seven Deadly Sins of “Go Faster"
 type: linked
 cited: Codemanship
-
 ---
 
-> Things that will make your dev team take _longer_to deliver _worse_software:
+> Things that will make your dev team take \_longer_to deliver \_worse_software:
 
 1. Adding more people to the team
 2. Making them work longer hours
@@ -17,9 +15,9 @@ cited: Codemanship
 4. Maximising team utilisation and scheduling more work to be done in parallel
 5. Micromanaging the details
 6. Minimising real-time, synchronous communication so they're not "interrupted"
-7. Keeping them inline. No questioning the plan, and failure is _not_an option!
+7. Keeping them inline. No questioning the plan, and failure is \_not_an option!
 
-> Things that will help your dev team take _less_time to deliver _better_software:
+> Things that will help your dev team take \_less_time to deliver \_better_software:
 
 1. Keep the team small
 2. Keep the team rested

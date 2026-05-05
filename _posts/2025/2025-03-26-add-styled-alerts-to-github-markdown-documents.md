@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-03-26
 link: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 title: Add Styled Alerts To GitHub Markdown Documents
 type: linked
 cited: GitHub
-
 ---
 
 The GFM (GitHub Flavoured Markdown) variant of markdown adds some nice features to our GitHub-rendered markdown documents.

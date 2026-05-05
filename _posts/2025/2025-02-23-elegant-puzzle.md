@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-02-23
 title: Elegant Puzzle - Systems of Engineering Management
 
 type: blog
 ---
-
 
 - [Introduction](#introduction)
 - [Organisations](#organisations)
@@ -88,7 +86,7 @@ The fundamental challenge of organisational design is sizing teams.
 
 **On-call rotations want eight engineers.** It is sometimes necessary to pool multiple teams together to reach the eight engineers necessary for a 24/7 on-call rotation.
 
-**Small teams (< 4 members) are not teams.** Fewer than four individuals are sufficiently leaky abstraction that they function indistinguishably from individuals.  A few tips:
+**Small teams (< 4 members) are not teams.** Fewer than four individuals are sufficiently leaky abstraction that they function indistinguishably from individuals. A few tips:
 
 - Teams should be six to eight during steady state.
 - To create a new team, grow an existing team to eight to ten, and then bud into two teams of four or five.
@@ -170,7 +168,7 @@ The most important opportunity is designing your software to be flexible. If you
 
 An anti-pattern is the gatekeeper pattern. Having people who perform gatekeeping activities create very odd social dynamics, build systems with sufficient isolation so when they occasionally fail, make sure that they fail with a limited blast radius.
 
-***
+---
 
 As a closing though, the way you handle urgent project requests when you're already underwater is by learning to say no.
 
@@ -239,28 +237,28 @@ As an engineering leader, you may have to cover both roles temporarily.
 Product management is an iterative elimination tournament.
 
 1. **Problem discovery.** Exploring the different problems that you could pick to solve. You populate the problem space based on:
-    - **Users' pain**, problems that your users experience
-    - **Users' purpose**, what motivates your users to engage with your systems
-    - **Benchmark**, how your company compares to competitors. Areas in which you are weak, _consider_ investing in
-    - **Cohorts**, what is hiding behind your clean distributions
-    - **Competitive advantages**, areas where you're exceptionally strong
-    - **Competitive moats**, extreme version of a competitive advantage. Allows you to pursue offerings that others simply cannot
-    - **Compounding leverage**, blocks you could start building today that would compound into major product or technical leverage over time.
+   - **Users' pain**, problems that your users experience
+   - **Users' purpose**, what motivates your users to engage with your systems
+   - **Benchmark**, how your company compares to competitors. Areas in which you are weak, _consider_ investing in
+   - **Cohorts**, what is hiding behind your clean distributions
+   - **Competitive advantages**, areas where you're exceptionally strong
+   - **Competitive moats**, extreme version of a competitive advantage. Allows you to pursue offerings that others simply cannot
+   - **Compounding leverage**, blocks you could start building today that would compound into major product or technical leverage over time.
 2. **Problem selection**, narrow down to a specific problem portfolio
-    - **Surviving round**, what do you need to survive current round
-    - **Surviving the next round**, where do you need to be when the next round in order to avoid getting eliminated?
-    - **Winning rounds**
-    - **Consider different time frames.** Assumptions about the correct time frame to optimise for
-    - **Industry trends**, where do you think the industry is moving
-    - **Return on investment**, try ordering problems by expected return on investment
-    - **Experiments to learn**
+   - **Surviving round**, what do you need to survive current round
+   - **Surviving the next round**, where do you need to be when the next round in order to avoid getting eliminated?
+   - **Winning rounds**
+   - **Consider different time frames.** Assumptions about the correct time frame to optimise for
+   - **Industry trends**, where do you think the industry is moving
+   - **Return on investment**, try ordering problems by expected return on investment
+   - **Experiments to learn**
 3. **Solution validation**, it's easy to jump directly into execution, but it's well worth to have an explicit solution validation phase.
-    - **Write a customer letter**, useful to test against actual users
-    - **Identify prior art**, it's better to rely on people you have some connection to instead of on conference talks, there is lot of misinformation out there.
-    - **Find reference users**
-    - **Prefer experimentation over analysis**, get good at cheap validation
-    - **Find the path more quickly travelled**, try to find the cheapest way to validate
-    - **Justify switching costs**, the cost of switching for users to move to your solution
+   - **Write a customer letter**, useful to test against actual users
+   - **Identify prior art**, it's better to rely on people you have some connection to instead of on conference talks, there is lot of misinformation out there.
+   - **Find reference users**
+   - **Prefer experimentation over analysis**, get good at cheap validation
+   - **Find the path more quickly travelled**, try to find the cheapest way to validate
+   - **Justify switching costs**, the cost of switching for users to move to your solution
 
 ### Vision and strategies
 
@@ -682,7 +680,7 @@ You want to focus your team on the single inefficient component that's slowing d
 
 You'll have to translate the problem into something resembling data, if you estimate this can be easy as explaining how you decide the number of story points. If you don't, check what your team is working on at a few random moments across the day, and use that as an approximation.
 
-You can shift time from other behaviours toward your constraints. The next stage is to add capacity. You can add more capacity by  moving existing resources to the team, or to create new resources (via hiring).
+You can shift time from other behaviours toward your constraints. The next stage is to add capacity. You can add more capacity by moving existing resources to the team, or to create new resources (via hiring).
 
 #### Priorities
 
@@ -1083,15 +1081,13 @@ A concise, thoughtful invitation to discuss a job opportunity is an opportunity,
 4. Use the search function to identify second-degree connections to connect to.
 5. When someone accepts your connection request, grab their email and send them a short, polite note inviting them to coffee or a phone call. Customisation matters less, people mostly choose to respond based on their circumstances, not on the quality of your note.
 
-  Hi $THEIR_NAME
-  I'm an engineering manager at $COMPANY, and I think you would be a great  fit for $ROLE (link to your job description).
-  Would you be willing to grab a coffee or do a phone call to discuss sometime in the next week?
-  Best.
-  $YOUR_NAME
+Hi $THEIR_NAME
+I'm an engineering manager at $COMPANY, and I think you would be a great fit for $ROLE (link to your job description).
+Would you be willing to grab a coffee or do a phone call to discuss sometime in the next week?
+Best.
+$YOUR_NAME
 
-  Run an A/B test with something more personalised or sophisticated.
-6. Schedule an enjoy your coffees and chats. Figure out if there is a good mutual fit between the candidate and the role, if there is a good fit, try to get them to move forward with your process. Tell them why are you excited about the company and role discussed.
-7. Keep spending an hour each week adding more connections and following up with folks who have connected. It is a practice that rewards consistency.
+Run an A/B test with something more personalised or sophisticated. 6. Schedule an enjoy your coffees and chats. Figure out if there is a good mutual fit between the candidate and the role, if there is a good fit, try to get them to move forward with your process. Tell them why are you excited about the company and role discussed. 7. Keep spending an hour each week adding more connections and following up with folks who have connected. It is a practice that rewards consistency.
 
 #### Is this high-leverage work?
 

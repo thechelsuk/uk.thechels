@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-02-23
 title: Resilient Management
@@ -527,10 +526,10 @@ Scheduling and context-switching might not be the source of your energy drain; y
 
 The Eisenhower matrix can help you to figure out what to do with the tasks on your plate.
 
-|               | Urgent               | Not urgent
-|---------------|----------------------|-------------------------------
-| Important     | Do these tasks now   | Schedule these tasks for later
-| Not important | Delegate these tasks | Eliminate these tasks
+|               | Urgent               | Not urgent                     |
+| ------------- | -------------------- | ------------------------------ |
+| Important     | Do these tasks now   | Schedule these tasks for later |
+| Not important | Delegate these tasks | Eliminate these tasks          |
 
 #### Delegating projects
 
@@ -593,7 +592,7 @@ In order to support your teammates well, it's important to build a strong relati
 
 If you consider your peers your first-team, you would have a more holistic picture of how others across the company are tackling changes to strategic direction, or are coaching their teammates to grow in their careers. And they would be learning from _you_, too.
 
-***
+---
 
 A good metaphor for growth is what happens to caterpillars. A caterpillar will have to wrap itself into a cocoon, digest and convert itself to some kind of a gruesome soup, and reform itself into a butterfly.
 
@@ -610,7 +609,7 @@ Embrace the uncertainty. Know that it's there for a purpose, and that you will e
 
 ### Papers
 
-- [Mentoring: Strategies for building an effective mentoring relationship](https://www.americanjournalofsurgery.com/article/S0002-9610(13)00413-3/pdf), by doctors Hilary Sanfey, Celeste Holands, and Nancy L. Gantt
+- [Mentoring: Strategies for building an effective mentoring relationship](<https://www.americanjournalofsurgery.com/article/S0002-9610(13)00413-3/pdf>), by doctors Hilary Sanfey, Celeste Holands, and Nancy L. Gantt
 - [Psychological safety and learning behaviour in work teams](https://www.iacmr.org/Conferences/WS2011/Submission_XM/Participant/Readings/Lecture9B_Jing/Edmondson,%20ASQ%201999.pdf) by Amy Edmonson
 
 ### Articles

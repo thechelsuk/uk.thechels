@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2022-04-24
 title: Why checking an AC isn’t enough
 link: https://callumakehurstryansblog.wordpress.com/2021/08/25/why-checking-an-ac-isnt-enough/
 type: linked
 cited: Callum Akehurst-Ryan
-
 ---
 
 Akehurst-Ryan is one of my favourite QAs, having attended a remote talk and following Callum's blog and LinkedIn posts. Spot on with regards to Acceptance Criteria too.

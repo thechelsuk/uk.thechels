@@ -1,17 +1,15 @@
 ---
-
 layout: post
 date: 2022-06-06
 link: https://paperless.blog/start-test-names-with-should
 title: Start test names with should
 type: linked
 cited: paperless
-
 ---
 
 I like this, I'd name my tests `function_` first to identify and sort when executing - this view really helps me view test cases and look for gaps.
 
-E.g.,  `add_should_return_sum_of_values`
+E.g., `add_should_return_sum_of_values`
 
 > A trick I learned from Dave Hounslow, a former colleague, is to start test names with “should”¹. This has a few advantages over test [function name]:
 > It removes redundancy, because the function name should already be in the call stack.

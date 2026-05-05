@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2023-05-23
 title: Curated interview process

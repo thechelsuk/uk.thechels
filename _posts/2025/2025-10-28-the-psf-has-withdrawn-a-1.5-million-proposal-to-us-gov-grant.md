@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-10-28
 link: https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html?m=1
 title: The PSF has withdrawn a 1.5 million proposal to US gov grant
 type: linked
 cited: Pyfound
-
 ---
 
 Class.

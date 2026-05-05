@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2022-05-06
 link: https://www.buildthestage.com/how-to-manage-existing-engineering-teams/
 title: How to Manage Existing Engineering Teams
 type: linked
 cited: Build the Stage
-
 ---
 
 > Accept that the team knows more than you

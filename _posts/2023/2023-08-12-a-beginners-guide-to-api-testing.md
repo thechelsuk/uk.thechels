@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2023-08-12
 link: https://cakehurstryan.com/2023/07/26/a-beginners-guide-to-api-testing/
 title: A Beginners Guide to API Testing
 type: linked
 cited: Callum Akehurst-Ryan
-
 ---
 
 Good intro to APIs

@@ -1,11 +1,9 @@
 ---
-
 layout: post
 date: 2023-09-03
 title: Competence Quote
 type: linked
 cited: Unknown
-
 ---
 
 > Let people go when they are both confident and competent. If they know what they’re doing then you can set goals and get out of the way.

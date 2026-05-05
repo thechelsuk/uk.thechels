@@ -5,7 +5,6 @@ seo: Run - old run blog posts and articles
 tagged: runs
 permalink: /tag/runs
 date: 2026-01-01
-
 ---
 
 A list of posts that are related to running. These were from 2019 in which I set a challenge to run 1000 miles for Acorn's Children Hospice. I completed the distance in October pretty easily and stopped writing the weekly updates. I went on to run over 1200 so averaged over 100 miles per month and raised over £1200 for the charity.

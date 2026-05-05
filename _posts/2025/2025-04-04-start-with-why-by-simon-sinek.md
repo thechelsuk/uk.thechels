@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-04-04
 title: Start with Why by Simon Sinek
@@ -13,15 +12,15 @@ You can get this book for free with a trial of audible using the link in the des
 
 The five main ideas proposed in the book include the following:
 
-* Figuring out your core beliefs in life, your purpose in life and why you ought to nurture those principles and pursue that direction in life.
+- Figuring out your core beliefs in life, your purpose in life and why you ought to nurture those principles and pursue that direction in life.
 
-* All the inspirational leaders and successful organizations in the world always begin their journey with 'why.'
+- All the inspirational leaders and successful organizations in the world always begin their journey with 'why.'
 
-* To inspire others, you need to show people why you are doing certain things a certain why. It is not always your actions, but why you implement them that inspire people.
+- To inspire others, you need to show people why you are doing certain things a certain why. It is not always your actions, but why you implement them that inspire people.
 
-* To achieve lasting success, stick to your goals and always be motivated to do something extraordinary, you MUST know your why and this applies to every aspect of your life.
+- To achieve lasting success, stick to your goals and always be motivated to do something extraordinary, you MUST know your why and this applies to every aspect of your life.
 
-* To sustain and skyrocket your growth, you must always keep focusing on the 'why' associated with your goals and you need to keep revisiting your goals and the 'whys' so you stay focused on what you must do and keep your goal in sight.
+- To sustain and skyrocket your growth, you must always keep focusing on the 'why' associated with your goals and you need to keep revisiting your goals and the 'whys' so you stay focused on what you must do and keep your goal in sight.
 
 ## Chapter 1: Assume You Know
 

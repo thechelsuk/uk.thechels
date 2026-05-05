@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-05-15
 link: https://daringfireball.net/linked/2025/05/10/benedict-evans-apple-developers-as-suppliers
 title: Developers as Suppliers
 type: linked
 cited: John Gruber (Daring Fireball)
-
 ---
 
 > I'm quite certain that everyone at Apple, right up to Tim Cook, would swear up and down that Apple _does_ value third-party developers and does _not_ treat them like they do suppliers.

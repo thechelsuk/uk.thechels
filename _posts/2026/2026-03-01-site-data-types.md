@@ -5,7 +5,6 @@ seo: Ways - create data types for thechelsuk
 
 date: 2026-03-01
 type: ways
-
 ---
 
 This site has various data types, each with their own format and process for creation. Below are the steps to create each type of data.
@@ -16,7 +15,7 @@ This site has various data types, each with their own format and process for cre
   - create a new draft with the film template add a film title on the first line
   - Run action to search film to get the correct IMDB ID it'll be added to the draft automatically
   - Add the rating in the placeholder
-  - Run the  `Add Film` action which will trigger the GitHub Action workflow.
+  - Run the `Add Film` action which will trigger the GitHub Action workflow.
 
 - Or;
   - On Mac; Run the python script typing in a Film IMDB code and a Rating.

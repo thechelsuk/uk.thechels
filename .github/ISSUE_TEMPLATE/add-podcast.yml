@@ -1,8 +1,8 @@
 name: Add podcast
 description: Update my podcast library
 title: "New Podcast: "
-labels: 'podcasts'
-assignees: 'Mat-0'
+labels: "podcasts"
+assignees: "Mat-0"
 body:
   - type: textarea
     id: logs
@@ -10,8 +10,8 @@ body:
       label: "Add Data"
       description: Add values to the yaml below
       value: |
-       -
-          category:
-          link: ""
-          name: ""
+        -
+           category:
+           link: ""
+           name: ""
       render: yaml

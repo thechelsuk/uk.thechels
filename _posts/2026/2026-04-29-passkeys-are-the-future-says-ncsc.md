@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-04-29 14:41
 title: Passkeys are the future says NCSC
 link: https://www.ncsc.gov.uk/news/ncsc-leave-passwords-in-the-past-passkeys-are-the-future
 cited: NCSC
 type: linked
-
 ---
 
 The future, perhaps, the present not so much due to differing implementations. Some sites want passkeys, then MFA, some don't, some use passkeys as the MFA. This needs to be resolved to make it work for the masses

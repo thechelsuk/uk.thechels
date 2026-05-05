@@ -5,7 +5,6 @@ seo: Ways - create post types for thechelsuk
 
 date: 2026-03-01
 type: ways
-
 ---
 
 This site has various post types, each with their own format and process for creation. Below are the steps to create each type of post.

@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2022-05-02
 link: https://shekhargulati.com/2022/02/16/factors-to-consider-when-architecting-systems-on-top-of-third-party-systems/
 title: Key Factors for Architecting Third-Party System Integration
 type: linked
 cited: Shekhar Gulati
-
 ---
 
 > important factors you should consider when architecting systems that are powered by third-party systems. The factors I detail are:

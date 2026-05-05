@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-10-01
 link: https://cks.nice.org.uk/topics/myalgic-encephalomyelitis-chronic-fatigue-syndrome-me/cfs/
 title: Myalgic encephalomyelitis (ME/CFS)
 type: linked
 cited: NICE
-
 ---
 
 > Summary

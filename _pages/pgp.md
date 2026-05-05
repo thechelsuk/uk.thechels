@@ -3,7 +3,6 @@ layout: pages
 title: PGP - Public Key for Secure Communication and Encryption
 permalink: /pgp
 seo: Public PGP key
-
 ---
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----

@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-04-03
 link: https://github.blog/developer-skills/career-growth/how-engineers-can-use-one-on-ones-with-their-manager-to-accelerate-career-growth/
 title: Reframing your perception of what a one-on-one can accomplish
 type: linked
 cited: GitHub
-
 ---
 
 A well-structured one-on-one meeting with your manager isn't just a check-in, it's an opportunity to shape your work environment and career trajectory. You wouldn't build a system without evaluating its constraints, dependencies, and long-term maintainability. Why approach your career any differently?

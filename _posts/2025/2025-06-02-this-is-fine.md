@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-06-02
 link: https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf
 title: This is Fine - AI Alignment and Safety Research
 type: linked
 cited: Anthropic
-
 ---
 
 This is fine

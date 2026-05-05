@@ -1,14 +1,11 @@
 ---
-
 layout: post
 date: 2022-04-26
 link: https://lethain.com/how-to-safely-think-in-systems/
 title: Catchphrases in How to safely think in systems
 type: linked
 cited: Will Larson (Lethain)
-
 ---
-
 
 Heating or eating, Brexit means Brexit, it's a well known tactic for politicians too. Catchy names are very powerful and easy to remember even if the original underlying proposal gets miscontrued of manipulated.
 

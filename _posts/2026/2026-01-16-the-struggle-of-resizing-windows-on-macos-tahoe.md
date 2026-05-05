@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-01-16
 link: https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/
 title: The struggle of resizing windows on macOS Tahoe
 type: linked
 cited: no.heger
-
 ---
 
 lol.

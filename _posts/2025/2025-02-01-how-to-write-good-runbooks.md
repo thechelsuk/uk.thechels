@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-02-01
 link: https://newsletter.techleadmentor.com/p/how-to-write-good-runbooks
 title: How to Write Good Runbooks
 type: linked
 cited: Raviraj Achar
-
 ---
 
 > Qualities of a Good Runbook:

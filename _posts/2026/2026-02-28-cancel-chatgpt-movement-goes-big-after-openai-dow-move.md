@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-02-28
 link: https://www.windowscentral.com/artificial-intelligence/cancel-chatgpt-movement-goes-mainstream-after-openai-closes-deal-with-u-s-department-of-war-as-anthropic-refuses-to-surveil-american-citizens
 title: Cancel ChatGPT movement goes big after OpenAI DOW move
 type: linked
 cited: Windows Central
-
 ---
 
 Incidentally, Claude by Anthropic is up to second on the App Store.

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2026-04-01
 link: https://www.theguardian.com/politics/2026/mar/29/disabled-benefit-claimants-face-lower-payments-if-conditions-not-deemed-lifelong-charities-say
@@ -7,7 +6,6 @@ title: Disabled people face lower benefits if not lifelong
 type: linked
 cited: The Guardian
 tags: [ME]
-
 ---
 
 Ludicrous. As if pushing people into poverty is any indication of improving health outcomes.

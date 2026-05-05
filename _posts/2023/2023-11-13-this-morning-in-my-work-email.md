@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2023-11-13
 link: https://gabz.blog/2023/11/08/this-morning-in.html
 title: This morning in my work email
 type: linked
 cited: Gabz/mL
-
 ---
 
 lol. Similar for my work email. I don't understand how gmail, Hotmail et al are not just outright banned for most use cases of non-customer-facing roles.

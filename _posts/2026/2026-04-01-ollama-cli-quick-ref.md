@@ -5,7 +5,6 @@ seo: Ways - How to use Ollama from the terminal
 
 date: 2026-04-01
 type: ways
-
 ---
 
 Just for testing LLMs locally to see what the fuss is about, here is a short cheat sheet on using Ollama in the terminal. For this example I've used the Qwen 3.5 4B model, but it can be replaced with any model one has installed.

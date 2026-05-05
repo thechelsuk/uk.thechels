@@ -21,9 +21,9 @@ Name: UGREEN MU101 Ergonomic Wireless Mouse
 
 If you cannot pair the product with your devices, please do as follows:
 
- 1. Take the receiver out of the USB port.
- 2. Press and hold “Left + Right + scroll wheel” simultaneously for 3 seconds until the indicator starts blinking.
- 3. Insert the receiver into the device.
+1.  Take the receiver out of the USB port.
+2.  Press and hold “Left + Right + scroll wheel” simultaneously for 3 seconds until the indicator starts blinking.
+3.  Insert the receiver into the device.
 
 ### Bluetooth Connection
 
@@ -36,20 +36,20 @@ If you cannot pair the product with your devices, please do as follows:
 
 If you cannot pair the product with your devices, please do as follows:
 
- 1. Press and hold “Left + Right + scroll wheel” simultaneously for 3 seconds until the indicator starts blinking.
- 2. Enter the Bluetooth devices list of the connected device, search the mouse Bluetooth and connect.
+1.  Press and hold “Left + Right + scroll wheel” simultaneously for 3 seconds until the indicator starts blinking.
+2.  Enter the Bluetooth devices list of the connected device, search the mouse Bluetooth and connect.
 
 ## Operating System Switching
 
- 1. The exact usage of scroll wheel, forward and back buttons varies from different operating systems.
- 2. The product defaults to Windows, when using on macOS, please press and hold the switch button for 1 second.
+1.  The exact usage of scroll wheel, forward and back buttons varies from different operating systems.
+2.  The product defaults to Windows, when using on macOS, please press and hold the switch button for 1 second.
 
 ## DPI Adjustment
 
- 1. The indicator blinks as follows according to different DPI adjustment.
- 2. The DPI value defaults to 1600, press DPI switch button to adjust the mouse sensitivity in the order of 1600 > 2000 > 4000 > 1000.
+1.  The indicator blinks as follows according to different DPI adjustment.
+2.  The DPI value defaults to 1600, press DPI switch button to adjust the mouse sensitivity in the order of 1600 > 2000 > 4000 > 1000.
 
 ## Low Battery
 
- 1. The mouse =II turn off automatically when the battery is too low.
- 2. When the indicator keeps blinking (about 5 seconds), it indicates that the battery is lower than 5%. Please change a new battery for further performance.
+1.  The mouse =II turn off automatically when the battery is too low.
+2.  When the indicator keeps blinking (about 5 seconds), it indicates that the battery is lower than 5%. Please change a new battery for further performance.

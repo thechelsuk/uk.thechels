@@ -1,13 +1,11 @@
 ---
-
 layout: post
 date: 2025-04-05
 link: https://www.forbes.com/sites/kimberlyfries/2018/02/08/8-essential-qualities-that-define-great-leadership
-title:  8 Essential Qualities That Define Great Leadership
+title: 8 Essential Qualities That Define Great Leadership
 type: linked
 cited: Kimberley Fries (Forbes)
 ---
-
 
 Company leaders are facing a crisis. Nearly one-third of employees don’t trust management. In addition to this, employers now have to cater to the needs of the millennial generation. On average, after graduating from college, a millennial will change jobs four times before they are 32. Most of them also don’t feel empowered on their current jobs.
 

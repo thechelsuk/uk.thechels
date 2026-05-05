@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2026-03-09
 title: OSINT Tools
@@ -48,4 +47,4 @@ Broad open source intelligence tool link list
 - [Google - Remove outdated content](https://search.google.com/search-console/remove-outdated-content)
 - [Google - Report Spam](https://search.google.com/search-console/report-spam)
 - [Bing - Content Removal](https://www.bing.com/webmasters/tools/contentremoval)
-- [Reddit Posts & Comments  Remover](https://shop.thechels.uk/l/reddit-delete)
+- [Reddit Posts & Comments Remover](https://shop.thechels.uk/l/reddit-delete)

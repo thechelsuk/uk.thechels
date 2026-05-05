@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-02-18
 title: Sprint Review Q and A
@@ -84,7 +83,7 @@ Follow up questions:
 
 ### What didn't go well this sprint
 
- Follow up questions:
+Follow up questions:
 
 - What actions are you going to take to mitigate this?
 - How will you know if this change has been successful?

@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2023-11-30
 link: https://sixcolors.com/post/2023/11/castro-podcast-app-goes-down-and-may-be-dying/
 title: Podcast app Castro may be dying
 type: linked
 cited: Six Colors
-
 ---
 
 Devastating news, well it would have been 2 months ago. I'm now using PocketCasts as I just could not get on with overcast.
@@ -23,7 +21,7 @@ The searching for podcasts would often return multiple results - inevitably I'd 
 
 I've cancelled my subscription.
 
-PocketCasts filters allow me to process my inbox and define my playlist just like Castro did.  All without a subscription so far, but may look at syncing to iPad or a web browser if the need arises. No errors or issues.
+PocketCasts filters allow me to process my inbox and define my playlist just like Castro did. All without a subscription so far, but may look at syncing to iPad or a web browser if the need arises. No errors or issues.
 
 RIP Castro.
 

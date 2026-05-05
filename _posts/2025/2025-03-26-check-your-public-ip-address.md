@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-03-26
 title: Check Your Public IP Address

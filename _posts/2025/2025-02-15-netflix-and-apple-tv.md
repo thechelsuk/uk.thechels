@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-02-15
 link: https://spyglass.org/netflix-apple-tv/
 title: Netflix and Apple TV
 type: linked
 cited: Spyglass
-
 ---
 
 Especially for a set of people likely to be in the demographic they are targetting. I'd suggest Apple TV users are generally affluent and engaged in good user experiences.

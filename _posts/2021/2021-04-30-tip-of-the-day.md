@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title: Tip of the Day - Development and Productivity Insights
 date: 2021-04-30

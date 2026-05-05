@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-02-24
 title: Optimising for Speed and Quality
@@ -13,7 +12,7 @@ type: blog
 
 Other variants of this metric include lead time - the time from story creation to work being completed and this includes the time an item is sat in a backlog, e.g. includes refinement and waiting time. Cycle Time can also be the time work is started (first commit) to PR being created, however, using Azure DevOps we'll use their ticket cycle time as a proxy.
 
-**Deployment frequency**  = in order to push to production (_and high performing teams do this on demand multiple times a day [if the business can accept]_). Optimising for deployments means work has to be smaller to get the approval. The more often we deploy the quicker we are to add value for our customers, by releasing often we reduce the mean time to restore as we can easily deploy again a fix.
+**Deployment frequency** = in order to push to production (_and high performing teams do this on demand multiple times a day [if the business can accept]_). Optimising for deployments means work has to be smaller to get the approval. The more often we deploy the quicker we are to add value for our customers, by releasing often we reduce the mean time to restore as we can easily deploy again a fix.
 
 ## Quality = Change Failure Rate & Mean Time To Restore
 

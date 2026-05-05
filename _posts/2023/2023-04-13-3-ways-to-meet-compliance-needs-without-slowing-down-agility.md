@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2023-04-13
 link: https://github.blog/2023-02-24-3-ways-to-meet-compliance-needs-without-slowing-down-agility/
 title: 3 ways to meet compliance needs without slowing down agility
 type: linked
 cited: GitHub
-
 ---
 
 > - You can [configure SAML single sign-on for your enterprise](https://docs.github.com/en/enterprise-cloud@latest/admin/identity-and-access-management/using-saml-for-enterprise-iam/configuring-saml-single-sign-on-for-your-enterprise). This is an additional check, allowing you to confirm the authenticity of your users against your own identity provider (while still using your own GitHub account).

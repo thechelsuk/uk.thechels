@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-04-04 12:00
 link: https://stuartbreckenridge.net/2026-04-03-the-bbcs-rss-feed/
 title: The BBC RSS Feeds are garbage
 type: linked
 cited: Stuart Breckenridge
-
 ---
 
 This must be due to the unique way the Beeb is funded.

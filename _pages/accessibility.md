@@ -3,7 +3,6 @@ layout: pages
 title: Accessibility Statement
 permalink: /accessibility
 seo: Accessibility statement for thechels.uk
-
 ---
 
 This is an accessibility statement for thechels.uk.

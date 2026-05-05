@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2024-09-14
 title: Become the engineer everyone wants to work with
-link : https://newsletter.eng-leadership.com/p/become-the-engineer-everyone-wants
+link: https://newsletter.eng-leadership.com/p/become-the-engineer-everyone-wants
 type: linked
 cited: Eng Leadership
-
 ---
 
 > Why should you become the engineer everyone wants to work with?

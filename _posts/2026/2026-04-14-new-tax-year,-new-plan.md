@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-04-13 07:38
 title: New tax year, new plan
 link: https://thoughts.uncountable.uk/new-tax-year-new-plan/
 type: linked
 cited: Chris
-
 ---
 
 Love seeing finances talked about on the indie web. Money market funds for the win.

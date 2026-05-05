@@ -3,7 +3,6 @@ layout: pages
 title: Green credentials and decarbonisation
 permalink: /green
 seo: Doing my bit for the environment and net zero
-
 ---
 
 ## Calculator

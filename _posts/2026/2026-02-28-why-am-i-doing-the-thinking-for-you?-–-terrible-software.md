@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-02-28
 link: https://terriblesoftware.org/2026/02/02/why-am-i-doing-the-thinking-for-you/
 title: Why Am I Doing the Thinking for You?
 type: linked
 cited: Terrible Software
-
 ---
 
 No hello, mark II

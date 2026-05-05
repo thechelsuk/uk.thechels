@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2026-04-21 01:08
 title: How I use RSS to quickly post on my Jekyll blog
@@ -7,7 +6,6 @@ link: https://lisacharlottemuth.com/rss-jekyll-blog
 type: linked
 cited: Lisa Charlotte Muth
 class: indie
-
 ---
 
 Interesting concept in using tumblr as the UI for Jekyll. I use _Drafts_ app and then go into _Working Copy_ on my iOS devices. But do use the Python script in GitHub actions extensively.

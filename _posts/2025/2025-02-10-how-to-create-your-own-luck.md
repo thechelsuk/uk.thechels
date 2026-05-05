@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-02-10
 link: https://read.developingskills.fyi/p/how-to-create-your-own-luck
 title: How To Create Your Own Luck
 type: linked
 cited: John Crickett
-
 ---
 
 Like John, I'd consider myself on the not particularly lucky side of the spectrum.

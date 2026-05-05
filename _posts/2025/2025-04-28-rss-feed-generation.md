@@ -6,7 +6,6 @@ title: RSS Feed Generation
 type: blog
 ---
 
-
 I’ve been building out some RSS feeds recently as I really value the nature of RSS delivery in a reader of my choice, rather than being forced to go to websites full of adverts and cookie notices, or forced into apps that also are full of apps, despite being paid for - looking at you Apple News - So here is a code snippet that can take any markdown file, render the content into an item in an RSS feed. The front matter ensures Jekyll builds it and processes the variables.
 
 The will produce a daily feed (as the pub date has no timestamp, and will be triggered by other builds or activity on the repo.
@@ -14,6 +13,7 @@ The will produce a daily feed (as the pub date has no timestamp, and will be tri
 ```markdown
 ---
 ---
+
 { assign contents_of_page = site pages | where: “name”, “index md” | first }
 { assign pub_date = site time | date: “%Y-%m-%d” }
 

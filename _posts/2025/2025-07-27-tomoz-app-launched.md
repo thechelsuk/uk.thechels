@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-07-27
 title: Tomoz App Launched

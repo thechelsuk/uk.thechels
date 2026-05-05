@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2023-08-12
 link: https://www.databreaches.net/uk-just-a-slap-on-the-wrist-for-gloucester-council-data-breach-which-saw-peoples-data-fall-into-hands-of-criminals/
 title: Gloucester council data breach
 type: linked
 cited: DataBreaches.net
-
 ---
 
 LOL.

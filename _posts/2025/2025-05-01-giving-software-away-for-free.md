@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-05-01
 link: https://simonwillison.net/2025/Apr/28/give-it-away-for-free/
 title: Giving software away for free
 type: linked
 cited: Simon Willison
-
 ---
 
 Almost everything I produce is HTML, CSS, JavaScript, and Python using GitHub Actions for the free compute.

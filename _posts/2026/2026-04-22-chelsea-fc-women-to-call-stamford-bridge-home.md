@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-04-22 10:52
 title: Chelsea FC Women to call Stamford Bridge home
 link: https://www.chelseafc.com/en/news/article/chelsea-fc-women-to-call-stamford-bridge-home-a-new-era-begins
 cited: Chelsea FC Women
 type: linked
-
 ---
 
 A good move. Interestingly only a few players were included in the media put out by the club. Some notable absences who a reasonable person would suggest should have been included given their world status.

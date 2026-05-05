@@ -1,10 +1,8 @@
 ---
-
 layout: post
 date: 2023-11-01
 title: Candidate Interview questions
 type: blog
-
 ---
 
 Six useful questions to help decide if the company is right for you.

@@ -1,16 +1,13 @@
 ---
-
 layout: post
 date: 2025-04-02
 link: https://nedbatchelder.com/blog/202503/human_sorting_improved.html
 title: Human sorting improved
 type: linked
 cited: Ned Batchelder
-
 ---
 
 > I wrote about this long ago ([Human sorting](https://nedbatchelder.com/blog/200712/human_sorting.html)), but have continued to tweak the code and needed to [add it to a project](https://github.com/nedbat/watchgha/commit/cfcd48ac3f24f5b76aa02caa695af13e37f38bcf) recently. Here's the latest:
->
 >
 >     import re
 >
@@ -36,6 +33,4 @@ cited: Ned Batchelder
 >         """Sort a list of strings how humans expect."""
 >         strings.sort(key=human_key)
 >
->
 > The central idea here is to turn a string like `"Python 3.9"` into the key `["Python ", 3, ".", 9]` so that numeric components will be sorted by their numeric value. The re.split() function gives us interleaved words and numbers, and try_int() turns the numbers into actual numbers, giving us sortable key lists.
->

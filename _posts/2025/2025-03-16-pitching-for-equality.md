@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-03-16
 link: https://www.bbc.co.uk/sport/football/articles/cy87lw1dgq2o
 title: Pitching for equality
 type: linked
 cited: thechelsuk
-
 ---
 
 Mentioned on the BBC regarding the quality of the pitch for the Women's League Cup final at Pride Park, 15th March 2025.

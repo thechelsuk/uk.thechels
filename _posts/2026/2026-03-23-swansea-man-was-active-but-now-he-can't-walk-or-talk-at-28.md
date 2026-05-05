@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-03-23
 link: https://www.bbc.co.uk/news/articles/cpv8e71p3evo
 title: Swansea man was active but now he can't walk or talk at 28
 type: linked
 cited: BBC
-
 ---
 
 Decent outline of ME here and the devastating impact it can have.

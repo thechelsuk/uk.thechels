@@ -6,7 +6,6 @@ tag:
   - stats
 source: ChelseaFC
 type: blog
-
 ---
 
 Chelsea had 21 shots on goal compared to Stoke’s one solitary attempt in 5-0 victory.

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-02-18
 title: Four habits that derail listening

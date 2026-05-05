@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-04-29 15:07
 title: An update on GitHub availability
 link: https://github.blog/news-insights/company-news/an-update-on-github-availability/#h-recent-incidents
 cited: GitHub
 type: linked
-
 ---
 
 Yikes, it's been a pretty terrible week or so for GitHub.

@@ -1,6 +1,7 @@
 # FrontMattered
 
- ---
+---
+
 title: post title
 author: name
 tags: [news, app]

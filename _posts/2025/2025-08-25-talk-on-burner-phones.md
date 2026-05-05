@@ -1,15 +1,13 @@
 ---
-
 layout: post
 date: 2025-08-25
 link: https://rebeccawilliams.info/burner-phone-101/
 title: Talk on Burner Phones
 type: linked
 cited: Rebecca Williams
-
 ---
 
-> Next, we discussed why your smartphone is risky and how you can improve it today, even without a burner phone. We covered how device IDs -- the IMSI tied to your SIM and cell tower access, and the IMEI tied to your hardware -- make true phone anonymity nearly impossible.  We also outlined four broad categories of data your phone collects and how each can be exposed
+> Next, we discussed why your smartphone is risky and how you can improve it today, even without a burner phone. We covered how device IDs -- the IMSI tied to your SIM and cell tower access, and the IMEI tied to your hardware -- make true phone anonymity nearly impossible. We also outlined four broad categories of data your phone collects and how each can be exposed
 
 - _Identity & finance_: payments, contracts, phone numbers, and digital IDs.
 - _Location & movement_: GPS, Wi-Fi, Bluetooth, cell towers, and sensors, exposed by spyware, stalkerware, tower dumps, and data brokers.
@@ -36,7 +34,7 @@ _For iPhones specifically_: Enable Ask App Not to Track, restrict Siri & Apple I
 
 From there, we moved into the "off the grid" options and mapped out a taxonomy of what people mean by a burner phone. We talked through four main categories:
 
-- _Prepaid or repurposed phones:_Cheap and flexible, but still tower-tracked and vulnerable to forensic phone breaking. Some can support Signal.
+- \_Prepaid or repurposed phones:\_Cheap and flexible, but still tower-tracked and vulnerable to forensic phone breaking. Some can support Signal.
 - _SIM rotation_: Rotating SIMs manually or using PGPP eSIMs changes your IMSI, though your IMEI stays constant.
 - _Minimal or dumb phones_: Fewer apps, but limited functionality and no encryption. Staying off social more is still a win.
 - _Device disguises_: Tools like VoIP numbers, VPNs, or hotspots can obscure identifiers but still leave metadata trails.

@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-01-30
 link: https://daringfireball.net/2026/01/politics_and_the_english_language_january_2026_edition
 title: Politics and the English Language
 type: linked
 cited: John Gruber (Daring Fireball)
-
 ---
 
 Deeply embedded in Apple's ecosystem and frustrated by a company that used to do the right thing.

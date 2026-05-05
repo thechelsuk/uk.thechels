@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-10-09
 title: Free the web

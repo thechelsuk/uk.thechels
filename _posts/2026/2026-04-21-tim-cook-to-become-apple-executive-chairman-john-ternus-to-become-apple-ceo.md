@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2026-04-21 00:54
 title: Tim Cook to become Apple Executive Chairman John Ternus to become Apple CEO
@@ -7,7 +6,6 @@ link: https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-
 type: linked
 cited: Apple
 class: indie
-
 ---
 
 As widely discussed and expected. I am hopeful Ternus will make the software as good as the hardware.

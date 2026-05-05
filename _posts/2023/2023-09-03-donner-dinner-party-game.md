@@ -1,10 +1,8 @@
 ---
-
 layout: post
 date: 2023-09-03
 title: Donner Dinner Party Game
 type: blog
-
 ---
 
 Card quantities for working out the odds when your friend fails to deliver.

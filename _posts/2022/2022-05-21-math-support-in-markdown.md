@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2022-05-21
 link: https://github.blog/2022-05-19-math-support-in-markdown/
 title: Math support in Markdown
 type: linked
 cited: GitHub
-
 ---
 
 Not gonna need it but pretty cool nonetheless.

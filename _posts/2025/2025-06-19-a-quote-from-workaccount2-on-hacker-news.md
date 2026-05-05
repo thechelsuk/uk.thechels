@@ -8,7 +8,7 @@ seo: ""
 tags:
 ---
 
-Via Simon Willison, a quote from a comment on  Hacker News by Workaccount2. Sharing here as I've found that I have inadvertently been doing this myself when wanting to move on with an agent and not have it carry existing context into a new request.
+Via Simon Willison, a quote from a comment on Hacker News by Workaccount2. Sharing here as I've found that I have inadvertently been doing this myself when wanting to move on with an agent and not have it carry existing context into a new request.
 
 > They poison their own context. Maybe you can call it context rot, where as context grows and especially if it grows with lots of distractions and dead ends, the output quality falls off rapidly. Even with good context the rot will start to become apparent around 100k tokens (with Gemini 2.5).
 >

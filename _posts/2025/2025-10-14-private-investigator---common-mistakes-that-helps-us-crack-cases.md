@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-10-14
 link: https://news.sky.com/story/im-a-private-investigator-heres-how-much-we-cost-and-common-mistake-that-helps-us-crack-cases-13449332
 title: Private Investigator - Common Mistakes That Helps Us Crack Cases
 type: linked
 cited: Sky News
-
 ---
 
 > **Here's one of my secrets for investigating...** People often reuse usernames. By tracking a username across platforms, databases, and forums, you can build a surprisingly complete profile, even if the person thinks they've been discreet.

@@ -2,7 +2,7 @@
 layout: post
 title: Chelsea Ladies - Season draws to a close for Chelsea Ladies
 tag:
-- chelsea
+  - chelsea
 type: blog
 ---
 

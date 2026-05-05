@@ -5,7 +5,6 @@ type: linked
 cited: Bateman Horne Center
 tags: [ME]
 date: 2025-06-29
-
 ---
 
 Post-Exertional Malaise (PEM) is the hallmark symptom of ME/CFS. It’s now recognized in long COVID patients too.

@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-04-04
 title: The Richest Man in Babylon by George S. Clason
 
 type: blog
 ---
-
 
 ## Introduction
 
@@ -24,9 +22,9 @@ On a quest to make his desire for wealth a reality, Arkad dedicated his time and
 
 ## You Must Begin by Paying Yourself First
 
- The cost of everyday living can quickly eat away at your income, and when this happens, the money lender pointed out that you become a slave to your job. He encouraged Arkad to simply start by saving 10% of his income. The money that he ends up saving will eventually become money that you can use to start investing (which is when your money starts working for you). He taught Arkad that is was not how much you managed to save that matters, but the act of paying yourself from every income that was earned. That was how Arkad witnessed his savings grow into a satisfying amount over time.
+The cost of everyday living can quickly eat away at your income, and when this happens, the money lender pointed out that you become a slave to your job. He encouraged Arkad to simply start by saving 10% of his income. The money that he ends up saving will eventually become money that you can use to start investing (which is when your money starts working for you). He taught Arkad that is was not how much you managed to save that matters, but the act of paying yourself from every income that was earned. That was how Arkad witnessed his savings grow into a satisfying amount over time.
 
- The money lender in turn, was pleased with what he observed and he asked him to help manage part of his real estate. He would later go on to share his profits with Arkad. The moneylender's wise lesson to Arkad was not to save to a point that he was penny-pinching, but to continue to enjoy life as long as his savings continued to grow steadily.
+The money lender in turn, was pleased with what he observed and he asked him to help manage part of his real estate. He would later go on to share his profits with Arkad. The moneylender's wise lesson to Arkad was not to save to a point that he was penny-pinching, but to continue to enjoy life as long as his savings continued to grow steadily.
 
 In this book, readers are also encouraged to pay themselves first while they are working to pay off their debts. Arkad learned to live with less money when he steadily set aside 10% of his income, and he shared his story with his two friends in the hopes that they might learn from it too.
 

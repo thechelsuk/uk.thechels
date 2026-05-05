@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-02-21
 link: https://castro.fm/blog/state-of-the-app-year-1
 title: State of the Castro app 2024
 type: linked
 cited: Castro
-
 ---
 
 As a big fan of the Castro app I'm also happy with the performance improvements over the last year under new ownership. I don't feel like I am missing entire podcasts in my feed any more... been subscribed to over 230 makes it hard to track if one stops publishing or the engine is broken. I don't have to worry about this

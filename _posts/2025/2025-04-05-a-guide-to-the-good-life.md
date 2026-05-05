@@ -1,9 +1,8 @@
 ---
-
 layout: post
 date: 2025-04-05
 link: https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life
-title:  A Guide to the Good Life - The Ancient Art of Stoic Joy
+title: A Guide to the Good Life - The Ancient Art of Stoic Joy
 type: linked
 cited: William B. Irvine
 ---
@@ -61,7 +60,7 @@ We should distinguish between things we can control and things we can't, so that
 
 Finally we will become a more thoughtful observer of our own life, trying to identify the sources of distress in our life and thinking about how to avoid that distress.
 
-The practice of Stoicism doesn't require us to set aside blocks of time. It does require some periods of reflection but they can be fitted into odd moments  of the day like while being stuck in traffic, or lying in bed waiting for sleep to come.
+The practice of Stoicism doesn't require us to set aside blocks of time. It does require some periods of reflection but they can be fitted into odd moments of the day like while being stuck in traffic, or lying in bed waiting for sleep to come.
 
 On assessing the "costs" of practising Stoicism you should realise the costs associated with _not_ having a philosophy of life. The danger that you will spend your days pursuing valueless things and will therefore waste your life.
 
@@ -85,7 +84,7 @@ Philosophers acted as live-in tutors. Parents who would not afford a private tut
 
 Early Stoics were interested not only in philosophy of life, but in physics and logic as well, they though these areas of study were inherently entwined.
 
-There were other schools like the Cereniacs, that thought the grand goal in living was the experience of pleasure and therefore advocated taking advantage of every opportunity to experience it. Or the Cynics, who advocated for an ascetic lifestyle: If you want  good life, you must learn to want next to nothing. Stoics fell somewhere in between. **People should enjoy the good things life has to offer, including friendship and wealth, but ony if they did not cling to these good things.**
+There were other schools like the Cereniacs, that thought the grand goal in living was the experience of pleasure and therefore advocated taking advantage of every opportunity to experience it. Or the Cynics, who advocated for an ascetic lifestyle: If you want good life, you must learn to want next to nothing. Stoics fell somewhere in between. **People should enjoy the good things life has to offer, including friendship and wealth, but ony if they did not cling to these good things.**
 
 ### The first stoics
 

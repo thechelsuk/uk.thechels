@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-04-05
 link: https://www.inc.com/peter-economy/the-9-traits-that-define-great-leadership.html
@@ -16,7 +15,7 @@ There is a difference between management and employees, bosses and workers. Lead
 
 ## 2. Decisiveness
 
-All leaders must make tough decisions.  It goes with the job. They understand that in certain situations, difficult and timely decisions must be made in the best interests of the entire organization, decisions that require a firmness, authority, and finality that will not please everyone. Extraordinary leaders don't hesitate in such situations. They also know when not to act unilaterally but instead foster collaborative decision making.
+All leaders must make tough decisions. It goes with the job. They understand that in certain situations, difficult and timely decisions must be made in the best interests of the entire organization, decisions that require a firmness, authority, and finality that will not please everyone. Extraordinary leaders don't hesitate in such situations. They also know when not to act unilaterally but instead foster collaborative decision making.
 
 ## 3. Empathy
 

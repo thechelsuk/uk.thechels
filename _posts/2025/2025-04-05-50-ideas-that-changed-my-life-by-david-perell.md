@@ -1,13 +1,11 @@
 ---
-
 layout: post
 date: 2025-04-05
 link: https://www.defmacro.org/2014/10/03/engman.html
-title:  50 ideas that changed my life - By David Perell
+title: 50 ideas that changed my life - By David Perell
 
 type: blog
 ---
-
 
 These are my guiding principles and the light of my intellectual life. All of them will help you think better, and I hope they inspire curiosity.
 
@@ -29,7 +27,7 @@ These are my guiding principles and the light of my intellectual life. All of th
 
 9. Competition is for Losers: Avoid competition. Stop copying what everybody else is doing. If you work at a for-profit company, work on problems that would not otherwise be solved. If you’re at a non-profit, fix unpopular problems. Life is easier when you don’t compete. (Hint: don’t start another bottled water company).
 
-10. Secrets are Hidden in Plain Sight:  Most people think of secrets as Easter eggs. They assume that if a secret is important, it’s necessarily going to be hard to find. The best ideas can come from things that are so well-known that they aren’t well-seen.
+10. Secrets are Hidden in Plain Sight: Most people think of secrets as Easter eggs. They assume that if a secret is important, it’s necessarily going to be hard to find. The best ideas can come from things that are so well-known that they aren’t well-seen.
 
 11. The Never-Ending Now: The structure of our social media feeds blinds us to history, as it causes us to live in an endless cycle of ephemeral content consumption. The structure of the Internet pulls people away from age-old wisdom.
 

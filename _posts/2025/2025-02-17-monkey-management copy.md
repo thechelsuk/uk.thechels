@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-02-17
 title: Monkey Management
@@ -33,7 +32,7 @@ A manager’s job is to develop employees, create opportunities, remove obstacle
 
 Benefits of proper monkey management include:
 
-1) effective use of manager’s time
-2) increased employee problem-solving skills
-3) increased organizational problem-solving capacity
-4) greater employee job satisfaction
+1. effective use of manager’s time
+2. increased employee problem-solving skills
+3. increased organizational problem-solving capacity
+4. greater employee job satisfaction

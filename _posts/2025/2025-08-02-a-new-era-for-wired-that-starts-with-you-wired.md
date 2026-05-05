@@ -1,5 +1,4 @@
 ---
-
 date: 2025-08-02
 title: "A New Era for WIRED — That Starts With You"
 link: https://www.wired.com/story/a-new-era-for-wired-that-starts-with-you/
@@ -7,7 +6,6 @@ seo: "More ways to enjoy WIRED - journalism, including premium newsletters and l
 tags:
 type: linked
 cited: Katie Drummond (Wired)
-
 ---
 
 > here are so many reasons to be excited about WIRED’s future. But it’s important to recognize that we’re doing this work within an information ecosystem that’s transforming before our eyes: The platforms on which outlets like WIRED used to connect with readers, listeners, and viewers are failing in real time; Facebook traffic disappeared years ago, and now Google Search is dwindling as the company reorients users to rely on AI Overviews instead of links to credible publishers. More and more users are also skipping Google altogether, opting to use chatbots like ChatGPT or Claude to find information they once relied on news outlets for. Meanwhile, AI-generated slop and mis- and disinformation are seeping into the internet’s every pore, polluting social media feeds and drowning out news and human-driven storytelling.

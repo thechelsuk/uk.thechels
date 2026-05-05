@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-04-09 02:07
 title: £400 plug-in solar panels to be sold in UK
 link: https://inews.co.uk/news/politics/400-plug-solar-panels-lidl-cut-energy-bills-4312651
 type: linked
 cited: The I
-
 ---
 
 Interesting, might be worth some to go on the garden shed.

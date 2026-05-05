@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-03-11
 link: https://castro.fm/blog/pod-seek
 title: Pod Seek is a new product by Castro
 type: linked
 cited: Castro
-
 ---
 
 I've given this a go and have found a couple of new podcasts to subscribe to. I appreciate keeping Castro "pure" and this experiment being adjacent to the app I love.

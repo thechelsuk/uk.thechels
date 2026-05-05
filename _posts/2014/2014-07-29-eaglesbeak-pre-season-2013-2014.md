@@ -5,7 +5,7 @@ link: https://theeaglesbeak.com/2014/08/08/view-from-the-opposition-part-1/
 type: linked
 cited: Jay Crame
 tag:
- - chelsea
+  - chelsea
 ---
 
 Palace surprised many teams with their good run of form under Pulis and won over plenty of opposition fans and neutrals with their result especially the win over Chelsea and the comeback draw against Liverpool. But those highlights on what was a fantastic season for the Eagles will be forgotten as the new season begins.

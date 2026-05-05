@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-04-22 10:52
 title: CFCW Players Letter
 link: https://www.chelseafc.com/en/cfcw-players-letter
 cited: Chelsea FC Women
 type: linked
-
 ---
 
 From Staines to The Bridge, via Kingsmeadow.
@@ -35,6 +33,6 @@ From Staines to The Bridge, via Kingsmeadow.
 >
 > _Women's football was first played at Stamford Bridge in 1920. Fifty years later, Chelsea Ladies were born._
 >
-> _The team's rebirth in 1992 put us on the path to the present day, and without the courage and sacrifices of  those trailblazers, we would not be able to take this next important step._
+> _The team's rebirth in 1992 put us on the path to the present day, and without the courage and sacrifices of those trailblazers, we would not be able to take this next important step._
 >
 > _But while we honour the past, it's the future that we as players must focus on. And you have our word that, as a squad, we'll do all we can to create memories and celebrate further successes (alongside you) at our new home._

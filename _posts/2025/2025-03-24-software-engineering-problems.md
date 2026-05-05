@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-03-24
 title: Software Engineering Problems

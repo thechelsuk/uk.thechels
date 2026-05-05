@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-03-17
 link: https://apenwarr.ca/log/20260316
 title: Every layer of review makes you 10x slower
 type: linked
 cited: Apenwarr
-
 ---
 
 That's because most teams are doing engineering wrong.

@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2022-05-01
 link: https://www.macstories.net/ios/setting-up-a-custom-domain-for-icloud-email/
 title: Setting Up a Custom Domain for iCloud Email - MacStories
 type: linked
 cited: Macstories
-
 ---
 
 This post published during the beta phase talks about rough edges and and I've tried setting this up. But the three address limit is the blocker for me. I use over 125 different addresses.

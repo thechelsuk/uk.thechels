@@ -1,19 +1,17 @@
 ---
-
 layout: post
 date: 2026-03-15
 link: https://jazzband.co/news/2026/03/14/sunsetting-jazzband
 title: Sunsetting Jazzband in the Slopocalypse
 type: linked
 cited: Jannis Leidel
-
 ---
 
 Pull Requests were invented for open source to manage the contributions of outsiders - a gate to accept or decline contributions of eager supporters or devs.
 
 Actual teams should be doing trunk-based development, with one-piece flow so PRs are only really a trigger for some automation or for teams that are too large.
 
-GitHub's kill switch whilst pushing Copilot everywhere is an interesting choice. I'm  not sure what the answer is, other than devs or wannabe devs have respect for the rules of engagement; contributing or code of conduct docs. But I wonder how many are fake accounts from state sponsored actors to try and push backdoors by overloading on the noise vs signal. Almost psychological warfare by overwhelm.
+GitHub's kill switch whilst pushing Copilot everywhere is an interesting choice. I'm not sure what the answer is, other than devs or wannabe devs have respect for the rules of engagement; contributing or code of conduct docs. But I wonder how many are fake accounts from state sponsored actors to try and push backdoors by overloading on the noise vs signal. Almost psychological warfare by overwhelm.
 
 Engineering might be dead, at least for the open source community, yet I still find AI useful for small and simple changes I cannot remember how to do. It has value but not at this extreme.
 

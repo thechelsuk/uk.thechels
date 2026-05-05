@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-04-04 10:00
 link: https://www.skysports.com/football/news/11095/13527282/champions-league-uefa-backs-officials-after-chelseas-sonia-bompastor-criticism-following-exit-to-arsenal
 title: UEFA backs officials after Chelsea's Sonia Bompastor criticism
 type: linked
 cited: Sky Sports
-
 ---
 
 Oddly the BBC match report suggested McCabe picked up a yellow card for the hair pull, She did not. It was not even a free kick. They implied a "should it have been a card" as if it was debatable. Whilst previously they [reported](https://www.bbc.co.uk/sport/football/articles/cly9z2wlvqwo) about a hair pull in the men's game and explained how it's not explicitly called out in the rules but it _is_ categorised as violent conduct which is a red card.

@@ -1,6 +1,6 @@
 ---
 layout: empty
-title:  NetNewsWire theme for thechelsuk V1
+title: NetNewsWire theme for thechelsuk V1
 date: 2026-03-19
 tag:
 type: rss

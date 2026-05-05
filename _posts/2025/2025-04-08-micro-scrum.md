@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-04-08
 link: https://meiert.com/en/blog/micro-scrum/
 title: Micro-Scrum - Simplified Agile Framework Approach
 type: linked
 cited: Jens Oliver Meiert
-
 ---
 
 > Imagine you worked like this:

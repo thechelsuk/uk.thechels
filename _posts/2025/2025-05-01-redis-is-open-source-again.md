@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-05-01
 link: https://redis.io/blog/redis-8-ga/
 title: Redis is Open Source again
 type: linked
 cited: Redis
-
 ---
 
 Redis 8 is now GA, loaded with new features and more than 30 performance improvements

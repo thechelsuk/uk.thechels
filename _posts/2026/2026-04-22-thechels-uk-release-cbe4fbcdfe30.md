@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2026-04-22'
+date: "2026-04-22"
 title: Thechels.uk Version 2.0.0
 type: release
 cited: github

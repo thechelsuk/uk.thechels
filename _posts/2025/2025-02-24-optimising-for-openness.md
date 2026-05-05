@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-02-24
 title: Optimising for Openness and Transparency

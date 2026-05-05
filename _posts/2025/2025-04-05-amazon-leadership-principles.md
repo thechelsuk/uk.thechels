@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-04-05
 link: https://www.amazon.jobs/content/en/our-workplace/leadership-principles
@@ -33,7 +32,7 @@ We use our Leadership Principles every day, whether we’re discussing ideas for
 ## Hire and Develop the Best
 
 - Leaders raise the performance bar with every hire and promotion. They recognize exceptional talent, and willingly move them throughout the organization. Leaders develop
-leaders and take seriously their role in coaching others. We work on behalf of our people to invent mechanisms for development like Career Choice.
+  leaders and take seriously their role in coaching others. We work on behalf of our people to invent mechanisms for development like Career Choice.
 
 ## Insist on the Highest Standards
 

@@ -17,8 +17,8 @@ Sunday was an early 9 mile long run, having been woken up by the daughter before
 
 Overall I'm happy with the mileage this week, but work/life/running balance has been hard the last couple of weeks.
 
-* 5 miles - commute
-* 2.3 miles - errands and commute
-* 1.2 miles - commute
-* 7.7 miles - 2.5 warmup, 3.1 ParkRun, 2 cooldown
-* 9 miles - long run
+- 5 miles - commute
+- 2.3 miles - errands and commute
+- 1.2 miles - commute
+- 7.7 miles - 2.5 warmup, 3.1 ParkRun, 2 cooldown
+- 9 miles - long run

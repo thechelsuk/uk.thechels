@@ -1,9 +1,8 @@
 ---
-
 layout: post
 date: 2025-04-05
 link: https://www.defmacro.org/2014/10/03/engman.html
-title:  44 engineering management lessons
+title: 44 engineering management lessons
 type: linked
 cited: Slava Akhmechet
 ---

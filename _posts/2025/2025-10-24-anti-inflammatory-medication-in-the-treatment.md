@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-10-24
 link: https://meassociation.org.uk/2025/10/new-study-on-the-effectiveness-of-an-anti-inflammatory-medication-in-the-treatment-of-long-covid/
 title: Anti inflammatory medication in the treatment
 type: linked
 cited: ME Association
-
 ---
 
 > Research evidence indicates that following an infection there may be on-going over-activity of the immune system occurring in both ME/CFS and Long Covid.

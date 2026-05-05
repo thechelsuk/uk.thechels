@@ -1,10 +1,8 @@
 ---
-
 layout: post
 date: 2026-03-08
 title: Public TestFlights
 type: rss
-
 ---
 
 My iOS apps gave public TestFlights open. If you want to try them out, just click the links below on your iOS device and follow the prompts to install the TestFlight app and then the app itself.

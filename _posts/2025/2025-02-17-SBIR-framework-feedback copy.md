@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-02-17
 title: SBIR Framework for giving positive feedback

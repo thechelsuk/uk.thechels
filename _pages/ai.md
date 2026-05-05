@@ -3,7 +3,6 @@ layout: pages
 title: AI - Statement on Usage
 seo: Statement on AI usage
 permalink: /ai
-
 ---
 
 Due to my [disability](/disability) I have become more reliant on AI to help support me in maintaining my online presence and this website, my public second brain.

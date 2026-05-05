@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-11-30
 link: https://lethain.com/good-eng-mgmt-is-a-fad/
 title: Good engineering management is a fad
 type: linked
 cited: Will Larson (Lethain)
-
 ---
 
 > Having been and worked with engineering managers for some time, I think there are eight foundational engineering management skills, which I want to personally group into two clusters: core skills that are essential to operate in all roles (including entry-level management roles), and growth skills whose presence--or absence--determines how far you can go in your career.

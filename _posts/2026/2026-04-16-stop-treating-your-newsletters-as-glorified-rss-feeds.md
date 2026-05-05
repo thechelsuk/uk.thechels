@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-04-16 04:22
 title: Stop treating your newsletters as glorified RSS feeds
 link: https://simonowens.substack.com/p/stop-treating-your-newsletters-as
 type: linked
 cited: Simon Owens
-
 ---
 
 Generally good advice, but in defence of RSS feeds, one can create them so that they contain more than just a link to the source, of course. Subscribe to find out.

@@ -5,7 +5,6 @@ type: linked
 cited: Terry Godier
 link: https://www.terrygodier.com/body-language/ascii
 tags: [ME]
-
 ---
 
 On the flip side to Terry Godier's recent post about the (body) language of communication, where the time is on the creation. People need time on receipt to understand, contemplate, and act. If the outcome is to act and the action is to reply, then the clock restarts.
@@ -20,10 +19,9 @@ AI could be helpful in this way, the conduit.
 
 > A letter, hand-written, sealed, carried by horse or ship, might take weeks to arrive. The writer knew this. They wrote with that delay in mind, which meant they wrote with a kind of weight. You didn't waste a letter. You composed it. You considered what the reader would need to know by the time it arrived, what context might have shifted, what they might have already heard. The delay was a constraint, and constraints produce thought.
 >
->
 > - Letter ─────────── days to weeks
 > - Telegram ────────── hours
-> - Telephone ─────────  instant (bounded)
+> - Telephone ───────── instant (bounded)
 > - Email ───────────── minutes
 > - Text ────────────── seconds
 > - AI reply ────────── before you've finished thinking

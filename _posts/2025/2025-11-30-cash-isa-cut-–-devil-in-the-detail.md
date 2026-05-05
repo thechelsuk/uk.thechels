@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-11-30
 link: https://ifamagazine.com/cash-isa-cut-update-from-jason-hollands-on-the-devil-in-the-detail/
 title: Cash ISA cut – devil in the detail
 type: linked
 cited: IFA Magazine
-
 ---
 
 Cash for fees, money market funds?

@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-03-08
 link: https://pluralistic.net/2026/03/07/reader-mode/
 title: The web is bearable with RSS
 type: linked
 cited: Cory Doctorow
-
 ---
 
 RSS is also a huge thing for accessibility, flashing adverts, cookie banners, auto playing videos, large images and bundles and bundles and bundles and bundles and bundles of unnecessary JavaScript can all be put to one side and the true value in the words written come to the fore.

@@ -2,11 +2,11 @@
 layout: post
 title: Eaglesbeak - The Chelsea View 2015
 tag:
- - chelsea
+  - chelsea
 type: blog
 ---
 
- It does not seem too long ago that we were looking forward to a trip to Chelsea but regardless, we had a chat with Chelsea Stats to find out their hopes for the season.
+It does not seem too long ago that we were looking forward to a trip to Chelsea but regardless, we had a chat with Chelsea Stats to find out their hopes for the season.
 
 #### Q. What were your hopes and dreams for the season before a ball was kicked?
 
@@ -28,7 +28,7 @@ Salah is a problem, because of his attitude and his falling out with Fiorentina.
 
 Cuadrado has struggled a bit and probably just needs more time to adapt to a different league, culture, and club. He has made some bad errors but also looked good in moments. A loan move and regular minutes will aid him, he is always going to be behind Willian, Hazard, Oscar and now Pedro in the pecking order and with Traore and Kenedy hanging around the first team too he is unlikely to play much at all for us. I think his purchase was a bit of a panic move with Moses not coming back from Stoke, Salah going out on loan and lacking a bit of depth. At the time of writing it looks like he is going on loan to Juventus.
 
-#### Q. Is there a feeling that you are better placed to challenge in the  Champions League this season?
+#### Q. Is there a feeling that you are better placed to challenge in the Champions League this season?
 
 I think so, we just seemed to run out of steam against Paris Saint Germain last season and could not snap out of it and see off the ten men. It happens sometimes against ten when you get ahead and drop your levels and struggle to recover. We had a couple of poor results last season too and they can be explained but it is just the natural variation in football. I would expect us to get to the semi-finals, but it also depends on the draw, if we get a bit of luck we could make the final. Anything can happen then.
 

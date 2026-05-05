@@ -6,8 +6,7 @@ tags:
 type: blog
 ---
 
-
-Cycle time is the average amount of time a team needs from the moment they pull a piece of work until it is ready to be implemented.  The metric is calculated using the following formula
+Cycle time is the average amount of time a team needs from the moment they pull a piece of work until it is ready to be implemented. The metric is calculated using the following formula
 
 Average Cycle Time = Sum(UoW Complete Date – UoW Start Date)/ (Total Completed Number of UoW)
 

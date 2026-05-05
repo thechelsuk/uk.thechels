@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2022-05-01
 link: https://blog.cloudflare.com/email-routing-insights/
 title: Email Routing Insights
 type: linked
 cited: Cloudflare
-
 ---
 
 Big fan of Cloudflare, they continue to enhance features on the free tier.

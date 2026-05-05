@@ -1,4 +1,5 @@
 <!-- markdownlint-disable MD033 -->
+
 # Site
 
 A blog hosted on GitHub is available at TheChels.uk. The site uses Jekyll, a static site generator, on Ruby. DNS and SSL by Cloudflare. It also uses GitHub actions, GitHub issues, and Python for extensive automation.
@@ -10,24 +11,26 @@ due to the likelihood, I will have an inconsistent and irregular cadence for pos
 
 <details><summary><code>Quality Control</code></summary>
 
-  [![Run tests](https://github.com/thechelsuk/uk.thechels/actions/workflows/python-ci.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/python-ci.yml)
-  [![CodeQL](https://github.com/thechelsuk/uk.thechels/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/codeql-analysis.yml)
-  [![Lighthouse](https://github.com/thechelsuk/uk.thechels/actions/workflows/lighthouse.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/lighthouse.yml)
-  [![Link Checker](https://github.com/thechelsuk/uk.thechels/actions/workflows/link-checker.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/link-checker.yml)
-  [![Linter](https://github.com/thechelsuk/uk.thechels/actions/workflows/linter.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/linter.yml)
-  [![Clear Cache](https://github.com/thechelsuk/uk.thechels/actions/workflows/clear-cache.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/clear-cache.yml)
-  [![Pages](https://github.com/thechelsuk/uk.thechels/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/pages/pages-build-deployment)
+[![Run tests](https://github.com/thechelsuk/uk.thechels/actions/workflows/python-ci.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/python-ci.yml)
+[![CodeQL](https://github.com/thechelsuk/uk.thechels/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/codeql-analysis.yml)
+[![Lighthouse](https://github.com/thechelsuk/uk.thechels/actions/workflows/lighthouse.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/lighthouse.yml)
+[![Link Checker](https://github.com/thechelsuk/uk.thechels/actions/workflows/link-checker.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/link-checker.yml)
+[![Linter](https://github.com/thechelsuk/uk.thechels/actions/workflows/linter.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/linter.yml)
+[![Clear Cache](https://github.com/thechelsuk/uk.thechels/actions/workflows/clear-cache.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/clear-cache.yml)
+[![Pages](https://github.com/thechelsuk/uk.thechels/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/pages/pages-build-deployment)
+
 </details>
 
 <details><summary><code>Content Management</code></summary>
 
-  [![Add Book](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-book.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-book.yml)
-  [![Add Film](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-film.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-film.yml)
-  [![Add Offers](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-offers.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-offers.yml)
-  [![Add Post](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-post.yml/badge.svg?event=issues)](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-post.yml)
-  [![Add Podcast](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-podcast.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-podcast.yml)
-  [![Add Quotes](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-quotes.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-quotes.yml)
-  [![Add Stock](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-stock.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-stock.yml)
+[![Add Book](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-book.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-book.yml)
+[![Add Film](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-film.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-film.yml)
+[![Add Offers](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-offers.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-offers.yml)
+[![Add Post](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-post.yml/badge.svg?event=issues)](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-post.yml)
+[![Add Podcast](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-podcast.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-podcast.yml)
+[![Add Quotes](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-quotes.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-quotes.yml)
+[![Add Stock](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-stock.yml/badge.svg)](https://github.com/thechelsuk/uk.thechels/actions/workflows/add-stock.yml)
+
 </details>
 
 ## Configuration
@@ -38,19 +41,20 @@ There are several optional settings for you to configure. Use the example `_conf
 
 ### Using includes
 
-  There are 2 main includes: one for the header and one for the footer, largely to minimise repetition.
+There are 2 main includes: one for the header and one for the footer, largely to minimise repetition.
 
 ### Using layouts
 
-  Layouts are almost one-to-one with pages, handling any page specifics. `post.html` is the layout used for every blog post. There are also default templates and an empty template used for `scss` and other special pages such as `humans.txt`
+Layouts are almost one-to-one with pages, handling any page specifics. `post.html` is the layout used for every blog post. There are also default templates and an empty template used for `scss` and other special pages such as `humans.txt`
 
 ### Using Data
 
-  Data files power many aspects of the site and these are updated via issues and GitHub Actions.
+Data files power many aspects of the site and these are updated via issues and GitHub Actions.
 
 ### Site navigation
 
-  Using configuration yml, navigation is provided by three collections for `header`, `footer`, and `around_the_web` (on the about page) and are fairly self-explanatory.
+Using configuration yml, navigation is provided by three collections for `header`, `footer`, and `around_the_web` (on the about page) and are fairly self-explanatory.
+
 </details>
 
 ## Post Types
@@ -92,27 +96,27 @@ There are several optional settings for you to configure. Use the example `_conf
 
 - Clone the repository:
 
-   ```bash
-   git clone https://github.com/thechelsuk/uk.thechels.git
-   ```
+  ```bash
+  git clone https://github.com/thechelsuk/uk.thechels.git
+  ```
 
 - Navigate into the project directory:
 
-   ```bash
-   cd uk.thechels
-   ```
+  ```bash
+  cd uk.thechels
+  ```
 
 - Install the required dependencies:
 
-   ```bash
-   bundle install
-   ```
+  ```bash
+  bundle install
+  ```
 
 - Build and serve the site locally:
 
-   ```bash
+  ```bash
   bash run.sh
-   ```
+  ```
 
 - Open your browser and go to `http://localhost:4000` to see your site.
 

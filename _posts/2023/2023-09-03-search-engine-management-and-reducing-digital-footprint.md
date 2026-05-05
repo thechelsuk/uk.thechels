@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2023-09-03
 title: Search Engine Management and Reducing Digital Footprint

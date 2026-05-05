@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2022-05-06
 link: https://sifted.eu/articles/developer-productivity-top-priority/
 title: Here's how to make dev productivity a top priority
 type: linked
 cited: Sifted EU
-
 ---
 
 Weird article about dev productivity and basically using scrum velocity and burn downs (which can be gamed easily) and then small pods and individual ownership. Not sure how sustainable this is.

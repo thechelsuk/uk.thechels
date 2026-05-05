@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-02-16
 link: https://www.palomamedina.com/biceps
 title: BICEP core needs
 type: linked
 cited: Paloma Medina
-
 ---
 
 The bicep model is created by Paloma Medina as a way of grouping themes of core needs of humans in to six. Each individual will value them differently. Getting to know them is a shortcut to better communication, as well as greater inclusivity at work.

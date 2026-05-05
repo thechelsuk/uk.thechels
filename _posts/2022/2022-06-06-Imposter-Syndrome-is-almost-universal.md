@@ -14,7 +14,7 @@ I was chatting to a friend today about their fear. They have progressed in the o
 
 The truth is somewhere in between, and like most things; it depends.
 
-My friend, had received performing or outstanding annual reviews for years. I probed "So do you rate your managers over that time".  "Well yes, most of them" was the reply. "You cannot be doing badly then, or someone would have said something, so crack on" was my reply. If you trust your management, and those involved in your employment/promotion then consider that IS suggests you have some how convinced them and managed to hide the fact you are a “fraud” from them and potentially for years. Logically that just isn’t likely.
+My friend, had received performing or outstanding annual reviews for years. I probed "So do you rate your managers over that time". "Well yes, most of them" was the reply. "You cannot be doing badly then, or someone would have said something, so crack on" was my reply. If you trust your management, and those involved in your employment/promotion then consider that IS suggests you have some how convinced them and managed to hide the fact you are a “fraud” from them and potentially for years. Logically that just isn’t likely.
 
 I've suffered with IS throughout my dev career, largely based on not being a nerd (I like football more than I like understanding how threading works, I like two-by-two magic frameworks/grids more than I look at binaries, threading, or what’s on the heap. I don't have a computer science background or a degree. Yet somehow I've made it to head of engineering in one organisation with 4 promotions in that time, and now I'm an engineering manager at a really exciting FinTech.
 

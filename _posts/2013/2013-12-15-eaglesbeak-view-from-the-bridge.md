@@ -5,7 +5,7 @@ type: linked
 cited: Jay Crame
 link: https://theeaglesbeak.com/2013/12/17/predictions-league-4/
 tag:
- - chelsea
+  - chelsea
 ---
 
 > Ahead of the game at Chelsea this weekend we held a question and answer session with our friends at Chelsea Stats and here is what they told us.
@@ -50,4 +50,4 @@ TEB. Palace pass the ball around well, look composed in possession whilst not sh
 
 TEB. And finally, your prediction for this one?
 
-> CS. We’ll concede, that seems inevitable at the moment, but I think some players will have a point to prove and if our striker on the day fancies it, we could roll out  five or six , but I think it will be 2-1 until twenty to go and  we’ll kill the game late on 4-1.
+> CS. We’ll concede, that seems inevitable at the moment, but I think some players will have a point to prove and if our striker on the day fancies it, we could roll out five or six , but I think it will be 2-1 until twenty to go and we’ll kill the game late on 4-1.

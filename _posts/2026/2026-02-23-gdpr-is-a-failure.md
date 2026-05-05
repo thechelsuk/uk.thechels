@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-02-23
 link: https://nikolak.com/gdpr-failure/
 title: GDPR is a failure
 type: linked
 cited: Nikolak
-
 ---
 
 > A company can list an email address as their official GDPR contact in their privacy policy, and if their own spam filter eats your request, it legally never happened. There is no obligation to check. There is no obligation to ensure delivery. The burden is entirely on you to prove they received it.

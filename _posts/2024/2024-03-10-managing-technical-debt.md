@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2024-03-10
 link: https://jacobian.org/2023/dec/20/tech-debt/
 title: Managing Technical Debt
 type: linked
 cited: Jacob Kaplan-Moss
-
 ---
 
 > But once you find yourself with those customers and that creaky codebase … what next? How do you start to pay down that debt? Here’s my playbook for managing tech debt:

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2025-02-18
 title: Four Fixations of a Brilliant Leader
@@ -47,7 +46,7 @@ This is split in to 3 sections.
 
 - Investment in teamwork - equalising airtime of different group members, facilitating dialogue between them to enable sight of connections and similarities of their ideas.
 - Building a climate of trust, understanding, and openness. One in which people are valued for saying what they really think without the fear of criticism, judgement, nor punishment.
-- Developing capabilities of people -  The role of the leader is to build that environment and to create way for others to coach, mentor, train, and provide recognition and vie constructive performance feedback.
+- Developing capabilities of people - The role of the leader is to build that environment and to create way for others to coach, mentor, train, and provide recognition and vie constructive performance feedback.
 
 ## Action
 

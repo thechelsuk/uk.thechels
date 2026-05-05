@@ -3,7 +3,6 @@ title: We need to talk
 layout: post
 date: 2022-06-06
 type: blog
-
 ---
 
 I’m a middle-aged white male of British descent. I am privileged. And I know it. I’m liberal, I’m open, I’m honest and I say what I think. I listen and I’m always learning and I have worked in the technology industry for over 15 years now.

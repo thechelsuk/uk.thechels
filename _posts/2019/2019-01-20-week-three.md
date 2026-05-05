@@ -20,7 +20,7 @@ Sunday long run was 9.2 miles and due to a planned day out with the extended fam
 
 Overall happy with the mileage, but could of hit over 32 if I had an earlier night on Friday.
 
-* 7.1 miles - easy run commute
-* 3.2 miles - easy run commute
-* 7.9 miles - track session with warm-up/cool down
-* 9.2 miles - Long run
+- 7.1 miles - easy run commute
+- 3.2 miles - easy run commute
+- 7.9 miles - track session with warm-up/cool down
+- 9.2 miles - Long run

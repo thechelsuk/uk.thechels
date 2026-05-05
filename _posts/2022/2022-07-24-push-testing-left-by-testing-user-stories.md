@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2022-07-24
 link: https://callumakehurstryansblog.wordpress.com/2022/07/01/video-push-testing-left-by-testing-user-stories/
 title: Push testing left by testing user stories
 type: linked
 cited: Callum Akehurst-Ryan
-
 ---
 
 Video –

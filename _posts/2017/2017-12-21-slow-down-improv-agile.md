@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Slow down in scrum
+title: Slow down in scrum
 tag:
 
 type: blog

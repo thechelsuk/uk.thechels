@@ -6,7 +6,6 @@ date: 2026-04-10
 type: ways
 pinned: true
 class: indie
-
 ---
 
 Ways are a slash pages format for documenting processes, workflows, and procedures. They are designed to be easy to read and follow, on how to do things. They happen to include a link to the official manual or service where possible, but there should be enough detail to follow steps without needing to click through.
@@ -14,18 +13,18 @@ Ways are a slash pages format for documenting processes, workflows, and procedur
 1. Create a new markdown file in the `_posts/[year]` directory. The filename should be descriptive of the process you are documenting, for example `yyyy-mm-dd-how-to-use-ways.md`.
 2. Start the file with the following front matter:
 
-    ```markdown
-    ---
-    layout: post
-    title: How to use ways
-    seo: Ways - A guide to using ways
-    type: ways
-    permalink: /how-to-use-ways/
-    date: 2026-04-10
-    pinned: true/false
-    class: indie
-    ---
-    ```
+   ```markdown
+   ---
+   layout: post
+   title: How to use ways
+   seo: Ways - A guide to using ways
+   type: ways
+   permalink: /how-to-use-ways/
+   date: 2026-04-10
+   pinned: true/false
+   class: indie
+   ---
+   ```
 
 3. Customize the front matter with the appropriate title, SEO description, type, permalink, and date for your specific way.
 4. Use pinned as true if you want the way to be featured at the top of the ways archive page, otherwise set it to false or omit it.

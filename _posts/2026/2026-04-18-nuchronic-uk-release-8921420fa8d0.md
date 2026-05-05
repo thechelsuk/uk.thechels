@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2026-04-18'
+date: "2026-04-18"
 title: Nuchronic.uk Version 1.0.0
 type: release
 link: https://github.com/thechelsuk/uk.nuchronic/releases/tag/1.0.0

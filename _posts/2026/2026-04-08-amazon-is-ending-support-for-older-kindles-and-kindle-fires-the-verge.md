@@ -1,6 +1,4 @@
 ---
-
-
 title: "Amazon is ending support for older Kindles and Kindle Fires"
 type: linked
 cited: The Verge

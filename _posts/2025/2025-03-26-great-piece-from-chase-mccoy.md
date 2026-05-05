@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-03-26
 link: https://notes.jim-nielsen.com/#2025-03-24T2151
 title: Great piece from Chase McCoy
 type: linked
 cited: Jim Nielsen
-
 ---
 
 > The rise of graph and database-like features in popular tools like Notion or Obsidian is a sign that the simple filesystem has failed us. And that failure has pushed us towards other solutions which require sacrificing ownership of our data.

@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-11-30
 link: https://kottke.org/25/11/meet-the-aphantasics-those-who-cant-see-mental-images
 title: Aphantasics - Those Who Can’t See Mental Images
 type: linked
 cited: Jason Kottke
-
 ---
 
 Huh, so I've had this thing in the back of my mind for a lifetime where I have little interest in seeing things in real life such as going on safari as I know what an elephant looks like, and can picture it in its context.

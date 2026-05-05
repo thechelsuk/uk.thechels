@@ -18,10 +18,15 @@ Use the following markdown syntax to create headings:
 
 ```markdown
 # Heading 1
+
 ## Heading 2
+
 ### Heading 3
+
 #### Heading 4
+
 ##### Heading 5
+
 ###### Heading 6
 ```
 
@@ -58,24 +63,24 @@ This is the second paragraph.
 You can add emphasis by making text bold or italic. Use with caution and in limited fashion. Don't use `bold` for headings, it's not semantic. By using both bold and italics together you can create a callout block style which is used for important notes or warnings.
 
 - **Bold**: `**bold text**` or `__bold text__`
-- *Italic*: `*italic text*` or `_italic text_`
-- ***Bold and Italic***: `__*bold and italic*__` or `___bold and italic___`
+- _Italic_: `*italic text*` or `_italic text_`
+- **_Bold and Italic_**: `__*bold and italic*__` or `___bold and italic___`
 
 Example:
 
 ```markdown
 **This is bold text**
 
-*This is italic text*
+_This is italic text_
 
-***This is bold and italic text***
+**_This is bold and italic text_**
 ```
 
 **This is bold text**
 
-*This is italic text*
+_This is italic text_
 
-***This is bold and italic text***
+**_This is bold and italic text_**
 
 ## Lists
 
@@ -88,8 +93,8 @@ Example:
 ```markdown
 - Item 1
 - Item 2
-    - Subitem 1
-    - Subitem 2
+  - Subitem 1
+  - Subitem 2
 ```
 
 - Item 1
@@ -106,14 +111,14 @@ Example:
 ```markdown
 1. First item
 2. Second item
-     1. Subitem 1
-     2. Subitem 2
+   1. Subitem 1
+   2. Subitem 2
 ```
 
 1. First item
 2. Second item
-     1. Subitem 1
-     2. Subitem 2
+   1. Subitem 1
+   2. Subitem 2
 
 ## Links
 
@@ -200,13 +205,13 @@ Example:
 
 ```markdown
 | Header 1 | Header 2 |
-|----------|----------|
+| -------- | -------- |
 | Row 1    | Data 1   |
 | Row 2    | Data 2   |
 ```
 
 | Header 1 | Header 2 |
-|----------|----------|
+| -------- | -------- |
 | Row 1    | Data 1   |
 | Row 2    | Data 2   |
 
@@ -247,8 +252,8 @@ Example:
    - Subitem 1
    - Subitem 2
 2. Second item
-   * Subitem 1
-   * Subitem 2
+   - Subitem 1
+   - Subitem 2
 ```
 
 1. First item
@@ -302,13 +307,13 @@ Example:
 > This is a blockquote
 > with a custom class
 > `secondary`.
-{: .secondary}
+> {: .secondary}
 ```
 
 > This is a blockquote
 > with a custom class
 > `secondary`.
-{: .secondary}
+> {: .secondary}
 
 ## Fonts
 
@@ -318,18 +323,12 @@ Example:
 
 ```html
 <ul>
-    <li>
-        <span class="font-stack">
-            This is the primary
-            font family.
-        </span>
-    </li>
-    <li>
-        <span class="font-mono">
-            This is the mono
-            font family.
-        </span>
-    </li>
+  <li>
+    <span class="font-stack"> This is the primary font family. </span>
+  </li>
+  <li>
+    <span class="font-mono"> This is the mono font family. </span>
+  </li>
 </ul>
 ```
 
@@ -356,18 +355,10 @@ Example:
 
 ```html
 <p>
-    <span class="primary">
-    This is primary text.
-    </span><br>
-    <span class="secondary">
-    This is secondary text.
-    </span><br>
-    <span class="link">
-    This is link text.
-    </span><br>
-    <span class="accent">
-    This is the accent color.
-    </span>
+  <span class="primary"> This is primary text. </span><br />
+  <span class="secondary"> This is secondary text. </span><br />
+  <span class="link"> This is link text. </span><br />
+  <span class="accent"> This is the accent color. </span>
 </p>
 ```
 

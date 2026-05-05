@@ -3,7 +3,6 @@ layout: pages
 title: Verify - Identity Verification and Authentication
 permalink: /verify
 seo: Verify Me
-
 ---
 
 This page serves as the system of record for my online identity. The best places to follow me are:

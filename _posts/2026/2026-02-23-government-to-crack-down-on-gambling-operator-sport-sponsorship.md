@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-02-23
 link: https://www.gov.uk/government/news/government-to-crack-down-on-gambling-operator-sport-sponsorship
 title: Government to crack down on gambling operator sport sponsorship
 type: linked
 cited: Gov.uk
-
 ---
 
 Good to know that during every sports game the 87 adverts from drug dealers are licensed and not some unlicensed or shady lobbying billionaire ruining lives type. Thanks Gov!

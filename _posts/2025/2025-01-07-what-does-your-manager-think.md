@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2025-01-07
 link: https://decodingyourmanager.substack.com/p/why-this-now
 title: What does your manager really mean?
 type: linked
 cited: Decoding Your Manager
-
 ---
 
 I’m at a stage in my career and life more generally, where I would like to help people - it’s that old cliché of giving back to the technology community.

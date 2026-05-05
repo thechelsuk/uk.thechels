@@ -25,7 +25,7 @@ First, ensure both domains are listed in your Cloudflare Dashboard under “Webs
 Next, for clients to attempt to resolve user requests, your alias domain (e.g. avg.name) must have some DNS records. Configure the alias domain with two CNAME records:
 
 - CNAME @ average.name – point root to the target domain
-- CNAME * average.name – point all subdomains to the target domain
+- CNAME \* average.name – point all subdomains to the target domain
 
 Finally, in the “Rules” section of your alias domain, find the “Redirect Rules” section. Create a rule as follows:
 

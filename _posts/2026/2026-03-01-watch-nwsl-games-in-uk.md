@@ -11,7 +11,7 @@ type: ways
 
 ---
 
-___Note: Account seems to support multiple logins and no limits on "active" so it appears possible to watch multiple games on multiple devices.___
+**_Note: Account seems to support multiple logins and no limits on "active" so it appears possible to watch multiple games on multiple devices._**
 
 ## In Browser
 

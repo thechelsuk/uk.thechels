@@ -1,10 +1,9 @@
 ---
 name: Add new workout
 about: Update list of workouts
-title: 'Add Workout'
-labels: 'workouts'
-assignees: '@Mat-0'
-
+title: "Add Workout"
+labels: "workouts"
+assignees: "@Mat-0"
 ---
 
 We really appreciate your contribution, to ensure your change gets accepted please follow and tick the checklist below.

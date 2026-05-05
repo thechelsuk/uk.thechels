@@ -4,7 +4,6 @@ title: Constraints - Design and Development Challenge Cards
 permalink: /constraints
 seo: constraint cards for designers and developers
 type: constraints
-
 ---
 
 I backed a Kickstarter years ago that delivered a set of playing card sized constraint cards. Made with the premise of picking a card at random and then using the constraint to inspire a design or development solution.

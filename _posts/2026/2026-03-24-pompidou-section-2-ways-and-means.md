@@ -1,10 +1,8 @@
 ---
-
 layout: post
 date: 2026-03-24
 title: Pompidou Section 2  - Ways and Means
 type: rss
-
 ---
 
 By adding a new collection called ways to my `_config.yml` and a `_ways` folder to my repo and ensuring it's included in the build. I have essentially added a different post type. Those familiar with WordPress will understand what this means. Effectively a new taxonomy for other content types.

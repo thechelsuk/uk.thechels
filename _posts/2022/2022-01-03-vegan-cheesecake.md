@@ -5,14 +5,14 @@ tag:
 type: blog
 ---
 
-* 150g Finger biscuits - crushed
-* 45g Dairy free spread - melted
-* 200g Dairy free chocolate - any variety
-* 2.5 tablespoons cornflour
-* 500g plain soya yoghurt
-* 45g soft brown sugar (leave out if using "milk" of white chocolate as contains enough sugar!)
-* 1 piece of stem ginger (or more, to taste)
-* 2 tablespoon of stem ginger syrup
+- 150g Finger biscuits - crushed
+- 45g Dairy free spread - melted
+- 200g Dairy free chocolate - any variety
+- 2.5 tablespoons cornflour
+- 500g plain soya yoghurt
+- 45g soft brown sugar (leave out if using "milk" of white chocolate as contains enough sugar!)
+- 1 piece of stem ginger (or more, to taste)
+- 2 tablespoon of stem ginger syrup
 
 ## Method
 

@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-01-30
 link: https://blog.mikeswanson.com/backseat-software/
 title: Backseat Software
 type: linked
 cited: Mike Swanson
-
 ---
 
 > What if your car worked like so many apps? You're driving somewhere important…maybe running a little bit late. A few minutes into the drive, your car pulls over to the side of the road and asks:

@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2022-05-02
 link: https://gizmodo.com/amazon-kindle-e-readers-will-now-convert-epub-to-kindle-1848867278?scrolla=5eb6d68b7fedc32c19ef33b4
 title: Amazon Kindle Will Now Convert EPUB to Kindle Format
 type: linked
 cited: Gizmodo
-
 ---
 
 Finally.

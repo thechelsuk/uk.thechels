@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2026-04-18'
+date: "2026-04-18"
 title: Boinc @ thechelsuk Version 1.0.0
 type: release
 link: https://github.com/thechelsuk/uk.thechels.boinc/releases/tag/1.0.0
