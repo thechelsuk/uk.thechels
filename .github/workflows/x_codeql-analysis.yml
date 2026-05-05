@@ -1,5 +1,5 @@
 ---
-name: "CodeQL"
+name: GH - CodeQL
 
 on:
     pull_request:

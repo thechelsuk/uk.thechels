@@ -1,5 +1,5 @@
 ---
-name: "Runner"
+name: Reusable Runner
 
 on:
     workflow_call:

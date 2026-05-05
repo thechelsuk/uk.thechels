@@ -1,5 +1,5 @@
 ---
-name: "Block Runner"
+name: Reusable Block Runner
 
 on:
   workflow_call:

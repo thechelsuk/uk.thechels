@@ -1,5 +1,5 @@
 ---
-name: Dependency Review
+name: GH - Dependency Review
 
 on:
     pull_request:

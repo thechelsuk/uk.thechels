@@ -1,4 +1,5 @@
-name: "Link Checker"
+---
+name: x - Link Checker
 
 on:
     workflow_dispatch:
