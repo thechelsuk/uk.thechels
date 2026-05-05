@@ -13,7 +13,7 @@ jobs:
         steps:
             - name: Match supported content label
               id: match
-              uses: actions/github-script@v8
+              uses: actions/github-script@v9
               with:
                   script: |
                       const supported = ['next', 'quotes', 'slogans', 'stocks', 'teams', 'workout'];
