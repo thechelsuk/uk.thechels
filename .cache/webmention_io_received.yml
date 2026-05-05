@@ -1807,3 +1807,39 @@
       // Published 2026-05-05, with 10 words. **</em> ???? Thanks for keeping RSS
       alive. If you have an RSS…</p>\n\n        \n        <p>Continue reading at <a
       href=\"https://thechels.uk/cf-worker-x-redirect-release-2ccbc7f48926\">thechels.uk</a>.</p>"
+"/2026-05-05-daily-rundown":
+  '1994592':
+    id: '1994592'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-05-c9a2e1f963/
+    source: false
+    pubdate: 2026-05-05 06:03:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-05-c9a2e1f963/
+      verified: true
+      verified_date: '2026-05-05T07:02:15+00:00'
+      id: 1994592
+      private: false
+      data:
+        author: &16
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-05-c9a2e1f963/
+        name: Daily - Daily Rundown for 2026-05-05
+        content: "<p>Good Morning, Here is your daily briefing… On Tuesday, 05 May
+          2026 The average temperature today is 8.05˚C, With highs of 9.97˚C and lows
+          of 7.6˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/2026-05-05-daily-rundown\">thechels.uk</a>.</p>"
+        published: '2026-05-05T05:03:00+00:00'
+        published_ts: 1777957380
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-05-c9a2e1f963/
+      target: https://thechels.uk/2026-05-05-daily-rundown
+    author: *16
+    type: link
+    title: Daily - Daily Rundown for 2026-05-05
+    content: "<p>Good Morning, Here is your daily briefing… On Tuesday, 05 May 2026
+      The average temperature today is 8.05˚C, With highs of 9.97˚C and lows of 7.6˚C,
+      It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-05-daily-rundown\">thechels.uk</a>.</p>"
