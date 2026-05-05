@@ -11,6 +11,7 @@ date: 2026-05-05
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Tuesday, 05 May 2026
 
 - The average temperature today is 8.05˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 4 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Recycling Waste Collection Day
 - Food Waste Collection Day
 
@@ -41,12 +44,15 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Know your users.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Manchester City U18 v Stoke City U18
 - Arsenal v AtlÃ©tico Madrid
 <!-- fixture_marker ends -->
@@ -55,21 +61,24 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 130.41000366210938 
-- ^FTSE : 10363.900390625 
-- ^FTMC : 22531.599609375 
+- VWRL.L : 130.41000366210938
+- ^FTSE : 10363.900390625
+- ^FTMC : 22531.599609375
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Still looking for a job, even the local bakery did not have a roll for me.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - HSBC profits hit by fraud-related credit losses (£, [48 minutes ago](https://www.ft.com/content/520cd091-d59e-4072-b4b2-879e2eb7b7a8))
 - Microsoft to stop taking reservations for 17 Azure VM flavours, kill 13 in 2028 (®, [1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/05/05/azure_reservations_end_old_vms/))
 - How Germany’s Merz torpedoed his plan to contain Trump (£, [2 hours ago](https://www.ft.com/content/2dd4b92c-4764-4bc5-a3a6-1418e0ccec58))
@@ -106,7 +115,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > querimonious - adjective: Habitually complaining; querulous; full of grievances.
+> querimonious - adjective: Habitually complaining; querulous; full of grievances.
 
 <!-- word_marker ends -->
 
@@ -121,6 +130,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Work at a different speed
 
 <!-- eno_marker ends -->
@@ -128,6 +138,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Paycheck (Rated: 4)
 - Released in 2003
 - Summary: A technical wizard learns that his memory has been erased.
@@ -151,6 +162,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Salma Alam-Naylor [URL](https://whitep4nth3r.com/) [Feed](https://whitep4nth3r.com/feed.xml)
 - MacStories [URL](https://www.macstories.net/) [Feed](https://www.macstories.net/feed/)
 - Anil Dash [URL](https://anildash.com/) [Feed](https://www.anildash.com/feed.xml)
