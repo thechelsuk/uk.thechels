@@ -14,15 +14,15 @@ The best way to get help is through the [GitHub issue tracker](https://github.co
 
 ### Documentation
 
-- **README** - Start with the [README.md](../README.md) for an overview of the project and how to get started.
-- **Contributing Guide** - If you want to contribute, review the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines.
-- **Code of Conduct** - All community interactions are governed by our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+- **README** - Start with the [README.md](https://github.com/thechelsuk/uk.thechels/README.md) for an overview of the project and how to get started.
+- **Contributing Guide** - If you want to contribute, review the [CONTRIBUTING.md](https://github.com/thechelsuk/uk.thechels/CONTRIBUTING.md) guidelines.
+- **Code of Conduct** - All community interactions are governed by our [CODE_OF_CONDUCT.md](https://github.com/thechelsuk/uk.thechels/CODE_OF_CONDUCT.md).
 
 ### Questions and Discussions
 
 For questions about the project:
 
-1. Check the [README](../README.md) for answers to common questions.
+1. Check the [README](https://github.com/thechelsuk/uk.thechels/README.md) for answers to common questions.
 2. Review existing [issues](https://github.com/thechelsuk/uk.thechels/issues) to see if your question has been answered.
 3. Open a new issue using the appropriate template if you can't find an answer.
 
@@ -40,24 +40,24 @@ We welcome feature requests! Please:
 
 1. Search existing issues to avoid duplicates.
 2. Open a new issue describing your feature idea and why it would be valuable.
-3. Follow the feature request guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+3. Follow the feature request guidelines in [CONTRIBUTING.md](https://github.com/thechelsuk/uk.thechels/CONTRIBUTING.md).
 
 ### Security Issues
 
-For security vulnerabilities, please follow our [Security Policy](SECURITY.md).
+For security vulnerabilities, please follow our [Security Policy](https://github.com/thechelsuk/uk.thechels/SECURITY.md).
 
 ## What to Expect
 
 This is a hobby project maintained by a single owner. While we appreciate all contributions and feedback:
 
 - Response times may vary depending on maintainer availability.
-- All actions are at the owner's discretion as outlined in the [Governance](GOVERNANCE.md) document.
+- All actions are at the owner's discretion as outlined in the [Governance](https://github.com/thechelsuk/uk.thechels/GOVERNANCE.md) document.
 - We strive to be responsive and helpful, but cannot guarantee immediate assistance.
 
 ## Additional Resources
 
 - [Project Website](https://thechels.uk)
 - [GitHub Repository](https://github.com/thechelsuk/uk.thechels)
-- [Funding Options](FUNDING.yml) - Support the project if you find it valuable
+- [Funding Options](https://github.com/thechelsuk/uk.thechels/FUNDING.yml) - Support the project if you find it valuable
 
 Thank you for being part of our community!

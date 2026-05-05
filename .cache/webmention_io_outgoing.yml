@@ -65,6 +65,7 @@ https://thechels.uk/new-beginnings:
   https://brid.gy/publish/mastodon: true
   https://brid.gy/publish/bluesky: true
   https://brid.gy/publish/reddit: true
+  https://github.com/thechelsuk: false
 https://thechels.uk/how-to-create-a-custom-issue-template-in-github:
   https://github.com/Mat-0: true
   https://github.com/Mat-0/Mat-0/issues/new/choose: true
@@ -73,6 +74,10 @@ https://thechels.uk/how-to-create-a-custom-issue-template-in-github:
   https://brid.gy/publish/mastodon: true
   https://brid.gy/publish/bluesky: true
   https://brid.gy/publish/reddit: true
+  https://github.com/thechelsuk: false
+  https://github.com/thechelsuk/uk.thechels/issues/new/choose: false
+  https://github.com/thechelsuk/uk.thechels/tree/main/.github/ISSUE_TEMPLATE: false
+  https://gist.github.com/thechelsuk/2bcfc2a4db0427f802585c047602bc95.js: false
 https://thechels.uk/php-to-python-with-GitHub-actions:
   https://gist.github.com/Mat-0/891bc8cff9235edb3479776eb706fa38.js: true
   https://gist.github.com/Mat-0/01a0143f6f61c52b5523647205e44ebd.js: true
@@ -164,6 +169,7 @@ https://thechels.uk/Using-a-label-to-trigger-automation-with-GitHub-Actions:
   https://brid.gy/publish/mastodon: true
   https://brid.gy/publish/bluesky: true
   https://brid.gy/publish/reddit: true
+  https://gist.github.com/thechelsuk/e6d5982d24d35530bebfef157d76aff1.js: false
 https://thechels.uk/We-need-to-talk:
   https://youtu.be/D2Hc8bxrf0k: true
   https://unbreak.tech/: true

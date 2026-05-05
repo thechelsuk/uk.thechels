@@ -27,7 +27,7 @@ There is a single owner who has created this as a hobby project. Feedback, disco
 
 ## Contribution Guidelines
 
-- Follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+- Follow the [Code of Conduct](https://github.com/thechelsuk/uk.thechels/CODE_OF_CONDUCT.md).
 - Submit issues for bugs or feature requests.
 - Fork the repository and create a branch for your changes.
 - Submit a pull request with a clear description of your changes.

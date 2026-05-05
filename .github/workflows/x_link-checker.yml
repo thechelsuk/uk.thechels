@@ -15,6 +15,14 @@ jobs:
         steps:
             - uses: actions/checkout@v6
 
+            - uses: ruby/setup-ruby@v1
+              with:
+                  ruby-version: ".ruby-version"
+                  bundler-cache: true
+
+            - name: Build site
+              run: bundle exec jekyll build --trace
+
             - name: Link Checker
               id: lychee
               uses: lycheeverse/lychee-action@v2.8.0
@@ -22,11 +30,15 @@ jobs:
                   args: >-
                       --verbose
                       --no-progress
-                      --base https://thechels.uk
-                      --include 'https?://([a-z]+\.)?thechels\.uk'
+                      --include-fragments
+                      --offline
+                      --base-url "$PWD/_site"
+                      --root-dir "$PWD/_site"
+                      --remap 'https?://thechels\.uk(/.*)? file://$PWD/_site$1'
+                      --exclude '^https?://'
                       --timeout=30
                       --max-retries=2
-                      './**/*.md'
+                      './_site/**/*.html'
                   fail: false
                   format: markdown
                   jobSummary: true
