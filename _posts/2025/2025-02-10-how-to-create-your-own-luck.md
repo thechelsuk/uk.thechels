@@ -21,7 +21,7 @@ Do these two things make me lucky or fortunate maybe in the eyes of others buy y
 You don't score the shots you don't take.
 
 > When I started my career as a software engineer I was lucky enough to get to work on the most interesting project the company had.
-
+>
 > Then when that project was done, I moved on to the next, new and very interesting project. Weirdly, when that project was over I moved to a third really interesting project. At this point people around me started commenting on it: “Hey, John, you’re so lucky, you get to work on the best projects and you’re just a junior developer. I wish I could work those projects instead of what I’m doing!”
-
+>
 > Fast forward eighteen months, I’ve started my own business and it’s going well. I’ve managed to land a couple of good clients and we’re making a reasonable profit. I start to hear the same thing again: “Hey, John, you’re so lucky, you started a business and a couple of good clients just fell in your lap. I’ve struggled to grow my business for two years and never got such good clients”.

@@ -11,7 +11,6 @@ What I've been listening to this month.
 
 ![Monthly Mixtape 2026-04](/images/mixtapes/2026-04.png)
 
-
 1. If You Tolerate This Your Children Will Be Next - Manic Street Preachers
 2. That's Life - Dead Dads Club
 3. Saturday - Canine

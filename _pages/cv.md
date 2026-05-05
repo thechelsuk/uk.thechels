@@ -5,7 +5,7 @@ permalink: /cv
 seo: CV optimised for printing and savings as a PDF
 ---
 
-### Personal Profile
+## Personal Profile
 
 An experienced engineering leader with a passion for people development, building teams, implementing agile methodologies, and focusing on flow and delivery. A broad history of working with teams using various programming languages, in fast-paced and regulated environments.
 
@@ -42,6 +42,7 @@ Holds an HND in Business Information Systems and an HNC in Business IT in Comput
 - 10 GCSEs including English (double), Science (double), Maths, French, Spanish, and Geography.
 - [See LinkedIn for various certifications](https://www.linkedin.com/in/0mat/details/certifications/#)
 
+<!-- ignore MD033 -->
 <div class="page-break"></div>
 
 ### Employment History

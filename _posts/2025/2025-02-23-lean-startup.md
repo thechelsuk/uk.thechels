@@ -130,7 +130,7 @@ Every business plan begins with a set of assumptions. A startup early efforts sh
 
 What differentiates the success stories from the failures is that the successful entrepreneurs had the foresight, the ability, and the tools to discover which part of their plans were working brilliantly and which were misguided, and adapt their strategies accordingly.
 
-### Growth
+### Growth mindset
 
 The first step in understanding a new product or service is to figure out if it is fundamentally value-creating or value-destroying.
 

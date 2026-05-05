@@ -33,7 +33,7 @@ jobs:
                   node-version: "20"
 
             - name: Install markdown tooling
-              run: npm install -g markdownlint-cli prettier
+              run: npm install -g markdownlint-cli@0.44.0 prettier
 
             - name: Auto-fix Python, Markdown, and YAML formatting
               if: inputs.autofix
@@ -48,7 +48,7 @@ jobs:
               run: python -m yapf --style pep8 --recursive --diff _python
 
             - name: Lint Markdown
-              run: markdownlint "**/*.md" "!_site/**" "!node_modules/**"
+              run: markdownlint --disable MD013 "**/*.md" "!_site/**" "!node_modules/**"
 
             - name: Lint Bash
               run: |

@@ -231,8 +231,7 @@ We should not concern ourselves with the things over which we have **no control 
 
 We should concern ourselves with the things which we have **some but not complete control**, but we should be careful to internalise the goals we form with respect to them. For example, whether we win while playing tennis.
 
-type: blog
----
+...
 
 It might be possible for someone, by spending enough time practicing goal internalisation, to develop the ability not to look beyond their internalised goals. Even if the internalisation process is a mind game, it is a useful mind game.
 

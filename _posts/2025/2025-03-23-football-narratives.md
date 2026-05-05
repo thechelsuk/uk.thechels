@@ -3,9 +3,8 @@
 layout: post
 date: 2025-03-23
 title: Football Narratives
-
-
 type: blog
+
 ---
 
 Chelsea women have just beaten Man City Women 2-1 away from home and the narrative around the game is super interesting to me in an atmosphere of criticising referees and VAR, pressure and discontent about outcomes.
@@ -26,7 +25,7 @@ Here are two crude screenshots that show the offside player and proximity to the
 The only mention of an offside was in Cushing's post match interview.
 
 > **Man City interim boss Nick Cushing, speaking to BBC One:**"There is a bit of frustration throughout the game for me. At half time we should come in at 2-0. Then I think with their first goal there is a tight offside.
-
+>
 >On the disallowed goal: "There was a foul on Laura Coombs a few minutes before that and we had a counter attacking moment - our threat was coming from Kerolin and Jess Park attacking quickly in those moments and I asked for the advantage to be played.
 
 BBC also use the language 'disallowed goal' for the second incident listed above. The goal was not disallowed as the play had stopped on the referee's whistle. Disallowed goals are for when a goal is ruled out pending a decision. e.g, an offside flag, a VAR check. This is a semantic issue but drives a narrative that Man City were hard done by.

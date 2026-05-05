@@ -74,7 +74,7 @@ A lot of issues with TDD is people misunderstanding _isolation_ as _class isolat
 This is difficult fir experienced engineers, we tend to think on how to engineer the problem, not how to solve it fast.
 
 > We can commit any number of sins to get there, because speed trumps design, just for a brief moment. - Kent Beck
-
+>
 > Good design at good times. Make it run, make it right. - Kent Beck
 
 #### Clean code now (refactor)

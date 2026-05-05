@@ -11,7 +11,7 @@ release_project: thechels-uk
 release_version: 2.0.0
 ---
 
-## Bump major version after large refactor of post types, feeds, POSSE over PESOS.
+## Bump major version after large refactor of post types, feeds, POSSE over PESOS
 
 ### Changes (since 1.11.0)
 
@@ -56,4 +56,4 @@ release_version: 2.0.0
 - fix: wrong dep. derp. ([9b734f8](https://github.com/thechelsuk/uk.thechels/commit/9b734f81fb06c62d0d17a85b02952c3c0488ccb6))
 - chore: update python dependencies ([99b47ce](https://github.com/thechelsuk/uk.thechels/commit/99b47cef4257530d1ca8d29a55e3d5829a878ea5))
 - Python format ([f26cd5d](https://github.com/thechelsuk/uk.thechels/commit/f26cd5d4ea9c193c2c2c6cbd330970272f17c56d))
-- Fix: copy/paste bug ([bc8a496](https://github.com/thechelsuk/uk.thechels/commit/bc8a4964f174cd3b81657e6920addbca73f4def0))
+- Fix: copy/paste bug ([bc8a496](https://github.com/thechelsuk/uk.thechels/commit/bc8a4964f174cd3b81657e6920addbca73f4def0)).
