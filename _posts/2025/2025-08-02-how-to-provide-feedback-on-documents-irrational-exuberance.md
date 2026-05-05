@@ -16,5 +16,4 @@ tags:
 >    - What your suggested change or concern is
 >    - Why you believe this is meaningful to address
 >    - How important this seems (from ignorable nitpick to critical)
->
 > 4. If you find yourself leaving more than three or four issues, then you should either raise your threshold for commenting or you should schedule time with the individual to talk over the feedback. If the document is unreasonably weak, then it’s appropriate to nudge their leadership to dig into what’s happening on that team.
