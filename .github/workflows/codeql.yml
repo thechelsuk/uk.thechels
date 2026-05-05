@@ -2,8 +2,6 @@
 name: GH CodeQL Advanced
 
 on:
-    push:
-        branches: ["main"]
     pull_request:
         branches: ["main"]
     schedule:
