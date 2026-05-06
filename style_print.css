@@ -1,6 +1,4 @@
----
 
----
 /* ---------------------------------- */
 /* ----------  Font Setup  ---------- */
 /* ---------------------------------- */
@@ -17,25 +15,6 @@
 }
 
 /* ---------------------------------- */
-/* ----------  SCSS Setup  ---------- */
-/* ---------------------------------- */
-
-$background: #ffffff;
-$primary: #04100d;
-$secondary: #005ca3;
-$links: #295147;
-$accent: #cec452;
-$code: #c0deff;
-$font-stack: TheChelsLight,
-    -system-ui,
-    "Gill Sans",
-    sans-serif;
-$header-stack: TheChelsMedium,
-    -system-ui,
-    "Gill Sans",
-    sans-serif;
-$font-mono: ui-monospace, monospace, "Courier New";
-
 /* ---------------------------------- */
 /* ----------  Main Styles ---------- */
 /* ---------------------------------- */
@@ -48,10 +27,10 @@ body {
 body {
     border-top: 0;
     margin: 0;
-    font-family: $font-stack;
-    color: $primary;
+    font-family: var(--font-stack);
+    color: #04100d;
     font-size: 0.95em;
-    background: $background;
+    background: #ffffff;
     box-sizing: border-box;
 }
 
@@ -111,8 +90,8 @@ h3,
 h4,
 h5,
 h6 {
-    color: $primary;
-    font-family: $header-stack;
+    color: #04100d;
+    font-family: var(--header-stack);
     position: relative;
     display: block;
 }
@@ -124,12 +103,12 @@ h4 a,
 h5 a,
 h6 a {
     text-decoration: none;
-    color: $primary;
+    color: #04100d;
 }
 
 :is(h1, h2, h3, h4, h5, h6) a {
     text-decoration: none;
-    color: $primary;
+    color: #04100d;
 
     &:hover {
         text-decoration: none;
@@ -141,11 +120,11 @@ h6 a {
 }
 
 h1 {
-    color: $primary;
+    color: #04100d;
 }
 
 h3 {
-    border-bottom: $secondary dashed 2px;
+    border-bottom: #005ca3 dashed 2px;
 }
 
 article,
@@ -169,7 +148,7 @@ p {
 }
 
 a {
-    color: $links;
+    color: #295147;
 }
 
 a:hover,
@@ -185,8 +164,8 @@ img {
 }
 
 .codeblock {
-    font-family: $font-mono;
-    border: 0.125em solid $secondary;
+    font-family: var(--font-mono);
+    border: 0.125em solid #005ca3;
     border-radius: 1em;
     font-size: 0.9em;
     padding: 0.625em;
@@ -194,29 +173,29 @@ img {
 
 pre,
 code {
-    font-family: $font-mono;
+    font-family: var(--font-mono);
     font-size: 0.75em;
 }
 
 pre>code {
-    font-family: $font-mono;
+    font-family: var(--font-mono);
     font-size: 0.9em;
 }
 
 blockquote,
 cite {
     padding: 0 1em;
-    border-left: 0.25em solid $accent;
+    border-left: 0.25em solid #cec452;
     width: 90%;
     margin-left: 0.625em;
 }
 
 .footnote {
     font-size: 0.75em;
-    color: $primary;
+    color: #04100d;
 
     sup {
-        color: $primary;
+        color: #04100d;
         margin-right: 5px;
     }
 }
@@ -235,7 +214,7 @@ cite {
 }
 
 .meta {
-    color: $secondary;
+    color: #005ca3;
     display: block;
     float: right;
     margin-right: 0;

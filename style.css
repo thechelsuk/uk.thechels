@@ -1,8 +1,3 @@
----
-layout: empty
-note: thechelsuk
----
-
 /* ---------------------------------- */
 /* ----------  Font Setup  ---------- */
 /* ---------------------------------- */
@@ -19,7 +14,7 @@ note: thechelsuk
 }
 
 /* ---------------------------------- */
-/* ----------  SCSS Setup  ---------- */
+/* ----------  VARS Setup  ---------- */
 /* ---------------------------------- */
 
 :root {
@@ -33,6 +28,9 @@ note: thechelsuk
     --code: #c0deff;
     --tab: #b6b6b4;
     --alt-tab: #fffafa;
+    --font-stack: TheChelsLight, -system-ui, "Gill Sans", sans-serif;
+    --header-stack: TheChelsMedium, -system-ui, "Gill Sans", sans-serif;
+    --font-mono: "JetBrains Mono", ui-monospace, monospace, "Courier New";
     --trans:
         color 0.5s cubic-bezier(0.4, 0, 0.2, 1),
         background 0.5s cubic-bezier(0.4, 0, 0.2, 1),
@@ -94,31 +92,12 @@ html.day-mode {
     --alt-tab: #fffafa;
 }
 
-$transition: var(--trans);
-$background: var(--background);
-$primary: var(--primary);
-$secondary: var(--secondary);
-$links: var(--links);
-$accent: var(--accent);
-$code: var(--code);
-$tab: var(--tab);
-$alt-tab: var(--alt-tab);
-$font-stack: TheChelsLight,
-    -system-ui,
-    "Gill Sans",
-    sans-serif;
-$header-stack: TheChelsMedium,
-    -system-ui,
-    "Gill Sans",
-    sans-serif;
-$font-mono: "JetBrains Mono", ui-monospace, monospace, "Courier New";
-
 .font-stack {
-    font-family: $font-stack;
+    font-family: var(--font-stack);
 }
 
 .font-mono {
-    font-family: $font-mono;
+    font-family: var(--font-mono);
 }
 
 .visually-hidden {
@@ -151,12 +130,12 @@ html {
 }
 
 body {
-    border-top: 16px solid $secondary;
+    border-top: 16px solid var(--secondary);
     margin: 0;
-    font-family: $font-stack;
-    color: $primary;
+    font-family: var(--font-stack);
+    color: var(--primary);
     font-size: 1em;
-    background: $background;
+    background: var(--background);
     box-sizing: border-box;
 }
 
@@ -169,7 +148,7 @@ body {
 }
 
 #outer-wrapper {
-    border-top: 16px solid $accent;
+    border-top: 16px solid var(--accent);
     min-height: 80%;
 }
 
@@ -188,7 +167,7 @@ body {
 }
 
 #footer {
-    border-top: 2px solid $accent;
+    border-top: 2px solid var(--accent);
     font-size: 0.8em;
     padding-bottom: 2em;
     clear: both;
@@ -205,7 +184,7 @@ body {
     flex-wrap: wrap;
     gap: 0.5em;
     padding-bottom: 0.6em;
-    border-bottom: 2px solid $accent;
+    border-bottom: 2px solid var(--accent);
 }
 
 .blog-identity {
@@ -223,7 +202,7 @@ body {
     position: relative;
     overflow: hidden;
     background: url("images/me72.png") center/cover no-repeat;
-    border: 2px solid $accent;
+    border: 2px solid var(--accent);
 
     &::after {
         content: "";
@@ -249,13 +228,13 @@ body {
 
 .blog-title {
     font-size: 3em;
-    font-family: $header-stack;
+    font-family: var(--header-stack);
     line-height: 1;
     outline: none;
 
     a {
         text-decoration: none;
-        color: $primary;
+        color: var(--primary);
     }
 
     a:active,
@@ -266,7 +245,7 @@ body {
 
 .asterisk {
     font-size: 0.8em;
-    color: $secondary;
+    color: var(--secondary);
     scroll-margin-top: 2em;
     cursor: pointer;
     vertical-align: super;
@@ -276,13 +255,13 @@ body {
         rotate: 180deg;
         transition: color 1s ease-in-out, transform 1s ease-in-out;
         text-decoration: none;
-        color: $accent;
+        color: var(--accent);
     }
 }
 
 .blog-slogan {
     font-size: 0.9em;
-    color: $secondary;
+    color: var(--secondary);
     margin-top: 0.2em;
 }
 
@@ -292,7 +271,7 @@ body {
     align-items: center;
 
     a {
-        color: $links;
+        color: var(--links);
         font-size: 0.9em;
         padding: 0.25em 0.5em;
         white-space: nowrap;
@@ -300,14 +279,14 @@ body {
 
         &:hover,
         &:focus {
-            color: $accent;
+            color: var(--accent);
             text-decoration: underline;
         }
 
         &:not(:first-child)::before {
             content: "\00b7";
             margin-right: 0.5em;
-            color: $primary;
+            color: var(--primary);
             pointer-events: none;
             user-select: none;
             display: inline-block;
@@ -336,19 +315,19 @@ main:focus {
 /* ---------------------------------- */
 
 .primary {
-    color: $primary;
+    color: var(--primary);
 }
 
 .secondary {
-    color: $secondary;
+    color: var(--secondary);
 }
 
 .links {
-    color: $links;
+    color: var(--links);
 }
 
 .accent {
-    color: $accent;
+    color: var(--accent);
 }
 
 .sr-only,
@@ -392,7 +371,7 @@ main:focus {
 }
 
 .meta {
-    color: $secondary;
+    color: var(--secondary);
     display: block;
     float: right;
     margin-right: 0;
@@ -400,7 +379,7 @@ main:focus {
 }
 
 .webmentions {
-    color: $secondary;
+    color: var(--secondary);
     display: inline-block;
     margin-left: 0;
     font-size: 0.8em;
@@ -454,8 +433,8 @@ main:focus {
         width: 25px;
         height: 25px;
         border-radius: 50%;
-        background: $accent;
-        border: 1px solid $secondary;
+        background: var(--accent);
+        border: 1px solid var(--secondary);
     }
 
     .webmention--like article,
@@ -493,7 +472,7 @@ ul li {
     margin-bottom: 0.5em;
 
     &::marker {
-        color: $accent;
+        color: var(--accent);
     }
 
     ul,
@@ -507,7 +486,7 @@ ol li {
     margin-bottom: 0.5em;
 
     &::marker {
-        color: $secondary;
+        color: var(--secondary);
     }
 
     ul,
@@ -528,12 +507,12 @@ b {
 }
 
 a {
-    color: $links;
+    color: var(--links);
 
     &:hover,
     &:focus,
     &:active {
-        color: $accent;
+        color: var(--accent);
         transition: color 4s ease-in-out;
         text-decoration: underline;
     }
@@ -541,10 +520,10 @@ a {
 
 .footnote {
     font-size: 0.8em;
-    color: $secondary;
+    color: var(--secondary);
 
     sup {
-        color: $primary;
+        color: var(--primary);
         margin-right: 0.3125em;
     }
 }
@@ -572,8 +551,8 @@ a {
 }
 
 .highlighter {
-    background: $accent;
-    color: $primary;
+    background: var(--accent);
+    color: var(--primary);
     padding: 0.265em;
     border-radius: 0.5em;
     margin: 0.265em;
@@ -609,14 +588,14 @@ a {
 /* ---------------------------------- */
 
 :is(h1, h2, h3, h4, h5, h6) {
-    color: $primary;
+    color: var(--primary);
     position: relative;
     display: block;
-    font-family: $header-stack;
+    font-family: var(--header-stack);
 
     & a {
         text-decoration: none;
-        color: $primary;
+        color: var(--primary);
 
         &:hover {
             text-decoration: none;
@@ -629,7 +608,7 @@ a {
 
     &:hover::after {
         content: " #";
-        color: $accent;
+        color: var(--accent);
     }
 }
 
@@ -641,16 +620,16 @@ a {
 // in Markdown (produces <em><strong>text</strong></em>)
 
 div:has(> pre:only-child > code:only-child) {
-    border: 1px solid $code;
-    border-left: 0.5rem solid $links;
+    border: 1px solid var(--code);
+    border-left: 0.5rem solid var(--links);
     border-radius: 4px;
     padding: 0 0 0 3.25rem;
-    color: $primary;
-    font-family: $font-mono;
+    color: var(--primary);
+    font-family: var(--font-mono);
     font-style: normal;
     position: relative;
     margin: 1.5rem 0;
-    background-color: $alt-tab;
+    background-color: var(--alt-tab);
 
     &::before {
         content: "[]";
@@ -671,11 +650,11 @@ div:has(> pre:only-child > code:only-child) {
 }
 
 blockquote {
-    border: 1px solid $code;
-    border-left: 0.5rem solid $secondary;
+    border: 1px solid var(--code);
+    border-left: 0.5rem solid var(--secondary);
     border-radius: 4px;
     padding: 0.5rem 0.5rem 0.5rem 3.25rem;
-    color: $primary;
+    color: var(--primary);
     font-style: normal;
     position: relative;
     margin: 1.5rem 0;
@@ -693,11 +672,11 @@ blockquote {
 
 :is(p:has(> em:only-child > strong:only-child),
     p:has(> strong:only-child > em:only-child)) {
-    border: 1px solid $code;
-    border-left: 0.5rem solid $accent;
+    border: 1px solid var(--code);
+    border-left: 0.5rem solid var(--accent);
     border-radius: 4px;
     padding: 1rem 1rem 1rem 3.25rem;
-    color: $primary;
+    color: var(--primary);
     font-style: normal;
     position: relative;
     margin: 1.5rem 0;
@@ -716,7 +695,7 @@ blockquote {
     p:has(> strong:only-child > em:only-child)) em,
 :is(p:has(> em:only-child > strong:only-child),
     p:has(> strong:only-child > em:only-child)) strong {
-    font-family: $font-stack;
+    font-family: var(--font-stack);
     font-style: normal;
     position: relative;
 }
@@ -730,7 +709,7 @@ img {
     display: block;
     max-width: 100%;
     height: auto;
-    border: 1px solid $primary;
+    border: 1px solid var(--primary);
 }
 
 .app-icon {
@@ -741,7 +720,7 @@ img {
     margin-bottom: 12px;
     float: left;
     display: block;
-    border: 1px solid $alt-tab;
+    border: 1px solid var(--alt-tab);
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
@@ -752,26 +731,26 @@ img {
 table {
     width: 100%;
     border-collapse: collapse;
-    border: 1px solid $tab;
+    border: 1px solid var(--tab);
 
     th,
     td {
         padding: 0.5em;
         text-align: left;
-        border: 1px solid $alt-tab;
+        border: 1px solid var(--alt-tab);
     }
 
     th {
-        background-color: $accent;
-        color: $primary;
+        background-color: var(--accent);
+        color: var(--primary);
     }
 
     tr:nth-child(even) {
-        background-color: $alt-tab;
+        background-color: var(--alt-tab);
     }
 
     tr:hover {
-        background-color: $code;
+        background-color: var(--code);
     }
 }
 
@@ -807,7 +786,7 @@ table {
 }
 
 .footer-links {
-    column-rule: 1px solid $secondary;
+    column-rule: 1px solid var(--secondary);
 
     li:is(:nth-child(7), :nth-child(14)) {
         break-after: column;
@@ -837,13 +816,13 @@ table {
 .theme-toggle__link {
     margin-left: 0.5em;
     text-decoration: none;
-    color: $links;
+    color: var(--links);
     cursor: pointer;
 }
 
 .theme-toggle__link:hover,
 .theme-toggle__link:focus {
-    color: $accent;
+    color: var(--accent);
 }
 
 #theme-cycle-icon {
