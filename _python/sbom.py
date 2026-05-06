@@ -76,7 +76,7 @@ def generate_sbom_markdown():
     markdown_content = f"""---
 
 title : Software Bill of Materials (SBOM)
-layout: page
+layout: pages
 date: {current_date}
 robots: noindex, nofollow
 permalink: /SBOM
