@@ -5,13 +5,9 @@
     <meta charset="utf-8">
     <meta name="referrer" content="origin">
     {% assign profile_description = page.seo | default: post.seo | default: page.title | default: post.title %}
-    {% assign profile_description_suffix = "" %}
-    {% if page.url == "/" or page.url == "/index.html" %}
-    {% assign profile_description_suffix = " #nobridge" %}
-    {% endif %}
     <title>{{ page.title | default: post.title }}</title>
     <meta name="title" content="{{ page.title | default: post.title }} | {{ site.title }}">
-    <meta name="description" content="{{ profile_description }} | {{ site.title }}{{ profile_description_suffix }}">
+    <meta name="description" content="{{ profile_description }} | {{ site.title }}">
     {%- if page.canonical -%}
     <link rel="canonical" href="{{ page.canonical }}" />
     {%- else -%}
