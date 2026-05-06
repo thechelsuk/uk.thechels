@@ -3,6 +3,7 @@ permalink: ./:title
 title: "Weak Notes"
 description: "// A working in public, second brain"
 version: 2.0.0
+port: 2012
 theme:
 owner:
   name: thechelsuk
