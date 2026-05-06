@@ -1950,3 +1950,40 @@
       // Published 2026-05-06, with 10 words. **</em> ???? Thanks for keeping RSS
       alive. If you have an RSS…</p>\n\n        \n        <p>Continue reading at <a
       href=\"https://thechels.uk/cf-worker-x-redirect-release-0de197f5789c\">thechels.uk</a>.</p>"
+"/cf-worker-x-redirect-release-a80c48d7fed8":
+  '1994815':
+    id: '1994815'
+    uri: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-5-5bb7baf667/
+    source: false
+    pubdate: 2026-05-06 20:46:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-5-5bb7baf667/
+      verified: true
+      verified_date: '2026-05-06T21:33:47+00:00'
+      id: 1994815
+      private: false
+      data:
+        author: &20
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-5-5bb7baf667/
+        name: Release - CF Worker X Redirect Version v1.0.5
+        content: "<p>Full Changelog : v1.0.4…v1.0.5 Read more about my projects <em>**
+          // Published 2026-05-06, with 10 words. **</em> ???? Thanks for keeping
+          RSS alive. If you have an RSS…</p>\n\n        \n        <p>Continue reading
+          at <a href=\"https://thechels.uk/cf-worker-x-redirect-release-a80c48d7fed8\">thechels.uk</a>.</p>"
+        published: '2026-05-06T19:46:00+00:00'
+        published_ts: 1778096760
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-5-5bb7baf667/
+      target: https://thechels.uk/cf-worker-x-redirect-release-a80c48d7fed8
+    author: *20
+    type: link
+    title: Release - CF Worker X Redirect Version v1.0.5
+    content: "<p>Full Changelog : v1.0.4…v1.0.5 Read more about my projects <em>**
+      // Published 2026-05-06, with 10 words. **</em> ???? Thanks for keeping RSS
+      alive. If you have an RSS…</p>\n\n        \n        <p>Continue reading at <a
+      href=\"https://thechels.uk/cf-worker-x-redirect-release-a80c48d7fed8\">thechels.uk</a>.</p>"
