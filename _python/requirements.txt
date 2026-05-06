@@ -18,3 +18,4 @@ yfinance
 pillow>=12.2.0
 ruamel.yaml
 markdownify
+pip-audit
