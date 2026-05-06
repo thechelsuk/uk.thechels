@@ -13,4 +13,4 @@ release_version: v1.0.3
 
 **Full Changelog**: [v1.0.1...v1.0.3](https://github.com/thechelsuk/cf-worker-x-redirect/compare/v1.0.1...v1.0.3)
 
-[Read more about my projects](/projects/)
+[Read more about my projects](/projects)

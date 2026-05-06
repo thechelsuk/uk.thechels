@@ -30,4 +30,4 @@ Added:
 
 **Full Changelog**: [1.0.0...1.1.0](https://github.com/thechelsuk/uk.nuchronic/compare/1.0.0...1.1.0)
 
-[Read more about my projects](/projects/)
+[Read more about my projects](/projects)
