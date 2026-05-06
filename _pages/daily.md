@@ -11,6 +11,7 @@ date: 2026-05-06
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Wednesday, 06 May 2026
 
 - The average temperature today is 7.49˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 6 days since the last change (2026-04-30)
 
@@ -33,18 +35,22 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Seek the best.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Ipswich Town U18 v Crystal Palace U18
 - Brighton & Hove Albion Women v Arsenal Women
 <!-- fixture_marker ends -->
@@ -53,21 +59,24 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 130.99000549316406 
-- ^FTSE : 10219.099609375 
-- ^FTMC : 22443.80078125 
+- VWRL.L : 130.99000549316406
+- ^FTSE : 10219.099609375
+- ^FTMC : 22443.80078125
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > The Milky Way came runner-up in a galaxy talent contest and had to settle for the constellation prize.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Holocaust denial is creeping into Dutch classrooms via social media, survey shows (€, [12 minutes ago](http://www.euronews.com/next/2026/05/06/holocaust-denial-is-creeping-into-dutch-classrooms-via-social-media-survey-shows))
 - Greece moves to protect borrowers with consumer loans up to €100,000 (€, [13 minutes ago](http://www.euronews.com/business/2026/05/06/greece-moves-to-protect-borrowers-with-consumer-loans-up-to-100000))
 - Europe Today: Appease or retaliate? EU weighs response to Trump’s new tariff threat (€, [21 minutes ago](http://www.euronews.com/my-europe/2026/05/06/europe-today-appease-or-retaliate-eu-weighs-response-to-trumps-new-tariff-threat))
@@ -75,7 +84,7 @@ _Good Morning, Here is your daily briefing..._
 - How is the DMA reshaping Big Tech's grip on the internet? (€, [27 minutes ago](http://www.euronews.com/my-europe/2026/05/06/how-is-the-dma-reshaping-big-techs-grip-on-the-internet))
 - Trump pauses US plan to guide ships through Strait of Hormuz (£, [29 minutes ago](https://www.ft.com/content/5f7ba94e-8a42-4f36-8c4c-19be932c8f66))
 - AWS lets agents drive its virtual cloudy desktops - which could cost 500,00 tokens per click (®, [1 hours ago](https://go.theregister.com/feed/www.theregister.com/2026/05/06/aws_workspaces_agent_access/))
-- Latest news bulletin  May 6th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/06/latest-news-bulletin-may-6th-2026-morning))
+- Latest news bulletin May 6th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/06/latest-news-bulletin-may-6th-2026-morning))
 - Meloni -Trump tensions tested, can the US - Italy alliance hold? (€, [1 hours ago](http://www.euronews.com/my-europe/2026/05/06/us-troop-pullout-from-italy-military-interdependence-interests-in-europe-prevail))
 - ‘Broadening access to contemporary art’: The best art-inspired stays in Europe (€, [1 hours ago](http://www.euronews.com/travel/2026/05/06/broadening-access-to-contemporary-art-the-best-art-inspired-stays-in-europe))
 - Resilience amid ruins: Why markets are hitting record highs despite the Iran war (€, [1 hours ago](http://www.euronews.com/business/2026/05/06/resilience-amid-ruins-why-markets-are-hitting-record-highs-despite-iran-war-effects))
@@ -112,7 +121,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > bombaster - noun: One given to bluster and bombast.
+> bombaster - noun: One given to bluster and bombast.
 
 <!-- word_marker ends -->
 
@@ -127,6 +136,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Discover the recipes you are using and abandon them
 
 <!-- eno_marker ends -->
@@ -134,6 +144,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Tucker & Dale Vs Evil (Rated: 2)
 - Released in 2010
 - Summary: Tucker navigates life's challenges with optimism. Despite struggles with his mom and annoying cousin, he finds joy in his crush on the neighbor girl, believing better days lie ahead.
@@ -157,6 +168,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Martin Fowler [URL](https://martinfowler.com/) [Feed](https://martinfowler.com/feed.atom)
 - WebKit [URL](https://webkit.org/) [Feed](https://www.webkit.org/feed/)
 - Ian Betteridge [URL](https://www.ianbetteridge.com/) [Feed](https://www.ianbetteridge.com/rss/)
