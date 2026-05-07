@@ -70,8 +70,8 @@ Using configuration yml, navigation is provided by three collections for `header
 
 ### Add a Film
 
-- Run the python script typing in a Film title and a Rating. Or;
-- Run a workflow dispatch - entering the inputs Film and Rating
+- In Drafts, Click the film template, run the `Search Film` action pick film.
+- Add a rating using the placeholder and run the `Add Film` action.
 
 ### Add a Book
 
@@ -85,8 +85,37 @@ Using configuration yml, navigation is provided by three collections for `header
 
 - Capture the selection on a page in safari
 - Share to Drafts and click Save
-- In Drafts run the `cite to blog` if it's a quotable post. Or;
-- In Drafts run the `post to blog` if it's a regular post
+- In Drafts run the `Super Post Maker` and choose the Quote post type.
+- Commit the change in WorkingCopy App and push to Prod
+
+## Supported Post Types
+
+The following `post_type` variants are supported:
+
+- mixtape
+- til
+- ways
+- video
+- release
+- rss
+- daily
+- linked
+- quote
+- film
+- social
+- blog
+- test
+- gift
+- mailbox
+
+Any other value will use a default icon.
+
+Create a blog post in Drafts and run the `Super Post Maker` action to select the post type and generate the correct front matter for the post. The post will be created in the `_posts` folder with a filename of `yyyy-MM-dd-title.md`.
+
+### Additional Front Matter
+
+- Choose 'Indie' to post to the IndieWeb feed
+- Choose 'Pinned' to pin this post to the top of the post type archive page
 
 </details>
 
