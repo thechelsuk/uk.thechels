@@ -1,12 +1,10 @@
 ---
-
 date: 2026-05-07 21:00
 title: "RSS Feed Discovery in well known is better than guessing"
 cited: "Stuart Breckenridge"
 link: "https://stuartbreckenridge.net/2026-05-04-moving-feed-discovery-to-well-known/"
 seo: "RSS feed discovery in .well-known/feed-menu.json"
 type: linked
-
 ---
 
 I really like this idea, and I hope to see more sites adopt it, and more things move to within the .well-known namespace. So many sites are bloated with all sorts of random files in the root and in the `<head>`. I've added a feed-menu.json and syndication.json to my site.
