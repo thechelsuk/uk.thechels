@@ -1,4 +1,5 @@
 ---
+layout: post
 date: 2026-05-07 21:00
 title: "RSS Feed Discovery in well known is better than guessing"
 cited: "Stuart Breckenridge"
