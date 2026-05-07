@@ -9,7 +9,7 @@ seo: About page for the owner of thechels.uk
 
 ![Banner photo - Running in Fulham, London, UK. November 2018. A 10km race by Adidas City Runs campaign where all entrants we sent a T shirt to keep and wear with their badge number on. Chip time was 47.22](/images/gh-header-image-cropped.jpg)
 
-An experienced engineering leader with a passion for people development, building teams, implementing agile methodologies, and focusing on flow and delivery. A broad history of working with teams using various programming languages, in fast-paced and regulated environments.
+A netizen and experienced engineering leader with a passion for people development, building teams, implementing agile methodologies, and focusing on flow and delivery. A broad history of working with teams using various programming languages, in fast-paced and regulated environments.
 
 Has a track record of increasing team morale and motivation through a holistic people development style, recruitment, and introducing new ways of working. Has also developed strategies, technical roadmaps, architectural reviews, personal development frameworks, addressing technical debt and reducing cycle times significantly.
 
