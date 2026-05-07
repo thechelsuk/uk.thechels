@@ -84,11 +84,18 @@ def deduplicate_accounts(accounts: List[Account]) -> List[Account]:
     """
     seen: Set[tuple] = set()
     unique = []
+    duplicates = []
     for acc in accounts:
         key = (acc.handle.lower(), acc.platform)
         if key not in seen:
             seen.add(key)
             unique.append(acc)
+        else:
+            duplicates.append(acc)
+    if duplicates:
+        print("Duplicated accounts detected:")
+        for d in duplicates:
+            print(f"  {d.platform}: {d.name} ({d.handle})")
     return sorted(unique, key=lambda a: a.name.lower())
 
 
@@ -109,8 +116,8 @@ def infer_rss_url(account: Account) -> Optional[str]:
     elif account.platform == 'bluesky':
         # Bluesky: handle is user.bsky.social or similar, no @, no slashes
         handle = account.handle.lstrip('@')
-        # Only allow valid domain-like handles (no slashes, no spaces)
-        if re.fullmatch(r'[A-Za-z0-9_.-]+(\.[A-Za-z0-9_.-]+)+', handle):
+        # Always use the feed URL pattern for any non-empty handle
+        if handle and not any(c in handle for c in ('/', ' ')):
             return f'https://bsky.app/profile/{handle}/rss'
         else:
             return None
@@ -143,10 +150,11 @@ def export_to_opml(accounts: List[Account], output_path: str) -> None:
     for acc in accounts:
         if not acc.rss_url:
             continue
+        # Use handle/account address for text and title for easier identification
         outline = ET.SubElement(folder,
                                 'outline',
-                                text=acc.name,
-                                title=acc.name,
+                                text=acc.handle,
+                                title=acc.handle,
                                 type='rss',
                                 xmlUrl=acc.rss_url,
                                 platform=acc.platform,
