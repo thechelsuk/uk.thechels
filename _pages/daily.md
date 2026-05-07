@@ -11,6 +11,7 @@ date: 2026-05-07
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Thursday, 07 May 2026
 
 - The average temperature today is 6.89˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 7 days since the last change (2026-04-30)
 
@@ -33,18 +35,22 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Be humble.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Germany Women U17 v England Women U17
 - Crystal Palace v Shakhtar Donetsk
 - Aston Villa v Nottingham Forest
@@ -54,28 +60,31 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 132.9600067138672 
-- ^FTSE : 10438.7001953125 
-- ^FTMC : 22832.400390625 
+- VWRL.L : 132.9600067138672
+- ^FTSE : 10438.7001953125
+- ^FTMC : 22832.400390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > I once had a work placement at an eye wear manufacturer, I gained good insight into the industry.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Hopes of reopening the Strait of Hormuz lift shares, as oil remains above $100 (€, [22 minutes ago](http://www.euronews.com/business/2026/05/07/hopes-of-reopening-the-strait-of-hormuz-lift-shares-as-oil-remains-above-100))
 - Europe Today: EU fails to agree on trade deal with US, risking Trump backlash (€, [22 minutes ago](http://www.euronews.com/my-europe/2026/05/07/europe-today-eu-fails-to-agree-on-trade-deal-with-us-risking-trump-backlash))
 - DMA: How the EU’s big tech law changed citizens’ lives (€, [31 minutes ago](http://www.euronews.com/my-europe/2026/05/07/dma-how-the-eus-big-tech-law-changed-citizens-lives))
 - Neocloud IREN buys OpenStack champion Mirantis (®, [42 minutes ago](https://www.theregister.com/off-prem/2026/05/07/neocloud-iren-buys-openstack-champion-mirantis/5231644))
 - Asian shares rise on hopes of US-Iran deal (£, [1 hours ago](https://www.ft.com/content/21131ff4-35e1-4e5c-b827-1e07c9153e8e))
 - Why one Parkinson’s treatment may not work for every patient (€, [1 hours ago](http://www.euronews.com/health/2026/05/07/why-one-parkinsons-treatment-may-not-work-for-every-patient))
-- Latest news bulletin  May 7th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/07/latest-news-bulletin-may-7th-2026-morning))
+- Latest news bulletin May 7th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/07/latest-news-bulletin-may-7th-2026-morning))
 - Waldorf Astoria Rabat Salé opens in Morocco’s tallest building (€, [1 hours ago](http://www.euronews.com/travel/2026/05/07/waldorf-astoria-rabat-sale-opens-in-moroccos-tallest-building))
 - AI can predict your personality from chat history, study finds (€, [1 hours ago](http://www.euronews.com/next/2026/05/07/ai-can-predict-your-personality-from-chat-history-study-finds))
 - ‘Significantly lower energy bills’: How do solar batteries work and are they worth the investment? (€, [1 hours ago](http://www.euronews.com/2026/05/07/significantly-lower-energy-bills-how-do-solar-batteries-work-and-are-they-worth-the-invest))
@@ -110,7 +119,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > canescent - adjective: Turning gray or white; becoming hoary.
+> canescent - adjective: Turning gray or white; becoming hoary.
 
 <!-- word_marker ends -->
 
@@ -125,6 +134,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Make a sudden, destructive, unpredictable action; incorporate
 
 <!-- eno_marker ends -->
@@ -132,6 +142,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - The Proposal (Rated: 7)
 - Released in 2009
 - Summary: When New York editor Margaret faces deportation, she convinces her assistant Andrew to marry her in return for a promotion. However, when she visits his hometown, it changes her in many ways.
@@ -155,6 +166,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Steven Breckinridge [URL](https://stuartbreckenridge.net/) [Feed](https://stuartbreckenridge.net/rss.xml)
 - Aaron Gustafson [URL](https://www.aaron-gustafson.com/) [Feed](https://www.aaron-gustafson.com/feeds/all.xml)
 - Evan Travers [URL](https://evantravers.com/) [Feed](http://evantravers.com/feed.xml)
