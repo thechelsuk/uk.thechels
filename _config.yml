@@ -63,6 +63,7 @@ exclude:
 include:
   - ".well-known"
   - "_pages"
+  - "_headers"
 
 ##################### Menus ##########
 
