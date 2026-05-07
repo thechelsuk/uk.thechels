@@ -6,93 +6,93 @@
     },
     "feeds": [
         {
-            "title": "{{ site.title }} - Main Feed",
-            "url": "{{ site.url }}/feed",
+            "title": "thechelsuk - Main Feed",
+            "url": "https://thechels.uk/feed",
             "format": "atom",
             "rel": "alternate",
             "media_type": "application/atom+xml",
             "preferred": true
         },
         {
-            "title": "{{ site.title }} - Posts only",
-            "url": "{{ site.url }}/posts.xml",
+            "title": "thechelsuk - Posts only",
+            "url": "https://thechels.uk/posts.xml",
             "format": "atom",
             "rel": "alternate",
             "media_type": "application/atom+xml"
         },
         {
-            "title": "{{ site.title }} - RSS only",
-            "url": "{{ site.url }}/rss.xml",
+            "title": "thechelsuk - RSS only",
+            "url": "https://thechels.uk/rss.xml",
             "format": "atom",
             "rel": "alternate",
             "media_type": "application/atom+xml"
         },
         {
-            "title": "{{ site.title }} - Linked-quote only",
-            "url": "{{ site.url }}/links.xml",
+            "title": "thechelsuk - Linked-quote only",
+            "url": "https://thechels.uk/links.xml",
             "format": "atom",
             "rel": "alternate",
             "media_type": "application/atom+xml"
         },
         {
-            "title": "{{ site.title }} - Socials only",
-            "url": "{{ site.url }}/socials.xml",
+            "title": "thechelsuk - Socials only",
+            "url": "https://thechels.uk/socials.xml",
             "format": "atom",
             "rel": "alternate",
             "media_type": "application/atom+xml"
         },
         {
-            "title": "{{ site.title }} - Daily Rundown only",
-            "url": "{{ site.url }}/daily.xml",
+            "title": "thechelsuk - Daily Rundown only",
+            "url": "https://thechels.uk/daily.xml",
             "format": "atom",
             "rel": "alternate",
             "media_type": "application/atom+xml"
         },
         {
-            "title": "{{ site.title }} - Mixtapes only",
-            "url": "{{ site.url }}/mixtapes.xml",
+            "title": "thechelsuk - Mixtapes only",
+            "url": "https://thechels.uk/mixtapes.xml",
             "format": "atom",
             "rel": "alternate",
             "media_type": "application/atom+xml"
         },
         {
-            "title": "{{ site.title }} - Releases only",
-            "url": "{{ site.url }}/releases.xml",
+            "title": "thechelsuk - Releases only",
+            "url": "https://thechels.uk/releases.xml",
             "format": "atom",
             "rel": "alternate",
             "media_type": "application/atom+xml"
         },
         {
-            "title": "{{ site.title }} - TIL only",
-            "url": "{{ site.url }}/til.xml",
+            "title": "thechelsuk - TIL only",
+            "url": "https://thechels.uk/til.xml",
             "format": "atom",
             "rel": "alternate",
             "media_type": "application/atom+xml"
         },
         {
-            "title": "{{ site.title }} - Ways only",
-            "url": "{{ site.url }}/ways.xml",
+            "title": "thechelsuk - Ways only",
+            "url": "https://thechels.uk/ways.xml",
             "format": "atom",
             "rel": "alternate",
             "media_type": "application/atom+xml"
         },
         {
-            "title": "{{ site.title }} - Videos only",
-            "url": "{{ site.url }}/videos.xml",
+            "title": "thechelsuk - Videos only",
+            "url": "https://thechels.uk/videos.xml",
             "format": "atom",
             "rel": "alternate",
             "media_type": "application/atom+xml"
         },
         {
-            "title": "{{ site.title }} - Film Reviews only",
-            "url": "{{ site.url }}/films.xml",
+            "title": "thechelsuk - Film Reviews only",
+            "url": "https://thechels.uk/films.xml",
             "format": "atom",
             "rel": "alternate",
             "media_type": "application/atom+xml"
         },
         {
-            "title": "{{ site.title }} - Main as JSON",
-            "url": "{{ site.url }}/feed.json",
+            "title": "thechelsuk - Main as JSON",
+            "url": "https://thechels.uk/feed.json",
             "format": "jsonfeed",
             "version": "1.1",
             "rel": "alternate",
