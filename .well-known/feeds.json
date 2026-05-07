@@ -1,0 +1,102 @@
+{
+    "publisher": {
+        "name": "thechelsuk",
+        "url": "https://thechels.uk/",
+        "contact_url": "https://links.thechels.uk/"
+    },
+    "feeds": [
+        {
+            "title": "{{ site.title }} - Main Feed",
+            "url": "{{ site.url }}/feed",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml",
+            "preferred": true
+        },
+        {
+            "title": "{{ site.title }} - Posts only",
+            "url": "{{ site.url }}/posts.xml",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml"
+        },
+        {
+            "title": "{{ site.title }} - RSS only",
+            "url": "{{ site.url }}/rss.xml",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml"
+        },
+        {
+            "title": "{{ site.title }} - Linked-quote only",
+            "url": "{{ site.url }}/links.xml",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml"
+        },
+        {
+            "title": "{{ site.title }} - Socials only",
+            "url": "{{ site.url }}/socials.xml",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml"
+        },
+        {
+            "title": "{{ site.title }} - Daily Rundown only",
+            "url": "{{ site.url }}/daily.xml",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml"
+        },
+        {
+            "title": "{{ site.title }} - Mixtapes only",
+            "url": "{{ site.url }}/mixtapes.xml",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml"
+        },
+        {
+            "title": "{{ site.title }} - Releases only",
+            "url": "{{ site.url }}/releases.xml",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml"
+        },
+        {
+            "title": "{{ site.title }} - TIL only",
+            "url": "{{ site.url }}/til.xml",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml"
+        },
+        {
+            "title": "{{ site.title }} - Ways only",
+            "url": "{{ site.url }}/ways.xml",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml"
+        },
+        {
+            "title": "{{ site.title }} - Videos only",
+            "url": "{{ site.url }}/videos.xml",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml"
+        },
+        {
+            "title": "{{ site.title }} - Film Reviews only",
+            "url": "{{ site.url }}/films.xml",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml"
+        },
+        {
+            "title": "{{ site.title }} - Main as JSON",
+            "url": "{{ site.url }}/feed.json",
+            "format": "jsonfeed",
+            "version": "1.1",
+            "rel": "alternate",
+            "media_type": "application/feed+json"
+        }
+    ]
+}
