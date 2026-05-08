@@ -11,6 +11,7 @@ date: 2026-05-08
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Friday, 08 May 2026
 
 - The average temperature today is 9.35˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 7 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Farmers Market in town
 
 <!-- task_marker ends -->
@@ -40,12 +43,15 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Challenge assumptions.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Hull City v Millwall
 <!-- fixture_marker ends -->
 
@@ -53,25 +59,28 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 132.9600067138672 
-- ^FTSE : 10277.0 
-- ^FTMC : 22882.69921875 
+- VWRL.L : 132.9600067138672
+- ^FTSE : 10277.0
+- ^FTMC : 22882.69921875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > I also applied to work for a design company for TV user interfaces. But I misunderstood when they said it was remote-first.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Google, Microsoft and xAI agree to US government AI testing programme (€, [50 minutes ago](http://www.euronews.com/next/2026/05/08/tech-giants-agree-to-us-government-ai-testing))
 - The brain doesn't switch off under anaesthesia – it keeps processing language, study finds (€, [51 minutes ago](http://www.euronews.com/health/2026/05/08/the-brain-doesnt-switch-off-under-anaesthesia-study))
 - Beauty you can measure: New eye-tracking study reveals the world’s most visually stunning spas (€, [51 minutes ago](http://www.euronews.com/travel/2026/05/08/beauty-you-can-measure-new-eye-tracking-study-reveals-the-worlds-most-visually-stunning-sp))
-- Latest news bulletin  May 8th, 2026 – Morning (€, [51 minutes ago](http://www.euronews.com/video/2026/05/08/latest-news-bulletin-may-8th-2026-morning))
+- Latest news bulletin May 8th, 2026 – Morning (€, [51 minutes ago](http://www.euronews.com/video/2026/05/08/latest-news-bulletin-may-8th-2026-morning))
 - Gold vs oil: Which offers better protection from rising prices during the Iran war? (€, [51 minutes ago](http://www.euronews.com/business/2026/05/08/gold-vs-oil-which-offers-better-protection-from-rising-prices-during-the-iran-war))
 - Cloudflare to fire 1,100 staff whose jobs just aren’t AI enough (®, [1 hours ago](https://www.theregister.com/off-prem/2026/05/08/cloudflare-to-fire-1100-staff-whose-jobs-just-arent-ai-enough/5235536))
 - Trump’s World Cup chief defends high ticket prices (£, [1 hours ago](https://www.ft.com/content/3783fa31-c6cc-46cd-ae91-638308797b37))
@@ -111,7 +120,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > cumberground - noun: A useless person.
+> cumberground - noun: A useless person.
 
 <!-- word_marker ends -->
 
@@ -126,6 +135,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Change instrument roles
 
 <!-- eno_marker ends -->
@@ -133,6 +143,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - One Day (Rated: 6)
 - Released in 2011
 - Summary: After spending the night together on the eve of their college graduation, Dexter and Emma are shown each year on the same date to see where they are in their lives. They are sometimes together, and sometimes not.
@@ -156,6 +167,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Sean McPherson [URL](https://seanmcp.com/) [Feed](https://seanmcp.com/rss.xml)
 - Adam Caudill [URL](https://adamcaudill.com/blog/) [Feed](https://adamcaudill.com/blog/index.xml)
 - Casey Liss is More [URL](https://www.caseyliss.com/) [Feed](http://www.caseyliss.com/rss)
