@@ -178,6 +178,11 @@ def save_post_to_jekyll(fm_content, body_content, filename):
     # Construct file path inside _posts folder
     file_path = os.path.join(OUTPUT_FOLDER, filename)
 
+    # If file exists, skip writing
+    if os.path.exists(file_path):
+        print(f"✓ Skipping existing file: {file_path}")
+        return
+
     # Ensure parent directories exist (e.g. _posts/2025)
     if not os.path.exists(os.path.dirname(file_path)):
         os.makedirs(os.path.dirname(file_path))
