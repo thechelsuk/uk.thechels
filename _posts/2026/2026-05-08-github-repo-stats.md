@@ -1,5 +1,4 @@
 ---
-
 layout: post
 syndicate: true
 date: 2026-05-08 18:00
@@ -8,10 +7,9 @@ link: https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything
 cited: Simon Willison
 class: indie
 type: linked
-
 ---
 
-Simon, here, doesn't state how the number of commits impacts his evaluation is 5500 good or bad? 
+Simon, here, doesn't state how the number of commits impacts his evaluation is 5500 good or bad?
 
 I mean it's good that this whole damn site works, I think, but hell a lot of my commits are terribly trying.
 
