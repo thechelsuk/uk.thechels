@@ -4,7 +4,7 @@ date: 2026-03-16
 link: https://pxlnv.com/linklog/reuters-meta-layoffs-rumour/
 title: Meta is to lay off 20% of Its staff shocker
 type: linked
-cited: Nick Hear
+cited: Nick Heer (Pixel Envy)
 ---
 
 Because they over hired and want to spend the money on data centres for AI of course.
