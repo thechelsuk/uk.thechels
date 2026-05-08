@@ -4967,3 +4967,57 @@ https://thechels.uk/2026-05-07-daily-rundown:
 https://thechels.uk/rss-feed-discovery:
   https://example.com: false
   https://example.com/.well-known/feed-menu.json: false
+https://thechels.uk/2026-05-08-daily-rundown:
+  http://www.euronews.com/next/2026/05/08/tech-giants-agree-to-us-government-ai-testing: false
+  http://www.euronews.com/health/2026/05/08/the-brain-doesnt-switch-off-under-anaesthesia-study: false
+  ? http://www.euronews.com/travel/2026/05/08/beauty-you-can-measure-new-eye-tracking-study-reveals-the-worlds-most-visually-stunning-sp
+  : false
+  http://www.euronews.com/video/2026/05/08/latest-news-bulletin-may-8th-2026-morning: false
+  http://www.euronews.com/business/2026/05/08/gold-vs-oil-which-offers-better-protection-from-rising-prices-during-the-iran-war: false
+  https://www.theregister.com/off-prem/2026/05/08/cloudflare-to-fire-1100-staff-whose-jobs-just-arent-ai-enough/5235536: false
+  https://www.ft.com/content/3783fa31-c6cc-46cd-ae91-638308797b37: false
+  https://www.ft.com/content/c0aec3de-b553-4089-b5d3-074c5b83be57: false
+  https://www.ft.com/content/b3dfaba9-17a2-4fac-90fe-4ab3ca7c9494: false
+  https://www.ft.com/content/a40cafcc-0fa4-4e70-9e24-90d826aea56d: false
+  https://www.ft.com/content/d73183b6-d610-4caa-949d-186cbd59c970: false
+  https://www.ft.com/content/3785a37f-3409-4b3e-b2fb-6b4200c4375e: false
+  https://www.ft.com/content/90225b9c-707c-4877-931d-5022d1ed583f: false
+  https://www.ft.com/content/f48b4605-1aa9-4549-9197-fc1c2a361b90: false
+  ? https://www.theregister.com/off-prem/2026/05/08/aws-warns-of-ec2-impairment-as-power-loss-hits-notorious-us-east-1-region/5235509
+  : false
+  http://www.euronews.com/2026/05/08/el-nino-looms-near-record-sea-temperatures-in-april-raise-fears-of-more-global-heat: false
+  https://www.theregister.com/networks/2026/05/08/hpe-drops-first-juniper-x-aruba-collab-self-driving-wi-fi/5235463: false
+  ? https://weaintgotnohistory.sbnation.com/premier-league/168419/how-should-chelsea-line-up-against-liverpool-amid-fresh-injury-crisis
+  : false
+  https://www.ft.com/content/63a73c94-a927-4683-be1a-9ed0e53442de: false
+  https://www.theregister.com/security/2026/05/08/mozilla-says-ai-helped-squash-423-firefox-security-bugs/5235438: false
+  ? https://www.theregister.com/devops/2026/05/07/dyna-softwares-ai-assistant-promises-to-massage-your-toughest-servicenow-configs/5235392
+  : false
+  http://www.euronews.com/2026/05/07/iranian-media-report-exchange-of-fire-with-us-forces-near-island-in-strait-of-hormuz: false
+  http://www.euronews.com/2026/05/07/uk-to-summon-chinese-ambassador-after-convictions-over-spying-on-hong-kong-dissidents: false
+  https://www.theregister.com/cyber-crime/2026/05/07/fake-it-workers-rented-laptops-to-nork-scammers-got-prison-time/5235342: false
+  http://www.euronews.com/my-europe/2026/05/07/trump-gives-eu-until-4-july-to-implement-trade-deal-or-face-much-higher-tariffs: false
+  https://www.theregister.com/security/2026/05/07/claude-code-trust-prompt-can-trigger-one-click-rce/5235319: false
+  https://www.ft.com/content/13070f17-854d-460e-b97f-9ea535d93e64: false
+  http://www.euronews.com/my-europe/2026/05/07/eu-critic-rumen-radev-named-new-bulgarian-prime-minister: false
+  https://www.theregister.com/security/2026/05/07/60-of-md5-password-hashes-are-crackable-in-under-an-hour/5234954: false
+  https://www.theregister.com/off-prem/2026/05/07/ibm-cloud-evaporates-as-datacenter-loses-power/5234835: false
+  ? https://www.theregister.com/cyber-crime/2026/05/07/250m-crypto-robbing-gangs-dirty-work-guy-sentenced-to-65-years-behind-bars/5234787
+  : false
+  ? https://weaintgotnohistory.sbnation.com/injury-news/168411/estevao-opts-against-surgery-goes-to-brazil-for-rehab-amid-slim-world-cup-hopes-report
+  : false
+  https://weaintgotnohistory.sbnation.com/bobby-ramblings/168396/the-daily-hilario-may-7th: false
+  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168400/chelsea-set-e30m-asking-price-as-wesley-fofana-offered-to-barcelona-reports
+  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/168382/chelsea-1-3-nottingham-forest-player-ratings-recount: false
+  https://weaintgotnohistory.sbnation.com/bobby-ramblings/168379/the-daily-hilario-may-6th: false
+  https://seanmcp.com/: false
+  https://seanmcp.com/rss.xml: false
+  https://adamcaudill.com/blog/: false
+  https://adamcaudill.com/blog/index.xml: false
+  https://www.caseyliss.com/: false
+  http://www.caseyliss.com/rss: false
+  https://pzumk.com/: false
+  https://pzumk.com/rss/: false
+  https://basicappleguy.com/: false
+  https://www.basicappleguy.com/basicappleblog?format=rss: false

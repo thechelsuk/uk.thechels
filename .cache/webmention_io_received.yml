@@ -1989,3 +1989,39 @@
       href=\"https://thechels.uk/cf-worker-x-redirect-release-a80c48d7fed8\">thechels.uk</a>.</p>"
 "/2026-05-07-daily-rundown": {}
 "/rss-feed-discovery": {}
+"/2026-05-08-daily-rundown":
+  '1994959':
+    id: '1994959'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-08-806880f936/
+    source: false
+    pubdate: 2026-05-08 05:52:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-08-806880f936/
+      verified: true
+      verified_date: '2026-05-08T06:50:44+00:00'
+      id: 1994959
+      private: false
+      data:
+        author: &21
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-08-806880f936/
+        name: Daily - Daily Rundown for 2026-05-08
+        content: "<p>Good Morning, Here is your daily briefing… On Friday, 08 May
+          2026 The average temperature today is 9.35˚C, With highs of 9.98˚C and lows
+          of 8.15˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/2026-05-08-daily-rundown\">thechels.uk</a>.</p>"
+        published: '2026-05-08T04:52:00+00:00'
+        published_ts: 1778215920
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-08-806880f936/
+      target: https://thechels.uk/2026-05-08-daily-rundown
+    author: *21
+    type: link
+    title: Daily - Daily Rundown for 2026-05-08
+    content: "<p>Good Morning, Here is your daily briefing… On Friday, 08 May 2026
+      The average temperature today is 9.35˚C, With highs of 9.98˚C and lows of 8.15˚C,
+      It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-08-daily-rundown\">thechels.uk</a>.</p>"
