@@ -1,14 +1,12 @@
 ---
-
 layout: post
 syndicate: false
 date: 2026-05-08 21:50
 title: Get £50 when you join Octopus Energy
 type: gift
-
 ---
 
-Use this referral link to sign up to Octopus Energy and we both get £50 credit. 
+Use this referral link to sign up to Octopus Energy and we both get £50 credit.
 
 <https://share.octopus.energy/ideal-ant-315>
 
