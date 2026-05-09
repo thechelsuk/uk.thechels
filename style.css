@@ -591,6 +591,7 @@ a {
     color: var(--primary);
     position: relative;
     display: block;
+    text-wrap: balance;
     font-family: var(--header-stack);
 
     & a {
