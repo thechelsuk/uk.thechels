@@ -11,6 +11,7 @@ date: 2026-05-09
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Saturday, 09 May 2026
 
 - The average temperature today is 10.51˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 8 days since the last change (2026-04-30)
 
@@ -33,18 +35,22 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Crossing the river by feeling the stones.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Chelsea U18 v Leicester City U18
 - Everton U18 v Manchester City U18
 - Manchester United U18 v Stoke City U18
@@ -63,27 +69,30 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 133.02999877929688 
-- ^FTSE : 10233.099609375 
-- ^FTMC : 22849.400390625 
+- VWRL.L : 133.02999877929688
+- ^FTSE : 10233.099609375
+- ^FTMC : 22849.400390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Still looking for a job, even the local bakery did not have a roll for me.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Trump declassifies 162 UFO files for public to judge the 'evidence' (€, [2 minutes ago](http://www.euronews.com/2026/05/09/trump-declassifies-162-ufo-files-for-public-to-judge-the-evidence))
 - In Damascus, cooking kosher continues to be a complicated matter for Syria's Jewish community (€, [33 minutes ago](http://www.euronews.com/2026/05/09/in-damascus-cooking-kosher-continues-to-be-a-complicated-matter-for-syrias-jewish-communit))
 - ‘People are more willing to listen to an influencer’: How nicotine became a problematic health trend (€, [38 minutes ago](http://www.euronews.com/health/2026/05/09/people-are-more-willing-to-listen-to-an-influencer-how-nicotine-became-a-problematic-healt))
 - AI models can hack computers and self-replicate onto new machines, new research finds (€, [39 minutes ago](http://www.euronews.com/next/2026/05/09/ai-models-can-hack-computers-and-self-replicate-onto-new-machines-new-research-finds))
 - Oases, sonic prayers and nurture: Venice Biennale 2026 invites visitors to slow down (€, [50 minutes ago](http://www.euronews.com/culture/2026/05/09/oases-sonic-prayers-and-nurture-venice-biennale-2026-invites-visitors-to-slow-down))
-- Latest news bulletin  May 9th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/09/latest-news-bulletin-may-9th-2026-morning))
+- Latest news bulletin May 9th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/09/latest-news-bulletin-may-9th-2026-morning))
 - Spain's Bizum heads to the high street to take on Visa and Mastercard (€, [1 hours ago](http://www.euronews.com/business/2026/05/09/spains-bizum-heads-to-the-high-street-to-take-on-visa-and-mastercard))
 - Why private members’ clubs are the latest trend in luxury hotels – and which ones you should join (€, [1 hours ago](http://www.euronews.com/travel/2026/05/09/why-private-members-clubs-are-the-latest-trend-in-luxury-hotels-and-which-ones-you-should-))
 - The glory of low expectations (£, [2 hours ago](https://www.ft.com/content/14152ab1-864d-4ff7-8524-afc7b08821b3))
@@ -119,7 +128,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > cumberground - noun: A useless person.
+> cumberground - noun: A useless person.
 
 <!-- word_marker ends -->
 
@@ -134,6 +143,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > A line has two sides
 
 <!-- eno_marker ends -->
@@ -141,6 +151,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Transporter i (Rated: 6)
 - Released in 2002
 - Summary: No summary available
@@ -164,6 +175,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - ollicle.com [URL](https://ollicle.com/) [Feed](https://ollicle.com/feed.xml)
 - Data Goddess [URL](https://thedatagoddess.com/) [Feed](http://thedatagoddess.com/feed/)
 - GitHub [URL](https://github.blog/) [Feed](https://github.blog/feed/)
