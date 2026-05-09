@@ -21,19 +21,24 @@
   </p>
 
   <p class="webmentions">
-    <a class="u-url" href="{{ page.url | absolute_url }}" class="hidden"></a>
+    <a class="u-url hidden" href="{{ page.url | absolute_url }}" hidden="from-humans"></a>
     {% webmentions page.url %}
   </p>
 
+  {% if page.syndicate == true %}
+    <p class="meta">
+      <a class="u-bridgy-fed" href="https://fed.brid.gy/" hidden="from-humans"></a>
+    </p>
+  {% endif %}
+
   {% if page.class == 'indie' %}
-  <p class="meta">
-    <a href="https://news.indieweb.org/en" class="u-syndication">Also posted on IndieNews</a>
-  </p>
+    <p class="meta">
+      <a class="u-syndication" href="https://news.indieweb.org/en" hidden="from-humans">Also posted on IndieNews</a>
+    </p>
   {% endif %}
 
 
   {% endif %}
 </article>
-
 
 {% include footer.html %}
