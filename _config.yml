@@ -107,6 +107,8 @@ navigation_data:
 
 ## SubMenu
 navigation_archives:
+  - link: "/archives/gifts"
+    title: "Gifts"
   - link: "/archives/mixtapes"
     title: "Mixtapes"
   - link: "/archives/til"
