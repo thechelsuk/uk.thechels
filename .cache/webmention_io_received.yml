@@ -2240,3 +2240,39 @@
     content: "<p>Themes New Fresh theme added to the bundle, and all themes have support
       for YouTube video embeds and x.app link generation, Additionally all themes
       have been…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/nnw-theme-bundle-release-0a6890489292\">thechels.uk</a>.</p>"
+"/2026-05-10-daily-rundown":
+  '1995335':
+    id: '1995335'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-10-f19deea2d9/
+    source: false
+    pubdate: 2026-05-10 06:18:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-10-f19deea2d9/
+      verified: true
+      verified_date: '2026-05-10T07:08:46+00:00'
+      id: 1995335
+      private: false
+      data:
+        author: &28
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-10-f19deea2d9/
+        name: Daily - Daily Rundown for 2026-05-10
+        content: "<p>Good Morning, Here is your daily briefing… On Sunday, 10 May
+          2026 The average temperature today is 9.43˚C, With highs of 9.73˚C and lows
+          of 8.86˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/2026-05-10-daily-rundown\">thechels.uk</a>.</p>"
+        published: '2026-05-10T05:18:00+00:00'
+        published_ts: 1778390280
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-10-f19deea2d9/
+      target: https://thechels.uk/2026-05-10-daily-rundown
+    author: *28
+    type: link
+    title: Daily - Daily Rundown for 2026-05-10
+    content: "<p>Good Morning, Here is your daily briefing… On Sunday, 10 May 2026
+      The average temperature today is 9.43˚C, With highs of 9.73˚C and lows of 8.86˚C,
+      It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-10-daily-rundown\">thechels.uk</a>.</p>"
