@@ -3,6 +3,7 @@ layout: post
 date: 2026-03-07
 title: Pompidou Section 1 - Site Improvements
 type: rss
+show: false
 ---
 
 I've added this RSS only feed, web mentions, syndication of content under the POSSE principle, and markdown copies of files into the deployment of the site all computed at build time over recent days

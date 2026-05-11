@@ -3,6 +3,7 @@ layout: post
 date: 2026-03-08
 title: Monitoring the Middle-East OSINT
 type: rss
+show: false
 ---
 
 A few resources for monitoring the situation in the Middle East, using open source intelligence tools and live streams

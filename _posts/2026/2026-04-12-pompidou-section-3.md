@@ -3,6 +3,7 @@ layout: post
 date: 2026-04-12 02:11
 title: Pompidou section 3 - Refactor post types
 type: rss
+show: false
 ---
 
 After setting up collections on my Jekyll blog for various post types I've refactored to use `post.type` in the post front matter instead of collections.

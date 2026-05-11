@@ -3,12 +3,15 @@
   <h1 class="p-name post-title">{% include post_icon.html type=page.type %} {{ page.title }}</h1>
 
   <div class="e-content flow">
+
     {{ content }}
 
     {% if page.link and page.cited %}
-    <p>&raquo;<a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
+      <p>&raquo;<a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
     {% elsif page.cited %}
-    <p>&raquo; {{page.cited}}</p>
+      <p>&raquo; {{page.cited}}</p>
+    {% elsif page.i_type %}
+        <p>&raquo;<a href="{{ page.i_url }}" class="u-{{page.i_type}}">{{page.i_url}} &rarr;</a></p>
     {% endif %}
   </div>
 
@@ -26,15 +29,15 @@
   </p>
 
   {% if page.syndicate == true %}
-    <p class="meta">
-      <a class="u-bridgy-fed" href="https://fed.brid.gy/" hidden="from-humans"></a>
-    </p>
+  <p class="meta">
+    <a class="u-bridgy-fed" href="https://fed.brid.gy/" hidden="from-humans"></a>
+  </p>
   {% endif %}
 
   {% if page.class == 'indie' %}
-    <p class="meta">
-      <a class="u-syndication" href="https://news.indieweb.org/en" hidden="from-humans">Also posted on IndieNews</a>
-    </p>
+  <p class="meta">
+    <a class="u-syndication" href="https://news.indieweb.org/en" hidden="from-humans">Also posted on IndieNews</a>
+  </p>
   {% endif %}
 
   <p class="visually-hidden p-category" hidden="from-humans">{{ page.type }}</p>
