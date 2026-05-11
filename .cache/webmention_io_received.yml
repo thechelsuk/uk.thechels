@@ -2240,6 +2240,34 @@
     content: "<p>Themes New Fresh theme added to the bundle, and all themes have support
       for YouTube video embeds and x.app link generation, Additionally all themes
       have been…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/nnw-theme-bundle-release-0a6890489292\">thechels.uk</a>.</p>"
+  '1995249':
+    id: '1995249'
+    uri: https://ap.brid.gy/convert/web/https://social.lol/ap/users/116328436595171448%23likes/2193795
+    source: false
+    pubdate: 2026-05-09 19:08:11.000000000 +00:00
+    raw:
+      source: https://ap.brid.gy/convert/web/https://social.lol/ap/users/116328436595171448%23likes/2193795
+      verified: true
+      verified_date: '2026-05-09T19:08:11+00:00'
+      id: 1995249
+      private: false
+      data:
+        author: &28
+          name: Pablo Murad
+          url: https://social.lol/@runawaydevil
+          photo: https://avatars.webmention.io/s3.eu-central-003.backblazeb2.com/10f7bc3caf94e400f3e70392768ed6d0b3a7446ead9d7a1b3c4b5fd4ea426ae3.png
+        url: https://ap.brid.gy/convert/web/https://social.lol/ap/users/116328436595171448%23likes/2193795
+        name:
+        content: <a href="https://thechels.uk/nnw-theme-bundle-release-0a6890489292">likes
+          this.</a>
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://thechels.uk/nnw-theme-bundle-release-0a6890489292
+    author: *28
+    type: like
+    content: ''
 "/2026-05-10-daily-rundown":
   '1995335':
     id: '1995335'
@@ -2253,7 +2281,7 @@
       id: 1995335
       private: false
       data:
-        author: &28
+        author: &29
           name: Nuchronic
           url: https://nuchronic.uk/
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
@@ -2270,7 +2298,7 @@
       rels:
         canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-10-f19deea2d9/
       target: https://thechels.uk/2026-05-10-daily-rundown
-    author: *28
+    author: *29
     type: link
     title: Daily - Daily Rundown for 2026-05-10
     content: "<p>Good Morning, Here is your daily briefing… On Sunday, 10 May 2026
