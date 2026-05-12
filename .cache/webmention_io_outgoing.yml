@@ -5256,3 +5256,12 @@ https://thechels.uk/your-ai-use-is-breaking-my-brain:
 https://thechels.uk/me-awareness-day-2026:
   https://www.meresearch.org.uk/diagnosing-me-cfs/: false
   https://www.meresearch.org.uk/me-cfs-whats-in-a-name/: false
+https://thechels.uk/nnw-theme-bundle-release-d3670e80619f:
+  https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.8.2/Fresh.zip: false
+  https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.8.2/Guro.zip: false
+  https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.8.2/Retro.zip: false
+  https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.8.2/thechelsuk.zip: false
+  "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.8.2/Fresh.zip": false
+  "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.8.2/Guro.zip": false
+  "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.8.2/Retro.zip": false
+  "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.8.2/thechelsuk.zip": false

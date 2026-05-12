@@ -2416,3 +2416,38 @@
     content: "<p>I am aware. ME Awareness Week takes place every May during the week
       of May 12th, which marks International ME Awareness Day. The aim is to raise
       awareness ab…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/me-awareness-day-2026\">thechels.uk</a>.</p>"
+"/nnw-theme-bundle-release-d3670e80619f":
+  '1995798':
+    id: '1995798'
+    uri: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-8-2-94f20ecf8a/
+    source: false
+    pubdate: 2026-05-12 19:13:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-8-2-94f20ecf8a/
+      verified: true
+      verified_date: '2026-05-12T19:42:47+00:00'
+      id: 1995798
+      private: false
+      data:
+        author: &33
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-8-2-94f20ecf8a/
+        name: Release - NNW Theme Bundle Version v1.8.2
+        content: "<p>Themes Fresh Download Fresh.zip to install this theme. Guro Download
+          Guro.zip to install this theme. Retro Download Retro.zip to install this
+          theme. thechels…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/nnw-theme-bundle-release-d3670e80619f\">thechels.uk</a>.</p>"
+        published: '2026-05-12T18:13:00+00:00'
+        published_ts: 1778609580
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-8-2-94f20ecf8a/
+      target: https://thechels.uk/nnw-theme-bundle-release-d3670e80619f
+    author: *33
+    type: link
+    title: Release - NNW Theme Bundle Version v1.8.2
+    content: "<p>Themes Fresh Download Fresh.zip to install this theme. Guro Download
+      Guro.zip to install this theme. Retro Download Retro.zip to install this theme.
+      thechels…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/nnw-theme-bundle-release-d3670e80619f\">thechels.uk</a>.</p>"
