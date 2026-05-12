@@ -11,6 +11,7 @@ date: 2026-05-12
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Tuesday, 12 May 2026
 
 - The average temperature today is 6.36˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 12 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Refuse Waste Collection Day
 - Food Waste Collection Day
 
@@ -41,12 +44,15 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Embrace uncertainty.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Crystal Palace U18 v Aston Villa U18
 - Tottenham Hotspur U18 v West Brom U18
 - Southampton v Middlesbrough
@@ -56,21 +62,24 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 133.32000732421875 
-- ^FTSE : 10269.400390625 
-- ^FTMC : 22807.900390625 
+- VWRL.L : 133.32000732421875
+- ^FTSE : 10269.400390625
+- ^FTMC : 22807.900390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > I have recently resigned from my job and have applied for a new job but yet to hear anything. It was at a chiropractor about a weak back.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Russia launches strikes at Ukraine, hours after expiration of 72-hour truce (€, [7 minutes ago](http://www.euronews.com/2026/05/12/russia-launches-strikes-at-ukraine-hours-after-expiration-of-72-hour-truce))
 - Iran ceasefire 'on life support,' Trump says as deadlock in negotiations deepens (€, [17 minutes ago](http://www.euronews.com/2026/05/12/iran-ceasefire-on-life-support-trump-says-as-deadlock-in-negotiations-deepens))
 - Europe Today: Is the EU ready to talk directly to Putin about ending the war in Ukraine? (€, [26 minutes ago](http://www.euronews.com/my-europe/2026/05/12/europe-today-is-the-eu-ready-to-talk-directly-to-putin-about-ending-the-war-in-ukraine))
@@ -79,7 +88,7 @@ _Good Morning, Here is your daily briefing..._
 - When two tripes go to war: Greece and Turkey in beef over soup origins (€, [1 hours ago](http://www.euronews.com/video/2026/05/12/is-tripe-soup-greek-or-turkish-a-culinary-dispute-heats-up))
 - From record heat to floods and drought – what’s in store if a ‘super’ El Niño hits this year (€, [1 hours ago](http://www.euronews.com/2026/05/12/from-record-heat-to-floods-and-drought-whats-in-store-if-a-super-el-nino-hits-this-year))
 - Feeling brave? These are the best solo adventure travel destinations to visit in Europe (€, [1 hours ago](http://www.euronews.com/travel/2026/05/12/feeling-brave-these-are-the-best-solo-adventure-travel-destinations-to-visit-in-europe))
-- Latest news bulletin  May 12th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/12/latest-news-bulletin-may-12th-2026-morning))
+- Latest news bulletin May 12th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/12/latest-news-bulletin-may-12th-2026-morning))
 - Is long-hantavirus real? Here’s what life after the infection looks like (€, [1 hours ago](http://www.euronews.com/health/2026/05/12/is-long-hantavirus-real-heres-what-life-after-the-infection-looks-like))
 - Veteran network architect proposes IPv8 – to improve IPv4, not leapfrog v6 (®, [1 hours ago](https://www.theregister.com/networks/2026/05/12/veteran-network-architect-proposes-ipv8-to-improve-ipv4-not-leapfrog-v6/5238474))
 - Trump says Iran ceasefire is on ‘life support’ (£, [1 hours ago](https://www.ft.com/content/69e836e6-b676-434f-9383-4522dc0c4eca))
@@ -113,7 +122,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > patriarch's age - noun: 1. A very long time. 2. A very advanced age.
+> patriarch's age - noun: 1. A very long time. 2. A very advanced age.
 
 <!-- word_marker ends -->
 
@@ -128,6 +137,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Only one element of each kind
 
 <!-- eno_marker ends -->
@@ -135,6 +145,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Inside Man: Most Wanted (Rated: 6)
 - Released in 2019
 - Summary: An NYPD hostage negotiator teams up with a federal agent to rescue dozens of tourists held hostage during a 10-hour siege at the U.S. Federal Reserve.
@@ -158,6 +169,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Rob Weychert [URL](https://v7.robweychert.com/) [Feed](http://feeds.feedburner.com/robweychert)
 - ME Association [URL](https://meassociation.org.uk/) [Feed](https://meassociation.org.uk/feed/)
 - Leading Agile [URL](https://www.liminalarc.co/) [Feed](http://feeds.feedburner.com/LeadingAgile)
