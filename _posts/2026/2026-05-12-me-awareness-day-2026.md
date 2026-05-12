@@ -1,5 +1,4 @@
 ---
-
 layout: post
 syndicate: false
 date: 2026-05-12 17:11
@@ -7,7 +6,6 @@ title: ME Awareness Day 2026
 link: https://www.meresearch.org.uk/me-awareness-week-2026/
 cited: ME Research
 type: linked
-
 ---
 
 I am aware.
