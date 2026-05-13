@@ -11,6 +11,7 @@ date: 2026-05-13
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Wednesday, 13 May 2026
 
 - The average temperature today is 9˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 13 days since the last change (2026-04-30)
 
@@ -33,18 +35,22 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Set exceptional standards.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Arsenal Women v Everton Women
 - Stockport County v Stevenage
 - Manchester City v Crystal Palace
@@ -54,26 +60,29 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 132.61000061035156 
-- ^FTSE : 10265.2998046875 
-- ^FTMC : 22466.19921875 
+- VWRL.L : 132.61000061035156
+- ^FTSE : 10265.2998046875
+- ^FTMC : 22466.19921875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Our Sat Nav is so smart, we were driving through a safari park the other day and it said bear left.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Watch: Inside the Trump-Xi visit that could leave Europe in the cold (€, [1 minutes ago](http://www.euronews.com/my-europe/2026/05/13/watch-inside-the-trump-xi-visit-that-could-leave-europe-in-the-cold))
 - Trump in Beijing: How do America and China compare as economic superpowers?" (€, [7 minutes ago](http://www.euronews.com/business/2026/05/13/trump-in-beijing-how-do-america-and-china-compare-as-economic-superpowers))
 - Europe Today: Syrian FM speaks exclusively to Euronews after landmark EU-Syria talks (€, [27 minutes ago](http://www.euronews.com/my-europe/2026/05/13/europe-today-syrian-fm-speaks-exclusively-to-euronews-after-landmark-eu-syria-talks))
 - The EU's record €2 trillion budget: who wins, who loses? (€, [36 minutes ago](http://www.euronews.com/my-europe/2026/05/13/the-eus-record-2-trillion-budget-who-wins-who-loses))
-- Latest news bulletin  May 13th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/13/latest-news-bulletin-may-13th-2026-morning))
+- Latest news bulletin May 13th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/13/latest-news-bulletin-may-13th-2026-morning))
 - Four Seasons Hotel Mykonos: Greece's hottest summer opening - in pictures (€, [1 hours ago](http://www.euronews.com/travel/2026/05/13/four-seasons-hotel-mykonos-greeces-hottest-summer-opening-in-pictures))
 - Heat pump sales soar in Germany as gas boiler sales drop. How does the rest of Europe compare? (€, [1 hours ago](http://www.euronews.com/2026/05/13/heat-pump-sales-soar-in-germany-as-gas-boiler-sales-drop-how-does-the-rest-of-europe-compa))
 - Why finding the right words for feelings could help ease anxiety, study (€, [1 hours ago](http://www.euronews.com/health/2026/05/13/why-finding-the-right-words-for-feelings-could-help-ease-anxiety-study))
@@ -111,7 +120,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > rake's progress - noun: A steady decline, especially one brought on by dissipation, folly, or vice.
+> rake's progress - noun: A steady decline, especially one brought on by dissipation, folly, or vice.
 
 <!-- word_marker ends -->
 
@@ -126,6 +135,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Do something boring
 
 <!-- eno_marker ends -->
@@ -133,6 +143,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - The Union (Rated: 3)
 - Released in 2024
 - Summary: Construction worker Mike is thrust into the world of espionage when his high school sweetheart, Roxanne, recruits him for a high-stakes intelligence mission.
@@ -156,6 +167,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Jon Shamir [URL](https://jonshamir.com/) [Feed](https://jonshamir.com/rss.xml)
 - Matt Webb [URL](https://interconnected.org/home) [Feed](https://interconnected.org/home/feed)
 - Stephen Hackett 512 Pixels [URL](https://512pixels.net/) [Feed](http://feeds2.feedburner.com/forkbombr/rss2)
