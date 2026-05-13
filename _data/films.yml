@@ -7004,3 +7004,18 @@
   rating: 6
   title: Apex
   year: "2026"
+- date: 2026-05-13 00:00:00+00:00
+  imdb: tt0372784
+  rating: 7
+  title: Batman Begins
+  year: "2005"
+- date: 2026-05-13 00:00:00+00:00
+  imdb: tt0468569
+  rating: 7
+  title: The Dark Knight
+  year: "2008"
+- date: 2026-05-13 00:00:00+00:00
+  imdb: tt1345836
+  rating: 6
+  title: The Dark Knight Rises
+  year: "2012"
