@@ -5318,3 +5318,14 @@ https://thechels.uk/2026-05-13-daily-rundown:
   http://justinjackson.ca/feed/: false
   https://cra.mr/: false
   https://cra.mr/rss.xml: false
+https://thechels.uk/nnw-theme-bundle-release-79f22f31f761:
+  https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.9.2/Fresh.zip: false
+  https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.9.2/Guro.zip: false
+  https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.9.2/Magda.zip: false
+  https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.9.2/Retro.zip: false
+  https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.9.2/thechelsuk.zip: false
+  "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.9.2/Fresh.zip": false
+  "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.9.2/Guro.zip": false
+  "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.9.2/Magda.zip": false
+  "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.9.2/Retro.zip": false
+  "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.9.2/thechelsuk.zip": false

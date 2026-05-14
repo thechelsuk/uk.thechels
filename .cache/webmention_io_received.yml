@@ -2524,3 +2524,38 @@
     content: "<p>What can you buy with a £5m donation? The longer Starmer is in office,
       the more Reform fancy there chances. <em>** // Published 2026-05-13, with 20
       words. **</em> ????…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/what-can-you-buy-with-a-5m-donation\">thechels.uk</a>.</p>"
+"/nnw-theme-bundle-release-79f22f31f761":
+  '1996370':
+    id: '1996370'
+    uri: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-9-2-8d5a2429d8/
+    source: false
+    pubdate: 2026-05-14 02:12:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-9-2-8d5a2429d8/
+      verified: true
+      verified_date: '2026-05-14T03:20:33+00:00'
+      id: 1996370
+      private: false
+      data:
+        author: &36
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-9-2-8d5a2429d8/
+        name: Release - NNW Theme Bundle Version v1.9.2
+        content: "<p>Add new theme named Magda, a dark-mode-only, content first theme.
+          Themes Fresh Download Fresh.zip to install this theme. Guro Download Guro.zip
+          to install th…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/nnw-theme-bundle-release-79f22f31f761\">thechels.uk</a>.</p>"
+        published: '2026-05-14T01:12:00+00:00'
+        published_ts: 1778721120
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-9-2-8d5a2429d8/
+      target: https://thechels.uk/nnw-theme-bundle-release-79f22f31f761
+    author: *36
+    type: link
+    title: Release - NNW Theme Bundle Version v1.9.2
+    content: "<p>Add new theme named Magda, a dark-mode-only, content first theme.
+      Themes Fresh Download Fresh.zip to install this theme. Guro Download Guro.zip
+      to install th…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/nnw-theme-bundle-release-79f22f31f761\">thechels.uk</a>.</p>"
