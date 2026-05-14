@@ -2559,3 +2559,38 @@
     content: "<p>Add new theme named Magda, a dark-mode-only, content first theme.
       Themes Fresh Download Fresh.zip to install this theme. Guro Download Guro.zip
       to install th…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/nnw-theme-bundle-release-79f22f31f761\">thechels.uk</a>.</p>"
+"/2026-05-14-daily-rundown":
+  '1996410':
+    id: '1996410'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-14-f6c56eba96/
+    source: false
+    pubdate: 2026-05-14 06:21:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-14-f6c56eba96/
+      verified: true
+      verified_date: '2026-05-14T07:17:56+00:00'
+      id: 1996410
+      private: false
+      data:
+        author: &37
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-14-f6c56eba96/
+        name: Daily - Daily Rundown for 2026-05-14
+        content: "<p>Good Morning, Here is your daily briefing… On Thursday, 14 May
+          2026 The average temperature today is 7.21˚C, With highs of 8.49˚C and lows
+          of 7.04˚C, It may…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-14-daily-rundown\">thechels.uk</a>.</p>"
+        published: '2026-05-14T05:21:00+00:00'
+        published_ts: 1778736060
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-14-f6c56eba96/
+      target: https://thechels.uk/2026-05-14-daily-rundown
+    author: *37
+    type: link
+    title: Daily - Daily Rundown for 2026-05-14
+    content: "<p>Good Morning, Here is your daily briefing… On Thursday, 14 May 2026
+      The average temperature today is 7.21˚C, With highs of 8.49˚C and lows of 7.04˚C,
+      It may…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-14-daily-rundown\">thechels.uk</a>.</p>"
