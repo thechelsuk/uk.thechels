@@ -7,11 +7,11 @@
     {{ content }}
 
     {% if page.link and page.cited %}
-      <p>&raquo;<a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
+      <p>&raquo; <a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
     {% elsif page.cited %}
       <p>&raquo; {{page.cited}}</p>
     {% elsif page.i_type %}
-        <p>&raquo;<a href="{{ page.i_url }}" class="u-{{page.i_type}}">{{page.i_url}} &rarr;</a></p>
+        <p>&raquo; <a href="{{ page.i_url }}" class="u-{{page.i_type}}">{{page.i_url}} &rarr;</a></p>
     {% endif %}
   </div>
 
