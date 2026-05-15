@@ -3,7 +3,7 @@ layout: pages
 title: NetNewswire Themes
 permalink: /nnw-themes
 seo: Explore and install custom themes for NetNewsWire
-v-thechelsuk: 1.8.1
+v-thechelsuk: 1.9.2
 ---
 
 If you use NetNewsWire, you can use my themes as listed below. All themes are free and open source, and you can find the source code on GitHub. Just Click the link on your device that has NNW installed and follow the prompts to install the theme.
@@ -20,3 +20,4 @@ Checkout the [releases archive](/archives/releases) for the latest versions and 
 - [Install Guro directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Guro.zip)
 - [Install Retro directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Retro.zip)
 - [Install Fresh directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Fresh.zip)
+- [Install Magda directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Magda.zip)
