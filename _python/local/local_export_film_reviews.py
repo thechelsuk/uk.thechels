@@ -81,7 +81,7 @@ def build_post_content(
                     "\n"
                     "layout: post\n"
                     f"date: {post_time}\n"
-                    f"title: Film Monthly for {title_date}\n"
+                    f"title: Film Club Friday for {title_date}\n"
                     "syndicate: false\n"
                     "type: film\n"
                     "\n"
