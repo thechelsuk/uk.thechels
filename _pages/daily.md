@@ -11,6 +11,7 @@ date: 2026-05-14
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Thursday, 14 May 2026
 
 - The average temperature today is 7.21˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 14 days since the last change (2026-04-30)
 
@@ -33,18 +35,22 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Crossing the river by feeling the stones.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - England Women U17 v Poland Women U17
 - Manchester City U18 v Manchester United U18
 - Bradford City v Bolton Wanderers
@@ -54,21 +60,24 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 134.22000122070312 
-- ^FTSE : 10325.400390625 
-- ^FTMC : 22528.400390625 
+- VWRL.L : 134.22000122070312
+- ^FTSE : 10325.400390625
+- ^FTMC : 22528.400390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Our Sat Nav is so smart, we were driving through a safari park the other day and it said bear left.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Europe Today: Trump meets Xi Jinping as Brussels watches nervously (€, [23 minutes ago](http://www.euronews.com/my-europe/2026/05/14/europe-today-trump-meets-xi-jinping-as-brussels-watches-nervously))
 - US-China relations depend on Taiwan, Xi warns Trump (£, [30 minutes ago](https://www.ft.com/content/0547a442-4f33-4818-b67c-a21cf92611f4))
 - What Xi and Trump want from their Beijing summit (£, [34 minutes ago](https://www.ft.com/content/c3938efb-0337-46a9-a173-1e26cd9cf45b))
@@ -76,7 +85,7 @@ _Good Morning, Here is your daily briefing..._
 - Starmer prepares to fight leadership bid by Streeting (£, [43 minutes ago](https://www.ft.com/content/f566714c-d611-4d9e-94f0-e1c01bdbb8c0))
 - Urban Art Biennale: Rust, dust and decay revamps Germany's Völklingen ironworks (€, [1 hours ago](http://www.euronews.com/culture/2026/05/14/urban-art-biennale-rust-dust-and-decay-revamps-germanys-volklingen-ironworks))
 - Canada is offering free access to its national parks this summer (€, [1 hours ago](http://www.euronews.com/travel/2026/05/14/canada-is-offering-free-access-to-its-national-parks-this-summer))
-- Latest news bulletin  May 14th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/14/latest-news-bulletin-may-14th-2026-morning))
+- Latest news bulletin May 14th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/14/latest-news-bulletin-may-14th-2026-morning))
 - 'New People': Russia's Kremlin-made spoiler party is now its second most popular (€, [1 hours ago](http://www.euronews.com/my-europe/2026/05/14/new-people-russias-kremlin-made-spoiler-party-is-now-its-second-most-popular))
 - Eating vegetables in pregnancy may influence children’s tastes later, study finds (€, [1 hours ago](http://www.euronews.com/health/2026/05/14/eating-vegetables-in-pregnancy-may-influence-childrens-tastes-later-study-finds))
 - These are tech titans in Beijing with Trump and what they want from China (€, [1 hours ago](http://www.euronews.com/next/2026/05/14/these-are-tech-titans-in-beijing-with-trump-and-what-they-want-from-china))
@@ -111,7 +120,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > pig's whisper - noun: 1. A very short time. 2. A low or nearly inaudible whisper.
+> pig's whisper - noun: 1. A very short time. 2. A low or nearly inaudible whisper.
 
 <!-- word_marker ends -->
 
@@ -126,6 +135,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Don't be frightened to display your talents
 
 <!-- eno_marker ends -->
@@ -133,6 +143,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Tron (Rated: 2)
 - Released in 1982
 - Summary: A computer hacker is abducted into a digital world and forced to participate in gladiatorial games where his only chance of escape is with the help of a heroic security program.
@@ -156,6 +167,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - CodeGood [URL](https://codegood.co/) [Feed](https://codegood.co/feed.xml)
 - The 5k Runner [URL](https://the5krunner.com/) [Feed](http://the5krunner.com/feed/)
 - Information is Beautiful [URL](https://informationisbeautiful.net/) [Feed](http://feeds.feedburner.com/InformationIsBeautiful)
