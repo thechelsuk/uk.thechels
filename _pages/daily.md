@@ -11,6 +11,7 @@ date: 2026-05-15
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Friday, 15 May 2026
 
 - The average temperature today is 4.88˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 15 days since the last change (2026-04-30)
 
@@ -33,18 +35,22 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Challenge assumptions.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Salford City v Grimsby Town
 - Notts County v Chesterfield
 - Aston Villa v Liverpool
@@ -54,21 +60,24 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 135.8000030517578 
-- ^FTSE : 10372.900390625 
-- ^FTMC : 22828.099609375 
+- VWRL.L : 135.8000030517578
+- ^FTSE : 10372.900390625
+- ^FTMC : 22828.099609375
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > I have recently resigned from my job and have applied for a new job but yet to hear anything. It was at a chiropractor about a weak back.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - China and US ‘feel very similar about Iran’, Trump says (£, [19 minutes ago](https://www.ft.com/content/66933e51-e06d-475c-aed2-f808f9443dea))
 - Europe Today: Latvia in turmoil after PM resigns over drone incursion — what now? (€, [25 minutes ago](http://www.euronews.com/my-europe/2026/05/15/europe-today-latvia-in-turmoil-after-pm-resigns-over-drone-incursion-what-now))
 - AWS racks M3 Ultra Macs that boast specs you can’t currently buy (®, [43 minutes ago](https://www.theregister.com/off-prem/2026/05/15/aws-racks-m3-ultra-macs-that-boast-specs-you-cant-currently-buy/5240901))
@@ -76,7 +85,7 @@ _Good Morning, Here is your daily briefing..._
 - Israel and Lebanon meet for third round of direct talks in Washington (€, [1 hours ago](http://www.euronews.com/2026/05/15/israel-and-lebanon-meet-for-third-round-of-direct-talks-in-washington))
 - From London to Athens: Europe’s best cities for easy day trips revealed (€, [1 hours ago](http://www.euronews.com/travel/2026/05/15/from-london-to-athens-europes-best-cities-for-easy-day-trips-revealed))
 - Are you sleeping too little or too much for healthy ageing? (€, [1 hours ago](http://www.euronews.com/health/2026/05/15/are-you-sleeping-too-little-or-too-much-for-healthy-ageing))
-- Latest news bulletin  May 15th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/15/latest-news-bulletin-may-15th-2026-morning))
+- Latest news bulletin May 15th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/15/latest-news-bulletin-may-15th-2026-morning))
 - Iran eyes fees on Hormuz internet cables as new lever against the West (€, [1 hours ago](http://www.euronews.com/2026/05/15/iran-eyes-fees-on-hormuz-internet-cables-as-new-lever-against-the-west))
 - Germany, Spain, France and Portugal miss out on top 10 most climate-resilient capitals – full list (€, [1 hours ago](http://www.euronews.com/2026/05/15/germany-spain-france-and-portugal-miss-out-on-top-10-most-climate-resilient-capitals-full-))
 - Exclusive: Inside Gaza's hunger crisis as aid falters and funding dries up (€, [1 hours ago](http://www.euronews.com/2026/05/15/exclusive-inside-gazas-hunger-crisis-as-aid-falters-and-funding-dries-up))
@@ -111,7 +120,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > parson's week - noun: A period of 13 days, especially as a holiday.
+> parson's week - noun: A period of 13 days, especially as a holiday.
 
 <!-- word_marker ends -->
 
@@ -126,6 +135,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Is there something missing?
 
 <!-- eno_marker ends -->
@@ -133,6 +143,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Detroit Rock City (Rated: 3)
 - Released in 1999
 - Summary: In 1978, four rebellious teenagers try to scam their way into a KISS concert.
@@ -156,6 +167,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Giles Turnbull [URL](https://gilest.org/) [Feed](https://gilest.org/feed/index.xml)
 - pzumk [URL](https://pzumk.com/) [Feed](https://pzumk.com/rss/)
 - Journalism UK [URL](https://www.journalism.co.uk/) [Feed](https://www.journalism.co.uk/rss/)
