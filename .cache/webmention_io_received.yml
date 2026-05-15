@@ -2487,7 +2487,41 @@
     content: "<p>Good Morning, Here is your daily briefing… On Wednesday, 13 May 2026
       The average temperature today is 9˚C, With highs of 9.26˚C and lows of 8.72˚C,
       It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-13-daily-rundown\">thechels.uk</a>.</p>"
-"/film-club": {}
+"/film-club":
+  '1996255':
+    id: '1996255'
+    uri: https://nuchronic.uk/item/social-film-club-5826e99d14/
+    source: false
+    pubdate: 2026-05-13 15:25:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/social-film-club-5826e99d14/
+      verified: true
+      verified_date: '2026-05-13T16:59:52+00:00'
+      id: 1996255
+      private: false
+      data:
+        author: &35
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/social-film-club-5826e99d14/
+        name: Social - Film Club
+        content: "<p>I now have 1404 films logged, I am certain I have more missing
+          from my watched list though, but no chance of remembering them. *** // Published
+          2026-05-13, w…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/film-club\">thechels.uk</a>.</p>"
+        published: '2026-05-13T14:25:00+00:00'
+        published_ts: 1778682300
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/social-film-club-5826e99d14/
+      target: https://thechels.uk/film-club
+    author: *35
+    type: link
+    title: Social - Film Club
+    content: "<p>I now have 1404 films logged, I am certain I have more missing from
+      my watched list though, but no chance of remembering them. *** // Published
+      2026-05-13, w…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/film-club\">thechels.uk</a>.</p>"
 "/what-can-you-buy-with-a-5m-donation":
   '1996308':
     id: '1996308'
@@ -2501,7 +2535,7 @@
       id: 1996308
       private: false
       data:
-        author: &35
+        author: &36
           name: Nuchronic
           url: https://nuchronic.uk/
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
@@ -2518,7 +2552,7 @@
       rels:
         canonical: https://nuchronic.uk/item/social-what-can-you-buy-with-a-5m-donation-3ea2cb09be/
       target: https://thechels.uk/what-can-you-buy-with-a-5m-donation
-    author: *35
+    author: *36
     type: link
     title: Social - What can you buy with a £5m donation
     content: "<p>What can you buy with a £5m donation? The longer Starmer is in office,
@@ -2537,7 +2571,7 @@
       id: 1996370
       private: false
       data:
-        author: &36
+        author: &37
           name: Nuchronic
           url: https://nuchronic.uk/
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
@@ -2553,7 +2587,7 @@
       rels:
         canonical: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-9-2-8d5a2429d8/
       target: https://thechels.uk/nnw-theme-bundle-release-79f22f31f761
-    author: *36
+    author: *37
     type: link
     title: Release - NNW Theme Bundle Version v1.9.2
     content: "<p>Add new theme named Magda, a dark-mode-only, content first theme.
@@ -2572,7 +2606,7 @@
       id: 1996410
       private: false
       data:
-        author: &37
+        author: &38
           name: Nuchronic
           url: https://nuchronic.uk/
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
@@ -2588,7 +2622,7 @@
       rels:
         canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-14-f6c56eba96/
       target: https://thechels.uk/2026-05-14-daily-rundown
-    author: *37
+    author: *38
     type: link
     title: Daily - Daily Rundown for 2026-05-14
     content: "<p>Good Morning, Here is your daily briefing… On Thursday, 14 May 2026
