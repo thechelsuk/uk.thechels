@@ -2628,3 +2628,39 @@
     content: "<p>Good Morning, Here is your daily briefing… On Thursday, 14 May 2026
       The average temperature today is 7.21˚C, With highs of 8.49˚C and lows of 7.04˚C,
       It may…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-14-daily-rundown\">thechels.uk</a>.</p>"
+"/2026-05-15-daily-rundown":
+  '1996605':
+    id: '1996605'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-15-4395524f85/
+    source: false
+    pubdate: 2026-05-15 06:22:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-15-4395524f85/
+      verified: true
+      verified_date: '2026-05-15T07:24:36+00:00'
+      id: 1996605
+      private: false
+      data:
+        author: &39
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-15-4395524f85/
+        name: Daily - Daily Rundown for 2026-05-15
+        content: "<p>Good Morning, Here is your daily briefing… On Friday, 15 May
+          2026 The average temperature today is 4.88˚C, With highs of 5.54˚C and lows
+          of 4.18˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/2026-05-15-daily-rundown\">thechels.uk</a>.</p>"
+        published: '2026-05-15T05:22:00+00:00'
+        published_ts: 1778822520
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-15-4395524f85/
+      target: https://thechels.uk/2026-05-15-daily-rundown
+    author: *39
+    type: link
+    title: Daily - Daily Rundown for 2026-05-15
+    content: "<p>Good Morning, Here is your daily briefing… On Friday, 15 May 2026
+      The average temperature today is 4.88˚C, With highs of 5.54˚C and lows of 4.18˚C,
+      It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-15-daily-rundown\">thechels.uk</a>.</p>"
