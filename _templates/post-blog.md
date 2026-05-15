@@ -1,9 +1,11 @@
 ---
 layout: post
 title: post title
-date: YYYY-MM-DDH HH:MM
+date: YYYY-MM-DD HH:MM
 type: blog
-syndicate: false
+syndicate: true
+
+
 ---
 
 content

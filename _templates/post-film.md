@@ -1,10 +1,10 @@
 ---
 layout: post
 date: YYYY-MM-DD HH:MM
-title: Video title
-type: video
+title: Film Club Monthly - Month Year
+type: film
 syndicate: true
 
 ---
 
-[watch on YouTube](url)
+my comment

@@ -3,6 +3,8 @@ layout: post
 date: YYYY-MM-DD HH:MM
 title: Monthly Mixtape - mmm YYYY
 type: mixtape
+syndicate: true
+
 ---
 
 What I've been listening to this month.
