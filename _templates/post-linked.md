@@ -6,7 +6,6 @@ title: post title
 type: linked
 cited: source name
 syndicate: false
-
 ---
 
 my comment
