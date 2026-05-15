@@ -85,7 +85,8 @@ def build_post_content(
                     "syndicate: false\n"
                     "type: film\n"
                     "\n"
-                    "---")
+                    "---"
+                    "\n")
 
     content_lines = [""]  # ensures a newline after front matter
     for _, film in recent_films:
