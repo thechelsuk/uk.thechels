@@ -11,6 +11,7 @@ date: 2026-05-16
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Saturday, 16 May 2026
 
 - The average temperature today is 6.81˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 16 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Water the plants
 
 <!-- task_marker ends -->
@@ -40,12 +43,15 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Exploit the landscape.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Crystal Palace U18 v Arsenal U18
 - Brighton & Hove Albion Women v Tottenham Hotspur Women
 - Chelsea Women v Manchester United Women
@@ -61,26 +67,29 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 135.39999389648438 
-- ^FTSE : 10195.400390625 
-- ^FTMC : 22596.099609375 
+- VWRL.L : 135.39999389648438
+- ^FTSE : 10195.400390625
+- ^FTMC : 22596.099609375
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Where do they make facts? At the factory.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Chelsea ‘will not entertain any enquiries’ for João Pedro — reports (♣, [53 minutes ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168627/chelsea-will-not-entertain-any-enquiries-for-joao-pedro-reports))
 - Ok computer: Rare folk instruments and lost melodies find a digital future (€, [55 minutes ago](http://www.euronews.com/culture/2026/05/16/ok-computer-rare-folk-instruments-and-lost-melodies-find-a-digital-future))
 - Europe’s offshore wind power is vulnerable to attacks. Who is responsible for protecting it? (€, [1 hours ago](http://www.euronews.com/2026/05/16/europes-offshore-wind-power-is-vulnerable-to-attacks-who-is-responsible-for-protecting-it))
 - Tennis travel: Europe’s top hotels and resorts for a grand slam holiday (€, [1 hours ago](http://www.euronews.com/travel/2026/05/16/tennis-travel-europes-top-hotels-and-resorts-for-a-grand-slam-holiday))
-- Latest news bulletin  May 16th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/16/latest-news-bulletin-may-16th-2026-morning))
+- Latest news bulletin May 16th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/16/latest-news-bulletin-may-16th-2026-morning))
 - A call to stop the global housing: World Urban Forum, why it matters? (€, [1 hours ago](http://www.euronews.com/2026/05/16/a-call-to-stop-the-global-housing-world-urban-forum-why-it-matters))
 - Nvidia surpasses Germany: How the market caps of tech giants compare to top economies (€, [1 hours ago](http://www.euronews.com/business/2026/05/16/nvidia-surpasses-germany-how-the-market-caps-of-tech-giants-compare-to-top-economies))
 - The century of the stalemate (£, [2 hours ago](https://www.ft.com/content/ef39e535-f040-4ade-91b1-61fea53bd31a))
@@ -120,7 +129,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > parson's week - noun: A period of 13 days, especially as a holiday.
+> parson's week - noun: A period of 13 days, especially as a holiday.
 
 <!-- word_marker ends -->
 
@@ -135,6 +144,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Cascades
 
 <!-- eno_marker ends -->
@@ -142,6 +152,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Dead Silence (Rated: 6)
 - Released in 2007
 - Summary: After his wife meets a grisly end, Jamie Ashen returns to his haunted hometown of Ravens Fair to find answers. His investigation leads him to the ghost of a ventriloquist named Mary Shaw who seems to have ties to his entire family...
@@ -165,6 +176,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Six Colors [URL](https://sixcolors.com/?feed=json) [Feed](https://sixcolors.com/feed.json)
 - Ian Betteridge [URL](https://www.ianbetteridge.com/) [Feed](https://www.ianbetteridge.com/rss/)
 - Sam Ollason [URL](https://samollason.github.io/) [Feed](https://samollason.github.io/feed)
