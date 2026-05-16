@@ -2700,3 +2700,39 @@
     content: "<p>Really like this approach. I use some canned messages and text in
       my app ShortKeys. This feels like a sensible addition. **I took an hour to write
       a really n…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/no-in-advance\">thechels.uk</a>.</p>"
+"/2026-05-16-daily-rundown":
+  '1996745':
+    id: '1996745'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-16-8cd67dd55b/
+    source: false
+    pubdate: 2026-05-16 06:10:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-16-8cd67dd55b/
+      verified: true
+      verified_date: '2026-05-16T07:00:17+00:00'
+      id: 1996745
+      private: false
+      data:
+        author: &41
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-16-8cd67dd55b/
+        name: Daily - Daily Rundown for 2026-05-16
+        content: "<p>Good Morning, Here is your daily briefing… On Saturday, 16 May
+          2026 The average temperature today is 6.81˚C, With highs of 7.2˚C and lows
+          of 6.4˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/2026-05-16-daily-rundown\">thechels.uk</a>.</p>"
+        published: '2026-05-16T05:10:00+00:00'
+        published_ts: 1778908200
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-16-8cd67dd55b/
+      target: https://thechels.uk/2026-05-16-daily-rundown
+    author: *41
+    type: link
+    title: Daily - Daily Rundown for 2026-05-16
+    content: "<p>Good Morning, Here is your daily briefing… On Saturday, 16 May 2026
+      The average temperature today is 6.81˚C, With highs of 7.2˚C and lows of 6.4˚C,
+      It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-16-daily-rundown\">thechels.uk</a>.</p>"
