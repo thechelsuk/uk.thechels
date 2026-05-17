@@ -140,7 +140,7 @@ if __name__ == "__main__":
                             height = max(1,
                                          int(img.height * width / img.width))
                             img = img.resize((width, height), Image.LANCZOS)
-                        new_cover_path = f"./image/books/book-{saved_book['isbn'].replace('-', '').replace(' ', '')}.png"
+                        new_cover_path = f"./images/books/book-{saved_book['isbn'].replace('-', '').replace(' ', '')}.png"
                         os.makedirs(os.path.dirname(new_cover_path),
                                     exist_ok=True)
                         img.convert("RGBA").save(new_cover_path, "PNG")

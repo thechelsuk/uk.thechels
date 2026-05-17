@@ -568,19 +568,22 @@ a {
     grid-gap: 0;
     grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
     max-width: 832px;
+}
 
-    >.book {
-        display: flex;
+.book-list .book {
+    display: flex;
+    min-width: 0;
+}
 
-        .book-img {
-            flex-shrink: 0;
-            width: 90px;
+.book-list .book-img {
+    width: 144px;
+}
 
-            img {
-                border: 0;
-            }
-        }
-    }
+.book-list .book-img img {
+    border: 1px solid var(--primary);
+    width: 144px;
+    height: 144px;
+    object-fit: cover;
 }
 
 /* ---------------------------------- */
@@ -901,13 +904,16 @@ table {
 
     .book-list {
         display: grid;
-        grid-gap: 0;
+        grid-gap: 0px;
         grid-template-columns: repeat(auto-fill, minmax(72px, 1fr));
-
-        .book-img {
-            flex-shrink: 0;
-            width: 72px;
-        }
+    }
+    .book-list .book-img {
+        width: 72px;
+    }
+    .book-list .book-img img {
+        width: 72px;
+        height: 110px;
+        object-fit: cover;
     }
 
     .meta,
