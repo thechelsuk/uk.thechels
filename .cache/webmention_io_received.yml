@@ -2844,3 +2844,39 @@
     content: "<p>No release notes were included for this release. Read more about
       my projects <em>** // Published 2026-05-16, with 14 words. **</em> ???? Thanks
       for keeping RSS alive….</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/cheltenham-open-data-release-a400aa248379\">thechels.uk</a>.</p>"
+"/2026-05-17-daily-rundown":
+  '1996864':
+    id: '1996864'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-17-7dacdb8802/
+    source: false
+    pubdate: 2026-05-17 06:21:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-17-7dacdb8802/
+      verified: true
+      verified_date: '2026-05-17T07:13:07+00:00'
+      id: 1996864
+      private: false
+      data:
+        author: &45
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-17-7dacdb8802/
+        name: Daily - Daily Rundown for 2026-05-17
+        content: "<p>Good Morning, Here is your daily briefing… On Sunday, 17 May
+          2026 The average temperature today is 9.26˚C, With highs of 9.27˚C and lows
+          of 8.25˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/2026-05-17-daily-rundown\">thechels.uk</a>.</p>"
+        published: '2026-05-17T05:21:00+00:00'
+        published_ts: 1778995260
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-17-7dacdb8802/
+      target: https://thechels.uk/2026-05-17-daily-rundown
+    author: *45
+    type: link
+    title: Daily - Daily Rundown for 2026-05-17
+    content: "<p>Good Morning, Here is your daily briefing… On Sunday, 17 May 2026
+      The average temperature today is 9.26˚C, With highs of 9.27˚C and lows of 8.25˚C,
+      It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-17-daily-rundown\">thechels.uk</a>.</p>"
