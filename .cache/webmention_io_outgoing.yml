@@ -187,12 +187,9 @@ https://thechels.uk/setting-goals-and-getting-buy-in:
   https://brid.gy/publish/bluesky: true
   https://brid.gy/publish/reddit: true
 https://thechels.uk/3-ways-to-meet-compliance-needs-without-slowing-down-agility:
-  ? https://docs.github.com/en/enterprise-cloud@latest/admin/identity-and-access-management/using-saml-for-enterprise-iam/configuring-saml-single-sign-on-for-your-enterprise
-  : true
-  ? https://docs.github.com/en/enterprise-cloud@latest/organizations/organizing-members-into-teams/synchronizing-a-team-with-an-identity-provider-group
-  : true
-  ? https://docs.github.com/en/enterprise-cloud@latest/admin/identity-and-access-management/using-enterprise-managed-users-for-iam/about-enterprise-managed-users
-  : true
+  https://docs.github.com/en/enterprise-cloud@latest/admin/identity-and-access-management/using-saml-for-enterprise-iam/configuring-saml-single-sign-on-for-your-enterprise: true
+  https://docs.github.com/en/enterprise-cloud@latest/organizations/organizing-members-into-teams/synchronizing-a-team-with-an-identity-provider-group: true
+  https://docs.github.com/en/enterprise-cloud@latest/admin/identity-and-access-management/using-enterprise-managed-users-for-iam/about-enterprise-managed-users: true
   https://github.blog/2022-12-20-emus-more-than-just-flightless-birds/: true
   https://brid.gy/publish/mastodon: true
   https://brid.gy/publish/bluesky: true
@@ -418,8 +415,7 @@ https://thechels.uk/mixtape-music-03-2025:
   https://brid.gy/publish/bluesky: true
   https://brid.gy/publish/reddit: true
 https://thechels.uk/add-styled-alerts-to-github-markdown-documents:
-  ? https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-  : true
+  https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax: true
   https://brid.gy/publish/mastodon: true
   https://brid.gy/publish/bluesky: true
   https://brid.gy/publish/reddit: true
@@ -2994,8 +2990,7 @@ https://thechels.uk/is-the-us-a-terrorist-organisation:
   https://brid.gy/publish/reddit: false
   https://www.cps.gov.uk/types-crime/terrorism: false
   https://www.theguardian.com/world/2026/mar/03/us-israel-iran-war-christian-rhetoric: false
-  ? https://www.militaryreligiousfreedom.org/2026/03/mrff-inundated-with-complaints-of-gleeful-commanders-telling-troops-iran-war-is-part-of-gods-divine-plan-to-usher-in-the-return-of-jesus-christ/
-  : false
+  https://www.militaryreligiousfreedom.org/2026/03/mrff-inundated-with-complaints-of-gleeful-commanders-telling-troops-iran-war-is-part-of-gods-divine-plan-to-usher-in-the-return-of-jesus-christ/: false
 https://thechels.uk/wordpress-debuts-a-private-workspace-that-runs-in-your-browser:
   https://brid.gy/publish/mastodon: false
   https://brid.gy/publish/bluesky: false
@@ -3060,8 +3055,8 @@ https://thechels.uk/swansea-man-was-active-but-now-he-can't-walk-or-talk-at-28:
   https://brid.gy/publish/mastodon: false
   https://brid.gy/publish/bluesky: false
   https://brid.gy/publish/reddit: false
-? https://thechels.uk/incidence-of-me-peaks-in-adolescence-or-early-middle-age-institute-of-genetics-and-cancer-institute-of-genetics-and-cancer
-: https://brid.gy/publish/mastodon: false
+https://thechels.uk/incidence-of-me-peaks-in-adolescence-or-early-middle-age-institute-of-genetics-and-cancer-institute-of-genetics-and-cancer:
+  https://brid.gy/publish/mastodon: false
   https://brid.gy/publish/bluesky: false
   https://brid.gy/publish/reddit: false
 https://thechels.uk/monthly-mixtape-mar-2026:
@@ -3656,14 +3651,12 @@ https://thechels.uk/2026-04-20-daily-rundown:
   https://www.ft.com/content/84566148-26de-4bb7-9d7c-d943c4c904ca: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/20/hp_anyware_eol/: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/20/blue_origin_nails_the_landing/: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/167947/chelsea-0-1-manchester-united-player-ratings-searching-for-any-green-shoots
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/167947/chelsea-0-1-manchester-united-player-ratings-searching-for-any-green-shoots: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/167937/the-daily-hilario-april-20th: false
   https://www.ft.com/content/3f067df5-5016-4be1-aa61-21af3e7668e2: false
   https://www.ft.com/content/98ab4190-9dbc-4f6c-bc3f-1a8afd0f4cc1: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/167910/the-daily-hilario-april-19th: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/167927/liam-rosenior-left-befuddled-by-impossible-defeat-after-dominant-performance
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/167927/liam-rosenior-left-befuddled-by-impossible-defeat-after-dominant-performance: false
   https://weaintgotnohistory.sbnation.com/premier-league/167914/chelsea-0-1-manchester-united-premier-league-post-match-reaction: false
   https://www.calumryan.com/bookmarks: false
   https://www.calumryan.com/feeds/bookmarks/rss: false
@@ -3971,16 +3964,13 @@ https://thechels.uk/2026-04-21-daily-rundown:
   http://www.euronews.com/2026/04/21/us-iran-ceasefire-on-brink-of-collapse-as-talks-stall-and-strait-of-hormuz-crisis-deepens: false
   http://www.euronews.com/2026/04/21/important-threshold-crossed-as-renewables-meet-worlds-energy-demands-and-fossil-power-drop: false
   http://www.euronews.com/video/2026/04/21/timelapse-footage-shows-maritime-traffic-around-gulf-straight-of-hormuz: false
-  ? http://www.euronews.com/my-europe/2026/04/21/appetite-among-nato-members-to-join-iran-war-very-limited-says-norwegian-foreign-affairs-m
-  : false
+  http://www.euronews.com/my-europe/2026/04/21/appetite-among-nato-members-to-join-iran-war-very-limited-says-norwegian-foreign-affairs-m: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/21/panasonic_locked_qr_codes/: false
   https://www.ft.com/content/5b5a466c-fc48-429d-b505-2c81d87e3615: false
   https://www.ft.com/content/0699aafc-13ff-491a-be8f-2d05fa356aa9: false
   http://www.euronews.com/video/2026/04/21/marijuana-smokers-celebrate-420-in-new-york: false
-  ? http://www.euronews.com/culture/2026/04/21/this-is-a-sacrilege-nancy-sinatra-calls-out-donald-trump-for-using-father-franks-my-way
-  : false
-  ? http://www.euronews.com/my-europe/2026/04/21/following-four-years-of-full-scale-war-which-eu-countries-are-hosting-the-most-ukrainians
-  : false
+  http://www.euronews.com/culture/2026/04/21/this-is-a-sacrilege-nancy-sinatra-calls-out-donald-trump-for-using-father-franks-my-way: false
+  http://www.euronews.com/my-europe/2026/04/21/following-four-years-of-full-scale-war-which-eu-countries-are-hosting-the-most-ukrainians: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/21/iran_claims_us_used_backdoors/: false
   https://www.ft.com/content/154d34b6-3e04-456b-af33-ea12c8fa5945: false
   https://www.ft.com/content/82fafcaf-7770-41d3-9497-e25ffad27192: false
@@ -4084,24 +4074,18 @@ https://thechels.uk/2026-04-22-daily-rundown:
   https://www.ft.com/content/648a37b8-e73b-490b-8fd2-fe3e0d4f5c2d: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/21/apple_ternus_rediscover_humanity/: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/21/ncsc_chinas_cyberattacks_uk/: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/167990/brighton-hove-albion-3-0-chelsea-premier-league-post-match-reaction-ratings
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/167990/brighton-hove-albion-3-0-chelsea-premier-league-post-match-reaction-ratings: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/21/zorin_os_181_released/: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/21/exfbi_cyber_chief_urges_felony_charges_ransomware/: false
   https://www.ft.com/content/657d86df-5e0d-4d03-bf0c-cb768a58e758: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/167979/brighton-hove-albion-vs-chelsea-premier-league-confirmed-lineups-how-to-watch
-  : false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/167974/chelsea-fans-preferred-lineup-against-brighton-anybody-but-garnacho
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/167979/brighton-hove-albion-vs-chelsea-premier-league-confirmed-lineups-how-to-watch: false
+  https://weaintgotnohistory.sbnation.com/premier-league/167974/chelsea-fans-preferred-lineup-against-brighton-anybody-but-garnacho: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/21/cisco_sdwan_bugs_kev/: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/21/phone_to_satellite_services_jump_25_percent/: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/167961/brighton-hove-albion-vs-chelsea-premier-league-preview-team-news-how-to-watch
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/167961/brighton-hove-albion-vs-chelsea-premier-league-preview-team-news-how-to-watch: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/167952/the-daily-hilario-april-21st: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/167955/how-should-chelsea-line-up-against-brighton-to-maybe-win-a-game-for-once-or-at-least-score-a-goal
-  : false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/167947/chelsea-0-1-manchester-united-player-ratings-searching-for-any-green-shoots
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/167955/how-should-chelsea-line-up-against-brighton-to-maybe-win-a-game-for-once-or-at-least-score-a-goal: false
+  https://weaintgotnohistory.sbnation.com/premier-league/167947/chelsea-0-1-manchester-united-player-ratings-searching-for-any-green-shoots: false
   https://dambron.fr/: false
   https://dambron.fr/rss.xml: false
   https://informationisbeautiful.net/: false
@@ -4126,11 +4110,9 @@ https://thechels.uk/2026-04-23-daily-rundown:
   https://go.theregister.com/feed/www.theregister.com/2026/04/23/ncsc_passkey_tech_now_reliable/: false
   https://www.ft.com/content/6dfa7e3c-e2b7-476d-bbb6-b68672a04de0: false
   http://www.euronews.com/my-europe/2026/04/23/russian-oil-flow-to-slovakia-via-druzhba-pipeline-resumes: false
-  ? http://www.euronews.com/culture/2026/04/23/italy-under-pressure-over-kanye-ye-west-gig-after-uk-france-poland-and-switzerland-cancell
-  : false
+  http://www.euronews.com/culture/2026/04/23/italy-under-pressure-over-kanye-ye-west-gig-after-uk-france-poland-and-switzerland-cancell: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168034/the-daily-hilario-april-23rd: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168038/andonio-iraola-marco-silva-edin-terzic-others-under-consideration-for-next-chelsea-head-coach-reports
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/168038/andonio-iraola-marco-silva-edin-terzic-others-under-consideration-for-next-chelsea-head-coach-reports: false
   https://www.ft.com/content/836ea939-c1a0-4943-8608-71dc3d4d838d: false
   https://www.ft.com/content/0de4e436-f67b-444a-bfb5-f50b85710deb: false
   https://www.ft.com/content/cac5870b-5507-4130-b4fd-a1c60d0ed6f3: false
@@ -4145,19 +4127,15 @@ https://thechels.uk/2026-04-23-daily-rundown:
   https://go.theregister.com/feed/www.theregister.com/2026/04/22/sk_hynix_indiana/: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/22/openai_chronicle_no_privacy_screenshot/: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/22/github_opts_all_cli_users/: false
-  ? https://weaintgotnohistory.sbnation.com/injury-news/168024/estevao-to-miss-rest-of-season-world-cup-with-very-serious-hamstring-strain-report
-  : false
+  https://weaintgotnohistory.sbnation.com/injury-news/168024/estevao-to-miss-rest-of-season-world-cup-with-very-serious-hamstring-strain-report: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/22/linux_us_state_age_verificaiton_laws/: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/22/us_nonprofits_datacenter_power_plants/: false
   https://weaintgotnohistory.sbnation.com/chelsea-fc-news/168011/official-chelsea-sack-liam-rosenior: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/167986/the-daily-hilario-april-22nd: false
   https://weaintgotnohistory.sbnation.com/premier-league/167998/liam-rosenior-admits-hes-lost-the-dressing-room-at-chelsea: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/167990/brighton-hove-albion-3-0-chelsea-premier-league-post-match-reaction-ratings
-  : false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/167979/brighton-hove-albion-vs-chelsea-premier-league-confirmed-lineups-how-to-watch
-  : false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/167974/chelsea-fans-preferred-lineup-against-brighton-anybody-but-garnacho
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/167990/brighton-hove-albion-3-0-chelsea-premier-league-post-match-reaction-ratings: false
+  https://weaintgotnohistory.sbnation.com/premier-league/167979/brighton-hove-albion-vs-chelsea-premier-league-confirmed-lineups-how-to-watch: false
+  https://weaintgotnohistory.sbnation.com/premier-league/167974/chelsea-fans-preferred-lineup-against-brighton-anybody-but-garnacho: false
   https://onethingwell.org/: false
   http://onethingwell.org/rss: false
   https://digitalbydefault.com/: false
@@ -4177,23 +4155,19 @@ https://thechels.uk/2026-04-24-daily-rundown:
   http://www.euronews.com/my-europe/2026/04/24/eu-failure-to-sanction-israel-weakens-defence-of-ukraine-warns-pedro-sanchez: false
   http://www.euronews.com/business/2026/04/24/intel-shares-soar-20-on-earnings-beat-and-stronger-than-expected-outlook: false
   http://www.euronews.com/my-europe/2026/04/24/ranked-which-countries-have-had-the-worst-fuel-price-spikes-since-the-iran-war: false
-  ? http://www.euronews.com/next/2026/04/24/elon-musks-xai-discussed-partnership-with-mistral-to-try-and-rival-openai-and-anthropic-re
-  : false
+  http://www.euronews.com/next/2026/04/24/elon-musks-xai-discussed-partnership-with-mistral-to-try-and-rival-openai-and-anthropic-re: false
   https://www.ft.com/content/1a5a2502-a45a-40c1-af6f-b30ecc34bacb: false
-  ? http://www.euronews.com/culture/2026/04/24/block-the-merger-celebrities-react-as-shareholders-approve-paramount-takeover-of-warner-br
-  : false
+  http://www.euronews.com/culture/2026/04/24/block-the-merger-celebrities-react-as-shareholders-approve-paramount-takeover-of-warner-br: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/24/digital_it_consult/: false
   http://www.euronews.com/business/2026/04/24/meta-axes-8000-jobs-to-fund-ai-spending-spree-microsoft-to-follow-suit: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/24/betting_shop_computer_glitch_sees/: false
   http://www.euronews.com/video/2026/04/24/ukraine-russian-strike-on-odesa-kills-2-hits-hospitals-and-schools-overnight: false
-  ? http://www.euronews.com/culture/2026/04/24/eurovision-crisis-slovenia-to-broadcast-films-about-palestine-instead-of-this-years-eurovi
-  : false
+  http://www.euronews.com/culture/2026/04/24/eurovision-crisis-slovenia-to-broadcast-films-about-palestine-instead-of-this-years-eurovi: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/24/on_call/: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168051/the-daily-hilario-april-24th: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/24/fast16_sabotage_malware/: false
   http://www.euronews.com/my-europe/2026/04/24/at-first-summit-without-orban-zelenskyy-rejects-symbolic-eu-membership: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168059/manchester-city-considering-enzo-fernandez-as-summer-transfer-option-report
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168059/manchester-city-considering-enzo-fernandez-as-summer-transfer-option-report: false
   http://www.euronews.com/my-europe/2026/04/24/russian-soldiers-should-be-banned-from-schengen-for-life-estonian-pm-tells-euronews: false
   https://weaintgotnohistory.sbnation.com/premier-league/168055/brighton-hove-albion-3-0-chelsea-player-ratings-postscript: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/24/rentable_iot_security_flaws/: false
@@ -4210,10 +4184,8 @@ https://thechels.uk/2026-04-24-daily-rundown:
   https://go.theregister.com/feed/www.theregister.com/2026/04/23/claude_opus_47_auc_overzealous/: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/23/china_covert_networks/: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168034/the-daily-hilario-april-23rd: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168038/andonio-iraola-marco-silva-edin-terzic-others-under-consideration-for-next-chelsea-head-coach-reports
-  : false
-  ? https://weaintgotnohistory.sbnation.com/injury-news/168024/estevao-to-miss-rest-of-season-world-cup-with-very-serious-hamstring-strain-report
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/168038/andonio-iraola-marco-silva-edin-terzic-others-under-consideration-for-next-chelsea-head-coach-reports: false
+  https://weaintgotnohistory.sbnation.com/injury-news/168024/estevao-to-miss-rest-of-season-world-cup-with-very-serious-hamstring-strain-report: false
   https://weaintgotnohistory.sbnation.com/chelsea-fc-news/168011/official-chelsea-sack-liam-rosenior: false
   https://marcamos.com/journal/: false
   https://marcamos.com/journal/feed.xml: false
@@ -4243,19 +4215,14 @@ https://thechels.uk/2026-04-25-daily-rundown:
   https://www.ft.com/content/9c6b31a0-6490-41e6-af47-424d0dbc8877: false
   https://ig.ft.com/global-energy-flows/: false
   https://www.ft.com/content/4795501a-37d3-4954-8294-4e0cbf32d30c: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168080/frank-lampards-business-is-at-coventry-not-chelsea
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168080/frank-lampards-business-is-at-coventry-not-chelsea: false
   http://www.euronews.com/video/2026/04/24/italy-tests-r1-robotic-museum-guide-in-turins-historic-palazzo-madama: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/24/deepseek_v4/: false
   https://www.ft.com/content/199c4082-9c97-4f59-bdb0-8b1f53abb11a: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168076/cesc-fabregas-would-be-stupid-to-think-about-chelsea-job-opportunity-right-now
-  : false
-  ? http://www.euronews.com/my-europe/2026/04/24/eu-and-us-deepen-cooperation-on-critical-minerals-amid-concerns-over-chinas-dominance
-  : false
-  ? https://weaintgotnohistory.sbnation.com/domestic-cups/168071/how-should-calum-mcfarlanes-blue-and-white-army-line-up-against-leeds-united-in-fa-cup-semifinal
-  : false
-  ? http://www.euronews.com/my-europe/2026/04/24/eu-leaders-vow-to-boost-security-and-economic-ties-with-middle-east-to-minimise-effect-of-
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168076/cesc-fabregas-would-be-stupid-to-think-about-chelsea-job-opportunity-right-now: false
+  http://www.euronews.com/my-europe/2026/04/24/eu-and-us-deepen-cooperation-on-critical-minerals-amid-concerns-over-chinas-dominance: false
+  https://weaintgotnohistory.sbnation.com/domestic-cups/168071/how-should-calum-mcfarlanes-blue-and-white-army-line-up-against-leeds-united-in-fa-cup-semifinal: false
+  http://www.euronews.com/my-europe/2026/04/24/eu-leaders-vow-to-boost-security-and-economic-ties-with-middle-east-to-minimise-effect-of-: false
   https://www.ft.com/content/0d7b0fd1-8e7c-404d-988d-15b31e91c1eb: false
   https://www.ft.com/content/60eebca5-1cf2-4183-a9b5-cc62830da8f3: false
   http://www.euronews.com/my-europe/2026/04/24/reigning-two-time-champ-carlos-alcaraz-pulls-out-of-french-open-due-to-wrist-injury: false
@@ -4269,12 +4236,10 @@ https://thechels.uk/2026-04-25-daily-rundown:
   https://go.theregister.com/feed/www.theregister.com/2026/04/24/microsoft_seeks_quality_improvements_by/: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/24/intel_expects_ai_inference_to/: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168051/the-daily-hilario-april-24th: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168059/manchester-city-considering-enzo-fernandez-as-summer-transfer-option-report
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168059/manchester-city-considering-enzo-fernandez-as-summer-transfer-option-report: false
   https://weaintgotnohistory.sbnation.com/premier-league/168055/brighton-hove-albion-3-0-chelsea-player-ratings-postscript: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168034/the-daily-hilario-april-23rd: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168038/andonio-iraola-marco-silva-edin-terzic-others-under-consideration-for-next-chelsea-head-coach-reports
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/168038/andonio-iraola-marco-silva-edin-terzic-others-under-consideration-for-next-chelsea-head-coach-reports: false
   https://marcthiele.com/: false
   https://marcthiele.com/feed-all: false
   https://www.thingelstad.com/: false
@@ -4292,12 +4257,10 @@ https://thechels.uk/heart-rate:
 https://thechels.uk/2026-04-26-daily-rundown:
   http://www.euronews.com/video/2026/04/26/moment-trump-rushed-to-safety-as-gunshots-heard-at-white-house-correspondents-dinner: false
   http://www.euronews.com/2026/04/26/trump-evacuated-after-shots-fired-near-white-house-correspondents-dinner: false
-  ? http://www.euronews.com/next/2026/04/26/this-9-seat-plane-takes-off-in-50-meters-norway-hopes-it-will-connect-people-in-remote-are
-  : false
+  http://www.euronews.com/next/2026/04/26/this-9-seat-plane-takes-off-in-50-meters-norway-hopes-it-will-connect-people-in-remote-are: false
   http://www.euronews.com/2026/04/26/nature-has-performed-a-factory-reset-chernobyl-has-flourished-into-an-unlikely-wildlife-re: false
   http://www.euronews.com/video/2026/04/26/opinions-divided-across-uk-on-historic-anti-smoking-law: false
-  ? http://www.euronews.com/business/2026/04/26/europe-fuel-prices-before-the-iran-war-and-after-the-ceasefire-where-did-they-rise-most
-  : false
+  http://www.euronews.com/business/2026/04/26/europe-fuel-prices-before-the-iran-war-and-after-the-ceasefire-where-did-they-rise-most: false
   http://www.euronews.com/video/2026/04/26/latest-news-bulletin-april-26th-2026-morning: false
   http://www.euronews.com/travel/2026/04/26/new-hotels-in-japan-the-standout-openings-to-book-in-2026: false
   https://www.ft.com/content/47f73399-df62-4683-93c2-ee210d983460: false
@@ -4315,13 +4278,10 @@ https://thechels.uk/2026-04-26-daily-rundown:
   https://go.theregister.com/feed/www.theregister.com/2026/04/25/ai_enterprise_matt_domo/: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/25/new_crime_crew_impersonates_help_desks/: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168067/the-daily-hilario-april-25th: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168080/frank-lampards-business-is-at-coventry-not-chelsea
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168080/frank-lampards-business-is-at-coventry-not-chelsea: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/24/deepseek_v4/: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168076/cesc-fabregas-would-be-stupid-to-think-about-chelsea-job-opportunity-right-now
-  : false
-  ? https://weaintgotnohistory.sbnation.com/domestic-cups/168071/how-should-calum-mcfarlanes-blue-and-white-army-line-up-against-leeds-united-in-fa-cup-semifinal
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168076/cesc-fabregas-would-be-stupid-to-think-about-chelsea-job-opportunity-right-now: false
+  https://weaintgotnohistory.sbnation.com/domestic-cups/168071/how-should-calum-mcfarlanes-blue-and-white-army-line-up-against-leeds-united-in-fa-cup-semifinal: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/24/ubuntu_resolute_raccoon/: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/24/pentagons_deep_sea_drones/: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/24/fcc_does_a_doubletake_adds/: false
@@ -4343,19 +4303,15 @@ https://thechels.uk/2026-04-26-daily-rundown:
 https://thechels.uk/2026-04-27-daily-rundown:
   http://www.euronews.com/2026/04/27/police-in-northern-ireland-suspect-dissident-republicans-in-latest-car-bombing-attack: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/27/who_me/: false
-  ? http://www.euronews.com/culture/2026/04/27/kanye-ye-west-portugal-concert-to-go-ahead-government-will-take-action-in-case-of-risk
-  : false
+  http://www.euronews.com/culture/2026/04/27/kanye-ye-west-portugal-concert-to-go-ahead-government-will-take-action-in-case-of-risk: false
   http://www.euronews.com/business/2026/04/27/european-markets-set-to-open-higher-despite-us-iran-negotiations-stalling: false
   http://www.euronews.com/my-europe/2026/04/27/how-can-europe-avoid-a-new-energy-crisis-ask-the-euronews-ai-chatbot: false
   http://www.euronews.com/my-europe/2026/04/27/europe-today-suspect-of-white-house-press-dinner-shooting-reportedly-targeted-trump: false
-  ? http://www.euronews.com/culture/2026/04/27/the-devil-wears-prada-2-melanie-c-and-birds-what-to-see-do-or-hear-this-week-in-europe
-  : false
+  http://www.euronews.com/culture/2026/04/27/the-devil-wears-prada-2-melanie-c-and-birds-what-to-see-do-or-hear-this-week-in-europe: false
   http://www.euronews.com/2026/04/27/at-least-16-killed-across-ukraine-and-russia-in-exhange-of-strikes-on-chernobyl-anniversar: false
-  ? https://weaintgotnohistory.sbnation.com/domestic-cups/168163/mcfarlane-hoping-fa-cup-semifinal-win-proves-turning-point-for-chelsea
-  : false
+  https://weaintgotnohistory.sbnation.com/domestic-cups/168163/mcfarlane-hoping-fa-cup-semifinal-win-proves-turning-point-for-chelsea: false
   http://www.euronews.com/2026/04/27/i-loved-everything-about-it-reconnect-with-nature-on-germanys-barefoot-hiking-trails: false
-  ? http://www.euronews.com/health/2026/04/27/as-climate-disasters-grow-early-skills-may-help-childrens-brains-before-they-are-born-stud
-  : false
+  http://www.euronews.com/health/2026/04/27/as-climate-disasters-grow-early-skills-may-help-childrens-brains-before-they-are-born-stud: false
   http://www.euronews.com/travel/2026/04/27/europes-best-destinations-and-routes-for-cycling-holidays-in-2026: false
   https://www.ft.com/content/3d2e4007-dfe2-438a-96b8-b06c5d65f084: false
   https://www.ft.com/content/b1d1f9be-7790-4227-acec-80fa34dbdbc8: false
@@ -4371,17 +4327,13 @@ https://thechels.uk/2026-04-27-daily-rundown:
   https://weaintgotnohistory.sbnation.com/domestic-cups/168146/chelsea-1-0-leeds-united-fa-cup-post-match-reaction-ratings: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/26/ai_price_tag/: false
   https://weaintgotnohistory.sbnation.com/domestic-cups/168124/chelsea-vs-leeds-united-fa-cup-confirmed-lineups-how-to-watch: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168135/everton-fcw-1-4-chelsea-fcw-womens-super-league-post-match-reaction
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168135/everton-fcw-1-4-chelsea-fcw-womens-super-league-post-match-reaction: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/26/windows_second_chance_setup/: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168126/everton-fcw-vs-chelsea-fcw-womens-super-league-confirmed-lineups-how-to-watch
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168126/everton-fcw-vs-chelsea-fcw-womens-super-league-confirmed-lineups-how-to-watch: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/26/opinion_column/: false
-  ? https://weaintgotnohistory.sbnation.com/domestic-cups/168121/chelsea-fans-preferred-lineup-against-leeds-united-lets-hope-palmer-jp-are-good-to-go
-  : false
+  https://weaintgotnohistory.sbnation.com/domestic-cups/168121/chelsea-fans-preferred-lineup-against-leeds-united-lets-hope-palmer-jp-are-good-to-go: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168091/the-daily-hilario-april-26th: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168101/everton-fcw-vs-chelsea-fcw-womens-super-league-preview-team-news-how-to-watch
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168101/everton-fcw-vs-chelsea-fcw-womens-super-league-preview-team-news-how-to-watch: false
   https://weaintgotnohistory.sbnation.com/domestic-cups/168089/chelsea-vs-leeds-united-fa-cup-preview-team-news-how-to-watch: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/25/ai_enterprise_matt_domo/: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/25/new_crime_crew_impersonates_help_desks/: false
@@ -4407,8 +4359,7 @@ https://thechels.uk/2026-04-28-daily-rundown:
   https://www.ft.com/content/189a9248-d724-4128-b53a-b7afb33bcac4: false
   http://www.euronews.com/my-europe/2026/04/28/from-crisis-to-transition-how-europe-is-rethinking-its-energy-strategy: false
   http://www.euronews.com/business/2026/04/28/exclusive-fintech-giant-revolut-is-opening-first-physical-store-in-barcelona: false
-  ? http://www.euronews.com/my-europe/2026/04/28/europe-today-macron-renews-eurobonds-push-amid-energy-crisis-faces-brussels-scepticism
-  : false
+  http://www.euronews.com/my-europe/2026/04/28/europe-today-macron-renews-eurobonds-push-amid-energy-crisis-faces-brussels-scepticism: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/28/tcs_infosys_wipro_hcl_fy26/: false
   http://www.euronews.com/video/2026/04/28/rare-spring-snowstorm-hits-moscow: false
   http://www.euronews.com/health/2026/04/28/ai-tool-could-help-predict-adhd-in-children-years-before-a-formal-diagnosis: false
@@ -4430,16 +4381,12 @@ https://thechels.uk/2026-04-28-daily-rundown:
   https://go.theregister.com/feed/www.theregister.com/2026/04/27/south_africa_yanks_ai_policy/: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/27/friendster_rises_from_the_grave/: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168160/the-daily-hilario-april-27th: false
-  ? https://weaintgotnohistory.sbnation.com/domestic-cups/168163/mcfarlane-hoping-fa-cup-semifinal-win-proves-turning-point-for-chelsea
-  : false
+  https://weaintgotnohistory.sbnation.com/domestic-cups/168163/mcfarlane-hoping-fa-cup-semifinal-win-proves-turning-point-for-chelsea: false
   https://weaintgotnohistory.sbnation.com/domestic-cups/168146/chelsea-1-0-leeds-united-fa-cup-post-match-reaction-ratings: false
   https://weaintgotnohistory.sbnation.com/domestic-cups/168124/chelsea-vs-leeds-united-fa-cup-confirmed-lineups-how-to-watch: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168135/everton-fcw-1-4-chelsea-fcw-womens-super-league-post-match-reaction
-  : false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168126/everton-fcw-vs-chelsea-fcw-womens-super-league-confirmed-lineups-how-to-watch
-  : false
-  ? https://weaintgotnohistory.sbnation.com/domestic-cups/168121/chelsea-fans-preferred-lineup-against-leeds-united-lets-hope-palmer-jp-are-good-to-go
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168135/everton-fcw-1-4-chelsea-fcw-womens-super-league-post-match-reaction: false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168126/everton-fcw-vs-chelsea-fcw-womens-super-league-confirmed-lineups-how-to-watch: false
+  https://weaintgotnohistory.sbnation.com/domestic-cups/168121/chelsea-fans-preferred-lineup-against-leeds-united-lets-hope-palmer-jp-are-good-to-go: false
   https://cra.mr/: false
   https://cra.mr/rss.xml: false
   http://robbowen.digital/: false
@@ -4455,15 +4402,13 @@ https://thechels.uk/nearly-half-of-everyone-in-poverty-is-either-a-disabled-pers
   https://brid.gy/publish/bluesky: false
   https://brid.gy/publish/reddit: false
 https://thechels.uk/2026-04-29-daily-rundown:
-  ? http://www.euronews.com/culture/2026/04/29/eurovision-crisis-protesters-in-serbia-urge-boycott-of-contest-over-israels-participation
-  : false
+  http://www.euronews.com/culture/2026/04/29/eurovision-crisis-protesters-in-serbia-urge-boycott-of-contest-over-israels-participation: false
   http://www.euronews.com/my-europe/2026/04/29/newsletter-hungarian-prime-minister-peter-magyar-in-brussels-to-unlock-eu-funds: false
   http://www.euronews.com/2026/04/29/at-least-five-killed-in-israeli-strikes-on-gaza-including-a-nine-year-old-boy: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/29/30_clawhub_skills_mine_crypto/: false
   http://www.euronews.com/my-europe/2026/04/29/europe-revives-renewables-and-nuclear-to-address-the-energy-crisis: false
   https://www.ft.com/content/c6f04c41-d71c-479f-9def-f24e6ee3b14f: false
-  ? http://www.euronews.com/my-europe/2026/04/29/europe-today-peter-magyar-visits-brussels-and-commissioner-roxana-minzatu-speaks-to-eurone
-  : false
+  http://www.euronews.com/my-europe/2026/04/29/europe-today-peter-magyar-visits-brussels-and-commissioner-roxana-minzatu-speaks-to-eurone: false
   http://www.euronews.com/my-europe/2026/04/29/magyar-to-meet-von-der-leyen-as-hungary-races-to-unlock-eu-cash: false
   http://www.euronews.com/business/2026/04/29/qatar-rolls-out-business-relief-measures-amid-iran-war-and-regional-crisis: false
   http://www.euronews.com/video/2026/04/29/watch-key-moments-from-king-charles-iiis-address-to-us-congress: false
@@ -4477,11 +4422,9 @@ https://thechels.uk/2026-04-29-daily-rundown:
   https://www.ft.com/content/5a003a35-a48b-4e46-a2d3-b99ae41d0e46: false
   https://www.ft.com/content/e45c2c21-babe-4fd9-85f1-2b2b3aa38872: false
   https://www.ft.com/content/f9299dd4-4b9a-4a4a-8e11-675bdab4d773: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168206/xabi-alonso-also-among-the-primary-potential-candidates-for-chelsea-job-report
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168206/xabi-alonso-also-among-the-primary-potential-candidates-for-chelsea-job-report: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/29/japan_airport_robot_trial/: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168203/chelsea-interested-in-anthony-gordon-but-have-other-priorities-report
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168203/chelsea-interested-in-anthony-gordon-but-have-other-priorities-report: false
   https://www.ft.com/content/aa3a7a19-ab94-4069-aea4-e192ab9abc41: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/28/software_development_ai_dev25xsf/: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/28/oracle_new_mexico_power_fuel_cell_farm/: false
@@ -4518,16 +4461,14 @@ https://thechels.uk/2026-04-30-daily-rundown:
   http://www.euronews.com/business/2026/04/30/google-parent-alphabet-profit-jumps-81-in-big-tech-earnings-roundup: false
   http://www.euronews.com/video/2026/04/30/smoke-rises-over-russias-tuapse-after-ukrainian-drone-strikes-hit-oil-refinery: false
   https://www.ft.com/content/ce575380-eccc-447c-a64e-493957d9b037: false
-  ? http://www.euronews.com/culture/2026/04/30/are-you-a-chip-stealer-they-really-do-taste-better-from-someone-elses-plate-study-finds
-  : false
+  http://www.euronews.com/culture/2026/04/30/are-you-a-chip-stealer-they-really-do-taste-better-from-someone-elses-plate-study-finds: false
   http://www.euronews.com/my-europe/2026/04/30/europe-today-peter-magyar-first-visit-to-brussels-and-china-eu-tensions-rising: false
   http://www.euronews.com/my-europe/2026/04/30/czechia-a-small-country-with-big-nuclear-energy-ambitions: false
   http://www.euronews.com/2026/04/30/itching-to-pump-more-oil-what-could-the-uaes-exit-from-opec-mean-for-the-climate: false
   https://www.ft.com/content/17ddd0e0-6484-4467-ae6d-ac3f149da23a: false
   http://www.euronews.com/video/2026/04/30/latest-news-bulletin-april-30th-2026-morning: false
   http://www.euronews.com/business/2026/04/30/europes-tax-divide-why-germany-and-france-tax-labour-far-more-than-the-uk: false
-  ? http://www.euronews.com/travel/2026/04/30/wraparound-screens-work-pods-and-relax-rows-new-airline-innovations-shaping-the-future-of-
-  : false
+  http://www.euronews.com/travel/2026/04/30/wraparound-screens-work-pods-and-relax-rows-new-airline-innovations-shaping-the-future-of-: false
   https://www.ft.com/content/2b20456a-b392-45f1-bf9e-e4a7efeda264: false
   https://www.ft.com/content/27d986e5-a1d9-4467-8b1e-d96cec4cfb71: false
   https://www.ft.com/content/9b9e68bb-88bc-4079-ab42-d6f19b3227f9: false
@@ -4535,8 +4476,7 @@ https://thechels.uk/2026-04-30-daily-rundown:
   https://www.ft.com/content/d141cf41-e47a-4657-9f6b-ed26e6c59ac6: false
   https://www.ft.com/content/c4178a99-79db-4b8c-9da7-cbc63ccd75e6: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/30/alphabet_google_q1_fy26/: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168228/official-chelsea-legend-millie-bright-retires-takes-trustee-role-at-club
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168228/official-chelsea-legend-millie-bright-retires-takes-trustee-role-at-club: false
   https://www.ft.com/content/2138e81c-4d86-46f4-8ca0-287f8b737cdf: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/30/microsoft_q3_2026/: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/30/linux_cryptographic_code_flaw/: false
@@ -4549,10 +4489,8 @@ https://thechels.uk/2026-04-30-daily-rundown:
   https://go.theregister.com/feed/www.theregister.com/2026/04/29/fedora_44_countless_versions/: false
   https://weaintgotnohistory.sbnation.com/chelsea-fc/168225/mykhailo-mudryk-files-cas-appeal-against-4-year-doping-ban-report: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168199/the-daily-hilario-april-29th: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168206/xabi-alonso-also-among-the-primary-potential-candidates-for-chelsea-job-report
-  : false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168203/chelsea-interested-in-anthony-gordon-but-have-other-priorities-report
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168206/xabi-alonso-also-among-the-primary-potential-candidates-for-chelsea-job-report: false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168203/chelsea-interested-in-anthony-gordon-but-have-other-priorities-report: false
   https://dbushell.com/: false
   https://dbushell.com/merge/rss.xml: false
   https://open-web-advocacy.org/: false
@@ -4568,8 +4506,7 @@ https://thechels.uk/2026-05-01-daily-rundown:
   http://www.euronews.com/health/2026/05/01/how-coffee-might-help-your-body-fight-the-effects-of-ageing: false
   http://www.euronews.com/2026/05/01/i-feel-sorry-for-people-who-have-to-deal-with-volatile-gas-prices-our-heat-pump-protects-u: false
   http://www.euronews.com/video/2026/05/01/latest-news-bulletin-may-1st-2026-morning: false
-  ? http://www.euronews.com/travel/2026/05/01/from-an-alpine-paradise-to-hidden-creeks-four-of-europes-national-parks-you-can-reach-by-t
-  : false
+  http://www.euronews.com/travel/2026/05/01/from-an-alpine-paradise-to-hidden-creeks-four-of-europes-national-parks-you-can-reach-by-t: false
   http://www.euronews.com/business/2026/05/01/europe-moves-to-break-visa-and-mastercards-grip-but-not-everyone-agrees: false
   https://go.theregister.com/feed/www.theregister.com/2026/05/01/fujitsu_future_strategy/: false
   https://www.ft.com/content/e65c1679-054b-4f74-9a00-c7f084de5784: false
@@ -4588,19 +4525,15 @@ https://thechels.uk/2026-05-01-daily-rundown:
   https://www.ft.com/content/6247449b-5a73-47a8-8cd4-c8ef295e6776: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/30/fbi_cyber_boss_chinas_hackerforhire/: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/30/phone_buyers_opt_to_wait/: false
-  ? http://www.euronews.com/culture/2026/04/30/venice-biennales-international-jury-resigns-as-italys-government-opposes-russias-participa
-  : false
+  http://www.euronews.com/culture/2026/04/30/venice-biennales-international-jury-resigns-as-italys-government-opposes-russias-participa: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/30/bandwith_hogs_rejoice_celesticas_latest/: false
-  ? http://www.euronews.com/my-europe/2026/04/30/uk-raises-terror-threat-level-to-severe-after-two-jewish-men-stabbed-in-north-london
-  : false
+  http://www.euronews.com/my-europe/2026/04/30/uk-raises-terror-threat-level-to-severe-after-two-jewish-men-stabbed-in-north-london: false
   https://weaintgotnohistory.sbnation.com/friendlies/168244/chelsea-confirm-preseason-friendlies-in-australia-southeast-asia: false
   http://www.euronews.com/my-europe/2026/04/30/trump-launches-fresh-tirade-against-merz-after-troop-withdrawal-threat: false
   https://go.theregister.com/feed/www.theregister.com/2026/04/30/googles_fix_for_critical_gemini/: false
-  ? http://www.euronews.com/my-europe/2026/04/30/we-are-ready-to-discuss-digital-rules-with-the-us-but-cannot-wipe-out-rules-eu-trade-chief
-  : false
+  http://www.euronews.com/my-europe/2026/04/30/we-are-ready-to-discuss-digital-rules-with-the-us-but-cannot-wipe-out-rules-eu-trade-chief: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168230/the-daily-hilario-april-30th: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168228/official-chelsea-legend-millie-bright-retires-takes-trustee-role-at-club
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168228/official-chelsea-legend-millie-bright-retires-takes-trustee-role-at-club: false
   https://weaintgotnohistory.sbnation.com/chelsea-fc/168225/mykhailo-mudryk-files-cas-appeal-against-4-year-doping-ban-report: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168199/the-daily-hilario-april-29th: false
   https://ollicle.com/: false
@@ -4634,13 +4567,10 @@ https://thechels.uk/nnw-theme-bundle-release-41512d7d0e50:
   "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.5.0/guro.zip": false
   "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.5.0/thechelsuk.zip": false
 https://thechels.uk/2026-05-02-daily-rundown:
-  ? http://www.euronews.com/next/2026/05/02/made-in-china-engineered-in-germany-inside-xiaomis-ev-push-ahead-of-planned-2027-europe-en
-  : false
-  ? http://www.euronews.com/health/2026/05/02/from-cancer-diagnosis-to-london-marathon-finish-line-the-cancer-survivor-who-never-stopped
-  : false
+  http://www.euronews.com/next/2026/05/02/made-in-china-engineered-in-germany-inside-xiaomis-ev-push-ahead-of-planned-2027-europe-en: false
+  http://www.euronews.com/health/2026/05/02/from-cancer-diagnosis-to-london-marathon-finish-line-the-cancer-survivor-who-never-stopped: false
   http://www.euronews.com/2026/05/02/a-sense-of-dread-europes-first-climate-migrants-live-in-constant-fear-of-extreme-weather: false
-  ? http://www.euronews.com/business/2026/05/02/europes-luxury-housing-boom-which-cities-are-driving-the-surge-in-prime-property-prices
-  : false
+  http://www.euronews.com/business/2026/05/02/europes-luxury-housing-boom-which-cities-are-driving-the-surge-in-prime-property-prices: false
   http://www.euronews.com/video/2026/05/02/latest-news-bulletin-may-2nd-2026-morning: false
   http://www.euronews.com/travel/2026/05/02/airport-hotels-with-runway-views-that-make-any-layover-worth-it: false
   https://www.ft.com/content/ee833531-4554-40d1-834f-659aeadb0ba6: false
@@ -4669,8 +4599,7 @@ https://thechels.uk/2026-05-02-daily-rundown:
   https://go.theregister.com/feed/www.theregister.com/2026/05/01/openai_locks_gpt55cyber_behind_velvet/: false
   https://go.theregister.com/feed/www.theregister.com/2026/05/01/spacex_debris_landing/: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168254/the-daily-hilario-sports: false
-  ? https://weaintgotnohistory.sbnation.com/opinion/168247/mauricio-pochettino-confirms-philosophical-disagreement-that-led-to-chelsea-exit
-  : false
+  https://weaintgotnohistory.sbnation.com/opinion/168247/mauricio-pochettino-confirms-philosophical-disagreement-that-led-to-chelsea-exit: false
   https://weaintgotnohistory.sbnation.com/friendlies/168244/chelsea-confirm-preseason-friendlies-in-australia-southeast-asia: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168230/the-daily-hilario-april-30th: false
   https://www.scottbrady.io/: false
@@ -4693,8 +4622,7 @@ https://thechels.uk/nnw-theme-bundle-release-fc098d90d3fe:
   "//theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/v1.6.2/thechelsuk.zip": false
 https://thechels.uk/2026-05-03-daily-rundown:
   http://www.euronews.com/health/2026/05/03/what-do-the-children-of-people-who-live-to-100-eat-new-study-offers-clues: false
-  ? http://www.euronews.com/video/2026/05/03/inside-europes-flying-lab-scientists-study-life-in-zero-gravity-aboard-test-aircraft-in-fr
-  : false
+  http://www.euronews.com/video/2026/05/03/inside-europes-flying-lab-scientists-study-life-in-zero-gravity-aboard-test-aircraft-in-fr: false
   http://www.euronews.com/business/2026/05/03/europe-vs-the-americas-where-is-the-number-of-billionaires-growing-fastest: false
   http://www.euronews.com/travel/2026/05/03/summer-holiday-reading-the-best-travel-books-to-inspire-your-next-trip: false
   http://www.euronews.com/video/2026/05/03/latest-news-bulletin-may-3rd-2026-morning: false
@@ -4708,8 +4636,7 @@ https://thechels.uk/2026-05-03-daily-rundown:
   https://www.ft.com/content/88c4bafb-a329-47fa-b1f6-8c9d7c51bc10: false
   https://www.ft.com/content/fb1aae4a-ec0c-48ed-bf0a-6639071499d3: false
   http://www.euronews.com/2026/05/02/businessman-dies-after-alleged-beating-in-custody-over-brothers-starlink-detention: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168283/how-should-chelsea-line-up-against-nottingham-forest-to-stay-in-top-six-race
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/168283/how-should-chelsea-line-up-against-nottingham-forest-to-stay-in-top-six-race: false
   https://www.ft.com/content/a9a3273f-d5c3-4277-932d-27b1969e975f: false
   http://www.euronews.com/2026/05/02/iran-executes-two-more-over-spying-for-israel: false
   http://www.euronews.com/my-europe/2026/05/02/robert-fico-will-back-ukraines-eu-membership-after-call-zelenskyy-says: false
@@ -4727,8 +4654,7 @@ https://thechels.uk/2026-05-03-daily-rundown:
   https://go.theregister.com/feed/www.theregister.com/2026/05/01/preowned_phones_fill_the_gap/: false
   https://go.theregister.com/feed/www.theregister.com/2026/05/01/critical_cpanel_vuln_hits_cisa/: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168254/the-daily-hilario-sports: false
-  ? https://weaintgotnohistory.sbnation.com/opinion/168247/mauricio-pochettino-confirms-philosophical-disagreement-that-led-to-chelsea-exit
-  : false
+  https://weaintgotnohistory.sbnation.com/opinion/168247/mauricio-pochettino-confirms-philosophical-disagreement-that-led-to-chelsea-exit: false
   https://v7.robweychert.com/: false
   http://feeds.feedburner.com/robweychert: false
   https://jvns.ca/: false
@@ -4760,17 +4686,14 @@ https://thechels.uk/nuchronic-uk-release-2ab952c7e7c5:
   https://github.com/thechelsuk/uk.nuchronic/compare/1.0.0...1.1.0: false
 https://thechels.uk/2026-05-04-daily-rundown:
   http://www.euronews.com/my-europe/2026/05/04/how-is-the-eu-limiting-digital-platforms-ask-the-euronews-ai-chatbot: false
-  ? http://www.euronews.com/my-europe/2026/05/04/europe-today-merztrump-clash-deepens-over-us-troop-pullout-as-european-leaders-meet-in-arm
-  : false
+  http://www.euronews.com/my-europe/2026/05/04/europe-today-merztrump-clash-deepens-over-us-troop-pullout-as-european-leaders-meet-in-arm: false
   http://www.euronews.com/business/2026/05/04/oil-markets-lower-as-trump-vows-to-help-ships-leave-strait-of-hormuz: false
   https://go.theregister.com/feed/www.theregister.com/2026/05/04/askjeeves_closes/: false
   http://www.euronews.com/2026/05/04/turkiye-emerges-as-a-european-renewables-leader-thanks-to-dune-esque-record-breaking-solar: false
-  ? http://www.euronews.com/health/2026/05/04/mediterranean-diet-may-support-pregnancy-in-women-undergoing-artificial-insemination-study
-  : false
+  http://www.euronews.com/health/2026/05/04/mediterranean-diet-may-support-pregnancy-in-women-undergoing-artificial-insemination-study: false
   http://www.euronews.com/travel/2026/05/04/is-malta-the-latest-european-country-to-grapple-with-overtourism: false
   http://www.euronews.com/video/2026/05/04/latest-news-bulletin-may-4th-2026-morning: false
-  ? http://www.euronews.com/next/2026/05/04/what-is-mark-zuckerbergs-biohub-and-can-it-build-ai-models-of-human-cells-to-cure-all-dise
-  : false
+  http://www.euronews.com/next/2026/05/04/what-is-mark-zuckerbergs-biohub-and-can-it-build-ai-models-of-human-cells-to-cure-all-dise: false
   http://www.euronews.com/business/2026/05/04/child-labour-exploitation-and-deforestation-is-this-the-true-taste-of-chocolate: false
   http://www.euronews.com/business/2026/05/04/uae-qatar-seek-new-gulf-asia-trade-corridor-in-landmark-agreement-with-south-korea: false
   https://www.ft.com/content/ee8a0604-84cb-44da-bb33-f36818944581: false
@@ -4785,20 +4708,15 @@ https://thechels.uk/2026-05-04-daily-rundown:
   https://www.ft.com/content/7ec081ca-3b1d-4fbe-b29a-a3b0b08efc41: false
   https://go.theregister.com/feed/www.theregister.com/2026/05/04/asia_tech_news_roundup/: false
   https://go.theregister.com/feed/www.theregister.com/2026/05/03/microsoft_promises_to_do_better/: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168320/chelsea-vs-nottingham-forest-premier-league-preview-team-news-how-to-watch
-  : false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168314/leicester-city-wfc-1-3-chelsea-fcw-womens-super-league-post-match-reaction
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/168320/chelsea-vs-nottingham-forest-premier-league-preview-team-news-how-to-watch: false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168314/leicester-city-wfc-1-3-chelsea-fcw-womens-super-league-post-match-reaction: false
   https://go.theregister.com/feed/www.theregister.com/2026/05/03/inference_is_giving_ai_chip/: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168306/leicester-city-wfc-vs-chelsea-fcw-womens-super-league-confirmed-lineups-how-to-watch
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168306/leicester-city-wfc-vs-chelsea-fcw-womens-super-league-confirmed-lineups-how-to-watch: false
   https://go.theregister.com/feed/www.theregister.com/2026/05/03/future_royal_navy_drones_high_tech/: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168294/leicester-city-wfc-vs-chelsea-fcw-womens-super-league-preview-team-news-how-to-watch
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168294/leicester-city-wfc-vs-chelsea-fcw-womens-super-league-preview-team-news-how-to-watch: false
   https://go.theregister.com/feed/www.theregister.com/2026/05/03/bank_of_england_tech_migration/: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168280/the-daily-hilario-may-3rd: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168283/how-should-chelsea-line-up-against-nottingham-forest-to-stay-in-top-six-race
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/168283/how-should-chelsea-line-up-against-nottingham-forest-to-stay-in-top-six-race: false
   https://go.theregister.com/feed/www.theregister.com/2026/05/02/local_ai_coding_agents/: false
   https://go.theregister.com/feed/www.theregister.com/2026/05/02/dvsa_shrugs_off_outages/: false
   https://go.theregister.com/feed/www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/: false
@@ -4833,24 +4751,17 @@ https://thechels.uk/2026-05-05-daily-rundown:
   https://go.theregister.com/feed/www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/: false
   https://go.theregister.com/feed/www.theregister.com/2026/05/04/alien_weyland_yutani_themed_diy_laptop/: false
   https://go.theregister.com/feed/www.theregister.com/2026/05/04/notepad_dev_demands_unofficial_macos/: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168351/chelsea-1-3-nottingham-forest-premier-league-post-match-reaction-ratings
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/168351/chelsea-1-3-nottingham-forest-premier-league-post-match-reaction-ratings: false
   https://go.theregister.com/feed/www.theregister.com/2026/05/04/amazon_web_services_cupertino_networking_lab/: false
   https://go.theregister.com/feed/www.theregister.com/2026/05/04/ai_bom_supply_chain/: false
   https://www.ft.com/content/711ce313-16fb-4a12-b6be-fbed547c8a39: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168345/chelsea-vs-nottingham-forest-premier-league-confirmed-lineups-how-to-watch
-  : false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168332/chelsea-fans-preferred-lineup-against-nottingham-forest-tosin-or-hato-or-fofana-or-acheampong
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/168345/chelsea-vs-nottingham-forest-premier-league-confirmed-lineups-how-to-watch: false
+  https://weaintgotnohistory.sbnation.com/premier-league/168332/chelsea-fans-preferred-lineup-against-nottingham-forest-tosin-or-hato-or-fofana-or-acheampong: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168323/the-daily-hilario-may-4th: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168320/chelsea-vs-nottingham-forest-premier-league-preview-team-news-how-to-watch
-  : false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168314/leicester-city-wfc-1-3-chelsea-fcw-womens-super-league-post-match-reaction
-  : false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168306/leicester-city-wfc-vs-chelsea-fcw-womens-super-league-confirmed-lineups-how-to-watch
-  : false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168294/leicester-city-wfc-vs-chelsea-fcw-womens-super-league-preview-team-news-how-to-watch
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/168320/chelsea-vs-nottingham-forest-premier-league-preview-team-news-how-to-watch: false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168314/leicester-city-wfc-1-3-chelsea-fcw-womens-super-league-post-match-reaction: false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168306/leicester-city-wfc-vs-chelsea-fcw-womens-super-league-confirmed-lineups-how-to-watch: false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168294/leicester-city-wfc-vs-chelsea-fcw-womens-super-league-preview-team-news-how-to-watch: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168280/the-daily-hilario-may-3rd: false
   https://whitep4nth3r.com/: false
   https://whitep4nth3r.com/feed.xml: false
@@ -4895,14 +4806,10 @@ https://thechels.uk/2026-05-06-daily-rundown:
   https://weaintgotnohistory.sbnation.com/injury-news/168375/jesse-derry-hopes-to-be-back-playing-very-soon: false
   https://go.theregister.com/feed/www.theregister.com/2026/05/05/diy_rf_radiation_tracker/: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168355/the-daily-hilario-may-5th: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168363/joao-pedro-calls-on-chelsea-teammates-to-start-taking-responsibility
-  : false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168351/chelsea-1-3-nottingham-forest-premier-league-post-match-reaction-ratings
-  : false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168345/chelsea-vs-nottingham-forest-premier-league-confirmed-lineups-how-to-watch
-  : false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168332/chelsea-fans-preferred-lineup-against-nottingham-forest-tosin-or-hato-or-fofana-or-acheampong
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/168363/joao-pedro-calls-on-chelsea-teammates-to-start-taking-responsibility: false
+  https://weaintgotnohistory.sbnation.com/premier-league/168351/chelsea-1-3-nottingham-forest-premier-league-post-match-reaction-ratings: false
+  https://weaintgotnohistory.sbnation.com/premier-league/168345/chelsea-vs-nottingham-forest-premier-league-confirmed-lineups-how-to-watch: false
+  https://weaintgotnohistory.sbnation.com/premier-league/168332/chelsea-fans-preferred-lineup-against-nottingham-forest-tosin-or-hato-or-fofana-or-acheampong: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168323/the-daily-hilario-may-4th: false
   https://martinfowler.com/: false
   https://martinfowler.com/feed.atom: false
@@ -4940,8 +4847,7 @@ https://thechels.uk/2026-05-07-daily-rundown:
   https://www.ft.com/content/8117fa35-d89e-4fb9-a94b-48257bd6229b: false
   https://www.ft.com/content/69308a1e-95d0-4bcd-8f4f-9624993cef7c: false
   https://www.ft.com/content/d2fbe2c3-103a-4d09-b510-db58c5f8697d: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168400/chelsea-set-e30m-asking-price-as-wesley-fofana-offered-to-barcelona-reports
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168400/chelsea-set-e30m-asking-price-as-wesley-fofana-offered-to-barcelona-reports: false
   http://www.euronews.com/2026/05/06/psg-edge-bayern-munich-to-reach-champions-league-final-against-arsenal: false
   https://www.theregister.com/offbeat/2026/05/06/youtuber-turns-hamster-wheel-into-phone-charger/5231293: false
   https://www.theregister.com/ai-and-ml/2026/05/06/claude-hitches-a-ride-on-spacexs-datacenter-capacity/5231252: false
@@ -4970,8 +4876,7 @@ https://thechels.uk/rss-feed-discovery:
 https://thechels.uk/2026-05-08-daily-rundown:
   http://www.euronews.com/next/2026/05/08/tech-giants-agree-to-us-government-ai-testing: false
   http://www.euronews.com/health/2026/05/08/the-brain-doesnt-switch-off-under-anaesthesia-study: false
-  ? http://www.euronews.com/travel/2026/05/08/beauty-you-can-measure-new-eye-tracking-study-reveals-the-worlds-most-visually-stunning-sp
-  : false
+  http://www.euronews.com/travel/2026/05/08/beauty-you-can-measure-new-eye-tracking-study-reveals-the-worlds-most-visually-stunning-sp: false
   http://www.euronews.com/video/2026/05/08/latest-news-bulletin-may-8th-2026-morning: false
   http://www.euronews.com/business/2026/05/08/gold-vs-oil-which-offers-better-protection-from-rising-prices-during-the-iran-war: false
   https://www.theregister.com/off-prem/2026/05/08/cloudflare-to-fire-1100-staff-whose-jobs-just-arent-ai-enough/5235536: false
@@ -4983,16 +4888,13 @@ https://thechels.uk/2026-05-08-daily-rundown:
   https://www.ft.com/content/3785a37f-3409-4b3e-b2fb-6b4200c4375e: false
   https://www.ft.com/content/90225b9c-707c-4877-931d-5022d1ed583f: false
   https://www.ft.com/content/f48b4605-1aa9-4549-9197-fc1c2a361b90: false
-  ? https://www.theregister.com/off-prem/2026/05/08/aws-warns-of-ec2-impairment-as-power-loss-hits-notorious-us-east-1-region/5235509
-  : false
+  https://www.theregister.com/off-prem/2026/05/08/aws-warns-of-ec2-impairment-as-power-loss-hits-notorious-us-east-1-region/5235509: false
   http://www.euronews.com/2026/05/08/el-nino-looms-near-record-sea-temperatures-in-april-raise-fears-of-more-global-heat: false
   https://www.theregister.com/networks/2026/05/08/hpe-drops-first-juniper-x-aruba-collab-self-driving-wi-fi/5235463: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168419/how-should-chelsea-line-up-against-liverpool-amid-fresh-injury-crisis
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/168419/how-should-chelsea-line-up-against-liverpool-amid-fresh-injury-crisis: false
   https://www.ft.com/content/63a73c94-a927-4683-be1a-9ed0e53442de: false
   https://www.theregister.com/security/2026/05/08/mozilla-says-ai-helped-squash-423-firefox-security-bugs/5235438: false
-  ? https://www.theregister.com/devops/2026/05/07/dyna-softwares-ai-assistant-promises-to-massage-your-toughest-servicenow-configs/5235392
-  : false
+  https://www.theregister.com/devops/2026/05/07/dyna-softwares-ai-assistant-promises-to-massage-your-toughest-servicenow-configs/5235392: false
   http://www.euronews.com/2026/05/07/iranian-media-report-exchange-of-fire-with-us-forces-near-island-in-strait-of-hormuz: false
   http://www.euronews.com/2026/05/07/uk-to-summon-chinese-ambassador-after-convictions-over-spying-on-hong-kong-dissidents: false
   https://www.theregister.com/cyber-crime/2026/05/07/fake-it-workers-rented-laptops-to-nork-scammers-got-prison-time/5235342: false
@@ -5002,13 +4904,10 @@ https://thechels.uk/2026-05-08-daily-rundown:
   http://www.euronews.com/my-europe/2026/05/07/eu-critic-rumen-radev-named-new-bulgarian-prime-minister: false
   https://www.theregister.com/security/2026/05/07/60-of-md5-password-hashes-are-crackable-in-under-an-hour/5234954: false
   https://www.theregister.com/off-prem/2026/05/07/ibm-cloud-evaporates-as-datacenter-loses-power/5234835: false
-  ? https://www.theregister.com/cyber-crime/2026/05/07/250m-crypto-robbing-gangs-dirty-work-guy-sentenced-to-65-years-behind-bars/5234787
-  : false
-  ? https://weaintgotnohistory.sbnation.com/injury-news/168411/estevao-opts-against-surgery-goes-to-brazil-for-rehab-amid-slim-world-cup-hopes-report
-  : false
+  https://www.theregister.com/cyber-crime/2026/05/07/250m-crypto-robbing-gangs-dirty-work-guy-sentenced-to-65-years-behind-bars/5234787: false
+  https://weaintgotnohistory.sbnation.com/injury-news/168411/estevao-opts-against-surgery-goes-to-brazil-for-rehab-amid-slim-world-cup-hopes-report: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168396/the-daily-hilario-may-7th: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168400/chelsea-set-e30m-asking-price-as-wesley-fofana-offered-to-barcelona-reports
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168400/chelsea-set-e30m-asking-price-as-wesley-fofana-offered-to-barcelona-reports: false
   https://weaintgotnohistory.sbnation.com/premier-league/168382/chelsea-1-3-nottingham-forest-player-ratings-recount: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168379/the-daily-hilario-may-6th: false
   https://seanmcp.com/: false
@@ -5026,14 +4925,12 @@ https://thechels.uk/get-50-when-you-join-octopus-energy:
 https://thechels.uk/2026-05-09-daily-rundown:
   http://www.euronews.com/2026/05/09/trump-declassifies-162-ufo-files-for-public-to-judge-the-evidence: false
   http://www.euronews.com/2026/05/09/in-damascus-cooking-kosher-continues-to-be-a-complicated-matter-for-syrias-jewish-communit: false
-  ? http://www.euronews.com/health/2026/05/09/people-are-more-willing-to-listen-to-an-influencer-how-nicotine-became-a-problematic-healt
-  : false
+  http://www.euronews.com/health/2026/05/09/people-are-more-willing-to-listen-to-an-influencer-how-nicotine-became-a-problematic-healt: false
   http://www.euronews.com/next/2026/05/09/ai-models-can-hack-computers-and-self-replicate-onto-new-machines-new-research-finds: false
   http://www.euronews.com/culture/2026/05/09/oases-sonic-prayers-and-nurture-venice-biennale-2026-invites-visitors-to-slow-down: false
   http://www.euronews.com/video/2026/05/09/latest-news-bulletin-may-9th-2026-morning: false
   http://www.euronews.com/business/2026/05/09/spains-bizum-heads-to-the-high-street-to-take-on-visa-and-mastercard: false
-  ? http://www.euronews.com/travel/2026/05/09/why-private-members-clubs-are-the-latest-trend-in-luxury-hotels-and-which-ones-you-should-
-  : false
+  http://www.euronews.com/travel/2026/05/09/why-private-members-clubs-are-the-latest-trend-in-luxury-hotels-and-which-ones-you-should-: false
   https://www.ft.com/content/14152ab1-864d-4ff7-8524-afc7b08821b3: false
   https://www.ft.com/content/2e95626f-2f95-470d-9854-5d272d0ef7cd: false
   https://www.ft.com/content/5f510d2e-63b9-42e3-8c3e-46f4f5c72e68: false
@@ -5051,19 +4948,14 @@ https://thechels.uk/2026-05-09-daily-rundown:
   https://www.ft.com/content/e2db027f-79c2-4043-ad26-4648a76d286b: false
   https://www.theregister.com/security/2026/05/08/worm-rubs-out-competitors-malware-then-takes-control/5237389: false
   https://www.theregister.com/cyber-crime/2026/05/08/former-us-contractor-convicted-in-federal-database-wipe-case/5237296: false
-  ? https://www.theregister.com/on-prem/2026/05/08/iran-war-disrupts-datacenter-construction-supply-chains-raises-material-costs/5235852
-  : false
-  ? https://www.theregister.com/personal-tech/2026/05/08/raspberry-pi-wants-windows-admins-to-connect-or-it-might-pull-the-plug/5235753
-  : false
-  ? https://www.theregister.com/security/2026/05/08/dirty-frag-linux-flaw-one-ups-copyfail-with-no-patches-and-public-root-exploit/5237230
-  : false
+  https://www.theregister.com/on-prem/2026/05/08/iran-war-disrupts-datacenter-construction-supply-chains-raises-material-costs/5235852: false
+  https://www.theregister.com/personal-tech/2026/05/08/raspberry-pi-wants-windows-admins-to-connect-or-it-might-pull-the-plug/5235753: false
+  https://www.theregister.com/security/2026/05/08/dirty-frag-linux-flaw-one-ups-copyfail-with-no-patches-and-public-root-exploit/5237230: false
   https://www.theregister.com/ai-and-ml/2026/05/08/trump-jumps-from-anything-goes-to-strict-regulation-ai-policy/5234687: false
   https://www.theregister.com/security/2026/05/08/meta-u-turns-on-encryption-push-for-instagram-as-dms-go-plaintext/5235705: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168414/the-daily-hilario-may-8th: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168419/how-should-chelsea-line-up-against-liverpool-amid-fresh-injury-crisis
-  : false
-  ? https://weaintgotnohistory.sbnation.com/injury-news/168411/estevao-opts-against-surgery-goes-to-brazil-for-rehab-amid-slim-world-cup-hopes-report
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/168419/how-should-chelsea-line-up-against-liverpool-amid-fresh-injury-crisis: false
+  https://weaintgotnohistory.sbnation.com/injury-news/168411/estevao-opts-against-surgery-goes-to-brazil-for-rehab-amid-slim-world-cup-hopes-report: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168396/the-daily-hilario-may-7th: false
   https://ollicle.com/: false
   https://ollicle.com/feed.xml: false
@@ -5096,13 +4988,10 @@ https://thechels.uk/2026-05-10-daily-rundown:
   https://www.ft.com/content/bc9b78d2-cb92-4607-b9a0-f10c330f24d3: false
   https://www.ft.com/content/9b669f06-142a-4e5b-b75d-4e91f1c91025: false
   https://www.ft.com/content/94373104-6f15-47d9-b23d-0bcee2885eb3: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168491/calum-mcfarlane-reflects-on-positive-chelsea-result-against-liverpool-that-couldve-been-even-better
-  : false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168436/chelsea-fcw-vs-manchester-city-wfc-womens-fa-cup-semi-final-preview-team-news-how-to-watch
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/168491/calum-mcfarlane-reflects-on-positive-chelsea-result-against-liverpool-that-couldve-been-even-better: false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168436/chelsea-fcw-vs-manchester-city-wfc-womens-fa-cup-semi-final-preview-team-news-how-to-watch: false
   http://www.euronews.com/2026/05/09/kazakhstan-strikes-gold-on-day-2-in-astana: false
-  ? https://www.theregister.com/ai-and-ml/2026/05/09/google-tweaks-chrome-ai-privacy-wording-insists-processing-stays-on-device/5237580
-  : false
+  https://www.theregister.com/ai-and-ml/2026/05/09/google-tweaks-chrome-ai-privacy-wording-insists-processing-stays-on-device/5237580: false
   http://www.euronews.com/my-europe/2026/05/09/cattle-theft-in-germany-organised-gangs-target-farms: false
   http://www.euronews.com/my-europe/2026/05/09/niger-suspends-nine-french-media-outlets-over-alleged-threats-to-public-order: false
   http://www.euronews.com/health/2026/05/09/trump-administration-pulls-covid-19-vaccine-safety-studies-amid-political-row: false
@@ -5114,16 +5003,14 @@ https://thechels.uk/2026-05-10-daily-rundown:
   https://www.theregister.com/offbeat/2026/05/09/londons-bt-tower-to-get-rooftop-swimming-pool/5237337: false
   https://www.theregister.com/public-sector/2026/05/09/uk-wants-fresh-fingerprints-on-300m-biometrics-platform/5234933: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168433/the-daily-hilario-may-9th: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168456/chelsea-fans-preferred-lineup-against-liverpool-is-there-any-wingers-out-there
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/168456/chelsea-fans-preferred-lineup-against-liverpool-is-there-any-wingers-out-there: false
   https://www.theregister.com/networks/2026/05/09/akamai-surges-on-big-llm-deal-as-cloudflare-dims/5237552: false
   https://www.theregister.com/ai-and-ml/2026/05/08/gpt-55-may-burn-fewer-tokens-but-it-always-burns-more-cash/5237498: false
   https://weaintgotnohistory.sbnation.com/premier-league/168437/liverpool-vs-chelsea-premier-league-preview-team-news-how-to-watch: false
   https://www.theregister.com/cxo/2026/05/08/tech-is-now-rolling-out-the-old-grievance-grift/5237475: false
   https://www.theregister.com/security/2026/05/08/worm-rubs-out-competitors-malware-then-takes-control/5237389: false
   https://www.theregister.com/cyber-crime/2026/05/08/former-us-contractor-convicted-in-federal-database-wipe-case/5237296: false
-  ? https://www.theregister.com/on-prem/2026/05/08/iran-war-disrupts-datacenter-construction-supply-chains-raises-material-costs/5235852
-  : false
+  https://www.theregister.com/on-prem/2026/05/08/iran-war-disrupts-datacenter-construction-supply-chains-raises-material-costs/5235852: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168414/the-daily-hilario-may-8th: false
   https://anildash.com/: false
   https://www.anildash.com/feed.xml: false
@@ -5139,16 +5026,13 @@ https://thechels.uk/2026-05-11-daily-rundown:
   http://www.euronews.com/2026/05/11/the-race-to-unlock-superhot-geothermal-energy-is-heating-up-heres-why-it-matters: false
   http://www.euronews.com/my-europe/2026/05/11/what-does-the-2028-2034-eu-budget-foresee-ask-the-euronews-ai-chatbot: false
   http://www.euronews.com/business/2026/05/11/oil-jumps-4-after-trump-rejects-irans-response-to-ceasefire-proposal: false
-  ? http://www.euronews.com/my-europe/2026/05/11/europe-today-putin-says-war-in-ukraine-may-end-soon-as-eu-foreign-ministers-meet-in-brusse
-  : false
+  http://www.euronews.com/my-europe/2026/05/11/europe-today-putin-says-war-in-ukraine-may-end-soon-as-eu-foreign-ministers-meet-in-brusse: false
   https://www.ft.com/content/39a9e8c8-432d-46c9-9875-cc0bfa5c380f: false
   http://www.euronews.com/culture/2026/05/11/eurovision-semi-finals-what-to-expect-how-to-watch-and-who-is-among-favourites-to-win: false
-  ? http://www.euronews.com/health/2026/05/11/british-children-are-growing-taller-due-to-obesity-how-widespread-is-obesity-across-europe
-  : false
+  http://www.euronews.com/health/2026/05/11/british-children-are-growing-taller-due-to-obesity-how-widespread-is-obesity-across-europe: false
   http://www.euronews.com/next/2026/05/11/meet-europes-youth-activists-pushing-back-against-blanket-social-media-bans: false
   http://www.euronews.com/video/2026/05/11/latest-news-bulletin-may-11th-2026-morning: false
-  ? http://www.euronews.com/travel/2026/05/11/beyond-the-beatles-why-liverpool-and-englands-north-west-should-be-on-your-2026-travel-lis
-  : false
+  http://www.euronews.com/travel/2026/05/11/beyond-the-beatles-why-liverpool-and-englands-north-west-should-be-on-your-2026-travel-lis: false
   https://weaintgotnohistory.sbnation.com/premier-league/168527/liverpool-1-1-chelsea-player-ratings-not-a-winger: false
   http://www.euronews.com/business/2026/05/11/which-eu-capitals-have-rents-higher-than-minimum-wages: false
   https://www.ft.com/content/25f8bef0-6f46-4b80-aa8b-7384fb2de44d: false
@@ -5161,20 +5045,15 @@ https://thechels.uk/2026-05-11-daily-rundown:
   https://www.theregister.com/ai-and-ml/2026/05/11/asia-in-brief-chinas-agentic-ai-policy-wants-to-keep-humans-in-the-loop/5237632: false
   https://www.ft.com/content/09c91701-114b-45e9-9aa1-767ef95a5217: false
   https://www.theregister.com/ai-and-ml/2026/05/11/yes-local-llms-are-ready-to-ease-the-compute-strain/5237451: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168513/chelsea-fcw-2-3-a-e-t-manchester-city-wfc-womens-fa-cup-semi-final-post-match-reaction
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168513/chelsea-fcw-2-3-a-e-t-manchester-city-wfc-womens-fa-cup-semi-final-post-match-reaction: false
   https://www.theregister.com/systems/2026/05/10/memory-godboxes-could-offer-relief-from-the-rampocalypse/5237463: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168504/chelsea-fcw-vs-manchester-city-wfc-womens-fa-cup-semi-final-confirmed-lineups-how-to-watch
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168504/chelsea-fcw-vs-manchester-city-wfc-womens-fa-cup-semi-final-confirmed-lineups-how-to-watch: false
   https://www.theregister.com/oses/2026/05/10/both-fedora-and-ubuntu-will-get-ai-support-soon/5237409: false
   https://www.theregister.com/personal-tech/2026/05/10/hp-eliteboard-g1a-puts-a-pc-inside-a-keyboard/5235258: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168487/the-daily-hilario-may-10th: false
-  ? https://weaintgotnohistory.sbnation.com/premier-league/168491/calum-mcfarlane-reflects-on-positive-chelsea-result-against-liverpool-that-couldve-been-even-better
-  : false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168436/chelsea-fcw-vs-manchester-city-wfc-womens-fa-cup-semi-final-preview-team-news-how-to-watch
-  : false
-  ? https://www.theregister.com/ai-and-ml/2026/05/09/google-tweaks-chrome-ai-privacy-wording-insists-processing-stays-on-device/5237580
-  : false
+  https://weaintgotnohistory.sbnation.com/premier-league/168491/calum-mcfarlane-reflects-on-positive-chelsea-result-against-liverpool-that-couldve-been-even-better: false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168436/chelsea-fcw-vs-manchester-city-wfc-womens-fa-cup-semi-final-preview-team-news-how-to-watch: false
+  https://www.theregister.com/ai-and-ml/2026/05/09/google-tweaks-chrome-ai-privacy-wording-insists-processing-stays-on-device/5237580: false
   https://weaintgotnohistory.sbnation.com/premier-league/168476/liverpool-1-1-chelsea-premier-league-post-match-reaction-ratings: false
   https://www.theregister.com/software/2026/05/09/macos-27-threatens-to-bury-time-capsule-foss-brings-a-shovel/5234824: false
   https://weaintgotnohistory.sbnation.com/premier-league/168462/liverpool-vs-chelsea-premier-league-confirmed-lineups-how-to-watch: false
@@ -5196,8 +5075,7 @@ https://thechels.uk/video-co-work-news-feed-ad7ec66d:
 https://thechels.uk/2026-05-12-daily-rundown:
   http://www.euronews.com/2026/05/12/russia-launches-strikes-at-ukraine-hours-after-expiration-of-72-hour-truce: false
   http://www.euronews.com/2026/05/12/iran-ceasefire-on-life-support-trump-says-as-deadlock-in-negotiations-deepens: false
-  ? http://www.euronews.com/my-europe/2026/05/12/europe-today-is-the-eu-ready-to-talk-directly-to-putin-about-ending-the-war-in-ukraine
-  : false
+  http://www.euronews.com/my-europe/2026/05/12/europe-today-is-the-eu-ready-to-talk-directly-to-putin-about-ending-the-war-in-ukraine: false
   https://www.theregister.com/security/2026/05/12/japans-pm-orders-cybersecurity-review-to-defend-against-anthropic-mythos/5238501: false
   https://www.ft.com/content/5c42387d-d5c2-40fc-a783-0be17b50af12: false
   http://www.euronews.com/video/2026/05/12/is-tripe-soup-greek-or-turkish-a-culinary-dispute-heats-up: false
@@ -5207,8 +5085,7 @@ https://thechels.uk/2026-05-12-daily-rundown:
   http://www.euronews.com/health/2026/05/12/is-long-hantavirus-real-heres-what-life-after-the-infection-looks-like: false
   https://www.theregister.com/networks/2026/05/12/veteran-network-architect-proposes-ipv8-to-improve-ipv4-not-leapfrog-v6/5238474: false
   https://www.ft.com/content/69e836e6-b676-434f-9383-4522dc0c4eca: false
-  ? http://www.euronews.com/next/2026/05/12/margrethe-vestager-backs-new-ai-safety-institute-for-children-after-decade-regulating-big-
-  : false
+  http://www.euronews.com/next/2026/05/12/margrethe-vestager-backs-new-ai-safety-institute-for-children-after-decade-regulating-big-: false
   https://www.ft.com/content/622451f4-c854-4396-838a-c3b20cb98727: false
   https://www.ft.com/content/5fefc72b-aded-46d6-b509-1904204ca8b0: false
   https://www.ft.com/content/af3bc83f-8a3c-4280-aa80-9d16bbd0cb6d: false
@@ -5217,25 +5094,19 @@ https://thechels.uk/2026-05-12-daily-rundown:
   https://www.ft.com/content/8ee0d3ef-9548-422d-8ff1-ebd48ad4b2ca: false
   https://www.theregister.com/devops/2026/05/12/gitlab-promises-a-different-kind-of-layoff-as-biz-pivots-toward-ai/5238422: false
   https://www.theregister.com/off-prem/2026/05/12/red-hat-gives-rhel-101-the-boot-into-orbit/5238373: false
-  ? https://www.theregister.com/virtualization/2026/05/12/quit-vmware-and-youll-emerge-with-more-complex-and-less-capable-infrastructure/5238442
-  : false
+  https://www.theregister.com/virtualization/2026/05/12/quit-vmware-and-youll-emerge-with-more-complex-and-less-capable-infrastructure/5238442: false
   https://www.ft.com/content/9c4c7a97-c564-4a7f-9866-1182a84e7812: false
   https://www.theregister.com/security/2026/05/12/double-canvas-intrusion-confirmed-as-shinyhunters-resets-leak-deadline/5238361: false
   https://www.theregister.com/software/2026/05/11/ratty-terminal-emulator-brings-3d-graphics-to-the-command-line/5238299: false
-  ? https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263
-  : false
-  ? http://www.euronews.com/health/2026/05/11/hantavirus-hit-vessel-re-docks-in-the-canary-island-due-to-bad-weather-during-evacuation
-  : false
+  https://www.theregister.com/ai-ml/2026/05/11/microsoft-researchers-find-ai-models-and-agents-cant-handle-long-running-tasks/5238263: false
+  http://www.euronews.com/health/2026/05/11/hantavirus-hit-vessel-re-docks-in-the-canary-island-due-to-bad-weather-during-evacuation: false
   https://www.theregister.com/security/2026/05/11/cookie-thieves-caught-stealing-dev-secrets/5238248: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168539/xabi-alonso-open-to-possibility-with-chelsea-exploring-deal-report
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168539/xabi-alonso-open-to-possibility-with-chelsea-exploring-deal-report: false
   https://www.theregister.com/ai-ml/2026/05/11/openai-buys-ai-consultancy-to-sell-enterprises-on-its-models/5238213: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168523/the-daily-hilario-may-11th: false
   https://weaintgotnohistory.sbnation.com/premier-league/168527/liverpool-1-1-chelsea-player-ratings-not-a-winger: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168513/chelsea-fcw-2-3-a-e-t-manchester-city-wfc-womens-fa-cup-semi-final-post-match-reaction
-  : false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168504/chelsea-fcw-vs-manchester-city-wfc-womens-fa-cup-semi-final-confirmed-lineups-how-to-watch
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168513/chelsea-fcw-2-3-a-e-t-manchester-city-wfc-womens-fa-cup-semi-final-post-match-reaction: false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168504/chelsea-fcw-vs-manchester-city-wfc-womens-fa-cup-semi-final-confirmed-lineups-how-to-watch: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168487/the-daily-hilario-may-10th: false
   https://v7.robweychert.com/: false
   http://feeds.feedburner.com/robweychert: false
@@ -5282,31 +5153,24 @@ https://thechels.uk/2026-05-13-daily-rundown:
   https://www.ft.com/content/09273889-e9b5-4317-b989-911c84df36fa: false
   https://www.ft.com/content/41c4c05b-9850-44cb-ba70-029f2cadbed1: false
   https://www.ft.com/content/156bf437-b5a8-40de-98c5-1ffe47d88b70: false
-  ? https://www.theregister.com/public-sector/2026/05/13/vietnam-to-develop-domestic-cloud-so-it-can-ditch-risky-overseas-operators-for-government-workloads/5239269
-  : false
+  https://www.theregister.com/public-sector/2026/05/13/vietnam-to-develop-domestic-cloud-so-it-can-ditch-risky-overseas-operators-for-government-workloads/5239269: false
   https://www.ft.com/content/113ddfa2-7322-45f2-ac10-59bb1b302444: false
   https://www.ft.com/content/8774ab60-e94e-4386-b8f9-e89caaa5d11f: false
   https://www.theregister.com/ai-ml/2026/05/13/execs-admit-ai-makes-them-value-human-workers-less/5239201: false
   https://www.ft.com/content/86010fcd-8161-49dd-a267-1e08eb919911: false
   https://www.theregister.com/patches/2026/05/13/doozy-of-a-patch-tuesday-includes-30-critical-microsoft-cves/5239224: false
   https://www.theregister.com/ai-ml/2026/05/13/google-users-fight-for-refunds-as-unauthorized-api-usage-bills-soar/5239160: false
-  ? https://www.theregister.com/cyber-crime/2026/05/12/foxconn-confirms-cyberattack-after-nitrogen-claims-apple-nvidia-data-theft/5239144
-  : false
+  https://www.theregister.com/cyber-crime/2026/05/12/foxconn-confirms-cyberattack-after-nitrogen-claims-apple-nvidia-data-theft/5239144: false
   https://www.ft.com/content/87c4bea0-421f-4cdc-b5b5-98221a9142f5: false
   https://www.theregister.com/personal-tech/2026/05/12/google-launches-line-of-android-laptops-festooned-with-gemini-ai/5239091: false
   https://www.theregister.com/ai-ml/2026/05/12/actors-new-spec-aims-to-defeat-attack-of-the-ai-clones/5239115: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168561/chelseas-initial-talks-with-xabi-alonso-encouraging-report
-  : false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/168558/estevao-excluded-from-provisional-brazil-squad-for-world-cup-report
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168561/chelseas-initial-talks-with-xabi-alonso-encouraging-report: false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/168558/estevao-excluded-from-provisional-brazil-squad-for-world-cup-report: false
   https://www.theregister.com/offbeat/2026/05/12/us-army-eyes-alternative-proteins-for-soldiers-in-the-field/5238969: false
-  ? https://www.theregister.com/networks/2026/05/12/fcc-walks-back-router-update-ban-before-it-bricks-americas-network-security/5238938
-  : false
-  ? https://www.theregister.com/cyber-crime/2026/05/12/congress-investigates-canvas-breach-after-instructure-cuts-deal-with-shinyhunters/5238927
-  : false
+  https://www.theregister.com/networks/2026/05/12/fcc-walks-back-router-update-ban-before-it-bricks-americas-network-security/5238938: false
+  https://www.theregister.com/cyber-crime/2026/05/12/congress-investigates-canvas-breach-after-instructure-cuts-deal-with-shinyhunters/5238927: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168542/the-daily-hilario-may-12th: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168539/xabi-alonso-open-to-possibility-with-chelsea-exploring-deal-report
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168539/xabi-alonso-open-to-possibility-with-chelsea-exploring-deal-report: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168523/the-daily-hilario-may-11th: false
   https://jonshamir.com/: false
   https://jonshamir.com/rss.xml: false
@@ -5342,8 +5206,7 @@ https://thechels.uk/2026-05-14-daily-rundown:
   http://www.euronews.com/health/2026/05/14/eating-vegetables-in-pregnancy-may-influence-childrens-tastes-later-study-finds: false
   http://www.euronews.com/next/2026/05/14/these-are-tech-titans-in-beijing-with-trump-and-what-they-want-from-china: false
   http://www.euronews.com/business/2026/05/14/europes-household-energy-prices-surge-after-iran-war-which-capitals-were-hit-hardest: false
-  ? https://www.theregister.com/off-prem/2026/05/14/tencent-admits-gpus-only-pay-for-themselves-when-powering-personalized-ads/5240150
-  : false
+  https://www.theregister.com/off-prem/2026/05/14/tencent-admits-gpus-only-pay-for-themselves-when-powering-personalized-ads/5240150: false
   http://www.euronews.com/2026/05/14/russian-attack-on-kyiv-continues-overnight-killing-at-least-one: false
   https://www.ft.com/content/511191ed-1adc-4f66-8c61-41f8aed20859: false
   https://www.ft.com/content/6344b5be-e48c-48b8-8fea-d86e6c4c4aec: false
@@ -5351,26 +5214,20 @@ https://thechels.uk/2026-05-14-daily-rundown:
   https://www.ft.com/content/211a8f21-afd5-41c7-bb1d-afcbdabcf030: false
   https://www.ft.com/content/dffabcfd-8018-4c9e-b4ca-b93f82358c8b: false
   https://www.theregister.com/networks/2026/05/14/cisco-to-fire-4000-staff-and-generously-give-them-free-training-on-cisco/5240125: false
-  ? https://weaintgotnohistory.sbnation.com/domestic-cups/168578/enzo-fernandez-approaching-fa-cup-final-with-a-lot-of-enthusiasm-and-desire-for-trophy
-  : false
-  ? https://www.theregister.com/patches/2026/05/14/welcome-to-the-vulnpocalypse-as-vendors-use-ai-to-find-bugs-and-patches-multiply-like-rabbits/5240027
-  : false
+  https://weaintgotnohistory.sbnation.com/domestic-cups/168578/enzo-fernandez-approaching-fa-cup-final-with-a-lot-of-enthusiasm-and-desire-for-trophy: false
+  https://www.theregister.com/patches/2026/05/14/welcome-to-the-vulnpocalypse-as-vendors-use-ai-to-find-bugs-and-patches-multiply-like-rabbits/5240027: false
   https://www.ft.com/content/70ab1705-8c9c-4dce-b9cb-1e517cdd8349: false
   https://www.theregister.com/paas-and-iaas/2026/05/13/aws-patched-quick-auth-bypass-says-customers-werent-using-control/5240041: false
   https://www.theregister.com/software/2026/05/13/googles-ai-enabled-mouse-pointer-understands-this-and-that/5240005: false
   https://www.theregister.com/on-prem/2026/05/13/datacenters-are-having-fewer-but-bigger-failures/5239951: false
-  ? https://www.theregister.com/ai-ml/2026/05/13/anthropic-butts-in-to-small-business-promises-help-with-payroll-and-other-core-tasks/5239967
-  : false
-  ? https://www.theregister.com/security/2026/05/13/bug-hunter-tracks-down-three-serious-mcp-database-flaws-one-left-unpatched/5238916
-  : false
+  https://www.theregister.com/ai-ml/2026/05/13/anthropic-butts-in-to-small-business-promises-help-with-payroll-and-other-core-tasks/5239967: false
+  https://www.theregister.com/security/2026/05/13/bug-hunter-tracks-down-three-serious-mcp-database-flaws-one-left-unpatched/5238916: false
   https://www.theregister.com/ai-ml/2026/05/13/see-through-local-ai-lies-with-irish-eyes/5239911: false
   https://www.theregister.com/ai-ml/2026/05/13/ai-customer-service-bots-get-rolled-back-at-74-of-firms/5239800: false
   https://www.ft.com/content/127e16f5-f8e7-49e8-85b5-69323911485d: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168554/the-daily-hilario-may-13th: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168561/chelseas-initial-talks-with-xabi-alonso-encouraging-report
-  : false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/168558/estevao-excluded-from-provisional-brazil-squad-for-world-cup-report
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168561/chelseas-initial-talks-with-xabi-alonso-encouraging-report: false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/168558/estevao-excluded-from-provisional-brazil-squad-for-world-cup-report: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168542/the-daily-hilario-may-12th: false
   https://codegood.co/: false
   https://codegood.co/feed.xml: false
@@ -5407,19 +5264,16 @@ https://thechels.uk/2026-05-15-daily-rundown:
   https://www.ft.com/content/fad11ebd-9844-4432-94d0-e87865e456b5: false
   https://www.ft.com/content/e7ad9ab0-5a28-42ce-b90e-ac9f6bda75eb: false
   https://www.theregister.com/ai-ml/2026/05/15/cerebras-wafer-scale-ai-bet-delivers-blockbuster-ipo/5240821: false
-  ? https://www.theregister.com/cyber-crime/2026/05/14/security-pros-doubt-canvas-attackers-really-deleted-stolen-student-data/5240799
-  : false
+  https://www.theregister.com/cyber-crime/2026/05/14/security-pros-doubt-canvas-attackers-really-deleted-stolen-student-data/5240799: false
   https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771: false
   https://www.theregister.com/ai-ml/2026/05/14/anthropic-tosses-agents-into-the-api-billing-pool/5240748: false
   https://www.theregister.com/offbeat/2026/05/14/grad-to-be-turns-graduation-cap-into-rust-powered-light-show/5240682: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168588/xabi-alonso-seeking-assurances-from-chelsea-about-head-coaching-role-reports
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168588/xabi-alonso-seeking-assurances-from-chelsea-about-head-coaching-role-reports: false
   https://www.theregister.com/oses/2026/05/14/kde-bags-13m-as-europe-realizes-it-might-need-an-os-of-its-own/5240562: false
   https://www.theregister.com/ai-ml/2026/05/14/waymo-recalls-3800-cars-over-flooded-roads-software-snafu/5240594: false
   https://www.theregister.com/oses/2026/05/14/uk-begins-antitrust-inquiry-into-microsofts-business-software-ecosystem/5240452: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168575/the-daily-hilario-may-14th: false
-  ? https://weaintgotnohistory.sbnation.com/domestic-cups/168578/enzo-fernandez-approaching-fa-cup-final-with-a-lot-of-enthusiasm-and-desire-for-trophy
-  : false
+  https://weaintgotnohistory.sbnation.com/domestic-cups/168578/enzo-fernandez-approaching-fa-cup-final-with-a-lot-of-enthusiasm-and-desire-for-trophy: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168554/the-daily-hilario-may-13th: false
   https://gilest.org/: false
   https://gilest.org/feed/index.xml: false
@@ -5432,8 +5286,7 @@ https://thechels.uk/2026-05-15-daily-rundown:
   https://fs.blog/: false
   https://www.farnamstreetblog.com/feed/: false
 https://thechels.uk/2026-05-16-daily-rundown:
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168627/chelsea-will-not-entertain-any-enquiries-for-joao-pedro-reports
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168627/chelsea-will-not-entertain-any-enquiries-for-joao-pedro-reports: false
   http://www.euronews.com/culture/2026/05/16/ok-computer-rare-folk-instruments-and-lost-melodies-find-a-digital-future: false
   http://www.euronews.com/2026/05/16/europes-offshore-wind-power-is-vulnerable-to-attacks-who-is-responsible-for-protecting-it: false
   http://www.euronews.com/travel/2026/05/16/tennis-travel-europes-top-hotels-and-resorts-for-a-grand-slam-holiday: false
@@ -5444,8 +5297,7 @@ https://thechels.uk/2026-05-16-daily-rundown:
   https://www.ft.com/content/d6ec23af-9b0e-49cd-b53d-a8a1786d5f5e: false
   https://www.ft.com/content/fba35eca-df3a-4ad6-b42d-eb08eb7c9ad3: false
   https://www.ft.com/content/534a8fd2-f985-44e7-89f0-093f78cb2b07: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168621/chelsea-aiming-to-appoint-xabi-alonso-within-days-of-fa-cup-final-report
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168621/chelsea-aiming-to-appoint-xabi-alonso-within-days-of-fa-cup-final-report: false
   https://www.ft.com/content/37ba1609-ffa7-42ae-b63c-b2c628c584e1: false
   https://www.ft.com/content/02015e49-fe11-488f-9e45-9fe70943d155: false
   https://www.theregister.com/devops/2026/05/15/google-reimburses-register-sources-who-were-victims-of-api-fraud/5241429: false
@@ -5469,8 +5321,7 @@ https://thechels.uk/2026-05-16-daily-rundown:
   https://weaintgotnohistory.sbnation.com/domestic-cups/168609/how-should-chelsea-line-up-against-manchester-city-in-fa-cup-final: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168599/the-daily-hilaro-la-da-da-da: false
   https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168593/official-sam-kerr-to-leave-chelsea-fcw-at-end-of-the-season: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168588/xabi-alonso-seeking-assurances-from-chelsea-about-head-coaching-role-reports
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168588/xabi-alonso-seeking-assurances-from-chelsea-about-head-coaching-role-reports: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168575/the-daily-hilario-may-14th: false
   https://sixcolors.com/?feed=json: false
   https://sixcolors.com/feed.json: false
@@ -5483,8 +5334,7 @@ https://thechels.uk/2026-05-16-daily-rundown:
   https://blog.ploeh.dk/: false
   https://blog.ploeh.dk/rss.xml: false
 https://thechels.uk/2026-05-17-daily-rundown:
-  ? https://weaintgotnohistory.sbnation.com/domestic-cups/168708/mcfarlane-laments-the-small-margins-in-fa-cup-final-defeat-against-manchester-city
-  : false
+  https://weaintgotnohistory.sbnation.com/domestic-cups/168708/mcfarlane-laments-the-small-margins-in-fa-cup-final-defeat-against-manchester-city: false
   http://www.euronews.com/travel/2026/05/17/new-ranking-reveals-the-worlds-best-places-for-cold-water-swimming-and-wild-bathing: false
   http://www.euronews.com/video/2026/05/17/latest-news-bulletin-may-17th-2026-morning: false
   http://www.euronews.com/2026/05/17/are-solar-panel-prices-about-to-surge-why-now-might-be-the-perfect-time-to-invest: false
@@ -5502,30 +5352,21 @@ https://thechels.uk/2026-05-17-daily-rundown:
   http://www.euronews.com/video/2026/05/16/eurovision-final-in-vienna-overshadowed-by-protests-over-israels-participation: false
   http://www.euronews.com/my-europe/2026/05/16/several-injured-after-car-ploughs-into-crowd-in-italys-modena: false
   http://www.euronews.com/my-europe/2026/05/16/london-police-out-in-force-as-tens-of-thousands-attend-rival-rallies: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168690/xabi-alonso-agrees-to-join-chelsea-as-new-head-coach-reports
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168690/xabi-alonso-agrees-to-join-chelsea-as-new-head-coach-reports: false
   http://www.euronews.com/video/2026/05/16/south-korea-thousands-watch-robot-monks-march-through-seouls-historic-streets: false
   https://www.theregister.com/ai-ml/2026/05/16/ai-generated-code-is-pain-waiting-to-happen/5241574: false
-  ? https://weaintgotnohistory.sbnation.com/domestic-cups/168662/chelsea-0-1-manchester-city-fa-cup-final-post-match-reaction-ratings
-  : false
+  https://weaintgotnohistory.sbnation.com/domestic-cups/168662/chelsea-0-1-manchester-city-fa-cup-final-post-match-reaction-ratings: false
   https://www.theregister.com/personal-tech/2026/05/16/cloud-managed-earbuds-sound-strange-as-a-concept-and-on-a-plane/5240928: false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168656/chelsea-fcw-1-0-manchester-united-wfc-womens-super-league-post-match-reaction
-  : false
-  ? https://weaintgotnohistory.sbnation.com/domestic-cups/168635/chelsea-vs-manchester-city-fa-cup-final-confirmed-lineups-how-to-watch
-  : false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168644/chelsea-fcw-vs-manchester-united-wfc-womens-super-league-confirmed-lineups-how-to-watch
-  : false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168656/chelsea-fcw-1-0-manchester-united-wfc-womens-super-league-post-match-reaction: false
+  https://weaintgotnohistory.sbnation.com/domestic-cups/168635/chelsea-vs-manchester-city-fa-cup-final-confirmed-lineups-how-to-watch: false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-women/168644/chelsea-fcw-vs-manchester-united-wfc-womens-super-league-confirmed-lineups-how-to-watch: false
   https://www.ft.com/content/fb62a4c4-6615-434e-a259-bc813a27ac6a: false
-  ? https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735
-  : false
+  https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735: false
   https://www.theregister.com/ai-ml/2026/05/16/one-in-seven-brits-swapped-their-gp-for-chatgpt-study-finds/5240514: false
   https://weaintgotnohistory.sbnation.com/bobby-ramblings/168615/the-daily-hilario-may-16th: false
-  ? https://weaintgotnohistory.sbnation.com/domestic-cups/168632/chelsea-fans-preferred-lineup-against-manchester-city-who-wants-to-win-the-cup
-  : false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168627/chelsea-will-not-entertain-any-enquiries-for-joao-pedro-reports
-  : false
-  ? https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168621/chelsea-aiming-to-appoint-xabi-alonso-within-days-of-fa-cup-final-report
-  : false
+  https://weaintgotnohistory.sbnation.com/domestic-cups/168632/chelsea-fans-preferred-lineup-against-manchester-city-who-wants-to-win-the-cup: false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168627/chelsea-will-not-entertain-any-enquiries-for-joao-pedro-reports: false
+  https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/168621/chelsea-aiming-to-appoint-xabi-alonso-within-days-of-fa-cup-final-report: false
   https://www.theregister.com/devops/2026/05/15/google-reimburses-register-sources-who-were-victims-of-api-fraud/5241429: false
   https://www.theregister.com/on-prem/2026/05/15/datacenters-slurping-juice-help-drive-75-jump-in-pjm-power-prices/5241491: false
   https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480: false
