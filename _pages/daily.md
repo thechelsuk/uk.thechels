@@ -11,6 +11,7 @@ date: 2026-05-19
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Tuesday, 19 May 2026
 
 - The average temperature today is 12.09˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 19 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Recycling Waste Collection Day
 - Food Waste Collection Day
 
@@ -41,12 +44,15 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Be the owner.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - AFC Bournemouth v Manchester City
 - Chelsea v Tottenham Hotspur
 <!-- fixture_marker ends -->
@@ -55,21 +61,24 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 134.0399932861328 
-- ^FTSE : 10323.7998046875 
-- ^FTMC : 22611.69921875 
+- VWRL.L : 134.0399932861328
+- ^FTSE : 10323.7998046875
+- ^FTMC : 22611.69921875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > New judges are being offered innovative pay options to help but I do not think the test-i-money will catch on.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Newsletter: Europe braces for a more hostile economic order (€, [6 minutes ago](http://www.euronews.com/my-europe/2026/05/19/newsletter-europe-braces-for-a-more-hostile-economic-order))
 - Grief travel is booming as mourners turn to healing retreats and wellness escapes (€, [33 minutes ago](http://www.euronews.com/travel/2026/05/19/grief-travel-is-booming-as-mourners-turn-to-healing-retreats-and-wellness-escapes))
 - Three people killed as two teenagers open fire at a mosque in San Diego (€, [41 minutes ago](http://www.euronews.com/2026/05/19/three-people-killed-as-two-teenagers-open-fire-at-a-mosque-in-san-diego))
@@ -79,7 +88,7 @@ _Good Morning, Here is your daily briefing..._
 - ‘Devastating’: Orca whales rescued from performing in France destined for Spanish zoo (€, [1 hours ago](http://www.euronews.com/2026/05/19/devastating-orca-whales-rescued-from-performing-in-france-destined-for-spanish-zoo))
 - Sit down, tune in, drop out: How 'cozy' video games have become the new anti-depressants (€, [1 hours ago](http://www.euronews.com/culture/2026/05/19/sit-down-tune-in-drop-out-how-cozy-video-games-have-become-the-new-anti-depressants))
 - Worst-case global warming projection cut by 1°C as cheap solar and wind slash emissions (€, [1 hours ago](http://www.euronews.com/2026/05/19/worst-case-global-warming-projection-cut-by-1c-as-cheap-solar-and-wind-slash-emissions))
-- Latest news bulletin  May 19th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/19/latest-news-bulletin-may-19th-2026-morning))
+- Latest news bulletin May 19th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/19/latest-news-bulletin-may-19th-2026-morning))
 - NATO military chiefs meet as Iran war depletes alliance's arsenal (€, [1 hours ago](http://www.euronews.com/my-europe/2026/05/19/nato-military-chiefs-meet-as-iran-war-depletes-alliances-arsenal))
 - Iran hints it could interfere with submarine cables in the Strait of Hormuz (®, [2 hours ago](https://www.theregister.com/networks/2026/05/19/iran-hints-it-could-interfere-with-submarine-cables-in-the-strait-of-hormuz/5242319))
 - Why politicians struggle to read the public on immigration (£, [2 hours ago](https://www.ft.com/content/85c3f0de-9593-44a9-bb99-9f78e3dd4732))
@@ -115,7 +124,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > laconism - noun: Brevity or terseness of expression, or an instance of this.
+> laconism - noun: Brevity or terseness of expression, or an instance of this.
 
 <!-- word_marker ends -->
 
@@ -130,6 +139,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Do nothing for as long as possible
 
 <!-- eno_marker ends -->
@@ -137,6 +147,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Lotr: The Two Towers (Rated: 5)
 - Released in 2002
 - Summary: No summary available
@@ -153,6 +164,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Calum Ryan (articles) [URL](https://www.calumryan.com/articles) [Feed](https://www.calumryan.com/feeds/articles/rss)
 - Derek Sivers [URL](https://sive.rs/blog) [Feed](https://sive.rs/en.atom)
 - Fun Retrospectives [URL](https://www.funretrospectives.com/) [Feed](http://www.funretrospectives.com/feed/)

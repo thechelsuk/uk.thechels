@@ -7,7 +7,6 @@ type: social
 show: false
 i_type: note
 i_url:
-
 ---
 
 It's happened again. iykyk.
