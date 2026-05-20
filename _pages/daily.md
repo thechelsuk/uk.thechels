@@ -11,6 +11,7 @@ date: 2026-05-20
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Wednesday, 20 May 2026
 
 - The average temperature today is 11.93˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 20 days since the last change (2026-04-30)
 
@@ -33,18 +35,22 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Be humble.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
 <!-- fixture_marker ends -->
 
@@ -52,21 +58,24 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 133.3300018310547 
-- ^FTSE : 10330.599609375 
-- ^FTMC : 22568.0 
+- VWRL.L : 133.3300018310547
+- ^FTSE : 10330.599609375
+- ^FTMC : 22568.0
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > I have a business idea, it is a candle company with the words of famous songs printed on them, it is called waxing lyrical.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - How to travel this summer without paying more for the crisis in the Middle East (€, [1 minutes ago](http://www.euronews.com/travel/2026/05/20/how-to-travel-this-summer-without-paying-more-for-the-crisis-in-the-middle-east))
 - Taiwan Travelogue: Yáng Shuāng-zǐ and translator Lin King win the International Booker Prize (€, [4 minutes ago](http://www.euronews.com/culture/2026/05/20/taiwan-travelogue-yang-shuang-z-and-translator-lin-king-win-the-international-booker-prize))
 - China’s Xi holds welcome ceremony for Putin (€, [9 minutes ago](http://www.euronews.com/video/2026/05/20/chinas-xi-holds-welcome-ceremony-for-putin))
@@ -113,7 +122,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > Smithfield match - noun: A marriage of convenience, especially one arranged for money.
+> Smithfield match - noun: A marriage of convenience, especially one arranged for money.
 
 <!-- word_marker ends -->
 
@@ -128,6 +137,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > riff
 
 <!-- eno_marker ends -->
@@ -135,6 +145,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Christine (Rated: 3)
 - Released in 1983
 - Summary: A nerdish boy buys a strange car with an evil mind of its own and his nature starts to change to reflect it.
@@ -158,6 +169,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Leading Agile [URL](https://www.liminalarc.co/) [Feed](http://feeds.feedburner.com/LeadingAgile)
 - Jim Nielsen (Notes) [URL](https://notes.jim-nielsen.com/) [Feed](https://notes.jim-nielsen.com/feed.json)
 - Probably Fine [URL](https://blog.probablyfine.co.uk/) [Feed](https://blog.probablyfine.co.uk/feed.xml)
