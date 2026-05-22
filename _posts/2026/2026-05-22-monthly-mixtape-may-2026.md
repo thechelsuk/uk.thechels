@@ -8,7 +8,7 @@ show: true
 class: indie
 ---
 
-What I've been listening to this month. Introducing friend of the web, [whitep4nth3r](https://whitep4nth3r.com/) reject the machine with their first single, under the name chromasetica.
+What I've been listening to this month. Introducing friend of the web, [whitep4nth3r](https://whitep4nth3r.com/)'s reject the machine with their first single under the name chromasetica.
 
 Really pleased to have had this playlist during a difficult month.
 
