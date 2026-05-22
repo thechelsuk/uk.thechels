@@ -11,6 +11,7 @@ date: 2026-05-22
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Friday, 22 May 2026
 
 - The average temperature today is 16.99˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 22 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Farmers Market in town
 
 <!-- task_marker ends -->
@@ -40,12 +43,15 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Seek the best.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Chelsea U18 v Manchester City U18
 <!-- fixture_marker ends -->
 
@@ -53,21 +59,24 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 134.5399932861328 
-- ^FTSE : 10443.5 
-- ^FTMC : 22947.900390625 
+- VWRL.L : 134.5399932861328
+- ^FTSE : 10443.5
+- ^FTMC : 22947.900390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > What do you call a gardener? Mo.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Europe Today: EU economy chief Dombrovskis rules out easing Russia sanctions despite inflation fears (€, [38 minutes ago](http://www.euronews.com/my-europe/2026/05/22/europe-today-eu-economy-chief-dombrovskis-rules-out-easing-russia-sanctions-despite-inflat))
 - Trump to send additional 5,000 US troops to Poland (€, [57 minutes ago](http://www.euronews.com/my-europe/2026/05/22/trump-to-send-additional-5000-us-troops-to-poland))
 - Euronews Culture's Film of the Week: ‘Star Wars: The Mandalorian And Grogu’ - Mando or Mandon’t? (€, [58 minutes ago](http://www.euronews.com/culture/2026/05/22/euronews-cultures-film-of-the-week-star-wars-the-mandalorian-and-grogu-mando-or-mandont))
@@ -76,7 +85,7 @@ _Good Morning, Here is your daily briefing..._
 - ‘It doesn’t feel real': Team Qatar gears up for historic Le Mans debut (€, [1 hours ago](http://www.euronews.com/2026/05/22/it-doesnt-feel-real-team-qatar-gears-up-for-historic-le-mans-debut))
 - One in a thousand: The European countries where the ultra-rich earn the most (€, [1 hours ago](http://www.euronews.com/business/2026/05/22/one-in-a-thousand-the-european-countries-where-the-ultra-rich-earn-the-most))
 - 'Turning crisis into opportunity': How Lithuania became a wild card for the EU's clean energy race (€, [1 hours ago](http://www.euronews.com/2026/05/22/turning-crisis-into-opportunity-how-lithuania-became-a-wild-card-for-the-eus-clean-energy-))
-- Latest news bulletin  May 22nd, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/22/latest-news-bulletin-may-22nd-2026-morning))
+- Latest news bulletin May 22nd, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/22/latest-news-bulletin-may-22nd-2026-morning))
 - Elon Musk’s Grokipedia leans on more right-wing sources in sensitive topics, study finds (€, [1 hours ago](http://www.euronews.com/next/2026/05/22/grokipedia-right-wing-sources))
 - JPMorgan looks to offload exposure to $4bn in private equity-linked loans (£, [2 hours ago](https://www.ft.com/content/dc63cb21-afdb-4f0e-8667-86fc89f45a03))
 - Investing in the era of scarcity (£, [2 hours ago](https://www.ft.com/content/1a13b8b5-1fc0-49bf-94ed-cb78110b6fcb))
@@ -109,7 +118,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > Elginism - noun: Cultural vandalism: the removal or plunder of cultural treasures from their place of origin, especially for display in another country.
+> Elginism - noun: Cultural vandalism: the removal or plunder of cultural treasures from their place of origin, especially for display in another country.
 
 <!-- word_marker ends -->
 
@@ -124,6 +133,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > thing on the list
 
 <!-- eno_marker ends -->
@@ -131,6 +141,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Super (Rated: 7)
 - Released in 2010
 - Summary: After his wife falls under the influence of a drug dealer, an everyday guy transforms himself into Crimson Bolt, a superhero with the best intentions, but lacking in heroic skills.
@@ -154,6 +165,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Temper Temper [URL](https://www.tempertemper.net/) [Feed](https://www.tempertemper.net/feeds/main.json)
 - Simon BS [URL](https://simonbs.dev/) [Feed](http://simonbs.dev/feed.rss)
 - Benjamin Willems (Main) [URL](https://benjaminwil.info/feed.xml/) [Feed](https://benjaminwil.info/feed.xml)
