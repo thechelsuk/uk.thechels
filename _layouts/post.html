@@ -15,6 +15,13 @@
     {% elsif page.i_type == 'note' %}
         <p>&raquo; <a href="{{ page.url }}" class="u-{{page.i_type}}">permalink</a></p>
     {% endif %}
+
+
+  {% if page.class == 'indie' %}
+  <p class="meta">
+    <a class="u-syndication" href="https://news.indieweb.org/en" hidden="from-humans">Also posted on IndieNews</a>
+  </p>
+  {% endif %}
   </div>
 
   {% if page.id %}
@@ -36,11 +43,6 @@
   </p>
   {% endif %}
 
-  {% if page.class == 'indie' %}
-  <p class="meta">
-    <a class="u-syndication" href="https://news.indieweb.org/en" hidden="from-humans">Also posted on IndieNews</a>
-  </p>
-  {% endif %}
 
   <p class="visually-hidden p-category" hidden="from-humans">{{ page.type }}</p>
 
