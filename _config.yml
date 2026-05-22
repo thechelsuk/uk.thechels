@@ -30,7 +30,9 @@ webmentions:
     last_month: weekly
     last_year: monthly
     older: monthly
-  syndication: {}
+  syndication:
+    indienews:
+      endpoint: https://news.indieweb.org/en
 defaults:
   - scope:
       path: ""
