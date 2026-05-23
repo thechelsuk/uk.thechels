@@ -168,7 +168,7 @@ def test_render_post_includes_required_front_matter():
     assert "date: 2026-04-18 18:10" in content
     assert "date: '2026-04-18" not in content
     assert "type: release" in content
-    assert "cited: github" in content
+    assert "cited: GitHub" in content
     assert "release_repo: uk.thechels.search" in content
     assert "release_project: search" in content
     assert "release_version: 1.0.0" in content
@@ -258,7 +258,7 @@ def test_process_releases_creates_new_posts_then_skips_duplicates(
         "2026-04-18-search-router-release-")
     content = generated_files[0].read_text(encoding="utf-8")
     assert "title: Search Router Version 1.0.0" in content
-    assert "cited: github" in content
+    assert "cited: GitHub" in content
     assert "## What's Changed" in content
     assert "<h2>" not in content
 

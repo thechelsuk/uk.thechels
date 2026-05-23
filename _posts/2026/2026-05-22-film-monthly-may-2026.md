@@ -1,11 +1,10 @@
 ---
 layout: post
 date: 2026-05-22 20:00
-title: Film Club Friday for May 2026
+title: Film Club Friday - May 2026
 type: film
 syndicate: true
-show: true
-class: indie
+
 ---
 
 One of the "benefits' of being housebound, fatigued, and with disrupted sleep patterns is that I have films on in the background. I have been keeping track of the films I have watched over several years, except for a gap for a couple of years that I am still backdating when I come across a title I can remember watching.
