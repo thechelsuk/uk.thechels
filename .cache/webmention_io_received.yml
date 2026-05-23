@@ -3204,3 +3204,38 @@
       of different devices, locations, speeds, and use cases. If anything, the AI
       flood has pus…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/modern-web-ai-2026\">thechels.uk</a>.</p>"
 "/film-monthly-may-2026": {}
+"/boinc-thechelsuk-release-290ef30dcfc4":
+  '1997782':
+    id: '1997782'
+    uri: https://nuchronic.uk/item/release-boinc-thechelsuk-version-1-0-1-d479ee173f/
+    source: false
+    pubdate: 2026-05-22 23:03:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/release-boinc-thechelsuk-version-1-0-1-d479ee173f/
+      verified: true
+      verified_date: '2026-05-22T23:33:57+00:00'
+      id: 1997782
+      private: false
+      data:
+        author: &55
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/release-boinc-thechelsuk-version-1-0-1-d479ee173f/
+        name: Release - Boinc @ thechelsuk Version 1.0.1
+        content: "<p>Notes Minor supporting .md file updates What’s Changed Bump lycheeverse/lychee-action
+          from 2.7.0 to 2.8.0 by @dependabot in #14 Bump actions/checkout from 4…</p>\n\n
+          \       \n        <p>Continue reading at <a href=\"https://thechels.uk/boinc-thechelsuk-release-290ef30dcfc4\">thechels.uk</a>.</p>"
+        published: '2026-05-22T22:03:00+00:00'
+        published_ts: 1779487380
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/release-boinc-thechelsuk-version-1-0-1-d479ee173f/
+      target: https://thechels.uk/boinc-thechelsuk-release-290ef30dcfc4
+    author: *55
+    type: link
+    title: Release - Boinc @ thechelsuk Version 1.0.1
+    content: "<p>Notes Minor supporting .md file updates What’s Changed Bump lycheeverse/lychee-action
+      from 2.7.0 to 2.8.0 by @dependabot in #14 Bump actions/checkout from 4…</p>\n\n
+      \       \n        <p>Continue reading at <a href=\"https://thechels.uk/boinc-thechelsuk-release-290ef30dcfc4\">thechels.uk</a>.</p>"
