@@ -3203,7 +3203,42 @@
     content: "<p>The web hasn’t fundamentally changed. It’s still built for hundreds
       of different devices, locations, speeds, and use cases. If anything, the AI
       flood has pus…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/modern-web-ai-2026\">thechels.uk</a>.</p>"
-"/film-monthly-may-2026": {}
+"/film-monthly-may-2026":
+  '1997732':
+    id: '1997732'
+    uri: https://nuchronic.uk/item/film-film-club-friday-for-may-2026-86e89577c0/
+    source: false
+    pubdate: 2026-05-22 20:00:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/film-film-club-friday-for-may-2026-86e89577c0/
+      verified: true
+      verified_date: '2026-05-22T19:41:35+00:00'
+      id: 1997732
+      private: false
+      data:
+        author: &55
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/film-film-club-friday-for-may-2026-86e89577c0/
+        name: Film - Film Club Friday for May 2026
+        content: "<p>One of the “benefits’ of being housebound, fatigued, and with
+          disrupted sleep patterns is that I have films on in the background. I have
+          been keeping track o…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/film-monthly-may-2026\">thechels.uk</a>.</p>"
+        published: '2026-05-22T19:00:00+00:00'
+        published_ts: 1779476400
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/film-film-club-friday-for-may-2026-86e89577c0/
+      target: https://thechels.uk/film-monthly-may-2026
+    author: *55
+    type: link
+    title: Film - Film Club Friday for May 2026
+    content: "<p>One of the “benefits’ of being housebound, fatigued, and with disrupted
+      sleep patterns is that I have films on in the background. I have been keeping
+      track o…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/film-monthly-may-2026\">thechels.uk</a>.</p>"
 "/boinc-thechelsuk-release-290ef30dcfc4":
   '1997782':
     id: '1997782'
@@ -3217,7 +3252,7 @@
       id: 1997782
       private: false
       data:
-        author: &55
+        author: &56
           name: Nuchronic
           url: https://nuchronic.uk/
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
@@ -3233,7 +3268,7 @@
       rels:
         canonical: https://nuchronic.uk/item/release-boinc-thechelsuk-version-1-0-1-d479ee173f/
       target: https://thechels.uk/boinc-thechelsuk-release-290ef30dcfc4
-    author: *55
+    author: *56
     type: link
     title: Release - Boinc @ thechelsuk Version 1.0.1
     content: "<p>Notes Minor supporting .md file updates What’s Changed Bump lycheeverse/lychee-action
@@ -3252,7 +3287,7 @@
       id: 1997875
       private: false
       data:
-        author: &56
+        author: &57
           name: Nuchronic
           url: https://nuchronic.uk/
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
@@ -3269,7 +3304,7 @@
       rels:
         canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-23-c24c40f420/
       target: https://thechels.uk/2026-05-23-daily-rundown
-    author: *56
+    author: *57
     type: link
     title: Daily - Daily Rundown for 2026-05-23
     content: "<p>Good Morning, Here is your daily briefing… On Saturday, 23 May 2026
