@@ -11,6 +11,7 @@ date: 2026-05-24
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Sunday, 24 May 2026
 
 - The average temperature today is 14.99˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 24 days since the last change (2026-04-30)
 
@@ -33,18 +35,22 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Move fast.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Bolton Wanderers v Stockport County
 - Brighton & Hove Albion v Manchester United
 - Burnley v Wolves
@@ -62,28 +68,31 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 135.7899932861328 
-- ^FTSE : 10466.2998046875 
-- ^FTMC : 23167.5 
+- VWRL.L : 135.7899932861328
+- ^FTSE : 10466.2998046875
+- ^FTMC : 23167.5
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > People smell when they get to the summit but never smell when they get back down due to a process called the descent.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Fighter jet tracks UFO in newly released Pentagon footage (€, [6 minutes ago](http://www.euronews.com/video/2026/05/24/fighter-jet-tracks-ufo-in-newly-released-pentagon-footage))
 - At least one killed after massive Russian drone and missile attack on Kyiv (€, [20 minutes ago](http://www.euronews.com/my-europe/2026/05/24/at-least-one-killed-after-massive-russian-drone-and-missile-attack-on-kyiv))
 - Heavy police presence outside White House after deadly shooting at security checkpoint (€, [29 minutes ago](http://www.euronews.com/video/2026/05/24/heavy-police-presence-outside-white-house-after-deadly-shooting-at-security-checkpoint))
 - Gunman killed after shootout with Secret Service near White House, Trump says (€, [40 minutes ago](http://www.euronews.com/2026/05/24/gunman-killed-after-shootout-with-secret-service-near-white-house-trump-says))
 - Suspect killed after gunfire exchange with Secret Service outside White House (£, [58 minutes ago](https://www.ft.com/content/a4b3f6e0-c0e7-4a80-b5ea-7d8dd4dd4de8))
 - Pee for the planet: How Football fans are tackling Sweden’s fertiliser problem using urine (€, [1 hours ago](http://www.euronews.com/2026/05/24/pee-for-the-planet-how-football-fans-are-tackling-swedens-fertiliser-problem-using-urine))
-- Latest news bulletin  May 24th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/24/latest-news-bulletin-may-24th-2026-morning))
+- Latest news bulletin May 24th, 2026 – Morning (€, [1 hours ago](http://www.euronews.com/video/2026/05/24/latest-news-bulletin-may-24th-2026-morning))
 - Frequent flyers: How many of these airline collectibles do you have? (€, [1 hours ago](http://www.euronews.com/travel/2026/05/24/frequent-flyers-how-many-of-these-airline-collectibles-do-you-have))
 - Iran’s Guards used UAE company to buy military satellite equipment (£, [2 hours ago](https://www.ft.com/content/371fee77-8637-4b99-ab5a-4b6fae253a44))
 - Commerzbank rallies shareholders in fight for independence from UniCredit (£, [2 hours ago](https://www.ft.com/content/590ac4fd-ac77-499d-95be-4721ecb67e56))
@@ -119,7 +128,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > Elginism - noun: Cultural vandalism: the removal or plunder of cultural treasures from their place of origin, especially for display in another country.
+> Elginism - noun: Cultural vandalism: the removal or plunder of cultural treasures from their place of origin, especially for display in another country.
 
 <!-- word_marker ends -->
 
@@ -134,6 +143,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Distorting time
 
 <!-- eno_marker ends -->
@@ -141,6 +151,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Lone Survivor (Rated: 3)
 - Released in 2013
 - Summary: Marcus Luttrell and his team set out on a mission to capture or kill notorious Taliban leader Ahmad Shah, in late June 2005. Marcus and his team are left to fight for their lives in one of the most valiant efforts of modern warfare.
@@ -164,6 +175,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Chris Shaw [URL](https://thoughts.uncountable.uk/) [Feed](https://thoughts.uncountable.uk/feed)
 - The Sweet Setup [URL](https://thesweetsetup.com/) [Feed](https://thesweetsetup.com/feed/)
 - Steven Breckinridge [URL](https://stuartbreckenridge.net/) [Feed](https://stuartbreckenridge.net/rss.xml)
