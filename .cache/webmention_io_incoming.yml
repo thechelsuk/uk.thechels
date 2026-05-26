@@ -806,3 +806,219 @@
     content: "<p>Good Morning, Here is your daily briefing… On Monday, 25 May 2026
       The average temperature today is 20.55˚C, With highs of 21.27˚C and lows of
       20.54˚C, It may…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-25-daily-rundown\">thechels.uk</a>.</p>"
+"/mixtape-music-02-2025": {}
+"/apple-maps-will-have-ads": {}
+"/apple-discontinues-and-has-no-plans-for-the-mac-pro": {}
+"/a-review-of-me-specialist-provision-on-the-nhs":
+  '1986889':
+    id: '1986889'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mi5cagqp6s2z
+    source: false
+    pubdate: 2026-03-28 18:47:30.000000000 +00:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mi5cagqp6s2z%23bridgy-fed-create-2026-03-28T18:47:31.812835+00:00
+      verified: true
+      verified_date: '2026-03-28T18:47:35+00:00'
+      id: 1986889
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mi5cagqp6s2z
+        name:
+        content: |-
+          A review of ME specialist provision on the NHS
+          <a href="https://thechels.uk/a-review-of-me-specialist-provision-on-the-nhs">https://thechels.uk/a-review-of-me-specialist-provision-on-the-nhs</a>
+        published: '2026-03-28T18:47:30+00:00'
+        published_ts: 1774723650
+      activity:
+        type: link
+      target: https://thechels.uk/a-review-of-me-specialist-provision-on-the-nhs
+    author:
+    type: link
+    content: |-
+      A review of ME specialist provision on the NHS
+      <a href="https://thechels.uk/a-review-of-me-specialist-provision-on-the-nhs">https://thechels.uk/a-review-of-me-specialist-provision-on-the-nhs</a>
+"/uefa-backs-officials-after-chelsea's-sonia-bompastor-criticism": {}
+"/css-naked-day": {}
+"/the-bbc-rss-feeds-are-garbage": {}
+"/2026-04-27-daily-rundown": {}
+"/github-copilot-is-moving-to-usage-based-billing": {}
+"/cf-worker-x-redirect-release-2ccbc7f48926":
+  '1994568':
+    id: '1994568'
+    uri: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-3-c3476d9c17/
+    source: false
+    pubdate: 2026-05-05 01:07:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-3-c3476d9c17/
+      verified: true
+      verified_date: '2026-05-05T03:20:07+00:00'
+      id: 1994568
+      private: false
+      data:
+        author: &23
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-3-c3476d9c17/
+        name: Release - CF Worker X Redirect Version v1.0.3
+        content: "<p>Full Changelog : v1.0.1…v1.0.3 Read more about my projects <em>**
+          // Published 2026-05-05, with 10 words. **</em> ???? Thanks for keeping
+          RSS alive. If you have an RSS…</p>\n\n        \n        <p>Continue reading
+          at <a href=\"https://thechels.uk/cf-worker-x-redirect-release-2ccbc7f48926\">thechels.uk</a>.</p>"
+        published: '2026-05-05T00:07:00+00:00'
+        published_ts: 1777939620
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-3-c3476d9c17/
+      target: https://thechels.uk/cf-worker-x-redirect-release-2ccbc7f48926
+    author: *23
+    type: link
+    title: Release - CF Worker X Redirect Version v1.0.3
+    content: "<p>Full Changelog : v1.0.1…v1.0.3 Read more about my projects <em>**
+      // Published 2026-05-05, with 10 words. **</em> ???? Thanks for keeping RSS
+      alive. If you have an RSS…</p>\n\n        \n        <p>Continue reading at <a
+      href=\"https://thechels.uk/cf-worker-x-redirect-release-2ccbc7f48926\">thechels.uk</a>.</p>"
+"/2026-05-05-daily-rundown":
+  '1994592':
+    id: '1994592'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-05-c9a2e1f963/
+    source: false
+    pubdate: 2026-05-05 06:03:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-05-c9a2e1f963/
+      verified: true
+      verified_date: '2026-05-05T07:02:15+00:00'
+      id: 1994592
+      private: false
+      data:
+        author: &24
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-05-c9a2e1f963/
+        name: Daily - Daily Rundown for 2026-05-05
+        content: "<p>Good Morning, Here is your daily briefing… On Tuesday, 05 May
+          2026 The average temperature today is 8.05˚C, With highs of 9.97˚C and lows
+          of 7.6˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/2026-05-05-daily-rundown\">thechels.uk</a>.</p>"
+        published: '2026-05-05T05:03:00+00:00'
+        published_ts: 1777957380
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-05-c9a2e1f963/
+      target: https://thechels.uk/2026-05-05-daily-rundown
+    author: *24
+    type: link
+    title: Daily - Daily Rundown for 2026-05-05
+    content: "<p>Good Morning, Here is your daily briefing… On Tuesday, 05 May 2026
+      The average temperature today is 8.05˚C, With highs of 9.97˚C and lows of 7.6˚C,
+      It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-05-daily-rundown\">thechels.uk</a>.</p>"
+"/2026-05-13-daily-rundown":
+  '1996051':
+    id: '1996051'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-13-4cbed17e2e/
+    source: false
+    pubdate: 2026-05-13 06:22:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-13-4cbed17e2e/
+      verified: true
+      verified_date: '2026-05-13T07:21:13+00:00'
+      id: 1996051
+      private: false
+      data:
+        author: &25
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-13-4cbed17e2e/
+        name: Daily - Daily Rundown for 2026-05-13
+        content: "<p>Good Morning, Here is your daily briefing… On Wednesday, 13 May
+          2026 The average temperature today is 9˚C, With highs of 9.26˚C and lows
+          of 8.72˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/2026-05-13-daily-rundown\">thechels.uk</a>.</p>"
+        published: '2026-05-13T05:22:00+00:00'
+        published_ts: 1778649720
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-13-4cbed17e2e/
+      target: https://thechels.uk/2026-05-13-daily-rundown
+    author: *25
+    type: link
+    title: Daily - Daily Rundown for 2026-05-13
+    content: "<p>Good Morning, Here is your daily briefing… On Wednesday, 13 May 2026
+      The average temperature today is 9˚C, With highs of 9.26˚C and lows of 8.72˚C,
+      It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-13-daily-rundown\">thechels.uk</a>.</p>"
+"/film-club":
+  '1996255':
+    id: '1996255'
+    uri: https://nuchronic.uk/item/social-film-club-5826e99d14/
+    source: false
+    pubdate: 2026-05-13 15:25:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/social-film-club-5826e99d14/
+      verified: true
+      verified_date: '2026-05-13T16:59:52+00:00'
+      id: 1996255
+      private: false
+      data:
+        author: &26
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/social-film-club-5826e99d14/
+        name: Social - Film Club
+        content: "<p>I now have 1404 films logged, I am certain I have more missing
+          from my watched list though, but no chance of remembering them. *** // Published
+          2026-05-13, w…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/film-club\">thechels.uk</a>.</p>"
+        published: '2026-05-13T14:25:00+00:00'
+        published_ts: 1778682300
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/social-film-club-5826e99d14/
+      target: https://thechels.uk/film-club
+    author: *26
+    type: link
+    title: Social - Film Club
+    content: "<p>I now have 1404 films logged, I am certain I have more missing from
+      my watched list though, but no chance of remembering them. *** // Published
+      2026-05-13, w…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/film-club\">thechels.uk</a>.</p>"
+"/what-can-you-buy-with-a-5m-donation":
+  '1996308':
+    id: '1996308'
+    uri: https://nuchronic.uk/item/social-what-can-you-buy-with-a-5m-donation-3ea2cb09be/
+    source: false
+    pubdate: 2026-05-13 20:14:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/social-what-can-you-buy-with-a-5m-donation-3ea2cb09be/
+      verified: true
+      verified_date: '2026-05-13T20:44:35+00:00'
+      id: 1996308
+      private: false
+      data:
+        author: &27
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/social-what-can-you-buy-with-a-5m-donation-3ea2cb09be/
+        name: Social - What can you buy with a £5m donation
+        content: "<p>What can you buy with a £5m donation? The longer Starmer is in
+          office, the more Reform fancy there chances. <em>** // Published 2026-05-13,
+          with 20 words. **</em> ????…</p>\n\n        \n        <p>Continue reading
+          at <a href=\"https://thechels.uk/what-can-you-buy-with-a-5m-donation\">thechels.uk</a>.</p>"
+        published: '2026-05-13T19:14:00+00:00'
+        published_ts: 1778699640
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/social-what-can-you-buy-with-a-5m-donation-3ea2cb09be/
+      target: https://thechels.uk/what-can-you-buy-with-a-5m-donation
+    author: *27
+    type: link
+    title: Social - What can you buy with a £5m donation
+    content: "<p>What can you buy with a £5m donation? The longer Starmer is in office,
+      the more Reform fancy there chances. <em>** // Published 2026-05-13, with 20
+      words. **</em> ????…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/what-can-you-buy-with-a-5m-donation\">thechels.uk</a>.</p>"
