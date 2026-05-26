@@ -1022,3 +1022,39 @@
     content: "<p>What can you buy with a £5m donation? The longer Starmer is in office,
       the more Reform fancy there chances. <em>** // Published 2026-05-13, with 20
       words. **</em> ????…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/what-can-you-buy-with-a-5m-donation\">thechels.uk</a>.</p>"
+"/2026-05-26-daily-rundown":
+  '1998447':
+    id: '1998447'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-26-991fc3e009/
+    source: false
+    pubdate: 2026-05-26 06:32:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-26-991fc3e009/
+      verified: true
+      verified_date: '2026-05-26T07:30:47+00:00'
+      id: 1998447
+      private: false
+      data:
+        author: &28
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-26-991fc3e009/
+        name: Daily - Daily Rundown for 2026-05-26
+        content: "<p>Good Morning, Here is your daily briefing… On Tuesday, 26 May
+          2026 The average temperature today is 21.77˚C, With highs of 23.72˚C and
+          lows of 19.82˚C, It ma…</p>\n\n        \n        <p>Continue reading at
+          <a href=\"https://thechels.uk/2026-05-26-daily-rundown\">thechels.uk</a>.</p>"
+        published: '2026-05-26T05:32:00+00:00'
+        published_ts: 1779773520
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-26-991fc3e009/
+      target: https://thechels.uk/2026-05-26-daily-rundown
+    author: *28
+    type: link
+    title: Daily - Daily Rundown for 2026-05-26
+    content: "<p>Good Morning, Here is your daily briefing… On Tuesday, 26 May 2026
+      The average temperature today is 21.77˚C, With highs of 23.72˚C and lows of
+      19.82˚C, It ma…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-26-daily-rundown\">thechels.uk</a>.</p>"
