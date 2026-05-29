@@ -1426,3 +1426,215 @@
       a really n…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/no-in-advance\">thechels.uk</a>.</p>"
 "/links-release-a3ecd29c6569": {}
 "/2026-05-28-daily-rundown": {}
+"/video-version-20-of-hiyd-out-now-0b51464e": {}
+"/2026-04-30-daily-rundown":
+  '1994192':
+    id: '1994192'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-04-30-e8cc700ed1/
+    source: false
+    pubdate: 2026-04-30 08:06:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-04-30-e8cc700ed1/
+      verified: true
+      verified_date: '2026-05-03T16:38:05+00:00'
+      id: 1994192
+      private: false
+      data:
+        author: &39
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-04-30-e8cc700ed1/
+        name: Daily - Daily Rundown for 2026-04-30
+        content: <p>Read the original article on <a href="https://thechels.uk/2026-04-30-daily-rundown">thechels.uk</a>.</p>
+        published: '2026-04-30T07:06:00+00:00'
+        published_ts: 1777532760
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-04-30-e8cc700ed1/
+      target: https://thechels.uk/2026-04-30-daily-rundown
+    author: *39
+    type: link
+    title: Daily - Daily Rundown for 2026-04-30
+    content: <p>Read the original article on <a href="https://thechels.uk/2026-04-30-daily-rundown">thechels.uk</a>.</p>
+"/2026-05-08-daily-rundown":
+  '1994959':
+    id: '1994959'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-08-806880f936/
+    source: false
+    pubdate: 2026-05-08 05:52:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-08-806880f936/
+      verified: true
+      verified_date: '2026-05-08T06:50:44+00:00'
+      id: 1994959
+      private: false
+      data:
+        author: &40
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-08-806880f936/
+        name: Daily - Daily Rundown for 2026-05-08
+        content: "<p>Good Morning, Here is your daily briefing… On Friday, 08 May
+          2026 The average temperature today is 9.35˚C, With highs of 9.98˚C and lows
+          of 8.15˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/2026-05-08-daily-rundown\">thechels.uk</a>.</p>"
+        published: '2026-05-08T04:52:00+00:00'
+        published_ts: 1778215920
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-08-806880f936/
+      target: https://thechels.uk/2026-05-08-daily-rundown
+    author: *40
+    type: link
+    title: Daily - Daily Rundown for 2026-05-08
+    content: "<p>Good Morning, Here is your daily briefing… On Friday, 08 May 2026
+      The average temperature today is 9.35˚C, With highs of 9.98˚C and lows of 8.15˚C,
+      It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-08-daily-rundown\">thechels.uk</a>.</p>"
+"/github-repo-stats": {}
+"/cloudflare-builds-for-revenue-not-humans":
+  '1995055':
+    id: '1995055'
+    uri: https://nuchronic.uk/item/linked-cloudflare-builds-for-revenue-not-humans-e3336df3e1/
+    source: false
+    pubdate: 2026-05-08 18:10:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/linked-cloudflare-builds-for-revenue-not-humans-e3336df3e1/
+      verified: true
+      verified_date: '2026-05-08T17:40:35+00:00'
+      id: 1995055
+      private: false
+      data:
+        author: &41
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/linked-cloudflare-builds-for-revenue-not-humans-e3336df3e1/
+        name: Linked - Cloudflare builds for revenue not humans
+        content: "<p>Cloudflare announced 1100 job losses “due to AI” and separately
+          announced quarterly results that included 34 percent year-over-year revenue
+          growth and guidan…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/cloudflare-builds-for-revenue-not-humans\">thechels.uk</a>.</p>"
+        published: '2026-05-08T17:10:00+00:00'
+        published_ts: 1778260200
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/linked-cloudflare-builds-for-revenue-not-humans-e3336df3e1/
+      target: https://thechels.uk/cloudflare-builds-for-revenue-not-humans
+    author: *41
+    type: link
+    title: Linked - Cloudflare builds for revenue not humans
+    content: "<p>Cloudflare announced 1100 job losses “due to AI” and separately announced
+      quarterly results that included 34 percent year-over-year revenue growth and
+      guidan…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/cloudflare-builds-for-revenue-not-humans\">thechels.uk</a>.</p>"
+"/plans-for-rss-with-netnewswire":
+  '1995093':
+    id: '1995093'
+    uri: https://nuchronic.uk/item/blog-plans-for-rss-with-netnewswire-329be8473d/
+    source: false
+    pubdate: 2026-05-08 22:10:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/blog-plans-for-rss-with-netnewswire-329be8473d/
+      verified: true
+      verified_date: '2026-05-08T22:29:54+00:00'
+      id: 1995093
+      private: false
+      data:
+        author: &42
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/blog-plans-for-rss-with-netnewswire-329be8473d/
+        name: Blog - Plans for RSS with NetNewsWire
+        content: "<p>The recent update to NNW has resulted in a huge sense of speed
+          and performance improvements for me. The app loads quickly and syncing of
+          new content seems su…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/plans-for-rss-with-netnewswire\">thechels.uk</a>.</p>"
+        published: '2026-05-08T21:10:00+00:00'
+        published_ts: 1778274600
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/blog-plans-for-rss-with-netnewswire-329be8473d/
+      target: https://thechels.uk/plans-for-rss-with-netnewswire
+    author: *42
+    type: link
+    title: Blog - Plans for RSS with NetNewsWire
+    content: "<p>The recent update to NNW has resulted in a huge sense of speed and
+      performance improvements for me. The app loads quickly and syncing of new content
+      seems su…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/plans-for-rss-with-netnewswire\">thechels.uk</a>.</p>"
+"/2026-05-16-daily-rundown":
+  '1996745':
+    id: '1996745'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-16-8cd67dd55b/
+    source: false
+    pubdate: 2026-05-16 06:10:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-16-8cd67dd55b/
+      verified: true
+      verified_date: '2026-05-16T07:00:17+00:00'
+      id: 1996745
+      private: false
+      data:
+        author: &43
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-16-8cd67dd55b/
+        name: Daily - Daily Rundown for 2026-05-16
+        content: "<p>Good Morning, Here is your daily briefing… On Saturday, 16 May
+          2026 The average temperature today is 6.81˚C, With highs of 7.2˚C and lows
+          of 6.4˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/2026-05-16-daily-rundown\">thechels.uk</a>.</p>"
+        published: '2026-05-16T05:10:00+00:00'
+        published_ts: 1778908200
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-16-8cd67dd55b/
+      target: https://thechels.uk/2026-05-16-daily-rundown
+    author: *43
+    type: link
+    title: Daily - Daily Rundown for 2026-05-16
+    content: "<p>Good Morning, Here is your daily briefing… On Saturday, 16 May 2026
+      The average temperature today is 6.81˚C, With highs of 7.2˚C and lows of 6.4˚C,
+      It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-16-daily-rundown\">thechels.uk</a>.</p>"
+"/cheltenham-open-data-release-a400aa248379":
+  '1996811':
+    id: '1996811'
+    uri: https://nuchronic.uk/item/release-cheltenham-open-data-version-newsletter-25965335933-7dc7e64838/
+    source: false
+    pubdate: 2026-05-16 14:59:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/release-cheltenham-open-data-version-newsletter-25965335933-7dc7e64838/
+      verified: true
+      verified_date: '2026-05-16T17:29:26+00:00'
+      id: 1996811
+      private: false
+      data:
+        author: &44
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/release-cheltenham-open-data-version-newsletter-25965335933-7dc7e64838/
+        name: Release - Cheltenham Open Data Version newsletter-25965335933
+        content: "<p>No release notes were included for this release. Read more about
+          my projects <em>** // Published 2026-05-16, with 14 words. **</em> ????
+          Thanks for keeping RSS alive….</p>\n\n        \n        <p>Continue reading
+          at <a href=\"https://thechels.uk/cheltenham-open-data-release-a400aa248379\">thechels.uk</a>.</p>"
+        published: '2026-05-16T13:59:00+00:00'
+        published_ts: 1778939940
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/release-cheltenham-open-data-version-newsletter-25965335933-7dc7e64838/
+      target: https://thechels.uk/cheltenham-open-data-release-a400aa248379
+    author: *44
+    type: link
+    title: Release - Cheltenham Open Data Version newsletter-25965335933
+    content: "<p>No release notes were included for this release. Read more about
+      my projects <em>** // Published 2026-05-16, with 14 words. **</em> ???? Thanks
+      for keeping RSS alive….</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/cheltenham-open-data-release-a400aa248379\">thechels.uk</a>.</p>"
