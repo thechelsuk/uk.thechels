@@ -270,7 +270,7 @@ def render_post(release: ReleaseRecord) -> str:
         "date": release.published.strftime("%Y-%m-%d %H:%M"),
         "title": release.title,
         "type": "release",
-        "cited": "github",
+        "cited": "GitHub",
         "link": release.link,
         "release_id": release.release_id,
         "release_repo": release.repo_name,
