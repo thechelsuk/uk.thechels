@@ -1639,3 +1639,204 @@
       my projects <em>** // Published 2026-05-16, with 14 words. **</em> ???? Thanks
       for keeping RSS alive….</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/cheltenham-open-data-release-a400aa248379\">thechels.uk</a>.</p>"
 "/2026-05-29-daily-rundown": {}
+"/amazon-is-ending-support-for-older-kindles-and-kindle-fires-the-verge": {}
+"/cheltenham-open-data-release-f7296982c5d7": {}
+"/homebridge-ysa2-yale-alarm-release-f5d8b98ac6df": {}
+"/2026-05-01-daily-rundown":
+  '1994191':
+    id: '1994191'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-01-250e5415f0/
+    source: false
+    pubdate: 2026-05-01 07:07:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-01-250e5415f0/
+      verified: true
+      verified_date: '2026-05-03T16:38:00+00:00'
+      id: 1994191
+      private: false
+      data:
+        author: &45
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-01-250e5415f0/
+        name: Daily - Daily Rundown for 2026-05-01
+        content: <p>Read the original article on <a href="https://thechels.uk/2026-05-01-daily-rundown">thechels.uk</a>.</p>
+        published: '2026-05-01T06:07:00+00:00'
+        published_ts: 1777615620
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-01-250e5415f0/
+      target: https://thechels.uk/2026-05-01-daily-rundown
+    author: *45
+    type: link
+    title: Daily - Daily Rundown for 2026-05-01
+    content: <p>Read the original article on <a href="https://thechels.uk/2026-05-01-daily-rundown">thechels.uk</a>.</p>
+"/brand":
+  '1994187':
+    id: '1994187'
+    uri: https://nuchronic.uk/item/social-brand-6dc734630e/
+    source: false
+    pubdate: 2026-05-02 16:07:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/social-brand-6dc734630e/
+      verified: true
+      verified_date: '2026-05-03T16:37:52+00:00'
+      id: 1994187
+      private: false
+      data:
+        author: &46
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/social-brand-6dc734630e/
+        name: Social - Brand
+        content: <p>Read the original article on <a href="https://thechels.uk/brand">thechels.uk</a>.</p>
+        published: '2026-05-02T15:07:00+00:00'
+        published_ts: 1777734420
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/social-brand-6dc734630e/
+      target: https://thechels.uk/brand
+    author: *46
+    type: link
+    title: Social - Brand
+    content: <p>Read the original article on <a href="https://thechels.uk/brand">thechels.uk</a>.</p>
+"/2026-05-09-daily-rundown":
+  '1995124':
+    id: '1995124'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-09-8868cdd533/
+    source: false
+    pubdate: 2026-05-09 06:04:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-09-8868cdd533/
+      verified: true
+      verified_date: '2026-05-09T06:57:07+00:00'
+      id: 1995124
+      private: false
+      data:
+        author: &47
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-09-8868cdd533/
+        name: Daily - Daily Rundown for 2026-05-09
+        content: "<p>Good Morning, Here is your daily briefing… On Saturday, 09 May
+          2026 The average temperature today is 10.51˚C, With highs of 11.83˚C and
+          lows of 8.72˚C, It ma…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/2026-05-09-daily-rundown\">thechels.uk</a>.</p>"
+        published: '2026-05-09T05:04:00+00:00'
+        published_ts: 1778303040
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-09-8868cdd533/
+      target: https://thechels.uk/2026-05-09-daily-rundown
+    author: *47
+    type: link
+    title: Daily - Daily Rundown for 2026-05-09
+    content: "<p>Good Morning, Here is your daily briefing… On Saturday, 09 May 2026
+      The average temperature today is 10.51˚C, With highs of 11.83˚C and lows of
+      8.72˚C, It ma…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-09-daily-rundown\">thechels.uk</a>.</p>"
+"/nnw-theme-bundle-release-0a6890489292":
+  '1995249':
+    id: '1995249'
+    uri: https://ap.brid.gy/convert/web/https://social.lol/ap/users/116328436595171448%23likes/2193795
+    source: false
+    pubdate: 2026-05-09 19:08:11.000000000 +00:00
+    raw:
+      source: https://ap.brid.gy/convert/web/https://social.lol/ap/users/116328436595171448%23likes/2193795
+      verified: true
+      verified_date: '2026-05-09T19:08:11+00:00'
+      id: 1995249
+      private: false
+      data:
+        author: &48
+          name: Pablo Murad
+          url: https://social.lol/@runawaydevil
+          photo: https://avatars.webmention.io/s3.eu-central-003.backblazeb2.com/10f7bc3caf94e400f3e70392768ed6d0b3a7446ead9d7a1b3c4b5fd4ea426ae3.png
+        url: https://ap.brid.gy/convert/web/https://social.lol/ap/users/116328436595171448%23likes/2193795
+        name:
+        content: <a href="https://thechels.uk/nnw-theme-bundle-release-0a6890489292">likes
+          this.</a>
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://thechels.uk/nnw-theme-bundle-release-0a6890489292
+    author: *48
+    type: like
+    content: ''
+  '1995183':
+    id: '1995183'
+    uri: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-8-1-bb620f55be/
+    source: false
+    pubdate: 2026-05-09 15:00:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-8-1-bb620f55be/
+      verified: true
+      verified_date: '2026-05-09T14:32:50+00:00'
+      id: 1995183
+      private: false
+      data:
+        author: &49
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-8-1-bb620f55be/
+        name: Release - NNW Theme Bundle Version v1.8.1
+        content: "<p>Themes New Fresh theme added to the bundle, and all themes have
+          support for YouTube video embeds and x.app link generation, Additionally
+          all themes have been…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/nnw-theme-bundle-release-0a6890489292\">thechels.uk</a>.</p>"
+        published: '2026-05-09T14:00:00+00:00'
+        published_ts: 1778335200
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-8-1-bb620f55be/
+      target: https://thechels.uk/nnw-theme-bundle-release-0a6890489292
+    author: *49
+    type: link
+    title: Release - NNW Theme Bundle Version v1.8.1
+    content: "<p>Themes New Fresh theme added to the bundle, and all themes have support
+      for YouTube video embeds and x.app link generation, Additionally all themes
+      have been…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/nnw-theme-bundle-release-0a6890489292\">thechels.uk</a>.</p>"
+"/2026-05-17-daily-rundown":
+  '1996864':
+    id: '1996864'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-17-7dacdb8802/
+    source: false
+    pubdate: 2026-05-17 06:21:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-17-7dacdb8802/
+      verified: true
+      verified_date: '2026-05-17T07:13:07+00:00'
+      id: 1996864
+      private: false
+      data:
+        author: &50
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-17-7dacdb8802/
+        name: Daily - Daily Rundown for 2026-05-17
+        content: "<p>Good Morning, Here is your daily briefing… On Sunday, 17 May
+          2026 The average temperature today is 9.26˚C, With highs of 9.27˚C and lows
+          of 8.25˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/2026-05-17-daily-rundown\">thechels.uk</a>.</p>"
+        published: '2026-05-17T05:21:00+00:00'
+        published_ts: 1778995260
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-17-7dacdb8802/
+      target: https://thechels.uk/2026-05-17-daily-rundown
+    author: *50
+    type: link
+    title: Daily - Daily Rundown for 2026-05-17
+    content: "<p>Good Morning, Here is your daily briefing… On Sunday, 17 May 2026
+      The average temperature today is 9.26˚C, With highs of 9.27˚C and lows of 8.25˚C,
+      It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-17-daily-rundown\">thechels.uk</a>.</p>"
