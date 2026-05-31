@@ -1877,3 +1877,137 @@
       is dropping. MiL came to visit and helped massively by tidying up the overgrown
       garden -…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/weaknotes-2026-05-30\">thechels.uk</a>.</p>"
 "/londons-first-londons-finest": {}
+"/2026-05-02-daily-rundown":
+  '1994189':
+    id: '1994189'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-02-a12e972d52/
+    source: false
+    pubdate: 2026-05-02 06:50:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-02-a12e972d52/
+      verified: true
+      verified_date: '2026-05-03T16:37:53+00:00'
+      id: 1994189
+      private: false
+      data:
+        author: &52
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-02-a12e972d52/
+        name: Daily - Daily Rundown for 2026-05-02
+        content: <p>Read the original article on <a href="https://thechels.uk/2026-05-02-daily-rundown">thechels.uk</a>.</p>
+        published: '2026-05-02T05:50:00+00:00'
+        published_ts: 1777701000
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-02-a12e972d52/
+      target: https://thechels.uk/2026-05-02-daily-rundown
+    author: *52
+    type: link
+    title: Daily - Daily Rundown for 2026-05-02
+    content: <p>Read the original article on <a href="https://thechels.uk/2026-05-02-daily-rundown">thechels.uk</a>.</p>
+"/nnw-theme-bundle-release-fc098d90d3fe":
+  '1994188':
+    id: '1994188'
+    uri: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-6-2-da73f950a6/
+    source: false
+    pubdate: 2026-05-02 12:00:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-6-2-da73f950a6/
+      verified: true
+      verified_date: '2026-05-03T16:37:53+00:00'
+      id: 1994188
+      private: false
+      data:
+        author: &53
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-6-2-da73f950a6/
+        name: Release - NNW Theme Bundle Version v1.6.2
+        content: <p>Read the original article on <a href="https://thechels.uk/nnw-theme-bundle-release-fc098d90d3fe">thechels.uk</a>.</p>
+        published: '2026-05-02T11:00:00+00:00'
+        published_ts: 1777719600
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-6-2-da73f950a6/
+      target: https://thechels.uk/nnw-theme-bundle-release-fc098d90d3fe
+    author: *53
+    type: link
+    title: Release - NNW Theme Bundle Version v1.6.2
+    content: <p>Read the original article on <a href="https://thechels.uk/nnw-theme-bundle-release-fc098d90d3fe">thechels.uk</a>.</p>
+"/2026-05-10-daily-rundown":
+  '1995335':
+    id: '1995335'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-10-f19deea2d9/
+    source: false
+    pubdate: 2026-05-10 06:18:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-10-f19deea2d9/
+      verified: true
+      verified_date: '2026-05-10T07:08:46+00:00'
+      id: 1995335
+      private: false
+      data:
+        author: &54
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-10-f19deea2d9/
+        name: Daily - Daily Rundown for 2026-05-10
+        content: "<p>Good Morning, Here is your daily briefing… On Sunday, 10 May
+          2026 The average temperature today is 9.43˚C, With highs of 9.73˚C and lows
+          of 8.86˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/2026-05-10-daily-rundown\">thechels.uk</a>.</p>"
+        published: '2026-05-10T05:18:00+00:00'
+        published_ts: 1778390280
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-10-f19deea2d9/
+      target: https://thechels.uk/2026-05-10-daily-rundown
+    author: *54
+    type: link
+    title: Daily - Daily Rundown for 2026-05-10
+    content: "<p>Good Morning, Here is your daily briefing… On Sunday, 10 May 2026
+      The average temperature today is 9.43˚C, With highs of 9.73˚C and lows of 8.86˚C,
+      It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-10-daily-rundown\">thechels.uk</a>.</p>"
+"/2026-05-18-daily-rundown":
+  '1997014':
+    id: '1997014'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-18-0ecf8fedfb/
+    source: false
+    pubdate: 2026-05-18 06:37:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-18-0ecf8fedfb/
+      verified: true
+      verified_date: '2026-05-18T07:44:35+00:00'
+      id: 1997014
+      private: false
+      data:
+        author: &55
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-18-0ecf8fedfb/
+        name: Daily - Daily Rundown for 2026-05-18
+        content: "<p>Good Morning, Here is your daily briefing… On Monday, 18 May
+          2026 The average temperature today is 8.55˚C, With highs of 8.72˚C and lows
+          of 8.17˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/2026-05-18-daily-rundown\">thechels.uk</a>.</p>"
+        published: '2026-05-18T05:37:00+00:00'
+        published_ts: 1779082620
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-18-0ecf8fedfb/
+      target: https://thechels.uk/2026-05-18-daily-rundown
+    author: *55
+    type: link
+    title: Daily - Daily Rundown for 2026-05-18
+    content: "<p>Good Morning, Here is your daily briefing… On Monday, 18 May 2026
+      The average temperature today is 8.55˚C, With highs of 8.72˚C and lows of 8.17˚C,
+      It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-18-daily-rundown\">thechels.uk</a>.</p>"
