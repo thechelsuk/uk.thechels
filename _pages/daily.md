@@ -11,6 +11,7 @@ date: 2026-06-02
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Tuesday, 02 June 2026
 
 - The average temperature today is 14.56˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 33 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Recycling Waste Collection Day
 - Food Waste Collection Day
 
@@ -41,12 +44,15 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Think aptitude and attitude.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
 <!-- fixture_marker ends -->
 
@@ -54,21 +60,24 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 137.9499969482422 
-- ^FTSE : 10339.0 
-- ^FTMC : 23245.80078125 
+- VWRL.L : 137.9499969482422
+- ^FTSE : 10339.0
+- ^FTMC : 23245.80078125
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > I also applied to work for a design company for TV user interfaces. But I misunderstood when they said it was remote-first.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Travelling to Cabo Verde? Here’s what you need to know about the island nation (€, [13 minutes ago](http://www.euronews.com/travel/2026/06/02/travelling-to-cabo-verde-heres-what-you-need-to-know-about-the-island-nation))
 - Fresh blow for Cuba: Iberia halts direct Madrid–Havana flights until November (€, [16 minutes ago](http://www.euronews.com/travel/2026/06/02/fresh-blow-for-cuba-iberia-halts-direct-madridhavana-flights-until-november))
 - Pentagon bans journalists from press office, citing classified material (€, [16 minutes ago](http://www.euronews.com/2026/06/02/pentagon-bans-journalists-from-press-office-citing-classified-material))
@@ -109,7 +118,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > deipnosophist - noun: One skilled at dinner-table conversation.
+> deipnosophist - noun: One skilled at dinner-table conversation.
 
 <!-- word_marker ends -->
 
@@ -124,6 +133,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Humanize something free of error
 
 <!-- eno_marker ends -->
@@ -131,6 +141,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Lockout (Rated: 4)
 - Released in 2012
 - Summary: A man wrongfully accused and convicted of conspiring to commit espionage against the US government is offered his freedom if he can rescue the president's daughter from an outer-space prison that's been taken over by violent inmates.
@@ -154,6 +165,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Sam Ollason [URL](https://samollason.github.io/) [Feed](https://samollason.github.io/feed)
 - Scott Hanselman [URL](https://www.hanselman.com/blog/) [Feed](http://feeds.hanselman.com/ScottHanselman)
 - R. S. Doiel [URL](https://rsdoiel.github.io/pages.xml) [Feed](https://rsdoiel.github.io/rss.xml)
