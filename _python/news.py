@@ -2,13 +2,15 @@ import feedparser
 import pathlib
 import helper
 
-# Step 1: Define feeds with icons
-FEEDS = [("https://www.ft.com/?format=rss", "£"),
-         ("https://www.euronews.com/rss?", "€"),
-         ("https://www.theregister.com/headlines.atom", "®"),
-         ("https://weaintgotnohistory.sbnation.com/rss/current.xml", "♣")]
+# Step 1: Define feeds with labels
+FEEDS = [("https://www.ft.com/?format=rss", "FT"),
+         ("https://www.euronews.com/rss?", "Euronews"),
+         ("https://www.theregister.com/headlines.atom", "Register"),
+         ("https://weaintgotnohistory.sbnation.com/rss/current.xml", "WAGNH"),
+         ("http://developer.apple.com/news/rss/news.rss", "Apple")
+         ]
 
-TIME_DELTA_DAYS = 2
+TIME_DELTA_DAYS = 1
 
 if __name__ == "__main__":
     try:
