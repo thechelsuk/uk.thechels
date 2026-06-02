@@ -11,6 +11,7 @@ date: 2026-06-01
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Monday, 01 June 2026
 
 - The average temperature today is 15.22˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 32 days since the last change (2026-04-30)
 
@@ -33,18 +35,22 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Focus on user needs.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
 <!-- fixture_marker ends -->
 
@@ -52,21 +58,24 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 137.5800018310547 
-- ^FTSE : 10409.2998046875 
-- ^FTMC : 23425.80078125 
+- VWRL.L : 137.5800018310547
+- ^FTSE : 10409.2998046875
+- ^FTMC : 23425.80078125
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > The police came round the other day saying they had reports our pet dog had been chasing the local kids on roller skates, funny I said, our dog does not own any roller skates.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - France and allies intercept suspected Russian shadow fleet tanker, Macron says (€, [7 minutes ago](http://www.euronews.com/my-europe/2026/06/01/france-and-allies-intercept-suspected-russian-shadow-fleet-tanker-macron-says))
 - 'Invisible' nicotine grips young people and raises alarm among public health experts (€, [14 minutes ago](http://www.euronews.com/health/2026/06/01/invisible-nicotine-grips-young-people-and-raises-alarm-among-public-health-experts))
 - If cores are what agents crave, Intel's new Clearwater Xeon 6+ might just quench their thirst (®, [21 minutes ago](https://www.theregister.com/systems/2026/06/01/intel-launches-288-core-clearwater-forest-xeon-6-on-18a-process/5248150))
@@ -75,7 +84,7 @@ _Good Morning, Here is your daily briefing..._
 - How can Europe break free from China's grip on critical industries? Ask the Euronews AI chatbot (€, [50 minutes ago](http://www.euronews.com/my-europe/2026/06/01/whats-europes-plan-to-limit-foreign-strategic-dependency-ask-the-euronews-ai-chatbot))
 - Europe Today: PSG's Champions League triumph marred by violence across France (€, [52 minutes ago](http://www.euronews.com/my-europe/2026/06/01/europe-today-psgs-champions-league-triumph-marred-by-violence-across-france))
 - Arsenal fans pack London streets for victory parade (€, [1 hours ago](http://www.euronews.com/video/2026/06/01/arsenal-fans-pack-london-streets-for-victory-parade))
-- Nvidia CEO Jensen Huang unveils 'new era of PC' for AI age:  5 Key takeaways from GTC (€, [1 hours ago](http://www.euronews.com/next/2026/06/01/nvidia-ceo-jensen-huang-unveils-new-era-of-pc-for-ai-age-5-key-takeaways-from-gtc))
+- Nvidia CEO Jensen Huang unveils 'new era of PC' for AI age: 5 Key takeaways from GTC (€, [1 hours ago](http://www.euronews.com/next/2026/06/01/nvidia-ceo-jensen-huang-unveils-new-era-of-pc-for-ai-age-5-key-takeaways-from-gtc))
 - Celestial art and Masters of the Universe: What to see, do or hear this week in Europe (€, [1 hours ago](http://www.euronews.com/culture/2026/06/01/celestial-art-and-masters-of-the-universe-what-to-see-do-or-hear-this-week-in-europe))
 - Oil prices climb as Israel expands military operation in Lebanon (€, [1 hours ago](http://www.euronews.com/business/2026/06/01/oil-prices-climb-as-israel-expands-military-operation-in-lebanon))
 - SoftBank overtakes Toyota after more than 20 years to become Japan’s largest company (£, [1 hours ago](https://www.ft.com/content/eef96fb0-5a56-4ce2-9a69-5f8eca754995))
@@ -105,7 +114,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > brave new world - noun: A radically transformed world, situation, or era, especially one with both promise and peril.
+> brave new world - noun: A radically transformed world, situation, or era, especially one with both promise and peril.
 
 <!-- word_marker ends -->
 
@@ -120,15 +129,17 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Destroy
--nothing
--the most important thing
+> -nothing
+> -the most important thing
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Saving Private Ryan (Rated: 3)
 - Released in 1998
 - Summary: Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose comrades have been killed in action.
@@ -152,6 +163,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Benjamin Parry [URL](https://benjamin.parry.is/) [Feed](https://benjamin.parry.is/writing/feed.xml)
 - Open Web Advocacy [URL](https://open-web-advocacy.org/) [Feed](https://open-web-advocacy.org/feed.xml)
 - CodeGood [URL](https://codegood.co/) [Feed](https://codegood.co/feed.xml)
