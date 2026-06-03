@@ -134,8 +134,6 @@ navigation_archives:
 navigation_slashes:
   - link: "/ai"
     title: "AI"
-  - link: "/apps"
-    title: "Apps"
   - link: "/about"
     title: "About"
   - link: "/accessibility"
@@ -148,8 +146,6 @@ navigation_slashes:
     title: "CV"
   - link: "/disability"
     title: "Disability"
-  - link: "/drafts"
-    title: "Draft Actions"
   - link: "/green"
     title: "Green"
   - link: "/manual"
@@ -160,8 +156,6 @@ navigation_slashes:
     title: "PGP key"
   - link: "/.well-known/privacy.txt"
     title: "Privacy (txt)"
-  - link: "/projects"
-    title: "Projects"
   - link: "/random"
     title: "Random"
   - link: "/save"
@@ -176,10 +170,20 @@ navigation_slashes:
     title: "Uses"
   - link: "/verify"
     title: "Verify"
-  - link: "/nnw-themes"
-    title: "NetNewsWire Themes"
   - link: "/indieweb.txt"
     title: "IndieWeb (txt)"
+    
+## SubMenu
+navigation_pages:
+  - link: "/apps"
+    title: "Apps"
+  - link: "/drafts"
+    title: "Draft Actions"
+  - link: "/projects"
+    title: "Projects"
+  - link: "/nnw-themes"
+    title: "NetNewsWire Themes"
+
 
 ## Footer links
 navigation_footer:
