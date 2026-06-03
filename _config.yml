@@ -172,7 +172,7 @@ navigation_slashes:
     title: "Verify"
   - link: "/indieweb.txt"
     title: "IndieWeb (txt)"
-    
+
 ## SubMenu
 navigation_pages:
   - link: "/apps"
@@ -183,7 +183,6 @@ navigation_pages:
     title: "Projects"
   - link: "/nnw-themes"
     title: "NetNewsWire Themes"
-
 
 ## Footer links
 navigation_footer:

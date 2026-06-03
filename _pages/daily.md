@@ -11,6 +11,7 @@ date: 2026-06-03
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Wednesday, 03 June 2026
 
 - The average temperature today is 13.05˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 34 days since the last change (2026-04-30)
 
@@ -33,18 +35,22 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Do better with less.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
 <!-- fixture_marker ends -->
 
@@ -52,21 +58,24 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 138.63999938964844 
-- ^FTSE : 10373.5 
-- ^FTMC : 23378.400390625 
+- VWRL.L : 138.63999938964844
+- ^FTSE : 10373.5
+- ^FTMC : 23378.400390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> What are two landmasses favourite game? -  Bridge.
+
+> What are two landmasses favourite game? - Bridge.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - US proposes tariffs of at least 10% over forced labour practices (FT, [51 minutes ago](https://www.ft.com/content/b2a48b50-7c7c-423a-b558-eee0821f3469))
 - How Real Madrid’s boss hopes to lure ‘galáctico’ investors (FT, [2 hours ago](https://www.ft.com/content/cf47d5ad-22a1-4a4a-8676-4d6b59a3cc70))
 - Inside Alexandr Wang’s bid to revive Meta’s AI edge (FT, [2 hours ago](https://www.ft.com/content/d26faf9d-6ef0-4480-ab80-bac6a36fe173))
@@ -96,7 +105,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > Lord of the Flies - adjective: Marked by a breakdown of order into cruelty, chaos, and savagery.
+> Lord of the Flies - adjective: Marked by a breakdown of order into cruelty, chaos, and savagery.
 
 <!-- word_marker ends -->
 
@@ -111,6 +120,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Assemble some of the instruments in a group and treat the group
 
 <!-- eno_marker ends -->
@@ -118,6 +128,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Boiler Room (Rated: 7)
 - Released in 2000
 - Summary: A college dropout, attempting to live up to his father's high standards, gets a job as a broker for a suburban investment firm which puts him on the fast track to success. But the job might not be as legitimate as it first appeare...
@@ -141,6 +152,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Ellane N [URL](https://ellanew.com/) [Feed](https://ellanew.com/feed.rss)
 - Daring Fireball [URL](https://daringfireball.net/) [Feed](http://daringfireball.net/index.xml)
 - Health Rising [URL](https://www.healthrising.org/) [Feed](https://www.healthrising.org/feed/)
