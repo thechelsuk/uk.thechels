@@ -161,6 +161,8 @@ navigation_slashes:
     title: "PGP key"
   - link: "/.well-known/privacy.txt"
     title: "Privacy (txt)"
+  - link: "/projects"
+    title: "Projects"
   - link: "/random"
     title: "Random"
   - link: "/save"
@@ -177,17 +179,6 @@ navigation_slashes:
     title: "Verify"
   - link: "/indieweb.txt"
     title: "IndieWeb (txt)"
-
-## SubMenu
-navigation_pages:
-  - link: "/apps"
-    title: "Apps"
-  - link: "/drafts"
-    title: "Draft Actions"
-  - link: "/projects"
-    title: "Projects"
-  - link: "/nnw-themes"
-    title: "NetNewsWire Themes"
 
 ## Footer links
 navigation_footer:

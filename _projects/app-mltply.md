@@ -4,12 +4,13 @@ title: Mltply - The chat-like maths app for kids
 permalink: /projects/mltply
 class: applications
 seo: "Mltply iOS App The chat-like maths app for kids"
-i_name: Download
+i_name: Download on the iOS App Store
 i_url: "https://apps.apple.com/gb/app/mltply/id6747147316"
 i_image: "/images/apps/mltply-banner.png"
 i_icon: "/images/apps/mltply-icon.png"
 i_foss: "https://github.com/thechelsuk/com.uk.thechels.mltply"
 summary: "Mltply uses a friendly chat-style interface to make maths practice less intimidating. Short prompts keep the pace up, and repetition cements knowledge while keeping things playful."
+type: mobile
 ---
 
 Mltply uses a friendly chat-style interface to make maths practice less intimidating. Short prompts keep the pace up, and repetition cements knowledge while keeping things playful.
@@ -23,7 +24,3 @@ Mltply uses a friendly chat-style interface to make maths practice less intimida
 - No in-app purchases, subscriptions, or data sharing; the code is open source on [GitHub](https://github.com/thechelsuk/com.uk.thechels.mltply) for added transparency.
 - Built with SwiftUI for a fun, lightweight experience that fits quick study sessions.
 - [App Privacy Policy](/app/privacy).
-
-## Get Mltply
-
-[Download Mltply on the App Store](https://apps.apple.com/gb/app/mltply/id6747147316)

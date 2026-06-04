@@ -7,6 +7,7 @@ class: scripts
 i_name: View
 i_url: "https://actions.getdrafts.com/search?utf8=✓&q=thechelsuk"
 summary: "Drafts is a Mac and iOS app made by Agile Tortoise. The app supports custom actions and scripts written in JavaScript, here is a list of actions I have created."
+type: wrench
 ---
 
 Drafts is a Mac and [iOS app](https://apps.apple.com/us/app/drafts/id1236254471) made by [Agile Tortoise](https://getdrafts.com). The app supports custom actions and scripts written in JavaScript, here is a [list of actions](https://actions.getdrafts.com/search?utf8=✓&q=thechelsuk) I have created.

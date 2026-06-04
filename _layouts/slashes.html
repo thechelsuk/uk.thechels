@@ -16,18 +16,6 @@
     </ul>
 </nav>
 
-<h3>additional pages</h3>
-
-<nav id="pagemenu" aria-label="submenu of other pages">
-    <ul>
-        {% assign sorted_navigation_pages = site.navigation_pages | sort:
-        'title' %} {% for item in sorted_navigation_pages %}
-        <li>// <a href="{{item.link}}">{{item.title}}</a></li>
-        {% endfor %}
-    </ul>
-</nav>
-
-
 <h2>Data Pages</h2>
 
 <p>Pages focused on showing data, either incoming feeds from other services, or local data sources made available.</p>

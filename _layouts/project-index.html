@@ -1,32 +1,38 @@
 {% include header.html %}
-<h1 class="post-title">{{ page.title }}</h1>
+<h1 class="post-title">{% include post_icon.html type=page.type %} {{ page.title }}</h1>
 {% assign items = site.projects %}
-<p class="marker"><b>{{ items | size }}</b> total projects.</p>
-<div id="blog-archives" class="flow">
-  
-{% assign sorted_items = site.projects | sort: "title" | sort: "class" %}
 {% assign classes = site.projects | map: "class" | uniq | sort %}
 
-{% for class in classes %}
- <h2>{{ class | capitalize }}</h2>
+<nav class="page-toc">
+    {% for class in classes %}{% unless forloop.first %} / {% endunless %}<a
+        href="#{{ class | downcase | replace: ' ', '-' }}">{{ class | capitalize }}</a>{% endfor %}
+</nav>
+<p class="marker"><b>{{ items | size }}</b> total projects.</p>
 
- {% assign class_items = sorted_items | where: "class", class %}
- {% for item in class_items %}
-   <div class="posts">
-    <a href="{{ item.url }}" title="{{item.title}}">{{ item.title }}</a>
-    <p>
-        {% if item.i_icon %}
-        <img src="{{item.i_icon}}" alt="app icon for {{item.i_title}}" class="app-icon" />
-        {% endif %}
-        {% if item.summary %}
-            {{ item.summary }}
-        {% endif %}
-    </p>
-   </div>
- {% endfor %}
-{% endfor %}
+<div id="blog-archives" class="flow">
 
-{{ content }}
+    {% assign sorted_items = site.projects | sort: "title" | sort: "class" %}
+
+    {% for class in classes %}
+    <a name="{{ class | downcase | replace: ' ', '-' }}"></a>
+    <h2>{{ class | capitalize }} </h2>
+
+    {% assign class_items = sorted_items | where: "class", class %}
+    {% for item in class_items %}
+    <div class="posts">
+        <h3>{% include post_icon.html type=item.type %} <a href="{{ item.url }}" title="{{item.title}}">{{ item.title }} ⇗</a></h3>
+        <p>
+            {% if item.summary %}
+            <ul>
+                <li>{{ item.summary }} <a href='{{item.url}}' title="{{item.title}}">Read more &rarr;</a></li>
+            </ul>
+            {% endif %}
+        </p>
+    </div>
+    {% endfor %}
+    {% endfor %}
+
+    {{ content }}
 
 </div>
 {% include footer.html %}

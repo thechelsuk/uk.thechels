@@ -1,9 +1,10 @@
 ---
 layout: project-index
-title: Software Side Projects
+title: Software Development Side Projects
 permalink: /projects
-seo: Software development side projects
+seo: "Software development side projects"
 type: release
+
 ---
 
 ## Tip

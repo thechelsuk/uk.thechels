@@ -4,11 +4,12 @@ title: ShortKeys - The Multi-line Text Replacement App
 permalink: /projects/shortkeys
 class: applications
 seo: "ShortKeys iOS App The Multi-line Text Replacement App"
-i_name: Download
+i_name: Download on the iOS App Store
 i_url: "https://apps.apple.com/gb/app/shortkeys/id6755919256"
 i_image: "/images/apps/shortkeys-banner.png"
 i_icon: "/images/apps/shortkeys-icon.png"
 summary: "ShortKeys is a productivity app for people who live in text. Build multi-line snippets, drop them behind memorable keyboard shortkeys, and fly through forms, support replies, or daily journaling."
+type: mobile
 ---
 
 ShortKeys is a productivity app for people who live in text. Build multi-line snippets, drop them behind memorable keyboard shortkeys, and fly through forms, support replies, or daily journaling.
@@ -23,7 +24,3 @@ ShortKeys is a productivity app for people who live in text. Build multi-line sn
 - Enable iCloud sync to keep up to date across iPhone and iPad.
 - Appearance controls reflect Light, Dark, or System themes and custom tint colours to match your style.
 - [App Privacy Policy](/app/privacy).
-
-## Get ShortKeys
-
-[Download ShortKeys on the App Store](https://apps.apple.com/gb/app/shortkeys/id6755919256)

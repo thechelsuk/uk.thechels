@@ -1,7 +1,7 @@
 ---
 layout: default
 title: App Privacy - Mobile Application Privacy Policy
-permalink: /app-privacy
+permalink: /app/privacy
 seo: thechelsuk and Hiyd Mobile Apps Privacy Policy
 ---
 
@@ -9,7 +9,7 @@ seo: thechelsuk and Hiyd Mobile Apps Privacy Policy
 
 ## Overview
 
-thechelsuk and Hiyd ("we," "our," or "us") are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our any of our apps and extensions. We have one policy as everything is built with the privacy in mind.
+thechelsuk and Hiyd ("we," "our," or "us") are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our any of our apps, software, programs, and extensions. We have one policy as everything is built with the privacy in mind.
 
 ## Information We Collect
 

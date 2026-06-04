@@ -1,34 +1,27 @@
 {% include header.html %}
 <article class="h-entry flow">
-  <h1 class="p-name post-title">{% include post_icon.html type=page.type %} Project:{{ page.title }}</h1>
+  <h1 class="p-name post-title">{% include post_icon.html type=page.type %} Project: {{ page.title }}</h1>
 
   <div class="e-content entry flow">
-  
-    {% if page.i_image and i_name %}
-    <img src="{{ page.i_image }}" alt="{{page.i_name}} Banner - {{page.seo}}" class="banner-image"/>
+
+    {% if page.i_image and page.i_name %}
+    <img src="{{ page.i_image }}" alt="{{page.i_name}} Banner - {{page.seo}}" class="banner-image" />
     {% endif %}
 
     {{ content }}
 
-    {% if page.i_url and page.i_icon and page.i_name %}
-      <p>
-        <a href="{{page.i_url}}" title="{{page.i_name}}">
-          <img src="{{page.i_icon}}" alt="app icon for {{page.title}}" class="app-icon"/>
-        </a>
-      </p>
-    {% elsif page.i_url and page.class and page.i_name %}     
-      <p>&raquo; 
-        <a href="{{ page.i_url }}" title="{{page.i_name}}">{{page.i_name}} &rarr;</a>
-      </p>
-    {% elsif page.link %}     
-      <p>&raquo; 
-        <a href="{{ page.link }}" title="Permalink">Permalink &rarr;</a>
-      </p> 
+    {% if page.i_url and page.class and page.i_name %}
+    <p>&raquo;
+      <a href="{{ page.i_url }}" title="{{page.i_name}}">{{page.i_name}} &rarr;</a>
+    </p>
+    {% elsif page.link %}
+    <p>&raquo;
+      <a href="{{ page.link }}" title="Permalink">Permalink &rarr;</a>
+    </p>
     {% else %}
-        <p>Under Development</p>
+    <p>Under Development</p>
     {% endif %}
 
-      <p><a href="/projects" title="Back to Projects">← Back to Projects</a></p>
   </div>
 
   {% if page.id %}
@@ -50,10 +43,11 @@
   </p>
   {% endif %}
 
-
   <p class="visually-hidden p-category" hidden="from-humans">{{ page.class }}</p>
 
   {% endif %}
+
+  <p><a href="/projects" title="Back to Projects">← Back to Projects</a></p>
 </article>
 
 {% include footer.html %}

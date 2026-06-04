@@ -7,6 +7,7 @@ seo: "A webring for the chronically ill online community"
 i_name: Visit
 i_url: "https://nuchronic.uk"
 summary: "_The webring for the chronically ill_ on the indie web. A dark-mode hacker news style site that aggregates content from a variety of sources, including blogs, podcasts, and YouTube channels, all focused on the blogs and lives of people with chronic illness."
+type: website
 ---
 
 _The webring for the chronically ill_ on the indie web. A dark-mode hacker news style site that aggregates content from a variety of sources, including blogs, podcasts, and YouTube channels, all focused on the blogs and lives of people with chronic illness.

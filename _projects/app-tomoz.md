@@ -4,11 +4,12 @@ title: Tomoz - Plan for Tomorrow, Today
 permalink: /projects/tomoz
 class: applications
 seo: "Tomoz iOS App Plan for Tomorrow, Today"
-i_name: Download
+i_name: Download on the iOS App Store
 i_url: "https://apps.apple.com/gb/app/tomoz/id6748755747"
 i_image: "/images/apps/tomoz-banner.png"
 i_icon: "/images/apps/tomoz-icon.png"
 summary: "Tomoz makes it easy to plan for tomorrow today. Pick and choose calendars, add in reminders, and get a clear unified view of tomorrow."
+type: mobile
 ---
 
 Tomoz makes it easy to plan for tomorrow today. Pick and choose calendars, add in reminders and get a clear unified view of tomorrow.
@@ -22,7 +23,3 @@ Tomoz makes it easy to plan for tomorrow today. Pick and choose calendars, add i
 - Offline-first design keeps calendar data on-device with no analytics or cloud syncing.
 - Ideal for busy professionals, students, or teams who want to share a focused plan.
 - [App Privacy Policy](/app/privacy).
-
-## Get Tomoz
-
-[Download Tomoz on the App Store](https://apps.apple.com/gb/app/tomoz/id6748755747)
