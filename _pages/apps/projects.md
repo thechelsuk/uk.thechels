@@ -5,9 +5,18 @@ permalink: /projects
 seo: Software development side projects
 ---
 
-[Websites](/projects#Websites) / [Themes](/projects#Themes) / [Plugins](/projects#Plugins) / [Workers](/projects#Workers) / [Scripts](/projects#Scripts) / [Applications](//projects#Applications)
+[Websites](#Websites) / 
+[Themes](#Themes) / 
+[Plugins](#Plugins) / 
+[Workers](#Workers) / 
+[Scripts](#Scripts) / 
+[Applications](#Applications)
 
-## Websites
+## Tip
+
+If you find these useful and want to support me, you can tip at [ko-fi.com/thechelsuk](https://ko-fi.com/thechelsuk)
+
+##Websites
 
 ### [Cheltenham Open Data](https://cod.thechels.uk) ⇗
 
@@ -37,31 +46,31 @@ seo: Software development side projects
 
 - _The webring for the chronically ill_ on the indie web. A dark-mode hacker news style site that aggregates content from a variety of sources, including blogs, podcasts, and YouTube channels, all focused on the blogs and lives of people with chronic illness. The site is built using HTML, CSS, Jekyll, using webmentions and brid.gy, and is hosted on GitHub Pages, naturally. Utilising Python and GitHub Actions for the compute.
 
-## Themes
+##Themes
 
 ### [NetNewsWire Themes](/nnw-themes) ⇗
 
 - A small collection of themes for my favourite RSS reader app, NetNewsWire. Users can download zips or install directly from Apple devices that have NNW installed.
 
-## Plugins
+##Plugins
 
 ### [Homebridge YSA2 Plugin](https://npmx.dev/package/homebridge-ysa2) ⇗
 
 - Homebridge YSA2 is an updated project working on top of an existing YaleSyncAlarm Open source version that appears to be abandoned having not been made ready for HB 2.0 or had any maintenance in the last 9 years. The NPM package can be installed for Homebridge users and helps manage your sync alarm, working alongside a dummy switch (an Apple limitation) - the alarm can be armed or disarmed through HomeKit automations (e.g., set alarm when last person leaves the home)
 
-## Workers
+##Workers
 
 ### [CF Worker X Redirect](https://github.com/thechelsuk/cf-worker-x-redirect) ⇗
 
 - A Cloudflare Worker project that handles URL redirection. Providing a simple and efficient way to manage redirects at the edge. This project solves a small niche problem for managing videos in NetNewsWire that does not seem to support `x-callback-url schemes`. My themes rewrite URLs to to a subdomain passing the video url as a query parameter and the URL is then handled by this worker, redirecting to an iOS video playing app that supports PIP player via it's own url scheme. The project is open source and available on GitHub under an MIT licence. Expected customer base of one.
 
-## Scripts
+##Scripts
 
 ### [Drafts](/drafts) ⇗
 
 Drafts is a Mac and [iOS app](https://apps.apple.com/us/app/drafts/id1236254471) made by [Agile Tortoise](https://getdrafts.com). The app supports custom actions and scripts written in JavaScript. I have shared over a dozen actions to the community. See [Drafts](/drafts) for more information.
 
-## Applications
+##Applications
 
 ### [Tomoz](/apps/tomoz) ⇗
 
@@ -82,8 +91,3 @@ Drafts is a Mac and [iOS app](https://apps.apple.com/us/app/drafts/id1236254471)
 ### [ShortKeys](/apps/shortkeys) ⇗
 
 ![ShortKeys App Icon](/images/apps/shortkeys-icon.png){: .app-icon} - A productivity app for iOS that allows users to create and manage custom keyboard shortcuts. The app is built using SwiftUI and aims to improve typing efficiency and workflow by using keys expanded to multi-line text snippets.
-
-
-## Tip
-
-If you find these useful and want to support me, you can tip at [ko-fi.com/thechelsuk](https://ko-fi.com/thechelsuk)
