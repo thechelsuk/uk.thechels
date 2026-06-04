@@ -6,11 +6,7 @@ seo: Software development side projects
 
 ---
 
-- [Websites](#Websites)
-- [Themes](#Themes)
-- [Plugins](/#Plugins)
-- [Workers](/#Workers)
-- [Applications](/#Applications)
+[Websites](/projects#Websites) / [Themes](/projects#Themes) / [Plugins](/projects#Plugins) / [Workers](/projects#Workers) / [Scripts](/projects#Scripts) / [Applications](//projects#Applications)
 
 ## Websites
 
@@ -61,6 +57,12 @@ seo: Software development side projects
 
 - A Cloudflare Worker project that handles URL redirection. Providing a simple and efficient way to manage redirects at the edge. This project solves a small niche problem for managing videos in NetNewsWire that does not seem to support `x-callback-url schemes`. My themes rewrite URLs to to a subdomain passing the video url as a query parameter and the URL is then handled by this worker, redirecting to an iOS video playing app that supports PIP player via it's own url scheme. The project is open source and available on GitHub under an MIT licence. Expected customer base of one.
 
+## Scripts
+
+### [Drafts](/drafts) ⇗
+
+Drafts is a Mac and [iOS app](https://apps.apple.com/us/app/drafts/id1236254471) made by [Agile Tortoise](https://getdrafts.com). The app supports custom actions and scripts written in JavaScript. I have shared over a dozen actions to the community. See [Drafts](/drafts) for more information.
+
 ## Applications
 
 ### [Tomoz](/apps/tomoz) ⇗
@@ -82,3 +84,8 @@ seo: Software development side projects
 ### [ShortKeys](/apps/shortkeys) ⇗
 
 ![ShortKeys App Icon](/images/apps/shortkeys-icon.png){: .app-icon} - A productivity app for iOS that allows users to create and manage custom keyboard shortcuts. The app is built using SwiftUI and aims to improve typing efficiency and workflow by using keys expanded to multi-line text snippets.
+
+
+## Tip
+
+If you find these useful and want to support me, you can tip at [ko-fi.com/thechelsuk](https://ko-fi.com/thechelsuk)
