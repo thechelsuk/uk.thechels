@@ -1,13 +1,21 @@
 ---
-layout: pages
+
+layout: projects
 title: Hiyd - The Jekyll Companion App
-permalink: /apps/hiyd
-seo: Hiyd iOS App
+permalink: /projects/hiyd
+class: applications
+seo: "Hiyd iOS App The Jekyll Companion App"
+i_name: Download
+i_url: "https://apps.apple.com/gb/app/hiyd/id6746853559"
+i_image: "/images/apps/hiyd-banner.png"
+i_icon: "/images/apps/hiyd-icon.png"
+summary: "Hiyd is a lightweight companion for those running a Jekyll-powered sites, similar markdown-led static-site generation, or document stores from your phone. Capture ideas, draft posts, and export clean front-matter without opening a laptop."
+
 ---
 
 ![Hiyd banner](/images/apps/hiyd-banner.png)
 
-Hiyd is a lightweight companion for those running a Jekyll-powered sites or similar markdown-led static-site generation or document stores from your phone. Capture ideas, draft posts, and export clean front-matter without opening a laptop.
+Hiyd is a lightweight companion for those running a Jekyll-powered sites, similar markdown-led static-site generation, or document stores from your phone. Capture ideas, draft posts, and export clean front-matter without opening a laptop.
 
 ## Highlights
 

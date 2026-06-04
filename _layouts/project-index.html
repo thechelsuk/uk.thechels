@@ -1,0 +1,32 @@
+{% include header.html %}
+<h1 class="post-title">{{ page.title }}</h1>
+{% assign items = site.projects %}
+<p class="marker"><b>{{ items | size }}</b> total projects.</p>
+<div id="blog-archives" class="flow">
+  
+{% assign sorted_items = site.projects | sort: "title" | sort: "class" %}
+{% assign classes = site.projects | map: "class" | uniq | sort %}
+
+{% for class in classes %}
+ <h2>{{ class | capitalize }}</h2>
+
+ {% assign class_items = sorted_items | where: "class", class %}
+ {% for item in class_items %}
+   <div class="posts">
+    <a href="{{ item.url }}" title="{{item.title}}">{{ item.title }}</a>
+    <p>
+        {% if item.i_icon %}
+        <img src="{{i_icon}}" alt="app icon for {{i_title}}" class="app-icon" />
+        {% endif %}
+        {% if item.summary %}
+            {{ item.summary }}
+        {% endif %}
+    </p>
+   </div>
+ {% endfor %}
+{% endfor %}
+
+{{ content }}
+
+</div>
+{% include footer.html %}

@@ -1,0 +1,59 @@
+{% include header.html %}
+<article class="h-entry flow">
+  <h1 class="p-name post-title">{% include post_icon.html type=page.type %} Project:{{ page.title }}</h1>
+
+  <div class="e-content entry flow">
+  
+    {% if page.i_image %}
+    <img src="{{ page.i_image }}" alt="{{page.seo}}" class="banner-image"/>
+    {% endif %}
+
+    {{ content }}
+
+    {% if page.i_url and page.i_icon and page.i_name %}
+      <p>
+        <a href="{{page.i_url}}" title="{{page.i_name}}">
+          <img src="{{page.i_icon}}" alt="app icon for {{page.title}}" class="icon"/>
+        </a>
+      </p>
+    {% elsif page.i_url and page.class and page.i_name %}     
+      <p>&raquo; 
+        <a href="{{ page.i_url }}" title="{{page.i_name}}">{{page.i_name}} &rarr;</a>
+      </p>
+    {% elsif page.link %}     
+      <p>&raquo; 
+        <a href="{{ page.link }}" title="Permalink">Permalink &rarr;</a>
+      </p> 
+    {% else %}
+        <p>Under Development</p>
+    {% endif %}
+
+      <p><a href="/projects" title="Back to Projects">← Back to Projects</a></p>
+  </div>
+
+  {% if page.id %}
+  <p class="meta">
+    // Published: <time class="dt-published"
+      datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>, with
+    {{ page.content | number_of_words }} words. {%
+    webmention_count page.url %} mentions.
+  </p>
+
+  <p class="webmentions">
+    <a class="u-url hidden" href="{{ page.url | absolute_url }}" hidden="from-humans"></a>
+    {% webmentions page.url %}
+  </p>
+
+  {% if page.syndicate == true %}
+  <p class="meta">
+    <a class="u-bridgy-fed" href="https://fed.brid.gy/" hidden="from-humans"></a>
+  </p>
+  {% endif %}
+
+
+  <p class="visually-hidden p-category" hidden="from-humans">{{ page.class }}</p>
+
+  {% endif %}
+</article>
+
+{% include footer.html %}

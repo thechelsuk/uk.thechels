@@ -20,6 +20,11 @@ github:
   branch: main
 sass:
   style: compressed
+collections:
+  projects:
+    output: true
+    sort_by: class
+    permalink: ./projects/:title  
 webmentions:
   username: thechels.uk
   cache_folder: .cache

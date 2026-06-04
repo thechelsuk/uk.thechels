@@ -1,8 +1,13 @@
 ---
-layout: pages
+layout: projects
 title: Drafts Actions List
-permalink: /drafts
-seo: Drafts actions master list
+permalink: /projects/drafts
+seo: "Drafts actions master list"
+class: scripts
+i_name: View
+i_url: "https://actions.getdrafts.com/search?utf8=✓&q=thechelsuk"
+summary: "Drafts is a Mac and iOS app made by Agile Tortoise. The app supports custom actions and scripts written in JavaScript, here is a list of actions I have created."
+
 ---
 
 Drafts is a Mac and [iOS app](https://apps.apple.com/us/app/drafts/id1236254471) made by [Agile Tortoise](https://getdrafts.com). The app supports custom actions and scripts written in JavaScript, here is a [list of actions](https://actions.getdrafts.com/search?utf8=✓&q=thechelsuk) I have created.
@@ -28,7 +33,3 @@ Drafts is a Mac and [iOS app](https://apps.apple.com/us/app/drafts/id1236254471)
 - // [Google Search Selection without AI](https://directory.getdrafts.com/a/24h) _Takes the selected text searches at google but appends udm=14 to the url to remove the AI overview_.
 - // [Ecosia Search Selection](https://directory.getdrafts.com/a/24j) _Takes the selected text in a draft, and launches a search with Ecosia_.
 - // [Get GitHub user id](https://directory.getdrafts.com/a/25b) _Takes GitHub username and appends user id number to the draft_.
-
-## Tip
-
-If you find these useful and want to support me, you can tip at [ko-fi.com/thechelsuk](https://ko-fi.com/thechelsuk)

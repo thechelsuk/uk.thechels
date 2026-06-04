@@ -1,8 +1,15 @@
 ---
-layout: pages
+layout: projects
 title: ShortKeys - The Multi-line Text Replacement App
-permalink: /apps/shortkeys
-seo: ShortKeys iOS App
+permalink: /projects/shortkeys
+class: applications
+seo: "ShortKeys iOS App The Multi-line Text Replacement App"
+i_name: Download
+i_url: "https://apps.apple.com/gb/app/shortkeys/id6755919256"
+i_image: "/images/apps/shortkeys-banner.png"
+i_icon: "/images/apps/shortkeys-icon.png"
+summary: "ShortKeys is a productivity app for people who live in text. Build multi-line snippets, drop them behind memorable keyboard shortkeys, and fly through forms, support replies, or daily journaling."
+
 ---
 
 ![ShortKeys banner](/images/apps/shortkeys-banner.png)
