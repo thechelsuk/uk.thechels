@@ -83,7 +83,6 @@ Drafts is a Mac and [iOS app](https://apps.apple.com/us/app/drafts/id1236254471)
 
 ![ShortKeys App Icon](/images/apps/shortkeys-icon.png){: .app-icon} - A productivity app for iOS that allows users to create and manage custom keyboard shortcuts. The app is built using SwiftUI and aims to improve typing efficiency and workflow by using keys expanded to multi-line text snippets.
 
-
 ## Tip
 
 If you find these useful and want to support me, you can tip at [ko-fi.com/thechelsuk](https://ko-fi.com/thechelsuk)
