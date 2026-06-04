@@ -11,6 +11,10 @@ on:
                 required: true
                 type: string
 
+permissions:
+    contents: write
+    pull-requests: write
+
 jobs:
     Build:
         runs-on: ubuntu-latest
@@ -25,14 +29,23 @@ jobs:
                   python-version: 3.13.1
 
             - name: Check for new content
+              env:
+                  CONTENT: ${{ inputs.content }}
+                  LABEL: ${{ inputs.label }}
               run: |-
-                  python '_python/yaml_updater.py' --content "${{ inputs.content }}" --label "${{ inputs.label }}"
+                  python '_python/yaml_updater.py' --content "$CONTENT" --label "$LABEL"
             - name: set title
               id: title
+              env:
+                  ISSUE_TITLE: ${{ github.event.issue.title }}
               run: |-
-                  echo "title=Feat: ${{ github.event.issue.title}}" >> $GITHUB_OUTPUT
+                  echo "title=Feat: $ISSUE_TITLE" >> $GITHUB_OUTPUT
             - name: Create Pull Request
               uses: peter-evans/create-pull-request@v8
+              env:
+                  ISSUE_BODY: ${{ github.event.issue.body }}
+                  ISSUE_TITLE: ${{ github.event.issue.title }}
+                  ISSUE_NUMBER: ${{ github.event.issue.number }}
               with:
                   committer: GitHub Action <action@github.com>
                   branch: "new-config-from-issue-${{ github.event.issue.number }}"

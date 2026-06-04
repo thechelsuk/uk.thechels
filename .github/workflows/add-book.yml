@@ -6,6 +6,9 @@ on:
             isbn:
                 description: "ISBN"
                 required: true
+permissions:
+    contents: write
+
 env:
     actor: ${{ github.actor }}
     owner: ${{ github.repository_owner }}

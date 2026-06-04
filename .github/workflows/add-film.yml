@@ -11,6 +11,9 @@ on:
                 description: "rating"
                 required: true
 
+permissions:
+    contents: write
+
 concurrency:
     group: add-film
     cancel-in-progress: false

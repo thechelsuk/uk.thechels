@@ -2,42 +2,45 @@
 name: Reusable Block Runner
 
 on:
-  workflow_call:
-    inputs:
-      content:
-        required: true
-        type: string
-      label:
-        required: true
-        type: string
+    workflow_call:
+        inputs:
+            content:
+                required: true
+                type: string
+            label:
+                required: true
+                type: string
 
 jobs:
-  Build:
-    runs-on: ubuntu-latest
-    name: Processing
-    steps:
-      - name: Check out repo
-        uses: actions/checkout@v6
+    Build:
+        runs-on: ubuntu-latest
+        name: Processing
+        permissions:
+            contents: write
+            pull-requests: write
+        steps:
+            - name: Check out repo
+              uses: actions/checkout@v6
 
-      - name: Set up Python and dependencies
-        uses: ./.github/actions/python-setup
-        with:
-          python-version: 3.13.1
+            - name: Set up Python and dependencies
+              uses: ./.github/actions/python-setup
+              with:
+                  python-version: 3.13.1
 
-      - name: Check for new content
-        run: python '_python/block_updater.py'
-        env:
-          content: ${{ inputs.content }}
-          label: ${{ inputs.label }}
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v8
-        with:
-          committer: GitHub Action <action@github.com>
-          branch: "feat/config-from-issue-#${{ github.event.issue.number }}"
-          delete-branch: true
-          title: "Feat: ${{ github.event.issue.title}}"
-          body: |
-            Automatic PR for Config change: ${{ github.event.issue.title }}
-            Closes #${{ github.event.issue.number }}
-            reviewers: "${{ github.repository_owner }}"
-            commit-message: "feat/commit-for-issue-#${{ github.event.issue.number }}"
+            - name: Check for new content
+              run: python '_python/block_updater.py'
+              env:
+                  content: ${{ inputs.content }}
+                  label: ${{ inputs.label }}
+            - name: Create Pull Request
+              uses: peter-evans/create-pull-request@v8
+              with:
+                  committer: GitHub Action <action@github.com>
+                  branch: "feat/config-from-issue-#${{ github.event.issue.number }}"
+                  delete-branch: true
+                  title: "Feat: ${{ github.event.issue.title}}"
+                  body: |
+                      Automatic PR for Config change: ${{ github.event.issue.title }}
+                      Closes #${{ github.event.issue.number }}
+                      reviewers: "${{ github.repository_owner }}"
+                      commit-message: "feat/commit-for-issue-#${{ github.event.issue.number }}"
