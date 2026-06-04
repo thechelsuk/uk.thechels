@@ -5,11 +5,11 @@ permalink: /projects
 seo: Software development side projects
 ---
 
-[Websites](#Websites) / 
-[Themes](#Themes) / 
-[Plugins](#Plugins) / 
-[Workers](#Workers) / 
-[Scripts](#Scripts) / 
+[Websites](#Websites) /
+[Themes](#Themes) /
+[Plugins](#Plugins) /
+[Workers](#Workers) /
+[Scripts](#Scripts) /
 [Applications](#Applications)
 
 ## Tip
