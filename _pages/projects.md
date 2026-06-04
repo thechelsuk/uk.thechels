@@ -3,7 +3,6 @@ layout: pages
 title: Software Development Projects
 permalink: /projects
 seo: Software development side projects
-
 ---
 
 - [Websites](#Websites)
@@ -34,7 +33,6 @@ seo: Software development side projects
 
 - A digital playground or smorgasbord of ad-hoc and occasional tooling, including converting file types, charting, and string manipulations such as Monte Carlo simulations, local weather report, url slug generation and rolling average calculator.
 
-
 ### [Search Router](https://search.thechels.uk) ⇗
 
 - A default search engine browser homepage that uses !bangs and shortcodes to route a query to a search engine, or a websites search result page e.g `!amz pepsi max` will show results on amazon uk for my go to drink. The app is a simple vanilla HTML, CSS, and JavaScript using AI for the design/layout.
@@ -49,13 +47,13 @@ seo: Software development side projects
 
 - A small collection of themes for my favourite RSS reader app, NetNewsWire. Users can download zips or install directly from Apple devices that have NNW installed.
 
-## Plugins  
+## Plugins
 
 ### [Homebridge YSA2 Plugin](https://npmx.dev/package/homebridge-ysa2) ⇗
 
 - Homebridge YSA2 is an updated project working on top of an existing YaleSyncAlarm Open source version that appears to be abandoned having not been made ready for HB 2.0 or had any maintenance in the last 9 years. The NPM package can be installed for Homebridge users and helps manage your sync alarm, working alongside a dummy switch (an Apple limitation) - the alarm can be armed or disarmed through HomeKit automations (e.g., set alarm when last person leaves the home)
 
-## Workers 
+## Workers
 
 ### [CF Worker X Redirect](https://github.com/thechelsuk/cf-worker-x-redirect) ⇗
 
