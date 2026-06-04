@@ -1,11 +1,18 @@
 ---
 layout: pages
-title: Software Development Side Projects
+title: Software Development Projects
 permalink: /projects
-seo: Projects
+seo: Software development side projects
+
 ---
 
-## Web Projects
+- [Websites](#Websites)
+- [Themes](#Themes)
+- [Plugins](/#Plugins)
+- [Workers](/#Workers)
+- [Applications](/#Applications)
+
+## Websites
 
 ### [Cheltenham Open Data](https://cod.thechels.uk) ⇗
 
@@ -27,9 +34,6 @@ seo: Projects
 
 - A digital playground or smorgasbord of ad-hoc and occasional tooling, including converting file types, charting, and string manipulations such as Monte Carlo simulations, local weather report, url slug generation and rolling average calculator.
 
-### [NetNewsWire Themes](/nnw-themes) ⇗
-
-- A small collection of themes for my favourite RSS reader app, NetNewsWire. Users can download zips or install directly from Apple devices that have NNW installed.
 
 ### [Search Router](https://search.thechels.uk) ⇗
 
@@ -37,17 +41,27 @@ seo: Projects
 
 ### [Nuchronic.uk](https://nuchronic.uk) ⇗
 
-- _The webring for the chronically ill_ on the indie web. A dark-mode hacker news style site that aggregates content from a variety of sources, including blogs, podcasts, and YouTube channels, all focused on the blogs and lives of people with chronic illness. The site is built using HTML, CSS, Jekyll and hosted on GitHub Pages, naturally. Utilising Python and GitHub Actions for the compute.
+- _The webring for the chronically ill_ on the indie web. A dark-mode hacker news style site that aggregates content from a variety of sources, including blogs, podcasts, and YouTube channels, all focused on the blogs and lives of people with chronic illness. The site is built using HTML, CSS, Jekyll, using webmentions and brid.gy, and is hosted on GitHub Pages, naturally. Utilising Python and GitHub Actions for the compute.
+
+## Themes
+
+### [NetNewsWire Themes](/nnw-themes) ⇗
+
+- A small collection of themes for my favourite RSS reader app, NetNewsWire. Users can download zips or install directly from Apple devices that have NNW installed.
+
+## Plugins  
 
 ### [Homebridge YSA2 Plugin](https://npmx.dev/package/homebridge-ysa2) ⇗
 
 - Homebridge YSA2 is an updated project working on top of an existing YaleSyncAlarm Open source version that appears to be abandoned having not been made ready for HB 2.0 or had any maintenance in the last 9 years. The NPM package can be installed for Homebridge users and helps manage your sync alarm, working alongside a dummy switch (an Apple limitation) - the alarm can be armed or disarmed through HomeKit automations (e.g., set alarm when last person leaves the home)
 
+## Workers 
+
 ### [CF Worker X Redirect](https://github.com/thechelsuk/cf-worker-x-redirect) ⇗
 
 - A Cloudflare Worker project that handles URL redirection. Providing a simple and efficient way to manage redirects at the edge. This project solves a small niche problem for managing videos in NetNewsWire that does not seem to support `x-callback-url schemes`. My themes rewrite URLs to to a subdomain passing the video url as a query parameter and the URL is then handled by this worker, redirecting to an iOS video playing app that supports PIP player via it's own url scheme. The project is open source and available on GitHub under an MIT licence. Expected customer base of one.
 
-## iOS Applications
+## Applications
 
 ### [Tomoz](/apps/tomoz) ⇗
 
