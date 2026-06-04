@@ -7,7 +7,6 @@ seo: "Browser extension to delete reddit content"
 i_name: GitHub
 i_url: "https://github.com/thechelsuk/ext-chrome-reddit-deletion-tool"
 summary: "A simple Chromium browser plugin to delete all your reddit post and comments forever. No undo."
-
 ---
 
 A Chromium browser plugin that deletes all your reddit posts and comments.

@@ -9,7 +9,6 @@ i_url: "https://apps.apple.com/gb/app/shortkeys/id6755919256"
 i_image: "/images/apps/shortkeys-banner.png"
 i_icon: "/images/apps/shortkeys-icon.png"
 summary: "ShortKeys is a productivity app for people who live in text. Build multi-line snippets, drop them behind memorable keyboard shortkeys, and fly through forms, support replies, or daily journaling."
-
 ---
 
 ![ShortKeys banner](/images/apps/shortkeys-banner.png)
