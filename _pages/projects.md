@@ -4,7 +4,6 @@ title: Software Side Projects
 permalink: /projects
 seo: Software development side projects
 type: release
-
 ---
 
 ## Tip
