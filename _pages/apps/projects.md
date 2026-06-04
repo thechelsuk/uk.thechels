@@ -70,7 +70,7 @@ If you find these useful and want to support me, you can tip at [ko-fi.com/thech
 
 Drafts is a Mac and [iOS app](https://apps.apple.com/us/app/drafts/id1236254471) made by [Agile Tortoise](https://getdrafts.com). The app supports custom actions and scripts written in JavaScript. I have shared over a dozen actions to the community. See [Drafts](/drafts) for more information.
 
-##Applications
+## Applications
 
 ### [Tomoz](/apps/tomoz) ⇗
 
