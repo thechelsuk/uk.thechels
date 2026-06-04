@@ -8,7 +8,6 @@ i_name: Install
 i_url: "https://github.com/thechelsuk/nnw-themes"
 summary: "Theme bundle for the NetNewsWire RSS reader app that contains a number of light, dark, and adjustable themes."
 v-thechelsuk: 1.9.2
-
 ---
 
 If you use NetNewsWire, you can use my themes as listed below. All themes are free and open source, and you can find the source code on GitHub. Just Click the link on your device that has NNW installed and follow the prompts to install the theme.
