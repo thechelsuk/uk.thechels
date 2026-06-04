@@ -7,6 +7,7 @@ seo: "Working YSA2 Yale Sync Alarm Plugin for Homebridge"
 i_name: npmx
 i_url: "https://npmx.dev/package/homebridge-ysa2"
 summary: "A Homebridge Yale Sync Alarm plugin to manage and automate the state of your home alarm through Apple HomeKit."
+
 ---
 
 Homebridge YSA2 is an updated project working on top of an existing YaleSyncAlarm Open source version that appears to be abandoned having not been made ready for HB 2.0 or had any maintenance in the last 9 years.

@@ -10,6 +10,7 @@ i_image: "/images/apps/mltply-banner.png"
 i_icon: "/images/apps/mltply-icon.png"
 i_foss: "https://github.com/thechelsuk/com.uk.thechels.mltply"
 summary: "Mltply uses a friendly chat-style interface to make maths practice less intimidating. Short prompts keep the pace up, and repetition cements knowledge while keeping things playful."
+
 ---
 
 ![Mltply banner](/images/apps/mltply-banner.png)
