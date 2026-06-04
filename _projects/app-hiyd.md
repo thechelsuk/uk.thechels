@@ -12,8 +12,6 @@ summary: "Hiyd is a lightweight companion for those running a Jekyll-powered sit
 
 ---
 
-![Hiyd banner](/images/apps/hiyd-banner.png)
-
 Hiyd is a lightweight companion for those running a Jekyll-powered sites, similar markdown-led static-site generation, or document stores from your phone. Capture ideas, draft posts, and export clean front-matter without opening a laptop.
 
 ## Highlights
@@ -26,7 +24,5 @@ Hiyd is a lightweight companion for those running a Jekyll-powered sites, simila
 - [App Privacy Policy](/app/privacy).
 
 ## Get Hiyd
-
-[![Hiyd App Icon](/images/apps/hiyd-icon.png){: .app-icon}](https://apps.apple.com/gb/app/hiyd/id6746853559)
 
 [Download Hiyd on the App Store](https://apps.apple.com/gb/app/hiyd/id6746853559)

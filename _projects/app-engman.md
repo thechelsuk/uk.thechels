@@ -12,8 +12,6 @@ summary: "EngMan is an iOS app for engineering leaders who want rapid access to 
 
 ---
 
-![EngMan banner](/images/apps/engman-banner.png)
-
 EngMan is an iOS app for engineering leaders who want rapid access to coaching prompts, frameworks, and conversation starters. Dip into focused topics whenever you need a nudge ahead of a 1:1 or a tricky stakeholder chat.
 
 ## Highlights
@@ -26,7 +24,5 @@ EngMan is an iOS app for engineering leaders who want rapid access to coaching p
 - [App Privacy Policy](/app/privacy).
 
 ## Get EngMan
-
-[![EngMan App Icon](/images/apps/engman-icon.png){: .app-icon}](https://apps.apple.com/gb/app/engman/id6747295473)
 
 [Download EngMan on the App Store](https://apps.apple.com/gb/app/engman/id6747295473)

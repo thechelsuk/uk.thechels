@@ -4,8 +4,8 @@
 
   <div class="e-content entry flow">
   
-    {% if page.i_image %}
-    <img src="{{ page.i_image }}" alt="{{page.seo}}" class="banner-image"/>
+    {% if page.i_image and i_name %}
+    <img src="{{ page.i_image }}" alt="{{page.i_name}} Banner - {{page.seo}}" class="banner-image"/>
     {% endif %}
 
     {{ content }}
@@ -13,7 +13,7 @@
     {% if page.i_url and page.i_icon and page.i_name %}
       <p>
         <a href="{{page.i_url}}" title="{{page.i_name}}">
-          <img src="{{page.i_icon}}" alt="app icon for {{page.title}}" class="icon"/>
+          <img src="{{page.i_icon}}" alt="app icon for {{page.title}}" class="app-icon"/>
         </a>
       </p>
     {% elsif page.i_url and page.class and page.i_name %}     

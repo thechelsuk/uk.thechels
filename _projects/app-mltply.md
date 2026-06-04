@@ -13,8 +13,6 @@ summary: "Mltply uses a friendly chat-style interface to make maths practice les
 
 ---
 
-![Mltply banner](/images/apps/mltply-banner.png)
-
 Mltply uses a friendly chat-style interface to make maths practice less intimidating. Short prompts keep the pace up, and repetition cements knowledge while keeping things playful.
 
 ## Highlights
@@ -28,7 +26,5 @@ Mltply uses a friendly chat-style interface to make maths practice less intimida
 - [App Privacy Policy](/app/privacy).
 
 ## Get Mltply
-
-[![Mltply App Icon](/images/apps/mltply-icon.png){: .app-icon}](https://apps.apple.com/gb/app/mltply/id6747147316)
 
 [Download Mltply on the App Store](https://apps.apple.com/gb/app/mltply/id6747147316)

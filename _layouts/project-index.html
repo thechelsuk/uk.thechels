@@ -16,7 +16,7 @@
     <a href="{{ item.url }}" title="{{item.title}}">{{ item.title }}</a>
     <p>
         {% if item.i_icon %}
-        <img src="{{i_icon}}" alt="app icon for {{i_title}}" class="app-icon" />
+        <img src="{{item.i_icon}}" alt="app icon for {{item.i_title}}" class="app-icon" />
         {% endif %}
         {% if item.summary %}
             {{ item.summary }}

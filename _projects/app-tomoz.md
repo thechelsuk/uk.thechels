@@ -12,8 +12,6 @@ summary: "Tomoz makes it easy to plan for tomorrow today. Pick and choose calend
 
 ---
 
-![Tomoz banner](/images/apps/tomoz-banner.png)
-
 Tomoz makes it easy to plan for tomorrow today. Pick and choose calendars, add in reminders and get a clear unified view of tomorrow.
 
 ## Highlights
@@ -27,7 +25,5 @@ Tomoz makes it easy to plan for tomorrow today. Pick and choose calendars, add i
 - [App Privacy Policy](/app/privacy).
 
 ## Get Tomoz
-
-[![Tomoz App Icon](/images/apps/tomoz-icon.png){: .app-icon}](https://apps.apple.com/gb/app/tomoz/id6748755747)
 
 [Download Tomoz on the App Store](https://apps.apple.com/gb/app/tomoz/id6748755747)

@@ -12,8 +12,6 @@ summary: "ShortKeys is a productivity app for people who live in text. Build mul
 
 ---
 
-![ShortKeys banner](/images/apps/shortkeys-banner.png)
-
 ShortKeys is a productivity app for people who live in text. Build multi-line snippets, drop them behind memorable keyboard shortkeys, and fly through forms, support replies, or daily journaling.
 
 ## Highlights
@@ -28,7 +26,5 @@ ShortKeys is a productivity app for people who live in text. Build multi-line sn
 - [App Privacy Policy](/app/privacy).
 
 ## Get ShortKeys
-
-[![ShortKeys App Icon](/images/apps/shortkeys-icon.png){: .app-icon}](https://apps.apple.com/gb/app/shortkeys/id6755919256)
 
 [Download ShortKeys on the App Store](https://apps.apple.com/gb/app/shortkeys/id6755919256)
