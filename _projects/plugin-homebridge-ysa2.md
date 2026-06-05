@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Homebridge YSA2 Plugin - for Yale Sync Alarms
+title: YSA2 - Homebridge Plugin for Yale Sync Alarms
 permalink: /projects/homebridge-ysa2-plugin
 class: plugins
 seo: "Working YSA2 Yale Sync Alarm Plugin for Homebridge"

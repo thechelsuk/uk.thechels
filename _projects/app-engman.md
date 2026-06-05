@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: EngMan - Coaching Cards for Managers
+title: EngMan - Coaching Card Decks for Engineering Managers
 permalink: /projects/engman
 class: applications
 seo: "EngMan iOS App Coaching Cards for Engineering Managers"
