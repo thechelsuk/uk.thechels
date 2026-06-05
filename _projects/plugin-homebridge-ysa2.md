@@ -6,7 +6,7 @@ class: plugins
 seo: "Working YSA2 Yale Sync Alarm Plugin for Homebridge"
 i_name: npmx
 i_url: "https://npmx.dev/package/homebridge-ysa2"
-summary: "A _Homebridge_ Yale Sync Alarm plugin to manage and automate the state of your home alarm through Apple HomeKit."
+summary: "A Homebridge Yale Sync Alarm plugin to manage and automate the state of your home alarm with Apple HomeKit."
 type: wrench
 ---
 

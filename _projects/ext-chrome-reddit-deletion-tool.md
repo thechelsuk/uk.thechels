@@ -1,12 +1,12 @@
 ---
 layout: projects
-title: REDemptionX - Reddit Delete Tool
+title: REDemptionX - Reddit Deletion Tool
 permalink: /projects/ext-reddit-delete-tool
 class: plugins
-seo: "Browser extension to irreversibly delete reddit content"
+seo: "Browser extension to irreversibly delete reddit posts and comments for free"
 i_name: GitHub
 i_url: "https://github.com/thechelsuk/ext-chrome-reddit-deletion-tool"
-summary: "A simple _Chromium_ browser plugin to irreversibly delete all your reddit posts and comments. No undo."
+summary: "A simple Chromium browser plugin to irreversibly delete all your reddit posts and comments. No undo."
 type: wrench
 ---
 
