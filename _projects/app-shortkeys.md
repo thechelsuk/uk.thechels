@@ -1,5 +1,5 @@
 ---
-layout: projects 
+layout: projects
 title: ShortKeys - Multi-line Text Replacement Snippets App for iOS
 permalink: /projects/shortkeys
 class: applications
