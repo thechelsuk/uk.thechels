@@ -4,7 +4,7 @@ date: 2025-12-09
 link: https://codemanship.wordpress.com/2025/11/13/the-seven-deadly-sins-of-go-faster/
 title: The Seven Deadly Sins of “Go Faster"
 type: linked
-cited: Codemanship
+cited: Jason Gorman (Codemanship)
 ---
 
 > Things that will make your dev team take \_longer_to deliver \_worse_software:
