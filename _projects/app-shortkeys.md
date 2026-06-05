@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: ShortKeys - The Multi-line Text Replacement App
+title: ShortKeys - Multi-line Text Replacement
 permalink: /projects/shortkeys
 class: applications
 seo: "ShortKeys iOS App The Multi-line Text Replacement App"

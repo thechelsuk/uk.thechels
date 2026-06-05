@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Mltply - The chat-like maths app for kids
+title: Mltply - Chat-like Kid's Maths App
 permalink: /projects/mltply
 class: applications
 seo: "Mltply iOS App The chat-like maths app for kids"

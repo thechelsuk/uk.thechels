@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Hiyd - The Jekyll Companion App
+title: Hiyd - Jekyll Companion app for iOS
 permalink: /projects/hiyd
 class: applications
 seo: "Hiyd iOS App The Jekyll Companion App"
