@@ -3,7 +3,7 @@ layout: post
 date: 2026-05-14 02:12
 title: NNW Theme Bundle Version v1.9.2
 type: release
-cited: github
+cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/tag/v1.9.2
 release_id: tag:github.com,2008:Repository/1184541049/v1.9.2
 release_repo: uk.thechels.themes-for-nnw

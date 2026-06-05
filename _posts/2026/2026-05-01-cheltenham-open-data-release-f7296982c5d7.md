@@ -3,7 +3,7 @@ layout: post
 date: "2026-05-01"
 title: Cheltenham Open Data Version 1.1.0
 type: release
-cited: github
+cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.cod/releases/tag/1.1.0
 release_id: tag:github.com,2008:Repository/311179157/1.1.0
 release_repo: uk.thechels.cod

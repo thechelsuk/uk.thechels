@@ -3,7 +3,7 @@ layout: post
 date: "2026-04-24"
 title: Homebridge (YSA2) Yale Alarm Version v2.1.1
 type: release
-cited: github
+cited: GitHub
 link: https://github.com/thechelsuk/homebridge-YSA2-plugin/releases/tag/v2.1.1
 release_id: tag:github.com,2008:Repository/1218287392/v2.1.1
 release_repo: homebridge-ysa2-plugin

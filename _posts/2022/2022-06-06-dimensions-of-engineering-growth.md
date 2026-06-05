@@ -4,7 +4,7 @@ date: 2022-06-06
 link: https://cate.blog/2022/06/06/dimensions-of-engineering-growth/
 title: Dimensions of Engineering Growth
 type: linked
-cited: Cate Hutson
+cited: Cate Huston (Accidentally in Code)
 ---
 
 > The four growth dimensions are:

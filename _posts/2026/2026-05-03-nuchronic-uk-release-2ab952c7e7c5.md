@@ -3,7 +3,7 @@ layout: post
 date: 2026-05-03 14:37
 title: Nuchronic.uk Version 1.1.0
 type: release
-cited: github
+cited: GitHub
 link: https://github.com/thechelsuk/uk.nuchronic/releases/tag/1.1.0
 release_id: tag:github.com,2008:Repository/1211264631/1.1.0
 release_repo: uk.nuchronic

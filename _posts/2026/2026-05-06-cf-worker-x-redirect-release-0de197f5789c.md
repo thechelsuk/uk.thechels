@@ -3,7 +3,7 @@ layout: post
 date: 2026-05-06 10:08
 title: CF Worker X Redirect Version v1.0.4
 type: release
-cited: github
+cited: GitHub
 link: https://github.com/thechelsuk/cf-worker-x-redirect/releases/tag/v1.0.4
 release_id: tag:github.com,2008:Repository/1227847157/v1.0.4
 release_repo: cf-worker-x-redirect

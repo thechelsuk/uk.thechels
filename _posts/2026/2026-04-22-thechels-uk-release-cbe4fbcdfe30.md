@@ -3,7 +3,7 @@ layout: post
 date: "2026-04-22"
 title: Thechels.uk Version 2.0.0
 type: release
-cited: github
+cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels/releases/tag/2.0.0
 release_id: tag:github.com,2008:Repository/107385143/2.0.0
 release_repo: uk.thechels

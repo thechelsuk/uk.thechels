@@ -4,7 +4,7 @@ date: 2022-05-07
 link: https://cate.blog/2022/04/04/the-anatomy-of-a-11/amp/
 title: The Anatomy of a one-to-one
 type: linked
-cited: Cate Hutson
+cited: Cate Huston (Accidentally in Code)
 ---
 
 > what could be better.

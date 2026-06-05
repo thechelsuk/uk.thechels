@@ -3,7 +3,7 @@ layout: post
 date: 2026-05-16 14:59
 title: Cheltenham Open Data Version newsletter-25965335933
 type: release
-cited: github
+cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.cod/releases/tag/newsletter-25965335933
 release_id: tag:github.com,2008:Repository/311179157/newsletter-25965335933
 release_repo: uk.thechels.cod
