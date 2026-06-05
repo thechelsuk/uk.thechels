@@ -2,8 +2,15 @@
 layout: empty
 permalink: /robots.txt
 ---
-# www.robotstxt.org/
-# Allow crawling of all content
+
 User-agent: *
+
+Disallow: /harming/humans
+Disallow: /ignoring/human/orders
+Disallow: /harm/to/self
+
+Disallow: /skynet/
+
 Allow: /
+
 Sitemap: {{ site.url }}/sitemap.xml
