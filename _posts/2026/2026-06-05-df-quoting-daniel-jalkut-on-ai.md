@@ -13,5 +13,5 @@ type: linked
 I, too, concur with this take.
 
 > I concur with this take completely.
-
+>
 >> My take on AI is, essentially, everybody who's against it is too against it and everybody who's for it is too for it.
