@@ -1,6 +1,6 @@
 ---
 layout: index
-title: . Site // Blog Archives //
+title: // Site // Blog Archives //
 seo: A working out loud public second brain blog from thechelsuk, your favourite engineering leader. ★ / ✚ / ✪ / ♫ / → / » / ⇉.
 ---
 

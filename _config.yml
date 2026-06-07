@@ -79,15 +79,20 @@ include:
 ## Header
 navigation_header:
   - link: "/about"
-    title: "About"
+    display: "About"
+    title: "Visit About page"
   - link: "/slashes"
-    title: "Pages"
+    display: "Pages"
+    title: "Visit All Pages"
   - link: "https://links.thechels.uk"
-    title: "Links &neArr;"
+    display: "Links &neArr;"
+    title: "Visit Links subdomain"
   - link: "https://tools.thechels.uk"
-    title: "Tools &neArr;"
+    display: "Tools &neArr;"
+    title: "Visit Tools subdomain"
   - link: "https://shop.thechels.uk"
-    title: "Shop &neArr;"
+    display: "Shop &neArr;"
+    title: "Visit Shop"
 
 ## SubMenu
 navigation_data:

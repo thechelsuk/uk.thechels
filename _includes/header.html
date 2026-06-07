@@ -41,6 +41,19 @@
     <link href="/fonts/TheChelsLight.woff" rel="preload" crossorigin as="font" type="font/woff">
     <link href="/fonts/TheChelsMedium.woff" rel="preload" crossorigin as="font" type="font/woff">
 
+    <style>
+      .post-icon {
+        width: 1em;
+        height: 1em;
+        display: inline-block;
+        vertical-align: -0.125em;
+        border-radius: 6px;
+        background: transparent;
+        padding-right: 0.15em;
+        box-sizing: content-box;
+        transition: background 0.3s, color 0.3s;
+      }
+    </style>
     <link rel="preload" href="/style.css" as="style">
     <link rel="stylesheet" href="/style.css">
     <link rel="stylesheet" media="print" href="/style_print.css">
@@ -152,10 +165,10 @@
               {% if page.id %}
               <a href="{{ site.url }}" title="Back to all posts">&larr; Back</a>
               {% else %}
-              <a href="{{ site.url }}" title="Back to all home">&larr; Home</a>
+              <a href="{{ site.url }}" title="Back to Home">&larr; Home</a>
               {% endif %}
               {% for item in site.navigation_header %}
-              <a href="{{item.link}}">{{item.title}}</a>
+              <a href="{{item.link}}" title="{{item.title}}">{{item.display}}</a>
               {% endfor %}
             </nav>
           </div>
