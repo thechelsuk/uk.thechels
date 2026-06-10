@@ -634,6 +634,8 @@ div:has(> pre:only-child > code:only-child) {
     position: relative;
     margin: 1.5rem 0;
     background-color: var(--alt-tab);
+    width: 100%;
+    max-width: 100%;
 
     &::before {
         content: "[]";
@@ -644,7 +646,7 @@ div:has(> pre:only-child > code:only-child) {
         font-size: 1rem;
     }
 
-    pre; code{
+    pre {
         white-space: pre-wrap;
         word-break: break-word;
         overflow-x: auto;
@@ -654,7 +656,17 @@ div:has(> pre:only-child > code:only-child) {
         max-width: 100%;
         width: 100%;
     }
-    
+
+}
+
+pre, code {
+   white-space: pre-wrap;
+   ord-break: break-word;
+   overflow-x: auto;
+   max-width: 100%;
+   overflow-wrap: break-word;
+   max-width: 100%;
+   width: 100%;
 }
 
 blockquote {
