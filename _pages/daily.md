@@ -11,6 +11,7 @@ date: 2026-06-10
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Wednesday, 10 June 2026
 
 - The average temperature today is 11.36˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 41 days since the last change (2026-04-30)
 
@@ -33,18 +35,22 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Be open to change.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
 <!-- fixture_marker ends -->
 
@@ -52,21 +58,24 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 133.89999389648438 
-- ^FTSE : 10227.330078125 
-- ^FTMC : 22837.9609375 
+- VWRL.L : 133.89999389648438
+- ^FTSE : 10227.330078125
+- ^FTMC : 22837.9609375
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > It is an awful time in the hairdresser industry with so many cuts.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Valentín Barco scores for Argentina; Nicolas Jackson sees red for Senegal (WAGNH, [16 minutes ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/169271/valentin-barco-scores-for-argentina-nicolas-jackson-sees-red-for-senegal))
 - 'No Lisbon without saints': Popular Saints festivals in the capital (Euronews, [36 minutes ago](http://www.euronews.com/culture/2026/06/10/no-lisbon-without-saints-top-popular-saints-festivals-in-the-capital))
 - US and Iran exchange strikes after downing of American helicopter (FT, [38 minutes ago](https://www.ft.com/content/ceb10e74-9ff1-4cf6-82e0-70161c6f1f09))
@@ -106,7 +115,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > recumbentibus - noun: A knockdown blow.
+> recumbentibus - noun: A knockdown blow.
 
 <!-- word_marker ends -->
 
@@ -121,6 +130,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Just carry on
 
 <!-- eno_marker ends -->
@@ -128,6 +138,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Steve Jobs (Rated: 2)
 - Released in 2015
 - Summary: Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac.
@@ -151,6 +162,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - David Bushell [URL](https://dbushell.com/) [Feed](https://dbushell.com/merge/rss.xml)
 - Johnny Reilly [URL](https://johnnyreilly.com/) [Feed](https://blog.johnnyreilly.com/rss.xml)
 - Scripting [URL](http://scripting.com/) [Feed](http://scripting.com/rss.xml)
