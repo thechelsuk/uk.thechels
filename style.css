@@ -644,13 +644,17 @@ div:has(> pre:only-child > code:only-child) {
         font-size: 1rem;
     }
 
-    pre {
+    pre; code{
         white-space: pre-wrap;
         word-break: break-word;
         overflow-x: auto;
         box-sizing: border-box;
         max-width: 100%;
+        overflow-wrap: break-word;
+        max-width: 100%;
+        width: 100%;
     }
+    
 }
 
 blockquote {
