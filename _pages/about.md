@@ -33,6 +33,14 @@ There are further variations for sunset, night, sunrise, with the default theme 
 
 The site uses some icons to denote the type of content these should be self explanatory but ultimately these are all just decorative and non-functional. Certain content is presented in blocks that have a left border and an icon. `[]` denotes code, `>` for quotes, and `ⓘ` for callouts.
 
+
+## Memberships
+
+Proud to be featured and part of [personalsit.es](https://personalsit.es), [indieweb news](https://news.indieweb.org/en), [bubble.town](https://bubbles.town/source/thechels.uk), [sourcefeed.app](https://www.sourcefeed.app/feeds/ae38cdf5-79c1-4abc-a22d-f0a987288ee1), and [Nuchronic.uk](https://nuchronic.uk).
+
+Support the small indie web.
+
+
 ## In The Press
 
 During an era of running a successful and pioneering football analytics website I had work published on the Chelsea FC website, [FourFourTwo](https://thechels.uk/fourfourtwo-cult-heroes) [magazine](https://thechels.uk/fourfourtwo-chelsea-vs-swansea), [Man City's match day programme](https://thechels.uk/man-city-programme), the [Daily Mail](https://www.dailymail.co.uk/sport/football/article-2282976/Frank-Lampard-scores-200th-Chelsea-goal.html), the [Independent](https://www.independent.co.uk/sport/football/european/valencia-penalty-gary-neville-chelsea-under19s-uefa-youth-league-a6892926.html) and various club fan sites including [Crystal Palace](https://theeaglesbeak.com/2014/08/08/view-from-the-opposition-part-1/), [Walsall](https://vitalfootball.co.uk/chelsea-a-fans-view/), Swansea, and Man City.
