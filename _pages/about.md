@@ -33,13 +33,11 @@ There are further variations for sunset, night, sunrise, with the default theme 
 
 The site uses some icons to denote the type of content these should be self explanatory but ultimately these are all just decorative and non-functional. Certain content is presented in blocks that have a left border and an icon. `[]` denotes code, `>` for quotes, and `ⓘ` for callouts.
 
-
 ## Memberships
 
 Proud to be featured and part of [personalsit.es](https://personalsit.es), [indieweb news](https://news.indieweb.org/en), [bubble.town](https://bubbles.town/source/thechels.uk), [sourcefeed.app](https://www.sourcefeed.app/feeds/ae38cdf5-79c1-4abc-a22d-f0a987288ee1), and [Nuchronic.uk](https://nuchronic.uk).
 
 Support the small indie web.
-
 
 ## In The Press
 
