@@ -2803,4 +2803,39 @@
 "/thechels-uk-release-02900562232a": {}
 "/infantino-and-trump-collusion": {}
 "/2026-06-11-daily-rundown": {}
-"/chronic-illness-bloggers": {}
+"/chronic-illness-bloggers":
+  '2001928':
+    id: '2001928'
+    uri: https://nuchronic.uk/item/calling-chronic-illness-bloggers-0189896df9/
+    source: false
+    pubdate: 2026-06-11 17:18:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/calling-chronic-illness-bloggers-0189896df9/
+      verified: true
+      verified_date: '2026-06-11T17:27:03+00:00'
+      id: 2001928
+      private: false
+      data:
+        author: &58
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/calling-chronic-illness-bloggers-0189896df9/
+        name: Calling Chronic Illness Bloggers
+        content: "<p>I am on the lookout for content producers who suffer from a chronic
+          illness to add to my growing indie web thing nuchronic.uk - it’s a reddit,
+          hacker news, o…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/chronic-illness-bloggers\">thechels.uk</a>.</p>"
+        published: '2026-06-11T16:18:00+00:00'
+        published_ts: 1781194680
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/calling-chronic-illness-bloggers-0189896df9/
+      target: https://thechels.uk/chronic-illness-bloggers
+    author: *58
+    type: link
+    title: Calling Chronic Illness Bloggers
+    content: "<p>I am on the lookout for content producers who suffer from a chronic
+      illness to add to my growing indie web thing nuchronic.uk - it’s a reddit, hacker
+      news, o…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/chronic-illness-bloggers\">thechels.uk</a>.</p>"
+"/new-tax-year,-new-plan": {}
