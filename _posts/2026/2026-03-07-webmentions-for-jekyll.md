@@ -7,7 +7,6 @@ layout: post
 type: social
 syndicate: false
 show: false
-
 ---
 
 A Jekyll Plugin for rendering Webmentions via Webmention.io

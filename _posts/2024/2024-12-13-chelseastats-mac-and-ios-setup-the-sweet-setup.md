@@ -7,7 +7,6 @@ layout: post
 syndicate: false
 type: social
 show: false
-
 ---
 
 An old article covering my desk setup, including my Mac and iOS devices.

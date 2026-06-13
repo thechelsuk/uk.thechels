@@ -7,7 +7,6 @@ layout: post
 syndicate: false
 type: social
 show: false
-
 ---
 
 Quoting Juksie
