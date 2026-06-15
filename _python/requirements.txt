@@ -7,7 +7,7 @@ pandas
 requests_html
 argparse
 pyyaml
-pytest>=9.0.3
+pytest>=9.1.0
 pytest-cov
 pytest-md
 pytest-emoji
