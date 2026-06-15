@@ -2951,3 +2951,33 @@
 "/2026-04-22-daily-rundown": {}
 "/ai-sphyxiation": {}
 "/2026-06-14-daily-rundown": {}
+"/rss-dulls-the-pain-of-the-modern-web": {}
+"/struggling-with-ai-coding-agents": {}
+"/sunsetting-jazzband-in-the-slopocalypse": {}
+"/meta-is-to-lay-off-20-of-its-staff-shocker": {}
+"/video-me-is-in-our-blood-not-our-minds-50f9eecb":
+  '1991284':
+    id: '1991284'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjwlul7udz2z
+    source: false
+    pubdate: 2026-04-16 01:00:00.000000000 +01:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjwlul7udz2z%23bridgy-fed-create-2026-04-20T13:41:37.218330+00:00
+      verified: true
+      verified_date: '2026-04-20T13:41:40+00:00'
+      id: 1991284
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjwlul7udz2z
+        name:
+        content: ME is In our blood, not our minds. (<a href="https://thechels.uk/video-me-is-in-our-blood-not-our-minds-50f9eecb">https://thechels.uk/video-me-is-in-our-blood-not-our-minds-50f9eecb</a>)
+        published: '2026-04-16T00:00:00+00:00'
+        published_ts: 1776297600
+      activity:
+        type: link
+      target: https://thechels.uk/video-me-is-in-our-blood-not-our-minds-50f9eecb
+    author:
+    type: link
+    content: ME is In our blood, not our minds. (<a href="https://thechels.uk/video-me-is-in-our-blood-not-our-minds-50f9eecb">https://thechels.uk/video-me-is-in-our-blood-not-our-minds-50f9eecb</a>)
+"/2026-04-23-daily-rundown": {}
+"/2026-06-15-daily-rundown": {}
