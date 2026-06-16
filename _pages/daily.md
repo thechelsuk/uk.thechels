@@ -11,6 +11,7 @@ date: 2026-06-16
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Tuesday, 16 June 2026
 
 - The average temperature today is 17.21˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 47 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Recycling Waste Collection Day
 - Food Waste Collection Day
 
@@ -41,12 +44,15 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Embrace uncertainty.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
 <!-- fixture_marker ends -->
 
@@ -54,21 +60,24 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 138.39999389648438 
-- ^FTSE : 10430.6201171875 
-- ^FTMC : 23362.619140625 
+- VWRL.L : 138.39999389648438
+- ^FTSE : 10430.6201171875
+- ^FTMC : 23362.619140625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Two tortillas have a fight in a karaoke bar. What ensued could only be described as a wrap battle.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - €31bn drug trade, 7,600 deaths: How the EU plans to tackle the drug crisis (Euronews, [3 minutes ago](http://www.euronews.com/my-europe/2026/06/16/31bn-drug-trade-7600-deaths-how-the-eu-plans-to-tackle-the-drug-crisis))
 - The Daily Hilario: Tuesday (WAGNH, [4 minutes ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/169450/the-daily-hilario-june-16th))
 - Protesting and cheering as Iran's World Cup match divides diaspora (Euronews, [8 minutes ago](http://www.euronews.com/video/2026/06/16/protesting-and-cheering-as-irans-world-cup-match-divides-diaspora))
@@ -111,7 +120,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > temulent - adjective: Drunk; intoxicated.
+> temulent - adjective: Drunk; intoxicated.
 
 <!-- word_marker ends -->
 
@@ -126,6 +135,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Look at a very small object; look at its center
 
 <!-- eno_marker ends -->
@@ -133,6 +143,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Trick (Rated: 3)
 - Released in 1999
 - Summary: The misadventures of two young gay men, trying to find a place to be alone, one night in Manhattan.
@@ -156,6 +167,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Johnny Reilly [URL](https://johnnyreilly.com/) [Feed](https://blog.johnnyreilly.com/rss.xml)
 - Evan Travers [URL](https://evantravers.com/) [Feed](http://evantravers.com/feed.xml)
 - Probably Fine [URL](https://blog.probablyfine.co.uk/) [Feed](https://blog.probablyfine.co.uk/feed.xml)
