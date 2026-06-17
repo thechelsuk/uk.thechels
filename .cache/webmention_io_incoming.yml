@@ -2986,3 +2986,214 @@
 "/uk-biobank-project-privacy-concerns": {}
 "/2026-04-24-daily-rundown": {}
 "/2026-06-16-daily-rundown": {}
+"/version-1-7":
+  '1981403':
+    id: '1981403'
+    uri: https://thechels.uk/making-an-rss-only-feed-with-jekyll
+    source: false
+    pubdate: 2026-03-07 04:28:08.000000000 +00:00
+    raw:
+      source: https://thechels.uk/making-an-rss-only-feed-with-jekyll
+      verified: true
+      verified_date: '2026-03-07T04:28:08+00:00'
+      id: 1981403
+      private: false
+      data:
+        url: https://thechels.uk/making-an-rss-only-feed-with-jekyll
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: link
+      rels:
+        canonical: https://thechels.uk/making-an-rss-only-feed-with-jekyll
+      target: https://thechels.uk/version-1-7
+    author:
+    type: link
+    content: ''
+"/age-verification-vendor-persona-left-frontend-exposed": {}
+"/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality": {}
+"/racism-is-rife-and-emboldened-by-politics-and-inaction": {}
+"/the-ai-vampire": {}
+"/gdpr-is-a-failure": {}
+"/government-to-crack-down-on-gambling-operator-sport-sponsorship": {}
+"/privacy-expert-reveals-what-happens-to-your-personal-data-when-getting-verified-on-linkedin": {}
+"/every-layer-of-review-makes-you-10x-slower": {}
+"/netnewswire-theme": {}
+"/new-drafts-action-google-search": {}
+"/til-london-eye-is-not-actually-british": {}
+"/spotted-green-in-the-wild": {}
+"/til-2046": {}
+"/pompidou-section-2-ways-and-means": {}
+"/boinc-thechelsuk-release-92779a36ebd5":
+  '1991108':
+    id: '1991108'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk3u7voy2r
+    source: false
+    pubdate: 2026-04-18 01:00:00.000000000 +01:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjtk3u7voy2r%23bridgy-fed-create-2026-04-19T08:31:53.663288+00:00
+      verified: true
+      verified_date: '2026-04-19T08:31:59+00:00'
+      id: 1991108
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk3u7voy2r
+        name:
+        content: Boinc @ thechelsuk Version 1.0.0 (<a href="https://thechels.uk/boinc-thechelsuk-release-92779a36ebd5">https://thechels.uk/boinc-thechelsuk-release-92779a36ebd5</a>)
+        published: '2026-04-18T00:00:00+00:00'
+        published_ts: 1776470400
+      activity:
+        type: link
+      target: https://thechels.uk/boinc-thechelsuk-release-92779a36ebd5
+    author:
+    type: link
+    content: Boinc @ thechelsuk Version 1.0.0 (<a href="https://thechels.uk/boinc-thechelsuk-release-92779a36ebd5">https://thechels.uk/boinc-thechelsuk-release-92779a36ebd5</a>)
+"/hiyd-uk-release-f4dbd6b5f96a":
+  '1991109':
+    id: '1991109'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk3z45nc2c
+    source: false
+    pubdate: 2026-04-18 01:00:00.000000000 +01:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjtk3z45nc2c%23bridgy-fed-create-2026-04-19T08:31:58.658153+00:00
+      verified: true
+      verified_date: '2026-04-19T08:32:02+00:00'
+      id: 1991109
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk3z45nc2c
+        name:
+        content: Hiyd.uk Version 1.0.0 (<a href="https://thechels.uk/hiyd-uk-release-f4dbd6b5f96a">https://thechels.uk/hiyd-uk-release-f4dbd6b5f96a</a>)
+        published: '2026-04-18T00:00:00+00:00'
+        published_ts: 1776470400
+      activity:
+        type: link
+      target: https://thechels.uk/hiyd-uk-release-f4dbd6b5f96a
+    author:
+    type: link
+    content: Hiyd.uk Version 1.0.0 (<a href="https://thechels.uk/hiyd-uk-release-f4dbd6b5f96a">https://thechels.uk/hiyd-uk-release-f4dbd6b5f96a</a>)
+"/nuchronic-uk-release-8921420fa8d0":
+  '1991110':
+    id: '1991110'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk456qvn2o
+    source: false
+    pubdate: 2026-04-18 01:00:00.000000000 +01:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjtk456qvn2o%23bridgy-fed-create-2026-04-19T08:32:02.947985+00:00
+      verified: true
+      verified_date: '2026-04-19T08:32:07+00:00'
+      id: 1991110
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk456qvn2o
+        name:
+        content: Nuchronic.uk Version 1.0.0 (<a href="https://thechels.uk/nuchronic-uk-release-8921420fa8d0">https://thechels.uk/nuchronic-uk-release-8921420fa8d0</a>)
+        published: '2026-04-18T00:00:00+00:00'
+        published_ts: 1776470400
+      activity:
+        type: link
+      target: https://thechels.uk/nuchronic-uk-release-8921420fa8d0
+    author:
+    type: link
+    content: Nuchronic.uk Version 1.0.0 (<a href="https://thechels.uk/nuchronic-uk-release-8921420fa8d0">https://thechels.uk/nuchronic-uk-release-8921420fa8d0</a>)
+"/search-router-release-1cdb845ee4e8":
+  '1991111':
+    id: '1991111'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk4di3i62y
+    source: false
+    pubdate: 2026-04-18 01:00:00.000000000 +01:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjtk4di3i62y%23bridgy-fed-create-2026-04-19T08:32:09.594532+00:00
+      verified: true
+      verified_date: '2026-04-19T08:32:12+00:00'
+      id: 1991111
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk4di3i62y
+        name:
+        content: Search Router Version 1.0.0 (<a href="https://thechels.uk/search-router-release-1cdb845ee4e8">https://thechels.uk/search-router-release-1cdb845ee4e8</a>)
+        published: '2026-04-18T00:00:00+00:00'
+        published_ts: 1776470400
+      activity:
+        type: link
+      target: https://thechels.uk/search-router-release-1cdb845ee4e8
+    author:
+    type: link
+    content: Search Router Version 1.0.0 (<a href="https://thechels.uk/search-router-release-1cdb845ee4e8">https://thechels.uk/search-router-release-1cdb845ee4e8</a>)
+"/tools-release-e59871ae14ad":
+  '1991112':
+    id: '1991112'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk4imuw62y
+    source: false
+    pubdate: 2026-04-18 01:00:00.000000000 +01:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjtk4imuw62y%23bridgy-fed-create-2026-04-19T08:32:14.830145+00:00
+      verified: true
+      verified_date: '2026-04-19T08:32:17+00:00'
+      id: 1991112
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk4imuw62y
+        name:
+        content: Tools Version 1.0.0 (<a href="https://thechels.uk/tools-release-e59871ae14ad">https://thechels.uk/tools-release-e59871ae14ad</a>)
+        published: '2026-04-18T00:00:00+00:00'
+        published_ts: 1776470400
+      activity:
+        type: link
+      target: https://thechels.uk/tools-release-e59871ae14ad
+    author:
+    type: link
+    content: Tools Version 1.0.0 (<a href="https://thechels.uk/tools-release-e59871ae14ad">https://thechels.uk/tools-release-e59871ae14ad</a>)
+"/video-shortkeys-app-for-multi-line-text-replacement-5dd7bbed":
+  '1991285':
+    id: '1991285'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjwlup7ybe2y
+    source: false
+    pubdate: 2026-04-18 01:00:00.000000000 +01:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjwlup7ybe2y%23bridgy-fed-create-2026-04-20T13:41:42.137818+00:00
+      verified: true
+      verified_date: '2026-04-20T13:41:44+00:00'
+      id: 1991285
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjwlup7ybe2y
+        name:
+        content: Shortkeys app for multi-line text replacement (<a href="https://thechels.uk/video-shortkeys-app-for-multi-line-text-replacement-5dd7bbed">https://thechels.uk/video-shortkeys-app-for-multi-line-text-replacement-5dd7bbed</a>)
+        published: '2026-04-18T00:00:00+00:00'
+        published_ts: 1776470400
+      activity:
+        type: link
+      target: https://thechels.uk/video-shortkeys-app-for-multi-line-text-replacement-5dd7bbed
+    author:
+    type: link
+    content: Shortkeys app for multi-line text replacement (<a href="https://thechels.uk/video-shortkeys-app-for-multi-line-text-replacement-5dd7bbed">https://thechels.uk/video-shortkeys-app-for-multi-line-text-replacement-5dd7bbed</a>)
+"/ai-and-personal-software-adapters": {}
+"/prescribing-rss-and-curation":
+  '1991080':
+    id: '1991080'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjt3j5qumn2o
+    source: false
+    pubdate: 2026-04-19 00:28:00.000000000 +01:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjt3j5qumn2o%23bridgy-fed-create-2026-04-19T04:10:54.694412+00:00
+      verified: true
+      verified_date: '2026-04-19T04:11:00+00:00'
+      id: 1991080
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjt3j5qumn2o
+        name:
+        content: Prescribing a course of RSS and Curation (<a href="https://thechels.uk/prescribing-rss-and-curation">https://thechels.uk/prescribing-rss-and-curation</a>)
+        published: '2026-04-18T23:28:00+00:00'
+        published_ts: 1776554880
+      activity:
+        type: link
+      target: https://thechels.uk/prescribing-rss-and-curation
+    author:
+    type: link
+    content: Prescribing a course of RSS and Curation (<a href="https://thechels.uk/prescribing-rss-and-curation">https://thechels.uk/prescribing-rss-and-curation</a>)
+"/2026-04-25-daily-rundown": {}
+"/heart-rate": {}
