@@ -7,7 +7,7 @@ seo: A guide to getting started with the thechelsuk
 
 Thanks for checking my little corner of the internet.
 
-You can read [about](/about) me here and about my [disability](/disability).  I have a bunch of [Slashes](/slashes) which are pages that follow a common naming convention on the indieweb.
+You can read [about](/about) me here and about my [disability](/disability). I have a bunch of [Slashes](/slashes) which are pages that follow a common naming convention on the indieweb.
 
 Next up check out my [projects](/projects) which includes links to all my published iOS apps, plugins, scripts, and tools. The majority of which are release for free on an MIT licence. All my iOS are free to download and some have in-app purchases or tip jar payment options.
 
