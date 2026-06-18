@@ -184,6 +184,10 @@ navigation_slashes:
     title: "Verify"
   - link: "/indieweb.txt"
     title: "IndieWeb (txt)"
+  - link: "/start"
+    title: "Start"
+  - link: "/gigs"
+    title: "Gigs"
 
 ## Footer links
 navigation_footer:
