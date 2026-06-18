@@ -11,8 +11,11 @@ All the bands and artists I have seen perform live in no particular order, as be
 - The Cooper Temple Clause
 - Black Rebel Motorcycle Club
 - The Civil Wars
+- Mr David Viner
+- Pearlene
 - The Soledad Brothers
 - Show of Hands
+- The Dodge Brothers
 - The Polyphonic Spree
 - Placebo
 - Elbow
