@@ -116,3 +116,8 @@ Drafts is a Mac and [iOS app](https://apps.apple.com/us/app/drafts/id1236254471)
 
 - Takes GitHub username and appends user id number to the draft.
 - [Get GitHub user id](https://directory.getdrafts.com/a/25b) &rarr;
+
+## Auto Post Markdown to GitHub
+
+- Takes a draft with first line as the title, and rest as the body and posts the draft to GitHub as a markdown file with front matter in a `posts` directory. Uses GitHub API and Drafts Credential store, with these set on first use (account, repo, token). Requires a GitHub Personal Access Token with contents read/write access.
+- [Get Markdown to GitHub](https://directory.getdrafts.com/a/266) &rarr;
