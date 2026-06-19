@@ -21,7 +21,7 @@ jobs:
         name: Processing
         steps:
             - name: Check out repo
-              uses: actions/checkout@v6
+              uses: actions/checkout@v7
 
             - name: Set up Python and dependencies
               uses: ./.github/actions/python-setup

@@ -19,7 +19,7 @@ jobs:
         if: ${{ github.actor == github.repository_owner }}
         steps:
             - name: Checkout
-              uses: actions/checkout@v6
+              uses: actions/checkout@v7
               with:
                   token: ${{ secrets.PAT_TOKEN }}
 
