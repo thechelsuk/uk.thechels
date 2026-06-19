@@ -11,6 +11,7 @@ date: 2026-06-19
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Friday, 19 June 2026
 
 - The average temperature today is 16.8˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 50 days since the last change (2026-04-30)
 
@@ -33,18 +35,22 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Be the owner.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
 <!-- fixture_marker ends -->
 
@@ -52,21 +58,24 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 139.02999877929688 
-- ^FTSE : 10399.7001953125 
-- ^FTMC : 23330.69921875 
+- VWRL.L : 139.02999877929688
+- ^FTSE : 10399.7001953125
+- ^FTMC : 23330.69921875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Where do they make facts? At the factory.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - 'Explosive cocktail': El Niño raises fears of summer wildfires in Portugal (Euronews, [15 minutes ago](http://www.euronews.com/2026/06/19/explosive-cocktail-el-nino-raises-fears-of-summer-wildfires-in-portugal))
 - Newsletter: EU leaders poised for battle over cash (Euronews, [22 minutes ago](http://www.euronews.com/my-europe/2026/06/19/newsletter-eu-leaders-poised-for-battle-over-cash))
 - Users claimed they’d never seen a spell checker and panicked at the sight of red squiggles (Register, [25 minutes ago](https://www.theregister.com/personal-tech/2026/06/19/users-claimed-theyd-never-seen-a-spell-checker-and-panicked-at-the-sight-of-red-squiggles/5257476))
@@ -79,7 +88,7 @@ _Good Morning, Here is your daily briefing..._
 - Burnham’s win should worry Farage (FT, [1 hours ago](https://www.ft.com/content/e3f04bcf-809d-462f-9d77-180d97964b02))
 - Gas expansion in the guise of security: Is Europe making the energy crisis permanent? (Euronews, [1 hours ago](http://www.euronews.com/2026/06/19/gas-expansion-in-the-guise-of-security-is-europe-making-the-energy-crisis-permanent))
 - W thinks it has the X Factor: Everything to know about Europe’s latest alternative to mainstream soc (Euronews, [1 hours ago](http://www.euronews.com/next/2026/06/19/w-thinks-it-has-the-x-factor-everything-to-know-about-europes-latest-alternative-to-mainst))
-- Latest news bulletin  June 19th, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/06/19/latest-news-bulletin-june-19th-2026-morning))
+- Latest news bulletin June 19th, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/06/19/latest-news-bulletin-june-19th-2026-morning))
 - Are insurers becoming dangerously addicted to private credit ratings? (FT, [2 hours ago](https://www.ft.com/content/bfcb04a7-8e13-480a-aa59-a13dee53c698))
 - ‘Hawkish shift’ in US rates upends global currency bets (FT, [2 hours ago](https://www.ft.com/content/9d0f7f40-0a65-4188-9752-a69baab12176))
 - Xi wants China to boost demand. Why isn’t it working? (FT, [3 hours ago](https://www.ft.com/content/7db72916-3f9f-42c6-bd28-b5c7f51ed573))
@@ -107,7 +116,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > pulchritudinous - adjective: Physically beautiful; comely.
+> pulchritudinous - adjective: Physically beautiful; comely.
 
 <!-- word_marker ends -->
 
@@ -122,6 +131,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Cascades
 
 <!-- eno_marker ends -->
@@ -129,6 +139,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Non-Stop (Rated: 7)
 - Released in 2014
 - Summary: An air marshal springs into action during a transatlantic flight after receiving a series of text messages demanding $150 million into an off-shore account, or someone will die every 20 minutes.
@@ -152,6 +163,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - German [URL](https://igerman.cc/) [Feed](https://igerman.cc/rss.xml)
 - Calum Ryan (bookmarks) [URL](https://www.calumryan.com/bookmarks) [Feed](https://www.calumryan.com/feeds/bookmarks/rss)
 - Build5Nines [URL](https://build5nines.com/) [Feed](http://buildazure.com/feed/)
