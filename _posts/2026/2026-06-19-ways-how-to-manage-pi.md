@@ -10,17 +10,17 @@ syndicate: true
 
 ## Re-flash the Pi with Raspberry Pi OS
 
-1. On your Mac, install  Raspberry Pi Imager.
+1. On your Mac, install Raspberry Pi Imager.
 2. Put the Pi's SD card in the Mac.
 3. In Pi Imager:
-    - Choose OS → Raspberry Pi OS (64‑bit, with desktop).
-    - Choose Storage → your SD card.
-    - Click the gear icon:
-        - Set hostname.
-        - Enable SSH.
-        - Set username/password.
-        - Optional: preconfigure Wi‑Fi.
-    - Click Write.
+   - Choose OS → Raspberry Pi OS (64‑bit, with desktop).
+   - Choose Storage → your SD card.
+   - Click the gear icon:
+     - Set hostname.
+     - Enable SSH.
+     - Set username/password.
+     - Optional: preconfigure Wi‑Fi.
+   - Click Write.
 
 Stick the card back in the Pi and boot.
 
