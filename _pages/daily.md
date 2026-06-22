@@ -11,6 +11,7 @@ date: 2026-06-21
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Sunday, 21 June 2026
 
 - The average temperature today is 17.07˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 52 days since the last change (2026-04-30)
 
@@ -33,18 +35,22 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Use appropriate tools.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
 <!-- fixture_marker ends -->
 
@@ -52,25 +58,28 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 138.9499969482422 
-- ^FTSE : 10363.2998046875 
-- ^FTMC : 23200.69921875 
+- VWRL.L : 138.9499969482422
+- ^FTSE : 10363.2998046875
+- ^FTMC : 23200.69921875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > I once had a work placement at an eye wear manufacturer, I gained good insight into the industry.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Fête de la Musique 2026: When the whole of France becomes one big music festival (Euronews, [21 minutes ago](http://www.euronews.com/culture/2026/06/21/fete-de-la-musique-2026-when-the-whole-of-france-becomes-one-big-music-festival))
 - Russian strikes on eastern Ukraine kill three and injure 22 (Euronews, [46 minutes ago](http://www.euronews.com/2026/06/21/russian-strikes-on-eastern-ukraine-kill-three-and-injure-22))
 - From ruin to restoration: Byzantine Greek Monastery becomes 'Art Reliquary' for spiritual works (Euronews, [1 hours ago](http://www.euronews.com/culture/2026/06/21/from-ruin-to-restoration-byzantine-greek-monastery-becomes-art-reliquary-for-spiritual-wor))
-- Latest news bulletin  June 21st, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/06/21/latest-news-bulletin-june-21st-2026-morning))
+- Latest news bulletin June 21st, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/06/21/latest-news-bulletin-june-21st-2026-morning))
 - Europeans are making the most of cheap solar panels – by creating green garden fences (Euronews, [1 hours ago](http://www.euronews.com/2026/06/21/europeans-are-making-the-most-of-cheap-solar-panels-by-creating-green-garden-fences))
 - Forget the Camino de Santiago. Romania’s Via Transilvanica hiking trail is wild, welcoming and quiet (Euronews, [1 hours ago](http://www.euronews.com/travel/2026/06/21/forget-the-camino-de-santiago-romanias-via-transilvanica-hiking-trail-is-wild-welcoming-an))
 - Which European countries are attracting millionaires — and which are losing them? (Euronews, [1 hours ago](http://www.euronews.com/business/2026/06/21/which-european-countries-are-attracting-millionaires-and-which-are-losing-them))
@@ -94,7 +103,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > pulchritudinous - adjective: Physically beautiful; comely.
+> pulchritudinous - adjective: Physically beautiful; comely.
 
 <!-- word_marker ends -->
 
@@ -109,6 +118,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Change instrument roles
 
 <!-- eno_marker ends -->
@@ -116,6 +126,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Black and Blue (Rated: 3)
 - Released in 2019
 - Summary: A rookie New Orleans police officer is forced to balance her identity as a black woman after she witnesses two corrupt cops committing murder.
@@ -139,6 +150,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Benjamin Willems (Anti-) [URL](https://benjaminwil.info/) [Feed](https://benjaminwil.info/antisocial/feed.xml)
 - Real Python [URL](https://realpython.com/) [Feed](https://realpython.com/atom.xml)
 - Matt Mullenweg [URL](https://ma.tt/) [Feed](https://ma.tt/feed/)
