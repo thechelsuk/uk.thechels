@@ -11,6 +11,13 @@ release_project: scripts-delete-github-issues-python
 release_version: 1.0.0
 ---
 
-First release 1.0.0
+
+## About
+
+A python script that uses the GitHub API to delete closed GitHub Issues
+
+## Recent Changes
+
+Update release notes to include pkg.json description
 
 [Read more about my projects](/projects)

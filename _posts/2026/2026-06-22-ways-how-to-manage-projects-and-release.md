@@ -3,7 +3,7 @@ layout: post
 title: How to manage website projects and releases
 seo: Ways - how to manage website projects and releases
 tag: ways
-date: 2026-06-19 18:00
+date: 2026-06-22 233:00
 type: ways
 syndicate: true
 ---
