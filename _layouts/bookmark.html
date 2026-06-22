@@ -4,10 +4,6 @@
 
     <ul>
         <li><a href="{{ page.i_url }}" class="u-bookmark-of" rel="bookmark">{{page.i_url}}</a></li>
-        <li>{{ page.i_type }}</li>
-        {% if page.tags %}
-        <li>Tags: {{ page.tags | join: ", " }}</li>
-        {% endif %}
     </ul>
 
     {{ content }}
