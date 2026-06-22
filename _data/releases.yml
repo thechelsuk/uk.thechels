@@ -30,3 +30,5 @@
   url: https://github.com/thechelsuk/ext-chrome-reddit-deletion-tool/releases.atom
 - id: Scripts - Delete GitHub Issues (python)
   url: https://github.com/thechelsuk/script_delete_github_issues.py/releases.atom
+- id: Scripts - Convert Google Takeout YouTube CSV to OPML (python)
+  url: https://github.com/thechelsuk/script_convert_youtube_takeout_to_opml.py/releases.atom
