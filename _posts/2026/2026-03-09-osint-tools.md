@@ -30,7 +30,7 @@ Broad open source intelligence tool link list
 - [DNS History](https://dnshistory.org)
 - [Email Sec - MX Toolbox](https://mxtoolbox.com/SuperTool.aspx)
 - [Built With Technology](https://builtwith.com)
-- [Passwords - Have I Been Pwned](httpsn://haveibeenpwned.com)
+- [Passwords - Have I Been Pwned](https://haveibeenpwned.com)
 
 ## Maps
 

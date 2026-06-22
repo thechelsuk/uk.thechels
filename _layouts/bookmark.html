@@ -1,0 +1,21 @@
+{% include header.html %}
+<article class="h-entry flow">
+    <h1 class="p-name post-title">{% include post_icon.html type=page.type %} {{ page.title }}</h1>
+
+    <ul>
+        <li><a href="{{ page.i_url }}" class="u-bookmark-of" rel="bookmark">{{page.i_url}}</a></li>
+        <li>{{ page.i_type }}</li>
+        {% if page.tags %}
+        <li>Tags: {{ page.tags | join: ", " }}</li>
+        {% endif %}
+    </ul>
+
+    {{ content }}
+
+    {% if page.id %}
+    <p class="meta">Published {{ page.date | date: "%-d %B %Y" }}, with {{ page.content | number_of_words }} words.</p>
+    {% endif %}
+
+    <p class="visually-hidden p-category" hidden="from-humans">{{ page.type }}, {{ page.tags | join: ", " }}</p>
+</article>
+{% include footer.html %}

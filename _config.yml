@@ -25,6 +25,10 @@ collections:
     output: true
     sort_by: class
     permalink: ./projects/:title
+  bookmarks:
+    output: true
+    sort_by: date
+    permalink: ./link/:title
 webmentions:
   username: thechels.uk
   cache_folder: .cache
@@ -98,12 +102,16 @@ navigation_header:
 navigation_data:
   - link: "/feeds"
     title: "Feeds"
+  - link: "/bookmarks"
+    title: "Bookmarks"
   - link: "/books"
     title: "Books"
   - link: "/teams"
     title: "Live Teams"
   - link: "/jokes"
     title: "Jokes"
+  - link: "/gigs"
+    title: "Gigs"
   - link: "/podcasts"
     title: "Podcasts"
   - link: "/blogroll"
@@ -186,8 +194,6 @@ navigation_slashes:
     title: "IndieWeb (txt)"
   - link: "/start"
     title: "Start"
-  - link: "/gigs"
-    title: "Gigs"
 
 ## Footer links
 navigation_footer:
