@@ -9,4 +9,4 @@ i_type: u-bookmark-of
 layout: bookmark
 ---
 
-Frankie and Ananda explain why the NHS design system is not just for public-facing    services, with an overview of recent changes to meet the needs of staff-facing services. There’s also more change coming, and you can get involved too.
+Frankie and Ananda explain why the NHS design system is not just for public-facing services, with an overview of recent changes to meet the needs of staff-facing services. There’s also more change coming, and you can get involved too.

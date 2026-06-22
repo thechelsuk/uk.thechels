@@ -8,5 +8,4 @@ type: bookmark
 tags: work
 i_type: u-bookmark-of
 i_url: https://tools.walletburst.com/tools/coast-fire-calc/
-
 ---

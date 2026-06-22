@@ -8,5 +8,4 @@ type: bookmark
 tags: work
 i_type: u-bookmark-of
 i_url: https://www.chunkbase.com/apps/seed-map
-
 ---
