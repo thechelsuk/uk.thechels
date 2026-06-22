@@ -11,6 +11,7 @@ date: 2026-06-22
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Monday, 22 June 2026
 
 - The average temperature today is 21.47˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 53 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Garden Waste Day
 
 <!-- task_marker ends -->
@@ -40,12 +43,15 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Optimise flow.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
 <!-- fixture_marker ends -->
 
@@ -62,12 +68,15 @@ _Good Morning, Here is your daily briefing..._
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Where do they make facts? At the factory.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Can the EU fix the gender pay gap? Take our poll. (Euronews, [1 minutes ago](http://www.euronews.com/my-europe/2026/06/22/can-the-eu-fix-the-gender-pay-gap-take-our-poll))
 - The Daily Hilario: Monday (WAGNH, [2 minutes ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/169617/the-daily-hilario-june-22nd))
 - Newsletter: A Commissioner's secret trip to Israel (Euronews, [9 minutes ago](http://www.euronews.com/my-europe/2026/06/22/newsletter-a-commissioners-secret-trip-to-israel))
@@ -99,7 +108,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > psithurism - noun: A rustling or whispering sound, especially of leaves in the wind.
+> psithurism - noun: A rustling or whispering sound, especially of leaves in the wind.
 
 <!-- word_marker ends -->
 
@@ -114,6 +123,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Think of the radio
 
 <!-- eno_marker ends -->
@@ -121,6 +131,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Red Riding: The Year of Our Lord 1983 (Rated: 4)
 - Released in 2009
 - Summary: When another child goes missing, washed-up solicitor John Piggott unwittingly provides a catalyst for Detective Chief Superindent Maurice Jobson to start to right some wrongs.
@@ -144,6 +155,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - HeyDingus [URL](https://heydingus.net/) [Feed](https://heydingus.net/feed.rss)
 - Farnham Street [URL](https://fs.blog/) [Feed](https://www.farnamstreetblog.com/feed/)
 - Lisa Charlotte Muth [URL](https://lisacharlottemuth.com/) [Feed](https://lisacharlottemuth.com/feed.xml)
