@@ -10,7 +10,7 @@ syndicate: true
 
 ## Releases Yaml
 
-Update the releases.yml file in the _data folder with the new release feed url. This will allow the website to display the latest releases as new blog posts, A GitHub action polls for feed changes and creates new posts automatically.
+Update the releases.yml file in the \_data folder with the new release feed url. This will allow the website to display the latest releases as new blog posts, A GitHub action polls for feed changes and creates new posts automatically.
 
 ```yaml
 - id: text label (as shown as blog post title)
@@ -33,9 +33,7 @@ i_url: "repo-url"
 summary: "A short description of the project."
 type: wrench
 ---
-
 Description of the project, as post content
-
 ```
 
 the type is the icon used on the projects page, the class is the category of the project and these are grouped on the projects page.
