@@ -121,3 +121,8 @@ Drafts is a Mac and [iOS app](https://apps.apple.com/us/app/drafts/id1236254471)
 
 - Takes a draft with first line as the title, and rest as the body and posts the draft to GitHub as a markdown file with front matter in a `posts` directory. Uses GitHub API and Drafts Credential store, with these set on first use (account, repo, token). Requires a GitHub Personal Access Token with contents read/write access.
 - [Get Markdown to GitHub](https://directory.getdrafts.com/a/266) &rarr;
+
+## Super Bookmaker to GitHub
+
+- Takes a draft with first line as the title, finds a `link: url` line and the rest as the body and posts the draft to GitHub as a markdown file with front matter in a `_bookmarks` directory/collection of a Jekyll Blog. Uses GitHub API and Drafts Credential store, with these set on first use (account, repo, token). Requires a GitHub Personal Access Token with contents read/write access. Front matter uses microformat `u-bookmark-of` format.
+- [Super Bookmaker to GitHub](https://actions.getdrafts.com/a/269) &rarr;
