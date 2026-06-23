@@ -9,4 +9,4 @@ i_type: u-bookmark-of
 layout: bookmark
 ---
 
-Take ownership—and responsibility—of your social data
+> Take ownership—and responsibility—of your social data

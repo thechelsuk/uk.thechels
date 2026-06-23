@@ -10,4 +10,4 @@ layout: bookmark
 tags: work
 ---
 
-Shottr is a free macOS screenshot app with scrolling screenshots, OCR, annotation and measurement instruments.
+> Shottr is a free macOS screenshot app with scrolling screenshots, OCR, annotation and measurement instruments.

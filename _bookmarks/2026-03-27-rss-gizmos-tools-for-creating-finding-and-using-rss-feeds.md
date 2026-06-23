@@ -10,4 +10,4 @@ layout: bookmark
 tags: work
 ---
 
-RSS feeds are a vital part of keeping up with news and current events. They provide a consolidated view of content from various websites, allowing you to stay updated without visiting individual sites. You can aggregate all kinds of data, whether it be from news, podcasts, or even archive collections.
+> RSS feeds are a vital part of keeping up with news and current events. They provide a consolidated view of content from various websites, allowing you to stay updated without visiting individual sites. You can aggregate all kinds of data, whether it be from news, podcasts, or even archive collections.

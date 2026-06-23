@@ -9,4 +9,4 @@ syndicate: false
 show: false
 ---
 
-A Jekyll Plugin for rendering Webmentions via Webmention.io
+> A Jekyll Plugin for rendering Webmentions via Webmention.io

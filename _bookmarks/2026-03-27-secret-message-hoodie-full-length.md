@@ -10,4 +10,4 @@ layout: bookmark
 tags: shopping
 ---
 
-A special message just for you on our unique Secret Message Hoodie ! Do you have a treasured love note from your little one? Let us pop it on the softest of hoodies and feel loved all day long. We'll place the personalised handwritten message on the sleeve so it's there just for you in your eye line all day long. This
+> A special message just for you on our unique Secret Message Hoodie ! Do you have a treasured love note from your little one? Let us pop it on the softest of hoodies and feel loved all day long. We'll place the personalised handwritten message on the sleeve so it's there just for you in your eye line all day long. This

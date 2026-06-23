@@ -9,3 +9,5 @@ i_type: u-bookmark-of
 layout: bookmark
 tags: chelseastats
 ---
+
+> Data pdf hosted on the gazette.

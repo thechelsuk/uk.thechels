@@ -10,4 +10,4 @@ layout: bookmark
 tags: work
 ---
 
-Learn how the European Accessibility Act (EAA) impacts websites and apps, key accessibility requirements, deadlines, and tips to prepare for compliance.
+> Learn how the European Accessibility Act (EAA) impacts websites and apps, key accessibility requirements, deadlines, and tips to prepare for compliance.

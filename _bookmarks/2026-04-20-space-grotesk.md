@@ -9,4 +9,4 @@ i_type: u-bookmark-of
 layout: bookmark
 ---
 
-Space Grotesk: a proportional variant of the original fixed-width Space Mono family - floriankarsten/space-grotesk
+> Space Grotesk: a proportional variant of the original fixed-width Space Mono family - floriankarsten/space-grotesk

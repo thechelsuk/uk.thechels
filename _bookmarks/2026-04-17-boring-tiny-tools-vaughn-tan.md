@@ -9,4 +9,4 @@ i_type: u-bookmark-of
 layout: bookmark
 ---
 
-tl;dr: This essay is about Boring Tiny Tools—why they’re the way forward for digital transformation. Generative AI coding tools now enable
+> tl;dr: This essay is about Boring Tiny Tools—why they’re the way forward for digital transformation. Generative AI coding tools now enable

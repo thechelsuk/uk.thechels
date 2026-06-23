@@ -9,4 +9,4 @@ i_type: u-bookmark-of
 layout: bookmark
 ---
 
-Tech editorial media. Acid-mint and ultraviolet accents, Manuka display, rave-flyer story tiles.
+> Tech editorial media. Acid-mint and ultraviolet accents, Manuka display, rave-flyer story tiles.

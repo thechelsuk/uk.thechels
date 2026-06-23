@@ -9,4 +9,4 @@ i_type: u-bookmark-of
 layout: bookmark
 ---
 
-Notes is a core feature of the OpenStreetMap.org website. It enables you to add a comment on the map to assist others in mapping/editing OpenStreetMap. Other users can respond to your notes, for example to ask for additional details if necessary.
+> Notes is a core feature of the OpenStreetMap.org website. It enables you to add a comment on the map to assist others in mapping/editing OpenStreetMap. Other users can respond to your notes, for example to ask for additional details if necessary.

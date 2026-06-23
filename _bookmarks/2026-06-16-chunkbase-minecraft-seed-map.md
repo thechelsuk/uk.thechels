@@ -9,3 +9,5 @@ tags: work
 i_type: u-bookmark-of
 i_url: https://www.chunkbase.com/apps/seed-map
 ---
+
+> Minecraft map to view everything on the seed

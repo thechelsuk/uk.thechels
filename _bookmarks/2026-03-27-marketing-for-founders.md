@@ -10,4 +10,4 @@ layout: bookmark
 tags: work
 ---
 
-Practical marketing resources to get the first 10/100/1000 users for your SaaS/App/Startup - EdoStra/Marketing-for-Founders
+> Practical marketing resources to get the first 10/100/1000 users for your SaaS/App/Startup - EdoStra/Marketing-for-Founders

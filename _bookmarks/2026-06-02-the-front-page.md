@@ -10,4 +10,4 @@ layout: bookmark
 tags: work
 ---
 
-A newspaper-style front page for Hacker News.
+> A newspaper-style front page for Hacker News.

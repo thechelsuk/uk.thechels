@@ -10,4 +10,4 @@ layout: bookmark
 tags: medical
 ---
 
-Summaries of key ME/CFS and Long COVID research, including biomarker, genetics, and treatment studies. Chronological updates, round-ups, and patient-focused insights. Not medical advice.
+> Summaries of key ME/CFS and Long COVID research, including biomarker, genetics, and treatment studies. Chronological updates, round-ups, and patient-focused insights. Not medical advice.

@@ -10,4 +10,4 @@ layout: bookmark
 tags: work
 ---
 
-👔 How to transition from software development to engineering management - kdeldycke/awesome-engineering-team-management
+> How to transition from software development to engineering management - kdeldycke/awesome-engineering-team-management

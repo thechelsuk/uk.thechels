@@ -9,4 +9,4 @@ type: bookmark
 show: false
 ---
 
-An old article covering my desk setup, including my Mac and iOS devices.
+> An old article covering my desk setup, including my Mac and iOS devices.

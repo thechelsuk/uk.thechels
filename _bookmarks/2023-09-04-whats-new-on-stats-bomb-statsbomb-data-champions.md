@@ -9,3 +9,5 @@ i_type: u-bookmark-of
 layout: bookmark
 tags: chelseastats
 ---
+
+> A StatsBomb article

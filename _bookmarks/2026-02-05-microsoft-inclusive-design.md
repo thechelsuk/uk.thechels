@@ -10,4 +10,4 @@ show: false
 
 ---
 
-Microsoft Inclusive Design is a practice that anyone who creates and manages products and services can use to build more inclusive experiences for everyone. Get the principles, guidebooks, workshop tools, videos, and many more free resources.
+> Microsoft Inclusive Design is a practice that anyone who creates and manages products and services can use to build more inclusive experiences for everyone. Get the principles, guidebooks, workshop tools, videos, and many more free resources.

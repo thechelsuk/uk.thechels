@@ -9,3 +9,5 @@ tags: work
 i_type: u-bookmark-of
 i_url: https://www.rapidtables.com/tools/line-graph.html
 ---
+
+> Line graph tool

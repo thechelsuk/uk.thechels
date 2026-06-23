@@ -10,4 +10,4 @@ layout: bookmark
 tags: shopping
 ---
 
-Shop STEP ONE Mens Boxers Shorts Multipack, 5 Pairs, XL, Black.
+> STEP ONE Mens Boxers Shorts Multipack, 5 Pairs, Black.

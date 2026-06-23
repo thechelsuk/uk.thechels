@@ -10,4 +10,4 @@ layout: bookmark
 tags: work
 ---
 
-A comprehensive reference for CSS properties and types.
+> A comprehensive reference for CSS properties and types.

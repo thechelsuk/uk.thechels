@@ -9,4 +9,4 @@ i_type: u-bookmark-of
 layout: bookmark
 ---
 
-Drop a PDF here or click to choose
+> Drop a PDF here or click to choose

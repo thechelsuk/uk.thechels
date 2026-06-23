@@ -10,4 +10,4 @@ layout: bookmark
 tags: medical
 ---
 
-The Updated NICE Guidance Exposed the Serious Flaws in CBT and GET Trials for ME/CFS
+> The Updated NICE Guidance Exposed the Serious Flaws in CBT and GET Trials for ME/CFS

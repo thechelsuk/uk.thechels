@@ -9,6 +9,6 @@ type: bookmark
 show: false
 ---
 
-Quoting Juksie
-
-> Not being quite the narcissist I am sometimes accused of I try to recommend other peoples thoughts on working in the open whenever possible. These are my most shared links on the topic; Blogging an…
+> Quoting Juksie
+>
+> Not being quite the narcissist I am sometimes accused of I try to recommend other peoples thoughts on working in the open whenever possible. These are my most shared links on the topic;

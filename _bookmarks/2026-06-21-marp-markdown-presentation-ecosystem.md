@@ -7,4 +7,4 @@ type: bookmark
 layout: bookmark
 ---
 
-Markdown presentation ecosystem, powered by Marp. Create slides with Markdown and export them to PDF, PowerPoint, or HTML.
+> Markdown presentation ecosystem, powered by Marp. Create slides with Markdown and export them to PDF, PowerPoint, or HTML.

@@ -9,4 +9,4 @@ i_type: u-bookmark-of
 layout: bookmark
 ---
 
-ReliCSS helps you modernise legacy CSS, improve token usage, and remove duplicated declarations with browser-based audits that run fully client-side.
+> ReliCSS helps you modernise legacy CSS, improve token usage, and remove duplicated declarations with browser-based audits that run fully client-side.

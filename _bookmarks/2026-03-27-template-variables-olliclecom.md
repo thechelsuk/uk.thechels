@@ -10,4 +10,4 @@ layout: bookmark
 tags: work
 ---
 
-What better place to learn how a NetNewsWire theme template works than in the app itself?
+> What better place to learn how a NetNewsWire theme template works than in the app itself?

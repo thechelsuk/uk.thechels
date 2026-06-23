@@ -9,4 +9,4 @@ i_type: u-bookmark-of
 layout: bookmark
 ---
 
-Complete ME/CFS guide: symptoms, pacing, crash management, long COVID, POTS, mold/CIRS, Lyme, MCAS, diagnosis, treatments, and caregiver support. 165+ clinical references.
+> Complete ME/CFS guide: symptoms, pacing, crash management, long COVID, POTS, mold/CIRS, Lyme, MCAS, diagnosis, treatments, and caregiver support. 165+ clinical references.

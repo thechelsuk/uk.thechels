@@ -10,4 +10,4 @@ layout: bookmark
 tags: medical
 ---
 
-I write about nature, but when Milly got sick with a mystery illness, it never occurred to me that a long-forgotten tick bite could be the cause
+> I write about nature, but when Milly got sick with a mystery illness, it never occurred to me that a long-forgotten tick bite could be the cause

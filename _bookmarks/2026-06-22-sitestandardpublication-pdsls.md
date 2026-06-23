@@ -7,6 +7,4 @@ type: bookmark
 layout: bookmark
 ---
 
-List of PDS for a given atproto address.
-
-Link: https://pdsls.dev/at://did:plc:4fzctmk4gioynav7myhcc5ct/site.standard.publication
+> List of PDS for a given atproto address.
