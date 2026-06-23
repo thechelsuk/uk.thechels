@@ -2,7 +2,6 @@
 layout: post
 title: How to manage raspberry pi
 seo: Ways - how to manage raspberry pi
-tag: ways
 date: 2026-06-19 18:00
 type: ways
 syndicate: true

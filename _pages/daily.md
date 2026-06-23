@@ -11,6 +11,7 @@ date: 2026-06-23
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Tuesday, 23 June 2026
 
 - The average temperature today is 21.34˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 54 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Refuse Waste Collection Day
 - Food Waste Collection Day
 
@@ -41,12 +44,15 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Be the owner.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
 <!-- fixture_marker ends -->
 
@@ -54,21 +60,24 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 138.89999389648438 
-- ^FTSE : 10437.900390625 
-- ^FTMC : 23197.0 
+- VWRL.L : 138.89999389648438
+- ^FTSE : 10437.900390625
+- ^FTMC : 23197.0
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > A former girlfriend, who was a pyromaniac, tried to reignite our relationship. She was an old flame, but I was able to blow her off.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - SpaceX sheds $400bn in market value as debut rally hits reverse (FT, [34 minutes ago](https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4))
 - Nicolas Jackson picks up assist in Senegal defeat; Enzo excels again as Argentina win Group J (WAGNH, [1 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/169642/nicolas-jackson-picks-up-assist-in-senegal-defeat-enzo-excels-again-as-argentina-win-group-j))
 - Burnham might just have what it takes to see off Farage (FT, [2 hours ago](https://www.ft.com/content/0ef236f2-0f9f-429b-82d4-9bee1b812394))
@@ -88,7 +97,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > vinolent - adjective: Drunken with wine; given to drinking wine to excess.
+> vinolent - adjective: Drunken with wine; given to drinking wine to excess.
 
 <!-- word_marker ends -->
 
@@ -103,6 +112,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Accept advice
 
 <!-- eno_marker ends -->
@@ -110,6 +120,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Moulin Rouge (Rated: 4)
 - Released in 2001
 - Summary: Fictional account of French artist Henri de Toulouse-Lautrec.
@@ -133,6 +144,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Anna Shipman [URL](https://www.annashipman.co.uk/) [Feed](https://www.annashipman.co.uk/atom.xml)
 - Simon Willison [URL](http://simonwillison.net/) [Feed](https://simonwillison.net/atom/everything/)
 - Cupertino Lens [URL](https://cupertinolens.com/) [Feed](https://cupertinolens.com/feed/)
