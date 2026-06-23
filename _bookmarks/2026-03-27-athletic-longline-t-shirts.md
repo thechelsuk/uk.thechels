@@ -10,5 +10,5 @@ layout: bookmark
 tags: shopping
 ---
 
-> Athletic Sportswear Mens Longline T-Shirts Short Sleeve 
-> Size S M L XL 2XL 3XL 4XL 5XL (Black, XS). 
+> Athletic Sportswear Mens Longline T-Shirts Short Sleeve
+> Size S M L XL 2XL 3XL 4XL 5XL (Black, XS).

@@ -9,4 +9,3 @@ i_type: u-bookmark-of
 layout: bookmark
 tags: shopping
 ---
-
