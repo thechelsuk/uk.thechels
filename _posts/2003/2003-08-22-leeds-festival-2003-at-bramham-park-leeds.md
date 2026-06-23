@@ -1,0 +1,162 @@
+---
+date: 2003-08-22
+title: "Leeds Festival 2003 at Bramham Park Leeds"
+cited: "Concert Archives"
+link: https://www.concertarchives.org/concerts/leeds-festival-2003-bramham-park
+seo: "Leeds Festival 2003"
+type: date
+
+---
+
+##  Band Line-up (143)
+
+
+- Franz Ferdinand
+- Metallica
+- blink-182
+- The Black Keys
+- System of a Down
+- Linkin Park
+- Beck
+- Blur
+- Yeah Yeah Yeahs
+- The All-American Rejects
+- Sum 41
+- Keane
+- Interpol
+- Good Charlotte
+- Lostprophets
+- Placebo
+- Staind
+- The Used
+- My Morning Jacket
+- Biffy Clyro
+- Bowling For Soup
+- Scissor Sisters
+- Elbow
+- Jet
+- The Libertines
+- AFI
+- OK Go
+- The Kills
+- The Streets
+- Primal Scream
+- Razorlight
+- Black Rebel Motorcycle Club
+- Billy Talent
+- Alien Ant Farm
+- Doves
+- The Darkness
+- Thrice
+- Alkaline Trio
+- Pennywise
+- Billy Bragg
+- The Rapture
+- Ladytron
+- Less Than Jake
+- The Mars Volta
+- Lamb
+- Sugarcult
+- The Raveonettes
+- The Ataris
+- Grandaddy
+- Hot Hot Heat
+- Amon Tobin
+- blackalicious
+- Finch
+- Squarepusher
+- Electric Six
+- The Futureheads
+- Just Jack
+- Death In Vegas
+- Funeral for a Friend
+- Junior Senior
+- The Spooks
+- Sea Power
+- Saves The Day
+- Lagwagon
+- The Polyphonic Spree
+- Bell X1
+- Turbonegro
+- Audio Bullys
+- Mad Caddies
+- The Stills
+- Brendan Benson
+- Outlandish
+- FC Kahuna
+- The Thrills
+- Sparta
+- Photek
+- Poison the Well
+- Adam F
+- Har Mar Superstar
+- Ima Robot
+- Buck 65
+- The Datsuns
+- Hundred Reasons
+- Mclusky
+- 2manydjs
+- Boysetsfire
+- Cave In
+- The Sleepy Jackson
+- Evan Dando
+- Stellastarr
+- The Movielife
+- Sun
+- Radio 4
+- Freeland
+- Hell Is for Heroes
+- Zongamin
+- InMe
+- Longview
+- Soledad Brothers
+- The Eighties Matchbox B-line Disaster
+- Manitoba
+- Hope of the States
+- Mull Historical Society
+- Calla
+- Blak Twang
+- King Prawn
+- Bandits
+- DJ Aphrodite
+- The Sons (Band)
+- Hiss
+- Jackson
+- Rocket Science
+- Real
+- The Buff Medways
+- Futureshock
+- The Sights
+- Agenda
+- The Blueskins
+- Serafin
+- Vue
+- Richard Fearless
+- Whirlwind Heat
+- Young Heart Attack
+- Fat Truckers
+- Kinesis
+- Violent Delight
+- Colin MacIntyre
+- The Cooper Temple Clause
+- Gold Chains
+- Instruction
+- My Computer
+- Colour of Fire
+- The Revs
+- Winnebago Deal
+- The Majesticons
+- The Applicators
+- Prosaics
+- Cardia
+- White Light Motorcade
+- Dm and Gemini
+- The Music
+- Mixologists and Mc Trip
+- The White Stripes
+
+## Concert Details
+
+- Date: Friday, August 22, 2003 – Sunday, August 24, 2003
+- Venue: Bramham Park
+- Location: Leeds, England
