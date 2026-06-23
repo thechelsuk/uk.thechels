@@ -5,11 +5,9 @@ cited: "Concert Archives"
 link: https://www.concertarchives.org/concerts/leeds-festival-2003-bramham-park
 seo: "Leeds Festival 2003"
 type: date
-
 ---
 
-##  Band Line-up (143)
-
+## Band Line-up (143)
 
 - Franz Ferdinand
 - Metallica

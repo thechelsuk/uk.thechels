@@ -5,7 +5,6 @@ cited: "Concert Archives"
 link: https://www.concertarchives.org/concerts/the-dodge-brothers--12067794
 seo: "The Dodge Brothers"
 type: date
-
 ---
 
 ## Band Line-up (1)
