@@ -4,7 +4,6 @@ title: How to manage website projects and releases
 seo: Ways - how to manage website projects and releases
 tag: ways
 date: 2026-06-22 23:00
-type: ways
 syndicate: true
 ---
 
