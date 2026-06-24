@@ -14,6 +14,6 @@ layout: post
 
 ## Event/Concert Details
 
-- Date: day, month, MM,  YYYY.
+- Date: day, month, MM, YYYY.
 - Venue: venue name
 - Location: city, country.
