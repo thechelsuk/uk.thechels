@@ -11,6 +11,7 @@ date: 2026-06-24
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Wednesday, 24 June 2026
 
 - The average temperature today is 22.69˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 55 days since the last change (2026-04-30)
 
@@ -33,18 +35,22 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Think aptitude and attitude.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
 <!-- fixture_marker ends -->
 
@@ -52,28 +58,31 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 136.9600067138672 
-- ^FTSE : 10428.900390625 
-- ^FTMC : 22926.5 
+- VWRL.L : 136.9600067138672
+- ^FTSE : 10428.900390625
+- ^FTMC : 22926.5
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > What TV show is a pirates favourite? Plankety Plank.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Rock in Rio 2026: live music still draws thousands (Euronews, [12 minutes ago](http://www.euronews.com/culture/2026/06/24/rock-in-rio-2026-live-music-still-draws-thousands))
 - Europe Today: Sánchez under pressure as Europe backs Ukraine (Euronews, [28 minutes ago](http://www.euronews.com/my-europe/2026/06/24/europe-today-sanchez-under-pressure-as-europe-backs-ukraine))
 - More than 150 shipwrecks discovered beneath Gibraltar waters (Euronews, [31 minutes ago](http://www.euronews.com/2026/06/24/more-than-150-shipwrecks-discovered-beneath-gibraltar-waters))
 - Romeo Beckham to make acting debut in queer tennis film ‘Forty Love’ (Euronews, [34 minutes ago](http://www.euronews.com/culture/2026/06/24/romeo-beckham-to-make-acting-debut-in-queer-tennis-film-forty-love))
 - Why is gold falling as inflation rises? The inflation hedge myth, explained (Euronews, [1 hours ago](http://www.euronews.com/business/2026/06/24/why-is-gold-falling-as-inflation-rises-the-inflation-hedge-myth-explained))
 - Chelsea, Atalanta agree Marco Palestra transfer — reports (WAGNH, [1 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/169673/chelsea-atalanta-agree-marco-palestra-transfer-reports))
-- Latest news bulletin  June 24th, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/06/24/latest-news-bulletin-june-24th-2026-morning))
+- Latest news bulletin June 24th, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/06/24/latest-news-bulletin-june-24th-2026-morning))
 - Europe's best hotel swimming pools: Take a dip and stay cool in the heatwave (Euronews, [1 hours ago](http://www.euronews.com/travel/2026/06/24/europes-best-hotel-swimming-pools-take-a-dip-and-stay-cool-in-the-heatwave))
 - ‘El Niño is a distraction’: Why Europe’s deadly heatwave isn’t down to a natural weather phenomenon (Euronews, [1 hours ago](http://www.euronews.com/2026/06/24/el-nino-is-a-distraction-why-europes-deadly-heatwave-isnt-down-to-a-natural-weather-phenom))
 - From misting fans to wearable air conditioners: Here’s the tech to keep you cool this summer (Euronews, [1 hours ago](http://www.euronews.com/next/2026/06/24/from-misting-fans-to-wearable-air-conditioners-heres-the-tech-to-keep-you-cool-this-summer))
@@ -107,7 +116,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > timorsome - adjective: Timid; easily frightened.
+> timorsome - adjective: Timid; easily frightened.
 
 <!-- word_marker ends -->
 
@@ -122,6 +131,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Repetition is a form of change
 
 <!-- eno_marker ends -->
@@ -129,6 +139,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Thanksgiving (Rated: 3)
 - Released in 2023
 - Summary: After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts, the birthplace of the infamous holiday.
@@ -152,6 +163,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Ricky Mondello [URL](https://rmondello.com/) [Feed](https://rmondello.com/feed/)
 - Temper Temper [URL](https://www.tempertemper.net/) [Feed](https://www.tempertemper.net/feeds/main.json)
 - Giles Turnbull [URL](https://gilest.org/) [Feed](https://gilest.org/feed/index.xml)
