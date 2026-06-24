@@ -4,7 +4,8 @@ title: "Leeds Festival 2003 at Bramham Park Leeds"
 cited: "Concert Archives"
 link: https://www.concertarchives.org/concerts/leeds-festival-2003-bramham-park
 seo: "Leeds Festival 2003"
-type: date
+type: ticket
+layout: post
 ---
 
 ## Band Line-up (143)

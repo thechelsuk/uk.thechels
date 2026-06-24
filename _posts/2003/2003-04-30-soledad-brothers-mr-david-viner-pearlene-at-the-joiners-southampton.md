@@ -4,7 +4,8 @@ title: "Soledad Brothers, Mr. David Viner & Pearlene at The Joiners Southampton"
 cited: "Content Archives"
 link: https://www.concertarchives.org/concerts/soledad-brothers-mr-david-viner-pearlene
 seo: "Soledad Brothers, Mr. David Viner, & Pearlene"
-type: date
+type: ticket
+layout: post
 ---
 
 ## Band Line-up (3)

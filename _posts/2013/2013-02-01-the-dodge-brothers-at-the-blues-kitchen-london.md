@@ -4,7 +4,8 @@ title: "The Dodge Brothers at The Blues Kitchen"
 cited: "Concert Archives"
 link: https://www.concertarchives.org/concerts/the-dodge-brothers--12067794
 seo: "The Dodge Brothers"
-type: date
+type: ticket
+layout: post
 ---
 
 ## Band Line-up (1)
