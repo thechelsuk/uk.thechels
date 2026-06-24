@@ -1,14 +1,12 @@
 ---
-
 layout: post
 syndicate: true
 date: 2026-06-24 19:36
 title: Heat Wave and ME
 type: blog
-
 ---
 
-Extreme heat can be particularly challenging for many not adapted to the climate and especially for people with [Myalgic Encephalomyelitis](/disability) because many already have problems with autonomic nervous system regulation, blood flow, temperature control, and energy production. 
+Extreme heat can be particularly challenging for many not adapted to the climate and especially for people with [Myalgic Encephalomyelitis](/disability) because many already have problems with autonomic nervous system regulation, blood flow, temperature control, and energy production.
 
 Heat causes discomfort for most, including dehydration, heat exhaustion and heat stroke, but it can significantly worsen symptoms and sometimes trigger prolonged crashes known as post-exertional malaise for those with this disease.
 
@@ -24,7 +22,7 @@ Difficulty regulating body temperature is a recognized feature of autonomic dysf
 
 The body's efforts to cool itself (sweating, increased circulation, faster heart rate) require energy, which may contribute to symptom worsening in ME who often have to work within a strict and limited energy envelope.
 
-## External Stimuli 
+## External Stimuli
 
 A common symptom of ME is difficulty coping with sound and light, in extreme heat it can be difficult to balance having windows open to get fresh air vs the noise of everyday life e.g aircraft or loud motorcycles.
 
