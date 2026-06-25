@@ -11,6 +11,7 @@ date: 2026-06-25
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Thursday, 25 June 2026
 
 - The average temperature today is 23.82˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 56 days since the last change (2026-04-30)
 
@@ -33,18 +35,22 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Do better with less.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
 <!-- fixture_marker ends -->
 
@@ -52,21 +58,24 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 137.63999938964844 
-- ^FTSE : 10461.599609375 
-- ^FTMC : 23101.5 
+- VWRL.L : 137.63999938964844
+- ^FTSE : 10461.599609375
+- ^FTMC : 23101.5
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > During this time at this eye wear manufacturing company I designed and documented a process for a new pair of glasses with little dots of gold in the frame. That is right, I wrote the spec about specs on some specs.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Popular Ibiza DJ named as alleged 'mastermind' behind international drug trafficking operation (Euronews, [15 minutes ago](http://www.euronews.com/culture/2026/06/25/popular-ibiza-dj-named-as-alleged-mastermind-behind-international-drug-trafficking-operati))
 - Mexico, Switzerland and Brazil top their groups after final matchday of World Cup group stages (Euronews, [26 minutes ago](http://www.euronews.com/2026/06/25/mexico-switzerland-and-brazil-top-their-groups-after-final-matchday-of-world-cup-group-sta))
 - Greenpeace criticises EU's 'deep incoherence' over Hormuz energy shock (Euronews, [32 minutes ago](http://www.euronews.com/2026/06/25/greenpeace-criticises-eus-deep-incoherence-over-hormuz-energy-shock))
@@ -109,7 +118,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > lentous - adjective: Sticky; viscous.
+> lentous - adjective: Sticky; viscous.
 
 <!-- word_marker ends -->
 
@@ -124,6 +133,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Short circuit
 
 <!-- eno_marker ends -->
@@ -131,6 +141,7 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Home Alone ii : Lost In New York (Rated: 2)
 - Released in 1992
 - Summary: No summary available
@@ -154,6 +165,7 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Spyglass [URL](https://spyglass.org/) [Feed](https://spyglass.org/rss/)
 - Tyler Sticka [URL](https://tylersticka.com/) [Feed](https://tylersticka.com/journal/feed.xml)
 - Philipp D. Dubach [URL](https://philippdubach.com/) [Feed](https://philippdubach.com/index.xml)
