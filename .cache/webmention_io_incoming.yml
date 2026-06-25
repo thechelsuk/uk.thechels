@@ -3674,3 +3674,63 @@
     content: "<p>Extreme heat can be particularly challenging for many not adapted
       to the climate and especially for people with Myalgic Encephalomyelitis because
       many alread…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/heat-wave-and-me\">thechels.uk</a>.</p>"
+  '2004656':
+    id: '2004656'
+    uri: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/116807966670159855/activity
+    source: false
+    pubdate: 2026-06-25 01:42:04.000000000 +01:00
+    raw:
+      source: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/116807966670159855/activity
+      verified: true
+      verified_date: '2026-06-25T00:42:10+00:00'
+      id: 2004656
+      private: false
+      data:
+        author: &67
+          name: "@thechels.uk"
+          url: https://mastodon.social/@Thechelsuk
+          photo: https://avatars.webmention.io/files.mastodon.social/6fa238e8bcde25c86770f2afbf4c8cc3fd4eeb3cfc44895d9af169225627ba4a.png
+        url: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/116807966670159855/activity
+        name:
+        content: "Shared <a href=\"https://thechels.uk/heat-wave-and-me\">Heat Wave
+          and ME</a> by   <span class=\"h-card\">\n    <a class=\"p-name u-url\" href=\"https://thechels.uk\">thechels.uk</a>\n
+          \   \n    \n  </span>\n<p>Extreme heat can be particularly challenging for
+          many not adapted to the climate and especially for people with <a href=\"https://thechels.uk/disability\">Myalgic
+          Encephalomyelitis</a> because many already have problems with autonomic
+          nervous system regulation, blood flow, temperature control, and energy production.</p>\n<p>Heat
+          causes discomfort for most, including dehydration, heat exhaustion and heat
+          stroke, but it can significantly worsen symptoms and sometimes trigger prolonged
+          crashes known as post-exertional malaise for those with this disease.</p>\n<h2>Autonomic
+          Dysfunction</h2>\n<p>Many people with ME experience orthostatic intolerance,
+          including conditions such as Postural Orthostatic Tachycardia Syndrome.
+          Heat causes blood vessels to dilate, which can worsen blood pooling in the
+          legs and reduce blood flow to the brain.</p>\n<h2>Impaired Temperature Regulation</h2>\n<p>Difficulty
+          regulating body temperature is a recognized feature of autonomic dysfunction
+          in ME. This means it’s difficult to handle extreme weather when the body
+          feels hot and cold seemingly at random and using up energy in changing clothing,
+          or in some cases not having the energy to change so end up being stuck sweating
+          in inappropriate clothing.</p>\n<h2>Limited Energy Reserves</h2>\n<p>The
+          body’s efforts to cool itself (sweating, increased circulation, faster heart
+          rate) require energy, which may contribute to symptom worsening in ME who
+          often have to work within a strict and limited energy envelope.</p>\n<h2>External
+          Stimuli</h2>\n<p>A common symptom of ME is difficulty coping with sound
+          and light, in extreme heat it can be difficult to balance having windows
+          open to get fresh air vs the noise of everyday life e.g aircraft or loud
+          motorcycles.</p>\n<p>Staying in the shade or keeping curtains closed can
+          reduce light and keep rooms cool, but this risks a lack of vitamin D.</p>\n<h2>Symptoms</h2>\n<p>People
+          with ME may experience worsening of symptoms such as, but not limited to:</p>\n<ul><li>Increased
+          fatigue or exhaustion</li>\n<li>Dizziness or lightheadedness</li>\n<li>Feeling
+          faint or actual fainting</li>\n<li>Faster or pounding heartbeat</li>\n<li>Brain
+          fog and concentration difficulties</li>\n<li>Headaches or migraines</li>\n<li>Muscle
+          weakness</li>\n<li>Nausea</li>\n<li>Increased pain</li>\n<li>Worsening of
+          orthostatic intolerance symptoms when standing or sitting upright or changing
+          position.</li>\n</ul><p>Check in with people to make sure they are ok.</p>\n<a
+          href=\"https://thechels.uk/disability\">Myalgic Encephalomyelitis</a>"
+        published: '2026-06-25T00:42:04+00:00'
+        published_ts: 1782348124
+      activity:
+        type: repost
+      target: https://thechels.uk/heat-wave-and-me
+    author: *67
+    type: repost
+    content: ''
