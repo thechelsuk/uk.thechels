@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-06-26 15:00
-type:  blog
+type: blog
 title: The Privacy Observation Window
 syndicate: true
 ---
@@ -123,5 +123,7 @@ Age assurance is on that path now. Facial recognition in public spaces is two st
 #### Footnotes
 
 [^1]: British Security Industry Association estimate, via [CCTV.co.uk](https://cctv.co.uk/how-many-cctv-cameras-are-there-in-the-united-kingdom/)
+
 [^2]: National ANPR Service figures, via [Metropolitan Police](https://www.met.police.uk/advice/advice-and-information/rs/road-safety/automatic-number-plate-recognition-anpr/) and [GOV.UK DPIA](https://www.gov.uk/government/publications/national-anpr-service-data-protection-impact-assessment/national-anpr-service-data-protection-impact-assessment-accessible)
+
 [^3]: AnhPhu Nguyen and Caine Ardayfio, [I-XRAY project](https://www.theregister.com/2024/10/04/harvard_engineer_meta_smart_glasses/), The Register, October 2024
