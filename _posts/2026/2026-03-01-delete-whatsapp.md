@@ -8,7 +8,6 @@ type: linked
 cited: WhatsApp
 date: 2026-03-01
 type: ways
-
 ---
 
 _Note: Deleting your account is irreversible, this action can't be reversed even if you delete WhatsApp by accident._

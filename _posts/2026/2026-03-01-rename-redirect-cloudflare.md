@@ -8,7 +8,6 @@ type: linked
 cited: Average Name
 date: 2026-03-01
 type: ways
-
 ---
 
 If you own two domains, and want one to redirect cleanly to the other while stuck on Cloudflare, the configuration is complex.

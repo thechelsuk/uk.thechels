@@ -8,7 +8,6 @@ type: linked
 cited: UGREEN
 date: 2026-03-01
 type: ways
-
 ---
 
 Name: UGREEN MU101 Ergonomic Wireless Mouse

@@ -8,7 +8,6 @@ type: linked
 cited: Apple
 date: 2026-03-01
 type: ways
-
 ---
 
 ou can use your device to cancel a subscription from Apple.

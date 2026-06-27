@@ -8,7 +8,6 @@ type: linked
 cited: Homebridge
 date: 2026-03-01
 type: ways
-
 ---
 
 If you have a Raspberry Pi running the Homebridge Raspberry Pi and need to disconnect it from your local WiFi network, you can do this by following these steps.

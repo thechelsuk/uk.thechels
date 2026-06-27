@@ -6,7 +6,6 @@ link: https://xyproblem.info/
 type: linked
 cited: xyproblem
 type: til
-
 ---
 
 > ## What is it?

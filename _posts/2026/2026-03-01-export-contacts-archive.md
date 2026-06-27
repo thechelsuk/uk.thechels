@@ -8,7 +8,6 @@ type: linked
 cited: Apple
 date: 2026-03-01
 type: ways
-
 ---
 
 ## Export selected contacts

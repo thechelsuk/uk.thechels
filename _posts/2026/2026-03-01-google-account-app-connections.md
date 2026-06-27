@@ -8,7 +8,6 @@ type: linked
 cited: Google
 date: 2026-03-01
 type: ways
-
 ---
 
 1. Sign in to your Google account

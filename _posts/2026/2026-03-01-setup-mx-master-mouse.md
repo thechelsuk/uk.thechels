@@ -8,7 +8,6 @@ type: linked
 cited: Logitech Options
 date: 2026-03-01
 type: ways
-
 ---
 
 1. Use Logi Options+ software to customize the buttons and settings of your MX Master Mouse.

@@ -8,7 +8,6 @@ type: linked
 cited: Live Football on TV
 date: 2026-03-01
 type: ways
-
 ---
 
 1. Go to the website.

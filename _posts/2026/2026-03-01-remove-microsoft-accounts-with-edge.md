@@ -8,7 +8,6 @@ type: linked
 cited: Microsoft Edge
 date: 2026-03-01
 type: ways
-
 ---
 
 1. Open Microsoft Edge and type `edge://signin-internals/` in the address bar, then press Enter.

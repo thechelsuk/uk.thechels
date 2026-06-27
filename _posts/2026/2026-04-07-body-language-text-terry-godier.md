@@ -11,7 +11,7 @@ On the flip side to Terry Godier's recent post about the (body) language of comm
 
 For people with ME and other similar brain fog inducing conditions. The speed of communications is doubled, tripled, or worse, as the time taken to process and understand on receipt of a message can be excruciatingly difficult, stressful and frustrating.
 
-Does AI help here? I don't know, maybe. If the AI can summarise, extract, and simplify, the intent of the writer can be lost, but if it is lost anyway if the reader is no longer able to understand, so the ~better~ or _different_ outcome is for the receiver to understand.
+Does AI help here? I don't know, maybe. If the AI can summarise, extract, and simplify, the intent of the writer can be lost, but if it is lost anyway if the reader is no longer able to understand, so the ~~better~~ or _different_ outcome is for the receiver to understand.
 
 A written letter is no use to the blind, a telephone call is no use to the deaf.
 

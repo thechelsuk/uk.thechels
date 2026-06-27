@@ -6,7 +6,6 @@ link: https://en.wikipedia.org/wiki/Centipede_game
 type: linked
 cited: Wikipedia
 type: til
-
 ---
 
 > In game theory, the centipede game, first introduced by Robert Rosenthal in 1981, is an extensive form game in which two players take turns choosing either to take a slightly larger share of an increasing pot, or to pass the pot to the other player.

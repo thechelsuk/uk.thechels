@@ -8,7 +8,6 @@ type: linked
 cited: Zwifter Bikes
 date: 2026-03-01
 type: ways
-
 ---
 
 **_This website allows you to find the best bike for the route you want to ride, and compare the stats of different bikes._**

@@ -8,7 +8,6 @@ type: linked
 cited: Google
 date: 2026-03-01
 type: ways
-
 ---
 
 Use Google Takeout to export data from your Google account. This service allows you to download a copy of your data from various Google products, such as YouTube.

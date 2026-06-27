@@ -8,7 +8,6 @@ type: linked
 cited: Apple Support
 date: 2026-03-01
 type: ways
-
 ---
 
 1.  Press down on the polished stainless steel battery cover of your AirTag and rotate anticlockwise until the cover stops rotating.

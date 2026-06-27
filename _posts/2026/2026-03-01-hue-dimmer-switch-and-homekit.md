@@ -8,7 +8,6 @@ type: linked
 cited: Reddit
 date: 2026-03-01
 type: ways
-
 ---
 
 1. When adding the Hue Dimmer Switch to HomeKit, it will be added as a "Hue Dimmer Switch" accessory.

@@ -8,7 +8,6 @@ type: linked
 cited: Apple Support
 date: 2026-03-01
 type: ways
-
 ---
 
 If your Apple TV remote stops controlling the volume, you can reset it by following these steps:
