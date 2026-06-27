@@ -2,7 +2,7 @@
 layout: project-index
 title: Software Development Side Projects
 permalink: /projects
-seo: "Software development side projects"
+seo: "Active software development side projects"
 type: release
 ---
 
