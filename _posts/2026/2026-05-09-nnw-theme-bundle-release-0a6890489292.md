@@ -13,7 +13,7 @@ release_version: v1.8.1
 
 ## Themes
 
-New Fresh theme added to the bundle, and all themes have support for YouTube video embeds and x.app link generation, Additionally all themes have been updated with a link finder and this is appended to the article footer - aimed at feeds like bluesky that don't render clickable links in the article body.
+New Fresh theme added to the bundle, and all themes have support for YouTube video embeds and extension.app link generation, Additionally all themes have been updated with a link finder and this is appended to the article footer - aimed at feeds like bluesky that don't render clickable links in the article body.
 
 Javascript must be enabled in NetNewsWire settings for these to work.
 

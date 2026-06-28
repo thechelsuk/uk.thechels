@@ -8,6 +8,6 @@ cited: Philip P Dubach
 type: linked
 ---
 
-Nice, I'm using a NNW theme with some JS enabled to manage videos and open them in the x.app which supports PIP, but this feels quite elegant.
+Nice, I'm using a NNW theme with some JS enabled to manage videos and open them in the extension.app which supports PIP, but this feels quite elegant.
 
 > Part of degoogling my life meant dropping the YouTube app. The only thing I actually used it for was the subscription feed: what the 10 to 15 channels I follow have posted, newest first. No comments, no recommendations, no Shorts.

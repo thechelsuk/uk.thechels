@@ -3,7 +3,7 @@ layout: projects
 title: CF Worker X Redirect
 permalink: /projects/cf-worker-x--redirect
 class: workers
-seo: "X.app redirect cloudflare worker"
+seo: "extension.app redirect cloudflare worker"
 i_name: GitHub Source
 i_url: "https://github.com/thechelsuk/cf-worker-x-redirect"
 summary: "A Cloudflare worker to solve a niche problem of redirecting urls to an `x-callback-url` on iOS when an app doesn't support them natively."
