@@ -3833,3 +3833,38 @@
 "/2026-06-28-daily-rundown": {}
 "/link/introduction-18f-guides": {}
 "/2026-06-29-daily-rundown": {}
+"/call-it-fuckity-cockwomble":
+  '2005564':
+    id: '2005564'
+    uri: https://nuchronic.uk/item/call-it-fuckity-cockwomble-6930da314f/
+    source: false
+    pubdate: 2026-06-29 18:55:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/call-it-fuckity-cockwomble-6930da314f/
+      verified: true
+      verified_date: '2026-06-29T18:54:05+00:00'
+      id: 2005564
+      private: false
+      data:
+        author: &70
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/call-it-fuckity-cockwomble-6930da314f/
+        name: Call it Fuckity Cockwomble
+        content: "<p>We could call it fuckity cockwomble for all I care, won’t make
+          me feel better, won’t be any closer to a cure. Without fail, a support forum
+          or community for…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/call-it-fuckity-cockwomble\">thechels.uk</a>.</p>"
+        published: '2026-06-29T17:55:00+00:00'
+        published_ts: 1782755700
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/call-it-fuckity-cockwomble-6930da314f/
+      target: https://thechels.uk/call-it-fuckity-cockwomble
+    author: *70
+    type: link
+    title: Call it Fuckity Cockwomble
+    content: "<p>We could call it fuckity cockwomble for all I care, won’t make me
+      feel better, won’t be any closer to a cure. Without fail, a support forum or
+      community for…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/call-it-fuckity-cockwomble\">thechels.uk</a>.</p>"
