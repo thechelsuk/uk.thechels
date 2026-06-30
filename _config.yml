@@ -156,6 +156,8 @@ navigation_slashes:
     title: "About"
   - link: "/accessibility"
     title: "Accessibility"
+  - link: "/c/ama"
+    title: "AMA"
   - link: "/architecture"
     title: "Architecture"
   - link: "/.well-known/avatar.png"

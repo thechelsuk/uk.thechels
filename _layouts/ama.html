@@ -1,0 +1,137 @@
+{% include header.html %}
+<h1 class="post-title">{{ page.title }}</h1>
+{{ content }}
+
+<div class="contact-form-wrapper">
+    <form method="POST" action="https://api.mydomain.tld/contact" class="contact-form" id="contact-form">
+
+        <div class="form-field">
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" required>
+        </div>
+
+        <div class="form-field">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
+        </div>
+
+        <div class="form-field">
+            <label for="message">Question</label>
+            <textarea id="message" name="message" rows="6" required></textarea>
+        </div>
+
+        <!-- Honeypot: hidden from real users, often filled by bots -->
+        <input type="text" name="_gotcha" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+        <!-- Time trap -->
+        <input type="hidden" name="_ts" id="form-ts">
+
+        <!-- Turnstile widget -->
+        <div class="cf-turnstile" data-sitekey="0x4AAAAAADtE27DeK00ujyO3"></div>
+        <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
+        <button type="submit" class="submit-btn">Send Message</button>
+    </form>
+</div>
+
+<style>
+    .contact-form-wrapper {
+        max-width: 832px;
+        margin: 2em auto;
+        font-family: var(--font-stack);
+        color: var(--primary);
+    }
+
+    .contact-form {
+        display: flex;
+        flex-direction: column;
+        gap: 1.25em;
+    }
+
+    .form-field {
+        display: flex;
+        flex-direction: column;
+        gap: 0.4em;
+    }
+
+    .form-field label {
+        font-family: var(--header-stack);
+        font-size: 0.9em;
+        color: var(--primary);
+    }
+
+    .form-field input,
+    .form-field textarea {
+        padding: 0.6em 0.8em;
+        border: 1px solid var(--tab);
+        border-radius: 4px;
+        font-size: 1em;
+        font-family: var(--font-stack);
+        color: var(--primary);
+        background-color: var(--alt-tab);
+        transition: var(--trans);
+    }
+
+    .form-field input:focus,
+    .form-field textarea:focus {
+        outline: none;
+        border-color: var(--secondary);
+        box-shadow: 0 0 0 3px var(--code);
+    }
+
+    .form-field textarea {
+        resize: vertical;
+        min-height: 120px;
+        font-family: var(--font-stack);
+    }
+
+    /* Honeypot — visually hidden but not display:none,
+     since some spam bots skip display:none fields */
+    .hp-field {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        opacity: 0;
+        overflow: hidden;
+        pointer-events: none;
+    }
+
+    .submit-btn {
+        align-self: flex-start;
+        padding: 0.6em 1.6em;
+        background: var(--secondary);
+        color: var(--background);
+        border: 1px solid var(--secondary);
+        border-radius: 4px;
+        font-family: var(--header-stack);
+        font-size: 1em;
+        cursor: pointer;
+        transition: var(--trans);
+    }
+
+    .submit-btn:hover,
+    .submit-btn:focus {
+        background: var(--accent);
+        border-color: var(--accent);
+        color: var(--primary);
+    }
+
+    .submit-btn:active {
+        background: var(--links);
+        border-color: var(--links);
+    }
+
+    @media only screen and (max-width: 540px) {
+        .submit-btn {
+            align-self: stretch;
+            text-align: center;
+        }
+    }
+</style>
+
+
+<script>
+    document.getElementById('form-ts').value = Date.now();
+</script>
+
+{% include footer.html %}
