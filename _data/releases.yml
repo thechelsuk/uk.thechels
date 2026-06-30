@@ -26,6 +26,8 @@
   url: https://github.com/SecOpsNews/news/releases.atom
 - id: CF Worker X Redirect
   url: https://github.com/thechelsuk/cf-worker-x-redirect/releases.atom
+- id: CF Worker Emailer
+  url: https://github.com/thechelsuk/cf-worker-emailer/releases.atom
 - id: REDemptionX - Reddit content deletion tool
   url: https://github.com/thechelsuk/ext-chrome-reddit-deletion-tool/releases.atom
 - id: Scripts - Delete GitHub Issues (python)
