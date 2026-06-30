@@ -5,7 +5,8 @@ syndicate: true
 date: 2026-06-29 17:55
 title: Call it Fuckity Cockwomble
 type: blog
-
+tags:
+  - ME
 ---
 
 We could call it fuckity cockwomble for all I care, won’t make me feel better, won’t be any closer to a cure. 

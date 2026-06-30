@@ -4,6 +4,8 @@ syndicate: true
 date: 2026-06-24 19:36
 title: Heat Wave and ME
 type: blog
+tags:
+  - ME
 ---
 
 Extreme heat can be particularly challenging for many not adapted to the climate and especially for people with [Myalgic Encephalomyelitis](/disability) because many already have problems with autonomic nervous system regulation, blood flow, temperature control, and energy production.
