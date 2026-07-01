@@ -1,5 +1,4 @@
 ---
-
 layout: post
 syndicate: false
 link: https://www.reddit.com/r/modnews/s/7Jc90Ui2Xq
