@@ -4,7 +4,7 @@ layout: post
 syndicate: false
 link: https://www.reddit.com/r/modnews/s/7Jc90Ui2Xq
 date: 2026-07-01 19:05
-title: Old Reddit logged in
+title: Old Reddit To Be Logged In
 cited: Reddit
 type: linked
 ---
