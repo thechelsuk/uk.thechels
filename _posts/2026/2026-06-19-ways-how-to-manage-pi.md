@@ -85,6 +85,13 @@ sudo systemctl status homebridge
 curl -sSL https://install.pi-hole.net | bash
 ```
 
+## Check and Install OS Updates
+
+To update the Raspberry Pi OS, run the following commands:
+
+1. Update the package list: ```sudo apt update```
+2. Upgrade installed packages: ```sudo apt upgrade -y```
+
 ## Notes
 
 ### move to root
