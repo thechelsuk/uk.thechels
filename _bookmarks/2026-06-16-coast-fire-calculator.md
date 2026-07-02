@@ -1,7 +1,7 @@
 ---
 title: "Coast Fire Calculator"
 date: 2026-06-16
-layout: post
+layout: bookmark
 syndicate: false
 show: false
 type: bookmark
