@@ -129,6 +129,8 @@ navigation_data:
 navigation_archives:
   - link: "/archives/gifts"
     title: "Gifts"
+  - link: "/archives/mailbox"
+    title: "Mailbox"
   - link: "/archives/mixtapes"
     title: "Mixtapes"
   - link: "/archives/til"

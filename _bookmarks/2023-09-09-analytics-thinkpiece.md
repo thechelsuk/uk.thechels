@@ -1,5 +1,5 @@
 ---
-title: "Analytics Thinkpiece;"
+title: "Analytics Think Piece"
 i_url: https://scribblr42.github.io/blog/2015/11/09/analytics-thinkpiece
 syndicate: false
 show: false
