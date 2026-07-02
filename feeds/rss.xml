@@ -23,11 +23,6 @@ permalink: /rss.xml
   {% for post in rss_posts %}
      {% assign build_date = post.date | date: "%Y-%m-%dT%H:%M:%SZ" %}
      {% assign updated_date = post.modified | date: "%Y-%m-%dT%H:%M:%SZ" %}
-     {% assign min = 1 %}
-     {% assign max = site.data.offers.size %}
-     {% assign diff = max | minus: min %}
-     {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
-     {% assign offer = site.data.offers[item] %}
       <entry>
         <title type="html"><![CDATA[ + {{ post.title | cdata_escape }}]]></title>
         <link rel="alternate" type="text/html" href="{{ site.url }}/{{ post.url }}" />
@@ -40,12 +35,7 @@ permalink: /rss.xml
         </author>
         <content type="html"><![CDATA[
           {{ post.content }}
-          <p><center>***</center></p>
-          <p> // Published {{ post.date | date: "%Y-%m-%d" }}, with {{ post.content | number_of_words }} words.</p>
-          <hr/>
-          <p>💬 Thanks for keeping RSS alive. If you have an RSS feed please share it with me on any of these <a href="https://links.thechels.uk">socials</a>.</p>
-          <p>If you get value from this site, please share this post with someone you think will like it and support me with a <a href="https://ko-fi.com/thechelsuk">ko-fi</a>.</p>
-          <p>Finally, here is a special sponsor/advert link just for you; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a><br/>[T&Cs apply].</p>
+          {% include footer_for_feeds.html %}
         ]]></content>
       </entry>
   {% endfor %}

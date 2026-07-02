@@ -10,6 +10,7 @@ permalink: /sitemap.xml
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
+  <!-- pages-->
   {% for page in site.html_pages %}
   {% if page.url != "/" and page.sitemap != false and page.robots != "noindex, nofollow" %}
   <url>
@@ -20,6 +21,19 @@ permalink: /sitemap.xml
   </url>
   {% endif %}
   {% endfor %}
+  <!-- bookmarks -->
+  {% assign links = site.bookmarks %}
+  {% for link in links %}
+    <url>
+      <loc>{{ link.url | replace:'/index.html','/' | absolute_url | xml_escape }}</loc>
+      {% if link.last_modified_at or link.date %}
+        <lastmod>{{ link.last_modified_at | default: link.date | date_to_xmlschema }}</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+      {% endif %}
+    </url>
+  {% endfor %}
+  <!-- posts-->
   {% for post in site.posts %}
   <url>
     <loc>{{ site.url }}{{ post.url }}</loc>

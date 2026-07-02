@@ -31,21 +31,6 @@ permalink: /feed
 {%- assign posts = posts | sort: "date" | reverse -%}
 
 {% for post in posts %}
-    <!-- Entry -->
-    {% assign min = 1 %}
-    {% assign max = site.data.offers.size %}
-    {% assign diff = max | minus: min %}
-    {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
-    {% assign offer = site.data.offers[item] %}
-
-    {%- capture footer -%}
-      <p><center>***</center></p>
-      <hr/>
-      <p>💬 Thanks for keeping RSS alive. If you have an RSS feed please share it with me on any of these <a href="https://links.thechels.uk">socials</a>.</p>
-      <p>If you get value from this site, please share this post with someone you think will like it and support me with a <a href="https://ko-fi.com/thechelsuk">ko-fi</a>.</p>
-      <p>Finally, here is a special sponsor/advert link just for you; <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a><br/>[T&Cs apply].</p>
-    {%- endcapture -%}
-
     {%- if post.imdb %}
     {% assign film_link = "https://thechels.uk/films#" | append: post.imdb %}
     <entry>
@@ -82,9 +67,9 @@ permalink: /feed
             {% if post.type == "rss" %}
             <p>Note: this is a secret rss only item.</p>
             {% endif %}
-            <p> // Published {{ post.date | date: "%Y-%m-%d" }}, with {{ post.content | number_of_words }} words.</p>
-            {{ footer }}
-      ]]></content>
+            {% include footer_for_feeds.html %}
+        ]]>
+      </content>
       {%- endif -%}
     </entry>
   {%- endfor -%}
