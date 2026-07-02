@@ -89,8 +89,8 @@ curl -sSL https://install.pi-hole.net | bash
 
 To update the Raspberry Pi OS, run the following commands:
 
-1. Update the package list: ```sudo apt update```
-2. Upgrade installed packages: ```sudo apt upgrade -y```
+1. Update the package list: `sudo apt update`
+2. Upgrade installed packages: `sudo apt upgrade -y`
 
 ## Notes
 
