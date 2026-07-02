@@ -40,4 +40,4 @@ By type:
 - [Local News Summary](https://cod.thechels.uk/daily.rss)
 - [Local Flood Alerts](https://cod.thechels.uk/flood.xml)
 
-If you don’t have a feed reader then I highly recommend using [NetNewsWire](https://netnewswire.com/). It’s really good, offers icloud sync across devices, loads of third-party integrations and is completely free. If you go ahead and use it, you can also try my completely free [themes](/nnw-themes).
+If you don’t have a feed reader then I highly recommend using [NetNewsWire](https://netnewswire.com/). It’s really good, offers icloud sync across devices, loads of third-party integrations and is completely free. If you go ahead and use it, you can also try my completely free [themes](/projects/nnw-themes.
