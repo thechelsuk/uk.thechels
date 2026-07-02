@@ -137,6 +137,20 @@
         });
       })();
     </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "{{ site.organization.name }}",
+      "url": "{{ site.organization.url }}",
+      "logo": "{{ site.organization.logo }}",
+      "sameAs": [
+        {% for link in site.organization.sameAs %}
+        "{{ link }}"{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ]
+    }
+    </script>
   </head>
 
   <body>

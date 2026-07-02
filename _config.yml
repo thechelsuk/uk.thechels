@@ -5,12 +5,31 @@ description: "// A working in public, second brain"
 version: 2.0.0
 port: 2012
 theme:
-owner:
-  name: thechelsuk
-  email: "feedback@thechels.uk"
-  uri: https://thechels.uk
-  avatar: "/.well-known/avatar.png"
 url: https://thechels.uk
+owner:
+  name: "thechelsuk"
+  email: "feedback@thechels.uk"
+  url: "https://thechels.uk/about"
+  avatar: "https://thechels.uk/.well-known/avatar.png"
+  sameAs:
+    - "https://reddit.com/user/thechelsuk"
+    - "https://youtube.com/thechelsuk"
+    - "https://bsky.app/profile/thechels.uk"
+    - "https://twitch.tv/thechelsuk"
+    - "https://github.com/thechelsuk"
+  jobTitle: "Owner"
+  worksFor: "thechelsuk"
+organization:
+  name: "thechelsuk"
+  url: "https://thechels.uk"
+  logo: "https://thechels.uk//.well-known/avatar.png"
+  sameAs:
+    - "https://reddit.com/user/thechelsuk"
+    - "https://youtube.com/thechelsuk"
+    - "https://bsky.app/profile/thechels.uk"
+    - "https://twitch.tv/thechelsuk"
+    - "https://github.com/thechelsuk"
+
 baseurl: ""
 timezone: Europe/London
 encoding: UTF-8
