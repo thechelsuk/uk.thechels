@@ -6,8 +6,8 @@
     <meta name="referrer" content="origin">
     {% assign profile_description = page.seo | default: post.seo | default: page.title | default: post.title %}
     <title>{{ page.title | default: post.title }}</title>
-    <meta name="title" content="{{ page.title | default: post.title }} | {{ site.title }}">
-    <meta name="description" content="{{ profile_description }} | {{ site.title }}">
+    <meta name="title" content="{{ page.title | default: post.title }} | {{ site.title }} by thechelsuk">
+    <meta name="description" content="{{ profile_description }} | {{ site.title }} by thechelsuk">
     {%- if page.canonical -%}
     <link rel="canonical" href="{{ page.canonical }}" />
     {%- else -%}
@@ -16,12 +16,12 @@
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="article">
     <meta property="og:title"
-      content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }}">
+      content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} by thechelsuk">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:image" content="{{ site.url }}{{ site.owner.avatar }}">
-    <meta property="og:site_name" content="{{ site.title }} {{ site.description }}">
+    <meta property="og:site_name" content="{{ site.title }} {{ site.description }} by thechelsuk">
     <meta property="og:description"
-      content="{{ profile_description }} | {{ site.title }}{{ profile_description_suffix }}">
+      content="{{ profile_description }} | {{ site.title }} by thechelsuk">
     <meta property="article:publisher" content="{{ site.url }}">
     <meta property="article:author" content="{{ site.owner.name }} at {{site.owner.uri }}">
     <meta property="article:published_time" content="{{ page.date }}">
@@ -75,10 +75,12 @@
     <link rel="me" href="https://hiyd.uk">
     <link rel="me" href="https://nuchronic.uk">
 
-    <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Main Feed" href="{{ site.url }}/feed">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Main Feed"
+      href="{{ site.url }}/feed">
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Posts only"
       href="{{ site.url }}/posts.xml">
-    <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - RSS only" href="{{ site.url }}/rss.xml">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - RSS only"
+      href="{{ site.url }}/rss.xml">
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Linked-quote only"
       href="{{ site.url }}/links.xml">
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Socials only"
@@ -87,13 +89,18 @@
       href="{{ site.url }}/daily.xml">
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Mixtapes only"
       href="{{ site.url }}/mixtapes.xml">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Mailbox only"
+      href="{{ site.url }}/mailbox.xml">
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Releases only"
       href="{{ site.url }}/releases.xml">
-    <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - TIL only" href="{{ site.url }}/til.xml">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - TIL only"
+     href="{{ site.url }}/til.xml">
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Ways only"
       href="{{ site.url }}/ways.xml">
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Videos only"
       href="{{ site.url }}/videos.xml">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Bookmarks only"
+      href="{{ site.url }}/bookmarks.xml">
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }} - Film Reviews only"
       href="{{ site.url }}/films.xml">
     <link rel="alternate" type="application/json" title="{{ site.title }} - Main as JSON"
