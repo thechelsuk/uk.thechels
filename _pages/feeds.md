@@ -13,6 +13,8 @@ A number of RSS feeds are available. All feeds are Atom/XML unless otherwise spe
 By type:
 
 - [Daily only](/daily.xml) - A daily briefing of news, notices, quotes, and more.
+- [Bookmarks only](/bookmarks.xml) - Bookmark posts only.
+- [Mailbox only](/mailbox.xml) - Mailbox posts only.
 - [Mixtapes only](/mixtapes.xml) - Mixtape posts only.
 - [Links only](/links.xml) - Linked/quote posts only.
 - [Posts only](/posts.xml) - Posts only.
