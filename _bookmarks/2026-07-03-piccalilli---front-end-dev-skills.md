@@ -10,5 +10,4 @@ cited: Author
 
 > great resource for dev skills, including the index newsletter
 
-
 Link: https://piccalil.li/
