@@ -26,6 +26,7 @@
 
   {% if page.id %}
   <p class="meta">
+    // Written by: <a href="{{ site.owner.url }}">{{ site.owner.name }}</a><br/>
     // Published: <time class="dt-published"
       datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>, with
     {{ page.content | number_of_words }} words. {%

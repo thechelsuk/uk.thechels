@@ -9,9 +9,14 @@
     {{ content }}
 
     {% if page.id %}
-    <p class="meta">Published {{ page.date | date: "%-d %B %Y" }}, with {{ page.content | number_of_words }} words.</p>
+    <p class="meta">
+        // Added by: <a href="{{ site.owner.url }}">{{ site.owner.name }}</a><br/>
+        // Published {{ page.date | date: "%-d %B %Y" }}, with {{ page.content | number_of_words }} words.</p>
     {% endif %}
 
     <p class="visually-hidden p-category" hidden="from-humans">{{ page.type }}, {{ page.tags | join: ", " }}</p>
+
+
+  <p><a href="/bookmarks" title="Back to Bookmarks">← Back to Bookmarks</a></p>
 </article>
 {% include footer.html %}
