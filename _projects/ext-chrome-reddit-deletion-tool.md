@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: REDemptionX - Reddit Deletion Tool
+title: RedemptionX - Reddit Deletion Tool
 permalink: /projects/ext-reddit-delete-tool
 class: plugins
 seo: "Browser extension to irreversibly delete reddit posts and comments for free"
