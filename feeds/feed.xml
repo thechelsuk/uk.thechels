@@ -63,7 +63,6 @@ permalink: /feed
       </author>
       {%- endif %}
       <content type="html"><![CDATA[{{ post.content }}
-            <p><center>***</center></p>
             {% if post.type == "rss" %}
             <p>Note: this is a secret rss only item.</p>
             {% endif %}

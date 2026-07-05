@@ -6,7 +6,9 @@
     {% assign offer = site.data.offers[item] %}
 
 <p><center>***</center></p>
-<p> // Published {{ post.date | date: "%Y-%m-%d" }}, with {{ post.content | number_of_words }} words.</p>
+<p>
+// Written by {{ site.owner.name }}<br/>
+// Published {{ post.date | date: "%Y-%m-%d" }}, with {{ post.content | number_of_words }} words.</p>
 <hr />
 <p>💬 Thanks for keeping RSS alive. If you have an RSS feed please share it with me on any of these <a
         href="https://links.thechels.uk">socials</a> or <a href="https://thechels.uk/c/ama">AMA / Contact me</a>.
