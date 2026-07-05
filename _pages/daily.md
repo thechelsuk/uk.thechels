@@ -11,6 +11,7 @@ date: 2026-07-05
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Sunday, 05 July 2026
 
 - The average temperature today is 17.3˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 66 days since the last change (2026-04-30)
 
@@ -33,43 +35,52 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Provide purpose, mastery and autonomy.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 137.64999389648438 
-- ^FTSE : 10679.0 
-- ^FTMC : 23538.80078125 
+- VWRL.L : 137.64999389648438
+- ^FTSE : 10679.0
+- ^FTMC : 23538.80078125
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > A woman from Detroit was recently interviewed by Police for setting on fire the terms and conditions of a loan. Her name was Bernadette.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - 'I believe in the secret of things': Author Orhan Pamuk opens up at the Museum of Innocence (Euronews, [29 minutes ago](http://www.euronews.com/culture/2026/07/05/i-believe-in-the-secret-of-things-author-orhan-pamuk-opens-up-at-the-museum-of-innocence))
 - Stockholm travel guide: Sunsets, fika and island swimming in the stunning archipelago (Euronews, [1 hours ago](http://www.euronews.com/travel/2026/07/05/stockholm-travel-guide-sunsets-fika-and-wild-swimming-in-the-stunning-archipelago))
-- Latest news bulletin  July 5th, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/07/05/latest-news-bulletin-july-5th-2026-morning))
+- Latest news bulletin July 5th, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/07/05/latest-news-bulletin-july-5th-2026-morning))
 - Italy could be the next country to build a solar railway after Switzerland’s successful trial (Euronews, [1 hours ago](http://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri))
 - 2026 World Cup, Round of 16: Brazil vs. Norway; Mexico vs. England (WAGNH, [1 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/169959/2026-world-cup-round-of-16-brazil-vs-norway-mexico-vs-england))
 - Returning to pre-Trumpian politics won’t save America (FT, [2 hours ago](https://www.ft.com/content/5e7ca535-90a8-4f6d-934b-0a0d9b36e62d))
@@ -87,7 +98,7 @@ _Good Morning, Here is your daily briefing..._
 - Diamonds are forever: Karlovy Vary film festival honours Dustin Hoffman on its 60th anniversary (Euronews, [12 hours ago](http://www.euronews.com/culture/2026/07/04/diamonds-are-forever-karlovy-vary-film-festival-honours-dustin-hoffman-on-its-60th-anniver))
 - Thousands of protesters march throughout France to demand new law against sexual violence (Euronews, [13 hours ago](http://www.euronews.com/my-europe/2026/07/04/thousands-of-protesters-march-throughout-france-to-demand-law-against-sexual-violence))
 - First Ebola patient in France 'recovered' and 'discharged from hospital' (Euronews, [13 hours ago](http://www.euronews.com/health/2026/07/04/france-first-ebola-case-recovered-and-discharged-from-hospital))
-- Latest news bulletin  July 4th, 2026 – Evening (Euronews, [14 hours ago](http://www.euronews.com/video/2026/07/04/latest-news-bulletin-july-4th-2026-evening))
+- Latest news bulletin July 4th, 2026 – Evening (Euronews, [14 hours ago](http://www.euronews.com/video/2026/07/04/latest-news-bulletin-july-4th-2026-evening))
 - Iran mourners demand revenge at ayatollah’s funeral (FT, [20 hours ago](https://www.ft.com/content/c40471ec-cac8-4ab0-8a77-34ae971a7ffc))
 - Confidential computing's core trust mechanism is broken. The fix may not exist (Register, [20 hours ago](https://www.theregister.com/security/2026/07/04/confidential-computings-core-trust-mechanism-is-broken-the-fix-may-not-exist/5266056))
 - 2026 World Cup, Round of 16: Canada vs. Morocco; Paraguay vs. France (WAGNH, [23 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/169939/2026-world-cup-round-of-16-canada-vs-morocco-paraguay-vs-france))
@@ -99,7 +110,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > Comstock Lode - noun: A rich supply or source, especially one that seems inexhaustible.
+> Comstock Lode - noun: A rich supply or source, especially one that seems inexhaustible.
 
 <!-- word_marker ends -->
 
@@ -114,6 +125,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Use "unqualified" people
 
 <!-- eno_marker ends -->
@@ -121,9 +133,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Ex Machina (Rated: 6)
 - Released in 2015
 - Summary: A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -144,9 +158,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Jeff Geerling [URL](https://www.jeffgeerling.com/) [Feed](https://www.jeffgeerling.com/blog.xml)
 - Lynn Fisher [URL](https://lynnandtonic.com/) [Feed](https://lynnandtonic.com/feed.xml)
 - Olu Niyi-Awosusi [URL](https://olu.online/) [Feed](https://olu.online/feed/?type=rss)
 - Karl Hughes [URL](https://www.karllhughes.com/) [Feed](https://www.karllhughes.com/feed.xml)
 - Rachel Andrew [URL](https://rachelandrew.co.uk/) [Feed](https://rachelandrew.co.uk/feed/)
+
 <!-- blogroll_marker ends -->
