@@ -1,5 +1,4 @@
 ---
-
 layout: post
 syndicate: true
 date: 2026-07-06 17:20
@@ -7,7 +6,6 @@ title: UEFA statement on the Balogun case
 link: https://www.uefa.com/news-media/news/02a7-2109c8e9ef81-de5a993db109-1000--uefa-statement-on-the-balogun-case/
 cited: UEFA
 type: linked
-
 ---
 
 This is the uncomfortable feeling when you agree with UEFA.
