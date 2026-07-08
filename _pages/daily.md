@@ -11,6 +11,7 @@ date: 2026-07-08
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Wednesday, 08 July 2026
 
 - The average temperature today is 19.06˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 69 days since the last change (2026-04-30)
 
@@ -33,43 +35,52 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Optimise flow.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 138.02000427246094 
-- ^FTSE : 10651.7998046875 
-- ^FTMC : 23504.19921875 
+- VWRL.L : 138.02000427246094
+- ^FTSE : 10651.7998046875
+- ^FTMC : 23504.19921875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > I am going to start looking for jobs with yoghurt companies as I hear they have a great culture.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Media Over QUIC can scale real-time streaming and carry the world's vids (Register, [8 minutes ago](https://www.theregister.com/networks/2026/07/08/media-over-quic-can-scale-real-time-streaming-and-carry-the-worlds-vids/5268101))
 - Vikings, Victorians and vultures: UK’s first live-action historical show park to open in July (Euronews, [8 minutes ago](http://www.euronews.com/travel/2026/07/08/vikings-victorians-and-vultures-uks-first-live-action-historical-show-park-to-open-in-july))
-- Could your skincare contain microplastics?  Euronews Tech Talks (Euronews, [9 minutes ago](http://www.euronews.com/next/2026/07/08/could-your-skincare-contain-microplastics-euronews-tech-talks))
+- Could your skincare contain microplastics? Euronews Tech Talks (Euronews, [9 minutes ago](http://www.euronews.com/next/2026/07/08/could-your-skincare-contain-microplastics-euronews-tech-talks))
 - Europe Today: Le Pen to run for French president as Trump revives Greenland row (Euronews, [9 minutes ago](http://www.euronews.com/my-europe/2026/07/08/europe-today-le-pen-to-run-for-french-president-as-trump-revives-greenland-row))
 - US launches new wave of Iran strikes after attacks on tankers (FT, [45 minutes ago](https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c))
 - 'Once the curtain is drawn, freedom is absolute': The magic and mystery of old photo booths (Euronews, [48 minutes ago](http://www.euronews.com/culture/2026/07/08/once-the-curtain-is-drawn-freedom-is-absolute-the-magic-and-mystery-of-old-photo-booths))
@@ -107,7 +118,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > yonder - adverb, adjective: Over there; at a relatively distant place.
+> yonder - adverb, adjective: Over there; at a relatively distant place.
 
 <!-- word_marker ends -->
 
@@ -122,6 +133,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Accept advice
 
 <!-- eno_marker ends -->
@@ -129,9 +141,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Eli (Rated: 6)
 - Released in 2019
 - Summary: A boy receiving treatment for his auto-immune disorder discovers that the house he's living in isn't as safe as he thought.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -152,9 +166,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Boz [URL](https://boz.com/) [Feed](https://boz.com/rss.xml)
 - Matt Birchtree [URL](https://birchtree.me/) [Feed](https://birchtree.me/rss/)
 - The Sweet Setup [URL](https://thesweetsetup.com/) [Feed](https://thesweetsetup.com/feed/)
 - AB Drysdale [URL](https://abdrysdale.phd/) [Feed](https://abdrysdale.phd/feed.xml)
 - Gabz/mL [URL](https://gabz.blog/) [Feed](https://gabz.blog/feed.json)
+
 <!-- blogroll_marker ends -->
