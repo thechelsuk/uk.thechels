@@ -11,6 +11,7 @@ date: 2026-07-09
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Thursday, 09 July 2026
 
 - The average temperature today is 20.45˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 70 days since the last change (2026-04-30)
 
@@ -33,40 +35,49 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Embrace uncertainty.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 135.30999755859375 
-- ^FTSE : 10489.0 
-- ^FTMC : 23017.599609375 
+- VWRL.L : 135.30999755859375
+- ^FTSE : 10489.0
+- ^FTMC : 23017.599609375
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > A candle delivery van crashed on the motorway last week, it had a blow out.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Justin Bieber joins Madonna, Shakira and BTS for FIFA World Cup first ever final halftime show (Euronews, [1 minutes ago](http://www.euronews.com/culture/2026/07/09/justin-bieber-joins-madonna-shakira-and-bts-for-fifa-world-cup-first-ever-final-halftime-s))
 - US carries out second day of strikes against Iran (FT, [29 minutes ago](https://www.ft.com/content/ea2d4977-b1d1-44e4-9645-e6d8cd226439))
 - Alentejo elephant sanctuary welcomes first resident (Euronews, [32 minutes ago](http://www.euronews.com/2026/07/09/alentejo-elephant-sanctuary-welcomes-first-resident))
@@ -108,7 +119,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > lubberly - adverb: Clumsily, awkwardly, or unskillfully. adjective: Clumsy, awkward, or unskilled; not seamanlike.
+> lubberly - adverb: Clumsily, awkwardly, or unskillfully. adjective: Clumsy, awkward, or unskilled; not seamanlike.
 
 <!-- word_marker ends -->
 
@@ -123,6 +134,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Tape your mouth (given by Ritva Saarikko)
 
 <!-- eno_marker ends -->
@@ -130,9 +142,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Into the Storm (Rated: 3)
 - Released in 2014
 - Summary: Storm trackers, thrill-seekers, and everyday townspeople document an unprecedented onslaught of tornadoes touching down in the town of Silverton.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -153,9 +167,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Herman [URL](https://herman.bearblog.dev/) [Feed](https://herman.bearblog.dev/feed/)
 - Robb Owen [URL](http://robbowen.digital/) [Feed](https://robbowen.digital/feed.xml)
 - Psych Chartered [URL](https://psychologychartered.co.uk/blog/) [Feed](https://psychologychartered.co.uk/blog/feed)
 - Marcin Wichary [URL](https://aresluna.org/) [Feed](https://aresluna.org/main.rss)
 - Aaron Randall [URL](https://aaronrandall.com/) [Feed](https://aaronrandall.com/feed/)
+
 <!-- blogroll_marker ends -->
