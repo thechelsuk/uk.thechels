@@ -9,6 +9,7 @@ release_id: tag:github.com,2008:Repository/1218287392/v2.2.6
 release_repo: homebridge-ysa2-plugin
 release_project: homebridge-ysa2-yale-alarm
 release_version: v2.2.6
+show:false
 ---
 
 No release notes were included for this release.
