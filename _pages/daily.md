@@ -11,6 +11,7 @@ date: 2026-07-11
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Saturday, 11 July 2026
 
 - The average temperature today is 18.99˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 71 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Water the plants
 
 <!-- task_marker ends -->
@@ -40,37 +43,44 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Bias towards action.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 137.16000366210938 
-- ^FTSE : 10497.2998046875 
-- ^FTMC : 23371.400390625 
+- VWRL.L : 137.16000366210938
+- ^FTSE : 10497.2998046875
+- ^FTMC : 23371.400390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > I am going to start looking for jobs with yoghurt companies as I hear they have a great culture.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Spain score late winner to beat Belgium and set up clash with France (Euronews, [13 minutes ago](http://www.euronews.com/2026/07/11/spain-score-late-winner-to-beat-belgium-and-set-up-clash-with-france))
 - Travel like an F1 driver: Esteban Ocon reveals his favourite holiday spots ahead of the summer break (Euronews, [59 minutes ago](http://www.euronews.com/travel/2026/07/11/travel-like-an-f1-driver-esteban-ocon-reveals-his-favourite-holiday-spots-ahead-of-the-sum))
-- Latest news bulletin  July 11th, 2026 – Morning (Euronews, [59 minutes ago](http://www.euronews.com/video/2026/07/11/latest-news-bulletin-july-11th-2026-morning))
+- Latest news bulletin July 11th, 2026 – Morning (Euronews, [59 minutes ago](http://www.euronews.com/video/2026/07/11/latest-news-bulletin-july-11th-2026-morning))
 - After oat milk, Europe turns to pea milk: the Greek scientist leading the way (Euronews, [59 minutes ago](http://www.euronews.com/health/2026/07/11/after-oat-milk-europe-turns-to-pea-milk-the-greek-scientist-leading-the-way))
 - ‘I froze my pyjamas’: What Europeans can do to cool down without air con – and what actually works (Euronews, [59 minutes ago](http://www.euronews.com/2026/07/11/i-froze-my-pyjamas-what-europeans-can-do-to-cool-down-without-air-con-and-what-actually-wo))
 - Europe's top holiday destinations compared: Where are food, drinks and hotels cheapest? (Euronews, [1 hours ago](http://www.euronews.com/business/2026/07/11/europes-top-holiday-destinations-compared-where-are-food-drinks-and-hotels-cheapest))
@@ -109,7 +119,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > nigh - adverb: Nearly; almost. adjective: Near. preposition: Near.
+> nigh - adverb: Nearly; almost. adjective: Near. preposition: Near.
 
 <!-- word_marker ends -->
 
@@ -124,6 +134,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Give the game away
 
 <!-- eno_marker ends -->
@@ -131,9 +142,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - The Eye II Tae (Rated: 8)
 - Released in 2004
 - Summary: No summary available
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -154,9 +167,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Shekhar Gulati [URL](https://shekhargulati.com/) [Feed](https://shekhargulati.com/feed/)
 - Data Goddess [URL](https://sparklineadvisory.com/) [Feed](http://thedatagoddess.com/feed/)
 - Steven Breckinridge [URL](https://stuartbreckenridge.net/) [Feed](https://stuartbreckenridge.net/rss.xml)
 - Léonie Watson [URL](https://tink.uk/) [Feed](https://tink.uk/feed.xml)
 - Non-zero Sum [URL](https://nonzerosum.games/) [Feed](https://nonzerosum.games/rss.xml)
+
 <!-- blogroll_marker ends -->
