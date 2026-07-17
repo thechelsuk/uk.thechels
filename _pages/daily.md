@@ -11,6 +11,7 @@ date: 2026-07-17
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Friday, 17 July 2026
 
 - The average temperature today is 16.35˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 77 days since the last change (2026-04-30)
 
@@ -33,46 +35,55 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Crossing the river by feeling the stones.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Eldense v Millwall
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 136.0500030517578 
-- ^FTSE : 10572.2001953125 
-- ^FTMC : 23715.80078125 
+- VWRL.L : 136.0500030517578
+- ^FTSE : 10572.2001953125
+- ^FTMC : 23715.80078125
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > The sun came first and was absolutely beaming. The whole thing was overshadowed by the Uranus.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - China ‘firmly opposes’ UK nationalisation of British Steel (Euronews, [24 minutes ago](http://www.euronews.com/business/2026/07/17/china-firmly-opposes-uk-nationalisation-of-british-steel))
 - Chip and memory stocks slide in fresh bout of Wall Street tumult (FT, [26 minutes ago](https://www.ft.com/content/c92a5a36-55a0-4d04-b84c-d1705976987b?syn-25a6b1a6=1))
 - ‘China’s model is flawed’: top MEP says trade pressure could test Beijing’s stability (Euronews, [30 minutes ago](http://www.euronews.com/my-europe/2026/07/17/chinas-model-is-flawed-top-mep-warns-trade-pressure-could-test-beijings-stability))
 - ‘Almost one in three people cannot afford a healthy diet’, UN warns (Euronews, [1 hours ago](http://www.euronews.com/health/2026/07/17/almost-one-in-three-people-cannot-afford-a-healthy-diet-un-warns))
 - The empty middle seat: A perk that every economy passenger hopes for when flying (Euronews, [1 hours ago](http://www.euronews.com/travel/2026/07/17/the-empty-middle-seat-a-perk-that-every-economy-passenger-hopes-for-when-flying))
-- Latest news bulletin  July 17th, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/07/17/latest-news-bulletin-july-17th-2026-morning))
+- Latest news bulletin July 17th, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/07/17/latest-news-bulletin-july-17th-2026-morning))
 - 'The tide is turning': Inside Ursula von der Leyen's trip to Kyiv (Euronews, [1 hours ago](http://www.euronews.com/my-europe/2026/07/17/the-tide-is-turning-inside-ursula-von-der-leyens-trip-to-kyiv))
 - US strikes Iranian civilian infrastructure, Tehran retaliates with attacks on US facilities in Gulf (Euronews, [1 hours ago](http://www.euronews.com/2026/07/17/us-strikes-iranian-civilian-infrastructure-tehran-retaliates-with-attacks-on-us-facilities))
 - Real wages are still below 2021 levels in a third of European countries analysed (Euronews, [1 hours ago](http://www.euronews.com/business/2026/07/17/real-wages-are-still-below-2021-levels-in-a-third-of-european-countries-analysed))
@@ -105,7 +116,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > gamy - adjective: 1. Having the flavor or odor of game, especially game meat. 2. Having the flavor or odor of meat kept until slightly tainted. 3. Ill-smelling; rank. 4. Sordid, seamy, corrupt, or disreputable. 5. Suggestive or racy. 6. Plucky or spirited.
+> gamy - adjective: 1. Having the flavor or odor of game, especially game meat. 2. Having the flavor or odor of meat kept until slightly tainted. 3. Ill-smelling; rank. 4. Sordid, seamy, corrupt, or disreputable. 5. Suggestive or racy. 6. Plucky or spirited.
 
 <!-- word_marker ends -->
 
@@ -120,6 +131,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Use an old idea
 
 <!-- eno_marker ends -->
@@ -127,9 +139,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Blubber (Rated: 2)
 - Released in 2007
 - Summary: It is the simplest thing in life. It needs no experience and there is no trick to it. When it comes down to the point all it needs is a little bit of faith. Either you dare or you don't.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -150,9 +164,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Andy Bell [URL](https://bell.bz/) [Feed](https://bell.bz/feed.xml)
 - Castro [URL](https://castro.fm/) [Feed](https://castro.fm/feed.rss)
 - WAGNH [URL](https://weaintgotnohistory.sbnation.com/) [Feed](https://weaintgotnohistory.sbnation.com/rss/index.xml)
 - Terry Godier (blog) [URL](https://blog.terrygodier.com/) [Feed](https://blog.terrygodier.com/feed.xml)
 - Dan Q [URL](https://danq.me/) [Feed](https://danq.me/feed/)
+
 <!-- blogroll_marker ends -->
