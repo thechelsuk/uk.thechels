@@ -11,6 +11,7 @@ date: 2026-07-23
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Thursday, 23 July 2026
 
 - The average temperature today is 15.18˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 84 days since the last change (2026-04-30)
 
@@ -33,19 +35,25 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Design for constant evolution.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
+
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -61,19 +69,22 @@ _Good Morning, Here is your daily briefing..._
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Why did the blues man cross the road? To get from A to B#7
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Europe Today: Latvian PM Andris Kulbergs speaks exclusively to Euronews as Rubio meets Lavrov (Euronews, [10 minutes ago](http://www.euronews.com/my-europe/2026/07/23/europe-today-latvian-pm-andris-kulbergs-speaks-exclusively-to-euronews-as-rubio-meets-lavr))
 - How to be a bull on the S&P 500 (FT, [41 minutes ago](https://www.ft.com/content/b3e67789-9470-47c1-b984-a3e9c8d731a1?syn-25a6b1a6=1))
 - Flash in the pants: Lamine Yamal's 6PM German boxer shorts go viral after World Cup appearance (Euronews, [1 hours ago](http://www.euronews.com/culture/2026/07/23/flash-in-the-pants-lamine-yamals-6pm-german-boxer-shorts-go-viral-after-world-cup-appearan))
 - Senior White House official claims China’s K3 model stolen from Anthropic (Register, [1 hours ago](https://www.theregister.com/ai-and-ml/2026/07/23/senior-white-house-official-claims-chinas-k3-model-stolen-from-anthropic/5276804))
 - What is climate gentrification? Why house prices are rising outside of Europe's city centres (Euronews, [1 hours ago](http://www.euronews.com/2026/07/23/what-is-climate-gentrification-why-house-prices-are-rising-outside-of-europes-city-centres))
 - Cost of pay gap in the EU: Women earn €3,900 less than men a year (Euronews, [1 hours ago](http://www.euronews.com/business/2026/07/23/cost-of-pay-gap-in-the-eu-women-earn-3900-less-than-men-a-year))
-- Latest news bulletin  July 23rd, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/07/23/latest-news-bulletin-july-23rd-2026-morning))
+- Latest news bulletin July 23rd, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/07/23/latest-news-bulletin-july-23rd-2026-morning))
 - Love aviation and geography? Give these flight and city guessing games a go (Euronews, [1 hours ago](http://www.euronews.com/travel/2026/07/23/love-aviation-and-geography-give-these-flight-and-city-guessing-games-a-go))
 - Iran-backed Houthis attack two Saudi Arabian oil tankers (FT, [1 hours ago](https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926))
 - Houthis claim strikes on Red Sea oil tankers as US continues attacks on Iran (Euronews, [2 hours ago](http://www.euronews.com/2026/07/23/yemen-houthis-claim-strikes-on-two-saudi-oil-tankers-in-red-sea))
@@ -107,7 +118,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > bellwether - noun: 1. An indicator of future trends. 2. A leader or trendsetter.
+> bellwether - noun: 1. An indicator of future trends. 2. A leader or trendsetter.
 
 <!-- word_marker ends -->
 
@@ -122,6 +133,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > What is the reality of the situation?
 
 <!-- eno_marker ends -->
@@ -129,9 +141,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Uncharted (Rated: 3)
 - Released in 2022
 - Summary: Street-smart Nathan Drake is recruited by seasoned treasure hunter Victor "Sully" Sullivan to recover a fortune amassed by Ferdinand Magellan, and lost 500 years ago by the House of Moncada.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -152,9 +166,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Boz [URL](https://boz.com/) [Feed](https://boz.com/rss.xml)
 - Max Stoiber [URL](https://mxstbr.com/) [Feed](https://mxstbr.com/rss)
 - Jenn Schiffer [URL](https://livelaugh.blog/) [Feed](https://livelaugh.blog/rss.xml)
 - Léonie Watson [URL](https://tink.uk/) [Feed](https://tink.uk/feed.xml)
 - Jake Archibald [URL](https://jakearchibald.com/) [Feed](https://jakearchibald.com/posts.rss)
+
 <!-- blogroll_marker ends -->
