@@ -8,7 +8,7 @@ cited: Olly
 type: linked
 ---
 
-> **AI-sphyxiation** /ˌeɪ aɪ sfɪksiˈeɪʃən/ _(AY-eye sfik-see-AY-shən)_  
+> **AI-sphyxiation** /ˌeɪ aɪ sfɪksiˈeɪʃən/ _(AY-eye sfik-see-AY-shən)_
 > noun
 >
 > The gradual suffocation of otherwise useful products by unwanted and unwarranted AI features.
