@@ -33,9 +33,9 @@ For compounding growth I assume a modest 4% return after inflation of 2.5%, so i
 
 The only calculation I need to consider now is how much money is in my ISA and how many years of living expenses can it sustain. At the moment it appears to be about 9 years, so this would put my retirement at 49.
 
-__*I've run this through a simulation of historical events and market returns and it's successful in that I don't run out of money in 93% of 311 scenarios with a pessimistic outlook. I end up with a surplus in low, median and high outlooks, in which I earn more from investment growth than I need to spend. For the high level the surplus was in the millions but in reality, this would likely be reflected in an increased level of discretionary spending and gifting.*__
+**_I've run this through a simulation of historical events and market returns and it's successful in that I don't run out of money in 93% of 311 scenarios with a pessimistic outlook. I end up with a surplus in low, median and high outlooks, in which I earn more from investment growth than I need to spend. For the high level the surplus was in the millions but in reality, this would likely be reflected in an increased level of discretionary spending and gifting._**
 
-So, what's this __Coast__ thing about then?
+So, what's this **Coast** thing about then?
 
 Well, given my investments and the time in the market before I need to draw down some to spend, I have no need to contribute further to my pensions. I therefore don't need to have surplus income from my salary to pay into my vehicles, so I can coast in my career and find a role that pays enough to cover today's costs, hopefully a role that means less stress or pressure and fewer hours to enjoy life with the family.
 
@@ -43,4 +43,4 @@ In reality, though, my intention would be to keep that surplus and use that to f
 
 There are several variations of this FIRE theme. Barista FIRE is a subset where the only income needed is by an effective low-paid job in a coffee shop or garden centre - providing enough to cover some spending whilst the investments are already doing the heavy lifting. Fat FIRE, as it sounds, is the fat cat of retirement where the funds are far more than are needed and would lead to a high level of discretionary spending. Lean FIRE is the opposite and would be a very modest retirement lifestyle.
 
-__*I am not a financial advisor and this is not financial advice. I am simply sharing my own personal journey and experience. Please seek professional advice before making any financial decisions. This documents the known rules and dates and could be subject to change in the future.*__
+**_I am not a financial advisor and this is not financial advice. I am simply sharing my own personal journey and experience. Please seek professional advice before making any financial decisions. This documents the known rules and dates and could be subject to change in the future._**
