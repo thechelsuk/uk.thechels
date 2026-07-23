@@ -43,4 +43,4 @@ In reality, though, my intention would be to keep that surplus and use that to f
 
 There are several variations of this FIRE theme. Barista FIRE is a subset where the only income needed is by an effective low-paid job in a coffee shop or garden centre - providing enough to cover some spending whilst the investments are already doing the heavy lifting. Fat FIRE, as it sounds, is the fat cat of retirement where the funds are far more than are needed and would lead to a high level of discretionary spending. Lean FIRE is the opposite and would be a very modest retirement lifestyle.
 
-**_I am not a financial advisor and this is not financial advice. I am simply sharing my own personal journey and experience. Please seek professional advice before making any financial decisions. This documents the known rules and dates and could be subject to change in the future._**
+**_I am not a financial advisor and this is not financial advice. I am simply sharing my own personal journey and experience. Please seek professional advice before making any financial decisions. This documents the currently known rules, dates, ages, and could be subject to change in the future._**
