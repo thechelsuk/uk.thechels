@@ -1,11 +1,9 @@
 ---
-
 layout: post
 date: 2026-07-24 23:00
 title: Film Club Friday for July-2026
 syndicate: false
 type: film
-
 ---
 
 Newly watched films:
