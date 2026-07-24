@@ -11,6 +11,7 @@ date: 2026-07-24
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Friday, 24 July 2026
 
 - The average temperature today is 15.79˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 84 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Farmers Market in town
 
 <!-- task_marker ends -->
@@ -40,35 +43,42 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Design for constant evolution.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Derby County v SC Freiburg
 - Rosenborg v Manchester United
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 135.22999572753906 
-- ^FTSE : 10639.2001953125 
-- ^FTMC : 23627.30078125 
+- VWRL.L : 135.22999572753906
+- ^FTSE : 10639.2001953125
+- ^FTMC : 23627.30078125
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > A former girlfriend, who was a pyromaniac, tried to reignite our relationship. She was an old flame, but I was able to blow her off.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Spain coach slams Argentina's World Cup final behaviour as 'unacceptable’ (Euronews, [1 minutes ago](http://www.euronews.com/2026/07/24/spain-coach-slams-argentinas-world-cup-final-behaviour-as-unacceptable))
 - The majority of AI jobs now sit outside technological occupations in Europe (Euronews, [6 minutes ago](http://www.euronews.com/business/2026/07/24/the-majority-of-ai-jobs-now-sit-outside-technological-occupations-in-europe))
 - ‘Less than a minute of your time’: Driving the speed limit could save you money and cut emissions (Euronews, [6 minutes ago](http://www.euronews.com/2026/07/24/less-than-a-minute-of-your-time-driving-the-speed-limit-could-save-you-money-and-cut-emiss))
@@ -76,7 +86,7 @@ _Good Morning, Here is your daily briefing..._
 - Europe Today: Trump imposes new tariffs as EU agrees fresh sanctions on Russia (Euronews, [10 minutes ago](http://www.euronews.com/my-europe/2026/07/24/europe-today-trump-imposes-new-tariffs-as-eu-agrees-fresh-sanctions-on-russia))
 - Safeguards for new EU members need objective criteria, Montenegro's ambassador says (Euronews, [1 hours ago](http://www.euronews.com/my-europe/2026/07/24/safeguards-for-new-eu-members-need-objective-criteria-montenegros-ambassador-says))
 - 'Respect the City': How Dubrovnik is managing overtourism without losing its charm (Euronews, [1 hours ago](http://www.euronews.com/travel/2026/07/24/respect-the-city-how-dubrovnik-is-managing-overtourism-without-losing-its-charm))
-- Latest news bulletin  July 24th, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/07/24/latest-news-bulletin-july-24th-2026-morning))
+- Latest news bulletin July 24th, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/07/24/latest-news-bulletin-july-24th-2026-morning))
 - Chaotic sanctions negotiations expose cracks in EU front versus Russia (Euronews, [1 hours ago](http://www.euronews.com/my-europe/2026/07/24/chaotic-sanctions-negotiations-expose-cracks-in-eu-front-versus-russia))
 - Could the UK’s ‘radical’ new energy secretary put a stop to North Sea Drilling for good? (Euronews, [1 hours ago](http://www.euronews.com/2026/07/24/could-the-uks-radical-new-energy-secretary-put-a-stop-to-north-sea-drilling-for-good))
 - US hits 60 countries with new duties as Trump rebuilds tariff wall (FT, [1 hours ago](https://www.ft.com/content/078269b4-5518-4289-b90a-dd722fd7e703?syn-25a6b1a6=1))
@@ -109,7 +119,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > echinate - adjective: Spiny or bristly.
+> echinate - adjective: Spiny or bristly.
 
 <!-- word_marker ends -->
 
@@ -124,6 +134,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Are there sections? Consider transitions
 
 <!-- eno_marker ends -->
@@ -131,9 +142,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Bosque De Sombras (Rated: 5)
 - Released in 2006
 - Summary: N/A
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -154,9 +167,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Fun Retrospectives [URL](https://www.funretrospectives.com/) [Feed](http://www.funretrospectives.com/feed/)
 - Information is Beautiful [URL](https://informationisbeautiful.net/) [Feed](http://feeds.feedburner.com/InformationIsBeautiful)
 - Graham Cluley [URL](https://grahamcluley.com/) [Feed](http://feeds.feedburner.com/GrahamCluleysBlog)
 - Anna Shipman [URL](https://www.annashipman.co.uk/) [Feed](https://www.annashipman.co.uk/atom.xml)
 - Alice Bartlett [URL](https://alicebartlett.co.uk/) [Feed](https://alicebartlett.co.uk/feed.xml)
+
 <!-- blogroll_marker ends -->
