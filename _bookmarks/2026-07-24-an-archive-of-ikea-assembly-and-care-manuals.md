@@ -8,5 +8,3 @@ layout: bookmark
 ---
 
 > Sorted by brand and article number this resource has all the assembly manuals for Ikea products
-
-Date: 2026-07-21 17:52
