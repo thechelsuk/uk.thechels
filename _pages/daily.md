@@ -11,6 +11,7 @@ date: 2026-09-07
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Monday, 07 September 2026
 
 - The average temperature today is 20.84˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 130 days since the last change (2026-04-30)
 
@@ -33,40 +35,49 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Inspire others
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Bromley v AFC Wimbledon
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 139.77000427246094 
-- ^FTSE : 10839.8203125 
-- ^FTMC : 24570.0703125 
+- VWRL.L : 139.77000427246094
+- ^FTSE : 10839.8203125
+- ^FTMC : 24570.0703125
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Why did the crab cross the road? It just followed the sidewalk.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - China pumps $54bn into banks and insurers (FT, [14 minutes ago](https://www.ft.com/content/8012b60e-c74e-49bc-9200-d37f13b4a135?syn-25a6b1a6=1))
 - Clowns take over the streets of Brazil’s historic Mariana (Euronews, [20 minutes ago](http://www.euronews.com/video/2026/09/07/clowns-take-over-the-streets-of-brazils-historic-mariana))
 - ‘You Can See Everything’: Top secret Elizabeth Holmes documentary unveiled (Euronews, [26 minutes ago](http://www.euronews.com/culture/2026/09/07/you-can-see-everything-top-secret-elizabeth-holmes-documentary-unveiled))
@@ -106,7 +117,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > stuporous - adjective: Dazed, sluggish, or barely responsive.
+> stuporous - adjective: Dazed, sluggish, or barely responsive.
 
 <!-- word_marker ends -->
 
@@ -121,19 +132,22 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Intentions
--credibility of
--nobility of
--humility of
+> -credibility of
+> -nobility of
+> -humility of
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Cursed (Rated: 5)
 - Released in 2005
 - Summary: A werewolf loose in Los Angeles changes the lives of three young adults who, after being mauled by the beast, learn they must kill it in order to avoid becoming werewolves themselves.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -154,9 +168,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Successful Software [URL](https://successfulsoftware.net/) [Feed](https://successfulsoftware.net/feed/)
 - Dave Rupert [URL](https://daverupert.com/) [Feed](https://daverupert.com/atom.xml)
 - ME Association [URL](https://meassociation.org.uk/) [Feed](https://meassociation.org.uk/feed/)
 - Chronosaur.us [URL](https://chronosaur.us/) [Feed](https://chronosaur.us/feed/)
 - Dan North [URL](https://dannorth.net/) [Feed](http://DanNorth.net/index.xml)
+
 <!-- blogroll_marker ends -->
