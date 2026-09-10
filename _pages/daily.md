@@ -11,6 +11,7 @@ date: 2026-09-10
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Thursday, 10 September 2026
 
 - The average temperature today is 16.49˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 133 days since the last change (2026-04-30)
 
@@ -33,41 +35,50 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Use a common language.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Stevenage v Luton Town
 - Manchester United v Sabah FC
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 138.1929931640625 
-- ^FTSE : 10623.9501953125 
-- ^FTMC : 24016.310546875 
+- VWRL.L : 138.1929931640625
+- ^FTSE : 10623.9501953125
+- ^FTMC : 24016.310546875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > I am going to start looking for jobs with yoghurt companies as I hear they have a great culture.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Formula 1 sends Madrid holiday rents soaring: up to €20,000 near circuit (Euronews, [2 minutes ago](http://www.euronews.com/business/2026/09/10/formula-1-sends-madrid-holiday-rents-soaring-up-to-20000-near-circuit))
 - Portuguese economist Ricardo Reis dropped by IMF after criticising Trump tariffs (Euronews, [6 minutes ago](http://www.euronews.com/business/2026/09/10/portuguese-economist-ricardo-reis-dropped-by-imf-after-criticising-trump-tariffs))
 - ‘Clean energy is the surest path’: Europe should be leading the energy transition, says UN executive (Euronews, [9 minutes ago](http://www.euronews.com/2026/09/10/clean-energy-is-the-surest-path-europe-should-be-leading-the-energy-transition-says-un-exe))
@@ -116,7 +127,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > macilent - adjective: 1. Lean or emaciated. 2. Lacking in substance.
+> macilent - adjective: 1. Lean or emaciated. 2. Lacking in substance.
 
 <!-- word_marker ends -->
 
@@ -131,6 +142,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Do we need holes?
 
 <!-- eno_marker ends -->
@@ -138,9 +150,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - White Noise I (Rated: 5)
 - Released in 2005
 - Summary: N/A
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -161,9 +175,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - The 5k Runner [URL](https://the5krunner.com/) [Feed](http://the5krunner.com/feed/)
 - Gordon McLean [URL](https://www.gordonmclean.co.uk/) [Feed](https://www.gordonmclean.co.uk/feed/)
 - Geoff Graham [URL](https://geoffgraham.me/) [Feed](https://geoffgraham.me/feed)
 - Harry Roberts [URL](https://csswizardry.com/) [Feed](https://csswizardry.com/feed)
 - Aaron Randall [URL](https://aaronrandall.com/) [Feed](https://aaronrandall.com/feed/)
+
 <!-- blogroll_marker ends -->
