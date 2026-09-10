@@ -5,7 +5,7 @@ type: blog
 date: 2026-08-26 21:00
 seo: "A Chronic Pain Ability Determination (CPAD) assessment is designed to test whether you're fit to work, usually at the request of an insurer that wants to verify, stop, or reduce a payout."
 tags:
-  - ME
+  - me
 syndicate:
   - mastodon
   - bluesky

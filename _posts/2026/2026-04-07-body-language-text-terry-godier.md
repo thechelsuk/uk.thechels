@@ -6,7 +6,7 @@ cited: Terry Godier
 link: https://www.terrygodier.com/body-language/ascii
 layout: post
 tags:
-  - ME
+  - me
 ---
 
 On the flip side to Terry Godier's recent post about the (body) language of communication, where the time is on the creation. People need time on receipt to understand, contemplate, and act. If the outcome is to act and the action is to reply, then the clock restarts.
