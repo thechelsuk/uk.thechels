@@ -1,7 +1,7 @@
 ---
 title: New app versions with apple
 date: 2026-09-10
-layout: Post
+layout: Posts
 type: Micro
 syndicate: [Mastodon, bluesky, textlog]
 ---
