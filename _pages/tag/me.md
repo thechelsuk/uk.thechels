@@ -5,7 +5,7 @@ seo: "ME - Personal blog posts on ME/CFS: symptoms, pacing, post-exertional mala
 tagged: ME
 permalink: /tag/me
 redirect_from:
-  - /tag/me
+  - /tag/ME
 date: 2026-01-01
 ---
 
