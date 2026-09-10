@@ -8,6 +8,7 @@ syndicate:
   - textlog
 date: 2026-08-11 11:27
 type: micro
+robots: noindex
 i_type: note
 i_url: ""
 ---

@@ -75,6 +75,11 @@ defaults:
       type: "posts"
     values:
       syndicate: false
+  - scope:
+      path: ""
+      type: "bookmarks"
+    values:
+      robots: "noindex"
 plugins:
   - jekyll-avatar
   - jekyll-github-metadata

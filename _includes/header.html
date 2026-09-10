@@ -8,14 +8,13 @@
     {% assign profile_description = page.seo | default: post.seo | default: page.title | default: post.title %}
     <meta name="description" content="{{ profile_description }} | {{ site.title }} by thechelsuk">
 
-    {% if page.robots %}
-    <!-- page -->
-    <meta name="robots" content="{{ page.robots }}">
-    {% elsif post.robots %}
-    <!-- post -->
-    <meta name="robots" content="{{ post.robots }}">
+    {% assign robots = page.robots %}
+    {% if robots == nil and page.type == 'micro' %}
+    {% assign robots = 'noindex' %}
+    {% endif %}
+    {% if robots %}
+    <meta name="robots" content="{{ robots }}">
     {% else %}
-    <!-- default -->
     <meta name="robots" content="index,follow">
     {% endif %}
 

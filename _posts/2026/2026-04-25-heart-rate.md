@@ -4,6 +4,7 @@ date: 2026-04-25 16:07
 title: Heart Rate
 robots: noindex
 type: micro
+robots: noindex
 syndicate:
   - mastodon
   - bluesky

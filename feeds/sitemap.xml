@@ -34,7 +34,7 @@ permalink: /sitemap.xml
     </url>
   {% endfor %}
   <!-- posts-->
-{% assign posts = site.posts | where_exp: "post", "post.type != 'daily'" %}
+{% assign posts = site.posts | where_exp: "post", "post.robots != 'noindex'" %}
   {% for post in posts %}
   <url>
     <loc>{{ site.url }}{{ post.url }}</loc>

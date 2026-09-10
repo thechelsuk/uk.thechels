@@ -4,6 +4,7 @@ title: "Patiently waiting for Apple"
 date: 2026-08-02 21:42
 robots: noindex
 type: micro
+robots: noindex
 syndicate:
   - mastodon
   - bluesky

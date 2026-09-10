@@ -4,6 +4,7 @@ date: 2026-05-13 20:14
 title: What can you buy with a £5m donation
 robots: noindex
 type: micro
+robots: noindex
 syndicate:
   - mastodon
   - bluesky

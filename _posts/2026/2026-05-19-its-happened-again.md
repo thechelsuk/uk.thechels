@@ -4,6 +4,7 @@ title: "It's happened again"
 date: 2026-05-19 21:11
 robots: noindex
 type: micro
+robots: noindex
 syndicate:
   - mastodon
   - bluesky
