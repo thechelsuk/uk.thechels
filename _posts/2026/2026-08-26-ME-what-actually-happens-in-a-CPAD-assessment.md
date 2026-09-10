@@ -11,7 +11,7 @@ syndicate:
   - bluesky
 ---
 
-If you've been diagnosed with [ME (myalgic encephalomyelitis)](https://thechels.uk/tag/ME), you may already know that a lack of treatment and dead ends for support are common. Where insurance is concerned - a benefit from my employer in this case. A Chronic Pain Ability Determination (CPAD) assessment is designed to test whether you're fit to work, usually at the request of an insurer that wants to verify, stop, or reduce a payout.
+If you've been diagnosed with [ME (myalgic encephalomyelitis)](https://thechels.uk/tag/me), you may already know that a lack of treatment and dead ends for support are common. Where insurance is concerned - a benefit from my employer in this case. A Chronic Pain Ability Determination (CPAD) assessment is designed to test whether you're fit to work, usually at the request of an insurer that wants to verify, stop, or reduce a payout.
 
 I've written before about my [ME diagnosis](/disability) but going into these sessions I've had about a month of spontaneous remission from severe levels to what I'd now call mild or near-recovered, aside from ongoing autonomic dysfunction and some sleep issues.
 
