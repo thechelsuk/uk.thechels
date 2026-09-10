@@ -9,9 +9,6 @@
     <meta name="description" content="{{ profile_description }} | {{ site.title }} by thechelsuk">
 
     {% assign robots = page.robots %}
-    {% if robots == nil and page.type == 'micro' %}
-    {% assign robots = 'noindex' %}
-    {% endif %}
     {% if robots %}
     <meta name="robots" content="{{ robots }}">
     {% else %}
