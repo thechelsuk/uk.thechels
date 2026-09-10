@@ -32,4 +32,4 @@ What I've been listening to this month.
 19. Suffocation Blues - Black Pistol Fire
 20. Maleficio - Guadalupe Plata
 
-You can listen along on [Apple Music here](https://music.apple.com/profile/thechelsuk) as well as see the [archive here](/archives/mixtapes).
+You can listen along on [Apple Music here](https://music.apple.com/profile/thechelsuk) as well as see the [archive here](/archives/mixtape).

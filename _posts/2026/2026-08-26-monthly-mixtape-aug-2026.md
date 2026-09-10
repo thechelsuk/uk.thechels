@@ -31,4 +31,4 @@ What I've been listening to this month.
 16. Feathers - Coheed and Cambria
 17. The Curious Village - Skywatchers
 
-You can listen along on [Apple Music here](https://music.apple.com/profile/thechelsuk) as well as see the [archive here](/archives/mixtapes).
+You can listen along on [Apple Music here](https://music.apple.com/profile/thechelsuk) as well as see the [archive here](/archives/mixtape).

@@ -27,7 +27,7 @@ That all said and done, lets look at the options once the ISA is filled.
 
 First up is Premium Bonds, there is a limit of £50k per person, so giving money to the spouse, if applicable, means a household could see £100k. It's also protected by NS&I so as safe as money can be. Assuming average luck you might win tax free prizes[^1] from the monthly prize draws up to £1m.
 
-There is no guaranteed savings rate[^1], but it's a good protected place to hold cash, perhaps this forms part of your retirement strategy to [avoid selling out of the market during a down turn](/sequencing-risk).
+There is no guaranteed savings rate[^1], but it's a good protected place to hold cash, perhaps this forms part of your retirement strategy to [avoid selling out of the market during a down turn](/what-is-sequencing-risk).
 
 ## Spouse's ISA
 

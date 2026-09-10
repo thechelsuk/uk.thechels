@@ -42,4 +42,4 @@ What I've been listening to this month.
 31. British Bombs - Declan McKenna
 32. By the Sea - Suede
 
-You can listen along on [Apple Music here](https://music.apple.com/profile/thechelsuk) as well as see the [archive here](/archives/mixtapes).
+You can listen along on [Apple Music here](https://music.apple.com/profile/thechelsuk) as well as see the [archive here](/archives/mixtape).

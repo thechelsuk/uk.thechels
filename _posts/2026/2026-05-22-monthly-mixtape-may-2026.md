@@ -35,4 +35,4 @@ Really pleased to have had this playlist during a difficult month.
 21. Never Gonna Give You Up - The Black Keys
 22. Bigmouth Strikes Again - The Smiths
 
-You can listen along on [Apple Music here](https://music.apple.com/profile/thechelsuk) as well as see the [archive here](/archives/mixtapes).
+You can listen along on [Apple Music here](https://music.apple.com/profile/thechelsuk) as well as see the [archive here](/archives/mixtape).

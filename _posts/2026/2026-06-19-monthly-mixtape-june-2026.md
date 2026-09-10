@@ -32,4 +32,4 @@ What I've been listening to this month.
 20. Run, Gunner Recall, Run! The Town Wants You Dead! - The Prize Fighter Inferno
 21. Road - Bombay Bicycle Club, Nick Drake & The Staves
 
-You can listen along on [Apple Music here](https://music.apple.com/profile/thechelsuk) as well as see the [archive here](/archives/mixtapes).
+You can listen along on [Apple Music here](https://music.apple.com/profile/thechelsuk) as well as see the [archive here](/archives/mixtape).

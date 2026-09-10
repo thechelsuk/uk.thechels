@@ -13,7 +13,7 @@ type: wrench
 
 If you use NetNewsWire, you can use my themes as listed below. All themes are free and open source, and you can find the source code on GitHub. Just Click the link on your device that has NNW installed and follow the prompts to install the theme.
 
-Checkout the [releases archive](/archives/releases) for the latest versions and changelogs
+Checkout the [releases archive](/archives/release) for the latest versions and changelogs
 
 ## Theme Pack
 
