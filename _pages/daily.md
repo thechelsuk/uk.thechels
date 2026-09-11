@@ -11,6 +11,7 @@ date: 2026-09-11
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Friday, 11 September 2026
 
 - The average temperature today is 17.97˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 134 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Farmers Market in town
 
 <!-- task_marker ends -->
@@ -40,37 +43,44 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Seek the best.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - England Women U20 v Brazil Women U20
 - Tottenham Hotspur U21 v Derby County U21
 - Kidderminster Harriers v Hartlepool United
 - West Ham United v Wrexham
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 138.2899932861328 
-- ^FTSE : 10656.1904296875 
-- ^FTMC : 23963.390625 
+- VWRL.L : 138.2899932861328
+- ^FTSE : 10656.1904296875
+- ^FTMC : 23963.390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Where do they make facts? At the factory.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Emma Bonino dies at 78 after decades of political and human rights activism (Euronews, [5 minutes ago](https://www.euronews.com/my-europe/2026/09/11/emma-bonino-dies-at-78-after-decades-of-political-and-human-rights-activism))
 - Gaza documentary ‘NAZA’ wows Venice and breaks standing ovation record (Euronews, [7 minutes ago](https://www.euronews.com/culture/2026/09/11/gaza-documentary-naza-wows-venice-and-breaks-standing-ovation-record))
 - Healthcare is driving Sweden's election: Big promises, few easy fixes (Euronews, [11 minutes ago](https://www.euronews.com/health/2026/09/11/healthcare-is-driving-swedens-election-big-promises-few-easy-fixes))
@@ -111,7 +121,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > breviloquent - adjective: Using few words.
+> breviloquent - adjective: Using few words.
 
 <!-- word_marker ends -->
 
@@ -126,6 +136,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Infinitesimal gradations
 
 <!-- eno_marker ends -->
@@ -133,9 +144,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Luciferous (Rated: 4)
 - Released in 2015
 - Summary: A real family is targeted and manipulated by a malicious force determined to prove that every man, woman and child is at risk of malevolent possession.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -156,9 +169,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - MacSparky [URL](https://www.macsparky.com/) [Feed](http://www.macsparky.com/blog/rss.xml)
 - Peter Suhm [URL](https://petersuhm.com/) [Feed](https://petersuhm.com/feed/feed.xml)
 - Julien Dambron [URL](https://dambron.fr/) [Feed](https://dambron.fr/rss.xml)
 - Daring Fireball [URL](https://daringfireball.net/) [Feed](http://daringfireball.net/index.xml)
 - Caroline Crampton [URL](https://www.carolinecrampton.com/) [Feed](https://www.carolinecrampton.com/tag/blog/rss/)
+
 <!-- blogroll_marker ends -->
