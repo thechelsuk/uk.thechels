@@ -5,7 +5,8 @@ link: https://www.gov.uk/government/news/boost-in-support-for-patients-with-chro
 title: Boost in support for patients with chronic fatigue syndrome or ME
 type: linked
 cited: Gov.uk
-tags: [ME]
+tags:
+  - me
 ---
 
 > The plan published today provides the foundations for significant improvements in all key areas that affect people living with ME/CFS in England, many of whom currently struggle to access appropriate care tailored to their complex condition.

@@ -5,7 +5,8 @@ link: https://www.gov.uk/government/news/covid-fraud-cost-uk-taxpayer-109-billio
 title: Covid fraud cost UK taxpayer £10.9 billion
 type: linked
 cited: Gov.uk
-tags: [ME]
+tags:
+  - me
 ---
 
 Any chance some recouped money could go to ME & Long Covid research?

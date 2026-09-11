@@ -5,7 +5,8 @@ link: https://www.theguardian.com/politics/2026/mar/29/disabled-benefit-claimant
 title: Disabled people face lower benefits if not lifelong
 type: linked
 cited: The Guardian
-tags: [ME]
+tags:
+  - me
 ---
 
 Ludicrous. As if pushing people into poverty is any indication of improving health outcomes.

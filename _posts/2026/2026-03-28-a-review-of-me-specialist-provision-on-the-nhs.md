@@ -2,7 +2,8 @@
 layout: post
 date: 2026-03-28 13:00
 title: A Review of ME specialist provision on the NHS
-tags: [ME]
+tags:
+  - me
 
 type: blog
 ---

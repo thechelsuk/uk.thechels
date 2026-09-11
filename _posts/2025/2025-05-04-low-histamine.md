@@ -2,7 +2,8 @@
 layout: post
 title: "5-Day Low Histamine Vegan Meal Plan"
 date: 2025-05-04
-tags: [ME]
+tags:
+  - me
 seo: "A carefully crafted 5-day meal plan combining low histamine and a vegan diet."
 type: blog
 ---

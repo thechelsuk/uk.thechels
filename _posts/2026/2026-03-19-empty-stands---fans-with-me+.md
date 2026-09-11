@@ -5,7 +5,8 @@ link: https://emptystands.me/en/
 title: Empty Stands - Fans with ME+
 type: linked
 cited: Empty Stands
-tags: [ME]
+tags:
+  - me
 ---
 
 Love this.

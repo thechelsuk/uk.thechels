@@ -6,7 +6,8 @@ type: linked
 cited: Institute of Genetics and Cancer
 link: "https://institute-genetics-cancer.ed.ac.uk/incidence-of-me-peaks-in-adolescence-or-early-middle-age"
 seo: "Researchers have found strong evidence that people are most likely to develop ME/CFS at two points in life"
-tags: [ME]
+tags:
+  - me
 ---
 
 > The study, led by researchers at the Institute of Genetics and Cancer, examined survey data from more than 9,000 people with Myalgic Encephalomyelitis or Chronic Fatigue Syndrome (ME/CFS) across ten European countries.

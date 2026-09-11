@@ -5,7 +5,8 @@ link: https://meassociation.org.uk/2025/07/gov-uk-issues-a-press-release-that-th
 title: Gov.UK Issues Presser on ME/CFS Delivery Plan
 type: linked
 cited: ME Association
-tags: [ME]
+tags:
+  - me
 ---
 
 > The Delivery plan has been published, however, the Department of Health and Social Care (DHSC) has so far failed to provide a link to the actual Plan!

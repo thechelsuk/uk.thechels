@@ -77,7 +77,7 @@ There is a blood test, although often inconclusive and can frequently be a false
 
 ## Resources
 
-[Read more blog posts about ME](/tag/ME)
+[Read more blog posts about ME](/tag/me)
 
 ### ME Resources
 

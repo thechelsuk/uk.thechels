@@ -2,7 +2,8 @@
 layout: post
 date: 2025-08-12
 title: Quoting Reddit user on giving up work
-tags: [ME]
+tags:
+  - me
 
 type: blog
 ---
