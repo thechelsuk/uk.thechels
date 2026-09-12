@@ -11,6 +11,7 @@ date: 2026-09-12
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Saturday, 12 September 2026
 
 - The average temperature today is 16.63˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 135 days since the last change (2026-04-30)
 
@@ -33,18 +35,23 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Seek the best.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Arsenal U18 v Crystal Palace U18
 - Brighton & Hove Albion U18 v Chelsea U18
 - Manchester City U18 v Sunderland U18
@@ -65,27 +72,31 @@ _Good Morning, Here is your daily briefing..._
 - Tottenham Hotspur v Everton
 - Manchester City U21 v Manchester United U21
 - Sunderland v Arsenal
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 138.75999450683594 
-- ^FTSE : 10650.400390625 
-- ^FTMC : 23975.69921875 
+- VWRL.L : 138.75999450683594
+- ^FTSE : 10650.400390625
+- ^FTMC : 23975.69921875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > What do you call a pirate with a wooden leg? Peggy.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - The aircraft might not be flying, but the certificate has gone on vacation (Register, [17 minutes ago](https://www.theregister.com/offbeat/2026/09/12/the-aircraft-might-not-be-flying-but-the-certificate-has-gone-on-vacation/5295622))
 - Dublin braces itself for Trump visit to talk trade, golf and Gaza (Euronews, [35 minutes ago](https://www.euronews.com/my-europe/2026/09/12/dublin-braces-itself-for-trump-visit-to-talk-trade-golf-and-gaza))
 - Drones from Iraq attack and set pipeline on fire in Saudi Arabia (Euronews, [1 hours ago](https://www.euronews.com/2026/09/12/drones-from-iraq-attack-and-set-pipeline-on-fire-in-saudi-arabia))
@@ -93,7 +104,7 @@ _Good Morning, Here is your daily briefing..._
 - The Daily Hilario: Saturday (WAGNH, [2 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/172148/the-daily-hilario-september-12th))
 - Judo Returns to Hungary for Exciting Grand Slam Action (Euronews, [2 hours ago](https://www.euronews.com/2026/09/12/judo-returns-to-hungary-for-exciting-grand-slam-action))
 - ‘Recovery becomes self-propelling’: Five positive tipping points that can save the world (Euronews, [4 hours ago](https://www.euronews.com/2026/09/12/recovery-becomes-self-propelling-five-positive-tipping-points-that-can-save-the-world))
-- Latest news bulletin  September 12th, 2026 – Morning (Euronews, [4 hours ago](https://www.euronews.com/video/2026/09/12/latest-news-bulletin-september-12th-2026-morning))
+- Latest news bulletin September 12th, 2026 – Morning (Euronews, [4 hours ago](https://www.euronews.com/video/2026/09/12/latest-news-bulletin-september-12th-2026-morning))
 - From roughing it to Arctic luxury: Two sisters and three countries in two weeks (Euronews, [4 hours ago](https://www.euronews.com/travel/2026/09/12/from-roughing-it-to-arctic-luxury-two-sisters-and-three-countries-in-two-weeks))
 - How the ECB rate hike will affect mortgage borrowers (Euronews, [4 hours ago](https://www.euronews.com/business/2026/09/12/how-the-ecb-rate-hike-will-affect-mortgage-borrowers))
 - Chelsea vs. Hull City, Premier League: Preview, team news, how to watch (WAGNH, [5 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/172142/chelsea-vs-hull-city-premier-league-preview-team-news-how-to-watch))
@@ -129,7 +140,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > breviloquent - adjective: Using few words.
+> breviloquent - adjective: Using few words.
 
 <!-- word_marker ends -->
 
@@ -144,6 +155,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Don't be afraid of things because they're easy to do
 
 <!-- eno_marker ends -->
@@ -151,9 +163,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Ninja Assassin (Rated: 3)
 - Released in 2009
 - Summary: A young ninja turns his back on the orphanage that raised him, leading to a confrontation with a fellow ninja from the clan.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -174,9 +188,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Chris Ferdinandi [URL](https://gomakethings.com/articles) [Feed](https://gomakethings.com/feed/index.xml)
 - Connor Edwards [URL](https://cedwards.xyz/) [Feed](https://cedwards.xyz/index.xml)
 - Simon Willison (tools) [URL](http://simonwillison.net/) [Feed](https://simonwillison.net/atom/beats/tool/)
 - Accidentally in Code [URL](https://cate.blog/) [Feed](https://cate.blog/feed/)
 - Virology [URL](https://virology.ws/) [Feed](https://virology.ws/feed/)
+
 <!-- blogroll_marker ends -->
