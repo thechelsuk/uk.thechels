@@ -11,6 +11,7 @@ date: 2026-09-13
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Sunday, 13 September 2026
 
 - The average temperature today is 19.13˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 136 days since the last change (2026-04-30)
 
@@ -33,18 +35,23 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Do better with less.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Sheffield United v Wolves
 - Manchester United Women v Chelsea Women
 - Coventry City v Brighton & Hove Albion
@@ -59,29 +66,33 @@ _Good Morning, Here is your daily briefing..._
 - Leicester City Women v Durham Women
 - Manchester United v Manchester City
 - Aston Villa Women v Manchester City Women
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 138.75999450683594 
-- ^FTSE : 10650.400390625 
-- ^FTMC : 23975.69921875 
+- VWRL.L : 138.75999450683594
+- ^FTSE : 10650.400390625
+- ^FTMC : 23975.69921875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > I have interviewed at a bird food-making company, but waiting to see if they have a successful seed funding round, as I don't come cheep.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Manchester United WFC vs. Chelsea FCW, Women’s Super League: Confirmed lineups; how to watch (WAGNH, [6 minutes ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/172202/manchester-united-wfc-vs-chelsea-fcw-womens-super-league-confirmed-lineups-how-to-watch))
-- Latest news bulletin  September 13th, 2026 – Midday (Euronews, [13 minutes ago](https://www.euronews.com/video/2026/09/13/latest-news-bulletin-september-13th-2026-midday))
+- Latest news bulletin September 13th, 2026 – Midday (Euronews, [13 minutes ago](https://www.euronews.com/video/2026/09/13/latest-news-bulletin-september-13th-2026-midday))
 - Russia launches more than 450 drones in overnight attacks while Ukraine strikes oil refineries (Euronews, [20 minutes ago](https://www.euronews.com/my-europe/2026/09/13/russia-launches-more-than-450-drones-in-overnight-attacks-while-ukraine-strikes-oil-refine))
 - Confirmed Chelsea Women lineup vs Manchester United (CFC, [58 minutes ago](https://www.chelseafc.com/en/news/article/confirmed-chelsea-women-lineup-vs-manchester-united))
 - How to make Xfce look like almost any desktop you want (Register, [1 hours ago](https://www.theregister.com/software/2026/09/13/how-to-make-xfce-look-like-almost-any-desktop-you-want/5295775))
@@ -122,7 +133,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > breviloquent - adjective: Using few words.
+> breviloquent - adjective: Using few words.
 
 <!-- word_marker ends -->
 
@@ -137,6 +148,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Don't be frightened to display your talents
 
 <!-- eno_marker ends -->
@@ -144,9 +156,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - The Darkest Hour (Rated: 6)
 - Released in 2011
 - Summary: In Moscow, five young people lead the charge against an alien race who have attacked Earth via our power supply.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -167,9 +181,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Luís Gonçalves [URL](https://luis-goncalves.com/) [Feed](https://luis-goncalves.com/blog/feed/)
 - Scripting [URL](http://scripting.com/) [Feed](http://scripting.com/rss.xml)
 - Robb Owen [URL](http://robbowen.digital/) [Feed](https://robbowen.digital/feed.xml)
 - Matt Mullenweg [URL](https://ma.tt/) [Feed](https://ma.tt/feed/)
 - Cory Dransfeldt [URL](https://www.coryd.dev/) [Feed](https://www.coryd.dev/feeds/all.xml)
+
 <!-- blogroll_marker ends -->
