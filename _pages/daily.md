@@ -11,6 +11,7 @@ date: 2026-09-15
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Tuesday, 15 September 2026
 
 - The average temperature today is 18.98˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 138 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Refuse Waste Collection Day
 - Food Waste Collection Day
 
@@ -41,12 +44,15 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Think aptitude and attitude.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Chesterfield v Manchester City U21
 - Leyton Orient v Arsenal U21
 - Swindon Town v Crystal Palace U21
@@ -68,27 +74,31 @@ _Good Morning, Here is your daily briefing..._
 - Ipswich Town v Arsenal
 - Liverpool v Tottenham Hotspur
 - Reading v Brentford
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 137.2137451171875 
-- ^FTSE : 10642.8701171875 
-- ^FTMC : 23732.0 
+- VWRL.L : 137.2137451171875
+- ^FTSE : 10642.8701171875
+- ^FTMC : 23732.0
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > It is very difficult to find work during a recession and every workplace is affected, just a few days ago I heard lots of firefighters were getting fired.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Twenty-five years on, Dubai's media bet has become a global platform (Euronews, [14 minutes ago](https://www.euronews.com/my-europe/2026/09/15/twenty-five-years-on-dubais-media-bet-has-become-a-global-platform))
 - EU has 'the power' to lead on 'global treaty on AI', says MEP Brando Benifei (Euronews, [18 minutes ago](https://www.euronews.com/video/2026/09/15/eu-has-the-power-to-lead-on-global-treaty-on-ai-says-mep-brando-benifei))
 - Ten-year Treasury yield hits highest since global financial crisis (FT, [26 minutes ago](https://www.ft.com/content/5e2327aa-dbd0-4a79-8c99-622a893876d7?syn-25a6b1a6=1))
@@ -129,7 +139,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > villein - noun: A peasant legally bound to a feudal lord, owing labor or dues in return for the use of land.
+> villein - noun: A peasant legally bound to a feudal lord, owing labor or dues in return for the use of land.
 
 <!-- word_marker ends -->
 
@@ -144,6 +154,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Ask people to work against their better judgment
 
 <!-- eno_marker ends -->
@@ -151,9 +162,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - A Clockwork Orange (Rated: 4)
 - Released in 1971
 - Summary: Alex DeLarge and his droogs barbarize a decaying near-future.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -174,9 +187,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Harry Cresswell [URL](https://harrycresswell.com/writing/) [Feed](https://harrycresswell.com/writing/feed.xml)
 - Daring Fireball [URL](https://daringfireball.net/) [Feed](http://daringfireball.net/index.xml)
 - CodeGood [URL](https://codegood.co/) [Feed](https://codegood.co/feed.xml)
 - Calum Ryan (articles) [URL](https://www.calumryan.com/articles) [Feed](https://www.calumryan.com/feeds/articles/rss)
 - Steven Breckinridge [URL](https://stuartbreckenridge.net/) [Feed](https://stuartbreckenridge.net/rss.xml)
+
 <!-- blogroll_marker ends -->
