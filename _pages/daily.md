@@ -11,6 +11,7 @@ date: 2026-09-16
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Wednesday, 16 September 2026
 
 - The average temperature today is 16.18˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 139 days since the last change (2026-04-30)
 
@@ -33,18 +35,23 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Inspire others
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Everton v Wolves
 - Fleetwood Town v Sheffield United
 - Altrincham v Hartlepool United
@@ -53,27 +60,31 @@ _Good Morning, Here is your daily briefing..._
 - Coventry City v Aston Villa
 - Manchester United v Brighton & Hove Albion
 - Sunderland v AZ Alkmaar
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 137.6999969482422 
-- ^FTSE : 10690.2802734375 
-- ^FTMC : 23916.0703125 
+- VWRL.L : 137.6999969482422
+- ^FTSE : 10690.2802734375
+- ^FTMC : 23916.0703125
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > At school, during the creative classes, I was only good at drawing night time scenes featuring lots of curtains, blinds, and shadows, my tutor said I had really mastered the dark arts.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - AI in health must be done in a ‘European way,’ without replacing doctors, von der Leyen says (Euronews, [15 minutes ago](https://www.euronews.com/health/2026/09/16/ai-in-health-must-be-done-in-a-european-way-without-replacing-doctors-von-der-leyen-says))
 - Where in Europe are homes most at risk of a break in? (Euronews, [20 minutes ago](https://www.euronews.com/my-europe/2026/09/16/where-in-europe-are-homes-most-at-risk-of-a-break-in))
 - Yemen's Houthis claim they shot down Saudi fighter jet, deny targeting Mecca (Euronews, [34 minutes ago](https://www.euronews.com/2026/09/16/yemens-houthis-claim-they-shot-down-saudi-fighter-jet-deny-targeting-mecca))
@@ -115,7 +126,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > rosery - noun: A garden or part of a garden devoted to roses.
+> rosery - noun: A garden or part of a garden devoted to roses.
 
 <!-- word_marker ends -->
 
@@ -130,6 +141,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Honor thy error as a hidden intention
 
 <!-- eno_marker ends -->
@@ -137,9 +149,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Fracture (Rated: 3)
 - Released in 2007
 - Summary: After shooting his wife, Ted confesses his crime and asks the court to move his case to trial. He represents himself against Willy, a successful lawyer. But there's more to the case than meets the eye.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -160,9 +174,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Simon BS [URL](https://simonbs.dev/) [Feed](http://simonbs.dev/feed.rss)
 - Psych Chartered [URL](https://psychologychartered.co.uk/blog/) [Feed](https://psychologychartered.co.uk/blog/feed)
 - Ricky Mondello [URL](https://rmondello.com/) [Feed](https://rmondello.com/feed/)
 - Boz [URL](https://boz.com/) [Feed](https://boz.com/rss.xml)
 - Caleb Hearth [URL](https://calebhearth.com/) [Feed](https://calebhearth.com/atom.xml)
+
 <!-- blogroll_marker ends -->
