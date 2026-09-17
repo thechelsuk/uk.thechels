@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-09-17 20:18
+date: 2026-09-17 21:30
 title: Mltply Version 2.1.2
 type: release
 cited: GitHub
