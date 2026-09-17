@@ -11,6 +11,7 @@ date: 2026-09-17
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Thursday, 17 September 2026
 
 - The average temperature today is 16.69˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 140 days since the last change (2026-04-30)
 
@@ -33,44 +35,53 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Seek the best.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - England Women U20 v Nigeria Women U20
 - Manchester City v Norwich City
 - AFC Wimbledon v MK Dons
 - Crystal Palace v Lech Poznan
 - Real Sociedad v AFC Bournemouth
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 138.36000061035156 
-- ^FTSE : 10747.3203125 
-- ^FTMC : 24191.98046875 
+- VWRL.L : 138.36000061035156
+- ^FTSE : 10747.3203125
+- ^FTMC : 24191.98046875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Why did the crab cross the road? It just followed the sidewalk.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Gaza's bicycle couriers refuse to stop despite danger and pittance pay (Euronews, [1 minutes ago](https://www.euronews.com/2026/09/17/gazas-bicycle-couriers-refuse-to-stop-despite-danger-and-pittance-pay))
 - "Minotaur" by Andrey Zvyagintsev to represent France at Oscars (Euronews, [4 minutes ago](https://www.euronews.com/culture/2026/09/17/minotaur-by-andrey-zvyagintsev-to-represent-france-at-oscars))
 - Macklemore donates $1 million to Palestinian aid: 'I invite Robert Kraft to match my donation' (Euronews, [8 minutes ago](https://www.euronews.com/2026/09/17/macklemore-donates-1-million-to-palestinian-aid-i-invite-robert-kraft-to-match-my-donation))
@@ -116,7 +127,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > mordent - noun: A musical ornament typically made by playing a note, the note immediately above or below it, and the original note again in quick succession.
+> mordent - noun: A musical ornament typically made by playing a note, the note immediately above or below it, and the original note again in quick succession.
 
 <!-- word_marker ends -->
 
@@ -131,6 +142,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Change instrument roles
 
 <!-- eno_marker ends -->
@@ -138,9 +150,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Pass It Forward (Rated: 4)
 - Released in 2000
 - Summary: An automatically kind teen carrying the weight of a difficult life at home learns the quiet power of his kind words, and how that kindness sometimes comes back around
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -161,9 +175,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Max Stoiber [URL](https://mxstbr.com/) [Feed](https://mxstbr.com/rss)
 - The Codist [URL](https://thecodist.com/) [Feed](http://feeds.feedburner.com/thecodist)
 - Alchemists [URL](https://alchemists.io/) [Feed](https://www.alchemists.io/feeds/news.xml)
 - Caleb Hearth [URL](https://calebhearth.com/) [Feed](https://calebhearth.com/atom.xml)
 - Bogdan on Digital Accessibility [URL](https://cerovac.com/a11y) [Feed](https://cerovac.com/a11y/feed/)
+
 <!-- blogroll_marker ends -->
