@@ -11,6 +11,7 @@ date: 2026-09-20
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Sunday, 20 September 2026
 
 - The average temperature today is 16.05˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 143 days since the last change (2026-04-30)
 
@@ -33,40 +35,49 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Move fast.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 138.47000122070312 
-- ^FTSE : 10659.099609375 
-- ^FTMC : 24205.400390625 
+- VWRL.L : 138.47000122070312
+- ^FTSE : 10659.099609375
+- ^FTMC : 24205.400390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > People smell when they get to the summit but never smell when they get back down due to a process called the descent.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Macron touts relationship with Canada in visit to Saint Pierre and Miquelon (Euronews, [41 minutes ago](https://www.euronews.com/my-europe/2026/09/20/macron-touts-relationship-with-canada-in-visit-to-saint-pierre-and-miquelon))
 - How Windows turned months of inactivity into a 7-hour update hostage situation (Register, [1 hours ago](https://www.theregister.com/os-platforms/2026/09/20/how-windows-turned-months-of-inactivity-into-a-7-hour-update-hostage-situation/5297478))
 - North Korea launches 'suspected ballistic missile' into East Sea (Euronews, [1 hours ago](https://www.euronews.com/2026/09/20/north-korea-launches-suspected-ballistic-missile-into-east-sea))
@@ -78,7 +89,7 @@ _Good Morning, Here is your daily briefing..._
 - Billionaire Tata scion faces battle of his life to avert listing (FT, [3 hours ago](https://www.ft.com/content/a0771c0f-71e6-4c0b-9ff6-9845624f4875?syn-25a6b1a6=1))
 - US embassies issue security alerts over Houthi attacks on Saudi Arabia (Euronews, [3 hours ago](https://www.euronews.com/2026/09/20/us-embassies-issue-security-alerts-over-houthi-attacks-on-saudi-arabia))
 - Argentina’s first solar train runs on batteries charged by the Andean sun (Euronews, [4 hours ago](https://www.euronews.com/2026/09/20/argentinas-first-solar-train-runs-on-batteries-charged-by-the-andean-sun))
-- Latest news bulletin  September 20th, 2026 – Morning (Euronews, [4 hours ago](https://www.euronews.com/video/2026/09/20/latest-news-bulletin-september-20th-2026-morning))
+- Latest news bulletin September 20th, 2026 – Morning (Euronews, [4 hours ago](https://www.euronews.com/video/2026/09/20/latest-news-bulletin-september-20th-2026-morning))
 - The cost of having a baby in Europe: Where are essentials cheapest? (Euronews, [4 hours ago](https://www.euronews.com/business/2026/09/20/the-cost-of-having-a-baby-in-europe-where-are-essentials-cheapest))
 - All the direct flight routes from Europe to Central and South America (Euronews, [4 hours ago](https://www.euronews.com/travel/2026/09/20/all-the-direct-flight-routes-from-europe-to-central-and-south-america))
 - Freedom in adulthood isn’t what you think (FT, [5 hours ago](https://www.ft.com/content/5b315540-3622-4b6b-b305-688668544252?syn-25a6b1a6=1))
@@ -102,7 +113,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > decedent - noun: A person who has died.
+> decedent - noun: A person who has died.
 
 <!-- word_marker ends -->
 
@@ -117,6 +128,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Is the tuning appropriate?
 
 <!-- eno_marker ends -->
@@ -124,9 +136,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Mad Max: Fury Road (Rated: 8)
 - Released in 2015
 - Summary: In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshipper and a drifter named Max.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -147,9 +161,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Open Web Advocacy [URL](https://open-web-advocacy.org/) [Feed](https://open-web-advocacy.org/feed.xml)
 - MacSparky [URL](https://www.macsparky.com/) [Feed](http://www.macsparky.com/blog/rss.xml)
 - Steve (Harsh Browns) [URL](https://visitmy.website/) [Feed](https://visitmy.website/feed.xml)
 - Johnny Reilly [URL](https://johnnyreilly.com/) [Feed](https://blog.johnnyreilly.com/rss.xml)
 - Marc Thiele [URL](https://marcthiele.com/) [Feed](https://marcthiele.com/feed-all)
+
 <!-- blogroll_marker ends -->
