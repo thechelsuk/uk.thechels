@@ -20,20 +20,20 @@ Holds an HND in Business Information Systems and an HNC in Business IT in Comput
 ### Core Skills
 
 - Methodologies - Shape-up, Scrum, Kanban, Waterfall, XP, Lean, BDD, TDD, Ensemble, No estimates,
-- Languages: C#, SQL, XML, PHP, HTML, CSS, JavaScript, Markdown, Ruby, Jekyll, Python, Sass, TypeScript, NodeJS, Blazor,
+- Languages: C#, SQL, XML, PHP, HTML, CSS, JavaScript, Markdown, Ruby, Jekyll, Python, TypeScript, NodeJS, Blazor,
 - Testing: TDD, Nunit, Moq, Specflow/Cucumber, Selenium Web driver, pytest, Playwright
 - Source Control: TFS, Azure DevOps, Git, GitHub, subversion, CVS
 - OS/Cloud: Mac, iOS, iPadOS, Windows, AWS, Azure
 - Database: MySQL, Oracle, SQL Server, MongoDB
 - Architecture: Micro-Services, Volatility, Domain Driven, Event Driven.
 - Software/Tools: Visual Studio, VS Code, Resharper, PhpStorm, TeamCity, PL/SQL Developer, MySQL Workbench, Office 365 suite, Slack, Trello, GitHub, WordPress, Mural, Confluence, Jira, Airtable, Code Climate, DataDog, working copy, Azure DevOps,
-- Leadership: Performance management, Recruitment, Leadership, Coaching, Mentoring, Personal development, Career development, Agile adoption, Ways of working, Stakeholder management, Advocacy, Radical candour, Requirement gathering, Workshop facilitation, Process implementation.
+- Leadership: Performance management, Recruitment, Leadership, Coaching, Mentoring, Personal development, Career development, Experimentation adoption, Agile adoption, Ways of working, Stakeholder management, Advocacy, Radical candour, Requirement gathering, Workshop facilitation, Process implementation.
 
 ### Side Projects
 
 - Created, published, and managed a football statistics website (WordPress, PHP, MySQL) and associated Twitter account, overseeing organic growth to peak 180,000 followers and global reach and featured in high-profile football publications.
 - Rebuilt a running club website using Jekyll, a static site generator using Ruby hosted on GitHub pages reducing operating costs by over 75% per year.
-- Using Github Actions and GitHub Issues to create a Security News feed for the discerning security professional or engineering leader.
+- Built Cheltenham Open Data, local data for local people, collecting and disseminating open and licensed data into a simple easy to use home.
 
 ### Education Summary
 
@@ -47,7 +47,7 @@ Holds an HND in Business Information Systems and an HNC in Business IT in Comput
 
 ### Employment History
 
-#### Howden Insurance - Head of Web Development (June 2024 - )
+#### Howden Insurance - Head of Web Development (June 2024 - Sept 2026)
 
 _Howden, is one of the biggest insurance firms in the world, and the 5th largest employee-owned business in the UK._
 
