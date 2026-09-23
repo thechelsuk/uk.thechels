@@ -11,6 +11,7 @@ date: 2026-09-22
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Tuesday, 22 September 2026
 
 - The average temperature today is 19.02˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 145 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Recycling Waste Collection Day
 - Food Waste Collection Day
 
@@ -41,12 +44,15 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Set exceptional standards.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Bayern Munich Women v Manchester City Women
 - Accrington Stanley v Sunderland U21
 - Barnsley v Leeds United U21
@@ -72,27 +78,31 @@ _Good Morning, Here is your daily briefing..._
 - Bradford City v Newcastle United U21
 - Bromley v Brentford U21
 - Arsenal Women v HB Koge Women
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 140.97000122070312 
-- ^FTSE : 10746.4599609375 
-- ^FTMC : 24574.48046875 
+- VWRL.L : 140.97000122070312
+- ^FTSE : 10746.4599609375
+- ^FTMC : 24574.48046875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > I also applied to work for a design company for TV user interfaces. But I misunderstood when they said it was remote-first.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - EU seals Philippines trade deal in push to diversify away from China and US (Euronews, [1 minutes ago](https://www.euronews.com/my-europe/2026/09/22/eu-seals-philippines-trade-deal-in-push-to-diversify-away-from-china-and-us))
 - Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump at UN (Euronews, [10 minutes ago](https://www.euronews.com/my-europe/2026/09/22/russia-and-ukraine-trade-deadly-strikes-as-zelenskyy-prepares-to-meet-trump-at-un))
 - What is ‘Trump TV’ - and how does Family Guy and 'Home Alone' come into it? (Euronews, [14 minutes ago](https://www.euronews.com/culture/2026/09/22/what-is-trump-tv-and-how-does-family-guy-and-home-alone-come-into-it))
@@ -130,7 +140,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > misgiving - noun: A feeling of doubt or apprehension.
+> misgiving - noun: A feeling of doubt or apprehension.
 
 <!-- word_marker ends -->
 
@@ -145,18 +155,21 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Consult other sources
--promising
--unpromising
+> -promising
+> -unpromising
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Oblivion (Rated: 6)
 - Released in 2013
 - Summary: A stranger's arrival triggers one man's battle to save mankind.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -177,9 +190,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Sam Ollason [URL](https://samollason.github.io/) [Feed](https://samollason.github.io/feed)
 - Ana Rodrigues [URL](https://ohhelloana.blog/) [Feed](https://ohhelloana.blog/feed.xml)
 - Herman [URL](https://herman.bearblog.dev/) [Feed](https://herman.bearblog.dev/feed/)
 - Calum Ryan (bookmarks) [URL](https://www.calumryan.com/bookmarks) [Feed](https://www.calumryan.com/feeds/bookmarks/rss)
 - Piccalilli (links) [URL](https://piccalil.li/) [Feed](https://piccalil.li/links.xml)
+
 <!-- blogroll_marker ends -->
