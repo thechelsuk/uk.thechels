@@ -4938,3 +4938,77 @@
       from a stomach bug and lost all appetite, consuming nothing but sips of water
       over 4 days…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/weaknotes-2026-07-25\">thechels.uk</a>.</p>"
 "/2026-09-22-daily-rundown": {}
+"/2026-05-26-daily-rundown":
+  '1998447':
+    id: '1998447'
+    uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-26-991fc3e009/
+    source: false
+    pubdate: 2026-05-26 06:32:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-26-991fc3e009/
+      verified: true
+      verified_date: '2026-05-26T07:30:47+00:00'
+      id: 1998447
+      private: false
+      data:
+        author: &73
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-26-991fc3e009/
+        name: Daily - Daily Rundown for 2026-05-26
+        content: "<p>Good Morning, Here is your daily briefing… On Tuesday, 26 May
+          2026 The average temperature today is 21.77˚C, With highs of 23.72˚C and
+          lows of 19.82˚C, It ma…</p>\n\n        \n        <p>Continue reading at
+          <a href=\"https://thechels.uk/2026-05-26-daily-rundown\">thechels.uk</a>.</p>"
+        published: '2026-05-26T05:32:00+00:00'
+        published_ts: 1779773520
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-26-991fc3e009/
+      target: https://thechels.uk/2026-05-26-daily-rundown
+    author: *73
+    type: link
+    title: Daily - Daily Rundown for 2026-05-26
+    content: "<p>Good Morning, Here is your daily briefing… On Tuesday, 26 May 2026
+      The average temperature today is 21.77˚C, With highs of 23.72˚C and lows of
+      19.82˚C, It ma…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-26-daily-rundown\">thechels.uk</a>.</p>"
+"/2026-06-25-daily-rundown": {}
+"/til-fredkin-s-paradox-wikipedia": {}
+"/2026-07-26-daily-rundown": {}
+"/rss-chat":
+  '2029979':
+    id: '2029979'
+    uri: https://rmendes.net/replies/2026/07/26/7cbf1/
+    source: false
+    pubdate: 2026-07-26 18:22:51.000000000 +01:00
+    raw:
+      source: https://rmendes.net/replies/2026/07/26/7cbf1
+      verified: true
+      verified_date: '2026-09-06T20:45:15+00:00'
+      id: 2029979
+      private: false
+      data:
+        author: &74
+          name: Ricardo Mendes
+          url: https://rmendes.net
+          photo: https://avatars.webmention.io/rmendes.net/cef6cf3fd447aed3264578ec5da963e8ed6829d2821d4bdd3896f6e1d7c91774.jpg
+        url: https://rmendes.net/replies/2026/07/26/7cbf1/
+        name:
+        content: |-
+          <p>You might also be interested in this :)</p>
+          <p><a href="https://rmdes.be">RSC</a> (Really Simple Conversations) is a social feed where everything is distributed via RSS: posts, as well as replies, entire conversations, and corrections published afterward. Three independent sites can thus participate in the same feed without a common API, without a shared account, and without having to adopt a new protocol: if your site already publishes a feed, it’s already a node in the network.</p>
+        published: '2026-07-26T17:22:51+00:00'
+        published_ts: 1785086571
+      activity:
+        type: reply
+      rels:
+        canonical: https://rmendes.net/replies/2026/07/26/7cbf1/
+      target: https://thechels.uk/rss-chat
+    author: *74
+    type: reply
+    content: |-
+      <p>You might also be interested in this :)</p>
+      <p><a href="https://rmdes.be">RSC</a> (Really Simple Conversations) is a social feed where everything is distributed via RSS: posts, as well as replies, entire conversations, and corrections published afterward. Three independent sites can thus participate in the same feed without a common API, without a shared account, and without having to adopt a new protocol: if your site already publishes a feed, it’s already a node in the network.</p>
+"/video-new-on-cheltenham-open-data-ward-level-data-cheltenham-cheltenhamtown-7058b647": {}
