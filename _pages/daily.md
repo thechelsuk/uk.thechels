@@ -11,6 +11,7 @@ date: 2026-09-24
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Thursday, 24 September 2026
 
 - The average temperature today is 16.42˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 147 days since the last change (2026-04-30)
 
@@ -33,40 +35,49 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Bias towards action.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 140.1699981689453 
-- ^FTSE : 10697.5302734375 
-- ^FTMC : 24213.359375 
+- VWRL.L : 140.1699981689453
+- ^FTSE : 10697.5302734375
+- ^FTMC : 24213.359375
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > I once had a work placement at an eye wear manufacturer, I gained good insight into the industry.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Crowds celebrate Saudi National Day with flags, performances and military parade (Euronews, [5 minutes ago](https://www.euronews.com/video/2026/09/24/crowds-celebrate-saudi-national-day-with-flags-performances-and-military-parade))
 - Fire at Starlink station in central Poland was 'sabotage,' digital affairs minister says (Euronews, [28 minutes ago](https://www.euronews.com/2026/09/24/fire-at-starlink-station-in-central-poland-was-sabotage-digital-affairs-minister-says))
 - Global bond sell-off deepens as oil climbs back to $105 (FT, [33 minutes ago](https://www.ft.com/content/2d87f8bf-d529-4997-90c5-393ef65d280c?syn-25a6b1a6=1))
@@ -108,7 +119,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > kidology - noun: The art or practice of bluffing or deceiving.
+> kidology - noun: The art or practice of bluffing or deceiving.
 
 <!-- word_marker ends -->
 
@@ -123,6 +134,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Faced with a choice, do both (given by Dieter Roth)
 
 <!-- eno_marker ends -->
@@ -130,9 +142,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Ambush (Rated: 3)
 - Released in 2001
 - Summary: A mysterious BMW driver must protect an eccentric old foreigner from criminals.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -153,9 +167,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Matt Stein [URL](https://mattstein.com/) [Feed](https://mattstein.com/rss.xml)
 - Remy Sharp [URL](https://remysharp.com/) [Feed](https://remysharp.com/blog.xml)
 - Simon Collison [URL](https://colly.com/) [Feed](https://colly.com/articles/feed)
 - Benjamin Willems (Anti-) [URL](https://benjaminwil.info/antisocial/feed.xml/) [Feed](https://benjaminwil.info/antisocial/feed.xml)
 - Jason Rodriguez [URL](https://rodriguezcommaj.com/) [Feed](https://rodriguezcommaj.com/atom.xml)
+
 <!-- blogroll_marker ends -->
