@@ -22,3 +22,5 @@ Right now it has two sides:
 My iOS apps are listed there too, and they're still free.
 
 If you'd like to hear when something new comes out, there's a sign-up on the [shop page](https://shop.thechels.uk).
+
+The workbooks are also on [Etsy](https://thechelsuk.etsy.com), if that's where you'd rather buy.
