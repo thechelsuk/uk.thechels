@@ -5013,3 +5013,99 @@
       <p><a href="https://rmdes.be">RSC</a> (Really Simple Conversations) is a social feed where everything is distributed via RSS: posts, as well as replies, entire conversations, and corrections published afterward. Three independent sites can thus participate in the same feed without a common API, without a shared account, and without having to adopt a new protocol: if your site already publishes a feed, it’s already a node in the network.</p>
 "/video-new-on-cheltenham-open-data-ward-level-data-cheltenham-cheltenhamtown-7058b647": {}
 "/2026-09-23-daily-rundown": {}
+"/2026-05-27-daily-rundown": {}
+"/links-release-a3ecd29c6569": {}
+"/lastpass-data-breach-and-response": {}
+"/youtube-continues-to-ruin-its-app-player-to-make-it-even-more-like-tiktok": {}
+"/2026-06-26-daily-rundown": {}
+"/the-observation-window":
+  '2005033':
+    id: '2005033'
+    uri: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674%23likes/300748798
+    source: false
+    pubdate: 2026-06-27 00:08:43.000000000 +00:00
+    raw:
+      source: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674%23likes/300748798
+      verified: true
+      verified_date: '2026-06-27T00:08:43+00:00'
+      id: 2005033
+      private: false
+      data:
+        author: &75
+          name: "@thechels.uk"
+          url: https://mastodon.social/@Thechelsuk
+          photo: https://avatars.webmention.io/files.mastodon.social/6fa238e8bcde25c86770f2afbf4c8cc3fd4eeb3cfc44895d9af169225627ba4a.png
+        url: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674%23likes/300748798
+        name:
+        content: <a href="https://thechels.uk/the-observation-window">likes this.</a>
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://thechels.uk/the-observation-window
+    author: *75
+    type: like
+    content: ''
+  '2005022':
+    id: '2005022'
+    uri: https://nuchronic.uk/item/the-privacy-observation-window-fc4181a1e1/
+    source: false
+    pubdate: 2026-06-26 16:00:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/the-privacy-observation-window-fc4181a1e1/
+      verified: true
+      verified_date: '2026-06-27T12:42:48+00:00'
+      id: 2005022
+      private: false
+      data:
+        author: &76
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/the-privacy-observation-window-fc4181a1e1/
+        name:
+        content: "<p>The Privacy Observation Window categorises the forms of observation,
+          identification and attribution UK citizens have historically accepted from
+          government an…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/the-observation-window\">thechels.uk</a>.</p>"
+        published: '2026-06-26T15:00:00+00:00'
+        published_ts: 1782486000
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/the-privacy-observation-window-fc4181a1e1/
+      target: https://thechels.uk/the-observation-window
+    author: *76
+    type: link
+    content: "<p>The Privacy Observation Window categorises the forms of observation,
+      identification and attribution UK citizens have historically accepted from government
+      an…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/the-observation-window\">thechels.uk</a>.</p>"
+  '2005018':
+    id: '2005018'
+    uri: https://bsky.app/profile/did:plc:326dlpjdr27v7hw7v5yqipl3/post/3mp7xmprar52k
+    source: false
+    pubdate: 2026-06-26 23:11:52.000000000 +01:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:326dlpjdr27v7hw7v5yqipl3/app.bsky.feed.post/3mp7xmprar52k%23bridgy-fed-create-2026-06-26T22:11:53.784704+00:00
+      verified: true
+      verified_date: '2026-06-26T22:11:56+00:00'
+      id: 2005018
+      private: false
+      data:
+        url: https://bsky.app/profile/did:plc:326dlpjdr27v7hw7v5yqipl3/post/3mp7xmprar52k
+        name:
+        content: |-
+          Hey thechels.uk
+          A few minutes of your attention can mean hope for someone who has lost so much. Please visit my page and the pinned post. Your compassion can reach a family in need. ????
+        published: '2026-06-26T22:11:52+00:00'
+        published_ts: 1782511912
+      activity:
+        type: reply
+      target: https://thechels.uk/the-observation-window
+    author:
+    type: reply
+    content: |-
+      Hey thechels.uk
+      A few minutes of your attention can mean hope for someone who has lost so much. Please visit my page and the pinned post. Your compassion can reach a family in need. ????
+"/film-monthly-june-2026": {}
+"/2026-07-27-daily-rundown": {}
+"/how-to-add-a-jekyll-collection": {}
