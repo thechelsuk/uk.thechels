@@ -5163,7 +5163,42 @@
       engineering t…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/gumroad-updated\">thechels.uk</a>.</p>"
 "/the-perfect-hiring-system": {}
 "/maths-workbook-companions": {}
-"/etsy-shop-launched": {}
+"/etsy-shop-launched":
+  '2035432':
+    id: '2035432'
+    uri: https://nuchronic.uk/item/mltply-workbooks-are-on-etsy-24558f492b/
+    source: false
+    pubdate: 2026-09-25 05:00:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/mltply-workbooks-are-on-etsy-24558f492b/
+      verified: true
+      verified_date: '2026-09-25T07:33:10+00:00'
+      id: 2035432
+      private: false
+      data:
+        author: &78
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://nuchronic.uk/assets/icons/apple-touch-icon.png
+        url: https://nuchronic.uk/item/mltply-workbooks-are-on-etsy-24558f492b/
+        name: Mltply workbooks are on Etsy
+        content: "<p>If you’d rather shop on Etsy, the Mltply maths workbooks are
+          now there too: thechelsuk on Etsy . It’s the same set of printable workbooks
+          for Years 1 to 7: A…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/etsy-shop-launched\">thechels.uk</a>.</p>"
+        published: '2026-09-25T04:00:00+00:00'
+        published_ts: 1790308800
+      activity:
+        type: link
+      rels:
+        canonical: https://thechels.uk/etsy-shop-launched
+      target: https://thechels.uk/etsy-shop-launched
+    author: *78
+    type: link
+    title: Mltply workbooks are on Etsy
+    content: "<p>If you’d rather shop on Etsy, the Mltply maths workbooks are now
+      there too: thechelsuk on Etsy . It’s the same set of printable workbooks for
+      Years 1 to 7: A…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/etsy-shop-launched\">thechels.uk</a>.</p>"
 "/2026-09-25-daily-rundown": {}
 "/2026-05-29-daily-rundown": {}
 "/2026-06-28-daily-rundown": {}
@@ -5174,3 +5209,140 @@
 "/video-uk-money-checklist-shorts-29acdec9": {}
 "/video-welcome-to-thechelsuk-printables-apps-guides-and-more-made-in-the-uk-925ea42a": {}
 "/2026-09-26-daily-rundown": {}
+"/til-xlst-nov-2026": {}
+"/2026-05-30-daily-rundown": {}
+"/weaknotes-2026-05-30":
+  '1999314':
+    id: '1999314'
+    uri: https://nuchronic.uk/item/weaknotes-2026-05-30-8f67557826/
+    source: false
+    pubdate: 2026-05-30 12:52:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/weaknotes-2026-05-30-8f67557826/
+      verified: true
+      verified_date: '2026-05-30T12:40:43+00:00'
+      id: 1999314
+      private: false
+      data:
+        author: &79
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/weaknotes-2026-05-30-8f67557826/
+        name: WeakNotes 2026-05-30
+        content: "<p>Another week goes by and not much improvement. Feel like my baseline
+          is dropping. MiL came to visit and helped massively by tidying up the overgrown
+          garden -…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/weaknotes-2026-05-30\">thechels.uk</a>.</p>"
+        published: '2026-05-30T11:52:00+00:00'
+        published_ts: 1780141920
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/weaknotes-2026-05-30-8f67557826/
+      target: https://thechels.uk/weaknotes-2026-05-30
+    author: *79
+    type: link
+    title: WeakNotes 2026-05-30
+    content: "<p>Another week goes by and not much improvement. Feel like my baseline
+      is dropping. MiL came to visit and helped massively by tidying up the overgrown
+      garden -…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/weaknotes-2026-05-30\">thechels.uk</a>.</p>"
+"/londons-first-londons-finest": {}
+"/2026-06-29-daily-rundown": {}
+"/call-it-fuckity-cockwomble":
+  '2005637':
+    id: '2005637'
+    uri: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674%23likes/301327254
+    source: false
+    pubdate: 2026-06-30 04:12:02.000000000 +00:00
+    raw:
+      source: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674%23likes/301327254
+      verified: true
+      verified_date: '2026-06-30T04:12:02+00:00'
+      id: 2005637
+      private: false
+      data:
+        author: &80
+          name: "@thechels.uk"
+          url: https://mastodon.social/@Thechelsuk
+          photo: https://avatars.webmention.io/files.mastodon.social/6fa238e8bcde25c86770f2afbf4c8cc3fd4eeb3cfc44895d9af169225627ba4a.png
+        url: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674%23likes/301327254
+        name:
+        content: <a href="https://thechels.uk/call-it-fuckity-cockwomble">likes this.</a>
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://thechels.uk/call-it-fuckity-cockwomble
+    author: *80
+    type: like
+    content: ''
+  '2005564':
+    id: '2005564'
+    uri: https://nuchronic.uk/item/call-it-fuckity-cockwomble-6930da314f/
+    source: false
+    pubdate: 2026-06-29 18:55:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/call-it-fuckity-cockwomble-6930da314f/
+      verified: true
+      verified_date: '2026-06-30T09:24:41+00:00'
+      id: 2005564
+      private: false
+      data:
+        author: &81
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/call-it-fuckity-cockwomble-6930da314f/
+        name: Call it Fuckity Cockwomble
+        content: "<p>We could call it fuckity cockwomble for all I care, won’t make
+          me feel better, won’t be any closer to a cure. Without fail, a support forum
+          or community for…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/call-it-fuckity-cockwomble\">thechels.uk</a>.</p>"
+        published: '2026-06-29T17:55:00+00:00'
+        published_ts: 1782755700
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/call-it-fuckity-cockwomble-6930da314f/
+      target: https://thechels.uk/call-it-fuckity-cockwomble
+    author: *81
+    type: link
+    title: Call it Fuckity Cockwomble
+    content: "<p>We could call it fuckity cockwomble for all I care, won’t make me
+      feel better, won’t be any closer to a cure. Without fail, a support forum or
+      community for…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/call-it-fuckity-cockwomble\">thechels.uk</a>.</p>"
+  '2005635':
+    id: '2005635'
+    uri: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/116837102269631981/activity
+    source: false
+    pubdate: 2026-06-30 05:11:38.000000000 +01:00
+    raw:
+      source: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/116837102269631981/activity
+      verified: true
+      verified_date: '2026-06-30T04:11:40+00:00'
+      id: 2005635
+      private: false
+      data:
+        author: &82
+          name: "@thechels.uk"
+          url: https://mastodon.social/@Thechelsuk
+          photo: https://avatars.webmention.io/files.mastodon.social/6fa238e8bcde25c86770f2afbf4c8cc3fd4eeb3cfc44895d9af169225627ba4a.png
+        url: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/116837102269631981/activity
+        name:
+        content: "Shared <a href=\"https://nuchronic.uk/item/call-it-fuckity-cockwomble-6930da314f/\">Call
+          it Fuckity Cockwomble</a> by   <span class=\"h-card\">\n    <a class=\"p-name
+          u-url\" href=\"https://nuchronic.uk/\">Nuchronic</a>\n    \n    \n  </span>\n<p>We
+          could call it fuckity cockwomble for all I care, won’t make me feel better,
+          won’t be any closer to a cure. Without fail, a support forum or community
+          for…</p>\n<p>Continue reading at <a href=\"https://thechels.uk/call-it-fuckity-cockwomble\">thechels.uk</a>.</p>\n<a
+          href=\"https://thechels.uk/call-it-fuckity-cockwomble\">thechels.uk</a>"
+        published: '2026-06-30T04:11:38+00:00'
+        published_ts: 1782792698
+      activity:
+        type: repost
+      target: https://thechels.uk/call-it-fuckity-cockwomble
+    author: *82
+    type: repost
+    content: ''
+"/uefa-statement-on-behalf-of-uefa-and-its-55-national-associations-uefa-com": {}
+"/2026-07-30-daily-rundown": {}
+"/i-rss-andrew-shell-s-weblog": {}
