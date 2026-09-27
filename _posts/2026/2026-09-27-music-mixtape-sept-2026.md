@@ -4,9 +4,9 @@ date: 2026-09-27
 title: Monthly Mixtape - Sep 2026
 type: mixtape
 syndicate:
-    - mastodon
-    - bluesky
-    - textlog
+  - mastodon
+  - bluesky
+  - textlog
 ---
 
 What I've been listening to this month.
