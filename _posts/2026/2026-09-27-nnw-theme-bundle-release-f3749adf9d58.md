@@ -13,6 +13,12 @@ release_version: v3.0.0
 
 Fix YouTube embeds (Error 153) and add the Claudio theme (A Claude AI Cliche theme)
 
+YouTube only allows embedded videos with a referrer url sent and as NetNewsWire runs locally this doesn't exist. so we use embed.thechels.uk to provide that referral and using youtube-nocookie.com we keep things private and secure.
+
+Claudio is a new theme, a cliche dark mode of Claude Code, for those that like that sort of thing.
+
+All five themes available below. Use the NNW links below if you are on a compatible device (uses x-callback-url schemes)
+
 ## Themes
 
 ### Claudio
