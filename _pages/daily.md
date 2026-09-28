@@ -11,6 +11,7 @@ date: 2026-09-28
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Monday, 28 September 2026
 
 - The average temperature today is 17.89˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 151 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Garden Waste Day
 
 <!-- task_marker ends -->
@@ -40,34 +43,41 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Use appropriate tools.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 140.5399932861328 
-- ^FTSE : 10724.400390625 
-- ^FTMC : 24455.140625 
+- VWRL.L : 140.5399932861328
+- ^FTSE : 10724.400390625
+- ^FTMC : 24455.140625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > The police came round the other day saying they had reports our pet dog had been chasing the local kids on roller skates, funny I said, our dog does not own any roller skates.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Madrid protesters vow to maintain pressure on Sánchez government against rising cost of housing (Euronews, [5 minutes ago](https://www.euronews.com/2026/09/28/madrid-protesters-vow-to-maintain-pressure-on-sanchez-government-against-rising-cost-of-ho))
 - Jet ski rider cruises through flooded streets of Bangkok (Euronews, [9 minutes ago](https://www.euronews.com/video/2026/09/28/jet-ski-rider-cruises-through-flooded-streets-of-bangkok))
 - Bond sell-off deepens as oil rises above $108 (FT, [13 minutes ago](https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1))
@@ -111,7 +121,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > idiocracy - noun: 1. Government by idiots. 2. A society governed or populated by idiots.
+> idiocracy - noun: 1. Government by idiots. 2. A society governed or populated by idiots.
 
 <!-- word_marker ends -->
 
@@ -126,6 +136,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Fill every beat with something
 
 <!-- eno_marker ends -->
@@ -133,9 +144,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - The Game Changers (Rated: 3)
 - Released in 2018
 - Summary: A UFC fighter's world is turned upside down when he discovers an elite group of world-renowned athletes and scientists who prove that everything he had been taught about protein was a lie.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -156,9 +169,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - IntelTechniques [URL](https://inteltechniques.com/blog) [Feed](https://inteltechniques.com/blog/feed/)
 - Troy Hunt [URL](https://www.troyhunt.com/) [Feed](https://www.troyhunt.com/rss/)
 - A11y Weekly [URL](https://a11yweekly.com/) [Feed](https://a11yweekly.com/feed/)
 - Jon Shamir [URL](https://jonshamir.com/) [Feed](https://jonshamir.com/rss.xml)
 - Alvin Ashcroft (Morning Dew) [URL](https://alvinashcraft.com/) [Feed](https://www.alvinashcraft.com/feed.xml)
+
 <!-- blogroll_marker ends -->
