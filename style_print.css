@@ -4,13 +4,13 @@
 /* ---------------------------------- */
 
 @font-face {
-    font-family: "TheChelsLight";
-    src: url("fonts/TheChelsLight.woff") format("woff");
+    font-family: "thechelsuk";
+    src: url("fonts/thechelsuk-Regular.woff2") format("woff2"), url("fonts/thechelsuk-Regular.woff") format("woff");
 }
 
 @font-face {
-    font-family: "TheChelsMedium";
-    src: url("fonts/TheChelsMedium.woff") format("woff");
+    font-family: "thechelsuk-bold";
+    src: url("fonts/thechelsuk-Bold.woff2") format("woff2"), url("fonts/thechelsuk-Bold.woff") format("woff");
     font-weight: bold;
 }
 
