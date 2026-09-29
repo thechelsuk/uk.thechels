@@ -11,6 +11,7 @@ date: 2026-09-29
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Tuesday, 29 September 2026
 
 - The average temperature today is 22.05˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 152 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Refuse Waste Collection Day
 - Food Waste Collection Day
 
@@ -41,12 +44,15 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Do better with less.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Boreham Wood v Kidderminster Harriers
 - AFC Fylde v Carlisle United
 - Barrow AFC v Scunthorpe United
@@ -58,27 +64,31 @@ _Good Morning, Here is your daily briefing..._
 - Woking v Solihull Moors
 - Yeovil Town v Worthing
 - Czech Republic v England
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 140.74000549316406 
-- ^FTSE : 10730.48046875 
-- ^FTMC : 24451.44921875 
+- VWRL.L : 140.74000549316406
+- ^FTSE : 10730.48046875
+- ^FTMC : 24451.44921875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > The police came round the other day saying they had reports our pet dog had been chasing the local kids on roller skates, funny I said, our dog does not own any roller skates.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Healthcare campaigners turn up the heat on Palantir at Labour conference (Register, [15 minutes ago](https://www.theregister.com/public-sector/2026/09/29/healthcare-campaigners-turn-up-the-heat-on-palantir-at-labour-conference/5299724))
 - US-Iran war adds €100bn to EU’s fuel bill (FT, [25 minutes ago](https://www.ft.com/content/f16439a7-5554-412a-ae34-b46459ce28a9?syn-25a6b1a6=1))
 - French students clash with police as blockades over conditions in schools intensify (Euronews, [27 minutes ago](https://www.euronews.com/2026/09/29/french-students-clash-with-police-as-blockades-over-conditions-in-schools-intensify))
@@ -88,7 +98,7 @@ _Good Morning, Here is your daily briefing..._
 - Euronews Travel & Tourism Summit: US envoy says Global Entry for Belgians could come by end of 2026 (Euronews, [1 hours ago](https://www.euronews.com/2026/09/29/euronews-travel-tourism-summit-us-envoy-says-global-entry-for-belgians-could-come-by-end-o))
 - Trump's AI rebrand sparks unexpected rush for Slovenian .si domains (Euronews, [1 hours ago](https://www.euronews.com/2026/09/29/trumps-ai-rebrand-sparks-unexpected-rush-for-slovenian-si-domains))
 - Slovakia school attack leaves one dead and two injured, emergency workers say (Euronews, [1 hours ago](https://www.euronews.com/2026/09/29/slovakia-school-attack-leaves-one-dead-and-two-injured-emergency-workers-say))
-- Latest news bulletin  September 29th, 2026 – Midday (Euronews, [1 hours ago](https://www.euronews.com/video/2026/09/29/latest-news-bulletin-september-29th-2026-midday))
+- Latest news bulletin September 29th, 2026 – Midday (Euronews, [1 hours ago](https://www.euronews.com/video/2026/09/29/latest-news-bulletin-september-29th-2026-midday))
 - Redmond to millions of Power BI users: You’re Fabric app devs now (Register, [1 hours ago](https://www.theregister.com/applications/2026/09/29/redmond-to-millions-of-power-bi-users-youre-fabric-app-devs-now/5299552))
 - Iran warns no regional oil is safe as IRGC touts new weapons (Euronews, [1 hours ago](https://www.euronews.com/2026/09/29/iran-warns-no-regional-oil-is-safe-as-irgc-touts-new-weapons))
 - Anthropic IPO filing warns AI may pose 'existential risks to humanity' (Euronews, [1 hours ago](https://www.euronews.com/2026/09/29/anthropic-ipo-filing-warns-ai-may-pose-existential-risks-to-humanity))
@@ -120,7 +130,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > androgynous - adjective: 1. Having both masculine and feminine characteristics, or being neither distinctly masculine nor feminine. 2. Biology: Having both male and female sex characteristics.
+> androgynous - adjective: 1. Having both masculine and feminine characteristics, or being neither distinctly masculine nor feminine. 2. Biology: Having both male and female sex characteristics.
 
 <!-- word_marker ends -->
 
@@ -135,6 +145,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Breathe more deeply
 
 <!-- eno_marker ends -->
@@ -142,9 +153,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - The First Purge (Rated: 3)
 - Released in 2018
 - Summary: America's third political party, the New Founding Fathers of America, comes to power and conducts an experiment: no laws for 12 hours on Staten Island. No one has to stay on the island, but $5,000 is given to anyone who does.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -165,9 +178,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Max Stoiber [URL](https://mxstbr.com/) [Feed](https://mxstbr.com/rss)
 - Mike Cohn [URL](https://www.mountaingoatsoftware.com/blog/) [Feed](http://www.mountaingoatsoftware.com/blog/rss)
 - Fun Retrospectives [URL](https://www.funretrospectives.com/) [Feed](http://www.funretrospectives.com/feed/)
 - The Lang Cat [URL](https://thelangcat.co.uk/) [Feed](https://langcatfinancial.co.uk/feed/)
 - Basic Apple Guy [URL](https://basicappleguy.com/) [Feed](https://www.basicappleguy.com/basicappleblog?format=rss)
+
 <!-- blogroll_marker ends -->
