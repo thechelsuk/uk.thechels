@@ -27,3 +27,5 @@ The finished font installs on iPad and Mac, so it appears in Pages, Keynote, Pro
 - Figures, punctuation and symbols, drawn or filled in for you
 - Install fonts directly on the iPad or Mac
 - iCloud sync
+
+> Check out [shop.thechels.ukl](https://shop.thechels.uk) to buy my fonts
