@@ -7,7 +7,7 @@ seo: "Explore and install custom themes for NetNewsWire"
 i_name: Install
 i_url: "https://github.com/thechelsuk/nnw-themes"
 summary: "Theme bundle for the NetNewsWire RSS reader app that contains a number of light, dark, and adjustable themes."
-v-thechelsuk: 1.9.2
+v-thechelsuk: 3.1.0
 type: wrench
 ---
 
@@ -26,3 +26,5 @@ Checkout the [releases archive](/archives/release) for the latest versions and c
 - [Install Retro directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Retro.zip)
 - [Install Fresh directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Fresh.zip)
 - [Install Magda directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Magda.zip)
+- [Install Magda directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Magda.zip)
+- [Install Claudio directly in NNW](netnewswire://theme/add?url=<https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Claudio> .zip)
