@@ -4,7 +4,7 @@ title: "Lansdown Foundry: Make Fonts"
 permalink: /projects/foundry
 class: applications
 seo: "Lansdown Foundry: A font making app on iPad and Mac with iCloud sync and export"
-i_name: Purchase on Gumroad
+i_name: "Available: **late October 2026**"
 i_url: "#"
 i_image: "/images/apps/foundry-banner.png"
 i_icon: "/images/apps/foundry-icon.png"
@@ -27,5 +27,3 @@ The finished font installs on iPad and Mac, so it appears in Pages, Keynote, Pro
 - Figures, punctuation and symbols, drawn or filled in for you
 - Install fonts directly on the iPad or Mac
 - iCloud sync
-
-Available: **late October 2026**
