@@ -3,14 +3,17 @@
 /* ---------------------------------- */
 
 @font-face {
-    font-family: "thechelsuk";
-    src: url("fonts/thechelsuk-Regular.woff2") format("woff2"), url("fonts/thechelsuk-Regular.woff") format("woff");
+    font-family: "Suffolks";
+    src: url("fonts/Suffolks-Regular.woff2") format("woff2"), url("fonts/Suffolks-Regular.woff") format("woff");
+    font-weight: normal;
+    font-display: swap;
 }
 
 @font-face {
-    font-family: "thechelsuk-bold";
-    src: url("fonts/thechelsuk-Bold.woff2") format("woff2"), url("fonts/thechelsuk-Bold.woff") format("woff");
+    font-family: "Suffolks";
+    src: url("fonts/Suffolks-Bold.woff2") format("woff2"), url("fonts/Suffolks-Bold.woff") format("woff");
     font-weight: bold;
+    font-display: swap;
 }
 
 /* ---------------------------------- */
@@ -28,8 +31,8 @@
     --code: #c0deff;
     --tab: #b6b6b4;
     --alt-tab: #fffafa;
-    --font-stack: thechelsuk, -system-ui, "Gill Sans", sans-serif;
-    --header-stack: thechelsuk-bold, -system-ui, "Gill Sans", sans-serif;
+    --font-stack: Suffolks, Georgia, serif, -system-ui, "Gill Sans";
+    --header-stack: Suffolks, Georgia, serif, -system-ui, "Gill Sans";
     --font-mono: "JetBrains Mono", ui-monospace, monospace, "Courier New";
     --trans:
         color 0.5s cubic-bezier(0.4, 0, 0.2, 1),
@@ -416,7 +419,6 @@ p {
 
 strong,
 b {
-    font-family: "thechelsuk-bold";
     font-weight: bold;
 }
 
