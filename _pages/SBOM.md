@@ -2,7 +2,7 @@
 title: Software Bill of Materials (SBOM)
 layout: pages
 date: 2026-05-06
-robots: noindex, nofollow
+robots: noindex
 permalink: /SBOM
 seo: Software Bill of Materials (SBOM) for thechelsuk website
 ---
