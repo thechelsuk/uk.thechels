@@ -11,6 +11,7 @@ date: 2026-10-03
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Saturday, 03 October 2026
 
 - The average temperature today is 15.24˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 156 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Water the plants
 
 <!-- task_marker ends -->
@@ -40,12 +43,15 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Focus on user needs.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Brentwood Town v Dagenham & Redbridge
 - Crystal Palace v Bristol City
 - Chesterfield v Tranmere Rovers
@@ -74,30 +80,34 @@ _Good Morning, Here is your daily briefing..._
 - Yeovil Town v Boston United
 - England U20 v Germany U20
 - Croatia v England
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 140.67999267578125 
-- ^FTSE : 10462.0 
-- ^FTMC : 24194.19921875 
+- VWRL.L : 140.67999267578125
+- ^FTSE : 10462.0
+- ^FTMC : 24194.19921875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > It is very difficult to find work during a recession and every workplace is affected, just a few days ago I heard lots of firefighters were getting fired.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - China launches anti-dumping probe into European chemical exports (FT, [7 minutes ago](https://www.ft.com/content/bae0af94-f42d-47d1-a1a8-fab608e75a72?syn-25a6b1a6=1))
 - China opens anti-dumping probe into EU days before Beijing trade talks (Euronews, [14 minutes ago](https://www.euronews.com/2026/10/03/china-opens-anti-dumping-probe-into-eu-days-before-beijing-trade-talks))
-- Latest news bulletin  October 3rd, 2026 – Midday (Euronews, [23 minutes ago](https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-midday))
+- Latest news bulletin October 3rd, 2026 – Midday (Euronews, [23 minutes ago](https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-midday))
 - UAE says FlyDubai co-pilot attacked captain with axe in “terrorist” act (Euronews, [55 minutes ago](https://www.euronews.com/2026/10/03/uae-says-flydubai-co-pilot-attacked-captain-with-axe-in-terrorist-act))
 - How airlines try to weed out rogue pilots (FT, [2 hours ago](https://www.ft.com/content/3e976e07-d85c-4ee3-8dff-208296684ca0?syn-25a6b1a6=1))
 - Palantir's fondness for French food cooked up tech's latest fad – forward-deployed engineers (Register, [2 hours ago](https://www.theregister.com/channel/2026/10/03/palantirs-fondness-for-french-food-cooked-up-techs-latest-fad-forward-deployed-engineers/5300360))
@@ -136,7 +146,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > veracity - noun: 1. Truthfulness or accuracy. 2. Something true; a truth.
+> veracity - noun: 1. Truthfulness or accuracy. 2. Something true; a truth.
 
 <!-- word_marker ends -->
 
@@ -151,6 +161,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Give the game away
 
 <!-- eno_marker ends -->
@@ -158,9 +169,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - The Devil Inside (Rated: 8)
 - Released in 2012
 - Summary: In Italy, a woman becomes involved in a series of unauthorized exorcisms during her mission to discover what happened to her mother, who allegedly murdered three people during her own exorcism.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -181,9 +194,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Robb Owen [URL](http://robbowen.digital/) [Feed](https://robbowen.digital/feed.xml)
 - Piccalilli (links) [URL](https://piccalil.li/) [Feed](https://piccalil.li/links.xml)
 - Aaron Randall [URL](https://aaronrandall.com/) [Feed](https://aaronrandall.com/feed/)
 - Peter Suhm [URL](https://petersuhm.com/) [Feed](https://petersuhm.com/feed/feed.xml)
 - Robin Rendle [URL](https://robinrendle.com/) [Feed](https://robinrendle.com/feed.xml)
+
 <!-- blogroll_marker ends -->
