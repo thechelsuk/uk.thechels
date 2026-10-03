@@ -32,4 +32,4 @@ What I've been listening to this month.
 17. Blinded - The Bots
 18. Creep - Radiohead
 
-You can listen along on [Apple Music here](https://music.apple.com/profile/thechelsuk) as well as see the [archive here](/archives/mixtapes).
+You can listen along on [Apple Music here](https://music.apple.com/profile/thechelsuk) as well as see the [archive here](/archives/mixtape).
