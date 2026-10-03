@@ -14,6 +14,8 @@ type: mobile
 
 Nuchronic helps people with ME/CFS, long COVID and other chronic illnesses track their energy and symptoms in seconds, keep a crash plan and health records together, and take a clear PDF record to appointments. It's the [Nuchronic printables](https://nuchronic.uk/printables) as an app, and a companion to [Nuchronic.uk](/projects/nuchronic).
 
+View [site](https://nuchronic.uk) &rarr;
+
 ## Highlights
 
 - A daily check-in in a few taps: energy, symptoms, PEM or crash, sleep, pain, brain fog, dizziness and up to four symptoms of your own, on simple 0 to 4 scales.

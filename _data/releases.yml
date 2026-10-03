@@ -44,3 +44,7 @@
   url: https://github.com/thechelsuk/template-feed-archiver/releases.atom
 - id: Embed @ thechelsuk - YouTube referrer for NetNewsWire Themes
   url: https://github.com/thechelsuk/uk.thechels.embed/releases.atom
+- id: Tomoz @ thechelsuk - iOS app marketing site
+  url: https://github.com/thechelsuk/uk.thechels.tomoz/releases.atom
+- id: ShortKeys @ thechelsuk - iOS app marketing site
+  url: https://github.com/thechelsuk/uk.thechels.shortkeys/releases.atom

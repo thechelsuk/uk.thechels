@@ -14,6 +14,8 @@ type: mobile
 
 ShortKeys is a productivity app for people who live in text. Build multi-line snippets, drop them behind memorable keyboard shortkeys, and fly through forms, support replies, or daily journaling.
 
+View [marketing site](https://shortkeys.thechels.uk) &rarr;
+
 ## Highlights
 
 - Custom iOS keyboard brings text expansion to any app with haptics, keyboard sounds, double-space periods, and hold-to-repeat backspace.

@@ -14,6 +14,8 @@ type: mobile
 
 Tomoz makes it easy to plan for tomorrow today. Pick and choose calendars, add in reminders and get a clear unified view of tomorrow.
 
+View [marketing site](https://tomoz.thechels.uk) &rarr;
+
 ## Highlights
 
 - Built in SwiftUI experience that surfaces only tomorrow's events in a clean, simple interface.
