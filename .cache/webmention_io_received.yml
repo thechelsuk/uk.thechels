@@ -5689,3 +5689,41 @@
 "/video-one-to-one-coaching-toolkit-for-engineering-managers-803350d6": {}
 "/video-one-to-one-coaching-toolkit-shorts-a73f2561": {}
 "/2026-10-02-daily-rundown": {}
+"/2026-06-05-daily-rundown": {}
+"/microsoft-wanted-to-make-addictive-ai":
+  '2000829':
+    id: '2000829'
+    uri: https://ap.brid.gy/convert/web/https://mastodon.social/users/nonzerosumjames%23likes/297045419
+    source: false
+    pubdate: 2026-06-05 23:56:55.000000000 +00:00
+    raw:
+      source: https://ap.brid.gy/convert/web/https://mastodon.social/users/nonzerosumjames%23likes/297045419
+      verified: true
+      verified_date: '2026-06-05T23:56:55+00:00'
+      id: 2000829
+      private: false
+      data:
+        author: &88
+          name: James
+          url: https://mastodon.social/@nonzerosumjames
+          photo: https://avatars.webmention.io/files.mastodon.social/6e8596b5d519c03e0aa77f833ed8fda3c20964599edd5ea406810f0868dcd233.png
+        url: https://ap.brid.gy/convert/web/https://mastodon.social/users/nonzerosumjames%23likes/297045419
+        name:
+        content: <a href="https://thechels.uk/microsoft-wanted-to-make-addictive-ai">likes
+          this.</a>
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://thechels.uk/microsoft-wanted-to-make-addictive-ai
+    author: *88
+    type: like
+    content: ''
+"/cool-down-before-you-install-gems-to-be-vetted": {}
+"/df-quoting-daniel-jalkut-on-ai": {}
+"/2026-07-06-daily-rundown": {}
+"/uefa-statement-on-the-balogun-case": {}
+"/uk-ranks-22nd-out-of-38-oecd-countries-on-zurichs-chronic-care-index": {}
+"/5-albums": {}
+"/8-track": {}
+"/2026-08-06-daily-rundown": {}
