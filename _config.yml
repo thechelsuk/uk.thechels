@@ -148,8 +148,6 @@ navigation_data:
     title: "Podcasts"
   - link: "/blogroll"
     title: "Blogroll"
-  - link: "/rides"
-    title: "Rides"
   - link: "/slogans"
     title: "Slogans"
   - link: "/films"
@@ -185,6 +183,12 @@ navigation_archives:
     title: "Blog Posts"
   - link: "/archives/film"
     title: "Film"
+  - link: "/archives/ride"
+    title: "Rides"
+  - link: "/archives/ticket"
+    title: "Tickets"
+  - link: "/archives/rss"
+    title: "RSS only"
 
 ## SubMenu
 navigation_slashes:
