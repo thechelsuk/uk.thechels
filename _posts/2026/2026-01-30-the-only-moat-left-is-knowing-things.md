@@ -3,6 +3,8 @@ layout: post
 date: 2026-01-30
 link: https://growtika.com/blog/authenticity-edge
 title: The Only Moat Left Is Knowing Things
+seo_title: "The Only Moat Left Is Knowing Things"
+seo_description: "Linking Growtika on authenticity as an edge, with 54 per cent of LinkedIn posts likely AI-written, and why AI slop on Reddit seems underestimated."
 type: linked
 cited: growtika
 ---

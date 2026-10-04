@@ -2,10 +2,11 @@
 layout: post
 date: 2026-03-24
 title: "Incidence of ME peaks in adolescence or early middle age"
+seo_title: "ME/CFS Onset Peaks in Adolescence and Early Middle Age"
+seo_description: "Linking Edinburgh research on 9,000 people with ME/CFS across ten European countries, finding onset peaks in adolescence and early middle age."
 type: linked
 cited: Institute of Genetics and Cancer
 link: "https://institute-genetics-cancer.ed.ac.uk/incidence-of-me-peaks-in-adolescence-or-early-middle-age"
-seo: "Researchers have found strong evidence that people are most likely to develop ME/CFS at two points in life"
 tags:
   - me
 ---

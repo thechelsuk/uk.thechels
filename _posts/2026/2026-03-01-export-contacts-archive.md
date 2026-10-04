@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to export your contacts from Apple Contacts
-seo: Ways - How to export your contacts from Apple Contacts
+seo_title: "How to Export Contacts From Apple Contacts on Mac"
+seo_description: "How to export some or all of your contacts from the Contacts app on Mac as a vCard (.vcf) file or a contacts archive for backup or transfer."
 
 link: https://support.apple.com/en-gb/guide/contacts/adrbdcfd32e6/mac
 type: linked

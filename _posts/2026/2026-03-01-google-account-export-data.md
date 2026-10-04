@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to get data from your Google account
-seo: Ways - Google account export data
+seo_title: "How to Export Your Data With Google Takeout"
+seo_description: "How to download a copy of your data from Google products such as YouTube using Google Takeout: sign in, choose the data and create an export."
 
 link: https://takeout.google.com/
 type: linked

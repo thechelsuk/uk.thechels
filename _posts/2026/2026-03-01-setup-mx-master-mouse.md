@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to setup my MX Master Mouse
-seo: Ways - How to setup my MX Master Mouse
+seo_title: "How to Set Up a Logitech MX Master Mouse"
+seo_description: "How to set up and customise a Logitech MX Master mouse's buttons and settings using Logi Options+, with a link to Logitech's support guide."
 
 link: https://www.logitech.com/en-gb/software/logi-options-plus
 type: linked

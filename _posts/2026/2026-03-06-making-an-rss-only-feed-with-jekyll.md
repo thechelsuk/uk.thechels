@@ -2,6 +2,8 @@
 layout: post
 date: 2026-03-06
 title: Making an RSS only feed with Jekyll
+seo_title: "How to Make an RSS-Only Feed With Jekyll"
+seo_description: "How I publish RSS-only posts on a Jekyll site, using a collection in _config.yml so posts appear in the feed but not on the website itself."
 
 type: blog
 ---

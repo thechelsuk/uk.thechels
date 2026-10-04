@@ -3,6 +3,8 @@ layout: post
 date: 2026-02-22
 link: https://www.malwarebytes.com/blog/news/2026/02/age-verification-vendor-persona-left-frontend-exposed
 title: Age verification vendor Persona left frontend exposed
+seo_title: "Age Verification Vendor Persona Left Frontend Exposed"
+seo_description: "Linking Malwarebytes: researchers checking Discord's age verification found an exposed frontend belonging to its identity vendor, Persona."
 type: linked
 cited: Malwarebytes
 ---

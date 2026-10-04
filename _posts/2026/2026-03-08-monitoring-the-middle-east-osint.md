@@ -2,6 +2,8 @@
 layout: post
 date: 2026-03-08
 title: Monitoring the Middle-East OSINT
+seo_title: "Monitoring the Middle East With OSINT Tools"
+seo_description: "Resources for monitoring the situation in the Middle East with open source intelligence tools, live cams on Twitch and YouTube, and live streams."
 type: rss
 show: false
 ---

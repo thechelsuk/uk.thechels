@@ -2,6 +2,8 @@
 layout: post
 date: "2026-03-11"
 title: Thechels.uk Version 1.8.0
+seo_title: "thechels.uk Version 1.8.0 Release Notes"
+seo_description: "Release notes for version 1.8.0 of thechels.uk: syndication in the build pipeline, a lighter footer with less CSS and webmention bug fixes."
 type: release
 link: https://github.com/thechelsuk/uk.thechels/releases/tag/1.8.0
 release_id: tag:github.com,2008:Repository/107385143/1.8.0

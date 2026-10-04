@@ -2,6 +2,8 @@
 layout: post
 date: 2026-02-27
 title: Monthly Mixtape - Feb 2026
+seo_title: "Monthly Mixtape February 2026 - Kaiser Chiefs, The Hu"
+seo_description: "My February 2026 mixtape of songs on repeat, including Learnt My Lesson Well by Kaiser Chiefs, Tin Tin Out and Yuve Yuve Yu by The Hu."
 type: mixtape
 ---
 

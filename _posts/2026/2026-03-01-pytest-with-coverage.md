@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to run Pytest with coverage
-seo: Ways - How to run Pytest with coverage
+seo_title: "How to Run Pytest With Coverage Reports"
+seo_description: "How to run pytest with coverage using pytest --cov=. --cov-report=html to run all tests and generate an HTML code coverage report you can open."
 
 date: 2026-03-01
 type: ways

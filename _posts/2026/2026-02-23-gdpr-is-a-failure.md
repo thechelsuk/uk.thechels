@@ -3,6 +3,8 @@ layout: post
 date: 2026-02-23
 link: https://nikolak.com/gdpr-failure/
 title: GDPR is a failure
+seo_title: "GDPR Is a Failure - Requests Lost in Spam Filters"
+seo_description: "Linking Nikolak on why GDPR fails: if a company's own spam filter eats your data request, it legally never happened, with no duty to check."
 type: linked
 cited: Nikolak
 ---

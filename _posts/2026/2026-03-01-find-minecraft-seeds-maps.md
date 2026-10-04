@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to find Minecraft seeds maps
-seo: Ways - How to find Minecraft seeds maps
+seo_title: "How to Find Minecraft Seed Maps With Chunkbase"
+seo_description: "How to view a map of any Minecraft world using its seed ID: find the seed in game settings, enter it on Chunkbase and pick your game version."
 
 link: https://www.chunkbase.com/apps/seed-map
 type: linked

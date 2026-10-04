@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to create navigation for thechelsuk
-seo: Ways - create navigation for thechelsuk
+seo_title: "How to Create Navigation Menus for thechels.uk"
+seo_description: "How navigation menus on thechels.uk are managed in _config.yml: find the menu, add an item with title and link, then commit and push to deploy."
 
 date: 2026-03-01
 type: ways

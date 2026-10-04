@@ -2,6 +2,8 @@
 layout: post
 date: 2026-03-27
 title: TIL - Centipede game theory
+seo_title: "TIL - The Centipede Game in Game Theory"
+seo_description: "Today I learned about the centipede game, from Robert Rosenthal in 1981: two players take turns to take a larger share or pass a growing pot."
 link: https://en.wikipedia.org/wiki/Centipede_game
 type: linked
 cited: Wikipedia

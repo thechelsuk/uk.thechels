@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to reset WiFi on Homebridge
-seo: Ways - How to reset WiFi on Homebridge
+seo_title: "How to Reset WiFi on a Homebridge Raspberry Pi"
+seo_description: "How to disconnect a Homebridge Raspberry Pi from your WiFi network: run sudo hb-config and use the Networking option to reset the connection."
 
 link: https://github.com/homebridge/homebridge-raspbian-image/wiki/How-To-Reset-WiFi
 type: linked

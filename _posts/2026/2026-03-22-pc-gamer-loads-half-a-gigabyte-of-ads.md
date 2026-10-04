@@ -3,6 +3,8 @@ layout: post
 date: 2026-03-22
 link: https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/
 title: PC Gamer loads half a gigabyte of ads
+seo_title: "PC Gamer Loads Half a Gigabyte of Ads"
+seo_description: "Linking Stuart Breckenridge: a 37MB PC Gamer article recommending RSS readers went on to download almost half a gigabyte of ads. RSS forever."
 type: linked
 cited: Stuart Breckenridge
 ---

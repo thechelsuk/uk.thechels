@@ -3,6 +3,8 @@ layout: post
 date: 2026-03-02
 link: https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase
 title: How to Record and Retrieve Anything You’ve Ever Had to Look Up Twice
+seo_title: "Record Anything You Have Had to Look Up Twice"
+seo_description: "Linking Ellane W on a personal knowledge base. I use this site and GoodLinks tagged #howto, which helps a lot with ME brain fog."
 type: linked
 cited: Ellane W
 ---

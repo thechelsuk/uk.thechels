@@ -2,6 +2,8 @@
 layout: post
 date: 2026-03-12
 title: Is the US a Terrorist organisation
+seo_title: "Is the US a Terrorist Organisation Under UK Law?"
+seo_description: "Comparing recent US actions with the definition of terrorism in the UK Terrorism Act 2000, as set out on the Crown Prosecution Service website."
 
 type: blog
 ---

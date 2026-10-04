@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to delete WhatsApp
-seo: Ways - How to delete WhatsApp
+seo_title: "How to Delete Your WhatsApp Account Permanently"
+seo_description: "How to delete your WhatsApp account: Settings, Account, Delete My Account. It is irreversible and chats, media and backups cannot be restored."
 
 link: https://faq.whatsapp.com/2138577903196467/
 type: linked

@@ -1,6 +1,8 @@
 ---
 layout: empty
 title: NetNewsWire theme for thechelsuk V1
+seo_title: "thechelsuk NetNewsWire Theme Version 1"
+seo_description: "Install my free thechelsuk theme for NetNewsWire, based on the light and alt themes on this website, with a one-tap link to add it to the app."
 date: 2026-03-19
 tag:
 type: rss

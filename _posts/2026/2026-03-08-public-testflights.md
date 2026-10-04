@@ -2,6 +2,8 @@
 layout: post
 date: 2026-03-08
 title: Public TestFlights
+seo_title: "Public TestFlights for My iOS Apps - Try Them"
+seo_description: "My iOS apps, including EngMan, have public TestFlight betas open. Tap a link on your iPhone to install TestFlight and try the latest builds."
 type: rss
 show: false
 ---

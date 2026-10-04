@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to cancel a subscription on Apple
-seo: Ways - How to cancel a subscription on Apple
+seo_title: "How to Cancel a Subscription on iPhone or iPad"
+seo_description: "Step-by-step guide to cancelling an Apple subscription on iPhone or iPad: open Settings, tap your name, then Subscriptions and cancel."
 
 link: https://support.apple.com/en-us/118428
 type: linked

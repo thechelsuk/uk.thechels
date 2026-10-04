@@ -2,6 +2,8 @@
 layout: post
 date: 2026-03-27
 title: TIL - The XY Problem
+seo_title: "TIL - The XY Problem When Asking for Help"
+seo_description: "Today I learned about the XY problem: asking about your attempted solution instead of your actual problem, wasting everyone's time and energy."
 link: https://xyproblem.info/
 type: linked
 cited: xyproblem

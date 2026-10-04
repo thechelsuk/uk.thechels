@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to watch NWSL games on TV
-seo: Ways - How to watch NWSL games on TV
+seo_title: "How to Watch NWSL Games in the UK on NWSL+"
+seo_description: "How to watch NWSL games in the UK in a browser or on TV with NWSL+. It seems to allow multiple logins, so you can watch several games at once."
 
 link: https://plus.nwslsoccer.com/
 type: linked

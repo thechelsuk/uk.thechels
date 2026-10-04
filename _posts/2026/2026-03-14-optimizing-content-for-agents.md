@@ -3,6 +3,8 @@ layout: post
 date: 2026-03-14
 link: https://cra.mr/optimizing-content-for-agents/
 title: Optimizing Content for Agents
+seo_title: "Optimising Website Content for AI Agents"
+seo_description: "Linking David Cramer on optimising content for agents with content negotiation. The new SEO is serving agents Markdown in a format that works."
 type: linked
 cited: David Cramer
 ---

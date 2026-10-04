@@ -3,6 +3,8 @@ layout: post
 date: 2026-03-11
 link: https://castro.fm/blog/pod-seek
 title: Pod Seek is a new product by Castro
+seo_title: "Pod Seek - A New Podcast Discovery Tool by Castro"
+seo_description: "Linking Castro's Pod Seek, a podcast discovery experiment kept separate from the app. I found a couple of new shows; Castro seems in safe hands."
 type: linked
 cited: Castro
 ---

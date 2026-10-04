@@ -3,6 +3,8 @@ layout: post
 date: 2026-03-15
 link: https://www.theregister.com/2026/03/09/rss_in_2026/
 title: RSS dulls the pain of the modern web
+seo_title: "RSS Dulls the Pain of the Modern Web - The Register"
+seo_description: "Linking a nice editorial from The Register on rediscovering RSS as a calmer way to follow the constant stream of tech news in 2026."
 type: linked
 cited: The Register
 ---

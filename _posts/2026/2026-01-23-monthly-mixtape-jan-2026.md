@@ -2,6 +2,8 @@
 layout: post
 date: 2026-01-23
 title: Monthly Mixtape - Jan 2026
+seo_title: "Monthly Mixtape January 2026 - Parquet Courts, Suede"
+seo_description: "My January 2026 mixtape of songs on repeat, including Freebird II by Parquet Courts, Suede, The Charlatans and Sixpence None the Richer."
 type: mixtape
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to reset Apple TV volume remote
-seo: Ways - How to reset Apple TV volume remote
+seo_title: "How to Fix Apple TV Remote Volume Not Working"
+seo_description: "If your Apple TV remote stops controlling the volume, reset it by holding the TV button and volume down for about five seconds. Here is how."
 
 link: https://support.apple.com/en-gb/HT213437
 type: linked

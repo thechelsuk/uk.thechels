@@ -3,6 +3,8 @@ layout: post
 date: 2026-02-22
 link: https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163
 title: The AI Vampire
+seo_title: "The AI Vampire - Steve Yegge on AI and Burnout"
+seo_description: "Linking Steve Yegge's The AI Vampire, and wondering how often AI will be blamed for poor management, overwork, stress and burnout."
 type: linked
 cited: Steve Yegge
 ---

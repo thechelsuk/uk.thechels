@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to create various data types for thechelsuk
-seo: Ways - create data types for thechelsuk
+seo_title: "How to Create Data Types for thechels.uk"
+seo_description: "How each data type on thechels.uk is created, such as adding a film using a Drafts template, with the process and format for each type."
 
 date: 2026-03-01
 type: ways

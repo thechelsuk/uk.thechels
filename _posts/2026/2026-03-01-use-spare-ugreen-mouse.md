@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to use my spare UGREEN MU101 Wireless Mouse
-seo: Ways - How to use my spare UGREEN MU101 ergo Wireless Mouse (User Guide)
+seo_title: "How to Pair a UGREEN MU101 Wireless Mouse"
+seo_description: "User guide for the UGREEN MU101 ergonomic wireless mouse: connect with the USB receiver, force pairing if needed and connect via Bluetooth."
 
 link: https://manuals.plus/ugreen/mu101-ergonomic-wireless-mouse-manual?expand_article=1#bluetooth_connection
 type: linked

@@ -3,6 +3,8 @@ layout: post
 date: 2026-03-19
 link: https://emptystands.me/en/
 title: Empty Stands - Fans with ME+
+seo_title: "Empty Stands - Football Fans Living With ME/CFS"
+seo_description: "Linking Empty Stands, a support group of football fans in Germany, Austria and Switzerland living with ME/CFS, long COVID and post-vac."
 type: linked
 cited: Empty Stands
 tags:

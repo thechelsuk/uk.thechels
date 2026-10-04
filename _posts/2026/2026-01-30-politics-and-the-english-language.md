@@ -3,6 +3,8 @@ layout: post
 date: 2026-01-30
 link: https://daringfireball.net/2026/01/politics_and_the_english_language_january_2026_edition
 title: Politics and the English Language
+seo_title: "Politics and the English Language - Tim Cook"
+seo_description: "Linking John Gruber on Tim Cook's call for de-escalation without saying who should change course. Frustrated by a company that once did right."
 type: linked
 cited: John Gruber (Daring Fireball)
 ---

@@ -2,6 +2,8 @@
 layout: post
 date: 2026-03-02
 title: How do I support a team losing motivation due to AI vs dev work
+seo_title: "Supporting a Team Losing Motivation to AI Wrangling"
+seo_description: "How to support an engineering team losing motivation from wrangling AI instead of writing code: start with a listening tour and play it back."
 
 type: blog
 ---

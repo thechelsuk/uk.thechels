@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to add a Hue Dimmer Switch to HomeKit
-seo: Ways - Hue Dimmer Switch and HomeKit
+seo_title: "How to Add a Hue Dimmer Switch to Apple HomeKit"
+seo_description: "How to add a Philips Hue Dimmer Switch to HomeKit, and fix it appearing in the default room rather than the room you picked during setup."
 
 link: https://www.reddit.com/r/Hue/comments/yopggl/comment/ivg11ri
 type: linked

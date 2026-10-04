@@ -3,6 +3,8 @@ layout: post
 date: 2026-02-23
 link: https://www.gov.uk/government/news/government-to-crack-down-on-gambling-operator-sport-sponsorship
 title: Government to crack down on gambling operator sport sponsorship
+seo_title: "UK Crackdown on Unlicensed Gambling Sports Sponsors"
+seo_description: "Linking GOV.UK on stopping unlicensed gambling operators sponsoring sport. Good to know the endless betting adverts are at least licensed."
 type: linked
 cited: Gov.uk
 ---

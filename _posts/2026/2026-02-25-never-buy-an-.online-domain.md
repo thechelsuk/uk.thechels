@@ -3,6 +3,8 @@ layout: post
 date: 2026-02-25
 link: https://www.0xsid.com/blog/online-tld-is-pain
 title: Never Buy an .online Domain
+seo_title: "Never Buy an .online Domain - Research TLDs First"
+seo_description: "Linking a cautionary tale about a free .online domain from Namecheap, and why you should always research a domain's history before buying it."
 type: linked
 cited: Sid
 ---

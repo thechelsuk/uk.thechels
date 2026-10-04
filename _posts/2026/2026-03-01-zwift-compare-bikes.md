@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to compare bikes in Zwift
-seo: Ways - How to compare bikes in Zwift
+seo_title: "How to Compare Bikes in Zwift - Best Bike for a Route"
+seo_description: "How to find the best Zwift bike for the route you want to ride, and compare frame and wheel stats side by side using the Zwifter Bikes website."
 
 link: https://zwifterbikes.web.app/
 type: linked

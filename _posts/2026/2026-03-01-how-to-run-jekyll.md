@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to run Jekyll locally
-seo: Ways - run Jekyll locally
+seo_title: "How to Run a Jekyll Site Locally - Step by Step"
+seo_description: "How to run a Jekyll site locally: clone the repository, run bundle install, then bundle exec jekyll build or serve to preview your site."
 
 date: 2026-03-01
 type: ways

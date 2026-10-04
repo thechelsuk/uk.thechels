@@ -5,6 +5,8 @@ link: https://cybaa.io/blog/2026-03-10/changelog-2026-01-2026-02
 type: linked
 cited: Joe Tiedeman (Cybaa.io)
 title: Cybaa adds web dependency intelligence
+seo_title: "Cybaa Adds Web Dependency Intelligence and Headers"
+seo_description: "Linking Cybaa's update adding security header monitoring and web dependency intelligence to its domain monitoring and attack surface product."
 ---
 
 Use the free tools and then subscribe.
