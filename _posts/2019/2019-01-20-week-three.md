@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Week Three - Strong Start with Easy Runs and Commutes
+seo_title: "Running Week 3 - Easy Runs, Track Day and Commutes"
+seo_description: "Week three of my 2019 running challenge: 27.5 miles, with a 7.1 mile easy run, run commutes and a track session of two sets of 5x 400 metres."
 total: [27.5]
 tag:
   - runs

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: New Beginnings - Head of Software Development Journey
+seo_title: "New Beginnings - 1200 Miles Run and a New Role"
+seo_description: "An update after my 1000 mile challenge: finishing 2019 on 1200 miles, raising over £1000 for charity, and starting as head of software development."
 tag:
 
 type: blog

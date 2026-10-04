@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Chelsea take early control
+seo_title: "Chelsea Take Early Control - 2-0 Up Inside Six Minutes"
+seo_description: "Chelsea stats: going 2-0 up inside six minutes at Brighton was Chelsea's second fastest in a Premier League away game, after Everton 3-6 Chelsea in 2014."
 date: 2018-01-24T07:40:14Z
 tag:
   - stats

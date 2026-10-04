@@ -1,6 +1,8 @@
 ---
 layout: post
 title: How to create a custom GitHub issues template
+seo_title: "How to Create a Custom GitHub Issue Template"
+seo_description: "How and why I created a custom GitHub issue template, giving people a structured way to contact me or make requests through a new issue form."
 tag:
 type: blog
 ---

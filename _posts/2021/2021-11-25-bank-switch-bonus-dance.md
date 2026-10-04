@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Bank Switch Dance
+seo_title: "The Bank Switch Dance - Collecting UK Switching Bonuses"
+seo_description: "How I played the bank switch dance to collect UK current account switching bonuses, including the catch that Revolut is not part of CASS."
 date: 2021-11-25 22:00
 tag:
 type: blog

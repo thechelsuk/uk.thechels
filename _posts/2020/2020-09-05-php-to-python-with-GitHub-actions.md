@@ -1,6 +1,8 @@
 ---
 layout: post
 title: From PHP to Python and GitHub Actions
+seo_title: "From PHP to Python and GitHub Actions - A Rewrite"
+seo_description: "Rewriting Horo Football, a Twitter bot that posted random football horoscopes, from a PHP cron job to a Python script running on GitHub Actions."
 date: 2020-09-05 17:00
 type: blog
 ---

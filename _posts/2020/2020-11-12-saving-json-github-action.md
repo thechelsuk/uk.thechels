@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Saving json file using GitHub actions and curl
+seo_title: "Save a JSON File With GitHub Actions and curl"
+seo_description: "A simpler and more reliable way to save a public JSON file to your repo on a schedule, using curl in a GitHub Action instead of a Python script."
 date: 2020-11-12
 tag:
 

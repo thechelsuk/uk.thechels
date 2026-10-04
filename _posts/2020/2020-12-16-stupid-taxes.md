@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Stupid Taxes - Time and Status Drains on Life Goals
+seo_title: "Stupid Taxes - Hidden Costs on Your Time and Money"
+seo_description: "A list of stupid taxes that drain time and money: distractions from your goals, branded goods, auto-renewing subscriptions, the lottery and more."
 date: 2020-12-16
 tag:
 

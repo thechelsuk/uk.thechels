@@ -1,6 +1,8 @@
 ---
 layout: post
 title: GitHub removes non-essential cookies
+seo_title: "GitHub Removes Non-Essential Cookies and Cookie Banner"
+seo_description: "Linking GitHub's announcement that it removed all non-essential cookies from its website, so it no longer needs a cookie banner, to protect privacy."
 date: 2020-12-18
 tag:
 type: linked

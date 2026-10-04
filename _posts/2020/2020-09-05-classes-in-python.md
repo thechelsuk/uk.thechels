@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Learning Classes in Python
+seo_title: "Learning Classes in Python - A Simple OOP Example"
+seo_description: "Learning object-oriented Python by building a Polygon class: defining a class, adding a draw method and subclassing it as a Square, with example code."
 date: 2020-09-05 21:00
 tag:
 type: blog
