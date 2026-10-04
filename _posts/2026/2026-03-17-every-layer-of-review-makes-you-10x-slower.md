@@ -3,6 +3,8 @@ layout: post
 date: 2026-03-17
 link: https://apenwarr.ca/log/20260316
 title: Every layer of review makes you 10x slower
+seo_title: "Every Layer of Review Makes You 10x Slower"
+seo_description: "Linking Apenwarr on how each layer of review slows teams tenfold, and why teams should use trunk-based development and mob programming instead."
 type: linked
 cited: Apenwarr
 ---

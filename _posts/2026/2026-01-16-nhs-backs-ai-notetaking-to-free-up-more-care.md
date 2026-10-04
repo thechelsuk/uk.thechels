@@ -3,6 +3,8 @@ layout: post
 date: 2026-01-16
 link: https://www.england.nhs.uk/2026/01/nhs-backs-ai-notetaking-free-up-more-face-to-face-care/
 title: NHS backs AI notetaking to free up more care
+seo_title: "NHS Backs AI Notetaking - When AI Gets It Wrong"
+seo_description: "Linking the NHS on AI notetaking to free up face-to-face care, and why errors matter: my record wrongly says hiccups and a hangover, not reflux."
 type: linked
 cited: NHS
 ---

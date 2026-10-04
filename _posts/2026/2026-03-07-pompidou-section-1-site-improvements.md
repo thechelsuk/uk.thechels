@@ -2,6 +2,8 @@
 layout: post
 date: 2026-03-07
 title: Pompidou Section 1 - Site Improvements
+seo_title: "Pompidou Section 1 - Site Improvements and POSSE"
+seo_description: "Recent site improvements: an RSS-only feed, webmentions, POSSE syndication and Markdown copies of posts, all computed at build time."
 type: rss
 show: false
 ---

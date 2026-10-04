@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to replace the battery in your Apple AirTag
-seo: Ways - How to replace the CR2032 battery in your Apple AirTag
+seo_title: "How to Replace the CR2032 Battery in an Apple AirTag"
+seo_description: "How to replace an AirTag battery in about a minute with a standard CR2032 3V coin cell, no tools needed, plus how to check the battery level."
 link: https://support.apple.com/en-gb/102600
 type: linked
 cited: Apple Support

@@ -3,6 +3,8 @@ layout: post
 date: 2026-01-23
 link: https://joetiedeman.uk/2026/01/22/snyk-is-shutting-down-the-securityheaders-com-api/
 title: Snyk is shutting down the securityheaders.com API
+seo_title: "The securityheaders.com API Is Shutting Down"
+seo_description: "Linking Joe Tiedeman: the Security Headers API shuts down in April 2026, though the free website stays. Cybaa offers an alternative for checks."
 type: linked
 cited: Joe Tiedeman
 ---

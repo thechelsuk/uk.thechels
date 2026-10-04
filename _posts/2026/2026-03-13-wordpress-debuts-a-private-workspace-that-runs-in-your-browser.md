@@ -3,6 +3,8 @@ layout: post
 date: 2026-03-13
 link: https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/
 title: WordPress debuts a private workspace in your browser
+seo_title: "WordPress Debuts a Private Workspace in Your Browser"
+seo_description: "Linking TechCrunch on my.wordpress.net, a private WordPress that runs in your browser. Useful 15 years ago; today Jekyll serve does the job."
 type: linked
 cited: TechCrunch
 ---

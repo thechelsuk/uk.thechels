@@ -3,6 +3,8 @@ layout: post
 date: 2026-02-22
 link: https://www.skysports.com/football/news/11095/13510939/wolves-striker-tolu-arokodare-and-sunderland-winger-romaine-mundle-subjected-to-racist-abuse-on-social-media
 title: Racism is rife and emboldened by politics and inaction
+seo_title: "Racism in Football Is Rife and Emboldened by Inaction"
+seo_description: "Linking Sky Sports on racist abuse of Wolves striker Tolu Arokodare and Sunderland winger Romaine Mundle, and why Kick It Out needs teeth."
 type: linked
 cited: Sky Sports
 ---

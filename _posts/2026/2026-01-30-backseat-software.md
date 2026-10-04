@@ -3,6 +3,8 @@ layout: post
 date: 2026-01-30
 link: https://blog.mikeswanson.com/backseat-software/
 title: Backseat Software
+seo_title: "Backseat Software - What If Cars Worked Like Apps?"
+seo_description: "Linking Mike Swanson's Backseat Software: imagine your car pulling over mid-journey to ask how you are enjoying your drive, like apps do."
 type: linked
 cited: Mike Swanson
 ---

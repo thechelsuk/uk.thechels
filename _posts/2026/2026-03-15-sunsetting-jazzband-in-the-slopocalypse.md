@@ -3,6 +3,8 @@ layout: post
 date: 2026-03-15
 link: https://jazzband.co/news/2026/03/14/sunsetting-jazzband
 title: Sunsetting Jazzband in the Slopocalypse
+seo_title: "Sunsetting Jazzband in the Slopocalypse"
+seo_description: "Linking Jazzband's shutdown amid AI slop pull requests, and my view: PRs gate outside contributors, but teams should use trunk-based development."
 type: linked
 cited: Jannis Leidel
 ---

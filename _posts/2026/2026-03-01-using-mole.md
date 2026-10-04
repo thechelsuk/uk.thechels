@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to run mole
-seo: Ways - run mole
+seo_title: "How to Use Mole - Free Mac Cleanup Toolkit"
+seo_description: "How to run Mole, an all-in-one Mac toolkit combining cleaning, uninstalling, disk analysis and system stats, to reclaim gigabytes of space."
 
 link: https://github.com/tw93/Mole/blob/main/README.md
 type: linked

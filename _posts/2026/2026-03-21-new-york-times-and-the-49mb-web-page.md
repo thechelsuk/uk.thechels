@@ -3,6 +3,8 @@ layout: post
 date: 2026-03-21
 link: https://thatshubham.com/blog/news-audit
 title: New York Times and the 49MB Web Page
+seo_title: "The New York Times and the 49MB Web Page"
+seo_description: "Linking an audit of the 49MB New York Times page. By contrast, my homepage is about 0.56MB on first load and around 0.01MB once cached."
 type: linked
 cited: thatshubham
 ---

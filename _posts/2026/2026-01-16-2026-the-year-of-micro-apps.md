@@ -3,6 +3,8 @@ layout: post
 date: 2026-01-16
 link: https://birchtree.me/blog/20261-the-year-of-micro-apps/
 title: 2026 the year of micro apps
+seo_title: "2026 - The Year of Micro Apps Built With AI"
+seo_description: "Linking Birchtree on 2026 as the year of micro apps. AI is great for small, low-risk fixes, like the activity tracker page I built for my ME/CFS."
 type: linked
 cited: Matt Birchtree
 ---

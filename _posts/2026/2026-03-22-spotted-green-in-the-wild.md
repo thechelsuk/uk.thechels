@@ -2,6 +2,8 @@
 layout: post
 date: 2026-03-22
 title: Spotted slash green in the wild
+seo_title: "Spotted a /green Slash Page in the Wild"
+seo_description: "Browsing the IndieWeb, I found a /green slash page on another site. It made me smile, having proposed the /green page idea on my own site."
 type: rss
 show: false
 ---

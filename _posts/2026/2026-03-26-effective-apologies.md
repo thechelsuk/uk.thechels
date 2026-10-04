@@ -1,11 +1,12 @@
 ---
 date: 2026-03-26
 title: "Effective Apologies"
+seo_title: "Effective Apologies - How to Apologise Well"
+seo_description: "Linking Vlad-Stefan Harbuz on effective apologies: communicate your feelings accurately to the person wronged so they can forgive and repair."
 type: linked
 layout: post
 cited: Vlad-Stefan Harbuz
 link: https://vlad.website/apologies/
-seo: "Resources on how to apologise effectively."
 tags:
 ---
 

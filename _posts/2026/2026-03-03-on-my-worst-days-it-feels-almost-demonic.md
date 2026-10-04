@@ -3,6 +3,8 @@ layout: post
 date: 2026-03-03
 link: https://www.theguardian.com/society/2026/feb/24/my-maddening-battle-with-chronic-fatigue-syndrome-on-my-worst-days-it-feels-almost-demonic
 title: On my worst days it feels almost demonic
+seo_title: "On My Worst Days It Feels Almost Demonic - ME/CFS"
+seo_description: "Linking The Guardian on one person's battle with chronic fatigue syndrome, and why suggesting thoughts alone can cure ME/CFS is snake oil."
 type: linked
 cited: The Guardian
 ---

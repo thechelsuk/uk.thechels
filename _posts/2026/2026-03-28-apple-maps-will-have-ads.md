@@ -3,6 +3,8 @@ layout: post
 date: 2026-03-28 03:00
 link: https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/
 title: Apple Maps will have Ads
+seo_title: "Apple Maps Will Have Ads With Apple Business"
+seo_description: "Linking Apple Business, which brings ads to Apple Maps. I thought Apple sold premium hardware rather than ads, and paying users deserve better."
 type: linked
 cited: Apple
 ---

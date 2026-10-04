@@ -2,6 +2,8 @@
 layout: post
 date: 2026-03-24
 title: Pompidou Section 2  - Ways and Means
+seo_title: "Pompidou Section 2 - Adding a Ways Post Type in Jekyll"
+seo_description: "How I added a new ways collection to Jekyll with a _ways folder and _config.yml settings, creating a separate post type, like custom WordPress types."
 type: rss
 show: false
 ---

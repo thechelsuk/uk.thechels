@@ -2,6 +2,8 @@
 layout: post
 date: 2026-03-14
 title: My Disability
+seo_title: "My Disability - Writing a /disability Slash Page"
+seo_description: "Why I wrote a disability slash page after finding the IndieWeb idea, explaining my ME/CFS and other conditions and how they affect my life."
 
 type: blog
 ---

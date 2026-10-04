@@ -3,6 +3,8 @@ layout: post
 date: 2026-02-22
 link: https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality
 title: Pink noise reduces REM sleep and may harm sleep quality
+seo_title: "Pink Noise May Reduce REM Sleep and Harm Sleep"
+seo_description: "Linking Penn Medicine research: pink noise used to aid sleep may reduce restorative REM sleep, while earplugs work better against traffic noise."
 type: linked
 cited: Penn Medicine
 ---

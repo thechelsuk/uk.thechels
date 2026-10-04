@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to create various post types for thechelsuk
-seo: Ways - create post types for thechelsuk
+seo_title: "How to Create Each Post Type for thechels.uk"
+seo_description: "How each post type on thechels.uk is created, such as quote posts captured in Safari and shared to Drafts, with the process for each type."
 
 date: 2026-03-01
 type: ways

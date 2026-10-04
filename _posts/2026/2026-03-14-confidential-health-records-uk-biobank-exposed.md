@@ -3,6 +3,8 @@ layout: post
 date: 2026-03-14
 link: https://www.theguardian.com/science/2026/mar/14/confidential-health-records-exposed-online-uk-biobank
 title: Confidential health records UK BioBank exposed
+seo_title: "UK Biobank Confidential Health Records Exposed"
+seo_description: "Linking The Guardian: confidential health records from UK Biobank, which holds data on 500,000 volunteers, were exposed online. This is fine."
 type: linked
 cited: The Guardian
 ---

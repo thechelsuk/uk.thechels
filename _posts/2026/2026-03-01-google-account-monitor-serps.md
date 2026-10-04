@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to monitor SERPS with Google Alerts
-seo: Ways - Google Alerts
+seo_title: "How to Monitor Search Results With Google Alerts"
+seo_description: "How to monitor search results for a name or topic with Google Alerts: create an alert, set frequency, sources, language and region, then save."
 
 link: https://www.google.co.uk/alerts
 type: linked

@@ -3,6 +3,8 @@ layout: post
 date: 2026-03-16
 link: https://pxlnv.com/linklog/reuters-meta-layoffs-rumour/
 title: Meta is to lay off 20% of Its staff shocker
+seo_title: "Meta to Lay Off 20 Per Cent of Staff - Shocker"
+seo_description: "Linking Pixel Envy on rumoured Meta layoffs of 20 per cent, after over-hiring and spending on AI data centres. Join only for a big salary."
 type: linked
 cited: Nick Heer (Pixel Envy)
 ---

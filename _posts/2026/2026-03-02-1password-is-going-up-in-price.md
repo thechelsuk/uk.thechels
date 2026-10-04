@@ -3,6 +3,8 @@ layout: post
 date: 2026-03-02
 link: https://www.theverge.com/tech/883837/1password-price-increase
 title: 1Password is going up in price
+seo_title: "1Password Is Going Up in Price - Still Worth It"
+seo_description: "Linking The Verge on 1Password's price rise. It is still great value and ranks well, and is a crucial app in our household for more than passwords."
 type: linked
 cited: The Verge
 ---

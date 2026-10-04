@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to rename and redirect a domain on Cloudflare
-seo: Ways - rename and redirect a domain on Cloudflare
+seo_title: "How to Redirect One Domain to Another on Cloudflare"
+seo_description: "How to rename and redirect a domain on Cloudflare, so one domain and all its subdomains redirect cleanly to another, including paths."
 
 link: https://average.name/ways/redirect-domain
 type: linked

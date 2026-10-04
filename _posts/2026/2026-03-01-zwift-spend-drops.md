@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to spend Zwift Drops
-seo: Ways - How to spend Zwift Drops
+seo_title: "How to Spend Zwift Drops - What to Buy at Each Level"
+seo_description: "How to spend Zwift Drops in the Drop Shop as you level up, with Zwift Insider's guide on which frames and wheels are worth buying at each level."
 
 link: https://zwiftinsider.com/what-to-buy-at-each-zwift-level/
 type: linked

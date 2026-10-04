@@ -2,6 +2,8 @@
 layout: post
 date: 2026-03-24
 title: Monthly Mixtape - Mar 2026
+seo_title: "Monthly Mixtape March 2026 - The Charlatans and More"
+seo_description: "My March 2026 mixtape of songs on repeat, including Cry Yourself to Sleep by The Charlatans, TENDER, Boogie Belgique and The Liminanas."
 type: mixtape
 ---
 

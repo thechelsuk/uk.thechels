@@ -3,6 +3,8 @@ layout: post
 date: 2026-02-28
 link: https://itsfoss.com/news/ai-online-deanonymization/
 title: AI Can Now Easily Unmask Your Secret Online Life
+seo_title: "AI Can Now Easily Unmask Your Anonymous Online Life"
+seo_description: "Linking It's FOSS on AI deanonymisation: language patterns and what you follow, like your local cafe or team, can fingerprint anonymous accounts."
 type: linked
 cited: It's FOSS
 ---

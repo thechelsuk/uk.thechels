@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to manage your Google third-party app connections
-seo: Ways - Google third-party app connections
+seo_title: "How to Manage Google Third-Party App Connections"
+seo_description: "How to review and remove third-party apps connected to your Google account, and manage the permissions each connected app has to your data."
 
 link: https://myaccount.google.com/connections?filters=3
 type: linked

@@ -2,6 +2,8 @@
 layout: post
 date: 2026-02-24
 title: How fast did ME develop for you?
+seo_title: "How Fast Did ME/CFS Develop for You? - Reader Question"
+seo_description: "Answering a reader: my ME/CFS developed slowly, then quickly. A virus-like onset, a volatile long decline, then a sudden crash into illness."
 tags:
   - me
 type: mailbox

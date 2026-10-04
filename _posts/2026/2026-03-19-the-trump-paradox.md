@@ -3,6 +3,8 @@ layout: post
 date: 2026-03-19
 link: https://www.economist.com/united-states/2026/03/18/how-the-iran-war-is-hurting-donald-trump
 title: The Trump Paradox
+seo_title: "The Trump Paradox - Iran War and the Global Economy"
+seo_description: "Linking The Economist: Trump says he destroyed 100 per cent of Iran's military, yet the remaining 0 per cent is choking global oil supplies."
 type: linked
 cited: The Economist
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2026-03-08
 link: https://pluralistic.net/2026/03/07/reader-mode/
 title: The web is bearable with RSS
+seo_title: "The Web Is Bearable With RSS - Cory Doctorow"
+seo_description: "Linking Cory Doctorow on reader mode and RSS, a huge win for accessibility, stripping out flashing ads, cookie banners and bloated JavaScript."
 type: linked
 cited: Cory Doctorow
 ---

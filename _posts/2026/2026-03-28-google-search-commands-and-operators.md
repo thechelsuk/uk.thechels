@@ -2,6 +2,8 @@
 layout: post
 date: 2026-03-28
 title: Dorking - Search Commands and Operators
+seo_title: "Google Dorking - Search Commands and Operators"
+seo_description: "Search dorking tips and tricks to get the best from your search engine, from site: to precision operators, archived before AI takes over search."
 type: rss
 show: false
 ---
