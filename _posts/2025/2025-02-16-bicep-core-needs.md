@@ -3,6 +3,8 @@ layout: post
 date: 2025-02-16
 link: https://www.palomamedina.com/biceps
 title: BICEP core needs
+seo_title: "BICEPS Core Needs at Work - Paloma Medina"
+seo_description: "Paloma Medina's BICEPS model groups six core human needs at work, starting with belonging. Knowing them improves communication and inclusion."
 type: linked
 cited: Paloma Medina
 ---

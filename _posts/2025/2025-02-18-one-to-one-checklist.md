@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-18
 title: One-to-one Checklist
+seo_title: "One-to-One Meeting Checklist for Managers"
+seo_description: "Linking 15Five's one-to-one checklist: why managers avoid one-to-ones, and how good structure makes them valuable for difficult conversations."
 link: https://www.15five.com/blog/one-on-one-meeting-checklist/
 type: linked
 cited: 15Five

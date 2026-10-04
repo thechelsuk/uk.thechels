@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-17
 title: Monkey Management
+seo_title: "Monkey Management - Stop Problems Being Delegated Up"
+seo_description: "Monkey management, from a 1974 Harvard Business Review article by Oncken and Wass, is a way to stop unsolved problems being delegated upwards."
 
 type: blog
 ---

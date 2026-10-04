@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-18
 title: Radical Candor - Effective Leadership Communication
+seo_title: "Radical Candor - Care Personally, Challenge Directly"
+seo_description: "Radical Candor explained: caring personally while challenging directly, with feedback that is kind, clear, specific and sincere, and what it is not."
 link: https://www.radicalcandor.com/our-approach/
 type: linked
 cited: RadicalCandor.com

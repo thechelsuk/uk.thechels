@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-18
 title: Four Stages of Competence
+seo_title: "The Four Stages of Competence in Learning"
+seo_description: "The four stages of competence, from unconscious incompetence to unconscious competence, and how people progress when learning a new skill."
 
 type: blog
 ---

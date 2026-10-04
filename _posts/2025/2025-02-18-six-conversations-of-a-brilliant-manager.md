@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-18
 title: Six Conversations of a Brilliant Manager
+seo_title: "Six Conversations of a Brilliant Manager"
+seo_description: "Six conversations every brilliant manager should have, starting with what can you do about that, a coaching structure using only questions."
 
 type: blog
 ---

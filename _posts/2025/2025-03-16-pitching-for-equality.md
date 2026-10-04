@@ -3,6 +3,8 @@ layout: post
 date: 2025-03-16
 link: https://www.bbc.co.uk/sport/football/articles/cy87lw1dgq2o
 title: Pitching for equality
+seo_title: "Pitching for Equality - Women's League Cup Final Pitch"
+seo_description: "Quoted by the BBC on the poor pitch at Pride Park for the 2025 Women's League Cup final, a day before the men's final at Wembley."
 type: linked
 cited: thechelsuk
 ---

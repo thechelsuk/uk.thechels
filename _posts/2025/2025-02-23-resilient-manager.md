@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-23
 title: Resilient Management
+seo_title: "Resilient Management Book Summary - Lara Hogan"
+seo_description: "My summary of Resilient Management by Lara Hogan: meet your team, grow teammates through mentoring, coaching and sponsoring, and give feedback."
 type: blog
 ---
 

@@ -2,6 +2,8 @@
 layout: post
 date: 2025-03-26
 title: Check Your Public IP Address
+seo_title: "Check Your Public IP Address With curl and AWS"
+seo_description: "A quick way to check your public IP address: visit checkip.amazonaws.com for a plain text answer, or curl the endpoint from the command line."
 
 type: blog
 ---

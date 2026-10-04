@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-24
 title: Optimising for Speed and Quality
+seo_title: "Optimising for Speed and Quality - Cycle Time and DORA"
+seo_description: "How we optimise for speed and quality, measured by cycle time and deployment frequency, aiming for a cycle time of 24 hours like top teams."
 
 type: blog
 ---

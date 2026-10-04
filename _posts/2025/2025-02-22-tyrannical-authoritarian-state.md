@@ -3,6 +3,8 @@ layout: post
 date: 2025-02-22
 link: https://daringfireball.net/
 title: Tyrannical authoritarian state told to fuck off
+seo_title: "UK Government's Secret iCloud Snooping Order"
+seo_description: "Linking John Gruber on the UK government's secret order to access encrypted iCloud data, acting like a tyrannical authoritarian state. Agreed."
 type: linked
 cited: John Gruber (Daring Fireball)
 ---

@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-24
 title: Optimising for Alignment
+seo_title: "Optimising for Alignment in Engineering Teams"
+seo_description: "How we optimise for alignment: two-week cycles, constant backlog refinement and a golden thread from company objectives to roadmap and features."
 
 type: blog
 ---

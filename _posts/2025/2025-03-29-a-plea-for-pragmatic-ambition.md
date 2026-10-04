@@ -3,6 +3,8 @@ layout: post
 date: 2025-03-29
 link: https://blog.mattedgar.com/2025/03/29/between-the-tepid-bath-and-the-cloud-of-vapour-a-plea-for-pragmatic-ambition/
 title: A plea for pragmatic ambition
+seo_title: "A Plea for Pragmatic Ambition in Public Services"
+seo_description: "Linking Matt Edgar on the bait, switch and twist of multi-year strategies, and a plea for pragmatic ambition from service teams in government."
 type: linked
 cited: Matt Edgar
 ---

@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-23
 title: The Phoenix Project - DevOps Transformation Guide
+seo_title: "The Phoenix Project Summary - The Three Ways of DevOps"
+seo_description: "My summary of The Phoenix Project: the conflict between development and IT operations, the three ways of DevOps and the four types of work."
 
 type: blog
 ---

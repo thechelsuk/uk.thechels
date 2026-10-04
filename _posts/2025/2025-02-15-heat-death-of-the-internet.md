@@ -3,6 +3,8 @@ layout: post
 date: 2025-02-15
 link: https://www.takahe.org.nz/heat-death-of-the-internet/
 title: Heat Death of the Internet
+seo_title: "The Heat Death of the Internet"
+seo_description: "Linking Takahē on the heat death of the internet: app-only ordering, different prices per app, and everyday tasks made worse by platforms."
 type: linked
 cited: Takahē
 ---

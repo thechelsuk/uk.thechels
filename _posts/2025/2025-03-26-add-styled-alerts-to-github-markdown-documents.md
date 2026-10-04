@@ -3,6 +3,8 @@ layout: post
 date: 2025-03-26
 link: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 title: Add Styled Alerts To GitHub Markdown Documents
+seo_title: "Add Styled Alerts to GitHub Markdown Documents"
+seo_description: "GitHub Flavoured Markdown supports five styled alerts, such as note, tip and warning, for callouts in READMEs and docs. Here is how to use them."
 type: linked
 cited: GitHub
 ---

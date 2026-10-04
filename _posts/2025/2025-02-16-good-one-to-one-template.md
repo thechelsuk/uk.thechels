@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-16
 title: GOOD one-to-one template
+seo_title: "GOOD One-to-One Meeting Template for Managers"
+seo_description: "A one-to-one template giving managers and employees structure for regular conversations. I prefer fortnightly one-to-ones, at least monthly."
 
 type: blog
 ---

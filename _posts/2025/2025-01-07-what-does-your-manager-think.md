@@ -3,6 +3,8 @@ layout: post
 date: 2025-01-07
 link: https://decodingyourmanager.substack.com/p/why-this-now
 title: What does your manager really mean?
+seo_title: "Decoding Your Manager - A Newsletter for Engineers"
+seo_description: "Introducing Decoding Your Manager: send in questions and get candid answers from 20 years in software engineering on what your manager really means."
 type: linked
 cited: Decoding Your Manager
 ---

@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-18
 title: Five step coaching habit
+seo_title: "The Five Steps to Building a Coaching Habit"
+seo_description: "Five components for building a new habit from The Coaching Habit: a reason, a trigger, a micro-habit, effective practice and a plan."
 
 type: blog
 ---

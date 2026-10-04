@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-24
 title: Optimising for Openness and Transparency
+seo_title: "Optimising for Openness and Transparency in Teams"
+seo_description: "How we optimise for openness: sharing progress, challenges and blockers early and often, and collaborating on common goals with no hidden agendas."
 
 type: blog
 ---

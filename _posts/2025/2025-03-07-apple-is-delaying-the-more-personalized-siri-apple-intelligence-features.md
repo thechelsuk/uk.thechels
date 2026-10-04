@@ -3,9 +3,10 @@ layout: post
 date: 2025-03-07
 link: https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features
 title: Apple Delays Personalized Siri Intelligence Features
+seo_title: "Apple Delays Personalised Siri Intelligence Features"
+seo_description: "Linking Daring Fireball: Apple delays its more personalised Siri features. Apple has a habit of over-promising, but at least it wants quality."
 type: linked
 cited: John Gruber (Daring Fireball)
-seo: Apple delays intelligence features
 ---
 
 Apple seem to have a track record of over promising and failing to deliver on their own deadlines. At least they are working to get the quality right.

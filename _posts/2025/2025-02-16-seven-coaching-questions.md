@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-16
 title: Seven Coaching Questions
+seo_title: "Seven Coaching Questions From The Coaching Habit"
+seo_description: "The seven coaching questions from The Coaching Habit by Michael Bungay Stanier, to keep coaching simple: ask more, listen more and tell less."
 
 type: blog
 ---

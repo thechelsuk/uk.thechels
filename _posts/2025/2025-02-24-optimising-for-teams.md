@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-24
 title: Optimising for Teams
+seo_title: "Optimising for Teams - Safety, Trust and Feedback"
+seo_description: "How we optimise for teams: small cross-functional teams, psychological safety, caring and candid feedback, and trust built through vulnerability."
 
 type: blog
 ---

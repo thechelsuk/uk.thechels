@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-24
 title: Objective Setting and Evidencing Guide
+seo_title: "How to Set and Evidence Objectives - Team Guide"
+seo_description: "A template guide for managers to publish on a wiki, explaining how teams set objectives and evidence progress against the roadmap and BAU work."
 
 type: blog
 ---

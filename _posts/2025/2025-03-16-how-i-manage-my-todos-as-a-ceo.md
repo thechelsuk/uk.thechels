@@ -3,6 +3,8 @@ layout: post
 date: 2025-03-16
 link: https://mxstbr.com/notes/todos
 title: How I manage my todos as a CEO
+seo_title: "How a CEO Manages Todos - Max Stoiber"
+seo_description: "Linking Max Stoiber's todo system: do anything under two minutes now, capture everything else in an inbox and keep inbox zero everywhere."
 type: linked
 cited: Max Stoiber
 ---

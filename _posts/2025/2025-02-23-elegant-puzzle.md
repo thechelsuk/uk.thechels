@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-23
 title: Elegant Puzzle - Systems of Engineering Management
+seo_title: "An Elegant Puzzle Book Summary - Will Larson"
+seo_description: "My summary of An Elegant Puzzle by Will Larson on engineering management: organisations, sizing teams and staying on the path to high performance."
 
 type: blog
 ---

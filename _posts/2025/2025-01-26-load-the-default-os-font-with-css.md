@@ -3,6 +3,8 @@ layout: post
 date: 2025-01-26
 link: https://www.stefanjudis.com/blog/load-the-default-os-font-with-css/
 title: Load the default OS font with CSS
+seo_title: "Load the Default OS Font With CSS - Site Refresh"
+seo_description: "Linking Stefan Judis on using the system font with CSS, which I used in a site refresh: five main colours, one accent and no Google Fonts call."
 type: linked
 cited: Stefan Judis
 ---

@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-18
 title: The five-minute coach framework
+seo_title: "The Five-Minute Coach Framework and Principles"
+seo_description: "The Five-Minute Coach framework: stick to the process, the coachee has the answers and owns them, and you drive the coaching and set the scene."
 
 type: blog
 ---

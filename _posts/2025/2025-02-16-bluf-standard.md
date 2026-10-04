@@ -3,6 +3,8 @@ layout: post
 date: 2025-02-16
 link: https://www.animalz.co/blog/bottom-line-up-front/
 title: BLUF Standard - Bottom Line Up Front Communication
+seo_title: "BLUF - Bottom Line Up Front Communication"
+seo_description: "Linking Animalz on BLUF, bottom line up front, a military communication standard that puts the most important point first in emails and reports."
 type: linked
 cited: Animalz
 ---

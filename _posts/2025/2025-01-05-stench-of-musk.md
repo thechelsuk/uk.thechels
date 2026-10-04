@@ -2,6 +2,8 @@
 layout: post
 date: 2025-01-05
 title: Stench of Musk - Commentary on Priorities and Politics
+seo_title: "The Stench of Musk - Meddling in UK Politics"
+seo_description: "A thought: perhaps the world's richest man should spend less time criticising UK politicians and more time on the crises in his own country."
 type: blog
 ---
 

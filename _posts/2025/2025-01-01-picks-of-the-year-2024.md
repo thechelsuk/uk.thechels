@@ -2,6 +2,8 @@
 layout: post
 date: 2025-01-01
 title: Picks of the year 2024
+seo_title: "My Picks of the Year 2024 - Tech, Apps and More"
+seo_description: "My favourite things of 2024: the M4 Mac mini as the best value Mac ever, the Royal Kludge N80 keyboard, 1Password as app of the year, and more."
 type: blog
 ---
 

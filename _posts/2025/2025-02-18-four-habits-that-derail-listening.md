@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-18
 title: Four habits that derail listening
+seo_title: "Four Habits That Derail Listening"
+seo_description: "Listening is key for coaches, leaders and colleagues. Four habits that derail it, and why to listen to the feelings and pauses, not just words."
 
 type: blog
 ---

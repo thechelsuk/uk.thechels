@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-18
 title: Dreyfus Model - Skill Acquisition and Learning Stages
+seo_title: "The Dreyfus Model of Skill Acquisition Explained"
+seo_description: "The Dreyfus model of skill acquisition: the five stages from novice and advanced beginner to competent, proficient and expert, and what each needs."
 
 type: blog
 ---

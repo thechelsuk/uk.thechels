@@ -2,6 +2,8 @@
 layout: post
 date: 2025-03-26
 title: Trigger A Workflow Via An API Call
+seo_title: "Trigger a GitHub Actions Workflow via an API Call"
+seo_description: "How to run a GitHub Actions workflow from an API call using the workflow_dispatch event, with the YAML to add and the curl request to trigger it."
 
 type: blog
 ---

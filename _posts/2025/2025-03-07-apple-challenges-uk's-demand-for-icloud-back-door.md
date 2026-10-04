@@ -3,6 +3,8 @@ layout: post
 date: 2025-03-07
 link: https://www.ft.com/content/3d8fe709-f17a-44a6-97ae-f1bbe6d0dccd
 title: Apple Challenges UK's Demand for iCloud Back Door
+seo_title: "Apple Challenges UK Demand for an iCloud Back Door"
+seo_description: "Linking the FT: Apple has appealed the UK government's demand for an iCloud back door at the Investigatory Powers Tribunal, believed a first."
 type: linked
 cited: FT
 ---

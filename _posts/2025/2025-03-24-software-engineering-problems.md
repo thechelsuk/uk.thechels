@@ -2,6 +2,8 @@
 layout: post
 date: 2025-03-24
 title: Software Engineering Problems
+seo_title: "Common Software Engineering Team Problems"
+seo_description: "Symptoms of common engineering team problems: key person dependencies, poor onboarding and documentation, weak communication and more."
 
 type: blog
 ---

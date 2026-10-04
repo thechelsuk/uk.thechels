@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-18
 title: The four rules of monkey management
+seo_title: "The Four Rules of Monkey Management"
+seo_description: "The four rules of monkey management, starting with describe the monkey: no meeting should end until the next moves are identified and agreed."
 
 type: blog
 ---

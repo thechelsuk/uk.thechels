@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-23
 title: The Lean Startup
+seo_title: "The Lean Startup Book Summary - Eric Ries"
+seo_description: "My summary of The Lean Startup by Eric Ries: define, learn, experiment, test and measure, then pivot or persevere, and accelerate what works."
 
 type: blog
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2025-03-29
 link: https://simonwillison.net/2025/Mar/28/incomplete-json-pretty-printer/
 title: Incomplete JSON Pretty Printer
+seo_title: "Incomplete JSON Pretty Printer - Simon Willison"
+seo_description: "Linking Simon Willison's tool for pretty printing truncated JSON from logs and tools, which normal editors refuse to format when it ends early."
 type: linked
 cited: Simon Willison
 ---

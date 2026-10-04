@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-16
 title: First one-to-one
+seo_title: "Questions for a First One-to-One With a New Report"
+seo_description: "A set of questions for your first one-to-one with a new direct report, from what they enjoy outside work to what motivates them most."
 
 type: blog
 ---

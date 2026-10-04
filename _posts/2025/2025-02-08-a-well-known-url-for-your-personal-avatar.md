@@ -3,6 +3,8 @@ layout: post
 date: 2025-02-08
 link: https://blog.jim-nielsen.com/2023/well-known-avatar/
 title: A Well Known URL For Your Personal Avatar
+seo_title: "A .well-known URL for Your Personal Avatar"
+seo_description: "Linking Jim Nielsen's proposal for a .well-known/avatar URL, so anyone who owns a domain can publish their avatar in a standard location."
 type: linked
 cited: Jim Nielsen
 ---

@@ -2,6 +2,8 @@
 layout: post
 date: 2025-01-04
 title: Budgetary ideas for 2025
+seo_title: "Budget Ideas for 2025 - Tax Reform Suggestions for the UK"
+seo_description: "My UK budget ideas for 2025: merge national insurance into income tax, raise the higher rate threshold to £75,000 and reform child benefit."
 type: blog
 ---
 

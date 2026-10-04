@@ -2,6 +2,8 @@
 layout: post
 date: 2025-01-05
 title: Going Greener - Electric Vehicle and Solar Panel Setup
+seo_title: "Going Greener - EV, Solar Panels and Home Battery"
+seo_description: "Our steps to a greener home: an electric car and EV charger, ten solar panels with a 5kW battery, and next insulation cladding and a heat pump."
 type: blog
 ---
 

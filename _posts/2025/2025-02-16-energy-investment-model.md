@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-16
 title: Energy Investment Model
+seo_title: "The Energy Investment Model - Attitude and Effort"
+seo_description: "The energy investment model maps people by attitude and effort into four groups: players, spectators, cynics and deadwood, and how to lead each."
 
 type: blog
 ---

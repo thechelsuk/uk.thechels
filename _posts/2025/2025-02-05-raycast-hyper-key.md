@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-04
 title: Raycast Adds Hyperkey
+seo_title: "Raycast Adds a Hyper Key for Mac Shortcuts"
+seo_description: "Raycast, the Spotlight replacement for Mac, now has a hyper key: one key that acts as shift, control, option and command for custom shortcuts."
 type: blog
 ---
 

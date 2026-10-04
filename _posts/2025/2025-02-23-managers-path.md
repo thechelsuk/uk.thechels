@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "The Manager's Path - A Guide for Tech Leader"
-seo: "A Guide for Tech Leaders Navigating Growth and Change"
+seo_title: "The Manager's Path Book Summary - Camille Fournier"
+seo_description: "My summary of The Manager's Path by Camille Fournier for tech leaders: mentoring, tech lead, managing people, teams, multiple teams and managers."
 date: 2025-02-23
 tags:
 

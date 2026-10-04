@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-18
 title: Drama Triangle - Workplace Conflict Recognition Guide
+seo_title: "The Drama Triangle - Recognising Conflict at Work"
+seo_description: "Linking Charles Lambdin on the drama triangle, rooted in transactional analysis, and how to recognise and avoid drama at work and in life."
 link: https://charleslambdin.wordpress.com/2019/12/06/recognizing-and-avoiding-drama-at-work-and-in-life/
 type: linked
 cited: Charles Lambdin

@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-18
 title: The Johari Window
+seo_title: "The Johari Window - Understanding Self and Others"
+seo_description: "The Johari window explained: pick adjectives that describe yourself, peers do the same, and compare to reveal open, blind, hidden and unknown areas."
 
 type: blog
 ---

@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-24
 title: Dora Assessment Template
+seo_title: "DORA Assessment Template - 24 Key Capabilities"
+seo_description: "A DORA assessment template to score your organisation from 1 to 5 against the 24 key capabilities from Accelerate, revisited every few months."
 
 type: blog
 ---

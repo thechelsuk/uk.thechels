@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-17
 title: Navigating difficult conversations at work
+seo_title: "Navigating Difficult Conversations at Work"
+seo_description: "How to navigate difficult conversations at work, starting with preparation: clear time beforehand to gather information and anticipate reactions."
 link: https://www.odgersinterim.com/uk/who-we-are/intelligence/we-need-to-talk-navigating-difficult-conversations-at-work-4969/
 type: linked
 cited: Odgers Interim

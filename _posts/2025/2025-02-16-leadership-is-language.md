@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-16
 title: Leadership is Language
+seo_title: "Leadership Is Language - David Marquet"
+seo_description: "A quote from Leadership Is Language by David Marquet on moving beyond the Industrial Age split between deciders and doers in modern organisations."
 link: https://smile.amazon.co.uk/dp/0241373662/
 type: linked
 cited: David Marquet

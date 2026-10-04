@@ -3,6 +3,8 @@ layout: post
 date: 2025-02-01
 link: https://cate.blog/2025/01/21/what-makes-a-good-team/amp/
 title: What Makes a Good Team
+seo_title: "What Makes a Good Team - Cate Huston"
+seo_description: "Linking Cate Huston on what makes a good team: bad teams are obvious through chaos and drama, and good teams are reliable and deliver real value."
 type: linked
 cited: Cate Huston (Accidentally in Code)
 ---
