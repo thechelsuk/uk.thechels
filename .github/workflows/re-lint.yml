@@ -45,7 +45,7 @@ jobs:
               run: python -m yapf --style pep8 --recursive --diff _python
 
             - name: Lint Markdown
-              run: markdownlint --disable MD013 "**/*.md" "!_site/**" "!node_modules/**"
+              run: markdownlint "**/*.md" --ignore "_site/**" --ignore "node_modules/**" --disable MD013
 
             - name: Lint Bash
               run: |
