@@ -2,6 +2,8 @@
 layout: post
 date: 2026-08-12 18:36
 title: Homebridge (YSA2) Yale Alarm Version v2.4.3
+seo_title: "Homebridge YSA2 Yale Alarm Plugin v2.4.3 Released"
+seo_description: "Version 2.4.3 of my YSA2 Homebridge plugin for Yale Sync alarms on Homebridge 2.0 and later, with a dev dependency bump to Homebridge 2.3.0."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/homebridge-YSA2-plugin/releases/tag/v2.4.3

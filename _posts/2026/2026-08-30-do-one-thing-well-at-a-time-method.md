@@ -5,7 +5,8 @@ syndicate:
   - bluesky
 date: 2026-08-30 22:30
 title: Do one thing well at a time method
-seo: "how to manage work load better than agile scrum"
+seo_title: "Do One Thing Well at a Time - A Better Way to Work"
+seo_description: "My method for managing workload, alone or in a team, that I prefer to scrum: do one thing well at a time, with ensemble or mob programming."
 type: blog
 ---
 

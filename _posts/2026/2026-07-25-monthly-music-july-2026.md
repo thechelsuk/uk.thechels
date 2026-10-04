@@ -2,6 +2,8 @@
 layout: post
 date: 2026-07-25
 title: Monthly Mixtape - Jul 2026
+seo_title: "Monthly Mixtape July 2026 - Manics, Placebo"
+seo_description: "My July 2026 mixtape of songs on repeat, including If You Tolerate This by Manic Street Preachers and a new version of Teenage Angst by Placebo."
 type: mixtape
 syndicate: true
 show: true

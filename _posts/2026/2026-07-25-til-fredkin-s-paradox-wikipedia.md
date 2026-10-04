@@ -2,9 +2,10 @@
 layout: post
 date: 2026-07-26 00:20
 title: "TIL - Fredkin's Paradox"
+seo_title: "TIL - Fredkin's Paradox and Decision Making"
+seo_description: "Today I learned Fredkin's paradox: the more equally attractive two options seem, the harder the choice, even though it matters less and less."
 cited: Wikipedia
 link: https://en.wikipedia.org/wiki/Fredkin%27s_paradox
-seo: "Fredkin's paradox on equally attractive options and decision-making"
 type: til
 ---
 

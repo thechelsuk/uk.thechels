@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-07-06 17:20
 title: UEFA statement on the Balogun case
+seo_title: "UEFA Statement on the Folarin Balogun Case"
+seo_description: "Linking UEFA on the Balogun case: when the guardians of the rules stop guaranteeing them, the game's integrity is at stake. I agree with UEFA."
 link: https://www.uefa.com/news-media/news/02a7-2109c8e9ef81-de5a993db109-1000--uefa-statement-on-the-balogun-case/
 cited: UEFA
 type: linked

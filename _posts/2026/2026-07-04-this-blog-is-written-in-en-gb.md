@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-07-05 00:41
 title: This blog is written in en-GB
+seo_title: "This Blog Is Written in en-GB - Terence Eden"
+seo_description: "Linking Terence Eden on keeping his blog in British English despite requests to be more inclusive. This website is en-GB on purpose too."
 link: https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/
 cited: Terence Eden
 type: linked

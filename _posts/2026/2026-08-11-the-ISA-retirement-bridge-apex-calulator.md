@@ -3,8 +3,9 @@ layout: post
 date: 2026-08-11 22:00
 type: blog
 title: "The Road to FIRE - Building the ISA Bridge Apex Calculator"
+seo_title: "ISA Bridge Apex Calculator - Free Early Retirement Tool"
+seo_description: "A free calculator to find your ISA bridge apex: the value your ISA needs to carry you from early retirement until your pension is accessible."
 tags: [finance]
-seo: "A free tool to find your own ISA bridge apex value - the point your ISA can bridge you from early retirement to pension access."
 permalink: "/fire-isa-bridge-calculator-apex"
 syndicate:
   - mastodon

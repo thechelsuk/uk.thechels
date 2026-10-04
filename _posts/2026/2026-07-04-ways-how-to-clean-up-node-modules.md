@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-07-04 01:38
 title: How to clean up node modules
+seo_title: "How to Clean Up node_modules Folders With npkill"
+seo_description: "How to free up disk space by finding and deleting old node_modules folders with npx npkill: move through the list and press space to delete."
 type: ways
 ---
 

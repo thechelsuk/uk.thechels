@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-07-09 20:09
 title: Week Notes Origins
+seo_title: "The Origins of Week Notes and Why I Write Them"
+seo_description: "Responding to debate about week notes as blog titles: their roots in the GDS era of working in the open, and why an archive of them is valuable."
 type: blog
 ---
 

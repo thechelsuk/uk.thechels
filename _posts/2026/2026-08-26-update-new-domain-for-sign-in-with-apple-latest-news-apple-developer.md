@@ -1,6 +1,8 @@
 ---
 date: 2026-08-26 21:35
 title: "Update: New domain for Sign in with Apple"
+seo_title: "New Domain for Sign in With Apple Email Relay"
+seo_description: "Linking Apple's update on moving Hide My Email and Sign in with Apple to private.icloud.com, and the concern sites may block these addresses."
 cited: "Apple"
 link: https://developer.apple.com/news/?id=1ptvdtcm
 layout: "post"

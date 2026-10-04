@@ -3,6 +3,8 @@ layout: post
 date: 2026-08-08 19:00
 type: blog
 title: Cash is risky, the stock market is volatile, and why that distinction matters in 2026
+seo_title: "Cash Is Risky, Stocks Are Volatile - Why It Matters"
+seo_description: "Volatility is short-term price movement; risk is the chance of missing your goal. Why that difference matters for UK savers and investors in 2026."
 tags: [finance]
 syndicate:
   - mastodon

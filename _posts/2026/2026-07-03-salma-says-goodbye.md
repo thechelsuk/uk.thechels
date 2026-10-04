@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-07-03 16:28
 title: Salma says Goodbye
+seo_title: "Salma Alam-Naylor Says Goodbye to Developer Relations"
+seo_description: "Linking Salma Alam-Naylor leaving developer relations and going offline. Sad news for the DevRel community, but happy she has a new role."
 link: https://whitep4nth3r.com/blog/goodbye-forever-probably/#whats-next-for-me
 cited: Salma Alam-Naylor
 type: linked

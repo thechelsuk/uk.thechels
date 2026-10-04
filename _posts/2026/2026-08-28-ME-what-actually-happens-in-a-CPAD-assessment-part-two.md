@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Inside a CPAD Assessment II: When an Insurer Tests Your Ability to Work with ME"
+seo_title: "Inside a CPAD Assessment for ME - Part Two"
+seo_description: "Part two of my CPAD assessment for ME/CFS: the follow-up session for my insurer, a near copy of the first without the interview and history."
 type: blog
 date: 2026-08-28 13:00
-seo: "A Chronic Pain Ability Determination (CPAD) assessment is designed to test whether you're fit to work, usually at the request of an insurer that wants to verify, stop, or reduce a payout."
 tags:
   - me
 syndicate:

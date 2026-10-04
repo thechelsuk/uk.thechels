@@ -4,6 +4,8 @@ syndicate: false
 link: https://www.reddit.com/r/modnews/s/7Jc90Ui2Xq
 date: 2026-07-01 19:05
 title: Old Reddit To Be Logged In
+seo_title: "Old Reddit to Require Logging In"
+seo_description: "Linking Reddit's announcement that old Reddit will need a login, as its logged-out version is a major source of abusive scraping and bot traffic."
 cited: Reddit
 type: linked
 ---

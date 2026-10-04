@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-07-08 15:57
 title: Eye problems after COVID-19 can now be explained
+seo_title: "Eye Problems After COVID-19 Can Now Be Explained"
+seo_description: "Linking research on post-COVID eye problems like light sensitivity and blurred vision, which align with ME, and how I adjust my screens."
 link: https://www.eurekalert.org/news-releases/1134768
 cited: EurekAlert!
 type: linked

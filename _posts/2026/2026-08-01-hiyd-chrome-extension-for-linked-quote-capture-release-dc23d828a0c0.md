@@ -2,6 +2,8 @@
 layout: post
 date: 2026-08-01 11:01
 title: Hiyd - Chrome Extension for Linked/Quote capture v2.0.0
+seo_title: "Hiyd Chrome Extension v2.0.0 - Custom Front Matter"
+seo_description: "Hiyd Chrome extension 2.0.0 lets you add up to five custom front matter items, such as layout and type, to captured Jekyll linked quote posts."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/ext-chrome-hiyd/releases/tag/v2.0.0

@@ -1,9 +1,10 @@
 ---
 date: 2026-08-01 11:00
 title: "UEFA welcomes FIFA’s withdrawal of plans"
+seo_title: "UEFA Welcomes FIFA Dropping World Cup Stake Sale"
+seo_description: "Linking UEFA welcoming FIFA's withdrawal of plans to sell a World Cup stake, and calling for those behind the secret scheme to be held to account."
 cited: UEFA
 link: https://www.uefa.com/news-media/news/02a8-213e1cb056eb-c0ae1b85aa7f-1000--uefa-welcomes-fifa-s-withdrawal-of-plans-to-sell-a-stake-i/
-seo: "The proposal was unanimously rejected by UEFA’s national associations and by many other federations and confederations of all sizes around the world."
 tags:
 type: linked
 layout: post

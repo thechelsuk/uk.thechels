@@ -3,6 +3,8 @@ layout: post
 date: 2026-08-09 10:00
 type: blog
 title: What is Sequencing Risk in Early Retirement - with Practical Examples
+seo_title: "What Is Sequencing Risk in Early Retirement?"
+seo_description: "Sequencing risk explained with practical examples: why the order of returns matters when withdrawing, and how an early crash can drain a pot."
 tags: [finance]
 syndicate:
   - mastodon

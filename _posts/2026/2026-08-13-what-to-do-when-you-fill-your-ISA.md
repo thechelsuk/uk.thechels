@@ -3,6 +3,8 @@ layout: post
 date: 2026-08-13 08:00
 type: blog
 title: What to do when you fill your Stock and Shares ISA in the UK in 2026?
+seo_title: "What to Do When You Fill Your Stocks and Shares ISA"
+seo_description: "Filled your stocks and shares ISA? UK options for 2026 after the basics: premium bonds, a spouse's ISA, kids' JISA and SIPP, a GIA, or VCT and EIS."
 tags: [finance]
 syndicate:
   - mastodon

@@ -2,6 +2,8 @@
 layout: post
 date: 2026-08-01 11:10
 title: Hiyd - Chrome Extension for Linked/Quote capture Version v2.0.1
+seo_title: "Hiyd Chrome Extension v2.0.1 Released"
+seo_description: "Version 2.0.1 of the Hiyd Chrome extension for capturing linked quotes into Jekyll, with a Dependabot security bump to the ws package."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/ext-chrome-hiyd/releases/tag/v2.0.1

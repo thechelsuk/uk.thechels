@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to find Broken Front Matter in Jekyll Posts
-seo: Ways - How to find Broken Front Matter in Jekyll Posts
+seo_title: "How to Find Broken Front Matter in Jekyll Posts"
+seo_description: "A bash script that searches all Jekyll _posts folders, including yearly subfolders, for missing or broken front matter and lists the files."
 date: 2026-08-12 15:00
 type: ways
 ---

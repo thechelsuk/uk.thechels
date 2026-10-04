@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-07-05 20:39
 title: Folarin Balogun ban suspended by FIFA
+seo_title: "FIFA Suspends Folarin Balogun's Ban, Trump Praises It"
+seo_description: "Linking AP News: FIFA suspended Folarin Balogun's World Cup ban and Trump praised the decision. Totally normal and fine, of course."
 link: https://apnews.com/article/falorin-balogun-suspension-world-cup-e5a5cab5731a916808601be93cb36832
 cited: AP News
 type: linked

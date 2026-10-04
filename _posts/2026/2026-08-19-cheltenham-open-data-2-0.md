@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Building Cheltenham Open Data - why tools beat blog posts"
+seo_title: "Building Cheltenham Open Data - Why Tools Beat Posts"
+seo_description: "Cheltenham Open Data 2.0: local fuel price comparison, open data tools and classifieds for Cheltenham, and why useful tools beat blog posts."
 date: 2026-08-19 23:00
 type: blog
-seo: "Cheltenham Open Data: local fuel price comparison, open data tools, and classifieds for Cheltenham — built without big tech clutter."
 syndicate:
   - mastodon
   - bluesky

@@ -2,6 +2,8 @@
 layout: post
 date: 2026-08-13 21:36
 title: Template - mta-sts txt and subdomain setup Version 1.0.0
+seo_title: "MTA-STS Subdomain GitHub Template Version 1.0.0"
+seo_description: "First release of my GitHub template repo for setting up an MTA-STS subdomain and .well-known/mta-sts.txt policy file on GitHub Pages."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/template-mta-sts-sub-domain/releases/tag/1.0.0

@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-07-29 14:44
 title: UEFA statement on The Times article
+seo_title: "UEFA Statement on The Times World Cup Stake Story"
+seo_description: "Linking UEFA: the soul and governance of football are not assets to trade with zero transparency. Again I agree with UEFA, not FIFA."
 link: https://www.uefa.com/news-media/news/02a7-2138003823f8-f1aa47e28763-1000--uefa-statement-on-the-times-article/
 cited: UEFA
 type: linked

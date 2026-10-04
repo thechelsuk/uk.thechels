@@ -3,8 +3,9 @@ layout: post
 date: 2026-08-10 13:00
 type: blog
 title: "The Road to FIRE - Building the ISA Bridge to 58 and Finding the Apex"
+seo_title: "The ISA Bridge to 58 - How Much ISA to Retire Early?"
+seo_description: "How much you need in an ISA to retire early and bridge to pension access at 58, with worked examples using real numbers to find the apex."
 tags: [finance]
-seo: "How much do I need in my ISA to retire early with worked examples using real numbers - the ISA bridge to 58"
 
 syndicate:
   - mastodon

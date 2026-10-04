@@ -1,6 +1,7 @@
 ---
 title: How I made £20 quickly and legally online in the UK and you could make 100s
-seo: make quick money easily online with no outlay expenditure or risk and how you could make over £100 with referrals
+seo_title: "How I Made £20 Online Legally in Under 20 Minutes (UK)"
+seo_description: "How I made over £20 online in under 20 minutes in the UK using free sign-up offers, with no gambling or outlay, and how referrals can pay more."
 date: 2026-08-05 16:00
 layout: post
 type: blog
