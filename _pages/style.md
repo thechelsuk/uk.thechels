@@ -6,6 +6,8 @@ seo_description: "A visual style guide for thechels.uk showing every mark-up ele
 permalink: /style
 ---
 
+<!-- markdownlint-disable MD033 MD036 -->
+
 This style guide acts as a visual guide to the mark-up styles used throughout the site and acts as a check that all likely mark-up is styled appropriately.
 
 There is one additional style applied to the code blocks on this page for eligibility.

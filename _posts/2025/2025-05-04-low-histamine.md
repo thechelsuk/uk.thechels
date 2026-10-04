@@ -9,6 +9,8 @@ tags:
 type: blog
 ---
 
+<!-- markdownlint-disable MD033 -->
+
 Managing histamine intolerance on a vegan diet requires careful planning. This 5-day meal plan avoids high-histamine plant foods while ensuring nutritional adequacy through fresh, minimally processed ingredients.
 
 ## Daily Meal Plan

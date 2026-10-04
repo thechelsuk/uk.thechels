@@ -8,7 +8,7 @@ seo_description: "A DORA assessment template to score your organisation from 1 t
 type: blog
 ---
 
-_Notes: Complete this using a broad assessment and revisit every x time period (a time in keeping with the pace of the organisation, e.g. 6 months or 2 years)_
+> _Notes: Complete this using a broad assessment and revisit every x time period (a time in keeping with the pace of the organisation, e.g. 6 months or 2 years)_
 
 Review of the 24 key capabilities of the Accelerate DevOps survey outcomes.
 
