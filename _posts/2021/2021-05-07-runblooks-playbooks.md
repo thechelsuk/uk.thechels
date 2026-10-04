@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Runbooks and Playbooks
+seo_title: "Runbooks and Playbooks - Checklists for Engineering Teams"
+seo_description: "Inspired by The Checklist Manifesto: how checklists cut errors on repetitive tasks, and the difference between runbooks and playbooks for teams."
 date: 2021-05-07 13:00
 tag:
 type: blog

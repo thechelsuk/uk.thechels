@@ -1,6 +1,8 @@
 ---
 layout: post
 title: YouTube video workflow
+seo_title: "My YouTube Video Workflow With Insta360 and iMovie"
+seo_description: "My step-by-step YouTube video workflow: thumbnails, copying Insta360 Go clips, editing in an iMovie template at 1.5x speed and uploading as private."
 date: 2020-12-22
 tag:
 

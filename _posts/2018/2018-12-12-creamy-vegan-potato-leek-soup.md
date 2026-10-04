@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Creamy Vegan Potato Leek Soup
+seo_title: "Creamy Vegan Potato and Leek Soup Recipe"
+seo_description: "An unbelievably creamy vegan potato and leek soup that is gluten free, filling and comforting. Ready in 50 minutes and serves six on chilly days."
 type: blog
-seo: Creamy Vegan Potato Leek Soup Recipe - How to make a delicious vegan potato leek soup
 date: 2018-12-12 12:00
 tags: [recipe]
 ---

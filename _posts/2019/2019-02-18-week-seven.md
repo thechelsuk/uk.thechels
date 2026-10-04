@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Week Seven - Work Life Balance and 25.4 Mile Week
+seo_title: "Running Week 7 - Work-Life Balance and 25.4 Miles"
+seo_description: "Week seven of my 2019 running challenge: 25.4 miles fitted around work, with an easy five miles, shorter midweek runs and a 23:04 parkrun."
 total: [25.4]
 tag:
   - runs

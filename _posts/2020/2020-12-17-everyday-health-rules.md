@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Everyday health rules
+seo_title: "Everyday Health Rules - Simple Habits for Wellbeing"
+seo_description: "Simple everyday health rules: rise and sleep early, eat nourishing food, drink plenty of water, exercise outdoors and breathe deeply. From Reddit."
 date: 2020-12-17
 tag:
 

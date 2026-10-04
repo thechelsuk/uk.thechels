@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Week Eight - Training Consistency and Mile Building
+seo_title: "Running Week 8 - Hill Reps and a 22:53 parkrun"
+seo_description: "Week eight of my 2019 running challenge: 24.3 miles, a six-rep hill workout, run commutes and an easy 22:53 parkrun that hinted at a new 5k PB."
 total: [24.3]
 tag:
   - runs
