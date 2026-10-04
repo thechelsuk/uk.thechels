@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Eaglesbeak - A bridge too far
+seo_title: "The Eagles Beak - A Bridge Too Far for Crystal Palace"
+seo_description: "A Crystal Palace view of their trip to Chelsea in December 2013, from The Eagles Beak, after a strong run under Tony Pulis with one goal conceded in five."
 link: https://theeaglesbeak.com/2013/12/15/bridge-far/
 type: linked
 cited: Jay Crame

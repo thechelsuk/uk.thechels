@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Chelsea Ladies - Mid-season break
+seo_title: "Chelsea Ladies Mid-Season Break Review - FA WSL 2013"
+seo_description: "Chelsea Ladies at the 2013 FA WSL mid-season break: fourth on goals scored, Emma Hayes's top four target and her long-term plan for the club."
 tag:
   - chelsea
 type: blog

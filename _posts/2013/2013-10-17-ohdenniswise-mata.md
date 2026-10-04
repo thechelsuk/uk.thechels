@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Juan Mata's Magical Performances vs Reliable Stats
+seo_title: "Juan Mata's Magical Performances vs Reliable Stats"
+seo_description: "What counts as an assist? A look at Juan Mata's goals and assists for Chelsea, and why the definition of an assist sparks so much debate among fans."
 tag:
   - chelsea
 type: blog

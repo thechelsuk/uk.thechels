@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Eaglesbeak - The Chelsea View 2015
+seo_title: "The Eagles Beak - The Chelsea View, Season 2015-16"
+seo_description: "Chelsea Stats talks to Crystal Palace blog The Eagles Beak about hopes for 2015-16: a title challenge, FA Cup and Champions League runs and youth."
 tag:
   - chelsea
 type: blog

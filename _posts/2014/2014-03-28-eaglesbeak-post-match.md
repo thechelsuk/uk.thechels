@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Eaglesbeak - Post-match reaction
+seo_title: "Crystal Palace 1-0 Chelsea - Post-Match Reaction 2014"
+seo_description: "Post-match reaction to Crystal Palace 1-0 Chelsea in March 2014 for The Eagles Beak: Palace quicker and stronger, and refereeing calls by Lee Mason."
 link: https://theeaglesbeak.com/2014/03/30/crystal-palace-1-0-chelsea-bonus-points/
 type: linked
 cited: Neil Carter

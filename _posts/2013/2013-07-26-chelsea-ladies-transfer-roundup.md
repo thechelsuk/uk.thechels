@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Chelsea Ladies - Transfer Roundup
+seo_title: "Chelsea Ladies Transfer Roundup - Summer 2013"
+seo_description: "Chelsea Ladies summer 2013 transfers: Olina Viddarsdottir and Edda Gardarsdottir return to Iceland, Sophie Fogarty joins from QPR and more moves."
 tag:
   - chelsea
 type: blog

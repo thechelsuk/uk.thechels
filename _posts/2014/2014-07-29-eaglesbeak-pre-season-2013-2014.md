@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Eaglesbeak -Pre-season 2013-2014
+seo_title: "The Eagles Beak - Crystal Palace Pre-Season View 2014"
+seo_description: "A Chelsea fan's view on Crystal Palace ahead of the 2014-15 season for The Eagles Beak, predicting second season syndrome after a great year under Pulis."
 link: https://theeaglesbeak.com/2014/08/08/view-from-the-opposition-part-1/
 type: linked
 cited: Jay Crame

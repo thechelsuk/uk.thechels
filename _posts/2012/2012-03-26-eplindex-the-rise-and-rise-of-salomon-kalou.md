@@ -1,6 +1,8 @@
 ---
 layout: post
 title: EPL Index - The Rise and Rise of Salomon Kalou – Opta Analysis
+seo_title: "The Rise and Rise of Salomon Kalou - Opta Analysis"
+seo_description: "An Opta stats analysis of Salomon Kalou at Chelsea for EPL Index: record substitute appearances, key goals and whether he deserved a new contract."
 tag:
   - chelsea
 type: blog

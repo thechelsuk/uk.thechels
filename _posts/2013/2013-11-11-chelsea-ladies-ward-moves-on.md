@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Chelsea Ladies - Ward moves on
+seo_title: "Chelsea Ladies - Helen Ward Moves On, Interview"
+seo_description: "Interview with Welsh international Helen Ward as she leaves Chelsea Ladies: her fondest memories, the FA Cup final, first league goal and what is next."
 tag:
   - chelsea
 type: blog

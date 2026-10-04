@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Eaglesbeak - Post-match reaction
+seo_title: "The Eagles Beak - Chelsea v Crystal Palace Q and A"
+seo_description: "A pre-match Q and A with Crystal Palace blog The Eagles Beak, as Chelsea Stats reviews a hit and miss 2013-14 season ahead of the Palace game."
 type: linked
 cited: Jay Crame
 link: https://theeaglesbeak.com/2013/12/17/predictions-league-4/

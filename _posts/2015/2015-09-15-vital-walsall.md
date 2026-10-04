@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Vital Walsall - Chelsea - A Fans View
+seo_title: "Vital Walsall - Chelsea, A Fan's View Before the Cup"
+seo_description: "Chelsea Stats answers Vital Walsall's questions before their 2015 League Cup tie: a first game v Crewe, the summer window and Jose Mourinho's side."
 tags:
   - chelsea
 type: blog

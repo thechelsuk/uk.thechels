@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Ultimate Fan Live - PSG vs Chelsea
+seo_title: "PSG vs Chelsea - Champions League Fans View 2015"
+seo_description: "Ultimate Fan Live asks PSG and Chelsea fan sites for their views ahead of the February 2015 Champions League last 16 tie, plus tips for the game."
 type: linked
 cited: Cameron Innes
 

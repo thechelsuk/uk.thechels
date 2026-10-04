@@ -1,6 +1,8 @@
 ---
 layout: post
 title: FourFourTwo - Cult Heroes - Gianfranco Zola
+seo_title: "FourFourTwo Cult Heroes - Gianfranco Zola at Chelsea"
+seo_description: "Why Gianfranco Zola is Chelsea's cult hero, for FourFourTwo: universally liked, an infectious smile, an FA Cup win and FWA Player of the Year in 1997."
 tag:
   - chelsea
 type: blog
