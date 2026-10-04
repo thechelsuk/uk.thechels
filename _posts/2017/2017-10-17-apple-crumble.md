@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Apple Crumble - Classic Recipe and Cooking Guide
+seo_title: "Classic Apple Crumble Recipe - Easy Pudding for Four"
+seo_description: "A classic apple crumble recipe that serves four: simple ingredients, under 30 minutes to prepare, and best served warm with custard or ice cream."
 date: 2017-10-17 14:00:00
 tags: [recipe]
 type: blog
-seo: "A classic apple crumble recipe with a simple cooking guide"
 ---
 
 > A classic apple crumble recipe that is easy to make and perfect for any occasion. Serve it warm with custard or ice cream for a delightful dessert.

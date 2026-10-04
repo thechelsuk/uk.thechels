@@ -1,6 +1,8 @@
 ---
 layout: post
 title: News consumption and read later.
+seo_title: "News Consumption and Read Later With Feedly and IFTTT"
+seo_description: "How I read the news in 2017: RSS feeds in Feedly's free tier, saving items for later and using IFTTT to send saved articles on to my email inbox."
 tags:
 
 type: blog

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Mute filters for Tweetbot
+seo_title: "Tweetbot Mute Filters - Regex Examples to Clean Twitter"
+seo_description: "A set of regex mute filters for Tweetbot on iOS and Mac to hide check-ins, app spam and noise from your Twitter timeline, with tips for testing them."
 tags:
 type: blog
 ---

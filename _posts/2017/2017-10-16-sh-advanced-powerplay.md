@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Secret Hitler - Power Play on 4 liberal vs 2 fascist board
+seo_title: "Secret Hitler Strategy - Power Play at 4 Liberal Policies"
+seo_description: "Advanced Secret Hitler strategy: with four liberal and two fascist policies played, pick the next president as chancellor to force them to reveal a side."
 tags:
 type: blog
 ---

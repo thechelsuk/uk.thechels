@@ -1,6 +1,8 @@
 ---
 layout: default
 title: The Case For RSS
+seo_title: "The Case for RSS - Why I Still Rely on Feed Readers"
+seo_description: "Linking 512 Pixels on the case for RSS: why a curated feed list is still crucial to me, and why I am tied to Feedly because of IFTTT integration."
 tags:
 type: linked
 cited: 512 Pixels

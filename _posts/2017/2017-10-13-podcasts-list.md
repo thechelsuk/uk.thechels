@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Podcasts - Personal Listening List and Recommendations
+seo_title: "Podcasts I Listen To - 2017 Listening List"
+seo_description: "My 2017 podcast listening list, from Do By Friday and Marathon Talk to agile, developer, Mac and film review shows like Kermode and Mayo."
 tags:
 type: blog
 ---

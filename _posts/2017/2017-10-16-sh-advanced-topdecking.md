@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Secret Hitler - Top-decking before the reshuffle.
+seo_title: "Secret Hitler Strategy - Top-Decking Before the Reshuffle"
+seo_description: "Advanced Secret Hitler strategy: when five cards remain and two are likely liberal, voting down three governments forces a top-deck in your favour."
 tags:
 
 type: blog

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Cycle time - a metric for scrum
+seo_title: "Cycle Time in Scrum - How to Calculate It"
+seo_description: "What cycle time is, how to calculate average cycle time for a scrum team with a worked example, and why velocity and cycle time are not the same."
 tags:
 
 type: blog

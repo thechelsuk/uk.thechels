@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Fool proof dairy free yorkshire pudding
+seo_title: "Foolproof Dairy-Free Yorkshire Pudding Recipe"
+seo_description: "A foolproof dairy-free Yorkshire pudding recipe using equal measures of egg, flour and almond milk, rested, then poured into smoking hot oil."
 tag:
 
 type: blog

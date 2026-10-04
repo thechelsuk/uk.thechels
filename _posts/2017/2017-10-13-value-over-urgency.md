@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Value over urgency
+seo_title: "Value Over Urgency - Prioritising Work in Agile Sprints"
+seo_description: "When the business needs something urgently mid-sprint, agile teams should ask whether urgent work is really the most valuable thing to deliver next."
 tags:
 type: blog
 ---

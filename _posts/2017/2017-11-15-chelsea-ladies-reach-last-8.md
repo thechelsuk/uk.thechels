@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Chelsea Ladies reach last eight
+seo_title: "Chelsea Ladies Reach Champions League Last Eight"
+seo_description: "Chelsea Ladies reached the Women's Champions League quarter-finals for the first time in the club's history, beating third seeds Rosengard 4-0 on aggregate."
 date: 2017-11-15T19:50:03Z
 tag:
   - stats

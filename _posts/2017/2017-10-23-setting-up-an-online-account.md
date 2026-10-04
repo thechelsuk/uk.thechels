@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Setting up an online account
+seo_title: "Checklist Before Setting Up an Online Account"
+seo_description: "My checklist before signing up to any website: account deletion options, two-factor authentication, integrations, privacy policy and subscriptions."
 tag:
 type: blog
 ---
