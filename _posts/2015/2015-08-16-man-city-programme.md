@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Man City Programme 2015
+seo_title: "Manchester City v Chelsea Matchday Programme, 2015"
+seo_description: "Scans from the Manchester City v Chelsea matchday programme from August 2015, showing the cover and the inside page of the featured article."
 tags:
   - chelsea
 type: blog

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Chelsea Ladies - A year with Emma Hayes
+seo_title: "Chelsea Ladies - A Year With Emma Hayes as Manager"
+seo_description: "Emma Hayes marks a year as Chelsea Ladies manager: a defeat at Lincoln, a league double over leaders Liverpool, and goals for Jakobsson and Aluko."
 tag:
   - chelsea
 type: blog

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Roambi - Keep Your Team’s Stats Close and Their Opponent's Even Closer
+seo_title: "Roambi - Keep Your Team's Stats Close, Rivals Closer"
+seo_description: "A Roambi feature on football data and mobile analytics, and how Chelsea Stats uses business intelligence tools to drive debate among fans online."
 tag:
   - chelsea
 type: blog

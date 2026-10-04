@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Stamford Shed - interview
+seo_title: "Stamford Shed Interview - Chelsea Stats on Supporting"
+seo_description: "A Stamford Shed interview with Chelsea Stats: a first game against Crewe, standing in the old Shed, and queuing for semi-final tickets in the 1990s."
 tag:
   - chelsea
 type: blog

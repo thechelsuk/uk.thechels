@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Sweet Setup
+seo_title: "The Sweet Setup Interview - My Mac and iPhone Apps"
+seo_description: "My interview for The Sweet Setup on the software and hardware I use on Mac, iPhone and iPad, and how those tools fit into my work and daily life."
 tag:
 type: blog
 ---

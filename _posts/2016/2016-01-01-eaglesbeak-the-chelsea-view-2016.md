@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Eaglesbeak - The Chelsea View 2016
+seo_title: "The Eagles Beak - The Chelsea View, January 2016"
+seo_description: "Chelsea Stats talks to The Eagles Beak in January 2016 about a disastrous season so far, staying calm as a fan, and the upcoming game v Crystal Palace."
 tag:
   - chelsea
 type: blog

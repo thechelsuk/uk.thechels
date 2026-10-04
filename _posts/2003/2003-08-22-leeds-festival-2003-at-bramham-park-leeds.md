@@ -1,9 +1,10 @@
 ---
 date: 2003-08-22
 title: "Leeds Festival 2003 at Bramham Park Leeds"
+seo_title: "Leeds Festival 2003 at Bramham Park - Full Line-Up"
+seo_description: "Leeds Festival 2003 at Bramham Park: the full 143-band line-up, including Metallica, blink-182, Linkin Park, System of a Down, Blur and The Libertines."
 cited: "Concert Archives"
 link: https://www.concertarchives.org/concerts/leeds-festival-2003-bramham-park
-seo: "Leeds Festival 2003"
 type: ticket
 layout: post
 ---

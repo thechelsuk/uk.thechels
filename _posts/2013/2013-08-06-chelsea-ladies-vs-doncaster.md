@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Chelsea Ladies - Doncaster
+seo_title: "Chelsea Ladies 4-0 Doncaster Rovers Belles - FA WSL"
+seo_description: "Match report: Chelsea Ladies beat Doncaster Rovers Belles 4-0 in the FA WSL, with Yuki Ogimi impressing on debut behind a four-pronged attack."
 tag:
   - chelsea
 type: blog

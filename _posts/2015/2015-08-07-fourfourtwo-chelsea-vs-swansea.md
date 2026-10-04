@@ -1,6 +1,8 @@
 ---
 layout: post
 title: FourFourTwo - Chelsea vs Swansea - ask the experts
+seo_title: "FourFourTwo - Chelsea v Swansea, Ask the Experts 2015"
+seo_description: "FourFourTwo asks Pat Nevin, a blogger and an editor for their strongest Chelsea line-up against Swansea on the opening day of the 2015-16 season."
 tags:
   - chelsea
 type: blog

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Chelsea Ladies - Season draws to a close for Chelsea Ladies
+seo_title: "Chelsea Ladies 2013 Season Draws to a Close - Review"
+seo_description: "Chelsea Ladies end a difficult 2013 FA WSL season, losing 10 of 11, with Sofia Jakobsson and Ester Dos Santos sold before the final game v Lincoln."
 tag:
   - chelsea
 type: blog

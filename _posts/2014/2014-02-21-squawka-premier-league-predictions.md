@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Squawka - Premier League Predictions
+seo_title: "Squawka Premier League Predictions - February 2014"
+seo_description: "My Premier League predictions for Squawka in February 2014, including Chelsea v Everton, with Mourinho still unbeaten at home in the league."
 tag:
   - chelsea
 type: blog
