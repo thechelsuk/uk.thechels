@@ -5,14 +5,13 @@ on:
     workflow_call:
         inputs:
             urls:
-                description: Newline-separated URLs for local Lighthouse checks
+                description: >-
+                    Comma-separated URLs for local Lighthouse checks. The
+                    action splits on commas only, and the local static
+                    server does not map extensionless paths, so use .html.
                 required: false
-                default: |
-                    http://127.0.0.1:4000/
-                    http://127.0.0.1:4000/projects
-                    http://127.0.0.1:4000/about
-                    http://127.0.0.1:4000/slashes
-                    http://127.0.0.1:4000/disability
+                default: >-
+                    http://127.0.0.1:4000/,http://127.0.0.1:4000/projects.html,http://127.0.0.1:4000/about.html,http://127.0.0.1:4000/slashes.html,http://127.0.0.1:4000/disability.html
                 type: string
 
 jobs:
@@ -34,6 +33,12 @@ jobs:
             - name: Start local static server
               run: |
                   python -m http.server 4000 --directory _site > /tmp/http-server.log 2>&1 &
+                  for i in $(seq 1 30); do
+                    curl -sf http://127.0.0.1:4000/ > /dev/null && exit 0
+                    sleep 1
+                  done
+                  echo "Local server did not start" >&2
+                  exit 1
 
             - name: Lighthouse
               uses: foo-software/lighthouse-check-action@master
