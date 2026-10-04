@@ -72,9 +72,11 @@ OKR stands for **Objectives** and **Key Results**, they came from Andy Grove imp
 The Objective is qualitative, and the KRs (most often three) are quantitative. The objective establishes a goal for a set period of time, usually a quarter. The Key Results tell you if the Objective has been met by the end of the time.
 
 Your **Objective** is a single sentence that is:
-**\*Qualitative and Inspirational**. Designed to get people jumping out of bed in the morning with excitement, it provides meaning and progress. Use the language of your team.
-_ **Time bound**. For example, doable in a month or a quarter.
-_ **Actionable by team independently**. Your Objective has to be truly yours, and you can't have the excuse of "Marketing didn't market it".
+
+- **Qualitative and Inspirational**. Designed to get people jumping out of bed in the morning with excitement, it provides meaning and progress. Use the language of your team.
+- **Time bound**. For example, doable in a month or a quarter.
+- **Actionable by team independently**. Your Objective has to be truly yours, and you can't have the excuse of "Marketing didn't market it".
+
 **Key Results** take all that inspirational language and quantify it. "How would we know if we met our Objective?". Typically you have three Key Results. They can be based on anything you can measure like Growth, Engagement, Revenue, Performance or Quality.
 
 If you select your KRs wisely, you can balance forces like growth and performance, or revenue and quality by making sure you have potentially opposing forces represented.
