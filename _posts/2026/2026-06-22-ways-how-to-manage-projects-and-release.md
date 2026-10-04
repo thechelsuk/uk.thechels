@@ -26,7 +26,8 @@ Add a new post to the `_projects` collection folder with the following front mat
 layout: projects
 title: some-title
 permalink: /projects/some-title
-seo: "Some Title"
+seo_title: "A 30 to 60 character page title"
+seo_description: "A 120 to 160 character description for search results."
 class: scripts
 i_name: View
 i_url: "repo-url"
