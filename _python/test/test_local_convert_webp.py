@@ -12,7 +12,7 @@ import local_convert_webp  # noqa: E402
 
 def make_image(path, size=(1000, 500), mode="RGB", colour=(200, 50, 50)):
     if mode == "RGBA":
-        colour = colour + (128,)
+        colour = colour + (128, )
     Image.new(mode, size, colour).save(path)
     return path
 

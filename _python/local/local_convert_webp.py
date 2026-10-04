@@ -20,7 +20,8 @@ def convert(source, target=None, width=DEFAULT_WIDTH, quality=DEFAULT_QUALITY):
     target = pathlib.Path(target) if target else source.with_suffix(".webp")
     with Image.open(source) as image:
         image = ImageOps.exif_transpose(image)
-        has_alpha = image.mode in ("RGBA", "LA") or "transparency" in image.info
+        has_alpha = image.mode in ("RGBA",
+                                   "LA") or "transparency" in image.info
         image = image.convert("RGBA" if has_alpha else "RGB")
         if width and image.width > width:
             height = round(image.height * width / image.width)
@@ -38,14 +39,21 @@ if __name__ == "__main__":
     arguments = argparse.ArgumentParser(
         description="""Convert images to resized WebP files.""")
     arguments.add_argument("images", nargs="+", help="Images to convert")
-    arguments.add_argument("-o", "--output",
+    arguments.add_argument("-o",
+                           "--output",
                            help="Output file (one image) or folder")
-    arguments.add_argument("-w", "--width", type=int, default=DEFAULT_WIDTH,
+    arguments.add_argument("-w",
+                           "--width",
+                           type=int,
+                           default=DEFAULT_WIDTH,
                            help=f"Maximum width in px, 0 to keep "
                            f"(default {DEFAULT_WIDTH})")
-    arguments.add_argument("-q", "--quality", type=int,
-                           default=DEFAULT_QUALITY,
-                           help=f"WebP quality 0-100 (default {DEFAULT_QUALITY})")
+    arguments.add_argument(
+        "-q",
+        "--quality",
+        type=int,
+        default=DEFAULT_QUALITY,
+        help=f"WebP quality 0-100 (default {DEFAULT_QUALITY})")
     args = arguments.parse_args()
 
     output = pathlib.Path(args.output) if args.output else None
