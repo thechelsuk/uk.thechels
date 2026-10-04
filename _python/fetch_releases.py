@@ -10,12 +10,17 @@ import feedparser
 from markdownify import markdownify as convert_html
 import yaml
 import helper
+import seo_frontmatter
 
 ROOT = pathlib.Path(__file__).parent.parent.resolve()
 FEEDS_FILE = ROOT / "_data" / "releases.yml"
 POSTS_DIR = ROOT / "_posts"
 NO_RELEASE_NOTES = "No release notes were included for this release."
 PROJECTS_LINK = "[Read more about my projects](/projects)"
+RELEASE_SEO_PADDING = ("See what changed in this version. "
+                       "Most of my projects are free and open source. "
+                       "Read more about all my apps and tools on the "
+                       "projects page.")
 
 
 @dataclass(frozen=True)
@@ -209,6 +214,31 @@ def build_release_record(feed_url: str, entry: Any,
     )
 
 
+def summarise_changes(body: str, limit: int = 3) -> str:
+    """Return the first few release note bullets as plain text."""
+    changes = []
+    for line in body.splitlines():
+        if not re.match(r"^\s*[-*]\s*\S", line):
+            continue
+        change = re.sub(r"\s+(by|in)\s+\S*(@|#|\[).*$", "", line.strip(" -*"))
+        change = seo_frontmatter.clean_text(change).rstrip(" ,.")
+        if change:
+            changes.append(change)
+        if len(changes) == limit:
+            break
+    return "; ".join(changes)
+
+
+def build_release_seo(release: ReleaseRecord, body: str) -> tuple[str, str]:
+    """Return a generated seo_title and seo_description for a release."""
+    title = seo_frontmatter.fit_title(f"{release.title} Release Notes")
+    changes = summarise_changes(body)
+    summary = f"Release notes for {release.project_label} version {release.version}"
+    summary = f"{summary}: {changes}." if changes else f"{summary}."
+    description = seo_frontmatter.fit_description(summary, RELEASE_SEO_PADDING)
+    return title, description
+
+
 def render_post(release: ReleaseRecord) -> str:
     body = release.body.strip() or NO_RELEASE_NOTES
     label_bad_link_pattern = re.compile(
@@ -265,10 +295,13 @@ def render_post(release: ReleaseRecord) -> str:
     body = re.sub(r"\n{3,}", "\n\n", body).strip()
     body = f"{body}\n\n{PROJECTS_LINK}" if body else PROJECTS_LINK
 
+    seo_title, seo_description = build_release_seo(release, body)
     front_matter = {
         "layout": "post",
         "date": release.published.strftime("%Y-%m-%d %H:%M"),
         "title": release.title,
+        "seo_title": seo_title,
+        "seo_description": seo_description,
         "type": "release",
         "cited": "GitHub",
         "link": release.link,

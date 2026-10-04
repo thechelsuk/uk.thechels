@@ -56,3 +56,21 @@ class TestSeoFrontmatter:
     def test_check_lengths(self):
         assert seo_frontmatter.check_lengths(TITLE, DESCRIPTION) == []
         assert len(seo_frontmatter.check_lengths("short", "short")) == 2
+
+    def test_fit_title_pads_short_and_trims_long(self):
+        short = seo_frontmatter.fit_title("Short title")
+        long = seo_frontmatter.fit_title("word " * 30)
+        assert seo_frontmatter.TITLE_MIN <= len(short)
+        assert len(short) <= seo_frontmatter.TITLE_MAX
+        assert len(long) <= seo_frontmatter.TITLE_MAX
+        assert not long.endswith(" ")
+
+    def test_fit_description_pads_short_and_trims_long(self):
+        padding = "Padding sentence that is long enough to reach the minimum."
+        short = seo_frontmatter.fit_description("A [link](https://x.y).",
+                                                padding * 2)
+        long = seo_frontmatter.fit_description("word " * 60, padding)
+        assert "https" not in short
+        assert seo_frontmatter.check_lengths(TITLE, short) == []
+        assert seo_frontmatter.check_lengths(TITLE, long) == []
+        assert long.endswith("...")
