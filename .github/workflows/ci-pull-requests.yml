@@ -22,3 +22,6 @@ jobs:
     lighthouse:
         needs: [lint, test]
         uses: ./.github/workflows/re-lighthouse.yml
+        permissions:
+            contents: read
+            pull-requests: write
