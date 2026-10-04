@@ -447,6 +447,9 @@ a {
 .posts {
     margin-left: 0;
     padding-left: 0;
+    /* skip layout of off-screen rows on long archive lists */
+    content-visibility: auto;
+    contain-intrinsic-size: auto 1.6em;
 }
 
 .floated {
