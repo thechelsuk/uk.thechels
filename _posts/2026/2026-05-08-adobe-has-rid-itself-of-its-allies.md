@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-05-07 16:50
 title: Adobe Has Rid Itself of Its Allies
+seo_title: "Adobe Has Rid Itself of Its Allies - Pixel Envy"
+seo_description: "Linking Nick Heer on Adobe shipping worse, more complicated products as a result of its strategy, alienating the people who championed it."
 link: https://pxlnv.com/linklog/adobe-no-allies/
 cited: Nick Heer (Pixel Envy)
 type: linked

@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-06-27 12:28
 title: AI Liability
+seo_title: "AI Liability - Google Liable for AI Overviews"
+seo_description: "Linking Bruce Schneier on a German court ruling that Google is liable for its AI search summaries, treating AI Overviews as Google's own words."
 link: https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html
 cited: Schneier on Security
 type: linked

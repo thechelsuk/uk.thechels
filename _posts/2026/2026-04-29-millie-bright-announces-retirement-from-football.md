@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-29 11:05
 title: Millie Bright announces retirement from football
+seo_title: "Millie Bright Announces Retirement From Football"
+seo_description: "Linking Chelsea: Millie Bright retires, the best and most successful captain Chelsea have had, staying at the club in non-playing roles."
 link: https://www.chelseafc.com/en/news/article/millie-bright-announces-retirement-from-football
 cited: Chelsea FC Women
 type: linked

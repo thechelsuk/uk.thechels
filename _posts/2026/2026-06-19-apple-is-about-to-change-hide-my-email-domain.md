@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-06-19 01:35
 title: Apple is about to change Hide My Email domain
+seo_title: "Apple Is Changing the Hide My Email Domain"
+seo_description: "Linking a post on Apple changing its Hide My Email alias domain. I disagree that companies will simply ban it and turn away a huge market."
 link: https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/
 cited: Arseniy Shestakov
 type: linked

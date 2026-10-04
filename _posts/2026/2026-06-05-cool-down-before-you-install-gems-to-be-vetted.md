@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-06-05 17:46
 title: Cool down before you install as gems to be vetted
+seo_title: "RubyGems Cooldown - Let New Gems Be Vetted First"
+seo_description: "Linking RubyGems: Bundler adds a cooldown so new gem versions are not installed straight away, closing the window supply chain attacks exploit."
 link: https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html
 cited: Ruby Gems
 type: linked

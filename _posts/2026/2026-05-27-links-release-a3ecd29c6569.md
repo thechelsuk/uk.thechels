@@ -2,6 +2,8 @@
 layout: post
 date: 2026-05-27 21:33
 title: Links Version 1.0.1
+seo_title: "Links Site Version 1.0.1 Release Notes"
+seo_description: "Release notes for Links 1.0.1, my link-in-bio site: footer links split into lists with title case, a dependency review bump and Font Awesome."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.links/releases/tag/1.0.1

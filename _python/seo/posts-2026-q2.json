@@ -1,0 +1,498 @@
+{
+  "_posts/2026/2026-04-01-disabled-people-face-lower-benefits-if-conditions-like-me-not-deemed-lifelong.md": {
+    "seo_title": "Lower Benefits If Conditions Like ME Are Not Lifelong",
+    "seo_description": "Linking The Guardian: new disabled benefit claimants face cuts if conditions are not deemed lifelong. As if poverty improves health outcomes."
+  },
+  "_posts/2026/2026-04-01-ollama-cli-quick-ref.md": {
+    "seo_title": "How to Use Ollama From the Terminal - Quick Reference",
+    "seo_description": "A short cheat sheet for running local LLMs with Ollama in the terminal, using the Qwen 3.5 4B model as an example: pull, run, list and remove."
+  },
+  "_posts/2026/2026-04-02-video-version-20-of-hiyd-out-now-0b51464e.md": {
+    "seo_title": "Hiyd Version 2.0 Out Now - Jekyll App Update Video",
+    "seo_description": "A YouTube short announcing version 2.0 of Hiyd, my iOS companion app for Jekyll bloggers to capture ideas and draft posts with front matter."
+  },
+  "_posts/2026/2026-04-04-css-naked-day.md": {
+    "seo_title": "CSS Naked Day - Stripping Styles on 9 April",
+    "seo_description": "Linking CSS Naked Day, held on 9 April each year, when sites go without CSS to promote web standards. Not this year for me; reminder set for 2027."
+  },
+  "_posts/2026/2026-04-04-the-bbc-rss-feeds-are-garbage.md": {
+    "seo_title": "The BBC RSS Feeds Are Garbage - Stuart Breckenridge",
+    "seo_description": "Linking Stuart Breckenridge on the poor state of BBC RSS feeds. I stopped subscribing long ago, which is a shame given how RSS helps accessibility."
+  },
+  "_posts/2026/2026-04-04-uefa-backs-officials-after-chelsea's-sonia-bompastor-criticism.md": {
+    "seo_title": "UEFA Backs Officials After Bompastor Criticism",
+    "seo_description": "Linking Sky Sports: UEFA backs officials after Chelsea's Sonia Bompastor criticised them following the Champions League exit to Arsenal."
+  },
+  "_posts/2026/2026-04-06-homebridge-2.0-launch.md": {
+    "seo_title": "Homebridge 2.0 Launches on May the Fourth",
+    "seo_description": "Homebridge 2.0 launches on May the 4th, with improvements to the core HAP-NodeJS code and removal of long deprecated code for HomeKit users."
+  },
+  "_posts/2026/2026-04-07-body-language-text-terry-godier.md": {
+    "seo_title": "Language for When the Body Is Broken - Terry Godier",
+    "seo_description": "Responding to Terry Godier's post on body language in communication: people with chronic illness also need time on receipt to understand and act."
+  },
+  "_posts/2026/2026-04-08-amazon-is-ending-support-for-older-kindles-and-kindle-fires-the-verge.md": {
+    "seo_title": "Amazon Ends Support for Kindles From 2012 and Earlier",
+    "seo_description": "Linking The Verge: from 20 May 2026, Kindles and Kindle Fires from 2012 and earlier lose support. Jailbreaking may keep them out of landfill."
+  },
+  "_posts/2026/2026-04-09-400-plug-in-solar-to-be-sold-in-uk.md": {
+    "seo_title": "£400 Plug-In Solar Panels to Be Sold in the UK",
+    "seo_description": "Linking the i: plug-in solar panels needing no installation will go on sale in the UK from about £400. Might be worth some on the garden shed."
+  },
+  "_posts/2026/2026-04-10-how-to-ways.md": {
+    "seo_title": "How to Use Ways - A Guide to How-To Pages",
+    "seo_description": "What ways are: a slash page format for documenting processes and procedures that is easy to follow, with links to official manuals where possible."
+  },
+  "_posts/2026/2026-04-10-thechels-uk-release-2c1ec36f0b2b.md": {
+    "seo_title": "thechels.uk Version 1.9.0 Release Notes",
+    "seo_description": "Release notes for thechels.uk 1.9.0: improved RSS feeds, post types in front matter, archive pages and YouTube, Mastodon and Bluesky ingestion."
+  },
+  "_posts/2026/2026-04-12-pompidou-section-3.md": {
+    "seo_title": "Pompidou Section 3 - Refactoring Jekyll Post Types",
+    "seo_description": "Why I refactored my Jekyll site from collections to a type field in post front matter, putting all content in _posts for simpler feeds."
+  },
+  "_posts/2026/2026-04-14-new-tax-year,-new-plan.md": {
+    "seo_title": "New Tax Year, New Plan - UK ISA Changes",
+    "seo_description": "Linking a new tax year plan on the indie web. A reminder that cash ISA limits for under-65s fall to £12k next year, but £20k can still be used."
+  },
+  "_posts/2026/2026-04-16-announcing-nuchronic.uk.md": {
+    "seo_title": "Announcing Nuchronic.uk - A Webring for the Chronically Ill",
+    "seo_description": "Announcing Nuchronic.uk, the indie web webring for the chronically ill: a dark-mode Hacker News style aggregator of blogs, podcasts and videos."
+  },
+  "_posts/2026/2026-04-16-stop-treating-your-newsletters-as-glorified-rss-feeds.md": {
+    "seo_title": "Stop Treating Newsletters as Glorified RSS Feeds",
+    "seo_description": "Linking Simon Owens on newsletters that are just lists of links. Good advice, but in RSS's defence, feeds can carry far more than a link."
+  },
+  "_posts/2026/2026-04-16-video-me-is-in-our-blood-not-our-minds-50f9eecb.md": {
+    "seo_title": "ME Is in Our Blood, Not Our Minds - Video",
+    "seo_description": "A YouTube short on ME/CFS: ME is in our blood, not our minds. Sharing the message that it is a physical illness, not a psychological one."
+  },
+  "_posts/2026/2026-04-18-ai-and-personal-software-adapters.md": {
+    "seo_title": "AI and Personal Software Adapters",
+    "seo_description": "Between polarised takes on AI, I use coding agents to build personal adapters: small automations and connectors for everyday paper cuts."
+  },
+  "_posts/2026/2026-04-18-boinc-thechelsuk-release-92779a36ebd5.md": {
+    "seo_title": "BOINC @ thechelsuk Version 1.0.0 Release Notes",
+    "seo_description": "Release notes for version 1.0.0 of the BOINC @ thechelsuk team page, with wording updates and Dependabot bumps to its GitHub Actions."
+  },
+  "_posts/2026/2026-04-18-hiyd-uk-release-f4dbd6b5f96a.md": {
+    "seo_title": "Hiyd.uk Version 1.0.0 Release Notes",
+    "seo_description": "Release notes for version 1.0.0 of Hiyd.uk, the marketing site for my Jekyll app, with refactored styles and HTML for better layout and reading."
+  },
+  "_posts/2026/2026-04-18-nuchronic-uk-release-8921420fa8d0.md": {
+    "seo_title": "Nuchronic.uk Version 1.0.0 Release Notes",
+    "seo_description": "Release notes for version 1.0.0 of Nuchronic.uk, the indie web webring for the chronically ill, including image optimisation by ImgBot."
+  },
+  "_posts/2026/2026-04-18-prescribing-rss-and-curation.md": {
+    "seo_title": "Prescribing a Course of RSS and Curation",
+    "seo_description": "Linking a post on RSS and curation as a cure for platforms, and my approach: 300 feeds in NetNewsWire, favourite what looks good, read later."
+  },
+  "_posts/2026/2026-04-18-search-router-release-1cdb845ee4e8.md": {
+    "seo_title": "Search Router Version 1.0.0 Released",
+    "seo_description": "Version 1.0.0 of Search Router, my browser homepage and search engine that routes queries with !bang shortcuts to any search engine or site."
+  },
+  "_posts/2026/2026-04-18-tools-release-e59871ae14ad.md": {
+    "seo_title": "Tools Version 1.0.0 - Activity Plan and More",
+    "seo_description": "Release notes for Tools 1.0.0, adding an activity plan page with a four-week hourly tracker, external tool links and a link to Search Router."
+  },
+  "_posts/2026/2026-04-18-video-shortkeys-app-for-multi-line-text-replacement-5dd7bbed.md": {
+    "seo_title": "ShortKeys - Multi-Line Text Replacement App Video",
+    "seo_description": "A YouTube short showing ShortKeys, my iOS keyboard app for multi-line text replacement, saving snippets behind short keys to type faster."
+  },
+  "_posts/2026/2026-04-19-thechels-uk-release-02900562232a.md": {
+    "seo_title": "thechels.uk Version 1.10.0 - GitHub Feed Ingestion",
+    "seo_description": "Release notes for thechels.uk 1.10.0, adding GitHub feed ingestion so releases from my projects are pulled into the site automatically."
+  },
+  "_posts/2026/2026-04-20-thechels-uk-release-f537425cbf0b.md": {
+    "seo_title": "thechels.uk Version 1.11.0 - Daily Briefing as Posts",
+    "seo_description": "Release notes for thechels.uk 1.11.0, moving the daily briefing into posts with its own post type, so each day's rundown is archived."
+  },
+  "_posts/2026/2026-04-21-boring-tiny-tools.md": {
+    "seo_title": "Boring Tiny Tools - Vaughn Tan on Transformation",
+    "seo_description": "Linking Vaughn Tan's essay on boring tiny tools: AI coding enables useful, highly customised but narrow software as the way forward for change."
+  },
+  "_posts/2026/2026-04-21-community-letter-from-tim-apple.md": {
+    "seo_title": "Tim Cook's Community Letter on John Ternus as CEO",
+    "seo_description": "Linking Tim Cook's letter to the Apple community introducing John Ternus, an engineer of 25 years at Apple, as the company's next leader."
+  },
+  "_posts/2026/2026-04-21-github-copilot-drops-opus,-pauses-new-pro-users.md": {
+    "seo_title": "GitHub Copilot Drops Opus and Pauses New Pro Users",
+    "seo_description": "Linking GitHub's changes to Copilot individual plans: Opus removed and new Pro sign-ups paused. Usage limit alerts in chat are also horrible."
+  },
+  "_posts/2026/2026-04-21-how-i-use-rss-to-quickly-post-on-my-jekyll-blog.md": {
+    "seo_title": "How to Use RSS to Post Quickly on a Jekyll Blog",
+    "seo_description": "Linking Lisa Charlotte Muth on using Tumblr and RSS to post to Jekyll. I use Drafts and Working Copy on iOS, plus Python in GitHub Actions."
+  },
+  "_posts/2026/2026-04-21-i’m-bringing-everything-back-to-my-website-roots.md": {
+    "seo_title": "ROOTS - Bringing Everything Back to My Website",
+    "seo_description": "Linking Lisa Charlotte Muth on ROOTS, return old online things to your site, a first step towards POSSE. This is the way; love the new term."
+  },
+  "_posts/2026/2026-04-21-tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo.md": {
+    "seo_title": "John Ternus to Become Apple CEO, Tim Cook Chairman",
+    "seo_description": "Linking Apple: Tim Cook becomes executive chairman and John Ternus becomes CEO. I hope Ternus makes Apple's software as good as its hardware."
+  },
+  "_posts/2026/2026-04-22-Monthly-Mixtape-Apr-2026.md": {
+    "seo_title": "Monthly Mixtape April 2026 - Manic Street Preachers",
+    "seo_description": "My April 2026 mixtape of songs on repeat, including If You Tolerate This Your Children Will Be Next by Manic Street Preachers and Dead Dads Club."
+  },
+  "_posts/2026/2026-04-22-cfcw-players-letter.md": {
+    "seo_title": "Chelsea FC Women Players' Letter on Stamford Bridge",
+    "seo_description": "Linking the Chelsea FC Women players' letter on moving to Stamford Bridge, for everyone who pushed the women's game forward. Staines to the Bridge."
+  },
+  "_posts/2026/2026-04-22-chelsea-fc-women-to-call-stamford-bridge-home.md": {
+    "seo_title": "Chelsea FC Women to Call Stamford Bridge Home",
+    "seo_description": "Linking Chelsea: the women's team will play at Stamford Bridge. A good move, though some world-class players were notably absent from the media."
+  },
+  "_posts/2026/2026-04-22-chelsea-sack-liam-rosenior.md": {
+    "seo_title": "Chelsea Sack Liam Rosenior After Five League Defeats",
+    "seo_description": "Linking We Ain't Got No History: Chelsea sack Liam Rosenior amid a historically bad run. No surprise. My ratings for manager, players and owners."
+  },
+  "_posts/2026/2026-04-22-thechels-uk-release-cbe4fbcdfe30.md": {
+    "seo_title": "thechels.uk Version 2.0.0 - Post Types, Feeds and POSSE",
+    "seo_description": "Release notes for thechels.uk 2.0.0, a major version after a large refactor of post types and feeds, and a move to POSSE over PESOS."
+  },
+  "_posts/2026/2026-04-24-homebridge-ysa2-yale-alarm-release-a7ae919efe6a.md": {
+    "seo_title": "Homebridge YSA2 Yale Alarm Plugin v2.1.1 Released",
+    "seo_description": "The first release of my YSA2 Homebridge plugin for Yale Sync alarms, updating a nine year old package with a newer codebase and safer dependencies."
+  },
+  "_posts/2026/2026-04-24-uk-biobank-project-privacy-concerns.md": {
+    "seo_title": "UK Biobank Project and Its Privacy Concerns",
+    "seo_description": "Linking The Guardian on UK Biobank data found for sale online. Many people with ME may be in this dataset after recent research. As if we do not suffer enough."
+  },
+  "_posts/2026/2026-04-29-a-potential-diagnostic-test-for-me-cfs-based-on-cell-electrophysiology.md": {
+    "seo_title": "A Potential Blood Cell Diagnostic Test for ME/CFS",
+    "seo_description": "Linking the ME Association on research suggesting the electrical properties of white blood cells could become a low-cost diagnostic test for ME/CFS."
+  },
+  "_posts/2026/2026-04-29-an-update-on-github-availability.md": {
+    "seo_title": "An Update on GitHub Availability After Outages",
+    "seo_description": "Linking GitHub's update after a terrible week of incidents, and two thoughts: avoid pull requests outside open source, and GitHub must do better."
+  },
+  "_posts/2026/2026-04-29-before-github.md": {
+    "seo_title": "Before GitHub - Armin Ronacher on Open Source Archives",
+    "seo_description": "Linking Armin Ronacher: GitHub became open source's archive by accident, and if it stops being the centre, we cannot assume that archive survives."
+  },
+  "_posts/2026/2026-04-29-bookstack-has-migrated-from-github-to-codeberg.md": {
+    "seo_title": "BookStack Migrates From GitHub to Codeberg",
+    "seo_description": "Linking BookStack's move of all its repositories from GitHub to Codeberg, as GitHub's reliability problems cause an exodus of developers."
+  },
+  "_posts/2026/2026-04-29-ghostty-is-leaving-github.md": {
+    "seo_title": "Ghostty Is Leaving GitHub - Mitchell Hashimoto",
+    "seo_description": "Linking Mitchell Hashimoto on moving the Ghostty terminal off GitHub, a decision that makes him irrationally sad given what GitHub meant to him."
+  },
+  "_posts/2026/2026-04-29-github-copilot-is-moving-to-usage-based-billing.md": {
+    "seo_title": "GitHub Copilot Moves to Usage-Based Billing",
+    "seo_description": "Linking GitHub: Copilot plans swap premium requests for a monthly allotment of AI credits, with extra usage to buy. Not sure it helps retention."
+  },
+  "_posts/2026/2026-04-29-millie-bright-announces-retirement-from-football.md": {
+    "seo_title": "Millie Bright Announces Retirement From Football",
+    "seo_description": "Linking Chelsea: Millie Bright retires, the best and most successful captain Chelsea have had, staying at the club in non-playing roles."
+  },
+  "_posts/2026/2026-04-29-nearly-half-of-everyone-in-poverty-is-either-a-disabled-person-or-lives-with-a-disabled-person.md": {
+    "seo_title": "Nearly Half of People in Poverty Are Disabled-Linked",
+    "seo_description": "Linking Disability Rights UK: four million disabled people live in poverty, and seven million in poverty are disabled or live with someone disabled."
+  },
+  "_posts/2026/2026-04-29-passkeys-are-the-future-says-ncsc.md": {
+    "seo_title": "Passkeys Are the Future, Says the NCSC",
+    "seo_description": "Linking the NCSC on leaving passwords behind for passkeys. The future, perhaps, but inconsistent implementations across sites must be fixed first."
+  },
+  "_posts/2026/2026-04-29-sourcefeed-a-pop-up-rss-service-launched.md": {
+    "seo_title": "Sourcefeed - Terry Godier Launches an RSS-Only Service",
+    "seo_description": "Linking Terry Godier's Sourcefeed, a pop-up RSS-only publishing service with no website, no inbox and no algorithm. Just subscribe to the feed."
+  },
+  "_posts/2026/2026-04-29-zwift-acquires-rouvy.md": {
+    "seo_title": "Zwift Acquires ROUVY, the Real Routes Cycling App",
+    "seo_description": "Linking Zwift's acquisition of ROUVY, the real routes indoor cycling app. I miss being able to ride but I am still keen to follow what Zwift does."
+  },
+  "_posts/2026/2026-05-01-cheltenham-open-data-release-f7296982c5d7.md": {
+    "seo_title": "Cheltenham Open Data Version 1.1.0 Release Notes",
+    "seo_description": "Release notes for Cheltenham Open Data 1.1.0, with a lychee link checker bump and missing community health files added to the repository."
+  },
+  "_posts/2026/2026-05-01-homebridge-ysa2-yale-alarm-release-f5d8b98ac6df.md": {
+    "seo_title": "Homebridge YSA2 Yale Alarm Plugin v2.2.0 Released",
+    "seo_description": "Version 2.2.0 of my YSA2 Homebridge plugin for Yale Sync alarms, released while still debugging the integration with HomeKit."
+  },
+  "_posts/2026/2026-05-02-nnw-theme-bundle-release-fc098d90d3fe.md": {
+    "seo_title": "NetNewsWire Theme Bundle v1.6.2 - New Retro Theme",
+    "seo_description": "NetNewsWire theme bundle 1.6.2 adds a dark, moody Retro theme, fixes guro and thechelsuk themes, and adds an embedded YouTube player."
+  },
+  "_posts/2026/2026-05-03-cf-worker-x-redirect-release-62642408c50b.md": {
+    "seo_title": "CF Worker X Redirect Version 1.0.1 Released",
+    "seo_description": "Version 1.0.1 of CF Worker X Redirect, my Cloudflare Worker that redirects video links from NetNewsWire themes to a PiP-capable iOS player."
+  },
+  "_posts/2026/2026-05-03-nnw-theme-bundle-release-a865ebf081e2.md": {
+    "seo_title": "NetNewsWire Theme Bundle v1.7.2 Release",
+    "seo_description": "NetNewsWire theme bundle 1.7.2 with download links for each theme, including guro, retro and thechelsuk, to install in the RSS reader."
+  },
+  "_posts/2026/2026-05-03-nuchronic-uk-release-2ab952c7e7c5.md": {
+    "seo_title": "Nuchronic.uk Version 1.1.0 - Webmentions and Top Page",
+    "seo_description": "Nuchronic.uk 1.1.0 adds fediverse support and webmentions, better scheduling, a top 30 page ranked by webmentions, and Bluesky and Mastodon."
+  },
+  "_posts/2026/2026-05-05-cf-worker-x-redirect-release-2ccbc7f48926.md": {
+    "seo_title": "CF Worker X Redirect Version 1.0.3 Released",
+    "seo_description": "Version 1.0.3 of CF Worker X Redirect, my Cloudflare Worker for redirecting NetNewsWire video links, with a full changelog from version 1.0.1."
+  },
+  "_posts/2026/2026-05-06-cf-worker-x-redirect-release-0de197f5789c.md": {
+    "seo_title": "CF Worker X Redirect Version 1.0.4 Released",
+    "seo_description": "Version 1.0.4 of CF Worker X Redirect, my Cloudflare Worker for redirecting NetNewsWire video links, with a full changelog from version 1.0.3."
+  },
+  "_posts/2026/2026-05-06-cf-worker-x-redirect-release-a80c48d7fed8.md": {
+    "seo_title": "CF Worker X Redirect Version 1.0.5 Released",
+    "seo_description": "Version 1.0.5 of CF Worker X Redirect, my Cloudflare Worker for redirecting NetNewsWire video links, with a full changelog from version 1.0.4."
+  },
+  "_posts/2026/2026-05-07-rss-feed-discovery.md": {
+    "seo_title": "RSS Feed Discovery via .well-known Beats Guessing",
+    "seo_description": "Linking Stuart Breckenridge on RSS feed discovery with .well-known/feed-menu.json. I like it, and have added one to this site to list my feeds."
+  },
+  "_posts/2026/2026-05-08-adobe-has-rid-itself-of-its-allies.md": {
+    "seo_title": "Adobe Has Rid Itself of Its Allies - Pixel Envy",
+    "seo_description": "Linking Nick Heer on Adobe shipping worse, more complicated products as a result of its strategy, alienating the people who championed it."
+  },
+  "_posts/2026/2026-05-08-cloudflare-builds-for-revenue-not-humans.md": {
+    "seo_title": "Cloudflare Cuts 1,100 Jobs Amid 34% Revenue Growth",
+    "seo_description": "Linking Cloudflare: 1,100 job losses blamed on AI, announced alongside 34 per cent year-on-year revenue growth. Building for revenue, not humans."
+  },
+  "_posts/2026/2026-05-08-get-50-when-you-join-octopus-energy.md": {
+    "seo_title": "Get £50 Credit When You Join Octopus Energy",
+    "seo_description": "Use my referral link to switch to Octopus Energy and we both get £50 credit. Octopus consistently ranks at or near the top for UK satisfaction."
+  },
+  "_posts/2026/2026-05-08-github-repo-stats.md": {
+    "seo_title": "GitHub Repo Stats - What Do Commit Counts Mean?",
+    "seo_description": "Linking Simon Willison's GitHub repo stats tool, and asking whether 5,500 commits on this site is good or bad, given how many were trial and error."
+  },
+  "_posts/2026/2026-05-08-plans-for-rss-with-netnewswire.md": {
+    "seo_title": "My Plans for RSS With NetNewsWire",
+    "seo_description": "The latest NetNewsWire update is fast and syncs quickly even with many feeds. My plans for RSS, including the custom themes I have been building."
+  },
+  "_posts/2026/2026-05-09-nnw-theme-bundle-release-0a6890489292.md": {
+    "seo_title": "NetNewsWire Theme Bundle v1.8.1 - New Fresh Theme",
+    "seo_description": "NetNewsWire theme bundle 1.8.1 adds a Fresh theme, YouTube embeds and extension.app links for all themes, plus a link finder for articles."
+  },
+  "_posts/2026/2026-05-12-gitlab-restructures.md": {
+    "seo_title": "GitLab Restructures With a Voluntary Separation Window",
+    "seo_description": "Linking GitLab on a restructuring run differently from most: planning in the open, with a voluntary separation window for team members."
+  },
+  "_posts/2026/2026-05-12-government-announces-475-million-funding-for-sequence-me-research-project.md": {
+    "seo_title": "£4.75 Million Government Funding for Sequence ME",
+    "seo_description": "Linking the ME Association: the government funds the Sequence ME research project with £4.75m, a milestone for a historically neglected illness."
+  },
+  "_posts/2026/2026-05-12-me-awareness-day-2026.md": {
+    "seo_title": "ME Awareness Day 2026 - 12 May",
+    "seo_description": "Linking ME Research UK on ME Awareness Week, held every May around International ME Awareness Day on 12 May, to raise awareness of ME/CFS."
+  },
+  "_posts/2026/2026-05-12-nnw-theme-bundle-release-d3670e80619f.md": {
+    "seo_title": "NetNewsWire Theme Bundle v1.8.2 Release",
+    "seo_description": "NetNewsWire theme bundle 1.8.2 with download links for each theme, including Fresh and Guro, ready to install in the RSS reader on Mac and iOS."
+  },
+  "_posts/2026/2026-05-12-video-co-work-news-feed-ad7ec66d.md": {
+    "seo_title": "Co-Work News Feed - A YouTube Video",
+    "seo_description": "Co-work news feed, a video published to my YouTube channel in May 2026, one of my videos on the apps and projects I have been building."
+  },
+  "_posts/2026/2026-05-12-your-ai-use-is-breaking-my-brain.md": {
+    "seo_title": "Your AI Use Is Breaking My Brain - 404 Media",
+    "seo_description": "Linking 404 Media on being bombarded by AI everywhere online, where people think fake things are real and real things are fake."
+  },
+  "_posts/2026/2026-05-14-nnw-theme-bundle-release-79f22f31f761.md": {
+    "seo_title": "NetNewsWire Theme Bundle v1.9.2 - New Magda Theme",
+    "seo_description": "NetNewsWire theme bundle 1.9.2 adds Magda, a dark-mode-only, content-first theme, alongside Fresh, Guro and others ready to download."
+  },
+  "_posts/2026/2026-05-15-no-in-advance.md": {
+    "seo_title": "Write Your No in Advance - Derek Sivers",
+    "seo_description": "Linking Derek Sivers on writing a considerate but decisive no in advance. I keep canned replies in my ShortKeys app, and this fits right in."
+  },
+  "_posts/2026/2026-05-16-cheltenham-open-data-release-a400aa248379.md": {
+    "seo_title": "Cheltenham Open Data Newsletter Release, May 2026",
+    "seo_description": "An automated newsletter release of Cheltenham Open Data from May 2026, my project republishing local public data. No release notes included."
+  },
+  "_posts/2026/2026-05-22-boinc-thechelsuk-release-290ef30dcfc4.md": {
+    "seo_title": "BOINC @ thechelsuk Version 1.0.1 Release Notes",
+    "seo_description": "Release notes for BOINC @ thechelsuk 1.0.1, with minor supporting Markdown file updates and a Dependabot bump to the lychee link checker."
+  },
+  "_posts/2026/2026-05-22-film-monthly-may-2026.md": {
+    "seo_title": "Film Club Friday - Films Watched in May 2026",
+    "seo_description": "The films I watched in May 2026, with ratings. Being housebound with disrupted sleep means films on in the background and a long film log."
+  },
+  "_posts/2026/2026-05-22-modern-web-ai-2026.md": {
+    "seo_title": "The Modern Web in the AI Era, 2026",
+    "seo_description": "The web has not fundamentally changed: it is still built for many devices and speeds. If anything, the AI flood pushes people to the IndieWeb."
+  },
+  "_posts/2026/2026-05-22-monthly-mixtape-may-2026.md": {
+    "seo_title": "Monthly Mixtape May 2026 - Featuring chromasetica",
+    "seo_description": "My May 2026 mixtape, introducing chromasetica, the first single from friend of the web whitep4nth3r, alongside the rest of the month's songs."
+  },
+  "_posts/2026/2026-05-22-weaknotes-2026-05-22.md": {
+    "seo_title": "WeakNotes 22 May 2026 - A Year Off Work With ME",
+    "seo_description": "Weekly notes: another rough week with little progress. A full year since I last worked, grateful for sick pay and insurance that support us."
+  },
+  "_posts/2026/2026-05-27-links-release-a3ecd29c6569.md": {
+    "seo_title": "Links Site Version 1.0.1 Release Notes",
+    "seo_description": "Release notes for Links 1.0.1, my link-in-bio site: footer links split into lists with title case, a dependency review bump and Font Awesome."
+  },
+  "_posts/2026/2026-05-30-weaknotes-2026-05-30.md": {
+    "seo_title": "WeakNotes 30 May 2026 - Feeling My Baseline Drop",
+    "seo_description": "Weekly notes: little improvement and a baseline that feels like it is dropping. Family helped tidy the garden, something I can no longer manage."
+  },
+  "_posts/2026/2026-06-01-homebridge-ysa2-yale-alarm-release-1fc3c4de17bd.md": {
+    "seo_title": "Homebridge YSA2 Yale Alarm Plugin v2.2.5 Released",
+    "seo_description": "YSA2 Homebridge plugin 2.2.5 fixes bugs and adds tests for a working Yale Sync alarm you can arm and disarm in HomeKit with a dummy switch."
+  },
+  "_posts/2026/2026-06-05-cool-down-before-you-install-gems-to-be-vetted.md": {
+    "seo_title": "RubyGems Cooldown - Let New Gems Be Vetted First",
+    "seo_description": "Linking RubyGems: Bundler adds a cooldown so new gem versions are not installed straight away, closing the window supply chain attacks exploit."
+  },
+  "_posts/2026/2026-06-05-df-quoting-daniel-jalkut-on-ai.md": {
+    "seo_title": "Daniel Jalkut on AI - Too For It and Too Against It",
+    "seo_description": "Via Daring Fireball, Daniel Jalkut on AI: everybody against it is too against it, and everybody for it is too for it. I concur completely."
+  },
+  "_posts/2026/2026-06-05-microsoft-wanted-to-make-addictive-ai.md": {
+    "seo_title": "Microsoft Wanted to Make Addictive AI - 404 Media",
+    "seo_description": "Linking 404 Media on Microsoft wanting addictive AI. The enshittification playbook: subsidise to ubiquity, then raise prices once people depend on it."
+  },
+  "_posts/2026/2026-06-06-weaknotes-2026-06-05.md": {
+    "seo_title": "WeakNotes 5 June 2026 - Reworking the Projects Pages",
+    "seo_description": "Weekly notes: I reworked the projects pages on this site, with each project as its own file in a Jekyll collection and a type in front matter."
+  },
+  "_posts/2026/2026-06-08-siri-ai-delayed-in-eu-for-ios-and-ipados-27-due-to-dma.md": {
+    "seo_title": "Siri AI Delayed in the EU for iOS 27 Due to the DMA",
+    "seo_description": "Linking Apple: the new Siri AI, powered by Apple Intelligence, will not ship in the EU with iOS 27 and iPadOS 27 because of the DMA."
+  },
+  "_posts/2026/2026-06-09-nnw-theme-bundle-release-4fc7293c1a9b.md": {
+    "seo_title": "NetNewsWire Theme Bundle v2.0.0 Release",
+    "seo_description": "NetNewsWire theme bundle 2.0.0: one shared template script with pre-commit automation, academic-style links, bug fixes and updated test files."
+  },
+  "_posts/2026/2026-06-09-video-new-apple-ios27-add-custom-pass-to-wallet-a948b681.md": {
+    "seo_title": "iOS 27 - Add a Custom Pass to Apple Wallet (Video)",
+    "seo_description": "A YouTube short on a new iOS 27 feature that lets you add your own custom pass to Apple Wallet on iPhone, shown in a quick demonstration."
+  },
+  "_posts/2026/2026-06-10-infantino-and-trump-collusion.md": {
+    "seo_title": "Infantino, Trump and FIFA's Trump Tower Office",
+    "seo_description": "Linking The New York Times: FIFA has leased a near-empty office in Trump Tower for a year, with rent going to President Trump. In plain sight."
+  },
+  "_posts/2026/2026-06-11-chronic-illness-bloggers.md": {
+    "seo_title": "Calling Chronic Illness Bloggers for Nuchronic.uk",
+    "seo_description": "I am looking for bloggers and creators with chronic illness to add to Nuchronic.uk, an indie web aggregator to showcase and support their work."
+  },
+  "_posts/2026/2026-06-12-npm-no-longer-has-auto-run-scripts.md": {
+    "seo_title": "npm No Longer Runs Install Scripts Automatically",
+    "seo_description": "Linking The Register: GitHub changes npm's defaults so install no longer runs scripts automatically, a feature abused by worms like Shai-Hulud."
+  },
+  "_posts/2026/2026-06-12-video-drafts-app---film-template-and-omdb-film-searcher-byok-7b36e316.md": {
+    "seo_title": "Drafts App Film Template and OMDB Search (Video)",
+    "seo_description": "A YouTube short showing my Drafts app film template and OMDB film search action, bring your own API key, used to log films I have watched."
+  },
+  "_posts/2026/2026-06-13-ai-economics-for-dummies.md": {
+    "seo_title": "AI Economics for Dummies - McSweeney's Satire",
+    "seo_description": "Linking McSweeney's AI Economics for Dummies, a satire of circular AI investment deals where billions change hands and value goes up in smoke."
+  },
+  "_posts/2026/2026-06-13-us-gov-directive-suspends-access-to-fable-5-and-mythos-5.md": {
+    "seo_title": "US Directive Suspends Foreign Access to Fable 5",
+    "seo_description": "Linking Anthropic: a US export control directive suspends all access to Fable 5 and Mythos 5 by foreign nationals, inside or outside the US."
+  },
+  "_posts/2026/2026-06-13-weaknotes-2026-06-13.md": {
+    "seo_title": "WeakNotes 13 June 2026 - World Cup and WWDC",
+    "seo_description": "Weekly notes: the World Cup helps take my mind off pain and insomnia, even if I forget the details after, plus my thoughts on WWDC 26."
+  },
+  "_posts/2026/2026-06-14-ai-sphyxiation.md": {
+    "seo_title": "AI-sphyxiation - When AI Smothers Good Products",
+    "seo_description": "Linking Olly's definition of AI-sphyxiation: the gradual suffocation of useful products by unwanted AI features, as with Google Photos."
+  },
+  "_posts/2026/2026-06-15-self-hosted-youtube-rss-subscriptions-feed.md": {
+    "seo_title": "A Self-Hosted YouTube Subscriptions RSS Feed",
+    "seo_description": "Linking Philipp Dubach on building his own YouTube subscriptions feed after degoogling. An elegant alternative to my NetNewsWire theme approach."
+  },
+  "_posts/2026/2026-06-15-social-media-to-be-banned-for-under-16s.md": {
+    "seo_title": "UK to Ban Social Media for Under-16s",
+    "seo_description": "Linking GOV.UK on banning social media for under-16s, and what it means for disabled children at home who rely on online support communities."
+  },
+  "_posts/2026/2026-06-17-embracing-the-quartering-of-football.md": {
+    "seo_title": "Embracing the Quartering of Football",
+    "seo_description": "World Cup hydration breaks split games into quarters. Why football should embrace four quarters, with fixed ball-in-play time and a timekeeper."
+  },
+  "_posts/2026/2026-06-17-how-to-find-stale-feeds-with-the-dinosaurs-window.md": {
+    "seo_title": "Find Stale Feeds With NetNewsWire's Dinosaurs Window",
+    "seo_description": "Linking NetNewsWire's Dinosaurs window for finding stale feeds. I had mimicked it with an OPML export and Python script; in-app is much nicer."
+  },
+  "_posts/2026/2026-06-19-apple-is-about-to-change-hide-my-email-domain.md": {
+    "seo_title": "Apple Is Changing the Hide My Email Domain",
+    "seo_description": "Linking a post on Apple changing its Hide My Email alias domain. I disagree that companies will simply ban it and turn away a huge market."
+  },
+  "_posts/2026/2026-06-19-monthly-mixtape-june-2026.md": {
+    "seo_title": "Monthly Mixtape June 2026 - Moloko, Placebo and More",
+    "seo_description": "My June 2026 mixtape of songs on repeat, including Kitty, Daisy and Lewis, It's Nothing by Moloko and English Summer Rain by Placebo."
+  },
+  "_posts/2026/2026-06-19-moving-a-hugo-blog-off-github-pages.md": {
+    "seo_title": "Moving a Hugo Blog Off GitHub Pages to Europe",
+    "seo_description": "Linking Philipp Dubach on moving his Hugo blog off GitHub Pages. A move away from GitHub feels like it is coming for me too, energy permitting."
+  },
+  "_posts/2026/2026-06-19-pain-rating-scale.md": {
+    "seo_title": "Pain Rating Scale - Measuring Pain for Doctors",
+    "seo_description": "Linking a pain rating scale from Alberta Health: everyone feels pain differently, and a scale helps doctors understand and plan treatment."
+  },
+  "_posts/2026/2026-06-19-ways-how-to-manage-pi.md": {
+    "seo_title": "How to Re-Flash and Manage a Raspberry Pi",
+    "seo_description": "How to re-flash a Raspberry Pi with Raspberry Pi OS using Raspberry Pi Imager on a Mac, and other steps to manage and maintain your Pi."
+  },
+  "_posts/2026/2026-06-22-scripts-convert-google-takeout-youtube-csv-to-opml-python-release-35a1726111f4.md": {
+    "seo_title": "YouTube Takeout CSV to OPML Script v1.0.0 Released",
+    "seo_description": "First release of my Python script that converts YouTube subscription data from Google Takeout CSV into an OPML file for your feed reader."
+  },
+  "_posts/2026/2026-06-22-scripts-delete-github-issues-python-release-a5060fe3a1cb.md": {
+    "seo_title": "Delete GitHub Issues Python Script v1.0.1 Released",
+    "seo_description": "Version 1.0.1 of my Python script that uses the GitHub API to delete closed GitHub issues in bulk, with updated release notes and description."
+  },
+  "_posts/2026/2026-06-22-ways-how-to-manage-projects-and-release.md": {
+    "seo_title": "How to Manage Website Projects and Releases",
+    "seo_description": "How projects and releases are managed on thechels.uk: add a release feed to releases.yml and a GitHub Action creates posts for new releases."
+  },
+  "_posts/2026/2026-06-23-hmrc-ends-the-isa-tax-free-status-with-22-tax-on-cash-interest.md": {
+    "seo_title": "HMRC Announces 22% Tax on Cash Interest in ISAs",
+    "seo_description": "Linking The Guardian: a 22 per cent tax on cash interest held in stocks and shares ISAs ends the ISA's sanctity. A stupid move in my view."
+  },
+  "_posts/2026/2026-06-24-heat-wave-and-me.md": {
+    "seo_title": "Heat Waves and ME/CFS - Coping With Extreme Heat",
+    "seo_description": "Why heat waves are so hard with ME/CFS: autonomic dysfunction and POTS, impaired temperature regulation and limited energy reserves, risking PEM."
+  },
+  "_posts/2026/2026-06-26-film-monthly-june-2026.md": {
+    "seo_title": "Film Club Friday - Films Watched in June 2026",
+    "seo_description": "The films I watched in June 2026 with ratings, plus a backlog of older films seen but never logged. I wish Netflix could hide watched films."
+  },
+  "_posts/2026/2026-06-26-lastpass-data-breach-and-response.md": {
+    "seo_title": "LastPass Data Breach via Third-Party Klue",
+    "seo_description": "Linking LastPass on another breach, via an incident at third-party market intelligence platform Klue. A password manager should be better at this."
+  },
+  "_posts/2026/2026-06-26-the-observation-window.md": {
+    "seo_title": "The Privacy Observation Window for UK Citizens",
+    "seo_description": "The privacy observation window: the surveillance UK citizens have accepted from government and business, what is being normalised and what is not."
+  },
+  "_posts/2026/2026-06-26-youtube-continues-to-ruin-its-app-player-to-make-it-even-more-like-tiktok.md": {
+    "seo_title": "YouTube Keeps Making Its App More Like TikTok",
+    "seo_description": "Linking The Verge on YouTube's Shorts-style player changes. I can barely use the app, with daily AI slop community posts I cannot block or hide."
+  },
+  "_posts/2026/2026-06-27-ai-liability.md": {
+    "seo_title": "AI Liability - Google Liable for AI Overviews",
+    "seo_description": "Linking Bruce Schneier on a German court ruling that Google is liable for its AI search summaries, treating AI Overviews as Google's own words."
+  },
+  "_posts/2026/2026-06-27-weaknotes-2026-06-27.md": {
+    "seo_title": "WeakNotes 27 June 2026 - Hot Weather and a Template",
+    "seo_description": "Weekly notes: horrible hot weather, a tip to open the attic hatch to cool a hot landing, and a new template repo I have built this week."
+  },
+  "_posts/2026/2026-06-29-call-it-fuckity-cockwomble.md": {
+    "seo_title": "Call It Whatever You Like - Naming ME/CFS",
+    "seo_description": "ME/CFS forums keep debating the illness's name. Call it whatever you like; a new name will not make me feel better or bring us closer to a cure."
+  },
+  "_posts/2026/2026-06-30-cf-worker-emailer-release-25cd74236bc8.md": {
+    "seo_title": "CF Worker Emailer Version 1.0.8 Released",
+    "seo_description": "Version 1.0.8 of CF Worker Emailer, my Cloudflare Worker that sends contact form emails from a static website, with release notes fixes."
+  },
+  "_posts/2026/2026-06-30-cf-worker-x-redirect-release-8241558b334c.md": {
+    "seo_title": "CF Worker X Redirect Version 1.0.7 Released",
+    "seo_description": "Version 1.0.7 of CF Worker X Redirect, my Cloudflare Worker for redirecting NetNewsWire video links, with a full changelog from version 1.0.6."
+  },
+  "_posts/2026/2026-06-30-cf-worker-x-redirect-release-84b7c1d3c853.md": {
+    "seo_title": "CF Worker X Redirect Version 1.0.8 Released",
+    "seo_description": "Version 1.0.8 of CF Worker X Redirect, my Cloudflare Worker for URL scheme video redirects from NetNewsWire, with fixed release notes."
+  },
+  "_posts/2026/2026-06-30-do-you-sleep-at-an-incline.md": {
+    "seo_title": "Do You Sleep at an Incline? - ME/CFS Reader Question",
+    "seo_description": "Answering a reader: yes, I have slept in a chair with a footstool for a year, as lying down causes gastro issues and severe leg pain on waking."
+  }
+}

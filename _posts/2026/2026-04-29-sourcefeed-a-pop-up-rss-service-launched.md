@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-29 13:08
 title: Sourcefeed - a pop-up RSS service launched
+seo_title: "Sourcefeed - Terry Godier Launches an RSS-Only Service"
+seo_description: "Linking Terry Godier's Sourcefeed, a pop-up RSS-only publishing service with no website, no inbox and no algorithm. Just subscribe to the feed."
 link: https://blog.terrygodier.com/2026/04/28/today-im-launching-sourcefeed-a.html
 cited: Terry Godier
 type: linked

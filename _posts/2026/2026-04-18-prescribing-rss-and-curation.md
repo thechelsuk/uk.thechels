@@ -2,10 +2,11 @@
 layout: post
 date: 2026-04-18 23:28
 title: Prescribing a course of RSS and Curation
+seo_title: "Prescribing a Course of RSS and Curation"
+seo_description: "Linking a post on RSS and curation as a cure for platforms, and my approach: 300 feeds in NetNewsWire, favourite what looks good, read later."
 type: linked
 cited: readbeanicecream
 link: https://readbeanicecream.surge.sh/2026/04/10/rss-gets-you-off-the-platform-curation-gets-you-off-the-drug/
-seo: ""
 ---
 
 I have around 300 feeds in total in my feed reader and I favourite anything I like the look of and want to revisit or read later. I then go to my favourites only view, in NetNewsWire, naturally. From there I read post by post top down an unfavourite when done, or process further if I want to link or quote it on my site. I guess this counts as curation.

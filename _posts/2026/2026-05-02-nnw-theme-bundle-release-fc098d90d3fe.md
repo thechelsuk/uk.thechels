@@ -2,6 +2,8 @@
 layout: post
 date: 2026-05-02 11:00
 title: NNW Theme Bundle Version v1.6.2
+seo_title: "NetNewsWire Theme Bundle v1.6.2 - New Retro Theme"
+seo_description: "NetNewsWire theme bundle 1.6.2 adds a dark, moody Retro theme, fixes guro and thechelsuk themes, and adds an embedded YouTube player."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/tag/v1.6.2

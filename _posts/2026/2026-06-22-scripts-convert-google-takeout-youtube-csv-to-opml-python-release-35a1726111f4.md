@@ -2,6 +2,8 @@
 layout: post
 date: 2026-06-22 21:27
 title: Scripts - Convert Google Takeout YouTube CSV to OPML (python) Version v1.0.0
+seo_title: "YouTube Takeout CSV to OPML Script v1.0.0 Released"
+seo_description: "First release of my Python script that converts YouTube subscription data from Google Takeout CSV into an OPML file for your feed reader."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/script_convert_youtube_takeout_to_opml.py/releases/tag/v1.0.0

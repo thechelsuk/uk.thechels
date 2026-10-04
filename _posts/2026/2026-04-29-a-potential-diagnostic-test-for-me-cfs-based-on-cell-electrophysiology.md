@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-29 08:59
 title: A potential diagnostic test for ME/CFS based on cell electrophysiology
+seo_title: "A Potential Blood Cell Diagnostic Test for ME/CFS"
+seo_description: "Linking the ME Association on research suggesting the electrical properties of white blood cells could become a low-cost diagnostic test for ME/CFS."
 link: https://meassociation.org.uk/2026/04/meruk-breakthrough-magazine-a-potential-diagnostic-test-for-me-cfs-based-on-cell-electrophysiology/
 cited: ME Association
 type: linked

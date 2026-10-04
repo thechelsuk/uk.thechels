@@ -2,6 +2,8 @@
 layout: post
 date: 2026-06-30 03:35
 title: CF Worker X Redirect Version v1.0.8
+seo_title: "CF Worker X Redirect Version 1.0.8 Released"
+seo_description: "Version 1.0.8 of CF Worker X Redirect, my Cloudflare Worker for URL scheme video redirects from NetNewsWire, with fixed release notes."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/cf-worker-x-redirect/releases/tag/v1.0.8

@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-06-26 01:20
 title: YouTube continues to ruin its app/player to make it even more like TikTok
+seo_title: "YouTube Keeps Making Its App More Like TikTok"
+seo_description: "Linking The Verge on YouTube's Shorts-style player changes. I can barely use the app, with daily AI slop community posts I cannot block or hide."
 link: https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok
 cited: The Verge
 type: linked

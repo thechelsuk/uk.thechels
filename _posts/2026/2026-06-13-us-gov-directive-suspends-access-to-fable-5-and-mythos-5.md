@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-06-13 04:08
 title: US Gov directive suspends access to Fable 5 and Mythos 5
+seo_title: "US Directive Suspends Foreign Access to Fable 5"
+seo_description: "Linking Anthropic: a US export control directive suspends all access to Fable 5 and Mythos 5 by foreign nationals, inside or outside the US."
 link: https://www.anthropic.com/news/fable-mythos-access
 cited: Anthropic
 type: linked

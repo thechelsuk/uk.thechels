@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-06-16 14:40
 title: How to Find Stale Feeds with the Dinosaurs Window
+seo_title: "Find Stale Feeds With NetNewsWire's Dinosaurs Window"
+seo_description: "Linking NetNewsWire's Dinosaurs window for finding stale feeds. I had mimicked it with an OPML export and Python script; in-app is much nicer."
 link: https://netnewswire.com/help/dinosaurs.html
 cited: NewNewsWire
 type: linked

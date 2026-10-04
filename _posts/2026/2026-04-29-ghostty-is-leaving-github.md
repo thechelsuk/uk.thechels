@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-29 09:07
 title: Ghostty Is Leaving GitHub
+seo_title: "Ghostty Is Leaving GitHub - Mitchell Hashimoto"
+seo_description: "Linking Mitchell Hashimoto on moving the Ghostty terminal off GitHub, a decision that makes him irrationally sad given what GitHub meant to him."
 link: https://mitchellh.com/writing/ghostty-leaving-github
 cited: Mitchell Hashimoto
 type: linked

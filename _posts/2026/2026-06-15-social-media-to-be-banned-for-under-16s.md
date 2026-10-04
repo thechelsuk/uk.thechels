@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-06-15 12:10
 title: Social media to be banned for under-16s
+seo_title: "UK to Ban Social Media for Under-16s"
+seo_description: "Linking GOV.UK on banning social media for under-16s, and what it means for disabled children at home who rely on online support communities."
 link: https://www.gov.uk/government/news/social-media-to-be-banned-for-under-16s-in-landmark-government-move-to-givekids-their-childhood-back
 cited: Gov.uk
 type: linked

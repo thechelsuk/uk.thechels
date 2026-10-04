@@ -2,6 +2,8 @@
 layout: post
 date: "2026-04-18"
 title: Boinc @ thechelsuk Version 1.0.0
+seo_title: "BOINC @ thechelsuk Version 1.0.0 Release Notes"
+seo_description: "Release notes for version 1.0.0 of the BOINC @ thechelsuk team page, with wording updates and Dependabot bumps to its GitHub Actions."
 type: release
 link: https://github.com/thechelsuk/uk.thechels.boinc/releases/tag/1.0.0
 release_id: tag:github.com,2008:Repository/136165675/1.0.0

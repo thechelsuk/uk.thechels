@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-05-08 18:00
 title: GitHub Repo Stats
+seo_title: "GitHub Repo Stats - What Do Commit Counts Mean?"
+seo_description: "Linking Simon Willison's GitHub repo stats tool, and asking whether 5,500 commits on this site is good or bad, given how many were trial and error."
 link: https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything
 cited: Simon Willison
 type: linked

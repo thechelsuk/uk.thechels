@@ -2,6 +2,8 @@
 layout: post
 date: 2026-05-16 14:59
 title: Cheltenham Open Data Version newsletter-25965335933
+seo_title: "Cheltenham Open Data Newsletter Release, May 2026"
+seo_description: "An automated newsletter release of Cheltenham Open Data from May 2026, my project republishing local public data. No release notes included."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.cod/releases/tag/newsletter-25965335933

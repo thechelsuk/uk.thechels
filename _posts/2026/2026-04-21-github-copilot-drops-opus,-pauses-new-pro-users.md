@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-21 11:03
 title: GitHub Copilot drops opus, pauses new pro users
+seo_title: "GitHub Copilot Drops Opus and Pauses New Pro Users"
+seo_description: "Linking GitHub's changes to Copilot individual plans: Opus removed and new Pro sign-ups paused. Usage limit alerts in chat are also horrible."
 link: https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/
 type: linked
 cited: GitHub

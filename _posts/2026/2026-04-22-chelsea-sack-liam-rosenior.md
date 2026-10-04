@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-22 19:54
 title: Chelsea sack Liam Rosenior
+seo_title: "Chelsea Sack Liam Rosenior After Five League Defeats"
+seo_description: "Linking We Ain't Got No History: Chelsea sack Liam Rosenior amid a historically bad run. No surprise. My ratings for manager, players and owners."
 link: https://weaintgotnohistory.sbnation.com/chelsea-fc-news/168011/official-chelsea-sack-liam-rosenior
 cited: "We Ain't Got No History"
 type: linked

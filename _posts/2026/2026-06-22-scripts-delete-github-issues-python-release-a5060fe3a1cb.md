@@ -2,6 +2,8 @@
 layout: post
 date: 2026-06-22 14:32
 title: Scripts - Delete GitHub Issues (python) Version 1.0.1
+seo_title: "Delete GitHub Issues Python Script v1.0.1 Released"
+seo_description: "Version 1.0.1 of my Python script that uses the GitHub API to delete closed GitHub issues in bulk, with updated release notes and description."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/script_delete_github_issues.py/releases/tag/1.0.1

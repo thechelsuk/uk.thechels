@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-29 15:06
 title: Zwift acquires Rouvy
+seo_title: "Zwift Acquires ROUVY, the Real Routes Cycling App"
+seo_description: "Linking Zwift's acquisition of ROUVY, the real routes indoor cycling app. I miss being able to ride but I am still keen to follow what Zwift does."
 link: https://news.zwift.com/en-WW/264934-zwift-accelerates-mission-to-make-more-people-more-active-more-often-with-the-acquisition-of-rouvy/
 cited: Zwift
 type: linked

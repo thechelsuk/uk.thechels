@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to use ways
-seo: Ways - A guide to using ways
+seo_title: "How to Use Ways - A Guide to How-To Pages"
+seo_description: "What ways are: a slash page format for documenting processes and procedures that is easy to follow, with links to official manuals where possible."
 date: 2026-04-10
 type: ways
 pinned: true

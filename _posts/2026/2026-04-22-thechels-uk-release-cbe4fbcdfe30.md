@@ -2,6 +2,8 @@
 layout: post
 date: "2026-04-22"
 title: Thechels.uk Version 2.0.0
+seo_title: "thechels.uk Version 2.0.0 - Post Types, Feeds and POSSE"
+seo_description: "Release notes for thechels.uk 2.0.0, a major version after a large refactor of post types and feeds, and a move to POSSE over PESOS."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels/releases/tag/2.0.0

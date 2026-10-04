@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to use Ollama from the terminal
-seo: Ways - How to use Ollama from the terminal
+seo_title: "How to Use Ollama From the Terminal - Quick Reference"
+seo_description: "A short cheat sheet for running local LLMs with Ollama in the terminal, using the Qwen 3.5 4B model as an example: pull, run, list and remove."
 
 date: 2026-04-01
 type: ways

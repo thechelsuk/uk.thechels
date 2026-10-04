@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-05-08 21:50
 title: Get £50 when you join Octopus Energy
+seo_title: "Get £50 Credit When You Join Octopus Energy"
+seo_description: "Use my referral link to switch to Octopus Energy and we both get £50 credit. Octopus consistently ranks at or near the top for UK satisfaction."
 type: gift
 ---
 

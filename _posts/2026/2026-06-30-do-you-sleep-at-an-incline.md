@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-06-30 00:31
 title: Do you sleep at an incline
+seo_title: "Do You Sleep at an Incline? - ME/CFS Reader Question"
+seo_description: "Answering a reader: yes, I have slept in a chair with a footstool for a year, as lying down causes gastro issues and severe leg pain on waking."
 type: mailbox
 tags:
   - me

@@ -2,6 +2,8 @@
 layout: post
 date: 2026-05-09 15:00
 title: NNW Theme Bundle Version v1.8.1
+seo_title: "NetNewsWire Theme Bundle v1.8.1 - New Fresh Theme"
+seo_description: "NetNewsWire theme bundle 1.8.1 adds a Fresh theme, YouTube embeds and extension.app links for all themes, plus a link finder for articles."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/tag/v1.8.1

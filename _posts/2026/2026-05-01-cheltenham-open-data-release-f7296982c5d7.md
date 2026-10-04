@@ -2,6 +2,8 @@
 layout: post
 date: "2026-05-01"
 title: Cheltenham Open Data Version 1.1.0
+seo_title: "Cheltenham Open Data Version 1.1.0 Release Notes"
+seo_description: "Release notes for Cheltenham Open Data 1.1.0, with a lychee link checker bump and missing community health files added to the repository."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.cod/releases/tag/1.1.0

@@ -3,6 +3,8 @@ layout: post
 date: 2026-06-26 15:00
 type: blog
 title: The Privacy Observation Window
+seo_title: "The Privacy Observation Window for UK Citizens"
+seo_description: "The privacy observation window: the surveillance UK citizens have accepted from government and business, what is being normalised and what is not."
 syndicate: true
 ---
 

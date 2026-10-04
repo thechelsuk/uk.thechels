@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to manage website projects and releases
-seo: Ways - how to manage website projects and releases
+seo_title: "How to Manage Website Projects and Releases"
+seo_description: "How projects and releases are managed on thechels.uk: add a release feed to releases.yml and a GitHub Action creates posts for new releases."
 date: 2026-06-22 23:00
 syndicate: true
 type: ways

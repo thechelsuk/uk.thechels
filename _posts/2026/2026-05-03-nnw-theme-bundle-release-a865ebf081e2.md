@@ -2,6 +2,8 @@
 layout: post
 date: 2026-05-03 09:31
 title: NNW Theme Bundle Version v1.7.2
+seo_title: "NetNewsWire Theme Bundle v1.7.2 Release"
+seo_description: "NetNewsWire theme bundle 1.7.2 with download links for each theme, including guro, retro and thechelsuk, to install in the RSS reader."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/tag/v1.7.2

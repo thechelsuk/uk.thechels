@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-21 01:05
 title: I’m bringing everything back to my website - ROOTs
+seo_title: "ROOTS - Bringing Everything Back to My Website"
+seo_description: "Linking Lisa Charlotte Muth on ROOTS, return old online things to your site, a first step towards POSSE. This is the way; love the new term."
 link: https://lisacharlottemuth.com/bringing-everything-back-to-my-website
 type: linked
 cited: Lisa Charlotte Muth

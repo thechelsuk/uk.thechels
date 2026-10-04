@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-22
 title: Monthly Mixtape - Apr 2026
+seo_title: "Monthly Mixtape April 2026 - Manic Street Preachers"
+seo_description: "My April 2026 mixtape of songs on repeat, including If You Tolerate This Your Children Will Be Next by Manic Street Preachers and Dead Dads Club."
 type: mixtape
 ---
 

@@ -2,6 +2,8 @@
 layout: post
 date: 2026-06-09 17:45
 title: NNW Theme Bundle Version v2.0.0
+seo_title: "NetNewsWire Theme Bundle v2.0.0 Release"
+seo_description: "NetNewsWire theme bundle 2.0.0: one shared template script with pre-commit automation, academic-style links, bug fixes and updated test files."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/tag/v2.0.0

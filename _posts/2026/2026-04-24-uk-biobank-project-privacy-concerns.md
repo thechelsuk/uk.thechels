@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-24 03:02
 title: UK Biobank project privacy concerns
+seo_title: "UK Biobank Project and Its Privacy Concerns"
+seo_description: "Linking The Guardian on UK Biobank data found for sale online. Many people with ME may be in this dataset after recent research. As if we do not suffer enough."
 link: https://www.theguardian.com/world/2026/apr/23/what-is-uk-biobank-project-what-are-privacy-concerns
 cited: The Guardian
 type: linked

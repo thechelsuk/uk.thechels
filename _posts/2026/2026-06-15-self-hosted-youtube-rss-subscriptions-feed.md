@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-06-14 21:29
 title: Self-Hosted YouTube RSS Subscriptions Feed
+seo_title: "A Self-Hosted YouTube Subscriptions RSS Feed"
+seo_description: "Linking Philipp Dubach on building his own YouTube subscriptions feed after degoogling. An elegant alternative to my NetNewsWire theme approach."
 link: https://philippdubach.com/posts/degoogling-cost-me-my-youtube-feed-so-i-made-my-own/
 cited: Philip P Dubach
 type: linked

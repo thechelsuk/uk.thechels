@@ -2,6 +2,8 @@
 layout: post
 date: 2026-06-30 03:35
 title: CF Worker Emailer Version v1.0.8
+seo_title: "CF Worker Emailer Version 1.0.8 Released"
+seo_description: "Version 1.0.8 of CF Worker Emailer, my Cloudflare Worker that sends contact form emails from a static website, with release notes fixes."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/cf-worker-emailer/releases/tag/v1.0.8

@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-06-05 09:52
 title: Microsoft Wanted to Make Addictive AI
+seo_title: "Microsoft Wanted to Make Addictive AI - 404 Media"
+seo_description: "Linking 404 Media on Microsoft wanting addictive AI. The enshittification playbook: subsidise to ubiquity, then raise prices once people depend on it."
 link: https://www.404media.co/satya-nadella-not-sure-who-said-microsoft-wanted-to-make-addictive-ai-is-looking-for-guy-who-did-this/
 cited: 404 Media
 type: linked

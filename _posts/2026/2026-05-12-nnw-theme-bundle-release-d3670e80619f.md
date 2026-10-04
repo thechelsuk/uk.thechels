@@ -2,6 +2,8 @@
 layout: post
 date: 2026-05-12 19:13
 title: NNW Theme Bundle Version v1.8.2
+seo_title: "NetNewsWire Theme Bundle v1.8.2 Release"
+seo_description: "NetNewsWire theme bundle 1.8.2 with download links for each theme, including Fresh and Guro, ready to install in the RSS reader on Mac and iOS."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/tag/v1.8.2

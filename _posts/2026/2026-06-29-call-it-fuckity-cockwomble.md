@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-06-29 17:55
 title: Call it Fuckity Cockwomble
+seo_title: "Call It Whatever You Like - Naming ME/CFS"
+seo_description: "ME/CFS forums keep debating the illness's name. Call it whatever you like; a new name will not make me feel better or bring us closer to a cure."
 type: blog
 tags:
   - me

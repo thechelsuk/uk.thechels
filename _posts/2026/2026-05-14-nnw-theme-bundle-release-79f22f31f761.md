@@ -2,6 +2,8 @@
 layout: post
 date: 2026-05-14 02:12
 title: NNW Theme Bundle Version v1.9.2
+seo_title: "NetNewsWire Theme Bundle v1.9.2 - New Magda Theme"
+seo_description: "NetNewsWire theme bundle 1.9.2 adds Magda, a dark-mode-only, content-first theme, alongside Fresh, Guro and others ready to download."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/tag/v1.9.2

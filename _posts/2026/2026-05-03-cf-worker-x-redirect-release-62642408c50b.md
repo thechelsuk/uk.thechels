@@ -2,6 +2,8 @@
 layout: post
 date: 2026-05-03 09:52
 title: CF Worker X Redirect Version v1.0.1
+seo_title: "CF Worker X Redirect Version 1.0.1 Released"
+seo_description: "Version 1.0.1 of CF Worker X Redirect, my Cloudflare Worker that redirects video links from NetNewsWire themes to a PiP-capable iOS player."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/cf-worker-x-redirect/releases/tag/v1.0.1

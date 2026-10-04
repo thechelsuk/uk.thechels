@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-29 15:07
 title: An update on GitHub availability
+seo_title: "An Update on GitHub Availability After Outages"
+seo_description: "Linking GitHub's update after a terrible week of incidents, and two thoughts: avoid pull requests outside open source, and GitHub must do better."
 link: https://github.blog/news-insights/company-news/an-update-on-github-availability/#h-recent-incidents
 cited: GitHub
 type: linked

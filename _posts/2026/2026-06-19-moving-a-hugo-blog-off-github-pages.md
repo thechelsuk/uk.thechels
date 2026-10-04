@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-06-19 01:49
 title: Moving a Hugo Blog Off GitHub Pages
+seo_title: "Moving a Hugo Blog Off GitHub Pages to Europe"
+seo_description: "Linking Philipp Dubach on moving his Hugo blog off GitHub Pages. A move away from GitHub feels like it is coming for me too, energy permitting."
 link: https://philippdubach.com/posts/moving-the-blog-stack-to-europe-kind-of/
 cited: Philip P Dubach
 type: linked

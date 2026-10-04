@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-28 09:45
 title: GitHub Copilot is moving to usage-based billing
+seo_title: "GitHub Copilot Moves to Usage-Based Billing"
+seo_description: "Linking GitHub: Copilot plans swap premium requests for a monthly allotment of AI credits, with extra usage to buy. Not sure it helps retention."
 link: https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/
 cited: GitHub
 type: linked
