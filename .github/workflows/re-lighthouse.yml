@@ -33,8 +33,9 @@ jobs:
                   bundle exec jekyll build --trace --config _config.yml,/tmp/lighthouse_config.yml
 
             - name: Start local static server
+              # gzip responses as GitHub Pages does, so scores match production
               run: |
-                  python -m http.server 8080 --directory _site > /tmp/http-server.log 2>&1 &
+                  python .github/scripts/serve-gzip.py _site 8080 > /tmp/http-server.log 2>&1 &
                   for i in $(seq 1 30); do
                     curl -sf http://127.0.0.1:8080/ > /dev/null && exit 0
                     sleep 1
