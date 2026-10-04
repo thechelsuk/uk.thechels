@@ -3,6 +3,8 @@ layout: post
 date: 2022-04-23
 link: https://aaronrandall.com/blog/a-personal-growth-framework/
 title: "A Personal Growth Framework"
+seo_title: "A Personal Growth Framework for Career Development"
+seo_description: "Linking Aaron Randall's personal growth framework: a simple one-page template to identify where to grow and own your professional development."
 type: linked
 cited: Aaron Randall
 ---

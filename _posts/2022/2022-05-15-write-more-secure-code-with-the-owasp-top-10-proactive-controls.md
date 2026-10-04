@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-15
 link: https://github.blog/2021-12-06-write-more-secure-code-owasp-top-10-proactive-controls/
 title: Write more secure code with the OWASP Top 10 Proactive Controls
+seo_title: "Write Secure Code With OWASP Top 10 Proactive Controls"
+seo_description: "Linking GitHub on the OWASP Top 10 Proactive Controls: defensive programming habits that reduce the odds of introducing or exposing vulnerabilities."
 type: linked
 cited: GitHub
 ---

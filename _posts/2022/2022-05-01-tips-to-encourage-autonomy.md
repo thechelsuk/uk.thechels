@@ -2,6 +2,8 @@
 layout: post
 date: 2022-05-01
 title: Tips To Encourage Autonomy in Children
+seo_title: "Tips to Encourage Autonomy in Children"
+seo_description: "Parenting tips to encourage autonomy in children: let them make choices, respect their struggles, avoid too many questions and do not rush to answer."
 
 type: blog
 ---

@@ -2,6 +2,8 @@
 layout: post
 date: 2022-05-27
 title: Handling Defects
+seo_title: "Handling Defects - Fix Them Now, Do Not Triage"
+seo_description: "Why software defects should be fixed as soon as possible instead of triaged, classified and stored in a backlog, taking a lesson from Toyota."
 
 type: blog
 ---

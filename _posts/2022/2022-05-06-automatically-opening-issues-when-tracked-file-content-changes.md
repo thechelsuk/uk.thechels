@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-06
 link: https://simonwillison.net/2022/Apr/28/issue-on-changes/
 title: Automatically opening issues when tracked file content changes
+seo_title: "Open GitHub Issues When a Tracked File Changes"
+seo_description: "Linking Simon Willison on using Git scraping and GitHub Actions to open an issue automatically whenever the content of a tracked file changes."
 type: linked
 cited: Simon Willison
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2022-04-24
 link: https://github.blog/2022-04-20-organization-profiles-leading-the-way
 title: "Organisation profiles leading the way"
+seo_title: "GitHub Organisation Profiles With Members-Only READMEs"
+seo_description: "GitHub organisation profiles can now show a members-only README from a private .github-private repository, alongside the public Overview page."
 type: linked
 cited: GitHub
 ---

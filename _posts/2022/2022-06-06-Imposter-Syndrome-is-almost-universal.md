@@ -1,5 +1,7 @@
 ---
 title: Imposter Syndrome is almost universal
+seo_title: "Imposter Syndrome Is Almost Universal in Engineering"
+seo_description: "Almost everyone I work with in engineering experiences imposter syndrome, the persistent fear of being exposed as a fraud. My thoughts on living with it."
 layout: post
 date: 2022-06-06
 

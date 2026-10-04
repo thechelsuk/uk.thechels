@@ -3,6 +3,8 @@ layout: post
 date: 2022-09-17
 link: https://jvns.ca/blog/2022/09/12/why-do-domain-names-end-with-a-dot-/
 title: Why do domain names sometimes end with a dot?
+seo_title: "Why Do Domain Names Sometimes End With a Dot?"
+seo_description: "Linking Julia Evans on why domain names in DNS zone files and dig output end with a trailing dot, marking them as fully qualified, not relative."
 type: linked
 cited: Julia Evans
 ---

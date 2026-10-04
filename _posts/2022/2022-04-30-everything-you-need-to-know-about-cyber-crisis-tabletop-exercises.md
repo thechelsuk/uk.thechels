@@ -3,6 +3,8 @@ layout: post
 date: 2022-04-30
 link: https://www.tripwire.com/state-of-security/security-data-protection/everything-you-need-to-know-about-cyber-crisis-tabletop-exercises/
 title: Everything You Need to Know about Cyber Crisis Tabletop Exercises
+seo_title: "Cyber Crisis Tabletop Exercises - What You Need to Know"
+seo_description: "Linking Tripwire on cyber crisis tabletop exercises, which test whether your incident response plan works by rehearsing realistic attack scenarios."
 type: linked
 cited: Tripwire
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2022-04-30
 link: https://blog.jacobsdata.com/2020/02/03/monoliths-microservices-and-multitenancy
 title: Monoliths, Microservices and Multitenancy - Software Alchemy
+seo_title: "Monoliths, Microservices and Multitenancy Explained"
+seo_description: "Linking Software Alchemy on high-level software architecture concepts: when to choose a monolith or microservices, and how multitenancy fits in."
 type: linked
 cited: Jacob Kaplan-Moss
 ---

@@ -2,6 +2,8 @@
 layout: post
 date: 2022-04-24
 title: Why checking an AC isn’t enough
+seo_title: "Why Checking Acceptance Criteria Is Not Enough"
+seo_description: "Linking QA Callum Akehurst-Ryan on why testing only the acceptance criteria misses the many implicit requirements a user story also carries."
 link: https://callumakehurstryansblog.wordpress.com/2021/08/25/why-checking-an-ac-isnt-enough/
 type: linked
 cited: Callum Akehurst-Ryan

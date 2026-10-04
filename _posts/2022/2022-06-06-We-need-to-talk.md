@@ -1,5 +1,7 @@
 ---
 title: We need to talk
+seo_title: "We Need to Talk - Privilege and Diversity in Tech"
+seo_description: "Reflections from a privileged, middle-aged white British man after 15 years in tech: things are improving, but we still need to talk about diversity."
 layout: post
 date: 2022-06-06
 type: blog

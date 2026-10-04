@@ -3,6 +3,8 @@ layout: post
 date: 2022-07-24
 link: https://cate.blog/2022/07/11/book-thinking-in-bets/amp/
 title: Thinking in Bets
+seo_title: "Thinking in Bets - Book Notes by Cate Huston"
+seo_description: "Linking Cate Huston's notes on Thinking in Bets by Annie Duke: using poker to separate luck from skill and learn from decisions, not outcomes."
 type: linked
 cited: Cate Huston (Accidentally in Code)
 ---

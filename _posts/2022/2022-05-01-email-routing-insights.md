@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-01
 link: https://blog.cloudflare.com/email-routing-insights/
 title: Email Routing Insights
+seo_title: "Cloudflare Email Routing Insights and Activity Log"
+seo_description: "Cloudflare adds an activity log to Email Routing, showing what happened to messages sent to your custom addresses. More features on the free tier."
 type: linked
 cited: Cloudflare
 ---

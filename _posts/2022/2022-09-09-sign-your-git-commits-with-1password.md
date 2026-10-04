@@ -3,6 +3,8 @@ layout: post
 date: 2022-09-09
 link: https://blog.1password.com/git-commit-signing/
 title: Sign your Git commits with 1Password
+seo_title: "Sign Your Git Commits With SSH Keys in 1Password"
+seo_description: "1Password now lets developers sign Git commits with SSH keys, creating new keys in the desktop app or straight into GitHub in the browser."
 type: linked
 cited: 1Password
 ---

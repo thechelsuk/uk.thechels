@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-02
 link: https://blog.gitscrum.com/devops-culture-creating-better-performance/
 title: DevOps Culture - Creating Better Performance
+seo_title: "DevOps Culture - Creating Better Team Performance"
+seo_description: "Linking GitScrum on DevOps culture: how DevOps principles align teams on processes, tools and responsibilities, rather than tool-only adoption."
 type: linked
 cited: GitScrum
 ---

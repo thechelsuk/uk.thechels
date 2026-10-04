@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-08
 link: https://cutlefish.substack.com/p/tbm-3952-monthly-strategy-prompt
 title: Monthly Strategy Prompt Exercise
+seo_title: "Monthly Strategy Prompt Exercise - John Cutler"
+seo_description: "Linking John Cutler's monthly strategy prompt, writing up hypotheses each month, and why I see value in making that kind of thinking company public."
 type: linked
 cited: John Cutlefish
 ---

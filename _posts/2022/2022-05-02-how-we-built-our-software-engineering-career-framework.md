@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-02
 link: https://about.sourcegraph.com/blog/software-engineer-career-ladder/
 title: How we built our software engineering career framework
+seo_title: "How Sourcegraph Built Its Engineering Career Framework"
+seo_description: "Linking Sourcegraph on building a software engineering career ladder, creating a shared language for growth to reduce misunderstanding and bias."
 type: linked
 cited: Sourcegraph
 ---

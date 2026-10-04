@@ -3,6 +3,8 @@ layout: post
 date: 2022-09-17
 link: https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/
 title: Some ways to get better at debugging
+seo_title: "Some Ways to Get Better at Debugging - Julia Evans"
+seo_description: "Linking Julia Evans on categorising debugging skills, from strategies like writing a unit test or tiny reproduction to comparing working versions."
 type: linked
 cited: Julia Evans
 ---

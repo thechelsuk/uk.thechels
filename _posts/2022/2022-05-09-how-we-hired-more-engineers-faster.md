@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-09
 link: https://circleci.com/blog/how-we-hired-more-engineers-faster/
 title: How we hired more engineers faster
+seo_title: "How CircleCI Hired More Engineers, Faster"
+seo_description: "Linking CircleCI on hiring engineers faster, using tell me about a time questions to find out whether candidates made good things happen."
 type: linked
 cited: CircleCI
 ---

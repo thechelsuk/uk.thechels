@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-02
 link: https://gizmodo.com/amazon-kindle-e-readers-will-now-convert-epub-to-kindle-1848867278?scrolla=5eb6d68b7fedc32c19ef33b4
 title: Amazon Kindle Will Now Convert EPUB to Kindle Format
+seo_title: "Amazon Kindle Will Now Convert EPUB Files"
+seo_description: "Finally: from late 2022 Kindle owners can email EPUB files or use Send to Kindle apps to read them, though the e-reader still cannot load EPUB natively."
 type: linked
 cited: Gizmodo
 ---

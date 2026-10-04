@@ -1,5 +1,7 @@
 ---
 title: One Thing Well - Curated Software and Tool Discovery
+seo_title: "One Thing Well Returns - Curated Apps and Tools"
+seo_description: "Glad to see One Thing Well back after a nearly two year break, sharing small, focused apps and tools that do one thing well. And yes, on Tumblr."
 layout: post
 date: 2022-12-06
 type: blog

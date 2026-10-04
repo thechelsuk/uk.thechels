@@ -1,0 +1,534 @@
+{
+  "_posts/2022/2022-01-03-vegan-cheesecake.md": {
+    "seo_title": "Vegan Chocolate Cheesecake Recipe With Stem Ginger",
+    "seo_description": "An easy vegan chocolate cheesecake with a crushed biscuit base, dairy-free chocolate, soya yoghurt and a hint of stem ginger. Dairy free and indulgent."
+  },
+  "_posts/2022/2022-01-28-new-year-new-career.md": {
+    "seo_title": "New Year, New Career - Tips for Tech Job Interviews",
+    "seo_description": "The new year is a good time to reflect on your career. Tips for preparing for tech job interviews, whether you want a new role or a career change."
+  },
+  "_posts/2022/2022-03-17-highway-maintenance.md": {
+    "seo_title": "Highway Maintenance - Engineering Teams as a Motorway",
+    "seo_description": "Running engineering teams like a motorway: an analogy from my time at Seccl, picturing engineers as cars and culture as the road everyone maintains."
+  },
+  "_posts/2022/2022-04-23-97-things-every-engineering-manager-should-know.md": {
+    "seo_title": "97 Things Every Engineering Manager Should Know",
+    "seo_description": "A quote from 97 Things Every Engineering Manager Should Know by Camille Fournier, on asking reports to track their work, timelines and impact."
+  },
+  "_posts/2022/2022-04-23-a-personal-growth-framework.md": {
+    "seo_title": "A Personal Growth Framework for Career Development",
+    "seo_description": "Linking Aaron Randall's personal growth framework: a simple one-page template to identify where to grow and own your professional development."
+  },
+  "_posts/2022/2022-04-23-accelerate-to-development.md": {
+    "seo_title": "Adapting Accelerate Metrics to Agile Development",
+    "seo_description": "Linking Allen Holub on applying the four key metrics from the DevOps book Accelerate to the agile software development side of the equation."
+  },
+  "_posts/2022/2022-04-24-dragon-age-induction-board.md": {
+    "seo_title": "Barnardo's Digital Team Induction Board on Trello",
+    "seo_description": "Linking the Dragon Age induction board, a Trello board used by Barnardo's digital team to structure onboarding for new starters. A useful template."
+  },
+  "_posts/2022/2022-04-24-finer-criteria-for-asking-good-questions.md": {
+    "seo_title": "FINER Criteria for Asking Good Research Questions",
+    "seo_description": "The FINER criteria for forming good questions: feasible, interesting, novel, ethical and relevant. A simple checklist from research, useful at work too."
+  },
+  "_posts/2022/2022-04-24-how-to-be-financially-stable-in-14-steps.md": {
+    "seo_title": "How to Be Financially Stable in 14 Steps",
+    "seo_description": "My 14 steps to financial stability, from investing in yourself and paying yourself first to building a surplus each month and planning for the future."
+  },
+  "_posts/2022/2022-04-24-organisation-profiles-leading-the-way.md": {
+    "seo_title": "GitHub Organisation Profiles With Members-Only READMEs",
+    "seo_description": "GitHub organisation profiles can now show a members-only README from a private .github-private repository, alongside the public Overview page."
+  },
+  "_posts/2022/2022-04-24-security-considerations-for-your-startup.md": {
+    "seo_title": "Security Considerations for Your Startup - 1Password",
+    "seo_description": "Linking 1Password on security for startups: almost half of small businesses reported breaches last year, and many affected businesses close within months."
+  },
+  "_posts/2022/2022-04-24-why-checking-an-ac-isn’t-enough.md": {
+    "seo_title": "Why Checking Acceptance Criteria Is Not Enough",
+    "seo_description": "Linking QA Callum Akehurst-Ryan on why testing only the acceptance criteria misses the many implicit requirements a user story also carries."
+  },
+  "_posts/2022/2022-04-25-running-my-business-from-an-ipad.md": {
+    "seo_title": "Running a Business From an iPad - Karl Hughes",
+    "seo_description": "Linking Karl Hughes on running his business from an iPad, and why I could get close as an engineering manager living in Teams, Slack and GitHub."
+  },
+  "_posts/2022/2022-04-25-tests-should-build-confidence.md": {
+    "seo_title": "Tests Should Build Confidence, Not Just Coverage",
+    "seo_description": "Linking an article arguing that bottom-up testing chasing high coverage misses the point: automated tests should build confidence to ship software."
+  },
+  "_posts/2022/2022-04-26-catchphrases-in-how-to-safely-think-in-systems.md": {
+    "seo_title": "The Power of Catchphrases in Systems Thinking",
+    "seo_description": "Why catchy names like Brexit means Brexit stick, via Will Larson on systems thinking and George Lakoff's book Don't Think of an Elephant."
+  },
+  "_posts/2022/2022-04-27-How-to-Handle-Confidence-and-Competence.md": {
+    "seo_title": "How to Lead Based on Confidence and Competence",
+    "seo_description": "A simple leadership model: let go of people who are confident and competent, coach the competent but unsure, and retrain or support everyone else."
+  },
+  "_posts/2022/2022-04-28-Story-sizes-in-agile-development-should-be-as-close-to-one-day-as-possible.md": {
+    "seo_title": "Why Agile Story Sizes Should Average One Day",
+    "seo_description": "Linking Paul Hammant's call for user stories averaging one day, and why I prefer half-day stories: discipline, refinement, think slow and code fast."
+  },
+  "_posts/2022/2022-04-28-a-brief-intro-to-clean-architecture,-clean-ddd,-and-cqrs-.md": {
+    "seo_title": "A Brief Intro to Clean Architecture, DDD and CQRS",
+    "seo_description": "Linking a primer on Clean Architecture for modern web apps, and how domain-driven design and CQRS fit together into a scalable software methodology."
+  },
+  "_posts/2022/2022-04-30-everything-you-need-to-know-about-cyber-crisis-tabletop-exercises.md": {
+    "seo_title": "Cyber Crisis Tabletop Exercises - What You Need to Know",
+    "seo_description": "Linking Tripwire on cyber crisis tabletop exercises, which test whether your incident response plan works by rehearsing realistic attack scenarios."
+  },
+  "_posts/2022/2022-04-30-five-methods-of-facilitation-for-collaborative-meetings.md": {
+    "seo_title": "Five Facilitation Methods for Collaborative Meetings",
+    "seo_description": "Linking Build the Stage on five facilitation methods for collaborative meetings, helping leaders run engaging discussions that people want to attend."
+  },
+  "_posts/2022/2022-04-30-good-news-iam-is-near-universal-with-saas.md": {
+    "seo_title": "IAM Is Near-Universal With SaaS - But Watch Shadow IT",
+    "seo_description": "Linking Dark Reading: identity and access management now covers most SaaS apps, but it only protects tools IT knows about, so shadow IT leaves gaps."
+  },
+  "_posts/2022/2022-04-30-migrating-oidc-client-js-to-use-the-openid-connect-authorization-code-flow-and-pkce.md": {
+    "seo_title": "Migrating oidc-client-js to Auth Code Flow With PKCE",
+    "seo_description": "Linking Scott Brady on moving single page apps away from the OAuth implicit flow to the authorization code flow with PKCE using oidc-client-js."
+  },
+  "_posts/2022/2022-04-30-monoliths,-microservices-and-multitenancy---software-alchemy.md": {
+    "seo_title": "Monoliths, Microservices and Multitenancy Explained",
+    "seo_description": "Linking Software Alchemy on high-level software architecture concepts: when to choose a monolith or microservices, and how multitenancy fits in."
+  },
+  "_posts/2022/2022-04-30-shift-left-security.md": {
+    "seo_title": "Shift Left Security - Building Defences in Early",
+    "seo_description": "Linking Dark Reading on shifting security left: plan and build layered defences early with policy as code and Terraform, when it is cheaper and easier."
+  },
+  "_posts/2022/2022-05-01-a-new-standard-of-testing-for-technology-in-government.md": {
+    "seo_title": "A New Standard of Testing for GOV.UK",
+    "seo_description": "Linking the GOV.UK technology blog on how it tests an ecosystem of 70 Ruby on Rails apps, from unit and integration tests to end-to-end testing."
+  },
+  "_posts/2022/2022-05-01-email-routing-insights.md": {
+    "seo_title": "Cloudflare Email Routing Insights and Activity Log",
+    "seo_description": "Cloudflare adds an activity log to Email Routing, showing what happened to messages sent to your custom addresses. More features on the free tier."
+  },
+  "_posts/2022/2022-05-01-here's-what-startup-leaders-need-to-know-about-okrs-|-sifted.md": {
+    "seo_title": "What Startup Leaders Need to Know About OKRs",
+    "seo_description": "Linking Sifted on OKRs for startups: ambitious yet realistic objectives tied to business value, with examples from N26 and Zalando."
+  },
+  "_posts/2022/2022-05-01-how-github-does-take-home-technical-interviews.md": {
+    "seo_title": "How GitHub Does Take-Home Technical Interviews",
+    "seo_description": "Linking GitHub's write-up of its take-home technical interview process for engineers, an approach worth sharing with other hiring managers."
+  },
+  "_posts/2022/2022-05-01-questions-for-the-team.md": {
+    "seo_title": "60 Questions a New Scrum Master Should Ask the Team",
+    "seo_description": "Linking Scrum.org's 60 questions for a new scrum master, covering the definition of done, technical excellence, product discovery and the backlog."
+  },
+  "_posts/2022/2022-05-01-runbooks-vs-playbooks-explaining-the-difference.md": {
+    "seo_title": "Runbooks vs Playbooks - Explaining the Difference",
+    "seo_description": "Linking Shoreline on runbooks versus playbooks: runbooks are tactical steps to complete a known task, while playbooks set out a broader strategy."
+  },
+  "_posts/2022/2022-05-01-setting-up-a-custom-domain-for-icloud-email---macstories.md": {
+    "seo_title": "Custom Domain iCloud Email - Why It Did Not Work for Me",
+    "seo_description": "Linking MacStories on custom domains for iCloud Mail, and why the three address limit rules it out for me with over 125 email addresses in use."
+  },
+  "_posts/2022/2022-05-01-the-guide-to-automating-runbook-execution.md": {
+    "seo_title": "The Guide to Automating Runbook Execution",
+    "seo_description": "Linking Shoreline on automating runbooks: writing them is the first step, but the real goal is running them automatically from alarms, hands-free."
+  },
+  "_posts/2022/2022-05-01-tips-to-encourage-autonomy.md": {
+    "seo_title": "Tips to Encourage Autonomy in Children",
+    "seo_description": "Parenting tips to encourage autonomy in children: let them make choices, respect their struggles, avoid too many questions and do not rush to answer."
+  },
+  "_posts/2022/2022-05-01-what-is-a-high-performing-agile-team?.md": {
+    "seo_title": "What Is a High-Performing Agile Team? - Mike Cohn",
+    "seo_description": "Linking Mike Cohn on high-performing agile teams: shared leadership, minimal process, trust, urgency, healthy conflict, morale and owning outcomes."
+  },
+  "_posts/2022/2022-05-02-20-questions-to-ask-an-entrepreneur-before-joining-their-startup.md": {
+    "seo_title": "20 Questions to Ask Before Joining a Startup",
+    "seo_description": "Linking Karl Hughes on 20 questions to ask a founder before joining their startup, where early employees juggle loosely defined roles."
+  },
+  "_posts/2022/2022-05-02-5-signs-it’s-time-to-quit-your-job.md": {
+    "seo_title": "5 Signs It Is Time to Quit Your Job - Cate Huston",
+    "seo_description": "Linking Cate Huston's five signs it is time to quit: you are not learning, only coping, conflicted about hiring, losing confidence or unwell."
+  },
+  "_posts/2022/2022-05-02-Laws-of-the-game.md": {
+    "seo_title": "Laws of the Game - Hofstadter, Parkinson and Conway",
+    "seo_description": "Three laws every software team should know: Hofstadter's law on estimates, Parkinson's law on work filling time, and Conway's law on system design."
+  },
+  "_posts/2022/2022-05-02-amazon-kindle-will-now-convert-epub-to-kindle-format.md": {
+    "seo_title": "Amazon Kindle Will Now Convert EPUB Files",
+    "seo_description": "Finally: from late 2022 Kindle owners can email EPUB files or use Send to Kindle apps to read them, though the e-reader still cannot load EPUB natively."
+  },
+  "_posts/2022/2022-05-02-becoming-a-senior-software-engineer.md": {
+    "seo_title": "Becoming a Senior Software Engineer - Four Paths",
+    "seo_description": "Linking Karl Hughes on the four paths engineers take to become senior, with the skills and benchmarks you might need to hit to get there yourself."
+  },
+  "_posts/2022/2022-05-02-being-a-tech-lead-in-an-empowered-product-team.md": {
+    "seo_title": "Being a Tech Lead in an Empowered Product Team",
+    "seo_description": "Linking an article on why a tech lead in an empowered product team is not purely technical, working with product and design on product decisions."
+  },
+  "_posts/2022/2022-05-02-charles'-rules-of-argument.md": {
+    "seo_title": "Charles' Rules of Argument - Why Opinions Rarely Change",
+    "seo_description": "Linking Charles Miller's rules of argument, starting with the simplest: you will never change anyone's mind on a matter of opinion, so choose wisely."
+  },
+  "_posts/2022/2022-05-02-cynefin-the-four-frameworks-of-portfolio-management.md": {
+    "seo_title": "Cynefin and the Four Frameworks of Portfolio Management",
+    "seo_description": "Linking IT Revolution on the Cynefin framework by Dave Snowden, which helps decision making in complex systems by placing problems into domains."
+  },
+  "_posts/2022/2022-05-02-devops-culture-creating-better-performance.md": {
+    "seo_title": "DevOps Culture - Creating Better Team Performance",
+    "seo_description": "Linking GitScrum on DevOps culture: how DevOps principles align teams on processes, tools and responsibilities, rather than tool-only adoption."
+  },
+  "_posts/2022/2022-05-02-factors-to-consider-when-architecting-systems-that-uses-third-party-systems.md": {
+    "seo_title": "Architecting Systems on Top of Third-Party Services",
+    "seo_description": "Linking Shekhar Gulati on factors for building on third-party systems: deployment model, NFRs and SLAs, API style, idempotency and documentation."
+  },
+  "_posts/2022/2022-05-02-from-individual-readmes-and-user-manuals-to-group-working-agreements.md": {
+    "seo_title": "From Manager READMEs to Team Working Agreements",
+    "seo_description": "Linking Org Hacking on moving from individual manager READMEs and user manuals towards group working agreements that the whole team owns."
+  },
+  "_posts/2022/2022-05-02-how-7-engineers-rethought-their-work-calendars.md": {
+    "seo_title": "How 7 Engineers Rethought Their Work Calendars",
+    "seo_description": "Linking Sourcegraph on how seven remote engineers redesigned their calendars from first principles, so their jobs work for them rather than against."
+  },
+  "_posts/2022/2022-05-02-how-to-freaking-find-great-developers-by-having-them-read-code.md": {
+    "seo_title": "Hire Great Developers by Having Them Read Code",
+    "seo_description": "Linking an article on hiring developers by asking candidates to read code, since raw coding ability is the most important quality and hardest to teach."
+  },
+  "_posts/2022/2022-05-02-how-to-use-okr-and-scrum-to-increase-results.md": {
+    "seo_title": "How to Use OKRs and Scrum Together for Better Results",
+    "seo_description": "Linking GitScrum on combining OKRs with scrum, using clear objectives and key results to guide iteration planning, deliveries and task definition."
+  },
+  "_posts/2022/2022-05-02-how-we-built-our-software-engineering-career-framework.md": {
+    "seo_title": "How Sourcegraph Built Its Engineering Career Framework",
+    "seo_description": "Linking Sourcegraph on building a software engineering career ladder, creating a shared language for growth to reduce misunderstanding and bias."
+  },
+  "_posts/2022/2022-05-02-label-persistent-test-data-with-deletion-dates.md": {
+    "seo_title": "Label Persistent Test Data With Deletion Dates",
+    "seo_description": "Linking Mark Seemann's tip for shared staging environments: label the test data your tests leave behind with a deletion date so it can be cleaned up."
+  },
+  "_posts/2022/2022-05-02-let’s-charm-our-teams-with-charisma-testing.md": {
+    "seo_title": "Charisma Testing - Finding What Is Good in a Product",
+    "seo_description": "Linking Callum Akehurst-Ryan on charisma testing: sessions that call out the good in a product and its it factor, rather than just hunting for bugs."
+  },
+  "_posts/2022/2022-05-02-lighthouse-meet-github-actions.md": {
+    "seo_title": "Run Lighthouse Audits in GitHub Actions",
+    "seo_description": "Linking Johnny Reilly on adding Lighthouse performance and usability audits to a GitHub Actions workflow, so every build is checked automatically."
+  },
+  "_posts/2022/2022-05-02-making-a-strong-case-for-accessibility.md": {
+    "seo_title": "Making a Strong Case for Accessibility on the Web",
+    "seo_description": "Linking Smashing Magazine on why accessibility should be built in and advocated for from the start of a web project, not bolted on at the end."
+  },
+  "_posts/2022/2022-05-02-managing-direct-reports-at-a-startup.md": {
+    "seo_title": "Managing Direct Reports at a Startup - Karl Hughes",
+    "seo_description": "Linking Karl Hughes on managing direct reports at a startup, where effective leadership improves productivity and morale but training is rare."
+  },
+  "_posts/2022/2022-05-02-okrs-and-devops-from-micromanagement-misery-to-finding-flow---it-revolution.md": {
+    "seo_title": "OKRs and DevOps - From Micromanagement to Flow",
+    "seo_description": "Linking IT Revolution on OKRs and DevOps: keep to around three to five OKRs and let them cascade across the organisation rather than micromanaging."
+  },
+  "_posts/2022/2022-05-02-step-up-authentication-with-oauth-and-openid.md": {
+    "seo_title": "Step-Up Authentication With OAuth and OpenID Connect",
+    "seo_description": "Linking Scott Brady on step-up authentication: what it is and how to use it statelessly in APIs with OAuth and in client apps with OpenID Connect."
+  },
+  "_posts/2022/2022-05-02-those-get-the-app-banners.md": {
+    "seo_title": "Those Get the App Banners - CSS-Tricks",
+    "seo_description": "Linking CSS-Tricks on annoying get the app banners, and why companies should not care whether you use the website or the app built on the same tech."
+  },
+  "_posts/2022/2022-05-03-Collection-of-Dan-North-Posts.md": {
+    "seo_title": "A Collection of Dan North Posts on BDD and Agile",
+    "seo_description": "A collection of favourite Dan North articles in one place, including BDD is like TDD if, the lady in the taxi parable of metrics and more."
+  },
+  "_posts/2022/2022-05-05-github-to-require-2fa-for-active-coders-by-late-2023.md": {
+    "seo_title": "GitHub to Require 2FA for Active Coders by End of 2023",
+    "seo_description": "Linking The Register: GitHub will require two-factor authentication by the end of 2023 for anyone who commits code, opens PRs, uses Actions or publishes."
+  },
+  "_posts/2022/2022-05-06-automatically-opening-issues-when-tracked-file-content-changes.md": {
+    "seo_title": "Open GitHub Issues When a Tracked File Changes",
+    "seo_description": "Linking Simon Willison on using Git scraping and GitHub Actions to open an issue automatically whenever the content of a tracked file changes."
+  },
+  "_posts/2022/2022-05-06-here's-how-to-make-dev-productivity-a-top-priority.md": {
+    "seo_title": "Making Developer Productivity a Priority - A Critique",
+    "seo_description": "My take on a Sifted article on developer productivity using velocity and burndowns: give teams scope, a north star and space to experiment instead."
+  },
+  "_posts/2022/2022-05-06-how-to-manage-existing-engineering-teams.md": {
+    "seo_title": "How to Manage an Existing Engineering Team",
+    "seo_description": "Linking Build the Stage on taking over an existing engineering team: accept they know more than you, and focus on guiding decisions, not coding."
+  },
+  "_posts/2022/2022-05-06-the-not-doing-list.md": {
+    "seo_title": "The Not Doing List - Cate Huston on Priorities",
+    "seo_description": "Linking Cate Huston's not doing list, and my reflection that not doing something is a priority call rather than a lack of time. Inspect and adapt."
+  },
+  "_posts/2022/2022-05-06-wildcard-proxy-for-everyone.md": {
+    "seo_title": "Cloudflare Wildcard DNS Proxy Now Free for Everyone",
+    "seo_description": "Cloudflare now lets free and pay-as-you-go plans proxy wildcard DNS records, a feature that was previously only available to Enterprise customers."
+  },
+  "_posts/2022/2022-05-07-2021-report-state-of-developer-relations.md": {
+    "seo_title": "State of Developer Relations Report 2021",
+    "seo_description": "Linking the 2021 State of Developer Relations report from DevRelBook, a benchmark for DevRel practitioners to compare activities and insights."
+  },
+  "_posts/2022/2022-05-07-a-framework-for-developer-relations.md": {
+    "seo_title": "A Framework for Developer Relations (DevRel)",
+    "seo_description": "Linking DevRelBook's framework for developer relations, setting out the core components of a developer program for engaging developers as users."
+  },
+  "_posts/2022/2022-05-07-exit-interviews-are-a-trap.md": {
+    "seo_title": "Exit Interviews Are a Trap - Jacob Kaplan-Moss",
+    "seo_description": "Linking Jacob Kaplan-Moss on why exit interviews are a trap for leavers: sharing criticism on the way out rarely helps and can come back to bite you."
+  },
+  "_posts/2022/2022-05-07-okr-leadership---stop-telling-people-what-to-do.md": {
+    "seo_title": "OKR Leadership - Stop Telling People What to Do",
+    "seo_description": "Linking Jeff Gothelf on OKR leadership: key results must be outcomes, leaders approve them, and teams, not leaders, decide on the solutions."
+  },
+  "_posts/2022/2022-05-07-personal-development-plans.md": {
+    "seo_title": "Personal Development Plans Beyond Box-Ticking",
+    "seo_description": "Linking John Durrant on personal development plans: move past SMART goal box-ticking and think about what genuinely motivates people to grow."
+  },
+  "_posts/2022/2022-05-07-preventing-burnout---a-manager's-toolkit.md": {
+    "seo_title": "Preventing Burnout - A Manager's Toolkit From GitLab",
+    "seo_description": "Linking GitLab's 12 strategies for managers to prevent burnout in remote teams, including the rarely used idea of agreeing to reduce hours worked."
+  },
+  "_posts/2022/2022-05-07-psychological-safety.md": {
+    "seo_title": "Psychological Safety - The Top Factor in Team Success",
+    "seo_description": "Linking John Durrant on psychological safety, which Google found was the number one factor in team effectiveness: feeling safe to take risks."
+  },
+  "_posts/2022/2022-05-07-refactoring-strategy,-regression-testing-and-maintenance.md": {
+    "seo_title": "CSS Refactoring Strategy, Regression Testing and Upkeep",
+    "seo_description": "Linking Smashing Magazine on refactoring CSS: a strategy, regression testing and transparent communication, since refactors show few visible changes."
+  },
+  "_posts/2022/2022-05-07-the-anatomy-of-a-one-to-one.md": {
+    "seo_title": "The Anatomy of a One-to-One - Cate Huston",
+    "seo_description": "Linking Cate Huston on how to structure one-to-ones, including time for information and context with new hires or people taking on new responsibility."
+  },
+  "_posts/2022/2022-05-07-the-technium-103-bits-of-advice-i-wish-i-had-known.md": {
+    "seo_title": "Kevin Kelly's 103 Bits of Advice I Wish I Had Known",
+    "seo_description": "Linking Kevin Kelly's 103 bits of advice, including a favourite: speak confidently as if you are right, but listen carefully as if you are wrong."
+  },
+  "_posts/2022/2022-05-07-your-last-one-on-one-what-to-do-instead-of-an-exit-interview.md": {
+    "seo_title": "Your Last One-on-One - Instead of an Exit Interview",
+    "seo_description": "Linking Jacob Kaplan-Moss: replace exit interviews with a final one-on-one, which works if you have made it safe to raise problems all along."
+  },
+  "_posts/2022/2022-05-08-how-to-safely-think-in-systems.md": {
+    "seo_title": "How to Safely Think in Systems - Will Larson",
+    "seo_description": "Linking Will Larson on safely applying systems thinking from Donella Meadows' Thinking in Systems, starting with a model and validating it carefully."
+  },
+  "_posts/2022/2022-05-08-measures-of-engineering-impact.md": {
+    "seo_title": "Measures of Engineering Impact - Will Larson",
+    "seo_description": "Linking Will Larson on measuring engineering impact, and why Accelerate's productivity metrics optimise process but do not grade business impact."
+  },
+  "_posts/2022/2022-05-08-monthly-strategy-prompt-exercise.md": {
+    "seo_title": "Monthly Strategy Prompt Exercise - John Cutler",
+    "seo_description": "Linking John Cutler's monthly strategy prompt, writing up hypotheses each month, and why I see value in making that kind of thinking company public."
+  },
+  "_posts/2022/2022-05-08-service-cookbooks.md": {
+    "seo_title": "Service Cookbooks - Templated Requests for Teams",
+    "seo_description": "Linking Will Larson on service cookbooks, and how I set up Jira issue types as templated requests in under five minutes, easy to iterate upon."
+  },
+  "_posts/2022/2022-05-08-should-you-prioritize-infrastructure-costs.md": {
+    "seo_title": "Should You Prioritise Infrastructure Costs?",
+    "seo_description": "Linking Will Larson on whether cutting infrastructure spend is a good use of time, depending on whether your company is early-stage or established."
+  },
+  "_posts/2022/2022-05-09-how-we-hired-more-engineers-faster.md": {
+    "seo_title": "How CircleCI Hired More Engineers, Faster",
+    "seo_description": "Linking CircleCI on hiring engineers faster, using tell me about a time questions to find out whether candidates made good things happen."
+  },
+  "_posts/2022/2022-05-09-observability-versus-monitoring-in-software-development.md": {
+    "seo_title": "Observability vs Monitoring in Software Development",
+    "seo_description": "Linking CircleCI on observability versus monitoring: monitoring tracks key events and metrics to spot problems, a subset of wider observability."
+  },
+  "_posts/2022/2022-05-09-threat-intelligence-in-the-soc---how-can-it-help-mitigate-risks?.md": {
+    "seo_title": "Threat Intelligence in the SOC - Mitigating Risk",
+    "seo_description": "Linking Tripwire on how threat intelligence helps security operations centre teams detect, analyse, respond to and prevent cyber security incidents."
+  },
+  "_posts/2022/2022-05-12-Automation-is-the-serialization-of-understanding.md": {
+    "seo_title": "Automation Is the Serialisation of Understanding",
+    "seo_description": "Linking Changelog on why automation is the serialisation of understanding: once you truly understand what you are doing, you can automate it."
+  },
+  "_posts/2022/2022-05-13-Agile-Team-Tooling.md": {
+    "seo_title": "Agile Team Tools - Sprint Names and Planning Poker",
+    "seo_description": "Two handy tools for agile teams: a sprint name generator, because Sprint 2716 is boring, and a free online planning poker app for estimation."
+  },
+  "_posts/2022/2022-05-15-agile-user-story-estimation.md": {
+    "seo_title": "Agile User Story Estimation - Effort, Testing and Risk",
+    "seo_description": "Linking Jeremiah Lee on estimating user stories by solution effort, then adjusting up when testing effort or risk are higher than usual."
+  },
+  "_posts/2022/2022-05-15-uo-is-just-as-important-as-ux.md": {
+    "seo_title": "User Outcomes (UO) Are as Important as UX - Martin Lewis",
+    "seo_description": "Linking Martin Lewis on UO, user outcomes: does the user actually get the right answer from your site, app or tool? As important as user experience."
+  },
+  "_posts/2022/2022-05-15-write-more-secure-code-with-the-owasp-top-10-proactive-controls.md": {
+    "seo_title": "Write Secure Code With OWASP Top 10 Proactive Controls",
+    "seo_description": "Linking GitHub on the OWASP Top 10 Proactive Controls: defensive programming habits that reduce the odds of introducing or exposing vulnerabilities."
+  },
+  "_posts/2022/2022-05-16-gender-pay-gap-at-uk-unicorns.md": {
+    "seo_title": "The Gender Pay Gap at UK Tech Unicorns",
+    "seo_description": "Linking Sifted: of 20 UK unicorns reporting gender pay gap data, only seven had a gap smaller than the national average of 10 per cent."
+  },
+  "_posts/2022/2022-05-20-how-we’re-continuing-to-enable-all-developers-to-build-|-the-github-blog.md": {
+    "seo_title": "How GitHub Is Making Its Platform More Accessible",
+    "seo_description": "Linking GitHub on its central accessibility team of designers, engineers and managers working with disabled consultants to build accessible features."
+  },
+  "_posts/2022/2022-05-20-software-bill-of-materials---what-it-is-and-why-you-need-one.md": {
+    "seo_title": "Software Bill of Materials (SBOM) - Why You Need One",
+    "seo_description": "Linking CircleCI on SBOMs: like a recipe's ingredients, a software bill of materials lists every component to help reduce supply chain attacks."
+  },
+  "_posts/2022/2022-05-21-math-support-in-markdown.md": {
+    "seo_title": "GitHub Adds Maths Support in Markdown With LaTeX",
+    "seo_description": "GitHub now renders mathematical expressions in Markdown using LaTeX-style syntax, such as the quadratic formula. Not something I need, but neat."
+  },
+  "_posts/2022/2022-05-23-Keeping-a-digital-book-library.md": {
+    "seo_title": "Keeping a Digital Book Library With iOS Shortcuts",
+    "seo_description": "How I keep a digital library of my physical and Kindle books, building on Katy Decorah's work with an iOS Shortcut that scans ISBN barcodes."
+  },
+  "_posts/2022/2022-05-27-handling-defects.md": {
+    "seo_title": "Handling Defects - Fix Them Now, Do Not Triage",
+    "seo_description": "Why software defects should be fixed as soon as possible instead of triaged, classified and stored in a backlog, taking a lesson from Toyota."
+  },
+  "_posts/2022/2022-06-02-6-steps-to-ensure-cyber-resilience.md": {
+    "seo_title": "6 Steps to Ensure Cyber Resilience in Your Business",
+    "seo_description": "Linking Dark Reading's six steps to cyber resilience, including educating remote employees about phishing and business email compromise."
+  },
+  "_posts/2022/2022-06-02-level-up-your-link-previews-in-slack.md": {
+    "seo_title": "Level Up Your Link Previews in Slack With Open Graph",
+    "seo_description": "Linking Salma Alam-Naylor on improving how your web pages unfurl in Slack by adding extra Open Graph metadata to the page head."
+  },
+  "_posts/2022/2022-06-04-Using-a-label-to-trigger-automation-with-GitHub-Actions.md": {
+    "seo_title": "Trigger GitHub Actions Automation With an Issue Label",
+    "seo_description": "How I use GitHub Issues as a CMS for this Jekyll site: an issue label triggers a GitHub Action that makes a Markdown post or adds data to a YAML file."
+  },
+  "_posts/2022/2022-06-06-Imposter-Syndrome-is-almost-universal.md": {
+    "seo_title": "Imposter Syndrome Is Almost Universal in Engineering",
+    "seo_description": "Almost everyone I work with in engineering experiences imposter syndrome, the persistent fear of being exposed as a fraud. My thoughts on living with it."
+  },
+  "_posts/2022/2022-06-06-We-need-to-talk.md": {
+    "seo_title": "We Need to Talk - Privilege and Diversity in Tech",
+    "seo_description": "Reflections from a privileged, middle-aged white British man after 15 years in tech: things are improving, but we still need to talk about diversity."
+  },
+  "_posts/2022/2022-06-06-dimensions-of-engineering-growth.md": {
+    "seo_title": "Dimensions of Engineering Growth - Cate Huston",
+    "seo_description": "Linking Cate Huston on the four dimensions of engineering growth: scope, complexity, output and agenda. A useful lens for career conversations."
+  },
+  "_posts/2022/2022-06-06-start-test-names-with-should.md": {
+    "seo_title": "Start Test Names With Should - Clearer Unit Tests",
+    "seo_description": "Linking a tip to start test names with should, and how I prefix with the function name, like add_should_return_sum_of_values, to spot gaps."
+  },
+  "_posts/2022/2022-06-07-Contractions-can-lead-to-an-increase-in-the-mental-effort-required-to-read-them.md": {
+    "seo_title": "Contractions Make Writing Harder to Read",
+    "seo_description": "Linking Joanne Schofield on accessible writing: use do not and cannot instead of contractions, as some readers rely on seeing the word not."
+  },
+  "_posts/2022/2022-06-07-retry-patterns.md": {
+    "seo_title": "Retry Patterns - Exponential Backoff With Jitter",
+    "seo_description": "Linking ByteByteGo on retry patterns for resilient software, including exponential backoff with jitter to spread retries and avoid overload."
+  },
+  "_posts/2022/2022-06-11-thechels-uk-release-cb5b20e05cae.md": {
+    "seo_title": "thechels.uk Version 1.2.0 Release Notes",
+    "seo_description": "Release notes for version 1.2.0 of the thechels.uk website, including dependency bumps from Dependabot and new podcast content added to the site."
+  },
+  "_posts/2022/2022-06-12-career-checkup-template.md": {
+    "seo_title": "Career Checkup Template - Will Larson",
+    "seo_description": "Linking Will Larson's career checkup template, a reusable self-diagnosis exercise similar to a career narrative but focused on your own reflection."
+  },
+  "_posts/2022/2022-07-21-60-per-cent-of-brits-on-£80,000-100,000-say-they’re-about-average.md": {
+    "seo_title": "60% of Brits on £80k-£100k Think They Earn Average Pay",
+    "seo_description": "Linking the New Statesman: 60 per cent of Brits earning £80,000 to £100,000 think they are about average, and why social circles skew our view."
+  },
+  "_posts/2022/2022-07-21-seccl-hires-adam-jones-as-cto.md": {
+    "seo_title": "Seccl Hires Adam Jones as Chief Technology Officer",
+    "seo_description": "Linking Professional Adviser: Octopus-owned platform Seccl hired Adam Jones as its first CTO, responsible for its future technology vision."
+  },
+  "_posts/2022/2022-07-24-6-strategic-ways-to-level-up-your-ci-cd-pipeline.md": {
+    "seo_title": "6 Strategic Ways to Level Up Your CI/CD Pipeline",
+    "seo_description": "Linking GitHub's six strategic ways to improve your CI/CD pipeline, since a well-tuned pipeline is key to shipping high quality software fast."
+  },
+  "_posts/2022/2022-07-24-dora-metrics---the-right-answer-to-measuring-engineering-team-performance.md": {
+    "seo_title": "DORA Metrics - Measuring Engineering Team Performance",
+    "seo_description": "Linking Jacob Kaplan-Moss on DORA metrics: they will work for most teams, so use them unless you have evidence they do not work for yours."
+  },
+  "_posts/2022/2022-07-24-gtd-in-15-minutes-–-a-pragmatic-guide-to-getting-things-done.md": {
+    "seo_title": "GTD in 15 Minutes - A Guide to Getting Things Done",
+    "seo_description": "Linking a pragmatic 15 minute guide to Getting Things Done (GTD), turning tasks and whims into visible actions to keep your head clear."
+  },
+  "_posts/2022/2022-07-24-higher-rate-relief-via-swiftaid-–-gift-aid-made-easy.md": {
+    "seo_title": "Claim Higher Rate Gift Aid Relief With Swiftaid",
+    "seo_description": "Linking Swiftaid, which helps UK higher rate taxpayers claim back extra tax relief on charity donations made with Gift Aid. Easy and worth doing."
+  },
+  "_posts/2022/2022-07-24-honesty-is-a-professional-behaviour.md": {
+    "seo_title": "Honesty Is a Professional Behaviour",
+    "seo_description": "Linking Jacob Kaplan-Moss on why honesty matters at work: organisations rely on people working together, and that needs trust and candour."
+  },
+  "_posts/2022/2022-07-24-introducing-entitlements---github's-open-source-identity-and-access-management-solution.md": {
+    "seo_title": "Entitlements - GitHub's Open Source Access Management",
+    "seo_description": "Linking GitHub's Entitlements, its open source identity and access management tool that makes access requests and approvals easy to track and audit."
+  },
+  "_posts/2022/2022-07-24-making-a-compelling-offer-in-this-economy?.md": {
+    "seo_title": "Making a Compelling Job Offer in This Economy",
+    "seo_description": "Linking Jacob Kaplan-Moss: if your offer may be less competitive, tell candidates early rather than wasting their time on a long interview process."
+  },
+  "_posts/2022/2022-07-24-no-one-knows-what-they-are-doing.md": {
+    "seo_title": "No One Knows What They Are Doing",
+    "seo_description": "Linking Successful Software on the realisation that the adults running the world do not really know what they are doing either. Oddly reassuring."
+  },
+  "_posts/2022/2022-07-24-push-testing-left-by-testing-user-stories.md": {
+    "seo_title": "Push Testing Left by Testing User Stories",
+    "seo_description": "Linking a video with Callum Akehurst-Ryan and Marie Drake on testing user stories early through three amigos and story shaping, with examples."
+  },
+  "_posts/2022/2022-07-24-thinking-in-bets.md": {
+    "seo_title": "Thinking in Bets - Book Notes by Cate Huston",
+    "seo_description": "Linking Cate Huston's notes on Thinking in Bets by Annie Duke: using poker to separate luck from skill and learn from decisions, not outcomes."
+  },
+  "_posts/2022/2022-07-24-trunk-based-vs.-feature-based-development.md": {
+    "seo_title": "Trunk-Based vs Feature-Based Development",
+    "seo_description": "Linking CircleCI on trunk-based versus feature branch development, how each works with code review, and when to choose one over the other."
+  },
+  "_posts/2022/2022-08-08-5-simple-things-you-can-do-with-github-packages-to-level-up-your-workflows.md": {
+    "seo_title": "5 Ways GitHub Packages Can Level Up Your Workflows",
+    "seo_description": "Linking GitHub on five simple things you can do with GitHub Packages, including download statistics and full history to track package usage."
+  },
+  "_posts/2022/2022-08-08-ep17-design-patterns-cheat-sheet.md": {
+    "seo_title": "Design Patterns Cheat Sheet - ByteByteGo",
+    "seo_description": "Linking ByteByteGo's design patterns cheat sheet, a one-page visual summary of common software design patterns for quick reference."
+  },
+  "_posts/2022/2022-08-08-terraform-modules-create-reusable-infrastructure-as-code.md": {
+    "seo_title": "Terraform Modules - Reusable Infrastructure as Code",
+    "seo_description": "Linking Build5Nines on Terraform modules: folders of .tf files you consume from other projects to reuse infrastructure as code across teams."
+  },
+  "_posts/2022/2022-09-03-free-share-offer.md": {
+    "seo_title": "Freetrade Free Share Offer - Worth £3 to £200",
+    "seo_description": "Join Freetrade with my referral link and get a free share worth between £3 and £200 when you start investing. Terms apply and capital is at risk."
+  },
+  "_posts/2022/2022-09-09-incident-response---how-to-prevent-and-respond-to-data-breaches.md": {
+    "seo_title": "Incident Response - Preventing and Handling Data Breaches",
+    "seo_description": "Linking 1Password on incident response plans: most businesses lack one, yet a good plan brings people, processes and tools together after a breach."
+  },
+  "_posts/2022/2022-09-09-sign-your-git-commits-with-1password.md": {
+    "seo_title": "Sign Your Git Commits With SSH Keys in 1Password",
+    "seo_description": "1Password now lets developers sign Git commits with SSH keys, creating new keys in the desktop app or straight into GitHub in the browser."
+  },
+  "_posts/2022/2022-09-09-uk-labour-market-report---a-dangerous-game-of-chicken-with-pay-rises.md": {
+    "seo_title": "UK Labour Market - A Dangerous Game of Chicken on Pay",
+    "seo_description": "Linking IFA Magazine on UK pay rises lagging inflation, and why you should check a company's accounts on Companies House and ask at interview."
+  },
+  "_posts/2022/2022-09-17-1password-research-reveals-the-risks-of-login-fatigue.md": {
+    "seo_title": "1Password Research on the Risks of Login Fatigue",
+    "seo_description": "Linking 1Password research on login fatigue: 44 per cent of employees say logging in and out at work hurts their mood or reduces productivity."
+  },
+  "_posts/2022/2022-09-17-novia-launches-drip-feed-pension-drawdown-and-new-faster-trade-cycles.md": {
+    "seo_title": "Novia Launches Drip Feed Pension Drawdown",
+    "seo_description": "Linking IFA Magazine: Novia launched drip feed pension drawdown with regular benefit crystallisation events and faster trade cycles for advisers."
+  },
+  "_posts/2022/2022-09-17-some-ways-to-get-better-at-debugging.md": {
+    "seo_title": "Some Ways to Get Better at Debugging - Julia Evans",
+    "seo_description": "Linking Julia Evans on categorising debugging skills, from strategies like writing a unit test or tiny reproduction to comparing working versions."
+  },
+  "_posts/2022/2022-09-17-why-do-domain-names-sometimes-end-with-a-dot?.md": {
+    "seo_title": "Why Do Domain Names Sometimes End With a Dot?",
+    "seo_description": "Linking Julia Evans on why domain names in DNS zone files and dig output end with a trailing dot, marking them as fully qualified, not relative."
+  },
+  "_posts/2022/2022-10-05-reverse-job-apply-for-software-engineers.md": {
+    "seo_title": "Reverse Job Apply - Let Recruiters Apply to Engineers",
+    "seo_description": "Linking Laskie's reverse apply idea for software engineers, a shift where recruiters and companies apply to candidates instead of the other way round."
+  },
+  "_posts/2022/2022-12-06-One-Thing-Well.md": {
+    "seo_title": "One Thing Well Returns - Curated Apps and Tools",
+    "seo_description": "Glad to see One Thing Well back after a nearly two year break, sharing small, focused apps and tools that do one thing well. And yes, on Tumblr."
+  },
+  "_posts/2022/2022-12-10-100-ways-to-improve-your-life-without.md": {
+    "seo_title": "100 Ways to Improve Your Life Without Really Trying",
+    "seo_description": "Linking The Guardian's list of 100 marginal gains to improve your life with little effort, such as turning off the overhead light and using lamps."
+  },
+  "_posts/2022/2022-12-10-using-datadog-and-terraform-for-advanced-monitoring-as-code.md": {
+    "seo_title": "Datadog and Terraform for Monitoring as Code",
+    "seo_description": "Linking DevOpsGroup on using Datadog with Terraform for monitoring as code, with templated monitors for each technology and per-environment overrides."
+  }
+}

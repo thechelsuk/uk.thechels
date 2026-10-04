@@ -1,5 +1,7 @@
 ---
 title: Keeping a digital book library
+seo_title: "Keeping a Digital Book Library With iOS Shortcuts"
+seo_description: "How I keep a digital library of my physical and Kindle books, building on Katy Decorah's work with an iOS Shortcut that scans ISBN barcodes."
 layout: post
 date: 2022-05-23
 

@@ -1,5 +1,7 @@
 ---
 title: Why Agile Story Sizes Should Target One Day Maximum
+seo_title: "Why Agile Story Sizes Should Average One Day"
+seo_description: "Linking Paul Hammant's call for user stories averaging one day, and why I prefer half-day stories: discipline, refinement, think slow and code fast."
 layout: post
 date: 2022-04-28
 link: https://paulhammant.com/2012/04/24/call-to-arms-average-story-sizes-of-one-day/

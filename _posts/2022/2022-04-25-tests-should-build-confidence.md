@@ -3,6 +3,8 @@ layout: post
 date: 2022-04-25
 link: https://domk.website/blog/2021-01-17-tests-should-build-confidence.html
 title: Tests should build confidence
+seo_title: "Tests Should Build Confidence, Not Just Coverage"
+seo_description: "Linking an article arguing that bottom-up testing chasing high coverage misses the point: automated tests should build confidence to ship software."
 type: linked
 cited: Domk
 ---

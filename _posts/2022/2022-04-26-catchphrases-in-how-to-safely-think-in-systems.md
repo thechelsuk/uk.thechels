@@ -3,6 +3,8 @@ layout: post
 date: 2022-04-26
 link: https://lethain.com/how-to-safely-think-in-systems/
 title: Catchphrases in How to safely think in systems
+seo_title: "The Power of Catchphrases in Systems Thinking"
+seo_description: "Why catchy names like Brexit means Brexit stick, via Will Larson on systems thinking and George Lakoff's book Don't Think of an Elephant."
 type: linked
 cited: Will Larson (Lethain)
 ---

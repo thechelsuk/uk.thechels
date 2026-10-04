@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-02
 link: https://www.smashingmagazine.com/2021/07/strong-case-for-accessibility/
 title: Making A Strong Case For Accessibility
+seo_title: "Making a Strong Case for Accessibility on the Web"
+seo_description: "Linking Smashing Magazine on why accessibility should be built in and advocated for from the start of a web project, not bolted on at the end."
 type: linked
 cited: Smashing Magazine
 ---

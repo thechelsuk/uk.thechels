@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-09
 link: https://www.tripwire.com/state-of-security/risk-based-security-for-executives/risk-management/threat-intelligence-soc-mitigate-risks/
 title: Threat Intelligence in the SOC - How can it help mitigate risks?
+seo_title: "Threat Intelligence in the SOC - Mitigating Risk"
+seo_description: "Linking Tripwire on how threat intelligence helps security operations centre teams detect, analyse, respond to and prevent cyber security incidents."
 type: linked
 cited: Tripwire
 ---

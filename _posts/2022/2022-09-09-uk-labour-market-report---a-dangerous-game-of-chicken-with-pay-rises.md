@@ -3,6 +3,8 @@ layout: post
 date: 2022-09-09
 link: https://ifamagazine.com/article/uk-labour-market-report-a-dangerous-game-of-chicken-with-pay-rises-reaction-from-hrs-and-recruiters/
 title: UK labour market report - a dangerous game of chicken with pay rises
+seo_title: "UK Labour Market - A Dangerous Game of Chicken on Pay"
+seo_description: "Linking IFA Magazine on UK pay rises lagging inflation, and why you should check a company's accounts on Companies House and ask at interview."
 type: linked
 cited: IFA Magazine
 ---

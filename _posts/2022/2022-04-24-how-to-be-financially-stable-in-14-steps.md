@@ -2,6 +2,8 @@
 layout: post
 date: 2022-04-24
 title: "How to be financially stable in 14 steps"
+seo_title: "How to Be Financially Stable in 14 Steps"
+seo_description: "My 14 steps to financial stability, from investing in yourself and paying yourself first to building a surplus each month and planning for the future."
 
 type: blog
 ---

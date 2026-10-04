@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-02
 link: https://orghacking.com/2021/04/05/from-individual-readmes-and-user-manuals-to-group-working-agreements/amp/
 title: From individual READMEs and user manuals to group working agreements
+seo_title: "From Manager READMEs to Team Working Agreements"
+seo_description: "Linking Org Hacking on moving from individual manager READMEs and user manuals towards group working agreements that the whole team owns."
 type: linked
 cited: Org Hacking
 ---

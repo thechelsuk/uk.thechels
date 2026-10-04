@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-06
 link: https://www.buildthestage.com/how-to-manage-existing-engineering-teams/
 title: How to Manage Existing Engineering Teams
+seo_title: "How to Manage an Existing Engineering Team"
+seo_description: "Linking Build the Stage on taking over an existing engineering team: accept they know more than you, and focus on guiding decisions, not coding."
 type: linked
 cited: Build the Stage
 ---

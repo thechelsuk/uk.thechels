@@ -3,6 +3,8 @@ layout: post
 date: 2022-07-24
 link: https://github.blog/2022-07-19-6-strategic-ways-to-level-up-your-ci-cd-pipeline/
 title: 6 strategic ways to level up your CI/CD pipeline
+seo_title: "6 Strategic Ways to Level Up Your CI/CD Pipeline"
+seo_description: "Linking GitHub's six strategic ways to improve your CI/CD pipeline, since a well-tuned pipeline is key to shipping high quality software fast."
 type: linked
 cited: GitHub
 ---

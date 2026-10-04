@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-01
 link: https://www.macstories.net/ios/setting-up-a-custom-domain-for-icloud-email/
 title: Setting Up a Custom Domain for iCloud Email - MacStories
+seo_title: "Custom Domain iCloud Email - Why It Did Not Work for Me"
+seo_description: "Linking MacStories on custom domains for iCloud Mail, and why the three address limit rules it out for me with over 125 email addresses in use."
 type: linked
 cited: Macstories
 ---
