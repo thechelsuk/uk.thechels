@@ -24,7 +24,7 @@
         <p>
             {% if item.summary %}
             <ul>
-                <li>{{ item.summary }} <a href='{{item.url}}' title="{{item.title}}">Read more</a> &rarr;</li>
+                <li>{{ item.summary }} <a href='{{item.url}}' title="{{item.title}}">Read more about {{ item.title | split: " - " | first | strip }}</a> &rarr;</li>
             </ul>
             {% endif %}
         </p>

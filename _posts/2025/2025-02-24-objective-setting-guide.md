@@ -8,7 +8,7 @@ seo_description: "A template guide for managers to publish on a wiki, explaining
 type: blog
 ---
 
-_Notes: Publish this somewhere on the intranet or wiki, so it's visible to your direct reports/teams. There should be no surprises_
+> _Notes: Publish this somewhere on the intranet or wiki, so it's visible to your direct reports/teams. There should be no surprises_
 
 ## Purpose
 

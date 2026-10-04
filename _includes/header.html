@@ -6,8 +6,8 @@
     {% assign seo_title = page.seo_title | default: page.title | default: site.title | strip_html | strip_newlines | strip -%}
     {%- assign seo_description = page.seo_description -%}
     {%- if seo_description == nil or seo_description == "" -%}
-    {%- comment -%} legacy fallback keeps the site suffix until every file has seo_description {%- endcomment -%}
-    {%- assign seo_fallback = page.seo | default: page.description | default: page.title | default: site.description -%}
+    {%- comment -%} fallback for pages without seo_description, e.g. noindex pages {%- endcomment -%}
+    {%- assign seo_fallback = page.description | default: page.title | default: site.description -%}
     {%- capture seo_description %}{{ seo_fallback }} | {{ site.title }} by thechelsuk{% endcapture -%}
     {%- endif -%}
     {%- assign seo_description = seo_description | strip_html | strip_newlines | strip %}
