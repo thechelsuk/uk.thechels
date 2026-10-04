@@ -6,7 +6,8 @@ syndicate:
   - textlog
 date: 2026-09-16 12:00
 title: Updates on Cheltenham Open Data
-seo: "Updates on Cheltenham Open Data"
+seo_title: "Updates on Cheltenham Open Data - Every Page So Far"
+seo_description: "Updates on my new project Cheltenham Open Data, putting local data in front of local people, with a list of every page and how they are built."
 type: blog
 ---
 

@@ -2,6 +2,8 @@
 layout: post
 date: 2026-09-17 22:30
 title: Tomoz Version 2.0.1
+seo_title: "Tomoz Version 2.0.1 - Speed and Pipeline Updates"
+seo_description: "Tomoz 2.0.1 brings speed and performance improvements and build pipeline updates to my iOS app for planning tomorrow at a glance."
 type: release
 cited: GitHub
 link: https://thechels.uk/projects/tomoz

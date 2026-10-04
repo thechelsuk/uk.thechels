@@ -6,7 +6,8 @@ syndicate:
   - textlog
 date: 2026-09-25 02:00
 title: The Perfect Hiring System
-seo: "A guide and worksheets for hiring software engineers for judgement, ownership and teamwork, built from over a thousand interviews."
+seo_title: "The Perfect Hiring System for Software Engineers"
+seo_description: "A guide and worksheets for hiring software engineers for judgement, ownership and teamwork, built from over a thousand interviews, now AI is here."
 type: blog
 ---
 

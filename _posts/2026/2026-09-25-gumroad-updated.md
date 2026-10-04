@@ -6,7 +6,8 @@ syndicate:
   - textlog
 date: 2026-09-25 01:00
 title: I've opened a shop
-seo: "shop.thechels.uk is open: guides for engineering leaders and printable maths workbooks for kids, alongside my free iPhone apps."
+seo_title: "I Have Opened a Shop - shop.thechels.uk"
+seo_description: "shop.thechels.uk is open: guides for engineering leaders and printable maths workbooks for kids, alongside my free iPhone apps and open data."
 type: blog
 ---
 

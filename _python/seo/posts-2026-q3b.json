@@ -1,0 +1,250 @@
+{
+  "_posts/2026/2026-09-03-1password-supports-the-ethnic-cleansing-of-europe-andrew-lilley-brinker.md": {
+    "seo_title": "1Password's $300,000 Omarchy Pledge Must Be Rescinded",
+    "seo_description": "Linking Andrew Lilley Brinker on 1Password committing $300,000 to Omarchy. A paying customer for many years, I am gutted they have done this."
+  },
+  "_posts/2026/2026-09-08-cheltenham-open-data-release-bc2bd1f4b2cc.md": {
+    "seo_title": "Cheltenham Open Data 3.0.0 - New Pages and Maps",
+    "seo_description": "Cheltenham Open Data 3.0.0 is a major release adding new pages and mapping, new terms and links, and fixes to public toilet names."
+  },
+  "_posts/2026/2026-09-08-video-cheltenham-open-data---cheltenham-oduk-40c0da18.md": {
+    "seo_title": "Cheltenham Open Data at cheltenham-od.uk - Video",
+    "seo_description": "A YouTube short introducing cheltenham-od.uk, my free site sharing local open data for Cheltenham and Gloucestershire in one place."
+  },
+  "_posts/2026/2026-09-08-video-cheltenham-open-data---introduction-95d8412f.md": {
+    "seo_title": "Cheltenham Open Data - An Introduction (Video)",
+    "seo_description": "An introduction video to Cheltenham Open Data, my project putting local public data in front of local people, from fuel prices to services."
+  },
+  "_posts/2026/2026-09-08-video-cheltenham-open-data---local-data-for-local-people-760cd372.md": {
+    "seo_title": "Cheltenham Open Data - Local Data for Local People",
+    "seo_description": "A video on why I built Cheltenham Open Data: local data for local people, gathering public information for Cheltenham into one free site."
+  },
+  "_posts/2026/2026-09-08-video-cheltenham-open-data---public-toilet-sting-ec20b3b3.md": {
+    "seo_title": "Cheltenham Open Data - Public Toilet Sting (Video)",
+    "seo_description": "A light-hearted video about the public toilets data on Cheltenham Open Data, helping you find a public toilet when you are out in Cheltenham."
+  },
+  "_posts/2026/2026-09-08-video-when-you-need-to-go-in-cheltenham-8474d353.md": {
+    "seo_title": "When You Need to Go in Cheltenham - Public Toilets",
+    "seo_description": "A video showing how to find public toilets in Cheltenham when you need to go, using the public toilet map on Cheltenham Open Data."
+  },
+  "_posts/2026/2026-09-10-hiyd-uk-release-de7f33012e0c.md": {
+    "seo_title": "Hiyd.uk Version 2.0.0 - Site Redesign and Guides",
+    "seo_description": "Hiyd.uk 2.0.0 redesigns the Hiyd app's website with a new layout, guides, FAQ schema and accurate content, plus a Liquid sitemap template."
+  },
+  "_posts/2026/2026-09-10-video-hey-shorty-hello-world-5537f035.md": {
+    "seo_title": "Hey Shorty, Hello World - A YouTube Short",
+    "seo_description": "Hey shorty, hello world: a YouTube short published to my channel in September 2026. Watch it on YouTube through the link in this post."
+  },
+  "_posts/2026/2026-09-11-mltply-release-40a78258c734.md": {
+    "seo_title": "Mltply Version 2.1.1 - New Icon and Fixes",
+    "seo_description": "Mltply 2.1.1, the chat-style maths buddy app for kids, brings a new icon, bug fixes and improvements, plus updated build tooling."
+  },
+  "_posts/2026/2026-09-12-demarkable-release-v3445fsf.md": {
+    "seo_title": "Demarkable 1.0.0 - DMARC Report Viewer for macOS",
+    "seo_description": "The first release of Demarkable for macOS, turning dense DMARC aggregate and SMTP TLS reports from mailbox providers into something readable."
+  },
+  "_posts/2026/2026-09-12-engman-release-40a654rc734.md": {
+    "seo_title": "EngMan Version 2.1.0 - New Icon and Sync Fixes",
+    "seo_description": "EngMan 2.1.0, the coaching card app for engineering managers, adds a new icon, speed improvements and fixes favourites loss in CloudKit sync."
+  },
+  "_posts/2026/2026-09-12-hiyd-release-dj33fd4ds.md": {
+    "seo_title": "Hiyd 2.1.0 - Publish to GitHub From Your iPhone",
+    "seo_description": "Hiyd 2.1.0, the Jekyll companion app for iOS, adds authentication, front matter management and GitHub publishing with up to five configs."
+  },
+  "_posts/2026/2026-09-12-shortkeys-release-vfvd233sgd.md": {
+    "seo_title": "ShortKeys Version 1.3.0 - Refactor and Keyboard Fixes",
+    "seo_description": "ShortKeys 1.3.0 brings a new icon, a big refactor, keyboard crash fixes, more reliable triggers, safer backspace repeat and unit tests."
+  },
+  "_posts/2026/2026-09-12-tomoz-release-vfv45ghjj.md": {
+    "seo_title": "Tomoz Version 2.0.0 - New Icon and Faster",
+    "seo_description": "Tomoz 2.0.0, the simple iOS app for planning tomorrow from your calendars and reminders, brings a new icon and speed and performance gains."
+  },
+  "_posts/2026/2026-09-12-video-engman--cue-cards-and-help-frameworks-for-engineering-managers-people-leaders--heads-a383d6ea.md": {
+    "seo_title": "EngMan - Cue Cards for Engineering Managers (Video)",
+    "seo_description": "A YouTube short on EngMan, my iOS app of cue cards and frameworks for engineering managers, people leaders and heads of engineering."
+  },
+  "_posts/2026/2026-09-12-video-hiyd---the-jekyll-companion-app-now-with-push--directly-to-github-34d45019.md": {
+    "seo_title": "Hiyd - Push Directly to GitHub From iOS (Video)",
+    "seo_description": "A YouTube short showing Hiyd, the Jekyll companion app for iOS, which can now push your Markdown posts directly to GitHub from your phone."
+  },
+  "_posts/2026/2026-09-12-video-mltply--the-chat-like-maths-achievement-app-for-kids-open-source--on-device-only-a3549c43.md": {
+    "seo_title": "Mltply - Open Source Maths App for Kids (Video)",
+    "seo_description": "A YouTube short on Mltply, the chat-like maths achievement app for kids. Open source, with everything kept on the device for privacy."
+  },
+  "_posts/2026/2026-09-12-video-shortkeys--multi-line-text-expander-and-text-replacement-on-ios-24087f25.md": {
+    "seo_title": "ShortKeys - Multi-Line Text Expander for iOS (Video)",
+    "seo_description": "A YouTube short on ShortKeys, my multi-line text expander and text replacement keyboard for iOS, for forms, replies and journaling."
+  },
+  "_posts/2026/2026-09-12-video-snf---football-scores-dashboard-2026-09-12-c5c0cb61.md": {
+    "seo_title": "Football Scores Dashboard Video - 12 September 2026",
+    "seo_description": "A video of my football scores dashboard on 12 September 2026, part of my series of dashboard videos published to my YouTube channel."
+  },
+  "_posts/2026/2026-09-12-video-tomoz---plan-for-tomorrow-today-new-version-out-now-acab0034.md": {
+    "seo_title": "Tomoz New Version Out Now - Plan for Tomorrow Today",
+    "seo_description": "A YouTube short announcing a new version of Tomoz, my iOS app that helps you plan for tomorrow today with your calendars and reminders."
+  },
+  "_posts/2026/2026-09-15-hiyd-release-jlyodfk333kdsk.md": {
+    "seo_title": "Hiyd Version 2.1.1 - Bug Fixes and Performance",
+    "seo_description": "Hiyd 2.1.1 brings bug fixes and performance improvements to the Jekyll companion app for iOS that saves to iCloud or publishes to GitHub."
+  },
+  "_posts/2026/2026-09-15-shortkeys-release-gnvbj4444.md": {
+    "seo_title": "ShortKeys Version 1.3.1 - Bug Fixes and Performance",
+    "seo_description": "ShortKeys 1.3.1 brings bug fixes and performance improvements to my multi-line text replacement keyboard app for iPhone and iPad."
+  },
+  "_posts/2026/2026-09-15-updating-cheltenham-open-data.md": {
+    "seo_title": "Updates on Cheltenham Open Data - Every Page So Far",
+    "seo_description": "Updates on my new project Cheltenham Open Data, putting local data in front of local people, with a list of every page and how they are built."
+  },
+  "_posts/2026/2026-09-17-engman-release-40fj43f3f356.md": {
+    "seo_title": "EngMan Version 2.1.1 - Fixes and Pipeline Updates",
+    "seo_description": "EngMan 2.1.1 brings bug fixes, improvements and build pipeline updates to my coaching card app for engineering managers on iOS."
+  },
+  "_posts/2026/2026-09-17-hiyd-release-jcdk434d34d.md": {
+    "seo_title": "Hiyd Version 2.1.2 - Fixes and Pipeline Updates",
+    "seo_description": "Hiyd 2.1.2 brings bug fixes, performance improvements and build pipeline updates to the Jekyll companion app for iPhone and iPad."
+  },
+  "_posts/2026/2026-09-17-mltply-release-6cb51c4815a5.md": {
+    "seo_title": "Mltply Version 2.1.2 - App Store Metadata Update",
+    "seo_description": "Mltply 2.1.2 syncs the repository with the App Store version, with automated Xcode builds and an updated app name, description and tags."
+  },
+  "_posts/2026/2026-09-17-shortkeys-release-gjh65633y.md": {
+    "seo_title": "ShortKeys Version 1.3.2 - Fixes and Pipeline Updates",
+    "seo_description": "ShortKeys 1.3.2 brings bug fixes, performance improvements and build pipeline updates to my multi-line text replacement keyboard for iOS."
+  },
+  "_posts/2026/2026-09-17-tomoz-release-vj43dc43fd3.md": {
+    "seo_title": "Tomoz Version 2.0.1 - Speed and Pipeline Updates",
+    "seo_description": "Tomoz 2.0.1 brings speed and performance improvements and build pipeline updates to my iOS app for planning tomorrow at a glance."
+  },
+  "_posts/2026/2026-09-22-video-new-on-cheltenham-open-data---ward-level-data-cheltenham-cheltenhamtown-7058b647.md": {
+    "seo_title": "New on Cheltenham Open Data - Ward Level Data",
+    "seo_description": "A YouTube short announcing ward level data on Cheltenham Open Data, so you can explore local statistics for your own part of Cheltenham."
+  },
+  "_posts/2026/2026-09-24-links-release-58e212830c88.md": {
+    "seo_title": "Links Version 1.0.2 - CSS Rewrite and Social Icons",
+    "seo_description": "Links 1.0.2, my Jekyll link-in-bio site, moves from SCSS to plain CSS with polish and an improved social icons row in style and shape."
+  },
+  "_posts/2026/2026-09-24-mltply-release-17e1eaec3b4e.md": {
+    "seo_title": "Mltply Version 2.2.0 - Kids Maths App Update",
+    "seo_description": "Mltply 2.2.0, the chat-style maths buddy for kids, quizzing them on questions of rising difficulty with settings to target weak areas."
+  },
+  "_posts/2026/2026-09-25-etsy-shop-launched.md": {
+    "seo_title": "Mltply Maths Workbooks Now on Etsy",
+    "seo_description": "My printable Mltply maths workbooks for Years 1 to 7 and SATs arithmetic papers are now on Etsy too, as instant downloads for home learning."
+  },
+  "_posts/2026/2026-09-25-gumroad-updated.md": {
+    "seo_title": "I Have Opened a Shop - shop.thechels.uk",
+    "seo_description": "shop.thechels.uk is open: guides for engineering leaders and printable maths workbooks for kids, alongside my free iPhone apps and open data."
+  },
+  "_posts/2026/2026-09-25-maths-workbook-companions.md": {
+    "seo_title": "Mltply Maths Workbooks for Years 1 to 7 (UK)",
+    "seo_description": "Printable Mltply maths workbooks for Years 1 to 7, following England's national curriculum with full answers. Try the free sampler first."
+  },
+  "_posts/2026/2026-09-25-shortkeys-release-17ehg942e.md": {
+    "seo_title": "ShortKeys Version 1.5.0 - Undo and Pinned Favourites",
+    "seo_description": "ShortKeys 1.5.0 adds undo, so backspace returns you to your typed entry, and lets subscribers pin three favourite snippets to the keyboard."
+  },
+  "_posts/2026/2026-09-25-the-perfect-hiring-system.md": {
+    "seo_title": "The Perfect Hiring System for Software Engineers",
+    "seo_description": "A guide and worksheets for hiring software engineers for judgement, ownership and teamwork, built from over a thousand interviews, now AI is here."
+  },
+  "_posts/2026/2026-09-26-video-uk-money-checklist--planner-202627-d-f3578126.md": {
+    "seo_title": "UK Money Checklist and Planner 2026/27 (Video)",
+    "seo_description": "A video introducing my UK Money Checklist and Planner for the 2026/27 tax year, a printable guide to get your personal finances in order."
+  },
+  "_posts/2026/2026-09-26-video-uk-money-checklist-shorts-29acdec9.md": {
+    "seo_title": "UK Money Checklist - YouTube Short",
+    "seo_description": "A YouTube short on my UK Money Checklist, a printable planner to work through your personal finances step by step for the new tax year."
+  },
+  "_posts/2026/2026-09-26-video-welcome-to-thechelsuk-printables-apps-guides-and-more-made-in-the-uk-925ea42a.md": {
+    "seo_title": "Welcome to thechelsuk - Printables, Apps and Guides",
+    "seo_description": "A welcome video for thechelsuk: printables, iOS apps, guides and more, all made in the UK, introducing the shop and free projects in one place."
+  },
+  "_posts/2026/2026-09-27-embed-thechelsuk-youtube-referrer-for-netnewswire-themes-release-373c34ff9b7f.md": {
+    "seo_title": "Embed @ thechelsuk 1.0.0 - YouTube Fix for NetNewsWire",
+    "seo_description": "Embed 1.0.0, a static page that embeds YouTube via youtube-nocookie so my NetNewsWire themes play videos inline without error 153."
+  },
+  "_posts/2026/2026-09-27-music-mixtape-sept-2026.md": {
+    "seo_title": "Monthly Mixtape September 2026 - Mark Lanegan, Drenge",
+    "seo_description": "My September 2026 mixtape of songs on repeat, including Lions of Hazelwood, Don't Forget Me by Mark Lanegan, Drenge and Black Eyed Snakes."
+  },
+  "_posts/2026/2026-09-27-nnw-theme-bundle-release-f3749adf9d58.md": {
+    "seo_title": "NetNewsWire Theme Bundle v3.0.0 - YouTube Fix",
+    "seo_description": "NetNewsWire theme bundle 3.0.0 fixes YouTube embed error 153 using embed.thechels.uk as a referrer, and adds the new Claudio theme."
+  },
+  "_posts/2026/2026-09-27-video-cv-review-for-software-engineers-an-hour-of-written-feedback-from-a-hiring-manager-d3fd7ea6.md": {
+    "seo_title": "CV Review for Software Engineers by a Hiring Manager",
+    "seo_description": "A video on my CV review service for software engineers: an hour of detailed written feedback on your CV from an experienced hiring manager."
+  },
+  "_posts/2026/2026-09-27-video-cv-review-shorts-3654f62a.md": {
+    "seo_title": "CV Review for Engineers - YouTube Short",
+    "seo_description": "A YouTube short on my CV review for software engineers, with an hour of written feedback from a hiring manager to help you land interviews."
+  },
+  "_posts/2026/2026-09-27-weaknotes-2026-09-27.md": {
+    "seo_title": "WeakNotes 27 September 2026 - Open Data and Job Hunt",
+    "seo_description": "Weekly notes: Cheltenham Open Data grows and moves jobs to a Raspberry Pi, I start looking for work, I feel much better and fix my NNW themes."
+  },
+  "_posts/2026/2026-09-28-video-maths-workbook-bundle-5-printable-workbooks-for-years-17-uk--mltply-5f1d9694.md": {
+    "seo_title": "Maths Workbook Bundle - 5 Printable Workbooks, Years 1-7",
+    "seo_description": "A video tour of the Mltply maths workbook bundle: five printable workbooks for Years 1 to 7 in the UK, following the national curriculum."
+  },
+  "_posts/2026/2026-09-28-video-maths-workbook-bundle-shorts-fda19ccd.md": {
+    "seo_title": "Mltply Maths Workbook Bundle - YouTube Short",
+    "seo_description": "A YouTube short on the Mltply maths workbook bundle, five printable workbooks for UK primary and early secondary pupils, Years 1 to 7."
+  },
+  "_posts/2026/2026-09-29-homebridge-ysa2-yale-alarm-release-713c4ab4dba8.md": {
+    "seo_title": "Homebridge YSA2 Yale Alarm Plugin v2.5.0 Released",
+    "seo_description": "YSA2 Homebridge plugin 2.5.0 for Yale Sync alarms fixes dependency security issues, makes night status arm rather than disarm, and more."
+  },
+  "_posts/2026/2026-09-30-nnw-theme-bundle-release-33b8f5c881c2.md": {
+    "seo_title": "NetNewsWire Theme Bundle v3.1.0 - YouTube Discovery",
+    "seo_description": "NetNewsWire theme bundle 3.1.0 improves discovery of YouTube links, including in Bluesky RSS feeds, with downloads for Claudio and others."
+  },
+  "_posts/2026/2026-09-30-video-activity--pacing-diary-4-week-hour-by-hour-tracker-for-mecfs-352348e6.md": {
+    "seo_title": "Activity and Pacing Diary for ME/CFS - 4-Week Tracker",
+    "seo_description": "A video on my activity and pacing diary for ME/CFS: a four-week, hour-by-hour tracker to log activity and rest, and share with your clinic."
+  },
+  "_posts/2026/2026-09-30-video-activity--pacing-diary-shorts-da36e042.md": {
+    "seo_title": "Activity and Pacing Diary for ME/CFS - YouTube Short",
+    "seo_description": "A YouTube short on my printable activity and pacing diary, an hour-by-hour tracker to help people with ME/CFS manage energy and avoid PEM."
+  },
+  "_posts/2026/2026-10-01-video-interview-prep-guide-for-software-engineers-edd490c6.md": {
+    "seo_title": "Interview Prep Guide for Software Engineers (Video)",
+    "seo_description": "A video introducing my interview prep guide for software engineers, a resource to help you get ready for technical and behavioural interviews."
+  },
+  "_posts/2026/2026-10-01-video-interview-prep-guide-shorts-47014120.md": {
+    "seo_title": "Interview Prep Guide for Engineers - YouTube Short",
+    "seo_description": "A YouTube short on my interview prep guide for software engineers, available in my shop alongside other guides for engineers and leaders."
+  },
+  "_posts/2026/2026-10-02-video-one-to-one--coaching-toolkit-for-engineering-managers-803350d6.md": {
+    "seo_title": "One-to-One and Coaching Toolkit for Engineering Managers",
+    "seo_description": "A video introducing my one-to-one and coaching toolkit for engineering managers, a resource to help you run better conversations with your team."
+  },
+  "_posts/2026/2026-10-02-video-one-to-one--coaching-toolkit-shorts-a73f2561.md": {
+    "seo_title": "One-to-One and Coaching Toolkit - YouTube Short",
+    "seo_description": "A YouTube short on my one-to-one and coaching toolkit, helping engineering managers run better one-to-ones and coach their teams."
+  },
+  "_posts/2026/2026-10-03-shortkeys-thechelsuk-ios-app-marketing-site-release-7412941a41d7.md": {
+    "seo_title": "ShortKeys Marketing Site Version 1.0.0 Released",
+    "seo_description": "The first release of the marketing website for ShortKeys, my multi-line text replacement keyboard app for iPhone and iPad."
+  },
+  "_posts/2026/2026-10-03-tomoz-thechelsuk-ios-app-marketing-site-release-c3d2c5b1684f.md": {
+    "seo_title": "Tomoz Marketing Site Version 1.0.0 Released",
+    "seo_description": "The first release of the marketing website for Tomoz, my iOS app that shows tomorrow's calendar events and reminders in one simple view."
+  },
+  "_posts/2026/2026-10-03-video-sats-arithmetic-practice-papers-for-year-6-uk--mltply-0b2812f0.md": {
+    "seo_title": "SATs Arithmetic Practice Papers for Year 6 (UK)",
+    "seo_description": "A video on Mltply's SATs arithmetic practice papers for Year 6 in the UK, printable papers to help children prepare for their SATs tests."
+  },
+  "_posts/2026/2026-10-03-video-sats-arithmetic-shortsshort-f3550a38.md": {
+    "seo_title": "Year 6 SATs Arithmetic Papers - YouTube Short",
+    "seo_description": "A YouTube short on my printable Year 6 SATs arithmetic practice papers from Mltply, made for UK children preparing for their SATs."
+  },
+  "_posts/2026/2026-10-04-video-times-tables-2-to-12-printable-workbook-for-years-24-uk--mltply-e89a4ccb.md": {
+    "seo_title": "Times Tables 2 to 12 Printable Workbook, Years 2-4",
+    "seo_description": "A video on the Mltply times tables 2 to 12 printable workbook for Years 2 to 4 in the UK, building up times table practice step by step."
+  },
+  "_posts/2026/2026-10-04-video-times-tables-2-to-12-shorts-343251a0.md": {
+    "seo_title": "Times Tables 2 to 12 Workbook - YouTube Short",
+    "seo_description": "A YouTube short on my printable Mltply times tables workbook covering the 2 to 12 times tables for UK children in Years 2 to 4."
+  }
+}

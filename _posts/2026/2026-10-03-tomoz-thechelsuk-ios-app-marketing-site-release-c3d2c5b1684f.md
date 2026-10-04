@@ -2,6 +2,8 @@
 layout: post
 date: 2026-10-03 01:21
 title: Tomoz @ thechelsuk - iOS app marketing site Version 1.0.0
+seo_title: "Tomoz Marketing Site Version 1.0.0 Released"
+seo_description: "The first release of the marketing website for Tomoz, my iOS app that shows tomorrow's calendar events and reminders in one simple view."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.tomoz/releases/tag/1.0.0

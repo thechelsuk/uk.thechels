@@ -2,6 +2,8 @@
 layout: post
 date: 2026-09-08 16:19
 title: Cheltenham Open Data Version 3.0.0
+seo_title: "Cheltenham Open Data 3.0.0 - New Pages and Maps"
+seo_description: "Cheltenham Open Data 3.0.0 is a major release adding new pages and mapping, new terms and links, and fixes to public toilet names."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.cheltenham-od/releases/tag/3.0.0

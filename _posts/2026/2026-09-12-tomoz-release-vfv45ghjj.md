@@ -2,6 +2,8 @@
 layout: post
 date: 2026-09-12 11:00
 title: Tomoz Version 2.0.0
+seo_title: "Tomoz Version 2.0.0 - New Icon and Faster"
+seo_description: "Tomoz 2.0.0, the simple iOS app for planning tomorrow from your calendars and reminders, brings a new icon and speed and performance gains."
 type: release
 cited: GitHub
 link: https://thechels.uk/projects/tomoz

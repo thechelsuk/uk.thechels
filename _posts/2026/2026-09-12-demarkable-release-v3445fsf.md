@@ -2,6 +2,8 @@
 layout: post
 date: 2026-09-12 11:00
 title: Demarkable Version 1.0.0
+seo_title: "Demarkable 1.0.0 - DMARC Report Viewer for macOS"
+seo_description: "The first release of Demarkable for macOS, turning dense DMARC aggregate and SMTP TLS reports from mailbox providers into something readable."
 type: release
 cited: GitHub
 link: https://thechels.uk/projects/demarkable

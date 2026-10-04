@@ -6,7 +6,8 @@ syndicate:
   - textlog
 date: 2026-09-25 03:00
 title: Mltply maths workbooks
-seo: "Printable maths workbooks for Years 1 to 7, following England's national curriculum, with full answers. Try the free sampler."
+seo_title: "Mltply Maths Workbooks for Years 1 to 7 (UK)"
+seo_description: "Printable Mltply maths workbooks for Years 1 to 7, following England's national curriculum with full answers. Try the free sampler first."
 type: blog
 ---
 

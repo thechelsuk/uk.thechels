@@ -2,9 +2,10 @@
 layout: post
 date: 2026-09-03
 title: "1Password Supports the Ethnic Cleansing of Europe"
+seo_title: "1Password's $300,000 Omarchy Pledge Must Be Rescinded"
+seo_description: "Linking Andrew Lilley Brinker on 1Password committing $300,000 to Omarchy. A paying customer for many years, I am gutted they have done this."
 cited: "Andrew Lilley Brinker"
 link: https://www.alilleybrinker.com/blog/1password-funds-ethnic-cleansing/
-seo: "1Password has committed $300,000 to Omarchy. This is unacceptable and must be rescinded."
 type: "linked"
 syndicate:
   - mastodon
