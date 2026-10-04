@@ -1,8 +1,9 @@
 ---
 layout: projects
 title: "Create mta-sts.txt and subdomain on GitHub Pages - Template Repo"
+seo_title: "MTA-STS on GitHub Pages - Template Repo for mta-sts.txt"
+seo_description: "A GitHub template repo to host an mta-sts.txt policy on an mta-sts subdomain with GitHub Pages: copy it, set CNAME and MX records, then add DNS."
 permalink: /projects/create-mta-sts-txt-subdomain-on-github-pages-template
-seo: "Create mta-sts.txt and subdomain on GitHub Pages with this easy to use Repo Template"
 class: templates
 i_name: View
 i_url: "https://github.com/thechelsuk/template-mta-sts-sub-domain"

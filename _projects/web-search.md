@@ -1,9 +1,10 @@
 ---
 layout: projects
 title: "Search Router"
+seo_title: "Search Router - Browser Homepage With !Bang Shortcuts"
+seo_description: "A browser homepage and default search engine that routes queries with !bangs and shortcodes to any search engine or site search, in plain HTML and JS."
 permalink: /projects/search-router
 class: websites
-seo: "Search Router for thechelsuk"
 i_name: Visit
 i_url: "https://search.thechels.uk"
 summary: "A default search routing homepage that uses bangs and shortcodes to route a query through sites and search engines."

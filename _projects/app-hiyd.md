@@ -1,9 +1,10 @@
 ---
 layout: projects
 title: Hiyd - Jekyll Companion app for iOS
+seo_title: "Hiyd - Jekyll Companion App for iPhone and iPad"
+seo_description: "Hiyd is an iOS companion app for Jekyll sites: capture ideas, draft Markdown posts with front matter and export to iCloud Drive or Working Copy."
 permalink: /projects/hiyd
 class: applications
-seo: "Hiyd iOS App The Jekyll Companion App"
 i_name: Download on the iOS App Store
 i_url: "https://apps.apple.com/gb/app/hiyd/id6746853559"
 i_image: "/images/apps/hiyd-banner.png"

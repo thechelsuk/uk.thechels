@@ -1,0 +1,126 @@
+{
+  "_projects/app-demarkable.md": {
+    "seo_title": "Demarkable - DMARC and SMTP TLS Report Viewer for macOS",
+    "seo_description": "Demarkable is a macOS app that turns DMARC aggregate and SMTP TLS reports into a clear view of who sends mail as your domain. Drop in XML, zip or gzip."
+  },
+  "_projects/app-engman.md": {
+    "seo_title": "EngMan - Coaching Cards App for Engineering Managers",
+    "seo_description": "EngMan is an iOS app with 200 coaching cards, prompts and frameworks for engineering managers, covering 1:1s, feedback, retros and stakeholders."
+  },
+  "_projects/app-hiyd.md": {
+    "seo_title": "Hiyd - Jekyll Companion App for iPhone and iPad",
+    "seo_description": "Hiyd is an iOS companion app for Jekyll sites: capture ideas, draft Markdown posts with front matter and export to iCloud Drive or Working Copy."
+  },
+  "_projects/app-lansdown-foundry.md": {
+    "seo_title": "Lansdown Foundry - Make Fonts From Handwriting on iPad",
+    "seo_description": "Lansdown Foundry turns Apple Pencil handwriting into a real, installable font with bold and italic, on iPad and Mac. No account or subscription."
+  },
+  "_projects/app-mltply.md": {
+    "seo_title": "Mltply - Chat-Style Times Tables Maths App for Kids",
+    "seo_description": "Mltply is a chat-style iOS maths app for kids. Buddy the robot runs quick drills on numbers 1 to 12 with instant feedback and streaks to build confidence."
+  },
+  "_projects/app-nuchronic.md": {
+    "seo_title": "Nuchronic - ME/CFS Energy and Symptom Tracker App",
+    "seo_description": "Nuchronic is an iOS energy and symptom tracker for ME/CFS, long COVID and chronic illness, with a crash plan, health records and PDF reports."
+  },
+  "_projects/app-shortkeys.md": {
+    "seo_title": "ShortKeys - Multi-Line Text Replacement App for iOS",
+    "seo_description": "ShortKeys is an iOS text expansion app and custom keyboard. Save multi-line snippets behind short keys for forms, support replies and journaling."
+  },
+  "_projects/app-tomoz.md": {
+    "seo_title": "Tomoz - Plan Tomorrow Today, iOS Calendar Planner",
+    "seo_description": "Tomoz is an iOS app showing only tomorrow's calendar events and reminders in one clean view, with export to Markdown, CSV or JSON for automations."
+  },
+  "_projects/app-unsettled.md": {
+    "seo_title": "Unsettled - Escape Room Spy Puzzle Game for iPhone",
+    "seo_description": "Unsettled is an iPhone escape game hidden in an ordinary-looking phone. No instructions and no free clues: crack every lock to open the sealed messages."
+  },
+  "_projects/drafts.md": {
+    "seo_title": "Drafts Actions - JavaScript Actions for the Drafts App",
+    "seo_description": "A list of free custom actions for the Drafts app on Mac and iOS, written in JavaScript, including OMDB film search, list tools and posting to GitHub."
+  },
+  "_projects/ext-chrome-hiyd.md": {
+    "seo_title": "Hiyd Chrome Extension - Save Linked Quotes for Jekyll",
+    "seo_description": "Hiyd for Chrome captures highlighted text and page metadata as a Markdown file with Jekyll front matter, ready to publish as a linked quote post."
+  },
+  "_projects/ext-chrome-reddit-deletion-tool.md": {
+    "seo_title": "RedemptionX - Delete All Reddit Posts and Comments",
+    "seo_description": "RedemptionX is a free Chromium extension that bulk deletes all your Reddit posts and comments via old Reddit. Irreversible, so use it with care."
+  },
+  "_projects/plugin-homebridge-ysa2.md": {
+    "seo_title": "Homebridge YSA2 - Yale Sync Alarm Plugin for HomeKit",
+    "seo_description": "Homebridge YSA2 is a maintained fork of the YaleSyncAlarm plugin for Homebridge 2.0. Arm and disarm a Yale Sync alarm from HomeKit automations."
+  },
+  "_projects/scripts-python-github-issues.md": {
+    "seo_title": "Delete GitHub Issues in Bulk - Python Script",
+    "seo_description": "An open source Python script to bulk delete closed GitHub issues via the GitHub API, using a classic personal access token, with a dry run mode."
+  },
+  "_projects/scripts-python-rss-chat-manager-for-jekyll.md": {
+    "seo_title": "rss.chat Reply Manager for Jekyll - Python Script",
+    "seo_description": "An open source Python script that matches rss.chat replies to Jekyll posts by URL slug and writes them to _data/replies for use in your templates."
+  },
+  "_projects/scripts-python-youtube-csv-to-opml.md": {
+    "seo_title": "Convert YouTube Takeout CSV to OPML - Python Script",
+    "seo_description": "An open source Python script that converts Google Takeout YouTube subscription CSV files to OPML, so you can follow channels in any RSS reader."
+  },
+  "_projects/template-feed-archiver.md": {
+    "seo_title": "RSS and Atom Feed Archiver - GitHub Template Repo",
+    "seo_description": "A GitHub template repo that archives any RSS or Atom feed into a _data folder on a daily GitHub Actions schedule, committing new items as they appear."
+  },
+  "_projects/template-mta-sts-txt-subdomain.md": {
+    "seo_title": "MTA-STS on GitHub Pages - Template Repo for mta-sts.txt",
+    "seo_description": "A GitHub template repo to host an mta-sts.txt policy on an mta-sts subdomain with GitHub Pages: copy it, set CNAME and MX records, then add DNS."
+  },
+  "_projects/themes-nnw.md": {
+    "seo_title": "NetNewsWire Themes - Free Theme Bundle for NNW",
+    "seo_description": "Free, open source themes for the NetNewsWire RSS reader on Mac and iOS. Tap a link on your device to install, with version history on GitHub."
+  },
+  "_projects/web-boinc.md": {
+    "seo_title": "BOINC @ thechels - Distributed Computing Team Page",
+    "seo_description": "A simple web page for a BOINC team, where members donate spare computing power to university research in medicine, earth sciences and astronomy."
+  },
+  "_projects/web-cheltenham-open-data.md": {
+    "seo_title": "Cheltenham Open Data - Local Data and RSS Feeds",
+    "seo_description": "Cheltenham open data project republishing local public data as RSS feeds: threat levels, food banks, flood warnings, local news and useful numbers."
+  },
+  "_projects/web-embed.md": {
+    "seo_title": "Embed @ thechels - YouTube Embeds for NetNewsWire",
+    "seo_description": "A static page that embeds YouTube videos via youtube-nocookie so NetNewsWire themes can play videos inline, fixing the error 153 referrer issue."
+  },
+  "_projects/web-feeds.md": {
+    "seo_title": "Feeds - RSS Aggregator for .NET, Insurance and Security",
+    "seo_description": "An archived RSS aggregator built with Jekyll, Python and GitHub Actions, combining .NET, insurance tech and security feeds into pages by topic."
+  },
+  "_projects/web-hiyd.md": {
+    "seo_title": "Hiyd.uk - Marketing Site for the Hiyd Jekyll App",
+    "seo_description": "Hiyd.uk is a one page marketing site for the Hiyd Jekyll companion app, built with HTML and CSS on GitHub Pages, with features and download links."
+  },
+  "_projects/web-links.md": {
+    "seo_title": "Links - Free Link-in-Bio Site on GitHub Pages",
+    "seo_description": "A free Linktree alternative: a one page Jekyll link-in-bio microsite with Font Awesome icons, hosted on GitHub Pages for sharing on social media."
+  },
+  "_projects/web-nuchronic.md": {
+    "seo_title": "Nuchronic.uk - Webring for the Chronically Ill",
+    "seo_description": "Nuchronic.uk is an indie web webring and aggregator for people with chronic illness, collecting blogs, podcasts and YouTube channels in one place."
+  },
+  "_projects/web-search.md": {
+    "seo_title": "Search Router - Browser Homepage With !Bang Shortcuts",
+    "seo_description": "A browser homepage and default search engine that routes queries with !bangs and shortcodes to any search engine or site search, in plain HTML and JS."
+  },
+  "_projects/web-secopsnews.md": {
+    "seo_title": "SecOpsNews - Security RSS Feeds as GitHub Issues",
+    "seo_description": "SecOpsNews republishes RSS feeds from security news sites as GitHub issues, for engineering leaders and security professionals to track and triage."
+  },
+  "_projects/web-tools.md": {
+    "seo_title": "Tools - Free Browser Utilities and Calculators",
+    "seo_description": "A toolbox of free browser tools: file conversion, charts, Monte Carlo simulations, a weather report, URL slug generator and rolling average calculator."
+  },
+  "_projects/worker-cf-emailer.md": {
+    "seo_title": "CF Worker Emailer - Contact Form via Cloudflare Workers",
+    "seo_description": "A Cloudflare Worker that sends contact form emails from a static site using the Resend API, with Turnstile and other spam protections at the edge."
+  },
+  "_projects/worker-cf-redirect-x.md": {
+    "seo_title": "CF Worker X Redirect - URL Redirects at the Edge",
+    "seo_description": "A Cloudflare Worker that redirects video links from NetNewsWire themes to an iOS player with picture-in-picture, working around x-callback-url limits."
+  }
+}

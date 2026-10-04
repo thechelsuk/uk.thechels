@@ -1,8 +1,9 @@
 ---
 layout: projects
 title: rss.chat reply manager for Jekyll - Python Script
+seo_title: "rss.chat Reply Manager for Jekyll - Python Script"
+seo_description: "An open source Python script that matches rss.chat replies to Jekyll posts by URL slug and writes them to _data/replies for use in your templates."
 permalink: /projects/scripts-python-rss-chat-manager-for-jekyll
-seo: "rss.chat reply manager for Jekyll - Python Script"
 class: scripts
 i_name: View
 i_url: "https://github.com/thechelsuk/rss-chat-reply-manager-for-jekyll/"

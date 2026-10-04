@@ -1,9 +1,10 @@
 ---
 layout: projects
 title: CF Worker Emailer
+seo_title: "CF Worker Emailer - Contact Form via Cloudflare Workers"
+seo_description: "A Cloudflare Worker that sends contact form emails from a static site using the Resend API, with Turnstile and other spam protections at the edge."
 permalink: /projects/cf-worker-emailer
 class: workers
-seo: email form cloudflare worker"
 i_name: GitHub Source
 i_url: "https://github.com/thechelsuk/cf-worker-emailer"
 summary: "A Cloudflare worker to handle form submissions and send emails using resend.com's API."

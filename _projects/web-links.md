@@ -1,9 +1,10 @@
 ---
 layout: projects
 title: Links
+seo_title: "Links - Free Link-in-Bio Site on GitHub Pages"
+seo_description: "A free Linktree alternative: a one page Jekyll link-in-bio microsite with Font Awesome icons, hosted on GitHub Pages for sharing on social media."
 permalink: /projects/links
 class: websites
-seo: "A Link tree clone for all your link-in-bio needs hosted on GitHub Pages for Free."
 i_name: Visit
 i_url: "https://links.thechels.uk"
 summary: "A simple one page Jekyll site with a link tree or link-in-bio style links as a microsite using Font Awesome icon pack."

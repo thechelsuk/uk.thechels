@@ -1,9 +1,10 @@
 ---
 layout: projects
 title: ShortKeys - Multi-line Text Replacement Snippets App for iOS
+seo_title: "ShortKeys - Multi-Line Text Replacement App for iOS"
+seo_description: "ShortKeys is an iOS text expansion app and custom keyboard. Save multi-line snippets behind short keys for forms, support replies and journaling."
 permalink: /projects/shortkeys
 class: applications
-seo: "ShortKeys iOS App The Multi-line Text Replacement App"
 i_name: Download on the iOS App Store
 i_url: "https://apps.apple.com/gb/app/shortkeys/id6755919256"
 i_image: "/images/apps/shortkeys-banner.png"

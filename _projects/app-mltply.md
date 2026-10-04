@@ -1,9 +1,10 @@
 ---
 layout: projects
 title: Mltply - Chat-like Kid's Maths App
+seo_title: "Mltply - Chat-Style Times Tables Maths App for Kids"
+seo_description: "Mltply is a chat-style iOS maths app for kids. Buddy the robot runs quick drills on numbers 1 to 12 with instant feedback and streaks to build confidence."
 permalink: /projects/mltply
 class: applications
-seo: "Mltply iOS App The chat-like maths app for kids"
 i_name: Download on the iOS App Store
 i_url: "https://apps.apple.com/gb/app/mltply/id6747147316"
 i_image: "/images/apps/mltply-banner.png"

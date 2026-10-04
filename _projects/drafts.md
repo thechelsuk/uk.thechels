@@ -1,8 +1,9 @@
 ---
 layout: projects
 title: Drafts Actions List
+seo_title: "Drafts Actions - JavaScript Actions for the Drafts App"
+seo_description: "A list of free custom actions for the Drafts app on Mac and iOS, written in JavaScript, including OMDB film search, list tools and posting to GitHub."
 permalink: /projects/drafts
-seo: "Drafts actions master list"
 class: scripts
 i_name: View
 i_url: "https://actions.getdrafts.com/search?utf8=✓&q=thechelsuk"

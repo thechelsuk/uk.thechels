@@ -1,9 +1,10 @@
 ---
 layout: projects
 title: CF Worker X Redirect
+seo_title: "CF Worker X Redirect - URL Redirects at the Edge"
+seo_description: "A Cloudflare Worker that redirects video links from NetNewsWire themes to an iOS player with picture-in-picture, working around x-callback-url limits."
 permalink: /projects/cf-worker-x--redirect
 class: workers
-seo: "extension.app redirect cloudflare worker"
 i_name: GitHub Source
 i_url: "https://github.com/thechelsuk/cf-worker-x-redirect"
 summary: "A Cloudflare worker to solve a niche problem of redirecting urls to an `x-callback-url` on iOS when an app doesn't support them natively."

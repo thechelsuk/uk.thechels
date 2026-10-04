@@ -1,8 +1,9 @@
 ---
 layout: projects
 title: "Track a RSS/Atom feed on GitHub - Template Repo"
+seo_title: "RSS and Atom Feed Archiver - GitHub Template Repo"
+seo_description: "A GitHub template repo that archives any RSS or Atom feed into a _data folder on a daily GitHub Actions schedule, committing new items as they appear."
 permalink: /projects/create-archive-of-feed-on-github-with-this-template
-seo: "Create a copy of this repo to fetch and archive a feed on GitHub with this template"
 class: templates
 i_name: View
 i_url: "https://github.com/thechelsuk/template-feed-archiver"
