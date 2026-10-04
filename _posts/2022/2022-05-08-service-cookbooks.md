@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-08
 link: https://lethain.com/service-cookbooks/
 title: Service cookbooks
+seo_title: "Service Cookbooks - Templated Requests for Teams"
+seo_description: "Linking Will Larson on service cookbooks, and how I set up Jira issue types as templated requests in under five minutes, easy to iterate upon."
 type: linked
 cited: Will Larson (Lethain)
 ---

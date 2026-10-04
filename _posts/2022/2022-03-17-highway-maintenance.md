@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Highway Maintenance
+seo_title: "Highway Maintenance - Engineering Teams as a Motorway"
+seo_description: "Running engineering teams like a motorway: an analogy from my time at Seccl, picturing engineers as cars and culture as the road everyone maintains."
 
 type: blog
 ---

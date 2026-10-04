@@ -1,5 +1,7 @@
 ---
 title: Laws of the Game
+seo_title: "Laws of the Game - Hofstadter, Parkinson and Conway"
+seo_description: "Three laws every software team should know: Hofstadter's law on estimates, Parkinson's law on work filling time, and Conway's law on system design."
 layout: post
 date: 2022-05-02
 

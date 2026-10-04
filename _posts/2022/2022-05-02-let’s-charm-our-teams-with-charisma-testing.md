@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-02
 link: https://callumakehurstryansblog.wordpress.com/2021/09/08/lets-charm-our-teams-with-charisma-testing/
 title: Let’s charm our teams with Charisma testing
+seo_title: "Charisma Testing - Finding What Is Good in a Product"
+seo_description: "Linking Callum Akehurst-Ryan on charisma testing: sessions that call out the good in a product and its it factor, rather than just hunting for bugs."
 type: linked
 cited: Callum Akehurst-Ryan
 ---

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Vegan Cheesecake
+seo_title: "Vegan Chocolate Cheesecake Recipe With Stem Ginger"
+seo_description: "An easy vegan chocolate cheesecake with a crushed biscuit base, dairy-free chocolate, soya yoghurt and a hint of stem ginger. Dairy free and indulgent."
 tag:
 type: blog
 ---

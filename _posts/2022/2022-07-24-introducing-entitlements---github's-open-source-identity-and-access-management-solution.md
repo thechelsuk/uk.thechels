@@ -3,6 +3,8 @@ layout: post
 date: 2022-07-24
 link: https://github.blog/2022-06-09-introducing-entitlements-githubs-open-source-identity-and-access-management-solution/
 title: GitHub's Open Source Identity Management Entitlements
+seo_title: "Entitlements - GitHub's Open Source Access Management"
+seo_description: "Linking GitHub's Entitlements, its open source identity and access management tool that makes access requests and approvals easy to track and audit."
 type: linked
 cited: GitHub
 ---

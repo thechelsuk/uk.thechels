@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-08
 link: https://lethain.com/should-you-prioritize-infrastructure-costs/
 title: Should you prioritize infrastructure costs
+seo_title: "Should You Prioritise Infrastructure Costs?"
+seo_description: "Linking Will Larson on whether cutting infrastructure spend is a good use of time, depending on whether your company is early-stage or established."
 type: linked
 cited: Will Larson (Lethain)
 ---

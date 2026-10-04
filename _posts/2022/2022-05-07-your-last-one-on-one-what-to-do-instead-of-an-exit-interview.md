@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-07
 link: https://jacobian.org/2022/apr/7/your-last-o3/
 title: Your last one-on-one what to do instead of an exit interview
+seo_title: "Your Last One-on-One - Instead of an Exit Interview"
+seo_description: "Linking Jacob Kaplan-Moss: replace exit interviews with a final one-on-one, which works if you have made it safe to raise problems all along."
 type: linked
 cited: Jacob Kaplan-Moss
 ---

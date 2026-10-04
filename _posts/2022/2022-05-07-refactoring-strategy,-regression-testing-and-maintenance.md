@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-07
 link: https://www.smashingmagazine.com/2021/08/refactoring-css-strategy-regression-testing-maintenance-part2/ https://cate.blog/2022/04/04/the-anatomy-of-a-11/amp/
 title: Refactoring Strategy, Regression Testing And Maintenance
+seo_title: "CSS Refactoring Strategy, Regression Testing and Upkeep"
+seo_description: "Linking Smashing Magazine on refactoring CSS: a strategy, regression testing and transparent communication, since refactors show few visible changes."
 type: linked
 cited: Smashing Magazine
 ---

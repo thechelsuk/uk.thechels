@@ -1,5 +1,7 @@
 ---
 title: Using a label to trigger automation with GitHub Actions
+seo_title: "Trigger GitHub Actions Automation With an Issue Label"
+seo_description: "How I use GitHub Issues as a CMS for this Jekyll site: an issue label triggers a GitHub Action that makes a Markdown post or adds data to a YAML file."
 layout: post
 date: 2022-06-04
 

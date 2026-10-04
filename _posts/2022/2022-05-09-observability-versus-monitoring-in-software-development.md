@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-09
 link: https://circleci.com/blog/observability-vs-monitoring/
 title: Observability versus monitoring in software development
+seo_title: "Observability vs Monitoring in Software Development"
+seo_description: "Linking CircleCI on observability versus monitoring: monitoring tracks key events and metrics to spot problems, a subset of wider observability."
 type: linked
 cited: CircleCI
 ---

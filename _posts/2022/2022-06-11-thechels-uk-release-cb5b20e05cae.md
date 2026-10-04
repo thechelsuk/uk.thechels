@@ -2,6 +2,8 @@
 layout: post
 date: "2022-06-11"
 title: Thechels.uk Version 1.2.0
+seo_title: "thechels.uk Version 1.2.0 Release Notes"
+seo_description: "Release notes for version 1.2.0 of the thechels.uk website, including dependency bumps from Dependabot and new podcast content added to the site."
 type: release
 link: https://github.com/thechelsuk/uk.thechels/releases/tag/1.2.0
 release_id: tag:github.com,2008:Repository/107385143/1.2.0

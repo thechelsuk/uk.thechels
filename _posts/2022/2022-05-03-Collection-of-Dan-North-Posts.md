@@ -1,5 +1,7 @@
 ---
 title: Collection of Dan North Posts
+seo_title: "A Collection of Dan North Posts on BDD and Agile"
+seo_description: "A collection of favourite Dan North articles in one place, including BDD is like TDD if, the lady in the taxi parable of metrics and more."
 layout: post
 date: 2022-05-03
 

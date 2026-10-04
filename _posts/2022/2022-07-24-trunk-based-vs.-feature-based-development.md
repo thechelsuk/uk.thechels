@@ -3,6 +3,8 @@ layout: post
 date: 2022-07-24
 link: https://circleci.com/blog/trunk-vs-feature-based-dev/
 title: Trunk-based vs. feature-based development
+seo_title: "Trunk-Based vs Feature-Based Development"
+seo_description: "Linking CircleCI on trunk-based versus feature branch development, how each works with code review, and when to choose one over the other."
 type: linked
 cited: CircleCI
 ---

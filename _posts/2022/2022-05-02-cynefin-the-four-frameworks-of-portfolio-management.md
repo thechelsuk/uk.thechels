@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-02
 link: https://itrevolution.com/cynefin-four-frameworks-of-portfolio-management/
 title: Cynefin the Four Frameworks of Portfolio Management
+seo_title: "Cynefin and the Four Frameworks of Portfolio Management"
+seo_description: "Linking IT Revolution on the Cynefin framework by Dave Snowden, which helps decision making in complex systems by placing problems into domains."
 type: linked
 cited: IT Revolution
 ---

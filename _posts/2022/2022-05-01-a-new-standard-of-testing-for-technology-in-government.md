@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-01
 link: https://technology.blog.gov.uk/2021/10/08/a-new-standard-of-testing-for-gov-uk/
 title: A new standard of testing for Technology in government
+seo_title: "A New Standard of Testing for GOV.UK"
+seo_description: "Linking the GOV.UK technology blog on how it tests an ecosystem of 70 Ruby on Rails apps, from unit and integration tests to end-to-end testing."
 type: linked
 cited: Gov.uk
 ---

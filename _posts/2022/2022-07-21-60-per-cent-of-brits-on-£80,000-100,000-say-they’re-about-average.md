@@ -3,6 +3,8 @@ layout: post
 date: 2022-07-21
 link: https://www.newstatesman.com/society/2022/07/60-per-cent-brits-average-income
 title: 60 per cent of Brits on £80,000-100,000 say they’re about average
+seo_title: "60% of Brits on £80k-£100k Think They Earn Average Pay"
+seo_description: "Linking the New Statesman: 60 per cent of Brits earning £80,000 to £100,000 think they are about average, and why social circles skew our view."
 type: linked
 cited: The New Statesman
 ---

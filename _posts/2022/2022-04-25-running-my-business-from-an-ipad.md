@@ -3,6 +3,8 @@ layout: post
 date: 2022-04-25
 link: https://www.karllhughes.com/posts/ipad-entrepreneur
 title: Running My Business From an iPad
+seo_title: "Running a Business From an iPad - Karl Hughes"
+seo_description: "Linking Karl Hughes on running his business from an iPad, and why I could get close as an engineering manager living in Teams, Slack and GitHub."
 type: linked
 cited: Karl Hughes
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-08
 link: https://lethain.com/measures-of-engineering-impact/
 title: Measures of engineering impact
+seo_title: "Measures of Engineering Impact - Will Larson"
+seo_description: "Linking Will Larson on measuring engineering impact, and why Accelerate's productivity metrics optimise process but do not grade business impact."
 type: linked
 cited: Will Larson (Lethain)
 ---

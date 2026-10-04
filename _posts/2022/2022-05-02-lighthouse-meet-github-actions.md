@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-02
 link: https://blog.johnnyreilly.com/2022/03/20/lighthouse-meet-github-actions
 title: Lighthouse meet GitHub Actions
+seo_title: "Run Lighthouse Audits in GitHub Actions"
+seo_description: "Linking Johnny Reilly on adding Lighthouse performance and usability audits to a GitHub Actions workflow, so every build is checked automatically."
 type: linked
 cited: Johnny Reilly
 ---

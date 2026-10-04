@@ -3,6 +3,8 @@ layout: post
 date: 2022-07-21
 link: https://www.professionaladviser.com/news/4053507/seccl-hires-adam-jones-cto-oversee-tech-vision
 title: Seccl hires Adam Jones as CTO
+seo_title: "Seccl Hires Adam Jones as Chief Technology Officer"
+seo_description: "Linking Professional Adviser: Octopus-owned platform Seccl hired Adam Jones as its first CTO, responsible for its future technology vision."
 type: linked
 cited: Professional Adviser
 ---

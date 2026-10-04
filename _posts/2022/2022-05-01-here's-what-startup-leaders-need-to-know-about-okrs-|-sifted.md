@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-01
 link: https://sifted.eu/articles/startup-leaders-okrs/
 title: What startup leaders need to know about OKRs
+seo_title: "What Startup Leaders Need to Know About OKRs"
+seo_description: "Linking Sifted on OKRs for startups: ambitious yet realistic objectives tied to business value, with examples from N26 and Zalando."
 type: linked
 cited: Sifted EU
 ---

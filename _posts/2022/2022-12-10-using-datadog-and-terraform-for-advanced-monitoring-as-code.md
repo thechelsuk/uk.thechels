@@ -3,6 +3,8 @@ layout: post
 date: 2022-12-10
 link: https://www.devopsgroup.com/blog/datadog-terraform-advanced-monitoring-as-code/
 title: Using Datadog and Terraform for advanced monitoring as code
+seo_title: "Datadog and Terraform for Monitoring as Code"
+seo_description: "Linking DevOpsGroup on using Datadog with Terraform for monitoring as code, with templated monitors for each technology and per-environment overrides."
 type: linked
 cited: DevOpsGroup
 ---

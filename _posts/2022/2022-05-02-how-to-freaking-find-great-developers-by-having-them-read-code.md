@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-02
 link: https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/
 title: How to Freaking Find Great Developers By Having Them Read Code
+seo_title: "Hire Great Developers by Having Them Read Code"
+seo_description: "Linking an article on hiring developers by asking candidates to read code, since raw coding ability is the most important quality and hardest to teach."
 type: linked
 cited: Freaking Rectangle
 ---

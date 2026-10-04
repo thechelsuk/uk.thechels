@@ -3,6 +3,8 @@ layout: post
 date: 2022-04-30
 link: https://www.darkreading.com/edge-ask-the-experts/what-steps-do-i-take-to-shift-left-in-security
 title: Shift Left Security
+seo_title: "Shift Left Security - Building Defences in Early"
+seo_description: "Linking Dark Reading on shifting security left: plan and build layered defences early with policy as code and Terraform, when it is cheaper and easier."
 type: linked
 cited: Dark Reading
 ---

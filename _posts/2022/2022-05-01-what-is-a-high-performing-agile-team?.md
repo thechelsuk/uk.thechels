@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-01
 link: https://www.mountaingoatsoftware.com/blog/what-is-a-high-performing-agile-team
 title: What Is a High-Performing Agile Team?
+seo_title: "What Is a High-Performing Agile Team? - Mike Cohn"
+seo_description: "Linking Mike Cohn on high-performing agile teams: shared leadership, minimal process, trust, urgency, healthy conflict, morale and owning outcomes."
 type: linked
 cited: Mike Cohn
 ---

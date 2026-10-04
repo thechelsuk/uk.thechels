@@ -3,6 +3,8 @@ layout: post
 date: 2022-07-24
 link: https://successfulsoftware.net/2022/06/19/no-one-knows-what-they-are-doing/
 title: No-one knows what they are doing
+seo_title: "No One Knows What They Are Doing"
+seo_description: "Linking Successful Software on the realisation that the adults running the world do not really know what they are doing either. Oddly reassuring."
 type: linked
 cited: Successful Software
 ---

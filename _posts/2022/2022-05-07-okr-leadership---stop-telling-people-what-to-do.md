@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-07
 link: https://jeffgothelf.com/blog/okr-leadership-dont-tell-me-what-to-do/
 title: OKR Leadership - Stop telling people what to do
+seo_title: "OKR Leadership - Stop Telling People What to Do"
+seo_description: "Linking Jeff Gothelf on OKR leadership: key results must be outcomes, leaders approve them, and teams, not leaders, decide on the solutions."
 type: linked
 cited: Jeff Gothelf
 ---

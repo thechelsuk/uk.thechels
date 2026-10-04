@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-02
 link: https://www.karllhughes.com/posts/direct-reports
 title: Managing Direct Reports at a Startup
+seo_title: "Managing Direct Reports at a Startup - Karl Hughes"
+seo_description: "Linking Karl Hughes on managing direct reports at a startup, where effective leadership improves productivity and morale but training is rare."
 type: linked
 cited: Karl Hughes
 ---

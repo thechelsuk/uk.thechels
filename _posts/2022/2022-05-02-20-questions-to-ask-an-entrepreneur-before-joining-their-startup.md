@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-02
 link: https://www.karllhughes.com/posts/questions-to-ask-entrepreneur
 title: 20 Questions to Ask an Entrepreneur Before Joining Their Startup
+seo_title: "20 Questions to Ask Before Joining a Startup"
+seo_description: "Linking Karl Hughes on 20 questions to ask a founder before joining their startup, where early employees juggle loosely defined roles."
 type: linked
 cited: Karl Hughes
 ---

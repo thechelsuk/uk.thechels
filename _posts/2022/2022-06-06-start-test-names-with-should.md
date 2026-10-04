@@ -3,6 +3,8 @@ layout: post
 date: 2022-06-06
 link: https://paperless.blog/start-test-names-with-should
 title: Start test names with should
+seo_title: "Start Test Names With Should - Clearer Unit Tests"
+seo_description: "Linking a tip to start test names with should, and how I prefix with the function name, like add_should_return_sum_of_values, to spot gaps."
 type: linked
 cited: paperless
 ---

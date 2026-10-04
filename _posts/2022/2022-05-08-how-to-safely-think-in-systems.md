@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-08
 link: https://lethain.com/how-to-safely-think-in-systems/
 title: How to safely think in systems
+seo_title: "How to Safely Think in Systems - Will Larson"
+seo_description: "Linking Will Larson on safely applying systems thinking from Donella Meadows' Thinking in Systems, starting with a model and validating it carefully."
 type: linked
 cited: Will Larson (Lethain)
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-02
 link: https://about.sourcegraph.com/blog/remote-work-calendar/
 title: How 7 engineers rethought their work calendars
+seo_title: "How 7 Engineers Rethought Their Work Calendars"
+seo_description: "Linking Sourcegraph on how seven remote engineers redesigned their calendars from first principles, so their jobs work for them rather than against."
 type: linked
 cited: Sourcegraph
 ---

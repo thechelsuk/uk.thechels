@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-20
 link: https://circleci.com/blog/what-is-a-software-bill-of-materials/
 title: Software bill of materials - What it is and why you need one
+seo_title: "Software Bill of Materials (SBOM) - Why You Need One"
+seo_description: "Linking CircleCI on SBOMs: like a recipe's ingredients, a software bill of materials lists every component to help reduce supply chain attacks."
 type: linked
 cited: CircleCI
 ---

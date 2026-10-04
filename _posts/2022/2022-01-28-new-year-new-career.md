@@ -1,6 +1,8 @@
 ---
 layout: post
 title: New year, new career
+seo_title: "New Year, New Career - Tips for Tech Job Interviews"
+seo_description: "The new year is a good time to reflect on your career. Tips for preparing for tech job interviews, whether you want a new role or a career change."
 
 type: blog
 ---

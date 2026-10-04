@@ -3,6 +3,8 @@ layout: post
 date: 2022-07-24
 link: https://jacobian.org/2022/jun/17/dora-metrics/
 title: DORA Metrics - Measuring Engineering Team Performance
+seo_title: "DORA Metrics - Measuring Engineering Team Performance"
+seo_description: "Linking Jacob Kaplan-Moss on DORA metrics: they will work for most teams, so use them unless you have evidence they do not work for yours."
 type: linked
 cited: Jacob Kaplan-Moss
 ---

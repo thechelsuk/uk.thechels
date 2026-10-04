@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-01
 link: https://shoreline.io/blog/runbooks-vs-playbooks
 title: Runbooks vs Playbooks - explaining the difference
+seo_title: "Runbooks vs Playbooks - Explaining the Difference"
+seo_description: "Linking Shoreline on runbooks versus playbooks: runbooks are tactical steps to complete a known task, while playbooks set out a broader strategy."
 type: linked
 cited: Shoreline
 ---

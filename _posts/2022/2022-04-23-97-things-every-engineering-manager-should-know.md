@@ -2,6 +2,8 @@
 layout: post
 date: 2022-04-22
 title: 97 Things Every Engineering Manager Should Know
+seo_title: "97 Things Every Engineering Manager Should Know"
+seo_description: "A quote from 97 Things Every Engineering Manager Should Know by Camille Fournier, on asking reports to track their work, timelines and impact."
 link: https://amzn.eu/iuYJEFJ
 type: linked
 cited: Camille Fournier

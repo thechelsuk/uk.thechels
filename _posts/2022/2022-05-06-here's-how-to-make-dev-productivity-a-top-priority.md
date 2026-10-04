@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-06
 link: https://sifted.eu/articles/developer-productivity-top-priority/
 title: Here's how to make dev productivity a top priority
+seo_title: "Making Developer Productivity a Priority - A Critique"
+seo_description: "My take on a Sifted article on developer productivity using velocity and burndowns: give teams scope, a north star and space to experiment instead."
 type: linked
 cited: Sifted EU
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2022-06-12
 link: https://lethain.com/career-checkup/
 title: Career checkup template
+seo_title: "Career Checkup Template - Will Larson"
+seo_description: "Linking Will Larson's career checkup template, a reusable self-diagnosis exercise similar to a career narrative but focused on your own reflection."
 type: linked
 cited: Will Larson (Lethain)
 ---

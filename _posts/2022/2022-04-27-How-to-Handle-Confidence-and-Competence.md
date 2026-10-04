@@ -1,5 +1,7 @@
 ---
 title: How to Handle Confidence and Competence
+seo_title: "How to Lead Based on Confidence and Competence"
+seo_description: "A simple leadership model: let go of people who are confident and competent, coach the competent but unsure, and retrain or support everyone else."
 date: 2022-04-27
 layout: post
 

@@ -3,6 +3,8 @@ layout: post
 date: 2022-05-02
 link: https://itrevolution.com/okrs-from-micromanagement-misery-to-finding-flow/
 title: OKRs and DevOps - From Micromanagement to Finding Flow
+seo_title: "OKRs and DevOps - From Micromanagement to Flow"
+seo_description: "Linking IT Revolution on OKRs and DevOps: keep to around three to five OKRs and let them cascade across the organisation rather than micromanaging."
 type: linked
 cited: IT Revolution
 ---
