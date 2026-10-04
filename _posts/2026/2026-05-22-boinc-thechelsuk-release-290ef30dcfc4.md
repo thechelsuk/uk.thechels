@@ -2,6 +2,8 @@
 layout: post
 date: 2026-05-22 23:03
 title: Boinc @ thechelsuk Version 1.0.1
+seo_title: "BOINC @ thechelsuk Version 1.0.1 Release Notes"
+seo_description: "Release notes for BOINC @ thechelsuk 1.0.1, with minor supporting Markdown file updates and a Dependabot bump to the lychee link checker."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.boinc/releases/tag/1.0.1

@@ -2,9 +2,10 @@
 layout: post
 date: 2026-05-07 21:00
 title: "RSS Feed Discovery in well known is better than guessing"
+seo_title: "RSS Feed Discovery via .well-known Beats Guessing"
+seo_description: "Linking Stuart Breckenridge on RSS feed discovery with .well-known/feed-menu.json. I like it, and have added one to this site to list my feeds."
 cited: "Stuart Breckenridge"
 link: "https://stuartbreckenridge.net/2026-05-04-moving-feed-discovery-to-well-known/"
-seo: "RSS feed discovery in .well-known/feed-menu.json"
 type: linked
 ---
 

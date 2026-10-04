@@ -2,6 +2,8 @@
 layout: post
 date: 2026-06-26 23:17
 title: Film Club Friday for June-2026
+seo_title: "Film Club Friday - Films Watched in June 2026"
+seo_description: "The films I watched in June 2026 with ratings, plus a backlog of older films seen but never logged. I wish Netflix could hide watched films."
 syndicate: false
 type: film
 ---

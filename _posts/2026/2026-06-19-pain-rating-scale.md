@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-06-18 04:05
 title: Pain Rating Scale
+seo_title: "Pain Rating Scale - Measuring Pain for Doctors"
+seo_description: "Linking a pain rating scale from Alberta Health: everyone feels pain differently, and a scale helps doctors understand and plan treatment."
 link: https://myhealth.alberta.ca/Health/pages/conditions.aspx?hwid=stp1310
 cited: Alberta.ca
 type: linked

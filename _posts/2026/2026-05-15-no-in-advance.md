@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-05-15 16:08
 title: No in advance
+seo_title: "Write Your No in Advance - Derek Sivers"
+seo_description: "Linking Derek Sivers on writing a considerate but decisive no in advance. I keep canned replies in my ShortKeys app, and this fits right in."
 link: https://sive.rs/n0
 cited: Derek Sivers
 type: linked

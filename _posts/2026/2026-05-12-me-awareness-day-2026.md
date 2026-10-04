@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-05-12 17:11
 title: ME Awareness Day 2026
+seo_title: "ME Awareness Day 2026 - 12 May"
+seo_description: "Linking ME Research UK on ME Awareness Week, held every May around International ME Awareness Day on 12 May, to raise awareness of ME/CFS."
 link: https://www.meresearch.org.uk/me-awareness-week-2026/
 cited: ME Research
 type: linked

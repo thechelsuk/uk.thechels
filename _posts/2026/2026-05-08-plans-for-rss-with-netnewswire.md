@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-05-08 22:10
 title: Plans for RSS with NetNewsWire
+seo_title: "My Plans for RSS With NetNewsWire"
+seo_description: "The latest NetNewsWire update is fast and syncs quickly even with many feeds. My plans for RSS, including the custom themes I have been building."
 type: blog
 ---
 

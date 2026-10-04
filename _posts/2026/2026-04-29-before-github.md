@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-29 09:10
 title: Before GitHub
+seo_title: "Before GitHub - Armin Ronacher on Open Source Archives"
+seo_description: "Linking Armin Ronacher: GitHub became open source's archive by accident, and if it stops being the centre, we cannot assume that archive survives."
 link: https://lucumr.pocoo.org/2026/4/28/before-github/
 cited: Armin Ronacher
 type: linked

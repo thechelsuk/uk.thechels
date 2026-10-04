@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-22 10:52
 title: Chelsea FC Women to call Stamford Bridge home
+seo_title: "Chelsea FC Women to Call Stamford Bridge Home"
+seo_description: "Linking Chelsea: the women's team will play at Stamford Bridge. A good move, though some world-class players were notably absent from the media."
 link: https://www.chelseafc.com/en/news/article/chelsea-fc-women-to-call-stamford-bridge-home-a-new-era-begins
 cited: Chelsea FC Women
 type: linked

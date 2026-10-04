@@ -2,6 +2,8 @@
 layout: post
 date: "2026-04-20"
 title: Thechels.uk Version 1.11.0
+seo_title: "thechels.uk Version 1.11.0 - Daily Briefing as Posts"
+seo_description: "Release notes for thechels.uk 1.11.0, moving the daily briefing into posts with its own post type, so each day's rundown is archived."
 type: release
 link: https://github.com/thechelsuk/uk.thechels/releases/tag/1.11.0
 release_id: tag:github.com,2008:Repository/107385143/1.11.0

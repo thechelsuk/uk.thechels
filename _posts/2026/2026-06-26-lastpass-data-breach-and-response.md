@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-06-26 01:00
 title: LastPass Data Breach and Response
+seo_title: "LastPass Data Breach via Third-Party Klue"
+seo_description: "Linking LastPass on another breach, via an incident at third-party market intelligence platform Klue. A password manager should be better at this."
 link: https://blog.lastpass.com/posts/klue-supply-chain-incident-and-lastpass-response
 cited: LastPass
 type: linked

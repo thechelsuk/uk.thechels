@@ -3,6 +3,8 @@ layout: post
 date: 2026-04-04 11:00
 link: https://css-naked-day.org/
 title: CSS Naked Day
+seo_title: "CSS Naked Day - Stripping Styles on 9 April"
+seo_description: "Linking CSS Naked Day, held on 9 April each year, when sites go without CSS to promote web standards. Not this year for me; reminder set for 2027."
 type: linked
 cited: CSS Naked Day
 ---

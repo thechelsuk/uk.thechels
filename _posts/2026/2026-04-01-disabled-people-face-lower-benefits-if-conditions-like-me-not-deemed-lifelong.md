@@ -3,6 +3,8 @@ layout: post
 date: 2026-04-01
 link: https://www.theguardian.com/politics/2026/mar/29/disabled-benefit-claimants-face-lower-payments-if-conditions-not-deemed-lifelong-charities-say
 title: Disabled people face lower benefits if not lifelong
+seo_title: "Lower Benefits If Conditions Like ME Are Not Lifelong"
+seo_description: "Linking The Guardian: new disabled benefit claimants face cuts if conditions are not deemed lifelong. As if poverty improves health outcomes."
 type: linked
 cited: The Guardian
 tags:

@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-13 07:38
 title: New tax year, new plan
+seo_title: "New Tax Year, New Plan - UK ISA Changes"
+seo_description: "Linking a new tax year plan on the indie web. A reminder that cash ISA limits for under-65s fall to £12k next year, but £20k can still be used."
 link: https://thoughts.uncountable.uk/new-tax-year-new-plan/
 type: linked
 cited: Chris

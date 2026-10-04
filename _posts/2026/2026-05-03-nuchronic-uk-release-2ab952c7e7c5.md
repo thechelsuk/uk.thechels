@@ -2,6 +2,8 @@
 layout: post
 date: 2026-05-03 14:37
 title: Nuchronic.uk Version 1.1.0
+seo_title: "Nuchronic.uk Version 1.1.0 - Webmentions and Top Page"
+seo_description: "Nuchronic.uk 1.1.0 adds fediverse support and webmentions, better scheduling, a top 30 page ranked by webmentions, and Bluesky and Mastodon."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.nuchronic/releases/tag/1.1.0

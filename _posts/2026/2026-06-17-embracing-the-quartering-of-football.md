@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-06-17 20:41
 title: Embracing the quartering of football
+seo_title: "Embracing the Quartering of Football"
+seo_description: "World Cup hydration breaks split games into quarters. Why football should embrace four quarters, with fixed ball-in-play time and a timekeeper."
 type: blog
 ---
 

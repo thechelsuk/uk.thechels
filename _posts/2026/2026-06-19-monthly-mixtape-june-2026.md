@@ -2,6 +2,8 @@
 layout: post
 date: 2026-06-19
 title: Monthly Mixtape - Jun 2026
+seo_title: "Monthly Mixtape June 2026 - Moloko, Placebo and More"
+seo_description: "My June 2026 mixtape of songs on repeat, including Kitty, Daisy and Lewis, It's Nothing by Moloko and English Summer Rain by Placebo."
 type: mixtape
 syndicate: true
 ---

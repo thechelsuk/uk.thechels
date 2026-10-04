@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-16 09:15
 title: Announcing Nuchronic.uk
+seo_title: "Announcing Nuchronic.uk - A Webring for the Chronically Ill"
+seo_description: "Announcing Nuchronic.uk, the indie web webring for the chronically ill: a dark-mode Hacker News style aggregator of blogs, podcasts and videos."
 type: blog
 ---
 

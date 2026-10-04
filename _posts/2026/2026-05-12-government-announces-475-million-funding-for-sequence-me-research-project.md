@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-05-12 12:50
 title: Government announces £4.75 million funding for Sequence ME research project
+seo_title: "£4.75 Million Government Funding for Sequence ME"
+seo_description: "Linking the ME Association: the government funds the Sequence ME research project with £4.75m, a milestone for a historically neglected illness."
 link: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
 cited: ME Association
 type: linked

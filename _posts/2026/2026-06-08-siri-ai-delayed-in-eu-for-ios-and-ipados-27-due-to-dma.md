@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-06-08 19:30
 title: Siri AI delayed in EU for iOS and iPadOS 27 due to DMA
+seo_title: "Siri AI Delayed in the EU for iOS 27 Due to the DMA"
+seo_description: "Linking Apple: the new Siri AI, powered by Apple Intelligence, will not ship in the EU with iOS 27 and iPadOS 27 because of the DMA."
 link: https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/
 cited: Apple
 type: linked

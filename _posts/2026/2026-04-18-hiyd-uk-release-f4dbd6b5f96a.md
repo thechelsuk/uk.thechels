@@ -2,6 +2,8 @@
 layout: post
 date: "2026-04-18"
 title: Hiyd.uk Version 1.0.0
+seo_title: "Hiyd.uk Version 1.0.0 Release Notes"
+seo_description: "Release notes for version 1.0.0 of Hiyd.uk, the marketing site for my Jekyll app, with refactored styles and HTML for better layout and reading."
 type: release
 link: https://github.com/thechelsuk/uk.hiyd/releases/tag/1.0.0
 release_id: tag:github.com,2008:Repository/995537485/1.0.0

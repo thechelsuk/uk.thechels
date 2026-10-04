@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-05-12 13:00
 title: Your AI Use Is Breaking My Brain
+seo_title: "Your AI Use Is Breaking My Brain - 404 Media"
+seo_description: "Linking 404 Media on being bombarded by AI everywhere online, where people think fake things are real and real things are fake."
 link: https://www.404media.co/your-ai-use-is-breaking-my-brain/
 cited: 404 Media
 type: linked

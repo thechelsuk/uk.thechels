@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to manage raspberry pi
-seo: Ways - how to manage raspberry pi
+seo_title: "How to Re-Flash and Manage a Raspberry Pi"
+seo_description: "How to re-flash a Raspberry Pi with Raspberry Pi OS using Raspberry Pi Imager on a Mac, and other steps to manage and maintain your Pi."
 date: 2026-06-19 18:00
 type: ways
 syndicate: true

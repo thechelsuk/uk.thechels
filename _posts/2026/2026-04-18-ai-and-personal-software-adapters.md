@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-18 10:27
 title: AI and Personal Software Adapters
+seo_title: "AI and Personal Software Adapters"
+seo_description: "Between polarised takes on AI, I use coding agents to build personal adapters: small automations and connectors for everyday paper cuts."
 type: blog
 ---
 

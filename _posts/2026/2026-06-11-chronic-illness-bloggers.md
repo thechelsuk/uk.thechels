@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-06-11 16:18
 title: Calling Chronic Illness Bloggers
+seo_title: "Calling Chronic Illness Bloggers for Nuchronic.uk"
+seo_description: "I am looking for bloggers and creators with chronic illness to add to Nuchronic.uk, an indie web aggregator to showcase and support their work."
 type: blog
 tags:
   - me

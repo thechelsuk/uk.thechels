@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-29 09:12
 title: BookStack Has Migrated From GitHub to Codeberg
+seo_title: "BookStack Migrates From GitHub to Codeberg"
+seo_description: "Linking BookStack's move of all its repositories from GitHub to Codeberg, as GitHub's reliability problems cause an exodus of developers."
 link: https://www.bookstackapp.com/blog/project-migrated-to-codeberg/
 cited: BookStack
 type: linked

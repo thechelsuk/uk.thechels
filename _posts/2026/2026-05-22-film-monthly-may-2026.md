@@ -2,6 +2,8 @@
 layout: post
 date: 2026-05-22 20:00
 title: Film Club Friday - May 2026
+seo_title: "Film Club Friday - Films Watched in May 2026"
+seo_description: "The films I watched in May 2026, with ratings. Being housebound with disrupted sleep means films on in the background and a long film log."
 type: film
 syndicate: true
 ---

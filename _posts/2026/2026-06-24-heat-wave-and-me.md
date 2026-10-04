@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-06-24 19:36
 title: Heat Wave and ME
+seo_title: "Heat Waves and ME/CFS - Coping With Extreme Heat"
+seo_description: "Why heat waves are so hard with ME/CFS: autonomic dysfunction and POTS, impaired temperature regulation and limited energy reserves, risking PEM."
 type: blog
 tags:
   - me

@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-06-23 18:55
 title: HMRC ends the ISA tax free status with 22% tax on cash interest
+seo_title: "HMRC Announces 22% Tax on Cash Interest in ISAs"
+seo_description: "Linking The Guardian: a 22 per cent tax on cash interest held in stocks and shares ISAs ends the ISA's sanctity. A stupid move in my view."
 link: https://www.theguardian.com/money/2026/jun/23/hmrc-announces-22-tax-on-cash-interest-held-in-stocks-and-shares-isas
 cited: The Guardian
 type: linked

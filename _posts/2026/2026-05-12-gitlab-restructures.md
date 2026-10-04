@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-05-12 12:54
 title: GitLab restructures
+seo_title: "GitLab Restructures With a Voluntary Separation Window"
+seo_description: "Linking GitLab on a restructuring run differently from most: planning in the open, with a voluntary separation window for team members."
 link: https://about.gitlab.com/blog/gitlab-act-2/
 cited: GitLab
 type: linked

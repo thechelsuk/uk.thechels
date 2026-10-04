@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-05-08 18:10
 title: Cloudflare builds for revenue not humans
+seo_title: "Cloudflare Cuts 1,100 Jobs Amid 34% Revenue Growth"
+seo_description: "Linking Cloudflare: 1,100 job losses blamed on AI, announced alongside 34 per cent year-on-year revenue growth. Building for revenue, not humans."
 link: https://blog.cloudflare.com/building-for-the-future/
 cited: Cloudflare
 type: linked

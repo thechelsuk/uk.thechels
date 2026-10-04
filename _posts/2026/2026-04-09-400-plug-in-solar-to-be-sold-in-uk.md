@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-09 02:07
 title: £400 plug-in solar panels to be sold in UK
+seo_title: "£400 Plug-In Solar Panels to Be Sold in the UK"
+seo_description: "Linking the i: plug-in solar panels needing no installation will go on sale in the UK from about £400. Might be worth some on the garden shed."
 link: https://inews.co.uk/news/politics/400-plug-solar-panels-lidl-cut-energy-bills-4312651
 type: linked
 cited: The I

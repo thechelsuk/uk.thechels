@@ -2,6 +2,8 @@
 layout: post
 date: "2026-04-18"
 title: Tools Version 1.0.0
+seo_title: "Tools Version 1.0.0 - Activity Plan and More"
+seo_description: "Release notes for Tools 1.0.0, adding an activity plan page with a four-week hourly tracker, external tool links and a link to Search Router."
 type: release
 link: https://github.com/thechelsuk/uk.thechels.tools/releases/tag/1.0.0
 release_id: tag:github.com,2008:Repository/947147712/1.0.0

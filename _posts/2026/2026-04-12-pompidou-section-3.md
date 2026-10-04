@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-12 02:11
 title: Pompidou section 3 - Refactor post types
+seo_title: "Pompidou Section 3 - Refactoring Jekyll Post Types"
+seo_description: "Why I refactored my Jekyll site from collections to a type field in post front matter, putting all content in _posts for simpler feeds."
 type: rss
 show: false
 ---

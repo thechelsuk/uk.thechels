@@ -3,6 +3,8 @@ layout: post
 date: 2026-04-04 12:00
 link: https://stuartbreckenridge.net/2026-04-03-the-bbcs-rss-feed/
 title: The BBC RSS Feeds are garbage
+seo_title: "The BBC RSS Feeds Are Garbage - Stuart Breckenridge"
+seo_description: "Linking Stuart Breckenridge on the poor state of BBC RSS feeds. I stopped subscribing long ago, which is a shame given how RSS helps accessibility."
 type: linked
 cited: Stuart Breckenridge
 ---

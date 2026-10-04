@@ -2,6 +2,8 @@
 layout: post
 date: 2026-06-01 19:03
 title: Homebridge (YSA2) Yale Alarm Version v2.2.5
+seo_title: "Homebridge YSA2 Yale Alarm Plugin v2.2.5 Released"
+seo_description: "YSA2 Homebridge plugin 2.2.5 fixes bugs and adds tests for a working Yale Sync alarm you can arm and disarm in HomeKit with a dummy switch."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/homebridge-YSA2-plugin/releases/tag/v2.2.5

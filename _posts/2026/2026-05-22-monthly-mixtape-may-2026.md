@@ -2,6 +2,8 @@
 layout: post
 date: 2026-05-22 18:00
 title: Monthly Mixtape - May 2026
+seo_title: "Monthly Mixtape May 2026 - Featuring chromasetica"
+seo_description: "My May 2026 mixtape, introducing chromasetica, the first single from friend of the web whitep4nth3r, alongside the rest of the month's songs."
 type: mixtape
 syndicate: true
 ---

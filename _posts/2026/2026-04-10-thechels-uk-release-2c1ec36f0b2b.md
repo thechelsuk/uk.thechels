@@ -2,6 +2,8 @@
 layout: post
 date: "2026-04-10"
 title: Thechels.uk Version 1.9.0
+seo_title: "thechels.uk Version 1.9.0 Release Notes"
+seo_description: "Release notes for thechels.uk 1.9.0: improved RSS feeds, post types in front matter, archive pages and YouTube, Mastodon and Bluesky ingestion."
 type: release
 link: https://github.com/thechelsuk/uk.thechels/releases/tag/1.9.0
 release_id: tag:github.com,2008:Repository/107385143/1.9.0

@@ -2,6 +2,8 @@
 layout: post
 date: 2026-05-06 20:46
 title: CF Worker X Redirect Version v1.0.5
+seo_title: "CF Worker X Redirect Version 1.0.5 Released"
+seo_description: "Version 1.0.5 of CF Worker X Redirect, my Cloudflare Worker for redirecting NetNewsWire video links, with a full changelog from version 1.0.4."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/cf-worker-x-redirect/releases/tag/v1.0.5

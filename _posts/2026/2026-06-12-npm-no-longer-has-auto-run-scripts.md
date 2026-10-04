@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-06-12 21:25
 title: NPM no longer has auto-run scripts
+seo_title: "npm No Longer Runs Install Scripts Automatically"
+seo_description: "Linking The Register: GitHub changes npm's defaults so install no longer runs scripts automatically, a feature abused by worms like Shai-Hulud."
 link: https://www.theregister.com/devops/2026/06/10/github-pulls-pin-on-npms-auto-run-scripts/5253453
 cited: The Register
 type: linked

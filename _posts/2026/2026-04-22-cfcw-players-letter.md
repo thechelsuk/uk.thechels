@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-22 10:52
 title: CFCW Players Letter
+seo_title: "Chelsea FC Women Players' Letter on Stamford Bridge"
+seo_description: "Linking the Chelsea FC Women players' letter on moving to Stamford Bridge, for everyone who pushed the women's game forward. Staines to the Bridge."
 link: https://www.chelseafc.com/en/cfcw-players-letter
 cited: Chelsea FC Women
 type: linked

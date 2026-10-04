@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-06-13 04:42
 title: AI Economics for Dummies
+seo_title: "AI Economics for Dummies - McSweeney's Satire"
+seo_description: "Linking McSweeney's AI Economics for Dummies, a satire of circular AI investment deals where billions change hands and value goes up in smoke."
 link: https://www.mcsweeneys.net/articles/ai-economics-for-dummies
 cited: Andrew Singleton (McSweeney’s)
 type: linked

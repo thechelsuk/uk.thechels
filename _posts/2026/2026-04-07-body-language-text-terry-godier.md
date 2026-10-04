@@ -1,6 +1,8 @@
 ---
 date: 2026-04-07
 title: Language for when the body is broken
+seo_title: "Language for When the Body Is Broken - Terry Godier"
+seo_description: "Responding to Terry Godier's post on body language in communication: people with chronic illness also need time on receipt to understand and act."
 type: linked
 cited: Terry Godier
 link: https://www.terrygodier.com/body-language/ascii

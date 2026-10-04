@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-06-10 23:40
 title: Infantino and Trump collusion
+seo_title: "Infantino, Trump and FIFA's Trump Tower Office"
+seo_description: "Linking The New York Times: FIFA has leased a near-empty office in Trump Tower for a year, with rent going to President Trump. In plain sight."
 link: https://www.nytimes.com/2026/06/09/world/europe/world-cup-infantino-trump.html
 cited: The New York Times
 type: linked

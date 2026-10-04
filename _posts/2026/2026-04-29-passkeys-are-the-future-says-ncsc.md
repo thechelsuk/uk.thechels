@@ -2,6 +2,8 @@
 layout: post
 date: 2026-04-29 14:41
 title: Passkeys are the future says NCSC
+seo_title: "Passkeys Are the Future, Says the NCSC"
+seo_description: "Linking the NCSC on leaving passwords behind for passkeys. The future, perhaps, but inconsistent implementations across sites must be fixed first."
 link: https://www.ncsc.gov.uk/news/ncsc-leave-passwords-in-the-past-passkeys-are-the-future
 cited: NCSC
 type: linked

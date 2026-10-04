@@ -3,6 +3,8 @@ layout: post
 date: 2026-04-06
 link: https://www.reddit.com/r/homebridge/comments/1sbu1z6/homebridge_20_launch/
 title: Homebridge 2.0 Launch
+seo_title: "Homebridge 2.0 Launches on May the Fourth"
+seo_description: "Homebridge 2.0 launches on May the 4th, with improvements to the core HAP-NodeJS code and removal of long deprecated code for HomeKit users."
 type: linked
 cited: Homebridge
 ---
