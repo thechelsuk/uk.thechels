@@ -25,4 +25,5 @@ I have coached myself[^1] and my way out of IS with the above argument, surely a
 I've also learned not to care that much about what others think[^2]. Life is too short to worry about others. Focus on what you can control. Have a growth mindset and genuinely invest in continuous learning and seek to improve and you won’t go wrong.
 
 [^1]: yes, I coach myself. I’ll write about that soon.
+
 [^2]: about me, except in a one-to-one direct report context. That relationship is very important to me and one I absolutely do care about in order to provide my best possible level of support.
