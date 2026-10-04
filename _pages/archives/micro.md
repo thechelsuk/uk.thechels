@@ -1,7 +1,8 @@
 ---
 layout: archives
 title: Micro Social Post Archive
-seo: Micro posts Archive
+seo_title: "Micro Posts Archive - Selected Bluesky and Mastodon Posts"
+seo_description: "A lightly curated archive of selected micro social posts from Bluesky and Mastodon, with links to subscribe to the full feeds on each network."
 permalink: /archives/micro
 date: 2026-01-01
 type: micro

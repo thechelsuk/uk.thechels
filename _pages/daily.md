@@ -1,8 +1,9 @@
 ---
 layout: pages
 title: Daily Briefing and Updates
+seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
+seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-seo: Good Morning, Here is your daily briefing
 date: 2026-10-04
 ---
 

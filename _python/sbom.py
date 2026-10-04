@@ -80,7 +80,7 @@ layout: pages
 date: {current_date}
 robots: noindex, nofollow
 permalink: /SBOM
-seo: Software Bill of Materials (SBOM) for thechelsuk website
+seo_description: Software Bill of Materials (SBOM) for thechelsuk website
 ---
 
 ## Overview

@@ -1,8 +1,9 @@
 ---
 layout: data
 title: Constraints - Design and Development Challenge Cards
+seo_title: "Constraint Cards - Design and Development Challenges"
+seo_description: "A full list of constraint cards from a defunct Kickstarter. Pick one at random to spark creative design and development ideas or a team warm-up."
 permalink: /constraints
-seo: constraint cards for designers and developers
 type: constraints
 ---
 

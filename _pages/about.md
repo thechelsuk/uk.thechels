@@ -1,8 +1,9 @@
 ---
 layout: pages
 title: About thechelsuk
+seo_title: "About thechelsuk - Engineering Leader and Weak Notes Author"
+seo_description: "About thechelsuk: engineering leader focused on people development, agile teams and flow, now writing Weak Notes, a working-in-public second brain."
 permalink: /about
-seo: About page for the owner of thechels.uk
 ---
 
 \* _This website is named "weak notes" as a play on words of the popular [Government](https://gds.blog.gov.uk/tag/week-notes-2/) Digital Service era [week](https://promo.cymru/resource-articles/weeknotes/) [notes](https://weeknot.es) [blogging](https://neilojwilliams.net/about/week-notes/) [style](https://jordanh.net/gds.html) about [working in the open by default](https://digitalbydefault.com/2025/07/14/make-things-open-reading-list/)- due to the likelihood, posting will be inconsistent, irregular, and having worked adjacent to, but not in, Government for 14 years._

@@ -5,7 +5,7 @@
   <div class="e-content entry flow">
 
     {% if page.i_image and page.i_name %}
-    <img src="{{ page.i_image }}" alt="{{page.i_name}} Banner - {{page.seo}}" class="banner-image" />
+    <img src="{{ page.i_image }}" alt="{{page.i_name}} Banner - {{ page.seo_description | default: page.seo }}" class="banner-image" />
     {% endif %}
 
     {{ content }}

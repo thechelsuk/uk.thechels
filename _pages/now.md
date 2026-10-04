@@ -1,8 +1,9 @@
 ---
 layout: pages
 title: What I am Doing Now
+seo_title: "Now - What I Am Doing Now and What Comes Next"
+seo_description: "A now page, inspired by Derek Sivers, sharing what I am focused on at the moment and what comes next, currently pacing and resting with ME/CFS."
 permalink: /now
-seo: Page detailing what i am working on now and next
 ---
 
 ## Now

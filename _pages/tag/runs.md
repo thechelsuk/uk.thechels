@@ -1,7 +1,8 @@
 ---
 layout: tagged
 title: Run Archives
-seo: Run - old run blog posts and articles
+seo_title: "Running Archive - 1000 Miles, parkrun and Race PBs"
+seo_description: "Running posts from my 2019 challenge to run 1000 miles for Acorns Children's Hospice, plus 100+ parkruns, race results and personal bests."
 tagged: runs
 permalink: /tag/runs
 date: 2026-01-01

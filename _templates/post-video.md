@@ -2,7 +2,8 @@
 layout: post
 date: YYYY-MM-DD HH:MM
 title: Video title
-seo:
+seo_title:
+seo_description:
 type: video
 syndicate:
   - mastodon

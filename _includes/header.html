@@ -3,10 +3,17 @@
 
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title | default: post.title }}</title>
+    {% assign seo_title = page.seo_title | default: page.title | default: site.title | strip_html | strip_newlines | strip -%}
+    {%- assign seo_description = page.seo_description -%}
+    {%- if seo_description == nil or seo_description == "" -%}
+    {%- comment -%} legacy fallback keeps the site suffix until every file has seo_description {%- endcomment -%}
+    {%- assign seo_fallback = page.seo | default: page.description | default: page.title | default: site.description -%}
+    {%- capture seo_description %}{{ seo_fallback }} | {{ site.title }} by thechelsuk{% endcapture -%}
+    {%- endif -%}
+    {%- assign seo_description = seo_description | strip_html | strip_newlines | strip %}
+    <title>{{ seo_title | escape }}</title>
     <meta name="referrer" content="origin">
-    {% assign profile_description = page.seo | default: post.seo | default: page.title | default: post.title %}
-    <meta name="description" content="{{ profile_description }} | {{ site.title }} by thechelsuk">
+    <meta name="description" content="{{ seo_description | escape }}">
 
     {% assign robots = page.robots %}
     {% if robots %}
@@ -43,28 +50,26 @@
     </style>
 
     <!-- Google / Search Engine Tags -->
-    <meta itemprop="name" content="{{page.title}} | {{ site.title }} by thechelsuk" />
-    <meta itemprop="description" content="{{page.description}} | {{ site.title }} by thechelsuk" />
+    <meta itemprop="name" content="{{ seo_title | escape }} | {{ site.title }} by thechelsuk" />
+    <meta itemprop="description" content="{{ seo_description | escape }}" />
     <meta itemprop="image" content="{{ site.owner.avatar }}" />
 
     <!-- Open Graph -->
     <meta property="og:locale" content="en_GB">
     <meta property="og:type" content="article">
-    <meta property="og:title"
-      content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} by thechelsuk">
+    <meta property="og:title" content="{{ seo_title | escape }} | {{ site.title }} by thechelsuk">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:image" content="{{ site.owner.avatar }}">
     <meta property="og:site_name" content="{{ site.title }} {{ site.description }} by thechelsuk">
-    <meta property="og:description" content="{{ profile_description }} | {{ site.title }} by thechelsuk">
+    <meta property="og:description" content="{{ seo_description | escape }}">
     <meta property="article:publisher" content="{{ site.url }}">
     <meta property="article:author" content="{{ site.owner.name }} at {{site.organization.url }}">
     <meta property="article:published_time" content="{{ page.date }}">
 
     <!-- twitter -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title"
-      content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} by thechelsuk">
-    <meta name="twitter:description" content="{{ profile_description }} | {{ site.title }} by thechelsuk">
+    <meta name="twitter:title" content="{{ seo_title | escape }} | {{ site.title }} by thechelsuk">
+    <meta name="twitter:description" content="{{ seo_description | escape }}">
     <meta name="twitter:image" content="{{ site.owner.avatar }}">
 
     <!--the rest of the meta tags  -->

@@ -2,7 +2,7 @@
 layout: pages
 title: An error occurred
 permalink: /c/error
-seo: An error occurred. Please try again later.
+seo_description: An error occurred. Please try again later.
 robots: noindex
 ---
 

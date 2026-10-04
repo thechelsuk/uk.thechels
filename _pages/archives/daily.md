@@ -1,7 +1,8 @@
 ---
 layout: archives
 title: Daily Briefings
-seo: Daily Rundown Briefings
+seo_title: "Daily Briefings Archive - Automated Morning Rundowns"
+seo_description: "An archive of daily briefings: automated morning rundowns of weather, news, quotes and data, generated from a template and published every day."
 permalink: /archives/daily
 type: daily
 ---

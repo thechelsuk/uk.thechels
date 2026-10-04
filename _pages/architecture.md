@@ -1,8 +1,9 @@
 ---
 layout: pages
 title: Architecture - Website Technology Stack and Build
+seo_title: "Website Architecture - Jekyll, GitHub Pages and Actions"
+seo_description: "How thechels.uk is built: a Jekyll static site on GitHub Pages, a progressive web app, with GitHub Actions automation and Python scripts for content."
 permalink: /architecture
-seo: Architecture page for thechels.uk
 ---
 
 Hosted on [GitHub Pages](https://pages.github.com), the site uses [Jekyll](https://jekyllrb.com), a static site generator, on [Ruby](https://www.ruby-lang.org/en/) using the [liquid templating language](https://shopify.github.io/liquid/). It also uses GitHub Actions and [Python](https://www.python.org) for automation and additional compute at build time. Content is written in GitHub flavoured [Markdown](https://daringfireball.net/projects/markdown/). Data is stored in [Yaml](https://yaml.org) files. DNS and SSL by [Cloudflare](https://www.cloudflare.com). [VSCode for Mac](https://code.visualstudio.com/) as the IDE, supported by various plugins. [Working Copy](https://workingcopy.app/) on iOS as the Git client of choice. [Drafts](https://getdrafts.com/) App as the starting point for content creation.

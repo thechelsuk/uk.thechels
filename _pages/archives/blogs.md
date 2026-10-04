@@ -1,7 +1,8 @@
 ---
 layout: archives
 title: Blog Posts Archive
-seo: Blog Posts Archive
+seo_title: "Blog Archive - All Posts on ME/CFS, FIRE and Leadership"
+seo_description: "Every blog post on thechels.uk: life with ME/CFS, financial independence (FIRE) in the UK, engineering leadership, football and the odd recipe."
 permalink: /archives/blog
 date: 2026-01-01
 type: blog

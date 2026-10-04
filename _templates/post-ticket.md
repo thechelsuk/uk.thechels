@@ -4,7 +4,8 @@ date: 9999-12-31
 title: "Thing at Venue"
 cited: "source citation"
 link: source
-seo: "seo"
+seo_title:
+seo_description:
 type: ticket
 ---
 

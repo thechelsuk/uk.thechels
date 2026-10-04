@@ -1,7 +1,8 @@
 ---
 layout: tagged
 title: Finance Archives
-seo: Finance - posts and data on personal finance and my FIRE journey in the UK
+seo_title: "UK Personal Finance and FIRE - ISAs, SIPPs and Retire Early"
+seo_description: "UK personal finance and FIRE with real numbers: ISAs, SIPPs, retirement bridges and investing, plus free FIRE and redundancy calculators."
 tagged: finance
 permalink: /tag/finance
 date: 2026-08-01

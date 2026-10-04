@@ -4,7 +4,7 @@ layout: pages
 date: 2026-05-06
 robots: noindex
 permalink: /SBOM
-seo: Software Bill of Materials (SBOM) for thechelsuk website
+seo_description: Software Bill of Materials (SBOM) for thechelsuk website
 ---
 
 ## Overview

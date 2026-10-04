@@ -1,8 +1,9 @@
 ---
 layout: pages
 title: Style Guide - Visual Mark-up Reference and Examples
+seo_title: "Style Guide - Markdown and Mark-up Reference"
+seo_description: "A visual style guide for thechels.uk showing every mark-up element: headings, lists, quotes, code, tables and more, with markdown syntax examples."
 permalink: /style
-seo: Style Guide
 ---
 
 This style guide acts as a visual guide to the mark-up styles used throughout the site and acts as a check that all likely mark-up is styled appropriately.

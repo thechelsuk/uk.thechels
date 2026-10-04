@@ -1,7 +1,8 @@
 ---
 layout: tagged
 title: Stats Archives
-seo: Stats - old stats, posts and articles
+seo_title: "Football Stats Archive - Historic Chelsea Statistics"
+seo_description: "A historic archive of football statistics posts, mostly Chelsea FC and Premier League facts, records and match stats from past seasons."
 tagged: stats
 permalink: /tag/stats
 date: 2026-01-01

@@ -1,7 +1,8 @@
 ---
 layout: tagged
 title: ME/CFS Blog Archive
-seo: "ME - Personal blog posts on ME/CFS: symptoms, pacing, post-exertional malaise, NHS care, benefits, and life with chronic fatigue in the UK."
+seo_title: "ME/CFS Blog - Living With Chronic Fatigue Syndrome in the UK"
+seo_description: "Personal writing on living with ME/CFS in the UK: symptoms, PEM, pacing, NHS care and benefits, plus a free printable ME/CFS activity plan tool."
 tagged: ME
 permalink: /tag/me
 redirect_from:

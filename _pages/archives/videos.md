@@ -1,7 +1,8 @@
 ---
 layout: archives
 title: Video Archive
-seo: Video Archive
+seo_title: "Video Archive - YouTube Videos and Shorts Published"
+seo_description: "An archive of videos and shorts published on YouTube, embedded here as posts, with a link to subscribe to the channel through its YouTube RSS feed."
 permalink: /archives/video
 type: video
 ---

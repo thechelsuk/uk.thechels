@@ -1,8 +1,9 @@
 ---
 layout: default
 title: App Privacy - Mobile Application Privacy Policy
+seo_title: "App Privacy Policy - thechelsuk and Hiyd Mobile Apps"
+seo_description: "Privacy policy for thechelsuk and Hiyd iOS apps and browser extensions. No personal data, analytics or accounts; everything stays on your device."
 permalink: /app/privacy
-seo: thechelsuk and Hiyd Mobile Apps Privacy Policy
 ---
 
 **Last updated:** _12th March, 2025_

@@ -1,8 +1,9 @@
 ---
 layout: pages
 title: PGP - Public Key for Secure Communication and Encryption
+seo_title: "PGP Public Key - Secure Messages and Verification"
+seo_description: "My public PGP key, also on Keybase, for sending encrypted messages and verifying signed content and identity. Copy the key block to import it."
 permalink: /pgp
-seo: Public PGP key
 ---
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----

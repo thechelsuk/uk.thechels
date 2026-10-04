@@ -3,7 +3,8 @@
 ---
 
 title: post title
-seo:
+seo_title:
+seo_description:
 author: name
 date: YYYY-MM-DD
 show: true
