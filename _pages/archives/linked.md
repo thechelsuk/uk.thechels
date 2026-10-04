@@ -1,7 +1,8 @@
 ---
 layout: archives
 title: Linked Quote Posts Archive
-seo: Quotes - Linked Quote Posts Archive
+seo_title: "Linked Posts Archive - Shared Links With Commentary"
+seo_description: "An archive of link-blog posts: interesting articles from around the web, quoted with my commentary, kept as a searchable list for future reference."
 permalink: /archives/linked
 date: 2026-01-01
 type: linked

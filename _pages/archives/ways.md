@@ -1,7 +1,8 @@
 ---
 layout: archives
 title: Ways - How to do things
-seo: Ways - How to do things
+seo_title: "Ways Archive - How-To Guides and Step-by-Step Explainers"
+seo_description: "Ways: how-to guides and step-by-step explainers on tech and everyday tasks, kept in one place as a reference for when I forget how to do things."
 permalink: /archives/ways
 date: 2026-01-01
 type: ways

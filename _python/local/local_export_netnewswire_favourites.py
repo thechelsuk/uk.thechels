@@ -1,8 +1,17 @@
 #!/usr/bin/env python3
 
 import sqlite3
+import sys
 import os
 from datetime import datetime
+
+sys.path.insert(0,
+                os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+import seo_frontmatter  # noqa: E402
+
+NNW_SEO_PADDING = ("A monthly digest of the best links from the feeds I "
+                   "follow. Collected from my favourites in NetNewsWire. "
+                   "Subscribe via RSS to get the next one.")
 
 # NetNewsWire database path (checks user-provided iCloud path first, then local)
 USER_ICLOUD_PATH = os.path.expanduser(
@@ -77,8 +86,16 @@ def main():
         from datetime import datetime
         now = datetime.now()
         month_year = now.strftime('%B %Y')
+        seo_title = seo_frontmatter.fit_title(
+            f"RSS Favourites Digest - {month_year}")
+        seo_description = seo_frontmatter.fit_description(
+            f"My favourite articles saved in my RSS reader in {month_year}, "
+            "grouped by website.", NNW_SEO_PADDING)
         frontmatter = ('---\n'
                        f'title: "RSS Favourites Digest: {month_year}"\n'
+                       f'seo_title: {seo_frontmatter.quote(seo_title)}\n'
+                       'seo_description: '
+                       f'{seo_frontmatter.quote(seo_description)}\n'
                        f"date: {now.strftime('%Y-%m-%d')}\n"
                        'layout: post\n'
                        'tags: [digest]\n'

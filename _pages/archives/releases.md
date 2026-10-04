@@ -1,7 +1,8 @@
 ---
 layout: archives
 title: Software Releases Archive
-seo: Software Releases archive
+seo_title: "Software Releases Archive - Open Source Project Updates"
+seo_description: "Release notes for my open source projects, auto-generated from GitHub release feeds and published here as posts, with changes and version numbers."
 permalink: /archives/release
 date: 2026-01-01
 type: release

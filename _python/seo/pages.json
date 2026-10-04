@@ -1,0 +1,230 @@
+{
+  "index.md": {
+    "seo_title": "Weak Notes - thechelsuk's Working in Public Second Brain",
+    "seo_description": "A working-in-public second brain from engineering leader thechelsuk: notes on software, teams, leadership, finance, music and life with ME/CFS."
+  },
+  "_pages/about.md": {
+    "seo_title": "About thechelsuk - Engineering Leader and Weak Notes Author",
+    "seo_description": "About thechelsuk: engineering leader focused on people development, agile teams and flow, now writing Weak Notes, a working-in-public second brain."
+  },
+  "_pages/accessibility.md": {
+    "seo_title": "Accessibility Statement for thechels.uk",
+    "seo_description": "Accessibility statement for thechels.uk: WCAG 2.1 AA conformance, how pages are tested with ARC Toolkit and Lighthouse, and how to report issues."
+  },
+  "_pages/ai.md": {
+    "seo_title": "AI Usage Statement - How I Use AI on This Site",
+    "seo_description": "How and why I use AI to help write code, check spelling and maintain this site due to disability, and why every opinion and word published is my own."
+  },
+  "_pages/app-privacy.md": {
+    "seo_title": "App Privacy Policy - thechelsuk and Hiyd Mobile Apps",
+    "seo_description": "Privacy policy for thechelsuk and Hiyd iOS apps and browser extensions. No personal data, analytics or accounts; everything stays on your device."
+  },
+  "_pages/architecture.md": {
+    "seo_title": "Website Architecture - Jekyll, GitHub Pages and Actions",
+    "seo_description": "How thechels.uk is built: a Jekyll static site on GitHub Pages, a progressive web app, with GitHub Actions automation and Python scripts for content."
+  },
+  "_pages/blogroll.md": {
+    "seo_title": "Blogroll - Favourite Indie Websites and Blogs",
+    "seo_description": "My blogroll: a curated subset of my RSS reader covering the indie web, tech publications and useful sites, with feed links to subscribe directly."
+  },
+  "_pages/bookmarks.md": {
+    "seo_title": "Bookmarks - Saved Links From Around the Web",
+    "seo_description": "A collection of bookmarks saved from around the web: articles, tools and resources worth keeping, each with a link to the original source."
+  },
+  "_pages/books.md": {
+    "seo_title": "Bookshelf - Personal Library and Reading Collection",
+    "seo_description": "My bookshelf: a list of the books I own and have read, mostly digital editions read in Apple Books rather than physical copies, with authors."
+  },
+  "_pages/buttons.md": {
+    "seo_title": "Buttons - Retro 88x31 Web Badges and Links",
+    "seo_description": "A collection of old-school 88x31 web buttons and badges for thechels.uk and friends of the site. Free to use when linking to this website."
+  },
+  "_pages/change-password.md": {
+    "seo_title": "Change Password - Well-Known URL for Password Managers",
+    "seo_description": "Why thechels.uk has a change password page despite having no logins: it follows the W3C .well-known change-password URL standard for password managers."
+  },
+  "_pages/constraints.md": {
+    "seo_title": "Constraint Cards - Design and Development Challenges",
+    "seo_description": "A full list of constraint cards from a defunct Kickstarter. Pick one at random to spark creative design and development ideas or a team warm-up."
+  },
+  "_pages/cv.md": {
+    "seo_title": "CV - Engineering Leader, Agile Coach and Developer",
+    "seo_description": "CV of an experienced engineering leader: people development, agile delivery, technical roadmaps and architecture, plus core skills and career history."
+  },
+  "_pages/daily.md": {
+    "seo_title": "Daily Briefing - Weather, News, Quotes and Updates",
+    "seo_description": "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
+  },
+  "_pages/disability.md": {
+    "seo_title": "My Disabilities Explained - Living With ME/CFS and MCAS",
+    "seo_description": "Living with ME/CFS and MCAS: what the conditions are, the symptoms, being largely housebound, and how they affect daily life, work and energy."
+  },
+  "_pages/feeds.md": {
+    "seo_title": "RSS Feeds - Subscribe via Atom, RSS 2.0 and JSON",
+    "seo_description": "Subscribe to thechels.uk by RSS: a full firehose feed in Atom, RSS 2.0 and JSON, or per-type feeds for posts, links, daily briefings, releases and more."
+  },
+  "_pages/films.md": {
+    "seo_title": "Films Watched - Personal Film Ratings and Reviews",
+    "seo_description": "Every film I have watched and rated, ordered from highest to lowest rating. A personal film log with scores, updated as I watch new releases and classics."
+  },
+  "_pages/gigs.md": {
+    "seo_title": "Gigs - Bands and Artists I Have Seen Live",
+    "seo_description": "A list of all the bands and artists I have seen perform live at gigs and concerts over the years, recalled as best I can and in no particular order."
+  },
+  "_pages/green.md": {
+    "seo_title": "Green Credentials - Carbon Footprint and Net Zero",
+    "seo_description": "My green credentials: personal and home carbon emissions, a low-carbon website on green hosting, and the everyday habits I use to work towards net zero."
+  },
+  "_pages/hummingbirds-me-scale.md": {
+    "seo_title": "Hummingbirds' M.E. Ability and Severity Scale (HFME)",
+    "seo_description": "The Hummingbirds' M.E. scale by Jodi Bassett: three parts rating physical ability, cognitive ability and symptom severity in M.E. patients."
+  },
+  "_pages/jokes.md": {
+    "seo_title": "Jokes - Original One-Liners and Puns by thechelsuk",
+    "seo_description": "A collection of original jokes, one-liners and puns written by thechelsuk over the years. As far as I can tell, every one of them is my own creation."
+  },
+  "_pages/manual.md": {
+    "seo_title": "My Operating Manual - Leadership Style and Principles",
+    "seo_description": "My personal operating manual: principles, leadership philosophy, how I like to work and communicate, and how to get the best out of working with me."
+  },
+  "_pages/now.md": {
+    "seo_title": "Now - What I Am Doing Now and What Comes Next",
+    "seo_description": "A now page, inspired by Derek Sivers, sharing what I am focused on at the moment and what comes next, currently pacing and resting with ME/CFS."
+  },
+  "_pages/pgp.md": {
+    "seo_title": "PGP Public Key - Secure Messages and Verification",
+    "seo_description": "My public PGP key, also on Keybase, for sending encrypted messages and verifying signed content and identity. Copy the key block to import it."
+  },
+  "_pages/podcasts.md": {
+    "seo_title": "Podcasts - My Favourite Shows and Recommendations",
+    "seo_description": "My favourite podcasts across software engineering, security, finance, media and comedy, with feed links. Have a recommendation? Suggest it via GitHub."
+  },
+  "_pages/projects.md": {
+    "seo_title": "Projects - iOS Apps, Plugins, Scripts and Tools",
+    "seo_description": "My software side projects: free iOS apps, browser extensions, Jekyll plugins, scripts and web tools, most released as open source under MIT."
+  },
+  "_pages/random.md": {
+    "seo_title": "Random Post - A Pot Luck Pick From the Archive",
+    "seo_description": "A single random post from the thechels.uk archive, picked again on every site build. A pot luck way to discover older posts, links and notes."
+  },
+  "_pages/salary.md": {
+    "seo_title": "Salary History - My Pay Over Time, Shared Openly",
+    "seo_description": "My full-time salary history over time, not adjusted for inflation, shared openly because more transparency about pay helps close gaps and inequality."
+  },
+  "_pages/save.md": {
+    "seo_title": "Savings, Offers, Referrals and Discount Codes",
+    "seo_description": "Referral links, discount codes and offers for services I use and recommend, plus my own apps and ways to support me. Terms and conditions apply."
+  },
+  "_pages/slashes.md": {
+    "seo_title": "Slash Pages - Indie Web Pages, Archives and Tags",
+    "seo_description": "Every slash page on thechels.uk, following the indie web convention: about, now, uses, colophon and more, plus archives by post type and by tag."
+  },
+  "_pages/slogans.md": {
+    "seo_title": "Slogans - Random Sub-Text Taglines for This Site",
+    "seo_description": "The complete list of slogans used as the sub-text under the site title. One is picked at random on every build, so the tagline changes over time."
+  },
+  "_pages/start.md": {
+    "seo_title": "Start Here - A Guide to thechels.uk and Weak Notes",
+    "seo_description": "New here? A quick guide to thechels.uk: who I am, the slash pages, free apps and tools, what Weak Notes means, and a few hidden easter eggs to find."
+  },
+  "_pages/style.md": {
+    "seo_title": "Style Guide - Markdown and Mark-up Reference",
+    "seo_description": "A visual style guide for thechels.uk showing every mark-up element: headings, lists, quotes, code, tables and more, with markdown syntax examples."
+  },
+  "_pages/teams.md": {
+    "seo_title": "Teams - Football Matches and Stadiums Visited Live",
+    "seo_description": "Every football team I have seen play live, from Chelsea and Premier League sides to European giants, women's teams and non-league clubs."
+  },
+  "_pages/uses.md": {
+    "seo_title": "Uses - My Tech Setup, Devices, Apps and Software",
+    "seo_description": "My uses page: the devices, desk setup, apps, software and services I rely on every day, from iPhone and Mac mini to keyboards and dev tools."
+  },
+  "_pages/verify.md": {
+    "seo_title": "Verify - Official Accounts and Identity of thechelsuk",
+    "seo_description": "The system of record for my online identity. My official accounts, domains and PGP key; anything else claiming to be thechelsuk is an impersonator."
+  },
+  "_pages/archives/blogs.md": {
+    "seo_title": "Blog Archive - All Posts on ME/CFS, FIRE and Leadership",
+    "seo_description": "Every blog post on thechels.uk: life with ME/CFS, financial independence (FIRE) in the UK, engineering leadership, football and the odd recipe."
+  },
+  "_pages/archives/daily.md": {
+    "seo_title": "Daily Briefings Archive - Automated Morning Rundowns",
+    "seo_description": "An archive of daily briefings: automated morning rundowns of weather, news, quotes and data, generated from a template and published every day."
+  },
+  "_pages/archives/film.md": {
+    "seo_title": "Film Club Archive - Monthly Film Write-Ups",
+    "seo_description": "Monthly film club posts: a short list of films I watched each month with ratings and commentary, collected into a single browsable archive."
+  },
+  "_pages/archives/gifts.md": {
+    "seo_title": "Gifts and Offers Archive - Sponsored and Deal Posts",
+    "seo_description": "An archive of sponsored, special offer and gift posts. Offers can be time-sensitive, so check the link and terms before committing to anything."
+  },
+  "_pages/archives/linked.md": {
+    "seo_title": "Linked Posts Archive - Shared Links With Commentary",
+    "seo_description": "An archive of link-blog posts: interesting articles from around the web, quoted with my commentary, kept as a searchable list for future reference."
+  },
+  "_pages/archives/mailbox.md": {
+    "seo_title": "Mailbox Archive - Answers to Reader Questions and AMA",
+    "seo_description": "Answers to reader emails, AMA submissions and questions asked online that I have chosen to reply to in public. Ask your own question, anonymously."
+  },
+  "_pages/archives/micro.md": {
+    "seo_title": "Micro Posts Archive - Selected Bluesky and Mastodon Posts",
+    "seo_description": "A lightly curated archive of selected micro social posts from Bluesky and Mastodon, with links to subscribe to the full feeds on each network."
+  },
+  "_pages/archives/mixtapes.md": {
+    "seo_title": "Monthly Mixtape Archive - Playlists of Songs on Repeat",
+    "seo_description": "Every monthly mixtape: playlists of songs I have been listening to across a broad mix of genres, rooted in the 1990s, available on Apple Music."
+  },
+  "_pages/archives/releases.md": {
+    "seo_title": "Software Releases Archive - Open Source Project Updates",
+    "seo_description": "Release notes for my open source projects, auto-generated from GitHub release feeds and published here as posts, with changes and version numbers."
+  },
+  "_pages/archives/ride.md": {
+    "seo_title": "Ride Archive - Zwift Indoor Cycling Rides Logged",
+    "seo_description": "An archive of indoor cycling rides logged on Zwift, with distance, duration, power, heart rate and elevation for each ride, listed newest first."
+  },
+  "_pages/archives/rss.md": {
+    "seo_title": "RSS-Only Posts Archive - Posts for Feed Subscribers",
+    "seo_description": "A list of posts published only to the RSS feed, not on the website. Subscribe to the RSS feed to read these feed-exclusive posts in your reader."
+  },
+  "_pages/archives/ticket.md": {
+    "seo_title": "Tickets Archive - Gigs, Concerts and Live Events",
+    "seo_description": "An archive of ticket posts for gigs, concerts and live events I have attended, with event details, band line-ups and venues for each night out."
+  },
+  "_pages/archives/til.md": {
+    "seo_title": "Today I Learned (TIL) - Short Notes Worth Remembering",
+    "seo_description": "Today I Learned: short posts on things I picked up that are not worth a full blog post, but are useful to remember and share, from tech to life."
+  },
+  "_pages/archives/videos.md": {
+    "seo_title": "Video Archive - YouTube Videos and Shorts Published",
+    "seo_description": "An archive of videos and shorts published on YouTube, embedded here as posts, with a link to subscribe to the channel through its YouTube RSS feed."
+  },
+  "_pages/archives/ways.md": {
+    "seo_title": "Ways Archive - How-To Guides and Step-by-Step Explainers",
+    "seo_description": "Ways: how-to guides and step-by-step explainers on tech and everyday tasks, kept in one place as a reference for when I forget how to do things."
+  },
+  "_pages/tag/chelsea.md": {
+    "seo_title": "Chelsea FC Archive - Blog Posts, Articles and Interviews",
+    "seo_description": "An archive of posts about Chelsea FC, including my writing, stats and interviews published here and on other football websites over the years."
+  },
+  "_pages/tag/finance.md": {
+    "seo_title": "UK Personal Finance and FIRE - ISAs, SIPPs and Retire Early",
+    "seo_description": "UK personal finance and FIRE with real numbers: ISAs, SIPPs, retirement bridges and investing, plus free FIRE and redundancy calculators."
+  },
+  "_pages/tag/me.md": {
+    "seo_title": "ME/CFS Blog - Living With Chronic Fatigue Syndrome in the UK",
+    "seo_description": "Personal writing on living with ME/CFS in the UK: symptoms, PEM, pacing, NHS care and benefits, plus a free printable ME/CFS activity plan tool."
+  },
+  "_pages/tag/recipe.md": {
+    "seo_title": "Easy Recipes - Favourite Home-Cooked Go-To Dishes",
+    "seo_description": "My favourite easy recipes and go-to home-cooked dishes, from a simple homemade pizza base to classic puddings like apple crumble and bread and butter."
+  },
+  "_pages/tag/runs.md": {
+    "seo_title": "Running Archive - 1000 Miles, parkrun and Race PBs",
+    "seo_description": "Running posts from my 2019 challenge to run 1000 miles for Acorns Children's Hospice, plus 100+ parkruns, race results and personal bests."
+  },
+  "_pages/tag/stats.md": {
+    "seo_title": "Football Stats Archive - Historic Chelsea Statistics",
+    "seo_description": "A historic archive of football statistics posts, mostly Chelsea FC and Premier League facts, records and match stats from past seasons."
+  }
+}

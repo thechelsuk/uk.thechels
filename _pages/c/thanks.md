@@ -2,7 +2,7 @@
 layout: pages
 title: Thanks
 permalink: /c/thanks
-seo: Thank you for your submission. We appreciate your feedback.
+seo_description: Thank you for your submission. We appreciate your feedback.
 robots: noindex
 ---
 

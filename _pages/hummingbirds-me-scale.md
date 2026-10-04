@@ -1,8 +1,9 @@
 ---
 layout: pages
 title: The Hummingbirds' M.E. Ability Scale
+seo_title: "Hummingbirds' M.E. Ability and Severity Scale (HFME)"
+seo_description: "The Hummingbirds' M.E. scale by Jodi Bassett: three parts rating physical ability, cognitive ability and symptom severity in M.E. patients."
 permalink: /hummingbirds-me-scale
-seo: The HFME 3 Part M.E. Ability and Severity Scale by Jodi Bassett
 ---
 
 This is a copy of the Hummingbirds' M.E. Ability and Severity Scale by Jodi Bassett, which is a three part scale that rates physical ability, cognitive ability and symptom severity in M.E. patients. The scale is based on the experiences of many patients with M.E. and is intended to be used by patients to chart their own progress and to help them understand their illness better. This only seems to available via [web.archive.org](https://web.archive.org/web/20170605044130/http://www.hfme.org/themeabilityscale.htm), so I have copied it here for easier access and to ensure it is not lost.

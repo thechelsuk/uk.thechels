@@ -1,8 +1,9 @@
 ---
 layout: blogroll
 title: Blogroll - Favourite Websites and Blogs
+seo_title: "Blogroll - Favourite Indie Websites and Blogs"
+seo_description: "My blogroll: a curated subset of my RSS reader covering the indie web, tech publications and useful sites, with feed links to subscribe directly."
 permalink: /blogroll
-seo: My favourite blogs
 ---
 
 This is a subset of my OPML file from my RSS reader, focused on the indie web, tech focused publications, and businesses publishing reliable and useful information.

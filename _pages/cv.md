@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Your Favourite Engineering Leader
+seo_title: "CV - Engineering Leader, Agile Coach and Developer"
+seo_description: "CV of an experienced engineering leader: people development, agile delivery, technical roadmaps and architecture, plus core skills and career history."
 permalink: /cv
-seo: CV optimised for printing and savings as a PDF
 ---
 
 ## Personal Profile

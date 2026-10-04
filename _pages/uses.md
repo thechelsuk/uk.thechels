@@ -1,8 +1,9 @@
 ---
 layout: pages
 title: Uses - Favourite Technology and Setup Configuration
+seo_title: "Uses - My Tech Setup, Devices, Apps and Software"
+seo_description: "My uses page: the devices, desk setup, apps, software and services I rely on every day, from iPhone and Mac mini to keyboards and dev tools."
 permalink: /uses
-seo: A list of my favourite technology
 ---
 
 ## Desk and Devices

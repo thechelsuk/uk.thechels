@@ -1,8 +1,9 @@
 ---
 layout: pages
 title: Start - Getting started with the thechelsuk
+seo_title: "Start Here - A Guide to thechels.uk and Weak Notes"
+seo_description: "New here? A quick guide to thechels.uk: who I am, the slash pages, free apps and tools, what Weak Notes means, and a few hidden easter eggs to find."
 permalink: /start
-seo: A guide to getting started with the thechelsuk
 ---
 
 Thanks for checking my little corner of the internet.

@@ -1,7 +1,8 @@
 ---
 layout: tagged
 title: Recipe Archives
-seo: Recipe - favourite and go-to recipes
+seo_title: "Easy Recipes - Favourite Home-Cooked Go-To Dishes"
+seo_description: "My favourite easy recipes and go-to home-cooked dishes, from a simple homemade pizza base to classic puddings like apple crumble and bread and butter."
 tagged: recipe
 permalink: /tag/recipe
 date: 2026-08-01

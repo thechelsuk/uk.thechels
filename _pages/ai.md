@@ -1,7 +1,8 @@
 ---
 layout: pages
 title: AI - Statement on Usage
-seo: Statement on AI usage
+seo_title: "AI Usage Statement - How I Use AI on This Site"
+seo_description: "How and why I use AI to help write code, check spelling and maintain this site due to disability, and why every opinion and word published is my own."
 permalink: /ai
 ---
 

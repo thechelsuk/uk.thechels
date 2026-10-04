@@ -3,7 +3,8 @@ layout: post
 title: post title
 date: YYYY-MM-DD HH:MM
 type: blog
-seo: "SEO description"
+seo_title:
+seo_description:
 tags: [recipe]
 syndicate:
   - mastodon

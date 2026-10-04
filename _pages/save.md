@@ -1,8 +1,9 @@
 ---
 layout: offers
 title: Savings, Offers, and Discounts
+seo_title: "Savings, Offers, Referrals and Discount Codes"
+seo_description: "Referral links, discount codes and offers for services I use and recommend, plus my own apps and ways to support me. Terms and conditions apply."
 permalink: /save
-seo: Referrals, offers, bonuses, and free stuff for me
 ---
 
 Terms and conditions apply, so please see links for details.
