@@ -4,6 +4,7 @@ import datetime
 import re
 import hashlib
 import feedparser
+import seo_frontmatter
 
 ROOT = pathlib.Path(__file__).parent.parent.resolve()
 RSS_FEED_URL = "https://www.youtube.com/feeds/videos.xml?channel_id=UCwK4oZ8hw9RS6tZKEjw_qLw"
@@ -149,10 +150,15 @@ def post_exists_for_video(video_id):
         for path in OUTPUT_FOLDER.rglob("*.md"))
 
 
+VIDEO_SEO_PADDING = ("Watch it on YouTube through the link in this post. "
+                     "Browse my other videos, shorts and app demos. "
+                     "New videos are posted here as they go live.")
+
+
 def create_front_matter(entry):
     """
     Generates the Front Matter YAML.
-    Includes only: layout, title, date, source, type.
+    Includes only: layout, title, seo fields, date, source, type.
     NO author, NO tags, NO categories, NO permalink.
     """
     title = entry.title
@@ -163,9 +169,15 @@ def create_front_matter(entry):
     date_str = parse_date(entry)
     year_folder = get_year(date_str)
 
+    seo_title = seo_frontmatter.fit_title(f"{title} - Video")
+    seo_description = seo_frontmatter.fit_description(
+        f"A video from my YouTube channel: {title}.", VIDEO_SEO_PADDING)
+
     # Construct Front Matter
     fm_content = f"""---
 title: "{title}"
+seo_title: {seo_frontmatter.quote(seo_title)}
+seo_description: {seo_frontmatter.quote(seo_description)}
 date: "{date_str}"
 layout: post
 source: "{link}"
