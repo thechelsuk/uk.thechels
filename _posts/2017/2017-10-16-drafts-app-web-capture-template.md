@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Drafts App web capture
+seo_title: "Drafts App Web Capture Template for Linked Posts"
+seo_description: "A Drafts app web capture template that saves selected text from a web page as a linked post, with the title, quote and a source link at the bottom."
 tags:
 type: blog
 ---

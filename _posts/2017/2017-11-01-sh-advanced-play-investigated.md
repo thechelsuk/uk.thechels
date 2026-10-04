@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Secret Hitler - president picks investigator
+seo_title: "Secret Hitler Strategy - President Picks Investigator"
+seo_description: "Advanced Secret Hitler strategy: once investigated as a liberal, pick your investigator as chancellor when you become president to test their claim."
 tag:
 
 type: blog

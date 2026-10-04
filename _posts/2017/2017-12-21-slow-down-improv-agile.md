@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Slow down in scrum
+seo_title: "Slow Down in Scrum - Improv Lessons for Agile Teams"
+seo_description: "Why agile teams benefit from slowing down: imagining the slowest way to fix a high-priority defect can reveal a better, higher-quality process."
 tag:
 
 type: blog

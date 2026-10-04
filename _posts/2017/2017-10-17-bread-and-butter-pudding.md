@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Bread and Butter Pudding
+seo_title: "Bread and Butter Pudding Recipe - Easy Classic Dessert"
+seo_description: "An easy bread and butter pudding recipe with a light texture and crispy golden top. Serves four, takes 30 minutes to prepare and 50 minutes to cook."
 date: 2017-10-17 15:00:00
 tags: [recipe]
-seo: "Bread and Butter Pudding makes a lovely dessert, and is so easy to make."
 type: blog
 ---
 

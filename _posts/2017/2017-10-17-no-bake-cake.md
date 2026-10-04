@@ -1,9 +1,10 @@
 ---
 layout: post
 title: No-Bake Cake - Simple Recipe for Kids and Adults
+seo_title: "No-Bake Chocolate Fridge Cake Recipe for Kids"
+seo_description: "A simple no-bake fridge cake with digestive biscuits, chocolate, golden syrup, apricots, raisins and pecans. Easy to make with children and customise."
 date: 2017-10-17 13:00:00
 tags: [recipe]
-seo: "A simple customisable no-bake cake recipe that is perfect for making with children"
 type: blog
 ---
 

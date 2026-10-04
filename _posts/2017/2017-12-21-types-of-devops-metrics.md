@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Types of DevOps metrics
+seo_title: "Types of DevOps Metrics to Track for Faster Delivery"
+seo_description: "DevOps metrics worth tracking to move fast without breaking things: deployment frequency, change volume, lead time, test pass rate and more."
 tags:
 
 type: blog

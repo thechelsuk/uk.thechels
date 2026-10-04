@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Setting up a new scrum team
+seo_title: "Setting Up a New Scrum Team - A Practical Checklist"
+seo_description: "A checklist for setting up a new scrum team: members, team name, accounts, definition of done, ways of working, co-location and scrum ceremonies."
 tags:
 
 type: blog
