@@ -237,7 +237,7 @@ navigation_slashes:
   - link: "/indieweb.txt"
     title: "IndieWeb (txt)"
   - link: "/start"
-    title: "Start"
+    title: "Start Here"
 
 ## Footer links
 navigation_footer:
