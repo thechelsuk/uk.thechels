@@ -1,9 +1,10 @@
 ---
 layout: projects
 title: Demarkable - DMARC and SMTP-TLS Viewer for MacOS
+seo_title: "Demarkable - DMARC and SMTP TLS Report Viewer for macOS"
+seo_description: "Demarkable is a macOS app that turns DMARC aggregate and SMTP TLS reports into a clear view of who sends mail as your domain. Drop in XML, zip or gzip."
 permalink: /projects/demarkable
 class: applications
-seo: "Demarkable MacOS App - A viewer of DMARC and SMTP-TLS Reports"
 i_name: Purchase on Gumroad
 i_url: "https://thechelsuk.gumroad.com/l/dmarc"
 i_image: "/images/apps/demarkable-banner.png"

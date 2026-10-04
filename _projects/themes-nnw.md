@@ -1,9 +1,10 @@
 ---
 layout: projects
 title: NetNewswire Theme Bundle
+seo_title: "NetNewsWire Themes - Free Theme Bundle for NNW"
+seo_description: "Free, open source themes for the NetNewsWire RSS reader on Mac and iOS. Tap a link on your device to install, with version history on GitHub."
 permalink: /projects/nnw-themes
 class: themes
-seo: "Explore and install custom themes for NetNewsWire"
 i_name: Install
 i_url: "https://github.com/thechelsuk/nnw-themes"
 summary: "Theme bundle for the NetNewsWire RSS reader app that contains a number of light, dark, and adjustable themes."

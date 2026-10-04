@@ -1,9 +1,10 @@
 ---
 layout: projects
 title: Boinc @ thechels
+seo_title: "BOINC @ thechels - Distributed Computing Team Page"
+seo_description: "A simple web page for a BOINC team, where members donate spare computing power to university research in medicine, earth sciences and astronomy."
 permalink: /projects/boinc
 class: websites
-seo: "Boinc @ thechels"
 i_name: Visit
 i_url: "https://boinc.thechels.uk"
 summary: "Micro site to advertise BOINC, a platform that allows computers all round the world to contribute their spare computing capacity to run distributed applications"

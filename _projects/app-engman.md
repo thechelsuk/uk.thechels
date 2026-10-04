@@ -1,9 +1,10 @@
 ---
 layout: projects
 title: EngMan - Coaching Card Decks for Engineering Managers
+seo_title: "EngMan - Coaching Cards App for Engineering Managers"
+seo_description: "EngMan is an iOS app with 200 coaching cards, prompts and frameworks for engineering managers, covering 1:1s, feedback, retros and stakeholders."
 permalink: /projects/engman
 class: applications
-seo: "EngMan iOS App Coaching Cards for Engineering Managers"
 i_name: Download on the iOS App Store
 i_url: "https://apps.apple.com/gb/app/engman/id6747295473"
 i_image: "/images/apps/engman-banner.png"

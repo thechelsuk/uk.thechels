@@ -1,9 +1,10 @@
 ---
 layout: projects
 title: Tomoz - Plan for Tomorrow, Today
+seo_title: "Tomoz - Plan Tomorrow Today, iOS Calendar Planner"
+seo_description: "Tomoz is an iOS app showing only tomorrow's calendar events and reminders in one clean view, with export to Markdown, CSV or JSON for automations."
 permalink: /projects/tomoz
 class: applications
-seo: "Tomoz iOS App Plan for Tomorrow, Today"
 i_name: Download on the iOS App Store
 i_url: "https://apps.apple.com/gb/app/tomoz/id6748755747"
 i_image: "/images/apps/tomoz-banner.png"

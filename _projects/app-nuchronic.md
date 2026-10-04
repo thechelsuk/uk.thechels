@@ -1,9 +1,10 @@
 ---
 layout: projects
 title: Nuchronic - Energy & Symptom Tracker
+seo_title: "Nuchronic - ME/CFS Energy and Symptom Tracker App"
+seo_description: "Nuchronic is an iOS energy and symptom tracker for ME/CFS, long COVID and chronic illness, with a crash plan, health records and PDF reports."
 permalink: /projects/nuchronic-app
 class: applications
-seo: "Nuchronic iOS App Energy and symptom tracker for ME/CFS, long COVID and chronic illness"
 i_name: Coming soon to the iOS App Store
 i_url: "https://nuchronic.uk/app"
 i_image: "/images/apps/nuchronic-banner.png"

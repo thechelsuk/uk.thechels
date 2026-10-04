@@ -1,8 +1,9 @@
 ---
 layout: projects
 title: Delete GitHub Issues - Python Script
+seo_title: "Delete GitHub Issues in Bulk - Python Script"
+seo_description: "An open source Python script to bulk delete closed GitHub issues via the GitHub API, using a classic personal access token, with a dry run mode."
 permalink: /projects/scripts-python-github-issues
-seo: "Delete GitHub Issues - Python Script"
 class: scripts
 i_name: View
 i_url: "https://github.com/thechelsuk/script_delete_github_issues.py"

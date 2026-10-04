@@ -1,9 +1,10 @@
 ---
 layout: projects
 title: "Nuchronic.uk"
+seo_title: "Nuchronic.uk - Webring for the Chronically Ill"
+seo_description: "Nuchronic.uk is an indie web webring and aggregator for people with chronic illness, collecting blogs, podcasts and YouTube channels in one place."
 permalink: /projects/nuchronic
 class: websites
-seo: "A webring for the chronically ill online community"
 i_name: Visit
 i_url: "https://nuchronic.uk"
 summary: "The webring for the chronically ill on the indie web. A dark-mode hacker news style site that aggregates content from a variety of sources, including blogs, podcasts, and YouTube channels, all focused on the blogs and lives of people with chronic illness."

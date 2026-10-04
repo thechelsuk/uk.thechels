@@ -1,9 +1,10 @@
 ---
 layout: projects
 title: RedemptionX - Reddit Deletion Tool
+seo_title: "RedemptionX - Delete All Reddit Posts and Comments"
+seo_description: "RedemptionX is a free Chromium extension that bulk deletes all your Reddit posts and comments via old Reddit. Irreversible, so use it with care."
 permalink: /projects/ext-reddit-delete-tool
 class: plugins
-seo: "Browser extension to irreversibly delete reddit posts and comments for free"
 i_name: GitHub
 i_url: "https://github.com/thechelsuk/ext-chrome-reddit-deletion-tool"
 summary: "A simple Chromium browser plugin to irreversibly delete all your reddit posts and comments. No undo."

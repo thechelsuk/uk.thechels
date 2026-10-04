@@ -1,9 +1,10 @@
 ---
 layout: projects
 title: Cheltenham Open Data
+seo_title: "Cheltenham Open Data - Local Data and RSS Feeds"
+seo_description: "Cheltenham open data project republishing local public data as RSS feeds: threat levels, food banks, flood warnings, local news and useful numbers."
 permalink: /projects/cheltenham-open-data
 class: websites
-seo: "Cheltenham Spa Local Data collection and dissemination"
 i_name: Visit
 i_url: "https://cheltenham-od.uk"
 summary: "A website and GitHub project to collect and disseminate public open data from a variety of sources for local community."

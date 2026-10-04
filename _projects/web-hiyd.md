@@ -1,9 +1,10 @@
 ---
 layout: projects
 title: Hiyd.uk
+seo_title: "Hiyd.uk - Marketing Site for the Hiyd Jekyll App"
+seo_description: "Hiyd.uk is a one page marketing site for the Hiyd Jekyll companion app, built with HTML and CSS on GitHub Pages, with features and download links."
 permalink: /projects/hiyd-web
 class: websites
-seo: "A simple one page marketing site for hiyd."
 i_name: Visit
 i_url: "https://hiyd.uk"
 summary: "A simple one page marketing site for hiyd."

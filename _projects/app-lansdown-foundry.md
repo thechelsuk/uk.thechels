@@ -1,9 +1,10 @@
 ---
 layout: projects
 title: "Lansdown Foundry: Make Fonts"
+seo_title: "Lansdown Foundry - Make Fonts From Handwriting on iPad"
+seo_description: "Lansdown Foundry turns Apple Pencil handwriting into a real, installable font with bold and italic, on iPad and Mac. No account or subscription."
 permalink: /projects/foundry
 class: applications
-seo: "Lansdown Foundry: A font making app on iPad and Mac with iCloud sync and export"
 i_name: "Available: **late October 2026**"
 i_url: "#"
 i_image: "/images/apps/foundry-banner.png"
