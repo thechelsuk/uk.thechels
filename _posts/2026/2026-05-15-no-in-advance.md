@@ -10,7 +10,7 @@ type: linked
 
 Really like this approach. I use some canned messages and text in my app ShortKeys. This feels like a sensible addition.
 
-> **I took an hour to write a really nice "no" in advance. ** Considerate, but decisive. Not too long, but not too short. Generalized and versatile for all situations.
+> **I took an hour to write a really nice "no" in advance.** Considerate, but decisive. Not too long, but not too short. Generalized and versatile for all situations.
 >
 > I saved it on my computer and phone, to copy and paste. Now as soon as I get an unwelcome request? Tap-tap-tap. COPY-PASTE-SEND in three seconds, and it's out of mind.
 >
