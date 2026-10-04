@@ -4,10 +4,20 @@ from datetime import datetime, timedelta
 import os
 from typing import Iterable, List, Tuple, Dict, Any
 
+import sys
+
 import pytz
 import yaml
 
 import config
+
+sys.path.insert(0,
+                os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+import seo_frontmatter  # noqa: E402
+
+FILM_SEO_PADDING = ("Each film gets a score out of ten. "
+                    "A monthly log of what I have been watching. "
+                    "See the films page for every rating.")
 
 Film = Dict[str, Any]
 TimedFilm = Tuple[datetime, Film]
@@ -76,12 +86,23 @@ def build_post_content(
 
     post_time = today.strftime("%Y-%m-%d %H:%M")
     title_date = today.strftime("%B-%Y")
+    month_year = today.strftime("%B %Y")
+    film_names = ", ".join(
+        film.get("title", "") for _, film in recent_films if film.get("title"))
+    seo_title = seo_frontmatter.fit_title(
+        f"Film Club Friday - Films Watched in {month_year}")
+    seo_description = seo_frontmatter.fit_description(
+        f"The films I watched in {month_year} with ratings: {film_names}.",
+        FILM_SEO_PADDING)
 
     front_matter = ("---\n"
                     "\n"
                     "layout: post\n"
                     f"date: {post_time}\n"
                     f"title: Film Club Friday for {title_date}\n"
+                    f"seo_title: {seo_frontmatter.quote(seo_title)}\n"
+                    "seo_description: "
+                    f"{seo_frontmatter.quote(seo_description)}\n"
                     "syndicate: false\n"
                     "type: film\n"
                     "\n"
