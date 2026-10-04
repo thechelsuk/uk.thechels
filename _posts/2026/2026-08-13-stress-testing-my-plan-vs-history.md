@@ -3,8 +3,9 @@ layout: post
 date: 2026-08-13 18:00
 type: blog
 title: "The Road to FIRE - Stress Testing My Plan Against History"
+seo_title: "Stress Testing My FIRE Plan Against Market History"
+seo_description: "Will my net worth be enough to retire at 48? Stress testing my early retirement plan by replaying it against historical market returns."
 tags: [finance]
-seo: "Will my net worth be enough to retire at 48 - stress testing against historical records"
 permalink: "/road-to-fire-stress-testing-retirement-plans-vs-history"
 syndicate:
   - mastodon

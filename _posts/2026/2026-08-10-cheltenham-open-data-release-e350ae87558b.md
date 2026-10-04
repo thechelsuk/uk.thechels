@@ -2,6 +2,8 @@
 layout: post
 date: 2026-08-10 16:19
 title: Cheltenham Open Data Version 2.0.0
+seo_title: "Cheltenham Open Data Version 2.0.0 Released"
+seo_description: "Cheltenham Open Data 2.0.0, collecting local open data for Cheltenham and Gloucestershire, including local fuel prices, with a design refresh."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.cheltenham-od/releases/tag/2.0.0

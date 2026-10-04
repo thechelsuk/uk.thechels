@@ -2,6 +2,8 @@
 layout: post
 date: 2026-07-04 18:57
 title: RedemptionX - Reddit content deletion tool Version v1.2.3
+seo_title: "RedemptionX Reddit Deletion Tool v1.2.3 Released"
+seo_description: "Version 1.2.3 of RedemptionX, my Chromium extension that deletes all your Reddit posts and comments, fixing final bugs and error handling."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/ext-chrome-reddit-deletion-tool/releases/tag/v1.2.3

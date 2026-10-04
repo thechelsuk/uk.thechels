@@ -2,6 +2,8 @@
 layout: post
 date: 2026-08-13 21:55
 title: Template - feed archiver for github Version 1.0.0
+seo_title: "Feed Archiver GitHub Template Version 1.0.0"
+seo_description: "Version 1.0.0 of my GitHub template repo that archives an RSS or Atom feed into a _data folder daily with GitHub Actions for monitoring."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/template-feed-archiver/releases/tag/1.0.0

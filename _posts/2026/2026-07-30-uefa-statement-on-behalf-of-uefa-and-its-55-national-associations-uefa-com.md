@@ -1,9 +1,10 @@
 ---
 date: 2026-07-30
 title: "Uefa Statement on behalf of its 55 national associations"
+seo_title: "UEFA and 55 Associations Reject FIFA's World Cup Sale"
+seo_description: "Linking UEFA: all 55 member associations reject FIFA's plan to sell stakes in the World Cup. Infantino's position as president is untenable."
 cited: "UEFA"
 link: https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/
-seo: "Infantino out, UEFA and its national associations will not participate in FIFA competitions."
 type: linked
 syndicate: false
 layout: post

@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-07-03 19:42
 title: Apple's Hide My Email could be exposing your real email address
+seo_title: "Apple's Hide My Email Could Expose Your Real Address"
+seo_description: "Linking EasyOptOuts: Apple's Hide My Email can still leak your real email address a year after a reported fix, undermining its whole purpose."
 link: https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses
 cited: EasyOptOuts
 type: linked

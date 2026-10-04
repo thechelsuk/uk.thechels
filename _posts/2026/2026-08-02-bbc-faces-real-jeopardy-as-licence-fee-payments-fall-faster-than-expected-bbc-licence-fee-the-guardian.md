@@ -1,9 +1,10 @@
 ---
 date: 2026-08-02 22:00
 title: "BBC licence fee payments down 800,000 in two years"
+seo_title: "BBC Licence Fee Payments Fall Faster Than Expected"
+seo_description: "Linking The Guardian on falling BBC licence fee payments, and why I think the £160 a year licence fee model has had its day."
 cited: The Guardian
 link: https://www.theguardian.com/media/2026/jul/14/bbc-faces-real-jeopardy-as-licence-fee-payments-fall-faster-than-expected
-seo: "Director general Matt Brittin says funding model ties BBC to the past as number of licences falls by 539,000"
 layout: post
 type: linked
 syndicate:

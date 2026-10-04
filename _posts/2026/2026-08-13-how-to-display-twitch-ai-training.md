@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to switch off generative AI training on Twitch
-seo: Ways - How to opt out of AI training on Twitch
+seo_title: "How to Opt Out of AI Training on Twitch"
+seo_description: "Twitch opted every streamer into Amazon's generative AI training using VODs, clips and chat. Here is how to opt out manually in your settings."
 date: 2026-08-13 16:00
 type: ways
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2026-07-23 19:00
 type: blog
 title: Coasting to FIRE in the UK
+seo_title: "Coast FIRE in the UK - Coasting to Early Retirement"
+seo_description: "What coast FIRE means in the UK: saving enough early that growth alone carries you to retirement, like freewheeling a bike down a hill."
 syndicate: true
 show: true
 tags: [finance]

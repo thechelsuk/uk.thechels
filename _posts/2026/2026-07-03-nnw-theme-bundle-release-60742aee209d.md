@@ -2,6 +2,8 @@
 layout: post
 date: 2026-07-03 00:01
 title: NNW Theme Bundle Version v2.1.0
+seo_title: "NetNewsWire Theme Bundle v2.1.0 - Better Link Handling"
+seo_description: "NetNewsWire theme bundle 2.1.0 improves link generation and fixes multi-line and incoming HTML issues, with downloads for each theme."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/tag/v2.1.0

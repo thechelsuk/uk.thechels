@@ -3,6 +3,8 @@ layout: post
 syndicate: true
 date: 2026-07-05 16:43
 title: A Method For Quoteblogs
+seo_title: "A Method for Quoteblogs - Capturing Linked Quotes"
+seo_description: "Linking Frank McPherson's method for quoteblogs, and mine: a Drafts capture template that grabs the title, link, date and highlighted quote."
 link: https://frankmcpherson.blog/2026/07/04/a-method-for-quoteblogs.html
 cited: Frank McPherson
 type: linked

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to Generate a Menu From a Jekyll Collection
-seo: Ways - how to create make generate a menu from a jekyll collection
+seo_title: "How to Generate a Menu From a Jekyll Collection"
+seo_description: "How to build a navigation menu in Jekyll by defining title and url items as YAML in _config.yml or a _data file, then looping in Liquid."
 date: 2026-07-29 18:00
 type: ways
 syndicate: false

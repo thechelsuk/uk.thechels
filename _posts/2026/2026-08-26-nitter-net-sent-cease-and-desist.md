@@ -1,6 +1,8 @@
 ---
 date: 2026-08-26 21:30
 title: "X Corp sends cease and desist to Nitter"
+seo_title: "X Corp Sends Nitter a Cease and Desist"
+seo_description: "Nitter, a mirror for reading X without the app, got a cease and desist. X claims the content is its own, yet not that it is responsible for it."
 cited: "Nitter"
 link: https://nitter.net/
 layout: "post"

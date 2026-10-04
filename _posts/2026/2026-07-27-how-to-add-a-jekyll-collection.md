@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to add a jekyll collection
-seo: Ways - how to add a jekyll collection
+seo_title: "How to Add a Collection to a Jekyll Site"
+seo_description: "How to add a Jekyll collection in _config.yml so it works like posts, making it easy to list, sort and count items of your own content type."
 date: 2026-07-27 13:00
 type: ways
 syndicate: true

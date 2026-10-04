@@ -3,6 +3,8 @@ layout: post
 syndicate: false
 date: 2026-07-06 17:29
 title: UK ranks 22nd out of 38 OECD countries on Zurich’s Chronic Care Index
+seo_title: "UK Ranks 22nd of 38 on Zurich's Chronic Care Index"
+seo_description: "Linking IFA Magazine: the UK spends just 5 per cent of health budget on prevention, with over 2 million inactive due to long-term conditions."
 link: https://ifamagazine.com/uk-ranks-22nd-out-of-38-oecd-countries-on-zurichs/
 cited: IFA Magazine
 type: linked

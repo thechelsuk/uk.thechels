@@ -2,6 +2,8 @@
 layout: post
 date: 2026-07-24 23:00
 title: Film Club Friday for July-2026
+seo_title: "Film Club Friday - Films Watched in July 2026"
+seo_description: "The films I watched in July 2026 with ratings, from Compulsion at 10 out of 10 to 47 Meters Down, Prey, Kung Fu Panda and The Platform 2."
 syndicate: false
 type: film
 ---
