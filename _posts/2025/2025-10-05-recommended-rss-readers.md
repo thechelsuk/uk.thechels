@@ -3,6 +3,8 @@ layout: post
 date: 2025-10-05
 link: https://www.coryd.dev/posts/2025/recommended-rss-readers
 title: Recommended RSS readers
+seo_title: "Recommended RSS Readers - Cory Dransfeldt"
+seo_description: "Linking Cory Dransfeldt's recommended RSS readers. RSS remains a clean, simple way to curate your own news and content from across the web."
 type: linked
 cited: Cory Dransfeldt
 ---

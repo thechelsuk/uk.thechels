@@ -3,6 +3,8 @@ layout: post
 date: 2025-10-04
 link: https://daringfireball.net/2025/09/apple_on_the_digital_markets_act
 title: Apple on the Digital Markets Act
+seo_title: "Apple on the EU Digital Markets Act - Daring Fireball"
+seo_description: "Linking John Gruber on Apple's DMA response: EU users are missing out on great features like AirPods Live Translation and iPhone Mirroring."
 type: linked
 cited: John Gruber (Daring Fireball)
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2025-12-09
 link: https://www.gov.uk/government/news/covid-fraud-cost-uk-taxpayer-109-billion-reveals-independent-report
 title: Covid fraud cost UK taxpayer £10.9 billion
+seo_title: "Covid Fraud Cost UK Taxpayers £10.9 Billion"
+seo_description: "Linking GOV.UK: Covid schemes like Bounce Back Loans had huge fraud risks. Could recouped money fund ME/CFS and long Covid research?"
 type: linked
 cited: Gov.uk
 tags:

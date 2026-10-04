@@ -2,10 +2,11 @@
 layout: post
 date: 2025-08-02
 title: "Substack sent a push alert promoting a Nazi blog"
+seo_title: "Substack Sent a Push Alert Promoting a Nazi Blog"
+seo_description: "Linking Taylor Lorenz: Substack sent a push alert encouraging users to subscribe to a Nazi newsletter pushing white supremacy and hate."
 type: linked
 cited: Taylor Lorenz
 link: https://www.usermag.co/p/substack-sent-a-push-alert-promoting-nazi-white-supremacist-blog
-seo: "The newsletter's logo is a swastika and it has pushed Holocaust denialism"
 ---
 
 > Substack sent a push alert encouraging users to subscribe to a Nazi newsletter that claimed Jewish people are a sickness and that we must eradicate minorities to build a “White homeland.”

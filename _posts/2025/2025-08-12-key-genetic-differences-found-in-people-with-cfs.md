@@ -3,6 +3,8 @@ layout: post
 date: 2025-08-12
 link: https://www.newscientist.com/article/2491509-key-genetic-differences-found-in-people-with-chronic-fatigue-syndrome/
 title: Key genetic differences found in people with CFS
+seo_title: "DecodeME Finds Key Genetic Differences in ME/CFS"
+seo_description: "Linking New Scientist: the DecodeME study compared DNA from 15,500 people with ME/CFS and 260,000 without, and found eight genetic signals."
 type: linked
 cited: New Scientist
 ---

@@ -2,6 +2,8 @@
 layout: post
 date: 2025-10-09
 title: Free the web
+seo_title: "Free the Web - Captchas, Checks and Cookie Banners"
+seo_description: "The web used to be open. Now it hides behind human verification, captchas and cookie banners that fail visitors using basic browser privacy tools."
 
 type: blog
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2025-10-01
 link: https://www.macrumors.com/2025/10/01/uk-issues-new-order-for-icloud-data/
 title: UK Gov Issues New Order to Access iCloud User Data
+seo_title: "UK Issues New Order to Access Encrypted iCloud Data"
+seo_description: "Linking MacRumors: the UK Home Office issued a new demand in September 2025 for Apple to let officials access encrypted iCloud user data."
 type: linked
 cited: MacRumors
 ---

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: What to Do Before You Die
+seo_title: "What to Do Before You Die - Estate Planning Checklist"
+seo_description: "An essential estate planning checklist for the UK: a valid will, lasting power of attorney and the other documents and details to sort out."
 date: 2025-10-21
 
 type: blog

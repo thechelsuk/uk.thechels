@@ -3,6 +3,8 @@ layout: post
 date: 2025-12-20
 link: https://www.theguardian.com/football/2025/dec/16/chelsea-injury-increase-club-world-cup-premier-league
 title: Chelsea count cost of Club World Cup
+seo_title: "Chelsea Count the Injury Cost of the Club World Cup"
+seo_description: "Linking The Guardian: Chelsea saw a 44 per cent rise in injuries from June to October 2025 compared with last season, after the Club World Cup."
 type: linked
 cited: The Guardian
 ---

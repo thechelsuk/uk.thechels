@@ -3,6 +3,8 @@ layout: post
 date: 2025-07-27
 link: https://mikefisher.substack.com/p/people-principles-process-product
 title: People - Principles - Process  - Product
+seo_title: "People, Principles, Process, Product - Mike Fisher"
+seo_description: "Linking Mike Fisher on the order to focus on: get the people right first, then principles and culture, then process, and finally the product."
 type: linked
 cited: Mike Fisher
 ---

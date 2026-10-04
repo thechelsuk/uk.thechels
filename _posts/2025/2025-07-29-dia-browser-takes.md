@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Dia Browser Takes
+seo_title: "Dia Browser Takes - From Arc to The Browser Company's Dia"
+seo_description: "My take on Dia, The Browser Company's second browser, after a year on Arc with left-hand tabs on a 34 inch screen. Simpler, but a step back."
 date: 2025-07-29
 type: blog
 ---

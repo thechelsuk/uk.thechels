@@ -3,6 +3,8 @@ layout: post
 date: 2025-08-25
 link: https://sixcolors.com/post/2025/08/apple-makes-it-hard-to-load-audiobooks-purchased-elsewhere/
 title: Sideloading audiobooks to an iPhone
+seo_title: "Sideloading Audiobooks to an iPhone Is Too Hard"
+seo_description: "Linking Six Colors on how hard Apple makes it to load audiobooks bought elsewhere, and how podcast apps often allow importing audio files."
 type: linked
 cited: Six Colors
 ---

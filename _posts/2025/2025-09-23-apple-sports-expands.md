@@ -3,6 +3,8 @@ layout: post
 date: 2025-09-23
 link: https://www.apple.com/newsroom/2025/09/apple-sports-adds-widgets-and-expands-to-eight-new-countries/
 title: Apple Sports expands
+seo_title: "Apple Sports Expands to Eight New Countries"
+seo_description: "Linking Apple: the Apple Sports app adds widgets and launches in eight more countries in Europe, but still no women's football coverage there."
 type: linked
 cited: Apple
 ---

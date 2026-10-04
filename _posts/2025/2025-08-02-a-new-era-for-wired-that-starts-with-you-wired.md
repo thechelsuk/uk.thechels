@@ -2,8 +2,9 @@
 layout: post
 date: 2025-08-02
 title: "A New Era for WIRED — That Starts With You"
+seo_title: "A New Era for WIRED - Newsletters and Livestreams"
+seo_description: "Linking WIRED's Katie Drummond on new premium newsletters and livestreams, as the platforms that used to connect outlets with readers change."
 link: https://www.wired.com/story/a-new-era-for-wired-that-starts-with-you/
-seo: "More ways to enjoy WIRED - journalism, including premium newsletters and livestream"
 type: linked
 cited: Katie Drummond (Wired)
 ---

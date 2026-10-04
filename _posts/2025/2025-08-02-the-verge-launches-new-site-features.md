@@ -2,10 +2,11 @@
 layout: post
 date: 2025-08-02
 title: "The Verge Launches New Site Features Aimed at Deepening Audience Engagement"
+seo_title: "The Verge Launches Follow Features and Daily Digest"
+seo_description: "Linking The Verge's new features: readers can follow topics and individual journalists, and get a personalised daily email digest."
 type: linked
 cited: Dane McMillan
 link: https://www.theverge.com/press-room/710921/verge-site-features-launch-newsletters
-seo: "The site’s users can now follow reporters and topics, and receive a personalized daily email digest."
 ---
 
 > The Verge today launched a suite of homepage and editorial product updates aimed at deepening its direct relationship with readers. The announcement includes a new feature that allows readers to follow topics and individual Verge journalists, view those stories in a personalized feed on the homepage, and receive them via a daily digest email. Over the next month, the site will also launch several new editorial newsletters: a daily free flagship newsletter to give readers even more options for how they access The Verge, and multiple subscriber-exclusive offerings that will join Alex Heath’s Command Line and Tom Warren’s Notepad as part of The Verge’s paid subscription.

@@ -2,6 +2,8 @@
 layout: post
 date: 2025-07-20
 title: Accessibility Development Digest
+seo_title: "Accessibility Development Digest - July 2025"
+seo_description: "A digest of favourite web design and accessibility articles from my RSS reader, including Adrian Roselli on ARIA and accessible tables."
 
 type: blog
 ---
