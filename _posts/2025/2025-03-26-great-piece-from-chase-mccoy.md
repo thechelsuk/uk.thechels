@@ -3,6 +3,8 @@ layout: post
 date: 2025-03-26
 link: https://notes.jim-nielsen.com/#2025-03-24T2151
 title: Great piece from Chase McCoy
+seo_title: "The Filesystem Has Failed Us - Chase McCoy"
+seo_description: "Linking Chase McCoy via Jim Nielsen: graph features in Notion and Obsidian show the filesystem has failed us, costing us ownership of our data."
 type: linked
 cited: Jim Nielsen
 ---

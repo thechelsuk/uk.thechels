@@ -2,6 +2,8 @@
 layout: post
 date: 2025-03-26
 title: Zettelkasten - Personal Knowledge Management System
+seo_title: "Zettelkasten - A Personal Knowledge Management System"
+seo_description: "What Zettelkasten is and how to use it: capture insights from reading and connect ideas over time into a living web of notes, not a filing cabinet."
 
 type: blog
 ---

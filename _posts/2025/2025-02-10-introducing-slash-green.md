@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-10
 title: Introducing slash green
+seo_title: "Introducing /green - A New IndieWeb Slash Page"
+seo_description: "Proposing /green, a new IndieWeb slash page where website owners share their work towards the environment, sustainability and decarbonisation."
 
 type: blog
 ---

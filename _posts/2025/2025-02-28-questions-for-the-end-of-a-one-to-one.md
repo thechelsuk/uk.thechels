@@ -3,6 +3,8 @@ layout: post
 date: 2025-02-28
 link: https://cate.blog/2025/02/25/questions-for-the-end-of-a-11/
 title: Questions for the End of a one-to-one
+seo_title: "Questions to Ask at the End of a One-to-One"
+seo_description: "Linking Cate Huston's questions for the end of one-to-ones, such as what are you taking away and what was most useful to you today."
 type: linked
 cited: Cate Huston (Accidentally in Code)
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2025-02-01
 link: https://newsletter.techleadmentor.com/p/how-to-write-good-runbooks
 title: How to Write Good Runbooks
+seo_title: "How to Write Good Runbooks for Engineering Teams"
+seo_description: "Linking Tech Lead Mentor on good runbooks: one problem per runbook, dashboards to confirm the issue, and steps any new team member can follow."
 type: linked
 cited: Raviraj Achar
 ---

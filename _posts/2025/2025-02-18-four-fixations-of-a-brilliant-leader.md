@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-18
 title: Four Fixations of a Brilliant Leader
+seo_title: "Four Fixations of a Brilliant Leader - The VIDA Model"
+seo_description: "The four fixations of a brilliant leader based on the VIDA model, starting with vision: a desirable future state that attracts and aligns people."
 
 type: blog
 ---

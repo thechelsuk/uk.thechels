@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-23
 title: Personal Kanban - Mapping Work, Navigating Life
+seo_title: "Personal Kanban Book Summary - Mapping Work"
+seo_description: "My summary of Personal Kanban by Jim Benson and Tonianne DeMaria Barry: visualise your work, limit work in progress and build your first board."
 
 type: blog
 ---

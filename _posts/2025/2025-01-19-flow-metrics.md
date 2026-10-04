@@ -3,6 +3,8 @@ layout: post
 date: 2025-01-19
 link: https://www.scrum.org/resources/blog/case-flow-metrics
 title: Flow Metrics - Agile Development Performance Measurement
+seo_title: "The Case for Flow Metrics in Agile Teams"
+seo_description: "Linking Scrum.org on flow metrics: count completed backlog items each sprint for simpler planning and more accurate forecasts than estimates."
 type: linked
 cited: Scrum.org
 ---

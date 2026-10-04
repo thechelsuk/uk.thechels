@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-22
 title: Radical Focus - A Guide to Achieving Goals with OKRs
+seo_title: "Radical Focus Book Summary - Achieving Goals With OKRs"
+seo_description: "My summary of Radical Focus by Christina Wodtke: why we cannot get things done, OKR fundamentals, setting OKRs and a weekly cadence to hit them."
 
 type: blog
 ---

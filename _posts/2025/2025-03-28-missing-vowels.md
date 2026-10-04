@@ -2,6 +2,8 @@
 layout: post
 date: 2025-03-28
 title: Missing Vowels - Football Player Name Game Archive
+seo_title: "Missing Vowels - Football Player Name Puzzle Bot"
+seo_description: "From the archives: my Twitter bot that posted footballers' names with vowels and spaces removed, then the answer, with the Python that did it."
 
 type: blog
 ---

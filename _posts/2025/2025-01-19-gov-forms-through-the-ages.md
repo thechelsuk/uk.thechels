@@ -3,6 +3,8 @@ layout: post
 date: 2025-01-19
 link: https://gds.blog.gov.uk/2024/12/03/gov-uk-forms-through-the-ages/
 title: GOV Forms through the ages
+seo_title: "GOV.UK Forms Through the Ages - From Beta to Live"
+seo_description: "Linking the GDS blog on the history of GOV.UK Forms, from private beta in March 2022 with partner departments to the platform it is today."
 type: linked
 cited: Government Digital Service
 ---

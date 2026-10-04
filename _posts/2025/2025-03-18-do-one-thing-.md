@@ -3,6 +3,8 @@ layout: post
 date: 2025-03-18
 link: https://dansinker.com/posts/2025-03-16-one-thing/
 title: Do One Thing - Focus and Productivity Strategies
+seo_title: "Do One Thing - Focus When the News Is Overwhelming"
+seo_description: "Linking Dan Sinker on finding focus when awful news breaks at an unrelenting pace and it feels impossible to look away: do one thing."
 type: linked
 cited: dansinker.com
 ---

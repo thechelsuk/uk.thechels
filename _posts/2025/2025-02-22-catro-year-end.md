@@ -3,6 +3,8 @@ layout: post
 date: 2025-02-21
 link: https://castro.fm/blog/state-of-the-app-year-1
 title: State of the Castro app 2024
+seo_title: "State of the Castro Podcast App After One Year"
+seo_description: "Linking Castro's first year under new owners. I am happy with the performance improvements and no longer miss episodes across 230 podcasts."
 type: linked
 cited: Castro
 ---

@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-16
 title: The GROW Model - Goals, Realities, Options, and Will
+seo_title: "The GROW Coaching Model - Goals, Reality, Options, Will"
+seo_description: "The GROW coaching model explained: goals, reality, options and will, helping people clarify goals, assess the situation and find a way forward."
 
 type: blog
 ---

@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-09
 title: Institutions will be institutions - boys will be boys
+seo_title: "Institutions Will Be Institutions, Boys Will Be Boys"
+seo_description: "On the fatalism that some behaviours are inevitable whatever our upbringing, and why institutions follow the crowd and their paying customers."
 
 type: blog
 ---

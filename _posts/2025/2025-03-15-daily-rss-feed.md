@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Daily RSS Feed - Jekyll Automation and Schedule Setup
-seo: How I built a daily page and RSS feed in Jekyll
+seo_title: "How I Built a Daily Rundown RSS Feed in Jekyll"
+seo_description: "How I turned my daily rundown page, built by scheduled Python scripts, into a Jekyll RSS feed so it arrives in my feed reader every morning."
 date: 2025-03-15
 
 type: blog

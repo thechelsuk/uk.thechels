@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-17
 title: The Discovery Questionnaire
+seo_title: "The Discovery Questionnaire for Coaching Clients"
+seo_description: "A confidential discovery questionnaire for coaching, asking about your life and work, what you love, what you would change and your career."
 
 type: blog
 ---

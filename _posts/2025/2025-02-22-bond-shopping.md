@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-22
 title: Bond Shopping - MI6 Q's Lab Equipment Adventure
+seo_title: "Bond Shopping - A Comedy Sketch in Q's Lab at MI6"
+seo_description: "A comedy sketch script: James Bond visits Q's lab at MI6 for his next gadget, and it is definitely not another exploding pen. Or is it?"
 
 type: blog
 ---

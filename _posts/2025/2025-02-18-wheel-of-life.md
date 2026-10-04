@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-18
 title: The Wheel of Life
+seo_title: "The Wheel of Life - A Coaching Tool for Balance"
+seo_description: "The wheel of life coaching tool: a circle split into the areas and roles of your life, used to highlight imbalances that need your attention."
 
 type: blog
 ---

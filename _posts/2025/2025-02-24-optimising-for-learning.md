@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-24
 title: Optimising for Learning
+seo_title: "Optimising for Learning in Engineering Teams"
+seo_description: "How we optimise for learning: think and plan before coding to find the simplest solution, eliminate waste with YAGNI and KISS, and accept failure."
 
 type: blog
 ---

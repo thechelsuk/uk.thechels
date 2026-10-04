@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-16
 title: PRACTICE coaching Model
+seo_title: "The PRACTICE Coaching Model Explained Step by Step"
+seo_description: "The PRACTICE coaching model explained step by step, starting with problem identification, where the coach clarifies and understands the issue."
 
 type: blog
 ---

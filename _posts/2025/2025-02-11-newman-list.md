@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-11
 title: The Newman List
+seo_title: "The Newman List - A Framework for Good Teams"
+seo_description: "Patrick Newman's list for managers balancing their responsibilities, such as everyone knowing what to work on and having regular career chats."
 type: linked
 cited: Patrick Newman
 link: #

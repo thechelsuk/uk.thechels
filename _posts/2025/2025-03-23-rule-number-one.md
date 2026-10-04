@@ -2,6 +2,8 @@
 layout: post
 date: 2025-03-23
 title: Rule One - People First Culture and Radical Candor
+seo_title: "Rule Number One - Put People First at Work"
+seo_description: "Rule one for any organisation: a people-first culture that values every contribution, promotes inclusion and diversity, and welcomes debate."
 
 type: blog
 ---

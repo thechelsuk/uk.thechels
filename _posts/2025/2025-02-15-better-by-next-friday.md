@@ -3,6 +3,8 @@ layout: post
 date: 2025-02-15
 link: https://www.gov.uk/government/speeches/reform-of-the-state-has-to-deliver-for-the-people
 title: Better by next Friday
+seo_title: "Better by Next Friday - Iterative Government Reform"
+seo_description: "Linking a UK government speech on reforming the state: start small, test with people, fix problems and iterate, rather than plan everything first."
 type: linked
 cited: Gov.uk
 ---

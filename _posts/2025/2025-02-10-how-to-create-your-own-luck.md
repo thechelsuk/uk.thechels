@@ -3,6 +3,8 @@ layout: post
 date: 2025-02-10
 link: https://read.developingskills.fyi/p/how-to-create-your-own-luck
 title: How To Create Your Own Luck
+seo_title: "How to Create Your Own Luck in Your Career"
+seo_description: "Linking John Crickett on creating your own luck, and the clear moments that drove my own career growth despite not being particularly lucky."
 type: linked
 cited: John Crickett
 ---

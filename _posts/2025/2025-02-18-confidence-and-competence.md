@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-18
 title: Confidence and Competence
+seo_title: "Confidence and Competence - A Situational Leadership Guide"
+seo_description: "How to lead based on confidence and competence: delegate to the confident and competent, coach the unsure, and direct or retrain the rest."
 
 type: blog
 ---

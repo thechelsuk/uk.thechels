@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-17
 title: SBIR Framework for giving positive feedback
+seo_title: "SBIR Framework for Giving Positive Feedback"
+seo_description: "Linking Build the Stage on the SBIR framework, situation, behaviour, impact and result, a simple structure for giving positive feedback at work."
 link: https://www.buildthestage.com/how-to-give-positive-feedback-to-colleagues-with-examples
 type: linked
 cited: Build the Stage

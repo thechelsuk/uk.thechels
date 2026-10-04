@@ -2,6 +2,8 @@
 layout: post
 date: 2025-03-23
 title: Football Narratives
+seo_title: "Football Narratives - Chelsea Women Beat Man City"
+seo_description: "Chelsea Women beat Man City 2-1 away, and the post-match narrative around referees, VAR and an offside City goal tells an interesting story."
 type: blog
 ---
 

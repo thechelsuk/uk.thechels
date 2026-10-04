@@ -3,6 +3,8 @@ layout: post
 date: 2025-02-15
 link: https://spyglass.org/netflix-apple-tv/
 title: Netflix and Apple TV
+seo_title: "Netflix and Apple TV - A User Experience Failure"
+seo_description: "Linking Spyglass on Netflix and the Apple TV app, and why snubbing affluent Apple TV users who care about good experiences makes little sense."
 type: linked
 cited: Spyglass
 ---

@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-23
 title: Peopleware - Productive Projects and Teams
+seo_title: "Peopleware Book Summary - Productive Projects and Teams"
+seo_description: "My summary of Peopleware by DeMarco and Lister: managing people, the office environment, hiring the right people and growing productive teams."
 
 type: blog
 ---

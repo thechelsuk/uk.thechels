@@ -2,6 +2,8 @@
 layout: post
 date: "2025-02-14"
 title: Thechels.uk Version 1.5.0
+seo_title: "thechels.uk Version 1.5.0 Release Notes"
+seo_description: "Release notes for version 1.5.0 of the thechels.uk website, including testing changes and Dependabot updates to the lychee link checker action."
 type: release
 link: https://github.com/thechelsuk/uk.thechels/releases/tag/1.5.0
 release_id: tag:github.com,2008:Repository/107385143/1.5.0

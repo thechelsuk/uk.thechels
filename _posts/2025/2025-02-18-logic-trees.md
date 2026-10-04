@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-17
 title: Logic Trees - Strategic Problem Decomposition Method
+seo_title: "Logic Trees - Breaking Down Problems for Strategy"
+seo_description: "Using logic trees to decompose problems for strategy: branch each problem down with techniques like the five whys to find solutions to work on."
 
 type: blog
 ---

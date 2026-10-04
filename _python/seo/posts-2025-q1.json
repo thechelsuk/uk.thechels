@@ -1,0 +1,426 @@
+{
+  "_posts/2025/2025-01-01-picks-of-the-year-2024.md": {
+    "seo_title": "My Picks of the Year 2024 - Tech, Apps and More",
+    "seo_description": "My favourite things of 2024: the M4 Mac mini as the best value Mac ever, the Royal Kludge N80 keyboard, 1Password as app of the year, and more."
+  },
+  "_posts/2025/2025-01-04-budgetary-ideas-for-2025.md": {
+    "seo_title": "Budget Ideas for 2025 - Tax Reform Suggestions for the UK",
+    "seo_description": "My UK budget ideas for 2025: merge national insurance into income tax, raise the higher rate threshold to £75,000 and reform child benefit."
+  },
+  "_posts/2025/2025-01-05-going-greener.md": {
+    "seo_title": "Going Greener - EV, Solar Panels and Home Battery",
+    "seo_description": "Our steps to a greener home: an electric car and EV charger, ten solar panels with a 5kW battery, and next insulation cladding and a heat pump."
+  },
+  "_posts/2025/2025-01-05-olio.md": {
+    "seo_title": "Olio - Sharing Food and Items to Cut Waste",
+    "seo_description": "I rejoined Olio and gifted 28 items to local people, saving them from landfill. Why I recommend the food and item sharing app for sustainability."
+  },
+  "_posts/2025/2025-01-05-stench-of-musk.md": {
+    "seo_title": "The Stench of Musk - Meddling in UK Politics",
+    "seo_description": "A thought: perhaps the world's richest man should spend less time criticising UK politicians and more time on the crises in his own country."
+  },
+  "_posts/2025/2025-01-06-magic-links-passkeys.md": {
+    "seo_title": "Magic Links and Passkeys - Ricky Mondello",
+    "seo_description": "Linking Ricky Mondello on magic links and passkeys, and why, as a password manager advocate, I prefer passkeys over emailed login links."
+  },
+  "_posts/2025/2025-01-07-what-does-your-manager-think.md": {
+    "seo_title": "Decoding Your Manager - A Newsletter for Engineers",
+    "seo_description": "Introducing Decoding Your Manager: send in questions and get candid answers from 20 years in software engineering on what your manager really means."
+  },
+  "_posts/2025/2025-01-19-flow-metrics.md": {
+    "seo_title": "The Case for Flow Metrics in Agile Teams",
+    "seo_description": "Linking Scrum.org on flow metrics: count completed backlog items each sprint for simpler planning and more accurate forecasts than estimates."
+  },
+  "_posts/2025/2025-01-19-gov-forms-through-the-ages.md": {
+    "seo_title": "GOV.UK Forms Through the Ages - From Beta to Live",
+    "seo_description": "Linking the GDS blog on the history of GOV.UK Forms, from private beta in March 2022 with partner departments to the platform it is today."
+  },
+  "_posts/2025/2025-01-19-new-front-end-features-for-designers-in-2025.md": {
+    "seo_title": "New Front-End Features for Designers in 2025",
+    "seo_description": "Linking Smashing Magazine's round-up of new CSS and front-end features now supported in modern browsers that simplify day-to-day design work."
+  },
+  "_posts/2025/2025-01-26-load-the-default-os-font-with-css.md": {
+    "seo_title": "Load the Default OS Font With CSS - Site Refresh",
+    "seo_description": "Linking Stefan Judis on using the system font with CSS, which I used in a site refresh: five main colours, one accent and no Google Fonts call."
+  },
+  "_posts/2025/2025-02-01-how-to-write-good-runbooks.md": {
+    "seo_title": "How to Write Good Runbooks for Engineering Teams",
+    "seo_description": "Linking Tech Lead Mentor on good runbooks: one problem per runbook, dashboards to confirm the issue, and steps any new team member can follow."
+  },
+  "_posts/2025/2025-02-01-public-statement.md": {
+    "seo_title": "A Public Statement on Diesel Cars and Accidents",
+    "seo_description": "A brief, tongue-in-cheek public statement: I have not owned or leased a diesel car between 2008 and 2020, nor had an accident that was not my fault."
+  },
+  "_posts/2025/2025-02-01-what-makes-a-good-team.md": {
+    "seo_title": "What Makes a Good Team - Cate Huston",
+    "seo_description": "Linking Cate Huston on what makes a good team: bad teams are obvious through chaos and drama, and good teams are reliable and deliver real value."
+  },
+  "_posts/2025/2025-02-05-raycast-hyper-key.md": {
+    "seo_title": "Raycast Adds a Hyper Key for Mac Shortcuts",
+    "seo_description": "Raycast, the Spotlight replacement for Mac, now has a hyper key: one key that acts as shift, control, option and command for custom shortcuts."
+  },
+  "_posts/2025/2025-02-08-a-well-known-url-for-your-personal-avatar.md": {
+    "seo_title": "A .well-known URL for Your Personal Avatar",
+    "seo_description": "Linking Jim Nielsen's proposal for a .well-known/avatar URL, so anyone who owns a domain can publish their avatar in a standard location."
+  },
+  "_posts/2025/2025-02-08-castro-adds-transcript-support.md": {
+    "seo_title": "Castro Podcast App Adds Transcript Support",
+    "seo_description": "Linking Castro's release adding podcast transcripts, with full support for JSON, SRT and VTT formats from the podcast namespace, plus HTML."
+  },
+  "_posts/2025/2025-02-09-institutions-will-be-institutions,-boys-will-be-boys.md": {
+    "seo_title": "Institutions Will Be Institutions, Boys Will Be Boys",
+    "seo_description": "On the fatalism that some behaviours are inevitable whatever our upbringing, and why institutions follow the crowd and their paying customers."
+  },
+  "_posts/2025/2025-02-10-how-to-create-your-own-luck.md": {
+    "seo_title": "How to Create Your Own Luck in Your Career",
+    "seo_description": "Linking John Crickett on creating your own luck, and the clear moments that drove my own career growth despite not being particularly lucky."
+  },
+  "_posts/2025/2025-02-10-introducing-slash-green.md": {
+    "seo_title": "Introducing /green - A New IndieWeb Slash Page",
+    "seo_description": "Proposing /green, a new IndieWeb slash page where website owners share their work towards the environment, sustainability and decarbonisation."
+  },
+  "_posts/2025/2025-02-10-k-is-for-k.i.s.s..md": {
+    "seo_title": "K Is for KISS - Keep It Simple in Code Craft",
+    "seo_description": "Linking Jason Gorman's A-Z of code craft on KISS: simpler code is often harder to write, needing more thought, discipline and less ego."
+  },
+  "_posts/2025/2025-02-11-newman-list.md": {
+    "seo_title": "The Newman List - A Framework for Good Teams",
+    "seo_description": "Patrick Newman's list for managers balancing their responsibilities, such as everyone knowing what to work on and having regular career chats."
+  },
+  "_posts/2025/2025-02-14-thechels-uk-release-fd93bd11b75b.md": {
+    "seo_title": "thechels.uk Version 1.5.0 Release Notes",
+    "seo_description": "Release notes for version 1.5.0 of the thechels.uk website, including testing changes and Dependabot updates to the lychee link checker action."
+  },
+  "_posts/2025/2025-02-15-better-by-next-friday.md": {
+    "seo_title": "Better by Next Friday - Iterative Government Reform",
+    "seo_description": "Linking a UK government speech on reforming the state: start small, test with people, fix problems and iterate, rather than plan everything first."
+  },
+  "_posts/2025/2025-02-15-heat-death-of-the-internet.md": {
+    "seo_title": "The Heat Death of the Internet",
+    "seo_description": "Linking Takahē on the heat death of the internet: app-only ordering, different prices per app, and everyday tasks made worse by platforms."
+  },
+  "_posts/2025/2025-02-15-measure-team-health-with-petals.md": {
+    "seo_title": "Measure Team Health With PETALS - Si Jobling",
+    "seo_description": "Linking Si Jobling's PETALS framework for engineering team health, covering productivity, enjoyment, teamwork and more key dimensions."
+  },
+  "_posts/2025/2025-02-15-netflix-and-apple-tv.md": {
+    "seo_title": "Netflix and Apple TV - A User Experience Failure",
+    "seo_description": "Linking Spyglass on Netflix and the Apple TV app, and why snubbing affluent Apple TV users who care about good experiences makes little sense."
+  },
+  "_posts/2025/2025-02-16-bicep-core-needs.md": {
+    "seo_title": "BICEPS Core Needs at Work - Paloma Medina",
+    "seo_description": "Paloma Medina's BICEPS model groups six core human needs at work, starting with belonging. Knowing them improves communication and inclusion."
+  },
+  "_posts/2025/2025-02-16-bluf-standard.md": {
+    "seo_title": "BLUF - Bottom Line Up Front Communication",
+    "seo_description": "Linking Animalz on BLUF, bottom line up front, a military communication standard that puts the most important point first in emails and reports."
+  },
+  "_posts/2025/2025-02-16-energy-investment-model.md": {
+    "seo_title": "The Energy Investment Model - Attitude and Effort",
+    "seo_description": "The energy investment model maps people by attitude and effort into four groups: players, spectators, cynics and deadwood, and how to lead each."
+  },
+  "_posts/2025/2025-02-16-first-one-to-one.md": {
+    "seo_title": "Questions for a First One-to-One With a New Report",
+    "seo_description": "A set of questions for your first one-to-one with a new direct report, from what they enjoy outside work to what motivates them most."
+  },
+  "_posts/2025/2025-02-16-good-one-to-one-template.md": {
+    "seo_title": "GOOD One-to-One Meeting Template for Managers",
+    "seo_description": "A one-to-one template giving managers and employees structure for regular conversations. I prefer fortnightly one-to-ones, at least monthly."
+  },
+  "_posts/2025/2025-02-16-key-capabilities-dora.md": {
+    "seo_title": "DORA Key Capabilities - The 24 Drivers of Improvement",
+    "seo_description": "The 24 key capabilities that drive software delivery performance, from the State of DevOps research behind the book Accelerate by Forsgren et al."
+  },
+  "_posts/2025/2025-02-16-leadership-is-language.md": {
+    "seo_title": "Leadership Is Language - David Marquet",
+    "seo_description": "A quote from Leadership Is Language by David Marquet on moving beyond the Industrial Age split between deciders and doers in modern organisations."
+  },
+  "_posts/2025/2025-02-16-no-hello.md": {
+    "seo_title": "No Hello - Do Not Just Say Hello in Chat",
+    "seo_description": "Linking No Hello: why you should not just say hello in chat and wait. Ask your full question up front so colleagues can answer straight away."
+  },
+  "_posts/2025/2025-02-16-seven-coaching-questions.md": {
+    "seo_title": "Seven Coaching Questions From The Coaching Habit",
+    "seo_description": "The seven coaching questions from The Coaching Habit by Michael Bungay Stanier, to keep coaching simple: ask more, listen more and tell less."
+  },
+  "_posts/2025/2025-02-16-the-GROW-model.md": {
+    "seo_title": "The GROW Coaching Model - Goals, Reality, Options, Will",
+    "seo_description": "The GROW coaching model explained: goals, reality, options and will, helping people clarify goals, assess the situation and find a way forward."
+  },
+  "_posts/2025/2025-02-16-the-practice-coaching-model.md": {
+    "seo_title": "The PRACTICE Coaching Model Explained Step by Step",
+    "seo_description": "The PRACTICE coaching model explained step by step, starting with problem identification, where the coach clarifies and understands the issue."
+  },
+  "_posts/2025/2025-02-17-SBIR-framework-feedback copy.md": {
+    "seo_title": "SBIR Framework for Giving Positive Feedback",
+    "seo_description": "Linking Build the Stage on the SBIR framework, situation, behaviour, impact and result, a simple structure for giving positive feedback at work."
+  },
+  "_posts/2025/2025-02-17-difficult-conversations-at-work.md": {
+    "seo_title": "Navigating Difficult Conversations at Work",
+    "seo_description": "How to navigate difficult conversations at work, starting with preparation: clear time beforehand to gather information and anticipate reactions."
+  },
+  "_posts/2025/2025-02-17-discovery-questionnaire.md": {
+    "seo_title": "The Discovery Questionnaire for Coaching Clients",
+    "seo_description": "A confidential discovery questionnaire for coaching, asking about your life and work, what you love, what you would change and your career."
+  },
+  "_posts/2025/2025-02-17-monkey-management copy.md": {
+    "seo_title": "Monkey Management - Stop Problems Being Delegated Up",
+    "seo_description": "Monkey management, from a 1974 Harvard Business Review article by Oncken and Wass, is a way to stop unsolved problems being delegated upwards."
+  },
+  "_posts/2025/2025-02-18-confidence-and-competence.md": {
+    "seo_title": "Confidence and Competence - A Situational Leadership Guide",
+    "seo_description": "How to lead based on confidence and competence: delegate to the confident and competent, coach the unsure, and direct or retrain the rest."
+  },
+  "_posts/2025/2025-02-18-drama-triangle.md": {
+    "seo_title": "The Drama Triangle - Recognising Conflict at Work",
+    "seo_description": "Linking Charles Lambdin on the drama triangle, rooted in transactional analysis, and how to recognise and avoid drama at work and in life."
+  },
+  "_posts/2025/2025-02-18-dreyfus-model.md": {
+    "seo_title": "The Dreyfus Model of Skill Acquisition Explained",
+    "seo_description": "The Dreyfus model of skill acquisition: the five stages from novice and advanced beginner to competent, proficient and expert, and what each needs."
+  },
+  "_posts/2025/2025-02-18-five-step-coaching-habit.md": {
+    "seo_title": "The Five Steps to Building a Coaching Habit",
+    "seo_description": "Five components for building a new habit from The Coaching Habit: a reason, a trigger, a micro-habit, effective practice and a plan."
+  },
+  "_posts/2025/2025-02-18-four-fixations-of-a-brilliant-leader.md": {
+    "seo_title": "Four Fixations of a Brilliant Leader - The VIDA Model",
+    "seo_description": "The four fixations of a brilliant leader based on the VIDA model, starting with vision: a desirable future state that attracts and aligns people."
+  },
+  "_posts/2025/2025-02-18-four-habits-that-derail-listening.md": {
+    "seo_title": "Four Habits That Derail Listening",
+    "seo_description": "Listening is key for coaches, leaders and colleagues. Four habits that derail it, and why to listen to the feelings and pauses, not just words."
+  },
+  "_posts/2025/2025-02-18-four-stages-of-competence.md": {
+    "seo_title": "The Four Stages of Competence in Learning",
+    "seo_description": "The four stages of competence, from unconscious incompetence to unconscious competence, and how people progress when learning a new skill."
+  },
+  "_posts/2025/2025-02-18-johari-window.md": {
+    "seo_title": "The Johari Window - Understanding Self and Others",
+    "seo_description": "The Johari window explained: pick adjectives that describe yourself, peers do the same, and compare to reveal open, blind, hidden and unknown areas."
+  },
+  "_posts/2025/2025-02-18-logic-trees.md": {
+    "seo_title": "Logic Trees - Breaking Down Problems for Strategy",
+    "seo_description": "Using logic trees to decompose problems for strategy: branch each problem down with techniques like the five whys to find solutions to work on."
+  },
+  "_posts/2025/2025-02-18-mece.md": {
+    "seo_title": "MECE - Mutually Exclusive, Collectively Exhaustive",
+    "seo_description": "MECE, pronounced mee-see, explained: a consulting tool for structuring lists and problems so items do not overlap and together cover everything."
+  },
+  "_posts/2025/2025-02-18-objective-setting-and-evidencing-guide.md": {
+    "seo_title": "Objective Setting and Evidencing Guide for Teams",
+    "seo_description": "A guide to setting and evidencing objectives for engineering teams, focused on delivering the strategic roadmap and BAU work with no surprises."
+  },
+  "_posts/2025/2025-02-18-one-to-one-checklist.md": {
+    "seo_title": "One-to-One Meeting Checklist for Managers",
+    "seo_description": "Linking 15Five's one-to-one checklist: why managers avoid one-to-ones, and how good structure makes them valuable for difficult conversations."
+  },
+  "_posts/2025/2025-02-18-radical-candor.md": {
+    "seo_title": "Radical Candor - Care Personally, Challenge Directly",
+    "seo_description": "Radical Candor explained: caring personally while challenging directly, with feedback that is kind, clear, specific and sincere, and what it is not."
+  },
+  "_posts/2025/2025-02-18-six-conversations-of-a-brilliant-manager.md": {
+    "seo_title": "Six Conversations of a Brilliant Manager",
+    "seo_description": "Six conversations every brilliant manager should have, starting with what can you do about that, a coaching structure using only questions."
+  },
+  "_posts/2025/2025-02-18-sprint-review-q-and-a.md": {
+    "seo_title": "Sprint Review Questions to Ask Every Sprint",
+    "seo_description": "Go-to questions to ask at every sprint review, so teams come prepared with answers and reviews can move on to more challenging conversations."
+  },
+  "_posts/2025/2025-02-18-the-five-minute-coach-framework.md": {
+    "seo_title": "The Five-Minute Coach Framework and Principles",
+    "seo_description": "The Five-Minute Coach framework: stick to the process, the coachee has the answers and owns them, and you drive the coaching and set the scene."
+  },
+  "_posts/2025/2025-02-18-the-four-rules-of-monkey-management.md": {
+    "seo_title": "The Four Rules of Monkey Management",
+    "seo_description": "The four rules of monkey management, starting with describe the monkey: no meeting should end until the next moves are identified and agreed."
+  },
+  "_posts/2025/2025-02-18-wheel-of-life.md": {
+    "seo_title": "The Wheel of Life - A Coaching Tool for Balance",
+    "seo_description": "The wheel of life coaching tool: a circle split into the areas and roles of your life, used to highlight imbalances that need your attention."
+  },
+  "_posts/2025/2025-02-22-bond-shopping.md": {
+    "seo_title": "Bond Shopping - A Comedy Sketch in Q's Lab at MI6",
+    "seo_description": "A comedy sketch script: James Bond visits Q's lab at MI6 for his next gadget, and it is definitely not another exploding pen. Or is it?"
+  },
+  "_posts/2025/2025-02-22-catro-year-end.md": {
+    "seo_title": "State of the Castro Podcast App After One Year",
+    "seo_description": "Linking Castro's first year under new owners. I am happy with the performance improvements and no longer miss episodes across 230 podcasts."
+  },
+  "_posts/2025/2025-02-22-radical-focus.md": {
+    "seo_title": "Radical Focus Book Summary - Achieving Goals With OKRs",
+    "seo_description": "My summary of Radical Focus by Christina Wodtke: why we cannot get things done, OKR fundamentals, setting OKRs and a weekly cadence to hit them."
+  },
+  "_posts/2025/2025-02-22-tyrannical-authoritarian-state.md": {
+    "seo_title": "UK Government's Secret iCloud Snooping Order",
+    "seo_description": "Linking John Gruber on the UK government's secret order to access encrypted iCloud data, acting like a tyrannical authoritarian state. Agreed."
+  },
+  "_posts/2025/2025-02-23-amazon-will-stop-kindle-book-downloads-to-your-pc.md": {
+    "seo_title": "Amazon Stops Kindle Book Downloads to Your PC",
+    "seo_description": "Linking The Verge: Amazon is removing the option to download Kindle books to a computer and transfer them by USB. Read in the app or on device."
+  },
+  "_posts/2025/2025-02-23-elegant-puzzle.md": {
+    "seo_title": "An Elegant Puzzle Book Summary - Will Larson",
+    "seo_description": "My summary of An Elegant Puzzle by Will Larson on engineering management: organisations, sizing teams and staying on the path to high performance."
+  },
+  "_posts/2025/2025-02-23-lean-startup.md": {
+    "seo_title": "The Lean Startup Book Summary - Eric Ries",
+    "seo_description": "My summary of The Lean Startup by Eric Ries: define, learn, experiment, test and measure, then pivot or persevere, and accelerate what works."
+  },
+  "_posts/2025/2025-02-23-managers-path.md": {
+    "seo_title": "The Manager's Path Book Summary - Camille Fournier",
+    "seo_description": "My summary of The Manager's Path by Camille Fournier for tech leaders: mentoring, tech lead, managing people, teams, multiple teams and managers."
+  },
+  "_posts/2025/2025-02-23-mixtape-music-02-2025.md": {
+    "seo_title": "Monthly Mixtape February 2025 - James, The Strokes",
+    "seo_description": "My February 2025 mixtape of songs on repeat, including Laid by James, Someday by The Strokes, Nancy Boy by Placebo and Elbow."
+  },
+  "_posts/2025/2025-02-23-peopleware.md": {
+    "seo_title": "Peopleware Book Summary - Productive Projects and Teams",
+    "seo_description": "My summary of Peopleware by DeMarco and Lister: managing people, the office environment, hiring the right people and growing productive teams."
+  },
+  "_posts/2025/2025-02-23-personal-kanban.md": {
+    "seo_title": "Personal Kanban Book Summary - Mapping Work",
+    "seo_description": "My summary of Personal Kanban by Jim Benson and Tonianne DeMaria Barry: visualise your work, limit work in progress and build your first board."
+  },
+  "_posts/2025/2025-02-23-phoenix-project.md": {
+    "seo_title": "The Phoenix Project Summary - The Three Ways of DevOps",
+    "seo_description": "My summary of The Phoenix Project: the conflict between development and IT operations, the three ways of DevOps and the four types of work."
+  },
+  "_posts/2025/2025-02-23-resilient-manager.md": {
+    "seo_title": "Resilient Management Book Summary - Lara Hogan",
+    "seo_description": "My summary of Resilient Management by Lara Hogan: meet your team, grow teammates through mentoring, coaching and sponsoring, and give feedback."
+  },
+  "_posts/2025/2025-02-24-dora-assessment.md": {
+    "seo_title": "DORA Assessment Template - 24 Key Capabilities",
+    "seo_description": "A DORA assessment template to score your organisation from 1 to 5 against the 24 key capabilities from Accelerate, revisited every few months."
+  },
+  "_posts/2025/2025-02-24-objective-setting-guide.md": {
+    "seo_title": "How to Set and Evidence Objectives - Team Guide",
+    "seo_description": "A template guide for managers to publish on a wiki, explaining how teams set objectives and evidence progress against the roadmap and BAU work."
+  },
+  "_posts/2025/2025-02-24-optimising-for-alignment.md": {
+    "seo_title": "Optimising for Alignment in Engineering Teams",
+    "seo_description": "How we optimise for alignment: two-week cycles, constant backlog refinement and a golden thread from company objectives to roadmap and features."
+  },
+  "_posts/2025/2025-02-24-optimising-for-learning.md": {
+    "seo_title": "Optimising for Learning in Engineering Teams",
+    "seo_description": "How we optimise for learning: think and plan before coding to find the simplest solution, eliminate waste with YAGNI and KISS, and accept failure."
+  },
+  "_posts/2025/2025-02-24-optimising-for-openness.md": {
+    "seo_title": "Optimising for Openness and Transparency in Teams",
+    "seo_description": "How we optimise for openness: sharing progress, challenges and blockers early and often, and collaborating on common goals with no hidden agendas."
+  },
+  "_posts/2025/2025-02-24-optimising-for-speed-and-quality.md": {
+    "seo_title": "Optimising for Speed and Quality - Cycle Time and DORA",
+    "seo_description": "How we optimise for speed and quality, measured by cycle time and deployment frequency, aiming for a cycle time of 24 hours like top teams."
+  },
+  "_posts/2025/2025-02-24-optimising-for-teams.md": {
+    "seo_title": "Optimising for Teams - Safety, Trust and Feedback",
+    "seo_description": "How we optimise for teams: small cross-functional teams, psychological safety, caring and candid feedback, and trust built through vulnerability."
+  },
+  "_posts/2025/2025-02-27-apple-shareholders-resoundingly-reject-proposal-to-ditch-inclusion-and-diversity-policies.md": {
+    "seo_title": "Apple Shareholders Reject Anti-Diversity Proposal",
+    "seo_description": "Linking Daring Fireball: Apple shareholders rejected a proposal to scrap its diversity and inclusion policies, with 97 per cent voting against it."
+  },
+  "_posts/2025/2025-02-28-questions-for-the-end-of-a-one-to-one.md": {
+    "seo_title": "Questions to Ask at the End of a One-to-One",
+    "seo_description": "Linking Cate Huston's questions for the end of one-to-ones, such as what are you taking away and what was most useful to you today."
+  },
+  "_posts/2025/2025-03-01-mixtape-music-03-2025.md": {
+    "seo_title": "Monthly Mixtape March 2025 - JJ72, Rolling Stones",
+    "seo_description": "My March 2025 mixtape of songs on repeat, including October Swimmer by JJ72, Sympathy for the Devil by The Rolling Stones and Elbow."
+  },
+  "_posts/2025/2025-03-03-deleting-18f.md": {
+    "seo_title": "Deleting 18F - The End of a US Digital Service Team",
+    "seo_description": "Linking Hillary Hartley on the deletion of 18F, a self-funded US government digital team that agencies paid to use because it delivered value."
+  },
+  "_posts/2025/2025-03-07-apple-challenges-uk's-demand-for-icloud-back-door.md": {
+    "seo_title": "Apple Challenges UK Demand for an iCloud Back Door",
+    "seo_description": "Linking the FT: Apple has appealed the UK government's demand for an iCloud back door at the Investigatory Powers Tribunal, believed a first."
+  },
+  "_posts/2025/2025-03-07-apple-is-delaying-the-more-personalized-siri-apple-intelligence-features.md": {
+    "seo_title": "Apple Delays Personalised Siri Intelligence Features",
+    "seo_description": "Linking Daring Fireball: Apple delays its more personalised Siri features. Apple has a habit of over-promising, but at least it wants quality."
+  },
+  "_posts/2025/2025-03-15-daily-rss-feed.md": {
+    "seo_title": "How I Built a Daily Rundown RSS Feed in Jekyll",
+    "seo_description": "How I turned my daily rundown page, built by scheduled Python scripts, into a Jekyll RSS feed so it arrives in my feed reader every morning."
+  },
+  "_posts/2025/2025-03-16-how-i-manage-my-todos-as-a-ceo.md": {
+    "seo_title": "How a CEO Manages Todos - Max Stoiber",
+    "seo_description": "Linking Max Stoiber's todo system: do anything under two minutes now, capture everything else in an inbox and keep inbox zero everywhere."
+  },
+  "_posts/2025/2025-03-16-in-praise-of-normal-engineers.md": {
+    "seo_title": "In Praise of Normal Engineers, Not 10x Engineers",
+    "seo_description": "Linking IEEE Spectrum: teams own software, not individuals, so what matters is how fast the team ships, not how fast one 10x engineer codes."
+  },
+  "_posts/2025/2025-03-16-pitching-for-equality.md": {
+    "seo_title": "Pitching for Equality - Women's League Cup Final Pitch",
+    "seo_description": "Quoted by the BBC on the poor pitch at Pride Park for the 2025 Women's League Cup final, a day before the men's final at Wembley."
+  },
+  "_posts/2025/2025-03-18-do-one-thing-.md": {
+    "seo_title": "Do One Thing - Focus When the News Is Overwhelming",
+    "seo_description": "Linking Dan Sinker on finding focus when awful news breaks at an unrelenting pace and it feels impossible to look away: do one thing."
+  },
+  "_posts/2025/2025-03-18-in-the-way.md": {
+    "seo_title": "In the Way - Rach Smith on Grief and Support",
+    "seo_description": "Linking Rach Smith on supporting a friend whose mum has cancer, after losing her own mum, and finding the right words without getting in the way."
+  },
+  "_posts/2025/2025-03-19-boys-need-role-models.md": {
+    "seo_title": "Boys Need Role Models - Gareth Southgate",
+    "seo_description": "Linking the BBC: Gareth Southgate warns young men are seeking direction online from role models who often do not have their best interests at heart."
+  },
+  "_posts/2025/2025-03-23-football-narratives.md": {
+    "seo_title": "Football Narratives - Chelsea Women Beat Man City",
+    "seo_description": "Chelsea Women beat Man City 2-1 away, and the post-match narrative around referees, VAR and an offside City goal tells an interesting story."
+  },
+  "_posts/2025/2025-03-23-rule-number-one.md": {
+    "seo_title": "Rule Number One - Put People First at Work",
+    "seo_description": "Rule one for any organisation: a people-first culture that values every contribution, promotes inclusion and diversity, and welcomes debate."
+  },
+  "_posts/2025/2025-03-24-software-engineering-problems.md": {
+    "seo_title": "Common Software Engineering Team Problems",
+    "seo_description": "Symptoms of common engineering team problems: key person dependencies, poor onboarding and documentation, weak communication and more."
+  },
+  "_posts/2025/2025-03-26-add-styled-alerts-to-github-markdown-documents.md": {
+    "seo_title": "Add Styled Alerts to GitHub Markdown Documents",
+    "seo_description": "GitHub Flavoured Markdown supports five styled alerts, such as note, tip and warning, for callouts in READMEs and docs. Here is how to use them."
+  },
+  "_posts/2025/2025-03-26-check-your-public-ip-address.md": {
+    "seo_title": "Check Your Public IP Address With curl and AWS",
+    "seo_description": "A quick way to check your public IP address: visit checkip.amazonaws.com for a plain text answer, or curl the endpoint from the command line."
+  },
+  "_posts/2025/2025-03-26-great-piece-from-chase-mccoy.md": {
+    "seo_title": "The Filesystem Has Failed Us - Chase McCoy",
+    "seo_description": "Linking Chase McCoy via Jim Nielsen: graph features in Notion and Obsidian show the filesystem has failed us, costing us ownership of our data."
+  },
+  "_posts/2025/2025-03-26-signalgate-is-bad-but-opsec-is-not-even-the-worst-part-of-it.md": {
+    "seo_title": "SignalGate - OPSEC Is Not Even the Worst Part",
+    "seo_description": "Linking Talking Points Memo on SignalGate: the security lapse is bad, but avoiding record-keeping laws is part of a worrying wider pattern."
+  },
+  "_posts/2025/2025-03-26-trigger-a-workflow-via-an-api-call.md": {
+    "seo_title": "Trigger a GitHub Actions Workflow via an API Call",
+    "seo_description": "How to run a GitHub Actions workflow from an API call using the workflow_dispatch event, with the YAML to add and the curl request to trigger it."
+  },
+  "_posts/2025/2025-03-26-zettelkasten.md": {
+    "seo_title": "Zettelkasten - A Personal Knowledge Management System",
+    "seo_description": "What Zettelkasten is and how to use it: capture insights from reading and connect ideas over time into a living web of notes, not a filing cabinet."
+  },
+  "_posts/2025/2025-03-28-missing-vowels.md": {
+    "seo_title": "Missing Vowels - Football Player Name Puzzle Bot",
+    "seo_description": "From the archives: my Twitter bot that posted footballers' names with vowels and spaces removed, then the answer, with the Python that did it."
+  },
+  "_posts/2025/2025-03-29-a-plea-for-pragmatic-ambition.md": {
+    "seo_title": "A Plea for Pragmatic Ambition in Public Services",
+    "seo_description": "Linking Matt Edgar on the bait, switch and twist of multi-year strategies, and a plea for pragmatic ambition from service teams in government."
+  },
+  "_posts/2025/2025-03-29-how-to-report-a-security-issue-in-an-open-source-project.md": {
+    "seo_title": "How to Report a Security Issue in Open Source",
+    "seo_description": "Linking Jacob Kaplan-Moss on what to do when you find a security issue, or something that might be one, in an open source project."
+  },
+  "_posts/2025/2025-03-29-incomplete-json-pretty-printer.md": {
+    "seo_title": "Incomplete JSON Pretty Printer - Simon Willison",
+    "seo_description": "Linking Simon Willison's tool for pretty printing truncated JSON from logs and tools, which normal editors refuse to format when it ends early."
+  }
+}

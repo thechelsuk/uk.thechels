@@ -3,6 +3,8 @@ layout: post
 date: 2025-03-26
 link: https://talkingpointsmemo.com/edblog/signalgate-is-bad-but-opsec-isnt-even-the-worst-part-of-it
 title: SignalGate Is Bad But OPSEC Is Not Even the Worst Part Of It
+seo_title: "SignalGate - OPSEC Is Not Even the Worst Part"
+seo_description: "Linking Talking Points Memo on SignalGate: the security lapse is bad, but avoiding record-keeping laws is part of a worrying wider pattern."
 type: linked
 cited: Talking Points Memo
 ---

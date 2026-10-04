@@ -3,6 +3,8 @@ layout: post
 date: 2025-02-08
 link: https://castro.fm/blog/transcript-tag-release
 title: Castro adds transcript support
+seo_title: "Castro Podcast App Adds Transcript Support"
+seo_description: "Linking Castro's release adding podcast transcripts, with full support for JSON, SRT and VTT formats from the podcast namespace, plus HTML."
 type: linked
 cited: Castro
 ---

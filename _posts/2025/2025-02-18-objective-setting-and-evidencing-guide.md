@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-18
 title: Objective Setting and Evidencing Guide
+seo_title: "Objective Setting and Evidencing Guide for Teams"
+seo_description: "A guide to setting and evidencing objectives for engineering teams, focused on delivering the strategic roadmap and BAU work with no surprises."
 
 type: blog
 ---

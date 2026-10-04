@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-18
 title: Sprint Review Q and A
+seo_title: "Sprint Review Questions to Ask Every Sprint"
+seo_description: "Go-to questions to ask at every sprint review, so teams come prepared with answers and reviews can move on to more challenging conversations."
 
 type: blog
 ---

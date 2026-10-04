@@ -2,6 +2,8 @@
 layout: post
 date: 2025-02-16
 title: DORA Key Capabilities
+seo_title: "DORA Key Capabilities - The 24 Drivers of Improvement"
+seo_description: "The 24 key capabilities that drive software delivery performance, from the State of DevOps research behind the book Accelerate by Forsgren et al."
 
 type: blog
 ---

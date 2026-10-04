@@ -3,6 +3,8 @@ layout: post
 date: 2025-01-06
 link: https://rmondello.com/2025/01/02/magic-links-and-passkeys/
 title: Magic Links and Passkeys
+seo_title: "Magic Links and Passkeys - Ricky Mondello"
+seo_description: "Linking Ricky Mondello on magic links and passkeys, and why, as a password manager advocate, I prefer passkeys over emailed login links."
 type: linked
 cited: Ricky Mondello
 ---
