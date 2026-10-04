@@ -3,6 +3,8 @@ layout: post
 date: 2025-06-02
 link: https://codemanship.wordpress.com/2025/05/11/its-the-system-stupid/
 title: It is the System Stupid
+seo_title: "It's the System, Stupid - Jason Gorman on AI Speed"
+seo_description: "Linking Jason Gorman: programmers feel faster with AI because they only see the coding part, not the whole software development system."
 type: linked
 cited: Jason Gorman (Codemanship)
 ---

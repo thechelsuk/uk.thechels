@@ -2,10 +2,11 @@
 layout: post
 date: 2025-06-08
 title: "Moving from Notion to Obsidian"
+seo_title: "Moving From Notion to Obsidian - Dave Rupert"
+seo_description: "Linking Dave Rupert on moving from Notion to Obsidian: nothing beats a folder full of Markdown files. Markdown really is the new gold."
 type: linked
 cited: Dave Rupert
 link: https://daverupert.com/2025/05/notion-to-obsidian/
-seo: "markdown, text is the new gold."
 ---
 
 As it turns out. Markdown _is_ the new gold.

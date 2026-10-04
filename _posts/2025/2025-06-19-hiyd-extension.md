@@ -1,5 +1,7 @@
 ---
 title: Announcing Hiyd Extension
+seo_title: "Announcing the Hiyd Chrome Extension for Jekyll"
+seo_description: "The Hiyd extension is now on the Chrome Web Store. Capture selected text from any page via the context menu as a Jekyll linked quote post."
 layout: post
 date: 2025-06-19
 type: blog

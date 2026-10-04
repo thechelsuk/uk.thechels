@@ -2,10 +2,11 @@
 layout: post
 date: 2025-06-08
 title: "It is not your codebase"
+seo_title: "It Is Not Your Codebase - Sean Goedecke"
+seo_description: "Linking Sean Goedecke on engineers feeling ownership of their code. I doubt any code I wrote for an employer is still in use, and that is fine."
 type: linked
 cited: Sean Goedecke
 link: https://www.seangoedecke.com/not-your-codebase/
-seo: "Engineers often feel a lot of ownership over the code they write"
 ---
 
 I'm pretty confident that not a single piece of code I've written in a commerical/employed setting is still in use today. I don't think that's a bad thing.

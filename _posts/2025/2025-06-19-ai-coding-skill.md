@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Good Software Engineering First, Then AI-Assisted Coding
+seo_title: "Good Software Engineering First, Then AI Coding"
+seo_description: "Linking Simon Willison on AI-assisted coding for teams: AI is a multiplier, so the more engineering expertise you have, the better the results."
 description: AI-assisted coding for teams that can't get away with vibes
 date: 2025-06-19
 link: https://simonwillison.net/2025/Jun/10/ai-assisted-coding/#atom-everything

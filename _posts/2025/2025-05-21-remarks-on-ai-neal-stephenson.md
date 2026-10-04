@@ -3,6 +3,8 @@ layout: post
 date: 2025-05-21
 link: https://nealstephenson.substack.com/p/remarks-on-ai-from-nz
 title: Remarks on AI - Neal Stephenson Technology Commentary
+seo_title: "Neal Stephenson's Remarks on AI and Education"
+seo_description: "Linking Neal Stephenson's remarks on AI, and his biggest worry: students using ChatGPT for everything and, as a result, learning nothing."
 type: linked
 cited: Neal Stephenson
 ---

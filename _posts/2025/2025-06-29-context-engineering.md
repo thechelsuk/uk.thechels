@@ -3,6 +3,8 @@ layout: post
 date: 2025-06-29
 link: https://simonwillison.net/2025/Jun/27/context-engineering/
 title: Context engineering
+seo_title: "Context Engineering - Better Than Prompt Engineering"
+seo_description: "Linking Simon Willison on context engineering, a term gaining traction as a better alternative to prompt engineering. It may have sticking power."
 type: linked
 cited: Simon Willison
 ---

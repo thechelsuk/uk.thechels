@@ -3,6 +3,8 @@ layout: post
 date: 2025-05-01
 link: https://redis.io/blog/redis-8-ga/
 title: Redis is Open Source again
+seo_title: "Redis Is Open Source Again With Redis 8"
+seo_description: "Redis 8 is generally available and open source again, with more than 30 performance improvements and eight new data structures like vector sets."
 type: linked
 cited: Redis
 ---

@@ -2,6 +2,8 @@
 layout: post
 date: 2025-04-03
 title: Using GitHub CoPilot
+seo_title: "Using GitHub Copilot for Small Personal Projects"
+seo_description: "How GitHub Copilot and AI have been brilliant for building small single-use tools, at a point in my career when I am professionally hands-off."
 
 type: blog
 ---

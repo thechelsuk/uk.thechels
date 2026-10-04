@@ -3,6 +3,8 @@ layout: post
 date: 2025-04-05
 link: https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life
 title: A Guide to the Good Life - The Ancient Art of Stoic Joy
+seo_title: "A Guide to the Good Life - Stoic Joy Book Summary"
+seo_description: "My summary of A Guide to the Good Life by William B. Irvine: the rise of Stoicism, the Roman Stoics and practical Stoic techniques for today."
 type: linked
 cited: William B. Irvine
 ---

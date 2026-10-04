@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Post-Exertional Malaise - The Key Sign of ME/CFS
+seo_title: "Post-Exertional Malaise (PEM) - The Key Sign of ME/CFS"
+seo_description: "Post-exertional malaise explained: the hallmark symptom of ME/CFS, now seen in long COVID too, where people cannot recover normally from exertion."
 link: https://batemanhornecenter.org/wp-content/uploads/filebase/providers/PEM-Lecture-Slides-ECHO-v4-5_17_2022.pdf
 type: linked
 cited: Bateman Horne Center

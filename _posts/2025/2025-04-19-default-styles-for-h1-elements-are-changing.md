@@ -3,6 +3,8 @@ layout: post
 date: 2025-04-19
 link: https://developer.mozilla.org/en-US/blog/h1-element-styles/
 title: Default styles for h1 elements are changing
+seo_title: "Default Browser Styles for h1 Elements Are Changing"
+seo_description: "Linking MDN: browsers are changing default styles for h1 headings nested in sections, so check your site does not rely on them or fail Lighthouse."
 type: linked
 cited: MDN
 ---

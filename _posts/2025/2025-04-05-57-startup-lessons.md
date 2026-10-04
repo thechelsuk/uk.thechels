@@ -3,6 +3,8 @@ layout: post
 date: 2025-04-05
 link: https://www.defmacro.org/2013/07/23/startup-lessons.html
 title: 57 startup lessons
+seo_title: "57 Startup Lessons Learned the Hard Way"
+seo_description: "Linking Slava Akhmechet's 57 startup lessons, learned the hard way over four years of running a company, for anyone starting one of their own."
 type: linked
 cited: Slava Akhmechet
 ---

@@ -2,6 +2,8 @@
 layout: post
 date: 2025-04-04
 title: The Richest Man in Babylon by George S. Clason
+seo_title: "The Richest Man in Babylon - Book Summary"
+seo_description: "My summary of The Richest Man in Babylon by George S. Clason: timeless financial advice told through parables of ancient Babylon, still relevant."
 
 type: blog
 ---

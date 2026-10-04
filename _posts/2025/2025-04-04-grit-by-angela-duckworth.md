@@ -2,6 +2,8 @@
 layout: post
 date: 2025-04-04
 title: Grit by Angela Duckworth
+seo_title: "Grit by Angela Duckworth - Book Summary"
+seo_description: "My summary of Grit by Angela Duckworth, the psychology professor who studies self-control, on why passion and perseverance matter more than talent."
 
 type: blog
 ---

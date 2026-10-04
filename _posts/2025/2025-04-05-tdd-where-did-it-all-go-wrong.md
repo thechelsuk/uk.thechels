@@ -3,6 +3,8 @@ layout: post
 date: 2025-04-05
 link: https://vimeo.com/68375232
 title: TDD where did it all go wrong?
+seo_title: "TDD, Where Did It All Go Wrong? - Ian Cooper Talk"
+seo_description: "Notes on Ian Cooper's talk TDD, where did it all go wrong: test behaviour, not implementation, so refactoring does not break your tests."
 type: linked
 cited: Vimeo
 ---

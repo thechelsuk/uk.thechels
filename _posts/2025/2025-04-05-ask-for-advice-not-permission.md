@@ -3,6 +3,8 @@ layout: post
 date: 2025-04-05
 link: https://boz.com/articles/advice-not-permission
 title: Ask for Advice Not Permission
+seo_title: "Ask for Advice, Not Permission - Boz"
+seo_description: "Linking Boz on a common anti-pattern that creates conflict in collaborative teams: asking for permission when you should be asking for advice."
 type: linked
 cited: Boz
 ---

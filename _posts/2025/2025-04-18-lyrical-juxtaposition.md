@@ -2,6 +2,8 @@
 layout: post
 date: 2025-04-18
 title: Lyrical juxtaposition
+seo_title: "Lyrical Juxtaposition - Morrissey and Elbow"
+seo_description: "Two songs came up back to back that fit the times: Interesting Drug by Morrissey and Leaders of the Free World by Elbow, with lyrics side by side."
 
 type: blog
 ---

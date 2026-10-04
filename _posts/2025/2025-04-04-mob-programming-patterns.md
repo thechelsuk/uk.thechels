@@ -3,6 +3,8 @@ layout: post
 date: 2025-04-04
 link: https://github.com/michaelkeeling/mob-programming-patterns
 title: Mob Programming Patterns
+seo_title: "Mob Programming Patterns - Michael Keeling"
+seo_description: "Linking Michael Keeling's mob programming patterns: the whole team working on the same thing at the same time, built on mutual respect."
 type: linked
 cited: Michael Keeling
 ---

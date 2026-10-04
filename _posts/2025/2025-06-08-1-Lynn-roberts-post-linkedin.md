@@ -2,6 +2,8 @@
 layout: post
 date: 2025-06-08
 title: Quoting Lynn Roberts on LinkedIn
+seo_title: "Make What You Have Work - Lynn Roberts"
+seo_description: "Lynn Roberts on digital transformation: the boldest move is often making what you have actually work, with clear standards and governance."
 type: linked
 cited: Lynn Roberts
 link: https://www.linkedin.com/posts/digitalynn_im-working-with-some-great-organisations-activity-7335634969202974721-xmoa/

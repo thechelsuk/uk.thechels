@@ -2,6 +2,8 @@
 layout: post
 date: 2025-04-05
 title: Time Management
+seo_title: "Time Management - Reframing I Did Not Have Time"
+seo_description: "I did not have enough time is the most common message at work. How I reframe it as a question of priorities, and how I used this in an interview."
 type: blog
 ---
 

@@ -3,6 +3,8 @@ layout: post
 date: 2025-04-02
 link: https://nedbatchelder.com/blog/202503/human_sorting_improved.html
 title: Human sorting improved
+seo_title: "Human Sorting Improved - Ned Batchelder"
+seo_description: "Linking Ned Batchelder's improved human sorting code in Python, which sorts strings containing numbers in the natural order people expect."
 type: linked
 cited: Ned Batchelder
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2025-06-02
 link: https://codemanship.wordpress.com/2025/05/21/five-boring-things-that-have-a-bigger-impact-than-a-i-coding-assistants-on-dev-team-productivity/
 title: Five Things That Have A Bigger Impact Than AI on Productivity
+seo_title: "Five Things With Bigger Impact Than AI on Productivity"
+seo_description: "Linking Jason Gorman: smaller teams, frequent releases, limited WIP and cross-functional teams do more for productivity than AI coding tools."
 type: linked
 cited: Jason Gorman (Codemanship)
 ---

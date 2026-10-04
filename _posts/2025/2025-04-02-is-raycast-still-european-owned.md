@@ -3,6 +3,8 @@ layout: post
 date: 2025-04-02
 link: https://reddit.com
 title: Is Raycast still European-owned
+seo_title: "Is Raycast Still European Owned?"
+seo_description: "A Reddit question about whether London-founded Raycast is still European owned, an interesting angle that echoed a Techmeme Ride Home episode."
 type: linked
 cited: Reddit User
 ---

@@ -2,6 +2,8 @@
 layout: post
 date: 2025-04-04
 title: Meditations by Marcus Aurelius
+seo_title: "Meditations by Marcus Aurelius - Book Summary"
+seo_description: "My summary of Meditations, the private journal of Roman emperor Marcus Aurelius, and the Stoic lessons on life and leadership it still offers."
 
 type: blog
 ---

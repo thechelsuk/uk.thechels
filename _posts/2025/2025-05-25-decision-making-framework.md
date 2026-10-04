@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "7 Frameworks To Master Decision Making"
+seo_title: "7 Frameworks to Master Decision Making"
+seo_description: "Seven decision making frameworks from Owain Lewis, including the OODA loop for fast adaptive decisions and the Pareto 80/20 principle."
 date: 2025-05-25
 tags:
 type: linked

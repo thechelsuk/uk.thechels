@@ -2,10 +2,11 @@
 layout: post
 date: 2025-06-19
 title: "Coding agents require skilled operators"
+seo_title: "Coding Agents Require Skilled Operators"
+seo_description: "Linking Simon Willison on why coding agents are not a replacement for programmers: they need a skilled operator with deep domain knowledge."
 type: linked
 cited: Simon Willison
 link: https://simonwillison.net/2025/Jun/18/coding-agents/#atom-everything
-seo: "Coding agents require skilled operators"
 ---
 
 > I wrote this recently in a conversation about whether coding agents can work as a replacement for human programmers.

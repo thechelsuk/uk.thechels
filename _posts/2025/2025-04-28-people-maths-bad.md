@@ -3,6 +3,8 @@ layout: post
 date: 2025-04-28
 link: https://ifamagazine.com/hmrc-lisa-research-shows-even-financially-literate-confused-by-withdrawal-penalty/
 title: People are not good at maths
+seo_title: "Lifetime ISA Confusion - Even Savvy Savers Get It Wrong"
+seo_description: "Linking IFA Magazine on HMRC research showing even financially literate savers are confused by the Lifetime ISA withdrawal penalty."
 type: linked
 cited: IFA Magazine
 ---

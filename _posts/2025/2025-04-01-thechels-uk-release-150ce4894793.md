@@ -2,6 +2,8 @@
 layout: post
 date: "2025-04-01"
 title: Thechels.uk Version 1.6.0
+seo_title: "thechels.uk Version 1.6.0 Release Notes"
+seo_description: "Release notes for version 1.6.0 of the thechels.uk website, with new stocks data and doctrine entries like bias towards action and user needs."
 type: release
 link: https://github.com/thechelsuk/uk.thechels/releases/tag/1.6.0
 release_id: tag:github.com,2008:Repository/107385143/1.6.0

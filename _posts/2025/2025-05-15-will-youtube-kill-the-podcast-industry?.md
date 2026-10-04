@@ -3,6 +3,8 @@ layout: post
 date: 2025-05-15
 link: https://justinjackson.ca/youtube-kill-podcasting
 title: Will YouTube kill the podcast industry?
+seo_title: "Will YouTube Kill the Podcast Industry?"
+seo_description: "Linking Justin Jackson: podcasting relies on open RSS to support small businesses, and that could vanish if YouTube becomes the default host."
 type: linked
 cited: Justin Jackson
 ---

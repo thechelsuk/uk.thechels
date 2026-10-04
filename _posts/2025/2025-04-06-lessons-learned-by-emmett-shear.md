@@ -3,6 +3,8 @@ layout: post
 date: 2025-04-06
 link: https://twitter.com/eshear/status/1402449647122018304
 title: Lessons learned by Emmett Shear
+seo_title: "Lessons Learned by Twitch Founder Emmett Shear"
+seo_description: "Emmett Shear's lessons from ten years of Twitch, mostly advice he heard from others and now finds himself repeating to founders who ask him."
 type: linked
 cited: Emmett Shear
 ---

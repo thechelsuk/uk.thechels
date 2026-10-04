@@ -3,6 +3,8 @@ layout: post
 date: 2025-05-01
 link: https://simonwillison.net/2025/Apr/28/give-it-away-for-free/
 title: Giving software away for free
+seo_title: "Giving Software Away for Free With Static HTML"
+seo_description: "Linking Simon Willison: the best way to give away free software is static HTML and JavaScript. Most of what I make uses that and GitHub Actions."
 type: linked
 cited: Simon Willison
 ---

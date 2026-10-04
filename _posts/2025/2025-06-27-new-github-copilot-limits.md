@@ -3,6 +3,8 @@ layout: post
 date: 2025-06-27
 link: https://www.theregister.com/2025/06/20/github_begins_enforcing_premium_request/
 title: New GitHub Copilot limits
+seo_title: "GitHub Copilot Introduces Premium Request Limits"
+seo_description: "Linking The Register: paying GitHub Copilot users now face monthly limits on premium AI requests, and must pay more to go beyond them."
 type: linked
 cited: The Register
 ---
