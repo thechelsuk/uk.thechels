@@ -9,9 +9,11 @@ on:
                     Comma-separated URLs for local Lighthouse checks. The
                     action splits on commas only, and the local static
                     server does not map extensionless paths, so use .html.
+                    Port 4000 is reserved: the action runs Chrome's
+                    debugging port on 4000.
                 required: false
                 default: >-
-                    http://127.0.0.1:4000/,http://127.0.0.1:4000/projects.html,http://127.0.0.1:4000/about.html,http://127.0.0.1:4000/slashes.html,http://127.0.0.1:4000/disability.html
+                    http://127.0.0.1:8080/,http://127.0.0.1:8080/projects.html,http://127.0.0.1:8080/about.html,http://127.0.0.1:8080/slashes.html,http://127.0.0.1:8080/disability.html
                 type: string
 
 jobs:
@@ -32,9 +34,9 @@ jobs:
 
             - name: Start local static server
               run: |
-                  python -m http.server 4000 --directory _site > /tmp/http-server.log 2>&1 &
+                  python -m http.server 8080 --directory _site > /tmp/http-server.log 2>&1 &
                   for i in $(seq 1 30); do
-                    curl -sf http://127.0.0.1:4000/ > /dev/null && exit 0
+                    curl -sf http://127.0.0.1:8080/ > /dev/null && exit 0
                     sleep 1
                   done
                   echo "Local server did not start" >&2
