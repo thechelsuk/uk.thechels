@@ -3,6 +3,8 @@ layout: post
 date: 2024-09-29
 link: https://512pixels.net/2024/09/apple-silicon-mac-mini-5-port/
 title: Apple silicon Mac mini 5 port
+seo_title: "Apple Silicon Mac Mini With Five USB-C Ports Leaked"
+seo_description: "Linking 512 Pixels on a leaked next-generation Mac mini with five USB-C ports. If it is Apple TV sized with an M-series chip, sign me up."
 type: linked
 cited: 512 Pixels
 ---

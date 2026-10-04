@@ -3,6 +3,8 @@ layout: post
 date: 2024-05-07
 link: https://castro.fm/blog/pricing-updates
 title: Castro new pricing under new ownership
+seo_title: "Castro Podcast App - New Pricing Under New Owners"
+seo_description: "Linking Castro's new pricing under its new owners, a rise from £7.99 to £24.99 for me, which is fine if it works. I am back using Castro again."
 type: linked
 cited: Castro
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2023-12-02
 link: https://castro.fm/blog/future-of-castro-podcasts-december-2023
 title: More news on Castro
+seo_title: "Castro Podcast App Seeks New Owners"
+seo_description: "Linking Castro's December 2023 update: the team is actively looking for new owners for the podcast app, aiming to keep it going and improve it."
 type: linked
 cited: Castro
 ---

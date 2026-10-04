@@ -3,6 +3,8 @@ layout: post
 date: 2023-04-13
 link: https://jacobian.org/2022/oct/25/against-performance-seasons/
 title: Performance Seasons Are Useless — Use Anniversary Reviews Instead
+seo_title: "Use Anniversary Reviews Instead of Performance Seasons"
+seo_description: "Linking Jacob Kaplan-Moss on replacing annual performance seasons with anniversary reviews spread through the year, so review skills stick."
 type: linked
 cited: Jacob Kaplan-Moss
 ---

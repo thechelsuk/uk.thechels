@@ -2,6 +2,8 @@
 layout: post
 date: 2024-03-10
 title: Observations of Leadership
+seo_title: "Observations of Leadership - Hazel Weakly"
+seo_description: "Linking Hazel Weakly's observations on leadership, including how turning a whole team into a mob programming team made an incredible difference."
 link: https://hazelweakly.me/blog/observations-of-leadership-part-one/
 type: linked
 cited: Hazel Weakly

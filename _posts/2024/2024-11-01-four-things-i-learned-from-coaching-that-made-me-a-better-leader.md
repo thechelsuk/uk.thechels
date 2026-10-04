@@ -3,6 +3,8 @@ layout: post
 date: 2024-11-01
 link: https://cate.blog/2024/10/08/four-things-i-learned-from-coaching-that-made-me-a-better-leader/
 title: Four things I learned from coaching that made me a better leader
+seo_title: "Four Coaching Lessons That Make You a Better Leader"
+seo_description: "Linking Cate Huston on four things coaching taught her about leadership, such as replacing a heated reaction with a question to defuse conflict."
 type: linked
 cited: Cate Huston (Accidentally in Code)
 ---

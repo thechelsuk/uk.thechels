@@ -1,5 +1,7 @@
 ---
 title: Women's super league broadcasting
+seo_title: "Women's Super League Moves Broadcasting to YouTube"
+seo_description: "The WSL moving from the clunky FA Player to YouTube is a big improvement. I happily watched three games at once on my ultrawide monitor."
 layout: post
 date: 2024-09-29
 type: blog

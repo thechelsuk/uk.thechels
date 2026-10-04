@@ -3,6 +3,8 @@ layout: post
 date: 2024-05-08
 link: https://cruncher.ch/blog/printing-music-with-css-grid/
 title: Printing music with CSS Grid
+seo_title: "Printing Sheet Music With CSS Grid"
+seo_description: "Linking Cruncher on laying out and printing sheet music with CSS Grid, including the tricky judgement calls on rhythm and columns per beat."
 type: linked
 cited: Cruncher
 ---

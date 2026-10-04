@@ -3,6 +3,8 @@ layout: post
 date: 2024-05-08
 link: https://newsletter.weskao.com/p/get-better-feedback
 title: 11 ways to get better feedback from your manager
+seo_title: "11 Ways to Get Better Feedback From Your Manager"
+seo_description: "Linking Wes Kao's 11 ways to get better feedback from your manager, such as making it easy to give and asking what to do differently next time."
 type: linked
 cited: Wes Kao
 ---

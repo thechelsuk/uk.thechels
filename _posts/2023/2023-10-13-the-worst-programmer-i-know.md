@@ -3,6 +3,8 @@ layout: post
 date: 2023-10-13
 link: https://dannorth.net/the-worst-programmer/
 title: The Worst Programmer I Know
+seo_title: "The Worst Programmer I Know - Dan North"
+seo_description: "Linking Dan North's story of the worst programmer he knows, who scored zero on productivity metrics, and why engineering is a team sport."
 type: linked
 cited: Dan North
 ---

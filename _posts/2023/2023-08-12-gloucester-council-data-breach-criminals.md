@@ -3,6 +3,8 @@ layout: post
 date: 2023-08-12
 link: https://www.databreaches.net/uk-just-a-slap-on-the-wrist-for-gloucester-council-data-breach-which-saw-peoples-data-fall-into-hands-of-criminals/
 title: Gloucester council data breach
+seo_title: "Gloucester Council Data Breach - A Slap on the Wrist"
+seo_description: "Linking DataBreaches.net: Gloucester City Council gets a slap on the wrist after Russian hackers stole data and disrupted services in late 2021."
 type: linked
 cited: DataBreaches.net
 ---

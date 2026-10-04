@@ -2,6 +2,8 @@
 layout: post
 date: 2024-09-14
 title: Become the engineer everyone wants to work with
+seo_title: "Become the Engineer Everyone Wants to Work With"
+seo_description: "Linking Engineering Leadership on becoming the engineer everyone wants to work with, because software is a team activity and great teams build it."
 link: https://newsletter.eng-leadership.com/p/become-the-engineer-everyone-wants
 type: linked
 cited: Eng Leadership

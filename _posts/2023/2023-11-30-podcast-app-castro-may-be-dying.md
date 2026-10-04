@@ -3,6 +3,8 @@ layout: post
 date: 2023-11-30
 link: https://sixcolors.com/post/2023/11/castro-podcast-app-goes-down-and-may-be-dying/
 title: Podcast app Castro may be dying
+seo_title: "Castro Podcast App May Be Dying - Six Colors"
+seo_description: "Linking Six Colors on the Castro podcast app outage. Castro changed how I manage my listening with its inbox and queue, but I moved to Pocket Casts."
 type: linked
 cited: Six Colors
 ---

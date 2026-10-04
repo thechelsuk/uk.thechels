@@ -3,6 +3,8 @@ layout: post
 date: 2023-04-07
 link: https://github.blog/2023-02-06-how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow/
 title: How to mitigate OWASP vulnerabilities while staying in the flow
+seo_title: "Mitigate OWASP Vulnerabilities and Stay in the Flow"
+seo_description: "Linking GitHub on using the OWASP Top 10 to tackle common security vulnerabilities while keeping developers productive and in the flow."
 type: linked
 cited: GitHub
 ---

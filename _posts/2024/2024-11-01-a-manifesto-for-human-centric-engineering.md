@@ -3,6 +3,8 @@ layout: post
 date: 2024-11-01
 link: https://humancentricengineering.substack.com/p/a-manifesto-for-human-centric-engineering
 title: A manifesto for Human-Centric Engineering
+seo_title: "A Manifesto for Human-Centric Engineering"
+seo_description: "Linking Simon Holmes's manifesto for human-centric engineering: miserable engineers rarely make happy customers, so developer experience matters."
 type: linked
 cited: Simon Holmes
 ---

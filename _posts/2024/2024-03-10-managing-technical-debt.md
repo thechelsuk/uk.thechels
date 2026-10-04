@@ -3,6 +3,8 @@ layout: post
 date: 2024-03-10
 link: https://jacobian.org/2023/dec/20/tech-debt/
 title: Managing Technical Debt
+seo_title: "Managing Technical Debt - A Playbook"
+seo_description: "Linking Jacob Kaplan-Moss's playbook for paying down technical debt, starting with picking a serviceable measure and tracking it consistently."
 type: linked
 cited: Jacob Kaplan-Moss
 ---

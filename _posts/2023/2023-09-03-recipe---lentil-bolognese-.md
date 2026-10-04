@@ -2,6 +2,8 @@
 layout: post
 date: 2023-09-03
 title: Recipe - Lentil Bolognese
+seo_title: "Lentil Bolognese Recipe - Vegetarian and Veg-Packed"
+seo_description: "An easy vegetarian lentil bolognese packed with broccoli, mushrooms, courgette, celery and peppers in passata, with beans, garlic and chilli."
 type: blog
 ---
 

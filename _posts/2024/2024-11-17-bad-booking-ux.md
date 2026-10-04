@@ -2,6 +2,8 @@
 layout: post
 date: 2024-11-17
 title: Bad Booking UX - Train Ticket Booking Frustrations
+seo_title: "Bad Booking UX - Frustrations Buying Train Tickets"
+seo_description: "How a train booking app split up my family's seats, showed the wrong return date and pushed a hotel site, and why bad UX causes real stress."
 type: blog
 ---
 

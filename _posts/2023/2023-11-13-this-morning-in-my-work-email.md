@@ -3,6 +3,8 @@ layout: post
 date: 2023-11-13
 link: https://gabz.blog/2023/11/08/this-morning-in.html
 title: This morning in my work email
+seo_title: "Spam in My Work Email - Why Not Block Gmail?"
+seo_description: "Linking a post on spam reaching work inboxes, and why I do not understand how Gmail and Hotmail are not blocked for most non-customer-facing roles."
 type: linked
 cited: Gabz/mL
 ---

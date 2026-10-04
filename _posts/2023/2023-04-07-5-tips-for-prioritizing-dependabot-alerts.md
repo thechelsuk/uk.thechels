@@ -3,6 +3,8 @@ layout: post
 date: 2023-04-07
 link: https://github.blog/2022-09-19-5-tips-for-prioritizing-dependabot-alerts/
 title: 5 tips for prioritizing Dependabot alerts
+seo_title: "5 Tips for Prioritising Dependabot Alerts"
+seo_description: "Linking GitHub's five tips for prioritising Dependabot alerts, including the most important sort that weighs risk and relevance to your project."
 type: linked
 cited: GitHub
 ---

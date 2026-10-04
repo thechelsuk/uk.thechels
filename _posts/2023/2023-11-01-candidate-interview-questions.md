@@ -2,6 +2,8 @@
 layout: post
 date: 2023-11-01
 title: Candidate Interview questions
+seo_title: "6 Questions Candidates Should Ask in an Interview"
+seo_description: "Six questions to ask at interview to decide if a company is right for you, from the last change made from employee feedback to a typical day."
 type: blog
 ---
 

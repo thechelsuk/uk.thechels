@@ -3,6 +3,8 @@ layout: post
 date: 2023-04-13
 link: https://jacobian.org/2022/sep/23/post-interview-recommendation/
 title: Post-interview recommendations - a case against 'maybe'
+seo_title: "Post-Interview Recommendations - A Case Against Maybe"
+seo_description: "Linking Jacob Kaplan-Moss on why every interviewer's recommendation should start with a clear hire or no hire, never a non-committal maybe."
 type: linked
 cited: Jacob Kaplan-Moss
 ---

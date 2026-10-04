@@ -3,6 +3,8 @@ layout: post
 date: 2023-03-18
 link: https://docs.publishing.service.gov.uk/manual/rules-for-getting-production-access.html
 title: Rules for getting production access
+seo_title: "GOV.UK Rules for Getting Production Access"
+seo_description: "Linking GOV.UK's rules for granting production access to new or returning developers and SREs, guarding against mistakes while knowledge builds."
 type: linked
 cited: Gov.uk
 ---
