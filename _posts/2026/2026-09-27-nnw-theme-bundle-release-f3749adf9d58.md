@@ -2,6 +2,8 @@
 layout: post
 date: 2026-09-27 01:06
 title: NNW Theme Bundle Version v3.0.0
+seo_title: "NetNewsWire Theme Bundle v3.0.0 - YouTube Fix"
+seo_description: "NetNewsWire theme bundle 3.0.0 fixes YouTube embed error 153 using embed.thechels.uk as a referrer, and adds the new Claudio theme."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/tag/v3.0.0

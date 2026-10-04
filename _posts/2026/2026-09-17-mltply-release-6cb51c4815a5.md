@@ -2,6 +2,8 @@
 layout: post
 date: 2026-09-17 21:30
 title: Mltply Version 2.1.2
+seo_title: "Mltply Version 2.1.2 - App Store Metadata Update"
+seo_description: "Mltply 2.1.2 syncs the repository with the App Store version, with automated Xcode builds and an updated app name, description and tags."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/com.uk.thechels.mltply/releases/tag/2.1.2

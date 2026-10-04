@@ -2,6 +2,8 @@
 layout: post
 date: 2026-09-12 09:00
 title: Hiyd Version 2.1.0
+seo_title: "Hiyd 2.1.0 - Publish to GitHub From Your iPhone"
+seo_description: "Hiyd 2.1.0, the Jekyll companion app for iOS, adds authentication, front matter management and GitHub publishing with up to five configs."
 type: release
 cited: GitHub
 link: https://thechels.uk/projects/hiyd

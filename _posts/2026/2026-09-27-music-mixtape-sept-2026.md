@@ -2,6 +2,8 @@
 layout: post
 date: 2026-09-27
 title: Monthly Mixtape - Sep 2026
+seo_title: "Monthly Mixtape September 2026 - Mark Lanegan, Drenge"
+seo_description: "My September 2026 mixtape of songs on repeat, including Lions of Hazelwood, Don't Forget Me by Mark Lanegan, Drenge and Black Eyed Snakes."
 type: mixtape
 syndicate:
   - mastodon

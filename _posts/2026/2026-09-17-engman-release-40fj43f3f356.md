@@ -2,6 +2,8 @@
 layout: post
 date: 2026-09-17 20:30
 title: EngMan Version 2.1.1
+seo_title: "EngMan Version 2.1.1 - Fixes and Pipeline Updates"
+seo_description: "EngMan 2.1.1 brings bug fixes, improvements and build pipeline updates to my coaching card app for engineering managers on iOS."
 type: release
 cited: GitHub
 link: https://thechels.uk/projects/engman

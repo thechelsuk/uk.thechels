@@ -2,6 +2,8 @@
 layout: post
 date: 2026-09-15 20:00
 title: Hiyd Version 2.1.1
+seo_title: "Hiyd Version 2.1.1 - Bug Fixes and Performance"
+seo_description: "Hiyd 2.1.1 brings bug fixes and performance improvements to the Jekyll companion app for iOS that saves to iCloud or publishes to GitHub."
 type: release
 cited: GitHub
 link: https://thechels.uk/projects/hiyd

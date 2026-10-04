@@ -6,7 +6,8 @@ syndicate:
   - textlog
 date: 2026-09-25 04:00
 title: Mltply workbooks are on Etsy
-seo: "My printable Mltply maths workbooks and SATs arithmetic papers are now on Etsy too, as instant downloads."
+seo_title: "Mltply Maths Workbooks Now on Etsy"
+seo_description: "My printable Mltply maths workbooks for Years 1 to 7 and SATs arithmetic papers are now on Etsy too, as instant downloads for home learning."
 type: blog
 ---
 

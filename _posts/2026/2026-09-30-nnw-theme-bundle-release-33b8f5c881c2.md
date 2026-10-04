@@ -2,6 +2,8 @@
 layout: post
 date: 2026-09-30 14:15
 title: NNW Theme Bundle Version v3.1.0
+seo_title: "NetNewsWire Theme Bundle v3.1.0 - YouTube Discovery"
+seo_description: "NetNewsWire theme bundle 3.1.0 improves discovery of YouTube links, including in Bluesky RSS feeds, with downloads for Claudio and others."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/tag/v3.1.0

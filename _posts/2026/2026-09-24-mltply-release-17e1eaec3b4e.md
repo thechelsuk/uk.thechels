@@ -2,6 +2,8 @@
 layout: post
 date: 2026-09-24 21:26
 title: Mltply Version 2.2.0
+seo_title: "Mltply Version 2.2.0 - Kids Maths App Update"
+seo_description: "Mltply 2.2.0, the chat-style maths buddy for kids, quizzing them on questions of rising difficulty with settings to target weak areas."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/com.uk.thechels.mltply/releases/tag/2.2.0

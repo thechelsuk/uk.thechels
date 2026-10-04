@@ -2,6 +2,8 @@
 layout: post
 date: 2026-09-15 20:15
 title: Shortkeys Version 1.3.1
+seo_title: "ShortKeys Version 1.3.1 - Bug Fixes and Performance"
+seo_description: "ShortKeys 1.3.1 brings bug fixes and performance improvements to my multi-line text replacement keyboard app for iPhone and iPad."
 type: release
 cited: GitHub
 link: https://thechels.uk/projects/shortkeys

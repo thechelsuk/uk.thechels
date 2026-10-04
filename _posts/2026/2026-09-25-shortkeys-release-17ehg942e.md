@@ -2,6 +2,8 @@
 layout: post
 date: 2026-09-25 00:15
 title: Shortkeys Version 1.5.0
+seo_title: "ShortKeys Version 1.5.0 - Undo and Pinned Favourites"
+seo_description: "ShortKeys 1.5.0 adds undo, so backspace returns you to your typed entry, and lets subscribers pin three favourite snippets to the keyboard."
 type: release
 cited: GitHub
 link: https://thechels.uk/projects/shortkeys

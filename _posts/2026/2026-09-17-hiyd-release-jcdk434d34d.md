@@ -2,6 +2,8 @@
 layout: post
 date: 2026-09-17 21:00
 title: Hiyd Version 2.1.2
+seo_title: "Hiyd Version 2.1.2 - Fixes and Pipeline Updates"
+seo_description: "Hiyd 2.1.2 brings bug fixes, performance improvements and build pipeline updates to the Jekyll companion app for iPhone and iPad."
 type: release
 cited: GitHub
 link: https://thechels.uk/projects/hiyd

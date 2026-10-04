@@ -2,6 +2,8 @@
 layout: post
 date: 2026-09-12 10:00
 title: Shortkeys Version 1.3.0
+seo_title: "ShortKeys Version 1.3.0 - Refactor and Keyboard Fixes"
+seo_description: "ShortKeys 1.3.0 brings a new icon, a big refactor, keyboard crash fixes, more reliable triggers, safer backspace repeat and unit tests."
 type: release
 cited: GitHub
 link: https://thechels.uk/projects/shortkeys

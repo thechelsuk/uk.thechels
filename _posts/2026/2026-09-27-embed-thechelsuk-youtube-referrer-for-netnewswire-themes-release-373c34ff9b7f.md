@@ -2,6 +2,8 @@
 layout: post
 date: 2026-09-27 00:44
 title: Embed @ thechelsuk - YouTube referrer for NetNewsWire Themes Version 1.0.0
+seo_title: "Embed @ thechelsuk 1.0.0 - YouTube Fix for NetNewsWire"
+seo_description: "Embed 1.0.0, a static page that embeds YouTube via youtube-nocookie so my NetNewsWire themes play videos inline without error 153."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.embed/releases/tag/1.0.0
