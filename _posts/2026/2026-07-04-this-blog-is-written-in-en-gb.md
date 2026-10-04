@@ -17,4 +17,4 @@ This website is also en-GB, on purpose, not by accident.
 > Here's the thing. No.
 >
 > All my blog posts start with a simple declaration:
-> <!doctype html><html lang=en-GB>
+> `<!doctype html><html lang=en-GB>`
