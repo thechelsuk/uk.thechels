@@ -2,6 +2,8 @@
 layout: post
 date: 2023-07-14
 title: Fix volume control on Apple TV
+seo_title: "How to Fix Missing Volume Control on Apple TV"
+seo_description: "How to fix Apple TV losing its volume control, which happens to me after connecting Zwift Bluetooth devices, with a link to Apple's support guide."
 type: blog
 ---
 

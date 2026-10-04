@@ -3,6 +3,8 @@ layout: post
 date: 2024-09-29
 link: https://www.gov.uk/service-manual/technology/using-progressive-enhancement
 title: If you use JavaScript
+seo_title: "GOV.UK Guidance on Using JavaScript Frameworks"
+seo_description: "Linking the GOV.UK service manual on progressive enhancement: justify any JavaScript framework with evidence of user benefit and mitigate harms."
 type: linked
 cited: Gov.uk
 ---

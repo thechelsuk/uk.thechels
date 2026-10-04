@@ -3,6 +3,8 @@ layout: post
 date: 2023-04-13
 link: https://github.blog/2023-02-24-3-ways-to-meet-compliance-needs-without-slowing-down-agility/
 title: 3 ways to meet compliance needs without slowing down agility
+seo_title: "Meet Compliance Needs Without Slowing Down Agility"
+seo_description: "Linking GitHub's three ways to meet compliance requirements without losing agility, including SAML single sign-on for GitHub Enterprise."
 type: linked
 cited: GitHub
 ---

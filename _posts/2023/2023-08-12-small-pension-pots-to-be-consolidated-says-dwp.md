@@ -3,6 +3,8 @@ layout: post
 date: 2023-08-12
 link: https://moneyweek.com/personal-finance/pensions/small-pension-pots-to-be-consolidated-dwp
 title: Small pension pots to be consolidated says DWP
+seo_title: "Small Pension Pots to Be Consolidated, Says DWP"
+seo_description: "Linking MoneyWeek on DWP plans to sweep deferred pension pots under £1,000 into consolidators, and my worry that fees will erode modest pots."
 type: linked
 cited: Moneyweek
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2024-09-14
 link: https://testing.googleblog.com/2024/07/in-praise-of-small-pull-requests.html
 title: In Praise of Small Pull Requests
+seo_title: "In Praise of Small Pull Requests - Google Testing Blog"
+seo_description: "Linking the Google Testing Blog on why small, focused pull requests, or changelists, are easier to review, safer to merge and faster to ship."
 type: linked
 cited: Google Testing Blog
 ---

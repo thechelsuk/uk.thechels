@@ -3,6 +3,8 @@ layout: post
 date: 2023-12-17
 link: https://tidyfirst.substack.com/p/canon-tdd
 title: Canon TDD - by Kent Beck
+seo_title: "Canon TDD by Kent Beck - The TDD Workflow Explained"
+seo_description: "Linking Kent Beck's Canon TDD: list test scenarios, turn one into a runnable test, make it pass, optionally refactor, and repeat until done."
 type: linked
 cited: Kent Beck
 ---

@@ -2,6 +2,8 @@
 layout: post
 date: 2023-09-03
 title: Job titles by age
+seo_title: "My Job Titles by Age - From Analyst to Head of Eng"
+seo_description: "My career in job titles by age, from data analyst at 23 to web and software developer, head of software development and head of engineering."
 type: blog
 ---
 

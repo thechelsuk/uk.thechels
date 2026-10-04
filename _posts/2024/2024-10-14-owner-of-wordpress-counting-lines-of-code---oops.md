@@ -2,6 +2,8 @@
 layout: post
 date: 2024-10-14
 title: Owner of Wordpress counting lines of code - Oops
+seo_title: "WordPress Owner Counting Lines of Code Against Rails"
+seo_description: "Laughing at Automattic's boss comparing lines of open source code with Rails and Shopify, as if more code means a bigger open source contribution."
 type: blog
 ---
 

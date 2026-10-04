@@ -1,0 +1,366 @@
+{
+  "_posts/2023/2023-03-01-books-–-building-customer-driven-saas-products.md": {
+    "seo_title": "Jason Evanish's Bookshelf for Building SaaS Products",
+    "seo_description": "Linking Jason Evanish's bookshelf of recommended reads on building customer-driven SaaS products, management and more, from 25 books a year."
+  },
+  "_posts/2023/2023-03-01-fail-fast,-move-on-what-to-do-with-a-players.md": {
+    "seo_title": "What to Do With A-Players - Fail Fast, Move On",
+    "seo_description": "Linking Fail Fast, Move On on A-players, a term from McKinsey's The War for Talent, and what talent management labels like this mean for teams."
+  },
+  "_posts/2023/2023-03-01-how-to-start-using-reusable-workflows-with-github-actions.md": {
+    "seo_title": "How to Use Reusable Workflows in GitHub Actions",
+    "seo_description": "Linking GitHub on reusable workflows in GitHub Actions, including enforcing a specific workflow before deployments such as database migrations."
+  },
+  "_posts/2023/2023-03-18-a-day-in-the-life-of-a-gds-site-reliability-engineer-(sre).md": {
+    "seo_title": "A Day in the Life of a GDS Site Reliability Engineer",
+    "seo_description": "Linking the GDS blog on a day in the life of a site reliability engineer on GOV.UK Pay, keeping services working and spotting problems early."
+  },
+  "_posts/2023/2023-03-18-rules-for-getting-production-access-.md": {
+    "seo_title": "GOV.UK Rules for Getting Production Access",
+    "seo_description": "Linking GOV.UK's rules for granting production access to new or returning developers and SREs, guarding against mistakes while knowledge builds."
+  },
+  "_posts/2023/2023-04-05-5-reasons-why-developers-love-1password.md": {
+    "seo_title": "5 Reasons Developers Love 1Password's SSH Agent",
+    "seo_description": "Linking 1Password on why developers love it, including an SSH agent that unlocks git pulls with a fingerprint without private keys leaving the vault."
+  },
+  "_posts/2023/2023-04-05-how-1password-and-sso-fit-together-–-and-what-comes-next.md": {
+    "seo_title": "How 1Password and SSO Fit Together",
+    "seo_description": "Linking 1Password on how password managers and single sign-on work together, and why usable security tools reduce your attack surface."
+  },
+  "_posts/2023/2023-04-05-how-uber-is-measuring-engineering-productivity.md": {
+    "seo_title": "How Uber Measures Engineering Productivity",
+    "seo_description": "Linking The Pragmatic Engineer on Uber's engineering metrics dashboard, tracking diffs, code review metrics and focus time for its engineers."
+  },
+  "_posts/2023/2023-04-07-24-startup-cto-interview-questions.md": {
+    "seo_title": "24 Startup CTO Interview Questions - Karl Hughes",
+    "seo_description": "Linking Karl Hughes's 24 interview questions for hiring a startup CTO, grouped by topic so you can pick the ones that suit your company's needs."
+  },
+  "_posts/2023/2023-04-07-5-tips-for-prioritizing-dependabot-alerts.md": {
+    "seo_title": "5 Tips for Prioritising Dependabot Alerts",
+    "seo_description": "Linking GitHub's five tips for prioritising Dependabot alerts, including the most important sort that weighs risk and relevance to your project."
+  },
+  "_posts/2023/2023-04-07-cyberattack-sees-australian-fintech-take-itself-offline.md": {
+    "seo_title": "Cyberattack Takes Australian Fintech Latitude Offline",
+    "seo_description": "Linking The Register: stolen staff credentials let attackers into Latitude Financial's providers, exposing over 100,000 ID documents and more."
+  },
+  "_posts/2023/2023-04-07-devops-vs.-sre-vs.-platform-engineering---by-alex-xu.md": {
+    "seo_title": "DevOps vs SRE vs Platform Engineering - Alex Xu",
+    "seo_description": "Linking ByteByteGo's system design refresher comparing DevOps, SRE and platform engineering, plus HTTP status codes and good error messages."
+  },
+  "_posts/2023/2023-04-07-how-to-mitigate-owasp-vulnerabilities-while-staying-in-the-flow.md": {
+    "seo_title": "Mitigate OWASP Vulnerabilities and Stay in the Flow",
+    "seo_description": "Linking GitHub on using the OWASP Top 10 to tackle common security vulnerabilities while keeping developers productive and in the flow."
+  },
+  "_posts/2023/2023-04-07-now-in-beta---securely-automate-secrets-with-service-accounts.md": {
+    "seo_title": "1Password Service Accounts for Automating Secrets",
+    "seo_description": "Linking 1Password's service accounts beta: accounts not tied to a person, limited to specific vaults and actions, for securely automating secrets."
+  },
+  "_posts/2023/2023-04-07-setting-goals-and-getting-buy-in.md": {
+    "seo_title": "Setting Goals and Getting Buy-In From Your Team",
+    "seo_description": "Linking Karl Hughes on setting goals collaboratively, since unclear goals are a top source of workplace stress and can cost you your best people."
+  },
+  "_posts/2023/2023-04-07-the-making-of-a-manager.md": {
+    "seo_title": "The Making of a Manager by Julie Zhou - Book Notes",
+    "seo_description": "Linking Scott Brady's notes on The Making of a Manager by Julie Zhou, a guide to what to expect when you start out in your first management role."
+  },
+  "_posts/2023/2023-04-13-3-ways-to-meet-compliance-needs-without-slowing-down-agility.md": {
+    "seo_title": "Meet Compliance Needs Without Slowing Down Agility",
+    "seo_description": "Linking GitHub's three ways to meet compliance requirements without losing agility, including SAML single sign-on for GitHub Enterprise."
+  },
+  "_posts/2023/2023-04-13-building-org-gov-cicd.md": {
+    "seo_title": "Building Organisation-Wide Governance in CI/CD",
+    "seo_description": "Linking GitHub on organisation-wide governance and reuse in CI/CD with GitHub Actions, making compliance easier to prove in regulated environments."
+  },
+  "_posts/2023/2023-04-13-performance-seasons-are-useless-—-use-anniversary-reviews-instead.md": {
+    "seo_title": "Use Anniversary Reviews Instead of Performance Seasons",
+    "seo_description": "Linking Jacob Kaplan-Moss on replacing annual performance seasons with anniversary reviews spread through the year, so review skills stick."
+  },
+  "_posts/2023/2023-04-13-post-interview-recommendations---a-case-against-'maybe'.md": {
+    "seo_title": "Post-Interview Recommendations - A Case Against Maybe",
+    "seo_description": "Linking Jacob Kaplan-Moss on why every interviewer's recommendation should start with a clear hire or no hire, never a non-committal maybe."
+  },
+  "_posts/2023/2023-04-13-underperforming-exec.md": {
+    "seo_title": "What to Do If You Report to an Underperforming Exec",
+    "seo_description": "Linking Will Larson on reporting to an underperforming executive, and how teams react more to how decisions are messaged than to the decisions."
+  },
+  "_posts/2023/2023-04-14-12-qa-interview-questions.md": {
+    "seo_title": "12 QA Interview Questions for Hiring Testers",
+    "seo_description": "Twelve interview questions for hiring QA engineers, from writing good test cases and running large suites quickly to building quality control."
+  },
+  "_posts/2023/2023-05-23-curated-interview-process.md": {
+    "seo_title": "A Curated Engineering Interview Process and Questions",
+    "seo_description": "My best engineering interview questions after 200+ interviews in two years, and how to run a process that gives every candidate a good experience."
+  },
+  "_posts/2023/2023-06-17-deleted-reddit-account.md": {
+    "seo_title": "Why I Deleted My Reddit Account in 2023",
+    "seo_description": "I deleted my Reddit account this week, after leaving Facebook years ago and Twitter last year. Bad leadership will always catch up with you."
+  },
+  "_posts/2023/2023-06-25-10-money-rules-for-everyone.md": {
+    "seo_title": "10 Money Rules for Everyone - Personal Finance Principles",
+    "seo_description": "My ten personal finance principles, starting with maximising your earnings through education, experience and upskilling. Not financial advice."
+  },
+  "_posts/2023/2023-07-14-fix-volume-control-on-apple-tv-.md": {
+    "seo_title": "How to Fix Missing Volume Control on Apple TV",
+    "seo_description": "How to fix Apple TV losing its volume control, which happens to me after connecting Zwift Bluetooth devices, with a link to Apple's support guide."
+  },
+  "_posts/2023/2023-07-14-offshore-fund-used-by-roman.md": {
+    "seo_title": "Roman Abramovich's Offshore Fund and UK Tech Investments",
+    "seo_description": "Linking Sifted's investigation into the offshore fund used by former Chelsea owner Roman Abramovich to invest in UK tech startups through Impulse."
+  },
+  "_posts/2023/2023-08-12-a-beginners-guide-to-api-testing.md": {
+    "seo_title": "A Beginner's Guide to API Testing",
+    "seo_description": "Linking Callum Akehurst-Ryan's beginner's guide to API testing, and why testing the API directly finds errors and risky inputs a UI would hide."
+  },
+  "_posts/2023/2023-08-12-gloucester-council-data-breach-criminals.md": {
+    "seo_title": "Gloucester Council Data Breach - A Slap on the Wrist",
+    "seo_description": "Linking DataBreaches.net: Gloucester City Council gets a slap on the wrist after Russian hackers stole data and disrupted services in late 2021."
+  },
+  "_posts/2023/2023-08-12-small-pension-pots-to-be-consolidated-says-dwp.md": {
+    "seo_title": "Small Pension Pots to Be Consolidated, Says DWP",
+    "seo_description": "Linking MoneyWeek on DWP plans to sweep deferred pension pots under £1,000 into consolidators, and my worry that fees will erode modest pots."
+  },
+  "_posts/2023/2023-09-02-golf-joke.md": {
+    "seo_title": "Golf Joke - Jesus and Moses Play a Round of Golf",
+    "seo_description": "A golf joke from The Newsroom: Moses hits a perfect 300 yard drive, then Jesus hooks his ball into a tree and the weather takes over. A classic."
+  },
+  "_posts/2023/2023-09-02-priority-quote.md": {
+    "seo_title": "The One Thing - Gary Keller Quote on Priority",
+    "seo_description": "A quote from Gary Keller on focus: what is the one thing I can do, such that by doing it, everything else will be easier or unnecessary?"
+  },
+  "_posts/2023/2023-09-03-competence-quote.md": {
+    "seo_title": "Leadership Quote on Confidence and Competence",
+    "seo_description": "A leadership quote: let go of people who are confident and competent, coach the competent but unsure, and retrain or support everyone else."
+  },
+  "_posts/2023/2023-09-03-donner-dinner-party-game.md": {
+    "seo_title": "Donner Dinner Party Game - Card Counts and Odds",
+    "seo_description": "Card quantities for the Donner Dinner Party board game: 14 empty hands, 7 poison, 8 fish, 6 squirrels and 5 medicine, to work out the odds."
+  },
+  "_posts/2023/2023-09-03-job-titles-by-age.md": {
+    "seo_title": "My Job Titles by Age - From Analyst to Head of Eng",
+    "seo_description": "My career in job titles by age, from data analyst at 23 to web and software developer, head of software development and head of engineering."
+  },
+  "_posts/2023/2023-09-03-recipe---lentil-bolognese-.md": {
+    "seo_title": "Lentil Bolognese Recipe - Vegetarian and Veg-Packed",
+    "seo_description": "An easy vegetarian lentil bolognese packed with broccoli, mushrooms, courgette, celery and peppers in passata, with beans, garlic and chilli."
+  },
+  "_posts/2023/2023-09-03-search-engine-management-and-reducing-digital-footprint.md": {
+    "seo_title": "Reduce Your Digital Footprint in Search Engines",
+    "seo_description": "How to see what search engines know about you with intext, inurl and filetype searches, then reduce your digital footprint across Google and Bing."
+  },
+  "_posts/2023/2023-09-13-teams-spend-44-percent-more-time-on-new-work.md": {
+    "seo_title": "High Performing Teams Spend 44% More Time on New Work",
+    "seo_description": "A DORA finding: teams with high stability and throughput scores spend 44 per cent more time on new work, showing quality and speed go together."
+  },
+  "_posts/2023/2023-10-08-learn-and-test-dmarc.md": {
+    "seo_title": "Learn DMARC - Visual Tester for SPF, DKIM and DMARC",
+    "seo_description": "Linking Learn DMARC, an interactive tester that visualises email servers talking, to help you understand how SPF, DKIM and DMARC work together."
+  },
+  "_posts/2023/2023-10-13-the-worst-programmer-i-know.md": {
+    "seo_title": "The Worst Programmer I Know - Dan North",
+    "seo_description": "Linking Dan North's story of the worst programmer he knows, who scored zero on productivity metrics, and why engineering is a team sport."
+  },
+  "_posts/2023/2023-10-21-do-one-small-high-quality-thing.md": {
+    "seo_title": "Do One Small, High Quality Thing at a Time",
+    "seo_description": "A simple principle for software teams: do one small, high quality thing at a time, together as a team. Then think, learn and repeat the cycle."
+  },
+  "_posts/2023/2023-10-31-youtube-is-getting-serious-about-blocking-ad-blockers.md": {
+    "seo_title": "YouTube Gets Serious About Blocking Ad Blockers",
+    "seo_description": "Linking The Verge on YouTube's ad blocker crackdown, and why I find frequent mid-dialogue unskippable ads so disruptive when watching longer shows."
+  },
+  "_posts/2023/2023-11-01-candidate-interview-questions.md": {
+    "seo_title": "6 Questions Candidates Should Ask in an Interview",
+    "seo_description": "Six questions to ask at interview to decide if a company is right for you, from the last change made from employee feedback to a typical day."
+  },
+  "_posts/2023/2023-11-13-this-morning-in-my-work-email.md": {
+    "seo_title": "Spam in My Work Email - Why Not Block Gmail?",
+    "seo_description": "Linking a post on spam reaching work inboxes, and why I do not understand how Gmail and Hotmail are not blocked for most non-customer-facing roles."
+  },
+  "_posts/2023/2023-11-30-podcast-app-castro-may-be-dying.md": {
+    "seo_title": "Castro Podcast App May Be Dying - Six Colors",
+    "seo_description": "Linking Six Colors on the Castro podcast app outage. Castro changed how I manage my listening with its inbox and queue, but I moved to Pocket Casts."
+  },
+  "_posts/2023/2023-12-02-more-news-on-castro..md": {
+    "seo_title": "Castro Podcast App Seeks New Owners",
+    "seo_description": "Linking Castro's December 2023 update: the team is actively looking for new owners for the podcast app, aiming to keep it going and improve it."
+  },
+  "_posts/2023/2023-12-06-zwift-annual-memberships.md": {
+    "seo_title": "Zwift Annual Memberships - 12 Months for the Price of 10",
+    "seo_description": "Linking Zwift's new annual membership, giving 12 months for the price of 10, plus a bunch of new features in version 1.54 of the cycling app."
+  },
+  "_posts/2023/2023-12-17-canon-tdd---by-kent-beck-.md": {
+    "seo_title": "Canon TDD by Kent Beck - The TDD Workflow Explained",
+    "seo_description": "Linking Kent Beck's Canon TDD: list test scenarios, turn one into a runnable test, make it pass, optionally refactor, and repeat until done."
+  },
+  "_posts/2024/2024-02-29-values.md": {
+    "seo_title": "My Engineering Values - Small Work, TDD and Kindness",
+    "seo_description": "The values I have come to appreciate in my career: small work, ensemble programming, TDD, trunk-based development, minimal CD and being kind."
+  },
+  "_posts/2024/2024-03-10-managing-technical-debt.md": {
+    "seo_title": "Managing Technical Debt - A Playbook",
+    "seo_description": "Linking Jacob Kaplan-Moss's playbook for paying down technical debt, starting with picking a serviceable measure and tracking it consistently."
+  },
+  "_posts/2024/2024-03-10-observations-of-leadership.md": {
+    "seo_title": "Observations of Leadership - Hazel Weakly",
+    "seo_description": "Linking Hazel Weakly's observations on leadership, including how turning a whole team into a mob programming team made an incredible difference."
+  },
+  "_posts/2024/2024-03-12-Azure-Charts.md": {
+    "seo_title": "Azure Charts - Azure Service Deprecation Timeline",
+    "seo_description": "A useful visualisation shared with me: Azure Charts' timeboard of upcoming Azure service deprecations and retirements, all in one timeline."
+  },
+  "_posts/2024/2024-03-27-job-jokes.md": {
+    "seo_title": "Jokes About Job Searching - Puns for Job Hunters",
+    "seo_description": "A few job hunting jokes and puns, like the chiropractor job I applied for about a weak back. Something to smile about while you are job searching."
+  },
+  "_posts/2024/2024-05-07-castro-new-pricing-under-new-ownership.md": {
+    "seo_title": "Castro Podcast App - New Pricing Under New Owners",
+    "seo_description": "Linking Castro's new pricing under its new owners, a rise from £7.99 to £24.99 for me, which is fine if it works. I am back using Castro again."
+  },
+  "_posts/2024/2024-05-07-finding-an-isbn-in-drafts.md": {
+    "seo_title": "Find an ISBN in Text With a Drafts App Action",
+    "seo_description": "A new action for the Drafts app that finds an ISBN in some text and searches for the book, available to install from the Drafts action directory."
+  },
+  "_posts/2024/2024-05-07-github-copilot-chat-in-github-mobile-is-now-generally-available.md": {
+    "seo_title": "GitHub Copilot Chat Now Available in GitHub Mobile",
+    "seo_description": "Linking GitHub: Copilot Chat is now generally available in the GitHub Mobile app, so you can ask coding questions from your phone or tablet."
+  },
+  "_posts/2024/2024-05-07-how-i-read-books-with-limited-time.md": {
+    "seo_title": "How to Read Books With Limited Time",
+    "seo_description": "Linking a tech lead's approach to reading soft skills books with limited time, and my favourite lesson: it is fine to stop a book you do not enjoy."
+  },
+  "_posts/2024/2024-05-07-zwift-announces-membership-price-increase.md": {
+    "seo_title": "Zwift Membership Price Increase of 33 Per Cent",
+    "seo_description": "Linking Zwift Insider on Zwift raising membership prices by about 33 per cent, taking my annual plan from £129 to £179. Still worth it for me."
+  },
+  "_posts/2024/2024-05-08-11-ways-to-get-better-feedback-from-your-manager.md": {
+    "seo_title": "11 Ways to Get Better Feedback From Your Manager",
+    "seo_description": "Linking Wes Kao's 11 ways to get better feedback from your manager, such as making it easy to give and asking what to do differently next time."
+  },
+  "_posts/2024/2024-05-08-how-to-share-your-point-of-view-even-if-you-are-afraid-of-being-wrong.md": {
+    "seo_title": "How to Share Your Point of View When Afraid of Being Wrong",
+    "seo_description": "Linking Wes Kao on sharing your point of view with confidence: bigger claims need more proof, and explain where your hunch is coming from."
+  },
+  "_posts/2024/2024-05-08-printing-music-with-css-grid.md": {
+    "seo_title": "Printing Sheet Music With CSS Grid",
+    "seo_description": "Linking Cruncher on laying out and printing sheet music with CSS Grid, including the tricky judgement calls on rhythm and columns per beat."
+  },
+  "_posts/2024/2024-05-18-thechels-uk-release-4b3f046e24c6.md": {
+    "seo_title": "thechels.uk Version 1.3.0 Release Notes",
+    "seo_description": "Release notes for version 1.3.0 of the thechels.uk website, including new quotes, Dependabot action updates and changes to the about page."
+  },
+  "_posts/2024/2024-09-14-everyone-wants-to-work-with.md": {
+    "seo_title": "Become the Engineer Everyone Wants to Work With",
+    "seo_description": "Linking Engineering Leadership on becoming the engineer everyone wants to work with, because software is a team activity and great teams build it."
+  },
+  "_posts/2024/2024-09-14-getting-started-with-govuk-forms.md": {
+    "seo_title": "Getting Started With GOV.UK Forms at the DVSA",
+    "seo_description": "Linking the GDS blog on how the DVSA content team adopted GOV.UK Forms, replacing around 60 email-based processes with structured online forms."
+  },
+  "_posts/2024/2024-09-14-in-praise-of-small-pull-requests.md": {
+    "seo_title": "In Praise of Small Pull Requests - Google Testing Blog",
+    "seo_description": "Linking the Google Testing Blog on why small, focused pull requests, or changelists, are easier to review, safer to merge and faster to ship."
+  },
+  "_posts/2024/2024-09-17-team-spoons.md": {
+    "seo_title": "Team Spoons - Spoon Theory for Team Energy",
+    "seo_description": "Spoon theory from the chronic illness world, how it fits my two years of undiagnosed fatigue, and how it applies to agile teams at an unsustainable pace."
+  },
+  "_posts/2024/2024-09-17-whatsapp-channel-launched.md": {
+    "seo_title": "The Social Software Engineer WhatsApp Channel",
+    "seo_description": "I have launched a WhatsApp channel, The Social Software Engineer. Follow it on WhatsApp to get updates and posts straight to your phone."
+  },
+  "_posts/2024/2024-09-29-Womens-super-league-broadcasting.md": {
+    "seo_title": "Women's Super League Moves Broadcasting to YouTube",
+    "seo_description": "The WSL moving from the clunky FA Player to YouTube is a big improvement. I happily watched three games at once on my ultrawide monitor."
+  },
+  "_posts/2024/2024-09-29-apple-silicon-mac-mini-5-port.md": {
+    "seo_title": "Apple Silicon Mac Mini With Five USB-C Ports Leaked",
+    "seo_description": "Linking 512 Pixels on a leaked next-generation Mac mini with five USB-C ports. If it is Apple TV sized with an M-series chip, sign me up."
+  },
+  "_posts/2024/2024-09-29-apple-watch-sleep-apnea-detection-feature-now-available.md": {
+    "seo_title": "Apple Watch Sleep Apnoea Detection Now Available",
+    "seo_description": "Linking MacRumors: watchOS 11 brings sleep apnoea detection to Apple Watch Series 9, Series 10 and Ultra 2 in more than 150 countries."
+  },
+  "_posts/2024/2024-09-29-castro-podcast-app-is-back.md": {
+    "seo_title": "Castro Podcast App Is Back With iOS 18 Updates",
+    "seo_description": "Linking Castro's release notes for version 2024.9.1, fixing UI bugs and crashes, with more alternate icons promised. The podcast app is back."
+  },
+  "_posts/2024/2024-09-29-if-you-use-javascript.md": {
+    "seo_title": "GOV.UK Guidance on Using JavaScript Frameworks",
+    "seo_description": "Linking the GOV.UK service manual on progressive enhancement: justify any JavaScript framework with evidence of user benefit and mitigate harms."
+  },
+  "_posts/2024/2024-10-14-owner-of-wordpress-counting-lines-of-code---oops.md": {
+    "seo_title": "WordPress Owner Counting Lines of Code Against Rails",
+    "seo_description": "Laughing at Automattic's boss comparing lines of open source code with Rails and Shopify, as if more code means a bigger open source contribution."
+  },
+  "_posts/2024/2024-10-28-apple-passwords-generated-strong-password-format.md": {
+    "seo_title": "Apple Passwords - How Strong Passwords Are Generated",
+    "seo_description": "Linking Ricky Mondello on the format of Apple's generated strong passwords, made of lowercase fake words to stay convenient to type when needed."
+  },
+  "_posts/2024/2024-10-28-extra-£100m-bill-for-state-pension-rise-next-year.md": {
+    "seo_title": "Extra £100m Bill for State Pension Rise Next Year",
+    "seo_description": "Linking IFA Magazine: revised earnings figures add £100m to the triple lock state pension rise. My view: scrap the triple lock and reform it."
+  },
+  "_posts/2024/2024-10-28-microsoft-teams-is-getting-threads-and-combined-chats-and-channels.md": {
+    "seo_title": "Microsoft Teams Gets Threads and Combined Chats",
+    "seo_description": "Microsoft Teams is finally getting threaded conversations in mid-2025, and is combining separate chats and channels into a single view first."
+  },
+  "_posts/2024/2024-10-28-pension-transfer-times-at-lowest-since-pandemic.md": {
+    "seo_title": "Pension Transfer Times at Lowest Since the Pandemic",
+    "seo_description": "Linking IFA Magazine on pension transfer times falling to their lowest since 2021 per the Origo index, and why lowest reads like slowest to me."
+  },
+  "_posts/2024/2024-10-31-interviewing-for-evidence.md": {
+    "seo_title": "Interviewing for Evidence - Dan North",
+    "seo_description": "Linking Dan North on interviewing for evidence, using open experiential questions like tell me about a time when, then what did you do next."
+  },
+  "_posts/2024/2024-11-01-a-manifesto-for-human-centric-engineering.md": {
+    "seo_title": "A Manifesto for Human-Centric Engineering",
+    "seo_description": "Linking Simon Holmes's manifesto for human-centric engineering: miserable engineers rarely make happy customers, so developer experience matters."
+  },
+  "_posts/2024/2024-11-01-four-things-i-learned-from-coaching-that-made-me-a-better-leader.md": {
+    "seo_title": "Four Coaching Lessons That Make You a Better Leader",
+    "seo_description": "Linking Cate Huston on four things coaching taught her about leadership, such as replacing a heated reaction with a question to defuse conflict."
+  },
+  "_posts/2024/2024-11-07-govforms-in-motion.md": {
+    "seo_title": "GOV.UK Forms in Motion Across Central Government",
+    "seo_description": "Linking GDS: teams across central government can now build secure, accessible forms without technical skills, saving over two years of processing."
+  },
+  "_posts/2024/2024-11-09-smurf-beyond-the-test-pyramid.md": {
+    "seo_title": "SMURF - Beyond the Test Pyramid From Google Testing",
+    "seo_description": "Linking the Google Testing Blog on SMURF, a way to weigh trade-offs between test types beyond the test pyramid, improving tests without harm."
+  },
+  "_posts/2024/2024-11-10-mastery.md": {
+    "seo_title": "Derek Sivers Quote on Mastery - The Ultimate Status",
+    "seo_description": "Derek Sivers on mastery: the rich cannot buy it, the impatient cannot rush it, nobody can inherit or steal it. You only earn it through hard work."
+  },
+  "_posts/2024/2024-11-16-team-work.md": {
+    "seo_title": "Emma Hayes on Teamwork and Multidisciplinary Thinking",
+    "seo_description": "A quote from Emma Hayes's book on teamwork: unilateral thinking stifles creativity, while the best teams take a multidisciplinary approach."
+  },
+  "_posts/2024/2024-11-17-bad-booking-ux.md": {
+    "seo_title": "Bad Booking UX - Frustrations Buying Train Tickets",
+    "seo_description": "How a train booking app split up my family's seats, showed the wrong return date and pushed a hotel site, and why bad UX causes real stress."
+  },
+  "_posts/2024/2024-12-13-finally.md": {
+    "seo_title": "Premier League to Produce Its Own Live Coverage",
+    "seo_description": "The Premier League will produce its own live coverage. Today you need Sky, Prime, DAZN and more to watch your team; one subscription would be ace."
+  },
+  "_posts/2024/2024-12-13-measuring-developer-experience---theory-of-improvement.md": {
+    "seo_title": "Measuring Developer Experience - Will Larson",
+    "seo_description": "Linking Will Larson on measuring developer experience, using Wardley mapping to explain challenges with productivity tools and DX's approach."
+  },
+  "_posts/2024/2024-12-20-cybaa.md": {
+    "seo_title": "Fixing DNS, MX, DMARC and DKIM Records With Cybaa",
+    "seo_description": "How a quick Cybaa scan found issues with my MX, DMARC and DKIM records plus missing BIMI and MTA-STS, and helped me fix my email security."
+  },
+  "_posts/2024/2024-12-29-a-new-free-tier-for-github-copilot-in-vs-code.md": {
+    "seo_title": "GitHub Copilot Gets a Free Tier in VS Code",
+    "seo_description": "Linking GitHub: Copilot is now free in VS Code, joining free repos, Actions minutes, Codespaces and package storage in GitHub's free offering."
+  },
+  "_posts/2024/2024-12-29-accessibility-posts-at-smashing-magazine.md": {
+    "seo_title": "Accessibility Articles at Smashing Magazine - 2024",
+    "seo_description": "A list of useful 2024 accessibility articles from Smashing Magazine, from making the case for accessibility to minimum WCAG target sizes."
+  },
+  "_posts/2024/2024-12-29-make-the-state-more-like-a-start-up.md": {
+    "seo_title": "Make the State More Like a Start-Up - Pat McFadden",
+    "seo_description": "Linking GOV.UK: Pat McFadden pledges to make the state more like a start-up, launching a £100m fund for public service reform teams nationwide."
+  }
+}

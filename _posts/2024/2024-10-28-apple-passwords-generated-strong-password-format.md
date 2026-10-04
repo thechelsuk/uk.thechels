@@ -3,6 +3,8 @@ layout: post
 date: 2024-10-28
 link: https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/
 title: Apple Passwords Generated Strong Password Format
+seo_title: "Apple Passwords - How Strong Passwords Are Generated"
+seo_description: "Linking Ricky Mondello on the format of Apple's generated strong passwords, made of lowercase fake words to stay convenient to type when needed."
 type: linked
 cited: Ricky Mondello
 ---

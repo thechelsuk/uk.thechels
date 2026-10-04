@@ -2,6 +2,8 @@
 layout: post
 date: 2023-09-03
 title: Competence Quote
+seo_title: "Leadership Quote on Confidence and Competence"
+seo_description: "A leadership quote: let go of people who are confident and competent, coach the competent but unsure, and retrain or support everyone else."
 type: linked
 cited: Unknown
 ---

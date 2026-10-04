@@ -2,6 +2,8 @@
 layout: post
 date: 2023-05-23
 title: Curated interview process
+seo_title: "A Curated Engineering Interview Process and Questions"
+seo_description: "My best engineering interview questions after 200+ interviews in two years, and how to run a process that gives every candidate a good experience."
 cited:
 
 type: blog

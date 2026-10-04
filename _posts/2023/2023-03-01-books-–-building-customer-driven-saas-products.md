@@ -3,6 +3,8 @@ layout: post
 date: 2023-03-01
 link: https://jasonevanish.com/bookshelf/?amp=1
 title: Books – Building Customer Driven SaaS Products
+seo_title: "Jason Evanish's Bookshelf for Building SaaS Products"
+seo_description: "Linking Jason Evanish's bookshelf of recommended reads on building customer-driven SaaS products, management and more, from 25 books a year."
 type: linked
 cited: Jason Evanish
 ---

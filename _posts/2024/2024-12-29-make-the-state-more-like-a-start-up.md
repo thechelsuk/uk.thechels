@@ -2,6 +2,8 @@
 layout: post
 date: 2024-12-29
 title: Make the state more like a start up
+seo_title: "Make the State More Like a Start-Up - Pat McFadden"
+seo_description: "Linking GOV.UK: Pat McFadden pledges to make the state more like a start-up, launching a £100m fund for public service reform teams nationwide."
 type: linked
 cited: Gov.uk
 link: https://www.gov.uk/government/news/pat-mcfadden-vows-to-make-the-state-more-like-a-start-up-as-he-deploys-reform-teams-across-country

@@ -3,6 +3,8 @@ layout: post
 date: 2024-09-29
 link: https://castro.fm/blog/castro-explore-ios-18
 title: Castro Podcast app is back
+seo_title: "Castro Podcast App Is Back With iOS 18 Updates"
+seo_description: "Linking Castro's release notes for version 2024.9.1, fixing UI bugs and crashes, with more alternate icons promised. The podcast app is back."
 type: linked
 cited: Castro
 ---

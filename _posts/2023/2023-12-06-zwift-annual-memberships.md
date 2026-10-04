@@ -3,6 +3,8 @@ layout: post
 date: 2023-12-06
 link: https://news.zwift.com/en-WW/232068-new-annual-memberships-make-it-more-affordable-to-zwift-all-year
 title: Zwift Annual Memberships
+seo_title: "Zwift Annual Memberships - 12 Months for the Price of 10"
+seo_description: "Linking Zwift's new annual membership, giving 12 months for the price of 10, plus a bunch of new features in version 1.54 of the cycling app."
 type: linked
 cited: Zwift Newsroom
 ---

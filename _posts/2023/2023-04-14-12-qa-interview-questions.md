@@ -2,6 +2,8 @@
 layout: post
 date: 2023-04-14
 title: 12 QA Interview questions
+seo_title: "12 QA Interview Questions for Hiring Testers"
+seo_description: "Twelve interview questions for hiring QA engineers, from writing good test cases and running large suites quickly to building quality control."
 type: blog
 ---
 

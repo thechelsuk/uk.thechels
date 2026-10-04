@@ -2,6 +2,8 @@
 layout: post
 date: 2023-07-13
 title: 10 Money Rules for Everyone
+seo_title: "10 Money Rules for Everyone - Personal Finance Principles"
+seo_description: "My ten personal finance principles, starting with maximising your earnings through education, experience and upskilling. Not financial advice."
 type: blog
 ---
 

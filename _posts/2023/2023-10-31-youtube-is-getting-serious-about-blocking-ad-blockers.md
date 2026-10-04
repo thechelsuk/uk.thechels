@@ -3,6 +3,8 @@ layout: post
 date: 2023-10-31
 link: https://www.theverge.com/2023/10/31/23940583/youtube-ad-blocker-crackdown-broadening
 title: YouTube is getting serious about blocking ad blockers
+seo_title: "YouTube Gets Serious About Blocking Ad Blockers"
+seo_description: "Linking The Verge on YouTube's ad blocker crackdown, and why I find frequent mid-dialogue unskippable ads so disruptive when watching longer shows."
 type: linked
 cited: The Verge
 ---

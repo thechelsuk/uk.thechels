@@ -2,6 +2,8 @@
 layout: post
 date: 2024-09-17
 title: WhatsApp channel launched
+seo_title: "The Social Software Engineer WhatsApp Channel"
+seo_description: "I have launched a WhatsApp channel, The Social Software Engineer. Follow it on WhatsApp to get updates and posts straight to your phone."
 
 type: blog
 ---

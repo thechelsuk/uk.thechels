@@ -2,6 +2,8 @@
 layout: post
 date: 2024-09-15
 title: Team Spoons - Energy Management and Chronic Illness
+seo_title: "Team Spoons - Spoon Theory for Team Energy"
+seo_description: "Spoon theory from the chronic illness world, how it fits my two years of undiagnosed fatigue, and how it applies to agile teams at an unsustainable pace."
 
 type: blog
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2024-11-09
 link: https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html
 title: SMURF Beyond the Test Pyramid
+seo_title: "SMURF - Beyond the Test Pyramid From Google Testing"
+seo_description: "Linking the Google Testing Blog on SMURF, a way to weigh trade-offs between test types beyond the test pyramid, improving tests without harm."
 type: linked
 cited: Google Testing Blog
 ---

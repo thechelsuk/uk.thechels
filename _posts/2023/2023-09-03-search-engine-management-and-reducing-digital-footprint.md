@@ -2,6 +2,8 @@
 layout: post
 date: 2023-09-03
 title: Search Engine Management and Reducing Digital Footprint
+seo_title: "Reduce Your Digital Footprint in Search Engines"
+seo_description: "How to see what search engines know about you with intext, inurl and filetype searches, then reduce your digital footprint across Google and Bing."
 
 type: blog
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2023-04-07
 link: https://www.karllhughes.com/posts/goals-buyin
 title: Setting Goals and Getting Buy-in
+seo_title: "Setting Goals and Getting Buy-In From Your Team"
+seo_description: "Linking Karl Hughes on setting goals collaboratively, since unclear goals are a top source of workplace stress and can cost you your best people."
 type: linked
 cited: Karl Hughes
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2024-10-31
 link: https://dannorth.net/interviewing-for-evidence/
 title: Interviewing for Evidence
+seo_title: "Interviewing for Evidence - Dan North"
+seo_description: "Linking Dan North on interviewing for evidence, using open experiential questions like tell me about a time when, then what did you do next."
 type: linked
 cited: Dan North
 ---

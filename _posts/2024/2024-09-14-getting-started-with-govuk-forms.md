@@ -3,6 +3,8 @@ layout: post
 date: 2024-09-14
 link: https://gds.blog.gov.uk/2024/08/12/how-to-get-started-using-gov-uk-forms-experiences-of-the-content-team-at-the-dvsa/
 title: How to Get Started using gov uk Forms
+seo_title: "Getting Started With GOV.UK Forms at the DVSA"
+seo_description: "Linking the GDS blog on how the DVSA content team adopted GOV.UK Forms, replacing around 60 email-based processes with structured online forms."
 type: linked
 cited: Government Digital Service
 ---

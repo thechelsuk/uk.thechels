@@ -3,6 +3,8 @@ layout: post
 date: 2024-12-13
 link: https://lethain.com/measuring-developer-experience-benchmarks-theory-of-improvement/
 title: Measuring developer experience - theory of improvement
+seo_title: "Measuring Developer Experience - Will Larson"
+seo_description: "Linking Will Larson on measuring developer experience, using Wardley mapping to explain challenges with productivity tools and DX's approach."
 type: linked
 cited: Will Larson (Lethain)
 ---
