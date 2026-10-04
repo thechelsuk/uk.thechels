@@ -11,6 +11,7 @@ TITLE_MIN = 30
 TITLE_MAX = 60
 DESCRIPTION_MIN = 120
 DESCRIPTION_MAX = 160
+FALLBACK_SENTENCES = ("Read more on thechels.uk.", "More on the blog.")
 
 ROOT = pathlib.Path(__file__).parent.parent.resolve()
 CONTENT_DIRS = ["_pages", "_posts", "_projects", "_bookmarks", "_rides"]
@@ -47,6 +48,45 @@ def check_lengths(title, description):
         problems.append(f"seo_description is {len(description)} chars "
                         f"(want {DESCRIPTION_MIN}-{DESCRIPTION_MAX})")
     return problems
+
+
+def clean_text(text):
+    """Return text without markdown links, markup or extra whitespace."""
+    text = re.sub(r"!?\[([^\]]*)\]\([^)]*\)", r"\1", str(text or ""))
+    text = re.sub(r"<[^>]+>|[*_`#>|]", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def truncate_words(text, limit, ending=""):
+    """Return text cut at a word boundary so it fits within limit."""
+    if len(text) <= limit:
+        return text
+    cut = text[:limit - len(ending) + 1].rsplit(" ", 1)[0]
+    return cut.rstrip(" ,;:-") + ending
+
+
+def fit_title(title, padding=" - Weak Notes by thechelsuk"):
+    """Return a generated seo_title within the title length limits."""
+    title = truncate_words(clean_text(title), TITLE_MAX)
+    for extra in (padding, " - thechels.uk"):
+        if len(title) < TITLE_MIN:
+            title = truncate_words(f"{title}{extra}", TITLE_MAX)
+    return title
+
+
+def fit_description(text, padding):
+    """Return a generated seo_description within the length limits.
+
+    Short text is padded with whole sentences from padding that still fit.
+    """
+    description = clean_text(text)
+    sentences = re.split(r"(?<=[.!?])\s+", clean_text(padding))
+    for sentence in sentences + list(FALLBACK_SENTENCES):
+        if len(description) >= DESCRIPTION_MIN:
+            break
+        if len(description) + len(sentence) + 1 <= DESCRIPTION_MAX:
+            description = f"{description} {sentence}".strip()
+    return truncate_words(description, DESCRIPTION_MAX, "...")
 
 
 def remove_keys(lines, keys):
