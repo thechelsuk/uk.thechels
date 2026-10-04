@@ -3,6 +3,8 @@ layout: post
 date: 2025-04-05
 link: https://queue.acm.org/detail.cfm?id=3350548
 title: The Evolution of Management
+seo_title: "The Evolution of Management - Kate Matsudaira"
+seo_description: "Linking Kate Matsudaira on the biggest transitions from engineer to manager, like losing quick gratification and getting less recognition."
 type: linked
 cited: Kate Matsudaira
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2025-04-05
 link: https://www.defmacro.org/2014/10/03/engman.html
 title: 44 engineering management lessons
+seo_title: "44 Engineering Management Lessons - Slava Akhmechet"
+seo_description: "Linking Slava Akhmechet's 44 engineering management lessons for new managers: what worked before will not work now, so learn new skills."
 type: linked
 cited: Slava Akhmechet
 ---

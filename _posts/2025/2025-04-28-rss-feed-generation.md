@@ -2,6 +2,8 @@
 layout: post
 date: 2025-04-28
 title: RSS Feed Generation
+seo_title: "RSS Feed Generation - Building My Own Feeds"
+seo_description: "Why I have been building RSS feeds: reading in a feed reader of my choice beats websites full of adverts and cookie notices, or bloated apps."
 
 type: blog
 ---

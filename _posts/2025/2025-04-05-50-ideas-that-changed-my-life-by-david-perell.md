@@ -3,6 +3,8 @@ layout: post
 date: 2025-04-05
 link: https://www.defmacro.org/2014/10/03/engman.html
 title: 50 ideas that changed my life - By David Perell
+seo_title: "50 Ideas That Changed My Life - David Perell"
+seo_description: "David Perell's 50 guiding ideas for thinking better, starting with inversion: avoiding stupidity is easier than trying to be brilliant."
 
 type: blog
 ---

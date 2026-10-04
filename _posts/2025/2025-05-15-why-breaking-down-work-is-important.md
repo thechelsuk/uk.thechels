@@ -3,6 +3,8 @@ layout: post
 date: 2025-05-15
 link: https://blog.probablyfine.co.uk/2024/09/27/why-breaking-down-work-is-important.html
 title: Why breaking down work is important
+seo_title: "Why Breaking Down Work Into Small Batches Matters"
+seo_description: "Linking Probably Fine's talk write-up on why developers should break work into small batches and release regularly to work sustainably."
 type: linked
 cited: Probably Fine
 ---

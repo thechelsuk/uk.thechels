@@ -3,6 +3,8 @@ layout: post
 date: 2025-05-15
 link: https://www.linkedin.com/posts/bryan-finster_i-have-a-prediction-about-developer-productivity-activity-7328869142067929088-ae__
 title: Quoting Bryan Finster
+seo_title: "Coding Is Not the Bottleneck - Bryan Finster"
+seo_description: "Bryan Finster on developer productivity: measure value streams and coding is rarely the problem. Information flow and safe delivery are."
 type: linked
 cited: Bryan Finster
 ---

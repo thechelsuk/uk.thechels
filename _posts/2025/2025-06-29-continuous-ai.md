@@ -3,6 +3,8 @@ layout: post
 date: 2025-06-29
 link: https://githubnext.com/projects/continuous-ai
 title: Continuous AI - Development Workflow Automation
+seo_title: "Continuous AI - GitHub Next on AI Workflow Automation"
+seo_description: "Linking GitHub Next on Continuous AI, named after CI/CD, covering the ways AI can automate and improve software collaboration workflows."
 type: linked
 cited: GitHub Next
 ---

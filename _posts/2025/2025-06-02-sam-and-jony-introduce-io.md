@@ -3,6 +3,8 @@ layout: post
 date: 2025-06-02
 link: https://openai.com/sam-and-jony/
 title: Sam and Jony introduce io
+seo_title: "Sam Altman and Jony Ive Introduce io"
+seo_description: "Linking OpenAI's announcement of io, Sam Altman and Jony Ive's hardware venture. I hope it is a pen, like the gadgets in The Man from U.N.C.L.E."
 type: linked
 cited: OpenAI
 ---

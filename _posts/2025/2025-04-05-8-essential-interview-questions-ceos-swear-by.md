@@ -3,6 +3,8 @@ layout: post
 date: 2025-04-05
 link: https://sloanreview.mit.edu/article/eight-essential-interview-questions-ceos-swear-by/
 title: 8 Essential Interview Questions CEOs Swear By
+seo_title: "8 Essential Interview Questions CEOs Swear By"
+seo_description: "Linking MIT Sloan Review's eight interview questions CEOs swear by, starting with why do you really want to work here specifically?"
 type: linked
 cited: Sloan Review
 ---

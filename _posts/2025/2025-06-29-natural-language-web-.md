@@ -3,6 +3,8 @@ layout: post
 date: 2025-06-29
 link: https://github.com/microsoft/NLWeb
 title: Natural Language Web
+seo_title: "NLWeb - Microsoft's Natural Language Web Project"
+seo_description: "Linking Microsoft's NLWeb, which helps build conversational interfaces for websites and supports MCP so the same APIs serve humans and AI agents."
 type: linked
 cited: Microsoft
 ---

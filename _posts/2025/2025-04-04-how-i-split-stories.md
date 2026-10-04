@@ -3,6 +3,8 @@ layout: post
 date: 2025-04-04
 link: https://blog.probablyfine.co.uk/2019/11/07/how-i-split-stories.html
 title: How I split stories
+seo_title: "How I Split User Stories - Probably Fine"
+seo_description: "Linking Probably Fine on the thought process behind breaking a piece of work down into manageable user stories that can be delivered in small chunks."
 type: linked
 cited: Probably Fine
 ---

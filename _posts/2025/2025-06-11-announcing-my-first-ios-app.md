@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Announcing my first iOS app
+seo_title: "Announcing My First iOS App - Hiyd for Jekyll"
+seo_description: "My first iOS app is on the App Store: Hiyd, a note-taking companion for Jekyll bloggers that saves notes to iCloud to pick up on your Mac."
 tags:
 date: 2025-06-11
 type: blog

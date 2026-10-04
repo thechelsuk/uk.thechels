@@ -3,6 +3,8 @@ layout: post
 date: 2025-05-15
 link: https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far
 title: What I've learned about writing AI apps so far
+seo_title: "What I Have Learned About Writing AI Apps - Seldo"
+seo_description: "Linking Seldo's lessons on AI apps: LLMs are great at turning lots of text into less, so-so at equal amounts, and weak at producing more."
 type: linked
 cited: Seldo
 ---

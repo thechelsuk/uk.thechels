@@ -2,10 +2,11 @@
 layout: post
 date: 2025-06-25
 title: "Build for the Web"
+seo_title: "Build for the Web, on the Web, With the Web"
+seo_description: "Linking Harry Roberts on the long-term cost of JavaScript frameworks, and his one bit of advice: iterate quickly on a slow-moving platform."
 type: linked
 cited: Harry Roberts
 link: https://csswizardry.com/2025/01/build-for-the-web-build-on-the-web-build-with-the-web/
-seo: "What is the real, long-term cost of adopting a JavaScript framework?"
 ---
 
 Iterate quickly on a slow-moving platform, that is it.

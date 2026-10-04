@@ -3,6 +3,8 @@ layout: post
 date: 2025-04-08
 link: https://www.technologyreview.com/2025/02/11/1111518/ai-crawler-wars-closed-web/
 title: AI crawler wars threaten the web
+seo_title: "AI Crawler Wars Threaten to Close the Open Web"
+seo_description: "Linking MIT Technology Review on the cat-and-mouse game between web publishers and AI crawlers, which threatens to make the web more closed."
 type: linked
 cited: MIT Technology Review
 ---

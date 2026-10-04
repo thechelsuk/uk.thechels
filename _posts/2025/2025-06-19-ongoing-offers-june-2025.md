@@ -1,5 +1,7 @@
 ---
 title: Ongoing Offers- June 2025
+seo_title: "Ongoing Offers and Referral Codes - June 2025"
+seo_description: "My referral offers for June 2025: £50 credit with Octopus Energy, a £20 gift card with Smarty, a free month of Zwift and YouFibre broadband."
 layout: post
 date: 2025-06-19
 

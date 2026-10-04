@@ -3,6 +3,8 @@ layout: post
 date: 2025-06-27
 link: https://www.theregister.com/2025/06/03/uk_government_study_ai_time_savings/
 title: GDS say Copilot AI saved workers 26 minutes a day
+seo_title: "GDS: Copilot Saved Civil Servants 26 Minutes a Day"
+seo_description: "Linking The Register: a GDS study found Microsoft 365 Copilot saved civil servants an average of 26 minutes a day on office tasks."
 type: linked
 cited: The Register
 ---

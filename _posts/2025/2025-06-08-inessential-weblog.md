@@ -2,6 +2,8 @@
 layout: post
 date: 2025-06-08
 title: "Quoting Brent Simmons on NetNewsWire"
+seo_title: "Brent Simmons Retires to Focus on NetNewsWire"
+seo_description: "Brent Simmons has retired, and it sounds like he will focus on NetNewsWire. Great news for the RSS reader and people like me who use it daily."
 type: linked
 cited: Brent Simmons (inessential.com)
 link: https://inessential.com/2025/05/24/retirement_and_netnewswire.html

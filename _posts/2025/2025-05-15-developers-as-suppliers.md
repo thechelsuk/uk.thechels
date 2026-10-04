@@ -3,6 +3,8 @@ layout: post
 date: 2025-05-15
 link: https://daringfireball.net/linked/2025/05/10/benedict-evans-apple-developers-as-suppliers
 title: Developers as Suppliers
+seo_title: "Apple Treats Developers as Suppliers - Daring Fireball"
+seo_description: "Linking John Gruber on Benedict Evans: Apple would swear it values developers, but ask them and many feel treated like suppliers."
 type: linked
 cited: John Gruber (Daring Fireball)
 ---

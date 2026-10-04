@@ -3,6 +3,8 @@ layout: post
 date: 2025-04-05
 link: https://www.amazon.jobs/content/en/our-workplace/leadership-principles
 title: Amazon Leadership principles
+seo_title: "Amazon's Leadership Principles Explained"
+seo_description: "Amazon's leadership principles, used daily to discuss ideas and solve problems, starting with customer obsession: leaders start with the customer."
 type: linked
 cited: Amazon
 ---

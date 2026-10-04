@@ -3,6 +3,8 @@ layout: post
 date: 2025-05-01
 link: https://ifamagazine.com/richie-rich-400-uk-children-have-more-than-100000-in-their-junior-isa-while-a-child-pension-could-lead-to-a-big-boost-later-in-life/
 title: Not all people are bad at money
+seo_title: "400 UK Children Have £100,000 Junior ISAs"
+seo_description: "Linking IFA Magazine: 400 Junior ISAs in the UK are worth at least £100,000, and why starting a child pension early can make a big difference."
 type: linked
 cited: IFA Magazine
 ---

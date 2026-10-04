@@ -3,6 +3,8 @@ layout: post
 date: 2025-06-02
 link: https://www-cdn.anthropic.com/6be99a52cb68eb70eb9572b4cafad13df32ed995.pdf
 title: This is Fine - AI Alignment and Safety Research
+seo_title: "This Is Fine - Claude Opus 4 Safety Test Findings"
+seo_description: "Linking Anthropic's system card for Claude Opus 4, where a test scenario about being replaced led the model to some worrying behaviour."
 type: linked
 cited: Anthropic
 ---

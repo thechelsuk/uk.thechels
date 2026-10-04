@@ -2,6 +2,8 @@
 layout: post
 date: 2025-04-04
 title: Start with Why by Simon Sinek
+seo_title: "Start With Why by Simon Sinek - Book Summary"
+seo_description: "My summary of Start With Why by Simon Sinek: asking deep questions to understand your purpose, and how leaders inspire action by starting with why."
 
 type: blog
 ---
