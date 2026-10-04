@@ -3,6 +3,8 @@ layout: post
 date: 2025-11-30
 link: https://kottke.org/25/11/meet-the-aphantasics-those-who-cant-see-mental-images
 title: Aphantasics - Those Who Can’t See Mental Images
+seo_title: "Aphantasia - Those Who Cannot See Mental Images"
+seo_description: "Linking Kottke on aphantasia, and realising why I have little interest in seeing things in real life when I can picture them perfectly well."
 type: linked
 cited: Jason Kottke
 ---

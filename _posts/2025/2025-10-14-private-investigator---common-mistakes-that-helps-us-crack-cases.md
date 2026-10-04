@@ -3,6 +3,8 @@ layout: post
 date: 2025-10-14
 link: https://news.sky.com/story/im-a-private-investigator-heres-how-much-we-cost-and-common-mistake-that-helps-us-crack-cases-13449332
 title: Private Investigator - Common Mistakes That Helps Us Crack Cases
+seo_title: "A Private Investigator on Mistakes That Crack Cases"
+seo_description: "Linking Sky News: a private investigator reveals that reusing usernames across platforms lets them build a surprisingly complete profile of you."
 type: linked
 cited: Sky News
 ---

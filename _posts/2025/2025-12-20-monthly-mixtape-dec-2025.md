@@ -2,6 +2,8 @@
 layout: post
 date: 2025-12-20
 title: Monthly Mixtape - Dec 2025
+seo_title: "Monthly Mixtape December 2025 - Idlewild, FLC"
+seo_description: "My December 2025 mixtape of songs on repeat, including Tell Me Ten Words by Idlewild, Fun Lovin' Criminals and Holly Golightly."
 type: mixtape
 ---
 

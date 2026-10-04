@@ -3,6 +3,8 @@ layout: post
 date: 2025-10-19
 link: https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/
 title: AWS CEO on AI replacing junior staff
+seo_title: "AWS CEO: Replacing Junior Staff With AI Is Dumb"
+seo_description: "Linking The Register: AWS CEO Matt Garman says firing junior workers because AI can do their jobs is the dumbest thing he has ever heard."
 type: linked
 cited: The Register
 ---

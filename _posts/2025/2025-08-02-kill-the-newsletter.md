@@ -2,10 +2,11 @@
 layout: post
 date: 2025-08-02
 title: "Kill the Newsletter!"
+seo_title: "Kill the Newsletter - Turn Email Newsletters Into RSS"
+seo_description: "Kill the Newsletter gives you an email address and an Atom feed, turning email newsletters into feed entries you can read in any RSS reader."
 type: linked
 cited: Kill the Newsletter
 link: https://kill-the-newsletter.com/
-seo: "Convert email newsletters into Atom feeds"
 ---
 
 > How does Kill the Newsletter! work?

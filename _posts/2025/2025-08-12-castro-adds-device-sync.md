@@ -3,6 +3,8 @@ layout: post
 date: 2025-08-12
 link: https://castro.fm/blog/device-sync-and-ipad
 title: Castro adds device sync
+seo_title: "Castro Adds Device Sync and an iPad App"
+seo_description: "Linking Castro's launch of device sync and an iPad app, included in the existing Castro Plus subscription at no extra charge and fully opt-in."
 type: linked
 cited: Castro
 ---

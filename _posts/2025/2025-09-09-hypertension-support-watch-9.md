@@ -3,6 +3,8 @@ layout: post
 date: 2025-09-09
 link: https://www.apple.com/uk/
 title: Blood Pressure support in Apple Watch Series 9+
+seo_title: "Apple Watch Hypertension Alerts for Series 9 and Later"
+seo_description: "Apple Watch hypertension notifications are pending regulatory review, coming to Series 9 and later and Ultra 2, not for people with a diagnosis."
 type: linked
 cited: Apple
 ---

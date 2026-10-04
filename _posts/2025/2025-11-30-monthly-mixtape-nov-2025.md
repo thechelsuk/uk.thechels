@@ -2,6 +2,8 @@
 layout: post
 date: 2025-11-30
 title: Monthly Mixtape - Nov 2025
+seo_title: "Monthly Mixtape November 2025 - Danse Macabre and More"
+seo_description: "My November 2025 mixtape of songs on repeat, opening with Danse Macabre for two guitars, then Agnostic Mountain Gospel Choir and more."
 type: mixtape
 ---
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Phone battery issues
+seo_title: "Phone Battery Issues - An ME/CFS Analogy"
+seo_description: "A phone that overheats, crashes and drains from 98 to 8 per cent, then needs an hour to cool down, as an analogy for living with ME/CFS."
 tags:
   - me
 date: 2025-07-29

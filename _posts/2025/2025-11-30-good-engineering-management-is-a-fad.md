@@ -3,6 +3,8 @@ layout: post
 date: 2025-11-30
 link: https://lethain.com/good-eng-mgmt-is-a-fad/
 title: Good engineering management is a fad
+seo_title: "Good Engineering Management Is a Fad - Will Larson"
+seo_description: "Linking Will Larson on eight foundational engineering management skills, grouped into core skills for every role and those for senior roles."
 type: linked
 cited: Will Larson (Lethain)
 ---

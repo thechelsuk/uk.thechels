@@ -2,10 +2,11 @@
 layout: post
 date: 2025-08-02
 title: "How to provide feedback on documents"
+seo_title: "How to Provide Feedback on Documents - Will Larson"
+seo_description: "Linking Will Larson's process for giving feedback on documents, starting with remembering the goal is to help the author, not show off."
 type: linked
 cited: Will Larson (Lethain)
 link: https://lethain.com/providing-feedback-on-writing/
-seo: "how to provide feedback on documents"
 ---
 
 > As one step in reducing the overhead of sharing documents widely, I wrote up and shared this recommended process for providing feedback on documents:

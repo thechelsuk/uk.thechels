@@ -3,6 +3,8 @@ layout: post
 date: 2025-11-20
 link: https://blog.cloudflare.com/18-november-2025-outage/
 title: Cloudflare outage on November 18 2025
+seo_title: "Cloudflare Outage on 18 November 2025"
+seo_description: "Linking Cloudflare's write-up of its 18 November 2025 outage, which took my sites down. In a decade of using its free tier, my first real issue."
 type: linked
 cited: Cloudflare
 ---

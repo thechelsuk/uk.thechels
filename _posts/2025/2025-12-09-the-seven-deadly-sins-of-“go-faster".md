@@ -3,6 +3,8 @@ layout: post
 date: 2025-12-09
 link: https://codemanship.wordpress.com/2025/11/13/the-seven-deadly-sins-of-go-faster/
 title: The Seven Deadly Sins of “Go Faster"
+seo_title: "The Seven Deadly Sins of Go Faster - Jason Gorman"
+seo_description: "Linking Jason Gorman on things that make dev teams slower and worse, like adding people, longer hours, cutting tests and maximising utilisation."
 type: linked
 cited: Jason Gorman (Codemanship)
 ---

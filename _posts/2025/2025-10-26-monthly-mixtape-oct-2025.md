@@ -2,6 +2,8 @@
 layout: post
 date: 2025-10-26
 title: Monthly Mixtape - Oct 2025
+seo_title: "Monthly Mixtape October 2025 - Suede, Semisonic"
+seo_description: "My October 2025 mixtape of songs on repeat, including Antidepressants by Suede, Secret Smile by Semisonic and The Cooper Temple Clause."
 type: mixtape
 ---
 

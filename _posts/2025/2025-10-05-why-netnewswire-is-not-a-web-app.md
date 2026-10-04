@@ -3,6 +3,8 @@ layout: post
 date: 2025-10-05
 link: https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html
 title: Why NetNewsWire Is Not a Web App
+seo_title: "Why NetNewsWire Is Not a Web App - Brent Simmons"
+seo_description: "Linking Brent Simmons on why NetNewsWire stays a native app, even if a future comes where RSS readers are pushed out of the app stores."
 type: linked
 cited: Brent Simmons (inessential.com)
 ---

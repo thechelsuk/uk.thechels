@@ -3,6 +3,8 @@ layout: post
 date: 2025-07-27
 link: https://www.gov.uk/government/news/boost-in-support-for-patients-with-chronic-fatigue-syndrome-or-me
 title: Boost in support for patients with chronic fatigue syndrome or ME
+seo_title: "UK Government ME/CFS Delivery Plan Published"
+seo_description: "Linking GOV.UK on the ME/CFS delivery plan for England, setting foundations to improve care for people with chronic fatigue syndrome or ME."
 type: linked
 cited: Gov.uk
 tags:

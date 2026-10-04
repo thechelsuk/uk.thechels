@@ -3,6 +3,8 @@ layout: post
 date: 2025-12-14
 link: https://castro.fm/blog/hiding-inception-point-ai
 title: Hiding Inception Point AI flooding Podcast search results
+seo_title: "Castro Hides AI Slop Podcasts From Inception Point AI"
+seo_description: "Linking Castro on hiding Inception Point AI, a company flooding podcast directories with AI-generated shows. AI slop is coming for your ears."
 type: linked
 cited: Castro
 ---

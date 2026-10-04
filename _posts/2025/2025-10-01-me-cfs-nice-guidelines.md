@@ -3,6 +3,8 @@ layout: post
 date: 2025-10-01
 link: https://cks.nice.org.uk/topics/myalgic-encephalomyelitis-chronic-fatigue-syndrome-me/cfs/
 title: Myalgic encephalomyelitis (ME/CFS)
+seo_title: "NICE Guidance on ME/CFS - Clinical Knowledge Summary"
+seo_description: "Linking the NICE clinical knowledge summary on ME/CFS: a complex chronic condition defined by a pattern of symptoms affecting daily life."
 type: linked
 cited: NICE
 ---

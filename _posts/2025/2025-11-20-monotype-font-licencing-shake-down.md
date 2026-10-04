@@ -3,6 +3,8 @@ layout: post
 date: 2025-11-20
 link: https://www.insanityworks.org/randomtangent/2025/11/14/monotype-font-licencing-shake-down
 title: Monotype font licencing shake-down
+seo_title: "Monotype Font Licensing Shake-Down"
+seo_description: "Linking Insanity Works on Monotype's dubious automated claims about unlicensed fonts, and why you should not try to shake down a typography nerd."
 type: linked
 cited: Insanity Works
 ---

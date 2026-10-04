@@ -3,6 +3,8 @@ layout: post
 date: 2025-08-12
 link: https://www.techdirt.com/2025/08/04/didnt-take-long-to-reveal-the-uks-online-safety-act-is-exactly-the-privacy-crushing-failure-everyone-warned-about/
 title: The Privacy-Crushing Failure Everyone Warned About
+seo_title: "UK Online Safety Act - The Privacy Failure as Warned"
+seo_description: "Linking Techdirt: the age assurance checks in the UK Online Safety Act turned out to be the privacy-invading failure everyone warned about."
 type: linked
 cited: Techdirt
 ---

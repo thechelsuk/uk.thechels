@@ -3,6 +3,8 @@ layout: post
 date: 2025-11-30
 link: https://ifamagazine.com/cash-isa-cut-update-from-jason-hollands-on-the-devil-in-the-detail/
 title: Cash ISA cut – devil in the detail
+seo_title: "Cash ISA Cut - The Devil Is in the Detail"
+seo_description: "Linking IFA Magazine on the HMRC details of the cash ISA limit cut, including no transfers from stocks and shares ISAs into cash ISAs."
 type: linked
 cited: IFA Magazine
 ---

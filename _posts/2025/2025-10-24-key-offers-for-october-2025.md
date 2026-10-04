@@ -2,6 +2,8 @@
 layout: post
 date: 2025-10-24
 title: Key Offers for October 2025
+seo_title: "Key Offers and Referral Codes - October 2025"
+seo_description: "My referral offers for October 2025: £50 credit with Octopus Energy, a £40 gift card with Smarty, £75 with YouFibre broadband and more."
 
 type: blog
 ---

@@ -3,6 +3,8 @@ layout: post
 date: 2025-12-09
 link: https://paulkrugman.substack.com/p/america-has-become-a-digital-narco
 title: America Has Become a Digital Narco-State
+seo_title: "America Has Become a Digital Narco-State - Krugman"
+seo_description: "Linking Paul Krugman on Reuters' report that Meta projected 10 per cent of its revenue, about $16 billion, from ads for scams and banned goods."
 type: linked
 cited: Paul Krugman
 ---

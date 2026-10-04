@@ -2,6 +2,8 @@
 layout: post
 date: 2025-10-13
 title: Diagnosis
+seo_title: "Diagnosis - My GP Confirms ME/CFS"
+seo_description: "My GP has confirmed a diagnosis of ME/CFS. I have been off work since July and barely used my Mac, so updates here will be sporadic and automated."
 permalink: /diagnosis
 
 type: blog

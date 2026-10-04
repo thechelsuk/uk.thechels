@@ -3,6 +3,8 @@ layout: post
 date: 2025-10-13
 link: https://hacker-laws.com/
 title: Hacker Laws
+seo_title: "Hacker Laws - Kernighan's Law on Debugging"
+seo_description: "Linking Hacker Laws and Kernighan's law: debugging is twice as hard as writing code, so if you write it as cleverly as possible, you cannot debug it."
 type: linked
 cited: Hacker Laws
 ---

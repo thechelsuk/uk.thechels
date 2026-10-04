@@ -3,6 +3,8 @@ layout: post
 date: 2025-10-28
 link: https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html?m=1
 title: The PSF has withdrawn a 1.5 million proposal to US gov grant
+seo_title: "The PSF Withdraws a $1.5 Million US Government Grant"
+seo_description: "Linking the Python Software Foundation on withdrawing a $1.5m NSF grant proposal after being presented with terms it could not accept. Class."
 type: linked
 cited: Pyfound
 ---
