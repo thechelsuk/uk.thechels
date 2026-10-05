@@ -6,7 +6,7 @@ seo_description: "Living with ME/CFS and MCAS: what the conditions are, the symp
 permalink: /disability
 ---
 
-![Taken in February 2026 wearing a heavy duty welding goggles to block out light and resting with a large blanket and pillow in a seated position. A moody self portrait in monochrome with the subject slightly out of focus.](/images/me-2025-02-1024.png){:center}
+![Taken in February 2026 wearing a heavy duty welding goggles to block out light and resting with a large blanket and pillow in a seated position. A moody self portrait in monochrome with the subject slightly out of focus.](/images/me-2025-02-1024.webp){:center}
 
 I suffer from Myalgic Encephalomyelitis commonly known as ME or ME/CFS.
 
