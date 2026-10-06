@@ -5818,3 +5818,43 @@
 "/video-squares-cubes-roots-printable-workbook-for-years-57-uk-mltply-d2afa6f4": {}
 "/video-squares-cubes-roots-shorts-3d462eec": {}
 "/2026-10-05-daily-rundown": {}
+"/2026-06-08-daily-rundown": {}
+"/siri-ai-delayed-in-eu-for-ios-and-ipados-27-due-to-dma": {}
+"/2026-07-09-daily-rundown": {}
+"/week-notes-origins":
+  '2011057':
+    id: '2011057'
+    uri: https://nuchronic.uk/item/week-notes-origins-b8171f9266/
+    source: false
+    pubdate: 2026-07-09 21:09:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/week-notes-origins-b8171f9266/
+      verified: true
+      verified_date: '2026-07-09T20:42:35+00:00'
+      id: 2011057
+      private: false
+      data:
+        author: &91
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/week-notes-origins-b8171f9266/
+        name: Week Notes Origins
+        content: "<p>Having seen discourse on bubbles.town about bloggers using week
+          notes and it being seen as positive and negative ( can we have better titles
+          ) so thought I w…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/week-notes-origins\">thechels.uk</a>.</p>"
+        published: '2026-07-09T20:09:00+00:00'
+        published_ts: 1783627740
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/week-notes-origins-b8171f9266/
+      target: https://thechels.uk/week-notes-origins
+    author: *91
+    type: link
+    title: Week Notes Origins
+    content: "<p>Having seen discourse on bubbles.town about bloggers using week notes
+      and it being seen as positive and negative ( can we have better titles ) so
+      thought I w…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/week-notes-origins\">thechels.uk</a>.</p>"
+"/2026-08-09-daily-rundown": {}
+"/what-is-sequencing-risk": {}
