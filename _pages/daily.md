@@ -12,6 +12,7 @@ date: 2026-10-06
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Tuesday, 06 October 2026
 
 - The average temperature today is 19.04˚C,
@@ -26,6 +27,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 159 days since the last change (2026-04-30)
 
@@ -34,6 +36,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Recycling Waste Collection Day
 - Food Waste Collection Day
 
@@ -42,34 +45,41 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Bias towards action.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 142.02000427246094 
-- ^FTSE : 10538.400390625 
-- ^FTMC : 24208.580078125 
+- VWRL.L : 142.02000427246094
+- ^FTSE : 10538.400390625
+- ^FTMC : 24208.580078125
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > The sun came first and was absolutely beaming. The whole thing was overshadowed by the Uranus.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Trump defers diesel tax for truckers as fuel costs bite weeks before US midterms (Euronews, [9 minutes ago](https://www.euronews.com/2026/10/06/trump-defers-diesel-tax-for-truckers-as-fuel-costs-bite-weeks-before-us-midterms))
 - Spanish judge lifts arrest warrant for former Catalan leader Puigdemont, opening door to his return (Euronews, [12 minutes ago](https://www.euronews.com/2026/10/06/spanish-judge-lifts-arrest-warrant-for-former-catalan-leader-puigdemont-opening-door-to-hi))
 - Belgian physicist wins Nobel for turning Antarctic ice into a telescope (Euronews, [25 minutes ago](https://www.euronews.com/2026/10/06/belgian-physicist-wins-nobel-for-turning-antarctic-ice-into-a-telescope))
@@ -81,7 +91,7 @@ _Good Morning, Here is your daily briefing..._
 - Keith Haring retrospective opens at Rome’s Palazzo Braschi with more than 140 works (Euronews, [1 hours ago](https://www.euronews.com/video/2026/10/06/keith-haring-retrospective-opens-at-romes-palazzo-braschi-with-more-than-140-works))
 - UniCredit gets Putin’s approval to sell part of its Russian business (Euronews, [1 hours ago](https://www.euronews.com/2026/10/06/unicredit-gets-putins-approval-to-sell-part-of-its-russian-business))
 - Electrification, AI and fossil fuels: What to expect as Türkiye hosts major climate summit next month (Euronews, [1 hours ago](https://www.euronews.com/2026/10/06/electrification-ai-and-fossil-fuels-what-to-expect-as-turkiye-hosts-major-climate-summit-n))
-- Latest news bulletin  October 6th, 2026 – Midday (Euronews, [2 hours ago](https://www.euronews.com/video/2026/10/06/latest-news-bulletin-october-6th-2026-midday))
+- Latest news bulletin October 6th, 2026 – Midday (Euronews, [2 hours ago](https://www.euronews.com/video/2026/10/06/latest-news-bulletin-october-6th-2026-midday))
 - Palmer Luckey’s Erebor surges to more than $7bn in deposits since launch (FT, [2 hours ago](https://www.ft.com/content/42b6fa88-f730-4f8a-a194-8f53d0759aaf?syn-25a6b1a6=1))
 - Pneumonic plague suspected in Russia: What we know and what is the risk to Europe? (Euronews, [2 hours ago](https://www.euronews.com/2026/10/06/pneumonic-plague-suspected-in-russia-what-we-know-and-what-is-the-risk-to-europe))
 - New European ski lodges and hotels opening in winter 2026-2027 (Euronews, [2 hours ago](https://www.euronews.com/2026/10/06/new-european-ski-lodges-and-hotels-opening-in-winter-2026-2027))
@@ -112,7 +122,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > androgenous - adjective: Producing only or predominantly male offspring.
+> androgenous - adjective: Producing only or predominantly male offspring.
 
 <!-- word_marker ends -->
 
@@ -127,6 +137,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Repetition is a form of change
 
 <!-- eno_marker ends -->
@@ -134,9 +145,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Total Recall (Rated: 5)
 - Released in 2012
 - Summary: When a man goes in to have virtual vacation memories of the planet Mars implanted in his mind, an unexpected and harrowing series of events forces him to go to the planet for real - or is he?
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -157,9 +170,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Max Stoiber [URL](https://mxstbr.com/) [Feed](https://mxstbr.com/rss)
 - Spyglass [URL](https://spyglass.org/) [Feed](https://spyglass.org/rss/)
 - Monevator [URL](https://monevator.com/) [Feed](https://feeds.feedburner.com/monevatorcom)
 - Scott Helme [URL](https://scotthelme.co.uk/) [Feed](https://scotthelme.co.uk/rss/)
 - Terry Godier (Current) [URL](https://terrygodier.com/) [Feed](https://terrygodier.com/feed.xml)
+
 <!-- blogroll_marker ends -->
