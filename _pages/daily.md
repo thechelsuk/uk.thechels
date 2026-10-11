@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-10-10
+date: 2026-10-11
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -12,14 +12,14 @@ date: 2026-10-10
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Saturday, 10 October 2026
+## On Sunday, 11 October 2026
 
-- The average temperature today is 13.33˚C,
-- With highs of 14.36˚C and lows of 12.75˚C,
-- It may feel like 12.36˚C with scattered clouds
-- The wind speed is 6.17m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 63%
-- The sun will rise at 06:23 and set at 17:26
+- The average temperature today is 13.07˚C,
+- With highs of 14.37˚C and lows of 12.75˚C,
+- It may feel like 12.26˚C with overcast clouds
+- The wind speed is 3.6m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 70%
+- The sun will rise at 06:25 and set at 17:24
 
 <!-- weather_marker ends -->
 
@@ -27,7 +27,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 163 days since the last change (2026-04-30)
+- It has been 164 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
@@ -46,22 +46,10 @@ _Good Morning, Here is your daily briefing..._
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Chelsea U18 v Manchester United U18
-- Crystal Palace U18 v Leeds United U18
-- Tottenham Hotspur U18 v Fulham U18
-- Brentford U18 v Manchester City U18
-- Charlton Athletic v Bristol City
-- Swansea City v Norwich City
-- West Brom v Birmingham City
-- Notts County v Oxford United
-- Plymouth Argyle v AFC Wimbledon
-- Oldham Athletic v Accrington Stanley
-- Swindon Town v Crewe Alexandra
-- Altrincham v Aldershot Town
-- Carlisle United v Kidderminster Harriers
-- Arsenal v Leeds United
-- Forest Green Rovers v Hartlepool United
-- Manchester United v Tottenham Hotspur
+- Southampton v Portsmouth
+- Crystal Palace v Nottingham Forest
+- Hull City v Everton
+- Liverpool v Manchester City
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -77,38 +65,44 @@ _Good Morning, Here is your daily briefing..._
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> I have recently resigned from my job and have applied for a new job but yet to hear anything. It was at a chiropractor about a weak back.
+> Two tortillas have a fight in a karaoke bar. What ensued could only be described as a wrap battle.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-- Oil and gas production disrupted and power outages as Hurricane Isaias hits (FT, [11 minutes ago](https://www.ft.com/content/f7d90625-0d78-44b2-927f-d63f4dbc5e8d?syn-25a6b1a6=1))
-- Czechs head to polls in local and Senate elections (Euronews, [11 minutes ago](https://www.euronews.com/2026/10/10/czechs-head-to-polls-in-local-and-senate-elections))
-- EU budget: Ireland pitches €141bn cuts to appease the ‘frugals’ (Euronews, [47 minutes ago](https://www.euronews.com/2026/10/10/eu-budget-ireland-pitches-141bn-cuts-to-appease-the-frugals))
-- Panic in Panama as 7.7 quake hits, cathedral collapses and tsunami warnings spread (Euronews, [58 minutes ago](https://www.euronews.com/video/2026/10/10/panic-in-panama-as-77-quake-hits-cathedral-collapses-and-tsunami-warnings-spread))
-- Latest news bulletin  October 10th, 2026 – Midday (Euronews, [1 hours ago](https://www.euronews.com/video/2026/10/10/latest-news-bulletin-october-10th-2026-midday))
-- Russian strikes on Ukraine kill at least 15, including three children, emergency service says (Euronews, [1 hours ago](https://www.euronews.com/2026/10/10/russian-strikes-on-southeastern-ukraine-kill-eight-including-three-children-authorities-sa))
-- Police arrest leader of India’s ‘Cockroach’ movement before mass protest (FT, [1 hours ago](https://www.ft.com/content/407fa757-cc77-49c0-871a-5140dd3a9a80?syn-25a6b1a6=1))
-- 'No one ever heard of her': Trump goes off on petty rant after Nobel Peace Prize snub (Euronews, [2 hours ago](https://www.euronews.com/2026/10/10/no-one-ever-heard-of-her-trump-goes-off-on-petty-rant-after-nobel-peace-prize-snub))
-- Chelsea fans’ preferred lineup against Bournemouth: All fit and ready to go (WAGNH, [3 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/172922/chelsea-fans-preferred-lineup-against-bournemouth-all-fit-and-ready-to-go))
-- Silent killer: study finds most with high blood pressure unaware (Euronews, [3 hours ago](https://www.euronews.com/2026/10/10/silent-killer-study-finds-most-with-high-blood-pressure-unaware))
-- The Daily Hilario: Saturday (WAGNH, [3 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/172897/the-daily-hilario-october-10th))
-- Life-threatening Hurricane Isaias makes landfall in Florida, bringing high winds and heavy rain (Euronews, [4 hours ago](https://www.euronews.com/2026/10/10/life-threatening-hurricane-isaias-makes-landfall-in-florida-bringing-high-winds-and-heavy-))
-- The world of one trade — AI (FT, [4 hours ago](https://www.ft.com/content/3f54c442-c2b7-4876-a960-5229951c9a46?syn-25a6b1a6=1))
-- Chelsea vs. AFC Bournemouth, Premier League: Preview, team news, how to watch (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/172910/chelsea-vs-afc-bournemouth-premier-league-preview-team-news-how-to-watch))
-- As Russia escalates its war, the EU realises its support for Ukraine won't be enough (Euronews, [5 hours ago](https://www.euronews.com/2026/10/10/as-russia-escalates-its-war-the-eu-admits-its-support-for-ukraine-wont-be-enough))
-- 'Crashout', 'Ragebait' or 'Peak': Want to know which word is favoured by Germany's youth? (Euronews, [5 hours ago](https://www.euronews.com/2026/10/10/crashout-ragebait-or-peak-germanys-youth-word-of-2026))
-- Russia targets Ukraine’s bridges as Vladimir Putin expands air war (FT, [7 hours ago](https://www.ft.com/content/4e4ea744-6603-499b-baf7-83c74e4dc53e?syn-25a6b1a6=1))
-- The danger of pessimism fatigue (FT, [7 hours ago](https://www.ft.com/content/8d948115-5843-4419-967e-f79e65718f55?syn-25a6b1a6=1))
-- Napa Valley’s hangover (FT, [7 hours ago](https://www.ft.com/content/6ff0232c-f38a-4c70-8ca9-b0eed437f09b))
-- Trump agrees deal with Putin for Russia to release diesel (FT, [13 hours ago](https://www.ft.com/content/84ca76fd-0eed-4fb6-aea4-f72638a9d9c8?syn-25a6b1a6=1))
-- Moisés Caicedo, João Pedro, Cole Palmer, Reece James all ‘ready to go’ against Bournemouth (WAGNH, [13 hours ago](https://weaintgotnohistory.sbnation.com/injury-news/172901/moises-caicedo-joao-pedro-cole-palmer-reece-james-all-ready-to-go-against-bournemouth))
-- Why OpenAI’s revenue numbers really matter (FT, [13 hours ago](https://www.ft.com/content/58e684a0-b8ed-4d7a-a2d6-6bf739cb2fa2?syn-25a6b1a6=1))
-- The hazy OpenAI growth metric driving Wall Street (FT, [14 hours ago](https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1))
-- Training gallery: Final preparations for Bournemouth (CFC, [19 hours ago](https://www.chelseafc.com/en/news/article/training-gallery-final-preparations-for-bournemouth))
-- Alonso: We must find composure for what’s uncontrollable (CFC, [19 hours ago](https://www.chelseafc.com/en/news/article/alonso-we-must-find-composure-for-whats-uncontrollable))
-- Ukraine strikes Russian tech giant’s data centres (FT, [23 hours ago](https://www.ft.com/content/b90417e7-4d32-48cc-a508-5d405e7cd2ee?syn-25a6b1a6=1))
+- India’s ‘Cockroach’ leaders defiant as movement calls for more protests (FT, [11 minutes ago](https://www.ft.com/content/9b30ee59-b542-48b8-85f6-d60dce897342?syn-25a6b1a6=1))
+- Pope Leo XIV to have surgery in 'coming days' to remove nodule in lung (Euronews, [20 minutes ago](https://www.euronews.com/2026/10/11/pope-leo-xiv-to-have-surgery-in-coming-days-to-remove-nodule-in-lung))
+- Europe can fight the ‘China shock’ (FT, [23 minutes ago](https://www.ft.com/content/eaaf7c65-fc11-41ab-8b83-9a163337fa6b?syn-25a6b1a6=1))
+- US police criticise Anthropic after Claude AI submits false information about an unsolved murder (Euronews, [37 minutes ago](https://www.euronews.com/2026/10/11/us-police-criticise-anthropic-after-claude-ai-submits-false-information-about-an-unsolved-))
+- Polish police alerted over possible attack on PM Donald Tusk (Euronews, [40 minutes ago](https://www.euronews.com/2026/10/11/polish-police-alerted-over-possible-attack-on-pm-donald-tusk))
+- Czech PM Babiš's ANO faces strong challenge in first round of Senate election (Euronews, [1 hours ago](https://www.euronews.com/2026/10/11/czech-pm-babiss-ano-faces-strong-challenge-in-first-round-of-senate-election))
+- Latest news bulletin  October 11th, 2026 – Midday (Euronews, [1 hours ago](https://www.euronews.com/video/2026/10/11/latest-news-bulletin-october-11th-2026-midday))
+- Missile strike on Riyadh airport kills 12 and injures hundreds (FT, [1 hours ago](https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1))
+- HPE's networking boss says AI will handle all trouble tickets without humans in two years (Register, [1 hours ago](https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179))
+- Protesters take to the streets in Portugal over rising living costs and housing prices (Euronews, [2 hours ago](https://www.euronews.com/2026/10/11/protesters-take-to-the-streets-in-portugal-over-rising-living-costs-and-housing-prices))
+- Researchers work out how to control 2D semiconductor growth for future chips (Register, [2 hours ago](https://www.theregister.com/science/2026/10/11/researchers-work-out-how-to-control-2d-semiconductor-growth-for-future-chips/5301666))
+- Four dead as Isaias continues to push across the Southeast US, bringing strong winds and heavy rain (Euronews, [4 hours ago](https://www.euronews.com/2026/10/11/four-dead-as-isaias-continues-to-push-across-the-southeast-us-bringing-strong-winds-and-he))
+- Xabi Alonso happy with ‘very complete’ Chelsea performance against Bournemouth (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/172948/xabi-alonso-happy-with-very-complete-chelsea-performance-against-bournemouth))
+- The Daily Hilario: Sunday (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/172943/the-daily-hilario-october-11th))
+- Teen revolt or revolution? The student protests threatening France's presidential race (Euronews, [5 hours ago](https://www.euronews.com/2026/10/11/teen-revolt-or-revolution-the-student-protests-threatening-frances-presidential-race))
+- US hits commercial tanker in Gulf of Oman as tensions flare (FT, [5 hours ago](https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1))
+- Farming and solar power are competing for land. Can agrivoltaics solve the problem? (Euronews, [6 hours ago](https://www.euronews.com/2026/10/11/farming-and-solar-power-are-competing-for-land-can-agrivoltaics-solve-the-problem))
+- Europe's best Christmas markets to visit in 2026, according to travellers (Euronews, [6 hours ago](https://www.euronews.com/2026/10/11/europes-best-christmas-markets-to-visit-in-2026-according-to-travellers))
+- US justice department probes TV networks over Trump pool coverage (FT, [6 hours ago](https://www.ft.com/content/3004a030-d64e-4ff7-a70d-ea379b4784af?syn-25a6b1a6=1))
+- The problem with your AI therapist (FT, [7 hours ago](https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1))
+- The fall of Germany’s ex-spymaster (FT, [7 hours ago](https://www.ft.com/content/cdf8f2d0-dcde-42ab-9ec3-fc840b2b5c55?syn-25a6b1a6=1))
+- Russia steps up bid to kill European defence chiefs, spy agencies warn (FT, [7 hours ago](https://www.ft.com/content/5da2dd05-9583-4a75-b018-2c5024383ec4?syn-25a6b1a6=1))
+- Trump is failing to arrest decline in popularity, FT poll shows (FT, [7 hours ago](https://www.ft.com/content/f6d29414-412d-4422-a5f4-cb3338f73d3a))
+- Xabi Alonso highlights impact of 'very complete modern player' Morgan Rogers (CFC, [14 hours ago](https://www.chelseafc.com/en/news/article/xabi-alonso-highlights-impact-of-very-complete-modern-player-morgan-rogers))
+- Match gallery: Blues rack up the goals against Bournemouth (CFC, [15 hours ago](https://www.chelseafc.com/en/news/article/match-gallery-blues-rack-up-the-goals-against-bournemouth))
+- Henderson on his dream home debut and free-kick inspiration (CFC, [16 hours ago](https://www.chelseafc.com/en/news/article/henderson-on-his-dream-home-debut-and-free-kick-inspiration))
+- Alonso on Palmer's new contract: You want to keep the best for years (CFC, [17 hours ago](https://www.chelseafc.com/en/news/article/alonso-on-palmers-new-contract-you-want-to-keep-the-best-for-years))
+- Trump tells Ukraine to ‘get a new leader’ as US threatens to cut off intelligence-sharing (FT, [17 hours ago](https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1))
+- Xabi Alonso on a complete performance and Henderson's 'two beauties' (CFC, [18 hours ago](https://www.chelseafc.com/en/news/article/xabi-alonso-on-a-complete-performance-and-hendersons-two-beauties))
+- Official: Cole Palmer signs new long-term Chelsea contract (WAGNH, [18 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc/172939/official-cole-palmer-signs-new-long-term-chelsea-contract))
+- Chelsea 5-1 AFC Bournemouth, Premier League: Post-match reaction, ratings (WAGNH, [19 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/172933/chelsea-5-1-afc-bournemouth-premier-league-post-match-reaction-ratings))
+- Chelsea vs. AFC Bournemouth, Premier League: Confirmed lineups; how to watch (WAGNH, [22 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/172926/chelsea-vs-afc-bournemouth-premier-league-confirmed-lineups-how-to-watch))
 
 <!-- news_marker ends -->
 
@@ -124,46 +118,39 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> Opportunity is missed by most people because it is dressed in overalls and looks like work - Thomas Edison
+> Plans are worthless, but planning is everything. - Dwight Eisenhower
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Look closely at the most embarrassing details and amplify them
+> Tidy up
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Equalizer 3 (Rated: 3)
-- Released in 2023
-- Summary: Robert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the ...
+- The Platform (Rated: 5)
+- Released in 2019
+- Summary: In a prison where inmates are fed on a descending platform, those on the upper levels take more than their fair share while those below are left to starve on scraps and one man decides to change the system.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 370, using [5, 5, 10, 25, 75, 100]
-- Answer: 86 solutions.
-
-- <details><summary><code>Solution</code></summary>
-
-  Solution: ( 75 + 5 ) x 100 / 25 + 10 x 5
-
-   </details>
+- Target: 721, using [5, 5, 5, 5, 8, 50]
 
 <!-- game_marker ends -->
 
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-- Justin Jackson [URL](https://justinjackson.ca/) [Feed](http://justinjackson.ca/feed/)
-- Dan Q [URL](https://danq.me/) [Feed](https://danq.me/feed/)
-- Philipp D. Dubach [URL](https://philippdubach.com/) [Feed](https://philippdubach.com/index.xml)
-- Rob Weychert [URL](https://v7.robweychert.com/) [Feed](http://feeds.feedburner.com/robweychert)
+- Successful Software [URL](https://successfulsoftware.net/) [Feed](https://successfulsoftware.net/feed/)
 - Dalan Mendonca [URL](https://dalanmendonca.com/) [Feed](https://dalanmendonca.com/rss-all.xml)
+- Neil Williams [URL](https://neilojwilliams.net/) [Feed](https://neilojwilliams.net/feed/)
+- Matt Stein [URL](https://mattstein.com/) [Feed](https://mattstein.com/rss.xml)
+- Cybaa by Joe T [URL](https://joetiedeman.uk/) [Feed](https://joetiedeman.uk/feed/)
 <!-- blogroll_marker ends -->
