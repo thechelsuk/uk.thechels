@@ -12,6 +12,7 @@ date: 2026-10-12
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Monday, 12 October 2026
 
 - The average temperature today is 18.02˚C,
@@ -26,6 +27,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 165 days since the last change (2026-04-30)
 
@@ -34,6 +36,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Garden Waste Day
 
 <!-- task_marker ends -->
@@ -41,34 +44,41 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Exploit the landscape.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Coventry City v Newcastle United
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 141.60000610351562 
-- ^FTSE : 10631.58984375 
-- ^FTMC : 24282.279296875 
+- VWRL.L : 141.60000610351562
+- ^FTSE : 10631.58984375
+- ^FTMC : 24282.279296875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > The police came round the other day saying they had reports our pet dog had been chasing the local kids on roller skates, funny I said, our dog does not own any roller skates.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Gijs de Best urges shared enforcement to curb illicit trade (Euronews, [6 minutes ago](https://www.euronews.com/2026/10/12/gijs-de-best-urges-shared-enforcement-to-curb-illicit-trade))
 - Started planning summer 2027 holidays? Ryanair and easyJet announce 47 new flight routes (Euronews, [6 minutes ago](https://www.euronews.com/2026/10/12/started-planning-summer-2027-holidays-ryanair-and-easyjet-announce-47-new-flight-routes))
 - Agios Efstratios: the first Greek island to get all its electricity from renewables (Euronews, [7 minutes ago](https://www.euronews.com/2026/10/12/agios-efstratios-the-first-greek-island-to-get-all-its-electricity-from-renewables))
@@ -107,7 +117,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > venust - adjective: Beautiful, graceful, or elegant.
+> venust - adjective: Beautiful, graceful, or elegant.
 
 <!-- word_marker ends -->
 
@@ -122,6 +132,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Make a sudden, destructive, unpredictable action; incorporate
 
 <!-- eno_marker ends -->
@@ -129,9 +140,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Teaching Mrs Tingle (Rated: 3)
 - Released in 1999
 - Summary: The story of a girl who is willing to do anything to become Valedictorian, even if it means murdering the teacher that stands in her way.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -152,9 +165,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Rob Weychert [URL](https://v7.robweychert.com/) [Feed](http://feeds.feedburner.com/robweychert)
 - Brennan Brown [URL](https://brennan.day/) [Feed](https://brennan.day/feed.xml)
 - WAGNH [URL](https://weaintgotnohistory.sbnation.com/) [Feed](https://weaintgotnohistory.sbnation.com/rss/index.xml)
 - MacSparky [URL](https://www.macsparky.com/) [Feed](http://www.macsparky.com/blog/rss.xml)
 - MacStories [URL](https://www.macstories.net/) [Feed](https://www.macstories.net/feed/)
+
 <!-- blogroll_marker ends -->
