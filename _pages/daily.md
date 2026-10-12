@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-10-11
+date: 2026-10-12
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -12,14 +12,14 @@ date: 2026-10-11
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Sunday, 11 October 2026
+## On Monday, 12 October 2026
 
-- The average temperature today is 13.07˚C,
-- With highs of 14.37˚C and lows of 12.75˚C,
-- It may feel like 12.26˚C with overcast clouds
-- The wind speed is 3.6m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 70%
-- The sun will rise at 06:25 and set at 17:24
+- The average temperature today is 18.02˚C,
+- With highs of 18.61˚C and lows of 17.65˚C,
+- It may feel like 18.23˚C with overcast clouds
+- The wind speed is 6.17m/s and visibility is 10000m
+- The pressure is 1010hPa and humidity is 90%
+- The sun will rise at 06:27 and set at 17:22
 
 <!-- weather_marker ends -->
 
@@ -27,82 +27,79 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 164 days since the last change (2026-04-30)
+- It has been 165 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> challenge assumptions.
+> Exploit the landscape.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Southampton v Portsmouth
-- Crystal Palace v Nottingham Forest
-- Hull City v Everton
-- Liverpool v Manchester City
+- Coventry City v Newcastle United
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 141.3000030517578 
-- ^FTSE : 10552.099609375 
-- ^FTMC : 24213.80078125 
+- VWRL.L : 141.60000610351562 
+- ^FTSE : 10631.58984375 
+- ^FTMC : 24282.279296875 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> Two tortillas have a fight in a karaoke bar. What ensued could only be described as a wrap battle.
+> The police came round the other day saying they had reports our pet dog had been chasing the local kids on roller skates, funny I said, our dog does not own any roller skates.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-- India’s ‘Cockroach’ leaders defiant as movement calls for more protests (FT, [11 minutes ago](https://www.ft.com/content/9b30ee59-b542-48b8-85f6-d60dce897342?syn-25a6b1a6=1))
-- Pope Leo XIV to have surgery in 'coming days' to remove nodule in lung (Euronews, [20 minutes ago](https://www.euronews.com/2026/10/11/pope-leo-xiv-to-have-surgery-in-coming-days-to-remove-nodule-in-lung))
-- Europe can fight the ‘China shock’ (FT, [23 minutes ago](https://www.ft.com/content/eaaf7c65-fc11-41ab-8b83-9a163337fa6b?syn-25a6b1a6=1))
-- US police criticise Anthropic after Claude AI submits false information about an unsolved murder (Euronews, [37 minutes ago](https://www.euronews.com/2026/10/11/us-police-criticise-anthropic-after-claude-ai-submits-false-information-about-an-unsolved-))
-- Polish police alerted over possible attack on PM Donald Tusk (Euronews, [40 minutes ago](https://www.euronews.com/2026/10/11/polish-police-alerted-over-possible-attack-on-pm-donald-tusk))
-- Czech PM Babiš's ANO faces strong challenge in first round of Senate election (Euronews, [1 hours ago](https://www.euronews.com/2026/10/11/czech-pm-babiss-ano-faces-strong-challenge-in-first-round-of-senate-election))
-- Latest news bulletin  October 11th, 2026 – Midday (Euronews, [1 hours ago](https://www.euronews.com/video/2026/10/11/latest-news-bulletin-october-11th-2026-midday))
-- Missile strike on Riyadh airport kills 12 and injures hundreds (FT, [1 hours ago](https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1))
-- HPE's networking boss says AI will handle all trouble tickets without humans in two years (Register, [1 hours ago](https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179))
-- Protesters take to the streets in Portugal over rising living costs and housing prices (Euronews, [2 hours ago](https://www.euronews.com/2026/10/11/protesters-take-to-the-streets-in-portugal-over-rising-living-costs-and-housing-prices))
-- Researchers work out how to control 2D semiconductor growth for future chips (Register, [2 hours ago](https://www.theregister.com/science/2026/10/11/researchers-work-out-how-to-control-2d-semiconductor-growth-for-future-chips/5301666))
-- Four dead as Isaias continues to push across the Southeast US, bringing strong winds and heavy rain (Euronews, [4 hours ago](https://www.euronews.com/2026/10/11/four-dead-as-isaias-continues-to-push-across-the-southeast-us-bringing-strong-winds-and-he))
-- Xabi Alonso happy with ‘very complete’ Chelsea performance against Bournemouth (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/172948/xabi-alonso-happy-with-very-complete-chelsea-performance-against-bournemouth))
-- The Daily Hilario: Sunday (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/172943/the-daily-hilario-october-11th))
-- Teen revolt or revolution? The student protests threatening France's presidential race (Euronews, [5 hours ago](https://www.euronews.com/2026/10/11/teen-revolt-or-revolution-the-student-protests-threatening-frances-presidential-race))
-- US hits commercial tanker in Gulf of Oman as tensions flare (FT, [5 hours ago](https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1))
-- Farming and solar power are competing for land. Can agrivoltaics solve the problem? (Euronews, [6 hours ago](https://www.euronews.com/2026/10/11/farming-and-solar-power-are-competing-for-land-can-agrivoltaics-solve-the-problem))
-- Europe's best Christmas markets to visit in 2026, according to travellers (Euronews, [6 hours ago](https://www.euronews.com/2026/10/11/europes-best-christmas-markets-to-visit-in-2026-according-to-travellers))
-- US justice department probes TV networks over Trump pool coverage (FT, [6 hours ago](https://www.ft.com/content/3004a030-d64e-4ff7-a70d-ea379b4784af?syn-25a6b1a6=1))
-- The problem with your AI therapist (FT, [7 hours ago](https://www.ft.com/content/ab9e2f3e-1586-4c63-b423-6a179437fc13?syn-25a6b1a6=1))
-- The fall of Germany’s ex-spymaster (FT, [7 hours ago](https://www.ft.com/content/cdf8f2d0-dcde-42ab-9ec3-fc840b2b5c55?syn-25a6b1a6=1))
-- Russia steps up bid to kill European defence chiefs, spy agencies warn (FT, [7 hours ago](https://www.ft.com/content/5da2dd05-9583-4a75-b018-2c5024383ec4?syn-25a6b1a6=1))
-- Trump is failing to arrest decline in popularity, FT poll shows (FT, [7 hours ago](https://www.ft.com/content/f6d29414-412d-4422-a5f4-cb3338f73d3a))
-- Xabi Alonso highlights impact of 'very complete modern player' Morgan Rogers (CFC, [14 hours ago](https://www.chelseafc.com/en/news/article/xabi-alonso-highlights-impact-of-very-complete-modern-player-morgan-rogers))
-- Match gallery: Blues rack up the goals against Bournemouth (CFC, [15 hours ago](https://www.chelseafc.com/en/news/article/match-gallery-blues-rack-up-the-goals-against-bournemouth))
-- Henderson on his dream home debut and free-kick inspiration (CFC, [16 hours ago](https://www.chelseafc.com/en/news/article/henderson-on-his-dream-home-debut-and-free-kick-inspiration))
-- Alonso on Palmer's new contract: You want to keep the best for years (CFC, [17 hours ago](https://www.chelseafc.com/en/news/article/alonso-on-palmers-new-contract-you-want-to-keep-the-best-for-years))
-- Trump tells Ukraine to ‘get a new leader’ as US threatens to cut off intelligence-sharing (FT, [17 hours ago](https://www.ft.com/content/7fd4dffc-8adf-4ad8-9fba-333e1ced991d?syn-25a6b1a6=1))
-- Xabi Alonso on a complete performance and Henderson's 'two beauties' (CFC, [18 hours ago](https://www.chelseafc.com/en/news/article/xabi-alonso-on-a-complete-performance-and-hendersons-two-beauties))
-- Official: Cole Palmer signs new long-term Chelsea contract (WAGNH, [18 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc/172939/official-cole-palmer-signs-new-long-term-chelsea-contract))
-- Chelsea 5-1 AFC Bournemouth, Premier League: Post-match reaction, ratings (WAGNH, [19 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/172933/chelsea-5-1-afc-bournemouth-premier-league-post-match-reaction-ratings))
-- Chelsea vs. AFC Bournemouth, Premier League: Confirmed lineups; how to watch (WAGNH, [22 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/172926/chelsea-vs-afc-bournemouth-premier-league-confirmed-lineups-how-to-watch))
+- Gijs de Best urges shared enforcement to curb illicit trade (Euronews, [6 minutes ago](https://www.euronews.com/2026/10/12/gijs-de-best-urges-shared-enforcement-to-curb-illicit-trade))
+- Started planning summer 2027 holidays? Ryanair and easyJet announce 47 new flight routes (Euronews, [6 minutes ago](https://www.euronews.com/2026/10/12/started-planning-summer-2027-holidays-ryanair-and-easyjet-announce-47-new-flight-routes))
+- Agios Efstratios: the first Greek island to get all its electricity from renewables (Euronews, [7 minutes ago](https://www.euronews.com/2026/10/12/agios-efstratios-the-first-greek-island-to-get-all-its-electricity-from-renewables))
+- UCLA settles Oracle ERP dispute with $3.1M in credits and $1.31M wiped off the bill (Register, [9 minutes ago](https://www.theregister.com/saas/2026/10/12/ucla-settles-oracle-erp-dispute-with-31m-in-credits-and-131m-wiped-off-the-bill/5302520))
+- Ukraine passes minority rights law, paving way for breakthrough in EU accession talks (Euronews, [24 minutes ago](https://www.euronews.com/2026/10/12/ukraine-passes-minority-rights-law-paving-way-for-breakthrough-in-eu-accession-talks))
+- German firms outline new infrastructure and green energy plans in Baku (Euronews, [26 minutes ago](https://www.euronews.com/2026/10/12/german-firms-outline-new-infrastructure-and-green-energy-plans-in-baku))
+- Microsoft giveth and Microsoft taketh away: Copilot edition (Register, [26 minutes ago](https://www.theregister.com/applications/2026/10/12/microsoft-giveth-and-microsoft-taketh-away-copilot-edition/5302542))
+- Did Ukrainian strikes on Yandex data centres cause Russian bot activity to plummet? (Euronews, [36 minutes ago](https://www.euronews.com/2026/10/12/did-ukrainian-strikes-on-yandex-data-centres-cause-russian-bot-activity-to-plummet))
+- UAE calls for stronger Gulf defence as allies back Saudi Arabia after Riyadh airport attacks (Euronews, [47 minutes ago](https://www.euronews.com/2026/10/12/uae-calls-for-stronger-gulf-defence-as-allies-back-saudi-arabia-after-riyadh-airport-attac))
+- Video shows major fire ravaging 400-year-old Paris food market (Euronews, [47 minutes ago](https://www.euronews.com/video/2026/10/12/video-shows-major-fire-ravaging-400-year-old-paris-food-market))
+- London cabbies want Sadiq Khan to slam the brakes on robotaxis (Register, [54 minutes ago](https://www.theregister.com/personal-tech/2026/10/12/london-cabbies-want-sadiq-khan-to-slam-the-brakes-on-robotaxis/5302595))
+- What we know about Pope Leo XIV's upcoming operation to remove lung nodule (Euronews, [56 minutes ago](https://www.euronews.com/2026/10/12/what-we-know-about-pope-leo-xivs-upcoming-operation-to-remove-lung-nodule))
+- What to know about Pope Leo XIV's upcoming lung surgery (Euronews, [1 hours ago](https://www.euronews.com/2026/10/12/what-to-know-about-pope-leo-xivs-upcoming-lung-surgery))
+- Pigeon-powered internet packet goes under the hammer at Christie's (Register, [1 hours ago](https://www.theregister.com/offbeat/2026/10/12/pigeon-powered-internet-packet-goes-under-the-hammer-at-christies/5302526))
+- Diesel prices slip after Trump claims ‘energy ceasefire’ in Ukraine war (FT, [1 hours ago](https://www.ft.com/content/a663781e-2709-41f2-99df-4fb5a6162e6b?syn-25a6b1a6=1))
+- Putin is breaching Trump’s ‘energy ceasefire’, Zelenskyy says (FT, [1 hours ago](https://www.ft.com/content/863619b6-c4a7-4b1a-8a53-6950d47d1833?syn-25a6b1a6=1))
+- Imagine there's no Shiny Hunters – AI could make human hacking crews obsolete (Register, [2 hours ago](https://www.theregister.com/security/2026/10/12/imagine-theres-no-shiny-hunters-ai-could-make-human-hacking-crews-obsolete/5302430))
+- When you just need to build a tiny desktop app: TinyJS (Register, [3 hours ago](https://www.theregister.com/devops/2026/10/12/when-you-just-need-to-build-a-tiny-desktop-app-tinyjs/5302502))
+- Nobel Prize for economics awarded to Hall and Woodford (FT, [3 hours ago](https://www.ft.com/content/f4463a28-832d-4a2d-acc5-d83e258610cb?syn-25a6b1a6=1))
+- Celebrating the brilliant pragmatism of TCP/IP, the wiring of the world (Register, [4 hours ago](https://www.theregister.com/columnists/2026/10/12/celebrating-the-brilliant-pragmatism-of-tcp/ip-the-wiring-of-the-world/5302202))
+- Riyadh defiant as Houthis launch new missile strikes on Saudi Arabia (FT, [4 hours ago](https://www.ft.com/content/ad0b6e93-708c-46c6-a1f2-e6248c934faf?syn-25a6b1a6=1))
+- Raspberry Pi Desktop catches up with Debian 13 after 4-year wait (Register, [4 hours ago](https://www.theregister.com/os-platforms/2026/10/12/raspberry-pi-desktop-catches-up-with-debian-13-after-4-year-wait/5301693))
+- The Daily Hilario: Monday Morning Quarterback (WAGNH, [5 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/172969/the-daily-hilario-monday-morning-quarterback))
+- To save paper, mainframe tech ruined a week of work (Register, [5 hours ago](https://www.theregister.com/systems/2026/10/12/to-save-paper-mainframe-tech-ruined-a-week-of-work/5301546))
+- Chelsea 5-1 AFC Bournemouth, Player Ratings: Two beauties (WAGNH, [6 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/172963/chelsea-5-1-afc-bournemouth-player-ratings-two-beauties))
+- Trump’s midterm peril (FT, [9 hours ago](https://www.ft.com/content/62bab2c8-d4e2-4ec2-a911-80439f61f238?syn-25a6b1a6=1))
+- Wall Street’s record-breaking trading streak set to cool (FT, [9 hours ago](https://www.ft.com/content/50bb9758-abf7-43a4-bd8b-0c1e5895b4c2?syn-25a6b1a6=1))
+- There is a smarter way to tax the rich (FT, [9 hours ago](https://www.ft.com/content/e6c9d380-7108-405a-8393-5240771809fe))
+- ‘Worrying omens’ stalk global economy despite resilient growth (FT, [9 hours ago](https://www.ft.com/content/e0457dd5-8e75-4803-8ce8-6651157d2229?syn-25a6b1a6=1))
+- The huge lurking leverage of AI hyperscalers (FT, [9 hours ago](https://www.ft.com/content/17a207f4-1563-48af-91e3-14bac89ab4b8?syn-25a6b1a6=1))
+- Trump faces Republican opposition to his diesel deal with Russia’s Putin (FT, [15 hours ago](https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1))
 
 <!-- news_marker ends -->
 
@@ -110,7 +107,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > voracity - noun: An excessive desire to eat or consume something.
+ > venust - adjective: Beautiful, graceful, or elegant.
 
 <!-- word_marker ends -->
 
@@ -118,39 +115,46 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> Plans are worthless, but planning is everything. - Dwight Eisenhower
+> Opportunity is missed by most people because it is dressed in overalls and looks like work. - Thomas Edison
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Tidy up
+> Make a sudden, destructive, unpredictable action; incorporate
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Platform (Rated: 5)
-- Released in 2019
-- Summary: In a prison where inmates are fed on a descending platform, those on the upper levels take more than their fair share while those below are left to starve on scraps and one man decides to change the system.
+- Teaching Mrs Tingle (Rated: 3)
+- Released in 1999
+- Summary: The story of a girl who is willing to do anything to become Valedictorian, even if it means murdering the teacher that stands in her way.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 721, using [5, 5, 5, 5, 8, 50]
+- Target: 954, using [4, 5, 10, 25, 50, 100]
+- Answer: 11 solutions.
+
+- <details><summary><code>Solution</code></summary>
+
+  Solution: ( 100 - ( 50 - 25 ) / 5 ) x 10 + 4
+
+   </details>
 
 <!-- game_marker ends -->
 
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-- Successful Software [URL](https://successfulsoftware.net/) [Feed](https://successfulsoftware.net/feed/)
-- Dalan Mendonca [URL](https://dalanmendonca.com/) [Feed](https://dalanmendonca.com/rss-all.xml)
-- Neil Williams [URL](https://neilojwilliams.net/) [Feed](https://neilojwilliams.net/feed/)
-- Matt Stein [URL](https://mattstein.com/) [Feed](https://mattstein.com/rss.xml)
-- Cybaa by Joe T [URL](https://joetiedeman.uk/) [Feed](https://joetiedeman.uk/feed/)
+- Rob Weychert [URL](https://v7.robweychert.com/) [Feed](http://feeds.feedburner.com/robweychert)
+- Brennan Brown [URL](https://brennan.day/) [Feed](https://brennan.day/feed.xml)
+- WAGNH [URL](https://weaintgotnohistory.sbnation.com/) [Feed](https://weaintgotnohistory.sbnation.com/rss/index.xml)
+- MacSparky [URL](https://www.macsparky.com/) [Feed](http://www.macsparky.com/blog/rss.xml)
+- MacStories [URL](https://www.macstories.net/) [Feed](https://www.macstories.net/feed/)
 <!-- blogroll_marker ends -->
