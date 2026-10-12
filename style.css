@@ -31,8 +31,8 @@
     --code: #c0deff;
     --tab: #b6b6b4;
     --alt-tab: #fffafa;
-    --font-stack: Suffolks, Georgia, serif, -system-ui, "Gill Sans";
-    --header-stack: Suffolks, Georgia, serif, -system-ui, "Gill Sans";
+    --font-stack: Battledown, "Gill Sans", -system-ui, "Helvetica Neue", sans-serif;
+    --header-stack: Battledown, "Gill Sans", -system-ui, "Helvetica Neue", sans-serif;
     --font-mono: "JetBrains Mono", ui-monospace, monospace, "Courier New";
     --trans:
         color 0.5s cubic-bezier(0.4, 0, 0.2, 1),
