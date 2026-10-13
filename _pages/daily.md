@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-10-12
+date: 2026-10-13
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -12,104 +12,127 @@ date: 2026-10-12
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+## On Tuesday, 13 October 2026
 
-## On Monday, 12 October 2026
-
-- The average temperature today is 18.02˚C,
-- With highs of 18.61˚C and lows of 17.65˚C,
-- It may feel like 18.23˚C with overcast clouds
-- The wind speed is 6.17m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 90%
-- The sun will rise at 06:27 and set at 17:22
+- The average temperature today is 18.43˚C,
+- With highs of 19.31˚C and lows of 17.62˚C,
+- It may feel like 17.84˚C with few clouds
+- The wind speed is 7.2m/s and visibility is 10000m
+- The pressure is 1019hPa and humidity is 58%
+- The sun will rise at 06:28 and set at 17:20
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 
 <!-- threat_marker starts -->
-
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 165 days since the last change (2026-04-30)
+- It has been 166 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-
-- Garden Waste Day
+- Refuse Waste Collection Day
+- Food Waste Collection Day
 
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-
 > Exploit the landscape.
-
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-
-- Coventry City v Newcastle United
-
+- Reading U18 v Chelsea U18
+- AtlÃ©tico Madrid U19 v Manchester United U19
+- Cheltenham Town v Tottenham Hotspur U21
+- Gillingham v Brighton & Hove Albion U21
+- Notts County v Nottingham Forest U21
+- Oldham Athletic v Leeds United U21
+- Reading v Chelsea U21
+- Walsall v Fulham U21
+- Boston United v Southampton U21
+- FC Halifax Town v Stoke City U21
+- Gateshead v Wolves U21
+- Hartlepool United v Newcastle United U21
+- Scunthorpe United v Derby County U21
+- Solihull Moors v Everton U21
+- Sutton United v West Brom U21
+- Truro City v Birmingham City U21
+- England Women v Greece Women
+- Braintree Town v West Ham United U21
+- Bristol City v Blackburn Rovers
+- Burnley v Charlton Athletic
+- Cardiff City v Watford
+- Millwall v Swansea City
+- Wolves v Bolton Wanderers
+- Wrexham v West Brom
+- Aldershot Town v Norwich City U21
+- Woking v Leicester City U21
+- Worthing v Ipswich Town U21
+- Birmingham City v Preston North End
+- Stoke City v Middlesbrough
+- Arsenal v Lille
+- AtlÃ©tico Madrid v Manchester United
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 141.60000610351562
-- ^FTSE : 10631.58984375
-- ^FTMC : 24282.279296875
+- VWRL.L : 141.05999755859375 
+- ^FTSE : 10710.1298828125 
+- ^FTMC : 24377.3203125 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-
-> The police came round the other day saying they had reports our pet dog had been chasing the local kids on roller skates, funny I said, our dog does not own any roller skates.
-
+> A woman from Detroit was recently interviewed by Police for setting on fire the terms and conditions of a loan. Her name was Bernadette.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-
-- Gijs de Best urges shared enforcement to curb illicit trade (Euronews, [6 minutes ago](https://www.euronews.com/2026/10/12/gijs-de-best-urges-shared-enforcement-to-curb-illicit-trade))
-- Started planning summer 2027 holidays? Ryanair and easyJet announce 47 new flight routes (Euronews, [6 minutes ago](https://www.euronews.com/2026/10/12/started-planning-summer-2027-holidays-ryanair-and-easyjet-announce-47-new-flight-routes))
-- Agios Efstratios: the first Greek island to get all its electricity from renewables (Euronews, [7 minutes ago](https://www.euronews.com/2026/10/12/agios-efstratios-the-first-greek-island-to-get-all-its-electricity-from-renewables))
-- UCLA settles Oracle ERP dispute with $3.1M in credits and $1.31M wiped off the bill (Register, [9 minutes ago](https://www.theregister.com/saas/2026/10/12/ucla-settles-oracle-erp-dispute-with-31m-in-credits-and-131m-wiped-off-the-bill/5302520))
-- Ukraine passes minority rights law, paving way for breakthrough in EU accession talks (Euronews, [24 minutes ago](https://www.euronews.com/2026/10/12/ukraine-passes-minority-rights-law-paving-way-for-breakthrough-in-eu-accession-talks))
-- German firms outline new infrastructure and green energy plans in Baku (Euronews, [26 minutes ago](https://www.euronews.com/2026/10/12/german-firms-outline-new-infrastructure-and-green-energy-plans-in-baku))
-- Microsoft giveth and Microsoft taketh away: Copilot edition (Register, [26 minutes ago](https://www.theregister.com/applications/2026/10/12/microsoft-giveth-and-microsoft-taketh-away-copilot-edition/5302542))
-- Did Ukrainian strikes on Yandex data centres cause Russian bot activity to plummet? (Euronews, [36 minutes ago](https://www.euronews.com/2026/10/12/did-ukrainian-strikes-on-yandex-data-centres-cause-russian-bot-activity-to-plummet))
-- UAE calls for stronger Gulf defence as allies back Saudi Arabia after Riyadh airport attacks (Euronews, [47 minutes ago](https://www.euronews.com/2026/10/12/uae-calls-for-stronger-gulf-defence-as-allies-back-saudi-arabia-after-riyadh-airport-attac))
-- Video shows major fire ravaging 400-year-old Paris food market (Euronews, [47 minutes ago](https://www.euronews.com/video/2026/10/12/video-shows-major-fire-ravaging-400-year-old-paris-food-market))
-- London cabbies want Sadiq Khan to slam the brakes on robotaxis (Register, [54 minutes ago](https://www.theregister.com/personal-tech/2026/10/12/london-cabbies-want-sadiq-khan-to-slam-the-brakes-on-robotaxis/5302595))
-- What we know about Pope Leo XIV's upcoming operation to remove lung nodule (Euronews, [56 minutes ago](https://www.euronews.com/2026/10/12/what-we-know-about-pope-leo-xivs-upcoming-operation-to-remove-lung-nodule))
-- What to know about Pope Leo XIV's upcoming lung surgery (Euronews, [1 hours ago](https://www.euronews.com/2026/10/12/what-to-know-about-pope-leo-xivs-upcoming-lung-surgery))
-- Pigeon-powered internet packet goes under the hammer at Christie's (Register, [1 hours ago](https://www.theregister.com/offbeat/2026/10/12/pigeon-powered-internet-packet-goes-under-the-hammer-at-christies/5302526))
-- Diesel prices slip after Trump claims ‘energy ceasefire’ in Ukraine war (FT, [1 hours ago](https://www.ft.com/content/a663781e-2709-41f2-99df-4fb5a6162e6b?syn-25a6b1a6=1))
-- Putin is breaching Trump’s ‘energy ceasefire’, Zelenskyy says (FT, [1 hours ago](https://www.ft.com/content/863619b6-c4a7-4b1a-8a53-6950d47d1833?syn-25a6b1a6=1))
-- Imagine there's no Shiny Hunters – AI could make human hacking crews obsolete (Register, [2 hours ago](https://www.theregister.com/security/2026/10/12/imagine-theres-no-shiny-hunters-ai-could-make-human-hacking-crews-obsolete/5302430))
-- When you just need to build a tiny desktop app: TinyJS (Register, [3 hours ago](https://www.theregister.com/devops/2026/10/12/when-you-just-need-to-build-a-tiny-desktop-app-tinyjs/5302502))
-- Nobel Prize for economics awarded to Hall and Woodford (FT, [3 hours ago](https://www.ft.com/content/f4463a28-832d-4a2d-acc5-d83e258610cb?syn-25a6b1a6=1))
-- Celebrating the brilliant pragmatism of TCP/IP, the wiring of the world (Register, [4 hours ago](https://www.theregister.com/columnists/2026/10/12/celebrating-the-brilliant-pragmatism-of-tcp/ip-the-wiring-of-the-world/5302202))
-- Riyadh defiant as Houthis launch new missile strikes on Saudi Arabia (FT, [4 hours ago](https://www.ft.com/content/ad0b6e93-708c-46c6-a1f2-e6248c934faf?syn-25a6b1a6=1))
-- Raspberry Pi Desktop catches up with Debian 13 after 4-year wait (Register, [4 hours ago](https://www.theregister.com/os-platforms/2026/10/12/raspberry-pi-desktop-catches-up-with-debian-13-after-4-year-wait/5301693))
-- The Daily Hilario: Monday Morning Quarterback (WAGNH, [5 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/172969/the-daily-hilario-monday-morning-quarterback))
-- To save paper, mainframe tech ruined a week of work (Register, [5 hours ago](https://www.theregister.com/systems/2026/10/12/to-save-paper-mainframe-tech-ruined-a-week-of-work/5301546))
-- Chelsea 5-1 AFC Bournemouth, Player Ratings: Two beauties (WAGNH, [6 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/172963/chelsea-5-1-afc-bournemouth-player-ratings-two-beauties))
-- Trump’s midterm peril (FT, [9 hours ago](https://www.ft.com/content/62bab2c8-d4e2-4ec2-a911-80439f61f238?syn-25a6b1a6=1))
-- Wall Street’s record-breaking trading streak set to cool (FT, [9 hours ago](https://www.ft.com/content/50bb9758-abf7-43a4-bd8b-0c1e5895b4c2?syn-25a6b1a6=1))
-- There is a smarter way to tax the rich (FT, [9 hours ago](https://www.ft.com/content/e6c9d380-7108-405a-8393-5240771809fe))
-- ‘Worrying omens’ stalk global economy despite resilient growth (FT, [9 hours ago](https://www.ft.com/content/e0457dd5-8e75-4803-8ce8-6651157d2229?syn-25a6b1a6=1))
-- The huge lurking leverage of AI hyperscalers (FT, [9 hours ago](https://www.ft.com/content/17a207f4-1563-48af-91e3-14bac89ab4b8?syn-25a6b1a6=1))
-- Trump faces Republican opposition to his diesel deal with Russia’s Putin (FT, [15 hours ago](https://www.ft.com/content/debf0be6-d5aa-4ba7-bb66-7daf770d99ff?syn-25a6b1a6=1))
+- The world's best cruise lines and ships have been announced for 2026 (Euronews, [3 minutes ago](https://www.euronews.com/2026/10/13/the-worlds-best-cruise-lines-and-ships-have-been-announced-for-2026))
+- Greece announces 30% increase in heating allowance (Euronews, [9 minutes ago](https://www.euronews.com/2026/10/13/greece-announces-30-increase-in-heating-allowance))
+- A schoolboy, a professor and a designer among winners of Dubai's app championship (Euronews, [10 minutes ago](https://www.euronews.com/2026/10/13/a-schoolboy-a-professor-and-a-designer-among-winners-of-dubais-app-championship))
+- Could the US cut Ukraine off from vital military intelligence again? (Euronews, [12 minutes ago](https://www.euronews.com/2026/10/13/could-the-us-cut-ukraine-off-from-vital-military-intelligence-again))
+- Spanish crown returns to Ceuta after 19 years amid lingering migration crisis (Euronews, [22 minutes ago](https://www.euronews.com/2026/10/13/spanish-crown-returns-to-ceuta-after-19-years-amid-lingering-migration-crisis))
+- Zelenskyy says Kyiv’s partners failed to warn of ballistic missile attack (FT, [34 minutes ago](https://www.ft.com/content/da00e3ff-4392-46d8-bab5-13b4ccc49995?syn-25a6b1a6=1))
+- Cyber attack on French supermarket fridges raises alarm over food security (FT, [50 minutes ago](https://www.ft.com/content/6908a0ce-ffdd-4ea9-b376-d35d362639f3?syn-25a6b1a6=1))
+- Chip stocks slide in wake of ‘casino’ comment by Broadcom boss (FT, [51 minutes ago](https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1))
+- Kazakhstan’s first Open Asian Falconry Cup showcases ancient hunting heritage (Euronews, [54 minutes ago](https://www.euronews.com/video/2026/10/13/kazakhstans-first-open-asian-falconry-cup-showcases-ancient-hunting-heritage))
+- Pope Leo XIV arrives at Rome's Gemelli hospital for lung operation, Vatican says (Euronews, [1 hours ago](https://www.euronews.com/2026/10/13/pope-leo-xiv-arrives-at-romes-gemelli-hospital-for-lung-operation-vatican-says))
+- Europe paid Russia $209bn for energy since 2022, far below Moscow’s $320bn claim (Euronews, [1 hours ago](https://www.euronews.com/2026/10/13/europe-paid-russia-209bn-for-energy-since-2022-far-below-moscows-320bn-claim))
+- '123456' password linked to Denmark data breach affecting 8.8M people (Register, [1 hours ago](https://www.theregister.com/security/2026/10/13/123456-password-linked-to-denmark-data-breach-affecting-88m-people/5302726))
+- Emergency call about Christa Pike’s botched execution released (Euronews, [1 hours ago](https://www.euronews.com/video/2026/10/13/emergency-call-about-christa-pikes-botched-execution-released))
+- Meta launches new ‘most capable’ AI models. Here’s what to know about them (Euronews, [1 hours ago](https://www.euronews.com/2026/10/13/meta-launches-new-most-capable-ai-models-heres-what-to-know-about-them))
+- European datacenter boom threatens higher energy bills unless governments intervene (Register, [2 hours ago](https://www.theregister.com/on-prem/2026/10/13/european-datacenter-boom-threatens-higher-energy-bills-unless-governments-intervene/5302583))
+- Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices (FT, [2 hours ago](https://www.ft.com/content/64aaa8d5-f26a-4b96-b8cf-0ef0c6fbe69e?syn-25a6b1a6=1))
+- Owner of fashion brands Hobbs and Whistles joins autumn pwned collection (Register, [2 hours ago](https://www.theregister.com/cyber-crime/2026/10/13/owner-of-fashion-brands-hobbs-and-whistles-joins-autumn-pwned-collection/5302752))
+- Bumper equities trading helps Goldman overcome Wall Street’s fixed income woes (FT, [2 hours ago](https://www.ft.com/content/56f4a46e-3ae5-4aea-8cf3-71506b286091))
+- UK Cabinet Office takes £7.8M hit to kill off recruitment system (Register, [3 hours ago](https://www.theregister.com/public-sector/2026/10/13/uk-cabinet-office-takes-78m-hit-to-kill-off-recruitment-system/5302635))
+- Intel optimizes IPv6 networking into nothingness, say users (Register, [4 hours ago](https://www.theregister.com/networks/2026/10/13/intel-optimizes-ipv6-networking-into-nothingness-say-users/5302622))
+- Home Office asylum AI flunks one in five accuracy checks (Register, [5 hours ago](https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649))
+- The Daily Hilario: Schumacher ‘94 (WAGNH, [5 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/172985/the-daily-hilario-schumacher-94))
+- VMware is pushing so many patches, it thinks users need new tools to manage the flood (Register, [5 hours ago](https://www.theregister.com/virtualization/2026/10/13/vmware-is-pushing-so-many-patches-it-thinks-users-need-new-tools-to-manage-the-flood-1/5302172))
+- Cole Palmer wants to play ‘a big role’ in Chelsea going ‘back to the top very soon’ (WAGNH, [7 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/172979/cole-palmer-wants-to-play-a-big-role-in-chelsea-going-back-to-the-top-very-soon))
+- Investors brave US Treasury rout to lock in highest yields in decades (FT, [8 hours ago](https://www.ft.com/content/6fa735a2-a590-4461-b092-920ba489e7a8?syn-25a6b1a6=1))
+- The elections that could remake Europe (FT, [8 hours ago](https://www.ft.com/content/ec433e1f-bdb4-4a1c-868e-e1c7c4121f45?syn-25a6b1a6=1))
+- Why Trump is going for Zelenskyy’s jugular (FT, [8 hours ago](https://www.ft.com/content/1724a30e-cf50-4a4e-ade8-bca72ea4b9a1?syn-25a6b1a6=1))
+- HR doesn’t need to be the CIA (FT, [8 hours ago](https://www.ft.com/content/16e1d29b-3680-4712-b8e7-ed4a4125041a?syn-25a6b1a6=1))
+- Microsoft blames a configuration change for Exchange Admin Center tumble (Register, [18 hours ago](https://www.theregister.com/saas/2026/10/12/microsoft-blames-a-configuration-change-for-exchange-admin-center-tumble/5302698))
+- Chatbot refuseniks edge out users in the US, and they’re not for turning (Register, [19 hours ago](https://www.theregister.com/ai-and-ml/2026/10/12/chatbot-refuseniks-edge-out-users-in-the-us-and-theyre-not-for-turning/5302690))
+- Zuckerberg says Meta has reached AI ‘frontier’ (FT, [19 hours ago](https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb?syn-25a6b1a6=1))
+- No shame in the Domain Name game: DNS is doomed, literally (Register, [20 hours ago](https://www.theregister.com/columnists/2026/10/12/no-shame-in-the-domain-name-game-dns-is-doomed-literally/5302670))
+- Reading vs Cobham Next Gen: How to watch it live (CFC, [23 hours ago](https://www.chelseafc.com/en/news/article/reading-vs-cobham-next-gen-how-to-watch))
 
 <!-- news_marker ends -->
 
@@ -117,7 +140,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
-> venust - adjective: Beautiful, graceful, or elegant.
+ > calender - noun: A machine that presses paper, cloth, or other materials between rollers to smooth, glaze, or thin them. verb tr.: To process material in such a machine.
 
 <!-- word_marker ends -->
 
@@ -125,38 +148,35 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> Opportunity is missed by most people because it is dressed in overalls and looks like work. - Thomas Edison
+> The four most important words for Scrum Masters are: Let us ask the team. - Kristen Sammons, Agile Evangelist & Scrum Master
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-
-> Make a sudden, destructive, unpredictable action; incorporate
+> Discover the recipes you are using and abandon them
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-
-- Teaching Mrs Tingle (Rated: 3)
-- Released in 1999
-- Summary: The story of a girl who is willing to do anything to become Valedictorian, even if it means murdering the teacher that stands in her way.
-
+- The Gray Man (Rated: 3)
+- Released in 2022
+- Summary: When the CIA's most skilled operative, whose true identity is known to none, accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assas...
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 954, using [4, 5, 10, 25, 50, 100]
-- Answer: 11 solutions.
+- Target: 375, using [1, 1, 8, 10, 50, 100]
+- Answer: 5 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 - ( 50 - 25 ) / 5 ) x 10 + 4
+  Solution: ( 50 - ( 1 + 1 ) x 10 ) x 100 / 8
 
    </details>
 
@@ -165,11 +185,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-
-- Rob Weychert [URL](https://v7.robweychert.com/) [Feed](http://feeds.feedburner.com/robweychert)
-- Brennan Brown [URL](https://brennan.day/) [Feed](https://brennan.day/feed.xml)
-- WAGNH [URL](https://weaintgotnohistory.sbnation.com/) [Feed](https://weaintgotnohistory.sbnation.com/rss/index.xml)
-- MacSparky [URL](https://www.macsparky.com/) [Feed](http://www.macsparky.com/blog/rss.xml)
-- MacStories [URL](https://www.macstories.net/) [Feed](https://www.macstories.net/feed/)
-
+- Dan Q [URL](https://danq.me/) [Feed](https://danq.me/feed/)
+- Harry Cresswell [URL](https://harrycresswell.com/writing/) [Feed](https://harrycresswell.com/writing/feed.xml)
+- Zwift Insider [URL](https://zwiftinsider.com/) [Feed](https://zwiftinsider.com/feed/)
+- Cloudflare [URL](https://blog.cloudflare.com/) [Feed](https://blog.cloudflare.com/rss/)
+- HTTP toolkit [URL](https://httptoolkit.com/blog/) [Feed](https://httptoolkit.tech/rss.xml)
 <!-- blogroll_marker ends -->
