@@ -3,7 +3,8 @@ layout: post
 date: 2026-10-13 21:53
 title: Mltply Version v202701.2
 seo_title: Mltply Version v202701.2 Release Notes
-seo_description: Release notes for Mltply version v202701.2. See what changed in this
+seo_description:
+  Release notes for Mltply version v202701.2. See what changed in this
   version. Most of my projects are free and open source.
 type: release
 cited: GitHub

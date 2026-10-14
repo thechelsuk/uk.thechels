@@ -12,6 +12,7 @@ date: 2026-10-14
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Wednesday, 14 October 2026
 
 - The average temperature today is 15.4˚C,
@@ -26,6 +27,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 167 days since the last change (2026-04-30)
 
@@ -34,18 +36,23 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Be open to change.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Crystal Palace U21 v Anderlecht U21
 - LASK U19 v Liverpool U19
 - Aston Villa U19 v Fenerbache U19
@@ -57,27 +64,31 @@ _Good Morning, Here is your daily briefing..._
 - Lincoln City v West Ham United
 - Aston Villa v Fenerbahce
 - Manchester City v PSG
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 141.1999969482422 
-- ^FTSE : 10698.2197265625 
-- ^FTMC : 24537.26953125 
+- VWRL.L : 141.1999969482422
+- ^FTSE : 10698.2197265625
+- ^FTMC : 24537.26953125
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Our Sat Nav is so smart, we were driving through a safari park the other day and it said bear left.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Climate change is putting Europe’s brain health at risk (Euronews, [2 minutes ago](https://www.euronews.com/2026/10/14/climate-change-is-putting-europes-brain-health-at-risk))
 - CoreWeave targets ‘unlimited’ insurance money to fund AI build-out (FT, [10 minutes ago](https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1))
 - A new night train will launch between Hamburg and Munich in March 2027 (Euronews, [12 minutes ago](https://www.euronews.com/2026/10/14/a-new-night-train-will-launch-between-hamburg-and-munich-in-march-2027))
@@ -122,7 +133,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > wheal - noun: A small swelling on the skin, as from an insect bite, an allergic reaction, or a blow.
+> wheal - noun: A small swelling on the skin, as from an insect bite, an allergic reaction, or a blow.
 
 <!-- word_marker ends -->
 
@@ -137,6 +148,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > What would your closest friend do?
 
 <!-- eno_marker ends -->
@@ -144,9 +156,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Frenzy (Rated: 6)
 - Released in 1972
 - Summary: A serial murderer is strangling women with a necktie. The London police have a suspect, but he is the wrong man.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -167,9 +181,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Troy Hunt [URL](https://www.troyhunt.com/) [Feed](https://www.troyhunt.com/rss/)
 - Dan Q [URL](https://danq.me/) [Feed](https://danq.me/feed/)
 - Brennan Brown [URL](https://brennan.day/) [Feed](https://brennan.day/feed.xml)
 - Mike Swanson [URL](https://blog.mikeswanson.com/) [Feed](https://blog.mikeswanson.com/feed/)
 - Cupertino Lens [URL](https://cupertinolens.com/) [Feed](https://cupertinolens.com/feed/)
+
 <!-- blogroll_marker ends -->
