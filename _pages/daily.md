@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-10-13
+date: 2026-10-14
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -12,14 +12,14 @@ date: 2026-10-13
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Tuesday, 13 October 2026
+## On Wednesday, 14 October 2026
 
-- The average temperature today is 18.43˚C,
-- With highs of 19.31˚C and lows of 17.62˚C,
-- It may feel like 17.84˚C with few clouds
-- The wind speed is 7.2m/s and visibility is 10000m
-- The pressure is 1019hPa and humidity is 58%
-- The sun will rise at 06:28 and set at 17:20
+- The average temperature today is 15.4˚C,
+- With highs of 16.64˚C and lows of 14.91˚C,
+- It may feel like 15.01˚C with broken clouds
+- The wind speed is 4.12m/s and visibility is 10000m
+- The pressure is 1026hPa and humidity is 77%
+- The sun will rise at 06:30 and set at 17:17
 
 <!-- weather_marker ends -->
 
@@ -27,112 +27,94 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 166 days since the last change (2026-04-30)
+- It has been 167 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Exploit the landscape.
+> Be open to change.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Reading U18 v Chelsea U18
-- AtlÃ©tico Madrid U19 v Manchester United U19
-- Cheltenham Town v Tottenham Hotspur U21
-- Gillingham v Brighton & Hove Albion U21
-- Notts County v Nottingham Forest U21
-- Oldham Athletic v Leeds United U21
-- Reading v Chelsea U21
-- Walsall v Fulham U21
-- Boston United v Southampton U21
-- FC Halifax Town v Stoke City U21
-- Gateshead v Wolves U21
-- Hartlepool United v Newcastle United U21
-- Scunthorpe United v Derby County U21
-- Solihull Moors v Everton U21
-- Sutton United v West Brom U21
-- Truro City v Birmingham City U21
-- England Women v Greece Women
-- Braintree Town v West Ham United U21
-- Bristol City v Blackburn Rovers
-- Burnley v Charlton Athletic
-- Cardiff City v Watford
-- Millwall v Swansea City
-- Wolves v Bolton Wanderers
-- Wrexham v West Brom
-- Aldershot Town v Norwich City U21
-- Woking v Leicester City U21
-- Worthing v Ipswich Town U21
-- Birmingham City v Preston North End
-- Stoke City v Middlesbrough
-- Arsenal v Lille
-- AtlÃ©tico Madrid v Manchester United
+- Crystal Palace U21 v Anderlecht U21
+- LASK U19 v Liverpool U19
+- Aston Villa U19 v Fenerbache U19
+- Manchester City U19 v PSG U19
+- LASK v Liverpool
+- Norwich City v Southampton
+- Portsmouth v Sheffield United
+- QPR v Derby County
+- Lincoln City v West Ham United
+- Aston Villa v Fenerbahce
+- Manchester City v PSG
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 141.05999755859375 
-- ^FTSE : 10710.1298828125 
-- ^FTMC : 24377.3203125 
+- VWRL.L : 141.1999969482422 
+- ^FTSE : 10698.2197265625 
+- ^FTMC : 24537.26953125 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> A woman from Detroit was recently interviewed by Police for setting on fire the terms and conditions of a loan. Her name was Bernadette.
+> Our Sat Nav is so smart, we were driving through a safari park the other day and it said bear left.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-- The world's best cruise lines and ships have been announced for 2026 (Euronews, [3 minutes ago](https://www.euronews.com/2026/10/13/the-worlds-best-cruise-lines-and-ships-have-been-announced-for-2026))
-- Greece announces 30% increase in heating allowance (Euronews, [9 minutes ago](https://www.euronews.com/2026/10/13/greece-announces-30-increase-in-heating-allowance))
-- A schoolboy, a professor and a designer among winners of Dubai's app championship (Euronews, [10 minutes ago](https://www.euronews.com/2026/10/13/a-schoolboy-a-professor-and-a-designer-among-winners-of-dubais-app-championship))
-- Could the US cut Ukraine off from vital military intelligence again? (Euronews, [12 minutes ago](https://www.euronews.com/2026/10/13/could-the-us-cut-ukraine-off-from-vital-military-intelligence-again))
-- Spanish crown returns to Ceuta after 19 years amid lingering migration crisis (Euronews, [22 minutes ago](https://www.euronews.com/2026/10/13/spanish-crown-returns-to-ceuta-after-19-years-amid-lingering-migration-crisis))
-- Zelenskyy says Kyiv’s partners failed to warn of ballistic missile attack (FT, [34 minutes ago](https://www.ft.com/content/da00e3ff-4392-46d8-bab5-13b4ccc49995?syn-25a6b1a6=1))
-- Cyber attack on French supermarket fridges raises alarm over food security (FT, [50 minutes ago](https://www.ft.com/content/6908a0ce-ffdd-4ea9-b376-d35d362639f3?syn-25a6b1a6=1))
-- Chip stocks slide in wake of ‘casino’ comment by Broadcom boss (FT, [51 minutes ago](https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1))
-- Kazakhstan’s first Open Asian Falconry Cup showcases ancient hunting heritage (Euronews, [54 minutes ago](https://www.euronews.com/video/2026/10/13/kazakhstans-first-open-asian-falconry-cup-showcases-ancient-hunting-heritage))
-- Pope Leo XIV arrives at Rome's Gemelli hospital for lung operation, Vatican says (Euronews, [1 hours ago](https://www.euronews.com/2026/10/13/pope-leo-xiv-arrives-at-romes-gemelli-hospital-for-lung-operation-vatican-says))
-- Europe paid Russia $209bn for energy since 2022, far below Moscow’s $320bn claim (Euronews, [1 hours ago](https://www.euronews.com/2026/10/13/europe-paid-russia-209bn-for-energy-since-2022-far-below-moscows-320bn-claim))
-- '123456' password linked to Denmark data breach affecting 8.8M people (Register, [1 hours ago](https://www.theregister.com/security/2026/10/13/123456-password-linked-to-denmark-data-breach-affecting-88m-people/5302726))
-- Emergency call about Christa Pike’s botched execution released (Euronews, [1 hours ago](https://www.euronews.com/video/2026/10/13/emergency-call-about-christa-pikes-botched-execution-released))
-- Meta launches new ‘most capable’ AI models. Here’s what to know about them (Euronews, [1 hours ago](https://www.euronews.com/2026/10/13/meta-launches-new-most-capable-ai-models-heres-what-to-know-about-them))
-- European datacenter boom threatens higher energy bills unless governments intervene (Register, [2 hours ago](https://www.theregister.com/on-prem/2026/10/13/european-datacenter-boom-threatens-higher-energy-bills-unless-governments-intervene/5302583))
-- Anthropic warns rogue AI agents may ‘self-replicate’ to hijack everyday devices (FT, [2 hours ago](https://www.ft.com/content/64aaa8d5-f26a-4b96-b8cf-0ef0c6fbe69e?syn-25a6b1a6=1))
-- Owner of fashion brands Hobbs and Whistles joins autumn pwned collection (Register, [2 hours ago](https://www.theregister.com/cyber-crime/2026/10/13/owner-of-fashion-brands-hobbs-and-whistles-joins-autumn-pwned-collection/5302752))
-- Bumper equities trading helps Goldman overcome Wall Street’s fixed income woes (FT, [2 hours ago](https://www.ft.com/content/56f4a46e-3ae5-4aea-8cf3-71506b286091))
-- UK Cabinet Office takes £7.8M hit to kill off recruitment system (Register, [3 hours ago](https://www.theregister.com/public-sector/2026/10/13/uk-cabinet-office-takes-78m-hit-to-kill-off-recruitment-system/5302635))
-- Intel optimizes IPv6 networking into nothingness, say users (Register, [4 hours ago](https://www.theregister.com/networks/2026/10/13/intel-optimizes-ipv6-networking-into-nothingness-say-users/5302622))
-- Home Office asylum AI flunks one in five accuracy checks (Register, [5 hours ago](https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649))
-- The Daily Hilario: Schumacher ‘94 (WAGNH, [5 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/172985/the-daily-hilario-schumacher-94))
-- VMware is pushing so many patches, it thinks users need new tools to manage the flood (Register, [5 hours ago](https://www.theregister.com/virtualization/2026/10/13/vmware-is-pushing-so-many-patches-it-thinks-users-need-new-tools-to-manage-the-flood-1/5302172))
-- Cole Palmer wants to play ‘a big role’ in Chelsea going ‘back to the top very soon’ (WAGNH, [7 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/172979/cole-palmer-wants-to-play-a-big-role-in-chelsea-going-back-to-the-top-very-soon))
-- Investors brave US Treasury rout to lock in highest yields in decades (FT, [8 hours ago](https://www.ft.com/content/6fa735a2-a590-4461-b092-920ba489e7a8?syn-25a6b1a6=1))
-- The elections that could remake Europe (FT, [8 hours ago](https://www.ft.com/content/ec433e1f-bdb4-4a1c-868e-e1c7c4121f45?syn-25a6b1a6=1))
-- Why Trump is going for Zelenskyy’s jugular (FT, [8 hours ago](https://www.ft.com/content/1724a30e-cf50-4a4e-ade8-bca72ea4b9a1?syn-25a6b1a6=1))
-- HR doesn’t need to be the CIA (FT, [8 hours ago](https://www.ft.com/content/16e1d29b-3680-4712-b8e7-ed4a4125041a?syn-25a6b1a6=1))
-- Microsoft blames a configuration change for Exchange Admin Center tumble (Register, [18 hours ago](https://www.theregister.com/saas/2026/10/12/microsoft-blames-a-configuration-change-for-exchange-admin-center-tumble/5302698))
-- Chatbot refuseniks edge out users in the US, and they’re not for turning (Register, [19 hours ago](https://www.theregister.com/ai-and-ml/2026/10/12/chatbot-refuseniks-edge-out-users-in-the-us-and-theyre-not-for-turning/5302690))
-- Zuckerberg says Meta has reached AI ‘frontier’ (FT, [19 hours ago](https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb?syn-25a6b1a6=1))
-- No shame in the Domain Name game: DNS is doomed, literally (Register, [20 hours ago](https://www.theregister.com/columnists/2026/10/12/no-shame-in-the-domain-name-game-dns-is-doomed-literally/5302670))
-- Reading vs Cobham Next Gen: How to watch it live (CFC, [23 hours ago](https://www.chelseafc.com/en/news/article/reading-vs-cobham-next-gen-how-to-watch))
+- Climate change is putting Europe’s brain health at risk (Euronews, [2 minutes ago](https://www.euronews.com/2026/10/14/climate-change-is-putting-europes-brain-health-at-risk))
+- CoreWeave targets ‘unlimited’ insurance money to fund AI build-out (FT, [10 minutes ago](https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1))
+- A new night train will launch between Hamburg and Munich in March 2027 (Euronews, [12 minutes ago](https://www.euronews.com/2026/10/14/a-new-night-train-will-launch-between-hamburg-and-munich-in-march-2027))
+- OpenAI engineer charged after boardroom bug found wrapped in toilet paper (Register, [14 minutes ago](https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000))
+- Portuguese parliament backs extension of parental leave: what changes? (Euronews, [19 minutes ago](https://www.euronews.com/2026/10/14/portuguese-parliament-backs-extension-of-parental-leave-what-changes))
+- Ukraine blindsided by Starlink restrictions and intelligence gaps (FT, [21 minutes ago](https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75?syn-25a6b1a6=1))
+- Iran executes man accused of armed attacks during US-Israeli strikes (Euronews, [28 minutes ago](https://www.euronews.com/2026/10/14/iran-executes-man-accused-of-armed-attacks-during-us-israeli-strikes))
+- Former Ukrainian military officer to stand trial in Germany over Nord Stream sabotage (Euronews, [32 minutes ago](https://www.euronews.com/2026/10/14/former-ukrainian-military-officer-to-stand-trial-in-germany-over-nord-stream-sabotage))
+- As the US and China race ahead in AI, France carves its own path with Nvidia’s help (Euronews, [37 minutes ago](https://www.euronews.com/2026/10/14/as-the-us-and-china-race-ahead-in-ai-france-carves-its-own-path-with-nvidias-help))
+- Crypto exchange Kraken owner to buy European bank (FT, [39 minutes ago](https://www.ft.com/content/8e82ae33-cc11-4731-826a-bcd0752f79bf?syn-25a6b1a6=1))
+- Albania: Student protests in Tirana turn violent as Flamingo Revolution escalates (Euronews, [47 minutes ago](https://www.euronews.com/video/2026/10/14/albania-student-protests-in-tirana-turn-violent-as-flamingo-revolution-escalates))
+- Duane Davis gets minimum 40 years in prison for orchestrating murder of Tupac Shakur (Euronews, [1 hours ago](https://www.euronews.com/2026/10/14/duane-davis-gets-minimum-40-years-in-prison-for-orchestrating-murder-of-tupac-shakur))
+- Houthis strike Saudi Aramco headquarters (FT, [1 hours ago](https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1))
+- These are the best holiday destinations in Europe for embracing a longevity lifestyle (Euronews, [1 hours ago](https://www.euronews.com/2026/10/14/these-are-the-best-holiday-destinations-in-europe-for-embracing-a-longevity-lifestyle))
+- The AI math isn't mathing as infrastructure spending forecast to outstrip expected revenue (Register, [1 hours ago](https://www.theregister.com/on-prem/2026/10/14/the-ai-math-isnt-mathing-as-infrastructure-spending-forecast-to-outstrip-expected-revenue/5302856))
+- ASML posts record €11.7 billion in sales but warns it can’t keep up with AI demand (Euronews, [1 hours ago](https://www.euronews.com/2026/10/14/asml-posts-record-117-billion-in-sales-but-warns-it-cant-keep-up-with-ai-demand))
+- UK government chases AI while aging IT leaves it exposed, PAC chair warns (Register, [1 hours ago](https://www.theregister.com/public-sector/2026/10/14/uk-government-chases-ai-while-aging-it-leaves-it-exposed-pac-chair-warns/5302674))
+- It won't kill you, or humanity, to get off the AI upgrade treadmill (Register, [2 hours ago](https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778))
+- The Daily Hilario: Questings of Vision(s) (WAGNH, [2 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173011/the-daily-hilario-questings-of-visions))
+- Stamford Bridge hosting Shakhtar’s Champions League matches, starting tonight (WAGNH, [3 hours ago](https://weaintgotnohistory.sbnation.com/around-europe/173004/stamford-bridge-hosting-shakhtars-champions-league-matches-starting-tonight))
+- AI demand to exceed supply for 2 more years, says ASML (FT, [3 hours ago](https://www.ft.com/content/2fc239ae-b0d4-41e8-81d0-cc2c0b3aba01?syn-25a6b1a6=1))
+- AFC Bournemouth ‘open to offers’ in January for Alex Scott — report (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/172996/afc-bournemouth-open-to-offers-in-january-for-alex-scott-report))
+- Ransomware gets personal: 'We-know-where-you-are kind of stuff' (Register, [5 hours ago](https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939))
+- Marine Le Pen vows ‘trial of strength’ with EU (FT, [6 hours ago](https://www.ft.com/content/60d09841-052a-44f3-a8ae-52c38fdbb5ab?syn-25a6b1a6=1))
+- The art of living dangerously (FT, [6 hours ago](https://www.ft.com/content/5e6d1d30-0934-4fda-b2c0-27b0d96aeba3?syn-25a6b1a6=1))
+- How Ukraine’s data centre strikes threw Russia into turmoil (FT, [6 hours ago](https://www.ft.com/content/dc21da0b-25b7-402e-8dbe-e7d9f7431b93?syn-25a6b1a6=1))
+- Military briefing: Houthis expose limits of Saudi Arabia’s vast arsenal (FT, [6 hours ago](https://www.ft.com/content/afa0a322-ad2a-4d49-aa0e-81f15a01c3a7?syn-25a6b1a6=1))
+- How I used AI to become a chess grandmaster at 16 (FT, [6 hours ago](https://www.ft.com/content/8267236e-f4bb-4d7b-9ed7-6ec0a9867b94))
+- Anthropic reinvents source control as Claude floods the world with code (Register, [11 hours ago](https://www.theregister.com/devops/2026/10/13/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code/5302943))
+- Updated Apple Developer Program License Agreement now available (Apple, [12 hours ago](https://developer.apple.com/news/?id=17mwd36z))
+- CISA director touts private partnerships after agency killed many (Register, [13 hours ago](https://www.theregister.com/public-sector/2026/10/13/cisa-director-touts-private-partnerships-after-agency-killed-many/5302920))
+- OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt (Register, [13 hours ago](https://www.theregister.com/ai-and-ml/2026/10/13/openais-dot-assistant-burned-300k-tokens-in-a-day-without-a-single-prompt/5302913))
+- Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks (Register, [14 hours ago](https://www.theregister.com/ai-and-ml/2026/10/13/apple-unleashes-a-swarm-of-mac-minions-to-share-gpu-resources-for-large-ai-tasks/5302891))
+- EFL Trophy report: Reading 0-2 Cobham Next Gen (CFC, [15 hours ago](https://www.chelseafc.com/en/news/article/efl-trophy-report-reading-0-2-cobham-next-gen))
+- Training gallery: Working at Cobham! (CFC, [16 hours ago](https://www.chelseafc.com/en/news/article/training-gallery-working-at-cobham))
+- Claude submitted fake murder tip to Philly police during summertime testing (Register, [16 hours ago](https://www.theregister.com/security/2026/10/13/claude-submitted-fake-murder-tip-to-philly-police-during-summertime-testing/5302842))
+- Under-18 Premier League report: Reading 0-3 Chelsea (CFC, [19 hours ago](https://www.chelseafc.com/en/news/article/under-18-premier-league-report-reading-0-3-chelsea))
 
 <!-- news_marker ends -->
 
@@ -140,7 +122,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > calender - noun: A machine that presses paper, cloth, or other materials between rollers to smooth, glaze, or thin them. verb tr.: To process material in such a machine.
+ > wheal - noun: A small swelling on the skin, as from an insect bite, an allergic reaction, or a blow.
 
 <!-- word_marker ends -->
 
@@ -148,35 +130,35 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> The four most important words for Scrum Masters are: Let us ask the team. - Kristen Sammons, Agile Evangelist & Scrum Master
+> Innovation distinguishes between a leader and a follower - Steve Jobs
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Discover the recipes you are using and abandon them
+> What would your closest friend do?
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Gray Man (Rated: 3)
-- Released in 2022
-- Summary: When the CIA's most skilled operative, whose true identity is known to none, accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assas...
+- Frenzy (Rated: 6)
+- Released in 1972
+- Summary: A serial murderer is strangling women with a necktie. The London police have a suspect, but he is the wrong man.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 375, using [1, 1, 8, 10, 50, 100]
-- Answer: 5 solutions.
+- Target: 425, using [1, 5, 7, 8, 9, 25]
+- Answer: 25 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 50 - ( 1 + 1 ) x 10 ) x 100 / 8
+  Solution: ( 9 + 8 ) x 25
 
    </details>
 
@@ -185,9 +167,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+- Troy Hunt [URL](https://www.troyhunt.com/) [Feed](https://www.troyhunt.com/rss/)
 - Dan Q [URL](https://danq.me/) [Feed](https://danq.me/feed/)
-- Harry Cresswell [URL](https://harrycresswell.com/writing/) [Feed](https://harrycresswell.com/writing/feed.xml)
-- Zwift Insider [URL](https://zwiftinsider.com/) [Feed](https://zwiftinsider.com/feed/)
-- Cloudflare [URL](https://blog.cloudflare.com/) [Feed](https://blog.cloudflare.com/rss/)
-- HTTP toolkit [URL](https://httptoolkit.com/blog/) [Feed](https://httptoolkit.tech/rss.xml)
+- Brennan Brown [URL](https://brennan.day/) [Feed](https://brennan.day/feed.xml)
+- Mike Swanson [URL](https://blog.mikeswanson.com/) [Feed](https://blog.mikeswanson.com/feed/)
+- Cupertino Lens [URL](https://cupertinolens.com/) [Feed](https://cupertinolens.com/feed/)
 <!-- blogroll_marker ends -->
