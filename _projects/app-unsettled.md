@@ -5,8 +5,8 @@ seo_title: "Unsettled - Escape Room Spy Puzzle Game for iPhone"
 seo_description: "Unsettled is an iPhone escape game hidden in an ordinary-looking phone. No instructions and no free clues: crack every lock to open the sealed messages."
 permalink: /projects/unsettled
 class: applications
-i_name: "Available: **late October 2026**"
-i_url: "#"
+i_name: Download on the iOS App Store
+i_url: "https://apps.apple.com/gb/app/unsettled-impossible-escape/id6819058615"
 i_image: "/images/apps/unsettled-banner.png"
 i_icon: "/images/apps/unsettled-icon.png"
 summary: "Unsettled is an escape game hidden in an ordinary-looking phone. The screen is blank, a mail icon has one unread message, and every message from Unsettled Corp is a lock that gives up a number."

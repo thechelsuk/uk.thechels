@@ -969,3 +969,31 @@ table {
         margin-left: 0;
     }
 }
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(88px, 1fr));
+    gap: 0.5rem;
+    justify-items: center;
+    padding: 0.5rem 0;
+}
+
+.buttons a,
+.buttons img {
+    display: block;
+    width: 88px;
+    height: 31px;
+}
+
+.buttons img {
+    image-rendering: pixelated;
+}
+
+.buttons-wide {
+    grid-template-columns: repeat(auto-fill, minmax(146px, 1fr));
+}
+
+.buttons-wide a,
+.buttons-wide img {
+    width: auto;
+}
