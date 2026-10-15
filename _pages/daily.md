@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-10-14
+date: 2026-10-15
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -12,120 +12,97 @@ date: 2026-10-14
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+## On Thursday, 15 October 2026
 
-## On Wednesday, 14 October 2026
-
-- The average temperature today is 15.4˚C,
-- With highs of 16.64˚C and lows of 14.91˚C,
-- It may feel like 15.01˚C with broken clouds
-- The wind speed is 4.12m/s and visibility is 10000m
-- The pressure is 1026hPa and humidity is 77%
-- The sun will rise at 06:30 and set at 17:17
+- The average temperature today is 17.75˚C,
+- With highs of 18.86˚C and lows of 17.14˚C,
+- It may feel like 17.64˚C with scattered clouds
+- The wind speed is 5.66m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 79%
+- The sun will rise at 06:32 and set at 17:15
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 
 <!-- threat_marker starts -->
-
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 167 days since the last change (2026-04-30)
+- It has been 168 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-
 - No tasks today
-
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-
-> Be open to change.
-
+> Do better with less.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-
-- Crystal Palace U21 v Anderlecht U21
-- LASK U19 v Liverpool U19
-- Aston Villa U19 v Fenerbache U19
-- Manchester City U19 v PSG U19
-- LASK v Liverpool
-- Norwich City v Southampton
-- Portsmouth v Sheffield United
-- QPR v Derby County
-- Lincoln City v West Ham United
-- Aston Villa v Fenerbahce
-- Manchester City v PSG
-
+- Lyon v Crystal Palace
+- Torreense v Sunderland
+- Mansfield Town v Oxford United
+- Brighton & Hove Albion v Kauno Zalgiris
+- AFC Bournemouth v Sturm Graz
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 141.1999969482422
-- ^FTSE : 10698.2197265625
-- ^FTMC : 24537.26953125
+- VWRL.L : 138.92999267578125 
+- ^FTSE : 10783.6904296875 
+- ^FTMC : 24348.890625 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-
-> Our Sat Nav is so smart, we were driving through a safari park the other day and it said bear left.
-
+> Two tortillas have a fight in a karaoke bar. What ensued could only be described as a wrap battle.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-
-- Climate change is putting Europe’s brain health at risk (Euronews, [2 minutes ago](https://www.euronews.com/2026/10/14/climate-change-is-putting-europes-brain-health-at-risk))
-- CoreWeave targets ‘unlimited’ insurance money to fund AI build-out (FT, [10 minutes ago](https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1))
-- A new night train will launch between Hamburg and Munich in March 2027 (Euronews, [12 minutes ago](https://www.euronews.com/2026/10/14/a-new-night-train-will-launch-between-hamburg-and-munich-in-march-2027))
-- OpenAI engineer charged after boardroom bug found wrapped in toilet paper (Register, [14 minutes ago](https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000))
-- Portuguese parliament backs extension of parental leave: what changes? (Euronews, [19 minutes ago](https://www.euronews.com/2026/10/14/portuguese-parliament-backs-extension-of-parental-leave-what-changes))
-- Ukraine blindsided by Starlink restrictions and intelligence gaps (FT, [21 minutes ago](https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75?syn-25a6b1a6=1))
-- Iran executes man accused of armed attacks during US-Israeli strikes (Euronews, [28 minutes ago](https://www.euronews.com/2026/10/14/iran-executes-man-accused-of-armed-attacks-during-us-israeli-strikes))
-- Former Ukrainian military officer to stand trial in Germany over Nord Stream sabotage (Euronews, [32 minutes ago](https://www.euronews.com/2026/10/14/former-ukrainian-military-officer-to-stand-trial-in-germany-over-nord-stream-sabotage))
-- As the US and China race ahead in AI, France carves its own path with Nvidia’s help (Euronews, [37 minutes ago](https://www.euronews.com/2026/10/14/as-the-us-and-china-race-ahead-in-ai-france-carves-its-own-path-with-nvidias-help))
-- Crypto exchange Kraken owner to buy European bank (FT, [39 minutes ago](https://www.ft.com/content/8e82ae33-cc11-4731-826a-bcd0752f79bf?syn-25a6b1a6=1))
-- Albania: Student protests in Tirana turn violent as Flamingo Revolution escalates (Euronews, [47 minutes ago](https://www.euronews.com/video/2026/10/14/albania-student-protests-in-tirana-turn-violent-as-flamingo-revolution-escalates))
-- Duane Davis gets minimum 40 years in prison for orchestrating murder of Tupac Shakur (Euronews, [1 hours ago](https://www.euronews.com/2026/10/14/duane-davis-gets-minimum-40-years-in-prison-for-orchestrating-murder-of-tupac-shakur))
-- Houthis strike Saudi Aramco headquarters (FT, [1 hours ago](https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1))
-- These are the best holiday destinations in Europe for embracing a longevity lifestyle (Euronews, [1 hours ago](https://www.euronews.com/2026/10/14/these-are-the-best-holiday-destinations-in-europe-for-embracing-a-longevity-lifestyle))
-- The AI math isn't mathing as infrastructure spending forecast to outstrip expected revenue (Register, [1 hours ago](https://www.theregister.com/on-prem/2026/10/14/the-ai-math-isnt-mathing-as-infrastructure-spending-forecast-to-outstrip-expected-revenue/5302856))
-- ASML posts record €11.7 billion in sales but warns it can’t keep up with AI demand (Euronews, [1 hours ago](https://www.euronews.com/2026/10/14/asml-posts-record-117-billion-in-sales-but-warns-it-cant-keep-up-with-ai-demand))
-- UK government chases AI while aging IT leaves it exposed, PAC chair warns (Register, [1 hours ago](https://www.theregister.com/public-sector/2026/10/14/uk-government-chases-ai-while-aging-it-leaves-it-exposed-pac-chair-warns/5302674))
-- It won't kill you, or humanity, to get off the AI upgrade treadmill (Register, [2 hours ago](https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778))
-- The Daily Hilario: Questings of Vision(s) (WAGNH, [2 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173011/the-daily-hilario-questings-of-visions))
-- Stamford Bridge hosting Shakhtar’s Champions League matches, starting tonight (WAGNH, [3 hours ago](https://weaintgotnohistory.sbnation.com/around-europe/173004/stamford-bridge-hosting-shakhtars-champions-league-matches-starting-tonight))
-- AI demand to exceed supply for 2 more years, says ASML (FT, [3 hours ago](https://www.ft.com/content/2fc239ae-b0d4-41e8-81d0-cc2c0b3aba01?syn-25a6b1a6=1))
-- AFC Bournemouth ‘open to offers’ in January for Alex Scott — report (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/172996/afc-bournemouth-open-to-offers-in-january-for-alex-scott-report))
-- Ransomware gets personal: 'We-know-where-you-are kind of stuff' (Register, [5 hours ago](https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939))
-- Marine Le Pen vows ‘trial of strength’ with EU (FT, [6 hours ago](https://www.ft.com/content/60d09841-052a-44f3-a8ae-52c38fdbb5ab?syn-25a6b1a6=1))
-- The art of living dangerously (FT, [6 hours ago](https://www.ft.com/content/5e6d1d30-0934-4fda-b2c0-27b0d96aeba3?syn-25a6b1a6=1))
-- How Ukraine’s data centre strikes threw Russia into turmoil (FT, [6 hours ago](https://www.ft.com/content/dc21da0b-25b7-402e-8dbe-e7d9f7431b93?syn-25a6b1a6=1))
-- Military briefing: Houthis expose limits of Saudi Arabia’s vast arsenal (FT, [6 hours ago](https://www.ft.com/content/afa0a322-ad2a-4d49-aa0e-81f15a01c3a7?syn-25a6b1a6=1))
-- How I used AI to become a chess grandmaster at 16 (FT, [6 hours ago](https://www.ft.com/content/8267236e-f4bb-4d7b-9ed7-6ec0a9867b94))
-- Anthropic reinvents source control as Claude floods the world with code (Register, [11 hours ago](https://www.theregister.com/devops/2026/10/13/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code/5302943))
-- Updated Apple Developer Program License Agreement now available (Apple, [12 hours ago](https://developer.apple.com/news/?id=17mwd36z))
-- CISA director touts private partnerships after agency killed many (Register, [13 hours ago](https://www.theregister.com/public-sector/2026/10/13/cisa-director-touts-private-partnerships-after-agency-killed-many/5302920))
-- OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt (Register, [13 hours ago](https://www.theregister.com/ai-and-ml/2026/10/13/openais-dot-assistant-burned-300k-tokens-in-a-day-without-a-single-prompt/5302913))
-- Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks (Register, [14 hours ago](https://www.theregister.com/ai-and-ml/2026/10/13/apple-unleashes-a-swarm-of-mac-minions-to-share-gpu-resources-for-large-ai-tasks/5302891))
-- EFL Trophy report: Reading 0-2 Cobham Next Gen (CFC, [15 hours ago](https://www.chelseafc.com/en/news/article/efl-trophy-report-reading-0-2-cobham-next-gen))
-- Training gallery: Working at Cobham! (CFC, [16 hours ago](https://www.chelseafc.com/en/news/article/training-gallery-working-at-cobham))
-- Claude submitted fake murder tip to Philly police during summertime testing (Register, [16 hours ago](https://www.theregister.com/security/2026/10/13/claude-submitted-fake-murder-tip-to-philly-police-during-summertime-testing/5302842))
-- Under-18 Premier League report: Reading 0-3 Chelsea (CFC, [19 hours ago](https://www.chelseafc.com/en/news/article/under-18-premier-league-report-reading-0-3-chelsea))
+- IMF warns attacks on Saudi Arabia could hurt global economy after strike on Aramco headquarters (Euronews, [4 minutes ago](https://www.euronews.com/2026/10/15/imf-warns-attacks-on-saudi-arabia-could-hurt-global-economy-after-strike-on-aramco-headqua))
+- UK's hard-right Reform party hit by fresh scandal as racist views caught on camera (Euronews, [24 minutes ago](https://www.euronews.com/2026/10/15/uks-hard-right-reform-party-hit-by-fresh-scandal-as-racist-views-caught-on-camera))
+- El Niño vs climate change: Which had more influence over the powerful Hurricane Polo? (Euronews, [24 minutes ago](https://www.euronews.com/2026/10/15/el-nino-vs-climate-change-which-had-more-influence-over-the-powerful-hurricane-polo))
+- Global stocks sell-off deepens as chipmakers tumble (FT, [28 minutes ago](https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1))
+- Mental health at work starts by breaking the taboo, EU agency says (Euronews, [30 minutes ago](https://www.euronews.com/2026/10/15/mental-health-at-work-starts-by-breaking-the-taboo-eu-agency-says))
+- US floats unfreezing some Russian assets to restart Ukraine peace talks (FT, [32 minutes ago](https://www.ft.com/content/54353d3a-afed-4fec-985a-50f3dfb9be8e?syn-25a6b1a6=1))
+- UK keeps AI safeguards in the maybe pile for Cyber Security BIll (Register, [37 minutes ago](https://www.theregister.com/ai-and-ml/2026/10/15/uk-keeps-ai-safeguards-in-the-maybe-pile-for-cyber-security-bill/5303026))
+- Ukraine to resume strikes on Russian refineries, Zelenskyy says (FT, [41 minutes ago](https://www.ft.com/content/4d79b52f-1f0d-4739-82ab-7ecfb4251326?syn-25a6b1a6=1))
+- Anthropic revenue jumps 46% to $16.8bn as AI firm eyes record $2 trillion IPO valuation (Euronews, [54 minutes ago](https://www.euronews.com/2026/10/15/anthropic-revenue-jumps-46-to-168bn-as-ai-firm-eyes-record-2-trillion-ipo-valuation))
+- Chipmaker TSMC profits surge amid relentless AI demand (FT, [57 minutes ago](https://www.ft.com/content/bf6808c6-ce2d-444f-86c9-a9b557b36a47?syn-25a6b1a6=1))
+- New J.K. Rowling documentary set to explore ‘polarising’ Harry Potter author (Euronews, [1 hours ago](https://www.euronews.com/2026/10/15/new-jk-rowling-documentary-set-to-explore-polarising-harry-potter-author))
+- Royal Navy goes fishing for suppliers to build its Type 93 robot submarine (Register, [1 hours ago](https://www.theregister.com/offbeat/2026/10/15/royal-navy-goes-fishing-for-suppliers-to-build-its-type-93-robot-submarine/5303038))
+- Pope Leo XIV has 'good night' in hospital after lung surgery, Vatican says (Euronews, [1 hours ago](https://www.euronews.com/2026/10/15/pope-leo-xiv-has-good-night-in-hospital-after-lung-surgery-vatican-says))
+- China and North Korea open New Yalu River Bridge after 12-year delay (Euronews, [1 hours ago](https://www.euronews.com/video/2026/10/15/china-and-north-korea-open-new-yalu-river-bridge-after-12-year-delay))
+- Pan Am-inspired cruise set to launch in 2027 to mark airline’s 100th anniversary (Euronews, [1 hours ago](https://www.euronews.com/2026/10/15/pan-am-inspired-cruise-set-to-launch-in-2027-to-mark-airlines-100th-anniversary))
+- EU enlargement is the bloc’s “most powerful” geostrategic instrument, says Austrian Foreign Minister (Euronews, [1 hours ago](https://www.euronews.com/video/2026/10/15/eu-enlargement-is-the-blocs-most-powerful-geostrategic-instrument-says-austrian-foreign-mi))
+- Metropolitan Police's unchecked use of shoplifting platform lands force in trouble with data watchdog (Register, [2 hours ago](https://www.theregister.com/security/2026/10/15/metropolitan-polices-unchecked-use-of-shoplifting-platform-lands-force-in-trouble-with-data-watchdog/5303061))
+- Jev and other decision models can still be tricked with prompt injection (Register, [3 hours ago](https://www.theregister.com/ai-and-ml/2026/10/15/jev-and-other-decision-models-can-still-be-tricked-with-prompt-injection/5303184))
+- How a private equity investment analyst might view BlueCo’s acquisition of Chelsea (WAGNH, [3 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-finances/173034/how-a-private-equity-investment-analyst-might-view-bluecos-acquisition-of-chelsea))
+- London’s gold market enjoys the Trump effect (FT, [5 hours ago](https://www.ft.com/content/bbb1d399-e91c-4600-9882-ea93e1f96ac9?syn-25a6b1a6=1))
+- Marsh to pay biggest share of $800mn settlement with Credit Suisse over Greensill collapse (FT, [5 hours ago](https://www.ft.com/content/43c9d38a-652a-45df-b3be-c3dead3390f1?syn-25a6b1a6=1))
+- The man who would lead McKinsey (FT, [5 hours ago](https://www.ft.com/content/ff917929-c68e-4bf6-b77f-ee1f7d675934?syn-25a6b1a6=1))
+- Is the K-shaped economy really more of an E? (FT, [5 hours ago](https://www.ft.com/content/2feb3013-c01a-4fa6-aa11-67354fb71cc8?syn-25a6b1a6=1))
+- French debt worries spill into stocks, driving biggest underperformance since 2010 (FT, [5 hours ago](https://www.ft.com/content/69bfdf93-cbba-477c-9fb0-5978d1d4f506?syn-25a6b1a6=1))
+- Anthropic tells investors its quarterly revenue jumped 50% (FT, [8 hours ago](https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1))
+- Cisco make-me-root email bug exploited as a 0-day by unknown crims (Register, [12 hours ago](https://www.theregister.com/security/2026/10/14/cisco-make-me-root-email-bug-exploited-as-a-0-day-by-unknown-crims/5303168))
+- Chaos ensues when AI interviewer meets AI interviewee (Register, [12 hours ago](https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144))
+- Linux kernel devs drop obligatory confession of AI tool usage (Register, [13 hours ago](https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140))
+- Security researchers spent 6 days doing their Chromework, built 1B user exploit (Register, [14 hours ago](https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134))
+- Ivanti patches Connect Secure zero-day after researchers confirm in-the-wild attacks (Register, [16 hours ago](https://www.theregister.com/security/2026/10/14/ivanti-patches-connect-secure-zero-day-after-researchers-confirm-in-the-wild-attacks/5303095))
+- Leap seconds face judgment day as time lords prepare to vote (Register, [17 hours ago](https://www.theregister.com/offbeat/2026/10/14/leap-seconds-face-judgment-day-as-time-lords-prepare-to-vote/5303082))
 
 <!-- news_marker ends -->
 
@@ -133,7 +110,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
-> wheal - noun: A small swelling on the skin, as from an insect bite, an allergic reaction, or a blow.
+ > exute - verb tr.: To strip or deprive of something.
 
 <!-- word_marker ends -->
 
@@ -141,38 +118,35 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> Innovation distinguishes between a leader and a follower - Steve Jobs
+> When forced to work within a strict framework the imagination is taxed to its utmost - and will produce its richest ideas. Given total freedom the work is likely to sprawl. - T. S. Eliot, Poet
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-
-> What would your closest friend do?
+> A line has two sides
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-
-- Frenzy (Rated: 6)
-- Released in 1972
-- Summary: A serial murderer is strangling women with a necktie. The London police have a suspect, but he is the wrong man.
-
+- Run Hide Fight (Rated: 6)
+- Released in 2020
+- Summary: Zoe Hull, 17, uses her wits, survival skills, and compassion to fight for her life, and the lives of her classmates, against a group of live-streaming school shooters.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 425, using [1, 5, 7, 8, 9, 25]
-- Answer: 25 solutions.
+- Target: 758, using [4, 5, 8, 10, 50, 100]
+- Answer: 29 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 9 + 8 ) x 25
+  Solution: ( ( 50 - 8 - 4 ) x 100 - 10 ) / 5
 
    </details>
 
@@ -181,11 +155,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-
-- Troy Hunt [URL](https://www.troyhunt.com/) [Feed](https://www.troyhunt.com/rss/)
-- Dan Q [URL](https://danq.me/) [Feed](https://danq.me/feed/)
-- Brennan Brown [URL](https://brennan.day/) [Feed](https://brennan.day/feed.xml)
-- Mike Swanson [URL](https://blog.mikeswanson.com/) [Feed](https://blog.mikeswanson.com/feed/)
-- Cupertino Lens [URL](https://cupertinolens.com/) [Feed](https://cupertinolens.com/feed/)
-
+- David Cramer [URL](https://cra.mr/) [Feed](https://cra.mr/rss.xml)
+- Ricky Mondello [URL](https://rmondello.com/) [Feed](https://rmondello.com/feed/)
+- Vlad's Website [URL](https://vlad.website/) [Feed](https://vlad.website/index.xml)
+- Chris Shaw [URL](https://thoughts.uncountable.uk/) [Feed](https://thoughts.uncountable.uk/feed)
+- Non-zero Sum [URL](https://nonzerosum.games/) [Feed](https://nonzerosum.games/rss.xml)
 <!-- blogroll_marker ends -->
