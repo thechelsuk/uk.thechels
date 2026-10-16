@@ -4,6 +4,7 @@ title: My Operating Manual
 seo_title: "My Operating Manual - Leadership Style and Principles"
 seo_description: "My personal operating manual: principles, leadership philosophy, how I like to work and communicate, and how to get the best out of working with me."
 permalink: /manual
+last_modified_at: "2026-10-04"
 ---
 
 ## General Principles

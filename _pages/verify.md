@@ -4,6 +4,7 @@ title: Verify - Identity Verification and Authentication
 seo_title: "Verify - Official Accounts and Identity of thechelsuk"
 seo_description: "The system of record for my online identity. My official accounts, domains and PGP key; anything else claiming to be thechelsuk is an impersonator."
 permalink: /verify
+last_modified_at: "2026-10-04"
 ---
 
 This page serves as the system of record for my online identity. The best places to follow me are:

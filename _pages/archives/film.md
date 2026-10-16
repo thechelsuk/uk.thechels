@@ -6,6 +6,7 @@ seo_description: "Monthly film club posts: a short list of films I watched each 
 permalink: /archives/film
 date: 2026-01-01
 type: film
+last_modified_at: "2026-10-04"
 ---
 
 Every month Where I am able to watch I write up a short list of them and add some commentary.

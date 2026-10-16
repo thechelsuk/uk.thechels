@@ -4,6 +4,7 @@ title: Green credentials and decarbonisation
 seo_title: "Green Credentials - Carbon Footprint and Net Zero"
 seo_description: "My green credentials: personal and home carbon emissions, a low-carbon website on green hosting, and the everyday habits I use to work towards net zero."
 permalink: /green
+last_modified_at: "2026-10-04"
 ---
 
 ## Calculator

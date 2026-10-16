@@ -4,6 +4,7 @@ title: My Disabilities Explained
 seo_title: "My Disabilities Explained - Living With ME/CFS and MCAS"
 seo_description: "Living with ME/CFS and MCAS: what the conditions are, the symptoms, being largely housebound, and how they affect daily life, work and energy."
 permalink: /disability
+last_modified_at: "2026-10-05"
 ---
 
 ![Taken in February 2026 wearing a heavy duty welding goggles to block out light and resting with a large blanket and pillow in a seated position. A moody self portrait in monochrome with the subject slightly out of focus.](/images/me-2025-02-1024.webp){:center}

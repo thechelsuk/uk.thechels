@@ -6,6 +6,7 @@ seo_description: "An archive of posts about Chelsea FC, including my writing, st
 tagged: chelsea
 permalink: /tag/chelsea
 date: 2026-01-01
+last_modified_at: "2026-10-04"
 ---
 
 A list of posts that are related to Chelsea including archives of my writing or interviews on other websites.

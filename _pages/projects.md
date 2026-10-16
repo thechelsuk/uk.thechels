@@ -5,6 +5,7 @@ seo_title: "Projects - iOS Apps, Plugins, Scripts and Tools"
 seo_description: "My software side projects: free iOS apps, browser extensions, Jekyll plugins, scripts and web tools, most released as open source under MIT."
 permalink: /projects
 type: release
+last_modified_at: "2026-10-04"
 ---
 
 ## Tip

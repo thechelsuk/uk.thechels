@@ -5,6 +5,7 @@ seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
 date: 2026-10-16
+last_modified_at: "2026-10-16"
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -55,9 +56,9 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 139.57000732421875 
-- ^FTSE : 10825.7900390625 
-- ^FTMC : 24552.390625 
+- VWRL.L : 139.57000732421875
+- ^FTSE : 10825.7900390625
+- ^FTMC : 24552.390625
 
 <!-- stocks_marker ends -->
 

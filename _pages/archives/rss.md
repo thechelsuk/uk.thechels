@@ -6,6 +6,7 @@ seo_description: "A list of posts published only to the RSS feed, not on the web
 permalink: /archives/rss
 date: 2026-01-01
 type: rss
+last_modified_at: "2026-10-04"
 ---
 
 A list of posts sent to RSS only, so obviously not published here.

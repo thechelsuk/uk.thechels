@@ -6,6 +6,7 @@ seo_description: "A historic archive of football statistics posts, mostly Chelse
 tagged: stats
 permalink: /tag/stats
 date: 2026-01-01
+last_modified_at: "2026-10-04"
 ---
 
 An historic archive list of posts that are related to football statistics.

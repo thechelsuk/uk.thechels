@@ -6,6 +6,7 @@ seo_description: "Today I Learned: short posts on things I picked up that are no
 permalink: /archives/til
 date: 2026-01-01
 type: til
+last_modified_at: "2026-10-04"
 ---
 
 A list of posts about things I learned that are not worthy of a regular blog post, but I want to remember and share.

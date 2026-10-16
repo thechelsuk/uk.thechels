@@ -6,6 +6,7 @@ seo_description: "Ways: how-to guides and step-by-step explainers on tech and ev
 permalink: /archives/ways
 date: 2026-01-01
 type: ways
+last_modified_at: "2026-10-04"
 ---
 
 A list of posts that are guides and step-by-step explainers on various topics. The idea is to have a single place for reference for instructions on how to do things, and to help guide me when I forget, particularly as my cognitive decline continues to fluctuate.

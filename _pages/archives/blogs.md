@@ -6,6 +6,7 @@ seo_description: "Every blog post on thechels.uk: life with ME/CFS, financial in
 permalink: /archives/blog
 date: 2026-01-01
 type: blog
+last_modified_at: "2026-10-04"
 ---
 
 Every post on thechels.uk. Writing on chronic illness and life with ME/CFS, financial independence (FIRE) in the UK, engineering leadership and coaching, football, and the occasional recipe.

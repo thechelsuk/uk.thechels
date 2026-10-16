@@ -6,6 +6,7 @@ seo_description: "Every monthly mixtape: playlists of songs I have been listenin
 permalink: /archives/mixtape
 date: 2026-01-01
 type: mixtape
+last_modified_at: "2026-10-04"
 ---
 
 Every month I put together a playlist of songs I've been listening to. These are often a varied mix across a broad range of genres, with a base in the 1990s. The playlists are available on [Apple Music](https://music.apple.com/gb/profile/thechelsuk).

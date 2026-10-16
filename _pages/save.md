@@ -4,6 +4,7 @@ title: Savings, Offers, and Discounts
 seo_title: "Savings, Offers, Referrals and Discount Codes"
 seo_description: "Referral links, discount codes and offers for services I use and recommend, plus my own apps and ways to support me. Terms and conditions apply."
 permalink: /save
+last_modified_at: "2026-10-04"
 ---
 
 Terms and conditions apply, so please see links for details.
