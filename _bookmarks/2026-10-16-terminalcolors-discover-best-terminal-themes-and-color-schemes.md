@@ -8,6 +8,3 @@ layout: bookmark
 ---
 
 > Terminal themes, very nice.
-
-Cited: <|cited>
-Date: 2026-10-16 11:59
