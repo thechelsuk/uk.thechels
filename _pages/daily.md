@@ -13,6 +13,7 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Friday, 16 October 2026
 
 - The average temperature today is 11.86˚C,
@@ -27,6 +28,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 169 days since the last change (2026-04-30)
 
@@ -35,21 +37,27 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Think aptitude and attitude.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Nottingham Forest U21 v Manchester United U21
 - Stoke City U21 v Chelsea U21
 - Burnley v Wolves
+
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -65,12 +73,15 @@ _Good Morning, Here is your daily briefing..._
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > A former girlfriend, who was a pyromaniac, tried to reignite our relationship. She was an old flame, but I was able to blow her off.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Military signals building: Is the US-Iran war about to escalate? (Euronews, [8 minutes ago](https://www.euronews.com/2026/10/16/military-signals-building-is-the-us-iran-war-about-to-escalate))
 - EU leaders demand joint action to tackle soaring energy prices (Euronews, [16 minutes ago](https://www.euronews.com/2026/10/16/eu-leaders-demand-joint-action-to-tackle-soaring-energy-prices))
 - Fed’s Warsh sees AI boosting productivity but gives no signal on next rate hike (Euronews, [17 minutes ago](https://www.euronews.com/2026/10/16/feds-warsh-sees-ai-boosting-productivity-but-gives-no-signal-on-next-rate-hike))
@@ -112,7 +123,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > irrupt - verb intr.: 1. To burst or break in. 2. (Of a population) To increase suddenly in number.
+> irrupt - verb intr.: 1. To burst or break in. 2. (Of a population) To increase suddenly in number.
 
 <!-- word_marker ends -->
 
@@ -127,6 +138,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Turn it upside down
 
 <!-- eno_marker ends -->
@@ -134,9 +146,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - The Helpers (Rated: 5)
 - Released in 2012
 - Summary: N/A
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -157,9 +171,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Brendan Dawes [URL](http://brendandawes.com/blog) [Feed](http://brendandawes.com/blog/feed)
 - Jake Archibald [URL](https://jakearchibald.com/) [Feed](https://jakearchibald.com/posts.rss)
 - The 5k Runner [URL](https://the5krunner.com/) [Feed](http://the5krunner.com/feed/)
 - Aaron Gustafson [URL](https://www.aaron-gustafson.com/) [Feed](https://www.aaron-gustafson.com/feeds/all.xml)
 - Emily Webber [URL](https://emilywebber.co.uk/) [Feed](http://emilywebber.co.uk/feed/)
+
 <!-- blogroll_marker ends -->
