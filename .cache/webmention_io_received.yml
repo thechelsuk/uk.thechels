@@ -5938,9 +5938,78 @@
 "/2026-10-13-daily-rundown": {}
 "/mltply-release-b0e88b310f8e": {}
 "/mltply-release-cd059f1dc403": {}
-"/i-built-a-free-open-data-site-for-cheltenham": {}
+"/i-built-a-free-open-data-site-for-cheltenham":
+  '2040531':
+    id: '2040531'
+    uri: https://nuchronic.uk/item/i-built-a-free-open-data-site-for-my-town-712b1f5504/
+    source: false
+    pubdate: 2026-10-14 09:00:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/i-built-a-free-open-data-site-for-my-town-712b1f5504/
+      verified: true
+      verified_date: '2026-10-14T15:02:28+00:00'
+      id: 2040531
+      private: false
+      data:
+        author: &93
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://nuchronic.uk/assets/icons/apple-touch-icon.png
+        url: https://nuchronic.uk/item/i-built-a-free-open-data-site-for-my-town-712b1f5504/
+        name: I Built a Free Open Data Site for My Town
+        content: "<p>For the last couple of months a lot of my spare time has gone
+          into Cheltenham Open Data . It started because I wanted one place to check
+          things about where I…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/i-built-a-free-open-data-site-for-cheltenham\">thechels.uk</a>.</p>"
+        published: '2026-10-14T08:00:00+00:00'
+        published_ts: 1791964800
+      activity:
+        type: link
+      rels:
+        canonical: https://thechels.uk/i-built-a-free-open-data-site-for-cheltenham
+      target: https://thechels.uk/i-built-a-free-open-data-site-for-cheltenham
+    author: *93
+    type: link
+    title: I Built a Free Open Data Site for My Town
+    content: "<p>For the last couple of months a lot of my spare time has gone into
+      Cheltenham Open Data . It started because I wanted one place to check things
+      about where I…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/i-built-a-free-open-data-site-for-cheltenham\">thechels.uk</a>.</p>"
 "/2026-10-14-daily-rundown": {}
-"/unsettled-app-launched": {}
+"/unsettled-app-launched":
+  '2040570':
+    id: '2040570'
+    uri: https://nuchronic.uk/item/unsettled-app-launched-4d64e3fcb5/
+    source: false
+    pubdate: 2026-10-14 13:00:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/unsettled-app-launched-4d64e3fcb5/
+      verified: true
+      verified_date: '2026-10-14T15:02:24+00:00'
+      id: 2040570
+      private: false
+      data:
+        author: &94
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://nuchronic.uk/assets/icons/apple-touch-icon.png
+        url: https://nuchronic.uk/item/unsettled-app-launched-4d64e3fcb5/
+        name: Unsettled App Launched
+        content: "<p>Unsettled is out. It’s an escape game hidden in an ordinary-looking
+          phone: a blank screen, a mail icon with one unread message, and every message
+          from Unsett…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/unsettled-app-launched\">thechels.uk</a>.</p>"
+        published: '2026-10-14T12:00:00+00:00'
+        published_ts: 1791979200
+      activity:
+        type: link
+      rels:
+        canonical: https://thechels.uk/unsettled-app-launched
+      target: https://thechels.uk/unsettled-app-launched
+    author: *94
+    type: link
+    title: Unsettled App Launched
+    content: "<p>Unsettled is out. It’s an escape game hidden in an ordinary-looking
+      phone: a blank screen, a mail icon with one unread message, and every message
+      from Unsett…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/unsettled-app-launched\">thechels.uk</a>.</p>"
 "/homebridge-ysa2-yale-alarm-release-8d10059d5629": {}
 "/2026-10-15-daily-rundown": {}
 "/video-unsettled-out-now-most-people-cannot-get-to-chapter-2-08281dbf": {}
