@@ -8,6 +8,7 @@ permalink: /tag/me
 redirect_from:
   - /tag/me
 date: 2026-01-01
+last_modified_at: "2026-10-04"
 ---
 
 Personal writing on living with Myalgic Encephalomyelitis (ME), also known as Chronic Fatigue Syndrome (CFS) and ME/CFS. These posts cover symptoms like post-exertional malaise (PEM), day-to-day management, sleep and pacing, NHS specialist care and the UK ME/CFS Delivery Plan, disability benefits, and honest reflections on chronic illness.

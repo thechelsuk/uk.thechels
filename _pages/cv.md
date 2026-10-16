@@ -4,6 +4,7 @@ title: Your Favourite Engineering Leader
 seo_title: "CV - Engineering Leader, Agile Coach and Developer"
 seo_description: "CV of an experienced engineering leader: people development, agile delivery, technical roadmaps and architecture, plus core skills and career history."
 permalink: /cv
+last_modified_at: "2026-10-04"
 ---
 
 <!-- markdownlint-disable MD033 -->

@@ -6,6 +6,7 @@ seo_description: "UK personal finance and FIRE with real numbers: ISAs, SIPPs, r
 tagged: finance
 permalink: /tag/finance
 date: 2026-08-01
+last_modified_at: "2026-10-04"
 ---
 
 UK personal finance, investing, and FIRE (Financial Independence, Retire Early) — worked through with real numbers, not just theory. I share my own figures on ISAs, SIPPs, retirement bridges, and the maths behind cash vs stocks, so you can see exactly how the decisions play out.

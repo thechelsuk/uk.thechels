@@ -6,6 +6,7 @@ seo_description: "An archive of ticket posts for gigs, concerts and live events 
 permalink: /archives/ticket
 date: 2026-01-01
 type: ticket
+last_modified_at: "2026-10-04"
 ---
 
 A list of gigs/concerts I've seen live.

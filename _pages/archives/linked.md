@@ -6,6 +6,7 @@ seo_description: "An archive of link-blog posts: interesting articles from aroun
 permalink: /archives/linked
 date: 2026-01-01
 type: linked
+last_modified_at: "2026-10-04"
 ---
 
 Some quote link-blogging style posts where I share an interesting link and provide some commentary. Here is a list of all of those.

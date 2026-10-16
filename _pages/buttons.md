@@ -5,6 +5,7 @@ seo_title: "Buttons - Retro 88x31 Web Badges and Links"
 seo_description: "A collection of old-school 88x31 web buttons and badges for thechels.uk and friends of the site. Free to use when linking to this website."
 permalink: /buttons
 description: Buttons and links
+last_modified_at: "2026-10-04"
 ---
 
 A collection of the old-school 88x31 style buttons etc

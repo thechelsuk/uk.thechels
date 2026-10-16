@@ -6,6 +6,7 @@ seo_description: "An archive of indoor cycling rides logged on Zwift, with dista
 permalink: /archives/ride
 date: 2026-01-01
 type: ride
+last_modified_at: "2026-10-04"
 ---
 
 Rides on Zwift that I have logged.

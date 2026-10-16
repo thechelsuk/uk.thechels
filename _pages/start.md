@@ -4,6 +4,7 @@ title: Start - Getting started with the thechelsuk
 seo_title: "Start Here - A Guide to thechels.uk and Weak Notes"
 seo_description: "New here? A quick guide to thechels.uk: who I am, the slash pages, free apps and tools, what Weak Notes means, and a few hidden easter eggs to find."
 permalink: /start
+last_modified_at: "2026-10-04"
 ---
 
 Thanks for checking my little corner of the internet.

@@ -4,6 +4,7 @@ permalink: /.well-known/change-password
 title: Change Password
 seo_title: "Change Password - Well-Known URL for Password Managers"
 seo_description: "Why thechels.uk has a change password page despite having no logins: it follows the W3C .well-known change-password URL standard for password managers."
+last_modified_at: "2026-10-04"
 ---
 
 Yeh, no. This is a problem. This website doesn't have any form of membership, login, authentication, nor backend.

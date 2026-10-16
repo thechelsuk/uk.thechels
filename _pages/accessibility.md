@@ -4,6 +4,7 @@ title: Accessibility Statement
 seo_title: "Accessibility Statement for thechels.uk"
 seo_description: "Accessibility statement for thechels.uk: WCAG 2.1 AA conformance, how pages are tested with ARC Toolkit and Lighthouse, and how to report issues."
 permalink: /accessibility
+last_modified_at: "2026-10-04"
 ---
 
 This is an accessibility statement for thechels.uk.

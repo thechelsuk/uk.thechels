@@ -4,6 +4,7 @@ title: AI - Statement on Usage
 seo_title: "AI Usage Statement - How I Use AI on This Site"
 seo_description: "How and why I use AI to help write code, check spelling and maintain this site due to disability, and why every opinion and word published is my own."
 permalink: /ai
+last_modified_at: "2026-10-04"
 ---
 
 Due to my [disability](/disability) I have become more reliant on AI to help support me in maintaining my online presence and this website, my public second brain.

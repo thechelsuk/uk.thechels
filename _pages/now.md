@@ -4,6 +4,7 @@ title: What I am Doing Now
 seo_title: "Now - What I Am Doing Now and What Comes Next"
 seo_description: "A now page, inspired by Derek Sivers, sharing what I am focused on at the moment and what comes next, currently pacing and resting with ME/CFS."
 permalink: /now
+last_modified_at: "2026-10-04"
 ---
 
 ## Now
