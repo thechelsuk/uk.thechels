@@ -10,6 +10,7 @@ syndicate:
   - bluesky
   - indie (syndicates to indiewebnews)
   - rss (syndicates to rss.chat)
+  - devnull (syndicates to dev-null.sh)
 ---
 
 content

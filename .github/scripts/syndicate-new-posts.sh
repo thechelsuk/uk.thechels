@@ -19,6 +19,9 @@ textlog_api_url="${TEXTLOG_API_URL:-https://textlog.cc/api/v1}"
 textlog_api_url="${textlog_api_url%/}"
 textlog_token="${TEXTLOG_TOKEN:-}"
 
+devnull_url="${DEVNULL_URL:-https://dev-null.sh}"
+devnull_ssh_key="${DEVNULL_SSH_KEY:-}"
+
 # Bridgy-publish targets: front-matter token -> brid.gy publish path
 bridgy_targets=(mastodon bluesky)
 
@@ -205,6 +208,42 @@ syndicate_to_textlog() {
   fi
 }
 
+# Commits "title + link" to dev-null.sh with its own terminal script, signed with
+# DEVNULL_SSH_KEY. The key goes in a throwaway HOME so it's the only one the script sees.
+syndicate_to_devnull() {
+  local source_url="$1"
+  local title="$2"
+  local home
+  local body
+  local output
+
+  if [[ -z "$devnull_ssh_key" ]]; then
+    echo "  devnull: skipped (secret not set)"
+    return 0
+  fi
+
+  # dev-null.sh takes at most 280 characters.
+  local room=$((280 - ${#source_url} - 2))
+  (( ${#title} > room )) && title="${title:0:$((room - 1))}…"
+  body="${title}"$'\n\n'"${source_url}"
+
+  home="$(mktemp -d)"
+  mkdir -m 700 "$home/.ssh"
+  printf '%s\n' "$devnull_ssh_key" > "$home/.ssh/devnull"
+  chmod 600 "$home/.ssh/devnull"
+
+  if ssh-keygen -y -f "$home/.ssh/devnull" > "$home/.ssh/devnull.pub" 2> /dev/null \
+    && curl -fsSL "${devnull_url}/commit" -o "$home/commit.sh" \
+    && output="$(env -u SSH_AUTH_SOCK HOME="$home" DEVNULL_URL="$devnull_url" bash "$home/commit.sh" "$body" 2>&1)"; then
+    echo "  devnull: ${output}"
+    rm -rf "$home"
+  else
+    echo "  devnull: FAILED - ${output:-could not load the key or the dev-null.sh script}"
+    rm -rf "$home"
+    return 1
+  fi
+}
+
 if [[ "$before_sha" == "0000000000000000000000000000000000000000" ]]; then
   echo "No previous commit range available, skipping syndication."
   exit 0
@@ -244,6 +283,12 @@ for file in "${new_posts[@]}"; do
     syndicate_to_textlog "$source_url" "$title" || exit_code=1
   else
     echo "  textlog: skipped"
+  fi
+
+  if front_matter_list_contains syndicate devnull "$file"; then
+    syndicate_to_devnull "$source_url" "$title" || exit_code=1
+  else
+    echo "  devnull: skipped"
   fi
 done
 
