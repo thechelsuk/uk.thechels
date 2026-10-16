@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-10-16 10:54
 title: Reddit to Remove RSS
 link: https://mjtsai.com/blog/2026/10/06/reddit-to-remove-rss/
 cited: Michael Tsai
 type: linked
-
 ---
 
 Reddit hates accessibility, pass it on.
