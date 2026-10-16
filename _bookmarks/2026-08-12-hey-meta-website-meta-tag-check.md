@@ -8,5 +8,3 @@ layout: bookmark
 ---
 
 > Check your meta html tags with this handy tool/website
-
-Date: 2026-08-10 23:36
