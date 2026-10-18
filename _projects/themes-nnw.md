@@ -8,13 +8,15 @@ class: themes
 i_name: Install
 i_url: "https://github.com/thechelsuk/nnw-themes"
 summary: "Theme bundle for the NetNewsWire RSS reader app that contains a number of light, dark, and adjustable themes."
-v-thechelsuk: 3.1.0
+v-thechelsuk: 3.2.1
 type: wrench
 ---
 
 If you use NetNewsWire, you can use my themes as listed below. All themes are free and open source, and you can find the source code on GitHub. Just Click the link on your device that has NNW installed and follow the prompts to install the theme.
 
 Checkout the [releases archive](/archives/release) for the latest versions and changelogs
+
+and <https://themes-nnw.thechels.uk/> for previews and download links
 
 ## Theme Pack
 
@@ -27,5 +29,5 @@ Checkout the [releases archive](/archives/release) for the latest versions and c
 - [Install Retro directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Retro.zip)
 - [Install Fresh directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Fresh.zip)
 - [Install Magda directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Magda.zip)
-- [Install Magda directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Magda.zip)
-- [Install Claudio directly in NNW](netnewswire://theme/add?url=<https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Claudio> .zip)
+- [Install Claudio directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Claudio.zip)
+- [Install Franco directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Franco.zip)
