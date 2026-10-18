@@ -4,6 +4,7 @@ syndicate:
   - mastodon
   - bluesky
   - textlog
+  - devull
 date: 2026-10-18 08:00
 title: Seven One-to-One Questions That Go Deeper Than "How's It Going?"
 seo_title: "Seven Better One-to-One Questions for Engineering Managers"
