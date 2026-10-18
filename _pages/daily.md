@@ -13,6 +13,7 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Saturday, 17 October 2026
 
 - The average temperature today is 8.06˚C,
@@ -27,6 +28,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 170 days since the last change (2026-04-30)
 
@@ -35,6 +37,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Water the plants
 
 <!-- task_marker ends -->
@@ -42,12 +45,15 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Seek the best.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Ipswich Town U18 v Crystal Palace U18
 - Nottingham Forest U18 v Manchester United U18
 - West Brom U18 v Chelsea U18
@@ -62,27 +68,31 @@ _Good Morning, Here is your daily briefing..._
 - Everton v Chelsea
 - Arsenal Women v Birmingham City Women
 - Newcastle United v Aston Villa
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 138.77999877929688 
-- ^FTSE : 10881.900390625 
-- ^FTMC : 24533.900390625 
+- VWRL.L : 138.77999877929688
+- ^FTSE : 10881.900390625
+- ^FTMC : 24533.900390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Why did the blues man cross the road? To get from A to B#7
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Amazon wants you to Bee-lieve wearable AI can recall it all for you (Register, [18 minutes ago](https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569))
 - North Korea says it tested new AI-powered torpedo system (Euronews, [1 hours ago](https://www.euronews.com/2026/10/17/north-korea-says-it-tested-new-ai-powered-torpedo-system))
 - Get in the bin! UK Space Agency wants public to name its debris removal mission (Register, [1 hours ago](https://www.theregister.com/science/2026/10/17/get-in-the-bin-uk-space-agency-wants-public-to-name-its-debris-removal-mission/5303555))
@@ -95,7 +105,7 @@ _Good Morning, Here is your daily briefing..._
 - Trade unions push for EU law to address menopause at work (Euronews, [3 hours ago](https://www.euronews.com/2026/10/17/trade-unions-push-for-eu-law-to-address-menopause-at-work))
 - Smashing pumpkins: Annual squash festival draws thousands to Brussels castle (Euronews, [4 hours ago](https://www.euronews.com/2026/10/17/smashing-pumpkins-annual-squash-festival-draws-thousands-to-brussels-castle))
 - Europe’s sponge cities are turning rain from waste into a valuable resource (Euronews, [4 hours ago](https://www.euronews.com/2026/10/17/europes-sponge-cities-are-turning-rain-from-waste-into-a-valuable-resource))
-- Latest news bulletin  October 17th, 2026 – Morning (Euronews, [4 hours ago](https://www.euronews.com/video/2026/10/17/latest-news-bulletin-october-17th-2026-morning))
+- Latest news bulletin October 17th, 2026 – Morning (Euronews, [4 hours ago](https://www.euronews.com/video/2026/10/17/latest-news-bulletin-october-17th-2026-morning))
 - Data centres are the new front line and Europe’s AI factories should slow down, says UN adviser (Euronews, [4 hours ago](https://www.euronews.com/2026/10/17/data-centres-are-the-new-front-line-and-europes-ai-factories-should-slow-down-says-un-advi))
 - Everton vs. Chelsea, Premier League: Preview, team news, how to watch (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/173135/everton-vs-chelsea-premier-league-preview-team-news-how-to-watch))
 - The Man City theory of politics (FT, [5 hours ago](https://www.ft.com/content/ce75ac4a-3352-4986-939f-cfb17e482709?syn-25a6b1a6=1))
@@ -127,7 +137,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > irrupt - verb intr.: 1. To burst or break in. 2. (Of a population) To increase suddenly in number.
+> irrupt - verb intr.: 1. To burst or break in. 2. (Of a population) To increase suddenly in number.
 
 <!-- word_marker ends -->
 
@@ -142,6 +152,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Give the game away
 
 <!-- eno_marker ends -->
@@ -149,9 +160,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Sinister 2 (Rated: 6)
 - Released in 2015
 - Summary: A young mother and her twin sons move into a rural house that's marked for death.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -172,9 +185,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Scripting [URL](http://scripting.com/) [Feed](http://scripting.com/rss.xml)
 - The Ensemblist [URL](https://the-ensemblist.uk/) [Feed](https://the-ensemblist.uk/feed)
 - Build5Nines [URL](https://build5nines.com/) [Feed](http://buildazure.com/feed/)
 - Cloudflare [URL](https://blog.cloudflare.com/) [Feed](https://blog.cloudflare.com/rss/)
 - Daring Fireball [URL](https://daringfireball.net/) [Feed](http://daringfireball.net/index.xml)
+
 <!-- blogroll_marker ends -->
