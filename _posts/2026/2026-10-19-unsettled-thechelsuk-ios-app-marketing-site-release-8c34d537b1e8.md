@@ -3,8 +3,9 @@ layout: post
 date: 2026-10-19 12:01
 title: Unsettled @ thechelsuk - iOS app marketing site Version v1.0.0
 seo_title: Unsettled @ thechelsuk - iOS app marketing site Version
-seo_description: 'Release notes for Unsettled @ thechelsuk - iOS app marketing site
-  version v1.0.0: Marketing site for Unsettled: is a spy puzzle hidden in an ordinary-looking...'
+seo_description:
+  "Release notes for Unsettled @ thechelsuk - iOS app marketing site
+  version v1.0.0: Marketing site for Unsettled: is a spy puzzle hidden in an ordinary-looking..."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.unsettled/releases/tag/v1.0.0

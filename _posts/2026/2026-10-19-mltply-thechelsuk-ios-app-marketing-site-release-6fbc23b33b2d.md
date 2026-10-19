@@ -3,8 +3,9 @@ layout: post
 date: 2026-10-19 11:57
 title: Mltply @ thechelsuk - iOS app marketing site Version v1.0.0
 seo_title: Mltply @ thechelsuk - iOS app marketing site Version v1.0.0
-seo_description: 'Release notes for Mltply @ thechelsuk - iOS app marketing site version
-  v1.0.0: marketing site for mltply: A free app where Buddy the robot asks the questions...'
+seo_description:
+  "Release notes for Mltply @ thechelsuk - iOS app marketing site version
+  v1.0.0: marketing site for mltply: A free app where Buddy the robot asks the questions..."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.mltply/releases/tag/v1.0.0

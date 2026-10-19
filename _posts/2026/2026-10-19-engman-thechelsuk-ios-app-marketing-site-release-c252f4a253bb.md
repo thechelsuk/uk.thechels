@@ -3,9 +3,10 @@ layout: post
 date: 2026-10-19 11:56
 title: EngMan @ thechelsuk - iOS app marketing site Version v1.0.0
 seo_title: EngMan @ thechelsuk - iOS app marketing site Version v1.0.0
-seo_description: 'Release notes for EngMan @ thechelsuk - iOS app marketing site version
+seo_description:
+  "Release notes for EngMan @ thechelsuk - iOS app marketing site version
   v1.0.0: Marketing site for my engman: Coaching cards for engineering managers app
-  and...'
+  and..."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.engman/releases/tag/v1.0.0

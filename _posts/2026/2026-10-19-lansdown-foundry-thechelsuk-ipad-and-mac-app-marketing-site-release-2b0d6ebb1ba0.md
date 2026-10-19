@@ -3,9 +3,10 @@ layout: post
 date: 2026-10-19 12:02
 title: Lansdown Foundry @ thechelsuk - iPad and Mac app marketing site Version v1.0.0
 seo_title: Lansdown Foundry @ thechelsuk - iPad and Mac app marketing
-seo_description: 'Release notes for Lansdown Foundry @ thechelsuk - iPad and Mac app
+seo_description:
+  "Release notes for Lansdown Foundry @ thechelsuk - iPad and Mac app
   marketing site version v1.0.0: Marketing site for Lansdown Foundry: An Mac and iPad
-  app to...'
+  app to..."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.lansdownfoundry/releases/tag/v1.0.0
