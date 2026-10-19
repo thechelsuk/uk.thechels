@@ -13,6 +13,7 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Sunday, 18 October 2026
 
 - The average temperature today is 9.34˚C,
@@ -27,6 +28,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 171 days since the last change (2026-04-30)
 
@@ -35,18 +37,23 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Use a common language.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Leeds United U21 v Crystal Palace U21
 - Chelsea Women v Tottenham Hotspur Women
 - Crystal Palace Women v West Ham United Women
@@ -60,27 +67,31 @@ _Good Morning, Here is your daily briefing..._
 - London City Lionesses v Everton Women
 - Manchester City Women v Brighton & Hove Albion Women
 - Nottingham Forest v Arsenal
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 138.77999877929688 
-- ^FTSE : 10881.900390625 
-- ^FTMC : 24533.900390625 
+- VWRL.L : 138.77999877929688
+- ^FTSE : 10881.900390625
+- ^FTMC : 24533.900390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > I have interviewed at a bird food-making company, but waiting to see if they have a successful seed funding round, as I don't come cheep.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - France reels after cost-of-living protests see widespread violence (Euronews, [4 minutes ago](https://www.euronews.com/2026/10/18/france-reels-after-cost-of-living-protests-see-widespread-violence))
 - Lisbon named Europe's best city and cruise destination for 2026 (Euronews, [1 hours ago](https://www.euronews.com/2026/10/18/lisbon-named-europes-best-city-and-cruise-destination-for-2026))
 - Possible drone explosion in northern Lithuania near Latvian border (Euronews, [1 hours ago](https://www.euronews.com/2026/10/18/possible-drone-explosion-in-northern-lithuania-near-latvian-border))
@@ -93,7 +104,7 @@ _Good Morning, Here is your daily briefing..._
 - Leisure out of reach for one in eight people in the EU: Where is the problem biggest? (Euronews, [3 hours ago](https://www.euronews.com/2026/10/18/leisure-out-of-reach-for-one-in-eight-people-in-the-eu-where-is-the-problem-biggest))
 - ‘Every sunny surface’ is being put to work. Europeans transforming their homes with solar driveways (Euronews, [4 hours ago](https://www.euronews.com/2026/10/18/every-sunny-surface-is-being-put-to-work-europeans-transforming-their-homes-with-solar-dri))
 - Tee off in Europe’s most underrated golf holiday destinations (Euronews, [4 hours ago](https://www.euronews.com/2026/10/18/tee-off-in-europes-most-underrated-golf-holiday-destinations))
-- Latest news bulletin  October 18th, 2026 – Morning (Euronews, [4 hours ago](https://www.euronews.com/video/2026/10/18/latest-news-bulletin-october-18th-2026-morning))
+- Latest news bulletin October 18th, 2026 – Morning (Euronews, [4 hours ago](https://www.euronews.com/video/2026/10/18/latest-news-bulletin-october-18th-2026-morning))
 - America’s $10tn AI infrastructure boom is starting to fray (FT, [5 hours ago](https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1))
 - The Trump administration has entered its utter shambles era (FT, [5 hours ago](https://www.ft.com/content/cf888c97-f01e-425b-ab3a-37e696612e8a?syn-25a6b1a6=1))
 - Russian ‘shadow fleet’ fakes locations to appear in two places at once (FT, [5 hours ago](https://www.ft.com/content/f9dd0c26-3de3-4ecc-8a08-7d08f0946d08?syn-25a6b1a6=1))
@@ -120,7 +131,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > irrupt - verb intr.: 1. To burst or break in. 2. (Of a population) To increase suddenly in number.
+> irrupt - verb intr.: 1. To burst or break in. 2. (Of a population) To increase suddenly in number.
 
 <!-- word_marker ends -->
 
@@ -135,6 +146,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Make a sudden, destructive, unpredictable action; incorporate
 
 <!-- eno_marker ends -->
@@ -142,9 +154,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Untraceable (Rated: 7)
 - Released in 2008
 - Summary: FBI agent Jennifer Marsh is tasked with hunting down a seemingly untraceable serial killer who posts live videos of his victims on the Internet. As time runs out, the cat and mouse chase becomes more personal.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -165,9 +179,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Real Python [URL](https://realpython.com/) [Feed](https://realpython.com/atom.xml)
 - Evan Travers [URL](http://evantravers.com/) [Feed](http://evantravers.com/feed.xml)
 - HTTP toolkit [URL](https://httptoolkit.com/blog/) [Feed](https://httptoolkit.tech/rss.xml)
 - Stephen Robles (all) [URL](https://beard.fm/) [Feed](https://wrangler.steve-9e8.workers.dev/rss)
 - Gabz/mL [URL](https://gabz.blog/) [Feed](https://gabz.blog/feed.json)
+
 <!-- blogroll_marker ends -->
