@@ -15,9 +15,9 @@ type: mobile
 
 EngMan is an iOS app for engineering leaders who want rapid access to coaching prompts, frameworks, and conversation starters. Dip into focused topics whenever you need a nudge ahead of a 1:1 or a tricky stakeholder chat.
 
-## Highlights
-
 View [marketing site](https://engman.thechels.uk) &rarr;
+
+## Highlights
 
 - Built with SwiftUI
 - 200 coaching cards, prompts, and frameworks a swipe away.
