@@ -17,6 +17,8 @@ Unsettled is an escape game hidden in an ordinary-looking phone. The screen is b
 
 Dr Jarrad Branthwaite and Chris Wood hid eleven years of work in the phone, behind a chain of locks. Find every number, in order, and their sealed messages open. Then someone in Paris gets in touch.
 
+View [marketing site](https://unsettled.thechels.uk) &rarr;
+
 View [Unsettled Corp on GitHub](https://github.com/Unsettled-Corp) &rarr;
 
 ## Highlights
