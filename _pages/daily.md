@@ -13,6 +13,7 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Monday, 19 October 2026
 
 - The average temperature today is 12.3˚C,
@@ -27,6 +28,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 172 days since the last change (2026-04-30)
 
@@ -35,47 +37,56 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Challenge assumptions.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Tottenham Hotspur v Coventry City
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 138.6199951171875 
-- ^FTSE : 10777.990234375 
-- ^FTMC : 24450.009765625 
+- VWRL.L : 138.6199951171875
+- ^FTSE : 10777.990234375
+- ^FTMC : 24450.009765625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > That last joke was terrible, without the 's' though, it was decent.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Macron rejects interior minister’s resignation after French riots (FT, [17 minutes ago](https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1))
 - No Kings Day: Thousands rally across US against Trump (Euronews, [21 minutes ago](https://www.euronews.com/video/2026/10/19/no-kings-day-thousands-rally-across-us-against-trump))
 - Von der Leyen, Costa and Macron head to Budapest in sign of EU-Hungary thaw (Euronews, [27 minutes ago](https://www.euronews.com/2026/10/19/von-der-leyen-costa-and-macron-head-to-budapest-in-sign-of-eu-hungary-thaw))
 - Museum exhibit reveals the intricate workings of a knackered Dell (Register, [28 minutes ago](https://www.theregister.com/offbeat/2026/10/19/museum-exhibit-reveals-the-intricate-workings-of-a-knackered-dell/5303250))
 - Mother leaves children on Poland mountain trail for 'whining', hikes to summit alone (Euronews, [28 minutes ago](https://www.euronews.com/2026/10/19/mother-leaves-children-on-poland-mountain-trail-for-whining-hikes-to-summit-alone))
 - EU eyes Arctic cable linking Greenland to Europe amid growing security threats (Euronews, [33 minutes ago](https://www.euronews.com/2026/10/19/eu-eyes-arctic-cable-linking-greenland-to-europe-amid-growing-security-threats))
-- Latest news bulletin  October 19th, 2026 – Midday (Euronews, [43 minutes ago](https://www.euronews.com/video/2026/10/19/latest-news-bulletin-october-19th-2026-midday))
+- Latest news bulletin October 19th, 2026 – Midday (Euronews, [43 minutes ago](https://www.euronews.com/video/2026/10/19/latest-news-bulletin-october-19th-2026-midday))
 - PwC revenue growth trails Deloitte and EY (FT, [43 minutes ago](https://www.ft.com/content/0d89ccfd-50ce-4e74-8112-0a8f53b3afff?syn-25a6b1a6=1))
 - 'We tore it up': French looters brag online as minister admits police 'lost control' (Euronews, [49 minutes ago](https://www.euronews.com/2026/10/19/we-tore-it-up-french-looters-brag-online-as-minister-admits-police-lost-control))
 - Australian MP Helen Haines 'critically' hurt in car ramming attack, officials say (Euronews, [1 hours ago](https://www.euronews.com/2026/10/19/australian-mp-helen-haines-critically-hurt-in-car-ramming-attack-officials-say))
@@ -110,7 +121,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > zillionaire - noun: A person with incalculably enormous wealth.
+> zillionaire - noun: A person with incalculably enormous wealth.
 
 <!-- word_marker ends -->
 
@@ -125,6 +136,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > riff
 
 <!-- eno_marker ends -->
@@ -132,9 +144,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Moulin Rouge (Rated: 4)
 - Released in 2001
 - Summary: Fictional account of French artist Henri de Toulouse-Lautrec.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -155,9 +169,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Smart [URL](https://www.smartlab.at/) [Feed](https://www.smartlab.at/feed/)
 - Sam Ollason [URL](https://samollason.github.io/) [Feed](https://samollason.github.io/feed)
 - Karl Hughes [URL](https://www.karllhughes.com/) [Feed](https://www.karllhughes.com/feed.xml)
 - Vale.Rocks [URL](https://vale.rocks/posts) [Feed](https://vale.rocks/posts/feed.xml)
 - Stephen Robles (all) [URL](https://beard.fm/) [Feed](https://wrangler.steve-9e8.workers.dev/rss)
+
 <!-- blogroll_marker ends -->
