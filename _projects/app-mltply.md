@@ -14,11 +14,11 @@ summary: "Mltply uses a friendly chat-style interface to make maths practice les
 type: mobile
 ---
 
-View [marketing site](https://mltply.thechels.uk) &rarr;
-
 Mltply uses a friendly chat-style interface to make maths practice less intimidating. Short prompts keep the pace up, and repetition cements knowledge while keeping things playful.
 
 ## Highlights
+
+View [marketing site](https://mltply.thechels.uk) &rarr;
 
 - Chat-style interface starring Buddy, a friendly maths robot who keeps practice conversational.
 - Configure numbers 1–12, pick operations, and toggle sequential or random order for tailored drills.
