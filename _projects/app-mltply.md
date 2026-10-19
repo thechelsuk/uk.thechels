@@ -14,6 +14,8 @@ summary: "Mltply uses a friendly chat-style interface to make maths practice les
 type: mobile
 ---
 
+View [marketing site](https://mltply.thechels.uk) &rarr;
+
 Mltply uses a friendly chat-style interface to make maths practice less intimidating. Short prompts keep the pace up, and repetition cements knowledge while keeping things playful.
 
 ## Highlights
