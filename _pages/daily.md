@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-10-20
+date: 2026-10-21
 last_modified_at: "2026-10-16"
 ---
 
@@ -13,14 +13,14 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Tuesday, 20 October 2026
+## On Wednesday, 21 October 2026
 
-- The average temperature today is 9.27˚C,
-- With highs of 10.52˚C and lows of 8.71˚C,
-- It may feel like 8.29˚C with overcast clouds
-- The wind speed is 2.06m/s and visibility is 3494m
-- The pressure is 1009hPa and humidity is 97%
-- The sun will rise at 06:41 and set at 17:04
+- The average temperature today is 8.68˚C,
+- With highs of 9.41˚C and lows of 8.15˚C,
+- It may feel like 6.32˚C with moderate rain
+- The wind speed is 4.12m/s and visibility is 4526m
+- The pressure is 999hPa and humidity is 95%
+- The sun will rise at 06:42 and set at 17:02
 
 <!-- weather_marker ends -->
 
@@ -28,112 +28,84 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 173 days since the last change (2026-04-30)
+- It has been 174 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Provide purpose, mastery and autonomy.
+> Be humble.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Liverpool U19 v Villarreal U19
-- Manchester City U19 v AEK Athens U19
-- Boreham Wood v Middlesbrough U21
-- Wealdstone v Nottingham Forest U21
-- Wolves v Portsmouth
-- AFC Wimbledon v Mansfield Town
-- Blackpool v MK Dons
-- Bromley v Leicester City
-- Burton Albion v Bradford City
-- Cambridge United v Wycombe Wanderers
-- Doncaster Rovers v Stockport County
-- Huddersfield Town v Peterborough United
-- Luton Town v Barnsley
-- Notts County v Sheffield Wednesday
-- Oxford United v Wigan Athletic
-- Stevenage v Plymouth Argyle
-- Barnet v Swindon Town
-- Bristol Rovers v Salford City
-- Cheltenham Town v Fleetwood Town
-- Chesterfield v Colchester United
-- Crawley Town v Shrewsbury Town
-- Exeter City v Crewe Alexandra
-- Northampton Town v Tranmere Rovers
-- Rochdale v Grimsby Town
-- Rotherham United v Newport County
-- Walsall v Oldham Athletic
-- York City v Accrington Stanley
-- Gillingham v Port Vale
-- Liverpool v Villarreal
-- Manchester City v AEK Athens
+- Aston Villa U19 v Viking FK U19
+- Como v Manchester United
+- Liverpool Women v Manchester United Women
+- Reading v Leyton Orient
+- Aston Villa v VIking FK
+- Bayern Munich v Arsenal
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 137.69000244140625 
-- ^FTSE : 10688.3896484375 
-- ^FTMC : 24144.810546875 
+- VWRL.L : 138.25 
+- ^FTSE : 10739.0595703125 
+- ^FTMC : 24388.990234375 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> Two tortillas have a fight in a karaoke bar. What ensued could only be described as a wrap battle.
+> During this time at this eye wear manufacturing company I designed and documented a process for a new pair of glasses with little dots of gold in the frame. That is right, I wrote the spec about specs on some specs.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-- UK finance watchdog wants firms to report AI failures and close calls (Register, [3 minutes ago](https://www.theregister.com/ai-and-ml/2026/10/20/uk-finance-watchdog-wants-firms-to-report-ai-failures-and-close-calls/5304078))
-- Kallas: Russian Black Sea strikes deepen ‘perfect storm’ for world food supplies (Euronews, [16 minutes ago](https://www.euronews.com/2026/10/20/kallas-russian-black-sea-strikes-deepen-perfect-storm-for-world-food-supplies))
-- Hackers steal 421,000 emails belonging to members of Germany's far-right AfD party (Euronews, [19 minutes ago](https://www.euronews.com/2026/10/20/hackers-steal-421000-emails-belonging-to-members-of-germanys-far-right-afd-party))
-- Google Cloud's London zones takes a nap, multiple services disrupted (Register, [26 minutes ago](https://www.theregister.com/paas-and-iaas/2026/10/20/google-clouds-london-zones-takes-a-nap-multiple-services-disrupted/5304084))
-- Trump envoys to hold fresh Ukraine talks as energy crunch looms over midterms (FT, [29 minutes ago](https://www.ft.com/content/581d8a59-b128-4f68-9f34-6c066b36ca5b?syn-25a6b1a6=1))
-- Japan launches mission to bring back samples from Mars’s moon Phobos (Euronews, [38 minutes ago](https://www.euronews.com/video/2026/10/20/japan-launches-mission-to-bring-back-samples-from-marss-moon-phobos))
-- Five European Commissioners push back against cuts to the EU’s global cooperation budget (Euronews, [55 minutes ago](https://www.euronews.com/2026/10/20/five-european-commissioners-push-back-against-cuts-to-the-eus-global-cooperation-budget))
-- German mortgage rates climb to highest since 2009 as Iran war stokes inflation fears (Euronews, [56 minutes ago](https://www.euronews.com/2026/10/20/german-mortgage-rates-climb-to-highest-since-2009-as-iran-war-stokes-inflation-fears))
-- France considers new curfews as restrictions quell unrest (FT, [1 hours ago](https://www.ft.com/content/7bd4ac59-61e6-4604-a96a-26e7096bf768?syn-25a6b1a6=1))
-- London’s mobile networks fall to bottom of Europe’s capital league (Register, [1 hours ago](https://www.theregister.com/networks/2026/10/20/londons-mobile-networks-fall-to-bottom-of-europes-capital-league/5303800))
-- Israeli financial news outlet reveals €150 million warship deal with Cyprus (Euronews, [1 hours ago](https://www.euronews.com/2026/10/20/israeli-financial-news-outlet-reveals-150-million-warship-deal-with-cyprus))
-- Trump envoy Witkoff to meet Zelenskyy in Oslo before planned Putin talks in Moscow (Euronews, [1 hours ago](https://www.euronews.com/2026/10/20/trump-envoy-witkoff-to-meet-zelenskyy-in-oslo-before-planned-putin-talks-in-moscow))
-- At least five killed and thousands evacuated as Storm Adam batters eastern Spain (Euronews, [1 hours ago](https://www.euronews.com/2026/10/20/at-least-five-killed-and-thousands-evacuated-as-storm-adam-batters-eastern-spain))
-- Ukraine carries out first drone airlift of wounded soldier from front line (Euronews, [1 hours ago](https://www.euronews.com/video/2026/10/20/ukraine-carries-out-first-drone-airlift-of-wounded-soldier-from-front-line))
-- Oil prices top $110 as traders weigh Middle East supply risks (Euronews, [1 hours ago](https://www.euronews.com/2026/10/20/oil-prices-top-110-as-traders-weigh-middle-east-risks))
-- Why cyber resilience is now a boardroom priority for UK public services (Register, [2 hours ago](https://www.theregister.com/security/2026/10/20/partner-content-why-cyber-resilience-is-now-a-boardroom-priority-for-uk-public-services/5301601))
-- Alberta voters reject separation from Canada, early results show (FT, [2 hours ago](https://www.ft.com/content/8afb4e0b-302b-445c-8dde-4c5b091b808e?syn-25a6b1a6=1))
-- South Korean data centre builder tumbles 32% on trading debut (FT, [2 hours ago](https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1))
-- The Daily Hilario: Tuesday (WAGNH, [2 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173247/the-daily-hilario-october-20th))
-- Sony updates the Walkman as a $5,900 gold-plated MP3 player (Register, [4 hours ago](https://www.theregister.com/personal-tech/2026/10/20/sony-updates-the-walkman-as-a-5900-gold-plated-mp3-player/5304051))
-- What has actually battered the bond market? (FT, [5 hours ago](https://www.ft.com/content/e5585991-c884-4b22-867e-5d70efbb0a87))
-- ‘David Beckham’ was briefly the world’s second-worst manga pirate (Register, [5 hours ago](https://www.theregister.com/legal/2026/10/20/david-beckham-was-briefly-the-worlds-second-worst-manga-pirate/5304044))
-- Everton 0-2 Chelsea, Player Ratings: Now that he’s a wing-back, lads (WAGNH, [5 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/173253/everton-0-2-chelsea-player-ratings-now-that-hes-a-wing-back-lads))
-- Musk beat Sweden’s unions — but not the Swedish model (FT, [6 hours ago](https://www.ft.com/content/8a261d23-da1e-4bc9-8b39-4dff8a488d16?syn-25a6b1a6=1))
-- Louis Vuitton and Hermès among luxury retailers looted in French riots (FT, [6 hours ago](https://www.ft.com/content/afaa7a1d-ef43-40ca-a042-4da8de9ff476?syn-25a6b1a6=1))
-- AI debt worries spark surge in default insurance trading (FT, [6 hours ago](https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1))
-- Iran war tilts balance of global oil power towards Americas (FT, [6 hours ago](https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1))
-- Britain’s £100,000 tax trap (FT, [6 hours ago](https://www.ft.com/content/248b7408-b4cd-46aa-a829-a54c618e31fe?syn-25a6b1a6=1))
-- ICANN testing tech to let law enforcement access non-public WHOIS info (Register, [7 hours ago](https://www.theregister.com/networks/2026/10/20/icann-testing-tech-to-let-law-enforcement-access-non-public-whois-info/5304036))
-- DeepSeek deep-sixed at all US federal civilian agencies (Register, [9 hours ago](https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010))
-- Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline (Register, [13 hours ago](https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970))
-- Amazon makes vague commitment to unproven nuclear tech to power Indiana datacenters (Register, [13 hours ago](https://www.theregister.com/offbeat/2026/10/19/amazon-makes-vague-commitment-to-unproven-nuclear-tech-to-power-indiana-datacenters/5303974))
-- Free tickets available for Chelsea Women Academy match at Kingsmeadow vs Birmingham (CFC, [19 hours ago](https://www.chelseafc.com/en/news/article/free-tickets-available-for-chelsea-women-academy-match-nov-2026))
-- Ellie Carpenter on Chelsea's 'new era' after big win over Tottenham (CFC, [21 hours ago](https://www.chelseafc.com/en/news/article/ellie-carpenter-on-chelseas-new-era-after-big-win-over-tottenham))
+- Restorers work to preserve frescoes in one of Pompeii’s grandest Roman houses (Euronews, [3 minutes ago](https://www.euronews.com/video/2026/10/21/restorers-work-to-preserve-frescoes-in-one-of-pompeiis-grandest-roman-houses))
+- The spec is the new code, so brush up on your prose, says Kaseya CTO (Register, [5 minutes ago](https://www.theregister.com/software/2026/10/21/the-spec-is-the-new-code-so-brush-up-on-your-prose-says-kaseya-cto/5304002))
+- Rockets, robots and risk: Musk’s $3.6tn gamble to merge Tesla and SpaceX (FT, [15 minutes ago](https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1))
+- French government 10-year bond yield tops 5% for first time since 2002 (Euronews, [16 minutes ago](https://www.euronews.com/2026/10/21/french-government-10-year-bond-yield-tops-5-for-first-time-since-2002))
+- Former Hungarian central bank chief György Matolcsy detained in financial fraud probe (Euronews, [19 minutes ago](https://www.euronews.com/2026/10/21/former-hungarian-central-bank-chief-gyorgy-matolcsy-detained-in-financial-fraud-probe))
+- More Russians are settling in the EU with each year of war in Ukraine (Euronews, [41 minutes ago](https://www.euronews.com/2026/10/21/more-russians-are-settling-in-the-eu-with-each-year-of-war-in-ukraine))
+- Hansel and Gretel in the mountains: parents abandon sons in Germany (Euronews, [41 minutes ago](https://www.euronews.com/2026/10/21/hansel-and-gretel-in-the-mountains-parents-abandon-sons-in-germany))
+- Happiness is the next AI KPI if Oxford boffins have their way (Register, [50 minutes ago](https://www.theregister.com/offbeat/2026/10/21/happiness-is-the-next-ai-kpi-if-oxford-boffins-have-their-way/5304253))
+- France’s borrowing costs hit 5% for first time since 2002 (FT, [58 minutes ago](https://www.ft.com/content/76f076e4-9db2-4971-8ac9-73d9f39e4876?syn-25a6b1a6=1))
+- UK inflation jumps more than expected fuelling rate hike expectations (Euronews, [1 hours ago](https://www.euronews.com/2026/10/21/uk-inflation-jumps-more-than-expected-fuelling-rate-hike-expectations))
+- ‘A house cannot be a privilege’: Thousands rally in Lisbon over housing crisis (Euronews, [1 hours ago](https://www.euronews.com/video/2026/10/21/a-house-cannot-be-a-privilege-thousands-rally-in-lisbon-over-housing-crisis))
+- A stunning Alpine retreat will open at the foot of the Dolomites this winter (Euronews, [1 hours ago](https://www.euronews.com/2026/10/21/a-stunning-alpine-retreat-will-open-at-the-foot-of-the-dolomites-this-winter))
+- Italy deploys 500 troops to Milan under new security decree following violent clashes (Euronews, [1 hours ago](https://www.euronews.com/2026/10/21/italy-deploys-500-troops-to-milan-under-new-security-decree-following-violent-clashes))
+- MPs urge UK government to play venture capitalist with taxpayer-funded tech (Register, [1 hours ago](https://www.theregister.com/public-sector/2026/10/21/mps-urge-uk-government-to-play-venture-capitalist-with-taxpayer-funded-tech/5304212))
+- New Beatles attraction ‘to rival Graceland' coming to Liverpool in 2028 (Euronews, [1 hours ago](https://www.euronews.com/2026/10/21/new-beatles-attraction-to-rival-graceland-coming-to-liverpool-in-2028))
+- The Daily Hilario: Wednesday (WAGNH, [3 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173270/the-daily-hilario-october-21st))
+- Australian data centre group falls 44% on profit warning (FT, [3 hours ago](https://www.ft.com/content/023caf76-40df-485d-8a28-0ff62aa7ec6f?syn-25a6b1a6=1))
+- Mike Penders becomes Chelsea’s youngest ever Premier League goalkeeper; now set to beat Petr Čech’s record (WAGNH, [5 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc/173273/mike-penders-becomes-chelseas-youngest-ever-premier-league-goalkeeper-now-set-to-beat-petr-cechs-record))
+- To replace Starlink, Europe will have to reawaken its animal spirits (FT, [6 hours ago](https://www.ft.com/content/dcf3d157-de7d-4b3a-ab6a-115558d6a47b?syn-25a6b1a6=1))
+- Britain cannot build its future by returning to the 1970s (FT, [6 hours ago](https://www.ft.com/content/8c0ea73d-dc44-455a-b319-148c09f68e0a?syn-25a6b1a6=1))
+- Netanyahu made plans to restart Iran strikes earlier this month (FT, [6 hours ago](https://www.ft.com/content/eb4d1101-45ed-4d03-9beb-42f7c87a58ea))
+- Nervous ISPs replace Chrome as strange consumers of DNS resources (Register, [6 hours ago](https://www.theregister.com/networks/2026/10/21/nervous-isps-replace-chrome-as-strange-consumers-of-dns-resources/5304344))
+- China’s nightmare: becoming the next Japan (FT, [7 hours ago](https://www.ft.com/content/512ef255-89c2-4128-becc-914885c3a2a5?syn-25a6b1a6=1))
+- OpenAI ‘agents’ disabled their own monitoring systems (FT, [8 hours ago](https://www.ft.com/content/45fbf130-f82c-465d-bc97-5b18c20fbe27?syn-25a6b1a6=1))
+- Indian certification authority eMudhra’s private keys compromised – one of them was the number ‘4’ (Register, [11 hours ago](https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312))
+- Auto tech startup claims it traced hack attempt back to rival's IP address (Register, [12 hours ago](https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281))
+- Tens of thousands of Nvidia GPUs sit idle in Meta's Prometheus supercluster, just waiting for a failure (Register, [13 hours ago](https://www.theregister.com/systems/2026/10/20/tens-of-thousands-of-nvidia-gpus-sit-idle-in-metas-prometheus-supercluster-just-waiting-for-a-failure/5304269))
+- UAE official emerges as late contender to lead UN (FT, [15 hours ago](https://www.ft.com/content/765cb887-05da-4971-9f28-bcf5430f09ac?syn-25a6b1a6=1))
+- Who are the Black Bloc? (FT, [15 hours ago](https://www.ft.com/content/f97755f2-8b07-47bf-9c14-7963a701c9c3?syn-25a6b1a6=1))
+- Palo Alto's firewall OS has been under attack from multiple ransomware groups since June (Register, [16 hours ago](https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226))
+- Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche' (Register, [17 hours ago](https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198))
+- OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out (Register, [18 hours ago](https://www.theregister.com/ai-and-ml/2026/10/20/onedrive-loses-bunch-of-copilot-shortcuts-in-file-explorer-clear-out/5304149))
 
 <!-- news_marker ends -->
 
@@ -141,7 +113,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > spizzerinctum - noun: Energy, courage, and determination.
+ > zazzy - adjective: Flashy, colorful, or stylish.
 
 <!-- word_marker ends -->
 
@@ -149,35 +121,35 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> What got us here, will not get us there - Emma Hayes
+> Design and programming are human activities; forget that and all is lost. - Bjarne Stroustrup, Computer Scientist
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Overtly resist change
+> Use "unqualified" people
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- The Big Lebowski (Rated: 5)
-- Released in 1998
-- Summary: Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+- Wrath Of The Titans (Rated: 3)
+- Released in 2012
+- Summary: Perseus braves the treacherous underworld to rescue his father, Zeus, captured by his son, Ares, and brother Hades who unleash the ancient Titans upon the world.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 832, using [2, 6, 7, 9, 10, 75]
-- Answer: 21 solutions.
+- Target: 787, using [2, 2, 8, 10, 25, 75]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 10 + 9 - 6 - 2 ) x 75 + 7
+  Solution: ( 10 x 2 + 75 ) x 8 + 25 + 2
 
    </details>
 
@@ -186,9 +158,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-- Rachel Andrew [URL](https://rachelandrew.co.uk/) [Feed](https://rachelandrew.co.uk/feed/)
-- One Thing Well [URL](https://onethingwell.org/) [Feed](http://onethingwell.org/rss)
-- Ned Batch [URL](https://nedbatchelder.com/blog) [Feed](https://nedbatchelder.com/blog/rss.xml)
-- Peter Suhm [URL](https://petersuhm.com/) [Feed](https://petersuhm.com/feed/feed.xml)
-- Justin Jackson [URL](https://justinjackson.ca/) [Feed](http://justinjackson.ca/feed/)
+- Bateman Horne Center [URL](https://batemanhornecenter.org/) [Feed](https://batemanhornecenter.org/feed/)
+- Daring Fireball [URL](https://daringfireball.net/) [Feed](http://daringfireball.net/index.xml)
+- Dave Rupert [URL](https://daverupert.com/) [Feed](https://daverupert.com/atom.xml)
+- Evan Travers [URL](http://evantravers.com/) [Feed](http://evantravers.com/feed.xml)
+- Jeff Gothelf [URL](https://jeffgothelf.com/) [Feed](https://jeffgothelf.com/feed/)
 <!-- blogroll_marker ends -->
