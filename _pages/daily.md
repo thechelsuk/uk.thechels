@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-10-22
+date: 2026-10-23
 last_modified_at: "2026-10-16"
 ---
 
@@ -13,14 +13,14 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Thursday, 22 October 2026
+## On Friday, 23 October 2026
 
-- The average temperature today is 11.15˚C,
-- With highs of 12.65˚C and lows of 10.53˚C,
-- It may feel like 10.25˚C with few clouds
-- The wind speed is 4.92m/s and visibility is 10000m
-- The pressure is 1007hPa and humidity is 74%
-- The sun will rise at 06:44 and set at 17:00
+- The average temperature today is 11.1˚C,
+- With highs of 11.85˚C and lows of 10.75˚C,
+- It may feel like 10.8˚C with broken clouds
+- The wind speed is 3.09m/s and visibility is 7000m
+- The pressure is 993hPa and humidity is 97%
+- The sun will rise at 06:46 and set at 16:58
 
 <!-- weather_marker ends -->
 
@@ -28,83 +28,85 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 175 days since the last change (2026-04-30)
+- It has been 176 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-- No tasks today
+- Farmers Market in town
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Focus on user needs.
+> Crossing the river by feeling the stones.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- FK Jablonec v Brighton & Hove Albion
-- Lech Poznan v Sunderland
-- AFC Bournemouth v AC Milan
-- Besiktas v Crystal Palace
+- Everton U21 v Wolves U21
+- Manchester City U21 v Stoke City U21
+- Gateshead v Tamworth
+- Bolton Wanderers v Middlesbrough
+- Ipswich Town v Nottingham Forest
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 137.0303955078125 
-- ^FTSE : 10685.080078125 
-- ^FTMC : 24193.490234375 
+- VWRL.L : 136.60000610351562 
+- ^FTSE : 10656.83984375 
+- ^FTMC : 24220.58984375 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> What do you call a man with dirty knees? - Neil.
+> I have missed out on joining a well-known large sweet manufacturing business. To be honest it was my fault as I choked in the practical interview. And clearly bit off more than I could chew.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-- IT department and auditors at major pharmacy chain got into a rip-roaring fight about using 'password' on Cisco firewall (Register, [8 minutes ago](https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592))
-- Prix Pascal: New French literature prize launched for books co-written with AI (Euronews, [15 minutes ago](https://www.euronews.com/2026/10/22/prix-pascal-new-french-literature-prize-launched-for-books-co-written-with-ai))
-- Refusing to cross, unable to escape: Seafarers recount Hormuz dangers to Euronews (Euronews, [23 minutes ago](https://www.euronews.com/2026/10/22/refusing-to-cross-unable-to-escape-seafarers-recount-hormuz-dangers-to-euronews))
-- France confirms first human case of Shamonda virus, previously found only in animals (Euronews, [37 minutes ago](https://www.euronews.com/2026/10/22/france-confirms-first-human-case-of-shamonda-virus-previously-found-only-in-animals))
-- Peru scraps advance reservations for tickets to visit Machu Picchu (Euronews, [42 minutes ago](https://www.euronews.com/2026/10/22/peru-scraps-advance-reservations-for-tickets-to-visit-machu-picchu))
-- Italy and Spain to end border checks, easing tensions after Ceuta migrant row (Euronews, [43 minutes ago](https://www.euronews.com/2026/10/22/italy-and-spain-to-end-border-checks-easing-tensions-after-ceuta-migrant-row))
-- World’s largest wealth fund posts $30bn loss as rising rates hit bonds (Euronews, [44 minutes ago](https://www.euronews.com/2026/10/22/worlds-largest-wealth-fund-posts-30bn-loss-as-rising-rates-hit-bonds))
-- Italy's truckers' protests leave supermarket shelves empty and airports without fuel (Euronews, [48 minutes ago](https://www.euronews.com/2026/10/22/italys-truckers-protests-leave-supermarket-shelves-empty-and-airports-without-fuel))
-- UK government hasn't the foggiest how much it's spending on digital transformation (Register, [53 minutes ago](https://www.theregister.com/public-sector/2026/10/22/uk-government-hasnt-the-foggiest-how-much-its-spending-on-digital-transformation/5304662))
-- Macron holds emergency security meeting as France braces for fresh wave of protests (Euronews, [59 minutes ago](https://www.euronews.com/2026/10/22/macron-holds-emergency-security-meeting-as-france-braces-for-fresh-wave-of-protests))
-- EU planned to scrap clock changes. Why are they still happening? (Euronews, [1 hours ago](https://www.euronews.com/2026/10/22/eu-planned-to-scrap-clock-changes-why-are-they-still-happening))
-- Websites go dark after AI exposes major programming language security flaw (Euronews, [1 hours ago](https://www.euronews.com/2026/10/22/websites-go-dark-after-ai-exposes-major-programming-language-security-flaw))
-- Global stocks tumble as oil prices rise (FT, [1 hours ago](https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1))
-- Vendors asking forward deployed engineers to make good on trillion-dollar AI bet (Register, [1 hours ago](https://www.theregister.com/ai-and-ml/2026/10/22/vendors-asking-forward-deployed-engineers-to-make-good-on-trillion-dollar-ai-bet/5304366))
-- Why the immediate future of liquid cooling is hybrid (Register, [2 hours ago](https://www.theregister.com/ai-and-ml/2026/10/22/partner-content-why-the-immediate-future-of-liquid-cooling-is-hybrid/5303795))
-- Ukraine to buy military supplies via Nato agency (FT, [2 hours ago](https://www.ft.com/content/991ac37c-289b-40e5-b2e6-220ee2aebe5d?syn-25a6b1a6=1))
-- Websites taken offline in race to patch PHP security flaw (FT, [3 hours ago](https://www.ft.com/content/d438af1e-a48c-4aeb-8c84-00cdb5e741e3?syn-25a6b1a6=1))
-- The Daily Hilario: Thursday (WAGNH, [3 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173287/the-daily-hilario-october-22nd))
-- Certification authority eMudhra defends its laughably weak private keys (Register, [3 hours ago](https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647))
-- Russian missiles bombard Kyiv after Witkoff-Putin talks (FT, [3 hours ago](https://www.ft.com/content/9f0c58d3-1833-40de-b805-f5ac53f05ff0?syn-25a6b1a6=1))
-- IBM CEO says open weight models are now irresistibly good and cheap on-prem (Register, [5 hours ago](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640))
-- Which G7 economy is the profligacy poster child? (FT, [6 hours ago](https://www.ft.com/content/43a2e871-2e82-4af7-8d56-2f00202df949?syn-25a6b1a6=1))
-- Politico and Telegraph owner pitched deal to buy European arm of TikTok (FT, [6 hours ago](https://www.ft.com/content/171220b9-8d8e-4d82-a866-f9aaf258e0fb?syn-25a6b1a6=1))
-- Highland Spring billionaire’s property empire hit by loan defaults and creditor action (FT, [6 hours ago](https://www.ft.com/content/7f93f4b4-beca-4566-ad60-900910d31320?syn-25a6b1a6=1))
-- The battle for Israel’s future (FT, [6 hours ago](https://www.ft.com/content/50468a0e-5c1f-45bf-92ca-d6bb102e3c98?syn-25a6b1a6=1))
-- How should Chelsea line up against Spurs? (WAGNH, [6 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/173292/how-should-chelsea-line-up-against-spurs))
-- Philippine government suspends top tech official for alleged misconduct (Register, [7 hours ago](https://www.theregister.com/public-sector/2026/10/22/philippine-government-suspends-top-tech-official-for-alleged-misconduct/5304633))
-- To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain (Register, [9 hours ago](https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623))
-- Musk sets lower sales target for Tesla as it explores SpaceX merger (FT, [10 hours ago](https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1))
-- PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk (Register, [11 hours ago](https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611))
-- Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal (FT, [11 hours ago](https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1))
-- OpenClaw creator says he spent $10 million in tokens last month (Register, [13 hours ago](https://www.theregister.com/ai-and-ml/2026/10/21/openclaw-creator-says-he-spent-10-million-in-tokens-last-month/5304573))
-- Training gallery: Working towards Spurs! (CFC, [18 hours ago](https://www.chelseafc.com/en/news/article/training-gallery-working-towards-spurs))
+- France slips into contraction as Europe’s growth slows: How bad could it get? (Euronews, [4 minutes ago](https://www.euronews.com/2026/10/23/france-slips-into-contraction-as-europes-growth-slows-how-bad-could-it-get))
+- Another rescue operation in the Black Sea following a distress signal from a ship (Euronews, [6 minutes ago](https://www.euronews.com/2026/10/23/rescue-operation-in-the-black-sea-following-a-distress-signal-from-a-ship))
+- French kids use AI far more than their parents think, survey finds (Euronews, [6 minutes ago](https://www.euronews.com/2026/10/23/french-kids-use-ai-far-more-than-their-parents-think-survey-finds))
+- Pope Leo XIV cancels Assisi trip on doctors' advice as he recovers from surgery (Euronews, [8 minutes ago](https://www.euronews.com/2026/10/23/pope-leo-xiv-cancels-assisi-trip-on-doctors-advice-as-he-recovers-from-surgery))
+- Trump says he has the right to seek a third presidential term (Euronews, [16 minutes ago](https://www.euronews.com/video/2026/10/23/trump-says-he-has-the-right-to-seek-a-third-presidential-term))
+- Was Maricarmen a manager at a property company? This is what we know (Euronews, [23 minutes ago](https://www.euronews.com/2026/10/23/was-maricarmen-a-manager-at-a-property-company-this-is-what-we-know))
+- Oil spill hits UAE beaches as tanker attacks multiply near Hormuz (Euronews, [24 minutes ago](https://www.euronews.com/2026/10/23/oil-spill-hits-uae-beaches-as-tanker-attacks-multiply-near-hormuz))
+- New 007 incoming: James Bond casting down to these actors according to insider reports (Euronews, [25 minutes ago](https://www.euronews.com/2026/10/23/new-007-incoming-james-bond-casting-down-to-these-actors-according-to-insider-reports))
+- UK threatens subsea cable saboteurs with 14 years behind bars (Register, [32 minutes ago](https://www.theregister.com/networks/2026/10/23/uk-threatens-subsea-cable-saboteurs-with-14-years-behind-bars/5304794))
+- Tributes paid to actor Tom Skerritt as star of Alien and Top Gun dies aged 93 (Euronews, [43 minutes ago](https://www.euronews.com/2026/10/23/tributes-paid-to-actor-tom-skerritt-as-star-of-alien-and-top-gun-dies-aged-93))
+- Oil hits $114 for first time since May as global stocks knocked by AI fears (FT, [46 minutes ago](https://www.ft.com/content/8948193b-438b-4d71-a0b1-31dff56fc308?syn-25a6b1a6=1))
+- Anthropic strikes deal to launch European consultancy (FT, [57 minutes ago](https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4?syn-25a6b1a6=1))
+- Fitch Ratings: Hungary could meet eurozone entry criteria by 2030 (Euronews, [1 hours ago](https://www.euronews.com/2026/10/23/fitch-ratings-hungary-could-meet-eurozone-entry-criteria-by-2030))
+- Beware the claw: Do you want to win the bunny or reboot Android? (Register, [1 hours ago](https://www.theregister.com/offbeat/2026/10/23/beware-the-claw-do-you-want-to-win-the-bunny-or-reboot-android/5304172))
+- Vendor-affiliated AI agent tech gets adopted by friendly, funded foundation (Register, [2 hours ago](https://www.theregister.com/ai-and-ml/2026/10/23/vendor-affiliated-ai-agent-tech-gets-adopted-by-friendly-funded-foundation/5304912))
+- The Daily Hilario: Friday (WAGNH, [2 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173304/the-daily-hilario-october-23rd))
+- ‘Stars in their eyes’: AFC Bournemouth still trying to convince Alex Scott to stay (WAGNH, [3 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/173307/stars-in-their-eyes-afc-bournemouth-still-trying-to-convince-alex-scott-to-stay))
+- Winter arrives in markets (FT, [4 hours ago](https://www.ft.com/content/ce0e9d68-c63f-4666-9909-512b929e6284?syn-25a6b1a6=1))
+- Windows said modem worked fine. That unmistakable scorched electronics smell suggested otherwise (Register, [4 hours ago](https://www.theregister.com/personal-tech/2026/10/23/windows-said-modem-worked-fine-that-unmistakable-scorched-electronics-smell-suggested-otherwise/5304375))
+- Beware Bessent’s tilt towards short-term debt (FT, [6 hours ago](https://www.ft.com/content/bf959a1a-1cd8-41e2-8767-03aa1ac3ed48?syn-25a6b1a6=1))
+- Europe’s largest landlord exposed to €8bn hit from Berlin apartment plans (FT, [6 hours ago](https://www.ft.com/content/57e5b584-78b8-49a5-be2b-c02bba63886a?syn-25a6b1a6=1))
+- How a transatlantic mega-merger fell apart over a leadership tug of war (FT, [6 hours ago](https://www.ft.com/content/e114059c-308d-4d8e-8127-f88b0faca879?syn-25a6b1a6=1))
+- Calpers retreats from Big Tech as AI rally falters (FT, [6 hours ago](https://www.ft.com/content/e842173f-6f9f-4115-9e5f-a0f06f0df18d?syn-25a6b1a6=1))
+- The limits of Trump’s trade war (FT, [6 hours ago](https://www.ft.com/content/0ce7d049-b264-47da-9aaa-08b33941585a?syn-25a6b1a6=1))
+- AI oversight needs a different model to banking (FT, [6 hours ago](https://www.ft.com/content/f98be079-49af-45c8-9954-ea3bd774c585))
+- OpenAI trims valuation target to $1.25tn after pitching higher price (FT, [12 hours ago](https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1))
+- PHP2Shell exploit bypasses protections designed to stop remote code execution (Register, [13 hours ago](https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883))
+- Human receives AI-designed virus for the first time (Register, [13 hours ago](https://www.theregister.com/science/2026/10/22/human-receives-ai-designed-virus-for-the-first-time/5304874))
+- Backdoored robot tries its hand at finger chopping and cat cooking (Register, [14 hours ago](https://www.theregister.com/ai-and-ml/2026/10/22/backdoored-robot-tries-its-hand-at-finger-chopping-and-cat-cooking/5304870))
+- Offer your subscriptions to businesses and schools (Apple, [16 hours ago](https://developer.apple.com/news/?id=yfo21auu))
+- Max-severity GitLab bug allows remote code execution over 12 years of releases (Register, [16 hours ago](https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854))
+- Disgraced Indian cert issuer leaves the cert issuing business (Register, [17 hours ago](https://www.theregister.com/security/2026/10/22/disgraced-indian-cert-issuer-leaves-the-cert-issuing-business/5304848))
+- PHP2Shell puts dozens of UK government services out of service (Register, [17 hours ago](https://www.theregister.com/security/2026/10/22/php2shell-puts-dozens-of-uk-government-services-out-of-service/5304840))
 
 <!-- news_marker ends -->
 
@@ -112,7 +114,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > pizzazz - noun: Flair, flamboyance, or vitality.
+ > izzard - noun: The letter Z.
 
 <!-- word_marker ends -->
 
@@ -120,35 +122,35 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> This indispensable first step to getting what you want is this: Decide what you want. - Ben Stein, Actor
+> Be fixed on the vision, but flexible on the journey. - Jeff Bezos, Founder of Amazon
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Use fewer notes
+> Abandon normal instruments
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Robocop (Rated: 4)
-- Released in 2014
-- Summary: Corporate interests resurrect a murdered police officer as a cybernetic enforcer to privatize security in a decaying Detroit. He executes lethal justice while flickering memories of his former life trigger a hunt for his killers.
+- Fear And Loathing In Las Vegas (Rated: 4)
+- Released in 1998
+- Summary: An oddball journalist and his psychopathic lawyer travel to Las Vegas for a series of psychedelic escapades.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 874, using [1, 1, 2, 9, 75, 100]
-- Answer: 8 solutions.
+- Target: 214, using [1, 4, 7, 8, 75, 100]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 75 ) x ( 9 + 1 ) / 2 - 1
+  Solution: 8 x 4 + 100 + 75 + 7
 
    </details>
 
@@ -157,9 +159,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-- Tom Hazeldine [URL](https://tomhazledine.com/) [Feed](https://tomhazledine.com/feed.xml)
-- Scott Helme [URL](https://scotthelme.co.uk/) [Feed](https://scotthelme.co.uk/rss/)
-- WebKit [URL](https://webkit.org/) [Feed](https://www.webkit.org/feed/)
-- Chris Ferdinandi [URL](https://gomakethings.com/articles) [Feed](https://gomakethings.com/feed/index.xml)
-- Robin Rendle [URL](https://robinrendle.com/) [Feed](https://robinrendle.com/feed.xml)
+- Victor Wynne [URL](https://victorwynne.com/) [Feed](https://victorwynne.com/feed.xml)
+- Dave Kiss [URL](https://davekiss.com/) [Feed](https://davekiss.com/blog.rss)
+- Everything Changes [URL](https://everythingchanges.us/) [Feed](https://everythingchanges.us/feed.json)
+- Bogdan on Digital Accessibility [URL](https://cerovac.com/a11y) [Feed](https://cerovac.com/a11y/feed/)
+- Dan Q [URL](https://danq.me/) [Feed](https://danq.me/feed/)
 <!-- blogroll_marker ends -->
