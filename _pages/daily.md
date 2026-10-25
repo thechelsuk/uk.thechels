@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-10-24
+date: 2026-10-25
 last_modified_at: "2026-10-16"
 ---
 
@@ -13,14 +13,14 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Saturday, 24 October 2026
+## On Sunday, 25 October 2026
 
-- The average temperature today is 9.78˚C,
-- With highs of 10.23˚C and lows of 8.8˚C,
-- It may feel like 7.26˚C with scattered clouds
-- The wind speed is 5.14m/s and visibility is 10000m
-- The pressure is 1007hPa and humidity is 89%
-- The sun will rise at 06:48 and set at 16:56
+- The average temperature today is 11.8˚C,
+- With highs of 12.37˚C and lows of 11.5˚C,
+- It may feel like 10.63˚C with few clouds
+- The wind speed is 8.23m/s and visibility is 10000m
+- The pressure is 1000hPa and humidity is 61%
+- The sun will rise at 06:49 and set at 16:54
 
 <!-- weather_marker ends -->
 
@@ -28,7 +28,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 177 days since the last change (2026-04-30)
+- It has been 178 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
@@ -41,30 +41,29 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Optimise flow.
+> Embrace uncertainty.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Manchester United U18 v Liverpool U18
-- Tottenham Hotspur U18 v West Ham United U18
-- Crystal Palace U18 v Reading U18
-- Chelsea U18 v Ipswich Town U18
-- Charlton Athletic v Norwich City
-- Portsmouth v Millwall
-- Sheffield United v Derby County
-- Huddersfield Town v Wigan Athletic
-- Luton Town v Leicester City
-- Cheltenham Town v Newport County
-- Northampton Town v Colchester United
-- Eastleigh v Boston United
-- Harrogate Town v Sutton United
-- Aston Villa v Manchester City
-- Tottenham Hotspur Women v Arsenal Women
-- Brighton & Hove Albion Women v West Ham United Women
-- Kidderminster Harriers v Worthing
-- Chelsea v Tottenham Hotspur
+- Exeter City Women v Hashtag United Women
+- Crystal Palace Women v Chelsea Women
+- Watford Women v Durham Women
+- Crystal Palace v Newcastle United
+- Hull City v Brentford
+- Liverpool v Brighton & Hove Albion
+- Manchester United v AFC Bournemouth
+- Birmingham City Women v Charlton Athletic Women
+- Everton Women v Aston Villa Women
+- Liverpool Women v London City Lionesses
+- Bristol City Women v Wolves Women
+- Burnley Women v Sheffield United Women
+- Ipswich Town Women v Sunderland AFC Women
+- Nottingham Forest Women v Newcastle United Women
+- Leicester City Women v Southampton Women
+- Sunderland v Leeds United
+- Manchester United Women v Manchester City Women
 <!-- fixture_marker ends -->
 
 ### Stocks
@@ -80,44 +79,40 @@ _Good Morning, Here is your daily briefing..._
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> What do you call a pirate with a wooden leg? Peggy.
+> Two tortillas have a fight in a karaoke bar. What ensued could only be described as a wrap battle.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-- Fresh protests set to sweep France as last-minute restrictions fuel tensions (Euronews, [1 hours ago](https://www.euronews.com/2026/10/24/fresh-protests-set-to-sweep-france-as-last-minute-restrictions-fuel-tensions))
-- Video shows extensive damage inside France's historic Limoges Town Hall (Euronews, [1 hours ago](https://www.euronews.com/video/2026/10/24/video-shows-extensive-damage-inside-frances-historic-limoges-town-hall))
-- Winter time or summer time? What the science says about the best option for health (Euronews, [1 hours ago](https://www.euronews.com/2026/10/24/winter-time-or-summer-time-what-the-science-says-about-the-best-option-for-health))
-- Rubio calls on Cubans seeking change to form 'discrete partnership' with CIA (Euronews, [2 hours ago](https://www.euronews.com/2026/10/24/rubio-calls-on-cubans-seeking-change-to-form-discrete-partnership-with-cia))
-- Debt: Moody's spares France, "a brief respite", not a "vote of confidence" (Euronews, [2 hours ago](https://www.euronews.com/2026/10/24/debt-moodys-spares-france-a-brief-respite-not-a-vote-of-confidence))
-- Arrest made after major fire breaks out at Hitler's 'Eagle's Nest' mountain retreat in Bavaria (Euronews, [3 hours ago](https://www.euronews.com/2026/10/24/arrest-made-after-major-fire-breaks-out-at-hitlers-eagles-nest-mountain-retreat-in-bavaria))
-- YouTube, AI and neurodivergent representation: How Gen Z and Gen Alpha are redefining modern storytelling (Euronews, [3 hours ago](https://www.euronews.com/2026/10/24/youtube-ai-and-neurodivergent-representation-how-gen-z-and-gen-alpha-are-redefining-modern))
-- Booking an electric flight in Europe is only 10 years away, says influential Dutch researcher (Euronews, [4 hours ago](https://www.euronews.com/2026/10/24/booking-an-electric-flight-in-europe-is-only-10-years-away-says-influential-dutch-research))
-- Grocery prices across Europe: Where is food most expensive and why? (Euronews, [4 hours ago](https://www.euronews.com/2026/10/24/grocery-prices-across-europe-where-is-food-most-expensive-and-why))
-- Latest news bulletin  October 24th, 2026 – Morning (Euronews, [4 hours ago](https://www.euronews.com/video/2026/10/24/latest-news-bulletin-october-24th-2026-morning))
-- Gadi Eisenkot, the Israeli ex-military chief challenging Netanyahu (FT, [5 hours ago](https://www.ft.com/content/5e9fc2a9-975b-46eb-ab5a-11615ca40459?syn-25a6b1a6=1))
-- France is looking ungovernable. And it’s going to get worse (FT, [5 hours ago](https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb))
-- The young are conformists in denial (FT, [5 hours ago](https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1))
-- Pegasus spyware founder urges governments to trust his tech and ditch US AI (FT, [5 hours ago](https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1))
-- Intelligence memo warns Iran plotting to kill Americans in Middle East (FT, [6 hours ago](https://www.ft.com/content/e2e82393-c7ca-4bc1-b270-022b3702d9e7?syn-25a6b1a6=1))
-- US executives quit $25bn gas venture over claims of secret Russian control (FT, [9 hours ago](https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1))
-- Trump moves to block certification of Alaska Senate election if Republican loses (FT, [10 hours ago](https://www.ft.com/content/b68b8544-4ce9-45d4-b522-cd2f8150e4cc?syn-25a6b1a6=1))
-- OpenAI disables internet access during model training while Anthropic issues another mea culpa (Register, [10 hours ago](https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238))
-- Trump to cut Canadian tariffs after pressure from Republicans (FT, [11 hours ago](https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1))
-- France avoids downgrade from Moody’s in boost for Macron’s government (FT, [11 hours ago](https://www.ft.com/content/840f9c94-cb41-4340-9fc4-41e76d908831?syn-25a6b1a6=1))
-- Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky (FT, [12 hours ago](https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1))
-- There's a third PHP2Shell bug, but it won't get an emergency fix (Register, [13 hours ago](https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208))
-- Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack (Register, [14 hours ago](https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200))
-- AI models think humans are a bunch of amoral sheep (Register, [17 hours ago](https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123))
-- Chelsea Football Club announces multi-year sleeve partnership with Sokin (CFC, [17 hours ago](https://www.chelseafc.com/en/news/article/chelsea-football-club-announces-multi-year-sleeve-partnership-with-sokin))
-- Michigan prof creates Python-like Jac language for AI agents (Register, [17 hours ago](https://www.theregister.com/devops/2026/10/23/michigan-prof-creates-python-like-jac-language-for-ai-agents/5305110))
-- Arc browser on its way out as makers suggest an alternative (Register, [18 hours ago](https://www.theregister.com/software/2026/10/23/arc-browser-on-its-way-out-as-makers-suggest-an-alternative/5305114))
-- SparkyOS: Lightweight general-purpose Arch, on a pendrive (Register, [18 hours ago](https://www.theregister.com/os-platforms/2026/10/23/sparkyos-lightweight-general-purpose-arch-on-a-pendrive/5304984))
-- PubKeep picks up where Microsoft Publisher signs off (Register, [19 hours ago](https://www.theregister.com/applications/2026/10/23/pubkeep-picks-up-where-microsoft-publisher-signs-off/5304978))
-- Musk disputes NASA safety panel's lunar launch estimates (Register, [21 hours ago](https://www.theregister.com/science/2026/10/23/musk-disputes-nasa-safety-panels-lunar-launch-estimates/5304961))
-- Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches (Register, [21 hours ago](https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357))
-- Ticketing update (CFC, [22 hours ago](https://www.chelseafc.com/en/news/article/ticketing-update))
+- Thousands march across Italy as protests bring isolated clashes with police (Euronews, [15 minutes ago](https://www.euronews.com/2026/10/25/thousands-march-across-italy-as-protests-bring-isolated-clashes-with-police))
+- Audi heads to US: Trump hopes carmaker boosts election bid (Euronews, [31 minutes ago](https://www.euronews.com/2026/10/25/audi-heads-to-us-trump-hopes-carmaker-boosts-election-bid))
+- <span class="italic m-italic">Reg</span> readers land on 'Binface' as name for UK space cleanup mission (Register, [47 minutes ago](https://www.theregister.com/offbeat/2026/10/25/reg-readers-land-on-binface-as-name-for-uk-space-cleanup-mission/5305144))
+- Almost 1,000 arrests across France as protesters clashed with police (Euronews, [1 hours ago](https://www.euronews.com/2026/10/25/almost-1000-arrests-across-france-as-protesters-clashed-with-police))
+- 100 arrested after night of unrest and looting in Barcelona (Euronews, [1 hours ago](https://www.euronews.com/2026/10/25/100-arrested-after-night-of-unrest-and-looting-in-barcelona))
+- Crystal Palace FCW vs. Chelsea FCW, Women’s Super League: Preview, team news, how to watch (WAGNH, [1 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173356/crystal-palace-fcw-vs-chelsea-fcw-womens-super-league-preview-team-news-how-to-watch))
+- The Daily Hilario: Sunday funday (WAGNH, [2 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173389/the-daily-hilario-sunday-funday))
+- Serbia goes to polls to choose between populist Vučić and student movement (Euronews, [2 hours ago](https://www.euronews.com/2026/10/25/serbia-goes-to-polls-to-choose-between-populist-vucic-and-student-movement))
+- Should Europe ban meat advertisements? We asked a climate psychologist to find out what would happen (Euronews, [2 hours ago](https://www.euronews.com/2026/10/25/should-europe-ban-meat-advertisements-we-asked-a-climate-psychologist-to-find-out-what-wou))
+- Graveyard tourism: Why Europe’s cemeteries are on the must-visit list for Halloween (Euronews, [2 hours ago](https://www.euronews.com/2026/10/25/graveyard-tourism-why-europes-cemeteries-are-on-the-must-visit-list-for-halloween))
+- Latest news bulletin  October 25th, 2026 – Morning (Euronews, [2 hours ago](https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-morning))
+- Gold market and central banks: Russia, Kazakhstan sell as Poland, China buy (Euronews, [2 hours ago](https://www.euronews.com/2026/10/25/gold-market-and-central-banks-russia-kazakhstan-sell-as-poland-china-buy))
+- Luxury groups’ value drops by €250bn as Chinese consumer demand fades (FT, [4 hours ago](https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1))
+- Bolsonaro and Lula face off in knife-edge Brazil election (FT, [4 hours ago](https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1))
+- The right’s obsession with ‘civil war’ in Britain (FT, [4 hours ago](https://www.ft.com/content/3736714a-2058-4413-ac91-e8f10f33ad69?syn-25a6b1a6=1))
+- The Black Sea is now the world’s deadliest shipping route (FT, [4 hours ago](https://www.ft.com/content/8c874f60-0041-476d-9c53-8524c374443f?syn-25a6b1a6=1))
+- More than 1mn antiquities returned to countries of origin (FT, [4 hours ago](https://www.ft.com/content/82f2922f-8c73-4e00-9a71-7682a2c9af1a?syn-25a6b1a6=1))
+- Why 17 is not the magic number in industrial policy (FT, [8 hours ago](https://www.ft.com/content/3e405824-a44a-4cb7-bc80-acc5bc3b5b59?syn-25a6b1a6=1))
+- Ukraine military says Starlink service restrictions have been lifted (FT, [12 hours ago](https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8))
+- Young protesters clash with police on Rome streets (Euronews, [12 hours ago](https://www.euronews.com/video/2026/10/24/young-protesters-clash-with-police-on-rome-streets))
+- Match report: Chelsea 0-2 Tottenham Hotspur (CFC, [15 hours ago](https://www.chelseafc.com/en/news/article/match-report-chelsea-0-2-tottenham-hotspur))
+- Chelsea 0-2 Spurs, Premier League: Post-match reaction, ratings (WAGNH, [15 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/173378/chelsea-0-2-spurs-premier-league-post-match-reaction-ratings))
+- Xabi Alonso on his confidence in Mike Penders and Liverpool decision (CFC, [16 hours ago](https://www.chelseafc.com/en/news/article/xabi-alonso-on-his-confidence-in-mike-penders-and-liverpool-decision))
+- Chelsea vs. Tottenham Hotspur, Premier League: Lineups &#038; Game Thread (WAGNH, [17 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/173352/chelsea-vs-tottenham-hotspur-premier-league-confirmed-lineups-how-to-watch))
+- Alonso explains Joao Pedro absence against Tottenham (CFC, [17 hours ago](https://www.chelseafc.com/en/news/article/alonso-explains-joao-pedro-absence-and-penders-and-quenda-selections))
+- Premier League 2 report: Cobham Next Gen 2-2 Liverpool (CFC, [20 hours ago](https://www.chelseafc.com/en/news/article/premier-league-2-report-cobham-next-gen-2-2-liverpool))
+- Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds (Register, [20 hours ago](https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215))
+- Raspberry Pi Desktop proves old PCs aren't past it (Register, [22 hours ago](https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676))
 
 <!-- news_marker ends -->
 
@@ -133,35 +128,35 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> Prediction is very difficult, especially about the future. - Niels Bohr, Physicist
+> This indispensable first step to getting what you want is this: Decide what you want. - Ben Stein, Actor
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Make a blank valuable by putting it in an exquisite frame
+> Take away the elements in order of apparent non-importance
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Dont Say A Word (Rated: 5)
-- Released in 2001
-- Summary: No summary available
+- Mad Max: Fury Road (Rated: 8)
+- Released in 2015
+- Summary: In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshipper and a drifter named Max.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 707, using [2, 5, 9, 9, 10, 75]
-- Answer: 11 solutions.
+- Target: 472, using [3, 4, 5, 7, 9, 100]
+- Answer: 30 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 10 + 2 - 9 ) x 9 + 5
+  Solution: ( 100 + 9 + 7 + 5 - 3 ) x 4
 
    </details>
 
@@ -170,9 +165,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-- HeyDingus [URL](https://heydingus.net/) [Feed](https://heydingus.net/feed.rss)
-- Harry Cresswell [URL](https://harrycresswell.com/writing/) [Feed](https://harrycresswell.com/writing/feed.xml)
-- Justin Jackson [URL](https://justinjackson.ca/) [Feed](http://justinjackson.ca/feed/)
-- Vlad's Website [URL](https://vlad.website/) [Feed](https://vlad.website/index.xml)
-- Lisa Charlotte Muth [URL](https://lisacharlottemuth.com/) [Feed](https://lisacharlottemuth.com/feed.xml)
+- Joana Stern (The New Things) [URL](https://thenewthings.com/) [Feed](https://rss.beehiiv.com/feeds/1vJYynypCP.xml)
+- Alvin Ashcroft (Morning Dew) [URL](https://alvinashcraft.com/) [Feed](https://www.alvinashcraft.com/feed.xml)
+- Andypbrowne [URL](https://andypbrowne.com/) [Feed](https://andypbrowne.com/feed/feed.xml)
+- Mike Cohn [URL](https://www.mountaingoatsoftware.com/blog/) [Feed](http://www.mountaingoatsoftware.com/blog/rss)
+- Ploeh.DJ [URL](https://blog.ploeh.dk/) [Feed](https://blog.ploeh.dk/rss.xml)
 <!-- blogroll_marker ends -->
