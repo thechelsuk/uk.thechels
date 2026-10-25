@@ -3,8 +3,9 @@ layout: post
 date: 2026-10-20 17:46
 title: NNW Theme Bundle Version v3.5.1
 seo_title: NNW Theme Bundle Version v3.5.1 Release Notes
-seo_description: 'Release notes for NNW Theme Bundle version v3.5.1: Download Claudio.zip
-  to install this theme; Download Franco.zip to install this theme; Download Fresh.zip...'
+seo_description:
+  "Release notes for NNW Theme Bundle version v3.5.1: Download Claudio.zip
+  to install this theme; Download Franco.zip to install this theme; Download Fresh.zip..."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/tag/v3.5.1
