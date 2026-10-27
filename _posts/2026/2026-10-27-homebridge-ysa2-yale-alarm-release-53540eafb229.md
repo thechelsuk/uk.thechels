@@ -3,7 +3,8 @@ layout: post
 date: 2026-10-27 20:39
 title: Homebridge (YSA2) Yale Alarm Version v2.5.2
 seo_title: Homebridge (YSA2) Yale Alarm Version v2.5.2 Release Notes
-seo_description: Release notes for Homebridge (YSA2) Yale Alarm version v2.5.2. See
+seo_description:
+  Release notes for Homebridge (YSA2) Yale Alarm version v2.5.2. See
   what changed in this version. Most of my projects are free and open source.
 type: release
 cited: GitHub

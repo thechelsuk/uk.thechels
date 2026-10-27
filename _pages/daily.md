@@ -13,6 +13,7 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Tuesday, 27 October 2026
 
 - The average temperature today is 13.29˚C,
@@ -27,6 +28,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 180 days since the last change (2026-04-30)
 
@@ -35,6 +37,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Refuse Waste Collection Day
 - Food Waste Collection Day
 
@@ -43,12 +46,15 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Be a learning individual.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Burnley U18 v Manchester United U18
 - AFC Wimbledon v Arsenal U21
 - Blackpool v Aston Villa U21
@@ -76,27 +82,31 @@ _Good Morning, Here is your daily briefing..._
 - Braintree Town v Dagenham & Redbridge
 - Maidstone United v Ebbsfleet United
 - Fleetwood Town v Arsenal
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 137.76272583007812 
-- ^FTSE : 10671.73046875 
-- ^FTMC : 24538.73046875 
+- VWRL.L : 137.76272583007812
+- ^FTSE : 10671.73046875
+- ^FTMC : 24538.73046875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > That last joke was terrible, without the 's' though, it was decent.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - From doubt to delivery: Jay-Z confirmed as headliner for 2027 Super Bowl halftime show (Euronews, [3 minutes ago](https://www.euronews.com/2026/10/27/from-doubt-to-delivery-jay-z-confirmed-as-headliner-for-2027-super-bowl-halftime-show))
 - Europe to remain the ‘powerhouse’ of global travel for the next decade, new report predicts (Euronews, [6 minutes ago](https://www.euronews.com/2026/10/27/europe-to-remain-the-powerhouse-of-global-travel-for-the-next-decade-new-report-predicts))
 - FreeBSD founder ports Omarchy to FreeBSD in ten days, ten releases (Register, [15 minutes ago](https://www.theregister.com/os-platforms/2026/10/27/freebsd-founder-ports-omarchy-to-freebsd-in-ten-days-ten-releases/5305446))
@@ -138,7 +148,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > Herodian - adjective: 1. Cruel; tyrannical. 2. Pompous or bombastic.
+> Herodian - adjective: 1. Cruel; tyrannical. 2. Pompous or bombastic.
 
 <!-- word_marker ends -->
 
@@ -153,6 +163,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Abandon normal instruments
 
 <!-- eno_marker ends -->
@@ -160,9 +171,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Lost Bullet (Rated: 3)
 - Released in 2020
 - Summary: A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -183,9 +196,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - German [URL](https://igerman.cc/) [Feed](https://igerman.cc/rss.xml)
 - Bogdan on Digital Accessibility [URL](https://cerovac.com/a11y) [Feed](https://cerovac.com/a11y/feed/)
 - The Sweet Setup [URL](https://thesweetsetup.com/) [Feed](https://thesweetsetup.com/feed/)
 - NetNewsWire [URL](https://netnewswire.blog/) [Feed](https://nnw.ranchero.com/feed.json)
 - Harry Cresswell [URL](https://harrycresswell.com/writing/) [Feed](https://harrycresswell.com/writing/feed.xml)
+
 <!-- blogroll_marker ends -->
