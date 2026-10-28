@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-10-27
+date: 2026-10-28
 last_modified_at: "2026-10-16"
 ---
 
@@ -13,134 +13,96 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+## On Wednesday, 28 October 2026
 
-## On Tuesday, 27 October 2026
-
-- The average temperature today is 13.29˚C,
-- With highs of 14.66˚C and lows of 12.75˚C,
-- It may feel like 12.61˚C with few clouds
-- The wind speed is 4.63m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 74%
-- The sun will rise at 06:53 and set at 16:50
+- The average temperature today is 13.84˚C,
+- With highs of 14.87˚C and lows of 13.3˚C,
+- It may feel like 13.39˚C with few clouds
+- The wind speed is 7.2m/s and visibility is 10000m
+- The pressure is 1024hPa and humidity is 81%
+- The sun will rise at 06:55 and set at 16:48
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 
 <!-- threat_marker starts -->
-
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 180 days since the last change (2026-04-30)
+- It has been 181 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-
-- Refuse Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-
-> Be a learning individual.
-
+> Use a common language.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-
-- Burnley U18 v Manchester United U18
-- AFC Wimbledon v Arsenal U21
-- Blackpool v Aston Villa U21
-- Port Vale v Manchester City U21
-- Shrewsbury Town v Everton U21
-- Bradford City v Peterborough United
-- Leicester City v Wigan Athletic
-- Luton Town v Doncaster Rovers
-- MK Dons v Bromley
-- Oxford United v Stockport County
-- Sheffield Wednesday v Cambridge United
-- Barnet v York City
-- AFC Fylde v Hartlepool United
-- Altrincham v Kidderminster Harriers
-- Boston United v Gateshead
-- FC Halifax Town v Barrow AFC
-- Hornchurch v Yeovil Town
-- Tamworth v Scunthorpe United
-- Wealdstone v Solihull Moors
-- Woking v Boreham Wood
-- Worthing v Southend United
-- Morecambe v Darlington
-- Spennymoor Town v South Shields
-- AFC Totton v Torquay United
-- Braintree Town v Dagenham & Redbridge
-- Maidstone United v Ebbsfleet United
-- Fleetwood Town v Arsenal
-
+- No Fixtures
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 137.76272583007812
-- ^FTSE : 10671.73046875
-- ^FTMC : 24538.73046875
+- VWRL.L : 139.27000427246094 
+- ^FTSE : 10657.8603515625 
+- ^FTMC : 24753.560546875 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-
-> That last joke was terrible, without the 's' though, it was decent.
-
+> New judges are being offered innovative pay options to help but I do not think the test-i-money will catch on.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-
-- From doubt to delivery: Jay-Z confirmed as headliner for 2027 Super Bowl halftime show (Euronews, [3 minutes ago](https://www.euronews.com/2026/10/27/from-doubt-to-delivery-jay-z-confirmed-as-headliner-for-2027-super-bowl-halftime-show))
-- Europe to remain the ‘powerhouse’ of global travel for the next decade, new report predicts (Euronews, [6 minutes ago](https://www.euronews.com/2026/10/27/europe-to-remain-the-powerhouse-of-global-travel-for-the-next-decade-new-report-predicts))
-- FreeBSD founder ports Omarchy to FreeBSD in ten days, ten releases (Register, [15 minutes ago](https://www.theregister.com/os-platforms/2026/10/27/freebsd-founder-ports-omarchy-to-freebsd-in-ten-days-ten-releases/5305446))
-- From Baku’s waterfront to the Greater Caucasus: a new winter destination within reach (Euronews, [32 minutes ago](https://www.euronews.com/2026/10/27/from-bakus-waterfront-to-the-greater-caucasus-a-new-winter-destination-within-reach))
-- Win or lose, Netanyahu could remain in power for months after Israeli election as Iran tensions loom (Euronews, [48 minutes ago](https://www.euronews.com/2026/10/27/win-or-lose-netanyahu-could-remain-in-power-for-months-after-israeli-election-as-iran-tens))
-- Ukraine: firefighters battle flames and rescue dog from Kyiv ruins (Euronews, [55 minutes ago](https://www.euronews.com/video/2026/10/27/ukraine-firefighters-battle-flames-and-rescue-dog-from-kyiv-ruins))
-- Year of Linux on the Beach confirmed (Register, [1 hours ago](https://www.theregister.com/offbeat/2026/10/27/year-of-linux-on-the-beach-confirmed/5305385))
-- AI chip boom tripled South Korea's economic growth in the third quarter (Euronews, [1 hours ago](https://www.euronews.com/2026/10/27/ai-chip-boom-tripled-south-koreas-economic-growth-in-the-third-quarter))
-- Macklemore begins Free Palestine tour in Europe with call for unity in Dublin (Euronews, [1 hours ago](https://www.euronews.com/2026/10/27/macklemore-begins-free-palestine-tour-in-europe-with-call-for-unity-in-dublin))
-- Israelis head to polls in first general election since 7 October attacks with no clear favourite (Euronews, [1 hours ago](https://www.euronews.com/2026/10/27/israelis-head-to-polls-in-first-general-election-since-7-october-attacks-with-no-clear-fav))
-- Trump calls Norway a ‘shithouse country’ over Nobel Peace Prize snub (Euronews, [1 hours ago](https://www.euronews.com/video/2026/10/27/trump-calls-norway-a-shithouse-country-over-nobel-peace-prize-snub))
-- How everyday technology choices drive true workplace sustainability (Register, [1 hours ago](https://www.theregister.com/on-prem/2026/10/27/sponsored-how-everyday-technology-choices-drive-true-workplace-sustainability/5296594))
-- Rogue AI, cyberattacks and weapons: the risks Anthropic is warning investors about ahead of its IPO (Euronews, [1 hours ago](https://www.euronews.com/2026/10/27/rogue-ai-cyberattacks-and-weapons-the-risks-anthropic-is-warning-investors-about-ahead-of-))
-- Tech stocks rise as AI trade regains steam (FT, [1 hours ago](https://www.ft.com/content/a4f9f81e-df30-4669-9eca-865d9d14e441?syn-25a6b1a6=1))
-- HSBC shares fall as results disappoint (FT, [2 hours ago](https://www.ft.com/content/fd23db26-a45b-4a98-b771-4234a30b7937?syn-25a6b1a6=1))
-- The Daily Hilario: My Arrakis (WAGNH, [2 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173440/the-daily-hilario-my-arrakis))
-- Elvis rightsholders sue Anthropic for stealing songs and leaving them in Heartbreak Hotel (Register, [4 hours ago](https://www.theregister.com/ai-and-ml/2026/10/27/elvis-rightsholders-sue-anthropic-for-stealing-songs-and-leaving-them-in-heartbreak-hotel/5305625))
-- Lula faces a fiscal reckoning after Brazil’s market rout (FT, [5 hours ago](https://www.ft.com/content/0231b234-14dc-4ff0-8263-e1063b0a25d5?syn-25a6b1a6=1))
-- France must appease protesters without extra spending, says finance minister (FT, [5 hours ago](https://www.ft.com/content/167fd08f-2f01-46ee-a419-074e22ffd1a8?syn-25a6b1a6=1))
-- The winners and losers of the weight-loss economy (FT, [5 hours ago](https://www.ft.com/content/2f1667a8-ef1b-46a0-bc95-6061ec85fb8e?syn-25a6b1a6=1))
-- How long can lawyers keep squeezing their clients? (FT, [5 hours ago](https://www.ft.com/content/cf954c9f-48dc-4e30-a03a-6fb2ec4dafa6?syn-25a6b1a6=1))
-- Israelis go to the polls in historic election (FT, [5 hours ago](https://www.ft.com/content/87d81352-5086-44bd-a5bb-797582e2d07c?syn-25a6b1a6=1))
-- Inside Trump Jr’s Mongolian hunting trip with a Kremlin-linked oligarch (FT, [5 hours ago](https://www.ft.com/content/f41fc704-c9e6-42de-b800-d43cabe61947?syn-25a6b1a6=1))
-- IBM admits mainframes need to be modernized and will use AI to do the job (Register, [6 hours ago](https://www.theregister.com/systems/2026/10/27/ibm-admits-mainframes-need-to-be-modernized-and-will-use-ai-to-do-the-job/5305618))
-- Chelsea 0-2 Tottenham Hotspur, Player Ratings: Early-season Blues (WAGNH, [9 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/173432/chelsea-0-2-tottenham-hotspur-player-ratings-early-season-blues))
-- Japanese virtual desktop cloud hacked so hard it asks to be banned (Register, [9 hours ago](https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610))
-- Bolsonaro’s Liberal Party accepts defeat in Brazil as Trump calls result ‘rigged’ (FT, [9 hours ago](https://www.ft.com/content/ae37754c-6200-425d-8f8f-ce0b0f7cc250?syn-25a6b1a6=1))
-- Humanity can't afford not to spend $800B on AI, Anthropic insists (Register, [10 hours ago](https://www.theregister.com/ai-and-ml/2026/10/26/humanity-cant-afford-not-to-spend-800b-on-ai-anthropic-insists/5305580))
-- OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra (Register, [11 hours ago](https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574))
-- Worm armed 42 GitHub repos by hiding a payload too big to fail (Register, [12 hours ago](https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570))
-- Alibaba's Qwen AI caught trying to contact server in China (Register, [13 hours ago](https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561))
-- Brazil’s currency plunges most since 1999 after Lula’s election victory (FT, [13 hours ago](https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1))
-- Training gallery: Attention turns to Liverpool (CFC, [18 hours ago](https://www.chelseafc.com/en/news/article/training-gallery-attention-turns-to-liverpool))
-- Chizaram Ezenwata signs new deal (CFC, [22 hours ago](https://www.chelseafc.com/en/news/article/chizaram-ezenwata-signs-new-deal))
+- Spain: First footage reveals wreckage of deadly high-speed train crash (Euronews, [2 minutes ago](https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash))
+- US to grant Flavio Bolsonaro visa as he flees Brazil and makes brief stop in Ecuador via Argentina (Euronews, [4 minutes ago](https://www.euronews.com/2026/10/28/us-to-grant-flavio-bolsonaro-visa-as-he-flees-brazil-and-makes-brief-stop-in-ecuador-via-a))
+- First aerial images show scene of deadly train crash in Toledo, Spain (Euronews, [6 minutes ago](https://www.euronews.com/video/2026/10/28/first-aerial-images-show-scene-of-deadly-train-crash-in-toledo-spain))
+- Latest news bulletin  October 28th, 2026 – Midday (Euronews, [18 minutes ago](https://www.euronews.com/video/2026/10/28/latest-news-bulletin-october-28th-2026-midday))
+- Open Cosmos steps up Europe's space sovereignty game, shows off ConnectedCosmos satellites (Register, [18 minutes ago](https://www.theregister.com/networks/2026/10/28/open-cosmos-steps-up-europes-space-sovereignty-game-shows-off-connectedcosmos-satellites/5305479))
+- BNP Paribas downplays French debt exposure as stock trading lifts profit (Euronews, [44 minutes ago](https://www.euronews.com/2026/10/28/bnp-paribas-downplays-french-debt-exposure-as-stock-trading-lifts-profit))
+- Abandon ship! Around 200 ‘cruise for life’ passengers stranded in Cambodia (Euronews, [47 minutes ago](https://www.euronews.com/2026/10/28/abandon-ship-around-200-cruise-for-life-passengers-stranded-in-cambodia))
+- Small and very scary: Rare miniature T.rex dinosaur skeleton fetches €42 million at auction (Euronews, [1 hours ago](https://www.euronews.com/2026/10/28/small-and-very-scary-rare-miniature-trex-dinosaur-skeleton-fetches-42-million-at-auction))
+- Man spends 35 years collecting corporate waffle, turns it into an app (Register, [1 hours ago](https://www.theregister.com/offbeat/2026/10/28/man-spends-35-years-collecting-corporate-waffle-turns-it-into-an-app/5305765))
+- Has the White House tipped rapper Nicki Minaj as Donald Trump's new press secretary? (Euronews, [1 hours ago](https://www.euronews.com/2026/10/28/has-the-white-house-tipped-rapper-nicki-minaj-as-donald-trumps-new-press-secretary))
+- At least 10 killed in collision of high-speed trains in Spain (FT, [1 hours ago](https://www.ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1))
+- Cross-border network helps EU workers abroad claim wages and benefits (Euronews, [1 hours ago](https://www.euronews.com/2026/10/28/cross-border-network-helps-eu-workers-abroad-claim-wages-and-benefits))
+- Why even America’s ‘haves’ are feeling the squeeze (FT, [1 hours ago](https://www.ft.com/content/624f7138-96b0-4752-96f1-b54f2b18742b?syn-25a6b1a6=1))
+- Zelenskyy opens door to security guarantees for Russia (FT, [1 hours ago](https://www.ft.com/content/8ec7d6f2-403a-4f80-89fc-5ed5e75fed63?syn-25a6b1a6=1))
+- Netanyahu ahead but no clear winner in Israeli election (FT, [1 hours ago](https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1))
+- Neocloud thinks AI agents - not meatbags - will be its main customers (Register, [1 hours ago](https://www.theregister.com/ai-and-ml/2026/10/28/neocloud-thinks-ai-agents-not-meatbags-will-be-its-main-customers/5305496))
+- High-speed train crash in Spain kills at least 30 people, with multiple people injured (Euronews, [1 hours ago](https://www.euronews.com/2026/10/28/train-crash-in-spain-reportedly-kills-at-least-10-people-multiple-injured))
+- Why roaming packages have become an anachronism in the age of app-first travel (Register, [2 hours ago](https://www.theregister.com/personal-tech/2026/10/28/partner-content-why-roaming-packages-have-become-an-anachronism-in-the-age-of-app-first-travel/5303347))
+- Bolsonaro lands in US after fleeing Brazil following election defeat (FT, [2 hours ago](https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1))
+- Israel’s election: what happens next? (FT, [3 hours ago](https://www.ft.com/content/4f122702-3765-4e9f-a94f-4b786bc2af15))
+- The Daily Hilario: Tuesday (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173452/the-daily-hilario-october-27th))
+- Liverpool vs. Chelsea, League Cup: Preview, team news, how to watch (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-league-cup/173462/liverpool-vs-chelsea-league-cup-preview-team-news-how-to-watch))
+- Polymarket’s top trader is sports gambler ‘Swiss Tony’ (FT, [6 hours ago](https://www.ft.com/content/06c5ed21-d06d-4582-ac21-160d1047b008?syn-25a6b1a6=1))
+- The globetrotting Trump brothers (FT, [6 hours ago](https://www.ft.com/content/a89fa128-8fcb-4ff4-bd8b-6bb591ccd9c1?syn-25a6b1a6=1))
+- Anthropic’s seven founders tighten grip ahead of blockbuster IPO (FT, [6 hours ago](https://www.ft.com/content/24a35e41-2641-4cec-97f5-a974412f9952?syn-25a6b1a6=1))
+- How should Chelsea line up against Liverpool in the League Cup? (WAGNH, [6 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-league-cup/173457/how-should-chelsea-line-up-against-liverpool-in-the-league-cup))
+- SK Hynix says memory shortages to persist until 2030 (Register, [6 hours ago](https://www.theregister.com/systems/2026/10/28/sk-hynix-says-memory-shortages-to-persist-until-2030/5305887))
+- AI slows growth for Infosys and keeps it afloat at the same time (Register, [9 hours ago](https://www.theregister.com/channel/2026/10/28/ai-slows-growth-for-infosys-and-keeps-it-afloat-at-the-same-time/5305879))
+- Big Red gets cozy with Google to offer TPUs to AI customers (Register, [14 hours ago](https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846))
+- Anthropic now lets Claude users jump out of plane without parachute (Register, [15 hours ago](https://www.theregister.com/ai-and-ml/2026/10/27/anthropic-now-lets-claude-users-jump-out-of-plane-without-parachute/5305807))
+- AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours (Register, [16 hours ago](https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811))
+- Washington discusses Russian deals for US oil majors in Ukraine peace talks (FT, [16 hours ago](https://www.ft.com/content/d703aaae-f607-4b30-9830-ac2a25472d44?syn-25a6b1a6=1))
+- João Pedro set to miss ‘a few weeks’; Emmanuel Emegha set to return (WAGNH, [16 hours ago](https://weaintgotnohistory.sbnation.com/injury-news/173449/joao-pedro-set-to-miss-a-few-weeks-emmanuel-emegha-set-to-return))
+- Apple takes powerful M6 chip to the MacBook Pro, iMac (Register, [17 hours ago](https://www.theregister.com/personal-tech/2026/10/27/apple-takes-powerful-m6-chip-to-the-macbook-pro-imac/5305797))
 
 <!-- news_marker ends -->
 
@@ -148,7 +110,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
-> Herodian - adjective: 1. Cruel; tyrannical. 2. Pompous or bombastic.
+ > Herodotean - adjective: 1. (Of an account or narrative) Very large in scope or extremely detailed. 2. Fanciful or overly dramatic.
 
 <!-- word_marker ends -->
 
@@ -156,38 +118,35 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> Stop starting things, and start finishing things. - Jean Tabaka
+> The value of an idea lies in the using of it. - Thomas Edison
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-
-> Abandon normal instruments
+> Look closely at the most embarrassing details and amplify them
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-
-- Lost Bullet (Rated: 3)
-- Released in 2020
-- Summary: A small time delinquent, turned police mechanic for a go fast task force, is forced to defend his innocence when his mentor is killed by dirty cops.
-
+- Deep Fear (Rated: 1)
+- Released in 2023
+- Summary: Storm-stricken drug traffickers force a yachtswoman to recover their sunken cocaine stash from shark-infested waters.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 326, using [4, 8, 9, 25, 75, 100]
-- Answer: 4 solutions.
+- Target: 745, using [6, 6, 7, 9, 9, 10]
+- Answer: 2 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 8 - 75 ) x 9 + 25 + 4
+  Solution: ( ( 10 + 9 ) x 6 + 9 ) x 6 + 7
 
    </details>
 
@@ -196,11 +155,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-
-- German [URL](https://igerman.cc/) [Feed](https://igerman.cc/rss.xml)
-- Bogdan on Digital Accessibility [URL](https://cerovac.com/a11y) [Feed](https://cerovac.com/a11y/feed/)
-- The Sweet Setup [URL](https://thesweetsetup.com/) [Feed](https://thesweetsetup.com/feed/)
-- NetNewsWire [URL](https://netnewswire.blog/) [Feed](https://nnw.ranchero.com/feed.json)
-- Harry Cresswell [URL](https://harrycresswell.com/writing/) [Feed](https://harrycresswell.com/writing/feed.xml)
-
+- One Thing Well [URL](https://onethingwell.org/) [Feed](http://onethingwell.org/rss)
+- Probably Fine [URL](https://blog.probablyfine.co.uk/) [Feed](https://blog.probablyfine.co.uk/feed.xml)
+- Steven Breckinridge [URL](https://stuartbreckenridge.net/) [Feed](https://stuartbreckenridge.net/rss.xml)
+- Krebs on Security [URL](https://krebsonsecurity.com/) [Feed](http://krebsonsecurity.com/feed/)
+- David Cramer [URL](https://cra.mr/) [Feed](https://cra.mr/rss.xml)
 <!-- blogroll_marker ends -->
