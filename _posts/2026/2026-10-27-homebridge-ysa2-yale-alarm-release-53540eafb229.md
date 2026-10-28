@@ -26,6 +26,4 @@ chore: add funding links and release 2.5.2
 Add GitHub Sponsors and Ko-fi to package.json funding, a README
 support section and .github/FUNDING.yml.
 
-Co-Authored-By: Claude Opus 5.5 [noreply@anthropic.com](mailto:noreply@anthropic.com)
-
 [Read more about my projects](/projects)
