@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-10-28
+date: 2026-10-29
 last_modified_at: "2026-10-16"
 ---
 
@@ -13,14 +13,14 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Wednesday, 28 October 2026
+## On Thursday, 29 October 2026
 
-- The average temperature today is 13.84˚C,
-- With highs of 14.87˚C and lows of 13.3˚C,
-- It may feel like 13.39˚C with few clouds
-- The wind speed is 7.2m/s and visibility is 10000m
-- The pressure is 1024hPa and humidity is 81%
-- The sun will rise at 06:55 and set at 16:48
+- The average temperature today is 14.08˚C,
+- With highs of 15.19˚C and lows of 13.3˚C,
+- It may feel like 13.63˚C with broken clouds
+- The wind speed is 2.57m/s and visibility is 10000m
+- The pressure is 1028hPa and humidity is 80%
+- The sun will rise at 06:57 and set at 16:46
 
 <!-- weather_marker ends -->
 
@@ -28,7 +28,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 181 days since the last change (2026-04-30)
+- It has been 182 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
@@ -41,68 +41,77 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Use a common language.
+> Be humble.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- No Fixtures
+- Everton v Newcastle United
+- Manchester City Women v PSG Women
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 139.27000427246094 
-- ^FTSE : 10657.8603515625 
-- ^FTMC : 24753.560546875 
+- VWRL.L : 138.8800048828125 
+- ^FTSE : 10740.7197265625 
+- ^FTMC : 24677.150390625 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> New judges are being offered innovative pay options to help but I do not think the test-i-money will catch on.
+> The police came round the other day saying they had reports our pet dog had been chasing the local kids on roller skates, funny I said, our dog does not own any roller skates.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-- Spain: First footage reveals wreckage of deadly high-speed train crash (Euronews, [2 minutes ago](https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash))
-- US to grant Flavio Bolsonaro visa as he flees Brazil and makes brief stop in Ecuador via Argentina (Euronews, [4 minutes ago](https://www.euronews.com/2026/10/28/us-to-grant-flavio-bolsonaro-visa-as-he-flees-brazil-and-makes-brief-stop-in-ecuador-via-a))
-- First aerial images show scene of deadly train crash in Toledo, Spain (Euronews, [6 minutes ago](https://www.euronews.com/video/2026/10/28/first-aerial-images-show-scene-of-deadly-train-crash-in-toledo-spain))
-- Latest news bulletin  October 28th, 2026 – Midday (Euronews, [18 minutes ago](https://www.euronews.com/video/2026/10/28/latest-news-bulletin-october-28th-2026-midday))
-- Open Cosmos steps up Europe's space sovereignty game, shows off ConnectedCosmos satellites (Register, [18 minutes ago](https://www.theregister.com/networks/2026/10/28/open-cosmos-steps-up-europes-space-sovereignty-game-shows-off-connectedcosmos-satellites/5305479))
-- BNP Paribas downplays French debt exposure as stock trading lifts profit (Euronews, [44 minutes ago](https://www.euronews.com/2026/10/28/bnp-paribas-downplays-french-debt-exposure-as-stock-trading-lifts-profit))
-- Abandon ship! Around 200 ‘cruise for life’ passengers stranded in Cambodia (Euronews, [47 minutes ago](https://www.euronews.com/2026/10/28/abandon-ship-around-200-cruise-for-life-passengers-stranded-in-cambodia))
-- Small and very scary: Rare miniature T.rex dinosaur skeleton fetches €42 million at auction (Euronews, [1 hours ago](https://www.euronews.com/2026/10/28/small-and-very-scary-rare-miniature-trex-dinosaur-skeleton-fetches-42-million-at-auction))
-- Man spends 35 years collecting corporate waffle, turns it into an app (Register, [1 hours ago](https://www.theregister.com/offbeat/2026/10/28/man-spends-35-years-collecting-corporate-waffle-turns-it-into-an-app/5305765))
-- Has the White House tipped rapper Nicki Minaj as Donald Trump's new press secretary? (Euronews, [1 hours ago](https://www.euronews.com/2026/10/28/has-the-white-house-tipped-rapper-nicki-minaj-as-donald-trumps-new-press-secretary))
-- At least 10 killed in collision of high-speed trains in Spain (FT, [1 hours ago](https://www.ft.com/content/3500a00d-d676-4460-83f8-8ea2bfce1049?syn-25a6b1a6=1))
-- Cross-border network helps EU workers abroad claim wages and benefits (Euronews, [1 hours ago](https://www.euronews.com/2026/10/28/cross-border-network-helps-eu-workers-abroad-claim-wages-and-benefits))
-- Why even America’s ‘haves’ are feeling the squeeze (FT, [1 hours ago](https://www.ft.com/content/624f7138-96b0-4752-96f1-b54f2b18742b?syn-25a6b1a6=1))
-- Zelenskyy opens door to security guarantees for Russia (FT, [1 hours ago](https://www.ft.com/content/8ec7d6f2-403a-4f80-89fc-5ed5e75fed63?syn-25a6b1a6=1))
-- Netanyahu ahead but no clear winner in Israeli election (FT, [1 hours ago](https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1))
-- Neocloud thinks AI agents - not meatbags - will be its main customers (Register, [1 hours ago](https://www.theregister.com/ai-and-ml/2026/10/28/neocloud-thinks-ai-agents-not-meatbags-will-be-its-main-customers/5305496))
-- High-speed train crash in Spain kills at least 30 people, with multiple people injured (Euronews, [1 hours ago](https://www.euronews.com/2026/10/28/train-crash-in-spain-reportedly-kills-at-least-10-people-multiple-injured))
-- Why roaming packages have become an anachronism in the age of app-first travel (Register, [2 hours ago](https://www.theregister.com/personal-tech/2026/10/28/partner-content-why-roaming-packages-have-become-an-anachronism-in-the-age-of-app-first-travel/5303347))
-- Bolsonaro lands in US after fleeing Brazil following election defeat (FT, [2 hours ago](https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1))
-- Israel’s election: what happens next? (FT, [3 hours ago](https://www.ft.com/content/4f122702-3765-4e9f-a94f-4b786bc2af15))
-- The Daily Hilario: Tuesday (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173452/the-daily-hilario-october-27th))
-- Liverpool vs. Chelsea, League Cup: Preview, team news, how to watch (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-league-cup/173462/liverpool-vs-chelsea-league-cup-preview-team-news-how-to-watch))
-- Polymarket’s top trader is sports gambler ‘Swiss Tony’ (FT, [6 hours ago](https://www.ft.com/content/06c5ed21-d06d-4582-ac21-160d1047b008?syn-25a6b1a6=1))
-- The globetrotting Trump brothers (FT, [6 hours ago](https://www.ft.com/content/a89fa128-8fcb-4ff4-bd8b-6bb591ccd9c1?syn-25a6b1a6=1))
-- Anthropic’s seven founders tighten grip ahead of blockbuster IPO (FT, [6 hours ago](https://www.ft.com/content/24a35e41-2641-4cec-97f5-a974412f9952?syn-25a6b1a6=1))
-- How should Chelsea line up against Liverpool in the League Cup? (WAGNH, [6 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-league-cup/173457/how-should-chelsea-line-up-against-liverpool-in-the-league-cup))
-- SK Hynix says memory shortages to persist until 2030 (Register, [6 hours ago](https://www.theregister.com/systems/2026/10/28/sk-hynix-says-memory-shortages-to-persist-until-2030/5305887))
-- AI slows growth for Infosys and keeps it afloat at the same time (Register, [9 hours ago](https://www.theregister.com/channel/2026/10/28/ai-slows-growth-for-infosys-and-keeps-it-afloat-at-the-same-time/5305879))
-- Big Red gets cozy with Google to offer TPUs to AI customers (Register, [14 hours ago](https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846))
-- Anthropic now lets Claude users jump out of plane without parachute (Register, [15 hours ago](https://www.theregister.com/ai-and-ml/2026/10/27/anthropic-now-lets-claude-users-jump-out-of-plane-without-parachute/5305807))
-- AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours (Register, [16 hours ago](https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811))
-- Washington discusses Russian deals for US oil majors in Ukraine peace talks (FT, [16 hours ago](https://www.ft.com/content/d703aaae-f607-4b30-9830-ac2a25472d44?syn-25a6b1a6=1))
-- João Pedro set to miss ‘a few weeks’; Emmanuel Emegha set to return (WAGNH, [16 hours ago](https://weaintgotnohistory.sbnation.com/injury-news/173449/joao-pedro-set-to-miss-a-few-weeks-emmanuel-emegha-set-to-return))
-- Apple takes powerful M6 chip to the MacBook Pro, iMac (Register, [17 hours ago](https://www.theregister.com/personal-tech/2026/10/27/apple-takes-powerful-m6-chip-to-the-macbook-pro-imac/5305797))
+- LibreOffice's 'no AI' stance meets LLM-assisted code (Register, [1 minutes ago](https://www.theregister.com/ai-and-ml/2026/10/29/libreoffices-no-ai-stance-meets-llm-assisted-code/5306084))
+- Spain train crash: What happened in the 17 minutes before the collision? (Euronews, [6 minutes ago](https://www.euronews.com/2026/10/29/spain-train-crash-what-happened-in-the-17-minutes-before-the-collision))
+- Is von der Leyen’s ‘associate membership’ for Canada already dead? (Euronews, [7 minutes ago](https://www.euronews.com/2026/10/29/is-von-der-leyens-associate-membership-for-canada-already-dead))
+- Israel: protesters demand Arab-Jewish unity government after election (Euronews, [9 minutes ago](https://www.euronews.com/video/2026/10/29/israel-protesters-demand-arab-jewish-unity-government-after-election))
+- China’s leaders vow tougher corruption crackdown (FT, [19 minutes ago](https://www.ft.com/content/995c849c-b4db-4e24-964c-b269a3aeb741?syn-25a6b1a6=1))
+- Latest news bulletin  October 29th, 2026 – Midday (Euronews, [29 minutes ago](https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-midday))
+- Traces of new Pi hardware spotted in GitHub (Register, [30 minutes ago](https://www.theregister.com/personal-tech/2026/10/29/traces-of-new-pi-hardware-spotted-in-github/5306022))
+- Spain: cranes clear twisted train wreckage as rescuers work through the night (Euronews, [57 minutes ago](https://www.euronews.com/video/2026/10/29/spain-cranes-clear-twisted-train-wreckage-as-rescuers-work-through-the-night))
+- ECB President Christine Lagarde to step down next February, months before her mandate ends (Euronews, [1 hours ago](https://www.euronews.com/2026/10/29/ecb-president-christine-lagarde-to-step-down-in-february-months-before-her-term-ends))
+- Christine Lagarde to step down as ECB president in February (FT, [1 hours ago](https://www.ft.com/content/b9294b91-0eee-413b-bdde-0569f48539b9?syn-25a6b1a6=1))
+- Microsoft breaks New Outlook attachment opening with Edge Update (Register, [1 hours ago](https://www.theregister.com/personal-tech/2026/10/29/microsoft-breaks-new-outlook-attachment-opening-with-edge-update/5306224))
+- In Pompeii, a woman's wardrobe resurfaces with beauty items and jewels (Euronews, [1 hours ago](https://www.euronews.com/2026/10/29/in-pompeii-a-womans-wardrobe-resurfaces-with-beauty-items-and-jewels))
+- US measles surge reminds of Europe’s vaccination gaps (Euronews, [1 hours ago](https://www.euronews.com/2026/10/29/us-measles-surge-reminds-of-europes-vaccination-gaps))
+- Matrix takes sovereign messaging into the realm of the tech giants (Register, [2 hours ago](https://www.theregister.com/software/2026/10/29/matrix-takes-sovereign-messaging-into-the-realm-of-the-tech-giants/5305915))
+- What worker guarantees do unions and lawmakers demand to unblock EU Inc? (Euronews, [2 hours ago](https://www.euronews.com/2026/10/29/what-worker-guarantees-do-unions-and-lawmakers-demand-to-unblock-eu-inc))
+- Admin dropped the F-bomb in a password to show hackers who was really 1337 (Register, [2 hours ago](https://www.theregister.com/security/2026/10/29/admin-dropped-the-f-bomb-in-a-password-to-show-hackers-who-was-really-1337/5306139))
+- HPE puts storage to work on AI’s expensive memory problem (Register, [2 hours ago](https://www.theregister.com/storage/2026/10/29/partner-content-hpe-puts-storage-to-work-on-ais-expensive-memory-problem/5305793))
+- More refineries 'spread across the globe' needed to avoid disruptions during wars, says expert (Euronews, [2 hours ago](https://www.euronews.com/video/2026/10/29/more-refineries-spread-across-the-globe-needed-to-avoid-disruptions-during-wars-says-exper))
+- US tech stocks set to fall after earnings fuel AI spending concerns (FT, [2 hours ago](https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1))
+- The Daily Hilario: Thursday (WAGNH, [3 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173540/the-daily-hilario-october-29th))
+- Google's Gemini 4 Carbon looks like a diamond in the rough (Register, [6 hours ago](https://www.theregister.com/ai-and-ml/2026/10/29/googles-gemini-4-carbon-looks-like-a-diamond-in-the-rough/5306149))
+- Boffin's software found a possible dwarf planet - a result so rare he thought it must be a bug (Register, [6 hours ago](https://www.theregister.com/science/2026/10/29/boffins-software-found-a-possible-dwarf-planet-a-result-so-rare-he-thought-it-must-be-a-bug/5306204))
+- How Flávio Bolsonaro fled Brazil (FT, [6 hours ago](https://www.ft.com/content/0cb91253-62e1-4cdf-864e-61174b297e51?syn-25a6b1a6=1))
+- Israel’s ‘Houdini’ and his latest escape (FT, [6 hours ago](https://www.ft.com/content/5c95fc2e-4019-462f-99cd-aefb8005b9e4?syn-25a6b1a6=1))
+- Private equity’s growing pains (FT, [6 hours ago](https://www.ft.com/content/b36c5561-b601-48f4-bdbc-9a2227a958fa?syn-25a6b1a6=1))
+- Israel vote leaves door open to Iran attack (FT, [6 hours ago](https://www.ft.com/content/53278449-6a8e-493b-8a9e-c44d2a981306?syn-25a6b1a6=1))
+- Tape is so not dead that Fujifilm will increase production capacity 5x (Register, [7 hours ago](https://www.theregister.com/storage/2026/10/29/tape-is-so-not-dead-that-fujifilm-will-increase-production-capacity-5x/5306189))
+- Google struggling to make AI Mode searches pay (Register, [10 hours ago](https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181))
+- Morgan Rogers on courage, pride and the ‘worst way to lose' (CFC, [11 hours ago](https://www.chelseafc.com/en/news/article/morgan-rogers-on-courage-pride-and-the-worst-way-to-lose))
+- Google shares tumble 10% after $51bn AI outlay deepens cash burn (FT, [12 hours ago](https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1))
+- Alonso delivers updates on Caicedo, Gusto and Lacroix (CFC, [12 hours ago](https://www.chelseafc.com/en/news/article/alonso-delivers-updates-on-caicedo-gusto-and-lacroix))
+- Alonso: We played with courage (CFC, [12 hours ago](https://www.chelseafc.com/en/news/article/alonso-we-played-with-courage))
+- Liverpool 1-1 (6-5 p/k) Chelsea, League Cup: Post-match reaction, ratings (WAGNH, [13 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-league-cup/173528/liverpool-1-1-6-5-p-k-chelsea-league-cup-post-match-reaction-ratings))
+- Match report: Liverpool 1-1 Chelsea (6-5 on pens) (CFC, [13 hours ago](https://www.chelseafc.com/en/news/article/match-report-liverpool-1-1-chelsea-6-5-on-pens))
+- Republicans seek to deflect Epstein anger on to Democrats (FT, [15 hours ago](https://www.ft.com/content/5835eefc-acb2-4e4e-9693-60f5c2467977?syn-25a6b1a6=1))
+- Chelsea FCW 2-0 AS Roma Femminile, UEFA Women’s Champions League: Post-match reaction (WAGNH, [15 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173519/chelsea-fcw-2-0-as-roma-femminile-uefa-womens-champions-league-post-match-reaction))
+- Liverpool vs. Chelsea, League Cup: Lineups &#038; Game Thread (WAGNH, [16 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-league-cup/173513/liverpool-vs-chelsea-league-cup-confirmed-lineups-how-to-watch))
+- Israel’s Arabs seek a slice of power (FT, [17 hours ago](https://www.ft.com/content/e73bd81d-89b4-4ef4-9be0-459bcc97633b?syn-25a6b1a6=1))
+- Chelsea fans’ preferred lineup against Liverpool: One Estêvão please! (WAGNH, [18 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-league-cup/173504/chelsea-fans-preferred-lineup-against-liverpool-one-estevao-please))
+- Say hello to Touch on Mac (Apple, [18 hours ago](https://developer.apple.com/news/?id=i9boeiqc))
+- Chelsea FCW vs. AS Roma Femminile, UEFA Women’s Champions League: Confirmed lineups; how to watch (WAGNH, [18 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173492/chelsea-fcw-vs-as-roma-femminile-uefa-womens-champions-league-confirmed-lineups-how-to-watch))
+- Chelsea FCW vs. AS Roma Femminile, UEFA Women’s Champions League: Preview, team news, how to watch (WAGNH, [21 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173480/chelsea-fcw-vs-as-roma-femminile-uefa-womens-champions-league-preview-team-news-how-to-watch))
 
 <!-- news_marker ends -->
 
@@ -110,7 +119,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > Herodotean - adjective: 1. (Of an account or narrative) Very large in scope or extremely detailed. 2. Fanciful or overly dramatic.
+ > Odyssean - adjective: Relating to a long and eventful journey.
 
 <!-- word_marker ends -->
 
@@ -118,35 +127,35 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> The value of an idea lies in the using of it. - Thomas Edison
+> Be honest, Without objectivity and honesty, the project team is set up for failure, even if developing iteratively. - Ian Spence and Kurt Bittner, Agile Authors
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Look closely at the most embarrassing details and amplify them
+> Accept advice
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Deep Fear (Rated: 1)
-- Released in 2023
-- Summary: Storm-stricken drug traffickers force a yachtswoman to recover their sunken cocaine stash from shark-infested waters.
+- Lucky Number Slevin (Rated: 2)
+- Released in 2006
+- Summary: A case of mistaken identity lands Slevin into the middle of a war being plotted by two of the city's rival crime bosses. Under constant surveillance by Detective Brikowski and assassin Goodkat, he must get them before they get him.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 745, using [6, 6, 7, 9, 9, 10]
-- Answer: 2 solutions.
+- Target: 488, using [2, 3, 4, 5, 5, 75]
+- Answer: 13 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 10 + 9 ) x 6 + 9 ) x 6 + 7
+  Solution: ( 5 x 5 x 2 + 75 - 3 ) x 4
 
    </details>
 
@@ -155,9 +164,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-- One Thing Well [URL](https://onethingwell.org/) [Feed](http://onethingwell.org/rss)
-- Probably Fine [URL](https://blog.probablyfine.co.uk/) [Feed](https://blog.probablyfine.co.uk/feed.xml)
-- Steven Breckinridge [URL](https://stuartbreckenridge.net/) [Feed](https://stuartbreckenridge.net/rss.xml)
-- Krebs on Security [URL](https://krebsonsecurity.com/) [Feed](http://krebsonsecurity.com/feed/)
-- David Cramer [URL](https://cra.mr/) [Feed](https://cra.mr/rss.xml)
+- Scott Hanselman [URL](https://www.hanselman.com/blog/) [Feed](http://feeds.hanselman.com/ScottHanselman)
+- Smashing Magazine [URL](https://www.smashingmagazine.com/) [Feed](https://www.smashingmagazine.com/feed/)
+- Tom Hazeldine [URL](https://tomhazledine.com/) [Feed](https://tomhazledine.com/feed.xml)
+- Léonie Watson [URL](https://tink.uk/) [Feed](https://tink.uk/feed.xml)
+- IntelTechniques [URL](https://inteltechniques.com/blog) [Feed](https://inteltechniques.com/blog/feed/)
 <!-- blogroll_marker ends -->
