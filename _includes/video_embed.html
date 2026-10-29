@@ -1,0 +1,12 @@
+{%- comment -%}
+  Responsive YouTube player for video posts. Privacy-enhanced mode
+  (youtube-nocookie.com) and lazy loaded. Shorts get a portrait frame.
+{%- endcomment -%}
+{%- include video_id.html -%}
+{%- if video_id %}
+<figure class="video{% if video_short %} video--short{% endif %}">
+  <iframe src="https://www.youtube-nocookie.com/embed/{{ video_id }}?rel=0" title="{{ page.title | escape }} (YouTube video)"
+    loading="lazy" referrerpolicy="strict-origin-when-cross-origin"
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
+{%- endif -%}

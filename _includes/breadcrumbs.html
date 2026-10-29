@@ -1,0 +1,36 @@
+{%- comment -%}
+  Breadcrumb trail under the header band. Not shown on the home page.
+  Weak Notes > section > this page, where the section is:
+  - posts: the archive for the post's type (labels in _data/crumbs.yml)
+  - projects, bookmarks, rides: their index pages
+  - everything else: Pages (/slashes)
+{%- endcomment -%}
+{%- unless page.url == "/" or page.url == "/index.html" -%}
+{%- assign crumb_name = nil -%}
+{%- assign crumb_url = nil -%}
+{%- if page.collection == "posts" -%}
+  {%- assign crumb_type = page.type | default: "blog" | strip -%}
+  {%- assign crumb_name = site.data.crumbs[crumb_type] -%}
+  {%- if crumb_name %}{% assign crumb_url = "/archives/" | append: crumb_type %}{% endif -%}
+{%- elsif page.collection == "projects" -%}
+  {%- assign crumb_name = "Projects" -%}{%- assign crumb_url = "/projects" -%}
+{%- elsif page.collection == "bookmarks" -%}
+  {%- assign crumb_name = "Bookmarks" -%}{%- assign crumb_url = "/bookmarks" -%}
+{%- elsif page.collection == "rides" -%}
+  {%- assign crumb_name = "Rides" -%}{%- assign crumb_url = "/archives/ride" -%}
+{%- elsif page.url != "/slashes" -%}
+  {%- assign crumb_name = "Pages" -%}{%- assign crumb_url = "/slashes" -%}
+{%- endif -%}
+{%- assign crumb_title = page.title | default: page.seo_title | strip_html | strip -%}
+<nav class="crumbs" aria-label="Breadcrumb">
+  <ol>
+    <li><a href="/">{{ site.title }}</a></li>
+    {%- if crumb_name %}
+    <li><a href="{{ crumb_url }}">{{ crumb_name }}</a></li>
+    {%- endif %}
+    {%- if crumb_title != "" %}
+    <li aria-current="page">{{ crumb_title | escape }}</li>
+    {%- endif %}
+  </ol>
+</nav>
+{%- endunless -%}

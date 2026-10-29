@@ -1,0 +1,20 @@
+{%- comment -%}
+  Sets video_id and video_short for a video post: from front matter when the
+  importer wrote them, otherwise read from the YouTube `source` link.
+{%- endcomment -%}
+{%- assign video_id = page.video_id -%}
+{%- assign video_short = page.short -%}
+{%- if page.type == "video" and page.source -%}
+  {%- if video_short == nil -%}
+    {%- if page.source contains "/shorts/" %}{% assign video_short = true %}{% else %}{% assign video_short = false %}{% endif -%}
+  {%- endif -%}
+  {%- unless video_id -%}
+    {%- if page.source contains "/shorts/" -%}
+      {%- assign video_id = page.source | split: "/shorts/" | last | split: "?" | first | split: "/" | first -%}
+    {%- elsif page.source contains "v=" -%}
+      {%- assign video_id = page.source | split: "v=" | last | split: "&" | first -%}
+    {%- elsif page.source contains "youtu.be/" -%}
+      {%- assign video_id = page.source | split: "youtu.be/" | last | split: "?" | first -%}
+    {%- endif -%}
+  {%- endunless -%}
+{%- endif -%}
