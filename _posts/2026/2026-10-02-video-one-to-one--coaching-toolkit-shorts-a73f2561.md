@@ -1,5 +1,5 @@
 ---
-title: "One-to-One & Coaching Toolkit #shorts"
+title: "One-to-One & Coaching Toolkit"
 seo_title: "One-to-One and Coaching Toolkit - YouTube Short"
 seo_description: "A YouTube short on my one-to-one and coaching toolkit, helping engineering managers run better one-to-ones and coach their teams."
 date: "2026-10-02"

@@ -8,7 +8,7 @@ seo_description: "Linking the ME Association: the government announced the ME/CF
 type: linked
 cited: ME Association
 tags:
-  - me
+  - mecfs
 ---
 
 > The Delivery plan has been published, however, the Department of Health and Social Care (DHSC) has so far failed to provide a link to the actual Plan!

@@ -7,7 +7,7 @@ seo_title: "Call It Whatever You Like - Naming ME/CFS"
 seo_description: "ME/CFS forums keep debating the illness's name. Call it whatever you like; a new name will not make me feel better or bring us closer to a cure."
 type: blog
 tags:
-  - me
+  - mecfs
 ---
 
 We could call it fuckity cockwomble for all I care, won’t make me feel better, won’t be any closer to a cure.

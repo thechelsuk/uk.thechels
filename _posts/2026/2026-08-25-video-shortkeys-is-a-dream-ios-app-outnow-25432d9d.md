@@ -1,5 +1,5 @@
 ---
-title: "Shortkeys is a dream #ios #app #outnow"
+title: "Shortkeys is a dream"
 seo_title: "ShortKeys Is a Dream - iOS App Out Now (Video)"
 seo_description: "A YouTube short showing off ShortKeys, my iOS text replacement keyboard app for multi-line snippets, out now on the App Store."
 date: "2026-08-25"

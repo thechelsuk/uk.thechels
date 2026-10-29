@@ -6,6 +6,9 @@ date: "2026-10-19"
 layout: post
 source: "https://www.youtube.com/shorts/ze5cXLOZVYs"
 type: video
+video_id: "ze5cXLOZVYs"
+short: true
+image: "https://i3.ytimg.com/vi/ze5cXLOZVYs/hqdefault.jpg"
 ---
 
-[Watch on Youtube](https://www.youtube.com/shorts/ze5cXLOZVYs)
+[Watch on YouTube](https://www.youtube.com/shorts/ze5cXLOZVYs)

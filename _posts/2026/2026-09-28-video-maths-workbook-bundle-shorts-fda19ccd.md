@@ -1,5 +1,5 @@
 ---
-title: "Maths Workbook Bundle #shorts"
+title: "Maths Workbook Bundle"
 seo_title: "Mltply Maths Workbook Bundle - YouTube Short"
 seo_description: "A YouTube short on the Mltply maths workbook bundle, five printable workbooks for UK primary and early secondary pupils, Years 1 to 7."
 date: "2026-09-28"

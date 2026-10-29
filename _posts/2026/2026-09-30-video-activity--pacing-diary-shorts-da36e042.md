@@ -1,5 +1,5 @@
 ---
-title: "Activity & Pacing Diary #shorts"
+title: "Activity & Pacing Diary"
 seo_title: "Activity and Pacing Diary for ME/CFS - YouTube Short"
 seo_description: "A YouTube short on my printable activity and pacing diary, an hour-by-hour tracker to help people with ME/CFS manage energy and avoid PEM."
 date: "2026-09-30"

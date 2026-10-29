@@ -5,7 +5,7 @@ title: Quoting Reddit user on giving up work
 seo_title: "When It Is Time to Give Up Work - ME/CFS Experience"
 seo_description: "A Reddit user on the clues it was time to give up work with ME/CFS: sleeping through holidays and still not recovering, with rising symptoms."
 tags:
-  - me
+  - mecfs
 
 type: blog
 ---

@@ -1,29 +1,31 @@
-<p class="meta">
-    Written by: <a href="{{ site.owner.url }}">{{ site.owner.name }}</a><br />
-    Published: <time class="dt-published"
-        datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>, with
-    {{ page.content | number_of_words }} words,
-    {%- capture webmention_count %}{% webmention_count page.url %}{% endcapture -%}
-    {%- assign url_parts = page.url | split: "/" | where_exp: "part", "part != ''" -%}
-    {%- assign reply_slug = url_parts | join: "-" -%}
-    {%- assign reply_count = site.data.replies[reply_slug].size | default: 0 -%}
-    {%- assign total_count = webmention_count | strip_html | strip | plus: reply_count -%}
-    {%- if total_count == 1 -%}
-    &nbsp;{{ total_count }} reply.
-    {%- else -%}
-    &nbsp;{{ total_count }} replies.
-    {%- endif -%}
-    <br />
-    {% if page.type %}
-    <span class="archives">
-        Read more in <a href="/archives/{{ page.type | slugify }}">{{ page.type | capitalize }}</a>
-    </span>
-    {% endif %}
-    <br />
-    {% if page.tags.size > 0 %}
-    <span class="tags">
-        Tagged in: <a href="/tag/{{ page.tags.first | slugify }}">#{{ page.tags.first | capitalize }}</a>
-    </span>
-    <br />
-    {% endif %}
+{%- comment -%}
+  One row under the post: date · words · responses · section · tag.
+  Each item is a span so the CSS dot separator sits outside the links.
+  Also sets wm_count / reply_count / total_count for post_responses.html.
+{%- endcomment -%}
+{%- capture wm_count %}{% webmention_count page.url %}{% endcapture -%}
+{%- assign wm_count = wm_count | strip_html | strip | plus: 0 -%}
+{%- assign url_parts = page.url | split: "/" | where_exp: "part", "part != ''" -%}
+{%- assign reply_slug = url_parts | join: "-" -%}
+{%- assign reply_count = site.data.replies[reply_slug].size | default: 0 -%}
+{%- assign total_count = wm_count | plus: reply_count -%}
+{%- assign type_slug = page.type | slugify -%}
+{%- assign type_label = site.data.crumbs[type_slug] -%}
+{%- assign tag_page = nil -%}
+{%- if page.tags.size > 0 -%}
+{%- assign tag_page = site.pages | where: "tagged", page.tags.first | first -%}
+{%- endif -%}
+<p class="post-meta">
+    <span><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time></span>
+    <span>{{ page.content | number_of_words }} words</span>
+    {%- if total_count > 0 %}
+    <span><a href="#responses">{{ total_count }} {% if total_count == 1 %}response{% else %}responses{% endif %}</a></span>
+    {%- endif %}
+    {%- if page.type %}
+    <span><a href="/archives/{{ type_slug }}" title="More posts like this">{% if type_label %}{{ type_label }}{% else %}{{ page.type | capitalize }}{% endif %}</a></span>
+    {%- endif %}
+    {%- if tag_page %}
+    <span><a href="{{ tag_page.url }}" title="More posts with this tag">#{% if tag_page.tag_label %}{{ tag_page.tag_label }}{% else %}{{ page.tags.first | capitalize }}{% endif %}</a></span>
+    {%- endif %}
+    <span class="visually-hidden">Written by <a class="p-author h-card" href="{{ site.owner.url }}">{{ site.owner.name }}</a>.</span>
 </p>

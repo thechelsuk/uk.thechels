@@ -8,7 +8,7 @@ seo_description: "Linking The Guardian: new disabled benefit claimants face cuts
 type: linked
 cited: The Guardian
 tags:
-  - me
+  - mecfs
 ---
 
 Ludicrous. As if pushing people into poverty is any indication of improving health outcomes.
