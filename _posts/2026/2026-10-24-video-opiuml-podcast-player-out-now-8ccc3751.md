@@ -6,6 +6,13 @@ date: "2026-10-24"
 layout: post
 source: "https://www.youtube.com/shorts/SA4JdFof5sA"
 type: video
+video_id: "SA4JdFof5sA"
+short: true
+image: "https://i4.ytimg.com/vi/SA4JdFof5sA/hqdefault.jpg"
 ---
 
-[Watch on Youtube](https://www.youtube.com/shorts/SA4JdFof5sA)
+In the App Store now
+
+<https://apps.apple.com/us/app/opiuml-podcast-player/id6823693348>
+
+[Watch on YouTube](https://www.youtube.com/shorts/SA4JdFof5sA)

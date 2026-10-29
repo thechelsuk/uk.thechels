@@ -13,6 +13,7 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Thursday, 29 October 2026
 
 - The average temperature today is 14.08˚C,
@@ -27,6 +28,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 182 days since the last change (2026-04-30)
 
@@ -35,47 +37,56 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Be humble.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Everton v Newcastle United
 - Manchester City Women v PSG Women
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 138.8800048828125 
-- ^FTSE : 10740.7197265625 
-- ^FTMC : 24677.150390625 
+- VWRL.L : 138.8800048828125
+- ^FTSE : 10740.7197265625
+- ^FTMC : 24677.150390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > The police came round the other day saying they had reports our pet dog had been chasing the local kids on roller skates, funny I said, our dog does not own any roller skates.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - LibreOffice's 'no AI' stance meets LLM-assisted code (Register, [1 minutes ago](https://www.theregister.com/ai-and-ml/2026/10/29/libreoffices-no-ai-stance-meets-llm-assisted-code/5306084))
 - Spain train crash: What happened in the 17 minutes before the collision? (Euronews, [6 minutes ago](https://www.euronews.com/2026/10/29/spain-train-crash-what-happened-in-the-17-minutes-before-the-collision))
 - Is von der Leyen’s ‘associate membership’ for Canada already dead? (Euronews, [7 minutes ago](https://www.euronews.com/2026/10/29/is-von-der-leyens-associate-membership-for-canada-already-dead))
 - Israel: protesters demand Arab-Jewish unity government after election (Euronews, [9 minutes ago](https://www.euronews.com/video/2026/10/29/israel-protesters-demand-arab-jewish-unity-government-after-election))
 - China’s leaders vow tougher corruption crackdown (FT, [19 minutes ago](https://www.ft.com/content/995c849c-b4db-4e24-964c-b269a3aeb741?syn-25a6b1a6=1))
-- Latest news bulletin  October 29th, 2026 – Midday (Euronews, [29 minutes ago](https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-midday))
+- Latest news bulletin October 29th, 2026 – Midday (Euronews, [29 minutes ago](https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-midday))
 - Traces of new Pi hardware spotted in GitHub (Register, [30 minutes ago](https://www.theregister.com/personal-tech/2026/10/29/traces-of-new-pi-hardware-spotted-in-github/5306022))
 - Spain: cranes clear twisted train wreckage as rescuers work through the night (Euronews, [57 minutes ago](https://www.euronews.com/video/2026/10/29/spain-cranes-clear-twisted-train-wreckage-as-rescuers-work-through-the-night))
 - ECB President Christine Lagarde to step down next February, months before her mandate ends (Euronews, [1 hours ago](https://www.euronews.com/2026/10/29/ecb-president-christine-lagarde-to-step-down-in-february-months-before-her-term-ends))
@@ -119,7 +130,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > Odyssean - adjective: Relating to a long and eventful journey.
+> Odyssean - adjective: Relating to a long and eventful journey.
 
 <!-- word_marker ends -->
 
@@ -134,6 +145,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Accept advice
 
 <!-- eno_marker ends -->
@@ -141,9 +153,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Lucky Number Slevin (Rated: 2)
 - Released in 2006
 - Summary: A case of mistaken identity lands Slevin into the middle of a war being plotted by two of the city's rival crime bosses. Under constant surveillance by Detective Brikowski and assassin Goodkat, he must get them before they get him.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -164,9 +178,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Scott Hanselman [URL](https://www.hanselman.com/blog/) [Feed](http://feeds.hanselman.com/ScottHanselman)
 - Smashing Magazine [URL](https://www.smashingmagazine.com/) [Feed](https://www.smashingmagazine.com/feed/)
 - Tom Hazeldine [URL](https://tomhazledine.com/) [Feed](https://tomhazledine.com/feed.xml)
 - Léonie Watson [URL](https://tink.uk/) [Feed](https://tink.uk/feed.xml)
 - IntelTechniques [URL](https://inteltechniques.com/blog) [Feed](https://inteltechniques.com/blog/feed/)
+
 <!-- blogroll_marker ends -->

@@ -5,7 +5,7 @@ seo_title: "5-Day Low Histamine Vegan Meal Plan"
 seo_description: "A five day low histamine vegan meal plan for managing histamine intolerance, avoiding high histamine plant foods with fresh, minimally processed meals."
 date: 2025-05-04
 tags:
-  - me
+  - mecfs
 type: blog
 ---
 

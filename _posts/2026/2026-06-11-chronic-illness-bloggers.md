@@ -7,7 +7,7 @@ seo_title: "Calling Chronic Illness Bloggers for Nuchronic.uk"
 seo_description: "I am looking for bloggers and creators with chronic illness to add to Nuchronic.uk, an indie web aggregator to showcase and support their work."
 type: blog
 tags:
-  - me
+  - mecfs
 ---
 
 I am on the lookout for content producers who suffer from a chronic illness to add to my growing indie web thing nuchronic.uk - it's a reddit, hacker news, or [bubbles](https://bubbles.town) type site to showcase and support bloggers, YouTubers, Tumblrs - anything with an RSS feed and doesn't have to be illness related.

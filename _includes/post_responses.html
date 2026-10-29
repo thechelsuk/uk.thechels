@@ -1,0 +1,14 @@
+{%- comment -%}
+  Replies and webmentions under a post. Needs post_meta.html first (it sets the counts).
+  Site replies (_data/replies) come first, then webmentions; likes and reposts
+  are laid out as a row of avatars by CSS.
+{%- endcomment -%}
+{%- if total_count > 0 %}
+<section class="responses" id="responses" aria-labelledby="responses-title">
+    <h2 id="responses-title">Responses ({{ total_count }})</h2>
+    {% include post_replies.html %}
+    {%- if wm_count > 0 %}
+    {% webmentions page.url %}
+    {%- endif %}
+</section>
+{%- endif -%}

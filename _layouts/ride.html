@@ -14,14 +14,7 @@
   {% if page.id %}
 
   {% include post_meta.html %}
-
-  {%- capture wm_count %}{% webmention_count page.url %}{% endcapture -%}
-  {%- assign wm_count = wm_count | strip_html | strip | plus: 0 -%}
-  {%- if wm_count > 0 -%}
-  {% webmentions page.url %}
-  {%- endif -%}
-
-  {% include post_replies.html %}
+  {% include post_responses.html %}
 
   {% endif %}
 

@@ -6,7 +6,7 @@ seo_description: "Part two of my CPAD assessment for ME/CFS: the follow-up sessi
 type: blog
 date: 2026-08-28 13:00
 tags:
-  - me
+  - mecfs
 syndicate:
   - mastodon
   - bluesky

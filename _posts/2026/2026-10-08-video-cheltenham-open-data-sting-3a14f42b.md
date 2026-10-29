@@ -6,6 +6,11 @@ date: "2026-10-08"
 layout: post
 source: "https://www.youtube.com/watch?v=qPqkNpCGyDs"
 type: video
+video_id: "qPqkNpCGyDs"
+short: false
+image: "https://i2.ytimg.com/vi/qPqkNpCGyDs/hqdefault.jpg"
 ---
 
-[Watch on Youtube](https://www.youtube.com/watch?v=qPqkNpCGyDs)
+Cheltenham Open Data Sting
+
+[Watch on YouTube](https://www.youtube.com/watch?v=qPqkNpCGyDs)

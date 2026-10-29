@@ -7,7 +7,7 @@ seo_title: "Heat Waves and ME/CFS - Coping With Extreme Heat"
 seo_description: "Why heat waves are so hard with ME/CFS: autonomic dysfunction and POTS, impaired temperature regulation and limited energy reserves, risking PEM."
 type: blog
 tags:
-  - me
+  - mecfs
 ---
 
 Extreme heat can be particularly challenging for many not adapted to the climate and especially for people with [Myalgic Encephalomyelitis](/disability) because many already have problems with autonomic nervous system regulation, blood flow, temperature control, and energy production.

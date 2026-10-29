@@ -8,7 +8,7 @@ seo_description: "Linking Empty Stands, a support group of football fans in Germ
 type: linked
 cited: Empty Stands
 tags:
-  - me
+  - mecfs
 ---
 
 Love this.

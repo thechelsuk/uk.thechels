@@ -4,6 +4,8 @@
 
   <div class="e-content entry flow">
 
+    {% if page.type == "video" %}{% include video_embed.html %}{% endif %}
+
     {{ content }}
 
     {% if page.link and page.cited %}
@@ -28,20 +30,12 @@
     </p>
     {% endif %}
     {% endif %}
+  </div>
 
-    {% if page.id %}
-    {% include post_meta.html %}
-
-
-    {%- capture wm_count %}{% webmention_count page.url %}{% endcapture -%}
-    {%- assign wm_count = wm_count | strip_html | strip | plus: 0 -%}
-    {%- if wm_count > 0 -%}
-    {% webmentions page.url %}
-    {%- endif -%}
-
-    {% include post_replies.html %}
-
-    {% endif %}
+  {% if page.id %}
+  {% include post_meta.html %}
+  {% include post_responses.html %}
+  {% endif %}
 
     <script type="application/ld+json">
 {

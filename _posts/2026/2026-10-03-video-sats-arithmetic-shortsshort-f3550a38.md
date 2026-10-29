@@ -1,5 +1,5 @@
 ---
-title: "SATs Arithmetic #shortsshort"
+title: "SATs Arithmetic"
 seo_title: "Year 6 SATs Arithmetic Papers - YouTube Short"
 seo_description: "A YouTube short on my printable Year 6 SATs arithmetic practice papers from Mltply, made for UK children preparing for their SATs."
 date: "2026-10-03"

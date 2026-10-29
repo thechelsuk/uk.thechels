@@ -3,16 +3,32 @@
 /* ---------------------------------- */
 
 @font-face {
-    font-family: "Suffolks";
-    src: url("fonts/Suffolks-Regular.woff2") format("woff2"), url("fonts/Suffolks-Regular.woff") format("woff");
+    font-family: "thechelsuk";
+    src: url("fonts/thechelsuk-Regular.woff2") format("woff2"), url("fonts/thechelsuk-Regular.woff") format("woff");
     font-weight: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: "Suffolks";
-    src: url("fonts/Suffolks-Bold.woff2") format("woff2"), url("fonts/Suffolks-Bold.woff") format("woff");
+    font-family: "thechelsuk";
+    src: url("fonts/thechelsuk-Bold.woff2") format("woff2"), url("fonts/thechelsuk-Bold.woff") format("woff");
     font-weight: bold;
+    font-display: swap;
+}
+
+/* Self-hosted so code and breadcrumbs look the same for every visitor.
+   Latin subset; the 500 file also serves bold. */
+@font-face {
+    font-family: "JetBrains Mono";
+    src: url("fonts/JetBrainsMono-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "JetBrains Mono";
+    src: url("fonts/JetBrainsMono-Medium.woff2") format("woff2");
+    font-weight: 500 700;
     font-display: swap;
 }
 
@@ -21,18 +37,11 @@
 /* ---------------------------------- */
 
 :root {
-    --background: #f5f4f4;
-    --primary: #04100d;
-    --secondary: #005ca3;
-    --links: #295147;
-    --accent: #cec452;
-    --marker-start: #ffb6c18c;
-    --marker-end: #ffb6c14d;
-    --code: #c0deff;
-    --tab: #b6b6b4;
-    --alt-tab: #fffafa;
-    --font-stack: Battledown, "Gill Sans", -system-ui, "Helvetica Neue", sans-serif;
-    --header-stack: Battledown, "Gill Sans", -system-ui, "Helvetica Neue", sans-serif;
+    /* Shared by every theme: one gold accent (header stripe, asterisks,
+       avatar ring, link underlines, borders, table headers). */
+    --accent: #e0b84a;
+    --font-stack: "thechelsuk", ui-rounded, -system-ui, "Helvetica Neue", sans-serif;
+    --header-stack: var(--font-stack);
     --font-mono: "JetBrains Mono", ui-monospace, monospace, "Courier New";
     --trans:
         color 0.5s cubic-bezier(0.4, 0, 0.2, 1),
@@ -43,56 +52,68 @@
         outline-color 0.5s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-html.night-mode {
-    --background: #181a1b;
-    --primary: #e0e6ed;
-    --secondary: #3a7afe;
-    --links: #7abaff;
-    --accent: #83631c;
-    --marker-start: #ffb6c166;
-    --marker-end: #ffb6c138;
-    --code: #23272e;
-    --tab: #23272e;
-    --alt-tab: #22252a;
-}
+/* Each theme: page colours, then the header band (white text on --band,
+   muted text on --band-2). The page background carries the band's hue. */
 
-html.sunset-mode {
-    --background: #232946;
-    --primary: #fffffe;
-    --secondary: #eebbc3;
-    --links: #b8c1ec;
-    --accent: #5a472c;
-    --marker-start: #ffcdd68c;
-    --marker-end: #ffcdd652;
-    --code: #121629;
-    --tab: #393e6e;
-    --alt-tab: #2e325a;
-}
-
-html.sunrise-mode {
-    --background: #f7efe1;
-    --primary: #2e1f14;
-    --secondary: #8b2f2f;
-    --links: #0f6a6c;
-    --accent: #d17a00;
-    --marker-start: #ffd9a88c;
-    --marker-end: #ffd9a852;
-    --code: #efe3d0;
-    --tab: #dccab1;
-    --alt-tab: #f9f3e8;
-}
-
+/* Day (default): bright blue sky on off-white. */
+:root,
 html.day-mode {
     --background: #f5f4f4;
     --primary: #04100d;
     --secondary: #005ca3;
     --links: #295147;
-    --accent: #cec452;
     --marker-start: #ffb6c18c;
     --marker-end: #ffb6c14d;
     --code: #c0deff;
     --tab: #b6b6b4;
     --alt-tab: #fffafa;
+    --band: #005ca3;
+    --band-2: #cfe3f5;
+}
+
+/* Sunrise: red dawn on warm cream. */
+html.sunrise-mode {
+    --background: #f7efe1;
+    --primary: #2e1f14;
+    --secondary: #8b2f2f;
+    --links: #0f6a6c;
+    --marker-start: #ffd9a88c;
+    --marker-end: #ffd9a852;
+    --code: #efe3d0;
+    --tab: #dccab1;
+    --alt-tab: #f9f3e8;
+    --band: #8b2f2f;
+    --band-2: #f6d6c4;
+}
+
+/* Sunset: plum dusk; the page is a dark plum, lighter than night. */
+html.sunset-mode {
+    --background: #2e2230;
+    --primary: #f6eaf0;
+    --secondary: #e7a9c6;
+    --links: #f5b98e;
+    --marker-start: #e7a9c666;
+    --marker-end: #e7a9c638;
+    --code: #3d2d40;
+    --tab: #4a3850;
+    --alt-tab: #362839;
+    --band: #6e2f63;
+    --band-2: #f1d3e8;
+}
+
+/* Night: midnight band over a soft slate page (not black). */
+html.night-mode {
+    --background: #222838;
+    --primary: #e3e7ef;
+    --secondary: #9fb3d9;
+    --links: #8fbaff;
+    --marker-start: #8fbaff4d;
+    --marker-end: #8fbaff26;
+    --code: #2c3346;
+    --tab: #3a4258;
+    --alt-tab: #283044;
+    --band: #151b2e;
+    --band-2: #b7c3e0;
 }
 
 .font-stack {
@@ -130,10 +151,17 @@ html {
     font-size: 100%;
     height: 100%;
     scroll-behavior: smooth;
+    /* Behind the page: on short pages the footer band runs to the bottom
+       of the window, and overscroll at the top matches the header. */
+    background: var(--band);
 }
 
+/* Full-height column: header, page, then the footer grows to fill any
+   space left, so its band and grid reach the bottom of the window. */
 body {
-    border-top: 16px solid var(--secondary);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     margin: 0;
     font-family: var(--font-stack);
     color: var(--primary);
@@ -151,8 +179,9 @@ body {
 }
 
 #outer-wrapper {
-    border-top: 16px solid var(--accent);
-    min-height: 80%;
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
 }
 
 #outer-wrapper::after {
@@ -160,52 +189,219 @@ body {
     display: block;
 }
 
-#wrapper,
-#footer {
-    width: auto;
-    max-width: 832px;
-    margin: auto;
+#wrapper {
+    width: 100%;
+    max-width: calc(832px + 2em);
+    margin: 0 auto;
     padding: 1em;
-    box-sizing: content-box;
+    box-sizing: border-box;
 }
 
+/* Footer: full-bleed band in the header's colours, with the same gold stripe
+   and grid. Side padding keeps the content in line with the 832px column. */
 #footer {
-    border-top: 2px solid var(--accent);
-    font-size: 0.8em;
-    padding-bottom: 2em;
+    flex: 1 0 auto;
+    position: relative;
+    overflow: hidden;
     clear: both;
+    margin-top: 2.5em;
+    padding: 2em max(16px, calc((100% - 832px) / 2)) 2.5em;
+    background: var(--band);
+    color: #ffffff;
+    border-top: 6px solid var(--accent);
+    font-size: 0.8em;
+    transition: var(--trans);
+
+    > * {
+        position: relative;
+        z-index: 1;
+    }
+
+    a {
+        color: var(--band-2);
+
+        &:hover,
+        &:focus-visible {
+            color: #ffffff;
+            text-decoration: underline 2px var(--accent);
+            text-underline-offset: 0.22em;
+        }
+    }
 }
 
 /* ---------------------------------- */
 /* ----------  Header bar  ---------- */
 /* ---------------------------------- */
 
-.blog-bar {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 0.5em;
-    padding-bottom: 0.6em;
-    border-bottom: 2px solid var(--accent);
-}
-
-.blog-identity {
-    display: flex;
-    align-items: stretch;
-    gap: 0.5em;
-}
-
-.blog-avatar {
-    width: 4.5em;
-    min-width: 4.5em;
-    aspect-ratio: 1 / 1;
-    border-radius: 50%;
+/* Full-width band: nav and theme toggle, then avatar, title and slogan.
+   Coloured with the theme's --band tokens; the accent stripe underneath
+   stands in for the old secondary + accent top borders. */
+.band {
     flex-shrink: 0;
+    --band-h: 230px;
+    --nav-h: 64px;
+    height: var(--band-h);
+    background: var(--band);
+    color: #ffffff;
+    border-bottom: 6px solid var(--accent);
     position: relative;
     overflow: hidden;
-    background: url("images/me72.png") center/cover no-repeat;
-    border: 2px solid var(--accent);
+    transition: var(--trans);
+}
+
+/* Faint diagonal grid, strongest at the left edge and gone by the middle. */
+.band::before,
+#footer::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image:
+        repeating-linear-gradient(45deg, rgb(255 255 255 / 0.12) 0 1px, transparent 1px 26px),
+        repeating-linear-gradient(-45deg, rgb(255 255 255 / 0.12) 0 1px, transparent 1px 26px);
+    mask-image: linear-gradient(90deg, #000 0%, transparent 50%);
+    pointer-events: none;
+}
+
+/* Big faint asterisk; it turns with the title asterisk on hover. */
+.band::after {
+    content: "*";
+    position: absolute;
+    right: -40px;
+    top: -95px;
+    font: bold 560px/1 var(--header-stack);
+    color: var(--accent);
+    opacity: 0.18;
+    pointer-events: none;
+    transition: rotate 1s ease-in-out, color 0.5s;
+}
+
+.band:has(.asterisk:hover)::after {
+    rotate: 180deg;
+}
+
+.band-wrap {
+    position: relative;
+    z-index: 1;
+    height: 100%;
+    max-width: 832px;
+    margin: 0 auto;
+    padding: 0 1em;
+    box-sizing: content-box;
+    display: flex;
+    flex-direction: column;
+}
+
+.band-nav {
+    min-height: var(--nav-h);
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.band-menu {
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+    overflow-x: auto;
+    scrollbar-width: none;
+
+    a {
+        color: var(--band-2);
+        font-size: 0.95em;
+        padding: 0.25em 0;
+        white-space: nowrap;
+        text-decoration: none;
+
+        &:hover,
+        &:focus-visible {
+            color: #ffffff;
+            text-decoration: underline 2px var(--accent);
+            text-underline-offset: 0.22em;
+        }
+
+        &:not(:first-child)::before {
+            content: "\00b7";
+            display: inline-block;
+            margin: 0 0.55em;
+            color: #ffffff;
+            opacity: 0.6;
+            pointer-events: none;
+            user-select: none;
+        }
+    }
+}
+
+/* Theme picker: sunrise / day / sunset / night / system. */
+.theme {
+    display: inline-flex;
+    flex-shrink: 0;
+    gap: 1px;
+    padding: 2px;
+    border-radius: 999px;
+    background: rgb(255 255 255 / 0.14);
+
+    button {
+        appearance: none;
+        border: 0;
+        background: none;
+        cursor: pointer;
+        color: var(--band-2);
+        display: grid;
+        place-items: center;
+        width: 26px;
+        height: 26px;
+        padding: 0;
+        border-radius: 999px;
+        transition: var(--trans);
+
+        &:hover {
+            color: #ffffff;
+            background: rgb(255 255 255 / 0.12);
+        }
+
+        &[aria-pressed="true"] {
+            background: #ffffff;
+            color: var(--band);
+        }
+    }
+
+    svg {
+        width: 15px;
+        height: 15px;
+        fill: none;
+        stroke: currentColor;
+        stroke-width: 1.8;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+    }
+}
+
+.band-body {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding-bottom: 8px;
+    min-width: 0;
+}
+
+.band-text {
+    min-width: 0;
+}
+
+/* Generated face fades to a photo on hover. The ring is a shadow so it
+   doesn't eat into the 72px image. */
+.band-avatar {
+    --avatar: 72px;
+    width: var(--avatar);
+    height: var(--avatar);
+    flex-shrink: 0;
+    margin-left: 6px;
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+    background: #ffffff url("images/me72.png") center/cover no-repeat;
+    box-shadow: 0 0 0 2px var(--accent), 0 0 0 6px rgb(255 255 255 / 0.14);
 
     &::after {
         content: "";
@@ -223,77 +419,139 @@ body {
     }
 }
 
-.blog-text {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
-.blog-title {
-    font-size: 3em;
+.band .blog-title {
+    margin: 0;
     font-family: var(--header-stack);
+    font-weight: bold;
+    font-size: clamp(2.25em, 6vw, 3.5em);
     line-height: 1;
-    outline: none;
+    color: #ffffff;
 
     a {
-        text-decoration: none;
-        color: var(--primary);
-    }
-
-    a:active,
-    a:hover {
+        color: inherit;
         text-decoration: none;
     }
 }
 
+/* Click (or Enter) cycles the four themes; spins and changes colour on hover. */
 .asterisk {
     font-size: 0.8em;
-    color: var(--secondary);
-    scroll-margin-top: 2em;
+    line-height: 0;
+    color: var(--accent);
     cursor: pointer;
     vertical-align: super;
     display: inline-block;
+    scroll-margin-top: 2em;
+    transition: color 1s ease-in-out, rotate 1s ease-in-out;
 
     &:hover {
         rotate: 180deg;
-        transition: color 1s ease-in-out, transform 1s ease-in-out;
-        text-decoration: none;
-        color: var(--accent);
+        color: #ffffff;
     }
 }
 
 .blog-slogan {
-    font-size: 0.9em;
-    color: var(--secondary);
-    margin-top: 0.2em;
+    margin: 10px 0 0;
+    font-size: 1.05em;
+    color: var(--band-2);
 }
 
-.blog-menu {
-    display: flex;
-    flex-wrap: nowrap;
-    align-items: center;
+@media (prefers-reduced-motion: reduce) {
+    .band::after,
+    .asterisk,
+    .band-avatar::after,
+    .band-avatar:hover::after {
+        transition-duration: 0.01s;
+        transition-delay: 0s;
+    }
+}
+
+/* Breadcrumb: first line under the band. Not shown on the home page. */
+.crumbs {
+    font: 0.8em/1.5 var(--font-mono);
+
+    ol {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    li + li::before {
+        content: "/";
+        margin: 0 8px;
+        opacity: 0.5;
+    }
 
     a {
         color: var(--links);
-        font-size: 0.9em;
-        padding: 0.25em 0.5em;
-        white-space: nowrap;
         text-decoration: none;
 
-        &:hover,
-        &:focus {
+        &:hover {
             color: var(--accent);
             text-decoration: underline;
         }
+    }
 
-        &:not(:first-child)::before {
-            content: "\00b7";
-            margin-right: 0.5em;
-            color: var(--primary);
-            pointer-events: none;
-            user-select: none;
-            display: inline-block;
+    [aria-current] {
+        opacity: 0.7;
+    }
+}
+
+/* Five links and five buttons don't fit one phone-width row: the picker
+   sits top right and the links get their own row underneath. */
+@media (max-width: 640px) {
+    .band {
+        --band-h: 236px;
+        --nav-h: auto;
+    }
+
+    .band-nav {
+        flex-wrap: wrap;
+        gap: 6px 10px;
+        padding-top: 12px;
+    }
+
+    .band-menu {
+        order: 2;
+        width: 100%;
+        margin: 0;
+
+        a {
+            font-size: 0.9em;
         }
+
+        a:not(:first-child)::before {
+            margin: 0 0.4em;
+        }
+    }
+
+    .theme {
+        margin-left: auto;
+
+        button {
+            width: 28px;
+            height: 28px;
+        }
+    }
+
+    .band::after {
+        font-size: 420px;
+        top: -40px;
+        right: -90px;
+    }
+
+    .band-body {
+        gap: 14px;
+    }
+
+    .band-avatar {
+        --avatar: 56px;
+    }
+
+    .blog-slogan {
+        font-size: 0.95em;
     }
 }
 
@@ -341,13 +599,6 @@ main:focus {
     position: absolute;
     white-space: nowrap;
     width: 1px;
-}
-
-.skip-link-ul {
-    display: block;
-    list-style-type: none;
-    margin: 0 auto;
-    padding: 0;
 }
 
 .marker {
@@ -482,78 +733,182 @@ a {
 /* -- Mentions and Replies  Styles -- */
 /* ---------------------------------- */
 
-.webmentions {
+/* Post meta: one row under the post, matching the breadcrumbs above it. */
+.post-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.2em 0;
+    margin-top: 2em;
+    padding-top: 0.6em;
+    border-top: 2px solid var(--accent);
+    font: 0.8em/1.5 var(--font-mono);
     color: var(--secondary);
-    display: inline-block;
-    margin-left: 0;
-    font-size: 0.8em;
+
+    > * + *:not(.visually-hidden)::before {
+        content: "\00b7";
+        margin: 0 0.6em;
+        opacity: 0.6;
+    }
+
+    a {
+        color: var(--links);
+        text-decoration: none;
+
+        &:hover {
+            color: var(--accent);
+            text-decoration: underline;
+        }
+    }
+}
+
+/* Responses: site replies and webmentions. Full replies are cards;
+   likes and reposts collapse into a row of small avatars underneath. */
+.responses {
+    margin-top: 2.5em;
+}
+
+.webmentions {
+    display: block;
+    color: var(--primary);
 
     .webmentions__list {
         list-style: none;
-        margin: 0.75em 0 0;
-        padding-left: 0;
+        margin: 1em 0 0;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1.25em 0.4em;
     }
 
     .webmentions__item {
-        margin-bottom: 0.75em;
+        flex-basis: 100%;
+        margin: 0;
     }
 
     article {
         position: relative;
-        padding-left: 35px;
+        padding-left: 44px;
+        min-height: 32px;
+    }
+
+    .webmention__author {
+        font-weight: bold;
+
+        a {
+            color: var(--primary);
+            text-decoration: none;
+
+            &:hover {
+                color: var(--links);
+                text-decoration: underline;
+            }
+        }
+    }
+
+    .webmention__author__photo,
+    .webmention__initial {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 32px;
+        height: 32px;
+        border-radius: 50%;
+        object-fit: cover;
+        box-shadow: 0 0 0 2px var(--accent);
+    }
+
+    .webmention__initial {
+        display: grid;
+        place-items: center;
+        background: var(--accent);
+        color: #04100d;
+        font: bold 0.95em/1 var(--header-stack);
+    }
+
+    .webmention__content {
+        margin-top: 0.25em;
+
+        p {
+            margin: 0 0 0.5em;
+        }
     }
 
     .webmention__meta {
-        margin-top: 0.2em;
-        line-height: 1.2;
+        font: 0.75em/1.5 var(--font-mono);
+        color: var(--secondary);
+
+        a {
+            color: var(--links);
+        }
     }
 
-    .webmention__author a {
-        display: inline;
+    /* Likes and reposts: avatar only, after the full replies. */
+    .webmention--like,
+    .webmention--repost {
+        flex-basis: auto;
+        order: 1;
+
+        article {
+            padding: 0;
+            width: 32px;
+            height: 32px;
+            min-height: 0;
+        }
+
+        .webmention__author__name,
+        .webmention__content,
+        .webmention__meta {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            overflow: hidden;
+            clip-path: inset(50%);
+            white-space: nowrap;
+        }
+
+        article::after {
+            position: absolute;
+            right: -4px;
+            bottom: -4px;
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            display: grid;
+            place-items: center;
+            background: var(--background);
+            color: var(--accent);
+            font-size: 11px;
+            line-height: 1;
+        }
     }
 
-    .webmention__author__photo {
-        position: absolute;
-        top: 0.1em;
-        left: 0;
-        width: 25px;
-        height: 25px;
-        object-fit: cover;
-        border-radius: 50%;
+    .webmention--like article::after {
+        content: "\2665";
     }
 
-    article.webmention--no-photo::before {
-        content: "";
-        position: absolute;
-        top: 0.1em;
-        left: 0;
-        width: 25px;
-        height: 25px;
-        border-radius: 50%;
-        background: var(--accent);
-        border: 1px solid var(--secondary);
+    .webmention--repost article::after {
+        content: "\21bb";
     }
+}
 
-    .webmention--like article,
-    .webmention--repost article {
-        display: flex;
-        align-items: center;
-        flex-wrap: wrap;
-        gap: 0.35em 0.6em;
-    }
+/* Video posts: responsive YouTube player; Shorts are portrait. */
+.video {
+    margin: 0;
 
-    .webmention--like .webmention__content:empty,
-    .webmention--repost .webmention__content:empty {
-        display: none;
-    }
-
-    .webmention--like .webmention__meta,
-    .webmention--repost .webmention__meta {
+    iframe {
         display: block;
-        flex-basis: 100%;
-        margin-top: 0.3em;
-        /* padding-left removed — article now provides the gutter */
+        width: 100%;
+        aspect-ratio: 16 / 9;
+        border: 0;
+        border-radius: 8px;
+        box-shadow: 0 0 0 2px var(--accent);
+        background: var(--code);
     }
+}
+
+.video--short iframe {
+    aspect-ratio: 9 / 16;
+    max-width: 340px;
 }
 
 /* ---------------------------------- */
@@ -610,6 +965,21 @@ a {
     &:hover::after {
         content: " #";
         color: var(--accent);
+    }
+}
+
+/* Full-width gold rule under page headings (the header band has none);
+   the hover "#" sits at the right-hand end of it. */
+#wrapper :is(h1, h2, h3, h4, h5, h6) {
+    padding-bottom: 0.3em;
+    padding-right: 1.2em;
+    border-bottom: 2px solid var(--accent);
+
+    &:hover::after {
+        content: "#";
+        position: absolute;
+        right: 0;
+        bottom: 0.3em;
     }
 }
 
@@ -813,6 +1183,7 @@ table {
     column-gap: 4em;
     list-style: none;
     margin: 0;
+    padding: 0;
 
     li {
         display: block;
@@ -835,7 +1206,7 @@ table {
 }
 
 .footer-links {
-    column-rule: 1px solid var(--secondary);
+    column-rule: 1px solid rgb(255 255 255 / 0.25);
 
     li:is(:nth-child(7), :nth-child(14)) {
         break-after: column;
@@ -866,13 +1237,7 @@ table {
 .theme-toggle__link {
     margin-left: 0.5em;
     text-decoration: none;
-    color: var(--links);
     cursor: pointer;
-}
-
-.theme-toggle__link:hover,
-.theme-toggle__link:focus {
-    color: var(--accent);
 }
 
 #theme-cycle-icon {
@@ -896,34 +1261,13 @@ table {
 /* ---------------------------------- */
 
 @media only screen and (max-width: 540px) {
-    .blog-bar {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-
-    .blog-menu a {
-        font-size: 0.8em;
-        padding: 0.25em 0.3em;
-    }
-
-    .blog-menu a:not(:first-child)::before {
-        margin-right: 0.3em;
-    }
-
     .footer-meta,
     .footer-links {
         column-gap: 1em;
-        margin-left: -4em;
     }
-
 }
 
-
 @media only screen and (max-width: 720px) {
-    .blog-slogan {
-        font-size: 0.8em;
-    }
-
     #footer {
         font-size: 0.625em;
     }
@@ -931,23 +1275,10 @@ table {
     .footer-meta,
     .footer-links {
         column-gap: 2em;
-        margin-left: -3em;
     }
 }
 
 @media screen and (max-width: 960px) {
-
-    #wrapper,
-    #footer {
-        margin: 0 auto;
-        width: auto;
-        max-width: 832px;
-    }
-
-    .blog-title {
-        font-size: 2em;
-    }
-
     .book-list {
         display: grid;
         grid-gap: 0px;
@@ -962,8 +1293,7 @@ table {
         object-fit: cover;
     }
 
-    .meta,
-    .webmentions {
+    .meta {
         display: block;
         float: none;
         margin-left: 0;

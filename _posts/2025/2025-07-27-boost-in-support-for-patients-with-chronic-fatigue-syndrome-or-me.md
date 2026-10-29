@@ -8,7 +8,7 @@ seo_description: "Linking GOV.UK on the ME/CFS delivery plan for England, settin
 type: linked
 cited: Gov.uk
 tags:
-  - me
+  - mecfs
 ---
 
 > The plan published today provides the foundations for significant improvements in all key areas that affect people living with ME/CFS in England, many of whom currently struggle to access appropriate care tailored to their complex condition.

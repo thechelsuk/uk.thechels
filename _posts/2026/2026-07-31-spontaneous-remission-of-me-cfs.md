@@ -7,7 +7,7 @@ seo_title: "Spontaneous Remission of My ME/CFS in 2026"
 seo_description: "I believe I have had a spontaneous remission of my ME/CFS after a stomach bug. My symptoms, the research, medication and tests, and what I hope next."
 type: blog
 tags:
-  - me
+  - mecfs
 ---
 
 I believe I have been fortunate to have had a spontaneous remission of my ME/CFS symptoms. It has been a few weeks since I’ve felt a change.

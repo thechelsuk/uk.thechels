@@ -7,7 +7,7 @@ seo_title: "Do You Sleep at an Incline? - ME/CFS Reader Question"
 seo_description: "Answering a reader: yes, I have slept in a chair with a footstool for a year, as lying down causes gastro issues and severe leg pain on waking."
 type: mailbox
 tags:
-  - me
+  - mecfs
 ---
 
 Yes, I’ve spent the last 12 months sleeping in a chair with a foot stool.

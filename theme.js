@@ -1,124 +1,92 @@
+// Colour themes: sunrise, day, sunset, night, or "system".
+// "system" (nothing saved) follows the device: dark -> night, otherwise day.
+// The inline script in _includes/header.html applies the theme before paint;
+// this file wires up the header picker, the title asterisk and the footer avatar.
 (function () {
-    var validModes = ["day", "sunset", "night", "sunrise"];
-    var modeLabels = {
-        day: "Day",
-        sunrise: "Sunrise",
-        sunset: "Sunset",
-        night: "Night",
-    };
-    var modeIcons = {
-        day: "\u25D2",
-        sunrise: "\u25D1",
-        sunset: "\u25D1",
-        night: "\u25D2",
-    };
+    var KEY = "theme";
+    var MODES = ["sunrise", "day", "sunset", "night"];
+    var LABELS = { sunrise: "Sunrise", day: "Day", sunset: "Sunset", night: "Night" };
+    var ICONS = { sunrise: "◑", day: "◒", sunset: "◑", night: "◒" };
+    var root = document.documentElement;
+    var darkQuery = window.matchMedia ? window.matchMedia("(prefers-color-scheme: dark)") : null;
 
-    function getCurrentMode() {
-        var current = document.documentElement.getAttribute("data-theme");
-        if (current && validModes.includes(current)) {
-            return current;
-        }
-        return "light";
+    function storedChoice() {
+        var value = null;
+        try { value = localStorage.getItem(KEY); } catch (e) { /* storage blocked */ }
+        return MODES.indexOf(value) > -1 ? value : "system";
     }
 
-    function updateThemeUI(mode) {
-        var currentMode = modeLabels[mode] || "Light";
-        var currentIcon = modeIcons[mode] || modeIcons.light;
-        var cycleLink = document.getElementById("theme-cycle");
+    function resolve(choice) {
+        if (MODES.indexOf(choice) > -1) return choice;
+        return darkQuery && darkQuery.matches ? "night" : "day";
+    }
+
+    function apply(choice) {
+        var mode = resolve(choice);
+        root.setAttribute("data-theme", mode);
+        MODES.forEach(function (m) { root.classList.toggle(m + "-mode", m === mode); });
+
+        var buttons = document.querySelectorAll("[data-theme-choice]");
+        for (var i = 0; i < buttons.length; i++) {
+            buttons[i].setAttribute("aria-pressed", String(buttons[i].getAttribute("data-theme-choice") === choice));
+        }
+
+        // Footer avatar link and icon (they cycle the themes).
         var cycleIcon = document.getElementById("theme-cycle-icon");
-
-        if (cycleIcon) {
-            cycleIcon.textContent = currentIcon;
-        }
-
-        if (cycleLink) {
-            cycleLink.setAttribute(
-                "title",
-                "Current mode: " + currentMode + ". Activate to cycle theme",
-            );
-            cycleLink.setAttribute(
-                "aria-label",
-                "Current mode " +
-                    currentMode.toLowerCase() +
-                    ". Activate to cycle theme",
-            );
-        }
-    }
-
-    function setTheme(mode) {
-        if (!validModes.includes(mode)) {
-            return;
-        }
-
-        document.documentElement.setAttribute("data-theme", mode);
-        document.documentElement.classList.remove(
-            "night-mode",
-            "day-mode",
-            "sunrise-mode",
-            "sunset-mode",
-        );
-        document.documentElement.classList.add(mode + "-mode");
-        updateThemeUI(mode);
-    }
-
-    function cycleTheme() {
-        var current = getCurrentMode();
-        var nextIdx = (validModes.indexOf(current) + 1) % validModes.length;
-        var next = validModes[nextIdx];
-        setTheme(next);
-        localStorage.setItem("theme", next);
-    }
-
-    function bindThemeCycleLink() {
+        if (cycleIcon) cycleIcon.textContent = ICONS[mode];
         var cycleLink = document.getElementById("theme-cycle");
-        if (!cycleLink) {
-            return;
+        if (cycleLink) {
+            cycleLink.setAttribute("title", "Current theme: " + LABELS[mode] + ". Activate to cycle theme");
+            cycleLink.setAttribute("aria-label", "Current theme " + mode + ". Activate to cycle theme");
         }
+    }
 
-        cycleLink.addEventListener("click", function (e) {
-            e.preventDefault();
-            cycleTheme();
-        });
+    function choose(choice) {
+        try {
+            if (choice === "system") localStorage.removeItem(KEY);
+            else localStorage.setItem(KEY, choice);
+        } catch (e) { /* storage blocked: still switch for this page */ }
+        apply(choice);
+    }
 
-        cycleLink.addEventListener("keydown", function (e) {
-            if (e.key === "Enter" || e.key === " ") {
+    function cycle() {
+        var current = resolve(storedChoice());
+        choose(MODES[(MODES.indexOf(current) + 1) % MODES.length]);
+    }
+
+    function init() {
+        apply(storedChoice());
+
+        document.addEventListener("click", function (e) {
+            var button = e.target.closest("[data-theme-choice]");
+            if (button) {
+                choose(button.getAttribute("data-theme-choice"));
+                return;
+            }
+            if (e.target.closest("#top, #theme-cycle")) {
                 e.preventDefault();
-                cycleTheme();
+                cycle();
             }
         });
 
-        updateThemeUI(getCurrentMode());
-    }
-
-    function bindAsteriskToggle() {
-        var asterisk = document.getElementById("top");
-        if (!asterisk) {
-            return;
-        }
-
-        asterisk.addEventListener("click", function () {
-            cycleTheme();
-        });
-
-        asterisk.addEventListener("keydown", function (e) {
-            if (e.key === "Enter" || e.key === " ") {
+        document.addEventListener("keydown", function (e) {
+            if ((e.key === "Enter" || e.key === " ") && e.target.closest && e.target.closest("#top")) {
                 e.preventDefault();
-                cycleTheme();
+                cycle();
             }
         });
-    }
 
-    function initThemeControls() {
-        bindThemeCycleLink();
-        bindAsteriskToggle();
-        updateThemeUI(getCurrentMode());
+        // While on "system", follow the device switching light/dark.
+        if (darkQuery) {
+            var onChange = function () { if (storedChoice() === "system") apply("system"); };
+            if (darkQuery.addEventListener) darkQuery.addEventListener("change", onChange);
+            else if (darkQuery.addListener) darkQuery.addListener(onChange);
+        }
     }
 
     if (document.readyState === "loading") {
-        document.addEventListener("DOMContentLoaded", initThemeControls, {
-            once: true,
-        });
+        document.addEventListener("DOMContentLoaded", init, { once: true });
     } else {
-        initThemeControls();
+        init();
     }
 })();

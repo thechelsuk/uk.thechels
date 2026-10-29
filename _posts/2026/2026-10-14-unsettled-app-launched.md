@@ -8,8 +8,6 @@ date: 2026-10-14 12:00
 title: Unsettled App Launched
 seo_title: "Unsettled - Impossible Escape Is Out Now on iPhone"
 seo_description: "Unsettled, an escape game hidden inside an ordinary-looking phone, is now live on the App Store. No instructions, no free clues, thirty-five locks."
-tags:
-  - apps
 type: blog
 ---
 

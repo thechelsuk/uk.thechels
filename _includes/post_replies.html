@@ -8,6 +8,7 @@
         {%- for reply in replies -%}
         <li class="webmentions__item">
             <article class="webmention--no-photo">
+                <span class="webmention__initial" aria-hidden="true">{{ reply.author | strip | slice: 0 | upcase }}</span>
                 <div class="webmention__author">
                     {%- if reply.author_url -%}
                     <a href="{{ reply.author_url | escape }}">{{ reply.author | escape }}</a>

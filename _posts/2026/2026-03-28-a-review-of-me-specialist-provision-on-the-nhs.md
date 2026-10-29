@@ -5,7 +5,7 @@ title: A Review of ME specialist provision on the NHS
 seo_title: "A Review of ME/CFS Specialist Provision on the NHS"
 seo_description: "My review of NHS specialist ME/CFS provision: context on my onset in October 2022, the first session, follow-ups and a final summary of the service."
 tags:
-  - me
+  - mecfs
 
 type: blog
 ---
