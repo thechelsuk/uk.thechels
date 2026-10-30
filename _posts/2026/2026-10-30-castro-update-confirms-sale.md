@@ -7,7 +7,7 @@ syndicate:
   - rss
   - textlog
   - devnull
-date: 2026-10-29 19:20
+date: 2026-10-30 19:20
 title: Castro Update Confirms Sale
 link: https://www.uncommonapps.nyc/p/castro-update
 cited: Dustin Bluck
