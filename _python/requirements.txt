@@ -13,7 +13,7 @@ pytest-md
 pytest-emoji
 yapf
 lxml>=6.1.3
-lxml_html_clean>=0.4.5
+lxml_html_clean>=0.4.6
 yfinance
 pillow>=13.0.0
 ruamel.yaml
