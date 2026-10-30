@@ -1,0 +1,23 @@
+---
+layout: null
+permalink: /.well-known/slashpages
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Slash pages of {{ site.url | remove: "https://" }}</title>
+    <dateModified>{{ site.time | date_to_rfc822 }}</dateModified>
+    <ownerName>{{ site.owner.name | xml_escape }}</ownerName>
+    <ownerId>{{ site.owner.url }}</ownerId>
+    <docs>https://github.com/pfefferle/well-known-slashpages</docs>
+  </head>
+  <body>
+    <outline type="link" text="Pages and Links" category="/slashes" url="{{ site.url }}/slashes" />
+    {%- assign pages = site.navigation_slashes | concat: site.navigation_data | sort: 'title' %}
+    {%- for item in pages %}
+    {%- assign name = item.link | split: "/" | last | split: "." | first | downcase %}
+    <outline type="link" text="{{ item.title | xml_escape }}" category="/{{ name }}" url="{{ item.link | prepend: site.url }}" />
+    {%- endfor %}
+  </body>
+</opml>
