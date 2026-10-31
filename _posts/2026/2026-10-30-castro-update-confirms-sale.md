@@ -1,5 +1,4 @@
 ---
-
 layout: post
 syndicate:
   - mastodon
@@ -12,7 +11,6 @@ title: Castro Update Confirms Sale
 link: https://www.uncommonapps.nyc/p/castro-update
 cited: Dustin Bluck
 type: linked
-
 ---
 
 Castro has its third owner in as many years it seems and I heard this first in podnews but have it confirmed in writing now.
