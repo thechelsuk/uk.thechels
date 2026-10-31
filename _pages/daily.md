@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-10-30
+date: 2026-10-31
 last_modified_at: "2026-10-16"
 ---
 
@@ -13,14 +13,14 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Friday, 30 October 2026
+## On Saturday, 31 October 2026
 
-- The average temperature today is 12.74˚C,
-- With highs of 13.17˚C and lows of 12.01˚C,
-- It may feel like 12.29˚C with scattered clouds
-- The wind speed is 2.57m/s and visibility is 8000m
-- The pressure is 1029hPa and humidity is 85%
-- The sun will rise at 06:58 and set at 16:44
+- The average temperature today is 10.9˚C,
+- With highs of 11.73˚C and lows of 10.47˚C,
+- It may feel like 10.32˚C with overcast clouds
+- The wind speed is 2.57m/s and visibility is 6000m
+- The pressure is 1032hPa and humidity is 87%
+- The sun will rise at 07:00 and set at 16:43
 
 <!-- weather_marker ends -->
 
@@ -28,88 +28,100 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 183 days since the last change (2026-04-30)
+- It has been 184 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-- No tasks today
+- Water the plants
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Provide purpose, mastery and autonomy.
+> Use appropriate tools.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Manchester United U21 v Monaco U21
-- Newport County v Chesterfield
-- AFC Fylde v Hornchurch
-- Sheffield United v Wrexham
+- Brighton & Hove Albion U18 v Crystal Palace U18
+- Manchester City U18 v Burnley U18
+- West Ham United U18 v Chelsea U18
+- Lincoln City v Birmingham City
+- Norwich City v Watford
+- Stoke City v Preston North End
+- Bradford City v Huddersfield Town
+- Leyton Orient v Cambridge United
+- Plymouth Argyle v Reading
+- Grimsby Town v York City
+- Port Vale v Rochdale
+- FC Halifax Town v Yeovil Town
+- Forest Green Rovers v Harrogate Town
+- Chelsea v Manchester United
+- Everton Women v Manchester United Women
+- Watford Women v Ipswich Town Women
+- Boston United v Scunthorpe United
+- Tottenham Hotspur v Crystal Palace
+- Aston Villa v Fulham
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 136.44000244140625 
-- ^FTSE : 10762.66015625 
-- ^FTMC : 24530.16015625 
+- VWRL.L : 135.9600067138672 
+- ^FTSE : 10729.7998046875 
+- ^FTMC : 24453.400390625 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> My daughter went on a school trip to Vatican City and ended up in a gift shop. She bought a set of sealed miniature religious figures in a decorative bowl. Only when she got home and opened it did we realise it was Pope-pourri.
+> That last joke was terrible, without the 's' though, it was decent.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-- Indonesia: nine orangutans rescued from wildfires return to the forest (Euronews, [5 minutes ago](https://www.euronews.com/video/2026/10/30/indonesia-nine-orangutans-rescued-from-wildfires-return-to-the-forest))
-- Bilbao, Wrocław and Bordeaux top the best-value destinations list for 2027 (Euronews, [10 minutes ago](https://www.euronews.com/2026/10/30/bilbao-wroclaw-and-bordeaux-top-the-best-value-destinations-list-for-2027))
-- BP profit quadruples as Iran war sends refining margins soaring and debt tumbles (Euronews, [15 minutes ago](https://www.euronews.com/2026/10/30/bp-profit-quadruples-as-iran-war-sends-refining-margins-soaring-and-debt-tumbles))
-- Latest news bulletin  October 30th, 2026 – Midday (Euronews, [22 minutes ago](https://www.euronews.com/video/2026/10/30/latest-news-bulletin-october-30th-2026-midday))
-- Accenture AI agents are sifting through applicants (Register, [22 minutes ago](https://www.theregister.com/ai-and-ml/2026/10/30/accenture-ai-agents-are-sifting-through-applicants/5306460))
-- Apple Pay and Google Pay launch in Uzbekistan amid wider fintech reforms (Euronews, [30 minutes ago](https://www.euronews.com/2026/10/30/apple-pay-and-google-pay-launch-in-uzbekistan-amid-wider-fintech-reforms))
-- Cameroonian families call for repatriation of relatives sent to fight for Russia in Ukraine (Euronews, [31 minutes ago](https://www.euronews.com/2026/10/30/cameroonian-families-call-for-repatriation-of-relatives-sent-to-fight-for-russia-in-ukrain))
-- Binance’s $6.3bn heist is the biggest . . . but not the first (FT, [32 minutes ago](https://www.ft.com/content/95d38ca9-9a70-4982-a797-cdad2afa3acf?syn-25a6b1a6=1))
-- ExxonMobil and Chevron post bumper profits and warn on diesel supplies (FT, [45 minutes ago](https://www.ft.com/content/e934d2dd-9d6c-4099-95a5-1c300ed28cbb?syn-25a6b1a6=1))
-- Which vaccinations should you have this autumn and which are recommended in Germany (Euronews, [52 minutes ago](https://www.euronews.com/2026/10/30/which-vaccinations-should-you-have-this-autumn-and-which-are-recommended-in-germany))
-- EU countries pledge 20.5mn diesel barrels as winter supply fears grow (Euronews, [57 minutes ago](https://www.euronews.com/2026/10/30/eu-countries-pledge-205mn-diesel-barrels-as-winter-supply-fears-grow))
-- US: flowers laid at Patrick Stewart's Hollywood star after his death (Euronews, [1 hours ago](https://www.euronews.com/video/2026/10/30/us-flowers-laid-at-patrick-stewarts-hollywood-star-after-his-death))
-- Domestic droid gone amok? Don't worry, you're covered (Register, [1 hours ago](https://www.theregister.com/ai-and-ml/2026/10/30/domestic-droid-gone-amok-dont-worry-youre-covered/5306396))
-- French economy shrinks 0.1% in third quarter (FT, [1 hours ago](https://www.ft.com/content/6f879bc5-be07-4a66-afea-bcbe73723a9f?syn-25a6b1a6=1))
-- Naples Airport to close for the whole of November for €30m revamp – here’s what passengers need to know (Euronews, [1 hours ago](https://www.euronews.com/2026/10/30/naples-airport-to-close-for-the-whole-of-november-for-30m-revamp-heres-what-passengers-nee))
-- Big Tech sheds nearly $900bn in rout over soaring AI spending (FT, [1 hours ago](https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc?syn-25a6b1a6=1))
-- UK Shelly reseller warns payment data stolen after malware found on website (Register, [1 hours ago](https://www.theregister.com/cyber-crime/2026/10/30/uk-shelly-reseller-warns-payment-data-stolen-after-malware-found-on-website/5306250))
-- Liverpool 1-1 (6-5 p/k) Chelsea, Player Ratings: Penders redemption (WAGNH, [2 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-league-cup/173563/liverpool-1-1-6-5-p-k-chelsea-player-ratings-penders-redemption))
-- Global tech rout deepens as US earnings stoke AI spending fears (FT, [2 hours ago](https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1))
-- Binance halts withdrawals after record $6.3bn heist (FT, [3 hours ago](https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1))
-- The Daily Hilario: Friday (WAGNH, [3 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173553/the-daily-hilario-october-30th))
-- Google's search revenue Ferrari hits an AI-powered speed bump (Register, [3 hours ago](https://www.theregister.com/ai-and-ml/2026/10/30/googles-search-revenue-ferrari-hits-an-ai-powered-speed-bump/5306520))
-- Farm PC 'maintained' by a 14-year-old dumped support chap in a steaming pile of tech mess (Register, [4 hours ago](https://www.theregister.com/systems/2026/10/30/farm-pc-maintained-by-a-14-year-old-dumped-support-chap-in-a-steaming-pile-of-tech-mess/5306217))
-- Xabi Alonso tries to explain his Estêvão decisions (WAGNH, [5 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc/173549/xabi-alonso-tries-to-explain-his-estevao-decisions))
-- AWS installs an AI accelerator every 14 seconds and eyes $1 trillion annual revenue (Register, [5 hours ago](https://www.theregister.com/off-prem/2026/10/30/aws-installs-an-ai-accelerator-every-14-seconds-and-eyes-1-trillion-annual-revenue/5306547))
-- ‘A pile of muscle’: Trump closes midterm pitch with surreal messaging (FT, [6 hours ago](https://www.ft.com/content/b00495d4-c15d-4932-977e-27aebe05ba83?syn-25a6b1a6=1))
-- Why Trump’s tech dreams are quietly crumbling (FT, [6 hours ago](https://www.ft.com/content/9cc8d4ce-22ec-45d7-8b74-71a1dfe9abcc?syn-25a6b1a6=1))
-- Inside the make-or-break AI mega-project behind Nscale’s $35bn IPO (FT, [6 hours ago](https://www.ft.com/content/ee86c4b6-1fe4-467e-8f18-9c08df288aff?syn-25a6b1a6=1))
-- In the year AI re-wrote the infosec rulebook, it’s comforting to know crypto exchanges still have bad security (Register, [7 hours ago](https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539))
-- PC chip plunge wipes out a quarter of Intel’s value (Register, [8 hours ago](https://www.theregister.com/systems/2026/10/30/pc-chip-plunge-wipes-out-a-quarter-of-intels-value/5306531))
-- Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched (Register, [12 hours ago](https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508))
-- What killed Weil Gotshal? (FT, [14 hours ago](https://www.ft.com/content/98dfc71b-19eb-4194-8c6a-bb6d9b463074?syn-25a6b1a6=1))
-- Howler will have AI answer your questions, then burn the chat (Register, [15 hours ago](https://www.theregister.com/offbeat/2026/10/29/howler-will-have-ai-answer-your-questions-then-burn-the-chat/5306484))
-- Analysis: How a personnel switch and eagle-eyed tactics helped Blues beat Roma (CFC, [18 hours ago](https://www.chelseafc.com/en/news/article/analysis-how-a-personnel-switch-and-eagle-eyed-tactics-helped-blues-beat))
-- Makelele joins star-studded squad for Chelsea Legends vs Tottenham Legends (CFC, [19 hours ago](https://www.chelseafc.com/en/news/article/makelele-joins-star-studded-squad-for-chelsea-legends-vs-tottenham-legends))
-- FPL 2026/27: Chelsea Gameweek 9 (CFC, [20 hours ago](https://www.chelseafc.com/en/news/article/fpl-2026-27-chelsea-gameweek-9))
-- Adjustments to the Taiwan storefront of the App Store on iOS and iPadOS (Apple, [20 hours ago](https://developer.apple.com/news/?id=w9mxlhek))
-- Unveiled today: Chelsea FC Collection by ART OF (CFC, [20 hours ago](https://www.chelseafc.com/en/news/article/unveiled-today-chelsea-fc-collection-by-art-of))
+- Crypto exchanges rush to tighten security after $6.3bn Binance heist (FT, [16 minutes ago](https://www.ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1))
+- Rating agency Fitch hits France with surprise outlook downgrade (FT, [1 hours ago](https://www.ft.com/content/852b05a1-4090-4aee-afc6-4d4c353ef3cf?syn-25a6b1a6=1))
+- Poland political crisis: Constitutional court in chaos as Nawrocki accuses government of staging power grab (Euronews, [1 hours ago](https://www.euronews.com/2026/10/31/poland-political-crisis-constitutional-court-in-chaos-as-nawrocki-accuses-government-of-st))
+- Chocolate Caterpillar or Chocolate Teapot? Top up the disk space for Windows 10 to find out (Register, [1 hours ago](https://www.theregister.com/offbeat/2026/10/31/chocolate-caterpillar-or-chocolate-teapot-top-up-the-disk-space-for-windows-10-to-find-out/5306103))
+- Kärcher boss: Less regulation, more action to get Europe and Germany fit again (Euronews, [2 hours ago](https://www.euronews.com/2026/10/31/karcher-boss-less-regulation-more-action-to-get-europe-and-germany-fit-again))
+- The seven days I thought I might have breast cancer (Euronews, [2 hours ago](https://www.euronews.com/2026/10/31/the-seven-days-i-thought-i-might-have-breast-cancer))
+- Backbone of a beast – charting Nvidia's rise to networking titan (Register, [2 hours ago](https://www.theregister.com/networks/2026/10/31/backbone-of-a-beast-charting-nvidias-rise-to-networking-titan/5306499))
+- Zelenskyy thanks US over deal for 500 Patriot missiles but warns delivery could take years (Euronews, [3 hours ago](https://www.euronews.com/2026/10/31/zelenskyy-thanks-us-over-deal-for-500-patriot-missiles-but-warns-delivery-could-take-years))
+- Chelsea fans’ preferred lineup against Manchester United: Formation change! (WAGNH, [3 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/173592/chelsea-fans-preferred-lineup-against-manchester-united-formation-change))
+- US approves $2.1bn sale of Patriot interceptors to Ukraine (FT, [3 hours ago](https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1))
+- The Daily Hilario: Saturday (WAGNH, [3 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173576/the-daily-hilario-october-31st))
+- Syrian curriculum changes spark debate over removal of images and historical figures (Euronews, [3 hours ago](https://www.euronews.com/2026/10/31/syrian-curriculum-changes-spark-debate-over-removal-of-images-and-historical-figures))
+- Travelling beyond the borders of Baku through fiction (Euronews, [4 hours ago](https://www.euronews.com/2026/10/31/travelling-beyond-the-borders-of-baku-through-fiction))
+- Curfews, 70,000 police and Halloween fears: France braces for fresh protests (Euronews, [4 hours ago](https://www.euronews.com/2026/10/31/france-to-deploy-70000-security-personnel-as-it-prepares-for-halloween-protests))
+- France aims for 'responsible' 2027 budget as Fitch downgrades outlook (Euronews, [4 hours ago](https://www.euronews.com/2026/10/31/france-aims-for-responsible-2027-budget-as-fitch-downgrades-outlook))
+- Chelsea vs. Manchester United, Premier League: Preview, team news, how to watch (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/173579/chelsea-vs-manchester-united-premier-league-preview-team-news-how-to-watch))
+- How many bats are killed by wind turbines? Study warns of ‘shocking’ increase amid clean energy boom (Euronews, [4 hours ago](https://www.euronews.com/2026/10/31/how-many-bats-are-killed-by-wind-turbines-study-warns-of-shocking-increase-amid-clean-ener))
+- Latest news bulletin  October 31st, 2026 – Morning (Euronews, [4 hours ago](https://www.euronews.com/video/2026/10/31/latest-news-bulletin-october-31st-2026-morning))
+- The right to be apolitical (FT, [5 hours ago](https://www.ft.com/content/74c46706-a4d9-4c8b-a2e7-7ff6ad811ec0?syn-25a6b1a6=1))
+- US midterms loom over jittery investors (FT, [5 hours ago](https://www.ft.com/content/6c099dc6-1fb3-44fc-b011-70229e3755cb?syn-25a6b1a6=1))
+- Donald Trump’s endgame (FT, [5 hours ago](https://www.ft.com/content/c344ed8a-4e4b-43f8-a570-d8101864d929?syn-25a6b1a6=1))
+- OpenAI slashes funding target by $10bn as tech anxieties mount (FT, [10 hours ago](https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1))
+- $6.3bn in 30 minutes: how the world’s biggest heist unfolded (FT, [12 hours ago](https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1))
+- How should Chelsea line up against Manchester United? (WAGNH, [13 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/173572/how-should-chelsea-line-up-against-manchester-united))
+- Darkbloom, which allowed Mac users to rent out their GPUs for AI inference, warns of low payouts (Register, [14 hours ago](https://www.theregister.com/ai-and-ml/2026/10/30/darkbloom-which-allowed-mac-users-to-rent-out-their-gpus-for-ai-inference-warns-of-low-payouts/5306782))
+- HTTP/3 is faster with some work and help from Cloudflare (Register, [14 hours ago](https://www.theregister.com/devops/2026/10/30/http/3-is-faster-with-some-work-and-help-from-cloudflare/5306767))
+- Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see (Register, [15 hours ago](https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754))
+- Anthropic may not secure investment-grade rating after IPO, Blackstone says (FT, [16 hours ago](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1))
+- GM cracks the petty cash box for multistate driver tracking settlement (Register, [18 hours ago](https://www.theregister.com/security/2026/10/30/gm-cracks-the-petty-cash-box-for-multistate-driver-tracking-settlement/5306721))
+- Anthropic: That Claude Code extension compromise… couldn't be us (Register, [18 hours ago](https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682))
+- Russia observes rare Ukraine ceasefire to allow evacuations (FT, [18 hours ago](https://www.ft.com/content/a6e29400-95bb-453e-8cc6-55c54d857024))
+- Voyager 1 gives controllers the silent treatment (Register, [19 hours ago](https://www.theregister.com/science/2026/10/30/voyager-1-gives-controllers-the-silent-treatment/5306637))
+- AlpineBSD announced – an AI-free FOSS OS (Register, [20 hours ago](https://www.theregister.com/os-platforms/2026/10/30/alpinebsd-announced-an-ai-free-foss-os/5306589))
+- NASA ponders a Hubble servicing mission or a controlled deorbit (Register, [20 hours ago](https://www.theregister.com/science/2026/10/30/nasa-ponders-a-hubble-servicing-mission-or-a-controlled-deorbit/5306622))
 
 <!-- news_marker ends -->
 
@@ -125,35 +137,35 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> People with goals succeed because they know where they are going. - Earl Nightingale, Motivational Speaker
+> There is nothing so useless as doing efficiently that which should not be done at all. - Peter Drucker
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Use fewer notes
+> Allow an easement (an easement is the abandonment of a stricture)
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Revolver (Rated: 4)
-- Released in 2005
-- Summary: Gambler Jake Green enters into a game with potentially deadly consequences.
+- Catch Me If You Can (Rated: 5)
+- Released in 2002
+- Summary: A runaway teenager lives an exciting life by forging checks and impersonating several professions, but his fraudulent activities soon attract the attention of the FBI.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 529, using [3, 3, 7, 10, 50, 75]
-- Answer: 8 solutions.
+- Target: 490, using [2, 3, 8, 10, 50, 75]
+- Answer: 48 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 3 - 10 ) x 7 + 50 + 3
+  Solution: ( 75 + 10 - 50 ) x ( 3 x 2 + 8 )
 
    </details>
 
@@ -162,9 +174,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-- Anna Shipman [URL](https://www.annashipman.co.uk/) [Feed](https://www.annashipman.co.uk/atom.xml)
-- Jim Nielsen (Blog) [URL](https://blog.jim-nielsen.com/) [Feed](https://blog.jim-nielsen.com/feed.xml)
-- MacStories [URL](https://www.macstories.net/) [Feed](https://www.macstories.net/feed/)
-- Lynn Fisher [URL](https://lynnandtonic.com/) [Feed](https://lynnandtonic.com/feed.xml)
-- Stephen Robles (all) [URL](https://beard.fm/) [Feed](https://wrangler.steve-9e8.workers.dev/rss)
+- Adam Caudill [URL](https://adamcaudill.com/blog/) [Feed](https://adamcaudill.com/blog/index.xml)
+- Online Journalism [URL](https://onlinejournalismblog.com/) [Feed](http://onlinejournalismblog.com/feed/)
+- Vale.Rocks [URL](https://vale.rocks/posts) [Feed](https://vale.rocks/posts/feed.xml)
+- Matt Stein [URL](https://mattstein.com/) [Feed](https://mattstein.com/rss.xml)
+- AB Drysdale [URL](https://abdrysdale.phd/) [Feed](https://abdrysdale.phd/feed.xml)
 <!-- blogroll_marker ends -->
