@@ -13,6 +13,7 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Sunday, 01 November 2026
 
 - The average temperature today is 7.75˚C,
@@ -27,6 +28,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 185 days since the last change (2026-04-30)
 
@@ -35,18 +37,23 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Exploit the landscape.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Arsenal Women v Aston Villa Women
 - London City Lionesses v Manchester City Women
 - Birmingham City Women v Tottenham Hotspur Women
@@ -54,30 +61,34 @@ _Good Morning, Here is your daily briefing..._
 - West Ham United Women v Liverpool Women
 - Charlton Athletic Women v Chelsea Women
 - Liverpool v Arsenal
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 135.9600067138672 
-- ^FTSE : 10729.7998046875 
-- ^FTMC : 24453.400390625 
+- VWRL.L : 135.9600067138672
+- ^FTSE : 10729.7998046875
+- ^FTMC : 24453.400390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Out on a long bike ride, I went miles down a long winding road until I arrived at a churchyard and only then did I realise it was a dead end and I had made a grave mistake.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Gen Z protests turn violent in Germany (FT, [11 minutes ago](https://www.ft.com/content/4ffb1a86-853b-4151-9902-2ff302e79d24?syn-25a6b1a6=1))
 - Bulgarians head to the polls in tense presidential runoff (Euronews, [36 minutes ago](https://www.euronews.com/2026/11/01/bulgarians-head-to-the-polls-in-tense-presidential-runoff))
-- Latest news bulletin  November 1st, 2026 – Midday (Euronews, [48 minutes ago](https://www.euronews.com/video/2026/11/01/latest-news-bulletin-november-1st-2026-midday))
+- Latest news bulletin November 1st, 2026 – Midday (Euronews, [48 minutes ago](https://www.euronews.com/video/2026/11/01/latest-news-bulletin-november-1st-2026-midday))
 - UN demands urgent investigation after death of staff member held in Houthi custody (Euronews, [1 hours ago](https://www.euronews.com/2026/11/01/un-demands-investigation-after-death-of-staff-member-held-in-houthi-custody-in-yemen))
 - Binance restarts customer withdrawals after $6.3bn heist (FT, [2 hours ago](https://www.ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1))
 - Landline phones will switch off across Britland in 100 days, no extensions – Openreach (Register, [2 hours ago](https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673))
@@ -111,7 +122,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > priapean - adjective: 1. Phallic. 2. Lewd; salacious.
+> priapean - adjective: 1. Phallic. 2. Lewd; salacious.
 
 <!-- word_marker ends -->
 
@@ -126,6 +137,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Give the game away
 
 <!-- eno_marker ends -->
@@ -133,9 +145,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Alien (Rated: 7)
 - Released in 1979
 - Summary: After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -156,9 +170,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Tom Hazeldine [URL](https://tomhazledine.com/) [Feed](https://tomhazledine.com/feed.xml)
 - Cory Dransfeldt [URL](https://www.coryd.dev/) [Feed](https://www.coryd.dev/feeds/all.xml)
 - Matt Webb [URL](https://interconnected.org/home) [Feed](https://interconnected.org/home/feed)
 - Everything Changes [URL](https://everythingchanges.us/) [Feed](https://everythingchanges.us/feed.json)
 - Stephen Robles (all) [URL](https://beard.fm/) [Feed](https://wrangler.steve-9e8.workers.dev/rss)
+
 <!-- blogroll_marker ends -->
