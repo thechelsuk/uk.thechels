@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-11-02
+date: 2026-11-03
 last_modified_at: "2026-10-16"
 ---
 
@@ -13,14 +13,14 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Monday, 02 November 2026
+## On Tuesday, 03 November 2026
 
-- The average temperature today is 11.36˚C,
-- With highs of 12.06˚C and lows of 10.85˚C,
-- It may feel like 10.41˚C with scattered clouds
+- The average temperature today is 10.71˚C,
+- With highs of 11.64˚C and lows of 9.67˚C,
+- It may feel like 9.98˚C with scattered clouds
 - The wind speed is 6.69m/s and visibility is 10000m
-- The pressure is 1037hPa and humidity is 71%
-- The sun will rise at 07:04 and set at 16:39
+- The pressure is 1033hPa and humidity is 82%
+- The sun will rise at 07:06 and set at 16:37
 
 <!-- weather_marker ends -->
 
@@ -28,80 +28,117 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 186 days since the last change (2026-04-30)
+- It has been 187 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-- No tasks today
+- Recycling Waste Collection Day
+- Food Waste Collection Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Bias towards action.
+> Exploit the landscape.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Newcastle United v Everton
+- Manchester United U19 v Roma U19
+- Cambridge United v Brighton & Hove Albion U21
+- Newport County v Crystal Palace U21
+- Rochdale v Doncaster Rovers
+- Rotherham United v Newcastle United U21
+- Boston United v Leicester City U21
+- FC Halifax Town v Nottingham Forest U21
+- Gateshead v Stoke City U21
+- Hartlepool United v Leeds United U21
+- Hornchurch v West Ham United U21
+- Scunthorpe United v Wolves U21
+- Sutton United v Southampton U21
+- Truro City v West Brom U21
+- Wealdstone v Derby County U21
+- Tottenham Hotspur U21 v FC Nordsjaelland U21
+- Braintree Town v Norwich City U21
+- Blackburn Rovers v Stoke City
+- Charlton Athletic v Bolton Wanderers
+- Derby County v Norwich City
+- Portsmouth v Swansea City
+- Preston North End v Sheffield United
+- QPR v Burnley
+- Watford v Lincoln City
+- Huddersfield Town v Luton Town
+- Wigan Athletic v Mansfield Town
+- Northampton Town v Oldham Athletic
+- Aldershot Town v Ipswich Town U21
+- Tamworth v Everton U21
+- Woking v Birmingham City U21
+- Worthing v Fulham U21
+- Birmingham City v Millwall
+- West Brom v Southampton
+- Barcelona v Aston Villa
+- Manchester United v Roma
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 136.1699981689453 
-- ^FTSE : 10710.900390625 
-- ^FTMC : 24597.359375 
+- VWRL.L : 135.17999267578125 
+- ^FTSE : 10686.009765625 
+- ^FTMC : 24680.009765625 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> Why are all fast cars Chinese? When they drive past they all say Nǐ hǎo.
+> A candle delivery van crashed on the motorway last week, it had a blow out.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-- UK and Germany to jointly develop military AI in 2027 (Euronews, [4 minutes ago](https://www.euronews.com/2026/11/02/uk-and-germany-to-jointly-develop-military-ai-in-2027))
-- US midterm elections 2026: What are they and when will we know the results? (Euronews, [7 minutes ago](https://www.euronews.com/video/2026/11/02/us-midterm-elections-2026-what-are-they-and-when-will-we-know-the-results))
-- Brussels still 'traumatised' by Brexit, EU foreign policy chief warns (Euronews, [19 minutes ago](https://www.euronews.com/2026/11/02/brussels-still-traumatised-by-brexit-eu-foreign-policy-chief-warns))
-- 28 years and 50,000 kilometres: British adventurer Karl Bushby arrives home after epic trek (Euronews, [31 minutes ago](https://www.euronews.com/2026/11/02/28-years-and-50000-kilometres-british-adventurer-karl-bushby-arrives-home-after-epic-trek))
-- Taliban voices 'serious concern' over US plans to deport Afghans via Pakistan (Euronews, [35 minutes ago](https://www.euronews.com/2026/11/02/taliban-voices-serious-concern-over-us-plans-to-deport-afghans-via-pakistan))
-- Skeleton puppets and zombies fill New York’s Halloween parade (Euronews, [35 minutes ago](https://www.euronews.com/video/2026/11/02/skeleton-puppets-and-zombies-fill-new-yorks-halloween-parade))
-- How Putin has split the west (FT, [39 minutes ago](https://www.ft.com/content/eae872b0-69cb-445c-a107-aab95f9a8525?syn-25a6b1a6=1))
-- Marvell to buy data centre component maker Lumentum in $115bn AI bet (FT, [48 minutes ago](https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b))
-- Ukraine needs help this winter, says UN goodwill ambassador and actor Nikolaj Coster-Waldau (Euronews, [1 hours ago](https://www.euronews.com/video/2026/11/02/ukraine-needs-help-this-winter-says-un-goodwill-ambassador-and-actor-nikolaj-coster-waldau))
-- Global AI sell-off eases after Nasdaq’s worst month in over a year (FT, [1 hours ago](https://www.ft.com/content/d7fe99f8-d292-4cb5-a8fd-45be0f8cc2b3?syn-25a6b1a6=1))
-- Portugal house prices hit new record as October sees 7.5% annual rise (Euronews, [1 hours ago](https://www.euronews.com/2026/11/02/portugal-house-prices-hit-new-record-as-october-sees-75-annual-rise))
-- Schools closed and roads flooded as new wave of severe weather hits Greek islands (Euronews, [1 hours ago](https://www.euronews.com/2026/11/02/schools-closed-and-roads-flooded-as-new-wave-of-severe-weather-hits-greek-islands))
-- Netanyahu presses Trump for renewed strikes against Iran (FT, [1 hours ago](https://www.ft.com/content/8505c9d9-bb41-4052-a3dd-874dc9a509b1?syn-25a6b1a6=1))
-- Iran says it can reopen Hormuz in two days if US meets conditions (Euronews, [1 hours ago](https://www.euronews.com/2026/11/02/iran-says-it-can-reopen-hormuz-in-two-days-if-us-meets-conditions))
-- Vintage fun: Prodding AI agents using retro hardware just because you can (Register, [2 hours ago](https://www.theregister.com/offbeat/2026/11/02/vintage-fun-prodding-ai-agents-using-retro-hardware-just-because-you-can/5306705))
-- Microsoft's moolah mountain is more massive than ever. It just doesn't want the people who built it (Register, [3 hours ago](https://www.theregister.com/software/2026/11/02/microsofts-moolah-mountain-is-more-massive-than-ever-it-just-doesnt-want-the-people-who-built-it/5306576))
-- Britain's driverless dream hits a roundabout of awkward questions (Register, [3 hours ago](https://www.theregister.com/ai-and-ml/2026/11/02/britains-driverless-dream-hits-a-roundabout-of-awkward-questions/5306715))
-- From Expertise to Intelligence: NISCO Deploys World's First Swarm-Intelligence Steel Model at Scale (Register, [4 hours ago](https://www.theregister.com/ai-and-ml/2026/11/02/partner-content-from-expertise-to-intelligence-nisco-deploys-worlds-first-swarm-intelligence-steel-model-at-scale/5306614))
-- Chelsea 2-0 Manchester United, Player Ratings: Wherefore thou art Roméo (WAGNH, [5 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/173673/chelsea-2-0-manchester-united-player-ratings-wherefore-thou-art-romeo))
-- The Daily Hilario: Monday (WAGNH, [5 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173668/the-daily-hilario-november-2nd))
-- Manager threatened to fire a colleague, then gave them a critical task – which they flubbed (Register, [5 hours ago](https://www.theregister.com/storage/2026/11/02/manager-threatened-to-fire-a-colleague-then-gave-them-a-critical-task-which-they-flubbed/5306555))
-- Chap who coded Google’s Pac-Man clone reveals how the game freaked out Firefox (Register, [7 hours ago](https://www.theregister.com/personal-tech/2026/11/02/chap-who-coded-googles-pac-man-clone-reveals-how-the-game-freaked-out-firefox/5306879))
-- Petrol prices set to hit record high under Trump on eve of US elections (FT, [8 hours ago](https://www.ft.com/content/ee2748fb-9f85-4095-b599-526e5a4a6baa?syn-25a6b1a6=1))
-- The meaning of the midterms (FT, [8 hours ago](https://www.ft.com/content/35d78f66-3558-402b-8816-356c0b6b2f81?syn-25a6b1a6=1))
-- Life in Tehran under Trump’s blockade (FT, [8 hours ago](https://www.ft.com/content/6242529a-9233-4f99-ac90-72bee1099abf?syn-25a6b1a6=1))
-- The race to keep AI under control (FT, [8 hours ago](https://ig.ft.com/ai-safety/?syn-25a6b1a6=1))
-- Why rich Ireland still feels poor (FT, [8 hours ago](https://www.ft.com/content/637d66c0-0b2d-48b2-9d17-f2f5edb86971?syn-25a6b1a6=1))
-- India floats AI plan under which ‘The model travels to the data, rather than the data travelling to the model’ (Register, [8 hours ago](https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872))
-- Trump makes final pitch to restive voters in midterms campaign (FT, [11 hours ago](https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1))
-- Google says Asian advertisers spending less due to Europe's customs changes (Register, [12 hours ago](https://www.theregister.com/legal/2026/11/02/google-says-asian-advertisers-spending-less-due-to-europes-customs-changes/5306860))
-- Linus Torvalds says Linux kernel is out of ‘stabilization phase’ and using ‘much healthier model’ for AI contributions (Register, [14 hours ago](https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852))
-- Charlton Athletic WFC 0-6 Chelsea FCW, Women’s Super League: Post-match reaction (WAGNH, [21 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173660/charlton-athletic-wfc-0-6-chelsea-fcw-womens-super-league-post-match-reaction))
-- Charlton Athletic WFC vs. Chelsea FCW, Women’s Super League: Confirmed lineups; how to watch (WAGNH, [23 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173653/charlton-athletic-wfc-vs-chelsea-fcw-womens-super-league-confirmed-lineups-how-to-watch))
+- Turkey's justice minister says 'criminal network' behind billion-dollar fund scandal (Euronews, [18 minutes ago](https://www.euronews.com/2026/11/03/turkeys-justice-minister-says-criminal-network-behind-billion-dollar-fund-scandal))
+- North Macedonia leader hits back at Bulgaria's demands for constitutional change (Euronews, [19 minutes ago](https://www.euronews.com/2026/11/03/north-macedonia-leader-hits-back-at-bulgarias-demands-for-constitutional-change))
+- Video shows two helicopters colliding in Nepal’s Everest region (Euronews, [19 minutes ago](https://www.euronews.com/video/2026/11/03/video-shows-two-helicopters-colliding-in-nepals-everest-region))
+- French elections could derail EU enlargement, Croatian PM tells Euronews (Euronews, [25 minutes ago](https://www.euronews.com/2026/11/03/french-elections-could-derail-eu-enlargement-croatian-pm-tells-euronews))
+- Kristin Scott Thomas weighs in on Slow Horses co-star Jack Lowden for next James Bond (Euronews, [29 minutes ago](https://www.euronews.com/2026/11/03/kristin-scott-thomas-weighs-in-on-slow-horses-co-star-jack-lowden-for-next-james-bond))
+- Students block high schools in France to press for reform ahead of general strike (Euronews, [50 minutes ago](https://www.euronews.com/2026/11/03/students-block-high-schools-in-france-to-press-for-reform-ahead-of-general-strike))
+- Global travel to hit record 1.57 billion arrivals in 2026 – with European arrivals up 5% (Euronews, [1 hours ago](https://www.euronews.com/2026/11/03/global-travel-to-hit-record-157-billion-arrivals-in-2026-with-european-arrivals-up-5))
+- What 21 months of Trump have done to America (FT, [1 hours ago](https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1))
+- Marshall Wace hit as hedge funds suffer in October’s AI rout (FT, [1 hours ago](https://www.ft.com/content/fae029f1-f03e-4509-852e-396fa4863271?syn-25a6b1a6=1))
+- Ukraine rejects permanent curbs on farm exports after joining EU, PM tells Euronews (Euronews, [1 hours ago](https://www.euronews.com/2026/11/03/ukraine-rejects-permanent-curbs-on-farm-exports-after-joining-eu-pm-tells-euronews))
+- Latest news bulletin  November 3rd, 2026 – Midday (Euronews, [1 hours ago](https://www.euronews.com/video/2026/11/03/latest-news-bulletin-november-3rd-2026-midday))
+- Broadcom denied names of cloud providers backing VMware merger challenge (Register, [1 hours ago](https://www.theregister.com/virtualization/2026/11/03/broadcom-denied-names-of-cloud-providers-backing-vmware-merger-challenge/5307178))
+- Americans begin voting in elections to decide control of Congress (FT, [1 hours ago](https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1))
+- Portugal housing protesters hail court win, but ruling limits tents to one activist (Euronews, [1 hours ago](https://www.euronews.com/2026/11/03/portugal-housing-protesters-hail-court-win-but-ruling-limits-tents-to-one-activist))
+- Wall Street braces as voters head to high-stakes polls (FT, [2 hours ago](https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1))
+- UK.gov lacks understanding of climate impact, says watchdog (Register, [2 hours ago](https://www.theregister.com/public-sector/2026/11/03/ukgov-lacks-understanding-of-climate-impact-says-watchdog/5306918))
+- US voters prepare to deliver verdict on Trump (FT, [2 hours ago](https://www.ft.com/content/086e9324-9d27-43a7-9334-d743f7cf8626?syn-25a6b1a6=1))
+- Raspberry Pi hikes prices again, barely a month after the last round (Register, [3 hours ago](https://www.theregister.com/personal-tech/2026/11/03/raspberry-pi-hikes-prices-again-barely-a-month-after-the-last-round/5307004))
+- Everyone has the file. Nobody has the right version (Register, [3 hours ago](https://www.theregister.com/storage/2026/11/03/sponsored-everyone-has-the-file-nobody-has-the-right-version/5306650))
+- The Daily Hilario: He’s on a boat (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173690/the-daily-hilario-hes-on-a-boat))
+- Forget retraining - AI can now tweak another AI's weights (Register, [4 hours ago](https://www.theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105))
+- US, Russia and China discuss meeting between Trump, Putin and Xi (FT, [4 hours ago](https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1))
+- US strikes Iran’s Qeshm Island on eve of election (FT, [6 hours ago](https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1))
+- Open models can do 90% of agentic work at a twentieth of the cost of a frontier LLM: Gartner (Register, [6 hours ago](https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132))
+- Italy’s ‘exit tax’ plan spooks rich expats (FT, [7 hours ago](https://www.ft.com/content/394938d3-f635-4af7-89f2-8a3c28ecf4ae?syn-25a6b1a6=1))
+- Architect creates open source replacement for VM migration tool VMware has hidden (Register, [7 hours ago](https://www.theregister.com/virtualization/2026/11/03/architect-creates-open-source-replacement-for-vm-migration-tool-vmware-has-hidden/5307124))
+- Toyota shows off SoC that stores model weights and its OS on integrated memory (Register, [9 hours ago](https://www.theregister.com/systems/2026/11/03/toyota-shows-off-soc-that-stores-model-weights-and-its-os-on-integrated-memory/5307117))
+- Anthropic's compute tab could top $1T as Q3 revenue nears $17B (Register, [13 hours ago](https://www.theregister.com/ai-and-ml/2026/11/02/anthropics-compute-tab-could-top-1t-as-q3-revenue-nears-17b/5307089))
+- Max-severity bug in widely used OT programming tool exploited to deliver Linux malware (Register, [13 hours ago](https://www.theregister.com/security/2026/11/02/max-severity-bug-in-widely-used-ot-programming-tool-exploited-to-deliver-linux-malware/5307086))
+- ‘A massive piece of pool’: Trump talks algae and grass in final midterm push (FT, [14 hours ago](https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1))
+- US midterms: the races to watch (FT, [16 hours ago](https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692?syn-25a6b1a6=1))
+- A new way to shop in the USA (CFC, [18 hours ago](https://www.chelseafc.com/en/video/a-new-way-to-shop-in-the-usa))
+- Upcoming: New age rating content descriptors in App Store Connect (Apple, [19 hours ago](https://developer.apple.com/news/?id=yxkh08us))
+- Five Chelsea stars nominated for FIFPRO Women’s World 11 (CFC, [19 hours ago](https://www.chelseafc.com/en/news/article/five-chelsea-stars-nominated-for-fifpro-womens-world-11))
+- Analysis: How Chelsea Women saw off Charlton with quick-fire attack (CFC, [21 hours ago](https://www.chelseafc.com/en/news/article/analysis-how-chelsea-women-saw-off-charlton-with-quick-fire-attack))
 
 <!-- news_marker ends -->
 
@@ -109,7 +146,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > pseudologue - noun: A habitual liar.
+ > adventurist - noun: One who pursues reckless ventures, especially in politics, military, foreign affairs, or business, disregarding established principles and norms.
 
 <!-- word_marker ends -->
 
@@ -117,35 +154,35 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> Stable Velocity. Sustainable Pace. - Mike Cottmeyer, Agile Author and Coach
+> You can never try to escape one danger without encountering another. Prudence consists in recognising the different dangers and in accepting the least bad as good. - Machiavelli
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Put in earplugs
+> Just carry on
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Target Number One (Rated: 3)
-- Released in 2023
-- Summary: In order to strengthen his connections on the street, a young man has to participate in a violent robbery. But, after surviving the war between street gangs, he becomes the main target of law enforcement and a ruthless mobster.
+- Little Miss Sunshine (Rated: 5)
+- Released in 2006
+- Summary: A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 685, using [1, 1, 2, 9, 75, 100]
-- Answer: 4 solutions.
+- Target: 334, using [6, 8, 10, 50, 75, 100]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 2 - 1 ) x 9 + 1
+  Solution: ( 75 + 10 ) x 50 x 8 / 100 - 6
 
    </details>
 
@@ -154,9 +191,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-- Accidentally in Code [URL](https://cate.blog/) [Feed](https://cate.blog/feed/)
-- Fraser McLean [URL](https://frasermclean.com/) [Feed](https://frasermclean.com/rss.xml)
-- Giles Turnbull [URL](https://gilest.org/) [Feed](https://gilest.org/feed/index.xml)
-- Jamie Arnold [URL](https://www.jamiearnold.com/) [Feed](https://www.jamiearnold.com/blog?format=rss)
-- Simon Willison (tools) [URL](http://simonwillison.net/) [Feed](https://simonwillison.net/atom/beats/tool/)
+- Jenn Schiffer [URL](https://livelaugh.blog/) [Feed](https://livelaugh.blog/rss.xml)
+- Calum Ryan (articles) [URL](https://www.calumryan.com/articles) [Feed](https://www.calumryan.com/feeds/articles/rss)
+- Manu [URL](https://manuelmoreale.com/) [Feed](https://manuelmoreale.com/feed/rss)
+- The Codist [URL](https://thecodist.com/) [Feed](http://feeds.feedburner.com/thecodist)
+- Leading Answers [URL](https://www.leadinganswers.com/) [Feed](http://leadinganswers.typepad.com/leading_answers/atom.xml)
 <!-- blogroll_marker ends -->
