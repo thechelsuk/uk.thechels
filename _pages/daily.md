@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-11-03
+date: 2026-11-04
 last_modified_at: "2026-10-16"
 ---
 
@@ -13,14 +13,14 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Tuesday, 03 November 2026
+## On Wednesday, 04 November 2026
 
 - The average temperature today is 10.71˚C,
-- With highs of 11.64˚C and lows of 9.67˚C,
-- It may feel like 9.98˚C with scattered clouds
-- The wind speed is 6.69m/s and visibility is 10000m
-- The pressure is 1033hPa and humidity is 82%
-- The sun will rise at 07:06 and set at 16:37
+- With highs of 11.31˚C and lows of 10.39˚C,
+- It may feel like 9.69˚C with broken clouds
+- The wind speed is 6.17m/s and visibility is 10000m
+- The pressure is 1029hPa and humidity is 71%
+- The sun will rise at 07:07 and set at 16:35
 
 <!-- weather_marker ends -->
 
@@ -28,117 +28,92 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 187 days since the last change (2026-04-30)
+- It has been 188 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Exploit the landscape.
+> Be open to change.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Manchester United U19 v Roma U19
-- Cambridge United v Brighton & Hove Albion U21
-- Newport County v Crystal Palace U21
-- Rochdale v Doncaster Rovers
-- Rotherham United v Newcastle United U21
-- Boston United v Leicester City U21
-- FC Halifax Town v Nottingham Forest U21
-- Gateshead v Stoke City U21
-- Hartlepool United v Leeds United U21
-- Hornchurch v West Ham United U21
-- Scunthorpe United v Wolves U21
-- Sutton United v Southampton U21
-- Truro City v West Brom U21
-- Wealdstone v Derby County U21
-- Tottenham Hotspur U21 v FC Nordsjaelland U21
-- Braintree Town v Norwich City U21
-- Blackburn Rovers v Stoke City
-- Charlton Athletic v Bolton Wanderers
-- Derby County v Norwich City
-- Portsmouth v Swansea City
-- Preston North End v Sheffield United
-- QPR v Burnley
-- Watford v Lincoln City
-- Huddersfield Town v Luton Town
-- Wigan Athletic v Mansfield Town
-- Northampton Town v Oldham Athletic
-- Aldershot Town v Ipswich Town U21
-- Tamworth v Everton U21
-- Woking v Birmingham City U21
-- Worthing v Fulham U21
-- Birmingham City v Millwall
-- West Brom v Southampton
-- Barcelona v Aston Villa
-- Manchester United v Roma
+- Fenerbache U19 v Liverpool U19
+- Chelsea U19 v Flora U19
+- RB Leipzig U19 v Manchester City U19
+- Fenerbahce v Liverpool
+- Cardiff City v West Ham United
+- Wrexham v Middlesbrough
+- Oxford United v Reading
+- Bristol City v Wolves
+- RB Leipzig v Manchester City
+- Slavia Prague v Arsenal
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 135.17999267578125 
-- ^FTSE : 10686.009765625 
-- ^FTMC : 24680.009765625 
+- VWRL.L : 136.13999938964844 
+- ^FTSE : 10801.91015625 
+- ^FTMC : 24858.470703125 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> A candle delivery van crashed on the motorway last week, it had a blow out.
+> Police officers are being asked to work double shifts without extra pay, they do not even get arrest.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-- Turkey's justice minister says 'criminal network' behind billion-dollar fund scandal (Euronews, [18 minutes ago](https://www.euronews.com/2026/11/03/turkeys-justice-minister-says-criminal-network-behind-billion-dollar-fund-scandal))
-- North Macedonia leader hits back at Bulgaria's demands for constitutional change (Euronews, [19 minutes ago](https://www.euronews.com/2026/11/03/north-macedonia-leader-hits-back-at-bulgarias-demands-for-constitutional-change))
-- Video shows two helicopters colliding in Nepal’s Everest region (Euronews, [19 minutes ago](https://www.euronews.com/video/2026/11/03/video-shows-two-helicopters-colliding-in-nepals-everest-region))
-- French elections could derail EU enlargement, Croatian PM tells Euronews (Euronews, [25 minutes ago](https://www.euronews.com/2026/11/03/french-elections-could-derail-eu-enlargement-croatian-pm-tells-euronews))
-- Kristin Scott Thomas weighs in on Slow Horses co-star Jack Lowden for next James Bond (Euronews, [29 minutes ago](https://www.euronews.com/2026/11/03/kristin-scott-thomas-weighs-in-on-slow-horses-co-star-jack-lowden-for-next-james-bond))
-- Students block high schools in France to press for reform ahead of general strike (Euronews, [50 minutes ago](https://www.euronews.com/2026/11/03/students-block-high-schools-in-france-to-press-for-reform-ahead-of-general-strike))
-- Global travel to hit record 1.57 billion arrivals in 2026 – with European arrivals up 5% (Euronews, [1 hours ago](https://www.euronews.com/2026/11/03/global-travel-to-hit-record-157-billion-arrivals-in-2026-with-european-arrivals-up-5))
-- What 21 months of Trump have done to America (FT, [1 hours ago](https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1))
-- Marshall Wace hit as hedge funds suffer in October’s AI rout (FT, [1 hours ago](https://www.ft.com/content/fae029f1-f03e-4509-852e-396fa4863271?syn-25a6b1a6=1))
-- Ukraine rejects permanent curbs on farm exports after joining EU, PM tells Euronews (Euronews, [1 hours ago](https://www.euronews.com/2026/11/03/ukraine-rejects-permanent-curbs-on-farm-exports-after-joining-eu-pm-tells-euronews))
-- Latest news bulletin  November 3rd, 2026 – Midday (Euronews, [1 hours ago](https://www.euronews.com/video/2026/11/03/latest-news-bulletin-november-3rd-2026-midday))
-- Broadcom denied names of cloud providers backing VMware merger challenge (Register, [1 hours ago](https://www.theregister.com/virtualization/2026/11/03/broadcom-denied-names-of-cloud-providers-backing-vmware-merger-challenge/5307178))
-- Americans begin voting in elections to decide control of Congress (FT, [1 hours ago](https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1))
-- Portugal housing protesters hail court win, but ruling limits tents to one activist (Euronews, [1 hours ago](https://www.euronews.com/2026/11/03/portugal-housing-protesters-hail-court-win-but-ruling-limits-tents-to-one-activist))
-- Wall Street braces as voters head to high-stakes polls (FT, [2 hours ago](https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1))
-- UK.gov lacks understanding of climate impact, says watchdog (Register, [2 hours ago](https://www.theregister.com/public-sector/2026/11/03/ukgov-lacks-understanding-of-climate-impact-says-watchdog/5306918))
-- US voters prepare to deliver verdict on Trump (FT, [2 hours ago](https://www.ft.com/content/086e9324-9d27-43a7-9334-d743f7cf8626?syn-25a6b1a6=1))
-- Raspberry Pi hikes prices again, barely a month after the last round (Register, [3 hours ago](https://www.theregister.com/personal-tech/2026/11/03/raspberry-pi-hikes-prices-again-barely-a-month-after-the-last-round/5307004))
-- Everyone has the file. Nobody has the right version (Register, [3 hours ago](https://www.theregister.com/storage/2026/11/03/sponsored-everyone-has-the-file-nobody-has-the-right-version/5306650))
-- The Daily Hilario: He’s on a boat (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173690/the-daily-hilario-hes-on-a-boat))
-- Forget retraining - AI can now tweak another AI's weights (Register, [4 hours ago](https://www.theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105))
-- US, Russia and China discuss meeting between Trump, Putin and Xi (FT, [4 hours ago](https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1))
-- US strikes Iran’s Qeshm Island on eve of election (FT, [6 hours ago](https://www.ft.com/content/ebeaca62-8958-459a-be9d-d3d39e441a53?syn-25a6b1a6=1))
-- Open models can do 90% of agentic work at a twentieth of the cost of a frontier LLM: Gartner (Register, [6 hours ago](https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132))
-- Italy’s ‘exit tax’ plan spooks rich expats (FT, [7 hours ago](https://www.ft.com/content/394938d3-f635-4af7-89f2-8a3c28ecf4ae?syn-25a6b1a6=1))
-- Architect creates open source replacement for VM migration tool VMware has hidden (Register, [7 hours ago](https://www.theregister.com/virtualization/2026/11/03/architect-creates-open-source-replacement-for-vm-migration-tool-vmware-has-hidden/5307124))
-- Toyota shows off SoC that stores model weights and its OS on integrated memory (Register, [9 hours ago](https://www.theregister.com/systems/2026/11/03/toyota-shows-off-soc-that-stores-model-weights-and-its-os-on-integrated-memory/5307117))
-- Anthropic's compute tab could top $1T as Q3 revenue nears $17B (Register, [13 hours ago](https://www.theregister.com/ai-and-ml/2026/11/02/anthropics-compute-tab-could-top-1t-as-q3-revenue-nears-17b/5307089))
-- Max-severity bug in widely used OT programming tool exploited to deliver Linux malware (Register, [13 hours ago](https://www.theregister.com/security/2026/11/02/max-severity-bug-in-widely-used-ot-programming-tool-exploited-to-deliver-linux-malware/5307086))
-- ‘A massive piece of pool’: Trump talks algae and grass in final midterm push (FT, [14 hours ago](https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1))
-- US midterms: the races to watch (FT, [16 hours ago](https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692?syn-25a6b1a6=1))
-- A new way to shop in the USA (CFC, [18 hours ago](https://www.chelseafc.com/en/video/a-new-way-to-shop-in-the-usa))
-- Upcoming: New age rating content descriptors in App Store Connect (Apple, [19 hours ago](https://developer.apple.com/news/?id=yxkh08us))
-- Five Chelsea stars nominated for FIFPRO Women’s World 11 (CFC, [19 hours ago](https://www.chelseafc.com/en/news/article/five-chelsea-stars-nominated-for-fifpro-womens-world-11))
-- Analysis: How Chelsea Women saw off Charlton with quick-fire attack (CFC, [21 hours ago](https://www.chelseafc.com/en/news/article/analysis-how-chelsea-women-saw-off-charlton-with-quick-fire-attack))
+- Watchdog sticks probe into Capita's handling of 1.7 million member civil service pension scheme (Register, [8 minutes ago](https://www.theregister.com/public-sector/2026/11/04/watchdog-sticks-probe-into-capitas-handling-of-17-million-member-civil-service-pension-scheme/5307542))
+- Stocks rebound after Democrats’ sweep (FT, [15 minutes ago](https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1))
+- Trump admits Iran war hurt Republicans as blame game erupts (FT, [19 minutes ago](https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1))
+- Key Central Asian highway expands on trade route from China towards Europe (Euronews, [20 minutes ago](https://www.euronews.com/2026/11/04/key-central-asian-highway-expands-on-trade-route-from-china-towards-europe))
+- ‘The transition is inevitable’: Brazil releases first global roadmap for phasing out fossil fuels (Euronews, [26 minutes ago](https://www.euronews.com/2026/11/04/the-transition-is-inevitable-brazil-releases-first-global-roadmap-for-phasing-out-fossil-f))
+- How the Trump era crashed (FT, [35 minutes ago](https://www.ft.com/content/637bfe05-69f9-4650-b043-731c1ebb4be6?syn-25a6b1a6=1))
+- Five takeaways from the midterm results (FT, [42 minutes ago](https://www.ft.com/content/2bfbe464-f070-44bb-a761-fecad1cde4d4?syn-25a6b1a6=1))
+- Cyberattack hits French blood banks but no samples compromised, officials say (Euronews, [56 minutes ago](https://www.euronews.com/2026/11/04/cyberattack-hits-french-blood-banks-but-no-samples-compromised-officials-say))
+- Cyberattack on French plasma stores is enough to make your blood boil (Register, [1 hours ago](https://www.theregister.com/security/2026/11/04/cyberattack-on-french-plasma-stores-is-enough-to-make-your-blood-boil/5307519))
+- Spanish police arrest three in Seville province over suspected war weapons trafficking (Euronews, [1 hours ago](https://www.euronews.com/2026/11/04/spanish-police-arrest-three-in-seville-province-over-suspected-war-weapons-trafficking))
+- French bank Crédit Mutuel Arkéa reports cyberattack, says customers face no losses (Euronews, [1 hours ago](https://www.euronews.com/2026/11/04/credit-mutuel-arkea-reports-cyberattack-says-clients-will-be-fully-protected))
+- Slavery reparations 'not feasible' for UK, Foreign Secretary Ed Milliband says (Euronews, [1 hours ago](https://www.euronews.com/2026/11/04/slavery-reparations-not-feasible-for-uk-foreign-secretary-ed-milliband-says))
+- The EU KIDS Act – why its impact extends beyond social media (Euronews, [1 hours ago](https://www.euronews.com/2026/11/04/the-eu-kids-act-why-its-impact-extends-beyond-social-media))
+- Blue wave, viral memes: How the internet is reacting to the US midterm elections (Euronews, [1 hours ago](https://www.euronews.com/2026/11/04/blue-wave-viral-memes-how-the-internet-is-reacting-to-the-us-midterm-elections))
+- Latest news bulletin  November 4th, 2026 – Midday (Euronews, [1 hours ago](https://www.euronews.com/video/2026/11/04/latest-news-bulletin-november-4th-2026-midday))
+- Republicans turn on each other after disastrous midterms (FT, [1 hours ago](https://www.ft.com/content/83a46027-3cde-41fa-8c55-405f40c6fa82?syn-25a6b1a6=1))
+- Achieving nirvana: Enlightenment 0.28 hits the desktop (Register, [1 hours ago](https://www.theregister.com/os-platforms/2026/11/04/achieving-nirvana-enlightenment-028-hits-the-desktop/5307329))
+- Hockey nations refuse to play Russia as Germany weighs pulling out as host (Euronews, [2 hours ago](https://www.euronews.com/2026/11/04/hockey-nations-refuse-to-play-russia-as-germany-weighs-pulling-out-as-host))
+- Windows pushed AI PCs, but now it's hit a wall of RAM prices (Register, [2 hours ago](https://www.theregister.com/personal-tech/2026/11/04/windows-pushed-ai-pcs-but-now-its-hit-a-wall-of-ram-prices/5307335))
+- ‘A deep sense of deceit’: Young Republicans reckon with US midterms rout (FT, [2 hours ago](https://www.ft.com/content/ec6029c3-3ec2-4948-8b69-298e3b10399f?syn-25a6b1a6=1))
+- Datacenter operators must win hearts and minds, not just permits (Register, [3 hours ago](https://www.theregister.com/on-prem/2026/11/04/datacenter-operators-must-win-hearts-and-minds-not-just-permits/5306895))
+- Americans deliver stunning rebuke to Trump as blue wave sweeps country (FT, [4 hours ago](https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99?syn-25a6b1a6=1))
+- The Daily Hilario: Here to there, and here again (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173709/the-daily-hilario-here-to-there-and-here-again))
+- Who are the new faces in the Senate? (FT, [4 hours ago](https://www.ft.com/content/d808855c-7157-4f63-b511-943fd3714e34?syn-25a6b1a6=1))
+- Corporate America braced for Democrats to unleash investigations (FT, [5 hours ago](https://www.ft.com/content/89b80817-fe6b-4172-ad01-8f675e3be6a5?syn-25a6b1a6=1))
+- Cole Palmer third fastest to 50 Premier League goals for Chelsea (WAGNH, [6 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/173704/cole-palmer-third-fastest-to-50-premier-league-goals-for-chelsea))
+- China outlines plans for moonshot it hopes to land by 2030 (Register, [6 hours ago](https://www.theregister.com/offbeat/2026/11/04/china-outlines-plans-for-moonshot-it-hopes-to-land-by-2030/5307457))
+- Emiliano Martínez, Valentín Barco, Aarón Anselmino called up by Argentina (WAGNH, [7 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/173699/emiliano-martinez-valentin-barco-aaron-anselmino-called-up-by-argentina))
+- Trump’s slapdown by America is one for the ages (FT, [7 hours ago](https://www.ft.com/content/0a9d5d07-bc57-4348-b67e-54cf4f1a246e?syn-25a6b1a6=1))
+- AMD on track to overtake Intel as biggest x86 outfit (Register, [8 hours ago](https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448))
+- Aussie Adobe assailant Canva announces layoffs in re-org affecting 22% of staff (Register, [12 hours ago](https://www.theregister.com/saas/2026/11/04/aussie-adobe-assailant-canva-announces-layoffs-in-re-org-affecting-22-of-staff/5307422))
+- North Korean fake job interview led to $6.3B Binance heist (Register, [14 hours ago](https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398))
+- Microsoft improves Windows 11 performance on 8 GB PCs as RAM prices keep climbing (Register, [15 hours ago](https://www.theregister.com/software/2026/11/03/microsoft-improves-windows-11-performance-on-8-gb-pcs-as-ram-prices-keep-climbing/5307382))
+- Siri AI is now open to all developers (Apple, [18 hours ago](https://developer.apple.com/news/?id=gdk2umrf))
+- Training gallery: The work starts again at Cobham (CFC, [19 hours ago](https://www.chelseafc.com/en/news/article/training-gallery-the-work-starts-again-at-cobham))
+- Get ready with the latest beta releases (Apple, [20 hours ago](https://developer.apple.com/news/?id=6gpufove))
 
 <!-- news_marker ends -->
 
@@ -146,7 +121,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > adventurist - noun: One who pursues reckless ventures, especially in politics, military, foreign affairs, or business, disregarding established principles and norms.
+ > chicaner - noun: 1. One who uses deception, especially in a legal, financial, or political context. 2. One who raises petty objections; a quibbler.
 
 <!-- word_marker ends -->
 
@@ -154,35 +129,35 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> You can never try to escape one danger without encountering another. Prudence consists in recognising the different dangers and in accepting the least bad as good. - Machiavelli
+> As an Agile coach, you do not need to have all the answers; it takes time and a few experiments to hit on the right approach. - Rachel Davies and Liz Sedley, Agile Trainers and Authors
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Just carry on
+> Fill every beat with something
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Little Miss Sunshine (Rated: 5)
-- Released in 2006
-- Summary: A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.
+- Frankenstein (Rated: 8)
+- Released in 2025
+- Summary: Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 334, using [6, 8, 10, 50, 75, 100]
-- Answer: 3 solutions.
+- Target: 253, using [4, 6, 7, 25, 75, 100]
+- Answer: 13 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 10 ) x 50 x 8 / 100 - 6
+  Solution: ( 75 - 6 - 4 ) x 100 / 25 - 7
 
    </details>
 
@@ -191,9 +166,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-- Jenn Schiffer [URL](https://livelaugh.blog/) [Feed](https://livelaugh.blog/rss.xml)
-- Calum Ryan (articles) [URL](https://www.calumryan.com/articles) [Feed](https://www.calumryan.com/feeds/articles/rss)
-- Manu [URL](https://manuelmoreale.com/) [Feed](https://manuelmoreale.com/feed/rss)
-- The Codist [URL](https://thecodist.com/) [Feed](http://feeds.feedburner.com/thecodist)
-- Leading Answers [URL](https://www.leadinganswers.com/) [Feed](http://leadinganswers.typepad.com/leading_answers/atom.xml)
+- Matt Birchtree [URL](https://birchtree.me/) [Feed](https://birchtree.me/rss/)
+- Justin Jackson [URL](https://justinjackson.ca/) [Feed](http://justinjackson.ca/feed/)
+- A11y Weekly [URL](https://a11yweekly.com/) [Feed](https://a11yweekly.com/feed/)
+- Dave Rupert [URL](https://daverupert.com/) [Feed](https://daverupert.com/atom.xml)
+- Jake Archibald [URL](https://jakearchibald.com/) [Feed](https://jakearchibald.com/posts.rss)
 <!-- blogroll_marker ends -->
