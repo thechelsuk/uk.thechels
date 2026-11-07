@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-11-06
+date: 2026-11-07
 last_modified_at: "2026-10-16"
 ---
 
@@ -13,14 +13,14 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Friday, 06 November 2026
+## On Saturday, 07 November 2026
 
-- The average temperature today is 10.82˚C,
-- With highs of 11.4˚C and lows of 10.39˚C,
-- It may feel like 10.12˚C with scattered clouds
-- The wind speed is 2.06m/s and visibility is 7000m
-- The pressure is 1023hPa and humidity is 83%
-- The sun will rise at 07:11 and set at 16:32
+- The average temperature today is 8.99˚C,
+- With highs of 10.12˚C and lows of 8.15˚C,
+- It may feel like 8.99˚C with mist
+- The wind speed is 0.51m/s and visibility is 2500m
+- The pressure is 1023hPa and humidity is 93%
+- The sun will rise at 07:13 and set at 16:30
 
 <!-- weather_marker ends -->
 
@@ -28,82 +28,95 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 190 days since the last change (2026-04-30)
+- It has been 191 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-- Farmers Market in town
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Bias towards action.
+> Inspire others
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Oxford City v Leicester City
-- Derby County v Bolton Wanderers
-- Everton v Coventry City
+- AFC Bournemouth U18 v Reading U18
+- Burnley U18 v Manchester City U18
+- Chelsea U18 v Charlton Athletic U18
+- Manchester United U18 v Wolves U18
+- Crystal Palace U18 v Aston Villa U18
+- Bristol City v Norwich City
+- Portsmouth v Stoke City
+- Wrexham v Wolves
+- Leeds United v Tottenham Hotspur
+- Chelsea Women v Everton Women
+- Manchester City Women v West Ham United Women
+- Altrincham v Notts County
+- Nottingham Forest v Manchester City
+- Peterborough United v Reading
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 132.42999267578125 
-- ^FTSE : 10561.509765625 
-- ^FTMC : 24419.9609375 
+- VWRL.L : 133.69000244140625 
+- ^FTSE : 10673.900390625 
+- ^FTMC : 24504.30078125 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> What do you call a pirate with a wooden leg? Peggy.
+> It is very difficult to find work during a recession and every workplace is affected, just a few days ago I heard lots of firefighters were getting fired.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-- Scotland wants visitors to stay longer, slow down and experience authentic hospitality (Euronews, [11 minutes ago](https://www.euronews.com/2026/11/06/scotland-wants-visitors-to-stay-longer-slow-down-and-experience-authentic-hospitality))
-- Pope Leo XIV departs for Uruguay as he begins tour of South America (Euronews, [21 minutes ago](https://www.euronews.com/2026/11/06/pope-leo-xiv-departs-for-uruguay-as-he-begins-tour-of-south-america))
-- Cycling, castles and outdoor adventures: Wales gears up for a busy 2027 (Euronews, [30 minutes ago](https://www.euronews.com/2026/11/06/cycling-castles-and-outdoor-adventures-wales-gears-up-for-a-busy-2027))
-- Who is Ilija Srdanović? The doctor who took Serbia’s student movement to Macron and EU leaders (Euronews, [37 minutes ago](https://www.euronews.com/2026/11/06/who-is-ilija-srdanovic-the-doctor-who-took-serbias-student-movement-to-macron-and-eu-leade))
-- German carmakers drive surprise rise in industrial output (Euronews, [39 minutes ago](https://www.euronews.com/2026/11/06/german-carmakers-drive-surprise-rise-in-industrial-output))
-- Trio suspected of attempting to smuggle 3,000 tarantulas into Germany (Euronews, [41 minutes ago](https://www.euronews.com/2026/11/06/trio-suspected-of-attempting-to-smuggle-3000-tarantulas-into-germany))
-- How Greece aims to become a year-round destination as it looks beyond its beaches and islands (Euronews, [45 minutes ago](https://www.euronews.com/2026/11/06/how-greece-aims-to-become-a-year-round-destination-as-it-looks-beyond-its-beaches-and-isla))
-- Bank of England pours cold water on AI productivity boom (Register, [1 hours ago](https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059))
-- Five people rescued off Kiribati after months drifting at sea (Euronews, [1 hours ago](https://www.euronews.com/2026/11/06/five-people-rescued-off-kiribati-after-months-drifting-at-sea))
-- Parents sue Google after 13-year-old allegedly used AI to plan suicide (Euronews, [1 hours ago](https://www.euronews.com/2026/11/06/parents-sue-google-after-13-year-old-allegedly-used-ai-to-plan-suicide))
-- Big Tech and green groups meet to discuss the future of data centres in the US (Euronews, [1 hours ago](https://www.euronews.com/2026/11/06/big-tech-and-green-groups-meet-to-discuss-the-future-of-data-centres-in-the-us))
-- Wall Street set to steady after tech rout (FT, [1 hours ago](https://www.ft.com/content/642b32dc-e3a1-4df8-ae91-5c84bdeb89e0))
-- Donald Trump has taught the world that tariffs are useless (FT, [1 hours ago](https://www.ft.com/content/aab95234-0b9a-4b95-b1e5-d932669076d5?syn-25a6b1a6=1))
-- UK ministers seek powers to investigate when AI agents are let off the leash (Register, [1 hours ago](https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889))
-- NHS wants a second opinion on Palantir's glowing self-assessments (Register, [3 hours ago](https://www.theregister.com/public-sector/2026/11/06/nhs-wants-a-second-opinion-on-palantirs-glowing-self-assessments/5307809))
-- Britain's tech ambitions depend on minerals made in China, MPs warn (Register, [3 hours ago](https://www.theregister.com/public-sector/2026/11/06/britains-tech-ambitions-depend-on-minerals-made-in-china-mps-warn/5307779))
-- The Daily Hilario: Absolute kinematography (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173746/the-daily-hilario-absolute-kinematography))
-- Safari's Autofill feature may be distorting time (Register, [5 hours ago](https://www.theregister.com/applications/2026/11/06/safaris-autofill-feature-may-be-distorting-time/5308006))
-- Is the AI stock bubble finally bursting? (FT, [5 hours ago](https://www.ft.com/content/e185d576-c4a6-4fb0-aa03-deda69c900c8?syn-25a6b1a6=1))
-- Mike Penders, Xabi Alonso earn nominations for Premier League monthly awards (WAGNH, [6 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/173740/mike-penders-xabi-alonso-earn-nominations-for-premier-league-monthly-awards))
-- Hospital gave very sick doctor a special PC for his personal, erm, pleasure (Register, [6 hours ago](https://www.theregister.com/security/2026/11/06/hospital-gave-very-sick-doctor-a-special-pc-for-his-personal-erm-pleasure/5307750))
-- The sell-off gets deep (FT, [6 hours ago](https://www.ft.com/content/4ea585dd-6532-4839-a042-c9d1ad2e23f7?syn-25a6b1a6=1))
-- America turns on Trump’s tech cheerleaders (FT, [7 hours ago](https://www.ft.com/content/bda53f77-f391-4750-ab5d-55e09cbbdb7c?syn-25a6b1a6=1))
-- Who is in the line of fire after the midterm drubbing? (FT, [7 hours ago](https://www.ft.com/content/580ab1bf-4e2e-46b8-9178-dbf765645754?syn-25a6b1a6=1))
-- The post-midterms playbook for America Inc (FT, [7 hours ago](https://www.ft.com/content/9e62d62b-a464-42fb-b425-553b2364fa98?syn-25a6b1a6=1))
-- AI agents are a 'bane' for some website operators, says Cloudflare (Register, [8 hours ago](https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022))
-- Threat actor targets Indian fintechs on weekends when defenders aren’t watching (Register, [11 hours ago](https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000))
-- Wall Street sheds $3.2tn as tech-heavy Nasdaq plunges (FT, [14 hours ago](https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1))
-- Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up (Register, [14 hours ago](https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978))
-- AWS Kiro aims to solve identity crisis by adding another identity: bot orchestrator (Register, [14 hours ago](https://www.theregister.com/ai-and-ml/2026/11/05/aws-kiro-aims-to-solve-identity-crisis-by-adding-another-identity-bot-orchestrator/5307965))
-- Los Angeles elects democratic socialist Nithya Raman as mayor (FT, [15 hours ago](https://www.ft.com/content/888315a5-9fff-43df-83d9-eb066799a9d7?syn-25a6b1a6=1))
-- Will Democrats stall the AI boom? (FT, [16 hours ago](https://www.ft.com/content/5dedb9bf-bd12-4956-b2b7-ce968e1e1371?syn-25a6b1a6=1))
+- US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran (Euronews, [6 minutes ago](https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran))
+- US offers $20 million reward and 'possible relocation' for information on 'Iran’s nuclear program' (Euronews, [10 minutes ago](https://www.euronews.com/2026/11/07/us-offers-20-million-reward-and-possible-relocation-for-information-on-irans-nuclear-progr))
+- Latest news bulletin  November 7th, 2026 – Midday (Euronews, [41 minutes ago](https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-midday))
+- Pedro Alliana sworn in as Paraguay president after Santiago Peña's impeachment (Euronews, [1 hours ago](https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment))
+- NHS breach helpline left staff carrying a 'significant emotional burden' (Register, [1 hours ago](https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201))
+- How should Chelsea line up away against Sunderland? (WAGNH, [2 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/173795/how-should-chelsea-line-up-away-against-sunderland))
+- US Secret Service arrests man parked near White House with 'multiple guns' in vehicle (Euronews, [2 hours ago](https://www.euronews.com/2026/11/07/us-secret-service-arrests-man-parked-near-white-house-with-multiple-guns-in-vehicle))
+- New Zealand counts votes in razor-thin election after campaign centred on cost of living (Euronews, [3 hours ago](https://www.euronews.com/2026/11/07/new-zealand-counts-votes-in-razor-thin-election-after-campaign-centred-on-cost-of-living))
+- Hackers probed Europe’s fridge systems weeks before cyberattacks. Who did it and what could they target next? (Euronews, [3 hours ago](https://www.euronews.com/2026/11/07/hackers-probed-europes-fridge-systems-weeks-before-cyberattacks-who-did-it-and-what-could-))
+- Windows takes a break at UK motorway services (Register, [3 hours ago](https://www.theregister.com/offbeat/2026/11/07/windows-takes-a-break-at-uk-motorway-services/5307862))
+- The Daily Hilario: Open wide for some soccer! (WAGNH, [3 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173789/the-daily-hilario-open-wide-for-some-soccer))
+- When antibiotics stop working: Europe's growing superbug threat (Euronews, [4 hours ago](https://www.euronews.com/2026/11/07/when-antibiotics-stop-working-europes-growing-superbug-threat))
+- Russian strikes on Kyiv region injure five and damage bridge and energy facilities (Euronews, [4 hours ago](https://www.euronews.com/2026/11/07/russian-strikes-on-kyiv-injure-five-and-damage-bridge-and-energy-facilities))
+- Europe needs Cold War-like deterrence for AI warfare, Poland says (Euronews, [4 hours ago](https://www.euronews.com/2026/11/07/europe-needs-cold-war-like-deterrence-for-ai-warfare-poland-says))
+- Trump’s defeat heralds a US retreat (FT, [6 hours ago](https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7?syn-25a6b1a6=1))
+- The mother of all American course corrections (FT, [6 hours ago](https://www.ft.com/content/452cf328-c819-482e-8f2c-61b65c96f8ce?syn-25a6b1a6=1))
+- How Wall Street’s all-in bet on AI blew up (FT, [6 hours ago](https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1))
+- A bittersweet year for liberals (FT, [6 hours ago](https://www.ft.com/content/3370e949-4a32-4a2d-8738-2f1cde6a35ea?syn-25a6b1a6=1))
+- Mississippi election marks political earthquake in the Deep South (FT, [6 hours ago](https://www.ft.com/content/0700baee-1a7f-4dc4-ac95-5b98e1868d96?syn-25a6b1a6=1))
+- US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy (FT, [9 hours ago](https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1))
+- Chelsea FCW vs. Everton FCW, Women&#8217;s Super League: Preview, team news, how to watch (WAGNH, [11 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173770/chelsea-fcw-vs-everton-fcw-womens-super-league-preview-team-news-how-to-watch))
+- Moisés Caicedo doubtful for Chelsea’s game against Sunderland (WAGNH, [11 hours ago](https://weaintgotnohistory.sbnation.com/injury-news/173767/moises-caicedo-doubtful-for-chelseas-game-against-sunderland))
+- US warns China it must ‘immediately’ meet terms of Busan trade deal (FT, [12 hours ago](https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1))
+- Trump taps immigration hardliner Stephen Miller as chief of staff (FT, [13 hours ago](https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1))
+- Agents reveal secrets when offered to team up with each other (Register, [14 hours ago](https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260))
+- Anthropic to press ahead with IPO targeting $1.5tn valuation (FT, [14 hours ago](https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1))
+- Thomas Tuchel bemoans Cole Palmer availability by not selecting Cole Palmer when available (WAGNH, [14 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/173755/thomas-tuchel-bemoans-cole-palmer-availability-by-not-selecting-cole-palmer-when-available))
+- PyTorch 2.15 tackles the 'one bad GPU' problem (Register, [17 hours ago](https://www.theregister.com/devops/2026/11/06/pytorch-215-tackles-the-one-bad-gpu-problem/5308227))
+- US air traffic control enters the 21st century, starts to abandon floppy disks (Register, [17 hours ago](https://www.theregister.com/public-sector/2026/11/06/us-air-traffic-control-enters-the-21st-century-starts-to-abandon-floppy-disks/5308210))
+- James Talarico: the Democrats’ rising star who turned Texas blue (FT, [18 hours ago](https://www.ft.com/content/7eb006c7-a430-40fd-bba6-48dcbb810ba2?syn-25a6b1a6=1))
+- Mac lookalikes multiply as Linux raids Apple's wardrobe (Register, [18 hours ago](https://www.theregister.com/os-platforms/2026/11/06/mac-lookalikes-multiply-as-linux-raids-apples-wardrobe/5308070))
+- Oak Ridge labs gets hybrid quantum-HPC system to test qubit error correction (Register, [18 hours ago](https://www.theregister.com/hpc/2026/11/06/oak-ridge-labs-gets-hybrid-quantum-hpc-system-to-test-qubit-error-correction/5308187))
+- RIP to the world’s ugliest car (Register, [19 hours ago](https://www.theregister.com/offbeat/2026/11/06/rip-to-the-worlds-ugliest-car/5308198))
+- DoJ's 'Super Intelligence Task Force' up and running (Register, [20 hours ago](https://www.theregister.com/ai-and-ml/2026/11/06/dojs-super-intelligence-task-force-up-and-running/5308074))
+- Crowd fave Linux Mint update approaches, fresh from autumn release of Cinnamon desktop (Register, [21 hours ago](https://www.theregister.com/os-platforms/2026/11/06/crowd-fave-linux-mint-update-approaches-fresh-from-autumn-release-of-cinnamon-desktop/5307951))
 
 <!-- news_marker ends -->
 
@@ -119,35 +132,35 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> Failure is simply the opportunity to begin again, this time more intelligently - Henry Ford
+> It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change. - Charles Darwin
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Use filters
+> Cascades
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Blood (Rated: 3)
-- Released in 2009
-- Summary: A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.
+- Team America World Police (Rated: 7)
+- Released in 2004
+- Summary: Popular Broadway actor Gary Johnston is recruited by the elite counter-terrorism organization Team America: World Police. As the world begins to crumble around him, he must battle with terrorists, celebrities and falling in love.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 525, using [3, 5, 7, 8, 8, 50]
-- Answer: 17 solutions.
+- Target: 330, using [2, 6, 7, 9, 10, 25]
+- Answer: 61 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 8 + 8 ) x 3 + 50 + 7 ) x 5
+  Solution: ( 10 + 9 - 6 ) x 25 + 7 - 2
 
    </details>
 
@@ -156,9 +169,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-- Lynn Fisher [URL](https://lynnandtonic.com/) [Feed](https://lynnandtonic.com/feed.xml)
-- by Stéphanie Walter [URL](https://stephaniewalter.design/) [Feed](https://stephaniewalter.design/feed/)
-- ThoughtAsylum [URL](https://www.thoughtasylum.com/) [Feed](https://www.thoughtasylum.com/atom.xml)
-- Ryan Bagley [URL](https://rb.ax/) [Feed](https://rb.ax/index.xml)
-- Ned Batch [URL](https://nedbatchelder.com/blog) [Feed](https://nedbatchelder.com/blog/rss.xml)
+- The Lang Cat [URL](https://thelangcat.co.uk/) [Feed](https://langcatfinancial.co.uk/feed/)
+- Information is Beautiful [URL](https://informationisbeautiful.net/) [Feed](http://feeds.feedburner.com/InformationIsBeautiful)
+- Spyglass [URL](https://spyglass.org/) [Feed](https://spyglass.org/rss/)
+- Piccalilli [URL](https://piccalil.li/the-index/) [Feed](https://piccalil.li/the-index/feed.xml)
+- Léonie Watson [URL](https://tink.uk/) [Feed](https://tink.uk/feed.xml)
 <!-- blogroll_marker ends -->
