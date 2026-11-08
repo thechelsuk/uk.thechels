@@ -13,6 +13,7 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Saturday, 07 November 2026
 
 - The average temperature today is 8.99˚C,
@@ -27,6 +28,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 191 days since the last change (2026-04-30)
 
@@ -35,18 +37,23 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Inspire others
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - AFC Bournemouth U18 v Reading U18
 - Burnley U18 v Manchester City U18
 - Chelsea U18 v Charlton Athletic U18
@@ -61,30 +68,34 @@ _Good Morning, Here is your daily briefing..._
 - Altrincham v Notts County
 - Nottingham Forest v Manchester City
 - Peterborough United v Reading
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 133.69000244140625 
-- ^FTSE : 10673.900390625 
-- ^FTMC : 24504.30078125 
+- VWRL.L : 133.69000244140625
+- ^FTSE : 10673.900390625
+- ^FTMC : 24504.30078125
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > It is very difficult to find work during a recession and every workplace is affected, just a few days ago I heard lots of firefighters were getting fired.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran (Euronews, [6 minutes ago](https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran))
 - US offers $20 million reward and 'possible relocation' for information on 'Iran’s nuclear program' (Euronews, [10 minutes ago](https://www.euronews.com/2026/11/07/us-offers-20-million-reward-and-possible-relocation-for-information-on-irans-nuclear-progr))
-- Latest news bulletin  November 7th, 2026 – Midday (Euronews, [41 minutes ago](https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-midday))
+- Latest news bulletin November 7th, 2026 – Midday (Euronews, [41 minutes ago](https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-midday))
 - Pedro Alliana sworn in as Paraguay president after Santiago Peña's impeachment (Euronews, [1 hours ago](https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment))
 - NHS breach helpline left staff carrying a 'significant emotional burden' (Register, [1 hours ago](https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201))
 - How should Chelsea line up away against Sunderland? (WAGNH, [2 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/173795/how-should-chelsea-line-up-away-against-sunderland))
@@ -124,7 +135,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > clodpate - noun: A stupid person.
+> clodpate - noun: A stupid person.
 
 <!-- word_marker ends -->
 
@@ -139,6 +150,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Cascades
 
 <!-- eno_marker ends -->
@@ -146,9 +158,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Team America World Police (Rated: 7)
 - Released in 2004
 - Summary: Popular Broadway actor Gary Johnston is recruited by the elite counter-terrorism organization Team America: World Police. As the world begins to crumble around him, he must battle with terrorists, celebrities and falling in love.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -169,9 +183,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - The Lang Cat [URL](https://thelangcat.co.uk/) [Feed](https://langcatfinancial.co.uk/feed/)
 - Information is Beautiful [URL](https://informationisbeautiful.net/) [Feed](http://feeds.feedburner.com/InformationIsBeautiful)
 - Spyglass [URL](https://spyglass.org/) [Feed](https://spyglass.org/rss/)
 - Piccalilli [URL](https://piccalil.li/the-index/) [Feed](https://piccalil.li/the-index/feed.xml)
 - Léonie Watson [URL](https://tink.uk/) [Feed](https://tink.uk/feed.xml)
+
 <!-- blogroll_marker ends -->
