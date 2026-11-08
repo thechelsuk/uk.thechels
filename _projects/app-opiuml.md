@@ -35,7 +35,7 @@ View [marketing site](https://opiuml.thechels.uk) &rarr;
 
 ### How much does Opiuml cost?
 
-Opiuml is free to download. Unlocking it is £29.99 a year, with a one-week free trial for new subscribers.
+Opiuml is free to download. Unlocking it is £17.99 a year, with a one-week free trial for new subscribers.
 
 ### Can I bring my podcasts from another app?
 
