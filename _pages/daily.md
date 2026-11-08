@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-11-07
+date: 2026-11-08
 last_modified_at: "2026-10-16"
 ---
 
@@ -13,121 +13,111 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+## On Sunday, 08 November 2026
 
-## On Saturday, 07 November 2026
-
-- The average temperature today is 8.99˚C,
-- With highs of 10.12˚C and lows of 8.15˚C,
-- It may feel like 8.99˚C with mist
-- The wind speed is 0.51m/s and visibility is 2500m
-- The pressure is 1023hPa and humidity is 93%
-- The sun will rise at 07:13 and set at 16:30
+- The average temperature today is 9.05˚C,
+- With highs of 9.98˚C and lows of 7.62˚C,
+- It may feel like 8.04˚C with mist
+- The wind speed is 2.06m/s and visibility is 2500m
+- The pressure is 1021hPa and humidity is 89%
+- The sun will rise at 07:15 and set at 16:29
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 
 <!-- threat_marker starts -->
-
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 191 days since the last change (2026-04-30)
+- It has been 192 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-
 - No tasks today
-
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-
-> Inspire others
-
+> Design for constant evolution.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-
-- AFC Bournemouth U18 v Reading U18
-- Burnley U18 v Manchester City U18
-- Chelsea U18 v Charlton Athletic U18
-- Manchester United U18 v Wolves U18
-- Crystal Palace U18 v Aston Villa U18
-- Bristol City v Norwich City
-- Portsmouth v Stoke City
-- Wrexham v Wolves
-- Leeds United v Tottenham Hotspur
-- Chelsea Women v Everton Women
-- Manchester City Women v West Ham United Women
-- Altrincham v Notts County
-- Nottingham Forest v Manchester City
-- Peterborough United v Reading
-
+- Stafford Rangers v Grimsby Town
+- Crystal Palace U21 v Everton U21
+- Leeds United U21 v AFC Bournemouth U21
+- Aston Villa Women v Manchester United Women
+- Liverpool Women v Arsenal Women
+- Durham Women v Sunderland AFC Women
+- Burnley U21 v Manchester United U21
+- Tottenham Hotspur U21 v Chelsea U21
+- Brighton & Hove Albion v Brentford
+- Crystal Palace v Liverpool
+- Ipswich Town v AFC Bournemouth
+- Sunderland v Chelsea
+- Arsenal U21 v Aston Villa U21
+- Crystal Palace Women v Charlton Athletic Women
+- Tottenham Hotspur Women v Brighton & Hove Albion Women
+- Ipswich Town Women v Bristol City Women
+- Newcastle United Women v Burnley Women
+- Southampton Women v Sheffield United Women
+- Wolves Women v Nottingham Forest Women
+- Cray Wanderers v Stockport County
+- London City Lionesses v Birmingham City Women
+- Wimborne Town v Crawley Town
+- Leicester City Women v Watford Women
+- Manchester United v Aston Villa
+- Oldham Athletic v Sheffield Wednesday
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 133.69000244140625
-- ^FTSE : 10673.900390625
-- ^FTMC : 24504.30078125
+- VWRL.L : 133.69000244140625 
+- ^FTSE : 10673.900390625 
+- ^FTMC : 24504.30078125 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-
-> It is very difficult to find work during a recession and every workplace is affected, just a few days ago I heard lots of firefighters were getting fired.
-
+> I suffer from a terrible affliction in which I have to give everything a number. Do not worry though, my GP said, it was not count-agious.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-
-- US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran (Euronews, [6 minutes ago](https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran))
-- US offers $20 million reward and 'possible relocation' for information on 'Iran’s nuclear program' (Euronews, [10 minutes ago](https://www.euronews.com/2026/11/07/us-offers-20-million-reward-and-possible-relocation-for-information-on-irans-nuclear-progr))
-- Latest news bulletin November 7th, 2026 – Midday (Euronews, [41 minutes ago](https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-midday))
-- Pedro Alliana sworn in as Paraguay president after Santiago Peña's impeachment (Euronews, [1 hours ago](https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment))
-- NHS breach helpline left staff carrying a 'significant emotional burden' (Register, [1 hours ago](https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201))
-- How should Chelsea line up away against Sunderland? (WAGNH, [2 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/173795/how-should-chelsea-line-up-away-against-sunderland))
-- US Secret Service arrests man parked near White House with 'multiple guns' in vehicle (Euronews, [2 hours ago](https://www.euronews.com/2026/11/07/us-secret-service-arrests-man-parked-near-white-house-with-multiple-guns-in-vehicle))
-- New Zealand counts votes in razor-thin election after campaign centred on cost of living (Euronews, [3 hours ago](https://www.euronews.com/2026/11/07/new-zealand-counts-votes-in-razor-thin-election-after-campaign-centred-on-cost-of-living))
-- Hackers probed Europe’s fridge systems weeks before cyberattacks. Who did it and what could they target next? (Euronews, [3 hours ago](https://www.euronews.com/2026/11/07/hackers-probed-europes-fridge-systems-weeks-before-cyberattacks-who-did-it-and-what-could-))
-- Windows takes a break at UK motorway services (Register, [3 hours ago](https://www.theregister.com/offbeat/2026/11/07/windows-takes-a-break-at-uk-motorway-services/5307862))
-- The Daily Hilario: Open wide for some soccer! (WAGNH, [3 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173789/the-daily-hilario-open-wide-for-some-soccer))
-- When antibiotics stop working: Europe's growing superbug threat (Euronews, [4 hours ago](https://www.euronews.com/2026/11/07/when-antibiotics-stop-working-europes-growing-superbug-threat))
-- Russian strikes on Kyiv region injure five and damage bridge and energy facilities (Euronews, [4 hours ago](https://www.euronews.com/2026/11/07/russian-strikes-on-kyiv-injure-five-and-damage-bridge-and-energy-facilities))
-- Europe needs Cold War-like deterrence for AI warfare, Poland says (Euronews, [4 hours ago](https://www.euronews.com/2026/11/07/europe-needs-cold-war-like-deterrence-for-ai-warfare-poland-says))
-- Trump’s defeat heralds a US retreat (FT, [6 hours ago](https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7?syn-25a6b1a6=1))
-- The mother of all American course corrections (FT, [6 hours ago](https://www.ft.com/content/452cf328-c819-482e-8f2c-61b65c96f8ce?syn-25a6b1a6=1))
-- How Wall Street’s all-in bet on AI blew up (FT, [6 hours ago](https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1))
-- A bittersweet year for liberals (FT, [6 hours ago](https://www.ft.com/content/3370e949-4a32-4a2d-8738-2f1cde6a35ea?syn-25a6b1a6=1))
-- Mississippi election marks political earthquake in the Deep South (FT, [6 hours ago](https://www.ft.com/content/0700baee-1a7f-4dc4-ac95-5b98e1868d96?syn-25a6b1a6=1))
-- US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy (FT, [9 hours ago](https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1))
-- Chelsea FCW vs. Everton FCW, Women&#8217;s Super League: Preview, team news, how to watch (WAGNH, [11 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173770/chelsea-fcw-vs-everton-fcw-womens-super-league-preview-team-news-how-to-watch))
-- Moisés Caicedo doubtful for Chelsea’s game against Sunderland (WAGNH, [11 hours ago](https://weaintgotnohistory.sbnation.com/injury-news/173767/moises-caicedo-doubtful-for-chelseas-game-against-sunderland))
-- US warns China it must ‘immediately’ meet terms of Busan trade deal (FT, [12 hours ago](https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1))
-- Trump taps immigration hardliner Stephen Miller as chief of staff (FT, [13 hours ago](https://www.ft.com/content/6e8f2244-0e39-45cd-b415-e0be54b0351f?syn-25a6b1a6=1))
-- Agents reveal secrets when offered to team up with each other (Register, [14 hours ago](https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260))
-- Anthropic to press ahead with IPO targeting $1.5tn valuation (FT, [14 hours ago](https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1))
-- Thomas Tuchel bemoans Cole Palmer availability by not selecting Cole Palmer when available (WAGNH, [14 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/173755/thomas-tuchel-bemoans-cole-palmer-availability-by-not-selecting-cole-palmer-when-available))
-- PyTorch 2.15 tackles the 'one bad GPU' problem (Register, [17 hours ago](https://www.theregister.com/devops/2026/11/06/pytorch-215-tackles-the-one-bad-gpu-problem/5308227))
-- US air traffic control enters the 21st century, starts to abandon floppy disks (Register, [17 hours ago](https://www.theregister.com/public-sector/2026/11/06/us-air-traffic-control-enters-the-21st-century-starts-to-abandon-floppy-disks/5308210))
-- James Talarico: the Democrats’ rising star who turned Texas blue (FT, [18 hours ago](https://www.ft.com/content/7eb006c7-a430-40fd-bba6-48dcbb810ba2?syn-25a6b1a6=1))
-- Mac lookalikes multiply as Linux raids Apple's wardrobe (Register, [18 hours ago](https://www.theregister.com/os-platforms/2026/11/06/mac-lookalikes-multiply-as-linux-raids-apples-wardrobe/5308070))
-- Oak Ridge labs gets hybrid quantum-HPC system to test qubit error correction (Register, [18 hours ago](https://www.theregister.com/hpc/2026/11/06/oak-ridge-labs-gets-hybrid-quantum-hpc-system-to-test-qubit-error-correction/5308187))
-- RIP to the world’s ugliest car (Register, [19 hours ago](https://www.theregister.com/offbeat/2026/11/06/rip-to-the-worlds-ugliest-car/5308198))
-- DoJ's 'Super Intelligence Task Force' up and running (Register, [20 hours ago](https://www.theregister.com/ai-and-ml/2026/11/06/dojs-super-intelligence-task-force-up-and-running/5308074))
-- Crowd fave Linux Mint update approaches, fresh from autumn release of Cinnamon desktop (Register, [21 hours ago](https://www.theregister.com/os-platforms/2026/11/06/crowd-fave-linux-mint-update-approaches-fresh-from-autumn-release-of-cinnamon-desktop/5307951))
+- US forces strike commercial vessel in Gulf of Oman after crew 'ignored repeated warnings' (Euronews, [13 minutes ago](https://www.euronews.com/2026/11/08/us-forces-strike-commercial-vessel-in-gulf-of-oman-after-crew-ignored-repeated-warnings))
+- Latest news bulletin  November 8th, 2026 – Midday (Euronews, [54 minutes ago](https://www.euronews.com/video/2026/11/08/latest-news-bulletin-november-8th-2026-midday))
+- Anthropic strikes $3.4bn deal to generate gas-fired power for data centres (FT, [54 minutes ago](https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1))
+- Canary Islands demand urgent government action amid surge in migrant arrivals (Euronews, [1 hours ago](https://www.euronews.com/2026/11/08/canary-islands-demand-urgent-government-action-amid-surge-in-migrant-arrivals))
+- At least 21 dead after migrant boat capsizes off Senegal, authorities say (Euronews, [1 hours ago](https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say))
+- Grand Prix d’Horlogerie de Genève 2026:  Rexhep Rexhepi wins prestigious Aiguille d’Or Prize (Euronews, [2 hours ago](https://www.euronews.com/2026/11/08/grand-prix-dhorlogerie-de-geneve-2026-rexhep-rexhepi-wins-prestigious-aiguille-dor-prize))
+- Netanyahu rival Eisenkot to be tasked with forming new government following Israeli elections (Euronews, [3 hours ago](https://www.euronews.com/2026/11/08/netanyahu-rival-eisenkot-to-be-tasked-with-forming-new-government-following-israeli-electi))
+- Chelsea fans’ preferred lineup against Sunderland: Depend on de Penders (WAGNH, [3 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/173839/chelsea-fans-preferred-lineup-against-sunderland-depend-on-de-penders))
+- What we know about the Krakow shooting that left six people dead (Euronews, [3 hours ago](https://www.euronews.com/2026/11/08/what-we-know-about-the-krakow-shooting-that-left-six-people-dead))
+- Fjord Oslo: Norway’s capital celebrates peace at open-air light art festival (Euronews, [3 hours ago](https://www.euronews.com/2026/11/08/fjord-oslo-norways-capital-celebrates-peace-at-open-air-light-art-festival))
+- The Daily Hilario: It’s matchday! (WAGNH, [3 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173833/the-daily-hilario-its-matchday))
+- Trump offers UFC boss White House press secretary role: 'Dana, please take the job!' (Euronews, [4 hours ago](https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job))
+- Where would you go in a time machine? Physicist says time travel only goes forward (Euronews, [5 hours ago](https://www.euronews.com/2026/11/08/where-would-you-go-in-a-time-machine-physicist-says-time-travel-only-goes-forward))
+- Crypto industry braces for reckoning over Trump ties (FT, [6 hours ago](https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1))
+- ‘Radical left’ get the headlines but centrists dominate new US Congress (FT, [6 hours ago](https://www.ft.com/content/c8692ed7-f32b-487f-9efa-3ccd3d144f42?syn-25a6b1a6=1))
+- Is Europe getting serious about ending tech dependence? (FT, [6 hours ago](https://www.ft.com/content/bd763f67-4c23-4e55-8fbf-3ca0ed520175?syn-25a6b1a6=1))
+- America is craving a return to community (FT, [6 hours ago](https://www.ft.com/content/2a0bc83c-1c48-451a-a2b6-3371a36fc287?syn-25a6b1a6=1))
+- Apple saves $2.7bn in taxes by booking profits in Singapore (FT, [6 hours ago](https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede?syn-25a6b1a6=1))
+- Russia races to build rival to Elon Musk’s Starlink (FT, [6 hours ago](https://www.ft.com/content/423ca208-8e22-4fb3-a76d-b9c722fd8cc0?syn-25a6b1a6=1))
+- Argentina’s Milei dreams of data centres on the Patagonian steppe (FT, [6 hours ago](https://www.ft.com/content/d432ae29-6454-4916-98c7-afb6993cfb67?syn-25a6b1a6=1))
+- Trump asks UFC boss Dana White to be new press secretary (FT, [10 hours ago](https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1))
+- Sunderland vs. Chelsea, Premier League: Preview, team news, how to watch (WAGNH, [16 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/173821/sunderland-vs-chelsea-premier-league-preview-team-news-how-to-watch))
+- Erin Cuthbert: 'There will be a reaction' (CFC, [20 hours ago](https://www.chelseafc.com/en/news/article/erin-cuthbert-there-will-be-a-reaction))
+- Chelsea FCW 1-1 Everton FCW, Women’s Super League: Post-match reaction (WAGNH, [21 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/173808/chelsea-fcw-1-1-everton-fcw-womens-super-league-post-match-reaction))
+- What will a Democratic Congress mean for Ukraine? (FT, [23 hours ago](https://www.ft.com/content/fac3a560-7845-4acf-9487-54ec8a445d74?syn-25a6b1a6=1))
 
 <!-- news_marker ends -->
 
@@ -135,7 +125,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
-> clodpate - noun: A stupid person.
+ > clodpate - noun: A stupid person.
 
 <!-- word_marker ends -->
 
@@ -143,38 +133,35 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change. - Charles Darwin
+> A leader is a dealer in hope - Napoleon Bonaparte
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-
-> Cascades
+> A line has two sides
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-
-- Team America World Police (Rated: 7)
-- Released in 2004
-- Summary: Popular Broadway actor Gary Johnston is recruited by the elite counter-terrorism organization Team America: World Police. As the world begins to crumble around him, he must battle with terrorists, celebrities and falling in love.
-
+- Shoot Em Up (Rated: 8)
+- Released in 2007
+- Summary: A man named Mr. Smith delivers a woman's baby during a shootout, and is then called upon to protect the newborn from the army of gunmen.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 330, using [2, 6, 7, 9, 10, 25]
-- Answer: 61 solutions.
+- Target: 287, using [4, 9, 10, 25, 75, 100]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 10 + 9 - 6 ) x 25 + 7 - 2
+  Solution: 100 x 75 / 25 - 9 - 4
 
    </details>
 
@@ -183,11 +170,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-
-- The Lang Cat [URL](https://thelangcat.co.uk/) [Feed](https://langcatfinancial.co.uk/feed/)
-- Information is Beautiful [URL](https://informationisbeautiful.net/) [Feed](http://feeds.feedburner.com/InformationIsBeautiful)
-- Spyglass [URL](https://spyglass.org/) [Feed](https://spyglass.org/rss/)
-- Piccalilli [URL](https://piccalil.li/the-index/) [Feed](https://piccalil.li/the-index/feed.xml)
-- Léonie Watson [URL](https://tink.uk/) [Feed](https://tink.uk/feed.xml)
-
+- Data Goddess [URL](https://sparklineadvisory.com/) [Feed](http://thedatagoddess.com/feed/)
+- Jeremy Keith [URL](https://adactio.com/journal/) [Feed](https://adactio.com/journal/rss)
+- Ploeh.DJ [URL](https://blog.ploeh.dk/) [Feed](https://blog.ploeh.dk/rss.xml)
+- Farnham Street [URL](https://fs.blog/) [Feed](https://www.farnamstreetblog.com/feed/)
+- Sam Ollason [URL](https://samollason.github.io/) [Feed](https://samollason.github.io/feed)
 <!-- blogroll_marker ends -->
