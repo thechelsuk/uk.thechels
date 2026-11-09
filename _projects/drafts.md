@@ -127,3 +127,23 @@ Drafts is a Mac and [iOS app](https://apps.apple.com/us/app/drafts/id1236254471)
 
 - Takes a draft with first line as the title, finds a `link: url` line and the rest as the body and posts the draft to GitHub as a markdown file with front matter in a `_bookmarks` directory/collection of a Jekyll Blog. Uses GitHub API and Drafts Credential store, with these set on first use (account, repo, token). Requires a GitHub Personal Access Token with contents read/write access. Front matter uses microformat `u-bookmark-of` format.
 - [Super Bookmarker to GitHub](https://actions.getdrafts.com/a/269) &rarr;
+
+## Cheltenham Alerts
+
+- Checks for active weather, flood, power and travel alerts in Cheltenham, and appends them to the draft with the five latest alerts. Data from [Cheltenham Open Data](https://cheltenham-od.uk/feeds).
+- [Cheltenham Alerts](https://actions.getdrafts.com/a/28P) &rarr;
+
+## Cheltenham News
+
+- Appends the 10 latest Cheltenham headlines from local news, council, police and community sources to the draft. Headlines gathered by [Cheltenham Open Data](https://cheltenham-od.uk/cheltenham-news).
+- [Cheltenham News](https://actions.getdrafts.com/a/28R) &rarr;
+
+## Cheltenham Fuel Prices
+
+- Appends today's cheapest unleaded, diesel and premium fuel prices within 20 miles of Cheltenham to the draft. Data from [Cheltenham Open Data](https://cheltenham-od.uk/cheltenham-fuel-prices).
+- [Cheltenham Fuel Prices](https://actions.getdrafts.com/a/28Q) &rarr;
+
+## Cheltenham House Prices
+
+- Appends Cheltenham's median house price, average rents by bedroom and home affordability to the draft. Data from [Cheltenham Open Data](https://cheltenham-od.uk/cheltenham-house-prices).
+- [Cheltenham House Prices](https://actions.getdrafts.com/a/28S) &rarr;
