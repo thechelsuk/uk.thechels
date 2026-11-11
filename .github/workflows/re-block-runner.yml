@@ -25,7 +25,7 @@ jobs:
             - name: Set up Python and dependencies
               uses: ./.github/actions/python-setup
               with:
-                  python-version: 3.13.1
+                  python-version: "3.13"
 
             - name: Check for new content
               run: python '_python/block_updater.py'

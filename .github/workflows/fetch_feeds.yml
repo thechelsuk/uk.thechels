@@ -31,7 +31,7 @@ jobs:
             - name: Set up Python and dependencies
               uses: ./.github/actions/python-setup
               with:
-                  python-version: "3.12"
+                  python-version: "3.13"
 
             - name: Capture before SHA
               id: before
