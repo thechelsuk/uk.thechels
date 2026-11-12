@@ -9,9 +9,9 @@ seo_description:
   handlebars."
 type: release
 cited: GitHub
-link: https://github.com/thechelsuk/homebridge-YSA2-plugin/releases/tag/v2.5.1
+link: https://github.com/thechelsuk/homebridge-ysa2/releases/tag/v2.5.1
 release_id: tag:github.com,2008:Repository/1218287392/v2.5.1
-release_repo: homebridge-ysa2-plugin
+release_repo: homebridge-ysa2
 release_project: homebridge-ysa2-yale-alarm
 release_version: v2.5.1
 ---

@@ -12,4 +12,4 @@ release_project: mltply
 release_version: 1.0.0
 ---
 
-**Full Changelog**: [https://github.com/mat-0/Mltply/commits/1.0.0](https://github.com/mat-0/Mltply/commits/1.0.0)
+**Full Changelog**: [https://github.com/thechelsuk/com.uk.thechels.mltply/commits/1.0.0](https://github.com/thechelsuk/com.uk.thechels.mltply/commits/1.0.0)
