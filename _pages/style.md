@@ -226,7 +226,7 @@ Create a horizontal rule using three or more hyphens, asterisks, or underscores.
 Example:
 
 ```markdown
----
+***
 ```
 
 ---

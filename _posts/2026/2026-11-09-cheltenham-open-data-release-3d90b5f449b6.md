@@ -3,7 +3,8 @@ layout: post
 date: 2026-11-09 01:01
 title: Cheltenham Open Data Version 3.1.3
 seo_title: Cheltenham Open Data Version 3.1.3 Release Notes
-seo_description: Release notes for Cheltenham Open Data version 3.1.3. See what changed
+seo_description:
+  Release notes for Cheltenham Open Data version 3.1.3. See what changed
   in this version. Most of my projects are free and open source.
 type: release
 cited: GitHub

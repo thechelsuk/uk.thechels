@@ -10,6 +10,7 @@ video_id: "XVitbJHGkMc"
 short: true
 image: "https://i1.ytimg.com/vi/XVitbJHGkMc/hqdefault.jpg"
 ---
+
 EngMan is a deck of 200 coaching cards for engineering managers: 1:1s, feedback, retros and more. engman.thechels.uk
 
 [Watch on YouTube](https://www.youtube.com/shorts/XVitbJHGkMc)

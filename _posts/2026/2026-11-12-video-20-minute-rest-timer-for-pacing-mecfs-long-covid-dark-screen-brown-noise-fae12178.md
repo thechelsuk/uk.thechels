@@ -10,7 +10,8 @@ video_id: "OfbOwTlB-9Q"
 short: false
 image: "https://i4.ytimg.com/vi/OfbOwTlB-9Q/hqdefault.jpg"
 ---
-A 20  minute rest timer made for pacing, by someone with ME/CFS.
+
+A 20 minute rest timer made for pacing, by someone with ME/CFS.
 
 Press play, put the screen down and rest. Nothing flashes, nothing talks, and nothing changes suddenly.
 

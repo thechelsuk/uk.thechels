@@ -13,6 +13,7 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Thursday, 12 November 2026
 
 - The average temperature today is 7.56˚C,
@@ -27,6 +28,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 196 days since the last change (2026-04-30)
 
@@ -35,41 +37,50 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > challenge assumptions.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Barcelona Women v Arsenal Women
 - England v Croatia
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 137.1704559326172 
-- ^FTSE : 10837.3203125 
-- ^FTMC : 24867.9296875 
+- VWRL.L : 137.1704559326172
+- ^FTSE : 10837.3203125
+- ^FTMC : 24867.9296875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Why did the blues man cross the road? To get from A to B#7
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Quantum leap: IBM plans to scale beyond 1,000 qubits in 2027 with Nighthawk r3 processor (Register, [6 minutes ago](https://www.theregister.com/systems/2026/11/12/quantum-leap-ibm-plans-to-scale-beyond-1000-qubits-in-2027-with-nighthawk-r3-processor/5309357))
 - MEPs back voting rights for new mothers – but fathers miss out (Euronews, [10 minutes ago](https://www.euronews.com/2026/11/12/meps-back-voting-rights-for-new-mothers-but-fathers-miss-out))
 - A warning from the Arctic? New study links melting sea ice to future summer droughts in Europe (Euronews, [17 minutes ago](https://www.euronews.com/2026/11/12/a-warning-from-the-arctic-new-study-links-melting-sea-ice-to-future-summer-droughts-in-eur))
@@ -88,7 +99,7 @@ _Good Morning, Here is your daily briefing..._
 - European tech buyers add digital sovereignty to cyber shopping list (Register, [2 hours ago](https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216))
 - Nvidia board to decide Jensen Huang’s fate (FT, [2 hours ago](https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1))
 - Rockstar workers vote on union recognition as GTA VI launch looms (Register, [2 hours ago](https://www.theregister.com/software/2026/11/12/rockstar-workers-vote-on-union-recognition-as-gta-vi-launch-looms/5309319))
-- Latest news bulletin  November 12th, 2026 – Midday (Euronews, [2 hours ago](https://www.euronews.com/video/2026/11/12/latest-news-bulletin-november-12th-2026-midday))
+- Latest news bulletin November 12th, 2026 – Midday (Euronews, [2 hours ago](https://www.euronews.com/video/2026/11/12/latest-news-bulletin-november-12th-2026-midday))
 - Maga architects blame Big Tech and AI data centres for midterms rout (FT, [2 hours ago](https://www.ft.com/content/43da75e5-e8fd-4aea-8afb-e3d75c9f176f?syn-25a6b1a6=1))
 - China warns US not to use Nvidia scandal as pretext for tech curbs (FT, [2 hours ago](https://www.ft.com/content/66e7337e-3696-4259-84f4-57533bc185bd?syn-25a6b1a6=1))
 - Orbit Global Menu: A working global menu addon for GNOME (Register, [3 hours ago](https://www.theregister.com/os-platforms/2026/11/12/orbit-global-menu-a-working-global-menu-addon-for-gnome/5309134))
@@ -111,7 +122,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > chawbacon - noun: A country bumpkin. adjective: Unsophisticated or uncultured.
+> chawbacon - noun: A country bumpkin. adjective: Unsophisticated or uncultured.
 
 <!-- word_marker ends -->
 
@@ -126,19 +137,22 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Lowest common denominator check
--single beat
--single note
--single
+> -single beat
+> -single note
+> -single
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Blood Red Sky (Rated: 3)
 - Released in 2021
 - Summary: A woman with a mysterious illness is forced into action when a group of terrorists attempt to hijack a transatlantic overnight flight.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -159,9 +173,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Bryce Wray [URL](https://www.brycewray.com/) [Feed](https://www.brycewray.com/index.xml)
 - Ryan Bagley [URL](https://rb.ax/) [Feed](https://rb.ax/index.xml)
 - Build5Nines [URL](https://build5nines.com/) [Feed](http://buildazure.com/feed/)
 - Lisa Charlotte Muth [URL](https://lisacharlottemuth.com/) [Feed](https://lisacharlottemuth.com/feed.xml)
 - Matt Mullenweg [URL](https://ma.tt/) [Feed](https://ma.tt/feed/)
+
 <!-- blogroll_marker ends -->
