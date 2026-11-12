@@ -208,6 +208,8 @@ navigation_slashes:
     title: "CV"
   - link: "/disability"
     title: "Disability"
+  - link: "/domains"
+    title: "Domains"
   - link: "/green"
     title: "Green"
   - link: "/manual"

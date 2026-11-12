@@ -1,0 +1,13 @@
+{% include header.html %}
+<h1 class="post-title">{{ page.title }}</h1>
+<p class="marker"><b>{{ site.data.domains | size }}</b> domains.</p>
+
+{{ content }}
+
+{% assign sorted = site.data.domains | sort: 'domain' %}
+<ul>
+    {% for item in sorted %}
+    <li>// <a href="https://{{ item.domain }}">{{ item.domain }}</a> &neArr;</li>
+    {% endfor %}
+</ul>
+{% include footer.html %}
