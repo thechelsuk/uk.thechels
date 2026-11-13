@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-11-12
+date: 2026-11-13
 last_modified_at: "2026-10-16"
 ---
 
@@ -13,108 +13,95 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+## On Friday, 13 November 2026
 
-## On Thursday, 12 November 2026
-
-- The average temperature today is 7.56˚C,
-- With highs of 8.76˚C and lows of 7.05˚C,
-- It may feel like 4.08˚C with few clouds
-- The wind speed is 6.17m/s and visibility is 10000m
-- The pressure is 1008hPa and humidity is 63%
-- The sun will rise at 07:22 and set at 16:22
+- The average temperature today is 7.45˚C,
+- With highs of 9.41˚C and lows of 6.51˚C,
+- It may feel like 6.69˚C with clear sky
+- The wind speed is 1.54m/s and visibility is 10000m
+- The pressure is 1018hPa and humidity is 66%
+- The sun will rise at 07:24 and set at 16:21
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 
 <!-- threat_marker starts -->
-
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 196 days since the last change (2026-04-30)
+- It has been 197 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-
 - No tasks today
-
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-
-> challenge assumptions.
-
+> Crossing the river by feeling the stones.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-
-- Barcelona Women v Arsenal Women
-- England v Croatia
-
+- England U21 v Portugal U21
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 137.1704559326172
-- ^FTSE : 10837.3203125
-- ^FTMC : 24867.9296875
+- VWRL.L : 138.00999450683594 
+- ^FTSE : 10867.1201171875 
+- ^FTMC : 24793.560546875 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-
-> Why did the blues man cross the road? To get from A to B#7
-
+> New judges are being offered innovative pay options to help but I do not think the test-i-money will catch on.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-
-- Quantum leap: IBM plans to scale beyond 1,000 qubits in 2027 with Nighthawk r3 processor (Register, [6 minutes ago](https://www.theregister.com/systems/2026/11/12/quantum-leap-ibm-plans-to-scale-beyond-1000-qubits-in-2027-with-nighthawk-r3-processor/5309357))
-- MEPs back voting rights for new mothers – but fathers miss out (Euronews, [10 minutes ago](https://www.euronews.com/2026/11/12/meps-back-voting-rights-for-new-mothers-but-fathers-miss-out))
-- A warning from the Arctic? New study links melting sea ice to future summer droughts in Europe (Euronews, [17 minutes ago](https://www.euronews.com/2026/11/12/a-warning-from-the-arctic-new-study-links-melting-sea-ice-to-future-summer-droughts-in-eur))
-- Hackers exploiting ScreenConnect plugin flaw to spread malware across hundreds of PCs (Register, [41 minutes ago](https://www.theregister.com/security/2026/11/12/hackers-exploiting-screenconnect-plugin-flaw-to-spread-malware-across-hundreds-of-pcs/5309361))
-- Ukraine says Starlink restrictions are back as US envoys land in Moscow (FT, [56 minutes ago](https://www.ft.com/content/6cd890f1-2e4d-468a-807f-529f45e1678e?syn-25a6b1a6=1))
-- LEGO shop BrickLink downed by 'unusual activity' on its website (Euronews, [57 minutes ago](https://www.euronews.com/2026/11/12/lego-shop-bricklink-downed-by-unusual-activity-on-its-website))
-- The latest FreeBSD report is here, and the AI debate is ongoing (Register, [1 hours ago](https://www.theregister.com/os-platforms/2026/11/12/the-latest-freebsd-report-is-here-and-the-ai-debate-is-ongoing/5309206))
-- Bomb threats hit schools in Italy and France as Macron says too soon to blame foreign powers (Euronews, [1 hours ago](https://www.euronews.com/2026/11/12/italy-hit-by-second-day-of-school-bomb-threats-as-meloni-summons-opposition))
-- Cristiano Ronaldo launches production of first TV series 'Day 1s' with director Matthew Vaughn (Euronews, [1 hours ago](https://www.euronews.com/2026/11/12/cristiano-ronaldo-launches-production-of-first-tv-series-day-1s-with-director-matthew-vaug))
-- Microsoft admits SQL Servers might wobble after October update (Register, [1 hours ago](https://www.theregister.com/databases/2026/11/12/microsoft-admits-sql-servers-might-wobble-after-october-update/5309349))
-- Israel strikes Gaza hospital despite ceasefire (FT, [1 hours ago](https://www.ft.com/content/2a3d0391-c4d9-4195-af36-b5ee66415cd9?syn-25a6b1a6=1))
-- Slovenia: Red Bull human catapult sets two Guinness World Records (Euronews, [1 hours ago](https://www.euronews.com/video/2026/11/12/slovenia-red-bull-human-catapult-sets-two-guinness-world-records))
-- 'Open Secret’: Documentary on convicted rapist Russell Brand coming to Netflix (Euronews, [1 hours ago](https://www.euronews.com/2026/11/12/open-secret-documentary-on-convicted-rapist-russell-brand-coming-to-netflix))
-- EU spent €8.7bn on Russian Arctic LNG in 2026, as import ban looms (Euronews, [2 hours ago](https://www.euronews.com/2026/11/12/eu-spent-87bn-on-russian-arctic-lng-in-2026-as-import-ban-looms))
-- Two guards collapse beside Macron during official welcoming ceremony (Euronews, [2 hours ago](https://www.euronews.com/2026/11/12/two-guards-collapse-beside-macron-during-official-welcoming-ceremony))
-- European tech buyers add digital sovereignty to cyber shopping list (Register, [2 hours ago](https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216))
-- Nvidia board to decide Jensen Huang’s fate (FT, [2 hours ago](https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1))
-- Rockstar workers vote on union recognition as GTA VI launch looms (Register, [2 hours ago](https://www.theregister.com/software/2026/11/12/rockstar-workers-vote-on-union-recognition-as-gta-vi-launch-looms/5309319))
-- Latest news bulletin November 12th, 2026 – Midday (Euronews, [2 hours ago](https://www.euronews.com/video/2026/11/12/latest-news-bulletin-november-12th-2026-midday))
-- Maga architects blame Big Tech and AI data centres for midterms rout (FT, [2 hours ago](https://www.ft.com/content/43da75e5-e8fd-4aea-8afb-e3d75c9f176f?syn-25a6b1a6=1))
-- China warns US not to use Nvidia scandal as pretext for tech curbs (FT, [2 hours ago](https://www.ft.com/content/66e7337e-3696-4259-84f4-57533bc185bd?syn-25a6b1a6=1))
-- Orbit Global Menu: A working global menu addon for GNOME (Register, [3 hours ago](https://www.theregister.com/os-platforms/2026/11/12/orbit-global-menu-a-working-global-menu-addon-for-gnome/5309134))
-- London hotel put admin login for booking website on whiteboard behind the front desk (Register, [4 hours ago](https://www.theregister.com/security/2026/11/12/london-hotel-put-admin-login-for-booking-website-on-whiteboard-behind-the-front-desk/5308889))
-- Data sovereignty takes more than keeping data close to home (Register, [4 hours ago](https://www.theregister.com/storage/2026/11/12/sponsored-data-sovereignty-takes-more-than-keeping-data-close-to-home/5308742))
-- Your AI agent is only as good as your endpoint data (Register, [4 hours ago](https://www.theregister.com/ai-and-ml/2026/11/12/partner-content-your-ai-agent-is-only-as-good-as-your-endpoint-data/5308469))
-- The Daily Hilario: Thursday (WAGNH, [5 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173943/the-daily-hilario-november-12th))
-- Who could run Nvidia after Jensen Huang? (FT, [5 hours ago](https://www.ft.com/content/e47f7d4a-88d7-41e4-8c77-8ea8e0769353?syn-25a6b1a6=1))
-- Chelsea defender Malo Gusto ‘assessing his options’ ahead of January transfer window — report (WAGNH, [6 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/173949/chelsea-defender-malo-gusto-assessing-his-options-ahead-of-january-transfer-window-report))
-- Russian diesel exports double after Trump lifts sanctions, but US gets none (FT, [8 hours ago](https://www.ft.com/content/525b53ee-4817-4eb6-8292-b6ee0ac45b47?syn-25a6b1a6=1))
-- France signals support for Spain’s ECB presidential candidate (FT, [8 hours ago](https://www.ft.com/content/b0d03a62-a75d-41f9-bac3-1518cefe400a?syn-25a6b1a6=1))
-- Huang falls out of favour in Washington (FT, [9 hours ago](https://www.ft.com/content/9ca8ba83-5a3c-409e-96d9-abee1323b688?syn-25a6b1a6=1))
-- Scott Colom wins historic Senate race in Mississippi (FT, [13 hours ago](https://www.ft.com/content/ed93bd25-3ae4-4845-ac2e-ccb6e9c741e6?syn-25a6b1a6=1))
-- Internationals: Mahdi Nicoll-Jazuli scores hat-trick as Blues star for England (CFC, [20 hours ago](https://www.chelseafc.com/en/news/article/internationals-mahdi-nicoll-jazuli-scores-hat-trick-as-blues-star-for))
-- Josh Acheampong withdraws from England U21 squad due to injury (WAGNH, [20 hours ago](https://weaintgotnohistory.sbnation.com/injury-news/173938/josh-acheampong-withdraws-from-england-u21-squad-due-to-injury))
+- From Ukraine peace to Europe's future: How Russia is shifting the debate (Euronews, [20 minutes ago](https://www.euronews.com/2026/11/13/from-ukraine-peace-to-europes-future-how-russia-is-shifting-the-debate))
+- Jensen Huang’s years-long effort to get close to China (FT, [26 minutes ago](https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277?syn-25a6b1a6=1))
+- Palantir adds three UK police forces to its beat with £10.1M deal (Register, [29 minutes ago](https://www.theregister.com/public-sector/2026/11/13/palantir-adds-three-uk-police-forces-to-its-beat-with-101m-deal/5309699))
+- Moscow tells Europe to pick an envoy if it wants a seat at the table (FT, [34 minutes ago](https://www.ft.com/content/4c1f5051-94eb-4d20-b154-c45f4538a2a2?syn-25a6b1a6=1))
+- Microsoft races to restore services after global outage (FT, [42 minutes ago](https://www.ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7?syn-25a6b1a6=1))
+- Hungary’s MOL seeks EU funding as CEO warns Russian oil phase-out could trigger social unrest (Euronews, [46 minutes ago](https://www.euronews.com/2026/11/13/hungarys-mol-seeks-eu-funding-as-ceo-warns-russian-oil-phase-out-could-trigger-social-unre))
+- At least three killed and more than 20 injured in Russian strikes on Ukraine (Euronews, [1 hours ago](https://www.euronews.com/2026/11/13/at-least-three-killed-and-more-than-20-injured-in-russian-strikes-on-ukraine))
+- 'Take your time': Funniest reactions to Microsoft global outage (Euronews, [1 hours ago](https://www.euronews.com/2026/11/13/take-your-time-funniest-reactions-to-microsoft-global-outage))
+- BOFH: The best way to stop an idea spreading is a controlled burn (Register, [1 hours ago](https://www.theregister.com/bofh/2026/11/13/bofh-the-best-way-to-stop-an-idea-spreading-is-a-controlled-burn/5309292))
+- Winter 2026 travel tips: The best dates to fly and book hotels (Euronews, [1 hours ago](https://www.euronews.com/2026/11/13/winter-2026-travel-tips-the-best-dates-to-fly-and-book-hotels))
+- OK who just made $200mn shorting Nvidia ahead of Jensxit? (FT, [1 hours ago](https://www.ft.com/content/13c485dc-2d51-4920-bd1f-13a11c79d96c))
+- European diesel prices stay high as global oil supply overtakes demand, IEA says (Euronews, [1 hours ago](https://www.euronews.com/2026/11/13/european-diesel-prices-stay-high-as-global-oil-supply-overtakes-demand-iea-says))
+- China to encourage investment in Turkish renewable energy with $15bn solar and wind deal (Euronews, [1 hours ago](https://www.euronews.com/2026/11/13/china-to-encourage-investment-in-turkish-renewable-energy-with-15bn-solar-and-wind-deal))
+- Euronews Culture's Film of the Week: 'Club Kid' - Sex, drugs & sudden parenthood (Euronews, [1 hours ago](https://www.euronews.com/2026/11/13/euronews-cultures-film-of-the-week-club-kid-sex-drugs-sudden-parenthood))
+- Crackdown on UK medical record snooping after staff reported sneaking 300+ times this year (Register, [2 hours ago](https://www.theregister.com/security/2026/11/13/crackdown-on-uk-medical-record-snooping-after-staff-reported-sneaking-300-times-this-year/5309421))
+- Latest news bulletin  November 13th, 2026 – Midday (Euronews, [2 hours ago](https://www.euronews.com/video/2026/11/13/latest-news-bulletin-november-13th-2026-midday))
+- Ex-Nvidia CEO Huang and US Commerce Secretary Lutnick summoned to testify before Congress (Euronews, [2 hours ago](https://www.euronews.com/2026/11/13/ex-nvidia-ceo-huang-and-us-commerce-secretary-howard-lutnick-summoned-to-testify-before-co))
+- US Treasuries set for worst week since Trump’s ‘liberation day’ (FT, [2 hours ago](https://www.ft.com/content/7bebace2-dc87-410a-ae29-ffd9f3176def?syn-25a6b1a6=1))
+- Brit police watchdog says cops' use of facial recog risks wrongful arrests (Register, [2 hours ago](https://www.theregister.com/security/2026/11/13/brit-police-watchdog-says-cops-use-of-facial-recog-risks-wrongful-arrests/5309379))
+- Palantir's NHS cancer app gets plenty of praise, precious few users (Register, [3 hours ago](https://www.theregister.com/public-sector/2026/11/13/palantirs-nhs-cancer-app-gets-plenty-of-praise-precious-few-users/5309316))
+- The Daily Hilario: Friday (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/173965/the-daily-hilario-november-13th))
+- C++26 stumbles at finish line over Contracts dispute (Register, [5 hours ago](https://www.theregister.com/devops/2026/11/13/c26-stumbles-at-finish-line-over-contracts-dispute/5309526))
+- Chelsea’s first-ever central London pop-up store opens for Christmas season (CFC, [5 hours ago](https://www.chelseafc.com/en/news/article/chelseas-first-ever-central-london-pop-up-store-opens-for-christmas-season))
+- Microsoft's massive M365 outage stretches past 15 hours as its fixes keep failing (Register, [6 hours ago](https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-15-hours-as-its-fixes-keep-failing/5309609))
+- Value Nvidia, not Huang (FT, [6 hours ago](https://www.ft.com/content/1f76f0b0-96c6-41de-9725-9051545d32af?syn-25a6b1a6=1))
+- Developer cleverly shrank 2,600 lines of C into a six-line script but still ending up losing sleep (Register, [6 hours ago](https://www.theregister.com/software/2026/11/13/developer-cleverly-shrank-2600-lines-of-c-into-a-six-line-script-but-still-ending-up-losing-sleep/5309264))
+- Russia loses almost half a million lives in Ukraine war (FT, [8 hours ago](https://www.ft.com/content/7377e093-d58e-4303-853a-5aa82b6a747e?syn-25a6b1a6=1))
+- Why tech CEOs love black leather jackets (FT, [8 hours ago](https://www.ft.com/content/186f48b8-6574-48be-b0f2-3dcbac5dc24d))
+- The downfall of Jensen Huang (FT, [9 hours ago](https://www.ft.com/content/ef8f85a6-e2d7-4d41-b70e-092b2567813a?syn-25a6b1a6=1))
+- Singapore says US authorities, and Supermicro, hardly helped investigation of Jensen Huang’s Chinese friend (Register, [9 hours ago](https://www.theregister.com/legal/2026/11/13/singapore-says-us-authorities-and-supermicro-hardly-helped-investigation-of-jensen-huangs-chinese-friend/5309579))
+- Morgan Rogers scores for England; defends for Cole Palmer (WAGNH, [10 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/173969/morgan-rogers-scores-for-england-defends-for-cole-palmer))
+- Alibaba's Qwen3.8 re-educated with a more Western worldview (Register, [11 hours ago](https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555))
+- US lawmakers pile pressure on Lutnick as Nvidia scandal widens (FT, [13 hours ago](https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1))
 
 <!-- news_marker ends -->
 
@@ -122,7 +109,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
-> chawbacon - noun: A country bumpkin. adjective: Unsophisticated or uncultured.
+ > tear-throat - noun: An actor who overacts, especially through loud, exaggerated speech. adjective: Marked by loud, exaggerated delivery.
 
 <!-- word_marker ends -->
 
@@ -130,41 +117,35 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> If you define the problem correctly, you almost have the solution. - Steve Jobs
+> Innovation is a bottoms-up, decentralized, and unpredictable thing, but that does not mean it cannot be managed. - Eric Ries, Author, The Lean Startup
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-
-> Lowest common denominator check
-> -single beat
-> -single note
-> -single
+> Mute and continue
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-
-- Blood Red Sky (Rated: 3)
-- Released in 2021
-- Summary: A woman with a mysterious illness is forced into action when a group of terrorists attempt to hijack a transatlantic overnight flight.
-
+- Mr Deeds (Rated: 3)
+- Released in 2002
+- Summary: A sweet-natured small-town guy inherits a controlling stake in a media conglomerate and begins to do business his way.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 773, using [5, 7, 10, 50, 75, 100]
-- Answer: 6 solutions.
+- Target: 595, using [3, 5, 10, 25, 75, 100]
+- Answer: 44 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: 100 x 7 + 75 - 10 / 5
+  Solution: ( 100 + 75 + 25 - 5 ) x 3 + 10
 
    </details>
 
@@ -173,11 +154,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-
-- Bryce Wray [URL](https://www.brycewray.com/) [Feed](https://www.brycewray.com/index.xml)
-- Ryan Bagley [URL](https://rb.ax/) [Feed](https://rb.ax/index.xml)
-- Build5Nines [URL](https://build5nines.com/) [Feed](http://buildazure.com/feed/)
-- Lisa Charlotte Muth [URL](https://lisacharlottemuth.com/) [Feed](https://lisacharlottemuth.com/feed.xml)
-- Matt Mullenweg [URL](https://ma.tt/) [Feed](https://ma.tt/feed/)
-
+- And a Dinosaur (Zhenyi Tan) [URL](https://andadinosaur.com/) [Feed](https://andadinosaur.com/home.rss)
+- Jekyll News [URL](https://jekyllrb.com/) [Feed](https://jekyllrb.com/feed.xml)
+- Blog  - Andrew Nesbitt [URL](https://nesbitt.io/) [Feed](https://nesbitt.io/feed.xml)
+- UK Tech Week [URL](https://uktechweek.org/) [Feed](https://uktechweek.org/feed/)
+- Health Rising [URL](https://www.healthrising.org/) [Feed](https://www.healthrising.org/feed/)
 <!-- blogroll_marker ends -->
