@@ -15,4 +15,8 @@ Homebridge YSA2 is an updated fork of an existing YaleSyncAlarm Open source repo
 
 It helps manage your sync alarm, working alongside a dummy switch (an Apple limitation) - the alarm can be armed or disarmed through HomeKit automations (e.g., set alarm on when last person leaves the home)
 
+It is a [Homebridge verified plugin](https://github.com/homebridge/homebridge/wiki/Verified-Plugins).
+
+[![verified-by-homebridge](https://img.shields.io/badge/homebridge-verified-blueviolet?color=%23491F59&style=for-the-badge&logoColor=%23FFFFFF&logo=homebridge)](https://github.com/homebridge/homebridge/wiki/Verified-Plugins)
+
 The NPM package can be installed via Homebridge via their plugin search or by running `npm install -g homebridge-ysa2`.
