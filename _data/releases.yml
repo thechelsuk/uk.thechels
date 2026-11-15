@@ -42,6 +42,10 @@
   url: https://github.com/thechelsuk/template-mta-sts-sub-domain/releases.atom
 - id: Template - feed archiver for github
   url: https://github.com/thechelsuk/template-feed-archiver/releases.atom
+- id: Template - Jekyll site for GitHub Pages
+  url: https://github.com/thechelsuk/template-jekyll-site/releases.atom
+- id: Template - app marketing site for GitHub Pages
+  url: https://github.com/thechelsuk/template-marketing-site/releases.atom
 - id: Embed @ thechelsuk - YouTube referrer for NetNewsWire Themes
   url: https://github.com/thechelsuk/uk.thechels.embed/releases.atom
 - id: Tomoz @ thechelsuk - iOS app marketing site
