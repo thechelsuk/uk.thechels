@@ -1,55 +1,28 @@
 ---
 name: x - Link Checker
 
+# Weekly, on Monday mornings, and by hand, through the shared link checker.
+# Internal links and fragments only: the site links out too often to check
+# every external link each week. Broken links go in one open "broken-links"
+# issue assigned to thechelsuk, closed once a run finds none.
+
 on:
     workflow_dispatch:
     schedule:
-        - cron: "0 20 1 * *"
+        - cron: "0 6 * * 1"
 
 permissions:
+    contents: read
     issues: write
 
 jobs:
-    linkChecker:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: actions/checkout@v7
-
-            - uses: ruby/setup-ruby@v1
-              with:
-                  ruby-version: ".ruby-version"
-                  bundler-cache: true
-
-            - name: Build site
-              run: bundle exec jekyll build --trace
-
-            - name: Link Checker
-              id: lychee
-              uses: lycheeverse/lychee-action@v2.9.0
-              with:
-                  args: >-
-                      --verbose
-                      --no-progress
-                      --include-fragments
-                      --offline
-                      --base-url "$PWD/_site"
-                      --root-dir "$PWD/_site"
-                      --remap 'https?://thechels\.uk(/.*)? file://$PWD/_site$1'
-                      --exclude '^https?://'
-                      --timeout=30
-                      --max-retries=2
-                      './_site/**/*.html'
-                  fail: false
-                  format: markdown
-                  jobSummary: true
-              env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-            - name: Create Issue From File
-              if: steps.lychee.outputs.exit_code != 0
-              uses: peter-evans/create-issue-from-file@v6
-              with:
-                  title: Link Checker Report - ${{ github.run_id }}
-                  content-filepath: ./lychee/out.md
-                  labels: |
-                      Bot
+    links:
+        uses: thechelsuk/workflows/.github/workflows/link-checker.yml@main
+        with:
+            site_host: thechels\.uk
+            ruby_version: ".ruby-version"
+            internal_only: true
+            post_build: bash .github/scripts/copy-markdown-sources.sh
+            # The homepage's year anchors (/#2026 to /#1999) exist, but lychee
+            # looks for an anchor on the root folder, not its index.html.
+            extra_args: --exclude '_site/?#[0-9]{4}$'
