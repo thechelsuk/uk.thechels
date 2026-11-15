@@ -1,6 +1,9 @@
 ---
 name: GH - Dependency Review
 
+# The shared dependency review (thechelsuk/workflows): flags dependencies a
+# pull request adds or changes that have known vulnerabilities.
+
 on:
     pull_request:
 
@@ -9,9 +12,4 @@ permissions:
 
 jobs:
     dependency-review:
-        runs-on: ubuntu-latest
-        steps:
-            - name: "Checkout Repository"
-              uses: actions/checkout@v7
-            - name: "Dependency Review"
-              uses: actions/dependency-review-action@v5
+        uses: thechelsuk/workflows/.github/workflows/dependency-review.yml@main
