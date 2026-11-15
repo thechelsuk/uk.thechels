@@ -6,9 +6,8 @@ seo_description: "Free, open source themes for the NetNewsWire RSS reader on Mac
 permalink: /projects/nnw-themes
 class: themes
 i_name: Install
-i_url: "https://github.com/thechelsuk/nnw-themes"
+i_url: "https://github.com/thechelsuk/uk.thechels.themes-nnw"
 summary: "Theme bundle for the NetNewsWire RSS reader app that contains a number of light, dark, and adjustable themes."
-v-thechelsuk: 3.2.1
 type: wrench
 ---
 
@@ -20,14 +19,17 @@ and <https://themes-nnw.thechels.uk/> for previews and download links
 
 ## Theme Pack
 
-- [Visit GitHub Releases for version history](https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases)
+- [Visit GitHub Releases for version history](https://github.com/thechelsuk/uk.thechels.themes-nnw/releases)
 
 ## NetNewsWire Theme direct install links
 
-- [Install thechelsuk directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/thechelsuk.zip)
-- [Install Guro directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Guro.zip)
-- [Install Retro directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Retro.zip)
-- [Install Fresh directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Fresh.zip)
-- [Install Magda directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Magda.zip)
-- [Install Claudio directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Claudio.zip)
-- [Install Franco directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-for-nnw/releases/download/{{page.v-thechelsuk}}/Franco.zip)
+- [Install thechelsuk directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-nnw/releases/latest/download/thechelsuk.zip)
+- [Install Guro directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-nnw/releases/latest/download/Guro.zip)
+- [Install Retro directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-nnw/releases/latest/download/Retro.zip)
+- [Install Fresh directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-nnw/releases/latest/download/Fresh.zip)
+- [Install Magda directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-nnw/releases/latest/download/Magda.zip)
+- [Install Claudio directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-nnw/releases/latest/download/Claudio.zip)
+- [Install Franco directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-nnw/releases/latest/download/Franco.zip)
+- [Install Maika directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-nnw/releases/latest/download/Maika.zip)
+- [Install Micha directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-nnw/releases/latest/download/Micha.zip)
+- [Install Sunjiyo directly in NNW](netnewswire://theme/add?url=https://github.com/thechelsuk/uk.thechels.themes-nnw/releases/latest/download/Sunjiyo.zip)
