@@ -25,6 +25,4 @@ chore: release 2.5.5
 - The Settings screen's required fields (name, Yale username, Yale password and refresh interval) are now declared the standard JSON Schema way, so the Homebridge UI and the verification checks read them correctly. Your existing configuration is unchanged.
 - The plugin now declares that it works over HomeKit (HAP).
 
-Co-Authored-By: Claude Opus 5.5 [noreply@anthropic.com](mailto:noreply@anthropic.com)
-
 [Read more about my projects](/projects)
