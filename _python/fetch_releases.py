@@ -123,22 +123,20 @@ def normalise_markdown(value: str) -> str:
 
 
 def strip_signed_email_lines(value: str) -> str:
-    signed_off_by_line = re.compile(
-        r"^\s*(?:[-*+]\s+|\d+\.\s+)?signed-off-by\s*:?\s+.*$",
-        re.IGNORECASE,
-    )
+    """
+    Drops lines that shouldn't reach the blog: git trailers (Signed-off-by,
+    Co-Authored-By, Reviewed-by and the like), any line with an email
+    address, and "Generated with ..." footers.
+    """
+    trailer = re.compile(r"^[A-Za-z][\w-]*-by\s*:", re.IGNORECASE)
+    email = re.compile(r"[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}", re.IGNORECASE)
+    generated = re.compile(r"\bgenerated with\b", re.IGNORECASE)
     cleaned_lines = []
     for line in value.splitlines():
-        stripped = line.strip()
-        if signed_off_by_line.match(stripped):
-            continue
-
-        candidate = re.sub(r"^[-*+]\s+", "", stripped)
-        candidate = re.sub(r"^\d+\.\s+", "", candidate)
-        has_signed = re.search(r"\bsigned\b", candidate, re.IGNORECASE)
-        has_email = re.search(r"[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}",
-                              candidate, re.IGNORECASE)
-        if has_signed and has_email:
+        candidate = re.sub(r"^\s*(?:[-*+]\s+|\d+\.\s+)?", "", line)
+        candidate = re.sub(r"^\W+\s*", "", candidate)
+        if (trailer.match(candidate) or email.search(candidate)
+                or generated.search(candidate)):
             continue
         cleaned_lines.append(line)
     return "\n".join(cleaned_lines)

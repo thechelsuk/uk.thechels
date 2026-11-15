@@ -265,3 +265,14 @@ def test_process_releases_creates_new_posts_then_skips_duplicates(
 
 if __name__ == "__main__":
     pytest.main()
+
+
+def test_trailers_emails_and_generated_footers_are_removed():
+    body = ("Fix the feed\n\n"
+            "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n"
+            "Reviewed-by: Someone\n"
+            "Contact me at someone@example.com\n"
+            "🤖 Generated with [Claude Code](https://claude.com/claude-code)\n"
+            "- Keeps this line")
+    out = fetch_releases.strip_signed_email_lines(body)
+    assert out == "Fix the feed\n\n- Keeps this line"
