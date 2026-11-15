@@ -159,6 +159,8 @@ def get_thumbnail(entry):
 TRAILING_HASHTAGS = re.compile(r"(?:[\s,]*#\w+)+[\s,]*$")
 HASHTAG = re.compile(r"(?<![\w/])#(\w+)")
 HASHTAG_LINE = re.compile(r"^(?:#\w+[\s,]*)+$")
+UNDERLINE = re.compile(r"^(?:-{3,}|={3,})$")
+BULLET = re.compile(r"^[\u2022*-]\s+(.*)$")
 
 LINKING_WORDS = {
     "on", "in", "at", "by", "for", "with", "from", "to", "of", "and", "via",
@@ -193,7 +195,10 @@ def description_to_markdown(description):
     """
     Turns a plain-text YouTube description into Markdown: paragraphs kept,
     single line breaks kept as hard breaks, bare URLs made into links and
-    leading hashtags escaped so they don't become headings.
+    leading hashtags escaped so they don't become headings. A line
+    underlined with dashes or equals signs stays a heading, without the
+    trailing colon markdownlint rejects (MD026), and "•", "-" or "*"
+    bullets become a Markdown list.
     """
     if not description or not description.strip():
         return ""
@@ -206,11 +211,26 @@ def description_to_markdown(description):
             line = line.strip()
             if not line or HASHTAG_LINE.match(line):
                 continue
-            if line.startswith('#'):
+            if UNDERLINE.match(line) and lines:
+                # the previous line is a heading: no trailing punctuation
+                lines[-1] = (lines[-1][0], lines[-1][1].rstrip(".,;:!?"))
+                lines.append(("rule", line))
+                continue
+            bullet = BULLET.match(line)
+            if bullet:
+                line = "- " + bullet.group(1)
+            elif line.startswith('#'):
                 line = '\\' + line
-            lines.append(URL_PATTERN.sub(r"<\1>", line))
+            kind = "item" if bullet else "text"
+            lines.append((kind, URL_PATTERN.sub(r"<\1>", line)))
         if lines:
-            paragraphs.append("  \n".join(lines))
+            out = lines[0][1]
+            for (prev, _), (kind, line) in zip(lines, lines[1:]):
+                # list items and heading rules go on their own line; plain
+                # lines in a paragraph keep their hard break
+                plain = prev == "text" and kind == "text"
+                out += ("  \n" if plain else "\n") + line
+            paragraphs.append(out)
     return "\n\n".join(paragraphs)
 
 

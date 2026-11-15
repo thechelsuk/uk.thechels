@@ -193,6 +193,21 @@ class TestCleanTitle:
 
 class TestDescriptionHashtags:
 
+    def test_underlined_headings_lose_trailing_punctuation(self):
+        # YouTube descriptions underline headings with dashes, which
+        # Markdown reads as headings: markdownlint's MD026 fails a heading
+        # ending in a colon, and that skips the site's deploy.
+        md = fetch_videos.description_to_markdown(
+            "Intro.\n\nWhat happens:\n-------------\n\nMore.")
+        assert md == "Intro.\n\nWhat happens\n-------------\n\nMore."
+
+    def test_bullets_become_a_list(self):
+        md = fetch_videos.description_to_markdown(
+            "\u2022 One.\n\u2022 Two, with a link https://example.com\n* Three"
+        )
+        assert md == ("- One.\n- Two, with a link <https://example.com>\n"
+                      "- Three")
+
     def test_hashtag_only_lines_are_dropped(self):
         md = fetch_videos.description_to_markdown(
             "Out now\n\n#fractions #worksheets #Shorts")
