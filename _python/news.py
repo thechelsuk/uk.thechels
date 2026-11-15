@@ -8,8 +8,7 @@ FEEDS = [("https://www.ft.com/?format=rss", "FT"),
          ("https://www.theregister.com/headlines.atom", "Register"),
          ("https://weaintgotnohistory.sbnation.com/rss/current.xml", "WAGNH"),
          ("http://developer.apple.com/news/rss/news.rss", "Apple"),
-         ("https://thechelsuk.github.io/cfc_news_as_atom_feed/feed.xml", "CFC")
-         ]
+         ("https://cfcnews.thechels.uk/feed.xml", "CFC")]
 
 TIME_DELTA_DAYS = 1
 
