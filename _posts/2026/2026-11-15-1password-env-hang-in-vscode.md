@@ -9,7 +9,6 @@ type: blog
 syndicate:
     - mastodon
     - bluesky
-    - indie
     - rss
     - devnull
 
