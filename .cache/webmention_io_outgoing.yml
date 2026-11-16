@@ -14779,3 +14779,6 @@ https://thechels.uk/template-app-marketing-site-for-github-pages-release-7b4ab31
 https://thechels.uk/template-jekyll-site-for-github-pages-release-531204703c25:
   https://github.com/thechelsuk/template-jekyll-site/commit/bb68d78bb2d9035810cca769b654e1e57047818a: false
   https://github.com/thechelsuk/template-jekyll-site/commit/be7f8ea0d541186223720786a8c096bca2c5e31f: false
+https://thechels.uk/1password-env-hang-in-vscode:
+  https://www.1password.dev/environments/local-env-file: false
+  https://code.visualstudio.com/docs/python/environments: false

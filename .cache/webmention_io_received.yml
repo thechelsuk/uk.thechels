@@ -6214,3 +6214,39 @@
 "/2026-11-15-daily-rundown": {}
 "/template-app-marketing-site-for-github-pages-release-7b4ab31d6711": {}
 "/template-jekyll-site-for-github-pages-release-531204703c25": {}
+"/1password-env-hang-in-vscode":
+  '2051411':
+    id: '2051411'
+    uri: https://nuchronic.uk/item/why-a-1password-env-mount-made-vs-code-hang-ab7247d2b6/
+    source: false
+    pubdate: 2026-11-15 23:00:00.000000000 +00:00
+    raw:
+      source: https://nuchronic.uk/item/why-a-1password-env-mount-made-vs-code-hang-ab7247d2b6/
+      verified: true
+      verified_date: '2026-11-16T01:46:08+00:00'
+      id: 2051411
+      private: false
+      data:
+        author: &99
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://nuchronic.uk/assets/icons/apple-touch-icon.png
+        url: https://nuchronic.uk/item/why-a-1password-env-mount-made-vs-code-hang-ab7247d2b6/
+        name: Why a 1Password `.env` Mount Made VS Code Hang
+        content: "<p>I use 1Password Environments to provide project secrets through
+          a locally mounted .env file. In one repository, enabling the mount made
+          VS Code’s Copilot Cha…</p>\n\n        \n        <p>Continue reading at <a
+          href=\"https://thechels.uk/1password-env-hang-in-vscode\">thechels.uk</a>.</p>"
+        published: '2026-11-15T23:00:00+00:00'
+        published_ts: 1794783600
+      activity:
+        type: link
+      rels:
+        canonical: https://thechels.uk/1password-env-hang-in-vscode
+      target: https://thechels.uk/1password-env-hang-in-vscode
+    author: *99
+    type: link
+    title: Why a 1Password `.env` Mount Made VS Code Hang
+    content: "<p>I use 1Password Environments to provide project secrets through a
+      locally mounted .env file. In one repository, enabling the mount made VS Code’s
+      Copilot Cha…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/1password-env-hang-in-vscode\">thechels.uk</a>.</p>"
