@@ -62,3 +62,5 @@
   url: https://github.com/thechelsuk/uk.thechels.engman/releases.atom
 - id: Mltply @ thechelsuk - iOS app marketing site
   url: https://github.com/thechelsuk/uk.thechels.mltply/releases.atom
+- id: OPMLMan
+  url: https://github.com/thechelsuk/uk.thechels.opmlman/releases.atom
