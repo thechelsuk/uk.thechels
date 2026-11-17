@@ -11,7 +11,7 @@ last_modified_at: "2026-10-22"
 
 ## Overview
 
-thechelsuk and Hiyd ("we," "our," or "us") are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our any of our apps, software, programs, and extensions. We have one policy as everything is built with privacy in mind. Where an app needs to connect to other services to work, its own section below says exactly what is sent and where.
+thechelsuk and Hiyd ("we," "our," or "us") are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use any of our apps, software, programs, and extensions. We have one policy as everything is built with privacy in mind. Where an app needs to connect to other services to work, its own section below says exactly what is sent and where.
 
 ## Information We Collect
 
