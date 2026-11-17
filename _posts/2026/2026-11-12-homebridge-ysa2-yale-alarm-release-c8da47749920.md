@@ -3,8 +3,9 @@ layout: post
 date: 2026-11-12 23:34
 title: Homebridge (YSA2) Yale Alarm Version v2.5.5
 seo_title: Homebridge (YSA2) Yale Alarm Version v2.5.5 Release Notes
-seo_description: 'Release notes for Homebridge (YSA2) Yale Alarm version v2.5.5: The
-  Settings screen''s required fields (name, Yale username, Yale password and refresh...'
+seo_description:
+  "Release notes for Homebridge (YSA2) Yale Alarm version v2.5.5: The
+  Settings screen's required fields (name, Yale username, Yale password and refresh..."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/homebridge-ysa2/releases/tag/v2.5.5

@@ -3,8 +3,9 @@ layout: post
 date: 2026-11-15 18:51
 title: Template - Jekyll site for GitHub Pages Version 1.0.0
 seo_title: Template - Jekyll site for GitHub Pages Version 1.0.0
-seo_description: 'Release notes for Template - Jekyll site for GitHub Pages version
-  1.0.0: release: first release (bb68d78); feat: template for a new Jekyll site (be7f8ea).'
+seo_description:
+  "Release notes for Template - Jekyll site for GitHub Pages version
+  1.0.0: release: first release (bb68d78); feat: template for a new Jekyll site (be7f8ea)."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/template-jekyll-site/releases/tag/1.0.0

@@ -7,11 +7,10 @@ seo_description: "How a Python extension's default .env lookup clashed with a 1P
 date: 2026-11-15 23:00
 type: blog
 syndicate:
-    - mastodon
-    - bluesky
-    - rss
-    - devnull
-
+  - mastodon
+  - bluesky
+  - rss
+  - devnull
 ---
 
 I use 1Password Environments to provide project secrets through a locally mounted `.env`

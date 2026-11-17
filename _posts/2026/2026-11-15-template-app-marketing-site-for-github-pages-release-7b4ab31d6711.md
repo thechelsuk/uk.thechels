@@ -3,9 +3,10 @@ layout: post
 date: 2026-11-15 18:51
 title: Template - app marketing site for GitHub Pages Version 1.0.0
 seo_title: Template - app marketing site for GitHub Pages Version 1.0.0
-seo_description: 'Release notes for Template - app marketing site for GitHub Pages
+seo_description:
+  "Release notes for Template - app marketing site for GitHub Pages
   version 1.0.0: release: first release (0ea22ca); feat: template for a new static
-  app...'
+  app..."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/template-marketing-site/releases/tag/1.0.0

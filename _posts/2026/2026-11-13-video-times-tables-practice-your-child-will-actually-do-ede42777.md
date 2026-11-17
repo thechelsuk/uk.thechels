@@ -10,6 +10,7 @@ video_id: "JBsoee-xy_U"
 short: true
 image: "https://i3.ytimg.com/vi/JBsoee-xy_U/hqdefault.jpg"
 ---
+
 Mltply is a free maths app where kids answer Buddy the robot in a chat. No ads, no sign-up. mltply.thechels.uk
 
 [Watch on YouTube](https://www.youtube.com/shorts/JBsoee-xy_U)

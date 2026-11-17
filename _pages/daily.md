@@ -13,6 +13,7 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Tuesday, 17 November 2026
 
 - The average temperature today is 11.44˚C,
@@ -27,6 +28,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 201 days since the last change (2026-04-30)
 
@@ -35,6 +37,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Recycling Waste Collection Day
 - Food Waste Collection Day
 
@@ -43,34 +46,41 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Set exceptional standards.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Luton Town v Peterborough United
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 134.83999633789062 
-- ^FTSE : 10755.4296875 
-- ^FTMC : 24455.419921875 
+- VWRL.L : 134.83999633789062
+- ^FTSE : 10755.4296875
+- ^FTMC : 24455.419921875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > A former girlfriend, who was a pyromaniac, tried to reignite our relationship. She was an old flame, but I was able to blow her off.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Robots and river breezes: how China is greening its cities (Euronews, [19 minutes ago](https://www.euronews.com/2026/11/17/robots-and-river-breezes-how-china-is-greening-its-cities))
 - Uzbekistan’s mountain lakes and trails draw visitors in every season (Euronews, [19 minutes ago](https://www.euronews.com/2026/11/17/uzbekistans-mountain-lakes-and-trails-draw-visitors-in-every-season))
 - Optimizely hack turns world's biggest websites into malware dispensers (Register, [19 minutes ago](https://www.theregister.com/cyber-crime/2026/11/17/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers/5310448))
@@ -118,7 +128,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > Wardour Street English - noun: Affectedly archaic language.
+> Wardour Street English - noun: Affectedly archaic language.
 
 <!-- word_marker ends -->
 
@@ -133,6 +143,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Imagine the music as a moving chain or caterpillar
 
 <!-- eno_marker ends -->
@@ -140,9 +151,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Dont Look Up (Rated: 7)
 - Released in 2009
 - Summary: N/A
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -163,9 +176,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Data Goddess [URL](https://sparklineadvisory.com/) [Feed](http://thedatagoddess.com/feed/)
 - Michael Julius [URL](https://mjulius.com/) [Feed](https://mjulius.com/feed/)
 - ollicle.com [URL](https://ollicle.com/) [Feed](https://ollicle.com/feed.xml)
 - Ploeh.DJ [URL](https://blog.ploeh.dk/) [Feed](https://blog.ploeh.dk/rss.xml)
 - Dan Q [URL](https://danq.me/) [Feed](https://danq.me/feed/)
+
 <!-- blogroll_marker ends -->
