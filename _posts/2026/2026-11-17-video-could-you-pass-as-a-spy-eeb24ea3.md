@@ -10,6 +10,7 @@ video_id: "qTTARw7i4d8"
 short: true
 image: "https://i2.ytimg.com/vi/qTTARw7i4d8/hqdefault.jpg"
 ---
+
 Daily field training in Unsettled: crack the cipher, reach the drop, don't be seen. Chapters one and two are free. unsettled.thechels.uk
 
 [Watch on YouTube](https://www.youtube.com/shorts/qTTARw7i4d8)
