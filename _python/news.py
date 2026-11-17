@@ -1,5 +1,6 @@
 import feedparser
 import pathlib
+import re
 import helper
 
 # Step 1: Define feeds with labels
@@ -11,6 +12,17 @@ FEEDS = [("https://www.ft.com/?format=rss", "FT"),
          ("https://cfcnews.thechels.uk/feed.xml", "CFC")]
 
 TIME_DELTA_DAYS = 1
+
+# A bare URL in a headline fails markdownlint (MD034), so it's wrapped in <>.
+BARE_URL = re.compile(r"(?<![<(])(https?://[^\s<>]*[^\s<>.,;:!?)\]])")
+
+
+def news_line(item):
+    """One headline as a Markdown list item: title, source and age linked."""
+    title = BARE_URL.sub(r"<\1>", item['title'].replace('|', ''))
+    icon = item.get("icon", "")
+    return f"- {title} ({icon}, [{item['published']}]({item['link']}))\n"
+
 
 if __name__ == "__main__":
     try:
@@ -37,11 +49,7 @@ if __name__ == "__main__":
             if helper.datetime(*item["published_parsed"][:6]) > cutoff_date
         ]
 
-        string = ""
-        for item in all_items:
-            title = item['title'].replace('|', '')
-            icon = item.get("icon", "")
-            string += f"- {title} ({icon}, [{item['published']}]({item['link']}))\n"
+        string = "".join(news_line(item) for item in all_items)
 
         f = root / "_pages/daily.md"
         m = f.open().read()
