@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-11-17
+date: 2026-11-18
 last_modified_at: "2026-10-16"
 ---
 
@@ -13,114 +13,105 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+## On Wednesday, 18 November 2026
 
-## On Tuesday, 17 November 2026
-
-- The average temperature today is 11.44˚C,
-- With highs of 12.07˚C and lows of 10.94˚C,
-- It may feel like 10.75˚C with few clouds
-- The wind speed is 6.69m/s and visibility is 10000m
-- The pressure is 979hPa and humidity is 81%
-- The sun will rise at 07:31 and set at 16:15
+- The average temperature today is 12.21˚C,
+- With highs of 12.67˚C and lows of 10.87˚C,
+- It may feel like 11.71˚C with scattered clouds
+- The wind speed is 4.63m/s and visibility is 9000m
+- The pressure is 986hPa and humidity is 85%
+- The sun will rise at 07:32 and set at 16:14
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 
 <!-- threat_marker starts -->
-
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 201 days since the last change (2026-04-30)
+- It has been 202 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-
-- Recycling Waste Collection Day
-- Food Waste Collection Day
-
+- No tasks today
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-
-> Set exceptional standards.
-
+> Commit to the direction.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-
-- Luton Town v Peterborough United
-
+- Hacken Women v Manchester City Women
+- London City Lionesses v Brighton & Hove Albion Women
+- Manchester United Women v Everton Women
+- Chelsea Women v PSG Women
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 134.83999633789062
-- ^FTSE : 10755.4296875
-- ^FTMC : 24455.419921875
+- VWRL.L : 134.11000061035156 
+- ^FTSE : 10639.099609375 
+- ^FTMC : 24393.01953125 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-
-> A former girlfriend, who was a pyromaniac, tried to reignite our relationship. She was an old flame, but I was able to blow her off.
-
+> At school, during the creative classes, I was only good at drawing night time scenes featuring lots of curtains, blinds, and shadows, my tutor said I had really mastered the dark arts.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-
-- Robots and river breezes: how China is greening its cities (Euronews, [19 minutes ago](https://www.euronews.com/2026/11/17/robots-and-river-breezes-how-china-is-greening-its-cities))
-- Uzbekistan’s mountain lakes and trails draw visitors in every season (Euronews, [19 minutes ago](https://www.euronews.com/2026/11/17/uzbekistans-mountain-lakes-and-trails-draw-visitors-in-every-season))
-- Optimizely hack turns world's biggest websites into malware dispensers (Register, [19 minutes ago](https://www.theregister.com/cyber-crime/2026/11/17/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers/5310448))
-- Deutsche Bank shares fall as leak reveals Trump tax document error (Euronews, [46 minutes ago](https://www.euronews.com/2026/11/17/deutsche-bank-shares-fall-as-leak-reveals-trump-tax-document-error))
-- 'Not rocket surgery' claims researcher who found six Danfoss fridge controller zero-days in under an hour (Register, [47 minutes ago](https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197))
-- High tobacco use among European women and girls is ‘worrying,’ WHO warns (Euronews, [49 minutes ago](https://www.euronews.com/2026/11/17/high-tobacco-use-among-european-women-and-girls-is-worrying-who-warns))
-- EU's 2040 climate target at risk as bloc waters down carbon market reform (Euronews, [51 minutes ago](https://www.euronews.com/2026/11/17/eus-2040-climate-target-at-risk-as-bloc-waters-down-carbon-market-reform))
-- Fresh public sector strike in France under way over pay as government struggles to pass budget (Euronews, [52 minutes ago](https://www.euronews.com/2026/11/17/fresh-public-sector-strike-in-france-under-way-over-pay-as-government-struggles-to-pass-bu))
-- French troops deployed on secret mission in Ukraine for months, media says (Euronews, [1 hours ago](https://www.euronews.com/2026/11/17/french-troops-deployed-on-secret-mission-in-ukraine-for-months-media-says))
-- US dollar rally erases ‘liberation day’ losses as rate expectations rise (FT, [1 hours ago](https://www.ft.com/content/b8215e9c-bed2-49e8-a36f-6d7aca599bba?syn-25a6b1a6=1))
-- Drivers battle blizzard conditions in England’s Yorkshire Dales (Euronews, [1 hours ago](https://www.euronews.com/video/2026/11/17/drivers-battle-blizzard-conditions-in-englands-yorkshire-dales))
-- AI toys are on the naughty list again this year (Register, [1 hours ago](https://www.theregister.com/offbeat/2026/11/17/ai-toys-are-on-the-naughty-list-again-this-year/5310261))
-- Finland’s satellite provider Iceye bids €2 billion for Italian rocket maker Avio (Euronews, [1 hours ago](https://www.euronews.com/2026/11/17/finlands-satellite-provider-iceye-bids-2-billion-for-italian-rocket-maker-avio))
-- Qatar warns Gulf escalation poses 'grave danger' and announces new talks with Iran (Euronews, [1 hours ago](https://www.euronews.com/2026/11/17/qatar-warns-gulf-escalation-poses-grave-danger-and-announces-new-talks-with-iran))
-- REIT move? Blackstone joint venture buys AWS campuses to lease back to the cloud giant (Register, [1 hours ago](https://www.theregister.com/on-prem/2026/11/17/reit-move-blackstone-joint-venture-buys-aws-campuses-to-lease-back-to-the-cloud-giant/5310355))
-- A misty outlook for rates (FT, [1 hours ago](https://www.ft.com/content/c53ae58c-64b9-4d90-8a0b-d338e80f4614?syn-25a6b1a6=1))
-- AI grapples with the return of the ‘Antichrist’ (FT, [1 hours ago](https://www.ft.com/content/551f078e-4cd5-4302-8143-96b8ed5c9eeb?syn-25a6b1a6=1))
-- Opinion pollster Ipsos 'fesses up to 'cybersecurity incident' (Register, [2 hours ago](https://www.theregister.com/security/2026/11/17/opinion-pollster-ipsos-fesses-up-to-cybersecurity-incident/5310405))
-- Up to 99% of UK civil servants rely on Microsoft for comms, minister admits (Register, [3 hours ago](https://www.theregister.com/software/2026/11/17/up-to-99-of-uk-civil-servants-rely-on-microsoft-for-comms-minister-admits/5310385))
-- Squad debutant among six Blues called up by England Women (CFC, [3 hours ago](https://www.chelseafc.com/en/news/article/squad-debutant-among-six-blues-called-up-by-england-women))
-- MPs ask what the break clause was for as Palantir wins two more years in the NHS (Register, [4 hours ago](https://www.theregister.com/public-sector/2026/11/17/mps-ask-what-the-break-clause-was-for-as-palantir-wins-two-more-years-in-the-nhs/5310348))
-- PostgreSQL patches 52 security holes, sends version 14 into retirement (Register, [4 hours ago](https://www.theregister.com/databases/2026/11/17/postgresql-patches-52-security-holes-sends-version-14-into-retirement/5310108))
-- Ukraine destroys section of Crimea bridge in fierce exchange (FT, [5 hours ago](https://www.ft.com/content/eb8031c0-a96a-4408-b762-b92ff0402f82?syn-25a6b1a6=1))
-- The future of datacenters depends on behind-the-meter energy generation (Register, [5 hours ago](https://www.theregister.com/ai-and-ml/2026/11/17/partner-content-the-future-of-datacenters-depends-on-behind-the-meter-energy-generation/5307526))
-- Premier League ticket news: Loyalty point update for season ticket holders - Manchester City away (CFC, [5 hours ago](https://www.chelseafc.com/en/news/article/premier-league-ticket-news-manchester-city-away-2026-27))
-- The Daily Hilario: Tuesday (WAGNH, [6 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/174073/the-daily-hilario-november-17th))
-- Does João Félix have a ‘secret clause’ to return to Chelsea next summer? (WAGNH, [6 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-transfer-rumours-news/174076/does-joao-felix-have-a-secret-clause-to-return-to-chelsea-next-summer))
-- Leak of 15mn Deutsche Bank files exposes systemic failures (FT, [6 hours ago](https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1))
-- ‘Katastrophe’: inside the chaos at Germany’s biggest bank (FT, [8 hours ago](https://www.ft.com/content/4f8dae68-bfec-43bd-bef6-b830815ec538?syn-25a6b1a6=1))
-- Epstein’s dealings with Deutsche were far larger than previously known (FT, [8 hours ago](https://www.ft.com/content/72ac6fee-55f3-4db5-a1e3-873ef39c0b96?syn-25a6b1a6=1))
-- An ‘awful mistake’ that leaked Trump’s tax statements (FT, [8 hours ago](https://www.ft.com/content/784cbdc7-c852-4081-b1e5-390779e9fad1?syn-25a6b1a6=1))
-- Japan's Fugaku supercomputer has decidedly un-super security (Register, [8 hours ago](https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333))
-- ‘There was a lot of gaslighting’: Why America’s podcast stars ditched Trump (FT, [9 hours ago](https://www.ft.com/content/676d1291-3007-4a32-9332-abf803d0f581?syn-25a6b1a6=1))
-- Finland urges European leaders to talk to Putin directly (FT, [9 hours ago](https://www.ft.com/content/671d7a7d-c06f-4947-a0ac-72c41e262cca?syn-25a6b1a6=1))
-- Internationals: Jashayde Greenwood nets for England Under-18s (CFC, [14 hours ago](https://www.chelseafc.com/en/news/article/internationals-jashayde-greenwood-nets-for-england-under-18s))
-- Top 10 Christmas gifts for any Chelsea fan (CFC, [21 hours ago](https://www.chelseafc.com/en/news/article/top-10-christmas-gifts-for-any-chelsea-fan))
-- Get your Chelsea fix with CFC+ (CFC, [21 hours ago](https://www.chelseafc.com/en/news/article/get-your-chelsea-fix-with-cfc))
-- Updates to Device Control and Data Access, and Full Disk Access in macOS (Apple, [22 hours ago](https://developer.apple.com/news/?id=oqng0zjk))
-- Vote for your favourite late Stamford Bridge winner: Estevao or Palmer? (CFC, [23 hours ago](https://www.chelseafc.com/en/news/article/vote-for-your-favourite-late-stamford-bridge-winner-estevao-or-palmer-web))
-- Cole Palmer: My Football Firsts (CFC, [23 hours ago](https://www.chelseafc.com/en/news/article/cole-palmer-my-football-firsts))
+- Iraq pumps oil to Turkey again after 12 years to bypass Hormuz disruption (Euronews, [1 minutes ago](https://www.euronews.com/2026/11/18/iraq-pumps-oil-to-turkey-again-after-12-years-to-bypass-hormuz-disruption))
+- Hungarian ethno-punk bands join forces for Brussels dance-floor show (Euronews, [5 minutes ago](https://www.euronews.com/2026/11/18/hungarian-ethno-punk-bands-join-forces-for-brussels-dance-floor-show))
+- Consumer screening tests make baseless health claims, UK study finds (Euronews, [18 minutes ago](https://www.euronews.com/2026/11/18/consumer-screening-tests-make-baseless-health-claims-uk-study-finds))
+- Canada and China expand tariff relief on pork, seafood and metals amid US trade tensions (Euronews, [29 minutes ago](https://www.euronews.com/2026/11/18/canada-and-china-expand-tariff-relief-on-pork-seafood-and-metals-amid-us-trade-tensions))
+- Wall Street set to open higher after Nvidia results reassure investors (FT, [37 minutes ago](https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1))
+- Windows Server 2028 won't be compatible by default (Register, [38 minutes ago](https://www.theregister.com/os-platforms/2026/11/18/windows-server-2028-wont-be-compatible-by-default/5310766))
+- Trump and Putin shake hands in first encounter since 2025 (Euronews, [41 minutes ago](https://www.euronews.com/video/2026/11/18/trump-and-putin-shake-hands-in-first-encounter-since-2025))
+- Opening a small business takes 18 times as long in Germany as in France, study finds (Euronews, [42 minutes ago](https://www.euronews.com/2026/11/18/opening-a-small-business-takes-18-times-as-long-in-germany-as-in-france-study-finds))
+- Xi greets Trump with hug ahead of historic summit with Putin (FT, [44 minutes ago](https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1))
+- Estado Novo interpretive centre opens in Salazar's birthplace in Santa Comba Dão (Euronews, [49 minutes ago](https://www.euronews.com/2026/11/18/estado-novo-interpretive-centre-opens-in-salazars-birthplace-in-santa-comba-dao))
+- The only way out of populism is through it (FT, [50 minutes ago](https://www.ft.com/content/e71273dd-2748-4396-bb62-e75307105596?syn-25a6b1a6=1))
+- Fossil fuel exit becomes COP31 flashpoint – but four more European countries are taking the leap (Euronews, [52 minutes ago](https://www.euronews.com/2026/11/18/cop31-is-once-again-shying-away-from-a-fossil-fuel-exit-but-one-european-country-is-taking))
+- From the steppe to the global stage: Mongolia’s COP17 legacy (Euronews, [53 minutes ago](https://www.euronews.com/2026/11/18/from-the-steppe-to-the-global-stage-mongolias-cop17-legacy))
+- Europe cannot 'sleep through the AI revolution': Tech leaders urge EU to take action (Euronews, [1 hours ago](https://www.euronews.com/2026/11/18/europe-cannot-sleep-through-the-ai-revolution-tech-leaders-urge-eu-to-take-action))
+- US tech outages blamed on rush to fix bugs found by AI (FT, [1 hours ago](https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1))
+- Police arrest 15 over £1.5M 'we'll recover your losses' scam targeting elderly (Register, [1 hours ago](https://www.theregister.com/cyber-crime/2026/11/18/police-arrest-15-over-15m-well-recover-your-losses-scam-targeting-elderly/5310745))
+- ULA says Vulcan lacked the oomph to get Amazon satellites to orbit (Register, [2 hours ago](https://www.theregister.com/science/2026/11/18/ula-says-vulcan-lacked-the-oomph-to-get-amazon-satellites-to-orbit/5310712))
+- UK.gov JV gets £178M Home Office hosting deal. Without competition (Register, [2 hours ago](https://www.theregister.com/public-sector/2026/11/18/ukgov-jv-gets-178m-home-office-hosting-deal-without-competition/5310433))
+- SAP opens AI to on-prem customers, but cloud commitments could shut smaller firms out (Register, [3 hours ago](https://www.theregister.com/applications/2026/11/18/sap-opens-ai-to-on-prem-customers-but-cloud-commitments-could-shut-smaller-firms-out/5310056))
+- Chelsea FCW vs. Paris Saint-Germain Féminine, Women&#8217;s Champions League: Preview, team news, how to watch (WAGNH, [3 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/174110/chelsea-fcw-vs-paris-saint-germain-feminine-womens-champions-league-preview-team-news-how-to-watch))
+- Internationals: Martinez returns and Anselmino debuts in huge Argentina win (CFC, [3 hours ago](https://www.chelseafc.com/en/news/article/internationals-martinez-returns-and-anselmino-debuts-in-huge-argentina-win))
+- Democrats probe whether Lutnick helped Cantor avoid Nvidia losses (FT, [4 hours ago](https://www.ft.com/content/71e39ecd-03ef-4078-a34e-34ea6b45f674?syn-25a6b1a6=1))
+- UK MPs want AI watchdog with power to pull the plug on dangerous models (Register, [4 hours ago](https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567))
+- AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB (FT, [4 hours ago](https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9?syn-25a6b1a6=1))
+- Juan Mata retires: Forward's lifelong bonds to Chelsea and London (CFC, [5 hours ago](https://www.chelseafc.com/en/news/article/from-the-archive-juan-matas-lifelong-bonds-to-chelsea-and-london))
+- Time for frustrated M365 customers to stage a 'distributed denial of satisfaction' action (Register, [5 hours ago](https://www.theregister.com/off-prem/2026/11/18/time-for-frustrated-m365-customers-to-stage-a-distributed-denial-of-satisfaction-action/5310343))
+- The Daily Hilario: Wednesday (WAGNH, [5 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/174088/the-daily-hilario-november-18th))
+- SoftBank regrets ‘mistake’ of not backing Anthropic, says Son (FT, [5 hours ago](https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0?syn-25a6b1a6=1))
+- A Chinese bottle-cap manufacturer brilliantly deflated AI hype (Register, [7 hours ago](https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651))
+- Estêvão dazzles; Pedro Neto scores and sees red; and three make their debuts (WAGNH, [7 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/174093/estevao-dazzles-pedro-neto-scores-and-sees-red-and-three-make-their-debuts))
+- Temu's compliance regime is low-quality, fits badly, and full of holes, says Europe (Register, [7 hours ago](https://www.theregister.com/legal/2026/11/18/temus-compliance-regime-is-low-quality-fits-badly-and-full-of-holes-says-europe/5310684))
+- Donation points for That's Proper Chels campaign to continue at Saturday’s match (CFC, [7 hours ago](https://www.chelseafc.com/en/news/article/donation-points-for-thats-proper-chels-campaign-to-commence))
+- Low-profile VCs set for $100bn windfall from Anthropic IPO (FT, [8 hours ago](https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1))
+- Wall Street expects corporate earnings growth to halve next year (FT, [8 hours ago](https://www.ft.com/content/74fdac03-bd9b-4e68-9e6e-dc023eb47be9?syn-25a6b1a6=1))
+- AI asked ‘better questions’ than KPMG accountants in pilot audit (FT, [8 hours ago](https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05?syn-25a6b1a6=1))
+- Oracle reveals fix-this-ASAP-grade Java4Shell bug that allows attacks on many third-party apps (Register, [9 hours ago](https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661))
+- Tax and price updates for apps, In-App Purchases, and subscriptions (Apple, [13 hours ago](https://developer.apple.com/news/?id=4o5ie73a))
+- Juan Mata retires: Free-kick vs Man Utd (CFC, [13 hours ago](https://www.chelseafc.com/en/video/juan-mata-retires))
+- Internationals: Neto scores as Quenda and Antwi make debuts (CFC, [15 hours ago](https://www.chelseafc.com/en/news/article/internationals-neto-scores-as-quenda-and-antwi-make-debuts))
+- Key talking points from Bompastor and Cuthbert's pre-Paris Saint-Germain press conference (CFC, [20 hours ago](https://www.chelseafc.com/en/news/article/key-talking-points-from-bompastor-and-cuthberts-pre-paris-saint-germain))
 
 <!-- news_marker ends -->
 
@@ -128,7 +119,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
-> Wardour Street English - noun: Affectedly archaic language.
+ > greek - verb tr.: 1. To fill (a layout) with placeholder text, symbols, or lines. 2. To hide or alter brand names or logos on products used in film or television.
 
 <!-- word_marker ends -->
 
@@ -136,38 +127,38 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> Whether you think that you can, or that you cannot, you are usually right. - Henry Ford
+> Agile is a philosophy, not a methodology. - Paul Bennett
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-
-> Imagine the music as a moving chain or caterpillar
+> Lowest common denominator check
+-single beat
+-single note
+-single
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-
-- Dont Look Up (Rated: 7)
-- Released in 2009
-- Summary: N/A
-
+- Bound (Rated: 5)
+- Released in 1996
+- Summary: Tough ex-con Corky and her lover Violet concoct a scheme to steal millions of stashed mob money and pin the blame on Violet's crooked boyfriend Caesar.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 839, using [3, 7, 10, 50, 75, 100]
-- Answer: 1 solutions.
+- Target: 810, using [1, 6, 25, 50, 75, 100]
+- Answer: 3 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( ( 75 - 50 ) x 100 + 10 + 7 ) / 3
+  Solution: ( 100 / 25 + 50 ) x 75 / ( 6 - 1 )
 
    </details>
 
@@ -176,11 +167,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-
+- Victor Wynne [URL](https://victorwynne.com/) [Feed](https://victorwynne.com/feed.xml)
+- Karl Hughes [URL](https://www.karllhughes.com/) [Feed](https://www.karllhughes.com/feed.xml)
+- Krebs on Security [URL](https://krebsonsecurity.com/) [Feed](http://krebsonsecurity.com/feed/)
 - Data Goddess [URL](https://sparklineadvisory.com/) [Feed](http://thedatagoddess.com/feed/)
-- Michael Julius [URL](https://mjulius.com/) [Feed](https://mjulius.com/feed/)
-- ollicle.com [URL](https://ollicle.com/) [Feed](https://ollicle.com/feed.xml)
-- Ploeh.DJ [URL](https://blog.ploeh.dk/) [Feed](https://blog.ploeh.dk/rss.xml)
-- Dan Q [URL](https://danq.me/) [Feed](https://danq.me/feed/)
-
+- Dan North [URL](https://dannorth.net/) [Feed](http://DanNorth.net/index.xml)
 <!-- blogroll_marker ends -->
