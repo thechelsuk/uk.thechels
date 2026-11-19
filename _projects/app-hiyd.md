@@ -26,7 +26,6 @@ app_currency: "GBP"
 
 Hiyd is a lightweight companion for those running a Jekyll-powered site, similar markdown-led static-site generation, or document stores from your phone. Capture ideas, draft posts, and export clean front-matter without opening a laptop.
 
-
 ## Highlights
 
 - Compose and edit Jekyll-ready Markdown, complete with front matter, and iCloud sync.

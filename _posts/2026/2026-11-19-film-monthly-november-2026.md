@@ -1,5 +1,4 @@
 ---
-
 layout: post
 date: 2026-11-19 13:18
 title: Film Club Friday for November-2026
@@ -9,7 +8,6 @@ syndicate:
   - mastodon
   - bluesky
 type: film
-
 ---
 
 It has been a while since the last film club post, so here is a quick round-up of the films I watched in November 2026, with my ratings out of ten:

@@ -3,9 +3,10 @@ layout: post
 date: 2026-11-17 21:28
 title: Opiuml Version v202701.9
 seo_title: Opiuml Version v202701.9 Release Notes
-seo_description: 'Release notes for Opiuml version v202701.9: Find new podcasts, and
-  see a show before you subscribe; Find podcasts now shows Apple''s top charts for
-  your...'
+seo_description:
+  "Release notes for Opiuml version v202701.9: Find new podcasts, and
+  see a show before you subscribe; Find podcasts now shows Apple's top charts for
+  your..."
 type: release
 cited: App Store
 link: https://apps.apple.com/gb/app/opiuml-podcast-player/id6823693348

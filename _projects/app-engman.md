@@ -26,7 +26,6 @@ app_currency: "GBP"
 
 EngMan is an iOS app for engineering leaders who want rapid access to coaching prompts, frameworks, and conversation starters. Dip into focused topics whenever you need a nudge ahead of a 1:1 or a tricky stakeholder chat.
 
-
 ## Highlights
 
 - Built with SwiftUI

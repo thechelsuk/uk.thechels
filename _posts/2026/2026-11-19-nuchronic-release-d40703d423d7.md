@@ -3,8 +3,9 @@ layout: post
 date: 2026-11-19 01:44
 title: Nuchronic Version v202701.4
 seo_title: Nuchronic Version v202701.4 Release Notes
-seo_description: 'Release notes for Nuchronic version v202701.4: Duo support and settings
-  update. See what changed in this version. Read more on thechels.uk.'
+seo_description:
+  "Release notes for Nuchronic version v202701.4: Duo support and settings
+  update. See what changed in this version. Read more on thechels.uk."
 type: release
 cited: App Store
 link: https://apps.apple.com/gb/app/nuchronic-energy-symptoms/id6817007686

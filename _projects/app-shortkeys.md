@@ -26,7 +26,6 @@ app_currency: "GBP"
 
 ShortKeys is a productivity app for people who live in text. Build multi-line snippets, drop them behind memorable keyboard shortkeys, and fly through forms, support replies, or daily journaling.
 
-
 ## Highlights
 
 - Custom iOS keyboard brings text expansion to any app with haptics, keyboard sounds, double-space periods, and hold-to-repeat backspace.

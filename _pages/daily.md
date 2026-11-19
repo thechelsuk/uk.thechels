@@ -13,6 +13,7 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Thursday, 19 November 2026
 
 - The average temperature today is 6.48˚C,
@@ -27,6 +28,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 203 days since the last change (2026-04-30)
 
@@ -35,40 +37,49 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Seek the best.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Arsenal Women v Lyon Women
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 134.39999389648438 
-- ^FTSE : 10518.0595703125 
-- ^FTMC : 24288.98046875 
+- VWRL.L : 134.39999389648438
+- ^FTSE : 10518.0595703125
+- ^FTMC : 24288.98046875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Where do they make facts? At the factory.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Plenty of healthy people are low on iron. Here’s why it gets missed (Euronews, [6 minutes ago](https://www.euronews.com/2026/11/19/plenty-of-healthy-people-are-low-on-iron-heres-why-it-gets-missed))
 - FIFA U-17 World Cup opens in Qatar as four European nations make tournament debuts (Euronews, [12 minutes ago](https://www.euronews.com/2026/11/19/fifa-u-17-world-cup-opens-in-qatar-as-four-european-nations-make-their-tournament-debuts))
 - Qualcomm offers test drive of its rack-scale Nvidia AI challenger (Register, [20 minutes ago](https://www.theregister.com/systems/2026/11/19/qualcomm-offers-test-drive-of-its-rack-scale-nvidia-ai-challenger/5310966))
@@ -114,7 +125,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > pedlar's French - noun: 1. Thieves' cant or similar private jargon. 2. Unintelligible language; gibberish.
+> pedlar's French - noun: 1. Thieves' cant or similar private jargon. 2. Unintelligible language; gibberish.
 
 <!-- word_marker ends -->
 
@@ -129,6 +140,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Abandon normal instruments
 
 <!-- eno_marker ends -->
@@ -136,9 +148,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Practical Magic (Rated: 3)
 - Released in 1998
 - Summary: Two witch sisters, raised by their eccentric aunts in a small town, face closed-minded prejudice and a curse which threatens to prevent them ever finding lasting love.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -159,9 +173,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Leading Answers [URL](https://www.leadinganswers.com/) [Feed](http://leadinganswers.typepad.com/leading_answers/atom.xml)
 - Anna Shipman [URL](https://www.annashipman.co.uk/) [Feed](https://www.annashipman.co.uk/atom.xml)
 - Ned Batch [URL](https://nedbatchelder.com/blog) [Feed](https://nedbatchelder.com/blog/rss.xml)
 - The 5k Runner [URL](https://the5krunner.com/) [Feed](http://the5krunner.com/feed/)
 - Peter Suhm [URL](https://petersuhm.com/) [Feed](https://petersuhm.com/feed/feed.xml)
+
 <!-- blogroll_marker ends -->

@@ -22,7 +22,6 @@ coming_soon: true # not on the App Store yet; remove when it launches
 
 OPMLMan opens the OPML file from your feed reader or podcast app, checks every feed, and tells you which are active, which have gone quiet, which have moved and which are gone for good. Then it helps you tidy up and export a clean list.
 
-
 ## Highlights
 
 - Feed health: every feed shows as active, slowing, dormant, moved, not found or failing.

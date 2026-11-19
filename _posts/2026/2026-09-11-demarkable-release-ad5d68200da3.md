@@ -3,8 +3,9 @@ layout: post
 date: 2026-09-11 21:23
 title: Demarkable Version 1.0.0
 seo_title: Demarkable Version 1.0.0 Release Notes
-seo_description: 'Release notes for Demarkable version 1.0.0: First release. See what
-  changed in this version. Read more about all my apps and tools on the projects page.'
+seo_description:
+  "Release notes for Demarkable version 1.0.0: First release. See what
+  changed in this version. Read more about all my apps and tools on the projects page."
 type: release
 cited: Gumroad
 link: https://thechelsuk.gumroad.com/l/dmarc

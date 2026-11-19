@@ -3,9 +3,10 @@ layout: post
 date: 2026-11-08 01:03
 title: OPMLMan Version v202701.1
 seo_title: OPMLMan Version v202701.1 Release Notes
-seo_description: 'Release notes for OPMLMan version v202701.1: First release. See
+seo_description:
+  "Release notes for OPMLMan version v202701.1: First release. See
   what changed in this version. Read more about all my apps and tools on the projects
-  page.'
+  page."
 type: release
 cited: App Store
 link: https://apps.apple.com/app/id6832117624

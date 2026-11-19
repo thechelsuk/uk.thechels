@@ -27,7 +27,6 @@ app_currency: "GBP"
 
 Mltply uses a friendly chat-style interface to make maths practice less intimidating. Short prompts keep the pace up, and repetition cements knowledge while keeping things playful.
 
-
 ## Highlights
 
 - Chat-style interface starring Buddy, a friendly maths robot who keeps practice conversational.

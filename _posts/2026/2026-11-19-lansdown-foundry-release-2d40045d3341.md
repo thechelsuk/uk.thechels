@@ -3,8 +3,9 @@ layout: post
 date: 2026-11-19 03:15
 title: Lansdown Foundry Version v202701.3
 seo_title: Lansdown Foundry Version v202701.3 Release Notes
-seo_description: 'Release notes for Lansdown Foundry version v202701.3: updated settings.
-  See what changed in this version. Read more on thechels.uk.'
+seo_description:
+  "Release notes for Lansdown Foundry version v202701.3: updated settings.
+  See what changed in this version. Read more on thechels.uk."
 type: release
 cited: App Store
 link: https://apps.apple.com/gb/app/lansdown-foundry-make-fonts/id6817508991

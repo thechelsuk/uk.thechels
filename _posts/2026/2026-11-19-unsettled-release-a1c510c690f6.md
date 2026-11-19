@@ -3,8 +3,9 @@ layout: post
 date: 2026-11-19 01:41
 title: Unsettled Version v202701.5
 seo_title: Unsettled Version v202701.5 Release Notes
-seo_description: 'Release notes for Unsettled version v202701.5: settings and Duo
-  support. See what changed in this version. Read more on thechels.uk.'
+seo_description:
+  "Release notes for Unsettled version v202701.5: settings and Duo
+  support. See what changed in this version. Read more on thechels.uk."
 type: release
 cited: App Store
 link: https://apps.apple.com/gb/app/unsettled-impossible-escape/id6819058615

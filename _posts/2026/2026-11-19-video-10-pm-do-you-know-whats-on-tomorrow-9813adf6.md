@@ -10,6 +10,7 @@ video_id: "5saRUW7ug5s"
 short: true
 image: "https://i2.ytimg.com/vi/5saRUW7ug5s/hqdefault.jpg"
 ---
+
 Tomoz shows tomorrow's events and reminders on one screen. No week view, no clutter. Free on the App Store. tomoz.thechels.uk
 
 [Watch on YouTube](https://www.youtube.com/shorts/5saRUW7ug5s)

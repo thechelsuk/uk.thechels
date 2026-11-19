@@ -3,8 +3,9 @@ layout: post
 date: 2026-11-19 01:40
 title: ShortKeys Version v202701.3
 seo_title: ShortKeys Version v202701.3 Release Notes
-seo_description: 'Release notes for ShortKeys version v202701.3: Updated settings
-  view + App Store images for Duo. See what changed in this version.'
+seo_description:
+  "Release notes for ShortKeys version v202701.3: Updated settings
+  view + App Store images for Duo. See what changed in this version."
 type: release
 cited: App Store
 link: https://apps.apple.com/gb/app/shortkeys/id6755919256

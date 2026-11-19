@@ -26,7 +26,6 @@ app_currency: "GBP"
 
 Opiuml is a podcast player built around two lists: an Inbox for everything new, and a Queue for what you actually want to hear. New episodes arrive in the Inbox, or go straight into your Queue to play next or last, and the rest quietly tidies itself away.
 
-
 ## Highlights
 
 - Inbox and Queue: triage new episodes with a swipe to queue next, queue last or archive.
