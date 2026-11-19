@@ -3,7 +3,6 @@ layout: post
 syndicate:
   - mastodon
   - bluesky
-  - rss
   - textlog
   - devnull
 date: 2026-11-19 21:45
