@@ -16,7 +16,7 @@ featured: true
 short_title: "ShortKeys: Multi-line text snippets"
 pitch: "Build multi-line snippets and drop them behind memorable keyboard shortcuts."
 i_image_width: 1200
-i_image_height: 630
+i_image_height: 800
 # From the App Store lookup (itunes.apple.com/lookup), 2026-11-19
 app_os: "iOS, iPadOS"
 app_category: "UtilitiesApplication"

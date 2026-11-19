@@ -16,7 +16,7 @@ featured: true
 short_title: "Nuchronic: Energy & Symptom Tracker"
 pitch: "Track energy and symptoms in seconds and keep a crash plan, for ME/CFS, long COVID and other chronic illness."
 i_image_width: 1200
-i_image_height: 630
+i_image_height: 800
 # From the App Store lookup (itunes.apple.com/lookup), 2026-11-19
 app_os: "iOS, iPadOS"
 app_category: "HealthApplication"

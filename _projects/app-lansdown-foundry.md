@@ -16,7 +16,7 @@ featured: true
 short_title: "Lansdown Foundry: Make Fonts"
 pitch: "Draw your own fonts on iPad and Mac, then export and install them."
 i_image_width: 1200
-i_image_height: 630
+i_image_height: 800
 # From the App Store lookup (itunes.apple.com/lookup), 2026-11-19
 app_os: "iPadOS, macOS"
 app_category: "DesignApplication"

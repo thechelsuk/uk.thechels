@@ -14,7 +14,7 @@ type: mobile
 short_title: "Demarkable: DMARC and SMTP TLS viewer"
 pitch: "Drop in a DMARC or SMTP TLS report and see what passed, what failed, and why."
 i_image_width: 1200
-i_image_height: 630
+i_image_height: 800
 ---
 
 Every domain sending email gets DMARC aggregate reports and SMTP TLS reports back from Google, Microsoft, Yahoo, and every other major mailbox provider — dense XML and JSON files nobody actually enjoys reading. Demarkable turns them into something you can actually understand at a glance.

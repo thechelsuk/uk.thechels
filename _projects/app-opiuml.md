@@ -16,7 +16,7 @@ featured: true
 short_title: "Opiuml: Podcast Player"
 pitch: "A podcast player built around two lists: an Inbox for everything new, and a Queue for what you actually want to hear."
 i_image_width: 1200
-i_image_height: 630
+i_image_height: 800
 # From the App Store lookup (itunes.apple.com/lookup), 2026-11-19
 app_os: "iOS, iPadOS, watchOS"
 app_category: "EntertainmentApplication"

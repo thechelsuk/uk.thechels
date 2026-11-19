@@ -16,7 +16,7 @@ featured: true
 short_title: "OPMLMan: Feeds Manager"
 pitch: "Opens the OPML files from your feed reader or podcast app, checks every feed, and shows which are still alive."
 i_image_width: 1200
-i_image_height: 630
+i_image_height: 800
 coming_soon: true # not on the App Store yet; remove when it launches
 ---
 

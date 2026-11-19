@@ -16,7 +16,7 @@ featured: true
 short_title: "Hiyd: Jekyll companion"
 pitch: "Capture ideas, draft Markdown posts with front matter and export them, all from your phone."
 i_image_width: 1200
-i_image_height: 630
+i_image_height: 800
 # From the App Store lookup (itunes.apple.com/lookup), 2026-11-19
 app_os: "iOS, iPadOS"
 app_category: "DeveloperApplication"
