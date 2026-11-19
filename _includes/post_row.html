@@ -1,10 +1,11 @@
 {%- comment -%}
-  One row in a post list: type icon, title, then date and length in the meta type (DESIGN.md, "Post lists").
+  One row in a post list: type icon, title, then length and date in the meta type. The date comes last so, with
+  the meta right-aligned on wide screens, the dates line up down the list.
     {% include post_row.html item=post kind=post.i_type %}
   `kind` is optional (a bookmark's or archive post's sub-type).
 {%- endcomment -%}
 {%- assign _r = include.item -%}
 <div class="posts" data-type="{{ _r.type }}">
   {% include post_icon.html type=_r.type decorative=true %}<a href="{{ _r.url }}">{{ _r.title }}</a>
-  <span class="meta"><time datetime="{{ _r.date | date_to_xmlschema }}">{{ _r.date | date: "%-d %b %Y" }}</time>{% if include.kind and include.kind != "" %}, {{ include.kind | downcase }}{% endif %}, {{ _r.content | number_of_words }} words</span>
+  <span class="meta">{% if include.kind and include.kind != "" %}{{ include.kind | downcase }}, {% endif %}{{ _r.content | number_of_words }} words, <time datetime="{{ _r.date | date_to_xmlschema }}">{{ _r.date | date: "%-d %b %Y" }}</time></span>
 </div>
