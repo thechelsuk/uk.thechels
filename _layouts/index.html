@@ -1,67 +1,63 @@
 {% include header.html %}
-<h1 class="post-title">{% include post_icon.html type="home" %} {{ page.title }}</h1>
-
-{{ content }}
+<h1 class="post-title page-title--lead">{{ page.title }}</h1>
 
 {% assign rides = site.rides %}
 {% assign posts = site.posts | where_exp: "post", "post.show != false" %}
 {% assign posts = posts | concat: rides %}
 {% assign posts = posts | sort: "date" | reverse %}
 
-<p class="marker"><b>{{ posts | size }}</b> total posts.</p>
+{{ content }}
+
+{% comment %} The count line holds the post-type filter (DESIGN.md, "Homepage post-type filter"). {% endcomment %}
+{% assign filter_types = "linked:Linked,blog:Blog,ride:Rides,daily:Daily,video:Video,release:Releases,mixtape:Mixtapes,micro:Micro,ways:Ways,ticket:Tickets,til:TIL,film:Film,gift:Gifts,mailbox:Mailbox" | split: "," %}
+<div class="page-meta page-meta--home">
+  <p class="page-meta__count" aria-live="polite"><b>{{ posts.size }}</b> posts</p>
+  <nav class="type-filter" aria-label="Show one type of post">
+    <a href="/" data-type="all" data-label="All" data-count="{{ posts.size }}" data-noun="posts" aria-current="true" title="All posts" aria-label="All posts">{% include post_icon.html type="home" decorative=true %}</a>
+    {%- for pair in filter_types -%}
+    {%- assign t = pair | split: ":" -%}
+    {%- assign t_type = t[0] -%}
+    {%- assign t_label = t[1] -%}
+    {%- assign t_count = posts | where: "type", t_type | size -%}
+    {%- if t_count > 0 %}
+    <a href="/archives/{{ t_type }}" data-type="{{ t_type }}" data-label="{{ t_label }}" data-count="{{ t_count }}" data-noun="{{ t_type }} posts" title="{{ t_label }}: {{ t_count }} posts" aria-label="{{ t_label }}, {{ t_count }} posts">{% include post_icon.html type=t_type decorative=true %}</a>
+    {%- endif -%}
+    {%- endfor %}
+  </nav>
+</div>
+
+{% assign min = 1 %}
+{% assign max = site.data.offers.size %}
+{% assign diff = max | minus: min %}
+{% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
+{% assign offer = site.data.offers[item] %}
+{% capture offer_row %}
+  <div class="posts" id="{{ offer.id }}" data-type="offer">
+    {% include post_icon.html type="offer" decorative=true %}<a rel="sponsored" href="{{ offer.link }}">{{ offer.title }}</a>
+    <span class="meta">Sponsored, T&amp;Cs apply</span>
+  </div>
+{% endcapture %}
+
 <div id="blog-archives" class="flow">
-  <h2>Recent Posts</h2>
+  <h2>Recent posts</h2>
   {% for post in posts limit:5 %}
-  <div class="posts">
-    {% include post_icon.html %}<a href="{{ post.url }}">{{ post.title }}</a>
-    <span class="meta">// {{ post.content | number_of_words }} words on {{ post.date | date: "%-d %B %Y" }}.</span>
-  </div>
+  {% include post_row.html item=post %}
   {% endfor %}
+  {{ offer_row }}
 
-  {% assign min = 1 %}
-  {% assign max = site.data.offers.size %}
-  {% assign diff = max | minus: min %}
-  {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
-  {% assign offer = site.data.offers[item] %}
-  <div class="posts" id="{{offer.id}}">
-    {% include post_icon.html %} <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a>
-    <span class="meta">// Sponsor/Advert, T&amp;Cs apply.</span>
-  </div>
-
-  <div class="flow clearfix">
-    <p class="meta">Skip to:
-      {% capture year_links %}
-      {% for post in posts offset:5 %}
-      {{ post.date | date: "%Y" }}
-      {% endfor %}
-      {% endcapture %}
-      {% assign archive_years = year_links | split: " " | uniq | sort | reverse %}
-      {% for y in archive_years %}
-      <a href="/#{{ y }}" class="year">{{ y }}</a>{% unless forloop.last %} / {% endunless %}
-      {% endfor %}
-    </p>
-  </div>
+  {% capture year_links %}{% for post in posts offset:5 %}{{ post.date | date: "%Y" }} {% endfor %}{% endcapture %}
+  {% assign archive_years = year_links | split: " " | uniq | sort | reverse %}
+  <p class="meta year-skip">Skip to <span class="link-list">{% for y in archive_years %}<a href="/#{{ y }}" class="year">{{ y }}</a> {% endfor %}</span></p>
 
   {% for post in posts offset:5 %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% unless year == this_year %}
   {% assign year = this_year %}
-  <h2 id="{{ year }}">{{ year }} Archive</h2>
+  <h2 id="{{ year }}">{{ year }}</h2>
   {% endunless %}
-  <div class="posts">
-    {% include post_icon.html %} <a href="{{ post.url }}">{{ post.title }}</a>
-    <span class="meta">// {{ post.content | number_of_words }} words on {{ post.date | date: "%-d %B %Y" }}.</span>
-  </div>
+  {% include post_row.html item=post %}
   {% endfor %}
-
-  {% assign min = 1 %}
-  {% assign max = site.data.offers.size %}
-  {% assign diff = max | minus: min %}
-  {% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
-  {% assign offer = site.data.offers[item] %}
-  <div class="posts" id="{{offer.id}}">
-    {% include post_icon.html %} <a rel="sponsored" href="{{offer.link}}">{{offer.title}}</a>
-    <span class="meta">// Sponsor/Advert, T&amp;Cs apply.</span>
-  </div>
+  {{ offer_row }}
 </div>
+<script src="{{ site.baseurl }}/post-filter.js" defer></script>
 {% include footer.html %}

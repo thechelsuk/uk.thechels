@@ -11,11 +11,21 @@ i_image: "/images/apps/engman-banner.png"
 i_icon: "/images/apps/engman-icon.png"
 summary: "EngMan is an iOS app for engineering leaders who want rapid access to coaching prompts, frameworks, and conversation starters. Dip into focused topics whenever you need a nudge ahead of a 1:1 or a tricky stakeholder chat."
 type: mobile
+site_url: "https://engman.thechels.uk"
+featured: true
+short_title: "EngMan: Coaching cards for engineering managers"
+pitch: "Coaching prompts, frameworks and conversation starters for engineering leaders."
+i_image_width: 1200
+i_image_height: 630
+# From the App Store lookup (itunes.apple.com/lookup), 2026-11-19
+app_os: "iOS, iPadOS"
+app_category: "BusinessApplication"
+app_price: "0"
+app_currency: "GBP"
 ---
 
 EngMan is an iOS app for engineering leaders who want rapid access to coaching prompts, frameworks, and conversation starters. Dip into focused topics whenever you need a nudge ahead of a 1:1 or a tricky stakeholder chat.
 
-View [marketing site](https://engman.thechels.uk) &rarr;
 
 ## Highlights
 

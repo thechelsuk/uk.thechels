@@ -1,8 +1,6 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
-<p class="marker">
-  <b>{{ site.data.films | size }}</b> Films watched.
-</p>
+{% include page_meta.html count=site.data.films.size noun="films watched" %}
 <p class="meta">
   Get updates via an
   <a href="{{ site.baseurl }}/films.xml">RSS Feed</a>

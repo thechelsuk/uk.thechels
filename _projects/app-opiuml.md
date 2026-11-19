@@ -11,11 +11,21 @@ i_image: "/images/apps/opiuml-banner.png"
 i_icon: "/images/apps/opiuml-icon.png"
 summary: "Opiuml is a podcast player built around two lists: an Inbox for everything new, and a Queue for what you actually want to hear."
 type: mobile
+site_url: "https://opiuml.thechels.uk"
+featured: true
+short_title: "Opiuml: Podcast Player"
+pitch: "A podcast player built around two lists: an Inbox for everything new, and a Queue for what you actually want to hear."
+i_image_width: 1200
+i_image_height: 630
+# From the App Store lookup (itunes.apple.com/lookup), 2026-11-19
+app_os: "iOS, iPadOS, watchOS"
+app_category: "EntertainmentApplication"
+app_price: "0"
+app_currency: "GBP"
 ---
 
 Opiuml is a podcast player built around two lists: an Inbox for everything new, and a Queue for what you actually want to hear. New episodes arrive in the Inbox, or go straight into your Queue to play next or last, and the rest quietly tidies itself away.
 
-View [marketing site](https://opiuml.thechels.uk) &rarr;
 
 ## Highlights
 

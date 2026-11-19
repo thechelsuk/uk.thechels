@@ -1,6 +1,6 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
-<p class="marker"><b>{{ site.data.read | size }}</b> in the library.</p>
+{% include page_meta.html count=site.data.read.size noun="books" %}
 
 {{ content }}
 

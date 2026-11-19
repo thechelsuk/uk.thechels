@@ -11,11 +11,17 @@ i_image: "/images/apps/opmlman-banner.png"
 i_icon: "/images/apps/opmlman-icon.png"
 summary: "OPMLMan opens the OPML files from your feed reader or podcast app, checks every feed, and shows which are still alive."
 type: mobile
+site_url: "https://opmlman.thechels.uk"
+featured: true
+short_title: "OPMLMan: Feeds Manager"
+pitch: "Opens the OPML files from your feed reader or podcast app, checks every feed, and shows which are still alive."
+i_image_width: 1200
+i_image_height: 630
+coming_soon: true # not on the App Store yet; remove when it launches
 ---
 
 OPMLMan opens the OPML file from your feed reader or podcast app, checks every feed, and tells you which are active, which have gone quiet, which have moved and which are gone for good. Then it helps you tidy up and export a clean list.
 
-View [marketing site](https://opmlman.thechels.uk) &rarr;
 
 ## Highlights
 

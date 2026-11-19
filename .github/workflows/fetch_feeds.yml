@@ -38,9 +38,13 @@ jobs:
               run: echo "sha=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
 
             - name: Fetch PESOS feeds
+              env:
+                  # Read-only token for the private app repos' releases.
+                  APP_RELEASES_TOKEN: ${{ secrets.APP_RELEASES_TOKEN }}
               run: |
                   python fetch_videos.py
                   python fetch_releases.py
+                  python fetch_app_releases.py
                   python fetch_replies.py
               working-directory: ./_python
 

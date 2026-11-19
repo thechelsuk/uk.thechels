@@ -61,15 +61,28 @@ def save_refresh_token_to_config(token: str) -> None:
 # ---------------------------------------------------------------------------
 
 
+def build_auth_url(base_url: str, client_id: str, redirect_uri: str) -> str:
+    """Return the authorize URL with response_type, client_id and
+    redirect_uri set exactly once.
+
+    The portal's URL may or may not already carry response_type and
+    client_id. Without client_id Enphase bounces to its login page and never
+    returns a code, so add whatever is missing. redirect_uri must match the
+    one sent in the token exchange, so it is always set to redirect_uri."""
+    parts = urllib.parse.urlsplit(base_url.strip())
+    query = dict(urllib.parse.parse_qsl(parts.query))
+    query.setdefault("response_type", "code")
+    query.setdefault("client_id", client_id.strip())
+    query["redirect_uri"] = redirect_uri
+    return urllib.parse.urlunsplit(
+        parts._replace(query=urllib.parse.urlencode(query)))
+
+
 def interactive_login() -> dict:
     print("\nNo working refresh token - need a one-time interactive login.\n")
 
-    # ENPHASE_AUTH_URL from the portal already includes response_type and
-    # client_id (that's how Enphase displays it) - only redirect_uri needs
-    # appending here, not the whole param set again.
-    separator = "&" if "?" in config.ENPHASE_AUTH_URL else "?"
-    auth_url = (f"{config.ENPHASE_AUTH_URL}{separator}"
-                f"redirect_uri={urllib.parse.quote(REDIRECT_URI, safe='')}")
+    auth_url = build_auth_url(config.ENPHASE_AUTH_URL,
+                              config.ENPHASE_CLIENT_ID, REDIRECT_URI)
     print("Open this URL, log in, and approve the app:\n")
     print(auth_url)
     print(

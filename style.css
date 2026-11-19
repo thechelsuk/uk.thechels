@@ -50,6 +50,36 @@
         border-color 0.5s cubic-bezier(0.4, 0, 0.2, 1),
         box-shadow 0.5s cubic-bezier(0.4, 0, 0.2, 1),
         outline-color 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+
+    /* Design tokens (see DESIGN.md). Type: a 1.25 scale from a 17px body. */
+    --step--1: 0.8125rem;   /* 13px: metadata, crumbs, count line (mono) */
+    --step-0: 1.0625rem;    /* 17px: body */
+    --step-1: 1.25rem;      /* 20px: h3, project and card titles */
+    --step-2: 1.5625rem;    /* 25px: h2 section headings */
+    --step-3: clamp(1.875rem, 1.35rem + 2.2vw, 2.375rem); /* 30-38px: h1 */
+    --leading: 1.55;
+    --leading-tight: 1.15;
+
+    /* Spacing: 4px steps. */
+    --space-1: 4px;
+    --space-2: 8px;
+    --space-3: 12px;
+    --space-4: 16px;
+    --space-5: 24px;
+    --space-6: 32px;
+    --space-7: 48px;
+
+    /* Radii, by what they round: text blocks, controls (the App Store badge's corner), media. */
+    --radius-sm: 4px;
+    --radius-control: 7px;
+    --radius-media: 10px;
+    --control-h: 40px;
+    --measure: 832px;
+
+    /* Muted ink for metadata: the theme's text mixed into its page, never below 4.5:1. */
+    --muted: color-mix(in srgb, var(--primary) 70%, var(--background));
+    --rule: 2px solid var(--accent);
+    --hairline: 1px solid var(--tab);
 }
 
 /* Each theme: page colours, then the header band (white text on --band,
@@ -61,7 +91,7 @@ html.day-mode {
     --background: #f5f4f4;
     --primary: #04100d;
     --secondary: #005ca3;
-    --links: #295147;
+    --links: #005ca3;
     --marker-start: #ffb6c18c;
     --marker-end: #ffb6c14d;
     --code: #c0deff;
@@ -76,7 +106,7 @@ html.sunrise-mode {
     --background: #f7efe1;
     --primary: #2e1f14;
     --secondary: #8b2f2f;
-    --links: #0f6a6c;
+    --links: #8b2f2f;
     --marker-start: #ffd9a88c;
     --marker-end: #ffd9a852;
     --code: #efe3d0;
@@ -91,7 +121,7 @@ html.sunset-mode {
     --background: #2e2230;
     --primary: #f6eaf0;
     --secondary: #e7a9c6;
-    --links: #f5b98e;
+    --links: #f0b3d6;
     --marker-start: #e7a9c666;
     --marker-end: #e7a9c638;
     --code: #3d2d40;
@@ -191,10 +221,12 @@ body {
 
 #wrapper {
     width: 100%;
-    max-width: calc(832px + 2em);
+    max-width: calc(var(--measure) + 2 * var(--space-4));
     margin: 0 auto;
-    padding: 1em;
+    padding: var(--space-4);
     box-sizing: border-box;
+    font-size: var(--step-0);
+    line-height: var(--leading);
 }
 
 /* Footer: full-bleed band in the header's colours, with the same gold stripe
@@ -468,7 +500,8 @@ body {
 
 /* Breadcrumb: first line under the band. Not shown on the home page. */
 .crumbs {
-    font: 0.8em/1.5 var(--font-mono);
+    font: var(--step--1)/1.6 var(--font-mono);
+    color: var(--muted);
 
     ol {
         list-style: none;
@@ -478,7 +511,7 @@ body {
         flex-wrap: wrap;
     }
 
-    li + li::before {
+    li:not(:last-child)::after {
         content: "/";
         margin: 0 8px;
         opacity: 0.5;
@@ -489,13 +522,13 @@ body {
         text-decoration: none;
 
         &:hover {
-            color: var(--accent);
-            text-decoration: underline;
+            color: var(--primary);
+            text-decoration: underline 2px var(--accent);
         }
     }
 
     [aria-current] {
-        opacity: 0.7;
+        color: var(--muted);
     }
 }
 
@@ -624,12 +657,11 @@ main:focus {
     mix-blend-mode: multiply;
 }
 
+/* Metadata: always mono, muted, one step down. Lists place it with .posts; elsewhere it's its own line. */
 .meta {
-    color: var(--secondary);
     display: block;
-    float: right;
-    margin-right: 0;
-    font-size: 0.8em;
+    color: var(--muted);
+    font: var(--step--1)/1.6 var(--font-mono);
 }
 
 .hidden {
@@ -665,7 +697,7 @@ ol li {
 }
 
 p {
-    line-height: 1.4;
+    line-height: var(--leading);
 }
 
 strong,
@@ -675,13 +707,20 @@ b {
 
 a {
     color: var(--links);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
 
+    /* Hover keeps the text readable and draws the gold underline, as in the band and footer. */
     &:hover,
-    &:focus,
     &:active {
-        color: var(--accent);
-        transition: color 4s ease-in-out;
-        text-decoration: underline;
+        color: var(--primary);
+        text-decoration: underline 2px var(--accent);
+    }
+
+    &:focus-visible {
+        outline: 2px solid var(--links);
+        outline-offset: 2px;
+        border-radius: 2px;
     }
 }
 
@@ -740,13 +779,15 @@ a {
     gap: 0.2em 0;
     margin-top: 2em;
     padding-top: 0.6em;
-    border-top: 2px solid var(--accent);
-    font: 0.8em/1.5 var(--font-mono);
-    color: var(--secondary);
+    border-top: var(--rule);
+    font: var(--step--1)/1.6 var(--font-mono);
+    color: var(--muted);
 
-    > * + *:not(.visually-hidden)::before {
-        content: "\00b7";
-        margin: 0 0.6em;
+    /* Same separator as every inline link list: "/" after each item, never leading a line. The last child is
+       the hidden author, so the last visible item is second from the end. */
+    > span:not(:nth-last-child(-n + 2))::after {
+        content: "/";
+        margin: 0 var(--space-2);
         opacity: 0.6;
     }
 
@@ -755,8 +796,8 @@ a {
         text-decoration: none;
 
         &:hover {
-            color: var(--accent);
-            text-decoration: underline;
+            color: var(--primary);
+            text-decoration: underline 2px var(--accent);
         }
     }
 }
@@ -968,12 +1009,12 @@ a {
     }
 }
 
-/* Full-width gold rule under page headings (the header band has none);
-   the hover "#" sits at the right-hand end of it. */
+/* Headings. The page title closes the page header with the one gold rule; when a count line follows the title,
+   the rule moves under the count line so crumbs, title and count read as one block. Section headings (h2) get a
+   hairline; h3 and below get none. The hover "#" sits at the right-hand end. */
 #wrapper :is(h1, h2, h3, h4, h5, h6) {
-    padding-bottom: 0.3em;
+    line-height: var(--leading-tight);
     padding-right: 1.2em;
-    border-bottom: 2px solid var(--accent);
 
     &:hover::after {
         content: "#";
@@ -983,6 +1024,39 @@ a {
     }
 }
 
+#wrapper h1 {
+    font-size: var(--step-3);
+    margin: var(--space-3) 0 0;
+    padding-bottom: var(--space-3);
+    border-bottom: var(--rule);
+}
+
+#wrapper h1:has(+ .page-meta),
+#wrapper h1.page-title--lead {
+    padding-bottom: 0;
+    border-bottom: 0;
+}
+
+#wrapper h2 {
+    font-size: var(--step-2);
+    margin: var(--space-7) 0 var(--space-4);
+    padding-bottom: var(--space-2);
+    border-bottom: var(--hairline);
+}
+
+#wrapper h3 {
+    font-size: var(--step-1);
+    margin: var(--space-6) 0 var(--space-2);
+}
+
+/* A typed page (post, project, archive) shows its type icon before the title, in the theme's hue. */
+#wrapper h1 .post-icon {
+    width: 0.8em;
+    height: 0.8em;
+    padding-right: 0.25em;
+    vertical-align: -0.05em;
+    color: var(--secondary);
+}
 
 /* ---------------------------------- */
 /* ---------- Block Styles  -------- */
@@ -1128,7 +1202,7 @@ img {
     display: block;
     max-width: 100%;
     height: auto;
-    border: 1px solid var(--primary);
+    border: var(--hairline);
 }
 
 .app-icon {
@@ -1188,7 +1262,6 @@ table {
     li {
         display: block;
         margin-bottom: 0.4em;
-        text-transform: uppercase;
         padding: 0.15625em;
     }
 
@@ -1326,4 +1399,510 @@ table {
 .buttons-wide a,
 .buttons-wide img {
     width: auto;
+}
+
+/* ================================================================== */
+/* Components. Each one is described in DESIGN.md, with the pages that */
+/* use it. Values come from the tokens in :root and the theme blocks. */
+/* ================================================================== */
+
+/* ---------- Page header: crumbs, title, count line ---------- */
+
+/* The line under a page title that says how much the page holds: "35 projects // Applications / Plugins".
+   It closes the page header with the gold rule. */
+.page-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-1) var(--space-3);
+    margin: var(--space-2) 0 0;
+    padding-bottom: var(--space-3);
+    border-bottom: var(--rule);
+    font: var(--step--1)/1.6 var(--font-mono);
+    color: var(--muted);
+
+    b {
+        color: var(--primary);
+        font-weight: 500;
+    }
+}
+
+.page-meta__sep {
+    margin-right: var(--space-2);
+    opacity: 0.6;
+}
+
+/* ---------- Inline link lists ---------- */
+
+/* Links in a line, separated by "/". The separator follows each link (never leads one), so a wrapped line always
+   starts with a word. Used in the count line, the year jump links and the filtered-view links. */
+.link-list a,
+.page-meta__links a {
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+/* Inline and inside the nowrap link, so the line can only break at the space after the separator. Markup puts
+   one space between links: that space is the gap after the "/". */
+.link-list a:not(:last-child)::after,
+.page-meta__links a:not(:last-child)::after {
+    content: "/";
+    display: inline;
+    margin-left: var(--space-2);
+    color: var(--muted);
+    opacity: 0.6;
+}
+
+/* On phones the section headings are right there, so jump links would only add lines. */
+@media (max-width: 480px) {
+    .page-meta--sections .page-meta__links {
+        display: none;
+    }
+}
+
+/* ---------- Homepage post-type filter ---------- */
+
+/* Part of the count line: one icon button per post type. Each is a real link to that type's archive; with
+   JavaScript on, it filters the list in place and rewrites the count. The selected icon carries the gold rule. */
+.type-filter {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    margin-left: auto;
+
+    a {
+        position: relative;
+        display: grid;
+        place-items: center;
+        width: 32px;
+        height: var(--control-h);
+        color: var(--muted);
+        text-decoration: none;
+
+        &::after {
+            content: "";
+            position: absolute;
+            left: 6px;
+            right: 6px;
+            bottom: 2px;
+            height: 2px;
+            border-radius: 1px;
+            background: transparent;
+        }
+
+        &:hover {
+            color: var(--primary);
+            text-decoration: none;
+        }
+
+        &:hover::after {
+            background: var(--tab);
+        }
+
+        &[aria-current="true"] {
+            color: var(--secondary);
+        }
+
+        &[aria-current="true"]::after {
+            background: var(--accent);
+        }
+    }
+
+    .post-icon {
+        width: 20px;
+        height: 20px;
+        padding: 0;
+    }
+}
+
+/* The count text grows to say what's showing ("278 ride posts // full archive"). */
+.page-meta--home {
+    padding-bottom: 0;
+}
+
+.page-meta--home .page-meta__count {
+    padding-block: var(--space-2);
+}
+
+@media (max-width: 640px) {
+    .page-meta--home {
+        display: block;
+    }
+
+    /* Two rows of eight 40px targets: every type visible, none scrolled out of sight. */
+    .type-filter {
+        display: grid;
+        grid-template-columns: repeat(8, minmax(0, 1fr));
+        margin: 0 calc(-1 * var(--space-1));
+
+        a {
+            width: auto;
+        }
+    }
+}
+
+#blog-archives .posts[hidden],
+#blog-archives h2[hidden],
+.year-skip[hidden] {
+    display: none;
+}
+
+/* ---------- Post lists ---------- */
+
+/* One row per post: type icon, title, then the date and length in the meta type. Desktop: meta on the right.
+   Phone: meta under the title, lined up with the title text. */
+.posts:not(.project-row) {
+    display: grid;
+    grid-template-columns: 1.25em minmax(0, 1fr) auto;
+    column-gap: var(--space-2);
+    align-items: baseline;
+    padding-block: 6px;
+
+    > .post-icon {
+        align-self: start;
+        margin-top: 0.3em;
+        width: 1em;
+        height: 1em;
+        padding: 0;
+        color: var(--secondary);
+    }
+
+    > a {
+        grid-column: 2;
+        text-decoration: none;
+        text-wrap: pretty;
+
+        &:hover {
+            text-decoration: underline 2px var(--accent);
+        }
+    }
+
+    > .meta {
+        grid-column: 3;
+        white-space: nowrap;
+        text-align: right;
+    }
+}
+
+#blog-archives > .posts:not(.project-row) + .posts:not(.project-row) {
+    margin-block-start: 0;
+}
+
+@media (max-width: 640px) {
+    .posts:not(.project-row) {
+        grid-template-columns: 1.25em minmax(0, 1fr);
+        padding-block: var(--space-2);
+
+        > .meta {
+            grid-column: 2;
+            text-align: left;
+            white-space: normal;
+        }
+    }
+}
+
+/* ---------- Section headings ---------- */
+/* Defined with the other headings above: h2 has a hairline, the page title the gold rule. */
+
+/* The first section heading after the page header needs less room: the gold rule already separates them. */
+#blog-archives > h2:first-child,
+.page-meta + #blog-archives > h2:first-child {
+    margin-top: var(--space-6);
+}
+
+/* Jumping to a section shouldn't leave its heading under the top edge. */
+#blog-archives h2[id] {
+    scroll-margin-top: var(--space-4);
+}
+
+/* ---------- Action buttons ---------- */
+
+/* A project's buttons. Every one is 40px tall with the App Store badge's corner, so a row never mixes sizes.
+   Primary: Apple's badge as supplied, or an ink button (the theme's text colour) for anywhere else.
+   Secondary: outlined in the line colour. Not yet out: dashed, not a link. */
+.actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin: var(--space-3) 0 0;
+}
+
+.action {
+    display: inline-flex;
+    align-items: center;
+    box-sizing: border-box;
+    height: var(--control-h);
+    padding: 0 var(--space-4);
+    border: 1px solid var(--tab);
+    border-radius: var(--radius-control);
+    background: var(--background);
+    color: var(--links);
+    font-size: 0.9375rem;
+    line-height: 1;
+    text-decoration: none;
+    white-space: nowrap;
+
+    &:hover {
+        border-color: var(--accent);
+        color: var(--primary);
+        text-decoration: none;
+    }
+}
+
+.action--primary {
+    background: var(--primary);
+    border-color: var(--primary);
+    color: var(--background);
+    font-weight: bold;
+
+    &:hover {
+        background: var(--primary);
+        border-color: var(--accent);
+        color: var(--background);
+    }
+}
+
+.action--badge {
+    padding: 0;
+    border: 0;
+    background: none;
+
+    img {
+        display: block;
+        height: var(--control-h);
+        width: auto;
+        border: 0;
+    }
+
+    &:hover {
+        outline: 2px solid var(--accent);
+        outline-offset: 2px;
+    }
+}
+
+.action--soon {
+    border-style: dashed;
+    color: var(--muted);
+    background: none;
+    cursor: default;
+}
+
+/* ---------- Project rows ---------- */
+
+.project-row {
+    display: grid;
+    grid-template-columns: 48px minmax(0, 1fr);
+    gap: var(--space-4);
+    align-items: start;
+    padding: var(--space-5) 0;
+    contain-intrinsic-size: auto 8em;
+}
+
+.project-row + .project-row {
+    border-top: var(--hairline);
+}
+
+#wrapper h2 + .project-row {
+    padding-top: var(--space-2);
+}
+
+.project-body {
+    min-width: 0;
+}
+
+#wrapper .project-row h3 {
+    margin: 0;
+    padding: 0;
+    font-size: var(--step-1);
+
+    &:hover::after {
+        content: none;
+    }
+}
+
+.project-summary {
+    margin: var(--space-1) 0 0;
+    max-width: 62ch;
+}
+
+img.project-icon,
+.project-icon {
+    width: 48px;
+    height: 48px;
+    border-radius: 11px;
+    border: 0;
+    box-shadow: 0 0 0 1px var(--tab);
+}
+
+.project-glyph {
+    display: grid;
+    place-items: center;
+    background: var(--alt-tab);
+    color: var(--secondary);
+
+    .post-icon {
+        width: 22px;
+        height: 22px;
+        padding: 0;
+    }
+}
+
+/* Titles in project lists and the featured card are links in the theme's hue. */
+#wrapper .project-row h3 a,
+.project-featured-title a {
+    color: var(--links);
+    text-decoration: none;
+
+    &:hover {
+        color: var(--primary);
+        text-decoration: underline 2px var(--accent);
+    }
+}
+
+/* ---------- Featured card ---------- */
+
+/* One project, picked at random on each build: banner on the left, text and buttons on the right. On phones the
+   banner sits on top. The card is the only boxed thing on the projects page. */
+.project-featured {
+    display: grid;
+    grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
+    align-items: center;
+    margin: var(--space-5) 0 0;
+    border: var(--hairline);
+    border-radius: var(--radius-media);
+    overflow: hidden;
+    background: var(--alt-tab);
+
+    img {
+        display: block;
+        width: 100%;
+        height: auto;
+        border: 0;
+    }
+}
+
+.project-featured-text {
+    padding: var(--space-5);
+
+    > * {
+        margin: 0;
+    }
+
+    > * + * {
+        margin-top: var(--space-2);
+    }
+
+    > .actions {
+        margin-top: var(--space-4);
+    }
+}
+
+.project-featured-label {
+    font: var(--step--1)/1.6 var(--font-mono);
+    color: var(--muted);
+}
+
+.project-featured-title {
+    font: bold var(--step-1)/var(--leading-tight) var(--header-stack);
+}
+
+@media (max-width: 640px) {
+    .project-featured {
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    .project-featured-text {
+        padding: var(--space-4);
+    }
+}
+
+/* ---------- Banners and images ---------- */
+
+/* A project's banner (1200x630 social image): the column's full width, the line colour's border, media radius,
+   then the buttons. */
+.banner-image {
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
+    border: var(--hairline);
+    border-radius: var(--radius-media);
+}
+
+.banner-image + .actions {
+    margin-top: var(--space-4);
+}
+
+/* ---------- Data lists ---------- */
+
+/* Plain lists of links on data pages (blogroll, domains, podcasts, offers): gold markers, no prefixes. An
+   external link is marked once, after it, with the same arrow as the header's Tools and Links. */
+.ext::after {
+    content: "\2197";
+    display: inline-block; /* keeps the link's underline off the arrow */
+    margin-left: 0.2em;
+    font-size: 0.85em;
+    color: var(--muted);
+}
+
+.data-list li {
+    margin-bottom: var(--space-1);
+}
+
+.data-list .meta {
+    display: inline;
+    margin-left: var(--space-2);
+}
+
+/* ---------------------------------- */
+/* --------  Directory index  ------- */
+/* ---------------------------------- */
+
+/* /slashes: each list set in columns like a book's index. Names in the reading face; file types and counts in the
+   mono metadata voice. Archives carry their post-type icon, the same icons as the homepage filter. */
+.directory ul {
+    columns: 3 12rem;
+    column-gap: var(--space-6);
+    list-style: none;
+    margin: var(--space-3) 0 var(--space-6);
+    padding: 0;
+}
+
+.directory li {
+    break-inside: avoid;
+    margin: 0;
+    padding: var(--space-1) 0;
+    line-height: 1.4;
+}
+
+.directory li::before,
+.directory li::marker {
+    content: none;
+}
+
+.directory__meta {
+    font: var(--step--1)/1.4 var(--font-mono);
+    color: var(--muted);
+    margin-left: var(--space-1);
+}
+
+.directory--typed li {
+    display: flex;
+    align-items: baseline;
+    gap: var(--space-2);
+}
+
+.directory--typed .post-icon {
+    flex: none;
+    width: 1.1em;
+    height: 1.1em;
+    padding: 0;
+    color: var(--secondary);
+    align-self: center;
+}
+
+@media (max-width: 480px) {
+    .directory ul {
+        columns: 2;
+        column-gap: var(--space-4);
+    }
 }

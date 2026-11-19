@@ -11,11 +11,21 @@ i_image: "/images/apps/tomoz-banner.png"
 i_icon: "/images/apps/tomoz-icon.png"
 summary: "Tomoz makes it easy to plan for tomorrow today. Pick and choose calendars, add in reminders, and get a clear unified view of tomorrow."
 type: mobile
+site_url: "https://tomoz.thechels.uk"
+featured: true
+short_title: "Tomoz: Plan for tomorrow, today"
+pitch: "Pick calendars, add reminders and get one clear view of tomorrow."
+i_image_width: 1200
+i_image_height: 630
+# From the App Store lookup (itunes.apple.com/lookup), 2026-11-19
+app_os: "iOS, iPadOS"
+app_category: "UtilitiesApplication"
+app_price: "0"
+app_currency: "GBP"
 ---
 
 Tomoz makes it easy to plan for tomorrow today. Pick and choose calendars, add in reminders and get a clear unified view of tomorrow.
 
-View [marketing site](https://tomoz.thechels.uk) &rarr;
 
 ## Highlights
 

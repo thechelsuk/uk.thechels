@@ -1,6 +1,6 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
-<p class="marker"><b>{{ site.data.releases | size }}</b> software releases.</p>
+{% include page_meta.html count=site.data.releases.size noun="software releases" %}
 
 {{ content }}
 
@@ -8,14 +8,9 @@
   {% assign releases = site.data.releases | sort: "date" | reverse %}
   {% for release in releases %}
   {% assign rating_count = release.rating_count | default: 0 | plus: 0 %}
-  {% capture meta %}{% if release.views %}{{ release.views }} views{% endif %}{% if rating_count > 0 %}{% if
-  release.views %},
-  {% endif %}{{ release.rating_average }} stars{% endif %}{% if release.date %}{% if release.views or rating_count > 0
-  %}
-  {% endif %} on {{ release.date | date: "%-d %B %Y" }}{% endif %}{% endcapture %}
-  <div class="posts">
-    <a href="{{ release.link }}">{{ release.title }}</a> ⇗
-    <span class="meta">// {{ meta | strip }}.</span>
+  <div class="posts" data-type="release">
+    {% include post_icon.html type="release" decorative=true %}<a class="ext" href="{{ release.link }}">{{ release.title }}</a>
+    <span class="meta">{% if release.date %}<time datetime="{{ release.date | date_to_xmlschema }}">{{ release.date | date: "%-d %b %Y" }}</time>{% endif %}{% if release.views %}, {{ release.views }} views{% endif %}{% if rating_count > 0 %}, {{ release.rating_average }} stars{% endif %}</span>
   </div>
   {% endfor %}
 </div>

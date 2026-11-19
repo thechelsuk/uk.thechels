@@ -1,0 +1,34 @@
+# Private app repos whose releases become posts (see _python/fetch_app_releases.py).
+# Public repos (such as Mltply) go in releases.yml instead, through their atom feed.
+# id: name used in the post title; repo: GitHub repo under thechelsuk;
+# project: the _projects file the About section and App Store link come from.
+- id: Demarkable
+  repo: com.uk.thechels.demarkable
+  project: app-demarkable
+- id: EngMan
+  repo: com.uk.thechels.engman
+  project: app-engman
+- id: Hiyd
+  repo: com.uk.hiyd
+  project: app-hiyd
+- id: Lansdown Foundry
+  repo: com.uk.thechels.lansdownfoundry
+  project: app-lansdown-foundry
+- id: Nuchronic
+  repo: com.uk.thechels.nuchronic
+  project: app-nuchronic
+- id: Opiuml
+  repo: com.uk.thechels.opiuml
+  project: app-opiuml
+- id: OPMLMan
+  repo: com.uk.thechels.opmlman
+  project: app-opmlman
+- id: ShortKeys
+  repo: com.uk.thechels.shortkeys
+  project: app-shortkeys
+- id: Tomoz
+  repo: com.uk.thechels.tomoz
+  project: app-tomoz
+- id: Unsettled
+  repo: com.uk.thechels.unsettled
+  project: app-unsettled

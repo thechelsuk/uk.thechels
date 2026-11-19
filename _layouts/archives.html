@@ -1,11 +1,12 @@
 {% include header.html %}
-<h1 class="post-title">{{ page.title }}</h1>
+<h1 class="post-title">{% include post_icon.html type=page.type decorative=true %}{{ page.title }}</h1>
 {% assign source = site.posts %}
 {% if page.type == "ride" %}
 {% assign source = site.rides | reverse %}
 {% endif %}
 {% assign items = source | where_exp: "post", "post.type == page.type" %}
-<p class="marker"><b>{{ items | size }}</b> total {{ page.type }} posts.</p>
+{% assign archive_noun = page.type | append: " posts" %}
+{% include page_meta.html count=items.size noun=archive_noun %}
 <div id="blog-archives" class="flow">
   {{ content }}
 
@@ -13,22 +14,14 @@
   {% if pinned.size > 0 %}
   <h2>Pinned Post</h2>
   {% for post in pinned %}
-  <div class="posts">
-    {% include post_icon.html %} <a href="{{ post.url }}">{{ post.title }}</a>
-    <span class="meta">// {% if post.i_type %}{{ post.i_type | capitalize }}, {% endif %}{{ post.content | number_of_words }} words on
-      {{ post.date | date: "%-d %B %Y" }}.</span>
-  </div>
+  {% include post_row.html item=post kind=post.i_type %}
   {% endfor %}
   {% endif %}
 
   <h2>Recent {{ page.type | capitalize }} Posts</h2>
   {% assign recent = items | where_exp: "post", "post.pinned != true" %}
   {% for post in recent %}
-  <div class="posts">
-    {% include post_icon.html %} <a href="{{ post.url }}">{{ post.title }}</a>
-    <span class="meta">// {% if post.i_type %}{{ post.i_type | capitalize }}, {% endif %}{{ post.content |
-      number_of_words }} words on {{ post.date | date: "%-d %B %Y" }}.</span>
-  </div>
+  {% include post_row.html item=post kind=post.i_type %}
   {% endfor %}
 
 </div>

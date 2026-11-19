@@ -1,0 +1,8 @@
+{%- comment -%} App icon if the file exists, else the project type's SVG. Pass item=. {%- endcomment -%}
+{%- assign _p = include.item -%}
+{%- assign _icon_file = site.static_files | where: "path", _p.i_icon | first -%}
+{%- if _icon_file -%}
+<img class="project-icon" src="{{ _p.i_icon }}" alt="" width="44" height="44" loading="lazy">
+{%- else -%}
+<span class="project-icon project-glyph">{% include post_icon.html type=_p.type %}</span>
+{%- endif -%}

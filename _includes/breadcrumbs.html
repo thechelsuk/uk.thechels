@@ -21,7 +21,7 @@
 {%- elsif page.url != "/slashes" -%}
   {%- assign crumb_name = "Pages" -%}{%- assign crumb_url = "/slashes" -%}
 {%- endif -%}
-{%- assign crumb_title = page.title | default: page.seo_title | strip_html | strip -%}
+{%- assign crumb_title = page.short_title | default: page.title | default: page.seo_title | strip_html | strip -%}
 <nav class="crumbs" aria-label="Breadcrumb">
   <ol>
     <li><a href="/">{{ site.title }}</a></li>
@@ -33,4 +33,19 @@
     {%- endif %}
   </ol>
 </nav>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": {{ site.title | jsonify }}, "item": {{ "/" | absolute_url | jsonify }} }
+    {%- if crumb_name %},
+    { "@type": "ListItem", "position": 2, "name": {{ crumb_name | jsonify }}, "item": {{ crumb_url | absolute_url | jsonify }} }
+    {%- endif %}
+    {%- if crumb_title != "" %},
+    { "@type": "ListItem", "position": {% if crumb_name %}3{% else %}2{% endif %}, "name": {{ crumb_title | jsonify }} }
+    {%- endif %}
+  ]
+}
+</script>
 {%- endunless -%}

@@ -1,0 +1,35 @@
+{%- comment -%}
+  A project's actions: one primary (Apple's badge, or a button the same size and shape), then outlined
+  buttons for the project's own site and source. The project title links to its details page, so there's no
+  Details button. Pass item=.
+{%- endcomment -%}
+{%- assign _p = include.item -%}
+{%- assign _domain = _p.i_url | remove: "https://" | remove: "http://" | split: "/" | first -%}
+<p class="actions">
+  {%- if _p.i_url -%}
+  {%- if _p.coming_soon -%}
+  <span class="action action--soon">Coming soon to the App Store</span>
+  {%- elsif _p.i_url contains "apps.apple.com" -%}
+  <a class="action action--badge" href="{{ _p.i_url }}"><img src="/images/app-store-badge.svg" alt="Download {{ _p.short_title | default: _p.title | split: ':' | first }} on the App Store" width="120" height="40"></a>
+  {%- elsif _p.i_url contains "gumroad.com" -%}
+  <a class="action action--primary" href="{{ _p.i_url }}">Buy on Gumroad</a>
+  {%- elsif _p.i_url contains "github.com" -%}
+  <a class="action action--primary" href="{{ _p.i_url }}">View on GitHub</a>
+  {%- elsif _p.i_url contains "getdrafts.com" -%}
+  <a class="action action--primary" href="{{ _p.i_url }}">View in the Drafts Directory</a>
+  {%- elsif _p.i_url contains "npmx.dev" -%}
+  <a class="action action--primary" href="{{ _p.i_url }}">View on npmx</a>
+  {%- elsif _p.class == "websites" -%}
+  <a class="action action--primary" href="{{ _p.i_url }}">Visit {{ _domain }}</a>
+  {%- else -%}
+  <a class="action action--primary" href="{{ _p.i_url }}">{{ _p.i_name }}</a>
+  {%- endif -%}
+  {%- endif -%}
+  {%- if _p.site_url -%}
+  {%- assign _name = _p.short_title | default: _p.title | split: ":" | first | split: " - " | first | strip -%}
+  <a class="action" href="{{ _p.site_url }}" title="{{ _p.site_url | remove: 'https://' | split: '/' | first }}" aria-label="{{ _name }} website">Website</a>
+  {%- endif -%}
+  {%- if _p.source_url and _p.source_url != _p.i_url -%}
+  <a class="action" href="{{ _p.source_url }}">Source</a>
+  {%- endif -%}
+</p>

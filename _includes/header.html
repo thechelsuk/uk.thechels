@@ -53,7 +53,11 @@
     {%- if video_id -%}
     {%- capture share_image %}https://i.ytimg.com/vi/{{ video_id }}/hqdefault.jpg{% endcapture -%}
     {%- else -%}
+    {%- if page.i_image -%}
+    {%- assign share_image = page.i_image | absolute_url -%}
+    {%- else -%}
     {%- assign share_image = page.image | default: site.owner.avatar -%}
+    {%- endif -%}
     {%- endif %}
 
     <!-- Google / Search Engine Tags -->

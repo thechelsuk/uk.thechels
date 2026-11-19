@@ -3,31 +3,43 @@
 {% assign items = site.projects %}
 {% assign classes = site.projects | map: "class" | uniq | sort %}
 
-<nav class="page-toc">
-    {% for class in classes %}{% unless forloop.first %} / {% endunless %}<a
-        href="#{{ class | downcase | replace: ' ', '-' }}">{{ class | capitalize }}</a>{% endfor %}
-</nav>
-<p class="marker"><b>{{ items | size }}</b> total projects.</p>
+{% capture section_links %}{% for class in classes %}<a href="#{{ class | downcase | replace: ' ', '-' }}">{{ class | capitalize }}</a> {% endfor %}{% endcapture %}
+{% include page_meta.html count=items.size noun="projects" links=section_links modifier="sections" %}
+
+{% comment %} One project flagged `featured: true`, picked at random on each build. {% endcomment %}
+{% assign featured_pool = site.projects | where: "featured", true %}
+{% if featured_pool.size > 0 %}
+{% assign featured = featured_pool | sample %}
+<section class="project-featured" aria-labelledby="featured-title">
+    {% if featured.i_image %}
+    <a href="{{ featured.url }}" class="project-featured-image" tabindex="-1" aria-hidden="true"><img
+            src="{{ featured.i_image }}" alt=""{% if featured.i_image_width %} width="{{ featured.i_image_width }}" height="{{ featured.i_image_height }}"{% endif %} loading="eager" fetchpriority="high"></a>
+    {% endif %}
+    <div class="project-featured-text">
+        {% case featured.class %}{% when "applications" %}{% assign featured_kind = "app" %}{% when "websites" %}{% assign featured_kind = "website" %}{% else %}{% assign featured_kind = "project" %}{% endcase %}
+        <p class="project-featured-label">Featured {{ featured_kind }}</p>
+        <p class="project-featured-title" id="featured-title"><a href="{{ featured.url }}">{{ featured.short_title | default: featured.title }}</a></p>
+        <p>{{ featured.pitch | default: featured.summary }}</p>
+        {% include project_links.html item=featured %}
+    </div>
+</section>
+{% endif %}
 
 <div id="blog-archives" class="flow">
 
-    {% assign sorted_items = site.projects | sort: "title" | sort: "class" %}
-
     {% for class in classes %}
-    <a name="{{ class | downcase | replace: ' ', '-' }}"></a>
-    <h2>{{ class | capitalize }} </h2>
+    <h2 id="{{ class | downcase | replace: ' ', '-' }}">{{ class | capitalize }}</h2>
 
-    {% assign class_items = sorted_items | where: "class", class %}
+    {% assign class_items = site.projects | where: "class", class | sort_natural: "title" %}
     {% for item in class_items %}
-    <div class="posts">
-        <h3>{% include post_icon.html type=item.type %} <a href="{{ item.url }}" title="{{item.title}}">{{ item.title }} ⇗</a></h3>
-        <p>
-            {% if item.summary %}
-            <ul>
-                <li>{{ item.summary }} <a href='{{item.url}}' title="{{item.title}}">Read more about {{ item.title | split: " - " | first | strip }}</a> &rarr;</li>
-            </ul>
-            {% endif %}
-        </p>
+    <div class="posts project-row">
+        {% include project_icon.html item=item %}
+        <div class="project-body">
+            <h3><a href="{{ item.url }}" title="{{ item.title }}">{{ item.short_title | default: item.title }}</a></h3>
+            {% assign item_pitch = item.pitch | default: item.summary %}
+            {% if item_pitch %}<p class="project-summary">{{ item_pitch }}</p>{% endif %}
+            {% include project_links.html item=item %}
+        </div>
     </div>
     {% endfor %}
     {% endfor %}

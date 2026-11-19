@@ -12,11 +12,21 @@ i_icon: "/images/apps/mltply-icon.png"
 i_foss: "https://github.com/thechelsuk/com.uk.thechels.mltply"
 summary: "Mltply uses a friendly chat-style interface to make maths practice less intimidating. Short prompts keep the pace up, and repetition cements knowledge while keeping things playful."
 type: mobile
+site_url: "https://mltply.thechels.uk"
+featured: true
+short_title: "Mltply: Chat-like maths for kids"
+pitch: "A friendly chat-style interface that makes maths practice less intimidating."
+i_image_width: 1200
+i_image_height: 630
+# From the App Store lookup (itunes.apple.com/lookup), 2026-11-19
+app_os: "iOS, iPadOS"
+app_category: "EducationalApplication"
+app_price: "0"
+app_currency: "GBP"
 ---
 
 Mltply uses a friendly chat-style interface to make maths practice less intimidating. Short prompts keep the pace up, and repetition cements knowledge while keeping things playful.
 
-View [marketing site](https://mltply.thechels.uk) &rarr;
 
 ## Highlights
 

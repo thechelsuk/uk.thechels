@@ -1,7 +1,8 @@
 {% include header.html %}
 {% assign type = page.type | default: page.type %}
 <h1 class="post-title">{{ page.title }}</h1>
-<p class="marker"><b>{{ site.data[type] | size }}</b> items.</p>
+{% assign data_count = site.data[type] | size %}
+{% include page_meta.html count=data_count noun="items" %}
 
 {{content}}
 

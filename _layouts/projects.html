@@ -1,26 +1,20 @@
 {% include header.html %}
 <article class="h-entry flow">
-  <h1 class="p-name post-title">{% include post_icon.html type=page.type %} Project: {{ page.title }}</h1>
+  <h1 class="p-name post-title">{% include post_icon.html type=page.type decorative=true %}{{ page.short_title | default: page.title }}</h1>
 
   <div class="e-content entry flow">
 
-    {% if page.i_image and page.i_name %}
-    <img src="{{ page.i_image }}" alt="{{page.i_name}} Banner - {{ page.seo_description }}" class="banner-image" />
+    {% if page.i_image %}
+    <img src="{{ page.i_image }}" alt="{{ page.short_title | default: page.title }}" class="banner-image"{% if page.i_image_width %} width="{{ page.i_image_width }}" height="{{ page.i_image_height }}"{% endif %} loading="eager" fetchpriority="high" />
     {% endif %}
 
-    {{ content }}
-
-    {% if page.i_url and page.class and page.i_name %}
-    <p>&raquo;
-      <a href="{{ page.i_url }}" title="{{page.i_name}}">{{page.i_name}} &rarr;</a>
-    </p>
-    {% elsif page.link %}
-    <p>&raquo;
-      <a href="{{ page.link }}" title="Permalink">Permalink &rarr;</a>
-    </p>
+    {% if page.i_url %}
+    {% include project_links.html item=page %}
     {% else %}
     <p>Under Development</p>
     {% endif %}
+
+    {{ content }}
 
   </div>
 
@@ -51,4 +45,20 @@
   <p><a href="/projects" title="Back to Projects">← Back to Projects</a></p>
 </article>
 
+{% if page.app_os %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": {{ page.short_title | default: page.title | split: ":" | first | strip | jsonify }},
+  "description": {{ page.seo_description | default: page.summary | jsonify }},
+  "operatingSystem": {{ page.app_os | jsonify }},
+  "applicationCategory": {{ page.app_category | jsonify }},
+  "url": {{ page.i_url | jsonify }},
+  {% if page.i_image %}"image": {{ page.i_image | absolute_url | jsonify }},{% endif %}
+  "offers": { "@type": "Offer", "price": {{ page.app_price | jsonify }}, "priceCurrency": {{ page.app_currency | jsonify }} },
+  "author": { "@type": "Person", "name": {{ site.owner.name | jsonify }}, "url": {{ site.owner.url | jsonify }} }
+}
+</script>
+{% endif %}
 {% include footer.html %}

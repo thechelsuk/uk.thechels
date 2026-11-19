@@ -11,11 +11,21 @@ i_image: "/images/apps/nuchronic-banner.png"
 i_icon: "/images/apps/nuchronic-icon.png"
 summary: "Nuchronic helps people with ME/CFS, long COVID and other chronic illnesses track their energy and symptoms in seconds, keep a crash plan and health records together, and take a clear PDF record to appointments."
 type: mobile
+site_url: "https://nuchronic.uk"
+featured: true
+short_title: "Nuchronic: Energy & Symptom Tracker"
+pitch: "Track energy and symptoms in seconds and keep a crash plan, for ME/CFS, long COVID and other chronic illness."
+i_image_width: 1200
+i_image_height: 630
+# From the App Store lookup (itunes.apple.com/lookup), 2026-11-19
+app_os: "iOS, iPadOS"
+app_category: "HealthApplication"
+app_price: "0"
+app_currency: "GBP"
 ---
 
 Nuchronic helps people with ME/CFS, long COVID and other chronic illnesses track their energy and symptoms in seconds, keep a crash plan and health records together, and take a clear PDF record to appointments. It's the [Nuchronic printables](https://nuchronic.uk/printables) as an app, and a companion to [Nuchronic.uk](/projects/nuchronic).
 
-View [site](https://nuchronic.uk) &rarr;
 
 ## Highlights
 

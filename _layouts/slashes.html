@@ -1,62 +1,75 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
+{%- comment -%}
+  The site's directory. Four indexes (slash pages, data pages, archives, tags), each set in columns like the index at
+  the back of a book. File types such as (txt) show as metadata after the name. Archives and tags carry their counts,
+  and archives their post-type icon, the same icons as the homepage filter. See DESIGN.md, "Directory index".
+{%- endcomment -%}
+{% assign sorted_navigation_slashes = site.navigation_slashes | sort: 'title' %}
+{% assign sorted_navigation_data = site.navigation_data | sort: 'title' %}
+{% assign sorted_nav_archives = site.navigation_archives | sort: 'title' %}
+{% assign sorted_tags = site.tags | sort %}
+{% assign directory_count = sorted_navigation_slashes.size | plus: sorted_navigation_data.size | plus: sorted_nav_archives.size | plus: sorted_tags.size %}
+{% capture section_links %}<a href="#Slashes">Slash pages</a> <a href="#Data">Data</a> <a href="#Archives">Archives</a> <a href="#Tags">Tags</a>{% endcapture %}
+{% include page_meta.html count=directory_count noun="pages and links" links=section_links modifier="sections" %}
 {% include img.html %}
 {{ content }}
 
-// <a href="#Slashes">Slashes</a> / <a href="#Data">Data</a> / <a href="#Archives">Archives</a> / <a
-    href="#Tags">Tags</a>
+{%- assign file_types = "txt,png,xml,json" | split: "," -%}
 
-
-<h2 id="Slashes">Slash Pages</h2>
-
-<p>Here is my take with a few additional items that might catch on.</p>
-
-<nav id="submenu" aria-label="submenu of slash pages">
-    <ul>
-        {% assign sorted_navigation_slashes = site.navigation_slashes | sort:
-        'title' %} {% for item in sorted_navigation_slashes %}
-        <li>// <a href="{{item.link}}">{{item.title}}</a></li>
-        {% endfor %}
-    </ul>
+<h2 id="Slashes">Slash pages</h2>
+<p>Here is my take, with a few additional items that might catch on.</p>
+<nav class="directory" aria-label="Slash pages">
+  <ul>
+    {%- for item in sorted_navigation_slashes %}
+    {%- assign item_name = item.title -%}{%- assign item_type = "" -%}
+    {%- assign item_last = item.title | split: "(" | last | remove: ")" | strip -%}
+    {%- if file_types contains item_last -%}{%- assign item_name = item.title | split: " (" | first -%}{%- assign item_type = item_last -%}{%- endif %}
+    <li><a href="{{ item.link }}">{{ item_name }}</a>{% if item_type != "" %} <span class="directory__meta">{{ item_type }}</span>{% endif %}</li>
+    {%- endfor %}
+  </ul>
 </nav>
 
-<h2 id="Data">Data Pages</h2>
-
+<h2 id="Data">Data pages</h2>
 <p>Pages focused on showing data, either incoming feeds from other services, or local data sources made available.</p>
-
-<nav id="datamenu" aria-label="submenu of data items">
-    <ul>
-        {% assign sorted_navigation_data = site.navigation_data | sort:
-        'title' %} {% for dataitems in sorted_navigation_data %}
-        <li>// <a href="{{dataitems.link}}">{{dataitems.title}}</a></li>
-        {% endfor %}
-    </ul>
+<nav class="directory" aria-label="Data pages">
+  <ul>
+    {%- for item in sorted_navigation_data %}
+    {%- assign item_name = item.title -%}{%- assign item_type = "" -%}
+    {%- assign item_last = item.title | split: "(" | last | remove: ")" | strip -%}
+    {%- if file_types contains item_last -%}{%- assign item_name = item.title | split: " (" | first -%}{%- assign item_type = item_last -%}{%- endif %}
+    <li><a href="{{ item.link }}">{{ item_name }}</a>{% if item_type != "" %} <span class="directory__meta">{{ item_type }}</span>{% endif %}</li>
+    {%- endfor %}
+  </ul>
 </nav>
 
 <h2 id="Archives">Archives</h2>
-
 <p>Post archives by type.</p>
-
-<nav id="archivemenu" aria-label="submenu of post type items">
-    <ul>
-        {% assign sorted_nav_archives = site.navigation_archives | sort: 'title' %}
-        {% for item in sorted_nav_archives %}
-        <li>// <a href="{{item.link}}">{{item.title}}</a></li>
-        {% endfor %}
-    </ul>
+<nav class="directory directory--typed" aria-label="Archives by post type">
+  <ul>
+    {%- for item in sorted_nav_archives %}
+    {%- assign archive_type = item.link | remove: "/archives/" | remove: "/" -%}
+    {%- if archive_type == "ride" -%}
+    {%- assign archive_count = site.rides | size -%}
+    {%- else -%}
+    {%- assign archive_count = site.posts | where: "type", archive_type | size -%}
+    {%- endif %}
+    <li>{% include post_icon.html type=archive_type decorative=true %}<a href="{{ item.link }}">{{ item.title }}</a> <span class="directory__meta">{{ archive_count }}</span></li>
+    {%- endfor %}
+  </ul>
 </nav>
 
 <h2 id="Tags">Tags</h2>
-<p>Tags are used sparingly throughout the site to categorize content, mostly to separate
-    different periods of time when a certain topic was more prevalent.</p>
-{% assign sorted_tags = site.tags | sort %}
-<ul>
-    {% for tag in sorted_tags %}
-    {% assign tag_name = tag[0] %}
-    {% assign tag_posts = tag[1] %}
-    <li><a href="/tag/{{ tag_name }}">{{ tag_name | capitalize }}</a> ({{ tag_posts | size }})</li>
-    {% endfor %}
-</ul>
-
+<p>Tags are used sparingly throughout the site to categorise content, mostly to separate different periods of time when a
+  certain topic was more prevalent.</p>
+<nav class="directory" aria-label="Tags">
+  <ul>
+    {%- for tag in sorted_tags %}
+    {%- assign tag_name = tag[0] -%}
+    {%- assign tag_posts = tag[1] %}
+    <li><a href="/tag/{{ tag_name }}">{{ tag_name | capitalize }}</a> <span class="directory__meta">{{ tag_posts | size }}</span></li>
+    {%- endfor %}
+  </ul>
+</nav>
 
 {% include footer.html %}

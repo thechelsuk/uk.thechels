@@ -33,6 +33,8 @@ class ReleaseRecord:
     link: str
     published: datetime
     body: str
+    cited: str = "GitHub"
+    seo_padding: str = RELEASE_SEO_PADDING
 
     @property
     def release_hash(self) -> str:
@@ -233,7 +235,7 @@ def build_release_seo(release: ReleaseRecord, body: str) -> tuple[str, str]:
     changes = summarise_changes(body)
     summary = f"Release notes for {release.project_label} version {release.version}"
     summary = f"{summary}: {changes}." if changes else f"{summary}."
-    description = seo_frontmatter.fit_description(summary, RELEASE_SEO_PADDING)
+    description = seo_frontmatter.fit_description(summary, release.seo_padding)
     return title, description
 
 
@@ -301,7 +303,7 @@ def render_post(release: ReleaseRecord) -> str:
         "seo_title": seo_title,
         "seo_description": seo_description,
         "type": "release",
-        "cited": "GitHub",
+        "cited": release.cited,
         "link": release.link,
         "release_id": release.release_id,
         "release_repo": release.repo_name,

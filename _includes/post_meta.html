@@ -1,6 +1,6 @@
 {%- comment -%}
-  One row under the post: date · words · responses · section · tag.
-  Each item is a span so the CSS dot separator sits outside the links.
+  One row under the post: date / words / responses / section / tag.
+  Each item is a span so the CSS "/" separator sits outside the links.
   Also sets wm_count / reply_count / total_count for post_responses.html.
 {%- endcomment -%}
 {%- capture wm_count %}{% webmention_count page.url %}{% endcapture -%}

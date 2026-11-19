@@ -1,0 +1,10 @@
+{%- comment -%}
+  One row in a post list: type icon, title, then date and length in the meta type (DESIGN.md, "Post lists").
+    {% include post_row.html item=post kind=post.i_type %}
+  `kind` is optional (a bookmark's or archive post's sub-type).
+{%- endcomment -%}
+{%- assign _r = include.item -%}
+<div class="posts" data-type="{{ _r.type }}">
+  {% include post_icon.html type=_r.type decorative=true %}<a href="{{ _r.url }}">{{ _r.title }}</a>
+  <span class="meta"><time datetime="{{ _r.date | date_to_xmlschema }}">{{ _r.date | date: "%-d %b %Y" }}</time>{% if include.kind and include.kind != "" %}, {{ include.kind | downcase }}{% endif %}, {{ _r.content | number_of_words }} words</span>
+</div>

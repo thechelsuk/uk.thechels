@@ -11,11 +11,21 @@ i_image: "/images/apps/shortkeys-banner.png"
 i_icon: "/images/apps/shortkeys-icon.png"
 summary: "ShortKeys is a productivity app for people who live in text. Build multi-line snippets, drop them behind memorable keyboard shortkeys, and fly through forms, support replies, or daily journaling."
 type: mobile
+site_url: "https://shortkeys.thechels.uk"
+featured: true
+short_title: "ShortKeys: Multi-line text snippets"
+pitch: "Build multi-line snippets and drop them behind memorable keyboard shortcuts."
+i_image_width: 1200
+i_image_height: 630
+# From the App Store lookup (itunes.apple.com/lookup), 2026-11-19
+app_os: "iOS, iPadOS"
+app_category: "UtilitiesApplication"
+app_price: "0"
+app_currency: "GBP"
 ---
 
 ShortKeys is a productivity app for people who live in text. Build multi-line snippets, drop them behind memorable keyboard shortkeys, and fly through forms, support replies, or daily journaling.
 
-View [marketing site](https://shortkeys.thechels.uk) &rarr;
 
 ## Highlights
 

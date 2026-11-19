@@ -1,6 +1,6 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
-<p class="marker"><b>{{ site.data.salaries | size }}</b> entries.</p>
+{% include page_meta.html count=site.data.salaries.size noun="entries" %}
 
 {{content}}
 

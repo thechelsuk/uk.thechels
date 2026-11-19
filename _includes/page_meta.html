@@ -1,0 +1,12 @@
+{%- comment -%}
+  The line under a page title: how many things the page holds, then, optionally, in-page or related links.
+  Same small monospace style as the breadcrumbs above it.
+    {% include page_meta.html count=items.size noun="projects" links=section_links %}
+  `links` is pre-rendered HTML (capture it), shown after "//".
+{%- endcomment -%}
+<p class="page-meta{% if include.modifier %} page-meta--{{ include.modifier }}{% endif %}">
+  <span class="page-meta__count"><b>{{ include.count }}</b> {{ include.noun }}</span>
+  {%- if include.links and include.links != "" %}
+  <span class="page-meta__links" aria-hidden="false"><span class="page-meta__sep" aria-hidden="true">//</span> {{ include.links }}</span>
+  {%- endif %}
+</p>

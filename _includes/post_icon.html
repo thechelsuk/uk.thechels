@@ -1,4 +1,4 @@
 {%- assign _post_type = include.type | default: post.type -%}
 {%- assign _icons = "mixtape til ways ride video release rss daily linked quote film micro blog test gift mailbox project mobile website wrench template bookmark home location trash ticket" | split: " " -%}
 {%- if _icons contains _post_type -%}{%- assign _icon = _post_type -%}{%- else -%}{%- assign _icon = "default" -%}{%- endif -%}
-<svg class="post-icon" role="img"><use href="/icons.svg#{{ _icon }}"></use></svg>
+{%- if include.decorative -%}<svg class="post-icon" aria-hidden="true" focusable="false"><use href="/icons.svg#{{ _icon }}"></use></svg>{%- else -%}<svg class="post-icon" role="img"><use href="/icons.svg#{{ _icon }}"></use></svg>{%- endif -%}

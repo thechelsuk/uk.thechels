@@ -11,13 +11,23 @@ i_image: "/images/apps/unsettled-banner.png"
 i_icon: "/images/apps/unsettled-icon.png"
 summary: "Unsettled is an escape game hidden in an ordinary-looking phone. The screen is blank, a mail icon has one unread message, and every message from Unsettled Corp is a lock that gives up a number."
 type: mobile
+site_url: "https://unsettled.thechels.uk"
+featured: true
+short_title: "Unsettled: Impossible Escape"
+pitch: "An escape game hidden in an ordinary-looking phone. One unread message starts it."
+i_image_width: 1200
+i_image_height: 630
+# From the App Store lookup (itunes.apple.com/lookup), 2026-11-19
+app_os: "iOS, iPadOS"
+app_category: "GameApplication"
+app_price: "0"
+app_currency: "GBP"
 ---
 
 Unsettled is an escape game hidden in an ordinary-looking phone. The screen is blank, a mail icon has one unread message, and every message from Unsettled Corp is a lock that gives up a number. There are no instructions, and no clue is given for free.
 
 Dr Jarrad Branthwaite and Chris Wood hid eleven years of work in the phone, behind a chain of locks. Find every number, in order, and their sealed messages open. Then someone in Paris gets in touch.
 
-View [marketing site](https://unsettled.thechels.uk) &rarr;
 
 View [Unsettled Corp on GitHub](https://github.com/Unsettled-Corp) &rarr;
 
