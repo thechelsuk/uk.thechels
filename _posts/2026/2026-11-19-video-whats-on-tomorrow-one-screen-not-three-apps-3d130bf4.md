@@ -10,6 +10,7 @@ video_id: "c4_2ITVgV90"
 short: true
 image: "https://i4.ytimg.com/vi/c4_2ITVgV90/hqdefault.jpg"
 ---
+
 Tomoz shows tomorrow's events and reminders together on one screen, and sends them anywhere as Markdown, CSV or JSON. Free on the App Store. tomoz.thechels.uk
 
 [Watch on YouTube](https://www.youtube.com/shorts/c4_2ITVgV90)
