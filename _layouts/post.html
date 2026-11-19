@@ -8,11 +8,12 @@
 
     {{ content }}
 
-    {% if page.link and page.cited %}
+    {% comment %} Empty strings ("") are truthy in Liquid, so check for them too. {% endcomment %}
+    {% if page.link and page.link != "" and page.cited and page.cited != "" %}
     <p>&raquo; <a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
-    {% elsif page.cited %}
+    {% elsif page.cited and page.cited != "" %}
     <p>&raquo; {{page.cited}}</p>
-    {% elsif page.i_url %}
+    {% elsif page.i_url and page.i_url != "" %}
     <p>&raquo; <a href="{{ page.i_url }}" class="u-{{page.i_type}}">{{page.i_url}} &rarr;</a></p>
     {% elsif page.i_type == 'note' %}
     <p>&raquo; <a href="{{ page.url }}" class="u-{{page.i_type}}">permalink</a></p>

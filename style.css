@@ -241,7 +241,7 @@ body {
     background: var(--band);
     color: #ffffff;
     border-top: 6px solid var(--accent);
-    font-size: 0.8em;
+    font-size: var(--step--1);
     transition: var(--trans);
 
     > * {
@@ -339,7 +339,7 @@ body {
 
     a {
         color: var(--band-2);
-        font-size: 0.95em;
+        font-size: var(--step-0);
         padding: 0.25em 0;
         white-space: nowrap;
         text-decoration: none;
@@ -484,7 +484,7 @@ body {
 
 .blog-slogan {
     margin: 10px 0 0;
-    font-size: 1.05em;
+    font-size: var(--step-0);
     color: var(--band-2);
 }
 
@@ -552,7 +552,7 @@ body {
         margin: 0;
 
         a {
-            font-size: 0.9em;
+            font-size: var(--step--1);
         }
 
         a:not(:first-child)::before {
@@ -584,7 +584,7 @@ body {
     }
 
     .blog-slogan {
-        font-size: 0.95em;
+        font-size: var(--step--1);
     }
 }
 
@@ -1342,7 +1342,7 @@ table {
 
 @media only screen and (max-width: 720px) {
     #footer {
-        font-size: 0.625em;
+        font-size: var(--step--1);
     }
 
     .footer-meta,
