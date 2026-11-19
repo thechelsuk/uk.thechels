@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-11-18
+date: 2026-11-19
 last_modified_at: "2026-10-16"
 ---
 
@@ -13,116 +13,100 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+## On Thursday, 19 November 2026
 
-## On Wednesday, 18 November 2026
-
-- The average temperature today is 12.21˚C,
-- With highs of 12.67˚C and lows of 10.87˚C,
-- It may feel like 11.71˚C with scattered clouds
-- The wind speed is 4.63m/s and visibility is 9000m
-- The pressure is 986hPa and humidity is 85%
-- The sun will rise at 07:32 and set at 16:14
+- The average temperature today is 6.48˚C,
+- With highs of 7.93˚C and lows of 5.4˚C,
+- It may feel like 5.59˚C with mist
+- The wind speed is 1.54m/s and visibility is 4000m
+- The pressure is 988hPa and humidity is 96%
+- The sun will rise at 07:34 and set at 16:13
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 
 <!-- threat_marker starts -->
-
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 202 days since the last change (2026-04-30)
+- It has been 203 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-
 - No tasks today
-
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-
-> Commit to the direction.
-
+> Seek the best.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-
-- Hacken Women v Manchester City Women
-- London City Lionesses v Brighton & Hove Albion Women
-- Manchester United Women v Everton Women
-- Chelsea Women v PSG Women
-
+- Arsenal Women v Lyon Women
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 134.11000061035156
-- ^FTSE : 10639.099609375
-- ^FTMC : 24393.01953125
+- VWRL.L : 134.39999389648438 
+- ^FTSE : 10518.0595703125 
+- ^FTMC : 24288.98046875 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-
-> At school, during the creative classes, I was only good at drawing night time scenes featuring lots of curtains, blinds, and shadows, my tutor said I had really mastered the dark arts.
-
+> Where do they make facts? At the factory.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-
-- Iraq pumps oil to Turkey again after 12 years to bypass Hormuz disruption (Euronews, [1 minutes ago](https://www.euronews.com/2026/11/18/iraq-pumps-oil-to-turkey-again-after-12-years-to-bypass-hormuz-disruption))
-- Hungarian ethno-punk bands join forces for Brussels dance-floor show (Euronews, [5 minutes ago](https://www.euronews.com/2026/11/18/hungarian-ethno-punk-bands-join-forces-for-brussels-dance-floor-show))
-- Consumer screening tests make baseless health claims, UK study finds (Euronews, [18 minutes ago](https://www.euronews.com/2026/11/18/consumer-screening-tests-make-baseless-health-claims-uk-study-finds))
-- Canada and China expand tariff relief on pork, seafood and metals amid US trade tensions (Euronews, [29 minutes ago](https://www.euronews.com/2026/11/18/canada-and-china-expand-tariff-relief-on-pork-seafood-and-metals-amid-us-trade-tensions))
-- Wall Street set to open higher after Nvidia results reassure investors (FT, [37 minutes ago](https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1))
-- Windows Server 2028 won't be compatible by default (Register, [38 minutes ago](https://www.theregister.com/os-platforms/2026/11/18/windows-server-2028-wont-be-compatible-by-default/5310766))
-- Trump and Putin shake hands in first encounter since 2025 (Euronews, [41 minutes ago](https://www.euronews.com/video/2026/11/18/trump-and-putin-shake-hands-in-first-encounter-since-2025))
-- Opening a small business takes 18 times as long in Germany as in France, study finds (Euronews, [42 minutes ago](https://www.euronews.com/2026/11/18/opening-a-small-business-takes-18-times-as-long-in-germany-as-in-france-study-finds))
-- Xi greets Trump with hug ahead of historic summit with Putin (FT, [44 minutes ago](https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1))
-- Estado Novo interpretive centre opens in Salazar's birthplace in Santa Comba Dão (Euronews, [49 minutes ago](https://www.euronews.com/2026/11/18/estado-novo-interpretive-centre-opens-in-salazars-birthplace-in-santa-comba-dao))
-- The only way out of populism is through it (FT, [50 minutes ago](https://www.ft.com/content/e71273dd-2748-4396-bb62-e75307105596?syn-25a6b1a6=1))
-- Fossil fuel exit becomes COP31 flashpoint – but four more European countries are taking the leap (Euronews, [52 minutes ago](https://www.euronews.com/2026/11/18/cop31-is-once-again-shying-away-from-a-fossil-fuel-exit-but-one-european-country-is-taking))
-- From the steppe to the global stage: Mongolia’s COP17 legacy (Euronews, [53 minutes ago](https://www.euronews.com/2026/11/18/from-the-steppe-to-the-global-stage-mongolias-cop17-legacy))
-- Europe cannot 'sleep through the AI revolution': Tech leaders urge EU to take action (Euronews, [1 hours ago](https://www.euronews.com/2026/11/18/europe-cannot-sleep-through-the-ai-revolution-tech-leaders-urge-eu-to-take-action))
-- US tech outages blamed on rush to fix bugs found by AI (FT, [1 hours ago](https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1))
-- Police arrest 15 over £1.5M 'we'll recover your losses' scam targeting elderly (Register, [1 hours ago](https://www.theregister.com/cyber-crime/2026/11/18/police-arrest-15-over-15m-well-recover-your-losses-scam-targeting-elderly/5310745))
-- ULA says Vulcan lacked the oomph to get Amazon satellites to orbit (Register, [2 hours ago](https://www.theregister.com/science/2026/11/18/ula-says-vulcan-lacked-the-oomph-to-get-amazon-satellites-to-orbit/5310712))
-- UK.gov JV gets £178M Home Office hosting deal. Without competition (Register, [2 hours ago](https://www.theregister.com/public-sector/2026/11/18/ukgov-jv-gets-178m-home-office-hosting-deal-without-competition/5310433))
-- SAP opens AI to on-prem customers, but cloud commitments could shut smaller firms out (Register, [3 hours ago](https://www.theregister.com/applications/2026/11/18/sap-opens-ai-to-on-prem-customers-but-cloud-commitments-could-shut-smaller-firms-out/5310056))
-- Chelsea FCW vs. Paris Saint-Germain Féminine, Women&#8217;s Champions League: Preview, team news, how to watch (WAGNH, [3 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/174110/chelsea-fcw-vs-paris-saint-germain-feminine-womens-champions-league-preview-team-news-how-to-watch))
-- Internationals: Martinez returns and Anselmino debuts in huge Argentina win (CFC, [3 hours ago](https://www.chelseafc.com/en/news/article/internationals-martinez-returns-and-anselmino-debuts-in-huge-argentina-win))
-- Democrats probe whether Lutnick helped Cantor avoid Nvidia losses (FT, [4 hours ago](https://www.ft.com/content/71e39ecd-03ef-4078-a34e-34ea6b45f674?syn-25a6b1a6=1))
-- UK MPs want AI watchdog with power to pull the plug on dangerous models (Register, [4 hours ago](https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567))
-- AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB (FT, [4 hours ago](https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9?syn-25a6b1a6=1))
-- Juan Mata retires: Forward's lifelong bonds to Chelsea and London (CFC, [5 hours ago](https://www.chelseafc.com/en/news/article/from-the-archive-juan-matas-lifelong-bonds-to-chelsea-and-london))
-- Time for frustrated M365 customers to stage a 'distributed denial of satisfaction' action (Register, [5 hours ago](https://www.theregister.com/off-prem/2026/11/18/time-for-frustrated-m365-customers-to-stage-a-distributed-denial-of-satisfaction-action/5310343))
-- The Daily Hilario: Wednesday (WAGNH, [5 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/174088/the-daily-hilario-november-18th))
-- SoftBank regrets ‘mistake’ of not backing Anthropic, says Son (FT, [5 hours ago](https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0?syn-25a6b1a6=1))
-- A Chinese bottle-cap manufacturer brilliantly deflated AI hype (Register, [7 hours ago](https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651))
-- Estêvão dazzles; Pedro Neto scores and sees red; and three make their debuts (WAGNH, [7 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-international-duty/174093/estevao-dazzles-pedro-neto-scores-and-sees-red-and-three-make-their-debuts))
-- Temu's compliance regime is low-quality, fits badly, and full of holes, says Europe (Register, [7 hours ago](https://www.theregister.com/legal/2026/11/18/temus-compliance-regime-is-low-quality-fits-badly-and-full-of-holes-says-europe/5310684))
-- Donation points for That's Proper Chels campaign to continue at Saturday’s match (CFC, [7 hours ago](https://www.chelseafc.com/en/news/article/donation-points-for-thats-proper-chels-campaign-to-commence))
-- Low-profile VCs set for $100bn windfall from Anthropic IPO (FT, [8 hours ago](https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1))
-- Wall Street expects corporate earnings growth to halve next year (FT, [8 hours ago](https://www.ft.com/content/74fdac03-bd9b-4e68-9e6e-dc023eb47be9?syn-25a6b1a6=1))
-- AI asked ‘better questions’ than KPMG accountants in pilot audit (FT, [8 hours ago](https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05?syn-25a6b1a6=1))
-- Oracle reveals fix-this-ASAP-grade Java4Shell bug that allows attacks on many third-party apps (Register, [9 hours ago](https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661))
-- Tax and price updates for apps, In-App Purchases, and subscriptions (Apple, [13 hours ago](https://developer.apple.com/news/?id=4o5ie73a))
-- Juan Mata retires: Free-kick vs Man Utd (CFC, [13 hours ago](https://www.chelseafc.com/en/video/juan-mata-retires))
-- Internationals: Neto scores as Quenda and Antwi make debuts (CFC, [15 hours ago](https://www.chelseafc.com/en/news/article/internationals-neto-scores-as-quenda-and-antwi-make-debuts))
-- Key talking points from Bompastor and Cuthbert's pre-Paris Saint-Germain press conference (CFC, [20 hours ago](https://www.chelseafc.com/en/news/article/key-talking-points-from-bompastor-and-cuthberts-pre-paris-saint-germain))
+- Plenty of healthy people are low on iron. Here’s why it gets missed (Euronews, [6 minutes ago](https://www.euronews.com/2026/11/19/plenty-of-healthy-people-are-low-on-iron-heres-why-it-gets-missed))
+- FIFA U-17 World Cup opens in Qatar as four European nations make tournament debuts (Euronews, [12 minutes ago](https://www.euronews.com/2026/11/19/fifa-u-17-world-cup-opens-in-qatar-as-four-european-nations-make-their-tournament-debuts))
+- Qualcomm offers test drive of its rack-scale Nvidia AI challenger (Register, [20 minutes ago](https://www.theregister.com/systems/2026/11/19/qualcomm-offers-test-drive-of-its-rack-scale-nvidia-ai-challenger/5310966))
+- This country’s AI ambitions: From public services to global markets (Euronews, [22 minutes ago](https://www.euronews.com/2026/11/19/this-countrys-ai-ambitions-from-public-services-to-global-markets))
+- The key to Anthropic’s value (FT, [36 minutes ago](https://www.ft.com/content/aa8290dc-a20a-45af-97ab-1e71f97f236a?syn-25a6b1a6=1))
+- Data centre energy consumption could double by 2030 straining grids, IEA warns (Euronews, [45 minutes ago](https://www.euronews.com/2026/11/19/data-centre-energy-consumption-could-double-by-2030-straining-grids-iea-warns))
+- Voyager 1 celebrates one light-day with a nice lie-down (Register, [1 hours ago](https://www.theregister.com/science/2026/11/19/voyager-1-celebrates-one-light-day-with-a-nice-lie-down/5310991))
+- French Comté crowned world's best at the 2026 World Cheese Awards (Euronews, [1 hours ago](https://www.euronews.com/2026/11/19/french-comte-crowned-worlds-best-at-the-2026-world-cheese-awards))
+- Fossil fuels scrubbed from COP31 draft deal despite growing momentum (Euronews, [1 hours ago](https://www.euronews.com/2026/11/19/fossil-fuels-scrubbed-from-cop31-draft-deal-despite-growing-momentum))
+- Xi, Trump and Putin hail ‘groundbreaking’ meeting (FT, [1 hours ago](https://www.ft.com/content/3fde6008-d9c4-46a3-89f8-0f7611cd9b3a?syn-25a6b1a6=1))
+- 'It's surreal': US gamers get their first taste of long-awaited GTA VI (Euronews, [1 hours ago](https://www.euronews.com/video/2026/11/19/its-surreal-us-gamers-get-their-first-taste-of-long-awaited-gta-vi))
+- UN court rules Myanmar committed genocide in landmark ruling (FT, [1 hours ago](https://www.ft.com/content/411d28f3-5adf-4a2f-9390-bc3372b4b3a9?syn-25a6b1a6=1))
+- Microsoft To Do will soon become Microsoft Done (Register, [1 hours ago](https://www.theregister.com/personal-tech/2026/11/19/microsoft-to-do-will-soon-become-microsoft-done/5310973))
+- Ukraine strikes key bridge linking Russia and Crimea for third time this week, halting rail traffic (Euronews, [2 hours ago](https://www.euronews.com/2026/11/19/ukraine-strikes-key-bridge-linking-russia-and-crimea-for-third-time-this-week-halting-rail))
+- Myanmar guilty of genocide against Rohingya UN court rules (Euronews, [2 hours ago](https://www.euronews.com/2026/11/19/myanmar-guilty-of-genocide-against-rohingya-un-court-rules))
+- UK inflation hits 12-month high: What's driving the rise in prices? (Euronews, [2 hours ago](https://www.euronews.com/2026/11/19/uk-inflation-hits-12-month-high-on-surging-motor-fuel-costs))
+- Cyberattack on service provider exposes payee data at 40 Irish credit unions (Register, [2 hours ago](https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979))
+- Anthropic is a ‘must own’ (FT, [3 hours ago](https://www.ft.com/content/4224e2ed-116c-466b-97f4-54a5ef43a54e))
+- TfL takes Oyster photocard website offline after attackers compromise customer accounts (Register, [3 hours ago](https://www.theregister.com/security/2026/11/19/tfl-takes-oyster-photocard-website-offline-after-attackers-compromise-customer-accounts/5310985))
+- Anthropic to make Wall Street debut after record IPO (FT, [3 hours ago](https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1))
+- Sticky note on monitor provided keys to the company’s kingdom (Register, [4 hours ago](https://www.theregister.com/security/2026/11/19/sticky-note-on-monitor-provided-keys-to-the-companys-kingdom/5310908))
+- The Daily Hilario: …here’s Thursday! (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/174142/the-daily-hilario-heres-thursday))
+- Air strike hits Saudi sovereign wealth fund headquarters (FT, [4 hours ago](https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1))
+- Uncensored AI models are thriving on code hosting platforms (Register, [4 hours ago](https://www.theregister.com/ai-and-ml/2026/11/19/uncensored-ai-models-are-thriving-on-code-hosting-platforms/5310891))
+- Ibrahim Rabbaj named in Morocco squad for Under-17 World Cup (CFC, [5 hours ago](https://www.chelseafc.com/en/news/article/ibrahim-rabbaj-named-in-morocco-squad-for-under-17-world-cup))
+- Google continues model chemistry experiment with Neon (Register, [5 hours ago](https://www.theregister.com/ai-and-ml/2026/11/19/google-continues-model-chemistry-experiment-with-neon/5310934))
+- Henderson details how Blues are working to build the 'best version of ourselves' (CFC, [6 hours ago](https://www.chelseafc.com/en/news/article/henderson-details-how-blues-are-working-to-build-the-best-version-of))
+- Walsh outlines importance of Blues' competitive mentality after PSG win (CFC, [7 hours ago](https://www.chelseafc.com/en/news/article/walsh-outlines-importance-of-blues-competitive-mentality-after-psg-win))
+- GTA VI didn't break the internet, thanks to 'stupid DNS tricks' (Register, [8 hours ago](https://www.theregister.com/networks/2026/11/19/gta-vi-didnt-break-the-internet-thanks-to-stupid-dns-tricks/5310950))
+- Angry America and its housing market (FT, [9 hours ago](https://www.ft.com/content/9450175e-3da3-4df3-bd93-050683bbb98a?syn-25a6b1a6=1))
+- Gold loses its lustre for investors (FT, [9 hours ago](https://www.ft.com/content/86aaff9a-0d0f-49dd-81fc-4c96bcbf2f32?syn-25a6b1a6=1))
+- Adani: the billionaire at the heart of Modi’s India (FT, [9 hours ago](https://www.ft.com/content/e1867545-5142-4ee5-b092-b7e04ac04b66?syn-25a6b1a6=1))
+- South Korea tries to out exam cheats with Extreme Emergency smartphone alert (Register, [10 hours ago](https://www.theregister.com/personal-tech/2026/11/19/south-korea-tries-to-out-exam-cheats-with-extreme-emergency-smartphone-alert/5310942))
+- Musk says he feels ‘foolish’ for donating nearly $500mn to Republicans (FT, [12 hours ago](https://www.ft.com/content/1af0d736-d5e5-4601-989d-638c9cea74b2?syn-25a6b1a6=1))
+- Bompastor: Everyone in the team loves to defend (CFC, [14 hours ago](https://www.chelseafc.com/en/news/article/bompastor-everyone-in-the-team-loves-to-defend))
+- Match report: Chelsea Women 1-0 Paris Saint-Germain (CFC, [15 hours ago](https://www.chelseafc.com/en/news/article/match-report-chelsea-women-1-0-paris-saint-germain))
+- Chelsea FCW 1-0 Paris Saint-Germain Féminine, UEFA Women’s Champions League: Post-match reaction (WAGNH, [16 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/174128/chelsea-fcw-1-0-paris-saint-germain-feminine-uefa-womens-champions-league-post-match-reaction))
+- Chelsea FCW vs. Paris Saint-Germain Féminine, UEFA Women’s Champions League: Confirmed lineups; how to watch (WAGNH, [19 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/174121/chelsea-fcw-vs-paris-saint-germain-feminine-uefa-womens-champions-league-confirmed-lineups-how-to-watch))
 
 <!-- news_marker ends -->
 
@@ -130,7 +114,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
-> greek - verb tr.: 1. To fill (a layout) with placeholder text, symbols, or lines. 2. To hide or alter brand names or logos on products used in film or television.
+ > pedlar's French - noun: 1. Thieves' cant or similar private jargon. 2. Unintelligible language; gibberish.
 
 <!-- word_marker ends -->
 
@@ -138,41 +122,35 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> Agile is a philosophy, not a methodology. - Paul Bennett
+> One thing you cannot take away from me is how I choose to respond to what you do to me. The last of one's freedoms is to choose one's attitudes in any circumstances. - Viktor Frankl
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-
-> Lowest common denominator check
-> -single beat
-> -single note
-> -single
+> Abandon normal instruments
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-
-- Bound (Rated: 5)
-- Released in 1996
-- Summary: Tough ex-con Corky and her lover Violet concoct a scheme to steal millions of stashed mob money and pin the blame on Violet's crooked boyfriend Caesar.
-
+- Practical Magic (Rated: 3)
+- Released in 1998
+- Summary: Two witch sisters, raised by their eccentric aunts in a small town, face closed-minded prejudice and a curse which threatens to prevent them ever finding lasting love.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 810, using [1, 6, 25, 50, 75, 100]
-- Answer: 3 solutions.
+- Target: 777, using [3, 4, 8, 9, 10, 25]
+- Answer: 17 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 / 25 + 50 ) x 75 / ( 6 - 1 )
+  Solution: ( ( 25 - 10 ) x 8 - 9 ) x ( 4 + 3 )
 
    </details>
 
@@ -181,11 +159,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-
-- Victor Wynne [URL](https://victorwynne.com/) [Feed](https://victorwynne.com/feed.xml)
-- Karl Hughes [URL](https://www.karllhughes.com/) [Feed](https://www.karllhughes.com/feed.xml)
-- Krebs on Security [URL](https://krebsonsecurity.com/) [Feed](http://krebsonsecurity.com/feed/)
-- Data Goddess [URL](https://sparklineadvisory.com/) [Feed](http://thedatagoddess.com/feed/)
-- Dan North [URL](https://dannorth.net/) [Feed](http://DanNorth.net/index.xml)
-
+- Leading Answers [URL](https://www.leadinganswers.com/) [Feed](http://leadinganswers.typepad.com/leading_answers/atom.xml)
+- Anna Shipman [URL](https://www.annashipman.co.uk/) [Feed](https://www.annashipman.co.uk/atom.xml)
+- Ned Batch [URL](https://nedbatchelder.com/blog) [Feed](https://nedbatchelder.com/blog/rss.xml)
+- The 5k Runner [URL](https://the5krunner.com/) [Feed](http://the5krunner.com/feed/)
+- Peter Suhm [URL](https://petersuhm.com/) [Feed](https://petersuhm.com/feed/feed.xml)
 <!-- blogroll_marker ends -->
