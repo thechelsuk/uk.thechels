@@ -14,6 +14,7 @@ import os
 import re
 import pathlib
 from datetime import datetime
+from urllib.parse import urlparse
 
 import requests
 import yaml
@@ -106,11 +107,15 @@ def changes_only(notes: str) -> str:
     return match.group(1).strip() if match else text
 
 
+def _on_host(host: str, domain: str) -> bool:
+    return host == domain or host.endswith("." + domain)
+
+
 def cited_for(link: str) -> str:
-    host = link.lower()
-    if "apps.apple.com" in host:
+    host = (urlparse(link).hostname or "").lower()
+    if _on_host(host, "apps.apple.com"):
         return "App Store"
-    if "gumroad.com" in host:
+    if _on_host(host, "gumroad.com"):
         return "Gumroad"
     return "thechels.uk"
 

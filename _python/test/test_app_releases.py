@@ -160,6 +160,17 @@ def test_cited_follows_store_link():
         "https://thechelsuk.gumroad.com/l/dmarc") == "Gumroad"
 
 
+def test_cited_matches_the_link_host_not_its_text():
+    assert app_releases.cited_for(
+        "https://example.com/?next=apps.apple.com") == "thechels.uk"
+    assert app_releases.cited_for(
+        "https://gumroad.com.example.com/l/x") == "thechels.uk"
+    assert app_releases.cited_for("/projects") == "thechels.uk"
+    assert app_releases.cited_for(
+        "https://APPS.APPLE.COM/gb/app/x/id1") == "App Store"
+    assert app_releases.cited_for("https://gumroad.com/l/x") == "Gumroad"
+
+
 def test_more_about_links_to_marketing_site_when_there_is_one():
     body = app_releases.build_body(
         "Tomoz", {
