@@ -10,6 +10,7 @@ video_id: "9m77BXutGu0"
 short: true
 image: "https://i2.ytimg.com/vi/9m77BXutGu0/hqdefault.jpg"
 ---
+
 Flashcards get guessed and worksheets get rushed. In Mltply, Buddy the robot asks one question at a time and kids know instantly if they're right. Free, no ads.
 
 [Watch on YouTube](https://www.youtube.com/shorts/9m77BXutGu0)
