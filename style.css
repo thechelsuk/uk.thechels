@@ -16,8 +16,6 @@
     font-display: swap;
 }
 
-/* Self-hosted so code and breadcrumbs look the same for every visitor.
-   Latin subset; the 500 file also serves bold. */
 @font-face {
     font-family: "JetBrains Mono";
     src: url("fonts/JetBrainsMono-Regular.woff2") format("woff2");
