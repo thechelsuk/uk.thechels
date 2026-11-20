@@ -9,7 +9,7 @@ seo_description:
   page."
 type: release
 cited: App Store
-link: https://apps.apple.com/app/id6832117624
+link: https://apps.apple.com/gb/app/opmlman-feeds-manager/id6832117624
 release_id: github-release:thechelsuk/com.uk.thechels.opmlman/v202701.1
 release_repo: com.uk.thechels.opmlman
 release_project: opmlman

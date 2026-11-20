@@ -6,7 +6,7 @@ seo_description: "OPMLMan checks the feeds in your OPML files and shows which ar
 permalink: /projects/opmlman
 class: applications
 i_name: Download on the App Store
-i_url: "https://apps.apple.com/app/id6832117624"
+i_url: "https://apps.apple.com/gb/app/opmlman-feeds-manager/id6832117624"
 i_image: "/images/apps/opmlman-banner.png"
 i_icon: "/images/apps/opmlman-icon.png"
 summary: "OPMLMan opens the OPML files from your feed reader or podcast app, checks every feed, and shows which are still alive."
@@ -55,4 +55,4 @@ iPhone, iPad and Mac.
 
 ### Where can I get it?
 
-OPMLMan is [on the App Store](https://apps.apple.com/app/id6832117624) for iPhone, iPad and Mac.
+OPMLMan is [on the App Store](https://apps.apple.com/gb/app/opmlman-feeds-manager/id6832117624) for iPhone, iPad and Mac.
