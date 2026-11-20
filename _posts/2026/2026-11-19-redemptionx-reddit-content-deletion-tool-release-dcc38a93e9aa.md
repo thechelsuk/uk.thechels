@@ -3,7 +3,8 @@ layout: post
 date: 2026-11-19 20:10
 title: RedemptionX - Reddit content deletion tool Version v1.2.4
 seo_title: RedemptionX - Reddit content deletion tool Version v1.2.4
-seo_description: Release notes for RedemptionX - Reddit content deletion tool version
+seo_description:
+  Release notes for RedemptionX - Reddit content deletion tool version
   v1.2.4. See what changed in this version. Most of my projects are free and open
   source.
 type: release

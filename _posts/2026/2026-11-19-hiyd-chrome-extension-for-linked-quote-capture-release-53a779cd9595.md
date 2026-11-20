@@ -3,9 +3,10 @@ layout: post
 date: 2026-11-19 20:10
 title: Hiyd - Chrome Extension for Linked/Quote capture Version v2.0.2
 seo_title: Hiyd - Chrome Extension for Linked/Quote capture Version
-seo_description: 'Release notes for Hiyd - Chrome Extension for Linked/Quote capture
+seo_description:
+  "Release notes for Hiyd - Chrome Extension for Linked/Quote capture
   version v2.0.2: Bump jest-environment-jsdom from 30.4.1 to 30.5.0; Bump jest from
-  30.4.2...'
+  30.4.2..."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/ext-chrome-hiyd/releases/tag/v2.0.2

@@ -10,6 +10,7 @@ video_id: "emD7074eOeo"
 short: true
 image: "https://i2.ytimg.com/vi/emD7074eOeo/hqdefault.jpg"
 ---
+
 ShortKeys keeps every template as a short key, with the line breaks intact. iPhone text replacement can't do that. Free to download.
 
 [Watch on YouTube](https://www.youtube.com/shorts/emD7074eOeo)
