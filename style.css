@@ -1045,7 +1045,6 @@ a {
     color: var(--secondary);
 }
 
-/* Inline code: the site's mono, a step smaller so it sits level with body text. */
 :not(pre) > code {
     font-family: var(--font-mono);
     font-size: 0.85em;
@@ -1736,7 +1735,6 @@ img.project-icon,
 }
 
 /* ---------- Featured card ---------- */
-
 
 .project-featured {
     display: grid;
