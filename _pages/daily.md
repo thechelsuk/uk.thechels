@@ -13,6 +13,7 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Friday, 20 November 2026
 
 - The average temperature today is 8.42˚C,
@@ -27,6 +28,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 204 days since the last change (2026-04-30)
 
@@ -35,6 +37,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Farmers Market in town
 
 <!-- task_marker ends -->
@@ -42,35 +45,42 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Bias towards action.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Southend United v Boreham Wood
 - Barnsley v Sheffield Wednesday
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 129.50999450683594 
-- ^FTSE : 10336.0498046875 
-- ^FTMC : 23676.2109375 
+- VWRL.L : 129.50999450683594
+- ^FTSE : 10336.0498046875
+- ^FTMC : 23676.2109375
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > I have missed out on joining a well-known large sweet manufacturing business. To be honest it was my fault as I choked in the practical interview. And clearly bit off more than I could chew.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Norway signs carbon credit deals with Indonesia and Morocco to help fund renewable energy (Euronews, [2 minutes ago](https://www.euronews.com/2026/11/20/norway-signs-carbon-credit-deals-with-indonesia-and-morocco-to-help-fund-renewable-energy))
 - Chevron to begin offshore oil and gas exploration in Greece (Euronews, [9 minutes ago](https://www.euronews.com/2026/11/20/chevron-to-begin-offshore-oil-and-gas-exploration-in-greece))
 - Microsoft suggests Registry hack to work around hotpatch woes (Register, [19 minutes ago](https://www.theregister.com/os-platforms/2026/11/20/microsoft-suggests-registry-hack-to-work-around-hotpatch-woes/5311279))
@@ -117,7 +127,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > Esperanto - noun: 1. A constructed language designed for use as an international second language. 2. A shared means of communication or expression across cultural or other boundaries.
+> Esperanto - noun: 1. A constructed language designed for use as an international second language. 2. A shared means of communication or expression across cultural or other boundaries.
 
 <!-- word_marker ends -->
 
@@ -132,6 +142,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > What would your closest friend do?
 
 <!-- eno_marker ends -->
@@ -139,9 +150,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Fast & Furious Presents: Hobbs & Shaw (2019) (Rated: 4)
 - Released in 2019
 - Summary: An undercover Los Angeles police officer infiltrates an illegal street racing crew suspected of high-speed cargo hijackings.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -162,9 +175,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Ellane N [URL](https://ellanew.com/) [Feed](https://ellanew.com/feed.rss)
 - A11y Weekly [URL](https://a11yweekly.com/) [Feed](https://a11yweekly.com/feed/)
 - Jon Shamir [URL](https://jonshamir.com/) [Feed](https://jonshamir.com/rss.xml)
 - Karl Hughes [URL](https://www.karllhughes.com/) [Feed](https://www.karllhughes.com/feed.xml)
 - HeyDingus [URL](https://heydingus.net/) [Feed](https://heydingus.net/feed.rss)
+
 <!-- blogroll_marker ends -->
