@@ -12,6 +12,8 @@
   url: https://github.com/thechelsuk/uk.thechels.boinc/releases.atom
 - id: Links
   url: https://github.com/thechelsuk/uk.thechels.links/releases.atom
+- id: CFC News
+  url: https://github.com/thechelsuk/uk.thechels.cfcnews/releases.atom
 - id: NNW Theme Bundle
   url: https://github.com/thechelsuk/uk.thechels.themes-nnw/releases.atom
 - id: Thechels.uk
