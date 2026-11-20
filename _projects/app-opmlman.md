@@ -17,7 +17,11 @@ short_title: "OPMLMan: Feeds Manager"
 pitch: "Opens the OPML files from your feed reader or podcast app, checks every feed, and shows which are still alive."
 i_image_width: 1200
 i_image_height: 800
-coming_soon: true # not on the App Store yet; remove when it launches
+# From the App Store lookup (itunes.apple.com/lookup), 2026-11-20
+app_os: "iOS, iPadOS, macOS"
+app_category: "UtilitiesApplication"
+app_price: "0"
+app_currency: "GBP"
 ---
 
 OPMLMan opens the OPML file from your feed reader or podcast app, checks every feed, and tells you which are active, which have gone quiet, which have moved and which are gone for good. Then it helps you tidy up and export a clean list.
