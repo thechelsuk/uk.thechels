@@ -37,16 +37,14 @@
 /* ---------------------------------- */
 
 :root {
-    /* Shared by every theme: one gold accent (header stripe, asterisks,
-       avatar ring, link underlines, borders, table headers). */
+
     --accent: #e0b84a;
-    /* White Smoke: text and lines on the header and footer band, and the avatar backdrop.
-       Text on Gold (table headers, webmention initials) is Night on every theme. */
+
     --on-band: #f5f4f4;
     --on-accent: #04100d;
     --avatar-bg: var(--on-band);
     --shadow: rgb(0 0 0 / 0.1);
-    --font-stack: "thechelsuk", ui-rounded, -system-ui, "Helvetica Neue", sans-serif;
+    --font-stack: "thechelsuk", ui-rounded, system-ui, "Helvetica Neue", sans-serif;
     --header-stack: var(--font-stack);
     --font-mono: "JetBrains Mono", ui-monospace, monospace, "Courier New";
     --trans:
@@ -88,8 +86,6 @@
     --hairline: 1px solid var(--tab);
 }
 
-/* Each theme: page colours, then the header band (white text on --band,
-   muted text on --band-2). The page background carries the band's hue. */
 
 /* Day (default): bright blue sky on off-white. */
 :root,
@@ -192,8 +188,6 @@ html {
     background: var(--band);
 }
 
-/* Full-height column: header, page, then the footer grows to fill any
-   space left, so its band and grid reach the bottom of the window. */
 body {
     min-height: 100vh;
     display: flex;
@@ -235,8 +229,6 @@ body {
     line-height: var(--leading);
 }
 
-/* Footer: full-bleed band in the header's colours, with the same gold stripe
-   and grid. Side padding keeps the content in line with the 832px column. */
 #footer {
     flex: 1 0 auto;
     position: relative;
@@ -271,9 +263,6 @@ body {
 /* ----------  Header bar  ---------- */
 /* ---------------------------------- */
 
-/* Full-width band: nav and theme toggle, then avatar, title and slogan.
-   Coloured with the theme's --band tokens; the accent stripe underneath
-   stands in for the old secondary + accent top borders. */
 .band {
     flex-shrink: 0;
     --band-h: 230px;
@@ -789,8 +778,6 @@ a {
     font: var(--step--1)/1.6 var(--font-mono);
     color: var(--muted);
 
-    /* Same separator as every inline link list: "/" after each item, never leading a line. The last child is
-       the hidden author, so the last visible item is second from the end. */
     > span:not(:nth-last-child(-n + 2))::after {
         content: "/";
         margin: 0 var(--space-2);
@@ -1014,10 +1001,6 @@ a {
         color: var(--accent);
     }
 }
-
-/* Headings. The page title closes the page header with the one gold rule; when a count line follows the title,
-   the rule moves under the count line so crumbs, title and count read as one block. Section headings (h2) get a
-   hairline; h3 and below get none. The hover "#" sits at the right-hand end. */
 #wrapper :is(h1, h2, h3, h4, h5, h6) {
     line-height: var(--leading-tight);
     padding-right: 1.2em;
@@ -1420,8 +1403,6 @@ table {
 
 /* ---------- Page header: crumbs, title, count line ---------- */
 
-/* The line under a page title that says how much the page holds: "35 projects // Applications / Plugins".
-   It closes the page header with the gold rule. */
 .page-meta {
     display: flex;
     flex-wrap: wrap;
@@ -1446,16 +1427,12 @@ table {
 
 /* ---------- Inline link lists ---------- */
 
-/* Links in a line, separated by "/". The separator follows each link (never leads one), so a wrapped line always
-   starts with a word. Used in the count line, the year jump links and the filtered-view links. */
 .link-list a,
 .page-meta__links a {
     text-decoration: none;
     white-space: nowrap;
 }
 
-/* Inline and inside the nowrap link, so the line can only break at the space after the separator. Markup puts
-   one space between links: that space is the gap after the "/". */
 .link-list a:not(:last-child)::after,
 .page-meta__links a:not(:last-child)::after {
     content: "/";
@@ -1474,8 +1451,6 @@ table {
 
 /* ---------- Homepage post-type filter ---------- */
 
-/* Part of the count line: one icon button per post type. Each is a real link to that type's archive; with
-   JavaScript on, it filters the list in place and rewrites the count. The selected icon carries the gold rule. */
 .type-filter {
     display: flex;
     flex-wrap: wrap;
@@ -1527,7 +1502,6 @@ table {
     }
 }
 
-/* The count text grows to say what's showing ("278 ride posts // full archive"). */
 .page-meta--home {
     padding-bottom: 0;
 }
@@ -1541,7 +1515,6 @@ table {
         display: block;
     }
 
-    /* Two rows of eight 40px targets: every type visible, none scrolled out of sight. */
     .type-filter {
         display: grid;
         grid-template-columns: repeat(8, minmax(0, 1fr));
@@ -1561,8 +1534,6 @@ table {
 
 /* ---------- Post lists ---------- */
 
-/* One row per post: type icon, title, then the date and length in the meta type. Desktop: meta on the right.
-   Phone: meta under the title, lined up with the title text. */
 .posts:not(.project-row) {
     display: grid;
     grid-template-columns: 1.25em minmax(0, 1fr) auto;
@@ -1614,9 +1585,7 @@ table {
 }
 
 /* ---------- Section headings ---------- */
-/* Defined with the other headings above: h2 has a hairline, the page title the gold rule. */
 
-/* The first section heading after the page header needs less room: the gold rule already separates them. */
 #blog-archives > h2:first-child,
 .page-meta + #blog-archives > h2:first-child {
     margin-top: var(--space-6);
@@ -1629,9 +1598,6 @@ table {
 
 /* ---------- Action buttons ---------- */
 
-/* A project's buttons. Every one is 40px tall with the App Store badge's corner, so a row never mixes sizes.
-   Primary: Apple's badge as supplied, or an ink button (the theme's text colour) for anywhere else.
-   Secondary: outlined in the line colour. Not yet out: dashed, not a link. */
 .actions {
     display: flex;
     flex-wrap: wrap;
@@ -1773,10 +1739,7 @@ img.project-icon,
 
 /* ---------- Featured card ---------- */
 
-/* One project, picked at random on each build: banner on the left, text and buttons on the right. The banners are
-   1200x800 (app-store-art social-card), taller than the text beside them, so the banner sets the card's height and
-   the text sits in the middle. Below 860px the text would outgrow it, so the banner goes on top instead. The card
-   is the only boxed thing on the projects page. */
+
 .project-featured {
     display: grid;
     grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
