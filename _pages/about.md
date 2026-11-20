@@ -27,17 +27,24 @@ Hosted on [GitHub Pages](https://pages.github.com), the site uses [Jekyll](https
 
 The site is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) (PWA) and can be installed on devices from modern browsers. There is no cookies or tracking other than some of the CloudFlare protection and RUA. The site builds as static html and css, uses browser and Cloudflare caching and scores highly in performance scanning tools and in Lighthouse scores with 100% across the board. At the time of checking the site has [valid HTML](https://validator.w3.org/nu/?doc=https%3A%2F%2Fthechels.uk%2F) and [valid CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fthechels.uk&profile=css3svg). There is minimal JavaScript used on the site purely for the [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) for caching and offline support. The site also utilises a web App Manifest for Progressive Web App (PWA) support.
 
-![website colour scheme](/images/colour-scheme.png)
-
-The font-family is a custom font, `thechelsuk`, hosted on the site and used throughout; code and breadcrumbs use `JetBrains Mono`, also hosted locally. If the custom font fails, the site falls back to the operating system's rounded or system font via `ui-rounded` and `-system-ui`, and as a last resort `sans-serif`. This means it should look natural and native to the operating system in use should the primary font not work. The primary colour scheme is `White Smoke` as the background, `Night` for text, `Brunswick Green` for links, `Lapis Lazuli` for some additional/secondary text e.g., post meta data and sub headings, and finally `Gold` is used for accents e.g., the header stripe and asterisks, borders, separators, quote bars, table header backgrounds, and little bits of whimsy. `Gold` is the same on every theme. Tables are `Gray Cloud` with `Snow` for the alternate rows, and code blocks have a background of `fffafa`.
+The font-family is a custom font, `thechelsuk`, hosted on the site and used throughout; code and breadcrumbs use `JetBrains Mono`, also hosted locally. If the custom font fails, the site falls back to the operating system's rounded or system font via `ui-rounded` and `-system-ui`, and as a last resort `sans-serif`. This means it should look natural and native to the operating system in use should the primary font not work.
 
 There are four themes, sunrise (red), day (blue), sunset (plum) and night (midnight), picked with the buttons in the header. The fifth button, system, follows your device: day in light mode, night in dark mode, which is also what a first visit gets. The site sets a variable in local browser storage to remember a picked theme\*, and clicking the asterisk after the title cycles through the four.
+
+Every theme uses its colours for the same jobs: the background; text and headings; links; secondary text, such as footnotes, list numbers and post-type icons; the header band; table borders; and a tint for alternate table rows and code blocks. Post metadata is the text colour softened into the background. `Gold` is the accent on every theme: the header stripe and asterisks, rules and separators, callout bars, table header backgrounds and little bits of whimsy.
+
+- Day: a `White Smoke` background, `Night` text, `Lapis Lazuli` for links, secondary text and the header band, `Gray Cloud` table borders and `Snow` alternate rows.
+- Sunrise: a `Linen` background, `Bistre` text, `Burnt Umber` for links, secondary text and the header band, `Desert Sand` table borders and `Floral White` alternate rows.
+- Sunset: a `Dark Purple` background, `Lavender Blush` text, `Lavender Pink` for links and secondary text, a `Byzantium` header band, `English Violet` table borders and `Aubergine` alternate rows.
+- Night: a `Gunmetal` background, `Platinum` text, `Jordy Blue` for links and secondary text, an `Oxford Blue` header band, `Charcoal` table borders and `Space Cadet` alternate rows.
+
+![Colour swatches for the four themes. Day: White Smoke f5f4f4, Night 04100d, Lapis Lazuli 005ca3, Gray Cloud b6b6b4, Snow fffafa. Sunrise: Linen f7efe1, Bistre 2e1f14, Burnt Umber 8b2f2f, Desert Sand dccab1, Floral White f9f3e8. Sunset: Dark Purple 2e2230, Lavender Blush f6eaf0, Lavender Pink f0b3d6, Byzantium 6e2f63, English Violet 4a3850, Aubergine 362839. Night: Gunmetal 222838, Platinum e3e7ef, Jordy Blue 8fbaff, Oxford Blue 151b2e, Charcoal 3a4258, Space Cadet 283044. Gold e0b84a on all four.](/images/colour-scheme.png)
 
 The site uses some icons to denote the type of content these should be self explanatory but ultimately these are all just decorative and non-functional. Certain content is presented in blocks that have a left border and an icon. `[]` denotes code, `>` for quotes, and `ⓘ` for callouts.
 
 ## Memberships
 
-Proud to be featured and part of [personalsit.es](https://personalsit.es), [indieweb news](https://news.indieweb.org/en), [bubble.town](https://bubbles.town/source/thechels.uk), [sourcefeed.app](https://www.sourcefeed.app/feeds/ae38cdf5-79c1-4abc-a22d-f0a987288ee1), and [Nuchronic.uk](https://nuchronic.uk).
+Proud to be featured and part of [personalsit.es](https://personalsit.es), [indieweb news](https://news.indieweb.org/en), [bubble.town](https://bubbles.town/source/thechels.uk), [sourcefeed.app](https://www.sourcefeed.app/feeds/ae38cdf5-79c1-4abc-a22d-f0a987288ee1), and [nuchronic.uk](https://nuchronic.uk).
 
 Support the small indie web.
 
