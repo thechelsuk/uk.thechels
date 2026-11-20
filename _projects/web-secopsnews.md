@@ -2,7 +2,7 @@
 layout: projects
 title: SecOpsNews
 seo_title: "SecOpsNews - Security News Dashboard, Feeds and Tools"
-seo_description: "A security news, advisory and critical CVE dashboard for engineering leaders, plus open source feeds, a feed to issues template and an SBOM script."
+seo_description: "A security news, advisory and critical CVE dashboard for engineering leaders, plus open source feeds, SBOM and vulnerability checks, and a repo security audit."
 permalink: /projects/secopsnews
 class: websites
 i_name: Visit
@@ -33,6 +33,12 @@ SecOpsNews brings security news, government advisories, critical CVEs, data brea
 ## SBOM script
 
 - A Python script that scans a folder and writes a software bill of materials, `sbom.json`, in CycloneDX 1.6 format. It reads Python, npm, Ruby, Go, Rust, PHP, Swift and CocoaPods manifests and lock files, using the Python standard library only.
-- [View the script](https://github.com/SecOpsNews/script_sbom.py) &rarr;
+- A second script checks the SBOM against [OSV.dev](https://osv.dev) and lists known vulnerabilities, with their CVEs and the versions that fix them.
+- [View the scripts](https://github.com/SecOpsNews/script_sbom.py) &rarr;
+
+## Repo security audit
+
+- A Python script that checks the security settings of every repository a GitHub user or organisation owns: Dependabot, secret scanning, push protection, private vulnerability reporting, code scanning, branch protection and a security policy. It writes a Markdown report of what's on and what to fix.
+- [View the script](https://github.com/SecOpsNews/script_repo_security_audit.py) &rarr;
 
 All are open source, under an MIT licence.

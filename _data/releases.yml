@@ -28,6 +28,8 @@
   url: https://github.com/SecOpsNews/script_sbom.py/releases.atom
 - id: SecOpsNews - Template - feed to issues
   url: https://github.com/SecOpsNews/template-feed-to-issues/releases.atom
+- id: SecOpsNews - Repo security audit (python)
+  url: https://github.com/SecOpsNews/script_repo_security_audit.py/releases.atom
 - id: CF Worker X Redirect
   url: https://github.com/thechelsuk/cf-worker-x-redirect/releases.atom
 - id: CF Worker Emailer
