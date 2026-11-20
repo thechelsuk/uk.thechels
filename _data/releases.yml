@@ -24,6 +24,10 @@
   url: https://github.com/thechelsuk/homebridge-ysa2/releases.atom
 - id: SecOpsNews
   url: https://github.com/SecOpsNews/news/releases.atom
+- id: SecOpsNews - SBOM script (python)
+  url: https://github.com/SecOpsNews/script_sbom.py/releases.atom
+- id: SecOpsNews - Template - feed to issues
+  url: https://github.com/SecOpsNews/template-feed-to-issues/releases.atom
 - id: CF Worker X Redirect
   url: https://github.com/thechelsuk/cf-worker-x-redirect/releases.atom
 - id: CF Worker Emailer
