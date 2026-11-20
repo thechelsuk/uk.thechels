@@ -12,7 +12,7 @@ seo_description: "OPMLMan checks the feeds in your OPML files and shows which ar
 type: blog
 ---
 
-Today I'm announcing the release of OPMLMan for iOS.  As it sounds the app helps manage and check OPML files (RSS, YouTube, Podcasts).
+Today I'm announcing the release of OPMLMan for iOS. As it sounds the app helps manage and check OPML files (RSS, YouTube, Podcasts).
 
 Open the export OPML file from your feed reader or podcast app, tap Check, and it tells you which feeds are active, which have gone quiet, which have moved and which are gone for good.
 
