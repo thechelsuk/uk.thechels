@@ -6,7 +6,7 @@ seo_description: "Unsettled is an iPhone escape game hidden in an ordinary-looki
 permalink: /projects/unsettled
 class: applications
 i_name: Download on the iOS App Store
-i_url: "https://apps.apple.com/gb/app/unsettled-impossible-escape/id6819058615"
+i_url: "https://apps.apple.com/gb/app/unsettled-impossible-escape/id6819058615?pt=127889770&ct=project&mt=8"
 i_image: "/images/apps/unsettled-banner.png"
 i_icon: "/images/apps/unsettled-icon.png"
 summary: "Unsettled is an escape game hidden in an ordinary-looking phone. The screen is blank, a mail icon has one unread message, and every message from Unsettled Corp is a lock that gives up a number."

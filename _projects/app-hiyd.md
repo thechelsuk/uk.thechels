@@ -6,7 +6,7 @@ seo_description: "Hiyd is an iOS companion app for Jekyll sites: capture ideas, 
 permalink: /projects/hiyd
 class: applications
 i_name: Download on the iOS App Store
-i_url: "https://apps.apple.com/gb/app/hiyd/id6746853559"
+i_url: "https://apps.apple.com/gb/app/hiyd/id6746853559?pt=127889770&ct=project&mt=8"
 i_image: "/images/apps/hiyd-banner.png"
 i_icon: "/images/apps/hiyd-icon.png"
 summary: "Hiyd is a lightweight companion for those running a Jekyll-powered site, similar markdown-led static-site generation, or document stores from your phone. Capture ideas, draft posts, and export clean front-matter without opening a laptop."

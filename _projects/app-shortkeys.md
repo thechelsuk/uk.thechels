@@ -6,7 +6,7 @@ seo_description: "ShortKeys is an iOS text expansion app and custom keyboard. Sa
 permalink: /projects/shortkeys
 class: applications
 i_name: Download on the iOS App Store
-i_url: "https://apps.apple.com/gb/app/shortkeys/id6755919256"
+i_url: "https://apps.apple.com/gb/app/shortkeys/id6755919256?pt=127889770&ct=project&mt=8"
 i_image: "/images/apps/shortkeys-banner.png"
 i_icon: "/images/apps/shortkeys-icon.png"
 summary: "ShortKeys is a productivity app for people who live in text. Build multi-line snippets, drop them behind memorable keyboard shortkeys, and fly through forms, support replies, or daily journaling."

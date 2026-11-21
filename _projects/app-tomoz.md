@@ -6,7 +6,7 @@ seo_description: "Tomoz is an iOS app showing only tomorrow's calendar events an
 permalink: /projects/tomoz
 class: applications
 i_name: Download on the iOS App Store
-i_url: "https://apps.apple.com/gb/app/tomoz/id6748755747"
+i_url: "https://apps.apple.com/gb/app/tomoz/id6748755747?pt=127889770&ct=project&mt=8"
 i_image: "/images/apps/tomoz-banner.png"
 i_icon: "/images/apps/tomoz-icon.png"
 summary: "Tomoz makes it easy to plan for tomorrow today. Pick and choose calendars, add in reminders, and get a clear unified view of tomorrow."

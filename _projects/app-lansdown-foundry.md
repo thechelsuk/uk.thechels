@@ -6,7 +6,7 @@ seo_description: "Lansdown Foundry turns Apple Pencil handwriting into a real, i
 permalink: /projects/foundry
 class: applications
 i_name: Download on the App Store
-i_url: "https://apps.apple.com/gb/app/lansdown-foundry-make-fonts/id6817508991"
+i_url: "https://apps.apple.com/gb/app/lansdown-foundry-make-fonts/id6817508991?pt=127889770&ct=project&mt=8"
 i_image: "/images/apps/foundry-banner.png"
 i_icon: "/images/apps/foundry-icon.png"
 summary: "Draw your own fonts on iPad and Mac, then export and install them."

@@ -6,7 +6,7 @@ seo_description: "Opiuml is a private podcast player for iPhone, iPad, Apple Wat
 permalink: /projects/opiuml
 class: applications
 i_name: Download on the iOS App Store
-i_url: "https://apps.apple.com/gb/app/opiuml-podcast-player/id6823693348"
+i_url: "https://apps.apple.com/gb/app/opiuml-podcast-player/id6823693348?pt=127889770&ct=project&mt=8"
 i_image: "/images/apps/opiuml-banner.png"
 i_icon: "/images/apps/opiuml-icon.png"
 summary: "Opiuml is a podcast player built around two lists: an Inbox for everything new, and a Queue for what you actually want to hear."
@@ -56,4 +56,4 @@ iPhone and iPad with iOS 18 or later, Apple Watch with watchOS 11 or later, and 
 
 ### Where can I get it?
 
-Opiuml is [available now on the App Store](https://apps.apple.com/gb/app/opiuml-podcast-player/id6823693348) for iPhone, iPad, Apple Watch and CarPlay.
+Opiuml is [available now on the App Store](https://apps.apple.com/gb/app/opiuml-podcast-player/id6823693348?pt=127889770&ct=project&mt=8) for iPhone, iPad, Apple Watch and CarPlay.

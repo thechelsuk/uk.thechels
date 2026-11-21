@@ -6,7 +6,7 @@ seo_description: "Mltply is a chat-style iOS maths app for kids. Buddy the robot
 permalink: /projects/mltply
 class: applications
 i_name: Download on the iOS App Store
-i_url: "https://apps.apple.com/gb/app/mltply/id6747147316"
+i_url: "https://apps.apple.com/gb/app/mltply/id6747147316?pt=127889770&ct=project&mt=8"
 i_image: "/images/apps/mltply-banner.png"
 i_icon: "/images/apps/mltply-icon.png"
 i_foss: "https://github.com/thechelsuk/com.uk.thechels.mltply"

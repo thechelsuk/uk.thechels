@@ -6,7 +6,7 @@ seo_description: "EngMan is an iOS app with 200 coaching cards, prompts and fram
 permalink: /projects/engman
 class: applications
 i_name: Download on the iOS App Store
-i_url: "https://apps.apple.com/gb/app/engman/id6747295473"
+i_url: "https://apps.apple.com/gb/app/engman/id6747295473?pt=127889770&ct=project&mt=8"
 i_image: "/images/apps/engman-banner.png"
 i_icon: "/images/apps/engman-icon.png"
 summary: "EngMan is an iOS app for engineering leaders who want rapid access to coaching prompts, frameworks, and conversation starters. Dip into focused topics whenever you need a nudge ahead of a 1:1 or a tricky stakeholder chat."
