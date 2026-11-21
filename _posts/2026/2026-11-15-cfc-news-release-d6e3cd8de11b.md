@@ -3,7 +3,8 @@ layout: post
 date: 2026-11-15 19:16
 title: CFC News Version v1.1.1
 seo_title: CFC News Version v1.1.1 Release Notes
-seo_description: Release notes for CFC News version v1.1.1. See what changed in this
+seo_description:
+  Release notes for CFC News version v1.1.1. See what changed in this
   version. Most of my projects are free and open source.
 type: release
 cited: GitHub

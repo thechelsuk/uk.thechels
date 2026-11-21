@@ -3,7 +3,8 @@ layout: post
 date: 2026-06-22 15:07
 title: Template - Python script Version v1.0.4
 seo_title: Template - Python script Version v1.0.4 Release Notes
-seo_description: Release notes for Template - Python script version v1.0.4. See what
+seo_description:
+  Release notes for Template - Python script version v1.0.4. See what
   changed in this version. Most of my projects are free and open source.
 type: release
 cited: GitHub

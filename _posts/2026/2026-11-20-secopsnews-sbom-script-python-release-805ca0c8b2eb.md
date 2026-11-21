@@ -3,8 +3,9 @@ layout: post
 date: 2026-11-20 23:06
 title: SecOpsNews - SBOM script (python) Version v1.1.0
 seo_title: SecOpsNews - SBOM script (python) Version v1.1.0 Release
-seo_description: 'Release notes for SecOpsNews - SBOM script (python) version v1.1.0:
-  Add osv check.py , which checks an SBOM against OSV.dev and lists known vulnerabilities...'
+seo_description:
+  "Release notes for SecOpsNews - SBOM script (python) version v1.1.0:
+  Add osv check.py , which checks an SBOM against OSV.dev and lists known vulnerabilities..."
 type: release
 cited: GitHub
 link: https://github.com/SecOpsNews/script_sbom.py/releases/tag/v1.1.0

@@ -3,8 +3,9 @@ layout: post
 date: 2026-11-20 23:06
 title: SecOpsNews - Template - feed to issues Version 1.0.0
 seo_title: SecOpsNews - Template - feed to issues Version 1.0.0 Release
-seo_description: 'Release notes for SecOpsNews - Template - feed to issues version
-  1.0.0: Add the feed to issues template; Add the shared release workflow.'
+seo_description:
+  "Release notes for SecOpsNews - Template - feed to issues version
+  1.0.0: Add the feed to issues template; Add the shared release workflow."
 type: release
 cited: GitHub
 link: https://github.com/SecOpsNews/template-feed-to-issues/releases/tag/1.0.0

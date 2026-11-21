@@ -3,9 +3,10 @@ layout: post
 date: 2026-11-20 23:06
 title: SecOpsNews Version 1.1.0
 seo_title: SecOpsNews Version 1.1.0 Release Notes
-seo_description: 'Release notes for SecOpsNews version 1.1.0: Add Cloudflare Radar''s
+seo_description:
+  "Release notes for SecOpsNews version 1.1.0: Add Cloudflare Radar's
   critical CVE feed, with its own Critical CVEs panel on the dashboard; Publish every
-  feed...'
+  feed..."
 type: release
 cited: GitHub
 link: https://github.com/SecOpsNews/news/releases/tag/1.1.0
