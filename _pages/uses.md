@@ -16,6 +16,7 @@ last_modified_at: "2026-10-04"
   - Logitech MX Master 3 Wireless Mouse,
   - RK ROYAL KLUDGE NK80 Wireless Mechanical Keyboard.
   - Dell S3422DWG 34 inch WQHD Monitor.
+  - LG UltraWide U6 34U640B 34 inch WQHD Monitor.
 - Raspberry Pi 400 running Homebridge
 - Apple Watch Series 9
 - AirPod Pro 2nd Gen (USB-C model) x2.
@@ -27,17 +28,17 @@ last_modified_at: "2026-10-04"
 
 ## Apps
 
-- [Castro](https://castro.fm) (Podcasts)
+- [Opiuml](https://apps.apple.com/gb/app/opiuml-podcast-player/id6823693348?pt=127889770&ct=uses&mt=8) (Podcasts)
 - [1Password](https://1password.com) (Password Manager)
 - [NetNewsWire](https://netnewswire.com/) (News/RSS)
 - [Working Copy](https://workingcopyapp.com) (Git Client)
 - [Drafts](https://getdrafts.com) (Notes)
-- [GoodLinks](https://goodlinks.app) (Bookmarks)
-- [Tomoz](https://apps.apple.com/gb/app/tomoz/id6748755747) (Productivity)
-- [EngMan](https://apps.apple.com/gb/app/engman/id6747295473) (Coaching)
-- [Hiyd](https://apps.apple.com/gb/app/hiyd/id6746853559) (Productivity)
-- [ShortKeys](https://apps.apple.com/gb/app/shortkeys/id6755919256) (Productivity)
-- [Play](https://marcosatanaka.com) & [extension.app](https://extension.app/) (Video Management and Playback)
+- [OPMLMan](https://apps.apple.com/gb/app/opmlman-feeds-manager/id6832117624?pt=127889770&ct=uses&mt=8) (Feeds)
+- [Tomoz](https://apps.apple.com/gb/app/tomoz/id6748755747?pt=127889770&ct=uses&mt=8) (Productivity)
+- [EngMan](https://apps.apple.com/gb/app/engman/id6747295473?pt=127889770&ct=uses&mt=8) (Coaching)
+- [Hiyd](https://apps.apple.com/gb/app/hiyd/id6746853559?pt=127889770&ct=uses&mt=8) (Productivity)
+- [ShortKeys](https://apps.apple.com/gb/app/shortkeys/id6755919256?pt=127889770&ct=uses&mt=8) (Productivity)
+- [extension.app](https://extension.app/) (Video Management and Playback)
 - [Bobby](https://bobbyapp.co) (Budgeting)
 - [1.1.1.1](https://one.one.one.one/) (DNS/VPN)
 - [Scriptable](https://scriptable.app) (Coding)
