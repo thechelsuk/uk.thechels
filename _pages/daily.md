@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-11-21
+date: 2026-11-22
 last_modified_at: "2026-10-16"
 ---
 
@@ -13,132 +13,105 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+## On Sunday, 22 November 2026
 
-## On Saturday, 21 November 2026
-
-- The average temperature today is 9.86˚C,
-- With highs of 11.03˚C and lows of 9.41˚C,
-- It may feel like 7.82˚C with clear sky
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 78%
-- The sun will rise at 07:37 and set at 16:10
+- The average temperature today is 7.91˚C,
+- With highs of 8.47˚C and lows of 7.06˚C,
+- It may feel like 4.53˚C with few clouds
+- The wind speed is 6.17m/s and visibility is 10000m
+- The pressure is 1010hPa and humidity is 78%
+- The sun will rise at 07:39 and set at 16:09
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 
 <!-- threat_marker starts -->
-
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 205 days since the last change (2026-04-30)
+- It has been 206 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-
 - No tasks today
-
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-
-> Challenge assumptions.
-
+> Seek the best.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-
-- Chelsea U18 v Arsenal U18
-- AFC Bournemouth U18 v Crystal Palace U18
-- Manchester United U18 v Derby County U18
-- Tottenham Hotspur U18 v Southampton U18
-- Millwall v QPR
-- Norwich City v Cardiff City
-- Southampton v Derby County
-- Blackpool v Wigan Athletic
-- Reading v Bromley
-- Gillingham v Crewe Alexandra
-- Newport County v Swindon Town
-- Solihull Moors v Altrincham
-- Tamworth v Eastleigh
-- Manchester City v Fulham
-- Liverpool Women v Chelsea Women
-- London City Lionesses v Crystal Palace Women
-- Yeovil Town v Forest Green Rovers
-- Newcastle United v Arsenal
-
+- Burnley v Blackburn Rovers
+- Birmingham City Women v Manchester United Women
+- Manchester City Women v Tottenham Hotspur Women
+- Hull City v Brighton & Hove Albion
+- Ipswich Town Women v Southampton Women
+- Charlton Athletic Women v Aston Villa Women
+- Everton Women v Brighton & Hove Albion Women
+- Arsenal Women v West Ham United Women
+- Liverpool v Manchester United
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 129.0500030517578
-- ^FTSE : 10346.2998046875
-- ^FTMC : 23651.69921875
+- VWRL.L : 129.0500030517578 
+- ^FTSE : 10346.2998046875 
+- ^FTMC : 23651.69921875 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-
-> Where do they make facts? At the factory.
-
+> What are two landmasses favourite game? -  Bridge.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-
-- EU budget: Costa pitches more cuts, Big Tech tax to break deadlock (Euronews, [56 minutes ago](https://www.euronews.com/2026/11/21/eu-budget-costa-pitches-more-cuts-big-tech-tax-to-break-deadlock))
-- Strait of Hormuz: Athlete swims through war zone to expose war's environmental toll (Euronews, [1 hours ago](https://www.euronews.com/video/2026/11/21/strait-of-hormuz-athlete-swims-through-war-zone-to-expose-wars-environmental-toll))
-- European Union and Indonesia sign free trade deal after decade of talks (Euronews, [1 hours ago](https://www.euronews.com/2026/11/21/european-union-and-indonesia-sign-free-trade-deal-after-decade-of-talks))
-- Navy budget pick has family investments in Trump Jr-linked contractor (FT, [1 hours ago](https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1))
-- Traders start to move US copper to China as Trump tariff fears ease (FT, [1 hours ago](https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1))
-- Liverpool FCW vs. Chelsea FCW, Women’s Super League: Confirmed lineups; how to watch (WAGNH, [1 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/174212/liverpool-fcw-vs-chelsea-fcw-womens-super-league-confirmed-lineups-how-to-watch))
-- ChatGPT shrunk down to run on a Super Nintendo (Register, [1 hours ago](https://www.theregister.com/offbeat/2026/11/21/chatgpt-shrunk-down-to-run-on-a-super-nintendo/5311418))
-- Chelsea Women's starting line up vs Liverpool confirmed (CFC, [1 hours ago](https://www.chelseafc.com/en/news/article/chelsea-womens-starting-line-up-vs-liverpool-confirmed))
-- Hagia Sophia's hidden tunnels uncovered as 420 metres of underground network cleaned (Euronews, [1 hours ago](https://www.euronews.com/2026/11/21/hagia-sophias-hidden-tunnels-uncovered-as-420-metres-of-underground-network-cleaned))
-- French President Macron warns of 'new level' of Russian aggression (Euronews, [2 hours ago](https://www.euronews.com/2026/11/21/french-president-macron-warns-of-new-level-of-russian-aggression))
-- Latest news bulletin November 21st, 2026 – Midday (Euronews, [2 hours ago](https://www.euronews.com/video/2026/11/21/latest-news-bulletin-november-21st-2026-midday))
-- Japan: Autonomous air taxi completes passenger flight without a pilot (Euronews, [3 hours ago](https://www.euronews.com/video/2026/11/21/japan-autonomous-air-taxi-completes-passenger-flight-without-a-pilot))
-- Anthropic worker claims to have solved famed 167-year-old maths problem with help of AI (Euronews, [3 hours ago](https://www.euronews.com/2026/11/21/anthropic-worker-claims-to-have-solved-famed-167-year-old-maths-problem-with-help-of-ai))
-- Off the Record: Europe shrugs as Trump's Yalta knockoff flops (Euronews, [3 hours ago](https://www.euronews.com/2026/11/21/off-the-record-europe-shrugs-as-trumps-yalta-knockoff-flops))
-- Chelsea fans’ preferred lineup against Leeds United: Back four and Mike Penders (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/174205/chelsea-fans-preferred-lineup-against-leeds-united-back-four-and-mike-penders))
-- Pentagon declassifies new UFO footage filmed by US military (Euronews, [4 hours ago](https://www.euronews.com/video/2026/11/21/pentagon-declassifies-new-ufo-footage-filmed-by-us-military))
-- Alonso underlines importance of control on and off the ball (CFC, [4 hours ago](https://www.chelseafc.com/en/news/article/alonso-underlines-importance-of-control-on-and-off-the-ball))
-- The Daily Hilario: Saturday (WAGNH, [5 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/174184/the-daily-hilario-november-21st))
-- NASA Mars rover and orbiter suffer glitches (Register, [5 hours ago](https://www.theregister.com/science/2026/11/21/nasa-mars-rover-and-orbiter-suffer-glitches/5311360))
-- Chelsea vs. Leeds United, Premier League: Preview, team news, how to watch (WAGNH, [5 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/174187/chelsea-vs-leeds-united-premier-league-preview-team-news-how-to-watch))
-- Bompastor highlights Cuthbert's importance ahead of 'difficult' Liverpool test (CFC, [6 hours ago](https://www.chelseafc.com/en/news/article/bompastor-highlights-cuthberts-importance-ahead-of-difficult-liverpool-test))
-- The dead hand of history weighs on Deutsche Bank (FT, [6 hours ago](https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920))
-- Chelsea vs Leeds: All you need to know (CFC, [7 hours ago](https://www.chelseafc.com/en/news/article/chelsea-vs-leeds-all-you-need-to-know-26-27))
-- The manufacturing of novelty (FT, [8 hours ago](https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97?syn-25a6b1a6=1))
-- CVC claims accounting manipulation in €3bn Advent pastry ingredients deal (FT, [8 hours ago](https://www.ft.com/content/06999b01-07f1-44a1-8eab-a5d5e7ecd70f?syn-25a6b1a6=1))
-- The AI cyber threat is already here (FT, [8 hours ago](https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1))
-- Russia and Ukraine’s drone war sends optical fibre prices soaring (FT, [8 hours ago](https://www.ft.com/content/339c3a72-bce5-44ed-bc6c-c8a8199cfb40?syn-25a6b1a6=1))
-- Amazon's split personality: AWS embraces bot commerce while main site enforces bans (Register, [13 hours ago](https://www.theregister.com/ai-and-ml/2026/11/20/amazons-split-personality-aws-embraces-bot-commerce-while-main-site-enforces-bans/5311493))
-- PHP 8.6: Things are gonna get a lot more strict around here (Register, [13 hours ago](https://www.theregister.com/devops/2026/11/20/php-86-things-are-gonna-get-a-lot-more-strict-around-here/5311486))
-- Latest update on James and Lacroix returns from Alonso (CFC, [14 hours ago](https://www.chelseafc.com/en/news/article/latest-update-on-james-and-lacroix-returns-from-alonso))
-- Nvidia faces US regulator’s probe into its accounting (FT, [15 hours ago](https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1))
-- US tech stocks plunge into bear market in worst week since Covid-19 crisis (FT, [15 hours ago](https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1))
-- Visa, Mastercard theft included info useful for phishing, but not draining bank accounts, say researchers (Register, [15 hours ago](https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478))
-- How should Chelsea line up against Leeds United? (WAGNH, [16 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/174177/how-should-chelsea-line-up-against-leeds-united))
-- Signal slams door on prying AI agents to protect privacy (Register, [16 hours ago](https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466))
-- Liverpool FCW vs. Chelsea FCW, Women&#8217;s Super League: Preview, team news, how to watch (WAGNH, [17 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/174162/liverpool-fcw-vs-chelsea-fcw-womens-super-league-preview-team-news-how-to-watch))
-- Donald Trump threatens ‘tremendous’ tax on data centres built outside US (FT, [17 hours ago](https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1))
-- Nvidia’s journey to forge the one CPU SKU to rule them all (Register, [18 hours ago](https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438))
-- Alonso says Blues are ‘building an identity’ but need consistency (CFC, [19 hours ago](https://www.chelseafc.com/en/news/article/alonso-says-blues-are-building-an-identity-but-need-consistency))
-- China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server (Register, [19 hours ago](https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382))
-- Dutch data watchdog highlights safety issues with AI glasses (Register, [20 hours ago](https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345))
-- AI boom threatens circuit board crunch to rival pandemic-era chip shortage (Register, [21 hours ago](https://www.theregister.com/systems/2026/11/20/ai-boom-threatens-circuit-board-crunch-to-rival-pandemic-era-chip-shortage/5311335))
+- Xi needs Trump more than ever (FT, [17 minutes ago](https://www.ft.com/content/4dbdecf6-396d-4629-8600-8a55034a9827))
+- Sanctioned Russian vessel ablaze in Finnish waters after drone attack (FT, [53 minutes ago](https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1))
+- Emergency workers recover at least six body bags after Indonesian factory fire (Euronews, [55 minutes ago](https://www.euronews.com/2026/11/22/emergency-workers-recover-at-least-six-body-bags-after-indonesian-factory-fire))
+- Nscale slows hiring and curtails spending ahead of planned $35bn IPO (FT, [1 hours ago](https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8))
+- 15 people missing after Russian drone strike on Kyiv region (Euronews, [1 hours ago](https://www.euronews.com/2026/11/22/14-people-missing-after-russian-drone-strike-on-kyiv-region))
+- Latest news bulletin  November 22nd, 2026 – Midday (Euronews, [2 hours ago](https://www.euronews.com/video/2026/11/22/latest-news-bulletin-november-22nd-2026-midday))
+- Did Anthropic and its bankers get a key call wrong after IPO? (FT, [2 hours ago](https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e))
+- Democrats will seek to unwind Trump’s tax and tariff policies (FT, [2 hours ago](https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359?syn-25a6b1a6=1))
+- Mongolia faces snap presidential vote as outgoing leader calls for constitutional reform (Euronews, [2 hours ago](https://www.euronews.com/2026/11/22/mongolia-faces-snap-presidential-vote-as-outgoing-leader-calls-for-constitutional-reform))
+- Ukraine: Up to seven feared trapped beneath rubble near Kyiv after Russian attack (Euronews, [2 hours ago](https://www.euronews.com/video/2026/11/22/ukraine-up-to-seven-feared-trapped-beneath-rubble-near-kyiv-after-russian-attack))
+- Euronews' Attila Kert tapped to lead Hungary's public broadcaster (Euronews, [3 hours ago](https://www.euronews.com/2026/11/22/euronews-attila-kert-picked-to-lead-hungarys-public-broadcaster))
+- Japan: Mascot mania takes over Saitama with 200 colourful characters (Euronews, [3 hours ago](https://www.euronews.com/video/2026/11/22/japan-mascot-mania-takes-over-saitama-with-200-colourful-characters))
+- Tracking site says Iranian tanker reportedly sailing through Strait of Hormuz does not exist (Euronews, [3 hours ago](https://www.euronews.com/2026/11/22/tracking-site-says-iranian-tanker-reportedly-sailing-through-strait-of-hormuz-does-not-exi))
+- Portugal: Workers brave downpours to demand a more affordable life (Euronews, [3 hours ago](https://www.euronews.com/video/2026/11/22/portugal-workers-brave-downpours-to-demand-a-more-affordable-life))
+- Passive 'ghost' radar can detect airborne threats without revealing its own position (Register, [4 hours ago](https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023))
+- Reported FBI hack 'not good' but could have benefits, Trump says (Euronews, [4 hours ago](https://www.euronews.com/2026/11/22/reported-fbi-hack-not-good-but-could-have-benefits-trump-says))
+- Come for the science, stay for the big iron: Supercomputer admin on why he loves the job (Register, [4 hours ago](https://www.theregister.com/hpc/2026/11/22/come-for-the-science-stay-for-the-big-iron-supercomputer-admin-on-why-he-loves-the-job/5311247))
+- The Daily Hilario: ¡Vamos Republic! (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/174250/the-daily-hilario-vamos-republic))
+- Bronze frustrated after dominant display against Liverpool (CFC, [7 hours ago](https://www.chelseafc.com/en/news/article/bronze-frustrated-after-dominant-display-against-liverpool))
+- A rocky road to Irish unity (FT, [8 hours ago](https://www.ft.com/content/4d467ab8-00a7-4937-8775-30a42a00131f?syn-25a6b1a6=1))
+- Napoleon’s warning to Nvidia’s Jensen Huang (FT, [8 hours ago](https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a?syn-25a6b1a6=1))
+- Tech suppliers raise AI server prices up to 45% months after deals are signed (FT, [8 hours ago](https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1))
+- Private equity backers flag fresh concerns about sell-to-yourself deals (FT, [8 hours ago](https://www.ft.com/content/d299785f-dc83-4850-95b8-e08b9a643f98?syn-25a6b1a6=1))
+- 'We can't let setbacks affect us' (CFC, [17 hours ago](https://www.chelseafc.com/en/video/xabi-alonso-post-leeds-utd-or-premier-league-or-2026-27))
+- Bompastor: We must be more clinical and find a better balance (CFC, [17 hours ago](https://www.chelseafc.com/en/news/article/bompastor-we-must-be-more-clinical-and-find-a-better-balance))
+- Alonso updates on Caicedo’s game changing injury (CFC, [18 hours ago](https://www.chelseafc.com/en/news/article/alonso-updates-on-caicedos-game-changing-injury))
+- Full Match: Chelsea vs Leeds United (CFC, [19 hours ago](https://www.chelseafc.com/en/video/pl-full-match-chelsea-vs-leeds-united-or-premier-league-or-2026-27))
+- Extended: Chelsea 1-4 Leeds United (CFC, [20 hours ago](https://www.chelseafc.com/en/video/pl-extended-highlights-chelsea-1-4-leeds-united-or-premier-league-or-2026))
+- PL Highlights: Chelsea 1-4 Leeds United (CFC, [20 hours ago](https://www.chelseafc.com/en/video/pl-highlights-chelsea-1-4-leeds-united-or-premier-league-or-2026-27))
+- Alice Huang’s links to the chip underworld (FT, [20 hours ago](https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1))
+- Bompastor provides Mayra Ramirez and Manaka Matsukubo injury update (CFC, [20 hours ago](https://www.chelseafc.com/en/news/article/bompastor-provides-mayra-ramirez-and-manaka-matsukubo-injury-update))
+- Chelsea 1-4 Leeds United, Premier League: Post-match reaction, ratings (WAGNH, [20 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/174237/chelsea-1-4-leeds-united-premier-league-post-match-reaction-ratings))
+- Liverpool FCW 0-0 Chelsea FCW, Women’s Super League: Post-match reaction (WAGNH, [22 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/174223/liverpool-fcw-0-0-chelsea-fcw-womens-super-league-post-match-reaction))
+- AWS got hit by an outage too. Here's why you didn't hear about it (Register, [22 hours ago](https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511))
+- Chelsea vs. Leeds United, Premier League: Lineups &#038; Game Thread (WAGNH, [23 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/174210/chelsea-vs-leeds-united-premier-league-confirmed-lineups-how-to-watch))
 
 <!-- news_marker ends -->
 
@@ -146,7 +119,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
-> Esperanto - noun: 1. A constructed language designed for use as an international second language. 2. A shared means of communication or expression across cultural or other boundaries.
+ > Esperanto - noun: 1. A constructed language designed for use as an international second language. 2. A shared means of communication or expression across cultural or other boundaries.
 
 <!-- word_marker ends -->
 
@@ -154,38 +127,35 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> The benefit of allowing a team to self-organize is not that the team finds some optimal organization for their work that a manager may have missed. Rather, it is that by allowing the team to self-organize, they are encouraged to fully own the problem. - Mike Cohn, Agile Trainer and Author
+> You improvise. You adapt. You overcome. - Clint Eastwood, as Sergeant Highway in Heartbreak Ridge
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-
-> Look closely at the most embarrassing details and amplify them
+> Use an old idea
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-
-- The Ice Road (Rated: 3)
-- Released in 2021
-- Summary: After a remote diamond mine collapses in far northern Canada, a 'big-rig' ice road driver must lead an impossible rescue mission over a frozen lake to save the trapped miners.
-
+- Five Nights at Freddy's (Rated: 3)
+- Released in 2023
+- Summary: A troubled security guard begins working at Freddy Fazbear's Pizza. During his five nights on the job, he realizes that something is wrong with the pizzeria and pretty soon finds the truth about its animatronics.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 698, using [2, 6, 25, 50, 75, 100]
-- Answer: 23 solutions.
+- Target: 713, using [6, 6, 25, 50, 75, 100]
+- Answer: 2 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 6 ) x 100 x 2 / 25 + 50
+  Solution: ( 100 + 6 ) x 6 + 50 / 25 + 75
 
    </details>
 
@@ -194,11 +164,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-
-- Bogdan on Digital Accessibility [URL](https://cerovac.com/a11y) [Feed](https://cerovac.com/a11y/feed/)
-- Monevator [URL](https://monevator.com/) [Feed](https://feeds.feedburner.com/monevatorcom)
-- CJ Chilvers [URL](https://www.cjchilvers.com/) [Feed](http://cjchilvers.com/blog?format=rss)
-- Information is Beautiful [URL](https://informationisbeautiful.net/) [Feed](http://feeds.feedburner.com/InformationIsBeautiful)
-- Tyler Sticka [URL](https://tylersticka.com/) [Feed](https://tylersticka.com/journal/feed.xml)
-
+- Vlad's Website [URL](https://vlad.website/) [Feed](https://vlad.website/index.xml)
+- Jeff Geerling [URL](https://www.jeffgeerling.com/) [Feed](https://www.jeffgeerling.com/blog.xml)
+- Non-zero Sum [URL](https://nonzerosum.games/) [Feed](https://nonzerosum.games/rss.xml)
+- Matt Stein [URL](https://mattstein.com/) [Feed](https://mattstein.com/rss.xml)
+- Peter Suhm [URL](https://petersuhm.com/) [Feed](https://petersuhm.com/feed/feed.xml)
 <!-- blogroll_marker ends -->
