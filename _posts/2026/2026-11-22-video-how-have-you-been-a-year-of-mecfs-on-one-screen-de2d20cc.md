@@ -10,6 +10,7 @@ video_id: "kbirKl_atro"
 short: true
 image: "https://i4.ytimg.com/vi/kbirKl_atro/hqdefault.jpg"
 ---
+
 At appointments the bad weeks blur together. Nuchronic logs energy and symptoms in a few taps and shows the whole year at once. Free, no account, everything stays on your phone.
 
 [Watch on YouTube](https://www.youtube.com/shorts/kbirKl_atro)
