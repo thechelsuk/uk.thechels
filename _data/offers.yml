@@ -46,6 +46,26 @@
   link: "https://apps.apple.com/gb/app/unsettled/id6819058615?pt=127889770&ct=offers&mt=8"
   title: "Unsettled - An escape game hidden in an ordinary-looking phone on iOS."
   type: "app"
+- id: x-opiuml
+  link: "https://apps.apple.com/gb/app/opiuml-podcast-player/id6823693348?pt=127889770&ct=save&mt=8"
+  title: "Opiuml - A podcast player for iPhone, iPad, Apple Watch and CarPlay. Free to download, then £17.99 a year after a one-week free trial."
+  type: "app"
+- id: x-opmlman
+  link: "https://apps.apple.com/gb/app/opmlman-feeds-manager/id6832117624?pt=127889770&ct=save&mt=8"
+  title: "OPMLMan - Check, tidy and export your OPML feed lists on iPhone, iPad and Mac. Free."
+  type: "app"
+- id: x-foundry
+  link: "https://apps.apple.com/gb/app/lansdown-foundry-make-fonts/id6817508991?pt=127889770&ct=save&mt=8"
+  title: "Lansdown Foundry - Turn your handwriting into an installable font on iPad and Mac. £19.99."
+  type: "app"
+- id: x-stickers
+  link: "https://apps.apple.com/gb/app/thechelsuk-sticker-pack/id6756540286?pt=127889770&ct=save&mt=8"
+  title: "thechelsuk Sticker Pack - 56 stickers for iMessage. £0.99."
+  type: "app"
+- id: x-demarkable
+  link: "https://thechelsuk.gumroad.com/l/dmarc"
+  title: "Demarkable - Read DMARC and SMTP TLS reports on macOS. £4 on Gumroad."
+  type: "app"
 - id: z-GitHub
   link: "https://github.com/sponsors/thechelsuk"
   title: "Sponsor thechelsuk on GitHub."
@@ -57,6 +77,10 @@
 - id: z-bubble
   link: "https://thechelsuk.redbubble.com"
   title: "Support thechelsuk with merch from Redbubble."
+  type: "support"
+- id: z-shop
+  link: "https://shop.thechels.uk"
+  title: "Support thechelsuk with a purchase from the shop on Gumroad."
   type: "support"
 - id: 0-cybaa
   link: "https://cybaa.io/?ref=thechelsuk"
