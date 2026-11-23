@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-11-22
+date: 2026-11-23
 last_modified_at: "2026-10-16"
 ---
 
@@ -13,14 +13,14 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Sunday, 22 November 2026
+## On Monday, 23 November 2026
 
-- The average temperature today is 7.91˚C,
-- With highs of 8.47˚C and lows of 7.06˚C,
-- It may feel like 4.53˚C with few clouds
-- The wind speed is 6.17m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 78%
-- The sun will rise at 07:39 and set at 16:09
+- The average temperature today is 6.36˚C,
+- With highs of 6.87˚C and lows of 5.94˚C,
+- It may feel like 3.76˚C with broken clouds
+- The wind speed is 3.6m/s and visibility is 10000m
+- The pressure is 1023hPa and humidity is 79%
+- The sun will rise at 07:41 and set at 16:08
 
 <!-- weather_marker ends -->
 
@@ -28,14 +28,15 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 206 days since the last change (2026-04-30)
+- It has been 207 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-- No tasks today
+- Garden Waste Day
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
@@ -47,71 +48,60 @@ _Good Morning, Here is your daily briefing..._
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Burnley v Blackburn Rovers
-- Birmingham City Women v Manchester United Women
-- Manchester City Women v Tottenham Hotspur Women
-- Hull City v Brighton & Hove Albion
-- Ipswich Town Women v Southampton Women
-- Charlton Athletic Women v Aston Villa Women
-- Everton Women v Brighton & Hove Albion Women
-- Arsenal Women v West Ham United Women
-- Liverpool v Manchester United
+- Brentford v Everton
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 129.0500030517578 
-- ^FTSE : 10346.2998046875 
-- ^FTMC : 23651.69921875 
+- VWRL.L : 133.8699951171875 
+- ^FTSE : 10473.6298828125 
+- ^FTMC : 24048.400390625 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> What are two landmasses favourite game? -  Bridge.
+> It is very difficult to find work during a recession and every workplace is affected, just a few days ago I heard lots of firefighters were getting fired.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-- Xi needs Trump more than ever (FT, [17 minutes ago](https://www.ft.com/content/4dbdecf6-396d-4629-8600-8a55034a9827))
-- Sanctioned Russian vessel ablaze in Finnish waters after drone attack (FT, [53 minutes ago](https://www.ft.com/content/2c959c95-97a5-4957-9eb2-8436c34ba374?syn-25a6b1a6=1))
-- Emergency workers recover at least six body bags after Indonesian factory fire (Euronews, [55 minutes ago](https://www.euronews.com/2026/11/22/emergency-workers-recover-at-least-six-body-bags-after-indonesian-factory-fire))
-- Nscale slows hiring and curtails spending ahead of planned $35bn IPO (FT, [1 hours ago](https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8))
-- 15 people missing after Russian drone strike on Kyiv region (Euronews, [1 hours ago](https://www.euronews.com/2026/11/22/14-people-missing-after-russian-drone-strike-on-kyiv-region))
-- Latest news bulletin  November 22nd, 2026 – Midday (Euronews, [2 hours ago](https://www.euronews.com/video/2026/11/22/latest-news-bulletin-november-22nd-2026-midday))
-- Did Anthropic and its bankers get a key call wrong after IPO? (FT, [2 hours ago](https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e))
-- Democrats will seek to unwind Trump’s tax and tariff policies (FT, [2 hours ago](https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359?syn-25a6b1a6=1))
-- Mongolia faces snap presidential vote as outgoing leader calls for constitutional reform (Euronews, [2 hours ago](https://www.euronews.com/2026/11/22/mongolia-faces-snap-presidential-vote-as-outgoing-leader-calls-for-constitutional-reform))
-- Ukraine: Up to seven feared trapped beneath rubble near Kyiv after Russian attack (Euronews, [2 hours ago](https://www.euronews.com/video/2026/11/22/ukraine-up-to-seven-feared-trapped-beneath-rubble-near-kyiv-after-russian-attack))
-- Euronews' Attila Kert tapped to lead Hungary's public broadcaster (Euronews, [3 hours ago](https://www.euronews.com/2026/11/22/euronews-attila-kert-picked-to-lead-hungarys-public-broadcaster))
-- Japan: Mascot mania takes over Saitama with 200 colourful characters (Euronews, [3 hours ago](https://www.euronews.com/video/2026/11/22/japan-mascot-mania-takes-over-saitama-with-200-colourful-characters))
-- Tracking site says Iranian tanker reportedly sailing through Strait of Hormuz does not exist (Euronews, [3 hours ago](https://www.euronews.com/2026/11/22/tracking-site-says-iranian-tanker-reportedly-sailing-through-strait-of-hormuz-does-not-exi))
-- Portugal: Workers brave downpours to demand a more affordable life (Euronews, [3 hours ago](https://www.euronews.com/video/2026/11/22/portugal-workers-brave-downpours-to-demand-a-more-affordable-life))
-- Passive 'ghost' radar can detect airborne threats without revealing its own position (Register, [4 hours ago](https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023))
-- Reported FBI hack 'not good' but could have benefits, Trump says (Euronews, [4 hours ago](https://www.euronews.com/2026/11/22/reported-fbi-hack-not-good-but-could-have-benefits-trump-says))
-- Come for the science, stay for the big iron: Supercomputer admin on why he loves the job (Register, [4 hours ago](https://www.theregister.com/hpc/2026/11/22/come-for-the-science-stay-for-the-big-iron-supercomputer-admin-on-why-he-loves-the-job/5311247))
-- The Daily Hilario: ¡Vamos Republic! (WAGNH, [4 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/174250/the-daily-hilario-vamos-republic))
-- Bronze frustrated after dominant display against Liverpool (CFC, [7 hours ago](https://www.chelseafc.com/en/news/article/bronze-frustrated-after-dominant-display-against-liverpool))
-- A rocky road to Irish unity (FT, [8 hours ago](https://www.ft.com/content/4d467ab8-00a7-4937-8775-30a42a00131f?syn-25a6b1a6=1))
-- Napoleon’s warning to Nvidia’s Jensen Huang (FT, [8 hours ago](https://www.ft.com/content/f4a9e8ac-9ba2-40ac-8d27-8ce2b9639e2a?syn-25a6b1a6=1))
-- Tech suppliers raise AI server prices up to 45% months after deals are signed (FT, [8 hours ago](https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1))
-- Private equity backers flag fresh concerns about sell-to-yourself deals (FT, [8 hours ago](https://www.ft.com/content/d299785f-dc83-4850-95b8-e08b9a643f98?syn-25a6b1a6=1))
-- 'We can't let setbacks affect us' (CFC, [17 hours ago](https://www.chelseafc.com/en/video/xabi-alonso-post-leeds-utd-or-premier-league-or-2026-27))
-- Bompastor: We must be more clinical and find a better balance (CFC, [17 hours ago](https://www.chelseafc.com/en/news/article/bompastor-we-must-be-more-clinical-and-find-a-better-balance))
-- Alonso updates on Caicedo’s game changing injury (CFC, [18 hours ago](https://www.chelseafc.com/en/news/article/alonso-updates-on-caicedos-game-changing-injury))
-- Full Match: Chelsea vs Leeds United (CFC, [19 hours ago](https://www.chelseafc.com/en/video/pl-full-match-chelsea-vs-leeds-united-or-premier-league-or-2026-27))
-- Extended: Chelsea 1-4 Leeds United (CFC, [20 hours ago](https://www.chelseafc.com/en/video/pl-extended-highlights-chelsea-1-4-leeds-united-or-premier-league-or-2026))
-- PL Highlights: Chelsea 1-4 Leeds United (CFC, [20 hours ago](https://www.chelseafc.com/en/video/pl-highlights-chelsea-1-4-leeds-united-or-premier-league-or-2026-27))
-- Alice Huang’s links to the chip underworld (FT, [20 hours ago](https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1))
-- Bompastor provides Mayra Ramirez and Manaka Matsukubo injury update (CFC, [20 hours ago](https://www.chelseafc.com/en/news/article/bompastor-provides-mayra-ramirez-and-manaka-matsukubo-injury-update))
-- Chelsea 1-4 Leeds United, Premier League: Post-match reaction, ratings (WAGNH, [20 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/174237/chelsea-1-4-leeds-united-premier-league-post-match-reaction-ratings))
-- Liverpool FCW 0-0 Chelsea FCW, Women’s Super League: Post-match reaction (WAGNH, [22 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc-women/174223/liverpool-fcw-0-0-chelsea-fcw-womens-super-league-post-match-reaction))
-- AWS got hit by an outage too. Here's why you didn't hear about it (Register, [22 hours ago](https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511))
-- Chelsea vs. Leeds United, Premier League: Lineups &#038; Game Thread (WAGNH, [23 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/174210/chelsea-vs-leeds-united-premier-league-confirmed-lineups-how-to-watch))
+- How Iceland's Blue Lagoon is faring after its long-awaited stock market debut (Euronews, [16 minutes ago](https://www.euronews.com/2026/11/23/how-icelands-blue-lagoon-is-faring-after-its-long-awaited-stock-market-debut))
+- Nvidia reinstates Jensen Huang as chief executive (FT, [16 minutes ago](https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1))
+- 'Return the Marbles': Greece renews demand for Parthenon relics at Acropolis Museum reopening (Euronews, [18 minutes ago](https://www.euronews.com/2026/11/23/return-the-marbles-greece-renews-demand-for-parthenon-relics-at-acropolis-museum-reopening))
+- South Korea’s education minister resigns after backlash over AI exam cheating rules (Euronews, [19 minutes ago](https://www.euronews.com/2026/11/23/south-koreas-education-minister-resigns-after-backlash-over-ai-exam-cheating-rules))
+- ‘Batman Returns’: Tim Burton’s iconic Batmobile car heads to auction (Euronews, [39 minutes ago](https://www.euronews.com/2026/11/23/batman-returns-tim-burtons-iconic-batmobile-car-heads-to-auction))
+- British retailer Next downplays data breach at tech supplier (Register, [45 minutes ago](https://www.theregister.com/cyber-crime/2026/11/23/british-retailer-next-downplays-data-breach-at-tech-supplier/5311684))
+- Robotaxis and stock exchanges: Why Bolt's CEO says Europe is way behind (Euronews, [59 minutes ago](https://www.euronews.com/2026/11/23/robotaxis-and-stock-exchanges-why-bolts-ceo-says-europe-is-way-behind))
+- At least 24 people killed in Indonesia factory fire, police say (Euronews, [1 hours ago](https://www.euronews.com/2026/11/23/at-least-24-people-killed-in-indonesia-factory-fire-police-say))
+- Nvidia board puts Jensen Huang back as boss (Register, [1 hours ago](https://www.theregister.com/systems/2026/11/23/nvidia-board-puts-jensen-huang-back-as-boss/5311674))
+- Nvidia shares jump over 30% at the open as Jensen Huang returns as CEO (Euronews, [1 hours ago](https://www.euronews.com/2026/11/23/nvidia-reinstates-jensen-huang-as-ceo-11-days-after-he-resigned))
+- Portishead join ‘No Music For Genocide’ campaign alongside Massive Attack, Fontaines D.C. and Björk (Euronews, [1 hours ago](https://www.euronews.com/2026/11/23/portishead-join-no-music-for-genocide-campaign-alongside-massive-attack-fontaines-dc-and-b))
+- Everything going down at once wasn't evidence of a conspiracy – but the truth may be scarier (Register, [1 hours ago](https://www.theregister.com/off-prem/2026/11/23/everything-going-down-at-once-wasnt-evidence-of-a-conspiracy-but-the-truth-may-be-scarier/5311458))
+- How a winemaker found his home and his market in Macao (Euronews, [1 hours ago](https://www.euronews.com/2026/11/23/how-a-winemaker-found-his-home-and-his-market-in-macao))
+- China: 5,000 drones illuminate sky over Three Gorges at autumn festival (Euronews, [2 hours ago](https://www.euronews.com/video/2026/11/23/china-5000-drones-illuminate-sky-over-three-gorges-at-autumn-festival))
+- Trump says he won't allow US companies to build datacenters abroad (Register, [2 hours ago](https://www.theregister.com/off-prem/2026/11/23/trump-says-he-wont-allow-us-companies-to-build-datacenters-abroad/5311640))
+- Macron proposes French budget ‘golden rule’ (FT, [2 hours ago](https://www.ft.com/content/23e88085-9259-472d-8831-b3d88e1c4698?syn-25a6b1a6=1))
+- New Outlook's attachment issues sent users into the arms of its predecessor (Register, [3 hours ago](https://www.theregister.com/saas/2026/11/23/new-outlooks-attachment-issues-sent-users-into-the-arms-of-its-predecessor/5311576))
+- Norway links energy firm cyberattacks to critical Azure API Management flaw (Register, [3 hours ago](https://www.theregister.com/security/2026/11/23/norway-links-energy-firm-cyberattacks-to-critical-azure-api-management-flaw/5311598))
+- The trouble with the middle powers project (FT, [3 hours ago](https://www.ft.com/content/cf3b03e3-3fbf-489b-a292-33596ea64eea?syn-25a6b1a6=1))
+- Cleverbridge admits attackers stole customers' credit card and CVV numbers. Yep, you read that right (Register, [4 hours ago](https://www.theregister.com/cyber-crime/2026/11/23/cleverbridge-admits-attackers-stole-customers-credit-card-and-cvv-numbers-yep-you-read-that-right/5311573))
+- Capita CEO leaves following pensions contract disaster (Register, [4 hours ago](https://www.theregister.com/public-sector/2026/11/23/capita-ceo-leaves-following-pensions-contract-disaster/5311585))
+- CrowdStrike to buy Zscaler in $44bn deal as cyber threats mount (FT, [4 hours ago](https://www.ft.com/content/762bd05d-8e20-4abf-9bc5-4e6f9bf628cb?syn-25a6b1a6=1))
+- Old-school Linux desktops find fresh routes to Wayland (Register, [5 hours ago](https://www.theregister.com/os-platforms/2026/11/23/old-school-linux-desktops-find-fresh-routes-to-wayland/5311349))
+- Airbus may be leaving Microsoft Office, but for its 36,000 defense staff, Office isn't leaving them (Register, [6 hours ago](https://www.theregister.com/applications/2026/11/23/airbus-may-be-leaving-microsoft-office-but-for-its-36000-defense-staff-office-isnt-leaving-them/5311325))
+- Ukraine blows up Russian warship in Libya’s Benghazi naval base (FT, [6 hours ago](https://www.ft.com/content/b3f020fc-2617-4432-bced-af2a0b120133?syn-25a6b1a6=1))
+- Nvidia shares soar 30% after board reinstates Huang (FT, [7 hours ago](https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1))
+- The Daily Hilario: Monday (WAGNH, [7 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/174257/the-daily-hilario-november-23rd))
+- Alonso: ‘Fragile’ Chelsea not ‘at the level required’ (WAGNH, [8 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/174261/alonso-fragile-chelsea-not-at-the-level-required))
+- Chelsea 1-4 Leeds United, Player Ratings: To the Hall of Shame in near record time (WAGNH, [8 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/174270/chelsea-1-4-leeds-united-player-ratings-to-the-hall-of-shame-in-near-record-time))
+- Chelsea Diary: Away days and Academy derby on the agenda (CFC, [9 hours ago](https://www.chelseafc.com/en/news/article/chelsea-diary-away-days-and-academy-derby-on-the-agenda))
+- Novartis rejects AI industry hopes to cure cancer in five to 10 years (FT, [10 hours ago](https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340?syn-25a6b1a6=1))
+- China is winning the car war (FT, [10 hours ago](https://www.ft.com/content/d279b04d-1fb7-49c7-a191-d34cf6467681?syn-25a6b1a6=1))
 
 <!-- news_marker ends -->
 
@@ -119,7 +109,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > Esperanto - noun: 1. A constructed language designed for use as an international second language. 2. A shared means of communication or expression across cultural or other boundaries.
+ > argonaut - noun: One who takes part in a dangerous but potentially rewarding quest.
 
 <!-- word_marker ends -->
 
@@ -127,35 +117,35 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> You improvise. You adapt. You overcome. - Clint Eastwood, as Sergeant Highway in Heartbreak Ridge
+> A market is never saturated with a good product, but it is very quickly saturated with a bad one. - Henry Ford
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Use an old idea
+> Use filters
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Five Nights at Freddy's (Rated: 3)
-- Released in 2023
-- Summary: A troubled security guard begins working at Freddy Fazbear's Pizza. During his five nights on the job, he realizes that something is wrong with the pizzeria and pretty soon finds the truth about its animatronics.
+- Focus (Rated: 3)
+- Released in 2015
+- Summary: In the midst of veteran con man Nicky's latest scheme, a woman from his past - now an accomplished femme fatale - shows up and throws his plans for a loop.
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 713, using [6, 6, 25, 50, 75, 100]
-- Answer: 2 solutions.
+- Target: 885, using [1, 3, 4, 5, 25, 75]
+- Answer: 8 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 100 + 6 ) x 6 + 50 / 25 + 75
+  Solution: ( ( 75 + 25 ) x ( 4 - 1 ) - 5 ) x 3
 
    </details>
 
@@ -164,9 +154,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-- Vlad's Website [URL](https://vlad.website/) [Feed](https://vlad.website/index.xml)
-- Jeff Geerling [URL](https://www.jeffgeerling.com/) [Feed](https://www.jeffgeerling.com/blog.xml)
-- Non-zero Sum [URL](https://nonzerosum.games/) [Feed](https://nonzerosum.games/rss.xml)
-- Matt Stein [URL](https://mattstein.com/) [Feed](https://mattstein.com/rss.xml)
-- Peter Suhm [URL](https://petersuhm.com/) [Feed](https://petersuhm.com/feed/feed.xml)
+- WAGNH [URL](https://weaintgotnohistory.sbnation.com/) [Feed](https://weaintgotnohistory.sbnation.com/rss/index.xml)
+- Joana Stern (The New Things) [URL](https://thenewthings.com/) [Feed](https://rss.beehiiv.com/feeds/1vJYynypCP.xml)
+- Smart [URL](https://www.smartlab.at/) [Feed](https://www.smartlab.at/feed/)
+- Michael Julius [URL](https://mjulius.com/) [Feed](https://mjulius.com/feed/)
+- R. S. Doiel [URL](https://rsdoiel.github.io/pages.xml) [Feed](https://rsdoiel.github.io/rss.xml)
 <!-- blogroll_marker ends -->
