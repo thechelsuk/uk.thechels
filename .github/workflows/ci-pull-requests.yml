@@ -20,6 +20,7 @@ jobs:
         uses: ./.github/workflows/re-python.yml
 
     lighthouse:
+        if: github.actor != 'dependabot[bot]'
         needs: [lint, test]
         uses: ./.github/workflows/re-lighthouse.yml
         permissions:
