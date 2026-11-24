@@ -1,13 +1,30 @@
 {% include header.html %}
 <h1 class="post-title">{{ page.title }}</h1>
-{% include page_meta.html count=site.data.domains.size noun="domains" %}
+{% assign sorted = site.data.domains | sort: 'domain' %}
+{% assign tlds = sorted | where: 'tld', true %}
+{% assign subdomains = sorted | where: 'tld', false %}
+<p class="page-meta">
+  <span class="page-meta__count"><b>{{ tlds.size }}</b> domains</span>
+  <span class="page-meta__sep" aria-hidden="true">//</span>
+  <span class="page-meta__count"><b>{{ subdomains.size }}</b> sub domains</span>
+</p>
 
 {{ content }}
 
-{% assign sorted = site.data.domains | sort: 'domain' %}
+{% if tlds.size > 0 %}
+<h3>Domains</h3>
 <ul class="data-list">
-    {% for item in sorted %}
+    {% for item in tlds %}
     <li><a class="ext" href="https://{{ item.domain }}">{{ item.domain }}</a></li>
     {% endfor %}
 </ul>
+{% endif %}
+{% if subdomains.size > 0 %}
+<h3>Sub Domains</h3>
+<ul class="data-list">
+    {% for item in subdomains %}
+    <li><a class="ext" href="https://{{ item.domain }}">{{ item.domain }}</a></li>
+    {% endfor %}
+</ul>
+{% endif %}
 {% include footer.html %}
