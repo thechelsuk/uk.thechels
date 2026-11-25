@@ -3,8 +3,9 @@ layout: post
 date: 2026-11-25 20:19
 title: RedemptionX - Reddit content deletion tool Version v1.3.0
 seo_title: RedemptionX - Reddit content deletion tool Version v1.3.0
-seo_description: 'Release notes for RedemptionX - Reddit content deletion tool version
-  v1.3.0: Prepare RedemptionX for the Chrome Web Store; Use the shared release notes...'
+seo_description:
+  "Release notes for RedemptionX - Reddit content deletion tool version
+  v1.3.0: Prepare RedemptionX for the Chrome Web Store; Use the shared release notes..."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/ext-chrome-reddit-deletion-tool/releases/tag/v1.3.0

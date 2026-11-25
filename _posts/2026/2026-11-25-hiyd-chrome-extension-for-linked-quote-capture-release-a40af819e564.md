@@ -3,9 +3,10 @@ layout: post
 date: 2026-11-25 20:54
 title: Hiyd - Chrome Extension for Linked/Quote capture Version v2.0.4
 seo_title: Hiyd - Chrome Extension for Linked/Quote capture Version
-seo_description: 'Release notes for Hiyd - Chrome Extension for Linked/Quote capture
+seo_description:
+  "Release notes for Hiyd - Chrome Extension for Linked/Quote capture
   version v2.0.4: Put each listing field in a code block; Publish this version to
-  the Chrome...'
+  the Chrome..."
 type: release
 cited: GitHub
 link: https://github.com/thechelsuk/ext-chrome-hiyd/releases/tag/v2.0.4
