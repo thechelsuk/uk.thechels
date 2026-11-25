@@ -2,16 +2,16 @@
 layout: pages
 title: Available RSS Feeds in XML and JSON formats
 seo_title: "RSS Feeds - Subscribe via Atom, RSS 2.0 and JSON"
-seo_description: "Subscribe to thechels.uk by RSS: a full firehose feed in Atom, RSS 2.0 and JSON, or per-type feeds for posts, links, daily briefings, releases and more."
+seo_description: "Subscribe to thechels.uk by RSS: every kind of post in Atom, RSS 2.0 and JSON, or per-type feeds for posts, links, daily briefings, releases and more."
 permalink: /feeds
 last_modified_at: "2026-10-04"
 ---
 
 A number of RSS feeds are available. All feeds are Atom/XML unless otherwise specified.
 
-- [Main Feed](/feed.xml) - All firehose feed ({{ site.posts | concat: site.rides | size }} posts).
-- [Main feed as JSON](/feed.json) - All firehose feed.
-- [Main feed as RSS 2.0](/rss2.rss) - All firehose feed.
+- [Main Feed](/feed.xml) - Everything, newest first.
+- [Main feed as JSON](/feed.json) - Everything, newest first.
+- [Main feed as RSS 2.0](/rss2.rss) - Everything, newest first.
 
 By type:
 

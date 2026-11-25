@@ -2,38 +2,39 @@
 permalink: /feed.json
 layout: empty
 ---
-  {
-    "version": "https://jsonfeed.org/version/1",
-    "title": "{{ site.title | escape }}",
-    "home_page_url": "{{ site.url | append: site.baseurl | escape }}",
-    "feed_url": "{{ site.url | append: site.baseurl | append: '/feed.json' | escape }}",
-    "description": "{{ site.description | escape }}",
-    "icon": "{{ site.owner.avatar }}",
-    "language": "en",
-    "author": {
-      "name": "{{ site.owner.name | escape }}",
-      "url": "{{ site.owner.uri }}",
-      "email": "{{ site.owner.email }}"
-  },
-    "items": [
-      {%- assign rides = site.rides -%}
-      {%- assign posts = site.posts -%}
-      {%- assign posts = posts | concat: rides -%}
-      {%- assign posts = posts | sort: "date" | reverse -%}
-      {% for post in posts %}
-      {
-        "id": "{{ post.url | escape }}",
-        "url": "{{ site.url | append: post.url | escape }}",
-        "title": "{{ post.title | escape }}",
-        "content_html": "{{ post.content | strip_html | normalize_whitespace | escape }}
-            {% include footer_for_feeds.html %}
-        ]]>",
-        "date_published": "{{ post.date | date_to_rfc822 }}",
-        "author": {
-          "name": "{% if post.cited %}Quoting {{ post.cited }}{% else %}{{ site.owner.name }}{% endif %}",
-          "uri": "{{ post.link | default: post.url }}"
+{%- assign rides = site.rides -%}
+{%- assign posts = site.posts | concat: rides | sort: "date" | reverse -%}
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": {{ site.title | jsonify }},
+  "home_page_url": {{ site.url | append: site.baseurl | append: "/" | jsonify }},
+  "feed_url": {{ site.url | append: site.baseurl | append: "/feed.json" | jsonify }},
+  "description": {{ site.description | jsonify }},
+  "icon": {{ site.owner.avatar | jsonify }},
+  "language": "en",
+  "authors": [
+    {
+      "name": {{ site.owner.name | jsonify }},
+      "url": {{ site.url | append: "/" | jsonify }}
+    }
+  ],
+  "items": [
+{%- for post in posts limit: 50 -%}
+{%- capture footer -%}{% include footer_for_feeds.html %}{%- endcapture %}
+    {
+      "id": {{ post.url | absolute_url | jsonify }},
+      "url": {{ post.url | absolute_url | jsonify }},
+      "title": {{ post.title | jsonify }},
+      "content_html": {{ post.content | append: footer | jsonify }},
+      "date_published": {{ post.date | date_to_xmlschema | jsonify }},
+      "authors": [
+        {
+          "name": {% if post.cited %}{{ post.cited | prepend: "Quoting " | jsonify }}{% else %}{{ site.owner.name | jsonify }}{% endif %},
+          "url": {% if post.link %}{{ post.link | jsonify }}{% else %}{{ post.url | absolute_url | jsonify }}{% endif %}
         }
-        }{% unless forloop.last %},{% endunless %}
-      {% endfor %}
-    ]
-  }
+      ],
+      "tags": [{{ post.type | default: "post" | jsonify }}]
+    }{% unless forloop.last %},{% endunless %}
+{%- endfor %}
+  ]
+}
