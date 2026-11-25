@@ -26,5 +26,4 @@ Homebridge plugin for the Yale Sync Alarm system built for Homebridge 2.0+
 - Bump prettier from 3.9.10 to 3.10.1
 - Add Homebridge verified badge
 
-
 [Read more about my projects](/projects)
