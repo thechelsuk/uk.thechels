@@ -13,6 +13,7 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Wednesday, 25 November 2026
 
 - The average temperature today is 5.37˚C,
@@ -27,6 +28,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 209 days since the last change (2026-04-30)
 
@@ -35,18 +37,23 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Use appropriate tools.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Sporting CP U19 v Manchester United U19
 - Club Brugge U19 v Liverpool U19
 - Fleetwood Town v Leeds United U21
@@ -59,27 +66,31 @@ _Good Morning, Here is your daily briefing..._
 - Stoke City v Millwall
 - Club Brugge v Liverpool
 - Sporting CP v Manchester United
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 129.0399932861328 
-- ^FTSE : 10453.599609375 
-- ^FTMC : 23663.16015625 
+- VWRL.L : 129.0399932861328
+- ^FTSE : 10453.599609375
+- ^FTMC : 23663.16015625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Jobs market is hitting hard, the balloon industry has flattened due to the cost of inflation.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - NASA's nuclear-powered Mars delivery service takes shape (Register, [2 minutes ago](https://www.theregister.com/science/2026/11/25/nasas-nuclear-powered-mars-delivery-service-takes-shape/5312147))
 - Commission wants to keep monitoring Montenegro after it joins the EU (Euronews, [24 minutes ago](https://www.euronews.com/2026/11/25/commission-wants-to-keep-monitoring-montenegro-after-it-joins-the-eu))
 - Unfinished Beginnings: 20,000 empty baby bottles honour children affected by conflict (Euronews, [27 minutes ago](https://www.euronews.com/2026/11/25/unfinished-beginnings-20000-empty-baby-bottles-honour-children-affected-by-conflict))
@@ -122,7 +133,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > Mayflower - adjective: Belonging to an established social elite, especially through ancestry.
+> Mayflower - adjective: Belonging to an established social elite, especially through ancestry.
 
 <!-- word_marker ends -->
 
@@ -137,6 +148,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Ask your body
 
 <!-- eno_marker ends -->
@@ -144,9 +156,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Bangkok Dangerous (Rated: 6)
 - Released in 1999
 - Summary: A hitman who's in Bangkok to pull off a series of jobs violates his personal code when he falls for a local woman and bonds with his errand boy.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -167,9 +181,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Martin Fowler [URL](https://martinfowler.com/) [Feed](https://martinfowler.com/feed.atom)
 - CodeGood [URL](https://codegood.co/) [Feed](https://codegood.co/feed.xml)
 - Jake Archibald [URL](https://jakearchibald.com/) [Feed](https://jakearchibald.com/posts.rss)
 - Inessential.com [URL](https://inessential.com/) [Feed](http://inessential.com/xml/rss.xml)
 - Ryan Bagley [URL](https://rb.ax/) [Feed](https://rb.ax/index.xml)
+
 <!-- blogroll_marker ends -->
