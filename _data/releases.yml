@@ -2,8 +2,6 @@
   url: https://github.com/thechelsuk/uk.thechels.search/releases.atom
 - id: Tools
   url: https://github.com/thechelsuk/uk.thechels.tools/releases.atom
-- id: Shop (Gumroad)
-  url: https://github.com/thechelsuk/uk.thechels.shop/releases.atom
 - id: Cheltenham Open Data
   url: https://github.com/thechelsuk/uk.cheltenham-od/releases.atom
 - id: DotNet Dev Feeds

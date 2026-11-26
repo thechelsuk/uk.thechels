@@ -1,4 +1,4 @@
-# Private app repos whose releases become posts (see _python/fetch_app_releases.py).
+# Private repos (apps and the shop) whose releases become posts (see _python/fetch_app_releases.py).
 # Public repos (such as Mltply) go in releases.yml instead, through their atom feed.
 # id: name used in the post title; repo: GitHub repo under thechelsuk;
 # project: the _projects file the About section and App Store link come from.
@@ -32,3 +32,6 @@
 - id: Unsettled
   repo: com.uk.thechels.unsettled
   project: app-unsettled
+- id: Shop
+  repo: uk.thechels.shop
+  project: web-shop
