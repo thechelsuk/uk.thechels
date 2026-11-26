@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-11-25
+date: 2026-11-26
 last_modified_at: "2026-10-16"
 ---
 
@@ -13,119 +13,104 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+## On Thursday, 26 November 2026
 
-## On Wednesday, 25 November 2026
-
-- The average temperature today is 5.37˚C,
-- With highs of 5.75˚C and lows of 4.83˚C,
-- It may feel like 1.3˚C with few clouds
-- The wind speed is 6.17m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 75%
-- The sun will rise at 07:44 and set at 16:06
+- The average temperature today is 4.59˚C,
+- With highs of 5.33˚C and lows of 4.27˚C,
+- It may feel like 1.6˚C with broken clouds
+- The wind speed is 3.6m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 79%
+- The sun will rise at 07:45 and set at 16:05
 
 <!-- weather_marker ends -->
 
 ### MI5 Status
 
 <!-- threat_marker starts -->
-
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 209 days since the last change (2026-04-30)
+- It has been 210 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
 ### Today's tasks
 
 <!-- task_marker starts -->
-
 - No tasks today
-
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-
-> Use appropriate tools.
-
+> Set exceptional standards.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-
-- Sporting CP U19 v Manchester United U19
-- Club Brugge U19 v Liverpool U19
-- Fleetwood Town v Leeds United U21
-- Boreham Wood v Aldershot Town
-- Bolton Wanderers v West Brom
-- Burnley v Birmingham City
-- Watford v Blackburn Rovers
-- Harrogate Town v Kidderminster Harriers
-- Hartlepool United v Solihull Moors
-- Stoke City v Millwall
-- Club Brugge v Liverpool
-- Sporting CP v Manchester United
-
+- Brighton & Hove Albion v Universitatea Craiova
+- Celta Vigo v AFC Bournemouth
+- Doncaster Rovers v Huddersfield Town
+- Crystal Palace v Real Sociedad
+- Sunderland v Jagiellonia Bialystok
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 129.0399932861328
-- ^FTSE : 10453.599609375
-- ^FTMC : 23663.16015625
+- VWRL.L : 132.32000732421875 
+- ^FTSE : 10619.3095703125 
+- ^FTMC : 24043.599609375 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-
-> Jobs market is hitting hard, the balloon industry has flattened due to the cost of inflation.
-
+> What do you call a pirate with a wooden leg? Peggy.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-
-- NASA's nuclear-powered Mars delivery service takes shape (Register, [2 minutes ago](https://www.theregister.com/science/2026/11/25/nasas-nuclear-powered-mars-delivery-service-takes-shape/5312147))
-- Commission wants to keep monitoring Montenegro after it joins the EU (Euronews, [24 minutes ago](https://www.euronews.com/2026/11/25/commission-wants-to-keep-monitoring-montenegro-after-it-joins-the-eu))
-- Unfinished Beginnings: 20,000 empty baby bottles honour children affected by conflict (Euronews, [27 minutes ago](https://www.euronews.com/2026/11/25/unfinished-beginnings-20000-empty-baby-bottles-honour-children-affected-by-conflict))
-- EU seeks 'fuller picture' of Ireland's alumina sales to Russia as doubts remain (Euronews, [31 minutes ago](https://www.euronews.com/2026/11/25/eu-seeks-fuller-picture-of-irelands-alumina-sales-to-russia-as-doubts-remain))
-- Australia follows EU with new online safety law, putting Big Tech at risk of multibillion-dollar fines (Euronews, [32 minutes ago](https://www.euronews.com/2026/11/25/australia-follows-eu-with-new-online-safety-law-putting-big-tech-at-risk-of-multibillion-d))
-- Captain of sunken Costa Concordia hired by tourism agency in Sorrento (Euronews, [34 minutes ago](https://www.euronews.com/2026/11/25/captain-of-sunken-costa-concordia-hired-by-tourism-agency-in-sorrento))
-- Microsoft fixes Office dialog that had nothing to say and wouldn't go away (Register, [47 minutes ago](https://www.theregister.com/software/2026/11/25/microsoft-fixes-office-dialog-that-had-nothing-to-say-and-wouldnt-go-away/5312057))
-- No, Burnham is not taking a risk over Europe (FT, [48 minutes ago](https://www.ft.com/content/84eb2d60-b229-4bc0-85ef-b56bc1a14338?syn-25a6b1a6=1))
-- US proposes new tariffs on 14 major trading partners, the EU included (Euronews, [50 minutes ago](https://www.euronews.com/2026/11/25/us-proposes-new-tariffs-on-14-major-trading-partners-the-eu-included))
-- US stocks sell-off deepens as AI trade cracks (FT, [59 minutes ago](https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1))
-- EU member states take 'egoistic approaches' regarding fossil fuel imports, says expert (Euronews, [1 hours ago](https://www.euronews.com/video/2026/11/25/eu-member-states-take-egoistic-approaches-regarding-fossil-fuel-imports-says-expert))
-- Spanish defence giant Indra joins Europe’s push for ‘sovereign AI’ (FT, [1 hours ago](https://www.ft.com/content/05d6c6b6-80ce-4331-9bed-5835991fba2e?syn-25a6b1a6=1))
-- JetBrains finds agents may cheat with open source (Register, [1 hours ago](https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999))
-- Russian strikes kill seven in Ukraine as Kyiv hits three refineries (Euronews, [1 hours ago](https://www.euronews.com/2026/11/25/russian-strikes-kill-seven-in-ukraine-as-kyiv-hits-three-refineries))
-- EU-backed scheme brings renovation costs ‘close to zero’ for vulnerable Lithuanian households (Euronews, [1 hours ago](https://www.euronews.com/2026/11/25/eu-backed-scheme-brings-renovation-costs-close-to-zero-for-vulnerable-lithuanian-household))
-- Trump announces raft of new tariffs on major economies (FT, [1 hours ago](https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1))
-- This country is building a city for robots, air taxis and digital investment (Euronews, [1 hours ago](https://www.euronews.com/2026/11/25/this-country-is-building-a-city-for-robots-air-taxis-and-digital-investment))
-- Debian wakes up wearing Windows XP's actual skin (Register, [2 hours ago](https://www.theregister.com/os-platforms/2026/11/25/debian-wakes-up-wearing-windows-xps-actual-skin/5312111))
-- Microsoft 365 Backup stretches recovery window to ten years (Register, [2 hours ago](https://www.theregister.com/saas/2026/11/25/microsoft-365-backup-stretches-recovery-window-to-ten-years/5312043))
-- Amazon to flog motors in Britain, but Prime won't deliver (Register, [3 hours ago](https://www.theregister.com/personal-tech/2026/11/25/amazon-to-flog-motors-in-britain-but-prime-wont-deliver/5312080))
-- Russia is escalating conflict in Europe and space, warns Merz (FT, [3 hours ago](https://www.ft.com/content/afdac003-51b0-43da-8c7c-b5675f9b7c1b?syn-25a6b1a6=1))
-- Gatwick drop-off customers' personal data exposed in supplier breach (Register, [4 hours ago](https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060))
-- The world's fastest computers have a problem: Keeping the work running (Register, [5 hours ago](https://www.theregister.com/systems/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710))
-- Government may apply TV license fee to streaming services to fund the BBC (Register, [6 hours ago](https://www.theregister.com/offbeat/2026/11/25/government-may-apply-tv-license-fee-to-streaming-services-to-fund-the-bbc/5311928))
-- The Daily Hilario: Wednesday (WAGNH, [7 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/174306/the-daily-hilario-november-25th))
-- What Wesley Fofana actually said about his Liverpool penalty (WAGNH, [8 hours ago](https://weaintgotnohistory.sbnation.com/chelsea-fc/174309/what-wesley-fofana-actually-said-about-his-liverpool-penalty))
-- Jury finds Huawei stole US tech, laundered money, and broke sanctions (Register, [9 hours ago](https://www.theregister.com/legal/2026/11/25/jury-finds-huawei-stole-us-tech-laundered-money-and-broke-sanctions/5312024))
-- ‘Anflopic’ bodes badly for OpenAI’s IPO prospects (FT, [9 hours ago](https://www.ft.com/content/1c62dcfe-826f-4638-a9ee-c3b3009bc45d))
-- Emmanuel Emegha on doing ‘anything to win’ and why Reece James is the ‘best captain’ (CFC, [9 hours ago](https://www.chelseafc.com/en/news/article/emmanuel-emegha-on-doing-anything-to-win-and-why-reece-james-is-the-best))
-- ‘Tech bros strike back’ as Trump rescues Nvidia’s Huang (FT, [10 hours ago](https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e?syn-25a6b1a6=1))
-- Trump shelves plans for business deals with Russia (FT, [10 hours ago](https://www.ft.com/content/36e342f2-17d4-48a7-80f6-2456dfdd6f91?syn-25a6b1a6=1))
-- Europe must not accept ‘hybrid’ warfare as normal, defence CEO warns (FT, [10 hours ago](https://www.ft.com/content/7f57f64e-1f85-4be8-87ec-2db18830ebb2?syn-25a6b1a6=1))
-- How an ex-McKinsey partner reverse engineered a $500bn wealth manager (FT, [10 hours ago](https://www.ft.com/content/2a40938d-d3c8-47dd-a5e9-b728b685a5ed?syn-25a6b1a6=1))
-- Training gallery: Building to bounce back (CFC, [22 hours ago](https://www.chelseafc.com/en/news/article/training-gallery-building-to-bounce-back))
-- Nottingham Forest vs Chelsea preview: TV channel, kick-off time and how to watch (CFC, [23 hours ago](https://www.chelseafc.com/en/news/article/nottingham-forest-vs-chelsea-preview-tv-channel-kick-off-time-watch-26-27))
+- From volume to value: making tourism work for more of Europe (Euronews, [6 minutes ago](https://www.euronews.com/2026/11/26/from-volume-to-value-making-tourism-work-for-more-of-europe))
+- Nordic countries: A European gateway to space?  Euronews Tech Talks (Euronews, [8 minutes ago](https://www.euronews.com/2026/11/26/nordic-countries-a-european-gateway-to-space-euronews-tech-talks))
+- Rackspace pulls plug on Spot cloud service after security breach (Register, [22 minutes ago](https://www.theregister.com/cyber-crime/2026/11/26/rackspace-pulls-plug-on-spot-cloud-service-after-security-breach/5312352))
+- Pablo Hernández de Cos wins race for ECB presidency (FT, [23 minutes ago](https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1))
+- French presidential candidate Raphaël Glucksmann to Euronews: 'France's vote will shape Europe's destiny' (Euronews, [25 minutes ago](https://www.euronews.com/2026/11/26/presidential-candidate-raphael-glucksmann-frances-vote-will-shape-europes-destiny))
+- Jordan Bardella denies fresh wave of antisemitism allegations (Euronews, [25 minutes ago](https://www.euronews.com/2026/11/26/jordan-bardella-denies-fresh-wave-of-antisemitism-allegations))
+- Aerial footage shows diesel tanker sinking off Ibiza (Euronews, [27 minutes ago](https://www.euronews.com/video/2026/11/26/aerial-footage-shows-diesel-tanker-sinking-off-ibiza))
+- Temu agrees to change commercial practices in EU, says Commission (Euronews, [33 minutes ago](https://www.euronews.com/2026/11/26/temu-agrees-to-change-commercial-practices-in-eu-says-commission))
+- Eurozone leaders back Hernández de Cos to succeed Lagarde at ECB (Euronews, [48 minutes ago](https://www.euronews.com/2026/11/26/eurozone-leaders-back-hernandez-de-cos-to-succeed-lagarde-at-ecb))
+- What makes a city attractive? AI ranks Budapest’s centre among the world’s top 10 (Euronews, [51 minutes ago](https://www.euronews.com/2026/11/26/what-makes-a-city-attractive-ai-ranks-budapests-centre-among-the-worlds-top-10))
+- Global stocks climb after volatile US trading over AI risks (FT, [57 minutes ago](https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1))
+- Russia launches ballistic missile and drone barrage on Ukraine, killing at least three (Euronews, [1 hours ago](https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three))
+- Wyoming uranium operation shuts down after cyberattack (Register, [1 hours ago](https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323))
+- From electric flying taxis in Guangzhou to digital hangars in Beijing: how China is reshaping air travel (Euronews, [1 hours ago](https://www.euronews.com/2026/11/26/from-electric-flying-taxis-in-guangzhou-to-digital-hangars-in-beijing-how-china-is-reshapi))
+- Company was religious about backups but sinned by leaving them exposed (Register, [1 hours ago](https://www.theregister.com/security/2026/11/26/company-was-religious-about-backups-but-sinned-by-leaving-them-exposed/5312234))
+- Stale links on UK public sector websites direct visitors to gambling dens (Register, [1 hours ago](https://www.theregister.com/public-sector/2026/11/26/stale-links-on-uk-public-sector-websites-direct-visitors-to-gambling-dens/5312049))
+- Microsoft hotpatches hotpatch that could crash Windows Server 2025 (Register, [2 hours ago](https://www.theregister.com/os-platforms/2026/11/26/microsoft-hotpatches-hotpatch-that-could-crash-windows-server-2025/5312301))
+- Paris and Berlin seek to shield EU budget from Marine Le Pen (FT, [2 hours ago](https://www.ft.com/content/3f577839-deed-40f4-af9f-bf8fb54890e3?syn-25a6b1a6=1))
+- UK government working 'around the clock' on Capita contingency plans (Register, [3 hours ago](https://www.theregister.com/public-sector/2026/11/26/uk-government-working-around-the-clock-on-capita-contingency-plans/5312298))
+- Hackers help themselves to 1Password's source code and customer data (Register, [4 hours ago](https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317))
+- Bjorn back stronger than ever for club and country (CFC, [4 hours ago](https://www.chelseafc.com/en/news/article/bjorn-back-stronger-than-ever-for-club-and-country))
+- 45°C inlets just killed the chiller. Most people haven't noticed yet (Register, [4 hours ago](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831))
+- Franco-German clash over ‘Made in Europe’ in EU defence budget (FT, [4 hours ago](https://www.ft.com/content/c9e569cd-d9c7-43ea-877e-7fa6d1e91ea7?syn-25a6b1a6=1))
+- UK Home Office waved through border system without a working fix for bad data (Register, [5 hours ago](https://www.theregister.com/security/2026/11/26/uk-home-office-waved-through-border-system-without-a-working-fix-for-bad-data/5312162))
+- Crystal Palace Under-18 vs Chelsea Under-18: How to watch it live (CFC, [6 hours ago](https://www.chelseafc.com/en/news/article/crystal-palace-under-18-vs-chelsea-under-18-how-to-watch-it-live))
+- The Daily Hilario: Thursday (WAGNH, [6 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/174332/the-daily-hilario-november-26th))
+- Ibrahim Rabbaj and Morocco target knockout spot at Under-17 World Cup (CFC, [7 hours ago](https://www.chelseafc.com/en/news/article/ibrahim-rabbaj-and-morocco-target-knockout-spot-at-under-17-world-cup))
+- How should Chelsea line up against Nottingham Forest? (WAGNH, [7 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/174336/how-should-chelsea-line-up-against-nottingham-forest))
+- Nottingham Forest vs Chelsea: Key statistics and facts (CFC, [9 hours ago](https://www.chelseafc.com/en/news/article/nottingham-forest-vs-chelsea-key-statistics-and-facts-26-27))
+- The ICE raids ‘wreaking havoc’ across American academia (FT, [10 hours ago](https://www.ft.com/content/125e9b6d-4e45-4554-9a86-a3ce172bcf65?syn-25a6b1a6=1))
+- Software stocks spared in tech rout as AI narrative shifts (FT, [10 hours ago](https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1))
+- Nvidia halts chip shipments to south-east Asia (FT, [10 hours ago](https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1))
+- How Britain taxed itself into a corner (FT, [10 hours ago](https://www.ft.com/content/168aa97b-1a58-480e-a995-31287308432f?syn-25a6b1a6=1))
+- How ‘Friendsgiving’ took over in America (FT, [10 hours ago](https://www.ft.com/content/f565c249-c7c6-4b4c-935e-32d4b36294c3))
+- India’s government ponders cradle to grave AI oversight (Register, [11 hours ago](https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275))
+- ‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback (FT, [14 hours ago](https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1))
+- Chelsea Cobham Next Gen discover EFL Trophy Round of 32 opponents (CFC, [21 hours ago](https://www.chelseafc.com/en/news/article/chelsea-cobham-next-gen-discover-efl-trophy-round-of-32-opponents))
+- Training gallery: Focused on Forest (CFC, [22 hours ago](https://www.chelseafc.com/en/news/article/training-gallery-focused-on-forest-26-27-a))
 
 <!-- news_marker ends -->
 
@@ -133,7 +118,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
-> Mayflower - adjective: Belonging to an established social elite, especially through ancestry.
+ > Mary Celeste - noun: A place inexplicably deserted.
 
 <!-- word_marker ends -->
 
@@ -141,38 +126,35 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> Do the planning, but throw out the plans. - Mary Poppendieck, Lean Trainer and Author
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler, Author and Programmer
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-
-> Ask your body
+> Ask people to work against their better judgment
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-
-- Bangkok Dangerous (Rated: 6)
-- Released in 1999
-- Summary: A hitman who's in Bangkok to pull off a series of jobs violates his personal code when he falls for a local woman and bonds with his errand boy.
-
+- Hansel And Gretel Witch Hunters (Rated: 7)
+- Released in 2013
+- Summary: No summary available
 <!-- film_marker ends -->
 
 ### Countdown Numbers
 
 <!-- game_marker starts -->
 
-- Target: 992, using [4, 4, 6, 25, 50, 100]
-- Answer: 6 solutions.
+- Target: 387, using [3, 7, 10, 25, 50, 75]
+- Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 25 + 6 ) x 100 x 4 x 4 / 50
+  Solution: ( 75 + 50 + 10 ) x 3 + 7 - 25
 
    </details>
 
@@ -181,11 +163,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-
-- Martin Fowler [URL](https://martinfowler.com/) [Feed](https://martinfowler.com/feed.atom)
-- CodeGood [URL](https://codegood.co/) [Feed](https://codegood.co/feed.xml)
-- Jake Archibald [URL](https://jakearchibald.com/) [Feed](https://jakearchibald.com/posts.rss)
-- Inessential.com [URL](https://inessential.com/) [Feed](http://inessential.com/xml/rss.xml)
-- Ryan Bagley [URL](https://rb.ax/) [Feed](https://rb.ax/index.xml)
-
+- Cloudflare [URL](https://blog.cloudflare.com/) [Feed](https://blog.cloudflare.com/rss/)
+- Marco Arment [URL](https://marco.org/) [Feed](http://www.marco.org/rss)
+- Zwift Insider [URL](https://zwiftinsider.com/) [Feed](https://zwiftinsider.com/feed/)
+- The Sweet Setup [URL](https://thesweetsetup.com/) [Feed](https://thesweetsetup.com/feed/)
+- Information is Beautiful [URL](https://informationisbeautiful.net/) [Feed](http://feeds.feedburner.com/InformationIsBeautiful)
 <!-- blogroll_marker ends -->
