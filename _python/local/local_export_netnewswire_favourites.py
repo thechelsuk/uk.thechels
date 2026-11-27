@@ -9,23 +9,14 @@ sys.path.insert(0,
                 os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 import seo_frontmatter  # noqa: E402
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import netnewswire_db  # noqa: E402
+
 NNW_SEO_PADDING = ("A monthly digest of the best links from the feeds I "
                    "follow. Collected from my favourites in NetNewsWire. "
                    "Subscribe via RSS to get the next one.")
 
-# NetNewsWire database path (checks user-provided iCloud path first, then local)
-USER_ICLOUD_PATH = os.path.expanduser(
-    '~/Library/Containers/com.ranchero.NetNewsWire-Evergreen/Data/Library/Application Support/NetNewsWire/Accounts/2_iCloud/DB.sqlite3'
-)
-LOCAL_PATH = os.path.expanduser(
-    '~/Library/Application Support/NetNewsWire/Accounts/OnMyMac/DB.sqlite3')
-
-if os.path.exists(USER_ICLOUD_PATH):
-    DB_PATH = USER_ICLOUD_PATH
-elif os.path.exists(LOCAL_PATH):
-    DB_PATH = LOCAL_PATH
-else:
-    DB_PATH = None
+DB_PATH = netnewswire_db.db_path()
 
 # Output path for the generated markdown file
 PROJECT_ROOT = os.path.dirname(
@@ -43,18 +34,8 @@ def main():
         return
     try:
         conn = sqlite3.connect(DB_PATH)
-        cur = conn.cursor()
-        # Try common table/column names for favourited articles
-        query = """
-            SELECT articles.title, articles.summary,  articles.url, articles.externalURL
-            FROM articles
-            INNER JOIN statuses ON statuses.articleID = articles.articleID
-            WHERE statuses.starred = 1
-            ORDER BY articles.datePublished DESC
-        """
         try:
-            cur.execute(query)
-            items = cur.fetchall()
+            items = netnewswire_db.starred(conn)
         except sqlite3.OperationalError as e:
             print(
                 f"SQL error: {e}\nCheck table/column names in your NetNewsWire database."
@@ -68,10 +49,9 @@ def main():
 
         # Group articles by top-level domain
         domain_groups = defaultdict(list)
-        for title, summary, url, external_url in items:
-            safe_title = title if title else "(No Title)"
-            chosen_url = external_url if external_url else url
-            safe_url = chosen_url if chosen_url else None
+        for item in items:
+            safe_title = item["title"] if item["title"] else "(No Title)"
+            safe_url = item["url"] if item["url"] else None
             if safe_url:
                 parsed = urlparse(safe_url)
                 domain = parsed.hostname or "other"
