@@ -5,7 +5,7 @@ seo_title: "Hiyd Chrome Extension - Save Linked Quotes for Jekyll"
 seo_description: "Hiyd for Chrome captures highlighted text and page metadata as a Markdown file with Jekyll front matter, ready to publish as a linked quote post."
 permalink: /projects/ext-hiyd
 class: plugins
-i_name: Chrome Web Store
+i_name: Install from the Chrome Web Store
 i_url: "https://chromewebstore.google.com/detail/hiyd/hkeklhoojnogpfmiikadpcmkmpldhpce?authuser=0&hl=en-GB"
 summary: "A simple Chromium browser plugin to capture linked quotes from websites into a markdown file for your jekyll blog."
 type: wrench
