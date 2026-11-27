@@ -13,6 +13,7 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Friday, 27 November 2026
 
 - The average temperature today is 5.1˚C,
@@ -27,6 +28,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 211 days since the last change (2026-04-30)
 
@@ -35,52 +37,61 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Seek the best.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Manchester City U21 v West Brom U21
 - Norwich City U21 v Chelsea U21
 - West Ham United U21 v Tottenham Hotspur U21
 - Scunthorpe United v Wealdstone
 - Southampton v Middlesbrough
 - Nottingham Forest v Chelsea
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 132.72000122070312 
-- ^FTSE : 10684.1796875 
-- ^FTMC : 24234.900390625 
+- VWRL.L : 132.72000122070312
+- ^FTSE : 10684.1796875
+- ^FTMC : 24234.900390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Why did the Jazzman cross the road? To get from A to B flat 6th.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - UK: London's Cake and Bake Show honours David Attenborough's centenary (Euronews, [10 minutes ago](https://www.euronews.com/video/2026/11/27/uk-londons-cake-and-bake-show-honours-david-attenboroughs-centenary))
 - US tech stocks rise in latest market swing (FT, [20 minutes ago](https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1))
 - Black Friday: Where in Europe are shoppers the gloomiest? (Euronews, [20 minutes ago](https://www.euronews.com/2026/11/27/black-friday-where-in-europe-are-shoppers-the-gloomiest))
 - Trump tariffs brought EU and Indonesia closer on trade, minister tells Euronews (Euronews, [30 minutes ago](https://www.euronews.com/2026/11/27/trump-tariffs-brought-eu-and-indonesia-closer-on-trade-minister-tells-euronews))
 - 'Colourful and complicated': New London Museum promises to show city in all its glory (Euronews, [53 minutes ago](https://www.euronews.com/2026/11/27/colourful-and-complicated-new-london-museum-promises-to-show-city-in-all-its-glory))
 - Bill for Birmingham's Oracle debacle reaches £128M (Register, [56 minutes ago](https://www.theregister.com/public-sector/2026/11/27/bill-for-birminghams-oracle-debacle-reaches-128m/5312563))
-- A green valley with a circular twist: Austria´s  shapes the sustainable tech of tomorrow (Euronews, [58 minutes ago](https://www.euronews.com/2026/11/27/a-green-valley-with-a-circular-twist-austrias-shapes-the-sustainable-tech-of-tomorrow))
+- A green valley with a circular twist: Austria´s shapes the sustainable tech of tomorrow (Euronews, [58 minutes ago](https://www.euronews.com/2026/11/27/a-green-valley-with-a-circular-twist-austrias-shapes-the-sustainable-tech-of-tomorrow))
 - What kit are Chelsea wearing against Nottingham Forest? (CFC, [59 minutes ago](https://www.chelseafc.com/en/news/article/what-kit-are-chelsea-wearing-against-nottingham-forest))
 - Uzbekistan and Kazakhstan reopen key border crossing for up to 100,000 travellers a day (Euronews, [1 hours ago](https://www.euronews.com/2026/11/27/uzbekistan-and-kazakhstan-reopen-key-border-crossing-for-up-to-100000-travellers-a-day))
 - EU budget summit collapses as row over money exposes clash over Europe's strategic tasks (Euronews, [1 hours ago](https://www.euronews.com/2026/11/27/eu-budget-summit-collapses-as-row-over-money-exposes-clash-over-europes-strategic-tasks))
@@ -114,7 +125,7 @@ _Good Morning, Here is your daily briefing..._
 - Chinese households shed billions in consumer debt (FT, [9 hours ago](https://www.ft.com/content/8c5e0298-58f0-47e9-a843-513178d9fa2e?syn-25a6b1a6=1))
 - OTD: Rare John Terry brace helps Chelsea thump Charlton (CFC, [12 hours ago](https://www.chelseafc.com/en/news/article/otd-rare-john-terry-brace-helps-chelsea-thump-charlton))
 - Free e-government platform that serves two billion people in ten countries has critical SQL injection bug (Register, [13 hours ago](https://www.theregister.com/security/2026/11/27/free-e-government-platform-that-serves-two-billion-people-in-ten-countries-has-critical-sql-injection-bug/5312449))
-- Nottingham Forest vs Chelsea  Focused on three points (CFC, [14 hours ago](https://www.chelseafc.com/en/video/hype-pre-nottingham-forest-a-premier-league-2026-27))
+- Nottingham Forest vs Chelsea Focused on three points (CFC, [14 hours ago](https://www.chelseafc.com/en/video/hype-pre-nottingham-forest-a-premier-league-2026-27))
 - Cobham Unseen: pre-Nottingham Forest (a) (CFC, [14 hours ago](https://www.chelseafc.com/en/video/cobham-unseen-pre-nottingham-forest-a-premier-league-2026-27))
 - Alonso on utilising Emegha’s power and handling 'chaotic situations' (CFC, [19 hours ago](https://www.chelseafc.com/en/news/article/alonso-on-utilising-emeghas-power-and-handling-chaotic-situations))
 - Moisés Caicedo, Wesley Fofana available for selection for Chelsea against Nottingham Forest (WAGNH, [20 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/174351/moises-caicedo-wesley-fofana-available-for-selection-for-chelsea-against-nottingham-forest))
@@ -125,7 +136,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > Titanic clause - noun: A provision in a will specifying how an estate is to be distributed if the intended beneficiaries die before they can inherit, especially in a common disaster.
+> Titanic clause - noun: A provision in a will specifying how an estate is to be distributed if the intended beneficiaries die before they can inherit, especially in a common disaster.
 
 <!-- word_marker ends -->
 
@@ -140,6 +151,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Use an unacceptable color
 
 <!-- eno_marker ends -->
@@ -147,9 +159,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - James Bond: A View To A Kill (Rated: 4)
 - Released in 1985
 - Summary: No summary available
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -170,9 +184,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Nate Silver [URL](https://www.natesilver.net/) [Feed](https://www.natesilver.net/feed)
 - Six Colors [URL](https://sixcolors.com/?feed=json) [Feed](https://sixcolors.com/feed.json)
 - Callum A-R [URL](https://cakehurstryan.com/) [Feed](https://callumakehurstryansblog.wordpress.com/feed/)
 - Robb Owen [URL](http://robbowen.digital/) [Feed](https://robbowen.digital/feed.xml)
 - Jenn Schiffer [URL](https://livelaugh.blog/) [Feed](https://livelaugh.blog/rss.xml)
+
 <!-- blogroll_marker ends -->
