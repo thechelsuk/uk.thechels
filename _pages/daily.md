@@ -4,7 +4,7 @@ title: Daily Briefing and Updates
 seo_title: "Daily Briefing - Weather, News, Quotes and Updates"
 seo_description: "Today's automated daily briefing: local weather, MI5 threat level, football fixtures, stocks, top news, word of the day, quotes and a Countdown puzzle."
 permalink: /daily
-date: 2026-11-26
+date: 2026-11-27
 last_modified_at: "2026-10-16"
 ---
 
@@ -13,14 +13,14 @@ last_modified_at: "2026-10-16"
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
-## On Thursday, 26 November 2026
+## On Friday, 27 November 2026
 
-- The average temperature today is 4.59˚C,
-- With highs of 5.33˚C and lows of 4.27˚C,
-- It may feel like 1.6˚C with broken clouds
-- The wind speed is 3.6m/s and visibility is 10000m
-- The pressure is 1017hPa and humidity is 79%
-- The sun will rise at 07:45 and set at 16:05
+- The average temperature today is 5.1˚C,
+- With highs of 5.75˚C and lows of 4.36˚C,
+- It may feel like 2.96˚C with light intensity drizzle
+- The wind speed is 2.57m/s and visibility is 9000m
+- The pressure is 1017hPa and humidity is 92%
+- The sun will rise at 07:47 and set at 16:04
 
 <!-- weather_marker ends -->
 
@@ -28,7 +28,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- threat_marker starts -->
 - The current threat level is <span class="highlighter">SEVERE</span>
-- It has been 210 days since the last change (2026-04-30)
+- It has been 211 days since the last change (2026-04-30)
 
 <!-- threat_marker ends -->
 
@@ -41,76 +41,83 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
-> Set exceptional standards.
+> Seek the best.
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
-- Brighton & Hove Albion v Universitatea Craiova
-- Celta Vigo v AFC Bournemouth
-- Doncaster Rovers v Huddersfield Town
-- Crystal Palace v Real Sociedad
-- Sunderland v Jagiellonia Bialystok
+- Manchester City U21 v West Brom U21
+- Norwich City U21 v Chelsea U21
+- West Ham United U21 v Tottenham Hotspur U21
+- Scunthorpe United v Wealdstone
+- Southampton v Middlesbrough
+- Nottingham Forest v Chelsea
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 132.32000732421875 
-- ^FTSE : 10619.3095703125 
-- ^FTMC : 24043.599609375 
+- VWRL.L : 132.72000122070312 
+- ^FTSE : 10684.1796875 
+- ^FTMC : 24234.900390625 
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> What do you call a pirate with a wooden leg? Peggy.
+> Why did the Jazzman cross the road? To get from A to B flat 6th.
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
-- From volume to value: making tourism work for more of Europe (Euronews, [6 minutes ago](https://www.euronews.com/2026/11/26/from-volume-to-value-making-tourism-work-for-more-of-europe))
-- Nordic countries: A European gateway to space?  Euronews Tech Talks (Euronews, [8 minutes ago](https://www.euronews.com/2026/11/26/nordic-countries-a-european-gateway-to-space-euronews-tech-talks))
-- Rackspace pulls plug on Spot cloud service after security breach (Register, [22 minutes ago](https://www.theregister.com/cyber-crime/2026/11/26/rackspace-pulls-plug-on-spot-cloud-service-after-security-breach/5312352))
-- Pablo Hernández de Cos wins race for ECB presidency (FT, [23 minutes ago](https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1))
-- French presidential candidate Raphaël Glucksmann to Euronews: 'France's vote will shape Europe's destiny' (Euronews, [25 minutes ago](https://www.euronews.com/2026/11/26/presidential-candidate-raphael-glucksmann-frances-vote-will-shape-europes-destiny))
-- Jordan Bardella denies fresh wave of antisemitism allegations (Euronews, [25 minutes ago](https://www.euronews.com/2026/11/26/jordan-bardella-denies-fresh-wave-of-antisemitism-allegations))
-- Aerial footage shows diesel tanker sinking off Ibiza (Euronews, [27 minutes ago](https://www.euronews.com/video/2026/11/26/aerial-footage-shows-diesel-tanker-sinking-off-ibiza))
-- Temu agrees to change commercial practices in EU, says Commission (Euronews, [33 minutes ago](https://www.euronews.com/2026/11/26/temu-agrees-to-change-commercial-practices-in-eu-says-commission))
-- Eurozone leaders back Hernández de Cos to succeed Lagarde at ECB (Euronews, [48 minutes ago](https://www.euronews.com/2026/11/26/eurozone-leaders-back-hernandez-de-cos-to-succeed-lagarde-at-ecb))
-- What makes a city attractive? AI ranks Budapest’s centre among the world’s top 10 (Euronews, [51 minutes ago](https://www.euronews.com/2026/11/26/what-makes-a-city-attractive-ai-ranks-budapests-centre-among-the-worlds-top-10))
-- Global stocks climb after volatile US trading over AI risks (FT, [57 minutes ago](https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1))
-- Russia launches ballistic missile and drone barrage on Ukraine, killing at least three (Euronews, [1 hours ago](https://www.euronews.com/2026/11/26/russia-launches-ballistic-missile-and-drone-barrage-on-ukraine-killing-at-least-three))
-- Wyoming uranium operation shuts down after cyberattack (Register, [1 hours ago](https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323))
-- From electric flying taxis in Guangzhou to digital hangars in Beijing: how China is reshaping air travel (Euronews, [1 hours ago](https://www.euronews.com/2026/11/26/from-electric-flying-taxis-in-guangzhou-to-digital-hangars-in-beijing-how-china-is-reshapi))
-- Company was religious about backups but sinned by leaving them exposed (Register, [1 hours ago](https://www.theregister.com/security/2026/11/26/company-was-religious-about-backups-but-sinned-by-leaving-them-exposed/5312234))
-- Stale links on UK public sector websites direct visitors to gambling dens (Register, [1 hours ago](https://www.theregister.com/public-sector/2026/11/26/stale-links-on-uk-public-sector-websites-direct-visitors-to-gambling-dens/5312049))
-- Microsoft hotpatches hotpatch that could crash Windows Server 2025 (Register, [2 hours ago](https://www.theregister.com/os-platforms/2026/11/26/microsoft-hotpatches-hotpatch-that-could-crash-windows-server-2025/5312301))
-- Paris and Berlin seek to shield EU budget from Marine Le Pen (FT, [2 hours ago](https://www.ft.com/content/3f577839-deed-40f4-af9f-bf8fb54890e3?syn-25a6b1a6=1))
-- UK government working 'around the clock' on Capita contingency plans (Register, [3 hours ago](https://www.theregister.com/public-sector/2026/11/26/uk-government-working-around-the-clock-on-capita-contingency-plans/5312298))
-- Hackers help themselves to 1Password's source code and customer data (Register, [4 hours ago](https://www.theregister.com/security/2026/11/26/hackers-help-themselves-to-1passwords-source-code-and-customer-data/5312317))
-- Bjorn back stronger than ever for club and country (CFC, [4 hours ago](https://www.chelseafc.com/en/news/article/bjorn-back-stronger-than-ever-for-club-and-country))
-- 45°C inlets just killed the chiller. Most people haven't noticed yet (Register, [4 hours ago](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831))
-- Franco-German clash over ‘Made in Europe’ in EU defence budget (FT, [4 hours ago](https://www.ft.com/content/c9e569cd-d9c7-43ea-877e-7fa6d1e91ea7?syn-25a6b1a6=1))
-- UK Home Office waved through border system without a working fix for bad data (Register, [5 hours ago](https://www.theregister.com/security/2026/11/26/uk-home-office-waved-through-border-system-without-a-working-fix-for-bad-data/5312162))
-- Crystal Palace Under-18 vs Chelsea Under-18: How to watch it live (CFC, [6 hours ago](https://www.chelseafc.com/en/news/article/crystal-palace-under-18-vs-chelsea-under-18-how-to-watch-it-live))
-- The Daily Hilario: Thursday (WAGNH, [6 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/174332/the-daily-hilario-november-26th))
-- Ibrahim Rabbaj and Morocco target knockout spot at Under-17 World Cup (CFC, [7 hours ago](https://www.chelseafc.com/en/news/article/ibrahim-rabbaj-and-morocco-target-knockout-spot-at-under-17-world-cup))
-- How should Chelsea line up against Nottingham Forest? (WAGNH, [7 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/174336/how-should-chelsea-line-up-against-nottingham-forest))
-- Nottingham Forest vs Chelsea: Key statistics and facts (CFC, [9 hours ago](https://www.chelseafc.com/en/news/article/nottingham-forest-vs-chelsea-key-statistics-and-facts-26-27))
-- The ICE raids ‘wreaking havoc’ across American academia (FT, [10 hours ago](https://www.ft.com/content/125e9b6d-4e45-4554-9a86-a3ce172bcf65?syn-25a6b1a6=1))
-- Software stocks spared in tech rout as AI narrative shifts (FT, [10 hours ago](https://www.ft.com/content/90b82a64-4f58-45d7-8a6a-4c2730545b65?syn-25a6b1a6=1))
-- Nvidia halts chip shipments to south-east Asia (FT, [10 hours ago](https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1))
-- How Britain taxed itself into a corner (FT, [10 hours ago](https://www.ft.com/content/168aa97b-1a58-480e-a995-31287308432f?syn-25a6b1a6=1))
-- How ‘Friendsgiving’ took over in America (FT, [10 hours ago](https://www.ft.com/content/f565c249-c7c6-4b4c-935e-32d4b36294c3))
-- India’s government ponders cradle to grave AI oversight (Register, [11 hours ago](https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275))
-- ‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback (FT, [14 hours ago](https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1))
-- Chelsea Cobham Next Gen discover EFL Trophy Round of 32 opponents (CFC, [21 hours ago](https://www.chelseafc.com/en/news/article/chelsea-cobham-next-gen-discover-efl-trophy-round-of-32-opponents))
-- Training gallery: Focused on Forest (CFC, [22 hours ago](https://www.chelseafc.com/en/news/article/training-gallery-focused-on-forest-26-27-a))
+- UK: London's Cake and Bake Show honours David Attenborough's centenary (Euronews, [10 minutes ago](https://www.euronews.com/video/2026/11/27/uk-londons-cake-and-bake-show-honours-david-attenboroughs-centenary))
+- US tech stocks rise in latest market swing (FT, [20 minutes ago](https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1))
+- Black Friday: Where in Europe are shoppers the gloomiest? (Euronews, [20 minutes ago](https://www.euronews.com/2026/11/27/black-friday-where-in-europe-are-shoppers-the-gloomiest))
+- Trump tariffs brought EU and Indonesia closer on trade, minister tells Euronews (Euronews, [30 minutes ago](https://www.euronews.com/2026/11/27/trump-tariffs-brought-eu-and-indonesia-closer-on-trade-minister-tells-euronews))
+- 'Colourful and complicated': New London Museum promises to show city in all its glory (Euronews, [53 minutes ago](https://www.euronews.com/2026/11/27/colourful-and-complicated-new-london-museum-promises-to-show-city-in-all-its-glory))
+- Bill for Birmingham's Oracle debacle reaches £128M (Register, [56 minutes ago](https://www.theregister.com/public-sector/2026/11/27/bill-for-birminghams-oracle-debacle-reaches-128m/5312563))
+- A green valley with a circular twist: Austria´s  shapes the sustainable tech of tomorrow (Euronews, [58 minutes ago](https://www.euronews.com/2026/11/27/a-green-valley-with-a-circular-twist-austrias-shapes-the-sustainable-tech-of-tomorrow))
+- What kit are Chelsea wearing against Nottingham Forest? (CFC, [59 minutes ago](https://www.chelseafc.com/en/news/article/what-kit-are-chelsea-wearing-against-nottingham-forest))
+- Uzbekistan and Kazakhstan reopen key border crossing for up to 100,000 travellers a day (Euronews, [1 hours ago](https://www.euronews.com/2026/11/27/uzbekistan-and-kazakhstan-reopen-key-border-crossing-for-up-to-100000-travellers-a-day))
+- EU budget summit collapses as row over money exposes clash over Europe's strategic tasks (Euronews, [1 hours ago](https://www.euronews.com/2026/11/27/eu-budget-summit-collapses-as-row-over-money-exposes-clash-over-europes-strategic-tasks))
+- ‘Live and ongoing’ cyber incident takes down UK Department for Work and Pensions online services (Euronews, [1 hours ago](https://www.euronews.com/2026/11/27/live-and-ongoing-cyber-incident-takes-down-uk-department-for-work-and-pensions-online-serv))
+- Meet Eba, the 11-year-old poop-sniffing dog helping to protect endangered orcas (Euronews, [1 hours ago](https://www.euronews.com/2026/11/27/meet-eba-the-11-year-old-poop-sniffing-dog-helping-to-protect-endangered-orcas))
+- North Korea halts Russia military aid over Seoul row, Kyiv says (Euronews, [2 hours ago](https://www.euronews.com/2026/11/27/north-korea-halts-russia-military-aid-over-seoul-row-kyiv-says))
+- UK government rejects national consultation on AI datacenters (Register, [2 hours ago](https://www.theregister.com/off-prem/2026/11/27/uk-government-rejects-national-consultation-on-ai-datacenters/5312501))
+- First principles to cling to when markets convulse (FT, [2 hours ago](https://www.ft.com/content/839c7d2c-adad-4e70-9abd-3cd5bdf5e09e?syn-25a6b1a6=1))
+- Lloyds and Bank of Scotland apps fall over on payday (Register, [2 hours ago](https://www.theregister.com/applications/2026/11/27/lloyds-and-bank-of-scotland-apps-fall-over-on-payday/5312566))
+- French economy shrinks 0.2% in third quarter (FT, [3 hours ago](https://www.ft.com/content/5325ace3-d69a-4686-acb6-2f06de6afd11?syn-25a6b1a6=1))
+- Europe's AI sovereignty push: Lots of cloud, not much silver lining (Register, [3 hours ago](https://www.theregister.com/ai-and-ml/2026/11/27/europes-ai-sovereignty-push-lots-of-cloud-not-much-silver-lining/5312120))
+- Football hospitality tickets – Club Chelsea’s VIP Premier League package gifting and Blue Friday offers are here (CFC, [3 hours ago](https://www.chelseafc.com/en/news/article/football-hospitality-tickets-club-chelseas-vip-premier-league-package))
+- Chelsea star Katie McCabe nominated for WSL Player of the Month (CFC, [3 hours ago](https://www.chelseafc.com/en/news/article/chelsea-star-katie-mccabe-nominated-for-wsl-player-of-the-month))
+- AI boom leaves network operators waiting up to 18 months for kit (Register, [4 hours ago](https://www.theregister.com/networks/2026/11/27/ai-boom-leaves-network-operators-waiting-up-to-18-months-for-kit/5312366))
+- British social security system techies yank services offline following 'cyber incident' (Register, [4 hours ago](https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522))
+- Royal Navy orders £142M in minehunting drones from US supplier (Register, [5 hours ago](https://www.theregister.com/offbeat/2026/11/27/royal-navy-orders-142m-in-minehunting-drones-from-us-supplier/5312291))
+- We’ve got your matchday covered in the Chelsea Official App! (CFC, [5 hours ago](https://www.chelseafc.com/en/news/article/weve-got-your-matchday-covered-in-the-chelsea-official-app))
+- Alonso urges focus and concentration ahead of Nottingham Forest (CFC, [5 hours ago](https://www.chelseafc.com/en/news/article/alonso-urges-focus-and-concentration-ahead-of-nottingham-forest))
+- Chinese shares soar after Beijing signals more support (FT, [6 hours ago](https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e?syn-25a6b1a6=1))
+- Chelsea fans’ preferred lineup against Nottingham Forest: How many votes did Fofana get? (WAGNH, [6 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/174370/chelsea-fans-preferred-lineup-against-nottingham-forest-how-many-votes-did-fofana-get))
+- The Daily Hilario: Friday (WAGNH, [6 hours ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/174356/the-daily-hilario-november-27th))
+- Support team put in an emergency order for vodka – lots of vodka – to bring PCs back online (Register, [7 hours ago](https://www.theregister.com/on-prem/2026/11/27/support-team-put-in-an-emergency-order-for-vodka-lots-of-vodka-to-bring-pcs-back-online/5312283))
+- Hong Kong seeks to lure sovereign wealth funds with tax breaks (FT, [8 hours ago](https://www.ft.com/content/0285a2eb-5312-443d-bd60-b094af9575b1?syn-25a6b1a6=1))
+- Nottingham Forest vs. Chelsea, Premier League: Preview, team news, how to watch (WAGNH, [8 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/174360/nottingham-forest-vs-chelsea-premier-league-preview-team-news-how-to-watch))
+- Nottingham Forest vs Chelsea: All you need to know (CFC, [8 hours ago](https://www.chelseafc.com/en/news/article/nottingham-forest-vs-chelsea-all-you-need-to-know-26-27))
+- AWS adds virtual iPhones to its cloud (Register, [9 hours ago](https://www.theregister.com/off-prem/2026/11/27/aws-adds-virtual-iphones-to-its-cloud/5312457))
+- Kirkland & Ellis under fire from private equity backers over sell-to-yourself deals (FT, [9 hours ago](https://www.ft.com/content/5cc534e6-d461-4fc7-a744-b938e54eee1d?syn-25a6b1a6=1))
+- Middle-class Americans and Europeans have opposite problems (FT, [9 hours ago](https://www.ft.com/content/047e1a9d-0448-4ccd-aaec-c5c06125d111?syn-25a6b1a6=1))
+- Marine Le Pen: the woman who could break the EU (FT, [9 hours ago](https://www.ft.com/content/9bbd926e-ccef-4717-9044-48a23c9353ba?syn-25a6b1a6=1))
+- Warsh’s ‘good family fight’ could turn ugly (FT, [9 hours ago](https://www.ft.com/content/71ffa69f-2a07-44e4-8305-ae5548b89828?syn-25a6b1a6=1))
+- Chinese households shed billions in consumer debt (FT, [9 hours ago](https://www.ft.com/content/8c5e0298-58f0-47e9-a843-513178d9fa2e?syn-25a6b1a6=1))
+- OTD: Rare John Terry brace helps Chelsea thump Charlton (CFC, [12 hours ago](https://www.chelseafc.com/en/news/article/otd-rare-john-terry-brace-helps-chelsea-thump-charlton))
+- Free e-government platform that serves two billion people in ten countries has critical SQL injection bug (Register, [13 hours ago](https://www.theregister.com/security/2026/11/27/free-e-government-platform-that-serves-two-billion-people-in-ten-countries-has-critical-sql-injection-bug/5312449))
+- Nottingham Forest vs Chelsea  Focused on three points (CFC, [14 hours ago](https://www.chelseafc.com/en/video/hype-pre-nottingham-forest-a-premier-league-2026-27))
+- Cobham Unseen: pre-Nottingham Forest (a) (CFC, [14 hours ago](https://www.chelseafc.com/en/video/cobham-unseen-pre-nottingham-forest-a-premier-league-2026-27))
+- Alonso on utilising Emegha’s power and handling 'chaotic situations' (CFC, [19 hours ago](https://www.chelseafc.com/en/news/article/alonso-on-utilising-emeghas-power-and-handling-chaotic-situations))
+- Moisés Caicedo, Wesley Fofana available for selection for Chelsea against Nottingham Forest (WAGNH, [20 hours ago](https://weaintgotnohistory.sbnation.com/premier-league/174351/moises-caicedo-wesley-fofana-available-for-selection-for-chelsea-against-nottingham-forest))
 
 <!-- news_marker ends -->
 
@@ -118,7 +125,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > Mary Celeste - noun: A place inexplicably deserted.
+ > Titanic clause - noun: A provision in a will specifying how an estate is to be distributed if the intended beneficiaries die before they can inherit, especially in a common disaster.
 
 <!-- word_marker ends -->
 
@@ -126,22 +133,22 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- quote_marker starts -->
 
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler, Author and Programmer
+> There is no sense in being precise when you do not even know what you are talking about. - John von Neumann, Physicist
 
 <!-- quote_marker ends -->
 
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
-> Ask people to work against their better judgment
+> Use an unacceptable color
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
-- Hansel And Gretel Witch Hunters (Rated: 7)
-- Released in 2013
+- James Bond: A View To A Kill (Rated: 4)
+- Released in 1985
 - Summary: No summary available
 <!-- film_marker ends -->
 
@@ -149,12 +156,12 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- game_marker starts -->
 
-- Target: 387, using [3, 7, 10, 25, 50, 75]
+- Target: 655, using [8, 9, 9, 10, 25, 50]
 - Answer: 7 solutions.
 
 - <details><summary><code>Solution</code></summary>
 
-  Solution: ( 75 + 50 + 10 ) x 3 + 7 - 25
+  Solution: ( 50 - 10 ) x ( 9 + 8 ) - 25
 
    </details>
 
@@ -163,9 +170,9 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
-- Cloudflare [URL](https://blog.cloudflare.com/) [Feed](https://blog.cloudflare.com/rss/)
-- Marco Arment [URL](https://marco.org/) [Feed](http://www.marco.org/rss)
-- Zwift Insider [URL](https://zwiftinsider.com/) [Feed](https://zwiftinsider.com/feed/)
-- The Sweet Setup [URL](https://thesweetsetup.com/) [Feed](https://thesweetsetup.com/feed/)
-- Information is Beautiful [URL](https://informationisbeautiful.net/) [Feed](http://feeds.feedburner.com/InformationIsBeautiful)
+- Nate Silver [URL](https://www.natesilver.net/) [Feed](https://www.natesilver.net/feed)
+- Six Colors [URL](https://sixcolors.com/?feed=json) [Feed](https://sixcolors.com/feed.json)
+- Callum A-R [URL](https://cakehurstryan.com/) [Feed](https://callumakehurstryansblog.wordpress.com/feed/)
+- Robb Owen [URL](http://robbowen.digital/) [Feed](https://robbowen.digital/feed.xml)
+- Jenn Schiffer [URL](https://livelaugh.blog/) [Feed](https://livelaugh.blog/rss.xml)
 <!-- blogroll_marker ends -->
